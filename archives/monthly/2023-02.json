@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675678850527,
+  "endTime": 1675679795373,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2366961,
+      "num": 2366961,
+      "word": "福原爱向男友前妻道歉",
+      "onboard_time": 1675675468,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 2339204,
       "num": 2339204,
       "word": "张颂文 演技封神",
@@ -369,14 +377,6 @@
       "onboard_time": 1675465516,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2116098,
-      "num": 2116098,
-      "word": "福原爱向男友前妻道歉",
-      "onboard_time": 1675675468,
-      "rank": 30,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 2102309,
@@ -1539,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1086282,
+      "num": 1086282,
+      "word": "月收入5千以下占总人口95%",
+      "onboard_time": 1675677749,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1086072,
       "num": 1086072,
       "word": "唐嫣终于进组拍戏了",
@@ -1953,6 +1961,14 @@
       "onboard_time": 1675330173,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 923765,
+      "num": 475939,
+      "word": "林志颖仍开特斯拉",
+      "onboard_time": 1675678409,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 923359,
@@ -4403,14 +4419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 525727,
-      "num": 525727,
-      "word": "月收入5千以下占总人口95%",
-      "onboard_time": 1675677749,
-      "rank": 10,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 525715,
       "num": 525715,
       "word": "这烟花都对不起自己的块头",
@@ -5193,14 +5201,6 @@
       "onboard_time": 1675327954,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 444508,
-      "num": 444508,
-      "word": "林志颖仍开特斯拉",
-      "onboard_time": 1675678409,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 444072,
@@ -6059,6 +6059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 386072,
+      "num": 386072,
+      "word": "店方回应89元番茄牛腩肉少汤浅",
+      "onboard_time": 1675677688,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385820,
       "num": 385820,
       "word": "时代少年团元宵喜乐会唱第一天",
@@ -6489,6 +6497,14 @@
       "onboard_time": 1675384950,
       "rank": 19,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 357405,
+      "num": 357405,
+      "word": "林孝埈 谢谢大家我回来了",
+      "onboard_time": 1675677089,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 356712,
@@ -6923,6 +6939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 335416,
+      "num": 335416,
+      "word": "狂飙全员撞脸动画片",
+      "onboard_time": 1675678471,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334993,
       "num": 334993,
       "word": "女生爱啃鸭脖甘蔗门牙3次被硌断",
@@ -7249,6 +7273,14 @@
       "onboard_time": 1675592849,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316373,
+      "num": 316373,
+      "word": "妻子拍下老公准备吵架的表情包",
+      "onboard_time": 1675677269,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316331,
@@ -7731,14 +7763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 291420,
-      "num": 291420,
-      "word": "妻子拍下老公准备吵架的表情包",
-      "onboard_time": 1675677269,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291371,
       "num": 217568,
       "word": "我的眼泪狂飙",
@@ -7947,6 +7971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283327,
+      "num": 283327,
+      "word": "FPX对战WBG",
+      "onboard_time": 1675677148,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283146,
       "num": 283146,
       "word": "被人坚定地选择是什么感觉",
@@ -8065,14 +8097,6 @@
       "onboard_time": 1675650749,
       "rank": 36,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 278552,
-      "num": 278552,
-      "word": "店方回应89元番茄牛腩肉少汤浅",
-      "onboard_time": 1675677688,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278217,
@@ -8321,14 +8345,6 @@
       "onboard_time": 1675519353,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 268324,
-      "num": 268324,
-      "word": "FPX对战WBG",
-      "onboard_time": 1675677148,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 268282,
@@ -8939,6 +8955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246188,
+      "num": 246188,
+      "word": "戴尔将裁员6650人",
+      "onboard_time": 1675678648,
+      "rank": 43,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 245942,
       "num": 245942,
       "word": "一件事坚持10年是什么体验",
@@ -9419,6 +9443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227545,
+      "num": 227545,
+      "word": "NCTDREAM日专预告视频",
+      "onboard_time": 1675679008,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227215,
       "num": 227215,
       "word": "梅西单刀破门",
@@ -9803,6 +9835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209906,
+      "num": 209906,
+      "word": "当流浪小狗变成了我的小狗",
+      "onboard_time": 1675678949,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 209579,
       "num": 209579,
       "word": "苹果iPhone业务收入下降8%",
@@ -9817,14 +9857,6 @@
       "onboard_time": 1675581807,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209334,
-      "num": 209334,
-      "word": "林孝埈 谢谢大家我回来了",
-      "onboard_time": 1675677089,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 208123,
@@ -10283,14 +10315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195458,
-      "num": 195458,
-      "word": "狂飙全员撞脸动画片",
-      "onboard_time": 1675678471,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195443,
       "num": 195443,
       "word": "孙悦复古烟熏眼妆造型",
@@ -10393,6 +10417,14 @@
       "onboard_time": 1675430973,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193278,
+      "num": 193278,
+      "word": "地震已致土耳其912人遇难",
+      "onboard_time": 1675679491,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193231,
@@ -11915,6 +11947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159058,
+      "num": 159058,
+      "word": "Aster被控诉拖欠工资",
+      "onboard_time": 1675679128,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159053,
       "num": 159053,
       "word": "电锯人",
@@ -12369,14 +12409,6 @@
       "onboard_time": 1675173939,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145069,
-      "num": 145069,
-      "word": "戴尔将裁员6650人",
-      "onboard_time": 1675678648,
-      "rank": 43,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 144910,

@@ -1,7 +1,15 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675678850527,
+  "endTime": 1675679795373,
   "band_list": [
+    {
+      "raw_hot": 2366961,
+      "num": 2366961,
+      "word": "福原爱向男友前妻道歉",
+      "onboard_time": 1675675468,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
     {
       "raw_hot": 2265486,
       "num": 2265486,
@@ -17,14 +25,6 @@
       "onboard_time": 1675651467,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2116098,
-      "num": 2116098,
-      "word": "福原爱向男友前妻道歉",
-      "onboard_time": 1675675468,
-      "rank": 30,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 2057929,
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1086282,
+      "num": 1086282,
+      "word": "月收入5千以下占总人口95%",
+      "onboard_time": 1675677749,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1081700,
       "num": 1081700,
       "word": "李承铉脖子上挂的是奶嘴",
@@ -257,6 +265,14 @@
       "onboard_time": 1675651587,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 923765,
+      "num": 475939,
+      "word": "林志颖仍开特斯拉",
+      "onboard_time": 1675678409,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 903358,
@@ -555,14 +571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 525727,
-      "num": 525727,
-      "word": "月收入5千以下占总人口95%",
-      "onboard_time": 1675677749,
-      "rank": 10,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 525715,
       "num": 525715,
       "word": "这烟花都对不起自己的块头",
@@ -657,14 +665,6 @@
       "onboard_time": 1675649847,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 444508,
-      "num": 444508,
-      "word": "林志颖仍开特斯拉",
-      "onboard_time": 1675678409,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 442334,
@@ -851,6 +851,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 386072,
+      "num": 386072,
+      "word": "店方回应89元番茄牛腩肉少汤浅",
+      "onboard_time": 1675677688,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377972,
       "num": 377972,
       "word": "建议将年龄歧视纳入反就业歧视范畴",
@@ -888,6 +896,14 @@
       "word": "想看林孝埈对决黄大宪要到下赛季了",
       "onboard_time": 1675665088,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 357405,
+      "num": 357405,
+      "word": "林孝埈 谢谢大家我回来了",
+      "onboard_time": 1675677089,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -963,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335416,
+      "num": 335416,
+      "word": "狂飙全员撞脸动画片",
+      "onboard_time": 1675678471,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334712,
       "num": 334712,
       "word": "张晨张常宁父亲因病去世",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1675675768,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316373,
+      "num": 316373,
+      "word": "妻子拍下老公准备吵架的表情包",
+      "onboard_time": 1675677269,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316167,
@@ -1131,14 +1163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 291420,
-      "num": 291420,
-      "word": "妻子拍下老公准备吵架的表情包",
-      "onboard_time": 1675677269,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289859,
       "num": 289859,
       "word": "车主称会起诉故意推倒摩托老人继承人",
@@ -1171,6 +1195,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 283327,
+      "num": 283327,
+      "word": "FPX对战WBG",
+      "onboard_time": 1675677148,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281308,
       "num": 281308,
       "word": "为什么现在年轻人不想结婚了",
@@ -1185,14 +1217,6 @@
       "onboard_time": 1675650749,
       "rank": 36,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 278552,
-      "num": 278552,
-      "word": "店方回应89元番茄牛腩肉少汤浅",
-      "onboard_time": 1675677688,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277336,
@@ -1225,14 +1249,6 @@
       "onboard_time": 1675665806,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268324,
-      "num": 268324,
-      "word": "FPX对战WBG",
-      "onboard_time": 1675677148,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 268254,
@@ -1313,6 +1329,14 @@
       "onboard_time": 1675654829,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 246188,
+      "num": 246188,
+      "word": "戴尔将裁员6650人",
+      "onboard_time": 1675678648,
+      "rank": 43,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 244693,
@@ -1419,6 +1443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227545,
+      "num": 227545,
+      "word": "NCTDREAM日专预告视频",
+      "onboard_time": 1675679008,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 224051,
       "num": 224051,
       "word": "为什么现在都盛行打九价",
@@ -1459,12 +1491,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209334,
-      "num": 209334,
-      "word": "林孝埈 谢谢大家我回来了",
-      "onboard_time": 1675677089,
+      "raw_hot": 209906,
+      "num": 209906,
+      "word": "当流浪小狗变成了我的小狗",
+      "onboard_time": 1675678949,
       "rank": 32,
-      "category": "体育"
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 206013,
@@ -1523,12 +1555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195458,
-      "num": 195458,
-      "word": "狂飙全员撞脸动画片",
-      "onboard_time": 1675678471,
-      "rank": 33,
-      "category": "影视"
+      "raw_hot": 193278,
+      "num": 193278,
+      "word": "地震已致土耳其912人遇难",
+      "onboard_time": 1675679491,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193087,
@@ -1747,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159058,
+      "num": 159058,
+      "word": "Aster被控诉拖欠工资",
+      "onboard_time": 1675679128,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158831,
       "num": 158831,
       "word": "顾客质疑158元烤鸭上桌仅有半只",
@@ -1841,14 +1881,6 @@
       "onboard_time": 1675599452,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 145069,
-      "num": 145069,
-      "word": "戴尔将裁员6650人",
-      "onboard_time": 1675678648,
-      "rank": 43,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 142488,
