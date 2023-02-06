@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675679795373,
+  "endTime": 1675682139083,
   "band_list": [
     {
       "raw_hot": 2366961,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1750080,
+      "num": 1750080,
+      "word": "土耳其附近发生8.0级左右地震",
+      "onboard_time": 1675680269,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1657129,
       "num": 1657129,
       "word": "土耳其发生7.8级地震",
@@ -87,6 +95,14 @@
       "num": 1602431,
       "word": "九价HPV疫苗现捆绑销售",
       "onboard_time": 1675658314,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1567849,
+      "num": 1567849,
+      "word": "土耳其一天内两次7.8级强震",
+      "onboard_time": 1675681289,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -104,6 +120,22 @@
       "word": "曝李秀满被公司单方面宣布退出",
       "onboard_time": 1675655909,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1495468,
+      "num": 1495468,
+      "word": "月收入5千以下占总人口95%",
+      "onboard_time": 1675677749,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1431695,
+      "num": 1431695,
+      "word": "林志颖仍开特斯拉",
+      "onboard_time": 1675678409,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -187,14 +219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1086282,
-      "num": 1086282,
-      "word": "月收入5千以下占总人口95%",
-      "onboard_time": 1675677749,
-      "rank": 10,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 1081700,
       "num": 1081700,
       "word": "李承铉脖子上挂的是奶嘴",
@@ -251,6 +275,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 938797,
+      "num": 938797,
+      "word": "地震已致土耳其912人遇难",
+      "onboard_time": 1675679491,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 936746,
       "num": 936746,
       "word": "宁理 导演这次我杀谁",
@@ -265,14 +297,6 @@
       "onboard_time": 1675651587,
       "rank": 43,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 923765,
-      "num": 475939,
-      "word": "林志颖仍开特斯拉",
-      "onboard_time": 1675678409,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 903358,
@@ -363,6 +387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 760913,
+      "num": 760913,
+      "word": "30岁男子发现56岁老妈生二胎",
+      "onboard_time": 1675680450,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 742134,
       "num": 742134,
       "word": "林孝埈连夺两金",
@@ -385,6 +417,14 @@
       "onboard_time": 1675670249,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 678006,
+      "num": 678006,
+      "word": "7pm 好听",
+      "onboard_time": 1675680691,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 664788,
@@ -417,6 +457,14 @@
       "onboard_time": 1675642167,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 643707,
+      "num": 643707,
+      "word": "林孝埈 谢谢大家我回来了",
+      "onboard_time": 1675677089,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 633694,
@@ -481,6 +529,14 @@
       "onboard_time": 1675676123,
       "rank": 7,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 563324,
+      "num": 563324,
+      "word": "刘培强的AI修复还是保守了",
+      "onboard_time": 1675680512,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 560137,
@@ -675,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 439745,
+      "num": 439745,
+      "word": "直击土耳其地震救援现场",
+      "onboard_time": 1675665806,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437694,
       "num": 437694,
       "word": "丈夫偷拍妻子在副驾吃喝睡780公里",
@@ -728,6 +792,14 @@
       "word": "白鹿张凌赫片场斗嘴花絮",
       "onboard_time": 1675656632,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 427586,
+      "num": 427586,
+      "word": "狂飙全员撞脸动画片",
+      "onboard_time": 1675678471,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -819,6 +891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 395061,
+      "num": 395061,
+      "word": "店方回应89元番茄牛腩肉少汤浅",
+      "onboard_time": 1675677688,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394966,
       "num": 394966,
       "word": "洋迪已被注册商标",
@@ -849,14 +929,6 @@
       "onboard_time": 1675620855,
       "rank": 47,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 386072,
-      "num": 386072,
-      "word": "店方回应89元番茄牛腩肉少汤浅",
-      "onboard_time": 1675677688,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377972,
@@ -896,14 +968,6 @@
       "word": "想看林孝埈对决黄大宪要到下赛季了",
       "onboard_time": 1675665088,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 357405,
-      "num": 357405,
-      "word": "林孝埈 谢谢大家我回来了",
-      "onboard_time": 1675677089,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -979,14 +1043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 335416,
-      "num": 335416,
-      "word": "狂飙全员撞脸动画片",
-      "onboard_time": 1675678471,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 334712,
       "num": 334712,
       "word": "张晨张常宁父亲因病去世",
@@ -1019,6 +1075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 329279,
+      "num": 329279,
+      "word": "妻子拍下老公准备吵架的表情包",
+      "onboard_time": 1675677269,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327605,
       "num": 327605,
       "word": "开学典礼校长用张颂文故事激励学生",
@@ -1033,14 +1097,6 @@
       "onboard_time": 1675675768,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 316373,
-      "num": 316373,
-      "word": "妻子拍下老公准备吵架的表情包",
-      "onboard_time": 1675677269,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316167,
@@ -1187,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286317,
+      "num": 286317,
+      "word": "戴尔将裁员6650人",
+      "onboard_time": 1675678648,
+      "rank": 43,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 284277,
       "num": 284277,
       "word": "是狂飙同款没错了",
@@ -1243,20 +1307,20 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 270823,
-      "num": 270823,
-      "word": "直击土耳其地震救援现场",
-      "onboard_time": 1675665806,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268254,
       "num": 268254,
       "word": "周深躲不过初一也躲不过十五",
       "onboard_time": 1675640060,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265681,
+      "num": 265681,
+      "word": "WBG战胜FPX",
+      "onboard_time": 1675680989,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 265274,
@@ -1329,14 +1393,6 @@
       "onboard_time": 1675654829,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 246188,
-      "num": 246188,
-      "word": "戴尔将裁员6650人",
-      "onboard_time": 1675678648,
-      "rank": 43,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 244693,
@@ -1555,14 +1611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193278,
-      "num": 193278,
-      "word": "地震已致土耳其912人遇难",
-      "onboard_time": 1675679491,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193087,
       "num": 193087,
       "word": "夏花",
@@ -1675,6 +1723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 171804,
+      "num": 171804,
+      "word": "现场看林孝埈夺冠太燃了",
+      "onboard_time": 1675681647,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170578,
       "num": 170578,
       "word": "床也没想过能受这么大礼",
@@ -1721,6 +1777,14 @@
       "onboard_time": 1675674568,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166438,
+      "num": 166438,
+      "word": "我的开学之光",
+      "onboard_time": 1675681408,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 165419,
@@ -1785,6 +1849,14 @@
       "onboard_time": 1675679128,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159012,
+      "num": 159012,
+      "word": "杨超越的择偶标准",
+      "onboard_time": 1675681170,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 158831,
@@ -2124,7 +2196,7 @@
     },
     {
       "raw_hot": 59792,
-      "num": 1347306,
+      "num": 1656145,
       "word": "流动的中国活力",
       "onboard_time": 1675669826,
       "rank": 2,
