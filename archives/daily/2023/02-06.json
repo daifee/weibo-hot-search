@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675687047667,
+  "endTime": 1675688386959,
   "band_list": [
     {
       "raw_hot": 2366961,
@@ -235,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1123008,
+      "num": 1123008,
+      "word": "男子结婚当天前女友们现场拉横幅",
+      "onboard_time": 1675683089,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1081700,
       "num": 1081700,
       "word": "李承铉脖子上挂的是奶嘴",
@@ -297,14 +305,6 @@
       "onboard_time": 1675649668,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 954829,
-      "num": 954829,
-      "word": "男子结婚当天前女友们现场拉横幅",
-      "onboard_time": 1675683089,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 943659,
@@ -491,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 660631,
+      "num": 660631,
+      "word": "刘慈欣二刷流浪地球2发现小bug",
+      "onboard_time": 1675685070,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 652949,
       "num": 652949,
       "word": "陈书婷ootd",
@@ -523,12 +531,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 640157,
+      "num": 640157,
+      "word": "贾冰回复网友一定要支持正版",
+      "onboard_time": 1675686807,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 633694,
       "num": 633694,
       "word": "满江红实时票房破40亿",
       "onboard_time": 1675662747,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 631704,
+      "num": 631704,
+      "word": "土耳其大批运动员被埋废墟",
+      "onboard_time": 1675685729,
+      "rank": 30,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 629485,
@@ -585,14 +609,6 @@
       "onboard_time": 1675676123,
       "rank": 7,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 561611,
-      "num": 561611,
-      "word": "刘慈欣二刷流浪地球2发现小bug",
-      "onboard_time": 1675685070,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 560137,
@@ -787,12 +803,36 @@
       "category": "科技"
     },
     {
+      "raw_hot": 458719,
+      "num": 458719,
+      "word": "边伯贤chu手势舞",
+      "onboard_time": 1675687289,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 456165,
+      "num": 456165,
+      "word": "赵樱子扮演的裘千尺",
+      "onboard_time": 1675684647,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442334,
       "num": 442334,
       "word": "格莱美",
       "onboard_time": 1675606354,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 438652,
+      "num": 438652,
+      "word": "狂飙收视战报",
+      "onboard_time": 1675687409,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 437694,
@@ -825,14 +865,6 @@
       "onboard_time": 1675652847,
       "rank": 39,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 432381,
-      "num": 432381,
-      "word": "赵樱子扮演的裘千尺",
-      "onboard_time": 1675684647,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 432056,
@@ -872,6 +904,14 @@
       "word": "张颂文在剧组狂推粤语",
       "onboard_time": 1675658375,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 423298,
+      "num": 423298,
+      "word": "张译演反派吓到岳云鹏",
+      "onboard_time": 1675687409,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -1027,14 +1067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 369879,
-      "num": 210564,
-      "word": "土耳其大批运动员被埋废墟",
-      "onboard_time": 1675685729,
-      "rank": 30,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 366536,
       "num": 366536,
       "word": "男孩通宵赶完的作业被狗子全部撕碎",
@@ -1171,6 +1203,14 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 324256,
+      "num": 324256,
+      "word": "她的寒假作业是吹出来的",
+      "onboard_time": 1675687047,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 319551,
       "num": 319551,
       "word": "鹿晗五哈疯狂炫醋",
@@ -1224,6 +1264,14 @@
       "word": "土耳其地震已致土叙300余人死亡",
       "onboard_time": 1675670907,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308427,
+      "num": 308427,
+      "word": "强震已致土耳其叙利亚超1400人遇难",
+      "onboard_time": 1675679491,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1296,6 +1344,14 @@
       "word": "图丫丫的房间壁纸条形码被解码了",
       "onboard_time": 1675662088,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 291243,
+      "num": 291243,
+      "word": "万茜刘敏涛新剧好带感",
+      "onboard_time": 1675685370,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -1385,14 +1441,6 @@
       "onboard_time": 1675648708,
       "rank": 30,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 271200,
-      "num": 271200,
-      "word": "万茜刘敏涛新剧好带感",
-      "onboard_time": 1675685370,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 268478,
@@ -1603,11 +1651,11 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 230308,
-      "num": 230308,
-      "word": "贾冰回复网友一定要支持正版",
-      "onboard_time": 1675686807,
-      "rank": 26,
+      "raw_hot": 228775,
+      "num": 228775,
+      "word": "三体潘寒下线",
+      "onboard_time": 1675687889,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -1657,6 +1705,14 @@
       "onboard_time": 1675632432,
       "rank": 48,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 214944,
+      "num": 214944,
+      "word": "中国飞艇不会对任何国家造成任何威胁",
+      "onboard_time": 1675686510,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 214606,
@@ -1867,20 +1923,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 174841,
-      "num": 174841,
-      "word": "中国飞艇不会对任何国家造成任何威胁",
-      "onboard_time": 1675686510,
-      "rank": 39,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 173461,
       "num": 173461,
       "word": "汤圆",
       "onboard_time": 1675625292,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 171282,
+      "num": 171282,
+      "word": "声生不息台湾音乐回忆大赏",
+      "onboard_time": 1675688128,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 170578,
@@ -2059,6 +2115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153597,
+      "num": 153597,
+      "word": "邢菲新剧带娃花絮",
+      "onboard_time": 1675688369,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153232,
       "num": 153232,
       "word": "太阳有意追逐杜兰特",
@@ -2201,6 +2265,14 @@
       "onboard_time": 1675643848,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126827,
+      "num": 126827,
+      "word": "英超指控曼城违反财务规则",
+      "onboard_time": 1675687108,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 123873,
@@ -2347,20 +2419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60664,
+      "num": 998592,
+      "word": "太空视角看灯火里的中国",
+      "onboard_time": 1675669888,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 59792,
       "num": 1656145,
       "word": "流动的中国活力",
       "onboard_time": 1675669826,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25192,
-      "num": 998592,
-      "word": "太空视角看灯火里的中国",
-      "onboard_time": 1675669888,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 17931,

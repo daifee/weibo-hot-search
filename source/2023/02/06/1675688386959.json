@@ -1,0 +1,410 @@
+{
+  "runTime": 1675688386959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1123008,
+        "num": 1123008,
+        "word": "男子结婚当天前女友们现场拉横幅",
+        "onboard_time": 1675683089,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1053939,
+        "num": 1053939,
+        "word": "福原爱向男友前妻道歉",
+        "onboard_time": 1675675468,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 60664,
+        "num": 895412,
+        "word": "太空视角看灯火里的中国",
+        "onboard_time": 1675669888,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1429054,
+        "num": 883942,
+        "word": "王俊凯给车牌打码",
+        "onboard_time": 1675684232,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 866271,
+        "num": 866271,
+        "word": "土耳其附近发生8.0级左右地震",
+        "onboard_time": 1675680269,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831477,
+        "num": 831477,
+        "word": "杨紫绿色抹胸纱裙",
+        "onboard_time": 1675683208,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 807146,
+        "num": 807146,
+        "word": "沈阳的澡堂子还能漂流",
+        "onboard_time": 1675683327,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 744110,
+        "num": 744110,
+        "word": "土耳其一天内两次7.8级强震",
+        "onboard_time": 1675681289,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735121,
+        "num": 735121,
+        "word": "林志颖仍开特斯拉",
+        "onboard_time": 1675678409,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1328549,
+        "num": 719520,
+        "word": "男生骑车被劳斯莱斯撞倒笑出了声",
+        "onboard_time": 1675682730,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842797,
+        "num": 717783,
+        "word": "30岁男子发现56岁老妈生二胎",
+        "onboard_time": 1675680450,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660631,
+        "num": 660631,
+        "word": "刘慈欣二刷流浪地球2发现小bug",
+        "onboard_time": 1675685070,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 640157,
+        "num": 640157,
+        "word": "贾冰回复网友一定要支持正版",
+        "onboard_time": 1675686807,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 631704,
+        "num": 631704,
+        "word": "土耳其大批运动员被埋废墟",
+        "onboard_time": 1675685729,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 542605,
+        "num": 542605,
+        "word": "边伯贤直播",
+        "onboard_time": 1675682549,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496466,
+        "num": 496466,
+        "word": "美方称发现第二个来自中国的气球",
+        "onboard_time": 1675674329,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458719,
+        "num": 458719,
+        "word": "边伯贤chu手势舞",
+        "onboard_time": 1675687289,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 456165,
+        "num": 456165,
+        "word": "赵樱子扮演的裘千尺",
+        "onboard_time": 1675684647,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438652,
+        "num": 438652,
+        "word": "狂飙收视战报",
+        "onboard_time": 1675687409,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423298,
+        "num": 423298,
+        "word": "张译演反派吓到岳云鹏",
+        "onboard_time": 1675687409,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367945,
+        "num": 367945,
+        "word": "原来笨笨是柯基",
+        "onboard_time": 1675684167,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344496,
+        "num": 344496,
+        "word": "直击土耳其地震救援现场",
+        "onboard_time": 1675665806,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324256,
+        "num": 324256,
+        "word": "她的寒假作业是吹出来的",
+        "onboard_time": 1675687047,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 308427,
+        "num": 308427,
+        "word": "强震已致土耳其叙利亚超1400人遇难",
+        "onboard_time": 1675679491,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304984,
+        "num": 304984,
+        "word": "林孝埈 谢谢大家我回来了",
+        "onboard_time": 1675677089,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304166,
+        "num": 304166,
+        "word": "7pm 好听",
+        "onboard_time": 1675680691,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292380,
+        "num": 292380,
+        "word": "刘培强的AI修复还是保守了",
+        "onboard_time": 1675680512,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291243,
+        "num": 291243,
+        "word": "万茜刘敏涛新剧好带感",
+        "onboard_time": 1675685370,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267189,
+        "num": 267189,
+        "word": "鞠婧祎韩菱纱红衣造型路透",
+        "onboard_time": 1675685966,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243396,
+        "num": 243396,
+        "word": "陈思诚说朱一龙太文质彬彬了",
+        "onboard_time": 1675674390,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228775,
+        "num": 228775,
+        "word": "三体潘寒下线",
+        "onboard_time": 1675687889,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227371,
+        "num": 227371,
+        "word": "狂飙全员撞脸动画片",
+        "onboard_time": 1675678471,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215808,
+        "num": 215808,
+        "word": "为什么现在年轻人不想结婚了",
+        "onboard_time": 1675675229,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214944,
+        "num": 214944,
+        "word": "中国飞艇不会对任何国家造成任何威胁",
+        "onboard_time": 1675686510,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 211038,
+        "num": 211038,
+        "word": "香港女子凌晨通关来深圳吃宵夜",
+        "onboard_time": 1675671568,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199428,
+        "num": 199428,
+        "word": "广州平均月薪11710元",
+        "onboard_time": 1675668149,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 195070,
+        "num": 195070,
+        "word": "为什么银行限制提前还房贷",
+        "onboard_time": 1675673909,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190770,
+        "num": 190770,
+        "word": "朴彩英和VOGUE主编合照",
+        "onboard_time": 1675683570,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187598,
+        "num": 187598,
+        "word": "贾冰说我都这么狠了你们还想笑",
+        "onboard_time": 1675662088,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171282,
+        "num": 171282,
+        "word": "声生不息台湾音乐回忆大赏",
+        "onboard_time": 1675688128,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171005,
+        "num": 171005,
+        "word": "店方回应89元番茄牛腩肉少汤浅",
+        "onboard_time": 1675677688,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153597,
+        "num": 153597,
+        "word": "邢菲新剧带娃花絮",
+        "onboard_time": 1675688369,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148368,
+        "num": 148368,
+        "word": "你理想的结婚年龄是多少岁",
+        "onboard_time": 1675674029,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146256,
+        "num": 146256,
+        "word": "言承旭吐烟圈",
+        "onboard_time": 1675670249,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136509,
+        "num": 136509,
+        "word": "哪本小说你想安利全世界",
+        "onboard_time": 1675686210,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131760,
+        "num": 131760,
+        "word": "连体女婴分离14年后长成健康少女",
+        "onboard_time": 1675665447,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131097,
+        "num": 131097,
+        "word": "AL对战JDG",
+        "onboard_time": 1675686807,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126855,
+        "num": 126855,
+        "word": "现场看林孝埈夺冠太燃了",
+        "onboard_time": 1675681647,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126827,
+        "num": 126827,
+        "word": "英超指控曼城违反财务规则",
+        "onboard_time": 1675687108,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124916,
+        "num": 124916,
+        "word": "第一次见这么窄的房子",
+        "onboard_time": 1675674208,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}
