@@ -1,7 +1,15 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675665513854,
+  "endTime": 1675667822088,
   "band_list": [
+    {
+      "raw_hot": 2265486,
+      "num": 2265486,
+      "word": "林志颖违规停车被罚款",
+      "onboard_time": 1675663767,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2221394,
       "num": 2221394,
@@ -57,14 +65,6 @@
       "onboard_time": 1675642410,
       "rank": 0,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1552542,
-      "num": 1552542,
-      "word": "林志颖违规停车被罚款",
-      "onboard_time": 1675663767,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1518765,
@@ -123,12 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1202297,
+      "num": 1202297,
+      "word": "贾冰说我都这么狠了你们还想笑",
+      "onboard_time": 1675662088,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1081700,
       "num": 1081700,
       "word": "李承铉脖子上挂的是奶嘴",
       "onboard_time": 1675649006,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1071275,
+      "num": 1071275,
+      "word": "连体女婴分离14年后长成健康少女",
+      "onboard_time": 1675665447,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1060545,
@@ -139,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1021725,
+      "num": 1021725,
+      "word": "66岁大叔和女友买新房名字没自己",
+      "onboard_time": 1675664368,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1017737,
       "num": 1017737,
       "word": "周深被人踩了",
@@ -147,12 +171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1012091,
-      "num": 1012091,
-      "word": "贾冰说我都这么狠了你们还想笑",
-      "onboard_time": 1675662088,
-      "rank": 4,
-      "category": "影视"
+      "raw_hot": 1008390,
+      "num": 1008390,
+      "word": "学校组织学生徒步自费看满江红",
+      "onboard_time": 1675665088,
+      "rank": 16,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 966111,
@@ -347,14 +371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 570836,
-      "num": 426790,
-      "word": "66岁大叔和女友买新房名字没自己",
-      "onboard_time": 1675664368,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 560137,
       "num": 560137,
       "word": "毛晓彤真的好漂亮啊",
@@ -409,6 +425,14 @@
       "onboard_time": 1675646009,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524924,
+      "num": 524924,
+      "word": "梁朝伟问周迅无名变喜剧了吗",
+      "onboard_time": 1675665567,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 522081,
@@ -473,6 +497,14 @@
       "onboard_time": 1675649847,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 468950,
+      "num": 203105,
+      "word": "倪妮消失的她短发机车造型",
+      "onboard_time": 1675666587,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 442334,
@@ -579,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 400819,
+      "num": 400819,
+      "word": "哪些人群不建议打九价疫苗",
+      "onboard_time": 1675666348,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397710,
       "num": 298488,
       "word": "湖南高速追尾事故亲历者发声",
@@ -593,6 +633,14 @@
       "onboard_time": 1675655790,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 394966,
+      "num": 394966,
+      "word": "洋迪已被注册商标",
+      "onboard_time": 1675664968,
+      "rank": 27,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 394167,
@@ -691,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334324,
+      "num": 334324,
+      "word": "想看林孝埈对决黄大宪要到下赛季了",
+      "onboard_time": 1675665088,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332843,
       "num": 332843,
       "word": "男子靠邻座女生肩上睡觉被质疑假睡",
@@ -721,14 +777,6 @@
       "onboard_time": 1675646728,
       "rank": 27,
       "category": "教育,艺人"
-    },
-    {
-      "raw_hot": 319778,
-      "num": 319778,
-      "word": "学校组织学生徒步自费看满江红",
-      "onboard_time": 1675665088,
-      "rank": 16,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 316167,
@@ -795,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296402,
+      "num": 296402,
+      "word": "马嘉祺声生不息灰色毛衣上班路透",
+      "onboard_time": 1675666887,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295132,
       "num": 295132,
       "word": "车辆轮胎扎入钉子收费员一下听出",
@@ -841,6 +897,14 @@
       "onboard_time": 1675650749,
       "rank": 36,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 277336,
+      "num": 277336,
+      "word": "千万不要坐着遛狗",
+      "onboard_time": 1675664186,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 273684,
@@ -891,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264284,
+      "num": 264284,
+      "word": "直击土耳其地震救援现场",
+      "onboard_time": 1675665806,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263674,
       "num": 263674,
       "word": "半熟恋人全员为爱举大旗",
@@ -905,14 +977,6 @@
       "onboard_time": 1675649908,
       "rank": 32,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 255372,
-      "num": 255372,
-      "word": "洋迪已被注册商标",
-      "onboard_time": 1675664968,
-      "rank": 27,
-      "category": "财经,艺人"
     },
     {
       "raw_hot": 252997,
@@ -945,6 +1009,14 @@
       "onboard_time": 1675610670,
       "rank": 24,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 242116,
+      "num": 242116,
+      "word": "成毅李一桐英雄志雪景同框路透",
+      "onboard_time": 1675666767,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 237321,
@@ -1019,12 +1091,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 228401,
-      "num": 228401,
-      "word": "千万不要坐着遛狗",
-      "onboard_time": 1675664186,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 221566,
+      "num": 221566,
+      "word": "徐若晗对言承旭说记住你了",
+      "onboard_time": 1675667367,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 216713,
@@ -1041,6 +1113,14 @@
       "onboard_time": 1675654587,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 211229,
+      "num": 202740,
+      "word": "成毅吹笛子",
+      "onboard_time": 1675667126,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 206013,
@@ -1083,6 +1163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 197279,
+      "num": 197279,
+      "word": "海底捞很关心久龙",
+      "onboard_time": 1675667247,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195629,
       "num": 195629,
       "word": "滑联盛赞林孝埈王者归来",
@@ -1112,6 +1200,14 @@
       "word": "迪丽热巴晒元宵节随拍",
       "onboard_time": 1675599690,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188452,
+      "num": 188452,
+      "word": "刘雨昕名誉维权案件进展",
+      "onboard_time": 1675666708,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -1147,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175669,
+      "num": 175669,
+      "word": "火什么时候灭我们什么时候回",
+      "onboard_time": 1675665208,
+      "rank": 43,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 174980,
       "num": 174980,
       "word": "Beyonce格莱美获奖最多音乐人",
@@ -1161,6 +1265,14 @@
       "onboard_time": 1675625292,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 171023,
+      "num": 171023,
+      "word": "任泽平建议法定婚龄降到18岁",
+      "onboard_time": 1675667668,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170578,
@@ -1299,27 +1411,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153509,
-      "num": 153509,
-      "word": "火什么时候灭我们什么时候回",
-      "onboard_time": 1675665208,
-      "rank": 43,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 153232,
       "num": 153232,
       "word": "太阳有意追逐杜兰特",
       "onboard_time": 1675644330,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 150979,
-      "num": 150979,
-      "word": "想看林孝埈对决黄大宪要到下赛季了",
-      "onboard_time": 1675665088,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -1387,14 +1483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132742,
-      "num": 132742,
-      "word": "连体女婴分离14年后长成健康少女",
-      "onboard_time": 1675665447,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132341,
       "num": 132341,
       "word": "玖月奇迹王小玮嫦娥造型唱花腔",
@@ -1433,6 +1521,14 @@
       "onboard_time": 1675604376,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123650,
+      "num": 123650,
+      "word": "消失的她预告信息量",
+      "onboard_time": 1675666408,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 122035,
