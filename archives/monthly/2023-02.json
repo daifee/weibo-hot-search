@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675682139083,
+  "endTime": 1675683214469,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -1835,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 973048,
+      "num": 973048,
+      "word": "30岁男子发现56岁老妈生二胎",
+      "onboard_time": 1675680450,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 971771,
       "num": 971771,
       "word": "女子拒绝底薪1000工作被HR怼",
@@ -2683,14 +2691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 760913,
-      "num": 760913,
-      "word": "30岁男子发现56岁老妈生二胎",
-      "onboard_time": 1675680450,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 759931,
       "num": 731619,
       "word": "程耳王一博半夜去看无名",
@@ -2705,6 +2705,14 @@
       "onboard_time": 1675305164,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756282,
+      "num": 756282,
+      "word": "7pm 好听",
+      "onboard_time": 1675680691,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 756123,
@@ -2841,6 +2849,14 @@
       "onboard_time": 1675500690,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 727052,
+      "num": 727052,
+      "word": "边伯贤直播",
+      "onboard_time": 1675682549,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 723774,
@@ -3211,14 +3227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 678006,
-      "num": 678006,
-      "word": "7pm 好听",
-      "onboard_time": 1675680691,
-      "rank": 9,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 677841,
       "num": 677841,
       "word": "对存款50万以上的征税合理吗",
@@ -3329,6 +3337,14 @@
       "onboard_time": 1675393707,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663059,
+      "num": 663059,
+      "word": "刘培强的AI修复还是保守了",
+      "onboard_time": 1675680512,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 662426,
@@ -4051,14 +4067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 563324,
-      "num": 563324,
-      "word": "刘培强的AI修复还是保守了",
-      "onboard_time": 1675680512,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 562327,
       "num": 562327,
       "word": "中美双方都没有宣布过什么访问",
@@ -4353,6 +4361,14 @@
       "onboard_time": 1675233812,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 535312,
+      "num": 535312,
+      "word": "直击土耳其地震救援现场",
+      "onboard_time": 1675665806,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534711,
@@ -5304,14 +5320,6 @@
       "word": "内地与港澳人员往来全面恢复",
       "onboard_time": 1675389088,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439745,
-      "num": 439745,
-      "word": "直击土耳其地震救援现场",
-      "onboard_time": 1675665806,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -8475,6 +8483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266242,
+      "num": 266242,
+      "word": "李泳知快嘴rap",
+      "onboard_time": 1675682187,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 266240,
       "num": 266240,
       "word": "邢菲武庚纪路透",
@@ -9627,6 +9643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222168,
+      "num": 222168,
+      "word": "现场看林孝埈夺冠太燃了",
+      "onboard_time": 1675681647,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221945,
       "num": 221945,
       "word": "IG对战TT",
@@ -9843,6 +9867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 212056,
+      "num": 212056,
+      "word": "当流浪小狗变成了我的小狗",
+      "onboard_time": 1675678949,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 212039,
       "num": 212039,
       "word": "詹姆斯28分三双",
@@ -9889,14 +9921,6 @@
       "onboard_time": 1675469785,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209906,
-      "num": 209906,
-      "word": "当流浪小狗变成了我的小狗",
-      "onboard_time": 1675678949,
-      "rank": 32,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 209579,
@@ -11179,6 +11203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179484,
+      "num": 179484,
+      "word": "杨超越的择偶标准",
+      "onboard_time": 1675681170,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178144,
       "num": 178144,
       "word": "想看原班人马拍狂飙第二部",
@@ -11451,14 +11483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171804,
-      "num": 171804,
-      "word": "现场看林孝埈夺冠太燃了",
-      "onboard_time": 1675681647,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171607,
       "num": 171607,
       "word": "常见的8大癌症筛查方法",
@@ -11657,6 +11681,14 @@
       "onboard_time": 1675660951,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167449,
+      "num": 167449,
+      "word": "男生骑车被劳斯莱斯撞倒笑出了声",
+      "onboard_time": 1675682730,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167399,
@@ -12025,14 +12057,6 @@
       "onboard_time": 1675208122,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 159012,
-      "num": 159012,
-      "word": "杨超越的择偶标准",
-      "onboard_time": 1675681170,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 158918,
@@ -13073,6 +13097,14 @@
       "onboard_time": 1675666408,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122513,
+      "num": 122513,
+      "word": "男子结婚当天前女友们现场拉横幅",
+      "onboard_time": 1675683089,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122142,
