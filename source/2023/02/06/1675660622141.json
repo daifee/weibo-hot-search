@@ -1,0 +1,410 @@
+{
+  "runTime": 1675660622141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1820706,
+        "num": 1820706,
+        "word": "母亲回应儿子被邻居放炮炸伤致截肢",
+        "onboard_time": 1675656393,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1355231,
+        "num": 1355231,
+        "word": "何广智打算换了72平的大房子",
+        "onboard_time": 1675651467,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123221,
+        "num": 1249766,
+        "word": "坐上高铁去滑雪",
+        "onboard_time": 1675650447,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1211990,
+        "num": 1211990,
+        "word": "九价HPV疫苗现捆绑销售",
+        "onboard_time": 1675658314,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021502,
+        "num": 1021502,
+        "word": "曝李秀满被公司单方面宣布退出",
+        "onboard_time": 1675655909,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 844108,
+        "num": 844108,
+        "word": "网传TFBOYS十周年线下演唱会确定",
+        "onboard_time": 1675655248,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 815967,
+        "num": 815967,
+        "word": "马龙进入国家队二十周年",
+        "onboard_time": 1675655429,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 714718,
+        "num": 714718,
+        "word": "宁理 导演这次我杀谁",
+        "onboard_time": 1675654349,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 623673,
+        "num": 623673,
+        "word": "土耳其发生7.8级地震",
+        "onboard_time": 1675648107,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601139,
+        "num": 601139,
+        "word": "张凌赫点赞欣诚则凌视频",
+        "onboard_time": 1675656691,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 586160,
+        "num": 586160,
+        "word": "韩媒评林孝埈双冠",
+        "onboard_time": 1675650568,
+        "rank": 10,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 569828,
+        "num": 569828,
+        "word": "不必因为父母的普通而自卑",
+        "onboard_time": 1675654948,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 542074,
+        "num": 542074,
+        "word": "报告称北京平均月薪13930元",
+        "onboard_time": 1675657294,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 523504,
+        "num": 523504,
+        "word": "李承铉脖子上挂的是奶嘴",
+        "onboard_time": 1675649006,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514788,
+        "num": 514788,
+        "word": "易烊千玺橙色系运动风造型",
+        "onboard_time": 1675659512,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 514139,
+        "num": 514139,
+        "word": "女子称海鲜市场买到蓝环章鱼险食用",
+        "onboard_time": 1675657294,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475401,
+        "num": 475401,
+        "word": "中方就美方袭击中国飞艇提严正交涉",
+        "onboard_time": 1675651587,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 447440,
+        "num": 447440,
+        "word": "超市拒收1元纸币称银行难存",
+        "onboard_time": 1675658673,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396933,
+        "num": 396933,
+        "word": "孙千腿真长",
+        "onboard_time": 1675655790,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391409,
+        "num": 391409,
+        "word": "陈书婷ootd",
+        "onboard_time": 1675659391,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522332,
+        "num": 385664,
+        "word": "前CBA球员实名举报天津篮协主席",
+        "onboard_time": 1675656449,
+        "rank": 20,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 366536,
+        "num": 366536,
+        "word": "男孩通宵赶完的作业被狗子全部撕碎",
+        "onboard_time": 1675658971,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345381,
+        "num": 345381,
+        "word": "胜利将于2月11日出狱",
+        "onboard_time": 1675648947,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339611,
+        "num": 339611,
+        "word": "格莱美",
+        "onboard_time": 1675606354,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325474,
+        "num": 325474,
+        "word": "Angelababy的羽绒服",
+        "onboard_time": 1675654110,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320941,
+        "num": 320941,
+        "word": "两男子受高薪诱惑想去缅甸挣大钱",
+        "onboard_time": 1675651769,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308390,
+        "num": 308390,
+        "word": "白鹿张凌赫片场斗嘴花絮",
+        "onboard_time": 1675656632,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303868,
+        "num": 303868,
+        "word": "什么样的另一半你会选择结婚",
+        "onboard_time": 1675657172,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290927,
+        "num": 290927,
+        "word": "90后被催婚时的反向操作",
+        "onboard_time": 1675652847,
+        "rank": 28,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 270367,
+        "num": 270367,
+        "word": "张若昀王阳庆余年后二搭",
+        "onboard_time": 1675654110,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264850,
+        "num": 264850,
+        "word": "张颂文的小肉手",
+        "onboard_time": 1675659874,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263395,
+        "num": 263395,
+        "word": "建议将年龄歧视纳入反就业歧视范畴",
+        "onboard_time": 1675655308,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261214,
+        "num": 261214,
+        "word": "你会选择贷款买房吗",
+        "onboard_time": 1675659331,
+        "rank": 32,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 253353,
+        "num": 253353,
+        "word": "狂飙捡手机文学",
+        "onboard_time": 1675653209,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223341,
+        "num": 223341,
+        "word": "夫妇后悔送养女儿寻女30年",
+        "onboard_time": 1675610310,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212015,
+        "num": 212015,
+        "word": "张颂文在剧组狂推粤语",
+        "onboard_time": 1675658375,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211391,
+        "num": 211391,
+        "word": "你会买超过2万元的iPhone吗",
+        "onboard_time": 1675648646,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 209513,
+        "num": 209513,
+        "word": "Adele获格莱美最佳流行歌手",
+        "onboard_time": 1675657773,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201131,
+        "num": 201131,
+        "word": "库克称果粉愿意高价买iPhone",
+        "onboard_time": 1675649847,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 200494,
+        "num": 200494,
+        "word": "Adele格莱美造型",
+        "onboard_time": 1675653388,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197190,
+        "num": 197190,
+        "word": "4岁血癌娃术后重度感染每天便血270次",
+        "onboard_time": 1675660353,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191959,
+        "num": 191959,
+        "word": "宁安如梦预约破200万",
+        "onboard_time": 1675659813,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191878,
+        "num": 191878,
+        "word": "阿尔卑斯山雪崩1名中国公民遇难",
+        "onboard_time": 1675652308,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 191631,
+        "num": 191631,
+        "word": "网传骄阳伴我今日杀青",
+        "onboard_time": 1675649668,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191035,
+        "num": 191035,
+        "word": "言承旭说我是33号",
+        "onboard_time": 1675654467,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181805,
+        "num": 181805,
+        "word": "84岁外婆第一次穿旗袍惊艳外孙女",
+        "onboard_time": 1675650207,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180113,
+        "num": 180113,
+        "word": "AI男爱豆对AI女爱豆的mvreaction",
+        "onboard_time": 1675654829,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175615,
+        "num": 175615,
+        "word": "苹果2024年或推出无接口设计iPhone",
+        "onboard_time": 1675644868,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 174980,
+        "num": 174980,
+        "word": "Beyonce格莱美获奖最多音乐人",
+        "onboard_time": 1675656393,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172316,
+        "num": 172316,
+        "word": "不愧是重庆的出租车",
+        "onboard_time": 1675660532,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}

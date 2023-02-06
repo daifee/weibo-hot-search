@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675658259038,
+  "endTime": 1675660622141,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -529,6 +529,14 @@
       "onboard_time": 1675254691,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1820706,
+      "num": 1820706,
+      "word": "母亲回应儿子被邻居放炮炸伤致截肢",
+      "onboard_time": 1675656393,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1798545,
@@ -1208,6 +1216,14 @@
       "word": "专家称成年人有权做个废物",
       "onboard_time": 1675653270,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1211990,
+      "num": 1211990,
+      "word": "九价HPV疫苗现捆绑销售",
+      "onboard_time": 1675658314,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -2035,14 +2051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 888367,
-      "num": 888367,
-      "word": "母亲回应儿子被邻居放炮炸伤致截肢",
-      "onboard_time": 1675656393,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 881715,
       "num": 881715,
       "word": "张凌赫点赞欣诚则凌视频",
@@ -2291,6 +2299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 815967,
+      "num": 815967,
+      "word": "马龙进入国家队二十周年",
+      "onboard_time": 1675655429,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 815216,
       "num": 815216,
       "word": "宁波一商场禁3周岁以上男童进女厕",
@@ -2385,14 +2401,6 @@
       "onboard_time": 1675221751,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 799577,
-      "num": 799577,
-      "word": "马龙进入国家队二十周年",
-      "onboard_time": 1675655429,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 796817,
@@ -4011,6 +4019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 542074,
+      "num": 542074,
+      "word": "报告称北京平均月薪13930元",
+      "onboard_time": 1675657294,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 541493,
       "num": 541493,
       "word": "内娱那些一眼万年的舞台",
@@ -4257,6 +4273,22 @@
       "onboard_time": 1675583728,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 514788,
+      "num": 514788,
+      "word": "易烊千玺橙色系运动风造型",
+      "onboard_time": 1675659512,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 514139,
+      "num": 514139,
+      "word": "女子称海鲜市场买到蓝环章鱼险食用",
+      "onboard_time": 1675657294,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 513541,
@@ -4889,6 +4921,14 @@
       "onboard_time": 1675328495,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 447440,
+      "num": 447440,
+      "word": "超市拒收1元纸币称银行难存",
+      "onboard_time": 1675658673,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 446930,
@@ -5539,6 +5579,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 396933,
+      "num": 396933,
+      "word": "孙千腿真长",
+      "onboard_time": 1675655790,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396868,
       "num": 396868,
       "word": "赵丽颖漫步古城游玩照",
@@ -5603,12 +5651,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 391184,
-      "num": 391184,
-      "word": "报告称北京平均月薪13930元",
-      "onboard_time": 1675657294,
-      "rank": 48,
-      "category": "财经,社会新闻"
+      "raw_hot": 391409,
+      "num": 391409,
+      "word": "陈书婷ootd",
+      "onboard_time": 1675659391,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 391179,
@@ -5995,6 +6043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366536,
+      "num": 366536,
+      "word": "男孩通宵赶完的作业被狗子全部撕碎",
+      "onboard_time": 1675658971,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366217,
       "num": 366217,
       "word": "博纳说无名票房超出预期",
@@ -6313,14 +6369,6 @@
       "onboard_time": 1675514788,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 345899,
-      "num": 345899,
-      "word": "孙千腿真长",
-      "onboard_time": 1675655790,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 345642,
@@ -7033,6 +7081,14 @@
       "onboard_time": 1675591529,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 303868,
+      "num": 303868,
+      "word": "什么样的另一半你会选择结婚",
+      "onboard_time": 1675657172,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 303647,
@@ -7923,6 +7979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264850,
+      "num": 264850,
+      "word": "张颂文的小肉手",
+      "onboard_time": 1675659874,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 264839,
       "num": 264839,
       "word": "不及时阻止猫咪的后果",
@@ -7953,14 +8017,6 @@
       "onboard_time": 1675336173,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263753,
-      "num": 263753,
-      "word": "什么样的另一半你会选择结婚",
-      "onboard_time": 1675657172,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 263308,
@@ -8025,6 +8081,14 @@
       "onboard_time": 1675337974,
       "rank": 33,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 261214,
+      "num": 261214,
+      "word": "你会选择贷款买房吗",
+      "onboard_time": 1675659331,
+      "rank": 32,
+      "category": "社会议题"
     },
     {
       "raw_hot": 261186,
@@ -8097,14 +8161,6 @@
       "onboard_time": 1675382966,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 257556,
-      "num": 257556,
-      "word": "女子称海鲜市场买到蓝环章鱼险食用",
-      "onboard_time": 1675657294,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257260,
@@ -9163,6 +9219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212015,
+      "num": 212015,
+      "word": "张颂文在剧组狂推粤语",
+      "onboard_time": 1675658375,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211751,
       "num": 211751,
       "word": "辛叡恩跳NewJeans的hypeboy",
@@ -9603,6 +9667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197190,
+      "num": 197190,
+      "word": "4岁血癌娃术后重度感染每天便血270次",
+      "onboard_time": 1675660353,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196316,
       "num": 196316,
       "word": "如何辨别青少年潜在抑郁的求救信号",
@@ -9808,6 +9880,14 @@
       "word": "李兰迪新剧星落凝成糖人设",
       "onboard_time": 1675315712,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191959,
+      "num": 191959,
+      "word": "宁安如梦预约破200万",
+      "onboard_time": 1675659813,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -10507,6 +10587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174980,
+      "num": 174980,
+      "word": "Beyonce格莱美获奖最多音乐人",
+      "onboard_time": 1675656393,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174944,
       "num": 174944,
       "word": "王子文问要不要回答",
@@ -10633,6 +10721,14 @@
       "onboard_time": 1675225054,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172316,
+      "num": 172316,
+      "word": "不愧是重庆的出租车",
+      "onboard_time": 1675660532,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 172221,
