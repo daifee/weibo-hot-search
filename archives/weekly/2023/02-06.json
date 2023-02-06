@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675725498136,
+  "endTime": 1675726431727,
   "band_list": [
     {
       "raw_hot": 2366961,
@@ -923,6 +923,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 511443,
+      "num": 249608,
+      "word": "杭州两套拆迁房让一对亲姐妹闹翻",
+      "onboard_time": 1675711152,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511184,
+      "num": 247750,
+      "word": "2岁娃山区玩后反复发烧查出黑热病",
+      "onboard_time": 1675703299,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502745,
       "num": 502745,
       "word": "消失的她定档0622",
@@ -937,14 +953,6 @@
       "onboard_time": 1675609412,
       "rank": 10,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 500478,
-      "num": 192885,
-      "word": "2岁娃山区玩后反复发烧查出黑热病",
-      "onboard_time": 1675703299,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 495149,
@@ -1035,20 +1043,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 433837,
-      "num": 189709,
-      "word": "杭州两套拆迁房让一对亲姐妹闹翻",
-      "onboard_time": 1675711152,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433693,
       "num": 433693,
       "word": "90后被催婚时的反向操作",
       "onboard_time": 1675652847,
       "rank": 39,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 432651,
+      "num": 432651,
+      "word": "256斤男生半年暴瘦100斤变肌肉猛男",
+      "onboard_time": 1675705696,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432056,
@@ -1297,14 +1305,6 @@
       "onboard_time": 1675646306,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 352022,
-      "num": 352022,
-      "word": "256斤男生半年暴瘦100斤变肌肉猛男",
-      "onboard_time": 1675705696,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348810,
@@ -1691,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266663,
+      "num": 244309,
+      "word": "高叶回应剧抛脸",
+      "onboard_time": 1675725439,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266242,
       "num": 266242,
       "word": "李泳知快嘴rap",
@@ -1972,7 +1980,7 @@
     },
     {
       "raw_hot": 225717,
-      "num": 182947,
+      "num": 215107,
       "word": "网传肖战李沁梦中的那片海Q1播出",
       "onboard_time": 1675704976,
       "rank": 13,
@@ -2195,6 +2203,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 183761,
+      "num": 183761,
+      "word": "ChatGPT",
+      "onboard_time": 1675726041,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 182487,
       "num": 182487,
       "word": "朱一龙周一黑西装侧颜大片",
@@ -2291,6 +2307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169853,
+      "num": 169853,
+      "word": "唐僧安欣和孔雀高启强",
+      "onboard_time": 1675726342,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169276,
       "num": 169276,
       "word": "国产ChatGPT究竟何时能出",
@@ -2385,6 +2409,14 @@
       "onboard_time": 1675652549,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 162688,
+      "num": 162688,
+      "word": "这驾照是非学不可吗",
+      "onboard_time": 1675725079,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 161496,
@@ -2691,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120741,
+      "num": 120741,
+      "word": "开学第一课是睁眼说瞎话",
+      "onboard_time": 1675725800,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120600,
       "num": 120600,
       "word": "电影无名被写成论文",
@@ -2755,6 +2795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 109735,
+      "num": 109735,
+      "word": "张凌赫用身高压制白鹿",
+      "onboard_time": 1675725859,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 109663,
       "num": 109663,
       "word": "张颂文贾发跳舞好可爱",
@@ -2803,6 +2851,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96624,
+      "num": 96624,
+      "word": "吴京是懂嗑cp的",
+      "onboard_time": 1675726102,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 95689,
+      "num": 95689,
+      "word": "虞书欣蝴蝶白纱背心造型",
+      "onboard_time": 1675726041,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 93074,
       "num": 1037024,
       "word": "太空视角看灯火里的中国",
@@ -2811,12 +2875,28 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 72671,
-      "num": 72671,
-      "word": "这驾照是非学不可吗",
-      "onboard_time": 1675725079,
+      "raw_hot": 91742,
+      "num": 91742,
+      "word": "君子盟",
+      "onboard_time": 1675725619,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 82423,
+      "num": 82423,
+      "word": "成毅说没断网",
+      "onboard_time": 1675725920,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 75597,
+      "num": 75597,
+      "word": "东北公主的下午茶有多优雅",
+      "onboard_time": 1675713973,
       "rank": 36,
-      "category": "幽默"
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 65971,
@@ -2841,22 +2921,6 @@
       "onboard_time": 1675705217,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 49034,
-      "num": 49034,
-      "word": "东北公主的下午茶有多优雅",
-      "onboard_time": 1675713973,
-      "rank": 36,
-      "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 47376,
-      "num": 47376,
-      "word": "高叶回应剧抛脸",
-      "onboard_time": 1675725439,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 17931,

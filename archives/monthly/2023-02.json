@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675725498136,
+  "endTime": 1675726431727,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -4859,6 +4859,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511443,
+      "num": 249608,
+      "word": "杭州两套拆迁房让一对亲姐妹闹翻",
+      "onboard_time": 1675711152,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511184,
+      "num": 247750,
+      "word": "2岁娃山区玩后反复发烧查出黑热病",
+      "onboard_time": 1675703299,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 510429,
       "num": 197042,
       "word": "胡鑫宇录音笔已送深圳恢复数据",
@@ -4985,14 +5001,6 @@
       "onboard_time": 1675602331,
       "rank": 35,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 500478,
-      "num": 192885,
-      "word": "2岁娃山区玩后反复发烧查出黑热病",
-      "onboard_time": 1675703299,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 500040,
@@ -5651,14 +5659,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 433837,
-      "num": 189709,
-      "word": "杭州两套拆迁房让一对亲姐妹闹翻",
-      "onboard_time": 1675711152,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433693,
       "num": 433693,
       "word": "90后被催婚时的反向操作",
@@ -5673,6 +5673,14 @@
       "onboard_time": 1675219647,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432651,
+      "num": 432651,
+      "word": "256斤男生半年暴瘦100斤变肌肉猛男",
+      "onboard_time": 1675705696,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432375,
@@ -6969,14 +6977,6 @@
       "onboard_time": 1675397611,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 352022,
-      "num": 352022,
-      "word": "256斤男生半年暴瘦100斤变肌肉猛男",
-      "onboard_time": 1675705696,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351828,
@@ -8835,6 +8835,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 266663,
+      "num": 244309,
+      "word": "高叶回应剧抛脸",
+      "onboard_time": 1675725439,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266567,
       "num": 266567,
       "word": "妇联回应女子被婆家罚跪",
@@ -9996,7 +10004,7 @@
     },
     {
       "raw_hot": 225717,
-      "num": 182947,
+      "num": 215107,
       "word": "网传肖战李沁梦中的那片海Q1播出",
       "onboard_time": 1675704976,
       "rank": 13,
@@ -11499,6 +11507,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 183761,
+      "num": 183761,
+      "word": "ChatGPT",
+      "onboard_time": 1675726041,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 183675,
       "num": 183675,
       "word": "你是因为什么看了狂飙",
@@ -12147,6 +12163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169853,
+      "num": 169853,
+      "word": "唐僧安欣和孔雀高启强",
+      "onboard_time": 1675726342,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169276,
       "num": 169276,
       "word": "国产ChatGPT究竟何时能出",
@@ -12465,6 +12489,14 @@
       "onboard_time": 1675652549,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 162688,
+      "num": 162688,
+      "word": "这驾照是非学不可吗",
+      "onboard_time": 1675725079,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 162556,
@@ -13707,6 +13739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120741,
+      "num": 120741,
+      "word": "开学第一课是睁眼说瞎话",
+      "onboard_time": 1675725800,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120458,
       "num": 120458,
       "word": "周深beatbox版祝你平安吹蜡烛",
@@ -13841,6 +13881,14 @@
       "onboard_time": 1675559848,
       "rank": 42,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 109735,
+      "num": 109735,
+      "word": "张凌赫用身高压制白鹿",
+      "onboard_time": 1675725859,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 109663,
@@ -14011,6 +14059,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 96624,
+      "num": 96624,
+      "word": "吴京是懂嗑cp的",
+      "onboard_time": 1675726102,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 96522,
       "num": 96522,
       "word": "诗词大会选手有点东西",
@@ -14025,6 +14081,14 @@
       "onboard_time": 1675161102,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95689,
+      "num": 95689,
+      "word": "虞书欣蝴蝶白纱背心造型",
+      "onboard_time": 1675726041,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 93074,
@@ -14115,6 +14179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82423,
+      "num": 82423,
+      "word": "成毅说没断网",
+      "onboard_time": 1675725920,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 78798,
       "num": 78798,
       "word": "陆虎爱心版泼水成冰",
@@ -14131,20 +14203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75597,
+      "num": 75597,
+      "word": "东北公主的下午茶有多优雅",
+      "onboard_time": 1675713973,
+      "rank": 36,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 75438,
       "num": 75438,
       "word": "彭于晏你着急吗",
       "onboard_time": 1675149175,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72671,
-      "num": 72671,
-      "word": "这驾照是非学不可吗",
-      "onboard_time": 1675725079,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 71881,
@@ -14299,14 +14371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49034,
-      "num": 49034,
-      "word": "东北公主的下午茶有多优雅",
-      "onboard_time": 1675713973,
-      "rank": 36,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 48813,
       "num": 42725,
       "word": "安欣你这件衣服是哪来的",
@@ -14329,14 +14393,6 @@
       "onboard_time": 1675465636,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47376,
-      "num": 47376,
-      "word": "高叶回应剧抛脸",
-      "onboard_time": 1675725439,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 46806,

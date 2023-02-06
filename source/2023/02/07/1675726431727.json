@@ -1,0 +1,410 @@
+{
+  "runTime": 1675726431727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 962922,
+        "num": 962922,
+        "word": "骄阳伴我",
+        "onboard_time": 1675698031,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 674348,
+        "num": 674348,
+        "word": "中国女球员地震中幸免于难报平安",
+        "onboard_time": 1675695749,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 19094,
+        "num": 592828,
+        "word": "太空视角看灯火里的中国",
+        "onboard_time": 1675669888,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 530073,
+        "num": 530073,
+        "word": "女子存5万被要求提供收入证明",
+        "onboard_time": 1675694013,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432651,
+        "num": 432651,
+        "word": "256斤男生半年暴瘦100斤变肌肉猛男",
+        "onboard_time": 1675705696,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349539,
+        "num": 349539,
+        "word": "土耳其一天内两次7.8级强震",
+        "onboard_time": 1675681289,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342141,
+        "num": 342141,
+        "word": "成都一幼儿园园长撞脸毛不易",
+        "onboard_time": 1675695931,
+        "rank": 6,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 311604,
+        "num": 311604,
+        "word": "中国游客被普吉岛旅行社负责人割伤",
+        "onboard_time": 1675691549,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275065,
+        "num": 275065,
+        "word": "美方称发现第二个来自中国的气球",
+        "onboard_time": 1675674329,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250293,
+        "num": 250293,
+        "word": "高启盛下线那场戏张颂文临时改台词",
+        "onboard_time": 1675692750,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 511443,
+        "num": 249608,
+        "word": "杭州两套拆迁房让一对亲姐妹闹翻",
+        "onboard_time": 1675711152,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511184,
+        "num": 247750,
+        "word": "2岁娃山区玩后反复发烧查出黑热病",
+        "onboard_time": 1675703299,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489192,
+        "num": 246054,
+        "word": "突然就不害怕死亡了",
+        "onboard_time": 1675699765,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 266663,
+        "num": 244309,
+        "word": "高叶回应剧抛脸",
+        "onboard_time": 1675725439,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242812,
+        "num": 242812,
+        "word": "泰国满大街播放狂飙吸引中国游客",
+        "onboard_time": 1675692690,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228872,
+        "num": 228872,
+        "word": "陈妍希说陈晓是比较依赖的人",
+        "onboard_time": 1675692931,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215107,
+        "num": 215107,
+        "word": "网传肖战李沁梦中的那片海Q1播出",
+        "onboard_time": 1675704976,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183761,
+        "num": 183761,
+        "word": "ChatGPT",
+        "onboard_time": 1675726041,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 179706,
+        "num": 179706,
+        "word": "男子结婚当天前女友们现场拉横幅",
+        "onboard_time": 1675683089,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172316,
+        "num": 172316,
+        "word": "肖战新剧杀青笑得好开心",
+        "onboard_time": 1675693354,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169853,
+        "num": 169853,
+        "word": "唐僧安欣和孔雀高启强",
+        "onboard_time": 1675726342,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162924,
+        "num": 162924,
+        "word": "乾隆的猫都叫什么",
+        "onboard_time": 1675699285,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162688,
+        "num": 162688,
+        "word": "这驾照是非学不可吗",
+        "onboard_time": 1675725079,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159658,
+        "num": 159658,
+        "word": "在北京100块能买多少糕点",
+        "onboard_time": 1675701501,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153399,
+        "num": 153399,
+        "word": "王嘉尔回国",
+        "onboard_time": 1675694495,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151082,
+        "num": 151082,
+        "word": "狂飙大嫂高叶直播",
+        "onboard_time": 1675697610,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149125,
+        "num": 149125,
+        "word": "土耳其附近发生8.0级左右地震",
+        "onboard_time": 1675680269,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145456,
+        "num": 145456,
+        "word": "土耳其大批运动员被埋废墟",
+        "onboard_time": 1675685729,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 144335,
+        "num": 144335,
+        "word": "狂飙小五扮演者说和安欣是师徒情",
+        "onboard_time": 1675689991,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137773,
+        "num": 137773,
+        "word": "福原爱向男友前妻道歉",
+        "onboard_time": 1675675468,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 132350,
+        "num": 132350,
+        "word": "女子收房发现门外1米是公厕",
+        "onboard_time": 1675690891,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131368,
+        "num": 131368,
+        "word": "强震已致土耳其叙利亚超1400人遇难",
+        "onboard_time": 1675679491,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120741,
+        "num": 120741,
+        "word": "开学第一课是睁眼说瞎话",
+        "onboard_time": 1675725800,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109735,
+        "num": 109735,
+        "word": "张凌赫用身高压制白鹿",
+        "onboard_time": 1675725859,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107059,
+        "num": 107059,
+        "word": "猫咪的爪子到底有多可爱",
+        "onboard_time": 1675700364,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 98558,
+        "num": 98558,
+        "word": "林志颖仍开特斯拉",
+        "onboard_time": 1675678409,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97469,
+        "num": 97469,
+        "word": "杨紫绿色抹胸纱裙",
+        "onboard_time": 1675683208,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96624,
+        "num": 96624,
+        "word": "吴京是懂嗑cp的",
+        "onboard_time": 1675726102,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95689,
+        "num": 95689,
+        "word": "虞书欣蝴蝶白纱背心造型",
+        "onboard_time": 1675726041,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95155,
+        "num": 95155,
+        "word": "刘培强的AI修复还是保守了",
+        "onboard_time": 1675680512,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91926,
+        "num": 91926,
+        "word": "吴京说流浪地球3该炸哪儿了",
+        "onboard_time": 1675699466,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91742,
+        "num": 91742,
+        "word": "君子盟",
+        "onboard_time": 1675725619,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89251,
+        "num": 89251,
+        "word": "广东人会把肠粉淹死在酱汁里",
+        "onboard_time": 1675688906,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87283,
+        "num": 87283,
+        "word": "第一次听说水果生蚝",
+        "onboard_time": 1675701143,
+        "rank": 43,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 84901,
+        "num": 84901,
+        "word": "官方回应一男生被多人扇脸踢踹",
+        "onboard_time": 1675697492,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 82626,
+        "num": 82626,
+        "word": "张艺兴面纱封面在格莱美现场出现",
+        "onboard_time": 1675690710,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 82423,
+        "num": 82423,
+        "word": "成毅说没断网",
+        "onboard_time": 1675725920,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76337,
+        "num": 76337,
+        "word": "原来不是胖才有双下巴",
+        "onboard_time": 1675692809,
+        "rank": 47,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 75994,
+        "num": 75994,
+        "word": "张译演反派吓到岳云鹏",
+        "onboard_time": 1675687409,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75597,
+        "num": 75597,
+        "word": "东北公主的下午茶有多优雅",
+        "onboard_time": 1675713973,
+        "rank": 49,
+        "category": "美食,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国天眼发现的脉冲星已超740颗#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675725498136,
+  "endTime": 1675726431727,
   "band_list": [
     {
       "raw_hot": 1152201,
@@ -59,8 +59,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 500478,
-      "num": 192885,
+      "raw_hot": 511443,
+      "num": 249608,
+      "word": "杭州两套拆迁房让一对亲姐妹闹翻",
+      "onboard_time": 1675711152,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511184,
+      "num": 247750,
       "word": "2岁娃山区玩后反复发烧查出黑热病",
       "onboard_time": 1675703299,
       "rank": 41,
@@ -99,11 +107,11 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 433837,
-      "num": 189709,
-      "word": "杭州两套拆迁房让一对亲姐妹闹翻",
-      "onboard_time": 1675711152,
-      "rank": 20,
+      "raw_hot": 432651,
+      "num": 432651,
+      "word": "256斤男生半年暴瘦100斤变肌肉猛男",
+      "onboard_time": 1675705696,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -171,14 +179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 352022,
-      "num": 352022,
-      "word": "256斤男生半年暴瘦100斤变肌肉猛男",
-      "onboard_time": 1675705696,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349331,
       "num": 349331,
       "word": "土耳其附近发生8.0级左右地震",
@@ -209,6 +209,22 @@
       "onboard_time": 1675702761,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275065,
+      "num": 275065,
+      "word": "美方称发现第二个来自中国的气球",
+      "onboard_time": 1675674329,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266663,
+      "num": 244309,
+      "word": "高叶回应剧抛脸",
+      "onboard_time": 1675725439,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 265452,
@@ -267,14 +283,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 239386,
-      "num": 239386,
-      "word": "美方称发现第二个来自中国的气球",
-      "onboard_time": 1675674329,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233612,
       "num": 233612,
       "word": "原来不是胖才有双下巴",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 225717,
-      "num": 182947,
+      "num": 215107,
       "word": "网传肖战李沁梦中的那片海Q1播出",
       "onboard_time": 1675704976,
       "rank": 13,
@@ -329,6 +337,30 @@
       "onboard_time": 1675700364,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 183761,
+      "num": 183761,
+      "word": "ChatGPT",
+      "onboard_time": 1675726041,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 169853,
+      "num": 169853,
+      "word": "唐僧安欣和孔雀高启强",
+      "onboard_time": 1675726342,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 162688,
+      "num": 162688,
+      "word": "这驾照是非学不可吗",
+      "onboard_time": 1675725079,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 157855,
@@ -379,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131368,
+      "num": 131368,
+      "word": "强震已致土耳其叙利亚超1400人遇难",
+      "onboard_time": 1675679491,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125218,
       "num": 125218,
       "word": "杨紫琼对成龙说这是你的损失",
@@ -395,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120741,
+      "num": 120741,
+      "word": "开学第一课是睁眼说瞎话",
+      "onboard_time": 1675725800,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119791,
       "num": 119791,
       "word": "高叶周冬雨早期合照",
@@ -403,12 +451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 113326,
-      "num": 113326,
-      "word": "强震已致土耳其叙利亚超1400人遇难",
-      "onboard_time": 1675679491,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 109735,
+      "num": 109735,
+      "word": "张凌赫用身高压制白鹿",
+      "onboard_time": 1675725859,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 109663,
@@ -451,6 +499,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96624,
+      "num": 96624,
+      "word": "吴京是懂嗑cp的",
+      "onboard_time": 1675726102,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 95689,
+      "num": 95689,
+      "word": "虞书欣蝴蝶白纱背心造型",
+      "onboard_time": 1675726041,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 92337,
       "num": 92337,
       "word": "直击土耳其地震救援现场",
@@ -459,12 +523,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72671,
-      "num": 72671,
-      "word": "这驾照是非学不可吗",
-      "onboard_time": 1675725079,
+      "raw_hot": 91742,
+      "num": 91742,
+      "word": "君子盟",
+      "onboard_time": 1675725619,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 82423,
+      "num": 82423,
+      "word": "成毅说没断网",
+      "onboard_time": 1675725920,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 75597,
+      "num": 75597,
+      "word": "东北公主的下午茶有多优雅",
+      "onboard_time": 1675713973,
       "rank": 36,
-      "category": "幽默"
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 55688,
@@ -475,23 +555,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 49034,
-      "num": 49034,
-      "word": "东北公主的下午茶有多优雅",
-      "onboard_time": 1675713973,
-      "rank": 36,
-      "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 47376,
-      "num": 47376,
-      "word": "高叶回应剧抛脸",
-      "onboard_time": 1675725439,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 18749,
+      "raw_hot": 19094,
       "num": 830886,
       "word": "太空视角看灯火里的中国",
       "onboard_time": 1675669888,
