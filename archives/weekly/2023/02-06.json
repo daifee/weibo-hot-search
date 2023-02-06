@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675660622141,
+  "endTime": 1675661612691,
   "band_list": [
     {
       "raw_hot": 2221394,
@@ -19,8 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1820706,
-      "num": 1820706,
+      "raw_hot": 1858359,
+      "num": 1858359,
       "word": "母亲回应儿子被邻居放炮炸伤致截肢",
       "onboard_time": 1675656393,
       "rank": 27,
@@ -40,6 +40,14 @@
       "word": "土耳其发生7.8级地震",
       "onboard_time": 1675648107,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1602431,
+      "num": 1602431,
+      "word": "九价HPV疫苗现捆绑销售",
+      "onboard_time": 1675658314,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -104,14 +112,6 @@
       "word": "专家称成年人有权做个废物",
       "onboard_time": 1675653270,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1211990,
-      "num": 1211990,
-      "word": "九价HPV疫苗现捆绑销售",
-      "onboard_time": 1675658314,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -216,6 +216,14 @@
       "word": "两男子受高薪诱惑想去缅甸挣大钱",
       "onboard_time": 1675651769,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806842,
+      "num": 518774,
+      "word": "4岁血癌娃术后重度感染每天便血270次",
+      "onboard_time": 1675660353,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -331,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 551371,
+      "num": 507949,
+      "word": "陈书婷ootd",
+      "onboard_time": 1675659391,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 542074,
       "num": 542074,
       "word": "报告称北京平均月薪13930元",
@@ -363,20 +379,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522081,
+      "num": 522081,
+      "word": "女子称海鲜市场买到蓝环章鱼险食用",
+      "onboard_time": 1675657294,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514788,
       "num": 514788,
       "word": "易烊千玺橙色系运动风造型",
       "onboard_time": 1675659512,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 514139,
-      "num": 514139,
-      "word": "女子称海鲜市场买到蓝环章鱼险食用",
-      "onboard_time": 1675657294,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 502745,
@@ -411,20 +427,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 483957,
+      "num": 483957,
+      "word": "超市拒收1元纸币称银行难存",
+      "onboard_time": 1675658673,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473506,
       "num": 473506,
       "word": "库克称果粉愿意高价买iPhone",
       "onboard_time": 1675649847,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 447440,
-      "num": 447440,
-      "word": "超市拒收1元纸币称银行难存",
-      "onboard_time": 1675658673,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 442334,
@@ -531,14 +547,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 391409,
-      "num": 391409,
-      "word": "陈书婷ootd",
-      "onboard_time": 1675659391,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 389418,
       "num": 389418,
       "word": "女生庙里求姻缘对过路帅哥一见钟情",
@@ -577,6 +585,14 @@
       "onboard_time": 1675643010,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 345030,
+      "num": 345030,
+      "word": "你会选择贷款买房吗",
+      "onboard_time": 1675659331,
+      "rank": 32,
+      "category": "社会议题"
     },
     {
       "raw_hot": 344625,
@@ -675,8 +691,8 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 303868,
-      "num": 303868,
+      "raw_hot": 304077,
+      "num": 304077,
       "word": "什么样的另一半你会选择结婚",
       "onboard_time": 1675657172,
       "rank": 34,
@@ -787,14 +803,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 261214,
-      "num": 261214,
-      "word": "你会选择贷款买房吗",
-      "onboard_time": 1675659331,
-      "rank": 32,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 252997,
       "num": 252997,
       "word": "阿尔卑斯山雪崩1名中国公民遇难",
@@ -809,6 +817,14 @@
       "onboard_time": 1675655671,
       "rank": 36,
       "category": "综艺,情感"
+    },
+    {
+      "raw_hot": 248144,
+      "num": 248144,
+      "word": "张颂文在剧组狂推粤语",
+      "onboard_time": 1675658375,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 247631,
@@ -833,6 +849,14 @@
       "onboard_time": 1675657773,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234346,
+      "num": 234346,
+      "word": "消失的她",
+      "onboard_time": 1675661129,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 234179,
@@ -891,6 +915,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 218475,
+      "num": 218475,
+      "word": "不愧是重庆的出租车",
+      "onboard_time": 1675660532,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216713,
       "num": 216713,
       "word": "南京夫子庙人海里的定海神针",
@@ -905,14 +937,6 @@
       "onboard_time": 1675654587,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 212015,
-      "num": 212015,
-      "word": "张颂文在剧组狂推粤语",
-      "onboard_time": 1675658375,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 201134,
@@ -937,14 +961,6 @@
       "onboard_time": 1675646306,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 197190,
-      "num": 197190,
-      "word": "4岁血癌娃术后重度感染每天便血270次",
-      "onboard_time": 1675660353,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195629,
@@ -979,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182487,
+      "num": 182487,
+      "word": "朱一龙周一黑西装侧颜大片",
+      "onboard_time": 1675661189,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182020,
       "num": 182020,
       "word": "时代少年团爆炸头错位图",
@@ -1011,20 +1035,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 172316,
-      "num": 172316,
-      "word": "不愧是重庆的出租车",
-      "onboard_time": 1675660532,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 170578,
       "num": 170578,
       "word": "床也没想过能受这么大礼",
       "onboard_time": 1675639642,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167495,
+      "num": 167495,
+      "word": "文咏珊说我相信何非是爱我的",
+      "onboard_time": 1675660951,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 167176,
