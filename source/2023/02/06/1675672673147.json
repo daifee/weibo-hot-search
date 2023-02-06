@@ -1,0 +1,410 @@
+{
+  "runTime": 1675672673147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1115512,
+        "num": 1115512,
+        "word": "伊拉克女网红被父亲荣誉处决",
+        "onboard_time": 1675670487,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1091753,
+        "num": 1091753,
+        "word": "连体女婴分离14年后长成健康少女",
+        "onboard_time": 1675665447,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49855,
+        "num": 1019090,
+        "word": "流动的中国活力",
+        "onboard_time": 1675669826,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004251,
+        "num": 1004251,
+        "word": "林志颖违规停车被罚款",
+        "onboard_time": 1675663767,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 898575,
+        "num": 898575,
+        "word": "学校组织学生徒步自费看满江红",
+        "onboard_time": 1675665088,
+        "rank": 4,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 1966631,
+        "num": 898506,
+        "word": "任泽平建议法定婚龄降到18岁",
+        "onboard_time": 1675667668,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872494,
+        "num": 872494,
+        "word": "广州平均月薪11710元",
+        "onboard_time": 1675668149,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 756873,
+        "num": 756873,
+        "word": "贾冰说我都这么狠了你们还想笑",
+        "onboard_time": 1675662088,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 666599,
+        "num": 666599,
+        "word": "九价HPV疫苗现捆绑销售",
+        "onboard_time": 1675658314,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1002573,
+        "num": 633135,
+        "word": "6岁男童在酒店被泳池旁泡泡机电亡",
+        "onboard_time": 1675669888,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568890,
+        "num": 568890,
+        "word": "言承旭吐烟圈",
+        "onboard_time": 1675670249,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 542560,
+        "num": 542560,
+        "word": "倪妮消失的她短发机车造型",
+        "onboard_time": 1675666587,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 485160,
+        "num": 485160,
+        "word": "海底捞很关心久龙",
+        "onboard_time": 1675667247,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 469955,
+        "num": 469955,
+        "word": "66岁大叔和女友买新房名字没自己",
+        "onboard_time": 1675664368,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437648,
+        "num": 437648,
+        "word": "香港女子凌晨通关来深圳吃宵夜",
+        "onboard_time": 1675671568,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407237,
+        "num": 407237,
+        "word": "李小冉新剧人设",
+        "onboard_time": 1675670249,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377466,
+        "num": 377466,
+        "word": "哪些人群不建议打九价疫苗",
+        "onboard_time": 1675666348,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364867,
+        "num": 364867,
+        "word": "葛优诉B站侵权案将开庭",
+        "onboard_time": 1675670249,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320003,
+        "num": 320003,
+        "word": "流浪地球2图丫丫房间美术设定",
+        "onboard_time": 1675670727,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309350,
+        "num": 309350,
+        "word": "母亲回应儿子被邻居放炮炸伤致截肢",
+        "onboard_time": 1675656393,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308659,
+        "num": 308659,
+        "word": "土耳其地震已致土叙300余人死亡",
+        "onboard_time": 1675670907,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303453,
+        "num": 303453,
+        "word": "谁家小狗这样贱嗖嗖的",
+        "onboard_time": 1675671449,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296571,
+        "num": 296571,
+        "word": "小学生背满江红获寒假作业免检红包",
+        "onboard_time": 1675669168,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 283936,
+        "num": 283936,
+        "word": "王智流浪地球2路演状态",
+        "onboard_time": 1675672288,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272123,
+        "num": 272123,
+        "word": "肖战盛阳片场休息路透",
+        "onboard_time": 1675669286,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258892,
+        "num": 258892,
+        "word": "何广智打算换了72平的大房子",
+        "onboard_time": 1675651467,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251824,
+        "num": 251824,
+        "word": "4岁血癌娃术后重度感染每天便血270次",
+        "onboard_time": 1675660353,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238787,
+        "num": 238787,
+        "word": "狂飙反派演员心中的正义",
+        "onboard_time": 1675669888,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236307,
+        "num": 236307,
+        "word": "满江红实时票房破40亿",
+        "onboard_time": 1675662747,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232082,
+        "num": 232082,
+        "word": "图丫丫的房间壁纸条形码被解码了",
+        "onboard_time": 1675662088,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225785,
+        "num": 225785,
+        "word": "梁朝伟问周迅无名变喜剧了吗",
+        "onboard_time": 1675665567,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223590,
+        "num": 223590,
+        "word": "陈书婷ootd",
+        "onboard_time": 1675659391,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217230,
+        "num": 217230,
+        "word": "洋迪已被注册商标",
+        "onboard_time": 1675664968,
+        "rank": 32,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 216867,
+        "num": 216867,
+        "word": "年龄差距很大的婚姻会幸福吗",
+        "onboard_time": 1675669526,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211455,
+        "num": 211455,
+        "word": "为什么现在都盛行打九价",
+        "onboard_time": 1675667067,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178636,
+        "num": 178636,
+        "word": "网传TFBOYS十周年线下演唱会确定",
+        "onboard_time": 1675655248,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161316,
+        "num": 161316,
+        "word": "Scout获得周MVP",
+        "onboard_time": 1675669648,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154996,
+        "num": 154996,
+        "word": "在北京月收入过万算高吗",
+        "onboard_time": 1675662687,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154310,
+        "num": 154310,
+        "word": "想看林孝埈对决黄大宪要到下赛季了",
+        "onboard_time": 1675665088,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152567,
+        "num": 152567,
+        "word": "徐若晗对言承旭说记住你了",
+        "onboard_time": 1675667367,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151087,
+        "num": 151087,
+        "word": "宁理 导演这次我杀谁",
+        "onboard_time": 1675654349,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150263,
+        "num": 150263,
+        "word": "中方就美方袭击中国飞艇提严正交涉",
+        "onboard_time": 1675651587,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 149841,
+        "num": 149841,
+        "word": "韩媒评林孝埈双冠",
+        "onboard_time": 1675650568,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 148880,
+        "num": 148880,
+        "word": "张颂文在剧组狂推粤语",
+        "onboard_time": 1675658375,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147945,
+        "num": 147945,
+        "word": "马嘉祺声生不息灰色毛衣上班路透",
+        "onboard_time": 1675666887,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144463,
+        "num": 144463,
+        "word": "张凌赫点赞欣诚则凌视频",
+        "onboard_time": 1675656691,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137281,
+        "num": 137281,
+        "word": "土耳其发生7.8级地震",
+        "onboard_time": 1675648107,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135582,
+        "num": 135582,
+        "word": "曝李秀满被公司单方面宣布退出",
+        "onboard_time": 1675655909,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132553,
+        "num": 132553,
+        "word": "能看出来狗子承受了太多",
+        "onboard_time": 1675671927,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130925,
+        "num": 130925,
+        "word": "专家提醒提前还贷不可盲目跟风",
+        "onboard_time": 1675672648,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#元宵晚会舞台再现中国排面#"
+    }
+  }
+}
