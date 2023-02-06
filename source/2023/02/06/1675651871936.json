@@ -1,0 +1,410 @@
+{
+  "runTime": 1675651871936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1563585,
+        "num": 1563585,
+        "word": "土耳其发生7.8级地震",
+        "onboard_time": 1675648107,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1122558,
+        "num": 1122558,
+        "word": "胜利将于2月11日出狱",
+        "onboard_time": 1675648947,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183210,
+        "num": 967488,
+        "word": "坐上高铁去滑雪",
+        "onboard_time": 1675650447,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966111,
+        "num": 966111,
+        "word": "网传骄阳伴我今日杀青",
+        "onboard_time": 1675649668,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 829543,
+        "num": 829543,
+        "word": "你会买超过2万元的iPhone吗",
+        "onboard_time": 1675648646,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 698387,
+        "num": 698387,
+        "word": "韩媒评林孝埈双冠",
+        "onboard_time": 1675650568,
+        "rank": 5,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 601535,
+        "num": 601535,
+        "word": "林孝埈连夺两金",
+        "onboard_time": 1675631352,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 581371,
+        "num": 581371,
+        "word": "多地中考取消男生1000米女生800米",
+        "onboard_time": 1675642410,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 549948,
+        "num": 549948,
+        "word": "苹果2024年或推出无接口设计iPhone",
+        "onboard_time": 1675644868,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 542828,
+        "num": 542828,
+        "word": "李承铉脖子上挂的是奶嘴",
+        "onboard_time": 1675649006,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 820577,
+        "num": 529947,
+        "word": "何广智打算换了72平的大房子",
+        "onboard_time": 1675651467,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502745,
+        "num": 502745,
+        "word": "消失的她定档0622",
+        "onboard_time": 1675650029,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498265,
+        "num": 498265,
+        "word": "泫雅亲粉丝脸",
+        "onboard_time": 1675649068,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 484294,
+        "num": 484294,
+        "word": "央美学生还原三体火鸡科学家",
+        "onboard_time": 1675649608,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431085,
+        "num": 431085,
+        "word": "狗狗跟主人坐长途车就差拍照了",
+        "onboard_time": 1675647808,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 416781,
+        "num": 416781,
+        "word": "84岁外婆第一次穿旗袍惊艳外孙女",
+        "onboard_time": 1675650207,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373382,
+        "num": 373382,
+        "word": "夫妇后悔送养女儿寻女30年",
+        "onboard_time": 1675610310,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368056,
+        "num": 368056,
+        "word": "于谦 梁家辉你被我盯上了",
+        "onboard_time": 1675648828,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356739,
+        "num": 356739,
+        "word": "朱一龙文咏珊新电影演夫妻",
+        "onboard_time": 1675651169,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355254,
+        "num": 355254,
+        "word": "格莱美",
+        "onboard_time": 1675606354,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 350879,
+        "num": 350879,
+        "word": "杭州小学生在烟花大会现场补作业",
+        "onboard_time": 1675646009,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350344,
+        "num": 350344,
+        "word": "星云大师圆寂",
+        "onboard_time": 1675614505,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345742,
+        "num": 345742,
+        "word": "库克称果粉愿意高价买iPhone",
+        "onboard_time": 1675649847,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 318147,
+        "num": 318147,
+        "word": "段奥娟瘦了好多",
+        "onboard_time": 1675611272,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306691,
+        "num": 306691,
+        "word": "释放房地产市场合理需求",
+        "onboard_time": 1675646066,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 300489,
+        "num": 300489,
+        "word": "欧文被交易至独行侠",
+        "onboard_time": 1675638797,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283732,
+        "num": 283732,
+        "word": "车辆轮胎扎入钉子收费员一下听出",
+        "onboard_time": 1675648165,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282837,
+        "num": 282837,
+        "word": "林孝埈中国队首金",
+        "onboard_time": 1675613907,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279266,
+        "num": 279266,
+        "word": "提前还贷比借钱难",
+        "onboard_time": 1675650749,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 265274,
+        "num": 265274,
+        "word": "三体结尾有罗辑",
+        "onboard_time": 1675650991,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264233,
+        "num": 264233,
+        "word": "韩国称自华入韩旅客阳性率为零",
+        "onboard_time": 1675622235,
+        "rank": 30,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 262140,
+        "num": 262140,
+        "word": "90岁爷爷和5岁孙子对话看哭了",
+        "onboard_time": 1675649908,
+        "rank": 31,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 258251,
+        "num": 258251,
+        "word": "张颂文元宵节看烟花vlog",
+        "onboard_time": 1675642167,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708479,
+        "num": 253153,
+        "word": "黄多多晒与同学比心合照",
+        "onboard_time": 1675638378,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1058272,
+        "num": 249275,
+        "word": "24岁女子嫁85岁老头还要为其生子",
+        "onboard_time": 1675639580,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242834,
+        "num": 242834,
+        "word": "我国今年将全面推进探月工程四期",
+        "onboard_time": 1675648708,
+        "rank": 35,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 222182,
+        "num": 222182,
+        "word": "苹果短期不会出新款MacStudio",
+        "onboard_time": 1675648828,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 220381,
+        "num": 220381,
+        "word": "许诺 九尾",
+        "onboard_time": 1675643010,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216460,
+        "num": 216460,
+        "word": "女生庙里求姻缘对过路帅哥一见钟情",
+        "onboard_time": 1675620855,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 203510,
+        "num": 203510,
+        "word": "严浩翔也在追狂飙",
+        "onboard_time": 1675646306,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174261,
+        "num": 174261,
+        "word": "毛晓彤真的好漂亮啊",
+        "onboard_time": 1675602632,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168570,
+        "num": 168570,
+        "word": "YG新女团日本新成员公开",
+        "onboard_time": 1675640241,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159288,
+        "num": 159288,
+        "word": "这烟花都对不起自己的块头",
+        "onboard_time": 1675641566,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158742,
+        "num": 158742,
+        "word": "中方就美方袭击中国飞艇提严正交涉",
+        "onboard_time": 1675651587,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 158253,
+        "num": 158253,
+        "word": "孟佳粉色双马尾唱candy",
+        "onboard_time": 1675648467,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156308,
+        "num": 156308,
+        "word": "郑秀妍郑秀晶元宵节做饭vlog",
+        "onboard_time": 1675649188,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151436,
+        "num": 151436,
+        "word": "开学典礼校长用张颂文故事激励学生",
+        "onboard_time": 1675646728,
+        "rank": 46,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 150977,
+        "num": 150977,
+        "word": "南京夫子庙人海里的定海神针",
+        "onboard_time": 1675632432,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 148684,
+        "num": 148684,
+        "word": "张远压轴出息了",
+        "onboard_time": 1675605694,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144547,
+        "num": 144547,
+        "word": "两男子受高薪诱惑想去缅甸挣大钱",
+        "onboard_time": 1675651769,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#元宵晚会舞台再现中国排面#"
+    }
+  }
+}

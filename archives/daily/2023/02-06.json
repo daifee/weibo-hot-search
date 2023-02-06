@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675651274404,
+  "endTime": 1675651871936,
   "band_list": [
     {
       "raw_hot": 2057929,
@@ -75,20 +75,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 966111,
+      "num": 966111,
+      "word": "网传骄阳伴我今日杀青",
+      "onboard_time": 1675649668,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 943659,
       "num": 943659,
       "word": "苹果2024年或推出无接口设计iPhone",
       "onboard_time": 1675644868,
       "rank": 5,
       "category": "科技"
-    },
-    {
-      "raw_hot": 903738,
-      "num": 903738,
-      "word": "网传骄阳伴我今日杀青",
-      "onboard_time": 1675649668,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 903358,
@@ -105,6 +105,22 @@
       "onboard_time": 1675638797,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 829543,
+      "num": 829543,
+      "word": "你会买超过2万元的iPhone吗",
+      "onboard_time": 1675648646,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 820577,
+      "num": 529947,
+      "word": "何广智打算换了72平的大房子",
+      "onboard_time": 1675651467,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 785356,
@@ -131,12 +147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 696026,
-      "num": 696026,
-      "word": "你会买超过2万元的iPhone吗",
-      "onboard_time": 1675648646,
-      "rank": 4,
-      "category": "科技"
+      "raw_hot": 698387,
+      "num": 698387,
+      "word": "韩媒评林孝埈双冠",
+      "onboard_time": 1675650568,
+      "rank": 25,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 645152,
@@ -179,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 542828,
+      "num": 542828,
+      "word": "李承铉脖子上挂的是奶嘴",
+      "onboard_time": 1675649006,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540289,
       "num": 540289,
       "word": "泫雅亲粉丝脸",
@@ -203,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 511120,
-      "num": 511120,
-      "word": "李承铉脖子上挂的是奶嘴",
-      "onboard_time": 1675649006,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 502745,
+      "num": 502745,
+      "word": "消失的她定档0622",
+      "onboard_time": 1675650029,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 501437,
@@ -227,19 +251,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 468334,
-      "num": 468334,
+      "raw_hot": 484294,
+      "num": 484294,
       "word": "央美学生还原三体火鸡科学家",
       "onboard_time": 1675649608,
       "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 442405,
-      "num": 442405,
-      "word": "消失的她定档0622",
-      "onboard_time": 1675650029,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -259,6 +275,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 431085,
+      "num": 431085,
+      "word": "狗狗跟主人坐长途车就差拍照了",
+      "onboard_time": 1675647808,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 416781,
+      "num": 416781,
+      "word": "84岁外婆第一次穿旗袍惊艳外孙女",
+      "onboard_time": 1675650207,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409109,
       "num": 409109,
       "word": "现在包书皮都能代包了",
@@ -273,14 +305,6 @@
       "onboard_time": 1675648828,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 406859,
-      "num": 406859,
-      "word": "狗狗跟主人坐长途车就差拍照了",
-      "onboard_time": 1675647808,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 397797,
@@ -315,6 +339,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 356739,
+      "num": 356739,
+      "word": "朱一龙文咏珊新电影演夫妻",
+      "onboard_time": 1675651169,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354010,
       "num": 354010,
       "word": "严浩翔也在追狂飙",
@@ -331,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 345742,
+      "num": 345742,
+      "word": "库克称果粉愿意高价买iPhone",
+      "onboard_time": 1675649847,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 343797,
       "num": 343797,
       "word": "路人见到杨超越的反应",
@@ -345,14 +385,6 @@
       "onboard_time": 1675591946,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 333895,
-      "num": 333895,
-      "word": "84岁外婆第一次穿旗袍惊艳外孙女",
-      "onboard_time": 1675650207,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332843,
@@ -411,28 +443,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 309083,
-      "num": 309083,
-      "word": "韩媒评林孝埈双冠",
-      "onboard_time": 1675650568,
-      "rank": 25,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 303247,
       "num": 303247,
       "word": "开学",
       "onboard_time": 1675642769,
       "rank": 21,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 299250,
-      "num": 299250,
-      "word": "库克称果粉愿意高价买iPhone",
-      "onboard_time": 1675649847,
-      "rank": 27,
-      "category": "科技"
     },
     {
       "raw_hot": 297093,
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279266,
+      "num": 279266,
+      "word": "提前还贷比借钱难",
+      "onboard_time": 1675650749,
+      "rank": 36,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 273684,
       "num": 273684,
       "word": "YG新女团日本新成员公开",
@@ -483,8 +507,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250010,
-      "num": 250010,
+      "raw_hot": 265274,
+      "num": 265274,
+      "word": "三体结尾有罗辑",
+      "onboard_time": 1675650991,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 262140,
+      "num": 262140,
       "word": "90岁爷爷和5岁孙子对话看哭了",
       "onboard_time": 1675649908,
       "rank": 32,
@@ -539,28 +571,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 201801,
-      "num": 201801,
-      "word": "提前还贷比借钱难",
-      "onboard_time": 1675650749,
-      "rank": 36,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 201134,
       "num": 201134,
       "word": "滑出了半身不遂的感觉",
       "onboard_time": 1675611630,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 200918,
-      "num": 200918,
-      "word": "三体结尾有罗辑",
-      "onboard_time": 1675650991,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 198632,
@@ -603,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183210,
+      "num": 969166,
+      "word": "坐上高铁去滑雪",
+      "onboard_time": 1675650447,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182020,
       "num": 182020,
       "word": "时代少年团爆炸头错位图",
@@ -617,14 +641,6 @@
       "onboard_time": 1675648467,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175498,
-      "num": 175498,
-      "word": "朱一龙文咏珊新电影演夫妻",
-      "onboard_time": 1675651169,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 173461,
@@ -707,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158742,
+      "num": 158742,
+      "word": "中方就美方袭击中国飞艇提严正交涉",
+      "onboard_time": 1675651587,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 157941,
       "num": 157941,
       "word": "郑秀妍郑秀晶元宵节做饭vlog",
@@ -771,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144547,
+      "num": 144547,
+      "word": "两男子受高薪诱惑想去缅甸挣大钱",
+      "onboard_time": 1675651769,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142488,
       "num": 142488,
       "word": "声声慢",
@@ -801,14 +833,6 @@
       "onboard_time": 1675616602,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136737,
-      "num": 969166,
-      "word": "坐上高铁去滑雪",
-      "onboard_time": 1675650447,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135787,

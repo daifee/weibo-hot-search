@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675651274404,
+  "endTime": 1675651871936,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -1667,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 966111,
+      "num": 966111,
+      "word": "网传骄阳伴我今日杀青",
+      "onboard_time": 1675649668,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 965201,
       "num": 965201,
       "word": "躲春是迷信吗",
@@ -1865,14 +1873,6 @@
       "onboard_time": 1675481427,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 903738,
-      "num": 903738,
-      "word": "网传骄阳伴我今日杀青",
-      "onboard_time": 1675649668,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 903416,
@@ -2139,6 +2139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 829543,
+      "num": 829543,
+      "word": "你会买超过2万元的iPhone吗",
+      "onboard_time": 1675648646,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 829301,
       "num": 829301,
       "word": "游客偷带食物喂兔子致大批死亡",
@@ -2201,6 +2209,14 @@
       "onboard_time": 1675476208,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 820577,
+      "num": 529947,
+      "word": "何广智打算换了72平的大房子",
+      "onboard_time": 1675651467,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 815216,
@@ -2795,20 +2811,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 698387,
+      "num": 698387,
+      "word": "韩媒评林孝埈双冠",
+      "onboard_time": 1675650568,
+      "rank": 25,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 697848,
       "num": 697848,
       "word": "咖啡渣居然能去黑眼圈",
       "onboard_time": 1675501346,
       "rank": 24,
       "category": "其它"
-    },
-    {
-      "raw_hot": 696026,
-      "num": 696026,
-      "word": "你会买超过2万元的iPhone吗",
-      "onboard_time": 1675648646,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 695981,
@@ -3859,6 +3875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 542828,
+      "num": 542828,
+      "word": "李承铉脖子上挂的是奶嘴",
+      "onboard_time": 1675649006,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542117,
       "num": 542117,
       "word": "张译新剧又是悬疑风",
@@ -4139,14 +4163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 511120,
-      "num": 511120,
-      "word": "李承铉脖子上挂的是奶嘴",
-      "onboard_time": 1675649006,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 510429,
       "num": 197042,
       "word": "胡鑫宇录音笔已送深圳恢复数据",
@@ -4233,6 +4249,14 @@
       "onboard_time": 1675305765,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502745,
+      "num": 502745,
+      "word": "消失的她定档0622",
+      "onboard_time": 1675650029,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 502341,
@@ -4419,6 +4443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 484294,
+      "num": 484294,
+      "word": "央美学生还原三体火鸡科学家",
+      "onboard_time": 1675649608,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483611,
       "num": 483611,
       "word": "女子收老板万元红包拆开后崩溃",
@@ -4520,14 +4552,6 @@
       "word": "杨幂为邓超新电影打call",
       "onboard_time": 1675418072,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 468334,
-      "num": 468334,
-      "word": "央美学生还原三体火鸡科学家",
-      "onboard_time": 1675649608,
-      "rank": 10,
       "category": "影视"
     },
     {
@@ -4787,14 +4811,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 442405,
-      "num": 442405,
-      "word": "消失的她定档0622",
-      "onboard_time": 1675650029,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 442046,
       "num": 442046,
       "word": "近三年房贷成本累计减少16%",
@@ -4913,6 +4929,14 @@
       "onboard_time": 1675219590,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431085,
+      "num": 431085,
+      "word": "狗狗跟主人坐长途车就差拍照了",
+      "onboard_time": 1675647808,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 429894,
@@ -5075,6 +5099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 416781,
+      "num": 416781,
+      "word": "84岁外婆第一次穿旗袍惊艳外孙女",
+      "onboard_time": 1675650207,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416462,
       "num": 416462,
       "word": "大爷一听就是老杰伦了",
@@ -5201,14 +5233,6 @@
       "onboard_time": 1675254209,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 406859,
-      "num": 406859,
-      "word": "狗狗跟主人坐长途车就差拍照了",
-      "onboard_time": 1675647808,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 405380,
@@ -5915,6 +5939,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 356739,
+      "num": 356739,
+      "word": "朱一龙文咏珊新电影演夫妻",
+      "onboard_time": 1675651169,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 356712,
       "num": 356712,
       "word": "如果狂飙改名",
@@ -6123,6 +6155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 345742,
+      "num": 345742,
+      "word": "库克称果粉愿意高价买iPhone",
+      "onboard_time": 1675649847,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 345642,
       "num": 345642,
       "word": "虞书欣粉色抹胸碎花裙",
@@ -6329,14 +6369,6 @@
       "onboard_time": 1675518271,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 333895,
-      "num": 333895,
-      "word": "84岁外婆第一次穿旗袍惊艳外孙女",
-      "onboard_time": 1675650207,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333275,
@@ -6739,14 +6771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309083,
-      "num": 309083,
-      "word": "韩媒评林孝埈双冠",
-      "onboard_time": 1675650568,
-      "rank": 25,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 308181,
       "num": 308181,
       "word": "警方回应胡鑫宇事件相关谣言",
@@ -6897,14 +6921,6 @@
       "onboard_time": 1675406008,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 299250,
-      "num": 299250,
-      "word": "库克称果粉愿意高价买iPhone",
-      "onboard_time": 1675649847,
-      "rank": 27,
-      "category": "科技"
     },
     {
       "raw_hot": 299154,
@@ -7339,6 +7355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 279266,
+      "num": 279266,
+      "word": "提前还贷比借钱难",
+      "onboard_time": 1675650749,
+      "rank": 36,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 278217,
       "num": 278217,
       "word": "流浪地球2",
@@ -7675,6 +7699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265274,
+      "num": 265274,
+      "word": "三体结尾有罗辑",
+      "onboard_time": 1675650991,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265107,
       "num": 265107,
       "word": "张若昀新剧原声台词",
@@ -7753,6 +7785,14 @@
       "onboard_time": 1675302209,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 262140,
+      "num": 262140,
+      "word": "90岁爷爷和5岁孙子对话看哭了",
+      "onboard_time": 1675649908,
+      "rank": 32,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 262055,
@@ -7993,14 +8033,6 @@
       "onboard_time": 1675506929,
       "rank": 27,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 250010,
-      "num": 250010,
-      "word": "90岁爷爷和5岁孙子对话看哭了",
-      "onboard_time": 1675649908,
-      "rank": 32,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 249915,
@@ -9083,14 +9115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201801,
-      "num": 201801,
-      "word": "提前还贷比借钱难",
-      "onboard_time": 1675650749,
-      "rank": 36,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 201793,
       "num": 201793,
       "word": "严浩翔珍珠脸钻造型",
@@ -9136,14 +9160,6 @@
       "word": "檀健次张婧仪同框路透",
       "onboard_time": 1675385369,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 200918,
-      "num": 200918,
-      "word": "三体结尾有罗辑",
-      "onboard_time": 1675650991,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -9923,6 +9939,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 183210,
+      "num": 969166,
+      "word": "坐上高铁去滑雪",
+      "onboard_time": 1675650447,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182521,
       "num": 182521,
       "word": "何广智讲复工新生活状态",
@@ -10185,14 +10209,6 @@
       "onboard_time": 1675496908,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175498,
-      "num": 175498,
-      "word": "朱一龙文咏珊新电影演夫妻",
-      "onboard_time": 1675651169,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 175150,
@@ -10891,6 +10907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158742,
+      "num": 158742,
+      "word": "中方就美方袭击中国飞艇提严正交涉",
+      "onboard_time": 1675651587,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 158552,
       "num": 158552,
       "word": "WTT支线赛安曼站2023",
@@ -11307,6 +11331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144547,
+      "num": 144547,
+      "word": "两男子受高薪诱惑想去缅甸挣大钱",
+      "onboard_time": 1675651769,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144228,
       "num": 144228,
       "word": "杭州天气有利于观赏烟花",
@@ -11529,14 +11561,6 @@
       "onboard_time": 1675595068,
       "rank": 41,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 136737,
-      "num": 969166,
-      "word": "坐上高铁去滑雪",
-      "onboard_time": 1675650447,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135937,
