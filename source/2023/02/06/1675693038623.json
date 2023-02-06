@@ -1,0 +1,410 @@
+{
+  "runTime": 1675693038623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1411066,
+        "num": 1411066,
+        "word": "土耳其大批运动员被埋废墟",
+        "onboard_time": 1675685729,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1106867,
+        "num": 1106867,
+        "word": "张译演反派吓到岳云鹏",
+        "onboard_time": 1675687409,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78218,
+        "num": 974430,
+        "word": "太空视角看灯火里的中国",
+        "onboard_time": 1675669888,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1201161,
+        "num": 964086,
+        "word": "王俊凯给车牌打码",
+        "onboard_time": 1675684232,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 923237,
+        "num": 923237,
+        "word": "广东人会把肠粉淹死在酱汁里",
+        "onboard_time": 1675688906,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 755209,
+        "num": 755209,
+        "word": "土耳其附近发生8.0级左右地震",
+        "onboard_time": 1675680269,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721839,
+        "num": 721839,
+        "word": "土耳其一天内两次7.8级强震",
+        "onboard_time": 1675681289,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665838,
+        "num": 665838,
+        "word": "林志颖仍开特斯拉",
+        "onboard_time": 1675678409,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651060,
+        "num": 651060,
+        "word": "福原爱向男友前妻道歉",
+        "onboard_time": 1675675468,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 641895,
+        "num": 641895,
+        "word": "狂飙小五扮演者说和安欣是师徒情",
+        "onboard_time": 1675689991,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 807224,
+        "num": 638389,
+        "word": "男子结婚当天前女友们现场拉横幅",
+        "onboard_time": 1675683089,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686130,
+        "num": 638149,
+        "word": "中国游客被普吉岛旅行社负责人割伤",
+        "onboard_time": 1675691549,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633427,
+        "num": 633427,
+        "word": "杨紫绿色抹胸纱裙",
+        "onboard_time": 1675683208,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 586563,
+        "num": 586563,
+        "word": "女子收房发现门外1米是公厕",
+        "onboard_time": 1675690891,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541152,
+        "num": 541152,
+        "word": "高叶周冬雨早期合照",
+        "onboard_time": 1675690409,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476664,
+        "num": 476664,
+        "word": "刘慈欣二刷流浪地球2发现小bug",
+        "onboard_time": 1675685070,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466936,
+        "num": 466936,
+        "word": "美方称发现第二个来自中国的气球",
+        "onboard_time": 1675674329,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707959,
+        "num": 465068,
+        "word": "30岁男子发现56岁老妈生二胎",
+        "onboard_time": 1675680450,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404601,
+        "num": 404601,
+        "word": "边伯贤说再也不会和粉丝分开了",
+        "onboard_time": 1675692870,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680185,
+        "num": 402315,
+        "word": "男生骑车被劳斯莱斯撞倒笑出了声",
+        "onboard_time": 1675682730,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396362,
+        "num": 396362,
+        "word": "张艺兴面纱封面在格莱美现场出现",
+        "onboard_time": 1675690710,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 388523,
+        "num": 388523,
+        "word": "沈阳的澡堂子还能漂流",
+        "onboard_time": 1675683327,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 371325,
+        "num": 371325,
+        "word": "她的寒假作业是吹出来的",
+        "onboard_time": 1675687047,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 336149,
+        "num": 336149,
+        "word": "赵樱子扮演的裘千尺",
+        "onboard_time": 1675684647,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333276,
+        "num": 333276,
+        "word": "狂飙收视战报",
+        "onboard_time": 1675687409,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275530,
+        "num": 275530,
+        "word": "如何看待高龄父母要生二胎",
+        "onboard_time": 1675690530,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258217,
+        "num": 258217,
+        "word": "边伯贤chu手势舞",
+        "onboard_time": 1675687289,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248546,
+        "num": 248546,
+        "word": "林孝埈 谢谢大家我回来了",
+        "onboard_time": 1675677089,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247580,
+        "num": 247580,
+        "word": "直击土耳其地震救援现场",
+        "onboard_time": 1675665806,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246037,
+        "num": 246037,
+        "word": "吴谨言机场给粉丝发红包",
+        "onboard_time": 1675689507,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238105,
+        "num": 238105,
+        "word": "原来笨笨是柯基",
+        "onboard_time": 1675684167,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229252,
+        "num": 229252,
+        "word": "声生不息台湾音乐回忆大赏",
+        "onboard_time": 1675688128,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216443,
+        "num": 216443,
+        "word": "为什么现在年轻人不想结婚了",
+        "onboard_time": 1675675229,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200349,
+        "num": 200349,
+        "word": "刘培强的AI修复还是保守了",
+        "onboard_time": 1675680512,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197477,
+        "num": 197477,
+        "word": "鞠婧祎韩菱纱红衣造型路透",
+        "onboard_time": 1675685966,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192081,
+        "num": 192081,
+        "word": "aespa演唱会预告视频",
+        "onboard_time": 1675689094,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190921,
+        "num": 190921,
+        "word": "强震已致土耳其叙利亚超1400人遇难",
+        "onboard_time": 1675679491,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184824,
+        "num": 184824,
+        "word": "陈思诚说朱一龙太文质彬彬了",
+        "onboard_time": 1675674390,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179669,
+        "num": 179669,
+        "word": "7pm 好听",
+        "onboard_time": 1675680691,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179481,
+        "num": 179481,
+        "word": "高启盛下线那场戏张颂文临时改台词",
+        "onboard_time": 1675692750,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166964,
+        "num": 166964,
+        "word": "为什么银行限制提前还房贷",
+        "onboard_time": 1675673909,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150050,
+        "num": 150050,
+        "word": "泰国满大街播放狂飙吸引中国游客",
+        "onboard_time": 1675692690,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148930,
+        "num": 148930,
+        "word": "Crisp和LWX碰拳",
+        "onboard_time": 1675692750,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146481,
+        "num": 146481,
+        "word": "贾冰回复网友一定要支持正版",
+        "onboard_time": 1675686807,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144155,
+        "num": 144155,
+        "word": "陈妍希说陈晓是比较依赖的人",
+        "onboard_time": 1675692931,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135219,
+        "num": 135219,
+        "word": "国产ChatGPT究竟何时能出",
+        "onboard_time": 1675692150,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127784,
+        "num": 127784,
+        "word": "万茜刘敏涛新剧好带感",
+        "onboard_time": 1675685370,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127087,
+        "num": 127087,
+        "word": "店方回应89元番茄牛腩肉少汤浅",
+        "onboard_time": 1675677688,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120642,
+        "num": 120642,
+        "word": "广州平均月薪11710元",
+        "onboard_time": 1675668149,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 116538,
+        "num": 116538,
+        "word": "香港女子凌晨通关来深圳吃宵夜",
+        "onboard_time": 1675671568,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#春来中国万象更新#"
+    }
+  }
+}
