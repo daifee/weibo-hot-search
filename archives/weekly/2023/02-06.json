@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675693038623,
+  "endTime": 1675694015600,
   "band_list": [
     {
       "raw_hot": 2366961,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1770807,
-      "num": 1003656,
+      "num": 1034697,
       "word": "王俊凯给车牌打码",
       "onboard_time": 1675684232,
       "rank": 3,
@@ -251,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1111049,
+      "num": 1111049,
+      "word": "广东人会把肠粉淹死在酱汁里",
+      "onboard_time": 1675688906,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1106867,
       "num": 1106867,
       "word": "张译演反派吓到岳云鹏",
@@ -273,6 +281,14 @@
       "onboard_time": 1675638378,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1031426,
+      "num": 1031426,
+      "word": "中国游客被普吉岛旅行社负责人割伤",
+      "onboard_time": 1675691549,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1021725,
@@ -355,14 +371,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 923237,
-      "num": 923237,
-      "word": "广东人会把肠粉淹死在酱汁里",
-      "onboard_time": 1675688906,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 903358,
       "num": 903358,
       "word": "夫妇后悔送养女儿寻女30年",
@@ -393,6 +401,22 @@
       "onboard_time": 1675656691,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 862418,
+      "num": 862418,
+      "word": "狂飙小五扮演者说和安欣是师徒情",
+      "onboard_time": 1675689991,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 858713,
+      "num": 662581,
+      "word": "女子收房发现门外1米是公厕",
+      "onboard_time": 1675690891,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 852871,
@@ -459,6 +483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 767197,
+      "num": 767197,
+      "word": "肖战新剧杀青笑得好开心",
+      "onboard_time": 1675693354,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 756282,
       "num": 756282,
       "word": "7pm 好听",
@@ -497,14 +529,6 @@
       "onboard_time": 1675670249,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 686130,
-      "num": 638149,
-      "word": "中国游客被普吉岛旅行社负责人割伤",
-      "onboard_time": 1675691549,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 683278,
@@ -563,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 641895,
-      "num": 641895,
-      "word": "狂飙小五扮演者说和安欣是师徒情",
-      "onboard_time": 1675689991,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 640157,
       "num": 640157,
       "word": "贾冰回复网友一定要支持正版",
@@ -619,12 +635,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 586563,
-      "num": 586563,
-      "word": "女子收房发现门外1米是公厕",
-      "onboard_time": 1675690891,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 583967,
+      "num": 583967,
+      "word": "边伯贤说再也不会和粉丝分开了",
+      "onboard_time": 1675692870,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 580514,
@@ -811,6 +827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 504689,
+      "num": 504689,
+      "word": "高启盛下线那场戏张颂文临时改台词",
+      "onboard_time": 1675692750,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 502745,
       "num": 502745,
       "word": "消失的她定档0622",
@@ -979,6 +1003,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 417516,
+      "num": 417516,
+      "word": "泰国满大街播放狂飙吸引中国游客",
+      "onboard_time": 1675692690,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 412910,
+      "num": 412910,
+      "word": "Crisp和LWX碰拳",
+      "onboard_time": 1675692750,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 410741,
       "num": 410741,
       "word": "在北京月收入过万算高吗",
@@ -1011,20 +1051,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 404601,
-      "num": 404601,
-      "word": "边伯贤说再也不会和粉丝分开了",
-      "onboard_time": 1675692870,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 402419,
       "num": 402419,
       "word": "王智流浪地球2路演状态",
       "onboard_time": 1675672288,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 398592,
+      "num": 398592,
+      "word": "张艺兴面纱封面在格莱美现场出现",
+      "onboard_time": 1675690710,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 397710,
@@ -1041,14 +1081,6 @@
       "onboard_time": 1675655790,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 396362,
-      "num": 396362,
-      "word": "张艺兴面纱封面在格莱美现场出现",
-      "onboard_time": 1675690710,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 395244,
@@ -1145,6 +1177,14 @@
       "onboard_time": 1675665088,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 358939,
+      "num": 358939,
+      "word": "原来不是胖才有双下巴",
+      "onboard_time": 1675692809,
+      "rank": 24,
+      "category": "其它"
     },
     {
       "raw_hot": 354010,
@@ -1955,6 +1995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184561,
+      "num": 184561,
+      "word": "陈妍希说陈晓是比较依赖的人",
+      "onboard_time": 1675692931,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182487,
       "num": 182487,
       "word": "朱一龙周一黑西装侧颜大片",
@@ -1977,6 +2025,14 @@
       "onboard_time": 1675667849,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181441,
+      "num": 181441,
+      "word": "杨紫琼对成龙说这是你的损失",
+      "onboard_time": 1675693771,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181196,
@@ -2009,14 +2065,6 @@
       "onboard_time": 1675681170,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179481,
-      "num": 179481,
-      "word": "高启盛下线那场戏张颂文临时改台词",
-      "onboard_time": 1675692750,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 175669,
@@ -2163,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160255,
+      "num": 160255,
+      "word": "当你一直戳狗狗的耳朵",
+      "onboard_time": 1675693293,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159058,
       "num": 159058,
       "word": "Aster被控诉拖欠工资",
@@ -2227,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154316,
+      "num": 154316,
+      "word": "国产ChatGPT究竟何时能出",
+      "onboard_time": 1675692150,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153597,
       "num": 153597,
       "word": "邢菲新剧带娃花絮",
@@ -2251,14 +2315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 150050,
-      "num": 150050,
-      "word": "泰国满大街播放狂飙吸引中国游客",
-      "onboard_time": 1675692690,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 149685,
       "num": 149685,
       "word": "哪本小说你想安利全世界",
@@ -2275,14 +2331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148930,
-      "num": 148930,
-      "word": "Crisp和LWX碰拳",
-      "onboard_time": 1675692750,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 147191,
       "num": 200057,
       "word": "狂飙剧组有多入戏",
@@ -2297,14 +2345,6 @@
       "onboard_time": 1675599452,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144155,
-      "num": 144155,
-      "word": "陈妍希说陈晓是比较依赖的人",
-      "onboard_time": 1675692931,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 142488,
@@ -2345,14 +2385,6 @@
       "onboard_time": 1675640544,
       "rank": 46,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 135219,
-      "num": 135219,
-      "word": "国产ChatGPT究竟何时能出",
-      "onboard_time": 1675692150,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 134650,
@@ -2523,6 +2555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108308,
+      "num": 108308,
+      "word": "土耳其消防正在救援旁边大楼轰然倒塌",
+      "onboard_time": 1675693953,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106248,
       "num": 106248,
       "word": "夫子庙",
@@ -2556,7 +2596,7 @@
     },
     {
       "raw_hot": 93074,
-      "num": 1015864,
+      "num": 1037024,
       "word": "太空视角看灯火里的中国",
       "onboard_time": 1675669888,
       "rank": 2,
