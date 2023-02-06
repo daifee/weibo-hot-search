@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675703775141,
+  "endTime": 1675704805039,
   "band_list": [
     {
       "raw_hot": 1152201,
@@ -179,8 +179,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262889,
-      "num": 220172,
+      "raw_hot": 301548,
+      "num": 216105,
+      "word": "杨幂白切黑变脸视频",
+      "onboard_time": 1675702761,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 265452,
+      "num": 265452,
       "word": "在北京100块能买多少糕点",
       "onboard_time": 1675701501,
       "rank": 46,
@@ -195,20 +203,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 259990,
-      "num": 216105,
-      "word": "杨幂白切黑变脸视频",
-      "onboard_time": 1675702761,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256927,
       "num": 256927,
       "word": "杨幂方起诉黑粉",
       "onboard_time": 1675698268,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256322,
+      "num": 256322,
+      "word": "第一次听说水果生蚝",
+      "onboard_time": 1675701143,
+      "rank": 36,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 250942,
@@ -233,14 +241,6 @@
       "onboard_time": 1675697492,
       "rank": 25,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 235294,
-      "num": 204116,
-      "word": "第一次听说水果生蚝",
-      "onboard_time": 1675701143,
-      "rank": 36,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 233612,
@@ -305,6 +305,14 @@
       "onboard_time": 1675683327,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157704,
+      "num": 98855,
+      "word": "2岁娃山区玩后反复发烧查出黑热病",
+      "onboard_time": 1675703299,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147584,
@@ -424,14 +432,6 @@
       "word": "直击土耳其地震救援现场",
       "onboard_time": 1675665806,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83722,
-      "num": 83722,
-      "word": "2岁娃山区玩后反复发烧查出黑热病",
-      "onboard_time": 1675703299,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
