@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675694015600,
+  "endTime": 1675696770502,
   "band_list": [
     {
       "raw_hot": 2366961,
@@ -211,11 +211,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1252750,
+      "num": 590726,
+      "word": "王嘉尔回国",
+      "onboard_time": 1675694495,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1241686,
       "num": 1241686,
       "word": "男子结婚当天前女友们现场拉横幅",
       "onboard_time": 1675683089,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1226321,
+      "num": 1031426,
+      "word": "中国游客被普吉岛旅行社负责人割伤",
+      "onboard_time": 1675691549,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -251,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1112863,
+      "num": 802947,
+      "word": "女子存5万被要求提供收入证明",
+      "onboard_time": 1675694013,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1111049,
       "num": 1111049,
       "word": "广东人会把肠粉淹死在酱汁里",
@@ -283,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1031426,
-      "num": 1031426,
-      "word": "中国游客被普吉岛旅行社负责人割伤",
-      "onboard_time": 1675691549,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 1028169,
+      "num": 767197,
+      "word": "肖战新剧杀青笑得好开心",
+      "onboard_time": 1675693354,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1021725,
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 798609,
+      "num": 798609,
+      "word": "高启盛下线那场戏张颂文临时改台词",
+      "onboard_time": 1675692750,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 785356,
       "num": 785356,
       "word": "张远压轴出息了",
@@ -481,14 +513,6 @@
       "onboard_time": 1675673909,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 767197,
-      "num": 767197,
-      "word": "肖战新剧杀青笑得好开心",
-      "onboard_time": 1675693354,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 756282,
@@ -507,12 +531,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 747742,
+      "num": 747742,
+      "word": "泰国满大街播放狂飙吸引中国游客",
+      "onboard_time": 1675692690,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 742134,
       "num": 742134,
       "word": "林孝埈连夺两金",
       "onboard_time": 1675631352,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 735883,
+      "num": 587027,
+      "word": "朱珠在曼谷船上唱歌",
+      "onboard_time": 1675694671,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 718218,
+      "num": 583803,
+      "word": "陈妍希说陈晓是比较依赖的人",
+      "onboard_time": 1675692931,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 702725,
@@ -537,6 +585,14 @@
       "onboard_time": 1675685070,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 669662,
+      "num": 581642,
+      "word": "网友泰国偶遇蔡徐坤逛街",
+      "onboard_time": 1675695636,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 664788,
@@ -649,6 +705,14 @@
       "onboard_time": 1675622235,
       "rank": 10,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 577040,
+      "num": 577040,
+      "word": "原来不是胖才有双下巴",
+      "onboard_time": 1675692809,
+      "rank": 24,
+      "category": "其它"
     },
     {
       "raw_hot": 574608,
@@ -827,14 +891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 504689,
-      "num": 504689,
-      "word": "高启盛下线那场戏张颂文临时改台词",
-      "onboard_time": 1675692750,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 502745,
       "num": 502745,
       "word": "消失的她定档0622",
@@ -1003,12 +1059,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 417516,
-      "num": 417516,
-      "word": "泰国满大街播放狂飙吸引中国游客",
-      "onboard_time": 1675692690,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 414244,
+      "num": 256228,
+      "word": "中国女球员地震中幸免于难报平安",
+      "onboard_time": 1675695749,
+      "rank": 30,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 412910,
@@ -1171,20 +1227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363500,
+      "num": 363500,
+      "word": "薛之谦说郭聪明是细心的小孩子",
+      "onboard_time": 1675694913,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 359505,
       "num": 359505,
       "word": "想看林孝埈对决黄大宪要到下赛季了",
       "onboard_time": 1675665088,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 358939,
-      "num": 358939,
-      "word": "原来不是胖才有双下巴",
-      "onboard_time": 1675692809,
-      "rank": 24,
-      "category": "其它"
     },
     {
       "raw_hot": 354010,
@@ -1787,6 +1843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228308,
+      "num": 228308,
+      "word": "成都一幼儿园园长撞脸毛不易",
+      "onboard_time": 1675695931,
+      "rank": 33,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 227770,
       "num": 227770,
       "word": "年龄差距很大的婚姻会幸福吗",
@@ -1899,11 +1963,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204360,
+      "num": 204360,
+      "word": "杨紫琼对成龙说这是你的损失",
+      "onboard_time": 1675693771,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201134,
       "num": 201134,
       "word": "滑出了半身不遂的感觉",
       "onboard_time": 1675611630,
       "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 200977,
+      "num": 200977,
+      "word": "当你一直戳狗狗的耳朵",
+      "onboard_time": 1675693293,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -1995,14 +2075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184561,
-      "num": 184561,
-      "word": "陈妍希说陈晓是比较依赖的人",
-      "onboard_time": 1675692931,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182487,
       "num": 182487,
       "word": "朱一龙周一黑西装侧颜大片",
@@ -2025,14 +2097,6 @@
       "onboard_time": 1675667849,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181441,
-      "num": 181441,
-      "word": "杨紫琼对成龙说这是你的损失",
-      "onboard_time": 1675693771,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 181196,
@@ -2105,6 +2169,14 @@
       "onboard_time": 1675639642,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169276,
+      "num": 169276,
+      "word": "国产ChatGPT究竟何时能出",
+      "onboard_time": 1675692150,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 168561,
@@ -2211,14 +2283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160255,
-      "num": 160255,
-      "word": "当你一直戳狗狗的耳朵",
-      "onboard_time": 1675693293,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 159058,
       "num": 159058,
       "word": "Aster被控诉拖欠工资",
@@ -2283,14 +2347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154316,
-      "num": 154316,
-      "word": "国产ChatGPT究竟何时能出",
-      "onboard_time": 1675692150,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 153597,
       "num": 153597,
       "word": "邢菲新剧带娃花絮",
@@ -2313,6 +2369,14 @@
       "onboard_time": 1675676123,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150443,
+      "num": 150443,
+      "word": "肠粉加不加酱油真的这么重要吗",
+      "onboard_time": 1675694435,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 149685,
@@ -2463,6 +2527,14 @@
       "num": 123650,
       "word": "消失的她预告信息量",
       "onboard_time": 1675666408,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 122221,
+      "num": 122221,
+      "word": "高叶谈边境风云窒息戏",
+      "onboard_time": 1675694196,
       "rank": 49,
       "category": "影视"
     },
