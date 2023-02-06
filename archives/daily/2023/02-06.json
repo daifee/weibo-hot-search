@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675654456578,
+  "endTime": 1675657376091,
   "band_list": [
     {
       "raw_hot": 2221394,
@@ -59,6 +59,22 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1283008,
+      "num": 1283008,
+      "word": "网传TFBOYS十周年线下演唱会确定",
+      "onboard_time": 1675655248,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1281095,
+      "num": 1281095,
+      "word": "曝李秀满被公司单方面宣布退出",
+      "onboard_time": 1675655909,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1255120,
       "num": 1255120,
       "word": "星云大师圆寂",
@@ -72,6 +88,22 @@
       "word": "胜利将于2月11日出狱",
       "onboard_time": 1675648947,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1085244,
+      "num": 1085244,
+      "word": "专家称成年人有权做个废物",
+      "onboard_time": 1675653270,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1081700,
+      "num": 1081700,
+      "word": "李承铉脖子上挂的是奶嘴",
+      "onboard_time": 1675649006,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -123,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890435,
+      "num": 890435,
+      "word": "宁理 导演这次我杀谁",
+      "onboard_time": 1675654349,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 852871,
       "num": 852871,
       "word": "欧文被交易至独行侠",
@@ -137,6 +177,14 @@
       "onboard_time": 1675648646,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 810585,
+      "num": 810585,
+      "word": "两男子受高薪诱惑想去缅甸挣大钱",
+      "onboard_time": 1675651769,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 785356,
@@ -155,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 711521,
+      "num": 711521,
+      "word": "张凌赫点赞欣诚则凌视频",
+      "onboard_time": 1675656691,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 702725,
       "num": 702725,
       "word": "林孝埈钟宇晨500米晋级",
@@ -163,12 +219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 701539,
-      "num": 701539,
-      "word": "李承铉脖子上挂的是奶嘴",
-      "onboard_time": 1675649006,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 668409,
+      "num": 668409,
+      "word": "马龙进入国家队二十周年",
+      "onboard_time": 1675655429,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 649918,
@@ -185,6 +241,14 @@
       "onboard_time": 1675642167,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 629485,
+      "num": 629485,
+      "word": "Angelababy的羽绒服",
+      "onboard_time": 1675654110,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 628623,
@@ -211,8 +275,8 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 568986,
-      "num": 568986,
+      "raw_hot": 574608,
+      "num": 574608,
       "word": "张若昀王阳庆余年后二搭",
       "onboard_time": 1675654110,
       "rank": 10,
@@ -227,20 +291,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559670,
+      "num": 559670,
+      "word": "狂飙捡手机文学",
+      "onboard_time": 1675653209,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 540289,
       "num": 540289,
       "word": "泫雅亲粉丝脸",
       "onboard_time": 1675649068,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 527400,
-      "num": 527400,
-      "word": "两男子受高薪诱惑想去缅甸挣大钱",
-      "onboard_time": 1675651769,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 525715,
@@ -275,6 +339,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 500039,
+      "num": 500039,
+      "word": "不必因为父母的普通而自卑",
+      "onboard_time": 1675654948,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 495149,
       "num": 495149,
       "word": "中戏教授李红说安欣比高启强难演",
@@ -291,20 +363,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 479613,
-      "num": 479613,
-      "word": "狂飙捡手机文学",
-      "onboard_time": 1675653209,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 473506,
       "num": 473506,
       "word": "库克称果粉愿意高价买iPhone",
       "onboard_time": 1675649847,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 442334,
+      "num": 442334,
+      "word": "格莱美",
+      "onboard_time": 1675606354,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 437694,
@@ -321,6 +393,14 @@
       "onboard_time": 1675651169,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 433693,
+      "num": 433693,
+      "word": "90后被催婚时的反向操作",
+      "onboard_time": 1675652847,
+      "rank": 39,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 432056,
@@ -363,14 +443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 397797,
-      "num": 397797,
-      "word": "格莱美",
-      "onboard_time": 1675606354,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 397710,
       "num": 298488,
       "word": "湖南高速追尾事故亲历者发声",
@@ -387,20 +459,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 390400,
-      "num": 390400,
-      "word": "专家称成年人有权做个废物",
-      "onboard_time": 1675653270,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389418,
       "num": 389418,
       "word": "女生庙里求姻缘对过路帅哥一见钟情",
       "onboard_time": 1675620855,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 378129,
+      "num": 378129,
+      "word": "白鹿张凌赫片场斗嘴花絮",
+      "onboard_time": 1675656632,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 363904,
+      "num": 363904,
+      "word": "建议将年龄歧视纳入反就业歧视范畴",
+      "onboard_time": 1675655308,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354010,
@@ -433,6 +513,14 @@
       "onboard_time": 1675611691,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 340337,
+      "num": 340337,
+      "word": "言承旭说我是33号",
+      "onboard_time": 1675654467,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 334712,
@@ -475,6 +563,30 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 326955,
+      "num": 326955,
+      "word": "母亲回应儿子被邻居放炮炸伤致截肢",
+      "onboard_time": 1675656393,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324603,
+      "num": 324603,
+      "word": "前CBA球员实名举报天津篮协主席",
+      "onboard_time": 1675656449,
+      "rank": 28,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 322624,
+      "num": 322624,
+      "word": "孙千腿真长",
+      "onboard_time": 1675655790,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316167,
       "num": 316167,
       "word": "多地超长寒假结束",
@@ -497,14 +609,6 @@
       "onboard_time": 1675652967,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 311881,
-      "num": 311881,
-      "word": "90后被催婚时的反向操作",
-      "onboard_time": 1675652847,
-      "rank": 39,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 310410,
@@ -539,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293273,
+      "num": 293273,
+      "word": "Adele格莱美造型",
+      "onboard_time": 1675653388,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 289212,
       "num": 289212,
       "word": "时代少年团元宵喜乐会唱第一天",
       "onboard_time": 1675608931,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284277,
+      "num": 284277,
+      "word": "是狂飙同款没错了",
+      "onboard_time": 1675655790,
+      "rank": 31,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 279266,
@@ -603,11 +723,19 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 246904,
-      "num": 246904,
-      "word": "Adele格莱美造型",
-      "onboard_time": 1675653388,
-      "rank": 42,
+      "raw_hot": 249523,
+      "num": 249523,
+      "word": "孩子的压力到底有多大",
+      "onboard_time": 1675655671,
+      "rank": 36,
+      "category": "综艺,情感"
+    },
+    {
+      "raw_hot": 247631,
+      "num": 247631,
+      "word": "AI男爱豆对AI女爱豆的mvreaction",
+      "onboard_time": 1675654829,
+      "rank": 37,
       "category": "音乐"
     },
     {
@@ -628,7 +756,7 @@
     },
     {
       "raw_hot": 233925,
-      "num": 1187289,
+      "num": 1281614,
       "word": "坐上高铁去滑雪",
       "onboard_time": 1675650447,
       "rank": 2,
@@ -683,6 +811,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 214606,
+      "num": 214606,
+      "word": "时代少年团实体专辑开启预约",
+      "onboard_time": 1675654587,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201134,
       "num": 201134,
       "word": "滑出了半身不遂的感觉",
@@ -715,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193033,
-      "num": 193033,
-      "word": "宁理 导演这次我杀谁",
-      "onboard_time": 1675654349,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 192430,
       "num": 192430,
       "word": "苹果4年来季度营收首次下滑",
@@ -745,6 +873,14 @@
       "onboard_time": 1675609532,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180827,
+      "num": 180827,
+      "word": "报告称北京平均月薪13930元",
+      "onboard_time": 1675657294,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 179554,
