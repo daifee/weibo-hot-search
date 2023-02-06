@@ -1,0 +1,410 @@
+{
+  "runTime": 1675668835283,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2012039,
+        "num": 2012039,
+        "word": "林志颖违规停车被罚款",
+        "onboard_time": 1675663767,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1375644,
+        "num": 1375644,
+        "word": "连体女婴分离14年后长成健康少女",
+        "onboard_time": 1675665447,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81665,
+        "num": 1246604,
+        "word": "坐上高铁去滑雪",
+        "onboard_time": 1675650447,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1216048,
+        "num": 1216048,
+        "word": "学校组织学生徒步自费看满江红",
+        "onboard_time": 1675665088,
+        "rank": 3,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 1003660,
+        "num": 1003660,
+        "word": "贾冰说我都这么狠了你们还想笑",
+        "onboard_time": 1675662088,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 924096,
+        "num": 924096,
+        "word": "66岁大叔和女友买新房名字没自己",
+        "onboard_time": 1675664368,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892803,
+        "num": 892803,
+        "word": "九价HPV疫苗现捆绑销售",
+        "onboard_time": 1675658314,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544714,
+        "num": 544714,
+        "word": "任泽平建议法定婚龄降到18岁",
+        "onboard_time": 1675667668,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528552,
+        "num": 528552,
+        "word": "哪些人群不建议打九价疫苗",
+        "onboard_time": 1675666348,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497633,
+        "num": 497633,
+        "word": "梁朝伟问周迅无名变喜剧了吗",
+        "onboard_time": 1675665567,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 492409,
+        "num": 492409,
+        "word": "满江红实时票房破40亿",
+        "onboard_time": 1675662747,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 491978,
+        "num": 491978,
+        "word": "母亲回应儿子被邻居放炮炸伤致截肢",
+        "onboard_time": 1675656393,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432670,
+        "num": 432670,
+        "word": "倪妮消失的她短发机车造型",
+        "onboard_time": 1675666587,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432074,
+        "num": 432074,
+        "word": "海底捞很关心久龙",
+        "onboard_time": 1675667247,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 394740,
+        "num": 394740,
+        "word": "何广智打算换了72平的大房子",
+        "onboard_time": 1675651467,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359505,
+        "num": 359505,
+        "word": "想看林孝埈对决黄大宪要到下赛季了",
+        "onboard_time": 1675665088,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339346,
+        "num": 339346,
+        "word": "在北京月收入过万算高吗",
+        "onboard_time": 1675662687,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338148,
+        "num": 338148,
+        "word": "4岁血癌娃术后重度感染每天便血270次",
+        "onboard_time": 1675660353,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325035,
+        "num": 325035,
+        "word": "洋迪已被注册商标",
+        "onboard_time": 1675664968,
+        "rank": 18,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 279891,
+        "num": 279891,
+        "word": "马嘉祺声生不息灰色毛衣上班路透",
+        "onboard_time": 1675666887,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270823,
+        "num": 270823,
+        "word": "直击土耳其地震救援现场",
+        "onboard_time": 1675665806,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270343,
+        "num": 270343,
+        "word": "陈书婷ootd",
+        "onboard_time": 1675659391,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263281,
+        "num": 263281,
+        "word": "千万不要坐着遛狗",
+        "onboard_time": 1675664186,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253489,
+        "num": 253489,
+        "word": "徐若晗对言承旭说记住你了",
+        "onboard_time": 1675667367,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253177,
+        "num": 253177,
+        "word": "韩媒评林孝埈双冠",
+        "onboard_time": 1675650568,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 250385,
+        "num": 250385,
+        "word": "产后抑郁不是公主病",
+        "onboard_time": 1675663229,
+        "rank": 25,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 233902,
+        "num": 233902,
+        "word": "网传TFBOYS十周年线下演唱会确定",
+        "onboard_time": 1675655248,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231659,
+        "num": 231659,
+        "word": "广州平均月薪11710元",
+        "onboard_time": 1675668149,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 214187,
+        "num": 214187,
+        "word": "曝李秀满被公司单方面宣布退出",
+        "onboard_time": 1675655909,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189579,
+        "num": 212070,
+        "word": "土耳其发生7.8级地震",
+        "onboard_time": 1675648107,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211008,
+        "num": 211008,
+        "word": "宁理 导演这次我杀谁",
+        "onboard_time": 1675654349,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210948,
+        "num": 210948,
+        "word": "成毅李一桐英雄志雪景同框路透",
+        "onboard_time": 1675666767,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205382,
+        "num": 205382,
+        "word": "报告称北京平均月薪13930元",
+        "onboard_time": 1675657294,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 200547,
+        "num": 200547,
+        "word": "张凌赫点赞欣诚则凌视频",
+        "onboard_time": 1675656691,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199527,
+        "num": 199527,
+        "word": "中方就美方袭击中国飞艇提严正交涉",
+        "onboard_time": 1675651587,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 196680,
+        "num": 196680,
+        "word": "成毅吹笛子",
+        "onboard_time": 1675667126,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181605,
+        "num": 181605,
+        "word": "狗子的自我管理意识有多强",
+        "onboard_time": 1675667849,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181107,
+        "num": 181107,
+        "word": "张婧仪周一白色吊带裙随拍",
+        "onboard_time": 1675663888,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180410,
+        "num": 180410,
+        "word": "为什么现在都盛行打九价",
+        "onboard_time": 1675667067,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168132,
+        "num": 168132,
+        "word": "图丫丫的房间壁纸条形码被解码了",
+        "onboard_time": 1675662088,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216789,
+        "num": 165674,
+        "word": "前CBA球员实名举报天津篮协主席",
+        "onboard_time": 1675656449,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 160442,
+        "num": 160442,
+        "word": "火什么时候灭我们什么时候回",
+        "onboard_time": 1675665208,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 144721,
+        "num": 144721,
+        "word": "不愧是重庆的出租车",
+        "onboard_time": 1675660532,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143680,
+        "num": 143680,
+        "word": "强震致土叙两国死亡人数已升至百余人",
+        "onboard_time": 1675668688,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142230,
+        "num": 142230,
+        "word": "车主称会起诉故意推倒摩托老人继承人",
+        "onboard_time": 1675662509,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141633,
+        "num": 141633,
+        "word": "你会选择贷款买房吗",
+        "onboard_time": 1675659331,
+        "rank": 45,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 140769,
+        "num": 140769,
+        "word": "易烊千玺橙色系运动风造型",
+        "onboard_time": 1675659512,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138317,
+        "num": 138317,
+        "word": "马龙进入国家队二十周年",
+        "onboard_time": 1675655429,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137686,
+        "num": 137686,
+        "word": "超市拒收1元纸币称银行难存",
+        "onboard_time": 1675658673,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127915,
+        "num": 127915,
+        "word": "男孩通宵赶完的作业被狗子全部撕碎",
+        "onboard_time": 1675658971,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#春来中国万象更新#"
+    }
+  }
+}
