@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675722815538,
+  "endTime": 1675725498136,
   "band_list": [
     {
       "raw_hot": 1152201,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500478,
+      "num": 192885,
+      "word": "2岁娃山区玩后反复发烧查出黑热病",
+      "onboard_time": 1675703299,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482256,
       "num": 482256,
       "word": "高启盛下线那场戏张颂文临时改台词",
@@ -89,6 +97,14 @@
       "onboard_time": 1675685729,
       "rank": 8,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 433837,
+      "num": 189709,
+      "word": "杭州两套拆迁房让一对亲姐妹闹翻",
+      "onboard_time": 1675711152,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431117,
@@ -153,6 +169,14 @@
       "onboard_time": 1675697610,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352022,
+      "num": 352022,
+      "word": "256斤男生半年暴瘦100斤变肌肉猛男",
+      "onboard_time": 1675705696,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349331,
@@ -243,6 +267,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 239386,
+      "num": 239386,
+      "word": "美方称发现第二个来自中国的气球",
+      "onboard_time": 1675674329,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233612,
       "num": 233612,
       "word": "原来不是胖才有双下巴",
@@ -259,20 +291,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 225717,
+      "num": 182947,
+      "word": "网传肖战李沁梦中的那片海Q1播出",
+      "onboard_time": 1675704976,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214590,
       "num": 214590,
       "word": "张译演反派吓到岳云鹏",
       "onboard_time": 1675687409,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195255,
-      "num": 195255,
-      "word": "美方称发现第二个来自中国的气球",
-      "onboard_time": 1675674329,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190367,
@@ -297,30 +329,6 @@
       "onboard_time": 1675700364,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 179713,
-      "num": 101291,
-      "word": "2岁娃山区玩后反复发烧查出黑热病",
-      "onboard_time": 1675703299,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175976,
-      "num": 175976,
-      "word": "256斤男生半年暴瘦100斤变肌肉猛男",
-      "onboard_time": 1675705696,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163115,
-      "num": 78273,
-      "word": "杭州两套拆迁房让一对亲姐妹闹翻",
-      "onboard_time": 1675711152,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157855,
@@ -353,14 +361,6 @@
       "onboard_time": 1675694913,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 141511,
-      "num": 100984,
-      "word": "网传肖战李沁梦中的那片海Q1播出",
-      "onboard_time": 1675704976,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 138372,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72671,
+      "num": 72671,
+      "word": "这驾照是非学不可吗",
+      "onboard_time": 1675725079,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 55688,
       "num": 55688,
       "word": "你会邀请前任参加你的婚礼吗",
@@ -467,12 +475,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 38779,
-      "num": 38779,
+      "raw_hot": 49034,
+      "num": 49034,
       "word": "东北公主的下午茶有多优雅",
       "onboard_time": 1675713973,
       "rank": 36,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 47376,
+      "num": 47376,
+      "word": "高叶回应剧抛脸",
+      "onboard_time": 1675725439,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 18749,

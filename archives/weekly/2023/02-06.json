@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675722815538,
+  "endTime": 1675725498136,
   "band_list": [
     {
       "raw_hot": 2366961,
@@ -939,6 +939,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 500478,
+      "num": 192885,
+      "word": "2岁娃山区玩后反复发烧查出黑热病",
+      "onboard_time": 1675703299,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495149,
       "num": 495149,
       "word": "中戏教授李红说安欣比高启强难演",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1675651169,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 433837,
+      "num": 189709,
+      "word": "杭州两套拆迁房让一对亲姐妹闹翻",
+      "onboard_time": 1675711152,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433693,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1675646306,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 352022,
+      "num": 352022,
+      "word": "256斤男生半年暴瘦100斤变肌肉猛男",
+      "onboard_time": 1675705696,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348810,
@@ -1947,6 +1971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 225717,
+      "num": 182947,
+      "word": "网传肖战李沁梦中的那片海Q1播出",
+      "onboard_time": 1675704976,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224051,
       "num": 224051,
       "word": "为什么现在都盛行打九价",
@@ -2195,14 +2227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179713,
-      "num": 101291,
-      "word": "2岁娃山区玩后反复发烧查出黑热病",
-      "onboard_time": 1675703299,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179578,
       "num": 179578,
       "word": "Scout获得周MVP",
@@ -2225,14 +2249,6 @@
       "onboard_time": 1675681170,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175976,
-      "num": 175976,
-      "word": "256斤男生半年暴瘦100斤变肌肉猛男",
-      "onboard_time": 1675705696,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175669,
@@ -2361,14 +2377,6 @@
       "onboard_time": 1675649430,
       "rank": 46,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 163115,
-      "num": 78273,
-      "word": "杭州两套拆迁房让一对亲姐妹闹翻",
-      "onboard_time": 1675711152,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162967,
@@ -2537,14 +2545,6 @@
       "onboard_time": 1675603712,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141511,
-      "num": 100984,
-      "word": "网传肖战李沁梦中的那片海Q1播出",
-      "onboard_time": 1675704976,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 139666,
@@ -2811,6 +2811,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 72671,
+      "num": 72671,
+      "word": "这驾照是非学不可吗",
+      "onboard_time": 1675725079,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 65971,
       "num": 1107248,
       "word": "元宵喜乐",
@@ -2835,12 +2843,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 38779,
-      "num": 38779,
+      "raw_hot": 49034,
+      "num": 49034,
       "word": "东北公主的下午茶有多优雅",
       "onboard_time": 1675713973,
       "rank": 36,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 47376,
+      "num": 47376,
+      "word": "高叶回应剧抛脸",
+      "onboard_time": 1675725439,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 17931,
