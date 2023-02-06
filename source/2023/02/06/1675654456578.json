@@ -1,0 +1,410 @@
+{
+  "runTime": 1675654456578,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1988463,
+        "num": 1988463,
+        "word": "何广智打算换了72平的大房子",
+        "onboard_time": 1675651467,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1351037,
+        "num": 1351037,
+        "word": "韩媒评林孝埈双冠",
+        "onboard_time": 1675650568,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 230537,
+        "num": 1113101,
+        "word": "坐上高铁去滑雪",
+        "onboard_time": 1675650447,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982807,
+        "num": 982807,
+        "word": "土耳其发生7.8级地震",
+        "onboard_time": 1675648107,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934155,
+        "num": 934155,
+        "word": "中方就美方袭击中国飞艇提严正交涉",
+        "onboard_time": 1675651587,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 773321,
+        "num": 773321,
+        "word": "胜利将于2月11日出狱",
+        "onboard_time": 1675648947,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713805,
+        "num": 713805,
+        "word": "你会买超过2万元的iPhone吗",
+        "onboard_time": 1675648646,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 701539,
+        "num": 701539,
+        "word": "李承铉脖子上挂的是奶嘴",
+        "onboard_time": 1675649006,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665916,
+        "num": 665916,
+        "word": "网传骄阳伴我今日杀青",
+        "onboard_time": 1675649668,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 649918,
+        "num": 649918,
+        "word": "84岁外婆第一次穿旗袍惊艳外孙女",
+        "onboard_time": 1675650207,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568986,
+        "num": 568986,
+        "word": "张若昀王阳庆余年后二搭",
+        "onboard_time": 1675654110,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 527400,
+        "num": 527400,
+        "word": "两男子受高薪诱惑想去缅甸挣大钱",
+        "onboard_time": 1675651769,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479613,
+        "num": 479613,
+        "word": "狂飙捡手机文学",
+        "onboard_time": 1675653209,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 473506,
+        "num": 473506,
+        "word": "库克称果粉愿意高价买iPhone",
+        "onboard_time": 1675649847,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 398544,
+        "num": 398544,
+        "word": "虞书欣云之羽战损妆",
+        "onboard_time": 1675652608,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 390400,
+        "num": 390400,
+        "word": "专家称成年人有权做个废物",
+        "onboard_time": 1675653270,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374275,
+        "num": 374275,
+        "word": "泫雅亲粉丝脸",
+        "onboard_time": 1675649068,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374047,
+        "num": 374047,
+        "word": "夫妇后悔送养女儿寻女30年",
+        "onboard_time": 1675610310,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355900,
+        "num": 355900,
+        "word": "朱一龙文咏珊新电影演夫妻",
+        "onboard_time": 1675651169,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349550,
+        "num": 349550,
+        "word": "多地中考取消男生1000米女生800米",
+        "onboard_time": 1675642410,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 340515,
+        "num": 340515,
+        "word": "段奥娟瘦了好多",
+        "onboard_time": 1675611272,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338229,
+        "num": 338229,
+        "word": "苹果2024年或推出无接口设计iPhone",
+        "onboard_time": 1675644868,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 329621,
+        "num": 329621,
+        "word": "格莱美",
+        "onboard_time": 1675606354,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312572,
+        "num": 312572,
+        "word": "狗狗跟主人坐长途车就差拍照了",
+        "onboard_time": 1675647808,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311881,
+        "num": 311881,
+        "word": "90后被催婚时的反向操作",
+        "onboard_time": 1675652847,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 279414,
+        "num": 279414,
+        "word": "星云大师圆寂",
+        "onboard_time": 1675614505,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258420,
+        "num": 258420,
+        "word": "女士的品格开播",
+        "onboard_time": 1675651891,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257974,
+        "num": 257974,
+        "word": "消失的她定档0622",
+        "onboard_time": 1675650029,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254112,
+        "num": 254112,
+        "word": "提前还贷比借钱难",
+        "onboard_time": 1675650749,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 252997,
+        "num": 252997,
+        "word": "阿尔卑斯山雪崩1名中国公民遇难",
+        "onboard_time": 1675652308,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 249927,
+        "num": 249927,
+        "word": "欧文被交易至独行侠",
+        "onboard_time": 1675638797,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246904,
+        "num": 246904,
+        "word": "Adele格莱美造型",
+        "onboard_time": 1675653388,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235943,
+        "num": 235943,
+        "word": "你期待骄阳伴我吗",
+        "onboard_time": 1675652967,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233628,
+        "num": 233628,
+        "word": "显微镜下的大明画面质感",
+        "onboard_time": 1675653630,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231483,
+        "num": 231483,
+        "word": "三体结尾有罗辑",
+        "onboard_time": 1675650991,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227015,
+        "num": 227015,
+        "word": "许诺 九尾",
+        "onboard_time": 1675643010,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226685,
+        "num": 226685,
+        "word": "林孝埈连夺两金",
+        "onboard_time": 1675631352,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221051,
+        "num": 221051,
+        "word": "我国今年将全面推进探月工程四期",
+        "onboard_time": 1675648708,
+        "rank": 37,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 210318,
+        "num": 210318,
+        "word": "郑秀妍郑秀晶元宵节做饭vlog",
+        "onboard_time": 1675649188,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203510,
+        "num": 203510,
+        "word": "央美学生还原三体火鸡科学家",
+        "onboard_time": 1675649608,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193033,
+        "num": 193033,
+        "word": "宁理 导演这次我杀谁",
+        "onboard_time": 1675654349,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192714,
+        "num": 192714,
+        "word": "张颂文元宵节看烟花vlog",
+        "onboard_time": 1675642167,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189089,
+        "num": 189089,
+        "word": "苹果短期不会出新款MacStudio",
+        "onboard_time": 1675648828,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 185007,
+        "num": 185007,
+        "word": "林孝埈中国队首金",
+        "onboard_time": 1675613907,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184144,
+        "num": 184144,
+        "word": "杭州小学生在烟花大会现场补作业",
+        "onboard_time": 1675646009,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182763,
+        "num": 182763,
+        "word": "车辆轮胎扎入钉子收费员一下听出",
+        "onboard_time": 1675648165,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176712,
+        "num": 176712,
+        "word": "90岁爷爷和5岁孙子对话看哭了",
+        "onboard_time": 1675649908,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 170584,
+        "num": 170584,
+        "word": "YG新女团日本新成员公开",
+        "onboard_time": 1675640241,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169470,
+        "num": 169470,
+        "word": "释放房地产市场合理需求",
+        "onboard_time": 1675646066,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164648,
+        "num": 164648,
+        "word": "于谦 梁家辉你被我盯上了",
+        "onboard_time": 1675648828,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}
