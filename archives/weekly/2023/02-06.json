@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675647299242,
+  "endTime": 1675648463090,
   "band_list": [
     {
       "raw_hot": 2057929,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1060545,
+      "num": 844989,
+      "word": "黄多多晒与同学比心合照",
+      "onboard_time": 1675638378,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1017737,
       "num": 1017737,
       "word": "周深被人踩了",
@@ -51,12 +59,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1009263,
-      "num": 844989,
-      "word": "黄多多晒与同学比心合照",
-      "onboard_time": 1675638378,
-      "rank": 7,
-      "category": "艺人"
+      "raw_hot": 943659,
+      "num": 943659,
+      "word": "苹果2024年或推出无接口设计iPhone",
+      "onboard_time": 1675644868,
+      "rank": 5,
+      "category": "科技"
     },
     {
       "raw_hot": 903358,
@@ -73,14 +81,6 @@
       "onboard_time": 1675638797,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 841071,
-      "num": 841071,
-      "word": "苹果2024年或推出无接口设计iPhone",
-      "onboard_time": 1675644868,
-      "rank": 5,
-      "category": "科技"
     },
     {
       "raw_hot": 785356,
@@ -155,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 525574,
+      "num": 525574,
+      "word": "杭州小学生在烟花大会现场补作业",
+      "onboard_time": 1675646009,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501437,
       "num": 501437,
       "word": "强迫症兔子每天睡前努力铺平床单",
@@ -169,6 +177,14 @@
       "onboard_time": 1675606709,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 450753,
+      "num": 450753,
+      "word": "土耳其发生7.8级地震",
+      "onboard_time": 1675648107,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437694,
@@ -195,12 +211,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 397797,
+      "num": 397797,
+      "word": "格莱美",
+      "onboard_time": 1675606354,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 397710,
       "num": 298488,
       "word": "湖南高速追尾事故亲历者发声",
       "onboard_time": 1675619776,
       "rank": 13,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 394167,
+      "num": 394167,
+      "word": "释放房地产市场合理需求",
+      "onboard_time": 1675646066,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 389418,
@@ -211,20 +243,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 380531,
-      "num": 380531,
-      "word": "格莱美",
-      "onboard_time": 1675606354,
-      "rank": 15,
-      "category": "音乐"
+      "raw_hot": 354010,
+      "num": 354010,
+      "word": "严浩翔也在追狂飙",
+      "onboard_time": 1675646306,
+      "rank": 18,
+      "category": "影视"
     },
     {
-      "raw_hot": 376341,
-      "num": 376341,
-      "word": "杭州小学生在烟花大会现场补作业",
-      "onboard_time": 1675646009,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 347290,
+      "num": 347290,
+      "word": "许诺 九尾",
+      "onboard_time": 1675643010,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 343797,
@@ -235,28 +267,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 337926,
-      "num": 337926,
-      "word": "许诺 九尾",
-      "onboard_time": 1675643010,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 334712,
       "num": 334712,
       "word": "张晨张常宁父亲因病去世",
       "onboard_time": 1675591946,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 332933,
-      "num": 332933,
-      "word": "严浩翔也在追狂飙",
-      "onboard_time": 1675646306,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 332843,
@@ -281,6 +297,14 @@
       "onboard_time": 1675600532,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 327605,
+      "num": 327605,
+      "word": "开学典礼校长用张颂文故事激励学生",
+      "onboard_time": 1675646728,
+      "rank": 27,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 316167,
@@ -323,14 +347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 289474,
-      "num": 289474,
-      "word": "释放房地产市场合理需求",
-      "onboard_time": 1675646066,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 289212,
       "num": 289212,
       "word": "时代少年团元宵喜乐会唱第一天",
@@ -353,14 +369,6 @@
       "onboard_time": 1675640060,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256472,
-      "num": 256472,
-      "word": "开学典礼校长用张颂文故事激励学生",
-      "onboard_time": 1675646728,
-      "rank": 27,
-      "category": "教育,艺人"
     },
     {
       "raw_hot": 244693,
@@ -427,6 +435,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 195629,
+      "num": 195629,
+      "word": "滑联盛赞林孝埈王者归来",
+      "onboard_time": 1675646907,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192430,
+      "num": 192430,
+      "word": "苹果4年来季度营收首次下滑",
+      "onboard_time": 1675647206,
+      "rank": 42,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 189631,
       "num": 189631,
       "word": "迪丽热巴晒元宵节随拍",
@@ -467,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166070,
+      "num": 166070,
+      "word": "狗狗跟主人坐长途车就差拍照了",
+      "onboard_time": 1675647808,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165419,
       "num": 165419,
       "word": "短道速滑世界杯",
@@ -483,8 +515,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 164226,
-      "num": 164226,
+      "raw_hot": 164411,
+      "num": 164411,
       "word": "篮网继续寻求交易",
       "onboard_time": 1675646128,
       "rank": 39,
@@ -571,14 +603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145783,
-      "num": 145783,
-      "word": "苹果4年来季度营收首次下滑",
-      "onboard_time": 1675647206,
-      "rank": 42,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 142488,
       "num": 142488,
       "word": "声声慢",
@@ -609,14 +633,6 @@
       "onboard_time": 1675616602,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136465,
-      "num": 136465,
-      "word": "滑联盛赞林孝埈王者归来",
-      "onboard_time": 1675646907,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 135787,
@@ -665,6 +681,14 @@
       "onboard_time": 1675604376,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122548,
+      "num": 122548,
+      "word": "车辆轮胎扎入钉子收费员一下听出",
+      "onboard_time": 1675648165,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122035,
@@ -809,6 +833,9 @@
     },
     {
       "word": "#花好灯好月圆人圆#"
+    },
+    {
+      "word": "#元宵晚会舞台再现中国排面#"
     }
   ]
 }

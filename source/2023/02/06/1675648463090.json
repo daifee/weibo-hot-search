@@ -1,0 +1,410 @@
+{
+  "runTime": 1675648463090,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1394391,
+        "num": 1394391,
+        "word": "多地中考取消男生1000米女生800米",
+        "onboard_time": 1675642410,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 943659,
+        "num": 943659,
+        "word": "苹果2024年或推出无接口设计iPhone",
+        "onboard_time": 1675644868,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 104758,
+        "num": 797583,
+        "word": "甜甜的笑容温暖了这个冬天",
+        "onboard_time": 1675640723,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1595078,
+        "num": 793466,
+        "word": "24岁女子嫁85岁老头还要为其生子",
+        "onboard_time": 1675639580,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060545,
+        "num": 792401,
+        "word": "黄多多晒与同学比心合照",
+        "onboard_time": 1675638378,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 781360,
+        "num": 781360,
+        "word": "林孝埈中国队首金",
+        "onboard_time": 1675613907,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 711720,
+        "num": 711720,
+        "word": "林孝埈连夺两金",
+        "onboard_time": 1675631352,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 585644,
+        "num": 585644,
+        "word": "夫妇后悔送养女儿寻女30年",
+        "onboard_time": 1675610310,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542798,
+        "num": 542798,
+        "word": "星云大师圆寂",
+        "onboard_time": 1675614505,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525574,
+        "num": 525574,
+        "word": "杭州小学生在烟花大会现场补作业",
+        "onboard_time": 1675646009,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524408,
+        "num": 524408,
+        "word": "张颂文元宵节看烟花vlog",
+        "onboard_time": 1675642167,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493148,
+        "num": 493148,
+        "word": "韩国称自华入韩旅客阳性率为零",
+        "onboard_time": 1675622235,
+        "rank": 11,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 450753,
+        "num": 450753,
+        "word": "土耳其发生7.8级地震",
+        "onboard_time": 1675648107,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441108,
+        "num": 441108,
+        "word": "段奥娟瘦了好多",
+        "onboard_time": 1675611272,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441087,
+        "num": 441087,
+        "word": "欧文被交易至独行侠",
+        "onboard_time": 1675638797,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397797,
+        "num": 397797,
+        "word": "格莱美",
+        "onboard_time": 1675606354,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 394167,
+        "num": 394167,
+        "word": "释放房地产市场合理需求",
+        "onboard_time": 1675646066,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 393793,
+        "num": 393793,
+        "word": "这烟花都对不起自己的块头",
+        "onboard_time": 1675641566,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354010,
+        "num": 354010,
+        "word": "严浩翔也在追狂飙",
+        "onboard_time": 1675646306,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347290,
+        "num": 347290,
+        "word": "许诺 九尾",
+        "onboard_time": 1675643010,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327605,
+        "num": 327605,
+        "word": "开学典礼校长用张颂文故事激励学生",
+        "onboard_time": 1675646728,
+        "rank": 20,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 326961,
+        "num": 326961,
+        "word": "女生庙里求姻缘对过路帅哥一见钟情",
+        "onboard_time": 1675620855,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 275570,
+        "num": 275570,
+        "word": "现在包书皮都能代包了",
+        "onboard_time": 1675607613,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253877,
+        "num": 253877,
+        "word": "工资不高但想留下来的城市",
+        "onboard_time": 1675600532,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251746,
+        "num": 251746,
+        "word": "张远压轴出息了",
+        "onboard_time": 1675605694,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235103,
+        "num": 235103,
+        "word": "YG新女团日本新成员公开",
+        "onboard_time": 1675640241,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233467,
+        "num": 233467,
+        "word": "开学",
+        "onboard_time": 1675642769,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 225386,
+        "num": 225386,
+        "word": "周深躲不过初一也躲不过十五",
+        "onboard_time": 1675640060,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224654,
+        "num": 224654,
+        "word": "多地超长寒假结束",
+        "onboard_time": 1675642527,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204296,
+        "num": 204296,
+        "word": "强迫症兔子每天睡前努力铺平床单",
+        "onboard_time": 1675609412,
+        "rank": 29,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 195629,
+        "num": 195629,
+        "word": "滑联盛赞林孝埈王者归来",
+        "onboard_time": 1675646907,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192430,
+        "num": 192430,
+        "word": "苹果4年来季度营收首次下滑",
+        "onboard_time": 1675647206,
+        "rank": 31,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 188188,
+        "num": 188188,
+        "word": "神兽归笼",
+        "onboard_time": 1675646306,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182149,
+        "num": 182149,
+        "word": "南京夫子庙人海里的定海神针",
+        "onboard_time": 1675632432,
+        "rank": 33,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 171775,
+        "num": 171775,
+        "word": "毛晓彤真的好漂亮啊",
+        "onboard_time": 1675602632,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169718,
+        "num": 169718,
+        "word": "女子病危前夫带住院用品登记复婚",
+        "onboard_time": 1675607674,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166070,
+        "num": 166070,
+        "word": "狗狗跟主人坐长途车就差拍照了",
+        "onboard_time": 1675647808,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164411,
+        "num": 164411,
+        "word": "篮网继续寻求交易",
+        "onboard_time": 1675646128,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158309,
+        "num": 158309,
+        "word": "今天BSS回归",
+        "onboard_time": 1675639580,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157928,
+        "num": 157928,
+        "word": "床也没想过能受这么大礼",
+        "onboard_time": 1675639642,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157886,
+        "num": 157886,
+        "word": "世界上最长寿的狗超30岁",
+        "onboard_time": 1675636095,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155495,
+        "num": 155495,
+        "word": "不要当着小狗面骂狗",
+        "onboard_time": 1675612287,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144973,
+        "num": 144973,
+        "word": "中戏教授李红说安欣比高启强难演",
+        "onboard_time": 1675606709,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143577,
+        "num": 143577,
+        "word": "太阳有意追逐杜兰特",
+        "onboard_time": 1675644330,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135635,
+        "num": 135635,
+        "word": "哈兰德全场0射门",
+        "onboard_time": 1675645409,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132510,
+        "num": 132510,
+        "word": "周深被人踩了",
+        "onboard_time": 1675608872,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122548,
+        "num": 122548,
+        "word": "车辆轮胎扎入钉子收费员一下听出",
+        "onboard_time": 1675648165,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116774,
+        "num": 116774,
+        "word": "倪妮抱猫随拍两宫格",
+        "onboard_time": 1675646066,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114940,
+        "num": 114940,
+        "word": "时代少年团全员晒元宵节营业照",
+        "onboard_time": 1675643848,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114933,
+        "num": 114933,
+        "word": "男朋友长得像高启强是啥体验",
+        "onboard_time": 1675607553,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#元宵晚会舞台再现中国排面#"
+    }
+  }
+}
