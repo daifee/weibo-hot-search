@@ -1,0 +1,410 @@
+{
+  "runTime": 1675664650991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1594181,
+        "num": 1594181,
+        "word": "九价HPV疫苗现捆绑销售",
+        "onboard_time": 1675658314,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1319289,
+        "num": 1319289,
+        "word": "母亲回应儿子被邻居放炮炸伤致截肢",
+        "onboard_time": 1675656393,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88674,
+        "num": 948799,
+        "word": "坐上高铁去滑雪",
+        "onboard_time": 1675650447,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815132,
+        "num": 815132,
+        "word": "4岁血癌娃术后重度感染每天便血270次",
+        "onboard_time": 1675660353,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787896,
+        "num": 787896,
+        "word": "贾冰说我都这么狠了你们还想笑",
+        "onboard_time": 1675662088,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 652949,
+        "num": 652949,
+        "word": "陈书婷ootd",
+        "onboard_time": 1675659391,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 650595,
+        "num": 650595,
+        "word": "何广智打算换了72平的大房子",
+        "onboard_time": 1675651467,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582851,
+        "num": 582851,
+        "word": "满江红实时票房破40亿",
+        "onboard_time": 1675662747,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 445093,
+        "num": 445093,
+        "word": "超市拒收1元纸币称银行难存",
+        "onboard_time": 1675658673,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425979,
+        "num": 425979,
+        "word": "张颂文在剧组狂推粤语",
+        "onboard_time": 1675658375,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 818689,
+        "num": 422301,
+        "word": "林志颖违规停车被罚款",
+        "onboard_time": 1675663767,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418443,
+        "num": 418443,
+        "word": "产后抑郁不是公主病",
+        "onboard_time": 1675663229,
+        "rank": 11,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 408868,
+        "num": 408868,
+        "word": "曝李秀满被公司单方面宣布退出",
+        "onboard_time": 1675655909,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380394,
+        "num": 380394,
+        "word": "网传TFBOYS十周年线下演唱会确定",
+        "onboard_time": 1675655248,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 372439,
+        "num": 372439,
+        "word": "土耳其强震已致43死400余伤",
+        "onboard_time": 1675661847,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362084,
+        "num": 362084,
+        "word": "报告称北京平均月薪13930元",
+        "onboard_time": 1675657294,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 338726,
+        "num": 338726,
+        "word": "在北京月收入过万算高吗",
+        "onboard_time": 1675662687,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334337,
+        "num": 334337,
+        "word": "你会选择贷款买房吗",
+        "onboard_time": 1675659331,
+        "rank": 17,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 331946,
+        "num": 331946,
+        "word": "韩媒评林孝埈双冠",
+        "onboard_time": 1675650568,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 321747,
+        "num": 321747,
+        "word": "男孩通宵赶完的作业被狗子全部撕碎",
+        "onboard_time": 1675658971,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318142,
+        "num": 318142,
+        "word": "宁理 导演这次我杀谁",
+        "onboard_time": 1675654349,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311591,
+        "num": 311591,
+        "word": "女子称海鲜市场买到蓝环章鱼险食用",
+        "onboard_time": 1675657294,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310735,
+        "num": 310735,
+        "word": "中方就美方袭击中国飞艇提严正交涉",
+        "onboard_time": 1675651587,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 292357,
+        "num": 292357,
+        "word": "不愧是重庆的出租车",
+        "onboard_time": 1675660532,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289859,
+        "num": 289859,
+        "word": "车主称会起诉故意推倒摩托老人继承人",
+        "onboard_time": 1675662509,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272135,
+        "num": 272135,
+        "word": "易烊千玺橙色系运动风造型",
+        "onboard_time": 1675659512,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270332,
+        "num": 270332,
+        "word": "前CBA球员实名举报天津篮协主席",
+        "onboard_time": 1675656449,
+        "rank": 26,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 264437,
+        "num": 264437,
+        "word": "图丫丫的房间壁纸条形码被解码了",
+        "onboard_time": 1675662088,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243559,
+        "num": 243559,
+        "word": "张凌赫点赞欣诚则凌视频",
+        "onboard_time": 1675656691,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235900,
+        "num": 235900,
+        "word": "土耳其发生7.8级地震",
+        "onboard_time": 1675648107,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230420,
+        "num": 230420,
+        "word": "半熟恋人全员为爱举大旗",
+        "onboard_time": 1675662208,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220885,
+        "num": 220885,
+        "word": "马龙进入国家队二十周年",
+        "onboard_time": 1675655429,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206013,
+        "num": 206013,
+        "word": "张婧仪周一白色吊带裙随拍",
+        "onboard_time": 1675663888,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191282,
+        "num": 191282,
+        "word": "李承铉脖子上挂的是奶嘴",
+        "onboard_time": 1675649006,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188558,
+        "num": 188558,
+        "word": "什么样的另一半你会选择结婚",
+        "onboard_time": 1675657172,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181196,
+        "num": 181196,
+        "word": "土耳其地震暂无中国公民伤亡",
+        "onboard_time": 1675662628,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169860,
+        "num": 169860,
+        "word": "不必因为父母的普通而自卑",
+        "onboard_time": 1675654948,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162754,
+        "num": 162754,
+        "word": "Adele获格莱美最佳流行歌手",
+        "onboard_time": 1675657773,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162186,
+        "num": 162186,
+        "word": "孙千腿真长",
+        "onboard_time": 1675655790,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159562,
+        "num": 159562,
+        "word": "66岁大叔和女友买新房名字没自己",
+        "onboard_time": 1675664368,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159400,
+        "num": 159400,
+        "word": "千万不要坐着遛狗",
+        "onboard_time": 1675664186,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158077,
+        "num": 158077,
+        "word": "Beyonce做出什么能拿到年专",
+        "onboard_time": 1675662208,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156571,
+        "num": 156571,
+        "word": "90后被催婚时的反向操作",
+        "onboard_time": 1675652847,
+        "rank": 42,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 150253,
+        "num": 150253,
+        "word": "两男子受高薪诱惑想去缅甸挣大钱",
+        "onboard_time": 1675651769,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148646,
+        "num": 148646,
+        "word": "张颂文的小肉手",
+        "onboard_time": 1675659874,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134650,
+        "num": 134650,
+        "word": "朱一龙消失的她定妆视频",
+        "onboard_time": 1675662687,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133825,
+        "num": 133825,
+        "word": "胜利将于2月11日出狱",
+        "onboard_time": 1675648947,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132015,
+        "num": 132015,
+        "word": "格莱美",
+        "onboard_time": 1675606354,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119561,
+        "num": 119561,
+        "word": "白鹿张凌赫片场斗嘴花絮",
+        "onboard_time": 1675656632,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118873,
+        "num": 118873,
+        "word": "Angelababy的羽绒服",
+        "onboard_time": 1675654110,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}

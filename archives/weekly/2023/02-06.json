@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675661612691,
+  "endTime": 1675664650991,
   "band_list": [
     {
       "raw_hot": 2221394,
@@ -203,12 +203,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 818689,
+      "num": 422301,
+      "word": "林志颖违规停车被罚款",
+      "onboard_time": 1675663767,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 815967,
       "num": 815967,
       "word": "马龙进入国家队二十周年",
       "onboard_time": 1675655429,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 815132,
+      "num": 815132,
+      "word": "4岁血癌娃术后重度感染每天便血270次",
+      "onboard_time": 1675660353,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 810585,
@@ -219,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 806842,
-      "num": 518774,
-      "word": "4岁血癌娃术后重度感染每天便血270次",
-      "onboard_time": 1675660353,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 787896,
+      "num": 787896,
+      "word": "贾冰说我都这么狠了你们还想笑",
+      "onboard_time": 1675662088,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 785356,
@@ -249,6 +265,14 @@
       "onboard_time": 1675609052,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 652949,
+      "num": 652949,
+      "word": "陈书婷ootd",
+      "onboard_time": 1675659391,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 649918,
@@ -299,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 582851,
+      "num": 582851,
+      "word": "满江红实时票房破40亿",
+      "onboard_time": 1675662747,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 580514,
       "num": 580514,
       "word": "韩国称自华入韩旅客阳性率为零",
@@ -336,14 +368,6 @@
       "word": "狂飙捡手机文学",
       "onboard_time": 1675653209,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 551371,
-      "num": 507949,
-      "word": "陈书婷ootd",
-      "onboard_time": 1675659391,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -499,6 +523,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425979,
+      "num": 425979,
+      "word": "张颂文在剧组狂推粤语",
+      "onboard_time": 1675658375,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 418443,
+      "num": 418443,
+      "word": "产后抑郁不是公主病",
+      "onboard_time": 1675663229,
+      "rank": 11,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 409109,
       "num": 409109,
       "word": "现在包书皮都能代包了",
@@ -563,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372439,
+      "num": 372439,
+      "word": "土耳其强震已致43死400余伤",
+      "onboard_time": 1675661847,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366536,
       "num": 366536,
       "word": "男孩通宵赶完的作业被狗子全部撕碎",
@@ -617,6 +665,14 @@
       "onboard_time": 1675654467,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 338726,
+      "num": 338726,
+      "word": "在北京月收入过万算高吗",
+      "onboard_time": 1675662687,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 334712,
@@ -731,6 +787,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 292357,
+      "num": 292357,
+      "word": "不愧是重庆的出租车",
+      "onboard_time": 1675660532,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 289859,
+      "num": 289859,
+      "word": "车主称会起诉故意推倒摩托老人继承人",
+      "onboard_time": 1675662509,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289212,
       "num": 289212,
       "word": "时代少年团元宵喜乐会唱第一天",
@@ -795,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264437,
+      "num": 264437,
+      "word": "图丫丫的房间壁纸条形码被解码了",
+      "onboard_time": 1675662088,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262140,
       "num": 262140,
       "word": "90岁爷爷和5岁孙子对话看哭了",
@@ -817,14 +897,6 @@
       "onboard_time": 1675655671,
       "rank": 36,
       "category": "综艺,情感"
-    },
-    {
-      "raw_hot": 248144,
-      "num": 248144,
-      "word": "张颂文在剧组狂推粤语",
-      "onboard_time": 1675658375,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 247631,
@@ -915,12 +987,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 218475,
-      "num": 218475,
-      "word": "不愧是重庆的出租车",
-      "onboard_time": 1675660532,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 230420,
+      "num": 230420,
+      "word": "半熟恋人全员为爱举大旗",
+      "onboard_time": 1675662208,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 216713,
@@ -937,6 +1009,14 @@
       "onboard_time": 1675654587,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206013,
+      "num": 206013,
+      "word": "张婧仪周一白色吊带裙随拍",
+      "onboard_time": 1675663888,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 201134,
@@ -1009,6 +1089,14 @@
       "onboard_time": 1675609532,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181196,
+      "num": 181196,
+      "word": "土耳其地震暂无中国公民伤亡",
+      "onboard_time": 1675662628,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179554,
@@ -1115,12 +1203,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159562,
+      "num": 159562,
+      "word": "66岁大叔和女友买新房名字没自己",
+      "onboard_time": 1675664368,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159400,
+      "num": 159400,
+      "word": "千万不要坐着遛狗",
+      "onboard_time": 1675664186,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158831,
       "num": 158831,
       "word": "顾客质疑158元烤鸭上桌仅有半只",
       "onboard_time": 1675598130,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158077,
+      "num": 158077,
+      "word": "Beyonce做出什么能拿到年专",
+      "onboard_time": 1675662208,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 156625,
@@ -1217,6 +1329,14 @@
       "onboard_time": 1675640544,
       "rank": 46,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 134650,
+      "num": 134650,
+      "word": "朱一龙消失的她定妆视频",
+      "onboard_time": 1675662687,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 132341,
