@@ -1,6 +1,6 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675811918784,
+  "endTime": 1675812836521,
   "band_list": [
     {
       "raw_hot": 1135952,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 816841,
+      "num": 816841,
+      "word": "叙利亚地震后美国仍拒绝解除制裁",
+      "onboard_time": 1675794794,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 801361,
       "num": 801361,
       "word": "安欣没救到的只有李响",
@@ -35,12 +43,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 550152,
-      "num": 550152,
-      "word": "叙利亚地震后美国仍拒绝解除制裁",
-      "onboard_time": 1675794794,
-      "rank": 48,
-      "category": "国外要闻"
+      "raw_hot": 521586,
+      "num": 521586,
+      "word": "女子想丁克妈妈说开心就好",
+      "onboard_time": 1675806972,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 503769,
@@ -75,14 +83,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 442152,
-      "num": 442152,
-      "word": "女子想丁克妈妈说开心就好",
-      "onboard_time": 1675806972,
-      "rank": 30,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 440779,
       "num": 440779,
       "word": "网友在泰国偶遇鞠婧祎",
@@ -107,12 +107,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 408235,
+      "num": 408235,
+      "word": "25岁女生记录矫正牙齿全过程",
+      "onboard_time": 1675804990,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404291,
       "num": 404291,
       "word": "白百何给员工放假30天",
       "onboard_time": 1675782154,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368710,
+      "num": 368710,
+      "word": "10月宝宝在自家工厂实现童车自由",
+      "onboard_time": 1675808654,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346222,
@@ -123,20 +139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322217,
+      "num": 269830,
+      "word": "山东有一个公交站叫满江红",
+      "onboard_time": 1675812380,
+      "rank": 10,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 309877,
+      "num": 266754,
+      "word": "西安不倒翁小姐姐回应生娃面容憔悴",
+      "onboard_time": 1675812561,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308644,
       "num": 308644,
       "word": "没阳过的孩子能上学吗",
       "onboard_time": 1675788023,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 307174,
-      "num": 219684,
-      "word": "25岁女生记录矫正牙齿全过程",
-      "onboard_time": 1675804990,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295588,
@@ -171,6 +195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 288084,
+      "num": 288084,
+      "word": "男子被骂吃不起饭隔天带4菜店外吃播",
+      "onboard_time": 1675802952,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280176,
       "num": 280176,
       "word": "恩施人非必要不得前往柬埔寨",
@@ -203,14 +235,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 265303,
-      "num": 219318,
-      "word": "10月宝宝在自家工厂实现童车自由",
-      "onboard_time": 1675808654,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255602,
       "num": 255602,
       "word": "林高远",
@@ -240,14 +264,6 @@
       "word": "湖南男子和孕妻回土耳其探亲遇地震",
       "onboard_time": 1675774169,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217833,
-      "num": 217833,
-      "word": "男子被骂吃不起饭隔天带4菜店外吃播",
-      "onboard_time": 1675802952,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -283,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204215,
+      "num": 204215,
+      "word": "不愿面对脏小狗的狗妈",
+      "onboard_time": 1675809795,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 194029,
       "num": 194029,
       "word": "骄阳伴我杀青特辑",
@@ -307,12 +331,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172366,
+      "num": 172366,
+      "word": "85花湖南卫视播剧收视率排行",
+      "onboard_time": 1675795813,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 169997,
+      "num": 169997,
+      "word": "中年裸辞意味着什么",
+      "onboard_time": 1675771169,
+      "rank": 33,
+      "category": "影视,社会议题"
+    },
+    {
       "raw_hot": 161241,
       "num": 161241,
       "word": "陈飞宇不过情人节",
       "onboard_time": 1675777415,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158003,
+      "num": 122804,
+      "word": "美国的制裁阻碍了叙人道主义救援工作",
+      "onboard_time": 1675812561,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157353,
@@ -323,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156744,
-      "num": 156744,
-      "word": "中年裸辞意味着什么",
-      "onboard_time": 1675771169,
-      "rank": 33,
-      "category": "影视,社会议题"
-    },
-    {
       "raw_hot": 154295,
       "num": 154295,
       "word": "鲁班七号头号选手星元",
@@ -339,12 +379,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 151968,
-      "num": 151968,
-      "word": "85花湖南卫视播剧收视率排行",
-      "onboard_time": 1675795813,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 153930,
+      "num": 120986,
+      "word": "韩国申报的文化遗产来自日本",
+      "onboard_time": 1675812500,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143143,
@@ -379,12 +419,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132708,
+      "num": 132708,
+      "word": "刘敏涛女士的品格状态",
+      "onboard_time": 1675791854,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 132386,
+      "num": 132386,
+      "word": "美或在日本部署高超音速导弹",
+      "onboard_time": 1675799712,
+      "rank": 17,
+      "category": "军事"
+    },
+    {
       "raw_hot": 128040,
       "num": 128040,
       "word": "肖战晒照告别盛阳",
       "onboard_time": 1675792874,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126811,
+      "num": 126811,
+      "word": "原来拖延症和懒没关系",
+      "onboard_time": 1675789998,
+      "rank": 32,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 122398,
@@ -395,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121395,
-      "num": 121395,
-      "word": "不愿面对脏小狗的狗妈",
-      "onboard_time": 1675809795,
-      "rank": 22,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 118866,
       "num": 109143,
       "word": "肖战盛阳湿发造型",
@@ -411,35 +467,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 115531,
-      "num": 115531,
-      "word": "美或在日本部署高超音速导弹",
-      "onboard_time": 1675799712,
-      "rank": 17,
-      "category": "军事"
-    },
-    {
       "raw_hot": 114537,
       "num": 114537,
       "word": "肖战白百何捉妖记2后二搭",
       "onboard_time": 1675760309,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 111402,
-      "num": 111402,
-      "word": "原来拖延症和懒没关系",
-      "onboard_time": 1675789998,
-      "rank": 32,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 111195,
-      "num": 111195,
-      "word": "刘敏涛女士的品格状态",
-      "onboard_time": 1675791854,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -491,6 +523,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 91678,
+      "num": 91678,
+      "word": "这猫好像打了补丁",
+      "onboard_time": 1675787184,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90495,
       "num": 90495,
       "word": "张颂文是懂哄孩子的",
@@ -507,12 +547,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 86805,
-      "num": 86805,
-      "word": "这猫好像打了补丁",
-      "onboard_time": 1675787184,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 88023,
+      "num": 88023,
+      "word": "黑豹2好看吗",
+      "onboard_time": 1675812441,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 84544,
+      "num": 84544,
+      "word": "再见爱人不能没有胡彦斌",
+      "onboard_time": 1675792036,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 84175,
@@ -531,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 81816,
+      "num": 81816,
+      "word": "在公交车站直到黎明",
+      "onboard_time": 1675812620,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 79693,
       "num": 79693,
       "word": "南京平均月薪11145元",
@@ -539,12 +595,28 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 77683,
-      "num": 77683,
-      "word": "再见爱人不能没有胡彦斌",
-      "onboard_time": 1675792036,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 76215,
+      "num": 76215,
+      "word": "吴京张译分吸油纸",
+      "onboard_time": 1675793536,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 75125,
+      "num": 75125,
+      "word": "大型补寒假作业现场",
+      "onboard_time": 1675812500,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74379,
+      "num": 74379,
+      "word": "叙利亚",
+      "onboard_time": 1675812801,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72926,
@@ -553,14 +625,6 @@
       "onboard_time": 1675775492,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 69211,
-      "num": 69211,
-      "word": "吴京张译分吸油纸",
-      "onboard_time": 1675793536,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 58240,
@@ -611,7 +675,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 6842,
+      "raw_hot": 7078,
       "num": 803702,
       "word": "流动的中国绽放着蓬勃活力",
       "onboard_time": 1675756171,
