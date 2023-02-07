@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675751842262,
+  "endTime": 1675754209457,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -115,6 +115,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1084079,
+      "num": 1084079,
+      "word": "狂飙是央八近九年收视第一",
+      "onboard_time": 1675751908,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 997152,
       "num": 345709,
       "word": "突然就不害怕死亡了",
@@ -187,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790808,
+      "num": 790808,
+      "word": "内娱叔圈天菜",
+      "onboard_time": 1675749872,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 761400,
       "num": 761400,
       "word": "高启强的真心都给了陈书婷",
       "onboard_time": 1675744655,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 739877,
+      "num": 739877,
+      "word": "张大大说杨幂和杨颖太瘦了不好看",
+      "onboard_time": 1675749449,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 724913,
@@ -209,6 +233,14 @@
       "onboard_time": 1675742431,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 711954,
+      "num": 572558,
+      "word": "90后夫妻上门做菜700元6荤5素1汤",
+      "onboard_time": 1675751848,
+      "rank": 10,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 710754,
@@ -299,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 625872,
-      "num": 625872,
-      "word": "内娱叔圈天菜",
-      "onboard_time": 1675749872,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 623493,
       "num": 623493,
       "word": "撞脸毛不易的幼儿园园长是硕士毕业",
@@ -347,6 +371,14 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 573086,
+      "num": 573086,
+      "word": "肖战易烊千玺蔡徐坤今日开屏海报",
+      "onboard_time": 1675753830,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 567755,
       "num": 567755,
       "word": "土耳其一天内两次7.8级强震",
@@ -371,12 +403,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 546551,
-      "num": 546551,
-      "word": "张大大说杨幂和杨颖太瘦了不好看",
-      "onboard_time": 1675749449,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 554156,
+      "num": 554156,
+      "word": "知情人称唐小强系回土耳其探亲",
+      "onboard_time": 1675749089,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 545850,
@@ -393,14 +425,6 @@
       "onboard_time": 1675736245,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 532343,
-      "num": 532343,
-      "word": "知情人称唐小强系回土耳其探亲",
-      "onboard_time": 1675749089,
-      "rank": 30,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 530836,
@@ -579,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425934,
+      "num": 425934,
+      "word": "蔡徐坤回国机场饭拍",
+      "onboard_time": 1675752270,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413554,
       "num": 413554,
       "word": "肖战新剧杀青笑得好开心",
@@ -587,20 +619,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 412544,
+      "num": 412544,
+      "word": "柯基因满身灰而被主人装不认识",
+      "onboard_time": 1675749632,
+      "rank": 23,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 410276,
       "num": 410276,
       "word": "漫威电影回归内地大银幕",
       "onboard_time": 1675733725,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 407794,
-      "num": 407794,
-      "word": "柯基因满身灰而被主人装不认识",
-      "onboard_time": 1675749632,
-      "rank": 23,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 404654,
@@ -619,20 +651,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 399613,
+      "num": 399613,
+      "word": "爸爸去幼儿园开家长会遇到做迎宾的儿子",
+      "onboard_time": 1675749270,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 399050,
       "num": 354719,
       "word": "肖战骄阳伴我刷牙镜头",
       "onboard_time": 1675746336,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 398336,
-      "num": 398336,
-      "word": "爸爸去幼儿园开家长会遇到做迎宾的儿子",
-      "onboard_time": 1675749270,
-      "rank": 27,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 398294,
@@ -731,6 +763,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 366629,
+      "num": 366629,
+      "word": "饿了么免单",
+      "onboard_time": 1675754010,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 359202,
+      "num": 359202,
+      "word": "狗主人买廉价狗粮竟掺土和锯末致死亡",
+      "onboard_time": 1675752930,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354719,
       "num": 354719,
       "word": "网传马嘉祺杨宗纬声生不息唱恋曲1990",
@@ -811,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305571,
+      "num": 305571,
+      "word": "Nuguri说TheShy是最强上单",
+      "onboard_time": 1675750530,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 303090,
       "num": 303090,
       "word": "女子收房发现门外1米是公厕",
@@ -841,6 +897,14 @@
       "onboard_time": 1675726041,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 297263,
+      "num": 297263,
+      "word": "苏诗丁下车后转身往前跑",
+      "onboard_time": 1675752093,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 295348,
@@ -923,12 +987,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271377,
+      "num": 271377,
+      "word": "中国向土耳其派遣重型救援队",
+      "onboard_time": 1675751130,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268981,
       "num": 268981,
       "word": "土耳其全国哀悼7天",
       "onboard_time": 1675726463,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267403,
+      "num": 267403,
+      "word": "两只猫没有一只省心的",
+      "onboard_time": 1675751969,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 266663,
@@ -1059,14 +1139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 246428,
-      "num": 246428,
-      "word": "Nuguri说TheShy是最强上单",
-      "onboard_time": 1675750530,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 243075,
       "num": 243075,
       "word": "官方回应一男生被多人扇脸踢踹",
@@ -1171,6 +1243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225925,
+      "num": 225925,
+      "word": "2023上半年已定档40部新片",
+      "onboard_time": 1675754070,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225717,
       "num": 215107,
       "word": "网传肖战李沁梦中的那片海Q1播出",
@@ -1259,6 +1339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 199550,
+      "num": 199550,
+      "word": "不想开学",
+      "onboard_time": 1675754188,
+      "rank": 35,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 197953,
       "num": 197953,
       "word": "丁程鑫烟熏妆",
@@ -1275,6 +1363,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196866,
+      "num": 196866,
+      "word": "看出来双方的父亲相处得融洽了",
+      "onboard_time": 1675753530,
+      "rank": 37,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 194965,
+      "num": 194965,
+      "word": "演技叔圈101",
+      "onboard_time": 1675753411,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190988,
       "num": 190988,
       "word": "人保寿险学习董事长金句考试疑被叫停",
@@ -1289,14 +1393,6 @@
       "onboard_time": 1675692750,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 190329,
-      "num": 190329,
-      "word": "中国向土耳其派遣重型救援队",
-      "onboard_time": 1675751130,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189985,
@@ -1363,12 +1459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175857,
+      "num": 175857,
+      "word": "西班牙小哥100元逛北京早市",
+      "onboard_time": 1675754010,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173256,
       "num": 173256,
       "word": "很离谱但如果是张译也合理",
       "onboard_time": 1675728328,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171147,
+      "num": 171147,
+      "word": "这狗像极了对象生气的样子",
+      "onboard_time": 1675751791,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 169853,
@@ -1427,11 +1539,11 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 160410,
-      "num": 160410,
-      "word": "这狗像极了对象生气的样子",
-      "onboard_time": 1675751791,
-      "rank": 49,
+      "raw_hot": 160732,
+      "num": 160732,
+      "word": "谁家小狗这么自律啊",
+      "onboard_time": 1675753351,
+      "rank": 47,
       "category": "幽默,情感"
     },
     {

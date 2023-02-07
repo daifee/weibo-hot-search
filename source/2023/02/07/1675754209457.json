@@ -1,0 +1,410 @@
+{
+  "runTime": 1675754209457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1661381,
+        "num": 1661381,
+        "word": "宋宁峰向张婉婷求婚",
+        "onboard_time": 1675749932,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1511427,
+        "num": 1511427,
+        "word": "疯驴子才25岁",
+        "onboard_time": 1675745016,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32654,
+        "num": 1221706,
+        "word": "新征程上满怀信心开新局展新貌",
+        "onboard_time": 1675740030,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1084079,
+        "num": 1084079,
+        "word": "狂飙是央八近九年收视第一",
+        "onboard_time": 1675751908,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 798165,
+        "num": 798165,
+        "word": "唐小强",
+        "onboard_time": 1675736125,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 790808,
+        "num": 790808,
+        "word": "内娱叔圈天菜",
+        "onboard_time": 1675749872,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 739877,
+        "num": 739877,
+        "word": "张大大说杨幂和杨颖太瘦了不好看",
+        "onboard_time": 1675749449,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 722368,
+        "num": 722368,
+        "word": "10岁女孩文具店买到性暗示钥匙扣",
+        "onboard_time": 1675738707,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604426,
+        "num": 604426,
+        "word": "美国89%的大学生都是用ChatGPT做作业",
+        "onboard_time": 1675743454,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 573086,
+        "num": 573086,
+        "word": "肖战易烊千玺蔡徐坤今日开屏海报",
+        "onboard_time": 1675753830,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 711954,
+        "num": 572558,
+        "word": "90后夫妻上门做菜700元6荤5素1汤",
+        "onboard_time": 1675751848,
+        "rank": 10,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 711366,
+        "num": 569995,
+        "word": "女生第一次去男友家被安排吃剩菜洗碗",
+        "onboard_time": 1675743755,
+        "rank": 11,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 554156,
+        "num": 554156,
+        "word": "知情人称唐小强系回土耳其探亲",
+        "onboard_time": 1675749089,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 521260,
+        "num": 521260,
+        "word": "ChatGPT让苹果急了",
+        "onboard_time": 1675747771,
+        "rank": 13,
+        "category": "科技,游戏"
+      },
+      {
+        "raw_hot": 509037,
+        "num": 509037,
+        "word": "TFBOYS十周年演唱会确认规划中",
+        "onboard_time": 1675748132,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 457131,
+        "num": 457131,
+        "word": "强震已致土耳其叙利亚超4000人遇难",
+        "onboard_time": 1675742431,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 441593,
+        "num": 441593,
+        "word": "女生返校前校服竟变紧身小马甲",
+        "onboard_time": 1675749392,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 425934,
+        "num": 425934,
+        "word": "蔡徐坤回国机场饭拍",
+        "onboard_time": 1675752270,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416434,
+        "num": 416434,
+        "word": "TFBOYS十周年演唱会附近酒店已被订完",
+        "onboard_time": 1675743094,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 412544,
+        "num": 412544,
+        "word": "柯基因满身灰而被主人装不认识",
+        "onboard_time": 1675749632,
+        "rank": 19,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 399613,
+        "num": 399613,
+        "word": "爸爸去幼儿园开家长会遇到做迎宾的儿子",
+        "onboard_time": 1675749270,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 366629,
+        "num": 366629,
+        "word": "饿了么免单",
+        "onboard_time": 1675754010,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 359202,
+        "num": 359202,
+        "word": "狗主人买廉价狗粮竟掺土和锯末致死亡",
+        "onboard_time": 1675752930,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333668,
+        "num": 333668,
+        "word": "孙怡再见爱人激动了一整期",
+        "onboard_time": 1675749510,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325240,
+        "num": 325240,
+        "word": "疯驴子身高",
+        "onboard_time": 1675749510,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305571,
+        "num": 305571,
+        "word": "Nuguri说TheShy是最强上单",
+        "onboard_time": 1675750530,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297263,
+        "num": 297263,
+        "word": "苏诗丁下车后转身往前跑",
+        "onboard_time": 1675752093,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295053,
+        "num": 295053,
+        "word": "金门发表永久非军事区宣言",
+        "onboard_time": 1675746276,
+        "rank": 27,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 281400,
+        "num": 281400,
+        "word": "刘亦菲洛杉矶街头被网友偶遇",
+        "onboard_time": 1675744235,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271377,
+        "num": 271377,
+        "word": "中国向土耳其派遣重型救援队",
+        "onboard_time": 1675751130,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267403,
+        "num": 267403,
+        "word": "两只猫没有一只省心的",
+        "onboard_time": 1675751969,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243907,
+        "num": 243907,
+        "word": "考过研的真看不得这个",
+        "onboard_time": 1675738529,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239161,
+        "num": 239161,
+        "word": "安贤洙回应落选韩国城南短道教练",
+        "onboard_time": 1675745376,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225925,
+        "num": 225925,
+        "word": "2023上半年已定档40部新片",
+        "onboard_time": 1675754070,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204283,
+        "num": 204283,
+        "word": "狂飙警察四人组里有一人真是警察",
+        "onboard_time": 1675749031,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199550,
+        "num": 199550,
+        "word": "不想开学",
+        "onboard_time": 1675754188,
+        "rank": 35,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 198063,
+        "num": 198063,
+        "word": "高启强的真心都给了陈书婷",
+        "onboard_time": 1675744655,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196866,
+        "num": 196866,
+        "word": "看出来双方的父亲相处得融洽了",
+        "onboard_time": 1675753530,
+        "rank": 37,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 194965,
+        "num": 194965,
+        "word": "演技叔圈101",
+        "onboard_time": 1675753411,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193002,
+        "num": 193002,
+        "word": "Nuguri谈退役原因",
+        "onboard_time": 1675748610,
+        "rank": 39,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 191361,
+        "num": 191361,
+        "word": "中国政府决定向土叙提供紧急援助",
+        "onboard_time": 1675746099,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189955,
+        "num": 189955,
+        "word": "狗狗知道东西没买不能上嘴",
+        "onboard_time": 1675747110,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175857,
+        "num": 175857,
+        "word": "西班牙小哥100元逛北京早市",
+        "onboard_time": 1675754010,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171147,
+        "num": 171147,
+        "word": "这狗像极了对象生气的样子",
+        "onboard_time": 1675751791,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 170123,
+        "num": 170123,
+        "word": "非正式会谈唐小强被埋废墟下",
+        "onboard_time": 1675738406,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 166290,
+        "num": 166290,
+        "word": "张颂文 火柴天堂",
+        "onboard_time": 1675734866,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162600,
+        "num": 162600,
+        "word": "24岁牙科实习医生自拔智齿练手",
+        "onboard_time": 1675742252,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160732,
+        "num": 160732,
+        "word": "谁家小狗这么自律啊",
+        "onboard_time": 1675753351,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 152402,
+        "num": 152402,
+        "word": "网传马嘉祺杨宗纬声生不息唱恋曲1990",
+        "onboard_time": 1675749510,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149176,
+        "num": 149176,
+        "word": "BoysPlanet好像在剪恋综",
+        "onboard_time": 1675747952,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记细细询问敦煌保护最紧要的问题#"
+    }
+  }
+}
