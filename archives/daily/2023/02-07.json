@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675740018720,
+  "endTime": 1675740845055,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -41,6 +41,22 @@
       "onboard_time": 1675698031,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1091811,
+      "num": 1091811,
+      "word": "考过研的真看不得这个",
+      "onboard_time": 1675738529,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1089555,
+      "num": 1089555,
+      "word": "10岁女孩文具店买到性暗示钥匙扣",
+      "onboard_time": 1675738707,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 997152,
@@ -99,27 +115,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 798093,
-      "num": 798093,
-      "word": "考过研的真看不得这个",
-      "onboard_time": 1675738529,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 778179,
+      "raw_hot": 804413,
       "num": 778179,
       "word": "一央企要求全员背诵董事长金句",
       "onboard_time": 1675738047,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 757322,
-      "num": 593258,
-      "word": "10岁女孩文具店买到性暗示钥匙扣",
-      "onboard_time": 1675738707,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -267,20 +267,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465311,
+      "num": 465311,
+      "word": "张译穿衣显瘦脱衣有肉",
+      "onboard_time": 1675735885,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461055,
       "num": 461055,
       "word": "苹果或将继续上调iPhone售价",
       "onboard_time": 1675737507,
       "rank": 44,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 459374,
-      "num": 459374,
-      "word": "张译穿衣显瘦脱衣有肉",
-      "onboard_time": 1675735885,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 450999,
@@ -363,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 398294,
+      "num": 398294,
+      "word": "这猫像极了下班回家的我",
+      "onboard_time": 1675737326,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 395114,
       "num": 395114,
       "word": "网友泰国偶遇蔡徐坤逛街",
@@ -427,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 304231,
-      "num": 304231,
-      "word": "这猫像极了下班回家的我",
-      "onboard_time": 1675737326,
-      "rank": 32,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 303090,
       "num": 303090,
       "word": "女子收房发现门外1米是公厕",
@@ -451,8 +451,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 297965,
-      "num": 297965,
+      "raw_hot": 298480,
+      "num": 298480,
       "word": "守望先锋2联动一拳超人",
       "onboard_time": 1675737448,
       "rank": 38,
@@ -475,12 +475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292623,
+      "num": 292623,
+      "word": "移动厕所安透明窗如厕成直播现场",
+      "onboard_time": 1675739727,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283082,
       "num": 283082,
       "word": "2023年以来最强雨雪上线",
       "onboard_time": 1675735346,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279769,
+      "num": 279769,
+      "word": "托马斯47分",
+      "onboard_time": 1675740208,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 278134,
@@ -539,6 +555,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 260778,
+      "num": 260778,
+      "word": "土耳其地震已在土造成2379人死亡",
+      "onboard_time": 1675736066,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260165,
       "num": 260165,
       "word": "刘慈欣二刷流浪地球2发现小bug",
@@ -555,12 +579,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 258429,
+      "num": 258429,
+      "word": "等考研成绩有多难熬",
+      "onboard_time": 1675739428,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 256927,
       "num": 256927,
       "word": "杨幂方起诉黑粉",
       "onboard_time": 1675698268,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256869,
+      "num": 256869,
+      "word": "原神3.4",
+      "onboard_time": 1675740390,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 256322,
@@ -579,12 +619,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 252217,
-      "num": 252217,
-      "word": "等考研成绩有多难熬",
-      "onboard_time": 1675739428,
-      "rank": 23,
-      "category": "教育"
+      "raw_hot": 251358,
+      "num": 251358,
+      "word": "张若昀说帅家默的职业是地理测绘",
+      "onboard_time": 1675740569,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 250942,
@@ -619,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236657,
+      "num": 236657,
+      "word": "少爷和我4季度热点事件TOP1",
+      "onboard_time": 1675739551,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233612,
       "num": 233612,
       "word": "原来不是胖才有双下巴",
@@ -649,6 +697,14 @@
       "onboard_time": 1675704976,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223265,
+      "num": 223265,
+      "word": "偶遇Lisa和妈妈逛街",
+      "onboard_time": 1675740091,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 223229,
@@ -691,20 +747,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205775,
-      "num": 205775,
-      "word": "土耳其地震已在土造成2379人死亡",
-      "onboard_time": 1675736066,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203824,
       "num": 203824,
       "word": "浙江专升本门槛降了",
       "onboard_time": 1675729767,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 194042,
+      "num": 194042,
+      "word": "揭秘爆红ChatGPT之父",
+      "onboard_time": 1675739848,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 190367,
@@ -763,20 +819,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169267,
+      "num": 169267,
+      "word": "人保寿险让员工背诵董事长金句",
+      "onboard_time": 1675739909,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167706,
       "num": 167706,
       "word": "张颂文孤舟民国造型路透",
       "onboard_time": 1675736426,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 165804,
-      "num": 165804,
-      "word": "少爷和我4季度热点事件TOP1",
-      "onboard_time": 1675739551,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 164970,
@@ -843,22 +899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 143848,
-      "num": 143848,
-      "word": "移动厕所安透明窗如厕成直播现场",
-      "onboard_time": 1675739727,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138850,
-      "num": 138850,
-      "word": "揭秘爆红ChatGPT之父",
-      "onboard_time": 1675739848,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
       "raw_hot": 138372,
       "num": 138372,
       "word": "张艺兴面纱封面在格莱美现场出现",
@@ -873,6 +913,14 @@
       "onboard_time": 1675732589,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135864,
+      "num": 135864,
+      "word": "土耳其为何一天两次7.8级地震",
+      "onboard_time": 1675740689,
+      "rank": 47,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 132986,
@@ -891,12 +939,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131274,
-      "num": 131274,
-      "word": "人保寿险让员工背诵董事长金句",
-      "onboard_time": 1675739909,
+      "raw_hot": 127988,
+      "num": 127988,
+      "word": "ChatGPT会抢谁饭碗",
+      "onboard_time": 1675740809,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "科技"
     },
     {
       "raw_hot": 125218,
@@ -1019,6 +1067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30540,
+      "num": 1099737,
+      "word": "新征程上满怀信心开新局展新貌",
+      "onboard_time": 1675740030,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 27298,
       "num": 1262906,
       "word": "太空视角看灯火里的中国",
@@ -1042,6 +1098,9 @@
     },
     {
       "word": "#新征程上满怀信心开新局展新貌#"
+    },
+    {
+      "word": "#总书记细细询问敦煌保护最紧要的问题#"
     }
   ]
 }
