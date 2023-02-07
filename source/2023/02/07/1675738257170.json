@@ -1,0 +1,410 @@
+{
+  "runTime": 1675738257170,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3006561,
+        "num": 3006561,
+        "word": "唐小强",
+        "onboard_time": 1675736125,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1340316,
+        "num": 1340316,
+        "word": "妈妈给女儿寄100个水饺都独立包装",
+        "onboard_time": 1675729648,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17540,
+        "num": 973270,
+        "word": "太空视角看灯火里的中国",
+        "onboard_time": 1675669888,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 958216,
+        "num": 958216,
+        "word": "大妈在地铁里抽烟还给娃点烟",
+        "onboard_time": 1675735046,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887625,
+        "num": 887625,
+        "word": "脱口秀演员自曝上综艺可以接受恶剪",
+        "onboard_time": 1675735106,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 731716,
+        "num": 731716,
+        "word": "强震已致土耳其叙利亚超3000人遇难",
+        "onboard_time": 1675726463,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654054,
+        "num": 654054,
+        "word": "考研查分空窗期怎么度过",
+        "onboard_time": 1675733607,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 623493,
+        "num": 623493,
+        "word": "撞脸毛不易的幼儿园园长是硕士毕业",
+        "onboard_time": 1675735705,
+        "rank": 7,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 599293,
+        "num": 599293,
+        "word": "张颂文 火柴天堂",
+        "onboard_time": 1675734866,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570178,
+        "num": 570178,
+        "word": "果然大学生撕伞是把好手",
+        "onboard_time": 1675727064,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 522005,
+        "num": 522005,
+        "word": "25岁男子醉驾撞车逃逸父母称他还小",
+        "onboard_time": 1675736245,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468760,
+        "num": 468760,
+        "word": "高叶说幸亏张颂文选择了演戏",
+        "onboard_time": 1675726463,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 457228,
+        "num": 457228,
+        "word": "张译穿衣显瘦脱衣有肉",
+        "onboard_time": 1675735885,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392515,
+        "num": 392515,
+        "word": "漫威电影回归内地大银幕",
+        "onboard_time": 1675733725,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375269,
+        "num": 375269,
+        "word": "中国公羊救援队8人前往土耳其震中救援",
+        "onboard_time": 1675730730,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363127,
+        "num": 363127,
+        "word": "男孩吃火锅时发现作业没写愁到大哭",
+        "onboard_time": 1675731388,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334740,
+        "num": 334740,
+        "word": "杭州两套拆迁房让一对亲姐妹闹翻",
+        "onboard_time": 1675711152,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319710,
+        "num": 319710,
+        "word": "成都一幼儿园园长撞脸毛不易",
+        "onboard_time": 1675695931,
+        "rank": 17,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 295348,
+        "num": 295348,
+        "word": "詹姆斯对湖人错过欧文感到失望",
+        "onboard_time": 1675734267,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271286,
+        "num": 271286,
+        "word": "苹果或将继续上调iPhone售价",
+        "onboard_time": 1675737507,
+        "rank": 19,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 270733,
+        "num": 270733,
+        "word": "这猫像极了下班回家的我",
+        "onboard_time": 1675737326,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 263608,
+        "num": 263608,
+        "word": "2022年度个税汇算3月1日开始",
+        "onboard_time": 1675736846,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 260091,
+        "num": 260091,
+        "word": "苹果仍在开发反向无线充电功能",
+        "onboard_time": 1675734625,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 259281,
+        "num": 259281,
+        "word": "2023年以来最强雨雪上线",
+        "onboard_time": 1675735346,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256411,
+        "num": 256411,
+        "word": "多条国际航班票价降至千元以内",
+        "onboard_time": 1675732288,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 253028,
+        "num": 253028,
+        "word": "导游回应不达购物标准不给游客房卡",
+        "onboard_time": 1675729948,
+        "rank": 25,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 236702,
+        "num": 236702,
+        "word": "王力宏新歌",
+        "onboard_time": 1675727484,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227721,
+        "num": 227721,
+        "word": "绝地追击定档4月7日",
+        "onboard_time": 1675737926,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227421,
+        "num": 227421,
+        "word": "ChatGPT",
+        "onboard_time": 1675726041,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 226971,
+        "num": 226971,
+        "word": "张凌赫用身高压制白鹿",
+        "onboard_time": 1675725859,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219860,
+        "num": 219860,
+        "word": "你现在王者什么段位",
+        "onboard_time": 1675726883,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204147,
+        "num": 204147,
+        "word": "刘宇宁贾士凯聚餐路透",
+        "onboard_time": 1675734625,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201285,
+        "num": 201285,
+        "word": "狂飙剧组全员百灵鸟",
+        "onboard_time": 1675731268,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200354,
+        "num": 200354,
+        "word": "土耳其地震已在土造成2379人死亡",
+        "onboard_time": 1675736066,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186199,
+        "num": 186199,
+        "word": "女子存5万被要求提供收入证明",
+        "onboard_time": 1675694013,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184306,
+        "num": 184306,
+        "word": "守望先锋2联动一拳超人",
+        "onboard_time": 1675737448,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178890,
+        "num": 178890,
+        "word": "泰国满大街播放狂飙吸引中国游客",
+        "onboard_time": 1675692690,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167706,
+        "num": 167706,
+        "word": "张颂文孤舟民国造型路透",
+        "onboard_time": 1675736426,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162241,
+        "num": 162241,
+        "word": "很离谱但如果是张译也合理",
+        "onboard_time": 1675728328,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160857,
+        "num": 160857,
+        "word": "华晨宇超话掉落Q版华晨宇",
+        "onboard_time": 1675735525,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157729,
+        "num": 157729,
+        "word": "一央企要求全员背诵董事长金句",
+        "onboard_time": 1675738047,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1022806,
+        "num": 157060,
+        "word": "肖战杀青抱着白百何转圈",
+        "onboard_time": 1675726463,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153491,
+        "num": 153491,
+        "word": "土耳其一天内两次7.8级强震",
+        "onboard_time": 1675681289,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153564,
+        "num": 151724,
+        "word": "骄阳伴我",
+        "onboard_time": 1675698031,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143474,
+        "num": 143474,
+        "word": "乾隆的猫都叫什么",
+        "onboard_time": 1675699285,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140828,
+        "num": 140828,
+        "word": "无名北美版海报",
+        "onboard_time": 1675735945,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140367,
+        "num": 140367,
+        "word": "谷歌将推出ChatGPT竞争对手Bard",
+        "onboard_time": 1675732407,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138157,
+        "num": 138157,
+        "word": "中国女球员地震中幸免于难报平安",
+        "onboard_time": 1675695749,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 136741,
+        "num": 136741,
+        "word": "256斤男生半年暴瘦100斤变肌肉猛男",
+        "onboard_time": 1675705696,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131814,
+        "num": 131814,
+        "word": "王嘉尔回国",
+        "onboard_time": 1675694495,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上满怀信心开新局展新貌#"
+    }
+  }
+}

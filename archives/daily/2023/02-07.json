@@ -1,10 +1,10 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675737652590,
+  "endTime": 1675738257170,
   "band_list": [
     {
-      "raw_hot": 2598276,
-      "num": 2598276,
+      "raw_hot": 3006561,
+      "num": 3006561,
       "word": "唐小强",
       "onboard_time": 1675736125,
       "rank": 0,
@@ -51,6 +51,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 958216,
+      "num": 958216,
+      "word": "大妈在地铁里抽烟还给娃点烟",
+      "onboard_time": 1675735046,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 937389,
       "num": 937389,
       "word": "果然大学生撕伞是把好手",
@@ -67,20 +75,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 856690,
-      "num": 856690,
+      "raw_hot": 887625,
+      "num": 887625,
       "word": "脱口秀演员自曝上综艺可以接受恶剪",
       "onboard_time": 1675735106,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 851346,
-      "num": 851346,
-      "word": "大妈在地铁里抽烟还给娃点烟",
-      "onboard_time": 1675735046,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 805459,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623493,
+      "num": 623493,
+      "word": "撞脸毛不易的幼儿园园长是硕士毕业",
+      "onboard_time": 1675735705,
+      "rank": 9,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 597079,
       "num": 597079,
       "word": "男孩吃火锅时发现作业没写愁到大哭",
@@ -179,12 +187,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 557459,
-      "num": 557459,
-      "word": "撞脸毛不易的幼儿园园长是硕士毕业",
-      "onboard_time": 1675735705,
-      "rank": 9,
-      "category": "艺人,社会新闻"
+      "raw_hot": 522005,
+      "num": 522005,
+      "word": "25岁男子醉驾撞车逃逸父母称他还小",
+      "onboard_time": 1675736245,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511184,
@@ -227,20 +235,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 457228,
+      "num": 457228,
+      "word": "张译穿衣显瘦脱衣有肉",
+      "onboard_time": 1675735885,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450999,
       "num": 429669,
       "word": "陈妍希说陈晓是比较依赖的人",
       "onboard_time": 1675692931,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 450350,
-      "num": 450350,
-      "word": "25岁男子醉驾撞车逃逸父母称他还小",
-      "onboard_time": 1675736245,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 443376,
@@ -305,14 +313,6 @@
       "onboard_time": 1675733725,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 409814,
-      "num": 409814,
-      "word": "张译穿衣显瘦脱衣有肉",
-      "onboard_time": 1675735885,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 404654,
@@ -411,20 +411,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 295348,
+      "num": 295348,
+      "word": "詹姆斯对湖人错过欧文感到失望",
+      "onboard_time": 1675734267,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283082,
       "num": 283082,
       "word": "2023年以来最强雨雪上线",
       "onboard_time": 1675735346,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281257,
-      "num": 281257,
-      "word": "詹姆斯对湖人错过欧文感到失望",
-      "onboard_time": 1675734267,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 278134,
@@ -451,6 +451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271286,
+      "num": 271286,
+      "word": "苹果或将继续上调iPhone售价",
+      "onboard_time": 1675737507,
+      "rank": 44,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 270733,
+      "num": 270733,
+      "word": "这猫像极了下班回家的我",
+      "onboard_time": 1675737326,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 268981,
       "num": 268981,
       "word": "土耳其全国哀悼7天",
@@ -475,12 +491,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 263608,
+      "num": 263608,
+      "word": "2022年度个税汇算3月1日开始",
+      "onboard_time": 1675736846,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 260165,
       "num": 260165,
       "word": "刘慈欣二刷流浪地球2发现小bug",
       "onboard_time": 1675685070,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260091,
+      "num": 260091,
+      "word": "苹果仍在开发反向无线充电功能",
+      "onboard_time": 1675734625,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 256927,
@@ -523,14 +555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 245984,
-      "num": 245984,
-      "word": "苹果仍在开发反向无线充电功能",
-      "onboard_time": 1675734625,
-      "rank": 43,
-      "category": "科技"
-    },
-    {
       "raw_hot": 243075,
       "num": 243075,
       "word": "官方回应一男生被多人扇脸踢踹",
@@ -561,6 +585,14 @@
       "onboard_time": 1675675468,
       "rank": 27,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 227721,
+      "num": 227721,
+      "word": "绝地追击定档4月7日",
+      "onboard_time": 1675737926,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 225717,
@@ -611,20 +643,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 191706,
-      "num": 191706,
-      "word": "2022年度个税汇算3月1日开始",
-      "onboard_time": 1675736846,
-      "rank": 31,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 191488,
-      "num": 191488,
-      "word": "这猫像极了下班回家的我",
-      "onboard_time": 1675737326,
-      "rank": 32,
-      "category": "幽默,情感"
+      "raw_hot": 200354,
+      "num": 200354,
+      "word": "土耳其地震已在土造成2379人死亡",
+      "onboard_time": 1675736066,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190367,
@@ -641,6 +665,14 @@
       "onboard_time": 1675683208,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184306,
+      "num": 184306,
+      "word": "守望先锋2联动一拳超人",
+      "onboard_time": 1675737448,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 183971,
@@ -667,19 +699,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171831,
-      "num": 171831,
-      "word": "守望先锋2联动一拳超人",
-      "onboard_time": 1675737448,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 169853,
       "num": 169853,
       "word": "唐僧安欣和孔雀高启强",
       "onboard_time": 1675726342,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 167706,
+      "num": 167706,
+      "word": "张颂文孤舟民国造型路透",
+      "onboard_time": 1675736426,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -723,11 +755,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154914,
-      "num": 154914,
-      "word": "土耳其地震已在土造成2379人死亡",
-      "onboard_time": 1675736066,
-      "rank": 42,
+      "raw_hot": 157729,
+      "num": 157729,
+      "word": "一央企要求全员背诵董事长金句",
+      "onboard_time": 1675738047,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -745,14 +777,6 @@
       "onboard_time": 1675684647,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145653,
-      "num": 145653,
-      "word": "苹果或将继续上调iPhone售价",
-      "onboard_time": 1675737507,
-      "rank": 44,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 144242,
@@ -777,14 +801,6 @@
       "onboard_time": 1675732589,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135400,
-      "num": 135400,
-      "word": "张颂文孤舟民国造型路透",
-      "onboard_time": 1675736426,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 132986,
@@ -943,6 +959,9 @@
     },
     {
       "word": "#习近平的文化情缘#"
+    },
+    {
+      "word": "#新征程上满怀信心开新局展新貌#"
     }
   ]
 }
