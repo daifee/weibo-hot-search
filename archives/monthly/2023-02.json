@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675750993681,
+  "endTime": 1675751842262,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -611,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1804674,
+      "num": 1804674,
+      "word": "宋宁峰向张婉婷求婚",
+      "onboard_time": 1675749932,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1798545,
       "num": 1798545,
       "word": "上百盒布洛芬被扔垃圾桶",
@@ -1120,14 +1128,6 @@
       "word": "央视元宵晚会 开盲盒",
       "onboard_time": 1675599990,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1382790,
-      "num": 1382790,
-      "word": "宋宁峰向张婉婷求婚",
-      "onboard_time": 1675749932,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -3820,7 +3820,7 @@
     },
     {
       "raw_hot": 652663,
-      "num": 503969,
+      "num": 556142,
       "word": "TFBOYS十周年演唱会确认规划中",
       "onboard_time": 1675748132,
       "rank": 11,
@@ -4089,6 +4089,14 @@
       "onboard_time": 1675376474,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625872,
+      "num": 625872,
+      "word": "内娱叔圈天菜",
+      "onboard_time": 1675749872,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 625435,
@@ -4571,20 +4579,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 562606,
+      "num": 562606,
+      "word": "ChatGPT让苹果急了",
+      "onboard_time": 1675747771,
+      "rank": 39,
+      "category": "科技,游戏"
+    },
+    {
       "raw_hot": 562327,
       "num": 562327,
       "word": "中美双方都没有宣布过什么访问",
       "onboard_time": 1675485326,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 562303,
-      "num": 562303,
-      "word": "ChatGPT让苹果急了",
-      "onboard_time": 1675747771,
-      "rank": 39,
-      "category": "科技,游戏"
     },
     {
       "raw_hot": 561664,
@@ -4753,6 +4761,14 @@
       "onboard_time": 1675597051,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 546551,
+      "num": 546551,
+      "word": "张大大说杨幂和杨颖太瘦了不好看",
+      "onboard_time": 1675749449,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 545850,
@@ -4961,6 +4977,14 @@
       "onboard_time": 1675565727,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 532343,
+      "num": 532343,
+      "word": "知情人称唐小强系回土耳其探亲",
+      "onboard_time": 1675749089,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 532133,
@@ -5763,14 +5787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 460724,
-      "num": 255129,
-      "word": "知情人称唐小强系回土耳其探亲",
-      "onboard_time": 1675749089,
-      "rank": 30,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 459669,
       "num": 459669,
       "word": "张颂文和朱珠拍过吻戏",
@@ -5857,6 +5873,14 @@
       "onboard_time": 1675517372,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 451416,
+      "num": 451416,
+      "word": "女生返校前校服竟变紧身小马甲",
+      "onboard_time": 1675749392,
+      "rank": 21,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 451281,
@@ -5993,14 +6017,6 @@
       "onboard_time": 1675254389,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 440892,
-      "num": 440892,
-      "word": "内娱叔圈天菜",
-      "onboard_time": 1675749872,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 440228,
@@ -6475,6 +6491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407794,
+      "num": 407794,
+      "word": "柯基因满身灰而被主人装不认识",
+      "onboard_time": 1675749632,
+      "rank": 23,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 407633,
       "num": 407633,
       "word": "流浪地球2单日票房反超满江红",
@@ -6683,6 +6707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398336,
+      "num": 398336,
+      "word": "爸爸去幼儿园开家长会遇到做迎宾的儿子",
+      "onboard_time": 1675749270,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 398294,
       "num": 398294,
       "word": "这猫像极了下班回家的我",
@@ -6809,14 +6841,6 @@
       "onboard_time": 1675646066,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 393256,
-      "num": 393256,
-      "word": "张大大说杨幂和杨颖太瘦了不好看",
-      "onboard_time": 1675749449,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 391513,
@@ -7243,14 +7267,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 369500,
-      "num": 369500,
-      "word": "女生返校前校服竟变紧身小马甲",
-      "onboard_time": 1675749392,
-      "rank": 21,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 369432,
       "num": 369432,
       "word": "王心凌杨丞琳聚会合照",
@@ -7297,14 +7313,6 @@
       "onboard_time": 1675599511,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 366845,
-      "num": 366845,
-      "word": "柯基因满身灰而被主人装不认识",
-      "onboard_time": 1675749632,
-      "rank": 23,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 366536,
@@ -8393,14 +8401,6 @@
       "onboard_time": 1675506687,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309489,
-      "num": 309489,
-      "word": "爸爸去幼儿园开家长会遇到做迎宾的儿子",
-      "onboard_time": 1675749270,
-      "rank": 27,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 308659,
@@ -9899,6 +9899,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 256645,
+      "num": 256645,
+      "word": "再见爱人2大结局",
+      "onboard_time": 1675750052,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256588,
       "num": 256588,
       "word": "狂飙 boss",
@@ -10227,6 +10235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246428,
+      "num": 246428,
+      "word": "Nuguri说TheShy是最强上单",
+      "onboard_time": 1675750530,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246037,
       "num": 246037,
       "word": "吴谨言机场给粉丝发红包",
@@ -10409,14 +10425,6 @@
       "onboard_time": 1675164762,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 240130,
-      "num": 240130,
-      "word": "再见爱人2大结局",
-      "onboard_time": 1675750052,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 240109,
@@ -11259,6 +11267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211563,
+      "num": 211563,
+      "word": "狂飙警察四人组里有一人真是警察",
+      "onboard_time": 1675749031,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211408,
       "num": 211408,
       "word": "严浩翔金发毛线帽造型饭拍",
@@ -11755,14 +11771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197821,
-      "num": 197821,
-      "word": "狂飙警察四人组里有一人真是警察",
-      "onboard_time": 1675749031,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 197639,
       "num": 197639,
       "word": "苹果或2025年推出可折叠笔记本",
@@ -11857,14 +11865,6 @@
       "onboard_time": 1675423589,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195307,
-      "num": 195307,
-      "word": "Nuguri说TheShy是最强上单",
-      "onboard_time": 1675750530,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 195275,
@@ -12097,6 +12097,14 @@
       "onboard_time": 1675450454,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 190329,
+      "num": 190329,
+      "word": "中国向土耳其派遣重型救援队",
+      "onboard_time": 1675751130,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190066,
@@ -12505,6 +12513,14 @@
       "onboard_time": 1675242213,
       "rank": 36,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 183522,
+      "num": 183522,
+      "word": "朱一龙拍戏关键时刻腿抽筋",
+      "onboard_time": 1675751549,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 182521,
@@ -13601,6 +13617,14 @@
       "onboard_time": 1675639580,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160410,
+      "num": 160410,
+      "word": "这狗像极了对象生气的样子",
+      "onboard_time": 1675751791,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 160309,

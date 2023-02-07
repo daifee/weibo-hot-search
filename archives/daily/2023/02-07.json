@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675750993681,
+  "endTime": 1675751842262,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1804674,
+      "num": 1804674,
+      "word": "宋宁峰向张婉婷求婚",
+      "onboard_time": 1675749932,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1571226,
       "num": 1571226,
       "word": "妈妈给女儿寄100个水饺都独立包装",
@@ -65,14 +73,6 @@
       "onboard_time": 1675743755,
       "rank": 12,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 1382790,
-      "num": 1382790,
-      "word": "宋宁峰向张婉婷求婚",
-      "onboard_time": 1675749932,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1302489,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 652663,
-      "num": 503969,
+      "num": 556142,
       "word": "TFBOYS十周年演唱会确认规划中",
       "onboard_time": 1675748132,
       "rank": 11,
@@ -297,6 +297,14 @@
       "onboard_time": 1675730730,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625872,
+      "num": 625872,
+      "word": "内娱叔圈天菜",
+      "onboard_time": 1675749872,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 623493,
@@ -347,8 +355,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 562303,
-      "num": 562303,
+      "raw_hot": 562606,
+      "num": 562606,
       "word": "ChatGPT让苹果急了",
       "onboard_time": 1675747771,
       "rank": 39,
@@ -361,6 +369,14 @@
       "onboard_time": 1675732828,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 546551,
+      "num": 546551,
+      "word": "张大大说杨幂和杨颖太瘦了不好看",
+      "onboard_time": 1675749449,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 545850,
@@ -377,6 +393,14 @@
       "onboard_time": 1675736245,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 532343,
+      "num": 532343,
+      "word": "知情人称唐小强系回土耳其探亲",
+      "onboard_time": 1675749089,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 530836,
@@ -467,12 +491,12 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 460724,
-      "num": 255129,
-      "word": "知情人称唐小强系回土耳其探亲",
-      "onboard_time": 1675749089,
-      "rank": 30,
-      "category": "社会新闻,艺人"
+      "raw_hot": 451416,
+      "num": 451416,
+      "word": "女生返校前校服竟变紧身小马甲",
+      "onboard_time": 1675749392,
+      "rank": 21,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 450999,
@@ -523,14 +547,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 440892,
-      "num": 440892,
-      "word": "内娱叔圈天菜",
-      "onboard_time": 1675749872,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 432651,
       "num": 432651,
       "word": "256斤男生半年暴瘦100斤变肌肉猛男",
@@ -579,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 407794,
+      "num": 407794,
+      "word": "柯基因满身灰而被主人装不认识",
+      "onboard_time": 1675749632,
+      "rank": 23,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 404654,
       "num": 404654,
       "word": "你现在王者什么段位",
@@ -603,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398336,
+      "num": 398336,
+      "word": "爸爸去幼儿园开家长会遇到做迎宾的儿子",
+      "onboard_time": 1675749270,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 398294,
       "num": 398294,
       "word": "这猫像极了下班回家的我",
@@ -625,14 +657,6 @@
       "onboard_time": 1675695636,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 393256,
-      "num": 393256,
-      "word": "张大大说杨幂和杨颖太瘦了不好看",
-      "onboard_time": 1675749449,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 386391,
@@ -699,28 +723,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 369500,
-      "num": 369500,
-      "word": "女生返校前校服竟变紧身小马甲",
-      "onboard_time": 1675749392,
-      "rank": 21,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 367315,
       "num": 367315,
       "word": "狂飙大嫂高叶直播",
       "onboard_time": 1675697610,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 366845,
-      "num": 366845,
-      "word": "柯基因满身灰而被主人装不认识",
-      "onboard_time": 1675749632,
-      "rank": 23,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 354719,
@@ -785,14 +793,6 @@
       "onboard_time": 1675741652,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309489,
-      "num": 309489,
-      "word": "爸爸去幼儿园开家长会遇到做迎宾的儿子",
-      "onboard_time": 1675749270,
-      "rank": 27,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 307944,
@@ -1003,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256645,
+      "num": 256645,
+      "word": "再见爱人2大结局",
+      "onboard_time": 1675750052,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256322,
       "num": 256322,
       "word": "第一次听说水果生蚝",
@@ -1051,6 +1059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 246428,
+      "num": 246428,
+      "word": "Nuguri说TheShy是最强上单",
+      "onboard_time": 1675750530,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243075,
       "num": 243075,
       "word": "官方回应一男生被多人扇脸踢踹",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1675738948,
       "rank": 36,
       "category": "科技"
-    },
-    {
-      "raw_hot": 240130,
-      "num": 240130,
-      "word": "再见爱人2大结局",
-      "onboard_time": 1675750052,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 238051,
@@ -1203,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211563,
+      "num": 211563,
+      "word": "狂飙警察四人组里有一人真是警察",
+      "onboard_time": 1675749031,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209851,
       "num": 209851,
       "word": "汤普森42分",
@@ -1251,28 +1267,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197821,
-      "num": 197821,
-      "word": "狂飙警察四人组里有一人真是警察",
-      "onboard_time": 1675749031,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 196957,
       "num": 196957,
       "word": "大侦探",
       "onboard_time": 1675744533,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195307,
-      "num": 195307,
-      "word": "Nuguri说TheShy是最强上单",
-      "onboard_time": 1675750530,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 190988,
@@ -1289,6 +1289,14 @@
       "onboard_time": 1675692750,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190329,
+      "num": 190329,
+      "word": "中国向土耳其派遣重型救援队",
+      "onboard_time": 1675751130,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189985,
@@ -1337,6 +1345,14 @@
       "onboard_time": 1675700364,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 183522,
+      "num": 183522,
+      "word": "朱一龙拍戏关键时刻腿抽筋",
+      "onboard_time": 1675751549,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 180903,
@@ -1409,6 +1425,14 @@
       "onboard_time": 1675732045,
       "rank": 42,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 160410,
+      "num": 160410,
+      "word": "这狗像极了对象生气的样子",
+      "onboard_time": 1675751791,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 157855,
