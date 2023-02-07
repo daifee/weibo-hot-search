@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675802018019,
+  "endTime": 1675804591004,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -16531,6 +16531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53532,
+      "num": 22242,
+      "word": "男子被骂吃不起饭隔天带4菜店外吃播",
+      "onboard_time": 1675802952,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53085,
       "num": 1415601,
       "word": "流动的中国绽放着蓬勃活力",
@@ -16553,6 +16561,14 @@
       "onboard_time": 1675186278,
       "rank": 30,
       "category": "时尚,幽默"
+    },
+    {
+      "raw_hot": 50473,
+      "num": 41219,
+      "word": "美或在日本部署高超音速导弹",
+      "onboard_time": 1675799712,
+      "rank": 17,
+      "category": "军事"
     },
     {
       "raw_hot": 50072,
@@ -16601,14 +16617,6 @@
       "onboard_time": 1675465636,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47101,
-      "num": 41219,
-      "word": "美或在日本部署高超音速导弹",
-      "onboard_time": 1675799712,
-      "rank": 17,
-      "category": "军事"
     },
     {
       "raw_hot": 46806,
