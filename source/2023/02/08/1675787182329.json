@@ -1,0 +1,410 @@
+{
+  "runTime": 1675787182329,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1125618,
+        "num": 1125618,
+        "word": "月入一万是什么水平",
+        "onboard_time": 1675781674,
+        "rank": 0,
+        "category": "财经,情感"
+      },
+      {
+        "raw_hot": 871329,
+        "num": 871329,
+        "word": "张译新闻联播镜头",
+        "onboard_time": 1675779033,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3837,
+        "num": 803702,
+        "word": "流动的中国绽放着蓬勃活力",
+        "onboard_time": 1675756171,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 756138,
+        "num": 756138,
+        "word": "安欣没救到的只有李响",
+        "onboard_time": 1675785149,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 497524,
+        "num": 497524,
+        "word": "女子取药时发现医生用手机追剧",
+        "onboard_time": 1675773030,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484115,
+        "num": 484115,
+        "word": "陈晓陈妍希微信头像都是关于对方",
+        "onboard_time": 1675777593,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481616,
+        "num": 481616,
+        "word": "吴昕换头像被杜海涛问怀孕了吗",
+        "onboard_time": 1675774292,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440779,
+        "num": 440779,
+        "word": "网友在泰国偶遇鞠婧祎",
+        "onboard_time": 1675782154,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420572,
+        "num": 420572,
+        "word": "抖音将于3月1日上线全国外卖服务",
+        "onboard_time": 1675762349,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 412162,
+        "num": 412162,
+        "word": "万茜长发",
+        "onboard_time": 1675780654,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404291,
+        "num": 404291,
+        "word": "白百何给员工放假30天",
+        "onboard_time": 1675782154,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378055,
+        "num": 378055,
+        "word": "女子用狂飙导演照片卖身葬父",
+        "onboard_time": 1675785268,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346222,
+        "num": 346222,
+        "word": "杜华帮儿子要虞书欣签名照",
+        "onboard_time": 1675776392,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295588,
+        "num": 295588,
+        "word": "成都平均月薪10039元",
+        "onboard_time": 1675772069,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 295189,
+        "num": 295189,
+        "word": "48岁老师去世天南海北学生赶回悼念",
+        "onboard_time": 1675776812,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 294208,
+        "num": 294208,
+        "word": "金玲",
+        "onboard_time": 1675782574,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 279119,
+        "num": 279119,
+        "word": "高叶说评论区不是无人区",
+        "onboard_time": 1675781014,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276035,
+        "num": 276035,
+        "word": "恩施人非必要不得前往柬埔寨",
+        "onboard_time": 1675774409,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274213,
+        "num": 274213,
+        "word": "张常宁悼念父亲",
+        "onboard_time": 1675781193,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272069,
+        "num": 272069,
+        "word": "学生在他照片下留言IP遍布全国",
+        "onboard_time": 1675780114,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 255602,
+        "num": 255602,
+        "word": "林高远",
+        "onboard_time": 1675783891,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503769,
+        "num": 250267,
+        "word": "男友拒不结婚42岁女子独自生养女儿",
+        "onboard_time": 1675779873,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 234588,
+        "num": 234588,
+        "word": "抖音入局外卖意味着什么",
+        "onboard_time": 1675766310,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 233748,
+        "num": 233748,
+        "word": "这就是暗恋的真实写照吧",
+        "onboard_time": 1675780771,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230783,
+        "num": 230783,
+        "word": "湖南男子和孕妻回土耳其探亲遇地震",
+        "onboard_time": 1675774169,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212047,
+        "num": 212047,
+        "word": "流浪地球世界观设定会出版图书",
+        "onboard_time": 1675786525,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207594,
+        "num": 207594,
+        "word": "466元6块糖涉事店铺修改价签",
+        "onboard_time": 1675778193,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205783,
+        "num": 205783,
+        "word": "李秀满将起诉SMTOWN理事会",
+        "onboard_time": 1675772609,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191629,
+        "num": 191629,
+        "word": "强震已致土耳其叙利亚超5000人遇难",
+        "onboard_time": 1675773271,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175905,
+        "num": 175905,
+        "word": "马嘉祺声生不息2录制下班路透",
+        "onboard_time": 1675783891,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167439,
+        "num": 167439,
+        "word": "狂飙里有哪些细思极恐的细节",
+        "onboard_time": 1675785087,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161241,
+        "num": 161241,
+        "word": "陈飞宇不过情人节",
+        "onboard_time": 1675777415,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157353,
+        "num": 157353,
+        "word": "14岁女孩用海姆立克法救被噎爸爸",
+        "onboard_time": 1675780292,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156744,
+        "num": 156744,
+        "word": "中年裸辞意味着什么",
+        "onboard_time": 1675771169,
+        "rank": 33,
+        "category": "影视,社会议题"
+      },
+      {
+        "raw_hot": 154295,
+        "num": 154295,
+        "word": "鲁班七号头号选手星元",
+        "onboard_time": 1675780714,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142299,
+        "num": 142299,
+        "word": "父亲年三十去世男子离家时强忍泪水",
+        "onboard_time": 1675776572,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142117,
+        "num": 142117,
+        "word": "宋宁峰看张婉婷写给婆婆的话哭了",
+        "onboard_time": 1675781914,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136840,
+        "num": 136840,
+        "word": "王者荣耀情人节CG",
+        "onboard_time": 1675779335,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122398,
+        "num": 122398,
+        "word": "蔡徐坤泰国人气",
+        "onboard_time": 1675767510,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114537,
+        "num": 114537,
+        "word": "肖战白百何捉妖记2后二搭",
+        "onboard_time": 1675760309,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108587,
+        "num": 108587,
+        "word": "半熟2三个男嘉宾看头像选了孙沐雨",
+        "onboard_time": 1675774529,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104450,
+        "num": 104450,
+        "word": "任天堂日本所有员工工资上涨10%",
+        "onboard_time": 1675769010,
+        "rank": 41,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 102574,
+        "num": 102574,
+        "word": "狗狗山中走丢24天找到瘦了20斤",
+        "onboard_time": 1675771108,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101712,
+        "num": 101712,
+        "word": "抖音已注册多枚心动外卖商标",
+        "onboard_time": 1675772126,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 99325,
+        "num": 99325,
+        "word": "半熟恋人",
+        "onboard_time": 1675767990,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93300,
+        "num": 93300,
+        "word": "搞宫斗还得看TVB台庆",
+        "onboard_time": 1675778311,
+        "rank": 45,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 90495,
+        "num": 90495,
+        "word": "张颂文是懂哄孩子的",
+        "onboard_time": 1675783052,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90068,
+        "num": 90068,
+        "word": "项羽虞姬情人节限定皮肤",
+        "onboard_time": 1675765590,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84175,
+        "num": 84175,
+        "word": "狂飙是央八近九年收视第一",
+        "onboard_time": 1675751908,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79693,
+        "num": 79693,
+        "word": "南京平均月薪11145元",
+        "onboard_time": 1675785508,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#增强文化自信建设文化强国#"
+    }
+  }
+}
