@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675754209457,
+  "endTime": 1675755224158,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -1419,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1226574,
+      "num": 1226574,
+      "word": "狂飙是央八近九年收视第一",
+      "onboard_time": 1675751908,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1226321,
       "num": 1031426,
       "word": "中国游客被普吉岛旅行社负责人割伤",
@@ -1777,14 +1785,6 @@
       "onboard_time": 1675232668,
       "rank": 22,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1084079,
-      "num": 1084079,
-      "word": "狂飙是央八近九年收视第一",
-      "onboard_time": 1675751908,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1082451,
@@ -2233,6 +2233,14 @@
       "onboard_time": 1675418072,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 926986,
+      "num": 926986,
+      "word": "90后夫妻上门做菜700元6荤5素1汤",
+      "onboard_time": 1675751848,
+      "rank": 10,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 925476,
@@ -3347,14 +3355,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 711954,
-      "num": 572558,
-      "word": "90后夫妻上门做菜700元6荤5素1汤",
-      "onboard_time": 1675751848,
-      "rank": 10,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 710754,
       "num": 710754,
       "word": "孙怡再见爱人激动了一整期",
@@ -3617,6 +3617,14 @@
       "onboard_time": 1675334555,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 682120,
+      "num": 682120,
+      "word": "狗主人买廉价狗粮竟掺土和锯末致死亡",
+      "onboard_time": 1675752930,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 682098,
@@ -4041,6 +4049,14 @@
       "onboard_time": 1675662747,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 633582,
+      "num": 633582,
+      "word": "饿了么免单",
+      "onboard_time": 1675754010,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 631121,
@@ -4777,6 +4793,14 @@
       "onboard_time": 1675476146,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 549981,
+      "num": 549981,
+      "word": "蔡徐坤头发已经褪色了",
+      "onboard_time": 1675754730,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 549735,
@@ -6691,6 +6715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 400218,
+      "num": 400218,
+      "word": "来自陈书婷的血脉压制",
+      "onboard_time": 1675754312,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399686,
       "num": 399686,
       "word": "深圳平均月薪9903元",
@@ -7299,6 +7331,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 369595,
+      "num": 369595,
+      "word": "告诉老默我想摸鱼了",
+      "onboard_time": 1675754493,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369432,
       "num": 369432,
       "word": "王心凌杨丞琳聚会合照",
@@ -7345,14 +7385,6 @@
       "onboard_time": 1675599511,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 366629,
-      "num": 366629,
-      "word": "饿了么免单",
-      "onboard_time": 1675754010,
-      "rank": 21,
-      "category": "科技"
     },
     {
       "raw_hot": 366536,
@@ -7457,14 +7489,6 @@
       "onboard_time": 1675665088,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 359202,
-      "num": 359202,
-      "word": "狗主人买廉价狗粮竟掺土和锯末致死亡",
-      "onboard_time": 1675752930,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358735,
@@ -8571,6 +8595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 303930,
+      "num": 303930,
+      "word": "中国向土耳其派遣重型救援队",
+      "onboard_time": 1675751130,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303647,
       "num": 303647,
       "word": "前门花灯",
@@ -8713,6 +8745,14 @@
       "onboard_time": 1675660532,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 296585,
+      "num": 296585,
+      "word": "王鹤棣手机锁屏是高启强",
+      "onboard_time": 1675755149,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 296571,
@@ -9491,20 +9531,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 271377,
-      "num": 271377,
-      "word": "中国向土耳其派遣重型救援队",
-      "onboard_time": 1675751130,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270872,
       "num": 270872,
       "word": "权顺荣说追星不容易",
       "onboard_time": 1675523311,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270354,
+      "num": 270354,
+      "word": "2023上半年已定档40部新片",
+      "onboard_time": 1675754070,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 269710,
@@ -10947,14 +10987,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 225925,
-      "num": 225925,
-      "word": "2023上半年已定档40部新片",
-      "onboard_time": 1675754070,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 225717,
       "num": 215107,
       "word": "网传肖战李沁梦中的那片海Q1播出",
@@ -11291,6 +11323,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 213230,
+      "num": 213230,
+      "word": "谁家小狗这么自律啊",
+      "onboard_time": 1675753351,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 212943,
       "num": 212943,
       "word": "小猫也懂重色轻友",
@@ -11401,6 +11441,14 @@
       "onboard_time": 1675748672,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209606,
+      "num": 209606,
+      "word": "演技叔圈101",
+      "onboard_time": 1675753411,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 209579,
@@ -11984,14 +12032,6 @@
       "word": "长公主在上开播一周年",
       "onboard_time": 1675568730,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 194965,
-      "num": 194965,
-      "word": "演技叔圈101",
-      "onboard_time": 1675753411,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -12707,6 +12747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181261,
+      "num": 181261,
+      "word": "女子剖腹产回家家人做轿子抬其上楼",
+      "onboard_time": 1675755090,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181196,
       "num": 181196,
       "word": "土耳其地震暂无中国公民伤亡",
@@ -12841,6 +12889,14 @@
       "onboard_time": 1675681170,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178271,
+      "num": 178271,
+      "word": "ChatGPT称用其写作业或有道德问题",
+      "onboard_time": 1675754971,
+      "rank": 41,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 178144,
@@ -13715,14 +13771,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 160732,
-      "num": 160732,
-      "word": "谁家小狗这么自律啊",
-      "onboard_time": 1675753351,
-      "rank": 47,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 160724,
       "num": 160724,
       "word": "任嘉伦找兜",
@@ -13753,6 +13801,14 @@
       "onboard_time": 1675243169,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159728,
+      "num": 159728,
+      "word": "卢歌把戒指留在地上",
+      "onboard_time": 1675754250,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 159307,
@@ -13801,6 +13857,14 @@
       "onboard_time": 1675413990,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158795,
+      "num": 158795,
+      "word": "广州阿姨托石榴姐请刘德华来开演唱会",
+      "onboard_time": 1675755029,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 158552,
@@ -13937,6 +14001,14 @@
       "onboard_time": 1675392268,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154043,
+      "num": 154043,
+      "word": "重庆人对微微辣的理解",
+      "onboard_time": 1675754611,
+      "rank": 47,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 153915,
