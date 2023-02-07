@@ -1,0 +1,410 @@
+{
+  "runTime": 1675759054176,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1213352,
+        "num": 1213352,
+        "word": "疯驴子才25岁",
+        "onboard_time": 1675745016,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1051608,
+        "num": 1051608,
+        "word": "宋宁峰向张婉婷求婚",
+        "onboard_time": 1675749932,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53085,
+        "num": 1022494,
+        "word": "流动的中国绽放着蓬勃活力",
+        "onboard_time": 1675756171,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1020202,
+        "num": 1020202,
+        "word": "狂飙是央八近九年收视第一",
+        "onboard_time": 1675751908,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 999866,
+        "num": 999866,
+        "word": "狗主人买廉价狗粮竟掺土和锯末致死亡",
+        "onboard_time": 1675752930,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929626,
+        "num": 929626,
+        "word": "王鹤棣手机锁屏是高启强",
+        "onboard_time": 1675755149,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 815098,
+        "num": 815098,
+        "word": "告诉老默我想摸鱼了",
+        "onboard_time": 1675754493,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 797854,
+        "num": 797854,
+        "word": "蔡徐坤头发已经褪色了",
+        "onboard_time": 1675754730,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588007,
+        "num": 588007,
+        "word": "90后夫妻上门做菜700元6荤5素1汤",
+        "onboard_time": 1675751848,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 525161,
+        "num": 525161,
+        "word": "当代研究生现状鉴赏",
+        "onboard_time": 1675755332,
+        "rank": 9,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 769746,
+        "num": 523951,
+        "word": "张婧仪张凌赫情人节大片",
+        "onboard_time": 1675757492,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 525390,
+        "num": 522799,
+        "word": "张颂文给陈都灵讲戏",
+        "onboard_time": 1675758090,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518802,
+        "num": 518802,
+        "word": "女子剖腹产回家家人做轿子抬其上楼",
+        "onboard_time": 1675755090,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510341,
+        "num": 510341,
+        "word": "唐小强",
+        "onboard_time": 1675736125,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 504007,
+        "num": 504007,
+        "word": "女生第一次去男友家被安排吃剩菜洗碗",
+        "onboard_time": 1675743755,
+        "rank": 14,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 481972,
+        "num": 481972,
+        "word": "麻子23岁",
+        "onboard_time": 1675755871,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475983,
+        "num": 475983,
+        "word": "曝公司艺人不愿为李秀满发声",
+        "onboard_time": 1675757492,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475043,
+        "num": 475043,
+        "word": "网传杨幂主演没有一顿火锅解决不了的事",
+        "onboard_time": 1675758931,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 469370,
+        "num": 469370,
+        "word": "内娱叔圈天菜",
+        "onboard_time": 1675749872,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397593,
+        "num": 397593,
+        "word": "饿了么免单",
+        "onboard_time": 1675754010,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 433626,
+        "num": 397231,
+        "word": "来自陈书婷的血脉压制",
+        "onboard_time": 1675754312,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431901,
+        "num": 394516,
+        "word": "TFBOYS十周年演唱会确认规划中",
+        "onboard_time": 1675748132,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 391357,
+        "num": 391357,
+        "word": "强震已致土耳其叙利亚超4000人遇难",
+        "onboard_time": 1675742431,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 385304,
+        "num": 385304,
+        "word": "ChatGPT让苹果急了",
+        "onboard_time": 1675747771,
+        "rank": 23,
+        "category": "科技,游戏"
+      },
+      {
+        "raw_hot": 380674,
+        "num": 380674,
+        "word": "美国89%的大学生都是用ChatGPT做作业",
+        "onboard_time": 1675743454,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 352656,
+        "num": 352656,
+        "word": "中方回应美方拒还飞艇碎片和设备",
+        "onboard_time": 1675757130,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 346428,
+        "num": 346428,
+        "word": "10岁女孩文具店买到性暗示钥匙扣",
+        "onboard_time": 1675738707,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317579,
+        "num": 317579,
+        "word": "肖战盛阳白衣比耶照",
+        "onboard_time": 1675757970,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296845,
+        "num": 296845,
+        "word": "ChatGPT上线2个月活跃用户破亿",
+        "onboard_time": 1675756292,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 294713,
+        "num": 294713,
+        "word": "张大大说杨幂和杨颖太瘦了不好看",
+        "onboard_time": 1675749449,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290524,
+        "num": 290524,
+        "word": "肖战易烊千玺蔡徐坤今日开屏海报",
+        "onboard_time": 1675753830,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243658,
+        "num": 243658,
+        "word": "爸爸去幼儿园开家长会遇到做迎宾的儿子",
+        "onboard_time": 1675749270,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 238806,
+        "num": 238806,
+        "word": "白鹿开车vlog",
+        "onboard_time": 1675757913,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234406,
+        "num": 234406,
+        "word": "中国向土耳其派遣重型救援队",
+        "onboard_time": 1675751130,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221801,
+        "num": 221801,
+        "word": "2023上半年已定档40部新片",
+        "onboard_time": 1675754070,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219730,
+        "num": 219730,
+        "word": "重庆人对微微辣的理解",
+        "onboard_time": 1675754611,
+        "rank": 35,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 211544,
+        "num": 211544,
+        "word": "柯基因满身灰而被主人装不认识",
+        "onboard_time": 1675749632,
+        "rank": 36,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 202112,
+        "num": 202112,
+        "word": "Nuguri说TheShy是最强上单",
+        "onboard_time": 1675750530,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198457,
+        "num": 198457,
+        "word": "知情人称唐小强系回土耳其探亲",
+        "onboard_time": 1675749089,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 198366,
+        "num": 198366,
+        "word": "女生返校前校服竟变紧身小马甲",
+        "onboard_time": 1675749392,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 194981,
+        "num": 194981,
+        "word": "马斯克曾称ChatGPT好得吓人",
+        "onboard_time": 1675756652,
+        "rank": 40,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 194025,
+        "num": 194025,
+        "word": "TFBOYS十周年演唱会附近酒店已被订完",
+        "onboard_time": 1675743094,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186546,
+        "num": 186546,
+        "word": "刘亦菲洛杉矶街头被网友偶遇",
+        "onboard_time": 1675744235,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185401,
+        "num": 185401,
+        "word": "金门发表永久非军事区宣言",
+        "onboard_time": 1675746276,
+        "rank": 43,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 178265,
+        "num": 178265,
+        "word": "不要给没看完狂飙的人剧透",
+        "onboard_time": 1675758090,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168617,
+        "num": 168617,
+        "word": "两只猫没有一只省心的",
+        "onboard_time": 1675751969,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161953,
+        "num": 161953,
+        "word": "高叶回应陈书婷大嫂同款爆火",
+        "onboard_time": 1675756409,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156003,
+        "num": 156003,
+        "word": "苏诗丁下车后转身往前跑",
+        "onboard_time": 1675752093,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154737,
+        "num": 154737,
+        "word": "高启强车窗贴纸",
+        "onboard_time": 1675758990,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154006,
+        "num": 154006,
+        "word": "1岁宝宝称体重时努力吸肚子",
+        "onboard_time": 1675758750,
+        "rank": 49,
+        "category": "社会新闻,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记细细询问敦煌保护最紧要的问题#"
+    }
+  }
+}

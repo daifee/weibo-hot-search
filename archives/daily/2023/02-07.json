@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675758206135,
+  "endTime": 1675759054176,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -163,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 929626,
+      "num": 929626,
+      "word": "王鹤棣手机锁屏是高启强",
+      "onboard_time": 1675755149,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 926986,
       "num": 926986,
       "word": "90后夫妻上门做菜700元6荤5素1汤",
@@ -177,14 +185,6 @@
       "onboard_time": 1675738406,
       "rank": 3,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 905236,
-      "num": 905236,
-      "word": "王鹤棣手机锁屏是高启强",
-      "onboard_time": 1675755149,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 887961,
@@ -219,8 +219,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 811007,
-      "num": 811007,
+      "raw_hot": 815098,
+      "num": 815098,
       "word": "告诉老默我想摸鱼了",
       "onboard_time": 1675754493,
       "rank": 20,
@@ -241,6 +241,14 @@
       "onboard_time": 1675749872,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 769746,
+      "num": 523951,
+      "word": "张婧仪张凌赫情人节大片",
+      "onboard_time": 1675757492,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 761400,
@@ -475,12 +483,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 523568,
-      "num": 523568,
-      "word": "张婧仪张凌赫情人节大片",
-      "onboard_time": 1675757492,
-      "rank": 12,
-      "category": "作品衍生"
+      "raw_hot": 525390,
+      "num": 522799,
+      "word": "张颂文给陈都灵讲戏",
+      "onboard_time": 1675758090,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 525161,
+      "num": 525161,
+      "word": "当代研究生现状鉴赏",
+      "onboard_time": 1675755332,
+      "rank": 19,
+      "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 518802,
+      "num": 518802,
+      "word": "女子剖腹产回家家人做轿子抬其上楼",
+      "onboard_time": 1675755090,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511184,
@@ -531,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 481972,
+      "num": 481972,
+      "word": "麻子23岁",
+      "onboard_time": 1675755871,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 481441,
       "num": 481441,
       "word": "肖战说骄阳炙热盛阳杀青快乐",
@@ -539,12 +571,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 475414,
-      "num": 475414,
-      "word": "女子剖腹产回家家人做轿子抬其上楼",
-      "onboard_time": 1675755090,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 475983,
+      "num": 475983,
+      "word": "曝公司艺人不愿为李秀满发声",
+      "onboard_time": 1675757492,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 475043,
+      "num": 475043,
+      "word": "网传杨幂主演没有一顿火锅解决不了的事",
+      "onboard_time": 1675758931,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 474010,
@@ -593,14 +633,6 @@
       "onboard_time": 1675692931,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 448831,
-      "num": 448831,
-      "word": "麻子23岁",
-      "onboard_time": 1675755871,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 446790,
@@ -681,14 +713,6 @@
       "onboard_time": 1675752270,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414447,
-      "num": 414447,
-      "word": "当代研究生现状鉴赏",
-      "onboard_time": 1675755332,
-      "rank": 19,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 413554,
@@ -835,14 +859,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 371255,
-      "num": 371255,
-      "word": "张颂文给陈都灵讲戏",
-      "onboard_time": 1675758090,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 367315,
       "num": 367315,
       "word": "狂飙大嫂高叶直播",
@@ -857,6 +873,14 @@
       "onboard_time": 1675749510,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352656,
+      "num": 352656,
+      "word": "中方回应美方拒还飞艇碎片和设备",
+      "onboard_time": 1675757130,
+      "rank": 40,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 349331,
@@ -907,20 +931,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 317579,
+      "num": 317579,
+      "word": "肖战盛阳白衣比耶照",
+      "onboard_time": 1675757970,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315702,
       "num": 315702,
       "word": "猫猫被拴住仍想用滑步出门",
       "onboard_time": 1675741652,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314878,
-      "num": 314878,
-      "word": "肖战盛阳白衣比耶照",
-      "onboard_time": 1675757970,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 307944,
@@ -993,6 +1017,14 @@
       "onboard_time": 1675752093,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296845,
+      "num": 296845,
+      "word": "ChatGPT上线2个月活跃用户破亿",
+      "onboard_time": 1675756292,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 295348,
@@ -1139,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260488,
-      "num": 260488,
-      "word": "ChatGPT上线2个月活跃用户破亿",
-      "onboard_time": 1675756292,
-      "rank": 26,
-      "category": "科技"
-    },
-    {
       "raw_hot": 260165,
       "num": 260165,
       "word": "刘慈欣二刷流浪地球2发现小bug",
@@ -1267,20 +1291,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 238806,
+      "num": 238806,
+      "word": "白鹿开车vlog",
+      "onboard_time": 1675757913,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238051,
       "num": 238051,
       "word": "三秒摔了六跤",
       "onboard_time": 1675729108,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 234183,
-      "num": 234183,
-      "word": "曝公司艺人不愿为李秀满发声",
-      "onboard_time": 1675757492,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 233612,
@@ -1371,8 +1395,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218022,
-      "num": 218022,
+      "raw_hot": 219730,
+      "num": 219730,
       "word": "重庆人对微微辣的理解",
       "onboard_time": 1675754611,
       "rank": 47,
@@ -1459,22 +1483,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 199814,
-      "num": 199814,
-      "word": "中方回应美方拒还飞艇碎片和设备",
-      "onboard_time": 1675757130,
-      "rank": 40,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 199666,
-      "num": 199666,
-      "word": "白鹿开车vlog",
-      "onboard_time": 1675757913,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199550,
       "num": 199550,
       "word": "不想开学",
@@ -1513,6 +1521,14 @@
       "onboard_time": 1675753530,
       "rank": 37,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 194981,
+      "num": 194981,
+      "word": "马斯克曾称ChatGPT好得吓人",
+      "onboard_time": 1675756652,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 190988,
@@ -1723,12 +1739,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 153848,
-      "num": 153848,
-      "word": "马斯克曾称ChatGPT好得吓人",
-      "onboard_time": 1675756652,
-      "rank": 47,
-      "category": "科技,社会新闻"
+      "raw_hot": 154737,
+      "num": 154737,
+      "word": "高启强车窗贴纸",
+      "onboard_time": 1675758990,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 154006,
+      "num": 154006,
+      "word": "1岁宝宝称体重时努力吸肚子",
+      "onboard_time": 1675758750,
+      "rank": 49,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 147584,
@@ -1915,7 +1939,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 46419,
+      "raw_hot": 53085,
       "num": 1125374,
       "word": "流动的中国绽放着蓬勃活力",
       "onboard_time": 1675756171,
