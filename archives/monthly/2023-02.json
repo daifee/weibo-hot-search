@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675798414951,
+  "endTime": 1675801185762,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -16761,6 +16761,14 @@
       "onboard_time": 1675195453,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34201,
+      "num": 34201,
+      "word": "美或在日本部署高超音速导弹",
+      "onboard_time": 1675799712,
+      "rank": 17,
+      "category": "军事"
     },
     {
       "raw_hot": 33964,
