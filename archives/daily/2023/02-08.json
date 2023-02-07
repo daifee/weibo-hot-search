@@ -1,6 +1,6 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675797335205,
+  "endTime": 1675798414951,
   "band_list": [
     {
       "raw_hot": 1125618,
@@ -483,8 +483,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 46547,
-      "num": 46547,
+      "raw_hot": 56712,
+      "num": 56712,
       "word": "85花湖南卫视播剧收视率排行",
       "onboard_time": 1675795813,
       "rank": 16,
@@ -531,20 +531,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 35517,
+      "num": 35517,
+      "word": "横看成岭侧成峰的发型",
+      "onboard_time": 1675794194,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 33964,
       "num": 33964,
       "word": "吴京张译分吸油纸",
       "onboard_time": 1675793536,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32868,
-      "num": 32868,
-      "word": "横看成岭侧成峰的发型",
-      "onboard_time": 1675794194,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 28728,

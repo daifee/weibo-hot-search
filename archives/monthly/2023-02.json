@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675797335205,
+  "endTime": 1675798414951,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -16491,6 +16491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 56712,
+      "num": 56712,
+      "word": "85花湖南卫视播剧收视率排行",
+      "onboard_time": 1675795813,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 55997,
       "num": 45506,
       "word": "唐小虎下线",
@@ -16601,14 +16609,6 @@
       "onboard_time": 1675540633,
       "rank": 35,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 46547,
-      "num": 46547,
-      "word": "85花湖南卫视播剧收视率排行",
-      "onboard_time": 1675795813,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 46450,
@@ -16731,6 +16731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 35517,
+      "num": 35517,
+      "word": "横看成岭侧成峰的发型",
+      "onboard_time": 1675794194,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 34722,
       "num": 34722,
       "word": "2月的第1天",
@@ -16761,14 +16769,6 @@
       "onboard_time": 1675793536,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32868,
-      "num": 32868,
-      "word": "横看成岭侧成峰的发型",
-      "onboard_time": 1675794194,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 30425,
