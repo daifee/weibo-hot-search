@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675787182329,
+  "endTime": 1675788283048,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -3091,6 +3091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 801361,
+      "num": 801361,
+      "word": "安欣没救到的只有李响",
+      "onboard_time": 1675785149,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 796817,
       "num": 796817,
       "word": "SMTOWN新女团将第二季度出道",
@@ -3273,14 +3281,6 @@
       "onboard_time": 1675680691,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 756138,
-      "num": 756138,
-      "word": "安欣没救到的只有李响",
-      "onboard_time": 1675785149,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 756123,
@@ -6379,6 +6379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 447325,
+      "num": 378055,
+      "word": "女子用狂飙导演照片卖身葬父",
+      "onboard_time": 1675785268,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446930,
       "num": 446930,
       "word": "兔年想活成曾黎",
@@ -7569,14 +7577,6 @@
       "onboard_time": 1675266390,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 378055,
-      "num": 378055,
-      "word": "女子用狂飙导演照片卖身葬父",
-      "onboard_time": 1675785268,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377972,
@@ -11963,6 +11963,14 @@
       "category": "社会议题,财经"
     },
     {
+      "raw_hot": 216248,
+      "num": 216248,
+      "word": "流浪地球世界观设定会出版图书",
+      "onboard_time": 1675786525,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215258,
       "num": 215258,
       "word": "嫌疑人亲属曾是遇袭医生的患者",
@@ -12105,14 +12113,6 @@
       "onboard_time": 1675678949,
       "rank": 32,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 212047,
-      "num": 212047,
-      "word": "流浪地球世界观设定会出版图书",
-      "onboard_time": 1675786525,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 212039,
@@ -12336,6 +12336,14 @@
       "word": "吴京给邓超新电影打call",
       "onboard_time": 1675409792,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205186,
+      "num": 205186,
+      "word": "狂飙里有哪些细思极恐的细节",
+      "onboard_time": 1675785087,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -14264,14 +14272,6 @@
       "word": "王一博无名叶先生回眸海报",
       "onboard_time": 1675756409,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 167439,
-      "num": 167439,
-      "word": "狂飙里有哪些细思极恐的细节",
-      "onboard_time": 1675785087,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -16235,6 +16235,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 86805,
+      "num": 86805,
+      "word": "这猫好像打了补丁",
+      "onboard_time": 1675787184,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86666,
       "num": 86666,
       "word": "狂飙同款猪脚面原来那么香",
@@ -16329,6 +16337,14 @@
       "onboard_time": 1675149175,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74272,
+      "num": 74272,
+      "word": "没阳过的孩子能上学吗",
+      "onboard_time": 1675788023,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 71881,
