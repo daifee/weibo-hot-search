@@ -1,6 +1,6 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675808292600,
+  "endTime": 1675809268163,
   "band_list": [
     {
       "raw_hot": 1125618,
@@ -59,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 447325,
-      "num": 409063,
+      "raw_hot": 470239,
+      "num": 470239,
       "word": "女子用狂飙导演照片卖身葬父",
       "onboard_time": 1675785268,
       "rank": 11,
@@ -235,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197628,
+      "num": 197628,
+      "word": "没阳过的孩子能上学吗",
+      "onboard_time": 1675788023,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 194029,
       "num": 194029,
       "word": "骄阳伴我杀青特辑",
@@ -292,11 +300,19 @@
     },
     {
       "raw_hot": 152019,
-      "num": 60780,
+      "num": 75166,
       "word": "叙利亚地震后美国仍拒绝解除制裁",
       "onboard_time": 1675794794,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 148059,
+      "num": 79310,
+      "word": "男子被骂吃不起饭隔天带4菜店外吃播",
+      "onboard_time": 1675802952,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143143,
@@ -323,28 +339,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140836,
+      "num": 75288,
+      "word": "25岁女生记录矫正牙齿全过程",
+      "onboard_time": 1675804990,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136840,
       "num": 136840,
       "word": "王者荣耀情人节CG",
       "onboard_time": 1675779335,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136816,
-      "num": 136816,
-      "word": "没阳过的孩子能上学吗",
-      "onboard_time": 1675788023,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 136184,
-      "num": 59321,
-      "word": "男子被骂吃不起饭隔天带4菜店外吃播",
-      "onboard_time": 1675802952,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128040,
@@ -379,12 +387,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 108680,
-      "num": 59279,
-      "word": "25岁女生记录矫正牙齿全过程",
-      "onboard_time": 1675804990,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 109679,
+      "num": 69662,
+      "word": "女子想丁克妈妈说开心就好",
+      "onboard_time": 1675806972,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 108587,
@@ -499,32 +507,24 @@
       "category": "影视"
     },
     {
-      "raw_hot": 56712,
-      "num": 56712,
+      "raw_hot": 63106,
+      "num": 63106,
       "word": "85花湖南卫视播剧收视率排行",
       "onboard_time": 1675795813,
       "rank": 16,
       "category": "影视"
     },
     {
-      "raw_hot": 50636,
-      "num": 30439,
-      "word": "女子想丁克妈妈说开心就好",
-      "onboard_time": 1675806972,
-      "rank": 30,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 50473,
-      "num": 45457,
+      "raw_hot": 56768,
+      "num": 56768,
       "word": "美或在日本部署高超音速导弹",
       "onboard_time": 1675799712,
       "rank": 17,
       "category": "军事"
     },
     {
-      "raw_hot": 42418,
-      "num": 42418,
+      "raw_hot": 51475,
+      "num": 51475,
       "word": "刘敏涛女士的品格状态",
       "onboard_time": 1675791854,
       "rank": 37,
@@ -577,6 +577,14 @@
       "onboard_time": 1675793536,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32383,
+      "num": 32383,
+      "word": "10月宝宝在自家工厂实现童车自由",
+      "onboard_time": 1675808654,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28728,
