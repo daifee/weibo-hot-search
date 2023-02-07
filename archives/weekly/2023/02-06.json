@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675768535591,
+  "endTime": 1675769609646,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -49,6 +49,14 @@
       "onboard_time": 1675651467,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2163507,
+      "num": 2163507,
+      "word": "新郎回应结婚当天前女友组团拉横幅",
+      "onboard_time": 1675765893,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2120430,
@@ -104,14 +112,6 @@
       "word": "伊拉克女网红被父亲荣誉处决",
       "onboard_time": 1675670487,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1810256,
-      "num": 1810256,
-      "word": "新郎回应结婚当天前女友组团拉横幅",
-      "onboard_time": 1675765893,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1325846,
-      "num": 1013210,
+      "num": 1201997,
       "word": "肖战白百何捉妖记2后二搭",
       "onboard_time": 1675760309,
       "rank": 3,
@@ -473,6 +473,14 @@
       "onboard_time": 1675638378,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1038504,
+      "num": 1038504,
+      "word": "用刀教育孩子致死男子获刑12年",
+      "onboard_time": 1675767272,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1028169,
@@ -963,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 680850,
-      "num": 459345,
-      "word": "用刀教育孩子致死男子获刑12年",
-      "onboard_time": 1675767272,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 680501,
       "num": 680501,
       "word": "导游回应不达购物标准不给游客房卡",
@@ -1001,6 +1001,14 @@
       "onboard_time": 1675680512,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 658519,
+      "num": 658519,
+      "word": "半熟恋人",
+      "onboard_time": 1675767990,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 658498,
@@ -1284,7 +1292,7 @@
     },
     {
       "raw_hot": 550559,
-      "num": 461483,
+      "num": 510709,
       "word": "孙怡希望以新身份参加再见爱人",
       "onboard_time": 1675764930,
       "rank": 37,
@@ -1308,7 +1316,7 @@
     },
     {
       "raw_hot": 542155,
-      "num": 458045,
+      "num": 510549,
       "word": "聊斋新志 汤直传",
       "onboard_time": 1675766671,
       "rank": 12,
@@ -1611,20 +1619,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462943,
+      "num": 462943,
+      "word": "蔡徐坤泰国人气",
+      "onboard_time": 1675767510,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461055,
       "num": 461055,
       "word": "苹果或将继续上调iPhone售价",
       "onboard_time": 1675737507,
       "rank": 44,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 460024,
-      "num": 460024,
-      "word": "半熟恋人",
-      "onboard_time": 1675767990,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 458719,
@@ -1688,6 +1696,14 @@
       "word": "格莱美",
       "onboard_time": 1675606354,
       "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 439890,
+      "num": 439890,
+      "word": "宋亚轩刘耀文抽卡抽到自己",
+      "onboard_time": 1675768230,
+      "rank": 18,
       "category": "音乐"
     },
     {
@@ -1779,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422590,
+      "num": 422590,
+      "word": "前女友团拉搞废新郎横幅系玩笑",
+      "onboard_time": 1675766191,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420060,
       "num": 420060,
       "word": "谁家小狗这样贱嗖嗖的",
@@ -1793,14 +1817,6 @@
       "onboard_time": 1675674029,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 414352,
-      "num": 414352,
-      "word": "蔡徐坤泰国人气",
-      "onboard_time": 1675767510,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 412910,
@@ -1985,14 +2001,6 @@
       "onboard_time": 1675646066,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 392358,
-      "num": 392358,
-      "word": "宋亚轩刘耀文抽卡抽到自己",
-      "onboard_time": 1675768230,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 391080,
@@ -2217,14 +2225,6 @@
       "onboard_time": 1675747110,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 341713,
-      "num": 341713,
-      "word": "前女友团拉搞废新郎横幅系玩笑",
-      "onboard_time": 1675766191,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340638,
@@ -2633,6 +2633,14 @@
       "onboard_time": 1675655790,
       "rank": 31,
       "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 283394,
+      "num": 283394,
+      "word": "张译腿好细",
+      "onboard_time": 1675768410,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 283327,
@@ -3347,6 +3355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216852,
+      "num": 216852,
+      "word": "任天堂日本所有员工工资上涨10%",
+      "onboard_time": 1675769010,
+      "rank": 35,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 216713,
       "num": 216713,
       "word": "南京夫子庙人海里的定海神针",
@@ -3385,6 +3401,14 @@
       "onboard_time": 1675683570,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214101,
+      "num": 214101,
+      "word": "原来伊斯坦布尔是爱猫之城",
+      "onboard_time": 1675768113,
+      "rank": 45,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 213230,
@@ -3619,14 +3643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192738,
-      "num": 192738,
-      "word": "张译腿好细",
-      "onboard_time": 1675768410,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 192430,
       "num": 192430,
       "word": "苹果4年来季度营收首次下滑",
@@ -3697,14 +3713,6 @@
       "onboard_time": 1675689928,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186094,
-      "num": 186094,
-      "word": "原来伊斯坦布尔是爱猫之城",
-      "onboard_time": 1675768113,
-      "rank": 45,
-      "category": "情感,旅游"
     },
     {
       "raw_hot": 185762,
@@ -4387,6 +4395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122025,
+      "num": 446845,
+      "word": "原神 胡桃 夜兰复刻",
+      "onboard_time": 1675767629,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121338,
       "num": 121338,
       "word": "大张伟 万有引力",
@@ -4545,14 +4561,6 @@
       "onboard_time": 1675725619,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 87733,
-      "num": 446845,
-      "word": "原神 胡桃 夜兰复刻",
-      "onboard_time": 1675767629,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 82423,

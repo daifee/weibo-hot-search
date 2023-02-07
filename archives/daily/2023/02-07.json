@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675768535591,
+  "endTime": 1675769609646,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -27,6 +27,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2163507,
+      "num": 2163507,
+      "word": "新郎回应结婚当天前女友组团拉横幅",
+      "onboard_time": 1675765893,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2120430,
       "num": 2120430,
       "word": "肖战杀青抱着白百何转圈",
@@ -48,14 +56,6 @@
       "word": "10岁女孩文具店买到性暗示钥匙扣",
       "onboard_time": 1675738707,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1810256,
-      "num": 1810256,
-      "word": "新郎回应结婚当天前女友组团拉横幅",
-      "onboard_time": 1675765893,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1325846,
-      "num": 1013210,
+      "num": 1201997,
       "word": "肖战白百何捉妖记2后二搭",
       "onboard_time": 1675760309,
       "rank": 3,
@@ -169,6 +169,14 @@
       "onboard_time": 1675740870,
       "rank": 5,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1038504,
+      "num": 1038504,
+      "word": "用刀教育孩子致死男子获刑12年",
+      "onboard_time": 1675767272,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 997152,
@@ -387,20 +395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 680850,
-      "num": 459345,
-      "word": "用刀教育孩子致死男子获刑12年",
-      "onboard_time": 1675767272,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 680501,
       "num": 680501,
       "word": "导游回应不达购物标准不给游客房卡",
       "onboard_time": 1675729948,
       "rank": 6,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 658519,
+      "num": 658519,
+      "word": "半熟恋人",
+      "onboard_time": 1675767990,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 658498,
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 550559,
-      "num": 461483,
+      "num": 510709,
       "word": "孙怡希望以新身份参加再见爱人",
       "onboard_time": 1675764930,
       "rank": 37,
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 542155,
-      "num": 458045,
+      "num": 510549,
       "word": "聊斋新志 汤直传",
       "onboard_time": 1675766671,
       "rank": 12,
@@ -699,20 +707,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462943,
+      "num": 462943,
+      "word": "蔡徐坤泰国人气",
+      "onboard_time": 1675767510,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461055,
       "num": 461055,
       "word": "苹果或将继续上调iPhone售价",
       "onboard_time": 1675737507,
       "rank": 44,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 460024,
-      "num": 460024,
-      "word": "半熟恋人",
-      "onboard_time": 1675767990,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 451416,
@@ -779,6 +787,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 439890,
+      "num": 439890,
+      "word": "宋亚轩刘耀文抽卡抽到自己",
+      "onboard_time": 1675768230,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 432651,
       "num": 432651,
       "word": "256斤男生半年暴瘦100斤变肌肉猛男",
@@ -819,12 +835,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 414352,
-      "num": 414352,
-      "word": "蔡徐坤泰国人气",
-      "onboard_time": 1675767510,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 422590,
+      "num": 422590,
+      "word": "前女友团拉搞废新郎横幅系玩笑",
+      "onboard_time": 1675766191,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413554,
@@ -913,14 +929,6 @@
       "onboard_time": 1675695636,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 392358,
-      "num": 392358,
-      "word": "宋亚轩刘耀文抽卡抽到自己",
-      "onboard_time": 1675768230,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 386391,
@@ -1049,14 +1057,6 @@
       "onboard_time": 1675747110,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 341713,
-      "num": 341713,
-      "word": "前女友团拉搞废新郎横幅系玩笑",
-      "onboard_time": 1675766191,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339563,
@@ -1233,6 +1233,14 @@
       "onboard_time": 1675742674,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283394,
+      "num": 283394,
+      "word": "张译腿好细",
+      "onboard_time": 1675768410,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 283082,
@@ -1643,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216852,
+      "num": 216852,
+      "word": "任天堂日本所有员工工资上涨10%",
+      "onboard_time": 1675769010,
+      "rank": 35,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 216538,
       "num": 216538,
       "word": "1999年以来土耳其最严重强震",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1675687409,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214101,
+      "num": 214101,
+      "word": "原来伊斯坦布尔是爱猫之城",
+      "onboard_time": 1675768113,
+      "rank": 45,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 213230,
@@ -1779,14 +1803,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 192738,
-      "num": 192738,
-      "word": "张译腿好细",
-      "onboard_time": 1675768410,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190988,
       "num": 190988,
       "word": "人保寿险学习董事长金句考试疑被叫停",
@@ -1833,14 +1849,6 @@
       "onboard_time": 1675761510,
       "rank": 40,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 186094,
-      "num": 186094,
-      "word": "原来伊斯坦布尔是爱猫之城",
-      "onboard_time": 1675768113,
-      "rank": 45,
-      "category": "情感,旅游"
     },
     {
       "raw_hot": 185762,
@@ -2115,6 +2123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122025,
+      "num": 446845,
+      "word": "原神 胡桃 夜兰复刻",
+      "onboard_time": 1675767629,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 119791,
       "num": 119791,
       "word": "高叶周冬雨早期合照",
@@ -2193,14 +2209,6 @@
       "onboard_time": 1675725619,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 87733,
-      "num": 446845,
-      "word": "原神 胡桃 夜兰复刻",
-      "onboard_time": 1675767629,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 82423,
