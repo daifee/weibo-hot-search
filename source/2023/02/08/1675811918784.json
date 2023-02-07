@@ -1,0 +1,410 @@
+{
+  "runTime": 1675811918784,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1135952,
+        "num": 1135952,
+        "word": "女子用狂飙导演照片卖身葬父",
+        "onboard_time": 1675785268,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550152,
+        "num": 550152,
+        "word": "叙利亚地震后美国仍拒绝解除制裁",
+        "onboard_time": 1675794794,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 6842,
+        "num": 472389,
+        "word": "流动的中国绽放着蓬勃活力",
+        "onboard_time": 1675756171,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 442152,
+        "num": 442152,
+        "word": "女子想丁克妈妈说开心就好",
+        "onboard_time": 1675806972,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 308644,
+        "num": 308644,
+        "word": "没阳过的孩子能上学吗",
+        "onboard_time": 1675788023,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 259527,
+        "num": 259527,
+        "word": "女子取药时发现医生用手机追剧",
+        "onboard_time": 1675773030,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250361,
+        "num": 250361,
+        "word": "月入一万是什么水平",
+        "onboard_time": 1675781674,
+        "rank": 6,
+        "category": "财经,情感"
+      },
+      {
+        "raw_hot": 235802,
+        "num": 235802,
+        "word": "张译新闻联播镜头",
+        "onboard_time": 1675779033,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233285,
+        "num": 233285,
+        "word": "吴昕换头像被杜海涛问怀孕了吗",
+        "onboard_time": 1675774292,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220737,
+        "num": 220737,
+        "word": "抖音将于3月1日上线全国外卖服务",
+        "onboard_time": 1675762349,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 307174,
+        "num": 219684,
+        "word": "25岁女生记录矫正牙齿全过程",
+        "onboard_time": 1675804990,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265303,
+        "num": 219318,
+        "word": "10月宝宝在自家工厂实现童车自由",
+        "onboard_time": 1675808654,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217833,
+        "num": 217833,
+        "word": "男子被骂吃不起饭隔天带4菜店外吃播",
+        "onboard_time": 1675802952,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202491,
+        "num": 202491,
+        "word": "陈晓陈妍希微信头像都是关于对方",
+        "onboard_time": 1675777593,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168234,
+        "num": 168234,
+        "word": "恩施人非必要不得前往柬埔寨",
+        "onboard_time": 1675774409,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166003,
+        "num": 166003,
+        "word": "白百何给员工放假30天",
+        "onboard_time": 1675782154,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157986,
+        "num": 157986,
+        "word": "林高远",
+        "onboard_time": 1675783891,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151968,
+        "num": 151968,
+        "word": "85花湖南卫视播剧收视率排行",
+        "onboard_time": 1675795813,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148306,
+        "num": 148306,
+        "word": "48岁老师去世天南海北学生赶回悼念",
+        "onboard_time": 1675776812,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 138067,
+        "num": 138067,
+        "word": "张常宁悼念父亲",
+        "onboard_time": 1675781193,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127261,
+        "num": 127261,
+        "word": "中年裸辞意味着什么",
+        "onboard_time": 1675771169,
+        "rank": 20,
+        "category": "影视,社会议题"
+      },
+      {
+        "raw_hot": 124164,
+        "num": 124164,
+        "word": "抖音入局外卖意味着什么",
+        "onboard_time": 1675766310,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 121395,
+        "num": 121395,
+        "word": "不愿面对脏小狗的狗妈",
+        "onboard_time": 1675809795,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 115531,
+        "num": 115531,
+        "word": "美或在日本部署高超音速导弹",
+        "onboard_time": 1675799712,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 111402,
+        "num": 111402,
+        "word": "原来拖延症和懒没关系",
+        "onboard_time": 1675789998,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 111195,
+        "num": 111195,
+        "word": "刘敏涛女士的品格状态",
+        "onboard_time": 1675791854,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103883,
+        "num": 103883,
+        "word": "肖战晒照告别盛阳",
+        "onboard_time": 1675792874,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98168,
+        "num": 98168,
+        "word": "466元6块糖涉事店铺修改价签",
+        "onboard_time": 1675778193,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92992,
+        "num": 92992,
+        "word": "杜华帮儿子要虞书欣签名照",
+        "onboard_time": 1675776392,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88961,
+        "num": 88961,
+        "word": "湖南男子和孕妻回土耳其探亲遇地震",
+        "onboard_time": 1675774169,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87085,
+        "num": 87085,
+        "word": "学生在他照片下留言IP遍布全国",
+        "onboard_time": 1675780114,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 84505,
+        "num": 84505,
+        "word": "金玲",
+        "onboard_time": 1675782574,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 81945,
+        "num": 81945,
+        "word": "安欣没救到的只有李响",
+        "onboard_time": 1675785149,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78967,
+        "num": 78967,
+        "word": "成都平均月薪10039元",
+        "onboard_time": 1675772069,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 77800,
+        "num": 77800,
+        "word": "这猫好像打了补丁",
+        "onboard_time": 1675787184,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77683,
+        "num": 77683,
+        "word": "再见爱人不能没有胡彦斌",
+        "onboard_time": 1675792036,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72609,
+        "num": 72609,
+        "word": "强震已致土耳其叙利亚超5000人遇难",
+        "onboard_time": 1675773271,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69211,
+        "num": 69211,
+        "word": "吴京张译分吸油纸",
+        "onboard_time": 1675793536,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66890,
+        "num": 66890,
+        "word": "网友在泰国偶遇鞠婧祎",
+        "onboard_time": 1675782154,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64996,
+        "num": 64996,
+        "word": "父亲年三十去世男子离家时强忍泪水",
+        "onboard_time": 1675776572,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62816,
+        "num": 62816,
+        "word": "高叶说评论区不是无人区",
+        "onboard_time": 1675781014,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61899,
+        "num": 61899,
+        "word": "万茜长发",
+        "onboard_time": 1675780654,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60658,
+        "num": 60658,
+        "word": "狂飙里有哪些细思极恐的细节",
+        "onboard_time": 1675785087,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 58240,
+        "num": 58240,
+        "word": "宁安如梦集数变更",
+        "onboard_time": 1675811417,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54401,
+        "num": 54401,
+        "word": "马嘉祺宋亚轩严浩翔近期单人外务",
+        "onboard_time": 1675789578,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51893,
+        "num": 51893,
+        "word": "赵露思哭戏路透",
+        "onboard_time": 1675789220,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45201,
+        "num": 45201,
+        "word": "如何评价黑豹2",
+        "onboard_time": 1675794734,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44626,
+        "num": 44626,
+        "word": "王者荣耀情人节CG",
+        "onboard_time": 1675779335,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40036,
+        "num": 40036,
+        "word": "抖音已注册多枚心动外卖商标",
+        "onboard_time": 1675772126,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 36677,
+        "num": 40031,
+        "word": "李秀满将起诉SMTOWN理事会",
+        "onboard_time": 1675772609,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#正确理解和大力推进中国式现代化#"
+    }
+  }
+}

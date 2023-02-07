@@ -1,7 +1,15 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675809268163,
+  "endTime": 1675811918784,
   "band_list": [
+    {
+      "raw_hot": 1135952,
+      "num": 1135952,
+      "word": "女子用狂飙导演照片卖身葬父",
+      "onboard_time": 1675785268,
+      "rank": 11,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1125618,
       "num": 1125618,
@@ -25,6 +33,14 @@
       "onboard_time": 1675785149,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 550152,
+      "num": 550152,
+      "word": "叙利亚地震后美国仍拒绝解除制裁",
+      "onboard_time": 1675794794,
+      "rank": 48,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 503769,
@@ -59,12 +75,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 470239,
-      "num": 470239,
-      "word": "女子用狂飙导演照片卖身葬父",
-      "onboard_time": 1675785268,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 442152,
+      "num": 442152,
+      "word": "女子想丁克妈妈说开心就好",
+      "onboard_time": 1675806972,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 440779,
@@ -105,6 +121,22 @@
       "onboard_time": 1675776392,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308644,
+      "num": 308644,
+      "word": "没阳过的孩子能上学吗",
+      "onboard_time": 1675788023,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 307174,
+      "num": 219684,
+      "word": "25岁女生记录矫正牙齿全过程",
+      "onboard_time": 1675804990,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295588,
@@ -171,6 +203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 265303,
+      "num": 219318,
+      "word": "10月宝宝在自家工厂实现童车自由",
+      "onboard_time": 1675808654,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255602,
       "num": 255602,
       "word": "林高远",
@@ -200,6 +240,14 @@
       "word": "湖南男子和孕妻回土耳其探亲遇地震",
       "onboard_time": 1675774169,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217833,
+      "num": 217833,
+      "word": "男子被骂吃不起饭隔天带4菜店外吃播",
+      "onboard_time": 1675802952,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -233,14 +281,6 @@
       "onboard_time": 1675785087,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197628,
-      "num": 197628,
-      "word": "没阳过的孩子能上学吗",
-      "onboard_time": 1675788023,
-      "rank": 48,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 194029,
@@ -299,20 +339,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 152019,
-      "num": 75166,
-      "word": "叙利亚地震后美国仍拒绝解除制裁",
-      "onboard_time": 1675794794,
-      "rank": 48,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 148059,
-      "num": 79310,
-      "word": "男子被骂吃不起饭隔天带4菜店外吃播",
-      "onboard_time": 1675802952,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 151968,
+      "num": 151968,
+      "word": "85花湖南卫视播剧收视率排行",
+      "onboard_time": 1675795813,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 143143,
@@ -339,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140836,
-      "num": 75288,
-      "word": "25岁女生记录矫正牙齿全过程",
-      "onboard_time": 1675804990,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136840,
       "num": 136840,
       "word": "王者荣耀情人节CG",
@@ -371,12 +395,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121395,
+      "num": 121395,
+      "word": "不愿面对脏小狗的狗妈",
+      "onboard_time": 1675809795,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 118866,
       "num": 109143,
       "word": "肖战盛阳湿发造型",
       "onboard_time": 1675792874,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115531,
+      "num": 115531,
+      "word": "美或在日本部署高超音速导弹",
+      "onboard_time": 1675799712,
+      "rank": 17,
+      "category": "军事"
     },
     {
       "raw_hot": 114537,
@@ -387,12 +427,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 109679,
-      "num": 69662,
-      "word": "女子想丁克妈妈说开心就好",
-      "onboard_time": 1675806972,
-      "rank": 30,
-      "category": "社会新闻,情感"
+      "raw_hot": 111402,
+      "num": 111402,
+      "word": "原来拖延症和懒没关系",
+      "onboard_time": 1675789998,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 111195,
+      "num": 111195,
+      "word": "刘敏涛女士的品格状态",
+      "onboard_time": 1675791854,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 108587,
@@ -401,14 +449,6 @@
       "onboard_time": 1675774529,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107280,
-      "num": 107280,
-      "word": "原来拖延症和懒没关系",
-      "onboard_time": 1675789998,
-      "rank": 32,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 104450,
@@ -499,6 +539,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 77683,
+      "num": 77683,
+      "word": "再见爱人不能没有胡彦斌",
+      "onboard_time": 1675792036,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72926,
       "num": 72926,
       "word": "被万茜这一巴掌爽到",
@@ -507,36 +555,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 63106,
-      "num": 63106,
-      "word": "85花湖南卫视播剧收视率排行",
-      "onboard_time": 1675795813,
-      "rank": 16,
+      "raw_hot": 69211,
+      "num": 69211,
+      "word": "吴京张译分吸油纸",
+      "onboard_time": 1675793536,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58240,
+      "num": 58240,
+      "word": "宁安如梦集数变更",
+      "onboard_time": 1675811417,
+      "rank": 43,
       "category": "影视"
     },
     {
-      "raw_hot": 56768,
-      "num": 56768,
-      "word": "美或在日本部署高超音速导弹",
-      "onboard_time": 1675799712,
-      "rank": 17,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 51475,
-      "num": 51475,
-      "word": "刘敏涛女士的品格状态",
-      "onboard_time": 1675791854,
-      "rank": 37,
+      "raw_hot": 45201,
+      "num": 45201,
+      "word": "如何评价黑豹2",
+      "onboard_time": 1675794734,
+      "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 42230,
-      "num": 42230,
-      "word": "再见爱人不能没有胡彦斌",
-      "onboard_time": 1675792036,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 40494,
@@ -555,36 +595,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 35916,
-      "num": 35916,
-      "word": "如何评价黑豹2",
-      "onboard_time": 1675794734,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 35517,
       "num": 35517,
       "word": "横看成岭侧成峰的发型",
       "onboard_time": 1675794194,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 33964,
-      "num": 33964,
-      "word": "吴京张译分吸油纸",
-      "onboard_time": 1675793536,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 32383,
-      "num": 32383,
-      "word": "10月宝宝在自家工厂实现童车自由",
-      "onboard_time": 1675808654,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28728,
@@ -595,7 +611,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 3837,
+      "raw_hot": 6842,
       "num": 803702,
       "word": "流动的中国绽放着蓬勃活力",
       "onboard_time": 1675756171,
