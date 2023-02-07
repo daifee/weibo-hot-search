@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675748017404,
+  "endTime": 1675750993681,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -403,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2103808,
+      "num": 2103808,
+      "word": "疯驴子才25岁",
+      "onboard_time": 1675745016,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2102309,
       "num": 2102309,
       "word": "胡鑫宇尸体发现地系原始第一现场",
@@ -521,14 +529,6 @@
       "onboard_time": 1675229553,
       "rank": 47,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 1913833,
-      "num": 1913833,
-      "word": "疯驴子才25岁",
-      "onboard_time": 1675745016,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1907992,
@@ -1120,6 +1120,14 @@
       "word": "央视元宵晚会 开盲盒",
       "onboard_time": 1675599990,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1382790,
+      "num": 1382790,
+      "word": "宋宁峰向张婉婷求婚",
+      "onboard_time": 1675749932,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -3315,6 +3323,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 710754,
+      "num": 710754,
+      "word": "孙怡再见爱人激动了一整期",
+      "onboard_time": 1675749510,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 710732,
       "num": 559772,
       "word": "黄旭熙更新练习室舞蹈视频",
@@ -3801,6 +3817,14 @@
       "onboard_time": 1675659391,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 652663,
+      "num": 503969,
+      "word": "TFBOYS十周年演唱会确认规划中",
+      "onboard_time": 1675748132,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 652433,
@@ -4553,6 +4577,14 @@
       "onboard_time": 1675485326,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 562303,
+      "num": 562303,
+      "word": "ChatGPT让苹果急了",
+      "onboard_time": 1675747771,
+      "rank": 39,
+      "category": "科技,游戏"
     },
     {
       "raw_hot": 561664,
@@ -5571,6 +5603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474010,
+      "num": 474010,
+      "word": "戚薇新剧海报多了一张嘴",
+      "onboard_time": 1675748073,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 473506,
       "num": 473506,
       "word": "库克称果粉愿意高价买iPhone",
@@ -5585,6 +5625,14 @@
       "onboard_time": 1675346557,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 473433,
+      "num": 473433,
+      "word": "金门发表永久非军事区宣言",
+      "onboard_time": 1675746276,
+      "rank": 33,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 472496,
@@ -5713,6 +5761,14 @@
       "onboard_time": 1675242150,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 460724,
+      "num": 255129,
+      "word": "知情人称唐小强系回土耳其探亲",
+      "onboard_time": 1675749089,
+      "rank": 30,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 459669,
@@ -5851,14 +5907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 447328,
-      "num": 447328,
-      "word": "金门发表永久非军事区宣言",
-      "onboard_time": 1675746276,
-      "rank": 33,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 446930,
       "num": 446930,
       "word": "兔年想活成曾黎",
@@ -5875,6 +5923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 446790,
+      "num": 446790,
+      "word": "中国政府决定向土叙提供紧急援助",
+      "onboard_time": 1675746099,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446587,
       "num": 446587,
       "word": "黄子弘凡 欧皇壁纸",
@@ -5889,6 +5945,14 @@
       "onboard_time": 1675743212,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 444688,
+      "num": 444688,
+      "word": "疯驴子身高",
+      "onboard_time": 1675749510,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 444545,
@@ -5929,6 +5993,14 @@
       "onboard_time": 1675254389,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 440892,
+      "num": 440892,
+      "word": "内娱叔圈天菜",
+      "onboard_time": 1675749872,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 440228,
@@ -6304,14 +6376,6 @@
       "word": "员工只能请十天事假合理吗",
       "onboard_time": 1675310316,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 413179,
-      "num": 413179,
-      "word": "中国政府决定向土叙提供紧急援助",
-      "onboard_time": 1675746099,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -6747,6 +6811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 393256,
+      "num": 393256,
+      "word": "张大大说杨幂和杨颖太瘦了不好看",
+      "onboard_time": 1675749449,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391513,
       "num": 391513,
       "word": "去有风的地方",
@@ -7171,6 +7243,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 369500,
+      "num": 369500,
+      "word": "女生返校前校服竟变紧身小马甲",
+      "onboard_time": 1675749392,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 369432,
       "num": 369432,
       "word": "王心凌杨丞琳聚会合照",
@@ -7217,6 +7297,14 @@
       "onboard_time": 1675599511,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 366845,
+      "num": 366845,
+      "word": "柯基因满身灰而被主人装不认识",
+      "onboard_time": 1675749632,
+      "rank": 23,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 366536,
@@ -7376,6 +7464,14 @@
       "word": "黄明昊不会唱大梦想家",
       "onboard_time": 1675486650,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 354719,
+      "num": 354719,
+      "word": "网传马嘉祺杨宗纬声生不息唱恋曲1990",
+      "onboard_time": 1675749510,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -7651,6 +7747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342314,
+      "num": 342314,
+      "word": "狗狗知道东西没买不能上嘴",
+      "onboard_time": 1675747110,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 340638,
       "num": 340638,
       "word": "言承旭问什么是下海",
@@ -7713,6 +7817,14 @@
       "onboard_time": 1675593686,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 339563,
+      "num": 339563,
+      "word": "Nuguri谈退役原因",
+      "onboard_time": 1675748610,
+      "rank": 26,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 339280,
@@ -8281,6 +8393,14 @@
       "onboard_time": 1675506687,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309489,
+      "num": 309489,
+      "word": "爸爸去幼儿园开家长会遇到做迎宾的儿子",
+      "onboard_time": 1675749270,
+      "rank": 27,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 308659,
@@ -9555,6 +9675,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 264452,
+      "num": 264452,
+      "word": "再见爱人",
+      "onboard_time": 1675748132,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264265,
       "num": 264265,
       "word": "张译内娱劳模",
@@ -10283,6 +10411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240130,
+      "num": 240130,
+      "word": "再见爱人2大结局",
+      "onboard_time": 1675750052,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240109,
       "num": 240109,
       "word": "电影荒原定档3月3日",
@@ -10539,6 +10675,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 231286,
+      "num": 231286,
+      "word": "BoysPlanet好像在剪恋综",
+      "onboard_time": 1675747952,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231150,
       "num": 231150,
       "word": "流浪地球2为何如此受欢迎",
@@ -10664,6 +10808,14 @@
       "word": "刘耀文油彩妆",
       "onboard_time": 1675743271,
       "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228119,
+      "num": 228119,
+      "word": "王鹤棣流光熠熠拍摄花絮",
+      "onboard_time": 1675749510,
+      "rank": 36,
       "category": "作品衍生"
     },
     {
@@ -11083,14 +11235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 212420,
-      "num": 212420,
-      "word": "狗狗知道东西没买不能上嘴",
-      "onboard_time": 1675747110,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 212056,
       "num": 212056,
       "word": "当流浪小狗变成了我的小狗",
@@ -11153,6 +11297,14 @@
       "onboard_time": 1675469785,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209851,
+      "num": 209851,
+      "word": "汤普森42分",
+      "onboard_time": 1675748672,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 209579,
@@ -11369,14 +11521,6 @@
       "onboard_time": 1675335993,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 202946,
-      "num": 202946,
-      "word": "ChatGPT让苹果急了",
-      "onboard_time": 1675747771,
-      "rank": 39,
-      "category": "科技,游戏"
     },
     {
       "raw_hot": 202805,
@@ -11603,6 +11747,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197953,
+      "num": 197953,
+      "word": "丁程鑫烟熏妆",
+      "onboard_time": 1675750894,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 197821,
+      "num": 197821,
+      "word": "狂飙警察四人组里有一人真是警察",
+      "onboard_time": 1675749031,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197639,
       "num": 197639,
       "word": "苹果或2025年推出可折叠笔记本",
@@ -11697,6 +11857,14 @@
       "onboard_time": 1675423589,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195307,
+      "num": 195307,
+      "word": "Nuguri说TheShy是最强上单",
+      "onboard_time": 1675750530,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 195275,
@@ -13625,14 +13793,6 @@
       "onboard_time": 1675424128,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 154383,
-      "num": 154383,
-      "word": "BoysPlanet好像在剪恋综",
-      "onboard_time": 1675747952,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 154269,
