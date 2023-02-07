@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675801185762,
+  "endTime": 1675802018019,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -5147,6 +5147,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 47101,
+      "num": 41219,
+      "word": "美或在日本部署高超音速导弹",
+      "onboard_time": 1675799712,
+      "rank": 17,
+      "category": "军事"
+    },
+    {
       "raw_hot": 42418,
       "num": 42418,
       "word": "刘敏涛女士的品格状态",
@@ -5201,14 +5209,6 @@
       "onboard_time": 1675794194,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 34201,
-      "num": 34201,
-      "word": "美或在日本部署高超音速导弹",
-      "onboard_time": 1675799712,
-      "rank": 17,
-      "category": "军事"
     },
     {
       "raw_hot": 33964,
