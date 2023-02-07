@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675726431727,
+  "endTime": 1675733778846,
   "band_list": [
     {
       "raw_hot": 2366961,
@@ -25,6 +25,14 @@
       "onboard_time": 1675651467,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2120430,
+      "num": 2120430,
+      "word": "肖战杀青抱着白百何转圈",
+      "onboard_time": 1675726463,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2057929,
@@ -104,6 +112,14 @@
       "word": "九价HPV疫苗现捆绑销售",
       "onboard_time": 1675658314,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1571226,
+      "num": 1571226,
+      "word": "妈妈给女儿寄100个水饺都独立包装",
+      "onboard_time": 1675729648,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -265,6 +281,14 @@
       "onboard_time": 1675665088,
       "rank": 16,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 1212117,
+      "num": 1212117,
+      "word": "强震已致土耳其叙利亚超3000人遇难",
+      "onboard_time": 1675726463,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1202297,
@@ -499,6 +523,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 818170,
+      "num": 818170,
+      "word": "果然大学生撕伞是把好手",
+      "onboard_time": 1675727064,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 815967,
       "num": 815967,
       "word": "马龙进入国家队二十周年",
@@ -611,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 680501,
+      "num": 680501,
+      "word": "导游回应不达购物标准不给游客房卡",
+      "onboard_time": 1675729948,
+      "rank": 6,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 669662,
       "num": 581642,
       "word": "网友泰国偶遇蔡徐坤逛街",
@@ -635,12 +675,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 656069,
+      "num": 555244,
+      "word": "杭州两套拆迁房让一对亲姐妹闹翻",
+      "onboard_time": 1675711152,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 652949,
       "num": 652949,
       "word": "陈书婷ootd",
       "onboard_time": 1675659391,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 652433,
+      "num": 580942,
+      "word": "男子称买蒙牛酸奶打开都是清水",
+      "onboard_time": 1675728026,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 649918,
@@ -715,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 593601,
+      "num": 593601,
+      "word": "中国公羊救援队8人前往土耳其震中救援",
+      "onboard_time": 1675730730,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591359,
       "num": 591359,
       "word": "成都一幼儿园园长撞脸毛不易",
@@ -761,6 +825,14 @@
       "onboard_time": 1675676123,
       "rank": 7,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 561641,
+      "num": 561641,
+      "word": "肖战双手比心",
+      "onboard_time": 1675732828,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 560137,
@@ -867,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 525964,
+      "num": 525964,
+      "word": "男孩吃火锅时发现作业没写愁到大哭",
+      "onboard_time": 1675731388,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525715,
       "num": 525715,
       "word": "这烟花都对不起自己的块头",
@@ -923,14 +1003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 511443,
-      "num": 249608,
-      "word": "杭州两套拆迁房让一对亲姐妹闹翻",
-      "onboard_time": 1675711152,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 511184,
       "num": 247750,
       "word": "2岁娃山区玩后反复发烧查出黑热病",
@@ -945,6 +1017,14 @@
       "onboard_time": 1675650029,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 502484,
+      "num": 502484,
+      "word": "王力宏新歌",
+      "onboard_time": 1675727484,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 501437,
@@ -969,6 +1049,14 @@
       "onboard_time": 1675687409,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 485974,
+      "num": 485974,
+      "word": "多条国际航班票价降至千元以内",
+      "onboard_time": 1675732288,
+      "rank": 13,
+      "category": "旅游"
     },
     {
       "raw_hot": 484294,
@@ -1153,6 +1241,14 @@
       "onboard_time": 1675652608,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 404654,
+      "num": 404654,
+      "word": "你现在王者什么段位",
+      "onboard_time": 1675726883,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 402419,
@@ -1371,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339658,
+      "num": 339658,
+      "word": "狂飙剧组全员百灵鸟",
+      "onboard_time": 1675731268,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 334712,
       "num": 334712,
       "word": "张晨张常宁父亲因病去世",
@@ -1425,6 +1529,14 @@
       "onboard_time": 1675675768,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319092,
+      "num": 319092,
+      "word": "高叶说幸亏张颂文选择了演戏",
+      "onboard_time": 1675726463,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 316167,
@@ -1483,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306787,
+      "num": 306787,
+      "word": "张凌赫用身高压制白鹿",
+      "onboard_time": 1675725859,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304077,
       "num": 304077,
       "word": "什么样的另一半你会选择结婚",
@@ -1505,6 +1625,14 @@
       "onboard_time": 1675702761,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297272,
+      "num": 297272,
+      "word": "ChatGPT",
+      "onboard_time": 1675726041,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 297093,
@@ -1643,6 +1771,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 278134,
+      "num": 278134,
+      "word": "个人有必要做新冠抗体检测吗",
+      "onboard_time": 1675727904,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277464,
+      "num": 277464,
+      "word": "谷歌将推出ChatGPT竞争对手Bard",
+      "onboard_time": 1675732407,
+      "rank": 24,
+      "category": "科技"
+    },
+    {
       "raw_hot": 277336,
       "num": 277336,
       "word": "千万不要坐着遛狗",
@@ -1673,6 +1817,14 @@
       "onboard_time": 1675648708,
       "rank": 30,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 268981,
+      "num": 268981,
+      "word": "土耳其全国哀悼7天",
+      "onboard_time": 1675726463,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268478,
@@ -1883,6 +2035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 238051,
+      "num": 238051,
+      "word": "三秒摔了六跤",
+      "onboard_time": 1675729108,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237321,
       "num": 237321,
       "word": "Adele获格莱美最佳流行歌手",
@@ -1995,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223229,
+      "num": 223229,
+      "word": "留洋土耳其球员称遭遇极端天气",
+      "onboard_time": 1675731568,
+      "rank": 30,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 222477,
       "num": 222477,
       "word": "强震致土叙两国死亡人数已升至百余人",
@@ -2017,6 +2185,14 @@
       "onboard_time": 1675632432,
       "rank": 48,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 216538,
+      "num": 216538,
+      "word": "1999年以来土耳其最严重强震",
+      "onboard_time": 1675728928,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214944,
@@ -2067,6 +2243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206721,
+      "num": 206721,
+      "word": "开学第一课是睁眼说瞎话",
+      "onboard_time": 1675725800,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206013,
       "num": 206013,
       "word": "张婧仪周一白色吊带裙随拍",
@@ -2089,6 +2273,14 @@
       "onboard_time": 1675693771,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203824,
+      "num": 203824,
+      "word": "浙江专升本门槛降了",
+      "onboard_time": 1675729767,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 201134,
@@ -2201,14 +2393,6 @@
       "onboard_time": 1675700364,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 183761,
-      "num": 183761,
-      "word": "ChatGPT",
-      "onboard_time": 1675726041,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 182487,
@@ -2427,6 +2611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 161231,
+      "num": 161231,
+      "word": "胡锡进谈ChatGPT",
+      "onboard_time": 1675732045,
+      "rank": 42,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 160561,
       "num": 160561,
       "word": "短道速滑接力",
@@ -2459,6 +2651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157121,
+      "num": 157121,
+      "word": "很离谱但如果是张译也合理",
+      "onboard_time": 1675728328,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156625,
       "num": 156625,
       "word": "曼城",
@@ -2473,6 +2673,14 @@
       "onboard_time": 1675608333,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 155999,
+      "num": 155999,
+      "word": "考研查分空窗期怎么度过",
+      "onboard_time": 1675733607,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 155626,
@@ -2579,6 +2787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141706,
+      "num": 141706,
+      "word": "漫威电影回归内地大银幕",
+      "onboard_time": 1675733725,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139666,
       "num": 139666,
       "word": "欧文期待与东契奇联手",
@@ -2601,6 +2817,14 @@
       "onboard_time": 1675616602,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136872,
+      "num": 136872,
+      "word": "中国红十字会向土叙提供紧急人道主义援助",
+      "onboard_time": 1675732589,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135787,
@@ -2723,14 +2947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120741,
-      "num": 120741,
-      "word": "开学第一课是睁眼说瞎话",
-      "onboard_time": 1675725800,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120600,
       "num": 120600,
       "word": "电影无名被写成论文",
@@ -2792,14 +3008,6 @@
       "word": "陈兰青产后抑郁爬上天台",
       "onboard_time": 1675607012,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 109735,
-      "num": 109735,
-      "word": "张凌赫用身高压制白鹿",
-      "onboard_time": 1675725859,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -2868,7 +3076,7 @@
     },
     {
       "raw_hot": 93074,
-      "num": 1037024,
+      "num": 1262906,
       "word": "太空视角看灯火里的中国",
       "onboard_time": 1675669888,
       "rank": 2,
