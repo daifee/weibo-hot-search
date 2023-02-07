@@ -1,0 +1,410 @@
+{
+  "runTime": 1675747023897,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2598960,
+        "num": 2598960,
+        "word": "唐小强",
+        "onboard_time": 1675736125,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2378633,
+        "num": 2378633,
+        "word": "TFBOYS十周年演唱会附近酒店已被订完",
+        "onboard_time": 1675743094,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38827,
+        "num": 1790660,
+        "word": "新征程上满怀信心开新局展新貌",
+        "onboard_time": 1675740030,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1698464,
+        "num": 1698464,
+        "word": "疯驴子才25岁",
+        "onboard_time": 1675745016,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1450654,
+        "num": 1450654,
+        "word": "美国89%的大学生都是用ChatGPT做作业",
+        "onboard_time": 1675743454,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1382504,
+        "num": 1382504,
+        "word": "10岁女孩文具店买到性暗示钥匙扣",
+        "onboard_time": 1675738707,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1302489,
+        "num": 1302489,
+        "word": "刘亦菲洛杉矶街头被网友偶遇",
+        "onboard_time": 1675744235,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 768507,
+        "num": 768507,
+        "word": "考过研的真看不得这个",
+        "onboard_time": 1675738529,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 767776,
+        "num": 767776,
+        "word": "多家学术期刊禁止将ChatGPT列为合著者",
+        "onboard_time": 1675741828,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 724508,
+        "num": 724508,
+        "word": "强震已致土耳其叙利亚超4000人遇难",
+        "onboard_time": 1675742431,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1448185,
+        "num": 706505,
+        "word": "女生第一次去男友家被安排吃剩菜洗碗",
+        "onboard_time": 1675743755,
+        "rank": 10,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 653380,
+        "num": 653380,
+        "word": "安贤洙回应落选韩国城南短道教练",
+        "onboard_time": 1675745376,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590409,
+        "num": 590409,
+        "word": "24岁牙科实习医生自拔智齿练手",
+        "onboard_time": 1675742252,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579088,
+        "num": 579088,
+        "word": "高启强的真心都给了陈书婷",
+        "onboard_time": 1675744655,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 556283,
+        "num": 556283,
+        "word": "妈妈给女儿寄100个水饺都独立包装",
+        "onboard_time": 1675729648,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481441,
+        "num": 481441,
+        "word": "肖战说骄阳炙热盛阳杀青快乐",
+        "onboard_time": 1675745976,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467801,
+        "num": 467801,
+        "word": "杨迪为唐小强祈祷",
+        "onboard_time": 1675740870,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 455798,
+        "num": 455798,
+        "word": "张颂文 火柴天堂",
+        "onboard_time": 1675734866,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428826,
+        "num": 428826,
+        "word": "一央企要求全员背诵董事长金句",
+        "onboard_time": 1675738047,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391733,
+        "num": 391733,
+        "word": "华晨宇庆生服连续穿了十年",
+        "onboard_time": 1675742731,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 377804,
+        "num": 377804,
+        "word": "男子骑车拖行小猫致死",
+        "onboard_time": 1675741290,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376861,
+        "num": 376861,
+        "word": "杨幂未来感大片预告",
+        "onboard_time": 1675746217,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 367216,
+        "num": 367216,
+        "word": "非正式会谈唐小强被埋废墟下",
+        "onboard_time": 1675738406,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 354719,
+        "num": 354719,
+        "word": "肖战骄阳伴我刷牙镜头",
+        "onboard_time": 1675746336,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310281,
+        "num": 310281,
+        "word": "移动厕所安透明窗如厕成直播现场",
+        "onboard_time": 1675739727,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294497,
+        "num": 294497,
+        "word": "从姓氏中拆解出的惊艳名字",
+        "onboard_time": 1675743212,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291429,
+        "num": 291429,
+        "word": "网传声生不息宝岛季首期录制歌单",
+        "onboard_time": 1675744416,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274252,
+        "num": 274252,
+        "word": "朱一龙文咏珊对手戏",
+        "onboard_time": 1675744897,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272753,
+        "num": 272753,
+        "word": "男子遭老板亲戚顶岗被无故开除",
+        "onboard_time": 1675740987,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270791,
+        "num": 270791,
+        "word": "撞脸毛不易的幼儿园园长是硕士毕业",
+        "onboard_time": 1675735705,
+        "rank": 29,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 268454,
+        "num": 268454,
+        "word": "苹果或将继续上调iPhone售价",
+        "onboard_time": 1675737507,
+        "rank": 30,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 264177,
+        "num": 264177,
+        "word": "原神3.4",
+        "onboard_time": 1675740390,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254517,
+        "num": 254517,
+        "word": "光遇复刻",
+        "onboard_time": 1675743036,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253941,
+        "num": 253941,
+        "word": "金门发表永久非军事区宣言",
+        "onboard_time": 1675746276,
+        "rank": 33,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 250545,
+        "num": 250545,
+        "word": "骄阳伴我打板空镜海报",
+        "onboard_time": 1675745917,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247242,
+        "num": 247242,
+        "word": "猫猫被拴住仍想用滑步出门",
+        "onboard_time": 1675741652,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246966,
+        "num": 246966,
+        "word": "中国政府决定向土叙提供紧急援助",
+        "onboard_time": 1675746099,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245813,
+        "num": 245813,
+        "word": "年上有顾魏年下有盛阳",
+        "onboard_time": 1675746754,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242372,
+        "num": 242372,
+        "word": "土耳其为何一天两次7.8级地震",
+        "onboard_time": 1675740689,
+        "rank": 38,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 231510,
+        "num": 231510,
+        "word": "这猫咪为了玩一直负重前行",
+        "onboard_time": 1675745856,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231023,
+        "num": 231023,
+        "word": "白百何新剧状态",
+        "onboard_time": 1675746454,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223026,
+        "num": 223026,
+        "word": "张译穿衣显瘦脱衣有肉",
+        "onboard_time": 1675735885,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213407,
+        "num": 213407,
+        "word": "张远开始健身了",
+        "onboard_time": 1675743394,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207790,
+        "num": 207790,
+        "word": "非正式会谈",
+        "onboard_time": 1675744047,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201320,
+        "num": 201320,
+        "word": "黑豹2",
+        "onboard_time": 1675742973,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200880,
+        "num": 200880,
+        "word": "大妈在地铁里抽烟还给娃点烟",
+        "onboard_time": 1675735046,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196673,
+        "num": 196673,
+        "word": "恋与制作人世纪告白",
+        "onboard_time": 1675742674,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190988,
+        "num": 190988,
+        "word": "人保寿险学习董事长金句考试疑被叫停",
+        "onboard_time": 1675744595,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189302,
+        "num": 189302,
+        "word": "哪一瞬间感受到父母对你的爱",
+        "onboard_time": 1675746634,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181892,
+        "num": 181892,
+        "word": "郭京飞是满江红里第一个领盒饭的",
+        "onboard_time": 1675742431,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国天眼发现的脉冲星已超740颗#"
+    }
+  }
+}

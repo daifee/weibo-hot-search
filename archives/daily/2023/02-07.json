@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675744659887,
+  "endTime": 1675747023897,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -35,12 +35,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1698464,
+      "num": 1698464,
+      "word": "疯驴子才25岁",
+      "onboard_time": 1675745016,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1571226,
       "num": 1571226,
       "word": "妈妈给女儿寄100个水饺都独立包装",
       "onboard_time": 1675729648,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1450654,
+      "num": 1450654,
+      "word": "美国89%的大学生都是用ChatGPT做作业",
+      "onboard_time": 1675743454,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1448185,
+      "num": 715706,
+      "word": "女生第一次去男友家被安排吃剩菜洗碗",
+      "onboard_time": 1675743755,
+      "rank": 12,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 1302489,
+      "num": 1302489,
+      "word": "刘亦菲洛杉矶街头被网友偶遇",
+      "onboard_time": 1675744235,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1212117,
@@ -73,14 +105,6 @@
       "onboard_time": 1675740870,
       "rank": 5,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1074076,
-      "num": 1074076,
-      "word": "刘亦菲洛杉矶街头被网友偶遇",
-      "onboard_time": 1675744235,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 997152,
@@ -155,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 783286,
-      "num": 721404,
-      "word": "美国89%的大学生都是用ChatGPT做作业",
-      "onboard_time": 1675743454,
-      "rank": 39,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 724913,
       "num": 724913,
       "word": "考研查分空窗期怎么度过",
@@ -171,20 +187,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 723864,
-      "num": 723864,
+      "raw_hot": 724508,
+      "num": 724508,
       "word": "强震已致土耳其叙利亚超4000人遇难",
       "onboard_time": 1675742431,
       "rank": 16,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 715706,
-      "num": 715706,
-      "word": "女生第一次去男友家被安排吃剩菜洗碗",
-      "onboard_time": 1675743755,
-      "rank": 12,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 697818,
@@ -225,6 +233,14 @@
       "onboard_time": 1675711152,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653380,
+      "num": 653380,
+      "word": "安贤洙回应落选韩国城南短道教练",
+      "onboard_time": 1675745376,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 652433,
@@ -289,6 +305,14 @@
       "onboard_time": 1675695931,
       "rank": 4,
       "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 579088,
+      "num": 579088,
+      "word": "高启强的真心都给了陈书婷",
+      "onboard_time": 1675744655,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 567755,
@@ -368,6 +392,14 @@
       "word": "高启盛下线那场戏张颂文临时改台词",
       "onboard_time": 1675692750,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 481441,
+      "num": 481441,
+      "word": "肖战说骄阳炙热盛阳杀青快乐",
+      "onboard_time": 1675745976,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -515,6 +547,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377804,
+      "num": 377804,
+      "word": "男子骑车拖行小猫致死",
+      "onboard_time": 1675741290,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376861,
+      "num": 376861,
+      "word": "杨幂未来感大片预告",
+      "onboard_time": 1675746217,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 376385,
       "num": 376385,
       "word": "狂飙剧组全员百灵鸟",
@@ -555,19 +603,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354719,
+      "num": 354719,
+      "word": "肖战骄阳伴我刷牙镜头",
+      "onboard_time": 1675746336,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349331,
       "num": 349331,
       "word": "土耳其附近发生8.0级左右地震",
       "onboard_time": 1675680269,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346747,
-      "num": 346747,
-      "word": "男子骑车拖行小猫致死",
-      "onboard_time": 1675741290,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -707,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274252,
+      "num": 274252,
+      "word": "朱一龙文咏珊对手戏",
+      "onboard_time": 1675744897,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274207,
       "num": 274207,
       "word": "少爷和我4季度热点事件TOP1",
@@ -803,6 +859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 253941,
+      "num": 253941,
+      "word": "金门发表永久非军事区宣言",
+      "onboard_time": 1675746276,
+      "rank": 33,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 251358,
       "num": 251358,
       "word": "张若昀说帅家默的职业是地理测绘",
@@ -819,12 +883,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250545,
+      "num": 250545,
+      "word": "骄阳伴我打板空镜海报",
+      "onboard_time": 1675745917,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248224,
       "num": 248224,
       "word": "乾隆的猫都叫什么",
       "onboard_time": 1675699285,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246966,
+      "num": 246966,
+      "word": "中国政府决定向土叙提供紧急援助",
+      "onboard_time": 1675746099,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245813,
+      "num": 245813,
+      "word": "年上有顾魏年下有盛阳",
+      "onboard_time": 1675746754,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 243075,
@@ -873,6 +961,22 @@
       "onboard_time": 1675692809,
       "rank": 26,
       "category": "其它"
+    },
+    {
+      "raw_hot": 231510,
+      "num": 231510,
+      "word": "这猫咪为了玩一直负重前行",
+      "onboard_time": 1675745856,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 231023,
+      "num": 231023,
+      "word": "白百何新剧状态",
+      "onboard_time": 1675746454,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 229890,
@@ -979,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190988,
+      "num": 190988,
+      "word": "人保寿险学习董事长金句考试疑被叫停",
+      "onboard_time": 1675744595,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190367,
       "num": 190367,
       "word": "Crisp和LWX碰拳",
@@ -1003,12 +1115,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 186679,
-      "num": 186679,
-      "word": "人保寿险学习董事长金句考试疑被叫停",
-      "onboard_time": 1675744595,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 189302,
+      "num": 189302,
+      "word": "哪一瞬间感受到父母对你的爱",
+      "onboard_time": 1675746634,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 184121,
