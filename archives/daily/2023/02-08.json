@@ -1,6 +1,6 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675788283048,
+  "endTime": 1675790293880,
   "band_list": [
     {
       "raw_hot": 1125618,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 447325,
-      "num": 378055,
+      "num": 409063,
       "word": "女子用狂飙导演照片卖身葬父",
       "onboard_time": 1675785268,
       "rank": 11,
@@ -121,6 +121,14 @@
       "onboard_time": 1675776812,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 295055,
+      "num": 295055,
+      "word": "马嘉祺宋亚轩严浩翔近期单人外务",
+      "onboard_time": 1675789578,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 294208,
@@ -227,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194029,
+      "num": 194029,
+      "word": "骄阳伴我杀青特辑",
+      "onboard_time": 1675790238,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191629,
       "num": 191629,
       "word": "强震已致土耳其叙利亚超5000人遇难",
@@ -273,6 +289,14 @@
       "onboard_time": 1675780714,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143143,
+      "num": 143143,
+      "word": "赵露思哭戏路透",
+      "onboard_time": 1675789220,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 142299,
@@ -347,6 +371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 99358,
+      "num": 99358,
+      "word": "原来拖延症和懒没关系",
+      "onboard_time": 1675789998,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 99325,
       "num": 99325,
       "word": "半熟恋人",
@@ -395,20 +427,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 83697,
+      "num": 83697,
+      "word": "没阳过的孩子能上学吗",
+      "onboard_time": 1675788023,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 79693,
       "num": 79693,
       "word": "南京平均月薪11145元",
       "onboard_time": 1675785508,
       "rank": 49,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 74272,
-      "num": 74272,
-      "word": "没阳过的孩子能上学吗",
-      "onboard_time": 1675788023,
-      "rank": 48,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 72926,
