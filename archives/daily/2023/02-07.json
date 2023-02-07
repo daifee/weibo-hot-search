@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675766149992,
+  "endTime": 1675768535591,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1810256,
+      "num": 1810256,
+      "word": "新郎回应结婚当天前女友组团拉横幅",
+      "onboard_time": 1675765893,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1804674,
       "num": 1804674,
       "word": "宋宁峰向张婉婷求婚",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1325846,
-      "num": 982158,
+      "num": 1013210,
       "word": "肖战白百何捉妖记2后二搭",
       "onboard_time": 1675760309,
       "rank": 3,
@@ -113,6 +121,14 @@
       "onboard_time": 1675726463,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1211793,
+      "num": 1211793,
+      "word": "抖音入局外卖意味着什么",
+      "onboard_time": 1675766310,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 1178361,
@@ -371,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 680850,
+      "num": 459345,
+      "word": "用刀教育孩子致死男子获刑12年",
+      "onboard_time": 1675767272,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680501,
       "num": 680501,
       "word": "导游回应不达购物标准不给游客房卡",
@@ -531,12 +555,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 550559,
+      "num": 461483,
+      "word": "孙怡希望以新身份参加再见爱人",
+      "onboard_time": 1675764930,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 545850,
       "num": 545850,
       "word": "原神3.4",
       "onboard_time": 1675740390,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 542155,
+      "num": 458045,
+      "word": "聊斋新志 汤直传",
+      "onboard_time": 1675766671,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 540335,
@@ -593,14 +633,6 @@
       "onboard_time": 1675727484,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 498873,
-      "num": 461483,
-      "word": "孙怡希望以新身份参加再见爱人",
-      "onboard_time": 1675764930,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 498010,
@@ -673,6 +705,14 @@
       "onboard_time": 1675737507,
       "rank": 44,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 460024,
+      "num": 460024,
+      "word": "半熟恋人",
+      "onboard_time": 1675767990,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 451416,
@@ -779,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414352,
+      "num": 414352,
+      "word": "蔡徐坤泰国人气",
+      "onboard_time": 1675767510,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413554,
       "num": 413554,
       "word": "肖战新剧杀青笑得好开心",
@@ -801,6 +849,14 @@
       "onboard_time": 1675733725,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 404927,
+      "num": 404927,
+      "word": "项羽虞姬情人节限定皮肤",
+      "onboard_time": 1675765590,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 404654,
@@ -857,6 +913,14 @@
       "onboard_time": 1675695636,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392358,
+      "num": 392358,
+      "word": "宋亚轩刘耀文抽卡抽到自己",
+      "onboard_time": 1675768230,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 386391,
@@ -939,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360558,
+      "num": 360558,
+      "word": "张译解扣子",
+      "onboard_time": 1675764992,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354719,
       "num": 354719,
       "word": "网传马嘉祺杨宗纬声生不息唱恋曲1990",
@@ -977,6 +1049,14 @@
       "onboard_time": 1675747110,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 341713,
+      "num": 341713,
+      "word": "前女友团拉搞废新郎横幅系玩笑",
+      "onboard_time": 1675766191,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339563,
@@ -1067,14 +1147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 304461,
-      "num": 304461,
-      "word": "张译解扣子",
-      "onboard_time": 1675764992,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304396,
       "num": 297739,
       "word": "张馨予晒度假照",
@@ -1113,6 +1185,14 @@
       "onboard_time": 1675737448,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297441,
+      "num": 297441,
+      "word": "沈阳伤医案犯罪嫌疑人被批捕",
+      "onboard_time": 1675767391,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297272,
@@ -1379,6 +1459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244211,
+      "num": 244211,
+      "word": "国乒四队员出战WTT球星挑战赛",
+      "onboard_time": 1675764390,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243075,
       "num": 243075,
       "word": "官方回应一男生被多人扇脸踢踹",
@@ -1539,28 +1627,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220125,
-      "num": 220125,
-      "word": "项羽虞姬情人节限定皮肤",
-      "onboard_time": 1675765590,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 219730,
       "num": 219730,
       "word": "重庆人对微微辣的理解",
       "onboard_time": 1675754611,
       "rank": 47,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 219344,
-      "num": 219344,
-      "word": "国乒四队员出战WTT球星挑战赛",
-      "onboard_time": 1675764390,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 217419,
@@ -1707,12 +1779,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 191664,
-      "num": 191664,
-      "word": "新郎回应结婚当天前女友组团拉横幅",
-      "onboard_time": 1675765893,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 192738,
+      "num": 192738,
+      "word": "张译腿好细",
+      "onboard_time": 1675768410,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 190988,
@@ -1761,6 +1833,14 @@
       "onboard_time": 1675761510,
       "rank": 40,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 186094,
+      "num": 186094,
+      "word": "原来伊斯坦布尔是爱猫之城",
+      "onboard_time": 1675768113,
+      "rank": 45,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 185762,
@@ -2115,6 +2195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 87733,
+      "num": 446845,
+      "word": "原神 胡桃 夜兰复刻",
+      "onboard_time": 1675767629,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 82423,
       "num": 82423,
       "word": "成毅说没断网",
@@ -2140,7 +2228,7 @@
     },
     {
       "raw_hot": 53085,
-      "num": 1125374,
+      "num": 1415601,
       "word": "流动的中国绽放着蓬勃活力",
       "onboard_time": 1675756171,
       "rank": 2,
