@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675804591004,
+  "endTime": 1675805624474,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -5107,6 +5107,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 71377,
+      "num": 22536,
+      "word": "男子被骂吃不起饭隔天带4菜店外吃播",
+      "onboard_time": 1675802952,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65971,
       "num": 1107248,
       "word": "元宵喜乐",
@@ -5137,14 +5145,6 @@
       "onboard_time": 1675705217,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 53532,
-      "num": 22242,
-      "word": "男子被骂吃不起饭隔天带4菜店外吃播",
-      "onboard_time": 1675802952,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53085,
@@ -5233,6 +5233,14 @@
       "onboard_time": 1675791854,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 18119,
+      "num": 18119,
+      "word": "25岁女生记录矫正牙齿全过程",
+      "onboard_time": 1675804990,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17931,
