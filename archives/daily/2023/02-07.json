@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675743753144,
+  "endTime": 1675744659887,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -9,6 +9,14 @@
       "onboard_time": 1675736125,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2611842,
+      "num": 2611842,
+      "word": "TFBOYS十周年演唱会附近酒店已被订完",
+      "onboard_time": 1675743094,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 2120430,
@@ -33,14 +41,6 @@
       "onboard_time": 1675729648,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1389358,
-      "num": 1389358,
-      "word": "TFBOYS十周年演唱会附近酒店已被订完",
-      "onboard_time": 1675743094,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 1212117,
@@ -75,12 +75,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1074076,
+      "num": 1074076,
+      "word": "刘亦菲洛杉矶街头被网友偶遇",
+      "onboard_time": 1675744235,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 997152,
       "num": 345709,
       "word": "突然就不害怕死亡了",
       "onboard_time": 1675699765,
       "rank": 19,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 968376,
+      "num": 968376,
+      "word": "多家学术期刊禁止将ChatGPT列为合著者",
+      "onboard_time": 1675741828,
+      "rank": 8,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 958216,
@@ -139,12 +155,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783286,
+      "num": 721404,
+      "word": "美国89%的大学生都是用ChatGPT做作业",
+      "onboard_time": 1675743454,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 724913,
       "num": 724913,
       "word": "考研查分空窗期怎么度过",
       "onboard_time": 1675733607,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 723864,
+      "num": 723864,
+      "word": "强震已致土耳其叙利亚超4000人遇难",
+      "onboard_time": 1675742431,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 715706,
+      "num": 715706,
+      "word": "女生第一次去男友家被安排吃剩菜洗碗",
+      "onboard_time": 1675743755,
+      "rank": 12,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 697818,
@@ -155,20 +195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695682,
+      "num": 695682,
+      "word": "24岁牙科实习医生自拔智齿练手",
+      "onboard_time": 1675742252,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680501,
       "num": 680501,
       "word": "导游回应不达购物标准不给游客房卡",
       "onboard_time": 1675729948,
       "rank": 6,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 667919,
-      "num": 667919,
-      "word": "多家学术期刊禁止将ChatGPT列为合著者",
-      "onboard_time": 1675741828,
-      "rank": 8,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 658498,
@@ -193,6 +233,14 @@
       "onboard_time": 1675728026,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647816,
+      "num": 647816,
+      "word": "华晨宇庆生服连续穿了十年",
+      "onboard_time": 1675742731,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 646806,
@@ -275,8 +323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 522800,
-      "num": 522800,
+      "raw_hot": 530836,
+      "num": 530836,
       "word": "光遇复刻",
       "onboard_time": 1675743036,
       "rank": 14,
@@ -315,14 +363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 482745,
-      "num": 482745,
-      "word": "华晨宇庆生服连续穿了十年",
-      "onboard_time": 1675742731,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 482256,
       "num": 482256,
       "word": "高启盛下线那场戏张颂文临时改台词",
@@ -347,20 +387,20 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 453974,
-      "num": 453974,
-      "word": "强震已致土耳其叙利亚超4000人遇难",
-      "onboard_time": 1675742431,
-      "rank": 16,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 450999,
       "num": 429669,
       "word": "陈妍希说陈晓是比较依赖的人",
       "onboard_time": 1675692931,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445048,
+      "num": 445048,
+      "word": "从姓氏中拆解出的惊艳名字",
+      "onboard_time": 1675743212,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 443376,
@@ -377,14 +417,6 @@
       "onboard_time": 1675685729,
       "rank": 8,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 435536,
-      "num": 435536,
-      "word": "24岁牙科实习医生自拔智齿练手",
-      "onboard_time": 1675742252,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432651,
@@ -467,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386391,
+      "num": 386391,
+      "word": "非正式会谈",
+      "onboard_time": 1675744047,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385650,
       "num": 385650,
       "word": "男子结婚当天前女友们现场拉横幅",
@@ -488,6 +528,14 @@
       "word": "偶遇Lisa和妈妈逛街",
       "onboard_time": 1675740091,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 372331,
+      "num": 372331,
+      "word": "张远开始健身了",
+      "onboard_time": 1675743394,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -515,16 +563,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337381,
-      "num": 337381,
+      "raw_hot": 346747,
+      "num": 346747,
       "word": "男子骑车拖行小猫致死",
       "onboard_time": 1675741290,
       "rank": 24,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325091,
-      "num": 325091,
+      "raw_hot": 339280,
+      "num": 339280,
+      "word": "网传声生不息宝岛季首期录制歌单",
+      "onboard_time": 1675744416,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 325952,
+      "num": 325952,
       "word": "土耳其为何一天两次7.8级地震",
       "onboard_time": 1675740689,
       "rank": 47,
@@ -547,16 +603,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312314,
-      "num": 312314,
-      "word": "张远开始健身了",
-      "onboard_time": 1675743394,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 307895,
-      "num": 307895,
+      "raw_hot": 307944,
+      "num": 307944,
       "word": "黑豹2",
       "onboard_time": 1675742973,
       "rank": 31,
@@ -611,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289679,
+      "num": 289679,
+      "word": "恋与制作人世纪告白",
+      "onboard_time": 1675742674,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283082,
       "num": 283082,
       "word": "2023年以来最强雨雪上线",
@@ -657,14 +713,6 @@
       "onboard_time": 1675739551,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 272362,
-      "num": 272362,
-      "word": "从姓氏中拆解出的惊艳名字",
-      "onboard_time": 1675743212,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 268981,
@@ -771,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249715,
-      "num": 249715,
-      "word": "恋与制作人世纪告白",
-      "onboard_time": 1675742674,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 248224,
       "num": 248224,
       "word": "乾隆的猫都叫什么",
@@ -793,6 +833,14 @@
       "onboard_time": 1675697492,
       "rank": 25,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 242789,
+      "num": 242789,
+      "word": "恋与制作人",
+      "onboard_time": 1675743755,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 242201,
@@ -817,14 +865,6 @@
       "onboard_time": 1675729108,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 236288,
-      "num": 236288,
-      "word": "美国89%的大学生都是用ChatGPT做作业",
-      "onboard_time": 1675743454,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 233612,
@@ -907,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204639,
+      "num": 204639,
+      "word": "揭秘爆红ChatGPT之父",
+      "onboard_time": 1675739848,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 204409,
       "num": 204409,
       "word": "张译自创的呼吸睡眠法",
@@ -923,12 +971,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 200457,
-      "num": 200457,
-      "word": "揭秘爆红ChatGPT之父",
-      "onboard_time": 1675739848,
-      "rank": 44,
-      "category": "科技"
+      "raw_hot": 196957,
+      "num": 196957,
+      "word": "大侦探",
+      "onboard_time": 1675744533,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 190367,
@@ -953,6 +1001,14 @@
       "onboard_time": 1675742310,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186679,
+      "num": 186679,
+      "word": "人保寿险学习董事长金句考试疑被叫停",
+      "onboard_time": 1675744595,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184121,
@@ -1235,8 +1291,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 40199,
-      "num": 1446972,
+      "raw_hot": 41403,
+      "num": 1897870,
       "word": "新征程上满怀信心开新局展新貌",
       "onboard_time": 1675740030,
       "rank": 2,

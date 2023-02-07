@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675743753144,
+  "endTime": 1675744659887,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -9,6 +9,14 @@
       "onboard_time": 1675736125,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2611842,
+      "num": 2611842,
+      "word": "TFBOYS十周年演唱会附近酒店已被订完",
+      "onboard_time": 1675743094,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 2366961,
@@ -195,14 +203,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 1389358,
-      "num": 1389358,
-      "word": "TFBOYS十周年演唱会附近酒店已被订完",
-      "onboard_time": 1675743094,
-      "rank": 3,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1375744,
       "num": 1375744,
       "word": "段奥娟瘦了好多",
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1074076,
+      "num": 1074076,
+      "word": "刘亦菲洛杉矶街头被网友偶遇",
+      "onboard_time": 1675744235,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1060545,
       "num": 844989,
       "word": "黄多多晒与同学比心合照",
@@ -433,6 +441,14 @@
       "onboard_time": 1675680450,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 968376,
+      "num": 968376,
+      "word": "多家学术期刊禁止将ChatGPT列为合著者",
+      "onboard_time": 1675741828,
+      "rank": 8,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 966111,
@@ -643,6 +659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 783286,
+      "num": 721404,
+      "word": "美国89%的大学生都是用ChatGPT做作业",
+      "onboard_time": 1675743454,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 756282,
       "num": 756282,
       "word": "7pm 好听",
@@ -691,12 +715,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 723864,
+      "num": 723864,
+      "word": "强震已致土耳其叙利亚超4000人遇难",
+      "onboard_time": 1675742431,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 718218,
       "num": 583803,
       "word": "陈妍希说陈晓是比较依赖的人",
       "onboard_time": 1675692931,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 715706,
+      "num": 715706,
+      "word": "女生第一次去男友家被安排吃剩菜洗碗",
+      "onboard_time": 1675743755,
+      "rank": 12,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 702725,
@@ -723,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695682,
+      "num": 695682,
+      "word": "24岁牙科实习医生自拔智齿练手",
+      "onboard_time": 1675742252,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 683278,
       "num": 683278,
       "word": "刘慈欣二刷流浪地球2发现小bug",
@@ -745,14 +793,6 @@
       "onboard_time": 1675695636,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 667919,
-      "num": 667919,
-      "word": "多家学术期刊禁止将ChatGPT列为合著者",
-      "onboard_time": 1675741828,
-      "rank": 8,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 664788,
@@ -809,6 +849,14 @@
       "onboard_time": 1675650207,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647816,
+      "num": 647816,
+      "word": "华晨宇庆生服连续穿了十年",
+      "onboard_time": 1675742731,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 646806,
@@ -1067,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 530836,
+      "num": 530836,
+      "word": "光遇复刻",
+      "onboard_time": 1675743036,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 528552,
       "num": 528552,
       "word": "哪些人群不建议打九价疫苗",
@@ -1113,14 +1169,6 @@
       "onboard_time": 1675665567,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 522800,
-      "num": 522800,
-      "word": "光遇复刻",
-      "onboard_time": 1675743036,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 522081,
@@ -1227,14 +1275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 482745,
-      "num": 482745,
-      "word": "华晨宇庆生服连续穿了十年",
-      "onboard_time": 1675742731,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 473506,
       "num": 473506,
       "word": "库克称果粉愿意高价买iPhone",
@@ -1275,12 +1315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 453974,
-      "num": 453974,
-      "word": "强震已致土耳其叙利亚超4000人遇难",
-      "onboard_time": 1675742431,
-      "rank": 16,
-      "category": "国外要闻"
+      "raw_hot": 445048,
+      "num": 445048,
+      "word": "从姓氏中拆解出的惊艳名字",
+      "onboard_time": 1675743212,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 442334,
@@ -1313,14 +1353,6 @@
       "onboard_time": 1675651169,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 435536,
-      "num": 435536,
-      "word": "24岁牙科实习医生自拔智齿练手",
-      "onboard_time": 1675742252,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 433693,
@@ -1555,6 +1587,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 386391,
+      "num": 386391,
+      "word": "非正式会谈",
+      "onboard_time": 1675744047,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377972,
       "num": 377972,
       "word": "建议将年龄歧视纳入反就业歧视范畴",
@@ -1585,6 +1625,14 @@
       "onboard_time": 1675661847,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372331,
+      "num": 372331,
+      "word": "张远开始健身了",
+      "onboard_time": 1675743394,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 370850,
@@ -1651,6 +1699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 346747,
+      "num": 346747,
+      "word": "男子骑车拖行小猫致死",
+      "onboard_time": 1675741290,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345030,
       "num": 345030,
       "word": "你会选择贷款买房吗",
@@ -1699,12 +1755,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 337381,
-      "num": 337381,
-      "word": "男子骑车拖行小猫致死",
-      "onboard_time": 1675741290,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 339280,
+      "num": 339280,
+      "word": "网传声生不息宝岛季首期录制歌单",
+      "onboard_time": 1675744416,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 334712,
@@ -1755,8 +1811,8 @@
       "category": "教育,艺人"
     },
     {
-      "raw_hot": 325091,
-      "num": 325091,
+      "raw_hot": 325952,
+      "num": 325952,
       "word": "土耳其为何一天两次7.8级地震",
       "onboard_time": 1675740689,
       "rank": 47,
@@ -1811,14 +1867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 312314,
-      "num": 312314,
-      "word": "张远开始健身了",
-      "onboard_time": 1675743394,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 312209,
       "num": 312209,
       "word": "你期待骄阳伴我吗",
@@ -1851,8 +1899,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307895,
-      "num": 307895,
+      "raw_hot": 307944,
+      "num": 307944,
       "word": "黑豹2",
       "onboard_time": 1675742973,
       "rank": 31,
@@ -1977,6 +2025,14 @@
       "onboard_time": 1675662509,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289679,
+      "num": 289679,
+      "word": "恋与制作人世纪告白",
+      "onboard_time": 1675742674,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 289212,
@@ -2113,14 +2169,6 @@
       "onboard_time": 1675648708,
       "rank": 30,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 272362,
-      "num": 272362,
-      "word": "从姓氏中拆解出的惊艳名字",
-      "onboard_time": 1675743212,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 268981,
@@ -2307,14 +2355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249715,
-      "num": 249715,
-      "word": "恋与制作人世纪告白",
-      "onboard_time": 1675742674,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 249523,
       "num": 249523,
       "word": "孩子的压力到底有多大",
@@ -2379,6 +2419,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 242789,
+      "num": 242789,
+      "word": "恋与制作人",
+      "onboard_time": 1675743755,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242201,
       "num": 242201,
       "word": "刘敏涛说的周正男孩原来是师铭泽",
@@ -2425,14 +2473,6 @@
       "onboard_time": 1675657773,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236288,
-      "num": 236288,
-      "word": "美国89%的大学生都是用ChatGPT做作业",
-      "onboard_time": 1675743454,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 234346,
@@ -2675,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204639,
+      "num": 204639,
+      "word": "揭秘爆红ChatGPT之父",
+      "onboard_time": 1675739848,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 204409,
       "num": 204409,
       "word": "张译自创的呼吸睡眠法",
@@ -2715,14 +2763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 200457,
-      "num": 200457,
-      "word": "揭秘爆红ChatGPT之父",
-      "onboard_time": 1675739848,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
       "raw_hot": 200141,
       "num": 200141,
       "word": "刘宇宁寻一个你收藏人数破250万",
@@ -2745,6 +2785,14 @@
       "onboard_time": 1675646306,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 196957,
+      "num": 196957,
+      "word": "大侦探",
+      "onboard_time": 1675744533,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 195978,
@@ -2809,6 +2857,14 @@
       "onboard_time": 1675666708,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186679,
+      "num": 186679,
+      "word": "人保寿险学习董事长金句考试疑被叫停",
+      "onboard_time": 1675744595,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186631,
@@ -3603,8 +3659,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 40199,
-      "num": 1446972,
+      "raw_hot": 41403,
+      "num": 1897870,
       "word": "新征程上满怀信心开新局展新貌",
       "onboard_time": 1675740030,
       "rank": 2,
