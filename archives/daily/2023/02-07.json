@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675747023897,
+  "endTime": 1675748017404,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1698464,
-      "num": 1698464,
+      "raw_hot": 1913833,
+      "num": 1913833,
       "word": "疯驴子才25岁",
       "onboard_time": 1675745016,
       "rank": 3,
@@ -51,15 +51,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1450654,
-      "num": 1450654,
+      "raw_hot": 1521895,
+      "num": 1521895,
       "word": "美国89%的大学生都是用ChatGPT做作业",
       "onboard_time": 1675743454,
       "rank": 39,
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1448185,
+      "raw_hot": 1450049,
       "num": 715706,
       "word": "女生第一次去男友家被安排吃剩菜洗碗",
       "onboard_time": 1675743755,
@@ -177,6 +177,14 @@
       "onboard_time": 1675694013,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761400,
+      "num": 761400,
+      "word": "高启强的真心都给了陈书婷",
+      "onboard_time": 1675744655,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 724913,
@@ -307,14 +315,6 @@
       "category": "教育,艺人"
     },
     {
-      "raw_hot": 579088,
-      "num": 579088,
-      "word": "高启强的真心都给了陈书婷",
-      "onboard_time": 1675744655,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 567755,
       "num": 567755,
       "word": "土耳其一天内两次7.8级强震",
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447328,
+      "num": 447328,
+      "word": "金门发表永久非军事区宣言",
+      "onboard_time": 1675746276,
+      "rank": 33,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 445048,
       "num": 445048,
       "word": "从姓氏中拆解出的惊艳名字",
@@ -491,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 413179,
+      "num": 413179,
+      "word": "中国政府决定向土叙提供紧急援助",
+      "onboard_time": 1675746099,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410276,
       "num": 410276,
       "word": "漫威电影回归内地大银幕",
@@ -505,6 +521,22 @@
       "onboard_time": 1675726883,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 401286,
+      "num": 401286,
+      "word": "年上有顾魏年下有盛阳",
+      "onboard_time": 1675746754,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 399050,
+      "num": 354719,
+      "word": "肖战骄阳伴我刷牙镜头",
+      "onboard_time": 1675746336,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 398294,
@@ -600,14 +632,6 @@
       "word": "狂飙大嫂高叶直播",
       "onboard_time": 1675697610,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 354719,
-      "num": 354719,
-      "word": "肖战骄阳伴我刷牙镜头",
-      "onboard_time": 1675746336,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -747,6 +771,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 275917,
+      "num": 275917,
+      "word": "白百何新剧状态",
+      "onboard_time": 1675746454,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275065,
       "num": 275065,
       "word": "美方称发现第二个来自中国的气球",
@@ -859,14 +891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 253941,
-      "num": 253941,
-      "word": "金门发表永久非军事区宣言",
-      "onboard_time": 1675746276,
-      "rank": 33,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 251358,
       "num": 251358,
       "word": "张若昀说帅家默的职业是地理测绘",
@@ -897,22 +921,6 @@
       "onboard_time": 1675699285,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 246966,
-      "num": 246966,
-      "word": "中国政府决定向土叙提供紧急援助",
-      "onboard_time": 1675746099,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245813,
-      "num": 245813,
-      "word": "年上有顾魏年下有盛阳",
-      "onboard_time": 1675746754,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 243075,
@@ -971,11 +979,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 231023,
-      "num": 231023,
-      "word": "白百何新剧状态",
-      "onboard_time": 1675746454,
-      "rank": 40,
+      "raw_hot": 230271,
+      "num": 230271,
+      "word": "半熟恋人2开播随礼",
+      "onboard_time": 1675747232,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1043,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212420,
+      "num": 212420,
+      "word": "狗狗知道东西没买不能上嘴",
+      "onboard_time": 1675747110,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206721,
       "num": 206721,
       "word": "开学第一课是睁眼说瞎话",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1675729767,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202946,
+      "num": 202946,
+      "word": "ChatGPT让苹果急了",
+      "onboard_time": 1675747771,
+      "rank": 39,
+      "category": "科技,游戏"
     },
     {
       "raw_hot": 196957,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1675746634,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185762,
+      "num": 185762,
+      "word": "胖子到底可以有多灵活",
+      "onboard_time": 1675747052,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 184121,
@@ -1217,6 +1249,14 @@
       "onboard_time": 1675683327,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154383,
+      "num": 154383,
+      "word": "BoysPlanet好像在剪恋综",
+      "onboard_time": 1675747952,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 147584,
@@ -1404,7 +1444,7 @@
     },
     {
       "raw_hot": 41403,
-      "num": 1897870,
+      "num": 1937690,
       "word": "新征程上满怀信心开新局展新貌",
       "onboard_time": 1675740030,
       "rank": 2,
