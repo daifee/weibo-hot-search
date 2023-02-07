@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675733778846,
+  "endTime": 1675734932241,
   "band_list": [
     {
       "raw_hot": 2366961,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 937389,
+      "num": 937389,
+      "word": "果然大学生撕伞是把好手",
+      "onboard_time": 1675727064,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 936746,
       "num": 936746,
       "word": "宁理 导演这次我杀谁",
@@ -521,14 +529,6 @@
       "onboard_time": 1675648646,
       "rank": 4,
       "category": "科技"
-    },
-    {
-      "raw_hot": 818170,
-      "num": 818170,
-      "word": "果然大学生撕伞是把好手",
-      "onboard_time": 1675727064,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 815967,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646806,
+      "num": 646806,
+      "word": "中国公羊救援队8人前往土耳其震中救援",
+      "onboard_time": 1675730730,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 645152,
       "num": 645152,
       "word": "张颂文元宵节看烟花vlog",
@@ -763,20 +771,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 597079,
+      "num": 597079,
+      "word": "男孩吃火锅时发现作业没写愁到大哭",
+      "onboard_time": 1675731388,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594436,
       "num": 594436,
       "word": "不必因为父母的普通而自卑",
       "onboard_time": 1675654948,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 593601,
-      "num": 593601,
-      "word": "中国公羊救援队8人前往土耳其震中救援",
-      "onboard_time": 1675730730,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 591359,
@@ -939,14 +947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 525964,
-      "num": 525964,
-      "word": "男孩吃火锅时发现作业没写愁到大哭",
-      "onboard_time": 1675731388,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 525715,
       "num": 525715,
       "word": "这烟花都对不起自己的块头",
@@ -1035,6 +1035,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 497787,
+      "num": 497787,
+      "word": "多条国际航班票价降至千元以内",
+      "onboard_time": 1675732288,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 495149,
       "num": 495149,
       "word": "中戏教授李红说安欣比高启强难演",
@@ -1051,14 +1059,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 485974,
-      "num": 485974,
-      "word": "多条国际航班票价降至千元以内",
-      "onboard_time": 1675732288,
-      "rank": 13,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 484294,
       "num": 484294,
       "word": "央美学生还原三体火鸡科学家",
@@ -1073,6 +1073,22 @@
       "onboard_time": 1675658673,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480844,
+      "num": 480844,
+      "word": "高叶说幸亏张颂文选择了演戏",
+      "onboard_time": 1675726463,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 474032,
+      "num": 474032,
+      "word": "考研查分空窗期怎么度过",
+      "onboard_time": 1675733607,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 473506,
@@ -1347,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376385,
+      "num": 376385,
+      "word": "狂飙剧组全员百灵鸟",
+      "onboard_time": 1675731268,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372439,
       "num": 372439,
       "word": "土耳其强震已致43死400余伤",
@@ -1467,20 +1491,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 339658,
-      "num": 339658,
-      "word": "狂飙剧组全员百灵鸟",
-      "onboard_time": 1675731268,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 334712,
       "num": 334712,
       "word": "张晨张常宁父亲因病去世",
       "onboard_time": 1675591946,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334579,
+      "num": 334579,
+      "word": "漫威电影回归内地大银幕",
+      "onboard_time": 1675733725,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 332843,
@@ -1523,20 +1547,20 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 324034,
+      "num": 324034,
+      "word": "张凌赫用身高压制白鹿",
+      "onboard_time": 1675725859,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 319551,
       "num": 319551,
       "word": "鹿晗五哈疯狂炫醋",
       "onboard_time": 1675675768,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 319092,
-      "num": 319092,
-      "word": "高叶说幸亏张颂文选择了演戏",
-      "onboard_time": 1675726463,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 316167,
@@ -1593,14 +1617,6 @@
       "onboard_time": 1675679491,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306787,
-      "num": 306787,
-      "word": "张凌赫用身高压制白鹿",
-      "onboard_time": 1675725859,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 304077,
@@ -1931,6 +1947,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 255703,
+      "num": 255703,
+      "word": "刘宇宁贾士凯聚餐路透",
+      "onboard_time": 1675734625,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 253489,
       "num": 253489,
       "word": "徐若晗对言承旭说记住你了",
@@ -2113,6 +2137,14 @@
       "onboard_time": 1675593750,
       "rank": 26,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 228876,
+      "num": 228876,
+      "word": "詹姆斯对湖人错过欧文感到失望",
+      "onboard_time": 1675734267,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 228775,
@@ -2603,6 +2635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162416,
+      "num": 162416,
+      "word": "快船vs篮网",
+      "onboard_time": 1675734147,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161496,
       "num": 161496,
       "word": "把元宵煮成了藕粉",
@@ -2673,14 +2713,6 @@
       "onboard_time": 1675608333,
       "rank": 34,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 155999,
-      "num": 155999,
-      "word": "考研查分空窗期怎么度过",
-      "onboard_time": 1675733607,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 155626,
@@ -2779,20 +2811,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145126,
+      "num": 145126,
+      "word": "苹果仍在开发反向无线充电功能",
+      "onboard_time": 1675734625,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 142488,
       "num": 142488,
       "word": "声声慢",
       "onboard_time": 1675603712,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141706,
-      "num": 141706,
-      "word": "漫威电影回归内地大银幕",
-      "onboard_time": 1675733725,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 139666,
@@ -2833,6 +2865,14 @@
       "onboard_time": 1675640544,
       "rank": 46,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 135095,
+      "num": 135095,
+      "word": "张颂文 火柴天堂",
+      "onboard_time": 1675734866,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 134650,

@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675733778846,
+  "endTime": 1675734932241,
   "band_list": [
     {
       "raw_hot": 2120430,
@@ -43,20 +43,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 937389,
+      "num": 937389,
+      "word": "果然大学生撕伞是把好手",
+      "onboard_time": 1675727064,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 887961,
       "num": 887961,
       "word": "中国女球员地震中幸免于难报平安",
       "onboard_time": 1675695749,
       "rank": 1,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 818170,
-      "num": 818170,
-      "word": "果然大学生撕伞是把好手",
-      "onboard_time": 1675727064,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 805459,
@@ -91,20 +91,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646806,
+      "num": 646806,
+      "word": "中国公羊救援队8人前往土耳其震中救援",
+      "onboard_time": 1675730730,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597079,
+      "num": 597079,
+      "word": "男孩吃火锅时发现作业没写愁到大哭",
+      "onboard_time": 1675731388,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595254,
       "num": 430912,
       "word": "王嘉尔回国",
       "onboard_time": 1675694495,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 593601,
-      "num": 593601,
-      "word": "中国公羊救援队8人前往土耳其震中救援",
-      "onboard_time": 1675730730,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 591359,
@@ -131,14 +139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 525964,
-      "num": 525964,
-      "word": "男孩吃火锅时发现作业没写愁到大哭",
-      "onboard_time": 1675731388,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 511184,
       "num": 247750,
       "word": "2岁娃山区玩后反复发烧查出黑热病",
@@ -155,8 +155,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 485974,
-      "num": 485974,
+      "raw_hot": 497787,
+      "num": 497787,
       "word": "多条国际航班票价降至千元以内",
       "onboard_time": 1675732288,
       "rank": 13,
@@ -169,6 +169,22 @@
       "onboard_time": 1675692750,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 480844,
+      "num": 480844,
+      "word": "高叶说幸亏张颂文选择了演戏",
+      "onboard_time": 1675726463,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 474032,
+      "num": 474032,
+      "word": "考研查分空窗期怎么度过",
+      "onboard_time": 1675733607,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 450999,
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376385,
+      "num": 376385,
+      "word": "狂飙剧组全员百灵鸟",
+      "onboard_time": 1675731268,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 371457,
       "num": 371457,
       "word": "朱珠在曼谷船上唱歌",
@@ -283,24 +307,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339658,
-      "num": 339658,
-      "word": "狂飙剧组全员百灵鸟",
-      "onboard_time": 1675731268,
-      "rank": 18,
+      "raw_hot": 334579,
+      "num": 334579,
+      "word": "漫威电影回归内地大银幕",
+      "onboard_time": 1675733725,
+      "rank": 48,
       "category": "影视"
     },
     {
-      "raw_hot": 319092,
-      "num": 319092,
-      "word": "高叶说幸亏张颂文选择了演戏",
-      "onboard_time": 1675726463,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 306787,
-      "num": 306787,
+      "raw_hot": 324034,
+      "num": 324034,
       "word": "张凌赫用身高压制白鹿",
       "onboard_time": 1675725859,
       "rank": 33,
@@ -411,6 +427,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 255703,
+      "num": 255703,
+      "word": "刘宇宁贾士凯聚餐路透",
+      "onboard_time": 1675734625,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 250942,
       "num": 250942,
       "word": "吴京说流浪地球3该炸哪儿了",
@@ -457,6 +481,14 @@
       "onboard_time": 1675675468,
       "rank": 27,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 228876,
+      "num": 228876,
+      "word": "詹姆斯对湖人错过欧文感到失望",
+      "onboard_time": 1675734267,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 225717,
@@ -547,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162416,
+      "num": 162416,
+      "word": "快船vs篮网",
+      "onboard_time": 1675734147,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161231,
       "num": 161231,
       "word": "胡锡进谈ChatGPT",
@@ -571,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155999,
-      "num": 155999,
-      "word": "考研查分空窗期怎么度过",
-      "onboard_time": 1675733607,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 147584,
       "num": 147584,
       "word": "这是我打工的真实写照",
@@ -595,20 +627,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145126,
+      "num": 145126,
+      "word": "苹果仍在开发反向无线充电功能",
+      "onboard_time": 1675734625,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 144242,
       "num": 144242,
       "word": "薛之谦说郭聪明是细心的小孩子",
       "onboard_time": 1675694913,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 141706,
-      "num": 141706,
-      "word": "漫威电影回归内地大银幕",
-      "onboard_time": 1675733725,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 138372,
@@ -625,6 +657,14 @@
       "onboard_time": 1675732589,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135095,
+      "num": 135095,
+      "word": "张颂文 火柴天堂",
+      "onboard_time": 1675734866,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 132986,

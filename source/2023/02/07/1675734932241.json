@@ -1,0 +1,410 @@
+{
+  "runTime": 1675734932241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1874228,
+        "num": 1874228,
+        "word": "肖战杀青抱着白百何转圈",
+        "onboard_time": 1675726463,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1500505,
+        "num": 1500505,
+        "word": "妈妈给女儿寄100个水饺都独立包装",
+        "onboard_time": 1675729648,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21688,
+        "num": 1203839,
+        "word": "太空视角看灯火里的中国",
+        "onboard_time": 1675669888,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 981075,
+        "num": 981075,
+        "word": "强震已致土耳其叙利亚超3000人遇难",
+        "onboard_time": 1675726463,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937389,
+        "num": 937389,
+        "word": "果然大学生撕伞是把好手",
+        "onboard_time": 1675727064,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 646806,
+        "num": 646806,
+        "word": "中国公羊救援队8人前往土耳其震中救援",
+        "onboard_time": 1675730730,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608290,
+        "num": 608290,
+        "word": "导游回应不达购物标准不给游客房卡",
+        "onboard_time": 1675729948,
+        "rank": 6,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 597079,
+        "num": 597079,
+        "word": "男孩吃火锅时发现作业没写愁到大哭",
+        "onboard_time": 1675731388,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553963,
+        "num": 553963,
+        "word": "骄阳伴我",
+        "onboard_time": 1675698031,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532096,
+        "num": 532096,
+        "word": "成都一幼儿园园长撞脸毛不易",
+        "onboard_time": 1675695931,
+        "rank": 9,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 547262,
+        "num": 531373,
+        "word": "杭州两套拆迁房让一对亲姐妹闹翻",
+        "onboard_time": 1675711152,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529982,
+        "num": 529982,
+        "word": "肖战双手比心",
+        "onboard_time": 1675732828,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 497787,
+        "num": 497787,
+        "word": "多条国际航班票价降至千元以内",
+        "onboard_time": 1675732288,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 480844,
+        "num": 480844,
+        "word": "高叶说幸亏张颂文选择了演戏",
+        "onboard_time": 1675726463,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474032,
+        "num": 474032,
+        "word": "考研查分空窗期怎么度过",
+        "onboard_time": 1675733607,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 411206,
+        "num": 411206,
+        "word": "王力宏新歌",
+        "onboard_time": 1675727484,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 376385,
+        "num": 376385,
+        "word": "狂飙剧组全员百灵鸟",
+        "onboard_time": 1675731268,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369477,
+        "num": 369477,
+        "word": "你现在王者什么段位",
+        "onboard_time": 1675726883,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 365085,
+        "num": 365085,
+        "word": "泰国满大街播放狂飙吸引中国游客",
+        "onboard_time": 1675692690,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334579,
+        "num": 334579,
+        "word": "漫威电影回归内地大银幕",
+        "onboard_time": 1675733725,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324034,
+        "num": 324034,
+        "word": "张凌赫用身高压制白鹿",
+        "onboard_time": 1675725859,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296612,
+        "num": 296612,
+        "word": "女子存5万被要求提供收入证明",
+        "onboard_time": 1675694013,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288914,
+        "num": 288914,
+        "word": "ChatGPT",
+        "onboard_time": 1675726041,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 255703,
+        "num": 255703,
+        "word": "刘宇宁贾士凯聚餐路透",
+        "onboard_time": 1675734625,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229740,
+        "num": 229740,
+        "word": "256斤男生半年暴瘦100斤变肌肉猛男",
+        "onboard_time": 1675705696,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229601,
+        "num": 229601,
+        "word": "中国女球员地震中幸免于难报平安",
+        "onboard_time": 1675695749,
+        "rank": 25,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 228876,
+        "num": 228876,
+        "word": "詹姆斯对湖人错过欧文感到失望",
+        "onboard_time": 1675734267,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221315,
+        "num": 221315,
+        "word": "谷歌将推出ChatGPT竞争对手Bard",
+        "onboard_time": 1675732407,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 218499,
+        "num": 218499,
+        "word": "土耳其一天内两次7.8级强震",
+        "onboard_time": 1675681289,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206921,
+        "num": 206921,
+        "word": "三秒摔了六跤",
+        "onboard_time": 1675729108,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204297,
+        "num": 204297,
+        "word": "广东人会把肠粉淹死在酱汁里",
+        "onboard_time": 1675688906,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201368,
+        "num": 201368,
+        "word": "个人有必要做新冠抗体检测吗",
+        "onboard_time": 1675727904,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197615,
+        "num": 197615,
+        "word": "土耳其全国哀悼7天",
+        "onboard_time": 1675726463,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180741,
+        "num": 180741,
+        "word": "乾隆的猫都叫什么",
+        "onboard_time": 1675699285,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179921,
+        "num": 179921,
+        "word": "原来不是胖才有双下巴",
+        "onboard_time": 1675692809,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 176423,
+        "num": 176423,
+        "word": "留洋土耳其球员称遭遇极端天气",
+        "onboard_time": 1675731568,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 173665,
+        "num": 173665,
+        "word": "中国游客被普吉岛旅行社负责人割伤",
+        "onboard_time": 1675691549,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171733,
+        "num": 171733,
+        "word": "开学第一课是睁眼说瞎话",
+        "onboard_time": 1675725800,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167640,
+        "num": 167640,
+        "word": "狂飙小五扮演者说和安欣是师徒情",
+        "onboard_time": 1675689991,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162416,
+        "num": 162416,
+        "word": "快船vs篮网",
+        "onboard_time": 1675734147,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160826,
+        "num": 160826,
+        "word": "浙江专升本门槛降了",
+        "onboard_time": 1675729767,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156532,
+        "num": 156532,
+        "word": "王嘉尔回国",
+        "onboard_time": 1675694495,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148265,
+        "num": 148265,
+        "word": "2岁娃山区玩后反复发烧查出黑热病",
+        "onboard_time": 1675703299,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145126,
+        "num": 145126,
+        "word": "苹果仍在开发反向无线充电功能",
+        "onboard_time": 1675734625,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 144374,
+        "num": 144374,
+        "word": "高叶回应剧抛脸",
+        "onboard_time": 1675725439,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137446,
+        "num": 137446,
+        "word": "朱珠在曼谷船上唱歌",
+        "onboard_time": 1675694671,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135095,
+        "num": 135095,
+        "word": "张颂文 火柴天堂",
+        "onboard_time": 1675734866,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130405,
+        "num": 130405,
+        "word": "1999年以来土耳其最严重强震",
+        "onboard_time": 1675728928,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127102,
+        "num": 127102,
+        "word": "陈妍希说陈晓是比较依赖的人",
+        "onboard_time": 1675692931,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126924,
+        "num": 126924,
+        "word": "高启盛下线那场戏张颂文临时改台词",
+        "onboard_time": 1675692750,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国天眼发现的脉冲星已超740颗#"
+    }
+  }
+}
