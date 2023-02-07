@@ -1,0 +1,410 @@
+{
+  "runTime": 1675762429811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1117933,
+        "num": 1117933,
+        "word": "疯驴子才25岁",
+        "onboard_time": 1675745016,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 901083,
+        "num": 901083,
+        "word": "宋宁峰向张婉婷求婚",
+        "onboard_time": 1675749932,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49659,
+        "num": 888588,
+        "word": "流动的中国绽放着蓬勃活力",
+        "onboard_time": 1675756171,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1325846,
+        "num": 887607,
+        "word": "肖战白百何捉妖记2后二搭",
+        "onboard_time": 1675760309,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1096686,
+        "num": 887545,
+        "word": "曝公司艺人不愿为李秀满发声",
+        "onboard_time": 1675757492,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 886477,
+        "num": 886477,
+        "word": "狂飙是央八近九年收视第一",
+        "onboard_time": 1675751908,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 860626,
+        "num": 860626,
+        "word": "1岁宝宝称体重时努力吸肚子",
+        "onboard_time": 1675758750,
+        "rank": 6,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 710020,
+        "num": 710020,
+        "word": "网传杨幂主演没有一顿火锅解决不了的事",
+        "onboard_time": 1675758931,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 614930,
+        "num": 614930,
+        "word": "狗主人买廉价狗粮竟掺土和锯末致死亡",
+        "onboard_time": 1675752930,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386811,
+        "num": 386811,
+        "word": "当代研究生现状鉴赏",
+        "onboard_time": 1675755332,
+        "rank": 9,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 594451,
+        "num": 386373,
+        "word": "张婧仪张凌赫情人节大片",
+        "onboard_time": 1675757492,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 572615,
+        "num": 386213,
+        "word": "高启强车窗贴纸",
+        "onboard_time": 1675758990,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 550785,
+        "num": 385863,
+        "word": "女生第一次去男友家被安排吃剩菜洗碗",
+        "onboard_time": 1675743755,
+        "rank": 12,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 494844,
+        "num": 385382,
+        "word": "王鹤棣手机锁屏是高启强",
+        "onboard_time": 1675755149,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 489264,
+        "num": 384792,
+        "word": "麻子23岁",
+        "onboard_time": 1675755871,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483654,
+        "num": 384327,
+        "word": "告诉老默我想摸鱼了",
+        "onboard_time": 1675754493,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384030,
+        "num": 384030,
+        "word": "蔡徐坤头发已经褪色了",
+        "onboard_time": 1675754730,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372209,
+        "num": 372209,
+        "word": "饿了么免单",
+        "onboard_time": 1675754010,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 367178,
+        "num": 367178,
+        "word": "强震已致土耳其叙利亚超4000人遇难",
+        "onboard_time": 1675742431,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 365343,
+        "num": 365343,
+        "word": "女子剖腹产回家家人做轿子抬其上楼",
+        "onboard_time": 1675755090,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362875,
+        "num": 362875,
+        "word": "王琳肖战骄阳伴我演母子",
+        "onboard_time": 1675759531,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349647,
+        "num": 349647,
+        "word": "ChatGPT让苹果急了",
+        "onboard_time": 1675747771,
+        "rank": 21,
+        "category": "科技,游戏"
+      },
+      {
+        "raw_hot": 349129,
+        "num": 349129,
+        "word": "中方回应美方拒还飞艇碎片和设备",
+        "onboard_time": 1675757130,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 341890,
+        "num": 341890,
+        "word": "TFBOYS十周年演唱会确认规划中",
+        "onboard_time": 1675748132,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 339083,
+        "num": 339083,
+        "word": "美国89%的大学生都是用ChatGPT做作业",
+        "onboard_time": 1675743454,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 327944,
+        "num": 327944,
+        "word": "张颂文给陈都灵讲戏",
+        "onboard_time": 1675758090,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297739,
+        "num": 297739,
+        "word": "张馨予晒度假照",
+        "onboard_time": 1675759052,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290264,
+        "num": 290264,
+        "word": "李小冉新剧状态",
+        "onboard_time": 1675760127,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281219,
+        "num": 281219,
+        "word": "90后夫妻上门做菜700元6荤5素1汤",
+        "onboard_time": 1675751848,
+        "rank": 28,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 280437,
+        "num": 280437,
+        "word": "10岁女孩文具店买到性暗示钥匙扣",
+        "onboard_time": 1675738707,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248388,
+        "num": 248388,
+        "word": "唐小强",
+        "onboard_time": 1675736125,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 247896,
+        "num": 247896,
+        "word": "来自陈书婷的血脉压制",
+        "onboard_time": 1675754312,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237136,
+        "num": 237136,
+        "word": "马斯克曾称ChatGPT好得吓人",
+        "onboard_time": 1675756652,
+        "rank": 32,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 235510,
+        "num": 235510,
+        "word": "内娱叔圈天菜",
+        "onboard_time": 1675749872,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229747,
+        "num": 229747,
+        "word": "年轻时的疯驴子",
+        "onboard_time": 1675759295,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223202,
+        "num": 223202,
+        "word": "中国向土耳其派遣重型救援队",
+        "onboard_time": 1675751130,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201988,
+        "num": 201988,
+        "word": "ChatGPT上线2个月活跃用户破亿",
+        "onboard_time": 1675756292,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 198786,
+        "num": 198786,
+        "word": "第一次见双眼皮的小猫",
+        "onboard_time": 1675762292,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 197061,
+        "num": 197061,
+        "word": "爸爸去幼儿园开家长会遇到做迎宾的儿子",
+        "onboard_time": 1675749270,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 187440,
+        "num": 187440,
+        "word": "2023上半年已定档40部新片",
+        "onboard_time": 1675754070,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186799,
+        "num": 186799,
+        "word": "这个家不能没有狗狗",
+        "onboard_time": 1675761510,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 183621,
+        "num": 183621,
+        "word": "年轻人犯错更应该被包容吗",
+        "onboard_time": 1675761749,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181462,
+        "num": 181462,
+        "word": "女生返校前校服竟变紧身小马甲",
+        "onboard_time": 1675749392,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 176380,
+        "num": 176380,
+        "word": "ChatGPT有多靠谱",
+        "onboard_time": 1675759531,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 175500,
+        "num": 175500,
+        "word": "抖音将于3月1日上线全国外卖服务",
+        "onboard_time": 1675762349,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172769,
+        "num": 172769,
+        "word": "白鹿开车vlog",
+        "onboard_time": 1675757913,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169489,
+        "num": 169489,
+        "word": "张大大说杨幂和杨颖太瘦了不好看",
+        "onboard_time": 1675749449,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166787,
+        "num": 166787,
+        "word": "柯基因满身灰而被主人装不认识",
+        "onboard_time": 1675749632,
+        "rank": 47,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 165668,
+        "num": 165668,
+        "word": "知情人称唐小强系回土耳其探亲",
+        "onboard_time": 1675749089,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 165437,
+        "num": 165437,
+        "word": "Nuguri说TheShy是最强上单",
+        "onboard_time": 1675750530,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国天眼发现的脉冲星已超740颗#"
+    }
+  }
+}
