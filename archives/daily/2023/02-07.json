@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675776956810,
+  "endTime": 1675779426022,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -99,20 +99,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1497561,
+      "num": 1497561,
+      "word": "女子取药时发现医生用手机追剧",
+      "onboard_time": 1675773030,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1450049,
       "num": 715706,
       "word": "女生第一次去男友家被安排吃剩菜洗碗",
       "onboard_time": 1675743755,
       "rank": 12,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 1425289,
-      "num": 1425289,
-      "word": "女子取药时发现医生用手机追剧",
-      "onboard_time": 1675773030,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1325846,
@@ -137,6 +137,14 @@
       "onboard_time": 1675751908,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1214471,
+      "num": 892629,
+      "word": "杜华帮儿子要虞书欣签名照",
+      "onboard_time": 1675776392,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1212117,
@@ -227,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 968728,
+      "num": 968728,
+      "word": "吴昕换头像被杜海涛问怀孕了吗",
+      "onboard_time": 1675774292,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 968376,
       "num": 968376,
       "word": "多家学术期刊禁止将ChatGPT列为合著者",
@@ -307,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 856112,
-      "num": 856112,
-      "word": "吴昕换头像被杜海涛问怀孕了吗",
-      "onboard_time": 1675774292,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 843408,
       "num": 843408,
       "word": "第一次见双眼皮的小猫",
@@ -361,6 +369,22 @@
       "onboard_time": 1675694013,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805358,
+      "num": 805358,
+      "word": "张译新闻联播镜头",
+      "onboard_time": 1675779033,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 793547,
+      "num": 793547,
+      "word": "48岁老师去世天南海北学生赶回悼念",
+      "onboard_time": 1675776812,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 791621,
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630432,
+      "num": 630432,
+      "word": "父亲年三十去世男子离家时强忍泪水",
+      "onboard_time": 1675776572,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 623493,
       "num": 623493,
       "word": "撞脸毛不易的幼儿园园长是硕士毕业",
@@ -577,6 +609,14 @@
       "onboard_time": 1675695931,
       "rank": 4,
       "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 588279,
+      "num": 588279,
+      "word": "恩施人非必要不得前往柬埔寨",
+      "onboard_time": 1675774409,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 580096,
@@ -675,12 +715,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532652,
+      "num": 532652,
+      "word": "陈飞宇不过情人节",
+      "onboard_time": 1675777415,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 530836,
       "num": 530836,
       "word": "光遇复刻",
       "onboard_time": 1675743036,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 530253,
+      "num": 530253,
+      "word": "被万茜这一巴掌爽到",
+      "onboard_time": 1675775492,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 525390,
@@ -755,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 483408,
-      "num": 483408,
-      "word": "恩施人非必要不得前往柬埔寨",
-      "onboard_time": 1675774409,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 482256,
       "num": 482256,
       "word": "高启盛下线那场戏张颂文临时改台词",
@@ -777,14 +825,6 @@
       "onboard_time": 1675745976,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 474182,
-      "num": 474182,
-      "word": "杜华帮儿子要虞书欣签名照",
-      "onboard_time": 1675776392,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 474010,
@@ -809,14 +849,6 @@
       "onboard_time": 1675735885,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 465291,
-      "num": 465291,
-      "word": "被万茜这一巴掌爽到",
-      "onboard_time": 1675775492,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 462943,
@@ -929,6 +961,14 @@
       "onboard_time": 1675689991,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 427581,
+      "num": 427581,
+      "word": "陈晓陈妍希微信头像都是关于对方",
+      "onboard_time": 1675777593,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 426988,
@@ -1227,20 +1267,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323061,
+      "num": 323061,
+      "word": "半熟2三个男嘉宾看头像选了孙沐雨",
+      "onboard_time": 1675774529,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322425,
       "num": 322425,
       "word": "肖战骄阳伴我杀青vlog",
       "onboard_time": 1675772430,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 319633,
-      "num": 319633,
-      "word": "半熟2三个男嘉宾看头像选了孙沐雨",
-      "onboard_time": 1675774529,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 317579,
@@ -1379,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292425,
+      "num": 292425,
+      "word": "为防两家孩子打架兄弟俩堵墙分家",
+      "onboard_time": 1675775192,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289679,
       "num": 289679,
       "word": "恋与制作人世纪告白",
@@ -1387,11 +1435,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 286543,
-      "num": 286543,
-      "word": "为防两家孩子打架兄弟俩堵墙分家",
-      "onboard_time": 1675775192,
-      "rank": 29,
+      "raw_hot": 286265,
+      "num": 286265,
+      "word": "强震已致土耳其叙利亚超5000人遇难",
+      "onboard_time": 1675773271,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1459,14 +1507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 274250,
-      "num": 274250,
-      "word": "强震已致土耳其叙利亚超5000人遇难",
-      "onboard_time": 1675773271,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274207,
       "num": 274207,
       "word": "少爷和我4季度热点事件TOP1",
@@ -1489,6 +1529,14 @@
       "onboard_time": 1675726463,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268252,
+      "num": 268252,
+      "word": "报告显示重庆平均月薪近万元",
+      "onboard_time": 1675773868,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 267764,
@@ -1609,6 +1657,14 @@
       "onboard_time": 1675740569,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251222,
+      "num": 251222,
+      "word": "466元6块糖涉事店铺修改价签",
+      "onboard_time": 1675778193,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250942,
@@ -1747,6 +1803,14 @@
       "category": "情感,旅游"
     },
     {
+      "raw_hot": 230656,
+      "num": 221348,
+      "word": "开了坏笑特效的安欣和高启强",
+      "onboard_time": 1675777833,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230271,
       "num": 230271,
       "word": "半熟恋人2开播随礼",
@@ -1793,14 +1857,6 @@
       "onboard_time": 1675704976,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225457,
-      "num": 225457,
-      "word": "报告显示重庆平均月薪近万元",
-      "onboard_time": 1675773868,
-      "rank": 37,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 224166,
@@ -2083,6 +2139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181835,
+      "num": 181835,
+      "word": "王者荣耀情人节CG",
+      "onboard_time": 1675779335,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180903,
       "num": 180903,
       "word": "华晨宇超话掉落Q版华晨宇",
@@ -2179,6 +2243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162451,
+      "num": 162451,
+      "word": "老师离世前默默资助近30位学生",
+      "onboard_time": 1675778613,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 162416,
       "num": 162416,
       "word": "快船vs篮网",
@@ -2259,6 +2331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142573,
+      "num": 142573,
+      "word": "搞宫斗还得看TVB台庆",
+      "onboard_time": 1675778311,
+      "rank": 43,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 138372,
       "num": 138372,
       "word": "张艺兴面纱封面在格莱美现场出现",
@@ -2331,14 +2411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117164,
-      "num": 117164,
-      "word": "父亲年三十去世男子离家时强忍泪水",
-      "onboard_time": 1675776572,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109663,
       "num": 109663,
       "word": "张颂文贾发跳舞好可爱",
@@ -2377,14 +2449,6 @@
       "onboard_time": 1675675229,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96996,
-      "num": 96996,
-      "word": "48岁老师去世天南海北学生赶回悼念",
-      "onboard_time": 1675776812,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 96624,
