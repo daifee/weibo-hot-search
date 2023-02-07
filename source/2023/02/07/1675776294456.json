@@ -1,0 +1,410 @@
+{
+  "runTime": 1675776294456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1423248,
+        "num": 1423248,
+        "word": "抖音将于3月1日上线全国外卖服务",
+        "onboard_time": 1675762349,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1291958,
+        "num": 1291958,
+        "word": "女子取药时发现医生用手机追剧",
+        "onboard_time": 1675773030,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22669,
+        "num": 1170557,
+        "word": "流动的中国绽放着蓬勃活力",
+        "onboard_time": 1675756171,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1112193,
+        "num": 1112193,
+        "word": "成都平均月薪10039元",
+        "onboard_time": 1675772069,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 740929,
+        "num": 740929,
+        "word": "李秀满将起诉SMTOWN理事会",
+        "onboard_time": 1675772609,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695349,
+        "num": 695349,
+        "word": "吴昕换头像被杜海涛问怀孕了吗",
+        "onboard_time": 1675774292,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625768,
+        "num": 625768,
+        "word": "抖音入局外卖意味着什么",
+        "onboard_time": 1675766310,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 623876,
+        "num": 623876,
+        "word": "中年裸辞意味着什么",
+        "onboard_time": 1675771169,
+        "rank": 7,
+        "category": "影视,社会议题"
+      },
+      {
+        "raw_hot": 602462,
+        "num": 602462,
+        "word": "肖战白百何捉妖记2后二搭",
+        "onboard_time": 1675760309,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 550349,
+        "num": 550349,
+        "word": "抖音已注册多枚心动外卖商标",
+        "onboard_time": 1675772126,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2430501,
+        "num": 547975,
+        "word": "丈夫开车碾压拖拽妻子8.5米致其死亡",
+        "onboard_time": 1675771410,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714038,
+        "num": 540483,
+        "word": "湖南男子和孕妻回土耳其探亲遇地震",
+        "onboard_time": 1675774169,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501561,
+        "num": 501561,
+        "word": "狗狗山中走丢24天找到瘦了20斤",
+        "onboard_time": 1675771108,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491128,
+        "num": 491128,
+        "word": "张颂文名字的含义",
+        "onboard_time": 1675773991,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457502,
+        "num": 457502,
+        "word": "恩施人非必要不得前往柬埔寨",
+        "onboard_time": 1675774409,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369904,
+        "num": 369904,
+        "word": "狂飙是央八近九年收视第一",
+        "onboard_time": 1675751908,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359943,
+        "num": 359943,
+        "word": "半熟恋人",
+        "onboard_time": 1675767990,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350618,
+        "num": 350618,
+        "word": "金箍棒被骗走社火小猴子大哭",
+        "onboard_time": 1675772790,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313915,
+        "num": 313915,
+        "word": "半熟2三个男嘉宾看头像选了孙沐雨",
+        "onboard_time": 1675774529,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302731,
+        "num": 302731,
+        "word": "被万茜这一巴掌爽到",
+        "onboard_time": 1675775492,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302113,
+        "num": 302113,
+        "word": "陈晓毛晓彤云襄传下证",
+        "onboard_time": 1675773449,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296217,
+        "num": 296217,
+        "word": "任天堂日本所有员工工资上涨10%",
+        "onboard_time": 1675769010,
+        "rank": 21,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 273190,
+        "num": 273190,
+        "word": "蔡徐坤泰国人气",
+        "onboard_time": 1675767510,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249188,
+        "num": 249188,
+        "word": "曝公司艺人不愿为李秀满发声",
+        "onboard_time": 1675757492,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242514,
+        "num": 242514,
+        "word": "强震已致土耳其叙利亚超5000人遇难",
+        "onboard_time": 1675773271,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241690,
+        "num": 241690,
+        "word": "第一次见双眼皮的小猫",
+        "onboard_time": 1675762292,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 239512,
+        "num": 239512,
+        "word": "孙怡希望以新身份参加再见爱人",
+        "onboard_time": 1675764930,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225457,
+        "num": 225457,
+        "word": "报告显示重庆平均月薪近万元",
+        "onboard_time": 1675773868,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 215725,
+        "num": 215725,
+        "word": "掌门太忙宣布停服",
+        "onboard_time": 1675770509,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199165,
+        "num": 199165,
+        "word": "为防两家孩子打架兄弟俩堵墙分家",
+        "onboard_time": 1675775192,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198904,
+        "num": 198904,
+        "word": "王鹤棣手机锁屏是高启强",
+        "onboard_time": 1675755149,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193887,
+        "num": 193887,
+        "word": "高启强车窗贴纸",
+        "onboard_time": 1675758990,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192318,
+        "num": 192318,
+        "word": "张译腿好细",
+        "onboard_time": 1675768410,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186261,
+        "num": 186261,
+        "word": "肖战骄阳伴我杀青vlog",
+        "onboard_time": 1675772430,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178755,
+        "num": 178755,
+        "word": "聊斋新志 汤直传",
+        "onboard_time": 1675766671,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169541,
+        "num": 169541,
+        "word": "疯驴子才25岁",
+        "onboard_time": 1675745016,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168957,
+        "num": 168957,
+        "word": "宋宁峰向张婉婷求婚",
+        "onboard_time": 1675749932,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167681,
+        "num": 167681,
+        "word": "告诉老默我想摸鱼了",
+        "onboard_time": 1675754493,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164033,
+        "num": 164033,
+        "word": "外卖大战会重现吗",
+        "onboard_time": 1675771346,
+        "rank": 38,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 162525,
+        "num": 162525,
+        "word": "何广智参加非诚勿扰",
+        "onboard_time": 1675762830,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150686,
+        "num": 150686,
+        "word": "项羽虞姬情人节限定皮肤",
+        "onboard_time": 1675765590,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141781,
+        "num": 141781,
+        "word": "1岁宝宝称体重时努力吸肚子",
+        "onboard_time": 1675758750,
+        "rank": 41,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 136091,
+        "num": 136091,
+        "word": "前女友团拉搞废新郎横幅系玩笑",
+        "onboard_time": 1675766191,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126300,
+        "num": 126300,
+        "word": "宋亚轩刘耀文抽卡抽到自己",
+        "onboard_time": 1675768230,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116939,
+        "num": 116939,
+        "word": "TFBOYS十周年演唱会确认规划中",
+        "onboard_time": 1675748132,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115584,
+        "num": 115584,
+        "word": "Lisa艾威牵手看日落",
+        "onboard_time": 1675763910,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102838,
+        "num": 102838,
+        "word": "强震已致土耳其叙利亚超4000人遇难",
+        "onboard_time": 1675742431,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 102629,
+        "num": 102629,
+        "word": "女子剖腹产回家家人做轿子抬其上楼",
+        "onboard_time": 1675755090,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97340,
+        "num": 97340,
+        "word": "原来伊斯坦布尔是爱猫之城",
+        "onboard_time": 1675768113,
+        "rank": 48,
+        "category": "情感,旅游"
+      },
+      {
+        "raw_hot": 95708,
+        "num": 95708,
+        "word": "冬晓赵显分手",
+        "onboard_time": 1675770450,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#尊重人民群众主体地位和首创精神#"
+    }
+  }
+}
