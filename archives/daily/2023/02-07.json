@@ -1,6 +1,6 @@
 {
   "startTime": 1675700746732,
-  "endTime": 1675779426022,
+  "endTime": 1675780405668,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -99,8 +99,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1497561,
-      "num": 1497561,
+      "raw_hot": 1498356,
+      "num": 1498356,
       "word": "女子取药时发现医生用手机追剧",
       "onboard_time": 1675773030,
       "rank": 42,
@@ -113,6 +113,14 @@
       "onboard_time": 1675743755,
       "rank": 12,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 1348826,
+      "num": 1348826,
+      "word": "张译新闻联播镜头",
+      "onboard_time": 1675779033,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1325846,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1214471,
-      "num": 892629,
+      "num": 1133858,
       "word": "杜华帮儿子要虞书欣签名照",
       "onboard_time": 1675776392,
       "rank": 13,
@@ -225,6 +233,14 @@
       "onboard_time": 1675771169,
       "rank": 1,
       "category": "影视,社会议题"
+    },
+    {
+      "raw_hot": 973744,
+      "num": 973744,
+      "word": "48岁老师去世天南海北学生赶回悼念",
+      "onboard_time": 1675776812,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 971963,
@@ -371,22 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 805358,
-      "num": 805358,
-      "word": "张译新闻联播镜头",
-      "onboard_time": 1675779033,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 793547,
-      "num": 793547,
-      "word": "48岁老师去世天南海北学生赶回悼念",
-      "onboard_time": 1675776812,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 791621,
       "num": 791621,
       "word": "李秀满将起诉SMTOWN理事会",
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 726221,
+      "num": 726221,
+      "word": "父亲年三十去世男子离家时强忍泪水",
+      "onboard_time": 1675776572,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 724913,
       "num": 724913,
       "word": "考研查分空窗期怎么度过",
@@ -456,6 +464,14 @@
       "word": "孙怡再见爱人激动了一整期",
       "onboard_time": 1675749510,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 706177,
+      "num": 706177,
+      "word": "陈晓陈妍希微信头像都是关于对方",
+      "onboard_time": 1675777593,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -552,14 +568,6 @@
       "word": "中国公羊救援队8人前往土耳其震中救援",
       "onboard_time": 1675730730,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 630432,
-      "num": 630432,
-      "word": "父亲年三十去世男子离家时强忍泪水",
-      "onboard_time": 1675776572,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -715,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539973,
+      "num": 539973,
+      "word": "被万茜这一巴掌爽到",
+      "onboard_time": 1675775492,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 532652,
       "num": 532652,
       "word": "陈飞宇不过情人节",
@@ -729,14 +745,6 @@
       "onboard_time": 1675743036,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 530253,
-      "num": 530253,
-      "word": "被万茜这一巴掌爽到",
-      "onboard_time": 1675775492,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 525390,
@@ -867,6 +875,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 458508,
+      "num": 458508,
+      "word": "466元6块糖涉事店铺修改价签",
+      "onboard_time": 1675778193,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451416,
       "num": 451416,
       "word": "女生返校前校服竟变紧身小马甲",
@@ -961,14 +977,6 @@
       "onboard_time": 1675689991,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 427581,
-      "num": 427581,
-      "word": "陈晓陈妍希微信头像都是关于对方",
-      "onboard_time": 1675777593,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 426988,
@@ -1659,14 +1667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251222,
-      "num": 251222,
-      "word": "466元6块糖涉事店铺修改价签",
-      "onboard_time": 1675778193,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250942,
       "num": 250942,
       "word": "吴京说流浪地球3该炸哪儿了",
@@ -1995,6 +1995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 201254,
+      "num": 201254,
+      "word": "王者荣耀情人节CG",
+      "onboard_time": 1675779335,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199550,
       "num": 199550,
       "word": "不想开学",
@@ -2035,12 +2043,28 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 196590,
+      "num": 196590,
+      "word": "男友拒不结婚42岁女子独自生养女儿",
+      "onboard_time": 1675779873,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 194932,
       "num": 194932,
       "word": "ChatGPT有多靠谱",
       "onboard_time": 1675759531,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 191876,
+      "num": 191876,
+      "word": "老师离世前默默资助近30位学生",
+      "onboard_time": 1675778613,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 190988,
@@ -2107,6 +2131,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 184034,
+      "num": 184034,
+      "word": "搞宫斗还得看TVB台庆",
+      "onboard_time": 1675778311,
+      "rank": 43,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 183971,
       "num": 183971,
       "word": "猫咪的爪子到底有多可爱",
@@ -2137,14 +2169,6 @@
       "onboard_time": 1675751549,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181835,
-      "num": 181835,
-      "word": "王者荣耀情人节CG",
-      "onboard_time": 1675779335,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 180903,
@@ -2243,14 +2267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 162451,
-      "num": 162451,
-      "word": "老师离世前默默资助近30位学生",
-      "onboard_time": 1675778613,
-      "rank": 37,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 162416,
       "num": 162416,
       "word": "快船vs篮网",
@@ -2315,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146903,
+      "num": 146903,
+      "word": "学生在他照片下留言IP遍布全国",
+      "onboard_time": 1675780114,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 146053,
       "num": 146053,
       "word": "赵樱子扮演的裘千尺",
@@ -2329,14 +2353,6 @@
       "onboard_time": 1675694913,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 142573,
-      "num": 142573,
-      "word": "搞宫斗还得看TVB台庆",
-      "onboard_time": 1675778311,
-      "rank": 43,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 138372,
@@ -2355,12 +2371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133758,
+      "num": 133758,
+      "word": "14岁女孩用海姆立克法救被噎爸爸",
+      "onboard_time": 1675780292,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132986,
       "num": 132986,
       "word": "边伯贤说再也不会和粉丝分开了",
       "onboard_time": 1675692870,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131965,
+      "num": 131965,
+      "word": "旅游后的手机相册",
+      "onboard_time": 1675779513,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 131368,

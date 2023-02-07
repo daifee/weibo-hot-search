@@ -1,0 +1,410 @@
+{
+  "runTime": 1675780405668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1498356,
+        "num": 1498356,
+        "word": "女子取药时发现医生用手机追剧",
+        "onboard_time": 1675773030,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1348826,
+        "num": 1348826,
+        "word": "张译新闻联播镜头",
+        "onboard_time": 1675779033,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22758,
+        "num": 1163709,
+        "word": "流动的中国绽放着蓬勃活力",
+        "onboard_time": 1675756171,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1133858,
+        "num": 1133858,
+        "word": "杜华帮儿子要虞书欣签名照",
+        "onboard_time": 1675776392,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 973744,
+        "num": 973744,
+        "word": "48岁老师去世天南海北学生赶回悼念",
+        "onboard_time": 1675776812,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 923924,
+        "num": 923924,
+        "word": "吴昕换头像被杜海涛问怀孕了吗",
+        "onboard_time": 1675774292,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 773655,
+        "num": 773655,
+        "word": "抖音将于3月1日上线全国外卖服务",
+        "onboard_time": 1675762349,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 726221,
+        "num": 726221,
+        "word": "父亲年三十去世男子离家时强忍泪水",
+        "onboard_time": 1675776572,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706177,
+        "num": 706177,
+        "word": "陈晓陈妍希微信头像都是关于对方",
+        "onboard_time": 1675777593,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 687914,
+        "num": 687914,
+        "word": "湖南男子和孕妻回土耳其探亲遇地震",
+        "onboard_time": 1675774169,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664408,
+        "num": 664408,
+        "word": "成都平均月薪10039元",
+        "onboard_time": 1675772069,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 585184,
+        "num": 585184,
+        "word": "恩施人非必要不得前往柬埔寨",
+        "onboard_time": 1675774409,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539973,
+        "num": 539973,
+        "word": "被万茜这一巴掌爽到",
+        "onboard_time": 1675775492,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 511830,
+        "num": 511830,
+        "word": "抖音入局外卖意味着什么",
+        "onboard_time": 1675766310,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 489475,
+        "num": 489475,
+        "word": "陈飞宇不过情人节",
+        "onboard_time": 1675777415,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 461805,
+        "num": 461805,
+        "word": "李秀满将起诉SMTOWN理事会",
+        "onboard_time": 1675772609,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458508,
+        "num": 458508,
+        "word": "466元6块糖涉事店铺修改价签",
+        "onboard_time": 1675778193,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331088,
+        "num": 331088,
+        "word": "肖战白百何捉妖记2后二搭",
+        "onboard_time": 1675760309,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312828,
+        "num": 312828,
+        "word": "中年裸辞意味着什么",
+        "onboard_time": 1675771169,
+        "rank": 18,
+        "category": "影视,社会议题"
+      },
+      {
+        "raw_hot": 294601,
+        "num": 294601,
+        "word": "蔡徐坤泰国人气",
+        "onboard_time": 1675767510,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284094,
+        "num": 284094,
+        "word": "强震已致土耳其叙利亚超5000人遇难",
+        "onboard_time": 1675773271,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281581,
+        "num": 281581,
+        "word": "狂飙是央八近九年收视第一",
+        "onboard_time": 1675751908,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277168,
+        "num": 277168,
+        "word": "张颂文名字的含义",
+        "onboard_time": 1675773991,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270909,
+        "num": 270909,
+        "word": "为防两家孩子打架兄弟俩堵墙分家",
+        "onboard_time": 1675775192,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252687,
+        "num": 252687,
+        "word": "狗狗山中走丢24天找到瘦了20斤",
+        "onboard_time": 1675771108,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245640,
+        "num": 245640,
+        "word": "半熟2三个男嘉宾看头像选了孙沐雨",
+        "onboard_time": 1675774529,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245307,
+        "num": 245307,
+        "word": "抖音已注册多枚心动外卖商标",
+        "onboard_time": 1675772126,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 239073,
+        "num": 239073,
+        "word": "项羽虞姬情人节限定皮肤",
+        "onboard_time": 1675765590,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212222,
+        "num": 212222,
+        "word": "任天堂日本所有员工工资上涨10%",
+        "onboard_time": 1675769010,
+        "rank": 28,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 207753,
+        "num": 207753,
+        "word": "开了坏笑特效的安欣和高启强",
+        "onboard_time": 1675777833,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202890,
+        "num": 202890,
+        "word": "半熟恋人",
+        "onboard_time": 1675767990,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201254,
+        "num": 201254,
+        "word": "王者荣耀情人节CG",
+        "onboard_time": 1675779335,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201045,
+        "num": 201045,
+        "word": "报告显示重庆平均月薪近万元",
+        "onboard_time": 1675773868,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 196890,
+        "num": 196890,
+        "word": "金箍棒被骗走社火小猴子大哭",
+        "onboard_time": 1675772790,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196590,
+        "num": 196590,
+        "word": "男友拒不结婚42岁女子独自生养女儿",
+        "onboard_time": 1675779873,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 191876,
+        "num": 191876,
+        "word": "老师离世前默默资助近30位学生",
+        "onboard_time": 1675778613,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 184034,
+        "num": 184034,
+        "word": "搞宫斗还得看TVB台庆",
+        "onboard_time": 1675778311,
+        "rank": 36,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 177964,
+        "num": 177964,
+        "word": "第一次见双眼皮的小猫",
+        "onboard_time": 1675762292,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 164796,
+        "num": 164796,
+        "word": "聊斋新志 汤直传",
+        "onboard_time": 1675766671,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151847,
+        "num": 151847,
+        "word": "疯驴子才25岁",
+        "onboard_time": 1675745016,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149409,
+        "num": 149409,
+        "word": "肖战骄阳伴我杀青vlog",
+        "onboard_time": 1675772430,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146903,
+        "num": 146903,
+        "word": "学生在他照片下留言IP遍布全国",
+        "onboard_time": 1675780114,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145816,
+        "num": 145816,
+        "word": "孙怡希望以新身份参加再见爱人",
+        "onboard_time": 1675764930,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143793,
+        "num": 143793,
+        "word": "高启强车窗贴纸",
+        "onboard_time": 1675758990,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136347,
+        "num": 136347,
+        "word": "陈晓毛晓彤云襄传下证",
+        "onboard_time": 1675773449,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135985,
+        "num": 135985,
+        "word": "告诉老默我想摸鱼了",
+        "onboard_time": 1675754493,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133758,
+        "num": 133758,
+        "word": "14岁女孩用海姆立克法救被噎爸爸",
+        "onboard_time": 1675780292,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131965,
+        "num": 131965,
+        "word": "旅游后的手机相册",
+        "onboard_time": 1675779513,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129250,
+        "num": 129250,
+        "word": "何广智参加非诚勿扰",
+        "onboard_time": 1675762830,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127729,
+        "num": 127729,
+        "word": "王鹤棣手机锁屏是高启强",
+        "onboard_time": 1675755149,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#尊重人民群众主体地位和首创精神#"
+    }
+  }
+}
