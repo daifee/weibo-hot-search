@@ -1,6 +1,6 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675791287655,
+  "endTime": 1675794175733,
   "band_list": [
     {
       "raw_hot": 1125618,
@@ -323,12 +323,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128040,
+      "num": 128040,
+      "word": "肖战晒照告别盛阳",
+      "onboard_time": 1675792874,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 122398,
       "num": 122398,
       "word": "蔡徐坤泰国人气",
       "onboard_time": 1675767510,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118866,
+      "num": 109143,
+      "word": "肖战盛阳湿发造型",
+      "onboard_time": 1675792874,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 114537,
@@ -435,6 +451,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 83395,
+      "num": 83395,
+      "word": "肖战骄阳伴我状态",
+      "onboard_time": 1675792334,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 79693,
       "num": 79693,
       "word": "南京平均月薪11145元",
@@ -447,6 +471,38 @@
       "num": 72926,
       "word": "被万茜这一巴掌爽到",
       "onboard_time": 1675775492,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 42418,
+      "num": 42418,
+      "word": "刘敏涛女士的品格状态",
+      "onboard_time": 1675791854,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 42230,
+      "num": 42230,
+      "word": "再见爱人不能没有胡彦斌",
+      "onboard_time": 1675792036,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 33964,
+      "num": 33964,
+      "word": "吴京张译分吸油纸",
+      "onboard_time": 1675793536,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28728,
+      "num": 28728,
+      "word": "王佳怡再唱樱桃曲梦回满江红瑶琴",
+      "onboard_time": 1675791854,
       "rank": 49,
       "category": "影视"
     },
@@ -465,6 +521,9 @@
     },
     {
       "word": "#正确理解和大力推进中国式现代化#"
+    },
+    {
+      "word": "#尊重人民群众主体地位和首创精神#"
     }
   ]
 }

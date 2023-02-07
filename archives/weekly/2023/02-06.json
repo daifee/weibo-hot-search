@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675791287655,
+  "endTime": 1675794175733,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -4811,6 +4811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128040,
+      "num": 128040,
+      "word": "肖战晒照告别盛阳",
+      "onboard_time": 1675792874,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127988,
       "num": 127988,
       "word": "ChatGPT会抢谁饭碗",
@@ -4905,6 +4913,14 @@
       "onboard_time": 1675602570,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118866,
+      "num": 109143,
+      "word": "肖战盛阳湿发造型",
+      "onboard_time": 1675792874,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 118850,
@@ -5051,6 +5067,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 83395,
+      "num": 83395,
+      "word": "肖战骄阳伴我状态",
+      "onboard_time": 1675792334,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 82423,
       "num": 82423,
       "word": "成毅说没断网",
@@ -5107,12 +5131,44 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 42418,
+      "num": 42418,
+      "word": "刘敏涛女士的品格状态",
+      "onboard_time": 1675791854,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 42230,
+      "num": 42230,
+      "word": "再见爱人不能没有胡彦斌",
+      "onboard_time": 1675792036,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41403,
       "num": 1937690,
       "word": "新征程上满怀信心开新局展新貌",
       "onboard_time": 1675740030,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 33964,
+      "num": 33964,
+      "word": "吴京张译分吸油纸",
+      "onboard_time": 1675793536,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28728,
+      "num": 28728,
+      "word": "王佳怡再唱樱桃曲梦回满江红瑶琴",
+      "onboard_time": 1675791854,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 17931,
