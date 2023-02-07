@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675738257170,
+  "endTime": 1675740018720,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -49,6 +49,14 @@
       "onboard_time": 1675249470,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3914900,
+      "num": 3914900,
+      "word": "唐小强",
+      "onboard_time": 1675736125,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3893603,
@@ -145,14 +153,6 @@
       "onboard_time": 1675568914,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3006561,
-      "num": 3006561,
-      "word": "唐小强",
-      "onboard_time": 1675736125,
-      "rank": 0,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2880224,
@@ -2203,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 911778,
+      "num": 911778,
+      "word": "非正式会谈唐小强被埋废墟下",
+      "onboard_time": 1675738406,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 907785,
       "num": 640926,
       "word": "王嘉晨回应狂飙拍了100集是玩笑",
@@ -2763,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 798093,
+      "num": 798093,
+      "word": "考过研的真看不得这个",
+      "onboard_time": 1675738529,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 796817,
       "num": 796817,
       "word": "SMTOWN新女团将第二季度出道",
@@ -2835,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 778179,
+      "num": 778179,
+      "word": "一央企要求全员背诵董事长金句",
+      "onboard_time": 1675738047,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 777306,
       "num": 777306,
       "word": "狂飙二创",
@@ -2904,6 +2928,14 @@
       "word": "胡鑫宇尸体发现地无打斗拖拽痕迹",
       "onboard_time": 1675305164,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757322,
+      "num": 593258,
+      "word": "10岁女孩文具店买到性暗示钥匙扣",
+      "onboard_time": 1675738707,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -3635,6 +3667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 658498,
+      "num": 658498,
+      "word": "张颂文 火柴天堂",
+      "onboard_time": 1675734866,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 656396,
       "num": 656396,
       "word": "流浪地球2里的机甲不是特效",
@@ -3833,14 +3873,6 @@
       "onboard_time": 1675404749,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 634193,
-      "num": 634193,
-      "word": "张颂文 火柴天堂",
-      "onboard_time": 1675734866,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 633694,
@@ -4651,6 +4683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 540335,
+      "num": 540335,
+      "word": "25岁男子醉驾撞车逃逸父母称他还小",
+      "onboard_time": 1675736245,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540289,
       "num": 540289,
       "word": "泫雅亲粉丝脸",
@@ -4896,14 +4936,6 @@
       "word": "女子称海鲜市场买到蓝环章鱼险食用",
       "onboard_time": 1675657294,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 522005,
-      "num": 522005,
-      "word": "25岁男子醉驾撞车逃逸父母称他还小",
-      "onboard_time": 1675736245,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -5523,6 +5555,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 461055,
+      "num": 461055,
+      "word": "苹果或将继续上调iPhone售价",
+      "onboard_time": 1675737507,
+      "rank": 44,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 460903,
       "num": 460903,
       "word": "张译张颂文老来得粉",
@@ -5537,6 +5577,14 @@
       "onboard_time": 1675317091,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 459374,
+      "num": 459374,
+      "word": "张译穿衣显瘦脱衣有肉",
+      "onboard_time": 1675735885,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 458719,
@@ -5561,14 +5609,6 @@
       "onboard_time": 1675348117,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 457228,
-      "num": 457228,
-      "word": "张译穿衣显瘦脱衣有肉",
-      "onboard_time": 1675735885,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 456596,
@@ -8075,6 +8115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 304231,
+      "num": 304231,
+      "word": "这猫像极了下班回家的我",
+      "onboard_time": 1675737326,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 304077,
       "num": 304077,
       "word": "什么样的另一半你会选择结婚",
@@ -8185,6 +8233,14 @@
       "onboard_time": 1675562187,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 297965,
+      "num": 297965,
+      "word": "守望先锋2联动一拳超人",
+      "onboard_time": 1675737448,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 297497,
@@ -8955,28 +9011,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 271286,
-      "num": 271286,
-      "word": "苹果或将继续上调iPhone售价",
-      "onboard_time": 1675737507,
-      "rank": 44,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 270872,
       "num": 270872,
       "word": "权顺荣说追星不容易",
       "onboard_time": 1675523311,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270733,
-      "num": 270733,
-      "word": "这猫像极了下班回家的我",
-      "onboard_time": 1675737326,
-      "rank": 32,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 269710,
@@ -9537,6 +9577,14 @@
       "onboard_time": 1675428028,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 252217,
+      "num": 252217,
+      "word": "等考研成绩有多难熬",
+      "onboard_time": 1675739428,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 251339,
@@ -10403,6 +10451,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 222972,
+      "num": 222972,
+      "word": "满江红张大一句话触动孙均",
+      "onboard_time": 1675739188,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222477,
       "num": 222477,
       "word": "强震致土叙两国死亡人数已升至百余人",
@@ -10819,6 +10875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205775,
+      "num": 205775,
+      "word": "土耳其地震已在土造成2379人死亡",
+      "onboard_time": 1675736066,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205360,
       "num": 205360,
       "word": "如何看待脱口秀春晚收视率第一",
@@ -11025,14 +11089,6 @@
       "onboard_time": 1675421009,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200354,
-      "num": 200354,
-      "word": "土耳其地震已在土造成2379人死亡",
-      "onboard_time": 1675736066,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200267,
@@ -11803,14 +11859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184306,
-      "num": 184306,
-      "word": "守望先锋2联动一拳超人",
-      "onboard_time": 1675737448,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 184259,
       "num": 184259,
       "word": "微信小号功能仍在测试",
@@ -11865,6 +11913,14 @@
       "onboard_time": 1675242213,
       "rank": 36,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 183026,
+      "num": 183026,
+      "word": "百度类ChatGPT产品名为ERNIEBOT",
+      "onboard_time": 1675738948,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 182521,
@@ -12707,6 +12763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165804,
+      "num": 165804,
+      "word": "少爷和我4季度热点事件TOP1",
+      "onboard_time": 1675739551,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165556,
       "num": 165556,
       "word": "湖南一男子当街殴打掌掴女子",
@@ -13057,14 +13121,6 @@
       "onboard_time": 1675480286,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 157729,
-      "num": 157729,
-      "word": "一央企要求全员背诵董事长金句",
-      "onboard_time": 1675738047,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157419,
@@ -13515,6 +13571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143848,
+      "num": 143848,
+      "word": "移动厕所安透明窗如厕成直播现场",
+      "onboard_time": 1675739727,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143818,
       "num": 143818,
       "word": "时代少年团你好星期六唱的百忧戒",
@@ -13641,6 +13705,14 @@
       "onboard_time": 1675227276,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138850,
+      "num": 138850,
+      "word": "揭秘爆红ChatGPT之父",
+      "onboard_time": 1675739848,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 138687,
@@ -13904,6 +13976,14 @@
       "word": "甜甜的笑容温暖了这个冬天",
       "onboard_time": 1675640723,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131274,
+      "num": 131274,
+      "word": "人保寿险让员工背诵董事长金句",
+      "onboard_time": 1675739909,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
