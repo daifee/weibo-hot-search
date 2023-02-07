@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675769609646,
+  "endTime": 1675773397203,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -91,11 +91,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1984190,
+      "num": 1038504,
+      "word": "用刀教育孩子致死男子获刑12年",
+      "onboard_time": 1675767272,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1935551,
       "num": 1935551,
       "word": "10岁女孩文具店买到性暗示钥匙扣",
       "onboard_time": 1675738707,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1888989,
+      "num": 820892,
+      "word": "丈夫开车碾压拖拽妻子8.5米致其死亡",
+      "onboard_time": 1675771410,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -475,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1038504,
-      "num": 1038504,
-      "word": "用刀教育孩子致死男子获刑12年",
-      "onboard_time": 1675767272,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1028169,
       "num": 767197,
       "word": "肖战新剧杀青笑得好开心",
@@ -625,6 +633,14 @@
       "onboard_time": 1675751848,
       "rank": 10,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 920584,
+      "num": 920584,
+      "word": "中年裸辞意味着什么",
+      "onboard_time": 1675771169,
+      "rank": 1,
+      "category": "影视,社会议题"
     },
     {
       "raw_hot": 911778,
@@ -1139,6 +1155,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 620540,
+      "num": 620540,
+      "word": "狗狗山中走丢24天找到瘦了20斤",
+      "onboard_time": 1675771108,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619206,
       "num": 619206,
       "word": "移动厕所安透明窗如厕成直播现场",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1675695931,
       "rank": 33,
       "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 586661,
+      "num": 586661,
+      "word": "李秀满将起诉SMTOWN理事会",
+      "onboard_time": 1675772609,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 583967,
@@ -1259,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 561060,
+      "num": 561060,
+      "word": "成都平均月薪10039元",
+      "onboard_time": 1675772069,
+      "rank": 8,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 560137,
       "num": 560137,
       "word": "毛晓彤真的好漂亮啊",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1675657294,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 541278,
+      "num": 541278,
+      "word": "任天堂日本所有员工工资上涨10%",
+      "onboard_time": 1675769010,
+      "rank": 35,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 541152,
@@ -2219,12 +2267,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 343520,
+      "num": 343520,
+      "word": "抖音已注册多枚心动外卖商标",
+      "onboard_time": 1675772126,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 342314,
       "num": 342314,
       "word": "狗狗知道东西没买不能上嘴",
       "onboard_time": 1675747110,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 341439,
+      "num": 341439,
+      "word": "张译腿好细",
+      "onboard_time": 1675768410,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 340638,
@@ -2328,6 +2392,14 @@
       "word": "张凌赫用身高压制白鹿",
       "onboard_time": 1675725859,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 322425,
+      "num": 322425,
+      "word": "肖战骄阳伴我杀青vlog",
+      "onboard_time": 1675772430,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -2635,14 +2707,6 @@
       "category": "幽默,影视"
     },
     {
-      "raw_hot": 283394,
-      "num": 283394,
-      "word": "张译腿好细",
-      "onboard_time": 1675768410,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 283327,
       "num": 283327,
       "word": "FPX对战WBG",
@@ -2801,6 +2865,14 @@
       "onboard_time": 1675640060,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267764,
+      "num": 267764,
+      "word": "冬晓赵显分手",
+      "onboard_time": 1675770450,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 267403,
@@ -3091,6 +3163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241717,
+      "num": 241717,
+      "word": "掌门太忙宣布停服",
+      "onboard_time": 1675770509,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241696,
       "num": 241696,
       "word": "年轻时的疯驴子",
@@ -3217,6 +3297,14 @@
       "onboard_time": 1675747952,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231077,
+      "num": 231077,
+      "word": "原来伊斯坦布尔是爱猫之城",
+      "onboard_time": 1675768113,
+      "rank": 45,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 230665,
@@ -3355,14 +3443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 216852,
-      "num": 216852,
-      "word": "任天堂日本所有员工工资上涨10%",
-      "onboard_time": 1675769010,
-      "rank": 35,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 216713,
       "num": 216713,
       "word": "南京夫子庙人海里的定海神针",
@@ -3401,14 +3481,6 @@
       "onboard_time": 1675683570,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214101,
-      "num": 214101,
-      "word": "原来伊斯坦布尔是爱猫之城",
-      "onboard_time": 1675768113,
-      "rank": 45,
-      "category": "情感,旅游"
     },
     {
       "raw_hot": 213230,
@@ -3473,6 +3545,14 @@
       "onboard_time": 1675761270,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207849,
+      "num": 207849,
+      "word": "外卖大战会重现吗",
+      "onboard_time": 1675771346,
+      "rank": 34,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 206721,
@@ -4243,6 +4323,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147001,
+      "num": 147001,
+      "word": "东北小虎队评论区互捧",
+      "onboard_time": 1675771948,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146239,
+      "num": 146239,
+      "word": "金箍棒被骗走社火小猴子大哭",
+      "onboard_time": 1675772790,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143443,
+      "num": 143443,
+      "word": "女子取药时发现医生用手机追剧",
+      "onboard_time": 1675773030,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142488,
       "num": 142488,
       "word": "声声慢",
@@ -4401,6 +4505,14 @@
       "onboard_time": 1675767629,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121546,
+      "num": 121546,
+      "word": "强震已致土耳其叙利亚超5000人遇难",
+      "onboard_time": 1675773271,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121338,
