@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675780405668,
+  "endTime": 1675783165162,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -691,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1764893,
+      "num": 1764893,
+      "word": "张译新闻联播镜头",
+      "onboard_time": 1675779033,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1755488,
       "num": 1755488,
       "word": "美方称发现第二个来自中国的气球",
@@ -1233,14 +1241,6 @@
       "onboard_time": 1675650568,
       "rank": 25,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 1348826,
-      "num": 1348826,
-      "word": "张译新闻联播镜头",
-      "onboard_time": 1675779033,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1343805,
@@ -2395,6 +2395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 922584,
+      "num": 922584,
+      "word": "陈晓陈妍希微信头像都是关于对方",
+      "onboard_time": 1675777593,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 922143,
       "num": 922143,
       "word": "吴刚赵露思罗一舟后浪24节气版预告",
@@ -2667,6 +2675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 863271,
+      "num": 863271,
+      "word": "网友在泰国偶遇鞠婧祎",
+      "onboard_time": 1675782154,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 862849,
       "num": 862849,
       "word": "赵露思演的孙头头人小辈大",
@@ -2793,6 +2809,14 @@
       "onboard_time": 1675683327,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 843818,
+      "num": 843818,
+      "word": "月入一万是什么水平",
+      "onboard_time": 1675781674,
+      "rank": 6,
+      "category": "财经,情感"
     },
     {
       "raw_hot": 843408,
@@ -3395,12 +3419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 731487,
+      "num": 731487,
+      "word": "男友拒不结婚42岁女子独自生养女儿",
+      "onboard_time": 1675779873,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 731023,
       "num": 731023,
       "word": "刘亦菲分享第一次插花plog",
       "onboard_time": 1675255531,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 730996,
+      "num": 730996,
+      "word": "万茜长发",
+      "onboard_time": 1675780654,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 729378,
@@ -3601,14 +3641,6 @@
       "onboard_time": 1675607495,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 706177,
-      "num": 706177,
-      "word": "陈晓陈妍希微信头像都是关于对方",
-      "onboard_time": 1675777593,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 705822,
@@ -4473,6 +4505,14 @@
       "onboard_time": 1675569873,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 610760,
+      "num": 229269,
+      "word": "张常宁悼念父亲",
+      "onboard_time": 1675781193,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 608961,
@@ -5459,6 +5499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522446,
+      "num": 522446,
+      "word": "466元6块糖涉事店铺修改价签",
+      "onboard_time": 1675778193,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522342,
       "num": 522342,
       "word": "iG对战EDG",
@@ -6187,14 +6235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 458508,
-      "num": 458508,
-      "word": "466元6块糖涉事店铺修改价签",
-      "onboard_time": 1675778193,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 458263,
       "num": 458263,
       "word": "陈晓说王一博带来很多惊喜",
@@ -6513,6 +6553,14 @@
       "onboard_time": 1675652847,
       "rank": 39,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 433317,
+      "num": 433317,
+      "word": "学生在他照片下留言IP遍布全国",
+      "onboard_time": 1675780114,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 433077,
@@ -6905,6 +6953,14 @@
       "onboard_time": 1675298789,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409155,
+      "num": 409155,
+      "word": "白百何给员工放假30天",
+      "onboard_time": 1675782154,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 408611,
@@ -7369,6 +7425,14 @@
       "onboard_time": 1675233211,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 387313,
+      "num": 387313,
+      "word": "高叶说评论区不是无人区",
+      "onboard_time": 1675781014,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 386579,
@@ -8393,6 +8457,14 @@
       "onboard_time": 1675572514,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 335276,
+      "num": 335276,
+      "word": "这就是暗恋的真实写照吧",
+      "onboard_time": 1675780771,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 334993,
@@ -9491,6 +9563,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 288074,
+      "num": 288074,
+      "word": "14岁女孩用海姆立克法救被噎爸爸",
+      "onboard_time": 1675780292,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288018,
       "num": 288018,
       "word": "日本考虑放宽对中国旅客入境管控",
@@ -10489,6 +10569,14 @@
       "onboard_time": 1675739428,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 258400,
+      "num": 258400,
+      "word": "鲁班七号头号选手星元",
+      "onboard_time": 1675780714,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 257916,
@@ -11995,6 +12083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211320,
+      "num": 211320,
+      "word": "王者荣耀情人节CG",
+      "onboard_time": 1675779335,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211229,
       "num": 202740,
       "word": "成毅吹笛子",
@@ -12339,14 +12435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201254,
-      "num": 201254,
-      "word": "王者荣耀情人节CG",
-      "onboard_time": 1675779335,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 201192,
       "num": 201192,
       "word": "狂飙的取景地找到了",
@@ -12579,14 +12667,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 196590,
-      "num": 196590,
-      "word": "男友拒不结婚42岁女子独自生养女儿",
-      "onboard_time": 1675779873,
-      "rank": 34,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 196316,
       "num": 196316,
       "word": "如何辨别青少年潜在抑郁的求救信号",
@@ -12689,6 +12769,14 @@
       "onboard_time": 1675329756,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194520,
+      "num": 194520,
+      "word": "搞宫斗还得看TVB台庆",
+      "onboard_time": 1675778311,
+      "rank": 43,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 194362,
@@ -13267,14 +13355,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 184034,
-      "num": 184034,
-      "word": "搞宫斗还得看TVB台庆",
-      "onboard_time": 1675778311,
-      "rank": 43,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 183987,
       "num": 183987,
       "word": "魏晨央视元宵晚会录制路透",
@@ -13353,6 +13433,14 @@
       "onboard_time": 1675661189,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182194,
+      "num": 182194,
+      "word": "宋宁峰看张婉婷写给婆婆的话哭了",
+      "onboard_time": 1675781914,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 181929,
@@ -14979,14 +15067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146903,
-      "num": 146903,
-      "word": "学生在他照片下留言IP遍布全国",
-      "onboard_time": 1675780114,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 146795,
       "num": 146795,
       "word": "7旬修车大爷自学木雕刻近百件作品",
@@ -15379,14 +15459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133758,
-      "num": 133758,
-      "word": "14岁女孩用海姆立克法救被噎爸爸",
-      "onboard_time": 1675780292,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133513,
       "num": 133513,
       "word": "不小心丢失手机后该怎么做",
@@ -15627,6 +15699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124900,
+      "num": 124900,
+      "word": "金玲",
+      "onboard_time": 1675782574,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 124715,
       "num": 124715,
       "word": "华晨宇的愿望是飞行模式自由",
@@ -15721,6 +15801,14 @@
       "onboard_time": 1675639701,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120696,
+      "num": 120696,
+      "word": "张颂文是懂哄孩子的",
+      "onboard_time": 1675783052,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 120458,

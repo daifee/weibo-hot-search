@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675780405668,
+  "endTime": 1675783165162,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1764893,
+      "num": 1764893,
+      "word": "张译新闻联播镜头",
+      "onboard_time": 1675779033,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1755488,
       "num": 1755488,
       "word": "美方称发现第二个来自中国的气球",
@@ -297,14 +305,6 @@
       "onboard_time": 1675650568,
       "rank": 25,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 1348826,
-      "num": 1348826,
-      "word": "张译新闻联播镜头",
-      "onboard_time": 1675779033,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1325846,
@@ -691,6 +691,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 922584,
+      "num": 922584,
+      "word": "陈晓陈妍希微信头像都是关于对方",
+      "onboard_time": 1675777593,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 911778,
       "num": 911778,
       "word": "非正式会谈唐小强被埋废墟下",
@@ -755,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 863271,
+      "num": 863271,
+      "word": "网友在泰国偶遇鞠婧祎",
+      "onboard_time": 1675782154,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 862418,
       "num": 862418,
       "word": "狂飙小五扮演者说和安欣是师徒情",
@@ -801,6 +817,14 @@
       "onboard_time": 1675683327,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 843818,
+      "num": 843818,
+      "word": "月入一万是什么水平",
+      "onboard_time": 1675781674,
+      "rank": 6,
+      "category": "财经,情感"
     },
     {
       "raw_hot": 843408,
@@ -979,6 +1003,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 731487,
+      "num": 731487,
+      "word": "男友拒不结婚42岁女子独自生养女儿",
+      "onboard_time": 1675779873,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 730996,
+      "num": 730996,
+      "word": "万茜长发",
+      "onboard_time": 1675780654,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 726221,
       "num": 726221,
       "word": "父亲年三十去世男子离家时强忍泪水",
@@ -1016,14 +1056,6 @@
       "word": "孙怡再见爱人激动了一整期",
       "onboard_time": 1675749510,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 706177,
-      "num": 706177,
-      "word": "陈晓陈妍希微信头像都是关于对方",
-      "onboard_time": 1675777593,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -1257,6 +1289,14 @@
       "onboard_time": 1675607553,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 610760,
+      "num": 229269,
+      "word": "张常宁悼念父亲",
+      "onboard_time": 1675781193,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 606069,
@@ -1603,6 +1643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 522446,
+      "num": 522446,
+      "word": "466元6块糖涉事店铺修改价签",
+      "onboard_time": 1675778193,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522081,
       "num": 522081,
       "word": "女子称海鲜市场买到蓝环章鱼险食用",
@@ -1795,14 +1843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 458508,
-      "num": 458508,
-      "word": "466元6块糖涉事店铺修改价签",
-      "onboard_time": 1675778193,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 456165,
       "num": 456165,
       "word": "赵樱子扮演的裘千尺",
@@ -1897,6 +1937,14 @@
       "onboard_time": 1675652847,
       "rank": 39,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 433317,
+      "num": 433317,
+      "word": "学生在他照片下留言IP遍布全国",
+      "onboard_time": 1675780114,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 432651,
@@ -2009,6 +2057,14 @@
       "onboard_time": 1675733725,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409155,
+      "num": 409155,
+      "word": "白百何给员工放假30天",
+      "onboard_time": 1675782154,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 409109,
@@ -2177,6 +2233,14 @@
       "onboard_time": 1675620855,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 387313,
+      "num": 387313,
+      "word": "高叶说评论区不是无人区",
+      "onboard_time": 1675781014,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 386391,
@@ -2432,6 +2496,14 @@
       "word": "网传声生不息宝岛季首期录制歌单",
       "onboard_time": 1675744416,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 335276,
+      "num": 335276,
+      "word": "这就是暗恋的真实写照吧",
+      "onboard_time": 1675780771,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -2819,6 +2891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288074,
+      "num": 288074,
+      "word": "14岁女孩用海姆立克法救被噎爸爸",
+      "onboard_time": 1675780292,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287283,
       "num": 287283,
       "word": "路人视角下的唐嫣状态",
@@ -3137,6 +3217,14 @@
       "onboard_time": 1675739428,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 258400,
+      "num": 258400,
+      "word": "鲁班七号头号选手星元",
+      "onboard_time": 1675780714,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 256927,
@@ -3667,6 +3755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211320,
+      "num": 211320,
+      "word": "王者荣耀情人节CG",
+      "onboard_time": 1675779335,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211229,
       "num": 202740,
       "word": "成毅吹笛子",
@@ -3771,14 +3867,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 201254,
-      "num": 201254,
-      "word": "王者荣耀情人节CG",
-      "onboard_time": 1675779335,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 201134,
       "num": 201134,
       "word": "滑出了半身不遂的感觉",
@@ -3859,14 +3947,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 196590,
-      "num": 196590,
-      "word": "男友拒不结婚42岁女子独自生养女儿",
-      "onboard_time": 1675779873,
-      "rank": 34,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 195978,
       "num": 195978,
       "word": "郑秀妍素颜下午茶随拍",
@@ -3889,6 +3969,14 @@
       "onboard_time": 1675759531,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 194520,
+      "num": 194520,
+      "word": "搞宫斗还得看TVB台庆",
+      "onboard_time": 1675778311,
+      "rank": 43,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 193087,
@@ -3995,14 +4083,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 184034,
-      "num": 184034,
-      "word": "搞宫斗还得看TVB台庆",
-      "onboard_time": 1675778311,
-      "rank": 43,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 183971,
       "num": 183971,
       "word": "猫咪的爪子到底有多可爱",
@@ -4041,6 +4121,14 @@
       "onboard_time": 1675661189,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182194,
+      "num": 182194,
+      "word": "宋宁峰看张婉婷写给婆婆的话哭了",
+      "onboard_time": 1675781914,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 182020,
@@ -4523,14 +4611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146903,
-      "num": 146903,
-      "word": "学生在他照片下留言IP遍布全国",
-      "onboard_time": 1675780114,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 142488,
       "num": 142488,
       "word": "声声慢",
@@ -4585,14 +4665,6 @@
       "onboard_time": 1675662687,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133758,
-      "num": 133758,
-      "word": "14岁女孩用海姆立克法救被噎爸爸",
-      "onboard_time": 1675780292,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132553,
@@ -4667,6 +4739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124900,
+      "num": 124900,
+      "word": "金玲",
+      "onboard_time": 1675782574,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 123873,
       "num": 123873,
       "word": "周深毛不易 双厨狂喜",
@@ -4721,6 +4801,14 @@
       "onboard_time": 1675639701,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120696,
+      "num": 120696,
+      "word": "张颂文是懂哄孩子的",
+      "onboard_time": 1675783052,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 120600,
