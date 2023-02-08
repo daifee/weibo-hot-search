@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675887621067,
+  "endTime": 1675888426997,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -7459,8 +7459,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 24040,
-      "num": 24040,
+      "raw_hot": 25903,
+      "num": 25903,
       "word": "你们粉丝整活有够荒谬的",
       "onboard_time": 1675885391,
       "rank": 20,
@@ -7481,6 +7481,14 @@
       "onboard_time": 1675566031,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13041,
+      "num": 13041,
+      "word": "中国以全球最高价进口俄油系误导",
+      "onboard_time": 1675888212,
+      "rank": 45,
+      "category": "财经,社会新闻"
     }
   ],
   "hotgov_list": [
