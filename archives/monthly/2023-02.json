@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675831146343,
+  "endTime": 1675833467377,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -41,6 +41,14 @@
       "onboard_time": 1675568914,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5524134,
+      "num": 5524134,
+      "word": "詹姆斯NBA历史得分王",
+      "onboard_time": 1675832618,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 4706035,
@@ -555,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1951235,
+      "num": 1951235,
+      "word": "台湾永远不可能成为一个国家",
+      "onboard_time": 1675830996,
+      "rank": 44,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1949008,
       "num": 1949008,
       "word": "嗯哼长青春痘了",
@@ -617,6 +633,14 @@
       "onboard_time": 1675413509,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1864394,
+      "num": 1864394,
+      "word": "詹姆斯认为自己是史上最佳球员",
+      "onboard_time": 1675819350,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1864323,
@@ -1043,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1517371,
+      "num": 1517371,
+      "word": "13岁男孩考试18分被父亲意外刺死",
+      "onboard_time": 1675829675,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1515338,
       "num": 1515338,
       "word": "上海平均月薪10605元",
@@ -1147,6 +1179,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 1460492,
+      "num": 1460492,
+      "word": "王骁 嘉行",
+      "onboard_time": 1675832736,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1450049,
       "num": 715706,
       "word": "女生第一次去男友家被安排吃剩菜洗碗",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1675524152,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1403303,
+      "num": 1403303,
+      "word": "詹姆斯纪录之夜",
+      "onboard_time": 1675827929,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1387108,
@@ -1569,6 +1617,14 @@
       "onboard_time": 1675648947,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1217427,
+      "num": 1217427,
+      "word": "我国结婚登记连续八年下降",
+      "onboard_time": 1675831357,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1216447,
@@ -2187,14 +2243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 992634,
-      "num": 992634,
-      "word": "詹姆斯纪录之夜",
-      "onboard_time": 1675827929,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 992193,
       "num": 992193,
       "word": "超女快男集体发文呼唤舞台",
@@ -2257,14 +2305,6 @@
       "onboard_time": 1675223014,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 974752,
-      "num": 974752,
-      "word": "13岁男孩考试18分被父亲意外刺死",
-      "onboard_time": 1675829675,
-      "rank": 28,
-      "category": "社会负面"
     },
     {
       "raw_hot": 974020,
@@ -2683,6 +2723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 895806,
+      "num": 895806,
+      "word": "嘉行2023艺人合集没有杨幂",
+      "onboard_time": 1675830335,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 895236,
       "num": 895236,
       "word": "年轻人真实薪资水平到底如何",
@@ -2977,14 +3025,6 @@
       "onboard_time": 1675177776,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 832660,
-      "num": 832660,
-      "word": "嘉行2023艺人合集没有杨幂",
-      "onboard_time": 1675830335,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 830645,
@@ -3409,14 +3449,6 @@
       "onboard_time": 1675296145,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 763380,
-      "num": 763380,
-      "word": "詹姆斯认为自己是史上最佳球员",
-      "onboard_time": 1675819350,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 761400,
@@ -4307,6 +4339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 656790,
+      "num": 656790,
+      "word": "高启强上岸从一袋橘子开始",
+      "onboard_time": 1675828710,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 656396,
       "num": 656396,
       "word": "流浪地球2里的机甲不是特效",
@@ -4729,14 +4769,6 @@
       "onboard_time": 1675607613,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 613992,
-      "num": 613992,
-      "word": "高启强上岸从一袋橘子开始",
-      "onboard_time": 1675828710,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 611454,
@@ -6715,6 +6747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 447910,
+      "num": 447910,
+      "word": "3岁女童喊脚疼被确诊癌症晚期",
+      "onboard_time": 1675832855,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446930,
       "num": 446930,
       "word": "兔年想活成曾黎",
@@ -7265,6 +7305,14 @@
       "onboard_time": 1675749632,
       "rank": 23,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 411514,
+      "num": 411514,
+      "word": "名侦探学院第九条校规",
+      "onboard_time": 1675831957,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 411307,
@@ -7849,6 +7897,14 @@
       "onboard_time": 1675608931,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385341,
+      "num": 385341,
+      "word": "满江红成中国影史票房榜第8名",
+      "onboard_time": 1675832855,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 385314,
@@ -9083,6 +9139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326150,
+      "num": 326150,
+      "word": "邓超44岁实绩图",
+      "onboard_time": 1675830874,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 326109,
       "num": 326109,
       "word": "杨颖宋威龙任豪剧组聚餐",
@@ -9739,6 +9803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299092,
+      "num": 299092,
+      "word": "NBA",
+      "onboard_time": 1675830275,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299026,
       "num": 299026,
       "word": "金钟仁说正在准备solo3辑",
@@ -9849,6 +9921,14 @@
       "onboard_time": 1675399773,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 296002,
+      "num": 296002,
+      "word": "黄晓明说眼泪和情绪解决不了问题",
+      "onboard_time": 1675831957,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 295787,
@@ -10465,6 +10545,14 @@
       "onboard_time": 1675324410,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 276417,
+      "num": 276417,
+      "word": "这就是solo艺人的烦恼吧",
+      "onboard_time": 1675831896,
+      "rank": 35,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 276279,
@@ -11515,6 +11603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 247594,
+      "num": 247594,
+      "word": "狂飙导演谈安欣和高启强的原型",
+      "onboard_time": 1675832495,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247541,
       "num": 5052528,
       "word": "春天的脚步越来越近了",
@@ -11793,6 +11889,14 @@
       "onboard_time": 1675757913,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238635,
+      "num": 238635,
+      "word": "2023KPL春季赛定妆照",
+      "onboard_time": 1675833453,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 238363,
@@ -12571,14 +12675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 215583,
-      "num": 215583,
-      "word": "NBA",
-      "onboard_time": 1675830275,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215258,
       "num": 215258,
       "word": "嫌疑人亲属曾是遇袭医生的患者",
@@ -12755,6 +12851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211594,
+      "num": 211594,
+      "word": "雷霆vs湖人",
+      "onboard_time": 1675822165,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211563,
       "num": 211563,
       "word": "狂飙警察四人组里有一人真是警察",
@@ -12833,14 +12937,6 @@
       "onboard_time": 1675581807,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209382,
-      "num": 209382,
-      "word": "邓超44岁实绩图",
-      "onboard_time": 1675830874,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208381,
@@ -12945,14 +13041,6 @@
       "onboard_time": 1675820307,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205469,
-      "num": 205469,
-      "word": "雷霆vs湖人",
-      "onboard_time": 1675822165,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 205360,
@@ -13249,14 +13337,6 @@
       "onboard_time": 1675582527,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199573,
-      "num": 199573,
-      "word": "台湾永远不可能成为一个国家",
-      "onboard_time": 1675830996,
-      "rank": 44,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 199550,
@@ -16883,6 +16963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 105021,
+      "num": 1951418,
+      "word": "人勤春来早田间农事忙",
+      "onboard_time": 1675830213,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102873,
       "num": 2043644,
       "word": "花海为祖国山河开启温柔滤镜",
@@ -17209,14 +17297,6 @@
       "onboard_time": 1675183762,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 71847,
-      "num": 1451693,
-      "word": "人勤春来早田间农事忙",
-      "onboard_time": 1675830213,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71290,
@@ -17547,6 +17627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32595,
+      "num": 238765,
+      "word": "这届饿了么免单题好简单",
+      "onboard_time": 1675832433,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 30425,
       "num": 30425,
       "word": "宋亚轩晒乌托邦乐园花絮照",
@@ -17729,6 +17817,9 @@
     },
     {
       "word": "#开局之年第一课为我们指明了方向#"
+    },
+    {
+      "word": "#习主席就追索流失文物发出的中国声音#"
     }
   ]
 }

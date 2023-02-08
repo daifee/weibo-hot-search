@@ -1,7 +1,15 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675831146343,
+  "endTime": 1675833467377,
   "band_list": [
+    {
+      "raw_hot": 5524134,
+      "num": 5524134,
+      "word": "詹姆斯NBA历史得分王",
+      "onboard_time": 1675832618,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 4706035,
       "num": 1999165,
@@ -35,12 +43,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1951235,
+      "num": 1951235,
+      "word": "台湾永远不可能成为一个国家",
+      "onboard_time": 1675830996,
+      "rank": 44,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1947901,
       "num": 1947901,
       "word": "杨幂 要是有就再加麻加辣",
       "onboard_time": 1675824027,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1864394,
+      "num": 1864394,
+      "word": "詹姆斯认为自己是史上最佳球员",
+      "onboard_time": 1675819350,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1765473,
@@ -51,12 +75,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1517371,
+      "num": 1517371,
+      "word": "13岁男孩考试18分被父亲意外刺死",
+      "onboard_time": 1675829675,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1496835,
       "num": 1496835,
       "word": "田亮女儿首获青少年世界排名",
       "onboard_time": 1675825049,
       "rank": 30,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1460492,
+      "num": 1460492,
+      "word": "王骁 嘉行",
+      "onboard_time": 1675832736,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1433282,
@@ -67,11 +107,27 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1403303,
+      "num": 1403303,
+      "word": "詹姆斯纪录之夜",
+      "onboard_time": 1675827929,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1264453,
       "num": 1264453,
       "word": "新冠病毒去哪了它会消失吗",
       "onboard_time": 1675823846,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1217427,
+      "num": 1217427,
+      "word": "我国结婚登记连续八年下降",
+      "onboard_time": 1675831357,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -115,20 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 992634,
-      "num": 992634,
-      "word": "詹姆斯纪录之夜",
-      "onboard_time": 1675827929,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 974752,
-      "num": 974752,
-      "word": "13岁男孩考试18分被父亲意外刺死",
-      "onboard_time": 1675829675,
-      "rank": 28,
-      "category": "社会负面"
+      "raw_hot": 895806,
+      "num": 895806,
+      "word": "嘉行2023艺人合集没有杨幂",
+      "onboard_time": 1675830335,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 871329,
@@ -145,14 +193,6 @@
       "onboard_time": 1675824567,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 832660,
-      "num": 832660,
-      "word": "嘉行2023艺人合集没有杨幂",
-      "onboard_time": 1675830335,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 821599,
@@ -193,14 +233,6 @@
       "onboard_time": 1675824928,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 763380,
-      "num": 763380,
-      "word": "詹姆斯认为自己是史上最佳球员",
-      "onboard_time": 1675819350,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 759556,
@@ -259,8 +291,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 613992,
-      "num": 613992,
+      "raw_hot": 656790,
+      "num": 656790,
       "word": "高启强上岸从一袋橘子开始",
       "onboard_time": 1675828710,
       "rank": 19,
@@ -403,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447910,
+      "num": 447910,
+      "word": "3岁女童喊脚疼被确诊癌症晚期",
+      "onboard_time": 1675832855,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440779,
       "num": 440779,
       "word": "网友在泰国偶遇鞠婧祎",
@@ -451,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411514,
+      "num": 411514,
+      "word": "名侦探学院第九条校规",
+      "onboard_time": 1675831957,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404291,
       "num": 404291,
       "word": "白百何给员工放假30天",
@@ -473,6 +521,14 @@
       "onboard_time": 1675823428,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 385341,
+      "num": 385341,
+      "word": "满江红成中国影史票房榜第8名",
+      "onboard_time": 1675832855,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 381927,
@@ -547,6 +603,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 326150,
+      "num": 326150,
+      "word": "邓超44岁实绩图",
+      "onboard_time": 1675830874,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 322217,
       "num": 289510,
       "word": "山东有一个公交站叫满江红",
@@ -595,12 +659,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299092,
+      "num": 299092,
+      "word": "NBA",
+      "onboard_time": 1675830275,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296931,
       "num": 296931,
       "word": "杨卫宁叶文洁终得正果",
       "onboard_time": 1675817309,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296002,
+      "num": 296002,
+      "word": "黄晓明说眼泪和情绪解决不了问题",
+      "onboard_time": 1675831957,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 295588,
@@ -667,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276417,
+      "num": 276417,
+      "word": "这就是solo艺人的烦恼吧",
+      "onboard_time": 1675831896,
+      "rank": 35,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 274213,
       "num": 274213,
       "word": "张常宁悼念父亲",
@@ -723,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247594,
+      "num": 247594,
+      "word": "狂飙导演谈安欣和高启强的原型",
+      "onboard_time": 1675832495,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246119,
       "num": 246119,
       "word": "这趟火车是自习室主题的",
@@ -737,6 +833,14 @@
       "onboard_time": 1675821566,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238635,
+      "num": 238635,
+      "word": "2023KPL春季赛定妆照",
+      "onboard_time": 1675833453,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 238363,
@@ -811,14 +915,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 215583,
-      "num": 215583,
-      "word": "NBA",
-      "onboard_time": 1675830275,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 214952,
       "num": 214952,
       "word": "亲爱的乘客你好开播",
@@ -835,12 +931,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209382,
-      "num": 209382,
-      "word": "邓超44岁实绩图",
-      "onboard_time": 1675830874,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 211594,
+      "num": 211594,
+      "word": "雷霆vs湖人",
+      "onboard_time": 1675822165,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 207594,
@@ -867,14 +963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205469,
-      "num": 205469,
-      "word": "雷霆vs湖人",
-      "onboard_time": 1675822165,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205186,
       "num": 205186,
       "word": "狂飙里有哪些细思极恐的细节",
@@ -889,14 +977,6 @@
       "onboard_time": 1675809795,
       "rank": 22,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 199573,
-      "num": 199573,
-      "word": "台湾永远不可能成为一个国家",
-      "onboard_time": 1675830996,
-      "rank": 44,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 198510,
@@ -1147,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105021,
+      "num": 1951418,
+      "word": "人勤春来早田间农事忙",
+      "onboard_time": 1675830213,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104450,
       "num": 104450,
       "word": "任天堂日本所有员工工资上涨10%",
@@ -1283,14 +1371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 71847,
-      "num": 1451693,
-      "word": "人勤春来早田间农事忙",
-      "onboard_time": 1675830213,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58240,
       "num": 58240,
       "word": "宁安如梦集数变更",
@@ -1331,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 32595,
+      "num": 238765,
+      "word": "这届饿了么免单题好简单",
+      "onboard_time": 1675832433,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 28728,
       "num": 28728,
       "word": "王佳怡再唱樱桃曲梦回满江红瑶琴",
@@ -1359,6 +1447,9 @@
     },
     {
       "word": "#开局之年第一课为我们指明了方向#"
+    },
+    {
+      "word": "#习主席就追索流失文物发出的中国声音#"
     }
   ]
 }
