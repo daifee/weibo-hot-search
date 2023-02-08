@@ -1,7 +1,15 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675827406476,
+  "endTime": 1675830221238,
   "band_list": [
+    {
+      "raw_hot": 4706035,
+      "num": 1999165,
+      "word": "法定婚龄降到18岁会提升初婚率吗",
+      "onboard_time": 1675825650,
+      "rank": 12,
+      "category": "社会议题"
+    },
     {
       "raw_hot": 2267638,
       "num": 2267638,
@@ -19,19 +27,19 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2056431,
+      "num": 2056431,
+      "word": "狂飙庆功宴",
+      "onboard_time": 1675825230,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1947901,
       "num": 1947901,
       "word": "杨幂 要是有就再加麻加辣",
       "onboard_time": 1675824027,
       "rank": 10,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1835346,
-      "num": 1835346,
-      "word": "狂飙庆功宴",
-      "onboard_time": 1675825230,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -41,14 +49,6 @@
       "onboard_time": 1675820847,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1560138,
-      "num": 1560138,
-      "word": "法定婚龄降到18岁会提升初婚率吗",
-      "onboard_time": 1675825650,
-      "rank": 12,
-      "category": "社会议题"
     },
     {
       "raw_hot": 1378188,
@@ -65,6 +65,14 @@
       "onboard_time": 1675823846,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1199431,
+      "num": 1199431,
+      "word": "四川失联一个月18岁女生遗体在江中发现",
+      "onboard_time": 1675826849,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1161018,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 992634,
+      "num": 992634,
+      "word": "詹姆斯纪录之夜",
+      "onboard_time": 1675827929,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 871329,
       "num": 871329,
       "word": "张译新闻联播镜头",
@@ -113,6 +129,14 @@
       "onboard_time": 1675824567,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 828352,
+      "num": 828352,
+      "word": "女子应聘行政岗被要求只要单身",
+      "onboard_time": 1675827449,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 821599,
@@ -155,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 763380,
+      "num": 763380,
+      "word": "詹姆斯认为自己是史上最佳球员",
+      "onboard_time": 1675819350,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 759556,
       "num": 759556,
       "word": "微软正式将ChatGPT引入必应",
@@ -195,12 +227,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 644802,
-      "num": 644802,
-      "word": "詹姆斯认为自己是史上最佳球员",
-      "onboard_time": 1675819350,
-      "rank": 11,
-      "category": "体育"
+      "raw_hot": 667521,
+      "num": 667521,
+      "word": "EXO将举办粉丝见面会",
+      "onboard_time": 1675827690,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 657258,
+      "num": 657258,
+      "word": "苏醒 我是支持虎子和嘘嘘的",
+      "onboard_time": 1675828470,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 613992,
+      "num": 613992,
+      "word": "高启强上岸从一袋橘子开始",
+      "onboard_time": 1675828710,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 608237,
@@ -331,12 +379,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452576,
+      "num": 452576,
+      "word": "男子在玉龙雪山假借拍照求婚",
+      "onboard_time": 1675827753,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440779,
       "num": 440779,
       "word": "网友在泰国偶遇鞠婧祎",
       "onboard_time": 1675782154,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 438979,
+      "num": 438979,
+      "word": "时代少年团全员休闲风造型",
+      "onboard_time": 1675829792,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 435496,
@@ -379,6 +443,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385825,
+      "num": 385825,
+      "word": "ChatGPT会不会使底层程序员失业",
+      "onboard_time": 1675823428,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 383352,
+      "num": 383352,
+      "word": "土耳其",
+      "onboard_time": 1675816467,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381927,
+      "num": 381927,
+      "word": "2022台湾十大热门大陆剧",
+      "onboard_time": 1675824567,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 372806,
+      "num": 372806,
+      "word": "13岁男孩考试18分被父亲意外刺死",
+      "onboard_time": 1675829675,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 368710,
       "num": 368710,
       "word": "10月宝宝在自家工厂实现童车自由",
@@ -403,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349422,
-      "num": 349422,
-      "word": "四川失联一个月18岁女生遗体在江中发现",
-      "onboard_time": 1675826849,
-      "rank": 17,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 346222,
       "num": 346222,
       "word": "杜华帮儿子要虞书欣签名照",
@@ -419,28 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 341534,
-      "num": 341534,
-      "word": "土耳其",
-      "onboard_time": 1675816467,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 340635,
       "num": 340635,
       "word": "这就是女生最想要的求婚吧",
       "onboard_time": 1675823127,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 340112,
-      "num": 340112,
-      "word": "ChatGPT会不会使底层程序员失业",
-      "onboard_time": 1675823428,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 334593,
@@ -473,6 +545,22 @@
       "onboard_time": 1675820427,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319340,
+      "num": 319340,
+      "word": "重庆警方培训出全国第一批缉毒松鼠",
+      "onboard_time": 1675826249,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311741,
+      "num": 311741,
+      "word": "王一博无名片场学日语花絮",
+      "onboard_time": 1675828172,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 308644,
@@ -531,11 +619,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 293588,
-      "num": 293588,
-      "word": "2022台湾十大热门大陆剧",
-      "onboard_time": 1675824567,
-      "rank": 32,
+      "raw_hot": 286312,
+      "num": 286312,
+      "word": "满江红里的小人物",
+      "onboard_time": 1675830034,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -619,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246119,
+      "num": 246119,
+      "word": "这趟火车是自习室主题的",
+      "onboard_time": 1675827151,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241403,
       "num": 241403,
       "word": "边水往事官宣杀青",
@@ -699,6 +795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214952,
+      "num": 214952,
+      "word": "亲爱的乘客你好开播",
+      "onboard_time": 1675829615,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214870,
       "num": 214870,
       "word": "欧文说和杜兰特仍是兄弟",
@@ -729,6 +833,14 @@
       "onboard_time": 1675820307,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205469,
+      "num": 205469,
+      "word": "雷霆vs湖人",
+      "onboard_time": 1675822165,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 205186,
@@ -827,12 +939,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174389,
-      "num": 174389,
-      "word": "重庆警方培训出全国第一批缉毒松鼠",
-      "onboard_time": 1675826249,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 174529,
+      "num": 174529,
+      "word": "藏在故宫里的24节气美景",
+      "onboard_time": 1675829191,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 173260,
@@ -865,14 +977,6 @@
       "onboard_time": 1675771169,
       "rank": 33,
       "category": "影视,社会议题"
-    },
-    {
-      "raw_hot": 163275,
-      "num": 163275,
-      "word": "这趟火车是自习室主题的",
-      "onboard_time": 1675827151,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 161241,
@@ -1193,6 +1297,14 @@
       "onboard_time": 1675756171,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 6321,
+      "num": 1381360,
+      "word": "人勤春来早田间农事忙",
+      "onboard_time": 1675830213,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
