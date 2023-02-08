@@ -1,6 +1,6 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675837389518,
+  "endTime": 1675838291573,
   "band_list": [
     {
       "raw_hot": 5524134,
@@ -227,6 +227,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 812967,
+      "num": 812967,
+      "word": "警方回应连云港14岁少女疑被迫吸毒",
+      "onboard_time": 1675836270,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 801361,
       "num": 801361,
       "word": "安欣没救到的只有李响",
@@ -355,20 +363,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 580081,
+      "num": 580081,
+      "word": "李秀满住院接受治疗",
+      "onboard_time": 1675837828,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578474,
       "num": 578474,
       "word": "土耳其地震已致该国5894人死亡",
       "onboard_time": 1675813042,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 538258,
-      "num": 538258,
-      "word": "警方回应连云港14岁少女疑被迫吸毒",
-      "onboard_time": 1675836270,
-      "rank": 11,
-      "category": "社会负面"
     },
     {
       "raw_hot": 535471,
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444666,
+      "num": 444666,
+      "word": "女子看到空调工高空作业瞬间被戳中",
+      "onboard_time": 1675835370,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440779,
       "num": 440779,
       "word": "网友在泰国偶遇鞠婧祎",
@@ -496,14 +512,6 @@
       "word": "25岁女生记录矫正牙齿全过程",
       "onboard_time": 1675804990,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435309,
-      "num": 435309,
-      "word": "女子看到空调工高空作业瞬间被戳中",
-      "onboard_time": 1675835370,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -547,12 +555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400142,
+      "num": 400142,
+      "word": "杨幂新电影开机路透图",
+      "onboard_time": 1675837590,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 397712,
       "num": 397712,
       "word": "土耳其",
       "onboard_time": 1675816467,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391946,
+      "num": 391946,
+      "word": "大姨妈真的会传染吗",
+      "onboard_time": 1675837110,
+      "rank": 48,
+      "category": "其它"
     },
     {
       "raw_hot": 385825,
@@ -611,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342583,
+      "num": 342583,
+      "word": "井柏然宋威龙新浪合体扫楼",
+      "onboard_time": 1675837170,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340635,
       "num": 340635,
       "word": "这就是女生最想要的求婚吧",
@@ -641,6 +673,14 @@
       "onboard_time": 1675830874,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323556,
+      "num": 323556,
+      "word": "王鹤棣说詹姆斯是超级英雄",
+      "onboard_time": 1675837770,
+      "rank": 23,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 322217,
@@ -675,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 314330,
+      "num": 314330,
+      "word": "詹姆斯哭了",
+      "onboard_time": 1675836209,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313343,
       "num": 313343,
       "word": "这就是solo艺人的烦恼吧",
@@ -699,20 +747,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 302250,
-      "num": 302250,
-      "word": "詹姆斯哭了",
-      "onboard_time": 1675836209,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 300498,
       "num": 300498,
       "word": "欧文说和詹姆斯永远是兄弟",
       "onboard_time": 1675820968,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300248,
+      "num": 300248,
+      "word": "幼儿园开学小朋友们暴风哭泣",
+      "onboard_time": 1675835730,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 299092,
@@ -809,14 +857,6 @@
       "onboard_time": 1675781193,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273543,
-      "num": 273543,
-      "word": "幼儿园开学小朋友们暴风哭泣",
-      "onboard_time": 1675835730,
-      "rank": 26,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 273528,
@@ -1035,14 +1075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197756,
-      "num": 197756,
-      "word": "井柏然宋威龙新浪合体扫楼",
-      "onboard_time": 1675837170,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 194029,
       "num": 194029,
       "word": "骄阳伴我杀青特辑",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1675821268,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 187096,
+      "num": 187096,
+      "word": "当给妈妈说去殡仪馆上班后",
+      "onboard_time": 1675837949,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 184693,
@@ -1171,6 +1211,14 @@
       "category": "影视,社会议题"
     },
     {
+      "raw_hot": 161410,
+      "num": 161410,
+      "word": "许魏洲说这回该我们上场了",
+      "onboard_time": 1675837590,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161241,
       "num": 161241,
       "word": "陈飞宇不过情人节",
@@ -1193,14 +1241,6 @@
       "onboard_time": 1675780292,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156645,
-      "num": 156645,
-      "word": "大姨妈真的会传染吗",
-      "onboard_time": 1675837110,
-      "rank": 48,
-      "category": "其它"
     },
     {
       "raw_hot": 154295,
