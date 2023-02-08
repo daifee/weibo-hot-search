@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675891992515,
+  "endTime": 1675894690758,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -6771,6 +6771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144142,
+      "num": 56872,
+      "word": "土耳其2岁男孩被压废墟44小时不哭不闹",
+      "onboard_time": 1675891932,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143143,
       "num": 143143,
       "word": "赵露思哭戏路透",
@@ -6979,6 +6987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 124812,
+      "num": 56461,
+      "word": "中国以全球最高价进口俄油系误导",
+      "onboard_time": 1675888212,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 123873,
       "num": 123873,
       "word": "周深毛不易 双厨狂喜",
@@ -7129,14 +7145,6 @@
       "onboard_time": 1675855172,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 113519,
-      "num": 43807,
-      "word": "中国以全球最高价进口俄油系误导",
-      "onboard_time": 1675888212,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 113045,
@@ -7451,20 +7459,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 38678,
+      "num": 38678,
+      "word": "你期待杨幂新电影吗",
+      "onboard_time": 1675890432,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 35517,
       "num": 35517,
       "word": "横看成岭侧成峰的发型",
       "onboard_time": 1675794194,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 30437,
-      "num": 30437,
-      "word": "你期待杨幂新电影吗",
-      "onboard_time": 1675890432,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 28728,
@@ -7496,14 +7504,6 @@
       "word": "今天元宵节",
       "onboard_time": 1675566031,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10961,
-      "num": 10961,
-      "word": "土耳其2岁男孩被压废墟44小时不哭不闹",
-      "onboard_time": 1675891932,
-      "rank": 49,
       "category": "社会新闻"
     }
   ],
