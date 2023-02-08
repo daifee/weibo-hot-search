@@ -1,6 +1,6 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675841633829,
+  "endTime": 1675844669242,
   "band_list": [
     {
       "raw_hot": 5524134,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1354027,
+      "num": 1354027,
+      "word": "丈夫开车碾轧妻子案出新疑点",
+      "onboard_time": 1675839147,
+      "rank": 16,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1334718,
       "num": 1334718,
       "word": "张译ip地址在海南",
@@ -152,6 +160,14 @@
       "word": "新冠病毒去哪了它会消失吗",
       "onboard_time": 1675823846,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1216011,
+      "num": 1216011,
+      "word": "宝鸡发现1例全球罕见黄金血型",
+      "onboard_time": 1675843711,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -177,6 +193,14 @@
       "onboard_time": 1675781674,
       "rank": 0,
       "category": "财经,情感"
+    },
+    {
+      "raw_hot": 1116581,
+      "num": 1116581,
+      "word": "张颂文给后援会会长骨髓配型",
+      "onboard_time": 1675840049,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1098006,
@@ -267,14 +291,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 805234,
-      "num": 775190,
-      "word": "张颂文给后援会会长骨髓配型",
-      "onboard_time": 1675840049,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 801361,
       "num": 801361,
       "word": "安欣没救到的只有李响",
@@ -289,14 +305,6 @@
       "onboard_time": 1675820007,
       "rank": 30,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 785653,
-      "num": 785653,
-      "word": "丈夫开车碾轧妻子案出新疑点",
-      "onboard_time": 1675839147,
-      "rank": 16,
-      "category": "社会负面"
     },
     {
       "raw_hot": 778854,
@@ -363,6 +371,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 674534,
+      "num": 163961,
+      "word": "你见过凌晨四点的殡仪馆吗",
+      "onboard_time": 1675841492,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 670753,
       "num": 670753,
       "word": "震区女婴获救时脐带仍与遇难母亲相连",
@@ -395,8 +411,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 610197,
-      "num": 610197,
+      "raw_hot": 635966,
+      "num": 635966,
       "word": "爸爸第一次给孩子包书皮撕烂新书",
       "onboard_time": 1675839330,
       "rank": 17,
@@ -441,6 +457,14 @@
       "onboard_time": 1675813042,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575665,
+      "num": 575665,
+      "word": "原来小狗也嫌弃自己脚臭",
+      "onboard_time": 1675843230,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 535471,
@@ -611,6 +635,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 418625,
+      "num": 418625,
+      "word": "外国人考中文六级是什么难度",
+      "onboard_time": 1675840890,
+      "rank": 45,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 412162,
       "num": 412162,
       "word": "万茜长发",
@@ -747,6 +779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 323775,
+      "num": 323775,
+      "word": "邓超回复草图君你演个球",
+      "onboard_time": 1675844008,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 322217,
       "num": 289510,
       "word": "山东有一个公交站叫满江红",
@@ -793,6 +833,14 @@
       "onboard_time": 1675836209,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313768,
+      "num": 313768,
+      "word": "张栋梁曾11年有意不发情歌",
+      "onboard_time": 1675842331,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 313343,
@@ -891,6 +939,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 286427,
+      "num": 286427,
+      "word": "樊治欣李墨之直播",
+      "onboard_time": 1675843410,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286312,
       "num": 286312,
       "word": "满江红里的小人物",
@@ -921,6 +977,14 @@
       "onboard_time": 1675822287,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275683,
+      "num": 275683,
+      "word": "中国上空也曾发现过美国气球",
+      "onboard_time": 1675843473,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274213,
@@ -963,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256668,
+      "num": 256668,
+      "word": "欧豪的偶像是历史得分王",
+      "onboard_time": 1675841670,
+      "rank": 25,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 256353,
       "num": 256353,
       "word": "国产新冠药全部纳入医保支付范围",
@@ -985,6 +1057,14 @@
       "onboard_time": 1675838789,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252734,
+      "num": 252734,
+      "word": "当你有个会跳kpop的老公",
+      "onboard_time": 1675842869,
+      "rank": 26,
+      "category": "幽默,音乐"
     },
     {
       "raw_hot": 248816,
@@ -1155,12 +1235,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 198952,
+      "num": 198952,
+      "word": "詹姆斯公司在中国已注册詹皇商标",
+      "onboard_time": 1675844612,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198510,
       "num": 198510,
       "word": "唐嫣数人头忘记数自己",
       "onboard_time": 1675813881,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197514,
+      "num": 197514,
+      "word": "为什么现在的结婚率越来越低",
+      "onboard_time": 1675843650,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 194029,
@@ -1179,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191784,
+      "num": 191784,
+      "word": "刘敏涛演技感染力",
+      "onboard_time": 1675844612,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191629,
       "num": 191629,
       "word": "强震已致土耳其叙利亚超5000人遇难",
@@ -1195,12 +1299,28 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 191322,
+      "num": 191322,
+      "word": "男子猥亵9岁女孩当场被抓",
+      "onboard_time": 1675844370,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 188800,
       "num": 188800,
       "word": "山寨ChatGPT对话1300次要近百元",
       "onboard_time": 1675821268,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 185342,
+      "num": 185342,
+      "word": "言承旭喉结",
+      "onboard_time": 1675843950,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 184693,
@@ -1307,20 +1427,20 @@
       "category": "影视,社会议题"
     },
     {
+      "raw_hot": 166639,
+      "num": 166639,
+      "word": "她就是我 她就是所有女性",
+      "onboard_time": 1675843591,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 166058,
       "num": 166058,
       "word": "鞠婧祎夜景随拍九宫格",
       "onboard_time": 1675840110,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163961,
-      "num": 163961,
-      "word": "你见过凌晨四点的殡仪馆吗",
-      "onboard_time": 1675841492,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 163535,
@@ -1347,12 +1467,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158856,
+      "num": 158856,
+      "word": "容祖儿上台前看少爷和我练普通话",
+      "onboard_time": 1675842869,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158281,
+      "num": 158281,
+      "word": "一人一句致敬詹姆斯",
+      "onboard_time": 1675843950,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158003,
       "num": 122804,
       "word": "美国的制裁阻碍了叙人道主义救援工作",
       "onboard_time": 1675812561,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157709,
+      "num": 157709,
+      "word": "46款APP存在侵害用户权益行为",
+      "onboard_time": 1675844490,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 157353,
@@ -1425,14 +1569,6 @@
       "onboard_time": 1675779335,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136262,
-      "num": 136262,
-      "word": "外国人考中文六级是什么难度",
-      "onboard_time": 1675840890,
-      "rank": 45,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 132708,
