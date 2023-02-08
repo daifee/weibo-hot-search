@@ -1,0 +1,410 @@
+{
+  "runTime": 1675831146343,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2140749,
+        "num": 2140749,
+        "word": "狂飙庆功宴",
+        "onboard_time": 1675825230,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1496835,
+        "num": 1496835,
+        "word": "田亮女儿首获青少年世界排名",
+        "onboard_time": 1675825049,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 71847,
+        "num": 1451693,
+        "word": "人勤春来早田间农事忙",
+        "onboard_time": 1675830213,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1433282,
+        "num": 1433282,
+        "word": "四川失联一个月18岁女生遗体在江中发现",
+        "onboard_time": 1675826849,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1046024,
+        "num": 1046024,
+        "word": "女子应聘行政岗被要求只要单身",
+        "onboard_time": 1675827449,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974752,
+        "num": 974752,
+        "word": "13岁男孩考试18分被父亲意外刺死",
+        "onboard_time": 1675829675,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 972079,
+        "num": 972079,
+        "word": "丈夫深夜崩溃痛哭妻子一把搂入怀",
+        "onboard_time": 1675824206,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 949469,
+        "num": 949469,
+        "word": "新冠病毒去哪了它会消失吗",
+        "onboard_time": 1675823846,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 886578,
+        "num": 886578,
+        "word": "詹姆斯纪录之夜",
+        "onboard_time": 1675827929,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 832660,
+        "num": 832660,
+        "word": "嘉行2023艺人合集没有杨幂",
+        "onboard_time": 1675830335,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 721634,
+        "num": 721634,
+        "word": "女生上班通勤4小时坐10趟地铁",
+        "onboard_time": 1675820847,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720132,
+        "num": 720132,
+        "word": "詹姆斯认为自己是史上最佳球员",
+        "onboard_time": 1675819350,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 711098,
+        "num": 711098,
+        "word": "杨幂 要是有就再加麻加辣",
+        "onboard_time": 1675824027,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 652057,
+        "num": 652057,
+        "word": "西安不倒翁小姐姐回应生娃面容憔悴",
+        "onboard_time": 1675812561,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626940,
+        "num": 626940,
+        "word": "唐小强",
+        "onboard_time": 1675816289,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 615208,
+        "num": 615208,
+        "word": "杨幂黑色吊带高马尾造型",
+        "onboard_time": 1675824567,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 592742,
+        "num": 592742,
+        "word": "苏醒 我是支持虎子和嘘嘘的",
+        "onboard_time": 1675828470,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555551,
+        "num": 555551,
+        "word": "高启强上岸从一袋橘子开始",
+        "onboard_time": 1675828710,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 550196,
+        "num": 550196,
+        "word": "张颂文李一桐机场与狂飙合照",
+        "onboard_time": 1675824989,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 510533,
+        "num": 510533,
+        "word": "EXO将举办粉丝见面会",
+        "onboard_time": 1675827690,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 463274,
+        "num": 463274,
+        "word": "李秀满返韩",
+        "onboard_time": 1675824928,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397712,
+        "num": 397712,
+        "word": "土耳其",
+        "onboard_time": 1675816467,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391966,
+        "num": 391966,
+        "word": "男子在玉龙雪山假借拍照求婚",
+        "onboard_time": 1675827753,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388721,
+        "num": 388721,
+        "word": "微软市值一夜飙涨5450亿",
+        "onboard_time": 1675818570,
+        "rank": 23,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 385238,
+        "num": 385238,
+        "word": "ChatGPT会不会使底层程序员失业",
+        "onboard_time": 1675823428,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 380145,
+        "num": 380145,
+        "word": "时代少年团全员休闲风造型",
+        "onboard_time": 1675829792,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 373106,
+        "num": 373106,
+        "word": "2022台湾十大热门大陆剧",
+        "onboard_time": 1675824567,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346812,
+        "num": 346812,
+        "word": "电影梅根确认引进",
+        "onboard_time": 1675830637,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321913,
+        "num": 321913,
+        "word": "重庆警方培训出全国第一批缉毒松鼠",
+        "onboard_time": 1675826249,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283526,
+        "num": 283526,
+        "word": "美人都忍不住赞叹的颜值",
+        "onboard_time": 1675822165,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 3801683,
+        "num": 281298,
+        "word": "法定婚龄降到18岁会提升初婚率吗",
+        "onboard_time": 1675825650,
+        "rank": 30,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 278872,
+        "num": 278872,
+        "word": "满江红里的小人物",
+        "onboard_time": 1675830034,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269218,
+        "num": 269218,
+        "word": "多家银行回应存钱需提供收入证明",
+        "onboard_time": 1675820007,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 257325,
+        "num": 257325,
+        "word": "王一博无名片场学日语花絮",
+        "onboard_time": 1675828172,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254852,
+        "num": 254852,
+        "word": "震区女婴获救时脐带仍与遇难母亲相连",
+        "onboard_time": 1675819048,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244247,
+        "num": 244247,
+        "word": "这就是女生最想要的求婚吧",
+        "onboard_time": 1675823127,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236717,
+        "num": 236717,
+        "word": "张若昀新剧演算呆子",
+        "onboard_time": 1675825951,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222653,
+        "num": 222653,
+        "word": "这趟火车是自习室主题的",
+        "onboard_time": 1675827151,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216538,
+        "num": 216538,
+        "word": "没有一顿火锅解决不了的事开机",
+        "onboard_time": 1675823306,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215819,
+        "num": 215819,
+        "word": "肖战新剧杀青登多国趋势",
+        "onboard_time": 1675819950,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215583,
+        "num": 215583,
+        "word": "NBA",
+        "onboard_time": 1675830275,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210631,
+        "num": 210631,
+        "word": "土耳其地震已致该国5894人死亡",
+        "onboard_time": 1675813042,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209382,
+        "num": 209382,
+        "word": "邓超44岁实绩图",
+        "onboard_time": 1675830874,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201085,
+        "num": 201085,
+        "word": "亲爱的乘客你好开播",
+        "onboard_time": 1675829615,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199573,
+        "num": 199573,
+        "word": "台湾永远不可能成为一个国家",
+        "onboard_time": 1675830996,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 198024,
+        "num": 198024,
+        "word": "男老师猥亵男童获刑5年终身禁业",
+        "onboard_time": 1675817910,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195354,
+        "num": 195354,
+        "word": "欧文说和詹姆斯永远是兄弟",
+        "onboard_time": 1675820968,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195195,
+        "num": 195195,
+        "word": "张朝阳用微积分推导阿基米德原理",
+        "onboard_time": 1675823668,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 193079,
+        "num": 193079,
+        "word": "韩国申报的文化遗产来自日本",
+        "onboard_time": 1675812500,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188796,
+        "num": 188796,
+        "word": "雷霆vs湖人",
+        "onboard_time": 1675822165,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年第一课为我们指明了方向#"
+    }
+  }
+}
