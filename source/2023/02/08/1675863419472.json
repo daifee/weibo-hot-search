@@ -1,0 +1,410 @@
+{
+  "runTime": 1675863419472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2470470,
+        "num": 2470470,
+        "word": "马航MH17坠机案调查暂停",
+        "onboard_time": 1675860632,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1483002,
+        "num": 1483002,
+        "word": "言承旭道歉",
+        "onboard_time": 1675853734,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46583,
+        "num": 1288847,
+        "word": "开局之年第一课",
+        "onboard_time": 1675848931,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1184996,
+        "num": 1184996,
+        "word": "宝鸡发现1例全球罕见黄金血型",
+        "onboard_time": 1675843711,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1153918,
+        "num": 1153918,
+        "word": "黄瑶扮演者程金铭发文",
+        "onboard_time": 1675861410,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 659296,
+        "num": 659296,
+        "word": "杨颖BLACKPINK同框",
+        "onboard_time": 1675846353,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644602,
+        "num": 644602,
+        "word": "机场回应网传对韩入境人员挂白牌",
+        "onboard_time": 1675857753,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598643,
+        "num": 598643,
+        "word": "丢失两年的手机半夜仍被人试图解锁",
+        "onboard_time": 1675847972,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 550257,
+        "num": 550257,
+        "word": "张译去不去狂飙庆功宴",
+        "onboard_time": 1675845151,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 480239,
+        "num": 480239,
+        "word": "陈妍希说嗑陈晓和王一博兄弟情",
+        "onboard_time": 1675855950,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1283026,
+        "num": 475184,
+        "word": "涉少女吸毒死亡案酒店暂停营业",
+        "onboard_time": 1675855474,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463273,
+        "num": 463273,
+        "word": "被叙利亚7岁小女孩感动到了",
+        "onboard_time": 1675862011,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433122,
+        "num": 433122,
+        "word": "丁真现身南京录制2023春节拉萨藏晚",
+        "onboard_time": 1675861410,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394095,
+        "num": 394095,
+        "word": "苏小玎直播发言",
+        "onboard_time": 1675856253,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388508,
+        "num": 388508,
+        "word": "任嘉伦谈演员被标签化",
+        "onboard_time": 1675857753,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374531,
+        "num": 374531,
+        "word": "科学家发现高脂饮食可清除寄生虫",
+        "onboard_time": 1675858650,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 359050,
+        "num": 359050,
+        "word": "徐江中枪躺桌子上是贾冰设计的",
+        "onboard_time": 1675858829,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356110,
+        "num": 356110,
+        "word": "收费3元一本代包书皮业务火了",
+        "onboard_time": 1675847254,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341864,
+        "num": 341864,
+        "word": "强震已致土耳其叙利亚上万人遇难",
+        "onboard_time": 1675856370,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339725,
+        "num": 339725,
+        "word": "LESSERAFIM喝到苦参茶的反应",
+        "onboard_time": 1675862969,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310212,
+        "num": 310212,
+        "word": "班主任开学第一天救了学生一家人",
+        "onboard_time": 1675858051,
+        "rank": 20,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 309579,
+        "num": 309579,
+        "word": "王鹤棣终于戴耳钉了",
+        "onboard_time": 1675849774,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309323,
+        "num": 309323,
+        "word": "蔡徐坤分享新发色",
+        "onboard_time": 1675863212,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291466,
+        "num": 291466,
+        "word": "法国政府部门将试行四天工作制",
+        "onboard_time": 1675858531,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 286741,
+        "num": 286741,
+        "word": "生活剧里的邢菲vs偶像剧里的邢菲",
+        "onboard_time": 1675861530,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275886,
+        "num": 275886,
+        "word": "小羊都草莓自由了",
+        "onboard_time": 1675853671,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271198,
+        "num": 271198,
+        "word": "名侦探学院友谊地久天长",
+        "onboard_time": 1675858470,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270479,
+        "num": 270479,
+        "word": "骄阳伴我人物关系",
+        "onboard_time": 1675862612,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57351,
+        "num": 267728,
+        "word": "皇后座里的门道",
+        "onboard_time": 1675862251,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 265002,
+        "num": 265002,
+        "word": "张颂文高启强登顶热播剧集角色吸粉榜",
+        "onboard_time": 1675861293,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258081,
+        "num": 258081,
+        "word": "江西一乡召开适龄未婚女青年座谈会",
+        "onboard_time": 1675853131,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238997,
+        "num": 238997,
+        "word": "狂飙版回家的诱惑",
+        "onboard_time": 1675859312,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238729,
+        "num": 238729,
+        "word": "为什么现在的结婚率越来越低",
+        "onboard_time": 1675843650,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236291,
+        "num": 236291,
+        "word": "应聘时把HR整不会了",
+        "onboard_time": 1675850072,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228905,
+        "num": 228905,
+        "word": "浙江一县城百万年薪招聘导游",
+        "onboard_time": 1675852409,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 227589,
+        "num": 227589,
+        "word": "沈腾唱的因为爱情",
+        "onboard_time": 1675858948,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207118,
+        "num": 207118,
+        "word": "狂飙庆功宴",
+        "onboard_time": 1675825230,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199176,
+        "num": 199176,
+        "word": "张译ip地址在海南",
+        "onboard_time": 1675838607,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194331,
+        "num": 194331,
+        "word": "2023最期待的演唱会",
+        "onboard_time": 1675861889,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190141,
+        "num": 190141,
+        "word": "她就是我 她就是所有女性",
+        "onboard_time": 1675843591,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186032,
+        "num": 186032,
+        "word": "张远读自己的中二文学",
+        "onboard_time": 1675863032,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185121,
+        "num": 185121,
+        "word": "言承旭 我的小孩来了",
+        "onboard_time": 1675835971,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169009,
+        "num": 169009,
+        "word": "吴昕大侦探双麻花辫造型",
+        "onboard_time": 1675862612,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166674,
+        "num": 166674,
+        "word": "游客点赞泰山景区物价亲民",
+        "onboard_time": 1675860871,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 165690,
+        "num": 165690,
+        "word": "南沙守礁战士喝到冷饮的快乐",
+        "onboard_time": 1675861772,
+        "rank": 44,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 164666,
+        "num": 164666,
+        "word": "38388",
+        "onboard_time": 1675839207,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160948,
+        "num": 160948,
+        "word": "三口之家的理想之旅",
+        "onboard_time": 1675862251,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146390,
+        "num": 146390,
+        "word": "这才是真正的狂飙",
+        "onboard_time": 1675858650,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144984,
+        "num": 144984,
+        "word": "手机丢失后该怎么办",
+        "onboard_time": 1675862312,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138712,
+        "num": 138712,
+        "word": "台湾花莲县4.7级地震",
+        "onboard_time": 1675854871,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}

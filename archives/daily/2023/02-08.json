@@ -1,6 +1,6 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675862763756,
+  "endTime": 1675863419472,
   "band_list": [
     {
       "raw_hot": 5524134,
@@ -227,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1153918,
+      "num": 1153918,
+      "word": "黄瑶扮演者程金铭发文",
+      "onboard_time": 1675861410,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1145418,
       "num": 1145418,
       "word": "收费3元一本代包书皮业务火了",
@@ -297,14 +305,6 @@
       "onboard_time": 1675852470,
       "rank": 37,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 939606,
-      "num": 502190,
-      "word": "黄瑶扮演者程金铭发文",
-      "onboard_time": 1675861410,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 918575,
@@ -819,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 463273,
+      "num": 463273,
+      "word": "被叙利亚7岁小女孩感动到了",
+      "onboard_time": 1675862011,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452576,
       "num": 452576,
       "word": "男子在玉龙雪山假借拍照求婚",
@@ -889,6 +897,14 @@
       "onboard_time": 1675804990,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433122,
+      "num": 433122,
+      "word": "丁真现身南京录制2023春节拉萨藏晚",
+      "onboard_time": 1675861410,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 423819,
@@ -1019,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352826,
-      "num": 352826,
-      "word": "丁真现身南京录制2023春节拉萨藏晚",
-      "onboard_time": 1675861410,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 350763,
       "num": 350763,
       "word": "男子被骂吃不起饭隔天带4菜店外吃播",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1675823127,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 339725,
+      "num": 339725,
+      "word": "LESSERAFIM喝到苦参茶的反应",
+      "onboard_time": 1675862969,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 337091,
@@ -1169,6 +1185,14 @@
       "onboard_time": 1675828172,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309323,
+      "num": 309323,
+      "word": "蔡徐坤分享新发色",
+      "onboard_time": 1675863212,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 308644,
@@ -1283,20 +1307,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 286741,
+      "num": 286741,
+      "word": "生活剧里的邢菲vs偶像剧里的邢菲",
+      "onboard_time": 1675861530,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286312,
       "num": 286312,
       "word": "满江红里的小人物",
       "onboard_time": 1675830034,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 285523,
-      "num": 285523,
-      "word": "被叙利亚7岁小女孩感动到了",
-      "onboard_time": 1675862011,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285345,
@@ -1363,6 +1387,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 270479,
+      "num": 270479,
+      "word": "骄阳伴我人物关系",
+      "onboard_time": 1675862612,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 265002,
+      "num": 265002,
+      "word": "张颂文高启强登顶热播剧集角色吸粉榜",
+      "onboard_time": 1675861293,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261631,
       "num": 261631,
       "word": "极端通勤在默默消耗年轻人的精力",
@@ -1377,14 +1417,6 @@
       "onboard_time": 1675838908,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261022,
-      "num": 261022,
-      "word": "生活剧里的邢菲vs偶像剧里的邢菲",
-      "onboard_time": 1675861530,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 258391,
@@ -1595,14 +1627,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 220549,
-      "num": 220549,
-      "word": "张颂文高启强登顶热播剧集角色吸粉榜",
-      "onboard_time": 1675861293,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216367,
       "num": 216367,
       "word": "这才是真正的狂飙",
@@ -1715,6 +1739,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 194331,
+      "num": 194331,
+      "word": "2023最期待的演唱会",
+      "onboard_time": 1675861889,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194029,
       "num": 194029,
       "word": "骄阳伴我杀青特辑",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1675821268,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 186032,
+      "num": 186032,
+      "word": "张远读自己的中二文学",
+      "onboard_time": 1675863032,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185792,
@@ -1883,14 +1923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176180,
-      "num": 176180,
-      "word": "2023最期待的演唱会",
-      "onboard_time": 1675861889,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 176093,
       "num": 176093,
       "word": "蒲熠星沉浸式演技",
@@ -1979,6 +2011,14 @@
       "category": "影视,社会议题"
     },
     {
+      "raw_hot": 169009,
+      "num": 169009,
+      "word": "吴昕大侦探双麻花辫造型",
+      "onboard_time": 1675862612,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 166550,
       "num": 166550,
       "word": "三口之家的理想之旅",
@@ -1993,6 +2033,14 @@
       "onboard_time": 1675840110,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165690,
+      "num": 165690,
+      "word": "南沙守礁战士喝到冷饮的快乐",
+      "onboard_time": 1675861772,
+      "rank": 45,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 164785,
@@ -2099,22 +2147,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 148419,
-      "num": 148419,
-      "word": "骄阳伴我人物关系",
-      "onboard_time": 1675862612,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 143644,
-      "num": 143644,
-      "word": "南沙守礁战士喝到冷饮的快乐",
-      "onboard_time": 1675861772,
-      "rank": 45,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 143143,
       "num": 143143,
       "word": "赵露思哭戏路透",
@@ -2169,14 +2201,6 @@
       "onboard_time": 1675779335,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 134944,
-      "num": 134944,
-      "word": "吴昕大侦探双麻花辫造型",
-      "onboard_time": 1675862612,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 132708,
@@ -2428,7 +2452,7 @@
     },
     {
       "raw_hot": 70217,
-      "num": 240051,
+      "num": 267728,
       "word": "皇后座里的门道",
       "onboard_time": 1675862251,
       "rank": 27,
