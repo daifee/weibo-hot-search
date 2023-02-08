@@ -1,0 +1,410 @@
+{
+  "runTime": 1675869599465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11248891,
+        "num": 11248891,
+        "word": "刘亚仁涉嫌吸毒",
+        "onboard_time": 1675866815,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1531550,
+        "num": 1531550,
+        "word": "马航MH17坠机案调查暂停",
+        "onboard_time": 1675860632,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56982,
+        "num": 1234721,
+        "word": "1分钟感受春天的生机活力",
+        "onboard_time": 1675845753,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1135587,
+        "num": 1135587,
+        "word": "唐嫣宋亚轩埋头笑",
+        "onboard_time": 1675868439,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 949169,
+        "num": 949169,
+        "word": "黄瑶扮演者程金铭发文",
+        "onboard_time": 1675861410,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 903769,
+        "num": 903769,
+        "word": "言承旭道歉",
+        "onboard_time": 1675853734,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 814100,
+        "num": 814100,
+        "word": "男子去土耳其救援前告知妻子所有密码",
+        "onboard_time": 1675865553,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779527,
+        "num": 779527,
+        "word": "宝鸡发现1例全球罕见黄金血型",
+        "onboard_time": 1675843711,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738843,
+        "num": 738843,
+        "word": "陈妍希只看了梦华录前十集",
+        "onboard_time": 1675868022,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 599590,
+        "num": 599590,
+        "word": "张智霖在东北穿五件保暖衣",
+        "onboard_time": 1675867900,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 814404,
+        "num": 599577,
+        "word": "涉少女吸毒死亡案酒店暂停营业",
+        "onboard_time": 1675855474,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586239,
+        "num": 586239,
+        "word": "宋慧乔活动新闻生图",
+        "onboard_time": 1675863932,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570798,
+        "num": 570798,
+        "word": "人社部发文提醒职场新人",
+        "onboard_time": 1675865134,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531619,
+        "num": 531619,
+        "word": "张译去不去狂飙庆功宴",
+        "onboard_time": 1675845151,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88225,
+        "num": 506914,
+        "word": "理想L7发布会很苹果",
+        "onboard_time": 1675868439,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 506488,
+        "num": 506488,
+        "word": "杨颖BLACKPINK同框",
+        "onboard_time": 1675846353,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420137,
+        "num": 420137,
+        "word": "韵达回应大量包裹派送延误",
+        "onboard_time": 1675865253,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 396604,
+        "num": 396604,
+        "word": "李敏镐最新活动新闻图",
+        "onboard_time": 1675866873,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393751,
+        "num": 393751,
+        "word": "被叙利亚7岁小女孩感动到了",
+        "onboard_time": 1675862011,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390718,
+        "num": 390718,
+        "word": "阿里类ChatGPT产品正在内测",
+        "onboard_time": 1675865973,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 336942,
+        "num": 336942,
+        "word": "流浪地球2将在俄罗斯上映",
+        "onboard_time": 1675869275,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336706,
+        "num": 336706,
+        "word": "赞多海南吃海鲜视频",
+        "onboard_time": 1675868620,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299156,
+        "num": 299156,
+        "word": "强震已致土耳其叙利亚上万人遇难",
+        "onboard_time": 1675856370,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292341,
+        "num": 292341,
+        "word": "收费3元一本代包书皮业务火了",
+        "onboard_time": 1675847254,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289802,
+        "num": 289802,
+        "word": "柬埔寨旅游可直接用人民币",
+        "onboard_time": 1675867839,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 254404,
+        "num": 254404,
+        "word": "机场回应网传对韩入境人员挂白牌",
+        "onboard_time": 1675857753,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248730,
+        "num": 248730,
+        "word": "骄阳伴我人物关系",
+        "onboard_time": 1675862612,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241376,
+        "num": 241376,
+        "word": "王子文直播",
+        "onboard_time": 1675866214,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232556,
+        "num": 232556,
+        "word": "徐江中枪躺桌子上是贾冰设计的",
+        "onboard_time": 1675858829,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217548,
+        "num": 217548,
+        "word": "苏小玎直播发言",
+        "onboard_time": 1675856253,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208800,
+        "num": 208800,
+        "word": "张颂文高启强登顶热播剧集角色吸粉榜",
+        "onboard_time": 1675861293,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207895,
+        "num": 207895,
+        "word": "声生不息宝岛季开录",
+        "onboard_time": 1675868975,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205274,
+        "num": 205274,
+        "word": "陈妍希说嗑陈晓和王一博兄弟情",
+        "onboard_time": 1675855950,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200159,
+        "num": 200159,
+        "word": "江西一乡召开适龄未婚女青年座谈会",
+        "onboard_time": 1675853131,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198330,
+        "num": 198330,
+        "word": "LESSERAFIM喝到苦参茶的反应",
+        "onboard_time": 1675862969,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179255,
+        "num": 179255,
+        "word": "小羊都草莓自由了",
+        "onboard_time": 1675853671,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170287,
+        "num": 170287,
+        "word": "蔡徐坤分享新发色",
+        "onboard_time": 1675863212,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167893,
+        "num": 167893,
+        "word": "名侦探学院友谊地久天长",
+        "onboard_time": 1675858470,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163182,
+        "num": 163182,
+        "word": "崔叡娜翻跳VeryNice",
+        "onboard_time": 1675868262,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160082,
+        "num": 160082,
+        "word": "狂飙版回家的诱惑",
+        "onboard_time": 1675859312,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159219,
+        "num": 159219,
+        "word": "浙江一县城百万年薪招聘导游",
+        "onboard_time": 1675852409,
+        "rank": 40,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 155020,
+        "num": 155020,
+        "word": "2023最期待的演唱会",
+        "onboard_time": 1675861889,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153475,
+        "num": 153475,
+        "word": "张远读自己的中二文学",
+        "onboard_time": 1675863032,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148348,
+        "num": 148348,
+        "word": "南沙守礁战士喝到冷饮的快乐",
+        "onboard_time": 1675861772,
+        "rank": 43,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 147314,
+        "num": 147314,
+        "word": "应聘时把HR整不会了",
+        "onboard_time": 1675850072,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144447,
+        "num": 144447,
+        "word": "为什么现在的结婚率越来越低",
+        "onboard_time": 1675843650,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140228,
+        "num": 140228,
+        "word": "关晓彤发视频告别令人心动的offer4",
+        "onboard_time": 1675864293,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139632,
+        "num": 139632,
+        "word": "丁真现身南京录制2023春节拉萨藏晚",
+        "onboard_time": 1675861410,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131619,
+        "num": 131619,
+        "word": "生活剧里的邢菲vs偶像剧里的邢菲",
+        "onboard_time": 1675861530,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116088,
+        "num": 116088,
+        "word": "吴昕大侦探双麻花辫造型",
+        "onboard_time": 1675862612,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#以协同合作激发科创潜力#"
+    }
+  }
+}

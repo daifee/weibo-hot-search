@@ -1,7 +1,15 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675866868822,
+  "endTime": 1675869599465,
   "band_list": [
+    {
+      "raw_hot": 11248891,
+      "num": 11248891,
+      "word": "刘亚仁涉嫌吸毒",
+      "onboard_time": 1675866815,
+      "rank": 6,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 5524134,
       "num": 5524134,
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1135587,
+      "num": 1135587,
+      "word": "唐嫣宋亚轩埋头笑",
+      "onboard_time": 1675868439,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1125618,
       "num": 1125618,
       "word": "月入一万是什么水平",
@@ -395,20 +411,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 814100,
+      "num": 814100,
+      "word": "男子去土耳其救援前告知妻子所有密码",
+      "onboard_time": 1675865553,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801361,
       "num": 801361,
       "word": "安欣没救到的只有李响",
       "onboard_time": 1675785149,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 798122,
-      "num": 798122,
-      "word": "刘亚仁涉嫌吸毒",
-      "onboard_time": 1675866815,
-      "rank": 6,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 792855,
@@ -449,6 +465,14 @@
       "onboard_time": 1675855950,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 738843,
+      "num": 738843,
+      "word": "陈妍希只看了梦华录前十集",
+      "onboard_time": 1675868022,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 735213,
@@ -611,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 599590,
+      "num": 599590,
+      "word": "张智霖在东北穿五件保暖衣",
+      "onboard_time": 1675867900,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 595114,
       "num": 595114,
       "word": "肖战新剧杀青登多国趋势",
@@ -649,6 +681,14 @@
       "onboard_time": 1675864293,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 570798,
+      "num": 570798,
+      "word": "人社部发文提醒职场新人",
+      "onboard_time": 1675865134,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 563558,
@@ -819,14 +859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 486072,
-      "num": 486072,
-      "word": "男子去土耳其救援前告知妻子所有密码",
-      "onboard_time": 1675865553,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 484115,
       "num": 484115,
       "word": "陈晓陈妍希微信头像都是关于对方",
@@ -881,14 +913,6 @@
       "onboard_time": 1675859192,
       "rank": 39,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 447932,
-      "num": 447932,
-      "word": "人社部发文提醒职场新人",
-      "onboard_time": 1675865134,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444666,
@@ -979,6 +1003,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 420137,
+      "num": 420137,
+      "word": "韵达回应大量包裹派送延误",
+      "onboard_time": 1675865253,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 418625,
       "num": 418625,
       "word": "外国人考中文六级是什么难度",
@@ -1025,6 +1057,22 @@
       "onboard_time": 1675816467,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396604,
+      "num": 396604,
+      "word": "李敏镐最新活动新闻图",
+      "onboard_time": 1675866873,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 390718,
+      "num": 390718,
+      "word": "阿里类ChatGPT产品正在内测",
+      "onboard_time": 1675865973,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 385825,
@@ -1155,6 +1203,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 336942,
+      "num": 336942,
+      "word": "流浪地球2将在俄罗斯上映",
+      "onboard_time": 1675869275,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 336706,
+      "num": 336706,
+      "word": "赞多海南吃海鲜视频",
+      "onboard_time": 1675868620,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334593,
       "num": 334593,
       "word": "张若昀新剧演算呆子",
@@ -1283,14 +1347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 302157,
-      "num": 302157,
-      "word": "韵达回应大量包裹派送延误",
-      "onboard_time": 1675865253,
-      "rank": 43,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 300498,
       "num": 300498,
       "word": "欧文说和詹姆斯永远是兄弟",
@@ -1385,6 +1441,14 @@
       "onboard_time": 1675863032,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 289802,
+      "num": 289802,
+      "word": "柬埔寨旅游可直接用人民币",
+      "onboard_time": 1675867839,
+      "rank": 24,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 286741,
@@ -1595,19 +1659,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 241517,
-      "num": 241517,
-      "word": "阿里类ChatGPT产品正在内测",
-      "onboard_time": 1675865973,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
       "raw_hot": 241403,
       "num": 241403,
       "word": "边水往事官宣杀青",
       "onboard_time": 1675821566,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 241376,
+      "num": 241376,
+      "word": "王子文直播",
+      "onboard_time": 1675866214,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -1763,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207895,
+      "num": 207895,
+      "word": "声生不息宝岛季开录",
+      "onboard_time": 1675868975,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207594,
       "num": 207594,
       "word": "466元6块糖涉事店铺修改价签",
@@ -1817,14 +1889,6 @@
       "onboard_time": 1675813881,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197847,
-      "num": 197847,
-      "word": "王子文直播",
-      "onboard_time": 1675866214,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 196408,
@@ -2129,6 +2193,14 @@
       "onboard_time": 1675841070,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 163182,
+      "num": 163182,
+      "word": "崔叡娜翻跳VeryNice",
+      "onboard_time": 1675868262,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161410,
@@ -2457,6 +2529,14 @@
       "onboard_time": 1675765590,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88225,
+      "num": 506914,
+      "word": "理想L7发布会很苹果",
+      "onboard_time": 1675868439,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 87689,
