@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675845529547,
+  "endTime": 1675847988835,
   "band_list": [
     {
       "raw_hot": 5524134,
@@ -35,8 +35,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 3369342,
-      "num": 3369342,
+      "raw_hot": 3669631,
+      "num": 3669631,
       "word": "宝鸡发现1例全球罕见黄金血型",
       "onboard_time": 1675843711,
       "rank": 4,
@@ -57,6 +57,14 @@
       "onboard_time": 1675743094,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2549030,
+      "num": 2549030,
+      "word": "杨颖BLACKPINK同框",
+      "onboard_time": 1675846353,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2430501,
@@ -755,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1020256,
+      "num": 1020256,
+      "word": "张译去不去狂飙庆功宴",
+      "onboard_time": 1675845151,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1017737,
       "num": 1017737,
       "word": "周深被人踩了",
@@ -913,6 +929,14 @@
       "onboard_time": 1675777593,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 918575,
+      "num": 621760,
+      "word": "男子猥亵9岁女孩当场被抓",
+      "onboard_time": 1675844370,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 911778,
@@ -1723,6 +1747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 603559,
+      "num": 603559,
+      "word": "19岁女孩第一天相亲第三天就结婚",
+      "onboard_time": 1675846894,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597079,
       "num": 597079,
       "word": "男孩吃火锅时发现作业没写愁到大哭",
@@ -1755,20 +1787,20 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 590063,
+      "num": 590063,
+      "word": "一国企公示名单引争议",
+      "onboard_time": 1675845813,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588279,
       "num": 588279,
       "word": "恩施人非必要不得前往柬埔寨",
       "onboard_time": 1675774409,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 587901,
-      "num": 587901,
-      "word": "男子猥亵9岁女孩当场被抓",
-      "onboard_time": 1675844370,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 586667,
@@ -1889,6 +1921,14 @@
       "onboard_time": 1675844008,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 554194,
+      "num": 554194,
+      "word": "中国上空也曾发现过美国气球",
+      "onboard_time": 1675843473,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554156,
@@ -2235,6 +2275,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 500789,
+      "num": 500789,
+      "word": "她就是我 她就是所有女性",
+      "onboard_time": 1675843591,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 499465,
       "num": 499465,
       "word": "王鹤棣说詹姆斯是超级英雄",
@@ -2321,6 +2369,14 @@
       "onboard_time": 1675745976,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 475508,
+      "num": 475508,
+      "word": "林俊杰说权志龙很帅很谦虚",
+      "onboard_time": 1675844733,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 474010,
@@ -2419,14 +2475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445266,
-      "num": 445266,
-      "word": "中国上空也曾发现过美国气球",
-      "onboard_time": 1675843473,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 445048,
       "num": 445048,
       "word": "从姓氏中拆解出的惊艳名字",
@@ -2473,6 +2521,14 @@
       "onboard_time": 1675768230,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 439504,
+      "num": 367270,
+      "word": "邓超孙俪中国乒乓结婚照",
+      "onboard_time": 1675846174,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 438979,
@@ -3019,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355482,
+      "num": 355482,
+      "word": "詹姆斯公司在中国已注册詹皇商标",
+      "onboard_time": 1675844612,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354719,
       "num": 354719,
       "word": "网传马嘉祺杨宗纬声生不息唱恋曲1990",
@@ -3275,6 +3339,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 325767,
+      "num": 325767,
+      "word": "张栋梁曾11年有意不发情歌",
+      "onboard_time": 1675842331,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 324034,
       "num": 324034,
       "word": "张凌赫用身高压制白鹿",
@@ -3339,14 +3411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 317810,
-      "num": 217145,
-      "word": "詹姆斯公司在中国已注册詹皇商标",
-      "onboard_time": 1675844612,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 317579,
       "num": 317579,
       "word": "肖战盛阳白衣比耶照",
@@ -3393,14 +3457,6 @@
       "onboard_time": 1675636095,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313768,
-      "num": 313768,
-      "word": "张栋梁曾11年有意不发情歌",
-      "onboard_time": 1675842331,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 313343,
@@ -3491,6 +3547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306468,
+      "num": 306468,
+      "word": "收费3元一本代包书皮业务火了",
+      "onboard_time": 1675847254,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305571,
       "num": 305571,
       "word": "Nuguri说TheShy是最强上单",
@@ -3529,6 +3593,14 @@
       "onboard_time": 1675642769,
       "rank": 21,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 302338,
+      "num": 302338,
+      "word": "为什么现在的结婚率越来越低",
+      "onboard_time": 1675843650,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 302113,
@@ -3867,6 +3939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278272,
+      "num": 278272,
+      "word": "网传七家国有航司被要求停止低价投放",
+      "onboard_time": 1675846353,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278134,
       "num": 278134,
       "word": "个人有必要做新冠抗体检测吗",
@@ -3905,6 +3985,14 @@
       "onboard_time": 1675690530,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 275414,
+      "num": 275414,
+      "word": "陈赫抽送邓超中国乒乓电影票",
+      "onboard_time": 1675847433,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 274252,
@@ -3985,14 +4073,6 @@
       "onboard_time": 1675773868,
       "rank": 37,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 267999,
-      "num": 267999,
-      "word": "张译去不去狂飙庆功宴",
-      "onboard_time": 1675845151,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 267764,
@@ -4107,14 +4187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261250,
-      "num": 261250,
-      "word": "为什么现在的结婚率越来越低",
-      "onboard_time": 1675843650,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 260778,
       "num": 260778,
       "word": "土耳其地震已在土造成2379人死亡",
@@ -4145,6 +4217,14 @@
       "onboard_time": 1675780714,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 258391,
+      "num": 258391,
+      "word": "46款APP存在侵害用户权益行为",
+      "onboard_time": 1675844490,
+      "rank": 44,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 256927,
@@ -4267,6 +4347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 249613,
+      "num": 249613,
+      "word": "突然被亲一口的猫咪有多懵",
+      "onboard_time": 1675847433,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249523,
       "num": 249523,
       "word": "孩子的压力到底有多大",
@@ -4361,6 +4449,14 @@
       "onboard_time": 1675697492,
       "rank": 46,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 242802,
+      "num": 242802,
+      "word": "哪些cp是你的意难平",
+      "onboard_time": 1675847013,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 242789,
@@ -4787,14 +4883,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 214913,
-      "num": 214913,
-      "word": "她就是我 她就是所有女性",
-      "onboard_time": 1675843591,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 214870,
       "num": 214870,
       "word": "欧文说和杜兰特仍是兄弟",
@@ -4833,6 +4921,14 @@
       "onboard_time": 1675678949,
       "rank": 32,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 211933,
+      "num": 211933,
+      "word": "只有狗狗不嫌弃你做的饭",
+      "onboard_time": 1675847374,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 211594,
@@ -4889,14 +4985,6 @@
       "onboard_time": 1675761270,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208346,
-      "num": 208346,
-      "word": "林俊杰说权志龙很帅很谦虚",
-      "onboard_time": 1675844733,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 207849,
@@ -5075,6 +5163,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 196022,
+      "num": 196022,
+      "word": "当狗子没把自己当成狗",
+      "onboard_time": 1675847193,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195978,
       "num": 195978,
       "word": "郑秀妍素颜下午茶随拍",
@@ -5089,6 +5185,14 @@
       "onboard_time": 1675646907,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195086,
+      "num": 195086,
+      "word": "兄弟俩不愿开学分离合伙藏匿",
+      "onboard_time": 1675846773,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194932,
@@ -5121,14 +5225,6 @@
       "onboard_time": 1675820125,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193409,
-      "num": 193409,
-      "word": "46款APP存在侵害用户权益行为",
-      "onboard_time": 1675844490,
-      "rank": 44,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 193087,
@@ -5177,6 +5273,14 @@
       "onboard_time": 1675820186,
       "rank": 35,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 191225,
+      "num": 191225,
+      "word": "何广智是96年的",
+      "onboard_time": 1675847733,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190988,
@@ -5547,6 +5651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170102,
+      "num": 170102,
+      "word": "小朋友哄小狗睡觉",
+      "onboard_time": 1675845573,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 169853,
       "num": 169853,
       "word": "唐僧安欣和孔雀高启强",
@@ -5747,6 +5859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160178,
+      "num": 160178,
+      "word": "春楠镜头里的关晓彤",
+      "onboard_time": 1675846472,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159728,
       "num": 159728,
       "word": "卢歌把戒指留在地上",
@@ -5913,6 +6033,14 @@
       "onboard_time": 1675671687,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148394,
+      "num": 148394,
+      "word": "丢失两年的手机半夜仍被人试图解锁",
+      "onboard_time": 1675847972,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 147584,
