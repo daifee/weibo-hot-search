@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675883738346,
+  "endTime": 1675884809417,
   "band_list": [
     {
       "raw_hot": 4001183,
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134501,
+      "num": 63824,
+      "word": "日本一沙滩惊现大量沙丁鱼",
+      "onboard_time": 1675881434,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130993,
       "num": 130993,
       "word": "徐江中枪躺桌子上是贾冰设计的",
@@ -377,14 +385,6 @@
       "onboard_time": 1675861293,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 94143,
-      "num": 63824,
-      "word": "日本一沙滩惊现大量沙丁鱼",
-      "onboard_time": 1675881434,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93510,
