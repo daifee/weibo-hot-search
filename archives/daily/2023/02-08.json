@@ -1,6 +1,6 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675856029093,
+  "endTime": 1675859776655,
   "band_list": [
     {
       "raw_hot": 5524134,
@@ -81,6 +81,14 @@
       "onboard_time": 1675825230,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2044746,
+      "num": 2044746,
+      "word": "涉少女吸毒死亡案酒店暂停营业",
+      "onboard_time": 1675855474,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1951235,
@@ -395,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 741207,
+      "num": 741207,
+      "word": "陈妍希说嗑陈晓和王一博兄弟情",
+      "onboard_time": 1675855950,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 735213,
       "num": 735213,
       "word": "张颂文李一桐机场与狂飙合照",
@@ -449,6 +465,14 @@
       "onboard_time": 1675817431,
       "rank": 7,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 680782,
+      "num": 680782,
+      "word": "苏小玎直播发言",
+      "onboard_time": 1675856253,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 674534,
@@ -587,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 557955,
+      "num": 557955,
+      "word": "机场回应网传对韩入境人员挂白牌",
+      "onboard_time": 1675857753,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554194,
       "num": 554194,
       "word": "中国上空也曾发现过美国气球",
@@ -619,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 523081,
+      "num": 523081,
+      "word": "强震已致土耳其叙利亚上万人遇难",
+      "onboard_time": 1675856370,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522069,
       "num": 522069,
       "word": "邓超说好想转发喊一句飒",
@@ -641,6 +681,14 @@
       "onboard_time": 1675837110,
       "rank": 48,
       "category": "其它"
+    },
+    {
+      "raw_hot": 515498,
+      "num": 515498,
+      "word": "任嘉伦谈演员被标签化",
+      "onboard_time": 1675857753,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 505445,
@@ -697,6 +745,14 @@
       "onboard_time": 1675773030,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492330,
+      "num": 492330,
+      "word": "徐江中枪躺桌子上是贾冰设计的",
+      "onboard_time": 1675858829,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 490634,
@@ -891,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377700,
+      "num": 377700,
+      "word": "班主任开学第一天救了学生一家人",
+      "onboard_time": 1675858051,
+      "rank": 15,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 368710,
       "num": 368710,
       "word": "10月宝宝在自家工厂实现童车自由",
@@ -913,6 +977,14 @@
       "onboard_time": 1675844612,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 353943,
+      "num": 353943,
+      "word": "名侦探学院友谊地久天长",
+      "onboard_time": 1675858470,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 350763,
@@ -961,14 +1033,6 @@
       "onboard_time": 1675825951,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 327895,
-      "num": 327895,
-      "word": "涉少女吸毒死亡案酒店暂停营业",
-      "onboard_time": 1675855474,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326839,
@@ -1163,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293153,
+      "num": 293153,
+      "word": "边伯贤翻唱信件",
+      "onboard_time": 1675859250,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 286312,
       "num": 286312,
       "word": "满江红里的小人物",
@@ -1225,6 +1297,14 @@
       "onboard_time": 1675812801,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272278,
+      "num": 272278,
+      "word": "法国政府部门将试行四天工作制",
+      "onboard_time": 1675858531,
+      "rank": 23,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 272069,
@@ -1297,14 +1377,6 @@
       "onboard_time": 1675842869,
       "rank": 26,
       "category": "幽默,音乐"
-    },
-    {
-      "raw_hot": 249012,
-      "num": 249012,
-      "word": "陈妍希说嗑陈晓和王一博兄弟情",
-      "onboard_time": 1675855950,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 248854,
@@ -1411,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231876,
+      "num": 231876,
+      "word": "科学家发现高脂饮食可清除寄生虫",
+      "onboard_time": 1675858650,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 230783,
       "num": 230783,
       "word": "湖南男子和孕妻回土耳其探亲遇地震",
@@ -1499,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206393,
+      "num": 206393,
+      "word": "狂飙版回家的诱惑",
+      "onboard_time": 1675859312,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205783,
       "num": 205783,
       "word": "李秀满将起诉SMTOWN理事会",
@@ -1531,6 +1619,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 203714,
+      "num": 203714,
+      "word": "这才是真正的狂飙",
+      "onboard_time": 1675858650,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200926,
       "num": 200926,
       "word": "当狗子没把自己当成狗",
@@ -1555,6 +1651,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 194283,
+      "num": 194283,
+      "word": "沈腾唱的因为爱情",
+      "onboard_time": 1675858948,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194029,
       "num": 194029,
       "word": "骄阳伴我杀青特辑",
@@ -1569,6 +1673,14 @@
       "onboard_time": 1675820125,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192870,
+      "num": 192870,
+      "word": "WE战胜BLG",
+      "onboard_time": 1675858769,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 191784,
@@ -1795,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164785,
+      "num": 164785,
+      "word": "樊治欣男友力",
+      "onboard_time": 1675856130,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163535,
       "num": 163535,
       "word": "史诗级大片开学陆续上映",
@@ -1817,6 +1937,14 @@
       "onboard_time": 1675777415,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158981,
+      "num": 158981,
+      "word": "孟晚舟将首次当值华为轮值董事长",
+      "onboard_time": 1675859192,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 158872,
@@ -1931,6 +2059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138077,
+      "num": 138077,
+      "word": "蔡徐坤晒怼脸自拍照",
+      "onboard_time": 1675856791,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136840,
       "num": 136840,
       "word": "王者荣耀情人节CG",
@@ -2008,6 +2144,14 @@
       "word": "肖战白百何捉妖记2后二搭",
       "onboard_time": 1675760309,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 113747,
+      "num": 113747,
+      "word": "听说你喜欢我婚纱变装视频",
+      "onboard_time": 1675855172,
+      "rank": 49,
       "category": "影视"
     },
     {

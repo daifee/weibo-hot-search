@@ -1,0 +1,410 @@
+{
+  "runTime": 1675859776655,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2044746,
+        "num": 2044746,
+        "word": "涉少女吸毒死亡案酒店暂停营业",
+        "onboard_time": 1675855474,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1976681,
+        "num": 1976681,
+        "word": "言承旭道歉",
+        "onboard_time": 1675853734,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48237,
+        "num": 1497268,
+        "word": "开局之年第一课",
+        "onboard_time": 1675848931,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1302518,
+        "num": 1302518,
+        "word": "宝鸡发现1例全球罕见黄金血型",
+        "onboard_time": 1675843711,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741207,
+        "num": 741207,
+        "word": "陈妍希说嗑陈晓和王一博兄弟情",
+        "onboard_time": 1675855950,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 731030,
+        "num": 731030,
+        "word": "杨颖BLACKPINK同框",
+        "onboard_time": 1675846353,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703319,
+        "num": 703319,
+        "word": "丢失两年的手机半夜仍被人试图解锁",
+        "onboard_time": 1675847972,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 680782,
+        "num": 680782,
+        "word": "苏小玎直播发言",
+        "onboard_time": 1675856253,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 559692,
+        "num": 559692,
+        "word": "张译去不去狂飙庆功宴",
+        "onboard_time": 1675845151,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 557955,
+        "num": 557955,
+        "word": "机场回应网传对韩入境人员挂白牌",
+        "onboard_time": 1675857753,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523081,
+        "num": 523081,
+        "word": "强震已致土耳其叙利亚上万人遇难",
+        "onboard_time": 1675856370,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515498,
+        "num": 515498,
+        "word": "任嘉伦谈演员被标签化",
+        "onboard_time": 1675857753,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 492330,
+        "num": 492330,
+        "word": "徐江中枪躺桌子上是贾冰设计的",
+        "onboard_time": 1675858829,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448578,
+        "num": 448578,
+        "word": "小羊都草莓自由了",
+        "onboard_time": 1675853671,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378329,
+        "num": 378329,
+        "word": "收费3元一本代包书皮业务火了",
+        "onboard_time": 1675847254,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377700,
+        "num": 377700,
+        "word": "班主任开学第一天救了学生一家人",
+        "onboard_time": 1675858051,
+        "rank": 15,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 374063,
+        "num": 374063,
+        "word": "浙江一县城百万年薪招聘导游",
+        "onboard_time": 1675852409,
+        "rank": 16,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 370237,
+        "num": 370237,
+        "word": "38388",
+        "onboard_time": 1675839207,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355098,
+        "num": 355098,
+        "word": "王鹤棣终于戴耳钉了",
+        "onboard_time": 1675849774,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353943,
+        "num": 353943,
+        "word": "名侦探学院友谊地久天长",
+        "onboard_time": 1675858470,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306321,
+        "num": 306321,
+        "word": "江西一乡召开适龄未婚女青年座谈会",
+        "onboard_time": 1675853131,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293153,
+        "num": 293153,
+        "word": "边伯贤翻唱信件",
+        "onboard_time": 1675859250,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285227,
+        "num": 285227,
+        "word": "狂飙庆功宴",
+        "onboard_time": 1675825230,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272278,
+        "num": 272278,
+        "word": "法国政府部门将试行四天工作制",
+        "onboard_time": 1675858531,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 266728,
+        "num": 266728,
+        "word": "应聘时把HR整不会了",
+        "onboard_time": 1675850072,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264079,
+        "num": 264079,
+        "word": "台湾花莲县4.7级地震",
+        "onboard_time": 1675854871,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236919,
+        "num": 236919,
+        "word": "张译ip地址在海南",
+        "onboard_time": 1675838607,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231876,
+        "num": 231876,
+        "word": "科学家发现高脂饮食可清除寄生虫",
+        "onboard_time": 1675858650,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 230644,
+        "num": 230644,
+        "word": "她就是我 她就是所有女性",
+        "onboard_time": 1675843591,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136902,
+        "num": 225944,
+        "word": "中国上空也曾发现过美国气球",
+        "onboard_time": 1675843473,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222858,
+        "num": 222858,
+        "word": "言承旭 我的小孩来了",
+        "onboard_time": 1675835971,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222811,
+        "num": 222811,
+        "word": "为什么现在的结婚率越来越低",
+        "onboard_time": 1675843650,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218838,
+        "num": 218838,
+        "word": "原来小狗也嫌弃自己脚臭",
+        "onboard_time": 1675843230,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215845,
+        "num": 215845,
+        "word": "突然被亲一口的猫咪有多懵",
+        "onboard_time": 1675847433,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206393,
+        "num": 206393,
+        "word": "狂飙版回家的诱惑",
+        "onboard_time": 1675859312,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203714,
+        "num": 203714,
+        "word": "这才是真正的狂飙",
+        "onboard_time": 1675858650,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194283,
+        "num": 194283,
+        "word": "沈腾唱的因为爱情",
+        "onboard_time": 1675858948,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192870,
+        "num": 192870,
+        "word": "WE战胜BLG",
+        "onboard_time": 1675858769,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164785,
+        "num": 164785,
+        "word": "樊治欣男友力",
+        "onboard_time": 1675856130,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158981,
+        "num": 158981,
+        "word": "孟晚舟将首次当值华为轮值董事长",
+        "onboard_time": 1675859192,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 158550,
+        "num": 158550,
+        "word": "吴昕说女生不能恋爱脑",
+        "onboard_time": 1675852834,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155924,
+        "num": 155924,
+        "word": "詹姆斯公司在中国已注册詹皇商标",
+        "onboard_time": 1675844612,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155058,
+        "num": 155058,
+        "word": "一国企公示名单引争议",
+        "onboard_time": 1675845813,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138472,
+        "num": 138472,
+        "word": "波力海苔表面镶嵌一团毛球",
+        "onboard_time": 1675855411,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138077,
+        "num": 138077,
+        "word": "蔡徐坤晒怼脸自拍照",
+        "onboard_time": 1675856791,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136426,
+        "num": 136426,
+        "word": "丈夫开车碾轧妻子案出新疑点",
+        "onboard_time": 1675839147,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 134783,
+        "num": 134783,
+        "word": "吴彤宋亚轩见面",
+        "onboard_time": 1675848333,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134159,
+        "num": 134159,
+        "word": "邓超孙俪中国乒乓结婚照",
+        "onboard_time": 1675846174,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124274,
+        "num": 124274,
+        "word": "3岁女童喊脚疼被确诊癌症晚期",
+        "onboard_time": 1675832855,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113747,
+        "num": 113747,
+        "word": "听说你喜欢我婚纱变装视频",
+        "onboard_time": 1675855172,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快推动藏粮于地藏粮于技战略落实落地#"
+    }
+  }
+}
