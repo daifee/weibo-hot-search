@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675820374528,
+  "endTime": 1675821863183,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -539,20 +539,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1072301,
+      "num": 1072301,
+      "word": "男老师猥亵男童获刑5年终身禁业",
+      "onboard_time": 1675817910,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1060545,
       "num": 844989,
       "word": "黄多多晒与同学比心合照",
       "onboard_time": 1675638378,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1034244,
-      "num": 1034244,
-      "word": "男老师猥亵男童获刑5年终身禁业",
-      "onboard_time": 1675817910,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1028169,
@@ -1043,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 747640,
+      "num": 747640,
+      "word": "多家银行回应存钱需提供收入证明",
+      "onboard_time": 1675820007,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 742134,
       "num": 742134,
       "word": "林孝埈连夺两金",
@@ -1155,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 694878,
+      "num": 694878,
+      "word": "女生上班通勤4小时坐10趟地铁",
+      "onboard_time": 1675820847,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693646,
       "num": 693646,
       "word": "一旦代入沈腾再也走不出来了",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1675729948,
       "rank": 6,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 670753,
+      "num": 670753,
+      "word": "震区女婴获救时脐带仍与遇难母亲相连",
+      "onboard_time": 1675819048,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 669662,
@@ -1315,14 +1339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 636783,
-      "num": 577438,
-      "word": "震区女婴获救时脐带仍与遇难母亲相连",
-      "onboard_time": 1675819048,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 633694,
       "num": 633694,
       "word": "满江红实时票房破40亿",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1675654110,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 628933,
+      "num": 628933,
+      "word": "詹姆斯认为自己是史上最佳球员",
+      "onboard_time": 1675819350,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 628623,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1675731388,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595114,
+      "num": 595114,
+      "word": "肖战新剧杀青登多国趋势",
+      "onboard_time": 1675819950,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 594436,
@@ -1489,14 +1521,6 @@
       "onboard_time": 1675676123,
       "rank": 7,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 571755,
-      "num": 571755,
-      "word": "詹姆斯认为自己是史上最佳球员",
-      "onboard_time": 1675819350,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 562606,
@@ -1691,20 +1715,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 531596,
+      "num": 531596,
+      "word": "就zei块 就zei块",
+      "onboard_time": 1675814846,
+      "rank": 16,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 530836,
       "num": 530836,
       "word": "光遇复刻",
       "onboard_time": 1675743036,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 530398,
-      "num": 530398,
-      "word": "肖战新剧杀青登多国趋势",
-      "onboard_time": 1675819950,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 528552,
@@ -2163,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421239,
+      "num": 421239,
+      "word": "人民日报评智能电视套路收费",
+      "onboard_time": 1675819527,
+      "rank": 23,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 420060,
       "num": 420060,
       "word": "谁家小狗这样贱嗖嗖的",
@@ -2393,14 +2425,6 @@
       "onboard_time": 1675744047,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 383005,
-      "num": 383005,
-      "word": "就zei块 就zei块",
-      "onboard_time": 1675814846,
-      "rank": 16,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 377972,
@@ -2787,6 +2811,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 321759,
+      "num": 321759,
+      "word": "当事人辟谣冰面滑倒晕厥去世",
+      "onboard_time": 1675820427,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319551,
       "num": 319551,
       "word": "鹿晗五哈疯狂炫醋",
@@ -2955,14 +2987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300881,
-      "num": 300881,
-      "word": "人民日报评智能电视套路收费",
-      "onboard_time": 1675819527,
-      "rank": 23,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 299719,
       "num": 299719,
       "word": "马嘉祺声生不息2录制下班路透",
@@ -3121,6 +3145,14 @@
       "onboard_time": 1675662509,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289705,
+      "num": 289705,
+      "word": "欧文说和詹姆斯永远是兄弟",
+      "onboard_time": 1675820968,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 289679,
@@ -3675,6 +3707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241403,
+      "num": 241403,
+      "word": "边水往事官宣杀青",
+      "onboard_time": 1675821566,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240940,
       "num": 240940,
       "word": "百度类ChatGPT产品名为ERNIEBOT",
@@ -3915,14 +3955,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 223109,
-      "num": 223109,
-      "word": "多家银行回应存钱需提供收入证明",
-      "onboard_time": 1675820007,
-      "rank": 30,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 222972,
       "num": 222972,
       "word": "满江红张大一句话触动孙均",
@@ -4115,6 +4147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205778,
+      "num": 205778,
+      "word": "6个少年分工合作救了一条人命",
+      "onboard_time": 1675820307,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205186,
       "num": 205186,
       "word": "狂飙里有哪些细思极恐的细节",
@@ -4291,6 +4331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193596,
+      "num": 193596,
+      "word": "男子吃霸王餐还教育店主和气生财",
+      "onboard_time": 1675820125,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193087,
       "num": 193087,
       "word": "夏花",
@@ -4371,6 +4419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188800,
+      "num": 188800,
+      "word": "山寨ChatGPT对话1300次要近百元",
+      "onboard_time": 1675821268,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 188452,
       "num": 188452,
       "word": "刘雨昕名誉维权案件进展",
@@ -4449,6 +4505,14 @@
       "onboard_time": 1675751549,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182554,
+      "num": 182554,
+      "word": "王国之泪更新定价",
+      "onboard_time": 1675821025,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 182487,
@@ -4915,6 +4979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149919,
+      "num": 149919,
+      "word": "ChatGPT究竟魅力何在",
+      "onboard_time": 1675820485,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 149685,
       "num": 149685,
       "word": "哪本小说你想安利全世界",
@@ -4987,6 +5059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141601,
+      "num": 141601,
+      "word": "欧文说和杜兰特仍是兄弟",
+      "onboard_time": 1675821685,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139666,
       "num": 139666,
       "word": "欧文期待与东契奇联手",
@@ -5011,19 +5091,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137169,
-      "num": 137169,
-      "word": "男子吃霸王餐还教育店主和气生财",
-      "onboard_time": 1675820125,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136872,
       "num": 136872,
       "word": "中国红十字会向土叙提供紧急人道主义援助",
       "onboard_time": 1675732589,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136074,
+      "num": 136074,
+      "word": "极端通勤在默默消耗年轻人的精力",
+      "onboard_time": 1675821807,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -5129,14 +5209,6 @@
       "onboard_time": 1675740809,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 127916,
-      "num": 127916,
-      "word": "6个少年分工合作救了一条人命",
-      "onboard_time": 1675820307,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126827,
