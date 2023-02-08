@@ -1,6 +1,6 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675865872884,
+  "endTime": 1675866868822,
   "band_list": [
     {
       "raw_hot": 5524134,
@@ -163,20 +163,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1507713,
+      "num": 1507713,
+      "word": "黄瑶扮演者程金铭发文",
+      "onboard_time": 1675861410,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1496835,
       "num": 1496835,
       "word": "田亮女儿首获青少年世界排名",
       "onboard_time": 1675825049,
       "rank": 30,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1474390,
-      "num": 1474390,
-      "word": "黄瑶扮演者程金铭发文",
-      "onboard_time": 1675861410,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1433282,
@@ -401,6 +401,14 @@
       "onboard_time": 1675785149,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 798122,
+      "num": 798122,
+      "word": "刘亚仁涉嫌吸毒",
+      "onboard_time": 1675866815,
+      "rank": 6,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 792855,
@@ -811,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 486072,
+      "num": 486072,
+      "word": "男子去土耳其救援前告知妻子所有密码",
+      "onboard_time": 1675865553,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484115,
       "num": 484115,
       "word": "陈晓陈妍希微信头像都是关于对方",
@@ -867,6 +883,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 447932,
+      "num": 447932,
+      "word": "人社部发文提醒职场新人",
+      "onboard_time": 1675865134,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444666,
       "num": 444666,
       "word": "女子看到空调工高空作业瞬间被戳中",
@@ -881,6 +905,14 @@
       "onboard_time": 1675782154,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 440331,
+      "num": 440331,
+      "word": "骄阳伴我人物关系",
+      "onboard_time": 1675862612,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 439504,
@@ -921,14 +953,6 @@
       "onboard_time": 1675861410,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 425794,
-      "num": 425794,
-      "word": "骄阳伴我人物关系",
-      "onboard_time": 1675862612,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 423819,
@@ -1027,20 +1051,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 375829,
+      "num": 375829,
+      "word": "张杰祝大家都能勇敢的大步向前",
+      "onboard_time": 1675864894,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 375195,
+      "num": 375195,
+      "word": "张颂文高启强登顶热播剧集角色吸粉榜",
+      "onboard_time": 1675861293,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 368710,
       "num": 368710,
       "word": "10月宝宝在自家工厂实现童车自由",
       "onboard_time": 1675808654,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365575,
-      "num": 365575,
-      "word": "张杰祝大家都能勇敢的大步向前",
-      "onboard_time": 1675864894,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 357762,
@@ -1073,14 +1105,6 @@
       "onboard_time": 1675802952,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348455,
-      "num": 348455,
-      "word": "张颂文高启强登顶热播剧集角色吸粉榜",
-      "onboard_time": 1675861293,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 346812,
@@ -1257,6 +1281,14 @@
       "onboard_time": 1675843650,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302157,
+      "num": 302157,
+      "word": "韵达回应大量包裹派送延误",
+      "onboard_time": 1675865253,
+      "rank": 43,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 300498,
@@ -1563,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241517,
+      "num": 241517,
+      "word": "阿里类ChatGPT产品正在内测",
+      "onboard_time": 1675865973,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 241403,
       "num": 241403,
       "word": "边水往事官宣杀青",
@@ -1731,14 +1771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206639,
-      "num": 206639,
-      "word": "人社部发文提醒职场新人",
-      "onboard_time": 1675865134,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205783,
       "num": 205783,
       "word": "李秀满将起诉SMTOWN理事会",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1675813881,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197847,
+      "num": 197847,
+      "word": "王子文直播",
+      "onboard_time": 1675866214,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 196408,
@@ -2075,14 +2115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165170,
-      "num": 165170,
-      "word": "男子去土耳其救援前告知妻子所有密码",
-      "onboard_time": 1675865553,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164785,
       "num": 164785,
       "word": "樊治欣男友力",
@@ -2113,14 +2145,6 @@
       "onboard_time": 1675777415,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 158960,
-      "num": 158960,
-      "word": "韵达回应大量包裹派送延误",
-      "onboard_time": 1675865253,
-      "rank": 43,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 158872,
@@ -2515,20 +2539,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 67606,
+      "num": 1487365,
+      "word": "1分钟感受春天的生机活力",
+      "onboard_time": 1675845753,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67380,
       "num": 1780022,
       "word": "开局之年第一课",
       "onboard_time": 1675848931,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 59192,
-      "num": 1487365,
-      "word": "1分钟感受春天的生机活力",
-      "onboard_time": 1675845753,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58240,

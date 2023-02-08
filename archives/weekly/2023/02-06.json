@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675865872884,
+  "endTime": 1675866868822,
   "band_list": [
     {
       "raw_hot": 5524134,
@@ -387,6 +387,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1507713,
+      "num": 1507713,
+      "word": "黄瑶扮演者程金铭发文",
+      "onboard_time": 1675861410,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1498356,
       "num": 1498356,
       "word": "女子取药时发现医生用手机追剧",
@@ -417,14 +425,6 @@
       "onboard_time": 1675682730,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1474390,
-      "num": 1474390,
-      "word": "黄瑶扮演者程金铭发文",
-      "onboard_time": 1675861410,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1450049,
@@ -1281,6 +1281,14 @@
       "onboard_time": 1675785149,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 798122,
+      "num": 798122,
+      "word": "刘亚仁涉嫌吸毒",
+      "onboard_time": 1675866815,
+      "rank": 6,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 792855,
@@ -2539,6 +2547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 486072,
+      "num": 486072,
+      "word": "男子去土耳其救援前告知妻子所有密码",
+      "onboard_time": 1675865553,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484294,
       "num": 484294,
       "word": "央美学生还原三体火鸡科学家",
@@ -2675,6 +2691,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 447932,
+      "num": 447932,
+      "word": "人社部发文提醒职场新人",
+      "onboard_time": 1675865134,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446790,
       "num": 446790,
       "word": "中国政府决定向土叙提供紧急援助",
@@ -2721,6 +2745,14 @@
       "onboard_time": 1675606354,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 440331,
+      "num": 440331,
+      "word": "骄阳伴我人物关系",
+      "onboard_time": 1675862612,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 439890,
@@ -2865,14 +2897,6 @@
       "onboard_time": 1675752270,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 425794,
-      "num": 425794,
-      "word": "骄阳伴我人物关系",
-      "onboard_time": 1675862612,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 423819,
@@ -3219,6 +3243,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 375829,
+      "num": 375829,
+      "word": "张杰祝大家都能勇敢的大步向前",
+      "onboard_time": 1675864894,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 375195,
+      "num": 375195,
+      "word": "张颂文高启强登顶热播剧集角色吸粉榜",
+      "onboard_time": 1675861293,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372694,
       "num": 372694,
       "word": "偶遇Lisa和妈妈逛街",
@@ -3289,14 +3329,6 @@
       "onboard_time": 1675658971,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365575,
-      "num": 365575,
-      "word": "张杰祝大家都能勇敢的大步向前",
-      "onboard_time": 1675864894,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 363500,
@@ -3400,14 +3432,6 @@
       "word": "肖战盛阳片场休息路透",
       "onboard_time": 1675669286,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 348455,
-      "num": 348455,
-      "word": "张颂文高启强登顶热播剧集角色吸粉榜",
-      "onboard_time": 1675861293,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -3897,6 +3921,14 @@
       "onboard_time": 1675843650,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302157,
+      "num": 302157,
+      "word": "韵达回应大量包裹派送延误",
+      "onboard_time": 1675865253,
+      "rank": 43,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 302113,
@@ -4843,6 +4875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241517,
+      "num": 241517,
+      "word": "阿里类ChatGPT产品正在内测",
+      "onboard_time": 1675865973,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 241403,
       "num": 241403,
       "word": "边水往事官宣杀青",
@@ -5387,14 +5427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 206639,
-      "num": 206639,
-      "word": "人社部发文提醒职场新人",
-      "onboard_time": 1675865134,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206013,
       "num": 206013,
       "word": "张婧仪周一白色吊带裙随拍",
@@ -5537,6 +5569,14 @@
       "onboard_time": 1675750894,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197847,
+      "num": 197847,
+      "word": "王子文直播",
+      "onboard_time": 1675866214,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 197831,
@@ -6235,14 +6275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165170,
-      "num": 165170,
-      "word": "男子去土耳其救援前告知妻子所有密码",
-      "onboard_time": 1675865553,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164970,
       "num": 164970,
       "word": "无名北美版海报",
@@ -6361,14 +6393,6 @@
       "onboard_time": 1675679128,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158960,
-      "num": 158960,
-      "word": "韵达回应大量包裹派送延误",
-      "onboard_time": 1675865253,
-      "rank": 43,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 158872,
@@ -7123,6 +7147,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 67606,
+      "num": 1487365,
+      "word": "1分钟感受春天的生机活力",
+      "onboard_time": 1675845753,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67380,
       "num": 1780022,
       "word": "开局之年第一课",
@@ -7143,14 +7175,6 @@
       "num": 1656145,
       "word": "流动的中国活力",
       "onboard_time": 1675669826,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59192,
-      "num": 1487365,
-      "word": "1分钟感受春天的生机活力",
-      "onboard_time": 1675845753,
       "rank": 2,
       "category": "社会新闻"
     },
