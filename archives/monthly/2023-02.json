@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675854970192,
+  "endTime": 1675856029093,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2943348,
+      "num": 2943348,
+      "word": "言承旭道歉",
+      "onboard_time": 1675853734,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2880224,
       "num": 2880224,
       "word": "外交部就美称击落我无人飞艇发表声明",
@@ -233,14 +241,6 @@
       "onboard_time": 1675237951,
       "rank": 4,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2739367,
-      "num": 2739367,
-      "word": "言承旭道歉",
-      "onboard_time": 1675853734,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 2648673,
@@ -5355,6 +5355,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 575870,
+      "num": 532896,
+      "word": "台湾花莲县4.7级地震",
+      "onboard_time": 1675854871,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 575021,
       "num": 575021,
       "word": "网传张凌赫宋祖儿主演七星彩",
@@ -5449,6 +5457,14 @@
       "onboard_time": 1675387948,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 563558,
+      "num": 563558,
+      "word": "浙江一县城百万年薪招聘导游",
+      "onboard_time": 1675852409,
+      "rank": 43,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 562606,
@@ -6027,6 +6043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 525651,
+      "num": 525651,
+      "word": "小羊都草莓自由了",
+      "onboard_time": 1675853671,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 525574,
       "num": 525574,
       "word": "杭州小学生在烟花大会现场补作业",
@@ -6305,14 +6329,6 @@
       "onboard_time": 1675822584,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 505114,
-      "num": 505114,
-      "word": "浙江一县城百万年薪招聘导游",
-      "onboard_time": 1675852409,
-      "rank": 43,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 504768,
@@ -7443,6 +7459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423819,
+      "num": 423819,
+      "word": "江西一乡召开适龄未婚女青年座谈会",
+      "onboard_time": 1675853131,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423300,
       "num": 501196,
       "word": "刘慈欣称太空电梯最难是材料",
@@ -8369,14 +8393,6 @@
       "onboard_time": 1675304259,
       "rank": 23,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 376979,
-      "num": 376979,
-      "word": "小羊都草莓自由了",
-      "onboard_time": 1675853671,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 376871,
@@ -9363,14 +9379,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 331960,
-      "num": 331960,
-      "word": "江西一乡召开适龄未婚女青年座谈会",
-      "onboard_time": 1675853131,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 331459,
       "num": 318821,
       "word": "狂飙演员谈和张译合作感受",
@@ -9433,6 +9441,14 @@
       "onboard_time": 1675295722,
       "rank": 28,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 327895,
+      "num": 327895,
+      "word": "涉少女吸毒死亡案酒店暂停营业",
+      "onboard_time": 1675855474,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327605,
@@ -10697,6 +10713,14 @@
       "onboard_time": 1675173996,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285345,
+      "num": 285345,
+      "word": "BLG对战WE",
+      "onboard_time": 1675855893,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 285243,
@@ -11985,6 +12009,22 @@
       "onboard_time": 1675481667,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249012,
+      "num": 249012,
+      "word": "陈妍希说嗑陈晓和王一博兄弟情",
+      "onboard_time": 1675855950,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248854,
+      "num": 236264,
+      "word": "吴昕说女生不能恋爱脑",
+      "onboard_time": 1675852834,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 248827,
@@ -14347,14 +14387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190900,
-      "num": 190900,
-      "word": "吴昕说女生不能恋爱脑",
-      "onboard_time": 1675852834,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190640,
       "num": 190640,
       "word": "这猫在演我晕车的样子",
@@ -16515,6 +16547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150653,
+      "num": 150653,
+      "word": "波力海苔表面镶嵌一团毛球",
+      "onboard_time": 1675855411,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150443,
       "num": 150443,
       "word": "肠粉加不加酱油真的这么重要吗",
@@ -16753,14 +16793,6 @@
       "onboard_time": 1675564648,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144775,
-      "num": 144775,
-      "word": "台湾花莲县4.7级地震",
-      "onboard_time": 1675854871,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144228,
@@ -17481,6 +17513,14 @@
       "onboard_time": 1675639701,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120982,
+      "num": 120982,
+      "word": "猫咪是有多爱干架",
+      "onboard_time": 1675855771,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 120458,

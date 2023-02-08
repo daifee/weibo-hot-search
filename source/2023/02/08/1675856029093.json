@@ -1,0 +1,410 @@
+{
+  "runTime": 1675856029093,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2943348,
+        "num": 2943348,
+        "word": "言承旭道歉",
+        "onboard_time": 1675853734,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1862789,
+        "num": 1862789,
+        "word": "宝鸡发现1例全球罕见黄金血型",
+        "onboard_time": 1675843711,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63097,
+        "num": 1452587,
+        "word": "开局之年第一课",
+        "onboard_time": 1675848931,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1204267,
+        "num": 1204267,
+        "word": "丢失两年的手机半夜仍被人试图解锁",
+        "onboard_time": 1675847972,
+        "rank": 3,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 944659,
+        "num": 944659,
+        "word": "杨颖BLACKPINK同框",
+        "onboard_time": 1675846353,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780375,
+        "num": 780375,
+        "word": "言承旭 我的小孩来了",
+        "onboard_time": 1675835971,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 725810,
+        "num": 725810,
+        "word": "38388",
+        "onboard_time": 1675839207,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 705563,
+        "num": 705563,
+        "word": "张译去不去狂飙庆功宴",
+        "onboard_time": 1675845151,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 563558,
+        "num": 563558,
+        "word": "浙江一县城百万年薪招聘导游",
+        "onboard_time": 1675852409,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 534195,
+        "num": 534195,
+        "word": "应聘时把HR整不会了",
+        "onboard_time": 1675850072,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 575870,
+        "num": 532896,
+        "word": "台湾花莲县4.7级地震",
+        "onboard_time": 1675854871,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528878,
+        "num": 528878,
+        "word": "收费3元一本代包书皮业务火了",
+        "onboard_time": 1675847254,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525651,
+        "num": 525651,
+        "word": "小羊都草莓自由了",
+        "onboard_time": 1675853671,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 494495,
+        "num": 494495,
+        "word": "王鹤棣终于戴耳钉了",
+        "onboard_time": 1675849774,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468078,
+        "num": 468078,
+        "word": "强震已致土耳其叙利亚逾8000人遇难",
+        "onboard_time": 1675838548,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423819,
+        "num": 423819,
+        "word": "江西一乡召开适龄未婚女青年座谈会",
+        "onboard_time": 1675853131,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388457,
+        "num": 388457,
+        "word": "狂飙庆功宴",
+        "onboard_time": 1675825230,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327895,
+        "num": 327895,
+        "word": "涉少女吸毒死亡案酒店暂停营业",
+        "onboard_time": 1675855474,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325003,
+        "num": 325003,
+        "word": "张译ip地址在海南",
+        "onboard_time": 1675838607,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293289,
+        "num": 293289,
+        "word": "她就是我 她就是所有女性",
+        "onboard_time": 1675843591,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285345,
+        "num": 285345,
+        "word": "BLG对战WE",
+        "onboard_time": 1675855893,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276688,
+        "num": 276688,
+        "word": "为什么现在的结婚率越来越低",
+        "onboard_time": 1675843650,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265983,
+        "num": 265983,
+        "word": "一国企公示名单引争议",
+        "onboard_time": 1675845813,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259568,
+        "num": 259568,
+        "word": "高叶ip地址在浙江",
+        "onboard_time": 1675849289,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249012,
+        "num": 249012,
+        "word": "陈妍希说嗑陈晓和王一博兄弟情",
+        "onboard_time": 1675855950,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236898,
+        "num": 236898,
+        "word": "突然被亲一口的猫咪有多懵",
+        "onboard_time": 1675847433,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248854,
+        "num": 236264,
+        "word": "吴昕说女生不能恋爱脑",
+        "onboard_time": 1675852834,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234049,
+        "num": 234049,
+        "word": "詹姆斯公司在中国已注册詹皇商标",
+        "onboard_time": 1675844612,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219272,
+        "num": 219272,
+        "word": "3岁女童喊脚疼被确诊癌症晚期",
+        "onboard_time": 1675832855,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215470,
+        "num": 215470,
+        "word": "吴彤宋亚轩见面",
+        "onboard_time": 1675848333,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205908,
+        "num": 205908,
+        "word": "丈夫开车碾轧妻子案出新疑点",
+        "onboard_time": 1675839147,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 198530,
+        "num": 198530,
+        "word": "网传七家国有航司被要求停止低价投放",
+        "onboard_time": 1675846353,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198367,
+        "num": 198367,
+        "word": "邓超孙俪中国乒乓结婚照",
+        "onboard_time": 1675846174,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189559,
+        "num": 189559,
+        "word": "原来小狗也嫌弃自己脚臭",
+        "onboard_time": 1675843230,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179735,
+        "num": 179735,
+        "word": "台湾永远不可能成为一个国家",
+        "onboard_time": 1675830996,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 171507,
+        "num": 171507,
+        "word": "国乒全主力出战WTT大满贯",
+        "onboard_time": 1675853253,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167555,
+        "num": 167555,
+        "word": "李秀满住院接受治疗",
+        "onboard_time": 1675837828,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160198,
+        "num": 160198,
+        "word": "KPL实现一户一鲁班",
+        "onboard_time": 1675852953,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153917,
+        "num": 153917,
+        "word": "满江红成中国影史票房榜第8名",
+        "onboard_time": 1675832855,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151413,
+        "num": 151413,
+        "word": "中国上空也曾发现过美国气球",
+        "onboard_time": 1675843473,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150653,
+        "num": 150653,
+        "word": "波力海苔表面镶嵌一团毛球",
+        "onboard_time": 1675855411,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140770,
+        "num": 140770,
+        "word": "林俊杰说权志龙很帅很谦虚",
+        "onboard_time": 1675844733,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135171,
+        "num": 135171,
+        "word": "邓超回复草图君你演个球",
+        "onboard_time": 1675844008,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123318,
+        "num": 123318,
+        "word": "詹姆斯NBA历史得分王",
+        "onboard_time": 1675832618,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121452,
+        "num": 121452,
+        "word": "当给妈妈说去殡仪馆上班后",
+        "onboard_time": 1675837949,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120982,
+        "num": 120982,
+        "word": "猫咪是有多爱干架",
+        "onboard_time": 1675855771,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119322,
+        "num": 119322,
+        "word": "王骁 嘉行",
+        "onboard_time": 1675832736,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113338,
+        "num": 113338,
+        "word": "樊治欣李墨之直播",
+        "onboard_time": 1675843410,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110227,
+        "num": 110227,
+        "word": "咱们还有仨人在天上",
+        "onboard_time": 1675848452,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 107247,
+        "num": 107247,
+        "word": "春楠镜头里的关晓彤",
+        "onboard_time": 1675846472,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年第一课为我们指明了方向#"
+    }
+  }
+}
