@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675898334990,
+  "endTime": 1675899237688,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -795,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1077212,
+      "num": 1077212,
+      "word": "异丙酚",
+      "onboard_time": 1675898301,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1072301,
       "num": 1072301,
       "word": "男老师猥亵男童获刑5年终身禁业",
@@ -1403,6 +1411,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 759045,
+      "num": 759045,
+      "word": "通勤时间过长会有什么影响",
+      "onboard_time": 1675896437,
+      "rank": 1,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 756282,
       "num": 756282,
       "word": "7pm 好听",
@@ -1899,6 +1915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 613210,
+      "num": 315606,
+      "word": "张大大连麦的女网友疑似被家暴",
+      "onboard_time": 1675898481,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 610760,
       "num": 553648,
       "word": "张常宁悼念父亲",
@@ -2259,14 +2283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536288,
-      "num": 536288,
-      "word": "通勤时间过长会有什么影响",
-      "onboard_time": 1675896437,
-      "rank": 1,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 536168,
       "num": 536168,
       "word": "王俊凯晒下班夕阳随拍",
@@ -2585,6 +2601,14 @@
       "onboard_time": 1675687409,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 492765,
+      "num": 301195,
+      "word": "山东嫁土耳其女子震前返回老家",
+      "onboard_time": 1675898420,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492330,
@@ -3235,6 +3259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 391187,
+      "num": 391187,
+      "word": "中国以全球最高价进口俄油系误导",
+      "onboard_time": 1675888212,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 391080,
       "num": 391080,
       "word": "葛优诉B站侵权案将开庭",
@@ -3569,14 +3601,6 @@
       "onboard_time": 1675611691,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 343583,
-      "num": 343583,
-      "word": "中国以全球最高价进口俄油系误导",
-      "onboard_time": 1675888212,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 342583,
@@ -4443,6 +4467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 277228,
+      "num": 277228,
+      "word": "幽灵诡计",
+      "onboard_time": 1675897938,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275917,
       "num": 275917,
       "word": "白百何新剧状态",
@@ -4577,6 +4609,14 @@
       "onboard_time": 1675725439,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 266354,
+      "num": 105516,
+      "word": "母亲废墟中诞下女婴后离世",
+      "onboard_time": 1675898358,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266242,
@@ -5163,14 +5203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231554,
-      "num": 231554,
-      "word": "异丙酚",
-      "onboard_time": 1675898301,
-      "rank": 11,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 231510,
       "num": 231510,
       "word": "这猫咪为了玩一直负重前行",
@@ -5393,6 +5425,22 @@
       "onboard_time": 1675754611,
       "rank": 47,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 217718,
+      "num": 217718,
+      "word": "忠武路演员",
+      "onboard_time": 1675898301,
+      "rank": 35,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 217580,
+      "num": 217580,
+      "word": "南京玄武湖600岁古梅绽放",
+      "onboard_time": 1675895895,
+      "rank": 16,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 217551,
@@ -5633,6 +5681,14 @@
       "onboard_time": 1675741111,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204396,
+      "num": 204396,
+      "word": "不锈钢擦出的黑黑的东西是什么",
+      "onboard_time": 1675874723,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204360,
@@ -6201,6 +6257,14 @@
       "onboard_time": 1675840049,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176247,
+      "num": 176247,
+      "word": "男子车祸现场未撤离被撞飞下桥",
+      "onboard_time": 1675898358,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176093,
@@ -6811,14 +6875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146428,
-      "num": 146428,
-      "word": "不锈钢擦出的黑黑的东西是什么",
-      "onboard_time": 1675874723,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143143,
       "num": 143143,
       "word": "赵露思哭戏路透",
@@ -6841,22 +6897,6 @@
       "onboard_time": 1675839628,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 140346,
-      "num": 140346,
-      "word": "南京玄武湖600岁古梅绽放",
-      "onboard_time": 1675895895,
-      "rank": 16,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 139959,
-      "num": 86682,
-      "word": "幽灵诡计",
-      "onboard_time": 1675897938,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 139666,
@@ -6905,6 +6945,14 @@
       "onboard_time": 1675732589,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136634,
+      "num": 136634,
+      "word": "王子文说经济独立很重要",
+      "onboard_time": 1675877656,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 135787,
@@ -7147,14 +7195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117476,
-      "num": 117476,
-      "word": "王子文说经济独立很重要",
-      "onboard_time": 1675877656,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116817,
       "num": 116817,
       "word": "郑钦文晋级阿布扎比站8强",
@@ -7323,6 +7363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90519,
+      "num": 90519,
+      "word": "马赛2比1巴黎圣日耳曼",
+      "onboard_time": 1675898842,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87689,
       "num": 252110,
       "word": "安聪慧领衔让世界看见中国车",
@@ -7363,6 +7411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 80168,
+      "num": 80168,
+      "word": "曼联2比2利兹联",
+      "onboard_time": 1675898661,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79693,
       "num": 79693,
       "word": "南京平均月薪11145元",
@@ -7395,12 +7451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74210,
-      "num": 74210,
-      "word": "忠武路演员",
-      "onboard_time": 1675898301,
-      "rank": 35,
-      "category": "社会新闻,艺人"
+      "raw_hot": 72854,
+      "num": 72854,
+      "word": "任天堂直面会",
+      "onboard_time": 1675899022,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 70217,
@@ -7432,6 +7488,14 @@
       "word": "元宵喜乐",
       "onboard_time": 1675589368,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64539,
+      "num": 64539,
+      "word": "父女这一握已天人永隔",
+      "onboard_time": 1675899142,
+      "rank": 45,
       "category": "社会新闻"
     },
     {

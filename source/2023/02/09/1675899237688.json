@@ -1,0 +1,410 @@
+{
+  "runTime": 1675899237688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1301847,
+        "num": 1301847,
+        "word": "刘亚仁涉嫌吸毒",
+        "onboard_time": 1675866815,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1077212,
+        "num": 1077212,
+        "word": "异丙酚",
+        "onboard_time": 1675898301,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 37751,
+        "num": 895191,
+        "word": "1分钟感受春天的生机活力",
+        "onboard_time": 1675845753,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759045,
+        "num": 759045,
+        "word": "通勤时间过长会有什么影响",
+        "onboard_time": 1675896437,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 438157,
+        "num": 438157,
+        "word": "马航MH17坠机案调查暂停",
+        "onboard_time": 1675860632,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391187,
+        "num": 391187,
+        "word": "中国以全球最高价进口俄油系误导",
+        "onboard_time": 1675888212,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 375207,
+        "num": 375207,
+        "word": "官方回应中国游客普吉岛旅游被割伤",
+        "onboard_time": 1675871610,
+        "rank": 6,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 328843,
+        "num": 328843,
+        "word": "14岁男孩寄养大伯家辍学杀鱼",
+        "onboard_time": 1675869994,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322305,
+        "num": 322305,
+        "word": "土耳其2岁男孩被压废墟44小时不哭不闹",
+        "onboard_time": 1675891932,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322253,
+        "num": 322253,
+        "word": "陈妍希只看了梦华录前十集",
+        "onboard_time": 1675868022,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 613210,
+        "num": 315606,
+        "word": "张大大连麦的女网友疑似被家暴",
+        "onboard_time": 1675898481,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 492765,
+        "num": 301195,
+        "word": "山东嫁土耳其女子震前返回老家",
+        "onboard_time": 1675898420,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277228,
+        "num": 277228,
+        "word": "幽灵诡计",
+        "onboard_time": 1675897938,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258380,
+        "num": 258380,
+        "word": "宝鸡发现1例全球罕见黄金血型",
+        "onboard_time": 1675843711,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238171,
+        "num": 238171,
+        "word": "日本一沙滩惊现大量沙丁鱼",
+        "onboard_time": 1675881434,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217718,
+        "num": 217718,
+        "word": "忠武路演员",
+        "onboard_time": 1675898301,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 217580,
+        "num": 217580,
+        "word": "南京玄武湖600岁古梅绽放",
+        "onboard_time": 1675895895,
+        "rank": 16,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 204396,
+        "num": 204396,
+        "word": "不锈钢擦出的黑黑的东西是什么",
+        "onboard_time": 1675874723,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199281,
+        "num": 199281,
+        "word": "言承旭道歉",
+        "onboard_time": 1675853734,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184109,
+        "num": 184109,
+        "word": "张译去不去狂飙庆功宴",
+        "onboard_time": 1675845151,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176247,
+        "num": 176247,
+        "word": "男子车祸现场未撤离被撞飞下桥",
+        "onboard_time": 1675898358,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136634,
+        "num": 136634,
+        "word": "王子文说经济独立很重要",
+        "onboard_time": 1675877656,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129587,
+        "num": 129587,
+        "word": "韵达回应大量包裹派送延误",
+        "onboard_time": 1675865253,
+        "rank": 22,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 129154,
+        "num": 129154,
+        "word": "声生不息宝岛季开录",
+        "onboard_time": 1675868975,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123932,
+        "num": 123932,
+        "word": "泽连斯基抵达英国",
+        "onboard_time": 1675873344,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119725,
+        "num": 119725,
+        "word": "黄瑶扮演者程金铭发文",
+        "onboard_time": 1675861410,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111922,
+        "num": 111922,
+        "word": "强震已致土耳其叙利亚上万人遇难",
+        "onboard_time": 1675856370,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109636,
+        "num": 109636,
+        "word": "宋慧乔活动新闻生图",
+        "onboard_time": 1675863932,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107200,
+        "num": 107200,
+        "word": "徐江中枪躺桌子上是贾冰设计的",
+        "onboard_time": 1675858829,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105623,
+        "num": 105623,
+        "word": "流浪地球狂飙在两岸掀起追剧热潮",
+        "onboard_time": 1675867719,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266354,
+        "num": 105516,
+        "word": "母亲废墟中诞下女婴后离世",
+        "onboard_time": 1675898358,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104170,
+        "num": 104170,
+        "word": "狂飙版回家的诱惑",
+        "onboard_time": 1675859312,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101009,
+        "num": 101009,
+        "word": "唐嫣宋亚轩埋头笑",
+        "onboard_time": 1675868439,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99989,
+        "num": 99989,
+        "word": "人社部发文提醒职场新人",
+        "onboard_time": 1675865134,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94604,
+        "num": 94604,
+        "word": "为什么现在的结婚率越来越低",
+        "onboard_time": 1675843650,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90519,
+        "num": 90519,
+        "word": "马赛2比1巴黎圣日耳曼",
+        "onboard_time": 1675898842,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88594,
+        "num": 88594,
+        "word": "张大大念网友私信",
+        "onboard_time": 1675876159,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83361,
+        "num": 83361,
+        "word": "陈妍希说嗑陈晓和王一博兄弟情",
+        "onboard_time": 1675855950,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80168,
+        "num": 80168,
+        "word": "曼联2比2利兹联",
+        "onboard_time": 1675898661,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79091,
+        "num": 79091,
+        "word": "周杰伦晒打高尔夫比耶自拍",
+        "onboard_time": 1675897816,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72854,
+        "num": 72854,
+        "word": "任天堂直面会",
+        "onboard_time": 1675899022,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68298,
+        "num": 68298,
+        "word": "骄阳伴我人物关系",
+        "onboard_time": 1675862612,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68222,
+        "num": 68222,
+        "word": "阿里类ChatGPT产品正在内测",
+        "onboard_time": 1675865973,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 65984,
+        "num": 65984,
+        "word": "于和伟问这牛够不够吹十年",
+        "onboard_time": 1675873585,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65335,
+        "num": 65335,
+        "word": "柬埔寨旅游可直接用人民币",
+        "onboard_time": 1675867839,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 64539,
+        "num": 64539,
+        "word": "父女这一握已天人永隔",
+        "onboard_time": 1675899142,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63681,
+        "num": 63681,
+        "word": "李敏镐最新活动新闻图",
+        "onboard_time": 1675866873,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62266,
+        "num": 62266,
+        "word": "蔡徐坤分享新发色",
+        "onboard_time": 1675863212,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55559,
+        "num": 55559,
+        "word": "收费3元一本代包书皮业务火了",
+        "onboard_time": 1675847254,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55536,
+        "num": 55536,
+        "word": "流浪地球2将在俄罗斯上映",
+        "onboard_time": 1675869275,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}
