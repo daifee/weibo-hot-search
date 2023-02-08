@@ -1,0 +1,410 @@
+{
+  "runTime": 1675820374528,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2267638,
+        "num": 2267638,
+        "word": "西安不倒翁小姐姐回应生娃面容憔悴",
+        "onboard_time": 1675812561,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1680082,
+        "num": 1680082,
+        "word": "唐小强",
+        "onboard_time": 1675816289,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 13692,
+        "num": 1214536,
+        "word": "流动的中国绽放着蓬勃活力",
+        "onboard_time": 1675756171,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1034244,
+        "num": 1034244,
+        "word": "男老师猥亵男童获刑5年终身禁业",
+        "onboard_time": 1675817910,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821599,
+        "num": 821599,
+        "word": "韩国申报的文化遗产来自日本",
+        "onboard_time": 1675812500,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759556,
+        "num": 759556,
+        "word": "微软正式将ChatGPT引入必应",
+        "onboard_time": 1675817068,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 707723,
+        "num": 707723,
+        "word": "微软市值一夜飙涨5450亿",
+        "onboard_time": 1675818570,
+        "rank": 6,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 693646,
+        "num": 693646,
+        "word": "一旦代入沈腾再也走不出来了",
+        "onboard_time": 1675817431,
+        "rank": 7,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 608237,
+        "num": 608237,
+        "word": "王曼昱",
+        "onboard_time": 1675816649,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 578474,
+        "num": 578474,
+        "word": "土耳其地震已致该国5894人死亡",
+        "onboard_time": 1675813042,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636783,
+        "num": 577438,
+        "word": "震区女婴获救时脐带仍与遇难母亲相连",
+        "onboard_time": 1675819048,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571755,
+        "num": 571755,
+        "word": "詹姆斯认为自己是史上最佳球员",
+        "onboard_time": 1675819350,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 535471,
+        "num": 535471,
+        "word": "结婚一定要有求婚仪式吗",
+        "onboard_time": 1675813702,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 530398,
+        "num": 530398,
+        "word": "肖战新剧杀青登多国趋势",
+        "onboard_time": 1675819950,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 504768,
+        "num": 504768,
+        "word": "父亲在废墟里牵着遇难女儿的手",
+        "onboard_time": 1675814786,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435496,
+        "num": 435496,
+        "word": "25岁女生记录矫正牙齿全过程",
+        "onboard_time": 1675804990,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383005,
+        "num": 383005,
+        "word": "就zei块 就zei块",
+        "onboard_time": 1675814846,
+        "rank": 16,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 373189,
+        "num": 373189,
+        "word": "叙利亚地震后美国仍拒绝解除制裁",
+        "onboard_time": 1675794794,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 367212,
+        "num": 367212,
+        "word": "吴昕换头像被杜海涛问怀孕了吗",
+        "onboard_time": 1675774292,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357762,
+        "num": 357762,
+        "word": "7岁女孩废墟中保护弟弟17小时",
+        "onboard_time": 1675816351,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350763,
+        "num": 350763,
+        "word": "男子被骂吃不起饭隔天带4菜店外吃播",
+        "onboard_time": 1675802952,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344973,
+        "num": 344973,
+        "word": "张译新闻联播镜头",
+        "onboard_time": 1675779033,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341534,
+        "num": 341534,
+        "word": "土耳其",
+        "onboard_time": 1675816467,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300881,
+        "num": 300881,
+        "word": "人民日报评智能电视套路收费",
+        "onboard_time": 1675819527,
+        "rank": 23,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 296931,
+        "num": 296931,
+        "word": "杨卫宁叶文洁终得正果",
+        "onboard_time": 1675817309,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289510,
+        "num": 289510,
+        "word": "山东有一个公交站叫满江红",
+        "onboard_time": 1675812380,
+        "rank": 25,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 289315,
+        "num": 289315,
+        "word": "白百何给员工放假30天",
+        "onboard_time": 1675782154,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273528,
+        "num": 273528,
+        "word": "叙利亚",
+        "onboard_time": 1675812801,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271562,
+        "num": 271562,
+        "word": "学生在他照片下留言IP遍布全国",
+        "onboard_time": 1675780114,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229170,
+        "num": 229170,
+        "word": "陈晓陈妍希微信头像都是关于对方",
+        "onboard_time": 1675777593,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223109,
+        "num": 223109,
+        "word": "多家银行回应存钱需提供收入证明",
+        "onboard_time": 1675820007,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 207512,
+        "num": 207512,
+        "word": "女子想丁克妈妈说开心就好",
+        "onboard_time": 1675806972,
+        "rank": 31,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 202918,
+        "num": 202918,
+        "word": "10月宝宝在自家工厂实现童车自由",
+        "onboard_time": 1675808654,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198510,
+        "num": 198510,
+        "word": "唐嫣数人头忘记数自己",
+        "onboard_time": 1675813881,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193658,
+        "num": 193658,
+        "word": "女子取药时发现医生用手机追剧",
+        "onboard_time": 1675773030,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191454,
+        "num": 191454,
+        "word": "证券日报称谨防上市公司蹭ChatGPT热点",
+        "onboard_time": 1675820186,
+        "rank": 35,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 183643,
+        "num": 183643,
+        "word": "赵丽颖点赞深海导演",
+        "onboard_time": 1675815208,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181037,
+        "num": 181037,
+        "word": "没阳过的孩子能上学吗",
+        "onboard_time": 1675788023,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 173431,
+        "num": 173431,
+        "word": "成都平均月薪10039元",
+        "onboard_time": 1675772069,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 173260,
+        "num": 173260,
+        "word": "原来拖延症和懒没关系",
+        "onboard_time": 1675789998,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 171496,
+        "num": 171496,
+        "word": "黑豹2好看吗",
+        "onboard_time": 1675812441,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166935,
+        "num": 166935,
+        "word": "48岁老师去世天南海北学生赶回悼念",
+        "onboard_time": 1675776812,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 157889,
+        "num": 157889,
+        "word": "杜华帮儿子要虞书欣签名照",
+        "onboard_time": 1675776392,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152076,
+        "num": 152076,
+        "word": "466元6块糖涉事店铺修改价签",
+        "onboard_time": 1675778193,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150125,
+        "num": 150125,
+        "word": "安欣没救到的只有李响",
+        "onboard_time": 1675785149,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140012,
+        "num": 140012,
+        "word": "中年裸辞意味着什么",
+        "onboard_time": 1675771169,
+        "rank": 45,
+        "category": "影视,社会议题"
+      },
+      {
+        "raw_hot": 137169,
+        "num": 137169,
+        "word": "男子吃霸王餐还教育店主和气生财",
+        "onboard_time": 1675820125,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128319,
+        "num": 128319,
+        "word": "网友在泰国偶遇鞠婧祎",
+        "onboard_time": 1675782154,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127916,
+        "num": 127916,
+        "word": "6个少年分工合作救了一条人命",
+        "onboard_time": 1675820307,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127706,
+        "num": 127706,
+        "word": "抖音将于3月1日上线全国外卖服务",
+        "onboard_time": 1675762349,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#尊重人民群众主体地位和首创精神#"
+    }
+  }
+}
