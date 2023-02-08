@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/01 00:26:13 ~ 2023/02/09 00:44:59
+本榜单时间：2023/02/01 00:26:13 ~ 2023/02/09 01:17:37
 </p>
 </blockquote>
 <p>
@@ -2715,6 +2715,12 @@ SMTOWN新女团将第二季度出道（热度：796817）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%99%AE%E5%90%89%E5%B2%9B%E6%97%85%E6%B8%B8%E8%A2%AB%E5%89%B2%E4%BC%A4%23" target="weibo">
+官方回应中国游客普吉岛旅游被割伤（热度：778620）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%80%BB%E5%96%8A%E8%85%B9%E7%97%9B%E8%A2%AB%E8%AF%B4%E5%8E%8C%E5%AD%A6%E6%9F%A5%E5%87%BA%E6%81%B6%E6%80%A7%E8%82%BF%E7%98%A4%23" target="weibo">
 女孩总喊腹痛被说厌学查出恶性肿瘤（热度：778406）
 </a>
@@ -2975,12 +2981,6 @@ SMTOWN新女团将第二季度出道（热度：796817）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E8%B6%85%E5%B8%821%E4%B8%AA%E6%A9%99%E5%AD%90%E5%8D%96128%E5%85%83%23" target="weibo">
 女子发现超市1个橙子卖128元（热度：728978）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%99%AE%E5%90%89%E5%B2%9B%E6%97%85%E6%B8%B8%E8%A2%AB%E5%89%B2%E4%BC%A4%23" target="weibo">
-官方回应中国游客普吉岛旅游被割伤（热度：728049）
 </a>
 </li>
 
