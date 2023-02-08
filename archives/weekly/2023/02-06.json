@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675852726468,
+  "endTime": 1675854970192,
   "band_list": [
     {
       "raw_hot": 5524134,
@@ -49,6 +49,14 @@
       "onboard_time": 1675762349,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2739367,
+      "num": 2739367,
+      "word": "言承旭道歉",
+      "onboard_time": 1675853734,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2611842,
@@ -833,6 +841,14 @@
       "onboard_time": 1675771169,
       "rank": 1,
       "category": "影视,社会议题"
+    },
+    {
+      "raw_hot": 981178,
+      "num": 264771,
+      "word": "父亲回应女儿疑遭强迫吸毒致死",
+      "onboard_time": 1675852470,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 973744,
@@ -1643,6 +1659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 652646,
+      "num": 652646,
+      "word": "应聘时把HR整不会了",
+      "onboard_time": 1675850072,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 652433,
       "num": 580942,
       "word": "男子称买蒙牛酸奶打开都是清水",
@@ -1657,14 +1681,6 @@
       "onboard_time": 1675650207,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 649762,
-      "num": 649762,
-      "word": "应聘时把HR整不会了",
-      "onboard_time": 1675850072,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 647816,
@@ -2281,6 +2297,14 @@
       "onboard_time": 1675822584,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 505114,
+      "num": 505114,
+      "word": "浙江一县城百万年薪招聘导游",
+      "onboard_time": 1675852409,
+      "rank": 43,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 504768,
@@ -3019,6 +3043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376979,
+      "num": 376979,
+      "word": "小羊都草莓自由了",
+      "onboard_time": 1675853671,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 376861,
       "num": 376861,
       "word": "杨幂未来感大片预告",
@@ -3336,6 +3368,14 @@
       "word": "男子靠邻座女生肩上睡觉被质疑假睡",
       "onboard_time": 1675606295,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331960,
+      "num": 331960,
+      "word": "江西一乡召开适龄未婚女青年座谈会",
+      "onboard_time": 1675853131,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -5363,6 +5403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190900,
+      "num": 190900,
+      "word": "吴昕说女生不能恋爱脑",
+      "onboard_time": 1675852834,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190097,
       "num": 190097,
       "word": "被父母安排的婚姻会幸福吗",
@@ -5425,6 +5473,14 @@
       "onboard_time": 1675689928,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185792,
+      "num": 185792,
+      "word": "国乒全主力出战WTT大满贯",
+      "onboard_time": 1675853253,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 185762,
@@ -5683,6 +5739,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 174250,
+      "num": 174250,
+      "word": "KPL实现一户一鲁班",
+      "onboard_time": 1675852953,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173461,
       "num": 173461,
       "word": "汤圆",
@@ -5761,14 +5825,6 @@
       "onboard_time": 1675726342,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169554,
-      "num": 169554,
-      "word": "父亲回应女儿疑遭强迫吸毒致死",
-      "onboard_time": 1675852470,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 169276,
@@ -6179,12 +6235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146565,
-      "num": 146565,
-      "word": "浙江一县城百万年薪招聘导游",
-      "onboard_time": 1675852409,
-      "rank": 43,
-      "category": "旅游,社会新闻"
+      "raw_hot": 144775,
+      "num": 144775,
+      "word": "台湾花莲县4.7级地震",
+      "onboard_time": 1675854871,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143143,
@@ -6515,12 +6571,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108704,
+      "num": 108704,
+      "word": "灵儿让狼队念顺口溜",
+      "onboard_time": 1675854693,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108308,
       "num": 108308,
       "word": "土耳其消防正在救援旁边大楼轰然倒塌",
       "onboard_time": 1675693953,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106628,
+      "num": 106628,
+      "word": "小朋友把馋写在了脸上",
+      "onboard_time": 1675854335,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 106248,
@@ -6668,7 +6740,7 @@
     },
     {
       "raw_hot": 67380,
-      "num": 1625826,
+      "num": 1780022,
       "word": "开局之年第一课",
       "onboard_time": 1675848931,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675852726468,
+  "endTime": 1675854970192,
   "band_list": [
     {
       "raw_hot": 5524134,
@@ -33,6 +33,14 @@
       "onboard_time": 1675843711,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2739367,
+      "num": 2739367,
+      "word": "言承旭道歉",
+      "onboard_time": 1675853734,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2549030,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 981178,
+      "num": 264771,
+      "word": "父亲回应女儿疑遭强迫吸毒致死",
+      "onboard_time": 1675852470,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 918575,
       "num": 664461,
       "word": "男子猥亵9岁女孩当场被抓",
@@ -483,8 +499,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 649762,
-      "num": 649762,
+      "raw_hot": 652646,
+      "num": 652646,
       "word": "应聘时把HR整不会了",
       "onboard_time": 1675850072,
       "rank": 30,
@@ -609,6 +625,14 @@
       "onboard_time": 1675822584,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 505114,
+      "num": 505114,
+      "word": "浙江一县城百万年薪招聘导游",
+      "onboard_time": 1675852409,
+      "rank": 43,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 504768,
@@ -843,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376979,
+      "num": 376979,
+      "word": "小羊都草莓自由了",
+      "onboard_time": 1675853671,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 368710,
       "num": 368710,
       "word": "10月宝宝在自家工厂实现童车自由",
@@ -913,6 +945,14 @@
       "onboard_time": 1675825951,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331960,
+      "num": 331960,
+      "word": "江西一乡召开适龄未婚女青年座谈会",
+      "onboard_time": 1675853131,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326839,
@@ -1515,6 +1555,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 190900,
+      "num": 190900,
+      "word": "吴昕说女生不能恋爱脑",
+      "onboard_time": 1675852834,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190097,
       "num": 190097,
       "word": "被父母安排的婚姻会幸福吗",
@@ -1529,6 +1577,14 @@
       "onboard_time": 1675821268,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 185792,
+      "num": 185792,
+      "word": "国乒全主力出战WTT大满贯",
+      "onboard_time": 1675853253,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 185342,
@@ -1643,6 +1699,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 174250,
+      "num": 174250,
+      "word": "KPL实现一户一鲁班",
+      "onboard_time": 1675852953,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173765,
       "num": 173765,
       "word": "夏花",
@@ -1689,14 +1753,6 @@
       "onboard_time": 1675771169,
       "rank": 33,
       "category": "影视,社会议题"
-    },
-    {
-      "raw_hot": 169554,
-      "num": 169554,
-      "word": "父亲回应女儿疑遭强迫吸毒致死",
-      "onboard_time": 1675852470,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 166058,
@@ -1795,12 +1851,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 146565,
-      "num": 146565,
-      "word": "浙江一县城百万年薪招聘导游",
-      "onboard_time": 1675852409,
-      "rank": 43,
-      "category": "旅游,社会新闻"
+      "raw_hot": 144775,
+      "num": 144775,
+      "word": "台湾花莲县4.7级地震",
+      "onboard_time": 1675854871,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143143,
@@ -1915,12 +1971,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108704,
+      "num": 108704,
+      "word": "灵儿让狼队念顺口溜",
+      "onboard_time": 1675854693,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108587,
       "num": 108587,
       "word": "半熟2三个男嘉宾看头像选了孙沐雨",
       "onboard_time": 1675774529,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106628,
+      "num": 106628,
+      "word": "小朋友把馋写在了脸上",
+      "onboard_time": 1675854335,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 104450,
@@ -2060,7 +2132,7 @@
     },
     {
       "raw_hot": 67380,
-      "num": 1625826,
+      "num": 1780022,
       "word": "开局之年第一课",
       "onboard_time": 1675848931,
       "rank": 2,
