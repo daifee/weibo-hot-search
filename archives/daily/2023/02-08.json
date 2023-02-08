@@ -1,6 +1,6 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675869599465,
+  "endTime": 1675870525038,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -371,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 861671,
+      "num": 861671,
+      "word": "陈妍希只看了梦华录前十集",
+      "onboard_time": 1675868022,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 834812,
       "num": 834812,
       "word": "鹿晗做中国乒乓表情包为邓超庆生",
@@ -465,14 +473,6 @@
       "onboard_time": 1675855950,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 738843,
-      "num": 738843,
-      "word": "陈妍希只看了梦华录前十集",
-      "onboard_time": 1675868022,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 735213,
@@ -1339,6 +1339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 305184,
+      "num": 305184,
+      "word": "柬埔寨旅游可直接用人民币",
+      "onboard_time": 1675867839,
+      "rank": 24,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 302338,
       "num": 302338,
       "word": "为什么现在的结婚率越来越低",
@@ -1443,14 +1451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 289802,
-      "num": 289802,
-      "word": "柬埔寨旅游可直接用人民币",
-      "onboard_time": 1675867839,
-      "rank": 24,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 286741,
       "num": 286741,
       "word": "生活剧里的邢菲vs偶像剧里的邢菲",
@@ -1473,6 +1473,14 @@
       "onboard_time": 1675855893,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284158,
+      "num": 284158,
+      "word": "声生不息宝岛季开录",
+      "onboard_time": 1675868975,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 280176,
@@ -1537,6 +1545,14 @@
       "onboard_time": 1675821807,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261529,
+      "num": 261529,
+      "word": "王子文直播",
+      "onboard_time": 1675866214,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 261517,
@@ -1635,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246333,
+      "num": 196039,
+      "word": "14岁男孩寄养大伯家辍学杀鱼",
+      "onboard_time": 1675869994,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246119,
       "num": 246119,
       "word": "这趟火车是自习室主题的",
@@ -1664,14 +1688,6 @@
       "word": "边水往事官宣杀青",
       "onboard_time": 1675821566,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 241376,
-      "num": 241376,
-      "word": "王子文直播",
-      "onboard_time": 1675866214,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -1825,14 +1841,6 @@
       "onboard_time": 1675822165,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207895,
-      "num": 207895,
-      "word": "声生不息宝岛季开录",
-      "onboard_time": 1675868975,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 207594,
@@ -2315,6 +2323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140798,
+      "num": 140798,
+      "word": "流浪地球狂飙在两岸掀起追剧热潮",
+      "onboard_time": 1675867719,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140601,
       "num": 140601,
       "word": "哪一刻你觉得知识很重要",
@@ -2443,6 +2459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113045,
+      "num": 506914,
+      "word": "理想L7发布会很苹果",
+      "onboard_time": 1675868439,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 108704,
       "num": 108704,
       "word": "灵儿让狼队念顺口溜",
@@ -2529,14 +2553,6 @@
       "onboard_time": 1675765590,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 88225,
-      "num": 506914,
-      "word": "理想L7发布会很苹果",
-      "onboard_time": 1675868439,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 87689,
