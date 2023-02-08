@@ -1,0 +1,410 @@
+{
+  "runTime": 1675827406476,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1835346,
+        "num": 1835346,
+        "word": "狂飙庆功宴",
+        "onboard_time": 1675825230,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1794418,
+        "num": 1794418,
+        "word": "杨幂 要是有就再加麻加辣",
+        "onboard_time": 1675824027,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12848,
+        "num": 1637120,
+        "word": "流动的中国绽放着蓬勃活力",
+        "onboard_time": 1675756171,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1560138,
+        "num": 1560138,
+        "word": "法定婚龄降到18岁会提升初婚率吗",
+        "onboard_time": 1675825650,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1378188,
+        "num": 1378188,
+        "word": "田亮女儿首获青少年世界排名",
+        "onboard_time": 1675825049,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1264453,
+        "num": 1264453,
+        "word": "新冠病毒去哪了它会消失吗",
+        "onboard_time": 1675823846,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1241994,
+        "num": 1241994,
+        "word": "唐小强",
+        "onboard_time": 1675816289,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1161018,
+        "num": 1161018,
+        "word": "丈夫深夜崩溃痛哭妻子一把搂入怀",
+        "onboard_time": 1675824206,
+        "rank": 7,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1149351,
+        "num": 1149351,
+        "word": "女生上班通勤4小时坐10趟地铁",
+        "onboard_time": 1675820847,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 832768,
+        "num": 832768,
+        "word": "杨幂黑色吊带高马尾造型",
+        "onboard_time": 1675824567,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 778854,
+        "num": 778854,
+        "word": "李秀满返韩",
+        "onboard_time": 1675824928,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735213,
+        "num": 735213,
+        "word": "张颂文李一桐机场与狂飙合照",
+        "onboard_time": 1675824989,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 689844,
+        "num": 689844,
+        "word": "西安不倒翁小姐姐回应生娃面容憔悴",
+        "onboard_time": 1675812561,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644802,
+        "num": 644802,
+        "word": "詹姆斯认为自己是史上最佳球员",
+        "onboard_time": 1675819350,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469488,
+        "num": 469488,
+        "word": "微软市值一夜飙涨5450亿",
+        "onboard_time": 1675818570,
+        "rank": 14,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 408606,
+        "num": 408606,
+        "word": "多家银行回应存钱需提供收入证明",
+        "onboard_time": 1675820007,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 367842,
+        "num": 367842,
+        "word": "美人都忍不住赞叹的颜值",
+        "onboard_time": 1675822165,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 349422,
+        "num": 349422,
+        "word": "四川失联一个月18岁女生遗体在江中发现",
+        "onboard_time": 1675826849,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 340112,
+        "num": 340112,
+        "word": "ChatGPT会不会使底层程序员失业",
+        "onboard_time": 1675823428,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 334593,
+        "num": 334593,
+        "word": "张若昀新剧演算呆子",
+        "onboard_time": 1675825951,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307241,
+        "num": 307241,
+        "word": "这就是女生最想要的求婚吧",
+        "onboard_time": 1675823127,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293977,
+        "num": 293977,
+        "word": "张朝阳用微积分推导阿基米德原理",
+        "onboard_time": 1675823668,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 293588,
+        "num": 293588,
+        "word": "2022台湾十大热门大陆剧",
+        "onboard_time": 1675824567,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280945,
+        "num": 280945,
+        "word": "震区女婴获救时脐带仍与遇难母亲相连",
+        "onboard_time": 1675819048,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276550,
+        "num": 276550,
+        "word": "杨幂新电影人设",
+        "onboard_time": 1675824506,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267464,
+        "num": 267464,
+        "word": "唐小强曾多次见义勇为",
+        "onboard_time": 1675822584,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 253605,
+        "num": 253605,
+        "word": "土耳其",
+        "onboard_time": 1675816467,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252341,
+        "num": 252341,
+        "word": "土耳其地震已致该国5894人死亡",
+        "onboard_time": 1675813042,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65324,
+        "num": 252110,
+        "word": "安聪慧领衔让世界看见中国车",
+        "onboard_time": 1675826487,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 252077,
+        "num": 252077,
+        "word": "韩国申报的文化遗产来自日本",
+        "onboard_time": 1675812500,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248069,
+        "num": 248069,
+        "word": "谢楠晒一家人与刘德华的合照",
+        "onboard_time": 1675824751,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237161,
+        "num": 237161,
+        "word": "男老师猥亵男童获刑5年终身禁业",
+        "onboard_time": 1675817910,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224465,
+        "num": 224465,
+        "word": "肖战新剧杀青登多国趋势",
+        "onboard_time": 1675819950,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210467,
+        "num": 210467,
+        "word": "就zei块 就zei块",
+        "onboard_time": 1675814846,
+        "rank": 33,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 207550,
+        "num": 207550,
+        "word": "欧文说和詹姆斯永远是兄弟",
+        "onboard_time": 1675820968,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201424,
+        "num": 201424,
+        "word": "邓超说好想转发喊一句飒",
+        "onboard_time": 1675823188,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194850,
+        "num": 194850,
+        "word": "没有一顿火锅解决不了的事开机",
+        "onboard_time": 1675823306,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190333,
+        "num": 190333,
+        "word": "一旦代入沈腾再也走不出来了",
+        "onboard_time": 1675817431,
+        "rank": 37,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 185917,
+        "num": 185917,
+        "word": "人民日报评智能电视套路收费",
+        "onboard_time": 1675819527,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 184693,
+        "num": 184693,
+        "word": "邓超五哈生日海报",
+        "onboard_time": 1675826788,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183232,
+        "num": 183232,
+        "word": "国产新冠药全部纳入医保支付范围",
+        "onboard_time": 1675822105,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 174389,
+        "num": 174389,
+        "word": "重庆警方培训出全国第一批缉毒松鼠",
+        "onboard_time": 1675826249,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165910,
+        "num": 165910,
+        "word": "和春天适配度最高的电影",
+        "onboard_time": 1675826550,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163275,
+        "num": 163275,
+        "word": "这趟火车是自习室主题的",
+        "onboard_time": 1675827151,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159935,
+        "num": 159935,
+        "word": "张译的播音腔",
+        "onboard_time": 1675822886,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150175,
+        "num": 150175,
+        "word": "当事人辟谣冰面滑倒晕厥去世",
+        "onboard_time": 1675820427,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148848,
+        "num": 148848,
+        "word": "叙利亚地震后美国仍拒绝解除制裁",
+        "onboard_time": 1675794794,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 139422,
+        "num": 139422,
+        "word": "郭麒麟新剧喊话吴镇宇求罩",
+        "onboard_time": 1675822287,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137274,
+        "num": 137274,
+        "word": "微软正式将ChatGPT引入必应",
+        "onboard_time": 1675817068,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 137256,
+        "num": 137256,
+        "word": "王子文想演三体人",
+        "onboard_time": 1675823608,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#正确理解和大力推进中国式现代化#"
+    }
+  }
+}
