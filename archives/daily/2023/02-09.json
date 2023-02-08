@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675881500193,
+  "endTime": 1675883738346,
   "band_list": [
     {
       "raw_hot": 4001183,
@@ -379,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 94143,
+      "num": 63824,
+      "word": "日本一沙滩惊现大量沙丁鱼",
+      "onboard_time": 1675881434,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93510,
       "num": 93510,
       "word": "2023最期待的演唱会",
@@ -459,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16462,
-      "num": 23019,
-      "word": "日本一沙滩惊现大量沙丁鱼",
-      "onboard_time": 1675881434,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 22890,
+      "num": 22890,
+      "word": "看他们赚钱我是真的不眼红",
+      "onboard_time": 1675882154,
+      "rank": 40,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
