@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675844669242,
+  "endTime": 1675845529547,
   "band_list": [
     {
       "raw_hot": 5524134,
@@ -33,6 +33,14 @@
       "onboard_time": 1675736125,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3369342,
+      "num": 3369342,
+      "word": "宝鸡发现1例全球罕见黄金血型",
+      "onboard_time": 1675843711,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3122366,
@@ -561,14 +569,6 @@
       "onboard_time": 1675665088,
       "rank": 16,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 1216011,
-      "num": 1216011,
-      "word": "宝鸡发现1例全球罕见黄金血型",
-      "onboard_time": 1675843711,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1214471,
@@ -1459,6 +1459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 672788,
+      "num": 672788,
+      "word": "原来小狗也嫌弃自己脚臭",
+      "onboard_time": 1675843230,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 670753,
       "num": 670753,
       "word": "震区女婴获救时脐带仍与遇难母亲相连",
@@ -1755,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 587901,
+      "num": 587901,
+      "word": "男子猥亵9岁女孩当场被抓",
+      "onboard_time": 1675844370,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 586667,
       "num": 586667,
       "word": "没有一顿火锅解决不了的事开机",
@@ -1801,14 +1817,6 @@
       "onboard_time": 1675692809,
       "rank": 24,
       "category": "其它"
-    },
-    {
-      "raw_hot": 575665,
-      "num": 575665,
-      "word": "原来小狗也嫌弃自己脚臭",
-      "onboard_time": 1675843230,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 574608,
@@ -1873,6 +1881,14 @@
       "onboard_time": 1675653209,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 558534,
+      "num": 508080,
+      "word": "邓超回复草图君你演个球",
+      "onboard_time": 1675844008,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 554156,
@@ -2400,6 +2416,14 @@
       "word": "中国政府决定向土叙提供紧急援助",
       "onboard_time": 1675746099,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445266,
+      "num": 445266,
+      "word": "中国上空也曾发现过美国气球",
+      "onboard_time": 1675843473,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -3259,14 +3283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 323775,
-      "num": 323775,
-      "word": "邓超回复草图君你演个球",
-      "onboard_time": 1675844008,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 323061,
       "num": 323061,
       "word": "半熟2三个男嘉宾看头像选了孙沐雨",
@@ -3321,6 +3337,14 @@
       "onboard_time": 1675838489,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 317810,
+      "num": 217145,
+      "word": "詹姆斯公司在中国已注册詹皇商标",
+      "onboard_time": 1675844612,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 317579,
@@ -3675,6 +3699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 293474,
+      "num": 293474,
+      "word": "樊治欣李墨之直播",
+      "onboard_time": 1675843410,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293273,
       "num": 293273,
       "word": "Adele格莱美造型",
@@ -3737,14 +3769,6 @@
       "onboard_time": 1675674687,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286427,
-      "num": 286427,
-      "word": "樊治欣李墨之直播",
-      "onboard_time": 1675843410,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 286317,
@@ -3875,14 +3899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275683,
-      "num": 275683,
-      "word": "中国上空也曾发现过美国气球",
-      "onboard_time": 1675843473,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275530,
       "num": 275530,
       "word": "如何看待高龄父母要生二胎",
@@ -3969,6 +3985,14 @@
       "onboard_time": 1675773868,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 267999,
+      "num": 267999,
+      "word": "张译去不去狂飙庆功宴",
+      "onboard_time": 1675845151,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 267764,
@@ -4081,6 +4105,14 @@
       "onboard_time": 1675838908,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261250,
+      "num": 261250,
+      "word": "为什么现在的结婚率越来越低",
+      "onboard_time": 1675843650,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 260778,
@@ -4443,6 +4475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234502,
+      "num": 234502,
+      "word": "宋威龙甩面翻车",
+      "onboard_time": 1675844672,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234346,
       "num": 234346,
       "word": "消失的她",
@@ -4747,6 +4787,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 214913,
+      "num": 214913,
+      "word": "她就是我 她就是所有女性",
+      "onboard_time": 1675843591,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214870,
       "num": 214870,
       "word": "欧文说和杜兰特仍是兄弟",
@@ -4841,6 +4889,14 @@
       "onboard_time": 1675761270,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208346,
+      "num": 208346,
+      "word": "林俊杰说权志龙很帅很谦虚",
+      "onboard_time": 1675844733,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207849,
@@ -4963,14 +5019,6 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 198952,
-      "num": 198952,
-      "word": "詹姆斯公司在中国已注册詹皇商标",
-      "onboard_time": 1675844612,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198632,
       "num": 198632,
       "word": "湖南高速多车相撞致16死66伤",
@@ -5009,14 +5057,6 @@
       "onboard_time": 1675758090,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197514,
-      "num": 197514,
-      "word": "为什么现在的结婚率越来越低",
-      "onboard_time": 1675843650,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 196957,
@@ -5083,6 +5123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193409,
+      "num": 193409,
+      "word": "46款APP存在侵害用户权益行为",
+      "onboard_time": 1675844490,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 193087,
       "num": 193087,
       "word": "夏花",
@@ -5129,14 +5177,6 @@
       "onboard_time": 1675820186,
       "rank": 35,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 191322,
-      "num": 191322,
-      "word": "男子猥亵9岁女孩当场被抓",
-      "onboard_time": 1675844370,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 190988,
@@ -5249,6 +5289,14 @@
       "onboard_time": 1675700364,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 183908,
+      "num": 183908,
+      "word": "九尾春季赛定妆照猫咪pose",
+      "onboard_time": 1675844913,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 183643,
@@ -5579,14 +5627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166639,
-      "num": 166639,
-      "word": "她就是我 她就是所有女性",
-      "onboard_time": 1675843591,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 166438,
       "num": 186312,
       "word": "我的开学之光",
@@ -5769,14 +5809,6 @@
       "onboard_time": 1675812561,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157709,
-      "num": 157709,
-      "word": "46款APP存在侵害用户权益行为",
-      "onboard_time": 1675844490,
-      "rank": 44,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 156625,

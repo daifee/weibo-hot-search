@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675844669242,
+  "endTime": 1675845529547,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -129,6 +129,14 @@
       "onboard_time": 1675311036,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3369342,
+      "num": 3369342,
+      "word": "宝鸡发现1例全球罕见黄金血型",
+      "onboard_time": 1675843711,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3324868,
@@ -1673,14 +1681,6 @@
       "onboard_time": 1675665088,
       "rank": 16,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 1216011,
-      "num": 1216011,
-      "word": "宝鸡发现1例全球罕见黄金血型",
-      "onboard_time": 1675843711,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1214471,
@@ -4307,6 +4307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672788,
+      "num": 672788,
+      "word": "原来小狗也嫌弃自己脚臭",
+      "onboard_time": 1675843230,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 671453,
       "num": 671453,
       "word": "高启强老是问一些恋爱问题",
@@ -5115,6 +5123,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 587901,
+      "num": 587901,
+      "word": "男子猥亵9岁女孩当场被抓",
+      "onboard_time": 1675844370,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 586879,
       "num": 586879,
       "word": "蒋依依新剧人设",
@@ -5249,14 +5265,6 @@
       "onboard_time": 1675692809,
       "rank": 24,
       "category": "其它"
-    },
-    {
-      "raw_hot": 575665,
-      "num": 575665,
-      "word": "原来小狗也嫌弃自己脚臭",
-      "onboard_time": 1675843230,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 575021,
@@ -5417,6 +5425,14 @@
       "onboard_time": 1675653209,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 558534,
+      "num": 508080,
+      "word": "邓超回复草图君你演个球",
+      "onboard_time": 1675844008,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 558042,
@@ -6929,6 +6945,14 @@
       "onboard_time": 1675250731,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445266,
+      "num": 445266,
+      "word": "中国上空也曾发现过美国气球",
+      "onboard_time": 1675843473,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445048,
@@ -9387,14 +9411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 323775,
-      "num": 323775,
-      "word": "邓超回复草图君你演个球",
-      "onboard_time": 1675844008,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 323061,
       "num": 323061,
       "word": "半熟2三个男嘉宾看头像选了孙沐雨",
@@ -9537,6 +9553,14 @@
       "onboard_time": 1675464255,
       "rank": 10,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 317810,
+      "num": 217145,
+      "word": "詹姆斯公司在中国已注册詹皇商标",
+      "onboard_time": 1675844612,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 317579,
@@ -10251,6 +10275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 293474,
+      "num": 293474,
+      "word": "樊治欣李墨之直播",
+      "onboard_time": 1675843410,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293273,
       "num": 293273,
       "word": "Adele格莱美造型",
@@ -10448,14 +10480,6 @@
       "word": "狂飙全员rapper",
       "onboard_time": 1675220490,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 286427,
-      "num": 286427,
-      "word": "樊治欣李墨之直播",
-      "onboard_time": 1675843410,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -10803,14 +10827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 275683,
-      "num": 275683,
-      "word": "中国上空也曾发现过美国气球",
-      "onboard_time": 1675843473,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275530,
       "num": 275530,
       "word": "如何看待高龄父母要生二胎",
@@ -11081,6 +11097,14 @@
       "onboard_time": 1675248333,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 267999,
+      "num": 267999,
+      "word": "张译去不去狂飙庆功宴",
+      "onboard_time": 1675845151,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 267764,
@@ -11377,6 +11401,14 @@
       "onboard_time": 1675337974,
       "rank": 33,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 261250,
+      "num": 261250,
+      "word": "为什么现在的结婚率越来越低",
+      "onboard_time": 1675843650,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 261186,
@@ -12299,6 +12331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234502,
+      "num": 234502,
+      "word": "宋威龙甩面翻车",
+      "onboard_time": 1675844672,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234456,
       "num": 234456,
       "word": "希林娜依高黄绮珊春晚后再合作",
@@ -12955,6 +12995,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 214913,
+      "num": 214913,
+      "word": "她就是我 她就是所有女性",
+      "onboard_time": 1675843591,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214870,
       "num": 214870,
       "word": "欧文说和杜兰特仍是兄弟",
@@ -13201,6 +13249,14 @@
       "onboard_time": 1675761270,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208346,
+      "num": 208346,
+      "word": "林俊杰说权志龙很帅很谦虚",
+      "onboard_time": 1675844733,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208123,
@@ -13611,14 +13667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 198952,
-      "num": 198952,
-      "word": "詹姆斯公司在中国已注册詹皇商标",
-      "onboard_time": 1675844612,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198796,
       "num": 198796,
       "word": "古代人一封手写信可以包含多少情感",
@@ -13713,14 +13761,6 @@
       "onboard_time": 1675235789,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197514,
-      "num": 197514,
-      "word": "为什么现在的结婚率越来越低",
-      "onboard_time": 1675843650,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 197390,
@@ -13939,6 +13979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193409,
+      "num": 193409,
+      "word": "46款APP存在侵害用户权益行为",
+      "onboard_time": 1675844490,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 193231,
       "num": 193231,
       "word": "如果狂飙有平行世界",
@@ -14065,14 +14113,6 @@
       "onboard_time": 1675820186,
       "rank": 35,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 191322,
-      "num": 191322,
-      "word": "男子猥亵9岁女孩当场被抓",
-      "onboard_time": 1675844370,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 190988,
@@ -14537,6 +14577,14 @@
       "onboard_time": 1675700364,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 183908,
+      "num": 183908,
+      "word": "九尾春季赛定妆照猫咪pose",
+      "onboard_time": 1675844913,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 183675,
@@ -15483,14 +15531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 166639,
-      "num": 166639,
-      "word": "她就是我 她就是所有女性",
-      "onboard_time": 1675843591,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 166534,
       "num": 166534,
       "word": "这是拯救了银河系的眼睛吧",
@@ -15969,14 +16009,6 @@
       "onboard_time": 1675480286,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 157709,
-      "num": 157709,
-      "word": "46款APP存在侵害用户权益行为",
-      "onboard_time": 1675844490,
-      "rank": 44,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 157419,
