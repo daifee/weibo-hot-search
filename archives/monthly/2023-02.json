@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675840654722,
+  "endTime": 1675841633829,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -713,6 +713,14 @@
       "onboard_time": 1675254691,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1823759,
+      "num": 1823759,
+      "word": "38388",
+      "onboard_time": 1675839207,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1804674,
@@ -1971,14 +1979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1105549,
-      "num": 1105549,
-      "word": "38388",
-      "onboard_time": 1675839207,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1101377,
       "num": 1101377,
       "word": "王鸥说没有人会相信我",
@@ -3059,6 +3059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 834812,
+      "num": 834812,
+      "word": "鹿晗做中国乒乓表情包为邓超庆生",
+      "onboard_time": 1675840650,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 834540,
       "num": 834540,
       "word": "情侣婚前是否有必要同居",
@@ -3283,6 +3291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805234,
+      "num": 775190,
+      "word": "张颂文给后援会会长骨髓配型",
+      "onboard_time": 1675840049,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 804932,
       "num": 804932,
       "word": "三小孩放鞭炮将井盖炸碎1死2伤",
@@ -3393,6 +3409,14 @@
       "onboard_time": 1675415069,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785653,
+      "num": 785653,
+      "word": "丈夫开车碾轧妻子案出新疑点",
+      "onboard_time": 1675839147,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 785220,
@@ -3707,6 +3731,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 733402,
+      "num": 733402,
+      "word": "当给妈妈说去殡仪馆上班后",
+      "onboard_time": 1675837949,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 732060,
+      "num": 732060,
+      "word": "强震已致土耳其叙利亚逾8000人遇难",
+      "onboard_time": 1675838548,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 731996,
       "num": 731996,
       "word": "警方介入调查女子摩托车被加白糖",
@@ -3721,14 +3761,6 @@
       "onboard_time": 1675255531,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 729609,
-      "num": 729609,
-      "word": "强震已致土耳其叙利亚逾8000人遇难",
-      "onboard_time": 1675838548,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 729378,
@@ -4201,14 +4233,6 @@
       "onboard_time": 1675516232,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 678341,
-      "num": 678341,
-      "word": "当给妈妈说去殡仪馆上班后",
-      "onboard_time": 1675837949,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 677841,
@@ -4857,6 +4881,14 @@
       "onboard_time": 1675781193,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 610197,
+      "num": 610197,
+      "word": "爸爸第一次给孩子包书皮撕烂新书",
+      "onboard_time": 1675839330,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608961,
@@ -6227,14 +6259,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 499359,
-      "num": 499359,
-      "word": "丈夫开车碾轧妻子案出新疑点",
-      "onboard_time": 1675839147,
-      "rank": 16,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 499297,
       "num": 499297,
       "word": "刘德华逗吴京儿子",
@@ -7491,14 +7515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 408694,
-      "num": 408694,
-      "word": "爸爸第一次给孩子包书皮撕烂新书",
-      "onboard_time": 1675839330,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 408611,
       "num": 408611,
       "word": "猫咪的头为什么能转720度",
@@ -8601,14 +8617,6 @@
       "onboard_time": 1675646306,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 353927,
-      "num": 353927,
-      "word": "张颂文给后援会会长骨髓配型",
-      "onboard_time": 1675840049,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 353823,
@@ -14507,6 +14515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 181915,
+      "num": 181915,
+      "word": "恭喜詹姆斯",
+      "onboard_time": 1675841611,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181840,
       "num": 181840,
       "word": "陆虎邀请苏醒担任家长的原因",
@@ -14793,6 +14809,14 @@
       "onboard_time": 1675420170,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176093,
+      "num": 176093,
+      "word": "蒲熠星沉浸式演技",
+      "onboard_time": 1675841249,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 175888,
@@ -15491,12 +15515,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163961,
+      "num": 163961,
+      "word": "你见过凌晨四点的殡仪馆吗",
+      "onboard_time": 1675841492,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163899,
       "num": 163899,
       "word": "TWICE将3月10日回归",
       "onboard_time": 1675383088,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163535,
+      "num": 163535,
+      "word": "史诗级大片开学陆续上映",
+      "onboard_time": 1675841070,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 163506,
@@ -16505,6 +16545,14 @@
       "onboard_time": 1675595068,
       "rank": 41,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 136262,
+      "num": 136262,
+      "word": "外国人考中文六级是什么难度",
+      "onboard_time": 1675840890,
+      "rank": 45,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 135937,
