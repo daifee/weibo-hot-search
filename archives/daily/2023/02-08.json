@@ -1,6 +1,6 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675825144833,
+  "endTime": 1675826574815,
   "band_list": [
     {
       "raw_hot": 2267638,
@@ -19,6 +19,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1947901,
+      "num": 1947901,
+      "word": "杨幂 要是有就再加麻加辣",
+      "onboard_time": 1675824027,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1765473,
       "num": 1765473,
       "word": "女生上班通勤4小时坐10趟地铁",
@@ -27,12 +35,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1604298,
-      "num": 1604298,
-      "word": "杨幂 要是有就再加麻加辣",
-      "onboard_time": 1675824027,
-      "rank": 10,
+      "raw_hot": 1375259,
+      "num": 1375259,
+      "word": "田亮女儿首获青少年世界排名",
+      "onboard_time": 1675825049,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1209578,
+      "num": 1209578,
+      "word": "狂飙庆功宴",
+      "onboard_time": 1675825230,
+      "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1139788,
+      "num": 1139788,
+      "word": "新冠病毒去哪了它会消失吗",
+      "onboard_time": 1675823846,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1135952,
@@ -59,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 896734,
+      "num": 896734,
+      "word": "丈夫深夜崩溃痛哭妻子一把搂入怀",
+      "onboard_time": 1675824206,
+      "rank": 42,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 871329,
       "num": 871329,
       "word": "张译新闻联播镜头",
@@ -67,12 +99,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 868918,
-      "num": 868918,
-      "word": "新冠病毒去哪了它会消失吗",
-      "onboard_time": 1675823846,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 867286,
+      "num": 867286,
+      "word": "杨幂黑色吊带高马尾造型",
+      "onboard_time": 1675824567,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 821599,
@@ -115,12 +147,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 732678,
+      "num": 732678,
+      "word": "张颂文李一桐机场与狂飙合照",
+      "onboard_time": 1675824989,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 707723,
       "num": 707723,
       "word": "微软市值一夜飙涨5450亿",
       "onboard_time": 1675818570,
       "rank": 6,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 693980,
+      "num": 693980,
+      "word": "李秀满返韩",
+      "onboard_time": 1675824928,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 693646,
@@ -137,6 +185,14 @@
       "onboard_time": 1675819048,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 667261,
+      "num": 667261,
+      "word": "法定婚龄降到18岁会提升初婚率吗",
+      "onboard_time": 1675825650,
+      "rank": 12,
+      "category": "社会议题"
     },
     {
       "raw_hot": 628933,
@@ -249,22 +305,6 @@
       "onboard_time": 1675822165,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 489255,
-      "num": 489255,
-      "word": "李秀满返韩",
-      "onboard_time": 1675824928,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 484123,
-      "num": 484123,
-      "word": "丈夫深夜崩溃痛哭妻子一把搂入怀",
-      "onboard_time": 1675824206,
-      "rank": 42,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 484115,
@@ -387,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 327372,
+      "num": 327372,
+      "word": "张若昀新剧演算呆子",
+      "onboard_time": 1675825951,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326839,
       "num": 326839,
       "word": "张朝阳用微积分推导阿基米德原理",
@@ -435,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 297423,
-      "num": 297423,
-      "word": "杨幂黑色吊带高马尾造型",
-      "onboard_time": 1675824567,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 296931,
       "num": 296931,
       "word": "杨卫宁叶文洁终得正果",
@@ -483,12 +523,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 293880,
-      "num": 265312,
-      "word": "田亮女儿首获青少年世界排名",
-      "onboard_time": 1675825049,
-      "rank": 30,
-      "category": "体育,艺人"
+      "raw_hot": 284297,
+      "num": 284297,
+      "word": "2022台湾十大热门大陆剧",
+      "onboard_time": 1675824567,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 280176,
@@ -563,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243203,
-      "num": 243203,
-      "word": "2022台湾十大热门大陆剧",
-      "onboard_time": 1675824567,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 241403,
       "num": 241403,
       "word": "边水往事官宣杀青",
@@ -584,6 +616,14 @@
       "word": "中国乒乓预售正式开启",
       "onboard_time": 1675822949,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 237044,
+      "num": 237044,
+      "word": "和春天适配度最高的电影",
+      "onboard_time": 1675826550,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -691,12 +731,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 201323,
-      "num": 201323,
-      "word": "张颂文李一桐机场与狂飙合照",
-      "onboard_time": 1675824989,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 202211,
+      "num": 202211,
+      "word": "谢楠晒一家人与刘德华的合照",
+      "onboard_time": 1675824751,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 198510,
@@ -824,6 +864,14 @@
       "word": "14岁女孩用海姆立克法救被噎爸爸",
       "onboard_time": 1675780292,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155398,
+      "num": 155398,
+      "word": "重庆警方培训出全国第一批缉毒松鼠",
+      "onboard_time": 1675826249,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -993,6 +1041,14 @@
       "onboard_time": 1675765590,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 87689,
+      "num": 135187,
+      "word": "安聪慧领衔让世界看见中国车",
+      "onboard_time": 1675826487,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 84544,
