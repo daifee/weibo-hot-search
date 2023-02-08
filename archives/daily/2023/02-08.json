@@ -1,6 +1,6 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675824558187,
+  "endTime": 1675825144833,
   "band_list": [
     {
       "raw_hot": 2267638,
@@ -11,20 +11,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2150349,
-      "num": 2150349,
+      "raw_hot": 2189404,
+      "num": 2189404,
       "word": "唐小强",
       "onboard_time": 1675816289,
       "rank": 1,
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1544897,
-      "num": 1544897,
+      "raw_hot": 1765473,
+      "num": 1765473,
       "word": "女生上班通勤4小时坐10趟地铁",
       "onboard_time": 1675820847,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1604298,
+      "num": 1604298,
+      "word": "杨幂 要是有就再加麻加辣",
+      "onboard_time": 1675824027,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1135952,
@@ -59,12 +67,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 841608,
-      "num": 514516,
-      "word": "杨幂 要是有就再加麻加辣",
-      "onboard_time": 1675824027,
-      "rank": 10,
-      "category": "影视"
+      "raw_hot": 868918,
+      "num": 868918,
+      "word": "新冠病毒去哪了它会消失吗",
+      "onboard_time": 1675823846,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 821599,
@@ -243,6 +251,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 489255,
+      "num": 489255,
+      "word": "李秀满返韩",
+      "onboard_time": 1675824928,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 484123,
+      "num": 484123,
+      "word": "丈夫深夜崩溃痛哭妻子一把搂入怀",
+      "onboard_time": 1675824206,
+      "rank": 42,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 484115,
       "num": 484115,
       "word": "陈晓陈妍希微信头像都是关于对方",
@@ -259,12 +283,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 454993,
-      "num": 454993,
-      "word": "新冠病毒去哪了它会消失吗",
-      "onboard_time": 1675823846,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 470704,
+      "num": 470704,
+      "word": "杨幂新电影人设",
+      "onboard_time": 1675824506,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 440779,
@@ -355,6 +379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340635,
+      "num": 340635,
+      "word": "这就是女生最想要的求婚吧",
+      "onboard_time": 1675823127,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 326839,
+      "num": 326839,
+      "word": "张朝阳用微积分推导阿基米德原理",
+      "onboard_time": 1675823668,
+      "rank": 37,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 322217,
       "num": 289510,
       "word": "山东有一个公交站叫满江红",
@@ -371,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315919,
+      "num": 315919,
+      "word": "ChatGPT会不会使底层程序员失业",
+      "onboard_time": 1675823428,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 308644,
       "num": 308644,
       "word": "没阳过的孩子能上学吗",
@@ -379,28 +427,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 308152,
-      "num": 308152,
-      "word": "这就是女生最想要的求婚吧",
-      "onboard_time": 1675823127,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 303477,
-      "num": 303477,
-      "word": "杨幂新电影人设",
-      "onboard_time": 1675824506,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 300498,
       "num": 300498,
       "word": "欧文说和詹姆斯永远是兄弟",
       "onboard_time": 1675820968,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 297423,
+      "num": 297423,
+      "word": "杨幂黑色吊带高马尾造型",
+      "onboard_time": 1675824567,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 296931,
@@ -441,6 +481,14 @@
       "onboard_time": 1675782574,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 293880,
+      "num": 265312,
+      "word": "田亮女儿首获青少年世界排名",
+      "onboard_time": 1675825049,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 280176,
@@ -499,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260454,
-      "num": 260454,
-      "word": "ChatGPT会不会使底层程序员失业",
-      "onboard_time": 1675823428,
-      "rank": 28,
-      "category": "科技"
-    },
-    {
       "raw_hot": 256353,
       "num": 256353,
       "word": "国产新冠药全部纳入医保支付范围",
@@ -521,6 +561,14 @@
       "onboard_time": 1675783891,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243203,
+      "num": 243203,
+      "word": "2022台湾十大热门大陆剧",
+      "onboard_time": 1675824567,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 241403,
@@ -568,6 +616,14 @@
       "word": "张译的播音腔",
       "onboard_time": 1675822886,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 222584,
+      "num": 222584,
+      "word": "王子文想演三体人",
+      "onboard_time": 1675823608,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -627,28 +683,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204925,
-      "num": 204925,
-      "word": "王子文想演三体人",
-      "onboard_time": 1675823608,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 204415,
-      "num": 204415,
-      "word": "张朝阳用微积分推导阿基米德原理",
-      "onboard_time": 1675823668,
-      "rank": 37,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 204215,
       "num": 204215,
       "word": "不愿面对脏小狗的狗妈",
       "onboard_time": 1675809795,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 201323,
+      "num": 201323,
+      "word": "张颂文李一桐机场与狂飙合照",
+      "onboard_time": 1675824989,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 198510,
@@ -673,14 +721,6 @@
       "onboard_time": 1675820125,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191768,
-      "num": 191768,
-      "word": "丈夫深夜崩溃痛哭妻子一把搂入怀",
-      "onboard_time": 1675824206,
-      "rank": 42,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 191629,
@@ -1068,7 +1108,7 @@
     },
     {
       "raw_hot": 14788,
-      "num": 1512684,
+      "num": 1604613,
       "word": "流动的中国绽放着蓬勃活力",
       "onboard_time": 1675756171,
       "rank": 2,
