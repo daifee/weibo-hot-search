@@ -1,0 +1,411 @@
+{
+  "startTime": 1675873614083,
+  "endTime": 1675873614083,
+  "band_list": [
+    {
+      "raw_hot": 4001183,
+      "num": 4001183,
+      "word": "刘亚仁涉嫌吸毒",
+      "onboard_time": 1675866815,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 980631,
+      "num": 980631,
+      "word": "马航MH17坠机案调查暂停",
+      "onboard_time": 1675860632,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 930099,
+      "num": 930099,
+      "word": "陈妍希只看了梦华录前十集",
+      "onboard_time": 1675868022,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 903246,
+      "num": 903246,
+      "word": "14岁男孩寄养大伯家辍学杀鱼",
+      "onboard_time": 1675869994,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518526,
+      "num": 309959,
+      "word": "官方回应中国游客普吉岛旅游被割伤",
+      "onboard_time": 1675871610,
+      "rank": 10,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 514753,
+      "num": 514753,
+      "word": "唐嫣宋亚轩埋头笑",
+      "onboard_time": 1675868439,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 508675,
+      "num": 508675,
+      "word": "言承旭道歉",
+      "onboard_time": 1675853734,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 456131,
+      "num": 240312,
+      "word": "姐夫酒驾送妻子去给小姨子顶包",
+      "onboard_time": 1675870711,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431862,
+      "num": 431862,
+      "word": "黄瑶扮演者程金铭发文",
+      "onboard_time": 1675861410,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 360446,
+      "num": 360446,
+      "word": "宝鸡发现1例全球罕见黄金血型",
+      "onboard_time": 1675843711,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310806,
+      "num": 310806,
+      "word": "杨颖BLACKPINK同框",
+      "onboard_time": 1675846353,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 307824,
+      "num": 307824,
+      "word": "张译去不去狂飙庆功宴",
+      "onboard_time": 1675845151,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 295336,
+      "num": 295336,
+      "word": "流浪地球2将在俄罗斯上映",
+      "onboard_time": 1675869275,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 279837,
+      "num": 279837,
+      "word": "柬埔寨旅游可直接用人民币",
+      "onboard_time": 1675867839,
+      "rank": 13,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 253909,
+      "num": 253909,
+      "word": "声生不息宝岛季开录",
+      "onboard_time": 1675868975,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 247576,
+      "num": 247576,
+      "word": "人社部发文提醒职场新人",
+      "onboard_time": 1675865134,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241176,
+      "num": 241176,
+      "word": "男子去土耳其救援前告知妻子所有密码",
+      "onboard_time": 1675865553,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234107,
+      "num": 234107,
+      "word": "宋慧乔活动新闻生图",
+      "onboard_time": 1675863932,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217551,
+      "num": 201550,
+      "word": "主人卖剩下60斤草莓喂给20只羊",
+      "onboard_time": 1675871670,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213554,
+      "num": 213554,
+      "word": "流浪地球狂飙在两岸掀起追剧热潮",
+      "onboard_time": 1675867719,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212432,
+      "num": 212432,
+      "word": "李敏镐最新活动新闻图",
+      "onboard_time": 1675866873,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202467,
+      "num": 202467,
+      "word": "柳智敏首场演唱会预告视频",
+      "onboard_time": 1675872089,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 199250,
+      "num": 199250,
+      "word": "阿里类ChatGPT产品正在内测",
+      "onboard_time": 1675865973,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 189043,
+      "num": 189043,
+      "word": "强震已致土耳其叙利亚上万人遇难",
+      "onboard_time": 1675856370,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187231,
+      "num": 187231,
+      "word": "于和伟问这牛够不够吹十年",
+      "onboard_time": 1675873585,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 180489,
+      "num": 180489,
+      "word": "张若昀发博告别令人心动的offer",
+      "onboard_time": 1675871132,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173887,
+      "num": 173887,
+      "word": "机场回应网传对韩入境人员挂白牌",
+      "onboard_time": 1675857753,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169072,
+      "num": 169072,
+      "word": "收费3元一本代包书皮业务火了",
+      "onboard_time": 1675847254,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168609,
+      "num": 168609,
+      "word": "韵达回应大量包裹派送延误",
+      "onboard_time": 1675865253,
+      "rank": 29,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 155187,
+      "num": 155187,
+      "word": "江西一乡召开适龄未婚女青年座谈会",
+      "onboard_time": 1675853131,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153227,
+      "num": 153227,
+      "word": "被叙利亚7岁小女孩感动到了",
+      "onboard_time": 1675862011,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137392,
+      "num": 137392,
+      "word": "苏小玎直播发言",
+      "onboard_time": 1675856253,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 130993,
+      "num": 130993,
+      "word": "徐江中枪躺桌子上是贾冰设计的",
+      "onboard_time": 1675858829,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 123079,
+      "num": 123079,
+      "word": "骄阳伴我人物关系",
+      "onboard_time": 1675862612,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 111386,
+      "num": 111386,
+      "word": "张智霖在东北穿五件保暖衣",
+      "onboard_time": 1675867900,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111239,
+      "num": 111239,
+      "word": "名侦探学院友谊地久天长",
+      "onboard_time": 1675858470,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110390,
+      "num": 110390,
+      "word": "狂飙版回家的诱惑",
+      "onboard_time": 1675859312,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 106650,
+      "num": 106650,
+      "word": "蔡徐坤分享新发色",
+      "onboard_time": 1675863212,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105090,
+      "num": 105090,
+      "word": "赞多海南吃海鲜视频",
+      "onboard_time": 1675868620,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104900,
+      "num": 104900,
+      "word": "陈妍希说嗑陈晓和王一博兄弟情",
+      "onboard_time": 1675855950,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 95853,
+      "num": 95853,
+      "word": "张颂文高启强登顶热播剧集角色吸粉榜",
+      "onboard_time": 1675861293,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 93510,
+      "num": 93510,
+      "word": "2023最期待的演唱会",
+      "onboard_time": 1675861889,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 87367,
+      "num": 87367,
+      "word": "王子文直播",
+      "onboard_time": 1675866214,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 86682,
+      "num": 86682,
+      "word": "崔叡娜翻跳VeryNice",
+      "onboard_time": 1675868262,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 82233,
+      "num": 82233,
+      "word": "理想L7发布会很苹果",
+      "onboard_time": 1675868439,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 81200,
+      "num": 81200,
+      "word": "浙江一县城百万年薪招聘导游",
+      "onboard_time": 1675852409,
+      "rank": 46,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 79788,
+      "num": 79788,
+      "word": "泽连斯基抵达英国",
+      "onboard_time": 1675873344,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78850,
+      "num": 78850,
+      "word": "南沙守礁战士喝到冷饮的快乐",
+      "onboard_time": 1675861772,
+      "rank": 48,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 76679,
+      "num": 76679,
+      "word": "LESSERAFIM喝到苦参茶的反应",
+      "onboard_time": 1675862969,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24744,
+      "num": 930966,
+      "word": "1分钟感受春天的生机活力",
+      "onboard_time": 1675845753,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平的文化情缘#"
+    }
+  ]
+}
