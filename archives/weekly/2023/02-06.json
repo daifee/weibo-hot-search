@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675848941967,
+  "endTime": 1675851745946,
   "band_list": [
     {
       "raw_hot": 5524134,
@@ -355,6 +355,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1509344,
+      "num": 1509344,
+      "word": "丢失两年的手机半夜仍被人试图解锁",
+      "onboard_time": 1675847972,
+      "rank": 48,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 1498356,
       "num": 1498356,
       "word": "女子取药时发现医生用手机追剧",
@@ -657,6 +665,14 @@
       "onboard_time": 1675698031,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1145418,
+      "num": 1145418,
+      "word": "收费3元一本代包书皮业务火了",
+      "onboard_time": 1675847254,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1135952,
@@ -1363,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 733504,
+      "num": 733504,
+      "word": "王鹤棣终于戴耳钉了",
+      "onboard_time": 1675849774,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 733402,
       "num": 733402,
       "word": "当给妈妈说去殡仪馆上班后",
@@ -1401,6 +1425,14 @@
       "onboard_time": 1675742431,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 720315,
+      "num": 720315,
+      "word": "她就是我 她就是所有女性",
+      "onboard_time": 1675843591,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 718218,
@@ -1475,14 +1507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 682695,
-      "num": 682695,
-      "word": "她就是我 她就是所有女性",
-      "onboard_time": 1675843591,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 680501,
       "num": 680501,
       "word": "导游回应不达购物标准不给游客房卡",
@@ -1505,14 +1529,6 @@
       "onboard_time": 1675843230,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 671000,
-      "num": 671000,
-      "word": "收费3元一本代包书皮业务火了",
-      "onboard_time": 1675847254,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 670753,
@@ -1731,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616823,
+      "num": 616823,
+      "word": "一国企公示名单引争议",
+      "onboard_time": 1675845813,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 614293,
       "num": 614293,
       "word": "男朋友长得像高启强是啥体验",
@@ -1801,14 +1825,6 @@
       "onboard_time": 1675695931,
       "rank": 33,
       "category": "教育,艺人"
-    },
-    {
-      "raw_hot": 590063,
-      "num": 590063,
-      "word": "一国企公示名单引争议",
-      "onboard_time": 1675845813,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 588279,
@@ -2267,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503689,
+      "num": 503689,
+      "word": "网传七家国有航司被要求停止低价投放",
+      "onboard_time": 1675846353,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502745,
       "num": 502745,
       "word": "消失的她定档0622",
@@ -2555,6 +2579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 438241,
+      "num": 438241,
+      "word": "突然被亲一口的猫咪有多懵",
+      "onboard_time": 1675847433,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 437694,
       "num": 437694,
       "word": "丈夫偷拍妻子在副驾吃喝睡780公里",
@@ -2657,14 +2689,6 @@
       "onboard_time": 1675752270,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 424279,
-      "num": 424279,
-      "word": "丢失两年的手机半夜仍被人试图解锁",
-      "onboard_time": 1675847972,
-      "rank": 48,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 422590,
@@ -2961,14 +2985,6 @@
       "onboard_time": 1675824567,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 381042,
-      "num": 381042,
-      "word": "突然被亲一口的猫咪有多懵",
-      "onboard_time": 1675847433,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 377972,
@@ -3283,14 +3299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 337768,
-      "num": 337768,
-      "word": "网传七家国有航司被要求停止低价投放",
-      "onboard_time": 1675846353,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 334712,
       "num": 334712,
       "word": "张晨张常宁父亲因病去世",
@@ -3337,6 +3345,14 @@
       "onboard_time": 1675677269,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327775,
+      "num": 327775,
+      "word": "高叶ip地址在浙江",
+      "onboard_time": 1675849289,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 327605,
@@ -3587,6 +3603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305737,
+      "num": 305737,
+      "word": "井柏然宋威龙被男粉表白",
+      "onboard_time": 1675848869,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 305571,
       "num": 305571,
       "word": "Nuguri说TheShy是最强上单",
@@ -3833,6 +3857,14 @@
       "onboard_time": 1675662088,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 291381,
+      "num": 231349,
+      "word": "应聘时把HR整不会了",
+      "onboard_time": 1675850072,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 291243,
@@ -4651,6 +4683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232693,
+      "num": 232693,
+      "word": "女子收近16万彩礼后失联",
+      "onboard_time": 1675848573,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231672,
       "num": 231672,
       "word": "郑秀妍郑秀晶元宵节做饭vlog",
@@ -5379,14 +5419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186134,
-      "num": 186134,
-      "word": "女子收近16万彩礼后失联",
-      "onboard_time": 1675848573,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185762,
       "num": 185762,
       "word": "胖子到底可以有多灵活",
@@ -5523,6 +5555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181505,
+      "num": 181505,
+      "word": "言承旭宣传方式",
+      "onboard_time": 1675850011,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181196,
       "num": 181196,
       "word": "土耳其地震暂无中国公民伤亡",
@@ -5569,6 +5609,14 @@
       "onboard_time": 1675754971,
       "rank": 41,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 176757,
+      "num": 176757,
+      "word": "张颂文曾帮后援会会长找配型骨髓",
+      "onboard_time": 1675840049,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 176093,
@@ -5665,6 +5713,14 @@
       "onboard_time": 1675764693,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171192,
+      "num": 171192,
+      "word": "春楠镜头里的关晓彤",
+      "onboard_time": 1675846472,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171147,
@@ -5889,14 +5945,6 @@
       "onboard_time": 1675639580,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160178,
-      "num": 160178,
-      "word": "春楠镜头里的关晓彤",
-      "onboard_time": 1675846472,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 159728,
@@ -6211,6 +6259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132196,
+      "num": 132196,
+      "word": "男子遇骗婚团伙民警追查13年破案",
+      "onboard_time": 1675851571,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132041,
       "num": 132041,
       "word": "1个动作增强心肺功能",
@@ -6249,6 +6305,14 @@
       "onboard_time": 1675643848,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130170,
+      "num": 130170,
+      "word": "狂飙打工人壁纸",
+      "onboard_time": 1675849351,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 128040,
@@ -6571,6 +6635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66837,
+      "num": 1610775,
+      "word": "开局之年第一课",
+      "onboard_time": 1675848931,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 65971,
       "num": 1107248,
       "word": "元宵喜乐",
@@ -6665,14 +6737,6 @@
       "onboard_time": 1675791854,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 19586,
-      "num": 1610775,
-      "word": "开局之年第一课",
-      "onboard_time": 1675848931,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 17931,

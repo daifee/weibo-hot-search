@@ -1,0 +1,410 @@
+{
+  "runTime": 1675851745946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2710868,
+        "num": 2710868,
+        "word": "宝鸡发现1例全球罕见黄金血型",
+        "onboard_time": 1675843711,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1823270,
+        "num": 1823270,
+        "word": "杨颖BLACKPINK同框",
+        "onboard_time": 1675846353,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66837,
+        "num": 1603015,
+        "word": "开局之年第一课",
+        "onboard_time": 1675848931,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1509344,
+        "num": 1509344,
+        "word": "丢失两年的手机半夜仍被人试图解锁",
+        "onboard_time": 1675847972,
+        "rank": 3,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1255787,
+        "num": 1255787,
+        "word": "言承旭 我的小孩来了",
+        "onboard_time": 1675835971,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1145418,
+        "num": 1145418,
+        "word": "收费3元一本代包书皮业务火了",
+        "onboard_time": 1675847254,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1049518,
+        "num": 1049518,
+        "word": "张译去不去狂飙庆功宴",
+        "onboard_time": 1675845151,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 995228,
+        "num": 995228,
+        "word": "38388",
+        "onboard_time": 1675839207,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 733504,
+        "num": 733504,
+        "word": "王鹤棣终于戴耳钉了",
+        "onboard_time": 1675849774,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720315,
+        "num": 720315,
+        "word": "她就是我 她就是所有女性",
+        "onboard_time": 1675843591,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 616823,
+        "num": 616823,
+        "word": "一国企公示名单引争议",
+        "onboard_time": 1675845813,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599261,
+        "num": 599261,
+        "word": "狂飙庆功宴",
+        "onboard_time": 1675825230,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 559981,
+        "num": 559981,
+        "word": "19岁女孩第一天相亲第三天就结婚",
+        "onboard_time": 1675846894,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503689,
+        "num": 503689,
+        "word": "网传七家国有航司被要求停止低价投放",
+        "onboard_time": 1675846353,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438241,
+        "num": 438241,
+        "word": "突然被亲一口的猫咪有多懵",
+        "onboard_time": 1675847433,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 430217,
+        "num": 430217,
+        "word": "强震已致土耳其叙利亚逾8000人遇难",
+        "onboard_time": 1675838548,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394418,
+        "num": 394418,
+        "word": "吴彤宋亚轩见面",
+        "onboard_time": 1675848333,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393309,
+        "num": 393309,
+        "word": "张译ip地址在海南",
+        "onboard_time": 1675838607,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376307,
+        "num": 376307,
+        "word": "邓超孙俪中国乒乓结婚照",
+        "onboard_time": 1675846174,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327775,
+        "num": 327775,
+        "word": "高叶ip地址在浙江",
+        "onboard_time": 1675849289,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305737,
+        "num": 305737,
+        "word": "井柏然宋威龙被男粉表白",
+        "onboard_time": 1675848869,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299889,
+        "num": 299889,
+        "word": "3岁女童喊脚疼被确诊癌症晚期",
+        "onboard_time": 1675832855,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284210,
+        "num": 284210,
+        "word": "原来小狗也嫌弃自己脚臭",
+        "onboard_time": 1675843230,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280544,
+        "num": 280544,
+        "word": "丈夫开车碾轧妻子案出新疑点",
+        "onboard_time": 1675839147,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 275697,
+        "num": 275697,
+        "word": "詹姆斯公司在中国已注册詹皇商标",
+        "onboard_time": 1675844612,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270855,
+        "num": 270855,
+        "word": "中国上空也曾发现过美国气球",
+        "onboard_time": 1675843473,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251671,
+        "num": 251671,
+        "word": "台湾永远不可能成为一个国家",
+        "onboard_time": 1675830996,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 250230,
+        "num": 250230,
+        "word": "陈赫抽送邓超中国乒乓电影票",
+        "onboard_time": 1675847433,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243771,
+        "num": 243771,
+        "word": "为什么现在的结婚率越来越低",
+        "onboard_time": 1675843650,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232693,
+        "num": 232693,
+        "word": "女子收近16万彩礼后失联",
+        "onboard_time": 1675848573,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291381,
+        "num": 231349,
+        "word": "应聘时把HR整不会了",
+        "onboard_time": 1675850072,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227988,
+        "num": 227988,
+        "word": "当给妈妈说去殡仪馆上班后",
+        "onboard_time": 1675837949,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225094,
+        "num": 225094,
+        "word": "男子猥亵9岁女孩当场被抓",
+        "onboard_time": 1675844370,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 222946,
+        "num": 222946,
+        "word": "李秀满住院接受治疗",
+        "onboard_time": 1675837828,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216017,
+        "num": 216017,
+        "word": "林俊杰说权志龙很帅很谦虚",
+        "onboard_time": 1675844733,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191213,
+        "num": 191213,
+        "word": "咱们还有仨人在天上",
+        "onboard_time": 1675848452,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 184431,
+        "num": 184431,
+        "word": "满江红成中国影史票房榜第8名",
+        "onboard_time": 1675832855,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181505,
+        "num": 181505,
+        "word": "言承旭宣传方式",
+        "onboard_time": 1675850011,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176757,
+        "num": 176757,
+        "word": "张颂文曾帮后援会会长找配型骨髓",
+        "onboard_time": 1675840049,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176320,
+        "num": 176320,
+        "word": "詹姆斯NBA历史得分王",
+        "onboard_time": 1675832618,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175342,
+        "num": 175342,
+        "word": "邓超回复草图君你演个球",
+        "onboard_time": 1675844008,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172459,
+        "num": 172459,
+        "word": "当狗子没把自己当成狗",
+        "onboard_time": 1675847193,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171192,
+        "num": 171192,
+        "word": "春楠镜头里的关晓彤",
+        "onboard_time": 1675846472,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158233,
+        "num": 158233,
+        "word": "王骁 嘉行",
+        "onboard_time": 1675832736,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155715,
+        "num": 155715,
+        "word": "只有狗狗不嫌弃你做的饭",
+        "onboard_time": 1675847374,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136087,
+        "num": 136087,
+        "word": "爸爸第一次给孩子包书皮撕烂新书",
+        "onboard_time": 1675839330,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134316,
+        "num": 134316,
+        "word": "樊治欣李墨之直播",
+        "onboard_time": 1675843410,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132196,
+        "num": 132196,
+        "word": "男子遇骗婚团伙民警追查13年破案",
+        "onboard_time": 1675851571,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131504,
+        "num": 131504,
+        "word": "46款APP存在侵害用户权益行为",
+        "onboard_time": 1675844490,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 130170,
+        "num": 130170,
+        "word": "狂飙打工人壁纸",
+        "onboard_time": 1675849351,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年第一课为我们指明了方向#"
+    }
+  }
+}
