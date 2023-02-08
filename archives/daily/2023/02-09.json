@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675895674002,
+  "endTime": 1675898334990,
   "band_list": [
     {
       "raw_hot": 4001183,
@@ -43,6 +43,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 536288,
+      "num": 536288,
+      "word": "通勤时间过长会有什么影响",
+      "onboard_time": 1675896437,
+      "rank": 1,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 514753,
       "num": 514753,
       "word": "唐嫣宋亚轩埋头笑",
@@ -75,12 +83,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376332,
+      "num": 376332,
+      "word": "土耳其2岁男孩被压废墟44小时不哭不闹",
+      "onboard_time": 1675891932,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360446,
       "num": 360446,
       "word": "宝鸡发现1例全球罕见黄金血型",
       "onboard_time": 1675843711,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343583,
+      "num": 343583,
+      "word": "中国以全球最高价进口俄油系误导",
+      "onboard_time": 1675888212,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 310806,
@@ -123,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263602,
+      "num": 263602,
+      "word": "日本一沙滩惊现大量沙丁鱼",
+      "onboard_time": 1675881434,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253909,
       "num": 253909,
       "word": "声生不息宝岛季开录",
@@ -155,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231554,
+      "num": 231554,
+      "word": "异丙酚",
+      "onboard_time": 1675898301,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 224190,
       "num": 224190,
       "word": "流浪地球狂飙在两岸掀起追剧热潮",
@@ -177,14 +217,6 @@
       "onboard_time": 1675866873,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204136,
-      "num": 84705,
-      "word": "土耳其2岁男孩被压废墟44小时不哭不闹",
-      "onboard_time": 1675891932,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202467,
@@ -291,12 +323,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139271,
-      "num": 84704,
-      "word": "中国以全球最高价进口俄油系误导",
-      "onboard_time": 1675888212,
-      "rank": 45,
-      "category": "财经,社会新闻"
+      "raw_hot": 146428,
+      "num": 146428,
+      "word": "不锈钢擦出的黑黑的东西是什么",
+      "onboard_time": 1675874723,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140346,
+      "num": 140346,
+      "word": "南京玄武湖600岁古梅绽放",
+      "onboard_time": 1675895895,
+      "rank": 16,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 139959,
+      "num": 86682,
+      "word": "幽灵诡计",
+      "onboard_time": 1675897938,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 137392,
@@ -305,14 +353,6 @@
       "onboard_time": 1675856253,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 134501,
-      "num": 110932,
-      "word": "日本一沙滩惊现大量沙丁鱼",
-      "onboard_time": 1675881434,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130993,
@@ -331,12 +371,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 122483,
-      "num": 115425,
-      "word": "不锈钢擦出的黑黑的东西是什么",
-      "onboard_time": 1675874723,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 117476,
+      "num": 117476,
+      "word": "王子文说经济独立很重要",
+      "onboard_time": 1675877656,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 111386,
@@ -387,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102713,
-      "num": 102713,
-      "word": "王子文说经济独立很重要",
-      "onboard_time": 1675877656,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95853,
       "num": 95853,
       "word": "张颂文高启强登顶热播剧集角色吸粉榜",
@@ -403,12 +435,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93722,
+      "num": 93722,
+      "word": "周杰伦晒打高尔夫比耶自拍",
+      "onboard_time": 1675897816,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93510,
       "num": 93510,
       "word": "2023最期待的演唱会",
       "onboard_time": 1675861889,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 89339,
+      "num": 89339,
+      "word": "为什么现在的结婚率越来越低",
+      "onboard_time": 1675843650,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 88119,
@@ -467,12 +515,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 40361,
-      "num": 40361,
-      "word": "为什么现在的结婚率越来越低",
-      "onboard_time": 1675843650,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 74210,
+      "num": 74210,
+      "word": "忠武路演员",
+      "onboard_time": 1675898301,
+      "rank": 35,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 49726,
+      "num": 49726,
+      "word": "你们粉丝整活有够荒谬的",
+      "onboard_time": 1675885391,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 38678,
@@ -483,15 +539,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 28164,
-      "num": 28164,
-      "word": "你们粉丝整活有够荒谬的",
-      "onboard_time": 1675885391,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 24744,
+      "raw_hot": 30281,
       "num": 930966,
       "word": "1分钟感受春天的生机活力",
       "onboard_time": 1675845753,
