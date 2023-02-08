@@ -1,0 +1,410 @@
+{
+  "runTime": 1675895674002,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 489104,
+        "num": 489104,
+        "word": "刘亚仁涉嫌吸毒",
+        "onboard_time": 1675866815,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 273083,
+        "num": 273083,
+        "word": "14岁男孩寄养大伯家辍学杀鱼",
+        "onboard_time": 1675869994,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14020,
+        "num": 215694,
+        "word": "1分钟感受春天的生机活力",
+        "onboard_time": 1675845753,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197477,
+        "num": 197477,
+        "word": "官方回应中国游客普吉岛旅游被割伤",
+        "onboard_time": 1675871610,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 157195,
+        "num": 157195,
+        "word": "马航MH17坠机案调查暂停",
+        "onboard_time": 1675860632,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118493,
+        "num": 118493,
+        "word": "宝鸡发现1例全球罕见黄金血型",
+        "onboard_time": 1675843711,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111585,
+        "num": 111585,
+        "word": "陈妍希只看了梦华录前十集",
+        "onboard_time": 1675868022,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110932,
+        "num": 110932,
+        "word": "日本一沙滩惊现大量沙丁鱼",
+        "onboard_time": 1675881434,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91297,
+        "num": 91297,
+        "word": "泽连斯基抵达英国",
+        "onboard_time": 1675873344,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84719,
+        "num": 84719,
+        "word": "言承旭道歉",
+        "onboard_time": 1675853734,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204136,
+        "num": 84705,
+        "word": "土耳其2岁男孩被压废墟44小时不哭不闹",
+        "onboard_time": 1675891932,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139271,
+        "num": 84704,
+        "word": "中国以全球最高价进口俄油系误导",
+        "onboard_time": 1675888212,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 84688,
+        "num": 84688,
+        "word": "王子文说经济独立很重要",
+        "onboard_time": 1675877656,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77886,
+        "num": 77886,
+        "word": "不锈钢擦出的黑黑的东西是什么",
+        "onboard_time": 1675874723,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70582,
+        "num": 70582,
+        "word": "张译去不去狂飙庆功宴",
+        "onboard_time": 1675845151,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67822,
+        "num": 67822,
+        "word": "张大大念网友私信",
+        "onboard_time": 1675876159,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60901,
+        "num": 60901,
+        "word": "声生不息宝岛季开录",
+        "onboard_time": 1675868975,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60188,
+        "num": 60188,
+        "word": "韵达回应大量包裹派送延误",
+        "onboard_time": 1675865253,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 50371,
+        "num": 50371,
+        "word": "强震已致土耳其叙利亚上万人遇难",
+        "onboard_time": 1675856370,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48758,
+        "num": 48758,
+        "word": "唐嫣宋亚轩埋头笑",
+        "onboard_time": 1675868439,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45080,
+        "num": 45080,
+        "word": "宋慧乔活动新闻生图",
+        "onboard_time": 1675863932,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42608,
+        "num": 42608,
+        "word": "柬埔寨旅游可直接用人民币",
+        "onboard_time": 1675867839,
+        "rank": 21,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 40167,
+        "num": 40167,
+        "word": "人社部发文提醒职场新人",
+        "onboard_time": 1675865134,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38218,
+        "num": 38218,
+        "word": "流浪地球狂飙在两岸掀起追剧热潮",
+        "onboard_time": 1675867719,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37640,
+        "num": 37640,
+        "word": "男子去土耳其救援前告知妻子所有密码",
+        "onboard_time": 1675865553,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37044,
+        "num": 37044,
+        "word": "为什么现在的结婚率越来越低",
+        "onboard_time": 1675843650,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37026,
+        "num": 37026,
+        "word": "你期待杨幂新电影吗",
+        "onboard_time": 1675890432,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36285,
+        "num": 36285,
+        "word": "李敏镐最新活动新闻图",
+        "onboard_time": 1675866873,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35641,
+        "num": 35641,
+        "word": "蔡徐坤分享新发色",
+        "onboard_time": 1675863212,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35409,
+        "num": 35409,
+        "word": "江西一乡召开适龄未婚女青年座谈会",
+        "onboard_time": 1675853131,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34196,
+        "num": 34196,
+        "word": "机场回应网传对韩入境人员挂白牌",
+        "onboard_time": 1675857753,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31128,
+        "num": 31128,
+        "word": "收费3元一本代包书皮业务火了",
+        "onboard_time": 1675847254,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30087,
+        "num": 30087,
+        "word": "陈妍希说嗑陈晓和王一博兄弟情",
+        "onboard_time": 1675855950,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27691,
+        "num": 27691,
+        "word": "这才是真正的狂飙",
+        "onboard_time": 1675858650,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27375,
+        "num": 27375,
+        "word": "狂飙版回家的诱惑",
+        "onboard_time": 1675859312,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27300,
+        "num": 27300,
+        "word": "徐江中枪躺桌子上是贾冰设计的",
+        "onboard_time": 1675858829,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27219,
+        "num": 27219,
+        "word": "浙江一县城百万年薪招聘导游",
+        "onboard_time": 1675852409,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 27017,
+        "num": 27017,
+        "word": "流浪地球2将在俄罗斯上映",
+        "onboard_time": 1675869275,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26796,
+        "num": 26796,
+        "word": "南沙守礁战士喝到冷饮的快乐",
+        "onboard_time": 1675861772,
+        "rank": 38,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 26721,
+        "num": 26721,
+        "word": "被叙利亚7岁小女孩感动到了",
+        "onboard_time": 1675862011,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26399,
+        "num": 26399,
+        "word": "于和伟问这牛够不够吹十年",
+        "onboard_time": 1675873585,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23968,
+        "num": 23968,
+        "word": "阿里类ChatGPT产品正在内测",
+        "onboard_time": 1675865973,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 23309,
+        "num": 23309,
+        "word": "你们粉丝整活有够荒谬的",
+        "onboard_time": 1675885391,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22793,
+        "num": 22793,
+        "word": "张若昀发博告别令人心动的offer",
+        "onboard_time": 1675871132,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22456,
+        "num": 22456,
+        "word": "张颂文高启强登顶热播剧集角色吸粉榜",
+        "onboard_time": 1675861293,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21976,
+        "num": 21976,
+        "word": "黄瑶扮演者程金铭发文",
+        "onboard_time": 1675861410,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21815,
+        "num": 21815,
+        "word": "杨颖BLACKPINK同框",
+        "onboard_time": 1675846353,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20220,
+        "num": 20220,
+        "word": "苏小玎直播发言",
+        "onboard_time": 1675856253,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19462,
+        "num": 19462,
+        "word": "曾可妮翻跳nxde",
+        "onboard_time": 1675873824,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18860,
+        "num": 18860,
+        "word": "想见你王诠胜内地限定番外蓝色心愿",
+        "onboard_time": 1675875020,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}
