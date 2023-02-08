@@ -1,0 +1,410 @@
+{
+  "runTime": 1675824558187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2150349,
+        "num": 2150349,
+        "word": "唐小强",
+        "onboard_time": 1675816289,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1544897,
+        "num": 1544897,
+        "word": "女生上班通勤4小时坐10趟地铁",
+        "onboard_time": 1675820847,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10834,
+        "num": 1512684,
+        "word": "流动的中国绽放着蓬勃活力",
+        "onboard_time": 1675756171,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1487979,
+        "num": 1487979,
+        "word": "西安不倒翁小姐姐回应生娃面容憔悴",
+        "onboard_time": 1675812561,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792855,
+        "num": 792855,
+        "word": "多家银行回应存钱需提供收入证明",
+        "onboard_time": 1675820007,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 614172,
+        "num": 614172,
+        "word": "詹姆斯认为自己是史上最佳球员",
+        "onboard_time": 1675819350,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 586667,
+        "num": 586667,
+        "word": "没有一顿火锅解决不了的事开机",
+        "onboard_time": 1675823306,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 562856,
+        "num": 562856,
+        "word": "微软市值一夜飙涨5450亿",
+        "onboard_time": 1675818570,
+        "rank": 7,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 560131,
+        "num": 560131,
+        "word": "男老师猥亵男童获刑5年终身禁业",
+        "onboard_time": 1675817910,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522069,
+        "num": 522069,
+        "word": "邓超说好想转发喊一句飒",
+        "onboard_time": 1675823188,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 841608,
+        "num": 514516,
+        "word": "杨幂 要是有就再加麻加辣",
+        "onboard_time": 1675824027,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505445,
+        "num": 505445,
+        "word": "唐小强曾多次见义勇为",
+        "onboard_time": 1675822584,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 490634,
+        "num": 490634,
+        "word": "美人都忍不住赞叹的颜值",
+        "onboard_time": 1675822165,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454993,
+        "num": 454993,
+        "word": "新冠病毒去哪了它会消失吗",
+        "onboard_time": 1675823846,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441311,
+        "num": 441311,
+        "word": "韩国申报的文化遗产来自日本",
+        "onboard_time": 1675812500,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418847,
+        "num": 418847,
+        "word": "震区女婴获救时脐带仍与遇难母亲相连",
+        "onboard_time": 1675819048,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363924,
+        "num": 363924,
+        "word": "肖战新剧杀青登多国趋势",
+        "onboard_time": 1675819950,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350652,
+        "num": 350652,
+        "word": "就zei块 就zei块",
+        "onboard_time": 1675814846,
+        "rank": 17,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 346708,
+        "num": 346708,
+        "word": "一旦代入沈腾再也走不出来了",
+        "onboard_time": 1675817431,
+        "rank": 18,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 321543,
+        "num": 321543,
+        "word": "人民日报评智能电视套路收费",
+        "onboard_time": 1675819527,
+        "rank": 19,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 315871,
+        "num": 315871,
+        "word": "微软正式将ChatGPT引入必应",
+        "onboard_time": 1675817068,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 308152,
+        "num": 308152,
+        "word": "这就是女生最想要的求婚吧",
+        "onboard_time": 1675823127,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303477,
+        "num": 303477,
+        "word": "杨幂新电影人设",
+        "onboard_time": 1675824506,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300498,
+        "num": 300498,
+        "word": "欧文说和詹姆斯永远是兄弟",
+        "onboard_time": 1675820968,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286039,
+        "num": 286039,
+        "word": "当事人辟谣冰面滑倒晕厥去世",
+        "onboard_time": 1675820427,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284720,
+        "num": 284720,
+        "word": "土耳其地震已致该国5894人死亡",
+        "onboard_time": 1675813042,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278941,
+        "num": 278941,
+        "word": "郭麒麟新剧喊话吴镇宇求罩",
+        "onboard_time": 1675822287,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261631,
+        "num": 261631,
+        "word": "极端通勤在默默消耗年轻人的精力",
+        "onboard_time": 1675821807,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260454,
+        "num": 260454,
+        "word": "ChatGPT会不会使底层程序员失业",
+        "onboard_time": 1675823428,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 256353,
+        "num": 256353,
+        "word": "国产新冠药全部纳入医保支付范围",
+        "onboard_time": 1675822105,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 238363,
+        "num": 238363,
+        "word": "中国乒乓预售正式开启",
+        "onboard_time": 1675822949,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229297,
+        "num": 229297,
+        "word": "叙利亚地震后美国仍拒绝解除制裁",
+        "onboard_time": 1675794794,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 226941,
+        "num": 226941,
+        "word": "土耳其",
+        "onboard_time": 1675816467,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225165,
+        "num": 225165,
+        "word": "张译的播音腔",
+        "onboard_time": 1675822886,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221329,
+        "num": 221329,
+        "word": "新海诚铃芽之旅官宣定档",
+        "onboard_time": 1675822287,
+        "rank": 34,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 214870,
+        "num": 214870,
+        "word": "欧文说和杜兰特仍是兄弟",
+        "onboard_time": 1675821685,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204925,
+        "num": 204925,
+        "word": "王子文想演三体人",
+        "onboard_time": 1675823608,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204415,
+        "num": 204415,
+        "word": "张朝阳用微积分推导阿基米德原理",
+        "onboard_time": 1675823668,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 203609,
+        "num": 203609,
+        "word": "白百何给员工放假30天",
+        "onboard_time": 1675782154,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200689,
+        "num": 200689,
+        "word": "张译新闻联播镜头",
+        "onboard_time": 1675779033,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198464,
+        "num": 198464,
+        "word": "25岁女生记录矫正牙齿全过程",
+        "onboard_time": 1675804990,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193851,
+        "num": 193851,
+        "word": "6个少年分工合作救了一条人命",
+        "onboard_time": 1675820307,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191768,
+        "num": 191768,
+        "word": "丈夫深夜崩溃痛哭妻子一把搂入怀",
+        "onboard_time": 1675824206,
+        "rank": 42,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 187094,
+        "num": 187094,
+        "word": "杨卫宁叶文洁终得正果",
+        "onboard_time": 1675817309,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172748,
+        "num": 172748,
+        "word": "山寨ChatGPT对话1300次要近百元",
+        "onboard_time": 1675821268,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 172704,
+        "num": 172704,
+        "word": "山东有一个公交站叫满江红",
+        "onboard_time": 1675812380,
+        "rank": 45,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 167407,
+        "num": 167407,
+        "word": "王曼昱",
+        "onboard_time": 1675816649,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157796,
+        "num": 157796,
+        "word": "结婚一定要有求婚仪式吗",
+        "onboard_time": 1675813702,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155844,
+        "num": 155844,
+        "word": "陈晓陈妍希微信头像都是关于对方",
+        "onboard_time": 1675777593,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150293,
+        "num": 150293,
+        "word": "父亲在废墟里牵着遇难女儿的手",
+        "onboard_time": 1675814786,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#正确理解和大力推进中国式现代化#"
+    }
+  }
+}

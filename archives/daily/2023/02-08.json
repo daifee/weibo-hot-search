@@ -1,6 +1,6 @@
 {
   "startTime": 1675787182329,
-  "endTime": 1675821863183,
+  "endTime": 1675824558187,
   "band_list": [
     {
       "raw_hot": 2267638,
@@ -11,12 +11,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1680082,
-      "num": 1680082,
+      "raw_hot": 2150349,
+      "num": 2150349,
       "word": "唐小强",
       "onboard_time": 1675816289,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1544897,
+      "num": 1544897,
+      "word": "女生上班通勤4小时坐10趟地铁",
+      "onboard_time": 1675820847,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1135952,
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 841608,
+      "num": 514516,
+      "word": "杨幂 要是有就再加麻加辣",
+      "onboard_time": 1675824027,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 821599,
       "num": 821599,
       "word": "韩国申报的文化遗产来自日本",
@@ -75,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 792855,
+      "num": 792855,
+      "word": "多家银行回应存钱需提供收入证明",
+      "onboard_time": 1675820007,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 759556,
       "num": 759556,
       "word": "微软正式将ChatGPT引入必应",
@@ -83,28 +107,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 747640,
-      "num": 747640,
-      "word": "多家银行回应存钱需提供收入证明",
-      "onboard_time": 1675820007,
-      "rank": 30,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 707723,
       "num": 707723,
       "word": "微软市值一夜飙涨5450亿",
       "onboard_time": 1675818570,
       "rank": 6,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 694878,
-      "num": 694878,
-      "word": "女生上班通勤4小时坐10趟地铁",
-      "onboard_time": 1675820847,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 693646,
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 586667,
+      "num": 586667,
+      "word": "没有一顿火锅解决不了的事开机",
+      "onboard_time": 1675823306,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 578474,
       "num": 578474,
       "word": "土耳其地震已致该国5894人死亡",
@@ -171,12 +187,28 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 522069,
+      "num": 522069,
+      "word": "邓超说好想转发喊一句飒",
+      "onboard_time": 1675823188,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 521586,
       "num": 521586,
       "word": "女子想丁克妈妈说开心就好",
       "onboard_time": 1675806972,
       "rank": 30,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 505445,
+      "num": 505445,
+      "word": "唐小强曾多次见义勇为",
+      "onboard_time": 1675822584,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 504768,
@@ -203,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490634,
+      "num": 490634,
+      "word": "美人都忍不住赞叹的颜值",
+      "onboard_time": 1675822165,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 484115,
       "num": 484115,
       "word": "陈晓陈妍希微信头像都是关于对方",
@@ -217,6 +257,14 @@
       "onboard_time": 1675774292,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 454993,
+      "num": 454993,
+      "word": "新冠病毒去哪了它会消失吗",
+      "onboard_time": 1675823846,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440779,
@@ -331,6 +379,30 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 308152,
+      "num": 308152,
+      "word": "这就是女生最想要的求婚吧",
+      "onboard_time": 1675823127,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 303477,
+      "num": 303477,
+      "word": "杨幂新电影人设",
+      "onboard_time": 1675824506,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 300498,
+      "num": 300498,
+      "word": "欧文说和詹姆斯永远是兄弟",
+      "onboard_time": 1675820968,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296931,
       "num": 296931,
       "word": "杨卫宁叶文洁终得正果",
@@ -371,14 +443,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 289705,
-      "num": 289705,
-      "word": "欧文说和詹姆斯永远是兄弟",
-      "onboard_time": 1675820968,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280176,
       "num": 280176,
       "word": "恩施人非必要不得前往柬埔寨",
@@ -393,6 +457,14 @@
       "onboard_time": 1675781014,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278941,
+      "num": 278941,
+      "word": "郭麒麟新剧喊话吴镇宇求罩",
+      "onboard_time": 1675822287,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 274213,
@@ -419,6 +491,30 @@
       "category": "教育"
     },
     {
+      "raw_hot": 261631,
+      "num": 261631,
+      "word": "极端通勤在默默消耗年轻人的精力",
+      "onboard_time": 1675821807,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260454,
+      "num": 260454,
+      "word": "ChatGPT会不会使底层程序员失业",
+      "onboard_time": 1675823428,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 256353,
+      "num": 256353,
+      "word": "国产新冠药全部纳入医保支付范围",
+      "onboard_time": 1675822105,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 255602,
       "num": 255602,
       "word": "林高远",
@@ -432,6 +528,14 @@
       "word": "边水往事官宣杀青",
       "onboard_time": 1675821566,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 238363,
+      "num": 238363,
+      "word": "中国乒乓预售正式开启",
+      "onboard_time": 1675822949,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -459,12 +563,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225165,
+      "num": 225165,
+      "word": "张译的播音腔",
+      "onboard_time": 1675822886,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221329,
+      "num": 221329,
+      "word": "新海诚铃芽之旅官宣定档",
+      "onboard_time": 1675822287,
+      "rank": 34,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 216248,
       "num": 216248,
       "word": "流浪地球世界观设定会出版图书",
       "onboard_time": 1675786525,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214870,
+      "num": 214870,
+      "word": "欧文说和杜兰特仍是兄弟",
+      "onboard_time": 1675821685,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 207594,
@@ -499,6 +627,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204925,
+      "num": 204925,
+      "word": "王子文想演三体人",
+      "onboard_time": 1675823608,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 204415,
+      "num": 204415,
+      "word": "张朝阳用微积分推导阿基米德原理",
+      "onboard_time": 1675823668,
+      "rank": 37,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 204215,
       "num": 204215,
       "word": "不愿面对脏小狗的狗妈",
@@ -529,6 +673,14 @@
       "onboard_time": 1675820125,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191768,
+      "num": 191768,
+      "word": "丈夫深夜崩溃痛哭妻子一把搂入怀",
+      "onboard_time": 1675824206,
+      "rank": 42,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 191629,
@@ -675,28 +827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141601,
-      "num": 141601,
-      "word": "欧文说和杜兰特仍是兄弟",
-      "onboard_time": 1675821685,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136840,
       "num": 136840,
       "word": "王者荣耀情人节CG",
       "onboard_time": 1675779335,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136074,
-      "num": 136074,
-      "word": "极端通勤在默默消耗年轻人的精力",
-      "onboard_time": 1675821807,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132708,
@@ -932,7 +1068,7 @@
     },
     {
       "raw_hot": 14788,
-      "num": 1214536,
+      "num": 1512684,
       "word": "流动的中国绽放着蓬勃活力",
       "onboard_time": 1675756171,
       "rank": 2,

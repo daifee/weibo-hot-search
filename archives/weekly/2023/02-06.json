@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675821863183,
+  "endTime": 1675824558187,
   "band_list": [
     {
       "raw_hot": 3914900,
@@ -225,6 +225,14 @@
       "onboard_time": 1675642410,
       "rank": 0,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1544897,
+      "num": 1544897,
+      "word": "女生上班通勤4小时坐10趟地铁",
+      "onboard_time": 1675820847,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1521895,
@@ -859,6 +867,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 841608,
+      "num": 514516,
+      "word": "杨幂 要是有就再加麻加辣",
+      "onboard_time": 1675824027,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 830645,
       "num": 830645,
       "word": "蔡徐坤头发已经褪色了",
@@ -955,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 792855,
+      "num": 792855,
+      "word": "多家银行回应存钱需提供收入证明",
+      "onboard_time": 1675820007,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 791621,
       "num": 791621,
       "word": "李秀满将起诉SMTOWN理事会",
@@ -1041,14 +1065,6 @@
       "onboard_time": 1675692690,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 747640,
-      "num": 747640,
-      "word": "多家银行回应存钱需提供收入证明",
-      "onboard_time": 1675820007,
-      "rank": 30,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 742134,
@@ -1160,14 +1176,6 @@
       "word": "24岁牙科实习医生自拔智齿练手",
       "onboard_time": 1675742252,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 694878,
-      "num": 694878,
-      "word": "女生上班通勤4小时坐10趟地铁",
-      "onboard_time": 1675820847,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1457,6 +1465,14 @@
       "onboard_time": 1675774409,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586667,
+      "num": 586667,
+      "word": "没有一顿火锅解决不了的事开机",
+      "onboard_time": 1675823306,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 583967,
@@ -1811,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522069,
+      "num": 522069,
+      "word": "邓超说好想转发喊一句飒",
+      "onboard_time": 1675823188,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 521586,
       "num": 521586,
       "word": "女子想丁克妈妈说开心就好",
@@ -1849,6 +1873,14 @@
       "onboard_time": 1675703299,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505445,
+      "num": 505445,
+      "word": "唐小强曾多次见义勇为",
+      "onboard_time": 1675822584,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 504768,
@@ -1929,6 +1961,14 @@
       "onboard_time": 1675773991,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490634,
+      "num": 490634,
+      "word": "美人都忍不住赞叹的颜值",
+      "onboard_time": 1675822165,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 484294,
@@ -2017,6 +2057,14 @@
       "onboard_time": 1675684647,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 454993,
+      "num": 454993,
+      "word": "新冠病毒去哪了它会消失吗",
+      "onboard_time": 1675823846,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451416,
@@ -2923,6 +2971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308152,
+      "num": 308152,
+      "word": "这就是女生最想要的求婚吧",
+      "onboard_time": 1675823127,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307944,
       "num": 307944,
       "word": "黑豹2",
@@ -2963,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303477,
+      "num": 303477,
+      "word": "杨幂新电影人设",
+      "onboard_time": 1675824506,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303247,
       "num": 303247,
       "word": "开学",
@@ -2985,6 +3049,14 @@
       "onboard_time": 1675702761,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300498,
+      "num": 300498,
+      "word": "欧文说和詹姆斯永远是兄弟",
+      "onboard_time": 1675820968,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 299719,
@@ -3147,14 +3219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289705,
-      "num": 289705,
-      "word": "欧文说和詹姆斯永远是兄弟",
-      "onboard_time": 1675820968,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 289679,
       "num": 289679,
       "word": "恋与制作人世纪告白",
@@ -3249,6 +3313,14 @@
       "onboard_time": 1675650749,
       "rank": 36,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 278941,
+      "num": 278941,
+      "word": "郭麒麟新剧喊话吴镇宇求罩",
+      "onboard_time": 1675822287,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 278298,
@@ -3475,12 +3547,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 261631,
+      "num": 261631,
+      "word": "极端通勤在默默消耗年轻人的精力",
+      "onboard_time": 1675821807,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260778,
       "num": 260778,
       "word": "土耳其地震已在土造成2379人死亡",
       "onboard_time": 1675736066,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260454,
+      "num": 260454,
+      "word": "ChatGPT会不会使底层程序员失业",
+      "onboard_time": 1675823428,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 260091,
@@ -3529,6 +3617,14 @@
       "onboard_time": 1675750052,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256353,
+      "num": 256353,
+      "word": "国产新冠药全部纳入医保支付范围",
+      "onboard_time": 1675822105,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 256322,
@@ -3739,6 +3835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238363,
+      "num": 238363,
+      "word": "中国乒乓预售正式开启",
+      "onboard_time": 1675822949,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238051,
       "num": 238051,
       "word": "三秒摔了六跤",
@@ -3923,6 +4027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225165,
+      "num": 225165,
+      "word": "张译的播音腔",
+      "onboard_time": 1675822886,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225033,
       "num": 225033,
       "word": "宋宁峰看张婉婷写给婆婆的话哭了",
@@ -3979,6 +4091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221329,
+      "num": 221329,
+      "word": "新海诚铃芽之旅官宣定档",
+      "onboard_time": 1675822287,
+      "rank": 34,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 220850,
       "num": 220850,
       "word": "王者荣耀情人节CG",
@@ -4033,6 +4153,14 @@
       "onboard_time": 1675686510,
       "rank": 39,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 214870,
+      "num": 214870,
+      "word": "欧文说和杜兰特仍是兄弟",
+      "onboard_time": 1675821685,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 214606,
@@ -4163,12 +4291,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204925,
+      "num": 204925,
+      "word": "王子文想演三体人",
+      "onboard_time": 1675823608,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204639,
       "num": 204639,
       "word": "揭秘爆红ChatGPT之父",
       "onboard_time": 1675739848,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 204415,
+      "num": 204415,
+      "word": "张朝阳用微积分推导阿基米德原理",
+      "onboard_time": 1675823668,
+      "rank": 37,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 204409,
@@ -4369,6 +4513,14 @@
       "onboard_time": 1675778613,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 191768,
+      "num": 191768,
+      "word": "丈夫深夜崩溃痛哭妻子一把搂入怀",
+      "onboard_time": 1675824206,
+      "rank": 42,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 191454,
@@ -5059,14 +5211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141601,
-      "num": 141601,
-      "word": "欧文说和杜兰特仍是兄弟",
-      "onboard_time": 1675821685,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139666,
       "num": 139666,
       "word": "欧文期待与东契奇联手",
@@ -5096,14 +5240,6 @@
       "word": "中国红十字会向土叙提供紧急人道主义援助",
       "onboard_time": 1675732589,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136074,
-      "num": 136074,
-      "word": "极端通勤在默默消耗年轻人的精力",
-      "onboard_time": 1675821807,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -5532,7 +5668,7 @@
     },
     {
       "raw_hot": 53085,
-      "num": 1415601,
+      "num": 1512684,
       "word": "流动的中国绽放着蓬勃活力",
       "onboard_time": 1675756171,
       "rank": 2,
