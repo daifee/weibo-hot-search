@@ -1,0 +1,410 @@
+{
+  "runTime": 1675981137939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 194681,
+        "num": 194681,
+        "word": "张朝阳再谈四小时睡眠法",
+        "onboard_time": 1675960408,
+        "rank": 0,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 139954,
+        "num": 139954,
+        "word": "男子咨询社保被告知3年前已死亡",
+        "onboard_time": 1675958317,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13359,
+        "num": 125866,
+        "word": "强信心稳经济促发展",
+        "onboard_time": 1675946131,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 116173,
+        "num": 116173,
+        "word": "小夫妻回应亲手剪掉名下所有信用卡",
+        "onboard_time": 1675955375,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 104877,
+        "num": 104877,
+        "word": "成都街头现飞鸟撞树现象",
+        "onboard_time": 1675959213,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78583,
+        "num": 78583,
+        "word": "金价一路飙升何时买黄金合适",
+        "onboard_time": 1675960766,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71611,
+        "num": 71611,
+        "word": "李恩曝少女神探导演与女生聊天记录",
+        "onboard_time": 1675950332,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68479,
+        "num": 68479,
+        "word": "刘亚仁注射的异丙酚是什么药物",
+        "onboard_time": 1675950873,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 67308,
+        "num": 67308,
+        "word": "云南省人类精子库倡议大学生捐精",
+        "onboard_time": 1675951295,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66509,
+        "num": 66509,
+        "word": "叙利亚总统怒斥西方",
+        "onboard_time": 1675964716,
+        "rank": 9,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 97621,
+        "num": 65378,
+        "word": "土耳其一男子告别遇难未婚妻",
+        "onboard_time": 1675978391,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59605,
+        "num": 59605,
+        "word": "刘亚仁确认吸毒",
+        "onboard_time": 1675930527,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 58726,
+        "num": 58726,
+        "word": "上海月最低工资全国最高",
+        "onboard_time": 1675965857,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56777,
+        "num": 56777,
+        "word": "叙利亚已收到千笔中国捐款",
+        "onboard_time": 1675947812,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51780,
+        "num": 51780,
+        "word": "高叶和她的经纪人李洋",
+        "onboard_time": 1675949013,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49038,
+        "num": 49038,
+        "word": "重庆一女子称开锁广告被贴家门里面",
+        "onboard_time": 1675980134,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47012,
+        "num": 47012,
+        "word": "鞠婧祎喝椰子水视频",
+        "onboard_time": 1675951776,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42890,
+        "num": 42890,
+        "word": "研究称ChatGPT或成传播网络谣言最强工具",
+        "onboard_time": 1675972032,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 38952,
+        "num": 38952,
+        "word": "48岁吴彦祖最新访谈",
+        "onboard_time": 1675958498,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38270,
+        "num": 38270,
+        "word": "张颂文曾在红毯让伞给礼仪小姐",
+        "onboard_time": 1675951174,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45097,
+        "num": 38175,
+        "word": "新疆禁毒形象大使不像演的",
+        "onboard_time": 1675936711,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36923,
+        "num": 36923,
+        "word": "刘宇宁直播",
+        "onboard_time": 1675956814,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36267,
+        "num": 36267,
+        "word": "日本樱岛火山复活火山灰喷至千米高",
+        "onboard_time": 1675942229,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35925,
+        "num": 35925,
+        "word": "中国救援队员救出孕妇后激动击掌",
+        "onboard_time": 1675973112,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33781,
+        "num": 33781,
+        "word": "婚检有多重要",
+        "onboard_time": 1675940491,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33534,
+        "num": 33534,
+        "word": "暴雪CEO说腾讯和字节是最好的公司",
+        "onboard_time": 1675949974,
+        "rank": 25,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 33412,
+        "num": 33412,
+        "word": "老默扮演者冯兵说下个角色更狠",
+        "onboard_time": 1675961365,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32919,
+        "num": 32919,
+        "word": "显微镜下的大明",
+        "onboard_time": 1675950332,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32558,
+        "num": 32558,
+        "word": "井汲大翔ending",
+        "onboard_time": 1675960049,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30344,
+        "num": 30344,
+        "word": "英媒评男子运动员9位GOAT",
+        "onboard_time": 1675962264,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28408,
+        "num": 28408,
+        "word": "够一篇SCI的智齿",
+        "onboard_time": 1675954956,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25924,
+        "num": 25924,
+        "word": "旅客为逃避安检把活蜗牛藏嘴里",
+        "onboard_time": 1675944149,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25733,
+        "num": 25733,
+        "word": "日本火山",
+        "onboard_time": 1675939831,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23769,
+        "num": 23769,
+        "word": "狂飙剧透三骗子",
+        "onboard_time": 1675947091,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23187,
+        "num": 23187,
+        "word": "黄绮珊 喊妈喊姐你们说了算",
+        "onboard_time": 1675957597,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23021,
+        "num": 23021,
+        "word": "中国红十字会救援人员赶赴叙利亚",
+        "onboard_time": 1675976233,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22122,
+        "num": 22122,
+        "word": "泫雅牙钻",
+        "onboard_time": 1675934431,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21891,
+        "num": 21891,
+        "word": "一个出来了 一个进去了",
+        "onboard_time": 1675933351,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 21376,
+        "num": 21376,
+        "word": "央六评赵丽颖许半夏的成长型爽感",
+        "onboard_time": 1675945170,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20334,
+        "num": 20334,
+        "word": "HYBE正式宣布参与收购SMTOWN",
+        "onboard_time": 1675941033,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19615,
+        "num": 19615,
+        "word": "朋友分享张元英上学日常",
+        "onboard_time": 1675942410,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19332,
+        "num": 19332,
+        "word": "杨紫工作室倡议书",
+        "onboard_time": 1675946312,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18935,
+        "num": 18935,
+        "word": "帅家默身世",
+        "onboard_time": 1675953998,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18605,
+        "num": 18605,
+        "word": "法国调香师夸花露水还要卖450元",
+        "onboard_time": 1675942171,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18110,
+        "num": 18110,
+        "word": "流浪地球2人民文娱圆桌座谈",
+        "onboard_time": 1675959273,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17240,
+        "num": 17240,
+        "word": "苗苗希望父母都不要当着孩子的面吵架",
+        "onboard_time": 1675943190,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16348,
+        "num": 16348,
+        "word": "闵玧其夫硕顺舞蹈挑战",
+        "onboard_time": 1675958375,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14667,
+        "num": 14667,
+        "word": "四川18岁溺亡女生生前录音曝光",
+        "onboard_time": 1675931611,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14656,
+        "num": 14656,
+        "word": "刘畊宏直播",
+        "onboard_time": 1675950091,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12921,
+        "num": 14644,
+        "word": "爱情的理解",
+        "onboard_time": 1675956936,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年共奋进#"
+    }
+  }
+}

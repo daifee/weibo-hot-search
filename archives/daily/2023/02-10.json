@@ -1,6 +1,6 @@
 {
   "startTime": 1675960021377,
-  "endTime": 1675978429234,
+  "endTime": 1675981137939,
   "band_list": [
     {
       "raw_hot": 764707,
@@ -395,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97621,
+      "num": 65378,
+      "word": "土耳其一男子告别遇难未婚妻",
+      "onboard_time": 1675978391,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95645,
       "num": 95645,
       "word": "刘畊宏直播",
@@ -459,8 +467,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49038,
+      "num": 49038,
+      "word": "重庆一女子称开锁广告被贴家门里面",
+      "onboard_time": 1675980134,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48250,
-      "num": 42731,
+      "num": 42890,
       "word": "研究称ChatGPT或成传播网络谣言最强工具",
       "onboard_time": 1675972032,
       "rank": 13,
@@ -475,19 +491,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 17375,
-      "num": 17375,
+      "raw_hot": 23021,
+      "num": 23021,
       "word": "中国红十字会救援人员赶赴叙利亚",
       "onboard_time": 1675976233,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10348,
-      "num": 10348,
-      "word": "土耳其一男子告别遇难未婚妻",
-      "onboard_time": 1675978391,
-      "rank": 49,
       "category": "社会新闻"
     }
   ],
