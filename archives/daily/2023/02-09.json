@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675928033950,
+  "endTime": 1675931063424,
   "band_list": [
     {
       "raw_hot": 4001183,
@@ -57,6 +57,14 @@
       "onboard_time": 1675907665,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1721886,
+      "num": 1721886,
+      "word": "胜利提前出狱",
+      "onboard_time": 1675927948,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 1654779,
@@ -121,6 +129,22 @@
       "onboard_time": 1675899794,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1163497,
+      "num": 1163497,
+      "word": "刘亚仁确认吸毒",
+      "onboard_time": 1675930527,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1157625,
+      "num": 1157625,
+      "word": "男子欲试睡凶宅躺赚大钱被骗",
+      "onboard_time": 1675926509,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1095250,
@@ -203,6 +227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 897851,
+      "num": 897851,
+      "word": "陈乔恩艾伦吵架",
+      "onboard_time": 1675926091,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 877862,
+      "num": 877862,
+      "word": "25年闺蜜谎称卖鸡蛋原是公司副董",
+      "onboard_time": 1675929448,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 876571,
       "num": 876571,
       "word": "迪士尼计划裁员7000人",
@@ -243,14 +283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 819653,
-      "num": 819653,
-      "word": "男子欲试睡凶宅躺赚大钱被骗",
-      "onboard_time": 1675926509,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 807110,
       "num": 807110,
       "word": "女子带汉堡进星巴克被服务员拦下",
@@ -273,14 +305,6 @@
       "onboard_time": 1675871610,
       "rank": 10,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 776118,
-      "num": 776118,
-      "word": "陈乔恩艾伦吵架",
-      "onboard_time": 1675926091,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 759045,
@@ -385,6 +409,14 @@
       "onboard_time": 1675907547,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 619213,
+      "num": 619213,
+      "word": "我国人群总体免疫力处在较高时期",
+      "onboard_time": 1675928191,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 619056,
@@ -659,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412233,
+      "num": 412233,
+      "word": "土耳其强震死亡人数上升至12873人",
+      "onboard_time": 1675926211,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411867,
       "num": 411867,
       "word": "男子车祸现场未撤离被撞飞下桥",
@@ -811,19 +851,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346752,
+      "num": 346752,
+      "word": "欧文说很高兴杜兰特离开篮网",
+      "onboard_time": 1675928490,
+      "rank": 16,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 345845,
       "num": 345845,
       "word": "94岁南京大屠杀幸存者张惠霞去世",
       "onboard_time": 1675918890,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342362,
-      "num": 342362,
-      "word": "土耳其强震死亡人数上升至12873人",
-      "onboard_time": 1675926211,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -841,6 +881,14 @@
       "onboard_time": 1675903709,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324343,
+      "num": 324343,
+      "word": "刘亚仁等51人被调查",
+      "onboard_time": 1675931010,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 320925,
@@ -939,12 +987,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299135,
+      "num": 299135,
+      "word": "于和伟听说刘慈欣喜欢这个大史很开心",
+      "onboard_time": 1675928431,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295336,
       "num": 295336,
       "word": "流浪地球2将在俄罗斯上映",
       "onboard_time": 1675869275,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294101,
+      "num": 294101,
+      "word": "狂飙庆功宴下班路透",
+      "onboard_time": 1675928971,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 293045,
+      "num": 293045,
+      "word": "你说的这个张爷爷是指我父亲还是我",
+      "onboard_time": 1675929328,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 289497,
@@ -1009,6 +1081,14 @@
       "onboard_time": 1675876159,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269711,
+      "num": 269711,
+      "word": "有哪些冷门小众的职业",
+      "onboard_time": 1675926030,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 263590,
@@ -1123,12 +1203,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240454,
-      "num": 240454,
-      "word": "有哪些冷门小众的职业",
-      "onboard_time": 1675926030,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 238662,
+      "num": 238662,
+      "word": "3名中国公民在土叙地震中获救",
+      "onboard_time": 1675929568,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236653,
@@ -1160,6 +1240,14 @@
       "word": "中国救援队成功营救第1位幸存者",
       "onboard_time": 1675906947,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224742,
+      "num": 275711,
+      "word": "国务院联防联控机制发布会",
+      "onboard_time": 1675927651,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1235,14 +1323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 206309,
-      "num": 206309,
-      "word": "胜利提前出狱",
-      "onboard_time": 1675927948,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205091,
       "num": 205091,
       "word": "微软必应下载量猛增10倍",
@@ -1283,11 +1363,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 199122,
-      "num": 275711,
-      "word": "国务院联防联控机制发布会",
-      "onboard_time": 1675927651,
-      "rank": 29,
+      "raw_hot": 199058,
+      "num": 199058,
+      "word": "如无特殊情况学校一般不提前开学",
+      "onboard_time": 1675929269,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1396,7 +1476,7 @@
     },
     {
       "raw_hot": 176559,
-      "num": 166887,
+      "num": 169915,
       "word": "吴昕说这颜值不值得夸一下吗",
       "onboard_time": 1675924711,
       "rank": 44,
@@ -1409,6 +1489,14 @@
       "onboard_time": 1675857753,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171379,
+      "num": 171379,
+      "word": "电车多久充一次电不会焦虑",
+      "onboard_time": 1675930349,
+      "rank": 38,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 170422,
@@ -1537,6 +1625,14 @@
       "onboard_time": 1675922608,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141068,
+      "num": 141068,
+      "word": "刘芸是真不会撒娇",
+      "onboard_time": 1675929987,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 137392,
