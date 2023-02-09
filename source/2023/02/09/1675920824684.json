@@ -1,0 +1,410 @@
+{
+  "runTime": 1675920824684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2807317,
+        "num": 2807317,
+        "word": "央视评年轻人越来越反感专家",
+        "onboard_time": 1675911146,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2105254,
+        "num": 2105254,
+        "word": "杭州一公司招聘2000元日薪凶宅试睡员",
+        "onboard_time": 1675917033,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174574,
+        "num": 1584611,
+        "word": "2022年度退补税怎么办理",
+        "onboard_time": 1675901065,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1454784,
+        "num": 1454784,
+        "word": "刘若清回应一辈子不想见张译",
+        "onboard_time": 1675918592,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 851937,
+        "num": 851937,
+        "word": "赵今麦小香风营业照",
+        "onboard_time": 1675917271,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1165776,
+        "num": 851254,
+        "word": "姜超扮演者说小五是张译加的戏",
+        "onboard_time": 1675910127,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 815777,
+        "num": 815777,
+        "word": "曝HYBE收购SMTOWN股份",
+        "onboard_time": 1675917091,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777877,
+        "num": 777877,
+        "word": "女子带汉堡进星巴克被服务员拦下",
+        "onboard_time": 1675919011,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723820,
+        "num": 723820,
+        "word": "00后KTV必点曲目",
+        "onboard_time": 1675914209,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 687671,
+        "num": 687671,
+        "word": "京东31亿元拿地",
+        "onboard_time": 1675916369,
+        "rank": 9,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 644251,
+        "num": 644251,
+        "word": "魏大勋接梗",
+        "onboard_time": 1675917752,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573618,
+        "num": 573618,
+        "word": "工资是你应聘时最看重的条件吗",
+        "onboard_time": 1675918652,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530477,
+        "num": 530477,
+        "word": "张元英毕业照公开",
+        "onboard_time": 1675908386,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464135,
+        "num": 464135,
+        "word": "唐小强",
+        "onboard_time": 1675903948,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 447575,
+        "num": 447575,
+        "word": "虞书欣灰色短上衣造型",
+        "onboard_time": 1675919791,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427331,
+        "num": 427331,
+        "word": "于冬说王一博在镜头下魅力四射",
+        "onboard_time": 1675920326,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423323,
+        "num": 423323,
+        "word": "重紫",
+        "onboard_time": 1675914448,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420158,
+        "num": 420158,
+        "word": "LOL新英雄Milio",
+        "onboard_time": 1675915168,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 379216,
+        "num": 379216,
+        "word": "张艺兴的刘海",
+        "onboard_time": 1675911568,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376757,
+        "num": 376757,
+        "word": "BOYSPLANET选手舞台reaction",
+        "onboard_time": 1675920569,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 964658,
+        "num": 373559,
+        "word": "女工人干活时在厕所5分钟产子",
+        "onboard_time": 1675913667,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608356,
+        "num": 373227,
+        "word": "医院回应14岁女孩被逼吸毒身亡",
+        "onboard_time": 1675916311,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559650,
+        "num": 371944,
+        "word": "男子将夫妻共同财产赠与小三",
+        "onboard_time": 1675914448,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370320,
+        "num": 370320,
+        "word": "刘亚仁涉嫌吸毒",
+        "onboard_time": 1675866815,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 367899,
+        "num": 367899,
+        "word": "张颂文给李健上过课",
+        "onboard_time": 1675910666,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345845,
+        "num": 345845,
+        "word": "94岁南京大屠杀幸存者张惠霞去世",
+        "onboard_time": 1675918890,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335511,
+        "num": 335511,
+        "word": "土耳其地震已致12391人死亡",
+        "onboard_time": 1675905686,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333225,
+        "num": 333225,
+        "word": "张大大 拒绝任何形式的暴力",
+        "onboard_time": 1675917511,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277723,
+        "num": 277723,
+        "word": "大侦探",
+        "onboard_time": 1675920629,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275454,
+        "num": 275454,
+        "word": "郑钧主动下山接刘芸",
+        "onboard_time": 1675918532,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257653,
+        "num": 257653,
+        "word": "成毅奶黄色毛衣上班路透",
+        "onboard_time": 1675919550,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 240318,
+        "num": 240318,
+        "word": "陈楚生巡演开票",
+        "onboard_time": 1675917033,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239434,
+        "num": 239434,
+        "word": "武汉医保改革重大调整",
+        "onboard_time": 1675905208,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219887,
+        "num": 219887,
+        "word": "湖人发生内讧",
+        "onboard_time": 1675904609,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219107,
+        "num": 219107,
+        "word": "于正说白鹿的演技绝对王炸",
+        "onboard_time": 1675912827,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217890,
+        "num": 217890,
+        "word": "张颂文机场和粉丝挥手再见",
+        "onboard_time": 1675918292,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210997,
+        "num": 210997,
+        "word": "河南月最低工资标准1600元",
+        "onboard_time": 1675913368,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200724,
+        "num": 200724,
+        "word": "安欣再现红色高跟鞋名场面",
+        "onboard_time": 1675899794,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198953,
+        "num": 198953,
+        "word": "无名2023动作片票房人次双冠军",
+        "onboard_time": 1675920326,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197526,
+        "num": 197526,
+        "word": "威少被交易到爵士",
+        "onboard_time": 1675907547,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395953,
+        "num": 197366,
+        "word": "当事人承认相亲隔天结婚系炒作",
+        "onboard_time": 1675907906,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440045,
+        "num": 197360,
+        "word": "女子销毁毒狗药物时中毒身亡",
+        "onboard_time": 1675907665,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194164,
+        "num": 194164,
+        "word": "看了蒋敦豪租脱谷机谁会不生气",
+        "onboard_time": 1675920089,
+        "rank": 42,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 190766,
+        "num": 190766,
+        "word": "电影总拍男人拯救世界",
+        "onboard_time": 1675914986,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173354,
+        "num": 173354,
+        "word": "边伯贤直播与粉丝连麦",
+        "onboard_time": 1675918652,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172380,
+        "num": 172380,
+        "word": "警局因接待动物幼崽太多专门配奶瓶",
+        "onboard_time": 1675908024,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165827,
+        "num": 165827,
+        "word": "土耳其",
+        "onboard_time": 1675905507,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213802,
+        "num": 163675,
+        "word": "张大大连麦的女网友疑似被家暴",
+        "onboard_time": 1675898481,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 160947,
+        "num": 160947,
+        "word": "迪士尼计划裁员7000人",
+        "onboard_time": 1675903409,
+        "rank": 48,
+        "category": "旅游,财经"
+      },
+      {
+        "raw_hot": 159606,
+        "num": 159606,
+        "word": "湖南女孩突患白血病坚持卖草莓13年",
+        "onboard_time": 1675911685,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675919864833,
+  "endTime": 1675920824684,
   "band_list": [
     {
       "raw_hot": 4001183,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1959147,
-      "num": 1959147,
+      "raw_hot": 2105254,
+      "num": 2105254,
       "word": "杭州一公司招聘2000元日薪凶宅试睡员",
       "onboard_time": 1675917033,
       "rank": 30,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1454784,
+      "num": 1454784,
+      "word": "刘若清回应一辈子不想见张译",
+      "onboard_time": 1675918592,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1380296,
       "num": 1380296,
       "word": "唐小强",
@@ -97,14 +105,6 @@
       "onboard_time": 1675898301,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1030995,
-      "num": 951144,
-      "word": "刘若清回应一辈子不想见张译",
-      "onboard_time": 1675918592,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1023378,
@@ -219,6 +219,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 777877,
+      "num": 777877,
+      "word": "女子带汉堡进星巴克被服务员拦下",
+      "onboard_time": 1675919011,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759045,
       "num": 759045,
       "word": "通勤时间过长会有什么影响",
@@ -259,20 +267,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 687671,
+      "num": 687671,
+      "word": "京东31亿元拿地",
+      "onboard_time": 1675916369,
+      "rank": 46,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 674714,
       "num": 674714,
       "word": "魏大勋接梗",
       "onboard_time": 1675917752,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 634521,
-      "num": 634521,
-      "word": "京东31亿元拿地",
-      "onboard_time": 1675916369,
-      "rank": 46,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 632226,
@@ -321,6 +329,14 @@
       "onboard_time": 1675912827,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 573618,
+      "num": 573618,
+      "word": "工资是你应聘时最看重的条件吗",
+      "onboard_time": 1675918652,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571725,
@@ -451,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447575,
+      "num": 447575,
+      "word": "虞书欣灰色短上衣造型",
+      "onboard_time": 1675919791,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434889,
       "num": 1585543,
       "word": "2022年度退补税怎么办理",
@@ -464,6 +488,14 @@
       "word": "黄瑶扮演者程金铭发文",
       "onboard_time": 1675861410,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 427331,
+      "num": 427331,
+      "word": "于冬说王一博在镜头下魅力四射",
+      "onboard_time": 1675920326,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -491,27 +523,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 412523,
-      "num": 412523,
-      "word": "女子带汉堡进星巴克被服务员拦下",
-      "onboard_time": 1675919011,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 411867,
       "num": 411867,
       "word": "男子车祸现场未撤离被撞飞下桥",
       "onboard_time": 1675898358,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 406902,
-      "num": 406902,
-      "word": "工资是你应聘时最看重的条件吗",
-      "onboard_time": 1675918652,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -553,6 +569,14 @@
       "onboard_time": 1675916912,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 376757,
+      "num": 376757,
+      "word": "BOYSPLANET选手舞台reaction",
+      "onboard_time": 1675920569,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 376332,
@@ -609,6 +633,14 @@
       "onboard_time": 1675914986,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 345845,
+      "num": 345845,
+      "word": "94岁南京大屠杀幸存者张惠霞去世",
+      "onboard_time": 1675918890,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332496,
@@ -729,6 +761,14 @@
       "onboard_time": 1675867839,
       "rank": 13,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 277723,
+      "num": 277723,
+      "word": "大侦探",
+      "onboard_time": 1675920629,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 277228,
@@ -931,14 +971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205244,
-      "num": 205244,
-      "word": "虞书欣灰色短上衣造型",
-      "onboard_time": 1675919791,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205091,
       "num": 205091,
       "word": "微软必应下载量猛增10倍",
@@ -979,12 +1011,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 198953,
+      "num": 198953,
+      "word": "无名2023动作片票房人次双冠军",
+      "onboard_time": 1675920326,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197068,
       "num": 197068,
       "word": "星落凝成糖主题曲MV",
       "onboard_time": 1675914328,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194164,
+      "num": 194164,
+      "word": "看了蒋敦豪租脱谷机谁会不生气",
+      "onboard_time": 1675920089,
+      "rank": 42,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 194085,
@@ -1041,14 +1089,6 @@
       "onboard_time": 1675871132,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174519,
-      "num": 174519,
-      "word": "94岁南京大屠杀幸存者张惠霞去世",
-      "onboard_time": 1675918890,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173887,
