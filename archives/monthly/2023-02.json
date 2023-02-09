@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675974011138,
+  "endTime": 1675974849207,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -21163,6 +21163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48250,
+      "num": 42731,
+      "word": "研究称ChatGPT或成传播网络谣言最强工具",
+      "onboard_time": 1675972032,
+      "rank": 13,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 47708,
       "num": 47708,
       "word": "又到了可以赏花拍照的季节",
@@ -21259,14 +21267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40038,
-      "num": 40038,
-      "word": "研究称ChatGPT或成传播网络谣言最强工具",
-      "onboard_time": 1675972032,
-      "rank": 13,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 39726,
       "num": 36740,
       "word": "你是从哪个角色认识肖战的",
@@ -21313,6 +21313,14 @@
       "onboard_time": 1675794194,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 35439,
+      "num": 35439,
+      "word": "中国救援队员救出孕妇后激动击掌",
+      "onboard_time": 1675973112,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35430,
@@ -21409,14 +21417,6 @@
       "onboard_time": 1675365912,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26631,
-      "num": 26631,
-      "word": "中国救援队员救出孕妇后激动击掌",
-      "onboard_time": 1675973112,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24571,
