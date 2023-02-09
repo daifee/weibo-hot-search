@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675927052741,
+  "endTime": 1675928033950,
   "band_list": [
     {
       "raw_hot": 4001183,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 848445,
+      "num": 848445,
+      "word": "狂飙实体书 安欣",
+      "onboard_time": 1675924949,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 827684,
       "num": 827684,
       "word": "重紫",
@@ -233,6 +241,14 @@
       "onboard_time": 1675904609,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 819653,
+      "num": 819653,
+      "word": "男子欲试睡凶宅躺赚大钱被骗",
+      "onboard_time": 1675926509,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 807110,
@@ -259,12 +275,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 766465,
-      "num": 766465,
-      "word": "狂飙实体书 安欣",
-      "onboard_time": 1675924949,
-      "rank": 7,
-      "category": "影视"
+      "raw_hot": 776118,
+      "num": 776118,
+      "word": "陈乔恩艾伦吵架",
+      "onboard_time": 1675926091,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 759045,
@@ -315,12 +331,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 692939,
+      "num": 692939,
+      "word": "杨紫坐轮椅回剧组上班",
+      "onboard_time": 1675926509,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 687671,
       "num": 687671,
       "word": "京东31亿元拿地",
       "onboard_time": 1675916369,
       "rank": 46,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 684413,
+      "num": 684413,
+      "word": "京东疑似下架新冠口服药",
+      "onboard_time": 1675922847,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 674714,
@@ -360,14 +392,6 @@
       "word": "笔直铁轨因强震几乎弯成90度",
       "onboard_time": 1675902146,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 613675,
-      "num": 588449,
-      "word": "京东疑似下架新冠口服药",
-      "onboard_time": 1675922847,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -427,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 558393,
+      "num": 558393,
+      "word": "养3年狗狗被父母偷卖孩子绝食抗议",
+      "onboard_time": 1675923987,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557445,
       "num": 557445,
       "word": "LOL新英雄Milio",
@@ -467,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 518010,
+      "num": 518010,
+      "word": "满江红实时票房破41亿",
+      "onboard_time": 1675927410,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 514753,
       "num": 514753,
       "word": "唐嫣宋亚轩埋头笑",
@@ -489,14 +529,6 @@
       "onboard_time": 1675853734,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 501782,
-      "num": 501782,
-      "word": "养3年狗狗被父母偷卖孩子绝食抗议",
-      "onboard_time": 1675923987,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 492765,
@@ -571,20 +603,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443852,
+      "num": 443852,
+      "word": "NBA疯狂星期四",
+      "onboard_time": 1675925730,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 434889,
       "num": 1585543,
       "word": "2022年度退补税怎么办理",
       "onboard_time": 1675901065,
       "rank": 19,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 432536,
-      "num": 432536,
-      "word": "NBA疯狂星期四",
-      "onboard_time": 1675925730,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 431862,
@@ -641,22 +673,6 @@
       "onboard_time": 1675907608,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 402232,
-      "num": 402232,
-      "word": "杨紫坐轮椅回剧组上班",
-      "onboard_time": 1675926509,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 399243,
-      "num": 399243,
-      "word": "陈乔恩艾伦吵架",
-      "onboard_time": 1675926091,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 395613,
@@ -803,11 +819,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332967,
-      "num": 332967,
-      "word": "男子欲试睡凶宅躺赚大钱被骗",
-      "onboard_time": 1675926509,
-      "rank": 24,
+      "raw_hot": 342362,
+      "num": 342362,
+      "word": "土耳其强震死亡人数上升至12873人",
+      "onboard_time": 1675926211,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -880,6 +896,14 @@
       "word": "张译去不去狂飙庆功宴",
       "onboard_time": 1675845151,
       "rank": 11,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 304017,
+      "num": 304017,
+      "word": "独行月球提名金像奖最佳亚洲华语电影",
+      "onboard_time": 1675926690,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -1003,14 +1027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 258392,
-      "num": 258392,
-      "word": "土耳其强震死亡人数上升至12873人",
-      "onboard_time": 1675926211,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258312,
       "num": 258312,
       "word": "老婆将藏13万现金纸箱卖掉大爷急疯",
@@ -1019,20 +1035,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256598,
-      "num": 256598,
-      "word": "独行月球提名金像奖最佳亚洲华语电影",
-      "onboard_time": 1675926690,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 256551,
       "num": 256551,
       "word": "边伯贤直播与粉丝连麦",
       "onboard_time": 1675918652,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255714,
+      "num": 255714,
+      "word": "杜兰特预计全明星后复出",
+      "onboard_time": 1675926449,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 253909,
@@ -1163,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222515,
+      "num": 222515,
+      "word": "科学家在仙女星系中发现银河移民",
+      "onboard_time": 1675926631,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 217718,
       "num": 217718,
       "word": "忠武路演员",
@@ -1211,6 +1235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206309,
+      "num": 206309,
+      "word": "胜利提前出狱",
+      "onboard_time": 1675927948,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205091,
       "num": 205091,
       "word": "微软必应下载量猛增10倍",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1675865973,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 199122,
+      "num": 275711,
+      "word": "国务院联防联控机制发布会",
+      "onboard_time": 1675927651,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198953,
@@ -1307,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188709,
+      "num": 188709,
+      "word": "篮网",
+      "onboard_time": 1675927590,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188091,
       "num": 188091,
       "word": "当地回应城管上街清理商户春联",
@@ -1329,14 +1377,6 @@
       "onboard_time": 1675873585,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184844,
-      "num": 184844,
-      "word": "杜兰特预计全明星后复出",
-      "onboard_time": 1675926449,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 180489,
@@ -1419,14 +1459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165891,
-      "num": 165891,
-      "word": "科学家在仙女星系中发现银河移民",
-      "onboard_time": 1675926631,
-      "rank": 46,
-      "category": "科技"
-    },
-    {
       "raw_hot": 165527,
       "num": 165527,
       "word": "泽连斯基抵达英国",
@@ -1491,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145767,
+      "num": 145767,
+      "word": "狂飙每一个单元结尾都在十字路口",
+      "onboard_time": 1675924050,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142613,
       "num": 142613,
       "word": "高启强狂飙混剪",
@@ -1529,14 +1569,6 @@
       "onboard_time": 1675921709,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 125760,
-      "num": 125760,
-      "word": "狂飙每一个单元结尾都在十字路口",
-      "onboard_time": 1675924050,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 123079,

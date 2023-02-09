@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675927052741,
+  "endTime": 1675928033950,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -1355,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 848445,
+      "num": 848445,
+      "word": "狂飙实体书 安欣",
+      "onboard_time": 1675924949,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 844271,
       "num": 844271,
       "word": "沈阳的澡堂子还能漂流",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1675836270,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 819653,
+      "num": 819653,
+      "word": "男子欲试睡凶宅躺赚大钱被骗",
+      "onboard_time": 1675926509,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 816841,
@@ -1587,20 +1603,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 776118,
+      "num": 776118,
+      "word": "陈乔恩艾伦吵架",
+      "onboard_time": 1675926091,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 769746,
       "num": 523951,
       "word": "张婧仪张凌赫情人节大片",
       "onboard_time": 1675757492,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 766465,
-      "num": 766465,
-      "word": "狂飙实体书 安欣",
-      "onboard_time": 1675924949,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 761400,
@@ -1883,12 +1899,28 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 692939,
+      "num": 692939,
+      "word": "杨紫坐轮椅回剧组上班",
+      "onboard_time": 1675926509,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 687671,
       "num": 687671,
       "word": "京东31亿元拿地",
       "onboard_time": 1675916369,
       "rank": 46,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 684413,
+      "num": 684413,
+      "word": "京东疑似下架新冠口服药",
+      "onboard_time": 1675922847,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 683278,
@@ -2211,14 +2243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 613675,
-      "num": 588449,
-      "word": "京东疑似下架新冠口服药",
-      "onboard_time": 1675922847,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 610760,
       "num": 553648,
       "word": "张常宁悼念父亲",
@@ -2505,6 +2529,14 @@
       "onboard_time": 1675844008,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 558393,
+      "num": 558393,
+      "word": "养3年狗狗被父母偷卖孩子绝食抗议",
+      "onboard_time": 1675923987,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557445,
@@ -2859,6 +2891,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 518010,
+      "num": 518010,
+      "word": "满江红实时票房破41亿",
+      "onboard_time": 1675927410,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 515498,
       "num": 515498,
       "word": "任嘉伦谈演员被标签化",
@@ -2937,14 +2977,6 @@
       "onboard_time": 1675727484,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 501782,
-      "num": 501782,
-      "word": "养3年狗狗被父母偷卖孩子绝食抗议",
-      "onboard_time": 1675923987,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 501437,
@@ -3283,6 +3315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443852,
+      "num": 443852,
+      "word": "NBA疯狂星期四",
+      "onboard_time": 1675925730,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 442334,
       "num": 442334,
       "word": "格莱美",
@@ -3401,14 +3441,6 @@
       "onboard_time": 1675705696,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 432536,
-      "num": 432536,
-      "word": "NBA疯狂星期四",
-      "onboard_time": 1675925730,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 432056,
@@ -3659,14 +3691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 402232,
-      "num": 402232,
-      "word": "杨紫坐轮椅回剧组上班",
-      "onboard_time": 1675926509,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 401286,
       "num": 401286,
       "word": "年上有顾魏年下有盛阳",
@@ -3689,14 +3713,6 @@
       "onboard_time": 1675749270,
       "rank": 27,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 399243,
-      "num": 399243,
-      "word": "陈乔恩艾伦吵架",
-      "onboard_time": 1675926091,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 399050,
@@ -4267,6 +4283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342362,
+      "num": 342362,
+      "word": "土耳其强震死亡人数上升至12873人",
+      "onboard_time": 1675926211,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342314,
       "num": 342314,
       "word": "狗狗知道东西没买不能上嘴",
@@ -4369,14 +4393,6 @@
       "onboard_time": 1675825951,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 332967,
-      "num": 332967,
-      "word": "男子欲试睡凶宅躺赚大钱被骗",
-      "onboard_time": 1675926509,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332843,
@@ -4761,6 +4777,14 @@
       "onboard_time": 1675657172,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 304017,
+      "num": 304017,
+      "word": "独行月球提名金像奖最佳亚洲华语电影",
+      "onboard_time": 1675926690,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 303930,
@@ -5547,14 +5571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 258392,
-      "num": 258392,
-      "word": "土耳其强震死亡人数上升至12873人",
-      "onboard_time": 1675926211,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258391,
       "num": 258391,
       "word": "46款APP存在侵害用户权益行为",
@@ -5603,14 +5619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256598,
-      "num": 256598,
-      "word": "独行月球提名金像奖最佳亚洲华语电影",
-      "onboard_time": 1675926690,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 256551,
       "num": 256551,
       "word": "边伯贤直播与粉丝连麦",
@@ -5633,6 +5641,14 @@
       "onboard_time": 1675701143,
       "rank": 36,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 255714,
+      "num": 255714,
+      "word": "杜兰特预计全明星后复出",
+      "onboard_time": 1675926449,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 255703,
@@ -6299,6 +6315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222515,
+      "num": 222515,
+      "word": "科学家在仙女星系中发现银河移民",
+      "onboard_time": 1675926631,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 222477,
       "num": 222477,
       "word": "强震致土叙两国死亡人数已升至百余人",
@@ -6563,6 +6587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206309,
+      "num": 206309,
+      "word": "胜利提前出狱",
+      "onboard_time": 1675927948,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206013,
       "num": 206013,
       "word": "张婧仪周一白色吊带裙随拍",
@@ -6705,6 +6737,14 @@
       "onboard_time": 1675754188,
       "rank": 35,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 199122,
+      "num": 275711,
+      "word": "国务院联防联控机制发布会",
+      "onboard_time": 1675927651,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198953,
@@ -6971,6 +7011,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 188709,
+      "num": 188709,
+      "word": "篮网",
+      "onboard_time": 1675927590,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188452,
       "num": 188452,
       "word": "刘雨昕名誉维权案件进展",
@@ -7049,14 +7097,6 @@
       "onboard_time": 1675846472,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184844,
-      "num": 184844,
-      "word": "杜兰特预计全明星后复出",
-      "onboard_time": 1675926449,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 184693,
@@ -7555,14 +7595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165891,
-      "num": 165891,
-      "word": "科学家在仙女星系中发现银河移民",
-      "onboard_time": 1675926631,
-      "rank": 46,
-      "category": "科技"
-    },
-    {
       "raw_hot": 165527,
       "num": 165527,
       "word": "泽连斯基抵达英国",
@@ -7955,6 +7987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145767,
+      "num": 145767,
+      "word": "狂飙每一个单元结尾都在十字路口",
+      "onboard_time": 1675924050,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143143,
       "num": 143143,
       "word": "赵露思哭戏路透",
@@ -8161,14 +8201,6 @@
       "onboard_time": 1675687108,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125760,
-      "num": 125760,
-      "word": "狂飙每一个单元结尾都在十字路口",
-      "onboard_time": 1675924050,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 125665,
