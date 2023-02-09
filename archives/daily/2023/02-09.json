@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675941388893,
+  "endTime": 1675942434879,
   "band_list": [
     {
       "raw_hot": 4410711,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1273206,
+      "num": 1273206,
+      "word": "日本火山",
+      "onboard_time": 1675939831,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1263401,
       "num": 1263401,
       "word": "女子吃海鲜后腹痛就医出院当天死亡",
@@ -203,6 +211,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1111257,
+      "num": 1111257,
+      "word": "HYBE正式宣布参与收购SMTOWN",
+      "onboard_time": 1675941033,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1099993,
+      "num": 1099993,
+      "word": "婚检有多重要",
+      "onboard_time": 1675940491,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1095250,
       "num": 1095250,
       "word": "张淇 单飞",
@@ -241,14 +265,6 @@
       "onboard_time": 1675911568,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 998448,
-      "num": 998448,
-      "word": "日本火山",
-      "onboard_time": 1675939831,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 980631,
@@ -515,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 629615,
-      "num": 600291,
-      "word": "婚检有多重要",
-      "onboard_time": 1675940491,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 628060,
       "num": 628060,
       "word": "比尔盖茨新女友",
@@ -537,6 +545,14 @@
       "onboard_time": 1675907547,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 622659,
+      "num": 622659,
+      "word": "女明星集体回春",
+      "onboard_time": 1675941211,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 619213,
@@ -585,14 +601,6 @@
       "onboard_time": 1675924831,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 586787,
-      "num": 586787,
-      "word": "HYBE正式宣布参与收购SMTOWN",
-      "onboard_time": 1675941033,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 585378,
@@ -803,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452801,
+      "num": 452801,
+      "word": "中方不接受美方关于两国防长通话的提议",
+      "onboard_time": 1675940910,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 451527,
       "num": 451527,
       "word": "制片人谈狂飙演员片酬",
@@ -833,6 +849,14 @@
       "onboard_time": 1675925730,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 437339,
+      "num": 437339,
+      "word": "点燃我温暖你韩版预告",
+      "onboard_time": 1675940191,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 434889,
@@ -913,14 +937,6 @@
       "onboard_time": 1675907608,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 399316,
-      "num": 399316,
-      "word": "点燃我温暖你韩版预告",
-      "onboard_time": 1675940191,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 398662,
@@ -1107,16 +1123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330484,
-      "num": 330484,
-      "word": "女明星集体回春",
-      "onboard_time": 1675941211,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 329519,
-      "num": 329519,
+      "raw_hot": 331950,
+      "num": 331950,
       "word": "麦辣鸡翅实测热量高出官网40%",
       "onboard_time": 1675939651,
       "rank": 23,
@@ -1427,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245688,
+      "num": 245688,
+      "word": "凶宅试睡员2000一天系谣言",
+      "onboard_time": 1675938331,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244773,
       "num": 244773,
       "word": "Angelababy相思令出妆路透照",
@@ -1667,12 +1683,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196306,
-      "num": 196306,
-      "word": "凶宅试睡员2000一天系谣言",
-      "onboard_time": 1675938331,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 195405,
+      "num": 195405,
+      "word": "朋友分享张元英上学日常",
+      "onboard_time": 1675942410,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 194164,
@@ -1915,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156963,
+      "num": 156963,
+      "word": "法国调香师夸花露水还要卖450元",
+      "onboard_time": 1675942171,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156710,
       "num": 156710,
       "word": "男子为转运盗走清代古石墩",
@@ -1955,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149572,
+      "num": 149572,
+      "word": "多地推行现房销售试点",
+      "onboard_time": 1675941571,
+      "rank": 43,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 149042,
       "num": 149042,
       "word": "PEL春季赛开赛宣传片",
@@ -1971,20 +2003,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142936,
-      "num": 142936,
-      "word": "中方不接受美方关于两国防长通话的提议",
-      "onboard_time": 1675940910,
-      "rank": 47,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 142613,
       "num": 142613,
       "word": "高启强狂飙混剪",
       "onboard_time": 1675922608,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141021,
+      "num": 141021,
+      "word": "异丙酚多用于韩国整形医院",
+      "onboard_time": 1675941691,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139350,
+      "num": 139350,
+      "word": "日本樱岛火山复活火山灰喷至千米高",
+      "onboard_time": 1675942229,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137392,
