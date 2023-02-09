@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675899237688,
+  "endTime": 1675906881575,
   "band_list": [
     {
       "raw_hot": 4001183,
@@ -9,6 +9,30 @@
       "onboard_time": 1675866815,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1819389,
+      "num": 1819389,
+      "word": "张大大连麦的女网友疑似被家暴",
+      "onboard_time": 1675898481,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1161494,
+      "num": 1161494,
+      "word": "唐小强",
+      "onboard_time": 1675903948,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1098252,
+      "num": 1098252,
+      "word": "安欣再现红色高跟鞋名场面",
+      "onboard_time": 1675899794,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1077212,
@@ -43,6 +67,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 876571,
+      "num": 876571,
+      "word": "迪士尼计划裁员7000人",
+      "onboard_time": 1675903409,
+      "rank": 5,
+      "category": "旅游,财经"
+    },
+    {
+      "raw_hot": 824845,
+      "num": 824845,
+      "word": "湖人发生内讧",
+      "onboard_time": 1675904609,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 778620,
       "num": 778620,
       "word": "官方回应中国游客普吉岛旅游被割伤",
@@ -59,12 +99,60 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 613210,
-      "num": 315606,
-      "word": "张大大连麦的女网友疑似被家暴",
-      "onboard_time": 1675898481,
+      "raw_hot": 699751,
+      "num": 699751,
+      "word": "北京下雪",
+      "onboard_time": 1675905208,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636510,
+      "num": 636510,
+      "word": "谷歌AI犯错致市值一夜蒸发7172亿",
+      "onboard_time": 1675905567,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 630875,
+      "num": 630875,
+      "word": "中国救援队从土耳其废墟救出一名孕妇",
+      "onboard_time": 1675899264,
       "rank": 10,
-      "category": "社会新闻,艺人"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619056,
+      "num": 619056,
+      "word": "笔直铁轨因强震几乎弯成90度",
+      "onboard_time": 1675902146,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571725,
+      "num": 571725,
+      "word": "土耳其地震已致12391人死亡",
+      "onboard_time": 1675905686,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537536,
+      "num": 537536,
+      "word": "hanni",
+      "onboard_time": 1675899864,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 531114,
+      "num": 531114,
+      "word": "黑暗荣耀2正式前导预告",
+      "onboard_time": 1675904669,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 514753,
@@ -83,11 +171,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 503822,
+      "num": 503822,
+      "word": "韩国规定异丙酚只能用于特殊治疗",
+      "onboard_time": 1675904849,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492765,
-      "num": 301195,
+      "num": 365274,
       "word": "山东嫁土耳其女子震前返回老家",
       "onboard_time": 1675898420,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474961,
+      "num": 474961,
+      "word": "日本一沙滩惊现大量沙丁鱼",
+      "onboard_time": 1675881434,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473862,
+      "num": 473862,
+      "word": "母亲废墟中诞下女婴后离世",
+      "onboard_time": 1675898358,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -99,12 +211,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438582,
+      "num": 438582,
+      "word": "武汉医保改革重大调整",
+      "onboard_time": 1675905208,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434889,
+      "num": 434889,
+      "word": "2022年度退补税怎么办理",
+      "onboard_time": 1675901065,
+      "rank": 19,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 431862,
       "num": 431862,
       "word": "黄瑶扮演者程金铭发文",
       "onboard_time": 1675861410,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 416097,
+      "num": 416097,
+      "word": "林晓峰的内衣自带加热棒",
+      "onboard_time": 1675899794,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 411867,
+      "num": 411867,
+      "word": "男子车祸现场未撤离被撞飞下桥",
+      "onboard_time": 1675898358,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391187,
@@ -115,6 +259,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 387829,
+      "num": 387829,
+      "word": "土耳其",
+      "onboard_time": 1675905507,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376332,
       "num": 376332,
       "word": "土耳其2岁男孩被压废墟44小时不哭不闹",
@@ -123,11 +275,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366257,
+      "num": 366257,
+      "word": "疯狂动物城将拍续集",
+      "onboard_time": 1675904968,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360446,
       "num": 360446,
       "word": "宝鸡发现1例全球罕见黄金血型",
       "onboard_time": 1675843711,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332496,
+      "num": 332496,
+      "word": "男童遭炮仗炸伤涉事邻居已被刑拘",
+      "onboard_time": 1675904309,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325590,
+      "num": 325590,
+      "word": "父母外出务工小女孩回家不见人大哭",
+      "onboard_time": 1675903709,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -145,6 +321,22 @@
       "onboard_time": 1675845151,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 303293,
+      "num": 303293,
+      "word": "父女这一握已天人永隔",
+      "onboard_time": 1675899142,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302253,
+      "num": 302253,
+      "word": "女子裆部藏2415张SD卡过关被查",
+      "onboard_time": 1675906048,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295336,
@@ -179,19 +371,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266354,
-      "num": 105516,
-      "word": "母亲废墟中诞下女婴后离世",
-      "onboard_time": 1675898358,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 263590,
+      "num": 263590,
+      "word": "湖人爵士森林狼商讨三方交易",
+      "onboard_time": 1675902086,
+      "rank": 32,
+      "category": "体育"
     },
     {
-      "raw_hot": 263602,
-      "num": 263602,
-      "word": "日本一沙滩惊现大量沙丁鱼",
-      "onboard_time": 1675881434,
-      "rank": 49,
+      "raw_hot": 258312,
+      "num": 258312,
+      "word": "老婆将藏13万现金纸箱卖掉大爷急疯",
+      "onboard_time": 1675905869,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -201,6 +393,14 @@
       "onboard_time": 1675868975,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248396,
+      "num": 248396,
+      "word": "邓超被鹿晗嫌弃舞台表现力",
+      "onboard_time": 1675899794,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 247576,
@@ -217,6 +417,14 @@
       "onboard_time": 1675865553,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236653,
+      "num": 236653,
+      "word": "塞尔达传说王国之泪新PV",
+      "onboard_time": 1675899443,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 234107,
@@ -265,6 +473,14 @@
       "onboard_time": 1675866873,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206981,
+      "num": 206981,
+      "word": "你的年龄在古代有何雅称",
+      "onboard_time": 1675901065,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 204396,
@@ -323,11 +539,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176247,
-      "num": 176247,
-      "word": "男子车祸现场未撤离被撞飞下桥",
-      "onboard_time": 1675898358,
-      "rank": 20,
+      "raw_hot": 176336,
+      "num": 176336,
+      "word": "往来港澳人才签注来了",
+      "onboard_time": 1675906469,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -347,6 +563,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169745,
+      "num": 169745,
+      "word": "迪士尼一季度收入235.1亿美元",
+      "onboard_time": 1675906469,
+      "rank": 40,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 169642,
+      "num": 169642,
+      "word": "王鹤棣说看到帅气的夸奖会窃喜",
+      "onboard_time": 1675901608,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169072,
       "num": 169072,
       "word": "收费3元一本代包书皮业务火了",
@@ -363,12 +595,44 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 166540,
+      "num": 166540,
+      "word": "显微镜下的大明今晚开播",
+      "onboard_time": 1675904126,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165527,
       "num": 165527,
       "word": "泽连斯基抵达英国",
       "onboard_time": 1675873344,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159326,
+      "num": 159326,
+      "word": "半熟恋人2你们嗑哪一对cp",
+      "onboard_time": 1675899864,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157263,
+      "num": 157263,
+      "word": "当地回应城管上街清理商户春联",
+      "onboard_time": 1675906708,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157099,
+      "num": 157099,
+      "word": "YG新女团RUKA介绍视频",
+      "onboard_time": 1675900406,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 155187,
@@ -379,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153574,
+      "num": 153574,
+      "word": "年轻人反感专家问题究竟出在哪",
+      "onboard_time": 1675905869,
+      "rank": 46,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 153227,
       "num": 153227,
       "word": "被叙利亚7岁小女孩感动到了",
       "onboard_time": 1675862011,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151208,
+      "num": 151208,
+      "word": "马赛2比1巴黎圣日耳曼",
+      "onboard_time": 1675898842,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 137392,
@@ -499,14 +779,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 90519,
-      "num": 90519,
-      "word": "马赛2比1巴黎圣日耳曼",
-      "onboard_time": 1675898842,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 88119,
       "num": 88119,
       "word": "这才是真正的狂飙",
@@ -579,14 +851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 64539,
-      "num": 64539,
-      "word": "父女这一握已天人永隔",
-      "onboard_time": 1675899142,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49726,
       "num": 49726,
       "word": "你们粉丝整活有够荒谬的",
@@ -604,7 +868,7 @@
     },
     {
       "raw_hot": 37751,
-      "num": 930966,
+      "num": 1161895,
       "word": "1分钟感受春天的生机活力",
       "onboard_time": 1675845753,
       "rank": 2,
