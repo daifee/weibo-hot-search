@@ -1,0 +1,410 @@
+{
+  "runTime": 1675956966997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1240377,
+        "num": 1240377,
+        "word": "高叶和她的经纪人李洋",
+        "onboard_time": 1675949013,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 856569,
+        "num": 856569,
+        "word": "新疆禁毒形象大使不像演的",
+        "onboard_time": 1675936711,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36829,
+        "num": 777445,
+        "word": "强信心稳经济促发展",
+        "onboard_time": 1675946131,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1220584,
+        "num": 747519,
+        "word": "云南省人类精子库倡议大学生捐精",
+        "onboard_time": 1675951295,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004450,
+        "num": 738803,
+        "word": "鞠婧祎喝椰子水视频",
+        "onboard_time": 1675951776,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713488,
+        "num": 713488,
+        "word": "李恩曝少女神探导演与女生聊天记录",
+        "onboard_time": 1675950332,
+        "rank": 5,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 615715,
+        "num": 615715,
+        "word": "刘亚仁确认吸毒",
+        "onboard_time": 1675930527,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 523038,
+        "num": 523038,
+        "word": "张颂文曾在红毯让伞给礼仪小姐",
+        "onboard_time": 1675951174,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 782992,
+        "num": 515703,
+        "word": "河南信阳现多人霸凌事件",
+        "onboard_time": 1675948409,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 456893,
+        "num": 456893,
+        "word": "够一篇SCI的智齿",
+        "onboard_time": 1675954956,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 508356,
+        "num": 455240,
+        "word": "小夫妻回应亲手剪掉名下所有信用卡",
+        "onboard_time": 1675955375,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 480643,
+        "num": 450839,
+        "word": "高启强患的干眼症陶勇称确为绝症",
+        "onboard_time": 1675955076,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442500,
+        "num": 442500,
+        "word": "婚检有多重要",
+        "onboard_time": 1675940491,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436999,
+        "num": 436999,
+        "word": "叙利亚已收到千笔中国捐款",
+        "onboard_time": 1675947812,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431939,
+        "num": 431939,
+        "word": "一个出来了 一个进去了",
+        "onboard_time": 1675933351,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 417608,
+        "num": 417608,
+        "word": "刘亚仁注射的异丙酚是什么药物",
+        "onboard_time": 1675950873,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 338489,
+        "num": 338489,
+        "word": "暴雪CEO说腾讯和字节是最好的公司",
+        "onboard_time": 1675949974,
+        "rank": 16,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 320809,
+        "num": 320809,
+        "word": "HYBE正式宣布参与收购SMTOWN",
+        "onboard_time": 1675941033,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296492,
+        "num": 296492,
+        "word": "王俊凯重庆话说开工大吉",
+        "onboard_time": 1675952856,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238450,
+        "num": 238450,
+        "word": "爱情的理解",
+        "onboard_time": 1675956936,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232716,
+        "num": 232716,
+        "word": "央六评赵丽颖许半夏的成长型爽感",
+        "onboard_time": 1675945170,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231735,
+        "num": 231735,
+        "word": "法国调香师夸花露水还要卖450元",
+        "onboard_time": 1675942171,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225522,
+        "num": 225522,
+        "word": "苗苗希望父母都不要当着孩子的面吵架",
+        "onboard_time": 1675943190,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221350,
+        "num": 221350,
+        "word": "杨紫工作室倡议书",
+        "onboard_time": 1675946312,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206377,
+        "num": 206377,
+        "word": "泫雅牙钻",
+        "onboard_time": 1675934431,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199894,
+        "num": 199894,
+        "word": "日本火山",
+        "onboard_time": 1675939831,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197986,
+        "num": 197986,
+        "word": "boysplanet",
+        "onboard_time": 1675954058,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193673,
+        "num": 193673,
+        "word": "显微镜下的大明",
+        "onboard_time": 1675950332,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191553,
+        "num": 191553,
+        "word": "刘畊宏直播",
+        "onboard_time": 1675950091,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191291,
+        "num": 191291,
+        "word": "帅家默身世",
+        "onboard_time": 1675953998,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184237,
+        "num": 184237,
+        "word": "风吹半夏研讨会举行",
+        "onboard_time": 1675955137,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176866,
+        "num": 176866,
+        "word": "张若昀王阳对手戏",
+        "onboard_time": 1675952676,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175720,
+        "num": 175720,
+        "word": "狂飙剧透三骗子",
+        "onboard_time": 1675947091,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174366,
+        "num": 174366,
+        "word": "吴刚陈萍萍后又演古装",
+        "onboard_time": 1675949013,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167321,
+        "num": 167321,
+        "word": "四川18岁溺亡女生生前录音曝光",
+        "onboard_time": 1675931611,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160370,
+        "num": 160370,
+        "word": "日本樱岛火山复活火山灰喷至千米高",
+        "onboard_time": 1675942229,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153587,
+        "num": 153587,
+        "word": "程耳 无名开始盈利了",
+        "onboard_time": 1675935632,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149989,
+        "num": 149989,
+        "word": "上海地铁11号线",
+        "onboard_time": 1675943609,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147031,
+        "num": 147031,
+        "word": "王者荣耀新英雄",
+        "onboard_time": 1675938153,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146187,
+        "num": 146187,
+        "word": "YG大楼现状",
+        "onboard_time": 1675931668,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140125,
+        "num": 140125,
+        "word": "旅客为逃避安检把活蜗牛藏嘴里",
+        "onboard_time": 1675944149,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135974,
+        "num": 135974,
+        "word": "苏醒婉拒种地吧中年篇",
+        "onboard_time": 1675950935,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134731,
+        "num": 134731,
+        "word": "王子浩镜头",
+        "onboard_time": 1675945112,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126888,
+        "num": 126888,
+        "word": "乳山银滩6万元可买一套海景房",
+        "onboard_time": 1675933952,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 125873,
+        "num": 125873,
+        "word": "李小冉说刘淑霞人难做钱难挣",
+        "onboard_time": 1675954597,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125256,
+        "num": 125256,
+        "word": "刘宇宁直播",
+        "onboard_time": 1675956814,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124013,
+        "num": 124013,
+        "word": "王俊凯成都活动人气",
+        "onboard_time": 1675944993,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123518,
+        "num": 123518,
+        "word": "中方不接受美方关于两国防长通话的提议",
+        "onboard_time": 1675940910,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 121322,
+        "num": 121322,
+        "word": "少女神探剧组回应",
+        "onboard_time": 1675952253,
+        "rank": 48,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 112845,
+        "num": 112845,
+        "word": "比尔盖茨新女友",
+        "onboard_time": 1675936171,
+        "rank": 49,
+        "category": "科技,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年共奋进#"
+    }
+  }
+}

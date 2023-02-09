@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675956015558,
+  "endTime": 1675956966997,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -3275,6 +3275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 508356,
+      "num": 455240,
+      "word": "小夫妻回应亲手剪掉名下所有信用卡",
+      "onboard_time": 1675955375,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 505445,
       "num": 505445,
       "word": "唐小强曾多次见义勇为",
@@ -3475,6 +3483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 480643,
+      "num": 450839,
+      "word": "高启强患的干眼症陶勇称确为绝症",
+      "onboard_time": 1675955076,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479308,
       "num": 479308,
       "word": "日本一沙滩惊现大量沙丁鱼",
@@ -3593,6 +3609,14 @@
       "onboard_time": 1675687289,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 456893,
+      "num": 456893,
+      "word": "够一篇SCI的智齿",
+      "onboard_time": 1675954956,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 456165,
@@ -4953,14 +4977,6 @@
       "onboard_time": 1675607674,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331763,
-      "num": 331763,
-      "word": "够一篇SCI的智齿",
-      "onboard_time": 1675954956,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 331222,
@@ -6659,6 +6675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238450,
+      "num": 238450,
+      "word": "爱情的理解",
+      "onboard_time": 1675956936,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238363,
       "num": 238363,
       "word": "中国乒乓预售正式开启",
@@ -6705,14 +6729,6 @@
       "onboard_time": 1675899443,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 236638,
-      "num": 208683,
-      "word": "小夫妻回应亲手剪掉名下所有信用卡",
-      "onboard_time": 1675955375,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 234756,
@@ -7297,14 +7313,6 @@
       "onboard_time": 1675753411,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209036,
-      "num": 209036,
-      "word": "高启强患的干眼症陶勇称确为绝症",
-      "onboard_time": 1675955076,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208381,
@@ -9121,6 +9129,14 @@
       "onboard_time": 1675857451,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 125256,
+      "num": 125256,
+      "word": "刘宇宁直播",
+      "onboard_time": 1675956814,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 125184,
