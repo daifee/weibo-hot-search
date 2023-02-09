@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675917499305,
+  "endTime": 1675919864833,
   "band_list": [
     {
       "raw_hot": 4001183,
@@ -16,6 +16,14 @@
       "word": "央视评年轻人越来越反感专家",
       "onboard_time": 1675911146,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1959147,
+      "num": 1959147,
+      "word": "杭州一公司招聘2000元日薪凶宅试睡员",
+      "onboard_time": 1675917033,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -91,6 +99,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1030995,
+      "num": 951144,
+      "word": "刘若清回应一辈子不想见张译",
+      "onboard_time": 1675918592,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1023378,
       "num": 1023378,
       "word": "00后KTV必点曲目",
@@ -113,6 +129,22 @@
       "onboard_time": 1675860632,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 953057,
+      "num": 953057,
+      "word": "曝HYBE收购SMTOWN股份",
+      "onboard_time": 1675917091,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 942012,
+      "num": 942012,
+      "word": "赵今麦小香风营业照",
+      "onboard_time": 1675917271,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 930678,
@@ -195,20 +227,20 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 742550,
-      "num": 742550,
-      "word": "曝HYBE收购SMTOWN股份",
-      "onboard_time": 1675917091,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 735441,
       "num": 735441,
       "word": "任天堂",
       "onboard_time": 1675909407,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 723863,
+      "num": 611047,
+      "word": "医院回应14岁女孩被逼吸毒身亡",
+      "onboard_time": 1675916311,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 722626,
@@ -225,6 +257,22 @@
       "onboard_time": 1675911927,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 674714,
+      "num": 674714,
+      "word": "魏大勋接梗",
+      "onboard_time": 1675917752,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 634521,
+      "num": 634521,
+      "word": "京东31亿元拿地",
+      "onboard_time": 1675916369,
+      "rank": 46,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 632226,
@@ -379,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463588,
-      "num": 463588,
-      "word": "京东31亿元拿地",
-      "onboard_time": 1675916369,
-      "rank": 46,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 456131,
       "num": 240312,
       "word": "姐夫酒驾送妻子去给小姨子顶包",
@@ -417,14 +457,6 @@
       "onboard_time": 1675901065,
       "rank": 19,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 432979,
-      "num": 432979,
-      "word": "医院回应14岁女孩被逼吸毒身亡",
-      "onboard_time": 1675916311,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431862,
@@ -459,11 +491,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412523,
+      "num": 412523,
+      "word": "女子带汉堡进星巴克被服务员拦下",
+      "onboard_time": 1675919011,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411867,
       "num": 411867,
       "word": "男子车祸现场未撤离被撞飞下桥",
       "onboard_time": 1675898358,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406902,
+      "num": 406902,
+      "word": "工资是你应聘时最看重的条件吗",
+      "onboard_time": 1675918652,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -499,14 +547,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 380048,
-      "num": 298259,
-      "word": "杭州一公司招聘2000元日薪凶宅试睡员",
-      "onboard_time": 1675917033,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379042,
       "num": 379042,
       "word": "宋亚轩学院风毛衣上班造型",
@@ -539,12 +579,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363470,
+      "num": 363470,
+      "word": "张大大 拒绝任何形式的暴力",
+      "onboard_time": 1675917511,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360446,
       "num": 360446,
       "word": "宝鸡发现1例全球罕见黄金血型",
       "onboard_time": 1675843711,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351483,
+      "num": 351483,
+      "word": "郑钧主动下山接刘芸",
+      "onboard_time": 1675918532,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 351036,
@@ -611,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303367,
+      "num": 303367,
+      "word": "成毅奶黄色毛衣上班路透",
+      "onboard_time": 1675919550,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 303293,
       "num": 303293,
       "word": "父女这一握已天人永隔",
@@ -633,14 +697,6 @@
       "onboard_time": 1675913128,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 300700,
-      "num": 300700,
-      "word": "赵今麦小香风营业照",
-      "onboard_time": 1675917271,
-      "rank": 29,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 295336,
@@ -723,12 +779,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256551,
+      "num": 256551,
+      "word": "边伯贤直播与粉丝连麦",
+      "onboard_time": 1675918652,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253909,
       "num": 253909,
       "word": "声生不息宝岛季开录",
       "onboard_time": 1675868975,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252194,
+      "num": 252194,
+      "word": "张颂文机场和粉丝挥手再见",
+      "onboard_time": 1675918292,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 250070,
@@ -859,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205244,
+      "num": 205244,
+      "word": "虞书欣灰色短上衣造型",
+      "onboard_time": 1675919791,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205091,
       "num": 205091,
       "word": "微软必应下载量猛增10倍",
@@ -961,6 +1041,14 @@
       "onboard_time": 1675871132,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174519,
+      "num": 174519,
+      "word": "94岁南京大屠杀幸存者张惠霞去世",
+      "onboard_time": 1675918890,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173887,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1675919864833,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3055120,
+        "num": 3055120,
+        "word": "央视评年轻人越来越反感专家",
+        "onboard_time": 1675911146,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1959147,
+        "num": 1959147,
+        "word": "杭州一公司招聘2000元日薪凶宅试睡员",
+        "onboard_time": 1675917033,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183277,
+        "num": 1499582,
+        "word": "2022年度退补税怎么办理",
+        "onboard_time": 1675901065,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1355535,
+        "num": 1355535,
+        "word": "姜超扮演者说小五是张译加的戏",
+        "onboard_time": 1675910127,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 953057,
+        "num": 953057,
+        "word": "曝HYBE收购SMTOWN股份",
+        "onboard_time": 1675917091,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1030995,
+        "num": 951144,
+        "word": "刘若清回应一辈子不想见张译",
+        "onboard_time": 1675918592,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 942012,
+        "num": 942012,
+        "word": "赵今麦小香风营业照",
+        "onboard_time": 1675917271,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 890823,
+        "num": 890823,
+        "word": "00后KTV必点曲目",
+        "onboard_time": 1675914209,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 674714,
+        "num": 674714,
+        "word": "魏大勋接梗",
+        "onboard_time": 1675917752,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1302455,
+        "num": 673454,
+        "word": "女工人干活时在厕所5分钟产子",
+        "onboard_time": 1675913667,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634521,
+        "num": 634521,
+        "word": "京东31亿元拿地",
+        "onboard_time": 1675916369,
+        "rank": 10,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 753686,
+        "num": 633161,
+        "word": "男子将夫妻共同财产赠与小三",
+        "onboard_time": 1675914448,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723863,
+        "num": 611047,
+        "word": "医院回应14岁女孩被逼吸毒身亡",
+        "onboard_time": 1675916311,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587427,
+        "num": 587427,
+        "word": "张元英毕业照公开",
+        "onboard_time": 1675908386,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586163,
+        "num": 586163,
+        "word": "重紫",
+        "onboard_time": 1675914448,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517781,
+        "num": 517781,
+        "word": "唐小强",
+        "onboard_time": 1675903948,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 468404,
+        "num": 468404,
+        "word": "LOL新英雄Milio",
+        "onboard_time": 1675915168,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 429114,
+        "num": 429114,
+        "word": "张颂文给李健上过课",
+        "onboard_time": 1675910666,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417572,
+        "num": 417572,
+        "word": "张艺兴的刘海",
+        "onboard_time": 1675911568,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412523,
+        "num": 412523,
+        "word": "女子带汉堡进星巴克被服务员拦下",
+        "onboard_time": 1675919011,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609803,
+        "num": 412374,
+        "word": "女子销毁毒狗药物时中毒身亡",
+        "onboard_time": 1675907665,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517953,
+        "num": 411090,
+        "word": "当事人承认相亲隔天结婚系炒作",
+        "onboard_time": 1675907906,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409222,
+        "num": 409222,
+        "word": "刘亚仁涉嫌吸毒",
+        "onboard_time": 1675866815,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 406902,
+        "num": 406902,
+        "word": "工资是你应聘时最看重的条件吗",
+        "onboard_time": 1675918652,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363818,
+        "num": 363818,
+        "word": "土耳其地震已致12391人死亡",
+        "onboard_time": 1675905686,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363470,
+        "num": 363470,
+        "word": "张大大 拒绝任何形式的暴力",
+        "onboard_time": 1675917511,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351483,
+        "num": 351483,
+        "word": "郑钧主动下山接刘芸",
+        "onboard_time": 1675918532,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312747,
+        "num": 312747,
+        "word": "张大大连麦的女网友疑似被家暴",
+        "onboard_time": 1675898481,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 311578,
+        "num": 311578,
+        "word": "于正说白鹿的演技绝对王炸",
+        "onboard_time": 1675912827,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305234,
+        "num": 305234,
+        "word": "陈楚生巡演开票",
+        "onboard_time": 1675917033,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303367,
+        "num": 303367,
+        "word": "成毅奶黄色毛衣上班路透",
+        "onboard_time": 1675919550,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 280754,
+        "num": 280754,
+        "word": "武汉医保改革重大调整",
+        "onboard_time": 1675905208,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256551,
+        "num": 256551,
+        "word": "边伯贤直播与粉丝连麦",
+        "onboard_time": 1675918652,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252383,
+        "num": 252383,
+        "word": "安欣再现红色高跟鞋名场面",
+        "onboard_time": 1675899794,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252194,
+        "num": 252194,
+        "word": "张颂文机场和粉丝挥手再见",
+        "onboard_time": 1675918292,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247593,
+        "num": 247593,
+        "word": "河南月最低工资标准1600元",
+        "onboard_time": 1675913368,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239286,
+        "num": 239286,
+        "word": "电影总拍男人拯救世界",
+        "onboard_time": 1675914986,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229575,
+        "num": 229575,
+        "word": "湖人发生内讧",
+        "onboard_time": 1675904609,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205244,
+        "num": 205244,
+        "word": "虞书欣灰色短上衣造型",
+        "onboard_time": 1675919791,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201323,
+        "num": 201323,
+        "word": "威少被交易到爵士",
+        "onboard_time": 1675907547,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198811,
+        "num": 198811,
+        "word": "警局因接待动物幼崽太多专门配奶瓶",
+        "onboard_time": 1675908024,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194378,
+        "num": 194378,
+        "word": "迪士尼计划裁员7000人",
+        "onboard_time": 1675903409,
+        "rank": 41,
+        "category": "旅游,财经"
+      },
+      {
+        "raw_hot": 188575,
+        "num": 188575,
+        "word": "土耳其",
+        "onboard_time": 1675905507,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186882,
+        "num": 186882,
+        "word": "hanni",
+        "onboard_time": 1675899864,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186175,
+        "num": 186175,
+        "word": "谷歌AI犯错致市值一夜蒸发7172亿",
+        "onboard_time": 1675905567,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 184158,
+        "num": 184158,
+        "word": "李秀满的白骑士",
+        "onboard_time": 1675908624,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183430,
+        "num": 183430,
+        "word": "湖南女孩突患白血病坚持卖草莓13年",
+        "onboard_time": 1675911685,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174519,
+        "num": 174519,
+        "word": "94岁南京大屠杀幸存者张惠霞去世",
+        "onboard_time": 1675918890,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170355,
+        "num": 170355,
+        "word": "北京下雪",
+        "onboard_time": 1675905208,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165301,
+        "num": 165301,
+        "word": "沈腾把张译袖子拽跳线了",
+        "onboard_time": 1675910188,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#以协同合作激发科创潜力#"
+    }
+  }
+}
