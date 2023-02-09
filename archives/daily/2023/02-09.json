@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675908095133,
+  "endTime": 1675910994820,
   "band_list": [
     {
       "raw_hot": 4001183,
@@ -17,6 +17,30 @@
       "onboard_time": 1675898481,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1780021,
+      "num": 1780021,
+      "word": "张元英毕业照公开",
+      "onboard_time": 1675908386,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1729641,
+      "num": 1729641,
+      "word": "女子销毁毒狗药物时中毒身亡",
+      "onboard_time": 1675907665,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1467390,
+      "num": 1467390,
+      "word": "当事人承认相亲隔天结婚系炒作",
+      "onboard_time": 1675907906,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1380296,
@@ -41,6 +65,14 @@
       "onboard_time": 1675898301,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1076153,
+      "num": 1076153,
+      "word": "姜超扮演者说小五是张译加的戏",
+      "onboard_time": 1675910127,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 980631,
@@ -107,6 +139,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 735441,
+      "num": 735441,
+      "word": "任天堂",
+      "onboard_time": 1675909407,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 722626,
       "num": 722626,
       "word": "北京下雪",
@@ -121,6 +161,14 @@
       "onboard_time": 1675899264,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626287,
+      "num": 626287,
+      "word": "威少被交易到爵士",
+      "onboard_time": 1675907547,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 619056,
@@ -139,12 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 548246,
-      "num": 548246,
-      "word": "威少被交易到爵士",
-      "onboard_time": 1675907547,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 556236,
+      "num": 556236,
+      "word": "土耳其民众欢迎致敬蓝天救援队员",
+      "onboard_time": 1675907005,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 538855,
@@ -179,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 510860,
+      "num": 510860,
+      "word": "李秀满的白骑士",
+      "onboard_time": 1675908624,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508675,
       "num": 508675,
       "word": "言承旭道歉",
@@ -187,11 +243,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 499840,
+      "num": 499840,
+      "word": "沈腾把张译袖子拽跳线了",
+      "onboard_time": 1675910188,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 492765,
       "num": 365274,
       "word": "山东嫁土耳其女子震前返回老家",
       "onboard_time": 1675898420,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481865,
+      "num": 481865,
+      "word": "警局因接待动物幼崽太多专门配奶瓶",
+      "onboard_time": 1675908024,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -259,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409205,
+      "num": 409205,
+      "word": "霍格沃茨之遗",
+      "onboard_time": 1675908807,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 406889,
       "num": 406889,
       "word": "拉塞尔回归湖人",
@@ -291,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370276,
-      "num": 370276,
-      "word": "土耳其民众欢迎致敬蓝天救援队员",
-      "onboard_time": 1675907005,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366257,
       "num": 366257,
       "word": "疯狂动物城将拍续集",
@@ -320,14 +392,6 @@
       "word": "男童遭炮仗炸伤涉事邻居已被刑拘",
       "onboard_time": 1675904309,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327215,
-      "num": 327215,
-      "word": "女子销毁毒狗药物时中毒身亡",
-      "onboard_time": 1675907665,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -435,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250821,
+      "num": 250821,
+      "word": "井柏然片场踹一脚宋威龙还一拳",
+      "onboard_time": 1675910306,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248396,
       "num": 248396,
       "word": "邓超被鹿晗嫌弃舞台表现力",
@@ -523,12 +595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207972,
+      "num": 207972,
+      "word": "张颂文给李健上过课",
+      "onboard_time": 1675910666,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206981,
       "num": 206981,
       "word": "你的年龄在古代有何雅称",
       "onboard_time": 1675901065,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205091,
+      "num": 205091,
+      "word": "微软必应下载量猛增10倍",
+      "onboard_time": 1675907367,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 204396,
@@ -553,6 +641,14 @@
       "onboard_time": 1675865973,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 194085,
+      "num": 194085,
+      "word": "美记者称北溪管道爆炸系美军所为",
+      "onboard_time": 1675909286,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 189043,
@@ -593,14 +689,6 @@
       "onboard_time": 1675871132,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179776,
-      "num": 179776,
-      "word": "当事人承认相亲隔天结婚系炒作",
-      "onboard_time": 1675907906,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173887,
@@ -667,12 +755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164568,
-      "num": 164568,
-      "word": "微软必应下载量猛增10倍",
-      "onboard_time": 1675907367,
-      "rank": 43,
-      "category": "科技"
+      "raw_hot": 164106,
+      "num": 164106,
+      "word": "5成电动车起火发生在非充电状态",
+      "onboard_time": 1675909766,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159326,
@@ -721,14 +809,6 @@
       "onboard_time": 1675898842,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140744,
-      "num": 140744,
-      "word": "警局因接待动物幼崽太多专门配奶瓶",
-      "onboard_time": 1675908024,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137392,
@@ -932,7 +1012,7 @@
     },
     {
       "raw_hot": 37751,
-      "num": 1289832,
+      "num": 1559077,
       "word": "1分钟感受春天的生机活力",
       "onboard_time": 1675845753,
       "rank": 2,
