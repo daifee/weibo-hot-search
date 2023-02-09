@@ -1,0 +1,410 @@
+{
+  "runTime": 1675937992009,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2940069,
+        "num": 2940069,
+        "word": "刘亚仁确认吸毒",
+        "onboard_time": 1675930527,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1137916,
+        "num": 1137916,
+        "word": "YG大楼现状",
+        "onboard_time": 1675931668,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64114,
+        "num": 1134912,
+        "word": "采取更多惠民生暖民心举措",
+        "onboard_time": 1675933412,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1133060,
+        "num": 1133060,
+        "word": "泫雅牙钻",
+        "onboard_time": 1675934431,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1110736,
+        "num": 1110736,
+        "word": "四川18岁溺亡女生生前录音曝光",
+        "onboard_time": 1675931611,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981814,
+        "num": 981814,
+        "word": "一个出来了 一个进去了",
+        "onboard_time": 1675933351,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 956086,
+        "num": 956086,
+        "word": "程耳 无名开始盈利了",
+        "onboard_time": 1675935632,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 890594,
+        "num": 890594,
+        "word": "女子应聘文秘被告知做老板女友",
+        "onboard_time": 1675935332,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748804,
+        "num": 748804,
+        "word": "张颂文说不适应被接机",
+        "onboard_time": 1675932573,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639123,
+        "num": 639123,
+        "word": "乳山银滩6万元可买一套海景房",
+        "onboard_time": 1675933952,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 621329,
+        "num": 621329,
+        "word": "25年闺蜜谎称卖鸡蛋原是公司副董",
+        "onboard_time": 1675929448,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580816,
+        "num": 580816,
+        "word": "科学家发现癌细胞会作弊",
+        "onboard_time": 1675936651,
+        "rank": 11,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 548280,
+        "num": 548280,
+        "word": "女子吃海鲜后腹痛就医出院当天死亡",
+        "onboard_time": 1675922006,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498606,
+        "num": 498606,
+        "word": "杭州一公司招聘2000元日薪凶宅试睡员",
+        "onboard_time": 1675917033,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459281,
+        "num": 459281,
+        "word": "速写声明",
+        "onboard_time": 1675936171,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456896,
+        "num": 456896,
+        "word": "新疆禁毒形象大使不像演的",
+        "onboard_time": 1675936711,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434709,
+        "num": 434709,
+        "word": "刘若清回应一辈子不想见张译",
+        "onboard_time": 1675918592,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 412302,
+        "num": 412302,
+        "word": "讨厌没有边界感的大学生",
+        "onboard_time": 1675931851,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409714,
+        "num": 409714,
+        "word": "比尔盖茨新女友",
+        "onboard_time": 1675936171,
+        "rank": 18,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 339080,
+        "num": 339080,
+        "word": "刘亚仁等51人被调查",
+        "onboard_time": 1675931010,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 337017,
+        "num": 337017,
+        "word": "杜兰特加盟太阳",
+        "onboard_time": 1675923509,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332745,
+        "num": 332745,
+        "word": "13岁女孩4.82秒打破鲁班锁世界纪录",
+        "onboard_time": 1675935874,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327746,
+        "num": 327746,
+        "word": "刘耀文跳斧头帮舞",
+        "onboard_time": 1675937132,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322793,
+        "num": 322793,
+        "word": "陈乔恩艾伦吵架",
+        "onboard_time": 1675926091,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312160,
+        "num": 312160,
+        "word": "张淇 单飞",
+        "onboard_time": 1675924351,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293682,
+        "num": 293682,
+        "word": "胜利提前出狱",
+        "onboard_time": 1675927948,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 276904,
+        "num": 276904,
+        "word": "刘亚仁中国代言撤下",
+        "onboard_time": 1675932033,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 252410,
+        "num": 252410,
+        "word": "还没阳过的孩子老人再感染可能性小",
+        "onboard_time": 1675935274,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238576,
+        "num": 238576,
+        "word": "杨紫坐轮椅回剧组上班",
+        "onboard_time": 1675926509,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235913,
+        "num": 235913,
+        "word": "土耳其强震死亡人数上升至12873人",
+        "onboard_time": 1675926211,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234349,
+        "num": 234349,
+        "word": "张若昀片场给猫起名女明星",
+        "onboard_time": 1675932689,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230577,
+        "num": 230577,
+        "word": "狂飙实体书 安欣",
+        "onboard_time": 1675924949,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224511,
+        "num": 224511,
+        "word": "欧文说很高兴杜兰特离开篮网",
+        "onboard_time": 1675928490,
+        "rank": 32,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 216708,
+        "num": 216708,
+        "word": "想见你直播",
+        "onboard_time": 1675933528,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207892,
+        "num": 207892,
+        "word": "狂飙庆功宴下班路透",
+        "onboard_time": 1675928971,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207191,
+        "num": 207191,
+        "word": "王丽坤代言",
+        "onboard_time": 1675921048,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201793,
+        "num": 201793,
+        "word": "工资是你应聘时最看重的条件吗",
+        "onboard_time": 1675918652,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198945,
+        "num": 198945,
+        "word": "我国人群总体免疫力处在较高时期",
+        "onboard_time": 1675928191,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179696,
+        "num": 179696,
+        "word": "EDG对战NIP",
+        "onboard_time": 1675936773,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30673,
+        "num": 173980,
+        "word": "员工扎堆老板办公室抢免单",
+        "onboard_time": 1675936832,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169612,
+        "num": 169612,
+        "word": "五十公里桃花坞3 阵容",
+        "onboard_time": 1675921528,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156009,
+        "num": 156009,
+        "word": "4岁警犬凭实力成国家首批功勋犬",
+        "onboard_time": 1675937430,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155938,
+        "num": 155938,
+        "word": "刘芸是真不会撒娇",
+        "onboard_time": 1675929987,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134655,
+        "num": 134655,
+        "word": "中国220吨小麦将运抵叙利亚",
+        "onboard_time": 1675931373,
+        "rank": 43,
+        "category": "社会新闻,国内要闻"
+      },
+      {
+        "raw_hot": 131766,
+        "num": 131766,
+        "word": "我们的日子是想薅秃chatGPT吗",
+        "onboard_time": 1675937192,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129432,
+        "num": 129432,
+        "word": "54岁黄绮珊状态",
+        "onboard_time": 1675935392,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127070,
+        "num": 127070,
+        "word": "曝HYBE收购SMTOWN股份",
+        "onboard_time": 1675917091,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119362,
+        "num": 119362,
+        "word": "王一博邓超抱never对比",
+        "onboard_time": 1675937972,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116237,
+        "num": 116237,
+        "word": "李一桐给苏玖儿求爱情签",
+        "onboard_time": 1675934732,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116100,
+        "num": 116100,
+        "word": "王鹤棣纯白西装大片",
+        "onboard_time": 1675922549,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记深刻阐述中国式现代化#"
+    }
+  }
+}

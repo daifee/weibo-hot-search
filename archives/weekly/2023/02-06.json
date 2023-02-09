@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675935242729,
+  "endTime": 1675937992009,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -883,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1133060,
+      "num": 1133060,
+      "word": "泫雅牙钻",
+      "onboard_time": 1675934431,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1123589,
       "num": 1123589,
       "word": "一个出来了 一个进去了",
@@ -1147,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 956086,
+      "num": 956086,
+      "word": "程耳 无名开始盈利了",
+      "onboard_time": 1675935632,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 953057,
       "num": 953057,
       "word": "曝HYBE收购SMTOWN股份",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1675668149,
       "rank": 27,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 890594,
+      "num": 890594,
+      "word": "女子应聘文秘被告知做老板女友",
+      "onboard_time": 1675935332,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 887961,
@@ -1625,14 +1649,6 @@
       "onboard_time": 1675785149,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 793742,
-      "num": 793742,
-      "word": "泫雅牙钻",
-      "onboard_time": 1675934431,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 792855,
@@ -2227,6 +2243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 639123,
+      "num": 639123,
+      "word": "乳山银滩6万元可买一套海景房",
+      "onboard_time": 1675933952,
+      "rank": 35,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 635966,
       "num": 635966,
       "word": "爸爸第一次给孩子包书皮撕烂新书",
@@ -2465,6 +2489,14 @@
       "onboard_time": 1675692870,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 580816,
+      "num": 580816,
+      "word": "科学家发现癌细胞会作弊",
+      "onboard_time": 1675936651,
+      "rank": 11,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 580514,
@@ -3299,12 +3331,28 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 459281,
+      "num": 459281,
+      "word": "速写声明",
+      "onboard_time": 1675936171,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458719,
       "num": 458719,
       "word": "边伯贤chu手势舞",
       "onboard_time": 1675687289,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 456896,
+      "num": 456896,
+      "word": "新疆禁毒形象大使不像演的",
+      "onboard_time": 1675936711,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456165,
@@ -3755,20 +3803,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 410442,
-      "num": 410442,
-      "word": "乳山银滩6万元可买一套海景房",
-      "onboard_time": 1675933952,
-      "rank": 35,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 410276,
       "num": 410276,
       "word": "漫威电影回归内地大银幕",
       "onboard_time": 1675733725,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409714,
+      "num": 409714,
+      "word": "比尔盖茨新女友",
+      "onboard_time": 1675936171,
+      "rank": 18,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 409109,
@@ -4555,6 +4603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332745,
+      "num": 332745,
+      "word": "13岁女孩4.82秒打破鲁班锁世界纪录",
+      "onboard_time": 1675935874,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332496,
       "num": 332496,
       "word": "男童遭炮仗炸伤涉事邻居已被刑拘",
@@ -4585,6 +4641,14 @@
       "onboard_time": 1675677269,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327746,
+      "num": 327746,
+      "word": "刘耀文跳斧头帮舞",
+      "onboard_time": 1675937132,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 327605,
@@ -5883,6 +5947,14 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 252410,
+      "num": 252410,
+      "word": "还没阳过的孩子老人再感染可能性小",
+      "onboard_time": 1675935274,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252194,
       "num": 252194,
       "word": "张颂文机场和粉丝挥手再见",
@@ -6595,6 +6667,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 216708,
+      "num": 216708,
+      "word": "想见你直播",
+      "onboard_time": 1675933528,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216538,
       "num": 216538,
       "word": "1999年以来土耳其最严重强震",
@@ -6769,14 +6849,6 @@
       "onboard_time": 1675901065,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206734,
-      "num": 206734,
-      "word": "想见你直播",
-      "onboard_time": 1675933528,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 206721,
@@ -7475,6 +7547,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 179696,
+      "num": 179696,
+      "word": "EDG对战NIP",
+      "onboard_time": 1675936773,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179578,
       "num": 179578,
       "word": "Scout获得周MVP",
@@ -8067,6 +8147,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 156009,
+      "num": 156009,
+      "word": "4岁警犬凭实力成国家首批功勋犬",
+      "onboard_time": 1675937430,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155626,
       "num": 155626,
       "word": "李宏毅说坐等帅家默",
@@ -8387,6 +8475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131766,
+      "num": 131766,
+      "word": "我们的日子是想薅秃chatGPT吗",
+      "onboard_time": 1675937192,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131747,
       "num": 131747,
       "word": "女子偷闺蜜百万奢侈品用高仿替代",
@@ -8417,6 +8513,14 @@
       "onboard_time": 1675921709,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 129432,
+      "num": 129432,
+      "word": "54岁黄绮珊状态",
+      "onboard_time": 1675935392,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 128040,
@@ -8545,6 +8649,14 @@
       "onboard_time": 1675602570,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119362,
+      "num": 119362,
+      "word": "王一博邓超抱never对比",
+      "onboard_time": 1675937972,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 118866,
@@ -8963,6 +9075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30673,
+      "num": 173980,
+      "word": "员工扎堆老板办公室抢免单",
+      "onboard_time": 1675936832,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28728,
       "num": 28728,
       "word": "王佳怡再唱樱桃曲梦回满江红瑶琴",
@@ -9038,6 +9158,9 @@
     },
     {
       "word": "#习近平身体力行推动文物抢救和保护工作#"
+    },
+    {
+      "word": "#总书记深刻阐述中国式现代化#"
     }
   ]
 }

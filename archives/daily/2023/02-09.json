@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675935242729,
+  "endTime": 1675937992009,
   "band_list": [
     {
       "raw_hot": 4410711,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1133060,
+      "num": 1133060,
+      "word": "泫雅牙钻",
+      "onboard_time": 1675934431,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1123589,
       "num": 1123589,
       "word": "一个出来了 一个进去了",
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 956086,
+      "num": 956086,
+      "word": "程耳 无名开始盈利了",
+      "onboard_time": 1675935632,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 953057,
       "num": 953057,
       "word": "曝HYBE收购SMTOWN股份",
@@ -273,6 +289,14 @@
       "onboard_time": 1675926091,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 890594,
+      "num": 890594,
+      "word": "女子应聘文秘被告知做老板女友",
+      "onboard_time": 1675935332,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 876571,
@@ -345,14 +369,6 @@
       "onboard_time": 1675905567,
       "rank": 9,
       "category": "科技"
-    },
-    {
-      "raw_hot": 793742,
-      "num": 793742,
-      "word": "泫雅牙钻",
-      "onboard_time": 1675934431,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 778620,
@@ -443,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 639123,
+      "num": 639123,
+      "word": "乳山银滩6万元可买一套海景房",
+      "onboard_time": 1675933952,
+      "rank": 35,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 632226,
       "num": 632226,
       "word": "沈腾把张译袖子拽跳线了",
@@ -521,6 +545,14 @@
       "onboard_time": 1675921648,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 580816,
+      "num": 580816,
+      "word": "科学家发现癌细胞会作弊",
+      "onboard_time": 1675936651,
+      "rank": 11,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 571725,
@@ -675,6 +707,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459281,
+      "num": 459281,
+      "word": "速写声明",
+      "onboard_time": 1675936171,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456896,
+      "num": 456896,
+      "word": "新疆禁毒形象大使不像演的",
+      "onboard_time": 1675936711,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456131,
       "num": 240312,
       "word": "姐夫酒驾送妻子去给小姨子顶包",
@@ -795,12 +843,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410442,
-      "num": 410442,
-      "word": "乳山银滩6万元可买一套海景房",
-      "onboard_time": 1675933952,
-      "rank": 35,
-      "category": "社会新闻,财经"
+      "raw_hot": 409714,
+      "num": 409714,
+      "word": "比尔盖茨新女友",
+      "onboard_time": 1675936171,
+      "rank": 18,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 406889,
@@ -979,12 +1027,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332745,
+      "num": 332745,
+      "word": "13岁女孩4.82秒打破鲁班锁世界纪录",
+      "onboard_time": 1675935874,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332496,
       "num": 332496,
       "word": "男童遭炮仗炸伤涉事邻居已被刑拘",
       "onboard_time": 1675904309,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327746,
+      "num": 327746,
+      "word": "刘耀文跳斧头帮舞",
+      "onboard_time": 1675937132,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 325590,
@@ -1243,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252410,
+      "num": 252410,
+      "word": "还没阳过的孩子老人再感染可能性小",
+      "onboard_time": 1675935274,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252194,
       "num": 252194,
       "word": "张颂文机场和粉丝挥手再见",
@@ -1403,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216708,
+      "num": 216708,
+      "word": "想见你直播",
+      "onboard_time": 1675933528,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212432,
       "num": 212432,
       "word": "李敏镐最新活动新闻图",
@@ -1425,14 +1505,6 @@
       "onboard_time": 1675901065,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206734,
-      "num": 206734,
-      "word": "想见你直播",
-      "onboard_time": 1675933528,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 205091,
@@ -1603,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179696,
+      "num": 179696,
+      "word": "EDG对战NIP",
+      "onboard_time": 1675936773,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177708,
       "num": 177708,
       "word": "电车多久充一次电不会焦虑",
@@ -1723,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156009,
+      "num": 156009,
+      "word": "4岁警犬凭实力成国家首批功勋犬",
+      "onboard_time": 1675937430,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155187,
       "num": 155187,
       "word": "江西一乡召开适龄未婚女青年座谈会",
@@ -1795,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131766,
+      "num": 131766,
+      "word": "我们的日子是想薅秃chatGPT吗",
+      "onboard_time": 1675937192,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130993,
       "num": 130993,
       "word": "徐江中枪躺桌子上是贾冰设计的",
@@ -1811,12 +1907,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 129432,
+      "num": 129432,
+      "word": "54岁黄绮珊状态",
+      "onboard_time": 1675935392,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123079,
       "num": 123079,
       "word": "骄阳伴我人物关系",
       "onboard_time": 1675862612,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119362,
+      "num": 119362,
+      "word": "王一博邓超抱never对比",
+      "onboard_time": 1675937972,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 111386,
@@ -2003,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30673,
+      "num": 173980,
+      "word": "员工扎堆老板办公室抢免单",
+      "onboard_time": 1675936832,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22895,
       "num": 22895,
       "word": "看他们赚钱我是真的不眼红",
@@ -2026,6 +2146,9 @@
     },
     {
       "word": "#习近平身体力行推动文物抢救和保护工作#"
+    },
+    {
+      "word": "#总书记深刻阐述中国式现代化#"
     }
   ]
 }
