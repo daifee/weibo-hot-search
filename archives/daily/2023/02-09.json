@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675942434879,
+  "endTime": 1675946303822,
   "band_list": [
     {
       "raw_hot": 4410711,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 911302,
+      "num": 911302,
+      "word": "上海地铁11号线",
+      "onboard_time": 1675943609,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897851,
       "num": 897851,
       "word": "陈乔恩艾伦吵架",
@@ -427,6 +435,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 777377,
+      "num": 777377,
+      "word": "央六评赵丽颖许半夏的成长型爽感",
+      "onboard_time": 1675945170,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 765418,
+      "num": 765418,
+      "word": "中方不接受美方关于两国防长通话的提议",
+      "onboard_time": 1675940910,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 759045,
       "num": 759045,
       "word": "通勤时间过长会有什么影响",
@@ -515,6 +539,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 632545,
+      "num": 632545,
+      "word": "王俊凯成都活动人气",
+      "onboard_time": 1675944993,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 632226,
       "num": 632226,
       "word": "沈腾把张译袖子拽跳线了",
@@ -553,6 +585,14 @@
       "onboard_time": 1675941211,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 620617,
+      "num": 620617,
+      "word": "法国调香师夸花露水还要卖450元",
+      "onboard_time": 1675942171,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 619213,
@@ -627,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562031,
+      "num": 562031,
+      "word": "苗苗希望父母都不要当着孩子的面吵架",
+      "onboard_time": 1675943190,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 561869,
       "num": 561869,
       "word": "陈乔恩说剩女是盛开的盛",
@@ -689,6 +737,14 @@
       "onboard_time": 1675904669,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 525894,
+      "num": 525894,
+      "word": "日本樱岛火山复活火山灰喷至千米高",
+      "onboard_time": 1675942229,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518010,
@@ -809,14 +865,6 @@
       "onboard_time": 1675911685,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 452801,
-      "num": 452801,
-      "word": "中方不接受美方关于两国防长通话的提议",
-      "onboard_time": 1675940910,
-      "rank": 47,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 451527,
@@ -1011,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370729,
+      "num": 370729,
+      "word": "朋友分享张元英上学日常",
+      "onboard_time": 1675942410,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370681,
       "num": 370681,
       "word": "2023NBA交易截止日",
@@ -1131,12 +1187,28 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 330831,
+      "num": 330831,
+      "word": "王子浩镜头",
+      "onboard_time": 1675945112,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327746,
       "num": 327746,
       "word": "刘耀文跳斧头帮舞",
       "onboard_time": 1675937132,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326807,
+      "num": 326807,
+      "word": "李会泽ShutDown舞台",
+      "onboard_time": 1675946131,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 325590,
@@ -1339,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270519,
+      "num": 270519,
+      "word": "MISSING和Ming比心",
+      "onboard_time": 1675945351,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 270024,
       "num": 270024,
       "word": "还没阳过的孩子老人再感染可能性小",
@@ -1347,12 +1427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269726,
+      "num": 269726,
+      "word": "RNG BP",
+      "onboard_time": 1675944571,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269711,
       "num": 269711,
       "word": "有哪些冷门小众的职业",
       "onboard_time": 1675926030,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 264638,
+      "num": 264638,
+      "word": "旅客为逃避安检把活蜗牛藏嘴里",
+      "onboard_time": 1675944149,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263590,
@@ -1427,6 +1523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 248099,
+      "num": 248099,
+      "word": "程潇粉发",
+      "onboard_time": 1675942951,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 247576,
       "num": 247576,
       "word": "人社部发文提醒职场新人",
@@ -1457,6 +1561,14 @@
       "onboard_time": 1675922549,
       "rank": 33,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 243739,
+      "num": 243739,
+      "word": "去有风的地方海外影响力",
+      "onboard_time": 1675945170,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 241176,
@@ -1603,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211605,
+      "num": 211605,
+      "word": "宋亚轩喂张杰吃爆米花",
+      "onboard_time": 1675946252,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211495,
       "num": 211495,
       "word": "被我弄丢两次的王斤斤开通官博",
@@ -1627,12 +1747,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 204479,
+      "num": 204479,
+      "word": "无名延长上映",
+      "onboard_time": 1675943853,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204396,
       "num": 204396,
       "word": "不锈钢擦出的黑黑的东西是什么",
       "onboard_time": 1675874723,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203004,
+      "num": 203004,
+      "word": "黄晓明在袁鑫成身上看到了以前的自己",
+      "onboard_time": 1675945831,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 202467,
@@ -1683,14 +1819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195405,
-      "num": 195405,
-      "word": "朋友分享张元英上学日常",
-      "onboard_time": 1675942410,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194164,
       "num": 194164,
       "word": "看了蒋敦豪租脱谷机谁会不生气",
@@ -1729,6 +1857,14 @@
       "onboard_time": 1675909766,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191531,
+      "num": 191531,
+      "word": "多地推行现房销售试点",
+      "onboard_time": 1675941571,
+      "rank": 43,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 189098,
@@ -1931,14 +2067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156963,
-      "num": 156963,
-      "word": "法国调香师夸花露水还要卖450元",
-      "onboard_time": 1675942171,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156710,
       "num": 156710,
       "word": "男子为转运盗走清代古石墩",
@@ -1979,14 +2107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149572,
-      "num": 149572,
-      "word": "多地推行现房销售试点",
-      "onboard_time": 1675941571,
-      "rank": 43,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 149042,
       "num": 149042,
       "word": "PEL春季赛开赛宣传片",
@@ -2019,14 +2139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139350,
-      "num": 139350,
-      "word": "日本樱岛火山复活火山灰喷至千米高",
-      "onboard_time": 1675942229,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137392,
       "num": 137392,
       "word": "苏小玎直播发言",
@@ -2041,6 +2153,14 @@
       "onboard_time": 1675877656,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136350,
+      "num": 136350,
+      "word": "退休民警领养相伴12年的退役警犬",
+      "onboard_time": 1675942829,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131766,
@@ -2281,6 +2401,14 @@
       "onboard_time": 1675882154,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10479,
+      "num": 1016569,
+      "word": "强信心稳经济促发展",
+      "onboard_time": 1675946131,
+      "rank": 2,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
