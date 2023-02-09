@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675977423188,
+  "endTime": 1675978429234,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -9827,11 +9827,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16365,
-      "num": 16365,
+      "raw_hot": 17375,
+      "num": 17375,
       "word": "中国红十字会救援人员赶赴叙利亚",
       "onboard_time": 1675976233,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10348,
+      "num": 10348,
+      "word": "土耳其一男子告别遇难未婚妻",
+      "onboard_time": 1675978391,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],
