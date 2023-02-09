@@ -1,0 +1,410 @@
+{
+  "runTime": 1675961144032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 695137,
+        "num": 695137,
+        "word": "男子咨询社保被告知3年前已死亡",
+        "onboard_time": 1675958317,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571409,
+        "num": 571409,
+        "word": "高叶和她的经纪人李洋",
+        "onboard_time": 1675949013,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21469,
+        "num": 567343,
+        "word": "强信心稳经济促发展",
+        "onboard_time": 1675946131,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 574319,
+        "num": 567321,
+        "word": "云南省人类精子库倡议大学生捐精",
+        "onboard_time": 1675951295,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566796,
+        "num": 566796,
+        "word": "男子吸烟40年肺里长出大气球",
+        "onboard_time": 1675958256,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449283,
+        "num": 449283,
+        "word": "鞠婧祎喝椰子水视频",
+        "onboard_time": 1675951776,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411684,
+        "num": 411684,
+        "word": "井汲大翔ending",
+        "onboard_time": 1675960049,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379051,
+        "num": 379051,
+        "word": "成都街头现飞鸟撞树现象",
+        "onboard_time": 1675959213,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353160,
+        "num": 353160,
+        "word": "小夫妻回应亲手剪掉名下所有信用卡",
+        "onboard_time": 1675955375,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 320285,
+        "num": 320285,
+        "word": "李恩曝少女神探导演与女生聊天记录",
+        "onboard_time": 1675950332,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309353,
+        "num": 309353,
+        "word": "48岁吴彦祖最新访谈",
+        "onboard_time": 1675958498,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299512,
+        "num": 299512,
+        "word": "够一篇SCI的智齿",
+        "onboard_time": 1675954956,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290011,
+        "num": 290011,
+        "word": "刘亚仁确认吸毒",
+        "onboard_time": 1675930527,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 264126,
+        "num": 264126,
+        "word": "叙利亚已收到千笔中国捐款",
+        "onboard_time": 1675947812,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251967,
+        "num": 251967,
+        "word": "一个出来了 一个进去了",
+        "onboard_time": 1675933351,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 248609,
+        "num": 248609,
+        "word": "婚检有多重要",
+        "onboard_time": 1675940491,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232226,
+        "num": 232226,
+        "word": "张颂文曾在红毯让伞给礼仪小姐",
+        "onboard_time": 1675951174,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202209,
+        "num": 202209,
+        "word": "暴雪CEO说腾讯和字节是最好的公司",
+        "onboard_time": 1675949974,
+        "rank": 17,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 198122,
+        "num": 198122,
+        "word": "高启强患的干眼症陶勇称确为绝症",
+        "onboard_time": 1675955076,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196290,
+        "num": 196290,
+        "word": "刘亚仁注射的异丙酚是什么药物",
+        "onboard_time": 1675950873,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 378923,
+        "num": 192509,
+        "word": "新疆禁毒形象大使不像演的",
+        "onboard_time": 1675936711,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184887,
+        "num": 184887,
+        "word": "黄绮珊 喊妈喊姐你们说了算",
+        "onboard_time": 1675957597,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182977,
+        "num": 182977,
+        "word": "HYBE正式宣布参与收购SMTOWN",
+        "onboard_time": 1675941033,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170628,
+        "num": 170628,
+        "word": "闵玧其夫硕顺舞蹈挑战",
+        "onboard_time": 1675958375,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152015,
+        "num": 152015,
+        "word": "泫雅牙钻",
+        "onboard_time": 1675934431,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148545,
+        "num": 148545,
+        "word": "爱情的理解",
+        "onboard_time": 1675956936,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145195,
+        "num": 145195,
+        "word": "张朝阳再谈四小时睡眠法",
+        "onboard_time": 1675960408,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 138425,
+        "num": 138425,
+        "word": "法国调香师夸花露水还要卖450元",
+        "onboard_time": 1675942171,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135190,
+        "num": 135190,
+        "word": "日本火山",
+        "onboard_time": 1675939831,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131214,
+        "num": 131214,
+        "word": "王珞丹 我很期待看到黄璐捡垃圾",
+        "onboard_time": 1675957658,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117744,
+        "num": 117744,
+        "word": "日本樱岛火山复活火山灰喷至千米高",
+        "onboard_time": 1675942229,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115408,
+        "num": 115408,
+        "word": "央六评赵丽颖许半夏的成长型爽感",
+        "onboard_time": 1675945170,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113308,
+        "num": 113308,
+        "word": "狂飙剧透三骗子",
+        "onboard_time": 1675947091,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113086,
+        "num": 113086,
+        "word": "朋友分享张元英上学日常",
+        "onboard_time": 1675942410,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107649,
+        "num": 107649,
+        "word": "刘宇宁直播",
+        "onboard_time": 1675956814,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103530,
+        "num": 103530,
+        "word": "王俊凯重庆话说开工大吉",
+        "onboard_time": 1675952856,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100905,
+        "num": 100905,
+        "word": "boysplanet",
+        "onboard_time": 1675954058,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99635,
+        "num": 99635,
+        "word": "流浪地球2人民文娱圆桌座谈",
+        "onboard_time": 1675959273,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97141,
+        "num": 97141,
+        "word": "王者荣耀新英雄",
+        "onboard_time": 1675938153,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96204,
+        "num": 96204,
+        "word": "旅客为逃避安检把活蜗牛藏嘴里",
+        "onboard_time": 1675944149,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91080,
+        "num": 91080,
+        "word": "杨紫工作室倡议书",
+        "onboard_time": 1675946312,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86368,
+        "num": 86368,
+        "word": "金价一路飙升何时买黄金合适",
+        "onboard_time": 1675960766,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84379,
+        "num": 84379,
+        "word": "显微镜下的大明",
+        "onboard_time": 1675950332,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82223,
+        "num": 82223,
+        "word": "四川18岁溺亡女生生前录音曝光",
+        "onboard_time": 1675931611,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81171,
+        "num": 81171,
+        "word": "苏醒婉拒种地吧中年篇",
+        "onboard_time": 1675950935,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75842,
+        "num": 75842,
+        "word": "程耳 无名开始盈利了",
+        "onboard_time": 1675935632,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75307,
+        "num": 75307,
+        "word": "YG大楼现状",
+        "onboard_time": 1675931668,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70329,
+        "num": 70329,
+        "word": "刘畊宏直播",
+        "onboard_time": 1675950091,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68455,
+        "num": 68455,
+        "word": "苗苗希望父母都不要当着孩子的面吵架",
+        "onboard_time": 1675943190,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68429,
+        "num": 68429,
+        "word": "王子浩镜头",
+        "onboard_time": 1675945112,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记深刻阐述中国式现代化#"
+    }
+  }
+}

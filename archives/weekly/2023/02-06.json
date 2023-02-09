@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675960021377,
+  "endTime": 1675961144032,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -2139,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695137,
+      "num": 695137,
+      "word": "男子咨询社保被告知3年前已死亡",
+      "onboard_time": 1675958317,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693646,
       "num": 693646,
       "word": "一旦代入沈腾再也走不出来了",
@@ -2776,6 +2784,14 @@
       "word": "人社部发文提醒职场新人",
       "onboard_time": 1675865134,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 566796,
+      "num": 566796,
+      "word": "男子吸烟40年肺里长出大气球",
+      "onboard_time": 1675958256,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -3579,14 +3595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463011,
-      "num": 326207,
-      "word": "男子咨询社保被告知3年前已死亡",
-      "onboard_time": 1675958317,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 462943,
       "num": 462943,
       "word": "蔡徐坤泰国人气",
@@ -4107,6 +4115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411684,
+      "num": 411684,
+      "word": "井汲大翔ending",
+      "onboard_time": 1675960049,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411514,
       "num": 411514,
       "word": "名侦探学院第九条校规",
@@ -4411,11 +4427,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 380164,
-      "num": 321318,
-      "word": "男子吸烟40年肺里长出大气球",
-      "onboard_time": 1675958256,
-      "rank": 12,
+      "raw_hot": 379051,
+      "num": 379051,
+      "word": "成都街头现飞鸟撞树现象",
+      "onboard_time": 1675959213,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -5273,6 +5289,14 @@
       "onboard_time": 1675780292,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309353,
+      "num": 309353,
+      "word": "48岁吴彦祖最新访谈",
+      "onboard_time": 1675958498,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 309323,
@@ -6257,14 +6281,6 @@
       "onboard_time": 1675905869,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258244,
-      "num": 258244,
-      "word": "48岁吴彦祖最新访谈",
-      "onboard_time": 1675958498,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 256927,
@@ -8899,20 +8915,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145909,
-      "num": 145909,
-      "word": "成都街头现飞鸟撞树现象",
-      "onboard_time": 1675959213,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145767,
       "num": 145767,
       "word": "狂飙每一个单元结尾都在十字路口",
       "onboard_time": 1675924050,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145195,
+      "num": 145195,
+      "word": "张朝阳再谈四小时睡眠法",
+      "onboard_time": 1675960408,
+      "rank": 26,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 144209,
@@ -9139,6 +9155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131214,
+      "num": 131214,
+      "word": "王珞丹 我很期待看到黄璐捡垃圾",
+      "onboard_time": 1675957658,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131043,
       "num": 131043,
       "word": "时代少年团全员晒元宵节营业照",
@@ -9177,14 +9201,6 @@
       "onboard_time": 1675740809,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 127836,
-      "num": 127836,
-      "word": "王珞丹 我很期待看到黄璐捡垃圾",
-      "onboard_time": 1675957658,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 126827,
@@ -9497,6 +9513,14 @@
       "onboard_time": 1675826487,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 86368,
+      "num": 86368,
+      "word": "金价一路飙升何时买黄金合适",
+      "onboard_time": 1675960766,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 84544,
