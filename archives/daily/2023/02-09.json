@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675947426191,
+  "endTime": 1675949547491,
   "band_list": [
     {
       "raw_hot": 4410711,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1020211,
+      "num": 1020211,
+      "word": "高叶和她的经纪人李洋",
+      "onboard_time": 1675949013,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 989239,
       "num": 989239,
       "word": "杨紫工作室倡议书",
@@ -335,6 +343,14 @@
       "num": 920327,
       "word": "14岁男孩寄养大伯家辍学杀鱼",
       "onboard_time": 1675869994,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919301,
+      "num": 919301,
+      "word": "叙利亚已收到千笔中国捐款",
+      "onboard_time": 1675947812,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -409,6 +425,14 @@
       "onboard_time": 1675932573,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 812799,
+      "num": 812799,
+      "word": "宋亚轩喂张杰吃爆米花",
+      "onboard_time": 1675946252,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 807110,
@@ -499,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 723545,
-      "num": 723545,
-      "word": "宋亚轩喂张杰吃爆米花",
-      "onboard_time": 1675946252,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 722626,
       "num": 722626,
       "word": "北京下雪",
@@ -545,6 +561,14 @@
       "onboard_time": 1675922847,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681872,
+      "num": 681872,
+      "word": "河南信阳现多人霸凌事件",
+      "onboard_time": 1675948409,
+      "rank": 9,
+      "category": "社会负面"
     },
     {
       "raw_hot": 674714,
@@ -907,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444562,
+      "num": 444562,
+      "word": "张若昀新剧角色人设",
+      "onboard_time": 1675946734,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443852,
       "num": 443852,
       "word": "NBA疯狂星期四",
@@ -968,6 +1000,14 @@
       "word": "刘亚仁待播作品",
       "onboard_time": 1675931912,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 422246,
+      "num": 422246,
+      "word": "狂飙剧透三骗子",
+      "onboard_time": 1675947091,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1136,6 +1176,14 @@
       "word": "疯狂动物城将拍续集",
       "onboard_time": 1675904968,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 365812,
+      "num": 365812,
+      "word": "吴刚陈萍萍后又演古装",
+      "onboard_time": 1675949013,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -1347,12 +1395,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298709,
-      "num": 298709,
-      "word": "张若昀新剧角色人设",
-      "onboard_time": 1675946734,
-      "rank": 25,
-      "category": "影视"
+      "raw_hot": 296377,
+      "num": 296377,
+      "word": "侵权公司向赵露思道歉",
+      "onboard_time": 1675948110,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 295336,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1675912528,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274117,
+      "num": 274117,
+      "word": "显微镜下的大明观后感",
+      "onboard_time": 1675947091,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 273825,
@@ -1537,14 +1593,6 @@
       "onboard_time": 1675918292,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251620,
-      "num": 251620,
-      "word": "狂飙剧透三骗子",
-      "onboard_time": 1675947091,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 250070,
@@ -1755,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211764,
+      "num": 211764,
+      "word": "王俊凯成都线下活动路透",
+      "onboard_time": 1675948052,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211495,
       "num": 211495,
       "word": "被我弄丢两次的王斤斤开通官博",
@@ -1953,14 +2009,6 @@
       "onboard_time": 1675929987,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184993,
-      "num": 184993,
-      "word": "显微镜下的大明观后感",
-      "onboard_time": 1675947091,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 180489,
@@ -2179,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138686,
+      "num": 138686,
+      "word": "周洁琼提议跳斧头帮舞蹈被导演肯定",
+      "onboard_time": 1675949371,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137392,
       "num": 137392,
       "word": "苏小玎直播发言",
@@ -2201,6 +2257,14 @@
       "onboard_time": 1675942829,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133146,
+      "num": 133146,
+      "word": "李沁慵懒早春户外氛围大片",
+      "onboard_time": 1675947630,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131766,

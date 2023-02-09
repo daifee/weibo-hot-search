@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675947426191,
+  "endTime": 1675949547491,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -2579,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1020211,
+      "num": 1020211,
+      "word": "高叶和她的经纪人李洋",
+      "onboard_time": 1675949013,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1019250,
       "num": 1019250,
       "word": "19岁女孩第一天相亲第三天就结婚",
@@ -3056,6 +3064,14 @@
       "word": "14岁男孩寄养大伯家辍学杀鱼",
       "onboard_time": 1675869994,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919301,
+      "num": 919301,
+      "word": "叙利亚已收到千笔中国捐款",
+      "onboard_time": 1675947812,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -3779,6 +3795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 812799,
+      "num": 812799,
+      "word": "宋亚轩喂张杰吃爆米花",
+      "onboard_time": 1675946252,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 812222,
       "num": 812222,
       "word": "旧手机被妈妈换菜刀女子开车狂追",
@@ -4443,14 +4467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 723545,
-      "num": 723545,
-      "word": "宋亚轩喂张杰吃爆米花",
-      "onboard_time": 1675946252,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 722699,
       "num": 722699,
       "word": "刘亦菲参加巴黎时装周",
@@ -4905,6 +4921,14 @@
       "onboard_time": 1675394850,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 681872,
+      "num": 681872,
+      "word": "河南信阳现多人霸凌事件",
+      "onboard_time": 1675948409,
+      "rank": 9,
+      "category": "社会负面"
     },
     {
       "raw_hot": 680782,
@@ -8147,6 +8171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444562,
+      "num": 444562,
+      "word": "张若昀新剧角色人设",
+      "onboard_time": 1675946734,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 444545,
       "num": 444545,
       "word": "第一个看到狂飙大结局的人",
@@ -8575,6 +8607,14 @@
       "num": 422398,
       "word": "满江红实时票房破37亿",
       "onboard_time": 1675441108,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 422246,
+      "num": 422246,
+      "word": "狂飙剧透三骗子",
+      "onboard_time": 1675947091,
       "rank": 33,
       "category": "影视"
     },
@@ -9944,6 +9984,14 @@
       "word": "博纳说无名票房超出预期",
       "onboard_time": 1675554501,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 365812,
+      "num": 365812,
+      "word": "吴刚陈萍萍后又演古装",
+      "onboard_time": 1675949013,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -11787,14 +11835,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 298709,
-      "num": 298709,
-      "word": "张若昀新剧角色人设",
-      "onboard_time": 1675946734,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 298480,
       "num": 298480,
       "word": "守望先锋2联动一拳超人",
@@ -11889,6 +11929,14 @@
       "onboard_time": 1675666887,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296377,
+      "num": 296377,
+      "word": "侵权公司向赵露思道歉",
+      "onboard_time": 1675948110,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 296172,
@@ -12729,6 +12777,14 @@
       "onboard_time": 1675739551,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274117,
+      "num": 274117,
+      "word": "显微镜下的大明观后感",
+      "onboard_time": 1675947091,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 273845,
@@ -13633,14 +13689,6 @@
       "onboard_time": 1675918292,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251620,
-      "num": 251620,
-      "word": "狂飙剧透三骗子",
-      "onboard_time": 1675947091,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 251358,
@@ -15339,6 +15387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211764,
+      "num": 211764,
+      "word": "王俊凯成都线下活动路透",
+      "onboard_time": 1675948052,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211751,
       "num": 211751,
       "word": "辛叡恩跳NewJeans的hypeboy",
@@ -16873,14 +16929,6 @@
       "onboard_time": 1675846472,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184993,
-      "num": 184993,
-      "word": "显微镜下的大明观后感",
-      "onboard_time": 1675947091,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 184973,
@@ -19323,6 +19371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138686,
+      "num": 138686,
+      "word": "周洁琼提议跳斧头帮舞蹈被导演肯定",
+      "onboard_time": 1675949371,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138636,
       "num": 138636,
       "word": "哈兰德全场0射门",
@@ -19553,6 +19609,14 @@
       "onboard_time": 1675423289,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 133146,
+      "num": 133146,
+      "word": "李沁慵懒早春户外氛围大片",
+      "onboard_time": 1675947630,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132758,

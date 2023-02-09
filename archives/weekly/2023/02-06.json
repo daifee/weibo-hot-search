@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675947426191,
+  "endTime": 1675949547491,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -1083,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1020211,
+      "num": 1020211,
+      "word": "高叶和她的经纪人李洋",
+      "onboard_time": 1675949013,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1019250,
       "num": 1019250,
       "word": "19岁女孩第一天相亲第三天就结婚",
@@ -1328,6 +1336,14 @@
       "word": "14岁男孩寄养大伯家辍学杀鱼",
       "onboard_time": 1675869994,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919301,
+      "num": 919301,
+      "word": "叙利亚已收到千笔中国捐款",
+      "onboard_time": 1675947812,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1667,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 812799,
+      "num": 812799,
+      "word": "宋亚轩喂张杰吃爆米花",
+      "onboard_time": 1675946252,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 810585,
       "num": 884698,
       "word": "两男子受高薪诱惑想去缅甸挣大钱",
@@ -1995,14 +2019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 723545,
-      "num": 723545,
-      "word": "宋亚轩喂张杰吃爆米花",
-      "onboard_time": 1675946252,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 722626,
       "num": 722626,
       "word": "北京下雪",
@@ -2121,6 +2137,14 @@
       "onboard_time": 1675685070,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 681872,
+      "num": 681872,
+      "word": "河南信阳现多人霸凌事件",
+      "onboard_time": 1675948409,
+      "rank": 9,
+      "category": "社会负面"
     },
     {
       "raw_hot": 680782,
@@ -3619,6 +3643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444562,
+      "num": 444562,
+      "word": "张若昀新剧角色人设",
+      "onboard_time": 1675946734,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443852,
       "num": 443852,
       "word": "NBA疯狂星期四",
@@ -3849,6 +3881,14 @@
       "onboard_time": 1675766191,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422246,
+      "num": 422246,
+      "word": "狂飙剧透三骗子",
+      "onboard_time": 1675947091,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 421239,
@@ -4448,6 +4488,14 @@
       "word": "疯狂动物城将拍续集",
       "onboard_time": 1675904968,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 365812,
+      "num": 365812,
+      "word": "吴刚陈萍萍后又演古装",
+      "onboard_time": 1675949013,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -5299,14 +5347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 298709,
-      "num": 298709,
-      "word": "张若昀新剧角色人设",
-      "onboard_time": 1675946734,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 298480,
       "num": 298480,
       "word": "守望先锋2联动一拳超人",
@@ -5385,6 +5425,14 @@
       "onboard_time": 1675666887,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296377,
+      "num": 296377,
+      "word": "侵权公司向赵露思道歉",
+      "onboard_time": 1675948110,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 296002,
@@ -5769,6 +5817,14 @@
       "onboard_time": 1675739551,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274117,
+      "num": 274117,
+      "word": "显微镜下的大明观后感",
+      "onboard_time": 1675947091,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 273825,
@@ -6177,14 +6233,6 @@
       "onboard_time": 1675918292,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251620,
-      "num": 251620,
-      "word": "狂飙剧透三骗子",
-      "onboard_time": 1675947091,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 251358,
@@ -7035,6 +7083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211764,
+      "num": 211764,
+      "word": "王俊凯成都线下活动路透",
+      "onboard_time": 1675948052,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211594,
       "num": 211594,
       "word": "雷霆vs湖人",
@@ -7673,14 +7729,6 @@
       "onboard_time": 1675846472,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184993,
-      "num": 184993,
-      "word": "显微镜下的大明观后感",
-      "onboard_time": 1675947091,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 184693,
@@ -8675,6 +8723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138686,
+      "num": 138686,
+      "word": "周洁琼提议跳斧头帮舞蹈被导演肯定",
+      "onboard_time": 1675949371,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138636,
       "num": 138636,
       "word": "哈兰德全场0射门",
@@ -8745,6 +8801,14 @@
       "onboard_time": 1675662687,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133146,
+      "num": 133146,
+      "word": "李沁慵懒早春户外氛围大片",
+      "onboard_time": 1675947630,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132708,
