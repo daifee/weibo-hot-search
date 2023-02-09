@@ -1,0 +1,410 @@
+{
+  "runTime": 1675947426191,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1642381,
+        "num": 1642381,
+        "word": "新疆禁毒形象大使不像演的",
+        "onboard_time": 1675936711,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1091499,
+        "num": 1091499,
+        "word": "刘亚仁确认吸毒",
+        "onboard_time": 1675930527,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 54293,
+        "num": 1053029,
+        "word": "强信心稳经济促发展",
+        "onboard_time": 1675946131,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1049686,
+        "num": 1049686,
+        "word": "程潇泳装身材",
+        "onboard_time": 1675938031,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 989239,
+        "num": 989239,
+        "word": "杨紫工作室倡议书",
+        "onboard_time": 1675946312,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 912834,
+        "num": 912834,
+        "word": "HYBE正式宣布参与收购SMTOWN",
+        "onboard_time": 1675941033,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 863940,
+        "num": 863940,
+        "word": "婚检有多重要",
+        "onboard_time": 1675940491,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790572,
+        "num": 790572,
+        "word": "日本火山",
+        "onboard_time": 1675939831,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779666,
+        "num": 779666,
+        "word": "央六评赵丽颖许半夏的成长型爽感",
+        "onboard_time": 1675945170,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767877,
+        "num": 767877,
+        "word": "苗苗希望父母都不要当着孩子的面吵架",
+        "onboard_time": 1675943190,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 746085,
+        "num": 746085,
+        "word": "上海地铁11号线",
+        "onboard_time": 1675943609,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723545,
+        "num": 723545,
+        "word": "宋亚轩喂张杰吃爆米花",
+        "onboard_time": 1675946252,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562619,
+        "num": 562619,
+        "word": "王俊凯成都活动人气",
+        "onboard_time": 1675944993,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550018,
+        "num": 550018,
+        "word": "法国调香师夸花露水还要卖450元",
+        "onboard_time": 1675942171,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496242,
+        "num": 496242,
+        "word": "一个出来了 一个进去了",
+        "onboard_time": 1675933351,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 490823,
+        "num": 490823,
+        "word": "中方不接受美方关于两国防长通话的提议",
+        "onboard_time": 1675940910,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 472656,
+        "num": 472656,
+        "word": "日本樱岛火山复活火山灰喷至千米高",
+        "onboard_time": 1675942229,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450042,
+        "num": 450042,
+        "word": "四川18岁溺亡女生生前录音曝光",
+        "onboard_time": 1675931611,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429207,
+        "num": 429207,
+        "word": "李会泽ShutDown舞台",
+        "onboard_time": 1675946131,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355730,
+        "num": 355730,
+        "word": "JDG战胜RNG",
+        "onboard_time": 1675946912,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 369417,
+        "num": 353767,
+        "word": "王子浩镜头",
+        "onboard_time": 1675945112,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347997,
+        "num": 347997,
+        "word": "王者荣耀新英雄",
+        "onboard_time": 1675938153,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 322714,
+        "num": 322714,
+        "word": "朋友分享张元英上学日常",
+        "onboard_time": 1675942410,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310716,
+        "num": 310716,
+        "word": "乳山银滩6万元可买一套海景房",
+        "onboard_time": 1675933952,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 304360,
+        "num": 304360,
+        "word": "张颂文说不适应被接机",
+        "onboard_time": 1675932573,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298709,
+        "num": 298709,
+        "word": "张若昀新剧角色人设",
+        "onboard_time": 1675946734,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297970,
+        "num": 297970,
+        "word": "程耳 无名开始盈利了",
+        "onboard_time": 1675935632,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296050,
+        "num": 296050,
+        "word": "泫雅牙钻",
+        "onboard_time": 1675934431,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291827,
+        "num": 291827,
+        "word": "MISSING和Ming比心",
+        "onboard_time": 1675945351,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273411,
+        "num": 273411,
+        "word": "旅客为逃避安检把活蜗牛藏嘴里",
+        "onboard_time": 1675944149,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289173,
+        "num": 271425,
+        "word": "YG大楼现状",
+        "onboard_time": 1675931668,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256745,
+        "num": 256745,
+        "word": "RNG BP",
+        "onboard_time": 1675944571,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254627,
+        "num": 254627,
+        "word": "13岁女孩4.82秒打破鲁班锁世界纪录",
+        "onboard_time": 1675935874,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251620,
+        "num": 251620,
+        "word": "狂飙剧透三骗子",
+        "onboard_time": 1675947091,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242825,
+        "num": 242825,
+        "word": "去有风的地方海外影响力",
+        "onboard_time": 1675945170,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226795,
+        "num": 226795,
+        "word": "程潇粉发",
+        "onboard_time": 1675942951,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225465,
+        "num": 225465,
+        "word": "比尔盖茨新女友",
+        "onboard_time": 1675936171,
+        "rank": 36,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 211768,
+        "num": 211768,
+        "word": "点燃我温暖你韩版预告",
+        "onboard_time": 1675940191,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210781,
+        "num": 210781,
+        "word": "多地推行现房销售试点",
+        "onboard_time": 1675941571,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 189407,
+        "num": 189407,
+        "word": "王一博邓超抱never对比",
+        "onboard_time": 1675937972,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184993,
+        "num": 184993,
+        "word": "显微镜下的大明观后感",
+        "onboard_time": 1675947091,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173699,
+        "num": 173699,
+        "word": "还没阳过的孩子老人再感染可能性小",
+        "onboard_time": 1675935274,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173581,
+        "num": 173581,
+        "word": "无名延长上映",
+        "onboard_time": 1675943853,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169337,
+        "num": 169337,
+        "word": "黄晓明在袁鑫成身上看到了以前的自己",
+        "onboard_time": 1675945831,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167297,
+        "num": 167297,
+        "word": "刘若清回应一辈子不想见张译",
+        "onboard_time": 1675918592,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165549,
+        "num": 165549,
+        "word": "麦辣鸡翅实测热量高出官网40%",
+        "onboard_time": 1675939651,
+        "rank": 45,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 159410,
+        "num": 159410,
+        "word": "IU官咖概念照",
+        "onboard_time": 1675938753,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158225,
+        "num": 158225,
+        "word": "25年闺蜜谎称卖鸡蛋原是公司副董",
+        "onboard_time": 1675929448,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154602,
+        "num": 154602,
+        "word": "土耳其强震死亡人数上升至12873人",
+        "onboard_time": 1675926211,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134215,
+        "num": 134215,
+        "word": "张淇 单飞",
+        "onboard_time": 1675924351,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平身体力行推动文物抢救和保护工作#"
+    }
+  }
+}

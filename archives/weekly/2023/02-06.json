@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675946303822,
+  "endTime": 1675947426191,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -1115,6 +1115,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 989239,
+      "num": 989239,
+      "word": "杨紫工作室倡议书",
+      "onboard_time": 1675946312,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 982614,
       "num": 982614,
       "word": "杨紫绿色抹胸纱裙",
@@ -1747,6 +1755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 779666,
+      "num": 779666,
+      "word": "央六评赵丽颖许半夏的成长型爽感",
+      "onboard_time": 1675945170,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778854,
       "num": 778854,
       "word": "李秀满返韩",
@@ -1763,20 +1779,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 777377,
-      "num": 777377,
-      "word": "央六评赵丽颖许半夏的成长型爽感",
-      "onboard_time": 1675945170,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 769746,
       "num": 523951,
       "word": "张婧仪张凌赫情人节大片",
       "onboard_time": 1675757492,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 767877,
+      "num": 767877,
+      "word": "苗苗希望父母都不要当着孩子的面吵架",
+      "onboard_time": 1675943190,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 765418,
@@ -1977,6 +1993,14 @@
       "onboard_time": 1675916311,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723545,
+      "num": 723545,
+      "word": "宋亚轩喂张杰吃爆米花",
+      "onboard_time": 1675946252,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 722626,
@@ -2705,14 +2729,6 @@
       "onboard_time": 1675747771,
       "rank": 39,
       "category": "科技,游戏"
-    },
-    {
-      "raw_hot": 562031,
-      "num": 562031,
-      "word": "苗苗希望父母都不要当着孩子的面吵架",
-      "onboard_time": 1675943190,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 561869,
@@ -3763,6 +3779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 429207,
+      "num": 429207,
+      "word": "李会泽ShutDown舞台",
+      "onboard_time": 1675946131,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427586,
       "num": 427586,
       "word": "狂飙全员撞脸动画片",
@@ -4355,6 +4379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369417,
+      "num": 353767,
+      "word": "王子浩镜头",
+      "onboard_time": 1675945112,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368710,
       "num": 368710,
       "word": "10月宝宝在自家工厂实现童车自由",
@@ -4457,6 +4489,14 @@
       "onboard_time": 1675816351,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355730,
+      "num": 355730,
+      "word": "JDG战胜RNG",
+      "onboard_time": 1675946912,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 355482,
@@ -4779,14 +4819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 330831,
-      "num": 330831,
-      "word": "王子浩镜头",
-      "onboard_time": 1675945112,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 329279,
       "num": 329279,
       "word": "妻子拍下老公准备吵架的表情包",
@@ -4817,14 +4849,6 @@
       "onboard_time": 1675823668,
       "rank": 37,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 326807,
-      "num": 326807,
-      "word": "李会泽ShutDown舞台",
-      "onboard_time": 1675946131,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 326508,
@@ -5275,6 +5299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298709,
+      "num": 298709,
+      "word": "张若昀新剧角色人设",
+      "onboard_time": 1675946734,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298480,
       "num": 298480,
       "word": "守望先锋2联动一拳超人",
@@ -5441,6 +5473,14 @@
       "onboard_time": 1675775192,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291827,
+      "num": 291827,
+      "word": "MISSING和Ming比心",
+      "onboard_time": 1675945351,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 291513,
@@ -5763,12 +5803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270519,
-      "num": 270519,
-      "word": "MISSING和Ming比心",
-      "onboard_time": 1675945351,
-      "rank": 26,
-      "category": "游戏"
+      "raw_hot": 273411,
+      "num": 273411,
+      "word": "旅客为逃避安检把活蜗牛藏嘴里",
+      "onboard_time": 1675944149,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270354,
@@ -5897,14 +5937,6 @@
       "onboard_time": 1675659874,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 264638,
-      "num": 264638,
-      "word": "旅客为逃避安检把活蜗牛藏嘴里",
-      "onboard_time": 1675944149,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264452,
@@ -6145,6 +6177,14 @@
       "onboard_time": 1675918292,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251620,
+      "num": 251620,
+      "word": "狂飙剧透三骗子",
+      "onboard_time": 1675947091,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 251358,
@@ -6995,14 +7035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211605,
-      "num": 211605,
-      "word": "宋亚轩喂张杰吃爆米花",
-      "onboard_time": 1675946252,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211594,
       "num": 211594,
       "word": "雷霆vs湖人",
@@ -7041,6 +7073,14 @@
       "onboard_time": 1675689633,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210781,
+      "num": 210781,
+      "word": "多地推行现房销售试点",
+      "onboard_time": 1675941571,
+      "rank": 43,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 209851,
@@ -7467,14 +7507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191531,
-      "num": 191531,
-      "word": "多地推行现房销售试点",
-      "onboard_time": 1675941571,
-      "rank": 43,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 191454,
       "num": 191454,
       "word": "证券日报称谨防上市公司蹭ChatGPT热点",
@@ -7641,6 +7673,14 @@
       "onboard_time": 1675846472,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184993,
+      "num": 184993,
+      "word": "显微镜下的大明观后感",
+      "onboard_time": 1675947091,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 184693,
@@ -9275,6 +9315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 54293,
+      "num": 1053029,
+      "word": "强信心稳经济促发展",
+      "onboard_time": 1675946131,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 53085,
       "num": 1637120,
       "word": "流动的中国绽放着蓬勃活力",
@@ -9377,14 +9425,6 @@
       "onboard_time": 1675566031,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10479,
-      "num": 1016569,
-      "word": "强信心稳经济促发展",
-      "onboard_time": 1675946131,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
