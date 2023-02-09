@@ -1,13 +1,29 @@
 {
   "startTime": 1675960021377,
-  "endTime": 1675984852755,
+  "endTime": 1675985709355,
   "band_list": [
+    {
+      "raw_hot": 2489971,
+      "num": 2489971,
+      "word": "唐小强确认遇难",
+      "onboard_time": 1675985242,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 764707,
       "num": 567321,
       "word": "云南省人类精子库倡议大学生捐精",
       "onboard_time": 1675951295,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 717367,
+      "num": 717367,
+      "word": "2岁娃咳嗽50天查出硬币卡喉",
+      "onboard_time": 1675981394,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -24,14 +40,6 @@
       "word": "男子咨询社保被告知3年前已死亡",
       "onboard_time": 1675958317,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 634627,
-      "num": 634627,
-      "word": "2岁娃咳嗽50天查出硬币卡喉",
-      "onboard_time": 1675981394,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455633,
+      "num": 455633,
+      "word": "小夫妻回应亲手剪掉名下所有信用卡",
+      "onboard_time": 1675955375,
+      "rank": 5,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 437726,
       "num": 437726,
       "word": "张朝阳再谈四小时睡眠法",
@@ -83,12 +99,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 429688,
-      "num": 429688,
-      "word": "小夫妻回应亲手剪掉名下所有信用卡",
-      "onboard_time": 1675955375,
-      "rank": 5,
-      "category": "社会新闻,财经"
+      "raw_hot": 437719,
+      "num": 437719,
+      "word": "重庆一女子称开锁广告被贴家门里面",
+      "onboard_time": 1675980134,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411684,
@@ -115,12 +131,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 391049,
-      "num": 391049,
-      "word": "重庆一女子称开锁广告被贴家门里面",
-      "onboard_time": 1675980134,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 386769,
+      "num": 386769,
+      "word": "C罗沙特超大四喜",
+      "onboard_time": 1675984761,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 337636,
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319163,
+      "num": 319163,
+      "word": "金价一路飙升何时买黄金合适",
+      "onboard_time": 1675960766,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 313044,
       "num": 313044,
       "word": "一个出来了 一个进去了",
@@ -155,14 +179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 305391,
-      "num": 305391,
-      "word": "金价一路飙升何时买黄金合适",
-      "onboard_time": 1675960766,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 294928,
       "num": 294928,
       "word": "婚检有多重要",
@@ -177,6 +193,14 @@
       "onboard_time": 1675951174,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281630,
+      "num": 245385,
+      "word": "勇士开拓者交易",
+      "onboard_time": 1675984761,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 264840,
@@ -227,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189105,
+      "num": 189105,
+      "word": "叙利亚总统怒斥西方",
+      "onboard_time": 1675964716,
+      "rank": 14,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 186141,
       "num": 186141,
       "word": "黄绮珊 喊妈喊姐你们说了算",
       "onboard_time": 1675957597,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181385,
+      "num": 181385,
+      "word": "狂飙陈书婷到底美在哪里",
+      "onboard_time": 1675984881,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 177447,
@@ -243,20 +283,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177409,
-      "num": 177409,
-      "word": "叙利亚总统怒斥西方",
-      "onboard_time": 1675964716,
-      "rank": 14,
-      "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 169989,
-      "num": 169989,
+      "raw_hot": 171766,
+      "num": 171766,
       "word": "上海月最低工资全国最高",
       "onboard_time": 1675965857,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 170940,
+      "num": 170940,
+      "word": "研究称ChatGPT或成传播网络谣言最强工具",
+      "onboard_time": 1675972032,
+      "rank": 13,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 168248,
@@ -283,28 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160330,
-      "num": 72967,
-      "word": "勇士开拓者交易",
-      "onboard_time": 1675984761,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159763,
       "num": 159763,
       "word": "日本火山",
       "onboard_time": 1675939831,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152780,
-      "num": 72222,
-      "word": "C罗沙特超大四喜",
-      "onboard_time": 1675984761,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 150885,
@@ -315,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145334,
-      "num": 145334,
-      "word": "研究称ChatGPT或成传播网络谣言最强工具",
-      "onboard_time": 1675972032,
-      "rank": 13,
-      "category": "科技,社会新闻"
+      "raw_hot": 147998,
+      "num": 112416,
+      "word": "勇士交易怀斯曼",
+      "onboard_time": 1675984642,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 144992,
@@ -387,8 +411,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117087,
-      "num": 117087,
+      "raw_hot": 124548,
+      "num": 124548,
+      "word": "地震已造成土耳其16170人死亡",
+      "onboard_time": 1675981996,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120251,
+      "num": 120251,
       "word": "显微镜下的大明",
       "onboard_time": 1675950332,
       "rank": 36,
@@ -411,20 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115486,
-      "num": 115486,
-      "word": "地震已造成土耳其16170人死亡",
-      "onboard_time": 1675981996,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115477,
       "num": 115477,
       "word": "旅客为逃避安检把活蜗牛藏嘴里",
       "onboard_time": 1675944149,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114729,
+      "num": 114729,
+      "word": "苏醒陆虎吃意念海鲜",
+      "onboard_time": 1675984580,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 109464,
@@ -443,8 +475,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102656,
+      "num": 102656,
+      "word": "刘芸陆毅许愿张云龙明年能结婚",
+      "onboard_time": 1675984881,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101666,
-      "num": 71783,
+      "num": 94133,
       "word": "朝鲜阅兵现场画面",
       "onboard_time": 1675983616,
       "rank": 32,
@@ -457,6 +497,22 @@
       "onboard_time": 1675949013,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 98788,
+      "num": 98788,
+      "word": "小佩顿回归勇士",
+      "onboard_time": 1675985001,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98146,
+      "num": 98146,
+      "word": "中国救援队员救出孕妇后激动击掌",
+      "onboard_time": 1675973112,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95645,
@@ -499,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86430,
-      "num": 86430,
-      "word": "中国救援队员救出孕妇后激动击掌",
-      "onboard_time": 1675973112,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86261,
       "num": 86261,
       "word": "王子浩镜头",
@@ -531,23 +579,7 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 70267,
-      "num": 70267,
-      "word": "苏醒陆虎吃意念海鲜",
-      "onboard_time": 1675984580,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 65253,
-      "num": 65253,
-      "word": "勇士交易怀斯曼",
-      "onboard_time": 1675984642,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 30326,
+      "raw_hot": 36432,
       "num": 567343,
       "word": "强信心稳经济促发展",
       "onboard_time": 1675946131,
