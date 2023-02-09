@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675923893091,
+  "endTime": 1675924759476,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -97,6 +97,14 @@
       "onboard_time": 1675846353,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2478307,
+      "num": 2478307,
+      "word": "杜兰特加盟太阳",
+      "onboard_time": 1675923509,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2430501,
@@ -361,14 +369,6 @@
       "onboard_time": 1675831357,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1666583,
-      "num": 1666583,
-      "word": "杜兰特加盟太阳",
-      "onboard_time": 1675923509,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1657129,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1250008,
+      "num": 1250008,
+      "word": "女子吃海鲜后腹痛就医出院当天死亡",
+      "onboard_time": 1675922006,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1241686,
       "num": 1241686,
       "word": "男子结婚当天前女友们现场拉横幅",
@@ -697,14 +705,6 @@
       "onboard_time": 1675648947,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1217670,
-      "num": 1217670,
-      "word": "女子吃海鲜后腹痛就医出院当天死亡",
-      "onboard_time": 1675922006,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1216447,
@@ -2099,6 +2099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 639118,
+      "num": 639118,
+      "word": "张淇 单飞",
+      "onboard_time": 1675924351,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 635966,
       "num": 635966,
       "word": "爸爸第一次给孩子包书皮撕烂新书",
@@ -2505,6 +2513,14 @@
       "onboard_time": 1675858650,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 553663,
+      "num": 553663,
+      "word": "京东疑似下架新冠口服药",
+      "onboard_time": 1675922847,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 550559,
@@ -3307,14 +3323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 435812,
-      "num": 288291,
-      "word": "京东疑似下架新冠口服药",
-      "onboard_time": 1675922847,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 435496,
       "num": 435496,
       "word": "25岁女生记录矫正牙齿全过程",
@@ -4011,20 +4019,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358879,
+      "num": 358879,
+      "word": "五十公里桃花坞3 阵容",
+      "onboard_time": 1675921528,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357762,
       "num": 357762,
       "word": "7岁女孩废墟中保护弟弟17小时",
       "onboard_time": 1675816351,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356337,
-      "num": 356337,
-      "word": "五十公里桃花坞3 阵容",
-      "onboard_time": 1675921528,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 355482,
@@ -4427,6 +4435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320925,
+      "num": 320925,
+      "word": "千万不要在大风天出门遛狗",
+      "onboard_time": 1675921466,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 319551,
       "num": 319551,
       "word": "鹿晗五哈疯狂炫醋",
@@ -4595,14 +4611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308280,
-      "num": 308280,
-      "word": "千万不要在大风天出门遛狗",
-      "onboard_time": 1675921466,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 308217,
       "num": 308217,
       "word": "Lisa艾威牵手看日落",
@@ -4648,6 +4656,14 @@
       "word": "张馨予晒度假照",
       "onboard_time": 1675759052,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 304396,
+      "num": 304396,
+      "word": "黑豹乐队新主唱招募",
+      "onboard_time": 1675924650,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -5691,6 +5707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245661,
+      "num": 245661,
+      "word": "养3年狗狗被父母偷卖孩子绝食抗议",
+      "onboard_time": 1675923987,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245053,
       "num": 245053,
       "word": "AL对战JDG",
@@ -6121,6 +6145,14 @@
       "onboard_time": 1675667067,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223676,
+      "num": 223676,
+      "word": "李小冉发刘淑霞与chatGPT对话",
+      "onboard_time": 1675924351,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 223353,
@@ -6987,6 +7019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182072,
+      "num": 182072,
+      "word": "2023NBA交易截止日",
+      "onboard_time": 1675924471,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182020,
       "num": 182020,
       "word": "时代少年团爆炸头错位图",
@@ -7105,6 +7145,14 @@
       "onboard_time": 1675840049,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176559,
+      "num": 166887,
+      "word": "吴昕说这颜值不值得夸一下吗",
+      "onboard_time": 1675924711,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 176093,
@@ -7977,6 +8025,14 @@
       "onboard_time": 1675687108,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125760,
+      "num": 125760,
+      "word": "狂飙每一个单元结尾都在十字路口",
+      "onboard_time": 1675924050,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 125665,

@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675923893091,
+  "endTime": 1675924759476,
   "band_list": [
     {
       "raw_hot": 4001183,
@@ -17,6 +17,14 @@
       "onboard_time": 1675911146,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2478307,
+      "num": 2478307,
+      "word": "杜兰特加盟太阳",
+      "onboard_time": 1675923509,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2105254,
@@ -49,14 +57,6 @@
       "onboard_time": 1675907665,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1666583,
-      "num": 1666583,
-      "word": "杜兰特加盟太阳",
-      "onboard_time": 1675923509,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1654779,
@@ -99,20 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1250008,
+      "num": 1250008,
+      "word": "女子吃海鲜后腹痛就医出院当天死亡",
+      "onboard_time": 1675922006,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1241381,
       "num": 1241381,
       "word": "王丽坤代言",
       "onboard_time": 1675921048,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1217670,
-      "num": 1217670,
-      "word": "女子吃海鲜后腹痛就医出院当天死亡",
-      "onboard_time": 1675922006,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1191644,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 639118,
+      "num": 639118,
+      "word": "张淇 单飞",
+      "onboard_time": 1675924351,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 632226,
       "num": 632226,
       "word": "沈腾把张译袖子拽跳线了",
@@ -400,6 +408,14 @@
       "word": "土耳其民众欢迎致敬蓝天救援队员",
       "onboard_time": 1675907005,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553663,
+      "num": 553663,
+      "word": "京东疑似下架新冠口服药",
+      "onboard_time": 1675922847,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -521,14 +537,6 @@
       "onboard_time": 1675919791,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 435812,
-      "num": 288291,
-      "word": "京东疑似下架新冠口服药",
-      "onboard_time": 1675922847,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 434889,
@@ -683,8 +691,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356337,
-      "num": 356337,
+      "raw_hot": 358879,
+      "num": 358879,
       "word": "五十公里桃花坞3 阵容",
       "onboard_time": 1675921528,
       "rank": 18,
@@ -731,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320925,
+      "num": 320925,
+      "word": "千万不要在大风天出门遛狗",
+      "onboard_time": 1675921466,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 314852,
       "num": 314852,
       "word": "陈楚生巡演开票",
@@ -763,20 +779,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 308280,
-      "num": 308280,
-      "word": "千万不要在大风天出门遛狗",
-      "onboard_time": 1675921466,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 307824,
       "num": 307824,
       "word": "张译去不去狂飙庆功宴",
       "onboard_time": 1675845151,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304396,
+      "num": 304396,
+      "word": "黑豹乐队新主唱招募",
+      "onboard_time": 1675924650,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 303367,
@@ -955,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245661,
+      "num": 245661,
+      "word": "养3年狗狗被父母偷卖孩子绝食抗议",
+      "onboard_time": 1675923987,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244168,
       "num": 244168,
       "word": "王鹤棣纯白西装大片",
@@ -1016,6 +1040,14 @@
       "word": "流浪地球狂飙在两岸掀起追剧热潮",
       "onboard_time": 1675867719,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 223676,
+      "num": 223676,
+      "word": "李小冉发刘淑霞与chatGPT对话",
+      "onboard_time": 1675924351,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1187,11 +1219,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182072,
+      "num": 182072,
+      "word": "2023NBA交易截止日",
+      "onboard_time": 1675924471,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180489,
       "num": 180489,
       "word": "张若昀发博告别令人心动的offer",
       "onboard_time": 1675871132,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176559,
+      "num": 166887,
+      "word": "吴昕说这颜值不值得夸一下吗",
+      "onboard_time": 1675924711,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1345,6 +1393,14 @@
       "onboard_time": 1675921709,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 125760,
+      "num": 125760,
+      "word": "狂飙每一个单元结尾都在十字路口",
+      "onboard_time": 1675924050,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 123079,

@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675923893091,
+  "endTime": 1675924759476,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -337,6 +337,14 @@
       "onboard_time": 1675239510,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2478307,
+      "num": 2478307,
+      "word": "杜兰特加盟太阳",
+      "onboard_time": 1675923509,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2464987,
@@ -1019,14 +1027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1666583,
-      "num": 1666583,
-      "word": "杜兰特加盟太阳",
-      "onboard_time": 1675923509,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1657129,
       "num": 1657129,
       "word": "土耳其发生7.8级地震",
@@ -1707,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1250008,
+      "num": 1250008,
+      "word": "女子吃海鲜后腹痛就医出院当天死亡",
+      "onboard_time": 1675922006,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1249649,
       "num": 1249649,
       "word": "男孩撸猫后发烧12天腋下长鸡蛋大肿块",
@@ -1809,14 +1817,6 @@
       "onboard_time": 1675648947,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1217670,
-      "num": 1217670,
-      "word": "女子吃海鲜后腹痛就医出院当天死亡",
-      "onboard_time": 1675922006,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1216447,
@@ -5123,6 +5123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 639118,
+      "num": 639118,
+      "word": "张淇 单飞",
+      "onboard_time": 1675924351,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 638958,
       "num": 638958,
       "word": "张译曾把导演的裤衩挂在树上",
@@ -6113,6 +6121,14 @@
       "onboard_time": 1675858650,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 553663,
+      "num": 553663,
+      "word": "京东疑似下架新冠口服药",
+      "onboard_time": 1675922847,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552405,
@@ -7891,14 +7907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 435812,
-      "num": 288291,
-      "word": "京东疑似下架新冠口服药",
-      "onboard_time": 1675922847,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 435496,
       "num": 435496,
       "word": "25岁女生记录矫正牙齿全过程",
@@ -9579,6 +9587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358879,
+      "num": 358879,
+      "word": "五十公里桃花坞3 阵容",
+      "onboard_time": 1675921528,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358735,
       "num": 358735,
       "word": "蒲熠星 明灯",
@@ -9625,14 +9641,6 @@
       "onboard_time": 1675580007,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 356337,
-      "num": 356337,
-      "word": "五十公里桃花坞3 阵容",
-      "onboard_time": 1675921528,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 355618,
@@ -10587,6 +10595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320925,
+      "num": 320925,
+      "word": "千万不要在大风天出门遛狗",
+      "onboard_time": 1675921466,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 320530,
       "num": 320530,
       "word": "黄晓明说同事之间出现矛盾要好好沟通",
@@ -10923,14 +10939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308280,
-      "num": 308280,
-      "word": "千万不要在大风天出门遛狗",
-      "onboard_time": 1675921466,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 308217,
       "num": 308217,
       "word": "Lisa艾威牵手看日落",
@@ -11048,6 +11056,14 @@
       "word": "张馨予晒度假照",
       "onboard_time": 1675759052,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 304396,
+      "num": 304396,
+      "word": "黑豹乐队新主唱招募",
+      "onboard_time": 1675924650,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -13331,6 +13347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245661,
+      "num": 245661,
+      "word": "养3年狗狗被父母偷卖孩子绝食抗议",
+      "onboard_time": 1675923987,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245053,
       "num": 245053,
       "word": "AL对战JDG",
@@ -14201,6 +14225,14 @@
       "onboard_time": 1675324111,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223676,
+      "num": 223676,
+      "word": "李小冉发刘淑霞与chatGPT对话",
+      "onboard_time": 1675924351,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 223541,
@@ -16299,6 +16331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182072,
+      "num": 182072,
+      "word": "2023NBA交易截止日",
+      "onboard_time": 1675924471,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181978,
       "num": 181978,
       "word": "面试时被问过最奇葩的问题",
@@ -16625,6 +16665,14 @@
       "onboard_time": 1675840049,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176559,
+      "num": 166887,
+      "word": "吴昕说这颜值不值得夸一下吗",
+      "onboard_time": 1675924711,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 176362,
@@ -18921,6 +18969,14 @@
       "onboard_time": 1675576708,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125760,
+      "num": 125760,
+      "word": "狂飙每一个单元结尾都在十字路口",
+      "onboard_time": 1675924050,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 125665,
