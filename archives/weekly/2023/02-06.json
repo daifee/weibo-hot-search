@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675964051457,
+  "endTime": 1675967051251,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -8427,6 +8427,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 168248,
+      "num": 168248,
+      "word": "老默扮演者冯兵说下个角色更狠",
+      "onboard_time": 1675961365,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167706,
       "num": 167706,
       "word": "张颂文孤舟民国造型路透",
@@ -8457,14 +8465,6 @@
       "onboard_time": 1675646066,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166946,
-      "num": 166946,
-      "word": "老默扮演者冯兵说下个角色更狠",
-      "onboard_time": 1675961365,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 166926,
@@ -9457,6 +9457,22 @@
       "onboard_time": 1675597469,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 104593,
+      "num": 104593,
+      "word": "上海月最低工资全国最高",
+      "onboard_time": 1675965857,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 102127,
+      "num": 102127,
+      "word": "叙利亚总统怒斥西方",
+      "onboard_time": 1675964716,
+      "rank": 14,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 102009,
