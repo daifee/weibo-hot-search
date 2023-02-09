@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675912966614,
+  "endTime": 1675913801158,
   "band_list": [
     {
       "raw_hot": 4001183,
@@ -11,8 +11,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1821507,
-      "num": 1821507,
+      "raw_hot": 2152213,
+      "num": 2152213,
       "word": "央视评年轻人越来越反感专家",
       "onboard_time": 1675911146,
       "rank": 20,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1499233,
+      "num": 1499233,
+      "word": "姜超扮演者说小五是张译加的戏",
+      "onboard_time": 1675910127,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1467390,
       "num": 1467390,
       "word": "当事人承认相亲隔天结婚系炒作",
@@ -57,14 +65,6 @@
       "onboard_time": 1675903948,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1357509,
-      "num": 1357509,
-      "word": "姜超扮演者说小五是张译加的戏",
-      "onboard_time": 1675910127,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1191644,
@@ -97,6 +97,14 @@
       "onboard_time": 1675860632,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 930678,
+      "num": 930678,
+      "word": "京城乔姐",
+      "onboard_time": 1675912228,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 930099,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597910,
+      "num": 597910,
+      "word": "于正说白鹿的演技绝对王炸",
+      "onboard_time": 1675912827,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571725,
       "num": 571725,
       "word": "土耳其地震已致12391人死亡",
@@ -251,28 +267,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 521938,
-      "num": 521938,
-      "word": "京城乔姐",
-      "onboard_time": 1675912228,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 514753,
       "num": 514753,
       "word": "唐嫣宋亚轩埋头笑",
       "onboard_time": 1675868439,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 511897,
-      "num": 511897,
-      "word": "于正说白鹿的演技绝对王炸",
-      "onboard_time": 1675912827,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 510860,
@@ -289,6 +289,14 @@
       "onboard_time": 1675853734,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 506967,
+      "num": 506967,
+      "word": "张颂文给李健上过课",
+      "onboard_time": 1675910666,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 492765,
@@ -323,19 +331,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465106,
-      "num": 465106,
-      "word": "张颂文给李健上过课",
-      "onboard_time": 1675910666,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 456131,
       "num": 240312,
       "word": "姐夫酒驾送妻子去给小姨子顶包",
       "onboard_time": 1675870711,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453914,
+      "num": 453914,
+      "word": "湖南女孩突患白血病坚持卖草莓13年",
+      "onboard_time": 1675911685,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -401,14 +409,6 @@
       "onboard_time": 1675907608,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 400244,
-      "num": 400244,
-      "word": "湖南女孩突患白血病坚持卖草莓13年",
-      "onboard_time": 1675911685,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 391187,
@@ -515,12 +515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301327,
+      "num": 301327,
+      "word": "张若昀说步履坚定对簿公堂纠错到底",
+      "onboard_time": 1675913128,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295336,
       "num": 295336,
       "word": "流浪地球2将在俄罗斯上映",
       "onboard_time": 1675869275,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285312,
+      "num": 285312,
+      "word": "64岁奶奶为救患癌孙子化身超人",
+      "onboard_time": 1675912048,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279837,
@@ -539,20 +555,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274240,
+      "num": 274240,
+      "word": "地铁回应老人带孩子在车厢内小便",
+      "onboard_time": 1675912528,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273825,
       "num": 273825,
       "word": "张大大念网友私信",
       "onboard_time": 1675876159,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271835,
-      "num": 271835,
-      "word": "64岁奶奶为救患癌孙子化身超人",
-      "onboard_time": 1675912048,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263590,
@@ -603,11 +619,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245490,
+      "num": 245490,
+      "word": "原来三体人害怕太空电梯",
+      "onboard_time": 1675911807,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241176,
       "num": 241176,
       "word": "男子去土耳其救援前告知妻子所有密码",
       "onboard_time": 1675865553,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237611,
+      "num": 237611,
+      "word": "河南月最低工资标准1600元",
+      "onboard_time": 1675913368,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -617,6 +649,14 @@
       "onboard_time": 1675899443,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234756,
+      "num": 234756,
+      "word": "40册永乐大典首次线上公开",
+      "onboard_time": 1675912709,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234107,
@@ -640,14 +680,6 @@
       "word": "流浪地球狂飙在两岸掀起追剧热潮",
       "onboard_time": 1675867719,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 222010,
-      "num": 222010,
-      "word": "原来三体人害怕太空电梯",
-      "onboard_time": 1675911807,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -715,14 +747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202931,
-      "num": 202931,
-      "word": "地铁回应老人带孩子在车厢内小便",
-      "onboard_time": 1675912528,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202467,
       "num": 202467,
       "word": "柳智敏首场演唱会预告视频",
@@ -787,20 +811,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181765,
-      "num": 181765,
-      "word": "40册永乐大典首次线上公开",
-      "onboard_time": 1675912709,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180489,
       "num": 180489,
       "word": "张若昀发博告别令人心动的offer",
       "onboard_time": 1675871132,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175342,
+      "num": 175342,
+      "word": "欧文独行侠首秀",
+      "onboard_time": 1675913548,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 173887,
@@ -864,6 +888,14 @@
       "word": "泽连斯基抵达英国",
       "onboard_time": 1675873344,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163775,
+      "num": 163775,
+      "word": "女工人干活时在厕所5分钟产子",
+      "onboard_time": 1675913667,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
