@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675924759476,
+  "endTime": 1675927052741,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1263401,
+      "num": 1263401,
+      "word": "女子吃海鲜后腹痛就医出院当天死亡",
+      "onboard_time": 1675922006,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1255120,
       "num": 1255120,
       "word": "星云大师圆寂",
@@ -649,14 +657,6 @@
       "onboard_time": 1675694495,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1250008,
-      "num": 1250008,
-      "word": "女子吃海鲜后腹痛就医出院当天死亡",
-      "onboard_time": 1675922006,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1241686,
@@ -880,6 +880,14 @@
       "word": "曝公司艺人不愿为李秀满发声",
       "onboard_time": 1675757492,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1095250,
+      "num": 1095250,
+      "word": "张淇 单飞",
+      "onboard_time": 1675924351,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -1587,6 +1595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 766465,
+      "num": 766465,
+      "word": "狂飙实体书 安欣",
+      "onboard_time": 1675924949,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 761400,
       "num": 761400,
       "word": "高启强的真心都给了陈书婷",
@@ -2099,14 +2115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 639118,
-      "num": 639118,
-      "word": "张淇 单飞",
-      "onboard_time": 1675924351,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 635966,
       "num": 635966,
       "word": "爸爸第一次给孩子包书皮撕烂新书",
@@ -2203,6 +2211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 613675,
+      "num": 588449,
+      "word": "京东疑似下架新冠口服药",
+      "onboard_time": 1675922847,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610760,
       "num": 553648,
       "word": "张常宁悼念父亲",
@@ -2215,6 +2231,14 @@
       "num": 608237,
       "word": "王曼昱",
       "onboard_time": 1675816649,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 607486,
+      "num": 607486,
+      "word": "太阳三巨头",
+      "onboard_time": 1675925429,
       "rank": 8,
       "category": "体育"
     },
@@ -2297,6 +2321,14 @@
       "onboard_time": 1675774409,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 587362,
+      "num": 587362,
+      "word": "capper",
+      "onboard_time": 1675924831,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 586667,
@@ -2513,14 +2545,6 @@
       "onboard_time": 1675858650,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 553663,
-      "num": 553663,
-      "word": "京东疑似下架新冠口服药",
-      "onboard_time": 1675922847,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 550559,
@@ -2913,6 +2937,14 @@
       "onboard_time": 1675727484,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 501782,
+      "num": 501782,
+      "word": "养3年狗狗被父母偷卖孩子绝食抗议",
+      "onboard_time": 1675923987,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 501437,
@@ -3371,6 +3403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432536,
+      "num": 432536,
+      "word": "NBA疯狂星期四",
+      "onboard_time": 1675925730,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432056,
       "num": 432056,
       "word": "不要当着小狗面骂狗",
@@ -3619,6 +3659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 402232,
+      "num": 402232,
+      "word": "杨紫坐轮椅回剧组上班",
+      "onboard_time": 1675926509,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 401286,
       "num": 401286,
       "word": "年上有顾魏年下有盛阳",
@@ -3641,6 +3689,14 @@
       "onboard_time": 1675749270,
       "rank": 27,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 399243,
+      "num": 399243,
+      "word": "陈乔恩艾伦吵架",
+      "onboard_time": 1675926091,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 399050,
@@ -3939,12 +3995,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370681,
+      "num": 370681,
+      "word": "2023NBA交易截止日",
+      "onboard_time": 1675924471,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368710,
       "num": 368710,
       "word": "10月宝宝在自家工厂实现童车自由",
       "onboard_time": 1675808654,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368433,
+      "num": 368433,
+      "word": "姚薇程梁被迫官宣结婚",
+      "onboard_time": 1675925488,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 367903,
@@ -3968,6 +4040,14 @@
       "word": "狂飙大嫂高叶直播",
       "onboard_time": 1675697610,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 367254,
+      "num": 367254,
+      "word": "郑秀文第七次提名金像奖影后",
+      "onboard_time": 1675925069,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -4291,6 +4371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332967,
+      "num": 332967,
+      "word": "男子欲试睡凶宅躺赚大钱被骗",
+      "onboard_time": 1675926509,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332843,
       "num": 332843,
       "word": "男子靠邻座女生肩上睡觉被质疑假睡",
@@ -4491,6 +4579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314882,
+      "num": 314882,
+      "word": "黑豹乐队新主唱招募",
+      "onboard_time": 1675924650,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314852,
       "num": 314852,
       "word": "陈楚生巡演开票",
@@ -4656,14 +4752,6 @@
       "word": "张馨予晒度假照",
       "onboard_time": 1675759052,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 304396,
-      "num": 304396,
-      "word": "黑豹乐队新主唱招募",
-      "onboard_time": 1675924650,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -5459,6 +5547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 258392,
+      "num": 258392,
+      "word": "土耳其强震死亡人数上升至12873人",
+      "onboard_time": 1675926211,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258391,
       "num": 258391,
       "word": "46款APP存在侵害用户权益行为",
@@ -5505,6 +5601,14 @@
       "onboard_time": 1675750052,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256598,
+      "num": 256598,
+      "word": "独行月球提名金像奖最佳亚洲华语电影",
+      "onboard_time": 1675926690,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 256551,
@@ -5707,20 +5811,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245661,
-      "num": 245661,
-      "word": "养3年狗狗被父母偷卖孩子绝食抗议",
-      "onboard_time": 1675923987,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245053,
       "num": 245053,
       "word": "AL对战JDG",
       "onboard_time": 1675686807,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 244773,
+      "num": 244773,
+      "word": "Angelababy相思令出妆路透照",
+      "onboard_time": 1675924831,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 244693,
@@ -5841,6 +5945,14 @@
       "onboard_time": 1675913548,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240454,
+      "num": 240454,
+      "word": "有哪些冷门小众的职业",
+      "onboard_time": 1675926030,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 239876,
@@ -6939,6 +7051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184844,
+      "num": 184844,
+      "word": "杜兰特预计全明星后复出",
+      "onboard_time": 1675926449,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184693,
       "num": 184693,
       "word": "邓超五哈生日海报",
@@ -7017,14 +7137,6 @@
       "onboard_time": 1675661189,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 182072,
-      "num": 182072,
-      "word": "2023NBA交易截止日",
-      "onboard_time": 1675924471,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 182020,
@@ -7137,6 +7249,14 @@
       "onboard_time": 1675754971,
       "rank": 41,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 177357,
+      "num": 301378,
+      "word": "大熊猫蹭痒痒好像在玩摇滚",
+      "onboard_time": 1675925911,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176757,
@@ -7435,6 +7555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165891,
+      "num": 165891,
+      "word": "科学家在仙女星系中发现银河移民",
+      "onboard_time": 1675926631,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 165527,
       "num": 165527,
       "word": "泽连斯基抵达英国",
@@ -7561,6 +7689,14 @@
       "onboard_time": 1675639580,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159865,
+      "num": 159865,
+      "word": "遭前任纠缠骚扰可申请人身安全保护令",
+      "onboard_time": 1675925551,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159728,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1675927052741,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1576178,
+        "num": 1576178,
+        "word": "杜兰特加盟太阳",
+        "onboard_time": 1675923509,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1297325,
+        "num": 1297325,
+        "word": "央视评年轻人越来越反感专家",
+        "onboard_time": 1675911146,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103196,
+        "num": 1276771,
+        "word": "2022年度退补税怎么办理",
+        "onboard_time": 1675901065,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1263401,
+        "num": 1263401,
+        "word": "女子吃海鲜后腹痛就医出院当天死亡",
+        "onboard_time": 1675922006,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184842,
+        "num": 1184842,
+        "word": "杭州一公司招聘2000元日薪凶宅试睡员",
+        "onboard_time": 1675917033,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1095250,
+        "num": 1095250,
+        "word": "张淇 单飞",
+        "onboard_time": 1675924351,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1002939,
+        "num": 1002939,
+        "word": "刘若清回应一辈子不想见张译",
+        "onboard_time": 1675918592,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 766465,
+        "num": 766465,
+        "word": "狂飙实体书 安欣",
+        "onboard_time": 1675924949,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 607486,
+        "num": 607486,
+        "word": "太阳三巨头",
+        "onboard_time": 1675925429,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 588655,
+        "num": 588655,
+        "word": "王丽坤代言",
+        "onboard_time": 1675921048,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613675,
+        "num": 588449,
+        "word": "京东疑似下架新冠口服药",
+        "onboard_time": 1675922847,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587362,
+        "num": 587362,
+        "word": "capper",
+        "onboard_time": 1675924831,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 501782,
+        "num": 501782,
+        "word": "养3年狗狗被父母偷卖孩子绝食抗议",
+        "onboard_time": 1675923987,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472511,
+        "num": 472511,
+        "word": "姜超扮演者说小五是张译加的戏",
+        "onboard_time": 1675910127,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432536,
+        "num": 432536,
+        "word": "NBA疯狂星期四",
+        "onboard_time": 1675925730,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402232,
+        "num": 402232,
+        "word": "杨紫坐轮椅回剧组上班",
+        "onboard_time": 1675926509,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399243,
+        "num": 399243,
+        "word": "陈乔恩艾伦吵架",
+        "onboard_time": 1675926091,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372082,
+        "num": 372082,
+        "word": "王一博公司申请洛邑逸板商标",
+        "onboard_time": 1675921648,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370681,
+        "num": 370681,
+        "word": "2023NBA交易截止日",
+        "onboard_time": 1675924471,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368433,
+        "num": 368433,
+        "word": "姚薇程梁被迫官宣结婚",
+        "onboard_time": 1675925488,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451965,
+        "num": 368162,
+        "word": "女工人干活时在厕所5分钟产子",
+        "onboard_time": 1675913667,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367254,
+        "num": 367254,
+        "word": "郑秀文第七次提名金像奖影后",
+        "onboard_time": 1675925069,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356557,
+        "num": 356557,
+        "word": "工资是你应聘时最看重的条件吗",
+        "onboard_time": 1675918652,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355086,
+        "num": 355086,
+        "word": "女子带汉堡进星巴克被服务员拦下",
+        "onboard_time": 1675919011,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332967,
+        "num": 332967,
+        "word": "男子欲试睡凶宅躺赚大钱被骗",
+        "onboard_time": 1675926509,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314882,
+        "num": 314882,
+        "word": "黑豹乐队新主唱招募",
+        "onboard_time": 1675924650,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312546,
+        "num": 312546,
+        "word": "曝HYBE收购SMTOWN股份",
+        "onboard_time": 1675917091,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309883,
+        "num": 309883,
+        "word": "五十公里桃花坞3 阵容",
+        "onboard_time": 1675921528,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302648,
+        "num": 302648,
+        "word": "京东31亿元拿地",
+        "onboard_time": 1675916369,
+        "rank": 28,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 177357,
+        "num": 301378,
+        "word": "大熊猫蹭痒痒好像在玩摇滚",
+        "onboard_time": 1675925911,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300442,
+        "num": 300442,
+        "word": "陈乔恩说剩女是盛开的盛",
+        "onboard_time": 1675922006,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298206,
+        "num": 298206,
+        "word": "制片人谈狂飙演员片酬",
+        "onboard_time": 1675922188,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275558,
+        "num": 275558,
+        "word": "00后KTV必点曲目",
+        "onboard_time": 1675914209,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 267822,
+        "num": 267822,
+        "word": "千万不要在大风天出门遛狗",
+        "onboard_time": 1675921466,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259429,
+        "num": 259429,
+        "word": "唐小强",
+        "onboard_time": 1675903948,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 258392,
+        "num": 258392,
+        "word": "土耳其强震死亡人数上升至12873人",
+        "onboard_time": 1675926211,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256598,
+        "num": 256598,
+        "word": "独行月球提名金像奖最佳亚洲华语电影",
+        "onboard_time": 1675926690,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245444,
+        "num": 245444,
+        "word": "男子将夫妻共同财产赠与小三",
+        "onboard_time": 1675914448,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244773,
+        "num": 244773,
+        "word": "Angelababy相思令出妆路透照",
+        "onboard_time": 1675924831,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240454,
+        "num": 240454,
+        "word": "有哪些冷门小众的职业",
+        "onboard_time": 1675926030,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227097,
+        "num": 227097,
+        "word": "LOL新英雄Milio",
+        "onboard_time": 1675915168,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198590,
+        "num": 198590,
+        "word": "张元英毕业照公开",
+        "onboard_time": 1675908386,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195695,
+        "num": 195695,
+        "word": "张艺兴的刘海",
+        "onboard_time": 1675911568,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189345,
+        "num": 189345,
+        "word": "虞书欣灰色短上衣造型",
+        "onboard_time": 1675919791,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184844,
+        "num": 184844,
+        "word": "杜兰特预计全明星后复出",
+        "onboard_time": 1675926449,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184690,
+        "num": 184690,
+        "word": "建议专家不要建议",
+        "onboard_time": 1675922549,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165891,
+        "num": 165891,
+        "word": "科学家在仙女星系中发现银河移民",
+        "onboard_time": 1675926631,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 165341,
+        "num": 165341,
+        "word": "王鹤棣纯白西装大片",
+        "onboard_time": 1675922549,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 159865,
+        "num": 159865,
+        "word": "遭前任纠缠骚扰可申请人身安全保护令",
+        "onboard_time": 1675925551,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149618,
+        "num": 149618,
+        "word": "龚俊被种地吧安排得明明白白",
+        "onboard_time": 1675920929,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}
