@@ -1,21 +1,21 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675934347406,
+  "endTime": 1675935242729,
   "band_list": [
+    {
+      "raw_hot": 4410711,
+      "num": 4410711,
+      "word": "刘亚仁确认吸毒",
+      "onboard_time": 1675930527,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 4001183,
       "num": 4001183,
       "word": "刘亚仁涉嫌吸毒",
       "onboard_time": 1675866815,
       "rank": 0,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 3646815,
-      "num": 3646815,
-      "word": "刘亚仁确认吸毒",
-      "onboard_time": 1675930527,
-      "rank": 3,
       "category": "社会新闻,艺人"
     },
     {
@@ -83,8 +83,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1551270,
-      "num": 1551270,
+      "raw_hot": 1578679,
+      "num": 1578679,
       "word": "YG大楼现状",
       "onboard_time": 1675931668,
       "rank": 11,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1221684,
+      "num": 1221684,
+      "word": "四川18岁溺亡女生生前录音曝光",
+      "onboard_time": 1675931611,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1191644,
       "num": 1191644,
       "word": "安欣再现红色高跟鞋名场面",
@@ -155,20 +163,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1159829,
-      "num": 1159829,
-      "word": "四川18岁溺亡女生生前录音曝光",
-      "onboard_time": 1675931611,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1157625,
       "num": 1157625,
       "word": "男子欲试睡凶宅躺赚大钱被骗",
       "onboard_time": 1675926509,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1123589,
+      "num": 1123589,
+      "word": "一个出来了 一个进去了",
+      "onboard_time": 1675933351,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1095250,
@@ -339,6 +347,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 793742,
+      "num": 793742,
+      "word": "泫雅牙钻",
+      "onboard_time": 1675934431,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778620,
       "num": 778620,
       "word": "官方回应中国游客普吉岛旅游被割伤",
@@ -425,14 +441,6 @@
       "onboard_time": 1675917752,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 668587,
-      "num": 668587,
-      "word": "一个出来了 一个进去了",
-      "onboard_time": 1675933351,
-      "rank": 11,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 632226,
@@ -619,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487921,
+      "num": 487921,
+      "word": "讨厌没有边界感的大学生",
+      "onboard_time": 1675931851,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 483354,
       "num": 483354,
       "word": "警局因接待动物幼崽太多专门配奶瓶",
@@ -648,6 +664,14 @@
       "word": "母亲废墟中诞下女婴后离世",
       "onboard_time": 1675898358,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463205,
+      "num": 463205,
+      "word": "14岁女孩玩手机81小时没睡险猝死",
+      "onboard_time": 1675934611,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -771,20 +795,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410442,
+      "num": 410442,
+      "word": "乳山银滩6万元可买一套海景房",
+      "onboard_time": 1675933952,
+      "rank": 35,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 406889,
       "num": 406889,
       "word": "拉塞尔回归湖人",
       "onboard_time": 1675907608,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 403942,
-      "num": 403942,
-      "word": "讨厌没有边界感的大学生",
-      "onboard_time": 1675931851,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 398662,
@@ -923,8 +947,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 346766,
-      "num": 346766,
+      "raw_hot": 351017,
+      "num": 351017,
       "word": "张若昀片场给猫起名女明星",
       "onboard_time": 1675932689,
       "rank": 20,
@@ -945,6 +969,14 @@
       "onboard_time": 1675918890,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339898,
+      "num": 339898,
+      "word": "李一桐给苏玖儿求爱情签",
+      "onboard_time": 1675934732,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 332496,
@@ -1395,6 +1427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206734,
+      "num": 206734,
+      "word": "想见你直播",
+      "onboard_time": 1675933528,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205091,
       "num": 205091,
       "word": "微软必应下载量猛增10倍",
@@ -1417,14 +1457,6 @@
       "onboard_time": 1675872089,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 199928,
-      "num": 199928,
-      "word": "想见你直播",
-      "onboard_time": 1675933528,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 199652,
@@ -1507,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189098,
+      "num": 189098,
+      "word": "中国220吨小麦将运抵叙利亚",
+      "onboard_time": 1675931373,
+      "rank": 43,
+      "category": "社会新闻,国内要闻"
+    },
+    {
       "raw_hot": 189043,
       "num": 189043,
       "word": "强震已致土耳其叙利亚上万人遇难",
@@ -1547,12 +1587,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181865,
-      "num": 181865,
-      "word": "中国220吨小麦将运抵叙利亚",
-      "onboard_time": 1675931373,
-      "rank": 43,
-      "category": "社会新闻,国内要闻"
+      "raw_hot": 185746,
+      "num": 185746,
+      "word": "刘芸是真不会撒娇",
+      "onboard_time": 1675929987,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 180489,
@@ -1593,14 +1633,6 @@
       "onboard_time": 1675857753,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171861,
-      "num": 171861,
-      "word": "乳山银滩6万元可买一套海景房",
-      "onboard_time": 1675933952,
-      "rank": 35,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 170422,
@@ -1659,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161030,
+      "num": 161030,
+      "word": "王阳说程仁清10分钟打了三个官司",
+      "onboard_time": 1675934912,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159865,
       "num": 159865,
       "word": "遭前任纠缠骚扰可申请人身安全保护令",
@@ -1715,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149042,
+      "num": 149042,
+      "word": "PEL春季赛开赛宣传片",
+      "onboard_time": 1675934311,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145767,
       "num": 145767,
       "word": "狂飙每一个单元结尾都在十字路口",
@@ -1729,22 +1777,6 @@
       "onboard_time": 1675922608,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 141068,
-      "num": 141068,
-      "word": "刘芸是真不会撒娇",
-      "onboard_time": 1675929987,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 140800,
-      "num": 140800,
-      "word": "PEL春季赛开赛宣传片",
-      "onboard_time": 1675934311,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 137392,
@@ -1939,7 +1971,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 68738,
+      "raw_hot": 72646,
       "num": 1340052,
       "word": "采取更多惠民生暖民心举措",
       "onboard_time": 1675933412,

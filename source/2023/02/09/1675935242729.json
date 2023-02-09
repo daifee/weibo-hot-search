@@ -1,0 +1,410 @@
+{
+  "runTime": 1675935242729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4410711,
+        "num": 4410711,
+        "word": "刘亚仁确认吸毒",
+        "onboard_time": 1675930527,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1578679,
+        "num": 1578679,
+        "word": "YG大楼现状",
+        "onboard_time": 1675931668,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72646,
+        "num": 1296580,
+        "word": "采取更多惠民生暖民心举措",
+        "onboard_time": 1675933412,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1221684,
+        "num": 1221684,
+        "word": "四川18岁溺亡女生生前录音曝光",
+        "onboard_time": 1675931611,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1208069,
+        "num": 1208069,
+        "word": "25年闺蜜谎称卖鸡蛋原是公司副董",
+        "onboard_time": 1675929448,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1123589,
+        "num": 1123589,
+        "word": "一个出来了 一个进去了",
+        "onboard_time": 1675933351,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 844748,
+        "num": 844748,
+        "word": "杭州一公司招聘2000元日薪凶宅试睡员",
+        "onboard_time": 1675917033,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841831,
+        "num": 841831,
+        "word": "刘亚仁等51人被调查",
+        "onboard_time": 1675931010,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 793742,
+        "num": 793742,
+        "word": "泫雅牙钻",
+        "onboard_time": 1675934431,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726974,
+        "num": 726974,
+        "word": "刘亚仁中国代言撤下",
+        "onboard_time": 1675932033,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 725614,
+        "num": 725614,
+        "word": "张颂文说不适应被接机",
+        "onboard_time": 1675932573,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 701137,
+        "num": 701137,
+        "word": "女子吃海鲜后腹痛就医出院当天死亡",
+        "onboard_time": 1675922006,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583907,
+        "num": 583907,
+        "word": "陈乔恩艾伦吵架",
+        "onboard_time": 1675926091,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539110,
+        "num": 539110,
+        "word": "胜利提前出狱",
+        "onboard_time": 1675927948,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 487921,
+        "num": 487921,
+        "word": "讨厌没有边界感的大学生",
+        "onboard_time": 1675931851,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 484893,
+        "num": 484893,
+        "word": "刘若清回应一辈子不想见张译",
+        "onboard_time": 1675918592,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463205,
+        "num": 463205,
+        "word": "14岁女孩玩手机81小时没睡险猝死",
+        "onboard_time": 1675934611,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451593,
+        "num": 451593,
+        "word": "狂飙庆功宴下班路透",
+        "onboard_time": 1675928971,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436100,
+        "num": 436100,
+        "word": "杜兰特加盟太阳",
+        "onboard_time": 1675923509,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410442,
+        "num": 410442,
+        "word": "乳山银滩6万元可买一套海景房",
+        "onboard_time": 1675933952,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 369212,
+        "num": 369212,
+        "word": "我国人群总体免疫力处在较高时期",
+        "onboard_time": 1675928191,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351017,
+        "num": 351017,
+        "word": "张若昀片场给猫起名女明星",
+        "onboard_time": 1675932689,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339898,
+        "num": 339898,
+        "word": "李一桐给苏玖儿求爱情签",
+        "onboard_time": 1675934732,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303795,
+        "num": 303795,
+        "word": "狂飙实体书 安欣",
+        "onboard_time": 1675924949,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300776,
+        "num": 300776,
+        "word": "欧文说很高兴杜兰特离开篮网",
+        "onboard_time": 1675928490,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 278715,
+        "num": 278715,
+        "word": "杨紫坐轮椅回剧组上班",
+        "onboard_time": 1675926509,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275164,
+        "num": 275164,
+        "word": "张淇 单飞",
+        "onboard_time": 1675924351,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241268,
+        "num": 241268,
+        "word": "五十公里桃花坞3 阵容",
+        "onboard_time": 1675921528,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240060,
+        "num": 240060,
+        "word": "工资是你应聘时最看重的条件吗",
+        "onboard_time": 1675918652,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236907,
+        "num": 236907,
+        "word": "土耳其强震死亡人数上升至12873人",
+        "onboard_time": 1675926211,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211291,
+        "num": 211291,
+        "word": "王丽坤代言",
+        "onboard_time": 1675921048,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206734,
+        "num": 206734,
+        "word": "想见你直播",
+        "onboard_time": 1675933528,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189098,
+        "num": 189098,
+        "word": "中国220吨小麦将运抵叙利亚",
+        "onboard_time": 1675931373,
+        "rank": 32,
+        "category": "社会新闻,国内要闻"
+      },
+      {
+        "raw_hot": 185746,
+        "num": 185746,
+        "word": "刘芸是真不会撒娇",
+        "onboard_time": 1675929987,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173345,
+        "num": 173345,
+        "word": "00后KTV必点曲目",
+        "onboard_time": 1675914209,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161030,
+        "num": 161030,
+        "word": "王阳说程仁清10分钟打了三个官司",
+        "onboard_time": 1675934912,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159321,
+        "num": 159321,
+        "word": "太阳三巨头",
+        "onboard_time": 1675925429,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150261,
+        "num": 150261,
+        "word": "你说的这个张爷爷是指我父亲还是我",
+        "onboard_time": 1675929328,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150223,
+        "num": 150223,
+        "word": "四川资中失联女生溺亡排除他杀",
+        "onboard_time": 1675931309,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149042,
+        "num": 149042,
+        "word": "PEL春季赛开赛宣传片",
+        "onboard_time": 1675934311,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148462,
+        "num": 148462,
+        "word": "NBA疯狂星期四",
+        "onboard_time": 1675925730,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148024,
+        "num": 148024,
+        "word": "曝HYBE收购SMTOWN股份",
+        "onboard_time": 1675917091,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141418,
+        "num": 141418,
+        "word": "3名中国公民在土叙地震中获救",
+        "onboard_time": 1675929568,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139261,
+        "num": 139261,
+        "word": "有哪些冷门小众的职业",
+        "onboard_time": 1675926030,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137901,
+        "num": 137901,
+        "word": "王鹤棣纯白西装大片",
+        "onboard_time": 1675922549,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 135276,
+        "num": 135276,
+        "word": "满江红实时票房破41亿",
+        "onboard_time": 1675927410,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131200,
+        "num": 131200,
+        "word": "京东31亿元拿地",
+        "onboard_time": 1675916369,
+        "rank": 46,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 128866,
+        "num": 128866,
+        "word": "唐小强",
+        "onboard_time": 1675903948,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 125364,
+        "num": 125364,
+        "word": "男子欲试睡凶宅躺赚大钱被骗",
+        "onboard_time": 1675926509,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122289,
+        "num": 122289,
+        "word": "如无特殊情况学校一般不提前开学",
+        "onboard_time": 1675929269,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平身体力行推动文物抢救和保护工作#"
+    }
+  }
+}
