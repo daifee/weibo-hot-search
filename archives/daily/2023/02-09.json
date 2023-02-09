@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675913801158,
+  "endTime": 1675916568743,
   "band_list": [
     {
       "raw_hot": 4001183,
@@ -11,8 +11,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2152213,
-      "num": 2152213,
+      "raw_hot": 3296853,
+      "num": 3296853,
       "word": "央视评年轻人越来越反感专家",
       "onboard_time": 1675911146,
       "rank": 20,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1499233,
-      "num": 1499233,
+      "raw_hot": 1654779,
+      "num": 1654779,
       "word": "姜超扮演者说小五是张译加的戏",
       "onboard_time": 1675910127,
       "rank": 5,
@@ -56,6 +56,14 @@
       "word": "当事人承认相亲隔天结婚系炒作",
       "onboard_time": 1675907906,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1389485,
+      "num": 1389485,
+      "word": "女工人干活时在厕所5分钟产子",
+      "onboard_time": 1675913667,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 980147,
+      "num": 980147,
+      "word": "00后KTV必点曲目",
+      "onboard_time": 1675914209,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 930678,
       "num": 930678,
       "word": "京城乔姐",
@@ -129,6 +145,22 @@
       "onboard_time": 1675903409,
       "rank": 5,
       "category": "旅游,财经"
+    },
+    {
+      "raw_hot": 873175,
+      "num": 873175,
+      "word": "男子将夫妻共同财产赠与小三",
+      "onboard_time": 1675914448,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 827684,
+      "num": 827684,
+      "word": "重紫",
+      "onboard_time": 1675914448,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 824845,
@@ -227,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591226,
+      "num": 591226,
+      "word": "张颂文给李健上过课",
+      "onboard_time": 1675910666,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 571725,
       "num": 571725,
       "word": "土耳其地震已致12391人死亡",
@@ -267,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 523788,
+      "num": 523788,
+      "word": "LOL新英雄Milio",
+      "onboard_time": 1675915168,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 514753,
       "num": 514753,
       "word": "唐嫣宋亚轩埋头笑",
@@ -289,14 +337,6 @@
       "onboard_time": 1675853734,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 506967,
-      "num": 506967,
-      "word": "张颂文给李健上过课",
-      "onboard_time": 1675910666,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 492765,
@@ -435,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367774,
+      "num": 367774,
+      "word": "河南月最低工资标准1600元",
+      "onboard_time": 1675913368,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366257,
       "num": 366257,
       "word": "疯狂动物城将拍续集",
@@ -449,6 +497,14 @@
       "onboard_time": 1675843711,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351036,
+      "num": 351036,
+      "word": "电影总拍男人拯救世界",
+      "onboard_time": 1675914986,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 332496,
@@ -489,6 +545,14 @@
       "onboard_time": 1675846353,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308825,
+      "num": 308825,
+      "word": "ChatGPT官网已无法登陆",
+      "onboard_time": 1675915650,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 307824,
@@ -579,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260267,
+      "num": 260267,
+      "word": "原来三体人害怕太空电梯",
+      "onboard_time": 1675911807,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258312,
       "num": 258312,
       "word": "老婆将藏13万现金纸箱卖掉大爷急疯",
@@ -619,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245490,
-      "num": 245490,
-      "word": "原来三体人害怕太空电梯",
-      "onboard_time": 1675911807,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 241176,
       "num": 241176,
       "word": "男子去土耳其救援前告知妻子所有密码",
@@ -635,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 237611,
-      "num": 237611,
-      "word": "河南月最低工资标准1600元",
-      "onboard_time": 1675913368,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 240563,
+      "num": 240563,
+      "word": "欧文独行侠首秀",
+      "onboard_time": 1675913548,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 236653,
@@ -755,12 +819,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199652,
+      "num": 199652,
+      "word": "无名梁朝伟黄磊片场花絮",
+      "onboard_time": 1675913848,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199250,
       "num": 199250,
       "word": "阿里类ChatGPT产品正在内测",
       "onboard_time": 1675865973,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 197068,
+      "num": 197068,
+      "word": "星落凝成糖主题曲MV",
+      "onboard_time": 1675914328,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 194085,
@@ -777,6 +857,14 @@
       "onboard_time": 1675909766,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189453,
+      "num": 189453,
+      "word": "京东31亿元拿地",
+      "onboard_time": 1675916369,
+      "rank": 46,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 189043,
@@ -819,12 +907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175342,
-      "num": 175342,
-      "word": "欧文独行侠首秀",
-      "onboard_time": 1675913548,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 176151,
+      "num": 176151,
+      "word": "医院回应14岁女孩被逼吸毒身亡",
+      "onboard_time": 1675916311,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173887,
@@ -888,14 +976,6 @@
       "word": "泽连斯基抵达英国",
       "onboard_time": 1675873344,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163775,
-      "num": 163775,
-      "word": "女工人干活时在厕所5分钟产子",
-      "onboard_time": 1675913667,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
