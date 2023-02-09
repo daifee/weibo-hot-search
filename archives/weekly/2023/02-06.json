@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675981137939,
+  "endTime": 1675982149500,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -8787,6 +8787,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 156513,
+      "num": 81438,
+      "word": "土耳其一男子告别遇难未婚妻",
+      "onboard_time": 1675978391,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155626,
       "num": 155626,
       "word": "李宏毅说坐等帅家默",
@@ -9443,6 +9451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107074,
+      "num": 80012,
+      "word": "重庆一女子称开锁广告被贴家门里面",
+      "onboard_time": 1675980134,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106628,
       "num": 106628,
       "word": "小朋友把馋写在了脸上",
@@ -9487,14 +9503,6 @@
       "num": 98411,
       "word": "住户楼道腌酸菜满地酸水散发恶臭",
       "onboard_time": 1675628172,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97621,
-      "num": 65378,
-      "word": "土耳其一男子告别遇难未婚妻",
-      "onboard_time": 1675978391,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -9553,6 +9561,14 @@
       "onboard_time": 1675826487,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 85252,
+      "num": 78917,
+      "word": "2岁娃咳嗽50天查出硬币卡喉",
+      "onboard_time": 1675981394,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84544,
@@ -9731,28 +9747,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 51782,
+      "num": 51782,
+      "word": "研究称ChatGPT或成传播网络谣言最强工具",
+      "onboard_time": 1675972032,
+      "rank": 13,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 49726,
       "num": 49726,
       "word": "你们粉丝整活有够荒谬的",
       "onboard_time": 1675885391,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 49038,
-      "num": 49038,
-      "word": "重庆一女子称开锁广告被贴家门里面",
-      "onboard_time": 1675980134,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48250,
-      "num": 42890,
-      "word": "研究称ChatGPT或成传播网络谣言最强工具",
-      "onboard_time": 1675972032,
-      "rank": 13,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 45201,
@@ -9827,8 +9835,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 23021,
-      "num": 23021,
+      "raw_hot": 26353,
+      "num": 26353,
       "word": "中国红十字会救援人员赶赴叙利亚",
       "onboard_time": 1675976233,
       "rank": 38,
@@ -9848,6 +9856,14 @@
       "word": "今天元宵节",
       "onboard_time": 1675566031,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16895,
+      "num": 16895,
+      "word": "地震已造成土耳其16170人死亡",
+      "onboard_time": 1675981996,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],
