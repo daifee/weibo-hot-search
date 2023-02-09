@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675937992009,
+  "endTime": 1675938982590,
   "band_list": [
     {
       "raw_hot": 4410711,
@@ -211,6 +211,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1049079,
+      "num": 1049079,
+      "word": "程潇泳装身材",
+      "onboard_time": 1675938031,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1023378,
       "num": 1023378,
       "word": "00后KTV必点曲目",
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 964329,
+      "num": 964329,
+      "word": "新疆禁毒形象大使不像演的",
+      "onboard_time": 1675936711,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 956086,
       "num": 956086,
       "word": "程耳 无名开始盈利了",
@@ -249,6 +265,14 @@
       "onboard_time": 1675917091,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 949687,
+      "num": 949687,
+      "word": "女子应聘文秘被告知做老板女友",
+      "onboard_time": 1675935332,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 942012,
@@ -289,14 +313,6 @@
       "onboard_time": 1675926091,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 890594,
-      "num": 890594,
-      "word": "女子应聘文秘被告知做老板女友",
-      "onboard_time": 1675935332,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 876571,
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628060,
+      "num": 628060,
+      "word": "比尔盖茨新女友",
+      "onboard_time": 1675936171,
+      "rank": 18,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 626287,
       "num": 626287,
       "word": "威少被交易到爵士",
@@ -651,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 492788,
+      "num": 492788,
+      "word": "IU官咖概念照",
+      "onboard_time": 1675938753,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 492765,
       "num": 365274,
       "word": "山东嫁土耳其女子震前返回老家",
@@ -712,14 +744,6 @@
       "word": "速写声明",
       "onboard_time": 1675936171,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 456896,
-      "num": 456896,
-      "word": "新疆禁毒形象大使不像演的",
-      "onboard_time": 1675936711,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -843,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 409714,
-      "num": 409714,
-      "word": "比尔盖茨新女友",
-      "onboard_time": 1675936171,
-      "rank": 18,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 406889,
       "num": 406889,
       "word": "拉塞尔回归湖人",
@@ -881,6 +897,14 @@
       "onboard_time": 1675888212,
       "rank": 45,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 390275,
+      "num": 390275,
+      "word": "13岁女孩4.82秒打破鲁班锁世界纪录",
+      "onboard_time": 1675935874,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387829,
@@ -955,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 366628,
+      "num": 366628,
+      "word": "王者荣耀新英雄",
+      "onboard_time": 1675938153,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 366257,
       "num": 366257,
       "word": "疯狂动物城将拍续集",
@@ -1027,12 +1059,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332745,
-      "num": 332745,
-      "word": "13岁女孩4.82秒打破鲁班锁世界纪录",
-      "onboard_time": 1675935874,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 336558,
+      "num": 336558,
+      "word": "王一博邓超抱never对比",
+      "onboard_time": 1675937972,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 332496,
@@ -1251,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270024,
+      "num": 270024,
+      "word": "还没阳过的孩子老人再感染可能性小",
+      "onboard_time": 1675935274,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269711,
       "num": 269711,
       "word": "有哪些冷门小众的职业",
@@ -1305,14 +1345,6 @@
       "onboard_time": 1675868975,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252410,
-      "num": 252410,
-      "word": "还没阳过的孩子老人再感染可能性小",
-      "onboard_time": 1675935274,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252194,
@@ -1419,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226058,
+      "num": 226058,
+      "word": "想见你直播",
+      "onboard_time": 1675933528,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224742,
       "num": 275711,
       "word": "国务院联防联控机制发布会",
@@ -1473,14 +1513,6 @@
       "onboard_time": 1675871670,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216708,
-      "num": 216708,
-      "word": "想见你直播",
-      "onboard_time": 1675933528,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 212432,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1675914328,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196306,
+      "num": 196306,
+      "word": "凶宅试睡员2000一天系谣言",
+      "onboard_time": 1675938331,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194164,
@@ -1723,6 +1763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169945,
+      "num": 169945,
+      "word": "4岁警犬凭实力成国家首批功勋犬",
+      "onboard_time": 1675937430,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169745,
       "num": 169745,
       "word": "迪士尼一季度收入235.1亿美元",
@@ -1801,14 +1849,6 @@
       "onboard_time": 1675900406,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156009,
-      "num": 156009,
-      "word": "4岁警犬凭实力成国家首批功勋犬",
-      "onboard_time": 1675937430,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155187,
@@ -1921,14 +1961,6 @@
       "onboard_time": 1675862612,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119362,
-      "num": 119362,
-      "word": "王一博邓超抱never对比",
-      "onboard_time": 1675937972,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 111386,
@@ -2115,8 +2147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30673,
-      "num": 173980,
+      "raw_hot": 35430,
+      "num": 177145,
       "word": "员工扎堆老板办公室抢免单",
       "onboard_time": 1675936832,
       "rank": 39,
