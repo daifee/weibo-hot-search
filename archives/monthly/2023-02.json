@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675967051251,
+  "endTime": 1675967924753,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -18203,6 +18203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169989,
+      "num": 169989,
+      "word": "上海月最低工资全国最高",
+      "onboard_time": 1675965857,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169853,
       "num": 169853,
       "word": "唐僧安欣和孔雀高启强",
@@ -20563,12 +20571,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 104593,
-      "num": 104593,
-      "word": "上海月最低工资全国最高",
-      "onboard_time": 1675965857,
-      "rank": 12,
-      "category": "财经"
+      "raw_hot": 104042,
+      "num": 104042,
+      "word": "叙利亚总统怒斥西方",
+      "onboard_time": 1675964716,
+      "rank": 14,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 102873,
@@ -20585,14 +20593,6 @@
       "onboard_time": 1675480887,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102127,
-      "num": 102127,
-      "word": "叙利亚总统怒斥西方",
-      "onboard_time": 1675964716,
-      "rank": 14,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 102009,
