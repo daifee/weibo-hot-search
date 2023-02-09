@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675916568743,
+  "endTime": 1675917499305,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3296853,
-      "num": 3296853,
+      "raw_hot": 3548326,
+      "num": 3548326,
       "word": "央视评年轻人越来越反感专家",
       "onboard_time": 1675911146,
       "rank": 20,
@@ -467,6 +467,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1488998,
+      "num": 1488998,
+      "word": "女工人干活时在厕所5分钟产子",
+      "onboard_time": 1675913667,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1480488,
       "num": 1049610,
       "word": "男生骑车被劳斯莱斯撞倒笑出了声",
@@ -521,14 +529,6 @@
       "onboard_time": 1675827929,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1389485,
-      "num": 1389485,
-      "word": "女工人干活时在厕所5分钟产子",
-      "onboard_time": 1675913667,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1375744,
@@ -899,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1023378,
+      "num": 1023378,
+      "word": "00后KTV必点曲目",
+      "onboard_time": 1675914209,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1021725,
       "num": 1021725,
       "word": "66岁大叔和女友买新房名字没自己",
@@ -969,14 +977,6 @@
       "onboard_time": 1675852470,
       "rank": 37,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 980147,
-      "num": 980147,
-      "word": "00后KTV必点曲目",
-      "onboard_time": 1675914209,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 973744,
@@ -1579,6 +1579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 742550,
+      "num": 742550,
+      "word": "曝HYBE收购SMTOWN股份",
+      "onboard_time": 1675917091,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 742410,
       "num": 742410,
       "word": "满江红成中国影史票房榜第8名",
@@ -2131,6 +2139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 600016,
+      "num": 600016,
+      "word": "张颂文给李健上过课",
+      "onboard_time": 1675910666,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 599590,
       "num": 599590,
       "word": "张智霖在东北穿五件保暖衣",
@@ -2177,14 +2193,6 @@
       "onboard_time": 1675695931,
       "rank": 33,
       "category": "教育,艺人"
-    },
-    {
-      "raw_hot": 591226,
-      "num": 591226,
-      "word": "张颂文给李健上过课",
-      "onboard_time": 1675910666,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 588279,
@@ -2353,6 +2361,14 @@
       "onboard_time": 1675844008,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 557445,
+      "num": 557445,
+      "word": "LOL新英雄Milio",
+      "onboard_time": 1675915168,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 556236,
@@ -2641,14 +2657,6 @@
       "onboard_time": 1675665567,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 523788,
-      "num": 523788,
-      "word": "LOL新英雄Milio",
-      "onboard_time": 1675915168,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 523081,
@@ -2979,6 +2987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463588,
+      "num": 463588,
+      "word": "京东31亿元拿地",
+      "onboard_time": 1675916369,
+      "rank": 46,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 462943,
       "num": 462943,
       "word": "蔡徐坤泰国人气",
@@ -3217,6 +3233,14 @@
       "onboard_time": 1675861410,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432979,
+      "num": 432979,
+      "word": "医院回应14岁女孩被逼吸毒身亡",
+      "onboard_time": 1675916311,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432651,
@@ -3651,12 +3675,36 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 382615,
+      "num": 382615,
+      "word": "ChatGPT官网已无法登陆",
+      "onboard_time": 1675915650,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 381927,
       "num": 381927,
       "word": "2022台湾十大热门大陆剧",
       "onboard_time": 1675824567,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 380048,
+      "num": 298259,
+      "word": "杭州一公司招聘2000元日薪凶宅试睡员",
+      "onboard_time": 1675917033,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379042,
+      "num": 379042,
+      "word": "宋亚轩学院风毛衣上班造型",
+      "onboard_time": 1675916912,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 377972,
@@ -4267,6 +4315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314852,
+      "num": 314852,
+      "word": "陈楚生巡演开票",
+      "onboard_time": 1675917033,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 314330,
       "num": 314330,
       "word": "詹姆斯哭了",
@@ -4353,14 +4409,6 @@
       "onboard_time": 1675863212,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308825,
-      "num": 308825,
-      "word": "ChatGPT官网已无法登陆",
-      "onboard_time": 1675915650,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 308659,
@@ -4505,6 +4553,14 @@
       "onboard_time": 1675913128,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300700,
+      "num": 300700,
+      "word": "赵今麦小香风营业照",
+      "onboard_time": 1675917271,
+      "rank": 29,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 300498,
@@ -4729,6 +4785,14 @@
       "onboard_time": 1675742674,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289497,
+      "num": 289497,
+      "word": "相亲相爱一家人和黄渤",
+      "onboard_time": 1675917332,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 289212,
@@ -6523,14 +6587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189453,
-      "num": 189453,
-      "word": "京东31亿元拿地",
-      "onboard_time": 1675916369,
-      "rank": 46,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 189302,
       "num": 189302,
       "word": "哪一瞬间感受到父母对你的爱",
@@ -6825,14 +6881,6 @@
       "onboard_time": 1675840049,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176151,
-      "num": 176151,
-      "word": "医院回应14岁女孩被逼吸毒身亡",
-      "onboard_time": 1675916311,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176093,

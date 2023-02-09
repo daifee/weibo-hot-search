@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675916568743,
+  "endTime": 1675917499305,
   "band_list": [
     {
       "raw_hot": 4001183,
@@ -11,8 +11,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 3296853,
-      "num": 3296853,
+      "raw_hot": 3548326,
+      "num": 3548326,
       "word": "央视评年轻人越来越反感专家",
       "onboard_time": 1675911146,
       "rank": 20,
@@ -51,19 +51,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1488998,
+      "num": 1488998,
+      "word": "女工人干活时在厕所5分钟产子",
+      "onboard_time": 1675913667,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1467390,
       "num": 1467390,
       "word": "当事人承认相亲隔天结婚系炒作",
       "onboard_time": 1675907906,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1389485,
-      "num": 1389485,
-      "word": "女工人干活时在厕所5分钟产子",
-      "onboard_time": 1675913667,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -91,6 +91,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1023378,
+      "num": 1023378,
+      "word": "00后KTV必点曲目",
+      "onboard_time": 1675914209,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1021214,
       "num": 1021214,
       "word": "张艺兴的刘海",
@@ -105,14 +113,6 @@
       "onboard_time": 1675860632,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 980147,
-      "num": 980147,
-      "word": "00后KTV必点曲目",
-      "onboard_time": 1675914209,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 930678,
@@ -195,6 +195,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 742550,
+      "num": 742550,
+      "word": "曝HYBE收购SMTOWN股份",
+      "onboard_time": 1675917091,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 735441,
       "num": 735441,
       "word": "任天堂",
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 600016,
+      "num": 600016,
+      "word": "张颂文给李健上过课",
+      "onboard_time": 1675910666,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 597910,
       "num": 597910,
       "word": "于正说白鹿的演技绝对王炸",
@@ -259,20 +275,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 591226,
-      "num": 591226,
-      "word": "张颂文给李健上过课",
-      "onboard_time": 1675910666,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 571725,
       "num": 571725,
       "word": "土耳其地震已致12391人死亡",
       "onboard_time": 1675905686,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557445,
+      "num": 557445,
+      "word": "LOL新英雄Milio",
+      "onboard_time": 1675915168,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 556236,
@@ -305,14 +321,6 @@
       "onboard_time": 1675904669,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 523788,
-      "num": 523788,
-      "word": "LOL新英雄Milio",
-      "onboard_time": 1675915168,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 514753,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463588,
+      "num": 463588,
+      "word": "京东31亿元拿地",
+      "onboard_time": 1675916369,
+      "rank": 46,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 456131,
       "num": 240312,
       "word": "姐夫酒驾送妻子去给小姨子顶包",
@@ -401,6 +417,14 @@
       "onboard_time": 1675901065,
       "rank": 19,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 432979,
+      "num": 432979,
+      "word": "医院回应14岁女孩被逼吸毒身亡",
+      "onboard_time": 1675916311,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431862,
@@ -467,6 +491,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382615,
+      "num": 382615,
+      "word": "ChatGPT官网已无法登陆",
+      "onboard_time": 1675915650,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 380048,
+      "num": 298259,
+      "word": "杭州一公司招聘2000元日薪凶宅试睡员",
+      "onboard_time": 1675917033,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379042,
+      "num": 379042,
+      "word": "宋亚轩学院风毛衣上班造型",
+      "onboard_time": 1675916912,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 376332,
       "num": 376332,
       "word": "土耳其2岁男孩被压废墟44小时不哭不闹",
@@ -523,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314852,
+      "num": 314852,
+      "word": "陈楚生巡演开票",
+      "onboard_time": 1675917033,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 313730,
       "num": 313730,
       "word": "往来港澳人才签注来了",
@@ -545,14 +601,6 @@
       "onboard_time": 1675846353,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308825,
-      "num": 308825,
-      "word": "ChatGPT官网已无法登陆",
-      "onboard_time": 1675915650,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 307824,
@@ -587,11 +635,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300700,
+      "num": 300700,
+      "word": "赵今麦小香风营业照",
+      "onboard_time": 1675917271,
+      "rank": 29,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 295336,
       "num": 295336,
       "word": "流浪地球2将在俄罗斯上映",
       "onboard_time": 1675869275,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 289497,
+      "num": 289497,
+      "word": "相亲相爱一家人和黄渤",
+      "onboard_time": 1675917332,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -859,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189453,
-      "num": 189453,
-      "word": "京东31亿元拿地",
-      "onboard_time": 1675916369,
-      "rank": 46,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 189043,
       "num": 189043,
       "word": "强震已致土耳其叙利亚上万人遇难",
@@ -905,14 +961,6 @@
       "onboard_time": 1675871132,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176151,
-      "num": 176151,
-      "word": "医院回应14岁女孩被逼吸毒身亡",
-      "onboard_time": 1675916311,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173887,
