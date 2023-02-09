@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675938982590,
+  "endTime": 1675941388893,
   "band_list": [
     {
       "raw_hot": 4410711,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2038599,
+      "num": 2038599,
+      "word": "新疆禁毒形象大使不像演的",
+      "onboard_time": 1675936711,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1819389,
       "num": 1819389,
       "word": "张大大连麦的女网友疑似被家暴",
@@ -56,6 +64,14 @@
       "word": "张元英毕业照公开",
       "onboard_time": 1675908386,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1745265,
+      "num": 1745265,
+      "word": "程潇泳装身材",
+      "onboard_time": 1675938031,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -211,14 +227,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1049079,
-      "num": 1049079,
-      "word": "程潇泳装身材",
-      "onboard_time": 1675938031,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1023378,
       "num": 1023378,
       "word": "00后KTV必点曲目",
@@ -235,19 +243,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 998448,
+      "num": 998448,
+      "word": "日本火山",
+      "onboard_time": 1675939831,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 980631,
       "num": 980631,
       "word": "马航MH17坠机案调查暂停",
       "onboard_time": 1675860632,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 964329,
-      "num": 964329,
-      "word": "新疆禁毒形象大使不像演的",
-      "onboard_time": 1675936711,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -387,6 +395,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 800778,
+      "num": 800778,
+      "word": "王者荣耀新英雄",
+      "onboard_time": 1675938153,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 778620,
       "num": 778620,
       "word": "官方回应中国游客普吉岛旅游被割伤",
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629615,
+      "num": 600291,
+      "word": "婚检有多重要",
+      "onboard_time": 1675940491,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628060,
       "num": 628060,
       "word": "比尔盖茨新女友",
@@ -563,6 +587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 586787,
+      "num": 586787,
+      "word": "HYBE正式宣布参与收购SMTOWN",
+      "onboard_time": 1675941033,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 585378,
       "num": 585378,
       "word": "王一博公司申请洛邑逸板商标",
@@ -616,6 +648,14 @@
       "word": "土耳其民众欢迎致敬蓝天救援队员",
       "onboard_time": 1675907005,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545657,
+      "num": 545657,
+      "word": "13岁女孩4.82秒打破鲁班锁世界纪录",
+      "onboard_time": 1675935874,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -875,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399316,
+      "num": 399316,
+      "word": "点燃我温暖你韩版预告",
+      "onboard_time": 1675940191,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 398662,
       "num": 398662,
       "word": "五十公里桃花坞3 阵容",
@@ -897,14 +945,6 @@
       "onboard_time": 1675888212,
       "rank": 45,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 390275,
-      "num": 390275,
-      "word": "13岁女孩4.82秒打破鲁班锁世界纪录",
-      "onboard_time": 1675935874,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387829,
@@ -947,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373474,
+      "num": 373474,
+      "word": "王一博邓超抱never对比",
+      "onboard_time": 1675937972,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370681,
       "num": 370681,
       "word": "2023NBA交易截止日",
@@ -977,14 +1025,6 @@
       "onboard_time": 1675925069,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 366628,
-      "num": 366628,
-      "word": "王者荣耀新英雄",
-      "onboard_time": 1675938153,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 366257,
@@ -1059,20 +1099,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 336558,
-      "num": 336558,
-      "word": "王一博邓超抱never对比",
-      "onboard_time": 1675937972,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 332496,
       "num": 332496,
       "word": "男童遭炮仗炸伤涉事邻居已被刑拘",
       "onboard_time": 1675904309,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330484,
+      "num": 330484,
+      "word": "女明星集体回春",
+      "onboard_time": 1675941211,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 329519,
+      "num": 329519,
+      "word": "麦辣鸡翅实测热量高出官网40%",
+      "onboard_time": 1675939651,
+      "rank": 23,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 327746,
@@ -1451,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226278,
+      "num": 226278,
+      "word": "阿凡达2再次延长上映",
+      "onboard_time": 1675939292,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226058,
       "num": 226058,
       "word": "想见你直播",
@@ -1489,6 +1545,14 @@
       "onboard_time": 1675926631,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 218826,
+      "num": 218826,
+      "word": "这不是奶茶杯是非法电子烟",
+      "onboard_time": 1675939472,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217718,
@@ -1723,6 +1787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179138,
+      "num": 179138,
+      "word": "4岁警犬凭实力成国家首批功勋犬",
+      "onboard_time": 1675937430,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177708,
       "num": 177708,
       "word": "电车多久充一次电不会焦虑",
@@ -1761,14 +1833,6 @@
       "onboard_time": 1675873824,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 169945,
-      "num": 169945,
-      "word": "4岁警犬凭实力成国家首批功勋犬",
-      "onboard_time": 1675937430,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169745,
@@ -1851,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156710,
+      "num": 156710,
+      "word": "男子为转运盗走清代古石墩",
+      "onboard_time": 1675940852,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155187,
       "num": 155187,
       "word": "江西一乡召开适龄未婚女青年座谈会",
@@ -1897,6 +1969,14 @@
       "onboard_time": 1675924050,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142936,
+      "num": 142936,
+      "word": "中方不接受美方关于两国防长通话的提议",
+      "onboard_time": 1675940910,
+      "rank": 47,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 142613,
@@ -2116,7 +2196,7 @@
     },
     {
       "raw_hot": 72646,
-      "num": 1340052,
+      "num": 1808894,
       "word": "采取更多惠民生暖民心举措",
       "onboard_time": 1675933412,
       "rank": 2,

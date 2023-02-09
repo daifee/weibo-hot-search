@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675938982590,
+  "endTime": 1675941388893,
   "band_list": [
     {
       "raw_hot": 13846203,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2038599,
+      "num": 2038599,
+      "word": "新疆禁毒形象大使不像演的",
+      "onboard_time": 1675936711,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2033687,
       "num": 2033687,
       "word": "胡鑫宇请给心理指导师五分钟",
@@ -905,6 +913,14 @@
       "onboard_time": 1675518271,
       "rank": 0,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1745265,
+      "num": 1745265,
+      "word": "程潇泳装身材",
+      "onboard_time": 1675938031,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1744481,
@@ -2435,14 +2451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1049079,
-      "num": 1049079,
-      "word": "程潇泳装身材",
-      "onboard_time": 1675938031,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1046024,
       "num": 1046024,
       "word": "女子应聘行政岗被要求只要单身",
@@ -2584,6 +2592,14 @@
       "word": "6岁男童在酒店被泳池旁泡泡机电亡",
       "onboard_time": 1675669888,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 998448,
+      "num": 998448,
+      "word": "日本火山",
+      "onboard_time": 1675939831,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -2752,14 +2768,6 @@
       "word": "躲春是迷信吗",
       "onboard_time": 1675486589,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 964329,
-      "num": 964329,
-      "word": "新疆禁毒形象大使不像演的",
-      "onboard_time": 1675936711,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -3849,6 +3857,14 @@
       "onboard_time": 1675785149,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 800778,
+      "num": 800778,
+      "word": "王者荣耀新英雄",
+      "onboard_time": 1675938153,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 796817,
@@ -5387,6 +5403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 629615,
+      "num": 600291,
+      "word": "婚检有多重要",
+      "onboard_time": 1675940491,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629485,
       "num": 629485,
       "word": "Angelababy的羽绒服",
@@ -5857,6 +5881,14 @@
       "onboard_time": 1675332513,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 586787,
+      "num": 586787,
+      "word": "HYBE正式宣布参与收购SMTOWN",
+      "onboard_time": 1675941033,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 586667,
@@ -6409,6 +6441,14 @@
       "onboard_time": 1675740390,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 545657,
+      "num": 545657,
+      "word": "13岁女孩4.82秒打破鲁班锁世界纪录",
+      "onboard_time": 1675935874,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 545543,
@@ -8947,6 +8987,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 399316,
+      "num": 399316,
+      "word": "点燃我温暖你韩版预告",
+      "onboard_time": 1675940191,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399284,
       "num": 399284,
       "word": "广东佛山地震多地有震感",
@@ -9193,14 +9241,6 @@
       "onboard_time": 1675865973,
       "rank": 31,
       "category": "科技"
-    },
-    {
-      "raw_hot": 390275,
-      "num": 390275,
-      "word": "13岁女孩4.82秒打破鲁班锁世界纪录",
-      "onboard_time": 1675935874,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 390228,
@@ -9563,6 +9603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 373474,
+      "num": 373474,
+      "word": "王一博邓超抱never对比",
+      "onboard_time": 1675937972,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373362,
       "num": 373362,
       "word": "民警为救自残轻生女子被连刺三刀",
@@ -9769,14 +9817,6 @@
       "onboard_time": 1675599511,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 366628,
-      "num": 366628,
-      "word": "王者荣耀新英雄",
-      "onboard_time": 1675938153,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 366536,
@@ -10539,14 +10579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 336558,
-      "num": 336558,
-      "word": "王一博邓超抱never对比",
-      "onboard_time": 1675937972,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 336326,
       "num": 336326,
       "word": "苏小玎 今年的京海可真冷啊",
@@ -10673,6 +10705,22 @@
       "onboard_time": 1675219109,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330484,
+      "num": 330484,
+      "word": "女明星集体回春",
+      "onboard_time": 1675941211,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 329519,
+      "num": 329519,
+      "word": "麦辣鸡翅实测热量高出官网40%",
+      "onboard_time": 1675939651,
+      "rank": 23,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 329366,
@@ -14523,6 +14571,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 226278,
+      "num": 226278,
+      "word": "阿凡达2再次延长上映",
+      "onboard_time": 1675939292,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226058,
       "num": 226058,
       "word": "想见你直播",
@@ -14825,6 +14881,14 @@
       "onboard_time": 1675330833,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 218826,
+      "num": 218826,
+      "word": "这不是奶茶杯是非法电子烟",
+      "onboard_time": 1675939472,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218659,
@@ -17083,6 +17147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179138,
+      "num": 179138,
+      "word": "4岁警犬凭实力成国家首批功勋犬",
+      "onboard_time": 1675937430,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178271,
       "num": 178271,
       "word": "ChatGPT称用其写作业或有道德问题",
@@ -17640,14 +17712,6 @@
       "word": "手机丢失后该怎么办",
       "onboard_time": 1675862312,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169945,
-      "num": 169945,
-      "word": "4岁警犬凭实力成国家首批功勋犬",
-      "onboard_time": 1675937430,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -18395,6 +18459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156710,
+      "num": 156710,
+      "word": "男子为转运盗走清代古石墩",
+      "onboard_time": 1675940852,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156625,
       "num": 156625,
       "word": "曼城",
@@ -18929,6 +19001,14 @@
       "onboard_time": 1675557144,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142936,
+      "num": 142936,
+      "word": "中方不接受美方关于两国防长通话的提议",
+      "onboard_time": 1675940910,
+      "rank": 47,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 142760,
@@ -20268,7 +20348,7 @@
     },
     {
       "raw_hot": 72646,
-      "num": 1340052,
+      "num": 1808894,
       "word": "采取更多惠民生暖民心举措",
       "onboard_time": 1675933412,
       "rank": 2,

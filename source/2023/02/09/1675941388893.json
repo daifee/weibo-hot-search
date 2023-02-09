@@ -1,0 +1,410 @@
+{
+  "runTime": 1675941388893,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2038599,
+        "num": 2038599,
+        "word": "新疆禁毒形象大使不像演的",
+        "onboard_time": 1675936711,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1906408,
+        "num": 1906408,
+        "word": "刘亚仁确认吸毒",
+        "onboard_time": 1675930527,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 38460,
+        "num": 1808894,
+        "word": "采取更多惠民生暖民心举措",
+        "onboard_time": 1675933412,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1745265,
+        "num": 1745265,
+        "word": "程潇泳装身材",
+        "onboard_time": 1675938031,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998448,
+        "num": 998448,
+        "word": "日本火山",
+        "onboard_time": 1675939831,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800778,
+        "num": 800778,
+        "word": "王者荣耀新英雄",
+        "onboard_time": 1675938153,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 758407,
+        "num": 758407,
+        "word": "一个出来了 一个进去了",
+        "onboard_time": 1675933351,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 728452,
+        "num": 728452,
+        "word": "程耳 无名开始盈利了",
+        "onboard_time": 1675935632,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 697289,
+        "num": 697289,
+        "word": "四川18岁溺亡女生生前录音曝光",
+        "onboard_time": 1675931611,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602717,
+        "num": 602717,
+        "word": "泫雅牙钻",
+        "onboard_time": 1675934431,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629615,
+        "num": 600291,
+        "word": "婚检有多重要",
+        "onboard_time": 1675940491,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593238,
+        "num": 593238,
+        "word": "比尔盖茨新女友",
+        "onboard_time": 1675936171,
+        "rank": 11,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 586787,
+        "num": 586787,
+        "word": "HYBE正式宣布参与收购SMTOWN",
+        "onboard_time": 1675941033,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545657,
+        "num": 545657,
+        "word": "13岁女孩4.82秒打破鲁班锁世界纪录",
+        "onboard_time": 1675935874,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542828,
+        "num": 542828,
+        "word": "女子应聘文秘被告知做老板女友",
+        "onboard_time": 1675935332,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490038,
+        "num": 490038,
+        "word": "YG大楼现状",
+        "onboard_time": 1675931668,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468808,
+        "num": 468808,
+        "word": "乳山银滩6万元可买一套海景房",
+        "onboard_time": 1675933952,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 432097,
+        "num": 432097,
+        "word": "张颂文说不适应被接机",
+        "onboard_time": 1675932573,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418497,
+        "num": 418497,
+        "word": "IU官咖概念照",
+        "onboard_time": 1675938753,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399316,
+        "num": 399316,
+        "word": "点燃我温暖你韩版预告",
+        "onboard_time": 1675940191,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373474,
+        "num": 373474,
+        "word": "王一博邓超抱never对比",
+        "onboard_time": 1675937972,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346465,
+        "num": 346465,
+        "word": "刘若清回应一辈子不想见张译",
+        "onboard_time": 1675918592,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330484,
+        "num": 330484,
+        "word": "女明星集体回春",
+        "onboard_time": 1675941211,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329519,
+        "num": 329519,
+        "word": "麦辣鸡翅实测热量高出官网40%",
+        "onboard_time": 1675939651,
+        "rank": 23,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 315108,
+        "num": 315108,
+        "word": "25年闺蜜谎称卖鸡蛋原是公司副董",
+        "onboard_time": 1675929448,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277574,
+        "num": 277574,
+        "word": "杭州一公司招聘2000元日薪凶宅试睡员",
+        "onboard_time": 1675917033,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258736,
+        "num": 258736,
+        "word": "还没阳过的孩子老人再感染可能性小",
+        "onboard_time": 1675935274,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255987,
+        "num": 255987,
+        "word": "张淇 单飞",
+        "onboard_time": 1675924351,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251227,
+        "num": 251227,
+        "word": "速写声明",
+        "onboard_time": 1675936171,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226278,
+        "num": 226278,
+        "word": "阿凡达2再次延长上映",
+        "onboard_time": 1675939292,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224824,
+        "num": 224824,
+        "word": "杜兰特加盟太阳",
+        "onboard_time": 1675923509,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224053,
+        "num": 224053,
+        "word": "讨厌没有边界感的大学生",
+        "onboard_time": 1675931851,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218826,
+        "num": 218826,
+        "word": "这不是奶茶杯是非法电子烟",
+        "onboard_time": 1675939472,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210258,
+        "num": 210258,
+        "word": "陈乔恩艾伦吵架",
+        "onboard_time": 1675926091,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209637,
+        "num": 209637,
+        "word": "胜利提前出狱",
+        "onboard_time": 1675927948,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 207366,
+        "num": 207366,
+        "word": "土耳其强震死亡人数上升至12873人",
+        "onboard_time": 1675926211,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195807,
+        "num": 195807,
+        "word": "凶宅试睡员2000一天系谣言",
+        "onboard_time": 1675938331,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186333,
+        "num": 186333,
+        "word": "狂飙实体书 安欣",
+        "onboard_time": 1675924949,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179138,
+        "num": 179138,
+        "word": "4岁警犬凭实力成国家首批功勋犬",
+        "onboard_time": 1675937430,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177220,
+        "num": 177220,
+        "word": "杨紫坐轮椅回剧组上班",
+        "onboard_time": 1675926509,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171742,
+        "num": 171742,
+        "word": "王丽坤代言",
+        "onboard_time": 1675921048,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166828,
+        "num": 166828,
+        "word": "刘亚仁等51人被调查",
+        "onboard_time": 1675931010,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 158305,
+        "num": 158305,
+        "word": "想见你直播",
+        "onboard_time": 1675933528,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156797,
+        "num": 156797,
+        "word": "我国人群总体免疫力处在较高时期",
+        "onboard_time": 1675928191,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156710,
+        "num": 156710,
+        "word": "男子为转运盗走清代古石墩",
+        "onboard_time": 1675940852,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145877,
+        "num": 145877,
+        "word": "工资是你应聘时最看重的条件吗",
+        "onboard_time": 1675918652,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145626,
+        "num": 145626,
+        "word": "刘耀文跳斧头帮舞",
+        "onboard_time": 1675937132,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142936,
+        "num": 142936,
+        "word": "中方不接受美方关于两国防长通话的提议",
+        "onboard_time": 1675940910,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 138821,
+        "num": 138821,
+        "word": "欧文说很高兴杜兰特离开篮网",
+        "onboard_time": 1675928490,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 130509,
+        "num": 130509,
+        "word": "狂飙庆功宴下班路透",
+        "onboard_time": 1675928971,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记深刻阐述中国式现代化#"
+    }
+  }
+}
