@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675911572952,
+  "endTime": 1675912966614,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -257,6 +257,14 @@
       "onboard_time": 1675839207,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1821507,
+      "num": 1821507,
+      "word": "央视评年轻人越来越反感专家",
+      "onboard_time": 1675911146,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1819389,
@@ -523,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1357509,
+      "num": 1357509,
+      "word": "姜超扮演者说小五是张译加的戏",
+      "onboard_time": 1675910127,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1354027,
       "num": 1354027,
       "word": "丈夫开车碾轧妻子案出新疑点",
@@ -552,14 +568,6 @@
       "word": "肖战白百何捉妖记2后二搭",
       "onboard_time": 1675760309,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1325822,
-      "num": 1325822,
-      "word": "姜超扮演者说小五是张译加的戏",
-      "onboard_time": 1675910127,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -889,6 +897,14 @@
       "onboard_time": 1675664368,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1021214,
+      "num": 1021214,
+      "word": "张艺兴的刘海",
+      "onboard_time": 1675911568,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 1019250,
@@ -1665,6 +1681,14 @@
       "onboard_time": 1675692931,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 711146,
+      "num": 711146,
+      "word": "重紫OST阵容",
+      "onboard_time": 1675911927,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 710754,
@@ -2595,6 +2619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 521938,
+      "num": 521938,
+      "word": "京城乔姐",
+      "onboard_time": 1675912228,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 521586,
       "num": 521586,
       "word": "女子想丁克妈妈说开心就好",
@@ -2641,6 +2673,14 @@
       "onboard_time": 1675674208,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 511897,
+      "num": 511897,
+      "word": "于正说白鹿的演技绝对王炸",
+      "onboard_time": 1675912827,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 511184,
@@ -2889,6 +2929,14 @@
       "onboard_time": 1675735885,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465106,
+      "num": 465106,
+      "word": "张颂文给李健上过课",
+      "onboard_time": 1675910666,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 462943,
@@ -3179,6 +3227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425407,
+      "num": 425407,
+      "word": "男子扮女装进入女浴室被拘",
+      "onboard_time": 1675911267,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423819,
       "num": 423819,
       "word": "江西一乡召开适龄未婚女青年座谈会",
@@ -3369,6 +3425,14 @@
       "onboard_time": 1675746754,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 400244,
+      "num": 400244,
+      "word": "湖南女孩突患白血病坚持卖草莓13年",
+      "onboard_time": 1675911685,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400142,
@@ -3649,14 +3713,6 @@
       "onboard_time": 1675670727,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 369367,
-      "num": 369367,
-      "word": "央视评年轻人越来越反感专家",
-      "onboard_time": 1675911146,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368710,
@@ -3953,14 +4009,6 @@
       "onboard_time": 1675591946,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 334640,
-      "num": 334640,
-      "word": "张艺兴的刘海",
-      "onboard_time": 1675911568,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 334593,
@@ -4491,14 +4539,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 296565,
-      "num": 296565,
-      "word": "张颂文给李健上过课",
-      "onboard_time": 1675910666,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 296402,
       "num": 296402,
       "word": "马嘉祺声生不息灰色毛衣上班路透",
@@ -4859,6 +4899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271835,
+      "num": 271835,
+      "word": "64岁奶奶为救患癌孙子化身超人",
+      "onboard_time": 1675912048,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270354,
       "num": 270354,
       "word": "2023上半年已定档40部新片",
@@ -5201,6 +5249,14 @@
       "onboard_time": 1675858948,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250070,
+      "num": 250070,
+      "word": "有的专家不了解年轻人却要指点他们",
+      "onboard_time": 1675912228,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249523,
@@ -5739,6 +5795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222010,
+      "num": 222010,
+      "word": "原来三体人害怕太空电梯",
+      "onboard_time": 1675911807,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221329,
       "num": 221329,
       "word": "新海诚铃芽之旅官宣定档",
@@ -5915,6 +5979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211495,
+      "num": 211495,
+      "word": "被我弄丢两次的王斤斤开通官博",
+      "onboard_time": 1675912768,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211229,
       "num": 202740,
       "word": "成毅吹笛子",
@@ -6067,6 +6139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202931,
+      "num": 202931,
+      "word": "地铁回应老人带孩子在车厢内小便",
+      "onboard_time": 1675912528,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202467,
       "num": 202467,
       "word": "柳智敏首场演唱会预告视频",
@@ -6193,14 +6273,6 @@
       "onboard_time": 1675646907,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195294,
-      "num": 195294,
-      "word": "男子扮女装进入女浴室被拘",
-      "onboard_time": 1675911267,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194932,
@@ -6553,6 +6625,14 @@
       "onboard_time": 1675834652,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181765,
+      "num": 181765,
+      "word": "40册永乐大典首次线上公开",
+      "onboard_time": 1675912709,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181605,

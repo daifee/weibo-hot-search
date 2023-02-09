@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675911572952,
+  "endTime": 1675912966614,
   "band_list": [
     {
       "raw_hot": 4001183,
@@ -9,6 +9,14 @@
       "onboard_time": 1675866815,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1821507,
+      "num": 1821507,
+      "word": "央视评年轻人越来越反感专家",
+      "onboard_time": 1675911146,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1819389,
@@ -51,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1325822,
-      "num": 1325822,
+      "raw_hot": 1357509,
+      "num": 1357509,
       "word": "姜超扮演者说小五是张译加的戏",
       "onboard_time": 1675910127,
       "rank": 5,
@@ -73,6 +81,14 @@
       "onboard_time": 1675898301,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1021214,
+      "num": 1021214,
+      "word": "张艺兴的刘海",
+      "onboard_time": 1675911568,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 980631,
@@ -155,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 711146,
+      "num": 711146,
+      "word": "重紫OST阵容",
+      "onboard_time": 1675911927,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 632226,
       "num": 632226,
       "word": "沈腾把张译袖子拽跳线了",
@@ -227,12 +251,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 521938,
+      "num": 521938,
+      "word": "京城乔姐",
+      "onboard_time": 1675912228,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 514753,
       "num": 514753,
       "word": "唐嫣宋亚轩埋头笑",
       "onboard_time": 1675868439,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 511897,
+      "num": 511897,
+      "word": "于正说白鹿的演技绝对王炸",
+      "onboard_time": 1675912827,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 510860,
@@ -283,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465106,
+      "num": 465106,
+      "word": "张颂文给李健上过课",
+      "onboard_time": 1675910666,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 456131,
       "num": 240312,
       "word": "姐夫酒驾送妻子去给小姨子顶包",
@@ -313,6 +361,14 @@
       "onboard_time": 1675861410,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 425407,
+      "num": 425407,
+      "word": "男子扮女装进入女浴室被拘",
+      "onboard_time": 1675911267,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421083,
@@ -347,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 400244,
+      "num": 400244,
+      "word": "湖南女孩突患白血病坚持卖草莓13年",
+      "onboard_time": 1675911685,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391187,
       "num": 391187,
       "word": "中国以全球最高价进口俄油系误导",
@@ -371,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369367,
-      "num": 369367,
-      "word": "央视评年轻人越来越反感专家",
-      "onboard_time": 1675911146,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366257,
       "num": 366257,
       "word": "疯狂动物城将拍续集",
@@ -393,14 +449,6 @@
       "onboard_time": 1675843711,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334640,
-      "num": 334640,
-      "word": "张艺兴的刘海",
-      "onboard_time": 1675911568,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 332496,
@@ -467,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 296565,
-      "num": 296565,
-      "word": "张颂文给李健上过课",
-      "onboard_time": 1675910666,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 295336,
       "num": 295336,
       "word": "流浪地球2将在俄罗斯上映",
@@ -507,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271835,
+      "num": 271835,
+      "word": "64岁奶奶为救患癌孙子化身超人",
+      "onboard_time": 1675912048,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263590,
       "num": 263590,
       "word": "湖人爵士森林狼商讨三方交易",
@@ -529,6 +577,14 @@
       "onboard_time": 1675868975,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250070,
+      "num": 250070,
+      "word": "有的专家不了解年轻人却要指点他们",
+      "onboard_time": 1675912228,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248396,
@@ -587,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222010,
+      "num": 222010,
+      "word": "原来三体人害怕太空电梯",
+      "onboard_time": 1675911807,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217718,
       "num": 217718,
       "word": "忠武路演员",
@@ -619,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211495,
+      "num": 211495,
+      "word": "被我弄丢两次的王斤斤开通官博",
+      "onboard_time": 1675912768,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206981,
       "num": 206981,
       "word": "你的年龄在古代有何雅称",
@@ -643,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202931,
+      "num": 202931,
+      "word": "地铁回应老人带孩子在车厢内小便",
+      "onboard_time": 1675912528,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202467,
       "num": 202467,
       "word": "柳智敏首场演唱会预告视频",
@@ -657,14 +737,6 @@
       "onboard_time": 1675865973,
       "rank": 23,
       "category": "科技"
-    },
-    {
-      "raw_hot": 195294,
-      "num": 195294,
-      "word": "男子扮女装进入女浴室被拘",
-      "onboard_time": 1675911267,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194085,
@@ -713,6 +785,14 @@
       "onboard_time": 1675873585,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181765,
+      "num": 181765,
+      "word": "40册永乐大典首次线上公开",
+      "onboard_time": 1675912709,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180489,

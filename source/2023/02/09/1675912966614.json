@@ -1,0 +1,410 @@
+{
+  "runTime": 1675912966614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1821507,
+        "num": 1821507,
+        "word": "央视评年轻人越来越反感专家",
+        "onboard_time": 1675911146,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1570647,
+        "num": 1570647,
+        "word": "女子销毁毒狗药物时中毒身亡",
+        "onboard_time": 1675907665,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246889,
+        "num": 1459025,
+        "word": "2022年度退补税怎么办理",
+        "onboard_time": 1675901065,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1360509,
+        "num": 1360509,
+        "word": "张元英毕业照公开",
+        "onboard_time": 1675908386,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1357509,
+        "num": 1357509,
+        "word": "姜超扮演者说小五是张译加的戏",
+        "onboard_time": 1675910127,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1349973,
+        "num": 1349973,
+        "word": "当事人承认相亲隔天结婚系炒作",
+        "onboard_time": 1675907906,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1053110,
+        "num": 1053110,
+        "word": "张大大连麦的女网友疑似被家暴",
+        "onboard_time": 1675898481,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1021214,
+        "num": 1021214,
+        "word": "张艺兴的刘海",
+        "onboard_time": 1675911568,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 800239,
+        "num": 800239,
+        "word": "唐小强",
+        "onboard_time": 1675903948,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 763195,
+        "num": 763195,
+        "word": "刘亚仁涉嫌吸毒",
+        "onboard_time": 1675866815,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 711146,
+        "num": 711146,
+        "word": "重紫OST阵容",
+        "onboard_time": 1675911927,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534840,
+        "num": 534840,
+        "word": "安欣再现红色高跟鞋名场面",
+        "onboard_time": 1675899794,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 521938,
+        "num": 521938,
+        "word": "京城乔姐",
+        "onboard_time": 1675912228,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 511897,
+        "num": 511897,
+        "word": "于正说白鹿的演技绝对王炸",
+        "onboard_time": 1675912827,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510668,
+        "num": 510668,
+        "word": "沈腾把张译袖子拽跳线了",
+        "onboard_time": 1675910188,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465106,
+        "num": 465106,
+        "word": "张颂文给李健上过课",
+        "onboard_time": 1675910666,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465085,
+        "num": 465085,
+        "word": "威少被交易到爵士",
+        "onboard_time": 1675907547,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456233,
+        "num": 456233,
+        "word": "湖人发生内讧",
+        "onboard_time": 1675904609,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438215,
+        "num": 438215,
+        "word": "任天堂",
+        "onboard_time": 1675909407,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 430932,
+        "num": 430932,
+        "word": "警局因接待动物幼崽太多专门配奶瓶",
+        "onboard_time": 1675908024,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425407,
+        "num": 425407,
+        "word": "男子扮女装进入女浴室被拘",
+        "onboard_time": 1675911267,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400244,
+        "num": 400244,
+        "word": "湖南女孩突患白血病坚持卖草莓13年",
+        "onboard_time": 1675911685,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388989,
+        "num": 388989,
+        "word": "李秀满的白骑士",
+        "onboard_time": 1675908624,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376532,
+        "num": 376532,
+        "word": "土耳其民众欢迎致敬蓝天救援队员",
+        "onboard_time": 1675907005,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374479,
+        "num": 374479,
+        "word": "谷歌AI犯错致市值一夜蒸发7172亿",
+        "onboard_time": 1675905567,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 368155,
+        "num": 368155,
+        "word": "霍格沃茨之遗",
+        "onboard_time": 1675908807,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 307839,
+        "num": 307839,
+        "word": "武汉医保改革重大调整",
+        "onboard_time": 1675905208,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300754,
+        "num": 300754,
+        "word": "异丙酚",
+        "onboard_time": 1675898301,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 288645,
+        "num": 288645,
+        "word": "土耳其地震已致12391人死亡",
+        "onboard_time": 1675905686,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285966,
+        "num": 285966,
+        "word": "迪士尼计划裁员7000人",
+        "onboard_time": 1675903409,
+        "rank": 29,
+        "category": "旅游,财经"
+      },
+      {
+        "raw_hot": 274983,
+        "num": 274983,
+        "word": "拉塞尔回归湖人",
+        "onboard_time": 1675907608,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273987,
+        "num": 273987,
+        "word": "北京下雪",
+        "onboard_time": 1675905208,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271835,
+        "num": 271835,
+        "word": "64岁奶奶为救患癌孙子化身超人",
+        "onboard_time": 1675912048,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256582,
+        "num": 256582,
+        "word": "hanni",
+        "onboard_time": 1675899864,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250070,
+        "num": 250070,
+        "word": "有的专家不了解年轻人却要指点他们",
+        "onboard_time": 1675912228,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233397,
+        "num": 233397,
+        "word": "井柏然片场踹一脚宋威龙还一拳",
+        "onboard_time": 1675910306,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222010,
+        "num": 222010,
+        "word": "原来三体人害怕太空电梯",
+        "onboard_time": 1675911807,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218625,
+        "num": 218625,
+        "word": "母亲废墟中诞下女婴后离世",
+        "onboard_time": 1675898358,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211495,
+        "num": 211495,
+        "word": "被我弄丢两次的王斤斤开通官博",
+        "onboard_time": 1675912768,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204297,
+        "num": 204297,
+        "word": "日本一沙滩惊现大量沙丁鱼",
+        "onboard_time": 1675881434,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202931,
+        "num": 202931,
+        "word": "地铁回应老人带孩子在车厢内小便",
+        "onboard_time": 1675912528,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198242,
+        "num": 198242,
+        "word": "微软必应下载量猛增10倍",
+        "onboard_time": 1675907367,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 190121,
+        "num": 190121,
+        "word": "陈妍希只看了梦华录前十集",
+        "onboard_time": 1675868022,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188587,
+        "num": 188587,
+        "word": "黑暗荣耀2正式前导预告",
+        "onboard_time": 1675904669,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181765,
+        "num": 181765,
+        "word": "40册永乐大典首次线上公开",
+        "onboard_time": 1675912709,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179164,
+        "num": 179164,
+        "word": "中国救援队成功营救第1位幸存者",
+        "onboard_time": 1675906947,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164510,
+        "num": 164510,
+        "word": "笔直铁轨因强震几乎弯成90度",
+        "onboard_time": 1675902146,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160292,
+        "num": 160292,
+        "word": "土耳其",
+        "onboard_time": 1675905507,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157931,
+        "num": 157931,
+        "word": "韩国规定异丙酚只能用于特殊治疗",
+        "onboard_time": 1675904849,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150411,
+        "num": 150411,
+        "word": "林晓峰的内衣自带加热棒",
+        "onboard_time": 1675899794,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#以协同合作激发科创潜力#"
+    }
+  }
+}
