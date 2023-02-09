@@ -1,6 +1,6 @@
 {
   "startTime": 1675873614083,
-  "endTime": 1675920824684,
+  "endTime": 1675923893091,
   "band_list": [
     {
       "raw_hot": 4001183,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1666583,
+      "num": 1666583,
+      "word": "杜兰特加盟太阳",
+      "onboard_time": 1675923509,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1654779,
       "num": 1654779,
       "word": "姜超扮演者说小五是张译加的戏",
@@ -88,6 +96,22 @@
       "word": "唐小强",
       "onboard_time": 1675903948,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1241381,
+      "num": 1241381,
+      "word": "王丽坤代言",
+      "onboard_time": 1675921048,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1217670,
+      "num": 1217670,
+      "word": "女子吃海鲜后腹痛就医出院当天死亡",
+      "onboard_time": 1675922006,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -203,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 807110,
+      "num": 807110,
+      "word": "女子带汉堡进星巴克被服务员拦下",
+      "onboard_time": 1675919011,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 802422,
       "num": 802422,
       "word": "谷歌AI犯错致市值一夜蒸发7172亿",
@@ -219,20 +251,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 777877,
-      "num": 777877,
-      "word": "女子带汉堡进星巴克被服务员拦下",
-      "onboard_time": 1675919011,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 759045,
       "num": 759045,
       "word": "通勤时间过长会有什么影响",
       "onboard_time": 1675896437,
       "rank": 1,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 735990,
+      "num": 735990,
+      "word": "工资是你应聘时最看重的条件吗",
+      "onboard_time": 1675918652,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 735441,
@@ -331,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 573618,
-      "num": 573618,
-      "word": "工资是你应聘时最看重的条件吗",
-      "onboard_time": 1675918652,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 585378,
+      "num": 585378,
+      "word": "王一博公司申请洛邑逸板商标",
+      "onboard_time": 1675921648,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 571725,
@@ -345,6 +377,14 @@
       "onboard_time": 1675905686,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561869,
+      "num": 561869,
+      "word": "陈乔恩说剩女是盛开的盛",
+      "onboard_time": 1675922006,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 557445,
@@ -459,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451527,
+      "num": 451527,
+      "word": "制片人谈狂飙演员片酬",
+      "onboard_time": 1675922188,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449359,
       "num": 449359,
       "word": "武汉医保改革重大调整",
@@ -473,6 +521,14 @@
       "onboard_time": 1675919791,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 435812,
+      "num": 288291,
+      "word": "京东疑似下架新冠口服药",
+      "onboard_time": 1675922847,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434889,
@@ -537,6 +593,14 @@
       "onboard_time": 1675907608,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 395613,
+      "num": 395613,
+      "word": "建议专家不要建议",
+      "onboard_time": 1675922549,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391187,
@@ -619,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356337,
+      "num": 356337,
+      "word": "五十公里桃花坞3 阵容",
+      "onboard_time": 1675921528,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351483,
       "num": 351483,
       "word": "郑钧主动下山接刘芸",
@@ -691,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308280,
+      "num": 308280,
+      "word": "千万不要在大风天出门遛狗",
+      "onboard_time": 1675921466,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 307824,
       "num": 307824,
       "word": "张译去不去狂飙庆功宴",
@@ -745,6 +825,14 @@
       "onboard_time": 1675917332,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289273,
+      "num": 289273,
+      "word": "龚俊被种地吧安排得明明白白",
+      "onboard_time": 1675920929,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 285312,
@@ -865,6 +953,14 @@
       "onboard_time": 1675865134,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244168,
+      "num": 244168,
+      "word": "王鹤棣纯白西装大片",
+      "onboard_time": 1675922549,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 241176,
@@ -1043,6 +1139,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 193793,
+      "num": 193793,
+      "word": "种地吧",
+      "onboard_time": 1675922968,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193394,
       "num": 193394,
       "word": "5成电动车起火发生在非充电状态",
@@ -1203,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142613,
+      "num": 142613,
+      "word": "高启强狂飙混剪",
+      "onboard_time": 1675922608,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137392,
       "num": 137392,
       "word": "苏小玎直播发言",
@@ -1225,6 +1337,14 @@
       "onboard_time": 1675858829,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129446,
+      "num": 129446,
+      "word": "倪妮智族GQ二月刊封面",
+      "onboard_time": 1675921709,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 123079,

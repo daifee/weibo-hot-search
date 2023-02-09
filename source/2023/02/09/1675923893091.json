@@ -1,0 +1,410 @@
+{
+  "runTime": 1675923893091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2124970,
+        "num": 2124970,
+        "word": "央视评年轻人越来越反感专家",
+        "onboard_time": 1675911146,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1666583,
+        "num": 1666583,
+        "word": "杜兰特加盟太阳",
+        "onboard_time": 1675923509,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143872,
+        "num": 1514228,
+        "word": "2022年度退补税怎么办理",
+        "onboard_time": 1675901065,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1488925,
+        "num": 1488925,
+        "word": "杭州一公司招聘2000元日薪凶宅试睡员",
+        "onboard_time": 1675917033,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1292352,
+        "num": 1292352,
+        "word": "刘若清回应一辈子不想见张译",
+        "onboard_time": 1675918592,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1241381,
+        "num": 1241381,
+        "word": "王丽坤代言",
+        "onboard_time": 1675921048,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1217670,
+        "num": 1217670,
+        "word": "女子吃海鲜后腹痛就医出院当天死亡",
+        "onboard_time": 1675922006,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807110,
+        "num": 807110,
+        "word": "女子带汉堡进星巴克被服务员拦下",
+        "onboard_time": 1675919011,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735990,
+        "num": 735990,
+        "word": "工资是你应聘时最看重的条件吗",
+        "onboard_time": 1675918652,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722611,
+        "num": 722611,
+        "word": "姜超扮演者说小五是张译加的戏",
+        "onboard_time": 1675910127,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585378,
+        "num": 585378,
+        "word": "王一博公司申请洛邑逸板商标",
+        "onboard_time": 1675921648,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561869,
+        "num": 561869,
+        "word": "陈乔恩说剩女是盛开的盛",
+        "onboard_time": 1675922006,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530105,
+        "num": 530105,
+        "word": "赵今麦小香风营业照",
+        "onboard_time": 1675917271,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 453314,
+        "num": 453314,
+        "word": "曝HYBE收购SMTOWN股份",
+        "onboard_time": 1675917091,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451527,
+        "num": 451527,
+        "word": "制片人谈狂飙演员片酬",
+        "onboard_time": 1675922188,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450948,
+        "num": 450948,
+        "word": "京东31亿元拿地",
+        "onboard_time": 1675916369,
+        "rank": 15,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 395613,
+        "num": 395613,
+        "word": "建议专家不要建议",
+        "onboard_time": 1675922549,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371330,
+        "num": 371330,
+        "word": "00后KTV必点曲目",
+        "onboard_time": 1675914209,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 356337,
+        "num": 356337,
+        "word": "五十公里桃花坞3 阵容",
+        "onboard_time": 1675921528,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323432,
+        "num": 323432,
+        "word": "虞书欣灰色短上衣造型",
+        "onboard_time": 1675919791,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620213,
+        "num": 319751,
+        "word": "女工人干活时在厕所5分钟产子",
+        "onboard_time": 1675913667,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351013,
+        "num": 317959,
+        "word": "医院回应14岁女孩被逼吸毒身亡",
+        "onboard_time": 1675916311,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314266,
+        "num": 314266,
+        "word": "魏大勋接梗",
+        "onboard_time": 1675917752,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308280,
+        "num": 308280,
+        "word": "千万不要在大风天出门遛狗",
+        "onboard_time": 1675921466,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306687,
+        "num": 306687,
+        "word": "张元英毕业照公开",
+        "onboard_time": 1675908386,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303939,
+        "num": 303939,
+        "word": "土耳其地震已致12391人死亡",
+        "onboard_time": 1675905686,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302433,
+        "num": 302433,
+        "word": "男子将夫妻共同财产赠与小三",
+        "onboard_time": 1675914448,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297195,
+        "num": 297195,
+        "word": "唐小强",
+        "onboard_time": 1675903948,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 292751,
+        "num": 292751,
+        "word": "LOL新英雄Milio",
+        "onboard_time": 1675915168,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289273,
+        "num": 289273,
+        "word": "龚俊被种地吧安排得明明白白",
+        "onboard_time": 1675920929,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435812,
+        "num": 288291,
+        "word": "京东疑似下架新冠口服药",
+        "onboard_time": 1675922847,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273031,
+        "num": 273031,
+        "word": "94岁南京大屠杀幸存者张惠霞去世",
+        "onboard_time": 1675918890,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267595,
+        "num": 267595,
+        "word": "张艺兴的刘海",
+        "onboard_time": 1675911568,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244168,
+        "num": 244168,
+        "word": "王鹤棣纯白西装大片",
+        "onboard_time": 1675922549,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 207197,
+        "num": 207197,
+        "word": "大侦探",
+        "onboard_time": 1675920629,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201570,
+        "num": 201570,
+        "word": "于冬说王一博在镜头下魅力四射",
+        "onboard_time": 1675920326,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197348,
+        "num": 197348,
+        "word": "张颂文给李健上过课",
+        "onboard_time": 1675910666,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193950,
+        "num": 193950,
+        "word": "重紫",
+        "onboard_time": 1675914448,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193793,
+        "num": 193793,
+        "word": "种地吧",
+        "onboard_time": 1675922968,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190688,
+        "num": 190688,
+        "word": "BOYSPLANET选手舞台reaction",
+        "onboard_time": 1675920569,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180702,
+        "num": 180702,
+        "word": "武汉医保改革重大调整",
+        "onboard_time": 1675905208,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167204,
+        "num": 167204,
+        "word": "陈楚生巡演开票",
+        "onboard_time": 1675917033,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162073,
+        "num": 162073,
+        "word": "刘亚仁涉嫌吸毒",
+        "onboard_time": 1675866815,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 157695,
+        "num": 157695,
+        "word": "张大大 拒绝任何形式的暴力",
+        "onboard_time": 1675917511,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154121,
+        "num": 154121,
+        "word": "成毅奶黄色毛衣上班路透",
+        "onboard_time": 1675919550,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150599,
+        "num": 150599,
+        "word": "湖人发生内讧",
+        "onboard_time": 1675904609,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144822,
+        "num": 144822,
+        "word": "郑钧主动下山接刘芸",
+        "onboard_time": 1675918532,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142613,
+        "num": 142613,
+        "word": "高启强狂飙混剪",
+        "onboard_time": 1675922608,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133226,
+        "num": 133226,
+        "word": "于正说白鹿的演技绝对王炸",
+        "onboard_time": 1675912827,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129446,
+        "num": 129446,
+        "word": "倪妮智族GQ二月刊封面",
+        "onboard_time": 1675921709,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}
