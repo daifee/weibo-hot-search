@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675971213537,
+  "endTime": 1675974011138,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -9755,6 +9755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 40038,
+      "num": 40038,
+      "word": "研究称ChatGPT或成传播网络谣言最强工具",
+      "onboard_time": 1675972032,
+      "rank": 13,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 39726,
       "num": 36740,
       "word": "你是从哪个角色认识肖战的",
@@ -9793,6 +9801,14 @@
       "onboard_time": 1675791854,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26631,
+      "num": 26631,
+      "word": "中国救援队员救出孕妇后激动击掌",
+      "onboard_time": 1675973112,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22895,
