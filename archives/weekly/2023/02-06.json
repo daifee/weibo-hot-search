@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675994768562,
+  "endTime": 1675997680898,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -129,6 +129,14 @@
       "onboard_time": 1675986629,
       "rank": 10,
       "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 2483114,
+      "num": 586432,
+      "word": "男生身高165cm你介意吗",
+      "onboard_time": 1675995092,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 2478307,
@@ -923,6 +931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1175022,
+      "num": 1175022,
+      "word": "韩国维持对自中国入境者的防疫措施",
+      "onboard_time": 1675992393,
+      "rank": 11,
+      "category": "国外要闻,旅游"
+    },
+    {
       "raw_hot": 1169308,
       "num": 1169308,
       "word": "成都平均月薪10039元",
@@ -1187,6 +1203,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1006999,
+      "num": 1006999,
+      "word": "00后拒绝服兵役受9项处罚",
+      "onboard_time": 1675993893,
+      "rank": 11,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 1004942,
       "num": 1004942,
       "word": "李恩曝少女神探导演与女生聊天记录",
@@ -1259,14 +1283,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 980334,
-      "num": 980334,
-      "word": "韩国维持对自中国入境者的防疫措施",
-      "onboard_time": 1675992393,
-      "rank": 11,
-      "category": "国外要闻,旅游"
-    },
-    {
       "raw_hot": 973744,
       "num": 973744,
       "word": "48岁老师去世天南海北学生赶回悼念",
@@ -1336,6 +1352,14 @@
       "word": "曝HYBE收购SMTOWN股份",
       "onboard_time": 1675917091,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 951351,
+      "num": 951351,
+      "word": "金希澈直播听到校园暴力的反应",
+      "onboard_time": 1675996473,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -1747,6 +1771,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 819853,
+      "num": 579856,
+      "word": "非正式会谈多位嘉宾缅怀唐小强",
+      "onboard_time": 1675996411,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 816841,
       "num": 816841,
       "word": "叙利亚地震后美国仍拒绝解除制裁",
@@ -1841,6 +1873,14 @@
       "onboard_time": 1675785149,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 800928,
+      "num": 800928,
+      "word": "非正式会谈",
+      "onboard_time": 1675744047,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 800778,
@@ -2571,14 +2611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 626095,
-      "num": 626095,
-      "word": "非正式会谈",
-      "onboard_time": 1675744047,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 623493,
       "num": 623493,
       "word": "撞脸毛不易的幼儿园园长是硕士毕业",
@@ -2619,6 +2651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619074,
+      "num": 619074,
+      "word": "特斯拉ModelY涨价2000",
+      "onboard_time": 1675995452,
+      "rank": 8,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 619056,
       "num": 619056,
       "word": "笔直铁轨因强震几乎弯成90度",
@@ -2649,6 +2689,14 @@
       "onboard_time": 1675781193,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 608874,
+      "num": 608874,
+      "word": "戚薇新剧演技",
+      "onboard_time": 1675994012,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 608237,
@@ -2969,6 +3017,14 @@
       "onboard_time": 1675915168,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 556662,
+      "num": 556662,
+      "word": "两对夫妻酒后寻刺激开房吸毒",
+      "onboard_time": 1675994370,
+      "rank": 24,
+      "category": "社会负面"
     },
     {
       "raw_hot": 556236,
@@ -3379,6 +3435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 513794,
+      "num": 513794,
+      "word": "魏大勋的衣服背面",
+      "onboard_time": 1675994250,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513566,
       "num": 513566,
       "word": "第一次见这么窄的房子",
@@ -3457,6 +3521,14 @@
       "onboard_time": 1675609412,
       "rank": 10,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 500798,
+      "num": 500798,
+      "word": "SMTOWN管理层反对HYBE收购",
+      "onboard_time": 1675994431,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 499667,
@@ -3691,6 +3763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 469054,
+      "num": 446437,
+      "word": "非正式会谈oo",
+      "onboard_time": 1675991735,
+      "rank": 13,
+      "category": "社会新闻,综艺"
+    },
+    {
       "raw_hot": 465311,
       "num": 465311,
       "word": "张译穿衣显瘦脱衣有肉",
@@ -3891,14 +3971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 443365,
-      "num": 443365,
-      "word": "非正式会谈oo",
-      "onboard_time": 1675991735,
-      "rank": 13,
-      "category": "社会新闻,综艺"
-    },
-    {
       "raw_hot": 442334,
       "num": 442334,
       "word": "格莱美",
@@ -4059,14 +4131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 430652,
-      "num": 430652,
-      "word": "00后拒绝服兵役受9项处罚",
-      "onboard_time": 1675993893,
-      "rank": 11,
-      "category": "社会新闻,军事"
-    },
-    {
       "raw_hot": 430621,
       "num": 430621,
       "word": "白鹿张凌赫片场斗嘴花絮",
@@ -4089,14 +4153,6 @@
       "onboard_time": 1675986809,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 428878,
-      "num": 428878,
-      "word": "SMTOWN管理层反对HYBE收购",
-      "onboard_time": 1675994431,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 427586,
@@ -4499,6 +4555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395474,
+      "num": 395474,
+      "word": "为照顾谈恋爱的人西湖长椅间距拉开",
+      "onboard_time": 1675992271,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 395244,
       "num": 395244,
       "word": "YSKM入院检查",
@@ -4616,14 +4680,6 @@
       "word": "2022台湾十大热门大陆剧",
       "onboard_time": 1675824567,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 379279,
-      "num": 379279,
-      "word": "戚薇新剧演技",
-      "onboard_time": 1675994012,
-      "rank": 18,
       "category": "影视"
     },
     {
@@ -4785,14 +4841,6 @@
       "onboard_time": 1675945112,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369387,
-      "num": 270567,
-      "word": "为照顾谈恋爱的人西湖长椅间距拉开",
-      "onboard_time": 1675992271,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 368710,
@@ -5195,6 +5243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334633,
+      "num": 334633,
+      "word": "德云社",
+      "onboard_time": 1675995931,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334593,
       "num": 334593,
       "word": "张若昀新剧演算呆子",
@@ -5241,14 +5297,6 @@
       "onboard_time": 1675600532,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 330182,
-      "num": 330182,
-      "word": "魏大勋的衣服背面",
-      "onboard_time": 1675994250,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 329279,
@@ -5337,14 +5385,6 @@
       "onboard_time": 1675774529,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 322859,
-      "num": 322859,
-      "word": "两对夫妻酒后寻刺激开房吸毒",
-      "onboard_time": 1675994370,
-      "rank": 24,
-      "category": "社会负面"
     },
     {
       "raw_hot": 322425,
@@ -6155,6 +6195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279413,
+      "num": 279413,
+      "word": "刘宇宁直播辟谣和贾士凯签约",
+      "onboard_time": 1675997610,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279266,
       "num": 279266,
       "word": "提前还贷比借钱难",
@@ -6337,6 +6385,14 @@
       "onboard_time": 1675988492,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 271044,
+      "num": 271044,
+      "word": "马斯克会议现场解雇推特高级工程师",
+      "onboard_time": 1675993710,
+      "rank": 40,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 270354,
@@ -7307,6 +7363,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 225194,
+      "num": 225194,
+      "word": "乡村女演员为演好角色手抄300万字",
+      "onboard_time": 1675996351,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225165,
       "num": 225165,
       "word": "张译的播音腔",
@@ -7585,14 +7649,6 @@
       "onboard_time": 1675683570,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213654,
-      "num": 213654,
-      "word": "马斯克会议现场解雇推特高级工程师",
-      "onboard_time": 1675993710,
-      "rank": 40,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 213230,
@@ -8355,6 +8411,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 183926,
+      "num": 183926,
+      "word": "首款招聘类ChatGPT产品上线",
+      "onboard_time": 1675996411,
+      "rank": 42,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 183908,
       "num": 183908,
       "word": "九尾春季赛定妆照猫咪pose",
@@ -8867,6 +8931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166612,
+      "num": 166612,
+      "word": "男子刷脸打卡必须开心呲牙才能通过",
+      "onboard_time": 1675997491,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166550,
       "num": 166550,
       "word": "三口之家的理想之旅",
@@ -9163,6 +9235,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 155876,
+      "num": 155876,
+      "word": "大张伟念证据全员人工配乐",
+      "onboard_time": 1675997011,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155626,
       "num": 155626,
       "word": "李宏毅说坐等帅家默",
@@ -9331,6 +9411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146624,
+      "num": 146624,
+      "word": "戈登被交易至快船",
+      "onboard_time": 1675997371,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145767,
       "num": 145767,
       "word": "狂飙每一个单元结尾都在十字路口",
@@ -9393,6 +9481,14 @@
       "onboard_time": 1675839628,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140561,
+      "num": 140561,
+      "word": "雪落故宫的古风氛围感",
+      "onboard_time": 1675996111,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139666,
