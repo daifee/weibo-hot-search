@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676003933517,
+  "endTime": 1676006278149,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -51,8 +51,8 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 4455427,
-      "num": 4455427,
+      "raw_hot": 4568872,
+      "num": 4568872,
       "word": "杨迪 没想到传来了最坏的消息",
       "onboard_time": 1676001273,
       "rank": 10,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2194100,
+      "num": 2194100,
+      "word": "QQ首位用户找到了",
+      "onboard_time": 1676001933,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2163507,
       "num": 2163507,
       "word": "新郎回应结婚当天前女友组团拉横幅",
@@ -321,14 +329,6 @@
       "onboard_time": 1675824027,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1943829,
-      "num": 1943829,
-      "word": "QQ首位用户找到了",
-      "onboard_time": 1676001933,
-      "rank": 6,
-      "category": "科技"
     },
     {
       "raw_hot": 1939497,
@@ -1603,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 895904,
+      "num": 895904,
+      "word": "kpop hpop",
+      "onboard_time": 1676003738,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 895806,
       "num": 895806,
       "word": "嘉行2023艺人合集没有杨幂",
@@ -1777,6 +1785,14 @@
       "onboard_time": 1675840650,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 834482,
+      "num": 834482,
+      "word": "女子新房住俩月竟是别人家",
+      "onboard_time": 1676004459,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 830645,
@@ -2171,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 739598,
+      "num": 739598,
+      "word": "国内高校已有学生用ChatGPT写论文",
+      "onboard_time": 1676001575,
+      "rank": 22,
+      "category": "教育,科技"
+    },
+    {
       "raw_hot": 735990,
       "num": 735990,
       "word": "工资是你应聘时最看重的条件吗",
@@ -2273,6 +2297,14 @@
       "onboard_time": 1675916311,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723662,
+      "num": 723662,
+      "word": "朱亚文曾说非常在意女生吃饭咀嚼动作大",
+      "onboard_time": 1676005177,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 722626,
@@ -2617,14 +2649,6 @@
       "onboard_time": 1675730730,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 645634,
-      "num": 645634,
-      "word": "国内高校已有学生用ChatGPT写论文",
-      "onboard_time": 1676001575,
-      "rank": 22,
-      "category": "教育,科技"
     },
     {
       "raw_hot": 645152,
@@ -3409,6 +3433,14 @@
       "onboard_time": 1675667247,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 528250,
+      "num": 528250,
+      "word": "网民称水浒毒害青少年应从课文中清除",
+      "onboard_time": 1676004337,
+      "rank": 18,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 525894,
@@ -4321,6 +4353,14 @@
       "onboard_time": 1675920326,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 426151,
+      "num": 426151,
+      "word": "女子无证驾驶出车祸想让父亲顶包",
+      "onboard_time": 1676003318,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426042,
@@ -5499,6 +5539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328187,
+      "num": 328187,
+      "word": "付心童患躁郁症在家烧纸",
+      "onboard_time": 1676003617,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 327746,
       "num": 327746,
       "word": "刘耀文跳斧头帮舞",
@@ -5657,22 +5705,6 @@
       "onboard_time": 1675833453,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 316360,
-      "num": 316360,
-      "word": "女子无证驾驶出车祸想让父亲顶包",
-      "onboard_time": 1676003318,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316284,
-      "num": 316284,
-      "word": "kpop hpop",
-      "onboard_time": 1676003738,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 316167,
@@ -6523,6 +6555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275607,
+      "num": 275607,
+      "word": "宋亚轩小揪揪造型路透",
+      "onboard_time": 1676006136,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275530,
       "num": 275530,
       "word": "如何看待高龄父母要生二胎",
@@ -6577,6 +6617,14 @@
       "onboard_time": 1675876159,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273788,
+      "num": 273788,
+      "word": "土耳其驻华大使馆发文哀悼唐小强",
+      "onboard_time": 1676005716,
+      "rank": 33,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 273770,
@@ -7145,14 +7193,6 @@
       "onboard_time": 1675824751,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247633,
-      "num": 247633,
-      "word": "付心童患躁郁症在家烧纸",
-      "onboard_time": 1676003617,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 247631,
@@ -10289,6 +10329,14 @@
       "onboard_time": 1675597469,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 103895,
+      "num": 725304,
+      "word": "星穹铁道跃迁测试",
+      "onboard_time": 1676005236,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 102656,
