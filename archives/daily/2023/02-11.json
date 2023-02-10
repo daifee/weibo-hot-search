@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676053460284,
+  "endTime": 1676054316859,
   "band_list": [
     {
       "raw_hot": 3687086,
@@ -187,8 +187,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 337559,
-      "num": 337559,
+      "raw_hot": 340129,
+      "num": 340129,
       "word": "浙江一写字楼顶似怨气冲天",
       "onboard_time": 1676050039,
       "rank": 43,
@@ -443,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46464,
+      "num": 46464,
+      "word": "吴京要为消防员补上没看完的电影",
+      "onboard_time": 1676053397,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 42038,
       "num": 42038,
       "word": "张颂文签名照被卖到8000元",
       "onboard_time": 1676022090,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39536,
-      "num": 39536,
-      "word": "吴京要为消防员补上没看完的电影",
-      "onboard_time": 1676053397,
-      "rank": 49,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
