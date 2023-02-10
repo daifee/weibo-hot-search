@@ -1,6 +1,6 @@
 {
   "startTime": 1675960021377,
-  "endTime": 1675993438336,
+  "endTime": 1675994768562,
   "band_list": [
     {
       "raw_hot": 8063331,
@@ -35,12 +35,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1095520,
-      "num": 1095520,
+      "raw_hot": 1274875,
+      "num": 1274875,
       "word": "狂飙剧中李响杯子掉落是无心的",
       "onboard_time": 1675988252,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1015352,
+      "num": 1015352,
+      "word": "垚组合再也聚不齐了",
+      "onboard_time": 1675989994,
+      "rank": 6,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1000965,
@@ -51,12 +59,12 @@
       "category": "国外要闻,旅游"
     },
     {
-      "raw_hot": 953999,
-      "num": 953999,
-      "word": "垚组合再也聚不齐了",
-      "onboard_time": 1675989994,
-      "rank": 6,
-      "category": "社会新闻,艺人"
+      "raw_hot": 980334,
+      "num": 980334,
+      "word": "韩国维持对自中国入境者的防疫措施",
+      "onboard_time": 1675992393,
+      "rank": 11,
+      "category": "国外要闻,旅游"
     },
     {
       "raw_hot": 842586,
@@ -131,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536687,
-      "num": 536687,
-      "word": "韩国维持对自中国入境者的防疫措施",
-      "onboard_time": 1675992393,
-      "rank": 11,
-      "category": "国外要闻,旅游"
-    },
-    {
       "raw_hot": 522506,
       "num": 333853,
       "word": "新疆禁毒形象大使不像演的",
@@ -203,12 +203,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430652,
+      "num": 430652,
+      "word": "00后拒绝服兵役受9项处罚",
+      "onboard_time": 1675993893,
+      "rank": 11,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 428943,
       "num": 428943,
       "word": "陈楚生拒绝快乐再出发内讧",
       "onboard_time": 1675986809,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 428878,
+      "num": 428878,
+      "word": "SMTOWN管理层反对HYBE收购",
+      "onboard_time": 1675994431,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 419221,
+      "num": 419221,
+      "word": "哪些职业容易被人工智能代替",
+      "onboard_time": 1675990115,
+      "rank": 18,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 415398,
@@ -243,14 +267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 399588,
-      "num": 399588,
-      "word": "哪些职业容易被人工智能代替",
-      "onboard_time": 1675990115,
-      "rank": 18,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 395339,
       "num": 395339,
       "word": "够一篇SCI的智齿",
@@ -275,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 379279,
+      "num": 379279,
+      "word": "戚薇新剧演技",
+      "onboard_time": 1675994012,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373666,
       "num": 373666,
       "word": "狂飙陈书婷到底美在哪里",
@@ -283,7 +307,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 361818,
+      "raw_hot": 369387,
       "num": 270567,
       "word": "为照顾谈恋爱的人西湖长椅间距拉开",
       "onboard_time": 1675992271,
@@ -321,6 +345,22 @@
       "onboard_time": 1675947812,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330182,
+      "num": 330182,
+      "word": "魏大勋的衣服背面",
+      "onboard_time": 1675994250,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 322859,
+      "num": 322859,
+      "word": "两对夫妻酒后寻刺激开房吸毒",
+      "onboard_time": 1675994370,
+      "rank": 24,
+      "category": "社会负面"
     },
     {
       "raw_hot": 319163,
@@ -371,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293696,
+      "num": 293696,
+      "word": "叙利亚总统怒斥西方",
+      "onboard_time": 1675964716,
+      "rank": 14,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 287605,
       "num": 287605,
       "word": "张颂文曾在红毯让伞给礼仪小姐",
@@ -379,20 +427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286819,
-      "num": 286819,
-      "word": "叙利亚总统怒斥西方",
-      "onboard_time": 1675964716,
-      "rank": 14,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 281630,
       "num": 245385,
       "word": "勇士开拓者交易",
       "onboard_time": 1675984761,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273770,
+      "num": 273770,
+      "word": "你最近感觉到机票价格变贵了吗",
+      "onboard_time": 1675993592,
+      "rank": 29,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 272857,
@@ -417,6 +465,14 @@
       "onboard_time": 1675948409,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 259064,
+      "num": 259064,
+      "word": "唐小强曾当过防疫志愿者",
+      "onboard_time": 1675994193,
+      "rank": 33,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 244760,
@@ -467,6 +523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 213654,
+      "num": 213654,
+      "word": "马斯克会议现场解雇推特高级工程师",
+      "onboard_time": 1675993710,
+      "rank": 40,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 207841,
       "num": 207841,
       "word": "很担心设计师的精神状态",
@@ -481,6 +545,14 @@
       "onboard_time": 1675992628,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198219,
+      "num": 198219,
+      "word": "AI生成能否掀起新一轮产业升级",
+      "onboard_time": 1675994734,
+      "rank": 43,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 198099,

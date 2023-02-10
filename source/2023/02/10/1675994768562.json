@@ -1,0 +1,410 @@
+{
+  "runTime": 1675994768562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6918516,
+        "num": 6918516,
+        "word": "唐小强确认遇难",
+        "onboard_time": 1675985242,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1274875,
+        "num": 1274875,
+        "word": "狂飙剧中李响杯子掉落是无心的",
+        "onboard_time": 1675988252,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34117,
+        "num": 1034822,
+        "word": "强信心稳经济促发展",
+        "onboard_time": 1675946131,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2573783,
+        "num": 1026302,
+        "word": "唐小强被搜救到时已遇难",
+        "onboard_time": 1675989994,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1015352,
+        "num": 1015352,
+        "word": "垚组合再也聚不齐了",
+        "onboard_time": 1675989994,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 980334,
+        "num": 980334,
+        "word": "韩国维持对自中国入境者的防疫措施",
+        "onboard_time": 1675992393,
+        "rank": 5,
+        "category": "国外要闻,旅游"
+      },
+      {
+        "raw_hot": 836309,
+        "num": 836309,
+        "word": "金韩一",
+        "onboard_time": 1675986868,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 830216,
+        "num": 830216,
+        "word": "韩明起恢复发放中国公民短期签证",
+        "onboard_time": 1675991437,
+        "rank": 7,
+        "category": "国外要闻,旅游"
+      },
+      {
+        "raw_hot": 697195,
+        "num": 697195,
+        "word": "李秀满方时赫发表共同立场",
+        "onboard_time": 1675992215,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633984,
+        "num": 633984,
+        "word": "华波波",
+        "onboard_time": 1675989155,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 580847,
+        "num": 580847,
+        "word": "非正式会谈",
+        "onboard_time": 1675986147,
+        "rank": 10,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 430652,
+        "num": 430652,
+        "word": "00后拒绝服兵役受9项处罚",
+        "onboard_time": 1675993893,
+        "rank": 11,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 428878,
+        "num": 428878,
+        "word": "SMTOWN管理层反对HYBE收购",
+        "onboard_time": 1675994431,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428531,
+        "num": 428531,
+        "word": "非正式会谈oo",
+        "onboard_time": 1675991735,
+        "rank": 13,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 427885,
+        "num": 427885,
+        "word": "2岁娃咳嗽50天查出硬币卡喉",
+        "onboard_time": 1675981394,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426838,
+        "num": 426838,
+        "word": "HYBE将成为SMTOWN最大股东",
+        "onboard_time": 1675987652,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419221,
+        "num": 419221,
+        "word": "哪些职业容易被人工智能代替",
+        "onboard_time": 1675990115,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 397328,
+        "num": 397328,
+        "word": "萨沙",
+        "onboard_time": 1675990836,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 379279,
+        "num": 379279,
+        "word": "戚薇新剧演技",
+        "onboard_time": 1675994012,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360042,
+        "num": 360042,
+        "word": "狂飙陈书婷到底美在哪里",
+        "onboard_time": 1675984881,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354823,
+        "num": 354823,
+        "word": "土耳其强震已造成17674人死亡",
+        "onboard_time": 1675989753,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347555,
+        "num": 347555,
+        "word": "C罗沙特超大四喜",
+        "onboard_time": 1675984761,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334662,
+        "num": 334662,
+        "word": "陈楚生拒绝快乐再出发内讧",
+        "onboard_time": 1675986809,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330182,
+        "num": 330182,
+        "word": "魏大勋的衣服背面",
+        "onboard_time": 1675994250,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322859,
+        "num": 322859,
+        "word": "两对夫妻酒后寻刺激开房吸毒",
+        "onboard_time": 1675994370,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 306840,
+        "num": 306840,
+        "word": "1分钟看懂ChatGPT是啥",
+        "onboard_time": 1675988012,
+        "rank": 25,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 293696,
+        "num": 293696,
+        "word": "叙利亚总统怒斥西方",
+        "onboard_time": 1675964716,
+        "rank": 26,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 287775,
+        "num": 287775,
+        "word": "曾舜晞陈都灵牵手同框路透",
+        "onboard_time": 1675989396,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274031,
+        "num": 274031,
+        "word": "上海月最低工资全国最高",
+        "onboard_time": 1675965857,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273770,
+        "num": 273770,
+        "word": "你最近感觉到机票价格变贵了吗",
+        "onboard_time": 1675993592,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1506721,
+        "num": 271782,
+        "word": "男孩身体不适7次举手后身亡",
+        "onboard_time": 1675986629,
+        "rank": 30,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 369387,
+        "num": 267669,
+        "word": "为照顾谈恋爱的人西湖长椅间距拉开",
+        "onboard_time": 1675992271,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 259339,
+        "num": 259339,
+        "word": "陈卓璇卡点为张艺凡庆生",
+        "onboard_time": 1675992034,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259064,
+        "num": 259064,
+        "word": "唐小强曾当过防疫志愿者",
+        "onboard_time": 1675994193,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 250005,
+        "num": 250005,
+        "word": "王阳台词功底",
+        "onboard_time": 1675992572,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238227,
+        "num": 238227,
+        "word": "叙利亚已收到千笔中国捐款",
+        "onboard_time": 1675947812,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234455,
+        "num": 234455,
+        "word": "重庆一女子称开锁广告被贴家门里面",
+        "onboard_time": 1675980134,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231316,
+        "num": 231316,
+        "word": "中国救援队成功营救出第3名幸存者",
+        "onboard_time": 1675987472,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221091,
+        "num": 221091,
+        "word": "云南省人类精子库倡议大学生捐精",
+        "onboard_time": 1675951295,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220402,
+        "num": 220402,
+        "word": "周鸿祎称搭不上ChatGPT企业会被淘汰",
+        "onboard_time": 1675988492,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 213654,
+        "num": 213654,
+        "word": "马斯克会议现场解雇推特高级工程师",
+        "onboard_time": 1675993710,
+        "rank": 40,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 205735,
+        "num": 205735,
+        "word": "男子为儿子上学找人办假证被判刑",
+        "onboard_time": 1675992393,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 203434,
+        "num": 203434,
+        "word": "小夫妻回应亲手剪掉名下所有信用卡",
+        "onboard_time": 1675955375,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 198219,
+        "num": 198219,
+        "word": "AI生成能否掀起新一轮产业升级",
+        "onboard_time": 1675994734,
+        "rank": 43,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 198153,
+        "num": 198153,
+        "word": "勇士开拓者交易",
+        "onboard_time": 1675984761,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195287,
+        "num": 195287,
+        "word": "梅西或无缘出战拜仁",
+        "onboard_time": 1675992628,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192478,
+        "num": 192478,
+        "word": "很担心设计师的精神状态",
+        "onboard_time": 1675987652,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191710,
+        "num": 191710,
+        "word": "成都街头现飞鸟撞树现象",
+        "onboard_time": 1675959213,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176958,
+        "num": 176958,
+        "word": "张朝阳再谈四小时睡眠法",
+        "onboard_time": 1675960408,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 162843,
+        "num": 162843,
+        "word": "王栎鑫喝海南凉茶差点吐了",
+        "onboard_time": 1675989994,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年共奋进#"
+    }
+  }
+}
