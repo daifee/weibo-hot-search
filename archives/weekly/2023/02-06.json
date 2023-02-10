@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676014418419,
+  "endTime": 1676017454533,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -193,6 +193,14 @@
       "onboard_time": 1675771410,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2415847,
+      "num": 2415847,
+      "word": "李易峰被代言商申请冻结80万财产",
+      "onboard_time": 1676013632,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2366961,
@@ -1371,6 +1379,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 979993,
+      "num": 979993,
+      "word": "年轻人为什么抛弃了QQ",
+      "onboard_time": 1676008891,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 977044,
       "num": 938782,
       "word": "大左 以后去土耳其的意义是为了看看你",
@@ -1449,14 +1465,6 @@
       "onboard_time": 1675917091,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 951966,
-      "num": 951966,
-      "word": "年轻人为什么抛弃了QQ",
-      "onboard_time": 1676008891,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 951351,
@@ -3123,6 +3131,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 576259,
+      "num": 576259,
+      "word": "刘亚仁尿检结果阳性",
+      "onboard_time": 1676016993,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 575870,
       "num": 532896,
       "word": "台湾花莲县4.7级地震",
@@ -3193,14 +3209,6 @@
       "onboard_time": 1675958256,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 566493,
-      "num": 566493,
-      "word": "李易峰被代言商申请冻结80万财产",
-      "onboard_time": 1676013632,
-      "rank": 12,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 563558,
@@ -3369,6 +3377,14 @@
       "onboard_time": 1675675648,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 545002,
+      "num": 545002,
+      "word": "你的QQ号码是几位数",
+      "onboard_time": 1676016273,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 543298,
@@ -3667,6 +3683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 519065,
+      "num": 519065,
+      "word": "马伊琍说自己谈恋爱很上头",
+      "onboard_time": 1676013934,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 518802,
       "num": 518802,
       "word": "女子剖腹产回家家人做轿子抬其上楼",
@@ -3779,6 +3803,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 504950,
+      "num": 504950,
+      "word": "蓝天救援队翻译是武大留学生",
+      "onboard_time": 1676012433,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504768,
       "num": 504768,
       "word": "父亲在废墟里牵着遇难女儿的手",
@@ -3865,6 +3897,14 @@
       "onboard_time": 1676008293,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497080,
+      "num": 497080,
+      "word": "谋女郎王佳怡首封",
+      "onboard_time": 1676017110,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 495177,
@@ -4779,6 +4819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 404119,
+      "num": 404119,
+      "word": "英雄联盟台服锁IP",
+      "onboard_time": 1676014535,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 402924,
       "num": 402924,
       "word": "刘宇宁直播辟谣和贾士凯签约",
@@ -4795,19 +4843,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 401474,
-      "num": 401474,
-      "word": "蓝天救援队翻译是武大留学生",
-      "onboard_time": 1676012433,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 401286,
       "num": 401286,
       "word": "年上有顾魏年下有盛阳",
       "onboard_time": 1675746754,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 400752,
+      "num": 400752,
+      "word": "安欣发现离婚骗局",
+      "onboard_time": 1676017412,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -5259,6 +5307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367124,
+      "num": 367124,
+      "word": "山东23人携52件装备赴土耳其救援",
+      "onboard_time": 1676013333,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366536,
       "num": 366536,
       "word": "男孩通宵赶完的作业被狗子全部撕碎",
@@ -5521,6 +5577,14 @@
       "onboard_time": 1675611691,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 343528,
+      "num": 343528,
+      "word": "卢伟冰称小米夺走华为五千万用户",
+      "onboard_time": 1676015252,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 342583,
@@ -6491,6 +6555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 290550,
+      "num": 290550,
+      "word": "龚琳娜跳kpop",
+      "onboard_time": 1676015372,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290234,
       "num": 290234,
       "word": "张真源翻唱版错位时空播放达百万",
@@ -6667,6 +6739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 280876,
+      "num": 280876,
+      "word": "速度与激情10先导预告",
+      "onboard_time": 1676013873,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280594,
       "num": 280594,
       "word": "声生不息台湾音乐回忆大赏",
@@ -6689,14 +6769,6 @@
       "onboard_time": 1675822287,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 278587,
-      "num": 278587,
-      "word": "山东23人携52件装备赴土耳其救援",
-      "onboard_time": 1676013333,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278298,
@@ -7995,14 +8067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222819,
-      "num": 222819,
-      "word": "速度与激情10先导预告",
-      "onboard_time": 1676013873,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 222584,
       "num": 222584,
       "word": "王子文想演三体人",
@@ -8203,6 +8267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214578,
+      "num": 214578,
+      "word": "狼队对战XYG",
+      "onboard_time": 1676014594,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214347,
       "num": 214347,
       "word": "朴彩英和VOGUE主编合照",
@@ -8361,6 +8433,14 @@
       "onboard_time": 1675901065,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206912,
+      "num": 291118,
+      "word": "冰墩墩分墩板镜墩来啦",
+      "onboard_time": 1676014053,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 206721,
@@ -9163,6 +9243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180747,
+      "num": 180747,
+      "word": "重紫全员科普重紫读音",
+      "onboard_time": 1676014714,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180489,
       "num": 180489,
       "word": "张若昀发博告别令人心动的offer",
@@ -9955,6 +10043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151129,
+      "num": 151129,
+      "word": "专家称延迟退休已是大势所趋",
+      "onboard_time": 1676017172,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150653,
       "num": 150653,
       "word": "波力海苔表面镶嵌一团毛球",
@@ -10001,14 +10097,6 @@
       "onboard_time": 1675671687,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148326,
-      "num": 212009,
-      "word": "冰墩墩分墩板镜墩来啦",
-      "onboard_time": 1676014053,
-      "rank": 39,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 147998,
@@ -10401,6 +10489,14 @@
       "onboard_time": 1675981996,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123989,
+      "num": 123989,
+      "word": "黑粉向白鹿道歉",
+      "onboard_time": 1676017353,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 123873,

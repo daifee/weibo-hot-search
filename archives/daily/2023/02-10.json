@@ -1,6 +1,6 @@
 {
   "startTime": 1675960021377,
-  "endTime": 1676014418419,
+  "endTime": 1676017454533,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -73,6 +73,14 @@
       "onboard_time": 1675986629,
       "rank": 10,
       "category": "社会负面,教育"
+    },
+    {
+      "raw_hot": 2415847,
+      "num": 2415847,
+      "word": "李易峰被代言商申请冻结80万财产",
+      "onboard_time": 1676013632,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2233676,
@@ -171,20 +179,20 @@
       "category": "国外要闻,旅游"
     },
     {
+      "raw_hot": 979993,
+      "num": 979993,
+      "word": "年轻人为什么抛弃了QQ",
+      "onboard_time": 1676008891,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 977044,
       "num": 938782,
       "word": "大左 以后去土耳其的意义是为了看看你",
       "onboard_time": 1676007511,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 951966,
-      "num": 951966,
-      "word": "年轻人为什么抛弃了QQ",
-      "onboard_time": 1676008891,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 951351,
@@ -427,6 +435,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 576259,
+      "num": 576259,
+      "word": "刘亚仁尿检结果阳性",
+      "onboard_time": 1676016993,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 569431,
       "num": 569431,
       "word": "成龙探班杨幂新片",
@@ -443,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566493,
-      "num": 566493,
-      "word": "李易峰被代言商申请冻结80万财产",
-      "onboard_time": 1676013632,
-      "rank": 12,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 556662,
       "num": 556662,
       "word": "两对夫妻酒后寻刺激开房吸毒",
@@ -465,6 +473,14 @@
       "onboard_time": 1675999233,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545002,
+      "num": 545002,
+      "word": "你的QQ号码是几位数",
+      "onboard_time": 1676016273,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 543298,
@@ -489,6 +505,14 @@
       "onboard_time": 1676008471,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 519065,
+      "num": 519065,
+      "word": "马伊琍说自己谈恋爱很上头",
+      "onboard_time": 1676013934,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 517818,
@@ -523,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504950,
+      "num": 504950,
+      "word": "蓝天救援队翻译是武大留学生",
+      "onboard_time": 1676012433,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500798,
       "num": 500798,
       "word": "SMTOWN管理层反对HYBE收购",
@@ -537,6 +569,14 @@
       "onboard_time": 1676008293,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497080,
+      "num": 497080,
+      "word": "谋女郎王佳怡首封",
+      "onboard_time": 1676017110,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 476515,
@@ -659,6 +699,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 404119,
+      "num": 404119,
+      "word": "英雄联盟台服锁IP",
+      "onboard_time": 1676014535,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 402924,
       "num": 402924,
       "word": "刘宇宁直播辟谣和贾士凯签约",
@@ -675,12 +723,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 401474,
-      "num": 401474,
-      "word": "蓝天救援队翻译是武大留学生",
-      "onboard_time": 1676012433,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 400752,
+      "num": 400752,
+      "word": "安欣发现离婚骗局",
+      "onboard_time": 1676017412,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 399980,
@@ -731,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367124,
+      "num": 367124,
+      "word": "山东23人携52件装备赴土耳其救援",
+      "onboard_time": 1676013333,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357982,
       "num": 357982,
       "word": "曝苹果所用USBC接口已加密",
@@ -769,6 +825,14 @@
       "onboard_time": 1675987472,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343528,
+      "num": 343528,
+      "word": "卢伟冰称小米夺走华为五千万用户",
+      "onboard_time": 1676015252,
+      "rank": 27,
+      "category": "科技"
     },
     {
       "raw_hot": 338073,
@@ -931,6 +995,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 290550,
+      "num": 290550,
+      "word": "龚琳娜跳kpop",
+      "onboard_time": 1676015372,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290234,
       "num": 290234,
       "word": "张真源翻唱版错位时空播放达百万",
@@ -955,12 +1027,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 278587,
-      "num": 278587,
-      "word": "山东23人携52件装备赴土耳其救援",
-      "onboard_time": 1676013333,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 280876,
+      "num": 280876,
+      "word": "速度与激情10先导预告",
+      "onboard_time": 1676013873,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 277446,
@@ -1107,14 +1179,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 222819,
-      "num": 222819,
-      "word": "速度与激情10先导预告",
-      "onboard_time": 1676013873,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 222421,
       "num": 222421,
       "word": "闵玧其夫硕顺舞蹈挑战",
@@ -1147,6 +1211,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 214578,
+      "num": 214578,
+      "word": "狼队对战XYG",
+      "onboard_time": 1676014594,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207841,
       "num": 207841,
       "word": "很担心设计师的精神状态",
@@ -1161,6 +1233,14 @@
       "onboard_time": 1675999114,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206912,
+      "num": 291118,
+      "word": "冰墩墩分墩板镜墩来啦",
+      "onboard_time": 1676014053,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 206216,
@@ -1257,6 +1337,14 @@
       "onboard_time": 1676009132,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180747,
+      "num": 180747,
+      "word": "重紫全员科普重紫读音",
+      "onboard_time": 1676014714,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 179083,
@@ -1363,20 +1451,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151129,
+      "num": 151129,
+      "word": "专家称延迟退休已是大势所趋",
+      "onboard_time": 1676017172,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150885,
       "num": 150885,
       "word": "王俊凯重庆话说开工大吉",
       "onboard_time": 1675952856,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148326,
-      "num": 212009,
-      "word": "冰墩墩分墩板镜墩来啦",
-      "onboard_time": 1676014053,
-      "rank": 39,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 147998,
@@ -1489,6 +1577,14 @@
       "onboard_time": 1675981996,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123989,
+      "num": 123989,
+      "word": "黑粉向白鹿道歉",
+      "onboard_time": 1676017353,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 120251,
