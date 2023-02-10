@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676056524098,
+  "endTime": 1676057635252,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -23243,6 +23243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72738,
+      "num": 72738,
+      "word": "可以不穿但是不能没有",
+      "onboard_time": 1676056034,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72646,
       "num": 1808894,
       "word": "采取更多惠民生暖民心举措",
@@ -23481,14 +23489,6 @@
       "onboard_time": 1675465636,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47196,
-      "num": 47196,
-      "word": "可以不穿但是不能没有",
-      "onboard_time": 1676056034,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 46806,
@@ -23761,6 +23761,14 @@
       "onboard_time": 1675882154,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21409,
+      "num": 21409,
+      "word": "2只火凤凰为了求偶上演风骚走位",
+      "onboard_time": 1676057594,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19714,

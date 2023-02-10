@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676056524098,
+  "endTime": 1676057635252,
   "band_list": [
     {
       "raw_hot": 3687086,
@@ -435,20 +435,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 72738,
+      "num": 72738,
+      "word": "可以不穿但是不能没有",
+      "onboard_time": 1676056034,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 55246,
       "num": 1260221,
       "word": "穿越机视角看中国大桥多震撼",
       "onboard_time": 1676037210,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47196,
-      "num": 47196,
-      "word": "可以不穿但是不能没有",
-      "onboard_time": 1676056034,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 46464,
@@ -465,6 +465,14 @@
       "onboard_time": 1676022090,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21409,
+      "num": 21409,
+      "word": "2只火凤凰为了求偶上演风骚走位",
+      "onboard_time": 1676057594,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

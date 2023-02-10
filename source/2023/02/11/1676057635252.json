@@ -1,0 +1,410 @@
+{
+  "runTime": 1676057635252,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 483850,
+        "num": 483850,
+        "word": "黄景瑜工作室声明",
+        "onboard_time": 1676044889,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222038,
+        "num": 222038,
+        "word": "SMTOWN曾反对加入中国成员",
+        "onboard_time": 1676045487,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13406,
+        "num": 189538,
+        "word": "穿越机视角看中国大桥多震撼",
+        "onboard_time": 1676037210,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159510,
+        "num": 159510,
+        "word": "浙江一写字楼顶似怨气冲天",
+        "onboard_time": 1676050039,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 124316,
+        "num": 124316,
+        "word": "郑州某医院再现半蹲式窗口",
+        "onboard_time": 1676044947,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123808,
+        "num": 123808,
+        "word": "有什么是你结婚后才明白的",
+        "onboard_time": 1676045847,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113237,
+        "num": 113237,
+        "word": "路人美国偶遇刘亦菲",
+        "onboard_time": 1676042432,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105885,
+        "num": 105885,
+        "word": "蓝天救援队在土耳其超市付款被拒收",
+        "onboard_time": 1676041650,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103195,
+        "num": 103195,
+        "word": "张颂文 为什么会这样",
+        "onboard_time": 1676022810,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75311,
+        "num": 75311,
+        "word": "yoyo颢鑫官宣",
+        "onboard_time": 1676041532,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 72738,
+        "num": 72738,
+        "word": "可以不穿但是不能没有",
+        "onboard_time": 1676056034,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67832,
+        "num": 67832,
+        "word": "张译经纪公司严正声明",
+        "onboard_time": 1676026052,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67275,
+        "num": 67275,
+        "word": "狂飙金句第一人",
+        "onboard_time": 1676042671,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66014,
+        "num": 66014,
+        "word": "姚薇帮安欣取证",
+        "onboard_time": 1676052617,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65695,
+        "num": 65695,
+        "word": "重庆将为在校女学生免费接种HPV疫苗",
+        "onboard_time": 1676043570,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 64174,
+        "num": 64174,
+        "word": "刘亦菲代言",
+        "onboard_time": 1676046326,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 62970,
+        "num": 62970,
+        "word": "易烊千玺被冻得双手握拳",
+        "onboard_time": 1676037810,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59564,
+        "num": 59564,
+        "word": "唐小强曾阻止家暴",
+        "onboard_time": 1676040932,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 54633,
+        "num": 54633,
+        "word": "第一次当爱豆的李泳知",
+        "onboard_time": 1676045429,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50154,
+        "num": 50154,
+        "word": "年轻人为什么抛弃了QQ",
+        "onboard_time": 1676008891,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 73972,
+        "num": 50092,
+        "word": "山东省人类精子库招募捐精志愿者",
+        "onboard_time": 1676036009,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49686,
+        "num": 49686,
+        "word": "房东的猫美好的昨天好治愈",
+        "onboard_time": 1676044108,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47275,
+        "num": 47275,
+        "word": "王一博向北美观众推荐无名",
+        "onboard_time": 1676044652,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46016,
+        "num": 46016,
+        "word": "王嘉尔说今年会在国内开演唱会",
+        "onboard_time": 1676041352,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44117,
+        "num": 44117,
+        "word": "田震说深深地怀疑周深",
+        "onboard_time": 1676036187,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43698,
+        "num": 43698,
+        "word": "听说你喜欢我",
+        "onboard_time": 1676038953,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43330,
+        "num": 43330,
+        "word": "四川捐精可获5000元补贴",
+        "onboard_time": 1676040873,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41820,
+        "num": 41820,
+        "word": "迪丽热巴 超能摄影阳阳",
+        "onboard_time": 1676011471,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40223,
+        "num": 40223,
+        "word": "宁波地铁每晚8点后免费",
+        "onboard_time": 1676037690,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37631,
+        "num": 37631,
+        "word": "17岁少年被困94小时喝尿液坚持获救",
+        "onboard_time": 1676028932,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36958,
+        "num": 36958,
+        "word": "迪丽热巴工作室晒维权通告",
+        "onboard_time": 1676011052,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34361,
+        "num": 34361,
+        "word": "时代少年团 秒切",
+        "onboard_time": 1676028272,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33817,
+        "num": 33817,
+        "word": "小钰Rookie比心",
+        "onboard_time": 1676041051,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33255,
+        "num": 33255,
+        "word": "吴世勋练习室版LoveShot",
+        "onboard_time": 1676042610,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33179,
+        "num": 33179,
+        "word": "叙利亚义卖香皂遭遇抢购",
+        "onboard_time": 1676031153,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33091,
+        "num": 33091,
+        "word": "张杰12年前陪小沈阳听歌错过洞房花烛夜",
+        "onboard_time": 1676028212,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32666,
+        "num": 32666,
+        "word": "王俊凯小鬼唱的花好月圆夜",
+        "onboard_time": 1676038774,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32001,
+        "num": 32001,
+        "word": "林孝埈500米小组第一晋级",
+        "onboard_time": 1676042671,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31679,
+        "num": 31679,
+        "word": "傅莹被厂里辞退",
+        "onboard_time": 1676048062,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31405,
+        "num": 31405,
+        "word": "胜利曾非法拍摄中国女性",
+        "onboard_time": 1676023353,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 30513,
+        "num": 30513,
+        "word": "张颂文签名照被卖到8000元",
+        "onboard_time": 1676022090,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30298,
+        "num": 30298,
+        "word": "封神",
+        "onboard_time": 1676028511,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29877,
+        "num": 29877,
+        "word": "孙俪谢娜魏大勋等人亮相成都",
+        "onboard_time": 1676032472,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29263,
+        "num": 29263,
+        "word": "中方回应美多州考虑禁止中国公民买房",
+        "onboard_time": 1676026890,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 28093,
+        "num": 28093,
+        "word": "唐嫣孙坚友谊",
+        "onboard_time": 1676035052,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27204,
+        "num": 27204,
+        "word": "相亲认识需不需要正式表白",
+        "onboard_time": 1676037573,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26076,
+        "num": 26076,
+        "word": "唐嫣感谢张杰唱的歌助攻何以笙箫默",
+        "onboard_time": 1676034270,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22942,
+        "num": 22942,
+        "word": "西安最倒霉面馆顾客暴涨员工数翻4倍",
+        "onboard_time": 1676024610,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22115,
+        "num": 22115,
+        "word": "iG冠军阵容赛场重遇",
+        "onboard_time": 1676043810,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21409,
+        "num": 21409,
+        "word": "2只火凤凰为了求偶上演风骚走位",
+        "onboard_time": 1676057594,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年看中国县域新发展#"
+    }
+  }
+}
