@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676003016564,
+  "endTime": 1676003933517,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -97,6 +97,14 @@
       "onboard_time": 1675249470,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 4455427,
+      "num": 4455427,
+      "word": "杨迪 没想到传来了最坏的消息",
+      "onboard_time": 1676001273,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 4410711,
@@ -217,14 +225,6 @@
       "onboard_time": 1675307681,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3144052,
-      "num": 905105,
-      "word": "杨迪 没想到传来了最坏的消息",
-      "onboard_time": 1676001273,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3122366,
@@ -755,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1943829,
+      "num": 1943829,
+      "word": "QQ首位用户找到了",
+      "onboard_time": 1676001933,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1939497,
       "num": 1939497,
       "word": "高叶和她的经纪人李洋",
@@ -1265,14 +1273,6 @@
       "onboard_time": 1675608872,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1555995,
-      "num": 1555995,
-      "word": "QQ首位用户找到了",
-      "onboard_time": 1676001933,
-      "rank": 6,
-      "category": "科技"
     },
     {
       "raw_hot": 1553141,
@@ -2131,6 +2131,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1175416,
+      "num": 1175416,
+      "word": "金博洋",
+      "onboard_time": 1676001396,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1172054,
       "num": 1172054,
       "word": "儿子监控中看到老父从房顶摔下瞬间泪奔",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1675824206,
       "rank": 42,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1159797,
-      "num": 1159797,
-      "word": "金博洋",
-      "onboard_time": 1676001396,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 1157625,
@@ -3195,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 926379,
+      "num": 903735,
+      "word": "原配要求退还钱款小三辩称那是工资",
+      "onboard_time": 1675999957,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 925476,
       "num": 925476,
       "word": "千斤棺木压手戴10年尾戒保住男子手指",
@@ -3353,14 +3361,6 @@
       "onboard_time": 1675481427,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 903735,
-      "num": 903735,
-      "word": "原配要求退还钱款小三辩称那是工资",
-      "onboard_time": 1675999957,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 903416,
@@ -5593,6 +5593,14 @@
       "onboard_time": 1675427610,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 645634,
+      "num": 645634,
+      "word": "国内高校已有学生用ChatGPT写论文",
+      "onboard_time": 1676001575,
+      "rank": 22,
+      "category": "教育,科技"
     },
     {
       "raw_hot": 645307,
@@ -8227,6 +8235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466411,
+      "num": 466411,
+      "word": "程耳梁朝伟王一博拍打戏前花絮",
+      "onboard_time": 1676003501,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 466339,
       "num": 466339,
       "word": "汤圆和元宵傻傻分不清",
@@ -8585,14 +8601,6 @@
       "onboard_time": 1675250731,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 445870,
-      "num": 445870,
-      "word": "国内高校已有学生用ChatGPT写论文",
-      "onboard_time": 1676001575,
-      "rank": 22,
-      "category": "教育,科技"
     },
     {
       "raw_hot": 445048,
@@ -10987,6 +10995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347729,
+      "num": 347729,
+      "word": "听说你喜欢我今晚开播",
+      "onboard_time": 1676001875,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 347290,
       "num": 347290,
       "word": "许诺 九尾",
@@ -11153,14 +11169,6 @@
       "onboard_time": 1675747110,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 342046,
-      "num": 342046,
-      "word": "听说你喜欢我今晚开播",
-      "onboard_time": 1676001875,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 341439,
@@ -11891,12 +11899,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316360,
+      "num": 316360,
+      "word": "女子无证驾驶出车祸想让父亲顶包",
+      "onboard_time": 1676003318,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316331,
       "num": 316331,
       "word": "王一博无名叶先生库存照",
       "onboard_time": 1675600952,
       "rank": 23,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 316284,
+      "num": 316284,
+      "word": "kpop hpop",
+      "onboard_time": 1676003738,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 316167,
@@ -12137,6 +12161,14 @@
       "onboard_time": 1675679491,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308360,
+      "num": 308360,
+      "word": "金博洋短节目85.32分",
+      "onboard_time": 1676002895,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 308217,
@@ -12849,6 +12881,14 @@
       "onboard_time": 1675534036,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290234,
+      "num": 290234,
+      "word": "张真源翻唱版错位时空播放达百万",
+      "onboard_time": 1676003198,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 290198,
@@ -13963,6 +14003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264173,
+      "num": 264173,
+      "word": "中国在土建造电站强震中未受损",
+      "onboard_time": 1676000855,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264168,
       "num": 264168,
       "word": "张远录制央视元宵晚会",
@@ -14689,6 +14737,14 @@
       "onboard_time": 1675491685,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247633,
+      "num": 247633,
+      "word": "付心童患躁郁症在家烧纸",
+      "onboard_time": 1676003617,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 247631,
@@ -15811,14 +15867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222165,
-      "num": 222165,
-      "word": "中国在土建造电站强震中未受损",
-      "onboard_time": 1676000855,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221945,
       "num": 221945,
       "word": "IG对战TT",
@@ -16443,6 +16491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206216,
+      "num": 206216,
+      "word": "仙舟十二时辰",
+      "onboard_time": 1676003257,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206193,
       "num": 206193,
       "word": "TES对战RA",
@@ -16505,6 +16561,14 @@
       "onboard_time": 1675409792,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205201,
+      "num": 205201,
+      "word": "湖人 阵容",
+      "onboard_time": 1676003917,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 205186,
@@ -17441,14 +17505,6 @@
       "onboard_time": 1675450454,
       "rank": 16,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 190145,
-      "num": 190145,
-      "word": "金博洋短节目85.32分",
-      "onboard_time": 1676002895,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 190097,
@@ -21148,7 +21204,7 @@
     },
     {
       "raw_hot": 114759,
-      "num": 3299302,
+      "num": 3476342,
       "word": "60秒速览神十五乘组首次出舱任务",
       "onboard_time": 1675998214,
       "rank": 2,
