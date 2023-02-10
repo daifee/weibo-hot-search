@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676067492602,
+  "endTime": 1676068503749,
   "band_list": [
     {
       "raw_hot": 3687086,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155972,
+      "num": 155972,
+      "word": "2只火凤凰为了求偶上演风骚走位",
+      "onboard_time": 1676057594,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152742,
       "num": 150796,
       "word": "最强大脑这期又燃又好哭",
@@ -411,10 +419,10 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 127728,
-      "num": 127728,
-      "word": "2只火凤凰为了求偶上演风骚走位",
-      "onboard_time": 1676057594,
+      "raw_hot": 130462,
+      "num": 87405,
+      "word": "70岁大姑妈家一尘不染侄女自叹不如",
+      "onboard_time": 1676063652,
       "rank": 49,
       "category": "社会新闻"
     },
@@ -435,14 +443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 102526,
-      "num": 70010,
-      "word": "70岁大姑妈家一尘不染侄女自叹不如",
-      "onboard_time": 1676063652,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100458,
       "num": 100458,
       "word": "年轻人为什么抛弃了QQ",
@@ -459,19 +459,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57962,
+      "num": 57962,
+      "word": "店家回应被质疑用鸭肉冒充牛肉",
+      "onboard_time": 1676061071,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55246,
       "num": 1260221,
       "word": "穿越机视角看中国大桥多震撼",
       "onboard_time": 1676037210,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53515,
-      "num": 53515,
-      "word": "店家回应被质疑用鸭肉冒充牛肉",
-      "onboard_time": 1676061071,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -481,6 +481,14 @@
       "onboard_time": 1676053397,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 44987,
+      "num": 44987,
+      "word": "永远不知道女生照片P了什么",
+      "onboard_time": 1676067013,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 42038,
@@ -497,14 +505,6 @@
       "onboard_time": 1676060893,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 17678,
-      "num": 17678,
-      "word": "永远不知道女生照片P了什么",
-      "onboard_time": 1676067013,
-      "rank": 49,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
