@@ -1,0 +1,410 @@
+{
+  "runTime": 1676025472380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2095163,
+        "num": 2095163,
+        "word": "张颂文 为什么会这样",
+        "onboard_time": 1676022810,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1529448,
+        "num": 1529448,
+        "word": "迪丽热巴 超能摄影阳阳",
+        "onboard_time": 1676011471,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11592,
+        "num": 1375476,
+        "word": "60秒速览神十五乘组首次出舱任务",
+        "onboard_time": 1675998214,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1372732,
+        "num": 1372732,
+        "word": "胜利曾非法拍摄中国女性",
+        "onboard_time": 1676023353,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 974446,
+        "num": 974446,
+        "word": "骑车拖行小猫致死当事人公开道歉",
+        "onboard_time": 1676019511,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951258,
+        "num": 951258,
+        "word": "带手镯做磁共振烫出一圈泡",
+        "onboard_time": 1676021671,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878255,
+        "num": 878255,
+        "word": "鹿晗夹克上好多袖子",
+        "onboard_time": 1676022692,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 829076,
+        "num": 829076,
+        "word": "QQ首位用户找到了",
+        "onboard_time": 1676001933,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 761873,
+        "num": 761873,
+        "word": "年轻人为什么抛弃了QQ",
+        "onboard_time": 1676008891,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 757567,
+        "num": 757567,
+        "word": "唐小强葬礼将在伊斯坦布尔举行",
+        "onboard_time": 1676018669,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654146,
+        "num": 654146,
+        "word": "张颂文签名照被卖到8000元",
+        "onboard_time": 1676022090,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584892,
+        "num": 584892,
+        "word": "男子躲查酒驾3次跳河血检结果为0",
+        "onboard_time": 1676023710,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581016,
+        "num": 581016,
+        "word": "张栋梁安慰情绪崩溃的胡宇桐",
+        "onboard_time": 1676023770,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576805,
+        "num": 576805,
+        "word": "迪丽热巴工作室晒维权通告",
+        "onboard_time": 1676011052,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537018,
+        "num": 537018,
+        "word": "大理地震",
+        "onboard_time": 1676019091,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522114,
+        "num": 522114,
+        "word": "杨迪 没想到传来了最坏的消息",
+        "onboard_time": 1676001273,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 511954,
+        "num": 511954,
+        "word": "纪委回应书记被绑架网传付千万赎金",
+        "onboard_time": 1676018071,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486161,
+        "num": 486161,
+        "word": "狂飙片头被指抄袭",
+        "onboard_time": 1676009431,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 470770,
+        "num": 470770,
+        "word": "婚纱店门口偶遇周扬青",
+        "onboard_time": 1676018911,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369790,
+        "num": 369790,
+        "word": "你的QQ号码是几位数",
+        "onboard_time": 1676016273,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 326964,
+        "num": 326964,
+        "word": "西安最倒霉面馆顾客暴涨员工数翻4倍",
+        "onboard_time": 1676024610,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311989,
+        "num": 311989,
+        "word": "艾薇儿 浪姐",
+        "onboard_time": 1676001396,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309260,
+        "num": 309260,
+        "word": "土耳其强震",
+        "onboard_time": 1676008471,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293095,
+        "num": 293095,
+        "word": "林孝埈1000米晋级",
+        "onboard_time": 1676020230,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288875,
+        "num": 288875,
+        "word": "杨紫199爱小香风造型路透",
+        "onboard_time": 1676021671,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286959,
+        "num": 286959,
+        "word": "boysplanet宿舍现状 唐僧进了盘丝洞",
+        "onboard_time": 1676023053,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286696,
+        "num": 286696,
+        "word": "刘敏涛说安欣的幸福由她来决定",
+        "onboard_time": 1676022992,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286633,
+        "num": 286633,
+        "word": "白羊座真的不是恋爱脑",
+        "onboard_time": 1676011471,
+        "rank": 27,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 775921,
+        "num": 283367,
+        "word": "李易峰被代言商申请冻结80万财产",
+        "onboard_time": 1676013632,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 202994,
+        "num": 276927,
+        "word": "干眼症真是绝症吗",
+        "onboard_time": 1676017353,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276451,
+        "num": 276451,
+        "word": "虞书欣粉色露背吊带造型",
+        "onboard_time": 1676020893,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268557,
+        "num": 268557,
+        "word": "女婴被埋废墟救援队听哭声救全家人",
+        "onboard_time": 1676021313,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263139,
+        "num": 263139,
+        "word": "TTG对战EDGM",
+        "onboard_time": 1676022749,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228856,
+        "num": 228856,
+        "word": "刘亚仁尿检结果阳性",
+        "onboard_time": 1676016993,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 225408,
+        "num": 225408,
+        "word": "小胖首发",
+        "onboard_time": 1676018973,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208375,
+        "num": 208375,
+        "word": "英雄联盟台服锁IP",
+        "onboard_time": 1676014535,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199013,
+        "num": 199013,
+        "word": "首批个人养老金理财产品名单公布",
+        "onboard_time": 1676021733,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197070,
+        "num": 197070,
+        "word": "D社说方时赫不是李秀满的白骑士",
+        "onboard_time": 1676014111,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191110,
+        "num": 191110,
+        "word": "于正谈吴谨言长期不进组",
+        "onboard_time": 1676008234,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187587,
+        "num": 187587,
+        "word": "大左 以后去土耳其的意义是为了看看你",
+        "onboard_time": 1676007511,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 182223,
+        "num": 182223,
+        "word": "马伊琍说自己谈恋爱很上头",
+        "onboard_time": 1676013934,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170620,
+        "num": 170620,
+        "word": "谋女郎王佳怡首封",
+        "onboard_time": 1676017110,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166579,
+        "num": 166579,
+        "word": "张朝阳主张病态的焦虑绝不能吃药",
+        "onboard_time": 1676024912,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 163533,
+        "num": 163533,
+        "word": "刘德华剧透流浪地球2删减内容",
+        "onboard_time": 1676017711,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162072,
+        "num": 162072,
+        "word": "何洁商场拉人看演出",
+        "onboard_time": 1676021850,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156547,
+        "num": 156547,
+        "word": "曝苹果所用USBC接口已加密",
+        "onboard_time": 1676009373,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138856,
+        "num": 138856,
+        "word": "浪姐4 录制名单",
+        "onboard_time": 1675998513,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135374,
+        "num": 135374,
+        "word": "马嘉祺模仿贺峻霖嘟嘴",
+        "onboard_time": 1676021011,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128641,
+        "num": 128641,
+        "word": "数千人申请领养废墟中出生女婴",
+        "onboard_time": 1676006435,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121083,
+        "num": 121083,
+        "word": "狼队战胜XYG",
+        "onboard_time": 1676021192,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年看中国县域新发展#"
+    }
+  }
+}
