@@ -1,6 +1,6 @@
 {
   "startTime": 1675960021377,
-  "endTime": 1676010324065,
+  "endTime": 1676011225931,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -59,8 +59,8 @@
       "category": "社会负面,教育"
     },
     {
-      "raw_hot": 2200977,
-      "num": 2200977,
+      "raw_hot": 2233676,
+      "num": 2233676,
       "word": "QQ首位用户找到了",
       "onboard_time": 1676001933,
       "rank": 6,
@@ -73,6 +73,22 @@
       "onboard_time": 1675998513,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1840656,
+      "num": 1840656,
+      "word": "狂飙片头被指抄袭",
+      "onboard_time": 1676009431,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1625505,
+      "num": 1625505,
+      "word": "迪丽热巴工作室晒维权通告",
+      "onboard_time": 1676011052,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1324624,
@@ -107,14 +123,6 @@
       "category": "国外要闻,旅游"
     },
     {
-      "raw_hot": 1210760,
-      "num": 1210760,
-      "word": "狂飙片头被指抄袭",
-      "onboard_time": 1676009431,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1175416,
       "num": 1175416,
       "word": "金博洋",
@@ -131,8 +139,8 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 1060987,
-      "num": 1060987,
+      "raw_hot": 1066228,
+      "num": 1066228,
       "word": "数千人申请领养废墟中出生女婴",
       "onboard_time": 1676006435,
       "rank": 16,
@@ -153,6 +161,22 @@
       "onboard_time": 1675991437,
       "rank": 5,
       "category": "国外要闻,旅游"
+    },
+    {
+      "raw_hot": 977044,
+      "num": 770997,
+      "word": "大左 以后去土耳其的意义是为了看看你",
+      "onboard_time": 1676007511,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 951966,
+      "num": 951966,
+      "word": "年轻人为什么抛弃了QQ",
+      "onboard_time": 1676008891,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 951351,
@@ -227,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 833732,
-      "num": 770997,
-      "word": "大左 以后去土耳其的意义是为了看看你",
-      "onboard_time": 1676007511,
-      "rank": 11,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 819853,
       "num": 598733,
       "word": "非正式会谈多位嘉宾缅怀唐小强",
@@ -267,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 782321,
-      "num": 782321,
-      "word": "年轻人为什么抛弃了QQ",
-      "onboard_time": 1676008891,
-      "rank": 9,
-      "category": "科技"
-    },
-    {
       "raw_hot": 764707,
       "num": 567321,
       "word": "云南省人类精子库倡议大学生捐精",
@@ -289,6 +297,14 @@
       "onboard_time": 1676001575,
       "rank": 22,
       "category": "教育,科技"
+    },
+    {
+      "raw_hot": 734785,
+      "num": 734785,
+      "word": "被穿旗袍的倪妮美晕",
+      "onboard_time": 1676008955,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 731742,
@@ -347,6 +363,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 670819,
+      "num": 670819,
+      "word": "专家建议年轻人不要跟风4小时睡眠法",
+      "onboard_time": 1676008772,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 662575,
+      "num": 662575,
+      "word": "土耳其强震",
+      "onboard_time": 1676008471,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619074,
       "num": 619074,
       "word": "特斯拉ModelY涨价2000",
@@ -361,14 +393,6 @@
       "onboard_time": 1675994012,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 605114,
-      "num": 605114,
-      "word": "专家建议年轻人不要跟风4小时睡眠法",
-      "onboard_time": 1676008772,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 590070,
@@ -419,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535623,
-      "num": 535623,
-      "word": "被穿旗袍的倪妮美晕",
-      "onboard_time": 1676008955,
-      "rank": 18,
-      "category": "作品衍生"
+      "raw_hot": 543298,
+      "num": 543298,
+      "word": "叶舒华棕发造型",
+      "onboard_time": 1676010573,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 522506,
@@ -523,6 +547,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 438247,
+      "num": 438247,
+      "word": "杨幂丸子头烟熏妆造型",
+      "onboard_time": 1676008772,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 437726,
       "num": 437726,
       "word": "张朝阳再谈四小时睡眠法",
@@ -537,14 +569,6 @@
       "onboard_time": 1675980134,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 436228,
-      "num": 436228,
-      "word": "杨幂丸子头烟熏妆造型",
-      "onboard_time": 1676008772,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 428943,
@@ -577,14 +601,6 @@
       "onboard_time": 1675990115,
       "rank": 18,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 417272,
-      "num": 417272,
-      "word": "土耳其强震",
-      "onboard_time": 1676008471,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 415398,
@@ -673,6 +689,14 @@
       "onboard_time": 1675984881,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 357982,
+      "num": 357982,
+      "word": "曝苹果所用USBC接口已加密",
+      "onboard_time": 1676009373,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 347729,
@@ -995,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238289,
-      "num": 238289,
-      "word": "曝苹果所用USBC接口已加密",
-      "onboard_time": 1676009373,
-      "rank": 34,
-      "category": "科技"
-    },
-    {
       "raw_hot": 228305,
       "num": 228305,
       "word": "首款招聘类ChatGPT产品上线",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1675996111,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139010,
+      "num": 139010,
+      "word": "重紫群像海报花絮",
+      "onboard_time": 1676010813,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 137411,

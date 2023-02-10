@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676010324065,
+  "endTime": 1676011225931,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2233676,
+      "num": 2233676,
+      "word": "QQ首位用户找到了",
+      "onboard_time": 1676001933,
+      "rank": 6,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2225159,
       "num": 2225159,
       "word": "张远压轴出息了",
@@ -553,14 +561,6 @@
       "onboard_time": 1675651467,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2200977,
-      "num": 2200977,
-      "word": "QQ首位用户找到了",
-      "onboard_time": 1676001933,
-      "rank": 6,
-      "category": "科技"
     },
     {
       "raw_hot": 2190525,
@@ -849,6 +849,14 @@
       "onboard_time": 1675595251,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1840656,
+      "num": 1840656,
+      "word": "狂飙片头被指抄袭",
+      "onboard_time": 1676009431,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1839550,
@@ -1177,6 +1185,14 @@
       "onboard_time": 1675588948,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1625505,
+      "num": 1625505,
+      "word": "迪丽热巴工作室晒维权通告",
+      "onboard_time": 1676011052,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1621073,
@@ -2059,14 +2075,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1210760,
-      "num": 1210760,
-      "word": "狂飙片头被指抄袭",
-      "onboard_time": 1676009431,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1207503,
       "num": 1207503,
       "word": "张译新剧再演警察",
@@ -2587,20 +2595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1066228,
+      "num": 1066228,
+      "word": "数千人申请领养废墟中出生女婴",
+      "onboard_time": 1676006435,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1062909,
       "num": 1062909,
       "word": "黄瑶写给安欣的信",
       "onboard_time": 1675254151,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1060987,
-      "num": 1060987,
-      "word": "数千人申请领养废墟中出生女婴",
-      "onboard_time": 1676006435,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1060545,
@@ -2915,6 +2923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 977044,
+      "num": 770997,
+      "word": "大左 以后去土耳其的意义是为了看看你",
+      "onboard_time": 1676007511,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 975836,
       "num": 975836,
       "word": "孟钰的包15万",
@@ -3065,6 +3081,14 @@
       "onboard_time": 1675176760,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 951966,
+      "num": 951966,
+      "word": "年轻人为什么抛弃了QQ",
+      "onboard_time": 1676008891,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 951351,
@@ -3843,14 +3867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 833732,
-      "num": 770997,
-      "word": "大左 以后去土耳其的意义是为了看看你",
-      "onboard_time": 1676007511,
-      "rank": 11,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 830645,
       "num": 830645,
       "word": "蔡徐坤头发已经褪色了",
@@ -4307,14 +4323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 782321,
-      "num": 782321,
-      "word": "年轻人为什么抛弃了QQ",
-      "onboard_time": 1676008891,
-      "rank": 9,
-      "category": "科技"
-    },
-    {
       "raw_hot": 780731,
       "num": 780731,
       "word": "00后在过一种很新的立春",
@@ -4665,6 +4673,14 @@
       "onboard_time": 1675824989,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 734785,
+      "num": 734785,
+      "word": "被穿旗袍的倪妮美晕",
+      "onboard_time": 1676008955,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 734647,
@@ -5411,6 +5427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 670819,
+      "num": 670819,
+      "word": "专家建议年轻人不要跟风4小时睡眠法",
+      "onboard_time": 1676008772,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670753,
       "num": 670753,
       "word": "震区女婴获救时脐带仍与遇难母亲相连",
@@ -5481,6 +5505,14 @@
       "onboard_time": 1675680512,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 662575,
+      "num": 662575,
+      "word": "土耳其强震",
+      "onboard_time": 1676008471,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662426,
@@ -6177,14 +6209,6 @@
       "onboard_time": 1675425806,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 605114,
-      "num": 605114,
-      "word": "专家建议年轻人不要跟风4小时睡眠法",
-      "onboard_time": 1676008772,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 600722,
@@ -7003,6 +7027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 543298,
+      "num": 543298,
+      "word": "叶舒华棕发造型",
+      "onboard_time": 1676010573,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 542155,
       "num": 510549,
       "word": "聊斋新志 汤直传",
@@ -7168,14 +7200,6 @@
       "word": "高叶跳舞",
       "onboard_time": 1675233812,
       "rank": 12,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 535623,
-      "num": 535623,
-      "word": "被穿旗袍的倪妮美晕",
-      "onboard_time": 1676008955,
-      "rank": 18,
       "category": "作品衍生"
     },
     {
@@ -8859,6 +8883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 438247,
+      "num": 438247,
+      "word": "杨幂丸子头烟熏妆造型",
+      "onboard_time": 1676008772,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 438241,
       "num": 438241,
       "word": "突然被亲一口的猫咪有多懵",
@@ -8905,14 +8937,6 @@
       "onboard_time": 1675663229,
       "rank": 11,
       "category": "影视,社会新闻"
-    },
-    {
-      "raw_hot": 436228,
-      "num": 436228,
-      "word": "杨幂丸子头烟熏妆造型",
-      "onboard_time": 1676008772,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 436200,
@@ -9385,14 +9409,6 @@
       "onboard_time": 1675674029,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 417272,
-      "num": 417272,
-      "word": "土耳其强震",
-      "onboard_time": 1676008471,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 416683,
@@ -10833,6 +10849,14 @@
       "onboard_time": 1675319434,
       "rank": 23,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 357982,
+      "num": 357982,
+      "word": "曝苹果所用USBC接口已加密",
+      "onboard_time": 1676009373,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 357903,
@@ -15297,14 +15321,6 @@
       "onboard_time": 1675332754,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238289,
-      "num": 238289,
-      "word": "曝苹果所用USBC接口已加密",
-      "onboard_time": 1676009373,
-      "rank": 34,
-      "category": "科技"
     },
     {
       "raw_hot": 238051,
@@ -20649,6 +20665,14 @@
       "onboard_time": 1675227276,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139010,
+      "num": 139010,
+      "word": "重紫群像海报花絮",
+      "onboard_time": 1676010813,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 138687,
