@@ -1,0 +1,410 @@
+{
+  "runTime": 1676020747170,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2179146,
+        "num": 2179146,
+        "word": "迪丽热巴 超能摄影阳阳",
+        "onboard_time": 1676011471,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1713951,
+        "num": 1713951,
+        "word": "李易峰被代言商申请冻结80万财产",
+        "onboard_time": 1676013632,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 25874,
+        "num": 1508774,
+        "word": "60秒速览神十五乘组首次出舱任务",
+        "onboard_time": 1675998214,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1472544,
+        "num": 1472544,
+        "word": "婚纱店门口偶遇周扬青",
+        "onboard_time": 1676018911,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1259043,
+        "num": 1259043,
+        "word": "QQ首位用户找到了",
+        "onboard_time": 1676001933,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1147185,
+        "num": 1147185,
+        "word": "你的QQ号码是几位数",
+        "onboard_time": 1676016273,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1040590,
+        "num": 1040590,
+        "word": "唐小强葬礼将在伊斯坦布尔举行",
+        "onboard_time": 1676018669,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974088,
+        "num": 974088,
+        "word": "杨迪 没想到传来了最坏的消息",
+        "onboard_time": 1676001273,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 916777,
+        "num": 916777,
+        "word": "年轻人为什么抛弃了QQ",
+        "onboard_time": 1676008891,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 677820,
+        "num": 677820,
+        "word": "狂飙片头被指抄袭",
+        "onboard_time": 1676009431,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 899390,
+        "num": 676723,
+        "word": "迪丽热巴工作室晒维权通告",
+        "onboard_time": 1676011052,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735918,
+        "num": 675430,
+        "word": "纪委回应书记被绑架网传付千万赎金",
+        "onboard_time": 1676018071,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672963,
+        "num": 672963,
+        "word": "骑车拖行小猫致死当事人公开道歉",
+        "onboard_time": 1676019511,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654274,
+        "num": 654274,
+        "word": "刘亚仁尿检结果阳性",
+        "onboard_time": 1676016993,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 569739,
+        "num": 569739,
+        "word": "大理地震",
+        "onboard_time": 1676019091,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548886,
+        "num": 548886,
+        "word": "艾薇儿 浪姐",
+        "onboard_time": 1676001396,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479041,
+        "num": 479041,
+        "word": "谋女郎王佳怡首封",
+        "onboard_time": 1676017110,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 435120,
+        "num": 435120,
+        "word": "土耳其强震",
+        "onboard_time": 1676008471,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434565,
+        "num": 434565,
+        "word": "马伊琍说自己谈恋爱很上头",
+        "onboard_time": 1676013934,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401030,
+        "num": 401030,
+        "word": "干眼症真是绝症吗",
+        "onboard_time": 1676017353,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373077,
+        "num": 373077,
+        "word": "专家称延迟退休已是大势所趋",
+        "onboard_time": 1676017172,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369891,
+        "num": 369891,
+        "word": "小胖首发",
+        "onboard_time": 1676018973,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350561,
+        "num": 350561,
+        "word": "白羊座真的不是恋爱脑",
+        "onboard_time": 1676011471,
+        "rank": 22,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 341365,
+        "num": 341365,
+        "word": "刘德华剧透流浪地球2删减内容",
+        "onboard_time": 1676017711,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330729,
+        "num": 330729,
+        "word": "大左 以后去土耳其的意义是为了看看你",
+        "onboard_time": 1676007511,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 317937,
+        "num": 317937,
+        "word": "英雄联盟台服锁IP",
+        "onboard_time": 1676014535,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 310058,
+        "num": 310058,
+        "word": "浪姐4 录制名单",
+        "onboard_time": 1675998513,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298443,
+        "num": 298443,
+        "word": "D社说方时赫不是李秀满的白骑士",
+        "onboard_time": 1676014111,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273375,
+        "num": 273375,
+        "word": "卢伟冰称小米夺走华为五千万用户",
+        "onboard_time": 1676015252,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 269280,
+        "num": 269280,
+        "word": "林孝埈1000米晋级",
+        "onboard_time": 1676020230,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249471,
+        "num": 249471,
+        "word": "数千人申请领养废墟中出生女婴",
+        "onboard_time": 1676006435,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249214,
+        "num": 249214,
+        "word": "于正谈吴谨言长期不进组",
+        "onboard_time": 1676008234,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219473,
+        "num": 219473,
+        "word": "杨笠自曝想改行",
+        "onboard_time": 1676018191,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213782,
+        "num": 213782,
+        "word": "蓝天救援队翻译是武大留学生",
+        "onboard_time": 1676012433,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210146,
+        "num": 210146,
+        "word": "曝苹果所用USBC接口已加密",
+        "onboard_time": 1676009373,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 203969,
+        "num": 203969,
+        "word": "仙人掌音乐节早鸟票",
+        "onboard_time": 1676018911,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196745,
+        "num": 196745,
+        "word": "原配要求退还钱款小三辩称那是工资",
+        "onboard_time": 1675999957,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191264,
+        "num": 191264,
+        "word": "龚琳娜跳kpop",
+        "onboard_time": 1676015372,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178434,
+        "num": 178434,
+        "word": "叶舒华棕发造型",
+        "onboard_time": 1676010573,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177829,
+        "num": 177829,
+        "word": "Deft注销ins",
+        "onboard_time": 1676013333,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176004,
+        "num": 176004,
+        "word": "QQ崩了",
+        "onboard_time": 1675998875,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 173579,
+        "num": 173579,
+        "word": "山东23人携52件装备赴土耳其救援",
+        "onboard_time": 1676013333,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173439,
+        "num": 173439,
+        "word": "唐小强确认遇难",
+        "onboard_time": 1675985242,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 172846,
+        "num": 172846,
+        "word": "kpop hpop",
+        "onboard_time": 1676003738,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170263,
+        "num": 170263,
+        "word": "狼队对战XYG",
+        "onboard_time": 1676014594,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161981,
+        "num": 161981,
+        "word": "马天宇白族装",
+        "onboard_time": 1676020591,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154994,
+        "num": 154994,
+        "word": "唐小强被搜救到时已遇难",
+        "onboard_time": 1675989994,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 145826,
+        "num": 145826,
+        "word": "翰林艺高毕业的爱豆们",
+        "onboard_time": 1676013212,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143422,
+        "num": 143422,
+        "word": "速度与激情10先导预告",
+        "onboard_time": 1676013873,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137584,
+        "num": 137584,
+        "word": "驾校偶遇张真源严浩翔学车",
+        "onboard_time": 1676008293,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}

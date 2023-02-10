@@ -1,6 +1,6 @@
 {
   "startTime": 1675960021377,
-  "endTime": 1676018304218,
+  "endTime": 1676020747170,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1472544,
+      "num": 1472544,
+      "word": "婚纱店门口偶遇周扬青",
+      "onboard_time": 1676018911,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1324624,
       "num": 1324624,
       "word": "金韩一",
@@ -147,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1147185,
+      "num": 1147185,
+      "word": "你的QQ号码是几位数",
+      "onboard_time": 1676016273,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1109059,
       "num": 1109059,
       "word": "00后拒绝服兵役受9项处罚",
@@ -160,6 +176,14 @@
       "word": "数千人申请领养废墟中出生女婴",
       "onboard_time": 1676006435,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1040590,
+      "num": 1040590,
+      "word": "唐小强葬礼将在伊斯坦布尔举行",
+      "onboard_time": 1676018669,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -249,14 +273,6 @@
       "onboard_time": 1676003738,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 858837,
-      "num": 858837,
-      "word": "你的QQ号码是几位数",
-      "onboard_time": 1676016273,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 858005,
@@ -355,6 +371,14 @@
       "category": "教育,科技"
     },
     {
+      "raw_hot": 735918,
+      "num": 675430,
+      "word": "纪委回应书记被绑架网传付千万赎金",
+      "onboard_time": 1676018071,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734785,
       "num": 734785,
       "word": "被穿旗袍的倪妮美晕",
@@ -419,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672963,
+      "num": 672963,
+      "word": "骑车拖行小猫致死当事人公开道歉",
+      "onboard_time": 1676019511,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 645005,
       "num": 596090,
       "word": "白羊座真的不是恋爱脑",
@@ -465,6 +497,14 @@
       "onboard_time": 1676013934,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 569739,
+      "num": 569739,
+      "word": "大理地震",
+      "onboard_time": 1676019091,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 569431,
@@ -747,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401030,
+      "num": 401030,
+      "word": "干眼症真是绝症吗",
+      "onboard_time": 1676017353,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399980,
       "num": 399980,
       "word": "重紫定档0215",
@@ -793,6 +841,14 @@
       "onboard_time": 1675984881,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 369891,
+      "num": 369891,
+      "word": "小胖首发",
+      "onboard_time": 1676018973,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 367124,
@@ -1083,14 +1139,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 273553,
-      "num": 287606,
-      "word": "干眼症真是绝症吗",
-      "onboard_time": 1676017353,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272857,
       "num": 272857,
       "word": "王阳台词功底",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1676006315,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 269280,
+      "num": 269280,
+      "word": "林孝埈1000米晋级",
+      "onboard_time": 1676020230,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 264840,
@@ -1235,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219473,
+      "num": 219473,
+      "word": "杨笠自曝想改行",
+      "onboard_time": 1676018191,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217337,
       "num": 217337,
       "word": "男子为儿子上学找人办假证被判刑",
@@ -1283,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203969,
+      "num": 203969,
+      "word": "仙人掌音乐节早鸟票",
+      "onboard_time": 1676018911,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199739,
       "num": 199739,
       "word": "高叶分享陈书婷的妆教vlog",
@@ -1321,14 +1393,6 @@
       "onboard_time": 1675978391,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196736,
-      "num": 196736,
-      "word": "杨笠自曝想改行",
-      "onboard_time": 1676018191,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 186837,
@@ -1451,20 +1515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165584,
-      "num": 165584,
-      "word": "纪委回应书记被绑架网传付千万赎金",
-      "onboard_time": 1676018071,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164429,
       "num": 164429,
       "word": "KPL新宣传片",
       "onboard_time": 1676006553,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161981,
+      "num": 161981,
+      "word": "马天宇白族装",
+      "onboard_time": 1676020591,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 160659,
