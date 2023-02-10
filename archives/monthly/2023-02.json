@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676039657459,
+  "endTime": 1676042407952,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -3995,6 +3995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 836753,
+      "num": 836753,
+      "word": "宁波地铁每晚8点后免费",
+      "onboard_time": 1676037690,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 835372,
       "num": 818067,
       "word": "公公回应女子被婆家罚跪跑圈",
@@ -4025,6 +4033,14 @@
       "onboard_time": 1676004459,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 834179,
+      "num": 834179,
+      "word": "相亲认识需不需要正式表白",
+      "onboard_time": 1676037573,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 830645,
@@ -5603,6 +5619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676750,
+      "num": 676750,
+      "word": "四川捐精可获5000元补贴",
+      "onboard_time": 1676040873,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 676409,
       "num": 676409,
       "word": "平采娜点赞迪丽热巴视频",
@@ -6499,6 +6523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 599920,
+      "num": 599920,
+      "word": "唐小强曾阻止家暴",
+      "onboard_time": 1676040932,
+      "rank": 9,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 599590,
       "num": 599590,
       "word": "张智霖在东北穿五件保暖衣",
@@ -6801,6 +6833,14 @@
       "onboard_time": 1675605454,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 579440,
+      "num": 579440,
+      "word": "yoyo颢鑫官宣",
+      "onboard_time": 1676041532,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 578474,
@@ -7177,6 +7217,14 @@
       "onboard_time": 1675428931,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 555835,
+      "num": 555835,
+      "word": "小钰Rookie比心",
+      "onboard_time": 1676041051,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 554447,
@@ -8587,6 +8635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474058,
+      "num": 474058,
+      "word": "王嘉尔上海活动红毯",
+      "onboard_time": 1676041772,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474010,
       "num": 474010,
       "word": "戚薇新剧海报多了一张嘴",
@@ -8753,14 +8809,6 @@
       "onboard_time": 1675735885,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 464491,
-      "num": 464491,
-      "word": "相亲认识需不需要正式表白",
-      "onboard_time": 1676037573,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 463718,
@@ -10971,6 +11019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371732,
+      "num": 371732,
+      "word": "王嘉尔说今年会在国内开演唱会",
+      "onboard_time": 1676041352,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371541,
       "num": 371541,
       "word": "正月十五中纪委连打三虎",
@@ -11579,6 +11635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 349126,
+      "num": 349126,
+      "word": "听说你喜欢我",
+      "onboard_time": 1676038953,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 348912,
       "num": 348912,
       "word": "11岁男孩独乘列车2天跨省返校",
@@ -11851,6 +11915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340237,
+      "num": 340237,
+      "word": "最强大脑",
+      "onboard_time": 1675434514,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339898,
       "num": 339898,
       "word": "李一桐给苏玖儿求爱情签",
@@ -11987,6 +12059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336524,
+      "num": 336524,
+      "word": "最强大脑这期又燃又好哭",
+      "onboard_time": 1676040270,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336326,
       "num": 336326,
       "word": "苏小玎 今年的京海可真冷啊",
@@ -12073,14 +12153,6 @@
       "onboard_time": 1675596571,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 332961,
-      "num": 332961,
-      "word": "宁波地铁每晚8点后免费",
-      "onboard_time": 1676037690,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332828,
@@ -12401,6 +12473,14 @@
       "onboard_time": 1675820427,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321553,
+      "num": 321553,
+      "word": "任嘉伦珍珠项链造型",
+      "onboard_time": 1676041412,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 321459,
@@ -14299,14 +14379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 274117,
-      "num": 274117,
-      "word": "听说你喜欢我",
-      "onboard_time": 1676038953,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 273845,
       "num": 273845,
       "word": "导演回应超女快男集体呼唤舞台",
@@ -15171,14 +15243,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 256204,
-      "num": 256204,
-      "word": "最强大脑",
-      "onboard_time": 1675434514,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255964,
       "num": 255964,
       "word": "程耳回复影迷有无名2",
@@ -15353,6 +15417,14 @@
       "onboard_time": 1675260096,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250660,
+      "num": 250660,
+      "word": "蓝天救援队在土耳其超市付款被拒收",
+      "onboard_time": 1676041650,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250545,
@@ -19851,6 +19923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171430,
+      "num": 171430,
+      "word": "土耳其女子为蓝天救援队员暖手",
+      "onboard_time": 1676042070,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171400,
       "num": 171400,
       "word": "湖人vs尼克斯",
@@ -20129,6 +20209,14 @@
       "onboard_time": 1675394008,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167897,
+      "num": 167897,
+      "word": "张杰神还原汤姆猫",
+      "onboard_time": 1676041592,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 167706,
@@ -20489,6 +20577,14 @@
       "onboard_time": 1675868262,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163127,
+      "num": 163127,
+      "word": "郑钦文状态",
+      "onboard_time": 1676039853,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 163112,

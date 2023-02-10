@@ -1,6 +1,6 @@
 {
   "startTime": 1675960021377,
-  "endTime": 1676039657459,
+  "endTime": 1676042407952,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -403,12 +403,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 836753,
+      "num": 836753,
+      "word": "宁波地铁每晚8点后免费",
+      "onboard_time": 1676037690,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 834482,
       "num": 834482,
       "word": "女子新房住俩月竟是别人家",
       "onboard_time": 1676004459,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 834179,
+      "num": 834179,
+      "word": "相亲认识需不需要正式表白",
+      "onboard_time": 1676037573,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 827388,
@@ -611,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 676750,
+      "num": 676750,
+      "word": "四川捐精可获5000元补贴",
+      "onboard_time": 1676040873,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659580,
       "num": 562391,
       "word": "英雄志疑似违规拍摄",
@@ -667,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 599920,
+      "num": 599920,
+      "word": "唐小强曾阻止家暴",
+      "onboard_time": 1676040932,
+      "rank": 9,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 590070,
       "num": 449283,
       "word": "鞠婧祎喝椰子水视频",
@@ -681,6 +713,14 @@
       "onboard_time": 1676023770,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 579440,
+      "num": 579440,
+      "word": "yoyo颢鑫官宣",
+      "onboard_time": 1676041532,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 576599,
@@ -737,6 +777,14 @@
       "onboard_time": 1675994370,
       "rank": 24,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 555835,
+      "num": 555835,
+      "word": "小钰Rookie比心",
+      "onboard_time": 1676041051,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 553603,
@@ -851,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474058,
+      "num": 474058,
+      "word": "王嘉尔上海活动红毯",
+      "onboard_time": 1676041772,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469054,
       "num": 446437,
       "word": "非正式会谈oo",
@@ -881,14 +937,6 @@
       "onboard_time": 1676003501,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 464491,
-      "num": 464491,
-      "word": "相亲认识需不需要正式表白",
-      "onboard_time": 1676037573,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 462708,
@@ -1123,6 +1171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371732,
+      "num": 371732,
+      "word": "王嘉尔说今年会在国内开演唱会",
+      "onboard_time": 1676041352,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367124,
       "num": 367124,
       "word": "山东23人携52件装备赴土耳其救援",
@@ -1171,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 349126,
+      "num": 349126,
+      "word": "听说你喜欢我",
+      "onboard_time": 1676038953,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 347729,
       "num": 347729,
       "word": "听说你喜欢我今晚开播",
@@ -1193,6 +1257,14 @@
       "onboard_time": 1675987472,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340237,
+      "num": 340237,
+      "word": "最强大脑",
+      "onboard_time": 1676039433,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 339468,
@@ -1227,20 +1299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336524,
+      "num": 336524,
+      "word": "最强大脑这期又燃又好哭",
+      "onboard_time": 1676040270,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334633,
       "num": 334633,
       "word": "德云社",
       "onboard_time": 1675995931,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 332961,
-      "num": 332961,
-      "word": "宁波地铁每晚8点后免费",
-      "onboard_time": 1676037690,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328187,
@@ -1257,6 +1329,14 @@
       "onboard_time": 1676007511,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321553,
+      "num": 321553,
+      "word": "任嘉伦珍珠项链造型",
+      "onboard_time": 1676041412,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 321022,
@@ -1515,14 +1595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274117,
-      "num": 274117,
-      "word": "听说你喜欢我",
-      "onboard_time": 1676038953,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 273770,
       "num": 273770,
       "word": "你最近感觉到机票价格变贵了吗",
@@ -1627,12 +1699,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 256204,
-      "num": 256204,
-      "word": "最强大脑",
-      "onboard_time": 1676039433,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 250660,
+      "num": 250660,
+      "word": "蓝天救援队在土耳其超市付款被拒收",
+      "onboard_time": 1676041650,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249414,
@@ -2051,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171430,
+      "num": 171430,
+      "word": "土耳其女子为蓝天救援队员暖手",
+      "onboard_time": 1676042070,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170940,
       "num": 170940,
       "word": "研究称ChatGPT或成传播网络谣言最强工具",
@@ -2073,6 +2153,14 @@
       "onboard_time": 1675961365,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167897,
+      "num": 167897,
+      "word": "张杰神还原汤姆猫",
+      "onboard_time": 1676041592,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 167562,
@@ -2121,6 +2209,14 @@
       "onboard_time": 1676006553,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163127,
+      "num": 163127,
+      "word": "郑钦文状态",
+      "onboard_time": 1676039853,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 161981,
