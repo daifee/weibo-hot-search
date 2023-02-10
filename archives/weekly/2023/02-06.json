@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676049477680,
+  "endTime": 1676050473409,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -11849,6 +11849,14 @@
       "onboard_time": 1675787184,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88596,
+      "num": 88596,
+      "word": "浙江一写字楼顶似怨气冲天",
+      "onboard_time": 1676050039,
+      "rank": 43,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 87689,
