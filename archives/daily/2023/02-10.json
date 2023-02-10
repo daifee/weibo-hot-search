@@ -1,6 +1,6 @@
 {
   "startTime": 1675960021377,
-  "endTime": 1676013477101,
+  "endTime": 1676014418419,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645005,
+      "num": 596090,
+      "word": "白羊座真的不是恋爱脑",
+      "onboard_time": 1676011471,
+      "rank": 17,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 619074,
       "num": 619074,
       "word": "特斯拉ModelY涨价2000",
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566493,
+      "num": 566493,
+      "word": "李易峰被代言商申请冻结80万财产",
+      "onboard_time": 1676013632,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 556662,
       "num": 556662,
       "word": "两对夫妻酒后寻刺激开房吸毒",
@@ -473,14 +489,6 @@
       "onboard_time": 1676008471,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 518774,
-      "num": 518774,
-      "word": "白羊座真的不是恋爱脑",
-      "onboard_time": 1676011471,
-      "rank": 17,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 517818,
@@ -561,6 +569,14 @@
       "onboard_time": 1675955375,
       "rank": 5,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 450523,
+      "num": 450523,
+      "word": "D社说方时赫不是李秀满的白骑士",
+      "onboard_time": 1676014111,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 438247,
@@ -659,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401474,
+      "num": 401474,
+      "word": "蓝天救援队翻译是武大留学生",
+      "onboard_time": 1676012433,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399980,
       "num": 399980,
       "word": "重紫定档0215",
@@ -713,6 +737,14 @@
       "onboard_time": 1676009373,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 351084,
+      "num": 351084,
+      "word": "Deft注销ins",
+      "onboard_time": 1676013333,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 347729,
@@ -923,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278587,
+      "num": 278587,
+      "word": "山东23人携52件装备赴土耳其救援",
+      "onboard_time": 1676013333,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277446,
       "num": 277446,
       "word": "马斯克会议现场解雇推特高级工程师",
@@ -1019,14 +1059,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 250330,
-      "num": 250330,
-      "word": "蓝天救援队翻译是武大留学生",
-      "onboard_time": 1676012433,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244760,
       "num": 244760,
       "word": "暴雪CEO说腾讯和字节是最好的公司",
@@ -1059,12 +1091,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232719,
+      "num": 232719,
+      "word": "90后女子回村种香椿3月挣8万",
+      "onboard_time": 1676013091,
+      "rank": 48,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 228305,
       "num": 228305,
       "word": "首款招聘类ChatGPT产品上线",
       "onboard_time": 1675996411,
       "rank": 42,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 222819,
+      "num": 222819,
+      "word": "速度与激情10先导预告",
+      "onboard_time": 1676013873,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 222421,
@@ -1081,6 +1129,14 @@
       "onboard_time": 1675941033,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221506,
+      "num": 221506,
+      "word": "珀尔特尔被交易至猛龙",
+      "onboard_time": 1676011413,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 217337,
@@ -1131,14 +1187,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 199344,
-      "num": 199344,
-      "word": "珀尔特尔被交易至猛龙",
-      "onboard_time": 1676011413,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198841,
       "num": 198841,
       "word": "梅西或无缘出战拜仁",
@@ -1168,14 +1216,6 @@
       "word": "土耳其一男子告别遇难未婚妻",
       "onboard_time": 1675978391,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190173,
-      "num": 190173,
-      "word": "山东23人携52件装备赴土耳其救援",
-      "onboard_time": 1676013333,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1331,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148326,
+      "num": 212009,
+      "word": "冰墩墩分墩板镜墩来啦",
+      "onboard_time": 1676014053,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 147998,
       "num": 112416,
       "word": "勇士交易怀斯曼",
@@ -1345,14 +1393,6 @@
       "onboard_time": 1675945170,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144241,
-      "num": 144241,
-      "word": "Deft注销ins",
-      "onboard_time": 1676013333,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 144209,
@@ -1401,14 +1441,6 @@
       "onboard_time": 1675946312,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134571,
-      "num": 134571,
-      "word": "90后女子回村种香椿3月挣8万",
-      "onboard_time": 1676013091,
-      "rank": 48,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 132478,
