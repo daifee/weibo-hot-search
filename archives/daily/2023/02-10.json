@@ -1,6 +1,6 @@
 {
   "startTime": 1675960021377,
-  "endTime": 1676038665710,
+  "endTime": 1676039657459,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -131,20 +131,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1856004,
+      "num": 1856004,
+      "word": "易烊千玺被冻得双手握拳",
+      "onboard_time": 1676037810,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1840656,
       "num": 1840656,
       "word": "狂飙片头被指抄袭",
       "onboard_time": 1676009431,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1546017,
-      "num": 1546017,
-      "word": "易烊千玺被冻得双手握拳",
-      "onboard_time": 1676037810,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1472544,
@@ -155,7 +155,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1386829,
+      "raw_hot": 1422108,
       "num": 1264766,
       "word": "山东省人类精子库招募捐精志愿者",
       "onboard_time": 1676036009,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 827388,
+      "num": 679725,
+      "word": "妈妈买鞋替20岁儿子挽回女友",
+      "onboard_time": 1676037633,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 819853,
       "num": 598733,
       "word": "非正式会谈多位嘉宾缅怀唐小强",
@@ -595,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 682932,
+      "num": 682932,
+      "word": "王俊凯小鬼唱的花好月圆夜",
+      "onboard_time": 1676038774,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 659580,
       "num": 562391,
       "word": "英雄志疑似违规拍摄",
@@ -721,6 +737,14 @@
       "onboard_time": 1675994370,
       "rank": 24,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 553603,
+      "num": 526429,
+      "word": "粉丝喊话宋亚轩首切第一",
+      "onboard_time": 1676039071,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 550535,
@@ -857,6 +881,14 @@
       "onboard_time": 1676003501,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 464491,
+      "num": 464491,
+      "word": "相亲认识需不需要正式表白",
+      "onboard_time": 1676037573,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 462708,
@@ -1163,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339468,
+      "num": 339468,
+      "word": "胡夏唱过100多首OST",
+      "onboard_time": 1676039011,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338073,
       "num": 338073,
       "word": "金泰妍将solo回归",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1675995931,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 332961,
+      "num": 332961,
+      "word": "宁波地铁每晚8点后免费",
+      "onboard_time": 1676037690,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328187,
@@ -1355,14 +1403,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 296943,
-      "num": 296943,
-      "word": "相亲认识需不需要正式表白",
-      "onboard_time": 1676037573,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 296086,
       "num": 296086,
       "word": "田曦薇晒怼脸随拍",
@@ -1475,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274117,
+      "num": 274117,
+      "word": "听说你喜欢我",
+      "onboard_time": 1676038953,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273770,
       "num": 273770,
       "word": "你最近感觉到机票价格变贵了吗",
@@ -1579,6 +1627,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 256204,
+      "num": 256204,
+      "word": "最强大脑",
+      "onboard_time": 1676039433,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 249414,
+      "num": 249414,
+      "word": "女子治牙断针被留口中40多天",
+      "onboard_time": 1676038712,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244760,
       "num": 244760,
       "word": "暴雪CEO说腾讯和字节是最好的公司",
@@ -1659,14 +1723,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 227189,
-      "num": 227189,
-      "word": "妈妈买鞋替20岁儿子挽回女友",
-      "onboard_time": 1676037633,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226889,
       "num": 226889,
       "word": "狼队战胜XYG",
@@ -1715,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218325,
+      "num": 218325,
+      "word": "TES战胜UP",
+      "onboard_time": 1676039492,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217337,
       "num": 217337,
       "word": "男子为儿子上学找人办假证被判刑",
@@ -1737,6 +1801,14 @@
       "onboard_time": 1676025691,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208170,
+      "num": 208170,
+      "word": "eStar战胜WB",
+      "onboard_time": 1676038591,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 207841,
@@ -2091,28 +2163,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156078,
-      "num": 156078,
-      "word": "宁波地铁每晚8点后免费",
-      "onboard_time": 1676037690,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155876,
       "num": 155876,
       "word": "大张伟念证据全员人工配乐",
       "onboard_time": 1675997011,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155391,
-      "num": 155391,
-      "word": "eStar战胜WB",
-      "onboard_time": 1676038591,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 153553,
@@ -2355,6 +2411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104888,
+      "num": 1264863,
+      "word": "穿越机视角看中国大桥多震撼",
+      "onboard_time": 1676037210,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104424,
       "num": 725304,
       "word": "星穹铁道跃迁测试",
@@ -2409,14 +2473,6 @@
       "onboard_time": 1675950091,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95024,
-      "num": 1264863,
-      "word": "穿越机视角看中国大桥多震撼",
-      "onboard_time": 1676037210,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93505,

@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676038665710,
+  "endTime": 1676039657459,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1856004,
+      "num": 1856004,
+      "word": "易烊千玺被冻得双手握拳",
+      "onboard_time": 1676037810,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1840656,
       "num": 1840656,
       "word": "狂飙片头被指抄袭",
@@ -611,14 +619,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1546017,
-      "num": 1546017,
-      "word": "易烊千玺被冻得双手握拳",
-      "onboard_time": 1676037810,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1521895,
       "num": 1521895,
       "word": "美国89%的大学生都是用ChatGPT做作业",
@@ -755,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1422108,
+      "num": 1264766,
+      "word": "山东省人类精子库招募捐精志愿者",
+      "onboard_time": 1676036009,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1411066,
       "num": 1411066,
       "word": "土耳其大批运动员被埋废墟",
@@ -769,14 +777,6 @@
       "onboard_time": 1675827929,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1386829,
-      "num": 1264766,
-      "word": "山东省人类精子库招募捐精志愿者",
-      "onboard_time": 1676036009,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1375744,
@@ -2035,6 +2035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 827388,
+      "num": 679725,
+      "word": "妈妈买鞋替20岁儿子挽回女友",
+      "onboard_time": 1676037633,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825908,
       "num": 825908,
       "word": "刘亚仁中国代言撤下",
@@ -2753,6 +2761,14 @@
       "onboard_time": 1675685070,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 682932,
+      "num": 682932,
+      "word": "王俊凯小鬼唱的花好月圆夜",
+      "onboard_time": 1676038774,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 680782,
@@ -3587,6 +3603,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 553603,
+      "num": 526429,
+      "word": "粉丝喊话宋亚轩首切第一",
+      "onboard_time": 1676039071,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 550559,
       "num": 510709,
       "word": "孙怡希望以新身份参加再见爱人",
@@ -4385,6 +4409,14 @@
       "onboard_time": 1675735885,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464491,
+      "num": 464491,
+      "word": "相亲认识需不需要正式表白",
+      "onboard_time": 1676037573,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 463205,
@@ -5979,6 +6011,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 339468,
+      "num": 339468,
+      "word": "胡夏唱过100多首OST",
+      "onboard_time": 1676039011,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339280,
       "num": 339280,
       "word": "网传声生不息宝岛季首期录制歌单",
@@ -6041,6 +6081,14 @@
       "onboard_time": 1675825951,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332961,
+      "num": 332961,
+      "word": "宁波地铁每晚8点后免费",
+      "onboard_time": 1676037690,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332843,
@@ -6755,14 +6803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 296943,
-      "num": 296943,
-      "word": "相亲认识需不需要正式表白",
-      "onboard_time": 1676037573,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 296931,
       "num": 296931,
       "word": "杨卫宁叶文洁终得正果",
@@ -7307,6 +7347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274117,
+      "num": 274117,
+      "word": "听说你喜欢我",
+      "onboard_time": 1676038953,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273825,
       "num": 273825,
       "word": "张大大念网友私信",
@@ -7747,6 +7795,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 256204,
+      "num": 256204,
+      "word": "最强大脑",
+      "onboard_time": 1676039433,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255714,
       "num": 255714,
       "word": "杜兰特预计全明星后复出",
@@ -7857,6 +7913,14 @@
       "onboard_time": 1675655671,
       "rank": 36,
       "category": "综艺,情感"
+    },
+    {
+      "raw_hot": 249414,
+      "num": 249414,
+      "word": "女子治牙断针被留口中40多天",
+      "onboard_time": 1676038712,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248854,
@@ -8427,14 +8491,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 227189,
-      "num": 227189,
-      "word": "妈妈买鞋替20岁儿子挽回女友",
-      "onboard_time": 1676037633,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226889,
       "num": 226889,
       "word": "狼队战胜XYG",
@@ -8657,6 +8713,14 @@
       "onboard_time": 1675939472,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218325,
+      "num": 218325,
+      "word": "TES战胜UP",
+      "onboard_time": 1676039492,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 217718,
@@ -8905,6 +8969,14 @@
       "onboard_time": 1675761270,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208170,
+      "num": 208170,
+      "word": "eStar战胜WB",
+      "onboard_time": 1676038591,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 207849,
@@ -10603,14 +10675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156078,
-      "num": 156078,
-      "word": "宁波地铁每晚8点后免费",
-      "onboard_time": 1676037690,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155876,
       "num": 155876,
       "word": "大张伟念证据全员人工配乐",
@@ -10625,14 +10689,6 @@
       "onboard_time": 1675674089,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 155391,
-      "num": 155391,
-      "word": "eStar战胜WB",
-      "onboard_time": 1676038591,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 154874,
@@ -11427,6 +11483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104888,
+      "num": 1264863,
+      "word": "穿越机视角看中国大桥多震撼",
+      "onboard_time": 1676037210,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104424,
       "num": 725304,
       "word": "星穹铁道跃迁测试",
@@ -11497,14 +11561,6 @@
       "onboard_time": 1675726041,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 95024,
-      "num": 1264863,
-      "word": "穿越机视角看中国大桥多震撼",
-      "onboard_time": 1676037210,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93722,
