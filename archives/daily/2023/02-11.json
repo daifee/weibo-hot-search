@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676057635252,
+  "endTime": 1676060402474,
   "band_list": [
     {
       "raw_hot": 3687086,
@@ -419,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116015,
+      "num": 116015,
+      "word": "2只火凤凰为了求偶上演风骚走位",
+      "onboard_time": 1676057594,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102904,
       "num": 102904,
       "word": "姚薇帮安欣取证",
@@ -435,8 +443,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 72738,
-      "num": 72738,
+      "raw_hot": 98480,
+      "num": 98480,
       "word": "可以不穿但是不能没有",
       "onboard_time": 1676056034,
       "rank": 29,
@@ -465,14 +473,6 @@
       "onboard_time": 1676022090,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21409,
-      "num": 21409,
-      "word": "2只火凤凰为了求偶上演风骚走位",
-      "onboard_time": 1676057594,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
