@@ -1,6 +1,6 @@
 {
   "startTime": 1675960021377,
-  "endTime": 1676017454533,
+  "endTime": 1676018304218,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -195,6 +195,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 971379,
+      "num": 971379,
+      "word": "安欣发现离婚骗局",
+      "onboard_time": 1676017412,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 951351,
       "num": 951351,
       "word": "金希澈直播听到校园暴力的反应",
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 858837,
+      "num": 858837,
+      "word": "你的QQ号码是几位数",
+      "onboard_time": 1676016273,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 858005,
       "num": 858005,
       "word": "张杰帮妈妈要唐嫣签名照",
@@ -280,6 +296,14 @@
       "word": "非正式会谈多位嘉宾缅怀唐小强",
       "onboard_time": 1675996411,
       "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 805301,
+      "num": 805301,
+      "word": "刘亚仁尿检结果阳性",
+      "onboard_time": 1676016993,
+      "rank": 12,
       "category": "社会新闻,艺人"
     },
     {
@@ -435,12 +459,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 576259,
-      "num": 576259,
-      "word": "刘亚仁尿检结果阳性",
-      "onboard_time": 1676016993,
-      "rank": 12,
-      "category": "社会新闻,艺人"
+      "raw_hot": 571345,
+      "num": 571345,
+      "word": "马伊琍说自己谈恋爱很上头",
+      "onboard_time": 1676013934,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 569431,
@@ -459,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 560235,
+      "num": 560235,
+      "word": "谋女郎王佳怡首封",
+      "onboard_time": 1676017110,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 556662,
       "num": 556662,
       "word": "两对夫妻酒后寻刺激开房吸毒",
@@ -473,14 +505,6 @@
       "onboard_time": 1675999233,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545002,
-      "num": 545002,
-      "word": "你的QQ号码是几位数",
-      "onboard_time": 1676016273,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 543298,
@@ -505,14 +529,6 @@
       "onboard_time": 1676008471,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 519065,
-      "num": 519065,
-      "word": "马伊琍说自己谈恋爱很上头",
-      "onboard_time": 1676013934,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 517818,
@@ -571,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 497080,
-      "num": 497080,
-      "word": "谋女郎王佳怡首封",
-      "onboard_time": 1676017110,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 476515,
       "num": 476515,
       "word": "成都街头现飞鸟撞树现象",
@@ -603,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 462026,
+      "num": 462026,
+      "word": "刘德华剧透流浪地球2删减内容",
+      "onboard_time": 1676017711,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 455633,
       "num": 455633,
       "word": "小夫妻回应亲手剪掉名下所有信用卡",
@@ -617,6 +633,14 @@
       "onboard_time": 1676014111,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 445185,
+      "num": 445185,
+      "word": "专家称延迟退休已是大势所趋",
+      "onboard_time": 1676017172,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438247,
@@ -723,14 +747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 400752,
-      "num": 400752,
-      "word": "安欣发现离婚骗局",
-      "onboard_time": 1676017412,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 399980,
       "num": 399980,
       "word": "重紫定档0215",
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366048,
+      "num": 366048,
+      "word": "卢伟冰称小米夺走华为五千万用户",
+      "onboard_time": 1676015252,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 357982,
       "num": 357982,
       "word": "曝苹果所用USBC接口已加密",
@@ -825,14 +849,6 @@
       "onboard_time": 1675987472,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343528,
-      "num": 343528,
-      "word": "卢伟冰称小米夺走华为五千万用户",
-      "onboard_time": 1676015252,
-      "rank": 27,
-      "category": "科技"
     },
     {
       "raw_hot": 338073,
@@ -1035,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277987,
+      "num": 277987,
+      "word": "狼队对战XYG",
+      "onboard_time": 1676014594,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 277446,
       "num": 277446,
       "word": "马斯克会议现场解雇推特高级工程师",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1675993592,
       "rank": 29,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 273553,
+      "num": 287606,
+      "word": "干眼症真是绝症吗",
+      "onboard_time": 1676017353,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272857,
@@ -1211,14 +1243,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 214578,
-      "num": 214578,
-      "word": "狼队对战XYG",
-      "onboard_time": 1676014594,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 207841,
       "num": 207841,
       "word": "很担心设计师的精神状态",
@@ -1297,6 +1321,14 @@
       "onboard_time": 1675978391,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196736,
+      "num": 196736,
+      "word": "杨笠自曝想改行",
+      "onboard_time": 1676018191,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 186837,
@@ -1419,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165584,
+      "num": 165584,
+      "word": "纪委回应书记被绑架网传付千万赎金",
+      "onboard_time": 1676018071,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164429,
       "num": 164429,
       "word": "KPL新宣传片",
@@ -1451,14 +1491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151129,
-      "num": 151129,
-      "word": "专家称延迟退休已是大势所趋",
-      "onboard_time": 1676017172,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150885,
       "num": 150885,
       "word": "王俊凯重庆话说开工大吉",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1675959273,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144019,
+      "num": 144019,
+      "word": "黑粉向白鹿道歉",
+      "onboard_time": 1676017353,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 143448,
@@ -1577,14 +1617,6 @@
       "onboard_time": 1675981996,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123989,
-      "num": 123989,
-      "word": "黑粉向白鹿道歉",
-      "onboard_time": 1676017353,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 120251,
