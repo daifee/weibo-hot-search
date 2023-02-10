@@ -1,6 +1,6 @@
 {
   "startTime": 1675960021377,
-  "endTime": 1676006278149,
+  "endTime": 1676007219792,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -89,6 +89,14 @@
       "onboard_time": 1675988252,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1222213,
+      "num": 787622,
+      "word": "朱亚文曾说非常在意女生吃饭咀嚼动作大",
+      "onboard_time": 1676005177,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1219034,
@@ -251,14 +259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 723662,
-      "num": 723662,
-      "word": "朱亚文曾说非常在意女生吃饭咀嚼动作大",
-      "onboard_time": 1676005177,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 718348,
       "num": 718348,
       "word": "中国乒乓预告发疯了",
@@ -315,12 +315,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 603262,
+      "num": 603262,
+      "word": "数千人申请领养废墟中出生女婴",
+      "onboard_time": 1676006435,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590070,
       "num": 449283,
       "word": "鞠婧祎喝椰子水视频",
       "onboard_time": 1675951776,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 576599,
+      "num": 576599,
+      "word": "网民称水浒毒害青少年应从课文中清除",
+      "onboard_time": 1676004337,
+      "rank": 18,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 569431,
@@ -353,14 +369,6 @@
       "onboard_time": 1675999233,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528250,
-      "num": 528250,
-      "word": "网民称水浒毒害青少年应从课文中清除",
-      "onboard_time": 1676004337,
-      "rank": 18,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 522506,
@@ -707,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297591,
+      "num": 297591,
+      "word": "土耳其驻华大使馆发文哀悼唐小强",
+      "onboard_time": 1676005716,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 294993,
       "num": 294993,
       "word": "徐冬冬是妈妈眼里的哈尔滨国际巨星",
@@ -771,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273788,
-      "num": 273788,
-      "word": "土耳其驻华大使馆发文哀悼唐小强",
-      "onboard_time": 1676005716,
-      "rank": 33,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 273770,
       "num": 273770,
       "word": "你最近感觉到机票价格变贵了吗",
@@ -800,6 +808,14 @@
       "word": "周鸿祎称搭不上ChatGPT企业会被淘汰",
       "onboard_time": 1675988492,
       "rank": 29,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 270785,
+      "num": 270785,
+      "word": "腾讯QQ回应崩了",
+      "onboard_time": 1676006315,
+      "rank": 30,
       "category": "科技"
     },
     {
@@ -1075,6 +1091,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164429,
+      "num": 164429,
+      "word": "KPL新宣传片",
+      "onboard_time": 1676006553,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 160659,
+      "num": 160659,
+      "word": "重紫男演员颜值",
+      "onboard_time": 1676006435,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159763,
       "num": 159763,
       "word": "日本火山",
@@ -1251,7 +1283,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103895,
+      "raw_hot": 104424,
       "num": 725304,
       "word": "星穹铁道跃迁测试",
       "onboard_time": 1676005236,
