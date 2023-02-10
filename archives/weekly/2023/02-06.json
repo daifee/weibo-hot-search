@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676025472380,
+  "endTime": 1676027791120,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -179,6 +179,14 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 2503542,
+      "num": 2503542,
+      "word": "张颂文 为什么会这样",
+      "onboard_time": 1676022810,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2478307,
       "num": 2478307,
       "word": "杜兰特加盟太阳",
@@ -251,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2210130,
+      "num": 2210130,
+      "word": "张译经纪公司严正声明",
+      "onboard_time": 1676026052,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2163507,
       "num": 2163507,
       "word": "新郎回应结婚当天前女友组团拉横幅",
@@ -297,14 +313,6 @@
       "onboard_time": 1675745016,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2095163,
-      "num": 2095163,
-      "word": "张颂文 为什么会这样",
-      "onboard_time": 1676022810,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 2057929,
@@ -1587,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 937621,
+      "num": 937621,
+      "word": "西安最倒霉面馆顾客暴涨员工数翻4倍",
+      "onboard_time": 1676024610,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 937389,
       "num": 937389,
       "word": "果然大学生撕伞是把好手",
@@ -2635,6 +2651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 690781,
+      "num": 690781,
+      "word": "男子躲查酒驾3次跳河血检结果为0",
+      "onboard_time": 1676023710,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687671,
       "num": 687671,
       "word": "京东31亿元拿地",
@@ -2833,6 +2857,14 @@
       "onboard_time": 1675650207,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 649729,
+      "num": 649729,
+      "word": "时代少年团二专正式开售",
+      "onboard_time": 1676025869,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 647816,
@@ -3177,14 +3209,6 @@
       "onboard_time": 1675921648,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 584892,
-      "num": 584892,
-      "word": "男子躲查酒驾3次跳河血检结果为0",
-      "onboard_time": 1676023710,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 583967,
@@ -5115,6 +5139,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 395467,
+      "num": 395467,
+      "word": "傅首尔说别以为离了自己地球不转",
+      "onboard_time": 1676026052,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395244,
       "num": 395244,
       "word": "YSKM入院检查",
@@ -5937,14 +5969,6 @@
       "onboard_time": 1675646728,
       "rank": 27,
       "category": "教育,艺人"
-    },
-    {
-      "raw_hot": 326964,
-      "num": 326964,
-      "word": "西安最倒霉面馆顾客暴涨员工数翻4倍",
-      "onboard_time": 1676024610,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326839,
@@ -7147,6 +7171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271562,
+      "num": 271562,
+      "word": "田曦薇晒怼脸随拍",
+      "onboard_time": 1676027612,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271424,
       "num": 271424,
       "word": "周鸿祎称搭不上ChatGPT企业会被淘汰",
@@ -7545,6 +7577,14 @@
       "onboard_time": 1675838789,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254254,
+      "num": 222578,
+      "word": "中方回应美多州考虑禁止中国公民买房",
+      "onboard_time": 1676026890,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 253489,
@@ -8073,6 +8113,14 @@
       "onboard_time": 1675768113,
       "rank": 45,
       "category": "情感,旅游"
+    },
+    {
+      "raw_hot": 230716,
+      "num": 230716,
+      "word": "这些颜色的肉你敢吃吗",
+      "onboard_time": 1676025509,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 230665,
@@ -8835,12 +8883,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200782,
+      "num": 200782,
+      "word": "网友呼吁提前接旅美大熊猫丫丫回国",
+      "onboard_time": 1676026172,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200141,
       "num": 200141,
       "word": "刘宇宁寻一个你收藏人数破250万",
       "onboard_time": 1675664846,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200062,
+      "num": 200062,
+      "word": "张朝阳主张病态的焦虑绝不能吃药",
+      "onboard_time": 1676024912,
+      "rank": 42,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 199739,
@@ -9451,6 +9515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181317,
+      "num": 181317,
+      "word": "梁朝伟说从未把演戏当作事业",
+      "onboard_time": 1676027369,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181239,
       "num": 181239,
       "word": "四大洲花样滑冰锦标赛",
@@ -9640,6 +9712,14 @@
       "word": "JDG零封AL",
       "onboard_time": 1675689809,
       "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 174685,
+      "num": 174685,
+      "word": "TTG战胜EDGM",
+      "onboard_time": 1676026411,
+      "rank": 41,
       "category": "游戏"
     },
     {
@@ -9897,14 +9977,6 @@
       "onboard_time": 1675674568,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166579,
-      "num": 166579,
-      "word": "张朝阳主张病态的焦虑绝不能吃药",
-      "onboard_time": 1676024912,
-      "rank": 42,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 166550,
@@ -10473,6 +10545,14 @@
       "onboard_time": 1675603712,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141814,
+      "num": 141814,
+      "word": "没想到两只猴这么有节目效果",
+      "onboard_time": 1676025691,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 141021,
