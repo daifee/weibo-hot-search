@@ -1,0 +1,410 @@
+{
+  "runTime": 1676032540827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3589234,
+        "num": 3589234,
+        "word": "易烊千玺直播",
+        "onboard_time": 1676031571,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1795006,
+        "num": 1795006,
+        "word": "时代少年团 秒切",
+        "onboard_time": 1676028272,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 7810,
+        "num": 1407596,
+        "word": "60秒速览神十五乘组首次出舱任务",
+        "onboard_time": 1675998214,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1222250,
+        "num": 1222250,
+        "word": "张杰12年前陪小沈阳听歌错过洞房花烛夜",
+        "onboard_time": 1676028212,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1191629,
+        "num": 1191629,
+        "word": "张颂文 为什么会这样",
+        "onboard_time": 1676022810,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 924841,
+        "num": 924841,
+        "word": "张译经纪公司严正声明",
+        "onboard_time": 1676026052,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 759388,
+        "num": 759388,
+        "word": "17岁少年被困94小时喝尿液坚持获救",
+        "onboard_time": 1676028932,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749309,
+        "num": 749309,
+        "word": "迪丽热巴 超能摄影阳阳",
+        "onboard_time": 1676011471,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676399,
+        "num": 676399,
+        "word": "胜利曾非法拍摄中国女性",
+        "onboard_time": 1676023353,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 617337,
+        "num": 617337,
+        "word": "西安最倒霉面馆顾客暴涨员工数翻4倍",
+        "onboard_time": 1676024610,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617192,
+        "num": 617192,
+        "word": "封神",
+        "onboard_time": 1676028511,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 550535,
+        "num": 550535,
+        "word": "中方回应美多州考虑禁止中国公民买房",
+        "onboard_time": 1676026890,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 492266,
+        "num": 492266,
+        "word": "年轻人为什么抛弃了QQ",
+        "onboard_time": 1676008891,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 480314,
+        "num": 480314,
+        "word": "迪丽热巴工作室晒维权通告",
+        "onboard_time": 1676011052,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438237,
+        "num": 438237,
+        "word": "带手镯做磁共振烫出一圈泡",
+        "onboard_time": 1676021671,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431003,
+        "num": 431003,
+        "word": "唐小强葬礼将在伊斯坦布尔举行",
+        "onboard_time": 1676018669,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419592,
+        "num": 419592,
+        "word": "短道速滑",
+        "onboard_time": 1676030434,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310647,
+        "num": 396763,
+        "word": "去有风的云南",
+        "onboard_time": 1676030552,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 376975,
+        "num": 376975,
+        "word": "男子躲查酒驾3次跳河血检结果为0",
+        "onboard_time": 1676023710,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366292,
+        "num": 366292,
+        "word": "QQ首位用户找到了",
+        "onboard_time": 1676001933,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 350687,
+        "num": 350687,
+        "word": "骑车拖行小猫致死当事人公开道歉",
+        "onboard_time": 1676019511,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349436,
+        "num": 349436,
+        "word": "你的QQ号码是几位数",
+        "onboard_time": 1676016273,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 331778,
+        "num": 331778,
+        "word": "鹿晗夹克上好多袖子",
+        "onboard_time": 1676022692,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282486,
+        "num": 282486,
+        "word": "张颂文签名照被卖到8000元",
+        "onboard_time": 1676022090,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266182,
+        "num": 266182,
+        "word": "叙利亚义卖香皂遭遇抢购",
+        "onboard_time": 1676031153,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254766,
+        "num": 254766,
+        "word": "孙俪谢娜魏大勋等人亮相成都",
+        "onboard_time": 1676032472,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232067,
+        "num": 232067,
+        "word": "傅首尔说别以为离了自己地球不转",
+        "onboard_time": 1676026052,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218211,
+        "num": 218211,
+        "word": "山东女子请命奔赴土耳其救援",
+        "onboard_time": 1676031091,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209639,
+        "num": 209639,
+        "word": "张栋梁安慰情绪崩溃的胡宇桐",
+        "onboard_time": 1676023770,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209128,
+        "num": 209128,
+        "word": "没想到两只猴这么有节目效果",
+        "onboard_time": 1676025691,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206303,
+        "num": 206303,
+        "word": "纪委回应书记被绑架网传付千万赎金",
+        "onboard_time": 1676018071,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198030,
+        "num": 198030,
+        "word": "土耳其强震",
+        "onboard_time": 1676008471,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185630,
+        "num": 185630,
+        "word": "田曦薇晒怼脸随拍",
+        "onboard_time": 1676027612,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170554,
+        "num": 170554,
+        "word": "狂飙片头被指抄袭",
+        "onboard_time": 1676009431,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169609,
+        "num": 169609,
+        "word": "白羊座真的不是恋爱脑",
+        "onboard_time": 1676011471,
+        "rank": 34,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 168032,
+        "num": 168032,
+        "word": "这些颜色的肉你敢吃吗",
+        "onboard_time": 1676025509,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166887,
+        "num": 166887,
+        "word": "我们的客栈好友局",
+        "onboard_time": 1676029772,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166225,
+        "num": 166225,
+        "word": "虞书欣粉色露背吊带造型",
+        "onboard_time": 1676020893,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156468,
+        "num": 156468,
+        "word": "QQ代表的是一代人的青春",
+        "onboard_time": 1676030733,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143933,
+        "num": 143933,
+        "word": "女婴被埋废墟救援队听哭声救全家人",
+        "onboard_time": 1676021313,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138874,
+        "num": 138874,
+        "word": "张朝阳主张病态的焦虑绝不能吃药",
+        "onboard_time": 1676024912,
+        "rank": 40,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 137798,
+        "num": 137798,
+        "word": "网友呼吁提前接旅美大熊猫丫丫回国",
+        "onboard_time": 1676026172,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134386,
+        "num": 134386,
+        "word": "刘亚仁尿检结果阳性",
+        "onboard_time": 1676016993,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 131641,
+        "num": 131641,
+        "word": "WB对战eStar",
+        "onboard_time": 1676029953,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130959,
+        "num": 130959,
+        "word": "林孝埈1000米晋级",
+        "onboard_time": 1676020230,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127878,
+        "num": 127878,
+        "word": "杨紫199爱小香风造型路透",
+        "onboard_time": 1676021671,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121444,
+        "num": 121444,
+        "word": "时代少年团二专正式开售",
+        "onboard_time": 1676025869,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116035,
+        "num": 116035,
+        "word": "boysplanet宿舍现状 唐僧进了盘丝洞",
+        "onboard_time": 1676023053,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111706,
+        "num": 111706,
+        "word": "TTG战胜EDGM",
+        "onboard_time": 1676026411,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107859,
+        "num": 107859,
+        "word": "婚纱店门口偶遇周扬青",
+        "onboard_time": 1676018911,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}
