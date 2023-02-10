@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676068503749,
+  "endTime": 1676071151232,
   "band_list": [
     {
       "raw_hot": 3687086,
@@ -179,6 +179,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 364697,
+      "num": 364697,
+      "word": "2只火凤凰为了求偶上演风骚走位",
+      "onboard_time": 1676057594,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344633,
       "num": 344633,
       "word": "相亲认识需不需要正式表白",
@@ -275,6 +283,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217535,
+      "num": 217535,
+      "word": "70岁大姑妈家一尘不染侄女自叹不如",
+      "onboard_time": 1676063652,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216099,
+      "num": 195101,
+      "word": "东北鸳鸯锅温泉居然是真的",
+      "onboard_time": 1676068514,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214044,
       "num": 214044,
       "word": "迪丽热巴 超能摄影阳阳",
@@ -305,6 +329,14 @@
       "onboard_time": 1676041352,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201884,
+      "num": 201884,
+      "word": "永远不知道女生照片P了什么",
+      "onboard_time": 1676067013,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 201755,
@@ -395,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155972,
-      "num": 155972,
-      "word": "2只火凤凰为了求偶上演风骚走位",
-      "onboard_time": 1676057594,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152742,
       "num": 150796,
       "word": "最强大脑这期又燃又好哭",
@@ -417,14 +441,6 @@
       "onboard_time": 1676026890,
       "rank": 47,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 130462,
-      "num": 87405,
-      "word": "70岁大姑妈家一尘不染侄女自叹不如",
-      "onboard_time": 1676063652,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121630,
@@ -459,12 +475,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 57962,
-      "num": 57962,
+      "raw_hot": 77096,
+      "num": 77096,
       "word": "店家回应被质疑用鸭肉冒充牛肉",
       "onboard_time": 1676061071,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66605,
+      "num": 66605,
+      "word": "李秀满仍拥有SMTOWN经营权",
+      "onboard_time": 1676070196,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 55246,
@@ -483,12 +507,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 44987,
-      "num": 44987,
-      "word": "永远不知道女生照片P了什么",
-      "onboard_time": 1676067013,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 45166,
+      "num": 45166,
+      "word": "老人去世给老伴留满屋摆放整齐柴火",
+      "onboard_time": 1676071036,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42038,
