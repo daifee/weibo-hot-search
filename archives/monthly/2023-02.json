@@ -1,7 +1,15 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1675998290763,
+  "endTime": 1675999615015,
   "band_list": [
+    {
+      "raw_hot": 13978759,
+      "num": 13978759,
+      "word": "QQ崩了",
+      "onboard_time": 1675998875,
+      "rank": 0,
+      "category": "科技"
+    },
     {
       "raw_hot": 13846203,
       "num": 15004546,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 3036699,
-      "num": 1190110,
+      "num": 1801389,
       "word": "唐小强被搜救到时已遇难",
       "onboard_time": 1675989994,
       "rank": 3,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 2830461,
-      "num": 586432,
+      "num": 717026,
       "word": "男生身高165cm你介意吗",
       "onboard_time": 1675995092,
       "rank": 10,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1675220790,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1704422,
+      "num": 1704422,
+      "word": "浪姐4 录制名单",
+      "onboard_time": 1675998513,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1699079,
@@ -3868,7 +3884,7 @@
     },
     {
       "raw_hot": 819853,
-      "num": 592730,
+      "num": 598733,
       "word": "非正式会谈多位嘉宾缅怀唐小强",
       "onboard_time": 1675996411,
       "rank": 11,
@@ -4699,6 +4715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 718348,
+      "num": 718348,
+      "word": "中国乒乓预告发疯了",
+      "onboard_time": 1675998573,
+      "rank": 9,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 718218,
       "num": 583803,
       "word": "陈妍希说陈晓是比较依赖的人",
@@ -4769,6 +4793,14 @@
       "onboard_time": 1675241852,
       "rank": 20,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 711832,
+      "num": 711832,
+      "word": "张杰帮妈妈要唐嫣签名照",
+      "onboard_time": 1675998214,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 711146,
@@ -4873,6 +4905,14 @@
       "onboard_time": 1675178376,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 701345,
+      "num": 701345,
+      "word": "赵晓卉打两份工的原因",
+      "onboard_time": 1675998033,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 700159,
@@ -5296,6 +5336,14 @@
       "word": "今天是李响头七",
       "onboard_time": 1675220849,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 662146,
+      "num": 662146,
+      "word": "杨幂短发齐刘海",
+      "onboard_time": 1675998333,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -7315,6 +7363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517344,
+      "num": 517344,
+      "word": "男子刷脸打卡必须开心呲牙才能通过",
+      "onboard_time": 1675997491,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516049,
       "num": 516049,
       "word": "HYBE将成为SMTOWN最大股东",
@@ -8139,6 +8195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463152,
+      "num": 463152,
+      "word": "大嫂出场即兴砸杯子磕坏楼梯",
+      "onboard_time": 1675997851,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 462943,
       "num": 462943,
       "word": "蔡徐坤泰国人气",
@@ -8185,6 +8249,14 @@
       "onboard_time": 1675242150,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459792,
+      "num": 459792,
+      "word": "成龙探班杨幂新片",
+      "onboard_time": 1675998932,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 459669,
@@ -8281,6 +8353,14 @@
       "onboard_time": 1675950091,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455111,
+      "num": 455111,
+      "word": "女生因地震取消跟团游仅退3成费用",
+      "onboard_time": 1675998752,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453914,
@@ -8891,14 +8971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424826,
-      "num": 424826,
-      "word": "赵晓卉打两份工的原因",
-      "onboard_time": 1675998033,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 424675,
       "num": 424675,
       "word": "林家川的文笔",
@@ -9185,14 +9257,6 @@
       "onboard_time": 1675926211,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 411937,
-      "num": 411937,
-      "word": "张杰帮妈妈要唐嫣签名照",
-      "onboard_time": 1675998214,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 411867,
@@ -10907,14 +10971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 345618,
-      "num": 345618,
-      "word": "男子刷脸打卡必须开心呲牙才能通过",
-      "onboard_time": 1675997491,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345518,
       "num": 345518,
       "word": "女士的品格定档0206",
@@ -12027,6 +12083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307557,
+      "num": 307557,
+      "word": "重紫首支预告",
+      "onboard_time": 1675998632,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307443,
       "num": 307443,
       "word": "邓超说准备面试苏有朋导的戏",
@@ -12161,6 +12225,14 @@
       "onboard_time": 1675214909,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303294,
+      "num": 303294,
+      "word": "夏花定档0213",
+      "onboard_time": 1675998573,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 303293,
@@ -14891,6 +14963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238250,
+      "num": 238250,
+      "word": "金泰妍将solo回归",
+      "onboard_time": 1675999535,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 238051,
       "num": 238051,
       "word": "三秒摔了六跤",
@@ -15137,14 +15217,6 @@
       "onboard_time": 1675235309,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 232088,
-      "num": 232088,
-      "word": "大嫂出场即兴砸杯子磕坏楼梯",
-      "onboard_time": 1675997851,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 231672,
@@ -15552,6 +15624,14 @@
       "word": "父母帮小男孩抓海鸥强行塞进塑料瓶",
       "onboard_time": 1675178018,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223515,
+      "num": 223515,
+      "word": "女职工哺乳期后拒绝调岗被解雇",
+      "onboard_time": 1675999233,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -16200,6 +16280,14 @@
       "word": "李小冉说刘淑霞人难做钱难挣",
       "onboard_time": 1675954597,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207643,
+      "num": 207643,
+      "word": "显微镜下的大明色调",
+      "onboard_time": 1675999114,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -17721,6 +17809,14 @@
       "onboard_time": 1675743514,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 184108,
+      "num": 184108,
+      "word": "立功今晚开播",
+      "onboard_time": 1675998695,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 183987,
@@ -19827,6 +19923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148101,
+      "num": 148101,
+      "word": "星穹铁道公测时间疑似泄露",
+      "onboard_time": 1675999596,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147998,
       "num": 112416,
       "word": "勇士交易怀斯曼",
@@ -21291,6 +21395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90627,
+      "num": 2032339,
+      "word": "60秒速览神十五乘组首次出舱任务",
+      "onboard_time": 1675998214,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 90204,
       "num": 90204,
       "word": "苏翊鸣说梦想就要百分百努力追求",
@@ -22009,14 +22121,6 @@
       "onboard_time": 1675190774,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7988,
-      "num": 1146363,
-      "word": "60秒速览神十五乘组首次出舱任务",
-      "onboard_time": 1675998214,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
