@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676042407952,
+  "endTime": 1676043331520,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1675648947,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1219113,
+      "num": 1219113,
+      "word": "yoyo颢鑫官宣",
+      "onboard_time": 1676041532,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1219034,
@@ -2739,6 +2747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 691130,
+      "num": 691130,
+      "word": "四川捐精可获5000元补贴",
+      "onboard_time": 1676040873,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690781,
       "num": 690781,
       "word": "男子躲查酒驾3次跳河血检结果为0",
@@ -2801,14 +2817,6 @@
       "onboard_time": 1675729948,
       "rank": 6,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 676750,
-      "num": 676750,
-      "word": "四川捐精可获5000元补贴",
-      "onboard_time": 1676040873,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 674714,
@@ -3011,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646018,
+      "num": 646018,
+      "word": "吴世勋练习室版LoveShot",
+      "onboard_time": 1676042610,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 645152,
       "num": 645152,
       "word": "张颂文元宵节看烟花vlog",
@@ -3033,6 +3049,14 @@
       "onboard_time": 1675677089,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 641092,
+      "num": 641092,
+      "word": "唐小强曾阻止家暴",
+      "onboard_time": 1676040932,
+      "rank": 9,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 640157,
@@ -3267,14 +3291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 599920,
-      "num": 599920,
-      "word": "唐小强曾阻止家暴",
-      "onboard_time": 1676040932,
-      "rank": 9,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 599590,
       "num": 599590,
       "word": "张智霖在东北穿五件保暖衣",
@@ -3395,14 +3411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 579440,
-      "num": 579440,
-      "word": "yoyo颢鑫官宣",
-      "onboard_time": 1676041532,
-      "rank": 11,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 578474,
       "num": 578474,
       "word": "土耳其地震已致该国5894人死亡",
@@ -3441,6 +3449,14 @@
       "onboard_time": 1675654110,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 573678,
+      "num": 573678,
+      "word": "王嘉尔上海活动红毯",
+      "onboard_time": 1676041772,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 573086,
@@ -4267,6 +4283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 491136,
+      "num": 491136,
+      "word": "蓝天救援队在土耳其超市付款被拒收",
+      "onboard_time": 1676041650,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491128,
       "num": 491128,
       "word": "张颂文名字的含义",
@@ -4369,14 +4393,6 @@
       "onboard_time": 1675844733,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 474058,
-      "num": 474058,
-      "word": "王嘉尔上海活动红毯",
-      "onboard_time": 1676041772,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 474010,
@@ -4963,6 +4979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422568,
+      "num": 422568,
+      "word": "路人美国偶遇刘亦菲",
+      "onboard_time": 1676042432,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422246,
       "num": 422246,
       "word": "狂飙剧透三骗子",
@@ -5057,6 +5081,14 @@
       "onboard_time": 1675988012,
       "rank": 16,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 413748,
+      "num": 413748,
+      "word": "林孝埈500米小组第一晋级",
+      "onboard_time": 1676042671,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 412910,
@@ -5811,6 +5843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355334,
+      "num": 355334,
+      "word": "听说你喜欢我",
+      "onboard_time": 1676038953,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354719,
       "num": 354719,
       "word": "网传马嘉祺杨宗纬声生不息唱恋曲1990",
@@ -5897,14 +5937,6 @@
       "onboard_time": 1675802952,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 349126,
-      "num": 349126,
-      "word": "听说你喜欢我",
-      "onboard_time": 1676038953,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 348810,
@@ -6987,6 +7019,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 293884,
+      "num": 293884,
+      "word": "狂飙金句第一人",
+      "onboard_time": 1676042671,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293696,
       "num": 293696,
       "word": "叙利亚总统怒斥西方",
@@ -7945,14 +7985,6 @@
       "onboard_time": 1675699466,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 250660,
-      "num": 250660,
-      "word": "蓝天救援队在土耳其超市付款被拒收",
-      "onboard_time": 1676041650,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250545,
@@ -9459,6 +9491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195029,
+      "num": 195029,
+      "word": "阿布扎比赛郑钦文晋级四强",
+      "onboard_time": 1676042432,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194932,
       "num": 194932,
       "word": "ChatGPT有多靠谱",
@@ -10043,6 +10083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177789,
+      "num": 177789,
+      "word": "土耳其女子为蓝天救援队员暖手",
+      "onboard_time": 1676042070,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177708,
       "num": 177708,
       "word": "电车多久充一次电不会焦虑",
@@ -10155,6 +10203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173490,
+      "num": 173490,
+      "word": "姚晨分析地铁老人看手机微表情",
+      "onboard_time": 1676043211,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173461,
       "num": 173461,
       "word": "汤圆",
@@ -10209,14 +10265,6 @@
       "onboard_time": 1675764693,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171430,
-      "num": 171430,
-      "word": "土耳其女子为蓝天救援队员暖手",
-      "onboard_time": 1676042070,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171147,
