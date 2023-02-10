@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676064831708,
+  "endTime": 1676067492602,
   "band_list": [
     {
       "raw_hot": 3687086,
@@ -411,6 +411,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 127728,
+      "num": 127728,
+      "word": "2只火凤凰为了求偶上演风骚走位",
+      "onboard_time": 1676057594,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121630,
       "num": 121630,
       "word": "傅莹被厂里辞退",
@@ -419,20 +427,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 116015,
-      "num": 116015,
-      "word": "2只火凤凰为了求偶上演风骚走位",
-      "onboard_time": 1676057594,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102904,
       "num": 102904,
       "word": "姚薇帮安欣取证",
       "onboard_time": 1676052617,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 102526,
+      "num": 70010,
+      "word": "70岁大姑妈家一尘不染侄女自叹不如",
+      "onboard_time": 1676063652,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100458,
@@ -459,8 +467,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52241,
-      "num": 52241,
+      "raw_hot": 53515,
+      "num": 53515,
       "word": "店家回应被质疑用鸭肉冒充牛肉",
       "onboard_time": 1676061071,
       "rank": 49,
@@ -483,20 +491,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34553,
-      "num": 23769,
-      "word": "70岁大姑妈家一尘不染侄女自叹不如",
-      "onboard_time": 1676063652,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30821,
       "num": 30821,
       "word": "虞书欣复古印花造型上班路透",
       "onboard_time": 1676060893,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17678,
+      "num": 17678,
+      "word": "永远不知道女生照片P了什么",
+      "onboard_time": 1676067013,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
