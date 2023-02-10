@@ -1,0 +1,410 @@
+{
+  "runTime": 1675993438336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8063331,
+        "num": 8063331,
+        "word": "唐小强确认遇难",
+        "onboard_time": 1675985242,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1324624,
+        "num": 1324624,
+        "word": "金韩一",
+        "onboard_time": 1675986868,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 47437,
+        "num": 1209877,
+        "word": "强信心稳经济促发展",
+        "onboard_time": 1675946131,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3036699,
+        "num": 1190110,
+        "word": "唐小强被搜救到时已遇难",
+        "onboard_time": 1675989994,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1095520,
+        "num": 1095520,
+        "word": "狂飙剧中李响杯子掉落是无心的",
+        "onboard_time": 1675988252,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1000965,
+        "num": 1000965,
+        "word": "韩明起恢复发放中国公民短期签证",
+        "onboard_time": 1675991437,
+        "rank": 5,
+        "category": "国外要闻,旅游"
+      },
+      {
+        "raw_hot": 953999,
+        "num": 953999,
+        "word": "垚组合再也聚不齐了",
+        "onboard_time": 1675989994,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 842586,
+        "num": 842586,
+        "word": "华波波",
+        "onboard_time": 1675989155,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 785823,
+        "num": 785823,
+        "word": "李秀满方时赫发表共同立场",
+        "onboard_time": 1675992215,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626095,
+        "num": 626095,
+        "word": "非正式会谈",
+        "onboard_time": 1675986147,
+        "rank": 9,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 2525822,
+        "num": 617375,
+        "word": "男孩身体不适7次举手后身亡",
+        "onboard_time": 1675986629,
+        "rank": 10,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 536687,
+        "num": 536687,
+        "word": "韩国维持对自中国入境者的防疫措施",
+        "onboard_time": 1675992393,
+        "rank": 11,
+        "category": "国外要闻,旅游"
+      },
+      {
+        "raw_hot": 516049,
+        "num": 516049,
+        "word": "HYBE将成为SMTOWN最大股东",
+        "onboard_time": 1675987652,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443365,
+        "num": 443365,
+        "word": "非正式会谈oo",
+        "onboard_time": 1675991735,
+        "rank": 13,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 430548,
+        "num": 430548,
+        "word": "2岁娃咳嗽50天查出硬币卡喉",
+        "onboard_time": 1675981394,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428943,
+        "num": 428943,
+        "word": "陈楚生拒绝快乐再出发内讧",
+        "onboard_time": 1675986809,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415398,
+        "num": 415398,
+        "word": "1分钟看懂ChatGPT是啥",
+        "onboard_time": 1675988012,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 409686,
+        "num": 409686,
+        "word": "萨沙",
+        "onboard_time": 1675990836,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 399588,
+        "num": 399588,
+        "word": "哪些职业容易被人工智能代替",
+        "onboard_time": 1675990115,
+        "rank": 18,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 393693,
+        "num": 393693,
+        "word": "土耳其强震已造成17674人死亡",
+        "onboard_time": 1675989753,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389392,
+        "num": 389392,
+        "word": "C罗沙特超大四喜",
+        "onboard_time": 1675984761,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373666,
+        "num": 373666,
+        "word": "狂飙陈书婷到底美在哪里",
+        "onboard_time": 1675984881,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345242,
+        "num": 345242,
+        "word": "陈卓璇卡点为张艺凡庆生",
+        "onboard_time": 1675992034,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344668,
+        "num": 344668,
+        "word": "中国救援队成功营救出第3名幸存者",
+        "onboard_time": 1675987472,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310889,
+        "num": 310889,
+        "word": "上海月最低工资全国最高",
+        "onboard_time": 1675965857,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 298792,
+        "num": 298792,
+        "word": "曾舜晞陈都灵牵手同框路透",
+        "onboard_time": 1675989396,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291911,
+        "num": 291911,
+        "word": "重庆一女子称开锁广告被贴家门里面",
+        "onboard_time": 1675980134,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286819,
+        "num": 286819,
+        "word": "叙利亚总统怒斥西方",
+        "onboard_time": 1675964716,
+        "rank": 27,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 272857,
+        "num": 272857,
+        "word": "王阳台词功底",
+        "onboard_time": 1675992572,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271424,
+        "num": 271424,
+        "word": "周鸿祎称搭不上ChatGPT企业会被淘汰",
+        "onboard_time": 1675988492,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 361818,
+        "num": 270567,
+        "word": "为照顾谈恋爱的人西湖长椅间距拉开",
+        "onboard_time": 1675992271,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 262261,
+        "num": 262261,
+        "word": "云南省人类精子库倡议大学生捐精",
+        "onboard_time": 1675951295,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260920,
+        "num": 260920,
+        "word": "叙利亚已收到千笔中国捐款",
+        "onboard_time": 1675947812,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253420,
+        "num": 253420,
+        "word": "成都街头现飞鸟撞树现象",
+        "onboard_time": 1675959213,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239816,
+        "num": 239816,
+        "word": "王栎鑫喝海南凉茶差点吐了",
+        "onboard_time": 1675989994,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228569,
+        "num": 228569,
+        "word": "小夫妻回应亲手剪掉名下所有信用卡",
+        "onboard_time": 1675955375,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 221333,
+        "num": 221333,
+        "word": "勇士开拓者交易",
+        "onboard_time": 1675984761,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217337,
+        "num": 217337,
+        "word": "男子为儿子上学找人办假证被判刑",
+        "onboard_time": 1675992393,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 207841,
+        "num": 207841,
+        "word": "很担心设计师的精神状态",
+        "onboard_time": 1675987652,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198841,
+        "num": 198841,
+        "word": "梅西或无缘出战拜仁",
+        "onboard_time": 1675992628,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186837,
+        "num": 186837,
+        "word": "湖人掘金交易",
+        "onboard_time": 1675986447,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186283,
+        "num": 186283,
+        "word": "张朝阳再谈四小时睡眠法",
+        "onboard_time": 1675960408,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 178192,
+        "num": 178192,
+        "word": "谁是NBA交易市场最大赢家",
+        "onboard_time": 1675991253,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171399,
+        "num": 171399,
+        "word": "金价一路飙升何时买黄金合适",
+        "onboard_time": 1675960766,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168635,
+        "num": 168635,
+        "word": "男子咨询社保被告知3年前已死亡",
+        "onboard_time": 1675958317,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167222,
+        "num": 167222,
+        "word": "昨夜张陆在太空爬了约140个扶手",
+        "onboard_time": 1675993174,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 159168,
+        "num": 159168,
+        "word": "李恩曝少女神探导演与女生聊天记录",
+        "onboard_time": 1675950332,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158572,
+        "num": 158572,
+        "word": "高叶和她的经纪人李洋",
+        "onboard_time": 1675949013,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152153,
+        "num": 152153,
+        "word": "土耳其一男子告别遇难未婚妻",
+        "onboard_time": 1675978391,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150107,
+        "num": 150107,
+        "word": "张颂文曾在红毯让伞给礼仪小姐",
+        "onboard_time": 1675951174,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平身体力行推动文物抢救和保护工作#"
+    }
+  }
+}

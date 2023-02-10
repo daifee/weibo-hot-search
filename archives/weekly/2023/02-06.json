@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1675985709355,
+  "endTime": 1675993438336,
   "band_list": [
     {
       "raw_hot": 11248891,
@@ -8,6 +8,14 @@
       "word": "刘亚仁涉嫌吸毒",
       "onboard_time": 1675866815,
       "rank": 6,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 8063331,
+      "num": 8063331,
+      "word": "唐小强确认遇难",
+      "onboard_time": 1675985242,
+      "rank": 0,
       "category": "社会新闻,艺人"
     },
     {
@@ -75,6 +83,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 3036699,
+      "num": 1190110,
+      "word": "唐小强被搜救到时已遇难",
+      "onboard_time": 1675989994,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2943348,
       "num": 2943348,
       "word": "言承旭道歉",
@@ -107,12 +123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2489971,
-      "num": 2489971,
-      "word": "唐小强确认遇难",
-      "onboard_time": 1675985242,
-      "rank": 0,
-      "category": "社会新闻,艺人"
+      "raw_hot": 2525822,
+      "num": 617375,
+      "word": "男孩身体不适7次举手后身亡",
+      "onboard_time": 1675986629,
+      "rank": 10,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 2478307,
@@ -675,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1324624,
+      "num": 1324624,
+      "word": "金韩一",
+      "onboard_time": 1675986868,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1302489,
       "num": 1302489,
       "word": "刘亦菲洛杉矶街头被网友偶遇",
@@ -1035,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1095520,
+      "num": 1095520,
+      "word": "狂飙剧中李响杯子掉落是无心的",
+      "onboard_time": 1675988252,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1095250,
       "num": 1095250,
       "word": "张淇 单飞",
@@ -1163,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1000965,
+      "num": 1000965,
+      "word": "韩明起恢复发放中国公民短期签证",
+      "onboard_time": 1675991437,
+      "rank": 5,
+      "category": "国外要闻,旅游"
+    },
+    {
       "raw_hot": 998039,
       "num": 998039,
       "word": "叙利亚已收到千笔中国捐款",
@@ -1273,6 +1313,14 @@
       "onboard_time": 1675935632,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 953999,
+      "num": 953999,
+      "word": "垚组合再也聚不齐了",
+      "onboard_time": 1675989994,
+      "rank": 6,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 953057,
@@ -1595,6 +1643,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 842586,
+      "num": 842586,
+      "word": "华波波",
+      "onboard_time": 1675989155,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 834812,
       "num": 834812,
       "word": "鹿晗做中国乒乓表情包为邓超庆生",
@@ -1808,6 +1864,14 @@
       "word": "内娱叔圈天菜",
       "onboard_time": 1675749872,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 785823,
+      "num": 785823,
+      "word": "李秀满方时赫发表共同立场",
+      "onboard_time": 1675992215,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -2499,6 +2563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 626095,
+      "num": 626095,
+      "word": "非正式会谈",
+      "onboard_time": 1675744047,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 623493,
       "num": 623493,
       "word": "撞脸毛不易的幼儿园园长是硕士毕业",
@@ -3043,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 536687,
+      "num": 536687,
+      "word": "韩国维持对自中国入境者的防疫措施",
+      "onboard_time": 1675992393,
+      "rank": 11,
+      "category": "国外要闻,旅游"
+    },
+    {
       "raw_hot": 536442,
       "num": 536442,
       "word": "外交部回应拉美上空也发现中国无人飞艇",
@@ -3273,6 +3353,14 @@
       "onboard_time": 1675955076,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516049,
+      "num": 516049,
+      "word": "HYBE将成为SMTOWN最大股东",
+      "onboard_time": 1675987652,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 515498,
@@ -3803,6 +3891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 443365,
+      "num": 443365,
+      "word": "非正式会谈oo",
+      "onboard_time": 1675991735,
+      "rank": 13,
+      "category": "社会新闻,综艺"
+    },
+    {
       "raw_hot": 442334,
       "num": 442334,
       "word": "格莱美",
@@ -3979,6 +4075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428943,
+      "num": 428943,
+      "word": "陈楚生拒绝快乐再出发内讧",
+      "onboard_time": 1675986809,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427586,
       "num": 427586,
       "word": "狂飙全员撞脸动画片",
@@ -4123,6 +4227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415398,
+      "num": 415398,
+      "word": "1分钟看懂ChatGPT是啥",
+      "onboard_time": 1675988012,
+      "rank": 16,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 412910,
       "num": 412910,
       "word": "Crisp和LWX碰拳",
@@ -4185,6 +4297,14 @@
       "onboard_time": 1675733725,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409686,
+      "num": 409686,
+      "word": "萨沙",
+      "onboard_time": 1675990836,
+      "rank": 17,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 409109,
@@ -4273,6 +4393,14 @@
       "onboard_time": 1675749270,
       "rank": 27,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 399588,
+      "num": 399588,
+      "word": "哪些职业容易被人工智能代替",
+      "onboard_time": 1675990115,
+      "rank": 18,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 399050,
@@ -4395,6 +4523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 393693,
+      "num": 393693,
+      "word": "土耳其强震已造成17674人死亡",
+      "onboard_time": 1675989753,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391187,
       "num": 391187,
       "word": "中国以全球最高价进口俄油系误导",
@@ -4427,20 +4563,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 386769,
-      "num": 386769,
+      "raw_hot": 389392,
+      "num": 389392,
       "word": "C罗沙特超大四喜",
       "onboard_time": 1675984761,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 386391,
-      "num": 386391,
-      "word": "非正式会谈",
-      "onboard_time": 1675744047,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 385825,
@@ -4544,6 +4672,14 @@
       "word": "张颂文高启强登顶热播剧集角色吸粉榜",
       "onboard_time": 1675861293,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 373666,
+      "num": 373666,
+      "word": "狂飙陈书婷到底美在哪里",
+      "onboard_time": 1675984881,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -4707,6 +4843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361818,
+      "num": 270567,
+      "word": "为照顾谈恋爱的人西湖长椅间距拉开",
+      "onboard_time": 1675992271,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 360558,
       "num": 360558,
       "word": "张译解扣子",
@@ -4867,6 +5011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345242,
+      "num": 345242,
+      "word": "陈卓璇卡点为张艺凡庆生",
+      "onboard_time": 1675992034,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345030,
       "num": 345030,
       "word": "你会选择贷款买房吗",
@@ -4881,6 +5033,14 @@
       "onboard_time": 1675675831,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 344668,
+      "num": 344668,
+      "word": "中国救援队成功营救出第3名幸存者",
+      "onboard_time": 1675987472,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344625,
@@ -5323,6 +5483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310889,
+      "num": 310889,
+      "word": "上海月最低工资全国最高",
+      "onboard_time": 1675965857,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 310410,
       "num": 310410,
       "word": "杭州烟花",
@@ -5553,6 +5721,14 @@
       "onboard_time": 1675830275,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298792,
+      "num": 298792,
+      "word": "曾舜晞陈都灵牵手同框路透",
+      "onboard_time": 1675989396,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 298480,
@@ -5809,6 +5985,14 @@
       "onboard_time": 1675931069,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286819,
+      "num": 286819,
+      "word": "叙利亚总统怒斥西方",
+      "onboard_time": 1675964716,
+      "rank": 14,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 286741,
@@ -6089,6 +6273,22 @@
       "onboard_time": 1675944149,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272857,
+      "num": 272857,
+      "word": "王阳台词功底",
+      "onboard_time": 1675992572,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271424,
+      "num": 271424,
+      "word": "周鸿祎称搭不上ChatGPT企业会被淘汰",
+      "onboard_time": 1675988492,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 270354,
@@ -6755,6 +6955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 239816,
+      "num": 239816,
+      "word": "王栎鑫喝海南凉茶差点吐了",
+      "onboard_time": 1675989994,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238806,
       "num": 238806,
       "word": "白鹿开车vlog",
@@ -7235,6 +7443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217337,
+      "num": 217337,
+      "word": "男子为儿子上学找人办假证被判刑",
+      "onboard_time": 1675992393,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 216713,
       "num": 216713,
       "word": "南京夫子庙人海里的定海神针",
@@ -7435,6 +7651,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 207841,
+      "num": 207841,
+      "word": "很担心设计师的精神状态",
+      "onboard_time": 1675987652,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207777,
       "num": 207777,
       "word": "李小冉说刘淑霞人难做钱难挣",
@@ -7633,6 +7857,14 @@
       "onboard_time": 1675920326,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198841,
+      "num": 198841,
+      "word": "梅西或无缘出战拜仁",
+      "onboard_time": 1675992628,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 198632,
@@ -7899,14 +8131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 189105,
-      "num": 189105,
-      "word": "叙利亚总统怒斥西方",
-      "onboard_time": 1675964716,
-      "rank": 14,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 189098,
       "num": 189098,
       "word": "中国220吨小麦将运抵叙利亚",
@@ -7961,6 +8185,14 @@
       "onboard_time": 1675873585,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186837,
+      "num": 186837,
+      "word": "湖人掘金交易",
+      "onboard_time": 1675986447,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 186799,
@@ -8155,14 +8387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181385,
-      "num": 181385,
-      "word": "狂飙陈书婷到底美在哪里",
-      "onboard_time": 1675984881,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 181196,
       "num": 181196,
       "word": "土耳其地震暂无中国公民伤亡",
@@ -8249,6 +8473,14 @@
       "onboard_time": 1675754971,
       "rank": 41,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 178192,
+      "num": 178192,
+      "word": "谁是NBA交易市场最大赢家",
+      "onboard_time": 1675991253,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 177708,
@@ -8369,14 +8601,6 @@
       "onboard_time": 1675795813,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171766,
-      "num": 171766,
-      "word": "上海月最低工资全国最高",
-      "onboard_time": 1675965857,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 171496,
@@ -8537,6 +8761,14 @@
       "onboard_time": 1675756409,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167222,
+      "num": 167222,
+      "word": "昨夜张陆在太空爬了约140个扶手",
+      "onboard_time": 1675993174,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 167176,
