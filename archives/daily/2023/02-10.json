@@ -1,6 +1,6 @@
 {
   "startTime": 1675960021377,
-  "endTime": 1675999615015,
+  "endTime": 1676000420775,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3036699,
-      "num": 1801389,
+      "num": 1815830,
       "word": "唐小强被搜救到时已遇难",
       "onboard_time": 1675989994,
       "rank": 3,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2830461,
-      "num": 717026,
+      "num": 739243,
       "word": "男生身高165cm你介意吗",
       "onboard_time": 1675995092,
       "rank": 10,
@@ -43,8 +43,8 @@
       "category": "社会负面,教育"
     },
     {
-      "raw_hot": 1704422,
-      "num": 1704422,
+      "raw_hot": 2110793,
+      "num": 2110793,
       "word": "浪姐4 录制名单",
       "onboard_time": 1675998513,
       "rank": 4,
@@ -147,6 +147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 741186,
+      "num": 741186,
+      "word": "女生因地震取消跟团游仅退3成费用",
+      "onboard_time": 1675998752,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 731742,
+      "num": 731742,
+      "word": "杨幂短发齐刘海",
+      "onboard_time": 1675998333,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 718348,
       "num": 718348,
       "word": "中国乒乓预告发疯了",
@@ -195,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 662146,
-      "num": 662146,
-      "word": "杨幂短发齐刘海",
-      "onboard_time": 1675998333,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 619074,
       "num": 619074,
       "word": "特斯拉ModelY涨价2000",
@@ -219,12 +227,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 603527,
+      "num": 603527,
+      "word": "大嫂出场即兴砸杯子磕坏楼梯",
+      "onboard_time": 1675997851,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 590070,
       "num": 449283,
       "word": "鞠婧祎喝椰子水视频",
       "onboard_time": 1675951776,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 569431,
+      "num": 569431,
+      "word": "成龙探班杨幂新片",
+      "onboard_time": 1675998932,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 566796,
@@ -307,22 +331,6 @@
       "category": "社会新闻,综艺"
     },
     {
-      "raw_hot": 463152,
-      "num": 463152,
-      "word": "大嫂出场即兴砸杯子磕坏楼梯",
-      "onboard_time": 1675997851,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 459792,
-      "num": 459792,
-      "word": "成龙探班杨幂新片",
-      "onboard_time": 1675998932,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 455633,
       "num": 455633,
       "word": "小夫妻回应亲手剪掉名下所有信用卡",
@@ -331,11 +339,11 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 455111,
-      "num": 455111,
-      "word": "女生因地震取消跟团游仅退3成费用",
-      "onboard_time": 1675998752,
-      "rank": 20,
+      "raw_hot": 444029,
+      "num": 444029,
+      "word": "女职工哺乳期后拒绝调岗被解雇",
+      "onboard_time": 1675999233,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -361,6 +369,14 @@
       "onboard_time": 1675986809,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 426042,
+      "num": 426042,
+      "word": "Minji高中毕业典礼生图",
+      "onboard_time": 1676000015,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 419221,
@@ -467,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338073,
+      "num": 338073,
+      "word": "金泰妍将solo回归",
+      "onboard_time": 1675999535,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 337636,
       "num": 337636,
       "word": "刘亚仁确认吸毒",
@@ -561,6 +585,14 @@
       "onboard_time": 1675964716,
       "rank": 14,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 291693,
+      "num": 291693,
+      "word": "原配要求退还钱款小三辩称那是工资",
+      "onboard_time": 1675999957,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287605,
@@ -659,28 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238250,
-      "num": 238250,
-      "word": "金泰妍将solo回归",
-      "onboard_time": 1675999535,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 228305,
       "num": 228305,
       "word": "首款招聘类ChatGPT产品上线",
       "onboard_time": 1675996411,
       "rank": 42,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 223515,
-      "num": 223515,
-      "word": "女职工哺乳期后拒绝调岗被解雇",
-      "onboard_time": 1675999233,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222421,
@@ -731,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198255,
+      "num": 198255,
+      "word": "星穹铁道公测时间疑似泄露",
+      "onboard_time": 1675999596,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198219,
       "num": 198219,
       "word": "AI生成能否掀起新一轮产业升级",
@@ -777,6 +801,14 @@
       "onboard_time": 1675998695,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179083,
+      "num": 179083,
+      "word": "王子浩的初舞台是张艺兴的面纱",
+      "onboard_time": 1675999774,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 178192,
@@ -857,14 +889,6 @@
       "onboard_time": 1675952856,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148101,
-      "num": 148101,
-      "word": "星穹铁道公测时间疑似泄露",
-      "onboard_time": 1675999596,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 147998,
@@ -987,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114759,
+      "num": 2370906,
+      "word": "60秒速览神十五乘组首次出舱任务",
+      "onboard_time": 1675998214,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 114729,
       "num": 114729,
       "word": "苏醒陆虎吃意念海鲜",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1675931668,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90627,
-      "num": 2032339,
-      "word": "60秒速览神十五乘组首次出舱任务",
-      "onboard_time": 1675998214,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 90272,
