@@ -1,6 +1,6 @@
 {
   "startTime": 1675960021377,
-  "endTime": 1676033674884,
+  "endTime": 1676035569143,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -155,8 +155,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1326193,
-      "num": 1326193,
+      "raw_hot": 1354389,
+      "num": 1354389,
       "word": "孙俪谢娜魏大勋等人亮相成都",
       "onboard_time": 1676032472,
       "rank": 25,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 659580,
-      "num": 538277,
+      "num": 562391,
       "word": "英雄志疑似违规拍摄",
       "onboard_time": 1676033131,
       "rank": 10,
@@ -585,6 +585,14 @@
       "onboard_time": 1676011471,
       "rank": 17,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 628711,
+      "num": 565976,
+      "word": "唐嫣感谢张杰唱的歌助攻何以笙箫默",
+      "onboard_time": 1676034270,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 619074,
@@ -747,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 510975,
+      "num": 510975,
+      "word": "叙利亚义卖香皂遭遇抢购",
+      "onboard_time": 1676031153,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504950,
       "num": 504950,
       "word": "蓝天救援队翻译是武大留学生",
@@ -827,6 +843,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 454060,
+      "num": 454060,
+      "word": "付心童确诊躁郁症提出离婚",
+      "onboard_time": 1676033972,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 450523,
       "num": 450523,
       "word": "D社说方时赫不是李秀满的白骑士",
@@ -841,6 +865,14 @@
       "onboard_time": 1676017172,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439091,
+      "num": 439091,
+      "word": "唐嫣孙坚友谊",
+      "onboard_time": 1676035052,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 438247,
@@ -929,6 +961,14 @@
       "onboard_time": 1675990836,
       "rank": 17,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 406072,
+      "num": 406072,
+      "word": "童瑶山楂糖雪球抹胸长裙",
+      "onboard_time": 1676033073,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 404119,
@@ -1035,14 +1075,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 363020,
-      "num": 363020,
-      "word": "童瑶山楂糖雪球抹胸长裙",
-      "onboard_time": 1676033073,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 359302,
       "num": 359302,
       "word": "马嘉祺模仿贺峻霖嘟嘴",
@@ -1121,14 +1153,6 @@
       "onboard_time": 1675995931,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 333114,
-      "num": 333114,
-      "word": "叙利亚义卖香皂遭遇抢购",
-      "onboard_time": 1676031153,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328187,
@@ -1427,6 +1451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267674,
+      "num": 267674,
+      "word": "关晓彤玫红长裙造型大片",
+      "onboard_time": 1676032953,
+      "rank": 29,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 266138,
+      "num": 266138,
+      "word": "研究称莫奈印象派画风实则是雾霾",
+      "onboard_time": 1676032650,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264840,
       "num": 117072,
       "word": "河南信阳现多人霸凌事件",
@@ -1507,6 +1547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234294,
+      "num": 234294,
+      "word": "鞠婧祎兜风vlog",
+      "onboard_time": 1676033733,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232719,
       "num": 232719,
       "word": "90后女子回村种香椿3月挣8万",
@@ -1537,6 +1585,14 @@
       "onboard_time": 1676021192,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 225928,
+      "num": 225928,
+      "word": "周深闽南语唱家后",
+      "onboard_time": 1676034390,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 222421,
@@ -1577,14 +1633,6 @@
       "onboard_time": 1675992393,
       "rank": 37,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 212670,
-      "num": 212670,
-      "word": "关晓彤玫红长裙造型大片",
-      "onboard_time": 1676032953,
-      "rank": 29,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 210928,
@@ -1803,6 +1851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 172927,
+      "num": 172927,
+      "word": "TES对战UP",
+      "onboard_time": 1676033493,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170940,
       "num": 170940,
       "word": "研究称ChatGPT或成传播网络谣言最强工具",
@@ -1867,14 +1923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164852,
-      "num": 164852,
-      "word": "TES对战UP",
-      "onboard_time": 1676033493,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 164429,
       "num": 164429,
       "word": "KPL新宣传片",
@@ -1889,6 +1937,14 @@
       "onboard_time": 1676020591,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161864,
+      "num": 161864,
+      "word": "曾黎山海赋戏腔",
+      "onboard_time": 1676035412,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 160659,
@@ -2051,14 +2107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127594,
-      "num": 127594,
-      "word": "研究称莫奈印象派画风实则是雾霾",
-      "onboard_time": 1676032650,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125069,
       "num": 125069,
       "word": "日本樱岛火山复活火山灰喷至千米高",
@@ -2081,6 +2129,14 @@
       "onboard_time": 1675981996,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123689,
+      "num": 123689,
+      "word": "俞永镇发文支持李秀满",
+      "onboard_time": 1676035469,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 122858,

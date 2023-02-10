@@ -1,0 +1,410 @@
+{
+  "runTime": 1676035569143,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1492763,
+        "num": 1492763,
+        "word": "时代少年团 秒切",
+        "onboard_time": 1676028272,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1354389,
+        "num": 1354389,
+        "word": "孙俪谢娜魏大勋等人亮相成都",
+        "onboard_time": 1676032472,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6527,
+        "num": 1188550,
+        "word": "60秒速览神十五乘组首次出舱任务",
+        "onboard_time": 1675998214,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1178217,
+        "num": 1178217,
+        "word": "张颂文 为什么会这样",
+        "onboard_time": 1676022810,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 752788,
+        "num": 752788,
+        "word": "张杰12年前陪小沈阳听歌错过洞房花烛夜",
+        "onboard_time": 1676028212,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750230,
+        "num": 750230,
+        "word": "17岁少年被困94小时喝尿液坚持获救",
+        "onboard_time": 1676028932,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715958,
+        "num": 715958,
+        "word": "张译经纪公司严正声明",
+        "onboard_time": 1676026052,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677178,
+        "num": 677178,
+        "word": "胜利曾非法拍摄中国女性",
+        "onboard_time": 1676023353,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 609379,
+        "num": 609379,
+        "word": "西安最倒霉面馆顾客暴涨员工数翻4倍",
+        "onboard_time": 1676024610,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567007,
+        "num": 567007,
+        "word": "迪丽热巴 超能摄影阳阳",
+        "onboard_time": 1676011471,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628711,
+        "num": 565976,
+        "word": "唐嫣感谢张杰唱的歌助攻何以笙箫默",
+        "onboard_time": 1676034270,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590370,
+        "num": 562391,
+        "word": "英雄志疑似违规拍摄",
+        "onboard_time": 1676033131,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 554375,
+        "num": 554375,
+        "word": "年轻人为什么抛弃了QQ",
+        "onboard_time": 1676008891,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 510975,
+        "num": 510975,
+        "word": "叙利亚义卖香皂遭遇抢购",
+        "onboard_time": 1676031153,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454060,
+        "num": 454060,
+        "word": "付心童确诊躁郁症提出离婚",
+        "onboard_time": 1676033972,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 439091,
+        "num": 439091,
+        "word": "唐嫣孙坚友谊",
+        "onboard_time": 1676035052,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1941704,
+        "num": 436928,
+        "word": "易烊千玺直播",
+        "onboard_time": 1676031571,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434263,
+        "num": 434263,
+        "word": "迪丽热巴工作室晒维权通告",
+        "onboard_time": 1676011052,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406072,
+        "num": 406072,
+        "word": "童瑶山楂糖雪球抹胸长裙",
+        "onboard_time": 1676033073,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396445,
+        "num": 396445,
+        "word": "中方回应美多州考虑禁止中国公民买房",
+        "onboard_time": 1676026890,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 384207,
+        "num": 384207,
+        "word": "唐小强葬礼将在伊斯坦布尔举行",
+        "onboard_time": 1676018669,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368581,
+        "num": 368581,
+        "word": "带手镯做磁共振烫出一圈泡",
+        "onboard_time": 1676021671,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361063,
+        "num": 361063,
+        "word": "封神",
+        "onboard_time": 1676028511,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342997,
+        "num": 342997,
+        "word": "男子躲查酒驾3次跳河血检结果为0",
+        "onboard_time": 1676023710,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325529,
+        "num": 325529,
+        "word": "你的QQ号码是几位数",
+        "onboard_time": 1676016273,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 296172,
+        "num": 296172,
+        "word": "鹿晗夹克上好多袖子",
+        "onboard_time": 1676022692,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282867,
+        "num": 282867,
+        "word": "山东女子请命奔赴土耳其救援",
+        "onboard_time": 1676031091,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282169,
+        "num": 282169,
+        "word": "骑车拖行小猫致死当事人公开道歉",
+        "onboard_time": 1676019511,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267674,
+        "num": 267674,
+        "word": "关晓彤玫红长裙造型大片",
+        "onboard_time": 1676032953,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 266138,
+        "num": 266138,
+        "word": "研究称莫奈印象派画风实则是雾霾",
+        "onboard_time": 1676032650,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246106,
+        "num": 246106,
+        "word": "张颂文签名照被卖到8000元",
+        "onboard_time": 1676022090,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234294,
+        "num": 234294,
+        "word": "鞠婧祎兜风vlog",
+        "onboard_time": 1676033733,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232321,
+        "num": 232321,
+        "word": "短道速滑",
+        "onboard_time": 1676030434,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225928,
+        "num": 225928,
+        "word": "周深闽南语唱家后",
+        "onboard_time": 1676034390,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214257,
+        "num": 214257,
+        "word": "QQ首位用户找到了",
+        "onboard_time": 1676001933,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 198611,
+        "num": 198611,
+        "word": "纪委回应书记被绑架网传付千万赎金",
+        "onboard_time": 1676018071,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189456,
+        "num": 189456,
+        "word": "张栋梁安慰情绪崩溃的胡宇桐",
+        "onboard_time": 1676023770,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172927,
+        "num": 172927,
+        "word": "TES对战UP",
+        "onboard_time": 1676033493,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161864,
+        "num": 161864,
+        "word": "曾黎山海赋戏腔",
+        "onboard_time": 1676035412,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155929,
+        "num": 155929,
+        "word": "土耳其强震",
+        "onboard_time": 1676008471,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144898,
+        "num": 144898,
+        "word": "女婴被埋废墟救援队听哭声救全家人",
+        "onboard_time": 1676021313,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142610,
+        "num": 142610,
+        "word": "去有风的云南",
+        "onboard_time": 1676030552,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 137826,
+        "num": 137826,
+        "word": "白羊座真的不是恋爱脑",
+        "onboard_time": 1676011471,
+        "rank": 42,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 136299,
+        "num": 136299,
+        "word": "WB对战eStar",
+        "onboard_time": 1676029953,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134242,
+        "num": 134242,
+        "word": "没想到两只猴这么有节目效果",
+        "onboard_time": 1676025691,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129611,
+        "num": 129611,
+        "word": "刘亚仁尿检结果阳性",
+        "onboard_time": 1676016993,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 124506,
+        "num": 124506,
+        "word": "田曦薇晒怼脸随拍",
+        "onboard_time": 1676027612,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123689,
+        "num": 123689,
+        "word": "俞永镇发文支持李秀满",
+        "onboard_time": 1676035469,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122088,
+        "num": 122088,
+        "word": "虞书欣粉色露背吊带造型",
+        "onboard_time": 1676020893,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122082,
+        "num": 122082,
+        "word": "傅首尔说别以为离了自己地球不转",
+        "onboard_time": 1676026052,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}
