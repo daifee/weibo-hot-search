@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676047469692,
+  "endTime": 1676049477680,
   "band_list": [
     {
       "raw_hot": 3687086,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1020558,
-      "num": 1020558,
+      "raw_hot": 1036663,
+      "num": 1036663,
       "word": "郑州某医院再现半蹲式窗口",
       "onboard_time": 1676044947,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 673752,
+      "num": 673752,
+      "word": "有什么是你结婚后才明白的",
+      "onboard_time": 1676045847,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 662845,
       "num": 662845,
       "word": "狂飙金句第一人",
@@ -81,14 +89,6 @@
       "onboard_time": 1676022810,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 542444,
-      "num": 542444,
-      "word": "有什么是你结婚后才明白的",
-      "onboard_time": 1676045847,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 537962,
@@ -193,6 +193,14 @@
       "onboard_time": 1676037690,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288541,
+      "num": 288541,
+      "word": "唐艺昕说谁都不是天生就会做父母的",
+      "onboard_time": 1676045548,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 268740,
@@ -379,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155758,
-      "num": 155758,
-      "word": "唐艺昕说谁都不是天生就会做父母的",
-      "onboard_time": 1676045548,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152742,
       "num": 150796,
       "word": "最强大脑这期又燃又好哭",
@@ -401,6 +401,14 @@
       "onboard_time": 1676026890,
       "rank": 47,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 121630,
+      "num": 121630,
+      "word": "傅莹被厂里辞退",
+      "onboard_time": 1676048062,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 55246,
