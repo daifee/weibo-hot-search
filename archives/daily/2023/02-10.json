@@ -1,6 +1,6 @@
 {
   "startTime": 1675960021377,
-  "endTime": 1676035569143,
+  "endTime": 1676036243348,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 753643,
+      "num": 753643,
+      "word": "唐嫣感谢张杰唱的歌助攻何以笙箫默",
+      "onboard_time": 1676034270,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 740638,
       "num": 740638,
       "word": "纪委回应书记被绑架网传付千万赎金",
@@ -587,11 +595,11 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 628711,
-      "num": 565976,
-      "word": "唐嫣感谢张杰唱的歌助攻何以笙箫默",
-      "onboard_time": 1676034270,
-      "rank": 10,
+      "raw_hot": 631044,
+      "num": 601989,
+      "word": "唐嫣孙坚友谊",
+      "onboard_time": 1676035052,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -664,6 +672,14 @@
       "word": "男子吸烟40年肺里长出大气球",
       "onboard_time": 1675958256,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562567,
+      "num": 562567,
+      "word": "叙利亚义卖香皂遭遇抢购",
+      "onboard_time": 1676031153,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -753,14 +769,6 @@
       "onboard_time": 1675994250,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 510975,
-      "num": 510975,
-      "word": "叙利亚义卖香皂遭遇抢购",
-      "onboard_time": 1676031153,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 504950,
@@ -865,14 +873,6 @@
       "onboard_time": 1676017172,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439091,
-      "num": 439091,
-      "word": "唐嫣孙坚友谊",
-      "onboard_time": 1676035052,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 438247,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1675984761,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 386344,
+      "num": 386344,
+      "word": "田震说深深地怀疑周深",
+      "onboard_time": 1676036187,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 373666,
@@ -1233,6 +1241,14 @@
       "onboard_time": 1675958498,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 308488,
+      "num": 308488,
+      "word": "张嘉倪亮片纱裙造型",
+      "onboard_time": 1676035650,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 308360,
@@ -1435,6 +1451,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 271161,
+      "num": 271161,
+      "word": "关晓彤玫红长裙造型大片",
+      "onboard_time": 1676032953,
+      "rank": 29,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 270785,
       "num": 270785,
       "word": "腾讯QQ回应崩了",
@@ -1443,27 +1467,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 270231,
+      "num": 270231,
+      "word": "研究称莫奈印象派画风实则是雾霾",
+      "onboard_time": 1676032650,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268557,
       "num": 268557,
       "word": "女婴被埋废墟救援队听哭声救全家人",
       "onboard_time": 1676021313,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267674,
-      "num": 267674,
-      "word": "关晓彤玫红长裙造型大片",
-      "onboard_time": 1676032953,
-      "rank": 29,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 266138,
-      "num": 266138,
-      "word": "研究称莫奈印象派画风实则是雾霾",
-      "onboard_time": 1676032650,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1827,6 +1843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178881,
+      "num": 178881,
+      "word": "曾黎山海赋戏腔",
+      "onboard_time": 1676035412,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178192,
       "num": 178192,
       "word": "谁是NBA交易市场最大赢家",
@@ -1857,6 +1881,14 @@
       "onboard_time": 1676033493,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171562,
+      "num": 171562,
+      "word": "谢娜猫眼妆高马尾造型",
+      "onboard_time": 1676035830,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 170940,
@@ -1939,14 +1971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161864,
-      "num": 161864,
-      "word": "曾黎山海赋戏腔",
-      "onboard_time": 1676035412,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 160659,
       "num": 160659,
       "word": "重紫男演员颜值",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1675997011,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153553,
+      "num": 153553,
+      "word": "戚薇给丰碧玉加少女滤镜",
+      "onboard_time": 1676035650,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 151901,
@@ -2073,6 +2105,14 @@
       "onboard_time": 1675946312,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134420,
+      "num": 134420,
+      "word": "山东省人类精子库招募捐精志愿者",
+      "onboard_time": 1676036009,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132478,

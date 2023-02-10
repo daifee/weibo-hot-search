@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676035569143,
+  "endTime": 1676036243348,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -4691,6 +4691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 753643,
+      "num": 753643,
+      "word": "唐嫣感谢张杰唱的歌助攻何以笙箫默",
+      "onboard_time": 1676034270,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 750729,
       "num": 750729,
       "word": "男友拒不结婚42岁女子独自生养女儿",
@@ -6075,6 +6083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631044,
+      "num": 601989,
+      "word": "唐嫣孙坚友谊",
+      "onboard_time": 1676035052,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 630875,
       "num": 630875,
       "word": "中国救援队从土耳其废墟救出一名孕妇",
@@ -6121,14 +6137,6 @@
       "onboard_time": 1675531400,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 628711,
-      "num": 565976,
-      "word": "唐嫣感谢张杰唱的歌助攻何以笙箫默",
-      "onboard_time": 1676034270,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 628686,
@@ -6953,6 +6961,14 @@
       "onboard_time": 1675747771,
       "rank": 39,
       "category": "科技,游戏"
+    },
+    {
+      "raw_hot": 562567,
+      "num": 562567,
+      "word": "叙利亚义卖香皂遭遇抢购",
+      "onboard_time": 1676031153,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562327,
@@ -7920,14 +7936,6 @@
       "word": "2岁娃山区玩后反复发烧查出黑热病",
       "onboard_time": 1675703299,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510975,
-      "num": 510975,
-      "word": "叙利亚义卖香皂遭遇抢购",
-      "onboard_time": 1676031153,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -9193,14 +9201,6 @@
       "onboard_time": 1675846174,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 439091,
-      "num": 439091,
-      "word": "唐嫣孙坚友谊",
-      "onboard_time": 1676035052,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 438979,
@@ -10545,6 +10545,14 @@
       "onboard_time": 1675255352,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 386344,
+      "num": 386344,
+      "word": "田震说深深地怀疑周深",
+      "onboard_time": 1676036187,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 385825,
@@ -12739,6 +12747,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 308488,
+      "num": 308488,
+      "word": "张嘉倪亮片纱裙造型",
+      "onboard_time": 1676035650,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308427,
       "num": 308427,
       "word": "强震已致土耳其叙利亚超1400人遇难",
@@ -14339,6 +14355,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 271161,
+      "num": 271161,
+      "word": "关晓彤玫红长裙造型大片",
+      "onboard_time": 1676032953,
+      "rank": 29,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 270872,
       "num": 270872,
       "word": "权顺荣说追星不容易",
@@ -14361,6 +14385,14 @@
       "onboard_time": 1675754070,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 270231,
+      "num": 270231,
+      "word": "研究称莫奈印象派画风实则是雾霾",
+      "onboard_time": 1676032650,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270024,
@@ -14499,14 +14531,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 267674,
-      "num": 267674,
-      "word": "关晓彤玫红长裙造型大片",
-      "onboard_time": 1676032953,
-      "rank": 29,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 267480,
       "num": 267480,
       "word": "当爸妈第一次见到缅因猫",
@@ -14577,14 +14601,6 @@
       "onboard_time": 1675248814,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 266138,
-      "num": 266138,
-      "word": "研究称莫奈印象派画风实则是雾霾",
-      "onboard_time": 1676032650,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266006,
@@ -19235,6 +19251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178881,
+      "num": 178881,
+      "word": "曾黎山海赋戏腔",
+      "onboard_time": 1676035412,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178271,
       "num": 178271,
       "word": "ChatGPT称用其写作业或有道德问题",
@@ -19641,6 +19665,14 @@
       "onboard_time": 1675382847,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171562,
+      "num": 171562,
+      "word": "谢娜猫眼妆高马尾造型",
+      "onboard_time": 1676035830,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 171511,
@@ -20371,14 +20403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 161864,
-      "num": 161864,
-      "word": "曾黎山海赋戏腔",
-      "onboard_time": 1676035412,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 161617,
       "num": 161617,
       "word": "Hero元宵变装",
@@ -20801,6 +20825,14 @@
       "onboard_time": 1675905869,
       "rank": 46,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 153553,
+      "num": 153553,
+      "word": "戚薇给丰碧玉加少女滤镜",
+      "onboard_time": 1676035650,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 153375,
@@ -21617,6 +21649,14 @@
       "onboard_time": 1675662687,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134420,
+      "num": 134420,
+      "word": "山东省人类精子库招募捐精志愿者",
+      "onboard_time": 1676036009,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134078,
