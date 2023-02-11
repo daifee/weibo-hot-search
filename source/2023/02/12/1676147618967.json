@@ -1,0 +1,410 @@
+{
+  "runTime": 1676147618967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 259584,
+        "num": 259584,
+        "word": "狂飙修改删除涉毒演员戏份",
+        "onboard_time": 1676129014,
+        "rank": 0,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 229129,
+        "num": 229129,
+        "word": "人鱼",
+        "onboard_time": 1676125952,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 8353,
+        "num": 161914,
+        "word": "2023春耕进行时",
+        "onboard_time": 1676125775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120956,
+        "num": 120956,
+        "word": "可能被ChatGPT取代的10大职业",
+        "onboard_time": 1676131768,
+        "rank": 3,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 91072,
+        "num": 91072,
+        "word": "杭州一套凶宅起拍单价2万你敢买吗",
+        "onboard_time": 1676126071,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76849,
+        "num": 76849,
+        "word": "入职1小时被HR告知招错人补偿50元",
+        "onboard_time": 1676113765,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73524,
+        "num": 73524,
+        "word": "李一桐郭晓婷当群演一天赚了288",
+        "onboard_time": 1676127571,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55517,
+        "num": 55517,
+        "word": "7旬老人输液瓶内现絮状物后抢救",
+        "onboard_time": 1676126851,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51156,
+        "num": 51156,
+        "word": "土耳其地震后一猫一狗紧紧相依",
+        "onboard_time": 1676137278,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 49118,
+        "num": 49118,
+        "word": "三亚旅游发现拔白发服务一小时50元",
+        "onboard_time": 1676128653,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 64866,
+        "num": 48682,
+        "word": "男子捞鱼2万元手机滑落冰洞",
+        "onboard_time": 1676141176,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45177,
+        "num": 45177,
+        "word": "你只管踩油门剩下的交给我们",
+        "onboard_time": 1676124091,
+        "rank": 11,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 42523,
+        "num": 42523,
+        "word": "张若昀被粉丝送银票花",
+        "onboard_time": 1676131948,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40533,
+        "num": 40533,
+        "word": "狂飙钟阿四真的不是演的",
+        "onboard_time": 1676121930,
+        "rank": 13,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 38742,
+        "num": 38742,
+        "word": "男子驱车看苗寨小姐姐发现全是阿姨",
+        "onboard_time": 1676134883,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34529,
+        "num": 34529,
+        "word": "于正说肖战还不火啥叫火",
+        "onboard_time": 1676108486,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34429,
+        "num": 34429,
+        "word": "官方通报山东女足队员家遭强拆",
+        "onboard_time": 1676123370,
+        "rank": 16,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 32792,
+        "num": 32792,
+        "word": "狂飙严正声明",
+        "onboard_time": 1676125108,
+        "rank": 17,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 30875,
+        "num": 30875,
+        "word": "含笑",
+        "onboard_time": 1676126610,
+        "rank": 18,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 30307,
+        "num": 30307,
+        "word": "土耳其翻译说救援队像在救自己的人民",
+        "onboard_time": 1676129014,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30280,
+        "num": 30280,
+        "word": "上海巨型玫瑰",
+        "onboard_time": 1676117608,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28867,
+        "num": 28867,
+        "word": "RW战胜AG",
+        "onboard_time": 1676130872,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28586,
+        "num": 28586,
+        "word": "中国造照明无人机点亮地震救援现场",
+        "onboard_time": 1676124510,
+        "rank": 22,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 28473,
+        "num": 28473,
+        "word": "武汉地铁3外籍男子横卧整排座位",
+        "onboard_time": 1676114969,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26664,
+        "num": 26664,
+        "word": "网友深圳街头偶遇李宏毅",
+        "onboard_time": 1676121390,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26138,
+        "num": 26138,
+        "word": "19岁男孩常忘事患上阿尔茨海默病",
+        "onboard_time": 1676117306,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25813,
+        "num": 25813,
+        "word": "宋江翻跳SEVENTEEN的HOT",
+        "onboard_time": 1676130272,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25800,
+        "num": 25800,
+        "word": "关注土耳其7.8级地震",
+        "onboard_time": 1676139916,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25257,
+        "num": 25257,
+        "word": "张天爱大波浪好港",
+        "onboard_time": 1676131170,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24977,
+        "num": 24977,
+        "word": "多地学校推出开学过渡套餐",
+        "onboard_time": 1676129493,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 68672,
+        "num": 24738,
+        "word": "土耳其地震为啥这么严重",
+        "onboard_time": 1676140995,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23854,
+        "num": 23854,
+        "word": "这狗狗怎么全程黑脸",
+        "onboard_time": 1676132427,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23035,
+        "num": 23035,
+        "word": "水牛记手机壳",
+        "onboard_time": 1676132487,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22995,
+        "num": 22995,
+        "word": "WBG战胜JDG",
+        "onboard_time": 1676125470,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21569,
+        "num": 21569,
+        "word": "上市公司回应董事长月薪两万招保镖",
+        "onboard_time": 1676116469,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 21273,
+        "num": 21273,
+        "word": "林孝埈 半决赛",
+        "onboard_time": 1676122350,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20838,
+        "num": 20838,
+        "word": "才知道交通卡这么有趣",
+        "onboard_time": 1676130393,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19791,
+        "num": 19791,
+        "word": "RNG官宣教练Heart离队",
+        "onboard_time": 1676113045,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19474,
+        "num": 19474,
+        "word": "程耳王一博二搭电影人鱼",
+        "onboard_time": 1676121029,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19356,
+        "num": 19356,
+        "word": "JDG对战WBG",
+        "onboard_time": 1676116709,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18949,
+        "num": 18949,
+        "word": "张元英翻跳PinkVenom视频",
+        "onboard_time": 1676121689,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17930,
+        "num": 17930,
+        "word": "IVE新歌NotYourGirl",
+        "onboard_time": 1676129014,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17922,
+        "num": 17922,
+        "word": "小虎辛德拉",
+        "onboard_time": 1676127273,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17079,
+        "num": 17079,
+        "word": "这题岳云鹏不会",
+        "onboard_time": 1676136020,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16778,
+        "num": 16778,
+        "word": "何广智希望非诚勿扰能一直办下去",
+        "onboard_time": 1676132608,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16739,
+        "num": 16739,
+        "word": "白鹿以爱为营染发下班路透",
+        "onboard_time": 1676132786,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16208,
+        "num": 16208,
+        "word": "何广智 串儿",
+        "onboard_time": 1676125232,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15677,
+        "num": 15677,
+        "word": "流浪地球",
+        "onboard_time": 1676122709,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15113,
+        "num": 15113,
+        "word": "范世錡向刘耀文传授演戏经验",
+        "onboard_time": 1676129253,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13991,
+        "num": 15110,
+        "word": "宋昕冉生日公演",
+        "onboard_time": 1676129014,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化走得通行得稳#"
+    }
+  }
+}
