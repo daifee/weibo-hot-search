@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676128679737,
+  "endTime": 1676129602171,
   "band_list": [
     {
       "raw_hot": 8361811,
@@ -17,6 +17,14 @@
       "onboard_time": 1676121930,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3909787,
+      "num": 4319574,
+      "word": "狂飙修改删除涉毒演员戏份",
+      "onboard_time": 1676129014,
+      "rank": 0,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 3687086,
@@ -139,19 +147,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1627207,
+      "num": 1627207,
+      "word": "杭州一套凶宅起拍单价2万你敢买吗",
+      "onboard_time": 1676126071,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1605248,
       "num": 1605248,
       "word": "专家提醒每人一生只能捐精一次",
       "onboard_time": 1676090847,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1573794,
-      "num": 1573794,
-      "word": "杭州一套凶宅起拍单价2万你敢买吗",
-      "onboard_time": 1676126071,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795281,
+      "num": 795281,
+      "word": "李一桐郭晓婷当群演一天赚了288",
+      "onboard_time": 1676127571,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 777269,
       "num": 777269,
       "word": "女子路边买鹅蛋煮后蛋清是粉色",
@@ -523,6 +539,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 687484,
+      "num": 687484,
+      "word": "7旬老人输液瓶内现絮状物后抢救",
+      "onboard_time": 1676126851,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 684322,
       "num": 684322,
       "word": "中国搜救犬Lucky寻获1幸存者",
@@ -611,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 634522,
-      "num": 634522,
-      "word": "7旬老人输液瓶内现絮状物后抢救",
-      "onboard_time": 1676126851,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 628472,
       "num": 628472,
       "word": "张颂文 为什么会这样",
@@ -649,14 +665,6 @@
       "onboard_time": 1676082865,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 601112,
-      "num": 601112,
-      "word": "李一桐郭晓婷当群演一天赚了288",
-      "onboard_time": 1676127571,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 594768,
@@ -891,6 +899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 465470,
+      "num": 465470,
+      "word": "IVE新歌NotYourGirl",
+      "onboard_time": 1676129014,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 442112,
       "num": 442112,
       "word": "这就是21级的孙尚香",
@@ -1091,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367574,
+      "num": 367574,
+      "word": "三亚旅游发现拔白发服务一小时50元",
+      "onboard_time": 1676128653,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 366850,
       "num": 366850,
       "word": "被喷奶油的龚俊",
@@ -1283,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 306858,
+      "num": 306858,
+      "word": "范世錡向刘耀文传授演戏经验",
+      "onboard_time": 1676129253,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303912,
       "num": 303912,
       "word": "宋亚轩比八自拍小卡",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1676109265,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 287725,
+      "num": 287725,
+      "word": "小虎辛德拉",
+      "onboard_time": 1676127273,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 287450,
@@ -1417,14 +1457,6 @@
       "onboard_time": 1676094028,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 273360,
-      "num": 273360,
-      "word": "小虎辛德拉",
-      "onboard_time": 1676127273,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 272585,
@@ -1603,6 +1635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235025,
+      "num": 235025,
+      "word": "龚俊檀健次的伞",
+      "onboard_time": 1676128113,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233660,
       "num": 233660,
       "word": "美影厂继中国奇谭后新片公布",
@@ -1633,6 +1673,14 @@
       "onboard_time": 1676113348,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231388,
+      "num": 231388,
+      "word": "土耳其翻译说救援队像在救自己的人民",
+      "onboard_time": 1676129014,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227806,
@@ -1745,6 +1793,14 @@
       "onboard_time": 1676011471,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213050,
+      "num": 213050,
+      "word": "宋昕冉生日公演",
+      "onboard_time": 1676129014,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 212818,
@@ -1952,14 +2008,6 @@
       "word": "龚俊女友视角视频",
       "onboard_time": 1676109687,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 186068,
-      "num": 186068,
-      "word": "龚俊檀健次的伞",
-      "onboard_time": 1676128113,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -2347,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126851,
+      "num": 126851,
+      "word": "多地学校推出开学过渡套餐",
+      "onboard_time": 1676129493,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 125761,
       "num": 125761,
       "word": "周深模仿白娘子",
@@ -2361,14 +2417,6 @@
       "onboard_time": 1676103387,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122672,
-      "num": 122672,
-      "word": "三亚旅游发现拔白发服务一小时50元",
-      "onboard_time": 1676128653,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 121630,
@@ -2452,7 +2500,7 @@
     },
     {
       "raw_hot": 54960,
-      "num": 1955592,
+      "num": 1964476,
       "word": "2023春耕进行时",
       "onboard_time": 1676125775,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1676129602171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3909787,
+        "num": 4319574,
+        "word": "狂飙修改删除涉毒演员戏份",
+        "onboard_time": 1676129014,
+        "rank": 0,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 2479605,
+        "num": 2479605,
+        "word": "狂飙钟阿四真的不是演的",
+        "onboard_time": 1676121930,
+        "rank": 1,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 49029,
+        "num": 1964476,
+        "word": "2023春耕进行时",
+        "onboard_time": 1676125775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1718448,
+        "num": 1718448,
+        "word": "人鱼",
+        "onboard_time": 1676125952,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1627207,
+        "num": 1627207,
+        "word": "杭州一套凶宅起拍单价2万你敢买吗",
+        "onboard_time": 1676126071,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1180944,
+        "num": 1180944,
+        "word": "狂飙严正声明",
+        "onboard_time": 1676125108,
+        "rank": 5,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 1015415,
+        "num": 1015415,
+        "word": "入职1小时被HR告知招错人补偿50元",
+        "onboard_time": 1676113765,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795281,
+        "num": 795281,
+        "word": "李一桐郭晓婷当群演一天赚了288",
+        "onboard_time": 1676127571,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 764242,
+        "num": 764242,
+        "word": "含笑",
+        "onboard_time": 1676126610,
+        "rank": 8,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 687484,
+        "num": 687484,
+        "word": "7旬老人输液瓶内现絮状物后抢救",
+        "onboard_time": 1676126851,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673259,
+        "num": 673259,
+        "word": "于正说肖战还不火啥叫火",
+        "onboard_time": 1676108486,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554383,
+        "num": 554383,
+        "word": "你只管踩油门剩下的交给我们",
+        "onboard_time": 1676124091,
+        "rank": 11,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 524840,
+        "num": 524840,
+        "word": "林孝埈 半决赛",
+        "onboard_time": 1676122350,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524352,
+        "num": 524352,
+        "word": "WBG战胜JDG",
+        "onboard_time": 1676125470,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 465470,
+        "num": 465470,
+        "word": "IVE新歌NotYourGirl",
+        "onboard_time": 1676129014,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 434464,
+        "num": 434464,
+        "word": "官方通报山东女足队员家遭强拆",
+        "onboard_time": 1676123370,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 414898,
+        "num": 414898,
+        "word": "AG对战RW",
+        "onboard_time": 1676124151,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 435660,
+        "num": 391552,
+        "word": "教师会被ChatGPT取代吗",
+        "onboard_time": 1676121868,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 367574,
+        "num": 367574,
+        "word": "三亚旅游发现拔白发服务一小时50元",
+        "onboard_time": 1676128653,
+        "rank": 18,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 338018,
+        "num": 338018,
+        "word": "严浩翔在宿舍的阳台上打坐练剑",
+        "onboard_time": 1676124328,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337291,
+        "num": 337291,
+        "word": "上海巨型玫瑰",
+        "onboard_time": 1676117608,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321422,
+        "num": 321422,
+        "word": "网友深圳街头偶遇李宏毅",
+        "onboard_time": 1676121390,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306858,
+        "num": 306858,
+        "word": "范世錡向刘耀文传授演戏经验",
+        "onboard_time": 1676129253,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292785,
+        "num": 292785,
+        "word": "中国造照明无人机点亮地震救援现场",
+        "onboard_time": 1676124510,
+        "rank": 23,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 287725,
+        "num": 287725,
+        "word": "小虎辛德拉",
+        "onboard_time": 1676127273,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280444,
+        "num": 280444,
+        "word": "张元英翻跳PinkVenom视频",
+        "onboard_time": 1676121689,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266054,
+        "num": 266054,
+        "word": "武汉地铁3外籍男子横卧整排座位",
+        "onboard_time": 1676114969,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260162,
+        "num": 260162,
+        "word": "李一桐临场发挥哭戏",
+        "onboard_time": 1676125833,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258889,
+        "num": 258889,
+        "word": "19岁男孩常忘事患上阿尔茨海默病",
+        "onboard_time": 1676117306,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248974,
+        "num": 248974,
+        "word": "程耳王一博二搭电影人鱼",
+        "onboard_time": 1676121029,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235025,
+        "num": 235025,
+        "word": "龚俊檀健次的伞",
+        "onboard_time": 1676128113,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231388,
+        "num": 231388,
+        "word": "土耳其翻译说救援队像在救自己的人民",
+        "onboard_time": 1676129014,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228963,
+        "num": 228963,
+        "word": "RNG官宣教练Heart离队",
+        "onboard_time": 1676113045,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227700,
+        "num": 227700,
+        "word": "何广智 串儿",
+        "onboard_time": 1676125232,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223014,
+        "num": 223014,
+        "word": "你好星期六",
+        "onboard_time": 1676126132,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213050,
+        "num": 213050,
+        "word": "宋昕冉生日公演",
+        "onboard_time": 1676129014,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194312,
+        "num": 194312,
+        "word": "管泽元的嘴",
+        "onboard_time": 1676126253,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186523,
+        "num": 186523,
+        "word": "JDG对战WBG",
+        "onboard_time": 1676116709,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173662,
+        "num": 173662,
+        "word": "男子欲买小雏菊送女友不料买成白菊",
+        "onboard_time": 1676110406,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169001,
+        "num": 169001,
+        "word": "上市公司回应董事长月薪两万招保镖",
+        "onboard_time": 1676116469,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 160581,
+        "num": 160581,
+        "word": "唐嫣版你过来呀",
+        "onboard_time": 1676125833,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151549,
+        "num": 151549,
+        "word": "赵丽颖早期穆念慈定妆照",
+        "onboard_time": 1676108247,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148317,
+        "num": 148317,
+        "word": "流浪地球",
+        "onboard_time": 1676122709,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146573,
+        "num": 146573,
+        "word": "刘大锤说张译是很纯粹的演员",
+        "onboard_time": 1676111850,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144369,
+        "num": 144369,
+        "word": "Knight吃披萨",
+        "onboard_time": 1676121150,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136497,
+        "num": 136497,
+        "word": "无畏的散装英语",
+        "onboard_time": 1676127149,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130193,
+        "num": 130193,
+        "word": "狂飙大结局以后最累的是高启兰",
+        "onboard_time": 1676101347,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126851,
+        "num": 126851,
+        "word": "多地学校推出开学过渡套餐",
+        "onboard_time": 1676129493,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 124588,
+        "num": 124588,
+        "word": "深海",
+        "onboard_time": 1676105906,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124206,
+        "num": 124206,
+        "word": "张杰未live演唱会南京站附近酒店已订满",
+        "onboard_time": 1676117365,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进中国式现代化是一个系统工程#"
+    }
+  }
+}
