@@ -1,0 +1,410 @@
+{
+  "runTime": 1676104594640,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1653210,
+        "num": 1653210,
+        "word": "俄称准备好与乌克兰无条件谈判",
+        "onboard_time": 1676099906,
+        "rank": 0,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 1285518,
+        "num": 1285518,
+        "word": "狂飙大结局以后最累的是高启兰",
+        "onboard_time": 1676101347,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42756,
+        "num": 1186471,
+        "word": "用汗水播下丰收的种子",
+        "onboard_time": 1676091087,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1119549,
+        "num": 1119549,
+        "word": "泰国夜市偶遇鞠婧祎",
+        "onboard_time": 1676102066,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 790725,
+        "num": 790725,
+        "word": "周也不会wink可以不wink",
+        "onboard_time": 1676098107,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 733793,
+        "num": 733793,
+        "word": "喝太多碳酸饮料影响精子质量",
+        "onboard_time": 1676100566,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719446,
+        "num": 719446,
+        "word": "广东地震",
+        "onboard_time": 1676083827,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693992,
+        "num": 693992,
+        "word": "北京动物园称正办理大熊猫丫丫回国手续",
+        "onboard_time": 1676098286,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562129,
+        "num": 562129,
+        "word": "张颂文曾因捡垃圾被剧组丢下",
+        "onboard_time": 1676103627,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433213,
+        "num": 433213,
+        "word": "父亲满脸伤痕见到幸存儿子失声痛哭",
+        "onboard_time": 1676098046,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1888127,
+        "num": 428695,
+        "word": "广州一女子当街被小男孩袭胸",
+        "onboard_time": 1676098886,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631306,
+        "num": 419798,
+        "word": "专家提醒每人一生只能捐精一次",
+        "onboard_time": 1676090847,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407978,
+        "num": 407978,
+        "word": "张颂文拍立得买主回应",
+        "onboard_time": 1676091627,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394639,
+        "num": 394639,
+        "word": "地质专家谈遇上地震是命遭主持人怒斥",
+        "onboard_time": 1676102906,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347114,
+        "num": 347114,
+        "word": "志愿者精子合格率不到20%",
+        "onboard_time": 1676081725,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344991,
+        "num": 344991,
+        "word": "捐精是否存在近亲婚配可能",
+        "onboard_time": 1676102726,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343187,
+        "num": 343187,
+        "word": "16名队员在土耳其遇难最小仅12岁",
+        "onboard_time": 1676100926,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330593,
+        "num": 330593,
+        "word": "官方回应山东女足队员家遭强拆",
+        "onboard_time": 1676099064,
+        "rank": 17,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 325883,
+        "num": 325883,
+        "word": "WayV见面会Candy舞台",
+        "onboard_time": 1676102906,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297098,
+        "num": 297098,
+        "word": "土耳其一居民楼设计师出逃时被捕",
+        "onboard_time": 1676098705,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286489,
+        "num": 286489,
+        "word": "专家组即将赴美调查大熊猫乐乐死因",
+        "onboard_time": 1676100265,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278226,
+        "num": 278226,
+        "word": "宋亚轩我们的客栈毛毛外套造型",
+        "onboard_time": 1676102188,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274445,
+        "num": 274445,
+        "word": "女性友谊里的嫉妒瞬间",
+        "onboard_time": 1676094686,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264728,
+        "num": 264728,
+        "word": "vox停播",
+        "onboard_time": 1676095286,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 242513,
+        "num": 242513,
+        "word": "夫胜宽回应和NewJeans的误会",
+        "onboard_time": 1676104587,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229376,
+        "num": 229376,
+        "word": "语言学家称ChatGPT本质是剽窃",
+        "onboard_time": 1676101947,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 216904,
+        "num": 216904,
+        "word": "女生应聘被告知接受潜规则有补贴",
+        "onboard_time": 1676089527,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215421,
+        "num": 215421,
+        "word": "狂飙导演说张颂文让他很有安全感",
+        "onboard_time": 1676094745,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205870,
+        "num": 205870,
+        "word": "你会买明星的签名照吗",
+        "onboard_time": 1676100086,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202760,
+        "num": 202760,
+        "word": "广东河源发生余震70次",
+        "onboard_time": 1676099307,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198807,
+        "num": 198807,
+        "word": "程耳说王一博是语言天才",
+        "onboard_time": 1676101707,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191845,
+        "num": 191845,
+        "word": "沛县城管被曝沿街挨家挨户撕春联",
+        "onboard_time": 1676095227,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189969,
+        "num": 189969,
+        "word": "广东地震后部分高铁火车已停运",
+        "onboard_time": 1676097865,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189790,
+        "num": 189790,
+        "word": "张杰演唱会",
+        "onboard_time": 1676089587,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186983,
+        "num": 186983,
+        "word": "鹿晗五哈和大爷打乒乓球路透",
+        "onboard_time": 1676104348,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183689,
+        "num": 183689,
+        "word": "永远猜不到小狗的脑回路",
+        "onboard_time": 1676102307,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 182368,
+        "num": 182368,
+        "word": "女生20元买的二手书夹带400元",
+        "onboard_time": 1676104226,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178455,
+        "num": 178455,
+        "word": "敖瑞鹏怎么跑得乱七八糟的",
+        "onboard_time": 1676103444,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163521,
+        "num": 163521,
+        "word": "流浪地球2笨笨门门设计稿",
+        "onboard_time": 1676096006,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158321,
+        "num": 158321,
+        "word": "黄景瑜工作室声明",
+        "onboard_time": 1676044889,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152346,
+        "num": 152346,
+        "word": "地震时8岁哥哥第一时间抱紧弟弟",
+        "onboard_time": 1676093727,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150178,
+        "num": 150178,
+        "word": "比尔盖茨称ChatGPT将改变世界",
+        "onboard_time": 1676103984,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 146143,
+        "num": 146143,
+        "word": "李兰迪说星落凝成糖三分之二在发糖",
+        "onboard_time": 1676100265,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134443,
+        "num": 134443,
+        "word": "TES对战DYG",
+        "onboard_time": 1676098107,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132401,
+        "num": 132401,
+        "word": "Lisa今日活动生图",
+        "onboard_time": 1676088330,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131773,
+        "num": 131773,
+        "word": "广西3岁男童手术后变成脑瘫",
+        "onboard_time": 1676091748,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131764,
+        "num": 131764,
+        "word": "王一博偷笑王传君被要求收腹花絮",
+        "onboard_time": 1676090967,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124977,
+        "num": 124977,
+        "word": "美影厂继中国奇谭后新片公布",
+        "onboard_time": 1676098826,
+        "rank": 47,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 124021,
+        "num": 124021,
+        "word": "沙发支出的空隙救了他们一命",
+        "onboard_time": 1676103387,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123621,
+        "num": 123621,
+        "word": "中国首批缉毒松鼠即将上岗",
+        "onboard_time": 1676081967,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#春暖花开铁杆朋友来了#"
+    }
+  }
+}

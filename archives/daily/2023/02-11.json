@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676103757799,
+  "endTime": 1676104594640,
   "band_list": [
     {
       "raw_hot": 8361811,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1860791,
+      "raw_hot": 1888127,
       "num": 452101,
       "word": "广州一女子当街被小男孩袭胸",
       "onboard_time": 1676098886,
@@ -107,20 +107,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1285518,
+      "num": 1285518,
+      "word": "狂飙大结局以后最累的是高启兰",
+      "onboard_time": 1676101347,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1259501,
       "num": 1259501,
       "word": "张颂文拍立得买主回应",
       "onboard_time": 1676091627,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1250249,
-      "num": 1250249,
-      "word": "狂飙大结局以后最累的是高启兰",
-      "onboard_time": 1676101347,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1160718,
@@ -131,18 +131,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1100800,
-      "num": 1100800,
-      "word": "路人美国偶遇刘亦菲",
-      "onboard_time": 1676042432,
+      "raw_hot": 1119549,
+      "num": 1119549,
+      "word": "泰国夜市偶遇鞠婧祎",
+      "onboard_time": 1676102066,
       "rank": 3,
       "category": "艺人"
     },
     {
-      "raw_hot": 1085276,
-      "num": 1085276,
-      "word": "泰国夜市偶遇鞠婧祎",
-      "onboard_time": 1676102066,
+      "raw_hot": 1100800,
+      "num": 1100800,
+      "word": "路人美国偶遇刘亦菲",
+      "onboard_time": 1676042432,
       "rank": 3,
       "category": "艺人"
     },
@@ -227,20 +227,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 733793,
+      "num": 733793,
+      "word": "喝太多碳酸饮料影响精子质量",
+      "onboard_time": 1676100566,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 724945,
       "num": 724945,
       "word": "女性友谊里的嫉妒瞬间",
       "onboard_time": 1676094686,
       "rank": 9,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 713331,
-      "num": 713331,
-      "word": "喝太多碳酸饮料影响精子质量",
-      "onboard_time": 1676100566,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 709367,
@@ -409,6 +409,14 @@
       "onboard_time": 1676096006,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 562129,
+      "num": 562129,
+      "word": "张颂文曾因捡垃圾被剧组丢下",
+      "onboard_time": 1676103627,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 560608,
@@ -643,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 394639,
+      "num": 394639,
+      "word": "地质专家谈遇上地震是命遭主持人怒斥",
+      "onboard_time": 1676102906,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391002,
       "num": 391002,
       "word": "电影惊天救援定档五一",
@@ -707,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358818,
-      "num": 358818,
-      "word": "张颂文曾因捡垃圾被剧组丢下",
-      "onboard_time": 1676103627,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 358518,
       "num": 358518,
       "word": "中年夫妻如何给婚姻保鲜",
@@ -729,6 +737,14 @@
       "onboard_time": 1676097987,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344991,
+      "num": 344991,
+      "word": "捐精是否存在近亲婚配可能",
+      "onboard_time": 1676102726,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344633,
@@ -763,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330593,
+      "num": 330593,
+      "word": "官方回应山东女足队员家遭强拆",
+      "onboard_time": 1676099064,
+      "rank": 36,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 326742,
       "num": 326742,
       "word": "警方通报男子称我爹是市公安局的",
@@ -777,14 +801,6 @@
       "onboard_time": 1676099366,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 322909,
-      "num": 322909,
-      "word": "官方回应山东女足队员家遭强拆",
-      "onboard_time": 1676099064,
-      "rank": 36,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 322002,
@@ -827,20 +843,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 292437,
-      "num": 292437,
-      "word": "捐精是否存在近亲婚配可能",
-      "onboard_time": 1676102726,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288541,
       "num": 288541,
       "word": "唐艺昕说谁都不是天生就会做父母的",
       "onboard_time": 1676045548,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286489,
+      "num": 286489,
+      "word": "专家组即将赴美调查大熊猫乐乐死因",
+      "onboard_time": 1676100265,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279743,
@@ -899,14 +915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271248,
-      "num": 271248,
-      "word": "专家组即将赴美调查大熊猫乐乐死因",
-      "onboard_time": 1676100265,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269652,
       "num": 269652,
       "word": "河源地震家长拎起孩子往外奔",
@@ -947,14 +955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253321,
-      "num": 192777,
-      "word": "地质专家谈遇上地震是命遭主持人怒斥",
-      "onboard_time": 1676102906,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252747,
       "num": 252747,
       "word": "时代少年团 秒切",
@@ -969,6 +969,14 @@
       "onboard_time": 1676101707,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242513,
+      "num": 242513,
+      "word": "夫胜宽回应和NewJeans的误会",
+      "onboard_time": 1676104587,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 242175,
@@ -1033,6 +1041,14 @@
       "onboard_time": 1676038774,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229376,
+      "num": 229376,
+      "word": "语言学家称ChatGPT本质是剽窃",
+      "onboard_time": 1676101947,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 223744,
@@ -1179,14 +1195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190213,
-      "num": 190213,
-      "word": "语言学家称ChatGPT本质是剽窃",
-      "onboard_time": 1676101947,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
       "raw_hot": 189977,
       "num": 189977,
       "word": "虞书欣云之羽白色棉服路透",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1676043810,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186983,
+      "num": 186983,
+      "word": "鹿晗五哈和大爷打乒乓球路透",
+      "onboard_time": 1676104348,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 185572,
@@ -1251,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183689,
+      "num": 183689,
+      "word": "永远猜不到小狗的脑回路",
+      "onboard_time": 1676102307,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 182998,
       "num": 182998,
       "word": "捐精者需要符合哪些条件",
@@ -1259,12 +1283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181920,
-      "num": 181920,
-      "word": "永远猜不到小狗的脑回路",
-      "onboard_time": 1676102307,
-      "rank": 34,
-      "category": "幽默,情感"
+      "raw_hot": 182368,
+      "num": 182368,
+      "word": "女生20元买的二手书夹带400元",
+      "onboard_time": 1676104226,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178965,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1676079147,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178455,
+      "num": 178455,
+      "word": "敖瑞鹏怎么跑得乱七八糟的",
+      "onboard_time": 1676103444,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 177230,
@@ -1387,12 +1419,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 150762,
-      "num": 150762,
-      "word": "敖瑞鹏怎么跑得乱七八糟的",
-      "onboard_time": 1676103444,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 150178,
+      "num": 150178,
+      "word": "比尔盖茨称ChatGPT将改变世界",
+      "onboard_time": 1676103984,
+      "rank": 41,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 150097,
@@ -1467,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124021,
+      "num": 124021,
+      "word": "沙发支出的空隙救了他们一命",
+      "onboard_time": 1676103387,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121630,
       "num": 121630,
       "word": "傅莹被厂里辞退",
@@ -1488,14 +1528,6 @@
       "word": "连续搜救十几小时后他们累到秒睡",
       "onboard_time": 1676095406,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117687,
-      "num": 117687,
-      "word": "沙发支出的空隙救了他们一命",
-      "onboard_time": 1676103387,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
