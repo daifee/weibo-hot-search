@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676142869581,
+  "endTime": 1676143988836,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -419,19 +419,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107220,
+      "num": 85977,
+      "word": "男子捞鱼2万元手机滑落冰洞",
+      "onboard_time": 1676141176,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106341,
       "num": 106341,
       "word": "男子欲买小雏菊送女友不料买成白菊",
       "onboard_time": 1676110406,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85977,
-      "num": 85977,
-      "word": "男子捞鱼2万元手机滑落冰洞",
-      "onboard_time": 1676141176,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75307,
+      "num": 44077,
+      "word": "土耳其地震为啥这么严重",
+      "onboard_time": 1676140995,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67643,
       "num": 67643,
       "word": "猫咪出门土拨鼠上演难舍难别",
@@ -464,14 +472,6 @@
       "word": "关注土耳其7.8级地震",
       "onboard_time": 1676139916,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61733,
-      "num": 44077,
-      "word": "土耳其地震为啥这么严重",
-      "onboard_time": 1676140995,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
