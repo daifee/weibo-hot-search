@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676114075363,
+  "endTime": 1676115212725,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1667,6 +1667,22 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 1459915,
+      "num": 1459915,
+      "word": "男子欲买小雏菊送女友不料买成白菊",
+      "onboard_time": 1676110406,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1457882,
+      "num": 508283,
+      "word": "入职1小时被HR告知招错人补偿50元",
+      "onboard_time": 1676113765,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1454784,
       "num": 1454784,
       "word": "刘若清回应一辈子不想见张译",
@@ -2867,14 +2883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1078753,
-      "num": 1078753,
-      "word": "男子欲买小雏菊送女友不料买成白菊",
-      "onboard_time": 1676110406,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1077212,
       "num": 1077212,
       "word": "异丙酚",
@@ -3363,6 +3371,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 966324,
+      "num": 966324,
+      "word": "刘大锤说张译是很纯粹的演员",
+      "onboard_time": 1676111850,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 966111,
       "num": 966111,
       "word": "网传骄阳伴我今日杀青",
@@ -3523,6 +3539,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 939035,
+      "num": 939035,
+      "word": "RNG官宣教练Heart离队",
+      "onboard_time": 1676113045,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 938797,
       "num": 938797,
       "word": "地震已致土耳其912人遇难",
@@ -3553,14 +3577,6 @@
       "onboard_time": 1675654349,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 935186,
-      "num": 935186,
-      "word": "RNG官宣教练Heart离队",
-      "onboard_time": 1676113045,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 934155,
@@ -4017,14 +4033,6 @@
       "onboard_time": 1675914448,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 872949,
-      "num": 872949,
-      "word": "刘大锤说张译是很纯粹的演员",
-      "onboard_time": 1676111850,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 872046,
@@ -15539,6 +15547,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 270632,
+      "num": 270632,
+      "word": "Hero对战KSG",
+      "onboard_time": 1676115029,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 270354,
       "num": 270354,
       "word": "2023上半年已定档40部新片",
@@ -17675,6 +17691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 227021,
+      "num": 227021,
+      "word": "黄仁俊钟辰乐合照",
+      "onboard_time": 1676114548,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226889,
       "num": 226889,
       "word": "狼队战胜XYG",
@@ -18011,6 +18035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220308,
+      "num": 220308,
+      "word": "iG战胜FPX",
+      "onboard_time": 1676114308,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 220159,
       "num": 220159,
       "word": "你知道皮蛋有多美吗",
@@ -18203,14 +18235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 215936,
-      "num": 215936,
-      "word": "入职1小时被HR告知招错人补偿50元",
-      "onboard_time": 1676113765,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215392,
       "num": 215392,
       "word": "从济南超然楼下班是什么体验",
@@ -18257,6 +18281,14 @@
       "onboard_time": 1675821685,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214834,
+      "num": 214834,
+      "word": "帅家默又被火烧",
+      "onboard_time": 1676114308,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 214786,
@@ -22625,6 +22657,14 @@
       "onboard_time": 1675413749,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151581,
+      "num": 151581,
+      "word": "武汉地铁3外籍男子横卧整排座位",
+      "onboard_time": 1676114969,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151224,
