@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676136799799,
+  "endTime": 1676139703961,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -11817,6 +11817,14 @@
       "onboard_time": 1676027369,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181268,
+      "num": 152066,
+      "word": "土耳其地震后一猫一狗紧紧相依",
+      "onboard_time": 1676137278,
+      "rank": 10,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 181239,
