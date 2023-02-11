@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676099776075,
+  "endTime": 1676100820839,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1731,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1393802,
+      "num": 438470,
+      "word": "广州一女子当街被小男孩袭胸",
+      "onboard_time": 1676098886,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1387108,
       "num": 1387108,
       "word": "央视元宵晚会 开盲盒",
@@ -1961,6 +1969,14 @@
       "onboard_time": 1675655248,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1289581,
+      "num": 1289581,
+      "word": "周也不会wink可以不wink",
+      "onboard_time": 1676098107,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1284222,
@@ -2800,14 +2816,6 @@
       "word": "李承铉脖子上挂的是奶嘴",
       "onboard_time": 1675649006,
       "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1079852,
-      "num": 1079852,
-      "word": "周也不会wink可以不wink",
-      "onboard_time": 1676098107,
-      "rank": 1,
       "category": "艺人"
     },
     {
@@ -5315,14 +5323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 719288,
-      "num": 358389,
-      "word": "广州一女子当街被小男孩袭胸",
-      "onboard_time": 1676098886,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 718348,
       "num": 718348,
       "word": "中国乒乓预告发疯了",
@@ -5696,6 +5696,14 @@
       "word": "男子躲查酒驾3次跳河血检结果为0",
       "onboard_time": 1676023710,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690628,
+      "num": 690628,
+      "word": "北京动物园称正办理大熊猫丫丫回国手续",
+      "onboard_time": 1676098286,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -6971,6 +6979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592539,
+      "num": 592539,
+      "word": "父亲满脸伤痕见到幸存儿子失声痛哭",
+      "onboard_time": 1676098046,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 592008,
       "num": 534674,
       "word": "陈国恩offer4现场拒绝offer",
@@ -7644,7 +7660,7 @@
     },
     {
       "raw_hot": 552347,
-      "num": 413338,
+      "num": 432774,
       "word": "vox停播",
       "onboard_time": 1676095286,
       "rank": 12,
@@ -7665,6 +7681,14 @@
       "onboard_time": 1675476146,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 551139,
+      "num": 551139,
+      "word": "俄称准备好与乌克兰无条件谈判",
+      "onboard_time": 1676099906,
+      "rank": 8,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 550559,
@@ -7753,14 +7777,6 @@
       "onboard_time": 1675675648,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 545286,
-      "num": 354328,
-      "word": "父亲满脸伤痕见到幸存儿子失声痛哭",
-      "onboard_time": 1676098046,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 544123,
@@ -9011,6 +9027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 479644,
+      "num": 433838,
+      "word": "土耳其一居民楼设计师出逃时被捕",
+      "onboard_time": 1676098705,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479629,
       "num": 479629,
       "word": "姚琛Straykids后台合照",
@@ -9081,14 +9105,6 @@
       "onboard_time": 1675233812,
       "rank": 16,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 475751,
-      "num": 349092,
-      "word": "北京动物园称正办理大熊猫丫丫回国手续",
-      "onboard_time": 1676098286,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 475508,
@@ -12035,6 +12051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354458,
+      "num": 354458,
+      "word": "种地吧",
+      "onboard_time": 1675485208,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354243,
       "num": 354243,
       "word": "赵丽颖沈璃白衣造型路透图",
@@ -12265,14 +12289,6 @@
       "onboard_time": 1675556844,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347826,
-      "num": 347826,
-      "word": "种地吧",
-      "onboard_time": 1675485208,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 347729,
@@ -13163,6 +13179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 320771,
+      "num": 320771,
+      "word": "官方回应山东女足队员家遭强拆",
+      "onboard_time": 1676099064,
+      "rank": 36,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 320530,
       "num": 320530,
       "word": "黄晓明说同事之间出现矛盾要好好沟通",
@@ -13681,14 +13705,6 @@
       "onboard_time": 1675750530,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 305305,
-      "num": 305305,
-      "word": "土耳其一居民楼设计师出逃时被捕",
-      "onboard_time": 1676098705,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305184,
@@ -15899,6 +15915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257471,
+      "num": 257471,
+      "word": "你会买明星的签名照吗",
+      "onboard_time": 1676100086,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257260,
       "num": 257260,
       "word": "唱离歌的张天爱",
@@ -17003,6 +17027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233660,
+      "num": 233660,
+      "word": "美影厂继中国奇谭后新片公布",
+      "onboard_time": 1676098826,
+      "rank": 30,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 233628,
       "num": 233628,
       "word": "显微镜下的大明画面质感",
@@ -17361,14 +17393,6 @@
       "onboard_time": 1675933528,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 226053,
-      "num": 226053,
-      "word": "美影厂继中国奇谭后新片公布",
-      "onboard_time": 1676098826,
-      "rank": 30,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 225928,
@@ -19323,6 +19347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191655,
+      "num": 191655,
+      "word": "专家组即将赴美调查大熊猫乐乐死因",
+      "onboard_time": 1676100265,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191622,
       "num": 191622,
       "word": "赵露思九宫格营业照",
@@ -19553,6 +19585,14 @@
       "onboard_time": 1675398452,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188518,
+      "num": 188518,
+      "word": "喝太多碳酸饮料影响精子质量",
+      "onboard_time": 1676100566,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188452,
@@ -19793,6 +19833,14 @@
       "onboard_time": 1675929987,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185572,
+      "num": 185572,
+      "word": "广东居民讲述地震时惊险经历",
+      "onboard_time": 1676100206,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185432,
@@ -20377,6 +20425,14 @@
       "onboard_time": 1675991253,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178147,
+      "num": 178147,
+      "word": "广东河源发生余震70次",
+      "onboard_time": 1676099307,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178144,
@@ -21067,20 +21123,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 168699,
+      "num": 168699,
+      "word": "李兰迪说星落凝成糖三分之二在发糖",
+      "onboard_time": 1676100265,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168608,
       "num": 168608,
       "word": "蒋依依新剧古装造型",
       "onboard_time": 1675430370,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168589,
-      "num": 168589,
-      "word": "官方回应山东女足队员家遭强拆",
-      "onboard_time": 1676099064,
-      "rank": 36,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 168561,
@@ -22267,14 +22323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 149537,
-      "num": 149537,
-      "word": "广东河源发生余震70次",
-      "onboard_time": 1676099307,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149246,
       "num": 149246,
       "word": "显微镜下的大明预约破400万",
@@ -23424,6 +23472,14 @@
       "word": "傅莹被厂里辞退",
       "onboard_time": 1676048062,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 121467,
+      "num": 121467,
+      "word": "靳东说是无数个昨天成就了今天的自己",
+      "onboard_time": 1676100688,
+      "rank": 46,
       "category": "影视"
     },
     {
