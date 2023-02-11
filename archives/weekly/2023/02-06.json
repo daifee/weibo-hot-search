@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676147618967,
+  "endTime": 1676150141593,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -14249,6 +14249,14 @@
       "onboard_time": 1675946131,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 53443,
+      "num": 43674,
+      "word": "柳州妇联回应男子当街踢踹女性",
+      "onboard_time": 1676148371,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 53085,
