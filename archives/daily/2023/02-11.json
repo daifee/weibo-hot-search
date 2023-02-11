@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676078815477,
+  "endTime": 1676080492410,
   "band_list": [
     {
       "raw_hot": 3687086,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 902453,
+      "num": 516698,
+      "word": "多地现捐精倡议原因何在",
+      "onboard_time": 1676077948,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 800209,
       "num": 800209,
       "word": "丁义珍式窗口为何屡禁不止",
@@ -83,12 +91,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 747976,
+      "num": 747976,
+      "word": "大奉打更人 王鹤棣田曦薇",
+      "onboard_time": 1676079267,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 709367,
       "num": 709367,
       "word": "2只火凤凰为了求偶上演风骚走位",
       "onboard_time": 1676057594,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697583,
+      "num": 697583,
+      "word": "石家庄的公交卡是牛肉板面",
+      "onboard_time": 1676077046,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 688499,
@@ -107,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 674476,
-      "num": 674476,
-      "word": "石家庄的公交卡是牛肉板面",
-      "onboard_time": 1676077046,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 673752,
       "num": 673752,
       "word": "有什么是你结婚后才明白的",
@@ -131,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 643412,
+      "num": 489179,
+      "word": "叙利亚奇迹宝宝将被叔祖父接走",
+      "onboard_time": 1676079084,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628472,
       "num": 628472,
       "word": "张颂文 为什么会这样",
@@ -139,12 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 556402,
-      "num": 195488,
-      "word": "多地现捐精倡议原因何在",
-      "onboard_time": 1676077948,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 542406,
+      "num": 542406,
+      "word": "小佩顿体检失败",
+      "onboard_time": 1676078488,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 537962,
@@ -219,12 +243,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 428726,
+      "num": 428726,
+      "word": "可以不穿但是不能没有",
+      "onboard_time": 1676056034,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 415793,
       "num": 415793,
       "word": "房东的猫美好的昨天好治愈",
       "onboard_time": 1676044108,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 403860,
+      "num": 403860,
+      "word": "金智秀晒合照为朴彩英庆生",
+      "onboard_time": 1676077886,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 398069,
@@ -251,14 +291,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 383522,
-      "num": 383522,
-      "word": "金智秀晒合照为朴彩英庆生",
-      "onboard_time": 1676077886,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 370785,
       "num": 370785,
       "word": "唐小强曾阻止家暴",
@@ -267,20 +299,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 368873,
-      "num": 368873,
-      "word": "可以不穿但是不能没有",
-      "onboard_time": 1676056034,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 361511,
       "num": 361511,
       "word": "强震已致土叙两国超2.3万人遇难",
       "onboard_time": 1676073861,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354098,
+      "num": 354098,
+      "word": "王者新打野英雄姬小满",
+      "onboard_time": 1676078966,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 344633,
@@ -299,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326742,
+      "num": 326742,
+      "word": "警方通报男子称我爹是市公安局的",
+      "onboard_time": 1676079446,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322002,
       "num": 322002,
       "word": "羡慕宋祖儿的发量",
@@ -313,6 +353,14 @@
       "onboard_time": 1676074223,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320091,
+      "num": 320091,
+      "word": "官方呼吁尚未启程救援队取消行动",
+      "onboard_time": 1676078187,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301456,
@@ -345,6 +393,14 @@
       "onboard_time": 1676067013,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 270833,
+      "num": 270833,
+      "word": "土耳其大妈将救援女队员手放怀里取暖",
+      "onboard_time": 1676079686,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268740,
@@ -393,6 +449,14 @@
       "onboard_time": 1676038774,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228791,
+      "num": 228791,
+      "word": "费启鸣新剧角色人设",
+      "onboard_time": 1676080047,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 223744,
@@ -459,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204469,
-      "num": 204469,
-      "word": "官方呼吁尚未启程救援队取消行动",
-      "onboard_time": 1676078187,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201755,
       "num": 201755,
       "word": "唐嫣感谢张杰唱的歌助攻何以笙箫默",
@@ -491,12 +547,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195509,
-      "num": 195509,
-      "word": "小佩顿体检失败",
-      "onboard_time": 1676078488,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 196173,
+      "num": 196173,
+      "word": "同型号同路线车辆高速费用差44元",
+      "onboard_time": 1676079627,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191408,
@@ -537,6 +593,14 @@
       "onboard_time": 1676028932,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178965,
+      "num": 178965,
+      "word": "FIFA年度最佳球员三人候选",
+      "onboard_time": 1676079147,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 172371,
@@ -585,6 +649,14 @@
       "onboard_time": 1676026890,
       "rank": 47,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 149787,
+      "num": 149787,
+      "word": "蓝天救援队凌晨返回驻地上车秒睡",
+      "onboard_time": 1676079749,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149561,
