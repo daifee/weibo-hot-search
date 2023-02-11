@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676132657593,
+  "endTime": 1676133690869,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -11,6 +11,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 1671151,
+      "num": 1671151,
+      "word": "人鱼",
+      "onboard_time": 1676125952,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1255316,
       "num": 1255316,
       "word": "杭州一套凶宅起拍单价2万你敢买吗",
@@ -19,20 +27,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1221517,
-      "num": 1221517,
-      "word": "人鱼",
-      "onboard_time": 1676125952,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 988918,
       "num": 988918,
       "word": "李一桐郭晓婷当群演一天赚了288",
       "onboard_time": 1676127571,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 717538,
+      "num": 717538,
+      "word": "可能被ChatGPT取代的10大职业",
+      "onboard_time": 1676131768,
+      "rank": 19,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 708058,
@@ -67,8 +75,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 573239,
-      "num": 573239,
+      "raw_hot": 607034,
+      "num": 607034,
+      "word": "张若昀被粉丝送银票花",
+      "onboard_time": 1676131948,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 577942,
+      "num": 577942,
       "word": "土耳其翻译说救援队像在救自己的人民",
       "onboard_time": 1676129014,
       "rank": 9,
@@ -107,14 +123,6 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 377029,
-      "num": 377029,
-      "word": "张若昀被粉丝送银票花",
-      "onboard_time": 1676131948,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 354028,
       "num": 354028,
       "word": "狂飙严正声明",
@@ -123,8 +131,8 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 320169,
-      "num": 320169,
+      "raw_hot": 333886,
+      "num": 333886,
       "word": "你只管踩油门剩下的交给我们",
       "onboard_time": 1676124091,
       "rank": 16,
@@ -147,14 +155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 282753,
-      "num": 282753,
-      "word": "可能被ChatGPT取代的10大职业",
-      "onboard_time": 1676131768,
-      "rank": 19,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 277456,
       "num": 277456,
       "word": "张天爱大波浪好港",
@@ -169,6 +169,14 @@
       "onboard_time": 1676125470,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262409,
+      "num": 262409,
+      "word": "水牛记手机壳",
+      "onboard_time": 1676132487,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 261782,
@@ -227,6 +235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198138,
+      "num": 198138,
+      "word": "这狗狗怎么全程黑脸",
+      "onboard_time": 1676132427,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193673,
       "num": 193673,
       "word": "武汉地铁3外籍男子横卧整排座位",
@@ -275,6 +291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168500,
+      "num": 168500,
+      "word": "白鹿以爱为营染发下班路透",
+      "onboard_time": 1676132786,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 167228,
+      "num": 167228,
+      "word": "何广智希望非诚勿扰能一直办下去",
+      "onboard_time": 1676132608,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164951,
       "num": 164951,
       "word": "程耳王一博二搭电影人鱼",
@@ -289,6 +321,14 @@
       "onboard_time": 1676128113,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153122,
+      "num": 153122,
+      "word": "阿森纳vs布伦特福德",
+      "onboard_time": 1676133148,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 151429,
@@ -331,28 +371,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 116814,
+      "num": 116814,
+      "word": "流浪地球",
+      "onboard_time": 1676122709,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115349,
       "num": 115349,
       "word": "你好星期六",
       "onboard_time": 1676126132,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115070,
-      "num": 115070,
-      "word": "这狗狗怎么全程黑脸",
-      "onboard_time": 1676132427,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 113980,
-      "num": 113980,
-      "word": "流浪地球",
-      "onboard_time": 1676122709,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 109201,
@@ -379,20 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106209,
-      "num": 106209,
-      "word": "水牛记手机壳",
-      "onboard_time": 1676132487,
+      "raw_hot": 85810,
+      "num": 85810,
+      "word": "JDG对战WBG",
+      "onboard_time": 1676116709,
       "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 106193,
-      "num": 106193,
-      "word": "何广智希望非诚勿扰能一直办下去",
-      "onboard_time": 1676132608,
-      "rank": 49,
-      "category": "综艺"
+      "category": "游戏"
     },
     {
       "raw_hot": 33215,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#推进中国式现代化是一个系统工程#"
+    },
+    {
+      "word": "#春暖花开铁杆朋友来了#"
     }
   ]
 }
