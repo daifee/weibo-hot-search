@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676151214012,
+  "endTime": 1676153830212,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 78687,
-      "num": 44077,
+      "num": 51352,
       "word": "土耳其地震为啥这么严重",
       "onboard_time": 1676140995,
       "rank": 30,
@@ -460,11 +460,19 @@
     },
     {
       "raw_hot": 71584,
-      "num": 46161,
+      "num": 52411,
       "word": "柳州妇联回应男子当街踢踹女性",
       "onboard_time": 1676148371,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 68293,
+      "num": 26120,
+      "word": "土耳其华人被埋25小时后获救",
+      "onboard_time": 1676152572,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67643,
@@ -489,6 +497,14 @@
       "onboard_time": 1676125775,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25423,
+      "num": 25423,
+      "word": "高启强的B计划",
+      "onboard_time": 1676152932,
+      "rank": 31,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
