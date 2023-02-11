@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676080492410,
+  "endTime": 1676083346103,
   "band_list": [
     {
       "raw_hot": 3687086,
@@ -27,6 +27,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1681115,
+      "num": 1681115,
+      "word": "志愿者精子合格率不到20%",
+      "onboard_time": 1676081725,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1100800,
       "num": 1100800,
       "word": "路人美国偶遇刘亦菲",
@@ -41,6 +49,14 @@
       "onboard_time": 1676044947,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1010960,
+      "num": 1010960,
+      "word": "大奉打更人 王鹤棣田曦薇",
+      "onboard_time": 1676079267,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 937462,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 902453,
-      "num": 516698,
+      "num": 841945,
       "word": "多地现捐精倡议原因何在",
       "onboard_time": 1676077948,
       "rank": 30,
@@ -89,14 +105,6 @@
       "onboard_time": 1676037810,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 747976,
-      "num": 747976,
-      "word": "大奉打更人 王鹤棣田曦薇",
-      "onboard_time": 1676079267,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 709367,
@@ -123,6 +131,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 677696,
+      "num": 677696,
+      "word": "叙利亚奇迹宝宝将被叔祖父接走",
+      "onboard_time": 1676079084,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677524,
       "num": 677524,
       "word": "蓝天救援队在土耳其超市付款被拒收",
@@ -139,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 672069,
+      "num": 489877,
+      "word": "中国首批缉毒松鼠即将上岗",
+      "onboard_time": 1676081967,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662845,
       "num": 662845,
       "word": "狂飙金句第一人",
@@ -147,20 +171,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 643412,
-      "num": 489179,
-      "word": "叙利亚奇迹宝宝将被叔祖父接走",
-      "onboard_time": 1676079084,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 628472,
       "num": 628472,
       "word": "张颂文 为什么会这样",
       "onboard_time": 1676022810,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 576628,
+      "num": 576628,
+      "word": "张艺兴街边跳krump视频",
+      "onboard_time": 1676082865,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 542406,
@@ -219,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494285,
+      "num": 494285,
+      "word": "金智秀晒合照为朴彩英庆生",
+      "onboard_time": 1676077886,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477656,
       "num": 477656,
       "word": "第一次当爱豆的李泳知",
@@ -259,12 +291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 403860,
-      "num": 403860,
-      "word": "金智秀晒合照为朴彩英庆生",
-      "onboard_time": 1676077886,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 400710,
+      "num": 400710,
+      "word": "杨紫199爱蓝色格子大衣路透",
+      "onboard_time": 1676081246,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 398069,
@@ -273,6 +305,14 @@
       "onboard_time": 1676042610,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 394665,
+      "num": 394665,
+      "word": "王者新打野英雄姬小满",
+      "onboard_time": 1676078966,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 389737,
@@ -291,6 +331,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 381802,
+      "num": 381802,
+      "word": "陕西人类精子库呼吁大学生捐精",
+      "onboard_time": 1676082266,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370785,
       "num": 370785,
       "word": "唐小强曾阻止家暴",
@@ -307,12 +355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354098,
-      "num": 354098,
-      "word": "王者新打野英雄姬小满",
-      "onboard_time": 1676078966,
-      "rank": 15,
-      "category": "游戏"
+      "raw_hot": 359694,
+      "num": 359694,
+      "word": "土耳其大妈将救援女队员手放怀里取暖",
+      "onboard_time": 1676079686,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344633,
@@ -363,6 +411,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310520,
+      "num": 310520,
+      "word": "中国搜救犬Lucky寻获1幸存者",
+      "onboard_time": 1676082567,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303809,
+      "num": 303809,
+      "word": "京海F4合体拍杂志",
+      "onboard_time": 1676083165,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 301456,
       "num": 301456,
       "word": "宁波地铁每晚8点后免费",
@@ -387,20 +451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278234,
+      "num": 278234,
+      "word": "加了少女滤镜的王阳",
+      "onboard_time": 1676081547,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277361,
       "num": 277361,
       "word": "永远不知道女生照片P了什么",
       "onboard_time": 1676067013,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 270833,
-      "num": 270833,
-      "word": "土耳其大妈将救援女队员手放怀里取暖",
-      "onboard_time": 1676079686,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 268740,
@@ -419,12 +483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255916,
+      "num": 255916,
+      "word": "大马丁回应世界杯争议动作",
+      "onboard_time": 1676081484,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252747,
       "num": 252747,
       "word": "时代少年团 秒切",
       "onboard_time": 1676028272,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 242175,
+      "num": 242175,
+      "word": "费启鸣新剧角色人设",
+      "onboard_time": 1676080047,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 238608,
@@ -451,20 +531,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 228791,
-      "num": 228791,
-      "word": "费启鸣新剧角色人设",
-      "onboard_time": 1676080047,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 223744,
       "num": 223744,
       "word": "胜利曾非法拍摄中国女性",
       "onboard_time": 1676023353,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 222751,
+      "num": 222751,
+      "word": "警方通报原县委书记遭绑架案",
+      "onboard_time": 1676082926,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222679,
@@ -595,12 +675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182998,
+      "num": 182998,
+      "word": "捐精者需要符合哪些条件",
+      "onboard_time": 1676082147,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178965,
       "num": 178965,
       "word": "FIFA年度最佳球员三人候选",
       "onboard_time": 1676079147,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177230,
+      "num": 177230,
+      "word": "国家首批功勋犬全员简历",
+      "onboard_time": 1676082688,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172371,
@@ -665,6 +761,14 @@
       "onboard_time": 1676076445,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 142878,
+      "num": 142878,
+      "word": "救援队探测到90岁老人生命迹象",
+      "onboard_time": 1676081066,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125761,
