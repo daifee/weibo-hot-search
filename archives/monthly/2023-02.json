@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676090265121,
+  "endTime": 1676092604755,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1315,6 +1315,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1605248,
+      "num": 1605248,
+      "word": "专家提醒每人一生只能捐精一次",
+      "onboard_time": 1676090847,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1602431,
       "num": 1602431,
       "word": "九价HPV疫苗现捆绑销售",
@@ -1833,6 +1841,14 @@
       "onboard_time": 1675244311,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1335896,
+      "num": 571745,
+      "word": "女生应聘被告知接受潜规则有补贴",
+      "onboard_time": 1676089527,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1335460,
@@ -4177,6 +4193,14 @@
       "onboard_time": 1676037573,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 833733,
+      "num": 560107,
+      "word": "张颂文拍立得买主回应",
+      "onboard_time": 1676091627,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 830645,
@@ -6931,6 +6955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588127,
+      "num": 552354,
+      "word": "高叶分享陈书婷口红色号",
+      "onboard_time": 1676089648,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 588121,
       "num": 588121,
       "word": "连狗狗都有狗狗了",
@@ -7083,6 +7115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 580029,
+      "num": 580029,
+      "word": "河源近三个月已发生3次地震",
+      "onboard_time": 1676090188,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579462,
       "num": 579462,
       "word": "把元宵煮成了藕粉",
@@ -7137,6 +7177,14 @@
       "onboard_time": 1675854871,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575114,
+      "num": 575114,
+      "word": "鼠鼠被教育之后的样子",
+      "onboard_time": 1676088090,
+      "rank": 16,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 575021,
@@ -7353,14 +7401,6 @@
       "onboard_time": 1675465816,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 561605,
-      "num": 561605,
-      "word": "鼠鼠被教育之后的样子",
-      "onboard_time": 1676088090,
-      "rank": 16,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 560773,
@@ -7593,6 +7633,14 @@
       "onboard_time": 1675772126,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 550270,
+      "num": 550270,
+      "word": "王一博偷笑王传君被要求收腹花絮",
+      "onboard_time": 1676090967,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 549824,
@@ -8232,14 +8280,6 @@
       "word": "高启强患的干眼症陶勇称确为绝症",
       "onboard_time": 1675955076,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517556,
-      "num": 517556,
-      "word": "女生应聘被告知接受潜规则有补贴",
-      "onboard_time": 1676089527,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -9643,14 +9683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 438765,
-      "num": 438765,
-      "word": "高叶分享陈书婷口红色号",
-      "onboard_time": 1676089648,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 438247,
       "num": 438247,
       "word": "杨幂丸子头烟熏妆造型",
@@ -10201,6 +10233,14 @@
       "onboard_time": 1676083165,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 417888,
+      "num": 417888,
+      "word": "黄明昊镜头下的蔡文静",
+      "onboard_time": 1676090847,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 417768,
@@ -11361,6 +11401,14 @@
       "onboard_time": 1675984881,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 373484,
+      "num": 373484,
+      "word": "广西3岁男童手术后变成脑瘫",
+      "onboard_time": 1676091748,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373474,
@@ -17443,6 +17491,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 220383,
+      "num": 220383,
+      "word": "巴特勒空接绝杀火箭",
+      "onboard_time": 1676089890,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220159,
       "num": 220159,
       "word": "你知道皮蛋有多美吗",
@@ -17641,6 +17697,14 @@
       "onboard_time": 1675392328,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215109,
+      "num": 215109,
+      "word": "姚晨还原喜剧之王名场面",
+      "onboard_time": 1676092288,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 214952,
@@ -19227,6 +19291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189319,
+      "num": 189319,
+      "word": "童瑶张新成微暗之火封面预告",
+      "onboard_time": 1676091388,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189302,
       "num": 189302,
       "word": "哪一瞬间感受到父母对你的爱",
@@ -20153,14 +20225,6 @@
       "onboard_time": 1675433853,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177852,
-      "num": 177852,
-      "word": "巴特勒空接绝杀火箭",
-      "onboard_time": 1676089890,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 177789,
@@ -21155,6 +21219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164536,
+      "num": 164536,
+      "word": "吴易昺首进巡回赛四强",
+      "onboard_time": 1676091567,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164495,
       "num": 164495,
       "word": "二刷流浪地球2还是满江红",
@@ -21241,6 +21313,14 @@
       "onboard_time": 1675579887,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163371,
+      "num": 163371,
+      "word": "厦航A321neo",
+      "onboard_time": 1676092288,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 163242,
@@ -21731,14 +21811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153835,
-      "num": 153835,
-      "word": "河源近三个月已发生3次地震",
-      "onboard_time": 1676090188,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153745,
       "num": 153745,
       "word": "宋祖儿刘宇宁片场互动路透",
@@ -21849,6 +21921,14 @@
       "onboard_time": 1675222351,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151892,
+      "num": 151892,
+      "word": "梅里雪山日照金山有多震撼",
+      "onboard_time": 1676091449,
+      "rank": 42,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 151626,
@@ -23961,6 +24041,14 @@
       "onboard_time": 1675173454,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 57500,
+      "num": 851076,
+      "word": "用汗水播下丰收的种子",
+      "onboard_time": 1676091087,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55997,

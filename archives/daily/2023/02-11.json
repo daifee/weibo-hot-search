@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676090265121,
+  "endTime": 1676092604755,
   "band_list": [
     {
       "raw_hot": 8361811,
@@ -57,6 +57,22 @@
       "onboard_time": 1676041532,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1605248,
+      "num": 1605248,
+      "word": "专家提醒每人一生只能捐精一次",
+      "onboard_time": 1676090847,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1335896,
+      "num": 571745,
+      "word": "女生应聘被告知接受潜规则有补贴",
+      "onboard_time": 1676089527,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1326408,
@@ -137,6 +153,14 @@
       "onboard_time": 1676077948,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833733,
+      "num": 560107,
+      "word": "张颂文拍立得买主回应",
+      "onboard_time": 1676091627,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 800209,
@@ -267,6 +291,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 588127,
+      "num": 552354,
+      "word": "高叶分享陈书婷口红色号",
+      "onboard_time": 1676089648,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 580029,
+      "num": 580029,
+      "word": "河源近三个月已发生3次地震",
+      "onboard_time": 1676090188,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577371,
       "num": 577371,
       "word": "警方通报原县委书记遭绑架案",
@@ -275,12 +315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 561605,
-      "num": 561605,
+      "raw_hot": 575114,
+      "num": 575114,
       "word": "鼠鼠被教育之后的样子",
       "onboard_time": 1676088090,
       "rank": 16,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 550270,
+      "num": 550270,
+      "word": "王一博偷笑王传君被要求收腹花絮",
+      "onboard_time": 1676090967,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 542406,
@@ -312,14 +360,6 @@
       "word": "山东省人类精子库招募捐精志愿者",
       "onboard_time": 1676036009,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517556,
-      "num": 517556,
-      "word": "女生应聘被告知接受潜规则有补贴",
-      "onboard_time": 1676089527,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -371,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438765,
-      "num": 438765,
-      "word": "高叶分享陈书婷口红色号",
-      "onboard_time": 1676089648,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 432670,
       "num": 432670,
       "word": "张译经纪公司严正声明",
@@ -417,6 +449,14 @@
       "onboard_time": 1676083165,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 417888,
+      "num": 417888,
+      "word": "黄明昊镜头下的蔡文静",
+      "onboard_time": 1676090847,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 415793,
@@ -489,6 +529,14 @@
       "onboard_time": 1676050039,
       "rank": 43,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 373484,
+      "num": 373484,
+      "word": "广西3岁男童手术后变成脑瘫",
+      "onboard_time": 1676091748,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370785,
@@ -731,12 +779,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220383,
+      "num": 220383,
+      "word": "巴特勒空接绝杀火箭",
+      "onboard_time": 1676089890,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218225,
       "num": 218225,
       "word": "美国暂时放宽对叙制裁",
       "onboard_time": 1676071819,
       "rank": 40,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 215109,
+      "num": 215109,
+      "word": "姚晨还原喜剧之王名场面",
+      "onboard_time": 1676092288,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 214044,
@@ -835,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189319,
+      "num": 189319,
+      "word": "童瑶张新成微暗之火封面预告",
+      "onboard_time": 1676091388,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189107,
       "num": 189107,
       "word": "iG冠军阵容赛场重遇",
@@ -883,14 +955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177852,
-      "num": 177852,
-      "word": "巴特勒空接绝杀火箭",
-      "onboard_time": 1676089890,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177230,
       "num": 177230,
       "word": "国家首批功勋犬全员简历",
@@ -923,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164536,
+      "num": 164536,
+      "word": "吴易昺首进巡回赛四强",
+      "onboard_time": 1676091567,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163773,
       "num": 163773,
       "word": "李诞向青年画家发出脱口秀邀请",
@@ -931,12 +1003,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153835,
-      "num": 153835,
-      "word": "河源近三个月已发生3次地震",
-      "onboard_time": 1676090188,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 163371,
+      "num": 163371,
+      "word": "厦航A321neo",
+      "onboard_time": 1676092288,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 152742,
@@ -945,6 +1017,14 @@
       "onboard_time": 1676040270,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151892,
+      "num": 151892,
+      "word": "梅里雪山日照金山有多震撼",
+      "onboard_time": 1676091449,
+      "rank": 42,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 151592,
@@ -1047,6 +1127,14 @@
       "num": 2147167,
       "word": "穿越机视角看中国大桥多震撼",
       "onboard_time": 1676037210,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57500,
+      "num": 851076,
+      "word": "用汗水播下丰收的种子",
+      "onboard_time": 1676091087,
       "rank": 2,
       "category": "社会新闻"
     },
