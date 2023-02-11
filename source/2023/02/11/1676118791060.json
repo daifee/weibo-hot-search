@@ -1,0 +1,410 @@
+{
+  "runTime": 1676118791060,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2513245,
+        "num": 2513245,
+        "word": "入职1小时被HR告知招错人补偿50元",
+        "onboard_time": 1676113765,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1097285,
+        "num": 1097285,
+        "word": "武汉地铁3外籍男子横卧整排座位",
+        "onboard_time": 1676114969,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21589,
+        "num": 1078214,
+        "word": "同心奋进新征程",
+        "onboard_time": 1676105367,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1068532,
+        "num": 1068532,
+        "word": "于正说肖战还不火啥叫火",
+        "onboard_time": 1676108486,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 852826,
+        "num": 852826,
+        "word": "上海巨型玫瑰",
+        "onboard_time": 1676117608,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 761499,
+        "num": 761499,
+        "word": "刘大锤说张译是很纯粹的演员",
+        "onboard_time": 1676111850,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 592909,
+        "num": 592909,
+        "word": "男子欲买小雏菊送女友不料买成白菊",
+        "onboard_time": 1676110406,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581592,
+        "num": 581592,
+        "word": "狂飙大结局以后最累的是高启兰",
+        "onboard_time": 1676101347,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 493047,
+        "num": 493047,
+        "word": "赵丽颖早期穆念慈定妆照",
+        "onboard_time": 1676108247,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467874,
+        "num": 467874,
+        "word": "IVE新专收录曲BlueBlood",
+        "onboard_time": 1676116048,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 579757,
+        "num": 465063,
+        "word": "上市公司回应董事长月薪两万招保镖",
+        "onboard_time": 1676116469,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 485650,
+        "num": 464629,
+        "word": "19岁男孩常忘事患上阿尔茨海默病",
+        "onboard_time": 1676117306,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460724,
+        "num": 460724,
+        "word": "JDG对战WBG",
+        "onboard_time": 1676116709,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 439289,
+        "num": 439289,
+        "word": "RNG官宣教练Heart离队",
+        "onboard_time": 1676113045,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 409036,
+        "num": 409036,
+        "word": "泰国夜市偶遇鞠婧祎",
+        "onboard_time": 1676102066,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406109,
+        "num": 406109,
+        "word": "张杰未live演唱会南京站附近酒店已订满",
+        "onboard_time": 1676117365,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 400122,
+        "num": 400122,
+        "word": "邢菲问王勉怎么不关注她",
+        "onboard_time": 1676116586,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353021,
+        "num": 353021,
+        "word": "郑永刚病逝",
+        "onboard_time": 1676109865,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 339374,
+        "num": 339374,
+        "word": "刘耀文第一个抱到宋亚轩",
+        "onboard_time": 1676112147,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330236,
+        "num": 330236,
+        "word": "张颂文曾因捡垃圾被剧组丢下",
+        "onboard_time": 1676103627,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286973,
+        "num": 286973,
+        "word": "男子用60斤黄河泥1比130还原超然楼",
+        "onboard_time": 1676116347,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262657,
+        "num": 262657,
+        "word": "俄称准备好与乌克兰无条件谈判",
+        "onboard_time": 1676099906,
+        "rank": 21,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 253644,
+        "num": 253644,
+        "word": "秦岚打卡澳门的历史城区",
+        "onboard_time": 1676116648,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239828,
+        "num": 239828,
+        "word": "周也不会wink可以不wink",
+        "onboard_time": 1676098107,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223349,
+        "num": 223349,
+        "word": "于正想拯救几个不红的艺人",
+        "onboard_time": 1676106147,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222986,
+        "num": 222986,
+        "word": "女子路边买鹅蛋煮后蛋清是粉色",
+        "onboard_time": 1676108127,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217622,
+        "num": 217622,
+        "word": "蔡徐坤帮前队友收集打官司证据",
+        "onboard_time": 1676105126,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 203412,
+        "num": 203412,
+        "word": "深海",
+        "onboard_time": 1676105906,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202096,
+        "num": 202096,
+        "word": "宋亚轩拿手机当放大镜",
+        "onboard_time": 1676115327,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193597,
+        "num": 193597,
+        "word": "喝太多碳酸饮料影响精子质量",
+        "onboard_time": 1676100566,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191207,
+        "num": 191207,
+        "word": "100岁丈夫牵手101岁妻子回忆爱情",
+        "onboard_time": 1676107466,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 709132,
+        "num": 191195,
+        "word": "广州一女子当街被小男孩袭胸",
+        "onboard_time": 1676098886,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189915,
+        "num": 189915,
+        "word": "女子小巷停车一口气撞了10辆",
+        "onboard_time": 1676107646,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 187317,
+        "num": 187317,
+        "word": "ChatGPT被曝曾雇佣数据标注血汗工厂",
+        "onboard_time": 1676108547,
+        "rank": 33,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 179747,
+        "num": 179747,
+        "word": "黄冠亨听到粉丝用粤语喊他的反应",
+        "onboard_time": 1676115687,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178564,
+        "num": 178564,
+        "word": "16名队员在土耳其遇难最小仅12岁",
+        "onboard_time": 1676100926,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170711,
+        "num": 170711,
+        "word": "流浪地球2门框机器人招贴画",
+        "onboard_time": 1676118447,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164928,
+        "num": 164928,
+        "word": "高启强同款书籍有多火",
+        "onboard_time": 1676110766,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162371,
+        "num": 162371,
+        "word": "这就是21级的孙尚香",
+        "onboard_time": 1676107346,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161664,
+        "num": 161664,
+        "word": "捐精是否存在近亲婚配可能",
+        "onboard_time": 1676102726,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157834,
+        "num": 157834,
+        "word": "北京动物园称正办理大熊猫丫丫回国手续",
+        "onboard_time": 1676098286,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147033,
+        "num": 147033,
+        "word": "地质专家谈遇上地震是命遭主持人怒斥",
+        "onboard_time": 1676102906,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139775,
+        "num": 139775,
+        "word": "黄子韬新剧开机照",
+        "onboard_time": 1676113348,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136194,
+        "num": 136194,
+        "word": "专家提醒每人一生只能捐精一次",
+        "onboard_time": 1676090847,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132098,
+        "num": 132098,
+        "word": "极限挑战宝藏行",
+        "onboard_time": 1676118748,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129906,
+        "num": 129906,
+        "word": "广东河源发生余震70次",
+        "onboard_time": 1676099307,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120487,
+        "num": 120487,
+        "word": "比尔盖茨称ChatGPT将改变世界",
+        "onboard_time": 1676103984,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 118064,
+        "num": 118064,
+        "word": "广东地震",
+        "onboard_time": 1676083827,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116298,
+        "num": 116298,
+        "word": "折腰刘宇宁背宋祖儿氛围感路透",
+        "onboard_time": 1676111607,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104675,
+        "num": 104675,
+        "word": "啊泽一曲亮情侣标",
+        "onboard_time": 1676118748,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#春暖花开铁杆朋友来了#"
+    }
+  }
+}
