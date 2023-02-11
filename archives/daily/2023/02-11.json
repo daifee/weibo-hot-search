@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676122406022,
+  "endTime": 1676124951785,
   "band_list": [
     {
       "raw_hot": 8361811,
@@ -33,6 +33,14 @@
       "onboard_time": 1676113765,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2455557,
+      "num": 2455557,
+      "word": "狂飙钟阿四真的不是演的",
+      "onboard_time": 1676121930,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 2184702,
@@ -315,6 +323,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872728,
+      "num": 872728,
+      "word": "JDG对战WBG",
+      "onboard_time": 1676116709,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 857520,
+      "num": 857520,
+      "word": "林孝埈 半决赛",
+      "onboard_time": 1676122350,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 856020,
+      "num": 856020,
+      "word": "官方通报山东女足队员家遭强拆",
+      "onboard_time": 1676123370,
+      "rank": 6,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 813505,
+      "num": 813505,
+      "word": "网友深圳街头偶遇李宏毅",
+      "onboard_time": 1676121390,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 800209,
       "num": 800209,
       "word": "丁义珍式窗口为何屡禁不止",
@@ -427,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 682602,
+      "num": 682602,
+      "word": "严浩翔在宿舍的阳台上打坐练剑",
+      "onboard_time": 1676124328,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 677696,
       "num": 677696,
       "word": "叙利亚奇迹宝宝将被叔祖父接走",
@@ -515,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 615480,
+      "num": 615480,
+      "word": "教师会被ChatGPT取代吗",
+      "onboard_time": 1676121868,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 612205,
       "num": 612205,
       "word": "比尔盖茨称ChatGPT将改变世界",
@@ -595,6 +651,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 553851,
+      "num": 553851,
+      "word": "张元英翻跳PinkVenom视频",
+      "onboard_time": 1676121689,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 552347,
       "num": 432774,
       "word": "vox停播",
@@ -609,14 +673,6 @@
       "onboard_time": 1676090967,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 546396,
-      "num": 546396,
-      "word": "网友深圳街头偶遇李宏毅",
-      "onboard_time": 1676121390,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 542406,
@@ -665,14 +721,6 @@
       "onboard_time": 1676036009,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517596,
-      "num": 517596,
-      "word": "张元英翻跳PinkVenom视频",
-      "onboard_time": 1676121689,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 516421,
@@ -763,14 +811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 460724,
-      "num": 460724,
-      "word": "JDG对战WBG",
-      "onboard_time": 1676116709,
-      "rank": 12,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 442112,
       "num": 442112,
       "word": "这就是21级的孙尚香",
@@ -809,6 +849,14 @@
       "onboard_time": 1676087850,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 428964,
+      "num": 428964,
+      "word": "潘玮柏把律师所调解成婚介所",
+      "onboard_time": 1676122289,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 428726,
@@ -857,14 +905,6 @@
       "onboard_time": 1676107646,
       "rank": 43,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 401665,
-      "num": 401665,
-      "word": "狂飙钟阿四真的不是演的",
-      "onboard_time": 1676121930,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 400859,
@@ -971,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366850,
+      "num": 366850,
+      "word": "被喷奶油的龚俊",
+      "onboard_time": 1676122769,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365861,
       "num": 365861,
       "word": "喻言签售会单独给粉丝唱后来",
@@ -1011,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347200,
+      "num": 347200,
+      "word": "刘耀文想看尔冬升跳舞",
+      "onboard_time": 1676124631,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344991,
       "num": 344991,
       "word": "捐精是否存在近亲婚配可能",
@@ -1025,6 +1081,14 @@
       "onboard_time": 1676037573,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 343184,
+      "num": 343184,
+      "word": "流浪地球",
+      "onboard_time": 1676122709,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 339001,
@@ -1115,8 +1179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305936,
-      "num": 305936,
+      "raw_hot": 313408,
+      "num": 313408,
       "word": "Knight吃披萨",
       "onboard_time": 1676121150,
       "rank": 24,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1676113348,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298107,
+      "num": 298107,
+      "word": "你只管踩油门剩下的交给我们",
+      "onboard_time": 1676124091,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 288541,
@@ -1265,6 +1337,14 @@
       "onboard_time": 1676115029,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 270225,
+      "num": 270225,
+      "word": "沈月试戏紧张口误",
+      "onboard_time": 1676123670,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 269652,
@@ -1435,6 +1515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227806,
+      "num": 227806,
+      "word": "秦霄贤小时候被饿到吃狗粮",
+      "onboard_time": 1676121930,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227153,
       "num": 227153,
       "word": "XG女团LeftRight初舞台",
@@ -1539,6 +1627,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212818,
+      "num": 212818,
+      "word": "我们的日子",
+      "onboard_time": 1676124270,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212445,
+      "num": 212445,
+      "word": "AG对战RW",
+      "onboard_time": 1676124151,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211482,
       "num": 211482,
       "word": "田震说深深地怀疑周深",
@@ -1553,6 +1657,14 @@
       "onboard_time": 1676035052,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210444,
+      "num": 210444,
+      "word": "无畏MVP",
+      "onboard_time": 1676122831,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 208195,
@@ -1611,14 +1723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196174,
-      "num": 196174,
-      "word": "教师会被ChatGPT取代吗",
-      "onboard_time": 1676121868,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 196173,
       "num": 196173,
       "word": "同型号同路线车辆高速费用差44元",
@@ -1667,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191066,
+      "num": 191066,
+      "word": "任时完翻跳女团舞",
+      "onboard_time": 1676124151,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190545,
       "num": 190545,
       "word": "侯明昊周也你好星期六合体",
@@ -1705,6 +1817,14 @@
       "onboard_time": 1676043810,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187756,
+      "num": 187756,
+      "word": "中国造照明无人机点亮地震救援现场",
+      "onboard_time": 1676124510,
+      "rank": 37,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 187601,
@@ -1777,14 +1897,6 @@
       "onboard_time": 1676082147,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182782,
-      "num": 182782,
-      "word": "秦霄贤小时候被饿到吃狗粮",
-      "onboard_time": 1676121930,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 179747,
@@ -1939,14 +2051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159483,
-      "num": 159483,
-      "word": "林孝埈 半决赛",
-      "onboard_time": 1676122350,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159204,
       "num": 159204,
       "word": "杨洋白西装拍摄路透视频",
@@ -1955,20 +2059,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158159,
-      "num": 158159,
-      "word": "潘玮柏把律师所调解成婚介所",
-      "onboard_time": 1676122289,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156234,
       "num": 156234,
       "word": "菲利克斯切尔西首球",
       "onboard_time": 1676122109,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154005,
+      "num": 154005,
+      "word": "Hero战胜KSG",
+      "onboard_time": 1676123070,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 153044,

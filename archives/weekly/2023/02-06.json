@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676122406022,
+  "endTime": 1676124951785,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -233,6 +233,14 @@
       "onboard_time": 1675923509,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2455557,
+      "num": 2455557,
+      "word": "狂飙钟阿四真的不是演的",
+      "onboard_time": 1676121930,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 2430501,
@@ -2187,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872728,
+      "num": 872728,
+      "word": "JDG对战WBG",
+      "onboard_time": 1676116709,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 872046,
       "num": 872046,
       "word": "高启盛下线那场戏张颂文临时改台词",
@@ -2243,12 +2259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 857520,
+      "num": 857520,
+      "word": "林孝埈 半决赛",
+      "onboard_time": 1676122350,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 856164,
       "num": 778179,
       "word": "一央企要求全员背诵董事长金句",
       "onboard_time": 1675738047,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 856020,
+      "num": 856020,
+      "word": "官方通报山东女足队员家遭强拆",
+      "onboard_time": 1676123370,
+      "rank": 6,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 853090,
@@ -2473,6 +2505,14 @@
       "onboard_time": 1675865553,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 813505,
+      "num": 813505,
+      "word": "网友深圳街头偶遇李宏毅",
+      "onboard_time": 1676121390,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 812799,
@@ -3211,6 +3251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 682602,
+      "num": 682602,
+      "word": "严浩翔在宿舍的阳台上打坐练剑",
+      "onboard_time": 1676124328,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 680782,
       "num": 680782,
       "word": "苏小玎直播发言",
@@ -3705,6 +3753,14 @@
       "onboard_time": 1675845813,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 615480,
+      "num": 615480,
+      "word": "教师会被ChatGPT取代吗",
+      "onboard_time": 1676121868,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 614293,
@@ -4227,6 +4283,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 553851,
+      "num": 553851,
+      "word": "张元英翻跳PinkVenom视频",
+      "onboard_time": 1676121689,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 553737,
       "num": 553737,
       "word": "科学家发现高脂饮食可清除寄生虫",
@@ -4289,14 +4353,6 @@
       "onboard_time": 1675999233,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546396,
-      "num": 546396,
-      "word": "网友深圳街头偶遇李宏毅",
-      "onboard_time": 1676121390,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 545850,
@@ -4681,14 +4737,6 @@
       "onboard_time": 1675955076,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517596,
-      "num": 517596,
-      "word": "张元英翻跳PinkVenom视频",
-      "onboard_time": 1676121689,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 517344,
@@ -5227,14 +5275,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 460724,
-      "num": 460724,
-      "word": "JDG对战WBG",
-      "onboard_time": 1676116709,
-      "rank": 12,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 459281,
       "num": 459281,
       "word": "速写声明",
@@ -5635,6 +5675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 428964,
+      "num": 428964,
+      "word": "潘玮柏把律师所调解成婚介所",
+      "onboard_time": 1676122289,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428943,
       "num": 428943,
       "word": "陈楚生拒绝快乐再出发内讧",
@@ -6016,14 +6064,6 @@
       "word": "王智流浪地球2路演状态",
       "onboard_time": 1675672288,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 401665,
-      "num": 401665,
-      "word": "狂飙钟阿四真的不是演的",
-      "onboard_time": 1676121930,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -6611,6 +6651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366850,
+      "num": 366850,
+      "word": "被喷奶油的龚俊",
+      "onboard_time": 1676122769,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366536,
       "num": 366536,
       "word": "男孩通宵赶完的作业被狗子全部撕碎",
@@ -6875,6 +6923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 347200,
+      "num": 347200,
+      "word": "刘耀文想看尔冬升跳舞",
+      "onboard_time": 1676124631,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346812,
       "num": 346812,
       "word": "电影梅根确认引进",
@@ -6953,6 +7009,14 @@
       "onboard_time": 1675611691,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 343184,
+      "num": 343184,
+      "word": "流浪地球",
+      "onboard_time": 1676122709,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 342583,
@@ -7507,6 +7571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313408,
+      "num": 313408,
+      "word": "Knight吃披萨",
+      "onboard_time": 1676121150,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 313343,
       "num": 313343,
       "word": "这就是solo艺人的烦恼吧",
@@ -7681,14 +7753,6 @@
       "onboard_time": 1676023053,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 305936,
-      "num": 305936,
-      "word": "Knight吃披萨",
-      "onboard_time": 1676121150,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 305737,
@@ -7905,6 +7969,14 @@
       "onboard_time": 1675737448,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298107,
+      "num": 298107,
+      "word": "你只管踩油门剩下的交给我们",
+      "onboard_time": 1676124091,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 297591,
@@ -8697,6 +8769,14 @@
       "onboard_time": 1676032650,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270225,
+      "num": 270225,
+      "word": "沈月试戏紧张口误",
+      "onboard_time": 1676123670,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 270024,
@@ -9835,6 +9915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227806,
+      "num": 227806,
+      "word": "秦霄贤小时候被饿到吃狗粮",
+      "onboard_time": 1676121930,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227770,
       "num": 227770,
       "word": "年龄差距很大的婚姻会幸福吗",
@@ -10307,6 +10395,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212818,
+      "num": 212818,
+      "word": "我们的日子",
+      "onboard_time": 1675689633,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212445,
+      "num": 212445,
+      "word": "AG对战RW",
+      "onboard_time": 1676124151,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212056,
       "num": 212056,
       "word": "当流浪小狗变成了我的小狗",
@@ -10363,14 +10467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210957,
-      "num": 210957,
-      "word": "我们的日子",
-      "onboard_time": 1675689633,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210928,
       "num": 210928,
       "word": "何洁商场拉人看演出",
@@ -10385,6 +10481,14 @@
       "onboard_time": 1675941571,
       "rank": 43,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 210444,
+      "num": 210444,
+      "word": "无畏MVP",
+      "onboard_time": 1676122831,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 209851,
@@ -10843,14 +10947,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 196174,
-      "num": 196174,
-      "word": "教师会被ChatGPT取代吗",
-      "onboard_time": 1676121868,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 196173,
       "num": 196173,
       "word": "同型号同路线车辆高速费用差44元",
@@ -11035,6 +11131,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 191066,
+      "num": 191066,
+      "word": "任时完翻跳女团舞",
+      "onboard_time": 1676124151,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190988,
       "num": 190988,
       "word": "人保寿险学习董事长金句考试疑被叫停",
@@ -11169,6 +11273,14 @@
       "onboard_time": 1675875020,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187756,
+      "num": 187756,
+      "word": "中国造照明无人机点亮地震救援现场",
+      "onboard_time": 1676124510,
+      "rank": 37,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 187601,
@@ -11377,14 +11489,6 @@
       "onboard_time": 1676082147,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182782,
-      "num": 182782,
-      "word": "秦霄贤小时候被饿到吃狗粮",
-      "onboard_time": 1676121930,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 182554,
@@ -12339,14 +12443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159483,
-      "num": 159483,
-      "word": "林孝埈 半决赛",
-      "onboard_time": 1676122350,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159326,
       "num": 159326,
       "word": "半熟恋人2你们嗑哪一对cp",
@@ -12409,14 +12505,6 @@
       "onboard_time": 1675843950,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158159,
-      "num": 158159,
-      "word": "潘玮柏把律师所调解成婚介所",
-      "onboard_time": 1676122289,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 158077,
@@ -12521,6 +12609,14 @@
       "onboard_time": 1675595671,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154005,
+      "num": 154005,
+      "word": "Hero战胜KSG",
+      "onboard_time": 1676123070,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 153597,
