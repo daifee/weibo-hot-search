@@ -1,7 +1,15 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676083938304,
+  "endTime": 1676085611851,
   "band_list": [
+    {
+      "raw_hot": 7916502,
+      "num": 7916502,
+      "word": "广东地震",
+      "onboard_time": 1676083827,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3687086,
       "num": 3687086,
@@ -11,11 +19,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2361181,
-      "num": 2361181,
-      "word": "广东地震",
-      "onboard_time": 1676083827,
-      "rank": 0,
+      "raw_hot": 2888631,
+      "num": 2888631,
+      "word": "广东河源市4.3级地震",
+      "onboard_time": 1676084128,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -27,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2049585,
-      "num": 2049585,
+      "raw_hot": 2121394,
+      "num": 2121394,
       "word": "志愿者精子合格率不到20%",
       "onboard_time": 1676081725,
       "rank": 0,
@@ -41,6 +49,14 @@
       "onboard_time": 1676041532,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1129370,
+      "num": 1129370,
+      "word": "中国首批缉毒松鼠即将上岗",
+      "onboard_time": 1676081967,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1100800,
@@ -81,14 +97,6 @@
       "onboard_time": 1676045487,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 925514,
-      "num": 925514,
-      "word": "中国首批缉毒松鼠即将上岗",
-      "onboard_time": 1676081967,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 909695,
@@ -179,6 +187,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 646927,
+      "num": 646927,
+      "word": "陕西人类精子库呼吁大学生捐精",
+      "onboard_time": 1676082266,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638495,
+      "num": 638495,
+      "word": "广东地震多地震感明显",
+      "onboard_time": 1676084792,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632008,
+      "num": 632008,
+      "word": "中国搜救犬Lucky寻获1幸存者",
+      "onboard_time": 1676082567,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628472,
       "num": 628472,
       "word": "张颂文 为什么会这样",
@@ -195,11 +227,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 560618,
-      "num": 560618,
-      "word": "陕西人类精子库呼吁大学生捐精",
-      "onboard_time": 1676082266,
-      "rank": 16,
+      "raw_hot": 543773,
+      "num": 543773,
+      "word": "警方通报原县委书记遭绑架案",
+      "onboard_time": 1676082926,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -223,14 +255,6 @@
       "num": 291691,
       "word": "山东省人类精子库招募捐精志愿者",
       "onboard_time": 1676036009,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517280,
-      "num": 517280,
-      "word": "中国搜救犬Lucky寻获1幸存者",
-      "onboard_time": 1676082567,
       "rank": 21,
       "category": "社会新闻"
     },
@@ -307,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 418271,
+      "num": 418271,
+      "word": "京海F4合体拍杂志",
+      "onboard_time": 1676083165,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 415793,
       "num": 415793,
       "word": "房东的猫美好的昨天好治愈",
@@ -353,14 +385,6 @@
       "onboard_time": 1676050039,
       "rank": 43,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 372293,
-      "num": 372293,
-      "word": "京海F4合体拍杂志",
-      "onboard_time": 1676083165,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 370785,
@@ -435,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316555,
-      "num": 316555,
-      "word": "警方通报原县委书记遭绑架案",
-      "onboard_time": 1676082926,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301456,
       "num": 301456,
       "word": "宁波地铁每晚8点后免费",
@@ -457,6 +473,14 @@
       "onboard_time": 1676045548,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287773,
+      "num": 287773,
+      "word": "霍格沃茨之遗",
+      "onboard_time": 1676083591,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 278860,
@@ -635,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196663,
+      "num": 196663,
+      "word": "土耳其地震下的中国救援力量",
+      "onboard_time": 1676084489,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 196173,
       "num": 196173,
       "word": "同型号同路线车辆高速费用差44元",
@@ -739,12 +771,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161707,
-      "num": 161707,
-      "word": "霍格沃茨之遗",
-      "onboard_time": 1676083591,
-      "rank": 44,
-      "category": "游戏"
+      "raw_hot": 162936,
+      "num": 162936,
+      "word": "2023NBA全明星",
+      "onboard_time": 1676084792,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 152742,
@@ -763,6 +795,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 151364,
+      "num": 151364,
+      "word": "霍格沃茨之遗Steam在线近70万",
+      "onboard_time": 1676084971,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149787,
       "num": 149787,
       "word": "蓝天救援队凌晨返回驻地上车秒睡",
@@ -779,11 +819,27 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 148522,
+      "num": 148522,
+      "word": "警方辟谣书记被绑架付千万赎金",
+      "onboard_time": 1676084728,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142878,
       "num": 142878,
       "word": "救援队探测到90岁老人生命迹象",
       "onboard_time": 1676081066,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134877,
+      "num": 134877,
+      "word": "地震被困女子恳求救援队先救她的孩子",
+      "onboard_time": 1676085451,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -844,7 +900,7 @@
     },
     {
       "raw_hot": 81687,
-      "num": 1328372,
+      "num": 2147167,
       "word": "穿越机视角看中国大桥多震撼",
       "onboard_time": 1676037210,
       "rank": 2,
