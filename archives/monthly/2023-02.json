@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676121718002,
+  "endTime": 1676122406022,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1131,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1750416,
+      "num": 1750416,
+      "word": "岳阳失踪男童遗体被发现",
+      "onboard_time": 1676119048,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1750080,
       "num": 1750080,
       "word": "土耳其附近发生8.0级左右地震",
@@ -1257,14 +1265,6 @@
       "onboard_time": 1675243532,
       "rank": 26,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1694560,
-      "num": 1694560,
-      "word": "岳阳失踪男童遗体被发现",
-      "onboard_time": 1676119048,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1694174,
@@ -1849,6 +1849,14 @@
       "onboard_time": 1676023353,
       "rank": 5,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1367621,
+      "num": 1367621,
+      "word": "出租房半夜怪响竟暗藏上百条蛇",
+      "onboard_time": 1676120369,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1366547,
@@ -3003,14 +3011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1041298,
-      "num": 1041298,
-      "word": "出租房半夜怪响竟暗藏上百条蛇",
-      "onboard_time": 1676120369,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1040158,
       "num": 1040158,
       "word": "吴京说易烊千玺王俊凯很努力不骄傲",
@@ -3129,6 +3129,14 @@
       "onboard_time": 1675148478,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1018522,
+      "num": 1018522,
+      "word": "程耳王一博二搭电影人鱼",
+      "onboard_time": 1676121029,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1017851,
@@ -4256,14 +4264,6 @@
       "word": "狂飙实体书 安欣",
       "onboard_time": 1675924949,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 844445,
-      "num": 844445,
-      "word": "程耳王一博二搭电影人鱼",
-      "onboard_time": 1676121029,
-      "rank": 6,
       "category": "影视"
     },
     {
@@ -7955,6 +7955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546396,
+      "num": 546396,
+      "word": "网友深圳街头偶遇李宏毅",
+      "onboard_time": 1676121390,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545850,
       "num": 545850,
       "word": "原神3.4",
@@ -8577,6 +8585,14 @@
       "onboard_time": 1675955076,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517596,
+      "num": 517596,
+      "word": "张元英翻跳PinkVenom视频",
+      "onboard_time": 1676121689,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 517344,
@@ -11011,6 +11027,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 401665,
+      "num": 401665,
+      "word": "狂飙钟阿四真的不是演的",
+      "onboard_time": 1676121930,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 401376,
       "num": 401376,
       "word": "小猫咪的爪子都要抡冒烟了",
@@ -11625,14 +11649,6 @@
       "onboard_time": 1675586007,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 379649,
-      "num": 379649,
-      "word": "网友深圳街头偶遇李宏毅",
-      "onboard_time": 1676121390,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 379292,
@@ -13435,14 +13451,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 322075,
-      "num": 322075,
-      "word": "张元英翻跳PinkVenom视频",
-      "onboard_time": 1676121689,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 322002,
       "num": 322002,
       "word": "羡慕宋祖儿的发量",
@@ -14025,6 +14033,14 @@
       "onboard_time": 1676023053,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305936,
+      "num": 305936,
+      "word": "Knight吃披萨",
+      "onboard_time": 1676121150,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 305794,
@@ -16409,14 +16425,6 @@
       "onboard_time": 1676000976,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 256379,
-      "num": 256379,
-      "word": "Knight吃披萨",
-      "onboard_time": 1676121150,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 256353,
@@ -19539,6 +19547,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 196174,
+      "num": 196174,
+      "word": "教师会被ChatGPT取代吗",
+      "onboard_time": 1676121868,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 196173,
       "num": 196173,
       "word": "同型号同路线车辆高速费用差44元",
@@ -20641,6 +20657,14 @@
       "onboard_time": 1676082147,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182782,
+      "num": 182782,
+      "word": "秦霄贤小时候被饿到吃狗粮",
+      "onboard_time": 1676121930,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 182554,
@@ -22419,6 +22443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159483,
+      "num": 159483,
+      "word": "林孝埈 半决赛",
+      "onboard_time": 1676122350,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159326,
       "num": 159326,
       "word": "半熟恋人2你们嗑哪一对cp",
@@ -22539,6 +22571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 158159,
+      "num": 158159,
+      "word": "潘玮柏把律师所调解成婚介所",
+      "onboard_time": 1676122289,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158077,
       "num": 158077,
       "word": "Beyonce做出什么能拿到年专",
@@ -22625,6 +22665,14 @@
       "onboard_time": 1675260935,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156234,
+      "num": 156234,
+      "word": "菲利克斯切尔西首球",
+      "onboard_time": 1676122109,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 156010,
