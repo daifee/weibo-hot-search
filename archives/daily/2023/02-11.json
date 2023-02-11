@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676097410666,
+  "endTime": 1676099776075,
   "band_list": [
     {
       "raw_hot": 8361811,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1079852,
+      "num": 1079852,
+      "word": "周也不会wink可以不wink",
+      "onboard_time": 1676098107,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1036663,
       "num": 1036663,
       "word": "郑州某医院再现半蹲式窗口",
@@ -187,11 +195,27 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 719288,
+      "num": 358389,
+      "word": "广州一女子当街被小男孩袭胸",
+      "onboard_time": 1676098886,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709367,
       "num": 709367,
       "word": "2只火凤凰为了求偶上演风骚走位",
       "onboard_time": 1676057594,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703991,
+      "num": 703991,
+      "word": "沛县城管被曝沿街挨家挨户撕春联",
+      "onboard_time": 1676095227,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -363,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 545286,
+      "num": 354328,
+      "word": "父亲满脸伤痕见到幸存儿子失声痛哭",
+      "onboard_time": 1676098046,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 542406,
       "num": 542406,
       "word": "小佩顿体检失败",
@@ -443,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 501661,
-      "num": 501661,
-      "word": "沛县城管被曝沿街挨家挨户撕春联",
-      "onboard_time": 1676095227,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 494285,
       "num": 494285,
       "word": "金智秀晒合照为朴彩英庆生",
@@ -459,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488531,
+      "num": 488531,
+      "word": "狂飙导演说张颂文让他很有安全感",
+      "onboard_time": 1676094745,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 477656,
       "num": 477656,
       "word": "第一次当爱豆的李泳知",
       "onboard_time": 1676045429,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 475751,
+      "num": 349092,
+      "word": "北京动物园称正办理大熊猫丫丫回国手续",
+      "onboard_time": 1676098286,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432670,
@@ -587,14 +627,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 381999,
-      "num": 381999,
-      "word": "狂飙导演说张颂文让他很有安全感",
-      "onboard_time": 1676094745,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 370785,
       "num": 370785,
       "word": "唐小强曾阻止家暴",
@@ -627,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347826,
+      "num": 347826,
+      "word": "种地吧",
+      "onboard_time": 1676097987,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344633,
       "num": 344633,
       "word": "相亲认识需不需要正式表白",
@@ -643,12 +683,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 335580,
+      "num": 335580,
+      "word": "广东地震后部分高铁火车已停运",
+      "onboard_time": 1676097865,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326742,
       "num": 326742,
       "word": "警方通报男子称我爹是市公安局的",
       "onboard_time": 1676079446,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324264,
+      "num": 324264,
+      "word": "刘耀文淋水戏主动申请再演一条",
+      "onboard_time": 1676099366,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 322002,
@@ -672,6 +728,14 @@
       "word": "官方呼吁尚未启程救援队取消行动",
       "onboard_time": 1676078187,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305305,
+      "num": 305305,
+      "word": "土耳其一居民楼设计师出逃时被捕",
+      "onboard_time": 1676098705,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -731,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274796,
+      "num": 274796,
+      "word": "张艺凡给庄达菲拎起来了",
+      "onboard_time": 1676094028,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272585,
       "num": 272585,
       "word": "土耳其地震下的中国救援力量",
@@ -777,14 +849,6 @@
       "onboard_time": 1676081484,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 260041,
-      "num": 260041,
-      "word": "张艺凡给庄达菲拎起来了",
-      "onboard_time": 1676094028,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 252747,
@@ -849,6 +913,14 @@
       "onboard_time": 1676038774,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226053,
+      "num": 226053,
+      "word": "美影厂继中国奇谭后新片公布",
+      "onboard_time": 1676098826,
+      "rank": 30,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 223744,
@@ -1035,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184270,
+      "num": 184270,
+      "word": "睡醒疲惫或是深度睡眠不足",
+      "onboard_time": 1676098167,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182998,
       "num": 182998,
       "word": "捐精者需要符合哪些条件",
@@ -1059,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176469,
+      "num": 176469,
+      "word": "地震瞬间男子提起幼儿脚就往外跑",
+      "onboard_time": 1676099307,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172371,
       "num": 172371,
       "word": "袁一琦新歌PV",
@@ -1073,6 +1161,14 @@
       "onboard_time": 1676042070,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168589,
+      "num": 168589,
+      "word": "官方回应山东女足队员家遭强拆",
+      "onboard_time": 1676099064,
+      "rank": 36,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 167766,
@@ -1171,12 +1267,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 149537,
+      "num": 149537,
+      "word": "广东河源发生余震70次",
+      "onboard_time": 1676099307,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148522,
       "num": 148522,
       "word": "警方辟谣书记被绑架付千万赎金",
       "onboard_time": 1676084728,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147871,
+      "num": 147871,
+      "word": "TES对战DYG",
+      "onboard_time": 1676098107,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 142878,

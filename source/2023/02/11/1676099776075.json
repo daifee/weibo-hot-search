@@ -1,0 +1,410 @@
+{
+  "runTime": 1676099776075,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1166143,
+        "num": 1166143,
+        "word": "广东地震",
+        "onboard_time": 1676083827,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079852,
+        "num": 1079852,
+        "word": "周也不会wink可以不wink",
+        "onboard_time": 1676098107,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50889,
+        "num": 1051371,
+        "word": "用汗水播下丰收的种子",
+        "onboard_time": 1676091087,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046518,
+        "num": 1046518,
+        "word": "张颂文拍立得买主回应",
+        "onboard_time": 1676091627,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 968313,
+        "num": 968313,
+        "word": "专家提醒每人一生只能捐精一次",
+        "onboard_time": 1676090847,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703991,
+        "num": 703991,
+        "word": "沛县城管被曝沿街挨家挨户撕春联",
+        "onboard_time": 1676095227,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488531,
+        "num": 488531,
+        "word": "狂飙导演说张颂文让他很有安全感",
+        "onboard_time": 1676094745,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 433200,
+        "num": 433200,
+        "word": "地震时8岁哥哥第一时间抱紧弟弟",
+        "onboard_time": 1676093727,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424755,
+        "num": 424755,
+        "word": "流浪地球2笨笨门门设计稿",
+        "onboard_time": 1676096006,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361409,
+        "num": 361409,
+        "word": "厦航A321neo",
+        "onboard_time": 1676092288,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 888082,
+        "num": 360447,
+        "word": "志愿者精子合格率不到20%",
+        "onboard_time": 1676081725,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719288,
+        "num": 358389,
+        "word": "广州一女子当街被小男孩袭胸",
+        "onboard_time": 1676098886,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719237,
+        "num": 356953,
+        "word": "女性友谊里的嫉妒瞬间",
+        "onboard_time": 1676094686,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 545286,
+        "num": 354328,
+        "word": "父亲满脸伤痕见到幸存儿子失声痛哭",
+        "onboard_time": 1676098046,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482136,
+        "num": 352161,
+        "word": "vox停播",
+        "onboard_time": 1676095286,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 477760,
+        "num": 350624,
+        "word": "女生应聘被告知接受潜规则有补贴",
+        "onboard_time": 1676089527,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475751,
+        "num": 349092,
+        "word": "北京动物园称正办理大熊猫丫丫回国手续",
+        "onboard_time": 1676098286,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347826,
+        "num": 347826,
+        "word": "种地吧",
+        "onboard_time": 1676097987,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335580,
+        "num": 335580,
+        "word": "广东地震后部分高铁火车已停运",
+        "onboard_time": 1676097865,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324264,
+        "num": 324264,
+        "word": "刘耀文淋水戏主动申请再演一条",
+        "onboard_time": 1676099366,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305305,
+        "num": 305305,
+        "word": "土耳其一居民楼设计师出逃时被捕",
+        "onboard_time": 1676098705,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283682,
+        "num": 283682,
+        "word": "黄景瑜工作室声明",
+        "onboard_time": 1676044889,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274796,
+        "num": 274796,
+        "word": "张艺凡给庄达菲拎起来了",
+        "onboard_time": 1676094028,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272163,
+        "num": 272163,
+        "word": "广西3岁男童手术后变成脑瘫",
+        "onboard_time": 1676091748,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266023,
+        "num": 266023,
+        "word": "张杰演唱会",
+        "onboard_time": 1676089587,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253139,
+        "num": 253139,
+        "word": "高叶分享陈书婷口红色号",
+        "onboard_time": 1676089648,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245242,
+        "num": 245242,
+        "word": "中年夫妻如何给婚姻保鲜",
+        "onboard_time": 1676095706,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239623,
+        "num": 239623,
+        "word": "中国首批缉毒松鼠即将上岗",
+        "onboard_time": 1676081967,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238652,
+        "num": 238652,
+        "word": "孙俪工作室账号评论区",
+        "onboard_time": 1676074884,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228401,
+        "num": 228401,
+        "word": "河源地震家长拎起孩子往外奔",
+        "onboard_time": 1676095347,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226053,
+        "num": 226053,
+        "word": "美影厂继中国奇谭后新片公布",
+        "onboard_time": 1676098826,
+        "rank": 30,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 201952,
+        "num": 201952,
+        "word": "Lisa今日活动生图",
+        "onboard_time": 1676088330,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186583,
+        "num": 186583,
+        "word": "一女排球队在土耳其境内遇难",
+        "onboard_time": 1676085870,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184270,
+        "num": 184270,
+        "word": "睡醒疲惫或是深度睡眠不足",
+        "onboard_time": 1676098167,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176469,
+        "num": 176469,
+        "word": "地震瞬间男子提起幼儿脚就往外跑",
+        "onboard_time": 1676099307,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173346,
+        "num": 173346,
+        "word": "王一博偷笑王传君被要求收腹花絮",
+        "onboard_time": 1676090967,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168589,
+        "num": 168589,
+        "word": "官方回应山东女足队员家遭强拆",
+        "onboard_time": 1676099064,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 167533,
+        "num": 167533,
+        "word": "河源近三个月已发生3次地震",
+        "onboard_time": 1676090188,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150246,
+        "num": 150246,
+        "word": "大奉打更人 王鹤棣田曦薇",
+        "onboard_time": 1676079267,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149537,
+        "num": 149537,
+        "word": "广东河源发生余震70次",
+        "onboard_time": 1676099307,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147871,
+        "num": 147871,
+        "word": "TES对战DYG",
+        "onboard_time": 1676098107,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147016,
+        "num": 147016,
+        "word": "鼠鼠被教育之后的样子",
+        "onboard_time": 1676088090,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 144397,
+        "num": 144397,
+        "word": "土耳其阿德亚曼1000多栋建筑倒塌",
+        "onboard_time": 1676095047,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143332,
+        "num": 143332,
+        "word": "广东河源市4.3级地震",
+        "onboard_time": 1676084128,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133991,
+        "num": 133991,
+        "word": "多地现捐精倡议原因何在",
+        "onboard_time": 1676077948,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127310,
+        "num": 127310,
+        "word": "中国搜救犬Lucky寻获1幸存者",
+        "onboard_time": 1676082567,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127245,
+        "num": 127245,
+        "word": "你好星期六今晚全员竞选金牌投资人",
+        "onboard_time": 1676086529,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124088,
+        "num": 124088,
+        "word": "警方通报原县委书记遭绑架案",
+        "onboard_time": 1676082926,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106059,
+        "num": 106059,
+        "word": "直击河源震后状况",
+        "onboard_time": 1676096845,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105873,
+        "num": 105873,
+        "word": "霍格沃茨之遗Steam在线近70万",
+        "onboard_time": 1676084971,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#实施乡村振兴战略的总目标是农业农村现代化#"
+    }
+  }
+}
