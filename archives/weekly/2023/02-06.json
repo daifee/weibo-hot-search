@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676104594640,
+  "endTime": 1676107032770,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 1888127,
-      "num": 452101,
+      "num": 495772,
       "word": "广州一女子当街被小男孩袭胸",
       "onboard_time": 1676098886,
       "rank": 11,
@@ -859,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1385881,
+      "num": 1385881,
+      "word": "蔡徐坤帮前队友收集打官司证据",
+      "onboard_time": 1676105126,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1375744,
       "num": 1375744,
       "word": "段奥娟瘦了好多",
@@ -923,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1334691,
+      "num": 1334691,
+      "word": "狂飙大结局以后最累的是高启兰",
+      "onboard_time": 1676101347,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1326408,
       "num": 1326408,
       "word": "一女排球队在土耳其境内遇难",
@@ -969,14 +985,6 @@
       "onboard_time": 1676098107,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1285518,
-      "num": 1285518,
-      "word": "狂飙大结局以后最累的是高启兰",
-      "onboard_time": 1676101347,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1282667,
@@ -1291,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1140249,
+      "num": 1140249,
+      "word": "泰国夜市偶遇鞠婧祎",
+      "onboard_time": 1676102066,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1138772,
       "num": 1138772,
       "word": "骑车拖行小猫致死当事人公开道歉",
@@ -1329,14 +1345,6 @@
       "onboard_time": 1675933351,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1119549,
-      "num": 1119549,
-      "word": "泰国夜市偶遇鞠婧祎",
-      "onboard_time": 1676102066,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1116581,
@@ -2715,6 +2723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 735961,
+      "num": 735961,
+      "word": "张颂文曾因捡垃圾被剧组丢下",
+      "onboard_time": 1676103627,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 735883,
       "num": 587027,
       "word": "朱珠在曼谷船上唱歌",
@@ -3731,6 +3747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 584367,
+      "num": 584367,
+      "word": "于正想拯救几个不红的艺人",
+      "onboard_time": 1676106147,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583967,
       "num": 583967,
       "word": "边伯贤说再也不会和粉丝分开了",
@@ -3929,14 +3953,6 @@
       "onboard_time": 1676031153,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 562129,
-      "num": 562129,
-      "word": "张颂文曾因捡垃圾被剧组丢下",
-      "onboard_time": 1676103627,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 561869,
@@ -4595,6 +4611,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 506431,
+      "num": 506431,
+      "word": "比尔盖茨称ChatGPT将改变世界",
+      "onboard_time": 1676103984,
+      "rank": 41,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 505445,
       "num": 505445,
       "word": "唐小强曾多次见义勇为",
@@ -5243,6 +5267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 438692,
+      "num": 438692,
+      "word": "地质专家谈遇上地震是命遭主持人怒斥",
+      "onboard_time": 1676102906,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438247,
       "num": 438247,
       "word": "杨幂丸子头烟熏妆造型",
@@ -5723,6 +5755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406593,
+      "num": 406593,
+      "word": "深海",
+      "onboard_time": 1676105906,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 406072,
       "num": 406072,
       "word": "童瑶山楂糖雪球抹胸长裙",
@@ -5979,14 +6019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 394639,
-      "num": 394639,
-      "word": "地质专家谈遇上地震是命遭主持人怒斥",
-      "onboard_time": 1676102906,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394268,
       "num": 394268,
       "word": "易烊千玺红毯视频",
@@ -6072,6 +6104,14 @@
       "word": "ChatGPT会不会使底层程序员失业",
       "onboard_time": 1675823428,
       "rank": 28,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 384832,
+      "num": 384832,
+      "word": "语言学家称ChatGPT本质是剽窃",
+      "onboard_time": 1676101947,
+      "rank": 31,
       "category": "科技"
     },
     {
@@ -6921,6 +6961,14 @@
       "onboard_time": 1675677269,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328915,
+      "num": 328915,
+      "word": "夫胜宽回应和NewJeans的误会",
+      "onboard_time": 1676104587,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 328187,
@@ -7947,6 +7995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285504,
+      "num": 285504,
+      "word": "这狗不仅有反骨还倔强",
+      "onboard_time": 1676104526,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 285345,
       "num": 285345,
       "word": "BLG对战WE",
@@ -8403,6 +8459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268331,
+      "num": 268331,
+      "word": "鹿晗五哈和大爷打乒乓球路透",
+      "onboard_time": 1676104348,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268254,
       "num": 268254,
       "word": "周深躲不过初一也躲不过十五",
@@ -8545,6 +8609,14 @@
       "onboard_time": 1675996351,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262665,
+      "num": 262665,
+      "word": "当狗子遇到警犬有多怂",
+      "onboard_time": 1676105246,
+      "rank": 23,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 262397,
@@ -9035,14 +9107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 242513,
-      "num": 242513,
-      "word": "夫胜宽回应和NewJeans的误会",
-      "onboard_time": 1676104587,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242201,
       "num": 242201,
       "word": "刘敏涛说的周正男孩原来是师铭泽",
@@ -9403,14 +9467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 229376,
-      "num": 229376,
-      "word": "语言学家称ChatGPT本质是剽窃",
-      "onboard_time": 1676101947,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
       "raw_hot": 229349,
       "num": 229349,
       "word": "中国救援队成功营救第1位幸存者",
@@ -9472,6 +9528,14 @@
       "word": "NCTDREAM日专预告视频",
       "onboard_time": 1675679008,
       "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 227153,
+      "num": 227153,
+      "word": "XG女团LeftRight初舞台",
+      "onboard_time": 1676106387,
+      "rank": 24,
       "category": "音乐"
     },
     {
@@ -9545,6 +9609,14 @@
       "onboard_time": 1675927651,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224293,
+      "num": 224293,
+      "word": "张若昀下眼皮也能动",
+      "onboard_time": 1676106687,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 224190,
@@ -9809,6 +9881,14 @@
       "onboard_time": 1675786525,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215392,
+      "num": 215392,
+      "word": "从济南超然楼下班是什么体验",
+      "onboard_time": 1676104886,
+      "rank": 28,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 215109,
@@ -10691,14 +10771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186983,
-      "num": 186983,
-      "word": "鹿晗五哈和大爷打乒乓球路透",
-      "onboard_time": 1676104348,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186837,
       "num": 186837,
       "word": "湖人掘金交易",
@@ -10785,6 +10857,14 @@
       "onboard_time": 1675846472,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184843,
+      "num": 184843,
+      "word": "女生20元买的二手书夹带400元",
+      "onboard_time": 1676104226,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184693,
@@ -10897,14 +10977,6 @@
       "onboard_time": 1675661189,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 182368,
-      "num": 182368,
-      "word": "女生20元买的二手书夹带400元",
-      "onboard_time": 1676104226,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182020,
@@ -12035,14 +12107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150178,
-      "num": 150178,
-      "word": "比尔盖茨称ChatGPT将改变世界",
-      "onboard_time": 1676103984,
-      "rank": 41,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 150097,
       "num": 150097,
       "word": "中国田径队首日斩获金银铜",
@@ -12169,6 +12233,14 @@
       "onboard_time": 1675771948,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146424,
+      "num": 146424,
+      "word": "滚烫人生全体哥哥发文告别",
+      "onboard_time": 1676105006,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 145767,
@@ -13281,6 +13353,14 @@
       "onboard_time": 1675882154,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 19820,
+      "num": 1156437,
+      "word": "同心奋进新征程",
+      "onboard_time": 1676105367,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17931,

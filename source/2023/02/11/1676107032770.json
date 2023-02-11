@@ -1,0 +1,410 @@
+{
+  "runTime": 1676107032770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1385881,
+        "num": 1385881,
+        "word": "蔡徐坤帮前队友收集打官司证据",
+        "onboard_time": 1676105126,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1334691,
+        "num": 1334691,
+        "word": "狂飙大结局以后最累的是高启兰",
+        "onboard_time": 1676101347,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19820,
+        "num": 1156437,
+        "word": "同心奋进新征程",
+        "onboard_time": 1676105367,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1152045,
+        "num": 1152045,
+        "word": "俄称准备好与乌克兰无条件谈判",
+        "onboard_time": 1676099906,
+        "rank": 3,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 1140249,
+        "num": 1140249,
+        "word": "泰国夜市偶遇鞠婧祎",
+        "onboard_time": 1676102066,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735961,
+        "num": 735961,
+        "word": "张颂文曾因捡垃圾被剧组丢下",
+        "onboard_time": 1676103627,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625844,
+        "num": 625844,
+        "word": "广东地震",
+        "onboard_time": 1676083827,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584367,
+        "num": 584367,
+        "word": "于正想拯救几个不红的艺人",
+        "onboard_time": 1676106147,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553627,
+        "num": 553627,
+        "word": "周也不会wink可以不wink",
+        "onboard_time": 1676098107,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506431,
+        "num": 506431,
+        "word": "比尔盖茨称ChatGPT将改变世界",
+        "onboard_time": 1676103984,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1421609,
+        "num": 495772,
+        "word": "广州一女子当街被小男孩袭胸",
+        "onboard_time": 1676098886,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639389,
+        "num": 489099,
+        "word": "专家提醒每人一生只能捐精一次",
+        "onboard_time": 1676090847,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466158,
+        "num": 466158,
+        "word": "喝太多碳酸饮料影响精子质量",
+        "onboard_time": 1676100566,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449688,
+        "num": 449688,
+        "word": "北京动物园称正办理大熊猫丫丫回国手续",
+        "onboard_time": 1676098286,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438692,
+        "num": 438692,
+        "word": "地质专家谈遇上地震是命遭主持人怒斥",
+        "onboard_time": 1676102906,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406593,
+        "num": 406593,
+        "word": "深海",
+        "onboard_time": 1676105906,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384832,
+        "num": 384832,
+        "word": "语言学家称ChatGPT本质是剽窃",
+        "onboard_time": 1676101947,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 328915,
+        "num": 328915,
+        "word": "夫胜宽回应和NewJeans的误会",
+        "onboard_time": 1676104587,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294424,
+        "num": 294424,
+        "word": "张颂文拍立得买主回应",
+        "onboard_time": 1676091627,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290064,
+        "num": 290064,
+        "word": "捐精是否存在近亲婚配可能",
+        "onboard_time": 1676102726,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285504,
+        "num": 285504,
+        "word": "这狗不仅有反骨还倔强",
+        "onboard_time": 1676104526,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268331,
+        "num": 268331,
+        "word": "鹿晗五哈和大爷打乒乓球路透",
+        "onboard_time": 1676104348,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267338,
+        "num": 267338,
+        "word": "父亲满脸伤痕见到幸存儿子失声痛哭",
+        "onboard_time": 1676098046,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262665,
+        "num": 262665,
+        "word": "当狗子遇到警犬有多怂",
+        "onboard_time": 1676105246,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 227153,
+        "num": 227153,
+        "word": "XG女团LeftRight初舞台",
+        "onboard_time": 1676106387,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225770,
+        "num": 225770,
+        "word": "志愿者精子合格率不到20%",
+        "onboard_time": 1676081725,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224293,
+        "num": 224293,
+        "word": "张若昀下眼皮也能动",
+        "onboard_time": 1676106687,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218102,
+        "num": 218102,
+        "word": "官方回应山东女足队员家遭强拆",
+        "onboard_time": 1676099064,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 215392,
+        "num": 215392,
+        "word": "从济南超然楼下班是什么体验",
+        "onboard_time": 1676104886,
+        "rank": 28,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 204471,
+        "num": 204471,
+        "word": "vox停播",
+        "onboard_time": 1676095286,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 203408,
+        "num": 203408,
+        "word": "宋亚轩我们的客栈毛毛外套造型",
+        "onboard_time": 1676102188,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188854,
+        "num": 188854,
+        "word": "女性友谊里的嫉妒瞬间",
+        "onboard_time": 1676094686,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186334,
+        "num": 186334,
+        "word": "广东河源发生余震70次",
+        "onboard_time": 1676099307,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184843,
+        "num": 184843,
+        "word": "女生20元买的二手书夹带400元",
+        "onboard_time": 1676104226,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182875,
+        "num": 182875,
+        "word": "土耳其一居民楼设计师出逃时被捕",
+        "onboard_time": 1676098705,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182038,
+        "num": 182038,
+        "word": "WayV见面会Candy舞台",
+        "onboard_time": 1676102906,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179896,
+        "num": 179896,
+        "word": "16名队员在土耳其遇难最小仅12岁",
+        "onboard_time": 1676100926,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177429,
+        "num": 177429,
+        "word": "专家组即将赴美调查大熊猫乐乐死因",
+        "onboard_time": 1676100265,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168918,
+        "num": 168918,
+        "word": "女生应聘被告知接受潜规则有补贴",
+        "onboard_time": 1676089527,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167900,
+        "num": 167900,
+        "word": "张杰演唱会",
+        "onboard_time": 1676089587,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154944,
+        "num": 154944,
+        "word": "敖瑞鹏怎么跑得乱七八糟的",
+        "onboard_time": 1676103444,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146424,
+        "num": 146424,
+        "word": "滚烫人生全体哥哥发文告别",
+        "onboard_time": 1676105006,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145957,
+        "num": 145957,
+        "word": "狂飙导演说张颂文让他很有安全感",
+        "onboard_time": 1676094745,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143775,
+        "num": 143775,
+        "word": "沛县城管被曝沿街挨家挨户撕春联",
+        "onboard_time": 1676095227,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140626,
+        "num": 140626,
+        "word": "程耳说王一博是语言天才",
+        "onboard_time": 1676101707,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140448,
+        "num": 140448,
+        "word": "Lisa今日活动生图",
+        "onboard_time": 1676088330,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136602,
+        "num": 136602,
+        "word": "广东地震后部分高铁火车已停运",
+        "onboard_time": 1676097865,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133010,
+        "num": 133010,
+        "word": "地震时8岁哥哥第一时间抱紧弟弟",
+        "onboard_time": 1676093727,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130726,
+        "num": 130726,
+        "word": "TES对战DYG",
+        "onboard_time": 1676098107,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126502,
+        "num": 126502,
+        "word": "王一博偷笑王传君被要求收腹花絮",
+        "onboard_time": 1676090967,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#实施乡村振兴战略的总目标是农业农村现代化#"
+    }
+  }
+}
