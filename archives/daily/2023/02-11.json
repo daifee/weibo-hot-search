@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676108023123,
+  "endTime": 1676110713894,
   "band_list": [
     {
       "raw_hot": 8361811,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1888127,
-      "num": 495772,
+      "num": 557122,
       "word": "广州一女子当街被小男孩袭胸",
       "onboard_time": 1676098886,
       "rank": 11,
@@ -73,6 +73,14 @@
       "onboard_time": 1676041532,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1721122,
+      "num": 812056,
+      "word": "于正说肖战还不火啥叫火",
+      "onboard_time": 1676108486,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1705200,
@@ -201,6 +209,14 @@
       "onboard_time": 1676045487,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 912369,
+      "num": 912369,
+      "word": "赵丽颖早期穆念慈定妆照",
+      "onboard_time": 1676108247,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 909695,
@@ -347,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 653899,
+      "num": 653899,
+      "word": "女子路边买鹅蛋煮后蛋清是粉色",
+      "onboard_time": 1676108127,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649852,
       "num": 649852,
       "word": "高叶分享陈书婷口红色号",
@@ -441,6 +465,14 @@
       "onboard_time": 1676096006,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 573453,
+      "num": 573453,
+      "word": "100岁丈夫牵手101岁妻子回忆爱情",
+      "onboard_time": 1676107466,
+      "rank": 41,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 560608,
@@ -555,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498640,
+      "num": 498640,
+      "word": "郑永刚病逝",
+      "onboard_time": 1676109865,
+      "rank": 13,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 494285,
       "num": 494285,
       "word": "金智秀晒合照为朴彩英庆生",
@@ -649,6 +689,14 @@
       "onboard_time": 1676044108,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406013,
+      "num": 406013,
+      "word": "女子小巷停车一口气撞了10辆",
+      "onboard_time": 1676107646,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 400859,
@@ -875,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306213,
+      "num": 306213,
+      "word": "ChatGPT被曝曾雇佣数据标注血汗工厂",
+      "onboard_time": 1676108547,
+      "rank": 20,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 301456,
       "num": 301456,
       "word": "宁波地铁每晚8点后免费",
@@ -897,6 +953,14 @@
       "onboard_time": 1676045548,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288477,
+      "num": 288477,
+      "word": "黄绮珊让粉丝接唱离不开你",
+      "onboard_time": 1676109265,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 286489,
@@ -1003,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263044,
+      "num": 263044,
+      "word": "这就是21级的孙尚香",
+      "onboard_time": 1676107346,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262665,
       "num": 262665,
       "word": "当狗子遇到警犬有多怂",
@@ -1033,14 +1105,6 @@
       "onboard_time": 1676028272,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 249611,
-      "num": 249611,
-      "word": "这就是21级的孙尚香",
-      "onboard_time": 1676107346,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 242846,
@@ -1243,6 +1307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198723,
+      "num": 198723,
+      "word": "女子被困废墟25h用卫生纸吸雨水喝",
+      "onboard_time": 1676108846,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198560,
       "num": 188917,
       "word": "付心童确诊躁郁症提出离婚",
@@ -1289,6 +1361,14 @@
       "onboard_time": 1676086829,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189851,
+      "num": 189851,
+      "word": "iG对战FPX",
+      "onboard_time": 1676109806,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 189319,
@@ -1443,6 +1523,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167528,
+      "num": 167528,
+      "word": "闵玧其说爱豆应该对粉丝好的原因",
+      "onboard_time": 1676109446,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166836,
+      "num": 166836,
+      "word": "DYG滔搏首场打满",
+      "onboard_time": 1676110106,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166015,
       "num": 166015,
       "word": "直击河源震后状况",
@@ -1467,20 +1563,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155433,
-      "num": 155433,
-      "word": "100岁丈夫牵手101岁妻子回忆爱情",
-      "onboard_time": 1676107466,
-      "rank": 41,
-      "category": "社会新闻,情感"
+      "raw_hot": 159204,
+      "num": 159204,
+      "word": "杨洋白西装拍摄路透视频",
+      "onboard_time": 1676108547,
+      "rank": 39,
+      "category": "艺人"
     },
     {
-      "raw_hot": 153635,
-      "num": 153635,
-      "word": "女子小巷停车一口气撞了10辆",
-      "onboard_time": 1676107646,
-      "rank": 43,
-      "category": "社会负面"
+      "raw_hot": 154528,
+      "num": 154528,
+      "word": "龚俊女友视角视频",
+      "onboard_time": 1676109687,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 153044,
@@ -1545,6 +1641,14 @@
       "onboard_time": 1676076445,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 149344,
+      "num": 149344,
+      "word": "男子欲买小雏菊送女友不料买成白菊",
+      "onboard_time": 1676110406,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148522,
@@ -1707,7 +1811,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20716,
+      "raw_hot": 26416,
       "num": 1156437,
       "word": "同心奋进新征程",
       "onboard_time": 1676105367,
