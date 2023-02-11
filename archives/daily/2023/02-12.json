@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676157491347,
+  "endTime": 1676158431940,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -131,6 +131,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 362106,
+      "num": 362106,
+      "word": "土耳其华人被埋25小时后获救",
+      "onboard_time": 1676152572,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354028,
       "num": 354028,
       "word": "狂飙严正声明",
@@ -147,11 +155,11 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 293836,
-      "num": 117626,
-      "word": "土耳其华人被埋25小时后获救",
-      "onboard_time": 1676152572,
-      "rank": 30,
+      "raw_hot": 302507,
+      "num": 302507,
+      "word": "价值3万包裹丢失快递公司仅赔600",
+      "onboard_time": 1676155514,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -235,20 +243,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228576,
+      "num": 163227,
+      "word": "高启强的B计划",
+      "onboard_time": 1676152932,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222347,
-      "num": 177754,
+      "num": 218522,
       "word": "土耳其地震后一猫一狗紧紧相依",
       "onboard_time": 1676137278,
       "rank": 10,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 213454,
-      "num": 114785,
-      "word": "价值3万包裹丢失快递公司仅赔600",
-      "onboard_time": 1676155514,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211614,
@@ -267,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203853,
+      "num": 163168,
+      "word": "95后女孩学习14年传承非遗通草花",
+      "onboard_time": 1676154312,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198704,
       "num": 198704,
       "word": "宋昕冉生日公演",
@@ -283,12 +299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191828,
+      "num": 163160,
+      "word": "土耳其地震为啥这么严重",
+      "onboard_time": 1676140995,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190911,
       "num": 190911,
       "word": "中国造照明无人机点亮地震救援现场",
       "onboard_time": 1676124510,
       "rank": 30,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 187013,
+      "num": 156463,
+      "word": "货车侧翻7吨臭豆腐横撒高速",
+      "onboard_time": 1676157436,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185900,
@@ -355,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152441,
-      "num": 112345,
-      "word": "土耳其地震为啥这么严重",
-      "onboard_time": 1676140995,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152140,
       "num": 152140,
       "word": "男子驱车看苗寨小姐姐发现全是阿姨",
@@ -377,14 +401,6 @@
       "onboard_time": 1676131649,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 148873,
-      "num": 111117,
-      "word": "95后女孩学习14年传承非遗通草花",
-      "onboard_time": 1676154312,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145736,
@@ -409,14 +425,6 @@
       "onboard_time": 1676113045,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 133790,
-      "num": 108745,
-      "word": "高启强的B计划",
-      "onboard_time": 1676152932,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 130135,
@@ -475,8 +483,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86934,
-      "num": 86934,
+      "raw_hot": 95055,
+      "num": 95055,
       "word": "惠英红眼中的赵樱子",
       "onboard_time": 1676156534,
       "rank": 20,
@@ -491,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 80462,
+      "num": 80462,
+      "word": "从群演到演技被观众看到有多难",
+      "onboard_time": 1676157257,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80355,
       "num": 80355,
       "word": "这题岳云鹏不会",
@@ -499,8 +515,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71584,
-      "num": 70785,
+      "raw_hot": 77493,
+      "num": 77493,
       "word": "柳州妇联回应男子当街踢踹女性",
       "onboard_time": 1676148371,
       "rank": 10,
@@ -523,12 +539,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61080,
+      "num": 61080,
+      "word": "皇家马德里5比3利雅得新月",
+      "onboard_time": 1676158338,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55585,
       "num": 55585,
       "word": "新手爸妈为哄孩子做过哪些离谱事",
       "onboard_time": 1676156534,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55261,
+      "num": 55261,
+      "word": "郑钦文止步四强",
+      "onboard_time": 1676157738,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50447,
+      "num": 50447,
+      "word": "这里就是我的家乡京海市",
+      "onboard_time": 1676120129,
+      "rank": 42,
+      "category": "影视,旅游"
     },
     {
       "raw_hot": 50400,
@@ -544,22 +584,6 @@
       "word": "2023春耕进行时",
       "onboard_time": 1676125775,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33092,
-      "num": 33092,
-      "word": "从群演到演技被观众看到有多难",
-      "onboard_time": 1676157257,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 30881,
-      "num": 30881,
-      "word": "货车侧翻7吨臭豆腐横撒高速",
-      "onboard_time": 1676157436,
-      "rank": 49,
       "category": "社会新闻"
     }
   ],
