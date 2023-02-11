@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676133690869,
+  "endTime": 1676135740517,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1034276,
+      "num": 1034276,
+      "word": "可能被ChatGPT取代的10大职业",
+      "onboard_time": 1676131768,
+      "rank": 19,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 988918,
       "num": 988918,
       "word": "李一桐郭晓婷当群演一天赚了288",
       "onboard_time": 1676127571,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 717538,
-      "num": 717538,
-      "word": "可能被ChatGPT取代的10大职业",
-      "onboard_time": 1676131768,
-      "rank": 19,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 708058,
@@ -89,6 +89,14 @@
       "onboard_time": 1676129014,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438943,
+      "num": 438943,
+      "word": "水牛记手机壳",
+      "onboard_time": 1676132487,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 412453,
@@ -171,14 +179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 262409,
-      "num": 262409,
-      "word": "水牛记手机壳",
-      "onboard_time": 1676132487,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 261782,
       "num": 261782,
       "word": "IVE新歌NotYourGirl",
@@ -193,6 +193,14 @@
       "onboard_time": 1676129493,
       "rank": 23,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 240061,
+      "num": 240061,
+      "word": "白鹿以爱为营染发下班路透",
+      "onboard_time": 1676132786,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 237527,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211614,
+      "num": 211614,
+      "word": "这狗狗怎么全程黑脸",
+      "onboard_time": 1676132427,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209080,
       "num": 209080,
       "word": "张元英翻跳PinkVenom视频",
@@ -233,14 +249,6 @@
       "onboard_time": 1676129014,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198138,
-      "num": 198138,
-      "word": "这狗狗怎么全程黑脸",
-      "onboard_time": 1676132427,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 193673,
@@ -289,14 +297,6 @@
       "onboard_time": 1676130393,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168500,
-      "num": 168500,
-      "word": "白鹿以爱为营染发下班路透",
-      "onboard_time": 1676132786,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 167228,
@@ -411,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100762,
+      "num": 100762,
+      "word": "男子驱车看苗寨小姐姐发现全是阿姨",
+      "onboard_time": 1676134883,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85810,
       "num": 85810,
       "word": "JDG对战WBG",
       "onboard_time": 1676116709,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 61498,
+      "num": 61498,
+      "word": "猫咪出门土拨鼠上演难舍难别",
+      "onboard_time": 1676135482,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 33215,

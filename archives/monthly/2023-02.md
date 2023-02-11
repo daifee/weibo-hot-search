@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/01 00:26:13 ~ 2023/02/12 00:41:30
+本榜单时间：2023/02/01 00:26:13 ~ 2023/02/12 01:15:40
 </p>
 </blockquote>
 <p>
@@ -2325,6 +2325,12 @@ WBG战胜JDG（热度：1080390）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%AF%E8%83%BD%E8%A2%ABChatGPT%E5%8F%96%E4%BB%A3%E7%9A%8410%E5%A4%A7%E8%81%8C%E4%B8%9A%23" target="weibo">
+可能被ChatGPT取代的10大职业（热度：1034276）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%91%AB%E5%AE%87%E6%9C%89%E6%98%8E%E7%A1%AE%E5%8E%8C%E4%B8%96%E8%A1%A8%E7%8E%B0%E8%BD%BB%E7%94%9F%E5%80%BE%E5%90%91%23" target="weibo">
 胡鑫宇有明确厌世表现轻生倾向（热度：1033175）
 </a>
@@ -4223,12 +4229,6 @@ SMTOWN新女团将第二季度出道（热度：796817）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E8%AF%B4%E9%99%88%E6%99%93%E6%98%AF%E6%AF%94%E8%BE%83%E4%BE%9D%E8%B5%96%E7%9A%84%E4%BA%BA%23" target="weibo">
 陈妍希说陈晓是比较依赖的人（热度：718218）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%AF%E8%83%BD%E8%A2%ABChatGPT%E5%8F%96%E4%BB%A3%E7%9A%8410%E5%A4%A7%E8%81%8C%E4%B8%9A%23" target="weibo">
-可能被ChatGPT取代的10大职业（热度：717538）
 </a>
 </li>
 
