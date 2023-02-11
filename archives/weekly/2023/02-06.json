@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676111657667,
+  "endTime": 1676114075363,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 1943493,
-      "num": 1009571,
+      "num": 1030954,
       "word": "于正说肖战还不火啥叫火",
       "onboard_time": 1676108486,
       "rank": 3,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 1888127,
-      "num": 605696,
+      "num": 621783,
       "word": "广州一女子当街被小男孩袭胸",
       "onboard_time": 1676098886,
       "rank": 11,
@@ -745,6 +745,14 @@
       "onboard_time": 1675861410,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1507676,
+      "num": 1507676,
+      "word": "郑永刚病逝",
+      "onboard_time": 1676109865,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1498356,
@@ -1451,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1088475,
-      "num": 1088475,
-      "word": "郑永刚病逝",
-      "onboard_time": 1676109865,
-      "rank": 13,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 1087364,
       "num": 1087364,
       "word": "杨迪为唐小强祈祷",
@@ -1473,6 +1473,14 @@
       "onboard_time": 1675649006,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1078753,
+      "num": 1078753,
+      "word": "男子欲买小雏菊送女友不料买成白菊",
+      "onboard_time": 1676110406,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1077212,
@@ -1883,6 +1891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 935186,
+      "num": 935186,
+      "word": "RNG官宣教练Heart离队",
+      "onboard_time": 1676113045,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 934155,
       "num": 934155,
       "word": "中方就美方袭击中国飞艇提严正交涉",
@@ -2113,6 +2129,14 @@
       "onboard_time": 1675914448,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 872949,
+      "num": 872949,
+      "word": "刘大锤说张译是很纯粹的演员",
+      "onboard_time": 1676111850,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 872046,
@@ -2649,6 +2673,14 @@
       "onboard_time": 1675744655,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 760833,
+      "num": 760833,
+      "word": "刘耀文第一个抱到宋亚轩",
+      "onboard_time": 1676112147,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 759556,
@@ -4947,6 +4979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477370,
+      "num": 477370,
+      "word": "ChatGPT被曝曾雇佣数据标注血汗工厂",
+      "onboard_time": 1676108547,
+      "rank": 20,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 476515,
       "num": 476515,
       "word": "成都街头现飞鸟撞树现象",
@@ -5707,14 +5747,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 414842,
-      "num": 414842,
-      "word": "男子欲买小雏菊送女友不料买成白菊",
-      "onboard_time": 1676110406,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 412910,
       "num": 412910,
       "word": "Crisp和LWX碰拳",
@@ -6473,14 +6505,6 @@
       "onboard_time": 1676015252,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 365810,
-      "num": 365810,
-      "word": "ChatGPT被曝曾雇佣数据标注血汗工厂",
-      "onboard_time": 1676108547,
-      "rank": 20,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 363500,
@@ -7587,6 +7611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303912,
+      "num": 303912,
+      "word": "宋亚轩比八自拍小卡",
+      "onboard_time": 1676113888,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303367,
       "num": 303367,
       "word": "成毅奶黄色毛衣上班路透",
@@ -7665,6 +7697,14 @@
       "onboard_time": 1676037991,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300636,
+      "num": 300636,
+      "word": "黄子韬新剧开机照",
+      "onboard_time": 1676113348,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 300498,
@@ -9067,6 +9107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 246909,
+      "num": 246909,
+      "word": "高启强同款书籍有多火",
+      "onboard_time": 1676110766,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246119,
       "num": 246119,
       "word": "这趟火车是自习室主题的",
@@ -9443,6 +9491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233566,
+      "num": 233566,
+      "word": "时代少年团实体专辑小卡游戏",
+      "onboard_time": 1676112748,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 233222,
       "num": 233222,
       "word": "肖战吃的是儿童元宵",
@@ -9489,6 +9545,14 @@
       "onboard_time": 1675649188,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231526,
+      "num": 231526,
+      "word": "KPL",
+      "onboard_time": 1676113348,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 231510,
@@ -9969,6 +10033,14 @@
       "onboard_time": 1675786525,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215936,
+      "num": 215936,
+      "word": "入职1小时被HR告知招错人补偿50元",
+      "onboard_time": 1676113765,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215392,
@@ -10603,6 +10675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195480,
+      "num": 195480,
+      "word": "折腰刘宇宁背宋祖儿氛围感路透",
+      "onboard_time": 1676111607,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195029,
       "num": 195029,
       "word": "阿布扎比赛郑钦文晋级四强",
@@ -11091,14 +11171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182287,
-      "num": 182287,
-      "word": "高启强同款书籍有多火",
-      "onboard_time": 1676110766,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182020,
       "num": 182020,
       "word": "时代少年团爆炸头错位图",
@@ -11513,6 +11585,14 @@
       "onboard_time": 1675764693,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171198,
+      "num": 171198,
+      "word": "TES战胜DYG",
+      "onboard_time": 1676113650,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 171147,
@@ -12592,14 +12672,6 @@
       "word": "朱一龙消失的她定妆视频",
       "onboard_time": 1675662687,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 134262,
-      "num": 134262,
-      "word": "折腰刘宇宁背宋祖儿氛围感路透",
-      "onboard_time": 1676111607,
-      "rank": 46,
       "category": "影视"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676111657667,
+  "endTime": 1676114075363,
   "band_list": [
     {
       "raw_hot": 8361811,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1943493,
-      "num": 1009571,
+      "num": 1030954,
       "word": "于正说肖战还不火啥叫火",
       "onboard_time": 1676108486,
       "rank": 3,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1888127,
-      "num": 605696,
+      "num": 621783,
       "word": "广州一女子当街被小男孩袭胸",
       "onboard_time": 1676098886,
       "rank": 11,
@@ -97,6 +97,14 @@
       "onboard_time": 1676090847,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1507676,
+      "num": 1507676,
+      "word": "郑永刚病逝",
+      "onboard_time": 1676109865,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1374126,
@@ -163,12 +171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1088475,
-      "num": 1088475,
-      "word": "郑永刚病逝",
-      "onboard_time": 1676109865,
-      "rank": 13,
-      "category": "社会新闻,财经"
+      "raw_hot": 1078753,
+      "num": 1078753,
+      "word": "男子欲买小雏菊送女友不料买成白菊",
+      "onboard_time": 1676110406,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1069189,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 935186,
+      "num": 935186,
+      "word": "RNG官宣教练Heart离队",
+      "onboard_time": 1676113045,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 933992,
       "num": 933992,
       "word": "SMTOWN曾反对加入中国成员",
@@ -241,6 +257,14 @@
       "onboard_time": 1676077948,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 872949,
+      "num": 872949,
+      "word": "刘大锤说张译是很纯粹的演员",
+      "onboard_time": 1676111850,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 800209,
@@ -280,6 +304,14 @@
       "word": "易烊千玺被冻得双手握拳",
       "onboard_time": 1676037810,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 760833,
+      "num": 760833,
+      "word": "刘耀文第一个抱到宋亚轩",
+      "onboard_time": 1676112147,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -627,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477370,
+      "num": 477370,
+      "word": "ChatGPT被曝曾雇佣数据标注血汗工厂",
+      "onboard_time": 1676108547,
+      "rank": 20,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 442112,
       "num": 442112,
       "word": "这就是21级的孙尚香",
@@ -697,14 +737,6 @@
       "onboard_time": 1676044108,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 414842,
-      "num": 414842,
-      "word": "男子欲买小雏菊送女友不料买成白菊",
-      "onboard_time": 1676110406,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 410231,
@@ -809,14 +841,6 @@
       "onboard_time": 1676102188,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 365810,
-      "num": 365810,
-      "word": "ChatGPT被曝曾雇佣数据标注血汗工厂",
-      "onboard_time": 1676108547,
-      "rank": 20,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 361511,
@@ -955,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303912,
+      "num": 303912,
+      "word": "宋亚轩比八自拍小卡",
+      "onboard_time": 1676113888,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301456,
       "num": 301456,
       "word": "宁波地铁每晚8点后免费",
@@ -969,6 +1001,14 @@
       "onboard_time": 1676083591,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300636,
+      "num": 300636,
+      "word": "黄子韬新剧开机照",
+      "onboard_time": 1676113348,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 288541,
@@ -1123,6 +1163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 246909,
+      "num": 246909,
+      "word": "高启强同款书籍有多火",
+      "onboard_time": 1676110766,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242846,
       "num": 242846,
       "word": "程耳说王一博是语言天才",
@@ -1187,12 +1235,28 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 233566,
+      "num": 233566,
+      "word": "时代少年团实体专辑小卡游戏",
+      "onboard_time": 1676112748,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231968,
       "num": 231968,
       "word": "王俊凯小鬼唱的花好月圆夜",
       "onboard_time": 1676038774,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 231526,
+      "num": 231526,
+      "word": "KPL",
+      "onboard_time": 1676113348,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 227153,
@@ -1249,6 +1313,14 @@
       "onboard_time": 1676071819,
       "rank": 40,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 215936,
+      "num": 215936,
+      "word": "入职1小时被HR告知招错人补偿50元",
+      "onboard_time": 1676113765,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215392,
@@ -1353,6 +1425,14 @@
       "onboard_time": 1676084971,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195480,
+      "num": 195480,
+      "word": "折腰刘宇宁背宋祖儿氛围感路透",
+      "onboard_time": 1676111607,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 192865,
@@ -1475,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182287,
-      "num": 182287,
-      "word": "高启强同款书籍有多火",
-      "onboard_time": 1676110766,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179504,
       "num": 179504,
       "word": "ChatGPT同名山寨币暴涨18倍",
@@ -1545,6 +1617,14 @@
       "onboard_time": 1676042070,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171198,
+      "num": 171198,
+      "word": "TES战胜DYG",
+      "onboard_time": 1676113650,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 168699,
@@ -1705,14 +1785,6 @@
       "onboard_time": 1676081066,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134262,
-      "num": 134262,
-      "word": "折腰刘宇宁背宋祖儿氛围感路透",
-      "onboard_time": 1676111607,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 132626,

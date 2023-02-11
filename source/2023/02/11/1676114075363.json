@@ -1,0 +1,410 @@
+{
+  "runTime": 1676114075363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1507676,
+        "num": 1507676,
+        "word": "郑永刚病逝",
+        "onboard_time": 1676109865,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1078753,
+        "num": 1078753,
+        "word": "男子欲买小雏菊送女友不料买成白菊",
+        "onboard_time": 1676110406,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18790,
+        "num": 1031299,
+        "word": "同心奋进新征程",
+        "onboard_time": 1676105367,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1819575,
+        "num": 1030954,
+        "word": "于正说肖战还不火啥叫火",
+        "onboard_time": 1676108486,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1029205,
+        "num": 1029205,
+        "word": "赵丽颖早期穆念慈定妆照",
+        "onboard_time": 1676108247,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 935186,
+        "num": 935186,
+        "word": "RNG官宣教练Heart离队",
+        "onboard_time": 1676113045,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 872949,
+        "num": 872949,
+        "word": "刘大锤说张译是很纯粹的演员",
+        "onboard_time": 1676111850,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 792413,
+        "num": 792413,
+        "word": "狂飙大结局以后最累的是高启兰",
+        "onboard_time": 1676101347,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 760833,
+        "num": 760833,
+        "word": "刘耀文第一个抱到宋亚轩",
+        "onboard_time": 1676112147,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650569,
+        "num": 650569,
+        "word": "泰国夜市偶遇鞠婧祎",
+        "onboard_time": 1676102066,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1172470,
+        "num": 621783,
+        "word": "广州一女子当街被小男孩袭胸",
+        "onboard_time": 1676098886,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510851,
+        "num": 510851,
+        "word": "女子路边买鹅蛋煮后蛋清是粉色",
+        "onboard_time": 1676108127,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477370,
+        "num": 477370,
+        "word": "ChatGPT被曝曾雇佣数据标注血汗工厂",
+        "onboard_time": 1676108547,
+        "rank": 12,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 470852,
+        "num": 470852,
+        "word": "100岁丈夫牵手101岁妻子回忆爱情",
+        "onboard_time": 1676107466,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 453763,
+        "num": 453763,
+        "word": "俄称准备好与乌克兰无条件谈判",
+        "onboard_time": 1676099906,
+        "rank": 14,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 402594,
+        "num": 402594,
+        "word": "蔡徐坤帮前队友收集打官司证据",
+        "onboard_time": 1676105126,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 399667,
+        "num": 399667,
+        "word": "专家提醒每人一生只能捐精一次",
+        "onboard_time": 1676090847,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373824,
+        "num": 373824,
+        "word": "张颂文曾因捡垃圾被剧组丢下",
+        "onboard_time": 1676103627,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339219,
+        "num": 339219,
+        "word": "这就是21级的孙尚香",
+        "onboard_time": 1676107346,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 334159,
+        "num": 334159,
+        "word": "周也不会wink可以不wink",
+        "onboard_time": 1676098107,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303912,
+        "num": 303912,
+        "word": "宋亚轩比八自拍小卡",
+        "onboard_time": 1676113888,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300636,
+        "num": 300636,
+        "word": "黄子韬新剧开机照",
+        "onboard_time": 1676113348,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296231,
+        "num": 296231,
+        "word": "于正想拯救几个不红的艺人",
+        "onboard_time": 1676106147,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285434,
+        "num": 285434,
+        "word": "女子小巷停车一口气撞了10辆",
+        "onboard_time": 1676107646,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 246909,
+        "num": 246909,
+        "word": "高启强同款书籍有多火",
+        "onboard_time": 1676110766,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242535,
+        "num": 242535,
+        "word": "广东地震",
+        "onboard_time": 1676083827,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236706,
+        "num": 236706,
+        "word": "比尔盖茨称ChatGPT将改变世界",
+        "onboard_time": 1676103984,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 233566,
+        "num": 233566,
+        "word": "时代少年团实体专辑小卡游戏",
+        "onboard_time": 1676112748,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233056,
+        "num": 233056,
+        "word": "北京动物园称正办理大熊猫丫丫回国手续",
+        "onboard_time": 1676098286,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231526,
+        "num": 231526,
+        "word": "KPL",
+        "onboard_time": 1676113348,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215936,
+        "num": 215936,
+        "word": "入职1小时被HR告知招错人补偿50元",
+        "onboard_time": 1676113765,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215068,
+        "num": 215068,
+        "word": "16名队员在土耳其遇难最小仅12岁",
+        "onboard_time": 1676100926,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211257,
+        "num": 211257,
+        "word": "捐精是否存在近亲婚配可能",
+        "onboard_time": 1676102726,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207406,
+        "num": 207406,
+        "word": "黄绮珊让粉丝接唱离不开你",
+        "onboard_time": 1676109265,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200792,
+        "num": 200792,
+        "word": "深海",
+        "onboard_time": 1676105906,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195480,
+        "num": 195480,
+        "word": "折腰刘宇宁背宋祖儿氛围感路透",
+        "onboard_time": 1676111607,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193631,
+        "num": 193631,
+        "word": "龚俊钟楚曦我要逆风去最新剧照",
+        "onboard_time": 1676111366,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188076,
+        "num": 188076,
+        "word": "喝太多碳酸饮料影响精子质量",
+        "onboard_time": 1676100566,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185524,
+        "num": 185524,
+        "word": "夫胜宽回应和NewJeans的误会",
+        "onboard_time": 1676104587,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182053,
+        "num": 182053,
+        "word": "广东河源发生余震70次",
+        "onboard_time": 1676099307,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173230,
+        "num": 173230,
+        "word": "土耳其一居民楼设计师出逃时被捕",
+        "onboard_time": 1676098705,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171198,
+        "num": 171198,
+        "word": "TES战胜DYG",
+        "onboard_time": 1676113650,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156549,
+        "num": 156549,
+        "word": "父亲满脸伤痕见到幸存儿子失声痛哭",
+        "onboard_time": 1676098046,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145165,
+        "num": 145165,
+        "word": "当狗子遇到警犬有多怂",
+        "onboard_time": 1676105246,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 144659,
+        "num": 144659,
+        "word": "张颂文拍立得买主回应",
+        "onboard_time": 1676091627,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144015,
+        "num": 144015,
+        "word": "女子被困废墟25h用卫生纸吸雨水喝",
+        "onboard_time": 1676108846,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141603,
+        "num": 141603,
+        "word": "语言学家称ChatGPT本质是剽窃",
+        "onboard_time": 1676101947,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 140664,
+        "num": 140664,
+        "word": "龚俊女友视角视频",
+        "onboard_time": 1676109687,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139155,
+        "num": 139155,
+        "word": "vox停播",
+        "onboard_time": 1676095286,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138849,
+        "num": 138849,
+        "word": "地质专家谈遇上地震是命遭主持人怒斥",
+        "onboard_time": 1676102906,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见柬埔寨首相洪森#"
+    }
+  }
+}
