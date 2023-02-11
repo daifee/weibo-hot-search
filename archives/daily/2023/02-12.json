@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676154814746,
+  "endTime": 1676157491347,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -147,6 +147,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 293836,
+      "num": 117626,
+      "word": "土耳其华人被埋25小时后获救",
+      "onboard_time": 1676152572,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292024,
       "num": 292024,
       "word": "宋江翻跳SEVENTEEN的HOT",
@@ -233,6 +241,14 @@
       "onboard_time": 1676137278,
       "rank": 10,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 213454,
+      "num": 114785,
+      "word": "价值3万包裹丢失快递公司仅赔600",
+      "onboard_time": 1676155514,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211614,
@@ -339,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152441,
+      "num": 112345,
+      "word": "土耳其地震为啥这么严重",
+      "onboard_time": 1676140995,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152140,
       "num": 152140,
       "word": "男子驱车看苗寨小姐姐发现全是阿姨",
@@ -353,6 +377,14 @@
       "onboard_time": 1676131649,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148873,
+      "num": 111117,
+      "word": "95后女孩学习14年传承非遗通草花",
+      "onboard_time": 1676154312,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145736,
@@ -379,20 +411,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133790,
+      "num": 108745,
+      "word": "高启强的B计划",
+      "onboard_time": 1676152932,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130135,
       "num": 130135,
       "word": "上市公司回应董事长月薪两万招保镖",
       "onboard_time": 1676116469,
       "rank": 41,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 121275,
-      "num": 58963,
-      "word": "土耳其华人被埋25小时后获救",
-      "onboard_time": 1676152572,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116814,
@@ -443,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86934,
+      "num": 86934,
+      "word": "惠英红眼中的赵樱子",
+      "onboard_time": 1676156534,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85810,
       "num": 85810,
       "word": "JDG对战WBG",
@@ -459,16 +499,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78687,
-      "num": 58351,
-      "word": "土耳其地震为啥这么严重",
-      "onboard_time": 1676140995,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71584,
-      "num": 58321,
+      "num": 70785,
       "word": "柳州妇联回应男子当街踢踹女性",
       "onboard_time": 1676148371,
       "rank": 10,
@@ -491,12 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44921,
-      "num": 33957,
-      "word": "高启强的B计划",
-      "onboard_time": 1676152932,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 55585,
+      "num": 55585,
+      "word": "新手爸妈为哄孩子做过哪些离谱事",
+      "onboard_time": 1676156534,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 50400,
+      "num": 50400,
+      "word": "虞书欣条纹毛衣半身裙造型",
+      "onboard_time": 1676156595,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 33215,
@@ -507,11 +547,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23395,
-      "num": 23395,
-      "word": "95后女孩学习14年传承非遗通草花",
-      "onboard_time": 1676154312,
-      "rank": 40,
+      "raw_hot": 33092,
+      "num": 33092,
+      "word": "从群演到演技被观众看到有多难",
+      "onboard_time": 1676157257,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 30881,
+      "num": 30881,
+      "word": "货车侧翻7吨臭豆腐横撒高速",
+      "onboard_time": 1676157436,
+      "rank": 49,
       "category": "社会新闻"
     }
   ],
