@@ -1,0 +1,410 @@
+{
+  "runTime": 1676083938304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2361181,
+        "num": 2361181,
+        "word": "广东地震",
+        "onboard_time": 1676083827,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2049585,
+        "num": 2049585,
+        "word": "志愿者精子合格率不到20%",
+        "onboard_time": 1676081725,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53712,
+        "num": 1328372,
+        "word": "穿越机视角看中国大桥多震撼",
+        "onboard_time": 1676037210,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1264748,
+        "num": 1264748,
+        "word": "孙俪工作室账号评论区",
+        "onboard_time": 1676074884,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 982872,
+        "num": 982872,
+        "word": "大奉打更人 王鹤棣田曦薇",
+        "onboard_time": 1676079267,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 974446,
+        "num": 974446,
+        "word": "黄景瑜工作室声明",
+        "onboard_time": 1676044889,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 925514,
+        "num": 925514,
+        "word": "中国首批缉毒松鼠即将上岗",
+        "onboard_time": 1676081967,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784320,
+        "num": 784320,
+        "word": "多地现捐精倡议原因何在",
+        "onboard_time": 1676077948,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649551,
+        "num": 649551,
+        "word": "叙利亚奇迹宝宝将被叔祖父接走",
+        "onboard_time": 1676079084,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607155,
+        "num": 607155,
+        "word": "张艺兴街边跳krump视频",
+        "onboard_time": 1676082865,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 560618,
+        "num": 560618,
+        "word": "陕西人类精子库呼吁大学生捐精",
+        "onboard_time": 1676082266,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517280,
+        "num": 517280,
+        "word": "中国搜救犬Lucky寻获1幸存者",
+        "onboard_time": 1676082567,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480808,
+        "num": 480808,
+        "word": "石家庄的公交卡是牛肉板面",
+        "onboard_time": 1676077046,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 446983,
+        "num": 446983,
+        "word": "金智秀晒合照为朴彩英庆生",
+        "onboard_time": 1676077886,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427466,
+        "num": 427466,
+        "word": "开学前一夜才是真正的万家灯火",
+        "onboard_time": 1676074402,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386676,
+        "num": 386676,
+        "word": "杨紫199爱蓝色格子大衣路透",
+        "onboard_time": 1676081246,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386140,
+        "num": 386140,
+        "word": "2只火凤凰为了求偶上演风骚走位",
+        "onboard_time": 1676057594,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372293,
+        "num": 372293,
+        "word": "京海F4合体拍杂志",
+        "onboard_time": 1676083165,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369116,
+        "num": 369116,
+        "word": "小佩顿体检失败",
+        "onboard_time": 1676078488,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355835,
+        "num": 355835,
+        "word": "王者新打野英雄姬小满",
+        "onboard_time": 1676078966,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 333004,
+        "num": 333004,
+        "word": "土耳其大妈将救援女队员手放怀里取暖",
+        "onboard_time": 1676079686,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331323,
+        "num": 331323,
+        "word": "丁义珍式窗口为何屡禁不止",
+        "onboard_time": 1676075604,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316555,
+        "num": 316555,
+        "word": "警方通报原县委书记遭绑架案",
+        "onboard_time": 1676082926,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295769,
+        "num": 295769,
+        "word": "可以不穿但是不能没有",
+        "onboard_time": 1676056034,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294142,
+        "num": 294142,
+        "word": "警方通报男子称我爹是市公安局的",
+        "onboard_time": 1676079446,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293794,
+        "num": 293794,
+        "word": "鹿晗和粉丝握手",
+        "onboard_time": 1676077527,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278293,
+        "num": 278293,
+        "word": "老人去世给老伴留满屋摆放整齐柴火",
+        "onboard_time": 1676071036,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262397,
+        "num": 262397,
+        "word": "大马丁回应世界杯争议动作",
+        "onboard_time": 1676081484,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257697,
+        "num": 257697,
+        "word": "李秀满想完成NCT和aespa项目",
+        "onboard_time": 1676074223,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251958,
+        "num": 251958,
+        "word": "加了少女滤镜的王阳",
+        "onboard_time": 1676081547,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246120,
+        "num": 246120,
+        "word": "张颂文面对粉丝接机不断说感谢",
+        "onboard_time": 1676071938,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229634,
+        "num": 229634,
+        "word": "SMTOWN曾反对加入中国成员",
+        "onboard_time": 1676045487,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222372,
+        "num": 222372,
+        "word": "费启鸣新剧角色人设",
+        "onboard_time": 1676080047,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198052,
+        "num": 198052,
+        "word": "狂飙金句第一人",
+        "onboard_time": 1676042671,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194714,
+        "num": 194714,
+        "word": "yoyo颢鑫官宣",
+        "onboard_time": 1676041532,
+        "rank": 34,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 193407,
+        "num": 193407,
+        "word": "路人美国偶遇刘亦菲",
+        "onboard_time": 1676042432,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190599,
+        "num": 190599,
+        "word": "浙江一写字楼顶似怨气冲天",
+        "onboard_time": 1676050039,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 186885,
+        "num": 186885,
+        "word": "有什么是你结婚后才明白的",
+        "onboard_time": 1676045847,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183495,
+        "num": 183495,
+        "word": "强震已致土叙两国超2.3万人遇难",
+        "onboard_time": 1676073861,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182423,
+        "num": 182423,
+        "word": "官方呼吁尚未启程救援队取消行动",
+        "onboard_time": 1676078187,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178901,
+        "num": 178901,
+        "word": "郑州某医院再现半蹲式窗口",
+        "onboard_time": 1676044947,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174588,
+        "num": 174588,
+        "word": "国家首批功勋犬全员简历",
+        "onboard_time": 1676082688,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172433,
+        "num": 172433,
+        "word": "羡慕宋祖儿的发量",
+        "onboard_time": 1676076147,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165722,
+        "num": 165722,
+        "word": "同型号同路线车辆高速费用差44元",
+        "onboard_time": 1676079627,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161707,
+        "num": 161707,
+        "word": "霍格沃茨之遗",
+        "onboard_time": 1676083591,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147519,
+        "num": 147519,
+        "word": "永远不知道女生照片P了什么",
+        "onboard_time": 1676067013,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142806,
+        "num": 142806,
+        "word": "FIFA年度最佳球员三人候选",
+        "onboard_time": 1676079147,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140647,
+        "num": 140647,
+        "word": "刘亦菲代言",
+        "onboard_time": 1676046326,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 131286,
+        "num": 131286,
+        "word": "15只警犬获评国家首批功勋犬",
+        "onboard_time": 1676083765,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125196,
+        "num": 125196,
+        "word": "蓝天救援队凌晨返回驻地上车秒睡",
+        "onboard_time": 1676079749,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年看中国县域新发展#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676083346103,
+  "endTime": 1676083938304,
   "band_list": [
     {
       "raw_hot": 3687086,
@@ -11,6 +11,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2361181,
+      "num": 2361181,
+      "word": "广东地震",
+      "onboard_time": 1676083827,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2184702,
       "num": 2184702,
       "word": "孙俪工作室账号评论区",
@@ -19,20 +27,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2049585,
+      "num": 2049585,
+      "word": "志愿者精子合格率不到20%",
+      "onboard_time": 1676081725,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1733002,
       "num": 1733002,
       "word": "yoyo颢鑫官宣",
       "onboard_time": 1676041532,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1681115,
-      "num": 1681115,
-      "word": "志愿者精子合格率不到20%",
-      "onboard_time": 1676081725,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1100800,
@@ -73,6 +81,14 @@
       "onboard_time": 1676045487,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 925514,
+      "num": 925514,
+      "word": "中国首批缉毒松鼠即将上岗",
+      "onboard_time": 1676081967,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 909695,
@@ -155,14 +171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 672069,
-      "num": 489877,
-      "word": "中国首批缉毒松鼠即将上岗",
-      "onboard_time": 1676081967,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 662845,
       "num": 662845,
       "word": "狂飙金句第一人",
@@ -179,12 +187,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 576628,
-      "num": 576628,
+      "raw_hot": 607155,
+      "num": 607155,
       "word": "张艺兴街边跳krump视频",
       "onboard_time": 1676082865,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 560618,
+      "num": 560618,
+      "word": "陕西人类精子库呼吁大学生捐精",
+      "onboard_time": 1676082266,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 542406,
@@ -207,6 +223,14 @@
       "num": 291691,
       "word": "山东省人类精子库招募捐精志愿者",
       "onboard_time": 1676036009,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517280,
+      "num": 517280,
+      "word": "中国搜救犬Lucky寻获1幸存者",
+      "onboard_time": 1676082567,
       "rank": 21,
       "category": "社会新闻"
     },
@@ -331,12 +355,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 381802,
-      "num": 381802,
-      "word": "陕西人类精子库呼吁大学生捐精",
-      "onboard_time": 1676082266,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 372293,
+      "num": 372293,
+      "word": "京海F4合体拍杂志",
+      "onboard_time": 1676083165,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 370785,
@@ -411,20 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310520,
-      "num": 310520,
-      "word": "中国搜救犬Lucky寻获1幸存者",
-      "onboard_time": 1676082567,
-      "rank": 21,
+      "raw_hot": 316555,
+      "num": 316555,
+      "word": "警方通报原县委书记遭绑架案",
+      "onboard_time": 1676082926,
+      "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303809,
-      "num": 303809,
-      "word": "京海F4合体拍杂志",
-      "onboard_time": 1676083165,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 301456,
@@ -483,8 +499,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255916,
-      "num": 255916,
+      "raw_hot": 262397,
+      "num": 262397,
       "word": "大马丁回应世界杯争议动作",
       "onboard_time": 1676081484,
       "rank": 26,
@@ -537,14 +553,6 @@
       "onboard_time": 1676023353,
       "rank": 31,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 222751,
-      "num": 222751,
-      "word": "警方通报原县委书记遭绑架案",
-      "onboard_time": 1676082926,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222679,
@@ -731,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161707,
+      "num": 161707,
+      "word": "霍格沃茨之遗",
+      "onboard_time": 1676083591,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152742,
       "num": 150796,
       "word": "最强大脑这期又燃又好哭",
@@ -768,6 +784,14 @@
       "word": "救援队探测到90岁老人生命迹象",
       "onboard_time": 1676081066,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131286,
+      "num": 131286,
+      "word": "15只警犬获评国家首批功勋犬",
+      "onboard_time": 1676083765,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -820,7 +844,7 @@
     },
     {
       "raw_hot": 81687,
-      "num": 1260221,
+      "num": 1328372,
       "word": "穿越机视角看中国大桥多震撼",
       "onboard_time": 1676037210,
       "rank": 2,
