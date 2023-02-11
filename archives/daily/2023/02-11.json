@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676110713894,
+  "endTime": 1676111657667,
   "band_list": [
     {
       "raw_hot": 8361811,
@@ -51,8 +51,16 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1943493,
+      "num": 1009571,
+      "word": "于正说肖战还不火啥叫火",
+      "onboard_time": 1676108486,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1888127,
-      "num": 557122,
+      "num": 605696,
       "word": "广州一女子当街被小男孩袭胸",
       "onboard_time": 1676098886,
       "rank": 11,
@@ -73,14 +81,6 @@
       "onboard_time": 1676041532,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1721122,
-      "num": 812056,
-      "word": "于正说肖战还不火啥叫火",
-      "onboard_time": 1676108486,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1705200,
@@ -163,6 +163,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1088475,
+      "num": 1088475,
+      "word": "郑永刚病逝",
+      "onboard_time": 1676109865,
+      "rank": 13,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1069189,
+      "num": 1069189,
+      "word": "赵丽颖早期穆念慈定妆照",
+      "onboard_time": 1676108247,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1036663,
       "num": 1036663,
       "word": "郑州某医院再现半蹲式窗口",
@@ -211,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 912369,
-      "num": 912369,
-      "word": "赵丽颖早期穆念慈定妆照",
-      "onboard_time": 1676108247,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 909695,
       "num": 909695,
       "word": "开学前一夜才是真正的万家灯火",
@@ -240,6 +248,14 @@
       "word": "丁义珍式窗口为何屡禁不止",
       "onboard_time": 1676075604,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 777269,
+      "num": 777269,
+      "word": "女子路边买鹅蛋煮后蛋清是粉色",
+      "onboard_time": 1676108127,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -355,20 +371,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 668518,
+      "num": 668518,
+      "word": "100岁丈夫牵手101岁妻子回忆爱情",
+      "onboard_time": 1676107466,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 662845,
       "num": 662845,
       "word": "狂飙金句第一人",
       "onboard_time": 1676042671,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 653899,
-      "num": 653899,
-      "word": "女子路边买鹅蛋煮后蛋清是粉色",
-      "onboard_time": 1676108127,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 649852,
@@ -465,14 +481,6 @@
       "onboard_time": 1676096006,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 573453,
-      "num": 573453,
-      "word": "100岁丈夫牵手101岁妻子回忆爱情",
-      "onboard_time": 1676107466,
-      "rank": 41,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 560608,
@@ -587,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 498640,
-      "num": 498640,
-      "word": "郑永刚病逝",
-      "onboard_time": 1676109865,
-      "rank": 13,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 494285,
       "num": 494285,
       "word": "金智秀晒合照为朴彩英庆生",
@@ -625,6 +625,14 @@
       "onboard_time": 1676045429,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442112,
+      "num": 442112,
+      "word": "这就是21级的孙尚香",
+      "onboard_time": 1676107346,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 438692,
@@ -691,8 +699,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 406013,
-      "num": 406013,
+      "raw_hot": 414842,
+      "num": 414842,
+      "word": "男子欲买小雏菊送女友不料买成白菊",
+      "onboard_time": 1676110406,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410231,
+      "num": 410231,
       "word": "女子小巷停车一口气撞了10辆",
       "onboard_time": 1676107646,
       "rank": 43,
@@ -795,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365810,
+      "num": 365810,
+      "word": "ChatGPT被曝曾雇佣数据标注血汗工厂",
+      "onboard_time": 1676108547,
+      "rank": 20,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 361511,
       "num": 361511,
       "word": "强震已致土叙两国超2.3万人遇难",
@@ -891,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324912,
+      "num": 324912,
+      "word": "龚俊钟楚曦我要逆风去最新剧照",
+      "onboard_time": 1676111366,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 324264,
       "num": 324264,
       "word": "刘耀文淋水戏主动申请再演一条",
@@ -921,14 +953,6 @@
       "onboard_time": 1676078187,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306213,
-      "num": 306213,
-      "word": "ChatGPT被曝曾雇佣数据标注血汗工厂",
-      "onboard_time": 1676108547,
-      "rank": 20,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 301456,
@@ -1065,14 +1089,6 @@
       "onboard_time": 1676043211,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263044,
-      "num": 263044,
-      "word": "这就是21级的孙尚香",
-      "onboard_time": 1676107346,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 262665,
@@ -1387,6 +1403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187601,
+      "num": 187601,
+      "word": "龚俊女友视角视频",
+      "onboard_time": 1676109687,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185572,
       "num": 185572,
       "word": "广东居民讲述地震时惊险经历",
@@ -1451,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182287,
+      "num": 182287,
+      "word": "高启强同款书籍有多火",
+      "onboard_time": 1676110766,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179504,
       "num": 179504,
       "word": "ChatGPT同名山寨币暴涨18倍",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1676099307,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175751,
+      "num": 175751,
+      "word": "张若昀王阳新剧水中戏花絮",
+      "onboard_time": 1676111247,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 172371,
@@ -1571,20 +1611,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154528,
-      "num": 154528,
-      "word": "龚俊女友视角视频",
-      "onboard_time": 1676109687,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153044,
       "num": 153044,
       "word": "丁真纪录片先导片首发",
       "onboard_time": 1676095467,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152913,
+      "num": 152913,
+      "word": "TES对战DYG",
+      "onboard_time": 1676098107,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 152766,
@@ -1643,28 +1683,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 149344,
-      "num": 149344,
-      "word": "男子欲买小雏菊送女友不料买成白菊",
-      "onboard_time": 1676110406,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148522,
       "num": 148522,
       "word": "警方辟谣书记被绑架付千万赎金",
       "onboard_time": 1676084728,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147871,
-      "num": 147871,
-      "word": "TES对战DYG",
-      "onboard_time": 1676098107,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 146424,
@@ -1681,6 +1705,14 @@
       "onboard_time": 1676081066,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134262,
+      "num": 134262,
+      "word": "折腰刘宇宁背宋祖儿氛围感路透",
+      "onboard_time": 1676111607,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 132626,
