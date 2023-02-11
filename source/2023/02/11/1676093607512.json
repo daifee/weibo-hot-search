@@ -1,0 +1,410 @@
+{
+  "runTime": 1676093607512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1899993,
+        "num": 1899993,
+        "word": "广东地震",
+        "onboard_time": 1676083827,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1467634,
+        "num": 1467634,
+        "word": "专家提醒每人一生只能捐精一次",
+        "onboard_time": 1676090847,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61944,
+        "num": 1335142,
+        "word": "用汗水播下丰收的种子",
+        "onboard_time": 1676091087,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1259501,
+        "num": 1259501,
+        "word": "张颂文拍立得买主回应",
+        "onboard_time": 1676091627,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649852,
+        "num": 649852,
+        "word": "高叶分享陈书婷口红色号",
+        "onboard_time": 1676089648,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 634373,
+        "num": 634373,
+        "word": "一女排球队在土耳其境内遇难",
+        "onboard_time": 1676085870,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595081,
+        "num": 595081,
+        "word": "黄景瑜工作室声明",
+        "onboard_time": 1676044889,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593707,
+        "num": 593707,
+        "word": "河源近三个月已发生3次地震",
+        "onboard_time": 1676090188,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536484,
+        "num": 536484,
+        "word": "孙俪工作室账号评论区",
+        "onboard_time": 1676074884,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535146,
+        "num": 535146,
+        "word": "广西3岁男童手术后变成脑瘫",
+        "onboard_time": 1676091748,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1374126,
+        "num": 533171,
+        "word": "女生应聘被告知接受潜规则有补贴",
+        "onboard_time": 1676089527,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117636,
+        "num": 532646,
+        "word": "志愿者精子合格率不到20%",
+        "onboard_time": 1676081725,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531160,
+        "num": 531160,
+        "word": "中国首批缉毒松鼠即将上岗",
+        "onboard_time": 1676081967,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478064,
+        "num": 478064,
+        "word": "王一博偷笑王传君被要求收腹花絮",
+        "onboard_time": 1676090967,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438110,
+        "num": 438110,
+        "word": "鼠鼠被教育之后的样子",
+        "onboard_time": 1676088090,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 436911,
+        "num": 436911,
+        "word": "张杰演唱会",
+        "onboard_time": 1676089587,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 409080,
+        "num": 409080,
+        "word": "你好星期六今晚全员竞选金牌投资人",
+        "onboard_time": 1676086529,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389603,
+        "num": 389603,
+        "word": "大奉打更人 王鹤棣田曦薇",
+        "onboard_time": 1676079267,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375142,
+        "num": 375142,
+        "word": "Lisa今日活动生图",
+        "onboard_time": 1676088330,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347107,
+        "num": 347107,
+        "word": "多地现捐精倡议原因何在",
+        "onboard_time": 1676077948,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324100,
+        "num": 324100,
+        "word": "何洁说不可以浪费在别人的情绪上",
+        "onboard_time": 1676089768,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295128,
+        "num": 295128,
+        "word": "梁朝伟说王一博很用功很用心",
+        "onboard_time": 1676088268,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293434,
+        "num": 293434,
+        "word": "黄明昊镜头下的蔡文静",
+        "onboard_time": 1676090847,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245512,
+        "num": 245512,
+        "word": "中国搜救犬Lucky寻获1幸存者",
+        "onboard_time": 1676082567,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241571,
+        "num": 241571,
+        "word": "警方通报原县委书记遭绑架案",
+        "onboard_time": 1676082926,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235401,
+        "num": 235401,
+        "word": "陕西人类精子库呼吁大学生捐精",
+        "onboard_time": 1676082266,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227069,
+        "num": 227069,
+        "word": "厦航A321neo",
+        "onboard_time": 1676092288,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 209240,
+        "num": 209240,
+        "word": "叙利亚奇迹宝宝将被叔祖父接走",
+        "onboard_time": 1676079084,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203108,
+        "num": 203108,
+        "word": "巴特勒空接绝杀火箭",
+        "onboard_time": 1676089890,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174712,
+        "num": 174712,
+        "word": "鹿晗和粉丝握手",
+        "onboard_time": 1676077527,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172148,
+        "num": 172148,
+        "word": "童瑶张新成微暗之火封面预告",
+        "onboard_time": 1676091388,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171073,
+        "num": 171073,
+        "word": "岳云鹏这次追不上的是沈腾",
+        "onboard_time": 1676087850,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168740,
+        "num": 168740,
+        "word": "石家庄的公交卡是牛肉板面",
+        "onboard_time": 1676077046,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164535,
+        "num": 164535,
+        "word": "宋祖儿折腰坐船路透",
+        "onboard_time": 1676089289,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163374,
+        "num": 163374,
+        "word": "开学前一夜才是真正的万家灯火",
+        "onboard_time": 1676074402,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161817,
+        "num": 161817,
+        "word": "霍格沃茨之遗",
+        "onboard_time": 1676083591,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157016,
+        "num": 157016,
+        "word": "地震被困女子恳求救援队先救她的孩子",
+        "onboard_time": 1676085451,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151983,
+        "num": 151983,
+        "word": "霍格沃茨之遗Steam在线近70万",
+        "onboard_time": 1676084971,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150097,
+        "num": 150097,
+        "word": "中国田径队首日斩获金银铜",
+        "onboard_time": 1676092949,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142689,
+        "num": 142689,
+        "word": "金智秀晒合照为朴彩英庆生",
+        "onboard_time": 1676077886,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142271,
+        "num": 142271,
+        "word": "姚晨还原喜剧之王名场面",
+        "onboard_time": 1676092288,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133266,
+        "num": 133266,
+        "word": "yoyo颢鑫官宣",
+        "onboard_time": 1676041532,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 132177,
+        "num": 132177,
+        "word": "虞书欣云之羽白色棉服路透",
+        "onboard_time": 1676086829,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125608,
+        "num": 125608,
+        "word": "广东河源市4.3级地震",
+        "onboard_time": 1676084128,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125081,
+        "num": 125081,
+        "word": "梅里雪山日照金山有多震撼",
+        "onboard_time": 1676091449,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 123482,
+        "num": 123482,
+        "word": "今年五一档新片你最期待哪部",
+        "onboard_time": 1676088508,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123435,
+        "num": 123435,
+        "word": "京海F4合体拍杂志",
+        "onboard_time": 1676083165,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121993,
+        "num": 121993,
+        "word": "杨紫199爱蓝色格子大衣路透",
+        "onboard_time": 1676081246,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120218,
+        "num": 120218,
+        "word": "李秀满想完成NCT和aespa项目",
+        "onboard_time": 1676074223,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110953,
+        "num": 110953,
+        "word": "SMTOWN曾反对加入中国成员",
+        "onboard_time": 1676045487,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#实施乡村振兴战略的总目标是农业农村现代化#"
+    }
+  }
+}
