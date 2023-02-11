@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676126016973,
+  "endTime": 1676128679737,
   "band_list": [
     {
       "raw_hot": 8361811,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4089729,
+      "num": 4089729,
+      "word": "狂飙钟阿四真的不是演的",
+      "onboard_time": 1676121930,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3687086,
       "num": 3687086,
       "word": "黄景瑜工作室声明",
       "onboard_time": 1676044889,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3496565,
-      "num": 3496565,
-      "word": "狂飙钟阿四真的不是演的",
-      "onboard_time": 1676121930,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 2888631,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1927547,
+      "num": 1927547,
+      "word": "人鱼",
+      "onboard_time": 1676125952,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1888127,
       "num": 621783,
       "word": "广州一女子当街被小男孩袭胸",
@@ -136,6 +144,14 @@
       "word": "专家提醒每人一生只能捐精一次",
       "onboard_time": 1676090847,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1573794,
+      "num": 1573794,
+      "word": "杭州一套凶宅起拍单价2万你敢买吗",
+      "onboard_time": 1676126071,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -363,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 857135,
+      "num": 857135,
+      "word": "含笑",
+      "onboard_time": 1676126610,
+      "rank": 6,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 813505,
       "num": 813505,
       "word": "网友深圳街头偶遇李宏毅",
@@ -465,6 +489,14 @@
       "onboard_time": 1676095227,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703929,
+      "num": 703929,
+      "word": "你只管踩油门剩下的交给我们",
+      "onboard_time": 1676124091,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 697583,
@@ -579,20 +611,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634522,
+      "num": 634522,
+      "word": "7旬老人输液瓶内现絮状物后抢救",
+      "onboard_time": 1676126851,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628472,
       "num": 628472,
       "word": "张颂文 为什么会这样",
       "onboard_time": 1676022810,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 617034,
-      "num": 617034,
-      "word": "你只管踩油门剩下的交给我们",
-      "onboard_time": 1676124091,
-      "rank": 23,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 612205,
@@ -617,6 +649,14 @@
       "onboard_time": 1676082865,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 601112,
+      "num": 601112,
+      "word": "李一桐郭晓婷当群演一天赚了288",
+      "onboard_time": 1676127571,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 594768,
@@ -705,6 +745,14 @@
       "onboard_time": 1676090967,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 543508,
+      "num": 543508,
+      "word": "AG对战RW",
+      "onboard_time": 1676124151,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 542406,
@@ -848,14 +896,6 @@
       "word": "这就是21级的孙尚香",
       "onboard_time": 1676107346,
       "rank": 22,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 439576,
-      "num": 439576,
-      "word": "AG对战RW",
-      "onboard_time": 1676124151,
-      "rank": 33,
       "category": "游戏"
     },
     {
@@ -1099,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353636,
+      "num": 353636,
+      "word": "李一桐临场发挥哭戏",
+      "onboard_time": 1676125833,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347200,
       "num": 347200,
       "word": "刘耀文想看尔冬升跳舞",
@@ -1219,20 +1267,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316205,
+      "num": 316205,
+      "word": "中国造照明无人机点亮地震救援现场",
+      "onboard_time": 1676124510,
+      "rank": 37,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 313408,
       "num": 313408,
       "word": "Knight吃披萨",
       "onboard_time": 1676121150,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 312661,
-      "num": 312661,
-      "word": "中国造照明无人机点亮地震救援现场",
-      "onboard_time": 1676124510,
-      "rank": 37,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 303912,
@@ -1339,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278373,
+      "num": 278373,
+      "word": "管泽元的嘴",
+      "onboard_time": 1676126253,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278234,
       "num": 278234,
       "word": "加了少女滤镜的王阳",
@@ -1361,6 +1417,14 @@
       "onboard_time": 1676094028,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273360,
+      "num": 273360,
+      "word": "小虎辛德拉",
+      "onboard_time": 1676127273,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 272585,
@@ -1433,6 +1497,14 @@
       "onboard_time": 1676081484,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261405,
+      "num": 261405,
+      "word": "你好星期六",
+      "onboard_time": 1676126132,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 257471,
@@ -1545,14 +1617,6 @@
       "onboard_time": 1676112748,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 232405,
-      "num": 232405,
-      "word": "人鱼",
-      "onboard_time": 1676125952,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 231968,
@@ -1755,6 +1819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199923,
+      "num": 199923,
+      "word": "无畏说everyone刻在脑子里了",
+      "onboard_time": 1676128054,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198723,
       "num": 198723,
       "word": "女子被困废墟25h用卫生纸吸雨水喝",
@@ -1809,6 +1881,14 @@
       "onboard_time": 1676118447,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192024,
+      "num": 192024,
+      "word": "无畏的散装英语",
+      "onboard_time": 1676127149,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 191408,
@@ -1875,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186068,
+      "num": 186068,
+      "word": "龚俊檀健次的伞",
+      "onboard_time": 1676128113,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185572,
       "num": 185572,
       "word": "广东居民讲述地震时惊险经历",
@@ -1937,14 +2025,6 @@
       "onboard_time": 1676082147,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180914,
-      "num": 180914,
-      "word": "李一桐临场发挥哭戏",
-      "onboard_time": 1676125833,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 179747,
@@ -2211,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144854,
+      "num": 144854,
+      "word": "西汉姆联1比1切尔西",
+      "onboard_time": 1676127390,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143380,
       "num": 143380,
       "word": "爱忘事可能是熬夜和无效加班害的",
@@ -2273,6 +2361,14 @@
       "onboard_time": 1676103387,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122672,
+      "num": 122672,
+      "word": "三亚旅游发现拔白发服务一小时50元",
+      "onboard_time": 1676128653,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 121630,
@@ -2355,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54960,
+      "num": 1955592,
+      "word": "2023春耕进行时",
+      "onboard_time": 1676125775,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46464,
       "num": 46464,
       "word": "吴京要为消防员补上没看完的电影",
@@ -2383,14 +2487,6 @@
       "num": 1679867,
       "word": "同心奋进新征程",
       "onboard_time": 1676105367,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12617,
-      "num": 1955592,
-      "word": "2023春耕进行时",
-      "onboard_time": 1676125775,
       "rank": 2,
       "category": "社会新闻"
     }
