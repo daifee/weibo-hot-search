@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676153830212,
+  "endTime": 1676154814746,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -387,6 +387,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 121275,
+      "num": 58963,
+      "word": "土耳其华人被埋25小时后获救",
+      "onboard_time": 1676152572,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116814,
       "num": 116814,
       "word": "流浪地球",
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 78687,
-      "num": 51352,
+      "num": 58351,
       "word": "土耳其地震为啥这么严重",
       "onboard_time": 1676140995,
       "rank": 30,
@@ -460,19 +468,11 @@
     },
     {
       "raw_hot": 71584,
-      "num": 52411,
+      "num": 58321,
       "word": "柳州妇联回应男子当街踢踹女性",
       "onboard_time": 1676148371,
       "rank": 10,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 68293,
-      "num": 26120,
-      "word": "土耳其华人被埋25小时后获救",
-      "onboard_time": 1676152572,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67643,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44921,
+      "num": 33957,
+      "word": "高启强的B计划",
+      "onboard_time": 1676152932,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 33215,
       "num": 1225149,
       "word": "2023春耕进行时",
@@ -499,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25423,
-      "num": 25423,
-      "word": "高启强的B计划",
-      "onboard_time": 1676152932,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 23395,
+      "num": 23395,
+      "word": "95后女孩学习14年传承非遗通草花",
+      "onboard_time": 1676154312,
+      "rank": 40,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
