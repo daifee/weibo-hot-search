@@ -1,0 +1,410 @@
+{
+  "runTime": 1676119868431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2356965,
+        "num": 2356965,
+        "word": "入职1小时被HR告知招错人补偿50元",
+        "onboard_time": 1676113765,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1564451,
+        "num": 1564451,
+        "word": "上海巨型玫瑰",
+        "onboard_time": 1676117608,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23003,
+        "num": 1028694,
+        "word": "同心奋进新征程",
+        "onboard_time": 1676105367,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026957,
+        "num": 1026957,
+        "word": "武汉地铁3外籍男子横卧整排座位",
+        "onboard_time": 1676114969,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999608,
+        "num": 999608,
+        "word": "于正说肖战还不火啥叫火",
+        "onboard_time": 1676108486,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658997,
+        "num": 658997,
+        "word": "19岁男孩常忘事患上阿尔茨海默病",
+        "onboard_time": 1676117306,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610285,
+        "num": 610285,
+        "word": "上市公司回应董事长月薪两万招保镖",
+        "onboard_time": 1676116469,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 609607,
+        "num": 609607,
+        "word": "刘大锤说张译是很纯粹的演员",
+        "onboard_time": 1676111850,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 578875,
+        "num": 578875,
+        "word": "狂飙大结局以后最累的是高启兰",
+        "onboard_time": 1676101347,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 533776,
+        "num": 533776,
+        "word": "赵丽颖早期穆念慈定妆照",
+        "onboard_time": 1676108247,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 528921,
+        "num": 528921,
+        "word": "岳阳失踪男童遗体被发现",
+        "onboard_time": 1676119048,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462692,
+        "num": 462692,
+        "word": "男子欲买小雏菊送女友不料买成白菊",
+        "onboard_time": 1676110406,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424810,
+        "num": 424810,
+        "word": "张杰未live演唱会南京站附近酒店已订满",
+        "onboard_time": 1676117365,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 398142,
+        "num": 398142,
+        "word": "泰国夜市偶遇鞠婧祎",
+        "onboard_time": 1676102066,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365861,
+        "num": 365861,
+        "word": "喻言签售会单独给粉丝唱后来",
+        "onboard_time": 1676118808,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353111,
+        "num": 353111,
+        "word": "IVE新专收录曲BlueBlood",
+        "onboard_time": 1676116048,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348817,
+        "num": 348817,
+        "word": "RNG官宣教练Heart离队",
+        "onboard_time": 1676113045,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 337298,
+        "num": 337298,
+        "word": "张颂文曾因捡垃圾被剧组丢下",
+        "onboard_time": 1676103627,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304882,
+        "num": 304882,
+        "word": "JDG对战WBG",
+        "onboard_time": 1676116709,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296634,
+        "num": 296634,
+        "word": "郑永刚病逝",
+        "onboard_time": 1676109865,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 288966,
+        "num": 288966,
+        "word": "邢菲问王勉怎么不关注她",
+        "onboard_time": 1676116586,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260098,
+        "num": 260098,
+        "word": "刘耀文第一个抱到宋亚轩",
+        "onboard_time": 1676112147,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253079,
+        "num": 253079,
+        "word": "俄称准备好与乌克兰无条件谈判",
+        "onboard_time": 1676099906,
+        "rank": 22,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 238489,
+        "num": 238489,
+        "word": "男子用60斤黄河泥1比130还原超然楼",
+        "onboard_time": 1676116347,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224511,
+        "num": 224511,
+        "word": "深海",
+        "onboard_time": 1676105906,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222323,
+        "num": 222323,
+        "word": "秦岚打卡澳门的历史城区",
+        "onboard_time": 1676116648,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221896,
+        "num": 221896,
+        "word": "蔡徐坤帮前队友收集打官司证据",
+        "onboard_time": 1676105126,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 217411,
+        "num": 217411,
+        "word": "女子路边买鹅蛋煮后蛋清是粉色",
+        "onboard_time": 1676108127,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212599,
+        "num": 212599,
+        "word": "周也不会wink可以不wink",
+        "onboard_time": 1676098107,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209635,
+        "num": 209635,
+        "word": "于正想拯救几个不红的艺人",
+        "onboard_time": 1676106147,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193110,
+        "num": 193110,
+        "word": "Hero对战KSG",
+        "onboard_time": 1676115029,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192165,
+        "num": 192165,
+        "word": "流浪地球2门框机器人招贴画",
+        "onboard_time": 1676118447,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189858,
+        "num": 189858,
+        "word": "喝太多碳酸饮料影响精子质量",
+        "onboard_time": 1676100566,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188677,
+        "num": 188677,
+        "word": "100岁丈夫牵手101岁妻子回忆爱情",
+        "onboard_time": 1676107466,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 184098,
+        "num": 184098,
+        "word": "高启强同款书籍有多火",
+        "onboard_time": 1676110766,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174644,
+        "num": 174644,
+        "word": "女子小巷停车一口气撞了10辆",
+        "onboard_time": 1676107646,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 173092,
+        "num": 173092,
+        "word": "ChatGPT被曝曾雇佣数据标注血汗工厂",
+        "onboard_time": 1676108547,
+        "rank": 36,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 168808,
+        "num": 168808,
+        "word": "宋亚轩拿手机当放大镜",
+        "onboard_time": 1676115327,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161878,
+        "num": 161878,
+        "word": "16名队员在土耳其遇难最小仅12岁",
+        "onboard_time": 1676100926,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161091,
+        "num": 161091,
+        "word": "这就是21级的孙尚香",
+        "onboard_time": 1676107346,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155331,
+        "num": 155331,
+        "word": "黄冠亨听到粉丝用粤语喊他的反应",
+        "onboard_time": 1676115687,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143380,
+        "num": 143380,
+        "word": "爱忘事可能是熬夜和无效加班害的",
+        "onboard_time": 1676118868,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141567,
+        "num": 141567,
+        "word": "捐精是否存在近亲婚配可能",
+        "onboard_time": 1676102726,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140370,
+        "num": 140370,
+        "word": "极限挑战宝藏行",
+        "onboard_time": 1676118748,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139757,
+        "num": 139757,
+        "word": "旱地游泳动作可强健腰椎",
+        "onboard_time": 1676119407,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129775,
+        "num": 129775,
+        "word": "北京动物园称正办理大熊猫丫丫回国手续",
+        "onboard_time": 1676098286,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124917,
+        "num": 124917,
+        "word": "地质专家谈遇上地震是命遭主持人怒斥",
+        "onboard_time": 1676102906,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124033,
+        "num": 124033,
+        "word": "比尔盖茨称ChatGPT将改变世界",
+        "onboard_time": 1676103984,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 120045,
+        "num": 120045,
+        "word": "广东河源发生余震70次",
+        "onboard_time": 1676099307,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118168,
+        "num": 118168,
+        "word": "西汉姆联vs切尔西",
+        "onboard_time": 1676119708,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进中国式现代化是一个系统工程#"
+    }
+  }
+}
