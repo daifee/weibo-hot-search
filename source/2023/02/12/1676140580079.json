@@ -1,0 +1,410 @@
+{
+  "runTime": 1676140580079,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 837241,
+        "num": 837241,
+        "word": "狂飙修改删除涉毒演员戏份",
+        "onboard_time": 1676129014,
+        "rank": 0,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 686508,
+        "num": 686508,
+        "word": "人鱼",
+        "onboard_time": 1676125952,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12003,
+        "num": 485962,
+        "word": "2023春耕进行时",
+        "onboard_time": 1676125775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400906,
+        "num": 400906,
+        "word": "可能被ChatGPT取代的10大职业",
+        "onboard_time": 1676131768,
+        "rank": 3,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 221086,
+        "num": 221086,
+        "word": "入职1小时被HR告知招错人补偿50元",
+        "onboard_time": 1676113765,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202279,
+        "num": 202279,
+        "word": "李一桐郭晓婷当群演一天赚了288",
+        "onboard_time": 1676127571,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201728,
+        "num": 201728,
+        "word": "杭州一套凶宅起拍单价2万你敢买吗",
+        "onboard_time": 1676126071,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146376,
+        "num": 146376,
+        "word": "水牛记手机壳",
+        "onboard_time": 1676132487,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135368,
+        "num": 135368,
+        "word": "7旬老人输液瓶内现絮状物后抢救",
+        "onboard_time": 1676126851,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129014,
+        "num": 129014,
+        "word": "张若昀被粉丝送银票花",
+        "onboard_time": 1676131948,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222347,
+        "num": 126524,
+        "word": "土耳其地震后一猫一狗紧紧相依",
+        "onboard_time": 1676137278,
+        "rank": 10,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 119814,
+        "num": 119814,
+        "word": "三亚旅游发现拔白发服务一小时50元",
+        "onboard_time": 1676128653,
+        "rank": 11,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 119679,
+        "num": 119679,
+        "word": "狂飙严正声明",
+        "onboard_time": 1676125108,
+        "rank": 12,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 119280,
+        "num": 119280,
+        "word": "狂飙钟阿四真的不是演的",
+        "onboard_time": 1676121930,
+        "rank": 13,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 118568,
+        "num": 118568,
+        "word": "男子驱车看苗寨小姐姐发现全是阿姨",
+        "onboard_time": 1676134883,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107230,
+        "num": 107230,
+        "word": "你只管踩油门剩下的交给我们",
+        "onboard_time": 1676124091,
+        "rank": 15,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 99584,
+        "num": 99584,
+        "word": "于正说肖战还不火啥叫火",
+        "onboard_time": 1676108486,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95318,
+        "num": 95318,
+        "word": "网友深圳街头偶遇李宏毅",
+        "onboard_time": 1676121390,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86699,
+        "num": 86699,
+        "word": "土耳其翻译说救援队像在救自己的人民",
+        "onboard_time": 1676129014,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85372,
+        "num": 85372,
+        "word": "RW战胜AG",
+        "onboard_time": 1676130872,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82412,
+        "num": 82412,
+        "word": "WBG战胜JDG",
+        "onboard_time": 1676125470,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81395,
+        "num": 81395,
+        "word": "林孝埈 半决赛",
+        "onboard_time": 1676122350,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80304,
+        "num": 80304,
+        "word": "上海巨型玫瑰",
+        "onboard_time": 1676117608,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77751,
+        "num": 77751,
+        "word": "宋江翻跳SEVENTEEN的HOT",
+        "onboard_time": 1676130272,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72035,
+        "num": 72035,
+        "word": "这狗狗怎么全程黑脸",
+        "onboard_time": 1676132427,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68849,
+        "num": 68849,
+        "word": "19岁男孩常忘事患上阿尔茨海默病",
+        "onboard_time": 1676117306,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68143,
+        "num": 68143,
+        "word": "武汉地铁3外籍男子横卧整排座位",
+        "onboard_time": 1676114969,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67035,
+        "num": 67035,
+        "word": "白鹿以爱为营染发下班路透",
+        "onboard_time": 1676132786,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64918,
+        "num": 64918,
+        "word": "官方通报山东女足队员家遭强拆",
+        "onboard_time": 1676123370,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 61951,
+        "num": 61951,
+        "word": "含笑",
+        "onboard_time": 1676126610,
+        "rank": 29,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 59628,
+        "num": 59628,
+        "word": "张元英翻跳PinkVenom视频",
+        "onboard_time": 1676121689,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 58799,
+        "num": 58799,
+        "word": "于文文张天爱同游澳门义字街",
+        "onboard_time": 1676129971,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56534,
+        "num": 56534,
+        "word": "IVE新歌NotYourGirl",
+        "onboard_time": 1676129014,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56505,
+        "num": 56505,
+        "word": "关注土耳其7.8级地震",
+        "onboard_time": 1676139916,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53692,
+        "num": 53692,
+        "word": "多地学校推出开学过渡套餐",
+        "onboard_time": 1676129493,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 51588,
+        "num": 51588,
+        "word": "上市公司回应董事长月薪两万招保镖",
+        "onboard_time": 1676116469,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 46911,
+        "num": 46911,
+        "word": "中国造照明无人机点亮地震救援现场",
+        "onboard_time": 1676124510,
+        "rank": 36,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 45628,
+        "num": 45628,
+        "word": "猫咪出门土拨鼠上演难舍难别",
+        "onboard_time": 1676135482,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 45277,
+        "num": 45277,
+        "word": "RNG官宣教练Heart离队",
+        "onboard_time": 1676113045,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 42341,
+        "num": 42341,
+        "word": "流浪地球",
+        "onboard_time": 1676122709,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41793,
+        "num": 41793,
+        "word": "小虎辛德拉",
+        "onboard_time": 1676127273,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40989,
+        "num": 40989,
+        "word": "宋昕冉生日公演",
+        "onboard_time": 1676129014,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38204,
+        "num": 38204,
+        "word": "张天爱大波浪好港",
+        "onboard_time": 1676131170,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37709,
+        "num": 37709,
+        "word": "严浩翔在宿舍的阳台上打坐练剑",
+        "onboard_time": 1676124328,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36440,
+        "num": 36440,
+        "word": "才知道交通卡这么有趣",
+        "onboard_time": 1676130393,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35331,
+        "num": 35331,
+        "word": "JDG对战WBG",
+        "onboard_time": 1676116709,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35326,
+        "num": 35326,
+        "word": "何广智 串儿",
+        "onboard_time": 1676125232,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32627,
+        "num": 32627,
+        "word": "这题岳云鹏不会",
+        "onboard_time": 1676136020,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32604,
+        "num": 32604,
+        "word": "程耳王一博二搭电影人鱼",
+        "onboard_time": 1676121029,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31232,
+        "num": 31232,
+        "word": "何广智希望非诚勿扰能一直办下去",
+        "onboard_time": 1676132608,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#春暖花开铁杆朋友来了#"
+    }
+  }
+}
