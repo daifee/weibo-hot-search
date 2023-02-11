@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676124951785,
+  "endTime": 1676126016973,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3496565,
+      "num": 3496565,
+      "word": "狂飙钟阿四真的不是演的",
+      "onboard_time": 1676121930,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3387144,
       "num": 1625505,
       "word": "迪丽热巴工作室晒维权通告",
@@ -179,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2731833,
+      "num": 2731833,
+      "word": "狂飙严正声明",
+      "onboard_time": 1676125108,
+      "rank": 1,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 2617349,
       "num": 2617349,
       "word": "马航MH17坠机案调查暂停",
@@ -233,14 +249,6 @@
       "onboard_time": 1675923509,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2455557,
-      "num": 2455557,
-      "word": "狂飙钟阿四真的不是演的",
-      "onboard_time": 1676121930,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 2430501,
@@ -1531,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1080390,
+      "num": 1080390,
+      "word": "WBG战胜JDG",
+      "onboard_time": 1676125470,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1077212,
       "num": 1077212,
       "word": "异丙酚",
@@ -2171,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 882247,
+      "num": 882247,
+      "word": "官方通报山东女足队员家遭强拆",
+      "onboard_time": 1676123370,
+      "rank": 6,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 881715,
       "num": 881715,
       "word": "张凌赫点赞欣诚则凌视频",
@@ -2273,14 +2297,6 @@
       "onboard_time": 1675738047,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 856020,
-      "num": 856020,
-      "word": "官方通报山东女足队员家遭强拆",
-      "onboard_time": 1676123370,
-      "rank": 6,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 853090,
@@ -3067,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713687,
+      "num": 713687,
+      "word": "教师会被ChatGPT取代吗",
+      "onboard_time": 1676121868,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 711146,
       "num": 711146,
       "word": "重紫OST阵容",
@@ -3179,6 +3203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 691756,
+      "num": 691756,
+      "word": "严浩翔在宿舍的阳台上打坐练剑",
+      "onboard_time": 1676124328,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 691130,
       "num": 691130,
       "word": "四川捐精可获5000元补贴",
@@ -3249,14 +3281,6 @@
       "onboard_time": 1676038774,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 682602,
-      "num": 682602,
-      "word": "严浩翔在宿舍的阳台上打坐练剑",
-      "onboard_time": 1676124328,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 680782,
@@ -3747,20 +3771,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 617034,
+      "num": 617034,
+      "word": "你只管踩油门剩下的交给我们",
+      "onboard_time": 1676124091,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 616823,
       "num": 616823,
       "word": "一国企公示名单引争议",
       "onboard_time": 1675845813,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 615480,
-      "num": 615480,
-      "word": "教师会被ChatGPT取代吗",
-      "onboard_time": 1676121868,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 614293,
@@ -3929,6 +3953,14 @@
       "onboard_time": 1675695931,
       "rank": 33,
       "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 591326,
+      "num": 591326,
+      "word": "何广智 串儿",
+      "onboard_time": 1676125232,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 588279,
@@ -5489,6 +5521,14 @@
       "onboard_time": 1675768230,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 439576,
+      "num": 439576,
+      "word": "AG对战RW",
+      "onboard_time": 1676124151,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 439504,
@@ -7595,6 +7635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 312661,
+      "num": 312661,
+      "word": "中国造照明无人机点亮地震救援现场",
+      "onboard_time": 1676124510,
+      "rank": 37,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 312266,
       "num": 312266,
       "word": "梧州市供销社党组书记遭绑架后获救",
@@ -7971,14 +8019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 298107,
-      "num": 298107,
-      "word": "你只管踩油门剩下的交给我们",
-      "onboard_time": 1676124091,
-      "rank": 23,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 297591,
       "num": 297591,
       "word": "土耳其驻华大使馆发文哀悼唐小强",
@@ -8281,6 +8321,14 @@
       "onboard_time": 1676109265,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 287450,
+      "num": 287450,
+      "word": "沈月试戏紧张口误",
+      "onboard_time": 1676123670,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 287283,
@@ -8769,14 +8817,6 @@
       "onboard_time": 1676032650,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270225,
-      "num": 270225,
-      "word": "沈月试戏紧张口误",
-      "onboard_time": 1676123670,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 270024,
@@ -9395,6 +9435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245981,
+      "num": 245981,
+      "word": "唐嫣版你过来呀",
+      "onboard_time": 1676125833,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245688,
       "num": 245688,
       "word": "凶宅试睡员2000一天系谣言",
@@ -9793,6 +9841,14 @@
       "onboard_time": 1675848573,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232405,
+      "num": 232405,
+      "word": "人鱼",
+      "onboard_time": 1676125952,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 231672,
@@ -10401,14 +10457,6 @@
       "onboard_time": 1675689633,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212445,
-      "num": 212445,
-      "word": "AG对战RW",
-      "onboard_time": 1676124151,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 212056,
@@ -11275,14 +11323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187756,
-      "num": 187756,
-      "word": "中国造照明无人机点亮地震救援现场",
-      "onboard_time": 1676124510,
-      "rank": 37,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 187601,
       "num": 187601,
       "word": "龚俊女友视角视频",
@@ -11577,6 +11617,14 @@
       "onboard_time": 1675662628,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180914,
+      "num": 180914,
+      "word": "李一桐临场发挥哭戏",
+      "onboard_time": 1676125833,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 180903,
@@ -12331,6 +12379,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 163234,
+      "num": 163234,
+      "word": "Hero战胜KSG",
+      "onboard_time": 1676123070,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163182,
       "num": 163182,
       "word": "崔叡娜翻跳VeryNice",
@@ -12609,14 +12665,6 @@
       "onboard_time": 1675595671,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154005,
-      "num": 154005,
-      "word": "Hero战胜KSG",
-      "onboard_time": 1676123070,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 153597,
@@ -14016,6 +14064,14 @@
       "word": "今天元宵节",
       "onboard_time": 1675566031,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12617,
+      "num": 1955592,
+      "word": "2023春耕进行时",
+      "onboard_time": 1676125775,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],

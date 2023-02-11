@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676124951785,
+  "endTime": 1676126016973,
   "band_list": [
     {
       "raw_hot": 8361811,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3496565,
+      "num": 3496565,
+      "word": "狂飙钟阿四真的不是演的",
+      "onboard_time": 1676121930,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2888631,
       "num": 2888631,
       "word": "广东河源市4.3级地震",
@@ -27,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2731833,
+      "num": 2731833,
+      "word": "狂飙严正声明",
+      "onboard_time": 1676125108,
+      "rank": 1,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 2513245,
       "num": 2513245,
       "word": "入职1小时被HR告知招错人补偿50元",
       "onboard_time": 1676113765,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2455557,
-      "num": 2455557,
-      "word": "狂飙钟阿四真的不是演的",
-      "onboard_time": 1676121930,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 2184702,
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1080390,
+      "num": 1080390,
+      "word": "WBG战胜JDG",
+      "onboard_time": 1676125470,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1069189,
       "num": 1069189,
       "word": "赵丽颖早期穆念慈定妆照",
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 882247,
+      "num": 882247,
+      "word": "官方通报山东女足队员家遭强拆",
+      "onboard_time": 1676123370,
+      "rank": 6,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 872728,
       "num": 872728,
       "word": "JDG对战WBG",
@@ -337,14 +361,6 @@
       "onboard_time": 1676122350,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 856020,
-      "num": 856020,
-      "word": "官方通报山东女足队员家遭强拆",
-      "onboard_time": 1676123370,
-      "rank": 6,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 813505,
@@ -427,6 +443,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 713687,
+      "num": 713687,
+      "word": "教师会被ChatGPT取代吗",
+      "onboard_time": 1676121868,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 709367,
       "num": 709367,
       "word": "2只火凤凰为了求偶上演风骚走位",
@@ -451,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 691756,
+      "num": 691756,
+      "word": "严浩翔在宿舍的阳台上打坐练剑",
+      "onboard_time": 1676124328,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 688499,
       "num": 688499,
       "word": "重庆将为在校女学生免费接种HPV疫苗",
@@ -465,14 +497,6 @@
       "onboard_time": 1676082567,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 682602,
-      "num": 682602,
-      "word": "严浩翔在宿舍的阳台上打坐练剑",
-      "onboard_time": 1676124328,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 677696,
@@ -563,12 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 615480,
-      "num": 615480,
-      "word": "教师会被ChatGPT取代吗",
-      "onboard_time": 1676121868,
-      "rank": 30,
-      "category": "科技"
+      "raw_hot": 617034,
+      "num": 617034,
+      "word": "你只管踩油门剩下的交给我们",
+      "onboard_time": 1676124091,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 612205,
@@ -617,6 +641,14 @@
       "onboard_time": 1676098046,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591326,
+      "num": 591326,
+      "word": "何广智 串儿",
+      "onboard_time": 1676125232,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 577371,
@@ -816,6 +848,14 @@
       "word": "这就是21级的孙尚香",
       "onboard_time": 1676107346,
       "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 439576,
+      "num": 439576,
+      "word": "AG对战RW",
+      "onboard_time": 1676124151,
+      "rank": 33,
       "category": "游戏"
     },
     {
@@ -1187,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 312661,
+      "num": 312661,
+      "word": "中国造照明无人机点亮地震救援现场",
+      "onboard_time": 1676124510,
+      "rank": 37,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 303912,
       "num": 303912,
       "word": "宋亚轩比八自拍小卡",
@@ -1219,14 +1267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298107,
-      "num": 298107,
-      "word": "你只管踩油门剩下的交给我们",
-      "onboard_time": 1676124091,
-      "rank": 23,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 288541,
       "num": 288541,
       "word": "唐艺昕说谁都不是天生就会做父母的",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1676109265,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 287450,
+      "num": 287450,
+      "word": "沈月试戏紧张口误",
+      "onboard_time": 1676123670,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 286973,
@@ -1339,14 +1387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 270225,
-      "num": 270225,
-      "word": "沈月试戏紧张口误",
-      "onboard_time": 1676123670,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269652,
       "num": 269652,
       "word": "河源地震家长拎起孩子往外奔",
@@ -1427,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245981,
+      "num": 245981,
+      "word": "唐嫣版你过来呀",
+      "onboard_time": 1676125833,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242846,
       "num": 242846,
       "word": "程耳说王一博是语言天才",
@@ -1497,6 +1545,14 @@
       "onboard_time": 1676112748,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232405,
+      "num": 232405,
+      "word": "人鱼",
+      "onboard_time": 1676125952,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 231968,
@@ -1633,14 +1689,6 @@
       "onboard_time": 1676124270,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212445,
-      "num": 212445,
-      "word": "AG对战RW",
-      "onboard_time": 1676124151,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 211482,
@@ -1819,14 +1867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187756,
-      "num": 187756,
-      "word": "中国造照明无人机点亮地震救援现场",
-      "onboard_time": 1676124510,
-      "rank": 37,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 187601,
       "num": 187601,
       "word": "龚俊女友视角视频",
@@ -1897,6 +1937,14 @@
       "onboard_time": 1676082147,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180914,
+      "num": 180914,
+      "word": "李一桐临场发挥哭戏",
+      "onboard_time": 1676125833,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 179747,
@@ -2051,6 +2099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163234,
+      "num": 163234,
+      "word": "Hero战胜KSG",
+      "onboard_time": 1676123070,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159204,
       "num": 159204,
       "word": "杨洋白西装拍摄路透视频",
@@ -2065,14 +2121,6 @@
       "onboard_time": 1676122109,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154005,
-      "num": 154005,
-      "word": "Hero战胜KSG",
-      "onboard_time": 1676123070,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 153044,
@@ -2335,6 +2383,14 @@
       "num": 1679867,
       "word": "同心奋进新征程",
       "onboard_time": 1676105367,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12617,
+      "num": 1955592,
+      "word": "2023春耕进行时",
+      "onboard_time": 1676125775,
       "rank": 2,
       "category": "社会新闻"
     }
