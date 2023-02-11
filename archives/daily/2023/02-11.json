@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676119868431,
+  "endTime": 1676121718002,
   "band_list": [
     {
       "raw_hot": 8361811,
@@ -99,20 +99,28 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 1694560,
+      "num": 1694560,
+      "word": "岳阳失踪男童遗体被发现",
+      "onboard_time": 1676119048,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1667373,
+      "num": 1667373,
+      "word": "上海巨型玫瑰",
+      "onboard_time": 1676117608,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1605248,
       "num": 1605248,
       "word": "专家提醒每人一生只能捐精一次",
       "onboard_time": 1676090847,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1564451,
-      "num": 1564451,
-      "word": "上海巨型玫瑰",
-      "onboard_time": 1676117608,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 1507676,
@@ -211,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1041298,
+      "num": 1041298,
+      "word": "出租房半夜怪响竟暗藏上百条蛇",
+      "onboard_time": 1676120369,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1036663,
       "num": 1036663,
       "word": "郑州某医院再现半蹲式窗口",
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 844445,
+      "num": 844445,
+      "word": "程耳王一博二搭电影人鱼",
+      "onboard_time": 1676121029,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 800209,
       "num": 800209,
       "word": "丁义珍式窗口为何屡禁不止",
@@ -337,6 +361,14 @@
       "onboard_time": 1676112147,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 743153,
+      "num": 743153,
+      "word": "19岁男孩常忘事患上阿尔茨海默病",
+      "onboard_time": 1676117306,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 733793,
@@ -443,12 +475,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 658997,
-      "num": 658997,
-      "word": "19岁男孩常忘事患上阿尔茨海默病",
-      "onboard_time": 1676117306,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 657210,
+      "num": 657210,
+      "word": "华晨宇白举纲你好星期六合唱七里香",
+      "onboard_time": 1676120788,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 649852,
@@ -616,14 +648,6 @@
       "word": "地震时8岁哥哥第一时间抱紧弟弟",
       "onboard_time": 1676093727,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528921,
-      "num": 528921,
-      "word": "岳阳失踪男童遗体被发现",
-      "onboard_time": 1676119048,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -907,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379649,
+      "num": 379649,
+      "word": "网友深圳街头偶遇李宏毅",
+      "onboard_time": 1676121390,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370785,
       "num": 370785,
       "word": "唐小强曾阻止家暴",
@@ -1043,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322075,
+      "num": 322075,
+      "word": "张元英翻跳PinkVenom视频",
+      "onboard_time": 1676121689,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 322002,
       "num": 322002,
       "word": "羡慕宋祖儿的发量",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1676100265,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285540,
+      "num": 285540,
+      "word": "檀健次秒答猎罪图鉴",
+      "onboard_time": 1676120129,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 285504,
@@ -1257,6 +1305,14 @@
       "onboard_time": 1676100086,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256379,
+      "num": 256379,
+      "word": "Knight吃披萨",
+      "onboard_time": 1676121150,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 253644,
@@ -1595,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190545,
+      "num": 190545,
+      "word": "侯明昊周也你好星期六合体",
+      "onboard_time": 1676120429,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189977,
       "num": 189977,
       "word": "虞书欣云之羽白色棉服路透",
@@ -1747,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175982,
+      "num": 175982,
+      "word": "西汉姆联vs切尔西",
+      "onboard_time": 1676119708,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175751,
       "num": 175751,
       "word": "张若昀王阳新剧水中戏花絮",
@@ -1769,6 +1841,14 @@
       "onboard_time": 1676042070,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172014,
+      "num": 172014,
+      "word": "这里就是我的家乡京海市",
+      "onboard_time": 1676120129,
+      "rank": 36,
+      "category": "影视,旅游"
     },
     {
       "raw_hot": 171198,
@@ -2019,14 +2099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118168,
-      "num": 118168,
-      "word": "西汉姆联vs切尔西",
-      "onboard_time": 1676119708,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104675,
       "num": 104675,
       "word": "啊泽一曲亮情侣标",
@@ -2108,7 +2180,7 @@
     },
     {
       "raw_hot": 26416,
-      "num": 1156437,
+      "num": 1679867,
       "word": "同心奋进新征程",
       "onboard_time": 1676105367,
       "rank": 2,
