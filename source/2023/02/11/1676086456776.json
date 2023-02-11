@@ -1,0 +1,410 @@
+{
+  "runTime": 1676086456776,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8361811,
+        "num": 8361811,
+        "word": "广东地震",
+        "onboard_time": 1676083827,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1596146,
+        "num": 1596146,
+        "word": "广东河源市4.3级地震",
+        "onboard_time": 1676084128,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54163,
+        "num": 1333651,
+        "word": "穿越机视角看中国大桥多震撼",
+        "onboard_time": 1676037210,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1160718,
+        "num": 1160718,
+        "word": "中国首批缉毒松鼠即将上岗",
+        "onboard_time": 1676081967,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887028,
+        "num": 887028,
+        "word": "黄景瑜工作室声明",
+        "onboard_time": 1676044889,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2020363,
+        "num": 878364,
+        "word": "志愿者精子合格率不到20%",
+        "onboard_time": 1676081725,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839346,
+        "num": 839346,
+        "word": "孙俪工作室账号评论区",
+        "onboard_time": 1676074884,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706513,
+        "num": 706513,
+        "word": "大奉打更人 王鹤棣田曦薇",
+        "onboard_time": 1676079267,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 684322,
+        "num": 684322,
+        "word": "中国搜救犬Lucky寻获1幸存者",
+        "onboard_time": 1676082567,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646740,
+        "num": 646740,
+        "word": "多地现捐精倡议原因何在",
+        "onboard_time": 1676077948,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632245,
+        "num": 632245,
+        "word": "广东地震多地震感明显",
+        "onboard_time": 1676084792,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610097,
+        "num": 610097,
+        "word": "陕西人类精子库呼吁大学生捐精",
+        "onboard_time": 1676082266,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604133,
+        "num": 604133,
+        "word": "土耳其一女排球队全部遇难",
+        "onboard_time": 1676085870,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577371,
+        "num": 577371,
+        "word": "警方通报原县委书记遭绑架案",
+        "onboard_time": 1676082926,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449027,
+        "num": 449027,
+        "word": "张艺兴街边跳krump视频",
+        "onboard_time": 1676082865,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419713,
+        "num": 419713,
+        "word": "叙利亚奇迹宝宝将被叔祖父接走",
+        "onboard_time": 1676079084,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391002,
+        "num": 391002,
+        "word": "电影惊天救援定档五一",
+        "onboard_time": 1676085630,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374192,
+        "num": 374192,
+        "word": "京海F4合体拍杂志",
+        "onboard_time": 1676083165,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334393,
+        "num": 334393,
+        "word": "开学前一夜才是真正的万家灯火",
+        "onboard_time": 1676074402,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330771,
+        "num": 330771,
+        "word": "石家庄的公交卡是牛肉板面",
+        "onboard_time": 1676077046,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301066,
+        "num": 301066,
+        "word": "霍格沃茨之遗",
+        "onboard_time": 1676083591,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291618,
+        "num": 291618,
+        "word": "地震被困女子恳求救援队先救她的孩子",
+        "onboard_time": 1676085451,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288696,
+        "num": 288696,
+        "word": "2只火凤凰为了求偶上演风骚走位",
+        "onboard_time": 1676057594,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285099,
+        "num": 285099,
+        "word": "杨紫199爱蓝色格子大衣路透",
+        "onboard_time": 1676081246,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272585,
+        "num": 272585,
+        "word": "土耳其地震下的中国救援力量",
+        "onboard_time": 1676084489,
+        "rank": 24,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 272412,
+        "num": 272412,
+        "word": "可以不穿但是不能没有",
+        "onboard_time": 1676056034,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262843,
+        "num": 262843,
+        "word": "金智秀晒合照为朴彩英庆生",
+        "onboard_time": 1676077886,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251648,
+        "num": 251648,
+        "word": "鹿晗和粉丝握手",
+        "onboard_time": 1676077527,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243520,
+        "num": 243520,
+        "word": "丁义珍式窗口为何屡禁不止",
+        "onboard_time": 1676075604,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240786,
+        "num": 240786,
+        "word": "大马丁回应世界杯争议动作",
+        "onboard_time": 1676081484,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239101,
+        "num": 239101,
+        "word": "小佩顿体检失败",
+        "onboard_time": 1676078488,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238093,
+        "num": 238093,
+        "word": "老人去世给老伴留满屋摆放整齐柴火",
+        "onboard_time": 1676071036,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223946,
+        "num": 223946,
+        "word": "王者新打野英雄姬小满",
+        "onboard_time": 1676078966,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222621,
+        "num": 222621,
+        "word": "强震已致土叙两国超2.3万人遇难",
+        "onboard_time": 1676073861,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212813,
+        "num": 212813,
+        "word": "李秀满想完成NCT和aespa项目",
+        "onboard_time": 1676074223,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211078,
+        "num": 211078,
+        "word": "张颂文面对粉丝接机不断说感谢",
+        "onboard_time": 1676071938,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204119,
+        "num": 204119,
+        "word": "SMTOWN曾反对加入中国成员",
+        "onboard_time": 1676045487,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198621,
+        "num": 198621,
+        "word": "yoyo颢鑫官宣",
+        "onboard_time": 1676041532,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 194787,
+        "num": 194787,
+        "word": "土耳其大妈将救援女队员手放怀里取暖",
+        "onboard_time": 1676079686,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192865,
+        "num": 192865,
+        "word": "2023NBA全明星",
+        "onboard_time": 1676084792,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177206,
+        "num": 177206,
+        "word": "霍格沃茨之遗Steam在线近70万",
+        "onboard_time": 1676084971,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176511,
+        "num": 176511,
+        "word": "有什么是你结婚后才明白的",
+        "onboard_time": 1676045847,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171853,
+        "num": 171853,
+        "word": "狂飙金句第一人",
+        "onboard_time": 1676042671,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164570,
+        "num": 164570,
+        "word": "费启鸣新剧角色人设",
+        "onboard_time": 1676080047,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162592,
+        "num": 162592,
+        "word": "警方通报男子称我爹是市公安局的",
+        "onboard_time": 1676079446,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151321,
+        "num": 151321,
+        "word": "羡慕宋祖儿的发量",
+        "onboard_time": 1676076147,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140878,
+        "num": 140878,
+        "word": "浙江一写字楼顶似怨气冲天",
+        "onboard_time": 1676050039,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 133988,
+        "num": 133988,
+        "word": "路人美国偶遇刘亦菲",
+        "onboard_time": 1676042432,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131339,
+        "num": 131339,
+        "word": "郑州某医院再现半蹲式窗口",
+        "onboard_time": 1676044947,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122735,
+        "num": 122735,
+        "word": "国家首批功勋犬全员简历",
+        "onboard_time": 1676082688,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见柬埔寨首相洪森#"
+    }
+  }
+}

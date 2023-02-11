@@ -1,10 +1,10 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676085611851,
+  "endTime": 1676086456776,
   "band_list": [
     {
-      "raw_hot": 7916502,
-      "num": 7916502,
+      "raw_hot": 8361811,
+      "num": 8361811,
       "word": "广东地震",
       "onboard_time": 1676083827,
       "rank": 0,
@@ -51,8 +51,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1129370,
-      "num": 1129370,
+      "raw_hot": 1160718,
+      "num": 1160718,
       "word": "中国首批缉毒松鼠即将上岗",
       "onboard_time": 1676081967,
       "rank": 10,
@@ -155,6 +155,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 684322,
+      "num": 684322,
+      "word": "中国搜救犬Lucky寻获1幸存者",
+      "onboard_time": 1676082567,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677696,
       "num": 677696,
       "word": "叙利亚奇迹宝宝将被叔祖父接走",
@@ -203,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 632008,
-      "num": 632008,
-      "word": "中国搜救犬Lucky寻获1幸存者",
-      "onboard_time": 1676082567,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 628472,
       "num": 628472,
       "word": "张颂文 为什么会这样",
@@ -227,8 +227,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 543773,
-      "num": 543773,
+      "raw_hot": 604133,
+      "num": 604133,
+      "word": "土耳其一女排球队全部遇难",
+      "onboard_time": 1676085870,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577371,
+      "num": 577371,
       "word": "警方通报原县委书记遭绑架案",
       "onboard_time": 1676082926,
       "rank": 31,
@@ -371,6 +379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 391002,
+      "num": 391002,
+      "word": "电影惊天救援定档五一",
+      "onboard_time": 1676085630,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 389737,
       "num": 389737,
       "word": "王一博向北美观众推荐无名",
@@ -467,20 +483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301066,
+      "num": 301066,
+      "word": "霍格沃茨之遗",
+      "onboard_time": 1676083591,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 291618,
+      "num": 291618,
+      "word": "地震被困女子恳求救援队先救她的孩子",
+      "onboard_time": 1676085451,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288541,
       "num": 288541,
       "word": "唐艺昕说谁都不是天生就会做父母的",
       "onboard_time": 1676045548,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 287773,
-      "num": 287773,
-      "word": "霍格沃茨之遗",
-      "onboard_time": 1676083591,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 278860,
@@ -505,6 +529,14 @@
       "onboard_time": 1676067013,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 272585,
+      "num": 272585,
+      "word": "土耳其地震下的中国救援力量",
+      "onboard_time": 1676084489,
+      "rank": 34,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 268740,
@@ -659,20 +691,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196663,
-      "num": 196663,
-      "word": "土耳其地震下的中国救援力量",
-      "onboard_time": 1676084489,
-      "rank": 34,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 196173,
       "num": 196173,
       "word": "同型号同路线车辆高速费用差44元",
       "onboard_time": 1676079627,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192865,
+      "num": 192865,
+      "word": "2023NBA全明星",
+      "onboard_time": 1676084792,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 191408,
@@ -739,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177206,
+      "num": 177206,
+      "word": "霍格沃茨之遗Steam在线近70万",
+      "onboard_time": 1676084971,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172371,
       "num": 172371,
       "word": "袁一琦新歌PV",
@@ -771,14 +811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162936,
-      "num": 162936,
-      "word": "2023NBA全明星",
-      "onboard_time": 1676084792,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152742,
       "num": 150796,
       "word": "最强大脑这期又燃又好哭",
@@ -793,14 +825,6 @@
       "onboard_time": 1676026890,
       "rank": 47,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 151364,
-      "num": 151364,
-      "word": "霍格沃茨之遗Steam在线近70万",
-      "onboard_time": 1676084971,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 149787,
@@ -832,14 +856,6 @@
       "word": "救援队探测到90岁老人生命迹象",
       "onboard_time": 1676081066,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134877,
-      "num": 134877,
-      "word": "地震被困女子恳求救援队先救她的孩子",
-      "onboard_time": 1676085451,
-      "rank": 47,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676085611851,
+  "endTime": 1676086456776,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -19,20 +19,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 8361811,
+      "num": 8361811,
+      "word": "广东地震",
+      "onboard_time": 1676083827,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8063331,
       "num": 8063331,
       "word": "唐小强确认遇难",
       "onboard_time": 1675985242,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 7916502,
-      "num": 7916502,
-      "word": "广东地震",
-      "onboard_time": 1676083827,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5524134,
@@ -1171,6 +1171,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1160718,
+      "num": 1160718,
+      "word": "中国首批缉毒松鼠即将上岗",
+      "onboard_time": 1676081967,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1157625,
       "num": 1157625,
       "word": "男子欲试睡凶宅躺赚大钱被骗",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1675934431,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1129370,
-      "num": 1129370,
-      "word": "中国首批缉毒松鼠即将上岗",
-      "onboard_time": 1676081967,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1123589,
@@ -2923,6 +2923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 684322,
+      "num": 684322,
+      "word": "中国搜救犬Lucky寻获1幸存者",
+      "onboard_time": 1676082567,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 683278,
       "num": 683278,
       "word": "刘慈欣二刷流浪地球2发现小bug",
@@ -3291,14 +3299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 632008,
-      "num": 632008,
-      "word": "中国搜救犬Lucky寻获1幸存者",
-      "onboard_time": 1676082567,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 630875,
       "num": 630875,
       "word": "中国救援队从土耳其废墟救出一名孕妇",
@@ -3483,6 +3483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 604133,
+      "num": 604133,
+      "word": "土耳其一女排球队全部遇难",
+      "onboard_time": 1676085870,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 600016,
       "num": 600016,
       "word": "张颂文给李健上过课",
@@ -3616,6 +3624,14 @@
       "word": "土耳其地震已致该国5894人死亡",
       "onboard_time": 1675813042,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577371,
+      "num": 577371,
+      "word": "警方通报原县委书记遭绑架案",
+      "onboard_time": 1676082926,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -3929,14 +3945,6 @@
       "onboard_time": 1675675648,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 543773,
-      "num": 543773,
-      "word": "警方通报原县委书记遭绑架案",
-      "onboard_time": 1676082926,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 543298,
@@ -5739,6 +5747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391002,
+      "num": 391002,
+      "word": "电影惊天救援定档五一",
+      "onboard_time": 1676085630,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 390718,
       "num": 390718,
       "word": "阿里类ChatGPT产品正在内测",
@@ -7435,6 +7451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 291618,
+      "num": 291618,
+      "word": "地震被困女子恳求救援队先救她的孩子",
+      "onboard_time": 1676085451,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291513,
       "num": 291513,
       "word": "图丫丫的房间壁纸条形码被解码了",
@@ -7897,6 +7921,14 @@
       "onboard_time": 1675992572,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272585,
+      "num": 272585,
+      "word": "土耳其地震下的中国救援力量",
+      "onboard_time": 1676084489,
+      "rank": 34,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 271424,
@@ -9883,14 +9915,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 196663,
-      "num": 196663,
-      "word": "土耳其地震下的中国救援力量",
-      "onboard_time": 1676084489,
-      "rank": 34,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 196408,
       "num": 196408,
       "word": "咱们还有仨人在天上",
@@ -10017,6 +10041,14 @@
       "onboard_time": 1675858769,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192865,
+      "num": 192865,
+      "word": "2023NBA全明星",
+      "onboard_time": 1676084792,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 192430,
@@ -10571,6 +10603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177206,
+      "num": 177206,
+      "word": "霍格沃茨之遗Steam在线近70万",
+      "onboard_time": 1676084971,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177015,
       "num": 177015,
       "word": "帅家默和范闲的区别",
@@ -11091,14 +11131,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 162936,
-      "num": 162936,
-      "word": "2023NBA全明星",
-      "onboard_time": 1676084792,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162688,
       "num": 162688,
       "word": "这驾照是非学不可吗",
@@ -11385,14 +11417,6 @@
       "onboard_time": 1676022633,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 151364,
-      "num": 151364,
-      "word": "霍格沃茨之遗Steam在线近70万",
-      "onboard_time": 1676084971,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 151224,
@@ -11721,14 +11745,6 @@
       "onboard_time": 1675640544,
       "rank": 46,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 134877,
-      "num": 134877,
-      "word": "地震被困女子恳求救援队先救她的孩子",
-      "onboard_time": 1676085451,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134650,
