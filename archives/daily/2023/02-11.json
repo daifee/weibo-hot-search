@@ -1,6 +1,6 @@
 {
   "startTime": 1676046395576,
-  "endTime": 1676107032770,
+  "endTime": 1676108023123,
   "band_list": [
     {
       "raw_hot": 8361811,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1991909,
+      "num": 1991909,
+      "word": "蔡徐坤帮前队友收集打官司证据",
+      "onboard_time": 1676105126,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1888127,
       "num": 495772,
       "word": "广州一女子当街被小男孩袭胸",
@@ -81,14 +89,6 @@
       "onboard_time": 1676090847,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1385881,
-      "num": 1385881,
-      "word": "蔡徐坤帮前队友收集打官司证据",
-      "onboard_time": 1676105126,
-      "rank": 0,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1374126,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 947762,
+      "num": 947762,
+      "word": "于正想拯救几个不红的艺人",
+      "onboard_time": 1676106147,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 937462,
       "num": 937462,
       "word": "老人去世给老伴留满屋摆放整齐柴火",
@@ -227,19 +235,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 772267,
+      "num": 772267,
+      "word": "张颂文曾因捡垃圾被剧组丢下",
+      "onboard_time": 1676103627,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 764396,
       "num": 764396,
       "word": "易烊千玺被冻得双手握拳",
       "onboard_time": 1676037810,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 735961,
-      "num": 735961,
-      "word": "张颂文曾因捡垃圾被剧组丢下",
-      "onboard_time": 1676103627,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 612205,
+      "num": 612205,
+      "word": "比尔盖茨称ChatGPT将改变世界",
+      "onboard_time": 1676103984,
+      "rank": 41,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 607155,
       "num": 607155,
       "word": "张艺兴街边跳krump视频",
@@ -401,14 +417,6 @@
       "onboard_time": 1676098046,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 584367,
-      "num": 584367,
-      "word": "于正想拯救几个不红的艺人",
-      "onboard_time": 1676106147,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 577371,
@@ -531,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 506431,
-      "num": 506431,
-      "word": "比尔盖茨称ChatGPT将改变世界",
-      "onboard_time": 1676103984,
-      "rank": 41,
-      "category": "科技,社会新闻"
+      "raw_hot": 506150,
+      "num": 506150,
+      "word": "深海",
+      "onboard_time": 1676105906,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 501855,
@@ -641,14 +649,6 @@
       "onboard_time": 1676044108,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 406593,
-      "num": 406593,
-      "word": "深海",
-      "onboard_time": 1676105906,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 400859,
@@ -987,8 +987,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 268331,
-      "num": 268331,
+      "raw_hot": 268409,
+      "num": 268409,
       "word": "鹿晗五哈和大爷打乒乓球路透",
       "onboard_time": 1676104348,
       "rank": 34,
@@ -1033,6 +1033,14 @@
       "onboard_time": 1676028272,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 249611,
+      "num": 249611,
+      "word": "这就是21级的孙尚香",
+      "onboard_time": 1676107346,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 242846,
@@ -1363,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179504,
+      "num": 179504,
+      "word": "ChatGPT同名山寨币暴涨18倍",
+      "onboard_time": 1676107167,
+      "rank": 31,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 178965,
       "num": 178965,
       "word": "FIFA年度最佳球员三人候选",
@@ -1449,6 +1465,22 @@
       "onboard_time": 1676073922,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155433,
+      "num": 155433,
+      "word": "100岁丈夫牵手101岁妻子回忆爱情",
+      "onboard_time": 1676107466,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 153635,
+      "num": 153635,
+      "word": "女子小巷停车一口气撞了10辆",
+      "onboard_time": 1676107646,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 153044,
@@ -1675,7 +1707,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 19820,
+      "raw_hot": 20716,
       "num": 1156437,
       "word": "同心奋进新征程",
       "onboard_time": 1676105367,

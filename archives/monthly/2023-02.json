@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676107032770,
+  "endTime": 1676108023123,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -793,6 +793,14 @@
       "onboard_time": 1675667668,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1991909,
+      "num": 1991909,
+      "word": "蔡徐坤帮前队友收集打官司证据",
+      "onboard_time": 1676105126,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1991022,
@@ -1753,14 +1761,6 @@
       "onboard_time": 1675599990,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1385881,
-      "num": 1385881,
-      "word": "蔡徐坤帮前队友收集打官司证据",
-      "onboard_time": 1676105126,
-      "rank": 0,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1375744,
@@ -3451,6 +3451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 947762,
+      "num": 947762,
+      "word": "于正想拯救几个不红的艺人",
+      "onboard_time": 1676106147,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 945366,
       "num": 945366,
       "word": "周深毛不易 双厨狂喜",
@@ -4827,6 +4835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 772267,
+      "num": 772267,
+      "word": "张颂文曾因捡垃圾被剧组丢下",
+      "onboard_time": 1676103627,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 771632,
       "num": 771632,
       "word": "遭遇断崖式分手如何走出来",
@@ -5105,14 +5121,6 @@
       "onboard_time": 1675918652,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 735961,
-      "num": 735961,
-      "word": "张颂文曾因捡垃圾被剧组丢下",
-      "onboard_time": 1676103627,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 735883,
@@ -6779,6 +6787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 612205,
+      "num": 612205,
+      "word": "比尔盖茨称ChatGPT将改变世界",
+      "onboard_time": 1676103984,
+      "rank": 41,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 611454,
       "num": 611454,
       "word": "许凯谭松韵新剧开机路透",
@@ -7129,14 +7145,6 @@
       "onboard_time": 1675226495,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 584367,
-      "num": 584367,
-      "word": "于正想拯救几个不红的艺人",
-      "onboard_time": 1676106147,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 584102,
@@ -8619,12 +8627,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 506431,
-      "num": 506431,
-      "word": "比尔盖茨称ChatGPT将改变世界",
-      "onboard_time": 1676103984,
-      "rank": 41,
-      "category": "科技,社会新闻"
+      "raw_hot": 506150,
+      "num": 506150,
+      "word": "深海",
+      "onboard_time": 1675507050,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 505445,
@@ -10672,14 +10680,6 @@
       "word": "虞书欣云之羽战损妆",
       "onboard_time": 1675652608,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 406593,
-      "num": 406593,
-      "word": "深海",
-      "onboard_time": 1675507050,
-      "rank": 16,
       "category": "影视"
     },
     {
@@ -15523,8 +15523,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 268331,
-      "num": 268331,
+      "raw_hot": 268409,
+      "num": 268409,
       "word": "鹿晗五哈和大爷打乒乓球路透",
       "onboard_time": 1676104348,
       "rank": 34,
@@ -16385,6 +16385,14 @@
       "onboard_time": 1675496428,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 249611,
+      "num": 249611,
+      "word": "这就是21级的孙尚香",
+      "onboard_time": 1676107346,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 249523,
@@ -20555,6 +20563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179504,
+      "num": 179504,
+      "word": "ChatGPT同名山寨币暴涨18倍",
+      "onboard_time": 1676107167,
+      "rank": 31,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 179484,
       "num": 179484,
       "word": "杨超越的择偶标准",
@@ -22187,6 +22203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155433,
+      "num": 155433,
+      "word": "100岁丈夫牵手101岁妻子回忆爱情",
+      "onboard_time": 1676107466,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 155372,
       "num": 155372,
       "word": "1分钟听见春天的声音",
@@ -22241,6 +22265,14 @@
       "onboard_time": 1675495588,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153635,
+      "num": 153635,
+      "word": "女子小巷停车一口气撞了10辆",
+      "onboard_time": 1676107646,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 153597,
@@ -24947,7 +24979,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 19820,
+      "raw_hot": 20716,
       "num": 1156437,
       "word": "同心奋进新征程",
       "onboard_time": 1676105367,

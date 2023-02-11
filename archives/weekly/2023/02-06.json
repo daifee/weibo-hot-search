@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676107032770,
+  "endTime": 1676108023123,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -401,6 +401,14 @@
       "onboard_time": 1675667668,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1991909,
+      "num": 1991909,
+      "word": "蔡徐坤帮前队友收集打官司证据",
+      "onboard_time": 1676105126,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1984190,
@@ -857,14 +865,6 @@
       "onboard_time": 1675827929,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1385881,
-      "num": 1385881,
-      "word": "蔡徐坤帮前队友收集打官司证据",
-      "onboard_time": 1676105126,
-      "rank": 0,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1375744,
@@ -1803,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 947762,
+      "num": 947762,
+      "word": "于正想拯救几个不红的艺人",
+      "onboard_time": 1676106147,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 943659,
       "num": 943659,
       "word": "苹果2024年或推出无接口设计iPhone",
@@ -2571,6 +2579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 772267,
+      "num": 772267,
+      "word": "张颂文曾因捡垃圾被剧组丢下",
+      "onboard_time": 1676103627,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 769746,
       "num": 523951,
       "word": "张婧仪张凌赫情人节大片",
@@ -2721,14 +2737,6 @@
       "onboard_time": 1675918652,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 735961,
-      "num": 735961,
-      "word": "张颂文曾因捡垃圾被剧组丢下",
-      "onboard_time": 1676103627,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 735883,
@@ -3571,6 +3579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 612205,
+      "num": 612205,
+      "word": "比尔盖茨称ChatGPT将改变世界",
+      "onboard_time": 1676103984,
+      "rank": 41,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 610760,
       "num": 553648,
       "word": "张常宁悼念父亲",
@@ -3744,14 +3760,6 @@
       "word": "王一博公司申请洛邑逸板商标",
       "onboard_time": 1675921648,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 584367,
-      "num": 584367,
-      "word": "于正想拯救几个不红的艺人",
-      "onboard_time": 1676106147,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -4611,12 +4619,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 506431,
-      "num": 506431,
-      "word": "比尔盖茨称ChatGPT将改变世界",
-      "onboard_time": 1676103984,
-      "rank": 41,
-      "category": "科技,社会新闻"
+      "raw_hot": 506150,
+      "num": 506150,
+      "word": "深海",
+      "onboard_time": 1676105906,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 505445,
@@ -5751,14 +5759,6 @@
       "num": 406861,
       "word": "虞书欣云之羽战损妆",
       "onboard_time": 1675652608,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 406593,
-      "num": 406593,
-      "word": "深海",
-      "onboard_time": 1676105906,
       "rank": 15,
       "category": "影视"
     },
@@ -8459,8 +8459,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 268331,
-      "num": 268331,
+      "raw_hot": 268409,
+      "num": 268409,
       "word": "鹿晗五哈和大爷打乒乓球路透",
       "onboard_time": 1676104348,
       "rank": 34,
@@ -8897,6 +8897,14 @@
       "onboard_time": 1675912228,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249611,
+      "num": 249611,
+      "word": "这就是21级的孙尚香",
+      "onboard_time": 1676107346,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 249523,
@@ -11115,6 +11123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179504,
+      "num": 179504,
+      "word": "ChatGPT同名山寨币暴涨18倍",
+      "onboard_time": 1676107167,
+      "rank": 31,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 179484,
       "num": 179484,
       "word": "杨超越的择偶标准",
@@ -11987,6 +12003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155433,
+      "num": 155433,
+      "word": "100岁丈夫牵手101岁妻子回忆爱情",
+      "onboard_time": 1676107466,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 154874,
       "num": 154874,
       "word": "内地与港澳人员往来全面恢复",
@@ -12001,6 +12025,14 @@
       "onboard_time": 1675595671,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153635,
+      "num": 153635,
+      "word": "女子小巷停车一口气撞了10辆",
+      "onboard_time": 1676107646,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 153597,
@@ -13355,7 +13387,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 19820,
+      "raw_hot": 20716,
       "num": 1156437,
       "word": "同心奋进新征程",
       "onboard_time": 1676105367,
