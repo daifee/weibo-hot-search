@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676215096669,
+  "endTime": 1676216023804,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -443,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 819402,
+      "num": 819402,
+      "word": "林孝埈庆祝动作",
+      "onboard_time": 1676215412,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 793373,
       "num": 793373,
       "word": "真的会有艾薇儿吗",
@@ -523,6 +531,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 695848,
+      "num": 695848,
+      "word": "唐嫣宋亚轩唱有何不可路透",
+      "onboard_time": 1676214518,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 688891,
       "num": 688891,
       "word": "相差10岁的童瑶张新成演情侣了",
@@ -553,14 +569,6 @@
       "onboard_time": 1676113765,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 674387,
-      "num": 674387,
-      "word": "唐嫣宋亚轩唱有何不可路透",
-      "onboard_time": 1676214518,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 659584,
@@ -619,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 605976,
+      "num": 581858,
+      "word": "梅德韦杰夫预言欧洲将彻底消失",
+      "onboard_time": 1676214035,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 604613,
       "num": 604613,
       "word": "武警女兵入伍前vs入伍后",
@@ -643,6 +659,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 586989,
+      "num": 586989,
+      "word": "小狗其实什么都知道",
+      "onboard_time": 1676212954,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 580009,
+      "num": 580009,
+      "word": "泰国人有多爱王嘉尔",
+      "onboard_time": 1676215173,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 577942,
       "num": 577942,
       "word": "土耳其翻译说救援队像在救自己的人民",
@@ -665,14 +697,6 @@
       "onboard_time": 1676190928,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 558771,
-      "num": 558771,
-      "word": "小狗其实什么都知道",
-      "onboard_time": 1676212954,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 540799,
@@ -827,14 +851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 455761,
-      "num": 455761,
-      "word": "梅德韦杰夫预言欧洲将彻底消失",
-      "onboard_time": 1676214035,
-      "rank": 17,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 454869,
       "num": 431284,
       "word": "詹姆斯脚伤恐将贯穿整个赛季",
@@ -947,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397078,
+      "num": 397078,
+      "word": "张萌说彭冠英是新婚之夜鸽子王",
+      "onboard_time": 1676212117,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 396444,
       "num": 396444,
       "word": "绑架原县委书记嫌犯仍在逃",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1676195553,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 357400,
+      "num": 250772,
+      "word": "谢娜半永久猫眼妆教程vlog",
+      "onboard_time": 1676215716,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 356983,
@@ -1403,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269056,
-      "num": 269056,
-      "word": "张萌说彭冠英是新婚之夜鸽子王",
-      "onboard_time": 1676212117,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 268303,
       "num": 268303,
       "word": "EDG战胜BLG",
@@ -1619,6 +1643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230753,
+      "num": 230753,
+      "word": "WBG春季赛首周冠军",
+      "onboard_time": 1676214275,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230563,
       "num": 230563,
       "word": "别对我动心主演 周也林一",
@@ -1633,14 +1665,6 @@
       "onboard_time": 1676121390,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228870,
-      "num": 228870,
-      "word": "WBG春季赛首周冠军",
-      "onboard_time": 1676214275,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 228639,
@@ -1665,6 +1689,14 @@
       "onboard_time": 1676178571,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222033,
+      "num": 222033,
+      "word": "升降火锅",
+      "onboard_time": 1676215116,
+      "rank": 37,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 218252,
@@ -2129,6 +2161,14 @@
       "onboard_time": 1676194529,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158356,
+      "num": 158356,
+      "word": "去西安知道吃什么了",
+      "onboard_time": 1676215773,
+      "rank": 46,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 157778,

@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676215096669,
+  "endTime": 1676216023804,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -5019,6 +5019,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 819402,
+      "num": 819402,
+      "word": "林孝埈庆祝动作",
+      "onboard_time": 1676215412,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 816841,
       "num": 816841,
       "word": "叙利亚地震后美国仍拒绝解除制裁",
@@ -6395,6 +6403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695848,
+      "num": 695848,
+      "word": "唐嫣宋亚轩唱有何不可路透",
+      "onboard_time": 1676214518,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 695682,
       "num": 695682,
       "word": "24岁牙科实习医生自拔智齿练手",
@@ -6729,14 +6745,6 @@
       "onboard_time": 1675841492,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 674387,
-      "num": 674387,
-      "word": "唐嫣宋亚轩唱有何不可路透",
-      "onboard_time": 1676214518,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 674247,
@@ -7723,6 +7731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 605976,
+      "num": 581858,
+      "word": "梅德韦杰夫预言欧洲将彻底消失",
+      "onboard_time": 1676214035,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 605169,
       "num": 605169,
       "word": "金莎18岁采访梁朝伟旧照",
@@ -7971,6 +7987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 586989,
+      "num": 586989,
+      "word": "小狗其实什么都知道",
+      "onboard_time": 1676212954,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 586879,
       "num": 586879,
       "word": "蒋依依新剧人设",
@@ -8097,6 +8121,14 @@
       "onboard_time": 1675758990,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 580009,
+      "num": 580009,
+      "word": "泰国人有多爱王嘉尔",
+      "onboard_time": 1676215173,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 579462,
@@ -8449,14 +8481,6 @@
       "onboard_time": 1675653209,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 558771,
-      "num": 558771,
-      "word": "小狗其实什么都知道",
-      "onboard_time": 1676212954,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 558534,
@@ -10611,14 +10635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 455761,
-      "num": 455761,
-      "word": "梅德韦杰夫预言欧洲将彻底消失",
-      "onboard_time": 1676214035,
-      "rank": 17,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 455170,
       "num": 455170,
       "word": "刘畊宏直播",
@@ -12235,6 +12251,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 397078,
+      "num": 397078,
+      "word": "张萌说彭冠英是新婚之夜鸽子王",
+      "onboard_time": 1676212117,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 396933,
       "num": 396933,
       "word": "孙千腿真长",
@@ -13433,6 +13457,14 @@
       "onboard_time": 1675384950,
       "rank": 19,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 357400,
+      "num": 250772,
+      "word": "谢娜半永久猫眼妆教程vlog",
+      "onboard_time": 1676215716,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 356983,
@@ -17275,14 +17307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269056,
-      "num": 269056,
-      "word": "张萌说彭冠英是新婚之夜鸽子王",
-      "onboard_time": 1676212117,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 268981,
       "num": 268981,
       "word": "土耳其全国哀悼7天",
@@ -19339,6 +19363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230753,
+      "num": 230753,
+      "word": "WBG春季赛首周冠军",
+      "onboard_time": 1676214275,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230730,
       "num": 230730,
       "word": "张若昀杨蓉怕不是在演谍战片吧",
@@ -19457,14 +19489,6 @@
       "onboard_time": 1675489467,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 228870,
-      "num": 228870,
-      "word": "WBG春季赛首周冠军",
-      "onboard_time": 1676214275,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 228793,
@@ -19865,6 +19889,14 @@
       "onboard_time": 1676178571,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222033,
+      "num": 222033,
+      "word": "升降火锅",
+      "onboard_time": 1676215116,
+      "rank": 37,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 221945,
@@ -24689,6 +24721,14 @@
       "onboard_time": 1675526788,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158356,
+      "num": 158356,
+      "word": "去西安知道吃什么了",
+      "onboard_time": 1676215773,
+      "rank": 46,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 158299,
