@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676172140186,
+  "endTime": 1676172949677,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1530162,
+      "num": 1530162,
+      "word": "狂飙王秘书也不是演的",
+      "onboard_time": 1676171246,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1432811,
       "num": 1432811,
       "word": "重庆一对情侣蹦极倒挂滞留半空",
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1208554,
+      "num": 1208554,
+      "word": "央美准考证模版用肖战照片",
+      "onboard_time": 1676170648,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1149463,
       "num": 1118114,
       "word": "多国学校禁止学生使用ChatGPT",
@@ -83,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1100964,
-      "num": 1100964,
-      "word": "央美准考证模版用肖战照片",
-      "onboard_time": 1676170648,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 1067773,
+      "num": 1067773,
+      "word": "熬夜可能会导致大脑损伤提早",
+      "onboard_time": 1676169386,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1034276,
@@ -105,22 +121,6 @@
       "onboard_time": 1676127571,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 955151,
-      "num": 955151,
-      "word": "熬夜可能会导致大脑损伤提早",
-      "onboard_time": 1676169386,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806544,
-      "num": 806544,
-      "word": "狂飙王秘书也不是演的",
-      "onboard_time": 1676171246,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 732493,
@@ -179,6 +179,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 602240,
+      "num": 500052,
+      "word": "大理12岁双胞胎兄弟失联已8天",
+      "onboard_time": 1676171846,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577942,
       "num": 577942,
       "word": "土耳其翻译说救援队像在救自己的人民",
@@ -193,6 +201,14 @@
       "onboard_time": 1676170648,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 520955,
+      "num": 520955,
+      "word": "从此小说里的女主有脸了",
+      "onboard_time": 1676172027,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 510304,
@@ -323,6 +339,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 373470,
+      "num": 373470,
+      "word": "人民币贷款创历史新高",
+      "onboard_time": 1676171727,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 349423,
       "num": 349423,
       "word": "特鲁多声称下令击落进入加空域不明物体",
@@ -361,6 +385,14 @@
       "onboard_time": 1676167648,
       "rank": 16,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 310701,
+      "num": 310701,
+      "word": "天津地铁回应2男子打架波及小孩",
+      "onboard_time": 1676171664,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304888,
@@ -507,6 +539,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 234379,
+      "num": 234379,
+      "word": "京考",
+      "onboard_time": 1676172750,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 231604,
       "num": 231604,
       "word": "吴易昺首胜TOP10",
@@ -521,6 +561,14 @@
       "onboard_time": 1676130872,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 230860,
+      "num": 230860,
+      "word": "白鹿以爱为营浅绿色上衣路透",
+      "onboard_time": 1676172868,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 229295,
@@ -579,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195356,
+      "num": 195356,
+      "word": "官方通报网传拆迁人员持械与村民冲突",
+      "onboard_time": 1676171967,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193673,
       "num": 193673,
       "word": "武汉地铁3外籍男子横卧整排座位",
@@ -635,14 +691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181137,
-      "num": 181137,
-      "word": "天津地铁回应2男子打架波及小孩",
-      "onboard_time": 1676171664,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178431,
       "num": 178431,
       "word": "范世錡向刘耀文传授演戏经验",
@@ -683,30 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173698,
-      "num": 173698,
-      "word": "大理12岁双胞胎兄弟失联已8天",
-      "onboard_time": 1676171846,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173325,
-      "num": 173325,
-      "word": "人民币贷款创历史新高",
-      "onboard_time": 1676171727,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 172438,
-      "num": 172438,
-      "word": "从此小说里的女主有脸了",
-      "onboard_time": 1676172027,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167228,
       "num": 167228,
       "word": "何广智希望非诚勿扰能一直办下去",
@@ -737,6 +761,14 @@
       "onboard_time": 1676158338,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159080,
+      "num": 159080,
+      "word": "男子震后靠可乐坚持134小时获救",
+      "onboard_time": 1676172687,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157167,
@@ -777,14 +809,6 @@
       "onboard_time": 1676131649,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 148737,
-      "num": 148737,
-      "word": "官方通报网传拆迁人员持械与村民冲突",
-      "onboard_time": 1676171967,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148403,
@@ -833,6 +857,14 @@
       "onboard_time": 1676171488,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140403,
+      "num": 140403,
+      "word": "王楚然 小说女主",
+      "onboard_time": 1676172931,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 138819,
@@ -1015,6 +1047,14 @@
       "num": 1534321,
       "word": "2023春耕进行时",
       "onboard_time": 1676125775,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6204,
+      "num": 1598396,
+      "word": "中国空间站第一视角看地球转动",
+      "onboard_time": 1676118088,
       "rank": 2,
       "category": "社会新闻"
     }
