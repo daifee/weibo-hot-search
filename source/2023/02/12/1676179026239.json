@@ -1,0 +1,410 @@
+{
+  "runTime": 1676179026239,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3315216,
+        "num": 3315216,
+        "word": "2009年含笑吸毒被捕画面",
+        "onboard_time": 1676177011,
+        "rank": 0,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 1729375,
+        "num": 1729375,
+        "word": "Jessi来了还能播吗",
+        "onboard_time": 1676175449,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23717,
+        "num": 1375504,
+        "word": "中国空间站第一视角看地球转动",
+        "onboard_time": 1676118088,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148944,
+        "num": 1148944,
+        "word": "日本的LiSA",
+        "onboard_time": 1676177790,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 933561,
+        "num": 933561,
+        "word": "宋亚轩二专",
+        "onboard_time": 1676177071,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 852747,
+        "num": 852747,
+        "word": "王楚然 小说女主",
+        "onboard_time": 1676172931,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 826689,
+        "num": 826689,
+        "word": "朱珠产后带孩子进组拍戏",
+        "onboard_time": 1676176470,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 714212,
+        "num": 714212,
+        "word": "男子震后靠可乐坚持134小时获救",
+        "onboard_time": 1676172687,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685825,
+        "num": 685825,
+        "word": "央美准考证模版用肖战照片",
+        "onboard_time": 1676170648,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529718,
+        "num": 529718,
+        "word": "男子吐槽15万装修婚房不如出租屋",
+        "onboard_time": 1676166446,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931168,
+        "num": 528008,
+        "word": "男孩举手7次后身亡妈妈发文",
+        "onboard_time": 1676166867,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570505,
+        "num": 526977,
+        "word": "浪姐4 嘉宾名单",
+        "onboard_time": 1676168305,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472350,
+        "num": 472350,
+        "word": "金博洋太不容易了",
+        "onboard_time": 1676178092,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 457129,
+        "num": 457129,
+        "word": "重庆一对情侣蹦极倒挂滞留半空",
+        "onboard_time": 1676167467,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427965,
+        "num": 427965,
+        "word": "大理12岁双胞胎兄弟失联已8天",
+        "onboard_time": 1676171846,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419196,
+        "num": 419196,
+        "word": "专家称中国版ChatGPT难度更高",
+        "onboard_time": 1676174788,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 408385,
+        "num": 408385,
+        "word": "真的会有艾薇儿吗",
+        "onboard_time": 1676174308,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396655,
+        "num": 396655,
+        "word": "买房租房哪个更划算",
+        "onboard_time": 1676175207,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340914,
+        "num": 340914,
+        "word": "妈妈为女儿开3元理发店20年不涨价",
+        "onboard_time": 1676174248,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332515,
+        "num": 332515,
+        "word": "人民币贷款创历史新高",
+        "onboard_time": 1676171727,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 325747,
+        "num": 325747,
+        "word": "熬夜可能会导致大脑损伤提早",
+        "onboard_time": 1676169386,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318971,
+        "num": 318971,
+        "word": "吾乡有情人 孙千",
+        "onboard_time": 1676175568,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310092,
+        "num": 310092,
+        "word": "1894个账号借胡鑫宇事件造谣传谣被处置",
+        "onboard_time": 1676176349,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300526,
+        "num": 300526,
+        "word": "从此小说里的女主有脸了",
+        "onboard_time": 1676172027,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283734,
+        "num": 283734,
+        "word": "京考",
+        "onboard_time": 1676172750,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 261721,
+        "num": 261721,
+        "word": "土耳其7月大婴儿震后140小时获救",
+        "onboard_time": 1676174308,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241993,
+        "num": 241993,
+        "word": "鹿晗五哈渐变羽绒服上班路透",
+        "onboard_time": 1676173826,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239902,
+        "num": 239902,
+        "word": "叙大使称地震后5天西方未提供任何援助",
+        "onboard_time": 1676174968,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 232784,
+        "num": 232784,
+        "word": "阿凡达2进入影史票房榜前三",
+        "onboard_time": 1676176889,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228943,
+        "num": 228943,
+        "word": "天津地铁回应2男子打架波及小孩",
+        "onboard_time": 1676171664,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228639,
+        "num": 228639,
+        "word": "刘诗诗饭制证件照",
+        "onboard_time": 1676177306,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228638,
+        "num": 228638,
+        "word": "别对我动心主演 周也林一",
+        "onboard_time": 1676177790,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212578,
+        "num": 212578,
+        "word": "郑州小伙1年半花百万造飞机",
+        "onboard_time": 1676177971,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194888,
+        "num": 194888,
+        "word": "樊振东晒球衣庆祝皇马夺冠",
+        "onboard_time": 1676171786,
+        "rank": 33,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 187872,
+        "num": 187872,
+        "word": "缉毒民警韧带断裂忍痛追击吸毒者",
+        "onboard_time": 1676178449,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178637,
+        "num": 178637,
+        "word": "福建游神",
+        "onboard_time": 1676178330,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177469,
+        "num": 177469,
+        "word": "湖人vs勇士",
+        "onboard_time": 1676165727,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175249,
+        "num": 175249,
+        "word": "谷阿莫参选台独政党委员落选",
+        "onboard_time": 1676178511,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172962,
+        "num": 172962,
+        "word": "张颂文用自身经历激励从业者",
+        "onboard_time": 1676176950,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171711,
+        "num": 171711,
+        "word": "女大学生误入传销父亲冲进窝点解救",
+        "onboard_time": 1676165488,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1687478,
+        "num": 168012,
+        "word": "迪丽热巴婚纱大片",
+        "onboard_time": 1676173108,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154332,
+        "num": 154332,
+        "word": "龚俊大学时候的秘密",
+        "onboard_time": 1676163324,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154105,
+        "num": 154105,
+        "word": "长征路上最小的红军战士逝世",
+        "onboard_time": 1676178571,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141343,
+        "num": 141343,
+        "word": "金博洋滑完累倒在冰面",
+        "onboard_time": 1676178930,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141313,
+        "num": 141313,
+        "word": "含笑",
+        "onboard_time": 1676126610,
+        "rank": 44,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 138893,
+        "num": 138893,
+        "word": "言承旭说自己是第一代刘畊宏男孩",
+        "onboard_time": 1676169447,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136378,
+        "num": 136378,
+        "word": "拉塞尔回归湖人首秀",
+        "onboard_time": 1676175568,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134010,
+        "num": 134010,
+        "word": "詹姆斯脚伤恐将贯穿整个赛季",
+        "onboard_time": 1676164347,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127258,
+        "num": 127258,
+        "word": "梁朝伟拍打戏怕王一博受伤",
+        "onboard_time": 1676173826,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121281,
+        "num": 121281,
+        "word": "人鱼",
+        "onboard_time": 1676125952,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化创造人类文明新形态#"
+    }
+  }
+}

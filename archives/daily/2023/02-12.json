@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676176650845,
+  "endTime": 1676179026239,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -17,6 +17,14 @@
       "onboard_time": 1676162063,
       "rank": 0,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 3315216,
+      "num": 3315216,
+      "word": "2009年含笑吸毒被捕画面",
+      "onboard_time": 1676177011,
+      "rank": 0,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 3308185,
@@ -115,6 +123,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1148944,
+      "num": 1148944,
+      "word": "日本的LiSA",
+      "onboard_time": 1676177790,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1108052,
       "num": 1108052,
       "word": "男子吐槽15万装修婚房不如出租屋",
@@ -155,12 +171,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 933561,
+      "num": 933561,
+      "word": "宋亚轩二专",
+      "onboard_time": 1676177071,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 903150,
       "num": 903150,
       "word": "男子震后靠可乐坚持134小时获救",
       "onboard_time": 1676172687,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 826689,
+      "num": 826689,
+      "word": "朱珠产后带孩子进组拍戏",
+      "onboard_time": 1676176470,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 793373,
@@ -243,14 +275,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 586487,
-      "num": 586487,
-      "word": "朱珠产后带孩子进组拍戏",
-      "onboard_time": 1676176470,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 577942,
       "num": 577942,
       "word": "土耳其翻译说救援队像在救自己的人民",
@@ -289,6 +313,14 @@
       "onboard_time": 1676163324,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 472350,
+      "num": 472350,
+      "word": "金博洋太不容易了",
+      "onboard_time": 1676178092,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 471033,
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419196,
+      "num": 419196,
+      "word": "专家称中国版ChatGPT难度更高",
+      "onboard_time": 1676174788,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 412453,
       "num": 412453,
       "word": "于文文张天爱同游澳门义字街",
@@ -385,6 +425,14 @@
       "onboard_time": 1676174248,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396655,
+      "num": 396655,
+      "word": "买房租房哪个更划算",
+      "onboard_time": 1676175207,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 392054,
@@ -491,20 +539,12 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 316063,
-      "num": 316063,
-      "word": "专家称中国版ChatGPT难度更高",
-      "onboard_time": 1676174788,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 314757,
-      "num": 314757,
-      "word": "买房租房哪个更划算",
-      "onboard_time": 1676175207,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 310092,
+      "num": 310092,
+      "word": "1894个账号借胡鑫宇事件造谣传谣被处置",
+      "onboard_time": 1676176349,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304888,
@@ -683,6 +723,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 232784,
+      "num": 232784,
+      "word": "阿凡达2进入影史票房榜前三",
+      "onboard_time": 1676176889,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231604,
       "num": 231604,
       "word": "吴易昺首胜TOP10",
@@ -715,6 +763,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228639,
+      "num": 228639,
+      "word": "刘诗诗饭制证件照",
+      "onboard_time": 1676177306,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 228638,
+      "num": 228638,
+      "word": "别对我动心主演 周也林一",
+      "onboard_time": 1676177790,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228576,
       "num": 163227,
       "word": "高启强的B计划",
@@ -728,6 +792,14 @@
       "word": "多家快递回应站点派件延迟问题",
       "onboard_time": 1676168126,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212578,
+      "num": 212578,
+      "word": "郑州小伙1年半花百万造飞机",
+      "onboard_time": 1676177971,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -803,6 +875,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 187872,
+      "num": 187872,
+      "word": "缉毒民警韧带断裂忍痛追击吸毒者",
+      "onboard_time": 1676178449,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187278,
       "num": 187278,
       "word": "逛街偶遇刘耀文张真源严浩翔",
@@ -825,6 +905,14 @@
       "onboard_time": 1676176109,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178637,
+      "num": 178637,
+      "word": "福建游神",
+      "onboard_time": 1676178330,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 178431,
@@ -851,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175249,
+      "num": 175249,
+      "word": "谷阿莫参选台独政党委员落选",
+      "onboard_time": 1676178511,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175009,
       "num": 175009,
       "word": "重紫单人剧照",
@@ -865,6 +961,14 @@
       "onboard_time": 1676130393,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172962,
+      "num": 172962,
+      "word": "张颂文用自身经历激励从业者",
+      "onboard_time": 1676176950,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167228,
@@ -907,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157805,
-      "num": 157805,
-      "word": "1894个账号借胡鑫宇事件造谣传谣被处置",
-      "onboard_time": 1676176349,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157167,
       "num": 157167,
       "word": "龚俊檀健次的伞",
@@ -928,6 +1024,14 @@
       "word": "土耳其强震为该地区百年来最严重事件",
       "onboard_time": 1676160383,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154105,
+      "num": 154105,
+      "word": "长征路上最小的红军战士逝世",
+      "onboard_time": 1676178571,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -995,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141343,
+      "num": 141343,
+      "word": "金博洋滑完累倒在冰面",
+      "onboard_time": 1676178930,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140904,
       "num": 140904,
       "word": "YSKM发文感谢粉丝",
@@ -1011,20 +1123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136378,
+      "num": 136378,
+      "word": "拉塞尔回归湖人首秀",
+      "onboard_time": 1676175568,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134940,
       "num": 134940,
       "word": "虞书欣条纹毛衣半身裙造型",
       "onboard_time": 1676156595,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 134818,
-      "num": 134818,
-      "word": "拉塞尔回归湖人首秀",
-      "onboard_time": 1676175568,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 133539,
