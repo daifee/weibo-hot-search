@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676240229517,
+  "endTime": 1676241196026,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -27099,6 +27099,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 101555,
+      "num": 101555,
+      "word": "家人之间情绪稳定有多重要",
+      "onboard_time": 1676231532,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101128,
       "num": 101128,
       "word": "赵露思神隐捂嘴笑路透",
@@ -27361,14 +27369,6 @@
       "onboard_time": 1676226795,
       "rank": 10,
       "category": "幽默,旅游"
-    },
-    {
-      "raw_hot": 84115,
-      "num": 84115,
-      "word": "家人之间情绪稳定有多重要",
-      "onboard_time": 1676231532,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 83722,
@@ -27747,6 +27747,14 @@
       "category": "时尚,幽默"
     },
     {
+      "raw_hot": 51196,
+      "num": 51196,
+      "word": "郑钧骑行公里也要吉利数1788",
+      "onboard_time": 1676231891,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50072,
       "num": 50072,
       "word": "曼联2比0诺丁汉森林",
@@ -27769,14 +27777,6 @@
       "onboard_time": 1675207761,
       "rank": 49,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 49336,
-      "num": 49336,
-      "word": "郑钧骑行公里也要吉利数1788",
-      "onboard_time": 1676231891,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 49126,
@@ -27841,6 +27841,22 @@
       "onboard_time": 1675794734,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 45061,
+      "num": 45061,
+      "word": "农村老人为何不愿意进城养老",
+      "onboard_time": 1676240353,
+      "rank": 25,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 44179,
+      "num": 44179,
+      "word": "教授呼吁医保互助共济算长远帐",
+      "onboard_time": 1676228233,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43475,
@@ -27920,14 +27936,6 @@
       "word": "送你兔年的第一轮圆月",
       "onboard_time": 1675594832,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39750,
-      "num": 39750,
-      "word": "教授呼吁医保互助共济算长远帐",
-      "onboard_time": 1676228233,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
