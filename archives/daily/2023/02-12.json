@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676182937664,
+  "endTime": 1676183804325,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1540428,
+      "num": 1540428,
+      "word": "怎么还有papi酱",
+      "onboard_time": 1676180728,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1432811,
       "num": 1432811,
       "word": "重庆一对情侣蹦极倒挂滞留半空",
@@ -97,14 +105,6 @@
       "onboard_time": 1676165488,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1298262,
-      "num": 1298262,
-      "word": "怎么还有papi酱",
-      "onboard_time": 1676180728,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1258286,
@@ -131,20 +131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1162689,
+      "num": 1162689,
+      "word": "医生称大学生精子活力不如30岁男性",
+      "onboard_time": 1676180250,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1149463,
       "num": 1118114,
       "word": "多国学校禁止学生使用ChatGPT",
       "onboard_time": 1676166627,
       "rank": 18,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 1122721,
-      "num": 1122721,
-      "word": "医生称大学生精子活力不如30岁男性",
-      "onboard_time": 1676180250,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1108052,
@@ -177,6 +177,14 @@
       "onboard_time": 1676127571,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 948025,
+      "num": 948025,
+      "word": "人民网评狂飙演员曾涉毒",
+      "onboard_time": 1676181866,
+      "rank": 8,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 936340,
@@ -235,20 +243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 715591,
+      "num": 715591,
+      "word": "车保罗说赵樱子没人选不是剧本",
+      "onboard_time": 1676179950,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 708058,
       "num": 708058,
       "word": "三亚旅游发现拔白发服务一小时50元",
       "onboard_time": 1676128653,
       "rank": 5,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 692618,
-      "num": 692618,
-      "word": "车保罗说赵樱子没人选不是剧本",
-      "onboard_time": 1676179950,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 688891,
@@ -259,20 +267,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 681934,
+      "num": 681934,
+      "word": "二百者也",
+      "onboard_time": 1676179711,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 674765,
       "num": 674765,
       "word": "入职1小时被HR告知招错人补偿50元",
       "onboard_time": 1676113765,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 672293,
-      "num": 672293,
-      "word": "二百者也",
-      "onboard_time": 1676179711,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 637397,
@@ -289,14 +297,6 @@
       "onboard_time": 1676121930,
       "rank": 7,
       "category": "影视,社会新闻"
-    },
-    {
-      "raw_hot": 629433,
-      "num": 629433,
-      "word": "人民网评狂飙演员曾涉毒",
-      "onboard_time": 1676181866,
-      "rank": 8,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 614398,
@@ -323,8 +323,8 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 583914,
-      "num": 583914,
+      "raw_hot": 585067,
+      "num": 585067,
       "word": "乘客称航班飞行时多次下坠引尖叫",
       "onboard_time": 1676180489,
       "rank": 9,
@@ -587,6 +587,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 328649,
+      "num": 328649,
+      "word": "婴儿被困107小时得救吮吸护士手指",
+      "onboard_time": 1676183068,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328421,
       "num": 328421,
       "word": "刺杀小说家上映2周年",
@@ -771,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255413,
+      "num": 255413,
+      "word": "缉毒警察的付出与涉毒艺人的复出",
+      "onboard_time": 1676182769,
+      "rank": 37,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 251891,
       "num": 251891,
       "word": "湖人战胜勇士",
@@ -923,6 +939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209691,
+      "num": 209691,
+      "word": "满江红",
+      "onboard_time": 1676180970,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209080,
       "num": 209080,
       "word": "张元英翻跳PinkVenom视频",
@@ -1019,12 +1043,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 188316,
-      "num": 188316,
-      "word": "满江红",
-      "onboard_time": 1676180970,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 188942,
+      "num": 188942,
+      "word": "东契奇欧文合体",
+      "onboard_time": 1676182229,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 187872,
@@ -1051,11 +1075,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185152,
+      "num": 185152,
+      "word": "王鹤棣西装造型手拿咖啡上班路透",
+      "onboard_time": 1676182290,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181691,
       "num": 181691,
       "word": "于正说李奕臻适合做顶楼接班人",
       "onboard_time": 1676176109,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 181098,
+      "num": 181098,
+      "word": "显微镜下的大明",
+      "onboard_time": 1676182290,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -1073,14 +1113,6 @@
       "onboard_time": 1676117306,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176959,
-      "num": 176959,
-      "word": "王鹤棣西装造型手拿咖啡上班路透",
-      "onboard_time": 1676182290,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 176378,
@@ -1107,14 +1139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173896,
-      "num": 173896,
-      "word": "显微镜下的大明",
-      "onboard_time": 1676182290,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 172962,
       "num": 172962,
       "word": "张颂文用自身经历激励从业者",
@@ -1129,14 +1153,6 @@
       "onboard_time": 1676132608,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166989,
-      "num": 166989,
-      "word": "缉毒警察的付出与涉毒艺人的复出",
-      "onboard_time": 1676182769,
-      "rank": 37,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 166590,
@@ -1171,12 +1187,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158741,
-      "num": 158741,
-      "word": "东契奇欧文合体",
-      "onboard_time": 1676182229,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 157778,
+      "num": 157778,
+      "word": "土耳其数名儿童被困超130小时后获救",
+      "onboard_time": 1676183549,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157167,
@@ -1201,6 +1217,14 @@
       "onboard_time": 1676133148,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152842,
+      "num": 152842,
+      "word": "南宁房贷年龄期限可延长至80岁",
+      "onboard_time": 1676183429,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152140,
@@ -1275,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137415,
+      "num": 137415,
+      "word": "交警狂飙开道送断掌女子就医",
+      "onboard_time": 1676183308,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136753,
       "num": 136753,
       "word": "中国奇谭收官",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1676120129,
       "rank": 42,
       "category": "影视,旅游"
+    },
+    {
+      "raw_hot": 125726,
+      "num": 125726,
+      "word": "井柏然说兰花慢慢再开",
+      "onboard_time": 1676183668,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 118742,
