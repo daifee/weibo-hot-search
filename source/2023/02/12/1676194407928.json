@@ -1,0 +1,410 @@
+{
+  "runTime": 1676194407928,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2358008,
+        "num": 2358008,
+        "word": "微信头像褪色",
+        "onboard_time": 1676189249,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1413910,
+        "num": 1413910,
+        "word": "茶颜悦色仍有门店要求排队取餐",
+        "onboard_time": 1676187748,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76506,
+        "num": 1073998,
+        "word": "土耳其震后救灾现场的中国身影",
+        "onboard_time": 1676193989,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1546208,
+        "num": 1052516,
+        "word": "杨紫卷发",
+        "onboard_time": 1676191650,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 974552,
+        "num": 974552,
+        "word": "papi酱 我怎么不知道",
+        "onboard_time": 1676186789,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 893711,
+        "num": 893711,
+        "word": "北京房山2.8级地震",
+        "onboard_time": 1676192790,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741124,
+        "num": 741124,
+        "word": "好像中奖了可惜奖过期了",
+        "onboard_time": 1676189971,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 661757,
+        "num": 661757,
+        "word": "汪小菲寸头",
+        "onboard_time": 1676189069,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567475,
+        "num": 567475,
+        "word": "kpop出圈名场面",
+        "onboard_time": 1676190928,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 506247,
+        "num": 506247,
+        "word": "苹果闹钟",
+        "onboard_time": 1676187329,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 624131,
+        "num": 502052,
+        "word": "售楼部回应小区池子形似卫生巾",
+        "onboard_time": 1676193089,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496355,
+        "num": 496355,
+        "word": "边牧绝育后站医院门口撒尿报复",
+        "onboard_time": 1676191231,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480395,
+        "num": 480395,
+        "word": "上海奶奶逛展时看到50年前的自己",
+        "onboard_time": 1676189730,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467866,
+        "num": 467866,
+        "word": "怎么还有papi酱",
+        "onboard_time": 1676180728,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421565,
+        "num": 421565,
+        "word": "日本的LiSA",
+        "onboard_time": 1676177790,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376392,
+        "num": 376392,
+        "word": "何广智没谈过恋爱但初吻可能没了",
+        "onboard_time": 1676193930,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352569,
+        "num": 352569,
+        "word": "Jessi来了还能播吗",
+        "onboard_time": 1676175449,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346999,
+        "num": 346999,
+        "word": "医生称大学生精子活力不如30岁男性",
+        "onboard_time": 1676180250,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342117,
+        "num": 342117,
+        "word": "如果真的有曾沛慈",
+        "onboard_time": 1676184150,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340204,
+        "num": 340204,
+        "word": "超市刀具被栅栏封锁购买需联系员工",
+        "onboard_time": 1676190631,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862500,
+        "num": 339463,
+        "word": "男子进男厕发现里面有3名女子",
+        "onboard_time": 1676187928,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318968,
+        "num": 318968,
+        "word": "二百者也",
+        "onboard_time": 1676179711,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 302355,
+        "num": 302355,
+        "word": "吴彤美颜镜头下的宋亚轩",
+        "onboard_time": 1676190692,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286559,
+        "num": 286559,
+        "word": "我国进入长寿时代",
+        "onboard_time": 1676192432,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261382,
+        "num": 261382,
+        "word": "你会选择80岁仍要还房贷吗",
+        "onboard_time": 1676191830,
+        "rank": 24,
+        "category": "社会议题,财经"
+      },
+      {
+        "raw_hot": 253699,
+        "num": 253699,
+        "word": "种地吧",
+        "onboard_time": 1676193210,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248969,
+        "num": 248969,
+        "word": "车保罗说赵樱子没人选不是剧本",
+        "onboard_time": 1676179950,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248287,
+        "num": 248287,
+        "word": "央美准考证模版用肖战照片",
+        "onboard_time": 1676170648,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227817,
+        "num": 227817,
+        "word": "女子婚礼跪谢姑母姑父改口喊爸妈",
+        "onboard_time": 1676193692,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224455,
+        "num": 224455,
+        "word": "婴儿被困107小时得救吮吸护士手指",
+        "onboard_time": 1676183068,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224424,
+        "num": 224424,
+        "word": "周杰伦问今年又出歌是不是会吓坏",
+        "onboard_time": 1676187628,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218810,
+        "num": 218810,
+        "word": "王楚然 小说女主",
+        "onboard_time": 1676172931,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204915,
+        "num": 204915,
+        "word": "高启强这个角色为何如此出圈",
+        "onboard_time": 1676186485,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204512,
+        "num": 204512,
+        "word": "土耳其男子被救出后惦念被埋妻子",
+        "onboard_time": 1676189849,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177388,
+        "num": 177388,
+        "word": "乘客称航班飞行时多次下坠引尖叫",
+        "onboard_time": 1676180489,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385066,
+        "num": 175195,
+        "word": "人民网评狂飙演员曾涉毒",
+        "onboard_time": 1676181866,
+        "rank": 35,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 170641,
+        "num": 170641,
+        "word": "宋亚轩二专",
+        "onboard_time": 1676177071,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165689,
+        "num": 165689,
+        "word": "周润发参加香港马拉松10公里赛",
+        "onboard_time": 1676186668,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 164161,
+        "num": 164161,
+        "word": "相差10岁的童瑶张新成演情侣了",
+        "onboard_time": 1676180369,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164102,
+        "num": 164102,
+        "word": "男孩举手7次后身亡妈妈发文",
+        "onboard_time": 1676166867,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161171,
+        "num": 161171,
+        "word": "姐姐放弃考研捐骨髓救17岁妹妹",
+        "onboard_time": 1676194109,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153565,
+        "num": 153565,
+        "word": "虞书欣白色露背蓬蓬裙拍摄路透",
+        "onboard_time": 1676185768,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147651,
+        "num": 147651,
+        "word": "南宁房贷年龄期限可延长至80岁",
+        "onboard_time": 1676183429,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144585,
+        "num": 144585,
+        "word": "浪姐4 嘉宾名单",
+        "onboard_time": 1676168305,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136356,
+        "num": 136356,
+        "word": "绑架原县委书记嫌犯仍在逃",
+        "onboard_time": 1676185468,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131289,
+        "num": 131289,
+        "word": "TTG两连胜",
+        "onboard_time": 1676191650,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15749,
+        "num": 125950,
+        "word": "中国空间站第一视角看地球转动",
+        "onboard_time": 1676118088,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125419,
+        "num": 125419,
+        "word": "不然曜好细节",
+        "onboard_time": 1676192371,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122528,
+        "num": 122528,
+        "word": "部队的驾驶员技术有多猛",
+        "onboard_time": 1676191409,
+        "rank": 48,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 116797,
+        "num": 116797,
+        "word": "满江红有两个秦桧",
+        "onboard_time": 1676186128,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移推动高质量发展#"
+    }
+  }
+}
