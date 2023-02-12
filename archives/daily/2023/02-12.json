@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676206315503,
+  "endTime": 1676208127659,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1816194,
+      "num": 1816194,
+      "word": "多人身体绑藏100斤牛肚入境被查",
+      "onboard_time": 1676203231,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1810599,
       "num": 1348968,
       "word": "杨紫卷发",
@@ -147,12 +155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1501900,
-      "num": 1501900,
-      "word": "多人身体绑藏100斤牛肚入境被查",
-      "onboard_time": 1676203231,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 1610707,
+      "num": 1610707,
+      "word": "官方准备击落山东海域不明飞行物",
+      "onboard_time": 1676205871,
+      "rank": 15,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 1432811,
@@ -227,6 +235,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1133473,
+      "num": 1133473,
+      "word": "吴磊赵今麦 能不能边拍边播",
+      "onboard_time": 1676205095,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1108052,
       "num": 1108052,
       "word": "男子吐槽15万装修婚房不如出租屋",
@@ -257,14 +273,6 @@
       "onboard_time": 1676202092,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1038501,
-      "num": 1038501,
-      "word": "吴磊赵今麦 能不能边拍边播",
-      "onboard_time": 1676205095,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 1034327,
@@ -363,12 +371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 852515,
+      "num": 852515,
+      "word": "武契奇称塞尔维亚可能将对俄实施制裁",
+      "onboard_time": 1676203592,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 841296,
       "num": 620023,
       "word": "如果真的有曾沛慈",
       "onboard_time": 1676184150,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 829975,
+      "num": 829975,
+      "word": "刘敏涛身材",
+      "onboard_time": 1676205031,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 826689,
@@ -409,14 +433,6 @@
       "onboard_time": 1676171846,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 748507,
-      "num": 748507,
-      "word": "武契奇称塞尔维亚可能将对俄实施制裁",
-      "onboard_time": 1676203592,
-      "rank": 11,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 741124,
@@ -595,11 +611,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 545459,
-      "num": 545459,
-      "word": "刘敏涛身材",
-      "onboard_time": 1676205031,
-      "rank": 35,
+      "raw_hot": 540799,
+      "num": 540799,
+      "word": "露思 笑中带泪",
+      "onboard_time": 1676205333,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -723,14 +739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 454903,
-      "num": 454903,
-      "word": "官方准备击落山东海域不明飞行物",
-      "onboard_time": 1676205871,
-      "rank": 15,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 454869,
       "num": 431284,
       "word": "詹姆斯脚伤恐将贯穿整个赛季",
@@ -849,14 +857,6 @@
       "onboard_time": 1676190692,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 392738,
-      "num": 392738,
-      "word": "露思 笑中带泪",
-      "onboard_time": 1676205333,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 392054,
@@ -1051,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323819,
+      "num": 323819,
+      "word": "澳门明代已经在接外贸单了",
+      "onboard_time": 1676207306,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321731,
       "num": 321731,
       "word": "流浪地球既视感的哈尔滨清雪车",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1676200470,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318876,
+      "num": 318876,
+      "word": "他们的种地技巧已经熟练得不像艺人了",
+      "onboard_time": 1676204133,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 313976,
@@ -1235,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268303,
+      "num": 268303,
+      "word": "EDG战胜BLG",
+      "onboard_time": 1676207254,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 265379,
       "num": 265379,
       "word": "樊振东晒球衣庆祝皇马夺冠",
@@ -1249,14 +1273,6 @@
       "onboard_time": 1676178511,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262997,
-      "num": 262997,
-      "word": "他们的种地技巧已经熟练得不像艺人了",
-      "onboard_time": 1676204133,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 261782,
@@ -1337,6 +1353,14 @@
       "onboard_time": 1676166388,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246592,
+      "num": 246592,
+      "word": "彭冠英说要给宁至谦好好上上课",
+      "onboard_time": 1676207374,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 246538,
@@ -1675,6 +1699,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186382,
+      "num": 186382,
+      "word": "林诗栋4比0奥恰洛夫",
+      "onboard_time": 1676204971,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186145,
+      "num": 186145,
+      "word": "典籍里的中国齐民要术",
+      "onboard_time": 1676206954,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185900,
       "num": 185900,
       "word": "小虎辛德拉",
@@ -1721,14 +1761,6 @@
       "onboard_time": 1676197649,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 179021,
-      "num": 179021,
-      "word": "林诗栋4比0奥恰洛夫",
-      "onboard_time": 1676204971,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 178431,
@@ -1939,6 +1971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150367,
+      "num": 150367,
+      "word": "原来1400多年前就有炒鸡蛋",
+      "onboard_time": 1676208093,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 148403,
       "num": 148403,
       "word": "吕亚童不认可官方调查结果",
@@ -2089,6 +2129,14 @@
       "onboard_time": 1676161944,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130644,
+      "num": 1633306,
+      "word": "中国救援人员加油保重",
+      "onboard_time": 1676206715,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 130135,

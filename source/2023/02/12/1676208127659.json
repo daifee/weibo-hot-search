@@ -1,0 +1,410 @@
+{
+  "runTime": 1676208127659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1876356,
+        "num": 1876356,
+        "word": "山东海域发现不明飞行物",
+        "onboard_time": 1676198250,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1816194,
+        "num": 1816194,
+        "word": "多人身体绑藏100斤牛肚入境被查",
+        "onboard_time": 1676203231,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130644,
+        "num": 1633306,
+        "word": "中国救援人员加油保重",
+        "onboard_time": 1676206715,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1610707,
+        "num": 1610707,
+        "word": "官方准备击落山东海域不明飞行物",
+        "onboard_time": 1676205871,
+        "rank": 3,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 1190989,
+        "num": 1190989,
+        "word": "安欣老公渣得离谱",
+        "onboard_time": 1676196872,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1133473,
+        "num": 1133473,
+        "word": "吴磊赵今麦 能不能边拍边播",
+        "onboard_time": 1676205095,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 963577,
+        "num": 963577,
+        "word": "杨紫卷发",
+        "onboard_time": 1676191650,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 883368,
+        "num": 883368,
+        "word": "哇唧唧哇新人原野撞脸龚俊",
+        "onboard_time": 1676202092,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 852515,
+        "num": 852515,
+        "word": "武契奇称塞尔维亚可能将对俄实施制裁",
+        "onboard_time": 1676203592,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 829975,
+        "num": 829975,
+        "word": "刘敏涛身材",
+        "onboard_time": 1676205031,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 740100,
+        "num": 740100,
+        "word": "嘎子哥直播间1999元手机1880能买到",
+        "onboard_time": 1676195251,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 680072,
+        "num": 680072,
+        "word": "熙妃回宫",
+        "onboard_time": 1676203170,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633196,
+        "num": 633196,
+        "word": "微信头像褪色",
+        "onboard_time": 1676189249,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 540799,
+        "num": 540799,
+        "word": "露思 笑中带泪",
+        "onboard_time": 1676205333,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535880,
+        "num": 535880,
+        "word": "吴磊赵今麦芬兰雪地随拍",
+        "onboard_time": 1676203711,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522739,
+        "num": 522739,
+        "word": "姐弟俩仿冒论文期刊四年牟利1800多万",
+        "onboard_time": 1676199752,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 457901,
+        "num": 457901,
+        "word": "茶颜悦色仍有门店要求排队取餐",
+        "onboard_time": 1676187748,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405183,
+        "num": 405183,
+        "word": "售楼部回应小区池子形似卫生巾",
+        "onboard_time": 1676193089,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381409,
+        "num": 381409,
+        "word": "流浪地球2成中国影史票房榜第10名",
+        "onboard_time": 1676198669,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376854,
+        "num": 376854,
+        "word": "年轻时候的黄磊",
+        "onboard_time": 1676205452,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323819,
+        "num": 323819,
+        "word": "澳门明代已经在接外贸单了",
+        "onboard_time": 1676207306,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322541,
+        "num": 322541,
+        "word": "关晓彤马甲线",
+        "onboard_time": 1676197171,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318876,
+        "num": 318876,
+        "word": "他们的种地技巧已经熟练得不像艺人了",
+        "onboard_time": 1676204133,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316815,
+        "num": 316815,
+        "word": "北京近期发生4级以上地震可能性不大",
+        "onboard_time": 1676200770,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316035,
+        "num": 316035,
+        "word": "罗云熙粉丝给白鹿手写道歉信",
+        "onboard_time": 1676203352,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311000,
+        "num": 311000,
+        "word": "男子进男厕发现里面有3名女子",
+        "onboard_time": 1676187928,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308032,
+        "num": 308032,
+        "word": "女子智齿位置奇特目测要背井离乡",
+        "onboard_time": 1676198850,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295782,
+        "num": 295782,
+        "word": "高启盛走路",
+        "onboard_time": 1676197231,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281302,
+        "num": 281302,
+        "word": "渤海",
+        "onboard_time": 1676199034,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 272830,
+        "num": 272830,
+        "word": "女生买的二手书里夹了400块后续",
+        "onboard_time": 1676197111,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268303,
+        "num": 268303,
+        "word": "EDG战胜BLG",
+        "onboard_time": 1676207254,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256955,
+        "num": 256955,
+        "word": "奶奶的微信群聊",
+        "onboard_time": 1676203651,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246592,
+        "num": 246592,
+        "word": "彭冠英说要给宁至谦好好上上课",
+        "onboard_time": 1676207374,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236868,
+        "num": 236868,
+        "word": "女子婚礼跪谢姑母姑父改口喊爸妈",
+        "onboard_time": 1676193692,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229611,
+        "num": 229611,
+        "word": "微信回应头像褪色",
+        "onboard_time": 1676195553,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 226932,
+        "num": 226932,
+        "word": "转发这个李飞",
+        "onboard_time": 1676199452,
+        "rank": 35,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 216963,
+        "num": 216963,
+        "word": "闵熙珍或将成SMTOWN新理事",
+        "onboard_time": 1676199330,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210309,
+        "num": 210309,
+        "word": "曾沛慈说很想去浪姐4但没收到通知",
+        "onboard_time": 1676195793,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186382,
+        "num": 186382,
+        "word": "林诗栋4比0奥恰洛夫",
+        "onboard_time": 1676204971,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186145,
+        "num": 186145,
+        "word": "典籍里的中国齐民要术",
+        "onboard_time": 1676206954,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180873,
+        "num": 180873,
+        "word": "张若昀演技",
+        "onboard_time": 1676196091,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176147,
+        "num": 176147,
+        "word": "苹果闹钟",
+        "onboard_time": 1676187329,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 168853,
+        "num": 168853,
+        "word": "汪小菲寸头",
+        "onboard_time": 1676189069,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167577,
+        "num": 167577,
+        "word": "BLG对战EDG",
+        "onboard_time": 1676201610,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167520,
+        "num": 167520,
+        "word": "姐姐放弃考研捐骨髓救17岁妹妹",
+        "onboard_time": 1676194109,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158901,
+        "num": 158901,
+        "word": "怎么还有papi酱",
+        "onboard_time": 1676180728,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156813,
+        "num": 156813,
+        "word": "我才不要和你做朋友呢",
+        "onboard_time": 1676197051,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154918,
+        "num": 154918,
+        "word": "林书豪中国台湾联赛首秀",
+        "onboard_time": 1676200470,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152751,
+        "num": 152751,
+        "word": "上海奶奶逛展时看到50年前的自己",
+        "onboard_time": 1676189730,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150367,
+        "num": 150367,
+        "word": "原来1400多年前就有炒鸡蛋",
+        "onboard_time": 1676208093,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化创造人类文明新形态#"
+    }
+  }
+}
