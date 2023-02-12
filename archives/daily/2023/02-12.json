@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676191004017,
+  "endTime": 1676193450200,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2294265,
+      "num": 2294265,
+      "word": "微信头像褪色",
+      "onboard_time": 1676189249,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2041658,
       "num": 2041658,
       "word": "男孩举手7次后身亡妈妈发文",
@@ -83,20 +91,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1810599,
+      "num": 1295496,
+      "word": "杨紫卷发",
+      "onboard_time": 1676191650,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1718612,
       "num": 1718612,
       "word": "茶颜悦色仍有门店要求排队取餐",
       "onboard_time": 1676187748,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1708476,
-      "num": 1708476,
-      "word": "微信头像褪色",
-      "onboard_time": 1676189249,
-      "rank": 5,
-      "category": "科技"
     },
     {
       "raw_hot": 1671151,
@@ -315,6 +323,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 700197,
+      "num": 700197,
+      "word": "北京房山2.8级地震",
+      "onboard_time": 1676192790,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699324,
+      "num": 699324,
+      "word": "好像中奖了可惜奖过期了",
+      "onboard_time": 1676189971,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 688891,
       "num": 688891,
       "word": "相差10岁的童瑶张新成演情侣了",
@@ -411,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 552033,
+      "num": 552033,
+      "word": "kpop出圈名场面",
+      "onboard_time": 1676190928,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 538535,
       "num": 538535,
       "word": "鹿晗献唱中国乒乓主题曲",
@@ -433,6 +465,14 @@
       "onboard_time": 1676158939,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 505758,
+      "num": 505758,
+      "word": "上海奶奶逛展时看到50年前的自己",
+      "onboard_time": 1676189730,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486076,
@@ -499,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 447200,
+      "num": 447200,
+      "word": "边牧绝育后站医院门口撒尿报复",
+      "onboard_time": 1676191231,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438943,
       "num": 438943,
       "word": "水牛记手机壳",
@@ -512,14 +560,6 @@
       "word": "这样做远离阿尔茨海默病",
       "onboard_time": 1676164587,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 420316,
-      "num": 420316,
-      "word": "上海奶奶逛展时看到50年前的自己",
-      "onboard_time": 1676189730,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -659,14 +699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 362274,
-      "num": 362274,
-      "word": "好像中奖了可惜奖过期了",
-      "onboard_time": 1676189971,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 356983,
       "num": 356983,
       "word": "哇唧唧哇新人路演",
@@ -729,6 +761,14 @@
       "onboard_time": 1676170226,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326357,
+      "num": 326357,
+      "word": "超市刀具被栅栏封锁购买需联系员工",
+      "onboard_time": 1676190631,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321731,
@@ -931,14 +971,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 252264,
-      "num": 252264,
-      "word": "kpop出圈名场面",
-      "onboard_time": 1676190928,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 251891,
       "num": 251891,
       "word": "湖人战胜勇士",
@@ -963,6 +995,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 249435,
+      "num": 249435,
+      "word": "种地吧",
+      "onboard_time": 1676193210,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248243,
       "num": 248243,
       "word": "谷爱凌参观勇士训练",
@@ -977,6 +1017,14 @@
       "onboard_time": 1676185588,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 245982,
+      "num": 245982,
+      "word": "你会选择80岁仍要还房贷吗",
+      "onboard_time": 1676191830,
+      "rank": 27,
+      "category": "社会议题,财经"
     },
     {
       "raw_hot": 242942,
@@ -1139,12 +1187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200347,
+      "num": 200347,
+      "word": "土耳其男子被救出后惦念被埋妻子",
+      "onboard_time": 1676189849,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198704,
       "num": 198704,
       "word": "宋昕冉生日公演",
       "onboard_time": 1676129014,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195664,
+      "num": 195664,
+      "word": "我国进入长寿时代",
+      "onboard_time": 1676192432,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195356,
@@ -1275,14 +1339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181519,
-      "num": 181519,
-      "word": "土耳其男子被救出后惦念被埋妻子",
-      "onboard_time": 1676189849,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181098,
       "num": 181098,
       "word": "显微镜下的大明",
@@ -1304,6 +1360,14 @@
       "word": "19岁男孩常忘事患上阿尔茨海默病",
       "onboard_time": 1676117306,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176958,
+      "num": 176958,
+      "word": "售楼部回应小区池子形似卫生巾",
+      "onboard_time": 1676193089,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1369,6 +1433,14 @@
       "onboard_time": 1676173108,
       "rank": 36,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 166491,
+      "num": 166491,
+      "word": "TTG两连胜",
+      "onboard_time": 1676191650,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 164951,
@@ -1459,12 +1531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148334,
-      "num": 148334,
-      "word": "超市刀具被栅栏封锁购买需联系员工",
-      "onboard_time": 1676190631,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 148397,
+      "num": 148397,
+      "word": "不然曜好细节",
+      "onboard_time": 1676192371,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 145736,
@@ -1507,6 +1579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140708,
+      "num": 140708,
+      "word": "部队的驾驶员技术有多猛",
+      "onboard_time": 1676191409,
+      "rank": 44,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 140156,
       "num": 140156,
       "word": "杨九郎说自己是超燃家族团拉",
@@ -1521,6 +1601,14 @@
       "onboard_time": 1676165126,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137735,
+      "num": 137735,
+      "word": "TTG对战RNGM",
+      "onboard_time": 1676191650,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 137415,

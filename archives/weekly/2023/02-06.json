@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676191004017,
+  "endTime": 1676193450200,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2294265,
+      "num": 2294265,
+      "word": "微信头像褪色",
+      "onboard_time": 1676189249,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2267638,
       "num": 2267638,
       "word": "西安不倒翁小姐姐回应生娃面容憔悴",
@@ -643,6 +651,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1810599,
+      "num": 1295496,
+      "word": "杨紫卷发",
+      "onboard_time": 1676191650,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1804674,
       "num": 1804674,
       "word": "宋宁峰向张婉婷求婚",
@@ -753,14 +769,6 @@
       "onboard_time": 1676187748,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1708476,
-      "num": 1708476,
-      "word": "微信头像褪色",
-      "onboard_time": 1676189249,
-      "rank": 5,
-      "category": "科技"
     },
     {
       "raw_hot": 1705200,
@@ -3475,6 +3483,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 700197,
+      "num": 700197,
+      "word": "北京房山2.8级地震",
+      "onboard_time": 1676192790,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699324,
+      "num": 699324,
+      "word": "好像中奖了可惜奖过期了",
+      "onboard_time": 1676189971,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 697971,
       "num": 697971,
       "word": "言承旭吐烟圈",
@@ -4747,6 +4771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 552033,
+      "num": 552033,
+      "word": "kpop出圈名场面",
+      "onboard_time": 1676190928,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 550559,
       "num": 510709,
       "word": "孙怡希望以新身份参加再见爱人",
@@ -5297,6 +5329,14 @@
       "onboard_time": 1676105906,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 505758,
+      "num": 505758,
+      "word": "上海奶奶逛展时看到50年前的自己",
+      "onboard_time": 1676189730,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505445,
@@ -5931,6 +5971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 447200,
+      "num": 447200,
+      "word": "边牧绝育后站医院门口撒尿报复",
+      "onboard_time": 1676191231,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446790,
       "num": 446790,
       "word": "中国政府决定向土叙提供紧急援助",
@@ -6369,14 +6417,6 @@
       "onboard_time": 1675952856,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 420316,
-      "num": 420316,
-      "word": "上海奶奶逛展时看到50年前的自己",
-      "onboard_time": 1676189730,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 420137,
@@ -7371,14 +7411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362274,
-      "num": 362274,
-      "word": "好像中奖了可惜奖过期了",
-      "onboard_time": 1676189971,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 361511,
       "num": 361511,
       "word": "强震已致土叙两国超2.3万人遇难",
@@ -8049,6 +8081,14 @@
       "onboard_time": 1675762830,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 326357,
+      "num": 326357,
+      "word": "超市刀具被栅栏封锁购买需联系员工",
+      "onboard_time": 1676190631,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326150,
@@ -10179,14 +10219,6 @@
       "category": "幽默,音乐"
     },
     {
-      "raw_hot": 252264,
-      "num": 252264,
-      "word": "kpop出圈名场面",
-      "onboard_time": 1676190928,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 252194,
       "num": 252194,
       "word": "张颂文机场和粉丝挥手再见",
@@ -10385,6 +10417,14 @@
       "onboard_time": 1675689507,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245982,
+      "num": 245982,
+      "word": "你会选择80岁仍要还房贷吗",
+      "onboard_time": 1676191830,
+      "rank": 27,
+      "category": "社会议题,财经"
     },
     {
       "raw_hot": 245981,
@@ -11923,6 +11963,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 200347,
+      "num": 200347,
+      "word": "土耳其男子被救出后惦念被埋妻子",
+      "onboard_time": 1676189849,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200141,
       "num": 200141,
       "word": "刘宇宁寻一个你收藏人数破250万",
@@ -12113,6 +12161,14 @@
       "onboard_time": 1675686691,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195664,
+      "num": 195664,
+      "word": "我国进入长寿时代",
+      "onboard_time": 1676192432,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195629,
@@ -12803,14 +12859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181519,
-      "num": 181519,
-      "word": "土耳其男子被救出后惦念被埋妻子",
-      "onboard_time": 1676189849,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181505,
       "num": 181505,
       "word": "言承旭宣传方式",
@@ -13025,6 +13073,14 @@
       "onboard_time": 1676037871,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176958,
+      "num": 176958,
+      "word": "售楼部回应小区池子形似卫生巾",
+      "onboard_time": 1676193089,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176757,
@@ -13537,6 +13593,14 @@
       "onboard_time": 1675904126,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166491,
+      "num": 166491,
+      "word": "TTG两连胜",
+      "onboard_time": 1676191650,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 166438,
@@ -14195,12 +14259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148334,
-      "num": 148334,
-      "word": "超市刀具被栅栏封锁购买需联系员工",
-      "onboard_time": 1676190631,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 148397,
+      "num": 148397,
+      "word": "不然曜好细节",
+      "onboard_time": 1676192371,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 148175,
@@ -14379,6 +14443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140708,
+      "num": 140708,
+      "word": "部队的驾驶员技术有多猛",
+      "onboard_time": 1676191409,
+      "rank": 44,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 140601,
       "num": 140601,
       "word": "哪一刻你觉得知识很重要",
@@ -14473,6 +14545,14 @@
       "onboard_time": 1675856791,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137735,
+      "num": 137735,
+      "word": "TTG对战RNGM",
+      "onboard_time": 1676191650,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 137415,
