@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676205235758,
+  "endTime": 1676206315503,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -43,8 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2409256,
-      "num": 2409256,
+      "raw_hot": 2441359,
+      "num": 2441359,
       "word": "山东海域发现不明飞行物",
       "onboard_time": 1676198250,
       "rank": 3,
@@ -147,19 +147,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1501900,
+      "num": 1501900,
+      "word": "多人身体绑藏100斤牛肚入境被查",
+      "onboard_time": 1676203231,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1432811,
       "num": 1432811,
       "word": "重庆一对情侣蹦极倒挂滞留半空",
       "onboard_time": 1676167467,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1419609,
-      "num": 1419609,
-      "word": "多人身体绑藏100斤牛肚入境被查",
-      "onboard_time": 1676203231,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -251,6 +251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1042635,
+      "num": 1042635,
+      "word": "哇唧唧哇新人原野撞脸龚俊",
+      "onboard_time": 1676202092,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1038501,
+      "num": 1038501,
+      "word": "吴磊赵今麦 能不能边拍边播",
+      "onboard_time": 1676205095,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1034327,
       "num": 1034327,
       "word": "人民网评狂飙演员曾涉毒",
@@ -281,14 +297,6 @@
       "onboard_time": 1676127571,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 982761,
-      "num": 982761,
-      "word": "哇唧唧哇新人原野撞脸龚俊",
-      "onboard_time": 1676202092,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 970689,
@@ -401,6 +409,14 @@
       "onboard_time": 1676171846,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 748507,
+      "num": 748507,
+      "word": "武契奇称塞尔维亚可能将对俄实施制裁",
+      "onboard_time": 1676203592,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 741124,
@@ -523,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 624202,
-      "num": 624202,
-      "word": "武契奇称塞尔维亚可能将对俄实施制裁",
-      "onboard_time": 1676203592,
-      "rank": 11,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 614398,
       "num": 614398,
       "word": "7旬老人输液瓶内现絮状物后抢救",
@@ -587,6 +595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 545459,
+      "num": 545459,
+      "word": "刘敏涛身材",
+      "onboard_time": 1676205031,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 538535,
       "num": 538535,
       "word": "鹿晗献唱中国乒乓主题曲",
@@ -617,14 +633,6 @@
       "onboard_time": 1676198850,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510747,
-      "num": 510747,
-      "word": "吴磊赵今麦 能不能边拍边播",
-      "onboard_time": 1676205095,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 510304,
@@ -660,7 +668,7 @@
     },
     {
       "raw_hot": 481985,
-      "num": 393494,
+      "num": 395200,
       "word": "罗云熙粉丝给白鹿手写道歉信",
       "onboard_time": 1676203352,
       "rank": 20,
@@ -713,6 +721,14 @@
       "onboard_time": 1676169447,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 454903,
+      "num": 454903,
+      "word": "官方准备击落山东海域不明飞行物",
+      "onboard_time": 1676205871,
+      "rank": 15,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 454869,
@@ -779,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407494,
+      "num": 407494,
+      "word": "年轻时候的黄磊",
+      "onboard_time": 1676205452,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405951,
       "num": 405951,
       "word": "于正说肖战还不火啥叫火",
@@ -811,8 +835,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 395509,
-      "num": 395509,
+      "raw_hot": 395824,
+      "num": 395824,
       "word": "北京近期发生4级以上地震可能性不大",
       "onboard_time": 1676200770,
       "rank": 45,
@@ -825,6 +849,14 @@
       "onboard_time": 1676190692,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 392738,
+      "num": 392738,
+      "word": "露思 笑中带泪",
+      "onboard_time": 1676205333,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 392054,
@@ -1219,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262997,
+      "num": 262997,
+      "word": "他们的种地技巧已经熟练得不像艺人了",
+      "onboard_time": 1676204133,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261782,
       "num": 261782,
       "word": "IVE新歌NotYourGirl",
@@ -1345,6 +1385,14 @@
       "onboard_time": 1676123370,
       "rank": 24,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 233060,
+      "num": 233060,
+      "word": "BLG对战EDG",
+      "onboard_time": 1676201610,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 232784,
@@ -1513,14 +1561,6 @@
       "onboard_time": 1676129014,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197142,
-      "num": 197142,
-      "word": "刘敏涛身材",
-      "onboard_time": 1676205031,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 195356,
@@ -1803,11 +1843,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162796,
-      "num": 162796,
-      "word": "他们的种地技巧已经熟练得不像艺人了",
-      "onboard_time": 1676204133,
-      "rank": 43,
+      "raw_hot": 163828,
+      "num": 163828,
+      "word": "尬到抠脚趾的选秀综艺",
+      "onboard_time": 1676205031,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1867,28 +1907,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156451,
-      "num": 156451,
-      "word": "BLG对战EDG",
-      "onboard_time": 1676201610,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 155623,
       "num": 155623,
       "word": "WB战胜VG",
       "onboard_time": 1676199150,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 155203,
-      "num": 155203,
-      "word": "尬到抠脚趾的选秀综艺",
-      "onboard_time": 1676205031,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 153122,

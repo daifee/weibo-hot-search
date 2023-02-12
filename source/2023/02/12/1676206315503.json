@@ -1,0 +1,410 @@
+{
+  "runTime": 1676206315503,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2441359,
+        "num": 2441359,
+        "word": "山东海域发现不明飞行物",
+        "onboard_time": 1676198250,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1501900,
+        "num": 1501900,
+        "word": "多人身体绑藏100斤牛肚入境被查",
+        "onboard_time": 1676203231,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159970,
+        "num": 1422796,
+        "word": "土耳其震后救灾现场的中国身影",
+        "onboard_time": 1676193989,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1412083,
+        "num": 1412083,
+        "word": "安欣老公渣得离谱",
+        "onboard_time": 1676196872,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1042635,
+        "num": 1042635,
+        "word": "哇唧唧哇新人原野撞脸龚俊",
+        "onboard_time": 1676202092,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1038501,
+        "num": 1038501,
+        "word": "吴磊赵今麦 能不能边拍边播",
+        "onboard_time": 1676205095,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 906599,
+        "num": 906599,
+        "word": "杨紫卷发",
+        "onboard_time": 1676191650,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 906229,
+        "num": 906229,
+        "word": "嘎子哥直播间1999元手机1880能买到",
+        "onboard_time": 1676195251,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 882443,
+        "num": 882443,
+        "word": "姐弟俩仿冒论文期刊四年牟利1800多万",
+        "onboard_time": 1676199752,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 865688,
+        "num": 865688,
+        "word": "熙妃回宫",
+        "onboard_time": 1676203170,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 860787,
+        "num": 860787,
+        "word": "吴磊赵今麦芬兰雪地随拍",
+        "onboard_time": 1676203711,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 748507,
+        "num": 748507,
+        "word": "武契奇称塞尔维亚可能将对俄实施制裁",
+        "onboard_time": 1676203592,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 677729,
+        "num": 677729,
+        "word": "微信头像褪色",
+        "onboard_time": 1676189249,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 545459,
+        "num": 545459,
+        "word": "刘敏涛身材",
+        "onboard_time": 1676205031,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 495965,
+        "num": 495965,
+        "word": "茶颜悦色仍有门店要求排队取餐",
+        "onboard_time": 1676187748,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454903,
+        "num": 454903,
+        "word": "官方准备击落山东海域不明飞行物",
+        "onboard_time": 1676205871,
+        "rank": 15,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 448943,
+        "num": 448943,
+        "word": "流浪地球2成中国影史票房榜第10名",
+        "onboard_time": 1676198669,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418731,
+        "num": 418731,
+        "word": "售楼部回应小区池子形似卫生巾",
+        "onboard_time": 1676193089,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407494,
+        "num": 407494,
+        "word": "年轻时候的黄磊",
+        "onboard_time": 1676205452,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395824,
+        "num": 395824,
+        "word": "北京近期发生4级以上地震可能性不大",
+        "onboard_time": 1676200770,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443155,
+        "num": 395200,
+        "word": "罗云熙粉丝给白鹿手写道歉信",
+        "onboard_time": 1676203352,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394104,
+        "num": 394104,
+        "word": "渤海",
+        "onboard_time": 1676199034,
+        "rank": 21,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 392738,
+        "num": 392738,
+        "word": "露思 笑中带泪",
+        "onboard_time": 1676205333,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392306,
+        "num": 392306,
+        "word": "女子智齿位置奇特目测要背井离乡",
+        "onboard_time": 1676198850,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364091,
+        "num": 364091,
+        "word": "高启盛走路",
+        "onboard_time": 1676197231,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355019,
+        "num": 355019,
+        "word": "男子进男厕发现里面有3名女子",
+        "onboard_time": 1676187928,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350426,
+        "num": 350426,
+        "word": "关晓彤马甲线",
+        "onboard_time": 1676197171,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297428,
+        "num": 297428,
+        "word": "奶奶的微信群聊",
+        "onboard_time": 1676203651,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294097,
+        "num": 294097,
+        "word": "闵熙珍或将成SMTOWN新理事",
+        "onboard_time": 1676199330,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272062,
+        "num": 272062,
+        "word": "女生买的二手书里夹了400块后续",
+        "onboard_time": 1676197111,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266340,
+        "num": 266340,
+        "word": "林书豪中国台湾联赛首秀",
+        "onboard_time": 1676200470,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262997,
+        "num": 262997,
+        "word": "他们的种地技巧已经熟练得不像艺人了",
+        "onboard_time": 1676204133,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258125,
+        "num": 258125,
+        "word": "转发这个李飞",
+        "onboard_time": 1676199452,
+        "rank": 32,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 257116,
+        "num": 257116,
+        "word": "女子婚礼跪谢姑母姑父改口喊爸妈",
+        "onboard_time": 1676193692,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233060,
+        "num": 233060,
+        "word": "BLG对战EDG",
+        "onboard_time": 1676201610,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227073,
+        "num": 227073,
+        "word": "怎么还有papi酱",
+        "onboard_time": 1676180728,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213759,
+        "num": 213759,
+        "word": "微信回应头像褪色",
+        "onboard_time": 1676195553,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 192734,
+        "num": 192734,
+        "word": "RNG战胜WE",
+        "onboard_time": 1676202629,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188249,
+        "num": 188249,
+        "word": "我才不要和你做朋友呢",
+        "onboard_time": 1676197051,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184913,
+        "num": 184913,
+        "word": "王楚然说想给阮流筝擦眼泪",
+        "onboard_time": 1676198369,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183858,
+        "num": 183858,
+        "word": "上海奶奶逛展时看到50年前的自己",
+        "onboard_time": 1676189730,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183740,
+        "num": 183740,
+        "word": "苹果闹钟",
+        "onboard_time": 1676187329,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 180282,
+        "num": 180282,
+        "word": "曾沛慈说很想去浪姐4但没收到通知",
+        "onboard_time": 1676195793,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163965,
+        "num": 163965,
+        "word": "姐姐放弃考研捐骨髓救17岁妹妹",
+        "onboard_time": 1676194109,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163828,
+        "num": 163828,
+        "word": "尬到抠脚趾的选秀综艺",
+        "onboard_time": 1676205031,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162078,
+        "num": 162078,
+        "word": "张若昀演技",
+        "onboard_time": 1676196091,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155706,
+        "num": 155706,
+        "word": "我国进入长寿时代",
+        "onboard_time": 1676192432,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152085,
+        "num": 152085,
+        "word": "你知道澳门有22处世界遗产历史建筑吗",
+        "onboard_time": 1676201669,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151611,
+        "num": 151611,
+        "word": "汪小菲寸头",
+        "onboard_time": 1676189069,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142905,
+        "num": 142905,
+        "word": "新疆草莓音乐节",
+        "onboard_time": 1676199991,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化走得通行得稳#"
+    }
+  }
+}
