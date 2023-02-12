@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676223215884,
+  "endTime": 1676226116696,
   "band_list": [
     {
       "raw_hot": 2111971,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131731,
+      "num": 131731,
+      "word": "老人沉迷玩手机怎么办",
+      "onboard_time": 1676224457,
+      "rank": 9,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 131204,
       "num": 131204,
       "word": "他们的种地技巧已经熟练得不像艺人了",
@@ -427,6 +435,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 90508,
+      "num": 90508,
+      "word": "刘宇宁特效视频",
+      "onboard_time": 1676224996,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87265,
       "num": 87265,
       "word": "聋哑夫妇的我爱你",
@@ -449,6 +465,14 @@
       "onboard_time": 1676197171,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38981,
+      "num": 38981,
+      "word": "敖子逸精准解读嗷嗷嗷",
+      "onboard_time": 1676223498,
+      "rank": 46,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
