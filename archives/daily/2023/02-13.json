@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676230392877,
+  "endTime": 1676233153561,
   "band_list": [
     {
       "raw_hot": 2111971,
@@ -475,6 +475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44328,
+      "num": 44328,
+      "word": "郑钧骑行公里也要吉利数1788",
+      "onboard_time": 1676231891,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 39750,
+      "num": 39750,
+      "word": "教授呼吁医保互助共济算长远帐",
+      "onboard_time": 1676228233,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38981,
       "num": 38981,
       "word": "敖子逸精准解读嗷嗷嗷",
@@ -483,12 +499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29409,
-      "num": 29409,
-      "word": "教授呼吁医保互助共济算长远帐",
-      "onboard_time": 1676228233,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 38821,
+      "num": 38821,
+      "word": "吴宣仪高至霆你好星期六金牌投资人",
+      "onboard_time": 1676231591,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 32825,
+      "num": 32825,
+      "word": "家人之间情绪稳定有多重要",
+      "onboard_time": 1676231532,
+      "rank": 20,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
