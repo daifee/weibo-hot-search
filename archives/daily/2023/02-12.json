@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676170748319,
+  "endTime": 1676172140186,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -43,19 +43,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1432811,
+      "num": 1432811,
+      "word": "重庆一对情侣蹦极倒挂滞留半空",
+      "onboard_time": 1676167467,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1396571,
       "num": 1396571,
       "word": "女大学生误入传销父亲冲进窝点解救",
       "onboard_time": 1676165488,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1341300,
-      "num": 1341300,
-      "word": "重庆一对情侣蹦极倒挂滞留半空",
-      "onboard_time": 1676167467,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1100964,
+      "num": 1100964,
+      "word": "央美准考证模版用肖战照片",
+      "onboard_time": 1676170648,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1034276,
       "num": 1034276,
       "word": "可能被ChatGPT取代的10大职业",
@@ -97,6 +105,22 @@
       "onboard_time": 1676127571,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 955151,
+      "num": 955151,
+      "word": "熬夜可能会导致大脑损伤提早",
+      "onboard_time": 1676169386,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806544,
+      "num": 806544,
+      "word": "狂飙王秘书也不是演的",
+      "onboard_time": 1676171246,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 732493,
@@ -155,20 +179,20 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 595791,
-      "num": 595791,
-      "word": "熬夜可能会导致大脑损伤提早",
-      "onboard_time": 1676169386,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 577942,
       "num": 577942,
       "word": "土耳其翻译说救援队像在救自己的人民",
       "onboard_time": 1676129014,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 538535,
+      "num": 538535,
+      "word": "鹿晗献唱中国乒乓主题曲",
+      "onboard_time": 1676170648,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 510304,
@@ -201,6 +225,14 @@
       "onboard_time": 1676160802,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 457038,
+      "num": 457038,
+      "word": "律师谈男孩举手7次后身亡校方责任",
+      "onboard_time": 1676170348,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455917,
@@ -299,16 +331,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 342040,
-      "num": 342040,
-      "word": "鹿晗献唱中国乒乓主题曲",
-      "onboard_time": 1676170648,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 340371,
-      "num": 340371,
+      "raw_hot": 344295,
+      "num": 344295,
       "word": "海恩贤圭贴脸搂肩合照",
       "onboard_time": 1676169087,
       "rank": 17,
@@ -323,20 +347,20 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 328421,
+      "num": 328421,
+      "word": "刺杀小说家上映2周年",
+      "onboard_time": 1676170226,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 321731,
       "num": 321731,
       "word": "流浪地球既视感的哈尔滨清雪车",
       "onboard_time": 1676167648,
       "rank": 16,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 313946,
-      "num": 313946,
-      "word": "刺杀小说家上映2周年",
-      "onboard_time": 1676170226,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 304888,
@@ -361,6 +385,14 @@
       "onboard_time": 1676164347,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292215,
+      "num": 292215,
+      "word": "林孝埈B组第一",
+      "onboard_time": 1676169447,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 292024,
@@ -403,28 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265056,
-      "num": 265056,
-      "word": "林孝埈B组第一",
-      "onboard_time": 1676169447,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 261782,
       "num": 261782,
       "word": "IVE新歌NotYourGirl",
       "onboard_time": 1676129014,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 261484,
-      "num": 261484,
-      "word": "央美准考证模版用肖战照片",
-      "onboard_time": 1676170648,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 260430,
@@ -571,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192632,
-      "num": 192632,
-      "word": "律师谈男孩举手7次后身亡校方责任",
-      "onboard_time": 1676170348,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191828,
       "num": 163160,
       "word": "土耳其地震为啥这么严重",
@@ -627,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181137,
+      "num": 181137,
+      "word": "天津地铁回应2男子打架波及小孩",
+      "onboard_time": 1676171664,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178431,
       "num": 178431,
       "word": "范世錡向刘耀文传授演戏经验",
@@ -665,6 +681,30 @@
       "onboard_time": 1676130393,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173698,
+      "num": 173698,
+      "word": "大理12岁双胞胎兄弟失联已8天",
+      "onboard_time": 1676171846,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173325,
+      "num": 173325,
+      "word": "人民币贷款创历史新高",
+      "onboard_time": 1676171727,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 172438,
+      "num": 172438,
+      "word": "从此小说里的女主有脸了",
+      "onboard_time": 1676172027,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 167228,
@@ -739,6 +779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148737,
+      "num": 148737,
+      "word": "官方通报网传拆迁人员持械与村民冲突",
+      "onboard_time": 1676171967,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148403,
       "num": 148403,
       "word": "吕亚童不认可官方调查结果",
@@ -779,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140904,
+      "num": 140904,
+      "word": "YSKM发文感谢粉丝",
+      "onboard_time": 1676171488,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138819,
       "num": 138819,
       "word": "种地吧崩溃又搞笑的瞬间",
@@ -793,6 +849,14 @@
       "onboard_time": 1676156595,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134573,
+      "num": 134573,
+      "word": "樊振东晒球衣庆祝皇马夺冠",
+      "onboard_time": 1676171786,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 133539,
@@ -948,7 +1012,7 @@
     },
     {
       "raw_hot": 50047,
-      "num": 1527735,
+      "num": 1534321,
       "word": "2023春耕进行时",
       "onboard_time": 1676125775,
       "rank": 2,
