@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676212413967,
+  "endTime": 1676215096669,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -369,6 +369,14 @@
       "onboard_time": 1675557084,
       "rank": 0,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 2848239,
+      "num": 2848239,
+      "word": "林孝埈500米两连冠",
+      "onboard_time": 1676214158,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2840239,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1676125952,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1925667,
+      "num": 1925667,
+      "word": "张大大 许愿池的王八",
+      "onboard_time": 1676211096,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1921973,
@@ -2195,6 +2211,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1324133,
+      "num": 1324133,
+      "word": "王楚然好漂亮",
+      "onboard_time": 1676211997,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1312225,
       "num": 1312225,
       "word": "苗苗谈恋爱前把郑恺所有采访都看了一遍",
@@ -2456,14 +2480,6 @@
       "word": "杨幂工作室回应广告被下刊传言",
       "onboard_time": 1675327835,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1228983,
-      "num": 1228983,
-      "word": "张大大 许愿池的王八",
-      "onboard_time": 1676211096,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -6715,6 +6731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 674387,
+      "num": 674387,
+      "word": "唐嫣宋亚轩唱有何不可路透",
+      "onboard_time": 1676214518,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 674247,
       "num": 674247,
       "word": "00后平均期望薪资超7K",
@@ -8427,6 +8451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 558771,
+      "num": 558771,
+      "word": "小狗其实什么都知道",
+      "onboard_time": 1676212954,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 558534,
       "num": 508080,
       "word": "邓超回复草图君你演个球",
@@ -9457,6 +9489,14 @@
       "onboard_time": 1675703299,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511065,
+      "num": 511065,
+      "word": "听说你喜欢我",
+      "onboard_time": 1676038953,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 510860,
@@ -10569,6 +10609,14 @@
       "onboard_time": 1676169447,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 455761,
+      "num": 455761,
+      "word": "梅德韦杰夫预言欧洲将彻底消失",
+      "onboard_time": 1676214035,
+      "rank": 17,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 455170,
@@ -13227,14 +13275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 363061,
-      "num": 363061,
-      "word": "王楚然好漂亮",
-      "onboard_time": 1676211997,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 361702,
       "num": 361702,
       "word": "女子宝娟嗓20年疑似癔症",
@@ -13441,14 +13481,6 @@
       "onboard_time": 1675844612,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 355334,
-      "num": 355334,
-      "word": "听说你喜欢我",
-      "onboard_time": 1676038953,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 355297,
@@ -17243,6 +17275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269056,
+      "num": 269056,
+      "word": "张萌说彭冠英是新婚之夜鸽子王",
+      "onboard_time": 1676212117,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 268981,
       "num": 268981,
       "word": "土耳其全国哀悼7天",
@@ -19419,6 +19459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228870,
+      "num": 228870,
+      "word": "WBG春季赛首周冠军",
+      "onboard_time": 1676214275,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228793,
       "num": 228793,
       "word": "排便从未如此通畅过",
@@ -20425,6 +20473,14 @@
       "onboard_time": 1675424549,
       "rank": 27,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 210824,
+      "num": 210824,
+      "word": "张元英演唱会直拍",
+      "onboard_time": 1676213853,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 210781,
@@ -22160,14 +22216,6 @@
       "word": "于和伟问这牛够不够吹十年",
       "onboard_time": 1675873585,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 186970,
-      "num": 186970,
-      "word": "张萌说彭冠英是新婚之夜鸽子王",
-      "onboard_time": 1676212117,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -24188,7 +24236,7 @@
     },
     {
       "raw_hot": 164602,
-      "num": 1741690,
+      "num": 2023134,
       "word": "中国救援人员加油保重",
       "onboard_time": 1676206715,
       "rank": 2,
@@ -24289,6 +24337,14 @@
       "onboard_time": 1675579887,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163337,
+      "num": 163337,
+      "word": "这个家不能没有小狗",
+      "onboard_time": 1676214993,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 163242,
@@ -25601,6 +25657,14 @@
       "onboard_time": 1675206919,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 140410,
+      "num": 140410,
+      "word": "沈月晒黑西装红领带对镜自拍",
+      "onboard_time": 1676213373,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 140370,
