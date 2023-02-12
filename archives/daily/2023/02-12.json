@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676172949677,
+  "endTime": 1676175749793,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -19,6 +19,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 3308185,
+      "num": 3308185,
+      "word": "迪丽热巴婚纱大片",
+      "onboard_time": 1676173108,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2347478,
       "num": 2347478,
       "word": "浪姐4 嘉宾名单",
@@ -35,19 +43,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1864912,
+      "num": 1530162,
+      "word": "狂飙王秘书也不是演的",
+      "onboard_time": 1676171246,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1671151,
       "num": 1671151,
       "word": "人鱼",
       "onboard_time": 1676125952,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1530162,
-      "num": 1530162,
-      "word": "狂飙王秘书也不是演的",
-      "onboard_time": 1676171246,
-      "rank": 8,
       "category": "影视"
     },
     {
@@ -65,6 +73,14 @@
       "onboard_time": 1676165488,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1258286,
+      "num": 1258286,
+      "word": "王楚然 小说女主",
+      "onboard_time": 1676172931,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 1255316,
@@ -123,6 +139,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 936340,
+      "num": 936340,
+      "word": "含笑 飞天",
+      "onboard_time": 1676173706,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 850553,
+      "num": 850553,
+      "word": "男子震后靠可乐坚持134小时获救",
+      "onboard_time": 1676172687,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 793373,
+      "num": 793373,
+      "word": "真的会有艾薇儿吗",
+      "onboard_time": 1676174308,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 754153,
+      "num": 754153,
+      "word": "大理12岁双胞胎兄弟失联已8天",
+      "onboard_time": 1676171846,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732493,
       "num": 732493,
       "word": "货车侧翻7吨臭豆腐横撒高速",
@@ -139,12 +187,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 679697,
+      "num": 679697,
+      "word": "Jessi来了还能播吗",
+      "onboard_time": 1676175449,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 674765,
       "num": 674765,
       "word": "入职1小时被HR告知招错人补偿50元",
       "onboard_time": 1676113765,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637397,
+      "num": 637397,
+      "word": "人民币贷款创历史新高",
+      "onboard_time": 1676171727,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 637248,
@@ -179,14 +243,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 602240,
-      "num": 500052,
-      "word": "大理12岁双胞胎兄弟失联已8天",
-      "onboard_time": 1676171846,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 577942,
       "num": 577942,
       "word": "土耳其翻译说救援队像在救自己的人民",
@@ -203,7 +259,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 520955,
+      "raw_hot": 522231,
       "num": 520955,
       "word": "从此小说里的女主有脸了",
       "onboard_time": 1676172027,
@@ -241,6 +297,14 @@
       "onboard_time": 1676160802,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 465855,
+      "num": 465855,
+      "word": "京考",
+      "onboard_time": 1676172750,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 457038,
@@ -291,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408463,
+      "num": 408463,
+      "word": "天津地铁回应2男子打架波及小孩",
+      "onboard_time": 1676171664,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405951,
       "num": 405951,
       "word": "于正说肖战还不火啥叫火",
@@ -339,12 +411,20 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 373470,
-      "num": 373470,
-      "word": "人民币贷款创历史新高",
-      "onboard_time": 1676171727,
-      "rank": 35,
-      "category": "财经"
+      "raw_hot": 366222,
+      "num": 366222,
+      "word": "妈妈为女儿开3元理发店20年不涨价",
+      "onboard_time": 1676174248,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355958,
+      "num": 355958,
+      "word": "土耳其7月大婴儿震后140小时获救",
+      "onboard_time": 1676174308,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349423,
@@ -387,12 +467,12 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 310701,
-      "num": 310701,
-      "word": "天津地铁回应2男子打架波及小孩",
-      "onboard_time": 1676171664,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 318254,
+      "num": 318254,
+      "word": "湖人vs勇士",
+      "onboard_time": 1676165727,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 304888,
@@ -409,6 +489,14 @@
       "onboard_time": 1676155514,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302503,
+      "num": 302503,
+      "word": "鹿晗五哈渐变羽绒服上班路透",
+      "onboard_time": 1676173826,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 300624,
@@ -459,12 +547,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274530,
+      "num": 274530,
+      "word": "梁朝伟拍打戏怕王一博受伤",
+      "onboard_time": 1676173826,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271174,
       "num": 271174,
       "word": "95后女孩学习14年传承非遗通草花",
       "onboard_time": 1676154312,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265379,
+      "num": 265379,
+      "word": "樊振东晒球衣庆祝皇马夺冠",
+      "onboard_time": 1676171786,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 261782,
@@ -539,14 +643,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 234379,
-      "num": 234379,
-      "word": "京考",
-      "onboard_time": 1676172750,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 231604,
       "num": 231604,
       "word": "吴易昺首胜TOP10",
@@ -587,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214192,
+      "num": 214192,
+      "word": "吾乡有情人 孙千",
+      "onboard_time": 1676175568,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213545,
       "num": 213545,
       "word": "多家快递回应站点派件延迟问题",
@@ -611,12 +715,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205322,
-      "num": 205322,
-      "word": "湖人vs勇士",
-      "onboard_time": 1676165727,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 200868,
+      "num": 200868,
+      "word": "叙大使称地震后5天西方未提供任何援助",
+      "onboard_time": 1676174968,
+      "rank": 31,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 198704,
@@ -691,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179578,
+      "num": 179578,
+      "word": "专家称中国版ChatGPT难度更高",
+      "onboard_time": 1676174788,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 178431,
       "num": 178431,
       "word": "范世錡向刘耀文传授演戏经验",
@@ -739,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166590,
+      "num": 166590,
+      "word": "芭莎情人节",
+      "onboard_time": 1676173108,
+      "rank": 36,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 164951,
       "num": 164951,
       "word": "程耳王一博二搭电影人鱼",
@@ -761,14 +881,6 @@
       "onboard_time": 1676158338,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159080,
-      "num": 159080,
-      "word": "男子震后靠可乐坚持134小时获救",
-      "onboard_time": 1676172687,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157167,
@@ -859,12 +971,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 140403,
-      "num": 140403,
-      "word": "王楚然 小说女主",
-      "onboard_time": 1676172931,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 139376,
+      "num": 139376,
+      "word": "买房租房哪个更划算",
+      "onboard_time": 1676175207,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 138819,
@@ -883,12 +995,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 134573,
-      "num": 134573,
-      "word": "樊振东晒球衣庆祝皇马夺冠",
-      "onboard_time": 1676171786,
-      "rank": 49,
-      "category": "体育,社会新闻"
+      "raw_hot": 134818,
+      "num": 134818,
+      "word": "拉塞尔回归湖人首秀",
+      "onboard_time": 1676175568,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 133539,
@@ -1051,7 +1163,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6204,
+      "raw_hot": 41214,
       "num": 1598396,
       "word": "中国空间站第一视角看地球转动",
       "onboard_time": 1676118088,
