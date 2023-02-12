@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676187222568,
+  "endTime": 1676190157618,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -40,6 +40,14 @@
       "word": "怎么还有papi酱",
       "onboard_time": 1676180728,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2399163,
+      "num": 2399163,
+      "word": "papi酱 我怎么不知道",
+      "onboard_time": 1676186789,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -89,6 +97,14 @@
       "onboard_time": 1676177790,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1571466,
+      "num": 1571466,
+      "word": "茶颜悦色仍有门店要求排队取餐",
+      "onboard_time": 1676187748,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1432811,
@@ -155,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1069083,
-      "num": 1069083,
-      "word": "papi酱 我怎么不知道",
-      "onboard_time": 1676186789,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1067773,
       "num": 1067773,
       "word": "熬夜可能会导致大脑损伤提早",
@@ -187,12 +195,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 1025390,
+      "num": 299942,
+      "word": "男子进男厕发现里面有3名女子",
+      "onboard_time": 1676187928,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 988918,
       "num": 988918,
       "word": "李一桐郭晓婷当群演一天赚了288",
       "onboard_time": 1676127571,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 938523,
+      "num": 938523,
+      "word": "苹果闹钟",
+      "onboard_time": 1676187329,
+      "rank": 4,
+      "category": "科技"
     },
     {
       "raw_hot": 936340,
@@ -209,6 +233,14 @@
       "onboard_time": 1676177071,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 924329,
+      "num": 924329,
+      "word": "微信头像褪色",
+      "onboard_time": 1676189249,
+      "rank": 5,
+      "category": "科技"
     },
     {
       "raw_hot": 903150,
@@ -273,6 +305,14 @@
       "onboard_time": 1676128653,
       "rank": 5,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 699763,
+      "num": 699763,
+      "word": "汪小菲寸头",
+      "onboard_time": 1676189069,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 688891,
@@ -635,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 337010,
+      "num": 337010,
+      "word": "周润发参加香港马拉松10公里赛",
+      "onboard_time": 1676186668,
+      "rank": 21,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 333886,
       "num": 333886,
       "word": "你只管踩油门剩下的交给我们",
@@ -657,14 +705,6 @@
       "onboard_time": 1676170226,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 326435,
-      "num": 326435,
-      "word": "周润发参加香港马拉松10公里赛",
-      "onboard_time": 1676186668,
-      "rank": 21,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 321731,
@@ -729,6 +769,14 @@
       "onboard_time": 1676164347,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300347,
+      "num": 300347,
+      "word": "周杰伦问今年又出歌是不是会吓坏",
+      "onboard_time": 1676187628,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 292215,
@@ -1091,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192778,
+      "num": 192778,
+      "word": "清清蒙恬好猛",
+      "onboard_time": 1676189189,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192566,
       "num": 192566,
       "word": "中国救援人员保护好自己",
@@ -1187,6 +1243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181519,
+      "num": 181519,
+      "word": "土耳其男子被救出后惦念被埋妻子",
+      "onboard_time": 1676189849,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181098,
       "num": 181098,
       "word": "显微镜下的大明",
@@ -1239,6 +1303,14 @@
       "num": 173986,
       "word": "才知道交通卡这么有趣",
       "onboard_time": 1676130393,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173579,
+      "num": 173579,
+      "word": "上海奶奶逛展时看到50年前的自己",
+      "onboard_time": 1676189730,
       "rank": 34,
       "category": "社会新闻"
     },
@@ -1307,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156759,
+      "num": 156759,
+      "word": "战士麟羽轩回来了",
+      "onboard_time": 1676187266,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156646,
       "num": 156646,
       "word": "土耳其强震为该地区百年来最严重事件",
@@ -1371,6 +1451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141896,
+      "num": 141896,
+      "word": "好像中奖了可惜奖过期了",
+      "onboard_time": 1676189971,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141372,
       "num": 141372,
       "word": "被困138小时获救老人亲吻救援人员的手",
@@ -1385,6 +1473,22 @@
       "onboard_time": 1676171488,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140156,
+      "num": 140156,
+      "word": "杨九郎说自己是超燃家族团拉",
+      "onboard_time": 1676189668,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138967,
+      "num": 138967,
+      "word": "他生前说只是研制了几枚火箭而已",
+      "onboard_time": 1676189249,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138819,
@@ -1465,6 +1569,14 @@
       "onboard_time": 1676116469,
       "rank": 41,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 128706,
+      "num": 128706,
+      "word": "DK对战HLE",
+      "onboard_time": 1676188348,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 126325,
