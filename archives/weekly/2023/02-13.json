@@ -1,0 +1,411 @@
+{
+  "startTime": 1676219066879,
+  "endTime": 1676219066879,
+  "band_list": [
+    {
+      "raw_hot": 2111971,
+      "num": 2111971,
+      "word": "官方准备击落山东海域不明飞行物",
+      "onboard_time": 1676205871,
+      "rank": 0,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 1214351,
+      "num": 1214351,
+      "word": "林孝埈庆祝动作",
+      "onboard_time": 1676215412,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1070164,
+      "num": 1070164,
+      "word": "70岁阿姨微信被封哭诉会孤独终老",
+      "onboard_time": 1676208814,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 830820,
+      "num": 830820,
+      "word": "林孝埈500米两连冠",
+      "onboard_time": 1676214158,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 781781,
+      "num": 781781,
+      "word": "王楚然好漂亮",
+      "onboard_time": 1676211997,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 731817,
+      "num": 731817,
+      "word": "张大大 许愿池的王八",
+      "onboard_time": 1676211096,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 679721,
+      "num": 679721,
+      "word": "多人身体绑藏100斤牛肚入境被查",
+      "onboard_time": 1676203231,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606839,
+      "num": 606839,
+      "word": "泰国人有多爱王嘉尔",
+      "onboard_time": 1676215173,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 559755,
+      "num": 512443,
+      "word": "谢娜半永久猫眼妆教程vlog",
+      "onboard_time": 1676215716,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 523061,
+      "num": 523061,
+      "word": "升降火锅",
+      "onboard_time": 1676215116,
+      "rank": 9,
+      "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 493615,
+      "num": 493615,
+      "word": "梅德韦杰夫预言欧洲将彻底消失",
+      "onboard_time": 1676214035,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 379562,
+      "num": 379562,
+      "word": "山东海域发现不明飞行物",
+      "onboard_time": 1676198250,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376469,
+      "num": 376469,
+      "word": "小狗其实什么都知道",
+      "onboard_time": 1676212954,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 344803,
+      "num": 344803,
+      "word": "微信头像褪色",
+      "onboard_time": 1676189249,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 330741,
+      "num": 330741,
+      "word": "刘敏涛身材",
+      "onboard_time": 1676205031,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 326411,
+      "num": 326411,
+      "word": "一次性拖鞋是这样穿的吗",
+      "onboard_time": 1676216132,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 318867,
+      "num": 318867,
+      "word": "唐嫣宋亚轩唱有何不可路透",
+      "onboard_time": 1676214518,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 305290,
+      "num": 305290,
+      "word": "吴磊赵今麦 能不能边拍边播",
+      "onboard_time": 1676205095,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 302878,
+      "num": 302878,
+      "word": "张萌说彭冠英是新婚之夜鸽子王",
+      "onboard_time": 1676212117,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 282008,
+      "num": 272791,
+      "word": "听说你喜欢我",
+      "onboard_time": 1676211936,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 273185,
+      "num": 273185,
+      "word": "去西安知道吃什么了",
+      "onboard_time": 1676215773,
+      "rank": 20,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 270349,
+      "num": 270349,
+      "word": "嘎子哥直播间1999元手机1880能买到",
+      "onboard_time": 1676195251,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 257987,
+      "num": 257987,
+      "word": "短道速滑世界杯",
+      "onboard_time": 1676207855,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251716,
+      "num": 251716,
+      "word": "哇唧唧哇新人原野撞脸龚俊",
+      "onboard_time": 1676202092,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 235416,
+      "num": 235416,
+      "word": "武契奇称塞尔维亚可能将对俄实施制裁",
+      "onboard_time": 1676203592,
+      "rank": 25,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 225269,
+      "num": 225269,
+      "word": "杨紫卷发",
+      "onboard_time": 1676191650,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 221743,
+      "num": 221743,
+      "word": "魔咒",
+      "onboard_time": 1676218166,
+      "rank": 27,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 219396,
+      "num": 219396,
+      "word": "姐弟俩仿冒论文期刊四年牟利1800多万",
+      "onboard_time": 1676199752,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 215520,
+      "num": 215520,
+      "word": "Gemini今天不是毒奶",
+      "onboard_time": 1676218166,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 212064,
+      "num": 212064,
+      "word": "高启盛走路",
+      "onboard_time": 1676197231,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 194287,
+      "num": 194287,
+      "word": "微信回应头像褪色",
+      "onboard_time": 1676195553,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 190626,
+      "num": 190626,
+      "word": "夫胜宽朴志效MOMO舞蹈挑战",
+      "onboard_time": 1676217388,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184569,
+      "num": 184569,
+      "word": "流浪地球2成中国影史票房榜第10名",
+      "onboard_time": 1676198669,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 176633,
+      "num": 176633,
+      "word": "渤海",
+      "onboard_time": 1676199034,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 174617,
+      "num": 174617,
+      "word": "露思 笑中带泪",
+      "onboard_time": 1676205333,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 169806,
+      "num": 169806,
+      "word": "吴磊赵今麦芬兰雪地随拍",
+      "onboard_time": 1676203711,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 157024,
+      "num": 157024,
+      "word": "2023亚洲杯将于2024年进行",
+      "onboard_time": 1676210436,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150529,
+      "num": 150529,
+      "word": "售楼部回应小区池子形似卫生巾",
+      "onboard_time": 1676193089,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147668,
+      "num": 147668,
+      "word": "女生买的二手书里夹了400块后续",
+      "onboard_time": 1676197111,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141922,
+      "num": 141922,
+      "word": "女子智齿位置奇特目测要背井离乡",
+      "onboard_time": 1676198850,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139177,
+      "num": 139177,
+      "word": "孩子许愿考年级前三孔明灯原路返回",
+      "onboard_time": 1676208334,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133188,
+      "num": 133188,
+      "word": "关晓彤澳门随拍",
+      "onboard_time": 1676210495,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130760,
+      "num": 130760,
+      "word": "北京近期发生4级以上地震可能性不大",
+      "onboard_time": 1676200770,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121525,
+      "num": 121525,
+      "word": "王奕公演",
+      "onboard_time": 1676216313,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 117938,
+      "num": 117938,
+      "word": "利兹联vs曼联",
+      "onboard_time": 1676213254,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117077,
+      "num": 117077,
+      "word": "男子进男厕发现里面有3名女子",
+      "onboard_time": 1676187928,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115830,
+      "num": 115830,
+      "word": "WBG春季赛首周冠军",
+      "onboard_time": 1676214275,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 113184,
+      "num": 113184,
+      "word": "他们的种地技巧已经熟练得不像艺人了",
+      "onboard_time": 1676204133,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107891,
+      "num": 107891,
+      "word": "你觉得直播带货靠谱吗",
+      "onboard_time": 1676218347,
+      "rank": 49,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 98012,
+      "num": 1093170,
+      "word": "中国救援人员加油保重",
+      "onboard_time": 1676206715,
+      "rank": 2,
+      "category": "国内要闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#坚定不移推动高质量发展#"
+    }
+  ]
+}
