@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676233153561,
+  "endTime": 1676234027933,
   "band_list": [
     {
       "raw_hot": 2111971,
@@ -475,11 +475,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44328,
-      "num": 44328,
+      "raw_hot": 49336,
+      "num": 49336,
       "word": "郑钧骑行公里也要吉利数1788",
       "onboard_time": 1676231891,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 45839,
+      "num": 45839,
+      "word": "家人之间情绪稳定有多重要",
+      "onboard_time": 1676231532,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 43475,
+      "num": 43475,
+      "word": "吴宣仪高至霆你好星期六金牌投资人",
+      "onboard_time": 1676231591,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -497,22 +513,6 @@
       "onboard_time": 1676223498,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38821,
-      "num": 38821,
-      "word": "吴宣仪高至霆你好星期六金牌投资人",
-      "onboard_time": 1676231591,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 32825,
-      "num": 32825,
-      "word": "家人之间情绪稳定有多重要",
-      "onboard_time": 1676231532,
-      "rank": 20,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
