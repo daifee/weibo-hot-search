@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676179026239,
+  "endTime": 1676180004705,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1408804,
+      "num": 1148944,
+      "word": "日本的LiSA",
+      "onboard_time": 1676177790,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1396571,
       "num": 1396571,
       "word": "女大学生误入传销父亲冲进窝点解救",
@@ -121,14 +129,6 @@
       "onboard_time": 1676166627,
       "rank": 18,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 1148944,
-      "num": 1148944,
-      "word": "日本的LiSA",
-      "onboard_time": 1676177790,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1108052,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572734,
+      "num": 572734,
+      "word": "金博洋太不容易了",
+      "onboard_time": 1676178092,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 538535,
       "num": 538535,
       "word": "鹿晗献唱中国乒乓主题曲",
@@ -313,14 +321,6 @@
       "onboard_time": 1676163324,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 472350,
-      "num": 472350,
-      "word": "金博洋太不容易了",
-      "onboard_time": 1676178092,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 471033,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412137,
+      "num": 412137,
+      "word": "买房租房哪个更划算",
+      "onboard_time": 1676175207,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 408463,
       "num": 408463,
       "word": "天津地铁回应2男子打架波及小孩",
@@ -425,14 +433,6 @@
       "onboard_time": 1676174248,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396655,
-      "num": 396655,
-      "word": "买房租房哪个更划算",
-      "onboard_time": 1676175207,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 392054,
@@ -539,12 +539,20 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 310092,
-      "num": 310092,
+      "raw_hot": 313976,
+      "num": 313976,
       "word": "1894个账号借胡鑫宇事件造谣传谣被处置",
       "onboard_time": 1676176349,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307674,
+      "num": 307674,
+      "word": "金博洋滑完累倒在冰面",
+      "onboard_time": 1676178930,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 304888,
@@ -619,12 +627,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274554,
+      "num": 274554,
+      "word": "郑州小伙1年半花百万造飞机",
+      "onboard_time": 1676177971,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274530,
       "num": 274530,
       "word": "梁朝伟拍打戏怕王一博受伤",
       "onboard_time": 1676173826,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272686,
+      "num": 272686,
+      "word": "春恋集",
+      "onboard_time": 1676179590,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 271174,
@@ -667,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251891,
+      "num": 251891,
+      "word": "湖人战胜勇士",
+      "onboard_time": 1676179049,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250352,
       "num": 250352,
       "word": "Light眼泛泪光",
@@ -691,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245322,
+      "num": 245322,
+      "word": "车保罗说赵樱子没人选不是剧本",
+      "onboard_time": 1676179950,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242942,
       "num": 242942,
       "word": "田柾国直播",
@@ -705,6 +745,14 @@
       "onboard_time": 1676129493,
       "rank": 23,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 241235,
+      "num": 241235,
+      "word": "二百者也",
+      "onboard_time": 1676179711,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 240061,
@@ -755,6 +803,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230563,
+      "num": 230563,
+      "word": "别对我动心主演 周也林一",
+      "onboard_time": 1676177790,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 230471,
+      "num": 230471,
+      "word": "谷阿莫参选台独政党委员落选",
+      "onboard_time": 1676178511,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229295,
       "num": 229295,
       "word": "网友深圳街头偶遇李宏毅",
@@ -771,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228638,
-      "num": 228638,
-      "word": "别对我动心主演 周也林一",
-      "onboard_time": 1676177790,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 228576,
       "num": 163227,
       "word": "高启强的B计划",
@@ -787,19 +843,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222076,
+      "num": 222076,
+      "word": "长征路上最小的红军战士逝世",
+      "onboard_time": 1676178571,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213545,
       "num": 213545,
       "word": "多家快递回应站点派件延迟问题",
       "onboard_time": 1676168126,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212578,
-      "num": 212578,
-      "word": "郑州小伙1年半花百万造飞机",
-      "onboard_time": 1676177971,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -835,11 +891,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194966,
+      "num": 194966,
+      "word": "福建游神",
+      "onboard_time": 1676178330,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193673,
       "num": 193673,
       "word": "武汉地铁3外籍男子横卧整排座位",
       "onboard_time": 1676114969,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192566,
+      "num": 192566,
+      "word": "中国救援人员保护好自己",
+      "onboard_time": 1676179711,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -907,14 +979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 178637,
-      "num": 178637,
-      "word": "福建游神",
-      "onboard_time": 1676178330,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 178431,
       "num": 178431,
       "word": "范世錡向刘耀文传授演戏经验",
@@ -936,14 +1000,6 @@
       "word": "震后128小时土耳其13岁男孩获救",
       "onboard_time": 1676160682,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175249,
-      "num": 175249,
-      "word": "谷阿莫参选台独政党委员落选",
-      "onboard_time": 1676178511,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -995,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163336,
+      "num": 163336,
+      "word": "养4年流浪金毛送婚戒满眼只有主人",
+      "onboard_time": 1676179469,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162673,
       "num": 162673,
       "word": "摩纳哥3比1巴黎圣日耳曼",
@@ -1024,14 +1088,6 @@
       "word": "土耳其强震为该地区百年来最严重事件",
       "onboard_time": 1676160383,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154105,
-      "num": 154105,
-      "word": "长征路上最小的红军战士逝世",
-      "onboard_time": 1676178571,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1067,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146857,
+      "num": 146857,
+      "word": "男童被炸致截肢背后的炮仗调查",
+      "onboard_time": 1676179650,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145736,
       "num": 145736,
       "word": "AG对战RW",
@@ -1097,14 +1161,6 @@
       "onboard_time": 1676170106,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141343,
-      "num": 141343,
-      "word": "金博洋滑完累倒在冰面",
-      "onboard_time": 1676178930,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 140904,
@@ -1322,6 +1378,9 @@
     },
     {
       "word": "#中国式现代化走得通行得稳#"
+    },
+    {
+      "word": "#坚定不移推动高质量发展#"
     }
   ]
 }
