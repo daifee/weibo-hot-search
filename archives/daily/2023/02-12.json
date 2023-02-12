@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676170168679,
+  "endTime": 1676170748319,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -19,12 +19,20 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 2303871,
-      "num": 2303871,
+      "raw_hot": 2347478,
+      "num": 2347478,
       "word": "浪姐4 嘉宾名单",
       "onboard_time": 1676168305,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2041658,
+      "num": 2041658,
+      "word": "男孩举手7次后身亡妈妈发文",
+      "onboard_time": 1676166867,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1671151,
@@ -35,19 +43,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1544159,
-      "num": 1544159,
-      "word": "男孩举手7次后身亡妈妈发文",
-      "onboard_time": 1676166867,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1396571,
       "num": 1396571,
       "word": "女大学生误入传销父亲冲进窝点解救",
       "onboard_time": 1676165488,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1341300,
+      "num": 1341300,
+      "word": "重庆一对情侣蹦极倒挂滞留半空",
+      "onboard_time": 1676167467,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -59,15 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1193381,
-      "num": 1193381,
-      "word": "重庆一对情侣蹦极倒挂滞留半空",
-      "onboard_time": 1676167467,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1118114,
+      "raw_hot": 1149463,
       "num": 1118114,
       "word": "多国学校禁止学生使用ChatGPT",
       "onboard_time": 1676166627,
@@ -75,8 +75,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 1100463,
-      "num": 1100463,
+      "raw_hot": 1108052,
+      "num": 1108052,
       "word": "男子吐槽15万装修婚房不如出租屋",
       "onboard_time": 1676166446,
       "rank": 10,
@@ -155,6 +155,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 595791,
+      "num": 595791,
+      "word": "熬夜可能会导致大脑损伤提早",
+      "onboard_time": 1676169386,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577942,
       "num": 577942,
       "word": "土耳其翻译说救援队像在救自己的人民",
@@ -195,6 +203,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 455917,
+      "num": 455917,
+      "word": "言承旭说自己是第一代刘畊宏男孩",
+      "onboard_time": 1676169447,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454869,
       "num": 431284,
       "word": "詹姆斯脚伤恐将贯穿整个赛季",
@@ -233,14 +249,6 @@
       "onboard_time": 1676108486,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 404370,
-      "num": 404370,
-      "word": "言承旭说自己是第一代刘畊宏男孩",
-      "onboard_time": 1676169447,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 392054,
@@ -291,6 +299,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 342040,
+      "num": 342040,
+      "word": "鹿晗献唱中国乒乓主题曲",
+      "onboard_time": 1676170648,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 340371,
+      "num": 340371,
+      "word": "海恩贤圭贴脸搂肩合照",
+      "onboard_time": 1676169087,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 333886,
       "num": 333886,
       "word": "你只管踩油门剩下的交给我们",
@@ -307,12 +331,12 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 313035,
-      "num": 313035,
-      "word": "海恩贤圭贴脸搂肩合照",
-      "onboard_time": 1676169087,
+      "raw_hot": 313946,
+      "num": 313946,
+      "word": "刺杀小说家上映2周年",
+      "onboard_time": 1676170226,
       "rank": 17,
-      "category": "作品衍生"
+      "category": "影视"
     },
     {
       "raw_hot": 304888,
@@ -337,14 +361,6 @@
       "onboard_time": 1676164347,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296405,
-      "num": 296405,
-      "word": "熬夜可能会导致大脑损伤提早",
-      "onboard_time": 1676169386,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292024,
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265056,
+      "num": 265056,
+      "word": "林孝埈B组第一",
+      "onboard_time": 1676169447,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261782,
       "num": 261782,
       "word": "IVE新歌NotYourGirl",
@@ -395,12 +419,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261484,
+      "num": 261484,
+      "word": "央美准考证模版用肖战照片",
+      "onboard_time": 1676170648,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260430,
       "num": 260430,
       "word": "沈小婷舞台",
       "onboard_time": 1676159300,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250352,
+      "num": 250352,
+      "word": "Light眼泛泪光",
+      "onboard_time": 1676167286,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 249549,
@@ -416,22 +456,6 @@
       "word": "谷爱凌参观勇士训练",
       "onboard_time": 1676166388,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 247022,
-      "num": 247022,
-      "word": "Light眼泛泪光",
-      "onboard_time": 1676167286,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 243399,
-      "num": 243399,
-      "word": "林孝埈B组第一",
-      "onboard_time": 1676169447,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -544,6 +568,14 @@
       "word": "武汉地铁3外籍男子横卧整排座位",
       "onboard_time": 1676114969,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192632,
+      "num": 192632,
+      "word": "律师谈男孩举手7次后身亡校方责任",
+      "onboard_time": 1676170348,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -739,12 +771,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141372,
+      "num": 141372,
+      "word": "被困138小时获救老人亲吻救援人员的手",
+      "onboard_time": 1676170106,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138819,
       "num": 138819,
       "word": "种地吧崩溃又搞笑的瞬间",
       "onboard_time": 1676165126,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134940,
+      "num": 134940,
+      "word": "虞书欣条纹毛衣半身裙造型",
+      "onboard_time": 1676156595,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133539,
+      "num": 133539,
+      "word": "丁维迪三分绝平超时",
+      "onboard_time": 1676169328,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 131109,
@@ -763,36 +819,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 127991,
-      "num": 127991,
-      "word": "虞书欣条纹毛衣半身裙造型",
-      "onboard_time": 1676156595,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 126999,
-      "num": 126999,
-      "word": "丁维迪三分绝平超时",
-      "onboard_time": 1676169328,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126325,
       "num": 126325,
       "word": "这里就是我的家乡京海市",
       "onboard_time": 1676120129,
       "rank": 42,
       "category": "影视,旅游"
-    },
-    {
-      "raw_hot": 119675,
-      "num": 119675,
-      "word": "被困138小时获救老人亲吻救援人员的手",
-      "onboard_time": 1676170106,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118742,
@@ -916,7 +948,7 @@
     },
     {
       "raw_hot": 50047,
-      "num": 1491301,
+      "num": 1527735,
       "word": "2023春耕进行时",
       "onboard_time": 1676125775,
       "rank": 2,
