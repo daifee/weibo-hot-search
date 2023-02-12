@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676190157618,
+  "endTime": 1676191004017,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -83,6 +83,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1718612,
+      "num": 1718612,
+      "word": "茶颜悦色仍有门店要求排队取餐",
+      "onboard_time": 1676187748,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1708476,
+      "num": 1708476,
+      "word": "微信头像褪色",
+      "onboard_time": 1676189249,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1671151,
       "num": 1671151,
       "word": "人鱼",
@@ -97,14 +113,6 @@
       "onboard_time": 1676177790,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1571466,
-      "num": 1571466,
-      "word": "茶颜悦色仍有门店要求排队取餐",
-      "onboard_time": 1676187748,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1432811,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1078052,
+      "num": 318451,
+      "word": "男子进男厕发现里面有3名女子",
+      "onboard_time": 1676187928,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1067773,
       "num": 1067773,
       "word": "熬夜可能会导致大脑损伤提早",
@@ -195,14 +211,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 1025390,
-      "num": 299942,
-      "word": "男子进男厕发现里面有3名女子",
-      "onboard_time": 1676187928,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 988918,
       "num": 988918,
       "word": "李一桐郭晓婷当群演一天赚了288",
@@ -211,8 +219,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 938523,
-      "num": 938523,
+      "raw_hot": 970689,
+      "num": 970689,
       "word": "苹果闹钟",
       "onboard_time": 1676187329,
       "rank": 4,
@@ -235,20 +243,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 924329,
-      "num": 924329,
-      "word": "微信头像褪色",
-      "onboard_time": 1676189249,
-      "rank": 5,
-      "category": "科技"
-    },
-    {
       "raw_hot": 903150,
       "num": 903150,
       "word": "男子震后靠可乐坚持134小时获救",
       "onboard_time": 1676172687,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 873790,
+      "num": 873790,
+      "word": "汪小菲寸头",
+      "onboard_time": 1676189069,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 841296,
@@ -305,14 +313,6 @@
       "onboard_time": 1676128653,
       "rank": 5,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 699763,
-      "num": 699763,
-      "word": "汪小菲寸头",
-      "onboard_time": 1676189069,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 688891,
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420316,
+      "num": 420316,
+      "word": "上海奶奶逛展时看到50年前的自己",
+      "onboard_time": 1676189730,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419196,
       "num": 419196,
       "word": "专家称中国版ChatGPT难度更高",
@@ -569,6 +577,14 @@
       "onboard_time": 1676185468,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393219,
+      "num": 393219,
+      "word": "吴彤美颜镜头下的宋亚轩",
+      "onboard_time": 1676190692,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 392054,
@@ -641,6 +657,14 @@
       "onboard_time": 1676186128,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 362274,
+      "num": 362274,
+      "word": "好像中奖了可惜奖过期了",
+      "onboard_time": 1676189971,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 356983,
@@ -905,6 +929,14 @@
       "onboard_time": 1676182769,
       "rank": 37,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 252264,
+      "num": 252264,
+      "word": "kpop出圈名场面",
+      "onboard_time": 1676190928,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 251891,
@@ -1307,20 +1339,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173579,
-      "num": 173579,
-      "word": "上海奶奶逛展时看到50年前的自己",
-      "onboard_time": 1676189730,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172962,
       "num": 172962,
       "word": "张颂文用自身经历激励从业者",
       "onboard_time": 1676176950,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170173,
+      "num": 170173,
+      "word": "他生前说只是研制了几枚火箭而已",
+      "onboard_time": 1676189249,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167228,
@@ -1363,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160484,
+      "num": 160484,
+      "word": "战士麟羽轩回来了",
+      "onboard_time": 1676187266,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157778,
       "num": 157778,
       "word": "土耳其数名儿童被困超130小时后获救",
@@ -1377,14 +1417,6 @@
       "onboard_time": 1676128113,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156759,
-      "num": 156759,
-      "word": "战士麟羽轩回来了",
-      "onboard_time": 1676187266,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 156646,
@@ -1427,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148334,
+      "num": 148334,
+      "word": "超市刀具被栅栏封锁购买需联系员工",
+      "onboard_time": 1676190631,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145736,
       "num": 145736,
       "word": "AG对战RW",
@@ -1451,14 +1491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141896,
-      "num": 141896,
-      "word": "好像中奖了可惜奖过期了",
-      "onboard_time": 1676189971,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141372,
       "num": 141372,
       "word": "被困138小时获救老人亲吻救援人员的手",
@@ -1481,14 +1513,6 @@
       "onboard_time": 1676189668,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138967,
-      "num": 138967,
-      "word": "他生前说只是研制了几枚火箭而已",
-      "onboard_time": 1676189249,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138819,
@@ -1724,7 +1748,7 @@
     },
     {
       "raw_hot": 41214,
-      "num": 1598396,
+      "num": 1709861,
       "word": "中国空间站第一视角看地球转动",
       "onboard_time": 1676118088,
       "rank": 2,
