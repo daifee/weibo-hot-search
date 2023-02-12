@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676243894573,
+  "endTime": 1676244822315,
   "band_list": [
     {
       "raw_hot": 2111971,
@@ -25,6 +25,14 @@
       "onboard_time": 1676208814,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 865763,
+      "num": 865763,
+      "word": "农村老人为何不愿意进城养老",
+      "onboard_time": 1676240353,
+      "rank": 25,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 830820,
@@ -67,12 +75,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 561799,
-      "num": 561799,
-      "word": "农村老人为何不愿意进城养老",
-      "onboard_time": 1676240353,
-      "rank": 25,
-      "category": "社会新闻,情感"
+      "raw_hot": 586777,
+      "num": 586777,
+      "word": "李培楠夺冠",
+      "onboard_time": 1676243297,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 559755,
@@ -97,6 +105,22 @@
       "onboard_time": 1676214035,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 413788,
+      "num": 413788,
+      "word": "中国人首夺ATP巡回赛冠军",
+      "onboard_time": 1676243778,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 394561,
+      "num": 294421,
+      "word": "女子超然楼前背满江红时楼亮了",
+      "onboard_time": 1676241494,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379562,
@@ -163,14 +187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 293812,
-      "num": 216972,
-      "word": "女子超然楼前背满江红时楼亮了",
-      "onboard_time": 1676241494,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282008,
       "num": 272791,
       "word": "听说你喜欢我",
@@ -203,20 +219,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 253542,
-      "num": 253542,
-      "word": "李培楠夺冠",
-      "onboard_time": 1676243297,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 251716,
       "num": 251716,
       "word": "哇唧唧哇新人原野撞脸龚俊",
       "onboard_time": 1676202092,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241864,
+      "num": 241864,
+      "word": "满江红秦桧房间是如何设计的",
+      "onboard_time": 1676208454,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 235416,
@@ -259,6 +275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215169,
+      "num": 215169,
+      "word": "家人之间情绪稳定有多重要",
+      "onboard_time": 1676231532,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212064,
       "num": 212064,
       "word": "高启盛走路",
@@ -267,12 +291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197510,
-      "num": 197510,
-      "word": "家人之间情绪稳定有多重要",
-      "onboard_time": 1676231532,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 205005,
+      "num": 205005,
+      "word": "他们的种地技巧已经熟练得不像艺人了",
+      "onboard_time": 1676204133,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 194287,
@@ -299,14 +323,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187553,
-      "num": 187553,
-      "word": "满江红秦桧房间是如何设计的",
-      "onboard_time": 1676208454,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 184569,
       "num": 184569,
       "word": "流浪地球2成中国影史票房榜第10名",
@@ -331,12 +347,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172664,
-      "num": 172664,
-      "word": "他们的种地技巧已经熟练得不像艺人了",
-      "onboard_time": 1676204133,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 174003,
+      "num": 174003,
+      "word": "孩子许愿考年级前三孔明灯原路返回",
+      "onboard_time": 1676208334,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169806,
@@ -345,6 +361,14 @@
       "onboard_time": 1676203711,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159617,
+      "num": 159617,
+      "word": "星际争霸2",
+      "onboard_time": 1676243598,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 157024,
@@ -384,14 +408,6 @@
       "word": "女子智齿位置奇特目测要背井离乡",
       "onboard_time": 1676198850,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141848,
-      "num": 141848,
-      "word": "孩子许愿考年级前三孔明灯原路返回",
-      "onboard_time": 1676208334,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -467,6 +483,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102969,
+      "num": 102969,
+      "word": "G2夺冠",
+      "onboard_time": 1676244441,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 102848,
+      "num": 102848,
+      "word": "教授呼吁医保互助共济算长远帐",
+      "onboard_time": 1676228233,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102416,
       "num": 102416,
       "word": "谁能不被周杰伦终结",
@@ -483,20 +515,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 91870,
-      "num": 91870,
-      "word": "教授呼吁医保互助共济算长远帐",
-      "onboard_time": 1676228233,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90508,
       "num": 90508,
       "word": "刘宇宁特效视频",
       "onboard_time": 1676224996,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88418,
+      "num": 88418,
+      "word": "曼城3比1阿斯顿维拉",
+      "onboard_time": 1676244079,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 87265,
@@ -515,14 +547,6 @@
       "category": "幽默,旅游"
     },
     {
-      "raw_hot": 73399,
-      "num": 73399,
-      "word": "星际争霸2",
-      "onboard_time": 1676243598,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 68609,
       "num": 68609,
       "word": "关晓彤马甲线",
@@ -539,20 +563,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 55805,
-      "num": 55805,
+      "raw_hot": 60566,
+      "num": 60566,
       "word": "郑钧骑行公里也要吉利数1788",
       "onboard_time": 1676231891,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51210,
-      "num": 51210,
-      "word": "中国人首夺ATP巡回赛冠军",
-      "onboard_time": 1676243778,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 43475,
