@@ -1,0 +1,410 @@
+{
+  "runTime": 1676198079382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1732285,
+        "num": 1732285,
+        "word": "微信头像褪色",
+        "onboard_time": 1676189249,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1634831,
+        "num": 1634831,
+        "word": "嘎子哥直播间1999元手机1880能买到",
+        "onboard_time": 1676195251,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 174629,
+        "num": 1488114,
+        "word": "土耳其震后救灾现场的中国身影",
+        "onboard_time": 1676193989,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1348968,
+        "num": 1348968,
+        "word": "杨紫卷发",
+        "onboard_time": 1676191650,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1051789,
+        "num": 1051789,
+        "word": "安欣老公渣得离谱",
+        "onboard_time": 1676196872,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1030194,
+        "num": 1030194,
+        "word": "茶颜悦色仍有门店要求排队取餐",
+        "onboard_time": 1676187748,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755672,
+        "num": 755672,
+        "word": "姐姐放弃考研捐骨髓救17岁妹妹",
+        "onboard_time": 1676194109,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625804,
+        "num": 625804,
+        "word": "女子婚礼跪谢姑母姑父改口喊爸妈",
+        "onboard_time": 1676193692,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563383,
+        "num": 563383,
+        "word": "何广智没谈过恋爱但初吻可能没了",
+        "onboard_time": 1676193930,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538958,
+        "num": 538958,
+        "word": "怎么还有papi酱",
+        "onboard_time": 1676180728,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 821471,
+        "num": 504431,
+        "word": "售楼部回应小区池子形似卫生巾",
+        "onboard_time": 1676193089,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640793,
+        "num": 494382,
+        "word": "关晓彤马甲线",
+        "onboard_time": 1676197171,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469335,
+        "num": 469335,
+        "word": "papi酱 我怎么不知道",
+        "onboard_time": 1676186789,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436729,
+        "num": 436729,
+        "word": "高启盛走路",
+        "onboard_time": 1676197231,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420121,
+        "num": 420121,
+        "word": "我国进入长寿时代",
+        "onboard_time": 1676192432,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397304,
+        "num": 397304,
+        "word": "北京房山2.8级地震",
+        "onboard_time": 1676192790,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390927,
+        "num": 390927,
+        "word": "女生买的二手书里夹了400块后续",
+        "onboard_time": 1676197111,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360537,
+        "num": 360537,
+        "word": "曾沛慈说很想去浪姐4但没收到通知",
+        "onboard_time": 1676195793,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351785,
+        "num": 351785,
+        "word": "我才不要和你做朋友呢",
+        "onboard_time": 1676197051,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350263,
+        "num": 350263,
+        "word": "微信回应头像褪色",
+        "onboard_time": 1676195553,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 574714,
+        "num": 349250,
+        "word": "男子进男厕发现里面有3名女子",
+        "onboard_time": 1676187928,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343100,
+        "num": 343100,
+        "word": "网友泰国偶遇张新成",
+        "onboard_time": 1676194768,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341999,
+        "num": 341999,
+        "word": "边牧绝育后站医院门口撒尿报复",
+        "onboard_time": 1676191231,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332797,
+        "num": 332797,
+        "word": "日本的LiSA",
+        "onboard_time": 1676177790,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314651,
+        "num": 314651,
+        "word": "汪小菲寸头",
+        "onboard_time": 1676189069,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310017,
+        "num": 310017,
+        "word": "kpop出圈名场面",
+        "onboard_time": 1676190928,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300721,
+        "num": 300721,
+        "word": "好像中奖了可惜奖过期了",
+        "onboard_time": 1676189971,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279419,
+        "num": 279419,
+        "word": "张若昀演技",
+        "onboard_time": 1676196091,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278663,
+        "num": 278663,
+        "word": "如果真的有曾沛慈",
+        "onboard_time": 1676184150,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278661,
+        "num": 278661,
+        "word": "时代少年团孔雀开屏式拍照",
+        "onboard_time": 1676195491,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257153,
+        "num": 257153,
+        "word": "上海奶奶逛展时看到50年前的自己",
+        "onboard_time": 1676189730,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250361,
+        "num": 250361,
+        "word": "苹果闹钟",
+        "onboard_time": 1676187329,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 244541,
+        "num": 244541,
+        "word": "林书豪暂停布置战术",
+        "onboard_time": 1676195853,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243862,
+        "num": 243862,
+        "word": "Jessi来了还能播吗",
+        "onboard_time": 1676175449,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227296,
+        "num": 227296,
+        "word": "医生称大学生精子活力不如30岁男性",
+        "onboard_time": 1676180250,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221063,
+        "num": 221063,
+        "word": "RNG对战WE",
+        "onboard_time": 1676195553,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195033,
+        "num": 195033,
+        "word": "你会选择80岁仍要还房贷吗",
+        "onboard_time": 1676191830,
+        "rank": 36,
+        "category": "社会议题,财经"
+      },
+      {
+        "raw_hot": 188214,
+        "num": 188214,
+        "word": "二百者也",
+        "onboard_time": 1676179711,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180523,
+        "num": 180523,
+        "word": "NIP终结LNG四连胜",
+        "onboard_time": 1676197649,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161354,
+        "num": 161354,
+        "word": "高启强这个角色为何如此出圈",
+        "onboard_time": 1676186485,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159920,
+        "num": 159920,
+        "word": "车保罗说赵樱子没人选不是剧本",
+        "onboard_time": 1676179950,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152451,
+        "num": 152451,
+        "word": "婴儿被困107小时得救吮吸护士手指",
+        "onboard_time": 1676183068,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148484,
+        "num": 148484,
+        "word": "周杰伦问今年又出歌是不是会吓坏",
+        "onboard_time": 1676187628,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147160,
+        "num": 147160,
+        "word": "中国救援队",
+        "onboard_time": 1676194529,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146700,
+        "num": 146700,
+        "word": "超市刀具被栅栏封锁购买需联系员工",
+        "onboard_time": 1676190631,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135877,
+        "num": 135877,
+        "word": "乘客称航班飞行时多次下坠引尖叫",
+        "onboard_time": 1676180489,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133712,
+        "num": 133712,
+        "word": "吴彤美颜镜头下的宋亚轩",
+        "onboard_time": 1676190692,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133312,
+        "num": 133312,
+        "word": "王楚然 小说女主",
+        "onboard_time": 1676172931,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130912,
+        "num": 130912,
+        "word": "种地吧",
+        "onboard_time": 1676193210,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130005,
+        "num": 130005,
+        "word": "调查显示高龄老人生活满意度高",
+        "onboard_time": 1676196151,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移推动高质量发展#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676197136098,
+  "endTime": 1676198079382,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1810599,
-      "num": 1295496,
+      "num": 1348968,
       "word": "杨紫卷发",
       "onboard_time": 1676191650,
       "rank": 3,
@@ -123,20 +123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1634831,
+      "num": 1634831,
+      "word": "嘎子哥直播间1999元手机1880能买到",
+      "onboard_time": 1676195251,
+      "rank": 1,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1432811,
       "num": 1432811,
       "word": "重庆一对情侣蹦极倒挂滞留半空",
       "onboard_time": 1676167467,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1414319,
-      "num": 1414319,
-      "word": "嘎子哥直播间1999元手机1880能买到",
-      "onboard_time": 1676195251,
-      "rank": 1,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1396571,
@@ -209,6 +209,14 @@
       "onboard_time": 1676169386,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1051789,
+      "num": 1051789,
+      "word": "安欣老公渣得离谱",
+      "onboard_time": 1676196872,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 1034327,
@@ -401,6 +409,14 @@
       "onboard_time": 1676193930,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 640793,
+      "num": 494382,
+      "word": "关晓彤马甲线",
+      "onboard_time": 1676197171,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 637397,
@@ -603,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 436729,
+      "num": 436729,
+      "word": "高启盛走路",
+      "onboard_time": 1676197231,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 428404,
       "num": 428404,
       "word": "这样做远离阿尔茨海默病",
@@ -680,6 +704,14 @@
       "word": "土耳其华人被埋25小时后获救",
       "onboard_time": 1676152572,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390927,
+      "num": 390927,
+      "word": "女生买的二手书里夹了400块后续",
+      "onboard_time": 1676197111,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -779,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351785,
+      "num": 351785,
+      "word": "我才不要和你做朋友呢",
+      "onboard_time": 1676197051,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349423,
       "num": 349423,
       "word": "特鲁多声称下令击落进入加空域不明物体",
@@ -803,8 +843,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 342113,
-      "num": 342113,
+      "raw_hot": 343100,
+      "num": 343100,
       "word": "网友泰国偶遇张新成",
       "onboard_time": 1676194768,
       "rank": 23,
@@ -873,14 +913,6 @@
       "onboard_time": 1676195553,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 311526,
-      "num": 311526,
-      "word": "安欣老公渣得离谱",
-      "onboard_time": 1676196872,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 311322,
@@ -955,20 +987,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 290932,
-      "num": 290932,
-      "word": "我才不要和你做朋友呢",
-      "onboard_time": 1676197051,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 283634,
       "num": 283634,
       "word": "上海巨型玫瑰",
       "onboard_time": 1676117608,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 279419,
+      "num": 279419,
+      "word": "张若昀演技",
+      "onboard_time": 1676196091,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 277456,
@@ -1131,6 +1163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244541,
+      "num": 244541,
+      "word": "林书豪暂停布置战术",
+      "onboard_time": 1676195853,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242942,
       "num": 242942,
       "word": "田柾国直播",
@@ -1147,27 +1187,11 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 240734,
-      "num": 240734,
-      "word": "林书豪暂停布置战术",
-      "onboard_time": 1676195853,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 240061,
       "num": 240061,
       "word": "白鹿以爱为营染发下班路透",
       "onboard_time": 1676132786,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 238316,
-      "num": 238316,
-      "word": "张若昀演技",
-      "onboard_time": 1676196091,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -1177,14 +1201,6 @@
       "onboard_time": 1676123370,
       "rank": 24,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 235607,
-      "num": 235607,
-      "word": "女生买的二手书里夹了400块后续",
-      "onboard_time": 1676197111,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232784,
@@ -1475,6 +1491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180523,
+      "num": 180523,
+      "word": "NIP终结LNG四连胜",
+      "onboard_time": 1676197649,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178431,
       "num": 178431,
       "word": "范世錡向刘耀文传授演戏经验",
@@ -1513,6 +1537,14 @@
       "onboard_time": 1676169687,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174629,
+      "num": 1488114,
+      "word": "土耳其震后救灾现场的中国身影",
+      "onboard_time": 1676193989,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 173986,
@@ -1585,14 +1617,6 @@
       "onboard_time": 1676158338,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161437,
-      "num": 1265453,
-      "word": "土耳其震后救灾现场的中国身影",
-      "onboard_time": 1676193989,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 160484,
