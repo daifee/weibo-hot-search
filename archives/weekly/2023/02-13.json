@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676226973564,
+  "endTime": 1676229271096,
   "band_list": [
     {
       "raw_hot": 2111971,
@@ -467,17 +467,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67354,
+      "num": 67354,
+      "word": "总要去大理换次头吧",
+      "onboard_time": 1676226795,
+      "rank": 10,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 38981,
       "num": 38981,
       "word": "敖子逸精准解读嗷嗷嗷",
       "onboard_time": 1676223498,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24022,
+      "num": 24022,
+      "word": "教授呼吁医保互助共济算长远帐",
+      "onboard_time": 1676228233,
+      "rank": 45,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#坚定不移推动高质量发展#"
+    },
+    {
+      "word": "#中国式现代化创造人类文明新形态#"
     }
   ]
 }

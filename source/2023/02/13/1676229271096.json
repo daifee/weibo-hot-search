@@ -1,0 +1,410 @@
+{
+  "runTime": 1676229271096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 321446,
+        "num": 321446,
+        "word": "官方准备击落山东海域不明飞行物",
+        "onboard_time": 1676205871,
+        "rank": 0,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 200129,
+        "num": 200129,
+        "word": "70岁阿姨微信被封哭诉会孤独终老",
+        "onboard_time": 1676208814,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21631,
+        "num": 147734,
+        "word": "中国救援人员加油保重",
+        "onboard_time": 1676206715,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 131572,
+        "num": 131572,
+        "word": "多人身体绑藏100斤牛肚入境被查",
+        "onboard_time": 1676203231,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108344,
+        "num": 108344,
+        "word": "老人沉迷玩手机怎么办",
+        "onboard_time": 1676224457,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 103137,
+        "num": 103137,
+        "word": "张大大 许愿池的王八",
+        "onboard_time": 1676211096,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90204,
+        "num": 90204,
+        "word": "王楚然好漂亮",
+        "onboard_time": 1676211997,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85338,
+        "num": 85338,
+        "word": "林孝埈500米两连冠",
+        "onboard_time": 1676214158,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79164,
+        "num": 79164,
+        "word": "山东海域发现不明飞行物",
+        "onboard_time": 1676198250,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76102,
+        "num": 76102,
+        "word": "微信头像褪色",
+        "onboard_time": 1676189249,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 67354,
+        "num": 67354,
+        "word": "总要去大理换次头吧",
+        "onboard_time": 1676226795,
+        "rank": 10,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 65493,
+        "num": 65493,
+        "word": "林孝埈庆祝动作",
+        "onboard_time": 1676215412,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63574,
+        "num": 63574,
+        "word": "嘎子哥直播间1999元手机1880能买到",
+        "onboard_time": 1676195251,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 58016,
+        "num": 58016,
+        "word": "梅德韦杰夫预言欧洲将彻底消失",
+        "onboard_time": 1676214035,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 52715,
+        "num": 52715,
+        "word": "刘敏涛身材",
+        "onboard_time": 1676205031,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52207,
+        "num": 52207,
+        "word": "泰国人有多爱王嘉尔",
+        "onboard_time": 1676215173,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50830,
+        "num": 50830,
+        "word": "小狗其实什么都知道",
+        "onboard_time": 1676212954,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50385,
+        "num": 50385,
+        "word": "武契奇称塞尔维亚可能将对俄实施制裁",
+        "onboard_time": 1676203592,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 49139,
+        "num": 49139,
+        "word": "哇唧唧哇新人原野撞脸龚俊",
+        "onboard_time": 1676202092,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43657,
+        "num": 43657,
+        "word": "微信回应头像褪色",
+        "onboard_time": 1676195553,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 43570,
+        "num": 43570,
+        "word": "去西安知道吃什么了",
+        "onboard_time": 1676215773,
+        "rank": 20,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 42699,
+        "num": 42699,
+        "word": "姐弟俩仿冒论文期刊四年牟利1800多万",
+        "onboard_time": 1676199752,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 41175,
+        "num": 41175,
+        "word": "一次性拖鞋是这样穿的吗",
+        "onboard_time": 1676216132,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39039,
+        "num": 39039,
+        "word": "魔咒",
+        "onboard_time": 1676218166,
+        "rank": 23,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 38876,
+        "num": 38876,
+        "word": "他们的种地技巧已经熟练得不像艺人了",
+        "onboard_time": 1676204133,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38860,
+        "num": 38860,
+        "word": "谁能不被周杰伦终结",
+        "onboard_time": 1676222778,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37632,
+        "num": 37632,
+        "word": "女生买的二手书里夹了400块后续",
+        "onboard_time": 1676197111,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37439,
+        "num": 37439,
+        "word": "听说你喜欢我",
+        "onboard_time": 1676211936,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35696,
+        "num": 35696,
+        "word": "吴磊赵今麦 能不能边拍边播",
+        "onboard_time": 1676205095,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34967,
+        "num": 34967,
+        "word": "渤海",
+        "onboard_time": 1676199034,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 34549,
+        "num": 34549,
+        "word": "流浪地球2成中国影史票房榜第10名",
+        "onboard_time": 1676198669,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33139,
+        "num": 33139,
+        "word": "高启盛走路",
+        "onboard_time": 1676197231,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33112,
+        "num": 33112,
+        "word": "吴磊赵今麦芬兰雪地随拍",
+        "onboard_time": 1676203711,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30749,
+        "num": 30749,
+        "word": "男子进男厕发现里面有3名女子",
+        "onboard_time": 1676187928,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30268,
+        "num": 30268,
+        "word": "刘宇宁特效视频",
+        "onboard_time": 1676224996,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30156,
+        "num": 30156,
+        "word": "2023亚洲杯将于2024年进行",
+        "onboard_time": 1676210436,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28835,
+        "num": 28835,
+        "word": "谢娜半永久猫眼妆教程vlog",
+        "onboard_time": 1676215716,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27963,
+        "num": 27963,
+        "word": "金在中尹净汉李灿舞蹈挑战",
+        "onboard_time": 1676220620,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27589,
+        "num": 27589,
+        "word": "满江红秦桧房间是如何设计的",
+        "onboard_time": 1676208454,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27449,
+        "num": 27449,
+        "word": "露思 笑中带泪",
+        "onboard_time": 1676205333,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26838,
+        "num": 26838,
+        "word": "女子智齿位置奇特目测要背井离乡",
+        "onboard_time": 1676198850,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25397,
+        "num": 25397,
+        "word": "孩子许愿考年级前三孔明灯原路返回",
+        "onboard_time": 1676208334,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24394,
+        "num": 24394,
+        "word": "售楼部回应小区池子形似卫生巾",
+        "onboard_time": 1676193089,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24368,
+        "num": 24368,
+        "word": "关晓彤澳门随拍",
+        "onboard_time": 1676210495,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24283,
+        "num": 24283,
+        "word": "唐嫣宋亚轩唱有何不可路透",
+        "onboard_time": 1676214518,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24022,
+        "num": 24022,
+        "word": "教授呼吁医保互助共济算长远帐",
+        "onboard_time": 1676228233,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23332,
+        "num": 23332,
+        "word": "北京近期发生4级以上地震可能性不大",
+        "onboard_time": 1676200770,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23108,
+        "num": 23108,
+        "word": "升降火锅",
+        "onboard_time": 1676215116,
+        "rank": 47,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 22712,
+        "num": 22712,
+        "word": "张萌说彭冠英是新婚之夜鸽子王",
+        "onboard_time": 1676212117,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21779,
+        "num": 21779,
+        "word": "敖子逸精准解读嗷嗷嗷",
+        "onboard_time": 1676223498,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化创造人类文明新形态#"
+    }
+  }
+}
