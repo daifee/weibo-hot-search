@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676219066879,
+  "endTime": 1676220092400,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -27241,6 +27241,14 @@
       "onboard_time": 1675826487,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 87265,
+      "num": 87265,
+      "word": "聋哑夫妇的我爱你",
+      "onboard_time": 1676219665,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 86681,
