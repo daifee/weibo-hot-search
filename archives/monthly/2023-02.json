@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676241196026,
+  "endTime": 1676243894573,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -8419,6 +8419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 561799,
+      "num": 561799,
+      "word": "农村老人为何不愿意进城养老",
+      "onboard_time": 1676240353,
+      "rank": 25,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 561664,
       "num": 561664,
       "word": "撒娇对男生到底好不好用",
@@ -16019,6 +16027,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 293812,
+      "num": 216972,
+      "word": "女子超然楼前背满江红时楼亮了",
+      "onboard_time": 1676241494,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293743,
       "num": 293743,
       "word": "高中的友谊会是一辈子的友谊",
@@ -18137,6 +18153,14 @@
       "onboard_time": 1676116648,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253542,
+      "num": 253542,
+      "word": "李培楠夺冠",
+      "onboard_time": 1676243297,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 253489,
@@ -21409,6 +21433,14 @@
       "onboard_time": 1675235789,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197510,
+      "num": 197510,
+      "word": "家人之间情绪稳定有多重要",
+      "onboard_time": 1676231532,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 197390,
@@ -26987,6 +27019,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 106580,
+      "num": 106580,
+      "word": "史强提出古筝计划以邪制邪",
+      "onboard_time": 1676243056,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 106503,
       "num": 106503,
       "word": "90后画家街头绘画上演画板消失术",
@@ -27097,14 +27137,6 @@
       "onboard_time": 1675983616,
       "rank": 32,
       "category": "军事"
-    },
-    {
-      "raw_hot": 101555,
-      "num": 101555,
-      "word": "家人之间情绪稳定有多重要",
-      "onboard_time": 1676231532,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 101128,
@@ -27240,6 +27272,14 @@
       "word": "风和日暖人勤春早",
       "onboard_time": 1675479209,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91870,
+      "num": 91870,
+      "word": "教授呼吁医保互助共济算长远帐",
+      "onboard_time": 1676228233,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -27507,6 +27547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73399,
+      "num": 73399,
+      "word": "星际争霸2",
+      "onboard_time": 1676243598,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 72854,
       "num": 72854,
       "word": "任天堂直面会",
@@ -27595,6 +27643,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 67292,
+      "num": 67292,
+      "word": "高叶林雨申橙色光芒路透",
+      "onboard_time": 1676243358,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 63772,
       "num": 63772,
       "word": "煎饼大爷出租屋创作绝美国画",
@@ -27665,6 +27721,14 @@
       "onboard_time": 1675171596,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 55805,
+      "num": 55805,
+      "word": "郑钧骑行公里也要吉利数1788",
+      "onboard_time": 1676231891,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 55688,
@@ -27747,12 +27811,12 @@
       "category": "时尚,幽默"
     },
     {
-      "raw_hot": 51196,
-      "num": 51196,
-      "word": "郑钧骑行公里也要吉利数1788",
-      "onboard_time": 1676231891,
-      "rank": 9,
-      "category": "综艺"
+      "raw_hot": 51210,
+      "num": 51210,
+      "word": "中国人首夺ATP巡回赛冠军",
+      "onboard_time": 1676243778,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 50072,
@@ -27841,22 +27905,6 @@
       "onboard_time": 1675794734,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 45061,
-      "num": 45061,
-      "word": "农村老人为何不愿意进城养老",
-      "onboard_time": 1676240353,
-      "rank": 25,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 44179,
-      "num": 44179,
-      "word": "教授呼吁医保互助共济算长远帐",
-      "onboard_time": 1676228233,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43475,
