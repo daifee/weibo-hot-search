@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676186185244,
+  "endTime": 1676187222568,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -35,8 +35,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2568315,
-      "num": 2568315,
+      "raw_hot": 2688295,
+      "num": 2688295,
       "word": "怎么还有papi酱",
       "onboard_time": 1676180728,
       "rank": 1,
@@ -153,6 +153,14 @@
       "onboard_time": 1676166446,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1069083,
+      "num": 1069083,
+      "word": "papi酱 我怎么不知道",
+      "onboard_time": 1676186789,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1067773,
@@ -275,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 686326,
+      "num": 686326,
+      "word": "婴儿被困107小时得救吮吸护士手指",
+      "onboard_time": 1676183068,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 681934,
       "num": 681934,
       "word": "二百者也",
@@ -305,14 +321,6 @@
       "onboard_time": 1676121930,
       "rank": 7,
       "category": "影视,社会新闻"
-    },
-    {
-      "raw_hot": 629998,
-      "num": 629998,
-      "word": "婴儿被困107小时得救吮吸护士手指",
-      "onboard_time": 1676183068,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 614398,
@@ -419,8 +427,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 459704,
-      "num": 459704,
+      "raw_hot": 464066,
+      "num": 464066,
       "word": "南宁房贷年龄期限可延长至80岁",
       "onboard_time": 1676183429,
       "rank": 40,
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396444,
+      "num": 396444,
+      "word": "绑架原县委书记嫌犯仍在逃",
+      "onboard_time": 1676185468,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392054,
       "num": 392054,
       "word": "土耳其华人被埋25小时后获救",
@@ -579,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367821,
+      "num": 367821,
+      "word": "满江红有两个秦桧",
+      "onboard_time": 1676186128,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 356983,
       "num": 356983,
       "word": "哇唧唧哇新人路演",
@@ -633,6 +657,14 @@
       "onboard_time": 1676170226,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326435,
+      "num": 326435,
+      "word": "周润发参加香港马拉松10公里赛",
+      "onboard_time": 1676186668,
+      "rank": 21,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 321731,
@@ -729,6 +761,14 @@
       "onboard_time": 1676131170,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277434,
+      "num": 277434,
+      "word": "高启强这个角色为何如此出圈",
+      "onboard_time": 1676186485,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 275272,
@@ -851,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246538,
+      "num": 246538,
+      "word": "阴阳师",
+      "onboard_time": 1676185588,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242942,
       "num": 242942,
       "word": "田柾国直播",
@@ -960,14 +1008,6 @@
       "word": "长征路上最小的红军战士逝世",
       "onboard_time": 1676178571,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214420,
-      "num": 214420,
-      "word": "绑架原县委书记嫌犯仍在逃",
-      "onboard_time": 1676185468,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1123,6 +1163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185732,
+      "num": 185732,
+      "word": "阳光开朗大男孩",
+      "onboard_time": 1676185047,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 185152,
       "num": 185152,
       "word": "王鹤棣西装造型手拿咖啡上班路透",
@@ -1145,14 +1193,6 @@
       "onboard_time": 1676182290,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 179152,
-      "num": 179152,
-      "word": "阳光开朗大男孩",
-      "onboard_time": 1676185047,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 178431,
@@ -1185,14 +1225,6 @@
       "onboard_time": 1676160682,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175029,
-      "num": 175029,
-      "word": "阴阳师",
-      "onboard_time": 1676185588,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 175009,
@@ -1411,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133228,
+      "num": 133228,
+      "word": "独行侠国王加时",
+      "onboard_time": 1676186188,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131109,
       "num": 131109,
       "word": "76人vs篮网",
@@ -1440,14 +1480,6 @@
       "word": "井柏然说兰花慢慢再开",
       "onboard_time": 1676183668,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 121768,
-      "num": 121768,
-      "word": "满江红有两个秦桧",
-      "onboard_time": 1676186128,
-      "rank": 49,
       "category": "影视"
     },
     {
