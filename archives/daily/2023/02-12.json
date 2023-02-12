@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676183804325,
+  "endTime": 1676186185244,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -33,6 +33,14 @@
       "onboard_time": 1676173108,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2568315,
+      "num": 2568315,
+      "word": "怎么还有papi酱",
+      "onboard_time": 1676180728,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2347478,
@@ -80,14 +88,6 @@
       "word": "日本的LiSA",
       "onboard_time": 1676177790,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1540428,
-      "num": 1540428,
-      "word": "怎么还有papi酱",
-      "onboard_time": 1676180728,
-      "rank": 1,
       "category": "综艺"
     },
     {
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1034327,
+      "num": 1034327,
+      "word": "人民网评狂飙演员曾涉毒",
+      "onboard_time": 1676181866,
+      "rank": 8,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 1034276,
       "num": 1034276,
       "word": "可能被ChatGPT取代的10大职业",
@@ -177,14 +185,6 @@
       "onboard_time": 1676127571,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 948025,
-      "num": 948025,
-      "word": "人民网评狂飙演员曾涉毒",
-      "onboard_time": 1676181866,
-      "rank": 8,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 936340,
@@ -209,6 +209,14 @@
       "onboard_time": 1676172687,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 841296,
+      "num": 620023,
+      "word": "如果真的有曾沛慈",
+      "onboard_time": 1676184150,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 826689,
@@ -299,6 +307,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 629998,
+      "num": 629998,
+      "word": "婴儿被困107小时得救吮吸护士手指",
+      "onboard_time": 1676183068,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 614398,
       "num": 614398,
       "word": "7旬老人输液瓶内现絮状物后抢救",
@@ -323,8 +339,8 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 585067,
-      "num": 585067,
+      "raw_hot": 598456,
+      "num": 598456,
       "word": "乘客称航班飞行时多次下坠引尖叫",
       "onboard_time": 1676180489,
       "rank": 9,
@@ -401,6 +417,14 @@
       "onboard_time": 1676172750,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 459704,
+      "num": 459704,
+      "word": "南宁房贷年龄期限可延长至80岁",
+      "onboard_time": 1676183429,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457038,
@@ -555,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 356983,
+      "num": 356983,
+      "word": "哇唧唧哇新人路演",
+      "onboard_time": 1676185349,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 355958,
       "num": 355958,
       "word": "土耳其7月大婴儿震后140小时获救",
@@ -587,12 +619,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 328649,
-      "num": 328649,
-      "word": "婴儿被困107小时得救吮吸护士手指",
-      "onboard_time": 1676183068,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 330830,
+      "num": 330830,
+      "word": "李小冉 虽然没有Joey但有的是老友",
+      "onboard_time": 1676184628,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 328421,
@@ -859,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231813,
+      "num": 231813,
+      "word": "虞书欣白色露背蓬蓬裙拍摄路透",
+      "onboard_time": 1676185768,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231604,
       "num": 231604,
       "word": "吴易昺首胜TOP10",
@@ -920,6 +960,14 @@
       "word": "长征路上最小的红军战士逝世",
       "onboard_time": 1676178571,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214420,
+      "num": 214420,
+      "word": "绑架原县委书记嫌犯仍在逃",
+      "onboard_time": 1676185468,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1043,8 +1091,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 188942,
-      "num": 188942,
+      "raw_hot": 189519,
+      "num": 189519,
       "word": "东契奇欧文合体",
       "onboard_time": 1676182229,
       "rank": 40,
@@ -1099,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179152,
+      "num": 179152,
+      "word": "阳光开朗大男孩",
+      "onboard_time": 1676185047,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178431,
       "num": 178431,
       "word": "范世錡向刘耀文传授演戏经验",
@@ -1115,12 +1171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176546,
+      "num": 176546,
+      "word": "贺峻霖个人技",
+      "onboard_time": 1676184327,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176378,
       "num": 176378,
       "word": "震后128小时土耳其13岁男孩获救",
       "onboard_time": 1676160682,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175029,
+      "num": 175029,
+      "word": "阴阳师",
+      "onboard_time": 1676185588,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 175009,
@@ -1219,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152842,
-      "num": 152842,
-      "word": "南宁房贷年龄期限可延长至80岁",
-      "onboard_time": 1676183429,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152140,
       "num": 152140,
       "word": "男子驱车看苗寨小姐姐发现全是阿姨",
@@ -1307,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137065,
+      "num": 137065,
+      "word": "汪汪队版想见你",
+      "onboard_time": 1676184327,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 136753,
       "num": 136753,
       "word": "中国奇谭收官",
@@ -1368,6 +1440,14 @@
       "word": "井柏然说兰花慢慢再开",
       "onboard_time": 1676183668,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 121768,
+      "num": 121768,
+      "word": "满江红有两个秦桧",
+      "onboard_time": 1676186128,
+      "rank": 49,
       "category": "影视"
     },
     {

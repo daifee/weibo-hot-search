@@ -1,0 +1,410 @@
+{
+  "runTime": 1676186185244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2568315,
+        "num": 2568315,
+        "word": "怎么还有papi酱",
+        "onboard_time": 1676180728,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1107057,
+        "num": 1107057,
+        "word": "医生称大学生精子活力不如30岁男性",
+        "onboard_time": 1676180250,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23468,
+        "num": 1050331,
+        "word": "中国空间站第一视角看地球转动",
+        "onboard_time": 1676118088,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038269,
+        "num": 1038269,
+        "word": "日本的LiSA",
+        "onboard_time": 1676177790,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1034327,
+        "num": 1034327,
+        "word": "人民网评狂飙演员曾涉毒",
+        "onboard_time": 1676181866,
+        "rank": 4,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 919644,
+        "num": 919644,
+        "word": "Jessi来了还能播吗",
+        "onboard_time": 1676175449,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 629998,
+        "num": 629998,
+        "word": "婴儿被困107小时得救吮吸护士手指",
+        "onboard_time": 1676183068,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841296,
+        "num": 620023,
+        "word": "如果真的有曾沛慈",
+        "onboard_time": 1676184150,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598456,
+        "num": 598456,
+        "word": "乘客称航班飞行时多次下坠引尖叫",
+        "onboard_time": 1676180489,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596513,
+        "num": 596513,
+        "word": "车保罗说赵樱子没人选不是剧本",
+        "onboard_time": 1676179950,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562675,
+        "num": 562675,
+        "word": "二百者也",
+        "onboard_time": 1676179711,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 510520,
+        "num": 510520,
+        "word": "相差10岁的童瑶张新成演情侣了",
+        "onboard_time": 1676180369,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501222,
+        "num": 501222,
+        "word": "男孩举手7次后身亡妈妈发文",
+        "onboard_time": 1676166867,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474289,
+        "num": 474289,
+        "word": "央美准考证模版用肖战照片",
+        "onboard_time": 1676170648,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459704,
+        "num": 459704,
+        "word": "南宁房贷年龄期限可延长至80岁",
+        "onboard_time": 1676183429,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405841,
+        "num": 405841,
+        "word": "浪姐4 嘉宾名单",
+        "onboard_time": 1676168305,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385527,
+        "num": 385527,
+        "word": "王楚然 小说女主",
+        "onboard_time": 1676172931,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356983,
+        "num": 356983,
+        "word": "哇唧唧哇新人路演",
+        "onboard_time": 1676185349,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 330830,
+        "num": 330830,
+        "word": "李小冉 虽然没有Joey但有的是老友",
+        "onboard_time": 1676184628,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314031,
+        "num": 314031,
+        "word": "男子震后靠可乐坚持134小时获救",
+        "onboard_time": 1676172687,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294374,
+        "num": 294374,
+        "word": "宋亚轩二专",
+        "onboard_time": 1676177071,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266747,
+        "num": 266747,
+        "word": "于正 我绝对是娱乐圈的另类",
+        "onboard_time": 1676180670,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245623,
+        "num": 245623,
+        "word": "缉毒警察的付出与涉毒艺人的复出",
+        "onboard_time": 1676182769,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 235704,
+        "num": 235704,
+        "word": "金博洋太不容易了",
+        "onboard_time": 1676178092,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233127,
+        "num": 233127,
+        "word": "男子吐槽15万装修婚房不如出租屋",
+        "onboard_time": 1676166446,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231813,
+        "num": 231813,
+        "word": "虞书欣白色露背蓬蓬裙拍摄路透",
+        "onboard_time": 1676185768,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214420,
+        "num": 214420,
+        "word": "绑架原县委书记嫌犯仍在逃",
+        "onboard_time": 1676185468,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202060,
+        "num": 202060,
+        "word": "人民币贷款创历史新高",
+        "onboard_time": 1676171727,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194600,
+        "num": 194600,
+        "word": "重庆一对情侣蹦极倒挂滞留半空",
+        "onboard_time": 1676167467,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192036,
+        "num": 192036,
+        "word": "朱珠产后带孩子进组拍戏",
+        "onboard_time": 1676176470,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190699,
+        "num": 190699,
+        "word": "真的会有艾薇儿吗",
+        "onboard_time": 1676174308,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189519,
+        "num": 189519,
+        "word": "东契奇欧文合体",
+        "onboard_time": 1676182229,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185993,
+        "num": 185993,
+        "word": "养4年流浪金毛送婚戒满眼只有主人",
+        "onboard_time": 1676179469,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182376,
+        "num": 182376,
+        "word": "满江红",
+        "onboard_time": 1676180970,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179482,
+        "num": 179482,
+        "word": "谷阿莫参选台独政党委员落选",
+        "onboard_time": 1676178511,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179152,
+        "num": 179152,
+        "word": "阳光开朗大男孩",
+        "onboard_time": 1676185047,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176546,
+        "num": 176546,
+        "word": "贺峻霖个人技",
+        "onboard_time": 1676184327,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176493,
+        "num": 176493,
+        "word": "买房租房哪个更划算",
+        "onboard_time": 1676175207,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175029,
+        "num": 175029,
+        "word": "阴阳师",
+        "onboard_time": 1676185588,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172448,
+        "num": 172448,
+        "word": "王鹤棣西装造型手拿咖啡上班路透",
+        "onboard_time": 1676182290,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169853,
+        "num": 169853,
+        "word": "熬夜可能会导致大脑损伤提早",
+        "onboard_time": 1676169386,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166298,
+        "num": 166298,
+        "word": "男童被炸致截肢背后的炮仗调查",
+        "onboard_time": 1676179650,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154947,
+        "num": 154947,
+        "word": "郑州小伙1年半花百万造飞机",
+        "onboard_time": 1676177971,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143014,
+        "num": 143014,
+        "word": "阿凡达2进入影史票房榜前三",
+        "onboard_time": 1676176889,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138059,
+        "num": 138059,
+        "word": "妈妈为女儿开3元理发店20年不涨价",
+        "onboard_time": 1676174248,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137065,
+        "num": 137065,
+        "word": "汪汪队版想见你",
+        "onboard_time": 1676184327,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136146,
+        "num": 136146,
+        "word": "别对我动心主演 周也林一",
+        "onboard_time": 1676177790,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134364,
+        "num": 134364,
+        "word": "1894个账号借胡鑫宇事件造谣传谣被处置",
+        "onboard_time": 1676176349,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122066,
+        "num": 122066,
+        "word": "吾乡有情人 孙千",
+        "onboard_time": 1676175568,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121768,
+        "num": 121768,
+        "word": "满江红有两个秦桧",
+        "onboard_time": 1676186128,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化创造人类文明新形态#"
+    }
+  }
+}
