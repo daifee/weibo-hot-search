@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676175749793,
+  "endTime": 1676176650845,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -41,6 +41,14 @@
       "onboard_time": 1676166867,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1872724,
+      "num": 1872724,
+      "word": "Jessi来了还能播吗",
+      "onboard_time": 1676175449,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1864912,
@@ -147,8 +155,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 850553,
-      "num": 850553,
+      "raw_hot": 903150,
+      "num": 903150,
       "word": "男子震后靠可乐坚持134小时获救",
       "onboard_time": 1676172687,
       "rank": 41,
@@ -185,14 +193,6 @@
       "onboard_time": 1676128653,
       "rank": 5,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 679697,
-      "num": 679697,
-      "word": "Jessi来了还能播吗",
-      "onboard_time": 1676175449,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 674765,
@@ -241,6 +241,14 @@
       "onboard_time": 1676163145,
       "rank": 5,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 586487,
+      "num": 586487,
+      "word": "朱珠产后带孩子进组拍戏",
+      "onboard_time": 1676176470,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 577942,
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404761,
+      "num": 404761,
+      "word": "妈妈为女儿开3元理发店20年不涨价",
+      "onboard_time": 1676174248,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392054,
       "num": 392054,
       "word": "土耳其华人被埋25小时后获救",
@@ -385,6 +401,14 @@
       "onboard_time": 1676122350,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 381658,
+      "num": 381658,
+      "word": "吾乡有情人 孙千",
+      "onboard_time": 1676175568,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 380918,
@@ -411,12 +435,12 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 366222,
-      "num": 366222,
-      "word": "妈妈为女儿开3元理发店20年不涨价",
-      "onboard_time": 1676174248,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 376363,
+      "num": 376363,
+      "word": "湖人vs勇士",
+      "onboard_time": 1676165727,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 355958,
@@ -467,12 +491,20 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 318254,
-      "num": 318254,
-      "word": "湖人vs勇士",
-      "onboard_time": 1676165727,
+      "raw_hot": 316063,
+      "num": 316063,
+      "word": "专家称中国版ChatGPT难度更高",
+      "onboard_time": 1676174788,
       "rank": 35,
-      "category": "体育"
+      "category": "科技"
+    },
+    {
+      "raw_hot": 314757,
+      "num": 314757,
+      "word": "买房租房哪个更划算",
+      "onboard_time": 1676175207,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 304888,
@@ -579,6 +611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 260595,
+      "num": 260595,
+      "word": "叙大使称地震后5天西方未提供任何援助",
+      "onboard_time": 1676174968,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 260430,
       "num": 260430,
       "word": "沈小婷舞台",
@@ -683,14 +723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214192,
-      "num": 214192,
-      "word": "吾乡有情人 孙千",
-      "onboard_time": 1676175568,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 213545,
       "num": 213545,
       "word": "多家快递回应站点派件延迟问题",
@@ -713,14 +745,6 @@
       "onboard_time": 1676121689,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 200868,
-      "num": 200868,
-      "word": "叙大使称地震后5天西方未提供任何援助",
-      "onboard_time": 1676174968,
-      "rank": 31,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 198704,
@@ -795,12 +819,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 179578,
-      "num": 179578,
-      "word": "专家称中国版ChatGPT难度更高",
-      "onboard_time": 1676174788,
-      "rank": 35,
-      "category": "科技"
+      "raw_hot": 181691,
+      "num": 181691,
+      "word": "于正说李奕臻适合做顶楼接班人",
+      "onboard_time": 1676176109,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 178431,
@@ -881,6 +905,14 @@
       "onboard_time": 1676158338,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157805,
+      "num": 157805,
+      "word": "1894个账号借胡鑫宇事件造谣传谣被处置",
+      "onboard_time": 1676176349,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157167,
@@ -969,14 +1001,6 @@
       "onboard_time": 1676171488,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139376,
-      "num": 139376,
-      "word": "买房租房哪个更划算",
-      "onboard_time": 1676175207,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 138819,

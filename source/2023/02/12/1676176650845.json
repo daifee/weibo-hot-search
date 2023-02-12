@@ -1,0 +1,410 @@
+{
+  "runTime": 1676176650845,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2722182,
+        "num": 2722182,
+        "word": "迪丽热巴婚纱大片",
+        "onboard_time": 1676173108,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1872724,
+        "num": 1872724,
+        "word": "Jessi来了还能播吗",
+        "onboard_time": 1676175449,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37825,
+        "num": 1355973,
+        "word": "中国空间站第一视角看地球转动",
+        "onboard_time": 1676118088,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1247985,
+        "num": 1247985,
+        "word": "王楚然 小说女主",
+        "onboard_time": 1676172931,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 966724,
+        "num": 966724,
+        "word": "浪姐4 嘉宾名单",
+        "onboard_time": 1676168305,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 959995,
+        "num": 959995,
+        "word": "央美准考证模版用肖战照片",
+        "onboard_time": 1676170648,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 903150,
+        "num": 903150,
+        "word": "男子震后靠可乐坚持134小时获救",
+        "onboard_time": 1676172687,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753948,
+        "num": 753948,
+        "word": "重庆一对情侣蹦极倒挂滞留半空",
+        "onboard_time": 1676167467,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694256,
+        "num": 694256,
+        "word": "大理12岁双胞胎兄弟失联已8天",
+        "onboard_time": 1676171846,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686340,
+        "num": 686340,
+        "word": "真的会有艾薇儿吗",
+        "onboard_time": 1676174308,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1016260,
+        "num": 665757,
+        "word": "男孩举手7次后身亡妈妈发文",
+        "onboard_time": 1676166867,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638486,
+        "num": 638486,
+        "word": "熬夜可能会导致大脑损伤提早",
+        "onboard_time": 1676169386,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586487,
+        "num": 586487,
+        "word": "朱珠产后带孩子进组拍戏",
+        "onboard_time": 1676176470,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 582836,
+        "num": 582836,
+        "word": "男子吐槽15万装修婚房不如出租屋",
+        "onboard_time": 1676166446,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553722,
+        "num": 553722,
+        "word": "人民币贷款创历史新高",
+        "onboard_time": 1676171727,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 424564,
+        "num": 424564,
+        "word": "京考",
+        "onboard_time": 1676172750,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404761,
+        "num": 404761,
+        "word": "妈妈为女儿开3元理发店20年不涨价",
+        "onboard_time": 1676174248,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381658,
+        "num": 381658,
+        "word": "吾乡有情人 孙千",
+        "onboard_time": 1676175568,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376363,
+        "num": 376363,
+        "word": "湖人vs勇士",
+        "onboard_time": 1676165727,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353115,
+        "num": 353115,
+        "word": "天津地铁回应2男子打架波及小孩",
+        "onboard_time": 1676171664,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401119,
+        "num": 348553,
+        "word": "从此小说里的女主有脸了",
+        "onboard_time": 1676172027,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336657,
+        "num": 336657,
+        "word": "土耳其7月大婴儿震后140小时获救",
+        "onboard_time": 1676174308,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316063,
+        "num": 316063,
+        "word": "专家称中国版ChatGPT难度更高",
+        "onboard_time": 1676174788,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 314757,
+        "num": 314757,
+        "word": "买房租房哪个更划算",
+        "onboard_time": 1676175207,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287478,
+        "num": 287478,
+        "word": "鹿晗五哈渐变羽绒服上班路透",
+        "onboard_time": 1676173826,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286526,
+        "num": 286526,
+        "word": "人鱼",
+        "onboard_time": 1676125952,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260595,
+        "num": 260595,
+        "word": "叙大使称地震后5天西方未提供任何援助",
+        "onboard_time": 1676174968,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 220132,
+        "num": 220132,
+        "word": "樊振东晒球衣庆祝皇马夺冠",
+        "onboard_time": 1676171786,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 207254,
+        "num": 207254,
+        "word": "梁朝伟拍打戏怕王一博受伤",
+        "onboard_time": 1676173826,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203712,
+        "num": 203712,
+        "word": "女大学生误入传销父亲冲进窝点解救",
+        "onboard_time": 1676165488,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183012,
+        "num": 183012,
+        "word": "言承旭说自己是第一代刘畊宏男孩",
+        "onboard_time": 1676169447,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181691,
+        "num": 181691,
+        "word": "于正说李奕臻适合做顶楼接班人",
+        "onboard_time": 1676176109,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180618,
+        "num": 180618,
+        "word": "龚俊大学时候的秘密",
+        "onboard_time": 1676163324,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169848,
+        "num": 169848,
+        "word": "鹿晗献唱中国乒乓主题曲",
+        "onboard_time": 1676170648,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 807545,
+        "num": 169820,
+        "word": "含笑 飞天",
+        "onboard_time": 1676173706,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169559,
+        "num": 169559,
+        "word": "詹姆斯脚伤恐将贯穿整个赛季",
+        "onboard_time": 1676164347,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164552,
+        "num": 164552,
+        "word": "海恩贤圭贴脸搂肩合照",
+        "onboard_time": 1676169087,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157805,
+        "num": 157805,
+        "word": "1894个账号借胡鑫宇事件造谣传谣被处置",
+        "onboard_time": 1676176349,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156763,
+        "num": 156763,
+        "word": "李一桐郭晓婷当群演一天赚了288",
+        "onboard_time": 1676127571,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145932,
+        "num": 145932,
+        "word": "芭莎情人节",
+        "onboard_time": 1676173108,
+        "rank": 39,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 145735,
+        "num": 145735,
+        "word": "Light眼泛泪光",
+        "onboard_time": 1676167286,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142144,
+        "num": 142144,
+        "word": "一诺队友",
+        "onboard_time": 1676164347,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140349,
+        "num": 140349,
+        "word": "含笑",
+        "onboard_time": 1676126610,
+        "rank": 42,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 131907,
+        "num": 131907,
+        "word": "拉塞尔回归湖人首秀",
+        "onboard_time": 1676175568,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123636,
+        "num": 123636,
+        "word": "YSKM发文感谢粉丝",
+        "onboard_time": 1676171488,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122480,
+        "num": 122480,
+        "word": "白鹿以爱为营浅绿色上衣路透",
+        "onboard_time": 1676172868,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121920,
+        "num": 121920,
+        "word": "林孝埈B组第一",
+        "onboard_time": 1676169447,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1606562,
+        "num": 119444,
+        "word": "狂飙王秘书也不是演的",
+        "onboard_time": 1676171246,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114254,
+        "num": 114254,
+        "word": "李佳琦见到王嘉尔了",
+        "onboard_time": 1676158939,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111092,
+        "num": 111092,
+        "word": "逛街偶遇刘耀文张真源严浩翔",
+        "onboard_time": 1676167766,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化创造人类文明新形态#"
+    }
+  }
+}

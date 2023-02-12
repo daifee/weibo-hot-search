@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/12 00:24:17 ~ 2023/02/12 12:22:29
+本榜单时间：2023/02/12 00:24:17 ~ 2023/02/12 12:37:30
 </p>
 </blockquote>
 <p>
@@ -41,6 +41,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%B8%BE%E6%89%8B7%E6%AC%A1%E5%90%8E%E8%BA%AB%E4%BA%A1%E5%A6%88%E5%A6%88%E5%8F%91%E6%96%87%23" target="weibo">
 男孩举手7次后身亡妈妈发文（热度：2041658）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Jessi%E6%9D%A5%E4%BA%86%E8%BF%98%E8%83%BD%E6%92%AD%E5%90%97%23" target="weibo">
+Jessi来了还能播吗（热度：1872724）
 </a>
 </li>
 
@@ -124,7 +130,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9C%87%E5%90%8E%E9%9D%A0%E5%8F%AF%E4%B9%90%E5%9D%9A%E6%8C%81134%E5%B0%8F%E6%97%B6%E8%8E%B7%E6%95%91%23" target="weibo">
-男子震后靠可乐坚持134小时获救（热度：850553）
+男子震后靠可乐坚持134小时获救（热度：903150）
 </a>
 </li>
 
@@ -149,12 +155,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E6%97%85%E6%B8%B8%E5%8F%91%E7%8E%B0%E6%8B%94%E7%99%BD%E5%8F%91%E6%9C%8D%E5%8A%A1%E4%B8%80%E5%B0%8F%E6%97%B650%E5%85%83%23" target="weibo">
 三亚旅游发现拔白发服务一小时50元（热度：708058）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Jessi%E6%9D%A5%E4%BA%86%E8%BF%98%E8%83%BD%E6%92%AD%E5%90%97%23" target="weibo">
-Jessi来了还能播吗（热度：679697）
 </a>
 </li>
 
@@ -191,6 +191,12 @@ Jessi来了还能播吗（热度：679697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%AD%A6%E5%A5%B3%E5%85%B5%E5%85%A5%E4%BC%8D%E5%89%8Dvs%E5%85%A5%E4%BC%8D%E5%90%8E%23" target="weibo">
 武警女兵入伍前vs入伍后（热度：604613）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E4%BA%A7%E5%90%8E%E5%B8%A6%E5%AD%A9%E5%AD%90%E8%BF%9B%E7%BB%84%E6%8B%8D%E6%88%8F%23" target="weibo">
+朱珠产后带孩子进组拍戏（热度：586487）
 </a>
 </li>
 
@@ -291,6 +297,12 @@ Jessi来了还能播吗（热度：679697）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%BA%E5%A5%B3%E5%84%BF%E5%BC%803%E5%85%83%E7%90%86%E5%8F%91%E5%BA%9720%E5%B9%B4%E4%B8%8D%E6%B6%A8%E4%BB%B7%23" target="weibo">
+妈妈为女儿开3元理发店20年不涨价（热度：404761）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B6%E5%8D%8E%E4%BA%BA%E8%A2%AB%E5%9F%8B25%E5%B0%8F%E6%97%B6%E5%90%8E%E8%8E%B7%E6%95%91%23" target="weibo">
 土耳其华人被埋25小时后获救（热度：392054）
 </a>
@@ -299,6 +311,12 @@ Jessi来了还能播吗（热度：679697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%20%E5%8D%8A%E5%86%B3%E8%B5%9B%23" target="weibo">
 林孝埈 半决赛（热度：387900）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%BE%E4%B9%A1%E6%9C%89%E6%83%85%E4%BA%BA%20%E5%AD%99%E5%8D%83%23" target="weibo">
+吾乡有情人 孙千（热度：381658）
 </a>
 </li>
 
@@ -321,8 +339,8 @@ Jessi来了还能播吗（热度：679697）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%BA%E5%A5%B3%E5%84%BF%E5%BC%803%E5%85%83%E7%90%86%E5%8F%91%E5%BA%9720%E5%B9%B4%E4%B8%8D%E6%B6%A8%E4%BB%B7%23" target="weibo">
-妈妈为女儿开3元理发店20年不涨价（热度：366222）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BAvs%E5%8B%87%E5%A3%AB%23" target="weibo">
+湖人vs勇士（热度：376363）
 </a>
 </li>
 
@@ -363,8 +381,14 @@ Jessi来了还能播吗（热度：679697）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BAvs%E5%8B%87%E5%A3%AB%23" target="weibo">
-湖人vs勇士（热度：318254）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%89%88ChatGPT%E9%9A%BE%E5%BA%A6%E6%9B%B4%E9%AB%98%23" target="weibo">
+专家称中国版ChatGPT难度更高（热度：316063）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%88%BF%E7%A7%9F%E6%88%BF%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%88%92%E7%AE%97%23" target="weibo">
+买房租房哪个更划算（热度：314757）
 </a>
 </li>
 
@@ -447,6 +471,12 @@ IVE新歌NotYourGirl（热度：261782）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%A4%A7%E4%BD%BF%E7%A7%B0%E5%9C%B0%E9%9C%87%E5%90%8E5%E5%A4%A9%E8%A5%BF%E6%96%B9%E6%9C%AA%E6%8F%90%E4%BE%9B%E4%BB%BB%E4%BD%95%E6%8F%B4%E5%8A%A9%23" target="weibo">
+叙大使称地震后5天西方未提供任何援助（热度：260595）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E5%B0%8F%E5%A9%B7%E8%88%9E%E5%8F%B0%23" target="weibo">
 沈小婷舞台（热度：260430）
 </a>
@@ -525,12 +555,6 @@ RW战胜AG（热度：230939）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%BE%E4%B9%A1%E6%9C%89%E6%83%85%E4%BA%BA%20%E5%AD%99%E5%8D%83%23" target="weibo">
-吾乡有情人 孙千（热度：214192）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%BF%AB%E9%80%92%E5%9B%9E%E5%BA%94%E7%AB%99%E7%82%B9%E6%B4%BE%E4%BB%B6%E5%BB%B6%E8%BF%9F%E9%97%AE%E9%A2%98%23" target="weibo">
 多家快递回应站点派件延迟问题（热度：213545）
 </a>
@@ -545,12 +569,6 @@ RW战胜AG（热度：230939）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E7%BF%BB%E8%B7%B3PinkVenom%E8%A7%86%E9%A2%91%23" target="weibo">
 张元英翻跳PinkVenom视频（热度：209080）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%A4%A7%E4%BD%BF%E7%A7%B0%E5%9C%B0%E9%9C%87%E5%90%8E5%E5%A4%A9%E8%A5%BF%E6%96%B9%E6%9C%AA%E6%8F%90%E4%BE%9B%E4%BB%BB%E4%BD%95%E6%8F%B4%E5%8A%A9%23" target="weibo">
-叙大使称地震后5天西方未提供任何援助（热度：200868）
 </a>
 </li>
 
@@ -609,8 +627,8 @@ RW战胜AG（热度：230939）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%89%88ChatGPT%E9%9A%BE%E5%BA%A6%E6%9B%B4%E9%AB%98%23" target="weibo">
-专家称中国版ChatGPT难度更高（热度：179578）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E6%9D%8E%E5%A5%95%E8%87%BB%E9%80%82%E5%90%88%E5%81%9A%E9%A1%B6%E6%A5%BC%E6%8E%A5%E7%8F%AD%E4%BA%BA%23" target="weibo">
+于正说李奕臻适合做顶楼接班人（热度：181691）
 </a>
 </li>
 
@@ -671,6 +689,12 @@ RW战胜AG（热度：230939）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9A%87%E5%AE%B6%E9%A9%AC%E5%BE%B7%E9%87%8C5%E6%AF%943%E5%88%A9%E9%9B%85%E5%BE%97%E6%96%B0%E6%9C%88%23" target="weibo">
 皇家马德里5比3利雅得新月（热度：162046）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%231894%E4%B8%AA%E8%B4%A6%E5%8F%B7%E5%80%9F%E8%83%A1%E9%91%AB%E5%AE%87%E4%BA%8B%E4%BB%B6%E9%80%A0%E8%B0%A3%E4%BC%A0%E8%B0%A3%E8%A2%AB%E5%A4%84%E7%BD%AE%23" target="weibo">
+1894个账号借胡鑫宇事件造谣传谣被处置（热度：157805）
 </a>
 </li>
 
@@ -737,12 +761,6 @@ RNG官宣教练Heart离队（热度：142175）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23YSKM%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E7%B2%89%E4%B8%9D%23" target="weibo">
 YSKM发文感谢粉丝（热度：140904）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%88%BF%E7%A7%9F%E6%88%BF%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%88%92%E7%AE%97%23" target="weibo">
-买房租房哪个更划算（热度：139376）
 </a>
 </li>
 
