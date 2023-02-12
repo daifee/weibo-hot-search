@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676234027933,
+  "endTime": 1676236549053,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -27363,6 +27363,14 @@
       "category": "幽默,旅游"
     },
     {
+      "raw_hot": 84115,
+      "num": 84115,
+      "word": "家人之间情绪稳定有多重要",
+      "onboard_time": 1676231532,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83722,
       "num": 83722,
       "word": "英媒评男子运动员9位GOAT",
@@ -27825,14 +27833,6 @@
       "onboard_time": 1675187837,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45839,
-      "num": 45839,
-      "word": "家人之间情绪稳定有多重要",
-      "onboard_time": 1676231532,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 45201,

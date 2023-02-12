@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676234027933,
+  "endTime": 1676236549053,
   "band_list": [
     {
       "raw_hot": 2111971,
@@ -459,6 +459,14 @@
       "category": "幽默,旅游"
     },
     {
+      "raw_hot": 84115,
+      "num": 84115,
+      "word": "家人之间情绪稳定有多重要",
+      "onboard_time": 1676231532,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 74420,
       "num": 74420,
       "word": "满江红秦桧房间是如何设计的",
@@ -481,14 +489,6 @@
       "onboard_time": 1676231891,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45839,
-      "num": 45839,
-      "word": "家人之间情绪稳定有多重要",
-      "onboard_time": 1676231532,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 43475,
