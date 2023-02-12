@@ -1,6 +1,6 @@
 {
   "startTime": 1675614221615,
-  "endTime": 1676200501164,
+  "endTime": 1676201604895,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2105981,
+      "num": 2105981,
+      "word": "山东海域发现不明飞行物",
+      "onboard_time": 1676198250,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2105254,
       "num": 2105254,
       "word": "杭州一公司招聘2000元日薪凶宅试睡员",
@@ -793,14 +801,6 @@
       "onboard_time": 1676099906,
       "rank": 8,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 1702509,
-      "num": 1702509,
-      "word": "山东海域发现不明飞行物",
-      "onboard_time": 1676198250,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1690114,
@@ -3155,6 +3155,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 756442,
+      "num": 756442,
+      "word": "流浪地球2成中国影史票房榜第10名",
+      "onboard_time": 1676198669,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 756282,
       "num": 756282,
       "word": "7pm 好听",
@@ -3467,14 +3475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 717081,
-      "num": 717081,
-      "word": "流浪地球2成中国影史票房榜第10名",
-      "onboard_time": 1676198669,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 715591,
       "num": 715591,
       "word": "车保罗说赵樱子没人选不是剧本",
@@ -3489,6 +3489,14 @@
       "onboard_time": 1676121868,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 712145,
+      "num": 712145,
+      "word": "高启盛走路",
+      "onboard_time": 1676197231,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 711146,
@@ -3835,14 +3843,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 666332,
-      "num": 666332,
-      "word": "高启盛走路",
-      "onboard_time": 1676197231,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 664788,
       "num": 664788,
       "word": "倪妮消失的她短发机车造型",
@@ -3865,6 +3865,14 @@
       "onboard_time": 1676042671,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 659584,
+      "num": 659584,
+      "word": "女生买的二手书里夹了400块后续",
+      "onboard_time": 1676197111,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 659580,
@@ -4083,14 +4091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 639148,
-      "num": 639148,
-      "word": "女生买的二手书里夹了400块后续",
-      "onboard_time": 1676197111,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 639123,
       "num": 639123,
       "word": "乳山银滩6万元可买一套海景房",
@@ -4129,6 +4129,14 @@
       "onboard_time": 1675839330,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635312,
+      "num": 635312,
+      "word": "姐弟俩仿冒论文期刊四年牟利1800多万",
+      "onboard_time": 1676199752,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 633694,
@@ -5235,6 +5243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 523288,
+      "num": 523288,
+      "word": "渤海",
+      "onboard_time": 1676199034,
+      "rank": 18,
+      "category": "军事"
+    },
+    {
       "raw_hot": 523081,
       "num": 523081,
       "word": "强震已致土耳其叙利亚上万人遇难",
@@ -5281,6 +5297,14 @@
       "onboard_time": 1675806972,
       "rank": 30,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 521458,
+      "num": 521458,
+      "word": "女子智齿位置奇特目测要背井离乡",
+      "onboard_time": 1676198850,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 520159,
@@ -6057,14 +6081,6 @@
       "onboard_time": 1676014111,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450043,
-      "num": 450043,
-      "word": "女子智齿位置奇特目测要背井离乡",
-      "onboard_time": 1676198850,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 449359,
@@ -8137,14 +8153,6 @@
       "onboard_time": 1675904309,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332249,
-      "num": 332249,
-      "word": "渤海",
-      "onboard_time": 1676199034,
-      "rank": 18,
-      "category": "军事"
     },
     {
       "raw_hot": 331950,
@@ -10819,14 +10827,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 240837,
-      "num": 240837,
-      "word": "姐弟俩仿冒论文期刊四年牟利1800多万",
-      "onboard_time": 1676199752,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 240563,
       "num": 240563,
       "word": "欧文独行侠首秀",
@@ -10977,6 +10977,14 @@
       "onboard_time": 1675844672,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 234418,
+      "num": 234418,
+      "word": "林书豪中国台湾联赛首秀",
+      "onboard_time": 1676200470,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 234346,
@@ -11843,6 +11851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210878,
+      "num": 210878,
+      "word": "北京河北部分网友有震感",
+      "onboard_time": 1676198131,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210781,
       "num": 210781,
       "word": "多地推行现房销售试点",
@@ -11857,6 +11873,14 @@
       "onboard_time": 1676122831,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209931,
+      "num": 209931,
+      "word": "新疆草莓音乐节",
+      "onboard_time": 1676199991,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 209851,
@@ -12923,14 +12947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184166,
-      "num": 184166,
-      "word": "北京河北部分网友有震感",
-      "onboard_time": 1676198131,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184121,
       "num": 184121,
       "word": "ChatGPT遭越狱",
@@ -13009,14 +13025,6 @@
       "onboard_time": 1676082147,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182573,
-      "num": 182573,
-      "word": "新疆草莓音乐节",
-      "onboard_time": 1676199991,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 182554,
@@ -13347,6 +13355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176346,
+      "num": 176346,
+      "word": "暖阳露娜月下无限连",
+      "onboard_time": 1676198789,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176093,
       "num": 176093,
       "word": "蒲熠星沉浸式演技",
@@ -13457,14 +13473,6 @@
       "onboard_time": 1676130393,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173725,
-      "num": 173725,
-      "word": "暖阳露娜月下无限连",
-      "onboard_time": 1676198789,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 173461,
@@ -14105,6 +14113,14 @@
       "onboard_time": 1675754250,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159502,
+      "num": 159502,
+      "word": "北京近期发生4级以上地震可能性不大",
+      "onboard_time": 1676200770,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159326,
@@ -15025,14 +15041,6 @@
       "onboard_time": 1675957658,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 131145,
-      "num": 131145,
-      "word": "林书豪中国台湾联赛首秀",
-      "onboard_time": 1676200470,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 131109,
