@@ -1,0 +1,410 @@
+{
+  "runTime": 1676170168679,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2303871,
+        "num": 2303871,
+        "word": "浪姐4 嘉宾名单",
+        "onboard_time": 1676168305,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1544159,
+        "num": 1544159,
+        "word": "男孩举手7次后身亡妈妈发文",
+        "onboard_time": 1676166867,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40141,
+        "num": 1302773,
+        "word": "2023春耕进行时",
+        "onboard_time": 1676125775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4207738,
+        "num": 1294684,
+        "word": "狂飙涉毒演员含笑发文道歉",
+        "onboard_time": 1676162063,
+        "rank": 3,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 1193381,
+        "num": 1193381,
+        "word": "重庆一对情侣蹦极倒挂滞留半空",
+        "onboard_time": 1676167467,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1168389,
+        "num": 1168389,
+        "word": "狂飙修改删除涉毒演员戏份",
+        "onboard_time": 1676129014,
+        "rank": 5,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 1118114,
+        "num": 1118114,
+        "word": "多国学校禁止学生使用ChatGPT",
+        "onboard_time": 1676166627,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1100463,
+        "num": 1100463,
+        "word": "男子吐槽15万装修婚房不如出租屋",
+        "onboard_time": 1676166446,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891012,
+        "num": 891012,
+        "word": "人鱼",
+        "onboard_time": 1676125952,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 860027,
+        "num": 860027,
+        "word": "女大学生误入传销父亲冲进窝点解救",
+        "onboard_time": 1676165488,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481838,
+        "num": 481838,
+        "word": "龚俊大学时候的秘密",
+        "onboard_time": 1676163324,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471033,
+        "num": 471033,
+        "word": "听说你喜欢我热度值破25000",
+        "onboard_time": 1676166566,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404370,
+        "num": 404370,
+        "word": "言承旭说自己是第一代刘畊宏男孩",
+        "onboard_time": 1676169447,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352225,
+        "num": 352225,
+        "word": "詹姆斯脚伤恐将贯穿整个赛季",
+        "onboard_time": 1676164347,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345735,
+        "num": 345735,
+        "word": "货车侧翻7吨臭豆腐横撒高速",
+        "onboard_time": 1676157436,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326803,
+        "num": 326803,
+        "word": "特鲁多声称下令击落进入加空域不明物体",
+        "onboard_time": 1676165906,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 321731,
+        "num": 321731,
+        "word": "流浪地球既视感的哈尔滨清雪车",
+        "onboard_time": 1676167648,
+        "rank": 16,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 313035,
+        "num": 313035,
+        "word": "海恩贤圭贴脸搂肩合照",
+        "onboard_time": 1676169087,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296405,
+        "num": 296405,
+        "word": "熬夜可能会导致大脑损伤提早",
+        "onboard_time": 1676169386,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280803,
+        "num": 280803,
+        "word": "李佳琦见到王嘉尔了",
+        "onboard_time": 1676158939,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279064,
+        "num": 279064,
+        "word": "这样做远离阿尔茨海默病",
+        "onboard_time": 1676164587,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277772,
+        "num": 277772,
+        "word": "武警女兵入伍前vs入伍后",
+        "onboard_time": 1676163145,
+        "rank": 21,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 248243,
+        "num": 248243,
+        "word": "谷爱凌参观勇士训练",
+        "onboard_time": 1676166388,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247022,
+        "num": 247022,
+        "word": "Light眼泛泪光",
+        "onboard_time": 1676167286,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244678,
+        "num": 244678,
+        "word": "王一博人鱼表情包",
+        "onboard_time": 1676162603,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243399,
+        "num": 243399,
+        "word": "林孝埈B组第一",
+        "onboard_time": 1676169447,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242268,
+        "num": 242268,
+        "word": "一诺队友",
+        "onboard_time": 1676164347,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238937,
+        "num": 238937,
+        "word": "杭州一套凶宅起拍单价2万你敢买吗",
+        "onboard_time": 1676126071,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231604,
+        "num": 231604,
+        "word": "吴易昺首胜TOP10",
+        "onboard_time": 1676168666,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228899,
+        "num": 228899,
+        "word": "李一桐郭晓婷当群演一天赚了288",
+        "onboard_time": 1676127571,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213545,
+        "num": 213545,
+        "word": "多家快递回应站点派件延迟问题",
+        "onboard_time": 1676168126,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199223,
+        "num": 199223,
+        "word": "含笑",
+        "onboard_time": 1676126610,
+        "rank": 31,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 195696,
+        "num": 195696,
+        "word": "沈小婷舞台",
+        "onboard_time": 1676159300,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193771,
+        "num": 193771,
+        "word": "土耳其华人被埋25小时后获救",
+        "onboard_time": 1676152572,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193675,
+        "num": 193675,
+        "word": "三亚旅游发现拔白发服务一小时50元",
+        "onboard_time": 1676128653,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 191729,
+        "num": 191729,
+        "word": "扶风县拆迁人员与村民发生冲突",
+        "onboard_time": 1676167587,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187278,
+        "num": 187278,
+        "word": "逛街偶遇刘耀文张真源严浩翔",
+        "onboard_time": 1676167766,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186335,
+        "num": 186335,
+        "word": "田柾国直播",
+        "onboard_time": 1676159180,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182285,
+        "num": 182285,
+        "word": "湖人vs勇士",
+        "onboard_time": 1676165727,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175009,
+        "num": 175009,
+        "word": "重紫单人剧照",
+        "onboard_time": 1676169687,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156196,
+        "num": 156196,
+        "word": "土耳其地震后一猫一狗紧紧相依",
+        "onboard_time": 1676137278,
+        "rank": 40,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 177513,
+        "num": 155498,
+        "word": "狂飙严正声明",
+        "onboard_time": 1676125108,
+        "rank": 41,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 152153,
+        "num": 152153,
+        "word": "张天爱大波浪好港",
+        "onboard_time": 1676131170,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151391,
+        "num": 151391,
+        "word": "价值3万包裹丢失快递公司仅赔600",
+        "onboard_time": 1676155514,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146183,
+        "num": 146183,
+        "word": "东北人到底有多爱吃熏酱熟食",
+        "onboard_time": 1676163926,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127991,
+        "num": 127991,
+        "word": "虞书欣条纹毛衣半身裙造型",
+        "onboard_time": 1676156595,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127904,
+        "num": 127904,
+        "word": "警方通报柳州一醉酒男子摔打女子",
+        "onboard_time": 1676160802,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 126999,
+        "num": 126999,
+        "word": "丁维迪三分绝平超时",
+        "onboard_time": 1676169328,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125298,
+        "num": 125298,
+        "word": "95后女孩学习14年传承非遗通草花",
+        "onboard_time": 1676154312,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119675,
+        "num": 119675,
+        "word": "被困138小时获救老人亲吻救援人员的手",
+        "onboard_time": 1676170106,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#春暖花开铁杆朋友来了#"
+    }
+  }
+}
