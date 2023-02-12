@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676208127659,
+  "endTime": 1676208832716,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2038404,
+      "num": 2038404,
+      "word": "多人身体绑藏100斤牛肚入境被查",
+      "onboard_time": 1676203231,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1921973,
       "num": 1921973,
       "word": "嘎子哥直播间1999元手机1880能买到",
@@ -107,14 +115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1816194,
-      "num": 1816194,
-      "word": "多人身体绑藏100斤牛肚入境被查",
-      "onboard_time": 1676203231,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1810599,
       "num": 1348968,
       "word": "杨紫卷发",
@@ -129,6 +129,14 @@
       "onboard_time": 1676196872,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1769233,
+      "num": 1769233,
+      "word": "官方准备击落山东海域不明飞行物",
+      "onboard_time": 1676205871,
+      "rank": 15,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 1718612,
@@ -153,14 +161,6 @@
       "onboard_time": 1676177790,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1610707,
-      "num": 1610707,
-      "word": "官方准备击落山东海域不明飞行物",
-      "onboard_time": 1676205871,
-      "rank": 15,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 1432811,
@@ -315,6 +315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 956789,
+      "num": 956789,
+      "word": "刘敏涛身材",
+      "onboard_time": 1676205031,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 936340,
       "num": 936340,
       "word": "含笑 飞天",
@@ -329,6 +337,14 @@
       "onboard_time": 1676177071,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 908401,
+      "num": 908401,
+      "word": "武契奇称塞尔维亚可能将对俄实施制裁",
+      "onboard_time": 1676203592,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 903150,
@@ -371,28 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 852515,
-      "num": 852515,
-      "word": "武契奇称塞尔维亚可能将对俄实施制裁",
-      "onboard_time": 1676203592,
-      "rank": 11,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 841296,
       "num": 620023,
       "word": "如果真的有曾沛慈",
       "onboard_time": 1676184150,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 829975,
-      "num": 829975,
-      "word": "刘敏涛身材",
-      "onboard_time": 1676205031,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 826689,
@@ -835,6 +835,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 397934,
+      "num": 397934,
+      "word": "澳门明代已经在接外贸单了",
+      "onboard_time": 1676207306,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396444,
       "num": 396444,
       "word": "绑架原县委书记嫌犯仍在逃",
@@ -1051,14 +1059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 323819,
-      "num": 323819,
-      "word": "澳门明代已经在接外贸单了",
-      "onboard_time": 1676207306,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 321731,
       "num": 321731,
       "word": "流浪地球既视感的哈尔滨清雪车",
@@ -1179,6 +1179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 285938,
+      "num": 285938,
+      "word": "李硕珉跳了antifragile",
+      "onboard_time": 1676208157,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 283634,
       "num": 283634,
       "word": "上海巨型玫瑰",
@@ -1208,6 +1216,14 @@
       "word": "高启强这个角色为何如此出圈",
       "onboard_time": 1676186485,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 276407,
+      "num": 276407,
+      "word": "彭冠英说要给宁至谦好好上上课",
+      "onboard_time": 1676207374,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1353,14 +1369,6 @@
       "onboard_time": 1676166388,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246592,
-      "num": 246592,
-      "word": "彭冠英说要给宁至谦好好上上课",
-      "onboard_time": 1676207374,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 246538,
@@ -1555,6 +1563,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206861,
+      "num": 206861,
+      "word": "原来1400多年前就有炒鸡蛋",
+      "onboard_time": 1676208093,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 206261,
+      "num": 206261,
+      "word": "短道速滑世界杯",
+      "onboard_time": 1676207855,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204512,
       "num": 204512,
       "word": "土耳其男子被救出后惦念被埋妻子",
@@ -1601,6 +1625,14 @@
       "onboard_time": 1676178330,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193778,
+      "num": 193778,
+      "word": "满江红秦桧房间是如何设计的",
+      "onboard_time": 1676208454,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 193673,
@@ -1731,12 +1763,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185642,
+      "num": 185642,
+      "word": "刘敏涛演技",
+      "onboard_time": 1676208814,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185152,
       "num": 185152,
       "word": "王鹤棣西装造型手拿咖啡上班路透",
       "onboard_time": 1676182290,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184119,
+      "num": 184119,
+      "word": "孩子许愿考年级前三孔明灯原路返回",
+      "onboard_time": 1676208334,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182203,
+      "num": 182203,
+      "word": "言承旭跳操",
+      "onboard_time": 1676208754,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 181691,
@@ -1907,6 +1963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159667,
+      "num": 1741690,
+      "word": "中国救援人员加油保重",
+      "onboard_time": 1676206715,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 158735,
       "num": 158735,
       "word": "中国救援队",
@@ -1971,12 +2035,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 150367,
-      "num": 150367,
-      "word": "原来1400多年前就有炒鸡蛋",
-      "onboard_time": 1676208093,
+      "raw_hot": 151309,
+      "num": 151309,
+      "word": "70岁阿姨微信被封哭诉会孤独终老",
+      "onboard_time": 1676208814,
       "rank": 49,
-      "category": "美食"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148403,
@@ -2129,14 +2193,6 @@
       "onboard_time": 1676161944,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130644,
-      "num": 1633306,
-      "word": "中国救援人员加油保重",
-      "onboard_time": 1676206715,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 130135,
