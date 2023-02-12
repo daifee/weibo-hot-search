@@ -1,6 +1,6 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676198079382,
+  "endTime": 1676200501164,
   "band_list": [
     {
       "raw_hot": 5575887,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1921973,
+      "num": 1921973,
+      "word": "嘎子哥直播间1999元手机1880能买到",
+      "onboard_time": 1676195251,
+      "rank": 1,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1872724,
       "num": 1872724,
       "word": "Jessi来了还能播吗",
@@ -99,11 +107,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1775295,
+      "num": 1775295,
+      "word": "安欣老公渣得离谱",
+      "onboard_time": 1676196872,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1718612,
       "num": 1718612,
       "word": "茶颜悦色仍有门店要求排队取餐",
       "onboard_time": 1676187748,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1702509,
+      "num": 1702509,
+      "word": "山东海域发现不明飞行物",
+      "onboard_time": 1676198250,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -121,14 +145,6 @@
       "onboard_time": 1676177790,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1634831,
-      "num": 1634831,
-      "word": "嘎子哥直播间1999元手机1880能买到",
-      "onboard_time": 1676195251,
-      "rank": 1,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1432811,
@@ -211,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1051789,
-      "num": 1051789,
-      "word": "安欣老公渣得离谱",
-      "onboard_time": 1676196872,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1034327,
       "num": 1034327,
       "word": "人民网评狂飙演员曾涉毒",
@@ -291,8 +299,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 862594,
+      "num": 862594,
+      "word": "闵熙珍或将成SMTOWN新理事",
+      "onboard_time": 1676199330,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 860864,
-      "num": 526373,
+      "num": 666936,
       "word": "售楼部回应小区池子形似卫生巾",
       "onboard_time": 1676193089,
       "rank": 35,
@@ -355,6 +371,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727506,
+      "num": 727506,
+      "word": "关晓彤马甲线",
+      "onboard_time": 1676197171,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 717081,
+      "num": 717081,
+      "word": "流浪地球2成中国影史票房榜第10名",
+      "onboard_time": 1676198669,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 715591,
       "num": 715591,
       "word": "车保罗说赵樱子没人选不是剧本",
@@ -403,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666332,
+      "num": 666332,
+      "word": "高启盛走路",
+      "onboard_time": 1676197231,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 641941,
       "num": 641941,
       "word": "何广智没谈过恋爱但初吻可能没了",
@@ -411,12 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 640793,
-      "num": 494382,
-      "word": "关晓彤马甲线",
-      "onboard_time": 1676197171,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 639148,
+      "num": 639148,
+      "word": "女生买的二手书里夹了400块后续",
+      "onboard_time": 1676197111,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637397,
@@ -611,20 +651,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450043,
+      "num": 450043,
+      "word": "女子智齿位置奇特目测要背井离乡",
+      "onboard_time": 1676198850,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438943,
       "num": 438943,
       "word": "水牛记手机壳",
       "onboard_time": 1676132487,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 436729,
-      "num": 436729,
-      "word": "高启盛走路",
-      "onboard_time": 1676197231,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 428404,
@@ -683,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399353,
+      "num": 399353,
+      "word": "转发这个李飞",
+      "onboard_time": 1676199452,
+      "rank": 17,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 396444,
       "num": 396444,
       "word": "绑架原县委书记嫌犯仍在逃",
@@ -704,14 +752,6 @@
       "word": "土耳其华人被埋25小时后获救",
       "onboard_time": 1676152572,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390927,
-      "num": 390927,
-      "word": "女生买的二手书里夹了400块后续",
-      "onboard_time": 1676197111,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -875,6 +915,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 332249,
+      "num": 332249,
+      "word": "渤海",
+      "onboard_time": 1676199034,
+      "rank": 18,
+      "category": "军事"
+    },
+    {
       "raw_hot": 330830,
       "num": 330830,
       "word": "李小冉 虽然没有Joey但有的是老友",
@@ -953,6 +1001,14 @@
       "onboard_time": 1676173826,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302499,
+      "num": 302499,
+      "word": "王楚然说想给阮流筝擦眼泪",
+      "onboard_time": 1676198369,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 300624,
@@ -1185,6 +1241,14 @@
       "onboard_time": 1676129493,
       "rank": 23,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 240837,
+      "num": 240837,
+      "word": "姐弟俩仿冒论文期刊四年牟利1800多万",
+      "onboard_time": 1676199752,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 240061,
@@ -1475,6 +1539,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184166,
+      "num": 184166,
+      "word": "北京河北部分网友有震感",
+      "onboard_time": 1676198131,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182573,
+      "num": 182573,
+      "word": "新疆草莓音乐节",
+      "onboard_time": 1676199991,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181691,
       "num": 181691,
       "word": "于正说李奕臻适合做顶楼接班人",
@@ -1540,7 +1620,7 @@
     },
     {
       "raw_hot": 174629,
-      "num": 1488114,
+      "num": 1709472,
       "word": "土耳其震后救灾现场的中国身影",
       "onboard_time": 1676193989,
       "rank": 2,
@@ -1553,6 +1633,14 @@
       "onboard_time": 1676130393,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173725,
+      "num": 173725,
+      "word": "暖阳露娜月下无限连",
+      "onboard_time": 1676198789,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 172962,
@@ -1657,6 +1745,14 @@
       "onboard_time": 1676160383,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155623,
+      "num": 155623,
+      "word": "WB战胜VG",
+      "onboard_time": 1676199150,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 153122,
@@ -1823,6 +1919,14 @@
       "num": 133228,
       "word": "独行侠国王加时",
       "onboard_time": 1676186188,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131145,
+      "num": 131145,
+      "word": "林书豪中国台湾联赛首秀",
+      "onboard_time": 1676200470,
       "rank": 48,
       "category": "体育"
     },
