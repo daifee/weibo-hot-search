@@ -1,0 +1,410 @@
+{
+  "runTime": 1676166104816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4617670,
+        "num": 4617670,
+        "word": "狂飙涉毒演员含笑发文道歉",
+        "onboard_time": 1676162063,
+        "rank": 0,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 1858797,
+        "num": 1858797,
+        "word": "狂飙修改删除涉毒演员戏份",
+        "onboard_time": 1676129014,
+        "rank": 1,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 50047,
+        "num": 1393701,
+        "word": "2023春耕进行时",
+        "onboard_time": 1676125775,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1116398,
+        "num": 1116398,
+        "word": "人鱼",
+        "onboard_time": 1676125952,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 732493,
+        "num": 732493,
+        "word": "货车侧翻7吨臭豆腐横撒高速",
+        "onboard_time": 1676157436,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604613,
+        "num": 604613,
+        "word": "武警女兵入伍前vs入伍后",
+        "onboard_time": 1676163145,
+        "rank": 5,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 540447,
+        "num": 540447,
+        "word": "杭州一套凶宅起拍单价2万你敢买吗",
+        "onboard_time": 1676126071,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510304,
+        "num": 510304,
+        "word": "李佳琦见到王嘉尔了",
+        "onboard_time": 1676158939,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457910,
+        "num": 457910,
+        "word": "龚俊大学时候的秘密",
+        "onboard_time": 1676163324,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392054,
+        "num": 392054,
+        "word": "土耳其华人被埋25小时后获救",
+        "onboard_time": 1676152572,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469347,
+        "num": 391374,
+        "word": "警方通报柳州一醉酒男子摔打女子",
+        "onboard_time": 1676160802,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 462106,
+        "num": 386995,
+        "word": "女大学生误入传销父亲冲进窝点解救",
+        "onboard_time": 1676165488,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454869,
+        "num": 384784,
+        "word": "詹姆斯脚伤恐将贯穿整个赛季",
+        "onboard_time": 1676164347,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407047,
+        "num": 382306,
+        "word": "这样做远离阿尔茨海默病",
+        "onboard_time": 1676164587,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380918,
+        "num": 380918,
+        "word": "狂飙严正声明",
+        "onboard_time": 1676125108,
+        "rank": 14,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 375501,
+        "num": 375501,
+        "word": "三亚旅游发现拔白发服务一小时50元",
+        "onboard_time": 1676128653,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 358282,
+        "num": 358282,
+        "word": "王一博人鱼表情包",
+        "onboard_time": 1676162603,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350592,
+        "num": 350592,
+        "word": "含笑",
+        "onboard_time": 1676126610,
+        "rank": 17,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 342095,
+        "num": 342095,
+        "word": "李一桐郭晓婷当群演一天赚了288",
+        "onboard_time": 1676127571,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304888,
+        "num": 304888,
+        "word": "东北人到底有多爱吃熏酱熟食",
+        "onboard_time": 1676163926,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 296249,
+        "num": 296249,
+        "word": "价值3万包裹丢失快递公司仅赔600",
+        "onboard_time": 1676155514,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291883,
+        "num": 291883,
+        "word": "一诺队友",
+        "onboard_time": 1676164347,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271174,
+        "num": 271174,
+        "word": "95后女孩学习14年传承非遗通草花",
+        "onboard_time": 1676154312,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260742,
+        "num": 260742,
+        "word": "狂飙钟阿四真的不是演的",
+        "onboard_time": 1676121930,
+        "rank": 23,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 260430,
+        "num": 260430,
+        "word": "沈小婷舞台",
+        "onboard_time": 1676159300,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249549,
+        "num": 249549,
+        "word": "土耳其地震后一猫一狗紧紧相依",
+        "onboard_time": 1676137278,
+        "rank": 25,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 242942,
+        "num": 242942,
+        "word": "田柾国直播",
+        "onboard_time": 1676159180,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195754,
+        "num": 195754,
+        "word": "7旬老人输液瓶内现絮状物后抢救",
+        "onboard_time": 1676126851,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191477,
+        "num": 191477,
+        "word": "男子捞鱼2万元手机滑落冰洞",
+        "onboard_time": 1676141176,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176378,
+        "num": 176378,
+        "word": "震后128小时土耳其13岁男孩获救",
+        "onboard_time": 1676160682,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164418,
+        "num": 164418,
+        "word": "特鲁多声称下令击落进入加空域不明物体",
+        "onboard_time": 1676165906,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 163559,
+        "num": 163559,
+        "word": "张若昀被粉丝送银票花",
+        "onboard_time": 1676131948,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162673,
+        "num": 162673,
+        "word": "摩纳哥3比1巴黎圣日耳曼",
+        "onboard_time": 1676159060,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162046,
+        "num": 162046,
+        "word": "皇家马德里5比3利雅得新月",
+        "onboard_time": 1676158338,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158139,
+        "num": 158139,
+        "word": "张天爱大波浪好港",
+        "onboard_time": 1676131170,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158034,
+        "num": 158034,
+        "word": "湖人vs勇士",
+        "onboard_time": 1676165727,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156646,
+        "num": 156646,
+        "word": "土耳其强震为该地区百年来最严重事件",
+        "onboard_time": 1676160383,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142676,
+        "num": 142676,
+        "word": "你只管踩油门剩下的交给我们",
+        "onboard_time": 1676124091,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 139818,
+        "num": 139818,
+        "word": "土耳其翻译说救援队像在救自己的人民",
+        "onboard_time": 1676129014,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139737,
+        "num": 139737,
+        "word": "网友深圳街头偶遇李宏毅",
+        "onboard_time": 1676121390,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138015,
+        "num": 138015,
+        "word": "男子驱车看苗寨小姐姐发现全是阿姨",
+        "onboard_time": 1676134883,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135276,
+        "num": 135276,
+        "word": "种地吧崩溃又搞笑的瞬间",
+        "onboard_time": 1676165126,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132620,
+        "num": 132620,
+        "word": "高启强的B计划",
+        "onboard_time": 1676152932,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131109,
+        "num": 131109,
+        "word": "76人vs篮网",
+        "onboard_time": 1676161944,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126325,
+        "num": 126325,
+        "word": "这里就是我的家乡京海市",
+        "onboard_time": 1676120129,
+        "rank": 44,
+        "category": "影视,旅游"
+      },
+      {
+        "raw_hot": 126120,
+        "num": 126120,
+        "word": "于正说肖战还不火啥叫火",
+        "onboard_time": 1676108486,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118742,
+        "num": 118742,
+        "word": "惠英红眼中的赵樱子",
+        "onboard_time": 1676156534,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117098,
+        "num": 117098,
+        "word": "强震已致土耳其24617人死亡",
+        "onboard_time": 1676161645,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116076,
+        "num": 116076,
+        "word": "多地学校推出开学过渡套餐",
+        "onboard_time": 1676129493,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 115758,
+        "num": 115758,
+        "word": "中国造照明无人机点亮地震救援现场",
+        "onboard_time": 1676124510,
+        "rank": 49,
+        "category": "社会新闻,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化创造人类文明新形态#"
+    }
+  }
+}

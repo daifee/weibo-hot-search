@@ -1,12 +1,20 @@
 {
   "startTime": 1676132657593,
-  "endTime": 1676158431940,
+  "endTime": 1676166104816,
   "band_list": [
     {
       "raw_hot": 5575887,
       "num": 6202803,
       "word": "狂飙修改删除涉毒演员戏份",
       "onboard_time": 1676129014,
+      "rank": 0,
+      "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 4617670,
+      "num": 4617670,
+      "word": "狂飙涉毒演员含笑发文道歉",
+      "onboard_time": 1676162063,
       "rank": 0,
       "category": "影视,社会新闻"
     },
@@ -41,6 +49,14 @@
       "onboard_time": 1676127571,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 732493,
+      "num": 732493,
+      "word": "货车侧翻7吨臭豆腐横撒高速",
+      "onboard_time": 1676157436,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 708058,
@@ -83,12 +99,60 @@
       "category": "影视"
     },
     {
+      "raw_hot": 604613,
+      "num": 604613,
+      "word": "武警女兵入伍前vs入伍后",
+      "onboard_time": 1676163145,
+      "rank": 5,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 577942,
       "num": 577942,
       "word": "土耳其翻译说救援队像在救自己的人民",
       "onboard_time": 1676129014,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510304,
+      "num": 510304,
+      "word": "李佳琦见到王嘉尔了",
+      "onboard_time": 1676158939,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 469347,
+      "num": 391374,
+      "word": "警方通报柳州一醉酒男子摔打女子",
+      "onboard_time": 1676160802,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 462106,
+      "num": 386995,
+      "word": "女大学生误入传销父亲冲进窝点解救",
+      "onboard_time": 1676165488,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457910,
+      "num": 457910,
+      "word": "龚俊大学时候的秘密",
+      "onboard_time": 1676163324,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 454869,
+      "num": 384784,
+      "word": "詹姆斯脚伤恐将贯穿整个赛季",
+      "onboard_time": 1676164347,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 438943,
@@ -107,12 +171,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 407047,
+      "num": 382306,
+      "word": "这样做远离阿尔茨海默病",
+      "onboard_time": 1676164587,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405951,
       "num": 405951,
       "word": "于正说肖战还不火啥叫火",
       "onboard_time": 1676108486,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392054,
+      "num": 392054,
+      "word": "土耳其华人被埋25小时后获救",
+      "onboard_time": 1676152572,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387900,
@@ -123,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380918,
+      "num": 380918,
+      "word": "狂飙严正声明",
+      "onboard_time": 1676125108,
+      "rank": 15,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 378735,
       "num": 378735,
       "word": "含笑",
@@ -131,20 +219,12 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 362106,
-      "num": 362106,
-      "word": "土耳其华人被埋25小时后获救",
-      "onboard_time": 1676152572,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354028,
-      "num": 354028,
-      "word": "狂飙严正声明",
-      "onboard_time": 1676125108,
-      "rank": 15,
-      "category": "影视,社会新闻"
+      "raw_hot": 358282,
+      "num": 358282,
+      "word": "王一博人鱼表情包",
+      "onboard_time": 1676162603,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 333886,
@@ -153,6 +233,14 @@
       "onboard_time": 1676124091,
       "rank": 16,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 304888,
+      "num": 304888,
+      "word": "东北人到底有多爱吃熏酱熟食",
+      "onboard_time": 1676163926,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 302507,
@@ -169,6 +257,14 @@
       "onboard_time": 1676130272,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 291883,
+      "num": 291883,
+      "word": "一诺队友",
+      "onboard_time": 1676164347,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 283634,
@@ -195,12 +291,44 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 271174,
+      "num": 271174,
+      "word": "95后女孩学习14年传承非遗通草花",
+      "onboard_time": 1676154312,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261782,
       "num": 261782,
       "word": "IVE新歌NotYourGirl",
       "onboard_time": 1676129014,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 260430,
+      "num": 260430,
+      "word": "沈小婷舞台",
+      "onboard_time": 1676159300,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 249549,
+      "num": 249549,
+      "word": "土耳其地震后一猫一狗紧紧相依",
+      "onboard_time": 1676137278,
+      "rank": 10,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 242942,
+      "num": 242942,
+      "word": "田柾国直播",
+      "onboard_time": 1676159180,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 241669,
@@ -251,14 +379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 222347,
-      "num": 218522,
-      "word": "土耳其地震后一猫一狗紧紧相依",
-      "onboard_time": 1676137278,
-      "rank": 10,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 211614,
       "num": 211614,
       "word": "这狗狗怎么全程黑脸",
@@ -273,14 +393,6 @@
       "onboard_time": 1676121689,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 203853,
-      "num": 163168,
-      "word": "95后女孩学习14年传承非遗通草花",
-      "onboard_time": 1676154312,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198704,
@@ -307,20 +419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191477,
+      "num": 191477,
+      "word": "男子捞鱼2万元手机滑落冰洞",
+      "onboard_time": 1676141176,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190911,
       "num": 190911,
       "word": "中国造照明无人机点亮地震救援现场",
       "onboard_time": 1676124510,
       "rank": 30,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 187013,
-      "num": 156463,
-      "word": "货车侧翻7吨臭豆腐横撒高速",
-      "onboard_time": 1676157436,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185900,
@@ -344,6 +456,14 @@
       "word": "19岁男孩常忘事患上阿尔茨海默病",
       "onboard_time": 1676117306,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176378,
+      "num": 176378,
+      "word": "震后128小时土耳其13岁男孩获救",
+      "onboard_time": 1676160682,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -371,12 +491,52 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164418,
+      "num": 164418,
+      "word": "特鲁多声称下令击落进入加空域不明物体",
+      "onboard_time": 1676165906,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 162673,
+      "num": 162673,
+      "word": "摩纳哥3比1巴黎圣日耳曼",
+      "onboard_time": 1676159060,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162046,
+      "num": 162046,
+      "word": "皇家马德里5比3利雅得新月",
+      "onboard_time": 1676158338,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158034,
+      "num": 158034,
+      "word": "湖人vs勇士",
+      "onboard_time": 1676165727,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157167,
       "num": 157167,
       "word": "龚俊檀健次的伞",
       "onboard_time": 1676128113,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156646,
+      "num": 156646,
+      "word": "土耳其强震为该地区百年来最严重事件",
+      "onboard_time": 1676160383,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153122,
@@ -427,12 +587,52 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135276,
+      "num": 135276,
+      "word": "种地吧崩溃又搞笑的瞬间",
+      "onboard_time": 1676165126,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131109,
+      "num": 131109,
+      "word": "76人vs篮网",
+      "onboard_time": 1676161944,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130135,
       "num": 130135,
       "word": "上市公司回应董事长月薪两万招保镖",
       "onboard_time": 1676116469,
       "rank": 41,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 126325,
+      "num": 126325,
+      "word": "这里就是我的家乡京海市",
+      "onboard_time": 1676120129,
+      "rank": 42,
+      "category": "影视,旅游"
+    },
+    {
+      "raw_hot": 118742,
+      "num": 118742,
+      "word": "惠英红眼中的赵樱子",
+      "onboard_time": 1676156534,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117098,
+      "num": 117098,
+      "word": "强震已致土耳其24617人死亡",
+      "onboard_time": 1676161645,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116814,
@@ -467,28 +667,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 107220,
-      "num": 85977,
-      "word": "男子捞鱼2万元手机滑落冰洞",
-      "onboard_time": 1676141176,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106341,
       "num": 106341,
       "word": "男子欲买小雏菊送女友不料买成白菊",
       "onboard_time": 1676110406,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95055,
-      "num": 95055,
-      "word": "惠英红眼中的赵樱子",
-      "onboard_time": 1676156534,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 85810,
@@ -539,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61080,
-      "num": 61080,
-      "word": "皇家马德里5比3利雅得新月",
-      "onboard_time": 1676158338,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 55585,
       "num": 55585,
       "word": "新手爸妈为哄孩子做过哪些离谱事",
@@ -563,14 +739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50447,
-      "num": 50447,
-      "word": "这里就是我的家乡京海市",
-      "onboard_time": 1676120129,
-      "rank": 42,
-      "category": "影视,旅游"
-    },
-    {
       "raw_hot": 50400,
       "num": 50400,
       "word": "虞书欣条纹毛衣半身裙造型",
@@ -579,8 +747,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 33215,
-      "num": 1225149,
+      "raw_hot": 50047,
+      "num": 1393701,
       "word": "2023春耕进行时",
       "onboard_time": 1676125775,
       "rank": 2,
