@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676220092400,
+  "endTime": 1676222149119,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -22257,6 +22257,14 @@
       "onboard_time": 1675404868,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187402,
+      "num": 187402,
+      "word": "金在中尹净汉李灿舞蹈挑战",
+      "onboard_time": 1676220620,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187346,
