@@ -1,0 +1,410 @@
+{
+  "runTime": 1676272667088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2370689,
+        "num": 2370689,
+        "word": "央视网谈绝望的文盲",
+        "onboard_time": 1676263957,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1478189,
+        "num": 1478189,
+        "word": "我国女性终身无孩率接近10%",
+        "onboard_time": 1676265229,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96779,
+        "num": 1202120,
+        "word": "开学第一天",
+        "onboard_time": 1676249247,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1176465,
+        "num": 1176465,
+        "word": "狂飙钟阿四镜头已全部删除",
+        "onboard_time": 1676266674,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 973623,
+        "num": 973623,
+        "word": "高启强陈书婷亲热戏被删",
+        "onboard_time": 1676259690,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 805083,
+        "num": 805083,
+        "word": "县委书记回应房产展销会上女子跳钢管舞",
+        "onboard_time": 1676268656,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746807,
+        "num": 746807,
+        "word": "深圳夜空现不明发光飞行物",
+        "onboard_time": 1676268004,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686298,
+        "num": 686298,
+        "word": "高铁晚点",
+        "onboard_time": 1676271287,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670090,
+        "num": 670090,
+        "word": "兰珏有个孩子",
+        "onboard_time": 1676269077,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 495772,
+        "num": 495772,
+        "word": "王大陆遗憾妈妈没见过蔡卓宜",
+        "onboard_time": 1676260829,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596735,
+        "num": 493080,
+        "word": "昺 让世界认识这个字",
+        "onboard_time": 1676270873,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 563702,
+        "num": 492850,
+        "word": "已婚男子与人同居生下儿女被刑拘",
+        "onboard_time": 1676249788,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481692,
+        "num": 481692,
+        "word": "日本地震",
+        "onboard_time": 1676264077,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457550,
+        "num": 457550,
+        "word": "多设备登录被封号合理吗",
+        "onboard_time": 1676260349,
+        "rank": 13,
+        "category": "社会议题,科技"
+      },
+      {
+        "raw_hot": 435334,
+        "num": 435334,
+        "word": "屋顶惊现猫猫虫",
+        "onboard_time": 1676271109,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394817,
+        "num": 394817,
+        "word": "王一博无名吃拿破仑花絮",
+        "onboard_time": 1676265047,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380998,
+        "num": 380998,
+        "word": "制片人说张译是安欣第一人选",
+        "onboard_time": 1676267584,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380615,
+        "num": 380615,
+        "word": "你什么档次和我坐一辆火车",
+        "onboard_time": 1676271948,
+        "rank": 17,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 374032,
+        "num": 374032,
+        "word": "长期不吃早餐会降低大脑功能",
+        "onboard_time": 1676256327,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367128,
+        "num": 367128,
+        "word": "修音也救不了的三字歌手",
+        "onboard_time": 1676246124,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364386,
+        "num": 364386,
+        "word": "林志颖车祸后首次公开活动",
+        "onboard_time": 1676256265,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363427,
+        "num": 363427,
+        "word": "这猫是懂模仿高启盛的",
+        "onboard_time": 1676267942,
+        "rank": 21,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 355768,
+        "num": 355768,
+        "word": "全身溃烂金毛被收养后变得爱撒娇",
+        "onboard_time": 1676270748,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354725,
+        "num": 354725,
+        "word": "男生攒压岁钱给妈妈换手机却挨批",
+        "onboard_time": 1676267042,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338830,
+        "num": 338830,
+        "word": "美军高官称不排除被击落物体来自外星",
+        "onboard_time": 1676264925,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 313359,
+        "num": 313359,
+        "word": "衢州交警发文被指疑似性别歧视",
+        "onboard_time": 1676257767,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303287,
+        "num": 303287,
+        "word": "李一桐毕雯珺情人节大片",
+        "onboard_time": 1676261550,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 284341,
+        "num": 284341,
+        "word": "第一次这么近距离看熊猫毛",
+        "onboard_time": 1676268302,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279528,
+        "num": 279528,
+        "word": "四川一地首次拍到野生大熊猫",
+        "onboard_time": 1676270748,
+        "rank": 28,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 250452,
+        "num": 250452,
+        "word": "乌称只有乌克兰胜利才能结束欧洲战争",
+        "onboard_time": 1676266436,
+        "rank": 29,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 242737,
+        "num": 242737,
+        "word": "女子家中大巨蛋磕开竟是蛋中蛋",
+        "onboard_time": 1676265351,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241487,
+        "num": 241487,
+        "word": "公司回应基金经理称上海1000万资产是穷人",
+        "onboard_time": 1676264988,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 206422,
+        "num": 206422,
+        "word": "Rihanna补妆",
+        "onboard_time": 1676252969,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 193484,
+        "num": 193484,
+        "word": "腾讯视频账号多次被封或被收回vip",
+        "onboard_time": 1676269435,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 189772,
+        "num": 189772,
+        "word": "五角大楼称F16战机又击落一空中物体",
+        "onboard_time": 1676252787,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 188284,
+        "num": 188284,
+        "word": "13岁男孩跌落三轮车致特重脑损伤",
+        "onboard_time": 1676261853,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181428,
+        "num": 181428,
+        "word": "云南大理苍山披云被太美了",
+        "onboard_time": 1676259210,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 180117,
+        "num": 180117,
+        "word": "网友P的张凌赫王楚然合照",
+        "onboard_time": 1676255486,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179252,
+        "num": 179252,
+        "word": "吴易昺的昺怎么读",
+        "onboard_time": 1676263415,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174211,
+        "num": 174211,
+        "word": "镌刻在故宫里的四季之美",
+        "onboard_time": 1676271408,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 173421,
+        "num": 173421,
+        "word": "杨蓉说这回为爱疯一回",
+        "onboard_time": 1676256087,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170633,
+        "num": 170633,
+        "word": "几乎所有安卓品牌面临高库存风险",
+        "onboard_time": 1676255665,
+        "rank": 41,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 157313,
+        "num": 157313,
+        "word": "君子盟",
+        "onboard_time": 1676265530,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155129,
+        "num": 155129,
+        "word": "今年上半年的电影院好热闹",
+        "onboard_time": 1676270272,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150919,
+        "num": 150919,
+        "word": "狂飙李响为何引发共情",
+        "onboard_time": 1676259989,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137742,
+        "num": 137742,
+        "word": "HYBE公开收购SMTOWN股份",
+        "onboard_time": 1676262454,
+        "rank": 45,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 136054,
+        "num": 136054,
+        "word": "贷款人离世后剩下房贷该如何处理",
+        "onboard_time": 1676272549,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 133897,
+        "num": 133897,
+        "word": "狂飙的配角",
+        "onboard_time": 1676270272,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133051,
+        "num": 133051,
+        "word": "泰坦尼克号重映票房",
+        "onboard_time": 1676269014,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130259,
+        "num": 130259,
+        "word": "刘诗雯晒照恢复训练",
+        "onboard_time": 1676272549,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化创造人类文明新形态#"
+    }
+  }
+}
