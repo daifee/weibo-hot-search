@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676313527437,
+  "endTime": 1676315743881,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -2411,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143374,
+      "num": 122678,
+      "word": "成都最隐秘的鬼市",
+      "onboard_time": 1676311457,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142296,
       "num": 142296,
       "word": "蔡徐坤V领黑色西装造型",
@@ -2449,14 +2457,6 @@
       "onboard_time": 1676275005,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133319,
-      "num": 122678,
-      "word": "成都最隐秘的鬼市",
-      "onboard_time": 1676311457,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 133188,
@@ -2553,6 +2553,14 @@
       "onboard_time": 1676222778,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93011,
+      "num": 75114,
+      "word": "婚房烂尾10年业主住进毛坯房",
+      "onboard_time": 1676313735,
+      "rank": 12,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 90508,
