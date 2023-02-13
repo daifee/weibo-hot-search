@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676297878677,
+  "endTime": 1676298893210,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -9,6 +9,14 @@
       "onboard_time": 1676284121,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3685094,
+      "num": 3685094,
+      "word": "张萌 演员到底需不需要有文化",
+      "onboard_time": 1676293723,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 3129237,
@@ -25,14 +33,6 @@
       "onboard_time": 1676259690,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2989715,
-      "num": 2989715,
-      "word": "张萌 演员到底需不需要有文化",
-      "onboard_time": 1676293723,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 2749760,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2119661,
+      "num": 2119661,
+      "word": "211女生毕业5年存款仅5千",
+      "onboard_time": 1676296014,
+      "rank": 3,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2111971,
       "num": 2111971,
       "word": "官方准备击落山东海域不明飞行物",
@@ -89,14 +97,6 @@
       "onboard_time": 1676252969,
       "rank": 1,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1972753,
-      "num": 1972753,
-      "word": "211女生毕业5年存款仅5千",
-      "onboard_time": 1676296014,
-      "rank": 3,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1845524,
@@ -161,6 +161,14 @@
       "onboard_time": 1676260349,
       "rank": 8,
       "category": "社会议题,科技"
+    },
+    {
+      "raw_hot": 1403922,
+      "num": 1403922,
+      "word": "吴刚 没鼻梁的人有福了",
+      "onboard_time": 1676297142,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1361673,
@@ -235,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1206059,
+      "num": 1206059,
+      "word": "刘耀文严浩翔三亚同框路透",
+      "onboard_time": 1676297020,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1195063,
       "num": 1195063,
       "word": "专家谈房贷年龄期限可延长到80岁",
@@ -283,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1027182,
-      "num": 1027182,
-      "word": "刘耀文严浩翔三亚同框路透",
-      "onboard_time": 1676297020,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1009481,
       "num": 1009481,
       "word": "Doinb爆料FPX寄了",
@@ -313,14 +321,6 @@
       "onboard_time": 1676280402,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 966607,
-      "num": 966607,
-      "word": "吴刚 没鼻梁的人有福了",
-      "onboard_time": 1676297142,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 956258,
@@ -369,6 +369,14 @@
       "onboard_time": 1676240353,
       "rank": 25,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 855950,
+      "num": 855950,
+      "word": "小老虎凌晨站床边求贴贴",
+      "onboard_time": 1676295340,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 833687,
@@ -491,14 +499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 732666,
-      "num": 732666,
-      "word": "小老虎凌晨站床边求贴贴",
-      "onboard_time": 1676295340,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 731817,
       "num": 731817,
       "word": "张大大 许愿池的王八",
@@ -531,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 714390,
+      "num": 714390,
+      "word": "河南补贴6100元招募捐精志愿者",
+      "onboard_time": 1676294677,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 707915,
       "num": 707915,
       "word": "网友P的张凌赫王楚然合照",
@@ -553,14 +561,6 @@
       "onboard_time": 1676259929,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 691781,
-      "num": 691781,
-      "word": "河南补贴6100元招募捐精志愿者",
-      "onboard_time": 1676294677,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 686298,
@@ -721,6 +721,14 @@
       "onboard_time": 1676253327,
       "rank": 35,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 575574,
+      "num": 575574,
+      "word": "SMTOWN艺人回归计划或将推迟",
+      "onboard_time": 1676298521,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 559755,
@@ -1043,6 +1051,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 409321,
+      "num": 409321,
+      "word": "德云社演出",
+      "onboard_time": 1676293419,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408964,
       "num": 408964,
       "word": "第一次看到有人这样洗袜子",
@@ -1091,12 +1107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392971,
-      "num": 392971,
-      "word": "德云社演出",
-      "onboard_time": 1676293419,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 393172,
+      "num": 393172,
+      "word": "巨型爆浆曲奇",
+      "onboard_time": 1676297321,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 384362,
@@ -1355,12 +1371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 308556,
-      "num": 308556,
-      "word": "巨型爆浆曲奇",
-      "onboard_time": 1676297321,
-      "rank": 23,
-      "category": "美食"
+      "raw_hot": 307504,
+      "num": 307504,
+      "word": "黄奕演妈妈",
+      "onboard_time": 1676297744,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 306044,
@@ -1723,14 +1739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226729,
-      "num": 226729,
-      "word": "黄奕演妈妈",
-      "onboard_time": 1676297744,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 226396,
       "num": 226396,
       "word": "人工智能",
@@ -1756,7 +1764,7 @@
     },
     {
       "raw_hot": 222705,
-      "num": 2054686,
+      "num": 2344604,
       "word": "中国救援队已营救多名被困者",
       "onboard_time": 1676290379,
       "rank": 2,
@@ -1857,6 +1865,14 @@
       "onboard_time": 1676286584,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202021,
+      "num": 202021,
+      "word": "在清华教书时间最长的先生走了",
+      "onboard_time": 1676298342,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201877,
@@ -2265,6 +2281,14 @@
       "onboard_time": 1676251826,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126013,
+      "num": 126013,
+      "word": "卡德罗夫说只要普京下令我们愿意开赴美国",
+      "onboard_time": 1676298718,
+      "rank": 48,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 121525,
