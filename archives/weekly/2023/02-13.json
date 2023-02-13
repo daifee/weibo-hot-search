@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676315743881,
+  "endTime": 1676316826741,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -2515,6 +2515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113105,
+      "num": 75114,
+      "word": "婚房烂尾10年业主住进毛坯房",
+      "onboard_time": 1676313735,
+      "rank": 12,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 107891,
       "num": 107891,
       "word": "你觉得直播带货靠谱吗",
@@ -2553,14 +2561,6 @@
       "onboard_time": 1676222778,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93011,
-      "num": 75114,
-      "word": "婚房烂尾10年业主住进毛坯房",
-      "onboard_time": 1676313735,
-      "rank": 12,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 90508,
@@ -2649,6 +2649,14 @@
       "onboard_time": 1676284539,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16037,
+      "num": 17782,
+      "word": "向涵之滑雪plog",
+      "onboard_time": 1676316553,
+      "rank": 49,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

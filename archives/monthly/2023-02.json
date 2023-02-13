@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676315743881,
+  "endTime": 1676316826741,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -28907,6 +28907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113105,
+      "num": 75114,
+      "word": "婚房烂尾10年业主住进毛坯房",
+      "onboard_time": 1676313735,
+      "rank": 12,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 113045,
       "num": 506914,
       "word": "理想L7发布会很苹果",
@@ -29313,14 +29321,6 @@
       "onboard_time": 1675669888,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 93011,
-      "num": 75114,
-      "word": "婚房烂尾10年业主住进毛坯房",
-      "onboard_time": 1676313735,
-      "rank": 12,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 92104,
@@ -30265,6 +30265,14 @@
       "onboard_time": 1675190774,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16037,
+      "num": 17782,
+      "word": "向涵之滑雪plog",
+      "onboard_time": 1676316553,
+      "rank": 49,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
