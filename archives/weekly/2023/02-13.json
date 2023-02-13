@@ -1,10 +1,10 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676262222613,
+  "endTime": 1676263134545,
   "band_list": [
     {
-      "raw_hot": 2912167,
-      "num": 2912167,
+      "raw_hot": 2994415,
+      "num": 2994415,
       "word": "高启强陈书婷亲热戏被删",
       "onboard_time": 1676259690,
       "rank": 0,
@@ -43,6 +43,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1845524,
+      "num": 1845524,
+      "word": "王大陆遗憾妈妈没见过蔡卓宜",
+      "onboard_time": 1676260829,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1844065,
       "num": 1844065,
       "word": "林志颖车祸后首次公开活动",
@@ -59,11 +67,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1536076,
-      "num": 1536076,
-      "word": "王大陆遗憾妈妈没见过蔡卓宜",
-      "onboard_time": 1676260829,
-      "rank": 1,
+      "raw_hot": 1361673,
+      "num": 1361673,
+      "word": "徐志胜吐槽地铁太挤了",
+      "onboard_time": 1676260891,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -73,6 +81,14 @@
       "onboard_time": 1676257767,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1280814,
+      "num": 1280814,
+      "word": "多设备登录被封号合理吗",
+      "onboard_time": 1676260349,
+      "rank": 8,
+      "category": "社会议题,科技"
     },
     {
       "raw_hot": 1214351,
@@ -89,14 +105,6 @@
       "onboard_time": 1676251766,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1188895,
-      "num": 1188895,
-      "word": "徐志胜吐槽地铁太挤了",
-      "onboard_time": 1676260891,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1172241,
@@ -121,14 +129,6 @@
       "onboard_time": 1676256087,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 943112,
-      "num": 943112,
-      "word": "多设备登录被封号合理吗",
-      "onboard_time": 1676260349,
-      "rank": 8,
-      "category": "社会议题,科技"
     },
     {
       "raw_hot": 925608,
@@ -251,6 +251,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 662706,
+      "num": 662706,
+      "word": "李一桐毕雯珺情人节大片",
+      "onboard_time": 1676261550,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 662382,
       "num": 662382,
       "word": "没有服务器 但我们有冠军",
@@ -323,20 +331,20 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 525229,
-      "num": 525229,
-      "word": "李一桐毕雯珺情人节大片",
-      "onboard_time": 1676261550,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 523061,
       "num": 523061,
       "word": "升降火锅",
       "onboard_time": 1676215116,
       "rank": 9,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 516067,
+      "num": 516067,
+      "word": "把哈士奇认成了雪狼",
+      "onboard_time": 1676262212,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 498332,
@@ -395,6 +403,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 432593,
+      "num": 432593,
+      "word": "HYBE公开收购SMTOWN股份",
+      "onboard_time": 1676262454,
+      "rank": 20,
+      "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 431900,
+      "num": 431900,
+      "word": "13岁男孩跌落三轮车致特重脑损伤",
+      "onboard_time": 1676261853,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431072,
       "num": 431072,
       "word": "护心",
@@ -435,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383409,
+      "num": 383409,
+      "word": "云南大理苍山披云被太美了",
+      "onboard_time": 1676259210,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 379562,
       "num": 379562,
       "word": "山东海域发现不明飞行物",
@@ -457,14 +489,6 @@
       "onboard_time": 1676212954,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 376426,
-      "num": 376426,
-      "word": "云南大理苍山披云被太美了",
-      "onboard_time": 1676259210,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 370185,
@@ -619,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294073,
+      "num": 294073,
+      "word": "秦岚王阳她只是不想输已过审",
+      "onboard_time": 1676261912,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293199,
       "num": 293199,
       "word": "SMTOWN官网出现黄旭熙背影照",
@@ -644,7 +676,7 @@
     },
     {
       "raw_hot": 279079,
-      "num": 1414041,
+      "num": 1479911,
       "word": "开学第一天",
       "onboard_time": 1676249247,
       "rank": 41,
@@ -715,12 +747,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238713,
+      "num": 238713,
+      "word": "勇士四方交易完成",
+      "onboard_time": 1676261251,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235416,
       "num": 235416,
       "word": "武契奇称塞尔维亚可能将对俄实施制裁",
       "onboard_time": 1676203592,
       "rank": 25,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 235391,
+      "num": 235391,
+      "word": "风雨送春归定档2月16日",
+      "onboard_time": 1676262994,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 234984,
@@ -753,14 +801,6 @@
       "onboard_time": 1676191650,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 225071,
-      "num": 225071,
-      "word": "秦岚王阳她只是不想输已过审",
-      "onboard_time": 1676261912,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 221743,
@@ -819,14 +859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205954,
-      "num": 205954,
-      "word": "勇士四方交易完成",
-      "onboard_time": 1676261251,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205005,
       "num": 205005,
       "word": "他们的种地技巧已经熟练得不像艺人了",
@@ -843,14 +875,6 @@
       "category": "影视,音乐"
     },
     {
-      "raw_hot": 198085,
-      "num": 198085,
-      "word": "13岁男孩跌落三轮车致特重脑损伤",
-      "onboard_time": 1676261853,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194287,
       "num": 194287,
       "word": "微信回应头像褪色",
@@ -865,6 +889,14 @@
       "onboard_time": 1676220620,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192979,
+      "num": 192979,
+      "word": "蕾哈娜手语翻译",
+      "onboard_time": 1676262333,
+      "rank": 47,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 192293,
@@ -913,14 +945,6 @@
       "onboard_time": 1676256026,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178201,
-      "num": 178201,
-      "word": "把哈士奇认成了雪狼",
-      "onboard_time": 1676262212,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 176633,
