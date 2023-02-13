@@ -1,0 +1,411 @@
+{
+  "startTime": 1676305608565,
+  "endTime": 1676305608565,
+  "band_list": [
+    {
+      "raw_hot": 1854692,
+      "num": 1854692,
+      "word": "俄亥俄",
+      "onboard_time": 1676284121,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1601755,
+      "num": 1601755,
+      "word": "211女生毕业5年存款仅5千",
+      "onboard_time": 1676296014,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1135648,
+      "num": 1135648,
+      "word": "广东诺如病毒进入高发期",
+      "onboard_time": 1676302956,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1074340,
+      "num": 481510,
+      "word": "张萌 演员到底需不需要有文化",
+      "onboard_time": 1676293723,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1046890,
+      "num": 1046890,
+      "word": "超20%大学生认为毕业后月薪能过万",
+      "onboard_time": 1676300638,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1033978,
+      "num": 464342,
+      "word": "孕妇如厕时生产婴儿被卡蹲便器",
+      "onboard_time": 1676303914,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 906071,
+      "num": 906071,
+      "word": "Cat女朋友",
+      "onboard_time": 1676300080,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 742541,
+      "num": 742541,
+      "word": "安欣杭州分欣",
+      "onboard_time": 1676302534,
+      "rank": 6,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 671687,
+      "num": 671687,
+      "word": "高启强给干爹的陈皮到底有多贵",
+      "onboard_time": 1676287139,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 566684,
+      "num": 566684,
+      "word": "姐弟坠亡案父亲连写三封信求原谅",
+      "onboard_time": 1676287079,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535249,
+      "num": 453254,
+      "word": "睡觉早更好还是睡觉晚更好",
+      "onboard_time": 1676304212,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 492720,
+      "num": 492720,
+      "word": "原来电影票可以这样退",
+      "onboard_time": 1676301698,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 410238,
+      "num": 410238,
+      "word": "常州某小学启用作业九点熔断机制",
+      "onboard_time": 1676299362,
+      "rank": 13,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 394369,
+      "num": 394369,
+      "word": "乌称俄罗斯计划夺取摩尔多瓦",
+      "onboard_time": 1676300142,
+      "rank": 14,
+      "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 388753,
+      "num": 388753,
+      "word": "美记者在俄亥俄州事件新闻发布会被捕",
+      "onboard_time": 1676301341,
+      "rank": 15,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 379617,
+      "num": 379617,
+      "word": "韩媒称日本或将发生9.1级地震",
+      "onboard_time": 1676288447,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345816,
+      "num": 345816,
+      "word": "美国一载有毒化学品火车爆炸",
+      "onboard_time": 1676299182,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 300009,
+      "num": 300009,
+      "word": "吴刚 没鼻梁的人有福了",
+      "onboard_time": 1676297142,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 289649,
+      "num": 289649,
+      "word": "相亲后发现自己妥协不了",
+      "onboard_time": 1676285986,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 287001,
+      "num": 287001,
+      "word": "刘耀文严浩翔三亚同框路透",
+      "onboard_time": 1676297020,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 286215,
+      "num": 286215,
+      "word": "SMTOWN艺人回归计划或将推迟",
+      "onboard_time": 1676298521,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 268876,
+      "num": 268876,
+      "word": "央视网谈绝望的文盲",
+      "onboard_time": 1676263957,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 258198,
+      "num": 258198,
+      "word": "小老虎凌晨站床边求贴贴",
+      "onboard_time": 1676295340,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249166,
+      "num": 249166,
+      "word": "中国男篮大胜同曦男篮",
+      "onboard_time": 1676303732,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 231631,
+      "num": 231631,
+      "word": "男子为防猫咪给沙发焊上铁罩衣",
+      "onboard_time": 1676300142,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227951,
+      "num": 227951,
+      "word": "卡德罗夫说只要普京下令我们愿意开赴美国",
+      "onboard_time": 1676298718,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 223292,
+      "num": 223292,
+      "word": "梁朝伟说要接受不完美",
+      "onboard_time": 1676300998,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210340,
+      "num": 210340,
+      "word": "男孩与家人走散7天无人认领",
+      "onboard_time": 1676299904,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196851,
+      "num": 196851,
+      "word": "情人节单身的有福了",
+      "onboard_time": 1676277220,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 193148,
+      "num": 193148,
+      "word": "苏醒说这段分享给有类似情况的朋友",
+      "onboard_time": 1676301936,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183901,
+      "num": 183901,
+      "word": "沉香如屑韩国宣传视频",
+      "onboard_time": 1676299610,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 176524,
+      "num": 176524,
+      "word": "济南铁骑讲述狂飙护送伤者背后",
+      "onboard_time": 1676304989,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172062,
+      "num": 172062,
+      "word": "官方回应城管收走孩子写作业桌子",
+      "onboard_time": 1676295953,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159588,
+      "num": 159588,
+      "word": "河南补贴6100元招募捐精志愿者",
+      "onboard_time": 1676294677,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157761,
+      "num": 157761,
+      "word": "德云社演出",
+      "onboard_time": 1676293419,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150067,
+      "num": 150067,
+      "word": "涉毒演员含笑公司已被吊销",
+      "onboard_time": 1676289707,
+      "rank": 36,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 146416,
+      "num": 146416,
+      "word": "言承旭在刘畊宏直播间跳完发烧了",
+      "onboard_time": 1676290784,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145374,
+      "num": 145374,
+      "word": "李子璇跳了Fighting",
+      "onboard_time": 1676299301,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136532,
+      "num": 136532,
+      "word": "陕西发现3千多年前大型聚落遗址",
+      "onboard_time": 1676294260,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134137,
+      "num": 134137,
+      "word": "警方通报东莞持刀伤人案",
+      "onboard_time": 1676290784,
+      "rank": 40,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 126940,
+      "num": 126940,
+      "word": "Doinb爆料FPX寄了",
+      "onboard_time": 1676285321,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 126729,
+      "num": 126729,
+      "word": "男子在高铁站当女儿面掐脖打老婆",
+      "onboard_time": 1676287667,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119844,
+      "num": 119844,
+      "word": "张颂文曾指导王一博演至尊宝",
+      "onboard_time": 1676281478,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110927,
+      "num": 110927,
+      "word": "狂飙里谁是你的意难平",
+      "onboard_time": 1676297681,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 108474,
+      "num": 108474,
+      "word": "张彬彬吴倩新剧三分野剧照",
+      "onboard_time": 1676293301,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 105787,
+      "num": 105787,
+      "word": "黄奕演妈妈",
+      "onboard_time": 1676297744,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 102656,
+      "num": 102656,
+      "word": "在清华教书时间最长的先生走了",
+      "onboard_time": 1676298342,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101014,
+      "num": 101014,
+      "word": "马龙丁宁副高级职称公示",
+      "onboard_time": 1676294260,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95729,
+      "num": 95729,
+      "word": "追狂飙追到饼都快炸了",
+      "onboard_time": 1676289526,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 67285,
+      "num": 1235278,
+      "word": "中国救援队已营救多名被困者",
+      "onboard_time": 1676290379,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#通过顽强斗争打开事业发展新天地#"
+    }
+  ]
+}
