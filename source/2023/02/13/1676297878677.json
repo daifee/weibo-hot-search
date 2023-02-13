@@ -1,0 +1,410 @@
+{
+  "runTime": 1676297878677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3144436,
+        "num": 3144436,
+        "word": "俄亥俄",
+        "onboard_time": 1676284121,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2989715,
+        "num": 2989715,
+        "word": "张萌 演员到底需不需要有文化",
+        "onboard_time": 1676293723,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127049,
+        "num": 2054686,
+        "word": "中国救援队已营救多名被困者",
+        "onboard_time": 1676290379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1972753,
+        "num": 1972753,
+        "word": "211女生毕业5年存款仅5千",
+        "onboard_time": 1676296014,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1127198,
+        "num": 1127198,
+        "word": "姐弟坠亡案父亲连写三封信求原谅",
+        "onboard_time": 1676287079,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058273,
+        "num": 1058273,
+        "word": "高启强给干爹的陈皮到底有多贵",
+        "onboard_time": 1676287139,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1027182,
+        "num": 1027182,
+        "word": "刘耀文严浩翔三亚同框路透",
+        "onboard_time": 1676297020,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 966607,
+        "num": 966607,
+        "word": "吴刚 没鼻梁的人有福了",
+        "onboard_time": 1676297142,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 887241,
+        "num": 887241,
+        "word": "韩媒称日本或将发生9.1级地震",
+        "onboard_time": 1676288447,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732666,
+        "num": 732666,
+        "word": "小老虎凌晨站床边求贴贴",
+        "onboard_time": 1676295340,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716099,
+        "num": 716099,
+        "word": "相亲后发现自己妥协不了",
+        "onboard_time": 1676285986,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 691781,
+        "num": 691781,
+        "word": "河南补贴6100元招募捐精志愿者",
+        "onboard_time": 1676294677,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675593,
+        "num": 675593,
+        "word": "马龙丁宁副高级职称公示",
+        "onboard_time": 1676294260,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 578803,
+        "num": 578803,
+        "word": "官方回应城管收走孩子写作业桌子",
+        "onboard_time": 1676295953,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559483,
+        "num": 559483,
+        "word": "央视网谈绝望的文盲",
+        "onboard_time": 1676263957,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411688,
+        "num": 411688,
+        "word": "狂飙里谁是你的意难平",
+        "onboard_time": 1676297681,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406662,
+        "num": 406662,
+        "word": "陕西发现3千多年前大型聚落遗址",
+        "onboard_time": 1676294260,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377784,
+        "num": 377784,
+        "word": "唐嫣一生要强的游戏黑洞",
+        "onboard_time": 1676295580,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376129,
+        "num": 376129,
+        "word": "张彬彬吴倩新剧三分野剧照",
+        "onboard_time": 1676293301,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366839,
+        "num": 366839,
+        "word": "德云社演出",
+        "onboard_time": 1676293419,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333478,
+        "num": 333478,
+        "word": "情人节单身的有福了",
+        "onboard_time": 1676277220,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332637,
+        "num": 332637,
+        "word": "女子注射6针玻尿酸致残",
+        "onboard_time": 1676278718,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329995,
+        "num": 329995,
+        "word": "男子在高铁站当女儿面掐脖打老婆",
+        "onboard_time": 1676287667,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308556,
+        "num": 308556,
+        "word": "巨型爆浆曲奇",
+        "onboard_time": 1676297321,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 306135,
+        "num": 306135,
+        "word": "张颂文曾指导王一博演至尊宝",
+        "onboard_time": 1676281478,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299781,
+        "num": 299781,
+        "word": "涉毒演员含笑公司已被吊销",
+        "onboard_time": 1676289707,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 292148,
+        "num": 292148,
+        "word": "警方通报东莞持刀伤人案",
+        "onboard_time": 1676290784,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 272123,
+        "num": 272123,
+        "word": "梦中的那片海 备播",
+        "onboard_time": 1676279321,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271921,
+        "num": 271921,
+        "word": "张真源唱有我呢",
+        "onboard_time": 1676295838,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247255,
+        "num": 247255,
+        "word": "2023年中央一号文件",
+        "onboard_time": 1676281182,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 245370,
+        "num": 245370,
+        "word": "Doinb爆料FPX寄了",
+        "onboard_time": 1676285321,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241912,
+        "num": 241912,
+        "word": "徐明浩锁骨部位骨折",
+        "onboard_time": 1676272968,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237970,
+        "num": 237970,
+        "word": "宁至谦他急了",
+        "onboard_time": 1676294562,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226729,
+        "num": 226729,
+        "word": "黄奕演妈妈",
+        "onboard_time": 1676297744,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222519,
+        "num": 222519,
+        "word": "兰珏张屏面摊再相遇",
+        "onboard_time": 1676297562,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215879,
+        "num": 215879,
+        "word": "美驻俄大使馆呼吁在俄公民立即撤离",
+        "onboard_time": 1676283220,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 214514,
+        "num": 214514,
+        "word": "追狂飙追到饼都快炸了",
+        "onboard_time": 1676289526,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206891,
+        "num": 206891,
+        "word": "嘎子哥回应1999元手机1880元能买到",
+        "onboard_time": 1676277105,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205283,
+        "num": 205283,
+        "word": "言承旭在刘畊宏直播间跳完发烧了",
+        "onboard_time": 1676290784,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191591,
+        "num": 191591,
+        "word": "李菲儿说看完电影觉得单身很遗憾",
+        "onboard_time": 1676296359,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188514,
+        "num": 188514,
+        "word": "三分野",
+        "onboard_time": 1676289707,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180457,
+        "num": 180457,
+        "word": "男子骑电瓶车载巨大玫瑰",
+        "onboard_time": 1676288686,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166266,
+        "num": 166266,
+        "word": "贷款人离世后剩下房贷该如何处理",
+        "onboard_time": 1676272549,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 159674,
+        "num": 159674,
+        "word": "林孝埈说我们是支团结的队伍",
+        "onboard_time": 1676284897,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156675,
+        "num": 156675,
+        "word": "昺 让世界认识这个字",
+        "onboard_time": 1676270873,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155573,
+        "num": 155573,
+        "word": "刘宪华小提琴演奏我心永恒",
+        "onboard_time": 1676290965,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150330,
+        "num": 150330,
+        "word": "氯乙烯泄漏的危害",
+        "onboard_time": 1676290684,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 148455,
+        "num": 148455,
+        "word": "女子车辆被强盛集团违停车挡住",
+        "onboard_time": 1676280402,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143647,
+        "num": 143647,
+        "word": "第一次看到有人这样洗袜子",
+        "onboard_time": 1676281240,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142036,
+        "num": 142036,
+        "word": "爱情而已 Q1",
+        "onboard_time": 1676290784,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}
