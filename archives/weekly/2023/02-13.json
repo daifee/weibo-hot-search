@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676324039981,
+  "endTime": 1676326721812,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -2307,6 +2307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168311,
+      "num": 168311,
+      "word": "老人喝隔夜牛肉汤住进ICU",
+      "onboard_time": 1676318952,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167803,
       "num": 167803,
       "word": "听说你喜欢我情敌上线",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1676222598,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147968,
-      "num": 47509,
-      "word": "老人喝隔夜牛肉汤住进ICU",
-      "onboard_time": 1676318952,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147668,
@@ -2524,7 +2524,7 @@
     },
     {
       "raw_hot": 113105,
-      "num": 92793,
+      "num": 100204,
       "word": "婚房烂尾10年业主住进毛坯房",
       "onboard_time": 1676313735,
       "rank": 12,
@@ -2577,6 +2577,14 @@
       "onboard_time": 1676224996,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89042,
+      "num": 78559,
+      "word": "57岁小学保安穿旗袍走秀气质惊艳",
+      "onboard_time": 1676324892,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 88418,
