@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676306711850,
+  "endTime": 1676308679995,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -5787,6 +5787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 791177,
+      "num": 791177,
+      "word": "睡觉早更好还是睡觉晚更好",
+      "onboard_time": 1676304212,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 790808,
       "num": 790808,
       "word": "内娱叔圈天菜",
@@ -5953,14 +5961,6 @@
       "onboard_time": 1675433612,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 771341,
-      "num": 771341,
-      "word": "睡觉早更好还是睡觉晚更好",
-      "onboard_time": 1676304212,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 769855,
@@ -27715,6 +27715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142296,
+      "num": 142296,
+      "word": "蔡徐坤V领黑色西装造型",
+      "onboard_time": 1676307502,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 141372,
       "num": 141372,
       "word": "被困138小时获救老人亲吻救援人员的手",
@@ -28033,6 +28041,14 @@
       "onboard_time": 1675877656,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136458,
+      "num": 136458,
+      "word": "ENHYPEN的中文口音",
+      "onboard_time": 1676307144,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 136378,

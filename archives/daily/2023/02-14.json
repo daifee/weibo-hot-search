@@ -1,6 +1,6 @@
 {
   "startTime": 1676305608565,
-  "endTime": 1676306711850,
+  "endTime": 1676308679995,
   "band_list": [
     {
       "raw_hot": 1854692,
@@ -59,8 +59,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 771341,
-      "num": 771341,
+      "raw_hot": 791177,
+      "num": 791177,
       "word": "睡觉早更好还是睡觉晚更好",
       "onboard_time": 1676304212,
       "rank": 12,
@@ -307,12 +307,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142296,
+      "num": 142296,
+      "word": "蔡徐坤V领黑色西装造型",
+      "onboard_time": 1676307502,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 136532,
       "num": 136532,
       "word": "陕西发现3千多年前大型聚落遗址",
       "onboard_time": 1676294260,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136458,
+      "num": 136458,
+      "word": "ENHYPEN的中文口音",
+      "onboard_time": 1676307144,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 134137,
@@ -401,6 +417,14 @@
       "onboard_time": 1676290379,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65037,
+      "num": 65037,
+      "word": "2023年中央一号文件",
+      "onboard_time": 1676281182,
+      "rank": 45,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
@@ -409,6 +433,9 @@
     },
     {
       "word": "#守好三农基本盘至关重要不容有失#"
+    },
+    {
+      "word": "#习近平的文化情缘#"
     }
   ]
 }
