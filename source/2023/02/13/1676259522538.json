@@ -1,0 +1,410 @@
+{
+  "runTime": 1676259522538,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1776903,
+        "num": 1776903,
+        "word": "林志颖车祸后首次公开活动",
+        "onboard_time": 1676256265,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1753757,
+        "num": 1753757,
+        "word": "狂飙",
+        "onboard_time": 1676251227,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165074,
+        "num": 1343621,
+        "word": "开学第一天",
+        "onboard_time": 1676249247,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143095,
+        "num": 1143095,
+        "word": "修音也救不了的三字歌手",
+        "onboard_time": 1676246124,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 925608,
+        "num": 925608,
+        "word": "长期不吃早餐会降低大脑功能",
+        "onboard_time": 1676256327,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910392,
+        "num": 910392,
+        "word": "杨蓉说这回为爱疯一回",
+        "onboard_time": 1676256087,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 856576,
+        "num": 856576,
+        "word": "五角大楼称F16战机又击落一空中物体",
+        "onboard_time": 1676252787,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 833687,
+        "num": 833687,
+        "word": "腾讯视频回应多设备登录被封号",
+        "onboard_time": 1676256987,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 824035,
+        "num": 824035,
+        "word": "衢州交警发文被指疑似性别歧视",
+        "onboard_time": 1676257767,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795367,
+        "num": 795367,
+        "word": "韩媒关注林孝埈连续夺冠",
+        "onboard_time": 1676255786,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1646768,
+        "num": 785149,
+        "word": "已婚男子与人同居生下儿女被刑拘",
+        "onboard_time": 1676249788,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690081,
+        "num": 690081,
+        "word": "专家谈房贷年龄期限可延长到80岁",
+        "onboard_time": 1676251766,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 632279,
+        "num": 632279,
+        "word": "鹿晗中国乒乓宣传VCR",
+        "onboard_time": 1676259029,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 578081,
+        "num": 578081,
+        "word": "Rihanna补妆",
+        "onboard_time": 1676252969,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 563453,
+        "num": 563453,
+        "word": "网友P的张凌赫王楚然合照",
+        "onboard_time": 1676255486,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554650,
+        "num": 554650,
+        "word": "果然男演员都逃不过女装",
+        "onboard_time": 1676257287,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 490712,
+        "num": 490712,
+        "word": "官方准备击落山东海域不明飞行物",
+        "onboard_time": 1676205871,
+        "rank": 16,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 469574,
+        "num": 469574,
+        "word": "34岁小伙被36个乡村孩子当爸爸",
+        "onboard_time": 1676253926,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 464613,
+        "num": 464613,
+        "word": "蕾哈娜超级碗中场秀造型",
+        "onboard_time": 1676254286,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 439788,
+        "num": 439788,
+        "word": "银行为何拒绝提前还房贷",
+        "onboard_time": 1676256388,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 428493,
+        "num": 428493,
+        "word": "王俊凯白色镂空毛衣造型",
+        "onboard_time": 1676258487,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 403087,
+        "num": 403087,
+        "word": "没有服务器 但我们有冠军",
+        "onboard_time": 1676252065,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 382855,
+        "num": 382855,
+        "word": "王楚然好漂亮",
+        "onboard_time": 1676211997,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358182,
+        "num": 358182,
+        "word": "电影这么多年官宣定档520",
+        "onboard_time": 1676256146,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353322,
+        "num": 353322,
+        "word": "蕾哈娜中场秀表演",
+        "onboard_time": 1676254888,
+        "rank": 24,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 352038,
+        "num": 352038,
+        "word": "女子搬家前用3D扫描保存房间",
+        "onboard_time": 1676254045,
+        "rank": 25,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 350238,
+        "num": 350238,
+        "word": "几乎所有安卓品牌面临高库存风险",
+        "onboard_time": 1676255665,
+        "rank": 26,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 341369,
+        "num": 341369,
+        "word": "diamonds",
+        "onboard_time": 1676257948,
+        "rank": 27,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 314372,
+        "num": 314372,
+        "word": "超级碗 美国春晚",
+        "onboard_time": 1676253987,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290739,
+        "num": 290739,
+        "word": "超级碗",
+        "onboard_time": 1676246366,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260569,
+        "num": 260569,
+        "word": "夏花今日开播",
+        "onboard_time": 1676256927,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258508,
+        "num": 258508,
+        "word": "护心",
+        "onboard_time": 1676255426,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244552,
+        "num": 244552,
+        "word": "地震中失散的2岁女孩找到了妈妈",
+        "onboard_time": 1676254225,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220967,
+        "num": 220967,
+        "word": "女子酒店健身房洗澡有陌生男子闯入",
+        "onboard_time": 1676251168,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219251,
+        "num": 219251,
+        "word": "护心滤镜",
+        "onboard_time": 1676255846,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217267,
+        "num": 217267,
+        "word": "Rihanna 女企业家",
+        "onboard_time": 1676256448,
+        "rank": 35,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 207390,
+        "num": 207390,
+        "word": "张大大 许愿池的王八",
+        "onboard_time": 1676211096,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204642,
+        "num": 204642,
+        "word": "SMTOWN官网出现黄旭熙背影照",
+        "onboard_time": 1676245343,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198786,
+        "num": 198786,
+        "word": "土耳其彻查地震中大量建筑倒塌问题",
+        "onboard_time": 1676252126,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197056,
+        "num": 197056,
+        "word": "银河护卫队3新预告",
+        "onboard_time": 1676257287,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186270,
+        "num": 186270,
+        "word": "李培楠夺冠",
+        "onboard_time": 1676243297,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182001,
+        "num": 182001,
+        "word": "别让砖家害了真专家",
+        "onboard_time": 1676258969,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173683,
+        "num": 173683,
+        "word": "羽生结弦CLAMP合作",
+        "onboard_time": 1676259148,
+        "rank": 42,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 170998,
+        "num": 170998,
+        "word": "林孝埈庆祝动作",
+        "onboard_time": 1676215412,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170979,
+        "num": 170979,
+        "word": "男子后备箱里为流浪猫搭窝御寒",
+        "onboard_time": 1676257647,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170376,
+        "num": 170376,
+        "word": "云南大理苍山披云被太美了",
+        "onboard_time": 1676259210,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 166094,
+        "num": 166094,
+        "word": "福建泉州不愧是众神人间办事处",
+        "onboard_time": 1676248166,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155565,
+        "num": 155565,
+        "word": "苹果任命首位首席人事官",
+        "onboard_time": 1676258487,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151043,
+        "num": 151043,
+        "word": "甘肃定西对彩礼限高",
+        "onboard_time": 1676252065,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 139251,
+        "num": 139251,
+        "word": "70岁阿姨微信被封哭诉会孤独终老",
+        "onboard_time": 1676208814,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化创造人类文明新形态#"
+    }
+  }
+}

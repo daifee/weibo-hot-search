@@ -1,10 +1,10 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676258686318,
+  "endTime": 1676259522538,
   "band_list": [
     {
       "raw_hot": 2368653,
-      "num": 758588,
+      "num": 785149,
       "word": "已婚男子与人同居生下儿女被刑拘",
       "onboard_time": 1676249788,
       "rank": 10,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1246072,
-      "num": 1246072,
+      "raw_hot": 1753757,
+      "num": 1753757,
       "word": "狂飙",
       "onboard_time": 1676251227,
       "rank": 34,
@@ -91,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 925608,
+      "num": 925608,
+      "word": "长期不吃早餐会降低大脑功能",
+      "onboard_time": 1676256327,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 900954,
       "num": 900954,
       "word": "超级碗",
@@ -105,6 +113,14 @@
       "onboard_time": 1676240353,
       "rank": 25,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 833687,
+      "num": 833687,
+      "word": "腾讯视频回应多设备登录被封号",
+      "onboard_time": 1676256987,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 830889,
@@ -123,11 +139,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 824665,
-      "num": 824665,
-      "word": "长期不吃早餐会降低大脑功能",
-      "onboard_time": 1676256327,
-      "rank": 43,
+      "raw_hot": 824035,
+      "num": 824035,
+      "word": "衢州交警发文被指疑似性别歧视",
+      "onboard_time": 1676257767,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -139,28 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795367,
+      "num": 795367,
+      "word": "韩媒关注林孝埈连续夺冠",
+      "onboard_time": 1676255786,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 781781,
       "num": 781781,
       "word": "王楚然好漂亮",
       "onboard_time": 1676211997,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 758882,
-      "num": 758882,
-      "word": "腾讯视频回应多设备登录被封号",
-      "onboard_time": 1676256987,
-      "rank": 40,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 749563,
-      "num": 749563,
-      "word": "韩媒关注林孝埈连续夺冠",
-      "onboard_time": 1676255786,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 743914,
@@ -211,6 +219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 632279,
+      "num": 632279,
+      "word": "鹿晗中国乒乓宣传VCR",
+      "onboard_time": 1676259029,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 622962,
       "num": 622962,
       "word": "回南天是南方人专属的痛",
@@ -259,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 554650,
+      "num": 554650,
+      "word": "果然男演员都逃不过女装",
+      "onboard_time": 1676257287,
+      "rank": 17,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 523061,
       "num": 523061,
       "word": "升降火锅",
@@ -291,14 +315,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 464999,
-      "num": 464999,
-      "word": "果然男演员都逃不过女装",
-      "onboard_time": 1676257287,
-      "rank": 17,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 463725,
       "num": 463725,
       "word": "电影这么多年官宣定档520",
@@ -315,12 +331,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 452804,
-      "num": 452804,
-      "word": "衢州交警发文被指疑似性别歧视",
-      "onboard_time": 1676257767,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 439788,
+      "num": 439788,
+      "word": "银行为何拒绝提前还房贷",
+      "onboard_time": 1676256388,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 433147,
@@ -337,14 +353,6 @@
       "onboard_time": 1676255426,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 417430,
-      "num": 417430,
-      "word": "银行为何拒绝提前还房贷",
-      "onboard_time": 1676256388,
-      "rank": 44,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 413788,
@@ -451,6 +459,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 341369,
+      "num": 341369,
+      "word": "diamonds",
+      "onboard_time": 1676257948,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 332135,
       "num": 332135,
       "word": "超级碗 美国春晚",
@@ -465,14 +481,6 @@
       "onboard_time": 1676205031,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 327480,
-      "num": 327480,
-      "word": "diamonds",
-      "onboard_time": 1676257948,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 326411,
@@ -779,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182001,
+      "num": 182001,
+      "word": "别让砖家害了真专家",
+      "onboard_time": 1676258969,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176633,
       "num": 176633,
       "word": "渤海",
@@ -793,6 +809,14 @@
       "onboard_time": 1676205333,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173683,
+      "num": 173683,
+      "word": "羽生结弦CLAMP合作",
+      "onboard_time": 1676259148,
+      "rank": 42,
+      "category": "体育,动漫"
     },
     {
       "raw_hot": 172784,
@@ -819,12 +843,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170376,
+      "num": 170376,
+      "word": "云南大理苍山披云被太美了",
+      "onboard_time": 1676259210,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 169806,
       "num": 169806,
       "word": "吴磊赵今麦芬兰雪地随拍",
       "onboard_time": 1676203711,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165074,
+      "num": 1343621,
+      "word": "开学第一天",
+      "onboard_time": 1676249247,
+      "rank": 41,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 161909,
@@ -857,14 +897,6 @@
       "onboard_time": 1676253447,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153951,
-      "num": 1246188,
-      "word": "开学第一天",
-      "onboard_time": 1676249247,
-      "rank": 41,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 152128,

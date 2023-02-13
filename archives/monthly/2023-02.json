@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676258686318,
+  "endTime": 1676259522538,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 2368653,
-      "num": 758588,
+      "num": 785149,
       "word": "已婚男子与人同居生下儿女被刑拘",
       "onboard_time": 1676249788,
       "rank": 10,
@@ -1345,6 +1345,14 @@
       "onboard_time": 1675674329,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1753757,
+      "num": 1753757,
+      "word": "狂飙",
+      "onboard_time": 1675167215,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 1750416,
@@ -2473,14 +2481,6 @@
       "onboard_time": 1675569093,
       "rank": 6,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1246072,
-      "num": 1246072,
-      "word": "狂飙",
-      "onboard_time": 1675167215,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 1245488,
@@ -4179,6 +4179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 925608,
+      "num": 925608,
+      "word": "长期不吃早餐会降低大脑功能",
+      "onboard_time": 1676256327,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 925476,
       "num": 925476,
       "word": "千斤棺木压手戴10年尾戒保住男子手指",
@@ -4931,6 +4939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 833687,
+      "num": 833687,
+      "word": "腾讯视频回应多设备登录被封号",
+      "onboard_time": 1676256987,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 830889,
       "num": 830889,
       "word": "蕾哈娜超级碗中场秀造型",
@@ -5059,14 +5075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 824665,
-      "num": 824665,
-      "word": "长期不吃早餐会降低大脑功能",
-      "onboard_time": 1676256327,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 824539,
       "num": 824539,
       "word": "饿了么免单",
@@ -5080,6 +5088,14 @@
       "word": "女孩花4万在鹤岗买房后卖煎饼挣钱",
       "onboard_time": 1675381523,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 824035,
+      "num": 824035,
+      "word": "衢州交警发文被指疑似性别歧视",
+      "onboard_time": 1676257767,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -5369,6 +5385,14 @@
       "onboard_time": 1675398571,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 795367,
+      "num": 795367,
+      "word": "韩媒关注林孝埈连续夺冠",
+      "onboard_time": 1676255786,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 793931,
@@ -5683,14 +5707,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 758882,
-      "num": 758882,
-      "word": "腾讯视频回应多设备登录被封号",
-      "onboard_time": 1676256987,
-      "rank": 40,
-      "category": "科技"
-    },
-    {
       "raw_hot": 758293,
       "num": 758293,
       "word": "胡鑫宇尸体发现地无打斗拖拽痕迹",
@@ -5761,14 +5777,6 @@
       "onboard_time": 1675435111,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 749563,
-      "num": 749563,
-      "word": "韩媒关注林孝埈连续夺冠",
-      "onboard_time": 1676255786,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 748761,
@@ -7483,6 +7491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 632279,
+      "num": 632279,
+      "word": "鹿晗中国乒乓宣传VCR",
+      "onboard_time": 1676259029,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 632226,
       "num": 632226,
       "word": "沈腾把张译袖子拽跳线了",
@@ -8769,6 +8785,14 @@
       "onboard_time": 1676041051,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 554650,
+      "num": 554650,
+      "word": "果然男演员都逃不过女装",
+      "onboard_time": 1676257287,
+      "rank": 17,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 554447,
@@ -10643,14 +10667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 464999,
-      "num": 464999,
-      "word": "果然男演员都逃不过女装",
-      "onboard_time": 1676257287,
-      "rank": 17,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 464066,
       "num": 464066,
       "word": "南宁房贷年龄期限可延长至80岁",
@@ -10921,14 +10937,6 @@
       "onboard_time": 1675517372,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 452804,
-      "num": 452804,
-      "word": "衢州交警发文被指疑似性别歧视",
-      "onboard_time": 1676257767,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 452576,
@@ -11209,6 +11217,14 @@
       "onboard_time": 1675768230,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 439788,
+      "num": 439788,
+      "word": "银行为何拒绝提前还房贷",
+      "onboard_time": 1676256388,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 439632,
@@ -11865,14 +11881,6 @@
       "onboard_time": 1675674029,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 417430,
-      "num": 417430,
-      "word": "银行为何拒绝提前还房贷",
-      "onboard_time": 1676256388,
-      "rank": 44,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 416683,
@@ -14371,6 +14379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341369,
+      "num": 341369,
+      "word": "diamonds",
+      "onboard_time": 1676257948,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 340638,
       "num": 340638,
       "word": "言承旭问什么是下海",
@@ -14857,14 +14873,6 @@
       "onboard_time": 1675646728,
       "rank": 27,
       "category": "教育,艺人"
-    },
-    {
-      "raw_hot": 327480,
-      "num": 327480,
-      "word": "diamonds",
-      "onboard_time": 1676257948,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 327428,
@@ -23235,6 +23243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182001,
+      "num": 182001,
+      "word": "别让砖家害了真专家",
+      "onboard_time": 1676258969,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181978,
       "num": 181978,
       "word": "面试时被问过最奇葩的问题",
@@ -23987,6 +24003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173683,
+      "num": 173683,
+      "word": "羽生结弦CLAMP合作",
+      "onboard_time": 1676259148,
+      "rank": 42,
+      "category": "体育,动漫"
+    },
+    {
       "raw_hot": 173461,
       "num": 173461,
       "word": "汤圆",
@@ -24297,6 +24321,14 @@
       "onboard_time": 1675596509,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170376,
+      "num": 170376,
+      "word": "云南大理苍山披云被太美了",
+      "onboard_time": 1676259210,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 170338,
@@ -24769,6 +24801,14 @@
       "onboard_time": 1675435172,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165074,
+      "num": 1343621,
+      "word": "开学第一天",
+      "onboard_time": 1676249247,
+      "rank": 41,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 165000,
@@ -25505,14 +25545,6 @@
       "onboard_time": 1675392268,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153951,
-      "num": 1246188,
-      "word": "开学第一天",
-      "onboard_time": 1676249247,
-      "rank": 41,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 153915,
