@@ -1,0 +1,410 @@
+{
+  "runTime": 1676252560588,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2367239,
+        "num": 2367239,
+        "word": "修音也救不了的三字歌手",
+        "onboard_time": 1676246124,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1506992,
+        "num": 1506992,
+        "word": "官方准备击落山东海域不明飞行物",
+        "onboard_time": 1676205871,
+        "rank": 1,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 105210,
+        "num": 1054607,
+        "word": "中国救援人员加油保重",
+        "onboard_time": 1676206715,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 900954,
+        "num": 900954,
+        "word": "超级碗",
+        "onboard_time": 1676246366,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 837321,
+        "num": 837321,
+        "word": "70岁阿姨微信被封哭诉会孤独终老",
+        "onboard_time": 1676208814,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731906,
+        "num": 731906,
+        "word": "不吃早餐更容易超重",
+        "onboard_time": 1676249667,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622962,
+        "num": 622962,
+        "word": "回南天是南方人专属的痛",
+        "onboard_time": 1676245103,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 578994,
+        "num": 578994,
+        "word": "福建泉州不愧是众神人间办事处",
+        "onboard_time": 1676248166,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491883,
+        "num": 491883,
+        "word": "李培楠夺冠",
+        "onboard_time": 1676243297,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 460507,
+        "num": 460507,
+        "word": "王楚然好漂亮",
+        "onboard_time": 1676211997,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2368653,
+        "num": 447483,
+        "word": "已婚男子与人同居生下儿女被刑拘",
+        "onboard_time": 1676249788,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820388,
+        "num": 443128,
+        "word": "女子酒店健身房洗澡有陌生男子闯入",
+        "onboard_time": 1676251168,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486755,
+        "num": 441486,
+        "word": "专家谈房贷年龄期限可延长到80岁",
+        "onboard_time": 1676251766,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 430488,
+        "num": 430488,
+        "word": "张大大 许愿池的王八",
+        "onboard_time": 1676211096,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389152,
+        "num": 389152,
+        "word": "多人身体绑藏100斤牛肚入境被查",
+        "onboard_time": 1676203231,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379208,
+        "num": 379208,
+        "word": "勇士向NBA投诉开拓者",
+        "onboard_time": 1676247987,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363400,
+        "num": 363400,
+        "word": "YG新女团PHARITA介绍视频",
+        "onboard_time": 1676250745,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346101,
+        "num": 346101,
+        "word": "苹果CEO库克3月将赴华参会",
+        "onboard_time": 1676250149,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 320500,
+        "num": 320500,
+        "word": "农村老人为何不愿意进城养老",
+        "onboard_time": 1676240353,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 295455,
+        "num": 295455,
+        "word": "刘敏涛身材",
+        "onboard_time": 1676205031,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293199,
+        "num": 293199,
+        "word": "SMTOWN官网出现黄旭熙背影照",
+        "onboard_time": 1676245343,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290590,
+        "num": 290590,
+        "word": "7万盆金鱼草开出一片花海",
+        "onboard_time": 1676247627,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276804,
+        "num": 276804,
+        "word": "没有服务器 但我们有冠军",
+        "onboard_time": 1676252065,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259006,
+        "num": 259006,
+        "word": "中国男子短道速滑队摘银",
+        "onboard_time": 1676247927,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257227,
+        "num": 257227,
+        "word": "于正说给宋威龙签新剧了",
+        "onboard_time": 1676245523,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252693,
+        "num": 252693,
+        "word": "电影院3D眼镜要收费合理吗",
+        "onboard_time": 1676252247,
+        "rank": 25,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 245701,
+        "num": 245701,
+        "word": "强震致土叙超3.3万人遇难",
+        "onboard_time": 1676245461,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237308,
+        "num": 237308,
+        "word": "泰国人有多爱王嘉尔",
+        "onboard_time": 1676215173,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220904,
+        "num": 220904,
+        "word": "女子超然楼前背满江红时楼亮了",
+        "onboard_time": 1676241494,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218964,
+        "num": 218964,
+        "word": "G2夺冠",
+        "onboard_time": 1676244441,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242250,
+        "num": 218880,
+        "word": "土耳其彻查地震中大量建筑倒塌问题",
+        "onboard_time": 1676252126,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217518,
+        "num": 217518,
+        "word": "林孝埈庆祝动作",
+        "onboard_time": 1676215412,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204698,
+        "num": 204698,
+        "word": "小狗其实什么都知道",
+        "onboard_time": 1676212954,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203594,
+        "num": 203594,
+        "word": "满江红秦桧房间是如何设计的",
+        "onboard_time": 1676208454,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190806,
+        "num": 190806,
+        "word": "狂飙",
+        "onboard_time": 1676251227,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187620,
+        "num": 187620,
+        "word": "甘肃定西对彩礼限高",
+        "onboard_time": 1676252065,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 183989,
+        "num": 183989,
+        "word": "孩子许愿考年级前三孔明灯原路返回",
+        "onboard_time": 1676208334,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170580,
+        "num": 170580,
+        "word": "于正许凯合照",
+        "onboard_time": 1676247865,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169063,
+        "num": 169063,
+        "word": "家人之间情绪稳定有多重要",
+        "onboard_time": 1676231532,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161909,
+        "num": 161909,
+        "word": "吴易昺颁奖典礼中文致谢",
+        "onboard_time": 1676250267,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155860,
+        "num": 155860,
+        "word": "林孝埈500米两连冠",
+        "onboard_time": 1676214158,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153951,
+        "num": 153951,
+        "word": "开学第一天",
+        "onboard_time": 1676249247,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 152128,
+        "num": 152128,
+        "word": "老人沉迷玩手机怎么办",
+        "onboard_time": 1676224457,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 149162,
+        "num": 149162,
+        "word": "嘎子哥直播间1999元手机1880能买到",
+        "onboard_time": 1676195251,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 136940,
+        "num": 136940,
+        "word": "梅德韦杰夫预言欧洲将彻底消失",
+        "onboard_time": 1676214035,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 136407,
+        "num": 136407,
+        "word": "听说你喜欢我",
+        "onboard_time": 1676211936,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135176,
+        "num": 135176,
+        "word": "李培楠赛前夺冠率只有6%",
+        "onboard_time": 1676252427,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128651,
+        "num": 128651,
+        "word": "山东海域发现不明飞行物",
+        "onboard_time": 1676198250,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127478,
+        "num": 127478,
+        "word": "女子30天游13城手绘记录",
+        "onboard_time": 1676251826,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126215,
+        "num": 126215,
+        "word": "他们的种地技巧已经熟练得不像艺人了",
+        "onboard_time": 1676204133,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移推动高质量发展#"
+    }
+  }
+}
