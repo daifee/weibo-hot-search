@@ -1,10 +1,10 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676252560588,
+  "endTime": 1676253792194,
   "band_list": [
     {
       "raw_hot": 2368653,
-      "num": 447483,
+      "num": 489524,
       "word": "已婚男子与人同居生下儿女被刑拘",
       "onboard_time": 1676249788,
       "rank": 10,
@@ -27,12 +27,28 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 1976071,
+      "num": 1976071,
+      "word": "Rihanna补妆",
+      "onboard_time": 1676252969,
+      "rank": 1,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1214351,
       "num": 1214351,
       "word": "林孝埈庆祝动作",
       "onboard_time": 1676215412,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1195063,
+      "num": 1195063,
+      "word": "专家谈房贷年龄期限可延长到80岁",
+      "onboard_time": 1676251766,
+      "rank": 12,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1070164,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 820388,
-      "num": 443128,
+      "num": 482269,
       "word": "女子酒店健身房洗澡有陌生男子闯入",
       "onboard_time": 1676251168,
       "rank": 11,
@@ -83,8 +99,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 731906,
-      "num": 731906,
+      "raw_hot": 743914,
+      "num": 743914,
       "word": "不吃早餐更容易超重",
       "onboard_time": 1676249667,
       "rank": 5,
@@ -113,6 +129,14 @@
       "onboard_time": 1676245103,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 620130,
+      "num": 620130,
+      "word": "没有服务器 但我们有冠军",
+      "onboard_time": 1676252065,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 606839,
@@ -147,12 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 559627,
+      "num": 480319,
+      "word": "五角大楼称F16战机又击落一空中物体",
+      "onboard_time": 1676252787,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 523061,
       "num": 523061,
       "word": "升降火锅",
       "onboard_time": 1676215116,
       "rank": 9,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 498332,
+      "num": 472253,
+      "word": "土耳其彻查地震中大量建筑倒塌问题",
+      "onboard_time": 1676252126,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493615,
@@ -163,12 +203,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 486755,
-      "num": 441486,
-      "word": "专家谈房贷年龄期限可延长到80岁",
-      "onboard_time": 1676251766,
-      "rank": 12,
-      "category": "财经,社会新闻"
+      "raw_hot": 439461,
+      "num": 439461,
+      "word": "狂飙",
+      "onboard_time": 1676251227,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 413788,
@@ -219,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359399,
+      "num": 359399,
+      "word": "周雨彤录毛雪汪晒与元宝自拍",
+      "onboard_time": 1676253505,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346101,
       "num": 346101,
       "word": "苹果CEO库克3月将赴华参会",
@@ -251,12 +299,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 325457,
+      "num": 325457,
+      "word": "电影院3D眼镜要收费合理吗",
+      "onboard_time": 1676252247,
+      "rank": 25,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 318867,
       "num": 318867,
       "word": "唐嫣宋亚轩唱有何不可路透",
       "onboard_time": 1676214518,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306044,
+      "num": 306044,
+      "word": "甘肃定西对彩礼限高",
+      "onboard_time": 1676252065,
+      "rank": 35,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 305290,
@@ -299,14 +363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 276804,
-      "num": 276804,
-      "word": "没有服务器 但我们有冠军",
-      "onboard_time": 1676252065,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 273185,
       "num": 273185,
       "word": "去西安知道吃什么了",
@@ -347,14 +403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252693,
-      "num": 252693,
-      "word": "电影院3D眼镜要收费合理吗",
-      "onboard_time": 1676252247,
-      "rank": 25,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 251716,
       "num": 251716,
       "word": "哇唧唧哇新人原野撞脸龚俊",
@@ -368,14 +416,6 @@
       "word": "强震致土叙超3.3万人遇难",
       "onboard_time": 1676245461,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242250,
-      "num": 218880,
-      "word": "土耳其彻查地震中大量建筑倒塌问题",
-      "onboard_time": 1676252126,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -393,6 +433,14 @@
       "onboard_time": 1676203592,
       "rank": 25,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 226396,
+      "num": 226396,
+      "word": "人工智能",
+      "onboard_time": 1676252606,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 225269,
@@ -475,28 +523,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 190806,
-      "num": 190806,
-      "word": "狂飙",
-      "onboard_time": 1676251227,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190626,
       "num": 190626,
       "word": "夫胜宽朴志效MOMO舞蹈挑战",
       "onboard_time": 1676217388,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 187620,
-      "num": 187620,
-      "word": "甘肃定西对彩礼限高",
-      "onboard_time": 1676252065,
-      "rank": 35,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 184569,
@@ -515,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182246,
+      "num": 182246,
+      "word": "情人节父亲叫跑腿给单身女儿送花",
+      "onboard_time": 1676253327,
+      "rank": 35,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 176633,
       "num": 176633,
       "word": "渤海",
@@ -529,6 +569,14 @@
       "onboard_time": 1676205333,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171158,
+      "num": 171158,
+      "word": "李培楠赛前夺冠率只有6%",
+      "onboard_time": 1676252427,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 170580,
@@ -611,20 +659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147185,
+      "num": 147185,
+      "word": "詹姆斯观战超级碗",
+      "onboard_time": 1676253447,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141922,
       "num": 141922,
       "word": "女子智齿位置奇特目测要背井离乡",
       "onboard_time": 1676198850,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135176,
-      "num": 135176,
-      "word": "李培楠赛前夺冠率只有6%",
-      "onboard_time": 1676252427,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 133188,
@@ -700,7 +748,7 @@
     },
     {
       "raw_hot": 105210,
-      "num": 1093170,
+      "num": 1381908,
       "word": "中国救援人员加油保重",
       "onboard_time": 1676206715,
       "rank": 2,
