@@ -1,6 +1,6 @@
 {
   "startTime": 1676305608565,
-  "endTime": 1676312664372,
+  "endTime": 1676313527437,
   "band_list": [
     {
       "raw_hot": 1854692,
@@ -339,6 +339,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 133319,
+      "num": 122678,
+      "word": "成都最隐秘的鬼市",
+      "onboard_time": 1676311457,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126940,
       "num": 126940,
       "word": "Doinb爆料FPX寄了",
@@ -411,16 +419,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 87517,
-      "num": 87517,
-      "word": "成都最隐秘的鬼市",
-      "onboard_time": 1676311457,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 73234,
-      "num": 73234,
+      "raw_hot": 83673,
+      "num": 83673,
       "word": "土耳其地震已致该国29605人死亡",
       "onboard_time": 1676311037,
       "rank": 20,
