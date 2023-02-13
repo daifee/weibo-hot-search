@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676288021189,
+  "endTime": 1676291838013,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -49,6 +49,14 @@
       "onboard_time": 1676246124,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2310848,
+      "num": 2310848,
+      "word": "姐弟坠亡案父亲连写三封信求原谅",
+      "onboard_time": 1676287079,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2111971,
@@ -115,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1458870,
+      "num": 657400,
+      "word": "东莞一电子厂门口现凶杀案",
+      "onboard_time": 1676285621,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1407003,
       "num": 1407003,
       "word": "多设备登录被封号合理吗",
       "onboard_time": 1676260349,
       "rank": 8,
       "category": "社会议题,科技"
+    },
+    {
+      "raw_hot": 1371205,
+      "num": 1371205,
+      "word": "韩媒称日本或将发生9.1级地震",
+      "onboard_time": 1676288447,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1361673,
@@ -187,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1205700,
+      "num": 1205700,
+      "word": "高启强给干爹的陈皮到底有多贵",
+      "onboard_time": 1676287139,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1195063,
       "num": 1195063,
       "word": "专家谈房贷年龄期限可延长到80岁",
@@ -209,14 +241,6 @@
       "onboard_time": 1676264077,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1130704,
-      "num": 657400,
-      "word": "东莞一电子厂门口现凶杀案",
-      "onboard_time": 1676285621,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1113378,
@@ -369,6 +393,14 @@
       "onboard_time": 1676251168,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 815111,
+      "num": 815111,
+      "word": "涉毒演员含笑公司已被吊销",
+      "onboard_time": 1676289707,
+      "rank": 6,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 808731,
@@ -528,6 +560,14 @@
       "word": "处女座的单身都是主动选择",
       "onboard_time": 1676274042,
       "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 639262,
+      "num": 639262,
+      "word": "相亲后发现自己妥协不了",
+      "onboard_time": 1676285986,
+      "rank": 22,
       "category": "情感"
     },
     {
@@ -699,14 +739,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 517539,
-      "num": 517539,
-      "word": "相亲后发现自己妥协不了",
-      "onboard_time": 1676285986,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 516067,
       "num": 516067,
       "word": "把哈士奇认成了雪狼",
@@ -723,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 513945,
+      "num": 513945,
+      "word": "言承旭说从此刻开始我就是萧寒",
+      "onboard_time": 1676291266,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 512675,
       "num": 512675,
       "word": "赵露思王安宇神隐吵架路透",
@@ -736,6 +776,14 @@
       "word": "女子家中大巨蛋磕开竟是蛋中蛋",
       "onboard_time": 1676265351,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503109,
+      "num": 332822,
+      "word": "男子在高铁站当女儿面掐脖打老婆",
+      "onboard_time": 1676287667,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -803,6 +851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 467547,
+      "num": 467547,
+      "word": "三分野",
+      "onboard_time": 1676289707,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 463725,
       "num": 463725,
       "word": "电影这么多年官宣定档520",
@@ -835,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 453508,
-      "num": 453508,
-      "word": "姐弟坠亡案父亲连写三封信求原谅",
-      "onboard_time": 1676287079,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 444286,
       "num": 444286,
       "word": "第一次这么近距离看熊猫毛",
@@ -865,6 +913,14 @@
       "onboard_time": 1676256388,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 434979,
+      "num": 434979,
+      "word": "爱情而已 Q1",
+      "onboard_time": 1676290784,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 433147,
@@ -995,14 +1051,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 365682,
-      "num": 270660,
-      "word": "高启强给干爹的陈皮到底有多贵",
-      "onboard_time": 1676287139,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 363400,
       "num": 363400,
       "word": "YG新女团PHARITA介绍视频",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1676253987,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 330960,
+      "num": 330960,
+      "word": "追狂飙追到饼都快炸了",
+      "onboard_time": 1676289526,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 330741,
@@ -1267,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280701,
+      "num": 280701,
+      "word": "氯乙烯泄漏的危害",
+      "onboard_time": 1676290684,
+      "rank": 24,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 279528,
       "num": 279528,
       "word": "四川一地首次拍到野生大熊猫",
@@ -1281,6 +1345,14 @@
       "onboard_time": 1676249247,
       "rank": 41,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 276452,
+      "num": 276452,
+      "word": "言承旭在刘畊宏直播间跳完发烧了",
+      "onboard_time": 1676290784,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 274991,
@@ -1315,12 +1387,36 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 269039,
+      "num": 269039,
+      "word": "刘宪华小提琴演奏我心永恒",
+      "onboard_time": 1676290965,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 267706,
+      "num": 267706,
+      "word": "崔杋圭想和Keria一起打排位",
+      "onboard_time": 1676289959,
+      "rank": 29,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 262902,
       "num": 262902,
       "word": "沈腾说给瑶琴唱樱桃曲是后加的",
       "onboard_time": 1676265593,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260708,
+      "num": 260708,
+      "word": "男子骑电瓶车载巨大玫瑰",
+      "onboard_time": 1676288686,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259241,
@@ -1489,6 +1585,14 @@
       "onboard_time": 1676283940,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222705,
+      "num": 1434267,
+      "word": "中国救援队已营救多名被困者",
+      "onboard_time": 1676290379,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221743,
@@ -1843,14 +1947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163958,
-      "num": 163958,
-      "word": "男子在高铁站当女儿面掐脖打老婆",
-      "onboard_time": 1676287667,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161909,
       "num": 161909,
       "word": "吴易昺颁奖典礼中文致谢",
@@ -1889,6 +1985,14 @@
       "onboard_time": 1676253447,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154518,
+      "num": 154518,
+      "word": "警方通报东莞持刀伤人案",
+      "onboard_time": 1676290784,
+      "rank": 47,
+      "category": "社会负面"
     },
     {
       "raw_hot": 153720,
