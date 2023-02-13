@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676283691861,
+  "endTime": 1676284643290,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -3755,6 +3755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1002772,
+      "num": 1002772,
+      "word": "张颂文曾指导王一博演至尊宝",
+      "onboard_time": 1676281478,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1002573,
       "num": 833313,
       "word": "6岁男童在酒店被泳池旁泡泡机电亡",
@@ -3776,6 +3784,14 @@
       "word": "叙利亚已收到千笔中国捐款",
       "onboard_time": 1675947812,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 997443,
+      "num": 997443,
+      "word": "女子车辆被强盛集团违停车挡住",
+      "onboard_time": 1676280402,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -4435,14 +4451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 910792,
-      "num": 910792,
-      "word": "张颂文曾指导王一博演至尊宝",
-      "onboard_time": 1676281478,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 909695,
       "num": 909695,
       "word": "开学前一夜才是真正的万家灯火",
@@ -4705,14 +4713,6 @@
       "onboard_time": 1675735106,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 883821,
-      "num": 643111,
-      "word": "女子车辆被强盛集团违停车挡住",
-      "onboard_time": 1676280402,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 882247,
@@ -6043,6 +6043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 742324,
+      "num": 742324,
+      "word": "俄亥俄",
+      "onboard_time": 1676284121,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 742134,
       "num": 742134,
       "word": "林孝埈连夺两金",
@@ -6305,6 +6313,14 @@
       "onboard_time": 1675776572,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 725258,
+      "num": 725258,
+      "word": "2023年中央一号文件",
+      "onboard_time": 1676281182,
+      "rank": 8,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 724945,
@@ -6601,6 +6617,14 @@
       "onboard_time": 1675818570,
       "rank": 6,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 707277,
+      "num": 707277,
+      "word": "曝梅西6月来中国比赛",
+      "onboard_time": 1676281058,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 706281,
@@ -7339,14 +7363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 658872,
-      "num": 658872,
-      "word": "2023年中央一号文件",
-      "onboard_time": 1676281182,
-      "rank": 8,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 658641,
       "num": 658641,
       "word": "狂飙2没你们我不看",
@@ -7617,14 +7633,6 @@
       "onboard_time": 1675511670,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 642484,
-      "num": 642484,
-      "word": "曝梅西6月来中国比赛",
-      "onboard_time": 1676281058,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 642183,
@@ -9531,6 +9539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 535860,
+      "num": 535860,
+      "word": "满江红成中国影史票房榜第7名",
+      "onboard_time": 1676281478,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 535471,
       "num": 535471,
       "word": "结婚一定要有求婚仪式吗",
@@ -9697,14 +9713,6 @@
       "onboard_time": 1675667247,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 528306,
-      "num": 528306,
-      "word": "满江红成中国影史票房榜第7名",
-      "onboard_time": 1676281478,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 526983,
@@ -10097,6 +10105,14 @@
       "onboard_time": 1675518333,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 511251,
+      "num": 511251,
+      "word": "美驻俄大使馆呼吁在俄公民立即撤离",
+      "onboard_time": 1676283220,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 511184,
@@ -11307,6 +11323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 455180,
+      "num": 455180,
+      "word": "宋威龙 其实张屏是我",
+      "onboard_time": 1676283699,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 455170,
       "num": 455170,
       "word": "刘畊宏直播",
@@ -12305,6 +12329,14 @@
       "onboard_time": 1676083165,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 418252,
+      "num": 418252,
+      "word": "打工仔小张",
+      "onboard_time": 1676279861,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 417888,
@@ -13809,14 +13841,6 @@
       "onboard_time": 1676041352,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 371673,
-      "num": 371673,
-      "word": "打工仔小张",
-      "onboard_time": 1676279861,
-      "rank": 49,
-      "category": "网红"
     },
     {
       "raw_hot": 371541,
@@ -15515,6 +15539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326078,
+      "num": 326078,
+      "word": "虞书欣小香风外套上班路透",
+      "onboard_time": 1676283818,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 326026,
       "num": 326026,
       "word": "安欣的穿搭是不是参考了王俊凯",
@@ -15537,14 +15569,6 @@
       "onboard_time": 1675842331,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 325697,
-      "num": 313590,
-      "word": "美驻俄大使馆呼吁在俄公民立即撤离",
-      "onboard_time": 1676283220,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 325590,
@@ -19883,6 +19907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241782,
+      "num": 241782,
+      "word": "涵艺爆料LWX要转辅助",
+      "onboard_time": 1676284479,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241717,
       "num": 241717,
       "word": "掌门太忙宣布停服",
@@ -20881,6 +20913,14 @@
       "onboard_time": 1675228834,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224360,
+      "num": 224360,
+      "word": "Doggo泽丽五杀",
+      "onboard_time": 1676283940,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 224293,
@@ -22537,6 +22577,14 @@
       "onboard_time": 1675994734,
       "rank": 43,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 198173,
+      "num": 198173,
+      "word": "高启盛的微表情借鉴过小丑",
+      "onboard_time": 1676284060,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 198134,
@@ -24652,7 +24700,7 @@
     },
     {
       "raw_hot": 175497,
-      "num": 534786,
+      "num": 553451,
       "word": "破产重组中为何纠纷频出",
       "onboard_time": 1676279382,
       "rank": 44,
@@ -29592,6 +29640,14 @@
       "word": "五世同堂排排坐接龙喊妈妈",
       "onboard_time": 1675190774,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6287,
+      "num": 1082271,
+      "word": "向着新目标奋楫再出发",
+      "onboard_time": 1676284539,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
