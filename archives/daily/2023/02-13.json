@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676279996406,
+  "endTime": 1676280864422,
   "band_list": [
     {
       "raw_hot": 3129237,
@@ -99,8 +99,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1470932,
-      "num": 1470932,
+      "raw_hot": 1531523,
+      "num": 1531523,
       "word": "嘎子哥回应1999元手机1880元能买到",
       "onboard_time": 1676277105,
       "rank": 10,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1016148,
+      "num": 1016148,
+      "word": "女子注射6针玻尿酸致残",
+      "onboard_time": 1676278718,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 956258,
       "num": 956258,
       "word": "杨蓉说这回为爱疯一回",
@@ -225,6 +233,14 @@
       "onboard_time": 1676256327,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 921562,
+      "num": 921562,
+      "word": "梦中的那片海 备播",
+      "onboard_time": 1676279321,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 901066,
@@ -257,14 +273,6 @@
       "onboard_time": 1676256987,
       "rank": 40,
       "category": "科技"
-    },
-    {
-      "raw_hot": 832351,
-      "num": 832351,
-      "word": "梦中的那片海 备播",
-      "onboard_time": 1676279321,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 830889,
@@ -347,14 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 776855,
-      "num": 732389,
-      "word": "女子注射6针玻尿酸致残",
-      "onboard_time": 1676278718,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 744351,
       "num": 744351,
       "word": "君子盟",
@@ -387,20 +387,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 720901,
+      "num": 720901,
+      "word": "情人节单身的有福了",
+      "onboard_time": 1676277220,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 707915,
       "num": 707915,
       "word": "网友P的张凌赫王楚然合照",
       "onboard_time": 1676255486,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 705739,
-      "num": 705739,
-      "word": "情人节单身的有福了",
-      "onboard_time": 1676277220,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 697294,
@@ -595,6 +595,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 520759,
+      "num": 520759,
+      "word": "美方高空气球10余次非法飞越中国",
+      "onboard_time": 1676278902,
+      "rank": 22,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 516067,
       "num": 516067,
       "word": "把哈士奇认成了雪狼",
@@ -641,6 +649,14 @@
       "onboard_time": 1676214035,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 485778,
+      "num": 485778,
+      "word": "李乃文说李小冉很女神也很北京大妞",
+      "onboard_time": 1676279681,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 485373,
@@ -731,14 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 411643,
-      "num": 411643,
-      "word": "李乃文说李小冉很女神也很北京大妞",
-      "onboard_time": 1676279681,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 411200,
       "num": 411200,
       "word": "几乎所有安卓品牌面临高库存风险",
@@ -779,14 +787,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 382864,
-      "num": 382864,
-      "word": "美方高空气球10余次非法飞越中国",
-      "onboard_time": 1676278902,
-      "rank": 22,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 379562,
       "num": 379562,
       "word": "山东海域发现不明飞行物",
@@ -801,6 +801,14 @@
       "onboard_time": 1676247987,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 377811,
+      "num": 377811,
+      "word": "范闲这次要保护好梓荆啊",
+      "onboard_time": 1676279201,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 376469,
@@ -867,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358071,
+      "num": 358071,
+      "word": "京沪人均住户存款超过20万",
+      "onboard_time": 1676277407,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 354725,
       "num": 354725,
       "word": "男生攒压岁钱给妈妈换手机却挨批",
@@ -875,12 +891,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346898,
-      "num": 346898,
-      "word": "京沪人均住户存款超过20万",
-      "onboard_time": 1676277407,
-      "rank": 46,
-      "category": "财经,社会新闻"
+      "raw_hot": 353538,
+      "num": 353538,
+      "word": "四川一快递车与面包车相撞致6死1伤",
+      "onboard_time": 1676279499,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 346101,
@@ -1019,12 +1035,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298064,
+      "num": 298064,
+      "word": "打工仔小张",
+      "onboard_time": 1676279861,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 293199,
       "num": 293199,
       "word": "SMTOWN官网出现黄旭熙背影照",
       "onboard_time": 1676245343,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291034,
+      "num": 291034,
+      "word": "全国多地现巨型玫瑰",
+      "onboard_time": 1676278718,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290590,
@@ -1073,6 +1105,14 @@
       "onboard_time": 1676215773,
       "rank": 20,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 272695,
+      "num": 272695,
+      "word": "女子车辆被强盛集团违停车挡住",
+      "onboard_time": 1676280402,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270349,
@@ -1131,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250116,
-      "num": 250116,
-      "word": "四川一快递车与面包车相撞致6死1伤",
-      "onboard_time": 1676279499,
-      "rank": 31,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 245701,
       "num": 245701,
       "word": "强震致土叙超3.3万人遇难",
@@ -1147,20 +1179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245640,
-      "num": 245640,
-      "word": "范闲这次要保护好梓荆啊",
-      "onboard_time": 1676279201,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 245553,
       "num": 245553,
       "word": "杨蓉新剧演反派",
       "onboard_time": 1676263535,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242573,
+      "num": 242573,
+      "word": "年轻人的恋爱观很特别",
+      "onboard_time": 1676278841,
+      "rank": 40,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 241864,
@@ -1211,12 +1243,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 234694,
-      "num": 234694,
-      "word": "全国多地现巨型玫瑰",
-      "onboard_time": 1676278718,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 234830,
+      "num": 234830,
+      "word": "代拍明星包月价6999元",
+      "onboard_time": 1676279020,
+      "rank": 36,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 232873,
@@ -1233,14 +1265,6 @@
       "onboard_time": 1676272549,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 228552,
-      "num": 228552,
-      "word": "代拍明星包月价6999元",
-      "onboard_time": 1676279020,
-      "rank": 36,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 226396,
@@ -1323,14 +1347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208515,
-      "num": 208515,
-      "word": "年轻人的恋爱观很特别",
-      "onboard_time": 1676278841,
-      "rank": 40,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 205005,
       "num": 205005,
       "word": "他们的种地技巧已经熟练得不像艺人了",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1676276205,
       "rank": 41,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 194417,
+      "num": 194417,
+      "word": "狗狗都有人撒娇你却没有",
+      "onboard_time": 1676280101,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 194287,
@@ -1475,12 +1499,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 175933,
+      "num": 175933,
+      "word": "万玛才旦黄轩新电影开机",
+      "onboard_time": 1676280161,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175497,
       "num": 175497,
       "word": "破产重组中为何纠纷频出",
       "onboard_time": 1676279382,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175051,
+      "num": 175051,
+      "word": "杨九郎确认大家都吃完才放下筷子",
+      "onboard_time": 1676280647,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 174617,
@@ -1531,6 +1571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169146,
+      "num": 169146,
+      "word": "这个叫只要在培养皿就会死菌",
+      "onboard_time": 1676280224,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169037,
       "num": 169037,
       "word": "泰坦尼克号重映票房",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1676250267,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160844,
+      "num": 160844,
+      "word": "姚薇帮安欣撕小三差点流产",
+      "onboard_time": 1676280701,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 160273,
@@ -1625,14 +1681,6 @@
       "onboard_time": 1676197111,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146402,
-      "num": 146402,
-      "word": "打工仔小张",
-      "onboard_time": 1676279861,
-      "rank": 49,
-      "category": "网红"
     },
     {
       "raw_hot": 143791,
