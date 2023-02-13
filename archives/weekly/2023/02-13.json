@@ -1,10 +1,10 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676256585663,
+  "endTime": 1676257183066,
   "band_list": [
     {
       "raw_hot": 2368653,
-      "num": 632663,
+      "num": 696537,
       "word": "已婚男子与人同居生下儿女被刑拘",
       "onboard_time": 1676249788,
       "rank": 10,
@@ -35,6 +35,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1445911,
+      "num": 1445911,
+      "word": "林志颖车祸后首次公开活动",
+      "onboard_time": 1676256265,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1214351,
       "num": 1214351,
       "word": "林孝埈庆祝动作",
@@ -51,6 +59,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1194841,
+      "num": 1194841,
+      "word": "狂飙",
+      "onboard_time": 1676251227,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1172241,
       "num": 1172241,
       "word": "五角大楼称F16战机又击落一空中物体",
@@ -65,6 +81,14 @@
       "onboard_time": 1676208814,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 956258,
+      "num": 956258,
+      "word": "杨蓉说这回为爱疯一回",
+      "onboard_time": 1676256087,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 900954,
@@ -131,19 +155,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 708275,
-      "num": 708275,
-      "word": "狂飙",
-      "onboard_time": 1676251227,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 695568,
-      "num": 617789,
-      "word": "林志颖车祸后首次公开活动",
-      "onboard_time": 1676256265,
-      "rank": 11,
+      "raw_hot": 707915,
+      "num": 707915,
+      "word": "网友P的张凌赫王楚然合照",
+      "onboard_time": 1676255486,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -161,14 +177,6 @@
       "onboard_time": 1676253926,
       "rank": 8,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 664554,
-      "num": 600199,
-      "word": "杨蓉说这回为爱疯一回",
-      "onboard_time": 1676256087,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 662382,
@@ -193,6 +201,14 @@
       "onboard_time": 1676215173,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 590605,
+      "num": 590605,
+      "word": "韩媒关注林孝埈连续夺冠",
+      "onboard_time": 1676255786,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 586777,
@@ -227,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 534334,
-      "num": 534334,
-      "word": "网友P的张凌赫王楚然合照",
-      "onboard_time": 1676255486,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 523061,
       "num": 523061,
       "word": "升降火锅",
@@ -257,6 +265,14 @@
       "onboard_time": 1676214035,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 463725,
+      "num": 463725,
+      "word": "电影这么多年官宣定档520",
+      "onboard_time": 1676256146,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 461022,
@@ -283,20 +299,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 411200,
+      "num": 411200,
+      "word": "几乎所有安卓品牌面临高库存风险",
+      "onboard_time": 1676255665,
+      "rank": 30,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 394561,
       "num": 294421,
       "word": "女子超然楼前背满江红时楼亮了",
       "onboard_time": 1676241494,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381211,
-      "num": 381211,
-      "word": "韩媒关注林孝埈连续夺冠",
-      "onboard_time": 1676255786,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 379562,
@@ -313,6 +329,14 @@
       "onboard_time": 1676247987,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 378183,
+      "num": 378183,
+      "word": "长期不吃早餐会降低大脑功能",
+      "onboard_time": 1676256327,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376469,
@@ -337,6 +361,14 @@
       "onboard_time": 1676250745,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362610,
+      "num": 362610,
+      "word": "护心滤镜",
+      "onboard_time": 1676255846,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 359399,
@@ -384,22 +416,6 @@
       "word": "刘敏涛身材",
       "onboard_time": 1676205031,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 330567,
-      "num": 330567,
-      "word": "护心滤镜",
-      "onboard_time": 1676255846,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 328667,
-      "num": 328667,
-      "word": "电影这么多年官宣定档520",
-      "onboard_time": 1676256146,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -451,12 +467,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 293349,
-      "num": 293349,
-      "word": "几乎所有安卓品牌面临高库存风险",
-      "onboard_time": 1676255665,
-      "rank": 30,
-      "category": "科技,财经"
+      "raw_hot": 302067,
+      "num": 302067,
+      "word": "夏花今日开播",
+      "onboard_time": 1676256927,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 301898,
+      "num": 301898,
+      "word": "电影龙与地下城定档0331",
+      "onboard_time": 1676256807,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 297642,
+      "num": 297642,
+      "word": "银行为何拒绝提前还房贷",
+      "onboard_time": 1676256388,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 293199,
@@ -563,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232873,
+      "num": 232873,
+      "word": "Rihanna 女企业家",
+      "onboard_time": 1676256448,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 226396,
       "num": 226396,
       "word": "人工智能",
@@ -635,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196148,
+      "num": 196148,
+      "word": "腾讯视频回应多设备登录被封号",
+      "onboard_time": 1676256987,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 194287,
       "num": 194287,
       "word": "微信回应头像褪色",
@@ -683,22 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179148,
-      "num": 179148,
-      "word": "Rihanna 女企业家",
-      "onboard_time": 1676256448,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 176881,
-      "num": 176881,
-      "word": "长期不吃早餐会降低大脑功能",
-      "onboard_time": 1676256327,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176633,
       "num": 176633,
       "word": "渤海",
@@ -713,14 +745,6 @@
       "onboard_time": 1676205333,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 172567,
-      "num": 172567,
-      "word": "银行为何拒绝提前还房贷",
-      "onboard_time": 1676256388,
-      "rank": 44,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 171158,
@@ -900,7 +924,7 @@
     },
     {
       "raw_hot": 105210,
-      "num": 1381908,
+      "num": 1468867,
       "word": "中国救援人员加油保重",
       "onboard_time": 1676206715,
       "rank": 2,

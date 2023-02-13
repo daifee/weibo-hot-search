@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676256585663,
+  "endTime": 1676257183066,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 2368653,
-      "num": 632663,
+      "num": 696537,
       "word": "已婚男子与人同居生下儿女被刑拘",
       "onboard_time": 1676249788,
       "rank": 10,
@@ -1947,6 +1947,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 1445911,
+      "num": 1445911,
+      "word": "林志颖车祸后首次公开活动",
+      "onboard_time": 1676256265,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1441443,
       "num": 1441443,
       "word": "胡鑫宇事件最新情况",
@@ -2665,6 +2673,14 @@
       "onboard_time": 1676251766,
       "rank": 12,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1194841,
+      "num": 1194841,
+      "word": "狂飙",
+      "onboard_time": 1675167215,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 1191725,
@@ -3880,6 +3896,14 @@
       "word": "刘敏涛身材",
       "onboard_time": 1676205031,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 956258,
+      "num": 956258,
+      "word": "杨蓉说这回为爱疯一回",
+      "onboard_time": 1676256087,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -6299,20 +6323,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 708275,
-      "num": 708275,
-      "word": "狂飙",
-      "onboard_time": 1675167215,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 708058,
       "num": 708058,
       "word": "三亚旅游发现拔白发服务一小时50元",
       "onboard_time": 1676128653,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 707915,
+      "num": 707915,
+      "word": "网友P的张凌赫王楚然合照",
+      "onboard_time": 1676255486,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 707723,
@@ -6505,14 +6529,6 @@
       "onboard_time": 1675742252,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 695568,
-      "num": 617789,
-      "word": "林志颖车祸后首次公开活动",
-      "onboard_time": 1676256265,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 695137,
@@ -6960,14 +6976,6 @@
       "word": "倪妮消失的她短发机车造型",
       "onboard_time": 1675666587,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 664554,
-      "num": 600199,
-      "word": "杨蓉说这回为爱疯一回",
-      "onboard_time": 1676256087,
-      "rank": 12,
       "category": "影视"
     },
     {
@@ -8073,6 +8081,14 @@
       "onboard_time": 1676125232,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 590605,
+      "num": 590605,
+      "word": "韩媒关注林孝埈连续夺冠",
+      "onboard_time": 1676255786,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 589620,
@@ -9193,14 +9209,6 @@
       "onboard_time": 1675502606,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 534334,
-      "num": 534334,
-      "word": "网友P的张凌赫王楚然合照",
-      "onboard_time": 1676255486,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 533775,
@@ -10619,6 +10627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463725,
+      "num": 463725,
+      "word": "电影这么多年官宣定档520",
+      "onboard_time": 1676256146,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 463718,
       "num": 463718,
       "word": "医院免去100元男子50年后还10万",
@@ -11955,6 +11971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411200,
+      "num": 411200,
+      "word": "几乎所有安卓品牌面临高库存风险",
+      "onboard_time": 1676255665,
+      "rank": 30,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 411160,
       "num": 411160,
       "word": "流浪地球2登顶单日票房榜",
@@ -12931,14 +12955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 381211,
-      "num": 381211,
-      "word": "韩媒关注林孝埈连续夺冠",
-      "onboard_time": 1676255786,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 380964,
       "num": 380964,
       "word": "权顺荣再上酒综",
@@ -13009,6 +13025,14 @@
       "onboard_time": 1675266390,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 378183,
+      "num": 378183,
+      "word": "长期不吃早餐会降低大脑功能",
+      "onboard_time": 1676256327,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377972,
@@ -13537,6 +13561,14 @@
       "onboard_time": 1676250745,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362610,
+      "num": 362610,
+      "word": "护心滤镜",
+      "onboard_time": 1676255846,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 361702,
@@ -14707,14 +14739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330567,
-      "num": 330567,
-      "word": "护心滤镜",
-      "onboard_time": 1676255846,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 329366,
       "num": 279777,
       "word": "如果倒退二十年会给高启强饺子吗",
@@ -14737,14 +14761,6 @@
       "onboard_time": 1676104587,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328667,
-      "num": 328667,
-      "word": "电影这么多年官宣定档520",
-      "onboard_time": 1676256146,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 328569,
@@ -15939,6 +15955,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302067,
+      "num": 302067,
+      "word": "夏花今日开播",
+      "onboard_time": 1676256927,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 301898,
+      "num": 301898,
+      "word": "电影龙与地下城定档0331",
+      "onboard_time": 1676256807,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301548,
       "num": 216105,
       "word": "杨幂白切黑变脸视频",
@@ -16081,6 +16113,14 @@
       "onboard_time": 1675737448,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297642,
+      "num": 297642,
+      "word": "银行为何拒绝提前还房贷",
+      "onboard_time": 1676256388,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 297591,
@@ -16329,14 +16369,6 @@
       "onboard_time": 1675843410,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 293349,
-      "num": 293349,
-      "word": "几乎所有安卓品牌面临高库存风险",
-      "onboard_time": 1676255665,
-      "rank": 30,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 293273,
@@ -19587,6 +19619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232873,
+      "num": 232873,
+      "word": "Rihanna 女企业家",
+      "onboard_time": 1676256448,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232784,
       "num": 232784,
       "word": "阿凡达2进入影史票房榜前三",
@@ -21843,6 +21883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196148,
+      "num": 196148,
+      "word": "腾讯视频回应多设备登录被封号",
+      "onboard_time": 1676256987,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 196136,
       "num": 196136,
       "word": "阿杜唱的坚持到底真是回忆杀了",
@@ -23467,14 +23515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179148,
-      "num": 179148,
-      "word": "Rihanna 女企业家",
-      "onboard_time": 1676256448,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 179138,
       "num": 179138,
       "word": "4岁警犬凭实力成国家首批功勋犬",
@@ -23617,14 +23657,6 @@
       "onboard_time": 1675520193,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176881,
-      "num": 176881,
-      "word": "长期不吃早餐会降低大脑功能",
-      "onboard_time": 1676256327,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176772,
@@ -23969,14 +24001,6 @@
       "onboard_time": 1675321468,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 172567,
-      "num": 172567,
-      "word": "银行为何拒绝提前还房贷",
-      "onboard_time": 1676256388,
-      "rank": 44,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 172486,
