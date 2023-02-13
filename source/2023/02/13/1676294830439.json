@@ -1,0 +1,410 @@
+{
+  "runTime": 1676294830439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3663931,
+        "num": 3663931,
+        "word": "俄亥俄",
+        "onboard_time": 1676284121,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1825668,
+        "num": 1825668,
+        "word": "姐弟坠亡案父亲连写三封信求原谅",
+        "onboard_time": 1676287079,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169968,
+        "num": 1368180,
+        "word": "中国救援队已营救多名被困者",
+        "onboard_time": 1676290379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1317239,
+        "num": 1317239,
+        "word": "韩媒称日本或将发生9.1级地震",
+        "onboard_time": 1676288447,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1304325,
+        "num": 1304325,
+        "word": "高启强给干爹的陈皮到底有多贵",
+        "onboard_time": 1676287139,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1071931,
+        "num": 1071931,
+        "word": "张萌 演员到底需不需要有文化",
+        "onboard_time": 1676293723,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675036,
+        "num": 675036,
+        "word": "央视网谈绝望的文盲",
+        "onboard_time": 1676263957,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 605432,
+        "num": 605432,
+        "word": "相亲后发现自己妥协不了",
+        "onboard_time": 1676285986,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 586524,
+        "num": 586524,
+        "word": "涉毒演员含笑公司已被吊销",
+        "onboard_time": 1676289707,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 469515,
+        "num": 469515,
+        "word": "女子注射6针玻尿酸致残",
+        "onboard_time": 1676278718,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439606,
+        "num": 439606,
+        "word": "张彬彬吴倩新剧三分野剧照",
+        "onboard_time": 1676293301,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392971,
+        "num": 392971,
+        "word": "德云社演出",
+        "onboard_time": 1676293419,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378072,
+        "num": 378072,
+        "word": "徐明浩锁骨部位骨折",
+        "onboard_time": 1676272968,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362175,
+        "num": 362175,
+        "word": "情人节单身的有福了",
+        "onboard_time": 1676277220,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 359549,
+        "num": 359549,
+        "word": "梦中的那片海 备播",
+        "onboard_time": 1676279321,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350702,
+        "num": 350702,
+        "word": "三分野",
+        "onboard_time": 1676289707,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341182,
+        "num": 341182,
+        "word": "追狂飙追到饼都快炸了",
+        "onboard_time": 1676289526,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331147,
+        "num": 331147,
+        "word": "张颂文曾指导王一博演至尊宝",
+        "onboard_time": 1676281478,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321259,
+        "num": 321259,
+        "word": "Doinb爆料FPX寄了",
+        "onboard_time": 1676285321,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 318581,
+        "num": 318581,
+        "word": "嘎子哥回应1999元手机1880元能买到",
+        "onboard_time": 1676277105,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373343,
+        "num": 301151,
+        "word": "男子在高铁站当女儿面掐脖打老婆",
+        "onboard_time": 1676287667,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277932,
+        "num": 277932,
+        "word": "男子骑电瓶车载巨大玫瑰",
+        "onboard_time": 1676288686,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266959,
+        "num": 266959,
+        "word": "美驻俄大使馆呼吁在俄公民立即撤离",
+        "onboard_time": 1676283220,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 250819,
+        "num": 250819,
+        "word": "爱情而已 Q1",
+        "onboard_time": 1676290784,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249014,
+        "num": 249014,
+        "word": "陕西发现3千多年前大型聚落遗址",
+        "onboard_time": 1676294260,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244906,
+        "num": 244906,
+        "word": "2023年中央一号文件",
+        "onboard_time": 1676281182,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 240270,
+        "num": 240270,
+        "word": "氯乙烯泄漏的危害",
+        "onboard_time": 1676290684,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 238692,
+        "num": 238692,
+        "word": "贷款人离世后剩下房贷该如何处理",
+        "onboard_time": 1676272549,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 223844,
+        "num": 223844,
+        "word": "警方通报东莞持刀伤人案",
+        "onboard_time": 1676290784,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 210358,
+        "num": 210358,
+        "word": "新郎带好友垦荒布置浪漫乡村婚礼",
+        "onboard_time": 1676292461,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 368318,
+        "num": 209989,
+        "word": "马龙丁宁副高级职称公示",
+        "onboard_time": 1676294260,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209500,
+        "num": 209500,
+        "word": "昺 让世界认识这个字",
+        "onboard_time": 1676270873,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205412,
+        "num": 205412,
+        "word": "刘宪华小提琴演奏我心永恒",
+        "onboard_time": 1676290965,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203527,
+        "num": 203527,
+        "word": "言承旭在刘畊宏直播间跳完发烧了",
+        "onboard_time": 1676290784,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191986,
+        "num": 191986,
+        "word": "崔杋圭想和Keria一起打排位",
+        "onboard_time": 1676289959,
+        "rank": 34,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 188851,
+        "num": 188851,
+        "word": "林孝埈说我们是支团结的队伍",
+        "onboard_time": 1676284897,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182072,
+        "num": 182072,
+        "word": "美方高空气球10余次非法飞越中国",
+        "onboard_time": 1676278902,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 180322,
+        "num": 180322,
+        "word": "处女座的单身都是主动选择",
+        "onboard_time": 1676274042,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177646,
+        "num": 177646,
+        "word": "满江红成中国影史票房榜第7名",
+        "onboard_time": 1676281478,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176146,
+        "num": 176146,
+        "word": "女子车辆被强盛集团违停车挡住",
+        "onboard_time": 1676280402,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173666,
+        "num": 173666,
+        "word": "北京疾控公布最新检测阳性率",
+        "onboard_time": 1676275604,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172728,
+        "num": 172728,
+        "word": "第一次看到有人这样洗袜子",
+        "onboard_time": 1676281240,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169627,
+        "num": 169627,
+        "word": "曝梅西6月来中国比赛",
+        "onboard_time": 1676281058,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165067,
+        "num": 165067,
+        "word": "如何才能提高生育意愿",
+        "onboard_time": 1676286283,
+        "rank": 43,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 152205,
+        "num": 152205,
+        "word": "言承旭说从此刻开始我就是萧寒",
+        "onboard_time": 1676291266,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150886,
+        "num": 150886,
+        "word": "宁至谦他急了",
+        "onboard_time": 1676294562,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147301,
+        "num": 147301,
+        "word": "河南补贴6100元招募捐精志愿者",
+        "onboard_time": 1676294677,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139068,
+        "num": 139068,
+        "word": "宋威龙 其实张屏是我",
+        "onboard_time": 1676283699,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130072,
+        "num": 130072,
+        "word": "张艺兴cypher预告",
+        "onboard_time": 1676283521,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123753,
+        "num": 123753,
+        "word": "民族文化对服饰有哪些影响",
+        "onboard_time": 1676294803,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}
