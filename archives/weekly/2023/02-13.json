@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676330378850,
+  "endTime": 1676331237910,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -859,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530001,
+      "num": 530001,
+      "word": "婚房烂尾10年业主住进毛坯房",
+      "onboard_time": 1676313735,
+      "rank": 12,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 523061,
       "num": 523061,
       "word": "升降火锅",
@@ -1091,14 +1099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 432684,
-      "num": 432684,
-      "word": "婚房烂尾10年业主住进毛坯房",
-      "onboard_time": 1676313735,
-      "rank": 12,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 431072,
       "num": 431072,
       "word": "护心",
@@ -1161,6 +1161,14 @@
       "onboard_time": 1676281240,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 407655,
+      "num": 407655,
+      "word": "57岁小学保安穿旗袍走秀气质惊艳",
+      "onboard_time": 1676324892,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 407615,
@@ -1227,6 +1235,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 386120,
+      "num": 386120,
+      "word": "老人喝隔夜牛肉汤住进ICU",
+      "onboard_time": 1676318952,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384362,
       "num": 384362,
       "word": "云南大理苍山披云被太美了",
@@ -1267,12 +1283,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 370996,
-      "num": 370996,
-      "word": "57岁小学保安穿旗袍走秀气质惊艳",
-      "onboard_time": 1676324892,
-      "rank": 11,
-      "category": "社会新闻,教育"
+      "raw_hot": 370703,
+      "num": 370703,
+      "word": "情人节文案",
+      "onboard_time": 1676330002,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 370185,
@@ -1385,14 +1401,6 @@
       "onboard_time": 1676289526,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 339134,
-      "num": 339134,
-      "word": "老人喝隔夜牛肉汤住进ICU",
-      "onboard_time": 1676318952,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 337026,
@@ -1947,6 +1955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224820,
+      "num": 224820,
+      "word": "郭帆回应外国观众不理解怎么办",
+      "onboard_time": 1676330541,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224360,
       "num": 224360,
       "word": "Doggo泽丽五杀",
@@ -2113,6 +2129,14 @@
       "onboard_time": 1676267819,
       "rank": 34,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 193293,
+      "num": 193293,
+      "word": "成都最隐秘的鬼市",
+      "onboard_time": 1676311457,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 193212,
@@ -2347,14 +2371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162123,
-      "num": 162123,
-      "word": "情人节文案",
-      "onboard_time": 1676330002,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161909,
       "num": 161909,
       "word": "吴易昺颁奖典礼中文致谢",
@@ -2395,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154892,
+      "num": 154892,
+      "word": "情人节快乐",
+      "onboard_time": 1676330061,
+      "rank": 38,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 153720,
       "num": 153720,
       "word": "狂飙的配角",
@@ -2425,14 +2449,6 @@
       "onboard_time": 1676222598,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150323,
-      "num": 150323,
-      "word": "成都最隐秘的鬼市",
-      "onboard_time": 1676311457,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 147668,
@@ -2523,6 +2539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120146,
+      "num": 120146,
+      "word": "土耳其地震已致该国29605人死亡",
+      "onboard_time": 1676311037,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117938,
       "num": 117938,
       "word": "利兹联vs曼联",
@@ -2547,12 +2571,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 111061,
-      "num": 111061,
-      "word": "土耳其地震已致该国29605人死亡",
-      "onboard_time": 1676311037,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 113434,
+      "num": 113434,
+      "word": "六公主赞显微镜下的大明",
+      "onboard_time": 1676331143,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 107891,
@@ -2577,6 +2601,14 @@
       "onboard_time": 1676206715,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 103855,
+      "num": 103855,
+      "word": "你会给自己送花吗",
+      "onboard_time": 1676329458,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 102848,
@@ -2627,14 +2659,6 @@
       "category": "幽默,旅游"
     },
     {
-      "raw_hot": 79596,
-      "num": 79596,
-      "word": "情人节快乐",
-      "onboard_time": 1676330061,
-      "rank": 38,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 68609,
       "num": 68609,
       "word": "关晓彤马甲线",
@@ -2649,14 +2673,6 @@
       "onboard_time": 1676243358,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 65928,
-      "num": 65928,
-      "word": "你会给自己送花吗",
-      "onboard_time": 1676329458,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 60566,

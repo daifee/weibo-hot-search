@@ -1,6 +1,6 @@
 {
   "startTime": 1676305608565,
-  "endTime": 1676330378850,
+  "endTime": 1676331237910,
   "band_list": [
     {
       "raw_hot": 1854692,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530001,
+      "num": 530001,
+      "word": "婚房烂尾10年业主住进毛坯房",
+      "onboard_time": 1676313735,
+      "rank": 12,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 492720,
       "num": 492720,
       "word": "原来电影票可以这样退",
@@ -99,20 +107,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 432684,
-      "num": 432684,
-      "word": "婚房烂尾10年业主住进毛坯房",
-      "onboard_time": 1676313735,
-      "rank": 12,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 410238,
       "num": 410238,
       "word": "常州某小学启用作业九点熔断机制",
       "onboard_time": 1676299362,
       "rank": 13,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 407655,
+      "num": 407655,
+      "word": "57岁小学保安穿旗袍走秀气质惊艳",
+      "onboard_time": 1676324892,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 394369,
@@ -131,6 +139,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 386120,
+      "num": 386120,
+      "word": "老人喝隔夜牛肉汤住进ICU",
+      "onboard_time": 1676318952,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379617,
       "num": 379617,
       "word": "韩媒称日本或将发生9.1级地震",
@@ -139,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370996,
-      "num": 370996,
-      "word": "57岁小学保安穿旗袍走秀气质惊艳",
-      "onboard_time": 1676324892,
-      "rank": 11,
-      "category": "社会新闻,教育"
+      "raw_hot": 370703,
+      "num": 370703,
+      "word": "情人节文案",
+      "onboard_time": 1676330002,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 345816,
@@ -153,14 +169,6 @@
       "onboard_time": 1676299182,
       "rank": 17,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 339134,
-      "num": 339134,
-      "word": "老人喝隔夜牛肉汤住进ICU",
-      "onboard_time": 1676318952,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300009,
@@ -203,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259620,
+      "num": 259620,
+      "word": "涉毒演员含笑公司已被吊销",
+      "onboard_time": 1676289707,
+      "rank": 36,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 258198,
       "num": 258198,
       "word": "小老虎凌晨站床边求贴贴",
@@ -219,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235189,
+      "num": 235189,
+      "word": "卡德罗夫说只要普京下令我们愿意开赴美国",
+      "onboard_time": 1676298718,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 231631,
       "num": 231631,
       "word": "男子为防猫咪给沙发焊上铁罩衣",
@@ -227,20 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227951,
-      "num": 227951,
-      "word": "卡德罗夫说只要普京下令我们愿意开赴美国",
-      "onboard_time": 1676298718,
-      "rank": 26,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 225938,
-      "num": 225938,
-      "word": "涉毒演员含笑公司已被吊销",
-      "onboard_time": 1676289707,
-      "rank": 36,
-      "category": "社会新闻,艺人"
+      "raw_hot": 224820,
+      "num": 224820,
+      "word": "郭帆回应外国观众不理解怎么办",
+      "onboard_time": 1676330541,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 223292,
@@ -251,19 +267,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216045,
+      "num": 216045,
+      "word": "官方回应城管收走孩子写作业桌子",
+      "onboard_time": 1676295953,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210340,
       "num": 210340,
       "word": "男孩与家人走散7天无人认领",
       "onboard_time": 1676299904,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199570,
-      "num": 199570,
-      "word": "官方回应城管收走孩子写作业桌子",
-      "onboard_time": 1676295953,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -273,6 +289,14 @@
       "onboard_time": 1676277220,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193293,
+      "num": 193293,
+      "word": "成都最隐秘的鬼市",
+      "onboard_time": 1676311457,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 193148,
@@ -299,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162123,
-      "num": 162123,
-      "word": "情人节文案",
-      "onboard_time": 1676330002,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159588,
       "num": 159588,
       "word": "河南补贴6100元招募捐精志愿者",
@@ -323,12 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150323,
-      "num": 150323,
-      "word": "成都最隐秘的鬼市",
-      "onboard_time": 1676311457,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 154892,
+      "num": 154892,
+      "word": "情人节快乐",
+      "onboard_time": 1676330061,
+      "rank": 38,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 146416,
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120146,
+      "num": 120146,
+      "word": "土耳其地震已致该国29605人死亡",
+      "onboard_time": 1676311037,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119844,
       "num": 119844,
       "word": "张颂文曾指导王一博演至尊宝",
@@ -403,12 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111061,
-      "num": 111061,
-      "word": "土耳其地震已致该国29605人死亡",
-      "onboard_time": 1676311037,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 113434,
+      "num": 113434,
+      "word": "六公主赞显微镜下的大明",
+      "onboard_time": 1676331143,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 110927,
@@ -427,12 +451,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107920,
+      "num": 107920,
+      "word": "追狂飙追到饼都快炸了",
+      "onboard_time": 1676289526,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 105787,
       "num": 105787,
       "word": "黄奕演妈妈",
       "onboard_time": 1676297744,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 103855,
+      "num": 103855,
+      "word": "你会给自己送花吗",
+      "onboard_time": 1676329458,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 102656,
@@ -451,28 +491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100804,
-      "num": 100804,
-      "word": "追狂飙追到饼都快炸了",
-      "onboard_time": 1676289526,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 96950,
-      "num": 96950,
+      "raw_hot": 99403,
+      "num": 99403,
       "word": "2023年中央一号文件",
       "onboard_time": 1676281182,
       "rank": 45,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 79596,
-      "num": 79596,
-      "word": "情人节快乐",
-      "onboard_time": 1676330061,
-      "rank": 38,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 67285,
@@ -481,14 +505,6 @@
       "onboard_time": 1676290379,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65928,
-      "num": 65928,
-      "word": "你会给自己送花吗",
-      "onboard_time": 1676329458,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 26532,

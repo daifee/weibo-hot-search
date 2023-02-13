@@ -1,0 +1,410 @@
+{
+  "runTime": 1676331237910,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1478931,
+        "num": 1478931,
+        "word": "俄亥俄",
+        "onboard_time": 1676284121,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791084,
+        "num": 791084,
+        "word": "睡觉早更好还是睡觉晚更好",
+        "onboard_time": 1676304212,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57510,
+        "num": 765409,
+        "word": "中国救援队已营救多名被困者",
+        "onboard_time": 1676290379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753725,
+        "num": 753725,
+        "word": "211女生毕业5年存款仅5千",
+        "onboard_time": 1676296014,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 709465,
+        "num": 709465,
+        "word": "孕妇如厕时生产婴儿被卡蹲便器",
+        "onboard_time": 1676303914,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536982,
+        "num": 536982,
+        "word": "广东诺如病毒进入高发期",
+        "onboard_time": 1676302956,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530001,
+        "num": 530001,
+        "word": "婚房烂尾10年业主住进毛坯房",
+        "onboard_time": 1676313735,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 514166,
+        "num": 514166,
+        "word": "高启强给干爹的陈皮到底有多贵",
+        "onboard_time": 1676287139,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407655,
+        "num": 407655,
+        "word": "57岁小学保安穿旗袍走秀气质惊艳",
+        "onboard_time": 1676324892,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 386120,
+        "num": 386120,
+        "word": "老人喝隔夜牛肉汤住进ICU",
+        "onboard_time": 1676318952,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435067,
+        "num": 378597,
+        "word": "张萌 演员到底需不需要有文化",
+        "onboard_time": 1676293723,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370703,
+        "num": 370703,
+        "word": "情人节文案",
+        "onboard_time": 1676330002,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310175,
+        "num": 310175,
+        "word": "常州某小学启用作业九点熔断机制",
+        "onboard_time": 1676299362,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 296213,
+        "num": 296213,
+        "word": "Cat女朋友",
+        "onboard_time": 1676300080,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260236,
+        "num": 260236,
+        "word": "超20%大学生认为毕业后月薪能过万",
+        "onboard_time": 1676300638,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 259620,
+        "num": 259620,
+        "word": "涉毒演员含笑公司已被吊销",
+        "onboard_time": 1676289707,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 244568,
+        "num": 244568,
+        "word": "安欣杭州分欣",
+        "onboard_time": 1676302534,
+        "rank": 16,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 235189,
+        "num": 235189,
+        "word": "卡德罗夫说只要普京下令我们愿意开赴美国",
+        "onboard_time": 1676298718,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 225998,
+        "num": 225998,
+        "word": "美记者在俄亥俄州事件新闻发布会被捕",
+        "onboard_time": 1676301341,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 224820,
+        "num": 224820,
+        "word": "郭帆回应外国观众不理解怎么办",
+        "onboard_time": 1676330541,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218749,
+        "num": 218749,
+        "word": "姐弟坠亡案父亲连写三封信求原谅",
+        "onboard_time": 1676287079,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216045,
+        "num": 216045,
+        "word": "官方回应城管收走孩子写作业桌子",
+        "onboard_time": 1676295953,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197706,
+        "num": 197706,
+        "word": "小老虎凌晨站床边求贴贴",
+        "onboard_time": 1676295340,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196958,
+        "num": 196958,
+        "word": "原来电影票可以这样退",
+        "onboard_time": 1676301698,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193293,
+        "num": 193293,
+        "word": "成都最隐秘的鬼市",
+        "onboard_time": 1676311457,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159111,
+        "num": 159111,
+        "word": "男子为防猫咪给沙发焊上铁罩衣",
+        "onboard_time": 1676300142,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157728,
+        "num": 157728,
+        "word": "韩媒称日本或将发生9.1级地震",
+        "onboard_time": 1676288447,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155549,
+        "num": 155549,
+        "word": "相亲后发现自己妥协不了",
+        "onboard_time": 1676285986,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154892,
+        "num": 154892,
+        "word": "情人节快乐",
+        "onboard_time": 1676330061,
+        "rank": 28,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 125270,
+        "num": 125270,
+        "word": "乌称俄罗斯计划夺取摩尔多瓦",
+        "onboard_time": 1676300142,
+        "rank": 29,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 124376,
+        "num": 124376,
+        "word": "男孩与家人走散7天无人认领",
+        "onboard_time": 1676299904,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120146,
+        "num": 120146,
+        "word": "土耳其地震已致该国29605人死亡",
+        "onboard_time": 1676311037,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113434,
+        "num": 113434,
+        "word": "六公主赞显微镜下的大明",
+        "onboard_time": 1676331143,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110385,
+        "num": 110385,
+        "word": "德云社演出",
+        "onboard_time": 1676293419,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109148,
+        "num": 109148,
+        "word": "中国男篮大胜同曦男篮",
+        "onboard_time": 1676303732,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107920,
+        "num": 107920,
+        "word": "追狂飙追到饼都快炸了",
+        "onboard_time": 1676289526,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103855,
+        "num": 103855,
+        "word": "你会给自己送花吗",
+        "onboard_time": 1676329458,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103666,
+        "num": 103666,
+        "word": "陕西发现3千多年前大型聚落遗址",
+        "onboard_time": 1676294260,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99471,
+        "num": 99471,
+        "word": "言承旭在刘畊宏直播间跳完发烧了",
+        "onboard_time": 1676290784,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99403,
+        "num": 99403,
+        "word": "2023年中央一号文件",
+        "onboard_time": 1676281182,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 99317,
+        "num": 99317,
+        "word": "刘耀文严浩翔三亚同框路透",
+        "onboard_time": 1676297020,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91868,
+        "num": 91868,
+        "word": "央视网谈绝望的文盲",
+        "onboard_time": 1676263957,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84685,
+        "num": 84685,
+        "word": "吴刚 没鼻梁的人有福了",
+        "onboard_time": 1676297142,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82978,
+        "num": 82978,
+        "word": "SMTOWN艺人回归计划或将推迟",
+        "onboard_time": 1676298521,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74837,
+        "num": 74837,
+        "word": "张彬彬吴倩新剧三分野剧照",
+        "onboard_time": 1676293301,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73224,
+        "num": 73224,
+        "word": "狂飙里谁是你的意难平",
+        "onboard_time": 1676297681,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68450,
+        "num": 68450,
+        "word": "张颂文曾指导王一博演至尊宝",
+        "onboard_time": 1676281478,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67104,
+        "num": 67104,
+        "word": "美国一载有毒化学品火车爆炸",
+        "onboard_time": 1676299182,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 66299,
+        "num": 66299,
+        "word": "河南补贴6100元招募捐精志愿者",
+        "onboard_time": 1676294677,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62140,
+        "num": 62140,
+        "word": "Doinb爆料FPX寄了",
+        "onboard_time": 1676285321,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}
