@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676316826741,
+  "endTime": 1676319648827,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -28908,7 +28908,7 @@
     },
     {
       "raw_hot": 113105,
-      "num": 75114,
+      "num": 92793,
       "word": "婚房烂尾10年业主住进毛坯房",
       "onboard_time": 1676313735,
       "rank": 12,
@@ -30123,6 +30123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33733,
+      "num": 33733,
+      "word": "老人喝隔夜牛肉汤住进ICU",
+      "onboard_time": 1676318952,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32361,
       "num": 1158598,
       "word": "向着新目标奋楫再出发",
@@ -30259,20 +30267,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 18647,
+      "num": 18647,
+      "word": "向涵之滑雪plog",
+      "onboard_time": 1676316553,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16380,
       "num": 16380,
       "word": "五世同堂排排坐接龙喊妈妈",
       "onboard_time": 1675190774,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16037,
-      "num": 17782,
-      "word": "向涵之滑雪plog",
-      "onboard_time": 1676316553,
-      "rank": 49,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
