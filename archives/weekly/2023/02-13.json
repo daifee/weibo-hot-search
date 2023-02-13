@@ -1,10 +1,10 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676257183066,
+  "endTime": 1676258686318,
   "band_list": [
     {
       "raw_hot": 2368653,
-      "num": 696537,
+      "num": 758588,
       "word": "已婚男子与人同居生下儿女被刑拘",
       "onboard_time": 1676249788,
       "rank": 10,
@@ -35,12 +35,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 1445911,
-      "num": 1445911,
+      "raw_hot": 1844065,
+      "num": 1844065,
       "word": "林志颖车祸后首次公开活动",
       "onboard_time": 1676256265,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1246072,
+      "num": 1246072,
+      "word": "狂飙",
+      "onboard_time": 1676251227,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 1214351,
@@ -57,14 +65,6 @@
       "onboard_time": 1676251766,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1194841,
-      "num": 1194841,
-      "word": "狂飙",
-      "onboard_time": 1676251227,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 1172241,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 824665,
+      "num": 824665,
+      "word": "长期不吃早餐会降低大脑功能",
+      "onboard_time": 1676256327,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 820388,
       "num": 482269,
       "word": "女子酒店健身房洗澡有陌生男子闯入",
@@ -137,6 +145,22 @@
       "onboard_time": 1676211997,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 758882,
+      "num": 758882,
+      "word": "腾讯视频回应多设备登录被封号",
+      "onboard_time": 1676256987,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 749563,
+      "num": 749563,
+      "word": "韩媒关注林孝埈连续夺冠",
+      "onboard_time": 1676255786,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 743914,
@@ -203,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 590605,
-      "num": 590605,
-      "word": "韩媒关注林孝埈连续夺冠",
-      "onboard_time": 1676255786,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 586777,
       "num": 586777,
       "word": "李培楠夺冠",
@@ -267,6 +283,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 476574,
+      "num": 459815,
+      "word": "蕾哈娜中场秀表演",
+      "onboard_time": 1676254888,
+      "rank": 21,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 464999,
+      "num": 464999,
+      "word": "果然男演员都逃不过女装",
+      "onboard_time": 1676257287,
+      "rank": 17,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 463725,
       "num": 463725,
       "word": "电影这么多年官宣定档520",
@@ -283,12 +315,36 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 452804,
+      "num": 452804,
+      "word": "衢州交警发文被指疑似性别歧视",
+      "onboard_time": 1676257767,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433147,
+      "num": 433147,
+      "word": "王俊凯白色镂空毛衣造型",
+      "onboard_time": 1676258487,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 431072,
       "num": 431072,
       "word": "护心",
       "onboard_time": 1676255426,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 417430,
+      "num": 417430,
+      "word": "银行为何拒绝提前还房贷",
+      "onboard_time": 1676256388,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 413788,
@@ -331,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378183,
-      "num": 378183,
-      "word": "长期不吃早餐会降低大脑功能",
-      "onboard_time": 1676256327,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376469,
       "num": 376469,
       "word": "小狗其实什么都知道",
@@ -347,12 +395,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 369849,
-      "num": 369849,
-      "word": "蕾哈娜中场秀表演",
-      "onboard_time": 1676254888,
-      "rank": 21,
-      "category": "体育,艺人"
+      "raw_hot": 370185,
+      "num": 370185,
+      "word": "夏花今日开播",
+      "onboard_time": 1676256927,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 363400,
@@ -419,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327480,
+      "num": 327480,
+      "word": "diamonds",
+      "onboard_time": 1676257948,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 326411,
       "num": 326411,
       "word": "一次性拖鞋是这样穿的吗",
@@ -467,28 +523,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302067,
-      "num": 302067,
-      "word": "夏花今日开播",
-      "onboard_time": 1676256927,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 301898,
       "num": 301898,
       "word": "电影龙与地下城定档0331",
       "onboard_time": 1676256807,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 297642,
-      "num": 297642,
-      "word": "银行为何拒绝提前还房贷",
-      "onboard_time": 1676256388,
-      "rank": 44,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 293199,
@@ -659,6 +699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214610,
+      "num": 214610,
+      "word": "银河护卫队3新预告",
+      "onboard_time": 1676257287,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212064,
       "num": 212064,
       "word": "高启盛走路",
@@ -673,14 +721,6 @@
       "onboard_time": 1676204133,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196148,
-      "num": 196148,
-      "word": "腾讯视频回应多设备登录被封号",
-      "onboard_time": 1676256987,
-      "rank": 40,
-      "category": "科技"
     },
     {
       "raw_hot": 194287,
@@ -705,6 +745,14 @@
       "onboard_time": 1676217388,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184845,
+      "num": 184845,
+      "word": "男子后备箱里为流浪猫搭窝御寒",
+      "onboard_time": 1676257647,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184569,
@@ -745,6 +793,14 @@
       "onboard_time": 1676205333,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172784,
+      "num": 172784,
+      "word": "苹果任命首位首席人事官",
+      "onboard_time": 1676258487,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 171158,
@@ -804,7 +860,7 @@
     },
     {
       "raw_hot": 153951,
-      "num": 153951,
+      "num": 1246188,
       "word": "开学第一天",
       "onboard_time": 1676249247,
       "rank": 41,
