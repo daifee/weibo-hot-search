@@ -1,0 +1,410 @@
+{
+  "runTime": 1676327735223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 535711,
+        "num": 535711,
+        "word": "俄亥俄",
+        "onboard_time": 1676284121,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249149,
+        "num": 249149,
+        "word": "睡觉早更好还是睡觉晚更好",
+        "onboard_time": 1676304212,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18106,
+        "num": 206459,
+        "word": "中国救援队已营救多名被困者",
+        "onboard_time": 1676290379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279098,
+        "num": 205387,
+        "word": "孕妇如厕时生产婴儿被卡蹲便器",
+        "onboard_time": 1676303914,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200779,
+        "num": 200779,
+        "word": "广东诺如病毒进入高发期",
+        "onboard_time": 1676302956,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189292,
+        "num": 189292,
+        "word": "211女生毕业5年存款仅5千",
+        "onboard_time": 1676296014,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 179585,
+        "num": 179585,
+        "word": "老人喝隔夜牛肉汤住进ICU",
+        "onboard_time": 1676318952,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161617,
+        "num": 161617,
+        "word": "高启强给干爹的陈皮到底有多贵",
+        "onboard_time": 1676287139,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131020,
+        "num": 131020,
+        "word": "婚房烂尾10年业主住进毛坯房",
+        "onboard_time": 1676313735,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 108752,
+        "num": 108752,
+        "word": "美记者在俄亥俄州事件新闻发布会被捕",
+        "onboard_time": 1676301341,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 147899,
+        "num": 108276,
+        "word": "57岁小学保安穿旗袍走秀气质惊艳",
+        "onboard_time": 1676324892,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 147101,
+        "num": 107854,
+        "word": "张萌 演员到底需不需要有文化",
+        "onboard_time": 1676293723,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97844,
+        "num": 97844,
+        "word": "常州某小学启用作业九点熔断机制",
+        "onboard_time": 1676299362,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 93142,
+        "num": 93142,
+        "word": "官方回应城管收走孩子写作业桌子",
+        "onboard_time": 1676295953,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89824,
+        "num": 89824,
+        "word": "超20%大学生认为毕业后月薪能过万",
+        "onboard_time": 1676300638,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 87190,
+        "num": 87190,
+        "word": "Cat女朋友",
+        "onboard_time": 1676300080,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83287,
+        "num": 83287,
+        "word": "卡德罗夫说只要普京下令我们愿意开赴美国",
+        "onboard_time": 1676298718,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 82998,
+        "num": 82998,
+        "word": "涉毒演员含笑公司已被吊销",
+        "onboard_time": 1676289707,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 80062,
+        "num": 80062,
+        "word": "安欣杭州分欣",
+        "onboard_time": 1676302534,
+        "rank": 18,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 77654,
+        "num": 77654,
+        "word": "姐弟坠亡案父亲连写三封信求原谅",
+        "onboard_time": 1676287079,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71825,
+        "num": 71825,
+        "word": "小老虎凌晨站床边求贴贴",
+        "onboard_time": 1676295340,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64950,
+        "num": 64950,
+        "word": "韩媒称日本或将发生9.1级地震",
+        "onboard_time": 1676288447,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64335,
+        "num": 64335,
+        "word": "成都最隐秘的鬼市",
+        "onboard_time": 1676311457,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61567,
+        "num": 61567,
+        "word": "原来电影票可以这样退",
+        "onboard_time": 1676301698,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56678,
+        "num": 56678,
+        "word": "言承旭在刘畊宏直播间跳完发烧了",
+        "onboard_time": 1676290784,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53739,
+        "num": 53739,
+        "word": "相亲后发现自己妥协不了",
+        "onboard_time": 1676285986,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50810,
+        "num": 50810,
+        "word": "土耳其地震已致该国29605人死亡",
+        "onboard_time": 1676311037,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49310,
+        "num": 49310,
+        "word": "男子为防猫咪给沙发焊上铁罩衣",
+        "onboard_time": 1676300142,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49027,
+        "num": 49027,
+        "word": "乌称俄罗斯计划夺取摩尔多瓦",
+        "onboard_time": 1676300142,
+        "rank": 28,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 47303,
+        "num": 47303,
+        "word": "男孩与家人走散7天无人认领",
+        "onboard_time": 1676299904,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47017,
+        "num": 47017,
+        "word": "刘耀文严浩翔三亚同框路透",
+        "onboard_time": 1676297020,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46027,
+        "num": 46027,
+        "word": "德云社演出",
+        "onboard_time": 1676293419,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45908,
+        "num": 45908,
+        "word": "中国男篮大胜同曦男篮",
+        "onboard_time": 1676303732,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42666,
+        "num": 42666,
+        "word": "2023年中央一号文件",
+        "onboard_time": 1676281182,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 39133,
+        "num": 39133,
+        "word": "追狂飙追到饼都快炸了",
+        "onboard_time": 1676289526,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38371,
+        "num": 38371,
+        "word": "陕西发现3千多年前大型聚落遗址",
+        "onboard_time": 1676294260,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36538,
+        "num": 36538,
+        "word": "央视网谈绝望的文盲",
+        "onboard_time": 1676263957,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32836,
+        "num": 32836,
+        "word": "男子在高铁站当女儿面掐脖打老婆",
+        "onboard_time": 1676287667,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31204,
+        "num": 31204,
+        "word": "张彬彬吴倩新剧三分野剧照",
+        "onboard_time": 1676293301,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30814,
+        "num": 30814,
+        "word": "美国一载有毒化学品火车爆炸",
+        "onboard_time": 1676299182,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 29796,
+        "num": 29796,
+        "word": "吴刚 没鼻梁的人有福了",
+        "onboard_time": 1676297142,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29672,
+        "num": 29672,
+        "word": "济南铁骑讲述狂飙护送伤者背后",
+        "onboard_time": 1676304989,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29540,
+        "num": 29540,
+        "word": "张颂文曾指导王一博演至尊宝",
+        "onboard_time": 1676281478,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29454,
+        "num": 29454,
+        "word": "SMTOWN艺人回归计划或将推迟",
+        "onboard_time": 1676298521,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26532,
+        "num": 26532,
+        "word": "哎呀好身材",
+        "onboard_time": 1676326876,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25078,
+        "num": 25078,
+        "word": "河南补贴6100元招募捐精志愿者",
+        "onboard_time": 1676294677,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23923,
+        "num": 23923,
+        "word": "狂飙里谁是你的意难平",
+        "onboard_time": 1676297681,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22571,
+        "num": 22571,
+        "word": "警方通报东莞持刀伤人案",
+        "onboard_time": 1676290784,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 21557,
+        "num": 21557,
+        "word": "Doinb爆料FPX寄了",
+        "onboard_time": 1676285321,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20077,
+        "num": 20077,
+        "word": "蔡徐坤V领黑色西装造型",
+        "onboard_time": 1676307502,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}
