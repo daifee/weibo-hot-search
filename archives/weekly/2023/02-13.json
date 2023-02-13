@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676272667088,
+  "endTime": 1676273629867,
   "band_list": [
     {
       "raw_hot": 3129237,
@@ -72,6 +72,14 @@
       "word": "林志颖车祸后首次公开活动",
       "onboard_time": 1676256265,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1841743,
+      "num": 1841743,
+      "word": "徐明浩锁骨部位骨折",
+      "onboard_time": 1676272968,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1009844,
+      "num": 1009844,
+      "word": "昺 让世界认识这个字",
+      "onboard_time": 1676270873,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 956258,
       "num": 956258,
       "word": "杨蓉说这回为爱疯一回",
@@ -176,6 +192,14 @@
       "word": "长期不吃早餐会降低大脑功能",
       "onboard_time": 1676256327,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 901066,
+      "num": 901066,
+      "word": "县委书记回应房产展销会上女子跳钢管舞",
+      "onboard_time": 1676268656,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -232,14 +256,6 @@
       "word": "女子酒店健身房洗澡有陌生男子闯入",
       "onboard_time": 1676251168,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 805083,
-      "num": 805083,
-      "word": "县委书记回应房产展销会上女子跳钢管舞",
-      "onboard_time": 1676268656,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -315,8 +331,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 670090,
-      "num": 670090,
+      "raw_hot": 672663,
+      "num": 672663,
       "word": "兰珏有个孩子",
       "onboard_time": 1676269077,
       "rank": 24,
@@ -379,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 596735,
-      "num": 493080,
-      "word": "昺 让世界认识这个字",
-      "onboard_time": 1676270873,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 600468,
+      "num": 600468,
+      "word": "你什么档次和我坐一辆火车",
+      "onboard_time": 1676271948,
+      "rank": 17,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 586777,
@@ -427,12 +443,28 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 530984,
+      "num": 530984,
+      "word": "屋顶惊现猫猫虫",
+      "onboard_time": 1676271109,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 523061,
       "num": 523061,
       "word": "升降火锅",
       "onboard_time": 1676215116,
       "rank": 9,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 522149,
+      "num": 522149,
+      "word": "贷款人离世后剩下房贷该如何处理",
+      "onboard_time": 1676272549,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 516067,
@@ -449,6 +481,14 @@
       "onboard_time": 1676263415,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 512675,
+      "num": 512675,
+      "word": "赵露思王安宇神隐吵架路透",
+      "onboard_time": 1676272666,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 507191,
@@ -539,14 +579,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 435334,
-      "num": 435334,
-      "word": "屋顶惊现猫猫虫",
-      "onboard_time": 1676271109,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433147,
       "num": 433147,
       "word": "王俊凯白色镂空毛衣造型",
@@ -603,20 +635,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389454,
+      "num": 389454,
+      "word": "全身溃烂金毛被收养后变得爱撒娇",
+      "onboard_time": 1676270748,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384362,
       "num": 384362,
       "word": "云南大理苍山披云被太美了",
       "onboard_time": 1676259210,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 380615,
-      "num": 380615,
-      "word": "你什么档次和我坐一辆火车",
-      "onboard_time": 1676271948,
-      "rank": 17,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 379562,
@@ -696,14 +728,6 @@
       "word": "地震中失散的2岁女孩找到了妈妈",
       "onboard_time": 1676254225,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355768,
-      "num": 355768,
-      "word": "全身溃烂金毛被收养后变得爱撒娇",
-      "onboard_time": 1676270748,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -883,6 +907,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 276563,
+      "num": 276563,
+      "word": "衢州交警致歉",
+      "onboard_time": 1676272968,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273185,
       "num": 273185,
       "word": "去西安知道吃什么了",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1676256448,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228798,
+      "num": 228798,
+      "word": "刘诗雯晒照恢复训练",
+      "onboard_time": 1676272549,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 226396,
@@ -1267,11 +1307,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164341,
+      "num": 164341,
+      "word": "7岁时小吴易昺没夺冠还哭了鼻子",
+      "onboard_time": 1676272666,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161909,
       "num": 161909,
       "word": "吴易昺颁奖典礼中文致谢",
       "onboard_time": 1676250267,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160273,
+      "num": 160273,
+      "word": "吴易昺想在杭州亚运会夺金",
+      "onboard_time": 1676273387,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1355,14 +1411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136054,
-      "num": 136054,
-      "word": "贷款人离世后剩下房贷该如何处理",
-      "onboard_time": 1676272549,
-      "rank": 46,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 133188,
       "num": 133188,
       "word": "关晓彤澳门随拍",
@@ -1377,14 +1425,6 @@
       "onboard_time": 1676200770,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130259,
-      "num": 130259,
-      "word": "刘诗雯晒照恢复训练",
-      "onboard_time": 1676272549,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 127478,
