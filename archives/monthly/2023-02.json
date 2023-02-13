@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676286981198,
+  "endTime": 1676288021189,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -139,6 +139,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 4127968,
+      "num": 4127968,
+      "word": "俄亥俄",
+      "onboard_time": 1676284121,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4089729,
       "num": 4089729,
       "word": "狂飙钟阿四真的不是演的",
@@ -185,14 +193,6 @@
       "onboard_time": 1675557084,
       "rank": 0,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 3752110,
-      "num": 3752110,
-      "word": "俄亥俄",
-      "onboard_time": 1676284121,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3687086,
@@ -3115,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1130704,
+      "num": 657400,
+      "word": "东莞一电子厂门口现凶杀案",
+      "onboard_time": 1676285621,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1128757,
       "num": 1128757,
       "word": "徐冬冬晒自己145斤和108斤对比照",
@@ -3729,6 +3737,14 @@
       "onboard_time": 1676079267,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1009481,
+      "num": 1009481,
+      "word": "Doinb爆料FPX寄了",
+      "onboard_time": 1676285321,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 1008693,
@@ -4835,14 +4851,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 864437,
-      "num": 657400,
-      "word": "东莞一电子厂门口现凶杀案",
-      "onboard_time": 1676285621,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 864086,
       "num": 864086,
       "word": "安长林 好人",
@@ -4905,14 +4913,6 @@
       "onboard_time": 1676193089,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 860670,
-      "num": 655600,
-      "word": "Doinb爆料FPX寄了",
-      "onboard_time": 1676285321,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 860626,
@@ -10035,6 +10035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517539,
+      "num": 517539,
+      "word": "相亲后发现自己妥协不了",
+      "onboard_time": 1676285986,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 517344,
       "num": 517344,
       "word": "男子刷脸打卡必须开心呲牙才能通过",
@@ -11403,6 +11411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453508,
+      "num": 453508,
+      "word": "姐弟坠亡案父亲连写三封信求原谅",
+      "onboard_time": 1676287079,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453309,
       "num": 453309,
       "word": "我国进入长寿时代",
@@ -12001,14 +12017,6 @@
       "onboard_time": 1675656632,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 430500,
-      "num": 430500,
-      "word": "相亲后发现自己妥协不了",
-      "onboard_time": 1676285986,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 429894,
@@ -14145,6 +14153,14 @@
       "onboard_time": 1676118808,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 365682,
+      "num": 270660,
+      "word": "高启强给干爹的陈皮到底有多贵",
+      "onboard_time": 1676287139,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 364792,
@@ -18259,6 +18275,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 272412,
+      "num": 272412,
+      "word": "夏花",
+      "onboard_time": 1675674687,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272237,
       "num": 272237,
       "word": "妹妹骑车冲下楼梯妈妈问责姐姐",
@@ -19529,6 +19553,14 @@
       "onboard_time": 1675483526,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248758,
+      "num": 248758,
+      "word": "如何才能提高生育意愿",
+      "onboard_time": 1676286283,
+      "rank": 40,
+      "category": "社会议题"
     },
     {
       "raw_hot": 248680,
@@ -22275,6 +22307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202620,
+      "num": 202620,
+      "word": "王者打野英雄怎么玩",
+      "onboard_time": 1676286584,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202546,
       "num": 202546,
       "word": "李现的演员价值",
@@ -23059,14 +23099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193087,
-      "num": 193087,
-      "word": "夏花",
-      "onboard_time": 1675674687,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 192979,
       "num": 192979,
       "word": "蕾哈娜手语翻译",
@@ -23169,14 +23201,6 @@
       "onboard_time": 1676118447,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192083,
-      "num": 192083,
-      "word": "如何才能提高生育意愿",
-      "onboard_time": 1676286283,
-      "rank": 40,
-      "category": "社会议题"
     },
     {
       "raw_hot": 192024,
@@ -25459,6 +25483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167803,
+      "num": 167803,
+      "word": "听说你喜欢我情敌上线",
+      "onboard_time": 1676287488,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167766,
       "num": 167766,
       "word": "朱科祺淘汰",
@@ -25825,6 +25857,14 @@
       "onboard_time": 1675240591,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163958,
+      "num": 163958,
+      "word": "男子在高铁站当女儿面掐脖打老婆",
+      "onboard_time": 1676287667,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163899,
@@ -26417,14 +26457,6 @@
       "onboard_time": 1676253447,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155787,
-      "num": 155787,
-      "word": "王者打野英雄怎么玩",
-      "onboard_time": 1676286584,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 155692,
