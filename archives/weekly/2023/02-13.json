@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676320485103,
+  "endTime": 1676323027547,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -2395,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147968,
+      "num": 47509,
+      "word": "老人喝隔夜牛肉汤住进ICU",
+      "onboard_time": 1676318952,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147668,
       "num": 147668,
       "word": "女生买的二手书里夹了400块后续",
@@ -2569,14 +2577,6 @@
       "onboard_time": 1676224996,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89040,
-      "num": 47509,
-      "word": "老人喝隔夜牛肉汤住进ICU",
-      "onboard_time": 1676318952,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88418,
