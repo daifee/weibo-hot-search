@@ -1,7 +1,15 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676284643290,
+  "endTime": 1676286981198,
   "band_list": [
+    {
+      "raw_hot": 3752110,
+      "num": 3752110,
+      "word": "俄亥俄",
+      "onboard_time": 1676284121,
+      "rank": 7,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3129237,
       "num": 3129237,
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1113378,
+      "num": 1113378,
+      "word": "涵艺爆料LWX要转辅助",
+      "onboard_time": 1676284479,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1073697,
       "num": 1073697,
       "word": "王一博无名吃拿破仑花絮",
@@ -281,6 +297,22 @@
       "onboard_time": 1676240353,
       "rank": 25,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 864437,
+      "num": 657400,
+      "word": "东莞一电子厂门口现凶杀案",
+      "onboard_time": 1676285621,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 860670,
+      "num": 655600,
+      "word": "Doinb爆料FPX寄了",
+      "onboard_time": 1676285321,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 833687,
@@ -384,14 +416,6 @@
       "word": "不吃早餐更容易超重",
       "onboard_time": 1676249667,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742324,
-      "num": 742324,
-      "word": "俄亥俄",
-      "onboard_time": 1676284121,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -563,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 589531,
+      "num": 589531,
+      "word": "美驻俄大使馆呼吁在俄公民立即撤离",
+      "onboard_time": 1676283220,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 586777,
       "num": 586777,
       "word": "李培楠夺冠",
@@ -611,12 +643,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 541301,
+      "num": 541301,
+      "word": "宋威龙 其实张屏是我",
+      "onboard_time": 1676283699,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 541002,
       "num": 541002,
       "word": "全身溃烂金毛被收养后变得爱撒娇",
       "onboard_time": 1676270748,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539696,
+      "num": 539696,
+      "word": "林孝埈说我们是支团结的队伍",
+      "onboard_time": 1676284897,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 535860,
@@ -675,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 511251,
-      "num": 511251,
-      "word": "美驻俄大使馆呼吁在俄公民立即撤离",
-      "onboard_time": 1676283220,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 507191,
       "num": 507191,
       "word": "女子家中大巨蛋磕开竟是蛋中蛋",
@@ -721,6 +761,14 @@
       "onboard_time": 1676262454,
       "rank": 20,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 484434,
+      "num": 484434,
+      "word": "超5成00后能接受相亲找对象",
+      "onboard_time": 1676284897,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476574,
@@ -771,12 +819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 455180,
-      "num": 455180,
-      "word": "宋威龙 其实张屏是我",
-      "onboard_time": 1676283699,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 458411,
+      "num": 458411,
+      "word": "时代少年团拍卖大会续篇",
+      "onboard_time": 1676285445,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 444286,
@@ -817,6 +865,14 @@
       "onboard_time": 1676255426,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 430500,
+      "num": 430500,
+      "word": "相亲后发现自己妥协不了",
+      "onboard_time": 1676285986,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 418252,
@@ -1323,14 +1379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 241782,
-      "num": 241782,
-      "word": "涵艺爆料LWX要转辅助",
-      "onboard_time": 1676284479,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 238713,
       "num": 238713,
       "word": "勇士四方交易完成",
@@ -1571,6 +1619,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 192083,
+      "num": 192083,
+      "word": "如何才能提高生育意愿",
+      "onboard_time": 1676286283,
+      "rank": 40,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 190626,
       "num": 190626,
       "word": "夫胜宽朴志效MOMO舞蹈挑战",
@@ -1633,6 +1689,14 @@
       "onboard_time": 1676265593,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177449,
+      "num": 177449,
+      "word": "Qing瑞兹五杀",
+      "onboard_time": 1676286462,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 176633,
@@ -1777,6 +1841,14 @@
       "onboard_time": 1676253447,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155787,
+      "num": 155787,
+      "word": "王者打野英雄怎么玩",
+      "onboard_time": 1676286584,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 153720,
@@ -2019,8 +2091,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6287,
-      "num": 1082271,
+      "raw_hot": 32361,
+      "num": 1158598,
       "word": "向着新目标奋楫再出发",
       "onboard_time": 1676284539,
       "rank": 2,

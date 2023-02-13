@@ -1,0 +1,410 @@
+{
+  "runTime": 1676286981198,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3752110,
+        "num": 3752110,
+        "word": "俄亥俄",
+        "onboard_time": 1676284121,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1503020,
+        "num": 1503020,
+        "word": "央视网谈绝望的文盲",
+        "onboard_time": 1676263957,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32361,
+        "num": 1158598,
+        "word": "向着新目标奋楫再出发",
+        "onboard_time": 1676284539,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1113378,
+        "num": 1113378,
+        "word": "涵艺爆料LWX要转辅助",
+        "onboard_time": 1676284479,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 993832,
+        "num": 993832,
+        "word": "张颂文曾指导王一博演至尊宝",
+        "onboard_time": 1676281478,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 823703,
+        "num": 823703,
+        "word": "我国女性终身无孩率接近10%",
+        "onboard_time": 1676265229,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795262,
+        "num": 795262,
+        "word": "女子车辆被强盛集团违停车挡住",
+        "onboard_time": 1676280402,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779031,
+        "num": 779031,
+        "word": "女子注射6针玻尿酸致残",
+        "onboard_time": 1676278718,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683681,
+        "num": 683681,
+        "word": "嘎子哥回应1999元手机1880元能买到",
+        "onboard_time": 1676277105,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 666993,
+        "num": 666993,
+        "word": "2023年中央一号文件",
+        "onboard_time": 1676281182,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 864437,
+        "num": 657400,
+        "word": "东莞一电子厂门口现凶杀案",
+        "onboard_time": 1676285621,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 860670,
+        "num": 655600,
+        "word": "Doinb爆料FPX寄了",
+        "onboard_time": 1676285321,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 646767,
+        "num": 646767,
+        "word": "贷款人离世后剩下房贷该如何处理",
+        "onboard_time": 1676272549,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 589531,
+        "num": 589531,
+        "word": "美驻俄大使馆呼吁在俄公民立即撤离",
+        "onboard_time": 1676283220,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 560649,
+        "num": 560649,
+        "word": "徐明浩锁骨部位骨折",
+        "onboard_time": 1676272968,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541301,
+        "num": 541301,
+        "word": "宋威龙 其实张屏是我",
+        "onboard_time": 1676283699,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 539696,
+        "num": 539696,
+        "word": "林孝埈说我们是支团结的队伍",
+        "onboard_time": 1676284897,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524910,
+        "num": 524910,
+        "word": "曝梅西6月来中国比赛",
+        "onboard_time": 1676281058,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 484434,
+        "num": 484434,
+        "word": "超5成00后能接受相亲找对象",
+        "onboard_time": 1676284897,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458411,
+        "num": 458411,
+        "word": "时代少年团拍卖大会续篇",
+        "onboard_time": 1676285445,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445255,
+        "num": 445255,
+        "word": "梦中的那片海 备播",
+        "onboard_time": 1676279321,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 436465,
+        "num": 436465,
+        "word": "昺 让世界认识这个字",
+        "onboard_time": 1676270873,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430500,
+        "num": 430500,
+        "word": "相亲后发现自己妥协不了",
+        "onboard_time": 1676285986,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 407231,
+        "num": 407231,
+        "word": "情人节单身的有福了",
+        "onboard_time": 1676277220,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356699,
+        "num": 356699,
+        "word": "满江红成中国影史票房榜第7名",
+        "onboard_time": 1676281478,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353753,
+        "num": 353753,
+        "word": "第一次看到有人这样洗袜子",
+        "onboard_time": 1676281240,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320745,
+        "num": 320745,
+        "word": "金希澈就直播骂脏话道歉",
+        "onboard_time": 1676274646,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315512,
+        "num": 315512,
+        "word": "衢州交警致歉",
+        "onboard_time": 1676272968,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305757,
+        "num": 305757,
+        "word": "狂飙钟阿四镜头已全部删除",
+        "onboard_time": 1676266674,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301823,
+        "num": 301823,
+        "word": "处女座的单身都是主动选择",
+        "onboard_time": 1676274042,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288750,
+        "num": 288750,
+        "word": "姚薇帮安欣撕小三差点流产",
+        "onboard_time": 1676280701,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269458,
+        "num": 269458,
+        "word": "美方高空气球10余次非法飞越中国",
+        "onboard_time": 1676278902,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 267824,
+        "num": 267824,
+        "word": "北京疾控公布最新检测阳性率",
+        "onboard_time": 1676275604,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267142,
+        "num": 267142,
+        "word": "苏小玎为什么留长发",
+        "onboard_time": 1676277046,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231217,
+        "num": 231217,
+        "word": "打工仔小张",
+        "onboard_time": 1676279861,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 222318,
+        "num": 222318,
+        "word": "京沪人均住户存款超过20万",
+        "onboard_time": 1676277407,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 221415,
+        "num": 221415,
+        "word": "Doggo泽丽五杀",
+        "onboard_time": 1676283940,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210681,
+        "num": 210681,
+        "word": "全国多地现巨型玫瑰",
+        "onboard_time": 1676278718,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204817,
+        "num": 204817,
+        "word": "这个叫只要在培养皿就会死菌",
+        "onboard_time": 1676280224,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204015,
+        "num": 204015,
+        "word": "张艺兴cypher预告",
+        "onboard_time": 1676283521,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192083,
+        "num": 192083,
+        "word": "如何才能提高生育意愿",
+        "onboard_time": 1676286283,
+        "rank": 40,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 185517,
+        "num": 185517,
+        "word": "住户存款增加意味着什么",
+        "onboard_time": 1676282143,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 183636,
+        "num": 183636,
+        "word": "阮流筝清醒了但没完全清醒",
+        "onboard_time": 1676282262,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180330,
+        "num": 180330,
+        "word": "四川一快递车与面包车相撞致6死1伤",
+        "onboard_time": 1676279499,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 177449,
+        "num": 177449,
+        "word": "Qing瑞兹五杀",
+        "onboard_time": 1676286462,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172006,
+        "num": 172006,
+        "word": "代拍明星包月价6999元",
+        "onboard_time": 1676279020,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 171869,
+        "num": 171869,
+        "word": "范闲这次要保护好梓荆啊",
+        "onboard_time": 1676279201,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162507,
+        "num": 162507,
+        "word": "毛林林演大学生",
+        "onboard_time": 1676277407,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155787,
+        "num": 155787,
+        "word": "王者打野英雄怎么玩",
+        "onboard_time": 1676286584,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151075,
+        "num": 151075,
+        "word": "高启强陈书婷亲热戏被删",
+        "onboard_time": 1676259690,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#通过顽强斗争打开事业发展新天地#"
+    }
+  }
+}
