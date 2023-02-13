@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676273629867,
+  "endTime": 1676276741904,
   "band_list": [
     {
       "raw_hot": 3129237,
@@ -17,6 +17,14 @@
       "onboard_time": 1676259690,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2749760,
+      "num": 2749760,
+      "word": "徐明浩锁骨部位骨折",
+      "onboard_time": 1676272968,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2368653,
@@ -75,20 +83,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1841743,
-      "num": 1841743,
-      "word": "徐明浩锁骨部位骨折",
-      "onboard_time": 1676272968,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1753757,
       "num": 1753757,
       "word": "狂飙",
       "onboard_time": 1676251227,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1559449,
+      "num": 1559449,
+      "word": "衢州交警致歉",
+      "onboard_time": 1676272968,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1407003,
@@ -107,12 +115,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1355001,
+      "num": 1355001,
+      "word": "昺 让世界认识这个字",
+      "onboard_time": 1676270873,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1309136,
       "num": 1309136,
       "word": "衢州交警发文被指疑似性别歧视",
       "onboard_time": 1676257767,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1289847,
+      "num": 1289847,
+      "word": "金希澈就直播骂脏话道歉",
+      "onboard_time": 1676274646,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1266770,
@@ -136,6 +160,14 @@
       "word": "专家谈房贷年龄期限可延长到80岁",
       "onboard_time": 1676251766,
       "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1193516,
+      "num": 1193516,
+      "word": "贷款人离世后剩下房贷该如何处理",
+      "onboard_time": 1676272549,
+      "rank": 46,
       "category": "财经,社会新闻"
     },
     {
@@ -169,14 +201,6 @@
       "onboard_time": 1676208814,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1009844,
-      "num": 1009844,
-      "word": "昺 让世界认识这个字",
-      "onboard_time": 1676270873,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 956258,
@@ -243,12 +267,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 828920,
+      "num": 828920,
+      "word": "鹿晗捐赠的第八座公益球场正式落成",
+      "onboard_time": 1676273807,
+      "rank": 8,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 827442,
       "num": 827442,
       "word": "深圳夜空现不明发光飞行物",
       "onboard_time": 1676268004,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 821069,
+      "num": 821069,
+      "word": "黄景瑜最新机场路透",
+      "onboard_time": 1676274646,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 820388,
@@ -288,6 +328,14 @@
       "word": "不吃早餐更容易超重",
       "onboard_time": 1676249667,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736931,
+      "num": 736931,
+      "word": "网恋女友竟是昔日狱友",
+      "onboard_time": 1676274403,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -371,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 629245,
+      "num": 629245,
+      "word": "你什么档次和我坐一辆火车",
+      "onboard_time": 1676271948,
+      "rank": 17,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 622962,
       "num": 622962,
       "word": "回南天是南方人专属的痛",
@@ -387,6 +443,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 612131,
+      "num": 612131,
+      "word": "处女座的单身都是主动选择",
+      "onboard_time": 1676274042,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 606839,
       "num": 606839,
       "word": "泰国人有多爱王嘉尔",
@@ -395,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 600468,
-      "num": 600468,
-      "word": "你什么档次和我坐一辆火车",
-      "onboard_time": 1676271948,
-      "rank": 17,
-      "category": "影视,幽默"
+      "raw_hot": 601042,
+      "num": 601042,
+      "word": "田曦薇北京机场出发路透",
+      "onboard_time": 1676276385,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 586777,
@@ -443,6 +507,30 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 542154,
+      "num": 542154,
+      "word": "偶遇刘雨昕办法国签证",
+      "onboard_time": 1676276683,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 541002,
+      "num": 541002,
+      "word": "全身溃烂金毛被收养后变得爱撒娇",
+      "onboard_time": 1676270748,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 540744,
+      "num": 540744,
+      "word": "北京疾控公布最新检测阳性率",
+      "onboard_time": 1676275604,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530984,
       "num": 530984,
       "word": "屋顶惊现猫猫虫",
@@ -457,14 +545,6 @@
       "onboard_time": 1676215116,
       "rank": 9,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 522149,
-      "num": 522149,
-      "word": "贷款人离世后剩下房贷该如何处理",
-      "onboard_time": 1676272549,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 516067,
@@ -632,14 +712,6 @@
       "word": "女子超然楼前背满江红时楼亮了",
       "onboard_time": 1676241494,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 389454,
-      "num": 389454,
-      "word": "全身溃烂金毛被收养后变得爱撒娇",
-      "onboard_time": 1676270748,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -907,20 +979,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 276563,
-      "num": 276563,
-      "word": "衢州交警致歉",
-      "onboard_time": 1676272968,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273185,
       "num": 273185,
       "word": "去西安知道吃什么了",
       "onboard_time": 1676215773,
       "rank": 20,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 270996,
+      "num": 270996,
+      "word": "成年后发现什么人不可深交",
+      "onboard_time": 1676275482,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 270349,
@@ -937,6 +1009,14 @@
       "onboard_time": 1676265593,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259241,
+      "num": 259241,
+      "word": "杨九郎包袱很多但没有偶像包袱",
+      "onboard_time": 1676276144,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 259006,
@@ -1145,6 +1225,14 @@
       "onboard_time": 1676260712,
       "rank": 44,
       "category": "影视,音乐"
+    },
+    {
+      "raw_hot": 196959,
+      "num": 196959,
+      "word": "男孩用百元零件组装电脑",
+      "onboard_time": 1676276205,
+      "rank": 41,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 194287,
@@ -1409,6 +1497,14 @@
       "onboard_time": 1676198850,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134685,
+      "num": 134685,
+      "word": "李健说导演预判了我的台词",
+      "onboard_time": 1676275005,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 133188,
