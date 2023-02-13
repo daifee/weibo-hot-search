@@ -1,0 +1,410 @@
+{
+  "runTime": 1676279996406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2158086,
+        "num": 2158086,
+        "word": "央视网谈绝望的文盲",
+        "onboard_time": 1676263957,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1470932,
+        "num": 1470932,
+        "word": "嘎子哥回应1999元手机1880元能买到",
+        "onboard_time": 1676277105,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61563,
+        "num": 1361517,
+        "word": "开学第一天",
+        "onboard_time": 1676249247,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1360067,
+        "num": 1360067,
+        "word": "衢州交警致歉",
+        "onboard_time": 1676272968,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1210793,
+        "num": 1210793,
+        "word": "徐明浩锁骨部位骨折",
+        "onboard_time": 1676272968,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1124093,
+        "num": 1124093,
+        "word": "我国女性终身无孩率接近10%",
+        "onboard_time": 1676265229,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1002379,
+        "num": 1002379,
+        "word": "贷款人离世后剩下房贷该如何处理",
+        "onboard_time": 1676272549,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 844121,
+        "num": 844121,
+        "word": "金希澈就直播骂脏话道歉",
+        "onboard_time": 1676274646,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 832351,
+        "num": 832351,
+        "word": "梦中的那片海 备播",
+        "onboard_time": 1676279321,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 756064,
+        "num": 756064,
+        "word": "昺 让世界认识这个字",
+        "onboard_time": 1676270873,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 776855,
+        "num": 732389,
+        "word": "女子注射6针玻尿酸致残",
+        "onboard_time": 1676278718,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705739,
+        "num": 705739,
+        "word": "情人节单身的有福了",
+        "onboard_time": 1676277220,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 651366,
+        "num": 651366,
+        "word": "北京疾控公布最新检测阳性率",
+        "onboard_time": 1676275604,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616354,
+        "num": 616354,
+        "word": "苏小玎为什么留长发",
+        "onboard_time": 1676277046,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 546259,
+        "num": 546259,
+        "word": "毛林林演大学生",
+        "onboard_time": 1676277407,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 524898,
+        "num": 524898,
+        "word": "处女座的单身都是主动选择",
+        "onboard_time": 1676274042,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 494060,
+        "num": 494060,
+        "word": "高启强陈书婷亲热戏被删",
+        "onboard_time": 1676259690,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483477,
+        "num": 483477,
+        "word": "网恋女友竟是昔日狱友",
+        "onboard_time": 1676274403,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471392,
+        "num": 471392,
+        "word": "狂飙钟阿四镜头已全部删除",
+        "onboard_time": 1676266674,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431804,
+        "num": 431804,
+        "word": "黄景瑜最新机场路透",
+        "onboard_time": 1676274646,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425177,
+        "num": 425177,
+        "word": "鹿晗捐赠的第八座公益球场正式落成",
+        "onboard_time": 1676273807,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 411643,
+        "num": 411643,
+        "word": "李乃文说李小冉很女神也很北京大妞",
+        "onboard_time": 1676279681,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382864,
+        "num": 382864,
+        "word": "美方高空气球10余次非法飞越中国",
+        "onboard_time": 1676278902,
+        "rank": 22,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 376604,
+        "num": 376604,
+        "word": "田曦薇北京机场出发路透",
+        "onboard_time": 1676276385,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346898,
+        "num": 346898,
+        "word": "京沪人均住户存款超过20万",
+        "onboard_time": 1676277407,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 314723,
+        "num": 314723,
+        "word": "你什么档次和我坐一辆火车",
+        "onboard_time": 1676271948,
+        "rank": 25,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 310815,
+        "num": 310815,
+        "word": "偶遇刘雨昕办法国签证",
+        "onboard_time": 1676276683,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284108,
+        "num": 284108,
+        "word": "成年后发现什么人不可深交",
+        "onboard_time": 1676275482,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274991,
+        "num": 274991,
+        "word": "大爷骑车等红灯全程脚不点地",
+        "onboard_time": 1676278060,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266910,
+        "num": 266910,
+        "word": "全身溃烂金毛被收养后变得爱撒娇",
+        "onboard_time": 1676270748,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252651,
+        "num": 252651,
+        "word": "深圳夜空现不明发光飞行物",
+        "onboard_time": 1676268004,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250116,
+        "num": 250116,
+        "word": "四川一快递车与面包车相撞致6死1伤",
+        "onboard_time": 1676279499,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 245640,
+        "num": 245640,
+        "word": "范闲这次要保护好梓荆啊",
+        "onboard_time": 1676279201,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234694,
+        "num": 234694,
+        "word": "全国多地现巨型玫瑰",
+        "onboard_time": 1676278718,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228798,
+        "num": 228798,
+        "word": "赵露思王安宇神隐吵架路透",
+        "onboard_time": 1676272666,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228687,
+        "num": 228687,
+        "word": "屋顶惊现猫猫虫",
+        "onboard_time": 1676271109,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228552,
+        "num": 228552,
+        "word": "代拍明星包月价6999元",
+        "onboard_time": 1676279020,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 227633,
+        "num": 227633,
+        "word": "王大陆遗憾妈妈没见过蔡卓宜",
+        "onboard_time": 1676260829,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227938,
+        "num": 227085,
+        "word": "县委书记回应房产展销会上女子跳钢管舞",
+        "onboard_time": 1676268656,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220868,
+        "num": 220868,
+        "word": "王一博无名吃拿破仑花絮",
+        "onboard_time": 1676265047,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208515,
+        "num": 208515,
+        "word": "年轻人的恋爱观很特别",
+        "onboard_time": 1676278841,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 199310,
+        "num": 199310,
+        "word": "兰珏有个孩子",
+        "onboard_time": 1676269077,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197991,
+        "num": 197991,
+        "word": "全国31省市存款盘点",
+        "onboard_time": 1676279201,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 192767,
+        "num": 192767,
+        "word": "日本地震",
+        "onboard_time": 1676264077,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175497,
+        "num": 175497,
+        "word": "破产重组中为何纠纷频出",
+        "onboard_time": 1676279382,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168146,
+        "num": 168146,
+        "word": "美军高官称不排除被击落物体来自外星",
+        "onboard_time": 1676264925,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 165747,
+        "num": 165747,
+        "word": "第一次这么近距离看熊猫毛",
+        "onboard_time": 1676268302,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156065,
+        "num": 156065,
+        "word": "多设备登录被封号合理吗",
+        "onboard_time": 1676260349,
+        "rank": 47,
+        "category": "社会议题,科技"
+      },
+      {
+        "raw_hot": 149618,
+        "num": 149618,
+        "word": "公司回应基金经理称上海1000万资产是穷人",
+        "onboard_time": 1676264988,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 146402,
+        "num": 146402,
+        "word": "打工仔小张",
+        "onboard_time": 1676279861,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化创造人类文明新形态#"
+    }
+  }
+}
