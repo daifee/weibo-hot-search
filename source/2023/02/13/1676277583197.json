@@ -1,0 +1,410 @@
+{
+  "runTime": 1676277583197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2320318,
+        "num": 2320318,
+        "word": "徐明浩锁骨部位骨折",
+        "onboard_time": 1676272968,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1987765,
+        "num": 1987765,
+        "word": "央视网谈绝望的文盲",
+        "onboard_time": 1676263957,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86309,
+        "num": 1777510,
+        "word": "开学第一天",
+        "onboard_time": 1676249247,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1772861,
+        "num": 1772861,
+        "word": "衢州交警致歉",
+        "onboard_time": 1676272968,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1689497,
+        "num": 1689497,
+        "word": "我国女性终身无孩率接近10%",
+        "onboard_time": 1676265229,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1300364,
+        "num": 1300364,
+        "word": "贷款人离世后剩下房贷该如何处理",
+        "onboard_time": 1676272549,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1265917,
+        "num": 1265917,
+        "word": "金希澈就直播骂脏话道歉",
+        "onboard_time": 1676274646,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1223097,
+        "num": 1223097,
+        "word": "昺 让世界认识这个字",
+        "onboard_time": 1676270873,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 740429,
+        "num": 740429,
+        "word": "田曦薇北京机场出发路透",
+        "onboard_time": 1676276385,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 710663,
+        "num": 710663,
+        "word": "高启强陈书婷亲热戏被删",
+        "onboard_time": 1676259690,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1086487,
+        "num": 710159,
+        "word": "嘎子哥回应1999元手机1880元能买到",
+        "onboard_time": 1676277105,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 808731,
+        "num": 709529,
+        "word": "北京疾控公布最新检测阳性率",
+        "onboard_time": 1676275604,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791437,
+        "num": 709468,
+        "word": "网恋女友竟是昔日狱友",
+        "onboard_time": 1676274403,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708386,
+        "num": 708386,
+        "word": "黄景瑜最新机场路透",
+        "onboard_time": 1676274646,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 673910,
+        "num": 673910,
+        "word": "鹿晗捐赠的第八座公益球场正式落成",
+        "onboard_time": 1676273807,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 651905,
+        "num": 651905,
+        "word": "处女座的单身都是主动选择",
+        "onboard_time": 1676274042,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 642985,
+        "num": 642985,
+        "word": "狂飙钟阿四镜头已全部删除",
+        "onboard_time": 1676266674,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 611952,
+        "num": 611952,
+        "word": "偶遇刘雨昕办法国签证",
+        "onboard_time": 1676276683,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523122,
+        "num": 523122,
+        "word": "你什么档次和我坐一辆火车",
+        "onboard_time": 1676271948,
+        "rank": 18,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 457782,
+        "num": 457782,
+        "word": "全身溃烂金毛被收养后变得爱撒娇",
+        "onboard_time": 1676270748,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426483,
+        "num": 426483,
+        "word": "王大陆遗憾妈妈没见过蔡卓宜",
+        "onboard_time": 1676260829,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388110,
+        "num": 388110,
+        "word": "兰珏有个孩子",
+        "onboard_time": 1676269077,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371306,
+        "num": 371306,
+        "word": "毛林林演大学生",
+        "onboard_time": 1676277407,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 366145,
+        "num": 366145,
+        "word": "县委书记回应房产展销会上女子跳钢管舞",
+        "onboard_time": 1676268656,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365614,
+        "num": 365614,
+        "word": "赵露思王安宇神隐吵架路透",
+        "onboard_time": 1676272666,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347657,
+        "num": 347657,
+        "word": "屋顶惊现猫猫虫",
+        "onboard_time": 1676271109,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330674,
+        "num": 330674,
+        "word": "深圳夜空现不明发光飞行物",
+        "onboard_time": 1676268004,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329024,
+        "num": 329024,
+        "word": "苏小玎为什么留长发",
+        "onboard_time": 1676277046,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315606,
+        "num": 315606,
+        "word": "成年后发现什么人不可深交",
+        "onboard_time": 1676275482,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247374,
+        "num": 288665,
+        "word": "第一次这么近距离看熊猫毛",
+        "onboard_time": 1676268302,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286618,
+        "num": 286618,
+        "word": "日本地震",
+        "onboard_time": 1676264077,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254782,
+        "num": 254782,
+        "word": "已婚男子与人同居生下儿女被刑拘",
+        "onboard_time": 1676249788,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249886,
+        "num": 249886,
+        "word": "多设备登录被封号合理吗",
+        "onboard_time": 1676260349,
+        "rank": 32,
+        "category": "社会议题,科技"
+      },
+      {
+        "raw_hot": 241286,
+        "num": 241286,
+        "word": "高铁晚点",
+        "onboard_time": 1676271287,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224381,
+        "num": 224381,
+        "word": "王一博无名吃拿破仑花絮",
+        "onboard_time": 1676265047,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224234,
+        "num": 224234,
+        "word": "四川一地首次拍到野生大熊猫",
+        "onboard_time": 1676270748,
+        "rank": 35,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 203781,
+        "num": 203781,
+        "word": "公司回应基金经理称上海1000万资产是穷人",
+        "onboard_time": 1676264988,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 202054,
+        "num": 202054,
+        "word": "美军高官称不排除被击落物体来自外星",
+        "onboard_time": 1676264925,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 200400,
+        "num": 200400,
+        "word": "情人节单身的有福了",
+        "onboard_time": 1676277220,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185546,
+        "num": 185546,
+        "word": "修音也救不了的三字歌手",
+        "onboard_time": 1676246124,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184783,
+        "num": 184783,
+        "word": "孟佳把谜窟变成蹦迪现场",
+        "onboard_time": 1676276743,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177226,
+        "num": 177226,
+        "word": "这猫是懂模仿高启盛的",
+        "onboard_time": 1676267942,
+        "rank": 41,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 174675,
+        "num": 174675,
+        "word": "男生攒压岁钱给妈妈换手机却挨批",
+        "onboard_time": 1676267042,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167268,
+        "num": 167268,
+        "word": "杨九郎包袱很多但没有偶像包袱",
+        "onboard_time": 1676276144,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161998,
+        "num": 161998,
+        "word": "男孩用百元零件组装电脑",
+        "onboard_time": 1676276205,
+        "rank": 44,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 161099,
+        "num": 161099,
+        "word": "林志颖车祸后首次公开活动",
+        "onboard_time": 1676256265,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160364,
+        "num": 160364,
+        "word": "京沪人均住户存款超过20万",
+        "onboard_time": 1676277407,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 156048,
+        "num": 156048,
+        "word": "长期不吃早餐会降低大脑功能",
+        "onboard_time": 1676256327,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154682,
+        "num": 154682,
+        "word": "云南大理苍山披云被太美了",
+        "onboard_time": 1676259210,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 142100,
+        "num": 142100,
+        "word": "7岁时小吴易昺没夺冠还哭了鼻子",
+        "onboard_time": 1676272666,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#通过顽强斗争打开事业发展新天地#"
+    }
+  }
+}

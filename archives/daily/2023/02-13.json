@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676276741904,
+  "endTime": 1676277583197,
   "band_list": [
     {
       "raw_hot": 3129237,
@@ -83,20 +83,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1772861,
+      "num": 1772861,
+      "word": "衢州交警致歉",
+      "onboard_time": 1676272968,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1753757,
       "num": 1753757,
       "word": "狂飙",
       "onboard_time": 1676251227,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1559449,
-      "num": 1559449,
-      "word": "衢州交警致歉",
-      "onboard_time": 1676272968,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1407003,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1300364,
+      "num": 1300364,
+      "word": "贷款人离世后剩下房贷该如何处理",
+      "onboard_time": 1676272549,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1289847,
       "num": 1289847,
       "word": "金希澈就直播骂脏话道歉",
@@ -163,14 +171,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1193516,
-      "num": 1193516,
-      "word": "贷款人离世后剩下房贷该如何处理",
-      "onboard_time": 1676272549,
-      "rank": 46,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 1172241,
       "num": 1172241,
       "word": "五角大楼称F16战机又击落一空中物体",
@@ -185,6 +185,14 @@
       "onboard_time": 1676264077,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1086487,
+      "num": 710159,
+      "word": "嘎子哥回应1999元手机1880元能买到",
+      "onboard_time": 1676277105,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1073697,
@@ -299,12 +307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 808731,
+      "num": 709529,
+      "word": "北京疾控公布最新检测阳性率",
+      "onboard_time": 1676275604,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 795367,
       "num": 795367,
       "word": "韩媒关注林孝埈连续夺冠",
       "onboard_time": 1676255786,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 791437,
+      "num": 736931,
+      "word": "网恋女友竟是昔日狱友",
+      "onboard_time": 1676274403,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 781781,
@@ -331,12 +355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 736931,
-      "num": 736931,
-      "word": "网恋女友竟是昔日狱友",
-      "onboard_time": 1676274403,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 740429,
+      "num": 740429,
+      "word": "田曦薇北京机场出发路透",
+      "onboard_time": 1676276385,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 731817,
@@ -411,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 651905,
+      "num": 651905,
+      "word": "处女座的单身都是主动选择",
+      "onboard_time": 1676274042,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 632279,
       "num": 632279,
       "word": "鹿晗中国乒乓宣传VCR",
@@ -443,12 +475,12 @@
       "category": "幽默,影视"
     },
     {
-      "raw_hot": 612131,
-      "num": 612131,
-      "word": "处女座的单身都是主动选择",
-      "onboard_time": 1676274042,
-      "rank": 14,
-      "category": "情感"
+      "raw_hot": 611952,
+      "num": 611952,
+      "word": "偶遇刘雨昕办法国签证",
+      "onboard_time": 1676276683,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 606839,
@@ -457,14 +489,6 @@
       "onboard_time": 1676215173,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 601042,
-      "num": 601042,
-      "word": "田曦薇北京机场出发路透",
-      "onboard_time": 1676276385,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 586777,
@@ -507,27 +531,11 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 542154,
-      "num": 542154,
-      "word": "偶遇刘雨昕办法国签证",
-      "onboard_time": 1676276683,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 541002,
       "num": 541002,
       "word": "全身溃烂金毛被收养后变得爱撒娇",
       "onboard_time": 1676270748,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 540744,
-      "num": 540744,
-      "word": "北京疾控公布最新检测阳性率",
-      "onboard_time": 1676275604,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -747,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 371306,
+      "num": 371306,
+      "word": "毛林林演大学生",
+      "onboard_time": 1676277407,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 370185,
       "num": 370185,
       "word": "夏花今日开播",
@@ -859,6 +875,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 329024,
+      "num": 329024,
+      "word": "苏小玎为什么留长发",
+      "onboard_time": 1676277046,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 326822,
       "num": 326822,
       "word": "李荣浩南京演唱会官宣",
@@ -905,6 +929,14 @@
       "onboard_time": 1676261912,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 315606,
+      "num": 315606,
+      "word": "成年后发现什么人不可深交",
+      "onboard_time": 1676275482,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 306044,
@@ -985,14 +1017,6 @@
       "onboard_time": 1676215773,
       "rank": 20,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 270996,
-      "num": 270996,
-      "word": "成年后发现什么人不可深交",
-      "onboard_time": 1676275482,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 270349,
@@ -1227,6 +1251,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 200400,
+      "num": 200400,
+      "word": "情人节单身的有福了",
+      "onboard_time": 1676277220,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196959,
       "num": 196959,
       "word": "男孩用百元零件组装电脑",
@@ -1297,6 +1329,14 @@
       "onboard_time": 1676257647,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184783,
+      "num": 184783,
+      "word": "孟佳把谜窟变成蹦迪现场",
+      "onboard_time": 1676276743,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 184569,
@@ -1409,6 +1449,14 @@
       "onboard_time": 1676250267,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160364,
+      "num": 160364,
+      "word": "京沪人均住户存款超过20万",
+      "onboard_time": 1676277407,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 160273,
