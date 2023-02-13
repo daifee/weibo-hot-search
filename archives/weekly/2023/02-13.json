@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676280864422,
+  "endTime": 1676283691861,
   "band_list": [
     {
       "raw_hot": 3129237,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1326150,
+      "num": 1326150,
+      "word": "女子注射6针玻尿酸致残",
+      "onboard_time": 1676278718,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1309136,
       "num": 1309136,
       "word": "衢州交警发文被指疑似性别歧视",
@@ -211,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1016148,
-      "num": 1016148,
-      "word": "女子注射6针玻尿酸致残",
-      "onboard_time": 1676278718,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 956258,
       "num": 956258,
       "word": "杨蓉说这回为爱疯一回",
@@ -243,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 910792,
+      "num": 910792,
+      "word": "张颂文曾指导王一博演至尊宝",
+      "onboard_time": 1676281478,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 901066,
       "num": 901066,
       "word": "县委书记回应房产展销会上女子跳钢管舞",
@@ -257,6 +265,14 @@
       "onboard_time": 1676246366,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 883821,
+      "num": 643111,
+      "word": "女子车辆被强盛集团违停车挡住",
+      "onboard_time": 1676280402,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 865763,
@@ -459,12 +475,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 658872,
+      "num": 658872,
+      "word": "2023年中央一号文件",
+      "onboard_time": 1676281182,
+      "rank": 8,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 651905,
       "num": 651905,
       "word": "处女座的单身都是主动选择",
       "onboard_time": 1676274042,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 642484,
+      "num": 642484,
+      "word": "曝梅西6月来中国比赛",
+      "onboard_time": 1676281058,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 632279,
@@ -587,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528306,
+      "num": 528306,
+      "word": "满江红成中国影史票房榜第7名",
+      "onboard_time": 1676281478,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 523061,
       "num": 523061,
       "word": "升降火锅",
@@ -675,6 +715,22 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 474147,
+      "num": 474147,
+      "word": "姚薇帮安欣撕小三差点流产",
+      "onboard_time": 1676280701,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 472517,
+      "num": 472517,
+      "word": "张艺兴cypher预告",
+      "onboard_time": 1676283521,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 463725,
       "num": 463725,
       "word": "电影这么多年官宣定档520",
@@ -755,6 +811,22 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 408964,
+      "num": 408964,
+      "word": "第一次看到有人这样洗袜子",
+      "onboard_time": 1676281240,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 407615,
+      "num": 407615,
+      "word": "范闲这次要保护好梓荆啊",
+      "onboard_time": 1676279201,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 406478,
       "num": 406478,
       "word": "狂飙李响为何引发共情",
@@ -803,20 +875,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 377811,
-      "num": 377811,
-      "word": "范闲这次要保护好梓荆啊",
-      "onboard_time": 1676279201,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 376469,
       "num": 376469,
       "word": "小狗其实什么都知道",
       "onboard_time": 1676212954,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 371673,
+      "num": 371673,
+      "word": "打工仔小张",
+      "onboard_time": 1676279861,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 370185,
@@ -963,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 325697,
+      "num": 313590,
+      "word": "美驻俄大使馆呼吁在俄公民立即撤离",
+      "onboard_time": 1676283220,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 325457,
       "num": 325457,
       "word": "电影院3D眼镜要收费合理吗",
@@ -987,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315969,
+      "num": 315969,
+      "word": "住户存款增加意味着什么",
+      "onboard_time": 1676282143,
+      "rank": 28,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 315858,
       "num": 315858,
       "word": "秦岚王阳她只是不想输已过审",
@@ -1001,6 +1089,14 @@
       "onboard_time": 1676275482,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 315324,
+      "num": 315324,
+      "word": "宋茜调的饮料",
+      "onboard_time": 1676281478,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 306044,
@@ -1019,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303048,
+      "num": 303048,
+      "word": "阮流筝清醒了但没完全清醒",
+      "onboard_time": 1676282262,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 302878,
       "num": 302878,
       "word": "张萌说彭冠英是新婚之夜鸽子王",
@@ -1033,14 +1137,6 @@
       "onboard_time": 1676256807,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 298064,
-      "num": 298064,
-      "word": "打工仔小张",
-      "onboard_time": 1676279861,
-      "rank": 49,
-      "category": "网红"
     },
     {
       "raw_hot": 293199,
@@ -1107,14 +1203,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 272695,
-      "num": 272695,
-      "word": "女子车辆被强盛集团违停车挡住",
-      "onboard_time": 1676280402,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270349,
       "num": 270349,
       "word": "嘎子哥直播间1999元手机1880能买到",
@@ -1161,6 +1249,14 @@
       "onboard_time": 1676245523,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 256209,
+      "num": 256209,
+      "word": "代拍明星包月价6999元",
+      "onboard_time": 1676279020,
+      "rank": 36,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 251716,
@@ -1243,14 +1339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 234830,
-      "num": 234830,
-      "word": "代拍明星包月价6999元",
-      "onboard_time": 1676279020,
-      "rank": 36,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 232873,
       "num": 232873,
       "word": "Rihanna 女企业家",
@@ -1313,6 +1401,14 @@
       "onboard_time": 1676244441,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218849,
+      "num": 218849,
+      "word": "这个叫只要在培养皿就会死菌",
+      "onboard_time": 1676280224,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 215520,
@@ -1508,7 +1604,7 @@
     },
     {
       "raw_hot": 175497,
-      "num": 175497,
+      "num": 534786,
       "word": "破产重组中为何纠纷频出",
       "onboard_time": 1676279382,
       "rank": 44,
@@ -1563,20 +1659,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170044,
+      "num": 170044,
+      "word": "中金称关于超额存款存在三个误区",
+      "onboard_time": 1676282979,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 169806,
       "num": 169806,
       "word": "吴磊赵今麦芬兰雪地随拍",
       "onboard_time": 1676203711,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169146,
-      "num": 169146,
-      "word": "这个叫只要在培养皿就会死菌",
-      "onboard_time": 1676280224,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 169037,
@@ -1601,14 +1697,6 @@
       "onboard_time": 1676250267,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160844,
-      "num": 160844,
-      "word": "姚薇帮安欣撕小三差点流产",
-      "onboard_time": 1676280701,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 160273,
@@ -1696,6 +1784,14 @@
       "word": "女子智齿位置奇特目测要背井离乡",
       "onboard_time": 1676198850,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138557,
+      "num": 138557,
+      "word": "一个比墙还倔的司机",
+      "onboard_time": 1676282438,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
