@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676291838013,
+  "endTime": 1676292957587,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -131,20 +131,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1419947,
+      "num": 1419947,
+      "word": "韩媒称日本或将发生9.1级地震",
+      "onboard_time": 1676288447,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1407003,
       "num": 1407003,
       "word": "多设备登录被封号合理吗",
       "onboard_time": 1676260349,
       "rank": 8,
       "category": "社会议题,科技"
-    },
-    {
-      "raw_hot": 1371205,
-      "num": 1371205,
-      "word": "韩媒称日本或将发生9.1级地震",
-      "onboard_time": 1676288447,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1361673,
@@ -161,6 +161,14 @@
       "onboard_time": 1676270873,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1330826,
+      "num": 1330826,
+      "word": "高启强给干爹的陈皮到底有多贵",
+      "onboard_time": 1676287139,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 1326150,
@@ -209,14 +217,6 @@
       "onboard_time": 1676215412,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1205700,
-      "num": 1205700,
-      "word": "高启强给干爹的陈皮到底有多贵",
-      "onboard_time": 1676287139,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 1195063,
@@ -563,8 +563,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 639262,
-      "num": 639262,
+      "raw_hot": 651780,
+      "num": 651780,
       "word": "相亲后发现自己妥协不了",
       "onboard_time": 1676285986,
       "rank": 22,
@@ -1131,6 +1131,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 338767,
+      "num": 338767,
+      "word": "追狂飙追到饼都快炸了",
+      "onboard_time": 1676289526,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337026,
       "num": 337026,
       "word": "乌称只有乌克兰胜利才能结束欧洲战争",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1676253987,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 330960,
-      "num": 330960,
-      "word": "追狂飙追到饼都快炸了",
-      "onboard_time": 1676289526,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 330741,
@@ -1291,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 294223,
+      "num": 294223,
+      "word": "男子骑电瓶车载巨大玫瑰",
+      "onboard_time": 1676288686,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293199,
       "num": 293199,
       "word": "SMTOWN官网出现黄旭熙背影照",
@@ -1323,12 +1331,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 280701,
-      "num": 280701,
+      "raw_hot": 281884,
+      "num": 281884,
       "word": "氯乙烯泄漏的危害",
       "onboard_time": 1676290684,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 281529,
+      "num": 281529,
+      "word": "刘宪华小提琴演奏我心永恒",
+      "onboard_time": 1676290965,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 279528,
@@ -1387,14 +1403,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 269039,
-      "num": 269039,
-      "word": "刘宪华小提琴演奏我心永恒",
-      "onboard_time": 1676290965,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 267706,
       "num": 267706,
       "word": "崔杋圭想和Keria一起打排位",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1676265593,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 260708,
-      "num": 260708,
-      "word": "男子骑电瓶车载巨大玫瑰",
-      "onboard_time": 1676288686,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259241,
@@ -1473,6 +1473,14 @@
       "onboard_time": 1676286283,
       "rank": 40,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 246159,
+      "num": 246159,
+      "word": "新郎带好友垦荒布置浪漫乡村婚礼",
+      "onboard_time": 1676292461,
+      "rank": 29,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 245701,
@@ -1875,6 +1883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174382,
+      "num": 174382,
+      "word": "警方通报东莞持刀伤人案",
+      "onboard_time": 1676290784,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 174211,
       "num": 174211,
       "word": "镌刻在故宫里的四季之美",
@@ -1985,14 +2001,6 @@
       "onboard_time": 1676253447,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154518,
-      "num": 154518,
-      "word": "警方通报东莞持刀伤人案",
-      "onboard_time": 1676290784,
-      "rank": 47,
-      "category": "社会负面"
     },
     {
       "raw_hot": 153720,
