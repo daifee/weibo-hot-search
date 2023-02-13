@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676319648827,
+  "endTime": 1676320485103,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -29371,6 +29371,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 89040,
+      "num": 47509,
+      "word": "老人喝隔夜牛肉汤住进ICU",
+      "onboard_time": 1676318952,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88418,
       "num": 88418,
       "word": "曼城3比1阿斯顿维拉",
@@ -30121,14 +30129,6 @@
       "onboard_time": 1675195453,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 33733,
-      "num": 33733,
-      "word": "老人喝隔夜牛肉汤住进ICU",
-      "onboard_time": 1676318952,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32361,
