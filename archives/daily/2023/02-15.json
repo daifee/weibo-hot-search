@@ -1,6 +1,6 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676413106300,
+  "endTime": 1676414079241,
   "band_list": [
     {
       "raw_hot": 1509306,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202719,
+      "num": 105799,
+      "word": "宁夏一地倡导女婿赡养岳父母",
+      "onboard_time": 1676411651,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198403,
       "num": 198403,
       "word": "韩国民众向土耳其捐赠大量脏衣服",
@@ -315,20 +323,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186407,
+      "num": 186407,
+      "word": "西周大墓发现三层43具殉人布满墓道",
+      "onboard_time": 1676396178,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183989,
       "num": 183989,
       "word": "两名主播涉嫌偷逃税款被罚",
       "onboard_time": 1676371114,
       "rank": 37,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 182636,
-      "num": 182636,
-      "word": "西周大墓发现三层43具殉人布满墓道",
-      "onboard_time": 1676396178,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179149,
@@ -435,12 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97942,
-      "num": 78101,
-      "word": "宁夏一地倡导女婿赡养岳父母",
-      "onboard_time": 1676411651,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 88524,
+      "num": 88524,
+      "word": "原来猛兽的睡姿是这样的",
+      "onboard_time": 1676410093,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 80966,
@@ -451,20 +459,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64824,
-      "num": 64824,
-      "word": "原来猛兽的睡姿是这样的",
-      "onboard_time": 1676410093,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 58098,
       "num": 58098,
       "word": "吉克隽逸活动状态",
       "onboard_time": 1676401693,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57523,
+      "num": 57523,
+      "word": "宁夏一地规定彩礼不得超过6万",
+      "onboard_time": 1676412793,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56129,
@@ -507,20 +515,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 29647,
-      "num": 29647,
+      "raw_hot": 33929,
+      "num": 33929,
       "word": "海贼王1051",
       "onboard_time": 1676405891,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 29161,
-      "num": 29161,
-      "word": "宁夏一地规定彩礼不得超过6万",
-      "onboard_time": 1676412793,
-      "rank": 38,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
