@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676381998186,
+  "endTime": 1676384298022,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1129,6 +1129,14 @@
       "onboard_time": 1675216106,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1989068,
+      "num": 1989068,
+      "word": "男子反复缴费套取蚂蚁森林能量被封号",
+      "onboard_time": 1676379334,
+      "rank": 45,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1984190,
@@ -2515,14 +2523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1338492,
-      "num": 1338492,
-      "word": "男子反复缴费套取蚂蚁森林能量被封号",
-      "onboard_time": 1676379334,
-      "rank": 45,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 1337654,
       "num": 1337654,
       "word": "谢娜晒背影照为跳跳俏俏庆生",
@@ -3432,6 +3432,14 @@
       "word": "骑车拖行小猫致死当事人公开道歉",
       "onboard_time": 1676019511,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1137807,
+      "num": 1137807,
+      "word": "怀孕时被拐卖女子欲追责人贩",
+      "onboard_time": 1676379696,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -5547,14 +5555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 844696,
-      "num": 844696,
-      "word": "怀孕时被拐卖女子欲追责人贩",
-      "onboard_time": 1676379696,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 844271,
       "num": 844271,
       "word": "沈阳的澡堂子还能漂流",
@@ -6593,6 +6593,14 @@
       "onboard_time": 1676034270,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 751414,
+      "num": 751414,
+      "word": "TT对战WBG",
+      "onboard_time": 1676379936,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 750729,
@@ -8307,6 +8315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 649554,
+      "num": 649554,
+      "word": "陈年烈苟广播剧",
+      "onboard_time": 1676383296,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 647816,
       "num": 647816,
       "word": "华晨宇庆生服连续穿了十年",
@@ -8537,6 +8553,14 @@
       "onboard_time": 1675839330,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635850,
+      "num": 635850,
+      "word": "中国足球狂飙",
+      "onboard_time": 1676379156,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 634372,
@@ -9379,14 +9403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 585391,
-      "num": 585391,
-      "word": "中国足球狂飙",
-      "onboard_time": 1676379156,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 585378,
       "num": 585378,
       "word": "王一博公司申请洛邑逸板商标",
@@ -9448,6 +9464,14 @@
       "word": "金巧巧 关于电影无名聊三句",
       "onboard_time": 1675305646,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 582230,
+      "num": 582230,
+      "word": "赵丽颖推荐王梓薇客串与凤行",
+      "onboard_time": 1676383778,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -9803,6 +9827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 565573,
+      "num": 565573,
+      "word": "张颂文给电鱼案设计了五个细节",
+      "onboard_time": 1676380475,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 564951,
       "num": 564951,
       "word": "光遇氪金送礼被封号",
@@ -10144,6 +10176,14 @@
       "word": "张颂文曾经是广东省最佳导游",
       "onboard_time": 1675489647,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 551749,
+      "num": 551749,
+      "word": "王鹤棣情人节营业照",
+      "onboard_time": 1676384261,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -13251,14 +13291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 428938,
-      "num": 428938,
-      "word": "张颂文给电鱼案设计了五个细节",
-      "onboard_time": 1676380475,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 428726,
       "num": 428726,
       "word": "可以不穿但是不能没有",
@@ -13385,14 +13417,6 @@
       "onboard_time": 1675853131,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423688,
-      "num": 423688,
-      "word": "TT对战WBG",
-      "onboard_time": 1676379936,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 423300,
@@ -13985,6 +14009,14 @@
       "onboard_time": 1676259989,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 406263,
+      "num": 406263,
+      "word": "中国足协主席陈戌源接受审查调查",
+      "onboard_time": 1676376575,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 406072,
@@ -15001,6 +15033,14 @@
       "onboard_time": 1676247987,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 379191,
+      "num": 379191,
+      "word": "你心目中改名最成功的大学",
+      "onboard_time": 1676375013,
+      "rank": 27,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 379088,
@@ -18035,14 +18075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307132,
-      "num": 307132,
-      "word": "你心目中改名最成功的大学",
-      "onboard_time": 1676375013,
-      "rank": 27,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 306858,
       "num": 306858,
       "word": "范世錡向刘耀文传授演戏经验",
@@ -19097,6 +19129,14 @@
       "onboard_time": 1676109265,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 288397,
+      "num": 288397,
+      "word": "CPI",
+      "onboard_time": 1676382632,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 288155,
@@ -20339,6 +20379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268467,
+      "num": 268467,
+      "word": "官方通报沛县城管撕春联",
+      "onboard_time": 1676382935,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268409,
       "num": 268409,
       "word": "鹿晗五哈和大爷打乒乓球路透",
@@ -21009,6 +21057,14 @@
       "onboard_time": 1676100086,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257429,
+      "num": 257429,
+      "word": "泰国将对外国游客征收入境费",
+      "onboard_time": 1676383536,
+      "rank": 38,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 257260,
@@ -21961,6 +22017,14 @@
       "onboard_time": 1675666767,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242070,
+      "num": 242070,
+      "word": "猫走失主人花5千请人10分钟找回",
+      "onboard_time": 1676382514,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241907,
@@ -27163,6 +27227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175294,
+      "num": 175294,
+      "word": "三体今晚大结局",
+      "onboard_time": 1676383900,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175150,
       "num": 165874,
       "word": "范丞丞支持电影中国乒乓",
@@ -30707,6 +30779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 123603,
+      "num": 1504712,
+      "word": "震后救援中的中国身影",
+      "onboard_time": 1676381077,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 122858,
       "num": 147211,
       "word": "阿豆TTG首秀",
@@ -31185,14 +31265,6 @@
       "onboard_time": 1676329458,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103675,
-      "num": 1370131,
-      "word": "震后救援中的中国身影",
-      "onboard_time": 1676381077,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 102904,
