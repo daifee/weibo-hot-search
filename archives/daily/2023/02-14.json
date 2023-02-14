@@ -1,6 +1,6 @@
 {
   "startTime": 1676305608565,
-  "endTime": 1676338940931,
+  "endTime": 1676340350660,
   "band_list": [
     {
       "raw_hot": 1972086,
@@ -67,6 +67,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1008874,
+      "num": 553552,
+      "word": "美俄亥俄州大量动物突然死亡",
+      "onboard_time": 1676338112,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 932981,
       "num": 932981,
       "word": "为什么年轻人都存不到钱",
@@ -99,6 +107,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 743482,
+      "num": 743482,
+      "word": "小学生满分作文跑题老师含泪打5分",
+      "onboard_time": 1676335412,
+      "rank": 5,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 742541,
       "num": 742541,
       "word": "安欣杭州分欣",
@@ -107,20 +123,20 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 687013,
-      "num": 687013,
-      "word": "小学生满分作文跑题老师含泪打5分",
-      "onboard_time": 1676335412,
-      "rank": 5,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 671687,
       "num": 671687,
       "word": "高启强给干爹的陈皮到底有多贵",
       "onboard_time": 1676287139,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 650583,
+      "num": 650583,
+      "word": "苹果iOS16.3.1正式版发布",
+      "onboard_time": 1676336975,
+      "rank": 8,
+      "category": "科技"
     },
     {
       "raw_hot": 650471,
@@ -139,12 +155,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 622705,
-      "num": 622705,
-      "word": "苹果iOS16.3.1正式版发布",
-      "onboard_time": 1676336975,
-      "rank": 8,
-      "category": "科技"
+      "raw_hot": 629843,
+      "num": 629843,
+      "word": "情人节文案",
+      "onboard_time": 1676330002,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 619838,
@@ -171,20 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 527390,
-      "num": 527390,
-      "word": "情人节文案",
-      "onboard_time": 1676330002,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 502279,
-      "num": 265599,
-      "word": "美俄亥俄州大量动物突然死亡",
-      "onboard_time": 1676338112,
-      "rank": 30,
-      "category": "国外要闻"
+      "raw_hot": 496073,
+      "num": 496073,
+      "word": "杭州情人节领证套餐走红",
+      "onboard_time": 1676338712,
+      "rank": 42,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 492720,
@@ -195,12 +203,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 441715,
-      "num": 441715,
+      "raw_hot": 491840,
+      "num": 491840,
       "word": "调降存量房贷利率呼声高涨",
       "onboard_time": 1676336134,
       "rank": 13,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 433937,
+      "num": 433937,
+      "word": "民众拍下俄亥俄毒云漫天恐怖场景",
+      "onboard_time": 1676338171,
+      "rank": 24,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 432866,
+      "num": 432866,
+      "word": "张艺兴情人节跳舞视频",
+      "onboard_time": 1676339372,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 410238,
@@ -307,12 +331,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 294994,
-      "num": 294994,
-      "word": "民众拍下俄亥俄毒云漫天恐怖场景",
-      "onboard_time": 1676338171,
-      "rank": 24,
-      "category": "国外要闻"
+      "raw_hot": 294597,
+      "num": 294597,
+      "word": "一夜不睡代谢崩溃",
+      "onboard_time": 1676339550,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290152,
@@ -363,12 +387,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264867,
+      "num": 264867,
+      "word": "宋妍霏纽约时装周看秀造型",
+      "onboard_time": 1676339731,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 259620,
       "num": 259620,
       "word": "涉毒演员含笑公司已被吊销",
       "onboard_time": 1676289707,
       "rank": 36,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 259386,
+      "num": 259386,
+      "word": "用户反馈iPhone通知bug",
+      "onboard_time": 1676339250,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 258198,
@@ -401,6 +441,14 @@
       "onboard_time": 1676298718,
       "rank": 26,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 233723,
+      "num": 233723,
+      "word": "戚薇翻牌营业连续连转12条",
+      "onboard_time": 1676339611,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 231631,
@@ -499,12 +547,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182280,
+      "num": 182280,
+      "word": "苹果联合创始人称AI永远取代不了人类",
+      "onboard_time": 1676338893,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 176524,
       "num": 176524,
       "word": "济南铁骑讲述狂飙护送伤者背后",
       "onboard_time": 1676304989,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175769,
+      "num": 175769,
+      "word": "天价彩礼是如何产生的",
+      "onboard_time": 1676339971,
+      "rank": 41,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 174720,
@@ -523,14 +587,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 168082,
-      "num": 168082,
-      "word": "杭州情人节领证套餐走红",
-      "onboard_time": 1676338712,
-      "rank": 42,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 166165,
       "num": 166165,
       "word": "像徐江会做的事",
@@ -545,6 +601,14 @@
       "onboard_time": 1676335590,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161637,
+      "num": 161637,
+      "word": "重庆山火救援的蝴蝶结女孩领证了",
+      "onboard_time": 1676340151,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159588,
@@ -617,14 +681,6 @@
       "onboard_time": 1676307144,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135389,
-      "num": 135389,
-      "word": "苹果联合创始人称AI永远取代不了人类",
-      "onboard_time": 1676338893,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 134137,

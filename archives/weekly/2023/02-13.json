@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676338940931,
+  "endTime": 1676340350660,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -355,6 +355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1008874,
+      "num": 553552,
+      "word": "美俄亥俄州大量动物突然死亡",
+      "onboard_time": 1676338112,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1002772,
       "num": 1002772,
       "word": "张颂文曾指导王一博演至尊宝",
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743482,
+      "num": 743482,
+      "word": "小学生满分作文跑题老师含泪打5分",
+      "onboard_time": 1676335412,
+      "rank": 5,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 742541,
       "num": 742541,
       "word": "安欣杭州分欣",
@@ -641,14 +657,6 @@
       "onboard_time": 1676259929,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 687013,
-      "num": 687013,
-      "word": "小学生满分作文跑题老师含泪打5分",
-      "onboard_time": 1676335412,
-      "rank": 5,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 686298,
@@ -731,6 +739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 650583,
+      "num": 650583,
+      "word": "苹果iOS16.3.1正式版发布",
+      "onboard_time": 1676336975,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 650471,
       "num": 650471,
       "word": "东极岛海誓山盟石碑碎了",
@@ -755,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 629843,
+      "num": 629843,
+      "word": "情人节文案",
+      "onboard_time": 1676330002,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 629245,
       "num": 629245,
       "word": "你什么档次和我坐一辆火车",
@@ -769,14 +793,6 @@
       "onboard_time": 1676245103,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 622705,
-      "num": 622705,
-      "word": "苹果iOS16.3.1正式版发布",
-      "onboard_time": 1676336975,
-      "rank": 8,
-      "category": "科技"
     },
     {
       "raw_hot": 619838,
@@ -939,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 527390,
-      "num": 527390,
-      "word": "情人节文案",
-      "onboard_time": 1676330002,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 523061,
       "num": 523061,
       "word": "升降火锅",
@@ -1019,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 502279,
-      "num": 265599,
-      "word": "美俄亥俄州大量动物突然死亡",
-      "onboard_time": 1676338112,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 498332,
       "num": 472253,
       "word": "土耳其彻查地震中大量建筑倒塌问题",
@@ -1035,12 +1035,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496073,
+      "num": 496073,
+      "word": "杭州情人节领证套餐走红",
+      "onboard_time": 1676338712,
+      "rank": 42,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 493615,
       "num": 493615,
       "word": "梅德韦杰夫预言欧洲将彻底消失",
       "onboard_time": 1676214035,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 491840,
+      "num": 491840,
+      "word": "调降存量房贷利率呼声高涨",
+      "onboard_time": 1676336134,
+      "rank": 13,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 485778,
@@ -1155,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 441715,
-      "num": 441715,
-      "word": "调降存量房贷利率呼声高涨",
-      "onboard_time": 1676336134,
-      "rank": 13,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 440960,
       "num": 440960,
       "word": "美军高官称不排除被击落物体来自外星",
@@ -1187,12 +1195,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433937,
+      "num": 433937,
+      "word": "民众拍下俄亥俄毒云漫天恐怖场景",
+      "onboard_time": 1676338171,
+      "rank": 24,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 433147,
       "num": 433147,
       "word": "王俊凯白色镂空毛衣造型",
       "onboard_time": 1676258487,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 432866,
+      "num": 432866,
+      "word": "张艺兴情人节跳舞视频",
+      "onboard_time": 1676339372,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 431072,
@@ -1715,12 +1739,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 294994,
-      "num": 294994,
-      "word": "民众拍下俄亥俄毒云漫天恐怖场景",
-      "onboard_time": 1676338171,
-      "rank": 24,
-      "category": "国外要闻"
+      "raw_hot": 294597,
+      "num": 294597,
+      "word": "一夜不睡代谢崩溃",
+      "onboard_time": 1676339550,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294223,
@@ -1891,12 +1915,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264867,
+      "num": 264867,
+      "word": "宋妍霏纽约时装周看秀造型",
+      "onboard_time": 1676339731,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 262902,
       "num": 262902,
       "word": "沈腾说给瑶琴唱樱桃曲是后加的",
       "onboard_time": 1676265593,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259386,
+      "num": 259386,
+      "word": "用户反馈iPhone通知bug",
+      "onboard_time": 1676339250,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 259241,
@@ -2064,6 +2104,14 @@
       "word": "电影闪电侠正式预告",
       "onboard_time": 1676255068,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 233723,
+      "num": 233723,
+      "word": "戚薇翻牌营业连续连转12条",
+      "onboard_time": 1676339611,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -2411,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182280,
+      "num": 182280,
+      "word": "苹果联合创始人称AI永远取代不了人类",
+      "onboard_time": 1676338893,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 179183,
       "num": 179183,
       "word": "李培楠孤勇者",
@@ -2449,6 +2505,14 @@
       "onboard_time": 1676280161,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175769,
+      "num": 175769,
+      "word": "天价彩礼是如何产生的",
+      "onboard_time": 1676339971,
+      "rank": 41,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 175497,
@@ -2555,14 +2619,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 168082,
-      "num": 168082,
-      "word": "杭州情人节领证套餐走红",
-      "onboard_time": 1676338712,
-      "rank": 42,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 167803,
       "num": 167803,
       "word": "听说你喜欢我情敌上线",
@@ -2601,6 +2657,14 @@
       "onboard_time": 1676250267,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161637,
+      "num": 161637,
+      "word": "重庆山火救援的蝴蝶结女孩领证了",
+      "onboard_time": 1676340151,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160273,
@@ -2729,14 +2793,6 @@
       "onboard_time": 1676307144,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135389,
-      "num": 135389,
-      "word": "苹果联合创始人称AI永远取代不了人类",
-      "onboard_time": 1676338893,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 134685,
