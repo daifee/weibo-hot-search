@@ -1,0 +1,410 @@
+{
+  "runTime": 1676355897472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1440215,
+        "num": 1440215,
+        "word": "爸爸因姜姓难取名给孩子叫去寒",
+        "onboard_time": 1676342791,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1148889,
+        "num": 1148889,
+        "word": "九尾",
+        "onboard_time": 1676351795,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74597,
+        "num": 1032569,
+        "word": "中国乡村振兴定能结出累累果实",
+        "onboard_time": 1676343644,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937463,
+        "num": 937463,
+        "word": "富婆音",
+        "onboard_time": 1676351137,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 927781,
+        "num": 927781,
+        "word": "河南多地发生巨响",
+        "onboard_time": 1676353352,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777348,
+        "num": 777348,
+        "word": "东极镇政府回应海誓山盟碑碎了",
+        "onboard_time": 1676352155,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686383,
+        "num": 686383,
+        "word": "美俄亥俄州大量动物突然死亡",
+        "onboard_time": 1676338112,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 672627,
+        "num": 672627,
+        "word": "周黑鸭业绩大降超90%",
+        "onboard_time": 1676343871,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 651906,
+        "num": 651906,
+        "word": "刘浩存的古装扮相",
+        "onboard_time": 1676352513,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548493,
+        "num": 548493,
+        "word": "杨洋再不进组这就是你的归宿",
+        "onboard_time": 1676341532,
+        "rank": 9,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 488917,
+        "num": 488917,
+        "word": "Viper捐款7000万韩元",
+        "onboard_time": 1676354914,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 441211,
+        "num": 441211,
+        "word": "杨紫太阳花气球随拍",
+        "onboard_time": 1676354312,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430719,
+        "num": 430719,
+        "word": "28岁单身女孩情人节前崩溃大哭",
+        "onboard_time": 1676341052,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 386720,
+        "num": 386720,
+        "word": "陈乔恩贾冰新片姐弟恋",
+        "onboard_time": 1676348621,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 354479,
+        "num": 354479,
+        "word": "肖战如梦之梦最新视频",
+        "onboard_time": 1676350059,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345758,
+        "num": 345758,
+        "word": "李秀满只负责SMTOWN海外制作",
+        "onboard_time": 1676351377,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341976,
+        "num": 341976,
+        "word": "武康路 郁金香",
+        "onboard_time": 1676355271,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 341976,
+        "num": 341976,
+        "word": "风波亭沙漏",
+        "onboard_time": 1676355689,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341230,
+        "num": 341230,
+        "word": "花儿与少年5",
+        "onboard_time": 1676343393,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337557,
+        "num": 337557,
+        "word": "张子枫胡先煦新片演夫妻",
+        "onboard_time": 1676341532,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 575582,
+        "num": 324988,
+        "word": "女孩与他人喝酒过夜当街与男友争吵",
+        "onboard_time": 1676348076,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311207,
+        "num": 311207,
+        "word": "威马汽车回应全员停薪留职",
+        "onboard_time": 1676349583,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 291307,
+        "num": 291307,
+        "word": "微信可以发520红包了",
+        "onboard_time": 1676355092,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 289922,
+        "num": 289922,
+        "word": "名侦探柯南情人节贺图",
+        "onboard_time": 1676349278,
+        "rank": 23,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 278694,
+        "num": 278694,
+        "word": "2023年多省公务员扩招超50%",
+        "onboard_time": 1676341234,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269722,
+        "num": 269722,
+        "word": "王霏霏Min合体梦回missA",
+        "onboard_time": 1676348559,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242422,
+        "num": 242422,
+        "word": "粤康码多项服务于2月16日11时起停止",
+        "onboard_time": 1676353112,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240347,
+        "num": 240347,
+        "word": "三体古筝行动 震撼",
+        "onboard_time": 1676350362,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235682,
+        "num": 235682,
+        "word": "被我弄丢两次的王斤斤阵容官宣",
+        "onboard_time": 1676349402,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181298,
+        "num": 233896,
+        "word": "俄亥俄州已有居民出现头痛恶心症状",
+        "onboard_time": 1676355331,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232802,
+        "num": 232802,
+        "word": "情人节文案",
+        "onboard_time": 1676330002,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228541,
+        "num": 228541,
+        "word": "女子深夜打车被司机辱骂出去卖的",
+        "onboard_time": 1676345194,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209591,
+        "num": 209591,
+        "word": "低价机票投放为何重要",
+        "onboard_time": 1676354612,
+        "rank": 32,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 196625,
+        "num": 196625,
+        "word": "张碧晨说下个目标是开飞机",
+        "onboard_time": 1676351675,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191428,
+        "num": 191428,
+        "word": "如梦之梦",
+        "onboard_time": 1676353352,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188395,
+        "num": 188395,
+        "word": "男子分手后起诉女方返还彩礼",
+        "onboard_time": 1676346037,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179016,
+        "num": 179016,
+        "word": "诺如病毒",
+        "onboard_time": 1676335471,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172992,
+        "num": 172992,
+        "word": "俄亥俄州官方称居民可以安全返回家园",
+        "onboard_time": 1676349877,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 170788,
+        "num": 170788,
+        "word": "杭州地铁口惊现玫瑰瀑布",
+        "onboard_time": 1676342012,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 170564,
+        "num": 170564,
+        "word": "缉毒警怕出意外曾与女友提分手",
+        "onboard_time": 1676355569,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170346,
+        "num": 170346,
+        "word": "再见爱人嘉宾和18天前的自己对话",
+        "onboard_time": 1676351736,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168655,
+        "num": 168655,
+        "word": "杨紫范丞丞新剧199爱情人节海报",
+        "onboard_time": 1676346995,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157180,
+        "num": 157180,
+        "word": "一夜不睡代谢崩溃",
+        "onboard_time": 1676339550,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151857,
+        "num": 151857,
+        "word": "情人节",
+        "onboard_time": 1676332347,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151738,
+        "num": 151738,
+        "word": "2023ChinaJoy确认将在上海举办",
+        "onboard_time": 1676355631,
+        "rank": 44,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 150898,
+        "num": 150898,
+        "word": "劝分组",
+        "onboard_time": 1676344771,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145238,
+        "num": 145238,
+        "word": "房贷年龄延至80岁意味着什么",
+        "onboard_time": 1676344655,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 143360,
+        "num": 143360,
+        "word": "安乐传",
+        "onboard_time": 1676343934,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141768,
+        "num": 141768,
+        "word": "网传洪知秀权顺荣将在迪拜拍摄新综艺",
+        "onboard_time": 1676349521,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140933,
+        "num": 140933,
+        "word": "高中女生自曝继父在其房间装摄像头",
+        "onboard_time": 1676355870,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}
