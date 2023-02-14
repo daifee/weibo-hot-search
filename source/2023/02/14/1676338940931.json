@@ -1,0 +1,410 @@
+{
+  "runTime": 1676338940931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1972086,
+        "num": 1972086,
+        "word": "诺如病毒",
+        "onboard_time": 1676335471,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1640037,
+        "num": 1640037,
+        "word": "女性面试被HR反复盘问性别歧视肉眼可见",
+        "onboard_time": 1676335651,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58152,
+        "num": 1156969,
+        "word": "中国救援队已营救多名被困者",
+        "onboard_time": 1676290379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932981,
+        "num": 932981,
+        "word": "为什么年轻人都存不到钱",
+        "onboard_time": 1676336192,
+        "rank": 3,
+        "category": "情感,财经"
+      },
+      {
+        "raw_hot": 806657,
+        "num": 806657,
+        "word": "民众拍下俄亥俄州东巴勒斯坦城上空景象",
+        "onboard_time": 1676331264,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 687013,
+        "num": 687013,
+        "word": "小学生满分作文跑题老师含泪打5分",
+        "onboard_time": 1676335412,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 650471,
+        "num": 650471,
+        "word": "东极岛海誓山盟石碑碎了",
+        "onboard_time": 1676333851,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 639566,
+        "num": 639566,
+        "word": "婚房烂尾10年业主住进毛坯房",
+        "onboard_time": 1676313735,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 622705,
+        "num": 622705,
+        "word": "苹果iOS16.3.1正式版发布",
+        "onboard_time": 1676336975,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 619838,
+        "num": 619838,
+        "word": "情人节",
+        "onboard_time": 1676332347,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 619661,
+        "num": 619661,
+        "word": "美国脱轨列车上有毒化学品就地排放燃烧",
+        "onboard_time": 1676333370,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527390,
+        "num": 527390,
+        "word": "情人节文案",
+        "onboard_time": 1676330002,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 498728,
+        "num": 498728,
+        "word": "孕妇如厕时生产婴儿被卡蹲便器",
+        "onboard_time": 1676303914,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441715,
+        "num": 441715,
+        "word": "调降存量房贷利率呼声高涨",
+        "onboard_time": 1676336134,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 391445,
+        "num": 391445,
+        "word": "爱与被爱同时发生的瞬间",
+        "onboard_time": 1676332832,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386223,
+        "num": 386223,
+        "word": "超20%大学生认为毕业后月薪能过万",
+        "onboard_time": 1676300638,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 364963,
+        "num": 364963,
+        "word": "高启强给干爹的陈皮到底有多贵",
+        "onboard_time": 1676287139,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345048,
+        "num": 345048,
+        "word": "睡觉早更好还是睡觉晚更好",
+        "onboard_time": 1676304212,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339164,
+        "num": 339164,
+        "word": "安欣杭州分欣",
+        "onboard_time": 1676302534,
+        "rank": 18,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 316553,
+        "num": 316553,
+        "word": "今天拍到爱情了",
+        "onboard_time": 1676336914,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 308779,
+        "num": 308779,
+        "word": "情人节早晨北京现粉红色朝霞",
+        "onboard_time": 1676334571,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305627,
+        "num": 305627,
+        "word": "唐国强 演员的成功靠文化底蕴",
+        "onboard_time": 1676331506,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303063,
+        "num": 303063,
+        "word": "广东诺如病毒进入高发期",
+        "onboard_time": 1676302956,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301361,
+        "num": 301361,
+        "word": "半莲池 罗云熙杨超越",
+        "onboard_time": 1676333308,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294994,
+        "num": 294994,
+        "word": "民众拍下俄亥俄毒云漫天恐怖场景",
+        "onboard_time": 1676338171,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 290152,
+        "num": 290152,
+        "word": "女性求职被问是否愿意3年不生娃",
+        "onboard_time": 1676334035,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288110,
+        "num": 288110,
+        "word": "Cat女朋友",
+        "onboard_time": 1676300080,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278082,
+        "num": 278082,
+        "word": "张萌 演员到底需不需要有文化",
+        "onboard_time": 1676293723,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275235,
+        "num": 275235,
+        "word": "老人喝隔夜牛肉汤住进ICU",
+        "onboard_time": 1676318952,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266055,
+        "num": 266055,
+        "word": "成都最隐秘的鬼市",
+        "onboard_time": 1676311457,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 502279,
+        "num": 265599,
+        "word": "美俄亥俄州大量动物突然死亡",
+        "onboard_time": 1676338112,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 265141,
+        "num": 265141,
+        "word": "俄亥俄",
+        "onboard_time": 1676284121,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1745999,
+        "num": 264756,
+        "word": "211女生毕业5年存款仅5千",
+        "onboard_time": 1676296014,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 255471,
+        "num": 255471,
+        "word": "人为什么要追星呢",
+        "onboard_time": 1676331925,
+        "rank": 33,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 218070,
+        "num": 218070,
+        "word": "原来电影票可以这样退",
+        "onboard_time": 1676301698,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203385,
+        "num": 203385,
+        "word": "情人节怎么过最柠檬",
+        "onboard_time": 1676337216,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 192974,
+        "num": 192974,
+        "word": "chatgpt 狗狗叫三万的原因",
+        "onboard_time": 1676331683,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 189887,
+        "num": 189887,
+        "word": "人民日报社论",
+        "onboard_time": 1676336436,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 186722,
+        "num": 186722,
+        "word": "六公主赞显微镜下的大明",
+        "onboard_time": 1676331143,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176583,
+        "num": 176583,
+        "word": "常州某小学启用作业九点熔断机制",
+        "onboard_time": 1676299362,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 174720,
+        "num": 174720,
+        "word": "杜兰特太阳首次训练",
+        "onboard_time": 1676336614,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168598,
+        "num": 168598,
+        "word": "多省明确试点现房销售",
+        "onboard_time": 1676333851,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 168082,
+        "num": 168082,
+        "word": "杭州情人节领证套餐走红",
+        "onboard_time": 1676338712,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 166165,
+        "num": 166165,
+        "word": "像徐江会做的事",
+        "onboard_time": 1676333731,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164800,
+        "num": 164800,
+        "word": "张元英LoveDive舞台",
+        "onboard_time": 1676335590,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160950,
+        "num": 160950,
+        "word": "姐弟坠亡案父亲连写三封信求原谅",
+        "onboard_time": 1676287079,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158082,
+        "num": 158082,
+        "word": "官方回应城管收走孩子写作业桌子",
+        "onboard_time": 1676295953,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149548,
+        "num": 149548,
+        "word": "俄亥俄州氯乙烯泄漏当地有动物死亡",
+        "onboard_time": 1676333671,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 147096,
+        "num": 147096,
+        "word": "郭帆回应外国观众不理解怎么办",
+        "onboard_time": 1676330541,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135389,
+        "num": 135389,
+        "word": "苹果联合创始人称AI永远取代不了人类",
+        "onboard_time": 1676338893,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}
