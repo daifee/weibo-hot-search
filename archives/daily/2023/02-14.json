@@ -1,6 +1,6 @@
 {
   "startTime": 1676305608565,
-  "endTime": 1676378385165,
+  "endTime": 1676379533406,
   "band_list": [
     {
       "raw_hot": 3382879,
@@ -9,6 +9,14 @@
       "onboard_time": 1676367513,
       "rank": 0,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 3146271,
+      "num": 914710,
+      "word": "黄子韬徐艺洋 情人节团建",
+      "onboard_time": 1676378317,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 3085330,
@@ -27,7 +35,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2729149,
+      "raw_hot": 2745513,
       "num": 810057,
       "word": "情人节偶遇黄子韬徐艺洋",
       "onboard_time": 1676375734,
@@ -49,6 +57,14 @@
       "onboard_time": 1676372132,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2566023,
+      "num": 2566023,
+      "word": "顺丰寄爱马仕包运输中被烧毁",
+      "onboard_time": 1676377114,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2495233,
@@ -195,14 +211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1330664,
-      "num": 791891,
-      "word": "顺丰寄爱马仕包运输中被烧毁",
-      "onboard_time": 1676377114,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1311293,
       "num": 1311293,
       "word": "接吻时身体会有这些反应",
@@ -217,6 +225,14 @@
       "onboard_time": 1676367395,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1227334,
+      "num": 1227334,
+      "word": "王传君说大家对王一博有一些误解",
+      "onboard_time": 1676376274,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1176159,
@@ -291,14 +307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1101864,
-      "num": 1101864,
-      "word": "王传君说大家对王一博有一些误解",
-      "onboard_time": 1676376274,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1074340,
       "num": 504277,
       "word": "张萌 演员到底需不需要有文化",
@@ -321,6 +329,14 @@
       "onboard_time": 1676300638,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1044395,
+      "num": 1044395,
+      "word": "68岁环卫工被茶百道员工殴打住院",
+      "onboard_time": 1676376873,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1028138,
@@ -355,6 +371,14 @@
       "category": "情感,财经"
     },
     {
+      "raw_hot": 931588,
+      "num": 931588,
+      "word": "鸭脖为何卖不动了",
+      "onboard_time": 1676375913,
+      "rank": 8,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 929360,
       "num": 619838,
       "word": "情人节",
@@ -379,14 +403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 899133,
-      "num": 778557,
-      "word": "68岁环卫工被茶百道员工殴打住院",
-      "onboard_time": 1676376873,
-      "rank": 13,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 887672,
       "num": 887672,
       "word": "劝分组",
@@ -409,14 +425,6 @@
       "onboard_time": 1676304212,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 867455,
-      "num": 867455,
-      "word": "鸭脖为何卖不动了",
-      "onboard_time": 1676375913,
-      "rank": 8,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 865609,
@@ -611,19 +619,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 664852,
+      "num": 664852,
+      "word": "女孩回应向叙利亚捐6000包卫生巾",
+      "onboard_time": 1676376995,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 656278,
       "num": 656278,
       "word": "王霏霏Min合体梦回missA",
       "onboard_time": 1676348559,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 654553,
-      "num": 654553,
-      "word": "黄子韬徐艺洋 情人节团建",
-      "onboard_time": 1676378317,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -723,14 +731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 576379,
-      "num": 576379,
-      "word": "女孩回应向叙利亚捐6000包卫生巾",
-      "onboard_time": 1676376995,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 574195,
       "num": 574195,
       "word": "杨紫范丞丞新剧199爱情人节海报",
@@ -819,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 522415,
+      "num": 522415,
+      "word": "SEVENTEEN直播",
+      "onboard_time": 1676378916,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 520203,
       "num": 520203,
       "word": "赵丽颖情人节花絮图",
@@ -865,6 +873,14 @@
       "onboard_time": 1676338712,
       "rank": 42,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 493507,
+      "num": 384501,
+      "word": "朴灿烈吴世勋情人节视频",
+      "onboard_time": 1676379096,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 492720,
@@ -1219,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348881,
+      "num": 348881,
+      "word": "女生称继父在其房间装摄像头多部门已介入",
+      "onboard_time": 1676377474,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345829,
       "num": 345829,
       "word": "电影周边是否可以萌化反面人物",
@@ -1339,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307132,
+      "num": 307132,
+      "word": "你心目中改名最成功的大学",
+      "onboard_time": 1676375013,
+      "rank": 27,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 306758,
       "num": 306758,
       "word": "杨超越感谢刘宇宁为重紫献声",
@@ -1369,14 +1401,6 @@
       "onboard_time": 1676350779,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 301965,
-      "num": 301965,
-      "word": "你心目中改名最成功的大学",
-      "onboard_time": 1676375013,
-      "rank": 27,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 301361,
@@ -1441,6 +1465,14 @@
       "onboard_time": 1676285986,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289025,
+      "num": 289025,
+      "word": "欧冠",
+      "onboard_time": 1676377717,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 287983,
@@ -1595,6 +1627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 260128,
+      "num": 260128,
+      "word": "阮流筝说不敢喜欢宁至谦",
+      "onboard_time": 1676379037,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 259620,
       "num": 259620,
       "word": "涉毒演员含笑公司已被吊销",
@@ -1723,6 +1763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226340,
+      "num": 226340,
+      "word": "家人一碗水端不平是怎样的体验",
+      "onboard_time": 1676377957,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224820,
       "num": 224820,
       "word": "郭帆回应外国观众不理解怎么办",
@@ -1769,30 +1817,6 @@
       "onboard_time": 1676349100,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214952,
-      "num": 214952,
-      "word": "女生称继父在其房间装摄像头多部门已介入",
-      "onboard_time": 1676377474,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214450,
-      "num": 214450,
-      "word": "家人一碗水端不平是怎样的体验",
-      "onboard_time": 1676377957,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 213755,
-      "num": 213755,
-      "word": "欧冠",
-      "onboard_time": 1676377717,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 213653,
@@ -1907,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197583,
+      "num": 197583,
+      "word": "中国足球狂飙",
+      "onboard_time": 1676379156,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196851,
       "num": 196851,
       "word": "情人节单身的有福了",
@@ -2003,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187943,
+      "num": 187943,
+      "word": "半熟恋人",
+      "onboard_time": 1676374955,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187186,
       "num": 187186,
       "word": "白鹿情人节plog",
@@ -2027,14 +2067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184086,
-      "num": 184086,
-      "word": "半熟恋人",
-      "onboard_time": 1676374955,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183901,
       "num": 183901,
       "word": "沉香如屑韩国宣传视频",
@@ -2051,6 +2083,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 180812,
+      "num": 180812,
+      "word": "男子反复缴费套取蚂蚁森林能量被封号",
+      "onboard_time": 1676379334,
+      "rank": 45,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 178668,
       "num": 178668,
       "word": "天价彩礼是如何产生的",
@@ -2065,6 +2105,14 @@
       "onboard_time": 1676304989,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175652,
+      "num": 175652,
+      "word": "邓紫棋情人节唱西语情歌",
+      "onboard_time": 1676379156,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 174763,
