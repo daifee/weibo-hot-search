@@ -1,6 +1,6 @@
 {
   "startTime": 1676305608565,
-  "endTime": 1676384298022,
+  "endTime": 1676385300215,
   "band_list": [
     {
       "raw_hot": 3382879,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1157443,
+      "num": 1157443,
+      "word": "怀孕时被拐卖女子欲追责人贩",
+      "onboard_time": 1676379696,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1154795,
       "num": 1154795,
       "word": "富婆音",
@@ -296,14 +304,6 @@
       "word": "广东诺如病毒进入高发期",
       "onboard_time": 1676302956,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1137807,
-      "num": 1137807,
-      "word": "怀孕时被拐卖女子欲追责人贩",
-      "onboard_time": 1676379696,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -363,6 +363,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1043388,
+      "num": 1043388,
+      "word": "赵丽颖推荐王梓薇客串与凤行",
+      "onboard_time": 1676383778,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1028138,
       "num": 1028138,
       "word": "河南多地发生巨响",
@@ -419,6 +427,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 913102,
+      "num": 913102,
+      "word": "TT对战WBG",
+      "onboard_time": 1676379936,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 906071,
       "num": 906071,
       "word": "Cat女朋友",
@@ -465,6 +481,14 @@
       "onboard_time": 1676350298,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 856652,
+      "num": 856652,
+      "word": "王鹤棣情人节营业照",
+      "onboard_time": 1676384261,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 854136,
@@ -555,11 +579,11 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 751414,
-      "num": 751414,
-      "word": "TT对战WBG",
-      "onboard_time": 1676379936,
-      "rank": 21,
+      "raw_hot": 759228,
+      "num": 759228,
+      "word": "TT战胜WBG",
+      "onboard_time": 1676384917,
+      "rank": 13,
       "category": "游戏"
     },
     {
@@ -779,14 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 582230,
-      "num": 582230,
-      "word": "赵丽颖推荐王梓薇客串与凤行",
-      "onboard_time": 1676383778,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 574195,
       "num": 574195,
       "word": "杨紫范丞丞新剧199爱情人节海报",
@@ -859,20 +875,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558492,
+      "num": 558492,
+      "word": "泰国将对外国游客征收入境费",
+      "onboard_time": 1676383536,
+      "rank": 38,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 554480,
       "num": 395066,
       "word": "女子深夜打车被司机辱骂出去卖的",
       "onboard_time": 1676345194,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 551749,
-      "num": 551749,
-      "word": "王鹤棣情人节营业照",
-      "onboard_time": 1676384261,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 545695,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1676371474,
       "rank": 17,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 456081,
+      "num": 456081,
+      "word": "杜海涛因为一碗米饭对沈梦辰上头",
+      "onboard_time": 1676384318,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 453424,
@@ -1395,6 +1419,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 335183,
+      "num": 335183,
+      "word": "官方通报沛县城管撕春联",
+      "onboard_time": 1676382935,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332623,
       "num": 332623,
       "word": "虞书欣许凯仙剑六情人节海报",
@@ -1707,14 +1739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 268467,
-      "num": 268467,
-      "word": "官方通报沛县城管撕春联",
-      "onboard_time": 1676382935,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266055,
       "num": 266055,
       "word": "成都最隐秘的鬼市",
@@ -1769,14 +1793,6 @@
       "onboard_time": 1676295340,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257429,
-      "num": 257429,
-      "word": "泰国将对外国游客征收入境费",
-      "onboard_time": 1676383536,
-      "rank": 38,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 256911,
@@ -2139,6 +2155,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 192650,
+      "num": 192650,
+      "word": "猫除了猫窝哪里都喜欢",
+      "onboard_time": 1676384677,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 192427,
       "num": 192427,
       "word": "年过八旬的爷爷情人节送花给老伴",
@@ -2331,6 +2355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163514,
+      "num": 163514,
+      "word": "女生情人节垃圾桶捡到积木城堡",
+      "onboard_time": 1676385217,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162772,
       "num": 162772,
       "word": "这就是情人节最好的礼物吧",
@@ -2475,6 +2507,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 131564,
+      "num": 1504712,
+      "word": "震后救援中的中国身影",
+      "onboard_time": 1676381077,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 126940,
       "num": 126940,
       "word": "Doinb爆料FPX寄了",
@@ -2497,14 +2537,6 @@
       "onboard_time": 1676368354,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123603,
-      "num": 1504712,
-      "word": "震后救援中的中国身影",
-      "onboard_time": 1676381077,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 120146,
