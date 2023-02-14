@@ -1,6 +1,6 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676416747558,
+  "endTime": 1676417630804,
   "band_list": [
     {
       "raw_hot": 1509306,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1283823,
-      "num": 471064,
+      "num": 478589,
       "word": "黄子韬徐艺洋 情人节团建",
       "onboard_time": 1676378317,
       "rank": 10,
@@ -43,12 +43,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 755868,
-      "num": 755868,
+      "raw_hot": 801074,
+      "num": 801074,
       "word": "宁夏一地倡导女婿赡养岳父母",
       "onboard_time": 1676411651,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 777485,
+      "num": 777485,
+      "word": "18岁喜欢的人27岁还在身边",
+      "onboard_time": 1676415737,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 632321,
@@ -57,6 +65,14 @@
       "onboard_time": 1676384318,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 605063,
+      "num": 605063,
+      "word": "西周大墓发现三层43具殉人布满墓道",
+      "onboard_time": 1676396178,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590366,
@@ -83,12 +99,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 500791,
-      "num": 500791,
-      "word": "西周大墓发现三层43具殉人布满墓道",
-      "onboard_time": 1676396178,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 498865,
+      "num": 498865,
+      "word": "杯具熊 王一博的一件小事",
+      "onboard_time": 1676417362,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 491038,
@@ -171,6 +187,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 384278,
+      "num": 384278,
+      "word": "氯乙烯",
+      "onboard_time": 1676417001,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378157,
       "num": 378157,
       "word": "68岁环卫工被茶百道员工殴打住院",
@@ -187,12 +211,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 317387,
-      "num": 317387,
-      "word": "18岁喜欢的人27岁还在身边",
-      "onboard_time": 1676415737,
-      "rank": 9,
-      "category": "情感"
+      "raw_hot": 346998,
+      "num": 346998,
+      "word": "巴黎圣日耳曼vs拜仁慕尼黑",
+      "onboard_time": 1676387859,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 313846,
@@ -201,14 +225,6 @@
       "onboard_time": 1676383536,
       "rank": 22,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 312073,
-      "num": 312073,
-      "word": "巴黎圣日耳曼vs拜仁慕尼黑",
-      "onboard_time": 1676387859,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 310324,
@@ -275,6 +291,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240318,
+      "num": 240318,
+      "word": "韩国民众向土耳其捐赠大量脏衣服",
+      "onboard_time": 1676374354,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240205,
+      "num": 240205,
+      "word": "成都迎来今年第一个扯证高峰",
+      "onboard_time": 1676392705,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217333,
       "num": 217333,
       "word": "你心目中改名最成功的大学",
@@ -291,20 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201515,
-      "num": 201515,
-      "word": "成都迎来今年第一个扯证高峰",
-      "onboard_time": 1676392705,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198403,
-      "num": 198403,
-      "word": "韩国民众向土耳其捐赠大量脏衣服",
-      "onboard_time": 1676374354,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 199993,
+      "num": 199993,
+      "word": "原来猛兽的睡姿是这样的",
+      "onboard_time": 1676410093,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 197087,
@@ -323,20 +347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190058,
+      "num": 157082,
+      "word": "男子130预定玫瑰情人节加价至248",
+      "onboard_time": 1676416941,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189896,
+      "num": 189896,
+      "word": "邓超情人节送孙俪一盆菜",
+      "onboard_time": 1676371652,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189800,
       "num": 189800,
       "word": "这种浪漫不要也罢",
       "onboard_time": 1676391268,
       "rank": 39,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 189136,
-      "num": 189136,
-      "word": "原来猛兽的睡姿是这样的",
-      "onboard_time": 1676410093,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 188746,
@@ -363,12 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173365,
-      "num": 173365,
-      "word": "邓超情人节送孙俪一盆菜",
-      "onboard_time": 1676371652,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 175437,
+      "num": 175437,
+      "word": "揭开北京二手房成交率提升的真相",
+      "onboard_time": 1676414717,
+      "rank": 24,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 170193,
@@ -411,14 +443,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 152667,
-      "num": 152667,
-      "word": "揭开北京二手房成交率提升的真相",
-      "onboard_time": 1676414717,
-      "rank": 24,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 152287,
       "num": 152287,
       "word": "樊治欣直播连麦路人误入",
@@ -441,6 +465,14 @@
       "onboard_time": 1676380359,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140712,
+      "num": 140712,
+      "word": "男子称捡到女生为其生孩子系谣言",
+      "onboard_time": 1676417242,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139124,
@@ -467,20 +499,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96962,
-      "num": 96962,
+      "raw_hot": 105337,
+      "num": 105337,
+      "word": "李靓蕾再发律师声明",
+      "onboard_time": 1676379819,
+      "rank": 49,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 99791,
+      "num": 99791,
       "word": "欧冠",
       "onboard_time": 1676377717,
       "rank": 37,
       "category": "体育"
     },
     {
-      "raw_hot": 84703,
-      "num": 84703,
-      "word": "李靓蕾再发律师声明",
-      "onboard_time": 1676379819,
+      "raw_hot": 98260,
+      "num": 98260,
+      "word": "海贼王1051",
+      "onboard_time": 1676405891,
       "rank": 49,
-      "category": "社会新闻,艺人"
+      "category": "动漫"
     },
     {
       "raw_hot": 80966,
@@ -489,14 +529,6 @@
       "onboard_time": 1676375734,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 78215,
-      "num": 78215,
-      "word": "海贼王1051",
-      "onboard_time": 1676405891,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 66478,
@@ -523,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 55416,
+      "num": 896459,
+      "word": "震后救援中的中国身影",
+      "onboard_time": 1676381077,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 48382,
       "num": 48382,
       "word": "3千多年前的大型聚落遗址重见天日",
@@ -537,14 +577,6 @@
       "onboard_time": 1676402773,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47763,
-      "num": 896459,
-      "word": "震后救援中的中国身影",
-      "onboard_time": 1676381077,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
