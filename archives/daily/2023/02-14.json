@@ -1,6 +1,6 @@
 {
   "startTime": 1676305608565,
-  "endTime": 1676348631862,
+  "endTime": 1676349573545,
   "band_list": [
     {
       "raw_hot": 2982051,
@@ -51,8 +51,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1730118,
-      "num": 1730118,
+      "raw_hot": 1736293,
+      "num": 1736293,
       "word": "周黑鸭业绩大降超90%",
       "onboard_time": 1676343871,
       "rank": 9,
@@ -203,12 +203,28 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 672795,
+      "num": 404539,
+      "word": "女孩与他人喝酒过夜当街与男友争吵",
+      "onboard_time": 1676348076,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671687,
       "num": 671687,
       "word": "高启强给干爹的陈皮到底有多贵",
       "onboard_time": 1676287139,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 656278,
+      "num": 656278,
+      "word": "王霏霏Min合体梦回missA",
+      "onboard_time": 1676348559,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 650583,
@@ -275,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 574195,
+      "num": 574195,
+      "word": "杨紫范丞丞新剧199爱情人节海报",
+      "onboard_time": 1676346995,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 574110,
       "num": 574110,
       "word": "一夜不睡代谢崩溃",
@@ -321,14 +345,6 @@
       "onboard_time": 1676345194,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 549534,
-      "num": 549534,
-      "word": "杨紫范丞丞新剧199爱情人节海报",
-      "onboard_time": 1676346995,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 520203,
@@ -417,6 +433,22 @@
       "onboard_time": 1676339372,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 417986,
+      "num": 417986,
+      "word": "被我弄丢两次的王斤斤阵容官宣",
+      "onboard_time": 1676349402,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 411761,
+      "num": 411761,
+      "word": "陈乔恩贾冰新片姐弟恋",
+      "onboard_time": 1676348621,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 410238,
@@ -515,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378959,
-      "num": 378959,
-      "word": "王霏霏Min合体梦回missA",
-      "onboard_time": 1676348559,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 376116,
       "num": 376116,
       "word": "张哲华进组她的小梨涡",
@@ -539,20 +563,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 373582,
-      "num": 373582,
-      "word": "女孩与他人喝酒过夜当街与男友争吵",
-      "onboard_time": 1676348076,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354611,
-      "num": 354611,
+      "raw_hot": 373963,
+      "num": 373963,
       "word": "房贷年龄延至80岁意味着什么",
       "onboard_time": 1676344655,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 371224,
+      "num": 371224,
+      "word": "赵露思陈哲远新剧情人节语音",
+      "onboard_time": 1676348738,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 345816,
@@ -795,12 +819,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220866,
+      "num": 220866,
+      "word": "名侦探柯南情人节贺图",
+      "onboard_time": 1676349278,
+      "rank": 40,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 216045,
       "num": 216045,
       "word": "官方回应城管收走孩子写作业桌子",
       "onboard_time": 1676295953,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215116,
+      "num": 215116,
+      "word": "情人节民政局门口凌晨四点开始排队",
+      "onboard_time": 1676349100,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214010,
+      "num": 214010,
+      "word": "湖人",
+      "onboard_time": 1676349340,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 213098,
@@ -851,6 +899,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 201120,
+      "num": 201120,
+      "word": "网传洪知秀权顺荣将在迪拜拍摄新综艺",
+      "onboard_time": 1676349521,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199531,
       "num": 199531,
       "word": "你在求职中遇到过性别歧视吗",
@@ -897,14 +953,6 @@
       "onboard_time": 1676331683,
       "rank": 36,
       "category": "科技"
-    },
-    {
-      "raw_hot": 191046,
-      "num": 191046,
-      "word": "陈乔恩贾冰新片姐弟恋",
-      "onboard_time": 1676348621,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 189887,
@@ -1236,6 +1284,9 @@
     },
     {
       "word": "#习近平的文化情缘#"
+    },
+    {
+      "word": "#一图速览2023年中央一号文件#"
     }
   ]
 }
