@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676379533406,
+  "endTime": 1676381328881,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -27,8 +27,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 3146271,
-      "num": 914710,
+      "raw_hot": 3149933,
+      "num": 1009111,
       "word": "黄子韬徐艺洋 情人节团建",
       "onboard_time": 1676378317,
       "rank": 16,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2963474,
+      "num": 2963474,
+      "word": "顺丰寄爱马仕包运输中被烧毁",
+      "onboard_time": 1676377114,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2749760,
       "num": 2749760,
       "word": "徐明浩锁骨部位骨折",
@@ -97,14 +105,6 @@
       "onboard_time": 1676372132,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2566023,
-      "num": 2566023,
-      "word": "顺丰寄爱马仕包运输中被烧毁",
-      "onboard_time": 1676377114,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2495233,
@@ -435,6 +435,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 1266465,
+      "num": 1266465,
+      "word": "王传君说大家对王一博有一些误解",
+      "onboard_time": 1676376274,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1254330,
       "num": 1254330,
       "word": "超20%大学生认为毕业后月薪能过万",
@@ -457,14 +465,6 @@
       "onboard_time": 1676367395,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1227334,
-      "num": 1227334,
-      "word": "王传君说大家对王一博有一些误解",
-      "onboard_time": 1676376274,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1214351,
@@ -497,6 +497,14 @@
       "onboard_time": 1676303914,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1172831,
+      "num": 1172831,
+      "word": "男子反复缴费套取蚂蚁森林能量被封号",
+      "onboard_time": 1676379334,
+      "rank": 45,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1172241,
@@ -579,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1120518,
+      "num": 1120518,
+      "word": "68岁环卫工被茶百道员工殴打住院",
+      "onboard_time": 1676376873,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1113378,
       "num": 1113378,
       "word": "涵艺爆料LWX要转辅助",
@@ -611,12 +627,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1044395,
-      "num": 1044395,
-      "word": "68岁环卫工被茶百道员工殴打住院",
-      "onboard_time": 1676376873,
-      "rank": 13,
-      "category": "社会负面"
+      "raw_hot": 1048709,
+      "num": 1048709,
+      "word": "鸭脖为何卖不动了",
+      "onboard_time": 1676375913,
+      "rank": 8,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1028138,
@@ -683,12 +699,12 @@
       "category": "情感,财经"
     },
     {
-      "raw_hot": 931588,
-      "num": 931588,
-      "word": "鸭脖为何卖不动了",
-      "onboard_time": 1676375913,
-      "rank": 8,
-      "category": "美食,社会新闻"
+      "raw_hot": 930907,
+      "num": 930907,
+      "word": "朴灿烈吴世勋情人节视频",
+      "onboard_time": 1676379096,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 929360,
@@ -923,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 786896,
+      "num": 786896,
+      "word": "怀孕时被拐卖女子欲追责人贩",
+      "onboard_time": 1676379696,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782786,
       "num": 782786,
       "word": "警方通报南宁持刀伤人案",
@@ -1139,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 686669,
+      "num": 686669,
+      "word": "女孩回应向叙利亚捐6000包卫生巾",
+      "onboard_time": 1676376995,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686298,
       "num": 686298,
       "word": "高铁晚点",
@@ -1201,14 +1233,6 @@
       "onboard_time": 1676253926,
       "rank": 8,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 664852,
-      "num": 664852,
-      "word": "女孩回应向叙利亚捐6000包卫生巾",
-      "onboard_time": 1676376995,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 662706,
@@ -1483,6 +1507,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 565511,
+      "num": 565511,
+      "word": "中国足球狂飙",
+      "onboard_time": 1676379156,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 564301,
       "num": 564301,
       "word": "回家的诱惑 一键复仇",
@@ -1731,14 +1763,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 493507,
-      "num": 384501,
-      "word": "朴灿烈吴世勋情人节视频",
-      "onboard_time": 1676379096,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 491840,
       "num": 491840,
       "word": "调降存量房贷利率呼声高涨",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1676299182,
       "rank": 17,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 477587,
+      "num": 477587,
+      "word": "三体",
+      "onboard_time": 1676380359,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 476574,
@@ -2019,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423688,
+      "num": 423688,
+      "word": "TT对战WBG",
+      "onboard_time": 1676379936,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 418252,
       "num": 418252,
       "word": "打工仔小张",
@@ -2225,6 +2265,14 @@
       "onboard_time": 1676301341,
       "rank": 43,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 387275,
+      "num": 387275,
+      "word": "女生称继父在其房间装摄像头多部门已介入",
+      "onboard_time": 1676377474,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386120,
@@ -2451,14 +2499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 348881,
-      "num": 348881,
-      "word": "女生称继父在其房间装摄像头多部门已介入",
-      "onboard_time": 1676377474,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346101,
       "num": 346101,
       "word": "苹果CEO库克3月将赴华参会",
@@ -2489,6 +2529,14 @@
       "onboard_time": 1676189249,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 342149,
+      "num": 333916,
+      "word": "陈奕迅情人节文案好甜",
+      "onboard_time": 1676380475,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 341976,
@@ -2593,6 +2641,14 @@
       "onboard_time": 1676283818,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 325859,
+      "num": 325859,
+      "word": "李靓蕾再发律师声明",
+      "onboard_time": 1676379819,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 325820,
@@ -2881,6 +2937,14 @@
       "onboard_time": 1676346637,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291093,
+      "num": 291093,
+      "word": "张颂文给电鱼案设计了五个细节",
+      "onboard_time": 1676380475,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 291034,
@@ -3691,6 +3755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202417,
+      "num": 202417,
+      "word": "李秀满出席活动状态",
+      "onboard_time": 1676380236,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201877,
       "num": 201877,
       "word": "鹿晗新歌光荣之路上线",
@@ -3745,14 +3817,6 @@
       "onboard_time": 1676279201,
       "rank": 42,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 197583,
-      "num": 197583,
-      "word": "中国足球狂飙",
-      "onboard_time": 1676379156,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 196959,
@@ -3883,6 +3947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191000,
+      "num": 191000,
+      "word": "TES战胜iG",
+      "onboard_time": 1676380359,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190626,
       "num": 190626,
       "word": "夫胜宽朴志效MOMO舞蹈挑战",
@@ -3947,6 +4019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185430,
+      "num": 185430,
+      "word": "原来浪漫的是送花的人",
+      "onboard_time": 1676381196,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184845,
       "num": 184845,
       "word": "男子后备箱里为流浪猫搭窝御寒",
@@ -3993,14 +4073,6 @@
       "onboard_time": 1676338893,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 180812,
-      "num": 180812,
-      "word": "男子反复缴费套取蚂蚁森林能量被封号",
-      "onboard_time": 1676379334,
-      "rank": 45,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 179183,
@@ -4657,6 +4729,14 @@
       "onboard_time": 1676284539,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30234,
+      "num": 1370131,
+      "word": "震后救援中的中国身影",
+      "onboard_time": 1676381077,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 26532,
