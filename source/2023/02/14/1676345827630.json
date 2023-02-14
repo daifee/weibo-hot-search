@@ -1,0 +1,410 @@
+{
+  "runTime": 1676345827630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2738308,
+        "num": 2738308,
+        "word": "爸爸因姜姓难取名给孩子叫去寒",
+        "onboard_time": 1676342791,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1473488,
+        "num": 1473488,
+        "word": "张子枫胡先煦新片演夫妻",
+        "onboard_time": 1676341532,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106450,
+        "num": 1394133,
+        "word": "中国乡村振兴定能结出累累果实",
+        "onboard_time": 1676343644,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1351153,
+        "num": 1351153,
+        "word": "杨洋再不进组这就是你的归宿",
+        "onboard_time": 1676341532,
+        "rank": 3,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 1160832,
+        "num": 1160832,
+        "word": "周黑鸭业绩大降超90%",
+        "onboard_time": 1676343871,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1161151,
+        "num": 1157055,
+        "word": "花儿与少年5",
+        "onboard_time": 1676343393,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1149653,
+        "num": 1149653,
+        "word": "美俄亥俄州大量动物突然死亡",
+        "onboard_time": 1676338112,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1077990,
+        "num": 1077990,
+        "word": "28岁单身女孩情人节前崩溃大哭",
+        "onboard_time": 1676341052,
+        "rank": 7,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1055583,
+        "num": 1055583,
+        "word": "安乐传",
+        "onboard_time": 1676343934,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 800933,
+        "num": 800933,
+        "word": "2023年多省公务员扩招超50%",
+        "onboard_time": 1676341234,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569113,
+        "num": 569113,
+        "word": "杭州地铁口惊现玫瑰瀑布",
+        "onboard_time": 1676342012,
+        "rank": 10,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 547116,
+        "num": 547116,
+        "word": "微信上线情人节限时状态",
+        "onboard_time": 1676340450,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 465376,
+        "num": 465376,
+        "word": "长相思",
+        "onboard_time": 1676344292,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 520962,
+        "num": 464547,
+        "word": "情人节文案",
+        "onboard_time": 1676330002,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 435210,
+        "num": 435210,
+        "word": "诺如病毒",
+        "onboard_time": 1676335471,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375680,
+        "num": 375680,
+        "word": "与凤行眼神双杀海报",
+        "onboard_time": 1676343273,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324065,
+        "num": 324065,
+        "word": "张哲华进组她的小梨涡",
+        "onboard_time": 1676343453,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313972,
+        "num": 313972,
+        "word": "女性面试被HR反复盘问性别歧视肉眼可见",
+        "onboard_time": 1676335651,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311698,
+        "num": 311698,
+        "word": "一夜不睡代谢崩溃",
+        "onboard_time": 1676339550,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298596,
+        "num": 298596,
+        "word": "流浪地球2情人节海报",
+        "onboard_time": 1676342494,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297886,
+        "num": 297886,
+        "word": "王源文淇我看见两朵一样的云官宣",
+        "onboard_time": 1676341836,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461098,
+        "num": 295463,
+        "word": "王鹤棣腿好细",
+        "onboard_time": 1676341052,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293004,
+        "num": 293004,
+        "word": "劝分组",
+        "onboard_time": 1676344771,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287983,
+        "num": 287983,
+        "word": "垃圾桶 浪漫回收站",
+        "onboard_time": 1676344236,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287310,
+        "num": 287310,
+        "word": "小学生满分作文跑题老师含泪打5分",
+        "onboard_time": 1676335412,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 284453,
+        "num": 284453,
+        "word": "张杰与TME达成全新战略合作",
+        "onboard_time": 1676343573,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 284055,
+        "num": 284055,
+        "word": "情人节",
+        "onboard_time": 1676332347,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281436,
+        "num": 281436,
+        "word": "明星情人节出图",
+        "onboard_time": 1676344116,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279616,
+        "num": 279616,
+        "word": "王楚然童年旧照",
+        "onboard_time": 1676341651,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256527,
+        "num": 256527,
+        "word": "为什么年轻人都存不到钱",
+        "onboard_time": 1676336192,
+        "rank": 29,
+        "category": "情感,财经"
+      },
+      {
+        "raw_hot": 253851,
+        "num": 253851,
+        "word": "苹果iOS16.3.1正式版发布",
+        "onboard_time": 1676336975,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 253267,
+        "num": 253267,
+        "word": "重庆山火救援的蝴蝶结女孩领证了",
+        "onboard_time": 1676340151,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250850,
+        "num": 250850,
+        "word": "女子深夜打车被司机辱骂出去卖的",
+        "onboard_time": 1676345194,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237708,
+        "num": 237708,
+        "word": "俄亥俄州数年后或现大批癌症患者",
+        "onboard_time": 1676340812,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 230744,
+        "num": 230744,
+        "word": "房贷年龄延至80岁意味着什么",
+        "onboard_time": 1676344655,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 222876,
+        "num": 222876,
+        "word": "孕妇如厕时生产婴儿被卡蹲便器",
+        "onboard_time": 1676303914,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215314,
+        "num": 215314,
+        "word": "星落凝成糖定档2月16日",
+        "onboard_time": 1676340991,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213867,
+        "num": 213867,
+        "word": "民众拍下俄亥俄毒云漫天恐怖场景",
+        "onboard_time": 1676338171,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 213098,
+        "num": 213098,
+        "word": "官方辟谣海誓山盟石碑情人节前碎",
+        "onboard_time": 1676345252,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196881,
+        "num": 196881,
+        "word": "中国速滑冬奥会首金得主张虹宣布退役",
+        "onboard_time": 1676344411,
+        "rank": 39,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 195213,
+        "num": 195213,
+        "word": "调降存量房贷利率呼声高涨",
+        "onboard_time": 1676336134,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 187814,
+        "num": 187814,
+        "word": "东极岛海誓山盟石碑碎了",
+        "onboard_time": 1676333851,
+        "rank": 41,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 178601,
+        "num": 178601,
+        "word": "超20%大学生认为毕业后月薪能过万",
+        "onboard_time": 1676300638,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 168607,
+        "num": 168607,
+        "word": "Cat女朋友",
+        "onboard_time": 1676300080,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161951,
+        "num": 161951,
+        "word": "郑州地铁座位摆放情人节玫瑰花",
+        "onboard_time": 1676345674,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153366,
+        "num": 153366,
+        "word": "民众拍下俄亥俄州东巴勒斯坦城上空景象",
+        "onboard_time": 1676331264,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 153262,
+        "num": 153262,
+        "word": "婚房烂尾10年业主住进毛坯房",
+        "onboard_time": 1676313735,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 149478,
+        "num": 149478,
+        "word": "男子跨越700公里陪女友过情人节",
+        "onboard_time": 1676345437,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143150,
+        "num": 143150,
+        "word": "安欣杭州分欣",
+        "onboard_time": 1676302534,
+        "rank": 48,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 128720,
+        "num": 128720,
+        "word": "爱与被爱同时发生的瞬间",
+        "onboard_time": 1676332832,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#守好三农基本盘至关重要不容有失#"
+    }
+  }
+}
