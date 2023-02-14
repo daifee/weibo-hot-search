@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676356773886,
+  "endTime": 1676359087286,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2449042,
+      "num": 600371,
+      "word": "高中女生自曝继父在其房间装摄像头",
+      "onboard_time": 1676355870,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2368653,
       "num": 835596,
       "word": "已婚男子与人同居生下儿女被刑拘",
@@ -97,6 +105,14 @@
       "onboard_time": 1676205871,
       "rank": 0,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 2077600,
+      "num": 2077600,
+      "word": "南宁万达茂",
+      "onboard_time": 1676357553,
+      "rank": 0,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2036409,
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1036869,
+      "num": 1036869,
+      "word": "不明飞行物",
+      "onboard_time": 1676357312,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1028138,
       "num": 1028138,
       "word": "河南多地发生巨响",
@@ -467,20 +491,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 945500,
-      "num": 558583,
-      "word": "高中女生自曝继父在其房间装摄像头",
-      "onboard_time": 1676355870,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 932981,
       "num": 932981,
       "word": "为什么年轻人都存不到钱",
       "onboard_time": 1676336192,
       "rank": 3,
       "category": "情感,财经"
+    },
+    {
+      "raw_hot": 927138,
+      "num": 927138,
+      "word": "微信可以发520红包了",
+      "onboard_time": 1676355092,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 925608,
@@ -803,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 706929,
+      "num": 706929,
+      "word": "赵露思陈哲远偷偷藏不住双人舞花絮",
+      "onboard_time": 1676357068,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 701547,
       "num": 701547,
       "word": "刘浩存的古装扮相",
@@ -824,6 +856,14 @@
       "word": "被我弄丢两次的王斤斤阵容官宣",
       "onboard_time": 1676349402,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 690229,
+      "num": 690229,
+      "word": "黄景瑜白百何王丽坤新片情人节海报",
+      "onboard_time": 1676359052,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -955,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 630843,
+      "num": 630843,
+      "word": "俄亥俄州已有居民出现头痛恶心症状",
+      "onboard_time": 1676355331,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629843,
       "num": 629843,
       "word": "情人节文案",
@@ -1012,7 +1060,7 @@
     },
     {
       "raw_hot": 612997,
-      "num": 556980,
+      "num": 561382,
       "word": "Viper捐款7000万韩元",
       "onboard_time": 1676354914,
       "rank": 10,
@@ -1195,12 +1243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 539771,
-      "num": 539771,
-      "word": "微信可以发520红包了",
-      "onboard_time": 1676355092,
-      "rank": 22,
-      "category": "科技"
+      "raw_hot": 539860,
+      "num": 539860,
+      "word": "折腰",
+      "onboard_time": 1676357732,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 539696,
@@ -1481,6 +1529,14 @@
       "onboard_time": 1676285445,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 445258,
+      "num": 445258,
+      "word": "缉毒警怕出意外曾与女友提分手",
+      "onboard_time": 1676355569,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444286,
@@ -1859,6 +1915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 366101,
+      "num": 366101,
+      "word": "卤味巨头日子为何不好过",
+      "onboard_time": 1676356289,
+      "rank": 41,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 363400,
       "num": 363400,
       "word": "YG新女团PHARITA介绍视频",
@@ -1995,14 +2059,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 333837,
-      "num": 333837,
-      "word": "俄亥俄州已有居民出现头痛恶心症状",
-      "onboard_time": 1676355331,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 332623,
       "num": 332623,
       "word": "虞书欣许凯仙剑六情人节海报",
@@ -2083,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319404,
+      "num": 319404,
+      "word": "时代少年团三亚花衬衫路透",
+      "onboard_time": 1676357671,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 319180,
       "num": 319180,
       "word": "沉香如屑韩国宣传视频",
@@ -2097,14 +2161,6 @@
       "onboard_time": 1676214518,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317422,
-      "num": 317422,
-      "word": "缉毒警怕出意外曾与女友提分手",
-      "onboard_time": 1676355569,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316553,
@@ -2184,6 +2240,14 @@
       "word": "吴磊赵今麦 能不能边拍边播",
       "onboard_time": 1676205095,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 304798,
+      "num": 304798,
+      "word": "童星出道的孩子都组cp了",
+      "onboard_time": 1676358575,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -2441,6 +2505,14 @@
       "onboard_time": 1676195251,
       "rank": 22,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 269812,
+      "num": 269812,
+      "word": "博主回应科普坐高铁视频走红",
+      "onboard_time": 1676358034,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 267706,
@@ -2715,6 +2787,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228770,
+      "num": 228770,
+      "word": "四川的文旅局长卷起来了",
+      "onboard_time": 1676357971,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226857,
+      "num": 226857,
+      "word": "2023ChinaJoy确认将在上海举办",
+      "onboard_time": 1676355631,
+      "rank": 44,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 226396,
       "num": 226396,
       "word": "人工智能",
@@ -2832,6 +2920,14 @@
       "word": "情人节民政局门口凌晨四点开始排队",
       "onboard_time": 1676349100,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214887,
+      "num": 214887,
+      "word": "官方通报城管收走孩子写作业桌子",
+      "onboard_time": 1676358034,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -2961,6 +3057,14 @@
       "onboard_time": 1676276205,
       "rank": 41,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 196526,
+      "num": 196526,
+      "word": "无畏情人节心动大片",
+      "onboard_time": 1676357912,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 196340,
@@ -3331,14 +3435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160581,
-      "num": 160581,
-      "word": "2023ChinaJoy确认将在上海举办",
-      "onboard_time": 1676355631,
-      "rank": 44,
-      "category": "游戏,动漫"
-    },
-    {
       "raw_hot": 160273,
       "num": 160273,
       "word": "吴易昺想在杭州亚运会夺金",
@@ -3355,20 +3451,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157471,
+      "num": 133626,
+      "word": "情人节垃圾桶寻宝指南",
+      "onboard_time": 1676358273,
+      "rank": 48,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 157024,
       "num": 157024,
       "word": "2023亚洲杯将于2024年进行",
       "onboard_time": 1676210436,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156321,
-      "num": 156321,
-      "word": "卤味巨头日子为何不好过",
-      "onboard_time": 1676356289,
-      "rank": 41,
-      "category": "财经,美食"
     },
     {
       "raw_hot": 155829,
@@ -3393,6 +3489,14 @@
       "onboard_time": 1676270272,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153211,
+      "num": 153211,
+      "word": "鲜花批发价上涨30%",
+      "onboard_time": 1676358637,
+      "rank": 41,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 152128,
@@ -3529,6 +3633,14 @@
       "onboard_time": 1676251826,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125101,
+      "num": 125101,
+      "word": "檀健次张婧仪情人节芭莎大片",
+      "onboard_time": 1676359052,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 121525,
