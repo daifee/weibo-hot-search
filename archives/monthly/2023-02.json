@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676367273064,
+  "endTime": 1676370100304,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -265,6 +265,14 @@
       "onboard_time": 1676011052,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3382879,
+      "num": 3382879,
+      "word": "南宁刺死女子嫌犯已投江",
+      "onboard_time": 1676367513,
+      "rank": 0,
+      "category": "社会负面"
     },
     {
       "raw_hot": 3324868,
@@ -3803,6 +3811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1046837,
+      "num": 1046837,
+      "word": "情人节捡花",
+      "onboard_time": 1676367395,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1046024,
       "num": 1046024,
       "word": "女子应聘行政岗被要求只要单身",
@@ -6123,6 +6139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 782786,
+      "num": 782786,
+      "word": "警方通报南宁持刀伤人案",
+      "onboard_time": 1676367451,
+      "rank": 6,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 780731,
       "num": 780731,
       "word": "00后在过一种很新的立春",
@@ -7328,6 +7352,14 @@
       "word": "女子患病失忆后再次爱上丈夫",
       "onboard_time": 1675472668,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694275,
+      "num": 694275,
+      "word": "齐齐哈尔气象局回应现不明飞行物",
+      "onboard_time": 1676365896,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -8787,6 +8819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607814,
+      "num": 607814,
+      "word": "卤味三巨头利润全暴跌",
+      "onboard_time": 1676368652,
+      "rank": 11,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 607486,
       "num": 607486,
       "word": "太阳三巨头",
@@ -9491,6 +9531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 571242,
+      "num": 571242,
+      "word": "韩剧宫确定翻拍",
+      "onboard_time": 1676369073,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 571129,
       "num": 571129,
       "word": "邓先生 这次表现还不够完美",
@@ -9529,6 +9577,14 @@
       "onboard_time": 1676342012,
       "rank": 19,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 568110,
+      "num": 568110,
+      "word": "情人节晚上真实的你",
+      "onboard_time": 1676367513,
+      "rank": 13,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 568099,
@@ -11755,6 +11811,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 473469,
+      "num": 282929,
+      "word": "知情人士称1岁半遇难男童尸检已完成",
+      "onboard_time": 1676368052,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473461,
       "num": 473461,
       "word": "红豆遥遥冰的爱还在继续",
@@ -12705,6 +12769,14 @@
       "onboard_time": 1675804990,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435347,
+      "num": 435347,
+      "word": "王一博无名片场日常花絮",
+      "onboard_time": 1676369971,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 435341,
@@ -14419,6 +14491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388909,
+      "num": 388909,
+      "word": "网传TFBOYS十周年演唱会举办不了",
+      "onboard_time": 1676364634,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388753,
       "num": 388753,
       "word": "美记者在俄亥俄州事件新闻发布会被捕",
@@ -14859,6 +14939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 374351,
+      "num": 374351,
+      "word": "小天阿水模仿蔚和女警",
+      "onboard_time": 1676367154,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 373963,
       "num": 373963,
       "word": "房贷年龄延至80岁意味着什么",
@@ -15017,6 +15105,14 @@
       "onboard_time": 1675670727,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 370832,
+      "num": 370832,
+      "word": "Angelababy脸颊比心",
+      "onboard_time": 1676369315,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 370729,
@@ -15771,14 +15867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350500,
-      "num": 350500,
-      "word": "网传TFBOYS十周年演唱会举办不了",
-      "onboard_time": 1676364634,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 350329,
       "num": 350329,
       "word": "小米汽车设计泄密供应商被处罚100万",
@@ -16515,14 +16603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332305,
-      "num": 332305,
-      "word": "齐齐哈尔气象局回应现不明飞行物",
-      "onboard_time": 1676365896,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 332135,
       "num": 332135,
       "word": "超级碗 美国春晚",
@@ -17017,6 +17097,14 @@
       "onboard_time": 1675523010,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 321237,
+      "num": 321237,
+      "word": "想见你",
+      "onboard_time": 1676368892,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 321219,
@@ -17585,6 +17673,14 @@
       "onboard_time": 1675679491,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308417,
+      "num": 308417,
+      "word": "电影周边是否可以萌化反面人物",
+      "onboard_time": 1676368354,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 308360,
@@ -21595,6 +21691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240996,
+      "num": 240996,
+      "word": "田曦薇素颜上班路透",
+      "onboard_time": 1676368773,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240940,
       "num": 240940,
       "word": "百度类ChatGPT产品名为ERNIEBOT",
@@ -22297,6 +22401,14 @@
       "onboard_time": 1675747232,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 230219,
+      "num": 230219,
+      "word": "wink给Rookie送花",
+      "onboard_time": 1676369377,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 230161,
@@ -23368,6 +23480,14 @@
       "word": "薛之谦线上演唱会收官舞台照",
       "onboard_time": 1675475426,
       "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 212430,
+      "num": 212430,
+      "word": "STAYC新曲TeddyBear",
+      "onboard_time": 1676367931,
+      "rank": 38,
       "category": "音乐"
     },
     {
@@ -24923,6 +25043,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 192427,
+      "num": 192427,
+      "word": "年过八旬的爷爷情人节送花给老伴",
+      "onboard_time": 1676369912,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 192293,
       "num": 192293,
       "word": "苹果任命首位首席人事官",
@@ -25009,6 +25137,14 @@
       "onboard_time": 1676167587,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191683,
+      "num": 191683,
+      "word": "选哪个师傅炒菜",
+      "onboard_time": 1676369315,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 191622,
@@ -25449,6 +25585,14 @@
       "onboard_time": 1676269316,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187186,
+      "num": 187186,
+      "word": "白鹿情人节plog",
+      "onboard_time": 1676369493,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 186968,
@@ -26689,6 +26833,14 @@
       "onboard_time": 1675391547,
       "rank": 35,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 174763,
+      "num": 150925,
+      "word": "原来情人节可以这么甜",
+      "onboard_time": 1676368172,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174720,
@@ -28971,14 +29123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145793,
-      "num": 145793,
-      "word": "小天阿水模仿蔚和女警",
-      "onboard_time": 1676367154,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 145767,
       "num": 145767,
       "word": "狂飙每一个单元结尾都在十字路口",
@@ -30003,6 +30147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126130,
+      "num": 1352158,
+      "word": "无人机看跨海大桥穿越碧海流云",
+      "onboard_time": 1676368354,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125761,
       "num": 125761,
       "word": "周深模仿白娘子",
@@ -31003,6 +31155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79939,
+      "num": 203257,
+      "word": "这才是情人节送礼天花板",
+      "onboard_time": 1676368832,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 79693,
       "num": 79693,
       "word": "南京平均月薪11145元",
@@ -31887,6 +32047,9 @@
     },
     {
       "word": "#一图速览2023年中央一号文件#"
+    },
+    {
+      "word": "#大力推进农业农村现代化#"
     }
   ]
 }

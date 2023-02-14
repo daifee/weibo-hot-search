@@ -1,7 +1,15 @@
 {
   "startTime": 1676305608565,
-  "endTime": 1676367273064,
+  "endTime": 1676370100304,
   "band_list": [
+    {
+      "raw_hot": 3382879,
+      "num": 3382879,
+      "word": "南宁刺死女子嫌犯已投江",
+      "onboard_time": 1676367513,
+      "rank": 0,
+      "category": "社会负面"
+    },
     {
       "raw_hot": 3085330,
       "num": 3085330,
@@ -219,6 +227,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1046837,
+      "num": 1046837,
+      "word": "情人节捡花",
+      "onboard_time": 1676367395,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1028138,
       "num": 1028138,
       "word": "河南多地发生巨响",
@@ -331,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 782786,
+      "num": 782786,
+      "word": "警方通报南宁持刀伤人案",
+      "onboard_time": 1676367451,
+      "rank": 6,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 777348,
       "num": 777348,
       "word": "东极镇政府回应海誓山盟碑碎了",
@@ -409,6 +433,14 @@
       "onboard_time": 1676352513,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 694275,
+      "num": 694275,
+      "word": "齐齐哈尔气象局回应现不明飞行物",
+      "onboard_time": 1676365896,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 692638,
@@ -515,6 +547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 607814,
+      "num": 607814,
+      "word": "卤味三巨头利润全暴跌",
+      "onboard_time": 1676368652,
+      "rank": 11,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 593661,
       "num": 593661,
       "word": "蓝色妖姬",
@@ -555,12 +595,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571242,
+      "num": 571242,
+      "word": "韩剧宫确定翻拍",
+      "onboard_time": 1676369073,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 569113,
       "num": 569113,
       "word": "杭州地铁口惊现玫瑰瀑布",
       "onboard_time": 1676342012,
       "rank": 19,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 568110,
+      "num": 568110,
+      "word": "情人节晚上真实的你",
+      "onboard_time": 1676367513,
+      "rank": 13,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 567814,
@@ -683,6 +739,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 473469,
+      "num": 282929,
+      "word": "知情人士称1岁半遇难男童尸检已完成",
+      "onboard_time": 1676368052,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467951,
       "num": 467951,
       "word": "名侦探柯南情人节贺图",
@@ -729,6 +793,14 @@
       "onboard_time": 1676354312,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 435347,
+      "num": 435347,
+      "word": "王一博无名片场日常花絮",
+      "onboard_time": 1676369971,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 433937,
@@ -851,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388909,
+      "num": 388909,
+      "word": "网传TFBOYS十周年演唱会举办不了",
+      "onboard_time": 1676364634,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388753,
       "num": 388753,
       "word": "美记者在俄亥俄州事件新闻发布会被捕",
@@ -915,6 +995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 374351,
+      "num": 374351,
+      "word": "小天阿水模仿蔚和女警",
+      "onboard_time": 1676367154,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 373963,
       "num": 373963,
       "word": "房贷年龄延至80岁意味着什么",
@@ -931,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370832,
+      "num": 370832,
+      "word": "Angelababy脸颊比心",
+      "onboard_time": 1676369315,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366394,
       "num": 366394,
       "word": "三体古筝行动 震撼",
@@ -945,14 +1041,6 @@
       "onboard_time": 1676364333,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 350500,
-      "num": 350500,
-      "word": "网传TFBOYS十周年演唱会举办不了",
-      "onboard_time": 1676364634,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 345816,
@@ -1003,14 +1091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332305,
-      "num": 332305,
-      "word": "齐齐哈尔气象局回应现不明飞行物",
-      "onboard_time": 1676365896,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325820,
       "num": 325820,
       "word": "浓眉关闭社媒",
@@ -1033,6 +1113,14 @@
       "onboard_time": 1676359052,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 321237,
+      "num": 321237,
+      "word": "想见你",
+      "onboard_time": 1676368892,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 319404,
@@ -1065,6 +1153,14 @@
       "onboard_time": 1676334571,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 308417,
+      "num": 308417,
+      "word": "电影周边是否可以萌化反面人物",
+      "onboard_time": 1676368354,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 306758,
@@ -1347,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240996,
+      "num": 240996,
+      "word": "田曦薇素颜上班路透",
+      "onboard_time": 1676368773,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238069,
       "num": 238069,
       "word": "湖人",
@@ -1395,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230219,
+      "num": 230219,
+      "word": "wink给Rookie送花",
+      "onboard_time": 1676369377,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224820,
       "num": 224820,
       "word": "郭帆回应外国观众不理解怎么办",
@@ -1441,6 +1553,14 @@
       "onboard_time": 1676345252,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212430,
+      "num": 212430,
+      "word": "STAYC新曲TeddyBear",
+      "onboard_time": 1676367931,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 211329,
@@ -1563,6 +1683,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 192427,
+      "num": 192427,
+      "word": "年过八旬的爷爷情人节送花给老伴",
+      "onboard_time": 1676369912,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 191683,
+      "num": 191683,
+      "word": "选哪个师傅炒菜",
+      "onboard_time": 1676369315,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191428,
       "num": 191428,
       "word": "如梦之梦",
@@ -1584,6 +1720,14 @@
       "word": "王宝强甄子丹任贤齐合照",
       "onboard_time": 1676363674,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187186,
+      "num": 187186,
+      "word": "白鹿情人节plog",
+      "onboard_time": 1676369493,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -1624,6 +1768,14 @@
       "word": "济南铁骑讲述狂飙护送伤者背后",
       "onboard_time": 1676304989,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174763,
+      "num": 150925,
+      "word": "原来情人节可以这么甜",
+      "onboard_time": 1676368172,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1747,14 +1899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145793,
-      "num": 145793,
-      "word": "小天阿水模仿蔚和女警",
-      "onboard_time": 1676367154,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 145374,
       "num": 145374,
       "word": "李子璇跳了Fighting",
@@ -1816,6 +1960,14 @@
       "word": "男子在高铁站当女儿面掐脖打老婆",
       "onboard_time": 1676287667,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126130,
+      "num": 1352158,
+      "word": "无人机看跨海大桥穿越碧海流云",
+      "onboard_time": 1676368354,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1907,6 +2059,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 79939,
+      "num": 203257,
+      "word": "这才是情人节送礼天花板",
+      "onboard_time": 1676368832,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 67285,
       "num": 1629138,
       "word": "中国救援队已营救多名被困者",
@@ -1959,6 +2119,9 @@
     },
     {
       "word": "#一图速览2023年中央一号文件#"
+    },
+    {
+      "word": "#大力推进农业农村现代化#"
     }
   ]
 }
