@@ -1,6 +1,6 @@
 {
   "startTime": 1676305608565,
-  "endTime": 1676366381317,
+  "endTime": 1676367273064,
   "band_list": [
     {
       "raw_hot": 3085330,
@@ -20,10 +20,18 @@
     },
     {
       "raw_hot": 2495233,
-      "num": 632107,
+      "num": 692514,
       "word": "高中女生自曝继父在其房间装摄像头",
       "onboard_time": 1676355870,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2450130,
+      "num": 2450130,
+      "word": "广西万达茂捅人案正在调查处理",
+      "onboard_time": 1676364156,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -56,14 +64,6 @@
       "word": "诺如病毒",
       "onboard_time": 1676335471,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1864950,
-      "num": 1864950,
-      "word": "广西万达茂捅人案正在调查处理",
-      "onboard_time": 1676364156,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 825489,
+      "num": 825489,
+      "word": "网友把张颂文回复网友的草做成了钥匙挂件",
+      "onboard_time": 1676362954,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 806657,
       "num": 806657,
       "word": "民众拍下俄亥俄州东巴勒斯坦城上空景象",
@@ -419,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 662420,
-      "num": 662420,
-      "word": "网友把张颂文回复网友的草做成了钥匙挂件",
-      "onboard_time": 1676362954,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 656278,
       "num": 656278,
       "word": "王霏霏Min合体梦回missA",
@@ -513,6 +513,14 @@
       "onboard_time": 1676354914,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 593661,
+      "num": 593661,
+      "word": "蓝色妖姬",
+      "onboard_time": 1676363374,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 593352,
@@ -691,19 +699,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 462057,
-      "num": 462057,
-      "word": "蓝色妖姬",
-      "onboard_time": 1676363374,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 459546,
       "num": 459546,
       "word": "小伙种菇失败却成功召唤农科院专家",
       "onboard_time": 1676359354,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453424,
+      "num": 453424,
+      "word": "创始人曾称周黑鸭是鸭脖界爱马仕",
+      "onboard_time": 1676363133,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -753,14 +761,6 @@
       "onboard_time": 1676299362,
       "rank": 13,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 407761,
-      "num": 407761,
-      "word": "创始人曾称周黑鸭是鸭脖界爱马仕",
-      "onboard_time": 1676363133,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407655,
@@ -841,6 +841,14 @@
       "onboard_time": 1676346037,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389018,
+      "num": 389018,
+      "word": "俄亥俄脱轨列车上又发现三种有毒化学品",
+      "onboard_time": 1676364214,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388753,
@@ -939,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350500,
+      "num": 350500,
+      "word": "网传TFBOYS十周年演唱会举办不了",
+      "onboard_time": 1676364634,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345816,
       "num": 345816,
       "word": "美国一载有毒化学品火车爆炸",
@@ -985,6 +1001,14 @@
       "onboard_time": 1676348256,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332305,
+      "num": 332305,
+      "word": "齐齐哈尔气象局回应现不明飞行物",
+      "onboard_time": 1676365896,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325820,
@@ -1035,20 +1059,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 315520,
-      "num": 315520,
-      "word": "俄亥俄脱轨列车上又发现三种有毒化学品",
-      "onboard_time": 1676364214,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308779,
       "num": 308779,
       "word": "情人节早晨北京现粉红色朝霞",
       "onboard_time": 1676334571,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306758,
+      "num": 306758,
+      "word": "杨超越感谢刘宇宁为重紫献声",
+      "onboard_time": 1676365653,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 305723,
@@ -1097,14 +1121,6 @@
       "onboard_time": 1676358034,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295135,
-      "num": 295135,
-      "word": "网传TFBOYS十周年演唱会举办不了",
-      "onboard_time": 1676364634,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 293737,
@@ -1184,14 +1200,6 @@
       "word": "梁朝伟周迅无名拥抱花絮",
       "onboard_time": 1676349938,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 283404,
-      "num": 283404,
-      "word": "杨超越感谢刘宇宁为重紫献声",
-      "onboard_time": 1676365653,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -1435,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211329,
+      "num": 211329,
+      "word": "TES对战iG",
+      "onboard_time": 1676365951,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210692,
       "num": 210692,
       "word": "湖人vs开拓者",
@@ -1465,14 +1481,6 @@
       "onboard_time": 1676344952,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 205558,
-      "num": 205558,
-      "word": "TES对战iG",
-      "onboard_time": 1676365951,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 203385,
@@ -1520,14 +1528,6 @@
       "word": "超六成女性求职中被问及婚育情况",
       "onboard_time": 1676343036,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196227,
-      "num": 196227,
-      "word": "齐齐哈尔气象局回应现不明飞行物",
-      "onboard_time": 1676365896,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -1747,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145793,
+      "num": 145793,
+      "word": "小天阿水模仿蔚和女警",
+      "onboard_time": 1676367154,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145374,
       "num": 145374,
       "word": "李子璇跳了Fighting",
@@ -1915,7 +1923,7 @@
       "category": "科技"
     },
     {
-      "raw_hot": 32492,
+      "raw_hot": 43862,
       "num": 183034,
       "word": "女朋友最爱的高级感礼物清单",
       "onboard_time": 1676365234,

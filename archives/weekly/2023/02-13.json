@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676366381317,
+  "endTime": 1676367273064,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -60,10 +60,18 @@
     },
     {
       "raw_hot": 2495233,
-      "num": 632107,
+      "num": 692514,
       "word": "高中女生自曝继父在其房间装摄像头",
       "onboard_time": 1676355870,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2450130,
+      "num": 2450130,
+      "word": "广西万达茂捅人案正在调查处理",
+      "onboard_time": 1676364156,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -152,14 +160,6 @@
       "word": "诺如病毒",
       "onboard_time": 1676335471,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1864950,
-      "num": 1864950,
-      "word": "广西万达茂捅人案正在调查处理",
-      "onboard_time": 1676364156,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -699,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 825489,
+      "num": 825489,
+      "word": "网友把张颂文回复网友的草做成了钥匙挂件",
+      "onboard_time": 1676362954,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 821069,
       "num": 821069,
       "word": "黄景瑜最新机场路透",
@@ -1011,14 +1019,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 662420,
-      "num": 662420,
-      "word": "网友把张颂文回复网友的草做成了钥匙挂件",
-      "onboard_time": 1676362954,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 662382,
       "num": 662382,
       "word": "没有服务器 但我们有冠军",
@@ -1177,6 +1177,14 @@
       "onboard_time": 1676215173,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 593661,
+      "num": 593661,
+      "word": "蓝色妖姬",
+      "onboard_time": 1676363374,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 593352,
@@ -1611,14 +1619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 462057,
-      "num": 462057,
-      "word": "蓝色妖姬",
-      "onboard_time": 1676363374,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 461022,
       "num": 461022,
       "word": "女子搬家前用3D扫描保存房间",
@@ -1657,6 +1657,14 @@
       "onboard_time": 1676285445,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453424,
+      "num": 453424,
+      "word": "创始人曾称周黑鸭是鸭脖界爱马仕",
+      "onboard_time": 1676363133,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445258,
@@ -1803,14 +1811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 407761,
-      "num": 407761,
-      "word": "创始人曾称周黑鸭是鸭脖界爱马仕",
-      "onboard_time": 1676363133,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407655,
       "num": 407655,
       "word": "57岁小学保安穿旗袍走秀气质惊艳",
@@ -1937,6 +1937,14 @@
       "onboard_time": 1676346037,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389018,
+      "num": 389018,
+      "word": "俄亥俄脱轨列车上又发现三种有毒化学品",
+      "onboard_time": 1676364214,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388753,
@@ -2155,6 +2163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 350500,
+      "num": 350500,
+      "word": "网传TFBOYS十周年演唱会举办不了",
+      "onboard_time": 1676364634,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346101,
       "num": 346101,
       "word": "苹果CEO库克3月将赴华参会",
@@ -2225,6 +2241,14 @@
       "onboard_time": 1676348256,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332305,
+      "num": 332305,
+      "word": "齐齐哈尔气象局回应现不明飞行物",
+      "onboard_time": 1676365896,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332135,
@@ -2387,14 +2411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 315520,
-      "num": 315520,
-      "word": "俄亥俄脱轨列车上又发现三种有毒化学品",
-      "onboard_time": 1676364214,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315324,
       "num": 315324,
       "word": "宋茜调的饮料",
@@ -2416,6 +2432,14 @@
       "word": "黄奕演妈妈",
       "onboard_time": 1676297744,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 306758,
+      "num": 306758,
+      "word": "杨超越感谢刘宇宁为重紫献声",
+      "onboard_time": 1676365653,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -2505,14 +2529,6 @@
       "onboard_time": 1676358034,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295135,
-      "num": 295135,
-      "word": "网传TFBOYS十周年演唱会举办不了",
-      "onboard_time": 1676364634,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 294223,
@@ -2608,14 +2624,6 @@
       "word": "梁朝伟周迅无名拥抱花絮",
       "onboard_time": 1676349938,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 283404,
-      "num": 283404,
-      "word": "杨超越感谢刘宇宁为重紫献声",
-      "onboard_time": 1676365653,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -3219,6 +3227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211329,
+      "num": 211329,
+      "word": "TES对战iG",
+      "onboard_time": 1676365951,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210692,
       "num": 210692,
       "word": "湖人vs开拓者",
@@ -3241,14 +3257,6 @@
       "onboard_time": 1676344952,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 205558,
-      "num": 205558,
-      "word": "TES对战iG",
-      "onboard_time": 1676365951,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 205005,
@@ -3336,14 +3344,6 @@
       "word": "超六成女性求职中被问及婚育情况",
       "onboard_time": 1676343036,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196227,
-      "num": 196227,
-      "word": "齐齐哈尔气象局回应现不明飞行物",
-      "onboard_time": 1676365896,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -3851,6 +3851,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 145793,
+      "num": 145793,
+      "word": "小天阿水模仿蔚和女警",
+      "onboard_time": 1676367154,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143791,
       "num": 143791,
       "word": "美俄亥俄州氯乙烯泄露致居民撤离",
@@ -4091,6 +4099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43862,
+      "num": 183034,
+      "word": "女朋友最爱的高级感礼物清单",
+      "onboard_time": 1676365234,
+      "rank": 39,
+      "category": "时尚,情感"
+    },
+    {
       "raw_hot": 43475,
       "num": 43475,
       "word": "吴宣仪高至霆你好星期六金牌投资人",
@@ -4105,14 +4121,6 @@
       "onboard_time": 1676223498,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 32492,
-      "num": 183034,
-      "word": "女朋友最爱的高级感礼物清单",
-      "onboard_time": 1676365234,
-      "rank": 39,
-      "category": "时尚,情感"
     },
     {
       "raw_hot": 32361,
