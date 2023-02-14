@@ -1,0 +1,410 @@
+{
+  "runTime": 1676416747558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 924418,
+        "num": 924418,
+        "word": "网红苏乞儿回应骑摩托上高速被拦",
+        "onboard_time": 1676390431,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755868,
+        "num": 755868,
+        "word": "宁夏一地倡导女婿赡养岳父母",
+        "onboard_time": 1676411651,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47763,
+        "num": 664953,
+        "word": "震后救援中的中国身影",
+        "onboard_time": 1676381077,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 593430,
+        "num": 593430,
+        "word": "女生情人节垃圾桶捡到积木城堡",
+        "onboard_time": 1676385217,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512381,
+        "num": 512381,
+        "word": "女子来西安旅游买30元彩票中了1800万",
+        "onboard_time": 1676386897,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500791,
+        "num": 500791,
+        "word": "西周大墓发现三层43具殉人布满墓道",
+        "onboard_time": 1676396178,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493947,
+        "num": 493947,
+        "word": "顺丰寄爱马仕包运输中被烧毁",
+        "onboard_time": 1676377114,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430047,
+        "num": 430047,
+        "word": "王力宏将申请强制执行",
+        "onboard_time": 1676371413,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 346515,
+        "num": 346515,
+        "word": "杜海涛因为一碗米饭对沈梦辰上头",
+        "onboard_time": 1676384318,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317387,
+        "num": 317387,
+        "word": "18岁喜欢的人27岁还在身边",
+        "onboard_time": 1676415737,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 554619,
+        "num": 312910,
+        "word": "黄子韬徐艺洋 情人节团建",
+        "onboard_time": 1676378317,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291913,
+        "num": 291913,
+        "word": "巴黎圣日耳曼vs拜仁慕尼黑",
+        "onboard_time": 1676387859,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269038,
+        "num": 269038,
+        "word": "金莎 情人节终于有人一起过了",
+        "onboard_time": 1676372132,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228307,
+        "num": 228307,
+        "word": "咖啡真的可以减肥吗",
+        "onboard_time": 1676390132,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 226620,
+        "num": 226620,
+        "word": "男子反复缴费套取蚂蚁森林能量被封号",
+        "onboard_time": 1676379334,
+        "rank": 14,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 226518,
+        "num": 226518,
+        "word": "陈妍希说陈晓婚前非常浪漫",
+        "onboard_time": 1676371293,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212232,
+        "num": 212232,
+        "word": "鸭脖为何卖不动了",
+        "onboard_time": 1676375913,
+        "rank": 16,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 202834,
+        "num": 202834,
+        "word": "许魏洲电影院被罚做俯卧撑",
+        "onboard_time": 1676391215,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201515,
+        "num": 201515,
+        "word": "成都迎来今年第一个扯证高峰",
+        "onboard_time": 1676392705,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191624,
+        "num": 191624,
+        "word": "女生称继父在其房间装摄像头多部门已介入",
+        "onboard_time": 1676377474,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189136,
+        "num": 189136,
+        "word": "原来猛兽的睡姿是这样的",
+        "onboard_time": 1676410093,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173400,
+        "num": 173400,
+        "word": "马思纯说张哲轩像太阳一样照亮她",
+        "onboard_time": 1676371833,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168946,
+        "num": 168946,
+        "word": "韩国民众向土耳其捐赠大量脏衣服",
+        "onboard_time": 1676374354,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152859,
+        "num": 152859,
+        "word": "张颂文给电鱼案设计了五个细节",
+        "onboard_time": 1676380475,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152667,
+        "num": 152667,
+        "word": "揭开北京二手房成交率提升的真相",
+        "onboard_time": 1676414717,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 150680,
+        "num": 150680,
+        "word": "两名主播涉嫌偷逃税款被罚",
+        "onboard_time": 1676371114,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 138183,
+        "num": 138183,
+        "word": "68岁环卫工被茶百道员工殴打住院",
+        "onboard_time": 1676376873,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 138033,
+        "num": 138033,
+        "word": "邓超情人节送孙俪一盆菜",
+        "onboard_time": 1676371652,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131794,
+        "num": 131794,
+        "word": "泰国将对外国游客征收入境费",
+        "onboard_time": 1676383536,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 129742,
+        "num": 129742,
+        "word": "王传君说大家对王一博有一些误解",
+        "onboard_time": 1676376274,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127745,
+        "num": 127745,
+        "word": "赵丽颖推荐王梓薇客串与凤行",
+        "onboard_time": 1676383778,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127339,
+        "num": 127339,
+        "word": "女孩回应向叙利亚捐6000包卫生巾",
+        "onboard_time": 1676376995,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120201,
+        "num": 120201,
+        "word": "中国足协主席陈戌源接受审查调查",
+        "onboard_time": 1676376575,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114909,
+        "num": 114909,
+        "word": "TheShy状态",
+        "onboard_time": 1676386897,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112718,
+        "num": 112718,
+        "word": "这活幽闭恐惧症的人干不了",
+        "onboard_time": 1676388575,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112314,
+        "num": 112314,
+        "word": "男朋友送的花有多直男审美",
+        "onboard_time": 1676387317,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101585,
+        "num": 101585,
+        "word": "周杰伦 花还是要去买的不能用变的",
+        "onboard_time": 1676386537,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96962,
+        "num": 96962,
+        "word": "欧冠",
+        "onboard_time": 1676377717,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91866,
+        "num": 91866,
+        "word": "你心目中改名最成功的大学",
+        "onboard_time": 1676375013,
+        "rank": 38,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 84703,
+        "num": 84703,
+        "word": "李靓蕾再发律师声明",
+        "onboard_time": 1676379819,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 82957,
+        "num": 82957,
+        "word": "中国足球狂飙",
+        "onboard_time": 1676379156,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79330,
+        "num": 79330,
+        "word": "这种浪漫不要也罢",
+        "onboard_time": 1676391268,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 78215,
+        "num": 78215,
+        "word": "海贼王1051",
+        "onboard_time": 1676405891,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 75059,
+        "num": 75059,
+        "word": "李秀满称将通过KPOP韩流拯救地球",
+        "onboard_time": 1676386174,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72163,
+        "num": 72163,
+        "word": "王鹤棣情人节营业照",
+        "onboard_time": 1676384261,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71090,
+        "num": 71090,
+        "word": "于正问李一桐和毕雯珺真的假的",
+        "onboard_time": 1676388993,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70976,
+        "num": 70976,
+        "word": "TT 状态",
+        "onboard_time": 1676386235,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 66478,
+        "num": 66478,
+        "word": "宁夏一地规定彩礼不得超过6万",
+        "onboard_time": 1676412793,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63355,
+        "num": 63355,
+        "word": "陈年烈苟广播剧",
+        "onboard_time": 1676383296,
+        "rank": 48,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 59860,
+        "num": 59860,
+        "word": "疑似aespa新歌剧透",
+        "onboard_time": 1676393004,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推进农业农村现代化#"
+    }
+  }
+}

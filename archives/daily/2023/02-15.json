@@ -1,6 +1,6 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676414079241,
+  "endTime": 1676416747558,
   "band_list": [
     {
       "raw_hot": 1509306,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755868,
+      "num": 755868,
+      "word": "宁夏一地倡导女婿赡养岳父母",
+      "onboard_time": 1676411651,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 632321,
       "num": 632321,
       "word": "杜海涛因为一碗米饭对沈梦辰上头",
@@ -73,6 +81,14 @@
       "onboard_time": 1676386897,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 500791,
+      "num": 500791,
+      "word": "西周大墓发现三层43具殉人布满墓道",
+      "onboard_time": 1676396178,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491038,
@@ -115,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430047,
+      "num": 430047,
+      "word": "王力宏将申请强制执行",
+      "onboard_time": 1676371413,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 415487,
       "num": 415487,
       "word": "陈妍希说陈晓婚前非常浪漫",
@@ -139,14 +163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 399661,
-      "num": 399661,
-      "word": "王力宏将申请强制执行",
-      "onboard_time": 1676371413,
-      "rank": 18,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 387492,
       "num": 370718,
       "word": "南宁刺死女子嫌犯已投江",
@@ -169,6 +185,14 @@
       "onboard_time": 1676371833,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 317387,
+      "num": 317387,
+      "word": "18岁喜欢的人27岁还在身边",
+      "onboard_time": 1676415737,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 313846,
@@ -267,11 +291,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202719,
-      "num": 105799,
-      "word": "宁夏一地倡导女婿赡养岳父母",
-      "onboard_time": 1676411651,
-      "rank": 11,
+      "raw_hot": 201515,
+      "num": 201515,
+      "word": "成都迎来今年第一个扯证高峰",
+      "onboard_time": 1676392705,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -299,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192270,
-      "num": 192270,
-      "word": "成都迎来今年第一个扯证高峰",
-      "onboard_time": 1676392705,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189800,
       "num": 189800,
       "word": "这种浪漫不要也罢",
@@ -315,20 +331,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 189136,
+      "num": 189136,
+      "word": "原来猛兽的睡姿是这样的",
+      "onboard_time": 1676410093,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188746,
       "num": 188746,
       "word": "满江红周边下架",
       "onboard_time": 1676362593,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186407,
-      "num": 186407,
-      "word": "西周大墓发现三层43具殉人布满墓道",
-      "onboard_time": 1676396178,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183989,
@@ -395,6 +411,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 152667,
+      "num": 152667,
+      "word": "揭开北京二手房成交率提升的真相",
+      "onboard_time": 1676414717,
+      "rank": 24,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 152287,
       "num": 152287,
       "word": "樊治欣直播连麦路人误入",
@@ -443,12 +467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88524,
-      "num": 88524,
-      "word": "原来猛兽的睡姿是这样的",
-      "onboard_time": 1676410093,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 96962,
+      "num": 96962,
+      "word": "欧冠",
+      "onboard_time": 1676377717,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84703,
+      "num": 84703,
+      "word": "李靓蕾再发律师声明",
+      "onboard_time": 1676379819,
+      "rank": 49,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 80966,
@@ -459,20 +491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78215,
+      "num": 78215,
+      "word": "海贼王1051",
+      "onboard_time": 1676405891,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 66478,
+      "num": 66478,
+      "word": "宁夏一地规定彩礼不得超过6万",
+      "onboard_time": 1676412793,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58098,
       "num": 58098,
       "word": "吉克隽逸活动状态",
       "onboard_time": 1676401693,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57523,
-      "num": 57523,
-      "word": "宁夏一地规定彩礼不得超过6万",
-      "onboard_time": 1676412793,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56129,
@@ -499,28 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47244,
-      "num": 47244,
-      "word": "李靓蕾再发律师声明",
-      "onboard_time": 1676379819,
-      "rank": 49,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 44440,
+      "raw_hot": 47763,
       "num": 896459,
       "word": "震后救援中的中国身影",
       "onboard_time": 1676381077,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 33929,
-      "num": 33929,
-      "word": "海贼王1051",
-      "onboard_time": 1676405891,
-      "rank": 49,
-      "category": "动漫"
     }
   ],
   "hotgov_list": [
