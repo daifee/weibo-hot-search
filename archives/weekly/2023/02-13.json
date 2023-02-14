@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676355897472,
+  "endTime": 1676356773886,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1154795,
+      "num": 1154795,
+      "word": "富婆音",
+      "onboard_time": 1676351137,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1148889,
       "num": 1148889,
       "word": "九尾",
@@ -419,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1028138,
+      "num": 1028138,
+      "word": "河南多地发生巨响",
+      "onboard_time": 1676353352,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1009481,
       "num": 1009481,
       "word": "Doinb爆料FPX寄了",
@@ -451,12 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 937463,
-      "num": 937463,
-      "word": "富婆音",
-      "onboard_time": 1676351137,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 945500,
+      "num": 558583,
+      "word": "高中女生自曝继父在其房间装摄像头",
+      "onboard_time": 1676355870,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 932981,
@@ -465,14 +481,6 @@
       "onboard_time": 1676336192,
       "rank": 3,
       "category": "情感,财经"
-    },
-    {
-      "raw_hot": 927781,
-      "num": 927781,
-      "word": "河南多地发生巨响",
-      "onboard_time": 1676353352,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 925608,
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760619,
+      "num": 760619,
+      "word": "武康路 郁金香",
+      "onboard_time": 1676355271,
+      "rank": 16,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 744351,
       "num": 744351,
       "word": "君子盟",
@@ -787,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 701547,
+      "num": 701547,
+      "word": "刘浩存的古装扮相",
+      "onboard_time": 1676352513,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697294,
       "num": 697294,
       "word": "狂飙何以成为岛内爆款剧",
@@ -880,14 +904,6 @@
       "word": "王霏霏Min合体梦回missA",
       "onboard_time": 1676348559,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 651906,
-      "num": 651906,
-      "word": "刘浩存的古装扮相",
-      "onboard_time": 1676352513,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -993,6 +1009,14 @@
       "onboard_time": 1676267942,
       "rank": 8,
       "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 612997,
+      "num": 556980,
+      "word": "Viper捐款7000万韩元",
+      "onboard_time": 1676354914,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 611952,
@@ -1171,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539771,
+      "num": 539771,
+      "word": "微信可以发520红包了",
+      "onboard_time": 1676355092,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 539696,
       "num": 539696,
       "word": "林孝埈说我们是支团结的队伍",
@@ -1329,14 +1361,6 @@
       "onboard_time": 1676336134,
       "rank": 13,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 488917,
-      "num": 488917,
-      "word": "Viper捐款7000万韩元",
-      "onboard_time": 1676354914,
-      "rank": 10,
-      "category": "游戏"
     },
     {
       "raw_hot": 485778,
@@ -1933,14 +1957,6 @@
     {
       "raw_hot": 341976,
       "num": 341976,
-      "word": "武康路 郁金香",
-      "onboard_time": 1676355271,
-      "rank": 16,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 341976,
-      "num": 341976,
       "word": "风波亭沙漏",
       "onboard_time": 1676355689,
       "rank": 17,
@@ -1977,6 +1993,14 @@
       "onboard_time": 1676349877,
       "rank": 25,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 333837,
+      "num": 333837,
+      "word": "俄亥俄州已有居民出现头痛恶心症状",
+      "onboard_time": 1676355331,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332623,
@@ -2073,6 +2097,14 @@
       "onboard_time": 1676214518,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317422,
+      "num": 317422,
+      "word": "缉毒警怕出意外曾与女友提分手",
+      "onboard_time": 1676355569,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316553,
@@ -2233,14 +2265,6 @@
       "onboard_time": 1676346637,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291307,
-      "num": 291307,
-      "word": "微信可以发520红包了",
-      "onboard_time": 1676355092,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 291034,
@@ -3107,14 +3131,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 181298,
-      "num": 233896,
-      "word": "俄亥俄州已有居民出现头痛恶心症状",
-      "onboard_time": 1676355331,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179183,
       "num": 179183,
       "word": "李培楠孤勇者",
@@ -3235,14 +3251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170564,
-      "num": 170564,
-      "word": "缉毒警怕出意外曾与女友提分手",
-      "onboard_time": 1676355569,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170044,
       "num": 170044,
       "word": "中金称关于超额存款存在三个误区",
@@ -3323,6 +3331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160581,
+      "num": 160581,
+      "word": "2023ChinaJoy确认将在上海举办",
+      "onboard_time": 1676355631,
+      "rank": 44,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 160273,
       "num": 160273,
       "word": "吴易昺想在杭州亚运会夺金",
@@ -3345,6 +3361,14 @@
       "onboard_time": 1676210436,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156321,
+      "num": 156321,
+      "word": "卤味巨头日子为何不好过",
+      "onboard_time": 1676356289,
+      "rank": 41,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 155829,
@@ -3377,14 +3401,6 @@
       "onboard_time": 1676224457,
       "rank": 9,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 151738,
-      "num": 151738,
-      "word": "2023ChinaJoy确认将在上海举办",
-      "onboard_time": 1676355631,
-      "rank": 44,
-      "category": "游戏,动漫"
     },
     {
       "raw_hot": 150696,
@@ -3456,14 +3472,6 @@
       "word": "女子智齿位置奇特目测要背井离乡",
       "onboard_time": 1676198850,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140933,
-      "num": 140933,
-      "word": "高中女生自曝继父在其房间装摄像头",
-      "onboard_time": 1676355870,
-      "rank": 49,
       "category": "社会新闻"
     },
     {

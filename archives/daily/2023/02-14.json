@@ -1,6 +1,6 @@
 {
   "startTime": 1676305608565,
-  "endTime": 1676355897472,
+  "endTime": 1676356773886,
   "band_list": [
     {
       "raw_hot": 2982051,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1154795,
+      "num": 1154795,
+      "word": "富婆音",
+      "onboard_time": 1676351137,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1148889,
       "num": 1148889,
       "word": "九尾",
@@ -139,12 +147,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 937463,
-      "num": 937463,
-      "word": "富婆音",
-      "onboard_time": 1676351137,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 1028138,
+      "num": 1028138,
+      "word": "河南多地发生巨响",
+      "onboard_time": 1676353352,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 945500,
+      "num": 558583,
+      "word": "高中女生自曝继父在其房间装摄像头",
+      "onboard_time": 1676355870,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 932981,
@@ -153,14 +169,6 @@
       "onboard_time": 1676336192,
       "rank": 3,
       "category": "情感,财经"
-    },
-    {
-      "raw_hot": 927781,
-      "num": 927781,
-      "word": "河南多地发生巨响",
-      "onboard_time": 1676353352,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 906071,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760619,
+      "num": 760619,
+      "word": "武康路 郁金香",
+      "onboard_time": 1676355271,
+      "rank": 16,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 743482,
       "num": 743482,
       "word": "小学生满分作文跑题老师含泪打5分",
@@ -257,6 +273,14 @@
       "onboard_time": 1676302534,
       "rank": 6,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 701547,
+      "num": 701547,
+      "word": "刘浩存的古装扮相",
+      "onboard_time": 1676352513,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 692638,
@@ -280,14 +304,6 @@
       "word": "王霏霏Min合体梦回missA",
       "onboard_time": 1676348559,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 651906,
-      "num": 651906,
-      "word": "刘浩存的古装扮相",
-      "onboard_time": 1676352513,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -345,6 +361,14 @@
       "onboard_time": 1676333370,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612997,
+      "num": 556980,
+      "word": "Viper捐款7000万韩元",
+      "onboard_time": 1676354914,
+      "rank": 10,
+      "category": "游戏"
     },
     {
       "raw_hot": 593352,
@@ -427,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539771,
+      "num": 539771,
+      "word": "微信可以发520红包了",
+      "onboard_time": 1676355092,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 520203,
       "num": 520203,
       "word": "赵丽颖情人节花絮图",
@@ -481,14 +513,6 @@
       "onboard_time": 1676336134,
       "rank": 13,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 488917,
-      "num": 488917,
-      "word": "Viper捐款7000万韩元",
-      "onboard_time": 1676354914,
-      "rank": 10,
-      "category": "游戏"
     },
     {
       "raw_hot": 467951,
@@ -709,14 +733,6 @@
     {
       "raw_hot": 341976,
       "num": 341976,
-      "word": "武康路 郁金香",
-      "onboard_time": 1676355271,
-      "rank": 16,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 341976,
-      "num": 341976,
       "word": "风波亭沙漏",
       "onboard_time": 1676355689,
       "rank": 17,
@@ -739,12 +755,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 333837,
+      "num": 333837,
+      "word": "俄亥俄州已有居民出现头痛恶心症状",
+      "onboard_time": 1676355331,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332623,
       "num": 332623,
       "word": "虞书欣许凯仙剑六情人节海报",
       "onboard_time": 1676348256,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 317422,
+      "num": 317422,
+      "word": "缉毒警怕出意外曾与女友提分手",
+      "onboard_time": 1676355569,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316553,
@@ -801,14 +833,6 @@
       "onboard_time": 1676346637,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291307,
-      "num": 291307,
-      "word": "微信可以发520红包了",
-      "onboard_time": 1676355092,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 290152,
@@ -1195,14 +1219,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 181298,
-      "num": 233896,
-      "word": "俄亥俄州已有居民出现头痛恶心症状",
-      "onboard_time": 1676355331,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178668,
       "num": 178668,
       "word": "天价彩礼是如何产生的",
@@ -1225,14 +1241,6 @@
       "onboard_time": 1676336614,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170564,
-      "num": 170564,
-      "word": "缉毒警怕出意外曾与女友提分手",
-      "onboard_time": 1676355569,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168598,
@@ -1267,6 +1275,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 160581,
+      "num": 160581,
+      "word": "2023ChinaJoy确认将在上海举办",
+      "onboard_time": 1676355631,
+      "rank": 44,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 159588,
       "num": 159588,
       "word": "河南补贴6100元招募捐精志愿者",
@@ -1283,20 +1299,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156321,
+      "num": 156321,
+      "word": "卤味巨头日子为何不好过",
+      "onboard_time": 1676356289,
+      "rank": 41,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 154892,
       "num": 154892,
       "word": "情人节快乐",
       "onboard_time": 1676330061,
       "rank": 38,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 151738,
-      "num": 151738,
-      "word": "2023ChinaJoy确认将在上海举办",
-      "onboard_time": 1676355631,
-      "rank": 44,
-      "category": "游戏,动漫"
     },
     {
       "raw_hot": 150696,
@@ -1345,14 +1361,6 @@
       "onboard_time": 1676307502,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 140933,
-      "num": 140933,
-      "word": "高中女生自曝继父在其房间装摄像头",
-      "onboard_time": 1676355870,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136532,
