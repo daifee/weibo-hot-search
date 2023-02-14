@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676359087286,
+  "endTime": 1676360032577,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -51,7 +51,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2449042,
+      "raw_hot": 2728385,
+      "num": 2728385,
+      "word": "南宁万达茂",
+      "onboard_time": 1676357553,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 2495233,
       "num": 600371,
       "word": "高中女生自曝继父在其房间装摄像头",
       "onboard_time": 1676355870,
@@ -105,14 +113,6 @@
       "onboard_time": 1676205871,
       "rank": 0,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 2077600,
-      "num": 2077600,
-      "word": "南宁万达茂",
-      "onboard_time": 1676357553,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2036409,
@@ -169,6 +169,14 @@
       "onboard_time": 1676251227,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1748520,
+      "num": 1748520,
+      "word": "不明飞行物",
+      "onboard_time": 1676357312,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1747620,
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1131617,
+      "num": 1131617,
+      "word": "黄景瑜白百何王丽坤新片情人节海报",
+      "onboard_time": 1676359052,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1124302,
       "num": 1124302,
       "word": "安乐传",
@@ -440,14 +456,6 @@
       "word": "70岁阿姨微信被封哭诉会孤独终老",
       "onboard_time": 1676208814,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1036869,
-      "num": 1036869,
-      "word": "不明飞行物",
-      "onboard_time": 1676357312,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -856,14 +864,6 @@
       "word": "被我弄丢两次的王斤斤阵容官宣",
       "onboard_time": 1676349402,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 690229,
-      "num": 690229,
-      "word": "黄景瑜白百何王丽坤新片情人节海报",
-      "onboard_time": 1676359052,
-      "rank": 6,
       "category": "影视"
     },
     {
@@ -1819,6 +1819,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 380333,
+      "num": 380333,
+      "word": "卤味巨头日子为何不好过",
+      "onboard_time": 1676356289,
+      "rank": 41,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 379562,
       "num": 379562,
       "word": "山东海域发现不明飞行物",
@@ -1915,14 +1923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 366101,
-      "num": 366101,
-      "word": "卤味巨头日子为何不好过",
-      "onboard_time": 1676356289,
-      "rank": 41,
-      "category": "财经,美食"
-    },
-    {
       "raw_hot": 363400,
       "num": 363400,
       "word": "YG新女团PHARITA介绍视频",
@@ -1945,6 +1945,14 @@
       "onboard_time": 1676257948,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 359572,
+      "num": 359572,
+      "word": "张婧仪晒卷发怼脸自拍",
+      "onboard_time": 1676359533,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 359399,
@@ -2017,6 +2025,14 @@
       "onboard_time": 1676189249,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 342360,
+      "num": 342360,
+      "word": "四川的文旅局长卷起来了",
+      "onboard_time": 1676357971,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341976,
@@ -2131,6 +2147,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 324328,
+      "num": 324328,
+      "word": "檀健次张婧仪情人节芭莎大片",
+      "onboard_time": 1676359052,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 323304,
       "num": 323304,
       "word": "别让砖家害了真专家",
@@ -2161,6 +2185,14 @@
       "onboard_time": 1676214518,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318161,
+      "num": 318161,
+      "word": "童星出道的孩子都组cp了",
+      "onboard_time": 1676358575,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 316553,
@@ -2243,14 +2275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 304798,
-      "num": 304798,
-      "word": "童星出道的孩子都组cp了",
-      "onboard_time": 1676358575,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 303048,
       "num": 303048,
       "word": "阮流筝清醒了但没完全清醒",
@@ -2299,6 +2323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 298727,
+      "num": 298727,
+      "word": "官方通报城管收走孩子写作业桌子",
+      "onboard_time": 1676358034,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294223,
       "num": 294223,
       "word": "男子骑电瓶车载巨大玫瑰",
@@ -2313,6 +2345,14 @@
       "onboard_time": 1676245343,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292594,
+      "num": 292594,
+      "word": "情人节垃圾桶寻宝指南",
+      "onboard_time": 1676358273,
+      "rank": 48,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 292148,
@@ -2409,6 +2449,14 @@
       "onboard_time": 1676344116,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281276,
+      "num": 264181,
+      "word": "男子垃圾桶旁捡玫瑰送妻子",
+      "onboard_time": 1676359472,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279616,
@@ -2515,6 +2563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 268939,
+      "num": 268939,
+      "word": "底线研讨会",
+      "onboard_time": 1676359533,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 267706,
       "num": 267706,
       "word": "崔杋圭想和Keria一起打排位",
@@ -2553,6 +2609,14 @@
       "onboard_time": 1676265593,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260512,
+      "num": 260512,
+      "word": "薛之谦说我们见面吧",
+      "onboard_time": 1676359533,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 259386,
@@ -2643,6 +2707,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 246280,
+      "num": 246280,
+      "word": "南宁一商场男子持刀伤害一女子",
+      "onboard_time": 1676359472,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 246159,
       "num": 246159,
       "word": "新郎带好友垦荒布置浪漫乡村婚礼",
@@ -2705,6 +2777,14 @@
       "onboard_time": 1676261251,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238488,
+      "num": 238488,
+      "word": "王力宏公司被冻结901万存款",
+      "onboard_time": 1676359773,
+      "rank": 35,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 238069,
@@ -2771,6 +2851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233146,
+      "num": 233146,
+      "word": "2023ChinaJoy确认将在上海举办",
+      "onboard_time": 1676355631,
+      "rank": 44,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 232873,
       "num": 232873,
       "word": "Rihanna 女企业家",
@@ -2785,22 +2873,6 @@
       "onboard_time": 1676272549,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 228770,
-      "num": 228770,
-      "word": "四川的文旅局长卷起来了",
-      "onboard_time": 1676357971,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226857,
-      "num": 226857,
-      "word": "2023ChinaJoy确认将在上海举办",
-      "onboard_time": 1676355631,
-      "rank": 44,
-      "category": "游戏,动漫"
     },
     {
       "raw_hot": 226396,
@@ -2920,14 +2992,6 @@
       "word": "情人节民政局门口凌晨四点开始排队",
       "onboard_time": 1676349100,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214887,
-      "num": 214887,
-      "word": "官方通报城管收走孩子写作业桌子",
-      "onboard_time": 1676358034,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -3395,6 +3459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167476,
+      "num": 167476,
+      "word": "小伙种菇失败却成功召唤农科院专家",
+      "onboard_time": 1676359354,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166165,
       "num": 166165,
       "word": "像徐江会做的事",
@@ -3435,6 +3507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161734,
+      "num": 161734,
+      "word": "鲜花批发价上涨30%",
+      "onboard_time": 1676358637,
+      "rank": 41,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 160273,
       "num": 160273,
       "word": "吴易昺想在杭州亚运会夺金",
@@ -3451,12 +3531,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157471,
-      "num": 133626,
-      "word": "情人节垃圾桶寻宝指南",
-      "onboard_time": 1676358273,
-      "rank": 48,
-      "category": "社会新闻,幽默"
+      "raw_hot": 159045,
+      "num": 159045,
+      "word": "我的cp必须过情人节",
+      "onboard_time": 1676356832,
+      "rank": 45,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 157024,
@@ -3465,6 +3545,14 @@
       "onboard_time": 1676210436,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156941,
+      "num": 156941,
+      "word": "接吻时身体会有这些反应",
+      "onboard_time": 1676360013,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 155829,
@@ -3489,14 +3577,6 @@
       "onboard_time": 1676270272,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153211,
-      "num": 153211,
-      "word": "鲜花批发价上涨30%",
-      "onboard_time": 1676358637,
-      "rank": 41,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 152128,
@@ -3633,14 +3713,6 @@
       "onboard_time": 1676251826,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125101,
-      "num": 125101,
-      "word": "檀健次张婧仪情人节芭莎大片",
-      "onboard_time": 1676359052,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 121525,

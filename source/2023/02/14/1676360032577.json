@@ -1,0 +1,410 @@
+{
+  "runTime": 1676360032577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2728385,
+        "num": 2728385,
+        "word": "南宁万达茂",
+        "onboard_time": 1676357553,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1748520,
+        "num": 1748520,
+        "word": "不明飞行物",
+        "onboard_time": 1676357312,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48619,
+        "num": 1148433,
+        "word": "中国乡村振兴定能结出累累果实",
+        "onboard_time": 1676343644,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131617,
+        "num": 1131617,
+        "word": "黄景瑜白百何王丽坤新片情人节海报",
+        "onboard_time": 1676359052,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 883824,
+        "num": 883824,
+        "word": "微信可以发520红包了",
+        "onboard_time": 1676355092,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 610297,
+        "num": 610297,
+        "word": "河南多地发生巨响",
+        "onboard_time": 1676353352,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603746,
+        "num": 603746,
+        "word": "俄亥俄州已有居民出现头痛恶心症状",
+        "onboard_time": 1676355331,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559459,
+        "num": 559459,
+        "word": "赵露思陈哲远偷偷藏不住双人舞花絮",
+        "onboard_time": 1676357068,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 513830,
+        "num": 513830,
+        "word": "Viper捐款7000万韩元",
+        "onboard_time": 1676354914,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 460620,
+        "num": 460620,
+        "word": "刘浩存的古装扮相",
+        "onboard_time": 1676352513,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2495233,
+        "num": 460426,
+        "word": "高中女生自曝继父在其房间装摄像头",
+        "onboard_time": 1676355870,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457916,
+        "num": 457916,
+        "word": "折腰",
+        "onboard_time": 1676357732,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435780,
+        "num": 435780,
+        "word": "武康路 郁金香",
+        "onboard_time": 1676355271,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 396817,
+        "num": 396817,
+        "word": "缉毒警怕出意外曾与女友提分手",
+        "onboard_time": 1676355569,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380333,
+        "num": 380333,
+        "word": "卤味巨头日子为何不好过",
+        "onboard_time": 1676356289,
+        "rank": 14,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 376095,
+        "num": 376095,
+        "word": "周黑鸭业绩大降超90%",
+        "onboard_time": 1676343871,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 364237,
+        "num": 364237,
+        "word": "杨洋再不进组这就是你的归宿",
+        "onboard_time": 1676341532,
+        "rank": 16,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 360856,
+        "num": 360856,
+        "word": "富婆音",
+        "onboard_time": 1676351137,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 359572,
+        "num": 359572,
+        "word": "张婧仪晒卷发怼脸自拍",
+        "onboard_time": 1676359533,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342360,
+        "num": 342360,
+        "word": "四川的文旅局长卷起来了",
+        "onboard_time": 1676357971,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424984,
+        "num": 333989,
+        "word": "女孩与他人喝酒过夜当街与男友争吵",
+        "onboard_time": 1676348076,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324328,
+        "num": 324328,
+        "word": "檀健次张婧仪情人节芭莎大片",
+        "onboard_time": 1676359052,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 318161,
+        "num": 318161,
+        "word": "童星出道的孩子都组cp了",
+        "onboard_time": 1676358575,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301860,
+        "num": 301860,
+        "word": "九尾",
+        "onboard_time": 1676351795,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300201,
+        "num": 300201,
+        "word": "美俄亥俄州大量动物突然死亡",
+        "onboard_time": 1676338112,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 298727,
+        "num": 298727,
+        "word": "官方通报城管收走孩子写作业桌子",
+        "onboard_time": 1676358034,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292594,
+        "num": 292594,
+        "word": "情人节垃圾桶寻宝指南",
+        "onboard_time": 1676358273,
+        "rank": 26,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 284797,
+        "num": 284797,
+        "word": "爸爸因姜姓难取名给孩子叫去寒",
+        "onboard_time": 1676342791,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268939,
+        "num": 268939,
+        "word": "底线研讨会",
+        "onboard_time": 1676359533,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264736,
+        "num": 264736,
+        "word": "花儿与少年5",
+        "onboard_time": 1676343393,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281276,
+        "num": 264181,
+        "word": "男子垃圾桶旁捡玫瑰送妻子",
+        "onboard_time": 1676359472,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260512,
+        "num": 260512,
+        "word": "薛之谦说我们见面吧",
+        "onboard_time": 1676359533,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259584,
+        "num": 259584,
+        "word": "博主回应科普坐高铁视频走红",
+        "onboard_time": 1676358034,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 255154,
+        "num": 255154,
+        "word": "时代少年团三亚花衬衫路透",
+        "onboard_time": 1676357671,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246280,
+        "num": 246280,
+        "word": "南宁一商场男子持刀伤害一女子",
+        "onboard_time": 1676359472,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 238488,
+        "num": 238488,
+        "word": "王力宏公司被冻结901万存款",
+        "onboard_time": 1676359773,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 237364,
+        "num": 237364,
+        "word": "东极镇政府回应海誓山盟碑碎了",
+        "onboard_time": 1676352155,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234886,
+        "num": 234886,
+        "word": "28岁单身女孩情人节前崩溃大哭",
+        "onboard_time": 1676341052,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 234406,
+        "num": 234406,
+        "word": "陈乔恩贾冰新片姐弟恋",
+        "onboard_time": 1676348621,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233146,
+        "num": 233146,
+        "word": "2023ChinaJoy确认将在上海举办",
+        "onboard_time": 1676355631,
+        "rank": 39,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 210293,
+        "num": 210293,
+        "word": "张子枫胡先煦新片演夫妻",
+        "onboard_time": 1676341532,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188852,
+        "num": 188852,
+        "word": "杨紫太阳花气球随拍",
+        "onboard_time": 1676354312,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168820,
+        "num": 168820,
+        "word": "王霏霏Min合体梦回missA",
+        "onboard_time": 1676348559,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167476,
+        "num": 167476,
+        "word": "小伙种菇失败却成功召唤农科院专家",
+        "onboard_time": 1676359354,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161734,
+        "num": 161734,
+        "word": "鲜花批发价上涨30%",
+        "onboard_time": 1676358637,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 159045,
+        "num": 159045,
+        "word": "我的cp必须过情人节",
+        "onboard_time": 1676356832,
+        "rank": 45,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 157423,
+        "num": 157423,
+        "word": "肖战如梦之梦最新视频",
+        "onboard_time": 1676350059,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156941,
+        "num": 156941,
+        "word": "接吻时身体会有这些反应",
+        "onboard_time": 1676360013,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 152573,
+        "num": 152573,
+        "word": "2023年多省公务员扩招超50%",
+        "onboard_time": 1676341234,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150782,
+        "num": 150782,
+        "word": "李秀满只负责SMTOWN海外制作",
+        "onboard_time": 1676351377,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#守好三农基本盘至关重要不容有失#"
+    }
+  }
+}
