@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676409433482,
+  "endTime": 1676410431141,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -5105,6 +5105,14 @@
       "onboard_time": 1676316553,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14920,
+      "num": 15681,
+      "word": "原来猛兽的睡姿是这样的",
+      "onboard_time": 1676410093,
+      "rank": 47,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
