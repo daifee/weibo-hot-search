@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676373394810,
+  "endTime": 1676374439172,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -63,6 +63,14 @@
       "num": 2749760,
       "word": "徐明浩锁骨部位骨折",
       "onboard_time": 1676272968,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2603672,
+      "num": 2603672,
+      "word": "金莎 情人节终于有人一起过了",
+      "onboard_time": 1676372132,
       "rank": 1,
       "category": "艺人"
     },
@@ -195,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1786392,
-      "num": 1786392,
-      "word": "金莎 情人节终于有人一起过了",
-      "onboard_time": 1676372132,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1773636,
       "num": 1773636,
       "word": "王力宏将申请强制执行",
@@ -273,6 +273,14 @@
       "onboard_time": 1676277105,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1469649,
+      "num": 1469649,
+      "word": "马思纯说张哲轩像太阳一样照亮她",
+      "onboard_time": 1676371833,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1458870,
@@ -417,14 +425,6 @@
       "onboard_time": 1676215412,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1211018,
-      "num": 1211018,
-      "word": "马思纯说张哲轩像太阳一样照亮她",
-      "onboard_time": 1676371833,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1206059,
@@ -603,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 948602,
+      "num": 948602,
+      "word": "邓超情人节送孙俪一盆菜",
+      "onboard_time": 1676371652,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 932981,
       "num": 932981,
       "word": "为什么年轻人都存不到钱",
@@ -697,14 +705,6 @@
       "onboard_time": 1676350298,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 863805,
-      "num": 863805,
-      "word": "邓超情人节送孙俪一盆菜",
-      "onboard_time": 1676371652,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 855950,
@@ -811,6 +811,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 795558,
+      "num": 795558,
+      "word": "两名主播涉嫌偷逃税款被罚",
+      "onboard_time": 1676371114,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 795367,
       "num": 795367,
       "word": "韩媒关注林孝埈连续夺冠",
@@ -825,14 +833,6 @@
       "onboard_time": 1676274403,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 790268,
-      "num": 790268,
-      "word": "两名主播涉嫌偷逃税款被罚",
-      "onboard_time": 1676371114,
-      "rank": 11,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 789266,
@@ -1017,6 +1017,14 @@
       "onboard_time": 1676352513,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 699455,
+      "num": 699455,
+      "word": "Rookie撕玫瑰花",
+      "onboard_time": 1676372675,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 697294,
@@ -1699,6 +1707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 471865,
+      "num": 247038,
+      "word": "王子文说爱情不是争取就能有的",
+      "onboard_time": 1676373694,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467951,
       "num": 467951,
       "word": "名侦探柯南情人节贺图",
@@ -1769,6 +1785,14 @@
       "onboard_time": 1676285445,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457647,
+      "num": 457647,
+      "word": "全国多地出现巨型花束",
+      "onboard_time": 1676371474,
+      "rank": 17,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 453424,
@@ -1977,14 +2001,6 @@
       "onboard_time": 1676259989,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 406458,
-      "num": 406458,
-      "word": "全国多地出现巨型花束",
-      "onboard_time": 1676371474,
-      "rank": 17,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 404955,
@@ -2291,6 +2307,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 355067,
+      "num": 355067,
+      "word": "蔚来试驾车冲进人行道致一死一伤",
+      "onboard_time": 1676374113,
+      "rank": 18,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 354725,
       "num": 354725,
       "word": "男生攒压岁钱给妈妈换手机却挨批",
@@ -2321,14 +2345,6 @@
       "onboard_time": 1676299301,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 348929,
-      "num": 348929,
-      "word": "Rookie撕玫瑰花",
-      "onboard_time": 1676372675,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 346101,
@@ -2603,6 +2619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307009,
+      "num": 307009,
+      "word": "张碧晨去有风的地方取景地随拍",
+      "onboard_time": 1676374113,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306758,
       "num": 306758,
       "word": "杨超越感谢刘宇宁为重紫献声",
@@ -2865,6 +2889,14 @@
       "onboard_time": 1676249247,
       "rank": 41,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 277361,
+      "num": 277361,
+      "word": "蒋依依穿汉服直播",
+      "onboard_time": 1676373156,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 276836,
@@ -3315,6 +3347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223070,
+      "num": 223070,
+      "word": "数年后俄亥俄州或现大批癌症患者",
+      "onboard_time": 1676373515,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 222705,
       "num": 2344604,
       "word": "中国救援队已营救多名被困者",
@@ -3515,6 +3555,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 200795,
+      "num": 200795,
+      "word": "上海今年情人节玫瑰价格近年最高",
+      "onboard_time": 1676372497,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199531,
       "num": 199531,
       "word": "你在求职中遇到过性别歧视吗",
@@ -3553,14 +3601,6 @@
       "onboard_time": 1676276205,
       "rank": 41,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 196832,
-      "num": 196832,
-      "word": "上海今年情人节玫瑰价格近年最高",
-      "onboard_time": 1676372497,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196526,
@@ -3627,6 +3667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193053,
+      "num": 193053,
+      "word": "如何看待满江红周边争议",
+      "onboard_time": 1676373095,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192979,
       "num": 192979,
       "word": "蕾哈娜手语翻译",
@@ -3691,14 +3739,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 189786,
-      "num": 189786,
-      "word": "蒋依依穿汉服直播",
-      "onboard_time": 1676373156,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189039,
       "num": 189039,
       "word": "王宝强甄子丹任贤齐合照",
@@ -3729,6 +3769,14 @@
       "onboard_time": 1676331143,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186693,
+      "num": 186693,
+      "word": "城管撕春联爆料者称被跨省敲门",
+      "onboard_time": 1676373752,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184845,
@@ -3875,6 +3923,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 174036,
+      "num": 174036,
+      "word": "齐齐哈尔现不明飞行物",
+      "onboard_time": 1676373812,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173683,
       "num": 173683,
       "word": "羽生结弦CLAMP合作",
@@ -3955,6 +4011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166846,
+      "num": 166846,
+      "word": "韩国民众向土耳其捐赠大量脏衣服",
+      "onboard_time": 1676374354,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166165,
       "num": 166165,
       "word": "像徐江会做的事",
@@ -3985,14 +4049,6 @@
       "onboard_time": 1676342553,
       "rank": 40,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 162427,
-      "num": 162427,
-      "word": "如何看待满江红周边争议",
-      "onboard_time": 1676373095,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 161909,

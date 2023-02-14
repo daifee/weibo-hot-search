@@ -1,6 +1,6 @@
 {
   "startTime": 1676305608565,
-  "endTime": 1676373394810,
+  "endTime": 1676374439172,
   "band_list": [
     {
       "raw_hot": 3382879,
@@ -25,6 +25,14 @@
       "onboard_time": 1676342791,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2603672,
+      "num": 2603672,
+      "word": "金莎 情人节终于有人一起过了",
+      "onboard_time": 1676372132,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2495233,
@@ -91,14 +99,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1786392,
-      "num": 1786392,
-      "word": "金莎 情人节终于有人一起过了",
-      "onboard_time": 1676372132,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1773636,
       "num": 1773636,
       "word": "王力宏将申请强制执行",
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1469649,
+      "num": 1469649,
+      "word": "马思纯说张哲轩像太阳一样照亮她",
+      "onboard_time": 1676371833,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1451992,
       "num": 1451992,
       "word": "专家建议短期别喝产地俄亥俄的牛奶",
@@ -177,14 +185,6 @@
       "onboard_time": 1676367395,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1211018,
-      "num": 1211018,
-      "word": "马思纯说张哲轩像太阳一样照亮她",
-      "onboard_time": 1676371833,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1176159,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 948602,
+      "num": 948602,
+      "word": "邓超情人节送孙俪一盆菜",
+      "onboard_time": 1676371652,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 932981,
       "num": 932981,
       "word": "为什么年轻人都存不到钱",
@@ -355,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 863805,
-      "num": 863805,
-      "word": "邓超情人节送孙俪一盆菜",
-      "onboard_time": 1676371652,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 854136,
       "num": 854136,
       "word": "2023年多省公务员扩招超50%",
@@ -387,8 +387,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 790268,
-      "num": 790268,
+      "raw_hot": 795558,
+      "num": 795558,
       "word": "两名主播涉嫌偷逃税款被罚",
       "onboard_time": 1676371114,
       "rank": 11,
@@ -489,6 +489,14 @@
       "onboard_time": 1676352513,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 699455,
+      "num": 699455,
+      "word": "Rookie撕玫瑰花",
+      "onboard_time": 1676372675,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 694275,
@@ -795,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471865,
+      "num": 247038,
+      "word": "王子文说爱情不是争取就能有的",
+      "onboard_time": 1676373694,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467951,
       "num": 467951,
       "word": "名侦探柯南情人节贺图",
@@ -817,6 +833,14 @@
       "onboard_time": 1676359354,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457647,
+      "num": 457647,
+      "word": "全国多地出现巨型花束",
+      "onboard_time": 1676371474,
+      "rank": 17,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 453424,
@@ -905,14 +929,6 @@
       "onboard_time": 1676340991,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 406458,
-      "num": 406458,
-      "word": "全国多地出现巨型花束",
-      "onboard_time": 1676371474,
-      "rank": 17,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 404955,
@@ -1099,20 +1115,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355067,
+      "num": 355067,
+      "word": "蔚来试驾车冲进人行道致一死一伤",
+      "onboard_time": 1676374113,
+      "rank": 18,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 351767,
       "num": 351767,
       "word": "李乃文扮保安找李小冉要签名",
       "onboard_time": 1676364333,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 348929,
-      "num": 348929,
-      "word": "Rookie撕玫瑰花",
-      "onboard_time": 1676372675,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 345829,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1676334571,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307009,
+      "num": 307009,
+      "word": "张碧晨去有风的地方取景地随拍",
+      "onboard_time": 1676374113,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 306758,
@@ -1400,6 +1424,14 @@
       "word": "满江红周边设计公司3人参保",
       "onboard_time": 1676363912,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 277361,
+      "num": 277361,
+      "word": "蒋依依穿汉服直播",
+      "onboard_time": 1676373156,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -1611,6 +1643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223070,
+      "num": 223070,
+      "word": "数年后俄亥俄州或现大批癌症患者",
+      "onboard_time": 1676373515,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 216045,
       "num": 216045,
       "word": "官方回应城管收走孩子写作业桌子",
@@ -1715,6 +1755,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 200795,
+      "num": 200795,
+      "word": "上海今年情人节玫瑰价格近年最高",
+      "onboard_time": 1676372497,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199531,
       "num": 199531,
       "word": "你在求职中遇到过性别歧视吗",
@@ -1737,14 +1785,6 @@
       "onboard_time": 1676277220,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 196832,
-      "num": 196832,
-      "word": "上海今年情人节玫瑰价格近年最高",
-      "onboard_time": 1676372497,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196526,
@@ -1787,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193053,
+      "num": 193053,
+      "word": "如何看待满江红周边争议",
+      "onboard_time": 1676373095,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192974,
       "num": 192974,
       "word": "chatgpt 狗狗叫三万的原因",
@@ -1819,14 +1867,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 189786,
-      "num": 189786,
-      "word": "蒋依依穿汉服直播",
-      "onboard_time": 1676373156,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189039,
       "num": 189039,
       "word": "王宝强甄子丹任贤齐合照",
@@ -1849,6 +1889,14 @@
       "onboard_time": 1676331143,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186693,
+      "num": 186693,
+      "word": "城管撕春联爆料者称被跨省敲门",
+      "onboard_time": 1676373752,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183901,
@@ -1899,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174036,
+      "num": 174036,
+      "word": "齐齐哈尔现不明飞行物",
+      "onboard_time": 1676373812,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173499,
       "num": 173499,
       "word": "爱情而已芭莎情人节大片",
@@ -1913,6 +1969,14 @@
       "onboard_time": 1676333851,
       "rank": 41,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 166846,
+      "num": 166846,
+      "word": "韩国民众向土耳其捐赠大量脏衣服",
+      "onboard_time": 1676374354,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166165,
@@ -1937,14 +2001,6 @@
       "onboard_time": 1676342553,
       "rank": 40,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 162427,
-      "num": 162427,
-      "word": "如何看待满江红周边争议",
-      "onboard_time": 1676373095,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 161734,
