@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676402130835,
+  "endTime": 1676403213475,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -5041,6 +5041,14 @@
       "onboard_time": 1676398456,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48185,
+      "num": 48185,
+      "word": "龚俊长白山滑雪vlog",
+      "onboard_time": 1676402773,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 43862,

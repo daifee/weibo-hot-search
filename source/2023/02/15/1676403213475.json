@@ -1,0 +1,410 @@
+{
+  "runTime": 1676403213475,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 191317,
+        "num": 191317,
+        "word": "网红苏乞儿回应骑摩托上高速被拦",
+        "onboard_time": 1676390431,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141972,
+        "num": 141972,
+        "word": "顺丰寄爱马仕包运输中被烧毁",
+        "onboard_time": 1676377114,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12245,
+        "num": 128828,
+        "word": "震后救援中的中国身影",
+        "onboard_time": 1676381077,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 119357,
+        "num": 119357,
+        "word": "王力宏将申请强制执行",
+        "onboard_time": 1676371413,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 105708,
+        "num": 105708,
+        "word": "西周大墓发现三层43具殉人布满墓道",
+        "onboard_time": 1676396178,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104590,
+        "num": 104590,
+        "word": "女子来西安旅游买30元彩票中了1800万",
+        "onboard_time": 1676386897,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95908,
+        "num": 95908,
+        "word": "女生情人节垃圾桶捡到积木城堡",
+        "onboard_time": 1676385217,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82581,
+        "num": 82581,
+        "word": "鸭脖为何卖不动了",
+        "onboard_time": 1676375913,
+        "rank": 7,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 70750,
+        "num": 70750,
+        "word": "68岁环卫工被茶百道员工殴打住院",
+        "onboard_time": 1676376873,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 67557,
+        "num": 67557,
+        "word": "金莎 情人节终于有人一起过了",
+        "onboard_time": 1676372132,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166224,
+        "num": 67270,
+        "word": "黄子韬徐艺洋 情人节团建",
+        "onboard_time": 1676378317,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66660,
+        "num": 66660,
+        "word": "巴黎圣日耳曼vs拜仁慕尼黑",
+        "onboard_time": 1676387859,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60139,
+        "num": 60139,
+        "word": "杜海涛因为一碗米饭对沈梦辰上头",
+        "onboard_time": 1676384318,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58410,
+        "num": 58410,
+        "word": "陈妍希说陈晓婚前非常浪漫",
+        "onboard_time": 1676371293,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56531,
+        "num": 56531,
+        "word": "男子反复缴费套取蚂蚁森林能量被封号",
+        "onboard_time": 1676379334,
+        "rank": 14,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 55812,
+        "num": 55812,
+        "word": "女生称继父在其房间装摄像头多部门已介入",
+        "onboard_time": 1676377474,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55583,
+        "num": 55583,
+        "word": "TheShy状态",
+        "onboard_time": 1676386897,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53820,
+        "num": 53820,
+        "word": "咖啡真的可以减肥吗",
+        "onboard_time": 1676390132,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 49101,
+        "num": 49101,
+        "word": "马思纯说张哲轩像太阳一样照亮她",
+        "onboard_time": 1676371833,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48185,
+        "num": 48185,
+        "word": "龚俊长白山滑雪vlog",
+        "onboard_time": 1676402773,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56093,
+        "num": 48010,
+        "word": "南宁刺死女子嫌犯已投江",
+        "onboard_time": 1676367513,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 46891,
+        "num": 46891,
+        "word": "王传君说大家对王一博有一些误解",
+        "onboard_time": 1676376274,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45860,
+        "num": 45860,
+        "word": "两名主播涉嫌偷逃税款被罚",
+        "onboard_time": 1676371114,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 44390,
+        "num": 44390,
+        "word": "女孩回应向叙利亚捐6000包卫生巾",
+        "onboard_time": 1676376995,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42387,
+        "num": 42387,
+        "word": "吉克隽逸活动状态",
+        "onboard_time": 1676401693,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42326,
+        "num": 42326,
+        "word": "张颂文给电鱼案设计了五个细节",
+        "onboard_time": 1676380475,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41164,
+        "num": 41164,
+        "word": "泰国将对外国游客征收入境费",
+        "onboard_time": 1676383536,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 39984,
+        "num": 39984,
+        "word": "你心目中改名最成功的大学",
+        "onboard_time": 1676375013,
+        "rank": 27,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 37158,
+        "num": 37158,
+        "word": "韩国民众向土耳其捐赠大量脏衣服",
+        "onboard_time": 1676374354,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35072,
+        "num": 35072,
+        "word": "许魏洲电影院被罚做俯卧撑",
+        "onboard_time": 1676391215,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34373,
+        "num": 34373,
+        "word": "成都迎来今年第一个扯证高峰",
+        "onboard_time": 1676392705,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33856,
+        "num": 33856,
+        "word": "周杰伦 花还是要去买的不能用变的",
+        "onboard_time": 1676386537,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33320,
+        "num": 33320,
+        "word": "中国足协主席陈戌源接受审查调查",
+        "onboard_time": 1676376575,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32260,
+        "num": 32260,
+        "word": "赵丽颖推荐王梓薇客串与凤行",
+        "onboard_time": 1676383778,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31836,
+        "num": 31836,
+        "word": "邓超情人节送孙俪一盆菜",
+        "onboard_time": 1676371652,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31418,
+        "num": 31418,
+        "word": "疑似aespa新歌剧透",
+        "onboard_time": 1676393004,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30892,
+        "num": 30892,
+        "word": "这种浪漫不要也罢",
+        "onboard_time": 1676391268,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 30798,
+        "num": 30798,
+        "word": "男朋友送的花有多直男审美",
+        "onboard_time": 1676387317,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30086,
+        "num": 30086,
+        "word": "情人节偶遇黄子韬徐艺洋",
+        "onboard_time": 1676375734,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29633,
+        "num": 29633,
+        "word": "这活幽闭恐惧症的人干不了",
+        "onboard_time": 1676388575,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28804,
+        "num": 28804,
+        "word": "李秀满称将通过KPOP韩流拯救地球",
+        "onboard_time": 1676386174,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28009,
+        "num": 28009,
+        "word": "满江红周边下架",
+        "onboard_time": 1676362593,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27980,
+        "num": 27980,
+        "word": "TT 状态",
+        "onboard_time": 1676386235,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25229,
+        "num": 25229,
+        "word": "3千多年前的大型聚落遗址重见天日",
+        "onboard_time": 1676398456,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25178,
+        "num": 25178,
+        "word": "TT战胜WBG",
+        "onboard_time": 1676384917,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24035,
+        "num": 24035,
+        "word": "中国足球狂飙",
+        "onboard_time": 1676379156,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23987,
+        "num": 23987,
+        "word": "李靓蕾再发律师声明",
+        "onboard_time": 1676379819,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 23862,
+        "num": 23862,
+        "word": "陈年烈苟广播剧",
+        "onboard_time": 1676383296,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21186,
+        "num": 21186,
+        "word": "田曦薇元气回应粉丝喊话",
+        "onboard_time": 1676385936,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20389,
+        "num": 21184,
+        "word": "2023奥斯卡提名者大合影",
+        "onboard_time": 1676396836,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推进农业农村现代化#"
+    }
+  }
+}
