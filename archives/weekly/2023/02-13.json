@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676410431141,
+  "endTime": 1676413106300,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -4955,6 +4955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97942,
+      "num": 78101,
+      "word": "宁夏一地倡导女婿赡养岳父母",
+      "onboard_time": 1676411651,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90508,
       "num": 90508,
       "word": "刘宇宁特效视频",
@@ -5001,6 +5009,14 @@
       "onboard_time": 1676243358,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 64824,
+      "num": 64824,
+      "word": "原来猛兽的睡姿是这样的",
+      "onboard_time": 1676410093,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 60986,
@@ -5083,12 +5099,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28699,
-      "num": 28699,
+      "raw_hot": 29647,
+      "num": 29647,
       "word": "海贼王1051",
       "onboard_time": 1676405891,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 29161,
+      "num": 29161,
+      "word": "宁夏一地规定彩礼不得超过6万",
+      "onboard_time": 1676412793,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26532,
@@ -5105,14 +5129,6 @@
       "onboard_time": 1676316553,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14920,
-      "num": 15681,
-      "word": "原来猛兽的睡姿是这样的",
-      "onboard_time": 1676410093,
-      "rank": 47,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [

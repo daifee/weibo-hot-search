@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676410431141,
+  "endTime": 1676413106300,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -31635,6 +31635,14 @@
       "category": "综艺,军事"
     },
     {
+      "raw_hot": 97942,
+      "num": 78101,
+      "word": "宁夏一地倡导女婿赡养岳父母",
+      "onboard_time": 1676411651,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97776,
       "num": 97776,
       "word": "苏州坐地铁可直达上海",
@@ -32065,6 +32073,14 @@
       "onboard_time": 1676243358,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 64824,
+      "num": 64824,
+      "word": "原来猛兽的睡姿是这样的",
+      "onboard_time": 1676410093,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 63772,
@@ -32563,6 +32579,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29647,
+      "num": 29647,
+      "word": "海贼王1051",
+      "onboard_time": 1676405891,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 29161,
+      "num": 29161,
+      "word": "宁夏一地规定彩礼不得超过6万",
+      "onboard_time": 1676412793,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29058,
       "num": 29058,
       "word": "这个挑食是情有可原的",
@@ -32585,14 +32617,6 @@
       "onboard_time": 1675791854,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28699,
-      "num": 28699,
-      "word": "海贼王1051",
-      "onboard_time": 1676405891,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 27900,
@@ -32697,14 +32721,6 @@
       "onboard_time": 1675190774,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14920,
-      "num": 15681,
-      "word": "原来猛兽的睡姿是这样的",
-      "onboard_time": 1676410093,
-      "rank": 47,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
