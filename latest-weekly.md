@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/13 00:24:26 ~ 2023/02/15 02:23:44
+本榜单时间：2023/02/13 00:24:26 ~ 2023/02/15 02:38:23
 </p>
 </blockquote>
 <p>
@@ -3255,6 +3255,12 @@ TES战胜iG（热度：191000）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%91%A8%E5%A4%A7%E5%A2%93%E5%8F%91%E7%8E%B0%E4%B8%89%E5%B1%8243%E5%85%B7%E6%AE%89%E4%BA%BA%E5%B8%83%E6%BB%A1%E5%A2%93%E9%81%93%23" target="weibo">
+西周大墓发现三层43具殉人布满墓道（热度：182636）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%A7%B0AI%E6%B0%B8%E8%BF%9C%E5%8F%96%E4%BB%A3%E4%B8%8D%E4%BA%86%E4%BA%BA%E7%B1%BB%23" target="weibo">
 苹果联合创始人称AI永远取代不了人类（热度：182280）
 </a>
@@ -3365,12 +3371,6 @@ Qing瑞兹五杀（热度：177449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%98%8E%E4%B8%B0%E7%A2%A7%E7%8E%89%E5%A7%90%E5%A7%90%E6%9D%A5%E4%BA%86%23" target="weibo">
 大明丰碧玉姐姐来了（热度：172924）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%91%A8%E5%A4%A7%E5%A2%93%E5%8F%91%E7%8E%B0%E4%B8%89%E5%B1%8243%E5%85%B7%E6%AE%89%E4%BA%BA%E5%B8%83%E6%BB%A1%E5%A2%93%E9%81%93%23" target="weibo">
-西周大墓发现三层43具殉人布满墓道（热度：172153）
 </a>
 </li>
 
@@ -3784,7 +3784,7 @@ WBG春季赛首周冠军（热度：115830）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%233%E5%8D%83%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%9A%84%E5%A4%A7%E5%9E%8B%E8%81%9A%E8%90%BD%E9%81%97%E5%9D%80%E9%87%8D%E8%A7%81%E5%A4%A9%E6%97%A5%23" target="weibo">
-3千多年前的大型聚落遗址重见天日（热度：46930）
+3千多年前的大型聚落遗址重见天日（热度：48382）
 </a>
 </li>
 
