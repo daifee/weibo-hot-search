@@ -1,0 +1,410 @@
+{
+  "runTime": 1676381998186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2966175,
+        "num": 2966175,
+        "word": "顺丰寄爱马仕包运输中被烧毁",
+        "onboard_time": 1676377114,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1497655,
+        "num": 1497655,
+        "word": "金莎 情人节终于有人一起过了",
+        "onboard_time": 1676372132,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103675,
+        "num": 1369156,
+        "word": "震后救援中的中国身影",
+        "onboard_time": 1676381077,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1338492,
+        "num": 1338492,
+        "word": "男子反复缴费套取蚂蚁森林能量被封号",
+        "onboard_time": 1676379334,
+        "rank": 3,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1268608,
+        "num": 1268608,
+        "word": "王传君说大家对王一博有一些误解",
+        "onboard_time": 1676376274,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1114720,
+        "num": 1114720,
+        "word": "68岁环卫工被茶百道员工殴打住院",
+        "onboard_time": 1676376873,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1079569,
+        "num": 1079569,
+        "word": "鸭脖为何卖不动了",
+        "onboard_time": 1676375913,
+        "rank": 6,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1030375,
+        "num": 1030375,
+        "word": "中国足协主席陈戌源被查",
+        "onboard_time": 1676376575,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 966273,
+        "num": 966273,
+        "word": "陈妍希说陈晓婚前非常浪漫",
+        "onboard_time": 1676371293,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 958154,
+        "num": 958154,
+        "word": "朴灿烈吴世勋情人节视频",
+        "onboard_time": 1676379096,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3052791,
+        "num": 943715,
+        "word": "黄子韬徐艺洋 情人节团建",
+        "onboard_time": 1676378317,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1031960,
+        "num": 936440,
+        "word": "南宁刺死女子嫌犯已投江",
+        "onboard_time": 1676367513,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 927275,
+        "num": 927275,
+        "word": "深渊 空降",
+        "onboard_time": 1676376335,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 844696,
+        "num": 844696,
+        "word": "怀孕时被拐卖女子欲追责人贩",
+        "onboard_time": 1676379696,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702042,
+        "num": 702042,
+        "word": "女孩回应向叙利亚捐6000包卫生巾",
+        "onboard_time": 1676376995,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634045,
+        "num": 634045,
+        "word": "王力宏将申请强制执行",
+        "onboard_time": 1676371413,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 628707,
+        "num": 628707,
+        "word": "马思纯说张哲轩像太阳一样照亮她",
+        "onboard_time": 1676371833,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 585391,
+        "num": 585391,
+        "word": "中国足球狂飙",
+        "onboard_time": 1676379156,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 571368,
+        "num": 571368,
+        "word": "韩国民众向土耳其捐赠大量脏衣服",
+        "onboard_time": 1676374354,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502863,
+        "num": 502863,
+        "word": "三体",
+        "onboard_time": 1676380359,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1090817,
+        "num": 494446,
+        "word": "情人节偶遇黄子韬徐艺洋",
+        "onboard_time": 1676375734,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431992,
+        "num": 431992,
+        "word": "女生称继父在其房间装摄像头多部门已介入",
+        "onboard_time": 1676377474,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456291,
+        "num": 431412,
+        "word": "邓超情人节送孙俪一盆菜",
+        "onboard_time": 1676371652,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428938,
+        "num": 428938,
+        "word": "张颂文给电鱼案设计了五个细节",
+        "onboard_time": 1676380475,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420373,
+        "num": 420373,
+        "word": "情人节文案",
+        "onboard_time": 1676381913,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401323,
+        "num": 401323,
+        "word": "两名主播涉嫌偷逃税款被罚",
+        "onboard_time": 1676371114,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 368561,
+        "num": 368561,
+        "word": "情人节捡花",
+        "onboard_time": 1676367395,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350949,
+        "num": 350949,
+        "word": "李靓蕾再发律师声明",
+        "onboard_time": 1676379819,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 346195,
+        "num": 346195,
+        "word": "情人节",
+        "onboard_time": 1676332347,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341862,
+        "num": 341862,
+        "word": "满江红周边下架",
+        "onboard_time": 1676362593,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325324,
+        "num": 325324,
+        "word": "TT对战WBG",
+        "onboard_time": 1676379936,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 306090,
+        "num": 306090,
+        "word": "你心目中改名最成功的大学",
+        "onboard_time": 1676375013,
+        "rank": 31,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 304360,
+        "num": 304360,
+        "word": "想见你",
+        "onboard_time": 1676368892,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359758,
+        "num": 303716,
+        "word": "陈奕迅情人节文案好甜",
+        "onboard_time": 1676380475,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302962,
+        "num": 302962,
+        "word": "蔚来试驾车冲进人行道致一死一伤",
+        "onboard_time": 1676374113,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 295383,
+        "num": 295383,
+        "word": "卤味三巨头利润全暴跌",
+        "onboard_time": 1676368652,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 283938,
+        "num": 283938,
+        "word": "朴敏英被传唤调查",
+        "onboard_time": 1676363973,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267577,
+        "num": 267577,
+        "word": "SEVENTEEN直播",
+        "onboard_time": 1676378916,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254584,
+        "num": 254584,
+        "word": "赵露思新剧校服马尾造型路透",
+        "onboard_time": 1676381674,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252900,
+        "num": 252900,
+        "word": "Rookie撕玫瑰花",
+        "onboard_time": 1676372675,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241124,
+        "num": 241124,
+        "word": "专家建议短期别喝产地俄亥俄的牛奶",
+        "onboard_time": 1676361395,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227774,
+        "num": 227774,
+        "word": "阮流筝说不敢喜欢宁至谦",
+        "onboard_time": 1676379037,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222524,
+        "num": 222524,
+        "word": "欧冠",
+        "onboard_time": 1676377717,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201517,
+        "num": 201517,
+        "word": "接吻时身体会有这些反应",
+        "onboard_time": 1676360013,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 195649,
+        "num": 195649,
+        "word": "李秀满出席活动状态",
+        "onboard_time": 1676380236,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188880,
+        "num": 188880,
+        "word": "网友把张颂文回复网友的草做成了钥匙挂件",
+        "onboard_time": 1676362954,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181147,
+        "num": 181147,
+        "word": "王子文说爱情不是争取就能有的",
+        "onboard_time": 1676373694,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180083,
+        "num": 180083,
+        "word": "知情人士称1岁半遇难男童尸检已完成",
+        "onboard_time": 1676368052,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157835,
+        "num": 157835,
+        "word": "半熟恋人",
+        "onboard_time": 1676374955,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145654,
+        "num": 145654,
+        "word": "足协被查时间线",
+        "onboard_time": 1676381976,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图速览2023年中央一号文件#"
+    }
+  }
+}
