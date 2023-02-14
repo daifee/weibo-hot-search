@@ -1,7 +1,15 @@
 {
   "startTime": 1676305608565,
-  "endTime": 1676360032577,
+  "endTime": 1676363116967,
   "band_list": [
+    {
+      "raw_hot": 3085330,
+      "num": 3085330,
+      "word": "南宁万达茂",
+      "onboard_time": 1676357553,
+      "rank": 0,
+      "category": "社会负面"
+    },
     {
       "raw_hot": 2982051,
       "num": 2982051,
@@ -9,14 +17,6 @@
       "onboard_time": 1676342791,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2728385,
-      "num": 2728385,
-      "word": "南宁万达茂",
-      "onboard_time": 1676357553,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2495233,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1231185,
+      "num": 1231185,
+      "word": "接吻时身体会有这些反应",
+      "onboard_time": 1676360013,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1176159,
       "num": 1176159,
       "word": "孕妇如厕时生产婴儿被卡蹲便器",
@@ -163,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1078256,
+      "num": 1078256,
+      "word": "满江红周边下架",
+      "onboard_time": 1676362593,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1074340,
       "num": 504277,
       "word": "张萌 演员到底需不需要有文化",
@@ -184,6 +200,22 @@
       "word": "河南多地发生巨响",
       "onboard_time": 1676353352,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 989246,
+      "num": 989246,
+      "word": "男子垃圾桶旁捡玫瑰送妻子",
+      "onboard_time": 1676359472,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 977786,
+      "num": 531315,
+      "word": "专家建议短期别喝产地俄亥俄的牛奶",
+      "onboard_time": 1676361395,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -233,6 +265,14 @@
       "onboard_time": 1676304212,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 865609,
+      "num": 865609,
+      "word": "王力宏公司被冻结901万存款",
+      "onboard_time": 1676359773,
+      "rank": 35,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 865032,
@@ -379,6 +419,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 637712,
+      "num": 502030,
+      "word": "南宁一商场男子持刀伤害一女子",
+      "onboard_time": 1676359472,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 630843,
       "num": 630843,
       "word": "俄亥俄州已有居民出现头痛恶心症状",
@@ -433,6 +481,14 @@
       "onboard_time": 1676341836,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 578808,
+      "num": 578808,
+      "word": "玫瑰花",
+      "onboard_time": 1676360373,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 574195,
@@ -497,6 +553,14 @@
       "onboard_time": 1676345194,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545695,
+      "num": 545695,
+      "word": "张婧仪晒卷发怼脸自拍",
+      "onboard_time": 1676359533,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 539860,
@@ -579,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459546,
+      "num": 459546,
+      "word": "小伙种菇失败却成功召唤农科院专家",
+      "onboard_time": 1676359354,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445258,
       "num": 445258,
       "word": "缉毒警怕出意外曾与女友提分手",
@@ -635,6 +707,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 407242,
+      "num": 407242,
+      "word": "马思纯姜思达谈抑郁症",
+      "onboard_time": 1676361273,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406895,
       "num": 406895,
       "word": "星落凝成糖定档2月16日",
@@ -657,6 +737,14 @@
       "onboard_time": 1676351675,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 399285,
+      "num": 399285,
+      "word": "原来老一辈才是恋爱高手",
+      "onboard_time": 1676360134,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 395581,
@@ -712,6 +800,14 @@
       "word": "老人喝隔夜牛肉汤住进ICU",
       "onboard_time": 1676318952,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385689,
+      "num": 385689,
+      "word": "四川的文旅局长卷起来了",
+      "onboard_time": 1676357971,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -779,14 +875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 359572,
-      "num": 359572,
-      "word": "张婧仪晒卷发怼脸自拍",
-      "onboard_time": 1676359533,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 345816,
       "num": 345816,
       "word": "美国一载有毒化学品火车爆炸",
@@ -801,14 +889,6 @@
       "onboard_time": 1676341712,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 342360,
-      "num": 342360,
-      "word": "四川的文旅局长卷起来了",
-      "onboard_time": 1676357971,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 341976,
@@ -883,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305723,
+      "num": 305723,
+      "word": "食堂大爷送大妈钢丝球玫瑰花",
+      "onboard_time": 1676360856,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305627,
       "num": 305627,
       "word": "唐国强 演员的成功靠文化底蕴",
@@ -921,6 +1009,14 @@
       "onboard_time": 1676358034,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293737,
+      "num": 293737,
+      "word": "流浪地球2票房破37亿",
+      "onboard_time": 1676360194,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 292594,
@@ -1001,14 +1097,6 @@
       "onboard_time": 1676344116,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281276,
-      "num": 264181,
-      "word": "男子垃圾桶旁捡玫瑰送妻子",
-      "onboard_time": 1676359472,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279616,
@@ -1123,28 +1211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 246280,
-      "num": 246280,
-      "word": "南宁一商场男子持刀伤害一女子",
-      "onboard_time": 1676359472,
-      "rank": 34,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 242422,
       "num": 242422,
       "word": "粤康码多项服务于2月16日11时起停止",
       "onboard_time": 1676353112,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238488,
-      "num": 238488,
-      "word": "王力宏公司被冻结901万存款",
-      "onboard_time": 1676359773,
-      "rank": 35,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 238069,
@@ -1419,14 +1491,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 167476,
-      "num": 167476,
-      "word": "小伙种菇失败却成功召唤农科院专家",
-      "onboard_time": 1676359354,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166165,
       "num": 166165,
       "word": "像徐江会做的事",
@@ -1449,6 +1513,14 @@
       "onboard_time": 1676342553,
       "rank": 40,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 162465,
+      "num": 162465,
+      "word": "网友把张颂文回复网友的草做成了钥匙挂件",
+      "onboard_time": 1676362954,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 161734,
@@ -1481,14 +1553,6 @@
       "onboard_time": 1676293419,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156941,
-      "num": 156941,
-      "word": "接吻时身体会有这些反应",
-      "onboard_time": 1676360013,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 154892,
@@ -1537,6 +1601,14 @@
       "onboard_time": 1676299301,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144039,
+      "num": 144039,
+      "word": "丈夫提前送给妻子自制520草莓",
+      "onboard_time": 1676363074,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142296,
@@ -1689,6 +1761,14 @@
       "onboard_time": 1676290379,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51649,
+      "num": 453000,
+      "word": "电动车如何演绎豪华",
+      "onboard_time": 1676361633,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 26532,

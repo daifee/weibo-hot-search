@@ -1,0 +1,410 @@
+{
+  "runTime": 1676363116967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3085330,
+        "num": 3085330,
+        "word": "南宁万达茂",
+        "onboard_time": 1676357553,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1586855,
+        "num": 1586855,
+        "word": "不明飞行物",
+        "onboard_time": 1676357312,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42699,
+        "num": 1323041,
+        "word": "中国乡村振兴定能结出累累果实",
+        "onboard_time": 1676343644,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1231185,
+        "num": 1231185,
+        "word": "接吻时身体会有这些反应",
+        "onboard_time": 1676360013,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1078256,
+        "num": 1078256,
+        "word": "满江红周边下架",
+        "onboard_time": 1676362593,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 989246,
+        "num": 989246,
+        "word": "男子垃圾桶旁捡玫瑰送妻子",
+        "onboard_time": 1676359472,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865609,
+        "num": 865609,
+        "word": "王力宏公司被冻结901万存款",
+        "onboard_time": 1676359773,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 776072,
+        "num": 776072,
+        "word": "黄景瑜白百何王丽坤新片情人节海报",
+        "onboard_time": 1676359052,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 578808,
+        "num": 578808,
+        "word": "玫瑰花",
+        "onboard_time": 1676360373,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 545695,
+        "num": 545695,
+        "word": "张婧仪晒卷发怼脸自拍",
+        "onboard_time": 1676359533,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1967193,
+        "num": 540473,
+        "word": "高中女生自曝继父在其房间装摄像头",
+        "onboard_time": 1676355870,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977786,
+        "num": 531315,
+        "word": "专家建议短期别喝产地俄亥俄的牛奶",
+        "onboard_time": 1676361395,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637712,
+        "num": 502030,
+        "word": "南宁一商场男子持刀伤害一女子",
+        "onboard_time": 1676359472,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 459546,
+        "num": 459546,
+        "word": "小伙种菇失败却成功召唤农科院专家",
+        "onboard_time": 1676359354,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51649,
+        "num": 453000,
+        "word": "电动车如何演绎豪华",
+        "onboard_time": 1676361633,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 452042,
+        "num": 452042,
+        "word": "微信可以发520红包了",
+        "onboard_time": 1676355092,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 407242,
+        "num": 407242,
+        "word": "马思纯姜思达谈抑郁症",
+        "onboard_time": 1676361273,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399285,
+        "num": 399285,
+        "word": "原来老一辈才是恋爱高手",
+        "onboard_time": 1676360134,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385689,
+        "num": 385689,
+        "word": "四川的文旅局长卷起来了",
+        "onboard_time": 1676357971,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371303,
+        "num": 371303,
+        "word": "周黑鸭业绩大降超90%",
+        "onboard_time": 1676343871,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 336379,
+        "num": 336379,
+        "word": "俄亥俄州已有居民出现头痛恶心症状",
+        "onboard_time": 1676355331,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332886,
+        "num": 332886,
+        "word": "女孩与他人喝酒过夜当街与男友争吵",
+        "onboard_time": 1676348076,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323769,
+        "num": 323769,
+        "word": "刘浩存的古装扮相",
+        "onboard_time": 1676352513,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305723,
+        "num": 305723,
+        "word": "食堂大爷送大妈钢丝球玫瑰花",
+        "onboard_time": 1676360856,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293737,
+        "num": 293737,
+        "word": "流浪地球2票房破37亿",
+        "onboard_time": 1676360194,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281327,
+        "num": 281327,
+        "word": "Viper捐款7000万韩元",
+        "onboard_time": 1676354914,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271989,
+        "num": 271989,
+        "word": "赵露思陈哲远偷偷藏不住双人舞花絮",
+        "onboard_time": 1676357068,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264008,
+        "num": 264008,
+        "word": "情人节垃圾桶寻宝指南",
+        "onboard_time": 1676358273,
+        "rank": 27,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 248614,
+        "num": 248614,
+        "word": "美俄亥俄州大量动物突然死亡",
+        "onboard_time": 1676338112,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 247649,
+        "num": 247649,
+        "word": "河南多地发生巨响",
+        "onboard_time": 1676353352,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238913,
+        "num": 238913,
+        "word": "杨洋再不进组这就是你的归宿",
+        "onboard_time": 1676341532,
+        "rank": 30,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 232884,
+        "num": 232884,
+        "word": "折腰",
+        "onboard_time": 1676357732,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214478,
+        "num": 214478,
+        "word": "檀健次张婧仪情人节芭莎大片",
+        "onboard_time": 1676359052,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208325,
+        "num": 208325,
+        "word": "童星出道的孩子都组cp了",
+        "onboard_time": 1676358575,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195600,
+        "num": 195600,
+        "word": "花儿与少年5",
+        "onboard_time": 1676343393,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188678,
+        "num": 188678,
+        "word": "官方通报城管收走孩子写作业桌子",
+        "onboard_time": 1676358034,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183724,
+        "num": 183724,
+        "word": "卤味巨头日子为何不好过",
+        "onboard_time": 1676356289,
+        "rank": 36,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 177404,
+        "num": 177404,
+        "word": "缉毒警怕出意外曾与女友提分手",
+        "onboard_time": 1676355569,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176263,
+        "num": 176263,
+        "word": "九尾",
+        "onboard_time": 1676351795,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173952,
+        "num": 173952,
+        "word": "博主回应科普坐高铁视频走红",
+        "onboard_time": 1676358034,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173668,
+        "num": 173668,
+        "word": "富婆音",
+        "onboard_time": 1676351137,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167321,
+        "num": 167321,
+        "word": "张子枫胡先煦新片演夫妻",
+        "onboard_time": 1676341532,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166840,
+        "num": 166840,
+        "word": "28岁单身女孩情人节前崩溃大哭",
+        "onboard_time": 1676341052,
+        "rank": 42,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 162465,
+        "num": 162465,
+        "word": "网友把张颂文回复网友的草做成了钥匙挂件",
+        "onboard_time": 1676362954,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158936,
+        "num": 158936,
+        "word": "时代少年团三亚花衬衫路透",
+        "onboard_time": 1676357671,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157797,
+        "num": 157797,
+        "word": "武康路 郁金香",
+        "onboard_time": 1676355271,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 148833,
+        "num": 148833,
+        "word": "2023ChinaJoy确认将在上海举办",
+        "onboard_time": 1676355631,
+        "rank": 46,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 145859,
+        "num": 145859,
+        "word": "陈乔恩贾冰新片姐弟恋",
+        "onboard_time": 1676348621,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144039,
+        "num": 144039,
+        "word": "丈夫提前送给妻子自制520草莓",
+        "onboard_time": 1676363074,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140704,
+        "num": 140704,
+        "word": "我的cp必须过情人节",
+        "onboard_time": 1676356832,
+        "rank": 49,
+        "category": "动漫,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#守好三农基本盘至关重要不容有失#"
+    }
+  }
+}
