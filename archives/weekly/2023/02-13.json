@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676399903057,
+  "endTime": 1676402130835,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -5017,6 +5017,14 @@
       "onboard_time": 1676231891,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58098,
+      "num": 58098,
+      "word": "吉克隽逸活动状态",
+      "onboard_time": 1676401693,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 56129,
