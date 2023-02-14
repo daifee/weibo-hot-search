@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676385300215,
+  "endTime": 1676388019589,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1155388,
+      "num": 1155388,
+      "word": "杜海涛因为一碗米饭对沈梦辰上头",
+      "onboard_time": 1676384318,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1154795,
       "num": 1154795,
       "word": "富婆音",
@@ -643,6 +651,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1052557,
+      "num": 1052557,
+      "word": "女生情人节垃圾桶捡到积木城堡",
+      "onboard_time": 1676385217,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1043388,
       "num": 1043388,
       "word": "赵丽颖推荐王梓薇客串与凤行",
@@ -688,6 +704,14 @@
       "word": "男子垃圾桶旁捡玫瑰送妻子",
       "onboard_time": 1676359472,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 971074,
+      "num": 701590,
+      "word": "女子来西安旅游买30元彩票中了1800万",
+      "onboard_time": 1676386897,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -971,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 784599,
+      "num": 784599,
+      "word": "泰国将对外国游客征收入境费",
+      "onboard_time": 1676383536,
+      "rank": 38,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 782786,
       "num": 782786,
       "word": "警方通报南宁持刀伤人案",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1676259929,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 695683,
+      "num": 695683,
+      "word": "李秀满称将通过KPOP韩流拯救地球",
+      "onboard_time": 1676386174,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 694275,
@@ -1491,6 +1531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 579956,
+      "num": 579956,
+      "word": "TheShy状态",
+      "onboard_time": 1676386897,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 578994,
       "num": 578994,
       "word": "福建泉州不愧是众神人间办事处",
@@ -1563,6 +1611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 564753,
+      "num": 564753,
+      "word": "田曦薇元气回应粉丝喊话",
+      "onboard_time": 1676385936,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 564301,
       "num": 564301,
       "word": "回家的诱惑 一键复仇",
@@ -1585,14 +1641,6 @@
       "onboard_time": 1676351377,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 558492,
-      "num": 558492,
-      "word": "泰国将对外国游客征收入境费",
-      "onboard_time": 1676383536,
-      "rank": 38,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 554650,
@@ -1704,6 +1752,14 @@
       "word": "赵丽颖情人节花絮图",
       "onboard_time": 1676347535,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 519797,
+      "num": 519797,
+      "word": "周杰伦 花还是要去买的不能用变的",
+      "onboard_time": 1676386537,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1987,20 +2043,20 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 456081,
-      "num": 456081,
-      "word": "杜海涛因为一碗米饭对沈梦辰上头",
-      "onboard_time": 1676384318,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 453424,
       "num": 453424,
       "word": "创始人曾称周黑鸭是鸭脖界爱马仕",
       "onboard_time": 1676363133,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446250,
+      "num": 446250,
+      "word": "李秀满拒绝回答SMTOWN经营权问题",
+      "onboard_time": 1676387916,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 445258,
@@ -2233,6 +2289,14 @@
       "onboard_time": 1676351675,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 400891,
+      "num": 400891,
+      "word": "TT 状态",
+      "onboard_time": 1676386235,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 399285,
@@ -2961,6 +3025,14 @@
       "onboard_time": 1676358034,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294465,
+      "num": 294465,
+      "word": "猫除了猫窝哪里都喜欢",
+      "onboard_time": 1676384677,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 294223,
@@ -3867,6 +3939,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 201337,
+      "num": 201337,
+      "word": "男朋友送的花有多直男审美",
+      "onboard_time": 1676387317,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200795,
       "num": 200795,
       "word": "上海今年情人节玫瑰价格近年最高",
@@ -4001,14 +4081,6 @@
       "onboard_time": 1676331683,
       "rank": 36,
       "category": "科技"
-    },
-    {
-      "raw_hot": 192650,
-      "num": 192650,
-      "word": "猫除了猫窝哪里都喜欢",
-      "onboard_time": 1676384677,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 192427,
@@ -4403,14 +4475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163514,
-      "num": 163514,
-      "word": "女生情人节垃圾桶捡到积木城堡",
-      "onboard_time": 1676385217,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162772,
       "num": 162772,
       "word": "这就是情人节最好的礼物吧",
@@ -4625,6 +4689,14 @@
       "onboard_time": 1676343213,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 131786,
+      "num": 131786,
+      "word": "巴黎圣日耳曼vs拜仁慕尼黑",
+      "onboard_time": 1676387859,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 131564,
