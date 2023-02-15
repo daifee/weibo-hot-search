@@ -1,0 +1,410 @@
+{
+  "runTime": 1676443110185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2764431,
+        "num": 2764431,
+        "word": "王鹤棣父亲油炸店无行政处罚记录",
+        "onboard_time": 1676436877,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1471254,
+        "num": 1471254,
+        "word": "张大大 无忧传媒",
+        "onboard_time": 1676438910,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72098,
+        "num": 1324962,
+        "word": "中国春耕图鉴",
+        "onboard_time": 1676430749,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1310614,
+        "num": 1310614,
+        "word": "月入5000是什么水平",
+        "onboard_time": 1676439093,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1071708,
+        "num": 1071708,
+        "word": "顺丰回应7万元爱马仕运输中烧毁",
+        "onboard_time": 1676440710,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 813859,
+        "num": 813859,
+        "word": "王鹤棣吃炸串吃到蓝羽上手阻拦",
+        "onboard_time": 1676438734,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 699675,
+        "num": 699675,
+        "word": "医保个人账户缩水能不能有补偿方案",
+        "onboard_time": 1676441070,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682190,
+        "num": 682190,
+        "word": "男子酒后狂飙打110找安欣",
+        "onboard_time": 1676438552,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681174,
+        "num": 681174,
+        "word": "台湾省地图应绘出钓鱼岛和赤尾屿",
+        "onboard_time": 1676438255,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 650468,
+        "num": 650468,
+        "word": "医保",
+        "onboard_time": 1676442448,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1162298,
+        "num": 649674,
+        "word": "男子给女友转账140万分手想要回",
+        "onboard_time": 1676435438,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593270,
+        "num": 593270,
+        "word": "张大大直播 剧本",
+        "onboard_time": 1676425289,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583821,
+        "num": 583821,
+        "word": "玫瑰刺又多 花期又短 还容易枯萎",
+        "onboard_time": 1676435076,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517988,
+        "num": 517988,
+        "word": "邓超 全世界最好的俪",
+        "onboard_time": 1676441070,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434339,
+        "num": 434339,
+        "word": "陈赫 没点交情这节目真录不下来",
+        "onboard_time": 1676434837,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409035,
+        "num": 409035,
+        "word": "剧组虐猫事件造谣者被判刑",
+        "onboard_time": 1676439871,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385406,
+        "num": 385406,
+        "word": "房东的猫第一次尝试把MV拍成微电影",
+        "onboard_time": 1676441553,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 356224,
+        "num": 356224,
+        "word": "为何张大大直播间突然爆火",
+        "onboard_time": 1676442809,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310836,
+        "num": 310836,
+        "word": "肖战白衬衫花絮照九宫格",
+        "onboard_time": 1676440050,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 292536,
+        "num": 292536,
+        "word": "女子1米65起跳5次才能刷脸成功",
+        "onboard_time": 1676432071,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289352,
+        "num": 289352,
+        "word": "央媒称中国足球要刮骨疗毒",
+        "onboard_time": 1676434173,
+        "rank": 20,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 281944,
+        "num": 281944,
+        "word": "男子疑因小区乱停车情绪崩溃",
+        "onboard_time": 1676440471,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281665,
+        "num": 281665,
+        "word": "面试一趟有多难",
+        "onboard_time": 1676436818,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273314,
+        "num": 273314,
+        "word": "王力宏方回应被冻结901万",
+        "onboard_time": 1676439452,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 261101,
+        "num": 261101,
+        "word": "赵露思工作室维权声明",
+        "onboard_time": 1676442993,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247862,
+        "num": 247862,
+        "word": "五哈",
+        "onboard_time": 1676441489,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243366,
+        "num": 243366,
+        "word": "瞬间明白了美到窒息的感觉",
+        "onboard_time": 1676441909,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 242874,
+        "num": 242874,
+        "word": "iPhone15Pro或带来全新金色",
+        "onboard_time": 1676424210,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 231945,
+        "num": 231945,
+        "word": "蔚来回应试驾致母子一死一伤",
+        "onboard_time": 1676427151,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214976,
+        "num": 214976,
+        "word": "专家建议向大中专毕业生发现金补助",
+        "onboard_time": 1676432731,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 304936,
+        "num": 211364,
+        "word": "上半年偏财最旺的星座",
+        "onboard_time": 1676441429,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 207720,
+        "num": 207720,
+        "word": "Rookie情人节去医院拔鱼刺",
+        "onboard_time": 1676431952,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203162,
+        "num": 203162,
+        "word": "邓超问节目组多打四个哈是会累到你吗",
+        "onboard_time": 1676431291,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199759,
+        "num": 199759,
+        "word": "于正探班你比星光美丽剧组照片",
+        "onboard_time": 1676441971,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192976,
+        "num": 192976,
+        "word": "原神3.5版本直播",
+        "onboard_time": 1676442391,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191614,
+        "num": 191614,
+        "word": "目黑莲将首次主演黄金档剧集",
+        "onboard_time": 1676438972,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188751,
+        "num": 188751,
+        "word": "苹果先买后付服务将评估借款人",
+        "onboard_time": 1676439752,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187717,
+        "num": 187717,
+        "word": "重紫连更10天22集",
+        "onboard_time": 1676441253,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185969,
+        "num": 185969,
+        "word": "俄亥俄州官方称居民应只使用瓶装水",
+        "onboard_time": 1676437361,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175896,
+        "num": 175896,
+        "word": "肖战杨紫余生请多指教日本UNEXT播出",
+        "onboard_time": 1676432435,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168446,
+        "num": 168446,
+        "word": "杨超越邓为吻戏镜头",
+        "onboard_time": 1676432792,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165396,
+        "num": 165396,
+        "word": "弟弟被姐姐揍不敢还手踢空调出气",
+        "onboard_time": 1676431589,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164864,
+        "num": 164864,
+        "word": "重病母亲回应儿子向舅舅借学费",
+        "onboard_time": 1676434173,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 162453,
+        "num": 162453,
+        "word": "Kakao不会加价收购SMTOWN股份",
+        "onboard_time": 1676439573,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147781,
+        "num": 147781,
+        "word": "三体 你们是虫子",
+        "onboard_time": 1676429009,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145882,
+        "num": 145882,
+        "word": "河南一学院将升级为大学",
+        "onboard_time": 1676424092,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142646,
+        "num": 142646,
+        "word": "鹿晗被老虎吓到",
+        "onboard_time": 1676430689,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140549,
+        "num": 140549,
+        "word": "T1教练Sky转为中单",
+        "onboard_time": 1676442931,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129424,
+        "num": 129424,
+        "word": "HYBE或将收购失败",
+        "onboard_time": 1676430930,
+        "rank": 48,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 128974,
+        "num": 128974,
+        "word": "规范使用中国地图一点都不能少",
+        "onboard_time": 1676441790,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}

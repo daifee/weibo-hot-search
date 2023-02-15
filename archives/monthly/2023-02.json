@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676442298223,
+  "endTime": 1676443110185,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -2532,7 +2532,7 @@
     },
     {
       "raw_hot": 1362544,
-      "num": 587823,
+      "num": 649674,
       "word": "男子给女友转账140万分手想要回",
       "onboard_time": 1676435438,
       "rank": 25,
@@ -2705,6 +2705,14 @@
       "onboard_time": 1676360013,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1310614,
+      "num": 1310614,
+      "word": "月入5000是什么水平",
+      "onboard_time": 1676439093,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 1309136,
@@ -3313,14 +3321,6 @@
       "onboard_time": 1675578206,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1170190,
-      "num": 1170190,
-      "word": "月入5000是什么水平",
-      "onboard_time": 1676439093,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 1169975,
@@ -4009,6 +4009,14 @@
       "onboard_time": 1675817910,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1071708,
+      "num": 1071708,
+      "word": "顺丰回应7万元爱马仕运输中烧毁",
+      "onboard_time": 1676440710,
+      "rank": 11,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1069189,
@@ -4833,14 +4841,6 @@
       "onboard_time": 1675644868,
       "rank": 5,
       "category": "科技"
-    },
-    {
-      "raw_hot": 943230,
-      "num": 471206,
-      "word": "顺丰回应7万元爱马仕运输中烧毁",
-      "onboard_time": 1676440710,
-      "rank": 11,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 942012,
@@ -7747,6 +7747,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 699675,
+      "num": 699675,
+      "word": "医保个人账户缩水能不能有补偿方案",
+      "onboard_time": 1676441070,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 699455,
       "num": 699455,
       "word": "仙剑六祈今朝",
@@ -8107,6 +8115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 682190,
+      "num": 682190,
+      "word": "男子酒后狂飙打110找安欣",
+      "onboard_time": 1676438552,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 682098,
       "num": 682098,
       "word": "张颂文演的贾发好可爱",
@@ -8297,14 +8313,6 @@
       "onboard_time": 1676298521,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 671567,
-      "num": 671567,
-      "word": "男子酒后狂飙打110找安欣",
-      "onboard_time": 1676438552,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 671453,
@@ -8657,6 +8665,14 @@
       "onboard_time": 1676333851,
       "rank": 6,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 650468,
+      "num": 650468,
+      "word": "医保",
+      "onboard_time": 1676442448,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 649918,
@@ -11491,6 +11507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 517988,
+      "num": 517988,
+      "word": "邓超 全世界最好的俪",
+      "onboard_time": 1676441070,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 517818,
       "num": 517818,
       "word": "高启强患的干眼症陶勇称确为绝症",
@@ -12947,14 +12971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 458757,
-      "num": 458757,
-      "word": "邓超 全世界最好的俪",
-      "onboard_time": 1676441070,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 458719,
       "num": 458719,
       "word": "边伯贤chu手势舞",
@@ -13425,14 +13441,6 @@
       "onboard_time": 1675862612,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 440243,
-      "num": 440243,
-      "word": "医保个人账户缩水能不能有补偿方案",
-      "onboard_time": 1676441070,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 440228,
@@ -15483,6 +15491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385406,
+      "num": 385406,
+      "word": "房东的猫第一次尝试把MV拍成微电影",
+      "onboard_time": 1676441553,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 385314,
       "num": 385314,
       "word": "被语文教材安利过的东西",
@@ -16545,6 +16561,14 @@
       "onboard_time": 1675580007,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 356224,
+      "num": 356224,
+      "word": "为何张大大直播间突然爆火",
+      "onboard_time": 1676442809,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 355958,
@@ -18131,14 +18155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 321180,
-      "num": 321180,
-      "word": "房东的猫第一次尝试把MV拍成微电影",
-      "onboard_time": 1676441553,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 321128,
       "num": 321128,
       "word": "刘耀文乞丐发型是自己抓的",
@@ -18929,6 +18945,14 @@
       "onboard_time": 1675328194,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304936,
+      "num": 211364,
+      "word": "上半年偏财最旺的星座",
+      "onboard_time": 1676441429,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 304888,
@@ -20273,6 +20297,14 @@
       "onboard_time": 1675520071,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281944,
+      "num": 281944,
+      "word": "男子疑因小区乱停车情绪崩溃",
+      "onboard_time": 1676440471,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281884,
@@ -21699,6 +21731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261101,
+      "num": 261101,
+      "word": "赵露思工作室维权声明",
+      "onboard_time": 1676442993,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260888,
       "num": 260888,
       "word": "时代少年团百忧戒转场视频",
@@ -22201,14 +22241,6 @@
       "onboard_time": 1676179049,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251488,
-      "num": 251488,
-      "word": "男子疑因小区乱停车情绪崩溃",
-      "onboard_time": 1676440471,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251358,
@@ -22753,6 +22785,14 @@
       "onboard_time": 1676423732,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243366,
+      "num": 243366,
+      "word": "瞬间明白了美到窒息的感觉",
+      "onboard_time": 1676441909,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 243343,
@@ -24675,14 +24715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214090,
-      "num": 204911,
-      "word": "上半年偏财最旺的星座",
-      "onboard_time": 1676441429,
-      "rank": 31,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 214003,
       "num": 214003,
       "word": "江苏卫视元宵晚会全阵容官宣",
@@ -26411,6 +26443,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 192976,
+      "num": 192976,
+      "word": "原神3.5版本直播",
+      "onboard_time": 1676442391,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192974,
       "num": 192974,
       "word": "chatgpt 狗狗叫三万的原因",
@@ -26880,6 +26920,14 @@
       "word": "山寨ChatGPT对话1300次要近百元",
       "onboard_time": 1675821268,
       "rank": 36,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 188751,
+      "num": 188751,
+      "word": "苹果先买后付服务将评估借款人",
+      "onboard_time": 1676439752,
+      "rank": 35,
       "category": "科技"
     },
     {
@@ -27969,14 +28017,6 @@
       "onboard_time": 1676339971,
       "rank": 41,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 178519,
-      "num": 178519,
-      "word": "苹果先买后付服务将评估借款人",
-      "onboard_time": 1676439752,
-      "rank": 35,
-      "category": "科技"
     },
     {
       "raw_hot": 178455,
@@ -30803,14 +30843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145097,
-      "num": 145097,
-      "word": "瞬间明白了美到窒息的感觉",
-      "onboard_time": 1676441909,
-      "rank": 42,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 144910,
       "num": 144910,
       "word": "托马斯44分",
@@ -31041,6 +31073,14 @@
       "onboard_time": 1675996111,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140549,
+      "num": 140549,
+      "word": "T1教练Sky转为中单",
+      "onboard_time": 1676442931,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 140519,
