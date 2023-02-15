@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676478460885,
+  "endTime": 1676479564523,
   "band_list": [
     {
       "raw_hot": 2204275,
@@ -115,12 +115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348901,
+      "num": 348901,
+      "word": "为什么会暗恋一个人十几年",
+      "onboard_time": 1676478444,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 325239,
       "num": 325239,
       "word": "HYBE将正式接管SMTOWN",
       "onboard_time": 1676467053,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297143,
+      "num": 297143,
+      "word": "黄奕演言承旭的丈母娘",
+      "onboard_time": 1676477546,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 272757,
@@ -155,6 +171,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227415,
+      "num": 227415,
+      "word": "大学生的毕业论文现状",
+      "onboard_time": 1676458053,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 221674,
+      "num": 221674,
+      "word": "卜尔Q",
+      "onboard_time": 1676475032,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219113,
       "num": 219113,
       "word": "以为主人被欺负的小狗",
@@ -163,28 +195,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213148,
-      "num": 213148,
-      "word": "卜尔Q",
-      "onboard_time": 1676475032,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 204171,
       "num": 204171,
       "word": "海关查获一批违背一个中国原则教材",
       "onboard_time": 1676470655,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 203582,
-      "num": 203582,
-      "word": "大学生的毕业论文现状",
-      "onboard_time": 1676458053,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 192827,
@@ -232,14 +248,6 @@
       "word": "邢菲想和张颂文老师合作",
       "onboard_time": 1676470355,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 162549,
-      "num": 162549,
-      "word": "黄奕演言承旭的丈母娘",
-      "onboard_time": 1676477546,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120175,
+      "num": 120175,
+      "word": "三体拍出了北京的科幻感",
+      "onboard_time": 1676478206,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118005,
       "num": 118005,
       "word": "茶百道回应员工把环卫工打住院",
@@ -379,20 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108213,
-      "num": 108213,
-      "word": "三体拍出了北京的科幻感",
-      "onboard_time": 1676478206,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 92336,
-      "num": 92336,
-      "word": "为什么会暗恋一个人十几年",
-      "onboard_time": 1676478444,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 93845,
+      "num": 93845,
+      "word": "上海女子激励男友买车情人节送充电桩",
+      "onboard_time": 1676479402,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34998,

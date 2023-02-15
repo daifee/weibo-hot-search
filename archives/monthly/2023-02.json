@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676478460885,
+  "endTime": 1676479564523,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -17467,6 +17467,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 348901,
+      "num": 348901,
+      "word": "为什么会暗恋一个人十几年",
+      "onboard_time": 1676478444,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 348810,
       "num": 348810,
       "word": "肖战盛阳片场休息路透",
@@ -20025,6 +20033,14 @@
       "onboard_time": 1675752093,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297143,
+      "num": 297143,
+      "word": "黄奕演言承旭的丈母娘",
+      "onboard_time": 1676477546,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 296931,
@@ -25051,6 +25067,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 221674,
+      "num": 221674,
+      "word": "卜尔Q",
+      "onboard_time": 1676475032,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221506,
       "num": 221506,
       "word": "珀尔特尔被交易至猛龙",
@@ -25585,14 +25609,6 @@
       "onboard_time": 1675955137,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213148,
-      "num": 213148,
-      "word": "卜尔Q",
-      "onboard_time": 1676475032,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 213098,
@@ -30563,14 +30579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162549,
-      "num": 162549,
-      "word": "黄奕演言承旭的丈母娘",
-      "onboard_time": 1676477546,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 162548,
       "num": 162548,
       "word": "Kakao不会加价收购SMTOWN股份",
@@ -33131,6 +33139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120175,
+      "num": 120175,
+      "word": "三体拍出了北京的科幻感",
+      "onboard_time": 1676478206,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 120146,
       "num": 120146,
       "word": "土耳其地震已致该国29605人死亡",
@@ -33425,14 +33441,6 @@
       "onboard_time": 1675693953,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108213,
-      "num": 108213,
-      "word": "三体拍出了北京的科幻感",
-      "onboard_time": 1676478206,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 107891,
@@ -33731,6 +33739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 93845,
+      "num": 93845,
+      "word": "上海女子激励男友买车情人节送充电桩",
+      "onboard_time": 1676479402,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93722,
       "num": 93722,
       "word": "周杰伦晒打高尔夫比耶自拍",
@@ -33745,14 +33761,6 @@
       "onboard_time": 1675669888,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 92336,
-      "num": 92336,
-      "word": "为什么会暗恋一个人十几年",
-      "onboard_time": 1676478444,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 92104,
