@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676470732072,
+  "endTime": 1676471697398,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2793640,
+      "num": 2793640,
+      "word": "教育局回应老师用尺狠抽学生手",
+      "onboard_time": 1676466872,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2749760,
       "num": 2749760,
       "word": "徐明浩锁骨部位骨折",
@@ -179,14 +187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2426290,
-      "num": 2426290,
-      "word": "教育局回应老师用尺狠抽学生手",
-      "onboard_time": 1676466872,
-      "rank": 23,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 2368653,
       "num": 835596,
       "word": "已婚男子与人同居生下儿女被刑拘",
@@ -225,6 +225,14 @@
       "onboard_time": 1676287079,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2295490,
+      "num": 2295490,
+      "word": "重紫 花千骨",
+      "onboard_time": 1676469992,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2215236,
@@ -627,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1317069,
-      "num": 1317069,
-      "word": "重紫 花千骨",
-      "onboard_time": 1676469992,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1311293,
       "num": 1311293,
       "word": "接吻时身体会有这些反应",
@@ -1009,6 +1009,14 @@
       "onboard_time": 1676455893,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1028486,
+      "num": 1028486,
+      "word": "师徒恋",
+      "onboard_time": 1676470959,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1028138,
@@ -1553,6 +1561,14 @@
       "onboard_time": 1676265530,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 744101,
+      "num": 744101,
+      "word": "刘诗诗晒环球影城游玩照",
+      "onboard_time": 1676470474,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 743914,
@@ -2107,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598993,
+      "num": 598993,
+      "word": "为什么街边的榴莲那么便宜",
+      "onboard_time": 1676468136,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593661,
       "num": 593661,
       "word": "蓝色妖姬",
@@ -2291,6 +2315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 560524,
+      "num": 560524,
+      "word": "当地妇联回应女子称被家暴割喉",
+      "onboard_time": 1676470234,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 559755,
       "num": 512443,
       "word": "谢娜半永久猫眼妆教程vlog",
@@ -2425,14 +2457,6 @@
       "onboard_time": 1676281478,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 534768,
-      "num": 534768,
-      "word": "为什么街边的榴莲那么便宜",
-      "onboard_time": 1676468136,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 532688,
@@ -2987,6 +3011,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 440672,
+      "num": 440672,
+      "word": "C罗胜诉获赔33万",
+      "onboard_time": 1676468577,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 440066,
       "num": 440066,
       "word": "许魏洲电影院被罚做俯卧撑",
@@ -3001,6 +3033,14 @@
       "onboard_time": 1676256388,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 439289,
+      "num": 439289,
+      "word": "邢菲想和张颂文老师合作",
+      "onboard_time": 1676470355,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 435368,
@@ -3211,14 +3251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 407198,
-      "num": 407198,
-      "word": "刘诗诗晒环球影城游玩照",
-      "onboard_time": 1676470474,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 406895,
       "num": 406895,
       "word": "星落凝成糖定档2月16日",
@@ -3273,14 +3305,6 @@
       "onboard_time": 1676351675,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 402386,
-      "num": 402386,
-      "word": "C罗胜诉获赔33万",
-      "onboard_time": 1676468577,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 399285,
@@ -4355,14 +4379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289920,
-      "num": 289920,
-      "word": "邢菲想和张颂文老师合作",
-      "onboard_time": 1676470355,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 289060,
       "num": 289060,
       "word": "重病母亲回应儿子向舅舅借学费",
@@ -4619,6 +4635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274333,
+      "num": 274333,
+      "word": "海关查获一批违背一个中国原则教材",
+      "onboard_time": 1676470655,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 273226,
       "num": 273226,
       "word": "杨超越新剧一出场就好惨",
@@ -4753,6 +4777,14 @@
       "onboard_time": 1676265593,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261354,
+      "num": 261354,
+      "word": "律师谈网红骑摩托上高速被拦",
+      "onboard_time": 1676467290,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260512,
@@ -4905,22 +4937,6 @@
       "onboard_time": 1676464651,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 246861,
-      "num": 246861,
-      "word": "律师谈网红骑摩托上高速被拦",
-      "onboard_time": 1676467290,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246832,
-      "num": 246832,
-      "word": "当地妇联回应女子称被家暴割喉",
-      "onboard_time": 1676470234,
-      "rank": 32,
-      "category": "社会负面"
     },
     {
       "raw_hot": 246159,
@@ -5145,6 +5161,14 @@
       "onboard_time": 1676256448,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 231917,
+      "num": 231917,
+      "word": "C罗将在沙特开饭店",
+      "onboard_time": 1676470114,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 230088,
@@ -5555,14 +5579,6 @@
       "category": "影视,音乐"
     },
     {
-      "raw_hot": 201746,
-      "num": 201746,
-      "word": "C罗将在沙特开饭店",
-      "onboard_time": 1676470114,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201383,
       "num": 201383,
       "word": "中国速滑冬奥会首金得主张虹宣布退役",
@@ -5737,6 +5753,14 @@
       "onboard_time": 1676331683,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 192466,
+      "num": 192466,
+      "word": "甪端的甪该怎么读",
+      "onboard_time": 1676469755,
+      "rank": 38,
+      "category": "其它"
     },
     {
       "raw_hot": 192427,
@@ -5985,14 +6009,6 @@
       "onboard_time": 1676425590,
       "rank": 39,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 180496,
-      "num": 180496,
-      "word": "甪端的甪该怎么读",
-      "onboard_time": 1676469755,
-      "rank": 38,
-      "category": "其它"
     },
     {
       "raw_hot": 179183,
@@ -6745,14 +6761,6 @@
       "onboard_time": 1676368354,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123311,
-      "num": 123311,
-      "word": "海关查获一批违背一个中国原则教材",
-      "onboard_time": 1676470655,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 121811,

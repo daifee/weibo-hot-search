@@ -1,6 +1,6 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676470732072,
+  "endTime": 1676471697398,
   "band_list": [
     {
       "raw_hot": 3244607,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2793640,
+      "num": 2793640,
+      "word": "教育局回应老师用尺狠抽学生手",
+      "onboard_time": 1676466872,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2556142,
       "num": 2478269,
       "word": "医保",
@@ -51,14 +59,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2426290,
-      "num": 2426290,
-      "word": "教育局回应老师用尺狠抽学生手",
-      "onboard_time": 1676466872,
-      "rank": 23,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 2359263,
       "num": 2359263,
       "word": "王丽坤方声明",
@@ -73,6 +73,14 @@
       "onboard_time": 1676423373,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2295490,
+      "num": 2295490,
+      "word": "重紫 花千骨",
+      "onboard_time": 1676469992,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2192117,
@@ -227,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1317069,
-      "num": 1317069,
-      "word": "重紫 花千骨",
-      "onboard_time": 1676469992,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1310614,
       "num": 1310614,
       "word": "月入5000是什么水平",
@@ -353,6 +353,14 @@
       "onboard_time": 1676455893,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1028486,
+      "num": 1028486,
+      "word": "师徒恋",
+      "onboard_time": 1676470959,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1027355,
@@ -515,6 +523,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 744101,
+      "num": 744101,
+      "word": "刘诗诗晒环球影城游玩照",
+      "onboard_time": 1676470474,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 734751,
       "num": 734751,
       "word": "超六成专科毕业生月薪低于5000",
@@ -651,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598993,
+      "num": 598993,
+      "word": "为什么街边的榴莲那么便宜",
+      "onboard_time": 1676468136,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590366,
       "num": 590366,
       "word": "周杰伦 花还是要去买的不能用变的",
@@ -715,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 560524,
+      "num": 560524,
+      "word": "当地妇联回应女子称被家暴割喉",
+      "onboard_time": 1676470234,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 559664,
       "num": 559664,
       "word": "瞬间明白了美到窒息的感觉",
@@ -769,14 +801,6 @@
       "onboard_time": 1676386897,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 534768,
-      "num": 534768,
-      "word": "为什么街边的榴莲那么便宜",
-      "onboard_time": 1676468136,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 532688,
@@ -979,11 +1003,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440672,
+      "num": 440672,
+      "word": "C罗胜诉获赔33万",
+      "onboard_time": 1676468577,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 440066,
       "num": 440066,
       "word": "许魏洲电影院被罚做俯卧撑",
       "onboard_time": 1676391215,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 439289,
+      "num": 439289,
+      "word": "邢菲想和张颂文老师合作",
+      "onboard_time": 1676470355,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1073,22 +1113,6 @@
       "onboard_time": 1676376274,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 407198,
-      "num": 407198,
-      "word": "刘诗诗晒环球影城游玩照",
-      "onboard_time": 1676470474,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 402386,
-      "num": 402386,
-      "word": "C罗胜诉获赔33万",
-      "onboard_time": 1676468577,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 390801,
@@ -1411,14 +1435,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 289920,
-      "num": 289920,
-      "word": "邢菲想和张颂文老师合作",
-      "onboard_time": 1676470355,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 289060,
       "num": 289060,
       "word": "重病母亲回应儿子向舅舅借学费",
@@ -1523,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274333,
+      "num": 274333,
+      "word": "海关查获一批违背一个中国原则教材",
+      "onboard_time": 1676470655,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 273226,
       "num": 273226,
       "word": "杨超越新剧一出场就好惨",
@@ -1563,6 +1587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261354,
+      "num": 261354,
+      "word": "律师谈网红骑摩托上高速被拦",
+      "onboard_time": 1676467290,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255984,
       "num": 255984,
       "word": "被一万四千公里的求婚整破防了",
@@ -1585,22 +1617,6 @@
       "onboard_time": 1676464651,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 246861,
-      "num": 246861,
-      "word": "律师谈网红骑摩托上高速被拦",
-      "onboard_time": 1676467290,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246832,
-      "num": 246832,
-      "word": "当地妇联回应女子称被家暴割喉",
-      "onboard_time": 1676470234,
-      "rank": 32,
-      "category": "社会负面"
     },
     {
       "raw_hot": 245576,
@@ -1681,6 +1697,14 @@
       "onboard_time": 1676441971,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231917,
+      "num": 231917,
+      "word": "C罗将在沙特开饭店",
+      "onboard_time": 1676470114,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 230088,
@@ -1827,14 +1851,6 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 201746,
-      "num": 201746,
-      "word": "C罗将在沙特开饭店",
-      "onboard_time": 1676470114,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199993,
       "num": 199993,
       "word": "原来猛兽的睡姿是这样的",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1676442391,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192466,
+      "num": 192466,
+      "word": "甪端的甪该怎么读",
+      "onboard_time": 1676469755,
+      "rank": 38,
+      "category": "其它"
     },
     {
       "raw_hot": 190972,
@@ -1985,14 +2009,6 @@
       "onboard_time": 1676425590,
       "rank": 39,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 180496,
-      "num": 180496,
-      "word": "甪端的甪该怎么读",
-      "onboard_time": 1676469755,
-      "rank": 38,
-      "category": "其它"
     },
     {
       "raw_hot": 179149,
@@ -2329,14 +2345,6 @@
       "onboard_time": 1676387916,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123311,
-      "num": 123311,
-      "word": "海关查获一批违背一个中国原则教材",
-      "onboard_time": 1676470655,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 121811,
