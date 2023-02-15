@@ -1,6 +1,6 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676465849243,
+  "endTime": 1676467684116,
   "band_list": [
     {
       "raw_hot": 3244607,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2191169,
+      "num": 2191169,
+      "word": "男子借朋友12万借条1小时后变白纸",
+      "onboard_time": 1676463691,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2106872,
       "num": 875795,
       "word": "12岁脑瘫女孩被同岁亲戚性侵",
@@ -113,14 +121,6 @@
       "onboard_time": 1676417362,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1712495,
-      "num": 1712495,
-      "word": "男子借朋友12万借条1小时后变白纸",
-      "onboard_time": 1676463691,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1695964,
@@ -249,6 +249,14 @@
       "onboard_time": 1676423132,
       "rank": 6,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1164002,
+      "num": 1164002,
+      "word": "HYBE将正式接管SMTOWN",
+      "onboard_time": 1676467053,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1152419,
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 806983,
+      "num": 806983,
+      "word": "蒋鹤婷恋综最快下车女嘉宾",
+      "onboard_time": 1676465672,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 801074,
       "num": 801074,
       "word": "宁夏一地倡导女婿赡养岳父母",
@@ -507,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699617,
+      "num": 479342,
+      "word": "腾讯回应微信下场做外卖",
+      "onboard_time": 1676465190,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 686875,
       "num": 545291,
       "word": "对话毕业5年存款5千女生",
@@ -569,6 +593,14 @@
       "onboard_time": 1676417001,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642169,
+      "num": 642169,
+      "word": "邓超回应作品口碑透支",
+      "onboard_time": 1676464771,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 632321,
@@ -899,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 441023,
+      "num": 441023,
+      "word": "女子注射生长因子7年后下巴疯长破溃",
+      "onboard_time": 1676465672,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440066,
       "num": 440066,
       "word": "许魏洲电影院被罚做俯卧撑",
@@ -1003,14 +1043,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 386370,
-      "num": 386370,
-      "word": "邓超回应作品口碑透支",
-      "onboard_time": 1676464771,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 385406,
       "num": 385406,
       "word": "房东的猫第一次尝试把MV拍成微电影",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1676427451,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 378752,
+      "num": 378752,
+      "word": "你的crush是谁",
+      "onboard_time": 1676462250,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 378157,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1676428950,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338434,
+      "num": 338434,
+      "word": "乔欣说自己喜欢哇哦的男生",
+      "onboard_time": 1676465431,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 338208,
@@ -1283,28 +1331,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301321,
+      "num": 301321,
+      "word": "教育局回应老师用尺狠抽学生手",
+      "onboard_time": 1676466872,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 300777,
       "num": 300777,
       "word": "TT 状态",
       "onboard_time": 1676386235,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 299141,
-      "num": 299141,
-      "word": "蒋鹤婷恋综最快下车女嘉宾",
-      "onboard_time": 1676465672,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 298701,
-      "num": 298701,
-      "word": "你的crush是谁",
-      "onboard_time": 1676462250,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 295128,
@@ -1443,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268166,
+      "num": 268166,
+      "word": "JDG对战EDG",
+      "onboard_time": 1676463452,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 255984,
       "num": 255984,
       "word": "被一万四千公里的求婚整破防了",
@@ -1555,14 +1603,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 229827,
-      "num": 229827,
-      "word": "腾讯回应微信下场做外卖",
-      "onboard_time": 1676465190,
-      "rank": 28,
-      "category": "科技"
-    },
-    {
       "raw_hot": 229780,
       "num": 229780,
       "word": "五问医保个人账户改革",
@@ -1593,6 +1633,14 @@
       "onboard_time": 1676424510,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218048,
+      "num": 218048,
+      "word": "微信在广深测试小程序外卖项目",
+      "onboard_time": 1676466632,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 217333,
@@ -1643,14 +1691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207357,
-      "num": 207357,
-      "word": "JDG对战EDG",
-      "onboard_time": 1676463452,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 205767,
       "num": 205767,
       "word": "中国天眼发现740余颗新脉冲星",
@@ -1699,14 +1739,6 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 200474,
-      "num": 200474,
-      "word": "乔欣说自己喜欢哇哦的男生",
-      "onboard_time": 1676465431,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199993,
       "num": 199993,
       "word": "原来猛兽的睡姿是这样的",
@@ -1744,6 +1776,14 @@
       "word": "原神3.5版本直播",
       "onboard_time": 1676442391,
       "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 192580,
+      "num": 192580,
+      "word": "白夜极光",
+      "onboard_time": 1676467355,
+      "rank": 35,
       "category": "游戏"
     },
     {
@@ -1809,6 +1849,14 @@
       "onboard_time": 1676429129,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187438,
+      "num": 187438,
+      "word": "Apex",
+      "onboard_time": 1676467172,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 186206,
@@ -1891,6 +1939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171349,
+      "num": 171349,
+      "word": "律师谈网红骑摩托上高速被拦",
+      "onboard_time": 1676467290,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171259,
       "num": 171259,
       "word": "原来水墨江山真的存在",
@@ -1945,6 +2001,14 @@
       "onboard_time": 1676391329,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 165794,
+      "num": 165794,
+      "word": "男子质疑交通执法有违规遭跨省抓捕",
+      "onboard_time": 1676466574,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164219,
@@ -2163,14 +2227,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 131797,
-      "num": 131797,
-      "word": "女子注射生长因子7年后下巴疯长破溃",
-      "onboard_time": 1676465672,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127290,
       "num": 127290,
       "word": "李秀满拒绝回答SMTOWN经营权问题",
@@ -2259,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60366,
+      "num": 1375586,
+      "word": "文物背后有料有趣的中国故事",
+      "onboard_time": 1676465070,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58098,
       "num": 58098,
       "word": "吉克隽逸活动状态",
@@ -2289,14 +2353,6 @@
       "onboard_time": 1676402773,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34206,
-      "num": 1375586,
-      "word": "文物背后有料有趣的中国故事",
-      "onboard_time": 1676465070,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
