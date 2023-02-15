@@ -1,0 +1,410 @@
+{
+  "runTime": 1676431429586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2647217,
+        "num": 2647217,
+        "word": "张大大直播 剧本",
+        "onboard_time": 1676425289,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1364421,
+        "num": 1364421,
+        "word": "蔚来回应试驾致母子一死一伤",
+        "onboard_time": 1676427151,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107720,
+        "num": 1268157,
+        "word": "中国春耕图鉴",
+        "onboard_time": 1676430749,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1203786,
+        "num": 1203786,
+        "word": "鹿晗被老虎吓到",
+        "onboard_time": 1676430689,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 857467,
+        "num": 857467,
+        "word": "00后女孩退房后屋里遍地是垃圾",
+        "onboard_time": 1676428648,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 803210,
+        "num": 803210,
+        "word": "网友称乐山油炸串串不健康建议取缔",
+        "onboard_time": 1676423132,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 748175,
+        "num": 748175,
+        "word": "00后男生长期可乐当水喝牙全坏",
+        "onboard_time": 1676429190,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630437,
+        "num": 630437,
+        "word": "iPhone15Pro或带来全新金色",
+        "onboard_time": 1676424210,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 555419,
+        "num": 555419,
+        "word": "张颂文给苏小玎设计摔杯子动作",
+        "onboard_time": 1676426248,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 492376,
+        "num": 492376,
+        "word": "深圳夫妻带10岁孤独症儿子跑单6年",
+        "onboard_time": 1676427029,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1873046,
+        "num": 488763,
+        "word": "12岁脑瘫女孩被同岁亲戚性侵",
+        "onboard_time": 1676426730,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569757,
+        "num": 487995,
+        "word": "邓超问节目组多打四个哈是会累到你吗",
+        "onboard_time": 1676431291,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484064,
+        "num": 484064,
+        "word": "三体 你们是虫子",
+        "onboard_time": 1676429009,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478587,
+        "num": 478587,
+        "word": "201岁的姐弟恋有多甜",
+        "onboard_time": 1676422592,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 465033,
+        "num": 465033,
+        "word": "HYBE或将收购失败",
+        "onboard_time": 1676430930,
+        "rank": 14,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 455135,
+        "num": 455135,
+        "word": "女子半夜骑车为老公买炒饭摔成两个人",
+        "onboard_time": 1676430390,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390801,
+        "num": 390801,
+        "word": "刘诗诗一念关山壁咚刘宇宁路透",
+        "onboard_time": 1676429431,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376842,
+        "num": 376842,
+        "word": "河南一学院将升级为大学",
+        "onboard_time": 1676424092,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 315950,
+        "num": 315950,
+        "word": "宋妍霏凌晨五点起床直播",
+        "onboard_time": 1676427928,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314456,
+        "num": 314456,
+        "word": "流浪地球2密钥延期",
+        "onboard_time": 1676427208,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400978,
+        "num": 313620,
+        "word": "问ChatGPT中国足球如何赢得世界杯冠军",
+        "onboard_time": 1676422651,
+        "rank": 20,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 311241,
+        "num": 311241,
+        "word": "蚁人3口碑",
+        "onboard_time": 1676425649,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301217,
+        "num": 301217,
+        "word": "苏乞儿",
+        "onboard_time": 1676423553,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 294945,
+        "num": 294945,
+        "word": "罗云熙陈瑶同框合照",
+        "onboard_time": 1676428950,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294720,
+        "num": 294720,
+        "word": "18岁喜欢的人27岁还在身边",
+        "onboard_time": 1676415737,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270686,
+        "num": 270686,
+        "word": "梅西",
+        "onboard_time": 1676422951,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260505,
+        "num": 260505,
+        "word": "马嘉祺帮刘耀文换救生衣路透",
+        "onboard_time": 1676426908,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259940,
+        "num": 259940,
+        "word": "重紫全员紫色出镜",
+        "onboard_time": 1676425709,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259842,
+        "num": 259842,
+        "word": "小镇青年说读2000本书后改变命运",
+        "onboard_time": 1676427749,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 248008,
+        "num": 248008,
+        "word": "俄亥俄有毒气体泄漏会影响多大范围",
+        "onboard_time": 1676424992,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245576,
+        "num": 245576,
+        "word": "小伙苦练10年还原六小龄童版孙悟空",
+        "onboard_time": 1676429790,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1669453,
+        "num": 244395,
+        "word": "都美竹 一个人穿婚纱也很浪漫",
+        "onboard_time": 1676423373,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241599,
+        "num": 241599,
+        "word": "电影回廊亭定档0310",
+        "onboard_time": 1676427451,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237993,
+        "num": 237993,
+        "word": "女子来西安旅游买30元彩票中了1800万",
+        "onboard_time": 1676386897,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235851,
+        "num": 235851,
+        "word": "感染诺如病毒有哪些症状",
+        "onboard_time": 1676428109,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226033,
+        "num": 226033,
+        "word": "上海地铁",
+        "onboard_time": 1676424691,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223098,
+        "num": 223098,
+        "word": "苏乞儿被拦车摔倒责任在谁",
+        "onboard_time": 1676423851,
+        "rank": 36,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 218740,
+        "num": 218740,
+        "word": "LadyGaga小丑2剧照",
+        "onboard_time": 1676431291,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212134,
+        "num": 212134,
+        "word": "流浪地球2诺夫沙溢年轻时旧照",
+        "onboard_time": 1676428409,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209606,
+        "num": 209606,
+        "word": "恢复签发韩国公民赴华短期签证",
+        "onboard_time": 1676424868,
+        "rank": 39,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 199977,
+        "num": 199977,
+        "word": "2年前勇敢截花主人公结婚",
+        "onboard_time": 1676427328,
+        "rank": 40,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 190347,
+        "num": 190347,
+        "word": "2023NBA全明星",
+        "onboard_time": 1676428170,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178177,
+        "num": 178177,
+        "word": "周杰伦昆凌情人节捧花合照",
+        "onboard_time": 1676418626,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174493,
+        "num": 174493,
+        "word": "修罗鬼童丸",
+        "onboard_time": 1676431171,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167189,
+        "num": 167189,
+        "word": "提前还贷20万或将节省利息17万",
+        "onboard_time": 1676431229,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 164445,
+        "num": 164445,
+        "word": "黄子韬徐艺洋 情人节团建",
+        "onboard_time": 1676378317,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154548,
+        "num": 154548,
+        "word": "如何让人们敢花钱",
+        "onboard_time": 1676425590,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 153854,
+        "num": 153854,
+        "word": "aespa新歌Thirsty",
+        "onboard_time": 1676419107,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145018,
+        "num": 145018,
+        "word": "什么是朋友式的爱情",
+        "onboard_time": 1676420913,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142538,
+        "num": 142538,
+        "word": "白头发会不会越拔越多",
+        "onboard_time": 1676431409,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席同伊朗总统会谈#"
+    }
+  }
+}
