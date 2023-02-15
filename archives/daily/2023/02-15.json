@@ -1,6 +1,6 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676468339888,
+  "endTime": 1676470732072,
   "band_list": [
     {
       "raw_hot": 3244607,
@@ -49,6 +49,14 @@
       "onboard_time": 1676458231,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2426290,
+      "num": 2426290,
+      "word": "教育局回应老师用尺狠抽学生手",
+      "onboard_time": 1676466872,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2359263,
@@ -217,6 +225,14 @@
       "onboard_time": 1676435438,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1317069,
+      "num": 1317069,
+      "word": "重紫 花千骨",
+      "onboard_time": 1676469992,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1310614,
@@ -403,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 853809,
+      "num": 853809,
+      "word": "EDG战胜JDG",
+      "onboard_time": 1676469635,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 838058,
       "num": 838058,
       "word": "女生情人节垃圾桶捡到积木城堡",
@@ -425,6 +449,14 @@
       "onboard_time": 1676411651,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779649,
+      "num": 633499,
+      "word": "腾讯回应微信下场做外卖",
+      "onboard_time": 1676465190,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 774926,
@@ -481,14 +513,6 @@
       "onboard_time": 1676432731,
       "rank": 7,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 739957,
-      "num": 594747,
-      "word": "腾讯回应微信下场做外卖",
-      "onboard_time": 1676465190,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 734751,
@@ -553,14 +577,6 @@
       "onboard_time": 1676460691,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 679094,
-      "num": 679094,
-      "word": "教育局回应老师用尺狠抽学生手",
-      "onboard_time": 1676466872,
-      "rank": 23,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 677850,
@@ -755,6 +771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 534768,
+      "num": 534768,
+      "word": "为什么街边的榴莲那么便宜",
+      "onboard_time": 1676468136,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532688,
       "num": 532688,
       "word": "央媒称中国足球要刮骨疗毒",
@@ -891,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 473020,
+      "num": 473020,
+      "word": "跑腿小哥送包子揭开三省贩毒大案",
+      "onboard_time": 1676468876,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471875,
       "num": 471875,
       "word": "张杰将首次登上话剧舞台",
@@ -1011,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412082,
+      "num": 412082,
+      "word": "我们的日子",
+      "onboard_time": 1676470413,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411819,
       "num": 411819,
       "word": "Rookie情人节去医院拔鱼刺",
@@ -1033,6 +1073,22 @@
       "onboard_time": 1676376274,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 407198,
+      "num": 407198,
+      "word": "刘诗诗晒环球影城游玩照",
+      "onboard_time": 1676470474,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 402386,
+      "num": 402386,
+      "word": "C罗胜诉获赔33万",
+      "onboard_time": 1676468577,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 390801,
@@ -1355,6 +1411,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 289920,
+      "num": 289920,
+      "word": "邢菲想和张颂文老师合作",
+      "onboard_time": 1676470355,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289060,
       "num": 289060,
       "word": "重病母亲回应儿子向舅舅借学费",
@@ -1523,6 +1587,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 246861,
+      "num": 246861,
+      "word": "律师谈网红骑摩托上高速被拦",
+      "onboard_time": 1676467290,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246832,
+      "num": 246832,
+      "word": "当地妇联回应女子称被家暴割喉",
+      "onboard_time": 1676470234,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 245576,
       "num": 245576,
       "word": "小伙苦练10年还原六小龄童版孙悟空",
@@ -1584,14 +1664,6 @@
       "word": "成都迎来今年第一个扯证高峰",
       "onboard_time": 1676392705,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236011,
-      "num": 236011,
-      "word": "律师谈网红骑摩托上高速被拦",
-      "onboard_time": 1676467290,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1755,6 +1827,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 201746,
+      "num": 201746,
+      "word": "C罗将在沙特开饭店",
+      "onboard_time": 1676470114,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199993,
       "num": 199993,
       "word": "原来猛兽的睡姿是这样的",
@@ -1905,6 +1985,14 @@
       "onboard_time": 1676425590,
       "rank": 39,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 180496,
+      "num": 180496,
+      "word": "甪端的甪该怎么读",
+      "onboard_time": 1676469755,
+      "rank": 38,
+      "category": "其它"
     },
     {
       "raw_hot": 179149,
@@ -2065,14 +2153,6 @@
       "onboard_time": 1676438433,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158197,
-      "num": 158197,
-      "word": "为什么街边的榴莲那么便宜",
-      "onboard_time": 1676468136,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156200,
@@ -2251,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123311,
+      "num": 123311,
+      "word": "海关查获一批违背一个中国原则教材",
+      "onboard_time": 1676470655,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 121811,
       "num": 121811,
       "word": "军营大门里有什么",
@@ -2323,19 +2411,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72303,
+      "num": 1399535,
+      "word": "文物背后有料有趣的中国故事",
+      "onboard_time": 1676465070,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66478,
       "num": 66478,
       "word": "宁夏一地规定彩礼不得超过6万",
       "onboard_time": 1676412793,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60366,
-      "num": 1375586,
-      "word": "文物背后有料有趣的中国故事",
-      "onboard_time": 1676465070,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
