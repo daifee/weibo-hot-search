@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676493266480,
+  "endTime": 1676495839933,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -33585,6 +33585,14 @@
       "onboard_time": 1675984881,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102462,
+      "num": 49445,
+      "word": "警方回应网红骑摩托上高速被拦后摔车",
+      "onboard_time": 1676494032,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102416,
