@@ -1,0 +1,410 @@
+{
+  "runTime": 1676496844587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 139711,
+        "num": 139711,
+        "word": "鹿晗潮牌遭吐槽",
+        "onboard_time": 1676474193,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100748,
+        "num": 100748,
+        "word": "台湾几千吨凤梨释迦滞销",
+        "onboard_time": 1676473533,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9056,
+        "num": 83538,
+        "word": "文物背后有料有趣的中国故事",
+        "onboard_time": 1676465070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81322,
+        "num": 81322,
+        "word": "为什么会暗恋一个人十几年",
+        "onboard_time": 1676478444,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79688,
+        "num": 79688,
+        "word": "没有我的城主演 张译杨幂",
+        "onboard_time": 1676475510,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57454,
+        "num": 57454,
+        "word": "黄奕演言承旭的丈母娘",
+        "onboard_time": 1676477546,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56092,
+        "num": 56092,
+        "word": "男子借朋友12万借条1小时后变白纸",
+        "onboard_time": 1676463691,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55753,
+        "num": 55753,
+        "word": "40岁男子报复10岁小孩连划7车",
+        "onboard_time": 1676471734,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 54664,
+        "num": 54664,
+        "word": "阿森纳vs曼城",
+        "onboard_time": 1676477487,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51597,
+        "num": 51597,
+        "word": "papi酱说生孩子就像抽盲盒",
+        "onboard_time": 1676459790,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150823,
+        "num": 51171,
+        "word": "警方回应网红骑摩托上高速被拦后摔车",
+        "onboard_time": 1676494032,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79766,
+        "num": 50922,
+        "word": "上海人正在排队出国",
+        "onboard_time": 1676453432,
+        "rank": 11,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 49565,
+        "num": 49565,
+        "word": "重紫 花千骨",
+        "onboard_time": 1676469992,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46972,
+        "num": 46972,
+        "word": "上海女子激励男友买车情人节送充电桩",
+        "onboard_time": 1676479402,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43857,
+        "num": 43857,
+        "word": "女子骗闺蜜68万后让老公别工作",
+        "onboard_time": 1676474131,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40502,
+        "num": 40502,
+        "word": "当地妇联回应女子称被家暴割喉",
+        "onboard_time": 1676470234,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 39490,
+        "num": 39490,
+        "word": "白宫承认美击落的不明飞行物与中国无关",
+        "onboard_time": 1676472934,
+        "rank": 16,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 35939,
+        "num": 35939,
+        "word": "教育局回应老师用尺狠抽学生手",
+        "onboard_time": 1676466872,
+        "rank": 17,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 35421,
+        "num": 35421,
+        "word": "邓超回应作品口碑透支",
+        "onboard_time": 1676464771,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34528,
+        "num": 34528,
+        "word": "上海第三机场建在江苏",
+        "onboard_time": 1676474555,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34158,
+        "num": 34158,
+        "word": "卜尔Q",
+        "onboard_time": 1676475032,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28452,
+        "num": 28452,
+        "word": "以为主人被欺负的小狗",
+        "onboard_time": 1676476587,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27380,
+        "num": 27380,
+        "word": "海关查获一批违背一个中国原则教材",
+        "onboard_time": 1676470655,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 27025,
+        "num": 27025,
+        "word": "河南一中学开学女生站校门排队剪发",
+        "onboard_time": 1676473533,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 26532,
+        "num": 26532,
+        "word": "教材中有多处地图漏绘我国台湾省",
+        "onboard_time": 1676472095,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 26478,
+        "num": 26478,
+        "word": "喝完碳酸饮料一定要用清水漱口",
+        "onboard_time": 1676458293,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26468,
+        "num": 26468,
+        "word": "男子用感冒药提炼毒品被判刑",
+        "onboard_time": 1676472455,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25791,
+        "num": 25791,
+        "word": "白夜极光",
+        "onboard_time": 1676467355,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25339,
+        "num": 25339,
+        "word": "张芷溪新剧演杨超越妈妈",
+        "onboard_time": 1676485875,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24220,
+        "num": 24220,
+        "word": "蒋鹤婷恋综最快下车女嘉宾",
+        "onboard_time": 1676465672,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26087,
+        "num": 23289,
+        "word": "应急部门回应河南多地有巨响",
+        "onboard_time": 1676487313,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22339,
+        "num": 22339,
+        "word": "为什么街边的榴莲那么便宜",
+        "onboard_time": 1676468136,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22278,
+        "num": 22278,
+        "word": "师徒恋",
+        "onboard_time": 1676470959,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22139,
+        "num": 22139,
+        "word": "刘诗诗晒环球影城游玩照",
+        "onboard_time": 1676470474,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21886,
+        "num": 21886,
+        "word": "HYBE将正式接管SMTOWN",
+        "onboard_time": 1676467053,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21247,
+        "num": 21247,
+        "word": "重紫",
+        "onboard_time": 1676459613,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19629,
+        "num": 19629,
+        "word": "香港大幅度下调英语节目比例",
+        "onboard_time": 1676459015,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19519,
+        "num": 19519,
+        "word": "邢菲想和张颂文老师合作",
+        "onboard_time": 1676470355,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19489,
+        "num": 19489,
+        "word": "腾讯回应微信下场做外卖",
+        "onboard_time": 1676465190,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 18688,
+        "num": 18688,
+        "word": "黄多多执导舞台剧演出",
+        "onboard_time": 1676454814,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18476,
+        "num": 18476,
+        "word": "EDG战胜JDG",
+        "onboard_time": 1676469635,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18148,
+        "num": 18148,
+        "word": "徐正溪问谁的孩子",
+        "onboard_time": 1676462909,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17882,
+        "num": 17882,
+        "word": "于正写诗回应虐猫造谣者被判刑",
+        "onboard_time": 1676476109,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16166,
+        "num": 16166,
+        "word": "茶百道回应员工把环卫工打住院",
+        "onboard_time": 1676460691,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16062,
+        "num": 16062,
+        "word": "C罗胜诉获赔33万",
+        "onboard_time": 1676468577,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16007,
+        "num": 16007,
+        "word": "员工发现老板娘偷看微信火速离职",
+        "onboard_time": 1676447134,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15732,
+        "num": 15732,
+        "word": "台湾歌手刘文正过世",
+        "onboard_time": 1676445030,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13741,
+        "num": 13741,
+        "word": "张大大回应剧本",
+        "onboard_time": 1676454872,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13298,
+        "num": 13298,
+        "word": "你的crush是谁",
+        "onboard_time": 1676462250,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12605,
+        "num": 12605,
+        "word": "大学生的毕业论文现状",
+        "onboard_time": 1676458053,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进新时代党的建设新的伟大工程#"
+    }
+  }
+}
