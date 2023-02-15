@@ -1,6 +1,6 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676445450133,
+  "endTime": 1676446435470,
   "band_list": [
     {
       "raw_hot": 3244607,
@@ -19,7 +19,7 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2478269,
+      "raw_hot": 2556142,
       "num": 2478269,
       "word": "医保",
       "onboard_time": 1676442448,
@@ -51,12 +51,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1747103,
+      "num": 1747103,
+      "word": "台湾歌手刘文正过世",
+      "onboard_time": 1676445030,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1736359,
       "num": 1736359,
       "word": "杯具熊 王一博的一件小事",
       "onboard_time": 1676417362,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1695964,
+      "num": 1695964,
+      "word": "李菲儿",
+      "onboard_time": 1676444791,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1509306,
@@ -219,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 960206,
-      "num": 960206,
-      "word": "台湾歌手刘文正过世",
-      "onboard_time": 1676445030,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 922717,
       "num": 922717,
       "word": "00后女孩退房后屋里遍地是垃圾",
@@ -305,6 +313,14 @@
       "onboard_time": 1676436037,
       "rank": 8,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 710258,
+      "num": 498746,
+      "word": "女子万达买赫莲娜发现重量有差别",
+      "onboard_time": 1676444319,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 702120,
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593479,
+      "num": 494912,
+      "word": "我国已成为世界上犯罪率最低的国家之一",
+      "onboard_time": 1676443468,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 590366,
       "num": 590366,
       "word": "周杰伦 花还是要去买的不能用变的",
@@ -411,20 +435,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 587714,
-      "num": 587714,
-      "word": "李菲儿",
-      "onboard_time": 1676444791,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 587064,
       "num": 587064,
       "word": "HYBE或将收购失败",
       "onboard_time": 1676430930,
       "rank": 14,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 583971,
+      "num": 490750,
+      "word": "上半年偏财最旺的星座",
+      "onboard_time": 1676441429,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 582407,
@@ -435,12 +459,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 567480,
+      "num": 487126,
+      "word": "男子订一束花送5个女生都被拒收",
+      "onboard_time": 1676445632,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565745,
       "num": 542826,
       "word": "金莎 情人节终于有人一起过了",
       "onboard_time": 1676372132,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 559664,
+      "num": 559664,
+      "word": "瞬间明白了美到窒息的感觉",
+      "onboard_time": 1676441909,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 551017,
@@ -523,14 +563,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 515461,
-      "num": 483263,
-      "word": "上半年偏财最旺的星座",
-      "onboard_time": 1676441429,
-      "rank": 31,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 500635,
       "num": 500635,
       "word": "唐嫣黑粉登报道歉",
@@ -577,30 +609,6 @@
       "onboard_time": 1676387317,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 473629,
-      "num": 473629,
-      "word": "女子万达买赫莲娜发现重量有差别",
-      "onboard_time": 1676444319,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 456452,
-      "num": 456452,
-      "word": "我国已成为世界上犯罪率最低的国家之一",
-      "onboard_time": 1676443468,
-      "rank": 14,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 451609,
-      "num": 451609,
-      "word": "瞬间明白了美到窒息的感觉",
-      "onboard_time": 1676441909,
-      "rank": 42,
-      "category": "时尚"
     },
     {
       "raw_hot": 446050,
@@ -811,8 +819,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 332790,
-      "num": 332790,
+      "raw_hot": 334413,
+      "num": 334413,
       "word": "李菲儿后背线条",
       "onboard_time": 1676444010,
       "rank": 19,
@@ -841,6 +849,14 @@
       "onboard_time": 1676419588,
       "rank": 25,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 317961,
+      "num": 317961,
+      "word": "T1教练Sky转为中单",
+      "onboard_time": 1676442931,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 315039,
@@ -923,14 +939,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 294657,
-      "num": 294657,
-      "word": "T1教练Sky转为中单",
-      "onboard_time": 1676442931,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 289060,
       "num": 289060,
       "word": "重病母亲回应儿子向舅舅借学费",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1676388575,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 268865,
+      "num": 268865,
+      "word": "男子因同名误留刑拘记录6年",
+      "onboard_time": 1676444671,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255984,
@@ -1099,20 +1115,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 229780,
+      "num": 229780,
+      "word": "五问医保个人账户改革",
+      "onboard_time": 1676443110,
+      "rank": 40,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 229077,
       "num": 229077,
       "word": "什么是朋友式的爱情",
       "onboard_time": 1676420913,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 226566,
-      "num": 226566,
-      "word": "男子因同名误留刑拘记录6年",
-      "onboard_time": 1676444671,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220634,
@@ -1145,6 +1161,14 @@
       "onboard_time": 1676445394,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214505,
+      "num": 214505,
+      "word": "100岁的丈夫101岁的妻子",
+      "onboard_time": 1676444731,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208510,
@@ -1299,8 +1323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185940,
-      "num": 185940,
+      "raw_hot": 186206,
+      "num": 186206,
       "word": "马斯克提高自己推文优先级1000倍",
       "onboard_time": 1676444189,
       "rank": 34,
@@ -1321,14 +1345,6 @@
       "onboard_time": 1676425590,
       "rank": 39,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 179626,
-      "num": 179626,
-      "word": "100岁的丈夫101岁的妻子",
-      "onboard_time": 1676444731,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179149,
@@ -1361,6 +1377,14 @@
       "onboard_time": 1676431171,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173428,
+      "num": 173428,
+      "word": "陈星旭李兰迪片场干一大碗酒",
+      "onboard_time": 1676445510,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 170382,
@@ -1403,6 +1427,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 164240,
+      "num": 164240,
+      "word": "原来水墨江山真的存在",
+      "onboard_time": 1676445812,
+      "rank": 38,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 164219,
       "num": 164219,
       "word": "许凯情人节海边大片",
@@ -1443,12 +1475,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158012,
-      "num": 158012,
-      "word": "五问医保个人账户改革",
-      "onboard_time": 1676443110,
-      "rank": 40,
-      "category": "国内要闻"
+      "raw_hot": 156146,
+      "num": 156146,
+      "word": "外婆的澎湖湾",
+      "onboard_time": 1676446411,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 154733,
@@ -1483,12 +1515,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 148654,
+      "num": 148654,
+      "word": "中消协点名智能电视套娃式收费",
+      "onboard_time": 1676446234,
+      "rank": 45,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 144068,
+      "num": 144068,
+      "word": "中小学校内禁设超市小卖部",
+      "onboard_time": 1676446292,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 143878,
       "num": 143878,
       "word": "规范使用中国地图一点都不能少",
       "onboard_time": 1676441790,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142200,
+      "num": 142200,
+      "word": "买房是必须的吗",
+      "onboard_time": 1676446050,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 140835,
@@ -1532,7 +1588,7 @@
     },
     {
       "raw_hot": 135369,
-      "num": 1567788,
+      "num": 1706382,
       "word": "中国春耕图鉴",
       "onboard_time": 1676430749,
       "rank": 2,
