@@ -1,0 +1,410 @@
+{
+  "runTime": 1676439240844,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3062512,
+        "num": 3062512,
+        "word": "王鹤棣父亲油炸店无行政处罚记录",
+        "onboard_time": 1676436877,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1268718,
+        "num": 1268718,
+        "word": "张大大直播 剧本",
+        "onboard_time": 1676425289,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71895,
+        "num": 1143048,
+        "word": "中国春耕图鉴",
+        "onboard_time": 1676430749,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1057757,
+        "num": 1057757,
+        "word": "玫瑰刺又多 花期又短 还容易枯萎",
+        "onboard_time": 1676435076,
+        "rank": 3,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 776104,
+        "num": 776104,
+        "word": "陈赫 没点交情这节目真录不下来",
+        "onboard_time": 1676434837,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601517,
+        "num": 601517,
+        "word": "专家建议向大中专毕业生发现金补助",
+        "onboard_time": 1676432731,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1298190,
+        "num": 582849,
+        "word": "提前还贷20万或将节省利息17万",
+        "onboard_time": 1676431229,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 558420,
+        "num": 558420,
+        "word": "王鹤棣吃炸串吃到蓝羽上手阻拦",
+        "onboard_time": 1676438734,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 532688,
+        "num": 532688,
+        "word": "央媒称中国足球要刮骨疗毒",
+        "onboard_time": 1676434173,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 440145,
+        "num": 440145,
+        "word": "邓超问节目组多打四个哈是会累到你吗",
+        "onboard_time": 1676431291,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1362544,
+        "num": 439847,
+        "word": "男子给女友转账140万分手想要回",
+        "onboard_time": 1676435438,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1252798,
+        "num": 438311,
+        "word": "12岁脑瘫女孩被同岁亲戚性侵",
+        "onboard_time": 1676426730,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745229,
+        "num": 436875,
+        "word": "月入5000能不能击败95%的人",
+        "onboard_time": 1676433513,
+        "rank": 12,
+        "category": "社会议题,财经"
+      },
+      {
+        "raw_hot": 731438,
+        "num": 435218,
+        "word": "超六成专科毕业生月薪低于5000",
+        "onboard_time": 1676436037,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 435043,
+        "num": 435043,
+        "word": "女子1米65起跳5次才能刷脸成功",
+        "onboard_time": 1676432071,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411509,
+        "num": 411509,
+        "word": "对话毕业5年存款5千女生",
+        "onboard_time": 1676434360,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370906,
+        "num": 370906,
+        "word": "iPhone15Pro或带来全新金色",
+        "onboard_time": 1676424210,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 356270,
+        "num": 356270,
+        "word": "蔚来回应试驾致母子一死一伤",
+        "onboard_time": 1676427151,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344696,
+        "num": 344696,
+        "word": "面试一趟有多难",
+        "onboard_time": 1676436818,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332710,
+        "num": 332710,
+        "word": "肖战杨紫余生请多指教日本UNEXT播出",
+        "onboard_time": 1676432435,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317183,
+        "num": 317183,
+        "word": "张大大 无忧传媒",
+        "onboard_time": 1676438910,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311153,
+        "num": 311153,
+        "word": "目黑莲将首次主演黄金档剧集",
+        "onboard_time": 1676438972,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310551,
+        "num": 310551,
+        "word": "俄亥俄州官方称居民应只使用瓶装水",
+        "onboard_time": 1676437361,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294247,
+        "num": 294247,
+        "word": "台湾省地图应绘出钓鱼岛和赤尾屿",
+        "onboard_time": 1676438255,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 289710,
+        "num": 289710,
+        "word": "杨超越邓为吻戏镜头",
+        "onboard_time": 1676432792,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288924,
+        "num": 288924,
+        "word": "弟弟被姐姐揍不敢还手踢空调出气",
+        "onboard_time": 1676431589,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272943,
+        "num": 272943,
+        "word": "Rookie情人节去医院拔鱼刺",
+        "onboard_time": 1676431952,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260239,
+        "num": 260239,
+        "word": "重病母亲回应儿子向舅舅借学费",
+        "onboard_time": 1676434173,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 259563,
+        "num": 259563,
+        "word": "HYBE或将收购失败",
+        "onboard_time": 1676430930,
+        "rank": 28,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 251905,
+        "num": 251905,
+        "word": "河南一学院将升级为大学",
+        "onboard_time": 1676424092,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 250051,
+        "num": 250051,
+        "word": "鹿晗被老虎吓到",
+        "onboard_time": 1676430689,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223111,
+        "num": 223111,
+        "word": "网友称乐山油炸串串不健康建议取缔",
+        "onboard_time": 1676423132,
+        "rank": 31,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 222595,
+        "num": 222595,
+        "word": "三体 你们是虫子",
+        "onboard_time": 1676429009,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218880,
+        "num": 218880,
+        "word": "唐嫣黑粉登报道歉",
+        "onboard_time": 1676434360,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218171,
+        "num": 218171,
+        "word": "男子酒后狂飙打110找安欣",
+        "onboard_time": 1676438552,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203417,
+        "num": 203417,
+        "word": "201岁的姐弟恋有多甜",
+        "onboard_time": 1676422592,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 198568,
+        "num": 198568,
+        "word": "毛不易想让郭麒麟在三体演罗辑",
+        "onboard_time": 1676435560,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180028,
+        "num": 180028,
+        "word": "LadyGaga小丑2剧照",
+        "onboard_time": 1676431291,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177908,
+        "num": 177908,
+        "word": "蚁人3口碑",
+        "onboard_time": 1676425649,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173380,
+        "num": 173380,
+        "word": "白头发会不会越拔越多",
+        "onboard_time": 1676431409,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169936,
+        "num": 169936,
+        "word": "梅西",
+        "onboard_time": 1676422951,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168518,
+        "num": 168518,
+        "word": "俄亥俄有毒气体泄漏会影响多大范围",
+        "onboard_time": 1676424992,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164876,
+        "num": 164876,
+        "word": "流浪地球2密钥延期",
+        "onboard_time": 1676427208,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163291,
+        "num": 163291,
+        "word": "月入5000是什么水平",
+        "onboard_time": 1676439093,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159382,
+        "num": 159382,
+        "word": "欧阳娜娜为重紫打call",
+        "onboard_time": 1676438433,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154733,
+        "num": 154733,
+        "word": "名侦探学院校规风云",
+        "onboard_time": 1676439152,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148805,
+        "num": 148805,
+        "word": "被一万四千公里的求婚整破防了",
+        "onboard_time": 1676433153,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 140299,
+        "num": 140299,
+        "word": "深圳夫妻带10岁孤独症儿子跑单6年",
+        "onboard_time": 1676427029,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138292,
+        "num": 138292,
+        "word": "张颂文给苏小玎设计摔杯子动作",
+        "onboard_time": 1676426248,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130764,
+        "num": 130764,
+        "word": "中国空间站又要来新人啦",
+        "onboard_time": 1676432674,
+        "rank": 49,
+        "category": "科技,国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}

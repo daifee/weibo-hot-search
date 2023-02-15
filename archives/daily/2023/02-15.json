@@ -1,6 +1,6 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676438288304,
+  "endTime": 1676439240844,
   "band_list": [
     {
       "raw_hot": 3244607,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2590388,
-      "num": 2590388,
+      "raw_hot": 3062512,
+      "num": 3062512,
       "word": "王鹤棣父亲油炸店无行政处罚记录",
       "onboard_time": 1676436877,
       "rank": 0,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1362544,
+      "num": 587823,
+      "word": "男子给女友转账140万分手想要回",
+      "onboard_time": 1676435438,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1283823,
       "num": 495656,
       "word": "黄子韬徐艺洋 情人节团建",
       "onboard_time": 1676378317,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1211832,
-      "num": 587823,
-      "word": "男子给女友转账140万分手想要回",
-      "onboard_time": 1676435438,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1203786,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558420,
+      "num": 558420,
+      "word": "王鹤棣吃炸串吃到蓝羽上手阻拦",
+      "onboard_time": 1676438734,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 551017,
       "num": 551017,
       "word": "高会",
@@ -387,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 532688,
+      "num": 532688,
+      "word": "央媒称中国足球要刮骨疗毒",
+      "onboard_time": 1676434173,
+      "rank": 25,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 524903,
       "num": 524903,
       "word": "杨超越邓为吻戏镜头",
@@ -417,14 +433,6 @@
       "onboard_time": 1676424868,
       "rank": 48,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 504283,
-      "num": 504283,
-      "word": "央媒称中国足球要刮骨疗毒",
-      "onboard_time": 1676434173,
-      "rank": 25,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 500635,
@@ -619,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344696,
+      "num": 344696,
+      "word": "面试一趟有多难",
+      "onboard_time": 1676436818,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 340700,
       "num": 340700,
       "word": "罗云熙陈瑶同框合照",
@@ -651,12 +667,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 323755,
-      "num": 323755,
-      "word": "面试一趟有多难",
-      "onboard_time": 1676436818,
+      "raw_hot": 317183,
+      "num": 317183,
+      "word": "张大大 无忧传媒",
+      "onboard_time": 1676438910,
       "rank": 20,
-      "category": "幽默"
+      "category": "艺人"
     },
     {
       "raw_hot": 315039,
@@ -673,6 +689,22 @@
       "onboard_time": 1676383536,
       "rank": 22,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 311153,
+      "num": 311153,
+      "word": "目黑莲将首次主演黄金档剧集",
+      "onboard_time": 1676438972,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 310551,
+      "num": 310551,
+      "word": "俄亥俄州官方称居民应只使用瓶装水",
+      "onboard_time": 1676437361,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310324,
@@ -721,6 +753,14 @@
       "onboard_time": 1676386235,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 294247,
+      "num": 294247,
+      "word": "台湾省地图应绘出钓鱼岛和赤尾屿",
+      "onboard_time": 1676438255,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 289060,
@@ -793,14 +833,6 @@
       "onboard_time": 1676388575,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 267340,
-      "num": 267340,
-      "word": "俄亥俄州官方称居民应只使用瓶装水",
-      "onboard_time": 1676437361,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255984,
@@ -889,6 +921,14 @@
       "onboard_time": 1676424510,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218171,
+      "num": 218171,
+      "word": "男子酒后狂飙打110找安欣",
+      "onboard_time": 1676438552,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217333,
@@ -1131,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163291,
+      "num": 163291,
+      "word": "月入5000是什么水平",
+      "onboard_time": 1676439093,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161840,
       "num": 161840,
       "word": "长臂猿2秒进化成人",
@@ -1145,6 +1193,22 @@
       "onboard_time": 1676433694,
       "rank": 49,
       "category": "幽默,幽默"
+    },
+    {
+      "raw_hot": 159382,
+      "num": 159382,
+      "word": "欧阳娜娜为重紫打call",
+      "onboard_time": 1676438433,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 154733,
+      "num": 154733,
+      "word": "名侦探学院校规风云",
+      "onboard_time": 1676439152,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 154231,
@@ -1169,14 +1233,6 @@
       "onboard_time": 1676384677,
       "rank": 44,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 140951,
-      "num": 140951,
-      "word": "台湾省地图应绘出钓鱼岛和赤尾屿",
-      "onboard_time": 1676438255,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 140835,
