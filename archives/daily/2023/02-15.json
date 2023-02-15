@@ -1,7 +1,23 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676417630804,
+  "endTime": 1676425334984,
   "band_list": [
+    {
+      "raw_hot": 2135706,
+      "num": 2135706,
+      "word": "都美竹 一个人穿婚纱也很浪漫",
+      "onboard_time": 1676423373,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1736359,
+      "num": 1736359,
+      "word": "杯具熊 王一博的一件小事",
+      "onboard_time": 1676417362,
+      "rank": 8,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1509306,
       "num": 1509306,
@@ -12,11 +28,19 @@
     },
     {
       "raw_hot": 1283823,
-      "num": 478589,
+      "num": 495656,
       "word": "黄子韬徐艺洋 情人节团建",
       "onboard_time": 1676378317,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1095869,
+      "num": 1095869,
+      "word": "苏乞儿",
+      "onboard_time": 1676423553,
+      "rank": 3,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1027355,
@@ -27,12 +51,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1014699,
+      "num": 1014699,
+      "word": "18岁喜欢的人27岁还在身边",
+      "onboard_time": 1676415737,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1002121,
+      "num": 1002121,
+      "word": "201岁的姐弟恋有多甜",
+      "onboard_time": 1676422592,
+      "rank": 5,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 994359,
       "num": 994359,
       "word": "顺丰寄爱马仕包运输中被烧毁",
       "onboard_time": 1676377114,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 945440,
+      "num": 945440,
+      "word": "网友称乐山油炸串串不健康建议取缔",
+      "onboard_time": 1676423132,
+      "rank": 6,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 886216,
+      "num": 886216,
+      "word": "张大大直播 剧本",
+      "onboard_time": 1676425289,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 885260,
+      "num": 697506,
+      "word": "iPhone15Pro或带来全新金色",
+      "onboard_time": 1676424210,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 838058,
@@ -51,12 +115,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 777485,
-      "num": 777485,
-      "word": "18岁喜欢的人27岁还在身边",
-      "onboard_time": 1676415737,
-      "rank": 9,
-      "category": "情感"
+      "raw_hot": 741778,
+      "num": 741778,
+      "word": "问ChatGPT中国足球如何赢得世界杯冠军",
+      "onboard_time": 1676422651,
+      "rank": 8,
+      "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 651499,
+      "num": 651499,
+      "word": "梅西",
+      "onboard_time": 1676422951,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 645354,
+      "num": 645354,
+      "word": "氯乙烯",
+      "onboard_time": 1676417001,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 632321,
@@ -91,6 +171,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551017,
+      "num": 551017,
+      "word": "高会",
+      "onboard_time": 1676420191,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 548837,
+      "num": 548837,
+      "word": "周杰伦昆凌情人节捧花合照",
+      "onboard_time": 1676418626,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542983,
       "num": 542983,
       "word": "TheShy状态",
@@ -99,12 +195,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 498865,
-      "num": 498865,
-      "word": "杯具熊 王一博的一件小事",
-      "onboard_time": 1676417362,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 524447,
+      "num": 524447,
+      "word": "多管齐下引导居民从超额储蓄向消费转化",
+      "onboard_time": 1676421513,
+      "rank": 16,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 512409,
+      "num": 512409,
+      "word": "河南一学院将升级为大学",
+      "onboard_time": 1676424092,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 491038,
@@ -121,6 +225,14 @@
       "onboard_time": 1676387317,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 457091,
+      "num": 457091,
+      "word": "苏乞儿被拦车摔倒责任在谁",
+      "onboard_time": 1676423851,
+      "rank": 19,
+      "category": "社会议题"
     },
     {
       "raw_hot": 446050,
@@ -187,14 +299,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 384278,
-      "num": 384278,
-      "word": "氯乙烯",
-      "onboard_time": 1676417001,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378157,
       "num": 378157,
       "word": "68岁环卫工被茶百道员工殴打住院",
@@ -217,6 +321,14 @@
       "onboard_time": 1676387859,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324434,
+      "num": 324434,
+      "word": "俄亥俄附近溪流中逐渐出现死鱼",
+      "onboard_time": 1676419588,
+      "rank": 25,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 313846,
@@ -251,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306270,
+      "num": 306270,
+      "word": "上海地铁",
+      "onboard_time": 1676424691,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300777,
       "num": 300777,
       "word": "TT 状态",
@@ -283,6 +403,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244869,
+      "num": 244869,
+      "word": "巴黎圣日耳曼0比1拜仁慕尼黑",
+      "onboard_time": 1676418988,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 243398,
+      "num": 243398,
+      "word": "诺如病毒高发期中疾控提醒预防",
+      "onboard_time": 1676423732,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241462,
       "num": 241462,
       "word": "张颂文给电鱼案设计了五个细节",
@@ -307,6 +443,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229077,
+      "num": 229077,
+      "word": "什么是朋友式的爱情",
+      "onboard_time": 1676420913,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 220634,
+      "num": 220634,
+      "word": "严浩翔读粉丝评论视频",
+      "onboard_time": 1676424510,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217333,
       "num": 217333,
       "word": "你心目中改名最成功的大学",
@@ -323,12 +475,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205767,
+      "num": 205767,
+      "word": "中国天眼发现740余颗新脉冲星",
+      "onboard_time": 1676419769,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 203780,
+      "num": 203780,
+      "word": "aespa新歌Thirsty",
+      "onboard_time": 1676419107,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 202568,
+      "num": 202568,
+      "word": "如何看待互联网种树行为",
+      "onboard_time": 1676422114,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 199993,
       "num": 199993,
       "word": "原来猛兽的睡姿是这样的",
       "onboard_time": 1676410093,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 198437,
+      "num": 198437,
+      "word": "宋亚轩刘耀文冲浪路透",
+      "onboard_time": 1676422235,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 197087,
@@ -348,7 +532,7 @@
     },
     {
       "raw_hot": 190058,
-      "num": 157082,
+      "num": 187114,
       "word": "男子130预定玫瑰情人节加价至248",
       "onboard_time": 1676416941,
       "rank": 30,
@@ -387,6 +571,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 179160,
+      "num": 179160,
+      "word": "俄亥俄有毒气体泄漏会影响多大范围",
+      "onboard_time": 1676424992,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179149,
       "num": 179149,
       "word": "女孩回应向叙利亚捐6000包卫生巾",
@@ -411,12 +603,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167890,
+      "num": 167890,
+      "word": "男子称捡到女生为其生孩子系谣言",
+      "onboard_time": 1676417242,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167153,
       "num": 167153,
       "word": "想见你",
       "onboard_time": 1676368892,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166929,
+      "num": 166929,
+      "word": "恢复签发韩国公民赴华短期签证",
+      "onboard_time": 1676424868,
+      "rank": 48,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 165978,
@@ -467,14 +675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140712,
-      "num": 140712,
-      "word": "男子称捡到女生为其生孩子系谣言",
-      "onboard_time": 1676417242,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139124,
       "num": 139124,
       "word": "陈年烈苟广播剧",
@@ -523,6 +723,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 93050,
+      "num": 1152162,
+      "word": "震后救援中的中国身影",
+      "onboard_time": 1676381077,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 80966,
       "num": 80966,
       "word": "情人节偶遇黄子韬徐艺洋",
@@ -553,14 +761,6 @@
       "onboard_time": 1676396836,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 55416,
-      "num": 896459,
-      "word": "震后救援中的中国身影",
-      "onboard_time": 1676381077,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 48382,
