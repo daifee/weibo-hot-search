@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676500527943,
+  "endTime": 1676503156995,
   "band_list": [
     {
       "raw_hot": 2204275,
@@ -25,6 +25,14 @@
       "onboard_time": 1676478444,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 915234,
+      "num": 915234,
+      "word": "警方回应网红骑摩托上高速被拦后摔车",
+      "onboard_time": 1676494032,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 901779,
@@ -123,16 +131,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400212,
-      "num": 400212,
-      "word": "警方回应网红骑摩托上高速被拦后摔车",
-      "onboard_time": 1676494032,
-      "rank": 10,
+      "raw_hot": 404013,
+      "num": 404013,
+      "word": "黄奕演言承旭的丈母娘",
+      "onboard_time": 1676477546,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 349203,
+      "num": 332388,
+      "word": "日本游客排队告别大熊猫香香",
+      "onboard_time": 1676501958,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 341773,
-      "num": 341773,
+      "raw_hot": 348872,
+      "num": 348872,
       "word": "上海女子激励男友买车情人节送充电桩",
       "onboard_time": 1676479402,
       "rank": 47,
@@ -147,12 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 322111,
-      "num": 322111,
-      "word": "黄奕演言承旭的丈母娘",
-      "onboard_time": 1676477546,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 314134,
+      "num": 314134,
+      "word": "浙江一男生获3次保送清北的机会",
+      "onboard_time": 1676497093,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 272757,
@@ -235,8 +251,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189092,
-      "num": 189092,
+      "raw_hot": 190718,
+      "num": 190718,
       "word": "邓超回应作品口碑透支",
       "onboard_time": 1676464771,
       "rank": 26,
@@ -265,6 +281,14 @@
       "onboard_time": 1676470355,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167960,
+      "num": 167960,
+      "word": "教材中有多处地图漏绘我国台湾省",
+      "onboard_time": 1676472095,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 161534,
@@ -299,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153407,
-      "num": 125772,
-      "word": "浙江一男生获3次保送清北的机会",
-      "onboard_time": 1676497093,
-      "rank": 11,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 152684,
       "num": 152684,
       "word": "为什么街边的榴莲那么便宜",
@@ -339,20 +355,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135590,
-      "num": 135590,
-      "word": "教材中有多处地图漏绘我国台湾省",
-      "onboard_time": 1676472095,
-      "rank": 39,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 133083,
       "num": 133083,
       "word": "喝完碳酸饮料一定要用清水漱口",
       "onboard_time": 1676458293,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129045,
+      "num": 129045,
+      "word": "阿森纳vs曼城",
+      "onboard_time": 1676477487,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 120175,
@@ -379,12 +395,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 113625,
-      "num": 113625,
-      "word": "阿森纳vs曼城",
-      "onboard_time": 1676477487,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 116541,
+      "num": 116541,
+      "word": "应急部门回应河南多地有巨响",
+      "onboard_time": 1676487313,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113492,
@@ -419,16 +435,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55588,
-      "num": 47990,
-      "word": "应急部门回应河南多地有巨响",
-      "onboard_time": 1676487313,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54622,
-      "num": 54622,
+      "raw_hot": 66106,
+      "num": 66106,
       "word": "张芷溪新剧演杨超越妈妈",
       "onboard_time": 1676485875,
       "rank": 43,
