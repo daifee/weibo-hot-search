@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676486333049,
+  "endTime": 1676488549193,
   "band_list": [
     {
       "raw_hot": 2204275,
@@ -403,12 +403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35492,
-      "num": 35492,
+      "raw_hot": 54622,
+      "num": 54622,
       "word": "张芷溪新剧演杨超越妈妈",
       "onboard_time": 1676485875,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 38781,
+      "num": 36002,
+      "word": "应急部门回应河南多地有巨响",
+      "onboard_time": 1676487313,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34998,
