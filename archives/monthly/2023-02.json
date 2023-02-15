@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676467684116,
+  "endTime": 1676468339888,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -2595,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1375832,
+      "num": 1375832,
+      "word": "HYBE将正式接管SMTOWN",
+      "onboard_time": 1676467053,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1375744,
       "num": 1375744,
       "word": "段奥娟瘦了好多",
@@ -3521,14 +3529,6 @@
       "onboard_time": 1676341052,
       "rank": 5,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1164002,
-      "num": 1164002,
-      "word": "HYBE将正式接管SMTOWN",
-      "onboard_time": 1676467053,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1162689,
@@ -7243,6 +7243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 739957,
+      "num": 594747,
+      "word": "腾讯回应微信下场做外卖",
+      "onboard_time": 1676465190,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 739889,
       "num": 739889,
       "word": "女子在婆家被打娘家齐上阵",
@@ -7979,14 +7987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 699617,
-      "num": 479342,
-      "word": "腾讯回应微信下场做外卖",
-      "onboard_time": 1676465190,
-      "rank": 28,
-      "category": "科技"
-    },
-    {
       "raw_hot": 699455,
       "num": 699455,
       "word": "仙剑六祈今朝",
@@ -8401,6 +8401,14 @@
       "onboard_time": 1675516232,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 679094,
+      "num": 679094,
+      "word": "教育局回应老师用尺狠抽学生手",
+      "onboard_time": 1676466872,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 677850,
@@ -19675,14 +19683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 301321,
-      "num": 301321,
-      "word": "教育局回应老师用尺狠抽学生手",
-      "onboard_time": 1676466872,
-      "rank": 23,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 300891,
       "num": 300891,
       "word": "张杰把很多的时间分给了家庭",
@@ -20736,6 +20736,14 @@
       "word": "TTG对战EDGM",
       "onboard_time": 1676022749,
       "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 283511,
+      "num": 283511,
+      "word": "白夜极光",
+      "onboard_time": 1676467355,
+      "rank": 35,
       "category": "游戏"
     },
     {
@@ -23785,6 +23793,14 @@
       "onboard_time": 1675560926,
       "rank": 25,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 236011,
+      "num": 236011,
+      "word": "律师谈网红骑摩托上高速被拦",
+      "onboard_time": 1676467290,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236007,
@@ -27115,14 +27131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192580,
-      "num": 192580,
-      "word": "白夜极光",
-      "onboard_time": 1676467355,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 192566,
       "num": 192566,
       "word": "中国救援人员保护好自己",
@@ -27745,6 +27753,14 @@
       "onboard_time": 1675437632,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186898,
+      "num": 186898,
+      "word": "男子质疑交通执法有违规遭跨省抓捕",
+      "onboard_time": 1676466574,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186881,
@@ -28707,6 +28723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177953,
+      "num": 177953,
+      "word": "白百何说平面还是没有糊的吧",
+      "onboard_time": 1676468012,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177789,
       "num": 177789,
       "word": "土耳其女子为蓝天救援队员暖手",
@@ -29379,14 +29403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171349,
-      "num": 171349,
-      "word": "律师谈网红骑摩托上高速被拦",
-      "onboard_time": 1676467290,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171259,
       "num": 171259,
       "word": "原来水墨江山真的存在",
@@ -30051,14 +30067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165794,
-      "num": 165794,
-      "word": "男子质疑交通执法有违规遭跨省抓捕",
-      "onboard_time": 1676466574,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165556,
       "num": 165556,
       "word": "湖南一男子当街殴打掌掴女子",
@@ -30713,6 +30721,14 @@
       "onboard_time": 1675577907,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 158197,
+      "num": 158197,
+      "word": "为什么街边的榴莲那么便宜",
+      "onboard_time": 1676468136,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158077,

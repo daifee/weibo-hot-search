@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676467684116,
+  "endTime": 1676468339888,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -571,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1375832,
+      "num": 1375832,
+      "word": "HYBE将正式接管SMTOWN",
+      "onboard_time": 1676467053,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1362544,
       "num": 845898,
       "word": "男子给女友转账140万分手想要回",
@@ -785,14 +793,6 @@
       "onboard_time": 1676341052,
       "rank": 5,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1164002,
-      "num": 1164002,
-      "word": "HYBE将正式接管SMTOWN",
-      "onboard_time": 1676467053,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1161151,
@@ -1555,6 +1555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 739957,
+      "num": 594747,
+      "word": "腾讯回应微信下场做外卖",
+      "onboard_time": 1676465190,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 738830,
       "num": 578050,
       "word": "南宁一商场男子持刀伤害一女子",
@@ -1691,14 +1699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 699617,
-      "num": 479342,
-      "word": "腾讯回应微信下场做外卖",
-      "onboard_time": 1676465190,
-      "rank": 28,
-      "category": "科技"
-    },
-    {
       "raw_hot": 699455,
       "num": 699455,
       "word": "Rookie撕玫瑰花",
@@ -1793,6 +1793,14 @@
       "onboard_time": 1676203231,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 679094,
+      "num": 679094,
+      "word": "教育局回应老师用尺狠抽学生手",
+      "onboard_time": 1676466872,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 677850,
@@ -4187,14 +4195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 301321,
-      "num": 301321,
-      "word": "教育局回应老师用尺狠抽学生手",
-      "onboard_time": 1676466872,
-      "rank": 23,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 298886,
       "num": 298886,
       "word": "梁朝伟说要接受不完美",
@@ -4361,6 +4361,14 @@
       "onboard_time": 1676349938,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283511,
+      "num": 283511,
+      "word": "白夜极光",
+      "onboard_time": 1676467355,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 282008,
@@ -4977,6 +4985,14 @@
       "onboard_time": 1676376575,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236011,
+      "num": 236011,
+      "word": "律师谈网红骑摩托上高速被拦",
+      "onboard_time": 1676467290,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235824,
@@ -5643,14 +5659,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 192580,
-      "num": 192580,
-      "word": "白夜极光",
-      "onboard_time": 1676467355,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 192427,
       "num": 192427,
       "word": "年过八旬的爷爷情人节送花给老伴",
@@ -5795,6 +5803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186898,
+      "num": 186898,
+      "word": "男子质疑交通执法有违规遭跨省抓捕",
+      "onboard_time": 1676466574,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186722,
       "num": 186722,
       "word": "六公主赞显微镜下的大明",
@@ -5913,6 +5929,14 @@
       "onboard_time": 1676339971,
       "rank": 41,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 177953,
+      "num": 177953,
+      "word": "白百何说平面还是没有糊的吧",
+      "onboard_time": 1676468012,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 177449,
@@ -6075,14 +6099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 171349,
-      "num": 171349,
-      "word": "律师谈网红骑摩托上高速被拦",
-      "onboard_time": 1676467290,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171259,
       "num": 171259,
       "word": "原来水墨江山真的存在",
@@ -6195,14 +6211,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 165794,
-      "num": 165794,
-      "word": "男子质疑交通执法有违规遭跨省抓捕",
-      "onboard_time": 1676466574,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164800,
       "num": 164800,
       "word": "张元英LoveDive舞台",
@@ -6313,6 +6321,14 @@
       "onboard_time": 1676356832,
       "rank": 45,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 158197,
+      "num": 158197,
+      "word": "为什么街边的榴莲那么便宜",
+      "onboard_time": 1676468136,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157024,
