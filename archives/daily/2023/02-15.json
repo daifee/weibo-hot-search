@@ -1,6 +1,6 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676457439943,
+  "endTime": 1676459787995,
   "band_list": [
     {
       "raw_hot": 3244607,
@@ -73,6 +73,14 @@
       "onboard_time": 1676426730,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2094404,
+      "num": 1113154,
+      "word": "谢娜瘦了20斤",
+      "onboard_time": 1676458231,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2092383,
@@ -192,6 +200,14 @@
       "word": "黄子韬徐艺洋 情人节团建",
       "onboard_time": 1676378317,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1259563,
+      "num": 1259563,
+      "word": "黄多多执导舞台剧演出",
+      "onboard_time": 1676454814,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -401,14 +417,6 @@
       "onboard_time": 1676429190,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 748009,
-      "num": 748009,
-      "word": "黄多多执导舞台剧演出",
-      "onboard_time": 1676454814,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 747740,
@@ -755,12 +763,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 484322,
+      "num": 484322,
+      "word": "陈钰琪演王鹤棣嫂子",
+      "onboard_time": 1676458412,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 484064,
       "num": 484064,
       "word": "三体 你们是虫子",
       "onboard_time": 1676429009,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 482652,
+      "num": 482652,
+      "word": "大学生的毕业论文现状",
+      "onboard_time": 1676458053,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 478425,
@@ -841,6 +865,14 @@
       "onboard_time": 1676439871,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423757,
+      "num": 423757,
+      "word": "专八",
+      "onboard_time": 1676457274,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 415487,
@@ -1059,6 +1091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 315592,
+      "num": 315592,
+      "word": "马斯克向往每周工作80小时",
+      "onboard_time": 1676455832,
+      "rank": 41,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 315039,
       "num": 315039,
       "word": "俄亥俄有毒气体泄漏会影响多大范围",
@@ -1163,6 +1203,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 293176,
+      "num": 293176,
+      "word": "喝完碳酸饮料一定要用清水漱口",
+      "onboard_time": 1676458293,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289060,
       "num": 289060,
       "word": "重病母亲回应儿子向舅舅借学费",
@@ -1251,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274356,
+      "num": 274356,
+      "word": "被跨省敲门当事人需要一个道歉",
+      "onboard_time": 1676455410,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271075,
       "num": 271075,
       "word": "年纪轻轻就长白头发是咋回事",
@@ -1272,22 +1328,6 @@
       "word": "男子因同名误留刑拘记录6年",
       "onboard_time": 1676444671,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262441,
-      "num": 262441,
-      "word": "马斯克向往每周工作80小时",
-      "onboard_time": 1676455832,
-      "rank": 41,
-      "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 256723,
-      "num": 256723,
-      "word": "被跨省敲门当事人需要一个道歉",
-      "onboard_time": 1676455410,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1363,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235318,
+      "num": 235318,
+      "word": "BoysPlanet中国选手转手绢",
+      "onboard_time": 1676459672,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232875,
       "num": 205216,
       "word": "于正探班你比星光美丽剧组照片",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1676451213,
       "rank": 33,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 223689,
+      "num": 223689,
+      "word": "宁至谦强吻阮流筝",
+      "onboard_time": 1676459251,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 220634,
@@ -1451,20 +1507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211232,
-      "num": 211232,
-      "word": "专八",
-      "onboard_time": 1676457274,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 208510,
       "num": 208510,
       "word": "重紫连更10天22集",
       "onboard_time": 1676441253,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207323,
+      "num": 207323,
+      "word": "代餐文学",
+      "onboard_time": 1676459133,
+      "rank": 38,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 205767,
@@ -1555,6 +1611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190972,
+      "num": 190972,
+      "word": "重紫全员晒学生证入学",
+      "onboard_time": 1676459370,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190347,
       "num": 190347,
       "word": "2023NBA全明星",
@@ -1601,6 +1665,14 @@
       "onboard_time": 1676362593,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187903,
+      "num": 187903,
+      "word": "香港大幅度下调英语节目比例",
+      "onboard_time": 1676459015,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187639,
@@ -1761,6 +1833,14 @@
       "onboard_time": 1676426547,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160132,
+      "num": 160132,
+      "word": "虞书欣云之羽掀盖头路透",
+      "onboard_time": 1676458534,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 159929,

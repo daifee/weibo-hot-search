@@ -1,0 +1,410 @@
+{
+  "runTime": 1676459787995,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1443896,
+        "num": 1443896,
+        "word": "员工发现老板娘偷看微信火速离职",
+        "onboard_time": 1676447134,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1259563,
+        "num": 1259563,
+        "word": "黄多多执导舞台剧演出",
+        "onboard_time": 1676454814,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48139,
+        "num": 1155626,
+        "word": "抓紧抓好粮食和重要农产品稳产保供",
+        "onboard_time": 1676447070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2094404,
+        "num": 1113154,
+        "word": "谢娜瘦了20斤",
+        "onboard_time": 1676458231,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2054171,
+        "num": 1093342,
+        "word": "上海人正在排队出国",
+        "onboard_time": 1676453432,
+        "rank": 4,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1059091,
+        "num": 1059091,
+        "word": "唐山打人者陈继志名下公司注销",
+        "onboard_time": 1676455171,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966935,
+        "num": 966935,
+        "word": "王鹤棣爸爸开新店叫棣兴餐饮",
+        "onboard_time": 1676455893,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685226,
+        "num": 685226,
+        "word": "女子情人节收到1千克黄金爱心",
+        "onboard_time": 1676449955,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651340,
+        "num": 651340,
+        "word": "大学生应聘保洁HR劝不要自暴自弃",
+        "onboard_time": 1676448872,
+        "rank": 8,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 629966,
+        "num": 629966,
+        "word": "张大大回应剧本",
+        "onboard_time": 1676454872,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605910,
+        "num": 605910,
+        "word": "叶舒华 那我的人生怎么办",
+        "onboard_time": 1676450014,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535330,
+        "num": 535330,
+        "word": "男子给女友转账140万分手想要回",
+        "onboard_time": 1676435438,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524442,
+        "num": 524442,
+        "word": "香港电视台及电台每周至少播半小时国安节目",
+        "onboard_time": 1676454092,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 520153,
+        "num": 520153,
+        "word": "男子订一束花送5个女生都被拒收",
+        "onboard_time": 1676445632,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489745,
+        "num": 489745,
+        "word": "王丽坤方声明",
+        "onboard_time": 1676449170,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484322,
+        "num": 484322,
+        "word": "陈钰琪演王鹤棣嫂子",
+        "onboard_time": 1676458412,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 482652,
+        "num": 482652,
+        "word": "大学生的毕业论文现状",
+        "onboard_time": 1676458053,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 439185,
+        "num": 439185,
+        "word": "徐冬冬问路人认不认识椰汁上的人",
+        "onboard_time": 1676454753,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434874,
+        "num": 434874,
+        "word": "男子公交猥亵女生初中生合力堵截",
+        "onboard_time": 1676449593,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423757,
+        "num": 423757,
+        "word": "专八",
+        "onboard_time": 1676457274,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 418866,
+        "num": 418866,
+        "word": "台湾歌手刘文正过世",
+        "onboard_time": 1676445030,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378686,
+        "num": 378686,
+        "word": "张大大 无忧传媒",
+        "onboard_time": 1676438910,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377422,
+        "num": 377422,
+        "word": "丁真第一次自驾就去西藏",
+        "onboard_time": 1676455954,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 786493,
+        "num": 357692,
+        "word": "陈飞宇工作室维权声明",
+        "onboard_time": 1676450131,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336860,
+        "num": 336860,
+        "word": "王者白起新皮肤",
+        "onboard_time": 1676454274,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 324240,
+        "num": 324240,
+        "word": "王鹤棣父亲油炸店无行政处罚记录",
+        "onboard_time": 1676436877,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 315592,
+        "num": 315592,
+        "word": "马斯克向往每周工作80小时",
+        "onboard_time": 1676455832,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 293176,
+        "num": 293176,
+        "word": "喝完碳酸饮料一定要用清水漱口",
+        "onboard_time": 1676458293,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289686,
+        "num": 289686,
+        "word": "重紫",
+        "onboard_time": 1676459613,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274356,
+        "num": 274356,
+        "word": "被跨省敲门当事人需要一个道歉",
+        "onboard_time": 1676455410,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268022,
+        "num": 268022,
+        "word": "中国半导体行业协会严正声明",
+        "onboard_time": 1676452952,
+        "rank": 30,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 256525,
+        "num": 256525,
+        "word": "中小学校内禁设超市小卖部",
+        "onboard_time": 1676446292,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 238019,
+        "num": 238019,
+        "word": "李菲儿后背线条",
+        "onboard_time": 1676444010,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235318,
+        "num": 235318,
+        "word": "BoysPlanet中国选手转手绢",
+        "onboard_time": 1676459672,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229950,
+        "num": 229950,
+        "word": "IU韩国芭莎3月封面",
+        "onboard_time": 1676457213,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 229493,
+        "num": 229493,
+        "word": "上半年偏财最旺的星座",
+        "onboard_time": 1676441429,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 227535,
+        "num": 227535,
+        "word": "黑暗森林",
+        "onboard_time": 1676452594,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223689,
+        "num": 223689,
+        "word": "宁至谦强吻阮流筝",
+        "onboard_time": 1676459251,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207323,
+        "num": 207323,
+        "word": "代餐文学",
+        "onboard_time": 1676459133,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 205277,
+        "num": 205277,
+        "word": "顺丰回应7万元爱马仕运输中烧毁",
+        "onboard_time": 1676440710,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 196299,
+        "num": 196299,
+        "word": "当故意不给小猫咪开门时",
+        "onboard_time": 1676450912,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 256442,
+        "num": 195150,
+        "word": "刘亚仁涉嫌逃兵役",
+        "onboard_time": 1676448332,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191577,
+        "num": 191577,
+        "word": "陕西发现战国时期冲水式厕所",
+        "onboard_time": 1676453790,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190972,
+        "num": 190972,
+        "word": "重紫全员晒学生证入学",
+        "onboard_time": 1676459370,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188458,
+        "num": 188458,
+        "word": "瞬间明白了美到窒息的感觉",
+        "onboard_time": 1676441909,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 187903,
+        "num": 187903,
+        "word": "香港大幅度下调英语节目比例",
+        "onboard_time": 1676459015,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160132,
+        "num": 160132,
+        "word": "虞书欣云之羽掀盖头路透",
+        "onboard_time": 1676458534,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156877,
+        "num": 156877,
+        "word": "赵露思工作室维权声明",
+        "onboard_time": 1676442993,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146512,
+        "num": 146512,
+        "word": "买房是必须的吗",
+        "onboard_time": 1676446050,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 138765,
+        "num": 138765,
+        "word": "女子万达买赫莲娜发现重量有差别",
+        "onboard_time": 1676444319,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}
