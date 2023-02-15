@@ -1,6 +1,6 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676453658755,
+  "endTime": 1676456468181,
   "band_list": [
     {
       "raw_hot": 3244607,
@@ -25,6 +25,14 @@
       "onboard_time": 1676450131,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2702969,
+      "num": 2702969,
+      "word": "上海人正在排队出国",
+      "onboard_time": 1676453432,
+      "rank": 45,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 2556142,
@@ -395,6 +403,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 743730,
+      "num": 743730,
+      "word": "唐山打人者陈继志名下公司注销",
+      "onboard_time": 1676455171,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734751,
       "num": 734751,
       "word": "超六成专科毕业生月薪低于5000",
@@ -459,6 +475,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 671357,
+      "num": 671357,
+      "word": "张大大回应剧本",
+      "onboard_time": 1676454872,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 654066,
+      "num": 654066,
+      "word": "徐冬冬问路人认不认识椰汁上的人",
+      "onboard_time": 1676454753,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 651499,
       "num": 651499,
       "word": "梅西",
@@ -489,6 +521,14 @@
       "onboard_time": 1676426248,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 613369,
+      "num": 613369,
+      "word": "黄多多执导舞台剧演出",
+      "onboard_time": 1676454814,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 605063,
@@ -579,12 +619,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 550989,
+      "num": 550989,
+      "word": "王鹤棣爸爸开新店叫棣兴餐饮",
+      "onboard_time": 1676455893,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 550040,
       "num": 550040,
       "word": "苏乞儿被拦车摔倒责任在谁",
       "onboard_time": 1676423851,
       "rank": 19,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 549799,
+      "num": 549799,
+      "word": "王者白起新皮肤",
+      "onboard_time": 1676454274,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 548837,
@@ -731,6 +787,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 443231,
+      "num": 443231,
+      "word": "香港电视台及电台每周至少播半小时国安节目",
+      "onboard_time": 1676454092,
+      "rank": 21,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 441401,
       "num": 441401,
       "word": "流浪地球2密钥延期",
@@ -753,6 +817,14 @@
       "onboard_time": 1676425649,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 431122,
+      "num": 431122,
+      "word": "丁真第一次自驾就去西藏",
+      "onboard_time": 1676455954,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 430047,
@@ -881,6 +953,14 @@
       "onboard_time": 1676431468,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 370430,
+      "num": 370430,
+      "word": "中国半导体行业协会严正声明",
+      "onboard_time": 1676452952,
+      "rank": 32,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 360736,
@@ -1299,14 +1379,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 222022,
-      "num": 222022,
-      "word": "中国半导体行业协会严正声明",
-      "onboard_time": 1676452952,
-      "rank": 32,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 220634,
       "num": 220634,
       "word": "严浩翔读粉丝评论视频",
@@ -1344,6 +1416,22 @@
       "word": "100岁的丈夫101岁的妻子",
       "onboard_time": 1676444731,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212662,
+      "num": 212662,
+      "word": "陕西发现战国时期冲水式厕所",
+      "onboard_time": 1676453790,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212200,
+      "num": 212200,
+      "word": "被跨省敲门当事人需要一个道歉",
+      "onboard_time": 1676455410,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1547,6 +1635,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 176832,
+      "num": 176832,
+      "word": "马斯克向往每周工作80小时",
+      "onboard_time": 1676455832,
+      "rank": 41,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 175437,
       "num": 175437,
       "word": "揭开北京二手房成交率提升的真相",
@@ -1663,6 +1759,14 @@
       "num": 159382,
       "word": "欧阳娜娜为重紫打call",
       "onboard_time": 1676438433,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 156200,
+      "num": 156200,
+      "word": "武林有侠气",
+      "onboard_time": 1676456254,
       "rank": 44,
       "category": "影视"
     },
@@ -1803,14 +1907,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 130507,
-      "num": 130507,
-      "word": "上海人正在排队出国",
-      "onboard_time": 1676453432,
-      "rank": 45,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 127290,
       "num": 127290,
       "word": "李秀满拒绝回答SMTOWN经营权问题",
@@ -1865,6 +1961,14 @@
       "onboard_time": 1676381077,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 92780,
+      "num": 179651,
+      "word": "社恐人下班怎么玩",
+      "onboard_time": 1676455232,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81566,
