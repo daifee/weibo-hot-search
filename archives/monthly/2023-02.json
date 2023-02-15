@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676459787995,
+  "endTime": 1676460842021,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -691,6 +691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2482262,
+      "num": 1201223,
+      "word": "谢娜瘦了20斤",
+      "onboard_time": 1676458231,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2478307,
       "num": 2478307,
       "word": "杜兰特加盟太阳",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1675304501,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2094404,
-      "num": 1113154,
-      "word": "谢娜瘦了20斤",
-      "onboard_time": 1676458231,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 2092383,
@@ -2985,6 +2985,14 @@
       "onboard_time": 1675922006,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1261902,
+      "num": 1261902,
+      "word": "papi酱说生孩子就像抽盲盒",
+      "onboard_time": 1676459790,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1259563,
@@ -6857,6 +6865,14 @@
       "onboard_time": 1675433612,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 770219,
+      "num": 770219,
+      "word": "大学生的毕业论文现状",
+      "onboard_time": 1676458053,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 769855,
@@ -12643,14 +12659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 482652,
-      "num": 482652,
-      "word": "大学生的毕业论文现状",
-      "onboard_time": 1676458053,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 481985,
       "num": 395200,
       "word": "罗云熙粉丝给白鹿手写道歉信",
@@ -14545,6 +14553,14 @@
       "onboard_time": 1675150696,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415242,
+      "num": 415242,
+      "word": "宁至谦强吻阮流筝",
+      "onboard_time": 1676459251,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 415112,
@@ -16899,6 +16915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355375,
+      "num": 355375,
+      "word": "香港大幅度下调英语节目比例",
+      "onboard_time": 1676459015,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355297,
       "num": 355297,
       "word": "黄明昊不会唱大梦想家",
@@ -17409,6 +17433,14 @@
       "onboard_time": 1676169087,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 343958,
+      "num": 343958,
+      "word": "喝完碳酸饮料一定要用清水漱口",
+      "onboard_time": 1676458293,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343797,
@@ -18291,6 +18323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324917,
+      "num": 324917,
+      "word": "BoysPlanet中国选手转手绢",
+      "onboard_time": 1676459672,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324912,
       "num": 324912,
       "word": "龚俊钟楚曦我要逆风去最新剧照",
@@ -18483,6 +18523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 320917,
+      "num": 320917,
+      "word": "代餐文学",
+      "onboard_time": 1676459133,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 320530,
       "num": 320530,
       "word": "黄晓明说同事之间出现矛盾要好好沟通",
@@ -18497,6 +18545,14 @@
       "onboard_time": 1675400852,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 320135,
+      "num": 320135,
+      "word": "马斯克向往每周工作80小时",
+      "onboard_time": 1676455832,
+      "rank": 41,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 320091,
@@ -18721,14 +18777,6 @@
       "onboard_time": 1676275482,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 315592,
-      "num": 315592,
-      "word": "马斯克向往每周工作80小时",
-      "onboard_time": 1676455832,
-      "rank": 41,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 315410,
@@ -19969,14 +20017,6 @@
       "onboard_time": 1676245343,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293176,
-      "num": 293176,
-      "word": "喝完碳酸饮料一定要用清水漱口",
-      "onboard_time": 1676458293,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293153,
@@ -23659,14 +23699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 235318,
-      "num": 235318,
-      "word": "BoysPlanet中国选手转手绢",
-      "onboard_time": 1676459672,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235025,
       "num": 235025,
       "word": "龚俊檀健次的伞",
@@ -24531,14 +24563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 223689,
-      "num": 223689,
-      "word": "宁至谦强吻阮流筝",
-      "onboard_time": 1676459251,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 223676,
       "num": 223676,
       "word": "李小冉发刘淑霞与chatGPT对话",
@@ -25251,6 +25275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212738,
+      "num": 212738,
+      "word": "杨超越新剧一出场就好惨",
+      "onboard_time": 1676460152,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212662,
       "num": 212662,
       "word": "陕西发现战国时期冲水式厕所",
@@ -25601,14 +25633,6 @@
       "onboard_time": 1675323510,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207323,
-      "num": 207323,
-      "word": "代餐文学",
-      "onboard_time": 1676459133,
-      "rank": 38,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 207296,
@@ -27449,14 +27473,6 @@
       "onboard_time": 1675875020,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187903,
-      "num": 187903,
-      "word": "香港大幅度下调英语节目比例",
-      "onboard_time": 1676459015,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187872,
@@ -30955,6 +30971,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 151694,
+      "num": 143280,
+      "word": "重紫洛音凡初遇",
+      "onboard_time": 1676460333,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151626,
       "num": 151626,
       "word": "赵梦跳伞时喊郑秀妍的名字",
@@ -31568,6 +31592,14 @@
       "word": "被困138小时获救老人亲吻救援人员的手",
       "onboard_time": 1676170106,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141103,
+      "num": 141103,
+      "word": "茶百道回应员工把环卫工打住院",
+      "onboard_time": 1676460691,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
