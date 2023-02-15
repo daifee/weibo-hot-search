@@ -1,0 +1,410 @@
+{
+  "runTime": 1676450366349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2359263,
+        "num": 2359263,
+        "word": "王丽坤方声明",
+        "onboard_time": 1676449170,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2192117,
+        "num": 2192117,
+        "word": "员工发现老板娘偷看微信火速离职",
+        "onboard_time": 1676447134,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81566,
+        "num": 1878515,
+        "word": "抓紧抓好粮食和重要农产品稳产保供",
+        "onboard_time": 1676447070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1616279,
+        "num": 1616279,
+        "word": "刘亚仁涉嫌逃兵役",
+        "onboard_time": 1676448332,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1481935,
+        "num": 1481935,
+        "word": "中小学校内禁设超市小卖部",
+        "onboard_time": 1676446292,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 997310,
+        "num": 997310,
+        "word": "王鹤棣父亲油炸店无行政处罚记录",
+        "onboard_time": 1676436877,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 936916,
+        "num": 936916,
+        "word": "大学生应聘保洁HR劝不要自暴自弃",
+        "onboard_time": 1676448872,
+        "rank": 6,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 930791,
+        "num": 930791,
+        "word": "台湾歌手刘文正过世",
+        "onboard_time": 1676445030,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661235,
+        "num": 661235,
+        "word": "我国已成为世界上犯罪率最低的国家之一",
+        "onboard_time": 1676443468,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643769,
+        "num": 643769,
+        "word": "女子万达买赫莲娜发现重量有差别",
+        "onboard_time": 1676444319,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1429108,
+        "num": 632054,
+        "word": "男子订一束花送5个女生都被拒收",
+        "onboard_time": 1676445632,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841451,
+        "num": 623397,
+        "word": "男子给女友转账140万分手想要回",
+        "onboard_time": 1676435438,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599820,
+        "num": 599820,
+        "word": "陈飞宇工作室维权声明",
+        "onboard_time": 1676450131,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477886,
+        "num": 477886,
+        "word": "上半年偏财最旺的星座",
+        "onboard_time": 1676441429,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 477391,
+        "num": 477391,
+        "word": "叶舒华 那我的人生怎么办",
+        "onboard_time": 1676450014,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471222,
+        "num": 471222,
+        "word": "顺丰回应7万元爱马仕运输中烧毁",
+        "onboard_time": 1676440710,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 451725,
+        "num": 451725,
+        "word": "买房是必须的吗",
+        "onboard_time": 1676446050,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 448740,
+        "num": 448740,
+        "word": "赵露思工作室维权声明",
+        "onboard_time": 1676442993,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406911,
+        "num": 406911,
+        "word": "张大大 无忧传媒",
+        "onboard_time": 1676438910,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398474,
+        "num": 398474,
+        "word": "瞬间明白了美到窒息的感觉",
+        "onboard_time": 1676441909,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1501547,
+        "num": 397491,
+        "word": "李菲儿",
+        "onboard_time": 1676444791,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393976,
+        "num": 393976,
+        "word": "兰花草",
+        "onboard_time": 1676446967,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386408,
+        "num": 386408,
+        "word": "王鹤棣吃炸串吃到蓝羽上手阻拦",
+        "onboard_time": 1676438734,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333148,
+        "num": 333148,
+        "word": "男子公交猥亵女生初中生合力堵截",
+        "onboard_time": 1676449593,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286879,
+        "num": 286879,
+        "word": "中方将对有关美国实体采取反制措施",
+        "onboard_time": 1676447853,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 286634,
+        "num": 286634,
+        "word": "陆虎说陈楚生是自己的幸福模板",
+        "onboard_time": 1676448811,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277791,
+        "num": 277791,
+        "word": "李菲儿后背线条",
+        "onboard_time": 1676444010,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277548,
+        "num": 277548,
+        "word": "男子酒后狂飙打110找安欣",
+        "onboard_time": 1676438552,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266804,
+        "num": 266804,
+        "word": "张大大直播 剧本",
+        "onboard_time": 1676425289,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231882,
+        "num": 231882,
+        "word": "陈赫 没点交情这节目真录不下来",
+        "onboard_time": 1676434837,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228570,
+        "num": 228570,
+        "word": "年纪轻轻就长白头发是咋回事",
+        "onboard_time": 1676447731,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218633,
+        "num": 218633,
+        "word": "韩东君陈瑶无心法师cp再合体",
+        "onboard_time": 1676449653,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202209,
+        "num": 202209,
+        "word": "台湾省地图应绘出钓鱼岛和赤尾屿",
+        "onboard_time": 1676438255,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 189008,
+        "num": 189008,
+        "word": "T1教练Sky转为中单",
+        "onboard_time": 1676442931,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186434,
+        "num": 186434,
+        "word": "玫瑰刺又多 花期又短 还容易枯萎",
+        "onboard_time": 1676435076,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183636,
+        "num": 183636,
+        "word": "剧组虐猫事件造谣者被判刑",
+        "onboard_time": 1676439871,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183086,
+        "num": 183086,
+        "word": "女子情人节收到1千克黄金爱心",
+        "onboard_time": 1676449955,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179222,
+        "num": 179222,
+        "word": "肖战白衬衫花絮照九宫格",
+        "onboard_time": 1676440050,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178797,
+        "num": 178797,
+        "word": "邓超 全世界最好的俪",
+        "onboard_time": 1676441070,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168890,
+        "num": 168890,
+        "word": "男子因同名误留刑拘记录6年",
+        "onboard_time": 1676444671,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166298,
+        "num": 166298,
+        "word": "五问医保个人账户改革",
+        "onboard_time": 1676443110,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 159556,
+        "num": 159556,
+        "word": "足协回应陈戌源被查",
+        "onboard_time": 1676446894,
+        "rank": 41,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 150568,
+        "num": 150568,
+        "word": "原来水墨江山真的存在",
+        "onboard_time": 1676445812,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 146406,
+        "num": 146406,
+        "word": "为何张大大直播间突然爆火",
+        "onboard_time": 1676442809,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143065,
+        "num": 143065,
+        "word": "女子1米65起跳5次才能刷脸成功",
+        "onboard_time": 1676432071,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133536,
+        "num": 133536,
+        "word": "五年来起诉黑恶势力保护伞3600余人",
+        "onboard_time": 1676448692,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 129481,
+        "num": 129481,
+        "word": "面试一趟有多难",
+        "onboard_time": 1676436818,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125008,
+        "num": 125008,
+        "word": "马斯克提高自己推文优先级1000倍",
+        "onboard_time": 1676444189,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 117014,
+        "num": 117014,
+        "word": "罗崇敏被取消退休待遇",
+        "onboard_time": 1676443412,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116149,
+        "num": 116149,
+        "word": "成都有银行房贷可还到90岁",
+        "onboard_time": 1676450312,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的文化情缘#"
+    }
+  }
+}

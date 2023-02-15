@@ -1,6 +1,6 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676449502768,
+  "endTime": 1676450366349,
   "band_list": [
     {
       "raw_hot": 3244607,
@@ -27,12 +27,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2359263,
+      "num": 2359263,
+      "word": "王丽坤方声明",
+      "onboard_time": 1676449170,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2312369,
       "num": 2135706,
       "word": "都美竹 一个人穿婚纱也很浪漫",
       "onboard_time": 1676423373,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2192117,
+      "num": 2192117,
+      "word": "员工发现老板娘偷看微信火速离职",
+      "onboard_time": 1676447134,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2106872,
@@ -49,14 +65,6 @@
       "onboard_time": 1676431229,
       "rank": 44,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 2088789,
-      "num": 2088789,
-      "word": "员工发现老板娘偷看微信火速离职",
-      "onboard_time": 1676447134,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1747103,
@@ -83,8 +91,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1616279,
+      "num": 1616279,
+      "word": "刘亚仁涉嫌逃兵役",
+      "onboard_time": 1676448332,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1525915,
-      "num": 548380,
+      "num": 632054,
       "word": "男子订一束花送5个女生都被拒收",
       "onboard_time": 1676445632,
       "rank": 14,
@@ -115,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1445184,
-      "num": 1445184,
-      "word": "刘亚仁涉嫌逃兵役",
-      "onboard_time": 1676448332,
-      "rank": 1,
-      "category": "艺人"
+      "raw_hot": 1481935,
+      "num": 1481935,
+      "word": "中小学校内禁设超市小卖部",
+      "onboard_time": 1676446292,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1362544,
@@ -145,14 +161,6 @@
       "onboard_time": 1676378317,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1216422,
-      "num": 1216422,
-      "word": "中小学校内禁设超市小卖部",
-      "onboard_time": 1676446292,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1203786,
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 936916,
+      "num": 936916,
+      "word": "大学生应聘保洁HR劝不要自暴自弃",
+      "onboard_time": 1676448872,
+      "rank": 20,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 922717,
       "num": 922717,
       "word": "00后女孩退房后屋里遍地是垃圾",
@@ -281,14 +297,6 @@
       "onboard_time": 1676438734,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 848574,
-      "num": 848574,
-      "word": "王丽坤方声明",
-      "onboard_time": 1676449170,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 838058,
@@ -457,6 +465,14 @@
       "onboard_time": 1676396178,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599820,
+      "num": 599820,
+      "word": "陈飞宇工作室维权声明",
+      "onboard_time": 1676450131,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 590366,
@@ -649,6 +665,14 @@
       "onboard_time": 1676387317,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 477391,
+      "num": 477391,
+      "word": "叶舒华 那我的人生怎么办",
+      "onboard_time": 1676450014,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 464021,
@@ -875,20 +899,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 333148,
+      "num": 333148,
+      "word": "男子公交猥亵女生初中生合力堵截",
+      "onboard_time": 1676449593,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332206,
       "num": 332206,
       "word": "宋妍霏凌晨五点起床直播",
       "onboard_time": 1676427928,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 331387,
-      "num": 331387,
-      "word": "大学生应聘保洁HR劝不要自暴自弃",
-      "onboard_time": 1676448872,
-      "rank": 20,
-      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 328714,
@@ -1019,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286634,
+      "num": 286634,
+      "word": "陆虎说陈楚生是自己的幸福模板",
+      "onboard_time": 1676448811,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281944,
       "num": 281944,
       "word": "男子疑因小区乱停车情绪崩溃",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1676444671,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268251,
-      "num": 268251,
-      "word": "陆虎说陈楚生是自己的幸福模板",
-      "onboard_time": 1676448811,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 255984,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1676424510,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218633,
+      "num": 218633,
+      "word": "韩东君陈瑶无心法师cp再合体",
+      "onboard_time": 1676449653,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 217333,
@@ -1417,6 +1449,14 @@
       "onboard_time": 1676371114,
       "rank": 37,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 183086,
+      "num": 183086,
+      "word": "女子情人节收到1千克黄金爱心",
+      "onboard_time": 1676449955,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182643,
@@ -1675,8 +1715,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131750,
-      "num": 131750,
+      "raw_hot": 133536,
+      "num": 133536,
       "word": "五年来起诉黑恶势力保护伞3600余人",
       "onboard_time": 1676448692,
       "rank": 46,
@@ -1689,6 +1729,14 @@
       "onboard_time": 1676387916,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116149,
+      "num": 116149,
+      "word": "成都有银行房贷可还到90岁",
+      "onboard_time": 1676450312,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 105337,
@@ -1723,20 +1771,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 81566,
+      "num": 1878515,
+      "word": "抓紧抓好粮食和重要农产品稳产保供",
+      "onboard_time": 1676447070,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80966,
       "num": 80966,
       "word": "情人节偶遇黄子韬徐艺洋",
       "onboard_time": 1676375734,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68980,
-      "num": 1278236,
-      "word": "抓紧抓好粮食和重要农产品稳产保供",
-      "onboard_time": 1676447070,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66478,
