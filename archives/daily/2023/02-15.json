@@ -1,6 +1,6 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676460842021,
+  "endTime": 1676464671029,
   "band_list": [
     {
       "raw_hot": 3244607,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1613173,
+      "num": 1613173,
+      "word": "papi酱说生孩子就像抽盲盒",
+      "onboard_time": 1676459790,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1548540,
       "num": 1548540,
       "word": "叶舒华 那我的人生怎么办",
@@ -179,6 +187,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 1380062,
+      "num": 1380062,
+      "word": "徐正溪问谁的孩子",
+      "onboard_time": 1676462909,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1362544,
       "num": 845898,
       "word": "男子给女友转账140万分手想要回",
@@ -201,14 +217,6 @@
       "onboard_time": 1676378317,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1261902,
-      "num": 1261902,
-      "word": "papi酱说生孩子就像抽盲盒",
-      "onboard_time": 1676459790,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1259563,
@@ -379,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 896945,
+      "num": 488542,
+      "word": "男子借朋友12万借条1小时后变白纸",
+      "onboard_time": 1676463691,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 838058,
       "num": 838058,
       "word": "女生情人节垃圾桶捡到积木城堡",
@@ -504,6 +520,14 @@
       "word": "男子酒后狂飙打110找安欣",
       "onboard_time": 1676438552,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 680775,
+      "num": 680775,
+      "word": "茶百道回应员工把环卫工打住院",
+      "onboard_time": 1676460691,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -819,6 +843,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471875,
+      "num": 471875,
+      "word": "张杰将首次登上话剧舞台",
+      "onboard_time": 1676464050,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 467628,
+      "num": 467628,
+      "word": "香港大幅度下调英语节目比例",
+      "onboard_time": 1676459015,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464021,
       "num": 464021,
       "word": "买房是必须的吗",
@@ -995,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376184,
+      "num": 376184,
+      "word": "喝完碳酸饮料一定要用清水漱口",
+      "onboard_time": 1676458293,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375593,
       "num": 375593,
       "word": "当故意不给小猫咪开门时",
@@ -1035,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355375,
-      "num": 355375,
-      "word": "香港大幅度下调英语节目比例",
-      "onboard_time": 1676459015,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346998,
       "num": 346998,
       "word": "巴黎圣日耳曼vs拜仁慕尼黑",
@@ -1057,14 +1097,6 @@
       "onboard_time": 1676436818,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 343958,
-      "num": 343958,
-      "word": "喝完碳酸饮料一定要用清水漱口",
-      "onboard_time": 1676458293,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340700,
@@ -1347,11 +1379,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273226,
+      "num": 273226,
+      "word": "杨超越新剧一出场就好惨",
+      "onboard_time": 1676460152,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271075,
       "num": 271075,
       "word": "年纪轻轻就长白头发是咋回事",
       "onboard_time": 1676447731,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270388,
+      "num": 270388,
+      "word": "妇联回应16岁男孩独自照顾2妹妹",
+      "onboard_time": 1676464111,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246620,
+      "num": 246620,
+      "word": "你的crush是谁",
+      "onboard_time": 1676462250,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245576,
       "num": 245576,
       "word": "小伙苦练10年还原六小龄童版孙悟空",
@@ -1401,6 +1457,14 @@
       "onboard_time": 1676418988,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244403,
+      "num": 244403,
+      "word": "重紫特效",
+      "onboard_time": 1676463032,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 243398,
@@ -1441,6 +1505,14 @@
       "onboard_time": 1676392705,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233670,
+      "num": 233670,
+      "word": "专四",
+      "onboard_time": 1676462732,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 232875,
@@ -1521,14 +1593,6 @@
       "onboard_time": 1676444731,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212738,
-      "num": 212738,
-      "word": "杨超越新剧一出场就好惨",
-      "onboard_time": 1676460152,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 212662,
@@ -1819,12 +1883,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166548,
+      "num": 166548,
+      "word": "叶圣陶杯华人青少年作文大赛是违规竞赛",
+      "onboard_time": 1676461356,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 165978,
       "num": 140431,
       "word": "女老师情人节找消防男友一起改试卷",
       "onboard_time": 1676391329,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 165625,
+      "num": 165625,
+      "word": "JDG对战EDG",
+      "onboard_time": 1676463452,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 164219,
@@ -1971,14 +2051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141103,
-      "num": 141103,
-      "word": "茶百道回应员工把环卫工打住院",
-      "onboard_time": 1676460691,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140835,
       "num": 140835,
       "word": "三体",
@@ -2073,6 +2145,14 @@
       "onboard_time": 1676451632,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117616,
+      "num": 117616,
+      "word": "外企面试到底有多奇葩",
+      "onboard_time": 1676464651,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 109586,

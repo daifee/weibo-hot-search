@@ -1,0 +1,410 @@
+{
+  "runTime": 1676464671029,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1613173,
+        "num": 1613173,
+        "word": "papi酱说生孩子就像抽盲盒",
+        "onboard_time": 1676459790,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1380062,
+        "num": 1380062,
+        "word": "徐正溪问谁的孩子",
+        "onboard_time": 1676462909,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35352,
+        "num": 1263826,
+        "word": "抓紧抓好粮食和重要农产品稳产保供",
+        "onboard_time": 1676447070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1238768,
+        "num": 1238768,
+        "word": "上海人正在排队出国",
+        "onboard_time": 1676453432,
+        "rank": 3,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 914674,
+        "num": 914674,
+        "word": "员工发现老板娘偷看微信火速离职",
+        "onboard_time": 1676447134,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697784,
+        "num": 697784,
+        "word": "大学生的毕业论文现状",
+        "onboard_time": 1676458053,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 680775,
+        "num": 680775,
+        "word": "茶百道回应员工把环卫工打住院",
+        "onboard_time": 1676460691,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657570,
+        "num": 657570,
+        "word": "黄多多执导舞台剧演出",
+        "onboard_time": 1676454814,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564941,
+        "num": 564941,
+        "word": "女子情人节收到1千克黄金爱心",
+        "onboard_time": 1676449955,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489388,
+        "num": 489388,
+        "word": "唐山打人者陈继志名下公司注销",
+        "onboard_time": 1676455171,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896945,
+        "num": 488542,
+        "word": "男子借朋友12万借条1小时后变白纸",
+        "onboard_time": 1676463691,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480406,
+        "num": 480406,
+        "word": "张大大回应剧本",
+        "onboard_time": 1676454872,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471875,
+        "num": 471875,
+        "word": "张杰将首次登上话剧舞台",
+        "onboard_time": 1676464050,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467628,
+        "num": 467628,
+        "word": "香港大幅度下调英语节目比例",
+        "onboard_time": 1676459015,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411239,
+        "num": 411239,
+        "word": "宁至谦强吻阮流筝",
+        "onboard_time": 1676459251,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399861,
+        "num": 399861,
+        "word": "男子公交猥亵女生初中生合力堵截",
+        "onboard_time": 1676449593,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383669,
+        "num": 383669,
+        "word": "重紫",
+        "onboard_time": 1676459613,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376184,
+        "num": 376184,
+        "word": "喝完碳酸饮料一定要用清水漱口",
+        "onboard_time": 1676458293,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369332,
+        "num": 369332,
+        "word": "台湾歌手刘文正过世",
+        "onboard_time": 1676445030,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354627,
+        "num": 354627,
+        "word": "叶舒华 那我的人生怎么办",
+        "onboard_time": 1676450014,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303864,
+        "num": 303864,
+        "word": "代餐文学",
+        "onboard_time": 1676459133,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 295663,
+        "num": 295663,
+        "word": "大学生应聘保洁HR劝不要自暴自弃",
+        "onboard_time": 1676448872,
+        "rank": 21,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 273226,
+        "num": 273226,
+        "word": "杨超越新剧一出场就好惨",
+        "onboard_time": 1676460152,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270388,
+        "num": 270388,
+        "word": "妇联回应16岁男孩独自照顾2妹妹",
+        "onboard_time": 1676464111,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269562,
+        "num": 269562,
+        "word": "男子订一束花送5个女生都被拒收",
+        "onboard_time": 1676445632,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515951,
+        "num": 264510,
+        "word": "王鹤棣爸爸开新店叫棣兴餐饮",
+        "onboard_time": 1676455893,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246620,
+        "num": 246620,
+        "word": "你的crush是谁",
+        "onboard_time": 1676462250,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1850550,
+        "num": 246529,
+        "word": "谢娜瘦了20斤",
+        "onboard_time": 1676458231,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263162,
+        "num": 246130,
+        "word": "陈钰琪演王鹤棣嫂子",
+        "onboard_time": 1676458412,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245381,
+        "num": 245381,
+        "word": "张大大 无忧传媒",
+        "onboard_time": 1676438910,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244403,
+        "num": 244403,
+        "word": "重紫特效",
+        "onboard_time": 1676463032,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233670,
+        "num": 233670,
+        "word": "专四",
+        "onboard_time": 1676462732,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199680,
+        "num": 199680,
+        "word": "香港电视台及电台每周至少播半小时国安节目",
+        "onboard_time": 1676454092,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 198486,
+        "num": 198486,
+        "word": "男子给女友转账140万分手想要回",
+        "onboard_time": 1676435438,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193854,
+        "num": 193854,
+        "word": "BoysPlanet中国选手转手绢",
+        "onboard_time": 1676459672,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184068,
+        "num": 184068,
+        "word": "丁真第一次自驾就去西藏",
+        "onboard_time": 1676455954,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178663,
+        "num": 178663,
+        "word": "中小学校内禁设超市小卖部",
+        "onboard_time": 1676446292,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 282212,
+        "num": 176945,
+        "word": "王丽坤方声明",
+        "onboard_time": 1676449170,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171585,
+        "num": 171585,
+        "word": "IU韩国芭莎3月封面",
+        "onboard_time": 1676457213,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166548,
+        "num": 166548,
+        "word": "叶圣陶杯华人青少年作文大赛是违规竞赛",
+        "onboard_time": 1676461356,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 165625,
+        "num": 165625,
+        "word": "JDG对战EDG",
+        "onboard_time": 1676463452,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165561,
+        "num": 165561,
+        "word": "马斯克向往每周工作80小时",
+        "onboard_time": 1676455832,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 161324,
+        "num": 161324,
+        "word": "专八",
+        "onboard_time": 1676457274,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158858,
+        "num": 158858,
+        "word": "中国半导体行业协会严正声明",
+        "onboard_time": 1676452952,
+        "rank": 43,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 156799,
+        "num": 156799,
+        "word": "当故意不给小猫咪开门时",
+        "onboard_time": 1676450912,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 147931,
+        "num": 147931,
+        "word": "王者白起新皮肤",
+        "onboard_time": 1676454274,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137481,
+        "num": 137481,
+        "word": "瞬间明白了美到窒息的感觉",
+        "onboard_time": 1676441909,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 118808,
+        "num": 118808,
+        "word": "上半年偏财最旺的星座",
+        "onboard_time": 1676441429,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 170028,
+        "num": 118723,
+        "word": "徐冬冬问路人认不认识椰汁上的人",
+        "onboard_time": 1676454753,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117616,
+        "num": 117616,
+        "word": "外企面试到底有多奇葩",
+        "onboard_time": 1676464651,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#时间属于奋进者历史属于奋进者#"
+    }
+  }
+}

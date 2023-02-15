@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676460842021,
+  "endTime": 1676464671029,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1995,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1613173,
+      "num": 1613173,
+      "word": "papi酱说生孩子就像抽盲盒",
+      "onboard_time": 1676459790,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1605248,
       "num": 1605248,
       "word": "专家提醒每人一生只能捐精一次",
@@ -2571,6 +2579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1380062,
+      "num": 1380062,
+      "word": "徐正溪问谁的孩子",
+      "onboard_time": 1676462909,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1375744,
       "num": 1375744,
       "word": "段奥娟瘦了好多",
@@ -2985,14 +3001,6 @@
       "onboard_time": 1675922006,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1261902,
-      "num": 1261902,
-      "word": "papi酱说生孩子就像抽盲盒",
-      "onboard_time": 1676459790,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1259563,
@@ -5497,6 +5505,14 @@
       "onboard_time": 1675926091,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 896945,
+      "num": 488542,
+      "word": "男子借朋友12万借条1小时后变白纸",
+      "onboard_time": 1676463691,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 896838,
@@ -8337,6 +8353,14 @@
       "onboard_time": 1675856253,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 680775,
+      "num": 680775,
+      "word": "茶百道回应员工把环卫工打住院",
+      "onboard_time": 1676460691,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 680501,
@@ -12907,6 +12931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 471875,
+      "num": 471875,
+      "word": "张杰将首次登上话剧舞台",
+      "onboard_time": 1676464050,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 471865,
       "num": 289147,
       "word": "王子文说爱情不是争取就能有的",
@@ -12993,6 +13025,14 @@
       "onboard_time": 1675584748,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 467628,
+      "num": 467628,
+      "word": "香港大幅度下调英语节目比例",
+      "onboard_time": 1676459015,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467547,
@@ -16123,6 +16163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376184,
+      "num": 376184,
+      "word": "喝完碳酸饮料一定要用清水漱口",
+      "onboard_time": 1676458293,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376116,
       "num": 376116,
       "word": "张哲华进组她的小梨涡",
@@ -16915,14 +16963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 355375,
-      "num": 355375,
-      "word": "香港大幅度下调英语节目比例",
-      "onboard_time": 1676459015,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355297,
       "num": 355297,
       "word": "黄明昊不会唱大梦想家",
@@ -17433,14 +17473,6 @@
       "onboard_time": 1676169087,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 343958,
-      "num": 343958,
-      "word": "喝完碳酸饮料一定要用清水漱口",
-      "onboard_time": 1676458293,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 343797,
@@ -21355,6 +21387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273226,
+      "num": 273226,
+      "word": "杨超越新剧一出场就好惨",
+      "onboard_time": 1676460152,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273185,
       "num": 273185,
       "word": "去西安知道吃什么了",
@@ -21529,6 +21569,14 @@
       "onboard_time": 1676298521,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 270388,
+      "num": 270388,
+      "word": "妇联回应16岁男孩独自照顾2妹妹",
+      "onboard_time": 1676464111,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270354,
@@ -22987,6 +23035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246620,
+      "num": 246620,
+      "word": "你的crush是谁",
+      "onboard_time": 1676462250,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246538,
       "num": 246538,
       "word": "阴阳师",
@@ -23137,6 +23193,14 @@
       "onboard_time": 1676195853,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244403,
+      "num": 244403,
+      "word": "重紫特效",
+      "onboard_time": 1676463032,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 244375,
@@ -23809,6 +23873,14 @@
       "onboard_time": 1676339611,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233670,
+      "num": 233670,
+      "word": "专四",
+      "onboard_time": 1676462732,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 233660,
@@ -25272,14 +25344,6 @@
       "word": "我们的日子",
       "onboard_time": 1675689633,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 212738,
-      "num": 212738,
-      "word": "杨超越新剧一出场就好惨",
-      "onboard_time": 1676460152,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -29747,6 +29811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166548,
+      "num": 166548,
+      "word": "叶圣陶杯华人青少年作文大赛是违规竞赛",
+      "onboard_time": 1676461356,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 166540,
       "num": 166540,
       "word": "显微镜下的大明今晚开播",
@@ -29873,6 +29945,14 @@
       "onboard_time": 1675425329,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165625,
+      "num": 165625,
+      "word": "JDG对战EDG",
+      "onboard_time": 1676463452,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 165556,
@@ -31595,14 +31675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141103,
-      "num": 141103,
-      "word": "茶百道回应员工把环卫工打住院",
-      "onboard_time": 1676460691,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141021,
       "num": 141021,
       "word": "异丙酚多用于韩国整形医院",
@@ -32785,6 +32857,14 @@
       "onboard_time": 1675830213,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117616,
+      "num": 117616,
+      "word": "外企面试到底有多奇葩",
+      "onboard_time": 1676464651,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 117098,
