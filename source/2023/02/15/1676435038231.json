@@ -1,0 +1,410 @@
+{
+  "runTime": 1676435038231,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2389169,
+        "num": 2389169,
+        "word": "张大大直播 剧本",
+        "onboard_time": 1676425289,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2011591,
+        "num": 2011591,
+        "word": "提前还贷20万或将节省利息17万",
+        "onboard_time": 1676431229,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 104511,
+        "num": 1257156,
+        "word": "中国春耕图鉴",
+        "onboard_time": 1676430749,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957420,
+        "num": 957420,
+        "word": "邓超问节目组多打四个哈是会累到你吗",
+        "onboard_time": 1676431291,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 829463,
+        "num": 829463,
+        "word": "月入5000能不能击败95%的人",
+        "onboard_time": 1676433513,
+        "rank": 4,
+        "category": "社会议题,财经"
+      },
+      {
+        "raw_hot": 796221,
+        "num": 796221,
+        "word": "蔚来回应试驾致母子一死一伤",
+        "onboard_time": 1676427151,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684198,
+        "num": 684198,
+        "word": "女子1米65起跳5次才能刷脸成功",
+        "onboard_time": 1676432071,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600281,
+        "num": 600281,
+        "word": "专家建议向大中专毕业生发现金补助",
+        "onboard_time": 1676432731,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 589428,
+        "num": 589428,
+        "word": "肖战杨紫余生请多指教日本UNEXT播出",
+        "onboard_time": 1676432435,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 583821,
+        "num": 583821,
+        "word": "鹿晗被老虎吓到",
+        "onboard_time": 1676430689,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1559664,
+        "num": 558800,
+        "word": "12岁脑瘫女孩被同岁亲戚性侵",
+        "onboard_time": 1676426730,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654383,
+        "num": 544332,
+        "word": "女子半夜骑车为老公买炒饭摔成两个人",
+        "onboard_time": 1676430390,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520811,
+        "num": 520811,
+        "word": "弟弟被姐姐揍不敢还手踢空调出气",
+        "onboard_time": 1676431589,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504051,
+        "num": 504051,
+        "word": "00后男生长期可乐当水喝牙全坏",
+        "onboard_time": 1676429190,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494905,
+        "num": 494905,
+        "word": "杨超越邓为吻戏镜头",
+        "onboard_time": 1676432792,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474772,
+        "num": 474772,
+        "word": "HYBE或将收购失败",
+        "onboard_time": 1676430930,
+        "rank": 15,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 467023,
+        "num": 467023,
+        "word": "iPhone15Pro或带来全新金色",
+        "onboard_time": 1676424210,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 461718,
+        "num": 461718,
+        "word": "网友称乐山油炸串串不健康建议取缔",
+        "onboard_time": 1676423132,
+        "rank": 17,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 433754,
+        "num": 433754,
+        "word": "唐嫣黑粉登报道歉",
+        "onboard_time": 1676434360,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411819,
+        "num": 411819,
+        "word": "Rookie情人节去医院拔鱼刺",
+        "onboard_time": 1676431952,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 386224,
+        "num": 386224,
+        "word": "对话毕业5年存款5千女生",
+        "onboard_time": 1676434360,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379279,
+        "num": 379279,
+        "word": "00后女孩退房后屋里遍地是垃圾",
+        "onboard_time": 1676428648,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 351269,
+        "num": 351269,
+        "word": "河南一学院将升级为大学",
+        "onboard_time": 1676424092,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 341271,
+        "num": 341271,
+        "word": "三体 你们是虫子",
+        "onboard_time": 1676429009,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304055,
+        "num": 304055,
+        "word": "201岁的姐弟恋有多甜",
+        "onboard_time": 1676422592,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 284933,
+        "num": 284933,
+        "word": "央媒称中国足球要刮骨疗毒",
+        "onboard_time": 1676434173,
+        "rank": 25,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 279776,
+        "num": 279776,
+        "word": "流浪地球2密钥延期",
+        "onboard_time": 1676427208,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279708,
+        "num": 279708,
+        "word": "满江红映期延长至3月24日",
+        "onboard_time": 1676432612,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269541,
+        "num": 269541,
+        "word": "白头发会不会越拔越多",
+        "onboard_time": 1676431409,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261760,
+        "num": 261760,
+        "word": "荷兰弟确认参演蜘蛛侠4",
+        "onboard_time": 1676431712,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462246,
+        "num": 260193,
+        "word": "陈赫 没点交情这节目真录不下来",
+        "onboard_time": 1676434837,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257986,
+        "num": 257986,
+        "word": "张颂文给苏小玎设计摔杯子动作",
+        "onboard_time": 1676426248,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255984,
+        "num": 255984,
+        "word": "被一万四千公里的求婚整破防了",
+        "onboard_time": 1676433153,
+        "rank": 32,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 251896,
+        "num": 251896,
+        "word": "俄亥俄有毒气体泄漏会影响多大范围",
+        "onboard_time": 1676424992,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232027,
+        "num": 232027,
+        "word": "梅西",
+        "onboard_time": 1676422951,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222123,
+        "num": 222123,
+        "word": "蚁人3口碑",
+        "onboard_time": 1676425649,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212339,
+        "num": 212339,
+        "word": "宋妍霏凌晨五点起床直播",
+        "onboard_time": 1676427928,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209266,
+        "num": 209266,
+        "word": "LadyGaga小丑2剧照",
+        "onboard_time": 1676431291,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206876,
+        "num": 206876,
+        "word": "深圳夫妻带10岁孤独症儿子跑单6年",
+        "onboard_time": 1676427029,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202209,
+        "num": 202209,
+        "word": "中国空间站又要来新人啦",
+        "onboard_time": 1676432674,
+        "rank": 39,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 197931,
+        "num": 197931,
+        "word": "重病母亲回应儿子向舅舅借学费",
+        "onboard_time": 1676434173,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 194982,
+        "num": 194982,
+        "word": "马嘉祺帮刘耀文换救生衣路透",
+        "onboard_time": 1676426908,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190016,
+        "num": 190016,
+        "word": "刘诗诗一念关山壁咚刘宇宁路透",
+        "onboard_time": 1676429431,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182907,
+        "num": 182907,
+        "word": "苏乞儿",
+        "onboard_time": 1676423553,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 182873,
+        "num": 182873,
+        "word": "18岁喜欢的人27岁还在身边",
+        "onboard_time": 1676415737,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169575,
+        "num": 169575,
+        "word": "罗云熙陈瑶同框合照",
+        "onboard_time": 1676428950,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166424,
+        "num": 166424,
+        "word": "流浪地球2诺夫沙溢年轻时旧照",
+        "onboard_time": 1676428409,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160720,
+        "num": 160720,
+        "word": "重紫",
+        "onboard_time": 1676431468,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158516,
+        "num": 158516,
+        "word": "aespa新歌Thirsty",
+        "onboard_time": 1676419107,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151773,
+        "num": 151773,
+        "word": "小伙苦练10年还原六小龄童版孙悟空",
+        "onboard_time": 1676429790,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席同伊朗总统会谈#"
+    }
+  }
+}
