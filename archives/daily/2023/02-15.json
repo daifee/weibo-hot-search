@@ -1,6 +1,6 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676439240844,
+  "endTime": 1676442298223,
   "band_list": [
     {
       "raw_hot": 3244607,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1496711,
+      "num": 1496711,
+      "word": "张大大 无忧传媒",
+      "onboard_time": 1676438910,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1484993,
       "num": 1484993,
       "word": "蔚来回应试驾致母子一死一伤",
@@ -97,6 +105,14 @@
       "onboard_time": 1676423132,
       "rank": 6,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1170190,
+      "num": 1170190,
+      "word": "月入5000是什么水平",
+      "onboard_time": 1676439093,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 1103368,
@@ -179,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 943230,
+      "num": 471206,
+      "word": "顺丰回应7万元爱马仕运输中烧毁",
+      "onboard_time": 1676440710,
+      "rank": 11,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 922717,
       "num": 922717,
       "word": "00后女孩退房后屋里遍地是垃圾",
       "onboard_time": 1676428648,
       "rank": 20,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 903866,
+      "num": 903866,
+      "word": "王鹤棣吃炸串吃到蓝羽上手阻拦",
+      "onboard_time": 1676438734,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 838058,
@@ -209,6 +241,14 @@
       "onboard_time": 1676422651,
       "rank": 8,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 751305,
+      "num": 751305,
+      "word": "台湾省地图应绘出钓鱼岛和赤尾屿",
+      "onboard_time": 1676438255,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 748175,
@@ -272,6 +312,14 @@
       "word": "女子半夜骑车为老公买炒饭摔成两个人",
       "onboard_time": 1676430390,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 671567,
+      "num": 671567,
+      "word": "男子酒后狂飙打110找安欣",
+      "onboard_time": 1676438552,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -353,14 +401,6 @@
       "onboard_time": 1676372132,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 558420,
-      "num": 558420,
-      "word": "王鹤棣吃炸串吃到蓝羽上手阻拦",
-      "onboard_time": 1676438734,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 551017,
@@ -483,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 458757,
+      "num": 458757,
+      "word": "邓超 全世界最好的俪",
+      "onboard_time": 1676441070,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 446050,
       "num": 446050,
       "word": "男子反复缴费套取蚂蚁森林能量被封号",
@@ -507,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 440243,
+      "num": 440243,
+      "word": "医保个人账户缩水能不能有补偿方案",
+      "onboard_time": 1676441070,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440066,
       "num": 440066,
       "word": "许魏洲电影院被罚做俯卧撑",
@@ -529,6 +585,14 @@
       "onboard_time": 1676371413,
       "rank": 18,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 428497,
+      "num": 428497,
+      "word": "剧组虐猫事件造谣者被判刑",
+      "onboard_time": 1676439871,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415487,
@@ -579,6 +643,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 380392,
+      "num": 380392,
+      "word": "王力宏方回应被冻结901万",
+      "onboard_time": 1676439452,
+      "rank": 15,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 380052,
       "num": 380052,
       "word": "电影回廊亭定档0310",
@@ -609,6 +681,14 @@
       "onboard_time": 1676431468,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 360736,
+      "num": 360736,
+      "word": "肖战白衬衫花絮照九宫格",
+      "onboard_time": 1676440050,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 356450,
@@ -643,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338208,
+      "num": 338208,
+      "word": "五哈",
+      "onboard_time": 1676441489,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332206,
       "num": 332206,
       "word": "宋妍霏凌晨五点起床直播",
@@ -667,12 +755,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 317183,
-      "num": 317183,
-      "word": "张大大 无忧传媒",
-      "onboard_time": 1676438910,
+      "raw_hot": 321180,
+      "num": 321180,
+      "word": "房东的猫第一次尝试把MV拍成微电影",
+      "onboard_time": 1676441553,
       "rank": 20,
-      "category": "艺人"
+      "category": "音乐"
     },
     {
       "raw_hot": 315039,
@@ -753,14 +841,6 @@
       "onboard_time": 1676386235,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294247,
-      "num": 294247,
-      "word": "台湾省地图应绘出钓鱼岛和赤尾屿",
-      "onboard_time": 1676438255,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 289060,
@@ -851,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251488,
+      "num": 251488,
+      "word": "男子疑因小区乱停车情绪崩溃",
+      "onboard_time": 1676440471,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245576,
       "num": 245576,
       "word": "小伙苦练10年还原六小龄童版孙悟空",
@@ -899,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232875,
+      "num": 205216,
+      "word": "于正探班你比星光美丽剧组照片",
+      "onboard_time": 1676441971,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230088,
       "num": 230088,
       "word": "2年前勇敢截花主人公结婚",
@@ -923,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218171,
-      "num": 218171,
-      "word": "男子酒后狂飙打110找安欣",
-      "onboard_time": 1676438552,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217333,
       "num": 217333,
       "word": "你心目中改名最成功的大学",
@@ -945,6 +1033,22 @@
       "onboard_time": 1676385936,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214090,
+      "num": 204911,
+      "word": "上半年偏财最旺的星座",
+      "onboard_time": 1676441429,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 208510,
+      "num": 208510,
+      "word": "重紫连更10天22集",
+      "onboard_time": 1676441253,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 205767,
@@ -1107,6 +1211,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 178519,
+      "num": 178519,
+      "word": "苹果先买后付服务将评估借款人",
+      "onboard_time": 1676439752,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 175437,
       "num": 175437,
       "word": "揭开北京二手房成交率提升的真相",
@@ -1171,12 +1283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163291,
-      "num": 163291,
-      "word": "月入5000是什么水平",
-      "onboard_time": 1676439093,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 162548,
+      "num": 162548,
+      "word": "Kakao不会加价收购SMTOWN股份",
+      "onboard_time": 1676439573,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 161840,
@@ -1235,12 +1347,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 145097,
+      "num": 145097,
+      "word": "瞬间明白了美到窒息的感觉",
+      "onboard_time": 1676441909,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 143878,
+      "num": 143878,
+      "word": "规范使用中国地图一点都不能少",
+      "onboard_time": 1676441790,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140835,
       "num": 140835,
       "word": "三体",
       "onboard_time": 1676380359,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140156,
+      "num": 140156,
+      "word": "东风快递等你加入",
+      "onboard_time": 1676441190,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 139124,
@@ -1257,6 +1393,14 @@
       "onboard_time": 1676379156,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136061,
+      "num": 136061,
+      "word": "周迅十登VOGUE封面",
+      "onboard_time": 1676440710,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 135369,
@@ -1367,6 +1511,9 @@
     },
     {
       "word": "#习近平的文化情缘#"
+    },
+    {
+      "word": "#时间属于奋进者历史属于奋进者#"
     }
   ]
 }
