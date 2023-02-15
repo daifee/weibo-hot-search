@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676475377276,
+  "endTime": 1676478460885,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -243,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2204275,
+      "num": 2204275,
+      "word": "鹿晗潮牌遭吐槽",
+      "onboard_time": 1676474193,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2192117,
       "num": 2192117,
       "word": "员工发现老板娘偷看微信火速离职",
@@ -337,14 +345,6 @@
       "onboard_time": 1676335471,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1931351,
-      "num": 1931351,
-      "word": "鹿晗潮牌遭吐槽",
-      "onboard_time": 1676474193,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1845524,
@@ -779,6 +779,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1188394,
+      "num": 1188394,
+      "word": "台湾几千吨凤梨释迦滞销",
+      "onboard_time": 1676473533,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1176159,
       "num": 1176159,
       "word": "孕妇如厕时生产婴儿被卡蹲便器",
@@ -945,14 +953,6 @@
       "onboard_time": 1676423553,
       "rank": 3,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1094066,
-      "num": 1094066,
-      "word": "台湾几千吨凤梨释迦滞销",
-      "onboard_time": 1676473533,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1081560,
@@ -1675,6 +1675,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 721263,
+      "num": 721263,
+      "word": "女子骗闺蜜68万后让老公别工作",
+      "onboard_time": 1676474131,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 720901,
       "num": 720901,
       "word": "情人节单身的有福了",
@@ -1921,6 +1929,14 @@
       "onboard_time": 1676298521,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 668210,
+      "num": 668210,
+      "word": "没有我的城主演 张译杨幂",
+      "onboard_time": 1676475510,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 666102,
@@ -2755,14 +2771,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 491368,
-      "num": 491368,
-      "word": "女子骗闺蜜68万后让老公别工作",
-      "onboard_time": 1676474131,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491038,
       "num": 491038,
       "word": "咖啡真的可以减肥吗",
@@ -3011,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453377,
+      "num": 453377,
+      "word": "河南一中学开学女生站校门排队剪发",
+      "onboard_time": 1676473533,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 446250,
       "num": 446250,
       "word": "李秀满拒绝回答SMTOWN经营权问题",
@@ -3024,6 +3040,14 @@
       "word": "缉毒警怕出意外曾与女友提分手",
       "onboard_time": 1676355569,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444311,
+      "num": 444311,
+      "word": "上海第三机场建在江苏",
+      "onboard_time": 1676474555,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -3801,14 +3825,6 @@
       "onboard_time": 1676379819,
       "rank": 31,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 349374,
-      "num": 349374,
-      "word": "河南一中学开学女生站校门排队剪发",
-      "onboard_time": 1676473533,
-      "rank": 37,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 346998,
@@ -5115,14 +5131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239796,
-      "num": 239796,
-      "word": "上海第三机场建在江苏",
-      "onboard_time": 1676474555,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238713,
       "num": 238713,
       "word": "勇士四方交易完成",
@@ -5411,6 +5419,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 219113,
+      "num": 219113,
+      "word": "以为主人被欺负的小狗",
+      "onboard_time": 1676476587,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218964,
       "num": 218964,
       "word": "G2夺冠",
@@ -5489,6 +5505,14 @@
       "onboard_time": 1676351197,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 213148,
+      "num": 213148,
+      "word": "卜尔Q",
+      "onboard_time": 1676475032,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 213098,
@@ -6435,6 +6459,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 162549,
+      "num": 162549,
+      "word": "黄奕演言承旭的丈母娘",
+      "onboard_time": 1676477546,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162548,
       "num": 162548,
       "word": "Kakao不会加价收购SMTOWN股份",
@@ -6513,6 +6545,14 @@
       "onboard_time": 1676356832,
       "rank": 45,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 158401,
+      "num": 158401,
+      "word": "于正写诗回应虐猫造谣者被判刑",
+      "onboard_time": 1676476109,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 157024,
@@ -6859,14 +6899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124734,
-      "num": 124734,
-      "word": "卜尔Q",
-      "onboard_time": 1676475032,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 121811,
       "num": 121811,
       "word": "军营大门里有什么",
@@ -6923,6 +6955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113625,
+      "num": 113625,
+      "word": "阿森纳vs曼城",
+      "onboard_time": 1676477487,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110211,
       "num": 1979479,
       "word": "中国乡村振兴定能结出累累果实",
@@ -6937,6 +6977,14 @@
       "onboard_time": 1676455232,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108213,
+      "num": 108213,
+      "word": "三体拍出了北京的科幻感",
+      "onboard_time": 1676478206,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 107891,
@@ -7001,6 +7049,14 @@
       "onboard_time": 1676405891,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 92336,
+      "num": 92336,
+      "word": "为什么会暗恋一个人十几年",
+      "onboard_time": 1676478444,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 90508,
