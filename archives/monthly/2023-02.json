@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676425334984,
+  "endTime": 1676426762005,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -313,6 +313,14 @@
       "onboard_time": 1675304079,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3244607,
+      "num": 3244607,
+      "word": "张大大直播 剧本",
+      "onboard_time": 1676425289,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 3226519,
@@ -819,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2312369,
+      "num": 2135706,
+      "word": "都美竹 一个人穿婚纱也很浪漫",
+      "onboard_time": 1676423373,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2310848,
       "num": 2310848,
       "word": "姐弟坠亡案父亲连写三封信求原谅",
@@ -961,14 +977,6 @@
       "onboard_time": 1675825230,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2135706,
-      "num": 2135706,
-      "word": "都美竹 一个人穿婚纱也很浪漫",
-      "onboard_time": 1676423373,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2126495,
@@ -3883,6 +3891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1077611,
+      "num": 1077611,
+      "word": "iPhone15Pro或带来全新金色",
+      "onboard_time": 1676424210,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1077212,
       "num": 1077212,
       "word": "异丙酚",
@@ -3897,6 +3913,14 @@
       "onboard_time": 1676265047,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1073518,
+      "num": 1073518,
+      "word": "网友称乐山油炸串串不健康建议取缔",
+      "onboard_time": 1676423132,
+      "rank": 6,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1072301,
@@ -4699,14 +4723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 945440,
-      "num": 945440,
-      "word": "网友称乐山油炸串串不健康建议取缔",
-      "onboard_time": 1676423132,
-      "rank": 6,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 945366,
       "num": 945366,
       "word": "周深毛不易 双厨狂喜",
@@ -5305,22 +5321,6 @@
       "onboard_time": 1675735106,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 886216,
-      "num": 886216,
-      "word": "张大大直播 剧本",
-      "onboard_time": 1676425289,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 885260,
-      "num": 697506,
-      "word": "iPhone15Pro或带来全新金色",
-      "onboard_time": 1676424210,
-      "rank": 10,
-      "category": "科技"
     },
     {
       "raw_hot": 882357,
@@ -6715,6 +6715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755294,
+      "num": 755294,
+      "word": "问ChatGPT中国足球如何赢得世界杯冠军",
+      "onboard_time": 1676422651,
+      "rank": 8,
+      "category": "体育,幽默"
+    },
+    {
       "raw_hot": 754944,
       "num": 754944,
       "word": "苏炳添6秒59",
@@ -6841,14 +6849,6 @@
       "onboard_time": 1675631352,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 741778,
-      "num": 741778,
-      "word": "问ChatGPT中国足球如何赢得世界杯冠军",
-      "onboard_time": 1676422651,
-      "rank": 8,
-      "category": "体育,幽默"
     },
     {
       "raw_hot": 741207,
@@ -7968,6 +7968,14 @@
       "word": "19岁男孩患阿尔兹海默症",
       "onboard_time": 1675516232,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677850,
+      "num": 677850,
+      "word": "上海地铁",
+      "onboard_time": 1676424691,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -9659,6 +9667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 582407,
+      "num": 582407,
+      "word": "河南一学院将升级为大学",
+      "onboard_time": 1676424092,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 581842,
       "num": 581842,
       "word": "刘诗诗告黑",
@@ -10417,6 +10433,14 @@
       "onboard_time": 1676090967,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 550040,
+      "num": 550040,
+      "word": "苏乞儿被拦车摔倒责任在谁",
+      "onboard_time": 1676423851,
+      "rank": 19,
+      "category": "社会议题"
     },
     {
       "raw_hot": 549824,
@@ -11243,6 +11267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517321,
+      "num": 517321,
+      "word": "恢复签发韩国公民赴华短期签证",
+      "onboard_time": 1676424868,
+      "rank": 48,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 516780,
       "num": 516780,
       "word": "马思纯姜思达谈抑郁症",
@@ -11361,14 +11393,6 @@
       "onboard_time": 1676272666,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 512409,
-      "num": 512409,
-      "word": "河南一学院将升级为大学",
-      "onboard_time": 1676424092,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 511769,
@@ -12155,6 +12179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478425,
+      "num": 478425,
+      "word": "重紫全员紫色出镜",
+      "onboard_time": 1676425709,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 478273,
       "num": 478273,
       "word": "男朋友送的花有多直男审美",
@@ -12689,14 +12721,6 @@
       "onboard_time": 1676371474,
       "rank": 17,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 457091,
-      "num": 457091,
-      "word": "苏乞儿被拦车摔倒责任在谁",
-      "onboard_time": 1676423851,
-      "rank": 19,
-      "category": "社会议题"
     },
     {
       "raw_hot": 457038,
@@ -13449,6 +13473,14 @@
       "onboard_time": 1675219590,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431648,
+      "num": 431648,
+      "word": "蚁人3口碑",
+      "onboard_time": 1676425649,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 431085,
@@ -17995,6 +18027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315039,
+      "num": 315039,
+      "word": "俄亥俄有毒气体泄漏会影响多大范围",
+      "onboard_time": 1676424992,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314882,
       "num": 314882,
       "word": "黑豹乐队新主唱招募",
@@ -18401,14 +18441,6 @@
       "onboard_time": 1676365653,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 306270,
-      "num": 306270,
-      "word": "上海地铁",
-      "onboard_time": 1676424691,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306044,
@@ -19809,6 +19841,14 @@
       "onboard_time": 1676290684,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 281792,
+      "num": 281792,
+      "word": "满江红",
+      "onboard_time": 1675506207,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 281740,
@@ -21704,14 +21744,6 @@
       "word": "吴京说流浪地球3该炸哪儿了",
       "onboard_time": 1675699466,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 250842,
-      "num": 250842,
-      "word": "满江红",
-      "onboard_time": 1675506207,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -27323,14 +27355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179160,
-      "num": 179160,
-      "word": "俄亥俄有毒气体泄漏会影响多大范围",
-      "onboard_time": 1676424992,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179138,
       "num": 179138,
       "word": "4岁警犬凭实力成国家首批功勋犬",
@@ -27347,6 +27371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179057,
+      "num": 179057,
+      "word": "购房者为何扎堆申请提前还房贷",
+      "onboard_time": 1676426369,
+      "rank": 37,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 178965,
       "num": 178965,
       "word": "FIFA年度最佳球员三人候选",
@@ -27361,6 +27393,14 @@
       "onboard_time": 1676035412,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178763,
+      "num": 178763,
+      "word": "张颂文给苏小玎设计摔杯子动作",
+      "onboard_time": 1676426248,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 178668,
@@ -27649,6 +27689,14 @@
       "onboard_time": 1676379156,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175643,
+      "num": 175643,
+      "word": "如何让人们敢花钱",
+      "onboard_time": 1676425590,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 175497,
@@ -28521,14 +28569,6 @@
       "onboard_time": 1675646066,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166929,
-      "num": 166929,
-      "word": "恢复签发韩国公民赴华短期签证",
-      "onboard_time": 1676424868,
-      "rank": 48,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 166926,
@@ -29891,6 +29931,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 149491,
+      "num": 149491,
+      "word": "长臂猿2秒进化成人",
+      "onboard_time": 1676426547,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149478,
       "num": 149478,
       "word": "男子跨越700公里陪女友过情人节",
@@ -30457,6 +30505,14 @@
       "onboard_time": 1675227276,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139061,
+      "num": 139061,
+      "word": "12岁脑瘫女孩被同岁亲戚性侵",
+      "onboard_time": 1676426730,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139010,

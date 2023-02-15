@@ -1,9 +1,17 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676425334984,
+  "endTime": 1676426762005,
   "band_list": [
     {
-      "raw_hot": 2135706,
+      "raw_hot": 3244607,
+      "num": 3244607,
+      "word": "张大大直播 剧本",
+      "onboard_time": 1676425289,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2312369,
       "num": 2135706,
       "word": "都美竹 一个人穿婚纱也很浪漫",
       "onboard_time": 1676423373,
@@ -43,6 +51,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1077611,
+      "num": 1077611,
+      "word": "iPhone15Pro或带来全新金色",
+      "onboard_time": 1676424210,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 1073518,
+      "num": 1073518,
+      "word": "网友称乐山油炸串串不健康建议取缔",
+      "onboard_time": 1676423132,
+      "rank": 6,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1027355,
       "num": 1027355,
       "word": "网红苏乞儿回应骑摩托上高速被拦",
@@ -75,30 +99,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 945440,
-      "num": 945440,
-      "word": "网友称乐山油炸串串不健康建议取缔",
-      "onboard_time": 1676423132,
-      "rank": 6,
-      "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 886216,
-      "num": 886216,
-      "word": "张大大直播 剧本",
-      "onboard_time": 1676425289,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 885260,
-      "num": 697506,
-      "word": "iPhone15Pro或带来全新金色",
-      "onboard_time": 1676424210,
-      "rank": 10,
-      "category": "科技"
-    },
-    {
       "raw_hot": 838058,
       "num": 838058,
       "word": "女生情人节垃圾桶捡到积木城堡",
@@ -115,12 +115,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 741778,
-      "num": 741778,
+      "raw_hot": 755294,
+      "num": 755294,
       "word": "问ChatGPT中国足球如何赢得世界杯冠军",
       "onboard_time": 1676422651,
       "rank": 8,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 677850,
+      "num": 677850,
+      "word": "上海地铁",
+      "onboard_time": 1676424691,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 651499,
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 582407,
+      "num": 582407,
+      "word": "河南一学院将升级为大学",
+      "onboard_time": 1676424092,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 565745,
       "num": 542826,
       "word": "金莎 情人节终于有人一起过了",
@@ -177,6 +193,14 @@
       "onboard_time": 1676420191,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 550040,
+      "num": 550040,
+      "word": "苏乞儿被拦车摔倒责任在谁",
+      "onboard_time": 1676423851,
+      "rank": 19,
+      "category": "社会议题"
     },
     {
       "raw_hot": 548837,
@@ -203,12 +227,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 512409,
-      "num": 512409,
-      "word": "河南一学院将升级为大学",
-      "onboard_time": 1676424092,
-      "rank": 17,
-      "category": "教育"
+      "raw_hot": 517321,
+      "num": 517321,
+      "word": "恢复签发韩国公民赴华短期签证",
+      "onboard_time": 1676424868,
+      "rank": 48,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 491038,
@@ -219,20 +243,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 478425,
+      "num": 478425,
+      "word": "重紫全员紫色出镜",
+      "onboard_time": 1676425709,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 478273,
       "num": 478273,
       "word": "男朋友送的花有多直男审美",
       "onboard_time": 1676387317,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 457091,
-      "num": 457091,
-      "word": "苏乞儿被拦车摔倒责任在谁",
-      "onboard_time": 1676423851,
-      "rank": 19,
-      "category": "社会议题"
     },
     {
       "raw_hot": 446050,
@@ -256,6 +280,14 @@
       "word": "许魏洲电影院被罚做俯卧撑",
       "onboard_time": 1676391215,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 431648,
+      "num": 431648,
+      "word": "蚁人3口碑",
+      "onboard_time": 1676425649,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -331,6 +363,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 315039,
+      "num": 315039,
+      "word": "俄亥俄有毒气体泄漏会影响多大范围",
+      "onboard_time": 1676424992,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313846,
       "num": 313846,
       "word": "泰国将对外国游客征收入境费",
@@ -363,20 +403,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306270,
-      "num": 306270,
-      "word": "上海地铁",
-      "onboard_time": 1676424691,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300777,
       "num": 300777,
       "word": "TT 状态",
       "onboard_time": 1676386235,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281792,
+      "num": 281792,
+      "word": "满江红",
+      "onboard_time": 1676426010,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 275376,
@@ -571,20 +611,36 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 179160,
-      "num": 179160,
-      "word": "俄亥俄有毒气体泄漏会影响多大范围",
-      "onboard_time": 1676424992,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179149,
       "num": 179149,
       "word": "女孩回应向叙利亚捐6000包卫生巾",
       "onboard_time": 1676376995,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179057,
+      "num": 179057,
+      "word": "购房者为何扎堆申请提前还房贷",
+      "onboard_time": 1676426369,
+      "rank": 37,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 178763,
+      "num": 178763,
+      "word": "张颂文给苏小玎设计摔杯子动作",
+      "onboard_time": 1676426248,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 175643,
+      "num": 175643,
+      "word": "如何让人们敢花钱",
+      "onboard_time": 1676425590,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 175437,
@@ -617,14 +673,6 @@
       "onboard_time": 1676368892,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166929,
-      "num": 166929,
-      "word": "恢复签发韩国公民赴华短期签证",
-      "onboard_time": 1676424868,
-      "rank": 48,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 165978,
@@ -667,6 +715,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 149491,
+      "num": 149491,
+      "word": "长臂猿2秒进化成人",
+      "onboard_time": 1676426547,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140835,
       "num": 140835,
       "word": "三体",
@@ -681,6 +737,14 @@
       "onboard_time": 1676383296,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139061,
+      "num": 139061,
+      "word": "12岁脑瘫女孩被同岁亲戚性侵",
+      "onboard_time": 1676426730,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138039,
