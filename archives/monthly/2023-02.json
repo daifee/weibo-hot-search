@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676464671029,
+  "endTime": 1676465849243,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1491,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1835155,
+      "num": 1835155,
+      "word": "徐正溪问谁的孩子",
+      "onboard_time": 1676462909,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1831863,
       "num": 652597,
       "word": "警方回应狗头萝莉疑似轻生一事",
@@ -1808,6 +1816,14 @@
       "word": "茶颜悦色仍有门店要求排队取餐",
       "onboard_time": 1676187748,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1712495,
+      "num": 1712495,
+      "word": "男子借朋友12万借条1小时后变白纸",
+      "onboard_time": 1676463691,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2577,14 +2593,6 @@
       "onboard_time": 1675599990,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1380062,
-      "num": 1380062,
-      "word": "徐正溪问谁的孩子",
-      "onboard_time": 1676462909,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1375744,
@@ -5505,14 +5513,6 @@
       "onboard_time": 1675926091,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 896945,
-      "num": 488542,
-      "word": "男子借朋友12万借条1小时后变白纸",
-      "onboard_time": 1676463691,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 896838,
@@ -10393,6 +10393,14 @@
       "onboard_time": 1676369073,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 571372,
+      "num": 512904,
+      "word": "妇联回应16岁男孩独自照顾2妹妹",
+      "onboard_time": 1676464111,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571345,
@@ -15795,6 +15803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 386370,
+      "num": 386370,
+      "word": "邓超回应作品口碑透支",
+      "onboard_time": 1676464771,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 386120,
       "num": 386120,
       "word": "老人喝隔夜牛肉汤住进ICU",
@@ -19691,6 +19707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299141,
+      "num": 299141,
+      "word": "蒋鹤婷恋综最快下车女嘉宾",
+      "onboard_time": 1676465672,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299135,
       "num": 299135,
       "word": "于和伟听说刘慈欣喜欢这个大史很开心",
@@ -19737,6 +19761,14 @@
       "onboard_time": 1676358034,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298701,
+      "num": 298701,
+      "word": "你的crush是谁",
+      "onboard_time": 1676462250,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 298585,
@@ -21571,14 +21603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270388,
-      "num": 270388,
-      "word": "妇联回应16岁男孩独自照顾2妹妹",
-      "onboard_time": 1676464111,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 270354,
       "num": 270354,
       "word": "2023上半年已定档40部新片",
@@ -23011,6 +23035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247541,
+      "num": 247541,
+      "word": "外企面试到底有多奇葩",
+      "onboard_time": 1676464651,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247442,
       "num": 247442,
       "word": "宋威龙直播时让狗狗代播",
@@ -23033,14 +23065,6 @@
       "onboard_time": 1676110766,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246620,
-      "num": 246620,
-      "word": "你的crush是谁",
-      "onboard_time": 1676462250,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 246538,
@@ -24217,6 +24241,14 @@
       "onboard_time": 1676369315,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229827,
+      "num": 229827,
+      "word": "腾讯回应微信下场做外卖",
+      "onboard_time": 1676465190,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 229780,
@@ -25699,6 +25731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207357,
+      "num": 207357,
+      "word": "JDG对战EDG",
+      "onboard_time": 1676463452,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207296,
       "num": 207296,
       "word": "徐明浩分享和家人爬山vlog",
@@ -26241,6 +26281,14 @@
       "onboard_time": 1676372497,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200474,
+      "num": 200474,
+      "word": "乔欣说自己喜欢哇哦的男生",
+      "onboard_time": 1676465431,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 200267,
@@ -29947,14 +29995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165625,
-      "num": 165625,
-      "word": "JDG对战EDG",
-      "onboard_time": 1676463452,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 165556,
       "num": 165556,
       "word": "湖南一男子当街殴打掌掴女子",
@@ -32315,6 +32355,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 131797,
+      "num": 131797,
+      "word": "女子注射生长因子7年后下巴疯长破溃",
+      "onboard_time": 1676465672,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131766,
       "num": 131766,
       "word": "我们的日子是想薅秃chatGPT吗",
@@ -32857,14 +32905,6 @@
       "onboard_time": 1675830213,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117616,
-      "num": 117616,
-      "word": "外企面试到底有多奇葩",
-      "onboard_time": 1676464651,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 117098,
@@ -34249,6 +34289,14 @@
       "onboard_time": 1675195453,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34206,
+      "num": 1375586,
+      "word": "文物背后有料有趣的中国故事",
+      "onboard_time": 1676465070,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32361,
