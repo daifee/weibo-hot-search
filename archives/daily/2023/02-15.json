@@ -1,6 +1,6 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676429483137,
+  "endTime": 1676430098336,
   "band_list": [
     {
       "raw_hot": 3244607,
@@ -59,6 +59,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1138184,
+      "num": 1138184,
+      "word": "蔚来回应试驾致母子一死一伤",
+      "onboard_time": 1676427151,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1095869,
       "num": 1095869,
       "word": "苏乞儿",
@@ -104,14 +112,6 @@
       "word": "顺丰寄爱马仕包运输中被烧毁",
       "onboard_time": 1676377114,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 903672,
-      "num": 903672,
-      "word": "蔚来回应试驾致母子一死一伤",
-      "onboard_time": 1676427151,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -169,6 +169,14 @@
       "onboard_time": 1676384318,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 617081,
+      "num": 438264,
+      "word": "00后女孩退房后屋里遍地是垃圾",
+      "onboard_time": 1676428648,
+      "rank": 20,
+      "category": "社会负面"
     },
     {
       "raw_hot": 613628,
@@ -267,6 +275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 483338,
+      "num": 483338,
+      "word": "深圳夫妻带10岁孤独症儿子跑单6年",
+      "onboard_time": 1676427029,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478425,
       "num": 478425,
       "word": "重紫全员紫色出镜",
@@ -281,14 +297,6 @@
       "onboard_time": 1676387317,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 462529,
-      "num": 462529,
-      "word": "深圳夫妻带10岁孤独症儿子跑单6年",
-      "onboard_time": 1676427029,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 446050,
@@ -328,6 +336,14 @@
       "word": "蚁人3口碑",
       "onboard_time": 1676425649,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 430908,
+      "num": 430908,
+      "word": "三体 你们是虫子",
+      "onboard_time": 1676429009,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -387,6 +403,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 374072,
+      "num": 374072,
+      "word": "刘诗诗一念关山壁咚刘宇宁路透",
+      "onboard_time": 1676429431,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 363250,
+      "num": 363250,
+      "word": "00后男生长期可乐当水喝牙全坏",
+      "onboard_time": 1676429190,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356450,
       "num": 356450,
       "word": "马思纯说张哲轩像太阳一样照亮她",
@@ -401,14 +433,6 @@
       "onboard_time": 1676387859,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 343320,
-      "num": 343320,
-      "word": "00后女孩退房后屋里遍地是垃圾",
-      "onboard_time": 1676428648,
-      "rank": 20,
-      "category": "社会负面"
     },
     {
       "raw_hot": 340700,
@@ -433,14 +457,6 @@
       "onboard_time": 1676419588,
       "rank": 25,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 317052,
-      "num": 317052,
-      "word": "刘诗诗一念关山壁咚刘宇宁路透",
-      "onboard_time": 1676429431,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 315039,
@@ -491,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305123,
+      "num": 305123,
+      "word": "感染诺如病毒有哪些症状",
+      "onboard_time": 1676428109,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300777,
       "num": 300777,
       "word": "TT 状态",
@@ -499,19 +523,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 300669,
-      "num": 300669,
-      "word": "感染诺如病毒有哪些症状",
-      "onboard_time": 1676428109,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281792,
       "num": 281792,
       "word": "满江红",
       "onboard_time": 1676426010,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 278272,
+      "num": 278272,
+      "word": "流浪地球2诺夫沙溢年轻时旧照",
+      "onboard_time": 1676428409,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -523,14 +547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274392,
-      "num": 274392,
-      "word": "流浪地球2诺夫沙溢年轻时旧照",
-      "onboard_time": 1676428409,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 268978,
       "num": 268978,
       "word": "这活幽闭恐惧症的人干不了",
@@ -539,11 +555,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 263136,
-      "num": 263136,
-      "word": "三体 你们是虫子",
-      "onboard_time": 1676429009,
-      "rank": 32,
+      "raw_hot": 257266,
+      "num": 257266,
+      "word": "宋妍霏凌晨五点起床直播",
+      "onboard_time": 1676427928,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -595,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240020,
-      "num": 240020,
-      "word": "宋妍霏凌晨五点起床直播",
-      "onboard_time": 1676427928,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 230088,
       "num": 230088,
       "word": "2年前勇敢截花主人公结婚",
@@ -643,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206930,
-      "num": 206930,
-      "word": "00后男生长期可乐当水喝牙全坏",
-      "onboard_time": 1676429190,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205767,
       "num": 205767,
       "word": "中国天眼发现740余颗新脉冲星",
@@ -673,6 +673,14 @@
       "onboard_time": 1676419107,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203135,
+      "num": 203135,
+      "word": "刘敏涛新片演林珍惠",
+      "onboard_time": 1676430088,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 202568,
@@ -747,6 +755,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187639,
+      "num": 187639,
+      "word": "萌犬是怎么被训练成警犬的",
+      "onboard_time": 1676429129,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185223,
+      "num": 185223,
+      "word": "2023NBA全明星",
+      "onboard_time": 1676428170,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183989,
       "num": 183989,
       "word": "两名主播涉嫌偷逃税款被罚",
@@ -761,14 +785,6 @@
       "onboard_time": 1676425590,
       "rank": 39,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 180726,
-      "num": 180726,
-      "word": "2023NBA全明星",
-      "onboard_time": 1676428170,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 179149,
@@ -787,20 +803,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 175994,
+      "num": 175994,
+      "word": "小伙苦练10年还原六小龄童版孙悟空",
+      "onboard_time": 1676429790,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175437,
       "num": 175437,
       "word": "揭开北京二手房成交率提升的真相",
       "onboard_time": 1676414717,
       "rank": 24,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 173896,
-      "num": 173896,
-      "word": "萌犬是怎么被训练成警犬的",
-      "onboard_time": 1676429129,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170193,
@@ -932,7 +948,7 @@
     },
     {
       "raw_hot": 93050,
-      "num": 1152162,
+      "num": 1152312,
       "word": "震后救援中的中国身影",
       "onboard_time": 1676381077,
       "rank": 2,
