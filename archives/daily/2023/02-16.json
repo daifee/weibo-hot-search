@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676503156995,
+  "endTime": 1676504021431,
   "band_list": [
     {
       "raw_hot": 2204275,
@@ -9,6 +9,14 @@
       "onboard_time": 1676474193,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1197566,
+      "num": 1197566,
+      "word": "警方回应网红骑摩托上高速被拦后摔车",
+      "onboard_time": 1676494032,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1188394,
@@ -27,14 +35,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 915234,
-      "num": 915234,
-      "word": "警方回应网红骑摩托上高速被拦后摔车",
-      "onboard_time": 1676494032,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 901779,
       "num": 901779,
       "word": "白宫承认美击落的不明飞行物与中国无关",
@@ -49,6 +49,14 @@
       "onboard_time": 1676469992,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 729192,
+      "num": 384730,
+      "word": "日本游客排队告别大熊猫香香",
+      "onboard_time": 1676501958,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 721263,
@@ -67,8 +75,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 554806,
-      "num": 554806,
+      "raw_hot": 560937,
+      "num": 560937,
       "word": "40岁男子报复10岁小孩连划7车",
       "onboard_time": 1676471734,
       "rank": 7,
@@ -107,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459648,
+      "num": 459648,
+      "word": "上海女子激励男友买车情人节送充电桩",
+      "onboard_time": 1676479402,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453377,
       "num": 453377,
       "word": "河南一中学开学女生站校门排队剪发",
@@ -123,35 +139,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421411,
-      "num": 421411,
-      "word": "男子借朋友12万借条1小时后变白纸",
-      "onboard_time": 1676463691,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 404013,
-      "num": 404013,
+      "raw_hot": 443126,
+      "num": 443126,
       "word": "黄奕演言承旭的丈母娘",
       "onboard_time": 1676477546,
       "rank": 30,
       "category": "影视"
     },
     {
-      "raw_hot": 349203,
-      "num": 332388,
-      "word": "日本游客排队告别大熊猫香香",
-      "onboard_time": 1676501958,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348872,
-      "num": 348872,
-      "word": "上海女子激励男友买车情人节送充电桩",
-      "onboard_time": 1676479402,
-      "rank": 47,
+      "raw_hot": 421411,
+      "num": 421411,
+      "word": "男子借朋友12万借条1小时后变白纸",
+      "onboard_time": 1676463691,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -211,6 +211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225440,
+      "num": 225440,
+      "word": "邓超回应作品口碑透支",
+      "onboard_time": 1676464771,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221674,
       "num": 221674,
       "word": "卜尔Q",
@@ -235,6 +243,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 202612,
+      "num": 202612,
+      "word": "教材中有多处地图漏绘我国台湾省",
+      "onboard_time": 1676472095,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 192827,
       "num": 192827,
       "word": "腾讯回应微信下场做外卖",
@@ -249,14 +265,6 @@
       "onboard_time": 1676469635,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 190718,
-      "num": 190718,
-      "word": "邓超回应作品口碑透支",
-      "onboard_time": 1676464771,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 188956,
@@ -283,12 +291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167960,
-      "num": 167960,
-      "word": "教材中有多处地图漏绘我国台湾省",
-      "onboard_time": 1676472095,
-      "rank": 39,
-      "category": "教育,社会新闻"
+      "raw_hot": 163578,
+      "num": 163578,
+      "word": "为什么街边的榴莲那么便宜",
+      "onboard_time": 1676468136,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161534,
@@ -297,6 +305,14 @@
       "onboard_time": 1676447134,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159301,
+      "num": 159301,
+      "word": "多特蒙德1比0切尔西",
+      "onboard_time": 1676503160,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 158413,
@@ -315,20 +331,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154844,
+      "num": 154844,
+      "word": "护心",
+      "onboard_time": 1676503822,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154559,
       "num": 154559,
       "word": "张大大回应剧本",
       "onboard_time": 1676454872,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152684,
-      "num": 152684,
-      "word": "为什么街边的榴莲那么便宜",
-      "onboard_time": 1676468136,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149444,
@@ -353,6 +369,14 @@
       "onboard_time": 1676459613,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136970,
+      "num": 136970,
+      "word": "应急部门回应河南多地有巨响",
+      "onboard_time": 1676487313,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133083,
@@ -395,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 116541,
-      "num": 116541,
-      "word": "应急部门回应河南多地有巨响",
-      "onboard_time": 1676487313,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113492,
       "num": 113492,
       "word": "白夜极光",
@@ -435,15 +451,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66106,
-      "num": 66106,
+      "raw_hot": 85278,
+      "num": 85278,
       "word": "张芷溪新剧演杨超越妈妈",
       "onboard_time": 1676485875,
       "rank": 43,
       "category": "影视"
     },
     {
-      "raw_hot": 34998,
+      "raw_hot": 39546,
       "num": 1044558,
       "word": "文物背后有料有趣的中国故事",
       "onboard_time": 1676465070,
