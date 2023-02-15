@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676485453651,
+  "endTime": 1676486333049,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -7209,6 +7209,14 @@
       "onboard_time": 1676223498,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35492,
+      "num": 35492,
+      "word": "张芷溪新剧演杨超越妈妈",
+      "onboard_time": 1676485875,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 32361,
