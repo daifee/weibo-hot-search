@@ -1,6 +1,6 @@
 {
   "startTime": 1676392036104,
-  "endTime": 1676443110185,
+  "endTime": 1676445450133,
   "band_list": [
     {
       "raw_hot": 3244607,
@@ -17,6 +17,14 @@
       "onboard_time": 1676436877,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2478269,
+      "num": 2478269,
+      "word": "医保",
+      "onboard_time": 1676442448,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2312369,
@@ -115,6 +123,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1116683,
+      "num": 1116683,
+      "word": "顺丰回应7万元爱马仕运输中烧毁",
+      "onboard_time": 1676440710,
+      "rank": 11,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1103368,
       "num": 790964,
       "word": "陈赫 没点交情这节目真录不下来",
@@ -147,12 +163,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1071708,
-      "num": 1071708,
-      "word": "顺丰回应7万元爱马仕运输中烧毁",
-      "onboard_time": 1676440710,
-      "rank": 11,
-      "category": "社会新闻,财经"
+      "raw_hot": 1067416,
+      "num": 1067416,
+      "word": "赵露思工作室维权声明",
+      "onboard_time": 1676442993,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 1059482,
@@ -201,6 +217,14 @@
       "onboard_time": 1676377114,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 960206,
+      "num": 960206,
+      "word": "台湾歌手刘文正过世",
+      "onboard_time": 1676445030,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 922717,
@@ -339,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 650468,
-      "num": 650468,
-      "word": "医保",
-      "onboard_time": 1676442448,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 645354,
       "num": 645354,
       "word": "氯乙烯",
@@ -393,6 +409,14 @@
       "onboard_time": 1676432435,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 587714,
+      "num": 587714,
+      "word": "李菲儿",
+      "onboard_time": 1676444791,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 587064,
@@ -499,6 +523,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 515461,
+      "num": 483263,
+      "word": "上半年偏财最旺的星座",
+      "onboard_time": 1676441429,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 500635,
       "num": 500635,
       "word": "唐嫣黑粉登报道歉",
@@ -545,6 +577,30 @@
       "onboard_time": 1676387317,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 473629,
+      "num": 473629,
+      "word": "女子万达买赫莲娜发现重量有差别",
+      "onboard_time": 1676444319,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456452,
+      "num": 456452,
+      "word": "我国已成为世界上犯罪率最低的国家之一",
+      "onboard_time": 1676443468,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 451609,
+      "num": 451609,
+      "word": "瞬间明白了美到窒息的感觉",
+      "onboard_time": 1676441909,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 446050,
@@ -755,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332790,
+      "num": 332790,
+      "word": "李菲儿后背线条",
+      "onboard_time": 1676444010,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332206,
       "num": 332206,
       "word": "宋妍霏凌晨五点起床直播",
@@ -851,19 +915,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304936,
-      "num": 211364,
-      "word": "上半年偏财最旺的星座",
-      "onboard_time": 1676441429,
-      "rank": 31,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 300777,
       "num": 300777,
       "word": "TT 状态",
       "onboard_time": 1676386235,
       "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 294657,
+      "num": 294657,
+      "word": "T1教练Sky转为中单",
+      "onboard_time": 1676442931,
+      "rank": 47,
       "category": "游戏"
     },
     {
@@ -947,14 +1011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 261101,
-      "num": 261101,
-      "word": "赵露思工作室维权声明",
-      "onboard_time": 1676442993,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 255984,
       "num": 255984,
       "word": "被一万四千公里的求婚整破防了",
@@ -995,12 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243366,
-      "num": 243366,
-      "word": "瞬间明白了美到窒息的感觉",
-      "onboard_time": 1676441909,
-      "rank": 42,
-      "category": "时尚"
+      "raw_hot": 243277,
+      "num": 243277,
+      "word": "罗崇敏被取消退休待遇",
+      "onboard_time": 1676443412,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241462,
@@ -1051,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226566,
+      "num": 226566,
+      "word": "男子因同名误留刑拘记录6年",
+      "onboard_time": 1676444671,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220634,
       "num": 220634,
       "word": "严浩翔读粉丝评论视频",
@@ -1073,6 +1137,14 @@
       "onboard_time": 1676385936,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214869,
+      "num": 214869,
+      "word": "朱珠冯唐首次合作话剧",
+      "onboard_time": 1676445394,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 208510,
@@ -1227,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185940,
+      "num": 185940,
+      "word": "马斯克提高自己推文优先级1000倍",
+      "onboard_time": 1676444189,
+      "rank": 34,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 183989,
       "num": 183989,
       "word": "两名主播涉嫌偷逃税款被罚",
@@ -1241,6 +1321,14 @@
       "onboard_time": 1676425590,
       "rank": 39,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 179626,
+      "num": 179626,
+      "word": "100岁的丈夫101岁的妻子",
+      "onboard_time": 1676444731,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179149,
@@ -1355,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158012,
+      "num": 158012,
+      "word": "五问医保个人账户改革",
+      "onboard_time": 1676443110,
+      "rank": 40,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 154733,
       "num": 154733,
       "word": "名侦探学院校规风云",
@@ -1401,14 +1497,6 @@
       "onboard_time": 1676380359,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140549,
-      "num": 140549,
-      "word": "T1教练Sky转为中单",
-      "onboard_time": 1676442931,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 140156,

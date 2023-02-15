@@ -1,0 +1,410 @@
+{
+  "runTime": 1676445450133,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2478269,
+        "num": 2478269,
+        "word": "医保",
+        "onboard_time": 1676442448,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2260746,
+        "num": 2260746,
+        "word": "王鹤棣父亲油炸店无行政处罚记录",
+        "onboard_time": 1676436877,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 75678,
+        "num": 1290816,
+        "word": "中国春耕图鉴",
+        "onboard_time": 1676430749,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1116683,
+        "num": 1116683,
+        "word": "顺丰回应7万元爱马仕运输中烧毁",
+        "onboard_time": 1676440710,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1067416,
+        "num": 1067416,
+        "word": "赵露思工作室维权声明",
+        "onboard_time": 1676442993,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 960206,
+        "num": 960206,
+        "word": "台湾歌手刘文正过世",
+        "onboard_time": 1676445030,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 745816,
+        "num": 745816,
+        "word": "张大大 无忧传媒",
+        "onboard_time": 1676438910,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587714,
+        "num": 587714,
+        "word": "李菲儿",
+        "onboard_time": 1676444791,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 561777,
+        "num": 561777,
+        "word": "王鹤棣吃炸串吃到蓝羽上手阻拦",
+        "onboard_time": 1676438734,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 487719,
+        "num": 487719,
+        "word": "张大大直播 剧本",
+        "onboard_time": 1676425289,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 957468,
+        "num": 484143,
+        "word": "男子给女友转账140万分手想要回",
+        "onboard_time": 1676435438,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515461,
+        "num": 483263,
+        "word": "上半年偏财最旺的星座",
+        "onboard_time": 1676441429,
+        "rank": 11,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 480097,
+        "num": 480097,
+        "word": "男子酒后狂飙打110找安欣",
+        "onboard_time": 1676438552,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473629,
+        "num": 473629,
+        "word": "女子万达买赫莲娜发现重量有差别",
+        "onboard_time": 1676444319,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456452,
+        "num": 456452,
+        "word": "我国已成为世界上犯罪率最低的国家之一",
+        "onboard_time": 1676443468,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 451609,
+        "num": 451609,
+        "word": "瞬间明白了美到窒息的感觉",
+        "onboard_time": 1676441909,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 448830,
+        "num": 448830,
+        "word": "邓超 全世界最好的俪",
+        "onboard_time": 1676441070,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415704,
+        "num": 415704,
+        "word": "玫瑰刺又多 花期又短 还容易枯萎",
+        "onboard_time": 1676435076,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396726,
+        "num": 396726,
+        "word": "台湾省地图应绘出钓鱼岛和赤尾屿",
+        "onboard_time": 1676438255,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 332790,
+        "num": 332790,
+        "word": "李菲儿后背线条",
+        "onboard_time": 1676444010,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1189236,
+        "num": 326939,
+        "word": "月入5000是什么水平",
+        "onboard_time": 1676439093,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309915,
+        "num": 309915,
+        "word": "剧组虐猫事件造谣者被判刑",
+        "onboard_time": 1676439871,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302855,
+        "num": 302855,
+        "word": "陈赫 没点交情这节目真录不下来",
+        "onboard_time": 1676434837,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294657,
+        "num": 294657,
+        "word": "T1教练Sky转为中单",
+        "onboard_time": 1676442931,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 287873,
+        "num": 287873,
+        "word": "为何张大大直播间突然爆火",
+        "onboard_time": 1676442809,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256525,
+        "num": 256525,
+        "word": "男子疑因小区乱停车情绪崩溃",
+        "onboard_time": 1676440471,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248424,
+        "num": 248424,
+        "word": "房东的猫第一次尝试把MV拍成微电影",
+        "onboard_time": 1676441553,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 243277,
+        "num": 243277,
+        "word": "罗崇敏被取消退休待遇",
+        "onboard_time": 1676443412,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233839,
+        "num": 233839,
+        "word": "肖战白衬衫花絮照九宫格",
+        "onboard_time": 1676440050,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 231658,
+        "num": 231658,
+        "word": "女子1米65起跳5次才能刷脸成功",
+        "onboard_time": 1676432071,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226566,
+        "num": 226566,
+        "word": "男子因同名误留刑拘记录6年",
+        "onboard_time": 1676444671,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214869,
+        "num": 214869,
+        "word": "朱珠冯唐首次合作话剧",
+        "onboard_time": 1676445394,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199392,
+        "num": 199392,
+        "word": "iPhone15Pro或带来全新金色",
+        "onboard_time": 1676424210,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 186348,
+        "num": 186348,
+        "word": "五哈",
+        "onboard_time": 1676441489,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185940,
+        "num": 185940,
+        "word": "马斯克提高自己推文优先级1000倍",
+        "onboard_time": 1676444189,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 182989,
+        "num": 182989,
+        "word": "央媒称中国足球要刮骨疗毒",
+        "onboard_time": 1676434173,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 182530,
+        "num": 182530,
+        "word": "面试一趟有多难",
+        "onboard_time": 1676436818,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179626,
+        "num": 179626,
+        "word": "100岁的丈夫101岁的妻子",
+        "onboard_time": 1676444731,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178131,
+        "num": 178131,
+        "word": "蔚来回应试驾致母子一死一伤",
+        "onboard_time": 1676427151,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170389,
+        "num": 170389,
+        "word": "邓超问节目组多打四个哈是会累到你吗",
+        "onboard_time": 1676431291,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158012,
+        "num": 158012,
+        "word": "五问医保个人账户改革",
+        "onboard_time": 1676443110,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 152030,
+        "num": 152030,
+        "word": "苹果先买后付服务将评估借款人",
+        "onboard_time": 1676439752,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 150222,
+        "num": 150222,
+        "word": "原神3.5版本直播",
+        "onboard_time": 1676442391,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148906,
+        "num": 148906,
+        "word": "专家建议向大中专毕业生发现金补助",
+        "onboard_time": 1676432731,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 147729,
+        "num": 147729,
+        "word": "Rookie情人节去医院拔鱼刺",
+        "onboard_time": 1676431952,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141078,
+        "num": 141078,
+        "word": "目黑莲将首次主演黄金档剧集",
+        "onboard_time": 1676438972,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138820,
+        "num": 138820,
+        "word": "肖战杨紫余生请多指教日本UNEXT播出",
+        "onboard_time": 1676432435,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124314,
+        "num": 124314,
+        "word": "弟弟被姐姐揍不敢还手踢空调出气",
+        "onboard_time": 1676431589,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121841,
+        "num": 121841,
+        "word": "Kakao不会加价收购SMTOWN股份",
+        "onboard_time": 1676439573,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113039,
+        "num": 113039,
+        "word": "王力宏方回应被冻结901万",
+        "onboard_time": 1676439452,
+        "rank": 49,
+        "category": "社会新闻,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#时间属于奋进者历史属于奋进者#"
+    }
+  }
+}
