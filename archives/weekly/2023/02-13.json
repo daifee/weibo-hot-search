@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676479564523,
+  "endTime": 1676481479594,
   "band_list": [
     {
       "raw_hot": 4127968,
@@ -1209,6 +1209,14 @@
       "onboard_time": 1676379936,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 906243,
+      "num": 906243,
+      "word": "为什么会暗恋一个人十几年",
+      "onboard_time": 1676478444,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 903866,
@@ -3827,14 +3835,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 348901,
-      "num": 348901,
-      "word": "为什么会暗恋一个人十几年",
-      "onboard_time": 1676478444,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 346998,
       "num": 346998,
       "word": "巴黎圣日耳曼vs拜仁慕尼黑",
@@ -4097,6 +4097,14 @@
       "onboard_time": 1676258969,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322111,
+      "num": 322111,
+      "word": "黄奕演言承旭的丈母娘",
+      "onboard_time": 1676477546,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 320917,
@@ -4379,14 +4387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297143,
-      "num": 297143,
-      "word": "黄奕演言承旭的丈母娘",
-      "onboard_time": 1676477546,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 295128,
       "num": 295128,
       "word": "中方将对有关美国实体采取反制措施",
@@ -4593,6 +4593,14 @@
       "onboard_time": 1676344116,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280778,
+      "num": 280778,
+      "word": "上海女子激励男友买车情人节送充电桩",
+      "onboard_time": 1676479402,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280265,
@@ -7057,14 +7065,6 @@
       "onboard_time": 1676405891,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 93845,
-      "num": 93845,
-      "word": "上海女子激励男友买车情人节送充电桩",
-      "onboard_time": 1676479402,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90508,

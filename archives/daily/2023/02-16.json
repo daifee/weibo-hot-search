@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676479564523,
+  "endTime": 1676481479594,
   "band_list": [
     {
       "raw_hot": 2204275,
@@ -17,6 +17,14 @@
       "onboard_time": 1676473533,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 906243,
+      "num": 906243,
+      "word": "为什么会暗恋一个人十几年",
+      "onboard_time": 1676478444,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 901779,
@@ -115,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348901,
-      "num": 348901,
-      "word": "为什么会暗恋一个人十几年",
-      "onboard_time": 1676478444,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 325239,
       "num": 325239,
       "word": "HYBE将正式接管SMTOWN",
@@ -131,12 +131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 297143,
-      "num": 297143,
+      "raw_hot": 322111,
+      "num": 322111,
       "word": "黄奕演言承旭的丈母娘",
       "onboard_time": 1676477546,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280778,
+      "num": 280778,
+      "word": "上海女子激励男友买车情人节送充电桩",
+      "onboard_time": 1676479402,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272757,
@@ -391,14 +399,6 @@
       "num": 108709,
       "word": "香港大幅度下调英语节目比例",
       "onboard_time": 1676459015,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93845,
-      "num": 93845,
-      "word": "上海女子激励男友买车情人节送充电桩",
-      "onboard_time": 1676479402,
       "rank": 47,
       "category": "社会新闻"
     },
