@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676571766736,
+  "endTime": 1676572676101,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -9297,6 +9297,14 @@
       "onboard_time": 1676326876,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26362,
+      "num": 26362,
+      "word": "2023LCK春季赛",
+      "onboard_time": 1676572334,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 18647,

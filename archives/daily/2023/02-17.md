@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/17 00:27:13 ~ 2023/02/17 02:22:46
+本榜单时间：2023/02/17 00:27:13 ~ 2023/02/17 02:37:56
 </p>
 </blockquote>
 <p>
@@ -347,6 +347,12 @@ XYG对战DYG（热度：80178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E8%88%B0%E8%88%B0%E5%91%98%E4%B8%AD%E8%8B%B1%E5%8F%8C%E8%AF%AD%E5%96%8A%E8%AF%9D%23" target="weibo">
 山东舰舰员中英双语喊话（热度：66406）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232023LCK%E6%98%A5%E5%AD%A3%E8%B5%9B%23" target="weibo">
+2023LCK春季赛（热度：26362）
 </a>
 </li>
 
