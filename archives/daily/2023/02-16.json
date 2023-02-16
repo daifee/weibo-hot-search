@@ -1,13 +1,29 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676504021431,
+  "endTime": 1676511679196,
   "band_list": [
+    {
+      "raw_hot": 4838643,
+      "num": 4838643,
+      "word": "鹿晗 还是键盘侠好当",
+      "onboard_time": 1676509648,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2204275,
       "num": 2204275,
       "word": "鹿晗潮牌遭吐槽",
       "onboard_time": 1676474193,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1735515,
+      "num": 1735515,
+      "word": "王楚然早期回应像刘亦菲",
+      "onboard_time": 1676505866,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -27,12 +43,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1156152,
+      "num": 1156152,
+      "word": "内娱渴活人久矣",
+      "onboard_time": 1676505986,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 988592,
       "num": 988592,
       "word": "为什么会暗恋一个人十几年",
       "onboard_time": 1676478444,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 946867,
+      "num": 946867,
+      "word": "美国罐车又侧翻剧毒硝酸泄漏",
+      "onboard_time": 1676505145,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 912074,
+      "num": 912074,
+      "word": "上海欢乐谷过山车出故障滞空十分钟",
+      "onboard_time": 1676509410,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 901779,
@@ -43,6 +83,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 892446,
+      "num": 490767,
+      "word": "鹿晗潮牌声明",
+      "onboard_time": 1676510128,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 863536,
       "num": 863536,
       "word": "重紫 花千骨",
@@ -51,8 +99,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 729192,
-      "num": 384730,
+      "raw_hot": 738761,
+      "num": 738761,
       "word": "日本游客排队告别大熊猫香香",
       "onboard_time": 1676501958,
       "rank": 11,
@@ -75,11 +123,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 604800,
+      "num": 604800,
+      "word": "李秀满",
+      "onboard_time": 1676511208,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560937,
       "num": 560937,
       "word": "40岁男子报复10岁小孩连划7车",
       "onboard_time": 1676471734,
       "rank": 7,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 549611,
+      "num": 549611,
+      "word": "2名中国留学生在美枪击中受伤",
+      "onboard_time": 1676508869,
+      "rank": 11,
       "category": "社会负面"
     },
     {
@@ -115,12 +179,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 459648,
-      "num": 459648,
+      "raw_hot": 485452,
+      "num": 485452,
       "word": "上海女子激励男友买车情人节送充电桩",
       "onboard_time": 1676479402,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472957,
+      "num": 472957,
+      "word": "苹果今年6月推出首款头显",
+      "onboard_time": 1676510070,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 453377,
@@ -129,6 +201,14 @@
       "onboard_time": 1676473533,
       "rank": 12,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 445252,
+      "num": 445252,
+      "word": "菲律宾发生6.1级地震",
+      "onboard_time": 1676507007,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444311,
@@ -147,12 +227,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 440789,
+      "num": 440789,
+      "word": "广东交警回应高速为何禁行摩托",
+      "onboard_time": 1676507429,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421411,
       "num": 421411,
       "word": "男子借朋友12万借条1小时后变白纸",
       "onboard_time": 1676463691,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403677,
+      "num": 403677,
+      "word": "aespa推迟回归的原因",
+      "onboard_time": 1676511269,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 325239,
@@ -163,12 +259,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321858,
+      "num": 321858,
+      "word": "香蕉和人某些同源基因竟有六成相似",
+      "onboard_time": 1676508689,
+      "rank": 23,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 314134,
       "num": 314134,
       "word": "浙江一男生获3次保送清北的机会",
       "onboard_time": 1676497093,
       "rank": 11,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 300884,
+      "num": 300884,
+      "word": "暂停输入大陆后台湾水果价格暴跌",
+      "onboard_time": 1676510907,
+      "rank": 25,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 291196,
+      "num": 291196,
+      "word": "邓超说谢谢北京体育大学",
+      "onboard_time": 1676509708,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 288787,
+      "num": 288787,
+      "word": "连下半月雨后学校现壮观晒被场面",
+      "onboard_time": 1676508027,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 272757,
@@ -179,12 +307,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263485,
-      "num": 263485,
+      "raw_hot": 270102,
+      "num": 270102,
+      "word": "YG新女团RORA最新介绍视频",
+      "onboard_time": 1676511029,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 268264,
+      "num": 268264,
       "word": "当地妇联回应女子称被家暴割喉",
       "onboard_time": 1676470234,
       "rank": 17,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 255881,
+      "num": 255881,
+      "word": "RNG拖欠奖金",
+      "onboard_time": 1676505084,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 250518,
@@ -195,12 +339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240501,
+      "num": 240501,
+      "word": "小美人鱼",
+      "onboard_time": 1676511447,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236992,
       "num": 236992,
       "word": "徐正溪问谁的孩子",
       "onboard_time": 1676462909,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 229359,
+      "num": 229359,
+      "word": "德布劳内躲水瓶",
+      "onboard_time": 1676508689,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 227415,
@@ -233,6 +393,14 @@
       "onboard_time": 1676476587,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205904,
+      "num": 205904,
+      "word": "央行银保监会要求做好提前还款服务",
+      "onboard_time": 1676510429,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 204171,
@@ -291,6 +459,38 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184165,
+      "num": 184165,
+      "word": "美国密歇根州立大学发生枪击事件",
+      "onboard_time": 1676510307,
+      "rank": 40,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 171028,
+      "num": 171028,
+      "word": "在芝加哥中国公民加强安全防范",
+      "onboard_time": 1676509109,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170192,
+      "num": 170192,
+      "word": "19岁女孩离世捐器官救了5人",
+      "onboard_time": 1676505805,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167093,
+      "num": 167093,
+      "word": "时代少年团二次元cos路透",
+      "onboard_time": 1676505325,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163578,
       "num": 163578,
       "word": "为什么街边的榴莲那么便宜",
@@ -329,6 +529,14 @@
       "onboard_time": 1676476109,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158157,
+      "num": 158157,
+      "word": "多家银行要求加快处理提前还款申请",
+      "onboard_time": 1676511566,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 154844,
@@ -459,8 +667,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 39546,
-      "num": 1044558,
+      "raw_hot": 43757,
+      "num": 1437382,
       "word": "文物背后有料有趣的中国故事",
       "onboard_time": 1676465070,
       "rank": 2,
