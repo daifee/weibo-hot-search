@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676561761138,
+  "endTime": 1676564833275,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -593,6 +593,14 @@
       "onboard_time": 1675254808,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2748115,
+      "num": 488447,
+      "word": "张真源开大G",
+      "onboard_time": 1676561731,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2745513,
@@ -4387,6 +4395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1096944,
+      "num": 1096944,
+      "word": "乌啦啦 邯郸",
+      "onboard_time": 1676559093,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1096686,
       "num": 981509,
       "word": "曝公司艺人不愿为李秀满发声",
@@ -5187,14 +5203,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 975961,
-      "num": 975961,
-      "word": "乌啦啦 邯郸",
-      "onboard_time": 1676559093,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
       "raw_hot": 975836,
       "num": 975836,
       "word": "孟钰的包15万",
@@ -5385,6 +5393,14 @@
       "onboard_time": 1675598130,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 955135,
+      "num": 955135,
+      "word": "很内向",
+      "onboard_time": 1676560234,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 954514,
@@ -7889,6 +7905,14 @@
       "onboard_time": 1676276385,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 739980,
+      "num": 739980,
+      "word": "高启强为什么解领带擦玻璃",
+      "onboard_time": 1676560891,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 739889,
@@ -12515,6 +12539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 523649,
+      "num": 523649,
+      "word": "民政局回应3男子飞踹拾荒老人",
+      "onboard_time": 1676559755,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 523288,
       "num": 523288,
       "word": "渤海",
@@ -12825,14 +12857,6 @@
       "onboard_time": 1675659512,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 514482,
-      "num": 514482,
-      "word": "很内向",
-      "onboard_time": 1676560234,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 513945,
@@ -13817,14 +13841,6 @@
       "onboard_time": 1676387317,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 477889,
-      "num": 477889,
-      "word": "高启强为什么解领带擦玻璃",
-      "onboard_time": 1676560891,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 477656,
@@ -15297,14 +15313,6 @@
       "onboard_time": 1675219590,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 431664,
-      "num": 431664,
-      "word": "民政局回应3男子飞踹拾荒老人",
-      "onboard_time": 1676559755,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 431159,
@@ -16977,6 +16985,14 @@
       "onboard_time": 1675441588,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390836,
+      "num": 390836,
+      "word": "如何看待隐孕入职",
+      "onboard_time": 1676562869,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 390801,
@@ -22707,6 +22723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276896,
+      "num": 276896,
+      "word": "封闭近三年浙江多所大学官宣开放",
+      "onboard_time": 1676561073,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 276836,
       "num": 276836,
       "word": "CJ否认参与SMTOWN收购",
@@ -24089,14 +24113,6 @@
       "onboard_time": 1676245523,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 257161,
-      "num": 158508,
-      "word": "张真源开大G",
-      "onboard_time": 1676561731,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 256927,
@@ -27315,6 +27331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211448,
+      "num": 211448,
+      "word": "星落凝成糖特效",
+      "onboard_time": 1676562394,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211408,
       "num": 211408,
       "word": "严浩翔金发毛线帽造型饭拍",
@@ -29195,6 +29219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190711,
+      "num": 190711,
+      "word": "中国救援队撤离前把物资留给灾区",
+      "onboard_time": 1676560591,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190665,
       "num": 190665,
       "word": "你会买明星潮牌吗",
@@ -29465,6 +29497,14 @@
       "onboard_time": 1675398452,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188475,
+      "num": 188475,
+      "word": "原来看牛吃草这么解压",
+      "onboard_time": 1676562270,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 188452,
@@ -30601,14 +30641,6 @@
       "onboard_time": 1676339971,
       "rank": 41,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 178519,
-      "num": 178519,
-      "word": "中国救援队撤离前把物资留给灾区",
-      "onboard_time": 1676560591,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178455,
@@ -33059,6 +33091,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 154008,
+      "num": 154008,
+      "word": "论文导师能有多操心",
+      "onboard_time": 1676563231,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153915,
       "num": 153915,
       "word": "变成电子宠物有多可怕",
@@ -34659,14 +34699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 130555,
-      "num": 130555,
-      "word": "封闭近三年浙江多所大学官宣开放",
-      "onboard_time": 1676561073,
-      "rank": 47,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 130438,
       "num": 131078,
       "word": "甜咸元宵大作战",
@@ -35587,6 +35619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 99035,
+      "num": 99035,
+      "word": "时装周",
+      "onboard_time": 1676562209,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 98788,
       "num": 98788,
       "word": "小佩顿回归勇士",
@@ -35737,6 +35777,14 @@
       "onboard_time": 1675163257,
       "rank": 38,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 89291,
+      "num": 89291,
+      "word": "说个名字怎么扭扭捏捏的",
+      "onboard_time": 1676564125,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 88418,

@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676561761138,
+  "endTime": 1676564833275,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -193,6 +193,14 @@
       "onboard_time": 1676272968,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2748115,
+      "num": 488447,
+      "word": "张真源开大G",
+      "onboard_time": 1676561731,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2745513,
@@ -1283,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1096944,
+      "num": 1096944,
+      "word": "乌啦啦 邯郸",
+      "onboard_time": 1676559093,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1095869,
       "num": 1095869,
       "word": "苏乞儿",
@@ -1507,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 975961,
-      "num": 975961,
-      "word": "乌啦啦 邯郸",
-      "onboard_time": 1676559093,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
       "raw_hot": 972175,
       "num": 972175,
       "word": "女子情人节收到1千克黄金爱心",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1676256087,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 955135,
+      "num": 955135,
+      "word": "很内向",
+      "onboard_time": 1676560234,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 948602,
@@ -2201,6 +2217,14 @@
       "onboard_time": 1676276385,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 739980,
+      "num": 739980,
+      "word": "高启强为什么解领带擦玻璃",
+      "onboard_time": 1676560891,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 738830,
@@ -3331,6 +3355,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 523649,
+      "num": 523649,
+      "word": "民政局回应3男子飞踹拾荒老人",
+      "onboard_time": 1676559755,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 523061,
       "num": 523061,
       "word": "升降火锅",
@@ -3433,14 +3465,6 @@
       "onboard_time": 1676263415,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 514482,
-      "num": 514482,
-      "word": "很内向",
-      "onboard_time": 1676560234,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 513945,
@@ -3737,14 +3761,6 @@
       "onboard_time": 1676387317,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 477889,
-      "num": 477889,
-      "word": "高启强为什么解领带擦玻璃",
-      "onboard_time": 1676560891,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 476574,
@@ -4187,14 +4203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431664,
-      "num": 431664,
-      "word": "民政局回应3男子飞踹拾荒老人",
-      "onboard_time": 1676559755,
-      "rank": 37,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 431159,
       "num": 431159,
       "word": "东风快递招人",
@@ -4569,6 +4577,14 @@
       "onboard_time": 1676332832,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 390836,
+      "num": 390836,
+      "word": "如何看待隐孕入职",
+      "onboard_time": 1676562869,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 390801,
@@ -6035,6 +6051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276896,
+      "num": 276896,
+      "word": "封闭近三年浙江多所大学官宣开放",
+      "onboard_time": 1676561073,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 276836,
       "num": 276836,
       "word": "CJ否认参与SMTOWN收购",
@@ -6361,14 +6385,6 @@
       "onboard_time": 1676245523,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 257161,
-      "num": 158508,
-      "word": "张真源开大G",
-      "onboard_time": 1676561731,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 256911,
@@ -7147,6 +7163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211448,
+      "num": 211448,
+      "word": "星落凝成糖特效",
+      "onboard_time": 1676562394,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211329,
       "num": 211329,
       "word": "TES对战iG",
@@ -7587,6 +7611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190711,
+      "num": 190711,
+      "word": "中国救援队撤离前把物资留给灾区",
+      "onboard_time": 1676560591,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190665,
       "num": 190665,
       "word": "你会买明星潮牌吗",
@@ -7657,6 +7689,14 @@
       "onboard_time": 1676513910,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188475,
+      "num": 188475,
+      "word": "原来看牛吃草这么解压",
+      "onboard_time": 1676562270,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 187943,
@@ -7881,14 +7921,6 @@
       "onboard_time": 1676339971,
       "rank": 41,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 178519,
-      "num": 178519,
-      "word": "中国救援队撤离前把物资留给灾区",
-      "onboard_time": 1676560591,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178437,
@@ -8507,6 +8539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 154008,
+      "num": 154008,
+      "word": "论文导师能有多操心",
+      "onboard_time": 1676563231,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153720,
       "num": 153720,
       "word": "狂飙的配角",
@@ -8835,14 +8875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130555,
-      "num": 130555,
-      "word": "封闭近三年浙江多所大学官宣开放",
-      "onboard_time": 1676561073,
-      "rank": 47,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 129045,
       "num": 129045,
       "word": "阿森纳vs曼城",
@@ -9019,6 +9051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99035,
+      "num": 99035,
+      "word": "时装周",
+      "onboard_time": 1676562209,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 98260,
       "num": 98260,
       "word": "海贼王1051",
@@ -9033,6 +9073,14 @@
       "onboard_time": 1676224996,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89291,
+      "num": 89291,
+      "word": "说个名字怎么扭扭捏捏的",
+      "onboard_time": 1676564125,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 88418,
