@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676529555920,
+  "endTime": 1676531846720,
   "band_list": [
     {
       "raw_hot": 8185446,
@@ -25,6 +25,14 @@
       "onboard_time": 1676522132,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3951788,
+      "num": 3951788,
+      "word": "石家庄",
+      "onboard_time": 1676531250,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3685094,
@@ -868,7 +876,7 @@
     },
     {
       "raw_hot": 1212165,
-      "num": 623276,
+      "num": 640357,
       "word": "广东一男子朝女子泼硫酸连捅数刀",
       "onboard_time": 1676525072,
       "rank": 17,
@@ -1227,6 +1235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1006574,
+      "num": 1006574,
+      "word": "李秀满 我的心好痛",
+      "onboard_time": 1676529509,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1002772,
       "num": 1002772,
       "word": "张颂文曾指导王一博演至尊宝",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1676505145,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 942013,
+      "num": 942013,
+      "word": "颖儿手滑点赞付辛博井柏然相关微博",
+      "onboard_time": 1676530831,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 932981,
@@ -2283,6 +2307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 639993,
+      "num": 639993,
+      "word": "郑恺第一次为苗苗准备生日惊喜",
+      "onboard_time": 1676527351,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 639566,
       "num": 639566,
       "word": "婚房烂尾10年业主住进毛坯房",
@@ -2643,6 +2675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 563271,
+      "num": 563271,
+      "word": "学生恶作剧用60个闹钟图标挡课件",
+      "onboard_time": 1676530287,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 559755,
       "num": 512443,
       "word": "谢娜半永久猫眼妆教程vlog",
@@ -2969,14 +3009,6 @@
       "onboard_time": 1676516487,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 508957,
-      "num": 508957,
-      "word": "郑恺第一次为苗苗准备生日惊喜",
-      "onboard_time": 1676527351,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 507783,
@@ -3651,6 +3683,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 421186,
+      "num": 421186,
+      "word": "杜华要把儿子送到黄奕家减肥",
+      "onboard_time": 1676528790,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 419863,
+      "num": 419863,
+      "word": "权志龙现身NBA赛场",
+      "onboard_time": 1676529929,
+      "rank": 19,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 418252,
       "num": 418252,
       "word": "打工仔小张",
@@ -4153,6 +4201,14 @@
       "onboard_time": 1676256927,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 367353,
+      "num": 367353,
+      "word": "多地延长房贷期限年龄意味着什么",
+      "onboard_time": 1676528188,
+      "rank": 27,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 366958,
@@ -4747,6 +4803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307914,
+      "num": 307914,
+      "word": "现房销售会引起房价上涨吗",
+      "onboard_time": 1676528490,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 307664,
       "num": 307664,
       "word": "疑似aespa新歌剧透",
@@ -4777,6 +4841,14 @@
       "onboard_time": 1676252065,
       "rank": 35,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 305886,
+      "num": 305886,
+      "word": "女子丽江60元买2串烧烤仅8只虫",
+      "onboard_time": 1676531189,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305723,
@@ -4857,6 +4929,14 @@
       "onboard_time": 1676449653,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 301291,
+      "num": 301291,
+      "word": "罗永浩交个朋友公司被曝欠薪",
+      "onboard_time": 1676530528,
+      "rank": 25,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 298886,
@@ -4969,14 +5049,6 @@
       "onboard_time": 1676334035,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289972,
-      "num": 289972,
-      "word": "杜华要把儿子送到黄奕家减肥",
-      "onboard_time": 1676528790,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 289060,
@@ -5569,14 +5641,6 @@
       "onboard_time": 1676381674,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 254569,
-      "num": 254569,
-      "word": "多地延长房贷期限年龄意味着什么",
-      "onboard_time": 1676528188,
-      "rank": 27,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 252716,
@@ -6443,6 +6507,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 197107,
+      "num": 197107,
+      "word": "白龙马都没小狗能驼",
+      "onboard_time": 1676528968,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197087,
       "num": 197087,
       "word": "我的情人节状态",
@@ -6553,6 +6625,14 @@
       "onboard_time": 1676331683,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 192566,
+      "num": 192566,
+      "word": "林孝埈以梦为马不负此生",
+      "onboard_time": 1676530889,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 192466,
@@ -6723,6 +6803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186947,
+      "num": 186947,
+      "word": "张若昀接魏晨的梗",
+      "onboard_time": 1676531012,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186898,
       "num": 186898,
       "word": "男子质疑交通执法有违规遭跨省抓捕",
@@ -6859,14 +6947,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 181845,
-      "num": 181845,
-      "word": "现房销售会引起房价上涨吗",
-      "onboard_time": 1676528490,
-      "rank": 45,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 179752,
       "num": 179752,
       "word": "高叶谈与陈书婷的相遇",
@@ -6953,6 +7033,14 @@
       "onboard_time": 1676379156,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175617,
+      "num": 175617,
+      "word": "杨超越片场喂猫",
+      "onboard_time": 1676530051,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 175497,
@@ -7451,14 +7539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152878,
-      "num": 152878,
-      "word": "李秀满 我的心好痛",
-      "onboard_time": 1676529509,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152769,
       "num": 152769,
       "word": "280岁古玉兰提前开花报春",
@@ -7585,14 +7665,6 @@
       "onboard_time": 1676266253,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142827,
-      "num": 142827,
-      "word": "白龙马都没小狗能驼",
-      "onboard_time": 1676528968,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 142693,
@@ -7819,6 +7891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118625,
+      "num": 118625,
+      "word": "警方回应邢台男子背后飞踹拾荒老人",
+      "onboard_time": 1676531732,
+      "rank": 45,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 117938,
       "num": 117938,
       "word": "利兹联vs曼联",
@@ -7849,6 +7929,14 @@
       "onboard_time": 1676214275,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113148,
+      "num": 113148,
+      "word": "北京多个地铁口有人扫码送大鹅",
+      "onboard_time": 1676531794,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110211,
