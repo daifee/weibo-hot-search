@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676589598134,
+  "endTime": 1676590422318,
   "band_list": [
     {
       "raw_hot": 2748115,
@@ -27,6 +27,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 961040,
+      "num": 961040,
+      "word": "高启强为什么解领带擦玻璃",
+      "onboard_time": 1676560891,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 955135,
       "num": 955135,
       "word": "很内向",
@@ -43,12 +51,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 769385,
-      "num": 769385,
-      "word": "高启强为什么解领带擦玻璃",
-      "onboard_time": 1676560891,
-      "rank": 5,
-      "category": "影视"
+      "raw_hot": 716527,
+      "num": 491992,
+      "word": "男子因亡父赔偿金分割生怨撞死母亲",
+      "onboard_time": 1676585053,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 665521,
+      "num": 528366,
+      "word": "农村婚恋现状不容乐观",
+      "onboard_time": 1676557290,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 646392,
@@ -67,12 +83,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 605012,
-      "num": 491992,
-      "word": "男子因亡父赔偿金分割生怨撞死母亲",
-      "onboard_time": 1676585053,
-      "rank": 31,
-      "category": "社会负面"
+      "raw_hot": 603887,
+      "num": 489687,
+      "word": "大三男生换乘32辆公交从合肥到上海上学",
+      "onboard_time": 1676544450,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556236,
@@ -80,14 +96,6 @@
       "word": "女子两套房养50只流浪猫自己吃杯面",
       "onboard_time": 1676555551,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528366,
-      "num": 528366,
-      "word": "农村婚恋现状不容乐观",
-      "onboard_time": 1676557290,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -99,28 +107,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 493091,
+      "num": 493091,
+      "word": "男子购买1200元年货32天仍未送达",
+      "onboard_time": 1676558851,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489877,
       "num": 489877,
       "word": "水牛",
       "onboard_time": 1676557118,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 489687,
-      "num": 489687,
-      "word": "大三男生换乘32辆公交从合肥到上海上学",
-      "onboard_time": 1676544450,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477785,
-      "num": 477785,
-      "word": "男子购买1200元年货32天仍未送达",
-      "onboard_time": 1676558851,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 467471,
@@ -131,8 +131,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 390836,
-      "num": 390836,
+      "raw_hot": 393750,
+      "num": 393750,
       "word": "如何看待隐孕入职",
       "onboard_time": 1676562869,
       "rank": 14,
@@ -147,8 +147,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 282188,
-      "num": 282188,
+      "raw_hot": 294305,
+      "num": 294305,
       "word": "我们取得疫情防控重大决定性胜利",
       "onboard_time": 1676547152,
       "rank": 17,
@@ -169,6 +169,14 @@
       "onboard_time": 1676555731,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263273,
+      "num": 263273,
+      "word": "因衣服长时间放购物车被客服嘲讽",
+      "onboard_time": 1676540431,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261803,
@@ -211,12 +219,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 239597,
-      "num": 239597,
-      "word": "因衣服长时间放购物车被客服嘲讽",
-      "onboard_time": 1676540431,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 229364,
+      "num": 229364,
+      "word": "巴萨vs曼联",
+      "onboard_time": 1676589079,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 217714,
@@ -235,6 +243,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210048,
+      "num": 210048,
+      "word": "中国救援队撤离前把物资留给灾区",
+      "onboard_time": 1676560591,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205306,
+      "num": 205306,
+      "word": "周扬青婚纱",
+      "onboard_time": 1676589921,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199869,
       "num": 199869,
       "word": "论文导师能有多操心",
@@ -251,12 +275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190711,
-      "num": 190711,
-      "word": "中国救援队撤离前把物资留给灾区",
-      "onboard_time": 1676560591,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 193673,
+      "num": 193673,
+      "word": "如何看待打工仔小张走红",
+      "onboard_time": 1676588719,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 188475,
@@ -299,12 +323,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169208,
+      "num": 169208,
+      "word": "庞博的嘴又在稳定输出了",
+      "onboard_time": 1676588958,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162764,
       "num": 162764,
       "word": "BoysPlanet",
       "onboard_time": 1676560474,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156534,
+      "num": 156534,
+      "word": "曼联",
+      "onboard_time": 1676590162,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 149198,
@@ -315,28 +355,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141741,
-      "num": 141741,
+      "raw_hot": 144533,
+      "num": 144533,
       "word": "西安碳水天堂不是白叫的",
       "onboard_time": 1676582592,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 139387,
-      "num": 139387,
-      "word": "巴萨vs曼联",
-      "onboard_time": 1676589079,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 136582,
-      "num": 136582,
-      "word": "如何看待打工仔小张走红",
-      "onboard_time": 1676588719,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 133439,
@@ -387,6 +411,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 119039,
+      "num": 119039,
+      "word": "华兴资本创始人包凡失联",
+      "onboard_time": 1676556812,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 118903,
       "num": 118903,
       "word": "说个名字怎么扭扭捏捏的",
@@ -409,22 +441,6 @@
       "onboard_time": 1676541511,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114331,
-      "num": 114331,
-      "word": "华兴资本创始人包凡失联",
-      "onboard_time": 1676556812,
-      "rank": 39,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 105896,
-      "num": 105896,
-      "word": "庞博的嘴又在稳定输出了",
-      "onboard_time": 1676588958,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 103830,
@@ -491,8 +507,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 72659,
-      "num": 72659,
+      "raw_hot": 74615,
+      "num": 74615,
       "word": "适合懒人的不费力穿搭",
       "onboard_time": 1676581452,
       "rank": 45,
@@ -507,8 +523,8 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 44559,
-      "num": 44559,
+      "raw_hot": 49858,
+      "num": 49858,
       "word": "2023LCK春季赛",
       "onboard_time": 1676572334,
       "rank": 47,

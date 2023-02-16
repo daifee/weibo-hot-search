@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676589598134,
+  "endTime": 1676590422318,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -1531,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 961040,
+      "num": 961040,
+      "word": "高启强为什么解领带擦玻璃",
+      "onboard_time": 1676560891,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 958968,
       "num": 958968,
       "word": "警方通报女子被丈夫割喉",
@@ -2091,14 +2099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 769385,
-      "num": 769385,
-      "word": "高启强为什么解领带擦玻璃",
-      "onboard_time": 1676560891,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 760619,
       "num": 760619,
       "word": "武康路 郁金香",
@@ -2305,6 +2305,14 @@
       "onboard_time": 1676444319,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716527,
+      "num": 491992,
+      "word": "男子因亡父赔偿金分割生怨撞死母亲",
+      "onboard_time": 1676585053,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 716099,
@@ -2873,14 +2881,6 @@
       "onboard_time": 1676396178,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 605012,
-      "num": 491992,
-      "word": "男子因亡父赔偿金分割生怨撞死母亲",
-      "onboard_time": 1676585053,
-      "rank": 31,
-      "category": "社会负面"
     },
     {
       "raw_hot": 603222,
@@ -4563,6 +4563,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 393750,
+      "num": 393750,
+      "word": "如何看待隐孕入职",
+      "onboard_time": 1676562869,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 393172,
       "num": 393172,
       "word": "巨型爆浆曲奇",
@@ -4585,14 +4593,6 @@
       "onboard_time": 1676332832,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 390836,
-      "num": 390836,
-      "word": "如何看待隐孕入职",
-      "onboard_time": 1676562869,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 390801,
@@ -6835,6 +6835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229364,
+      "num": 229364,
+      "word": "巴萨vs曼联",
+      "onboard_time": 1676589079,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229359,
       "num": 229359,
       "word": "德布劳内躲水瓶",
@@ -7195,6 +7203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210048,
+      "num": 210048,
+      "word": "中国救援队撤离前把物资留给灾区",
+      "onboard_time": 1676560591,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209591,
       "num": 209591,
       "word": "低价机票投放为何重要",
@@ -7241,6 +7257,14 @@
       "onboard_time": 1676372314,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205306,
+      "num": 205306,
+      "word": "周扬青婚纱",
+      "onboard_time": 1676589921,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 205095,
@@ -7515,6 +7539,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 193673,
+      "num": 193673,
+      "word": "如何看待打工仔小张走红",
+      "onboard_time": 1676588719,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 193446,
       "num": 193446,
       "word": "郑州地铁座位摆放情人节玫瑰花",
@@ -7625,14 +7657,6 @@
       "onboard_time": 1676459370,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190711,
-      "num": 190711,
-      "word": "中国救援队撤离前把物资留给灾区",
-      "onboard_time": 1676560591,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190665,
@@ -8259,6 +8283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169208,
+      "num": 169208,
+      "word": "庞博的嘴又在稳定输出了",
+      "onboard_time": 1676588958,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169037,
       "num": 169037,
       "word": "泰坦尼克号重映票房",
@@ -8499,6 +8531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156534,
+      "num": 156534,
+      "word": "曼联",
+      "onboard_time": 1676590162,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156200,
       "num": 156200,
       "word": "武林有侠气",
@@ -8699,6 +8739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144533,
+      "num": 144533,
+      "word": "西安碳水天堂不是白叫的",
+      "onboard_time": 1676582592,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 143878,
       "num": 143878,
       "word": "规范使用中国地图一点都不能少",
@@ -8747,14 +8795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141741,
-      "num": 141741,
-      "word": "西安碳水天堂不是白叫的",
-      "onboard_time": 1676582592,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
       "raw_hot": 140156,
       "num": 140156,
       "word": "东风快递等你加入",
@@ -8769,14 +8809,6 @@
       "onboard_time": 1676529213,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139387,
-      "num": 139387,
-      "word": "巴萨vs曼联",
-      "onboard_time": 1676589079,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 138557,
@@ -8809,14 +8841,6 @@
       "onboard_time": 1676529028,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136582,
-      "num": 136582,
-      "word": "如何看待打工仔小张走红",
-      "onboard_time": 1676588719,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 136458,
@@ -9067,14 +9091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 105896,
-      "num": 105896,
-      "word": "庞博的嘴又在稳定输出了",
-      "onboard_time": 1676588958,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105210,
       "num": 1468867,
       "word": "中国救援人员加油保重",
@@ -9203,8 +9219,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72659,
-      "num": 72659,
+      "raw_hot": 74615,
+      "num": 74615,
       "word": "适合懒人的不费力穿搭",
       "onboard_time": 1676581452,
       "rank": 45,
@@ -9283,6 +9299,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 49858,
+      "num": 49858,
+      "word": "2023LCK春季赛",
+      "onboard_time": 1676572334,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 48382,
       "num": 48382,
       "word": "3千多年前的大型聚落遗址重见天日",
@@ -9297,14 +9321,6 @@
       "onboard_time": 1676402773,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44559,
-      "num": 44559,
-      "word": "2023LCK春季赛",
-      "onboard_time": 1676572334,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 43862,
