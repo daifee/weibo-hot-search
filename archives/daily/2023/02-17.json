@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676579628904,
+  "endTime": 1676582218416,
   "band_list": [
     {
       "raw_hot": 2748115,
@@ -465,6 +465,14 @@
       "onboard_time": 1676574494,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16004,
+      "num": 16004,
+      "word": "适合懒人的不费力穿搭",
+      "onboard_time": 1676581452,
+      "rank": 45,
+      "category": "时尚"
     }
   ],
   "hotgov_list": [
