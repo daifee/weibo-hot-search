@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676512937687,
+  "endTime": 1676515770583,
   "band_list": [
     {
       "raw_hot": 8185446,
@@ -9,6 +9,14 @@
       "onboard_time": 1676509648,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2756415,
+      "num": 2756415,
+      "word": "吴刚谈儿子出演高晓晨",
+      "onboard_time": 1676513789,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2204275,
@@ -27,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1327024,
+      "num": 1327024,
+      "word": "暂停输入大陆后台湾水果价格暴跌",
+      "onboard_time": 1676510907,
+      "rank": 25,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1197566,
       "num": 1197566,
       "word": "警方回应网红骑摩托上高速被拦后摔车",
@@ -40,6 +56,14 @@
       "word": "台湾几千吨凤梨释迦滞销",
       "onboard_time": 1676473533,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1178791,
+      "num": 1178791,
+      "word": "弟弟陪姐姐看病双双确诊甲状腺癌",
+      "onboard_time": 1676514209,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -91,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 879480,
+      "num": 879480,
+      "word": "刘也澄清选择退出娱乐圈",
+      "onboard_time": 1676515291,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 863536,
       "num": 863536,
       "word": "重紫 花千骨",
@@ -99,12 +131,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 848915,
-      "num": 848915,
-      "word": "暂停输入大陆后台湾水果价格暴跌",
-      "onboard_time": 1676510907,
-      "rank": 25,
-      "category": "社会新闻,财经"
+      "raw_hot": 844544,
+      "num": 844544,
+      "word": "李成洙曝李秀满海外偷税漏税",
+      "onboard_time": 1676513009,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 844463,
@@ -171,6 +203,22 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 541396,
+      "num": 541396,
+      "word": "男子听邻桌聊天发现一逃犯",
+      "onboard_time": 1676513491,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525973,
+      "num": 525973,
+      "word": "美俄亥俄州官员承认污染物流入俄亥俄河",
+      "onboard_time": 1676512292,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520919,
       "num": 520919,
       "word": "苹果今年6月推出首款头显",
@@ -209,6 +257,14 @@
       "onboard_time": 1676479402,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481515,
+      "num": 481515,
+      "word": "小美人鱼",
+      "onboard_time": 1676511447,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 453377,
@@ -259,12 +315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408888,
-      "num": 408888,
-      "word": "小美人鱼",
-      "onboard_time": 1676511447,
-      "rank": 34,
+      "raw_hot": 391972,
+      "num": 391972,
+      "word": "徐工采访",
+      "onboard_time": 1676513851,
+      "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 365134,
+      "num": 365134,
+      "word": "东风快递招人",
+      "onboard_time": 1676513310,
+      "rank": 17,
+      "category": "军事"
     },
     {
       "raw_hot": 325239,
@@ -283,20 +347,20 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 314664,
-      "num": 314664,
-      "word": "美俄亥俄州官员承认污染物流入俄亥俄河",
-      "onboard_time": 1676512292,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314134,
       "num": 314134,
       "word": "浙江一男生获3次保送清北的机会",
       "onboard_time": 1676497093,
       "rank": 11,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 307302,
+      "num": 307302,
+      "word": "上海第三机场为什么建在南通",
+      "onboard_time": 1676514448,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291196,
@@ -403,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222433,
+      "num": 222433,
+      "word": "多家银行要求加快处理提前还款申请",
+      "onboard_time": 1676511566,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 221674,
       "num": 221674,
       "word": "卜尔Q",
@@ -419,20 +491,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213976,
-      "num": 213976,
-      "word": "多家银行要求加快处理提前还款申请",
-      "onboard_time": 1676511566,
-      "rank": 47,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 204171,
       "num": 204171,
       "word": "海关查获一批违背一个中国原则教材",
       "onboard_time": 1676470655,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 203541,
+      "num": 203541,
+      "word": "猫来带你回家",
+      "onboard_time": 1676512351,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 202612,
@@ -459,12 +531,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190665,
+      "num": 190665,
+      "word": "你会买明星潮牌吗",
+      "onboard_time": 1676513551,
+      "rank": 36,
+      "category": "社会议题,艺人"
+    },
+    {
       "raw_hot": 188956,
       "num": 188956,
       "word": "蒋鹤婷恋综最快下车女嘉宾",
       "onboard_time": 1676465672,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188604,
+      "num": 188604,
+      "word": "陈星旭李兰迪星落凝成糖今晚开播",
+      "onboard_time": 1676513910,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 187474,
@@ -491,14 +579,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 183937,
-      "num": 183937,
-      "word": "猫来带你回家",
-      "onboard_time": 1676512351,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 171028,
       "num": 171028,
       "word": "在芝加哥中国公民加强安全防范",
@@ -521,6 +601,14 @@
       "onboard_time": 1676505325,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163608,
+      "num": 163608,
+      "word": "男童无微不至照顾脑瘫妈妈",
+      "onboard_time": 1676515291,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 163578,
