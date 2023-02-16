@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676586880927,
+  "endTime": 1676589598134,
   "band_list": [
     {
       "raw_hot": 2748115,
@@ -43,8 +43,8 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 739980,
-      "num": 739980,
+      "raw_hot": 769385,
+      "num": 769385,
       "word": "高启强为什么解领带擦玻璃",
       "onboard_time": 1676560891,
       "rank": 5,
@@ -67,11 +67,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 605012,
+      "num": 491992,
+      "word": "男子因亡父赔偿金分割生怨撞死母亲",
+      "onboard_time": 1676585053,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 556236,
       "num": 556236,
       "word": "女子两套房养50只流浪猫自己吃杯面",
       "onboard_time": 1676555551,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528366,
+      "num": 528366,
+      "word": "农村婚恋现状不容乐观",
+      "onboard_time": 1676557290,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -91,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 489687,
+      "num": 489687,
+      "word": "大三男生换乘32辆公交从合肥到上海上学",
+      "onboard_time": 1676544450,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477785,
       "num": 477785,
       "word": "男子购买1200元年货32天仍未送达",
@@ -107,28 +131,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 442990,
-      "num": 442990,
-      "word": "农村婚恋现状不容乐观",
-      "onboard_time": 1676557290,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 390836,
       "num": 390836,
       "word": "如何看待隐孕入职",
       "onboard_time": 1676562869,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 382667,
-      "num": 382667,
-      "word": "大三男生换乘32辆公交从合肥到上海上学",
-      "onboard_time": 1676544450,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357110,
@@ -203,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239597,
+      "num": 239597,
+      "word": "因衣服长时间放购物车被客服嘲讽",
+      "onboard_time": 1676540431,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217714,
       "num": 217714,
       "word": "朴宰范Tiffany听到2PM的表情",
@@ -233,14 +249,6 @@
       "onboard_time": 1676561434,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192252,
-      "num": 192252,
-      "word": "因衣服长时间放购物车被客服嘲讽",
-      "onboard_time": 1676540431,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190711,
@@ -307,6 +315,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141741,
+      "num": 141741,
+      "word": "西安碳水天堂不是白叫的",
+      "onboard_time": 1676582592,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 139387,
+      "num": 139387,
+      "word": "巴萨vs曼联",
+      "onboard_time": 1676589079,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136582,
+      "num": 136582,
+      "word": "如何看待打工仔小张走红",
+      "onboard_time": 1676588719,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 133439,
       "num": 112882,
       "word": "王子浩镜头",
@@ -363,14 +395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117746,
-      "num": 94824,
-      "word": "男子因亡父赔偿金分割生怨撞死母亲",
-      "onboard_time": 1676585053,
-      "rank": 31,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 116307,
       "num": 956718,
       "word": "这些铁路有望今年开通",
@@ -393,6 +417,14 @@
       "onboard_time": 1676556812,
       "rank": 39,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 105896,
+      "num": 105896,
+      "word": "庞博的嘴又在稳定输出了",
+      "onboard_time": 1676588958,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 103830,
@@ -419,6 +451,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 97451,
+      "num": 97451,
+      "word": "陈哲远偷偷藏不住路透掐人中的原因",
+      "onboard_time": 1676588899,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 97096,
       "num": 97096,
       "word": "如何走出分手的痛苦",
@@ -443,20 +483,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 93065,
-      "num": 93065,
-      "word": "西安碳水天堂不是白叫的",
-      "onboard_time": 1676582592,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
       "raw_hot": 80178,
       "num": 80178,
       "word": "XYG对战DYG",
       "onboard_time": 1676552308,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 72659,
+      "num": 72659,
+      "word": "适合懒人的不费力穿搭",
+      "onboard_time": 1676581452,
+      "rank": 45,
+      "category": "时尚"
     },
     {
       "raw_hot": 66406,
@@ -467,16 +507,8 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 37263,
-      "num": 37263,
-      "word": "适合懒人的不费力穿搭",
-      "onboard_time": 1676581452,
-      "rank": 45,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 34037,
-      "num": 34037,
+      "raw_hot": 44559,
+      "num": 44559,
       "word": "2023LCK春季赛",
       "onboard_time": 1676572334,
       "rank": 47,
