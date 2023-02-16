@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676528670004,
+  "endTime": 1676529555920,
   "band_list": [
     {
       "raw_hot": 8185446,
@@ -67,19 +67,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1831400,
+      "num": 1831400,
+      "word": "伊能静 不是大家都说的就是真的",
+      "onboard_time": 1676526690,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1735515,
       "num": 1735515,
       "word": "王楚然早期回应像刘亦菲",
       "onboard_time": 1676505866,
       "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1726131,
-      "num": 1726131,
-      "word": "伊能静 不是大家都说的就是真的",
-      "onboard_time": 1676526690,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -155,8 +155,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1032409,
-      "num": 1032409,
+      "raw_hot": 1116436,
+      "num": 1116436,
       "word": "景甜方声明",
       "onboard_time": 1676527591,
       "rank": 5,
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 631423,
+      "num": 631423,
+      "word": "送餐小哥一举动揪出113名吸贩毒人员",
+      "onboard_time": 1676524592,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 618339,
       "num": 618339,
       "word": "aespa推迟回归的原因",
@@ -305,14 +313,6 @@
       "onboard_time": 1676513491,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 604476,
-      "num": 604476,
-      "word": "送餐小哥一举动揪出113名吸贩毒人员",
-      "onboard_time": 1676524592,
-      "rank": 46,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 560937,
@@ -387,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 508957,
+      "num": 508957,
+      "word": "郑恺第一次为苗苗准备生日惊喜",
+      "onboard_time": 1676527351,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494897,
       "num": 494897,
       "word": "教育局回应老师用尺狠抽学生手",
@@ -419,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 487466,
+      "num": 487466,
+      "word": "湖人新三巨头合砍70分",
+      "onboard_time": 1676527649,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 485452,
       "num": 485452,
       "word": "上海女子激励男友买车情人节送充电桩",
@@ -449,6 +465,14 @@
       "onboard_time": 1676517691,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 453445,
+      "num": 453445,
+      "word": "李荣浩南京演唱会",
+      "onboard_time": 1676528728,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 453377,
@@ -547,28 +571,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 372259,
-      "num": 372259,
-      "word": "湖人新三巨头合砍70分",
-      "onboard_time": 1676527649,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 371022,
       "num": 371022,
       "word": "一地产公司百岁贷出圈",
       "onboard_time": 1676519312,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 357685,
-      "num": 357685,
-      "word": "郑恺第一次为苗苗准备生日惊喜",
-      "onboard_time": 1676527351,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 355956,
@@ -625,6 +633,14 @@
       "onboard_time": 1676509708,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289972,
+      "num": 289972,
+      "word": "杜华要把儿子送到黄奕家减肥",
+      "onboard_time": 1676528790,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 288787,
@@ -731,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254569,
+      "num": 254569,
+      "word": "多地延长房贷期限年龄意味着什么",
+      "onboard_time": 1676528188,
+      "rank": 27,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 250518,
       "num": 250518,
       "word": "男子用感冒药提炼毒品被判刑",
@@ -827,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205774,
+      "num": 205774,
+      "word": "与君初相识日版预告",
+      "onboard_time": 1676529329,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204171,
       "num": 204171,
       "word": "海关查获一批违背一个中国原则教材",
@@ -883,14 +915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 190968,
-      "num": 190968,
-      "word": "多地延长房贷期限年龄意味着什么",
-      "onboard_time": 1676528188,
-      "rank": 27,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 190665,
       "num": 190665,
       "word": "你会买明星潮牌吗",
@@ -939,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185064,
+      "num": 185064,
+      "word": "詹姆斯复出",
+      "onboard_time": 1676528490,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184165,
       "num": 184165,
       "word": "美国密歇根州立大学发生枪击事件",
@@ -953,6 +985,14 @@
       "onboard_time": 1676527948,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181845,
+      "num": 181845,
+      "word": "现房销售会引起房价上涨吗",
+      "onboard_time": 1676528490,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 179752,
@@ -1083,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152878,
+      "num": 152878,
+      "word": "李秀满 我的心好痛",
+      "onboard_time": 1676529509,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149444,
       "num": 149444,
       "word": "黄多多执导舞台剧演出",
@@ -1107,12 +1155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142827,
+      "num": 142827,
+      "word": "白龙马都没小狗能驼",
+      "onboard_time": 1676528968,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139784,
       "num": 139784,
       "word": "重紫",
       "onboard_time": 1676459613,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139433,
+      "num": 139433,
+      "word": "魏晨说他侦探的回忆在枕边跳动",
+      "onboard_time": 1676529213,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 136970,
@@ -1123,28 +1187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136630,
+      "num": 136630,
+      "word": "刘文正二姨辟谣",
+      "onboard_time": 1676529028,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133083,
       "num": 133083,
       "word": "喝完碳酸饮料一定要用清水漱口",
       "onboard_time": 1676458293,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132640,
-      "num": 132640,
-      "word": "詹姆斯复出",
-      "onboard_time": 1676528490,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 132408,
-      "num": 132408,
-      "word": "现房销售会引起房价上涨吗",
-      "onboard_time": 1676528490,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 129045,
