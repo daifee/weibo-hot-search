@@ -1,0 +1,410 @@
+{
+  "runTime": 1676518585140,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2539466,
+        "num": 2539466,
+        "word": "吴刚谈儿子出演高晓晨",
+        "onboard_time": 1676513789,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1850242,
+        "num": 1850242,
+        "word": "父母高度近视1岁婴儿近视600度",
+        "onboard_time": 1676516669,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13656,
+        "num": 1438457,
+        "word": "文物背后有料有趣的中国故事",
+        "onboard_time": 1676465070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1410161,
+        "num": 1410161,
+        "word": "8岁女孩被同学送2万多钻石项链",
+        "onboard_time": 1676516610,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1249347,
+        "num": 1249347,
+        "word": "弟弟陪姐姐看病双双确诊甲状腺癌",
+        "onboard_time": 1676514209,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858625,
+        "num": 858625,
+        "word": "李成洙曝李秀满海外偷税漏税",
+        "onboard_time": 1676513009,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1922642,
+        "num": 836189,
+        "word": "刘也澄清选择退出娱乐圈",
+        "onboard_time": 1676515291,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776075,
+        "num": 776075,
+        "word": "暂停输入大陆后台湾水果价格暴跌",
+        "onboard_time": 1676510907,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 541269,
+        "num": 541269,
+        "word": "鹿晗潮牌遭吐槽",
+        "onboard_time": 1676474193,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536218,
+        "num": 536218,
+        "word": "内娱渴活人久矣",
+        "onboard_time": 1676505986,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510873,
+        "num": 510873,
+        "word": "老人跳广场舞猝死家属索赔组织者",
+        "onboard_time": 1676516368,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493791,
+        "num": 493791,
+        "word": "可以狂飙但不可以乱飙",
+        "onboard_time": 1676517451,
+        "rank": 11,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 490418,
+        "num": 490418,
+        "word": "郑恺王鹤棣新剧组职场师徒line",
+        "onboard_time": 1676517750,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462765,
+        "num": 462765,
+        "word": "90后爸爸为救女扮青蛙卖气球",
+        "onboard_time": 1676516968,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457494,
+        "num": 457494,
+        "word": "男子听邻桌聊天发现一逃犯",
+        "onboard_time": 1676513491,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453952,
+        "num": 453952,
+        "word": "满江红是岳云鹏第一次演坏人",
+        "onboard_time": 1676517691,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 449426,
+        "num": 449426,
+        "word": "北京房贷最高可贷到95岁",
+        "onboard_time": 1676517507,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 443535,
+        "num": 443535,
+        "word": "邓超听北大学生观后感落泪",
+        "onboard_time": 1676516487,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431159,
+        "num": 431159,
+        "word": "东风快递招人",
+        "onboard_time": 1676513310,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 429295,
+        "num": 429295,
+        "word": "全国人大外事委员会发表声明",
+        "onboard_time": 1676517328,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 658542,
+        "num": 426895,
+        "word": "王楚然早期回应像刘亦菲",
+        "onboard_time": 1676505866,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402914,
+        "num": 402914,
+        "word": "小美人鱼",
+        "onboard_time": 1676511447,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393030,
+        "num": 393030,
+        "word": "上海第三机场为什么建在南通",
+        "onboard_time": 1676514448,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360598,
+        "num": 360598,
+        "word": "美俄亥俄州官员承认污染物流入俄亥俄河",
+        "onboard_time": 1676512292,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344948,
+        "num": 344948,
+        "word": "鹿晗潮牌声明",
+        "onboard_time": 1676510128,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289332,
+        "num": 289332,
+        "word": "aespa推迟回归的原因",
+        "onboard_time": 1676511269,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285086,
+        "num": 285086,
+        "word": "上海欢乐谷过山车出故障滞空十分钟",
+        "onboard_time": 1676509410,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282683,
+        "num": 282683,
+        "word": "徐工采访",
+        "onboard_time": 1676513851,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264437,
+        "num": 264437,
+        "word": "苹果今年6月推出首款头显",
+        "onboard_time": 1676510070,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 262474,
+        "num": 262474,
+        "word": "重紫 花千骨",
+        "onboard_time": 1676469992,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232148,
+        "num": 232148,
+        "word": "你在几岁购入人生第一套房",
+        "onboard_time": 1676517990,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226487,
+        "num": 226487,
+        "word": "台湾几千吨凤梨释迦滞销",
+        "onboard_time": 1676473533,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211668,
+        "num": 211668,
+        "word": "为什么会暗恋一个人十几年",
+        "onboard_time": 1676478444,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210625,
+        "num": 210625,
+        "word": "日本游客排队告别大熊猫香香",
+        "onboard_time": 1676501958,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209940,
+        "num": 209940,
+        "word": "警方回应网红骑摩托上高速被拦后摔车",
+        "onboard_time": 1676494032,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201396,
+        "num": 201396,
+        "word": "林俊杰现场观战篮网",
+        "onboard_time": 1676515949,
+        "rank": 35,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 175265,
+        "num": 175265,
+        "word": "没有我的城主演 张译杨幂",
+        "onboard_time": 1676475510,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172140,
+        "num": 172140,
+        "word": "警方通报职业中专打架致2死2伤",
+        "onboard_time": 1676518169,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 171280,
+        "num": 171280,
+        "word": "RNG拖欠奖金",
+        "onboard_time": 1676505084,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169615,
+        "num": 169615,
+        "word": "女子骗闺蜜68万后让老公别工作",
+        "onboard_time": 1676474131,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164126,
+        "num": 164126,
+        "word": "近视真的会遗传吗",
+        "onboard_time": 1676517871,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159530,
+        "num": 159530,
+        "word": "美国罐车又侧翻剧毒硝酸泄漏",
+        "onboard_time": 1676505145,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159063,
+        "num": 159063,
+        "word": "猫来带你回家",
+        "onboard_time": 1676512351,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158757,
+        "num": 158757,
+        "word": "多家银行要求加快处理提前还款申请",
+        "onboard_time": 1676511566,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 149403,
+        "num": 149403,
+        "word": "广东交警回应高速为何禁行摩托",
+        "onboard_time": 1676507429,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141798,
+        "num": 141798,
+        "word": "菲律宾发生6.1级地震",
+        "onboard_time": 1676507007,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136730,
+        "num": 136730,
+        "word": "男童无微不至照顾脑瘫妈妈",
+        "onboard_time": 1676515291,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 127662,
+        "num": 127662,
+        "word": "40岁男子报复10岁小孩连划7车",
+        "onboard_time": 1676471734,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98648,
+        "num": 124436,
+        "word": "吉利银河来了",
+        "onboard_time": 1676516128,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 122055,
+        "num": 122055,
+        "word": "2022年度退补税怎么办理",
+        "onboard_time": 1676511989,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#锚定发展加把劲#"
+    }
+  }
+}
