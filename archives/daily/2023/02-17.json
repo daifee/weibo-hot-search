@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676585905903,
+  "endTime": 1676586880927,
   "band_list": [
     {
       "raw_hot": 2748115,
@@ -363,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117746,
+      "num": 94824,
+      "word": "男子因亡父赔偿金分割生怨撞死母亲",
+      "onboard_time": 1676585053,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 116307,
       "num": 956718,
       "word": "这些铁路有望今年开通",
@@ -435,20 +443,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 93065,
+      "num": 93065,
+      "word": "西安碳水天堂不是白叫的",
+      "onboard_time": 1676582592,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 80178,
       "num": 80178,
       "word": "XYG对战DYG",
       "onboard_time": 1676552308,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 71835,
-      "num": 71835,
-      "word": "西安碳水天堂不是白叫的",
-      "onboard_time": 1676582592,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 66406,
@@ -459,12 +467,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 55550,
-      "num": 27254,
-      "word": "男子因亡父赔偿金分割生怨撞死母亲",
-      "onboard_time": 1676585053,
-      "rank": 31,
-      "category": "社会负面"
+      "raw_hot": 37263,
+      "num": 37263,
+      "word": "适合懒人的不费力穿搭",
+      "onboard_time": 1676581452,
+      "rank": 45,
+      "category": "时尚"
     },
     {
       "raw_hot": 34037,
@@ -481,14 +489,6 @@
       "onboard_time": 1676574494,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26805,
-      "num": 26805,
-      "word": "适合懒人的不费力穿搭",
-      "onboard_time": 1676581452,
-      "rank": 45,
-      "category": "时尚"
     }
   ],
   "hotgov_list": [
