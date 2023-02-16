@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676525622495,
+  "endTime": 1676528670004,
   "band_list": [
     {
       "raw_hot": 8185446,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3251102,
-      "num": 1611616,
+      "num": 1739590,
       "word": "王诗龄好瘦",
       "onboard_time": 1676523995,
       "rank": 3,
@@ -59,11 +59,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1845676,
+      "num": 1845676,
+      "word": "吴刚回应整容风波",
+      "onboard_time": 1676526449,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1735515,
       "num": 1735515,
       "word": "王楚然早期回应像刘亦菲",
       "onboard_time": 1676505866,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1726131,
+      "num": 1726131,
+      "word": "伊能静 不是大家都说的就是真的",
+      "onboard_time": 1676526690,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -107,6 +123,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1212165,
+      "num": 623276,
+      "word": "广东一男子朝女子泼硫酸连捅数刀",
+      "onboard_time": 1676525072,
+      "rank": 17,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1197566,
       "num": 1197566,
       "word": "警方回应网红骑摩托上高速被拦后摔车",
@@ -129,6 +153,14 @@
       "onboard_time": 1676505986,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1032409,
+      "num": 1032409,
+      "word": "景甜方声明",
+      "onboard_time": 1676527591,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 988592,
@@ -273,6 +305,14 @@
       "onboard_time": 1676513491,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 604476,
+      "num": 604476,
+      "word": "送餐小哥一举动揪出113名吸贩毒人员",
+      "onboard_time": 1676524592,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 560937,
@@ -491,14 +531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 407431,
-      "num": 407431,
-      "word": "送餐小哥一举动揪出113名吸贩毒人员",
-      "onboard_time": 1676524592,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 391972,
       "num": 391972,
       "word": "徐工采访",
@@ -507,12 +539,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 379229,
-      "num": 379229,
-      "word": "广东一男子朝女子泼硫酸连捅数刀",
-      "onboard_time": 1676525072,
-      "rank": 17,
-      "category": "社会负面"
+      "raw_hot": 385951,
+      "num": 385951,
+      "word": "喻文波宋义进合体封面",
+      "onboard_time": 1676525970,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 372259,
+      "num": 372259,
+      "word": "湖人新三巨头合砍70分",
+      "onboard_time": 1676527649,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 371022,
@@ -521,6 +561,14 @@
       "onboard_time": 1676519312,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 357685,
+      "num": 357685,
+      "word": "郑恺第一次为苗苗准备生日惊喜",
+      "onboard_time": 1676527351,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 355956,
@@ -835,6 +883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190968,
+      "num": 190968,
+      "word": "多地延长房贷期限年龄意味着什么",
+      "onboard_time": 1676528188,
+      "rank": 27,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 190665,
       "num": 190665,
       "word": "你会买明星潮牌吗",
@@ -891,6 +947,30 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 182333,
+      "num": 182333,
+      "word": "湖人战胜鹈鹕",
+      "onboard_time": 1676527948,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179752,
+      "num": 179752,
+      "word": "高叶谈与陈书婷的相遇",
+      "onboard_time": 1676525852,
+      "rank": 29,
+      "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 177363,
+      "num": 177363,
+      "word": "内娱还有哪些宝藏演员",
+      "onboard_time": 1676527052,
+      "rank": 30,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 171385,
       "num": 171385,
       "word": "银行辟谣南宁房贷能还到100岁",
@@ -913,6 +993,14 @@
       "onboard_time": 1676505805,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169761,
+      "num": 169761,
+      "word": "Haerin今日活动生图",
+      "onboard_time": 1676526329,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 167093,
@@ -987,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153227,
+      "num": 153227,
+      "word": "NBA",
+      "onboard_time": 1676528188,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149444,
       "num": 149444,
       "word": "黄多多执导舞台剧演出",
@@ -1033,6 +1129,22 @@
       "onboard_time": 1676458293,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132640,
+      "num": 132640,
+      "word": "詹姆斯复出",
+      "onboard_time": 1676528490,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132408,
+      "num": 132408,
+      "word": "现房销售会引起房价上涨吗",
+      "onboard_time": 1676528490,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 129045,
