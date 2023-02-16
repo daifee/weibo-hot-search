@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676539170641,
+  "endTime": 1676540034601,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -49,6 +49,14 @@
       "onboard_time": 1676523995,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3141181,
+      "num": 3141181,
+      "word": "石家庄上空发现气球",
+      "onboard_time": 1676538938,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2756415,
@@ -139,7 +147,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1595131,
+      "raw_hot": 1625842,
       "num": 1595131,
       "word": "李钟硕颜值回春",
       "onboard_time": 1676537137,
@@ -387,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 788599,
-      "num": 788599,
-      "word": "石家庄上空发现气球",
-      "onboard_time": 1676538938,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 771257,
       "num": 771257,
       "word": "你在几岁购入人生第一套房",
@@ -523,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 545700,
+      "num": 545700,
+      "word": "天蝎座的心思你别乱猜",
+      "onboard_time": 1676536115,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 544504,
       "num": 491842,
       "word": "上海人正在排队出国",
@@ -571,6 +579,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 513878,
+      "num": 513878,
+      "word": "李现参加去有风的地方研讨会",
+      "onboard_time": 1676537799,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 509045,
       "num": 509045,
       "word": "邓超听北大学生观后感落泪",
@@ -585,14 +601,6 @@
       "onboard_time": 1676466872,
       "rank": 8,
       "category": "社会负面,教育"
-    },
-    {
-      "raw_hot": 494632,
-      "num": 494632,
-      "word": "李现参加去有风的地方研讨会",
-      "onboard_time": 1676537799,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 492018,
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462196,
+      "num": 462196,
+      "word": "妇联回应女孩自曝全家被父亲家暴",
+      "onboard_time": 1676536718,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 453952,
       "num": 453952,
       "word": "满江红是岳云鹏第一次演坏人",
@@ -681,14 +697,6 @@
       "onboard_time": 1676473533,
       "rank": 12,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 446847,
-      "num": 446847,
-      "word": "天蝎座的心思你别乱猜",
-      "onboard_time": 1676536115,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 445252,
@@ -721,6 +729,14 @@
       "onboard_time": 1676507429,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437320,
+      "num": 437320,
+      "word": "多地公布考研初试查分时间",
+      "onboard_time": 1676537677,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 432262,
@@ -763,20 +779,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421049,
-      "num": 421049,
-      "word": "妇联回应女孩自曝全家被父亲家暴",
-      "onboard_time": 1676536718,
-      "rank": 49,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 419863,
       "num": 419863,
       "word": "权志龙现身NBA赛场",
       "onboard_time": 1676529929,
       "rank": 19,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 416634,
+      "num": 416634,
+      "word": "工作太久都不会说人话了",
+      "onboard_time": 1676537317,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 410686,
@@ -803,14 +819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 388514,
-      "num": 388514,
-      "word": "工作太久都不会说人话了",
-      "onboard_time": 1676537317,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 385951,
       "num": 385951,
       "word": "喻文波宋义进合体封面",
@@ -825,14 +833,6 @@
       "onboard_time": 1676519312,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 367618,
-      "num": 367618,
-      "word": "多地公布考研初试查分时间",
-      "onboard_time": 1676537677,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 367353,
@@ -899,6 +899,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 312012,
+      "num": 312012,
+      "word": "2022优酷独播剧点播播放量破10亿剧集",
+      "onboard_time": 1676536654,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311663,
       "num": 311663,
       "word": "春楠镜头下的女明星",
@@ -907,20 +915,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310654,
-      "num": 310654,
-      "word": "2022优酷独播剧点播播放量破10亿剧集",
-      "onboard_time": 1676536654,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 307914,
       "num": 307914,
       "word": "现房销售会引起房价上涨吗",
       "onboard_time": 1676528490,
       "rank": 45,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 304964,
+      "num": 304964,
+      "word": "和疯驴子一起滑雪",
+      "onboard_time": 1676534261,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 302287,
@@ -955,14 +963,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 288140,
-      "num": 288140,
-      "word": "和疯驴子一起滑雪",
-      "onboard_time": 1676534261,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 286925,
       "num": 286925,
       "word": "2022年度退补税怎么办理",
@@ -995,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277571,
+      "num": 277571,
+      "word": "基金",
+      "onboard_time": 1676535820,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 275448,
       "num": 275448,
       "word": "这下骑马上学实锤了",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1676510429,
       "rank": 39,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 273138,
-      "num": 273138,
-      "word": "基金",
-      "onboard_time": 1676535820,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 272757,
@@ -1483,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155534,
+      "num": 155534,
+      "word": "好想和他一起骑马",
+      "onboard_time": 1676539656,
+      "rank": 41,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 154844,
       "num": 154844,
       "word": "护心",
@@ -1529,6 +1537,14 @@
       "onboard_time": 1676449955,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144245,
+      "num": 144245,
+      "word": "A股跳水的原因是什么",
+      "onboard_time": 1676539954,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 139784,
