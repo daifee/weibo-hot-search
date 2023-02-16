@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/17 00:27:13 ~ 2023/02/17 02:37:56
+本榜单时间：2023/02/17 00:27:13 ~ 2023/02/17 03:14:23
 </p>
 </blockquote>
 <p>
@@ -352,7 +352,13 @@ XYG对战DYG（热度：80178）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%232023LCK%E6%98%A5%E5%AD%A3%E8%B5%9B%23" target="weibo">
-2023LCK春季赛（热度：26362）
+2023LCK春季赛（热度：34037）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B2%8D%E8%95%BE%E8%AF%B4%E9%99%86%E6%AF%85%E8%83%86%E9%87%8F%E6%9C%89%E4%BD%86%E4%B8%8D%E5%A4%9A%23" target="weibo">
+鲍蕾说陆毅胆量有但不多（热度：28195）
 </a>
 </li>
 
