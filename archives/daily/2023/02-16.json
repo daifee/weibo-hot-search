@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676515770583,
+  "endTime": 1676516360039,
   "band_list": [
     {
       "raw_hot": 8185446,
@@ -35,6 +35,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1625784,
+      "num": 1625784,
+      "word": "刘也澄清选择退出娱乐圈",
+      "onboard_time": 1676515291,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1343968,
+      "num": 1343968,
+      "word": "弟弟陪姐姐看病双双确诊甲状腺癌",
+      "onboard_time": 1676514209,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1327024,
       "num": 1327024,
       "word": "暂停输入大陆后台湾水果价格暴跌",
@@ -56,14 +72,6 @@
       "word": "台湾几千吨凤梨释迦滞销",
       "onboard_time": 1676473533,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1178791,
-      "num": 1178791,
-      "word": "弟弟陪姐姐看病双双确诊甲状腺癌",
-      "onboard_time": 1676514209,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -112,14 +120,6 @@
       "word": "鹿晗潮牌声明",
       "onboard_time": 1676510128,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 879480,
-      "num": 879480,
-      "word": "刘也澄清选择退出娱乐圈",
-      "onboard_time": 1676515291,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 607571,
+      "num": 607571,
+      "word": "男子听邻桌聊天发现一逃犯",
+      "onboard_time": 1676513491,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560937,
       "num": 560937,
       "word": "40岁男子报复10岁小孩连划7车",
@@ -203,20 +211,20 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 541396,
-      "num": 541396,
-      "word": "男子听邻桌聊天发现一逃犯",
-      "onboard_time": 1676513491,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 525973,
       "num": 525973,
       "word": "美俄亥俄州官员承认污染物流入俄亥俄河",
       "onboard_time": 1676512292,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522500,
+      "num": 522500,
+      "word": "小美人鱼",
+      "onboard_time": 1676511447,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 520919,
@@ -257,14 +265,6 @@
       "onboard_time": 1676479402,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 481515,
-      "num": 481515,
-      "word": "小美人鱼",
-      "onboard_time": 1676511447,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 453377,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411513,
+      "num": 411513,
+      "word": "东风快递招人",
+      "onboard_time": 1676513310,
+      "rank": 17,
+      "category": "军事"
+    },
+    {
       "raw_hot": 391972,
       "num": 391972,
       "word": "徐工采访",
@@ -323,12 +331,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 365134,
-      "num": 365134,
-      "word": "东风快递招人",
-      "onboard_time": 1676513310,
-      "rank": 17,
-      "category": "军事"
+      "raw_hot": 371270,
+      "num": 371270,
+      "word": "上海第三机场为什么建在南通",
+      "onboard_time": 1676514448,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325239,
@@ -355,14 +363,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 307302,
-      "num": 307302,
-      "word": "上海第三机场为什么建在南通",
-      "onboard_time": 1676514448,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291196,
       "num": 291196,
       "word": "邓超说谢谢北京体育大学",
@@ -385,6 +385,14 @@
       "onboard_time": 1676511989,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284826,
+      "num": 284826,
+      "word": "林俊杰现场观战篮网",
+      "onboard_time": 1676515949,
+      "rank": 24,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 274193,
@@ -451,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228031,
+      "num": 228031,
+      "word": "多家银行要求加快处理提前还款申请",
+      "onboard_time": 1676511566,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 227415,
       "num": 227415,
       "word": "大学生的毕业论文现状",
@@ -465,14 +481,6 @@
       "onboard_time": 1676464771,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222433,
-      "num": 222433,
-      "word": "多家银行要求加快处理提前还款申请",
-      "onboard_time": 1676511566,
-      "rank": 47,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 221674,
@@ -491,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217632,
+      "num": 217632,
+      "word": "猫来带你回家",
+      "onboard_time": 1676512351,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204171,
       "num": 204171,
       "word": "海关查获一批违背一个中国原则教材",
@@ -499,20 +515,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 203541,
-      "num": 203541,
-      "word": "猫来带你回家",
-      "onboard_time": 1676512351,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 202612,
       "num": 202612,
       "word": "教材中有多处地图漏绘我国台湾省",
       "onboard_time": 1676472095,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 197503,
+      "num": 197503,
+      "word": "男童无微不至照顾脑瘫妈妈",
+      "onboard_time": 1676515291,
+      "rank": 43,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 192827,
@@ -603,12 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163608,
-      "num": 163608,
-      "word": "男童无微不至照顾脑瘫妈妈",
-      "onboard_time": 1676515291,
-      "rank": 43,
-      "category": "社会正能量"
+      "raw_hot": 164825,
+      "num": 164825,
+      "word": "云南漫山樱花如云似霞",
+      "onboard_time": 1676515830,
+      "rank": 39,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 163578,
@@ -673,6 +689,14 @@
       "onboard_time": 1676454814,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148399,
+      "num": 148399,
+      "word": "吉利银河来了",
+      "onboard_time": 1676516128,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 146097,
@@ -780,7 +804,7 @@
     },
     {
       "raw_hot": 43757,
-      "num": 1437382,
+      "num": 1459411,
       "word": "文物背后有料有趣的中国故事",
       "onboard_time": 1676465070,
       "rank": 2,
