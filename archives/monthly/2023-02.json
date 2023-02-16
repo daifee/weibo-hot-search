@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676542851022,
+  "endTime": 1676543829543,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -619,6 +619,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 2690901,
+      "num": 2690901,
+      "word": "因衣服长时间放购物车被客服嘲讽",
+      "onboard_time": 1676540431,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2688295,
       "num": 2688295,
       "word": "怎么还有papi酱",
@@ -1065,14 +1073,6 @@
       "onboard_time": 1676026052,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2206364,
-      "num": 2206364,
-      "word": "因衣服长时间放购物车被客服嘲讽",
-      "onboard_time": 1676540431,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2204275,
@@ -4595,6 +4595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1054099,
+      "num": 634251,
+      "word": "泰国偶遇宋茜",
+      "onboard_time": 1676541511,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1050408,
       "num": 1050408,
       "word": "42岁张柏芝和44岁沙溢同框",
@@ -4624,14 +4632,6 @@
       "word": "哇唧唧哇新人原野撞脸龚俊",
       "onboard_time": 1676202092,
       "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1041161,
-      "num": 634251,
-      "word": "泰国偶遇宋茜",
-      "onboard_time": 1676541511,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -5345,6 +5345,14 @@
       "onboard_time": 1676371652,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 948554,
+      "num": 948554,
+      "word": "王登峰被逮捕",
+      "onboard_time": 1676540731,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 948358,
@@ -7043,6 +7051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 794072,
+      "num": 794072,
+      "word": "单身社会来临了吗",
+      "onboard_time": 1676540431,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 793931,
       "num": 793931,
       "word": "张颂文签名照被卖到8000元",
@@ -8099,6 +8115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720010,
+      "num": 720010,
+      "word": "A股跳水的原因是什么",
+      "onboard_time": 1676539954,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 719649,
       "num": 719649,
       "word": "狂飙口型对不上",
@@ -8601,14 +8625,6 @@
       "onboard_time": 1675958317,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 694677,
-      "num": 694677,
-      "word": "A股跳水的原因是什么",
-      "onboard_time": 1676539954,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 694538,
@@ -9179,14 +9195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 662899,
-      "num": 662899,
-      "word": "王登峰被逮捕",
-      "onboard_time": 1676540731,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 662845,
       "num": 662845,
       "word": "狂飙金句第一人",
@@ -9369,14 +9377,6 @@
       "onboard_time": 1675659391,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 652736,
-      "num": 652736,
-      "word": "单身社会来临了吗",
-      "onboard_time": 1676540431,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 652663,
@@ -15259,6 +15259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423248,
+      "num": 423248,
+      "word": "SMTOWN将出售子公司",
+      "onboard_time": 1676543431,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423126,
       "num": 423126,
       "word": "刘亚仁待播作品",
@@ -17857,6 +17865,14 @@
       "onboard_time": 1676095706,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 358449,
+      "num": 358449,
+      "word": "西安发现长安城朱雀大街五桥并列遗址",
+      "onboard_time": 1676541993,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 358181,
@@ -24395,14 +24411,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 245117,
-      "num": 245117,
-      "word": "西安发现长安城朱雀大街五桥并列遗址",
-      "onboard_time": 1676541993,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 245053,
       "num": 245053,
       "word": "AL对战JDG",
@@ -25321,6 +25329,14 @@
       "onboard_time": 1676168666,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231560,
+      "num": 231560,
+      "word": "谁能拒绝站起来的小熊猫",
+      "onboard_time": 1676542180,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 231526,
@@ -31931,14 +31947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 161291,
-      "num": 161291,
-      "word": "谁能拒绝站起来的小熊猫",
-      "onboard_time": 1676542180,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161231,
       "num": 161231,
       "word": "胡锡进谈ChatGPT",
@@ -32881,6 +32889,14 @@
       "onboard_time": 1675511850,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148629,
+      "num": 148629,
+      "word": "被影子打了的小狗",
+      "onboard_time": 1676543251,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 148522,

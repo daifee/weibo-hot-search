@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676542851022,
+  "endTime": 1676543829543,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -67,19 +67,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2690901,
+      "num": 2690901,
+      "word": "因衣服长时间放购物车被客服嘲讽",
+      "onboard_time": 1676540431,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2364032,
       "num": 2364032,
       "word": "父母高度近视1岁婴儿近视600度",
       "onboard_time": 1676516669,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2206364,
-      "num": 2206364,
-      "word": "因衣服长时间放购物车被客服嘲讽",
-      "onboard_time": 1676540431,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -299,7 +299,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1041161,
+      "raw_hot": 1054099,
       "num": 634251,
       "word": "泰国偶遇宋茜",
       "onboard_time": 1676541511,
@@ -321,6 +321,14 @@
       "onboard_time": 1676478444,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 948554,
+      "num": 948554,
+      "word": "王登峰被逮捕",
+      "onboard_time": 1676540731,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 946867,
@@ -411,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 794072,
+      "num": 794072,
+      "word": "单身社会来临了吗",
+      "onboard_time": 1676540431,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 771257,
       "num": 771257,
       "word": "你在几岁购入人生第一套房",
@@ -435,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720010,
+      "num": 720010,
+      "word": "A股跳水的原因是什么",
+      "onboard_time": 1676539954,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 698191,
       "num": 698191,
       "word": "可以狂飙但不可以乱飙",
@@ -451,36 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 694677,
-      "num": 694677,
-      "word": "A股跳水的原因是什么",
-      "onboard_time": 1676539954,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 668210,
       "num": 668210,
       "word": "没有我的城主演 张译杨幂",
       "onboard_time": 1676475510,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 662899,
-      "num": 662899,
-      "word": "王登峰被逮捕",
-      "onboard_time": 1676540731,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 652736,
-      "num": 652736,
-      "word": "单身社会来临了吗",
-      "onboard_time": 1676540431,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 639993,
@@ -819,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423248,
+      "num": 423248,
+      "word": "SMTOWN将出售子公司",
+      "onboard_time": 1676543431,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421411,
       "num": 421411,
       "word": "男子借朋友12万借条1小时后变白纸",
@@ -897,6 +905,14 @@
       "onboard_time": 1676528188,
       "rank": 27,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 358449,
+      "num": 358449,
+      "word": "西安发现长安城朱雀大街五桥并列遗址",
+      "onboard_time": 1676541993,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 355956,
@@ -1139,14 +1155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245117,
-      "num": 245117,
-      "word": "西安发现长安城朱雀大街五桥并列遗址",
-      "onboard_time": 1676541993,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 237799,
       "num": 237799,
       "word": "王霏霏时装周看秀状态",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1676533000,
       "rank": 36,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 231560,
+      "num": 231560,
+      "word": "谁能拒绝站起来的小熊猫",
+      "onboard_time": 1676542180,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 230940,
@@ -1539,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161291,
-      "num": 161291,
-      "word": "谁能拒绝站起来的小熊猫",
-      "onboard_time": 1676542180,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161085,
       "num": 161085,
       "word": "租房和买房你会选择哪个",
@@ -1617,6 +1625,14 @@
       "onboard_time": 1676454814,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148629,
+      "num": 148629,
+      "word": "被影子打了的小狗",
+      "onboard_time": 1676543251,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 148399,

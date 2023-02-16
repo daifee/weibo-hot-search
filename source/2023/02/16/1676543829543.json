@@ -1,0 +1,410 @@
+{
+  "runTime": 1676543829543,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2690901,
+        "num": 2690901,
+        "word": "因衣服长时间放购物车被客服嘲讽",
+        "onboard_time": 1676540431,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948554,
+        "num": 948554,
+        "word": "王登峰被逮捕",
+        "onboard_time": 1676540731,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18549,
+        "num": 868198,
+        "word": "2023春日加油壁纸",
+        "onboard_time": 1676507669,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794072,
+        "num": 794072,
+        "word": "单身社会来临了吗",
+        "onboard_time": 1676540431,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 738537,
+        "num": 738537,
+        "word": "W两个世界翻拍版预告",
+        "onboard_time": 1676535996,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2411227,
+        "num": 735762,
+        "word": "石家庄上空发现气球",
+        "onboard_time": 1676538938,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834778,
+        "num": 730249,
+        "word": "石家庄临时空中管制已解除",
+        "onboard_time": 1676531250,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720010,
+        "num": 720010,
+        "word": "A股跳水的原因是什么",
+        "onboard_time": 1676539954,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 662931,
+        "num": 662931,
+        "word": "女子丽江60元买2串烧烤仅8只虫",
+        "onboard_time": 1676531189,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585559,
+        "num": 585559,
+        "word": "中国伊朗联合声明",
+        "onboard_time": 1676532579,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1216525,
+        "num": 582736,
+        "word": "李钟硕颜值回春",
+        "onboard_time": 1676537137,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1054099,
+        "num": 581594,
+        "word": "泰国偶遇宋茜",
+        "onboard_time": 1676541511,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573325,
+        "num": 573325,
+        "word": "北京多个地铁口有人扫码送大鹅",
+        "onboard_time": 1676531794,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563936,
+        "num": 563936,
+        "word": "00后社恐女生选择当守墓人",
+        "onboard_time": 1676533000,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538450,
+        "num": 538450,
+        "word": "吴刚回应整容风波",
+        "onboard_time": 1676526449,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423248,
+        "num": 423248,
+        "word": "SMTOWN将出售子公司",
+        "onboard_time": 1676543431,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421146,
+        "num": 421146,
+        "word": "多地公布考研初试查分时间",
+        "onboard_time": 1676537677,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 385203,
+        "num": 385203,
+        "word": "天蝎座的心思你别乱猜",
+        "onboard_time": 1676536115,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 358449,
+        "num": 358449,
+        "word": "西安发现长安城朱雀大街五桥并列遗址",
+        "onboard_time": 1676541993,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 354074,
+        "num": 354074,
+        "word": "工作太久都不会说人话了",
+        "onboard_time": 1676537317,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343442,
+        "num": 343442,
+        "word": "目前全国现房均价比期房便宜",
+        "onboard_time": 1676535518,
+        "rank": 20,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 336269,
+        "num": 336269,
+        "word": "aespa演唱会剧透练习室",
+        "onboard_time": 1676542293,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322438,
+        "num": 322438,
+        "word": "俄乌局势最新进展",
+        "onboard_time": 1676531973,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 309601,
+        "num": 309601,
+        "word": "石家庄机场确有延误和备降情况",
+        "onboard_time": 1676533481,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305753,
+        "num": 305753,
+        "word": "李现参加去有风的地方研讨会",
+        "onboard_time": 1676537799,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300026,
+        "num": 300026,
+        "word": "不虚此行首曝胡歌吴磊双人剧照",
+        "onboard_time": 1676540731,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289619,
+        "num": 289619,
+        "word": "SMTOWN将被税务调查",
+        "onboard_time": 1676538277,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 284364,
+        "num": 284364,
+        "word": "妇联回应女孩自曝全家被父亲家暴",
+        "onboard_time": 1676536718,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 250899,
+        "num": 250899,
+        "word": "联合国称无权调查北溪爆炸事件",
+        "onboard_time": 1676533782,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238987,
+        "num": 238987,
+        "word": "当爱如火遇上EXO",
+        "onboard_time": 1676534381,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231560,
+        "num": 231560,
+        "word": "谁能拒绝站起来的小熊猫",
+        "onboard_time": 1676542180,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230651,
+        "num": 230651,
+        "word": "李秀满 我的心好痛",
+        "onboard_time": 1676529509,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222082,
+        "num": 222082,
+        "word": "和疯驴子一起滑雪",
+        "onboard_time": 1676534261,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221963,
+        "num": 221963,
+        "word": "山东舰演练震撼感拉满",
+        "onboard_time": 1676538036,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 220489,
+        "num": 220489,
+        "word": "李健剪纸好像要杀了这张纸",
+        "onboard_time": 1676541393,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217456,
+        "num": 217456,
+        "word": "MH370失踪事件纪录剧预告",
+        "onboard_time": 1676532033,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211574,
+        "num": 211574,
+        "word": "2022优酷独播剧点播播放量破10亿剧集",
+        "onboard_time": 1676536654,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205900,
+        "num": 205900,
+        "word": "气球",
+        "onboard_time": 1676540551,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193410,
+        "num": 193410,
+        "word": "罗永浩交个朋友公司被曝欠薪",
+        "onboard_time": 1676530528,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 187084,
+        "num": 187084,
+        "word": "EDG官宣Junjia离队",
+        "onboard_time": 1676537620,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161514,
+        "num": 161514,
+        "word": "学生恶作剧用60个闹钟图标挡课件",
+        "onboard_time": 1676530287,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 157180,
+        "num": 157180,
+        "word": "送餐小哥一举动揪出113名吸贩毒人员",
+        "onboard_time": 1676524592,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 153801,
+        "num": 153801,
+        "word": "杜华要把儿子送到黄奕家减肥",
+        "onboard_time": 1676528790,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148629,
+        "num": 148629,
+        "word": "被影子打了的小狗",
+        "onboard_time": 1676543251,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 121486,
+        "num": 121486,
+        "word": "基金",
+        "onboard_time": 1676535820,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120581,
+        "num": 120581,
+        "word": "吴刚谈儿子出演高晓晨",
+        "onboard_time": 1676513789,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119353,
+        "num": 119353,
+        "word": "湖人新三巨头合砍70分",
+        "onboard_time": 1676527649,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118221,
+        "num": 118221,
+        "word": "RNG对战FPX",
+        "onboard_time": 1676541151,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114428,
+        "num": 114428,
+        "word": "权志龙现身NBA赛场",
+        "onboard_time": 1676529929,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 108712,
+        "num": 108712,
+        "word": "林孝埈以梦为马不负此生",
+        "onboard_time": 1676530889,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#锚定发展加把劲#"
+    }
+  }
+}
