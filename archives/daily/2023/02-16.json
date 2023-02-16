@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676547232133,
+  "endTime": 1676551032232,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2020013,
+      "num": 2020013,
+      "word": "大三男生换乘32辆公交从合肥到上海上学",
+      "onboard_time": 1676544450,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1954862,
       "num": 1625784,
       "word": "刘也澄清选择退出娱乐圈",
@@ -105,6 +113,14 @@
       "onboard_time": 1676533361,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1913881,
+      "num": 1913881,
+      "word": "贾乃亮说艺人没想明白别做直播",
+      "onboard_time": 1676548890,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1892990,
@@ -145,14 +161,6 @@
       "onboard_time": 1676538036,
       "rank": 3,
       "category": "军事"
-    },
-    {
-      "raw_hot": 1635568,
-      "num": 1635568,
-      "word": "大三男生换乘32辆公交从合肥到上海上学",
-      "onboard_time": 1676544450,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1626636,
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1123456,
+      "num": 1123456,
+      "word": "我们取得疫情防控重大决定性胜利",
+      "onboard_time": 1676547152,
+      "rank": 41,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1116436,
       "num": 1116436,
       "word": "景甜方声明",
@@ -297,6 +313,14 @@
       "onboard_time": 1676532033,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1098984,
+      "num": 1098984,
+      "word": "科学家研发出男性避孕药",
+      "onboard_time": 1676547811,
+      "rank": 5,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1072330,
@@ -411,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 877123,
+      "num": 877123,
+      "word": "警方通报女子被丈夫割喉",
+      "onboard_time": 1676547748,
+      "rank": 7,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 867897,
       "num": 867897,
       "word": "警方通报职业中专打架致2死2伤",
@@ -473,6 +505,14 @@
       "onboard_time": 1676501958,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735545,
+      "num": 735545,
+      "word": "电影无名出现在北电试卷上",
+      "onboard_time": 1676549195,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 721263,
@@ -553,6 +593,14 @@
       "onboard_time": 1676511269,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 608736,
+      "num": 608736,
+      "word": "星落凝成糖",
+      "onboard_time": 1676548052,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 607571,
@@ -931,6 +979,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 399497,
+      "num": 399497,
+      "word": "朱珠剧中光头造型",
+      "onboard_time": 1676549552,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 399244,
+      "num": 399244,
+      "word": "梦中的那片海预约破80万",
+      "onboard_time": 1676550510,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391972,
       "num": 391972,
       "word": "徐工采访",
@@ -985,6 +1049,14 @@
       "onboard_time": 1676521896,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329630,
+      "num": 329630,
+      "word": "王源波士顿的雨歌词",
+      "onboard_time": 1676549129,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 325239,
@@ -1347,6 +1419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220622,
+      "num": 220622,
+      "word": "你吃过章肥虾吗",
+      "onboard_time": 1676549850,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 219585,
       "num": 219585,
       "word": "宋雨琦脸颊比心",
@@ -1483,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188700,
+      "num": 188700,
+      "word": "微信公众号上线图片消息",
+      "onboard_time": 1676550091,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 188604,
       "num": 188604,
       "word": "陈星旭李兰迪星落凝成糖今晚开播",
@@ -1553,14 +1641,6 @@
       "onboard_time": 1676527948,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180629,
-      "num": 180629,
-      "word": "我们取得疫情防控重大决定性胜利",
-      "onboard_time": 1676547152,
-      "rank": 41,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 179752,
