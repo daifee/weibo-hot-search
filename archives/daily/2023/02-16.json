@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676516360039,
+  "endTime": 1676517761953,
   "band_list": [
     {
       "raw_hot": 8185446,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1954862,
+      "num": 1625784,
+      "word": "刘也澄清选择退出娱乐圈",
+      "onboard_time": 1676515291,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1735515,
       "num": 1735515,
       "word": "王楚然早期回应像刘亦菲",
@@ -35,16 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1625784,
-      "num": 1625784,
-      "word": "刘也澄清选择退出娱乐圈",
-      "onboard_time": 1676515291,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1343968,
-      "num": 1343968,
+      "raw_hot": 1411678,
+      "num": 1411678,
       "word": "弟弟陪姐姐看病双双确诊甲状腺癌",
       "onboard_time": 1676514209,
       "rank": 3,
@@ -81,6 +81,22 @@
       "onboard_time": 1676505986,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1094730,
+      "num": 553459,
+      "word": "8岁女孩被同学送2万多钻石项链",
+      "onboard_time": 1676516610,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1017669,
+      "num": 1017669,
+      "word": "父母高度近视1岁婴儿近视600度",
+      "onboard_time": 1676516669,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 988592,
@@ -235,6 +251,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 509045,
+      "num": 509045,
+      "word": "邓超听北大学生观后感落泪",
+      "onboard_time": 1676516487,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 494897,
       "num": 494897,
       "word": "教育局回应老师用尺狠抽学生手",
@@ -307,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424718,
+      "num": 424718,
+      "word": "老人跳广场舞猝死家属索赔组织者",
+      "onboard_time": 1676516368,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421411,
       "num": 421411,
       "word": "男子借朋友12万借条1小时后变白纸",
@@ -323,20 +355,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 410686,
+      "num": 410686,
+      "word": "上海第三机场为什么建在南通",
+      "onboard_time": 1676514448,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391972,
       "num": 391972,
       "word": "徐工采访",
       "onboard_time": 1676513851,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 371270,
-      "num": 371270,
-      "word": "上海第三机场为什么建在南通",
-      "onboard_time": 1676514448,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325239,
@@ -361,6 +393,22 @@
       "onboard_time": 1676497093,
       "rank": 11,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 298513,
+      "num": 298513,
+      "word": "郑恺王鹤棣新剧组职场师徒line",
+      "onboard_time": 1676517750,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 294642,
+      "num": 294642,
+      "word": "满江红是岳云鹏第一次演坏人",
+      "onboard_time": 1676517691,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 291196,
@@ -393,6 +441,22 @@
       "onboard_time": 1676515949,
       "rank": 24,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 283726,
+      "num": 283726,
+      "word": "90后爸爸为救女扮青蛙卖气球",
+      "onboard_time": 1676516968,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283466,
+      "num": 283466,
+      "word": "可以狂飙但不可以乱飙",
+      "onboard_time": 1676517451,
+      "rank": 26,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 274193,
@@ -449,6 +513,14 @@
       "onboard_time": 1676462909,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235708,
+      "num": 235708,
+      "word": "全国人大外事委员会发表声明",
+      "onboard_time": 1676517328,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 229359,
@@ -585,6 +657,14 @@
       "onboard_time": 1676470355,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184939,
+      "num": 184939,
+      "word": "北京房贷最高可贷到95岁",
+      "onboard_time": 1676517507,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 184165,
