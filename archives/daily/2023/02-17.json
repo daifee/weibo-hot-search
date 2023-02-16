@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676583231647,
+  "endTime": 1676585905903,
   "band_list": [
     {
       "raw_hot": 2748115,
@@ -443,12 +443,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71835,
+      "num": 71835,
+      "word": "西安碳水天堂不是白叫的",
+      "onboard_time": 1676582592,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 66406,
       "num": 80136,
       "word": "山东舰舰员中英双语喊话",
       "onboard_time": 1676557713,
       "rank": 49,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 55550,
+      "num": 27254,
+      "word": "男子因亡父赔偿金分割生怨撞死母亲",
+      "onboard_time": 1676585053,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 34037,
@@ -467,16 +483,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19617,
-      "num": 19617,
-      "word": "西安碳水天堂不是白叫的",
-      "onboard_time": 1676582592,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 18705,
-      "num": 18705,
+      "raw_hot": 26805,
+      "num": 26805,
       "word": "适合懒人的不费力穿搭",
       "onboard_time": 1676581452,
       "rank": 45,

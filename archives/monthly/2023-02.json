@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676583231647,
+  "endTime": 1676585905903,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -36091,6 +36091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 71835,
+      "num": 71835,
+      "word": "西安碳水天堂不是白叫的",
+      "onboard_time": 1676582592,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 71290,
       "num": 1807729,
       "word": "1月份制造业PMI升至50.1%",
@@ -36297,6 +36305,14 @@
       "onboard_time": 1676156534,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55550,
+      "num": 27254,
+      "word": "男子因亡父赔偿金分割生怨撞死母亲",
+      "onboard_time": 1676585053,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 55261,
@@ -36747,6 +36763,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 26805,
+      "num": 26805,
+      "word": "适合懒人的不费力穿搭",
+      "onboard_time": 1676581452,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 26802,
       "num": 26802,
       "word": "大张伟说战有战相跪有跪相",
@@ -36811,28 +36835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19617,
-      "num": 19617,
-      "word": "西安碳水天堂不是白叫的",
-      "onboard_time": 1676582592,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
       "raw_hot": 19052,
       "num": 19052,
       "word": "原来大一点的哥哥也喜欢玩",
       "onboard_time": 1675543153,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18705,
-      "num": 18705,
-      "word": "适合懒人的不费力穿搭",
-      "onboard_time": 1676581452,
-      "rank": 45,
-      "category": "时尚"
     },
     {
       "raw_hot": 18647,
