@@ -1,0 +1,410 @@
+{
+  "runTime": 1676512937687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8185446,
+        "num": 8185446,
+        "word": "鹿晗 还是键盘侠好当",
+        "onboard_time": 1676509648,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1436985,
+        "num": 1436985,
+        "word": "王楚然早期回应像刘亦菲",
+        "onboard_time": 1676505866,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35083,
+        "num": 1007689,
+        "word": "文物背后有料有趣的中国故事",
+        "onboard_time": 1676465070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868064,
+        "num": 868064,
+        "word": "内娱渴活人久矣",
+        "onboard_time": 1676505986,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 848915,
+        "num": 848915,
+        "word": "暂停输入大陆后台湾水果价格暴跌",
+        "onboard_time": 1676510907,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 844463,
+        "num": 844463,
+        "word": "李秀满",
+        "onboard_time": 1676511208,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 808688,
+        "num": 808688,
+        "word": "上海欢乐谷过山车出故障滞空十分钟",
+        "onboard_time": 1676509410,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712217,
+        "num": 712217,
+        "word": "台湾几千吨凤梨释迦滞销",
+        "onboard_time": 1676473533,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641235,
+        "num": 641235,
+        "word": "美国罐车又侧翻剧毒硝酸泄漏",
+        "onboard_time": 1676505145,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618339,
+        "num": 618339,
+        "word": "aespa推迟回归的原因",
+        "onboard_time": 1676511269,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 820947,
+        "num": 617595,
+        "word": "鹿晗潮牌声明",
+        "onboard_time": 1676510128,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582407,
+        "num": 582407,
+        "word": "日本游客排队告别大熊猫香香",
+        "onboard_time": 1676501958,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541299,
+        "num": 541299,
+        "word": "警方回应网红骑摩托上高速被拦后摔车",
+        "onboard_time": 1676494032,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691819,
+        "num": 531623,
+        "word": "鹿晗潮牌遭吐槽",
+        "onboard_time": 1676474193,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520919,
+        "num": 520919,
+        "word": "苹果今年6月推出首款头显",
+        "onboard_time": 1676510070,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 486942,
+        "num": 486942,
+        "word": "2名中国留学生在美枪击中受伤",
+        "onboard_time": 1676508869,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 423874,
+        "num": 423874,
+        "word": "没有我的城主演 张译杨幂",
+        "onboard_time": 1676475510,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408888,
+        "num": 408888,
+        "word": "小美人鱼",
+        "onboard_time": 1676511447,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373166,
+        "num": 373166,
+        "word": "为什么会暗恋一个人十几年",
+        "onboard_time": 1676478444,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363147,
+        "num": 363147,
+        "word": "女子骗闺蜜68万后让老公别工作",
+        "onboard_time": 1676474131,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359750,
+        "num": 359750,
+        "word": "广东交警回应高速为何禁行摩托",
+        "onboard_time": 1676507429,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352046,
+        "num": 352046,
+        "word": "重紫 花千骨",
+        "onboard_time": 1676469992,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345712,
+        "num": 345712,
+        "word": "上海女子激励男友买车情人节送充电桩",
+        "onboard_time": 1676479402,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336416,
+        "num": 336416,
+        "word": "40岁男子报复10岁小孩连划7车",
+        "onboard_time": 1676471734,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314664,
+        "num": 314664,
+        "word": "美俄亥俄州官员承认污染物流入俄亥俄河",
+        "onboard_time": 1676512292,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302212,
+        "num": 302212,
+        "word": "菲律宾发生6.1级地震",
+        "onboard_time": 1676507007,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291851,
+        "num": 291851,
+        "word": "黄奕演言承旭的丈母娘",
+        "onboard_time": 1676477546,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286925,
+        "num": 286925,
+        "word": "2022年度退补税怎么办理",
+        "onboard_time": 1676511989,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281284,
+        "num": 281284,
+        "word": "香蕉和人某些同源基因竟有六成相似",
+        "onboard_time": 1676508689,
+        "rank": 28,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 274193,
+        "num": 274193,
+        "word": "央行银保监会要求做好提前还款服务",
+        "onboard_time": 1676510429,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 273088,
+        "num": 273088,
+        "word": "邓超说谢谢北京体育大学",
+        "onboard_time": 1676509708,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247972,
+        "num": 247972,
+        "word": "上海第三机场建在江苏",
+        "onboard_time": 1676474555,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231282,
+        "num": 231282,
+        "word": "教育局回应老师用尺狠抽学生手",
+        "onboard_time": 1676466872,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 216523,
+        "num": 216523,
+        "word": "papi酱说生孩子就像抽盲盒",
+        "onboard_time": 1676459790,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215955,
+        "num": 215955,
+        "word": "YG新女团RORA最新介绍视频",
+        "onboard_time": 1676511029,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213976,
+        "num": 213976,
+        "word": "多家银行要求加快处理提前还款申请",
+        "onboard_time": 1676511566,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 213735,
+        "num": 213735,
+        "word": "RNG拖欠奖金",
+        "onboard_time": 1676505084,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212635,
+        "num": 212635,
+        "word": "德布劳内躲水瓶",
+        "onboard_time": 1676508689,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207193,
+        "num": 207193,
+        "word": "当地妇联回应女子称被家暴割喉",
+        "onboard_time": 1676470234,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 197198,
+        "num": 197198,
+        "word": "河南一中学开学女生站校门排队剪发",
+        "onboard_time": 1676473533,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 196655,
+        "num": 196655,
+        "word": "连下半月雨后学校现壮观晒被场面",
+        "onboard_time": 1676508027,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 195617,
+        "num": 195617,
+        "word": "男子用感冒药提炼毒品被判刑",
+        "onboard_time": 1676472455,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183937,
+        "num": 183937,
+        "word": "猫来带你回家",
+        "onboard_time": 1676512351,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177333,
+        "num": 177333,
+        "word": "男子借朋友12万借条1小时后变白纸",
+        "onboard_time": 1676463691,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166387,
+        "num": 166387,
+        "word": "刘诗诗晒环球影城游玩照",
+        "onboard_time": 1676470474,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153867,
+        "num": 153867,
+        "word": "教材中有多处地图漏绘我国台湾省",
+        "onboard_time": 1676472095,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 148718,
+        "num": 148718,
+        "word": "时代少年团二次元cos路透",
+        "onboard_time": 1676505325,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146898,
+        "num": 146898,
+        "word": "美国密歇根州立大学发生枪击事件",
+        "onboard_time": 1676510307,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 141233,
+        "num": 141233,
+        "word": "浙江一男生获3次保送清北的机会",
+        "onboard_time": 1676497093,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 139670,
+        "num": 139670,
+        "word": "以为主人被欺负的小狗",
+        "onboard_time": 1676476587,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进新时代党的建设新的伟大工程#"
+    }
+  }
+}
