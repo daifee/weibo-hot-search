@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676554966166,
+  "endTime": 1676557071855,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2762248,
+      "num": 2762248,
+      "word": "你能接受结婚不举办婚礼吗",
+      "onboard_time": 1676551049,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2756415,
       "num": 2756415,
       "word": "吴刚谈儿子出演高晓晨",
@@ -105,14 +113,6 @@
       "onboard_time": 1676548890,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1958857,
-      "num": 1958857,
-      "word": "你能接受结婚不举办婚礼吗",
-      "onboard_time": 1676551049,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 1954862,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 886402,
+      "num": 886402,
+      "word": "两对情侣的宿舍生活",
+      "onboard_time": 1676553632,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 867897,
       "num": 867897,
       "word": "警方通报职业中专打架致2死2伤",
@@ -475,6 +483,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 850180,
+      "num": 850180,
+      "word": "杨超越模仿疯驴子",
+      "onboard_time": 1676553152,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 844463,
       "num": 844463,
       "word": "李秀满",
@@ -483,20 +499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 836871,
+      "num": 836871,
+      "word": "女子两套房养50只流浪猫自己吃杯面",
+      "onboard_time": 1676555551,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 823227,
       "num": 823227,
       "word": "单身社会来临了吗",
       "onboard_time": 1676540431,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 791606,
-      "num": 791606,
-      "word": "杨超越模仿疯驴子",
-      "onboard_time": 1676553152,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 784784,
@@ -571,6 +587,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 697683,
+      "num": 697683,
+      "word": "李兰迪台词",
+      "onboard_time": 1676552671,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 695515,
       "num": 695515,
       "word": "圭贤对朴宰范说2PM",
@@ -579,12 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 674876,
-      "num": 674876,
-      "word": "李兰迪台词",
-      "onboard_time": 1676552671,
-      "rank": 11,
-      "category": "影视"
+      "raw_hot": 679556,
+      "num": 679556,
+      "word": "张艺兴问路人在哪买的冻柠茶",
+      "onboard_time": 1676555731,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 668210,
@@ -667,6 +691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 595290,
+      "num": 595290,
+      "word": "刘诗诗 米兰时装周",
+      "onboard_time": 1676553448,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 583220,
       "num": 583220,
       "word": "陈星旭原声",
@@ -715,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 547681,
-      "num": 547681,
-      "word": "两对情侣的宿舍生活",
-      "onboard_time": 1676553632,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 545700,
       "num": 545700,
       "word": "天蝎座的心思你别乱猜",
@@ -739,20 +763,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 538775,
+      "num": 538775,
+      "word": "Lisa与蒙娜丽莎合照",
+      "onboard_time": 1676555072,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530651,
       "num": 530651,
       "word": "老人跳广场舞猝死家属索赔组织者",
       "onboard_time": 1676516368,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529028,
-      "num": 529028,
-      "word": "刘诗诗 米兰时装周",
-      "onboard_time": 1676553448,
-      "rank": 21,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 525973,
@@ -1131,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344208,
+      "num": 258473,
+      "word": "朴宰范Tiffany听到2PM的表情",
+      "onboard_time": 1676556152,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338648,
       "num": 338648,
       "word": "王鹤棣喷防晒姿势",
@@ -1187,6 +1219,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 313966,
+      "num": 257586,
+      "word": "钟辰乐直播",
+      "onboard_time": 1676554890,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312012,
       "num": 312012,
       "word": "2022优酷独播剧点播播放量破10亿剧集",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1676534918,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311490,
+      "num": 311490,
+      "word": "过半农村老人娱乐为刷短视频",
+      "onboard_time": 1676554772,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307914,
@@ -1427,6 +1475,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 248137,
+      "num": 229676,
+      "word": "华兴资本创始人包凡失联",
+      "onboard_time": 1676556812,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 237799,
       "num": 237799,
       "word": "王霏霏时装周看秀状态",
@@ -1563,6 +1619,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213625,
+      "num": 213625,
+      "word": "重紫有多爱画乌龟",
+      "onboard_time": 1676556638,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212686,
+      "num": 224991,
+      "word": "检方提前介入男子割喉妻子案",
+      "onboard_time": 1676555611,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 205774,
       "num": 205774,
       "word": "与君初相识日版预告",
@@ -1691,14 +1763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187377,
-      "num": 185592,
-      "word": "钟辰乐直播",
-      "onboard_time": 1676554890,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186947,
       "num": 186947,
       "word": "张若昀接魏晨的梗",
@@ -1811,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172508,
+      "num": 1314614,
+      "word": "这些铁路有望今年开通",
+      "onboard_time": 1676552131,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 171385,
       "num": 171385,
       "word": "银行辟谣南宁房贷能还到100岁",
@@ -1915,14 +1987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158312,
-      "num": 1314614,
-      "word": "这些铁路有望今年开通",
-      "onboard_time": 1676552131,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 155534,
       "num": 155534,
       "word": "好想和他一起骑马",
@@ -1971,19 +2035,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 146211,
+      "num": 146211,
+      "word": "云南古人有多爱吃螺蛳",
+      "onboard_time": 1676556272,
+      "rank": 49,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 146097,
       "num": 146097,
       "word": "女子情人节收到1千克黄金爱心",
       "onboard_time": 1676449955,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144008,
-      "num": 144008,
-      "word": "过半农村老人娱乐为刷短视频",
-      "onboard_time": 1676554772,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
