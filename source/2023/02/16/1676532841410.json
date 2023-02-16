@@ -1,0 +1,410 @@
+{
+  "runTime": 1676532841410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13120424,
+        "num": 13120424,
+        "word": "石家庄",
+        "onboard_time": 1676531250,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1401709,
+        "num": 1401709,
+        "word": "伊能静 不是大家都说的就是真的",
+        "onboard_time": 1676526690,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62865,
+        "num": 1256935,
+        "word": "2023春日加油壁纸",
+        "onboard_time": 1676507669,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1197542,
+        "num": 1197542,
+        "word": "吴刚回应整容风波",
+        "onboard_time": 1676526449,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1580993,
+        "num": 1195646,
+        "word": "王诗龄好瘦",
+        "onboard_time": 1676523995,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1172326,
+        "num": 1172326,
+        "word": "颖儿手滑点赞付辛博井柏然相关微博",
+        "onboard_time": 1676530831,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1033919,
+        "num": 1033919,
+        "word": "李秀满 我的心好痛",
+        "onboard_time": 1676529509,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 994117,
+        "num": 994117,
+        "word": "经纪人改口否认刘文正死讯",
+        "onboard_time": 1676522132,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 721252,
+        "num": 721252,
+        "word": "景甜方声明",
+        "onboard_time": 1676527591,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 560080,
+        "num": 560080,
+        "word": "父母高度近视1岁婴儿近视600度",
+        "onboard_time": 1676516669,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950441,
+        "num": 560065,
+        "word": "广东一男子朝女子泼硫酸连捅数刀",
+        "onboard_time": 1676525072,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 825065,
+        "num": 560056,
+        "word": "女子丽江60元买2串烧烤仅8只虫",
+        "onboard_time": 1676531189,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595704,
+        "num": 560040,
+        "word": "郑恺第一次为苗苗准备生日惊喜",
+        "onboard_time": 1676527351,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572360,
+        "num": 560019,
+        "word": "学生恶作剧用60个闹钟图标挡课件",
+        "onboard_time": 1676530287,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 560016,
+        "num": 560016,
+        "word": "中国伊朗联合声明",
+        "onboard_time": 1676532579,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 548453,
+        "num": 548453,
+        "word": "杜华要把儿子送到黄奕家减肥",
+        "onboard_time": 1676528790,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504540,
+        "num": 504540,
+        "word": "俄罗斯",
+        "onboard_time": 1676531973,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 488270,
+        "num": 488270,
+        "word": "吴刚谈儿子出演高晓晨",
+        "onboard_time": 1676513789,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436757,
+        "num": 436757,
+        "word": "韩国街头擦边球小广告盗用景甜照片",
+        "onboard_time": 1676520270,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396075,
+        "num": 396075,
+        "word": "北京多个地铁口有人扫码送大鹅",
+        "onboard_time": 1676531794,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386272,
+        "num": 386272,
+        "word": "8岁女孩被同学送2万多钻石项链",
+        "onboard_time": 1676516610,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378919,
+        "num": 378919,
+        "word": "送餐小哥一举动揪出113名吸贩毒人员",
+        "onboard_time": 1676524592,
+        "rank": 21,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 362344,
+        "num": 362344,
+        "word": "权志龙现身NBA赛场",
+        "onboard_time": 1676529929,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 336824,
+        "num": 336824,
+        "word": "湖人新三巨头合砍70分",
+        "onboard_time": 1676527649,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325565,
+        "num": 325565,
+        "word": "多地延长房贷期限年龄意味着什么",
+        "onboard_time": 1676528188,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 314140,
+        "num": 314140,
+        "word": "刘也澄清选择退出娱乐圈",
+        "onboard_time": 1676515291,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276443,
+        "num": 276443,
+        "word": "罗永浩交个朋友公司被曝欠薪",
+        "onboard_time": 1676530528,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 276223,
+        "num": 276223,
+        "word": "弟弟陪姐姐看病双双确诊甲状腺癌",
+        "onboard_time": 1676514209,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270399,
+        "num": 270399,
+        "word": "现房销售会引起房价上涨吗",
+        "onboard_time": 1676528490,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 254537,
+        "num": 254537,
+        "word": "林孝埈以梦为马不负此生",
+        "onboard_time": 1676530889,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277484,
+        "num": 249943,
+        "word": "MH370失踪事件纪录剧预告",
+        "onboard_time": 1676532033,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233113,
+        "num": 233113,
+        "word": "北京房贷最高可贷到95岁",
+        "onboard_time": 1676517507,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 220218,
+        "num": 220218,
+        "word": "苏州一地发生火灾致6死28伤",
+        "onboard_time": 1676522252,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 209410,
+        "num": 209410,
+        "word": "美一架黑鹰直升机坠毁无人生还",
+        "onboard_time": 1676519615,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185675,
+        "num": 185675,
+        "word": "李荣浩南京演唱会",
+        "onboard_time": 1676528728,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183666,
+        "num": 183666,
+        "word": "圭贤对朴宰范说2PM",
+        "onboard_time": 1676519851,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181285,
+        "num": 181285,
+        "word": "白龙马都没小狗能驼",
+        "onboard_time": 1676528968,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178437,
+        "num": 178437,
+        "word": "警方回应邢台男子背后飞踹拾荒老人",
+        "onboard_time": 1676531732,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 164138,
+        "num": 164138,
+        "word": "张若昀接魏晨的梗",
+        "onboard_time": 1676531012,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159337,
+        "num": 159337,
+        "word": "暂停输入大陆后台湾水果价格暴跌",
+        "onboard_time": 1676510907,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 156872,
+        "num": 156872,
+        "word": "喻文波宋义进合体封面",
+        "onboard_time": 1676525970,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154557,
+        "num": 154557,
+        "word": "你在几岁购入人生第一套房",
+        "onboard_time": 1676517990,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143450,
+        "num": 143450,
+        "word": "杨超越片场喂猫",
+        "onboard_time": 1676530051,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138945,
+        "num": 138945,
+        "word": "狂飙带火的陈皮做菜有多飙",
+        "onboard_time": 1676518711,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135998,
+        "num": 135998,
+        "word": "警方通报职业中专打架致2死2伤",
+        "onboard_time": 1676518169,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 135788,
+        "num": 135788,
+        "word": "王楚然早期回应像刘亦菲",
+        "onboard_time": 1676505866,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119932,
+        "num": 119932,
+        "word": "可以狂飙但不可以乱飙",
+        "onboard_time": 1676517451,
+        "rank": 46,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 115772,
+        "num": 115772,
+        "word": "与君初相识日版预告",
+        "onboard_time": 1676529329,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101383,
+        "num": 101383,
+        "word": "内娱还有哪些宝藏演员",
+        "onboard_time": 1676527052,
+        "rank": 48,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 99401,
+        "num": 99401,
+        "word": "鹿晗潮牌声明",
+        "onboard_time": 1676510128,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#为人类文明发展注入蓬勃生机#"
+    }
+  }
+}
