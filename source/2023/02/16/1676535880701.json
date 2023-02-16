@@ -1,0 +1,410 @@
+{
+  "runTime": 1676535880701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9199093,
+        "num": 9199093,
+        "word": "石家庄",
+        "onboard_time": 1676531250,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3392091,
+        "num": 3392091,
+        "word": "中国伊朗联合声明",
+        "onboard_time": 1676532579,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 44998,
+        "num": 2533674,
+        "word": "2023春日加油壁纸",
+        "onboard_time": 1676507669,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1931638,
+        "num": 1931638,
+        "word": "A股",
+        "onboard_time": 1676533361,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1892990,
+        "num": 1892990,
+        "word": "石家庄机场确有延误和备降情况",
+        "onboard_time": 1676533481,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1487880,
+        "num": 1487880,
+        "word": "俄罗斯",
+        "onboard_time": 1676531973,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1112983,
+        "num": 1112983,
+        "word": "颖儿手滑点赞付辛博井柏然相关微博",
+        "onboard_time": 1676530831,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1084851,
+        "num": 1084851,
+        "word": "MH370失踪事件纪录剧预告",
+        "onboard_time": 1676532033,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1064375,
+        "num": 1064375,
+        "word": "女子丽江60元买2串烧烤仅8只虫",
+        "onboard_time": 1676531189,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964313,
+        "num": 964313,
+        "word": "广东一男子朝女子泼硫酸连捅数刀",
+        "onboard_time": 1676525072,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 915684,
+        "num": 915684,
+        "word": "北京多个地铁口有人扫码送大鹅",
+        "onboard_time": 1676531794,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822268,
+        "num": 822268,
+        "word": "吴刚回应整容风波",
+        "onboard_time": 1676526449,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 814278,
+        "num": 814278,
+        "word": "00后社恐女生选择当守墓人",
+        "onboard_time": 1676533000,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678552,
+        "num": 678552,
+        "word": "伊能静 不是大家都说的就是真的",
+        "onboard_time": 1676526690,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604775,
+        "num": 604775,
+        "word": "李秀满 我的心好痛",
+        "onboard_time": 1676529509,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603222,
+        "num": 603222,
+        "word": "当爱如火遇上EXO",
+        "onboard_time": 1676534381,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 447969,
+        "num": 447969,
+        "word": "学生恶作剧用60个闹钟图标挡课件",
+        "onboard_time": 1676530287,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 439085,
+        "num": 439085,
+        "word": "吴刚谈儿子出演高晓晨",
+        "onboard_time": 1676513789,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 426141,
+        "num": 426141,
+        "word": "石家庄机场客运航班起降已恢复正常",
+        "onboard_time": 1676534079,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364223,
+        "num": 364223,
+        "word": "房价",
+        "onboard_time": 1676535518,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 350260,
+        "num": 350260,
+        "word": "景甜方声明",
+        "onboard_time": 1676527591,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 346281,
+        "num": 346281,
+        "word": "杜华要把儿子送到黄奕家减肥",
+        "onboard_time": 1676528790,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348502,
+        "num": 340925,
+        "word": "韩国街头擦边球小广告盗用景甜照片",
+        "onboard_time": 1676520270,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320203,
+        "num": 320203,
+        "word": "郑恺第一次为苗苗准备生日惊喜",
+        "onboard_time": 1676527351,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317433,
+        "num": 317433,
+        "word": "股市",
+        "onboard_time": 1676533361,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314754,
+        "num": 314754,
+        "word": "联合国称无权调查北溪爆炸事件",
+        "onboard_time": 1676533782,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311663,
+        "num": 311663,
+        "word": "春楠镜头下的女明星",
+        "onboard_time": 1676534918,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302287,
+        "num": 302287,
+        "word": "林孝埈以梦为马不负此生",
+        "onboard_time": 1676530889,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279751,
+        "num": 279751,
+        "word": "8岁女孩被同学送2万多钻石项链",
+        "onboard_time": 1676516610,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273565,
+        "num": 273565,
+        "word": "送餐小哥一举动揪出113名吸贩毒人员",
+        "onboard_time": 1676524592,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 263907,
+        "num": 263907,
+        "word": "权志龙现身NBA赛场",
+        "onboard_time": 1676529929,
+        "rank": 30,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 259236,
+        "num": 259236,
+        "word": "和疯驴子一起滑雪",
+        "onboard_time": 1676534261,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249032,
+        "num": 249032,
+        "word": "王鹤棣说白马帅是彩虹色",
+        "onboard_time": 1676533599,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246629,
+        "num": 246629,
+        "word": "刘也澄清选择退出娱乐圈",
+        "onboard_time": 1676515291,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237194,
+        "num": 237194,
+        "word": "弟弟陪姐姐看病双双确诊甲状腺癌",
+        "onboard_time": 1676514209,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235436,
+        "num": 235436,
+        "word": "罗永浩交个朋友公司被曝欠薪",
+        "onboard_time": 1676530528,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 233665,
+        "num": 233665,
+        "word": "江苏中小学生首次使用碳中和文具",
+        "onboard_time": 1676533000,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 208184,
+        "num": 208184,
+        "word": "湖人新三巨头合砍70分",
+        "onboard_time": 1676527649,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185046,
+        "num": 185046,
+        "word": "当事人回应交个朋友公司欠薪",
+        "onboard_time": 1676534918,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180003,
+        "num": 180003,
+        "word": "现房销售会引起房价上涨吗",
+        "onboard_time": 1676528490,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 172966,
+        "num": 172966,
+        "word": "苏州一地发生火灾致6死28伤",
+        "onboard_time": 1676522252,
+        "rank": 40,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 161085,
+        "num": 161085,
+        "word": "租房和买房你会选择哪个",
+        "onboard_time": 1676533298,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 152416,
+        "num": 152416,
+        "word": "美一架黑鹰直升机坠毁无人生还",
+        "onboard_time": 1676519615,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144648,
+        "num": 144648,
+        "word": "张若昀接魏晨的梗",
+        "onboard_time": 1676531012,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139290,
+        "num": 139290,
+        "word": "警方回应邢台男子背后飞踹拾荒老人",
+        "onboard_time": 1676531732,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 133935,
+        "num": 133935,
+        "word": "为什么特斯拉一直降价却还能狂赚",
+        "onboard_time": 1676535457,
+        "rank": 45,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 133098,
+        "num": 133098,
+        "word": "多地延长房贷期限年龄意味着什么",
+        "onboard_time": 1676528188,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 132077,
+        "num": 132077,
+        "word": "黄奕回应演丈母娘",
+        "onboard_time": 1676533539,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131843,
+        "num": 131843,
+        "word": "白龙马都没小狗能驼",
+        "onboard_time": 1676528968,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116688,
+        "num": 116688,
+        "word": "基金",
+        "onboard_time": 1676535820,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#锚定发展加把劲#"
+    }
+  }
+}
