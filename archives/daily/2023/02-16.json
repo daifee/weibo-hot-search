@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676546188773,
+  "endTime": 1676547232133,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -147,6 +147,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1635568,
+      "num": 1635568,
+      "word": "大三男生换乘32辆公交从合肥到上海上学",
+      "onboard_time": 1676544450,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1626636,
       "num": 1626636,
       "word": "韩国街头擦边球小广告盗用景甜照片",
@@ -291,14 +299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1082610,
-      "num": 1082610,
-      "word": "大三男生换乘32辆公交从合肥到上海上学",
-      "onboard_time": 1676544450,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1072330,
       "num": 1072330,
       "word": "00后社恐女生选择当守墓人",
@@ -329,6 +329,14 @@
       "onboard_time": 1676529509,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1019857,
+      "num": 1019857,
+      "word": "麻六记回应破产传闻",
+      "onboard_time": 1676545231,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 988592,
@@ -451,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752829,
+      "num": 752829,
+      "word": "吃螺蛳吃出个考古遗址",
+      "onboard_time": 1676544330,
+      "rank": 14,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 738761,
       "num": 738761,
       "word": "日本游客排队告别大熊猫香香",
@@ -507,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 650432,
+      "num": 650432,
+      "word": "孙怡餐厅起名干掉丽珍",
+      "onboard_time": 1676544873,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 639993,
       "num": 639993,
       "word": "郑恺第一次为苗苗准备生日惊喜",
@@ -529,14 +553,6 @@
       "onboard_time": 1676511269,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 614547,
-      "num": 507687,
-      "word": "吃螺蛳吃出个考古遗址",
-      "onboard_time": 1676544330,
-      "rank": 14,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 607571,
@@ -625,14 +641,6 @@
       "onboard_time": 1676512292,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 524878,
-      "num": 524878,
-      "word": "麻六记回应破产传闻",
-      "onboard_time": 1676545231,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 522500,
@@ -907,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409907,
+      "num": 409907,
+      "word": "近三成农村青年无生育意愿",
+      "onboard_time": 1676546312,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409035,
       "num": 409035,
       "word": "倪大红惠英红梁家辉叶童打水仗花絮",
@@ -929,14 +945,6 @@
       "onboard_time": 1676525970,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 383266,
-      "num": 383266,
-      "word": "孙怡餐厅起名干掉丽珍",
-      "onboard_time": 1676544873,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 371022,
@@ -1091,12 +1099,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285466,
+      "num": 285466,
+      "word": "别再试着说服父母了",
+      "onboard_time": 1676545891,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284826,
       "num": 284826,
       "word": "林俊杰现场观战篮网",
       "onboard_time": 1676515949,
       "rank": 24,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 283420,
+      "num": 283420,
+      "word": "利剑玫瑰",
+      "onboard_time": 1676545470,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 279908,
@@ -1171,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265372,
+      "num": 265372,
+      "word": "银行人士称房贷年龄延至90岁意义不大",
+      "onboard_time": 1676546012,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 255881,
       "num": 255881,
       "word": "RNG拖欠奖金",
@@ -1203,8 +1235,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244317,
-      "num": 244317,
+      "raw_hot": 248512,
+      "num": 248512,
       "word": "被影子打了的小狗",
       "onboard_time": 1676543251,
       "rank": 43,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1676541393,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229602,
+      "num": 229602,
+      "word": "RNG战胜FPX",
+      "onboard_time": 1676546371,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 229359,
@@ -1307,6 +1347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219585,
+      "num": 219585,
+      "word": "宋雨琦脸颊比心",
+      "onboard_time": 1676546790,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219113,
       "num": 219113,
       "word": "以为主人被欺负的小狗",
@@ -1345,14 +1393,6 @@
       "onboard_time": 1676470655,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 203762,
-      "num": 203762,
-      "word": "利剑玫瑰",
-      "onboard_time": 1676545470,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 202950,
@@ -1401,6 +1441,14 @@
       "onboard_time": 1676538760,
       "rank": 37,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 193741,
+      "num": 193741,
+      "word": "科学家首次发现暗能量源于黑洞的证据",
+      "onboard_time": 1676544211,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 192827,
@@ -1507,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180629,
+      "num": 180629,
+      "word": "我们取得疫情防控重大决定性胜利",
+      "onboard_time": 1676547152,
+      "rank": 41,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 179752,
       "num": 179752,
       "word": "高叶谈与陈书婷的相遇",
@@ -1587,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169812,
-      "num": 169812,
-      "word": "科学家首次发现暗能量源于黑洞的证据",
-      "onboard_time": 1676544211,
-      "rank": 46,
-      "category": "科技"
-    },
-    {
       "raw_hot": 169761,
       "num": 169761,
       "word": "Haerin今日活动生图",
@@ -1641,14 +1689,6 @@
       "onboard_time": 1676533298,
       "rank": 41,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 160818,
-      "num": 160818,
-      "word": "别再试着说服父母了",
-      "onboard_time": 1676545891,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 159301,
@@ -1705,14 +1745,6 @@
       "onboard_time": 1676528188,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151513,
-      "num": 151513,
-      "word": "银行人士称房贷年龄延至90岁意义不大",
-      "onboard_time": 1676546012,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 149444,
@@ -1883,8 +1915,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 48189,
-      "num": 152054,
+      "raw_hot": 55998,
+      "num": 152493,
       "word": "国产新能源有BBA那味儿了",
       "onboard_time": 1676546132,
       "rank": 48,

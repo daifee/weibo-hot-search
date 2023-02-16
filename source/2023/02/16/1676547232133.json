@@ -1,0 +1,410 @@
+{
+  "runTime": 1676547232133,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2140934,
+        "num": 2140934,
+        "word": "因衣服长时间放购物车被客服嘲讽",
+        "onboard_time": 1676540431,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1635568,
+        "num": 1635568,
+        "word": "大三男生换乘32辆公交从合肥到上海上学",
+        "onboard_time": 1676544450,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18563,
+        "num": 1262860,
+        "word": "2023春日加油壁纸",
+        "onboard_time": 1676507669,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019857,
+        "num": 1019857,
+        "word": "麻六记回应破产传闻",
+        "onboard_time": 1676545231,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 752829,
+        "num": 752829,
+        "word": "吃螺蛳吃出个考古遗址",
+        "onboard_time": 1676544330,
+        "rank": 4,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1236255,
+        "num": 720572,
+        "word": "石家庄上空发现气球",
+        "onboard_time": 1676538938,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687168,
+        "num": 687168,
+        "word": "王登峰被逮捕",
+        "onboard_time": 1676540731,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663148,
+        "num": 663148,
+        "word": "单身社会来临了吗",
+        "onboard_time": 1676540431,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 650432,
+        "num": 650432,
+        "word": "孙怡餐厅起名干掉丽珍",
+        "onboard_time": 1676544873,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464717,
+        "num": 464717,
+        "word": "石家庄临时空中管制已解除",
+        "onboard_time": 1676531250,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916489,
+        "num": 464666,
+        "word": "麦当劳叫Lisa妈妈",
+        "onboard_time": 1676544570,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 855634,
+        "num": 464349,
+        "word": "泰国偶遇宋茜",
+        "onboard_time": 1676541511,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662613,
+        "num": 464080,
+        "word": "虞书欣白色吊带长裙",
+        "onboard_time": 1676545412,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463430,
+        "num": 463430,
+        "word": "A股跳水的原因是什么",
+        "onboard_time": 1676539954,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 627488,
+        "num": 448657,
+        "word": "李钟硕颜值回春",
+        "onboard_time": 1676537137,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 432642,
+        "num": 432642,
+        "word": "女子丽江60元买2串烧烤仅8只虫",
+        "onboard_time": 1676531189,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422114,
+        "num": 422114,
+        "word": "北京多个地铁口有人扫码送大鹅",
+        "onboard_time": 1676531794,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409907,
+        "num": 409907,
+        "word": "近三成农村青年无生育意愿",
+        "onboard_time": 1676546312,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375214,
+        "num": 375214,
+        "word": "W两个世界翻拍版预告",
+        "onboard_time": 1676535996,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350260,
+        "num": 350260,
+        "word": "00后社恐女生选择当守墓人",
+        "onboard_time": 1676533000,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349044,
+        "num": 349044,
+        "word": "吴刚回应整容风波",
+        "onboard_time": 1676526449,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341371,
+        "num": 341371,
+        "word": "中国伊朗联合声明",
+        "onboard_time": 1676532579,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 297448,
+        "num": 297448,
+        "word": "天蝎座的心思你别乱猜",
+        "onboard_time": 1676536115,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285466,
+        "num": 285466,
+        "word": "别再试着说服父母了",
+        "onboard_time": 1676545891,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283420,
+        "num": 283420,
+        "word": "利剑玫瑰",
+        "onboard_time": 1676545470,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282758,
+        "num": 282758,
+        "word": "西安发现长安城朱雀大街五桥并列遗址",
+        "onboard_time": 1676541993,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 268130,
+        "num": 268130,
+        "word": "俄乌局势最新进展",
+        "onboard_time": 1676531973,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 266028,
+        "num": 266028,
+        "word": "SMTOWN将出售子公司",
+        "onboard_time": 1676543431,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265372,
+        "num": 265372,
+        "word": "银行人士称房贷年龄延至90岁意义不大",
+        "onboard_time": 1676546012,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 251905,
+        "num": 251905,
+        "word": "工作太久都不会说人话了",
+        "onboard_time": 1676537317,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248512,
+        "num": 248512,
+        "word": "被影子打了的小狗",
+        "onboard_time": 1676543251,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 235205,
+        "num": 235205,
+        "word": "MH370失踪事件纪录剧预告",
+        "onboard_time": 1676532033,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229602,
+        "num": 229602,
+        "word": "RNG战胜FPX",
+        "onboard_time": 1676546371,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219585,
+        "num": 219585,
+        "word": "宋雨琦脸颊比心",
+        "onboard_time": 1676546790,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209011,
+        "num": 209011,
+        "word": "目前全国现房均价比期房便宜",
+        "onboard_time": 1676535518,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 206377,
+        "num": 206377,
+        "word": "联合国称无权调查北溪爆炸事件",
+        "onboard_time": 1676533782,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200329,
+        "num": 200329,
+        "word": "和疯驴子一起滑雪",
+        "onboard_time": 1676534261,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199317,
+        "num": 199317,
+        "word": "多地公布考研初试查分时间",
+        "onboard_time": 1676537677,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193741,
+        "num": 193741,
+        "word": "科学家首次发现暗能量源于黑洞的证据",
+        "onboard_time": 1676544211,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 189100,
+        "num": 189100,
+        "word": "石家庄机场确有延误和备降情况",
+        "onboard_time": 1676533481,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180850,
+        "num": 180850,
+        "word": "当爱如火遇上EXO",
+        "onboard_time": 1676534381,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180629,
+        "num": 180629,
+        "word": "我们取得疫情防控重大决定性胜利",
+        "onboard_time": 1676547152,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 175692,
+        "num": 175692,
+        "word": "李秀满 我的心好痛",
+        "onboard_time": 1676529509,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160618,
+        "num": 160618,
+        "word": "2022优酷独播剧点播播放量破10亿剧集",
+        "onboard_time": 1676536654,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160093,
+        "num": 160093,
+        "word": "妇联回应女孩自曝全家被父亲家暴",
+        "onboard_time": 1676536718,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 157844,
+        "num": 157844,
+        "word": "aespa演唱会剧透练习室",
+        "onboard_time": 1676542293,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156311,
+        "num": 156311,
+        "word": "李现参加去有风的地方研讨会",
+        "onboard_time": 1676537799,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55998,
+        "num": 152493,
+        "word": "国产新能源有BBA那味儿了",
+        "onboard_time": 1676546132,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151398,
+        "num": 151398,
+        "word": "不虚此行首曝胡歌吴磊双人剧照",
+        "onboard_time": 1676540731,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144057,
+        "num": 144057,
+        "word": "谁能拒绝站起来的小熊猫",
+        "onboard_time": 1676542180,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#锚定发展加把劲#"
+    }
+  }
+}
