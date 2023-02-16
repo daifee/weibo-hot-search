@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676521425628,
+  "endTime": 1676522329561,
   "band_list": [
     {
       "raw_hot": 8185446,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1626636,
+      "num": 1626636,
+      "word": "韩国街头擦边球小广告盗用景甜照片",
+      "onboard_time": 1676520270,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1565021,
       "num": 1565021,
       "word": "8岁女孩被同学送2万多钻石项链",
@@ -81,14 +89,6 @@
       "onboard_time": 1676517507,
       "rank": 38,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1245387,
-      "num": 1245387,
-      "word": "韩国街头擦边球小广告盗用景甜照片",
-      "onboard_time": 1676520270,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1197566,
@@ -155,8 +155,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 865658,
-      "num": 865658,
+      "raw_hot": 867897,
+      "num": 867897,
       "word": "警方通报职业中专打架致2死2伤",
       "onboard_time": 1676518169,
       "rank": 37,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 771257,
+      "num": 771257,
+      "word": "你在几岁购入人生第一套房",
+      "onboard_time": 1676517990,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738761,
       "num": 738761,
       "word": "日本游客排队告别大熊猫香香",
@@ -211,28 +219,20 @@
       "category": "幽默,影视"
     },
     {
-      "raw_hot": 668210,
-      "num": 668210,
-      "word": "没有我的城主演 张译杨幂",
-      "onboard_time": 1676475510,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 660942,
-      "num": 660942,
+      "raw_hot": 695515,
+      "num": 695515,
       "word": "圭贤对朴宰范说2PM",
       "onboard_time": 1676519851,
       "rank": 11,
       "category": "综艺"
     },
     {
-      "raw_hot": 626606,
-      "num": 626606,
-      "word": "你在几岁购入人生第一套房",
-      "onboard_time": 1676517990,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 668210,
+      "num": 668210,
+      "word": "没有我的城主演 张译杨幂",
+      "onboard_time": 1676475510,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 618339,
@@ -267,6 +267,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 548174,
+      "num": 548174,
+      "word": "经纪人改口否认刘文正死讯",
+      "onboard_time": 1676522132,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544504,
       "num": 491842,
       "word": "上海人正在排队出国",
@@ -275,8 +283,8 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 528658,
-      "num": 528658,
+      "raw_hot": 530651,
+      "num": 530651,
       "word": "老人跳广场舞猝死家属索赔组织者",
       "onboard_time": 1676516368,
       "rank": 14,
@@ -297,6 +305,14 @@
       "onboard_time": 1676511447,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 522454,
+      "num": 522454,
+      "word": "狂飙带火的陈皮做菜有多飙",
+      "onboard_time": 1676518711,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 520919,
@@ -385,14 +401,6 @@
       "onboard_time": 1676507007,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444675,
-      "num": 444675,
-      "word": "狂飙带火的陈皮做菜有多飙",
-      "onboard_time": 1676518711,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 444311,
@@ -489,6 +497,14 @@
       "onboard_time": 1676520574,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338648,
+      "num": 338648,
+      "word": "王鹤棣喷防晒姿势",
+      "onboard_time": 1676521896,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 325239,
@@ -611,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237799,
+      "num": 237799,
+      "word": "王霏霏时装周看秀状态",
+      "onboard_time": 1676521533,
+      "rank": 41,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 236992,
       "num": 236992,
       "word": "徐正溪问谁的孩子",
@@ -667,6 +691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219614,
+      "num": 219614,
+      "word": "苏州一地发生火灾致6死28伤",
+      "onboard_time": 1676522252,
+      "rank": 42,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 219113,
       "num": 219113,
       "word": "以为主人被欺负的小狗",
@@ -691,20 +723,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 202950,
+      "num": 202950,
+      "word": "魏晨大侦探8飞跃疯人愿录制花絮",
+      "onboard_time": 1676521292,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202612,
       "num": 202612,
       "word": "教材中有多处地图漏绘我国台湾省",
       "onboard_time": 1676472095,
       "rank": 39,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 199302,
-      "num": 199302,
-      "word": "魏晨大侦探8飞跃疯人愿录制花絮",
-      "onboard_time": 1676521292,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 197503,
@@ -792,6 +824,14 @@
       "word": "在芝加哥中国公民加强安全防范",
       "onboard_time": 1676509109,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170359,
+      "num": 170359,
+      "word": "这下骑马上学实锤了",
+      "onboard_time": 1676522313,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -987,20 +1027,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93794,
+      "num": 1903645,
+      "word": "2023春日加油壁纸",
+      "onboard_time": 1676507669,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85278,
       "num": 85278,
       "word": "张芷溪新剧演杨超越妈妈",
       "onboard_time": 1676485875,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 71913,
-      "num": 1903645,
-      "word": "2023春日加油壁纸",
-      "onboard_time": 1676507669,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43757,
@@ -1011,8 +1051,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30662,
-      "num": 581964,
+      "raw_hot": 36025,
+      "num": 603140,
       "word": "女明星大片表现力",
       "onboard_time": 1676520031,
       "rank": 14,

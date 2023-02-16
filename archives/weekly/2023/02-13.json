@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676521425628,
+  "endTime": 1676522329561,
   "band_list": [
     {
       "raw_hot": 8185446,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1626636,
+      "num": 1626636,
+      "word": "韩国街头擦边球小广告盗用景甜照片",
+      "onboard_time": 1676520270,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1616279,
       "num": 1616279,
       "word": "刘亚仁涉嫌逃兵役",
@@ -801,14 +809,6 @@
       "onboard_time": 1676300638,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1245387,
-      "num": 1245387,
-      "word": "韩国街头擦边球小广告盗用景甜照片",
-      "onboard_time": 1676520270,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1236135,
@@ -1387,20 +1387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 867897,
+      "num": 867897,
+      "word": "警方通报职业中专打架致2死2伤",
+      "onboard_time": 1676518169,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 865763,
       "num": 865763,
       "word": "农村老人为何不愿意进城养老",
       "onboard_time": 1676240353,
       "rank": 25,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 865658,
-      "num": 865658,
-      "word": "警方通报职业中专打架致2死2伤",
-      "onboard_time": 1676518169,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 865609,
@@ -1672,6 +1672,14 @@
       "word": "女孩与他人喝酒过夜当街与男友争吵",
       "onboard_time": 1676348076,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771257,
+      "num": 771257,
+      "word": "你在几岁购入人生第一套房",
+      "onboard_time": 1676517990,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1987,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 695515,
+      "num": 695515,
+      "word": "圭贤对朴宰范说2PM",
+      "onboard_time": 1676519851,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 694275,
       "num": 694275,
       "word": "齐齐哈尔气象局回应现不明飞行物",
@@ -2131,14 +2147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 660942,
-      "num": 660942,
-      "word": "圭贤对朴宰范说2PM",
-      "onboard_time": 1676519851,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 656278,
       "num": 656278,
       "word": "王霏霏Min合体梦回missA",
@@ -2273,14 +2281,6 @@
       "onboard_time": 1676360373,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 626606,
-      "num": 626606,
-      "word": "你在几岁购入人生第一套房",
-      "onboard_time": 1676517990,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 623214,
@@ -2667,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 548174,
+      "num": 548174,
+      "word": "经纪人改口否认刘文正死讯",
+      "onboard_time": 1676522132,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 546259,
       "num": 546259,
       "word": "毛林林演大学生",
@@ -2739,8 +2747,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528658,
-      "num": 528658,
+      "raw_hot": 530651,
+      "num": 530651,
       "word": "老人跳广场舞猝死家属索赔组织者",
       "onboard_time": 1676516368,
       "rank": 14,
@@ -2793,6 +2801,14 @@
       "onboard_time": 1676511447,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 522454,
+      "num": 522454,
+      "word": "狂飙带火的陈皮做菜有多飙",
+      "onboard_time": 1676518711,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 522415,
@@ -3329,14 +3345,6 @@
       "onboard_time": 1676507007,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444675,
-      "num": 444675,
-      "word": "狂飙带火的陈皮做菜有多飙",
-      "onboard_time": 1676518711,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 444311,
@@ -4281,6 +4289,14 @@
       "onboard_time": 1676520574,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338648,
+      "num": 338648,
+      "word": "王鹤棣喷防晒姿势",
+      "onboard_time": 1676521896,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 338434,
@@ -5611,6 +5627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237799,
+      "num": 237799,
+      "word": "王霏霏时装周看秀状态",
+      "onboard_time": 1676521533,
+      "rank": 41,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 237708,
       "num": 237708,
       "word": "俄亥俄州数年后或现大批癌症患者",
@@ -5907,6 +5931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219614,
+      "num": 219614,
+      "word": "苏州一地发生火灾致6死28伤",
+      "onboard_time": 1676522252,
+      "rank": 42,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 219396,
       "num": 219396,
       "word": "姐弟俩仿冒论文期刊四年牟利1800多万",
@@ -6139,6 +6171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202950,
+      "num": 202950,
+      "word": "魏晨大侦探8飞跃疯人愿录制花絮",
+      "onboard_time": 1676521292,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202620,
       "num": 202620,
       "word": "王者打野英雄怎么玩",
@@ -6217,14 +6257,6 @@
       "onboard_time": 1676372854,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199302,
-      "num": 199302,
-      "word": "魏晨大侦探8飞跃疯人愿录制花絮",
-      "onboard_time": 1676521292,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 198437,
@@ -6889,6 +6921,14 @@
       "onboard_time": 1676436937,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170359,
+      "num": 170359,
+      "word": "这下骑马上学实锤了",
+      "onboard_time": 1676522313,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170192,
@@ -7643,6 +7683,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 93794,
+      "num": 1903645,
+      "word": "2023春日加油壁纸",
+      "onboard_time": 1676507669,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90508,
       "num": 90508,
       "word": "刘宇宁特效视频",
@@ -7695,14 +7743,6 @@
       "num": 1682601,
       "word": "文物背后有料有趣的中国故事",
       "onboard_time": 1676465070,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71913,
-      "num": 1903645,
-      "word": "2023春日加油壁纸",
-      "onboard_time": 1676507669,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -7803,20 +7843,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36025,
+      "num": 603140,
+      "word": "女明星大片表现力",
+      "onboard_time": 1676520031,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 32361,
       "num": 1158598,
       "word": "向着新目标奋楫再出发",
       "onboard_time": 1676284539,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30662,
-      "num": 581964,
-      "word": "女明星大片表现力",
-      "onboard_time": 1676520031,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 26532,
