@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676551032232,
+  "endTime": 1676552157025,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -923,6 +923,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1270746,
+      "num": 1098984,
+      "word": "科学家研发出男性避孕药",
+      "onboard_time": 1676547811,
+      "rank": 5,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1268608,
       "num": 1268608,
       "word": "王传君说大家对王一博有一些误解",
@@ -1243,14 +1251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1098984,
-      "num": 1098984,
-      "word": "科学家研发出男性避孕药",
-      "onboard_time": 1676547811,
-      "rank": 5,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 1095869,
       "num": 1095869,
       "word": "苏乞儿",
@@ -1483,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 958968,
+      "num": 958968,
+      "word": "警方通报女子被丈夫割喉",
+      "onboard_time": 1676547748,
+      "rank": 7,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 958154,
       "num": 958154,
       "word": "朴灿烈吴世勋情人节视频",
@@ -1657,14 +1665,6 @@
       "onboard_time": 1676341052,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 877123,
-      "num": 877123,
-      "word": "警方通报女子被丈夫割喉",
-      "onboard_time": 1676547748,
-      "rank": 7,
-      "category": "社会负面"
     },
     {
       "raw_hot": 874644,
@@ -3539,6 +3539,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 479604,
+      "num": 479604,
+      "word": "梦中的那片海预约破80万",
+      "onboard_time": 1676550510,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 479566,
       "num": 479566,
       "word": "湖人首发",
@@ -3673,6 +3681,14 @@
       "onboard_time": 1676256146,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 463265,
+      "num": 463265,
+      "word": "内地男歌手音乐油管订阅数排行",
+      "onboard_time": 1676551951,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 462765,
@@ -3891,6 +3907,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 438587,
+      "num": 438587,
+      "word": "Jennie齐刘海造型拍摄花絮",
+      "onboard_time": 1676551712,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 435368,
       "num": 435368,
       "word": "蚁人3口碑",
@@ -4057,6 +4081,14 @@
       "onboard_time": 1676279861,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 417503,
+      "num": 417503,
+      "word": "朱珠剧中光头造型",
+      "onboard_time": 1676549552,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 416634,
@@ -4243,6 +4275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 403907,
+      "num": 403907,
+      "word": "你能接受结婚不举办婚礼吗",
+      "onboard_time": 1676551049,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 403547,
       "num": 403547,
       "word": "张碧晨说下个目标是开飞机",
@@ -4251,28 +4291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 399497,
-      "num": 399497,
-      "word": "朱珠剧中光头造型",
-      "onboard_time": 1676549552,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 399285,
       "num": 399285,
       "word": "原来老一辈才是恋爱高手",
       "onboard_time": 1676360134,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 399244,
-      "num": 399244,
-      "word": "梦中的那片海预约破80万",
-      "onboard_time": 1676550510,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 395655,
@@ -5123,6 +5147,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 316360,
+      "num": 316360,
+      "word": "陈星旭原声",
+      "onboard_time": 1676551590,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315969,
       "num": 315969,
       "word": "住户存款增加意味着什么",
@@ -5923,6 +5955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268337,
+      "num": 268337,
+      "word": "你吃过章肥虾吗",
+      "onboard_time": 1676549850,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 268166,
       "num": 268166,
       "word": "JDG对战EDG",
@@ -6041,6 +6081,14 @@
       "onboard_time": 1676207855,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257232,
+      "num": 257232,
+      "word": "微信公众号上线图片消息",
+      "onboard_time": 1676550091,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 257227,
@@ -6649,14 +6697,6 @@
       "onboard_time": 1676424510,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220622,
-      "num": 220622,
-      "word": "你吃过章肥虾吗",
-      "onboard_time": 1676549850,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 220551,
@@ -7303,14 +7343,6 @@
       "num": 188751,
       "word": "苹果先买后付服务将评估借款人",
       "onboard_time": 1676439752,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 188700,
-      "num": 188700,
-      "word": "微信公众号上线图片消息",
-      "onboard_time": 1676550091,
       "rank": 35,
       "category": "科技"
     },
@@ -8841,6 +8873,14 @@
       "onboard_time": 1676316553,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12974,
+      "num": 1026908,
+      "word": "这些铁路有望今年开通",
+      "onboard_time": 1676552131,
+      "rank": 2,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [

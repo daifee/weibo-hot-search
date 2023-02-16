@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/01 00:26:13 ~ 2023/02/16 20:37:12
+本榜单时间：2023/02/01 00:26:13 ~ 2023/02/16 20:55:57
 </p>
 </blockquote>
 <p>
@@ -2439,6 +2439,12 @@ HYBE将正式接管SMTOWN（热度：1375832）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E5%8F%91%E5%87%BA%E7%94%B7%E6%80%A7%E9%81%BF%E5%AD%95%E8%8D%AF%23" target="weibo">
+科学家研发出男性避孕药（热度：1270746）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E8%AF%B4%E5%A4%A7%E5%AE%B6%E5%AF%B9%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9C%89%E4%B8%80%E4%BA%9B%E8%AF%AF%E8%A7%A3%23" target="weibo">
 王传君说大家对王一博有一些误解（热度：1268608）
 </a>
@@ -3261,12 +3267,6 @@ MH370失踪事件纪录剧预告（热度：1105049）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E5%8F%91%E5%87%BA%E7%94%B7%E6%80%A7%E9%81%BF%E5%AD%95%E8%8D%AF%23" target="weibo">
-科学家研发出男性避孕药（热度：1098984）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%96%8A%E8%84%9A%E7%96%BC%E8%A2%AB%E7%A1%AE%E8%AF%8A%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F%23" target="weibo">
 3岁女童喊脚疼被确诊癌症晚期（热度：1098006）
 </a>
@@ -3969,6 +3969,12 @@ iG正统在iG（热度：980061）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%89%B2%E5%96%89%23" target="weibo">
+警方通报女子被丈夫割喉（热度：958968）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E5%9C%A8%E5%9C%B0%E9%93%81%E9%87%8C%E6%8A%BD%E7%83%9F%E8%BF%98%E7%BB%99%E5%A8%83%E7%82%B9%E7%83%9F%23" target="weibo">
 大妈在地铁里抽烟还给娃点烟（热度：958216）
 </a>
@@ -4601,12 +4607,6 @@ kpop hpop（热度：895904）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CEDG%23" target="weibo">
 iG战胜EDG（热度：878534）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%89%B2%E5%96%89%23" target="weibo">
-警方通报女子被丈夫割喉（热度：877123）
 </a>
 </li>
 
