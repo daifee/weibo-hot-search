@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676564833275,
+  "endTime": 1676565915487,
   "band_list": [
     {
       "raw_hot": 2748115,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193511,
+      "num": 193511,
+      "word": "论文导师能有多操心",
+      "onboard_time": 1676563231,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192252,
       "num": 192252,
       "word": "因衣服长时间放购物车被客服嘲讽",
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182828,
+      "num": 182828,
+      "word": "章昊高音好稳",
+      "onboard_time": 1676565562,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179629,
       "num": 179629,
       "word": "李兰迪台词",
@@ -281,14 +297,6 @@
       "onboard_time": 1676560474,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154008,
-      "num": 154008,
-      "word": "论文导师能有多操心",
-      "onboard_time": 1676563231,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 149198,
@@ -347,12 +355,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 118903,
+      "num": 118903,
+      "word": "说个名字怎么扭扭捏捏的",
+      "onboard_time": 1676564125,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116307,
       "num": 956718,
       "word": "这些铁路有望今年开通",
       "onboard_time": 1676552131,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 115322,
+      "num": 115322,
+      "word": "泰国偶遇宋茜",
+      "onboard_time": 1676541511,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 114331,
@@ -379,12 +403,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 89291,
-      "num": 89291,
-      "word": "说个名字怎么扭扭捏捏的",
-      "onboard_time": 1676564125,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 93189,
+      "num": 93189,
+      "word": "李钟硕颜值回春",
+      "onboard_time": 1676537137,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 80178,
@@ -393,6 +417,14 @@
       "onboard_time": 1676552308,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 70986,
+      "num": 70986,
+      "word": "如何走出分手的痛苦",
+      "onboard_time": 1676564904,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 66406,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#促进数字经济和实体经济深度融合#"
+    },
+    {
+      "word": "#为人类文明发展注入蓬勃生机#"
     }
   ]
 }
