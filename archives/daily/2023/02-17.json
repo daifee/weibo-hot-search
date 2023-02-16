@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676565915487,
+  "endTime": 1676567774840,
   "band_list": [
     {
       "raw_hot": 2748115,
@@ -219,20 +219,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199869,
+      "num": 199869,
+      "word": "论文导师能有多操心",
+      "onboard_time": 1676563231,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194255,
       "num": 194255,
       "word": "井汲大翔一公舞台镜头",
       "onboard_time": 1676561434,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193511,
-      "num": 193511,
-      "word": "论文导师能有多操心",
-      "onboard_time": 1676563231,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 192252,
@@ -403,6 +403,30 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 96383,
+      "num": 96383,
+      "word": "如何走出分手的痛苦",
+      "onboard_time": 1676564904,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 94079,
+      "num": 94079,
+      "word": "不想开学",
+      "onboard_time": 1676566042,
+      "rank": 35,
+      "category": "教育,情感"
+    },
+    {
+      "raw_hot": 93595,
+      "num": 93595,
+      "word": "于正兰舟引不是改编自将进酒",
+      "onboard_time": 1676566520,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 93189,
       "num": 93189,
       "word": "李钟硕颜值回春",
@@ -417,14 +441,6 @@
       "onboard_time": 1676552308,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 70986,
-      "num": 70986,
-      "word": "如何走出分手的痛苦",
-      "onboard_time": 1676564904,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 66406,

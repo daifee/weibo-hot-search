@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676565915487,
+  "endTime": 1676567774840,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -28219,6 +28219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199869,
+      "num": 199869,
+      "word": "论文导师能有多操心",
+      "onboard_time": 1676563231,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199836,
       "num": 199836,
       "word": "有个通透的妈妈是什么体验",
@@ -28857,14 +28865,6 @@
       "onboard_time": 1675820125,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193511,
-      "num": 193511,
-      "word": "论文导师能有多操心",
-      "onboard_time": 1676563231,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 193491,
@@ -35715,6 +35715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96383,
+      "num": 96383,
+      "word": "如何走出分手的痛苦",
+      "onboard_time": 1676564904,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96293,
       "num": 96293,
       "word": "要和腰间赘肉说拜拜了",
@@ -35737,6 +35745,14 @@
       "onboard_time": 1675897816,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93595,
+      "num": 93595,
+      "word": "于正兰舟引不是改编自将进酒",
+      "onboard_time": 1676566520,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 93074,
@@ -36089,14 +36105,6 @@
       "onboard_time": 1675551194,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70986,
-      "num": 70986,
-      "word": "如何走出分手的痛苦",
-      "onboard_time": 1676564904,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 70217,

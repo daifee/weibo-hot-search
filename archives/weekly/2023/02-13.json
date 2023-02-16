@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676565915487,
+  "endTime": 1676567774840,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -7355,6 +7355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199869,
+      "num": 199869,
+      "word": "论文导师能有多操心",
+      "onboard_time": 1676563231,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199531,
       "num": 199531,
       "word": "你在求职中遇到过性别歧视吗",
@@ -7497,14 +7505,6 @@
       "onboard_time": 1676267819,
       "rank": 34,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 193511,
-      "num": 193511,
-      "word": "论文导师能有多操心",
-      "onboard_time": 1676563231,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 193446,
@@ -9083,6 +9083,30 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 96383,
+      "num": 96383,
+      "word": "如何走出分手的痛苦",
+      "onboard_time": 1676564904,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 94079,
+      "num": 94079,
+      "word": "不想开学",
+      "onboard_time": 1676566042,
+      "rank": 35,
+      "category": "教育,情感"
+    },
+    {
+      "raw_hot": 93595,
+      "num": 93595,
+      "word": "于正兰舟引不是改编自将进酒",
+      "onboard_time": 1676566520,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 90508,
       "num": 90508,
       "word": "刘宇宁特效视频",
@@ -9137,14 +9161,6 @@
       "onboard_time": 1676465070,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70986,
-      "num": 70986,
-      "word": "如何走出分手的痛苦",
-      "onboard_time": 1676564904,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 68609,
