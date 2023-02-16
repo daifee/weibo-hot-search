@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676524690058,
+  "endTime": 1676525622495,
   "band_list": [
     {
       "raw_hot": 8185446,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3251102,
+      "num": 1611616,
+      "word": "王诗龄好瘦",
+      "onboard_time": 1676523995,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2756415,
       "num": 2756415,
       "word": "吴刚谈儿子出演高晓晨",
       "onboard_time": 1676513789,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2431581,
-      "num": 1611616,
-      "word": "王诗龄好瘦",
-      "onboard_time": 1676523995,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 2364032,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479566,
+      "num": 479566,
+      "word": "湖人首发",
+      "onboard_time": 1676520574,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 462765,
       "num": 462765,
       "word": "90后爸爸为救女扮青蛙卖气球",
@@ -483,12 +491,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 407431,
+      "num": 407431,
+      "word": "送餐小哥一举动揪出113名吸贩毒人员",
+      "onboard_time": 1676524592,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 391972,
       "num": 391972,
       "word": "徐工采访",
       "onboard_time": 1676513851,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 379229,
+      "num": 379229,
+      "word": "广东一男子朝女子泼硫酸连捅数刀",
+      "onboard_time": 1676525072,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 371022,
@@ -505,14 +529,6 @@
       "onboard_time": 1676519615,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348222,
-      "num": 348222,
-      "word": "湖人首发",
-      "onboard_time": 1676520574,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 338648,
@@ -593,6 +609,14 @@
       "onboard_time": 1676523333,
       "rank": 26,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 277850,
+      "num": 277850,
+      "word": "张真源时光音乐会靠近我高音",
+      "onboard_time": 1676524833,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 275448,
@@ -865,14 +889,6 @@
       "onboard_time": 1676510307,
       "rank": 40,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 173534,
-      "num": 173534,
-      "word": "送餐小哥一举动揪出113名吸贩毒人员",
-      "onboard_time": 1676524592,
-      "rank": 46,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 171385,
