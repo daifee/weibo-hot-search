@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676536746306,
+  "endTime": 1676539170641,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -17,6 +17,14 @@
       "onboard_time": 1676509648,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6997376,
+      "num": 6997376,
+      "word": "石家庄临时空中管制已解除",
+      "onboard_time": 1676531250,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4127968,
@@ -539,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1735422,
+      "num": 1735422,
+      "word": "山东舰演练震撼感拉满",
+      "onboard_time": 1676538036,
+      "rank": 3,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1695964,
       "num": 1695964,
       "word": "李菲儿",
@@ -585,6 +601,14 @@
       "onboard_time": 1676459790,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1595131,
+      "num": 1595131,
+      "word": "李钟硕颜值回春",
+      "onboard_time": 1676537137,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1573064,
@@ -731,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1396903,
+      "num": 1396903,
+      "word": "W两个世界翻拍版预告",
+      "onboard_time": 1676535996,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1375832,
       "num": 1375832,
       "word": "HYBE将正式接管SMTOWN",
@@ -849,6 +881,14 @@
       "onboard_time": 1676384318,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1273574,
+      "num": 1273574,
+      "word": "目前全国现房均价比期房便宜",
+      "onboard_time": 1676535518,
+      "rank": 6,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1268608,
@@ -1195,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1072330,
+      "num": 1072330,
+      "word": "00后社恐女生选择当守墓人",
+      "onboard_time": 1676533000,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1070164,
       "num": 1070164,
       "word": "70岁阿姨微信被封哭诉会孤独终老",
@@ -1435,14 +1483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 924624,
-      "num": 924624,
-      "word": "W两个世界翻拍版预告",
-      "onboard_time": 1676535996,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 922717,
       "num": 922717,
       "word": "00后女孩退房后屋里遍地是垃圾",
@@ -1457,14 +1497,6 @@
       "onboard_time": 1676279321,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 917358,
-      "num": 917358,
-      "word": "00后社恐女生选择当守墓人",
-      "onboard_time": 1676533000,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 915684,
@@ -1769,6 +1801,14 @@
       "onboard_time": 1676363496,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 788599,
+      "num": 788599,
+      "word": "石家庄上空发现气球",
+      "onboard_time": 1676538938,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 784599,
@@ -2779,6 +2819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 563732,
+      "num": 563732,
+      "word": "SMTOWN将被税务调查",
+      "onboard_time": 1676538277,
+      "rank": 15,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 559755,
       "num": 512443,
       "word": "谢娜半永久猫眼妆教程vlog",
@@ -3211,6 +3259,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 494632,
+      "num": 494632,
+      "word": "李现参加去有风的地方研讨会",
+      "onboard_time": 1676537799,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 493615,
       "num": 493615,
       "word": "梅德韦杰夫预言欧洲将彻底消失",
@@ -3313,6 +3369,14 @@
       "onboard_time": 1676429009,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 480622,
+      "num": 480622,
+      "word": "联合国称无权调查北溪爆炸事件",
+      "onboard_time": 1676533782,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 480032,
@@ -3547,6 +3611,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 446847,
+      "num": 446847,
+      "word": "天蝎座的心思你别乱猜",
+      "onboard_time": 1676536115,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 446250,
       "num": 446250,
       "word": "李秀满拒绝回答SMTOWN经营权问题",
@@ -3715,6 +3787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 432262,
+      "num": 432262,
+      "word": "EDG官宣Junjia离队",
+      "onboard_time": 1676537620,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 431992,
       "num": 431992,
       "word": "女生称继父在其房间装摄像头多部门已介入",
@@ -3793,6 +3873,14 @@
       "onboard_time": 1676457274,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 421049,
+      "num": 421049,
+      "word": "妇联回应女孩自曝全家被父亲家暴",
+      "onboard_time": 1676536718,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 419863,
@@ -4099,6 +4187,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 388514,
+      "num": 388514,
+      "word": "工作太久都不会说人话了",
+      "onboard_time": 1676537317,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 386120,
       "num": 386120,
       "word": "老人喝隔夜牛肉汤住进ICU",
@@ -4307,6 +4403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367618,
+      "num": 367618,
+      "word": "多地公布考研初试查分时间",
+      "onboard_time": 1676537677,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 367353,
       "num": 367353,
       "word": "多地延长房贷期限年龄意味着什么",
@@ -4433,14 +4537,6 @@
       "onboard_time": 1676279499,
       "rank": 31,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 352030,
-      "num": 352030,
-      "word": "联合国称无权调查北溪爆炸事件",
-      "onboard_time": 1676533782,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 351767,
@@ -4907,6 +5003,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 310654,
+      "num": 310654,
+      "word": "2022优酷独播剧点播播放量破10亿剧集",
+      "onboard_time": 1676536654,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310551,
       "num": 310551,
       "word": "俄亥俄州官方称居民应只使用瓶装水",
@@ -5209,6 +5313,14 @@
       "onboard_time": 1676382632,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 288140,
+      "num": 288140,
+      "word": "和疯驴子一起滑雪",
+      "onboard_time": 1676534261,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 287983,
@@ -5691,14 +5803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259236,
-      "num": 259236,
-      "word": "和疯驴子一起滑雪",
-      "onboard_time": 1676534261,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 259006,
       "num": 259006,
       "word": "中国男子短道速滑队摘银",
@@ -6129,14 +6233,6 @@
       "onboard_time": 1676443110,
       "rank": 40,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 229372,
-      "num": 229372,
-      "word": "天蝎座的心思你别乱猜",
-      "onboard_time": 1676536115,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 229359,
@@ -6715,20 +6811,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195855,
-      "num": 195855,
-      "word": "2022优酷独播剧点播播放量破10亿剧集",
-      "onboard_time": 1676536654,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195226,
       "num": 195226,
       "word": "李小冉李乃文周依然周奇新浪扫楼",
       "onboard_time": 1676365176,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195003,
+      "num": 195003,
+      "word": "起底李秀满香港公司",
+      "onboard_time": 1676538760,
+      "rank": 37,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 194417,
@@ -8137,14 +8233,6 @@
       "onboard_time": 1676214275,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 113028,
-      "num": 113028,
-      "word": "妇联回应女孩自曝全家被父亲家暴",
-      "onboard_time": 1676536718,
-      "rank": 49,
-      "category": "社会负面"
     },
     {
       "raw_hot": 110211,
