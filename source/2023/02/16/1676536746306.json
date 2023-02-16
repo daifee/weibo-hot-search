@@ -1,0 +1,410 @@
+{
+  "runTime": 1676536746306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8510447,
+        "num": 8510447,
+        "word": "石家庄",
+        "onboard_time": 1676531250,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3036803,
+        "num": 3036803,
+        "word": "中国伊朗联合声明",
+        "onboard_time": 1676532579,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 36256,
+        "num": 1850837,
+        "word": "2023春日加油壁纸",
+        "onboard_time": 1676507669,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1277810,
+        "num": 1277810,
+        "word": "石家庄机场确有延误和备降情况",
+        "onboard_time": 1676533481,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1215265,
+        "num": 1215265,
+        "word": "俄乌局势最新进展",
+        "onboard_time": 1676531973,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1105049,
+        "num": 1105049,
+        "word": "MH370失踪事件纪录剧预告",
+        "onboard_time": 1676532033,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1056865,
+        "num": 1056865,
+        "word": "颖儿手滑点赞付辛博井柏然相关微博",
+        "onboard_time": 1676530831,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1001651,
+        "num": 1001651,
+        "word": "女子丽江60元买2串烧烤仅8只虫",
+        "onboard_time": 1676531189,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946454,
+        "num": 946454,
+        "word": "房价",
+        "onboard_time": 1676535518,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 924624,
+        "num": 924624,
+        "word": "W两个世界翻拍版预告",
+        "onboard_time": 1676535996,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 917358,
+        "num": 917358,
+        "word": "00后社恐女生选择当守墓人",
+        "onboard_time": 1676533000,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 894047,
+        "num": 894047,
+        "word": "北京多个地铁口有人扫码送大鹅",
+        "onboard_time": 1676531794,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1431147,
+        "num": 887389,
+        "word": "A股",
+        "onboard_time": 1676533361,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 865303,
+        "num": 865303,
+        "word": "广东一男子朝女子泼硫酸连捅数刀",
+        "onboard_time": 1676525072,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 740567,
+        "num": 740567,
+        "word": "吴刚回应整容风波",
+        "onboard_time": 1676526449,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 580129,
+        "num": 580129,
+        "word": "伊能静 不是大家都说的就是真的",
+        "onboard_time": 1676526690,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549093,
+        "num": 549093,
+        "word": "当爱如火遇上EXO",
+        "onboard_time": 1676534381,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 507082,
+        "num": 507082,
+        "word": "李秀满 我的心好痛",
+        "onboard_time": 1676529509,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414665,
+        "num": 414665,
+        "word": "吴刚谈儿子出演高晓晨",
+        "onboard_time": 1676513789,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 361791,
+        "num": 361791,
+        "word": "学生恶作剧用60个闹钟图标挡课件",
+        "onboard_time": 1676530287,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 352030,
+        "num": 352030,
+        "word": "联合国称无权调查北溪爆炸事件",
+        "onboard_time": 1676533782,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314573,
+        "num": 314573,
+        "word": "韩国街头擦边球小广告盗用景甜照片",
+        "onboard_time": 1676520270,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305964,
+        "num": 305964,
+        "word": "杜华要把儿子送到黄奕家减肥",
+        "onboard_time": 1676528790,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293796,
+        "num": 293796,
+        "word": "景甜方声明",
+        "onboard_time": 1676527591,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 284256,
+        "num": 284256,
+        "word": "春楠镜头下的女明星",
+        "onboard_time": 1676534918,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273138,
+        "num": 273138,
+        "word": "基金",
+        "onboard_time": 1676535820,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 270882,
+        "num": 270882,
+        "word": "8岁女孩被同学送2万多钻石项链",
+        "onboard_time": 1676516610,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268884,
+        "num": 268884,
+        "word": "送餐小哥一举动揪出113名吸贩毒人员",
+        "onboard_time": 1676524592,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 267340,
+        "num": 267340,
+        "word": "林孝埈以梦为马不负此生",
+        "onboard_time": 1676530889,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259128,
+        "num": 259128,
+        "word": "股市",
+        "onboard_time": 1676533361,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 255345,
+        "num": 255345,
+        "word": "郑恺第一次为苗苗准备生日惊喜",
+        "onboard_time": 1676527351,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254827,
+        "num": 254827,
+        "word": "和疯驴子一起滑雪",
+        "onboard_time": 1676534261,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246609,
+        "num": 246609,
+        "word": "石家庄机场客运航班起降已恢复正常",
+        "onboard_time": 1676534079,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229372,
+        "num": 229372,
+        "word": "天蝎座的心思你别乱猜",
+        "onboard_time": 1676536115,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227039,
+        "num": 227039,
+        "word": "刘也澄清选择退出娱乐圈",
+        "onboard_time": 1676515291,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221569,
+        "num": 221569,
+        "word": "权志龙现身NBA赛场",
+        "onboard_time": 1676529929,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 218808,
+        "num": 218808,
+        "word": "罗永浩交个朋友公司被曝欠薪",
+        "onboard_time": 1676530528,
+        "rank": 36,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 202401,
+        "num": 202401,
+        "word": "江苏中小学生首次使用碳中和文具",
+        "onboard_time": 1676533000,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 201189,
+        "num": 201189,
+        "word": "弟弟陪姐姐看病双双确诊甲状腺癌",
+        "onboard_time": 1676514209,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195855,
+        "num": 195855,
+        "word": "2022优酷独播剧点播播放量破10亿剧集",
+        "onboard_time": 1676536654,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191605,
+        "num": 191605,
+        "word": "湖人新三巨头合砍70分",
+        "onboard_time": 1676527649,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183758,
+        "num": 183758,
+        "word": "王鹤棣说白马帅是彩虹色",
+        "onboard_time": 1676533599,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175892,
+        "num": 175892,
+        "word": "现房销售会引起房价上涨吗",
+        "onboard_time": 1676528490,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 173244,
+        "num": 173244,
+        "word": "当事人回应交个朋友公司欠薪",
+        "onboard_time": 1676534918,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170317,
+        "num": 170317,
+        "word": "WE对战VG",
+        "onboard_time": 1676536176,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157667,
+        "num": 157667,
+        "word": "苏州一地发生火灾致6死28伤",
+        "onboard_time": 1676522252,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 142199,
+        "num": 142199,
+        "word": "租房和买房你会选择哪个",
+        "onboard_time": 1676533298,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 140947,
+        "num": 140947,
+        "word": "警方回应邢台男子背后飞踹拾荒老人",
+        "onboard_time": 1676531732,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 124680,
+        "num": 124680,
+        "word": "美一架黑鹰直升机坠毁无人生还",
+        "onboard_time": 1676519615,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113028,
+        "num": 113028,
+        "word": "妇联回应女孩自曝全家被父亲家暴",
+        "onboard_time": 1676536718,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#为人类文明发展注入蓬勃生机#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676535880701,
+  "endTime": 1676536746306,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -163,6 +163,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1215265,
+      "num": 1215265,
+      "word": "俄乌局势最新进展",
+      "onboard_time": 1676531973,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1212165,
       "num": 964313,
       "word": "广东一男子朝女子泼硫酸连捅数刀",
@@ -211,8 +219,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1084851,
-      "num": 1084851,
+      "raw_hot": 1105049,
+      "num": 1105049,
       "word": "MH370失踪事件纪录剧预告",
       "onboard_time": 1676532033,
       "rank": 30,
@@ -248,6 +256,30 @@
       "word": "美国罐车又侧翻剧毒硝酸泄漏",
       "onboard_time": 1676505145,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 946454,
+      "num": 946454,
+      "word": "房价",
+      "onboard_time": 1676535518,
+      "rank": 19,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 924624,
+      "num": 924624,
+      "word": "W两个世界翻拍版预告",
+      "onboard_time": 1676535996,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 917358,
+      "num": 917358,
+      "word": "00后社恐女生选择当守墓人",
+      "onboard_time": 1676533000,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -321,14 +353,6 @@
       "onboard_time": 1676511208,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 814278,
-      "num": 814278,
-      "word": "00后社恐女生选择当守墓人",
-      "onboard_time": 1676533000,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 771257,
@@ -715,19 +739,19 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 364223,
-      "num": 364223,
-      "word": "房价",
-      "onboard_time": 1676535518,
-      "rank": 19,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 355956,
       "num": 355956,
       "word": "美一架黑鹰直升机坠毁无人生还",
       "onboard_time": 1676519615,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352030,
+      "num": 352030,
+      "word": "联合国称无权调查北溪爆炸事件",
+      "onboard_time": 1676533782,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -769,14 +793,6 @@
       "onboard_time": 1676533361,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 314754,
-      "num": 314754,
-      "word": "联合国称无权调查北溪爆炸事件",
-      "onboard_time": 1676533782,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314134,
@@ -883,6 +899,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 273138,
+      "num": 273138,
+      "word": "基金",
+      "onboard_time": 1676535820,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 272757,
       "num": 272757,
       "word": "刘诗诗晒环球影城游玩照",
@@ -977,6 +1001,14 @@
       "onboard_time": 1676533000,
       "rank": 36,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 229372,
+      "num": 229372,
+      "word": "天蝎座的心思你别乱猜",
+      "onboard_time": 1676536115,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 229359,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1676528968,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195855,
+      "num": 195855,
+      "word": "2022优酷独播剧点播播放量破10亿剧集",
+      "onboard_time": 1676536654,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 192827,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1676509109,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170317,
+      "num": 170317,
+      "word": "WE对战VG",
+      "onboard_time": 1676536176,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 170192,
@@ -1483,20 +1531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116688,
-      "num": 116688,
-      "word": "基金",
-      "onboard_time": 1676535820,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 113492,
       "num": 113492,
       "word": "白夜极光",
       "onboard_time": 1676467355,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113028,
+      "num": 113028,
+      "word": "妇联回应女孩自曝全家被父亲家暴",
+      "onboard_time": 1676536718,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 112978,
