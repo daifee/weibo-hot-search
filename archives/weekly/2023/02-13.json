@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676567774840,
+  "endTime": 1676568817945,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -9051,6 +9051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103669,
+      "num": 103669,
+      "word": "不想开学",
+      "onboard_time": 1676566042,
+      "rank": 35,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 102848,
       "num": 102848,
       "word": "教授呼吁医保互助共济算长远帐",
@@ -9083,20 +9091,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 96383,
-      "num": 96383,
+      "raw_hot": 97096,
+      "num": 97096,
       "word": "如何走出分手的痛苦",
       "onboard_time": 1676564904,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 94079,
-      "num": 94079,
-      "word": "不想开学",
-      "onboard_time": 1676566042,
-      "rank": 35,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 93595,

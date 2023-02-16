@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676567774840,
+  "endTime": 1676568817945,
   "band_list": [
     {
       "raw_hot": 2748115,
@@ -395,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103669,
+      "num": 103669,
+      "word": "不想开学",
+      "onboard_time": 1676566042,
+      "rank": 35,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 99035,
       "num": 99035,
       "word": "时装周",
@@ -403,20 +411,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 96383,
-      "num": 96383,
+      "raw_hot": 97096,
+      "num": 97096,
       "word": "如何走出分手的痛苦",
       "onboard_time": 1676564904,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 94079,
-      "num": 94079,
-      "word": "不想开学",
-      "onboard_time": 1676566042,
-      "rank": 35,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 93595,

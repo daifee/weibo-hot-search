@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/13 00:24:26 ~ 2023/02/17 01:16:14
+本榜单时间：2023/02/13 00:24:26 ~ 2023/02/17 01:33:37
 </p>
 </blockquote>
 <p>
@@ -6801,6 +6801,12 @@ WBG春季赛首周冠军（热度：115830）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%83%B3%E5%BC%80%E5%AD%A6%23" target="weibo">
+不想开学（热度：103669）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%91%BC%E5%90%81%E5%8C%BB%E4%BF%9D%E4%BA%92%E5%8A%A9%E5%85%B1%E6%B5%8E%E7%AE%97%E9%95%BF%E8%BF%9C%E5%B8%90%23" target="weibo">
 教授呼吁医保互助共济算长远帐（热度：102848）
 </a>
@@ -6826,13 +6832,7 @@ WBG春季赛首周冠军（热度：115830）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%B5%B0%E5%87%BA%E5%88%86%E6%89%8B%E7%9A%84%E7%97%9B%E8%8B%A6%23" target="weibo">
-如何走出分手的痛苦（热度：96383）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%83%B3%E5%BC%80%E5%AD%A6%23" target="weibo">
-不想开学（热度：94079）
+如何走出分手的痛苦（热度：97096）
 </a>
 </li>
 
