@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676558069264,
+  "endTime": 1676560803433,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -233,6 +233,14 @@
       "onboard_time": 1676442448,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2525413,
+      "num": 2525413,
+      "word": "军烨",
+      "onboard_time": 1676558252,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2495233,
@@ -979,6 +987,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1244056,
+      "num": 1244056,
+      "word": "水牛",
+      "onboard_time": 1676557118,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1236135,
       "num": 1236135,
       "word": "Cat女朋友",
@@ -1699,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 870748,
+      "num": 870748,
+      "word": "农村婚恋现状不容乐观",
+      "onboard_time": 1676557290,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 867897,
       "num": 867897,
       "word": "警方通报职业中专打架致2死2伤",
@@ -1880,6 +1904,14 @@
       "word": "北京疾控公布最新检测阳性率",
       "onboard_time": 1676275604,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 807396,
+      "num": 807396,
+      "word": "男子购买1200元年货32天仍未送达",
+      "onboard_time": 1676558851,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2403,6 +2435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 687834,
+      "num": 687834,
+      "word": "乌啦啦 邯郸",
+      "onboard_time": 1676559093,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 686875,
       "num": 545291,
       "word": "对话毕业5年存款5千女生",
@@ -2881,6 +2921,14 @@
       "onboard_time": 1676432435,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 587573,
+      "num": 587573,
+      "word": "张颂文考古",
+      "onboard_time": 1676558190,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 587064,
@@ -3563,14 +3611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 489395,
-      "num": 489395,
-      "word": "水牛",
-      "onboard_time": 1676557118,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 487466,
       "num": 487466,
       "word": "湖人新三巨头合砍70分",
@@ -4067,6 +4107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 433496,
+      "num": 433496,
+      "word": "王源素颜侧脸随拍",
+      "onboard_time": 1676559033,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433147,
       "num": 433147,
       "word": "王俊凯白色镂空毛衣造型",
@@ -4195,14 +4243,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 418483,
-      "num": 418483,
-      "word": "农村婚恋现状不容乐观",
-      "onboard_time": 1676557290,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 418252,
       "num": 418252,
       "word": "打工仔小张",
@@ -4273,6 +4313,14 @@
       "onboard_time": 1676431952,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 411809,
+      "num": 411809,
+      "word": "张颂文 不止不休",
+      "onboard_time": 1676559693,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 411688,
@@ -4947,6 +4995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 343025,
+      "num": 332427,
+      "word": "BoysPlanet",
+      "onboard_time": 1676560474,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341976,
       "num": 341976,
       "word": "风波亭沙漏",
@@ -5057,6 +5113,14 @@
       "onboard_time": 1676253987,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 331167,
+      "num": 331167,
+      "word": "王子浩镜头",
+      "onboard_time": 1676558851,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 330741,
@@ -5601,6 +5665,14 @@
       "onboard_time": 1676358273,
       "rank": 48,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 292269,
+      "num": 198998,
+      "word": "毛晓彤晒生日照",
+      "onboard_time": 1676559334,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 292148,
@@ -6723,6 +6795,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 227880,
+      "num": 156119,
+      "word": "周杰伦五月天周华健等年内有演唱会计划",
+      "onboard_time": 1676560712,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 226396,
       "num": 226396,
       "word": "人工智能",
@@ -7299,6 +7379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196337,
+      "num": 196337,
+      "word": "很内向",
+      "onboard_time": 1676560234,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195226,
       "num": 195226,
       "word": "李小冉李乃文周依然周奇新浪扫楼",
@@ -7537,6 +7625,14 @@
       "onboard_time": 1676429129,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187477,
+      "num": 187477,
+      "word": "民政局回应3男子飞踹拾荒老人",
+      "onboard_time": 1676559755,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 187438,
@@ -8219,6 +8315,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 160430,
+      "num": 160430,
+      "word": "山东舰舰员中英双语喊话",
+      "onboard_time": 1676557713,
+      "rank": 46,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 160273,
       "num": 160273,
       "word": "吴易昺想在杭州亚运会夺金",
@@ -8547,6 +8651,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 139524,
+      "num": 139524,
+      "word": "中国救援队撤离前把物资留给灾区",
+      "onboard_time": 1676560591,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139433,
       "num": 139433,
       "word": "魏晨说他侦探的回忆在枕边跳动",
@@ -8577,14 +8689,6 @@
       "onboard_time": 1676487313,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136835,
-      "num": 136835,
-      "word": "山东舰舰员中英双语喊话",
-      "onboard_time": 1676557713,
-      "rank": 46,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 136630,
