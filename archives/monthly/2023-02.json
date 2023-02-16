@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676560803433,
+  "endTime": 1676561761138,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -683,6 +683,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2607726,
+      "num": 2607726,
+      "word": "军烨",
+      "onboard_time": 1676558252,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2603672,
       "num": 2603672,
       "word": "金莎 情人节终于有人一起过了",
@@ -737,14 +745,6 @@
       "onboard_time": 1675986629,
       "rank": 10,
       "category": "社会负面,教育"
-    },
-    {
-      "raw_hot": 2525413,
-      "num": 2525413,
-      "word": "军烨",
-      "onboard_time": 1676558252,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 2515740,
@@ -5187,6 +5187,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 975961,
+      "num": 975961,
+      "word": "乌啦啦 邯郸",
+      "onboard_time": 1676559093,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 975836,
       "num": 975836,
       "word": "孟钰的包15万",
@@ -8931,14 +8939,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 687834,
-      "num": 687834,
-      "word": "乌啦啦 邯郸",
-      "onboard_time": 1676559093,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
       "raw_hot": 687671,
       "num": 687671,
       "word": "京东31亿元拿地",
@@ -10811,6 +10811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 588333,
+      "num": 588333,
+      "word": "张颂文考古",
+      "onboard_time": 1676558190,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 588279,
       "num": 588279,
       "word": "恩施人非必要不得前往柬埔寨",
@@ -10833,14 +10841,6 @@
       "onboard_time": 1675478907,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 587573,
-      "num": 587573,
-      "word": "张颂文考古",
-      "onboard_time": 1676558190,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 587362,
@@ -11377,6 +11377,14 @@
       "onboard_time": 1676385936,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 564673,
+      "num": 564673,
+      "word": "周杰伦五月天周华健等年内有演唱会计划",
+      "onboard_time": 1676560712,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 564538,
@@ -12819,6 +12827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 514482,
+      "num": 514482,
+      "word": "很内向",
+      "onboard_time": 1676560234,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 513945,
       "num": 513945,
       "word": "言承旭说从此刻开始我就是萧寒",
@@ -13803,6 +13819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 477889,
+      "num": 477889,
+      "word": "高启强为什么解领带擦玻璃",
+      "onboard_time": 1676560891,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 477656,
       "num": 477656,
       "word": "第一次当爱豆的李泳知",
@@ -14547,6 +14571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452013,
+      "num": 452013,
+      "word": "井汲大翔一公舞台镜头",
+      "onboard_time": 1676561434,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451527,
       "num": 451527,
       "word": "制片人谈狂飙演员片酬",
@@ -14833,6 +14865,14 @@
       "onboard_time": 1675218568,
       "rank": 11,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 441572,
+      "num": 441572,
+      "word": "张颂文 不止不休",
+      "onboard_time": 1676559693,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 441549,
@@ -15257,6 +15297,14 @@
       "onboard_time": 1675219590,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431664,
+      "num": 431664,
+      "word": "民政局回应3男子飞踹拾荒老人",
+      "onboard_time": 1676559755,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 431159,
@@ -15953,14 +16001,6 @@
       "onboard_time": 1676431952,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 411809,
-      "num": 411809,
-      "word": "张颂文 不止不休",
-      "onboard_time": 1676559693,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 411688,
@@ -18811,6 +18851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 344607,
+      "num": 344607,
+      "word": "钟辰乐直播",
+      "onboard_time": 1676554890,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344295,
       "num": 344295,
       "word": "海恩贤圭贴脸搂肩合照",
@@ -18860,7 +18908,7 @@
     },
     {
       "raw_hot": 343025,
-      "num": 332427,
+      "num": 342985,
       "word": "BoysPlanet",
       "onboard_time": 1676560474,
       "rank": 25,
@@ -20313,14 +20361,6 @@
       "onboard_time": 1676176349,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313966,
-      "num": 297148,
-      "word": "钟辰乐直播",
-      "onboard_time": 1676554890,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 313830,
@@ -23387,6 +23427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267601,
+      "num": 189192,
+      "word": "年内演唱会",
+      "onboard_time": 1676560891,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 267480,
       "num": 267480,
       "word": "当爸妈第一次见到缅因猫",
@@ -24041,6 +24089,14 @@
       "onboard_time": 1676245523,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257161,
+      "num": 158508,
+      "word": "张真源开大G",
+      "onboard_time": 1676561731,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 256927,
@@ -26097,14 +26153,6 @@
       "onboard_time": 1676511566,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 227880,
-      "num": 156119,
-      "word": "周杰伦五月天周华健等年内有演唱会计划",
-      "onboard_time": 1676560712,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 227806,
@@ -28499,14 +28547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196337,
-      "num": 196337,
-      "word": "很内向",
-      "onboard_time": 1676560234,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 196316,
       "num": 196316,
       "word": "如何辨别青少年潜在抑郁的求救信号",
@@ -29011,6 +29051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191879,
+      "num": 191879,
+      "word": "小义二连MVP",
+      "onboard_time": 1676561434,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191876,
       "num": 191876,
       "word": "老师离世前默默资助近30位学生",
@@ -29497,14 +29545,6 @@
       "onboard_time": 1676109687,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187477,
-      "num": 187477,
-      "word": "民政局回应3男子飞踹拾荒老人",
-      "onboard_time": 1676559755,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 187438,
@@ -30561,6 +30601,14 @@
       "onboard_time": 1676339971,
       "rank": 41,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 178519,
+      "num": 178519,
+      "word": "中国救援队撤离前把物资留给灾区",
+      "onboard_time": 1676560591,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178455,
@@ -33979,14 +34027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139524,
-      "num": 139524,
-      "word": "中国救援队撤离前把物资留给灾区",
-      "onboard_time": 1676560591,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139433,
       "num": 139433,
       "word": "魏晨说他侦探的回忆在枕边跳动",
@@ -34617,6 +34657,14 @@
       "onboard_time": 1675280232,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130555,
+      "num": 130555,
+      "word": "封闭近三年浙江多所大学官宣开放",
+      "onboard_time": 1676561073,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 130438,

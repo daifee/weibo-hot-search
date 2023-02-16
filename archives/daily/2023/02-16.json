@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676560803433,
+  "endTime": 1676561761138,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -83,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2525413,
-      "num": 2525413,
+      "raw_hot": 2607726,
+      "num": 2607726,
       "word": "军烨",
       "onboard_time": 1676558252,
       "rank": 0,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 975961,
+      "num": 975961,
+      "word": "乌啦啦 邯郸",
+      "onboard_time": 1676559093,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 958968,
       "num": 958968,
       "word": "警方通报女子被丈夫割喉",
@@ -643,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 687834,
-      "num": 687834,
-      "word": "乌啦啦 邯郸",
-      "onboard_time": 1676559093,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
       "raw_hot": 668210,
       "num": 668210,
       "word": "没有我的城主演 张译杨幂",
@@ -739,8 +739,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 587573,
-      "num": 587573,
+      "raw_hot": 588333,
+      "num": 588333,
       "word": "张颂文考古",
       "onboard_time": 1676558190,
       "rank": 12,
@@ -761,6 +761,14 @@
       "onboard_time": 1676530287,
       "rank": 12,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 564673,
+      "num": 564673,
+      "word": "周杰伦五月天周华健等年内有演唱会计划",
+      "onboard_time": 1676560712,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 563732,
@@ -857,6 +865,14 @@
       "onboard_time": 1676510070,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 514482,
+      "num": 514482,
+      "word": "很内向",
+      "onboard_time": 1676560234,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 513878,
@@ -963,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 477889,
+      "num": 477889,
+      "word": "高启强为什么解领带擦玻璃",
+      "onboard_time": 1676560891,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 469437,
       "num": 469437,
       "word": "张新成周雨彤大笑合照",
@@ -1011,6 +1035,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 452013,
+      "num": 452013,
+      "word": "井汲大翔一公舞台镜头",
+      "onboard_time": 1676561434,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449211,
       "num": 449211,
       "word": "aespa演唱会剧透练习室",
@@ -1040,6 +1072,14 @@
       "word": "黄奕演言承旭的丈母娘",
       "onboard_time": 1676477546,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 441572,
+      "num": 441572,
+      "word": "张颂文 不止不休",
+      "onboard_time": 1676559693,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -1073,6 +1113,14 @@
       "onboard_time": 1676537620,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 431664,
+      "num": 431664,
+      "word": "民政局回应3男子飞踹拾荒老人",
+      "onboard_time": 1676559755,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 431159,
@@ -1155,14 +1203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 411809,
-      "num": 411809,
-      "word": "张颂文 不止不休",
-      "onboard_time": 1676559693,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 410686,
       "num": 410686,
       "word": "上海第三机场为什么建在南通",
@@ -1235,8 +1275,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344607,
+      "num": 344607,
+      "word": "钟辰乐直播",
+      "onboard_time": 1676554890,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343025,
-      "num": 332427,
+      "num": 342985,
       "word": "BoysPlanet",
       "onboard_time": 1676560474,
       "rank": 25,
@@ -1313,14 +1361,6 @@
       "onboard_time": 1676497093,
       "rank": 11,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 313966,
-      "num": 297148,
-      "word": "钟辰乐直播",
-      "onboard_time": 1676554890,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 312012,
@@ -1507,6 +1547,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 267601,
+      "num": 189192,
+      "word": "年内演唱会",
+      "onboard_time": 1676560891,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 266853,
       "num": 266853,
       "word": "星落凝成糖日更",
@@ -1537,6 +1585,14 @@
       "onboard_time": 1676550091,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 257161,
+      "num": 158508,
+      "word": "张真源开大G",
+      "onboard_time": 1676561731,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255881,
@@ -1649,14 +1705,6 @@
       "onboard_time": 1676511566,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 227880,
-      "num": 156119,
-      "word": "周杰伦五月天周华健等年内有演唱会计划",
-      "onboard_time": 1676560712,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 227415,
@@ -1811,14 +1859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 196337,
-      "num": 196337,
-      "word": "很内向",
-      "onboard_time": 1676560234,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 195003,
       "num": 195003,
       "word": "起底李秀满香港公司",
@@ -1841,6 +1881,14 @@
       "onboard_time": 1676465190,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 191879,
+      "num": 191879,
+      "word": "小义二连MVP",
+      "onboard_time": 1676561434,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 191619,
@@ -1873,14 +1921,6 @@
       "onboard_time": 1676513910,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187477,
-      "num": 187477,
-      "word": "民政局回应3男子飞踹拾荒老人",
-      "onboard_time": 1676559755,
-      "rank": 37,
-      "category": "社会负面"
     },
     {
       "raw_hot": 187474,
@@ -1953,6 +1993,14 @@
       "onboard_time": 1676525852,
       "rank": 29,
       "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 178519,
+      "num": 178519,
+      "word": "中国救援队撤离前把物资留给灾区",
+      "onboard_time": 1676560591,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178437,
@@ -2187,14 +2235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139524,
-      "num": 139524,
-      "word": "中国救援队撤离前把物资留给灾区",
-      "onboard_time": 1676560591,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139433,
       "num": 139433,
       "word": "魏晨说他侦探的回忆在枕边跳动",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1676533539,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130555,
+      "num": 130555,
+      "word": "封闭近三年浙江多所大学官宣开放",
+      "onboard_time": 1676561073,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 129045,
