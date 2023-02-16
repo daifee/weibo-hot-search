@@ -1,0 +1,410 @@
+{
+  "runTime": 1676583231647,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 91248,
+        "num": 91248,
+        "word": "高启强为什么解领带擦玻璃",
+        "onboard_time": 1676560891,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75565,
+        "num": 75565,
+        "word": "农村婚恋现状不容乐观",
+        "onboard_time": 1676557290,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15458,
+        "num": 66356,
+        "word": "这些铁路有望今年开通",
+        "onboard_time": 1676552131,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 76754,
+        "num": 64341,
+        "word": "大三男生换乘32辆公交从合肥到上海上学",
+        "onboard_time": 1676544450,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62303,
+        "num": 62303,
+        "word": "民政局回应3男子飞踹拾荒老人",
+        "onboard_time": 1676559755,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 59772,
+        "num": 59772,
+        "word": "男子购买1200元年货32天仍未送达",
+        "onboard_time": 1676558851,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58541,
+        "num": 58541,
+        "word": "科学家研发出男性避孕药",
+        "onboard_time": 1676547811,
+        "rank": 6,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 51296,
+        "num": 51296,
+        "word": "我们取得疫情防控重大决定性胜利",
+        "onboard_time": 1676547152,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 49355,
+        "num": 49355,
+        "word": "如何看待隐孕入职",
+        "onboard_time": 1676562869,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44785,
+        "num": 44785,
+        "word": "因衣服长时间放购物车被客服嘲讽",
+        "onboard_time": 1676540431,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118073,
+        "num": 44470,
+        "word": "张真源开大G",
+        "onboard_time": 1676561731,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42941,
+        "num": 42941,
+        "word": "女子两套房养50只流浪猫自己吃杯面",
+        "onboard_time": 1676555551,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37065,
+        "num": 37065,
+        "word": "封闭近三年浙江多所大学官宣开放",
+        "onboard_time": 1676561073,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 36046,
+        "num": 36046,
+        "word": "张艺兴问路人在哪买的冻柠茶",
+        "onboard_time": 1676555731,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33720,
+        "num": 33720,
+        "word": "张颂文 不止不休",
+        "onboard_time": 1676559693,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33016,
+        "num": 33016,
+        "word": "乌啦啦 邯郸",
+        "onboard_time": 1676559093,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31707,
+        "num": 31707,
+        "word": "你能接受结婚不举办婚礼吗",
+        "onboard_time": 1676551049,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29015,
+        "num": 29015,
+        "word": "两对情侣的宿舍生活",
+        "onboard_time": 1676553632,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28884,
+        "num": 28884,
+        "word": "石家庄上空发现气球",
+        "onboard_time": 1676538938,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27931,
+        "num": 27931,
+        "word": "杨超越模仿疯驴子",
+        "onboard_time": 1676553152,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27560,
+        "num": 27560,
+        "word": "中国救援队撤离前把物资留给灾区",
+        "onboard_time": 1676560591,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26092,
+        "num": 26092,
+        "word": "麻六记回应破产传闻",
+        "onboard_time": 1676545231,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25187,
+        "num": 25187,
+        "word": "军烨",
+        "onboard_time": 1676558252,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23404,
+        "num": 23404,
+        "word": "原来看牛吃草这么解压",
+        "onboard_time": 1676562270,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22440,
+        "num": 22440,
+        "word": "华兴资本创始人包凡失联",
+        "onboard_time": 1676556812,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 21682,
+        "num": 21682,
+        "word": "星落凝成糖特效",
+        "onboard_time": 1676562394,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20296,
+        "num": 20296,
+        "word": "朴宰范Tiffany听到2PM的表情",
+        "onboard_time": 1676556152,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19776,
+        "num": 19776,
+        "word": "很内向",
+        "onboard_time": 1676560234,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19617,
+        "num": 19617,
+        "word": "西安碳水天堂不是白叫的",
+        "onboard_time": 1676582592,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19477,
+        "num": 19477,
+        "word": "时装周",
+        "onboard_time": 1676562209,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 70656,
+        "num": 19407,
+        "word": "贾乃亮说艺人没想明白别做直播",
+        "onboard_time": 1676548890,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19272,
+        "num": 19272,
+        "word": "泰国偶遇宋茜",
+        "onboard_time": 1676541511,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18705,
+        "num": 18705,
+        "word": "适合懒人的不费力穿搭",
+        "onboard_time": 1676581452,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 18450,
+        "num": 18450,
+        "word": "水牛",
+        "onboard_time": 1676557118,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18181,
+        "num": 18181,
+        "word": "周杰伦五月天周华健等年内有演唱会计划",
+        "onboard_time": 1676560712,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18034,
+        "num": 18034,
+        "word": "李兰迪台词",
+        "onboard_time": 1676552671,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18015,
+        "num": 18015,
+        "word": "年内演唱会",
+        "onboard_time": 1676560891,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17989,
+        "num": 17989,
+        "word": "Lisa与蒙娜丽莎合照",
+        "onboard_time": 1676555072,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17430,
+        "num": 17430,
+        "word": "不想开学",
+        "onboard_time": 1676566042,
+        "rank": 38,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 17201,
+        "num": 17201,
+        "word": "论文导师能有多操心",
+        "onboard_time": 1676563231,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16676,
+        "num": 16676,
+        "word": "鲍蕾说陆毅胆量有但不多",
+        "onboard_time": 1676574494,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16434,
+        "num": 16434,
+        "word": "说个名字怎么扭扭捏捏的",
+        "onboard_time": 1676564125,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16392,
+        "num": 16392,
+        "word": "Jennie齐刘海造型拍摄花絮",
+        "onboard_time": 1676551712,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16328,
+        "num": 16328,
+        "word": "单身社会来临了吗",
+        "onboard_time": 1676540431,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16162,
+        "num": 16162,
+        "word": "于正兰舟引不是改编自将进酒",
+        "onboard_time": 1676566520,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15764,
+        "num": 15764,
+        "word": "李钟硕颜值回春",
+        "onboard_time": 1676537137,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15132,
+        "num": 15132,
+        "word": "张颂文考古",
+        "onboard_time": 1676558190,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14407,
+        "num": 14407,
+        "word": "王源素颜侧脸随拍",
+        "onboard_time": 1676559033,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13972,
+        "num": 13972,
+        "word": "2023LCK春季赛",
+        "onboard_time": 1676572334,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13670,
+        "num": 13670,
+        "word": "如何走出分手的痛苦",
+        "onboard_time": 1676564904,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#促进数字经济和实体经济深度融合#"
+    }
+  }
+}

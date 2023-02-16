@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676582218416,
+  "endTime": 1676583231647,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -36811,12 +36811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19617,
+      "num": 19617,
+      "word": "西安碳水天堂不是白叫的",
+      "onboard_time": 1676582592,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 19052,
       "num": 19052,
       "word": "原来大一点的哥哥也喜欢玩",
       "onboard_time": 1675543153,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18705,
+      "num": 18705,
+      "word": "适合懒人的不费力穿搭",
+      "onboard_time": 1676581452,
+      "rank": 45,
+      "category": "时尚"
     },
     {
       "raw_hot": 18647,
@@ -36833,14 +36849,6 @@
       "onboard_time": 1675190774,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16004,
-      "num": 16004,
-      "word": "适合懒人的不费力穿搭",
-      "onboard_time": 1676581452,
-      "rank": 45,
-      "category": "时尚"
     }
   ],
   "hotgov_list": [

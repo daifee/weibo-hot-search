@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676582218416,
+  "endTime": 1676583231647,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -9315,20 +9315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19617,
+      "num": 19617,
+      "word": "西安碳水天堂不是白叫的",
+      "onboard_time": 1676582592,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 18705,
+      "num": 18705,
+      "word": "适合懒人的不费力穿搭",
+      "onboard_time": 1676581452,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 18647,
       "num": 18647,
       "word": "向涵之滑雪plog",
       "onboard_time": 1676316553,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16004,
-      "num": 16004,
-      "word": "适合懒人的不费力穿搭",
-      "onboard_time": 1676581452,
-      "rank": 45,
-      "category": "时尚"
     }
   ],
   "hotgov_list": [
