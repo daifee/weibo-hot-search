@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676522329561,
+  "endTime": 1676524690058,
   "band_list": [
     {
       "raw_hot": 8185446,
@@ -11,12 +11,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4020682,
+      "num": 4020682,
+      "word": "经纪人改口否认刘文正死讯",
+      "onboard_time": 1676522132,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2756415,
       "num": 2756415,
       "word": "吴刚谈儿子出演高晓晨",
       "onboard_time": 1676513789,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2431581,
+      "num": 1611616,
+      "word": "王诗龄好瘦",
+      "onboard_time": 1676523995,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2364032,
@@ -137,6 +153,14 @@
       "onboard_time": 1676509410,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 910503,
+      "num": 910503,
+      "word": "苏州一地发生火灾致6死28伤",
+      "onboard_time": 1676522252,
+      "rank": 42,
+      "category": "社会负面"
     },
     {
       "raw_hot": 901779,
@@ -265,14 +289,6 @@
       "onboard_time": 1676508869,
       "rank": 11,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 548174,
-      "num": 548174,
-      "word": "经纪人改口否认刘文正死讯",
-      "onboard_time": 1676522132,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 544504,
@@ -491,8 +507,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339298,
-      "num": 339298,
+      "raw_hot": 348222,
+      "num": 348222,
       "word": "湖人首发",
       "onboard_time": 1676520574,
       "rank": 25,
@@ -571,6 +587,22 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 279908,
+      "num": 279908,
+      "word": "关晓彤维权案件进展说明",
+      "onboard_time": 1676523333,
+      "rank": 26,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 275448,
+      "num": 275448,
+      "word": "这下骑马上学实锤了",
+      "onboard_time": 1676522313,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274193,
       "num": 274193,
       "word": "央行银保监会要求做好提前还款服务",
@@ -601,6 +633,14 @@
       "onboard_time": 1676470234,
       "rank": 17,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 266853,
+      "num": 266853,
+      "word": "星落凝成糖日更",
+      "onboard_time": 1676522912,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 255881,
@@ -683,20 +723,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223532,
+      "num": 223532,
+      "word": "梁朝伟无名戏里戏外反差萌",
+      "onboard_time": 1676523876,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221674,
       "num": 221674,
       "word": "卜尔Q",
       "onboard_time": 1676475032,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 219614,
-      "num": 219614,
-      "word": "苏州一地发生火灾致6死28伤",
-      "onboard_time": 1676522252,
-      "rank": 42,
-      "category": "社会负面"
     },
     {
       "raw_hot": 219113,
@@ -737,6 +777,14 @@
       "onboard_time": 1676472095,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 199478,
+      "num": 199478,
+      "word": "2023全国两会开幕时间",
+      "onboard_time": 1676523816,
+      "rank": 41,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 197503,
@@ -819,19 +867,27 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 173534,
+      "num": 173534,
+      "word": "送餐小哥一举动揪出113名吸贩毒人员",
+      "onboard_time": 1676524592,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 171385,
+      "num": 171385,
+      "word": "银行辟谣南宁房贷能还到100岁",
+      "onboard_time": 1676523274,
+      "rank": 47,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 171028,
       "num": 171028,
       "word": "在芝加哥中国公民加强安全防范",
       "onboard_time": 1676509109,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170359,
-      "num": 170359,
-      "word": "这下骑马上学实锤了",
-      "onboard_time": 1676522313,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -995,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 117358,
+      "num": 1903645,
+      "word": "2023春日加油壁纸",
+      "onboard_time": 1676507669,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113492,
       "num": 113492,
       "word": "白夜极光",
@@ -1027,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93794,
-      "num": 1903645,
-      "word": "2023春日加油壁纸",
-      "onboard_time": 1676507669,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85278,
       "num": 85278,
       "word": "张芷溪新剧演杨超越妈妈",
@@ -1057,6 +1113,14 @@
       "onboard_time": 1676520031,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30037,
+      "num": 205285,
+      "word": "中高端新能源你更看好谁",
+      "onboard_time": 1676523635,
+      "rank": 39,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
