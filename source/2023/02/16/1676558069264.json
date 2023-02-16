@@ -1,0 +1,410 @@
+{
+  "runTime": 1676558069264,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2249392,
+        "num": 2249392,
+        "word": "你能接受结婚不举办婚礼吗",
+        "onboard_time": 1676551049,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1328794,
+        "num": 1328794,
+        "word": "女子两套房养50只流浪猫自己吃杯面",
+        "onboard_time": 1676555551,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144889,
+        "num": 1325042,
+        "word": "这些铁路有望今年开通",
+        "onboard_time": 1676552131,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1324429,
+        "num": 1324429,
+        "word": "贾乃亮说艺人没想明白别做直播",
+        "onboard_time": 1676548890,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 911924,
+        "num": 911924,
+        "word": "大三男生换乘32辆公交从合肥到上海上学",
+        "onboard_time": 1676544450,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887192,
+        "num": 887192,
+        "word": "两对情侣的宿舍生活",
+        "onboard_time": 1676553632,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 859395,
+        "num": 859395,
+        "word": "杨超越模仿疯驴子",
+        "onboard_time": 1676553152,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 810624,
+        "num": 810624,
+        "word": "因衣服长时间放购物车被客服嘲讽",
+        "onboard_time": 1676540431,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752930,
+        "num": 752930,
+        "word": "科学家研发出男性避孕药",
+        "onboard_time": 1676547811,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 712731,
+        "num": 712731,
+        "word": "我们取得疫情防控重大决定性胜利",
+        "onboard_time": 1676547152,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 771670,
+        "num": 712525,
+        "word": "张艺兴问路人在哪买的冻柠茶",
+        "onboard_time": 1676555731,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 710647,
+        "num": 710647,
+        "word": "石家庄上空发现气球",
+        "onboard_time": 1676538938,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644789,
+        "num": 644789,
+        "word": "李兰迪台词",
+        "onboard_time": 1676552671,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571809,
+        "num": 571809,
+        "word": "警方通报女子被丈夫割喉",
+        "onboard_time": 1676547748,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 556596,
+        "num": 556596,
+        "word": "刘诗诗 米兰时装周",
+        "onboard_time": 1676553448,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 511483,
+        "num": 511483,
+        "word": "朴宰范Tiffany听到2PM的表情",
+        "onboard_time": 1676556152,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498958,
+        "num": 498958,
+        "word": "Jennie齐刘海造型拍摄花絮",
+        "onboard_time": 1676551712,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 489395,
+        "num": 489395,
+        "word": "水牛",
+        "onboard_time": 1676557118,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465951,
+        "num": 465951,
+        "word": "胡军刘烨电影望道",
+        "onboard_time": 1676554291,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459844,
+        "num": 459844,
+        "word": "Lisa与蒙娜丽莎合照",
+        "onboard_time": 1676555072,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458876,
+        "num": 458876,
+        "word": "李钟硕颜值回春",
+        "onboard_time": 1676537137,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 430370,
+        "num": 430370,
+        "word": "华兴资本创始人包凡失联",
+        "onboard_time": 1676556812,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 420108,
+        "num": 420108,
+        "word": "张新成周雨彤大笑合照",
+        "onboard_time": 1676553990,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418483,
+        "num": 418483,
+        "word": "农村婚恋现状不容乐观",
+        "onboard_time": 1676557290,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328117,
+        "num": 328117,
+        "word": "麻六记回应破产传闻",
+        "onboard_time": 1676545231,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 388762,
+        "num": 327975,
+        "word": "内地男歌手音乐油管订阅数排行",
+        "onboard_time": 1676551951,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 356823,
+        "num": 327793,
+        "word": "泰国偶遇宋茜",
+        "onboard_time": 1676541511,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327575,
+        "num": 327575,
+        "word": "过半农村老人娱乐为刷短视频",
+        "onboard_time": 1676554772,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297148,
+        "num": 297148,
+        "word": "钟辰乐直播",
+        "onboard_time": 1676554890,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274281,
+        "num": 274281,
+        "word": "虞书欣白色吊带长裙",
+        "onboard_time": 1676545412,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265233,
+        "num": 265233,
+        "word": "不止不休",
+        "onboard_time": 1676557472,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244999,
+        "num": 244999,
+        "word": "单身社会来临了吗",
+        "onboard_time": 1676540431,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237345,
+        "num": 237345,
+        "word": "陈星旭原声",
+        "onboard_time": 1676551590,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233549,
+        "num": 233549,
+        "word": "吃螺蛳吃出个考古遗址",
+        "onboard_time": 1676544330,
+        "rank": 33,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 208258,
+        "num": 218148,
+        "word": "检方提前介入男子割喉妻子案",
+        "onboard_time": 1676555611,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 215125,
+        "num": 215125,
+        "word": "电影无名出现在北电试卷上",
+        "onboard_time": 1676549195,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209267,
+        "num": 209267,
+        "word": "麦当劳叫Lisa妈妈",
+        "onboard_time": 1676544570,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205770,
+        "num": 205770,
+        "word": "XYG对战DYG",
+        "onboard_time": 1676552308,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200956,
+        "num": 200956,
+        "word": "W两个世界翻拍版预告",
+        "onboard_time": 1676535996,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187415,
+        "num": 187415,
+        "word": "基金",
+        "onboard_time": 1676535820,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189197,
+        "num": 185127,
+        "word": "梦中的那片海预约破80万",
+        "onboard_time": 1676550510,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178762,
+        "num": 178762,
+        "word": "星落凝成糖",
+        "onboard_time": 1676548052,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177727,
+        "num": 177727,
+        "word": "石家庄临时空中管制已解除",
+        "onboard_time": 1676531250,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165895,
+        "num": 165895,
+        "word": "中国伊朗联合声明",
+        "onboard_time": 1676532579,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 160230,
+        "num": 160230,
+        "word": "天蝎座的心思你别乱猜",
+        "onboard_time": 1676536115,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149940,
+        "num": 149940,
+        "word": "A股跳水的原因是什么",
+        "onboard_time": 1676539954,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136835,
+        "num": 136835,
+        "word": "山东舰舰员中英双语喊话",
+        "onboard_time": 1676557713,
+        "rank": 46,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 127193,
+        "num": 127193,
+        "word": "重紫有多爱画乌龟",
+        "onboard_time": 1676556638,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126877,
+        "num": 126877,
+        "word": "云南古人有多爱吃螺蛳",
+        "onboard_time": 1676556272,
+        "rank": 48,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 122479,
+        "num": 122479,
+        "word": "明中手术成功",
+        "onboard_time": 1676552970,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#为人类文明发展注入蓬勃生机#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1676478460885,
-  "endTime": 1676557071855,
+  "endTime": 1676558069264,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -217,6 +217,14 @@
       "onboard_time": 1676535996,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1328794,
+      "num": 1328794,
+      "word": "女子两套房养50只流浪猫自己吃杯面",
+      "onboard_time": 1676555551,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1327024,
@@ -451,8 +459,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 886402,
-      "num": 886402,
+      "raw_hot": 887192,
+      "num": 887192,
       "word": "两对情侣的宿舍生活",
       "onboard_time": 1676553632,
       "rank": 22,
@@ -475,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 859395,
+      "num": 859395,
+      "word": "杨超越模仿疯驴子",
+      "onboard_time": 1676553152,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 858625,
       "num": 858625,
       "word": "李成洙曝李秀满海外偷税漏税",
@@ -483,28 +499,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 850180,
-      "num": 850180,
-      "word": "杨超越模仿疯驴子",
-      "onboard_time": 1676553152,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 844463,
       "num": 844463,
       "word": "李秀满",
       "onboard_time": 1676511208,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 836871,
-      "num": 836871,
-      "word": "女子两套房养50只流浪猫自己吃杯面",
-      "onboard_time": 1676555551,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 823227,
@@ -520,6 +520,14 @@
       "word": "Jennie齐刘海造型拍摄花絮",
       "onboard_time": 1676551712,
       "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 771670,
+      "num": 712525,
+      "word": "张艺兴问路人在哪买的冻柠茶",
+      "onboard_time": 1676555731,
+      "rank": 12,
       "category": "作品衍生"
     },
     {
@@ -601,14 +609,6 @@
       "onboard_time": 1676519851,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 679556,
-      "num": 679556,
-      "word": "张艺兴问路人在哪买的冻柠茶",
-      "onboard_time": 1676555731,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 668210,
@@ -819,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 511483,
+      "num": 511483,
+      "word": "朴宰范Tiffany听到2PM的表情",
+      "onboard_time": 1676556152,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509045,
       "num": 509045,
       "word": "邓超听北大学生观后感落泪",
@@ -864,6 +872,14 @@
       "word": "郑恺王鹤棣新剧组职场师徒line",
       "onboard_time": 1676517750,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 489395,
+      "num": 489395,
+      "word": "水牛",
+      "onboard_time": 1676557118,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -1019,6 +1035,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 430370,
+      "num": 430370,
+      "word": "华兴资本创始人包凡失联",
+      "onboard_time": 1676556812,
+      "rank": 32,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 429295,
       "num": 429295,
       "word": "全国人大外事委员会发表声明",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1676529929,
       "rank": 19,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 418483,
+      "num": 418483,
+      "word": "农村婚恋现状不容乐观",
+      "onboard_time": 1676557290,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417503,
@@ -1155,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344208,
-      "num": 258473,
-      "word": "朴宰范Tiffany听到2PM的表情",
-      "onboard_time": 1676556152,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 338648,
       "num": 338648,
       "word": "王鹤棣喷防晒姿势",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1676549129,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 327575,
+      "num": 327575,
+      "word": "过半农村老人娱乐为刷短视频",
+      "onboard_time": 1676554772,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325239,
@@ -1220,7 +1252,7 @@
     },
     {
       "raw_hot": 313966,
-      "num": 257586,
+      "num": 297148,
       "word": "钟辰乐直播",
       "onboard_time": 1676554890,
       "rank": 40,
@@ -1241,14 +1273,6 @@
       "onboard_time": 1676534918,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311490,
-      "num": 311490,
-      "word": "过半农村老人娱乐为刷短视频",
-      "onboard_time": 1676554772,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307914,
@@ -1427,6 +1451,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 265233,
+      "num": 265233,
+      "word": "不止不休",
+      "onboard_time": 1676557472,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260012,
       "num": 260012,
       "word": "微信公众号上线图片消息",
@@ -1473,14 +1505,6 @@
       "onboard_time": 1676543251,
       "rank": 43,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 248137,
-      "num": 229676,
-      "word": "华兴资本创始人包凡失联",
-      "onboard_time": 1676556812,
-      "rank": 32,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 237799,
@@ -1876,7 +1900,7 @@
     },
     {
       "raw_hot": 172508,
-      "num": 1314614,
+      "num": 1325042,
       "word": "这些铁路有望今年开通",
       "onboard_time": 1676552131,
       "rank": 2,
@@ -2073,6 +2097,14 @@
       "onboard_time": 1676487313,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136835,
+      "num": 136835,
+      "word": "山东舰舰员中英双语喊话",
+      "onboard_time": 1676557713,
+      "rank": 46,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 136630,
