@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676675949513,
+  "endTime": 1676676816812,
   "band_list": [
     {
       "raw_hot": 2893078,
@@ -91,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 525872,
+      "num": 525872,
+      "word": "蜜雪冰城没关音响扰民一宿居民报警",
+      "onboard_time": 1676653880,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470959,
       "num": 470959,
       "word": "放羊的星星刘荷娜近照",
       "onboard_time": 1676624672,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 453396,
-      "num": 453396,
-      "word": "蜜雪冰城没关音响扰民一宿居民报警",
-      "onboard_time": 1676653880,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 448592,
@@ -155,6 +155,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 340493,
+      "num": 340493,
+      "word": "李成洙要求李秀满下跪道歉",
+      "onboard_time": 1676676140,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330946,
       "num": 330946,
       "word": "乌梅子酱搜索量暴涨200倍",
@@ -185,6 +193,30 @@
       "onboard_time": 1676635112,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 285423,
+      "num": 285423,
+      "word": "大学生谈恋爱要不要AA制",
+      "onboard_time": 1676660714,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 276056,
+      "num": 276056,
+      "word": "金希澈 泡泡",
+      "onboard_time": 1676676079,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 272667,
+      "num": 272667,
+      "word": "渔民出海偶遇100多只海豚逐浪嬉戏",
+      "onboard_time": 1676674696,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251968,
@@ -227,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 226534,
+      "num": 226534,
+      "word": "男子欠嫖资被扣报警双双被带走",
+      "onboard_time": 1676656756,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222372,
       "num": 222372,
       "word": "已经这样反反复复十几年",
@@ -241,14 +281,6 @@
       "onboard_time": 1676648011,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216456,
-      "num": 216456,
-      "word": "大学生谈恋爱要不要AA制",
-      "onboard_time": 1676660714,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 203929,
@@ -267,11 +299,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199691,
-      "num": 192401,
-      "word": "男子欠嫖资被扣报警双双被带走",
-      "onboard_time": 1676656756,
-      "rank": 11,
+      "raw_hot": 196169,
+      "num": 196169,
+      "word": "爸爸给女儿做40米冰滑梯4天就化了",
+      "onboard_time": 1676654898,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -347,14 +379,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 170478,
-      "num": 166224,
-      "word": "爸爸给女儿做40米冰滑梯4天就化了",
-      "onboard_time": 1676654898,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170434,
       "num": 170434,
       "word": "胡夏北京之雪唱哭何炅孙悦",
@@ -369,14 +393,6 @@
       "onboard_time": 1676626891,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 166257,
-      "num": 166257,
-      "word": "渔民出海偶遇100多只海豚逐浪嬉戏",
-      "onboard_time": 1676674696,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162715,
@@ -475,6 +491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 93614,
+      "num": 93614,
+      "word": "听孙悦唱月牙泉像去了趟敦煌",
+      "onboard_time": 1676646572,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93608,
       "num": 93608,
       "word": "王冰冰跟赵继伟学打篮球",
@@ -491,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 91766,
+      "num": 91766,
+      "word": "周深 水姻缘",
+      "onboard_time": 1676640692,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86058,
       "num": 86058,
       "word": "宁至谦阮流筝终于和好了",
@@ -499,20 +531,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 77003,
-      "num": 77003,
-      "word": "周深 水姻缘",
-      "onboard_time": 1676640692,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 62385,
-      "num": 62385,
-      "word": "听孙悦唱月牙泉像去了趟敦煌",
-      "onboard_time": 1676646572,
+      "raw_hot": 78953,
+      "num": 78953,
+      "word": "C罗助攻梅开二度",
+      "onboard_time": 1676676500,
       "rank": 35,
-      "category": "综艺"
+      "category": "体育"
     },
     {
       "raw_hot": 53886,
