@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676602420772,
+  "endTime": 1676602994655,
   "band_list": [
     {
       "raw_hot": 2748115,
@@ -52,15 +52,15 @@
     },
     {
       "raw_hot": 1668803,
-      "num": 394827,
+      "num": 433569,
       "word": "周扬青婚纱",
       "onboard_time": 1676589921,
       "rank": 19,
       "category": "艺人"
     },
     {
-      "raw_hot": 1398197,
-      "num": 1398197,
+      "raw_hot": 1399764,
+      "num": 1399764,
       "word": "乌梅子酱",
       "onboard_time": 1676599828,
       "rank": 4,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650069,
+      "num": 650069,
+      "word": "郭麒麟终于穿大褂了",
+      "onboard_time": 1676601271,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 646392,
       "num": 257636,
       "word": "贾乃亮说艺人没想明白别做直播",
@@ -195,8 +203,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 616199,
-      "num": 616199,
+      "raw_hot": 630393,
+      "num": 630393,
+      "word": "张杰2023年巡演官宣",
+      "onboard_time": 1676601988,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 624226,
+      "num": 624226,
       "word": "浙江学生遭社会人员殴打2死2伤已立案",
       "onboard_time": 1676599047,
       "rank": 25,
@@ -251,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 537223,
-      "num": 537223,
-      "word": "张杰2023年巡演官宣",
-      "onboard_time": 1676601988,
-      "rank": 14,
-      "category": "音乐"
+      "raw_hot": 544589,
+      "num": 544589,
+      "word": "男子冒充帅气警察骗女粉丝不雅视频",
+      "onboard_time": 1676600848,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530778,
@@ -265,14 +281,6 @@
       "onboard_time": 1676598987,
       "rank": 18,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 527804,
-      "num": 527804,
-      "word": "男子冒充帅气警察骗女粉丝不雅视频",
-      "onboard_time": 1676600848,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 523649,
@@ -289,14 +297,6 @@
       "onboard_time": 1676598088,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 513087,
-      "num": 513087,
-      "word": "郭麒麟终于穿大褂了",
-      "onboard_time": 1676601271,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 509102,
@@ -339,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 468821,
+      "num": 468821,
+      "word": "江苏彩民超级大乐透中奖1.2亿",
+      "onboard_time": 1676601030,
+      "rank": 21,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 467471,
       "num": 467471,
       "word": "周杰伦五月天周华健等年内有演唱会计划",
@@ -363,6 +371,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 441798,
+      "num": 441798,
+      "word": "女生求职因河南户籍被HR拒面",
+      "onboard_time": 1676601749,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400838,
       "num": 400838,
       "word": "提高中低收入居民消费能力",
@@ -377,14 +393,6 @@
       "onboard_time": 1676593045,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 377869,
-      "num": 377869,
-      "word": "江苏彩民超级大乐透中奖1.2亿",
-      "onboard_time": 1676601030,
-      "rank": 21,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 358527,
@@ -449,14 +457,6 @@
       "onboard_time": 1676547152,
       "rank": 17,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 290811,
-      "num": 290811,
-      "word": "女生求职因河南户籍被HR拒面",
-      "onboard_time": 1676601749,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281773,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209213,
+      "num": 209213,
+      "word": "老师迟到被罚站合适吗",
+      "onboard_time": 1676602288,
+      "rank": 47,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 207770,
       "num": 207770,
       "word": "布鲁斯威利斯确诊额颞叶痴呆",
@@ -665,6 +673,14 @@
       "onboard_time": 1676588719,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 193673,
+      "num": 193673,
+      "word": "重庆60岁奶奶为耳背邻居做翻译",
+      "onboard_time": 1676602589,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189623,
@@ -771,14 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149672,
-      "num": 149672,
-      "word": "老师迟到被罚站合适吗",
-      "onboard_time": 1676602288,
-      "rank": 47,
-      "category": "教育,情感"
-    },
-    {
       "raw_hot": 149198,
       "num": 149198,
       "word": "年内演唱会",
@@ -825,6 +833,14 @@
       "onboard_time": 1676545231,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128524,
+      "num": 1968179,
+      "word": "2023春季学期月历",
+      "onboard_time": 1676593647,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127517,
@@ -889,14 +905,6 @@
       "onboard_time": 1676541511,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113511,
-      "num": 1968179,
-      "word": "2023春季学期月历",
-      "onboard_time": 1676593647,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103830,
