@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676626432778,
+  "endTime": 1676629268946,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -40,6 +40,14 @@
       "word": "经纪人改口否认刘文正死讯",
       "onboard_time": 1676522132,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3903571,
+      "num": 2159792,
+      "word": "池子",
+      "onboard_time": 1676627312,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 2759922,
-      "num": 636035,
+      "num": 692607,
       "word": "张翰状态",
       "onboard_time": 1676619329,
       "rank": 10,
@@ -313,6 +321,14 @@
       "onboard_time": 1676596470,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2375868,
+      "num": 2375868,
+      "word": "四六级",
+      "onboard_time": 1676626173,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 2368653,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 2087589,
-      "num": 485874,
+      "num": 703100,
       "word": "放羊的星星刘荷娜近照",
       "onboard_time": 1676624672,
       "rank": 11,
@@ -985,6 +1001,14 @@
       "onboard_time": 1676470959,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1334718,
+      "num": 1334718,
+      "word": "温州特斯拉",
+      "onboard_time": 1676625211,
+      "rank": 18,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1330826,
@@ -1523,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1069030,
+      "num": 1069030,
+      "word": "男孩举手后身亡校方自称无过错",
+      "onboard_time": 1676627973,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1067416,
       "num": 1067416,
       "word": "赵露思工作室维权声明",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1676383778,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1038315,
+      "num": 1038315,
+      "word": "鼓励学生早起高校7点前早餐半价",
+      "onboard_time": 1676624913,
+      "rank": 21,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1033919,
@@ -1721,14 +1761,6 @@
       "onboard_time": 1676478444,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 979288,
-      "num": 425942,
-      "word": "温州特斯拉",
-      "onboard_time": 1676625211,
-      "rank": 18,
-      "category": "社会负面"
     },
     {
       "raw_hot": 977885,
@@ -2387,6 +2419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 756824,
+      "num": 756824,
+      "word": "薛之谦演唱会门票",
+      "onboard_time": 1676626891,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 755294,
       "num": 755294,
       "word": "问ChatGPT中国足球如何赢得世界杯冠军",
@@ -2465,14 +2505,6 @@
       "onboard_time": 1676470474,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 744015,
-      "num": 744015,
-      "word": "鼓励学生早起高校7点前早餐半价",
-      "onboard_time": 1676624913,
-      "rank": 21,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 743914,
@@ -2577,6 +2609,14 @@
       "onboard_time": 1676281182,
       "rank": 8,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 723412,
+      "num": 723412,
+      "word": "克拉棒三代",
+      "onboard_time": 1676627373,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 721263,
@@ -2881,6 +2921,14 @@
       "onboard_time": 1676430390,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673851,
+      "num": 673851,
+      "word": "孔令辉罕见现身",
+      "onboard_time": 1676626531,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 672663,
@@ -4171,6 +4219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491924,
+      "num": 491924,
+      "word": "张真源的头像是田震",
+      "onboard_time": 1676627254,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 491840,
       "num": 491840,
       "word": "调降存量房贷利率呼声高涨",
@@ -4280,6 +4336,14 @@
       "word": "三体 你们是虫子",
       "onboard_time": 1676429009,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 482858,
+      "num": 482858,
+      "word": "费启鸣回应转型做演员",
+      "onboard_time": 1676626113,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -5259,6 +5323,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 400441,
+      "num": 400441,
+      "word": "星落凝成糖男二",
+      "onboard_time": 1676625512,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399285,
       "num": 399285,
       "word": "原来老一辈才是恋爱高手",
@@ -5563,14 +5635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 375986,
-      "num": 375986,
-      "word": "星落凝成糖男二",
-      "onboard_time": 1676625512,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 375593,
       "num": 375593,
       "word": "当故意不给小猫咪开门时",
@@ -5609,6 +5673,14 @@
       "onboard_time": 1676344655,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 373118,
+      "num": 373118,
+      "word": "21日可查2022下半年四六级成绩",
+      "onboard_time": 1676628454,
+      "rank": 21,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 371224,
@@ -6195,6 +6267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322369,
+      "num": 322369,
+      "word": "姚明携女篮为中国乒乓打call",
+      "onboard_time": 1676629234,
+      "rank": 23,
+      "category": "体育,影视"
+    },
+    {
       "raw_hot": 321858,
       "num": 321858,
       "word": "香蕉和人某些同源基因竟有六成相似",
@@ -6321,14 +6401,6 @@
       "onboard_time": 1676282143,
       "rank": 28,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 315888,
-      "num": 315888,
-      "word": "四六级",
-      "onboard_time": 1676626173,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 315858,
@@ -6745,14 +6817,6 @@
       "onboard_time": 1676334035,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290090,
-      "num": 290090,
-      "word": "费启鸣回应转型做演员",
-      "onboard_time": 1676626113,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 289272,
@@ -7211,6 +7275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 269765,
+      "num": 269765,
+      "word": "2022年下半年四六级查分时间确定",
+      "onboard_time": 1676628154,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 268978,
       "num": 268978,
       "word": "这活幽闭恐惧症的人干不了",
@@ -7393,6 +7465,14 @@
       "onboard_time": 1676604689,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258472,
+      "num": 258472,
+      "word": "借精生子合法吗",
+      "onboard_time": 1676628814,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258050,
@@ -7641,6 +7721,14 @@
       "onboard_time": 1676443412,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242754,
+      "num": 242754,
+      "word": "房琪谈何捷上课品质",
+      "onboard_time": 1676627672,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 242573,
@@ -8883,6 +8971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189311,
+      "num": 189311,
+      "word": "以为是垃圾结果是艺术",
+      "onboard_time": 1676626775,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189266,
       "num": 189266,
       "word": "送别大熊猫教授胡锦矗",
@@ -9171,6 +9267,14 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 179354,
+      "num": 179354,
+      "word": "美方为何对氯乙烯毒蘑菇云视而不见",
+      "onboard_time": 1676626293,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179183,
       "num": 179183,
       "word": "李培楠孤勇者",
@@ -9435,6 +9539,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 172318,
+      "num": 172318,
+      "word": "井柏然车内素颜怼脸随拍",
+      "onboard_time": 1676627493,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171385,
       "num": 171385,
       "word": "银行辟谣南宁房贷能还到100岁",
@@ -9689,6 +9801,14 @@
       "onboard_time": 1676426547,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161804,
+      "num": 161804,
+      "word": "汪文斌4连问回击美方",
+      "onboard_time": 1676626173,
+      "rank": 42,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 161734,
@@ -9963,14 +10083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149477,
-      "num": 149477,
-      "word": "汪文斌4连问回击美方",
-      "onboard_time": 1676626173,
-      "rank": 42,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 148399,
       "num": 148399,
       "word": "吉利银河来了",
@@ -10091,6 +10203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 140354,
+      "num": 140354,
+      "word": "百元手机保护膜有必要买吗",
+      "onboard_time": 1676628096,
+      "rank": 47,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 140156,
       "num": 140156,
       "word": "东风快递等你加入",
@@ -10137,6 +10257,14 @@
       "onboard_time": 1676457157,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137104,
+      "num": 137104,
+      "word": "董思成将参加巴黎时装周",
+      "onboard_time": 1676627254,
+      "rank": 48,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 136970,
@@ -10233,14 +10361,6 @@
       "onboard_time": 1676210495,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133175,
-      "num": 133175,
-      "word": "美方为何对氯乙烯毒蘑菇云视而不见",
-      "onboard_time": 1676626293,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132077,

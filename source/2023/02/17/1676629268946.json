@@ -1,0 +1,410 @@
+{
+  "runTime": 1676629268946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2375868,
+        "num": 2375868,
+        "word": "四六级",
+        "onboard_time": 1676626173,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 3903571,
+        "num": 2159792,
+        "word": "池子",
+        "onboard_time": 1676627312,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19686,
+        "num": 1733635,
+        "word": "2023春季学期月历",
+        "onboard_time": 1676593647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1433920,
+        "num": 1433920,
+        "word": "董宇辉已拒绝10万元现金奖励",
+        "onboard_time": 1676620472,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1418960,
+        "num": 1418960,
+        "word": "国内首次检出XBB.1.5",
+        "onboard_time": 1676619031,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1334718,
+        "num": 1334718,
+        "word": "温州特斯拉",
+        "onboard_time": 1676625211,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1069030,
+        "num": 1069030,
+        "word": "男孩举手后身亡校方自称无过错",
+        "onboard_time": 1676627973,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038315,
+        "num": 1038315,
+        "word": "鼓励学生早起高校7点前早餐半价",
+        "onboard_time": 1676624913,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 756824,
+        "num": 756824,
+        "word": "薛之谦演唱会门票",
+        "onboard_time": 1676626891,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 723412,
+        "num": 723412,
+        "word": "克拉棒三代",
+        "onboard_time": 1676627373,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1789169,
+        "num": 703100,
+        "word": "放羊的星星刘荷娜近照",
+        "onboard_time": 1676624672,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1145260,
+        "num": 692607,
+        "word": "张翰状态",
+        "onboard_time": 1676619329,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673851,
+        "num": 673851,
+        "word": "孔令辉罕见现身",
+        "onboard_time": 1676626531,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 577590,
+        "num": 577590,
+        "word": "社保缴费满15年就可以不缴了吗",
+        "onboard_time": 1676609076,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507282,
+        "num": 507282,
+        "word": "hybe称不知道李秀满的破事",
+        "onboard_time": 1676623892,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491924,
+        "num": 491924,
+        "word": "张真源的头像是田震",
+        "onboard_time": 1676627254,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482858,
+        "num": 482858,
+        "word": "费启鸣回应转型做演员",
+        "onboard_time": 1676626113,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 476244,
+        "num": 476244,
+        "word": "女孩买9米挑高公寓被嘲装修后惊艳",
+        "onboard_time": 1676613333,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405623,
+        "num": 405623,
+        "word": "人民网评电竞酒店乱象",
+        "onboard_time": 1676622752,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400441,
+        "num": 400441,
+        "word": "星落凝成糖男二",
+        "onboard_time": 1676625512,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 763072,
+        "num": 400233,
+        "word": "刘亦菲捧花头像",
+        "onboard_time": 1676613155,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373118,
+        "num": 373118,
+        "word": "21日可查2022下半年四六级成绩",
+        "onboard_time": 1676628454,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 349984,
+        "num": 349984,
+        "word": "张纪中回应张颂文沙漠捡垃圾被剧组丢下",
+        "onboard_time": 1676616811,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322369,
+        "num": 322369,
+        "word": "姚明携女篮为中国乒乓打call",
+        "onboard_time": 1676629234,
+        "rank": 23,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 312692,
+        "num": 312692,
+        "word": "李诞说不想再结婚了",
+        "onboard_time": 1676613997,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310233,
+        "num": 310233,
+        "word": "异常水电费牵出2亿元出口骗税大案",
+        "onboard_time": 1676618372,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276550,
+        "num": 276550,
+        "word": "言承旭 偶像剧",
+        "onboard_time": 1676623952,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269765,
+        "num": 269765,
+        "word": "2022年下半年四六级查分时间确定",
+        "onboard_time": 1676628154,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 265095,
+        "num": 265095,
+        "word": "俄亥俄州居民嘴唇变色脸上起红斑",
+        "onboard_time": 1676603909,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258472,
+        "num": 258472,
+        "word": "借精生子合法吗",
+        "onboard_time": 1676628814,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243680,
+        "num": 243680,
+        "word": "实拍俄亥俄州小溪全是死鱼死虫",
+        "onboard_time": 1676623172,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242754,
+        "num": 242754,
+        "word": "房琪谈何捷上课品质",
+        "onboard_time": 1676627672,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242718,
+        "num": 242718,
+        "word": "孙俪晒给邓超的定做礼物",
+        "onboard_time": 1676623774,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217757,
+        "num": 217757,
+        "word": "虞书欣蓝色大衣上班路透",
+        "onboard_time": 1676624672,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198720,
+        "num": 198720,
+        "word": "SMTOWN员工联合抵制HYBE收购",
+        "onboard_time": 1676620711,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196813,
+        "num": 196813,
+        "word": "苹果上架348元iPhone14Pro屏幕保护膜",
+        "onboard_time": 1676608656,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 189311,
+        "num": 189311,
+        "word": "以为是垃圾结果是艺术",
+        "onboard_time": 1676626775,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187911,
+        "num": 187911,
+        "word": "王鹤棣跳栏杆",
+        "onboard_time": 1676621195,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179354,
+        "num": 179354,
+        "word": "美方为何对氯乙烯毒蘑菇云视而不见",
+        "onboard_time": 1676626293,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172318,
+        "num": 172318,
+        "word": "井柏然车内素颜怼脸随拍",
+        "onboard_time": 1676627493,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170626,
+        "num": 170626,
+        "word": "五哈3桃鹅互相催开播",
+        "onboard_time": 1676621913,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168600,
+        "num": 168600,
+        "word": "安永",
+        "onboard_time": 1676611173,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164084,
+        "num": 164084,
+        "word": "杨天真说一向反对任何艺人恋情公开",
+        "onboard_time": 1676611353,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163324,
+        "num": 163324,
+        "word": "全面注册制制度规则发布实施",
+        "onboard_time": 1676625692,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161804,
+        "num": 161804,
+        "word": "汪文斌4连问回击美方",
+        "onboard_time": 1676626173,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 158595,
+        "num": 158595,
+        "word": "彭冠英王楚然新剧删减剧情",
+        "onboard_time": 1676617773,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151501,
+        "num": 151501,
+        "word": "东方甄选已申请注册董宇辉商标",
+        "onboard_time": 1676624435,
+        "rank": 46,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 140354,
+        "num": 140354,
+        "word": "百元手机保护膜有必要买吗",
+        "onboard_time": 1676628096,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 137104,
+        "num": 137104,
+        "word": "董思成将参加巴黎时装周",
+        "onboard_time": 1676627254,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 134441,
+        "num": 134441,
+        "word": "万茜 湖南省省服",
+        "onboard_time": 1676610815,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化扎根中国大地#"
+    }
+  }
+}
