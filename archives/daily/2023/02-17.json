@@ -1,10 +1,10 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676622277685,
+  "endTime": 1676623142496,
   "band_list": [
     {
       "raw_hot": 2759922,
-      "num": 391773,
+      "num": 636035,
       "word": "张翰状态",
       "onboard_time": 1676619329,
       "rank": 10,
@@ -19,8 +19,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2629535,
-      "num": 2629535,
+      "raw_hot": 2722395,
+      "num": 2722395,
       "word": "国内首次检出XBB.1.5",
       "onboard_time": 1676619031,
       "rank": 36,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2159585,
+      "num": 2159585,
+      "word": "董宇辉已拒绝10万元现金奖励",
+      "onboard_time": 1676620472,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2052734,
       "num": 2052734,
       "word": "张杰回应自己的歌被用作狂飙高启强BGM",
@@ -73,14 +81,6 @@
       "onboard_time": 1676611713,
       "rank": 33,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1818751,
-      "num": 389043,
-      "word": "董宇辉已拒绝10万元现金奖励",
-      "onboard_time": 1676620472,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1768449,
@@ -257,6 +257,14 @@
       "onboard_time": 1676600248,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 829984,
+      "num": 829984,
+      "word": "女子多次飞踹女童试图丢进垃圾桶",
+      "onboard_time": 1676621133,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 814855,
@@ -451,8 +459,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 606422,
-      "num": 606422,
+      "raw_hot": 616896,
+      "num": 616896,
       "word": "SMTOWN员工联合抵制HYBE收购",
       "onboard_time": 1676620711,
       "rank": 8,
@@ -499,8 +507,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 569986,
-      "num": 383876,
+      "raw_hot": 572756,
+      "num": 572756,
       "word": "王鹤棣跳栏杆",
       "onboard_time": 1676621195,
       "rank": 12,
@@ -643,20 +651,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476055,
+      "num": 476055,
+      "word": "五哈3桃鹅互相催开播",
+      "onboard_time": 1676621913,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475668,
       "num": 475668,
       "word": "如何看待隐孕入职",
       "onboard_time": 1676562869,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 467901,
-      "num": 379974,
-      "word": "女子多次飞踹女童试图丢进垃圾桶",
-      "onboard_time": 1676621133,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 467471,
@@ -755,6 +763,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 429489,
+      "num": 429489,
+      "word": "苹果版余额宝或将上线",
+      "onboard_time": 1676620112,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 427281,
       "num": 427281,
       "word": "创造营2021播出2周年",
@@ -803,6 +819,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 400737,
+      "num": 400737,
+      "word": "科学家发现流亡黑洞",
+      "onboard_time": 1676619753,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 396733,
       "num": 396733,
       "word": "黄景瑜梦之海开机路透",
@@ -817,14 +841,6 @@
       "onboard_time": 1676593045,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 392773,
-      "num": 392773,
-      "word": "科学家发现流亡黑洞",
-      "onboard_time": 1676619753,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 390600,
@@ -857,14 +873,6 @@
       "onboard_time": 1676616211,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 365562,
-      "num": 365562,
-      "word": "五哈3桃鹅互相催开播",
-      "onboard_time": 1676621913,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 358527,
@@ -929,14 +937,6 @@
       "onboard_time": 1676590463,
       "rank": 23,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 323001,
-      "num": 323001,
-      "word": "苹果版余额宝或将上线",
-      "onboard_time": 1676620112,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 321126,
@@ -1187,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222994,
+      "num": 222994,
+      "word": "女教师一个细节救下失联学生全家",
+      "onboard_time": 1676619152,
+      "rank": 48,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 220531,
       "num": 220531,
       "word": "iOS16.4带来十个新的快捷方式",
@@ -1203,12 +1211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216764,
-      "num": 216764,
-      "word": "女教师一个细节救下失联学生全家",
-      "onboard_time": 1676619152,
-      "rank": 48,
-      "category": "社会正能量,教育"
+      "raw_hot": 214064,
+      "num": 214064,
+      "word": "人民网评电竞酒店乱象",
+      "onboard_time": 1676622752,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211448,
@@ -1283,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193414,
+      "num": 193414,
+      "word": "进城农民家庭维系正常生活月需3000元",
+      "onboard_time": 1676622092,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192393,
       "num": 192393,
       "word": "INTO1创4开播2周年换回成团头像",
@@ -1329,6 +1345,22 @@
       "onboard_time": 1676562270,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187583,
+      "num": 187583,
+      "word": "高叶恭喜萨日娜新剧杀青",
+      "onboard_time": 1676620351,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187194,
+      "num": 187194,
+      "word": "虞书欣酷飒风大片",
+      "onboard_time": 1676622634,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 186669,
@@ -1515,14 +1547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132331,
-      "num": 132331,
-      "word": "高叶恭喜萨日娜新剧杀青",
-      "onboard_time": 1676620351,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 132216,
       "num": 132216,
       "word": "麻六记回应破产传闻",
@@ -1555,14 +1579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120372,
-      "num": 120372,
-      "word": "进城农民家庭维系正常生活月需3000元",
-      "onboard_time": 1676622092,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119731,
       "num": 105493,
       "word": "刘诗诗 米兰时装周",
@@ -1585,6 +1601,14 @@
       "onboard_time": 1676564125,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118733,
+      "num": 118733,
+      "word": "如何有效避免被手机出卖",
+      "onboard_time": 1676623116,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 116307,
