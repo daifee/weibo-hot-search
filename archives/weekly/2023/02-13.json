@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676669626031,
+  "endTime": 1676672305514,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -11625,6 +11625,14 @@
       "onboard_time": 1676316553,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12965,
+      "num": 18734,
+      "word": "少典有琴夜昙初吻",
+      "onboard_time": 1676672293,
+      "rank": 49,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
