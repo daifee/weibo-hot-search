@@ -1,0 +1,410 @@
+{
+  "runTime": 1676604293733,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1703703,
+        "num": 1703703,
+        "word": "张杰回应自己的歌被用作狂飙高启强BGM",
+        "onboard_time": 1676600367,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1491982,
+        "num": 1491982,
+        "word": "iPhone15Pro改用USBC端口",
+        "onboard_time": 1676596470,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 164744,
+        "num": 1465859,
+        "word": "2023春季学期月历",
+        "onboard_time": 1676593647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1442290,
+        "num": 1442290,
+        "word": "D社曝李秀满贪污7443亿韩元",
+        "onboard_time": 1676599527,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1207877,
+        "num": 1207877,
+        "word": "乌梅子酱",
+        "onboard_time": 1676599828,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 776726,
+        "num": 776726,
+        "word": "男子卧室建浴缸被楼下邻居投诉",
+        "onboard_time": 1676599109,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772537,
+        "num": 772537,
+        "word": "郭麒麟终于穿大褂了",
+        "onboard_time": 1676601271,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 686309,
+        "num": 686309,
+        "word": "疯驴子拿快递",
+        "onboard_time": 1676597549,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 649251,
+        "num": 649251,
+        "word": "妈妈仅看外孙一眼继续等待分娩女儿",
+        "onboard_time": 1676592089,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 602198,
+        "num": 602198,
+        "word": "211毕业小伙辞职卖饼挣彩礼",
+        "onboard_time": 1676597310,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 664579,
+        "num": 597222,
+        "word": "杨超越演技",
+        "onboard_time": 1676600248,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 586454,
+        "num": 586454,
+        "word": "女生求职因河南户籍被HR拒面",
+        "onboard_time": 1676601749,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577111,
+        "num": 577111,
+        "word": "男子冒充帅气警察骗女粉丝不雅视频",
+        "onboard_time": 1676600848,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573125,
+        "num": 573125,
+        "word": "张杰2023年巡演官宣",
+        "onboard_time": 1676601988,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 562324,
+        "num": 562324,
+        "word": "浙江学生遭社会人员殴打2死2伤已立案",
+        "onboard_time": 1676599047,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 549510,
+        "num": 549510,
+        "word": "江苏彩民超级大乐透中奖1.2亿",
+        "onboard_time": 1676601030,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 471600,
+        "num": 471600,
+        "word": "曝李秀满曾被判刑",
+        "onboard_time": 1676599347,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461194,
+        "num": 461194,
+        "word": "老师迟到被罚站合适吗",
+        "onboard_time": 1676602288,
+        "rank": 17,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 448676,
+        "num": 448676,
+        "word": "胡锦矗去世",
+        "onboard_time": 1676594309,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446580,
+        "num": 446580,
+        "word": "王阳的采访",
+        "onboard_time": 1676603430,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 829033,
+        "num": 445944,
+        "word": "周扬青婚纱",
+        "onboard_time": 1676589921,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439935,
+        "num": 439935,
+        "word": "初三学生因成绩差开学报名被劝退",
+        "onboard_time": 1676598987,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 438253,
+        "num": 438253,
+        "word": "宋慧乔李到晛黑暗荣耀2剧照",
+        "onboard_time": 1676600547,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388675,
+        "num": 388675,
+        "word": "网传杭州3月1日取消限行系谣言",
+        "onboard_time": 1676602349,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369767,
+        "num": 369767,
+        "word": "李一桐毕雯珺吻戏",
+        "onboard_time": 1676604030,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338458,
+        "num": 338458,
+        "word": "苹果新增15个表情符号",
+        "onboard_time": 1676598088,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 290943,
+        "num": 290943,
+        "word": "中国居民存款破纪录",
+        "onboard_time": 1676600189,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 277500,
+        "num": 277500,
+        "word": "张真源开大G",
+        "onboard_time": 1676561731,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273446,
+        "num": 273446,
+        "word": "农村大龄青年为啥不结婚了",
+        "onboard_time": 1676592264,
+        "rank": 28,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 248043,
+        "num": 248043,
+        "word": "提高中低收入居民消费能力",
+        "onboard_time": 1676596766,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 243866,
+        "num": 243866,
+        "word": "高启强为什么解领带擦玻璃",
+        "onboard_time": 1676560891,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240045,
+        "num": 240045,
+        "word": "张颂文王源拍戏被偶遇",
+        "onboard_time": 1676595391,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226429,
+        "num": 226429,
+        "word": "德云社",
+        "onboard_time": 1676599887,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221594,
+        "num": 221594,
+        "word": "美国又有一列装危险品火车脱轨",
+        "onboard_time": 1676593828,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209050,
+        "num": 209050,
+        "word": "为什么不缺爱也容易恋爱脑",
+        "onboard_time": 1676592566,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205536,
+        "num": 205536,
+        "word": "俄亥俄州居民嘴唇变色脸上起红斑",
+        "onboard_time": 1676603909,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197192,
+        "num": 197192,
+        "word": "一辈子保护国宝的国宝走了",
+        "onboard_time": 1676594728,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196479,
+        "num": 196479,
+        "word": "三只猫留下了两串脚印",
+        "onboard_time": 1676593349,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 189134,
+        "num": 189134,
+        "word": "嘲讽顾客的店铺更名为对不起",
+        "onboard_time": 1676603849,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174012,
+        "num": 174012,
+        "word": "苹果公司开始对合同工进行裁员",
+        "onboard_time": 1676598568,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170115,
+        "num": 170115,
+        "word": "三亚搁浅抹香鲸不幸死亡",
+        "onboard_time": 1676595029,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167299,
+        "num": 167299,
+        "word": "如何看待隐孕入职",
+        "onboard_time": 1676562869,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165466,
+        "num": 165466,
+        "word": "男童被压车底10多人冲过来救人",
+        "onboard_time": 1676603969,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 153251,
+        "num": 153251,
+        "word": "教育局回应幼儿园毕业照人均500元",
+        "onboard_time": 1676596168,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 152058,
+        "num": 152058,
+        "word": "建议延长男性陪产假并强制执行",
+        "onboard_time": 1676596411,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150542,
+        "num": 150542,
+        "word": "阿里客服称商家肯定看不到购物车信息",
+        "onboard_time": 1676595089,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 149175,
+        "num": 149175,
+        "word": "夏花删减剧情",
+        "onboard_time": 1676601271,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146418,
+        "num": 146418,
+        "word": "小城市房价什么水平",
+        "onboard_time": 1676604271,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 145587,
+        "num": 145587,
+        "word": "张颂文 不止不休",
+        "onboard_time": 1676559693,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144448,
+        "num": 144448,
+        "word": "杜兰特正式亮相太阳",
+        "onboard_time": 1676597128,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化扎根中国大地#"
+    }
+  }
+}

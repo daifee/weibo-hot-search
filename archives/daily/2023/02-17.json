@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676602994655,
+  "endTime": 1676604293733,
   "band_list": [
     {
       "raw_hot": 2748115,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1668803,
-      "num": 433569,
+      "num": 445944,
       "word": "周扬青婚纱",
       "onboard_time": 1676589921,
       "rank": 19,
@@ -139,19 +139,27 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 776726,
+      "num": 776726,
+      "word": "男子卧室建浴缸被楼下邻居投诉",
+      "onboard_time": 1676599109,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 772537,
+      "num": 772537,
+      "word": "郭麒麟终于穿大褂了",
+      "onboard_time": 1676601271,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 753858,
       "num": 753858,
       "word": "美国又有一列装危险品火车脱轨",
       "onboard_time": 1676593828,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 731478,
-      "num": 731478,
-      "word": "男子卧室建浴缸被楼下邻居投诉",
-      "onboard_time": 1676599109,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -177,14 +185,6 @@
       "onboard_time": 1676557290,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 650069,
-      "num": 650069,
-      "word": "郭麒麟终于穿大褂了",
-      "onboard_time": 1676601271,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 646392,
@@ -235,6 +235,22 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 586454,
+      "num": 586454,
+      "word": "女生求职因河南户籍被HR拒面",
+      "onboard_time": 1676601749,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577111,
+      "num": 577111,
+      "word": "男子冒充帅气警察骗女粉丝不雅视频",
+      "onboard_time": 1676600848,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572816,
       "num": 572816,
       "word": "宋慧乔李到晛黑暗荣耀2剧照",
@@ -267,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 544589,
-      "num": 544589,
-      "word": "男子冒充帅气警察骗女粉丝不雅视频",
-      "onboard_time": 1676600848,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 549510,
+      "num": 549510,
+      "word": "江苏彩民超级大乐透中奖1.2亿",
+      "onboard_time": 1676601030,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 530778,
@@ -339,20 +355,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 468821,
-      "num": 468821,
-      "word": "江苏彩民超级大乐透中奖1.2亿",
-      "onboard_time": 1676601030,
-      "rank": 21,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 467471,
       "num": 467471,
       "word": "周杰伦五月天周华健等年内有演唱会计划",
       "onboard_time": 1676560712,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 461194,
+      "num": 461194,
+      "word": "老师迟到被罚站合适吗",
+      "onboard_time": 1676602288,
+      "rank": 47,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 452073,
@@ -371,12 +387,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 441798,
-      "num": 441798,
-      "word": "女生求职因河南户籍被HR拒面",
-      "onboard_time": 1676601749,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 446580,
+      "num": 446580,
+      "word": "王阳的采访",
+      "onboard_time": 1676603430,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 400838,
@@ -393,6 +409,22 @@
       "onboard_time": 1676593045,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 388675,
+      "num": 388675,
+      "word": "网传杭州3月1日取消限行系谣言",
+      "onboard_time": 1676602349,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369767,
+      "num": 369767,
+      "word": "李一桐毕雯珺吻戏",
+      "onboard_time": 1676604030,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 358527,
@@ -627,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209213,
-      "num": 209213,
-      "word": "老师迟到被罚站合适吗",
-      "onboard_time": 1676602288,
-      "rank": 47,
-      "category": "教育,情感"
-    },
-    {
       "raw_hot": 207770,
       "num": 207770,
       "word": "布鲁斯威利斯确诊额颞叶痴呆",
@@ -643,20 +667,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205536,
+      "num": 205536,
+      "word": "俄亥俄州居民嘴唇变色脸上起红斑",
+      "onboard_time": 1676603909,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199869,
       "num": 199869,
       "word": "论文导师能有多操心",
       "onboard_time": 1676563231,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 198548,
-      "num": 198548,
-      "word": "网传杭州3月1日取消限行系谣言",
-      "onboard_time": 1676602349,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194255,
@@ -697,6 +721,14 @@
       "onboard_time": 1676592264,
       "rank": 40,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 189134,
+      "num": 189134,
+      "word": "嘲讽顾客的店铺更名为对不起",
+      "onboard_time": 1676603849,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188475,
@@ -771,6 +803,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165466,
+      "num": 165466,
+      "word": "男童被压车底10多人冲过来救人",
+      "onboard_time": 1676603969,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 164744,
+      "num": 1968179,
+      "word": "2023春季学期月历",
+      "onboard_time": 1676593647,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162764,
       "num": 162764,
       "word": "BoysPlanet",
@@ -793,6 +841,14 @@
       "onboard_time": 1676560891,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 146418,
+      "num": 146418,
+      "word": "小城市房价什么水平",
+      "onboard_time": 1676604271,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 144533,
@@ -833,14 +889,6 @@
       "onboard_time": 1676545231,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 128524,
-      "num": 1968179,
-      "word": "2023春季学期月历",
-      "onboard_time": 1676593647,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127517,
