@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676633615477,
+  "endTime": 1676637362571,
   "band_list": [
     {
       "raw_hot": 3903571,
@@ -115,6 +115,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1786990,
+      "num": 1786990,
+      "word": "云南80后女局长段颖被双开",
+      "onboard_time": 1676631211,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1768449,
       "num": 1768449,
       "word": "妈妈仅看外孙一眼继续等待分娩女儿",
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1521679,
+      "num": 1521679,
+      "word": "护士为体重0.9kg早产儿扎针",
+      "onboard_time": 1676631753,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1489339,
       "num": 640650,
       "word": "万茜 湖南省省服",
@@ -161,14 +177,6 @@
       "onboard_time": 1676599828,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1388234,
-      "num": 1388234,
-      "word": "云南80后女局长段颖被双开",
-      "onboard_time": 1676631211,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1334718,
@@ -251,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1075693,
-      "num": 1075693,
-      "word": "护士为体重0.9kg早产儿扎针",
-      "onboard_time": 1676631753,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1054024,
       "num": 1054024,
       "word": "疯驴子拿快递",
@@ -305,6 +305,14 @@
       "onboard_time": 1676610156,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 978813,
+      "num": 978813,
+      "word": "原神",
+      "onboard_time": 1676636669,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 961040,
@@ -371,12 +379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 803974,
+      "num": 613743,
+      "word": "一女子因被家暴带孩子流落街头",
+      "onboard_time": 1676634449,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 793671,
       "num": 793671,
       "word": "科学家研发出男性避孕药",
       "onboard_time": 1676547811,
       "rank": 4,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 781251,
+      "num": 781251,
+      "word": "叔圈",
+      "onboard_time": 1676634151,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 776726,
@@ -393,6 +417,14 @@
       "onboard_time": 1676601271,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 763042,
+      "num": 763042,
+      "word": "iPhone14ProMax烧屏",
+      "onboard_time": 1676635112,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 756824,
@@ -417,6 +449,14 @@
       "onboard_time": 1676611353,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 729049,
+      "num": 729049,
+      "word": "乌梅子酱搜索量暴涨200倍",
+      "onboard_time": 1676630671,
+      "rank": 15,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 726534,
@@ -449,6 +489,22 @@
       "onboard_time": 1676585053,
       "rank": 31,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 708737,
+      "num": 708737,
+      "word": "温州一特斯拉飞速撞上公交车多人送医",
+      "onboard_time": 1676632591,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 706138,
+      "num": 520899,
+      "word": "刘德华腹肌照",
+      "onboard_time": 1676636371,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 695489,
@@ -667,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547327,
+      "num": 547327,
+      "word": "四六级成绩像拆盲盒",
+      "onboard_time": 1676633672,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 530778,
       "num": 530778,
       "word": "初三学生因成绩差开学报名被劝退",
@@ -731,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 503289,
-      "num": 503289,
-      "word": "乌梅子酱搜索量暴涨200倍",
-      "onboard_time": 1676630671,
-      "rank": 15,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 493091,
       "num": 493091,
       "word": "男子购买1200元年货32天仍未送达",
@@ -753,6 +809,14 @@
       "onboard_time": 1676627254,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490735,
+      "num": 490735,
+      "word": "AG",
+      "onboard_time": 1676635229,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 489877,
@@ -1099,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351667,
+      "num": 351667,
+      "word": "安阳一楼盘推出0首付0月供购房",
+      "onboard_time": 1676632770,
+      "rank": 36,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 351300,
       "num": 285595,
       "word": "大张伟第一次靠在场证明洗脱嫌疑",
@@ -1113,6 +1185,14 @@
       "onboard_time": 1676624672,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339913,
+      "num": 339913,
+      "word": "河南发现价值45亿大型银矿",
+      "onboard_time": 1676636429,
+      "rank": 22,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 339579,
@@ -1145,6 +1225,14 @@
       "onboard_time": 1676594728,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331795,
+      "num": 331795,
+      "word": "田震夸张真源唱歌细腻",
+      "onboard_time": 1676636968,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 323463,
@@ -1185,14 +1273,6 @@
       "onboard_time": 1676595631,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320028,
-      "num": 320028,
-      "word": "温州一特斯拉飞速撞上公交车多人送医",
-      "onboard_time": 1676632591,
-      "rank": 22,
-      "category": "社会负面"
     },
     {
       "raw_hot": 317777,
@@ -1249,6 +1329,14 @@
       "onboard_time": 1676623172,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300203,
+      "num": 300203,
+      "word": "AG对战RNGM",
+      "onboard_time": 1676634811,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 299955,
@@ -1355,6 +1443,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261187,
+      "num": 261187,
+      "word": "周黑鸭客服否认业绩下滑系价格贵",
+      "onboard_time": 1676633010,
+      "rank": 40,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 260023,
+      "num": 260023,
+      "word": "交警回应特斯拉狂飙行驶追尾公交",
+      "onboard_time": 1676634390,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259588,
       "num": 259588,
       "word": "苹果公司开始对合同工进行裁员",
@@ -1409,6 +1513,14 @@
       "onboard_time": 1676607275,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247362,
+      "num": 247362,
+      "word": "刘耀文叶问蹲一次成功",
+      "onboard_time": 1676635891,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 245964,
@@ -1473,6 +1585,14 @@
       "onboard_time": 1676622092,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226544,
+      "num": 226544,
+      "word": "杨超越签字笔没水了",
+      "onboard_time": 1676634629,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 224721,
@@ -1579,12 +1699,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198343,
+      "num": 198343,
+      "word": "温州特斯拉事故致1死1伤",
+      "onboard_time": 1676637210,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 197277,
       "num": 197277,
       "word": "成龙学相声vs郭麒麟学功夫",
       "onboard_time": 1676632591,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197096,
+      "num": 197096,
+      "word": "冷门又好玩的小众旅游城市",
+      "onboard_time": 1676635769,
+      "rank": 36,
+      "category": "旅游,幽默"
     },
     {
       "raw_hot": 194255,
@@ -1611,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192657,
-      "num": 192657,
-      "word": "安阳一楼盘推出0首付0月供购房",
-      "onboard_time": 1676632770,
-      "rank": 36,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 192393,
       "num": 192393,
       "word": "INTO1创4开播2周年换回成团头像",
@@ -1633,6 +1761,14 @@
       "onboard_time": 1676615792,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190520,
+      "num": 190520,
+      "word": "刘雯 时装周",
+      "onboard_time": 1676636789,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189623,
@@ -1763,6 +1899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175222,
+      "num": 175222,
+      "word": "深海票房破8亿",
+      "onboard_time": 1676635835,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175201,
       "num": 175201,
       "word": "金晨化妆自拍",
@@ -1809,14 +1953,6 @@
       "onboard_time": 1676599527,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167338,
-      "num": 167338,
-      "word": "周黑鸭客服否认业绩下滑系价格贵",
-      "onboard_time": 1676633010,
-      "rank": 40,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 164744,
@@ -2051,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113312,
+      "num": 1172217,
+      "word": "共同呵护孩子的眼睛",
+      "onboard_time": 1676636251,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103830,
       "num": 103830,
       "word": "单身社会来临了吗",
@@ -2065,6 +2209,14 @@
       "onboard_time": 1676566042,
       "rank": 35,
       "category": "教育,情感"
+    },
+    {
+      "raw_hot": 101330,
+      "num": 521026,
+      "word": "原神3.5版本直播",
+      "onboard_time": 1676635229,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 99035,

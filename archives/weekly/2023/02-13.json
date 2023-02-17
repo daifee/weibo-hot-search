@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676633615477,
+  "endTime": 1676637362571,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1786990,
+      "num": 1786990,
+      "word": "云南80后女局长段颖被双开",
+      "onboard_time": 1676631211,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1773636,
       "num": 1773636,
       "word": "王力宏将申请强制执行",
@@ -843,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1521679,
+      "num": 1521679,
+      "word": "护士为体重0.9kg早产儿扎针",
+      "onboard_time": 1676631753,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1496711,
       "num": 1496711,
       "word": "张大大 无忧传媒",
@@ -969,14 +985,6 @@
       "onboard_time": 1676535996,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1388234,
-      "num": 1388234,
-      "word": "云南80后女局长段颖被双开",
-      "onboard_time": 1676631211,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1375832,
@@ -1555,14 +1563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1075693,
-      "num": 1075693,
-      "word": "护士为体重0.9kg早产儿扎针",
-      "onboard_time": 1676631753,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1073697,
       "num": 1073697,
       "word": "王一博无名吃拿破仑花絮",
@@ -1793,6 +1793,14 @@
       "onboard_time": 1676478444,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 978813,
+      "num": 978813,
+      "word": "原神",
+      "onboard_time": 1676636669,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 977885,
@@ -2291,6 +2299,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 803974,
+      "num": 613743,
+      "word": "一女子因被家暴带孩子流落街头",
+      "onboard_time": 1676634449,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801074,
       "num": 801074,
       "word": "宁夏一地倡导女婿赡养岳父母",
@@ -2351,6 +2367,14 @@
       "num": 781781,
       "word": "王楚然好漂亮",
       "onboard_time": 1676211997,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 781251,
+      "num": 781251,
+      "word": "叔圈",
+      "onboard_time": 1676634151,
       "rank": 5,
       "category": "影视"
     },
@@ -2441,6 +2465,14 @@
       "onboard_time": 1676458053,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 763042,
+      "num": 763042,
+      "word": "iPhone14ProMax烧屏",
+      "onboard_time": 1676635112,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 760619,
@@ -2635,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 729049,
+      "num": 729049,
+      "word": "乌梅子酱搜索量暴涨200倍",
+      "onboard_time": 1676630671,
+      "rank": 15,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 726534,
       "num": 726534,
       "word": "张颂文王源拍戏被偶遇",
@@ -2731,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708737,
+      "num": 708737,
+      "word": "温州一特斯拉飞速撞上公交车多人送医",
+      "onboard_time": 1676632591,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 707915,
       "num": 707915,
       "word": "网友P的张凌赫王楚然合照",
@@ -2753,6 +2801,14 @@
       "onboard_time": 1676357068,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 706138,
+      "num": 520899,
+      "word": "刘德华腹肌照",
+      "onboard_time": 1676636371,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 702120,
@@ -3803,6 +3859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547327,
+      "num": 547327,
+      "word": "四六级成绩像拆盲盒",
+      "onboard_time": 1676633672,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 546259,
       "num": 546259,
       "word": "毛林林演大学生",
@@ -4171,14 +4235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 503289,
-      "num": 503289,
-      "word": "乌梅子酱搜索量暴涨200倍",
-      "onboard_time": 1676630671,
-      "rank": 15,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 503222,
       "num": 503222,
       "word": "兰花草",
@@ -4289,6 +4345,14 @@
       "onboard_time": 1676390132,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 490735,
+      "num": 490735,
+      "word": "AG",
+      "onboard_time": 1676635229,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 490418,
@@ -5947,6 +6011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351667,
+      "num": 351667,
+      "word": "安阳一楼盘推出0首付0月供购房",
+      "onboard_time": 1676632770,
+      "rank": 36,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 351300,
       "num": 285595,
       "word": "大张伟第一次靠在场证明洗脱嫌疑",
@@ -6075,6 +6147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339913,
+      "num": 339913,
+      "word": "河南发现价值45亿大型银矿",
+      "onboard_time": 1676636429,
+      "rank": 22,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 339579,
       "num": 339579,
       "word": "德云社",
@@ -6185,6 +6265,14 @@
       "onboard_time": 1676594728,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331795,
+      "num": 331795,
+      "word": "田震夸张真源唱歌细腻",
+      "onboard_time": 1676636968,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 331167,
@@ -6385,14 +6473,6 @@
       "onboard_time": 1676455832,
       "rank": 41,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 320028,
-      "num": 320028,
-      "word": "温州一特斯拉飞速撞上公交车多人送医",
-      "onboard_time": 1676632591,
-      "rank": 22,
-      "category": "社会负面"
     },
     {
       "raw_hot": 319404,
@@ -6769,6 +6849,14 @@
       "onboard_time": 1676530528,
       "rank": 25,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 300203,
+      "num": 300203,
+      "word": "AG对战RNGM",
+      "onboard_time": 1676634811,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 299955,
@@ -7499,6 +7587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261187,
+      "num": 261187,
+      "word": "周黑鸭客服否认业绩下滑系价格贵",
+      "onboard_time": 1676633010,
+      "rank": 40,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 260512,
       "num": 260512,
       "word": "薛之谦说我们见面吧",
@@ -7513,6 +7609,14 @@
       "onboard_time": 1676379037,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260023,
+      "num": 260023,
+      "word": "交警回应特斯拉狂飙行驶追尾公交",
+      "onboard_time": 1676634390,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260012,
@@ -7737,6 +7841,14 @@
       "onboard_time": 1676464651,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247362,
+      "num": 247362,
+      "word": "刘耀文叶问蹲一次成功",
+      "onboard_time": 1676635891,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 246159,
@@ -8129,6 +8241,14 @@
       "onboard_time": 1676511566,
       "rank": 47,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 226544,
+      "num": 226544,
+      "word": "杨超越签字笔没水了",
+      "onboard_time": 1676634629,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 226396,
@@ -8739,6 +8859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198343,
+      "num": 198343,
+      "word": "温州特斯拉事故致1死1伤",
+      "onboard_time": 1676637210,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 198173,
       "num": 198173,
       "word": "高启盛的微表情借鉴过小丑",
@@ -8777,6 +8905,14 @@
       "onboard_time": 1676528968,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197096,
+      "num": 197096,
+      "word": "冷门又好玩的小众旅游城市",
+      "onboard_time": 1676635769,
+      "rank": 36,
+      "category": "旅游,幽默"
     },
     {
       "raw_hot": 197087,
@@ -8908,7 +9044,7 @@
     },
     {
       "raw_hot": 192976,
-      "num": 192976,
+      "num": 521026,
       "word": "原神3.5版本直播",
       "onboard_time": 1676442391,
       "rank": 34,
@@ -8921,14 +9057,6 @@
       "onboard_time": 1676331683,
       "rank": 36,
       "category": "科技"
-    },
-    {
-      "raw_hot": 192657,
-      "num": 192657,
-      "word": "安阳一楼盘推出0首付0月供购房",
-      "onboard_time": 1676632770,
-      "rank": 36,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 192466,
@@ -9025,6 +9153,14 @@
       "onboard_time": 1676217388,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190520,
+      "num": 190520,
+      "word": "刘雯 时装周",
+      "onboard_time": 1676636789,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 190347,
@@ -9515,6 +9651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175222,
+      "num": 175222,
+      "word": "深海票房破8亿",
+      "onboard_time": 1676635835,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175201,
       "num": 175201,
       "word": "金晨化妆自拍",
@@ -9801,14 +9945,6 @@
       "onboard_time": 1676287488,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167338,
-      "num": 167338,
-      "word": "周黑鸭客服否认业绩下滑系价格贵",
-      "onboard_time": 1676633010,
-      "rank": 40,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 167093,
@@ -10649,6 +10785,14 @@
       "onboard_time": 1676214275,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113312,
+      "num": 1172217,
+      "word": "共同呵护孩子的眼睛",
+      "onboard_time": 1676636251,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110211,
