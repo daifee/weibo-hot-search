@@ -1,0 +1,410 @@
+{
+  "runTime": 1676619243602,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1592520,
+        "num": 1592520,
+        "word": "社保缴费满15年就可以不缴了吗",
+        "onboard_time": 1676609076,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1271071,
+        "num": 1271071,
+        "word": "李诞说不想再结婚了",
+        "onboard_time": 1676613997,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49903,
+        "num": 1122117,
+        "word": "2023春季学期月历",
+        "onboard_time": 1676593647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118344,
+        "num": 1118344,
+        "word": "女孩买9米挑高公寓被嘲装修后惊艳",
+        "onboard_time": 1676613333,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108549,
+        "num": 1108549,
+        "word": "张纪中回应张颂文沙漠捡垃圾被剧组丢下",
+        "onboard_time": 1676616811,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695811,
+        "num": 695811,
+        "word": "俄亥俄州居民嘴唇变色脸上起红斑",
+        "onboard_time": 1676603909,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1655059,
+        "num": 690569,
+        "word": "母校回应211女生毕业5年存款5000",
+        "onboard_time": 1676611713,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 602999,
+        "num": 602999,
+        "word": "董宇辉荣获北京平谷人才奖",
+        "onboard_time": 1676615610,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502074,
+        "num": 502074,
+        "word": "张若昀爷爷是地理测绘专家",
+        "onboard_time": 1676612434,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441430,
+        "num": 441430,
+        "word": "丁程鑫海南团综搬椰子路透",
+        "onboard_time": 1676618911,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439176,
+        "num": 439176,
+        "word": "彭冠英王楚然新剧删减剧情",
+        "onboard_time": 1676617773,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429114,
+        "num": 429114,
+        "word": "iPhone15Pro改用USBC端口",
+        "onboard_time": 1676596470,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 418780,
+        "num": 418780,
+        "word": "苹果手机为何频繁收到诈骗短信",
+        "onboard_time": 1676616450,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 415358,
+        "num": 415358,
+        "word": "开端里有疯驴子",
+        "onboard_time": 1676604391,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403778,
+        "num": 403778,
+        "word": "北京平谷辟谣送董宇辉户口车牌与车房",
+        "onboard_time": 1676617531,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 391764,
+        "num": 391764,
+        "word": "杨天真说一向反对任何艺人恋情公开",
+        "onboard_time": 1676611353,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374263,
+        "num": 374263,
+        "word": "创造营2021播出2周年",
+        "onboard_time": 1676614533,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359032,
+        "num": 359032,
+        "word": "留学花268万月薪1万2亏吗",
+        "onboard_time": 1676614831,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354003,
+        "num": 354003,
+        "word": "农村人情交往范围越来越窄",
+        "onboard_time": 1676613213,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337658,
+        "num": 337658,
+        "word": "异常水电费牵出2亿元出口骗税大案",
+        "onboard_time": 1676618372,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1491958,
+        "num": 337089,
+        "word": "刘亦菲捧花头像",
+        "onboard_time": 1676613155,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336096,
+        "num": 336096,
+        "word": "万茜 湖南省省服",
+        "onboard_time": 1676610815,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321964,
+        "num": 321964,
+        "word": "王嘉尔TikTok播放量华人明星第一",
+        "onboard_time": 1676616211,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317777,
+        "num": 317777,
+        "word": "最后一次上班是什么感觉",
+        "onboard_time": 1676615851,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300348,
+        "num": 300348,
+        "word": "苹果上架348元iPhone14Pro屏幕保护膜",
+        "onboard_time": 1676608656,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 297173,
+        "num": 297173,
+        "word": "安永",
+        "onboard_time": 1676611173,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 255677,
+        "num": 255677,
+        "word": "黄景瑜梦之海开机路透",
+        "onboard_time": 1676614533,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243006,
+        "num": 243006,
+        "word": "乌梅子酱",
+        "onboard_time": 1676599828,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230400,
+        "num": 230400,
+        "word": "张大大称已对造谣取证处理",
+        "onboard_time": 1676613513,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225867,
+        "num": 225867,
+        "word": "LOL英雄价格更新",
+        "onboard_time": 1676609556,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217359,
+        "num": 217359,
+        "word": "iOS16已安装72%的iPhone",
+        "onboard_time": 1676605411,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 212030,
+        "num": 212030,
+        "word": "王一博无名未曝光浴室打斗片段",
+        "onboard_time": 1676606972,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203539,
+        "num": 203539,
+        "word": "农村年轻人结婚是否要在城里买房",
+        "onboard_time": 1676618731,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200589,
+        "num": 200589,
+        "word": "D社曝李秀满贪污7443亿韩元",
+        "onboard_time": 1676599527,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194729,
+        "num": 194729,
+        "word": "张元英演我自拍被发现",
+        "onboard_time": 1676607633,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192022,
+        "num": 192022,
+        "word": "一警一犬相伴12年一起退休",
+        "onboard_time": 1676615792,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185824,
+        "num": 185824,
+        "word": "国内首次检出XBB.1.5",
+        "onboard_time": 1676619031,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176212,
+        "num": 176212,
+        "word": "孙女晒奶奶1954年寒假作业",
+        "onboard_time": 1676607453,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162722,
+        "num": 170334,
+        "word": "211女生称毕业2年成无业游民",
+        "onboard_time": 1676614653,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168718,
+        "num": 168718,
+        "word": "嘲讽顾客的店铺更名为对不起",
+        "onboard_time": 1676603849,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162981,
+        "num": 162981,
+        "word": "原来高级软卧是这样的",
+        "onboard_time": 1676607211,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161066,
+        "num": 161066,
+        "word": "杨超越重紫扫楼生图",
+        "onboard_time": 1676618312,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154427,
+        "num": 154427,
+        "word": "樊振东国家队十一周年",
+        "onboard_time": 1676612735,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143495,
+        "num": 143495,
+        "word": "INTO1创4开播2周年换回成团头像",
+        "onboard_time": 1676617531,
+        "rank": 43,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 142995,
+        "num": 142995,
+        "word": "周琦恢复自由身",
+        "onboard_time": 1676607755,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141470,
+        "num": 141470,
+        "word": "张杰回应自己的歌被用作狂飙高启强BGM",
+        "onboard_time": 1676600367,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131841,
+        "num": 131841,
+        "word": "张婧仪素颜绿色大衣机场路透",
+        "onboard_time": 1676606492,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 129569,
+        "num": 129569,
+        "word": "张杰2023年巡演官宣",
+        "onboard_time": 1676601988,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128939,
+        "num": 128939,
+        "word": "女教师一个细节救下失联学生全家",
+        "onboard_time": 1676619152,
+        "rank": 48,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 125088,
+        "num": 125088,
+        "word": "张译说自己背台词脑子笨",
+        "onboard_time": 1676606791,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化扎根中国大地#"
+    }
+  }
+}
