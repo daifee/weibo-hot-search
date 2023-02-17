@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676608733127,
+  "endTime": 1676611078254,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -289,6 +289,14 @@
       "onboard_time": 1676596470,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2371040,
+      "num": 2371040,
+      "word": "社保缴费满15年就可以不缴了吗",
+      "onboard_time": 1676609076,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2368653,
@@ -2627,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 694413,
+      "num": 640650,
+      "word": "万茜 湖南省省服",
+      "onboard_time": 1676610815,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 694275,
       "num": 694275,
       "word": "齐齐哈尔气象局回应现不明飞行物",
@@ -2899,6 +2915,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 638476,
+      "num": 638476,
+      "word": "孙女晒奶奶1954年寒假作业",
+      "onboard_time": 1676607453,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 637560,
       "num": 637560,
       "word": "马尔代夫",
@@ -2993,6 +3017,14 @@
       "onboard_time": 1676599047,
       "rank": 25,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 624195,
+      "num": 624195,
+      "word": "原来高级软卧是这样的",
+      "onboard_time": 1676607211,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 623214,
@@ -3121,14 +3153,6 @@
       "onboard_time": 1676592264,
       "rank": 10,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 599134,
-      "num": 599134,
-      "word": "孙女晒奶奶1954年寒假作业",
-      "onboard_time": 1676607453,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598993,
@@ -3427,6 +3451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558928,
+      "num": 558928,
+      "word": "苹果上架348元iPhone14Pro屏幕保护膜",
+      "onboard_time": 1676608656,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 558605,
       "num": 558605,
       "word": "黑暗森林",
@@ -3587,12 +3619,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 531138,
-      "num": 531138,
-      "word": "原来高级软卧是这样的",
-      "onboard_time": 1676607211,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 531265,
+      "num": 531265,
+      "word": "专家称年轻人不应该拼存款",
+      "onboard_time": 1676610156,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530984,
@@ -3856,6 +3888,14 @@
       "word": "女子家中大巨蛋磕开竟是蛋中蛋",
       "onboard_time": 1676265351,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505780,
+      "num": 505780,
+      "word": "亲属自述未成年侄女被强迫卖淫",
+      "onboard_time": 1676608957,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -4751,6 +4791,14 @@
       "num": 415242,
       "word": "宁至谦强吻阮流筝",
       "onboard_time": 1676459251,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 414999,
+      "num": 414999,
+      "word": "没有剧本可以不拍",
+      "onboard_time": 1676608414,
       "rank": 37,
       "category": "影视"
     },
@@ -6155,6 +6203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301887,
+      "num": 301887,
+      "word": "王阳回应叔圈天菜",
+      "onboard_time": 1676608352,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301361,
       "num": 301361,
       "word": "半莲池 罗云熙杨超越",
@@ -6179,6 +6235,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 299955,
+      "num": 299955,
+      "word": "必应聊天机器人爱上用户并诱其离开妻子",
+      "onboard_time": 1676610097,
+      "rank": 30,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 298886,
       "num": 298886,
       "word": "梁朝伟说要接受不完美",
@@ -6193,6 +6257,14 @@
       "onboard_time": 1676358034,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296112,
+      "num": 296112,
+      "word": "LOL英雄价格更新",
+      "onboard_time": 1676609556,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 295128,
@@ -6481,14 +6553,6 @@
       "onboard_time": 1676457213,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 280170,
-      "num": 280170,
-      "word": "没有剧本可以不拍",
-      "onboard_time": 1676608414,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 279908,
@@ -7859,6 +7923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207796,
+      "num": 207796,
+      "word": "西安一串串店内多名男女互殴",
+      "onboard_time": 1676610645,
+      "rank": 40,
+      "category": "社会负面,社会负面"
+    },
+    {
       "raw_hot": 207770,
       "num": 207770,
       "word": "布鲁斯威利斯确诊额颞叶痴呆",
@@ -8145,14 +8217,6 @@
       "onboard_time": 1676280101,
       "rank": 42,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 194417,
-      "num": 194417,
-      "word": "苹果上架348元iPhone14Pro屏幕保护膜",
-      "onboard_time": 1676608656,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 194287,

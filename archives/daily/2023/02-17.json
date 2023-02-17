@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676608733127,
+  "endTime": 1676611078254,
   "band_list": [
     {
       "raw_hot": 2748115,
@@ -17,6 +17,14 @@
       "onboard_time": 1676596470,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2371040,
+      "num": 2371040,
+      "word": "社保缴费满15年就可以不缴了吗",
+      "onboard_time": 1676609076,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2244930,
@@ -227,6 +235,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 694413,
+      "num": 640650,
+      "word": "万茜 湖南省省服",
+      "onboard_time": 1676610815,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 677931,
       "num": 677931,
       "word": "张译说自己背台词脑子笨",
@@ -257,6 +273,14 @@
       "onboard_time": 1676548890,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 638476,
+      "num": 638476,
+      "word": "孙女晒奶奶1954年寒假作业",
+      "onboard_time": 1676607453,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637560,
@@ -307,6 +331,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 624195,
+      "num": 624195,
+      "word": "原来高级软卧是这样的",
+      "onboard_time": 1676607211,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 603887,
       "num": 489687,
       "word": "大三男生换乘32辆公交从合肥到上海上学",
@@ -321,14 +353,6 @@
       "onboard_time": 1676592264,
       "rank": 10,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 599134,
-      "num": 599134,
-      "word": "孙女晒奶奶1954年寒假作业",
-      "onboard_time": 1676607453,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 577111,
@@ -355,6 +379,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 558928,
+      "num": 558928,
+      "word": "苹果上架348元iPhone14Pro屏幕保护膜",
+      "onboard_time": 1676608656,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 557861,
       "num": 557861,
       "word": "三只猫留下了两串脚印",
@@ -371,12 +403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 531138,
-      "num": 531138,
-      "word": "原来高级软卧是这样的",
-      "onboard_time": 1676607211,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 531265,
+      "num": 531265,
+      "word": "专家称年轻人不应该拼存款",
+      "onboard_time": 1676610156,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530778,
@@ -425,6 +457,14 @@
       "onboard_time": 1676596168,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 505780,
+      "num": 505780,
+      "word": "亲属自述未成年侄女被强迫卖淫",
+      "onboard_time": 1676608957,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493091,
@@ -547,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414999,
+      "num": 414999,
+      "word": "没有剧本可以不拍",
+      "onboard_time": 1676608414,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400838,
       "num": 400838,
       "word": "提高中低收入居民消费能力",
@@ -659,6 +707,30 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 301887,
+      "num": 301887,
+      "word": "王阳回应叔圈天菜",
+      "onboard_time": 1676608352,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 299955,
+      "num": 299955,
+      "word": "必应聊天机器人爱上用户并诱其离开妻子",
+      "onboard_time": 1676610097,
+      "rank": 30,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 296112,
+      "num": 296112,
+      "word": "LOL英雄价格更新",
+      "onboard_time": 1676609556,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 294305,
       "num": 294305,
       "word": "我们取得疫情防控重大决定性胜利",
@@ -673,14 +745,6 @@
       "onboard_time": 1676596830,
       "rank": 25,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 280170,
-      "num": 280170,
-      "word": "没有剧本可以不拍",
-      "onboard_time": 1676608414,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 276896,
@@ -883,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207796,
+      "num": 207796,
+      "word": "西安一串串店内多名男女互殴",
+      "onboard_time": 1676610645,
+      "rank": 40,
+      "category": "社会负面,社会负面"
+    },
+    {
       "raw_hot": 207770,
       "num": 207770,
       "word": "布鲁斯威利斯确诊额颞叶痴呆",
@@ -897,14 +969,6 @@
       "onboard_time": 1676563231,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194417,
-      "num": 194417,
-      "word": "苹果上架348元iPhone14Pro屏幕保护膜",
-      "onboard_time": 1676608656,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 194255,

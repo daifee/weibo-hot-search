@@ -1,0 +1,410 @@
+{
+  "runTime": 1676611078254,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2371040,
+        "num": 2371040,
+        "word": "社保缴费满15年就可以不缴了吗",
+        "onboard_time": 1676609076,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1543784,
+        "num": 1543784,
+        "word": "俄亥俄州居民嘴唇变色脸上起红斑",
+        "onboard_time": 1676603909,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122320,
+        "num": 1211341,
+        "word": "2023春季学期月历",
+        "onboard_time": 1676593647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1061309,
+        "num": 1061309,
+        "word": "iPhone15Pro改用USBC端口",
+        "onboard_time": 1676596470,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 886155,
+        "num": 886155,
+        "word": "D社曝李秀满贪污7443亿韩元",
+        "onboard_time": 1676599527,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 813759,
+        "num": 813759,
+        "word": "王一博无名未曝光浴室打斗片段",
+        "onboard_time": 1676606972,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 800205,
+        "num": 800205,
+        "word": "开端里有疯驴子",
+        "onboard_time": 1676604391,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 771520,
+        "num": 771520,
+        "word": "周琦恢复自由身",
+        "onboard_time": 1676607755,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659259,
+        "num": 659259,
+        "word": "乌梅子酱",
+        "onboard_time": 1676599828,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 640857,
+        "num": 640857,
+        "word": "张杰回应自己的歌被用作狂飙高启强BGM",
+        "onboard_time": 1676600367,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694413,
+        "num": 640650,
+        "word": "万茜 湖南省省服",
+        "onboard_time": 1676610815,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669713,
+        "num": 640118,
+        "word": "张元英演我自拍被发现",
+        "onboard_time": 1676607633,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638476,
+        "num": 638476,
+        "word": "孙女晒奶奶1954年寒假作业",
+        "onboard_time": 1676607453,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624195,
+        "num": 624195,
+        "word": "原来高级软卧是这样的",
+        "onboard_time": 1676607211,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 581200,
+        "num": 581200,
+        "word": "iOS16已安装72%的iPhone",
+        "onboard_time": 1676605411,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 558928,
+        "num": 558928,
+        "word": "苹果上架348元iPhone14Pro屏幕保护膜",
+        "onboard_time": 1676608656,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 531265,
+        "num": 531265,
+        "word": "专家称年轻人不应该拼存款",
+        "onboard_time": 1676610156,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505780,
+        "num": 505780,
+        "word": "亲属自述未成年侄女被强迫卖淫",
+        "onboard_time": 1676608957,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486189,
+        "num": 486189,
+        "word": "张译说自己背台词脑子笨",
+        "onboard_time": 1676606791,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452211,
+        "num": 452211,
+        "word": "张婧仪素颜绿色大衣机场路透",
+        "onboard_time": 1676606492,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 430472,
+        "num": 430472,
+        "word": "周扬青婚纱",
+        "onboard_time": 1676589921,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427658,
+        "num": 427658,
+        "word": "不止不休定档海报上没有苗苗",
+        "onboard_time": 1676606972,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414999,
+        "num": 414999,
+        "word": "没有剧本可以不拍",
+        "onboard_time": 1676608414,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408470,
+        "num": 408470,
+        "word": "妈妈仅看外孙一眼继续等待分娩女儿",
+        "onboard_time": 1676592089,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 383872,
+        "num": 383872,
+        "word": "马尔代夫",
+        "onboard_time": 1676607152,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 353671,
+        "num": 353671,
+        "word": "嘲讽顾客的店铺更名为对不起",
+        "onboard_time": 1676603849,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336102,
+        "num": 336102,
+        "word": "郭麒麟终于穿大褂了",
+        "onboard_time": 1676601271,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322057,
+        "num": 322057,
+        "word": "英雄联盟将推出全新模式",
+        "onboard_time": 1676605349,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301887,
+        "num": 301887,
+        "word": "王阳回应叔圈天菜",
+        "onboard_time": 1676608352,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301044,
+        "num": 301044,
+        "word": "小城市房价什么水平",
+        "onboard_time": 1676604271,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 299955,
+        "num": 299955,
+        "word": "必应聊天机器人爱上用户并诱其离开妻子",
+        "onboard_time": 1676610097,
+        "rank": 30,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 296112,
+        "num": 296112,
+        "word": "LOL英雄价格更新",
+        "onboard_time": 1676609556,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281934,
+        "num": 281934,
+        "word": "张杰2023年巡演官宣",
+        "onboard_time": 1676601988,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 280215,
+        "num": 280215,
+        "word": "杨超越演技",
+        "onboard_time": 1676600248,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259929,
+        "num": 259929,
+        "word": "男子冒充帅气警察骗女粉丝不雅视频",
+        "onboard_time": 1676600848,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236625,
+        "num": 236625,
+        "word": "沃尔玛回应甜甜圈有霉点仍售卖",
+        "onboard_time": 1676606852,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231047,
+        "num": 231047,
+        "word": "疯驴子拿快递",
+        "onboard_time": 1676597549,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229477,
+        "num": 229477,
+        "word": "李一桐毕雯珺吻戏",
+        "onboard_time": 1676604030,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223509,
+        "num": 223509,
+        "word": "江苏彩民超级大乐透中奖1.2亿",
+        "onboard_time": 1676601030,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 208884,
+        "num": 208884,
+        "word": "张译45岁影视实绩",
+        "onboard_time": 1676604509,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207796,
+        "num": 207796,
+        "word": "西安一串串店内多名男女互殴",
+        "onboard_time": 1676610645,
+        "rank": 40,
+        "category": "社会负面,社会负面"
+      },
+      {
+        "raw_hot": 200732,
+        "num": 200732,
+        "word": "男童被压车底10多人冲过来救人",
+        "onboard_time": 1676603969,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 192877,
+        "num": 192877,
+        "word": "中国篮协对新疆广汇作出处罚",
+        "onboard_time": 1676605952,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184241,
+        "num": 184241,
+        "word": "网传杭州3月1日取消限行系谣言",
+        "onboard_time": 1676602349,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183160,
+        "num": 183160,
+        "word": "浙江学生遭社会人员殴打2死2伤已立案",
+        "onboard_time": 1676599047,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 177159,
+        "num": 177159,
+        "word": "宋慧乔李到晛黑暗荣耀2剧照",
+        "onboard_time": 1676600547,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176861,
+        "num": 176861,
+        "word": "初三学生因成绩差开学报名被劝退",
+        "onboard_time": 1676598987,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 171159,
+        "num": 171159,
+        "word": "老师迟到被罚站合适吗",
+        "onboard_time": 1676602288,
+        "rank": 47,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 166573,
+        "num": 166573,
+        "word": "苹果印度外壳良品率仅50%",
+        "onboard_time": 1676604509,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 159567,
+        "num": 159567,
+        "word": "张语格起诉丝芭文化",
+        "onboard_time": 1676604330,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化扎根中国大地#"
+    }
+  }
+}
