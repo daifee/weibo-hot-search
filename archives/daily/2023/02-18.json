@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676673304603,
+  "endTime": 1676675949513,
   "band_list": [
     {
       "raw_hot": 2893078,
@@ -243,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216456,
+      "num": 216456,
+      "word": "大学生谈恋爱要不要AA制",
+      "onboard_time": 1676660714,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203929,
       "num": 203929,
       "word": "模范出租车2",
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 199691,
-      "num": 187014,
+      "num": 192401,
       "word": "男子欠嫖资被扣报警双双被带走",
       "onboard_time": 1676656756,
       "rank": 11,
@@ -331,8 +339,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 171715,
+      "num": 171715,
+      "word": "杨紫199爱条纹衬衫饭拍路透",
+      "onboard_time": 1676675058,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 170478,
-      "num": 143376,
+      "num": 166224,
       "word": "爸爸给女儿做40米冰滑梯4天就化了",
       "onboard_time": 1676654898,
       "rank": 46,
@@ -353,6 +369,14 @@
       "onboard_time": 1676626891,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166257,
+      "num": 166257,
+      "word": "渔民出海偶遇100多只海豚逐浪嬉戏",
+      "onboard_time": 1676674696,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162715,
@@ -411,14 +435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 151360,
-      "num": 151360,
-      "word": "大学生谈恋爱要不要AA制",
-      "onboard_time": 1676660714,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 147470,
       "num": 147470,
       "word": "温州特斯拉事故致1死1伤",
@@ -433,6 +449,14 @@
       "onboard_time": 1676642070,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135899,
+      "num": 135899,
+      "word": "张大大问助理自己和王嘉尔谁帅",
+      "onboard_time": 1676664016,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 109315,
@@ -459,6 +483,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 91972,
+      "num": 91972,
+      "word": "赖美云模仿疯驴子",
+      "onboard_time": 1676675058,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 86058,
       "num": 86058,
       "word": "宁至谦阮流筝终于和好了",
@@ -467,24 +499,24 @@
       "category": "影视"
     },
     {
-      "raw_hot": 73729,
-      "num": 73729,
-      "word": "张大大问助理自己和王嘉尔谁帅",
-      "onboard_time": 1676664016,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 58723,
-      "num": 58723,
+      "raw_hot": 77003,
+      "num": 77003,
       "word": "周深 水姻缘",
       "onboard_time": 1676640692,
       "rank": 47,
       "category": "综艺"
     },
     {
-      "raw_hot": 24878,
-      "num": 24878,
+      "raw_hot": 62385,
+      "num": 62385,
+      "word": "听孙悦唱月牙泉像去了趟敦煌",
+      "onboard_time": 1676646572,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 53886,
+      "num": 53886,
       "word": "少典有琴夜昙初吻",
       "onboard_time": 1676672293,
       "rank": 49,
