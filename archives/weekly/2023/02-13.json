@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676672305514,
+  "endTime": 1676673304603,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -11451,20 +11451,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 73729,
+      "num": 73729,
+      "word": "张大大问助理自己和王嘉尔谁帅",
+      "onboard_time": 1676664016,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72303,
       "num": 1682601,
       "word": "文物背后有料有趣的中国故事",
       "onboard_time": 1676465070,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69686,
-      "num": 60261,
-      "word": "张大大问助理自己和王嘉尔谁帅",
-      "onboard_time": 1676664016,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 68609,
@@ -11619,20 +11619,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24878,
+      "num": 24878,
+      "word": "少典有琴夜昙初吻",
+      "onboard_time": 1676672293,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 18647,
       "num": 18647,
       "word": "向涵之滑雪plog",
       "onboard_time": 1676316553,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 12965,
-      "num": 18734,
-      "word": "少典有琴夜昙初吻",
-      "onboard_time": 1676672293,
-      "rank": 49,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
