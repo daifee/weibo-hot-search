@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676661315183,
+  "endTime": 1676662410397,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -11243,6 +11243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109710,
+      "num": 109710,
+      "word": "大学生谈恋爱要不要AA制",
+      "onboard_time": 1676660714,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109586,
       "num": 187042,
       "word": "社恐人下班怎么玩",
@@ -11363,6 +11371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93608,
+      "num": 93608,
+      "word": "王冰冰跟赵继伟学打篮球",
+      "onboard_time": 1676659335,
+      "rank": 14,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 93595,
       "num": 93595,
       "word": "于正兰舟引不是改编自将进酒",
@@ -11433,14 +11449,6 @@
       "onboard_time": 1676581452,
       "rank": 45,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 73827,
-      "num": 73827,
-      "word": "王冰冰跟赵继伟学打篮球",
-      "onboard_time": 1676659335,
-      "rank": 14,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 72303,
@@ -11545,14 +11553,6 @@
       "onboard_time": 1676365234,
       "rank": 39,
       "category": "时尚,情感"
-    },
-    {
-      "raw_hot": 43628,
-      "num": 43628,
-      "word": "大学生谈恋爱要不要AA制",
-      "onboard_time": 1676660714,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 43475,

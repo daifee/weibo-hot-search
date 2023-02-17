@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676661315183,
+  "endTime": 1676662410397,
   "band_list": [
     {
       "raw_hot": 2893078,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109710,
+      "num": 109710,
+      "word": "大学生谈恋爱要不要AA制",
+      "onboard_time": 1676660714,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109315,
       "num": 1316080,
       "word": "中国人第一次从太空遥望地球的影像",
@@ -443,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 93608,
+      "num": 93608,
+      "word": "王冰冰跟赵继伟学打篮球",
+      "onboard_time": 1676659335,
+      "rank": 14,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 86058,
       "num": 86058,
       "word": "宁至谦阮流筝终于和好了",
@@ -451,28 +467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 73827,
-      "num": 73827,
-      "word": "王冰冰跟赵继伟学打篮球",
-      "onboard_time": 1676659335,
-      "rank": 14,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 58723,
       "num": 58723,
       "word": "周深 水姻缘",
       "onboard_time": 1676640692,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43628,
-      "num": 43628,
-      "word": "大学生谈恋爱要不要AA制",
-      "onboard_time": 1676660714,
-      "rank": 27,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
