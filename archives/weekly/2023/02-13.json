@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676607822939,
+  "endTime": 1676608733127,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -651,6 +651,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1720223,
+      "num": 1720223,
+      "word": "俄亥俄州居民嘴唇变色脸上起红斑",
+      "onboard_time": 1676603909,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1695964,
       "num": 1695964,
       "word": "李菲儿",
@@ -660,7 +668,7 @@
     },
     {
       "raw_hot": 1668803,
-      "num": 445944,
+      "num": 485629,
       "word": "周扬青婚纱",
       "onboard_time": 1676589921,
       "rank": 19,
@@ -907,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1340615,
-      "num": 1340615,
-      "word": "俄亥俄州居民嘴唇变色脸上起红斑",
-      "onboard_time": 1676603909,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1338122,
       "num": 1338122,
       "word": "师徒恋",
@@ -1001,6 +1001,14 @@
       "onboard_time": 1676274646,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1278678,
+      "num": 1278678,
+      "word": "王一博无名未曝光浴室打斗片段",
+      "onboard_time": 1676606972,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1275730,
@@ -1555,6 +1563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1009518,
+      "num": 1009518,
+      "word": "开端里有疯驴子",
+      "onboard_time": 1676604391,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1009481,
       "num": 1009481,
       "word": "Doinb爆料FPX寄了",
@@ -1657,14 +1673,6 @@
       "onboard_time": 1676560234,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 951203,
-      "num": 951203,
-      "word": "王一博无名未曝光浴室打斗片段",
-      "onboard_time": 1676606972,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 948602,
@@ -1777,6 +1785,14 @@
       "onboard_time": 1676522252,
       "rank": 42,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 904326,
+      "num": 809890,
+      "word": "张元英演我自拍被发现",
+      "onboard_time": 1676607633,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 903866,
@@ -1897,6 +1913,14 @@
       "onboard_time": 1676513009,
       "rank": 5,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 856978,
+      "num": 856978,
+      "word": "周琦恢复自由身",
+      "onboard_time": 1676607755,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 856652,
@@ -2035,6 +2059,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 814855,
+      "num": 814855,
+      "word": "iOS16已安装72%的iPhone",
+      "onboard_time": 1676605411,
+      "rank": 7,
+      "category": "科技"
+    },
+    {
       "raw_hot": 808731,
       "num": 709529,
       "word": "北京疾控公布最新检测阳性率",
@@ -2097,14 +2129,6 @@
       "onboard_time": 1676363496,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 788148,
-      "num": 788148,
-      "word": "iOS16已安装72%的iPhone",
-      "onboard_time": 1676605411,
-      "rank": 7,
-      "category": "科技"
     },
     {
       "raw_hot": 784784,
@@ -2185,14 +2209,6 @@
       "onboard_time": 1676374113,
       "rank": 18,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 773851,
-      "num": 773851,
-      "word": "开端里有疯驴子",
-      "onboard_time": 1676604391,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 772537,
@@ -2675,6 +2691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 677931,
+      "num": 677931,
+      "word": "张译说自己背台词脑子笨",
+      "onboard_time": 1676606791,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 677850,
       "num": 677850,
       "word": "上海地铁",
@@ -2875,6 +2899,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 637560,
+      "num": 637560,
+      "word": "马尔代夫",
+      "onboard_time": 1676607152,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 635850,
       "num": 635850,
       "word": "中国足球狂飙",
@@ -2888,6 +2920,14 @@
       "word": "鹿晗中国乒乓宣传VCR",
       "onboard_time": 1676259029,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 631847,
+      "num": 631847,
+      "word": "不止不休定档海报上没有苗苗",
+      "onboard_time": 1676606972,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -3081,6 +3121,14 @@
       "onboard_time": 1676592264,
       "rank": 10,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 599134,
+      "num": 599134,
+      "word": "孙女晒奶奶1954年寒假作业",
+      "onboard_time": 1676607453,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 598993,
@@ -3355,14 +3403,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 560625,
-      "num": 560625,
-      "word": "张元英演我自拍被发现",
-      "onboard_time": 1676607633,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 559755,
       "num": 512443,
       "word": "谢娜半永久猫眼妆教程vlog",
@@ -3547,6 +3587,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 531138,
+      "num": 531138,
+      "word": "原来高级软卧是这样的",
+      "onboard_time": 1676607211,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 530984,
       "num": 530984,
       "word": "屋顶惊现猫猫虫",
@@ -3641,6 +3689,14 @@
       "onboard_time": 1676378916,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521154,
+      "num": 521154,
+      "word": "嘲讽顾客的店铺更名为对不起",
+      "onboard_time": 1676603849,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521019,
@@ -3745,6 +3801,14 @@
       "onboard_time": 1676272666,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 511652,
+      "num": 511652,
+      "word": "张婧仪素颜绿色大衣机场路透",
+      "onboard_time": 1676606492,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 511483,
@@ -3931,20 +3995,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 486435,
-      "num": 480885,
-      "word": "张译说自己背台词脑子笨",
-      "onboard_time": 1676606791,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 485778,
       "num": 485778,
       "word": "李乃文说李小冉很女神也很北京大妞",
       "onboard_time": 1676279681,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 485666,
+      "num": 485666,
+      "word": "英雄联盟将推出全新模式",
+      "onboard_time": 1676605349,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 485452,
@@ -3993,14 +4057,6 @@
       "onboard_time": 1676429009,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 482741,
-      "num": 482741,
-      "word": "英雄联盟将推出全新模式",
-      "onboard_time": 1676605349,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 480622,
@@ -4073,14 +4129,6 @@
       "onboard_time": 1676562869,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 475520,
-      "num": 475520,
-      "word": "嘲讽顾客的店铺更名为对不起",
-      "onboard_time": 1676603849,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 474901,
@@ -4339,14 +4387,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 448377,
-      "num": 448377,
-      "word": "马尔代夫",
-      "onboard_time": 1676607152,
-      "rank": 19,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 446580,
       "num": 446580,
       "word": "王阳的采访",
@@ -4571,6 +4611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431583,
+      "num": 431583,
+      "word": "小城市房价什么水平",
+      "onboard_time": 1676604271,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 431159,
       "num": 431159,
       "word": "东风快递招人",
@@ -4609,14 +4657,6 @@
       "onboard_time": 1676556812,
       "rank": 32,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 429515,
-      "num": 429515,
-      "word": "不止不休定档海报上没有苗苗",
-      "onboard_time": 1676606972,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 429295,
@@ -4747,14 +4787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 411936,
-      "num": 411936,
-      "word": "小城市房价什么水平",
-      "onboard_time": 1676604271,
-      "rank": 47,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 411819,
       "num": 411819,
       "word": "Rookie情人节去医院拔鱼刺",
@@ -4777,14 +4809,6 @@
       "onboard_time": 1676255665,
       "rank": 30,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 410731,
-      "num": 410731,
-      "word": "张婧仪素颜绿色大衣机场路透",
-      "onboard_time": 1676606492,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 410686,
@@ -5001,6 +5025,14 @@
       "onboard_time": 1676429431,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 390600,
+      "num": 390600,
+      "word": "沃尔玛回应甜甜圈有霉点仍售卖",
+      "onboard_time": 1676606852,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390526,
@@ -5715,14 +5747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 325644,
-      "num": 325644,
-      "word": "孙女晒奶奶1954年寒假作业",
-      "onboard_time": 1676607453,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325457,
       "num": 325457,
       "word": "电影院3D眼镜要收费合理吗",
@@ -5945,14 +5969,6 @@
       "onboard_time": 1676369377,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 312291,
-      "num": 312291,
-      "word": "沃尔玛回应甜甜圈有霉点仍售卖",
-      "onboard_time": 1676606852,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312012,
@@ -6201,14 +6217,6 @@
       "onboard_time": 1676288686,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294031,
-      "num": 294031,
-      "word": "原来高级软卧是这样的",
-      "onboard_time": 1676607211,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 293737,
@@ -6473,6 +6481,14 @@
       "onboard_time": 1676457213,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 280170,
+      "num": 280170,
+      "word": "没有剧本可以不拍",
+      "onboard_time": 1676608414,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 279908,
@@ -7675,14 +7691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215614,
-      "num": 215614,
-      "word": "周琦恢复自由身",
-      "onboard_time": 1676607755,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215520,
       "num": 215520,
       "word": "Gemini今天不是毒奶",
@@ -8139,6 +8147,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 194417,
+      "num": 194417,
+      "word": "苹果上架348元iPhone14Pro屏幕保护膜",
+      "onboard_time": 1676608656,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 194287,
       "num": 194287,
       "word": "微信回应头像褪色",
@@ -8353,6 +8369,14 @@
       "onboard_time": 1676592264,
       "rank": 40,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 189266,
+      "num": 189266,
+      "word": "送别大熊猫教授胡锦矗",
+      "onboard_time": 1676608052,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189039,
