@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676605104546,
+  "endTime": 1676607822939,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -3043,6 +3043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1340615,
+      "num": 1340615,
+      "word": "俄亥俄州居民嘴唇变色脸上起红斑",
+      "onboard_time": 1676603909,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1338122,
       "num": 1338122,
       "word": "师徒恋",
@@ -5531,6 +5539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 951203,
+      "num": 951203,
+      "word": "王一博无名未曝光浴室打斗片段",
+      "onboard_time": 1676606972,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 949688,
       "num": 949688,
       "word": "王一博 苏翊鸣",
@@ -7395,6 +7411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 788148,
+      "num": 788148,
+      "word": "iOS16已安装72%的iPhone",
+      "onboard_time": 1676605411,
+      "rank": 7,
+      "category": "科技"
+    },
+    {
       "raw_hot": 787488,
       "num": 787488,
       "word": "姐姐放弃考研捐骨髓救17岁妹妹",
@@ -7577,6 +7601,14 @@
       "onboard_time": 1676374113,
       "rank": 18,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 773851,
+      "num": 773851,
+      "word": "开端里有疯驴子",
+      "onboard_time": 1676604391,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 772695,
@@ -9515,6 +9547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 664114,
+      "num": 586454,
+      "word": "女生求职因河南户籍被HR拒面",
+      "onboard_time": 1676601749,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663281,
       "num": 663281,
       "word": "收入成了年轻人跳槽唯一的衡量",
@@ -9913,14 +9953,6 @@
       "onboard_time": 1676011471,
       "rank": 17,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 644299,
-      "num": 586454,
-      "word": "女生求职因河南户籍被HR拒面",
-      "onboard_time": 1676601749,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 643707,
@@ -11699,6 +11731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 560625,
+      "num": 560625,
+      "word": "张元英演我自拍被发现",
+      "onboard_time": 1676607633,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560608,
       "num": 560608,
       "word": "厦航A321neo",
@@ -12057,14 +12097,6 @@
       "onboard_time": 1676508869,
       "rank": 11,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 548970,
-      "num": 548970,
-      "word": "俄亥俄州居民嘴唇变色脸上起红斑",
-      "onboard_time": 1676603909,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 548837,
@@ -13771,14 +13803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 490151,
-      "num": 490151,
-      "word": "开端里有疯驴子",
-      "onboard_time": 1676604391,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 489781,
       "num": 489781,
       "word": "YSKM好帅",
@@ -13849,6 +13873,14 @@
       "onboard_time": 1675595309,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 486435,
+      "num": 480885,
+      "word": "张译说自己背台词脑子笨",
+      "onboard_time": 1676606791,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 486234,
@@ -13977,6 +14009,14 @@
       "onboard_time": 1675307437,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 482741,
+      "num": 482741,
+      "word": "英雄联盟将推出全新模式",
+      "onboard_time": 1676605349,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 481985,
@@ -14161,6 +14201,14 @@
       "onboard_time": 1676562869,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 475520,
+      "num": 475520,
+      "word": "嘲讽顾客的店铺更名为对不起",
+      "onboard_time": 1676603849,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475508,
@@ -14875,6 +14923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451543,
+      "num": 451543,
+      "word": "张译45岁影视实绩",
+      "onboard_time": 1676604509,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 451527,
       "num": 451527,
       "word": "制片人谈狂飙演员片酬",
@@ -14985,6 +15041,14 @@
       "onboard_time": 1675859192,
       "rank": 39,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 448377,
+      "num": 448377,
+      "word": "马尔代夫",
+      "onboard_time": 1676607152,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 447575,
@@ -15403,6 +15467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 435589,
+      "num": 435589,
+      "word": "中国篮协对新疆广汇作出处罚",
+      "onboard_time": 1676605952,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 435496,
       "num": 435496,
       "word": "25岁女生记录矫正牙齿全过程",
@@ -15689,6 +15761,14 @@
       "onboard_time": 1675569937,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 429515,
+      "num": 429515,
+      "word": "不止不休定档海报上没有苗苗",
+      "onboard_time": 1676606972,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 429295,
@@ -16299,6 +16379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411936,
+      "num": 411936,
+      "word": "小城市房价什么水平",
+      "onboard_time": 1676604271,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 411867,
       "num": 411867,
       "word": "男子车祸现场未撤离被撞飞下桥",
@@ -16369,6 +16457,14 @@
       "onboard_time": 1675662687,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 410731,
+      "num": 410731,
+      "word": "张婧仪素颜绿色大衣机场路透",
+      "onboard_time": 1676606492,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 410686,
@@ -17393,6 +17489,14 @@
       "onboard_time": 1676364214,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388956,
+      "num": 388956,
+      "word": "男童被压车底10多人冲过来救人",
+      "onboard_time": 1676603969,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 388909,
@@ -18633,14 +18737,6 @@
       "onboard_time": 1676185349,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 356982,
-      "num": 347325,
-      "word": "张译45岁影视实绩",
-      "onboard_time": 1676604509,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 356712,
@@ -20099,6 +20195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 325644,
+      "num": 325644,
+      "word": "孙女晒奶奶1954年寒假作业",
+      "onboard_time": 1676607453,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325590,
       "num": 325590,
       "word": "父母外出务工小女孩回家不见人大哭",
@@ -20563,6 +20667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 317358,
+      "num": 317358,
+      "word": "苹果印度外壳良品率仅50%",
+      "onboard_time": 1676604509,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 316553,
       "num": 316553,
       "word": "今天拍到爱情了",
@@ -20673,14 +20785,6 @@
       "onboard_time": 1676281478,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 315322,
-      "num": 315322,
-      "word": "嘲讽顾客的店铺更名为对不起",
-      "onboard_time": 1676603849,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315039,
@@ -20840,6 +20944,14 @@
       "word": "胡鑫宇事件发布会汇总",
       "onboard_time": 1675340493,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312291,
+      "num": 312291,
+      "word": "沃尔玛回应甜甜圈有霉点仍售卖",
+      "onboard_time": 1676606852,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -21225,14 +21337,6 @@
       "onboard_time": 1676428109,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 305058,
-      "num": 305058,
-      "word": "男童被压车底10多人冲过来救人",
-      "onboard_time": 1676603969,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 305023,
@@ -21921,6 +22025,14 @@
       "onboard_time": 1675782574,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 294031,
+      "num": 294031,
+      "word": "原来高级软卧是这样的",
+      "onboard_time": 1676607211,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 293743,
@@ -25091,6 +25203,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 248693,
+      "num": 248693,
+      "word": "脱轨列车公司拒绝参加当地市民大会",
+      "onboard_time": 1676607275,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248680,
       "num": 248680,
       "word": "狂飙版回家的诱惑",
@@ -27171,6 +27291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220531,
+      "num": 220531,
+      "word": "iOS16.4带来十个新的快捷方式",
+      "onboard_time": 1676606132,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 220383,
       "num": 220383,
       "word": "巴特勒空接绝杀火箭",
@@ -27435,6 +27563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 215614,
+      "num": 215614,
+      "word": "周琦恢复自由身",
+      "onboard_time": 1676607755,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215520,
       "num": 215520,
       "word": "Gemini今天不是毒奶",
@@ -27457,14 +27593,6 @@
       "onboard_time": 1675392328,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215249,
-      "num": 215249,
-      "word": "小城市房价什么水平",
-      "onboard_time": 1676604271,
-      "rank": 47,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 215169,
@@ -27537,14 +27665,6 @@
       "onboard_time": 1675573649,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214746,
-      "num": 214746,
-      "word": "苹果印度外壳良品率仅50%",
-      "onboard_time": 1676604509,
-      "rank": 38,
-      "category": "科技"
     },
     {
       "raw_hot": 214610,
@@ -27897,6 +28017,14 @@
       "onboard_time": 1675941571,
       "rank": 43,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 210763,
+      "num": 210763,
+      "word": "蚁人",
+      "onboard_time": 1676605051,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 210692,
@@ -30809,14 +30937,6 @@
       "onboard_time": 1676425590,
       "rank": 39,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 182069,
-      "num": 182069,
-      "word": "蚁人",
-      "onboard_time": 1676605051,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 181978,
