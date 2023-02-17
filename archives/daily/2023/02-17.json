@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676615959965,
+  "endTime": 1676618252002,
   "band_list": [
     {
       "raw_hot": 2748115,
@@ -139,6 +139,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1182942,
+      "num": 1182942,
+      "word": "女孩买9米挑高公寓被嘲装修后惊艳",
+      "onboard_time": 1676613333,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1106451,
+      "num": 1106451,
+      "word": "张纪中回应张颂文沙漠捡垃圾被剧组丢下",
+      "onboard_time": 1676616811,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1096944,
       "num": 1096944,
       "word": "乌啦啦 邯郸",
@@ -193,14 +209,6 @@
       "onboard_time": 1676560234,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 938108,
-      "num": 938108,
-      "word": "女孩买9米挑高公寓被嘲装修后惊艳",
-      "onboard_time": 1676613333,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 904326,
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649556,
+      "num": 649556,
+      "word": "留学花268万月薪1万2亏吗",
+      "onboard_time": 1676614831,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 646392,
       "num": 257636,
       "word": "贾乃亮说艺人没想明白别做直播",
@@ -393,6 +409,14 @@
       "onboard_time": 1676607211,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 619373,
+      "num": 619373,
+      "word": "董宇辉荣获北京平谷人才奖",
+      "onboard_time": 1676615610,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 603887,
@@ -587,14 +611,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 466465,
-      "num": 456531,
-      "word": "留学花268万月薪1万2亏吗",
-      "onboard_time": 1676614831,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 463003,
       "num": 455796,
       "word": "211女生称毕业2年成无业游民",
@@ -691,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 413368,
+      "num": 413368,
+      "word": "苹果手机为何频繁收到诈骗短信",
+      "onboard_time": 1676616450,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 400838,
       "num": 400838,
       "word": "提高中低收入居民消费能力",
@@ -737,6 +761,22 @@
       "onboard_time": 1676602349,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 377246,
+      "num": 377246,
+      "word": "王嘉尔TikTok播放量华人明星第一",
+      "onboard_time": 1676616211,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 371910,
+      "num": 371910,
+      "word": "彭冠英王楚然新剧删减剧情",
+      "onboard_time": 1676617773,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 358527,
@@ -811,12 +851,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319862,
+      "num": 319862,
+      "word": "北京平谷辟谣送董宇辉户口车牌与车房",
+      "onboard_time": 1676617531,
+      "rank": 19,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 317358,
       "num": 317358,
       "word": "苹果印度外壳良品率仅50%",
       "onboard_time": 1676604509,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 308061,
+      "num": 308061,
+      "word": "农村人情交往范围越来越窄",
+      "onboard_time": 1676613213,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302260,
@@ -833,14 +889,6 @@
       "onboard_time": 1676608352,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301058,
-      "num": 301058,
-      "word": "农村人情交往范围越来越窄",
-      "onboard_time": 1676613213,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299955,
@@ -955,6 +1003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255010,
+      "num": 255010,
+      "word": "最后一次上班是什么感觉",
+      "onboard_time": 1676615851,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252478,
       "num": 248996,
       "word": "张颂文 不止不休",
@@ -993,14 +1049,6 @@
       "onboard_time": 1676553152,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 242626,
-      "num": 242626,
-      "word": "董宇辉荣获北京平谷人才奖",
-      "onboard_time": 1676615610,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241409,
@@ -1123,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192393,
+      "num": 192393,
+      "word": "INTO1创4开播2周年换回成团头像",
+      "onboard_time": 1676617531,
+      "rank": 34,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 189623,
       "num": 189623,
       "word": "夏花删减剧情",
@@ -1233,6 +1289,14 @@
       "onboard_time": 1676588958,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169205,
+      "num": 169205,
+      "word": "一警一犬相伴12年一起退休",
+      "onboard_time": 1676615792,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168077,
@@ -1369,14 +1433,6 @@
       "onboard_time": 1676556812,
       "rank": 39,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 118960,
-      "num": 118960,
-      "word": "一警一犬相伴12年一起退休",
-      "onboard_time": 1676615792,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118903,
