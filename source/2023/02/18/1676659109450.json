@@ -1,0 +1,410 @@
+{
+  "runTime": 1676659109450,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 682080,
+        "num": 682080,
+        "word": "如果不缴纳五险一金会怎样",
+        "onboard_time": 1676648791,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406286,
+        "num": 406286,
+        "word": "蜜雪冰城没关音响扰民一宿居民报警",
+        "onboard_time": 1676653880,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27560,
+        "num": 337621,
+        "word": "中国人第一次从太空遥望地球的影像",
+        "onboard_time": 1676630193,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 324494,
+        "num": 324494,
+        "word": "艾薇儿回答是否参加浪姐",
+        "onboard_time": 1676644655,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155620,
+        "num": 155620,
+        "word": "蔡徐坤终于坐到了沙发上",
+        "onboard_time": 1676645194,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152530,
+        "num": 152530,
+        "word": "爬完泰山全都老实了",
+        "onboard_time": 1676651246,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151695,
+        "num": 151695,
+        "word": "美国被曝炸毁北溪新证据",
+        "onboard_time": 1676648428,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 138446,
+        "num": 138446,
+        "word": "芒果有点人脉",
+        "onboard_time": 1676648251,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130379,
+        "num": 130379,
+        "word": "肖战 米兰时装周",
+        "onboard_time": 1676644893,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113254,
+        "num": 113254,
+        "word": "云南80后女局长段颖被双开",
+        "onboard_time": 1676631211,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199691,
+        "num": 109942,
+        "word": "男子欠嫖资被扣报警双双被带走",
+        "onboard_time": 1676656756,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170478,
+        "num": 109737,
+        "word": "爸爸给女儿做40米冰滑梯4天就化了",
+        "onboard_time": 1676654898,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113615,
+        "num": 109528,
+        "word": "放羊的星星刘荷娜近照",
+        "onboard_time": 1676624672,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103052,
+        "num": 103052,
+        "word": "安永女员工实名举报被高管性骚扰",
+        "onboard_time": 1676642309,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102150,
+        "num": 102150,
+        "word": "张杰把校园霸凌写进歌里",
+        "onboard_time": 1676650888,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92610,
+        "num": 92610,
+        "word": "1岁多娃爱甜食61斤疑患库欣综合征",
+        "onboard_time": 1676647471,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80065,
+        "num": 80065,
+        "word": "原神",
+        "onboard_time": 1676636669,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79195,
+        "num": 79195,
+        "word": "14岁足球小将邝兆镭留洋",
+        "onboard_time": 1676649628,
+        "rank": 17,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 76865,
+        "num": 76865,
+        "word": "乌梅子酱搜索量暴涨200倍",
+        "onboard_time": 1676630671,
+        "rank": 18,
+        "category": "音乐,美食"
+      },
+      {
+        "raw_hot": 75663,
+        "num": 75663,
+        "word": "李成洙将辞去SMTOWN代表职务",
+        "onboard_time": 1676644052,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72817,
+        "num": 72817,
+        "word": "iPhone14ProMax烧屏",
+        "onboard_time": 1676635112,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 69612,
+        "num": 69612,
+        "word": "河南发现价值45亿大型银矿",
+        "onboard_time": 1676636429,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 69527,
+        "num": 69527,
+        "word": "长了一颗老虎胆的女植物学家走了",
+        "onboard_time": 1676647229,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67042,
+        "num": 67042,
+        "word": "村民以为杨紫是拍搞笑视频的",
+        "onboard_time": 1676647171,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66219,
+        "num": 66219,
+        "word": "四六级",
+        "onboard_time": 1676626173,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 59938,
+        "num": 59938,
+        "word": "广州cpsp",
+        "onboard_time": 1676637570,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 59005,
+        "num": 59005,
+        "word": "刘德华腹肌照",
+        "onboard_time": 1676636371,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56802,
+        "num": 56802,
+        "word": "特斯拉回应追尾公交致1死1伤",
+        "onboard_time": 1676646272,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 56053,
+        "num": 56053,
+        "word": "借精生子合法吗",
+        "onboard_time": 1676628814,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54116,
+        "num": 54116,
+        "word": "一女子因被家暴带孩子流落街头",
+        "onboard_time": 1676634449,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53194,
+        "num": 53194,
+        "word": "湖南两名老师迟到被校长罚站",
+        "onboard_time": 1676645913,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 50047,
+        "num": 50047,
+        "word": "刘亦菲捧花头像",
+        "onboard_time": 1676613155,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49947,
+        "num": 49947,
+        "word": "夏花",
+        "onboard_time": 1676637931,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49050,
+        "num": 49050,
+        "word": "这样给身份证复印件更安全",
+        "onboard_time": 1676639009,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46394,
+        "num": 46394,
+        "word": "薛之谦演唱会门票",
+        "onboard_time": 1676626891,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46363,
+        "num": 46363,
+        "word": "刘雯 时装周",
+        "onboard_time": 1676636789,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 46151,
+        "num": 46151,
+        "word": "萧寒何冉浴室相拥",
+        "onboard_time": 1676648969,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42865,
+        "num": 42865,
+        "word": "已经这样反反复复十几年",
+        "onboard_time": 1676647770,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 42286,
+        "num": 42286,
+        "word": "蚁人3好不好看",
+        "onboard_time": 1676648011,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42180,
+        "num": 42180,
+        "word": "国内首次检出XBB.1.5",
+        "onboard_time": 1676619031,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40960,
+        "num": 40960,
+        "word": "张翰状态",
+        "onboard_time": 1676619329,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38079,
+        "num": 38079,
+        "word": "模范出租车2",
+        "onboard_time": 1676647411,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37436,
+        "num": 37436,
+        "word": "叔圈",
+        "onboard_time": 1676634151,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37077,
+        "num": 37077,
+        "word": "国产影视的BE美学",
+        "onboard_time": 1676639699,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36125,
+        "num": 36125,
+        "word": "温州特斯拉事故致1死1伤",
+        "onboard_time": 1676637210,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 34267,
+        "num": 34267,
+        "word": "周深 水姻缘",
+        "onboard_time": 1676640692,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33539,
+        "num": 33539,
+        "word": "护士为体重0.9kg早产儿扎针",
+        "onboard_time": 1676631753,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32489,
+        "num": 32489,
+        "word": "人生最该坚持的3件事",
+        "onboard_time": 1676647060,
+        "rank": 47,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 30858,
+        "num": 30858,
+        "word": "宁至谦阮流筝终于和好了",
+        "onboard_time": 1676653701,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30682,
+        "num": 30682,
+        "word": "虞书欣晒收工自拍live图",
+        "onboard_time": 1676646812,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展看中国#"
+    }
+  }
+}
