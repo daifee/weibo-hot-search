@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676644443742,
+  "endTime": 1676647179569,
   "band_list": [
     {
       "raw_hot": 3903571,
@@ -9,6 +9,14 @@
       "onboard_time": 1676627312,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2933357,
+      "num": 2933357,
+      "word": "艾薇儿回答是否参加浪姐",
+      "onboard_time": 1676644655,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2759922,
@@ -139,6 +147,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1747602,
+      "num": 919454,
+      "word": "肖战 米兰时装周",
+      "onboard_time": 1676644893,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1720223,
       "num": 1720223,
       "word": "俄亥俄州居民嘴唇变色脸上起红斑",
@@ -256,6 +272,14 @@
       "word": "女孩买9米挑高公寓被嘲装修后惊艳",
       "onboard_time": 1676613333,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1113567,
+      "num": 1113567,
+      "word": "安永女员工实名举报被高管性骚扰",
+      "onboard_time": 1676642309,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -387,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 920636,
-      "num": 920636,
-      "word": "安永女员工实名举报被高管性骚扰",
-      "onboard_time": 1676642309,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 904326,
       "num": 809890,
       "word": "张元英演我自拍被发现",
@@ -427,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 815905,
+      "num": 815905,
+      "word": "李成洙将辞去SMTOWN代表职务",
+      "onboard_time": 1676644052,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 814855,
       "num": 814855,
       "word": "iOS16已安装72%的iPhone",
@@ -457,6 +481,14 @@
       "onboard_time": 1676635112,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 784668,
+      "num": 784668,
+      "word": "蔡徐坤终于坐到了沙发上",
+      "onboard_time": 1676645194,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 776726,
@@ -763,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 568607,
-      "num": 568607,
-      "word": "李成洙将辞去SMTOWN代表职务",
-      "onboard_time": 1676644052,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 560806,
       "num": 560806,
       "word": "阿里客服称商家肯定看不到购物车信息",
@@ -995,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456207,
+      "num": 456207,
+      "word": "湖南两名老师迟到被校长罚站",
+      "onboard_time": 1676645913,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 455364,
       "num": 455364,
       "word": "李一桐毕雯珺吻戏",
@@ -1155,6 +1187,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 401652,
+      "num": 401652,
+      "word": "张杰重现狂飙名场面",
+      "onboard_time": 1676642011,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400838,
       "num": 400838,
       "word": "提高中低收入居民消费能力",
@@ -1243,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384174,
+      "num": 368940,
+      "word": "村民以为杨紫是拍搞笑视频的",
+      "onboard_time": 1676647171,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377246,
       "num": 377246,
       "word": "王嘉尔TikTok播放量华人明星第一",
@@ -1256,6 +1304,14 @@
       "word": "时装周明星行程",
       "onboard_time": 1676643153,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 363039,
+      "num": 363039,
+      "word": "虞书欣晒收工自拍live图",
+      "onboard_time": 1676646812,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1411,6 +1467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 317494,
+      "num": 298516,
+      "word": "最强大脑",
+      "onboard_time": 1676645853,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317358,
       "num": 317358,
       "word": "苹果印度外壳良品率仅50%",
@@ -1440,14 +1504,6 @@
       "word": "徐志胜撒娇",
       "onboard_time": 1676641052,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 303303,
-      "num": 303303,
-      "word": "张杰重现狂飙名场面",
-      "onboard_time": 1676642011,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1587,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261419,
+      "num": 261419,
+      "word": "时光音乐会",
+      "onboard_time": 1676647060,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261187,
       "num": 261187,
       "word": "周黑鸭客服否认业绩下滑系价格贵",
@@ -1657,6 +1721,14 @@
       "onboard_time": 1676553632,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249518,
+      "num": 249518,
+      "word": "杨超越说重紫一直嘴硬一直跪",
+      "onboard_time": 1676644534,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 248693,
@@ -1788,7 +1860,7 @@
     },
     {
       "raw_hot": 220099,
-      "num": 220099,
+      "num": 953219,
       "word": "中国人第一次从太空遥望地球的影像",
       "onboard_time": 1676630193,
       "rank": 49,
@@ -1939,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193376,
+      "num": 193376,
+      "word": "特斯拉回应追尾公交致1死1伤",
+      "onboard_time": 1676646272,
+      "rank": 36,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 192393,
       "num": 192393,
       "word": "INTO1创4开播2周年换回成团头像",
@@ -2033,6 +2113,14 @@
       "onboard_time": 1676622634,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187113,
+      "num": 156590,
+      "word": "听孙悦唱月牙泉像去了趟敦煌",
+      "onboard_time": 1676646572,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 186669,
@@ -2291,6 +2379,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 136490,
+      "num": 136490,
+      "word": "优菈什么时候复刻",
+      "onboard_time": 1676646152,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136164,
       "num": 136164,
       "word": "TES对战KSG",
@@ -2321,6 +2417,14 @@
       "onboard_time": 1676558851,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133319,
+      "num": 133319,
+      "word": "人生最该坚持的3件事",
+      "onboard_time": 1676647060,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 132216,
