@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676611078254,
+  "endTime": 1676612025914,
   "band_list": [
     {
       "raw_hot": 2748115,
@@ -11,20 +11,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2481776,
+      "num": 2481776,
+      "word": "社保缴费满15年就可以不缴了吗",
+      "onboard_time": 1676609076,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2403450,
       "num": 2403450,
       "word": "iPhone15Pro改用USBC端口",
       "onboard_time": 1676596470,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2371040,
-      "num": 2371040,
-      "word": "社保缴费满15年就可以不缴了吗",
-      "onboard_time": 1676609076,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2244930,
@@ -72,6 +72,14 @@
       "word": "周扬青婚纱",
       "onboard_time": 1676589921,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1489339,
+      "num": 640650,
+      "word": "万茜 湖南省省服",
+      "onboard_time": 1676610815,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -137,6 +145,14 @@
       "onboard_time": 1676604391,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 991808,
+      "num": 991808,
+      "word": "专家称年轻人不应该拼存款",
+      "onboard_time": 1676610156,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 961040,
@@ -233,14 +249,6 @@
       "onboard_time": 1676585053,
       "rank": 31,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 694413,
-      "num": 640650,
-      "word": "万茜 湖南省省服",
-      "onboard_time": 1676610815,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 677931,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573309,
+      "num": 573309,
+      "word": "苹果上架348元iPhone14Pro屏幕保护膜",
+      "onboard_time": 1676608656,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 572816,
       "num": 572816,
       "word": "宋慧乔李到晛黑暗荣耀2剧照",
@@ -379,14 +395,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 558928,
-      "num": 558928,
-      "word": "苹果上架348元iPhone14Pro屏幕保护膜",
-      "onboard_time": 1676608656,
-      "rank": 47,
-      "category": "科技"
-    },
-    {
       "raw_hot": 557861,
       "num": 557861,
       "word": "三只猫留下了两串脚印",
@@ -400,14 +408,6 @@
       "word": "女子两套房养50只流浪猫自己吃杯面",
       "onboard_time": 1676555551,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 531265,
-      "num": 531265,
-      "word": "专家称年轻人不应该拼存款",
-      "onboard_time": 1676610156,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -465,6 +465,14 @@
       "onboard_time": 1676608957,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495365,
+      "num": 495365,
+      "word": "杨天真说一向反对任何艺人恋情公开",
+      "onboard_time": 1676611353,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 493091,
@@ -651,12 +659,36 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 354320,
+      "num": 354320,
+      "word": "LOL英雄价格更新",
+      "onboard_time": 1676609556,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 351300,
+      "num": 285595,
+      "word": "大张伟第一次靠在场证明洗脱嫌疑",
+      "onboard_time": 1676611293,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339579,
       "num": 339579,
       "word": "德云社",
       "onboard_time": 1676599887,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337001,
+      "num": 337001,
+      "word": "西安一串串店内多名男女互殴",
+      "onboard_time": 1676610645,
+      "rank": 40,
+      "category": "社会负面,社会负面"
     },
     {
       "raw_hot": 331907,
@@ -699,6 +731,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 312270,
+      "num": 312270,
+      "word": "安永",
+      "onboard_time": 1676611173,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 302260,
       "num": 302260,
       "word": "中国居民存款破纪录",
@@ -721,14 +761,6 @@
       "onboard_time": 1676610097,
       "rank": 30,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 296112,
-      "num": 296112,
-      "word": "LOL英雄价格更新",
-      "onboard_time": 1676609556,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 294305,
@@ -793,6 +825,14 @@
       "onboard_time": 1676558190,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261562,
+      "num": 261562,
+      "word": "母校回应211女生毕业5年存款5000",
+      "onboard_time": 1676611713,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 259588,
@@ -947,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207796,
-      "num": 207796,
-      "word": "西安一串串店内多名男女互殴",
-      "onboard_time": 1676610645,
-      "rank": 40,
-      "category": "社会负面,社会负面"
-    },
-    {
       "raw_hot": 207770,
       "num": 207770,
       "word": "布鲁斯威利斯确诊额颞叶痴呆",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1676600606,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180199,
+      "num": 180199,
+      "word": "马斯克称微软应该关闭必应聊天",
+      "onboard_time": 1676611834,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 179629,

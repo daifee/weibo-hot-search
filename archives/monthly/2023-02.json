@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676611078254,
+  "endTime": 1676612025914,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -803,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2481776,
+      "num": 2481776,
+      "word": "社保缴费满15年就可以不缴了吗",
+      "onboard_time": 1676609076,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2478307,
       "num": 2478307,
       "word": "杜兰特加盟太阳",
@@ -921,14 +929,6 @@
       "onboard_time": 1675266870,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2371040,
-      "num": 2371040,
-      "word": "社保缴费满15年就可以不缴了吗",
-      "onboard_time": 1676609076,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2368653,
@@ -2592,6 +2592,14 @@
       "word": "边伯贤 退伍",
       "onboard_time": 1675523613,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1489339,
+      "num": 640650,
+      "word": "万茜 湖南省省服",
+      "onboard_time": 1676610815,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -5201,6 +5209,14 @@
       "onboard_time": 1675561527,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 991808,
+      "num": 991808,
+      "word": "专家称年轻人不应该拼存款",
+      "onboard_time": 1676610156,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 991061,
@@ -9019,14 +9035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 694413,
-      "num": 640650,
-      "word": "万茜 湖南省省服",
-      "onboard_time": 1676610815,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 694275,
       "num": 694275,
       "word": "齐齐哈尔气象局回应现不明飞行物",
@@ -11491,6 +11499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 573309,
+      "num": 573309,
+      "word": "苹果上架348元iPhone14Pro屏幕保护膜",
+      "onboard_time": 1676608656,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 573086,
       "num": 573086,
       "word": "肖战易烊千玺蔡徐坤今日开屏海报",
@@ -11857,14 +11873,6 @@
       "onboard_time": 1676351377,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 558928,
-      "num": 558928,
-      "word": "苹果上架348元iPhone14Pro屏幕保护膜",
-      "onboard_time": 1676608656,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 558605,
@@ -12641,14 +12649,6 @@
       "onboard_time": 1675814846,
       "rank": 16,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 531265,
-      "num": 531265,
-      "word": "专家称年轻人不应该拼存款",
-      "onboard_time": 1676610156,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 531114,
@@ -13737,6 +13737,14 @@
       "onboard_time": 1675401631,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 495365,
+      "num": 495365,
+      "word": "杨天真说一向反对任何艺人恋情公开",
+      "onboard_time": 1676611353,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 495177,
@@ -18907,6 +18915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354320,
+      "num": 354320,
+      "word": "LOL英雄价格更新",
+      "onboard_time": 1676609556,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 354243,
       "num": 354243,
       "word": "赵丽颖沈璃白衣造型路透图",
@@ -19057,6 +19073,14 @@
       "onboard_time": 1675598670,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 351300,
+      "num": 285595,
+      "word": "大张伟第一次靠在场证明洗脱嫌疑",
+      "onboard_time": 1676611293,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 351084,
@@ -19761,6 +19785,14 @@
       "onboard_time": 1676186668,
       "rank": 21,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 337001,
+      "num": 337001,
+      "word": "西安一串串店内多名男女互殴",
+      "onboard_time": 1676610645,
+      "rank": 40,
+      "category": "社会负面,社会负面"
     },
     {
       "raw_hot": 336942,
@@ -21019,6 +21051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312270,
+      "num": 312270,
+      "word": "安永",
+      "onboard_time": 1676611173,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 312266,
       "num": 312266,
       "word": "梧州市供销社党组书记遭绑架后获救",
@@ -21969,14 +22009,6 @@
       "onboard_time": 1675399773,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 296112,
-      "num": 296112,
-      "word": "LOL英雄价格更新",
-      "onboard_time": 1676609556,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 296086,
@@ -24449,6 +24481,14 @@
       "onboard_time": 1675821807,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261562,
+      "num": 261562,
+      "word": "母校回应211女生毕业5年存款5000",
+      "onboard_time": 1676611713,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 261529,
@@ -28259,14 +28299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 207796,
-      "num": 207796,
-      "word": "西安一串串店内多名男女互殴",
-      "onboard_time": 1676610645,
-      "rank": 40,
-      "category": "社会负面,社会负面"
-    },
-    {
       "raw_hot": 207777,
       "num": 207777,
       "word": "李小冉说刘淑霞人难做钱难挣",
@@ -31241,6 +31273,14 @@
       "onboard_time": 1675585105,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180199,
+      "num": 180199,
+      "word": "马斯克称微软应该关闭必应聊天",
+      "onboard_time": 1676611834,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 180194,
