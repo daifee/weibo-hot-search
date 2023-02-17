@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676638494310,
+  "endTime": 1676640339706,
   "band_list": [
     {
       "raw_hot": 3903571,
@@ -139,20 +139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1701828,
+      "num": 1701828,
+      "word": "原神",
+      "onboard_time": 1676636669,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1668803,
       "num": 485629,
       "word": "周扬青婚纱",
       "onboard_time": 1676589921,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1652505,
-      "num": 1652505,
-      "word": "原神",
-      "onboard_time": 1676636669,
-      "rank": 3,
-      "category": "游戏"
     },
     {
       "raw_hot": 1623554,
@@ -275,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1040283,
+      "num": 1040283,
+      "word": "河南发现价值45亿大型银矿",
+      "onboard_time": 1676636429,
+      "rank": 22,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1038315,
       "num": 1038315,
       "word": "鼓励学生早起高校7点前早餐半价",
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 903389,
+      "num": 903389,
+      "word": "刘雯 时装周",
+      "onboard_time": 1676636789,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 856978,
       "num": 856978,
       "word": "周琦恢复自由身",
@@ -369,14 +385,6 @@
       "onboard_time": 1676600248,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 836825,
-      "num": 836825,
-      "word": "河南发现价值45亿大型银矿",
-      "onboard_time": 1676636429,
-      "rank": 22,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 823676,
@@ -411,8 +419,8 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 776793,
-      "num": 776793,
+      "raw_hot": 787184,
+      "num": 787184,
       "word": "iPhone14ProMax烧屏",
       "onboard_time": 1676635112,
       "rank": 6,
@@ -465,6 +473,14 @@
       "onboard_time": 1676611353,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 730109,
+      "num": 730109,
+      "word": "温州特斯拉事故致1死1伤",
+      "onboard_time": 1676637210,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 729049,
@@ -529,6 +545,14 @@
       "onboard_time": 1676618372,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689067,
+      "num": 598691,
+      "word": "农村男性青年或普遍面临终生单身问题",
+      "onboard_time": 1676638770,
+      "rank": 11,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 677931,
@@ -667,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 603886,
-      "num": 603886,
-      "word": "刘雯 时装周",
-      "onboard_time": 1676636789,
-      "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 601836,
       "num": 507549,
       "word": "农村大龄青年为啥不结婚了",
@@ -747,20 +763,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 536103,
-      "num": 536103,
-      "word": "温州特斯拉事故致1死1伤",
-      "onboard_time": 1676637210,
-      "rank": 35,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 530778,
       "num": 530778,
       "word": "初三学生因成绩差开学报名被劝退",
       "onboard_time": 1676598987,
       "rank": 18,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 530047,
+      "num": 530047,
+      "word": "孙俪 乌云之上",
+      "onboard_time": 1676638291,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 523649,
@@ -1099,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398942,
+      "num": 398942,
+      "word": "原神迪希雅",
+      "onboard_time": 1676638112,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 396733,
       "num": 396733,
       "word": "黄景瑜梦之海开机路透",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1676602349,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385232,
+      "num": 385232,
+      "word": "国产影视的BE美学",
+      "onboard_time": 1676639699,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 377246,
@@ -1363,6 +1395,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 298997,
+      "num": 298997,
+      "word": "广州cpsp",
+      "onboard_time": 1676637570,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 294792,
       "num": 294792,
       "word": "罗熹不再担任中国人保党委书记",
@@ -1443,6 +1483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267656,
+      "num": 267656,
+      "word": "这样给身份证复印件更安全",
+      "onboard_time": 1676639009,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263273,
       "num": 263273,
       "word": "因衣服长时间放购物车被客服嘲讽",
@@ -1507,20 +1555,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 256175,
-      "num": 256175,
-      "word": "原神迪希雅",
-      "onboard_time": 1676638112,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 252478,
       "num": 248996,
       "word": "张颂文 不止不休",
       "onboard_time": 1676559693,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252290,
+      "num": 221660,
+      "word": "原神兑换码",
+      "onboard_time": 1676639792,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 250737,
@@ -1619,14 +1667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225940,
-      "num": 225940,
-      "word": "广州cpsp",
-      "onboard_time": 1676637570,
-      "rank": 30,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 224721,
       "num": 224721,
       "word": "警方回应湖南一烧烤店多人斗殴",
@@ -1667,12 +1707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216333,
-      "num": 216333,
-      "word": "孙俪 乌云之上",
-      "onboard_time": 1676638291,
+      "raw_hot": 217079,
+      "num": 217079,
+      "word": "白敬亭星期五随拍",
+      "onboard_time": 1676639250,
       "rank": 31,
-      "category": "影视"
+      "category": "艺人"
     },
     {
       "raw_hot": 214000,
@@ -1713,6 +1753,14 @@
       "onboard_time": 1676560591,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207969,
+      "num": 207969,
+      "word": "痛感相通",
+      "onboard_time": 1676639310,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 207770,
@@ -1993,6 +2041,14 @@
       "onboard_time": 1676599527,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167628,
+      "num": 167628,
+      "word": "张栋梁唱的大风吹",
+      "onboard_time": 1676639635,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 164744,
@@ -2346,6 +2402,9 @@
     },
     {
       "word": "#共同呵护孩子的眼睛#"
+    },
+    {
+      "word": "#高质量发展看中国#"
     }
   ]
 }
