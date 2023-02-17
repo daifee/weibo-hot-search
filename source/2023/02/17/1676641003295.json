@@ -1,0 +1,410 @@
+{
+  "runTime": 1676641003295,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1614198,
+        "num": 1614198,
+        "word": "原神",
+        "onboard_time": 1676636669,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1214391,
+        "num": 1214391,
+        "word": "云南80后女局长段颖被双开",
+        "onboard_time": 1676631211,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131092,
+        "num": 1084061,
+        "word": "共同呵护孩子的眼睛",
+        "onboard_time": 1676636251,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064758,
+        "num": 1064758,
+        "word": "河南发现价值45亿大型银矿",
+        "onboard_time": 1676636429,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 982381,
+        "num": 982381,
+        "word": "护士为体重0.9kg早产儿扎针",
+        "onboard_time": 1676631753,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 973218,
+        "num": 973218,
+        "word": "刘雯 时装周",
+        "onboard_time": 1676636789,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 858425,
+        "num": 858425,
+        "word": "叔圈",
+        "onboard_time": 1676634151,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 749863,
+        "num": 749863,
+        "word": "iPhone14ProMax烧屏",
+        "onboard_time": 1676635112,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 720552,
+        "num": 720552,
+        "word": "温州特斯拉事故致1死1伤",
+        "onboard_time": 1676637210,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 589981,
+        "num": 589981,
+        "word": "四六级",
+        "onboard_time": 1676626173,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1044281,
+        "num": 569834,
+        "word": "放羊的星星刘荷娜近照",
+        "onboard_time": 1676624672,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 968951,
+        "num": 567345,
+        "word": "农村男性青年或普遍面临终生单身问题",
+        "onboard_time": 1676638770,
+        "rank": 11,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 645089,
+        "num": 564896,
+        "word": "张翰状态",
+        "onboard_time": 1676619329,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544768,
+        "num": 544768,
+        "word": "国内首次检出XBB.1.5",
+        "onboard_time": 1676619031,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486118,
+        "num": 486118,
+        "word": "孙俪 乌云之上",
+        "onboard_time": 1676638291,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455238,
+        "num": 455238,
+        "word": "周深 水姻缘",
+        "onboard_time": 1676640692,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420644,
+        "num": 420644,
+        "word": "唐嫣何广智合作脱口秀",
+        "onboard_time": 1676640751,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405909,
+        "num": 405909,
+        "word": "乌梅子酱搜索量暴涨200倍",
+        "onboard_time": 1676630671,
+        "rank": 17,
+        "category": "音乐,美食"
+      },
+      {
+        "raw_hot": 403948,
+        "num": 403948,
+        "word": "国产影视的BE美学",
+        "onboard_time": 1676639699,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364919,
+        "num": 364919,
+        "word": "这样给身份证复印件更安全",
+        "onboard_time": 1676639009,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 651562,
+        "num": 362368,
+        "word": "一女子因被家暴带孩子流落街头",
+        "onboard_time": 1676634449,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584286,
+        "num": 361917,
+        "word": "刘德华腹肌照",
+        "onboard_time": 1676636371,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478103,
+        "num": 361438,
+        "word": "刘亦菲捧花头像",
+        "onboard_time": 1676613155,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358681,
+        "num": 358681,
+        "word": "原神迪希雅",
+        "onboard_time": 1676638112,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 358095,
+        "num": 358095,
+        "word": "广州cpsp",
+        "onboard_time": 1676637570,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 353975,
+        "num": 353975,
+        "word": "借精生子合法吗",
+        "onboard_time": 1676628814,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336981,
+        "num": 336981,
+        "word": "薛之谦演唱会门票",
+        "onboard_time": 1676626891,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 258927,
+        "num": 258927,
+        "word": "温州一特斯拉飞速撞上公交车多人送医",
+        "onboard_time": 1676632591,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 254101,
+        "num": 254101,
+        "word": "四六级成绩像拆盲盒",
+        "onboard_time": 1676633672,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 237699,
+        "num": 237699,
+        "word": "AG",
+        "onboard_time": 1676635229,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227105,
+        "num": 227105,
+        "word": "周深听田震唱歌表情",
+        "onboard_time": 1676640692,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224166,
+        "num": 224166,
+        "word": "云南12岁失联双胞胎兄弟不幸身亡",
+        "onboard_time": 1676640751,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 219242,
+        "num": 219242,
+        "word": "鼓励学生早起高校7点前早餐半价",
+        "onboard_time": 1676624913,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 212247,
+        "num": 212247,
+        "word": "男孩举手后身亡校方自称无过错",
+        "onboard_time": 1676627973,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 198500,
+        "num": 198500,
+        "word": "原神兑换码",
+        "onboard_time": 1676639792,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194713,
+        "num": 194713,
+        "word": "安阳一楼盘推出0首付0月供购房",
+        "onboard_time": 1676632770,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 190716,
+        "num": 190716,
+        "word": "白敬亭星期五随拍",
+        "onboard_time": 1676639250,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185908,
+        "num": 185908,
+        "word": "张栋梁唱的大风吹",
+        "onboard_time": 1676639635,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180577,
+        "num": 180577,
+        "word": "社保缴费满15年就可以不缴了吗",
+        "onboard_time": 1676609076,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174691,
+        "num": 174691,
+        "word": "王一博光明之路民国造型路透",
+        "onboard_time": 1676629295,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174061,
+        "num": 174061,
+        "word": "痛感相通",
+        "onboard_time": 1676639310,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173001,
+        "num": 173001,
+        "word": "交警回应特斯拉狂飙行驶追尾公交",
+        "onboard_time": 1676634390,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164960,
+        "num": 164960,
+        "word": "冷门又好玩的小众旅游城市",
+        "onboard_time": 1676635769,
+        "rank": 42,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 160264,
+        "num": 160264,
+        "word": "深渊",
+        "onboard_time": 1676631512,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160173,
+        "num": 160173,
+        "word": "克拉棒三代",
+        "onboard_time": 1676627373,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156548,
+        "num": 156548,
+        "word": "孔令辉罕见现身",
+        "onboard_time": 1676626531,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153518,
+        "num": 153518,
+        "word": "hybe称不知道李秀满的破事",
+        "onboard_time": 1676623892,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145441,
+        "num": 145441,
+        "word": "张纪中回应张颂文沙漠捡垃圾被剧组丢下",
+        "onboard_time": 1676616811,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143470,
+        "num": 143470,
+        "word": "夏花",
+        "onboard_time": 1676637931,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141965,
+        "num": 141965,
+        "word": "AG对战RNGM",
+        "onboard_time": 1676634811,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化扎根中国大地#"
+    }
+  }
+}

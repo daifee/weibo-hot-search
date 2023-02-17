@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676640339706,
+  "endTime": 1676641003295,
   "band_list": [
     {
       "raw_hot": 3903571,
@@ -267,20 +267,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1064758,
+      "num": 1064758,
+      "word": "河南发现价值45亿大型银矿",
+      "onboard_time": 1676636429,
+      "rank": 22,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1054024,
       "num": 1054024,
       "word": "疯驴子拿快递",
       "onboard_time": 1676597549,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1040283,
-      "num": 1040283,
-      "word": "河南发现价值45亿大型银矿",
-      "onboard_time": 1676636429,
-      "rank": 22,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1038315,
@@ -331,6 +331,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 973218,
+      "num": 973218,
+      "word": "刘雯 时装周",
+      "onboard_time": 1676636789,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 968951,
+      "num": 598691,
+      "word": "农村男性青年或普遍面临终生单身问题",
+      "onboard_time": 1676638770,
+      "rank": 11,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 961040,
       "num": 961040,
       "word": "高启强为什么解领带擦玻璃",
@@ -361,14 +377,6 @@
       "onboard_time": 1676607633,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 903389,
-      "num": 903389,
-      "word": "刘雯 时装周",
-      "onboard_time": 1676636789,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 856978,
@@ -545,14 +553,6 @@
       "onboard_time": 1676618372,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 689067,
-      "num": 598691,
-      "word": "农村男性青年或普遍面临终生单身问题",
-      "onboard_time": 1676638770,
-      "rank": 11,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 677931,
@@ -955,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 455238,
+      "num": 455238,
+      "word": "周深 水姻缘",
+      "onboard_time": 1676640692,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452073,
       "num": 452073,
       "word": "建议延长男性陪产假并强制执行",
@@ -1059,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420644,
+      "num": 420644,
+      "word": "唐嫣何广智合作脱口秀",
+      "onboard_time": 1676640751,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418780,
       "num": 418780,
       "word": "苹果手机为何频繁收到诈骗短信",
@@ -1072,6 +1088,14 @@
       "word": "没有剧本可以不拍",
       "onboard_time": 1676608414,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 403948,
+      "num": 403948,
+      "word": "国产影视的BE美学",
+      "onboard_time": 1676639699,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -1171,14 +1195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385232,
-      "num": 385232,
-      "word": "国产影视的BE美学",
-      "onboard_time": 1676639699,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 377246,
       "num": 377246,
       "word": "王嘉尔TikTok播放量华人明星第一",
@@ -1187,12 +1203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364919,
+      "num": 364919,
+      "word": "这样给身份证复印件更安全",
+      "onboard_time": 1676639009,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 358527,
       "num": 358527,
       "word": "周杰伦等年内有演唱会计划",
       "onboard_time": 1676592868,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 358095,
+      "num": 358095,
+      "word": "广州cpsp",
+      "onboard_time": 1676637570,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 357110,
@@ -1395,14 +1427,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 298997,
-      "num": 298997,
-      "word": "广州cpsp",
-      "onboard_time": 1676637570,
-      "rank": 30,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 294792,
       "num": 294792,
       "word": "罗熹不再担任中国人保党委书记",
@@ -1481,14 +1505,6 @@
       "onboard_time": 1676555731,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 267656,
-      "num": 267656,
-      "word": "这样给身份证复印件更安全",
-      "onboard_time": 1676639009,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 263273,
@@ -1659,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227105,
+      "num": 227105,
+      "word": "周深听田震唱歌表情",
+      "onboard_time": 1676640692,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226544,
       "num": 226544,
       "word": "杨超越签字笔没水了",
@@ -1673,6 +1697,14 @@
       "onboard_time": 1676594369,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224166,
+      "num": 224166,
+      "word": "云南12岁失联双胞胎兄弟不幸身亡",
+      "onboard_time": 1676640751,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 222994,
@@ -1923,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185908,
+      "num": 185908,
+      "word": "张栋梁唱的大风吹",
+      "onboard_time": 1676639635,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184609,
       "num": 184609,
       "word": "王源素颜侧脸随拍",
@@ -2041,14 +2081,6 @@
       "onboard_time": 1676599527,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167628,
-      "num": 167628,
-      "word": "张栋梁唱的大风吹",
-      "onboard_time": 1676639635,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 164744,
