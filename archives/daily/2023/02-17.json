@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676643456862,
+  "endTime": 1676644443742,
   "band_list": [
     {
       "raw_hot": 3903571,
@@ -371,11 +371,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 924437,
+      "num": 924437,
+      "word": "女子不吃碳水半年减46斤脱发怕冷",
+      "onboard_time": 1676643392,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 923989,
       "num": 613743,
       "word": "一女子因被家暴带孩子流落街头",
       "onboard_time": 1676634449,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 920636,
+      "num": 920636,
+      "word": "安永女员工实名举报被高管性骚扰",
+      "onboard_time": 1676642309,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -481,6 +497,14 @@
       "onboard_time": 1676636371,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 741173,
+      "num": 741173,
+      "word": "姚晨和某某某合作喜剧",
+      "onboard_time": 1676642070,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 736820,
@@ -707,14 +731,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 590620,
-      "num": 590620,
-      "word": "姚晨和某某某合作喜剧",
-      "onboard_time": 1676642070,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 577111,
       "num": 577111,
       "word": "男子冒充帅气警察骗女粉丝不雅视频",
@@ -745,6 +761,14 @@
       "onboard_time": 1676621195,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 568607,
+      "num": 568607,
+      "word": "李成洙将辞去SMTOWN代表职务",
+      "onboard_time": 1676644052,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 560806,
@@ -801,14 +825,6 @@
       "onboard_time": 1676559755,
       "rank": 8,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 521574,
-      "num": 521574,
-      "word": "安永女员工实名举报被高管性骚扰",
-      "onboard_time": 1676642309,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 521154,
@@ -963,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466007,
+      "num": 466007,
+      "word": "这样给身份证复印件更安全",
+      "onboard_time": 1676639009,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 463003,
       "num": 455796,
       "word": "211女生称毕业2年成无业游民",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1676617773,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 436100,
-      "num": 436100,
-      "word": "这样给身份证复印件更安全",
-      "onboard_time": 1676639009,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 435589,
@@ -1427,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303303,
+      "num": 303303,
+      "word": "张杰重现狂飙名场面",
+      "onboard_time": 1676642011,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302260,
       "num": 302260,
       "word": "中国居民存款破纪录",
@@ -1489,14 +1513,6 @@
       "onboard_time": 1676612735,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 288722,
-      "num": 288722,
-      "word": "张杰重现狂飙名场面",
-      "onboard_time": 1676642011,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 287030,
@@ -2281,14 +2297,6 @@
       "onboard_time": 1676619872,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135413,
-      "num": 135413,
-      "word": "女子不吃碳水半年减46斤脱发怕冷",
-      "onboard_time": 1676643392,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133754,
