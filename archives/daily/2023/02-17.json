@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676630217659,
+  "endTime": 1676632567905,
   "band_list": [
     {
       "raw_hot": 3903571,
@@ -32,6 +32,14 @@
       "word": "国内首次检出XBB.1.5",
       "onboard_time": 1676619031,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2569393,
+      "num": 2569393,
+      "word": "彩民中677万元第一时间还贷款",
+      "onboard_time": 1676629470,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 988264,
+      "num": 988264,
+      "word": "借精生子合法吗",
+      "onboard_time": 1676628814,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 961040,
       "num": 961040,
       "word": "高启强为什么解领带擦玻璃",
@@ -299,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 886503,
+      "num": 495478,
+      "word": "云南80后女局长段颖被双开",
+      "onboard_time": 1676631211,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 856978,
       "num": 856978,
       "word": "周琦恢复自由身",
@@ -313,22 +337,6 @@
       "onboard_time": 1676600248,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 834243,
-      "num": 612503,
-      "word": "彩民中677万元第一时间还贷款",
-      "onboard_time": 1676629470,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 823026,
-      "num": 823026,
-      "word": "借精生子合法吗",
-      "onboard_time": 1676628814,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 814855,
@@ -465,6 +473,14 @@
       "onboard_time": 1676601749,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657268,
+      "num": 657268,
+      "word": "深渊",
+      "onboard_time": 1676631512,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 649556,
@@ -715,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492130,
+      "num": 492130,
+      "word": "护士为体重0.9kg早产儿扎针",
+      "onboard_time": 1676631753,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491924,
       "num": 491924,
       "word": "张真源的头像是田震",
@@ -769,6 +793,14 @@
       "onboard_time": 1676595029,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477589,
+      "num": 477589,
+      "word": "乌梅子酱搜索量暴涨200倍",
+      "onboard_time": 1676630671,
+      "rank": 15,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 476055,
@@ -969,6 +1001,14 @@
       "onboard_time": 1676625512,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 400301,
+      "num": 400301,
+      "word": "时代少年团为张真源时光音乐会打call",
+      "onboard_time": 1676630733,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 396733,
@@ -1227,12 +1267,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285792,
+      "num": 285792,
+      "word": "听说你喜欢我剧情",
+      "onboard_time": 1676630733,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281773,
       "num": 281773,
       "word": "商务部回应制裁对台军售公司",
       "onboard_time": 1676596830,
       "rank": 25,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 281258,
+      "num": 281258,
+      "word": "小狗独闯地铁站被工作人员带出",
+      "onboard_time": 1676629652,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276896,
@@ -1619,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183614,
+      "num": 183614,
+      "word": "你觉得英语四六级考试哪部分最难",
+      "onboard_time": 1676632290,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 182828,
       "num": 182828,
       "word": "章昊高音好稳",
@@ -1632,14 +1696,6 @@
       "word": "邻居大婶住院男子送去2万元救急",
       "onboard_time": 1676600606,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180910,
-      "num": 180910,
-      "word": "小狗独闯地铁站被工作人员带出",
-      "onboard_time": 1676629652,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1665,6 +1721,14 @@
       "onboard_time": 1676626293,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177902,
+      "num": 177902,
+      "word": "中国人第一次从太空遥望地球的影像",
+      "onboard_time": 1676630193,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 176465,
@@ -1843,6 +1907,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 133505,
+      "num": 133505,
+      "word": "Vivienne Westwood追悼会",
+      "onboard_time": 1676630553,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133439,
       "num": 112882,
       "word": "王子浩镜头",
@@ -1857,14 +1929,6 @@
       "onboard_time": 1676545231,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 129805,
-      "num": 129805,
-      "word": "中国人第一次从太空遥望地球的影像",
-      "onboard_time": 1676630193,
-      "rank": 49,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 127517,
