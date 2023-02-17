@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676623142496,
+  "endTime": 1676625544471,
   "band_list": [
     {
       "raw_hot": 2759922,
@@ -81,6 +81,14 @@
       "onboard_time": 1676611713,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1844209,
+      "num": 485874,
+      "word": "放羊的星星刘荷娜近照",
+      "onboard_time": 1676624672,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1768449,
@@ -211,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1004558,
+      "num": 829984,
+      "word": "女子多次飞踹女童试图丢进垃圾桶",
+      "onboard_time": 1676621133,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 991808,
       "num": 991808,
       "word": "专家称年轻人不应该拼存款",
@@ -259,20 +275,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 829984,
-      "num": 829984,
-      "word": "女子多次飞踹女童试图丢进垃圾桶",
-      "onboard_time": 1676621133,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 814855,
       "num": 814855,
       "word": "iOS16已安装72%的iPhone",
       "onboard_time": 1676605411,
       "rank": 7,
       "category": "科技"
+    },
+    {
+      "raw_hot": 814249,
+      "num": 814249,
+      "word": "hybe称不知道李秀满的破事",
+      "onboard_time": 1676623892,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 793671,
@@ -377,6 +393,14 @@
       "onboard_time": 1676548890,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 641914,
+      "num": 641914,
+      "word": "人民网评电竞酒店乱象",
+      "onboard_time": 1676622752,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 641289,
@@ -675,6 +699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 467161,
+      "num": 467161,
+      "word": "孙俪晒给邓超的定做礼物",
+      "onboard_time": 1676623774,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463003,
       "num": 455796,
       "word": "211女生称毕业2年成无业游民",
@@ -867,12 +899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378790,
+      "num": 378790,
+      "word": "温州特斯拉",
+      "onboard_time": 1676625211,
+      "rank": 18,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 377246,
       "num": 377246,
       "word": "王嘉尔TikTok播放量华人明星第一",
       "onboard_time": 1676616211,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362121,
+      "num": 362121,
+      "word": "鼓励学生早起高校7点前早餐半价",
+      "onboard_time": 1676624913,
+      "rank": 21,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 358527,
@@ -915,12 +963,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343670,
+      "num": 343670,
+      "word": "虞书欣蓝色大衣上班路透",
+      "onboard_time": 1676624672,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339579,
       "num": 339579,
       "word": "德云社",
       "onboard_time": 1676599887,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337849,
+      "num": 337849,
+      "word": "东方甄选已申请注册董宇辉商标",
+      "onboard_time": 1676624435,
+      "rank": 23,
+      "category": "财经,网红"
     },
     {
       "raw_hot": 331907,
@@ -953,6 +1017,14 @@
       "onboard_time": 1676595631,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320205,
+      "num": 320205,
+      "word": "言承旭 偶像剧",
+      "onboard_time": 1676623952,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 317777,
@@ -995,12 +1067,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301743,
+      "num": 301743,
+      "word": "实拍俄亥俄州小溪全是死鱼死虫",
+      "onboard_time": 1676623172,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299955,
       "num": 299955,
       "word": "必应聊天机器人爱上用户并诱其离开妻子",
       "onboard_time": 1676610097,
       "rank": 30,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 294792,
+      "num": 294792,
+      "word": "罗熹不再担任中国人保党委书记",
+      "onboard_time": 1676624254,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294305,
@@ -1179,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228790,
+      "num": 228790,
+      "word": "进城农民家庭维系正常生活月需3000元",
+      "onboard_time": 1676622092,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224721,
       "num": 224721,
       "word": "警方回应湖南一烧烤店多人斗殴",
@@ -1211,12 +1307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214064,
-      "num": 214064,
-      "word": "人民网评电竞酒店乱象",
-      "onboard_time": 1676622752,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 214000,
+      "num": 153370,
+      "word": "董宇辉对赠送配偶比较感兴趣",
+      "onboard_time": 1676624073,
+      "rank": 43,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 211448,
@@ -1291,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193414,
-      "num": 193414,
-      "word": "进城农民家庭维系正常生活月需3000元",
-      "onboard_time": 1676622092,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192393,
       "num": 192393,
       "word": "INTO1创4开播2周年换回成团头像",
@@ -1331,6 +1419,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 189581,
+      "num": 189581,
+      "word": "樊振东的乒乓瞬间",
+      "onboard_time": 1676624614,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189266,
       "num": 189266,
       "word": "送别大熊猫教授胡锦矗",
@@ -1345,6 +1441,14 @@
       "onboard_time": 1676562270,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188223,
+      "num": 188223,
+      "word": "星落凝成糖男二",
+      "onboard_time": 1676625512,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 187583,
@@ -1481,6 +1585,14 @@
       "onboard_time": 1676590162,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153812,
+      "num": 153812,
+      "word": "蚁人彩蛋",
+      "onboard_time": 1676624435,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 149198,
