@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676641003295,
+  "endTime": 1676643456862,
   "band_list": [
     {
       "raw_hot": 3903571,
@@ -105,6 +105,14 @@
       "onboard_time": 1676599527,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1861703,
+      "num": 1861703,
+      "word": "云南12岁失联双胞胎兄弟不幸身亡",
+      "onboard_time": 1676640751,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1859051,
@@ -217,6 +225,14 @@
       "onboard_time": 1676597310,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1217065,
+      "num": 598691,
+      "word": "农村男性青年或普遍面临终生单身问题",
+      "onboard_time": 1676638770,
+      "rank": 11,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1213900,
@@ -337,14 +353,6 @@
       "onboard_time": 1676636789,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 968951,
-      "num": 598691,
-      "word": "农村男性青年或普遍面临终生单身问题",
-      "onboard_time": 1676638770,
-      "rank": 11,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 961040,
@@ -699,6 +707,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 590620,
+      "num": 590620,
+      "word": "姚晨和某某某合作喜剧",
+      "onboard_time": 1676642070,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 577111,
       "num": 577111,
       "word": "男子冒充帅气警察骗女粉丝不雅视频",
@@ -785,6 +801,14 @@
       "onboard_time": 1676559755,
       "rank": 8,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 521574,
+      "num": 521574,
+      "word": "安永女员工实名举报被高管性骚扰",
+      "onboard_time": 1676642309,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521154,
@@ -1003,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 445003,
+      "num": 445003,
+      "word": "唐嫣何广智合作脱口秀",
+      "onboard_time": 1676640751,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441430,
       "num": 441430,
       "word": "丁程鑫海南团综搬椰子路透",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1676617773,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 436100,
+      "num": 436100,
+      "word": "这样给身份证复印件更安全",
+      "onboard_time": 1676639009,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 435589,
@@ -1065,14 +1105,6 @@
       "onboard_time": 1676604330,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 420644,
-      "num": 420644,
-      "word": "唐嫣何广智合作脱口秀",
-      "onboard_time": 1676640751,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 418780,
@@ -1203,12 +1235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364919,
-      "num": 364919,
-      "word": "这样给身份证复印件更安全",
-      "onboard_time": 1676639009,
-      "rank": 27,
-      "category": "情感"
+      "raw_hot": 365100,
+      "num": 365100,
+      "word": "时装周明星行程",
+      "onboard_time": 1676643153,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 358527,
@@ -1387,6 +1419,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 304390,
+      "num": 304390,
+      "word": "徐志胜撒娇",
+      "onboard_time": 1676641052,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302260,
       "num": 302260,
       "word": "中国居民存款破纪录",
@@ -1449,6 +1489,14 @@
       "onboard_time": 1676612735,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288722,
+      "num": 288722,
+      "word": "张杰重现狂飙名场面",
+      "onboard_time": 1676642011,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 287030,
@@ -1603,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247416,
+      "num": 247416,
+      "word": "星落凝成糖今天就一集",
+      "onboard_time": 1676641290,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247362,
       "num": 247362,
       "word": "刘耀文叶问蹲一次成功",
@@ -1699,14 +1755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224166,
-      "num": 224166,
-      "word": "云南12岁失联双胞胎兄弟不幸身亡",
-      "onboard_time": 1676640751,
-      "rank": 31,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 222994,
       "num": 222994,
       "word": "女教师一个细节救下失联学生全家",
@@ -1755,6 +1803,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 211542,
+      "num": 211542,
+      "word": "导演说夏花不是偶像剧",
+      "onboard_time": 1676641775,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211448,
       "num": 211448,
       "word": "星落凝成糖特效",
@@ -1785,6 +1841,14 @@
       "onboard_time": 1676560591,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209937,
+      "num": 209937,
+      "word": "AG战胜RNGM",
+      "onboard_time": 1676642370,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 207969,
@@ -1889,6 +1953,14 @@
       "onboard_time": 1676601271,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189622,
+      "num": 189622,
+      "word": "庄达菲对张杰做的川菜爆赞",
+      "onboard_time": 1676641652,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 189591,
@@ -2209,6 +2281,14 @@
       "onboard_time": 1676619872,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135413,
+      "num": 135413,
+      "word": "女子不吃碳水半年减46斤脱发怕冷",
+      "onboard_time": 1676643392,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133754,

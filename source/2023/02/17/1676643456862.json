@@ -1,0 +1,410 @@
+{
+  "runTime": 1676643456862,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1861703,
+        "num": 1861703,
+        "word": "云南12岁失联双胞胎兄弟不幸身亡",
+        "onboard_time": 1676640751,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 971464,
+        "num": 971464,
+        "word": "河南发现价值45亿大型银矿",
+        "onboard_time": 1676636429,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 128289,
+        "num": 904668,
+        "word": "共同呵护孩子的眼睛",
+        "onboard_time": 1676636251,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881873,
+        "num": 881873,
+        "word": "原神",
+        "onboard_time": 1676636669,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 842709,
+        "num": 842709,
+        "word": "云南80后女局长段颖被双开",
+        "onboard_time": 1676631211,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772270,
+        "num": 772270,
+        "word": "护士为体重0.9kg早产儿扎针",
+        "onboard_time": 1676631753,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758954,
+        "num": 758954,
+        "word": "刘雯 时装周",
+        "onboard_time": 1676636789,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 590620,
+        "num": 590620,
+        "word": "姚晨和某某某合作喜剧",
+        "onboard_time": 1676642070,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590305,
+        "num": 590305,
+        "word": "温州特斯拉事故致1死1伤",
+        "onboard_time": 1676637210,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 564100,
+        "num": 564100,
+        "word": "叔圈",
+        "onboard_time": 1676634151,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1001167,
+        "num": 558235,
+        "word": "放羊的星星刘荷娜近照",
+        "onboard_time": 1676624672,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544927,
+        "num": 544927,
+        "word": "张翰状态",
+        "onboard_time": 1676619329,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521574,
+        "num": 521574,
+        "word": "安永女员工实名举报被高管性骚扰",
+        "onboard_time": 1676642309,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515630,
+        "num": 515630,
+        "word": "iPhone14ProMax烧屏",
+        "onboard_time": 1676635112,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 501056,
+        "num": 501056,
+        "word": "四六级",
+        "onboard_time": 1676626173,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 496714,
+        "num": 496714,
+        "word": "乌梅子酱搜索量暴涨200倍",
+        "onboard_time": 1676630671,
+        "rank": 15,
+        "category": "音乐,美食"
+      },
+      {
+        "raw_hot": 459098,
+        "num": 459098,
+        "word": "国内首次检出XBB.1.5",
+        "onboard_time": 1676619031,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445612,
+        "num": 445612,
+        "word": "周深 水姻缘",
+        "onboard_time": 1676640692,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445003,
+        "num": 445003,
+        "word": "唐嫣何广智合作脱口秀",
+        "onboard_time": 1676640751,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436100,
+        "num": 436100,
+        "word": "这样给身份证复印件更安全",
+        "onboard_time": 1676639009,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1217065,
+        "num": 433425,
+        "word": "农村男性青年或普遍面临终生单身问题",
+        "onboard_time": 1676638770,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 605482,
+        "num": 421225,
+        "word": "刘德华腹肌照",
+        "onboard_time": 1676636371,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 534403,
+        "num": 409886,
+        "word": "刘亦菲捧花头像",
+        "onboard_time": 1676613155,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371990,
+        "num": 371990,
+        "word": "一女子因被家暴带孩子流落街头",
+        "onboard_time": 1676634449,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365100,
+        "num": 365100,
+        "word": "时装周明星行程",
+        "onboard_time": 1676643153,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354939,
+        "num": 354939,
+        "word": "薛之谦演唱会门票",
+        "onboard_time": 1676626891,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 338959,
+        "num": 338959,
+        "word": "孙俪 乌云之上",
+        "onboard_time": 1676638291,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308212,
+        "num": 308212,
+        "word": "国产影视的BE美学",
+        "onboard_time": 1676639699,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306244,
+        "num": 306244,
+        "word": "广州cpsp",
+        "onboard_time": 1676637570,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 304390,
+        "num": 304390,
+        "word": "徐志胜撒娇",
+        "onboard_time": 1676641052,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288722,
+        "num": 288722,
+        "word": "张杰重现狂飙名场面",
+        "onboard_time": 1676642011,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283136,
+        "num": 283136,
+        "word": "借精生子合法吗",
+        "onboard_time": 1676628814,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247416,
+        "num": 247416,
+        "word": "星落凝成糖今天就一集",
+        "onboard_time": 1676641290,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234655,
+        "num": 234655,
+        "word": "原神迪希雅",
+        "onboard_time": 1676638112,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211542,
+        "num": 211542,
+        "word": "导演说夏花不是偶像剧",
+        "onboard_time": 1676641775,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209937,
+        "num": 209937,
+        "word": "AG战胜RNGM",
+        "onboard_time": 1676642370,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199972,
+        "num": 199972,
+        "word": "男孩举手后身亡校方自称无过错",
+        "onboard_time": 1676627973,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 189622,
+        "num": 189622,
+        "word": "庄达菲对张杰做的川菜爆赞",
+        "onboard_time": 1676641652,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185391,
+        "num": 185391,
+        "word": "周深听田震唱歌表情",
+        "onboard_time": 1676640692,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167634,
+        "num": 167634,
+        "word": "AG",
+        "onboard_time": 1676635229,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167735,
+        "num": 166369,
+        "word": "张栋梁唱的大风吹",
+        "onboard_time": 1676639635,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164027,
+        "num": 164027,
+        "word": "四六级成绩像拆盲盒",
+        "onboard_time": 1676633672,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159907,
+        "num": 159907,
+        "word": "安阳一楼盘推出0首付0月供购房",
+        "onboard_time": 1676632770,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 155902,
+        "num": 155902,
+        "word": "白敬亭星期五随拍",
+        "onboard_time": 1676639250,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155812,
+        "num": 155812,
+        "word": "鼓励学生早起高校7点前早餐半价",
+        "onboard_time": 1676624913,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 152454,
+        "num": 152454,
+        "word": "社保缴费满15年就可以不缴了吗",
+        "onboard_time": 1676609076,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146132,
+        "num": 146132,
+        "word": "温州一特斯拉飞速撞上公交车多人送医",
+        "onboard_time": 1676632591,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 143753,
+        "num": 143753,
+        "word": "hybe称不知道李秀满的破事",
+        "onboard_time": 1676623892,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136318,
+        "num": 136318,
+        "word": "原神兑换码",
+        "onboard_time": 1676639792,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135413,
+        "num": 135413,
+        "word": "女子不吃碳水半年减46斤脱发怕冷",
+        "onboard_time": 1676643392,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化扎根中国大地#"
+    }
+  }
+}
