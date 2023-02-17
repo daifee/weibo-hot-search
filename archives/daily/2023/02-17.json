@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676637362571,
+  "endTime": 1676638494310,
   "band_list": [
     {
       "raw_hot": 3903571,
@@ -145,6 +145,14 @@
       "onboard_time": 1676589921,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1652505,
+      "num": 1652505,
+      "word": "原神",
+      "onboard_time": 1676636669,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1623554,
@@ -307,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 978813,
-      "num": 978813,
-      "word": "原神",
-      "onboard_time": 1676636669,
-      "rank": 3,
-      "category": "游戏"
+      "raw_hot": 979325,
+      "num": 979325,
+      "word": "叔圈",
+      "onboard_time": 1676634151,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 961040,
@@ -329,6 +337,14 @@
       "onboard_time": 1676560234,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 923989,
+      "num": 613743,
+      "word": "一女子因被家暴带孩子流落街头",
+      "onboard_time": 1676634449,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 904326,
@@ -355,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 836825,
+      "num": 836825,
+      "word": "河南发现价值45亿大型银矿",
+      "onboard_time": 1676636429,
+      "rank": 22,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 823676,
       "num": 823676,
       "word": "深渊",
@@ -379,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 803974,
-      "num": 613743,
-      "word": "一女子因被家暴带孩子流落街头",
-      "onboard_time": 1676634449,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 793671,
       "num": 793671,
       "word": "科学家研发出男性避孕药",
@@ -395,12 +411,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 781251,
-      "num": 781251,
-      "word": "叔圈",
-      "onboard_time": 1676634151,
-      "rank": 5,
-      "category": "影视"
+      "raw_hot": 776793,
+      "num": 776793,
+      "word": "iPhone14ProMax烧屏",
+      "onboard_time": 1676635112,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 776726,
@@ -419,14 +435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 763042,
-      "num": 763042,
-      "word": "iPhone14ProMax烧屏",
-      "onboard_time": 1676635112,
-      "rank": 6,
-      "category": "科技"
-    },
-    {
       "raw_hot": 756824,
       "num": 756824,
       "word": "薛之谦演唱会门票",
@@ -441,6 +449,14 @@
       "onboard_time": 1676593828,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 745736,
+      "num": 520899,
+      "word": "刘德华腹肌照",
+      "onboard_time": 1676636371,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 736820,
@@ -497,14 +513,6 @@
       "onboard_time": 1676632591,
       "rank": 22,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 706138,
-      "num": 520899,
-      "word": "刘德华腹肌照",
-      "onboard_time": 1676636371,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 695489,
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603886,
+      "num": 603886,
+      "word": "刘雯 时装周",
+      "onboard_time": 1676636789,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 601836,
       "num": 507549,
       "word": "农村大龄青年为啥不结婚了",
@@ -729,6 +745,14 @@
       "onboard_time": 1676633672,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 536103,
+      "num": 536103,
+      "word": "温州特斯拉事故致1死1伤",
+      "onboard_time": 1676637210,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 530778,
@@ -1187,14 +1211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 339913,
-      "num": 339913,
-      "word": "河南发现价值45亿大型银矿",
-      "onboard_time": 1676636429,
-      "rank": 22,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 339579,
       "num": 339579,
       "word": "德云社",
@@ -1491,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256175,
+      "num": 256175,
+      "word": "原神迪希雅",
+      "onboard_time": 1676638112,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 252478,
       "num": 248996,
       "word": "张颂文 不止不休",
@@ -1595,6 +1619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225940,
+      "num": 225940,
+      "word": "广州cpsp",
+      "onboard_time": 1676637570,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 224721,
       "num": 224721,
       "word": "警方回应湖南一烧烤店多人斗殴",
@@ -1633,6 +1665,14 @@
       "onboard_time": 1676556152,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216333,
+      "num": 216333,
+      "word": "孙俪 乌云之上",
+      "onboard_time": 1676638291,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 214000,
@@ -1699,14 +1739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 198343,
-      "num": 198343,
-      "word": "温州特斯拉事故致1死1伤",
-      "onboard_time": 1676637210,
-      "rank": 35,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 197277,
       "num": 197277,
       "word": "成龙学相声vs郭麒麟学功夫",
@@ -1763,12 +1795,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190520,
-      "num": 190520,
-      "word": "刘雯 时装周",
-      "onboard_time": 1676636789,
-      "rank": 39,
-      "category": "作品衍生,时尚"
+      "raw_hot": 190971,
+      "num": 190971,
+      "word": "夏花",
+      "onboard_time": 1676637931,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 189623,
@@ -1889,6 +1921,14 @@
       "onboard_time": 1676626293,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177104,
+      "num": 546960,
+      "word": "原神3.5版本直播",
+      "onboard_time": 1676635229,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 176465,
@@ -2025,6 +2065,14 @@
       "onboard_time": 1676597248,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140803,
+      "num": 1393781,
+      "word": "共同呵护孩子的眼睛",
+      "onboard_time": 1676636251,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140358,
@@ -2187,14 +2235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113312,
-      "num": 1172217,
-      "word": "共同呵护孩子的眼睛",
-      "onboard_time": 1676636251,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103830,
       "num": 103830,
       "word": "单身社会来临了吗",
@@ -2209,14 +2249,6 @@
       "onboard_time": 1676566042,
       "rank": 35,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 101330,
-      "num": 521026,
-      "word": "原神3.5版本直播",
-      "onboard_time": 1676635229,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 99035,

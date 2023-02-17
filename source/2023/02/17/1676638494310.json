@@ -1,0 +1,410 @@
+{
+  "runTime": 1676638494310,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1706621,
+        "num": 1706621,
+        "word": "云南80后女局长段颖被双开",
+        "onboard_time": 1676631211,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1652505,
+        "num": 1652505,
+        "word": "原神",
+        "onboard_time": 1676636669,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140803,
+        "num": 1393781,
+        "word": "共同呵护孩子的眼睛",
+        "onboard_time": 1676636251,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1343051,
+        "num": 1343051,
+        "word": "护士为体重0.9kg早产儿扎针",
+        "onboard_time": 1676631753,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979325,
+        "num": 979325,
+        "word": "叔圈",
+        "onboard_time": 1676634151,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 836825,
+        "num": 836825,
+        "word": "河南发现价值45亿大型银矿",
+        "onboard_time": 1676636429,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 776793,
+        "num": 776793,
+        "word": "iPhone14ProMax烧屏",
+        "onboard_time": 1676635112,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 725762,
+        "num": 725762,
+        "word": "四六级",
+        "onboard_time": 1676626173,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 657101,
+        "num": 657101,
+        "word": "国内首次检出XBB.1.5",
+        "onboard_time": 1676619031,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603886,
+        "num": 603886,
+        "word": "刘雯 时装周",
+        "onboard_time": 1676636789,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1106524,
+        "num": 593181,
+        "word": "放羊的星星刘荷娜近照",
+        "onboard_time": 1676624672,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 923989,
+        "num": 590011,
+        "word": "一女子因被家暴带孩子流落街头",
+        "onboard_time": 1676634449,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699168,
+        "num": 587544,
+        "word": "张翰状态",
+        "onboard_time": 1676619329,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582302,
+        "num": 582302,
+        "word": "乌梅子酱搜索量暴涨200倍",
+        "onboard_time": 1676630671,
+        "rank": 13,
+        "category": "音乐,美食"
+      },
+      {
+        "raw_hot": 177104,
+        "num": 546960,
+        "word": "原神3.5版本直播",
+        "onboard_time": 1676635229,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 536103,
+        "num": 536103,
+        "word": "温州特斯拉事故致1死1伤",
+        "onboard_time": 1676637210,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 535138,
+        "num": 535138,
+        "word": "温州一特斯拉飞速撞上公交车多人送医",
+        "onboard_time": 1676632591,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 462337,
+        "num": 462337,
+        "word": "四六级成绩像拆盲盒",
+        "onboard_time": 1676633672,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 450265,
+        "num": 450265,
+        "word": "借精生子合法吗",
+        "onboard_time": 1676628814,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366042,
+        "num": 366042,
+        "word": "薛之谦演唱会门票",
+        "onboard_time": 1676626891,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 745736,
+        "num": 360244,
+        "word": "刘德华腹肌照",
+        "onboard_time": 1676636371,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 559849,
+        "num": 355456,
+        "word": "刘亦菲捧花头像",
+        "onboard_time": 1676613155,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341147,
+        "num": 341147,
+        "word": "安阳一楼盘推出0首付0月供购房",
+        "onboard_time": 1676632770,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 304513,
+        "num": 304513,
+        "word": "AG",
+        "onboard_time": 1676635229,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276465,
+        "num": 276465,
+        "word": "深渊",
+        "onboard_time": 1676631512,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256175,
+        "num": 256175,
+        "word": "原神迪希雅",
+        "onboard_time": 1676638112,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244554,
+        "num": 244554,
+        "word": "交警回应特斯拉狂飙行驶追尾公交",
+        "onboard_time": 1676634390,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243221,
+        "num": 243221,
+        "word": "周黑鸭客服否认业绩下滑系价格贵",
+        "onboard_time": 1676633010,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 230547,
+        "num": 230547,
+        "word": "田震夸张真源唱歌细腻",
+        "onboard_time": 1676636968,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228200,
+        "num": 228200,
+        "word": "鼓励学生早起高校7点前早餐半价",
+        "onboard_time": 1676624913,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 225940,
+        "num": 225940,
+        "word": "广州cpsp",
+        "onboard_time": 1676637570,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 216333,
+        "num": 216333,
+        "word": "孙俪 乌云之上",
+        "onboard_time": 1676638291,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205014,
+        "num": 205014,
+        "word": "杨超越签字笔没水了",
+        "onboard_time": 1676634629,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200653,
+        "num": 200653,
+        "word": "男孩举手后身亡校方自称无过错",
+        "onboard_time": 1676627973,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 193046,
+        "num": 193046,
+        "word": "社保缴费满15年就可以不缴了吗",
+        "onboard_time": 1676609076,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191535,
+        "num": 191535,
+        "word": "克拉棒三代",
+        "onboard_time": 1676627373,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190971,
+        "num": 190971,
+        "word": "夏花",
+        "onboard_time": 1676637931,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190107,
+        "num": 190107,
+        "word": "AG对战RNGM",
+        "onboard_time": 1676634811,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188656,
+        "num": 188656,
+        "word": "张纪中回应张颂文沙漠捡垃圾被剧组丢下",
+        "onboard_time": 1676616811,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184142,
+        "num": 184142,
+        "word": "孔令辉罕见现身",
+        "onboard_time": 1676626531,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172279,
+        "num": 172279,
+        "word": "王一博光明之路民国造型路透",
+        "onboard_time": 1676629295,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169989,
+        "num": 169989,
+        "word": "听说你喜欢我剧情",
+        "onboard_time": 1676630733,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166707,
+        "num": 166707,
+        "word": "刘耀文叶问蹲一次成功",
+        "onboard_time": 1676635891,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163031,
+        "num": 163031,
+        "word": "实拍俄亥俄州小溪全是死鱼死虫",
+        "onboard_time": 1676623172,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160725,
+        "num": 160725,
+        "word": "冷门又好玩的小众旅游城市",
+        "onboard_time": 1676635769,
+        "rank": 44,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 158136,
+        "num": 158136,
+        "word": "女孩买9米挑高公寓被嘲装修后惊艳",
+        "onboard_time": 1676613333,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155380,
+        "num": 155380,
+        "word": "hybe称不知道李秀满的破事",
+        "onboard_time": 1676623892,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142453,
+        "num": 142453,
+        "word": "深海票房破8亿",
+        "onboard_time": 1676635835,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137064,
+        "num": 137064,
+        "word": "李诞说不想再结婚了",
+        "onboard_time": 1676613997,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132658,
+        "num": 132658,
+        "word": "金晨化妆自拍",
+        "onboard_time": 1676633250,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化扎根中国大地#"
+    }
+  }
+}
