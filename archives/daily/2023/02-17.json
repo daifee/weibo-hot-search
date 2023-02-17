@@ -1,6 +1,6 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676625544471,
+  "endTime": 1676626432778,
   "band_list": [
     {
       "raw_hot": 2759922,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2087589,
+      "num": 485874,
+      "word": "放羊的星星刘荷娜近照",
+      "onboard_time": 1676624672,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2052734,
       "num": 2052734,
       "word": "张杰回应自己的歌被用作狂飙高启强BGM",
@@ -81,14 +89,6 @@
       "onboard_time": 1676611713,
       "rank": 33,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1844209,
-      "num": 485874,
-      "word": "放羊的星星刘荷娜近照",
-      "onboard_time": 1676624672,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1768449,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 979288,
+      "num": 425942,
+      "word": "温州特斯拉",
+      "onboard_time": 1676625211,
+      "rank": 18,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 961040,
       "num": 961040,
       "word": "高启强为什么解领带擦玻璃",
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 744015,
+      "num": 744015,
+      "word": "鼓励学生早起高校7点前早餐半价",
+      "onboard_time": 1676624913,
+      "rank": 21,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 736820,
       "num": 736820,
       "word": "杨天真说一向反对任何艺人恋情公开",
@@ -345,6 +361,14 @@
       "onboard_time": 1676585053,
       "rank": 31,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 695489,
+      "num": 695489,
+      "word": "人民网评电竞酒店乱象",
+      "onboard_time": 1676622752,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695417,
@@ -393,14 +417,6 @@
       "onboard_time": 1676548890,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 641914,
-      "num": 641914,
-      "word": "人民网评电竞酒店乱象",
-      "onboard_time": 1676622752,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 641289,
@@ -899,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378790,
-      "num": 378790,
-      "word": "温州特斯拉",
-      "onboard_time": 1676625211,
-      "rank": 18,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 377246,
       "num": 377246,
       "word": "王嘉尔TikTok播放量华人明星第一",
@@ -915,12 +923,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362121,
-      "num": 362121,
-      "word": "鼓励学生早起高校7点前早餐半价",
-      "onboard_time": 1676624913,
-      "rank": 21,
-      "category": "教育,社会新闻"
+      "raw_hot": 375986,
+      "num": 375986,
+      "word": "星落凝成糖男二",
+      "onboard_time": 1676625512,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 358527,
@@ -987,6 +995,14 @@
       "category": "财经,网红"
     },
     {
+      "raw_hot": 332537,
+      "num": 332537,
+      "word": "言承旭 偶像剧",
+      "onboard_time": 1676623952,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331907,
       "num": 331907,
       "word": "一辈子保护国宝的国宝走了",
@@ -1019,14 +1035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320205,
-      "num": 320205,
-      "word": "言承旭 偶像剧",
-      "onboard_time": 1676623952,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 317777,
       "num": 317777,
       "word": "最后一次上班是什么感觉",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1676604509,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 315888,
+      "num": 315888,
+      "word": "四六级",
+      "onboard_time": 1676626173,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 312042,
@@ -1097,6 +1113,14 @@
       "onboard_time": 1676547152,
       "rank": 17,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 290090,
+      "num": 290090,
+      "word": "费启鸣回应转型做演员",
+      "onboard_time": 1676626113,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 289272,
@@ -1355,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201591,
+      "num": 201591,
+      "word": "全面注册制制度规则发布实施",
+      "onboard_time": 1676625692,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 199869,
       "num": 199869,
       "word": "论文导师能有多操心",
@@ -1441,14 +1473,6 @@
       "onboard_time": 1676562270,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 188223,
-      "num": 188223,
-      "word": "星落凝成糖男二",
-      "onboard_time": 1676625512,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 187583,
@@ -1595,6 +1619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149477,
+      "num": 149477,
+      "word": "汪文斌4连问回击美方",
+      "onboard_time": 1676626173,
+      "rank": 42,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 149198,
       "num": 149198,
       "word": "年内演唱会",
@@ -1635,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138882,
+      "num": 138882,
+      "word": "展开说说",
+      "onboard_time": 1676625692,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136164,
       "num": 136164,
       "word": "TES对战KSG",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1676558851,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133175,
+      "num": 133175,
+      "word": "美方为何对氯乙烯毒蘑菇云视而不见",
+      "onboard_time": 1676626293,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132216,
