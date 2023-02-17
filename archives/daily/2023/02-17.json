@@ -1,14 +1,22 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676598250044,
+  "endTime": 1676599730126,
   "band_list": [
     {
       "raw_hot": 2748115,
-      "num": 495469,
+      "num": 538675,
       "word": "张真源开大G",
       "onboard_time": 1676561731,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2403450,
+      "num": 2403450,
+      "word": "iPhone15Pro改用USBC端口",
+      "onboard_time": 1676596470,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 2244930,
@@ -17,14 +25,6 @@
       "onboard_time": 1676594309,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1886476,
-      "num": 1886476,
-      "word": "iPhone15Pro改用USBC端口",
-      "onboard_time": 1676596470,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 1768449,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1668803,
-      "num": 354608,
+      "num": 375765,
       "word": "周扬青婚纱",
       "onboard_time": 1676589921,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1243092,
+      "num": 1243092,
+      "word": "211毕业小伙辞职卖饼挣彩礼",
+      "onboard_time": 1676597310,
+      "rank": 17,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1213900,
@@ -57,6 +65,14 @@
       "onboard_time": 1676559093,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1049423,
+      "num": 1049423,
+      "word": "疯驴子拿快递",
+      "onboard_time": 1676597549,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 961040,
@@ -105,6 +121,14 @@
       "onboard_time": 1676585053,
       "rank": 31,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 706404,
+      "num": 706404,
+      "word": "曝李秀满曾被判刑",
+      "onboard_time": 1676599347,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 665521,
@@ -179,6 +203,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 521019,
+      "num": 521019,
+      "word": "苹果新增15个表情符号",
+      "onboard_time": 1676598088,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 509102,
       "num": 509102,
       "word": "教育局回应幼儿园毕业照人均500元",
@@ -219,20 +251,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 470900,
-      "num": 470900,
-      "word": "疯驴子拿快递",
-      "onboard_time": 1676597549,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 467471,
       "num": 467471,
       "word": "周杰伦五月天周华健等年内有演唱会计划",
       "onboard_time": 1676560712,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 467102,
+      "num": 467102,
+      "word": "D社曝李秀满贪污7443亿韩元",
+      "onboard_time": 1676599527,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 452073,
@@ -251,20 +283,28 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 425857,
-      "num": 425857,
-      "word": "211毕业小伙辞职卖饼挣彩礼",
-      "onboard_time": 1676597310,
-      "rank": 17,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 395425,
       "num": 395425,
       "word": "时装周 明星",
       "onboard_time": 1676593045,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 391958,
+      "num": 391958,
+      "word": "提高中低收入居民消费能力",
+      "onboard_time": 1676596766,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 390129,
+      "num": 390129,
+      "word": "初三学生因成绩差开学报名被劝退",
+      "onboard_time": 1676598987,
+      "rank": 18,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 358527,
@@ -283,12 +323,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 342670,
-      "num": 342670,
-      "word": "提高中低收入居民消费能力",
-      "onboard_time": 1676596766,
-      "rank": 21,
-      "category": "社会新闻,财经"
+      "raw_hot": 342857,
+      "num": 342857,
+      "word": "男子卧室建浴缸被楼下邻居投诉",
+      "onboard_time": 1676599109,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331907,
@@ -313,6 +353,14 @@
       "onboard_time": 1676595631,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300475,
+      "num": 300475,
+      "word": "浙江学生遭社会人员殴打2死2伤已立案",
+      "onboard_time": 1676599047,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 294305,
@@ -379,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259588,
+      "num": 259588,
+      "word": "苹果公司开始对合同工进行裁员",
+      "onboard_time": 1676598568,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 258050,
       "num": 258050,
       "word": "杜兰特正式亮相太阳",
@@ -425,6 +481,14 @@
       "onboard_time": 1676553152,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240162,
+      "num": 240162,
+      "word": "马尔代夫免签生效",
+      "onboard_time": 1676597848,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 229364,
@@ -481,14 +545,6 @@
       "onboard_time": 1676563231,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195084,
-      "num": 195084,
-      "word": "苹果新增15个表情符号",
-      "onboard_time": 1676598088,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 194255,
@@ -571,20 +627,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168077,
+      "num": 168077,
+      "word": "民警荒野无人机热成像硬核寻娃",
+      "onboard_time": 1676599527,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162764,
       "num": 162764,
       "word": "BoysPlanet",
       "onboard_time": 1676560474,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158686,
-      "num": 158686,
-      "word": "马尔代夫免签生效",
-      "onboard_time": 1676597848,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 156534,
@@ -617,6 +673,14 @@
       "onboard_time": 1676597248,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140358,
+      "num": 140358,
+      "word": "严防消费贷款违规入楼市",
+      "onboard_time": 1676599472,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 133439,
