@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676662410397,
+  "endTime": 1676665212960,
   "band_list": [
     {
       "raw_hot": 2893078,
@@ -411,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151360,
+      "num": 151360,
+      "word": "大学生谈恋爱要不要AA制",
+      "onboard_time": 1676660714,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147470,
       "num": 147470,
       "word": "温州特斯拉事故致1死1伤",
@@ -425,14 +433,6 @@
       "onboard_time": 1676642070,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109710,
-      "num": 109710,
-      "word": "大学生谈恋爱要不要AA制",
-      "onboard_time": 1676660714,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 109315,
@@ -465,6 +465,14 @@
       "onboard_time": 1676653701,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 69686,
+      "num": 60261,
+      "word": "张大大问助理自己和王嘉尔谁帅",
+      "onboard_time": 1676664016,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 58723,

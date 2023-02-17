@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676662410397,
+  "endTime": 1676665212960,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -35435,6 +35435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151360,
+      "num": 151360,
+      "word": "大学生谈恋爱要不要AA制",
+      "onboard_time": 1676660714,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151224,
       "num": 151224,
       "word": "seventeen克拉岛回忆录",
@@ -37587,14 +37595,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 109710,
-      "num": 109710,
-      "word": "大学生谈恋爱要不要AA制",
-      "onboard_time": 1676660714,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 109663,
       "num": 109663,
       "word": "张颂文贾发跳舞好可爱",
@@ -38385,6 +38385,14 @@
       "onboard_time": 1675862251,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 69686,
+      "num": 60261,
+      "word": "张大大问助理自己和王嘉尔谁帅",
+      "onboard_time": 1676664016,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 68944,
