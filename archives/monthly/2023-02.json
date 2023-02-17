@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676619243602,
+  "endTime": 1676622277685,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -571,6 +571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2759922,
+      "num": 391773,
+      "word": "张翰状态",
+      "onboard_time": 1676619329,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2756415,
       "num": 2756415,
       "word": "吴刚谈儿子出演高晓晨",
@@ -665,6 +673,14 @@
       "onboard_time": 1675391308,
       "rank": 3,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 2629535,
+      "num": 2629535,
+      "word": "国内首次检出XBB.1.5",
+      "onboard_time": 1676619031,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2617349,
@@ -1777,6 +1793,14 @@
       "onboard_time": 1675898481,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1818751,
+      "num": 389043,
+      "word": "董宇辉已拒绝10万元现金奖励",
+      "onboard_time": 1676620472,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1810599,
@@ -9067,6 +9091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 695417,
+      "num": 695417,
+      "word": "异常水电费牵出2亿元出口骗税大案",
+      "onboard_time": 1676618372,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 695137,
       "num": 695137,
       "word": "男子咨询社保被告知3年前已死亡",
@@ -10859,6 +10891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 606422,
+      "num": 606422,
+      "word": "SMTOWN员工联合抵制HYBE收购",
+      "onboard_time": 1676620711,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 606399,
       "num": 606399,
       "word": "胡军刘烨电影望道",
@@ -11689,6 +11729,14 @@
       "onboard_time": 1675865134,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569986,
+      "num": 383876,
+      "word": "王鹤棣跳栏杆",
+      "onboard_time": 1676621195,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 569431,
@@ -14577,6 +14625,14 @@
       "onboard_time": 1676349278,
       "rank": 40,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 467901,
+      "num": 379974,
+      "word": "女子多次飞踹女童试图丢进垃圾桶",
+      "onboard_time": 1676621133,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467874,
@@ -17555,6 +17611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 392773,
+      "num": 392773,
+      "word": "科学家发现流亡黑洞",
+      "onboard_time": 1676619753,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 392054,
       "num": 392054,
       "word": "土耳其华人被埋25小时后获救",
@@ -18681,6 +18745,14 @@
       "onboard_time": 1676118808,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 365562,
+      "num": 365562,
+      "word": "五哈3桃鹅互相催开播",
+      "onboard_time": 1676621913,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 364792,
@@ -19923,14 +19995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 337658,
-      "num": 337658,
-      "word": "异常水电费牵出2亿元出口骗税大案",
-      "onboard_time": 1676618372,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337091,
       "num": 337091,
       "word": "法国政府部门将试行四天工作制",
@@ -20611,6 +20675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323001,
+      "num": 323001,
+      "word": "苹果版余额宝或将上线",
+      "onboard_time": 1676620112,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 322425,
       "num": 322425,
       "word": "肖战骄阳伴我杀青vlog",
@@ -21233,6 +21305,14 @@
       "onboard_time": 1675652967,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 312042,
+      "num": 312042,
+      "word": "农村年轻人结婚是否要在城里买房",
+      "onboard_time": 1676618731,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312012,
@@ -26707,6 +26787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 231478,
+      "num": 231478,
+      "word": "大侦探呼吁正视心理精神疾病",
+      "onboard_time": 1676621373,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231446,
       "num": 231446,
       "word": "认真上班的狗狗",
@@ -27795,6 +27883,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 216764,
+      "num": 216764,
+      "word": "女教师一个细节救下失联学生全家",
+      "onboard_time": 1676619152,
+      "rank": 48,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 216713,
       "num": 216713,
       "word": "南京夫子庙人海里的定海神针",
@@ -28801,14 +28897,6 @@
       "onboard_time": 1675598010,
       "rank": 47,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 203539,
-      "num": 203539,
-      "word": "农村年轻人结婚是否要在城里买房",
-      "onboard_time": 1676618731,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203414,
@@ -30833,14 +30921,6 @@
       "onboard_time": 1675217011,
       "rank": 40,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 185824,
-      "num": 185824,
-      "word": "国内首次检出XBB.1.5",
-      "onboard_time": 1676619031,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185812,
@@ -35419,6 +35499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136164,
+      "num": 136164,
+      "word": "TES对战KSG",
+      "onboard_time": 1676619872,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136061,
       "num": 136061,
       "word": "周迅十登VOGUE封面",
@@ -35691,6 +35779,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 132331,
+      "num": 132331,
+      "word": "高叶恭喜萨日娜新剧杀青",
+      "onboard_time": 1676620351,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132141,
       "num": 132141,
       "word": "良性乳腺结节一般不会发生癌变",
@@ -35857,14 +35953,6 @@
       "onboard_time": 1676477487,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128939,
-      "num": 128939,
-      "word": "女教师一个细节救下失联学生全家",
-      "onboard_time": 1676619152,
-      "rank": 48,
-      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 128706,
@@ -36217,6 +36305,14 @@
       "onboard_time": 1675425991,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120372,
+      "num": 120372,
+      "word": "进城农民家庭维系正常生活月需3000元",
+      "onboard_time": 1676622092,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120175,

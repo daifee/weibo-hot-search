@@ -1,7 +1,15 @@
 {
   "startTime": 1676564833275,
-  "endTime": 1676619243602,
+  "endTime": 1676622277685,
   "band_list": [
+    {
+      "raw_hot": 2759922,
+      "num": 391773,
+      "word": "张翰状态",
+      "onboard_time": 1676619329,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2748115,
       "num": 538675,
@@ -9,6 +17,14 @@
       "onboard_time": 1676561731,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2629535,
+      "num": 2629535,
+      "word": "国内首次检出XBB.1.5",
+      "onboard_time": 1676619031,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2481776,
@@ -57,6 +73,14 @@
       "onboard_time": 1676611713,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1818751,
+      "num": 389043,
+      "word": "董宇辉已拒绝10万元现金奖励",
+      "onboard_time": 1676620472,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1768449,
@@ -299,6 +323,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 695417,
+      "num": 695417,
+      "word": "异常水电费牵出2亿元出口骗税大案",
+      "onboard_time": 1676618372,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677931,
       "num": 677931,
       "word": "张译说自己背台词脑子笨",
@@ -419,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606422,
+      "num": 606422,
+      "word": "SMTOWN员工联合抵制HYBE收购",
+      "onboard_time": 1676620711,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 603887,
       "num": 489687,
       "word": "大三男生换乘32辆公交从合肥到上海上学",
@@ -457,6 +497,14 @@
       "onboard_time": 1676600547,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 569986,
+      "num": 383876,
+      "word": "王鹤棣跳栏杆",
+      "onboard_time": 1676621195,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 560806,
@@ -601,6 +649,14 @@
       "onboard_time": 1676562869,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 467901,
+      "num": 379974,
+      "word": "女子多次飞踹女童试图丢进垃圾桶",
+      "onboard_time": 1676621133,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467471,
@@ -763,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392773,
+      "num": 392773,
+      "word": "科学家发现流亡黑洞",
+      "onboard_time": 1676619753,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 390600,
       "num": 390600,
       "word": "沃尔玛回应甜甜圈有霉点仍售卖",
@@ -793,6 +857,14 @@
       "onboard_time": 1676616211,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365562,
+      "num": 365562,
+      "word": "五哈3桃鹅互相催开播",
+      "onboard_time": 1676621913,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 358527,
@@ -843,14 +915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 337658,
-      "num": 337658,
-      "word": "异常水电费牵出2亿元出口骗税大案",
-      "onboard_time": 1676618372,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 331907,
       "num": 331907,
       "word": "一辈子保护国宝的国宝走了",
@@ -865,6 +929,14 @@
       "onboard_time": 1676590463,
       "rank": 23,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 323001,
+      "num": 323001,
+      "word": "苹果版余额宝或将上线",
+      "onboard_time": 1676620112,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 321126,
@@ -897,6 +969,14 @@
       "onboard_time": 1676604509,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 312042,
+      "num": 312042,
+      "word": "农村年轻人结婚是否要在城里买房",
+      "onboard_time": 1676618731,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302260,
@@ -1083,6 +1163,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 231478,
+      "num": 231478,
+      "word": "大侦探呼吁正视心理精神疾病",
+      "onboard_time": 1676621373,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229364,
       "num": 229364,
       "word": "巴萨vs曼联",
@@ -1113,6 +1201,14 @@
       "onboard_time": 1676556152,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216764,
+      "num": 216764,
+      "word": "女教师一个细节救下失联学生全家",
+      "onboard_time": 1676619152,
+      "rank": 48,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 211448,
@@ -1153,14 +1249,6 @@
       "onboard_time": 1676597189,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203539,
-      "num": 203539,
-      "word": "农村年轻人结婚是否要在城里买房",
-      "onboard_time": 1676618731,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199869,
@@ -1249,14 +1337,6 @@
       "onboard_time": 1676614353,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185824,
-      "num": 185824,
-      "word": "国内首次检出XBB.1.5",
-      "onboard_time": 1676619031,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184609,
@@ -1411,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136164,
+      "num": 136164,
+      "word": "TES对战KSG",
+      "onboard_time": 1676619872,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133754,
       "num": 133754,
       "word": "报告显示16.6%地区楼房均价低于5000",
@@ -1427,20 +1515,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132331,
+      "num": 132331,
+      "word": "高叶恭喜萨日娜新剧杀青",
+      "onboard_time": 1676620351,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132216,
       "num": 132216,
       "word": "麻六记回应破产传闻",
       "onboard_time": 1676545231,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 128939,
-      "num": 128939,
-      "word": "女教师一个细节救下失联学生全家",
-      "onboard_time": 1676619152,
-      "rank": 48,
-      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 127517,
@@ -1465,6 +1553,14 @@
       "onboard_time": 1676559334,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120372,
+      "num": 120372,
+      "word": "进城农民家庭维系正常生活月需3000元",
+      "onboard_time": 1676622092,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119731,
