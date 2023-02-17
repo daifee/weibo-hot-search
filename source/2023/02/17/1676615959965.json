@@ -1,0 +1,410 @@
+{
+  "runTime": 1676615959965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1951383,
+        "num": 1951383,
+        "word": "社保缴费满15年就可以不缴了吗",
+        "onboard_time": 1676609076,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1859051,
+        "num": 1859051,
+        "word": "母校回应211女生毕业5年存款5000",
+        "onboard_time": 1676611713,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 57654,
+        "num": 1569523,
+        "word": "2023春季学期月历",
+        "onboard_time": 1676593647,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1294251,
+        "num": 1294251,
+        "word": "李诞说不想再结婚了",
+        "onboard_time": 1676613997,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 938108,
+        "num": 938108,
+        "word": "女孩买9米挑高公寓被嘲装修后惊艳",
+        "onboard_time": 1676613333,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711595,
+        "num": 711595,
+        "word": "俄亥俄州居民嘴唇变色脸上起红斑",
+        "onboard_time": 1676603909,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641289,
+        "num": 641289,
+        "word": "张若昀爷爷是地理测绘专家",
+        "onboard_time": 1676612434,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 624977,
+        "num": 624977,
+        "word": "杨天真说一向反对任何艺人恋情公开",
+        "onboard_time": 1676611353,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538149,
+        "num": 538149,
+        "word": "iPhone15Pro改用USBC端口",
+        "onboard_time": 1676596470,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 461641,
+        "num": 461641,
+        "word": "开端里有疯驴子",
+        "onboard_time": 1676604391,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466465,
+        "num": 456531,
+        "word": "留学花268万月薪1万2亏吗",
+        "onboard_time": 1676614831,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1623554,
+        "num": 456353,
+        "word": "刘亦菲捧花头像",
+        "onboard_time": 1676613155,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463003,
+        "num": 455796,
+        "word": "211女生称毕业2年成无业游民",
+        "onboard_time": 1676614653,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449649,
+        "num": 449649,
+        "word": "安永",
+        "onboard_time": 1676611173,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 418673,
+        "num": 418673,
+        "word": "创造营2021播出2周年",
+        "onboard_time": 1676614533,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407476,
+        "num": 407476,
+        "word": "张大大称已对造谣取证处理",
+        "onboard_time": 1676613513,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636194,
+        "num": 406959,
+        "word": "专家称年轻人不应该拼存款",
+        "onboard_time": 1676610156,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396733,
+        "num": 396733,
+        "word": "黄景瑜梦之海开机路透",
+        "onboard_time": 1676614533,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383777,
+        "num": 383777,
+        "word": "苹果上架348元iPhone14Pro屏幕保护膜",
+        "onboard_time": 1676608656,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 333014,
+        "num": 333014,
+        "word": "乌梅子酱",
+        "onboard_time": 1676599828,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 724641,
+        "num": 318918,
+        "word": "万茜 湖南省省服",
+        "onboard_time": 1676610815,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424153,
+        "num": 318521,
+        "word": "西安一串串店内多名男女互殴",
+        "onboard_time": 1676610645,
+        "rank": 21,
+        "category": "社会负面,社会负面"
+      },
+      {
+        "raw_hot": 334687,
+        "num": 316891,
+        "word": "王一博无名未曝光浴室打斗片段",
+        "onboard_time": 1676606972,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301058,
+        "num": 301058,
+        "word": "农村人情交往范围越来越窄",
+        "onboard_time": 1676613213,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289272,
+        "num": 289272,
+        "word": "樊振东国家队十一周年",
+        "onboard_time": 1676612735,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281873,
+        "num": 281873,
+        "word": "LOL英雄价格更新",
+        "onboard_time": 1676609556,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272574,
+        "num": 272574,
+        "word": "D社曝李秀满贪污7443亿韩元",
+        "onboard_time": 1676599527,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253111,
+        "num": 253111,
+        "word": "张元英演我自拍被发现",
+        "onboard_time": 1676607633,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242626,
+        "num": 242626,
+        "word": "董宇辉荣获北京平谷人才奖",
+        "onboard_time": 1676615610,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235217,
+        "num": 235217,
+        "word": "iOS16已安装72%的iPhone",
+        "onboard_time": 1676605411,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 230591,
+        "num": 230591,
+        "word": "原来高级软卧是这样的",
+        "onboard_time": 1676607211,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210545,
+        "num": 210545,
+        "word": "张杰回应自己的歌被用作狂飙高启强BGM",
+        "onboard_time": 1676600367,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201731,
+        "num": 201731,
+        "word": "周琦恢复自由身",
+        "onboard_time": 1676607755,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201284,
+        "num": 201284,
+        "word": "孙女晒奶奶1954年寒假作业",
+        "onboard_time": 1676607453,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198023,
+        "num": 198023,
+        "word": "嘲讽顾客的店铺更名为对不起",
+        "onboard_time": 1676603849,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167478,
+        "num": 167478,
+        "word": "张婧仪素颜绿色大衣机场路透",
+        "onboard_time": 1676606492,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164796,
+        "num": 164796,
+        "word": "张杰2023年巡演官宣",
+        "onboard_time": 1676601988,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149753,
+        "num": 149753,
+        "word": "王阳回应叔圈天菜",
+        "onboard_time": 1676608352,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148511,
+        "num": 148511,
+        "word": "张译说自己背台词脑子笨",
+        "onboard_time": 1676606791,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146838,
+        "num": 146838,
+        "word": "男子冒充帅气警察骗女粉丝不雅视频",
+        "onboard_time": 1676600848,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142559,
+        "num": 142559,
+        "word": "不止不休定档海报上没有苗苗",
+        "onboard_time": 1676606972,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140000,
+        "num": 140000,
+        "word": "没有剧本可以不拍",
+        "onboard_time": 1676608414,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138042,
+        "num": 138042,
+        "word": "郭麒麟终于穿大褂了",
+        "onboard_time": 1676601271,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135874,
+        "num": 135874,
+        "word": "马尔代夫",
+        "onboard_time": 1676607152,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 134073,
+        "num": 134073,
+        "word": "魏大勋秒解手表密码",
+        "onboard_time": 1676614353,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133754,
+        "num": 133754,
+        "word": "报告显示16.6%地区楼房均价低于5000",
+        "onboard_time": 1676615372,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 123580,
+        "num": 123580,
+        "word": "疯驴子拿快递",
+        "onboard_time": 1676597549,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122289,
+        "num": 122289,
+        "word": "杨超越演技",
+        "onboard_time": 1676600248,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119261,
+        "num": 119261,
+        "word": "大张伟第一次靠在场证明洗脱嫌疑",
+        "onboard_time": 1676611293,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118960,
+        "num": 118960,
+        "word": "一警一犬相伴12年一起退休",
+        "onboard_time": 1676615792,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#相约传统村落#"
+    }
+  }
+}
