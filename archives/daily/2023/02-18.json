@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676654222178,
+  "endTime": 1676655220675,
   "band_list": [
     {
       "raw_hot": 2893078,
@@ -155,6 +155,22 @@
       "category": "音乐,美食"
     },
     {
+      "raw_hot": 300342,
+      "num": 300342,
+      "word": "张杰把校园霸凌写进歌里",
+      "onboard_time": 1676650888,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 298269,
+      "num": 266286,
+      "word": "蜜雪冰城没关音响扰民一宿居民报警",
+      "onboard_time": 1676653880,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298047,
       "num": 298047,
       "word": "四六级",
@@ -169,14 +185,6 @@
       "onboard_time": 1676635112,
       "rank": 20,
       "category": "科技"
-    },
-    {
-      "raw_hot": 254448,
-      "num": 254448,
-      "word": "张杰把校园霸凌写进歌里",
-      "onboard_time": 1676650888,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 251968,
@@ -411,20 +419,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 90458,
-      "num": 90458,
-      "word": "蜜雪冰城没关音响扰民一宿居民报警",
-      "onboard_time": 1676653880,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86058,
       "num": 86058,
       "word": "宁至谦阮流筝终于和好了",
       "onboard_time": 1676653701,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 61235,
+      "num": 61235,
+      "word": "爸爸给女儿做40米冰滑梯4天就化了",
+      "onboard_time": 1676654898,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58723,
+      "num": 58723,
+      "word": "周深 水姻缘",
+      "onboard_time": 1676640692,
+      "rank": 47,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
