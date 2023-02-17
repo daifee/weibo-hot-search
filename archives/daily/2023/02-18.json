@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676652251084,
+  "endTime": 1676654222178,
   "band_list": [
     {
       "raw_hot": 2893078,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448592,
+      "num": 448592,
+      "word": "爬完泰山全都老实了",
+      "onboard_time": 1676651246,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 410253,
       "num": 410253,
       "word": "云南80后女局长段颖被双开",
@@ -163,12 +171,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 256079,
-      "num": 256079,
-      "word": "爬完泰山全都老实了",
-      "onboard_time": 1676651246,
-      "rank": 20,
-      "category": "幽默"
+      "raw_hot": 254448,
+      "num": 254448,
+      "word": "张杰把校园霸凌写进歌里",
+      "onboard_time": 1676650888,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 251968,
@@ -225,14 +233,6 @@
       "onboard_time": 1676648011,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207221,
-      "num": 207221,
-      "word": "张杰把校园霸凌写进歌里",
-      "onboard_time": 1676650888,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 203929,
@@ -409,6 +409,22 @@
       "onboard_time": 1676649151,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 90458,
+      "num": 90458,
+      "word": "蜜雪冰城没关音响扰民一宿居民报警",
+      "onboard_time": 1676653880,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86058,
+      "num": 86058,
+      "word": "宁至谦阮流筝终于和好了",
+      "onboard_time": 1676653701,
+      "rank": 44,
+      "category": "影视"
     }
   ],
   "hotgov_list": [

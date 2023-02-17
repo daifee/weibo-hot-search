@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676652251084,
+  "endTime": 1676654222178,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -4987,6 +4987,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 448592,
+      "num": 448592,
+      "word": "爬完泰山全都老实了",
+      "onboard_time": 1676651246,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 446580,
       "num": 446580,
       "word": "王阳的采访",
@@ -7987,14 +7995,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 256079,
-      "num": 256079,
-      "word": "爬完泰山全都老实了",
-      "onboard_time": 1676651246,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 255984,
       "num": 255984,
       "word": "被一万四千公里的求婚整破防了",
@@ -8033,6 +8033,14 @@
       "onboard_time": 1676381674,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254448,
+      "num": 254448,
+      "word": "张杰把校园霸凌写进歌里",
+      "onboard_time": 1676650888,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 252716,
@@ -9041,14 +9049,6 @@
       "onboard_time": 1676344952,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207221,
-      "num": 207221,
-      "word": "张杰把校园霸凌写进歌里",
-      "onboard_time": 1676650888,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 206913,
@@ -11347,6 +11347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90458,
+      "num": 90458,
+      "word": "蜜雪冰城没关音响扰民一宿居民报警",
+      "onboard_time": 1676653880,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88418,
       "num": 88418,
       "word": "曼城3比1阿斯顿维拉",
@@ -11361,6 +11369,14 @@
       "onboard_time": 1676219665,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86058,
+      "num": 86058,
+      "word": "宁至谦阮流筝终于和好了",
+      "onboard_time": 1676653701,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 85278,
