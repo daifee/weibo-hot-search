@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/01 00:26:13 ~ 2023/02/19 00:24:32
+本榜单时间：2023/02/01 00:26:13 ~ 2023/02/19 00:42:18
 </p>
 </blockquote>
 <p>
@@ -2339,6 +2339,12 @@ Lisa购买75亿韩元住宅（热度：1497413）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%B5%84%E4%B8%8D%E9%AB%98%E4%BD%86%E6%83%B3%E7%95%99%E4%B8%8B%E6%9D%A5%E7%9A%84%E5%9F%8E%E5%B8%82%23" target="weibo">
 工资不高但想留下来的城市（热度：1436218）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E5%AE%A3%E5%B8%83%E7%A6%81%E7%94%A8ChatGPT%23" target="weibo">
+香港大学宣布禁用ChatGPT（热度：1434639）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ hybe称不知道李秀满的破事（热度：814249）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E4%BC%97%E6%8B%8D%E4%B8%8B%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%E4%B8%9C%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9F%8E%E4%B8%8A%E7%A9%BA%E6%99%AF%E8%B1%A1%23" target="weibo">
 民众拍下俄亥俄州东巴勒斯坦城上空景象（热度：806657）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%9A%E4%BB%81%E5%B0%BF%E6%A3%80%E7%BB%93%E6%9E%9C%E9%98%B3%E6%80%A7%23" target="weibo">
-刘亚仁尿检结果阳性（热度：805301）
 </a>
 </li>
 

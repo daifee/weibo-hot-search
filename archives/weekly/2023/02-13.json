@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676737472725,
+  "endTime": 1676738538532,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -1177,6 +1177,14 @@
       "onboard_time": 1676361395,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1434639,
+      "num": 1434639,
+      "word": "香港大学宣布禁用ChatGPT",
+      "onboard_time": 1676736818,
+      "rank": 13,
+      "category": "教育,科技"
     },
     {
       "raw_hot": 1433345,
@@ -5987,6 +5995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442688,
+      "num": 442688,
+      "word": "独居后才知道生活常识",
+      "onboard_time": 1676736631,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 441572,
       "num": 441572,
       "word": "张颂文 不止不休",
@@ -6753,14 +6769,6 @@
       "onboard_time": 1676340151,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395114,
-      "num": 395114,
-      "word": "香港大学宣布禁用ChatGPT",
-      "onboard_time": 1676736818,
-      "rank": 13,
-      "category": "教育,科技"
     },
     {
       "raw_hot": 394561,
@@ -7739,6 +7747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 328773,
+      "num": 328773,
+      "word": "TheShy和Ning碰拳",
+      "onboard_time": 1676735969,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 328714,
       "num": 328714,
       "word": "马嘉祺帮刘耀文换救生衣路透",
@@ -8139,6 +8155,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 310597,
+      "num": 310597,
+      "word": "美甲最好隔20天左右就卸除",
+      "onboard_time": 1676737406,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310551,
       "num": 310551,
       "word": "俄亥俄州官方称居民应只使用瓶装水",
@@ -8443,6 +8467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296632,
+      "num": 296632,
+      "word": "你好星期六下期有韩庚于文文",
+      "onboard_time": 1676737826,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295128,
       "num": 295128,
       "word": "中方将对有关美国实体采取反制措施",
@@ -8553,14 +8585,6 @@
       "onboard_time": 1676334035,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289972,
-      "num": 289972,
-      "word": "TheShy和Ning碰拳",
-      "onboard_time": 1676735969,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 289272,
@@ -10283,14 +10307,6 @@
       "category": "社会正能量,教育"
     },
     {
-      "raw_hot": 222917,
-      "num": 181495,
-      "word": "独居后才知道生活常识",
-      "onboard_time": 1676736631,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 222705,
       "num": 2344604,
       "word": "中国救援队已营救多名被困者",
@@ -11425,6 +11441,14 @@
       "onboard_time": 1676648969,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188041,
+      "num": 188041,
+      "word": "切尔西vs南安普顿",
+      "onboard_time": 1676734593,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 187943,
@@ -12939,14 +12963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136844,
-      "num": 136844,
-      "word": "切尔西vs南安普顿",
-      "onboard_time": 1676734593,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136630,
       "num": 136630,
       "word": "刘文正二姨辟谣",
@@ -13427,14 +13443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95736,
-      "num": 95736,
-      "word": "美甲最好隔20天左右就卸除",
-      "onboard_time": 1676737406,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 93595,
       "num": 93595,
       "word": "于正兰舟引不是改编自将进酒",
@@ -13465,6 +13473,14 @@
       "onboard_time": 1676244079,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87563,
+      "num": 87563,
+      "word": "首例5G超远程机器人肝胆手术成功",
+      "onboard_time": 1676734951,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 87265,

@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676737472725,
+  "endTime": 1676738538532,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -3105,6 +3105,14 @@
       "onboard_time": 1675600532,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1434639,
+      "num": 1434639,
+      "word": "香港大学宣布禁用ChatGPT",
+      "onboard_time": 1676736818,
+      "rank": 13,
+      "category": "教育,科技"
     },
     {
       "raw_hot": 1433345,
@@ -16811,6 +16819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442688,
+      "num": 442688,
+      "word": "独居后才知道生活常识",
+      "onboard_time": 1676736631,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 442112,
       "num": 442112,
       "word": "这就是21级的孙尚香",
@@ -19025,14 +19041,6 @@
       "onboard_time": 1675413330,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 395114,
-      "num": 395114,
-      "word": "香港大学宣布禁用ChatGPT",
-      "onboard_time": 1676736818,
-      "rank": 13,
-      "category": "教育,科技"
     },
     {
       "raw_hot": 395061,
@@ -22059,6 +22067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328773,
+      "num": 328773,
+      "word": "TheShy和Ning碰拳",
+      "onboard_time": 1676735969,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 328714,
       "num": 328714,
       "word": "马嘉祺帮刘耀文换救生衣路透",
@@ -23203,6 +23219,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 310597,
+      "num": 310597,
+      "word": "美甲最好隔20天左右就卸除",
+      "onboard_time": 1676737406,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310551,
       "num": 310551,
       "word": "俄亥俄州官方称居民应只使用瓶装水",
@@ -24099,6 +24123,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 296632,
+      "num": 296632,
+      "word": "你好星期六下期有韩庚于文文",
+      "onboard_time": 1676737826,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296618,
       "num": 296618,
       "word": "不愧是重庆的出租车",
@@ -24553,14 +24585,6 @@
       "onboard_time": 1676334035,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289972,
-      "num": 289972,
-      "word": "TheShy和Ning碰拳",
-      "onboard_time": 1676735969,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 289859,
@@ -29827,14 +29851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222917,
-      "num": 181495,
-      "word": "独居后才知道生活常识",
-      "onboard_time": 1676736631,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 222705,
       "num": 2344604,
       "word": "中国救援队已营救多名被困者",
@@ -33209,6 +33225,14 @@
       "onboard_time": 1675906708,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188041,
+      "num": 188041,
+      "word": "切尔西vs南安普顿",
+      "onboard_time": 1676734593,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 187904,
@@ -38363,14 +38387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136844,
-      "num": 136844,
-      "word": "切尔西vs南安普顿",
-      "onboard_time": 1676734593,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136834,
       "num": 136834,
       "word": "GEN战胜DK",
@@ -40003,14 +40019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95736,
-      "num": 95736,
-      "word": "美甲最好隔20天左右就卸除",
-      "onboard_time": 1676737406,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95689,
       "num": 95689,
       "word": "虞书欣蝴蝶白纱背心造型",
@@ -40113,6 +40121,14 @@
       "onboard_time": 1675826487,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 87563,
+      "num": 87563,
+      "word": "首例5G超远程机器人肝胆手术成功",
+      "onboard_time": 1676734951,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 87265,
