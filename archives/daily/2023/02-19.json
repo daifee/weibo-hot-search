@@ -1,6 +1,6 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676740577609,
+  "endTime": 1676741611056,
   "band_list": [
     {
       "raw_hot": 1975119,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745492,
+      "num": 745492,
+      "word": "美甲最好隔20天左右就卸除",
+      "onboard_time": 1676737406,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733349,
       "num": 636602,
       "word": "无毛猫被前主人纹身打耳环",
@@ -73,14 +81,6 @@
       "onboard_time": 1676726791,
       "rank": 7,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 679767,
-      "num": 679767,
-      "word": "美甲最好隔20天左右就卸除",
-      "onboard_time": 1676737406,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 677927,
@@ -323,6 +323,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 150835,
+      "num": 150835,
+      "word": "男子称买200元螃蟹皮套得占70元",
+      "onboard_time": 1676740582,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149313,
       "num": 149313,
       "word": "KPL",
@@ -433,6 +441,14 @@
       "onboard_time": 1676734951,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 87290,
+      "num": 87290,
+      "word": "何与公主抱沈月",
+      "onboard_time": 1676726970,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 32086,
