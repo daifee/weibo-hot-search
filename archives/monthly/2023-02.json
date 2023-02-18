@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676724698314,
+  "endTime": 1676726532029,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -3105,6 +3105,14 @@
       "onboard_time": 1675255473,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1427250,
+      "num": 1427250,
+      "word": "闫妮好疯 我好喜欢",
+      "onboard_time": 1676722950,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1426235,
@@ -7907,6 +7915,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 803726,
+      "num": 619725,
+      "word": "全嘻嘻",
+      "onboard_time": 1676722168,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 803299,
       "num": 803299,
       "word": "少爷和我 把事办妥",
@@ -8025,14 +8041,6 @@
       "onboard_time": 1676255786,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 794679,
-      "num": 485538,
-      "word": "全嘻嘻",
-      "onboard_time": 1676722168,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 793931,
@@ -8619,6 +8627,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 750873,
+      "num": 750873,
+      "word": "名侦探柯南最新ED封面",
+      "onboard_time": 1676722950,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 750729,
       "num": 750729,
       "word": "男友拒不结婚42岁女子独自生养女儿",
@@ -8937,6 +8953,14 @@
       "onboard_time": 1675909407,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 735400,
+      "num": 735400,
+      "word": "王楚钦孙颖莎3比0魏世皓王添艺",
+      "onboard_time": 1676724450,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 735213,
@@ -10324,7 +10348,7 @@
     },
     {
       "raw_hot": 671131,
-      "num": 478384,
+      "num": 557745,
       "word": "被丈夫泼硫酸毁容女子发声",
       "onboard_time": 1676716527,
       "rank": 15,
@@ -10425,14 +10449,6 @@
       "onboard_time": 1675666587,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 664185,
-      "num": 664185,
-      "word": "名侦探柯南最新ED封面",
-      "onboard_time": 1676722950,
-      "rank": 18,
-      "category": "动漫"
     },
     {
       "raw_hot": 664114,
@@ -10929,6 +10945,14 @@
       "onboard_time": 1675253912,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 640230,
+      "num": 640230,
+      "word": "重庆女子上班1月倒欠公司5毛",
+      "onboard_time": 1676723967,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 640157,
@@ -11473,14 +11497,6 @@
       "onboard_time": 1675505250,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 617769,
-      "num": 454002,
-      "word": "闫妮好疯 我好喜欢",
-      "onboard_time": 1676722950,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 617192,
@@ -16243,6 +16259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452529,
+      "num": 452529,
+      "word": "新疆男篮或退出本赛季CBA剩余比赛",
+      "onboard_time": 1676725292,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 452073,
       "num": 452073,
       "word": "建议延长男性陪产假并强制执行",
@@ -16801,6 +16825,14 @@
       "onboard_time": 1675847433,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 438025,
+      "num": 416462,
+      "word": "七年过去宁至谦死性不改",
+      "onboard_time": 1676724450,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 437726,
@@ -17699,14 +17731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 417257,
-      "num": 417257,
-      "word": "重庆女子上班1月倒欠公司5毛",
-      "onboard_time": 1676723967,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 416683,
       "num": 416683,
       "word": "高叶说评论区不是无人区",
@@ -18065,6 +18089,14 @@
       "onboard_time": 1676281240,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 408708,
+      "num": 408708,
+      "word": "大学生回高中成功刷脸显示已毕业",
+      "onboard_time": 1676724749,
+      "rank": 17,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 408611,
@@ -19009,6 +19041,14 @@
       "onboard_time": 1676346037,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 390365,
+      "num": 390365,
+      "word": "星落凝成糖川渝要素过多",
+      "onboard_time": 1676725653,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 390228,
@@ -26523,6 +26563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260234,
+      "num": 260234,
+      "word": "AI绘画进步的太快了",
+      "onboard_time": 1676722410,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 260195,
       "num": 260195,
       "word": "解放军舰机在台海周边活动",
@@ -26625,6 +26673,14 @@
       "onboard_time": 1676247927,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258913,
+      "num": 258913,
+      "word": "时代少年团弹吉他路透",
+      "onboard_time": 1676725653,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 258625,
@@ -26865,6 +26921,14 @@
       "onboard_time": 1675239088,
       "rank": 33,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 255773,
+      "num": 255773,
+      "word": "李斯丹妮都觉得辣的葡国菜",
+      "onboard_time": 1676725051,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 255765,
@@ -27851,14 +27915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242710,
-      "num": 242710,
-      "word": "AI绘画进步的太快了",
-      "onboard_time": 1676722410,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 242700,
       "num": 242700,
       "word": "林俊杰西雅图世界巡回演唱会vlog",
@@ -27993,14 +28049,6 @@
       "onboard_time": 1676709029,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240941,
-      "num": 240941,
-      "word": "七年过去宁至谦死性不改",
-      "onboard_time": 1676724450,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 240940,
@@ -29843,6 +29891,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 217751,
+      "num": 217751,
+      "word": "苹果客服回应手表佩戴后体表凹陷",
+      "onboard_time": 1676725774,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 217718,
       "num": 217718,
       "word": "忠武路演员",
@@ -30163,14 +30219,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 213595,
-      "num": 213595,
-      "word": "王楚钦孙颖莎3比0魏世皓王添艺",
-      "onboard_time": 1676724450,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213545,
       "num": 213545,
       "word": "多家快递回应站点派件延迟问题",
@@ -30217,6 +30265,14 @@
       "onboard_time": 1676129014,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 212953,
+      "num": 212953,
+      "word": "秦霄贤黄明昊模仿东方青苍",
+      "onboard_time": 1676725171,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 212943,
@@ -34539,6 +34595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174481,
+      "num": 174481,
+      "word": "漓江渔翁老爷爷黄全德去世",
+      "onboard_time": 1676726138,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174250,
       "num": 174250,
       "word": "KPL实现一户一鲁班",
@@ -36563,6 +36627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155661,
+      "num": 155661,
+      "word": "宁至谦追妻进行时",
+      "onboard_time": 1676726308,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155647,
       "num": 155647,
       "word": "RW对战DRG",
@@ -38065,6 +38137,14 @@
       "onboard_time": 1676430749,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135314,
+      "num": 135314,
+      "word": "那些明星们沙雕的出圈方式",
+      "onboard_time": 1676725951,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 135208,

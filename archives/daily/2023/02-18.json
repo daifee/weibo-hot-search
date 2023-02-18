@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676724698314,
+  "endTime": 1676726532029,
   "band_list": [
     {
       "raw_hot": 3218547,
@@ -185,6 +185,14 @@
       "onboard_time": 1676690429,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1427250,
+      "num": 1427250,
+      "word": "闫妮好疯 我好喜欢",
+      "onboard_time": 1676722950,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1375194,
@@ -379,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 803726,
+      "num": 619725,
+      "word": "全嘻嘻",
+      "onboard_time": 1676722168,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 801451,
       "num": 707557,
       "word": "中国乒乓票房",
@@ -393,14 +409,6 @@
       "onboard_time": 1676718630,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 794679,
-      "num": 485538,
-      "word": "全嘻嘻",
-      "onboard_time": 1676722168,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 757100,
@@ -425,6 +433,22 @@
       "onboard_time": 1676717190,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 750873,
+      "num": 750873,
+      "word": "名侦探柯南最新ED封面",
+      "onboard_time": 1676722950,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 735400,
+      "num": 735400,
+      "word": "王楚钦孙颖莎3比0魏世皓王添艺",
+      "onboard_time": 1676724450,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 724808,
@@ -468,19 +492,19 @@
     },
     {
       "raw_hot": 671131,
-      "num": 478384,
+      "num": 557745,
       "word": "被丈夫泼硫酸毁容女子发声",
       "onboard_time": 1676716527,
       "rank": 15,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 664185,
-      "num": 664185,
-      "word": "名侦探柯南最新ED封面",
-      "onboard_time": 1676722950,
-      "rank": 18,
-      "category": "动漫"
+      "raw_hot": 640230,
+      "num": 640230,
+      "word": "重庆女子上班1月倒欠公司5毛",
+      "onboard_time": 1676723967,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638382,
@@ -528,14 +552,6 @@
       "word": "aespa颁奖礼新闻图",
       "onboard_time": 1676714488,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 617769,
-      "num": 454002,
-      "word": "闫妮好疯 我好喜欢",
-      "onboard_time": 1676722950,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -795,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452529,
+      "num": 452529,
+      "word": "新疆男篮或退出本赛季CBA剩余比赛",
+      "onboard_time": 1676725292,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 448739,
       "num": 352854,
       "word": "蔡徐坤特效视频",
@@ -816,6 +840,14 @@
       "word": "光渊口碑",
       "onboard_time": 1676721870,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 438025,
+      "num": 416462,
+      "word": "七年过去宁至谦死性不改",
+      "onboard_time": 1676724450,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -875,14 +907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 417257,
-      "num": 417257,
-      "word": "重庆女子上班1月倒欠公司5毛",
-      "onboard_time": 1676723967,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410253,
       "num": 410253,
       "word": "云南80后女局长段颖被双开",
@@ -899,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 408708,
+      "num": 408708,
+      "word": "大学生回高中成功刷脸显示已毕业",
+      "onboard_time": 1676724749,
+      "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 405075,
       "num": 405075,
       "word": "欧豪满江红出演反派的理由",
@@ -913,6 +945,14 @@
       "onboard_time": 1676649628,
       "rank": 18,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 390365,
+      "num": 390365,
+      "word": "星落凝成糖川渝要素过多",
+      "onboard_time": 1676725653,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 388772,
@@ -1235,6 +1275,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 260234,
+      "num": 260234,
+      "word": "AI绘画进步的太快了",
+      "onboard_time": 1676722410,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 258913,
+      "num": 258913,
+      "word": "时代少年团弹吉他路透",
+      "onboard_time": 1676725653,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 255773,
+      "num": 255773,
+      "word": "李斯丹妮都觉得辣的葡国菜",
+      "onboard_time": 1676725051,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255765,
       "num": 255765,
       "word": "Hero对战狼队",
@@ -1355,14 +1419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242710,
-      "num": 242710,
-      "word": "AI绘画进步的太快了",
-      "onboard_time": 1676722410,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 242700,
       "num": 242700,
       "word": "林俊杰西雅图世界巡回演唱会vlog",
@@ -1377,14 +1433,6 @@
       "onboard_time": 1676709029,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240941,
-      "num": 240941,
-      "word": "七年过去宁至谦死性不改",
-      "onboard_time": 1676724450,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 238847,
@@ -1515,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217751,
+      "num": 217751,
+      "word": "苹果客服回应手表佩戴后体表凹陷",
+      "onboard_time": 1676725774,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 215573,
       "num": 215573,
       "word": "赖美云模仿疯驴子",
@@ -1523,20 +1579,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213595,
-      "num": 213595,
-      "word": "王楚钦孙颖莎3比0魏世皓王添艺",
-      "onboard_time": 1676724450,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213275,
       "num": 213275,
       "word": "王曼昱3比0韩菲儿",
       "onboard_time": 1676689228,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212953,
+      "num": 212953,
+      "word": "秦霄贤黄明昊模仿东方青苍",
+      "onboard_time": 1676725171,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 210169,
@@ -1747,6 +1803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174481,
+      "num": 174481,
+      "word": "漓江渔翁老爷爷黄全德去世",
+      "onboard_time": 1676726138,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174018,
       "num": 154393,
       "word": "萧寒没提爱但处处都是爱",
@@ -1891,6 +1955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155661,
+      "num": 155661,
+      "word": "宁至谦追妻进行时",
+      "onboard_time": 1676726308,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155647,
       "num": 155647,
       "word": "RW对战DRG",
@@ -1961,6 +2033,14 @@
       "onboard_time": 1676708304,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135314,
+      "num": 135314,
+      "word": "那些明星们沙雕的出圈方式",
+      "onboard_time": 1676725951,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 130816,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1676726532029,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2296063,
+        "num": 2296063,
+        "word": "曾经很火但消失了的APP",
+        "onboard_time": 1676716829,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1815385,
+        "num": 1815385,
+        "word": "近期又开始发烧是否等于复阳",
+        "onboard_time": 1676717489,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50676,
+        "num": 1699313,
+        "word": "团结奋斗再出发",
+        "onboard_time": 1676723008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1683685,
+        "num": 1683685,
+        "word": "20元人民币老爷爷去世",
+        "onboard_time": 1676718630,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1577844,
+        "num": 1577844,
+        "word": "李佳琦直播",
+        "onboard_time": 1676723008,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1427250,
+        "num": 1427250,
+        "word": "闫妮好疯 我好喜欢",
+        "onboard_time": 1676722950,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 879693,
+        "num": 879693,
+        "word": "镇魂",
+        "onboard_time": 1676701347,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 750873,
+        "num": 750873,
+        "word": "名侦探柯南最新ED封面",
+        "onboard_time": 1676722950,
+        "rank": 7,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 735400,
+        "num": 735400,
+        "word": "王楚钦孙颖莎3比0魏世皓王添艺",
+        "onboard_time": 1676724450,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 640230,
+        "num": 640230,
+        "word": "重庆女子上班1月倒欠公司5毛",
+        "onboard_time": 1676723967,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803726,
+        "num": 619725,
+        "word": "全嘻嘻",
+        "onboard_time": 1676722168,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 759085,
+        "num": 602293,
+        "word": "六大门派围攻光明顶",
+        "onboard_time": 1676711967,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 557745,
+        "num": 557745,
+        "word": "被丈夫泼硫酸毁容女子发声",
+        "onboard_time": 1676716527,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452529,
+        "num": 452529,
+        "word": "新疆男篮或退出本赛季CBA剩余比赛",
+        "onboard_time": 1676725292,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 449227,
+        "num": 449227,
+        "word": "阮流筝提分手",
+        "onboard_time": 1676718630,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420236,
+        "num": 420236,
+        "word": "破译一个甲骨文奖励10万",
+        "onboard_time": 1676720131,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438025,
+        "num": 416462,
+        "word": "七年过去宁至谦死性不改",
+        "onboard_time": 1676724450,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408708,
+        "num": 408708,
+        "word": "大学生回高中成功刷脸显示已毕业",
+        "onboard_time": 1676724749,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 390365,
+        "num": 390365,
+        "word": "星落凝成糖川渝要素过多",
+        "onboard_time": 1676725653,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384127,
+        "num": 384127,
+        "word": "烽火流金 烽火令",
+        "onboard_time": 1676718568,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429563,
+        "num": 381106,
+        "word": "娃哈哈被曝八宝粥发黑长毛",
+        "onboard_time": 1676713769,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376821,
+        "num": 376821,
+        "word": "光渊口碑",
+        "onboard_time": 1676721870,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341823,
+        "num": 341823,
+        "word": "女士优先车厢男子坐满女子站立",
+        "onboard_time": 1676713047,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286653,
+        "num": 286653,
+        "word": "张新成撞脸易立竞",
+        "onboard_time": 1676717190,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260234,
+        "num": 260234,
+        "word": "AI绘画进步的太快了",
+        "onboard_time": 1676722410,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 258913,
+        "num": 258913,
+        "word": "时代少年团弹吉他路透",
+        "onboard_time": 1676725653,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255773,
+        "num": 255773,
+        "word": "李斯丹妮都觉得辣的葡国菜",
+        "onboard_time": 1676725051,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254959,
+        "num": 254959,
+        "word": "Hero对战狼队",
+        "onboard_time": 1676723729,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239095,
+        "num": 239095,
+        "word": "鞠婧祎学生装造型随拍",
+        "onboard_time": 1676717548,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233825,
+        "num": 233825,
+        "word": "迪丽热巴最新怼脸大片",
+        "onboard_time": 1676703868,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223774,
+        "num": 223774,
+        "word": "aespa颁奖礼新闻图",
+        "onboard_time": 1676714488,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219539,
+        "num": 219539,
+        "word": "桂林等多地校园被指使用违规教材",
+        "onboard_time": 1676717008,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 217980,
+        "num": 217980,
+        "word": "城管已制止狂飙拍摄地拍照收费一事",
+        "onboard_time": 1676713227,
+        "rank": 32,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 217751,
+        "num": 217751,
+        "word": "苹果客服回应手表佩戴后体表凹陷",
+        "onboard_time": 1676725774,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 212953,
+        "num": 212953,
+        "word": "秦霄贤黄明昊模仿东方青苍",
+        "onboard_time": 1676725171,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189944,
+        "num": 189944,
+        "word": "UP对战WBG",
+        "onboard_time": 1676723247,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203421,
+        "num": 189711,
+        "word": "黄明昊演唱会",
+        "onboard_time": 1676718809,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182905,
+        "num": 182905,
+        "word": "中国乒乓票房",
+        "onboard_time": 1676703325,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174481,
+        "num": 174481,
+        "word": "漓江渔翁老爷爷黄全德去世",
+        "onboard_time": 1676726138,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167687,
+        "num": 167687,
+        "word": "北大宿舍聊天 上野千鹤子",
+        "onboard_time": 1676686285,
+        "rank": 39,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 157034,
+        "num": 157034,
+        "word": "镇魂站内热度超过光渊",
+        "onboard_time": 1676719288,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155661,
+        "num": 155661,
+        "word": "宁至谦追妻进行时",
+        "onboard_time": 1676726308,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142679,
+        "num": 142679,
+        "word": "张颂文的农家院",
+        "onboard_time": 1676701407,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138490,
+        "num": 138490,
+        "word": "阿斯顿维拉vs阿森纳",
+        "onboard_time": 1676724150,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135672,
+        "num": 135672,
+        "word": "养了2年狗狗每天送小女孩上学",
+        "onboard_time": 1676710830,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135314,
+        "num": 135314,
+        "word": "那些明星们沙雕的出圈方式",
+        "onboard_time": 1676725951,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124251,
+        "num": 124251,
+        "word": "cpsp",
+        "onboard_time": 1676720551,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 123930,
+        "num": 123930,
+        "word": "流浪地球2票房破38亿",
+        "onboard_time": 1676711727,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122196,
+        "num": 122196,
+        "word": "雄安楼盘开卖单价1.4万",
+        "onboard_time": 1676704889,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 112477,
+        "num": 112477,
+        "word": "丈夫泼妻子硫酸被行拘10日",
+        "onboard_time": 1676716048,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国上下同向奔赴阔步向前#"
+    }
+  }
+}
