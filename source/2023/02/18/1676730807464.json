@@ -1,0 +1,410 @@
+{
+  "runTime": 1676730807464,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2615140,
+        "num": 2615140,
+        "word": "教师是否应该统一着装",
+        "onboard_time": 1676726791,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2047516,
+        "num": 2047516,
+        "word": "董明珠 张兰",
+        "onboard_time": 1676727569,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61746,
+        "num": 1765673,
+        "word": "团结奋斗再出发",
+        "onboard_time": 1676723008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1588820,
+        "num": 1588820,
+        "word": "曾经很火但消失了的APP",
+        "onboard_time": 1676716829,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1395071,
+        "num": 1395071,
+        "word": "iPhone14最高降1600元",
+        "onboard_time": 1676728592,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1342601,
+        "num": 1342601,
+        "word": "近期又开始发烧是否等于复阳",
+        "onboard_time": 1676717489,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1280456,
+        "num": 1280456,
+        "word": "闫妮好疯 我好喜欢",
+        "onboard_time": 1676722950,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1134463,
+        "num": 1134463,
+        "word": "新兰",
+        "onboard_time": 1676727151,
+        "rank": 7,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 1116674,
+        "num": 1116674,
+        "word": "20元人民币老爷爷去世",
+        "onboard_time": 1676718630,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702556,
+        "num": 702556,
+        "word": "何与公主抱沈月",
+        "onboard_time": 1676726970,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649515,
+        "num": 649515,
+        "word": "王一博粉丝豹晚喊话无名",
+        "onboard_time": 1676726670,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 639865,
+        "num": 639865,
+        "word": "李佳琦直播",
+        "onboard_time": 1676723008,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 570392,
+        "num": 570392,
+        "word": "刘耀文的遗憾是不能见证弟弟成长",
+        "onboard_time": 1676730035,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526054,
+        "num": 526054,
+        "word": "雪花东方宏be了",
+        "onboard_time": 1676727511,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 497597,
+        "num": 497597,
+        "word": "卡琳娜 cpsp",
+        "onboard_time": 1676728172,
+        "rank": 14,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 497211,
+        "num": 497211,
+        "word": "陈楚生首场巡演",
+        "onboard_time": 1676730393,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 489325,
+        "num": 489325,
+        "word": "粉色雪媚娘坟头",
+        "onboard_time": 1676728352,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 486543,
+        "num": 486543,
+        "word": "苹果或将无法在美销售AppleWatch",
+        "onboard_time": 1676727691,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 482237,
+        "num": 482237,
+        "word": "全嘻嘻",
+        "onboard_time": 1676722168,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 432219,
+        "num": 432219,
+        "word": "新疆男篮或退出本赛季CBA剩余比赛",
+        "onboard_time": 1676725292,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 556720,
+        "num": 427706,
+        "word": "被丈夫泼硫酸毁容女子发声",
+        "onboard_time": 1676716527,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421466,
+        "num": 421466,
+        "word": "镇魂",
+        "onboard_time": 1676701347,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 414433,
+        "num": 414433,
+        "word": "苹果客服回应手表佩戴后体表凹陷",
+        "onboard_time": 1676725774,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 396989,
+        "num": 396989,
+        "word": "aespa今日舞台",
+        "onboard_time": 1676727091,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 380153,
+        "num": 380153,
+        "word": "严浩翔白色挑染珍珠内搭造型",
+        "onboard_time": 1676730631,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376616,
+        "num": 376616,
+        "word": "美国连巧取都没有只剩豪夺",
+        "onboard_time": 1676727210,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 347754,
+        "num": 347754,
+        "word": "名侦探柯南最新ED封面",
+        "onboard_time": 1676722950,
+        "rank": 26,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 346693,
+        "num": 346693,
+        "word": "光渊案件",
+        "onboard_time": 1676727810,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334815,
+        "num": 334815,
+        "word": "BSS舞台",
+        "onboard_time": 1676729312,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307466,
+        "num": 307466,
+        "word": "李一桐的理想型",
+        "onboard_time": 1676728052,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295743,
+        "num": 295743,
+        "word": "女士优先车厢男子坐满女子站立",
+        "onboard_time": 1676713047,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273406,
+        "num": 273406,
+        "word": "七年过去宁至谦死性不改",
+        "onboard_time": 1676724450,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 270128,
+        "num": 270128,
+        "word": "阿斯顿维拉vs阿森纳",
+        "onboard_time": 1676724150,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269519,
+        "num": 269519,
+        "word": "Hero对战狼队",
+        "onboard_time": 1676723729,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268304,
+        "num": 268304,
+        "word": "烽火流金 烽火令",
+        "onboard_time": 1676718568,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257033,
+        "num": 257033,
+        "word": "马龙说自己混双水平一般",
+        "onboard_time": 1676727393,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251457,
+        "num": 251457,
+        "word": "娃哈哈被曝八宝粥发黑长毛",
+        "onboard_time": 1676713769,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243489,
+        "num": 243489,
+        "word": "华晨宇白举纲唱逃离地球表面",
+        "onboard_time": 1676729134,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239960,
+        "num": 239960,
+        "word": "WBG战胜UP",
+        "onboard_time": 1676729671,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239339,
+        "num": 239339,
+        "word": "破译一个甲骨文奖励10万",
+        "onboard_time": 1676720131,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218048,
+        "num": 218048,
+        "word": "黄明昊演唱会",
+        "onboard_time": 1676718809,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205769,
+        "num": 205769,
+        "word": "王楚钦孙颖莎3比0魏世皓王添艺",
+        "onboard_time": 1676724450,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188090,
+        "num": 188090,
+        "word": "鞠婧祎学生装造型随拍",
+        "onboard_time": 1676717548,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187857,
+        "num": 187857,
+        "word": "阮流筝提分手",
+        "onboard_time": 1676718630,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178590,
+        "num": 178590,
+        "word": "迪丽热巴最新怼脸大片",
+        "onboard_time": 1676703868,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175906,
+        "num": 175906,
+        "word": "莎头",
+        "onboard_time": 1676726911,
+        "rank": 45,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 167573,
+        "num": 167573,
+        "word": "AI绘画进步的太快了",
+        "onboard_time": 1676722410,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152391,
+        "num": 152391,
+        "word": "UP对战WBG",
+        "onboard_time": 1676723247,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137952,
+        "num": 137952,
+        "word": "当你误发消息给妈妈",
+        "onboard_time": 1676730694,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135981,
+        "num": 135981,
+        "word": "光渊口碑",
+        "onboard_time": 1676721870,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国上下同向奔赴阔步向前#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676729763116,
+  "endTime": 1676730807464,
   "band_list": [
     {
       "raw_hot": 3218547,
@@ -43,20 +43,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2615140,
+      "num": 2615140,
+      "word": "教师是否应该统一着装",
+      "onboard_time": 1676726791,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 2552797,
       "num": 2552797,
       "word": "20元人民币老爷爷去世",
       "onboard_time": 1676718630,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2347609,
-      "num": 2347609,
-      "word": "教师是否应该统一着装",
-      "onboard_time": 1676726791,
-      "rank": 27,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2342888,
@@ -115,6 +115,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2047516,
+      "num": 2047516,
+      "word": "董明珠 张兰",
+      "onboard_time": 1676727569,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1974429,
       "num": 1067999,
       "word": "深渊改名光渊",
@@ -129,14 +137,6 @@
       "onboard_time": 1676686589,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1868016,
-      "num": 1868016,
-      "word": "董明珠 张兰",
-      "onboard_time": 1676727569,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1804200,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1395071,
+      "num": 1395071,
+      "word": "iPhone14最高降1600元",
+      "onboard_time": 1676728592,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1375194,
       "num": 1375194,
       "word": "对涉毒艺人是否应该终身禁止复出",
@@ -267,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1134463,
+      "num": 1134463,
+      "word": "新兰",
+      "onboard_time": 1676727151,
+      "rank": 42,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 1132817,
       "num": 1132817,
       "word": "警方回应狂飙拍摄地旧厂街拍照收费",
@@ -297,14 +313,6 @@
       "onboard_time": 1676648428,
       "rank": 4,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1035336,
-      "num": 1035336,
-      "word": "新兰",
-      "onboard_time": 1676727151,
-      "rank": 42,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 1029105,
@@ -403,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 836712,
-      "num": 595301,
-      "word": "iPhone14最高降1600元",
-      "onboard_time": 1676728592,
-      "rank": 10,
-      "category": "科技"
-    },
-    {
       "raw_hot": 824651,
       "num": 824651,
       "word": "塔利班在阿富汗两大城市禁售避孕用品",
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 823666,
-      "num": 594108,
+      "num": 649515,
       "word": "王一博粉丝豹晚喊话无名",
       "onboard_time": 1676726670,
       "rank": 10,
@@ -691,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 570392,
+      "num": 570392,
+      "word": "刘耀文的遗憾是不能见证弟弟成长",
+      "onboard_time": 1676730035,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567739,
       "num": 567739,
       "word": "切菜时手指受伤乱包扎被截指",
@@ -811,6 +819,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 497597,
+      "num": 497597,
+      "word": "卡琳娜 cpsp",
+      "onboard_time": 1676728172,
+      "rank": 20,
+      "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 497211,
+      "num": 497211,
+      "word": "陈楚生首场巡演",
+      "onboard_time": 1676730393,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 496733,
       "num": 496733,
       "word": "鞠婧祎学生装造型随拍",
@@ -825,6 +849,14 @@
       "onboard_time": 1676702488,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489325,
+      "num": 489325,
+      "word": "粉色雪媚娘坟头",
+      "onboard_time": 1676728352,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 489317,
@@ -857,6 +889,14 @@
       "onboard_time": 1676716048,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486543,
+      "num": 486543,
+      "word": "苹果或将无法在美销售AppleWatch",
+      "onboard_time": 1676727691,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 471458,
@@ -915,14 +955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 446683,
-      "num": 446683,
-      "word": "卡琳娜 cpsp",
-      "onboard_time": 1676728172,
-      "rank": 20,
-      "category": "动漫,网红"
-    },
-    {
       "raw_hot": 438025,
       "num": 437571,
       "word": "七年过去宁至谦死性不改",
@@ -955,28 +987,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 429761,
-      "num": 429761,
-      "word": "粉色雪媚娘坟头",
-      "onboard_time": 1676728352,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 426535,
       "num": 405399,
       "word": "周也石榴花神造型",
       "onboard_time": 1676694510,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 424518,
-      "num": 424518,
-      "word": "苹果或将无法在美销售AppleWatch",
-      "onboard_time": 1676727691,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 424142,
@@ -1099,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380153,
+      "num": 380153,
+      "word": "严浩翔白色挑染珍珠内搭造型",
+      "onboard_time": 1676730631,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 378235,
       "num": 378235,
       "word": "桂林等多地校园被指使用违规教材",
@@ -1115,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376616,
+      "num": 376616,
+      "word": "美国连巧取都没有只剩豪夺",
+      "onboard_time": 1676727210,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 366582,
       "num": 366582,
       "word": "幼儿园娃手拉手踩滚筒前进惊呆邻居",
@@ -1129,14 +1161,6 @@
       "onboard_time": 1676726911,
       "rank": 22,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 362820,
-      "num": 362820,
-      "word": "美国连巧取都没有只剩豪夺",
-      "onboard_time": 1676727210,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 358055,
@@ -1283,20 +1307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307466,
+      "num": 307466,
+      "word": "李一桐的理想型",
+      "onboard_time": 1676728052,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304611,
       "num": 304611,
       "word": "美俄州有毒气体会不会影响我国",
       "onboard_time": 1676679084,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300655,
-      "num": 300655,
-      "word": "李一桐的理想型",
-      "onboard_time": 1676728052,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 300342,
@@ -1379,12 +1403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270128,
+      "num": 270128,
+      "word": "阿斯顿维拉vs阿森纳",
+      "onboard_time": 1676724150,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270053,
       "num": 228069,
       "word": "中美关系不应因流浪气球随风逐流",
       "onboard_time": 1676684307,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 269519,
+      "num": 269519,
+      "word": "Hero对战狼队",
+      "onboard_time": 1676723729,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 266225,
@@ -1457,14 +1497,6 @@
       "onboard_time": 1676725051,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255765,
-      "num": 255765,
-      "word": "Hero对战狼队",
-      "onboard_time": 1676723729,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 255209,
@@ -1595,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239960,
+      "num": 239960,
+      "word": "WBG战胜UP",
+      "onboard_time": 1676729671,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238847,
       "num": 238847,
       "word": "刘亦菲捧花头像",
@@ -1657,14 +1697,6 @@
       "onboard_time": 1676700508,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223001,
-      "num": 223001,
-      "word": "阿斯顿维拉vs阿森纳",
-      "onboard_time": 1676724150,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 222372,
@@ -1897,14 +1929,6 @@
       "onboard_time": 1676708666,
       "rank": 35,
       "category": "科技"
-    },
-    {
-      "raw_hot": 181705,
-      "num": 181705,
-      "word": "WBG战胜UP",
-      "onboard_time": 1676729671,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 179094,
@@ -2203,6 +2227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137952,
+      "num": 137952,
+      "word": "当你误发消息给妈妈",
+      "onboard_time": 1676730694,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130816,
       "num": 130816,
       "word": "C罗助攻梅开二度",
@@ -2339,20 +2371,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61746,
+      "num": 2302809,
+      "word": "团结奋斗再出发",
+      "onboard_time": 1676723008,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53886,
       "num": 53886,
       "word": "少典有琴夜昙初吻",
       "onboard_time": 1676672293,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 53686,
-      "num": 2302809,
-      "word": "团结奋斗再出发",
-      "onboard_time": 1676723008,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33516,

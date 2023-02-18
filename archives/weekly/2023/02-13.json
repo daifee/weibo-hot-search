@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676729763116,
+  "endTime": 1676730807464,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -299,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2615140,
+      "num": 2615140,
+      "word": "教师是否应该统一着装",
+      "onboard_time": 1676726791,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 2607726,
       "num": 2607726,
       "word": "军烨",
@@ -425,14 +433,6 @@
       "onboard_time": 1676449170,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2347609,
-      "num": 2347609,
-      "word": "教师是否应该统一着装",
-      "onboard_time": 1676726791,
-      "rank": 27,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2342888,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2047516,
+      "num": 2047516,
+      "word": "董明珠 张兰",
+      "onboard_time": 1676727569,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2036409,
       "num": 2036409,
       "word": "我国女性终身无孩率接近10%",
@@ -720,14 +728,6 @@
       "word": "石家庄机场确有延误和备降情况",
       "onboard_time": 1676533481,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1868016,
-      "num": 1868016,
-      "word": "董明珠 张兰",
-      "onboard_time": 1676727569,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1217,6 +1217,14 @@
       "onboard_time": 1676535996,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1395071,
+      "num": 1395071,
+      "word": "iPhone14最高降1600元",
+      "onboard_time": 1676728592,
+      "rank": 10,
+      "category": "科技"
     },
     {
       "raw_hot": 1375832,
@@ -1723,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1134463,
+      "num": 1134463,
+      "word": "新兰",
+      "onboard_time": 1676727151,
+      "rank": 42,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 1132817,
       "num": 1132817,
       "word": "警方回应狂飙拍摄地旧厂街拍照收费",
@@ -1993,14 +2009,6 @@
       "onboard_time": 1676648428,
       "rank": 4,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1035336,
-      "num": 1035336,
-      "word": "新兰",
-      "onboard_time": 1676727151,
-      "rank": 42,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 1033919,
@@ -2635,14 +2643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 836712,
-      "num": 595301,
-      "word": "iPhone14最高降1600元",
-      "onboard_time": 1676728592,
-      "rank": 10,
-      "category": "科技"
-    },
-    {
       "raw_hot": 833687,
       "num": 833687,
       "word": "腾讯视频回应多设备登录被封号",
@@ -2708,7 +2708,7 @@
     },
     {
       "raw_hot": 823666,
-      "num": 594108,
+      "num": 649515,
       "word": "王一博粉丝豹晚喊话无名",
       "onboard_time": 1676726670,
       "rank": 10,
@@ -4435,6 +4435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 570392,
+      "num": 570392,
+      "word": "刘耀文的遗憾是不能见证弟弟成长",
+      "onboard_time": 1676730035,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 569113,
       "num": 569113,
       "word": "杭州地铁口惊现玫瑰瀑布",
@@ -5163,12 +5171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497597,
+      "num": 497597,
+      "word": "卡琳娜 cpsp",
+      "onboard_time": 1676728172,
+      "rank": 20,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 497557,
       "num": 497557,
       "word": "赵小棠新电影紫色短发造型",
       "onboard_time": 1676346637,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 497211,
+      "num": 497211,
+      "word": "陈楚生首场巡演",
+      "onboard_time": 1676730393,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 496733,
@@ -5251,6 +5275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 489325,
+      "num": 489325,
+      "word": "粉色雪媚娘坟头",
+      "onboard_time": 1676728352,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 489317,
       "num": 489317,
       "word": "奶奶用边角料给孙女做中式套装",
@@ -5305,6 +5337,14 @@
       "onboard_time": 1676716048,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486543,
+      "num": 486543,
+      "word": "苹果或将无法在美销售AppleWatch",
+      "onboard_time": 1676727691,
+      "rank": 23,
+      "category": "科技"
     },
     {
       "raw_hot": 486503,
@@ -5803,14 +5843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 446683,
-      "num": 446683,
-      "word": "卡琳娜 cpsp",
-      "onboard_time": 1676728172,
-      "rank": 20,
-      "category": "动漫,网红"
-    },
-    {
       "raw_hot": 446580,
       "num": 446580,
       "word": "王阳的采访",
@@ -6147,14 +6179,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 429761,
-      "num": 429761,
-      "word": "粉色雪媚娘坟头",
-      "onboard_time": 1676728352,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 429489,
       "num": 429489,
       "word": "苹果版余额宝或将上线",
@@ -6209,14 +6233,6 @@
       "onboard_time": 1676472455,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424518,
-      "num": 424518,
-      "word": "苹果或将无法在美销售AppleWatch",
-      "onboard_time": 1676727691,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 424142,
@@ -6883,6 +6899,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 380153,
+      "num": 380153,
+      "word": "严浩翔白色挑染珍珠内搭造型",
+      "onboard_time": 1676730631,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 380052,
       "num": 380052,
       "word": "电影回廊亭定档0310",
@@ -6961,6 +6985,14 @@
       "onboard_time": 1676431712,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 376616,
+      "num": 376616,
+      "word": "美国连巧取都没有只剩豪夺",
+      "onboard_time": 1676727210,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 376469,
@@ -7121,14 +7153,6 @@
       "onboard_time": 1676646812,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 362820,
-      "num": 362820,
-      "word": "美国连巧取都没有只剩豪夺",
-      "onboard_time": 1676727210,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 362610,
@@ -8083,6 +8107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307466,
+      "num": 307466,
+      "word": "李一桐的理想型",
+      "onboard_time": 1676728052,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306758,
       "num": 306758,
       "word": "杨超越感谢刘宇宁为重紫献声",
@@ -8241,14 +8273,6 @@
       "onboard_time": 1676530528,
       "rank": 25,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 300655,
-      "num": 300655,
-      "word": "李一桐的理想型",
-      "onboard_time": 1676728052,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 300342,
@@ -8915,6 +8939,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 270128,
+      "num": 270128,
+      "word": "阿斯顿维拉vs阿森纳",
+      "onboard_time": 1676724150,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270102,
       "num": 270102,
       "word": "YG新女团RORA最新介绍视频",
@@ -8937,6 +8969,14 @@
       "onboard_time": 1676358034,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 269519,
+      "num": 269519,
+      "word": "Hero对战狼队",
+      "onboard_time": 1676723729,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 268978,
@@ -9297,14 +9337,6 @@
       "onboard_time": 1676725051,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255765,
-      "num": 255765,
-      "word": "Hero对战狼队",
-      "onboard_time": 1676723729,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 255471,
@@ -9681,6 +9713,14 @@
       "onboard_time": 1676597848,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 239960,
+      "num": 239960,
+      "word": "WBG战胜UP",
+      "onboard_time": 1676729671,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 238713,
@@ -10081,14 +10121,6 @@
       "onboard_time": 1676373515,
       "rank": 34,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 223001,
-      "num": 223001,
-      "word": "阿斯顿维拉vs阿森纳",
-      "onboard_time": 1676724150,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 222994,
@@ -11491,14 +11523,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 181705,
-      "num": 181705,
-      "word": "WBG战胜UP",
-      "onboard_time": 1676729671,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 181193,
       "num": 181193,
       "word": "邻居大婶住院男子送去2万元救急",
@@ -12707,6 +12731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137952,
+      "num": 137952,
+      "word": "当你误发消息给妈妈",
+      "onboard_time": 1676730694,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137927,
       "num": 137927,
       "word": "你心中的台湾偶像剧一哥",
@@ -13315,6 +13347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61746,
+      "num": 2302809,
+      "word": "团结奋斗再出发",
+      "onboard_time": 1676723008,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60986,
       "num": 454641,
       "word": "电动车如何演绎豪华",
@@ -13361,14 +13401,6 @@
       "onboard_time": 1676672293,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 53686,
-      "num": 2302809,
-      "word": "团结奋斗再出发",
-      "onboard_time": 1676723008,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49858,
