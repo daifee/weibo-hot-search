@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676754934131,
+  "endTime": 1676756018657,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -13659,6 +13659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46671,
+      "num": 46671,
+      "word": "现在的大学生开学",
+      "onboard_time": 1676752572,
+      "rank": 16,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 44969,
       "num": 44969,
       "word": "满江红演员呼吁大家关注消防",
@@ -13681,14 +13689,6 @@
       "onboard_time": 1676231591,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40263,
-      "num": 40263,
-      "word": "现在的大学生开学",
-      "onboard_time": 1676752572,
-      "rank": 16,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 38981,
