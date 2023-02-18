@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676695755719,
+  "endTime": 1676697413175,
   "band_list": [
     {
       "raw_hot": 3218547,
@@ -41,6 +41,14 @@
       "onboard_time": 1676680645,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2123584,
+      "num": 2123584,
+      "word": "家里的布洛芬连花清瘟们何去何从",
+      "onboard_time": 1676693848,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1974429,
@@ -89,14 +97,6 @@
       "onboard_time": 1676693128,
       "rank": 4,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1591026,
-      "num": 1591026,
-      "word": "家里的布洛芬连花清瘟们何去何从",
-      "onboard_time": 1676693848,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1522278,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 877737,
+      "num": 877737,
+      "word": "日本789万老人还在打零工",
+      "onboard_time": 1676694390,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 852875,
       "num": 852875,
       "word": "XBB.1.5免疫逃逸能力增强",
@@ -217,6 +225,14 @@
       "onboard_time": 1676686467,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 731530,
+      "num": 731530,
+      "word": "塔利班在阿富汗两大城市禁售避孕用品",
+      "onboard_time": 1676694690,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 724808,
@@ -257,6 +273,22 @@
       "onboard_time": 1676692170,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 630910,
+      "num": 630910,
+      "word": "去世侏儒抹香鲸胃内有大量塑料",
+      "onboard_time": 1676693308,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612454,
+      "num": 612454,
+      "word": "有钱的普通人",
+      "onboard_time": 1676691389,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 601825,
@@ -323,28 +355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566816,
-      "num": 566816,
-      "word": "有钱的普通人",
-      "onboard_time": 1676691389,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 563400,
       "num": 530245,
       "word": "中国乒乓 排片",
       "onboard_time": 1676692947,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 561126,
-      "num": 561126,
-      "word": "去世侏儒抹香鲸胃内有大量塑料",
-      "onboard_time": 1676693308,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 549803,
@@ -371,16 +387,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 526389,
-      "num": 526389,
-      "word": "日本789万老人还在打零工",
-      "onboard_time": 1676694390,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 524763,
-      "num": 474715,
+      "num": 486662,
       "word": "君子盟光渊 换乘恋爱",
       "onboard_time": 1676693067,
       "rank": 20,
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448739,
+      "num": 324538,
+      "word": "蔡徐坤特效视频",
+      "onboard_time": 1676696130,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448592,
       "num": 448592,
       "word": "爬完泰山全都老实了",
@@ -441,14 +457,6 @@
       "onboard_time": 1676680525,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 431996,
-      "num": 431996,
-      "word": "塔利班在阿富汗两大城市禁售避孕用品",
-      "onboard_time": 1676694690,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 426535,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 409706,
-      "num": 285594,
+      "num": 310335,
       "word": "山河表里",
       "onboard_time": 1676692407,
       "rank": 31,
@@ -569,6 +577,22 @@
       "onboard_time": 1676636429,
       "rank": 16,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 335569,
+      "num": 335569,
+      "word": "警方回应狂飙拍摄地旧厂街拍照收费",
+      "onboard_time": 1676697268,
+      "rank": 22,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 333153,
+      "num": 333153,
+      "word": "女子买电子表挂墙1年后发现没撕膜",
+      "onboard_time": 1676696669,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330946,
@@ -883,6 +907,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 189057,
+      "num": 189057,
+      "word": "住进心里的粤语歌",
+      "onboard_time": 1676696849,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188301,
       "num": 188301,
       "word": "一女子因被家暴带孩子流落街头",
@@ -953,6 +985,14 @@
       "onboard_time": 1676646812,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174635,
+      "num": 174635,
+      "word": "姚晨模仿王菲和周星驰",
+      "onboard_time": 1676697268,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 172116,
@@ -1081,6 +1121,14 @@
       "onboard_time": 1676676500,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130669,
+      "num": 130669,
+      "word": "重紫一身反骨",
+      "onboard_time": 1676696010,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 128316,
