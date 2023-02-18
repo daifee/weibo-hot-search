@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676734415859,
+  "endTime": 1676737472725,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -683,6 +683,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1975119,
+      "num": 1975119,
+      "word": "柯哀",
+      "onboard_time": 1676733451,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1974429,
       "num": 1067999,
       "word": "深渊改名光渊",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1676459790,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1583530,
+      "num": 1583530,
+      "word": "哺乳期女子点外卖骑手提醒不卫生",
+      "onboard_time": 1676734053,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1573064,
@@ -1985,6 +2001,14 @@
       "onboard_time": 1676597549,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1050391,
+      "num": 1050391,
+      "word": "男子去面试偶遇6岁女孩自拍被亲",
+      "onboard_time": 1676733871,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1049498,
@@ -3276,7 +3300,7 @@
     },
     {
       "raw_hot": 730162,
-      "num": 606030,
+      "num": 623600,
       "word": "众星给黄明昊录制生日祝福VCR",
       "onboard_time": 1676733396,
       "rank": 19,
@@ -4649,14 +4673,6 @@
       "onboard_time": 1676420191,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 550406,
-      "num": 550406,
-      "word": "柯哀",
-      "onboard_time": 1676733451,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 550040,
@@ -6739,6 +6755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395114,
+      "num": 395114,
+      "word": "香港大学宣布禁用ChatGPT",
+      "onboard_time": 1676736818,
+      "rank": 13,
+      "category": "教育,科技"
+    },
+    {
       "raw_hot": 394561,
       "num": 294421,
       "word": "女子超然楼前背满江红时楼亮了",
@@ -8059,14 +8083,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 314036,
-      "num": 314036,
-      "word": "男子去面试偶遇6岁女孩自拍被亲",
-      "onboard_time": 1676733871,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313109,
       "num": 313109,
       "word": "wink给Rookie送花",
@@ -8339,6 +8355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301770,
+      "num": 301770,
+      "word": "种地吧10个人搬了30吨化肥",
+      "onboard_time": 1676733152,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301743,
       "num": 301743,
       "word": "实拍俄亥俄州小溪全是死鱼死虫",
@@ -8529,6 +8553,14 @@
       "onboard_time": 1676334035,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289972,
+      "num": 289972,
+      "word": "TheShy和Ning碰拳",
+      "onboard_time": 1676735969,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 289272,
@@ -9233,14 +9265,6 @@
       "onboard_time": 1676733275,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 262623,
-      "num": 262623,
-      "word": "种地吧10个人搬了30吨化肥",
-      "onboard_time": 1676733152,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 262286,
@@ -10019,6 +10043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231505,
+      "num": 231505,
+      "word": "郭俊辰给沈月做奶茶",
+      "onboard_time": 1676734650,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231478,
       "num": 231478,
       "word": "大侦探呼吁正视心理精神疾病",
@@ -10251,6 +10283,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 222917,
+      "num": 181495,
+      "word": "独居后才知道生活常识",
+      "onboard_time": 1676736631,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222705,
       "num": 2344604,
       "word": "中国救援队已营救多名被困者",
@@ -10433,14 +10473,6 @@
       "onboard_time": 1676512351,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 217590,
-      "num": 217590,
-      "word": "哺乳期女子点外卖骑手提醒不卫生",
-      "onboard_time": 1676734053,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217217,
@@ -12667,6 +12699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149313,
+      "num": 149313,
+      "word": "KPL",
+      "onboard_time": 1676734770,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148399,
       "num": 148399,
       "word": "吉利银河来了",
@@ -12897,6 +12937,14 @@
       "onboard_time": 1676487313,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136844,
+      "num": 136844,
+      "word": "切尔西vs南安普顿",
+      "onboard_time": 1676734593,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 136630,
@@ -13377,6 +13425,14 @@
       "onboard_time": 1676564904,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95736,
+      "num": 95736,
+      "word": "美甲最好隔20天左右就卸除",
+      "onboard_time": 1676737406,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93595,
