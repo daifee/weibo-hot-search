@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676685514729,
+  "endTime": 1676688329096,
   "band_list": [
     {
       "raw_hot": 2893078,
@@ -19,6 +19,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1974429,
+      "num": 1067999,
+      "word": "深渊改名光渊",
+      "onboard_time": 1676685086,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1958005,
+      "num": 143499,
+      "word": "默读",
+      "onboard_time": 1676686589,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1813858,
+      "num": 1813858,
+      "word": "北大宿舍聊天 上野千鹤子",
+      "onboard_time": 1676686285,
+      "rank": 0,
+      "category": "网红,情感"
+    },
+    {
       "raw_hot": 1700112,
       "num": 1700112,
       "word": "艾薇儿回答是否参加浪姐",
@@ -33,6 +57,14 @@
       "onboard_time": 1676683288,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1217080,
+      "num": 1217080,
+      "word": "对涉毒艺人是否应该终身禁止复出",
+      "onboard_time": 1676684369,
+      "rank": 6,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1213866,
@@ -59,14 +91,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1067999,
-      "num": 1067999,
-      "word": "深渊改名光渊",
-      "onboard_time": 1676685086,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1037576,
       "num": 1037576,
       "word": "美国被曝炸毁北溪新证据",
@@ -75,12 +99,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1014604,
-      "num": 1014604,
-      "word": "对涉毒艺人是否应该终身禁止复出",
-      "onboard_time": 1676684369,
-      "rank": 6,
-      "category": "社会新闻,艺人"
+      "raw_hot": 1017671,
+      "num": 1017671,
+      "word": "长期久坐容易形成血栓",
+      "onboard_time": 1676684967,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 904926,
@@ -107,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 758165,
+      "num": 758165,
+      "word": "光渊空降",
+      "onboard_time": 1676687546,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 724808,
       "num": 724808,
       "word": "肖战 米兰时装周",
@@ -129,6 +161,14 @@
       "onboard_time": 1676645913,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 601825,
+      "num": 601825,
+      "word": "土家族姑娘出嫁前要背4本哭嫁词",
+      "onboard_time": 1676684788,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 598666,
@@ -195,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535513,
+      "num": 535513,
+      "word": "小孩那桌也上不了了",
+      "onboard_time": 1676687068,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 526409,
       "num": 526409,
       "word": "金希澈 泡泡",
@@ -233,6 +281,14 @@
       "onboard_time": 1676651246,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 444429,
+      "num": 444429,
+      "word": "光渊",
+      "onboard_time": 1676686467,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 432667,
@@ -283,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 349129,
-      "num": 349129,
-      "word": "长期久坐容易形成血栓",
-      "onboard_time": 1676684967,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 346543,
+      "num": 346543,
+      "word": "男子进店要钱嫌少骚扰殴打女顾客",
+      "onboard_time": 1676686166,
+      "rank": 20,
+      "category": "社会负面"
     },
     {
       "raw_hot": 346145,
@@ -297,14 +353,6 @@
       "onboard_time": 1676636429,
       "rank": 16,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 345572,
-      "num": 345572,
-      "word": "土家族姑娘出嫁前要背4本哭嫁词",
-      "onboard_time": 1676684788,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330946,
@@ -419,6 +467,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 242700,
+      "num": 242700,
+      "word": "林俊杰西雅图世界巡回演唱会vlog",
+      "onboard_time": 1676688028,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 238847,
       "num": 238847,
       "word": "刘亦菲捧花头像",
@@ -483,6 +539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200116,
+      "num": 200116,
+      "word": "蚁人3票房破5000万",
+      "onboard_time": 1676685026,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200082,
       "num": 200082,
       "word": "张杰重现狂飙名场面",
@@ -523,12 +587,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184544,
-      "num": 184544,
-      "word": "蚁人3票房破5000万",
-      "onboard_time": 1676685026,
-      "rank": 38,
-      "category": "影视"
+      "raw_hot": 186921,
+      "num": 186921,
+      "word": "小穿山甲和妈妈的有爱日常",
+      "onboard_time": 1676686827,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183975,
+      "num": 183975,
+      "word": "强震已致土耳其超3.9万人遇难",
+      "onboard_time": 1676687908,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179094,
+      "num": 179094,
+      "word": "张大大问助理自己和王嘉尔谁帅",
+      "onboard_time": 1676664016,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 178455,
@@ -568,14 +648,6 @@
       "word": "虞书欣晒收工自拍live图",
       "onboard_time": 1676646812,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 175400,
-      "num": 175400,
-      "word": "张大大问助理自己和王嘉尔谁帅",
-      "onboard_time": 1676664016,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -691,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146655,
+      "num": 146655,
+      "word": "如何看待一些年轻人抗拒生育",
+      "onboard_time": 1676688085,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130816,
       "num": 130816,
       "word": "C罗助攻梅开二度",
@@ -715,6 +795,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 121479,
+      "num": 121479,
+      "word": "杨迪模仿沙溢流浪地球2的表演",
+      "onboard_time": 1676688264,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118142,
       "num": 118142,
       "word": "骚姆现场",
@@ -724,7 +812,7 @@
     },
     {
       "raw_hot": 109315,
-      "num": 1462797,
+      "num": 1479599,
       "word": "中国人第一次从太空遥望地球的影像",
       "onboard_time": 1676630193,
       "rank": 2,
