@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676752426123,
+  "endTime": 1676754934131,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -13681,6 +13681,14 @@
       "onboard_time": 1676231591,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40263,
+      "num": 40263,
+      "word": "现在的大学生开学",
+      "onboard_time": 1676752572,
+      "rank": 16,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 38981,
