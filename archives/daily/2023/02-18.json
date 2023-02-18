@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676684344765,
+  "endTime": 1676685514729,
   "band_list": [
     {
       "raw_hot": 2893078,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1325600,
+      "num": 1325600,
+      "word": "教授称年轻人没精力生那么多孩子",
+      "onboard_time": 1676683288,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1213866,
       "num": 1213866,
       "word": "芒果有点人脉",
@@ -51,12 +59,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1067999,
+      "num": 1067999,
+      "word": "深渊改名光渊",
+      "onboard_time": 1676685086,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1037576,
       "num": 1037576,
       "word": "美国被曝炸毁北溪新证据",
       "onboard_time": 1676648428,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1014604,
+      "num": 1014604,
+      "word": "对涉毒艺人是否应该终身禁止复出",
+      "onboard_time": 1676684369,
+      "rank": 6,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 904926,
@@ -67,24 +91,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 858772,
-      "num": 858772,
+      "raw_hot": 884201,
+      "num": 884201,
       "word": "湖北初婚年龄突破30岁",
       "onboard_time": 1676681666,
       "rank": 5,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 843689,
-      "num": 843689,
-      "word": "教授称年轻人没精力生那么多孩子",
-      "onboard_time": 1676683288,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 778426,
-      "num": 578662,
+      "raw_hot": 852875,
+      "num": 852875,
       "word": "XBB.1.5免疫逃逸能力增强",
       "onboard_time": 1676682927,
       "rank": 10,
@@ -243,8 +259,8 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 386602,
-      "num": 386602,
+      "raw_hot": 388772,
+      "num": 388772,
       "word": "中国空间站只有3套舱外航天服",
       "onboard_time": 1676681666,
       "rank": 19,
@@ -267,12 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349129,
+      "num": 349129,
+      "word": "长期久坐容易形成血栓",
+      "onboard_time": 1676684967,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346145,
       "num": 346145,
       "word": "河南发现价值45亿大型银矿",
       "onboard_time": 1676636429,
       "rank": 16,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 345572,
+      "num": 345572,
+      "word": "土家族姑娘出嫁前要背4本哭嫁词",
+      "onboard_time": 1676684788,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330946,
@@ -345,6 +377,14 @@
       "onboard_time": 1676674696,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270053,
+      "num": 228069,
+      "word": "中美关系不应因流浪气球随风逐流",
+      "onboard_time": 1676684307,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 253514,
@@ -427,8 +467,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211734,
-      "num": 211734,
+      "raw_hot": 215573,
+      "num": 215573,
       "word": "赖美云模仿疯驴子",
       "onboard_time": 1676675058,
       "rank": 25,
@@ -483,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184544,
+      "num": 184544,
+      "word": "蚁人3票房破5000万",
+      "onboard_time": 1676685026,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178455,
       "num": 178455,
       "word": "国内首次检出XBB.1.5",
@@ -520,6 +568,14 @@
       "word": "虞书欣晒收工自拍live图",
       "onboard_time": 1676646812,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175400,
+      "num": 175400,
+      "word": "张大大问助理自己和王嘉尔谁帅",
+      "onboard_time": 1676664016,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -603,14 +659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155322,
-      "num": 155322,
-      "word": "张大大问助理自己和王嘉尔谁帅",
-      "onboard_time": 1676664016,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151896,
       "num": 151896,
       "word": "最强大脑",
@@ -651,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128316,
+      "num": 128316,
+      "word": "威马CEO沈晖回应经营状况",
+      "onboard_time": 1676684369,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 127380,
       "num": 127380,
       "word": "王冰冰跟赵继伟学打篮球",
@@ -668,7 +724,7 @@
     },
     {
       "raw_hot": 109315,
-      "num": 1316080,
+      "num": 1462797,
       "word": "中国人第一次从太空遥望地球的影像",
       "onboard_time": 1676630193,
       "rank": 2,
@@ -705,14 +761,6 @@
       "onboard_time": 1676640692,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 90762,
-      "num": 90762,
-      "word": "中美关系不应因流浪气球随风逐流",
-      "onboard_time": 1676684307,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 53886,
