@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676701366802,
+  "endTime": 1676702232329,
   "band_list": [
     {
       "raw_hot": 3218547,
@@ -179,8 +179,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1128188,
-      "num": 1128188,
+      "raw_hot": 1132817,
+      "num": 1132817,
       "word": "警方回应狂飙拍摄地旧厂街拍照收费",
       "onboard_time": 1676697268,
       "rank": 22,
@@ -211,12 +211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 960339,
+      "num": 960339,
+      "word": "一生未婚的爷爷离世捐出角膜救人",
+      "onboard_time": 1676699128,
+      "rank": 8,
+      "category": "社会正能量,情感"
+    },
+    {
       "raw_hot": 959542,
       "num": 959542,
       "word": "小孩那桌也上不了了",
       "onboard_time": 1676687068,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 948324,
+      "num": 948324,
+      "word": "镇魂",
+      "onboard_time": 1676701347,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 904926,
@@ -259,14 +275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 758207,
-      "num": 758207,
-      "word": "一生未婚的爷爷离世捐出角膜救人",
-      "onboard_time": 1676699128,
-      "rank": 8,
-      "category": "社会正能量,情感"
-    },
-    {
       "raw_hot": 724808,
       "num": 724808,
       "word": "肖战 米兰时装周",
@@ -281,6 +289,14 @@
       "onboard_time": 1676677102,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 705000,
+      "num": 705000,
+      "word": "张颂文的农家院",
+      "onboard_time": 1676701407,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 686645,
@@ -595,20 +611,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377821,
+      "num": 377821,
+      "word": "马伯庸说费启鸣把丰宝玉演活了",
+      "onboard_time": 1676700449,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366582,
       "num": 366582,
       "word": "幼儿园娃手拉手踩滚筒前进惊呆邻居",
       "onboard_time": 1676694208,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359842,
-      "num": 359842,
-      "word": "马伯庸说费启鸣把丰宝玉演活了",
-      "onboard_time": 1676700449,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 353999,
@@ -988,7 +1004,7 @@
     },
     {
       "raw_hot": 203172,
-      "num": 154339,
+      "num": 171136,
       "word": "黑豹2票房破亿",
       "onboard_time": 1676700988,
       "rank": 41,
@@ -1028,7 +1044,7 @@
     },
     {
       "raw_hot": 190091,
-      "num": 149859,
+      "num": 161822,
       "word": "种地吧",
       "onboard_time": 1676700449,
       "rank": 42,
@@ -1056,14 +1072,6 @@
       "word": "萧寒何冉浴室相拥",
       "onboard_time": 1676648969,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 187504,
-      "num": 147273,
-      "word": "镇魂",
-      "onboard_time": 1676701347,
-      "rank": 43,
       "category": "影视"
     },
     {
@@ -1137,6 +1145,14 @@
       "onboard_time": 1676697750,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172872,
+      "num": 172872,
+      "word": "小学生投3万元压岁钱理财",
+      "onboard_time": 1676701828,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172116,
