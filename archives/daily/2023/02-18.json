@@ -1,7 +1,15 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676690381126,
+  "endTime": 1676691220097,
   "band_list": [
+    {
+      "raw_hot": 3012436,
+      "num": 3012436,
+      "word": "北大宿舍聊天 上野千鹤子",
+      "onboard_time": 1676686285,
+      "rank": 0,
+      "category": "网红,情感"
+    },
     {
       "raw_hot": 2893078,
       "num": 2893078,
@@ -9,14 +17,6 @@
       "onboard_time": 1676648791,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2796671,
-      "num": 2796671,
-      "word": "北大宿舍聊天 上野千鹤子",
-      "onboard_time": 1676686285,
-      "rank": 0,
-      "category": "网红,情感"
     },
     {
       "raw_hot": 2141809,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1804200,
+      "num": 1804200,
+      "word": "皓衣行",
+      "onboard_time": 1676690370,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1700112,
       "num": 1700112,
       "word": "艾薇儿回答是否参加浪姐",
@@ -59,12 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1376965,
-      "num": 1376965,
+      "raw_hot": 1522278,
+      "num": 1522278,
       "word": "张新成造型",
       "onboard_time": 1676688928,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1456811,
+      "num": 375800,
+      "word": "费渡",
+      "onboard_time": 1676690429,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 1375194,
@@ -123,16 +139,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 983955,
-      "num": 983955,
-      "word": "皓衣行",
-      "onboard_time": 1676690370,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 931606,
-      "num": 931606,
+      "raw_hot": 959542,
+      "num": 959542,
       "word": "小孩那桌也上不了了",
       "onboard_time": 1676687068,
       "rank": 12,
@@ -153,6 +161,14 @@
       "onboard_time": 1676681666,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 870027,
+      "num": 870027,
+      "word": "初婚年龄推迟意味着什么",
+      "onboard_time": 1676689647,
+      "rank": 16,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 852875,
@@ -275,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488928,
+      "num": 488928,
+      "word": "女孩因学习压力大反锁房门昏迷",
+      "onboard_time": 1676688629,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 487908,
       "num": 487908,
       "word": "黄冈威马工厂几乎成空城",
@@ -315,28 +339,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 425380,
-      "num": 425380,
-      "word": "初婚年龄推迟意味着什么",
-      "onboard_time": 1676689647,
-      "rank": 16,
-      "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 419897,
-      "num": 419897,
-      "word": "女孩因学习压力大反锁房门昏迷",
-      "onboard_time": 1676688629,
-      "rank": 46,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 410253,
       "num": 410253,
       "word": "云南80后女局长段颖被双开",
       "onboard_time": 1676631211,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405075,
+      "num": 405075,
+      "word": "欧豪满江红出演反派的理由",
+      "onboard_time": 1676689769,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 393994,
@@ -355,20 +371,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 388320,
+      "num": 388320,
+      "word": "蔡文静cos水仙花神",
+      "onboard_time": 1676690789,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381775,
       "num": 381775,
       "word": "强震已致土耳其超3.9万人遇难",
       "onboard_time": 1676687908,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 372022,
-      "num": 372022,
-      "word": "欧豪满江红出演反派的理由",
-      "onboard_time": 1676689769,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 353999,
@@ -425,6 +441,14 @@
       "onboard_time": 1676688085,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317632,
+      "num": 317632,
+      "word": "朱志鑫演的冯彬",
+      "onboard_time": 1676690907,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 311261,
@@ -603,12 +627,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209315,
-      "num": 209315,
+      "raw_hot": 213275,
+      "num": 213275,
       "word": "王曼昱3比0韩菲儿",
       "onboard_time": 1676689228,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209616,
+      "num": 209616,
+      "word": "法院悬赏百万看到这4个人请举报",
+      "onboard_time": 1676690547,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203929,
@@ -867,6 +899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 117436,
+      "num": 1657508,
+      "word": "用RAP方式打开中国县城",
+      "onboard_time": 1676689829,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109315,
       "num": 1533431,
       "word": "中国人第一次从太空遥望地球的影像",
@@ -905,14 +945,6 @@
       "onboard_time": 1676640692,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87692,
-      "num": 1371332,
-      "word": "用RAP方式打开中国县城",
-      "onboard_time": 1676689829,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53886,

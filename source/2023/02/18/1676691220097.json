@@ -1,0 +1,410 @@
+{
+  "runTime": 1676691220097,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3012436,
+        "num": 3012436,
+        "word": "北大宿舍聊天 上野千鹤子",
+        "onboard_time": 1676686285,
+        "rank": 0,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 1804200,
+        "num": 1804200,
+        "word": "皓衣行",
+        "onboard_time": 1676690370,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117436,
+        "num": 1657508,
+        "word": "用RAP方式打开中国县城",
+        "onboard_time": 1676689829,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1522278,
+        "num": 1522278,
+        "word": "张新成造型",
+        "onboard_time": 1676688928,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1223282,
+        "num": 1223282,
+        "word": "艾薇儿否认参加浪姐",
+        "onboard_time": 1676680645,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1186069,
+        "num": 1186069,
+        "word": "如果不缴纳五险一金会怎样",
+        "onboard_time": 1676648791,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104956,
+        "num": 1104956,
+        "word": "教授称年轻人没精力生那么多孩子",
+        "onboard_time": 1676683288,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1095061,
+        "num": 1095061,
+        "word": "长期久坐容易形成血栓",
+        "onboard_time": 1676684967,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018261,
+        "num": 1018261,
+        "word": "光渊空降",
+        "onboard_time": 1676687546,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 959542,
+        "num": 959542,
+        "word": "小孩那桌也上不了了",
+        "onboard_time": 1676687068,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 901542,
+        "num": 901542,
+        "word": "对涉毒艺人是否应该终身禁止复出",
+        "onboard_time": 1676684369,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 870027,
+        "num": 870027,
+        "word": "初婚年龄推迟意味着什么",
+        "onboard_time": 1676689647,
+        "rank": 11,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 697775,
+        "num": 697775,
+        "word": "光渊",
+        "onboard_time": 1676686467,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534670,
+        "num": 534670,
+        "word": "云南2失联男孩遗体在水库被发现",
+        "onboard_time": 1676681249,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 488928,
+        "num": 488928,
+        "word": "女孩因学习压力大反锁房门昏迷",
+        "onboard_time": 1676688629,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 405075,
+        "num": 405075,
+        "word": "欧豪满江红出演反派的理由",
+        "onboard_time": 1676689769,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402960,
+        "num": 402960,
+        "word": "土家族姑娘出嫁前要背4本哭嫁词",
+        "onboard_time": 1676684788,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388320,
+        "num": 388320,
+        "word": "蔡文静cos水仙花神",
+        "onboard_time": 1676690789,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382100,
+        "num": 382100,
+        "word": "XBB.1.5免疫逃逸能力增强",
+        "onboard_time": 1676682927,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375984,
+        "num": 375984,
+        "word": "吴磊赵今麦捧脸拥抱路透",
+        "onboard_time": 1676681908,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1456811,
+        "num": 375800,
+        "word": "费渡",
+        "onboard_time": 1676690429,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368328,
+        "num": 368328,
+        "word": "金希澈 泡泡",
+        "onboard_time": 1676676079,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366218,
+        "num": 366218,
+        "word": "李成洙要求李秀满下跪道歉",
+        "onboard_time": 1676676140,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358603,
+        "num": 358603,
+        "word": "强震已致土耳其超3.9万人遇难",
+        "onboard_time": 1676687908,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317632,
+        "num": 317632,
+        "word": "朱志鑫演的冯彬",
+        "onboard_time": 1676690907,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309209,
+        "num": 309209,
+        "word": "湖北初婚年龄突破30岁",
+        "onboard_time": 1676681666,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273174,
+        "num": 273174,
+        "word": "如何看待一些年轻人抗拒生育",
+        "onboard_time": 1676688085,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260701,
+        "num": 260701,
+        "word": "大学生谈恋爱要不要AA制",
+        "onboard_time": 1676660714,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247917,
+        "num": 247917,
+        "word": "为什么要把高启强塑造得有血有肉",
+        "onboard_time": 1676677102,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242858,
+        "num": 242858,
+        "word": "光渊 科幻片",
+        "onboard_time": 1676689106,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234928,
+        "num": 234928,
+        "word": "切菜时手指受伤乱包扎被截指",
+        "onboard_time": 1676682568,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213275,
+        "num": 213275,
+        "word": "王曼昱3比0韩菲儿",
+        "onboard_time": 1676689228,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209616,
+        "num": 209616,
+        "word": "法院悬赏百万看到这4个人请举报",
+        "onboard_time": 1676690547,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199515,
+        "num": 199515,
+        "word": "巴黎偶遇金敏喜",
+        "onboard_time": 1676680525,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198576,
+        "num": 198576,
+        "word": "中国空间站只有3套舱外航天服",
+        "onboard_time": 1676681666,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 196995,
+        "num": 196995,
+        "word": "黄冈威马工厂几乎成空城",
+        "onboard_time": 1676679985,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170280,
+        "num": 170280,
+        "word": "特斯拉回应追尾公交致1死1伤",
+        "onboard_time": 1676646272,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 165725,
+        "num": 165725,
+        "word": "爬完泰山全都老实了",
+        "onboard_time": 1676651246,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160494,
+        "num": 160494,
+        "word": "蚁人3票房破5000万",
+        "onboard_time": 1676685026,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155762,
+        "num": 155762,
+        "word": "2023篮球名人堂最终候选名单",
+        "onboard_time": 1676682388,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155317,
+        "num": 155317,
+        "word": "爸爸给女儿做40米冰滑梯4天就化了",
+        "onboard_time": 1676654898,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141245,
+        "num": 141245,
+        "word": "美环保部长拒喝列车脱轨事发地自来水",
+        "onboard_time": 1676678184,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139068,
+        "num": 139068,
+        "word": "蜜雪冰城没关音响扰民一宿居民报警",
+        "onboard_time": 1676653880,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128970,
+        "num": 128970,
+        "word": "赖美云模仿疯驴子",
+        "onboard_time": 1676675058,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128814,
+        "num": 128814,
+        "word": "林俊杰西雅图世界巡回演唱会vlog",
+        "onboard_time": 1676688028,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126860,
+        "num": 126860,
+        "word": "1岁多娃爱甜食61斤疑患库欣综合征",
+        "onboard_time": 1676647471,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114901,
+        "num": 114901,
+        "word": "村民以为杨紫是拍搞笑视频的",
+        "onboard_time": 1676647171,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113362,
+        "num": 113362,
+        "word": "cpsp排队",
+        "onboard_time": 1676683708,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 110284,
+        "num": 110284,
+        "word": "安永女员工实名举报被高管性骚扰",
+        "onboard_time": 1676642309,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107570,
+        "num": 107570,
+        "word": "杨迪模仿沙溢流浪地球2的表演",
+        "onboard_time": 1676688264,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国上下同向奔赴阔步向前#"
+    }
+  }
+}
