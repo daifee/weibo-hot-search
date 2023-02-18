@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676688329096,
+  "endTime": 1676688928319,
   "band_list": [
     {
       "raw_hot": 2893078,
@@ -9,6 +9,14 @@
       "onboard_time": 1676648791,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2490313,
+      "num": 2490313,
+      "word": "北大宿舍聊天 上野千鹤子",
+      "onboard_time": 1676686285,
+      "rank": 0,
+      "category": "网红,情感"
     },
     {
       "raw_hot": 2141809,
@@ -35,14 +43,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1813858,
-      "num": 1813858,
-      "word": "北大宿舍聊天 上野千鹤子",
-      "onboard_time": 1676686285,
-      "rank": 0,
-      "category": "网红,情感"
-    },
-    {
       "raw_hot": 1700112,
       "num": 1700112,
       "word": "艾薇儿回答是否参加浪姐",
@@ -51,20 +51,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1325600,
-      "num": 1325600,
+      "raw_hot": 1629082,
+      "num": 1629082,
       "word": "教授称年轻人没精力生那么多孩子",
       "onboard_time": 1676683288,
       "rank": 6,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1217080,
-      "num": 1217080,
+      "raw_hot": 1375194,
+      "num": 1375194,
       "word": "对涉毒艺人是否应该终身禁止复出",
       "onboard_time": 1676684369,
       "rank": 6,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1295653,
+      "num": 1295653,
+      "word": "光渊空降",
+      "onboard_time": 1676687546,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1213866,
@@ -73,6 +81,14 @@
       "onboard_time": 1676648251,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1206222,
+      "num": 1206222,
+      "word": "长期久坐容易形成血栓",
+      "onboard_time": 1676684967,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1140438,
@@ -99,14 +115,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1017671,
-      "num": 1017671,
-      "word": "长期久坐容易形成血栓",
-      "onboard_time": 1676684967,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 904926,
       "num": 904926,
       "word": "村民以为杨紫是拍搞笑视频的",
@@ -131,11 +139,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 758165,
-      "num": 758165,
-      "word": "光渊空降",
-      "onboard_time": 1676687546,
-      "rank": 7,
+      "raw_hot": 775570,
+      "num": 775570,
+      "word": "光渊",
+      "onboard_time": 1676686467,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -153,6 +161,14 @@
       "onboard_time": 1676677102,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 688679,
+      "num": 650857,
+      "word": "小孩那桌也上不了了",
+      "onboard_time": 1676687068,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 637196,
@@ -235,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535513,
-      "num": 535513,
-      "word": "小孩那桌也上不了了",
-      "onboard_time": 1676687068,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 526409,
       "num": 526409,
       "word": "金希澈 泡泡",
@@ -281,14 +289,6 @@
       "onboard_time": 1676651246,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 444429,
-      "num": 444429,
-      "word": "光渊",
-      "onboard_time": 1676686467,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 432667,
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275913,
+      "num": 275913,
+      "word": "强震已致土耳其超3.9万人遇难",
+      "onboard_time": 1676687908,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272667,
       "num": 272667,
       "word": "渔民出海偶遇100多只海豚逐浪嬉戏",
@@ -433,6 +441,14 @@
       "onboard_time": 1676684307,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 258168,
+      "num": 258168,
+      "word": "如何看待一些年轻人抗拒生育",
+      "onboard_time": 1676688085,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253514,
@@ -539,8 +555,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 200116,
-      "num": 200116,
+      "raw_hot": 201282,
+      "num": 201282,
       "word": "蚁人3票房破5000万",
       "onboard_time": 1676685026,
       "rank": 38,
@@ -552,6 +568,14 @@
       "word": "张杰重现狂飙名场面",
       "onboard_time": 1676642011,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196360,
+      "num": 196360,
+      "word": "杨迪模仿沙溢流浪地球2的表演",
+      "onboard_time": 1676688264,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -592,14 +616,6 @@
       "word": "小穿山甲和妈妈的有爱日常",
       "onboard_time": 1676686827,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183975,
-      "num": 183975,
-      "word": "强震已致土耳其超3.9万人遇难",
-      "onboard_time": 1676687908,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -763,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146655,
-      "num": 146655,
-      "word": "如何看待一些年轻人抗拒生育",
-      "onboard_time": 1676688085,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130816,
       "num": 130816,
       "word": "C罗助攻梅开二度",
@@ -795,12 +803,12 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 121479,
-      "num": 121479,
-      "word": "杨迪模仿沙溢流浪地球2的表演",
-      "onboard_time": 1676688264,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 124824,
+      "num": 124824,
+      "word": "女孩因学习压力大反锁房门昏迷",
+      "onboard_time": 1676688629,
+      "rank": 46,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 118142,
@@ -812,7 +820,7 @@
     },
     {
       "raw_hot": 109315,
-      "num": 1479599,
+      "num": 1533431,
       "word": "中国人第一次从太空遥望地球的影像",
       "onboard_time": 1676630193,
       "rank": 2,
