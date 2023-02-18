@@ -1,6 +1,6 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676738538532,
+  "endTime": 1676740577609,
   "band_list": [
     {
       "raw_hot": 1975119,
@@ -11,20 +11,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1930683,
+      "num": 1930683,
+      "word": "香港大学宣布禁用ChatGPT",
+      "onboard_time": 1676736818,
+      "rank": 13,
+      "category": "教育,科技"
+    },
+    {
       "raw_hot": 1583530,
       "num": 1583530,
       "word": "哺乳期女子点外卖骑手提醒不卫生",
       "onboard_time": 1676734053,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1434639,
-      "num": 1434639,
-      "word": "香港大学宣布禁用ChatGPT",
-      "onboard_time": 1676736818,
-      "rank": 13,
-      "category": "教育,科技"
     },
     {
       "raw_hot": 1050391,
@@ -75,6 +75,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 679767,
+      "num": 679767,
+      "word": "美甲最好隔20天左右就卸除",
+      "onboard_time": 1676737406,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677927,
       "num": 677927,
       "word": "闫妮好疯 我好喜欢",
@@ -107,20 +115,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 529183,
+      "num": 529183,
+      "word": "你好星期六下期有韩庚于文文",
+      "onboard_time": 1676737826,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 519410,
+      "num": 519410,
+      "word": "独居后才知道生活常识",
+      "onboard_time": 1676736631,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 454972,
       "num": 454972,
       "word": "姜涩琪不能跳HypeBoy的理由",
       "onboard_time": 1676731954,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 442688,
-      "num": 442688,
-      "word": "独居后才知道生活常识",
-      "onboard_time": 1676736631,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 350085,
@@ -139,27 +155,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 310597,
-      "num": 310597,
-      "word": "美甲最好隔20天左右就卸除",
-      "onboard_time": 1676737406,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301770,
       "num": 301770,
       "word": "种地吧10个人搬了30吨化肥",
       "onboard_time": 1676733152,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 296632,
-      "num": 296632,
-      "word": "你好星期六下期有韩庚于文文",
-      "onboard_time": 1676737826,
-      "rank": 17,
       "category": "综艺"
     },
     {
@@ -185,6 +185,14 @@
       "onboard_time": 1676732973,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 257915,
+      "num": 257915,
+      "word": "切尔西vs南安普顿",
+      "onboard_time": 1676734593,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 250028,
@@ -251,14 +259,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 188041,
-      "num": 188041,
-      "word": "切尔西vs南安普顿",
-      "onboard_time": 1676734593,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187681,
       "num": 187681,
       "word": "新疆男篮或退出本赛季CBA剩余比赛",
@@ -297,6 +297,14 @@
       "onboard_time": 1676720131,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159726,
+      "num": 159726,
+      "word": "华晨宇你好星期六新歌直拍",
+      "onboard_time": 1676740101,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 155755,
@@ -411,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93855,
+      "num": 93855,
+      "word": "成毅莲花楼红衣吊威亚路透视频",
+      "onboard_time": 1676738724,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 87563,
       "num": 87563,
       "word": "首例5G超远程机器人肝胆手术成功",
@@ -433,6 +449,9 @@
     },
     {
       "word": "#强大的政党是在自我革命中锻造出来的#"
+    },
+    {
+      "word": "#促发展需要做好精准文章#"
     }
   ]
 }

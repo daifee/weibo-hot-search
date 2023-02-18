@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/01 00:26:13 ~ 2023/02/19 00:42:18
+本榜单时间：2023/02/01 00:26:13 ~ 2023/02/19 01:16:17
 </p>
 </blockquote>
 <p>
@@ -1323,6 +1323,12 @@ A股（热度：1931638）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E5%AE%A3%E5%B8%83%E7%A6%81%E7%94%A8ChatGPT%23" target="weibo">
+香港大学宣布禁用ChatGPT（热度：1930683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E9%B1%BC%23" target="weibo">
 人鱼（热度：1927547）
 </a>
@@ -2339,12 +2345,6 @@ Lisa购买75亿韩元住宅（热度：1497413）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%B5%84%E4%B8%8D%E9%AB%98%E4%BD%86%E6%83%B3%E7%95%99%E4%B8%8B%E6%9D%A5%E7%9A%84%E5%9F%8E%E5%B8%82%23" target="weibo">
 工资不高但想留下来的城市（热度：1436218）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E5%AE%A3%E5%B8%83%E7%A6%81%E7%94%A8ChatGPT%23" target="weibo">
-香港大学宣布禁用ChatGPT（热度：1434639）
 </a>
 </li>
 

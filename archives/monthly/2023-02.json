@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676738538532,
+  "endTime": 1676740577609,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1747,6 +1747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1930683,
+      "num": 1930683,
+      "word": "香港大学宣布禁用ChatGPT",
+      "onboard_time": 1676736818,
+      "rank": 13,
+      "category": "教育,科技"
+    },
+    {
       "raw_hot": 1927547,
       "num": 1927547,
       "word": "人鱼",
@@ -3105,14 +3113,6 @@
       "onboard_time": 1675600532,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1434639,
-      "num": 1434639,
-      "word": "香港大学宣布禁用ChatGPT",
-      "onboard_time": 1676736818,
-      "rank": 13,
-      "category": "教育,科技"
     },
     {
       "raw_hot": 1433345,
@@ -10275,6 +10275,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 679767,
+      "num": 679767,
+      "word": "美甲最好隔20天左右就卸除",
+      "onboard_time": 1676737406,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679248,
       "num": 679248,
       "word": "19岁男孩患阿尔兹海默症",
@@ -13947,6 +13955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 529183,
+      "num": 529183,
+      "word": "你好星期六下期有韩庚于文文",
+      "onboard_time": 1676737826,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 528906,
       "num": 528906,
       "word": "P图可以冷门但不可以邪门",
@@ -14313,6 +14329,14 @@
       "onboard_time": 1675484007,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 519410,
+      "num": 519410,
+      "word": "独居后才知道生活常识",
+      "onboard_time": 1676736631,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 519165,
@@ -16817,14 +16841,6 @@
       "onboard_time": 1676477546,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 442688,
-      "num": 442688,
-      "word": "独居后才知道生活常识",
-      "onboard_time": 1676736631,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 442112,
@@ -23219,14 +23235,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 310597,
-      "num": 310597,
-      "word": "美甲最好隔20天左右就卸除",
-      "onboard_time": 1676737406,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310551,
       "num": 310551,
       "word": "俄亥俄州官方称居民应只使用瓶装水",
@@ -24121,14 +24129,6 @@
       "onboard_time": 1675581387,
       "rank": 20,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 296632,
-      "num": 296632,
-      "word": "你好星期六下期有韩庚于文文",
-      "onboard_time": 1676737826,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 296618,
@@ -27105,6 +27105,14 @@
       "onboard_time": 1675568368,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257915,
+      "num": 257915,
+      "word": "切尔西vs南安普顿",
+      "onboard_time": 1676734593,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 257782,
@@ -33227,14 +33235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188041,
-      "num": 188041,
-      "word": "切尔西vs南安普顿",
-      "onboard_time": 1676734593,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187904,
       "num": 187904,
       "word": "想见你王诠胜内地限定番外蓝色心愿",
@@ -36667,6 +36667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159726,
+      "num": 159726,
+      "word": "华晨宇你好星期六新歌直拍",
+      "onboard_time": 1676740101,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159617,
       "num": 159617,
       "word": "星际争霸2",
@@ -40025,6 +40033,14 @@
       "onboard_time": 1675726041,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 93855,
+      "num": 93855,
+      "word": "成毅莲花楼红衣吊威亚路透视频",
+      "onboard_time": 1676738724,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 93722,
