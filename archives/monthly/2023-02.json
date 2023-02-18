@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676676816812,
+  "endTime": 1676684344765,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1676296014,
       "rank": 3,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2141809,
+      "num": 2141809,
+      "word": "艾薇儿否认参加浪姐",
+      "onboard_time": 1676680645,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2140749,
@@ -4307,6 +4315,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1140438,
+      "num": 1140438,
+      "word": "吴磊赵今麦捧脸拥抱路透",
+      "onboard_time": 1676681908,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1140249,
       "num": 1140249,
       "word": "泰国夜市偶遇鞠婧祎",
@@ -4873,6 +4889,14 @@
       "onboard_time": 1675817910,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1072151,
+      "num": 1072151,
+      "word": "云南2失联男孩遗体在水库被发现",
+      "onboard_time": 1676681249,
+      "rank": 4,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1069189,
@@ -6843,6 +6867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 858772,
+      "num": 858772,
+      "word": "湖北初婚年龄突破30岁",
+      "onboard_time": 1676681666,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 858713,
       "num": 662581,
       "word": "女子收房发现门外1米是公厕",
@@ -7001,6 +7033,14 @@
       "onboard_time": 1675683327,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 843689,
+      "num": 843689,
+      "word": "教授称年轻人没精力生那么多孩子",
+      "onboard_time": 1676683288,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 843408,
@@ -7889,6 +7929,14 @@
       "onboard_time": 1675871610,
       "rank": 10,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 778426,
+      "num": 578662,
+      "word": "XBB.1.5免疫逃逸能力增强",
+      "onboard_time": 1676682927,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 778406,
@@ -8801,6 +8849,14 @@
       "onboard_time": 1675905208,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 722403,
+      "num": 722403,
+      "word": "为什么要把高启强塑造得有血有肉",
+      "onboard_time": 1676677102,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 721662,
@@ -11699,6 +11755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 583431,
+      "num": 583431,
+      "word": "蜜雪冰城没关音响扰民一宿居民报警",
+      "onboard_time": 1676653880,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583220,
       "num": 583220,
       "word": "陈星旭原声",
@@ -11777,6 +11841,14 @@
       "onboard_time": 1675758990,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 580084,
+      "num": 580084,
+      "word": "李成洙要求李秀满下跪道歉",
+      "onboard_time": 1676676140,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 579462,
@@ -12035,6 +12107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571351,
+      "num": 571351,
+      "word": "大学生谈恋爱要不要AA制",
+      "onboard_time": 1676660714,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 571345,
       "num": 571345,
       "word": "马伊琍说自己谈恋爱很上头",
@@ -12097,6 +12177,14 @@
       "onboard_time": 1676340450,
       "rank": 12,
       "category": "科技"
+    },
+    {
+      "raw_hot": 567739,
+      "num": 567739,
+      "word": "切菜时手指受伤乱包扎被截指",
+      "onboard_time": 1676682568,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567475,
@@ -13227,6 +13315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 526409,
+      "num": 526409,
+      "word": "金希澈 泡泡",
+      "onboard_time": 1676676079,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 525973,
       "num": 525973,
       "word": "美俄亥俄州官员承认污染物流入俄亥俄河",
@@ -13248,14 +13344,6 @@
       "word": "日本樱岛火山复活火山灰喷至千米高",
       "onboard_time": 1675942229,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 525872,
-      "num": 525872,
-      "word": "蜜雪冰城没关音响扰民一宿居民报警",
-      "onboard_time": 1676653880,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -14475,6 +14563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 487908,
+      "num": 487908,
+      "word": "黄冈威马工厂几乎成空城",
+      "onboard_time": 1676679985,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 487466,
       "num": 487466,
       "word": "湖人新三巨头合砍70分",
@@ -15057,6 +15153,14 @@
       "onboard_time": 1676289707,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 467543,
+      "num": 467543,
+      "word": "美环保部长拒喝列车脱轨事发地自来水",
+      "onboard_time": 1676678184,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467323,
@@ -16305,6 +16409,14 @@
       "onboard_time": 1676339372,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 432667,
+      "num": 432667,
+      "word": "巴黎偶遇金敏喜",
+      "onboard_time": 1676680525,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 432651,
@@ -18355,6 +18467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 386602,
+      "num": 386602,
+      "word": "中国空间站只有3套舱外航天服",
+      "onboard_time": 1676681666,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 386579,
       "num": 386579,
       "word": "河南新设立九所高校",
@@ -20339,14 +20459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 340493,
-      "num": 340493,
-      "word": "李成洙要求李秀满下跪道歉",
-      "onboard_time": 1676676140,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 340396,
       "num": 340396,
       "word": "父母患阿尔茨海默病儿子假装邻居陪护",
@@ -21025,6 +21137,14 @@
       "onboard_time": 1676216132,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 326330,
+      "num": 326330,
+      "word": "爸爸给女儿做40米冰滑梯4天就化了",
+      "onboard_time": 1676654898,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326245,
@@ -21931,6 +22051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311261,
+      "num": 311261,
+      "word": "cpsp排队",
+      "onboard_time": 1676683708,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 311211,
       "num": 311211,
       "word": "井柏然片场踹一脚宋威龙还一拳",
@@ -22321,6 +22449,14 @@
       "onboard_time": 1676022992,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304611,
+      "num": 304611,
+      "word": "美俄州有毒气体会不会影响我国",
+      "onboard_time": 1676679084,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304396,
@@ -23635,14 +23771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285423,
-      "num": 285423,
-      "word": "大学生谈恋爱要不要AA制",
-      "onboard_time": 1676660714,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 285345,
       "num": 285345,
       "word": "BLG对战WE",
@@ -23745,6 +23873,14 @@
       "onboard_time": 1675247913,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283908,
+      "num": 283908,
+      "word": "2023篮球名人堂最终候选名单",
+      "onboard_time": 1676682388,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 283575,
@@ -24313,14 +24449,6 @@
       "onboard_time": 1676365295,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 276056,
-      "num": 276056,
-      "word": "金希澈 泡泡",
-      "onboard_time": 1676676079,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 276018,
@@ -25963,6 +26091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253514,
+      "num": 253514,
+      "word": "车辆爆燃前00后小伙拽出昏迷司机",
+      "onboard_time": 1676680346,
+      "rank": 27,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 253489,
       "num": 253489,
       "word": "徐若晗对言承旭说记住你了",
@@ -26393,6 +26529,14 @@
       "onboard_time": 1676464651,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247493,
+      "num": 247493,
+      "word": "小鬼 花好月圆夜",
+      "onboard_time": 1676679444,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 247442,
@@ -29099,6 +29243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211734,
+      "num": 211734,
+      "word": "赖美云模仿疯驴子",
+      "onboard_time": 1676675058,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211614,
       "num": 211614,
       "word": "这狗狗怎么全程黑脸",
@@ -30491,14 +30643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196169,
-      "num": 196169,
-      "word": "爸爸给女儿做40米冰滑梯4天就化了",
-      "onboard_time": 1676654898,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196136,
       "num": 196136,
       "word": "阿杜唱的坚持到底真是回忆杀了",
@@ -31081,6 +31225,14 @@
       "onboard_time": 1675466417,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191530,
+      "num": 191530,
+      "word": "哪些地方对中国游客免签落地签",
+      "onboard_time": 1676679207,
+      "rank": 34,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 191477,
@@ -32737,6 +32889,14 @@
       "onboard_time": 1675318113,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178002,
+      "num": 178002,
+      "word": "美脱轨车厢闯进居民后院至今没人管",
+      "onboard_time": 1676682867,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177961,
@@ -34683,6 +34843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161263,
+      "num": 161263,
+      "word": "京海中年男子派对",
+      "onboard_time": 1676681964,
+      "rank": 38,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 161231,
       "num": 161231,
       "word": "胡锡进谈ChatGPT",
@@ -35185,6 +35353,14 @@
       "onboard_time": 1675487547,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155322,
+      "num": 155322,
+      "word": "张大大问助理自己和王嘉尔谁帅",
+      "onboard_time": 1676664016,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 155189,
@@ -36571,14 +36747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135899,
-      "num": 135899,
-      "word": "张大大问助理自己和王嘉尔谁帅",
-      "onboard_time": 1676664016,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135896,
       "num": 135896,
       "word": "这猫像极了不爱上班的我",
@@ -36955,6 +37123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130816,
+      "num": 130816,
+      "word": "C罗助攻梅开二度",
+      "onboard_time": 1676676500,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130814,
       "num": 130814,
       "word": "实习时工资低还要考虑吗",
@@ -37097,6 +37273,14 @@
       "onboard_time": 1676251826,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127380,
+      "num": 127380,
+      "word": "王冰冰跟赵继伟学打篮球",
+      "onboard_time": 1676659335,
+      "rank": 14,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 127056,
@@ -37441,6 +37625,14 @@
       "onboard_time": 1676623116,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 118142,
+      "num": 118142,
+      "word": "骚姆现场",
+      "onboard_time": 1676681127,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 118138,
@@ -38035,19 +38227,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93608,
-      "num": 93608,
-      "word": "王冰冰跟赵继伟学打篮球",
-      "onboard_time": 1676659335,
-      "rank": 14,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 93595,
       "num": 93595,
       "word": "于正兰舟引不是改编自将进酒",
       "onboard_time": 1676566520,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 93397,
+      "num": 93397,
+      "word": "宁至谦阮流筝终于和好了",
+      "onboard_time": 1676653701,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -38067,14 +38259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91972,
-      "num": 91972,
-      "word": "赖美云模仿疯驴子",
-      "onboard_time": 1676675058,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 91678,
       "num": 91678,
       "word": "这猫好像打了补丁",
@@ -38089,6 +38273,14 @@
       "onboard_time": 1675405166,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90762,
+      "num": 90762,
+      "word": "中美关系不应因流浪气球随风逐流",
+      "onboard_time": 1676684307,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 90508,
@@ -38176,14 +38368,6 @@
       "word": "狂飙大结局预告",
       "onboard_time": 1675169797,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 86058,
-      "num": 86058,
-      "word": "宁至谦阮流筝终于和好了",
-      "onboard_time": 1676653701,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -38313,14 +38497,6 @@
       "onboard_time": 1675785508,
       "rank": 49,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 78953,
-      "num": 78953,
-      "word": "C罗助攻梅开二度",
-      "onboard_time": 1676676500,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 78798,
