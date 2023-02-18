@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676730807464,
+  "endTime": 1676733489912,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -2123,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1004084,
+      "num": 806420,
+      "word": "无毛猫被前主人纹身打耳环",
+      "onboard_time": 1676731290,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1002772,
       "num": 1002772,
       "word": "张颂文曾指导王一博演至尊宝",
@@ -2499,6 +2507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 874804,
+      "num": 874804,
+      "word": "姜涩琪不能跳HypeBoy的理由",
+      "onboard_time": 1676731954,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 874644,
       "num": 874644,
       "word": "睡觉早更好还是睡觉晚更好",
@@ -2625,6 +2641,14 @@
       "onboard_time": 1676726970,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 845902,
+      "num": 845902,
+      "word": "傲寒",
+      "onboard_time": 1676731112,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 844463,
@@ -4539,6 +4563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 562489,
+      "num": 562489,
+      "word": "林家川回应狂飙拍摄地收费",
+      "onboard_time": 1676731531,
+      "rank": 12,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 560806,
       "num": 560806,
       "word": "阿里客服称商家肯定看不到购物车信息",
@@ -5169,6 +5201,14 @@
       "onboard_time": 1676346037,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497731,
+      "num": 497731,
+      "word": "无畏镜杀疯了",
+      "onboard_time": 1676732432,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 497597,
@@ -6331,6 +6371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 416771,
+      "num": 416771,
+      "word": "徐明浩金珉奎获奖reaction",
+      "onboard_time": 1676732973,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 416634,
       "num": 416634,
       "word": "工作太久都不会说人话了",
@@ -6883,6 +6931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380551,
+      "num": 380551,
+      "word": "众星给黄明昊录制生日祝福VCR",
+      "onboard_time": 1676733396,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380392,
       "num": 380392,
       "word": "王力宏方回应被冻结901万",
@@ -7057,6 +7113,14 @@
       "onboard_time": 1676344655,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 373749,
+      "num": 373749,
+      "word": "玄商接吻引发天气异象",
+      "onboard_time": 1676731831,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 371224,
@@ -7923,6 +7987,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 316563,
+      "num": 316563,
+      "word": "阿斯顿维拉2比4阿森纳",
+      "onboard_time": 1676731352,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 316553,
       "num": 316553,
       "word": "今天拍到爱情了",
@@ -8121,6 +8193,14 @@
       "onboard_time": 1676365653,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 306125,
+      "num": 306125,
+      "word": "当你误发消息给妈妈",
+      "onboard_time": 1676730694,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 306044,
@@ -9025,6 +9105,14 @@
       "onboard_time": 1676289959,
       "rank": 29,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 267684,
+      "num": 267684,
+      "word": "黄小蕾张天爱澳门disco",
+      "onboard_time": 1676732494,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 267601,
@@ -10267,6 +10355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219160,
+      "num": 219160,
+      "word": "种地吧10个人搬了30吨化肥",
+      "onboard_time": 1676733152,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219113,
       "num": 219113,
       "word": "以为主人被欺负的小狗",
@@ -10593,6 +10689,14 @@
       "onboard_time": 1676344952,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207233,
+      "num": 207233,
+      "word": "TheShy奎桑提",
+      "onboard_time": 1676733275,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 206913,
@@ -11451,6 +11555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184533,
+      "num": 184533,
+      "word": "若日尼奥绝杀",
+      "onboard_time": 1676732853,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184165,
       "num": 184165,
       "word": "美国密歇根州立大学发生枪击事件",
@@ -12057,6 +12169,14 @@
       "onboard_time": 1676287488,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167265,
+      "num": 167265,
+      "word": "柯哀",
+      "onboard_time": 1676733451,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 167093,
@@ -12729,14 +12849,6 @@
       "onboard_time": 1676282438,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137952,
-      "num": 137952,
-      "word": "当你误发消息给妈妈",
-      "onboard_time": 1676730694,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 137927,
