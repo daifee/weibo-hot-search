@@ -1,0 +1,410 @@
+{
+  "runTime": 1676705602323,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2782444,
+        "num": 2782444,
+        "word": "沈巍",
+        "onboard_time": 1676698050,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1741421,
+        "num": 1741421,
+        "word": "北大宿舍聊天 上野千鹤子",
+        "onboard_time": 1676686285,
+        "rank": 1,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 79188,
+        "num": 1547231,
+        "word": "用RAP方式打开中国县城",
+        "onboard_time": 1676689829,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1532696,
+        "num": 1532696,
+        "word": "镇魂",
+        "onboard_time": 1676701347,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1353271,
+        "num": 1353271,
+        "word": "家里的布洛芬连花清瘟们何去何从",
+        "onboard_time": 1676693848,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1134216,
+        "num": 1134216,
+        "word": "张颂文的农家院",
+        "onboard_time": 1676701407,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1119494,
+        "num": 1119494,
+        "word": "迪丽热巴最新怼脸大片",
+        "onboard_time": 1676703868,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 802323,
+        "num": 802323,
+        "word": "菲律宾一架飞机早上起飞后失联",
+        "onboard_time": 1676699667,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691832,
+        "num": 691832,
+        "word": "小学生投3万元压岁钱理财",
+        "onboard_time": 1676701828,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594034,
+        "num": 594034,
+        "word": "警方回应狂飙拍摄地旧厂街拍照收费",
+        "onboard_time": 1676697268,
+        "rank": 9,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 801451,
+        "num": 591917,
+        "word": "中国乒乓票房",
+        "onboard_time": 1676703325,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 701110,
+        "num": 588807,
+        "word": "左肩有你",
+        "onboard_time": 1676691567,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 649073,
+        "num": 587804,
+        "word": "付辛博抬头纹",
+        "onboard_time": 1676692107,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 585361,
+        "num": 585361,
+        "word": "一生未婚的爷爷离世捐出角膜救人",
+        "onboard_time": 1676699128,
+        "rank": 13,
+        "category": "社会正能量,情感"
+      },
+      {
+        "raw_hot": 448480,
+        "num": 448480,
+        "word": "去世侏儒抹香鲸胃内有大量塑料",
+        "onboard_time": 1676693308,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454998,
+        "num": 448235,
+        "word": "光渊",
+        "onboard_time": 1676686467,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421346,
+        "num": 421346,
+        "word": "东北插班生衍生真人秀",
+        "onboard_time": 1676703808,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388254,
+        "num": 388254,
+        "word": "骗子调包4万名表嫁祸快递小哥",
+        "onboard_time": 1676702488,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371066,
+        "num": 371066,
+        "word": "日本789万老人还在打零工",
+        "onboard_time": 1676694390,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357400,
+        "num": 357400,
+        "word": "苏乞儿道歉",
+        "onboard_time": 1676693128,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 363332,
+        "num": 354952,
+        "word": "光渊空降",
+        "onboard_time": 1676687546,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352376,
+        "num": 352376,
+        "word": "0713录制种地吧路透",
+        "onboard_time": 1676700508,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279477,
+        "num": 279477,
+        "word": "塔利班在阿富汗两大城市禁售避孕用品",
+        "onboard_time": 1676694690,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278945,
+        "num": 278945,
+        "word": "小孩那桌也上不了了",
+        "onboard_time": 1676687068,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261181,
+        "num": 261181,
+        "word": "初婚年龄推迟意味着什么",
+        "onboard_time": 1676689647,
+        "rank": 24,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 296966,
+        "num": 257181,
+        "word": "马伯庸说费启鸣把丰宝玉演活了",
+        "onboard_time": 1676700449,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274244,
+        "num": 256699,
+        "word": "张新成造型",
+        "onboard_time": 1676688928,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248616,
+        "num": 248616,
+        "word": "皓衣行",
+        "onboard_time": 1676690370,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219077,
+        "num": 219077,
+        "word": "影院后排抖腿观众被打对方获刑",
+        "onboard_time": 1676693009,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 193754,
+        "num": 193754,
+        "word": "光与夜之恋",
+        "onboard_time": 1676700931,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244926,
+        "num": 191402,
+        "word": "刘耀文橙色衬衫绿西服造型",
+        "onboard_time": 1676705489,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225722,
+        "num": 185707,
+        "word": "魏大勋说我是桃花花神",
+        "onboard_time": 1676700508,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221511,
+        "num": 184475,
+        "word": "艾薇儿否认参加浪姐",
+        "onboard_time": 1676680645,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219382,
+        "num": 178989,
+        "word": "雄安楼盘开卖单价1.4万",
+        "onboard_time": 1676704889,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 176971,
+        "num": 176971,
+        "word": "警方回应男子泼妻子硫酸仅拘10天",
+        "onboard_time": 1676705248,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 216263,
+        "num": 174664,
+        "word": "烽火流金",
+        "onboard_time": 1676691507,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207600,
+        "num": 174550,
+        "word": "上野千鹤子",
+        "onboard_time": 1676697988,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171404,
+        "num": 171404,
+        "word": "新疆男篮回应篮协处罚决定",
+        "onboard_time": 1676698406,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168679,
+        "num": 168679,
+        "word": "奶奶用边角料给孙女做中式套装",
+        "onboard_time": 1676704407,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131732,
+        "num": 131732,
+        "word": "一家要建房全村跑来搭积木",
+        "onboard_time": 1676698827,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170112,
+        "num": 130077,
+        "word": "蔡徐坤特效视频",
+        "onboard_time": 1676696130,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149772,
+        "num": 129313,
+        "word": "君子盟光渊 换乘恋爱",
+        "onboard_time": 1676693067,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147232,
+        "num": 126972,
+        "word": "杨超越泳池大片",
+        "onboard_time": 1676692170,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142450,
+        "num": 125217,
+        "word": "何洁讲价",
+        "onboard_time": 1676702307,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124193,
+        "num": 124193,
+        "word": "夏花导演好会拍",
+        "onboard_time": 1676704949,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117722,
+        "num": 117722,
+        "word": "如果不缴纳五险一金会怎样",
+        "onboard_time": 1676648791,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116028,
+        "num": 116028,
+        "word": "女孩因学习压力大反锁房门昏迷",
+        "onboard_time": 1676688629,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 113532,
+        "num": 113532,
+        "word": "教授称年轻人没精力生那么多孩子",
+        "onboard_time": 1676683288,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112887,
+        "num": 112887,
+        "word": "长期久坐容易形成血栓",
+        "onboard_time": 1676684967,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95171,
+        "num": 95171,
+        "word": "中国乒乓 排片",
+        "onboard_time": 1676692947,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国上下同向奔赴阔步向前#"
+    }
+  }
+}
