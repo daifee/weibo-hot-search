@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676748784293,
+  "endTime": 1676751534497,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -13657,6 +13657,14 @@
       "onboard_time": 1676402773,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44969,
+      "num": 44969,
+      "word": "满江红演员呼吁大家关注消防",
+      "onboard_time": 1676748792,
+      "rank": 18,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 43862,
