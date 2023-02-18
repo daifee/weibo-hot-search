@@ -1,6 +1,6 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676759612238,
+  "endTime": 1676762295777,
   "band_list": [
     {
       "raw_hot": 1975119,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185990,
+      "num": 185990,
+      "word": "满江红演员呼吁大家关注消防",
+      "onboard_time": 1676748792,
+      "rank": 18,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 181539,
       "num": 181539,
       "word": "当你误发消息给妈妈",
@@ -419,6 +427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106691,
+      "num": 106691,
+      "word": "现在的大学生开学",
+      "onboard_time": 1676752572,
+      "rank": 16,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 95294,
       "num": 95294,
       "word": "阿斯顿维拉2比4阿森纳",
@@ -451,20 +467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55391,
-      "num": 55391,
-      "word": "现在的大学生开学",
-      "onboard_time": 1676752572,
-      "rank": 16,
-      "category": "幽默,教育"
+      "raw_hot": 49356,
+      "num": 49356,
+      "word": "兔年第二个节气",
+      "onboard_time": 1676762117,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 44969,
-      "num": 44969,
-      "word": "满江红演员呼吁大家关注消防",
-      "onboard_time": 1676748792,
-      "rank": 18,
-      "category": "影视,社会新闻"
+      "raw_hot": 37331,
+      "num": 37331,
+      "word": "诺丁汉森林1比1曼城",
+      "onboard_time": 1676762237,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 32086,
@@ -473,6 +489,14 @@
       "onboard_time": 1676723008,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24711,
+      "num": 33718,
+      "word": "Felix演唱会秀腹肌",
+      "onboard_time": 1676761456,
+      "rank": 47,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
