@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676691220097,
+  "endTime": 1676695000066,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3218547,
+      "num": 3218547,
+      "word": "北大宿舍聊天 上野千鹤子",
+      "onboard_time": 1676686285,
+      "rank": 0,
+      "category": "网红,情感"
+    },
+    {
       "raw_hot": 3199163,
       "num": 3199163,
       "word": "胡鑫宇录音笔内容",
@@ -481,14 +489,6 @@
       "onboard_time": 1675989994,
       "rank": 3,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 3012436,
-      "num": 3012436,
-      "word": "北大宿舍聊天 上野千鹤子",
-      "onboard_time": 1676686285,
-      "rank": 0,
-      "category": "网红,情感"
     },
     {
       "raw_hot": 2995320,
@@ -1099,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2269975,
+      "num": 2269975,
+      "word": "左肩有你",
+      "onboard_time": 1676691567,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2267638,
       "num": 2267638,
       "word": "西安不倒翁小姐姐回应生娃面容憔悴",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1675651467,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2218913,
+      "num": 2218913,
+      "word": "付辛博抬头纹",
+      "onboard_time": 1676692107,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2215236,
@@ -2425,6 +2441,14 @@
       "onboard_time": 1676520270,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1625969,
+      "num": 1625969,
+      "word": "苏乞儿道歉",
+      "onboard_time": 1676693128,
+      "rank": 4,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1625842,
@@ -3785,6 +3809,14 @@
       "onboard_time": 1675921048,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1240547,
+      "num": 1240547,
+      "word": "初婚年龄推迟意味着什么",
+      "onboard_time": 1676689647,
+      "rank": 16,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 1236135,
@@ -5859,6 +5891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 956825,
+      "num": 956825,
+      "word": "家里的布洛芬连花清瘟们何去何从",
+      "onboard_time": 1676693848,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 956789,
       "num": 956789,
       "word": "刘敏涛身材",
@@ -6801,14 +6841,6 @@
       "onboard_time": 1676557290,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 870027,
-      "num": 870027,
-      "word": "初婚年龄推迟意味着什么",
-      "onboard_time": 1676689647,
-      "rank": 16,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 867897,
@@ -7987,6 +8019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780712,
+      "num": 775570,
+      "word": "光渊",
+      "onboard_time": 1676686467,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 780213,
       "num": 780213,
       "word": "大理地震",
@@ -8080,14 +8120,6 @@
       "word": "肖战如梦之梦最新视频",
       "onboard_time": 1676350059,
       "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 775570,
-      "num": 775570,
-      "word": "光渊",
-      "onboard_time": 1676686467,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -10779,6 +10811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 633793,
+      "num": 633793,
+      "word": "你好星期六全员晒手写花语",
+      "onboard_time": 1676691687,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 633694,
       "num": 633694,
       "word": "满江红实时票房破40亿",
@@ -11145,6 +11185,14 @@
       "onboard_time": 1675412128,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 618112,
+      "num": 535019,
+      "word": "杨超越泳池大片",
+      "onboard_time": 1676692170,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 618078,
@@ -12387,6 +12435,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 563400,
+      "num": 530245,
+      "word": "中国乒乓 排片",
+      "onboard_time": 1676692947,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 562606,
       "num": 562606,
       "word": "ChatGPT让苹果急了",
@@ -13523,6 +13579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 524763,
+      "num": 474715,
+      "word": "君子盟光渊 换乘恋爱",
+      "onboard_time": 1676693067,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 524447,
       "num": 524447,
       "word": "多管齐下引导居民从超额储蓄向消费转化",
@@ -14243,6 +14307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502127,
+      "num": 502127,
+      "word": "影院后排抖腿观众被打对方获刑",
+      "onboard_time": 1676693009,
+      "rank": 17,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 501855,
       "num": 501855,
       "word": "张颂文面对粉丝接机不断说感谢",
@@ -14347,6 +14419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498251,
+      "num": 464530,
+      "word": "烽火流金",
+      "onboard_time": 1676691507,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 498010,
       "num": 498010,
       "word": "来自陈书婷的血脉压制",
@@ -14385,6 +14465,14 @@
       "onboard_time": 1675237108,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 497301,
+      "num": 497301,
+      "word": "去世侏儒抹香鲸胃内有大量塑料",
+      "onboard_time": 1676693308,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 497127,
@@ -15787,6 +15875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451571,
+      "num": 259675,
+      "word": "有钱的普通人",
+      "onboard_time": 1676691389,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 451543,
       "num": 451543,
       "word": "张译45岁影视实绩",
@@ -16795,6 +16891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426535,
+      "num": 283691,
+      "word": "周也石榴花神造型",
+      "onboard_time": 1676694510,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 426254,
       "num": 426254,
       "word": "女子落入流浪地球投资骗局被骗11万",
@@ -17081,6 +17185,14 @@
       "onboard_time": 1676174788,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 418941,
+      "num": 281340,
+      "word": "梁朝伟王一博窗帘蒙头花絮",
+      "onboard_time": 1676693727,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 418780,
@@ -17457,6 +17569,14 @@
       "onboard_time": 1675495347,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409706,
+      "num": 259523,
+      "word": "山河表里",
+      "onboard_time": 1676692407,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 409686,
@@ -19960,6 +20080,14 @@
       "word": "长了一颗老虎胆的女植物学家走了",
       "onboard_time": 1676647229,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353999,
+      "num": 353999,
+      "word": "法院悬赏百万看到这4个人请举报",
+      "onboard_time": 1676690547,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -22891,6 +23019,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 301105,
+      "num": 301105,
+      "word": "日本789万老人还在打零工",
+      "onboard_time": 1676694390,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300891,
       "num": 300891,
       "word": "张杰把很多的时间分给了家庭",
@@ -24112,6 +24248,14 @@
       "word": "井柏然去宋威龙房车蹭饭",
       "onboard_time": 1675515030,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 282490,
+      "num": 259142,
+      "word": "白鹿牛仔外套低马尾造型上班路透",
+      "onboard_time": 1676692229,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -25867,6 +26011,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 259719,
+      "num": 259719,
+      "word": "幼儿园娃手拉手踩滚筒前进惊呆邻居",
+      "onboard_time": 1676694208,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259588,
       "num": 259588,
       "word": "苹果公司开始对合同工进行裁员",
@@ -26595,6 +26747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248671,
+      "num": 248671,
+      "word": "苏翊鸣送给自己的19岁生日礼物",
+      "onboard_time": 1676692588,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248512,
       "num": 248512,
       "word": "被影子打了的小狗",
@@ -26961,6 +27121,14 @@
       "onboard_time": 1675945170,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243726,
+      "num": 243726,
+      "word": "2023NBA全明星",
+      "onboard_time": 1676084792,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 243563,
@@ -29595,6 +29763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210169,
+      "num": 210169,
+      "word": "白鹿吹口哨特效视频",
+      "onboard_time": 1676693609,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210113,
       "num": 210113,
       "word": "白客张颂文新电影演师徒",
@@ -29641,14 +29817,6 @@
       "onboard_time": 1675748672,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209616,
-      "num": 209616,
-      "word": "法院悬赏百万看到这4个人请举报",
-      "onboard_time": 1676690547,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209606,
@@ -29953,6 +30121,14 @@
       "onboard_time": 1675409792,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205254,
+      "num": 205254,
+      "word": "塔利班在阿富汗两大城市禁售避孕用品",
+      "onboard_time": 1676694690,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205201,
@@ -31241,14 +31417,6 @@
       "onboard_time": 1675858769,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 192865,
-      "num": 192865,
-      "word": "2023NBA全明星",
-      "onboard_time": 1676084792,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 192822,
@@ -32889,6 +33057,14 @@
       "onboard_time": 1675235431,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180133,
+      "num": 180133,
+      "word": "碟中谍7",
+      "onboard_time": 1676694809,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 180081,
@@ -37683,6 +37859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122652,
+      "num": 2225317,
+      "word": "用RAP方式打开中国县城",
+      "onboard_time": 1676689829,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122221,
       "num": 122221,
       "word": "高叶谈边境风云窒息戏",
@@ -37887,14 +38071,6 @@
       "num": 1951418,
       "word": "人勤春来早田间农事忙",
       "onboard_time": 1675830213,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117436,
-      "num": 1657508,
-      "word": "用RAP方式打开中国县城",
-      "onboard_time": 1676689829,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -39425,6 +39601,14 @@
       "onboard_time": 1675186698,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30081,
+      "num": 217448,
+      "word": "饿了么免单鱼档出题",
+      "onboard_time": 1676692827,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 30037,
