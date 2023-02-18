@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676726532029,
+  "endTime": 1676727230880,
   "band_list": [
     {
       "raw_hot": 3218547,
@@ -155,6 +155,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1533290,
+      "num": 1533290,
+      "word": "闫妮好疯 我好喜欢",
+      "onboard_time": 1676722950,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1522278,
       "num": 1522278,
       "word": "张新成造型",
@@ -185,14 +193,6 @@
       "onboard_time": 1676690429,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1427250,
-      "num": 1427250,
-      "word": "闫妮好疯 我好喜欢",
-      "onboard_time": 1676722950,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 1375194,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 823666,
+      "num": 533855,
+      "word": "王一博粉丝豹晚喊话无名",
+      "onboard_time": 1676726670,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 810893,
       "num": 810893,
       "word": "光渊",
@@ -411,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 765110,
+      "num": 765110,
+      "word": "名侦探柯南最新ED封面",
+      "onboard_time": 1676722950,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 757100,
       "num": 757100,
       "word": "城管已制止狂飙拍摄地拍照收费一事",
@@ -433,14 +449,6 @@
       "onboard_time": 1676717190,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 750873,
-      "num": 750873,
-      "word": "名侦探柯南最新ED封面",
-      "onboard_time": 1676722950,
-      "rank": 18,
-      "category": "动漫"
     },
     {
       "raw_hot": 735400,
@@ -497,6 +505,14 @@
       "onboard_time": 1676716527,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 646793,
+      "num": 487630,
+      "word": "何与公主抱沈月",
+      "onboard_time": 1676726970,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 640230,
@@ -699,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535002,
+      "num": 535002,
+      "word": "新疆男篮或退出本赛季CBA剩余比赛",
+      "onboard_time": 1676725292,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 534082,
       "num": 482941,
       "word": "流浪地球2票房破38亿",
@@ -787,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471458,
+      "num": 471458,
+      "word": "aespa今日舞台",
+      "onboard_time": 1676727091,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 470959,
       "num": 470959,
       "word": "放羊的星星刘荷娜近照",
@@ -809,14 +841,6 @@
       "onboard_time": 1676710893,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 452529,
-      "num": 452529,
-      "word": "新疆男篮或退出本赛季CBA剩余比赛",
-      "onboard_time": 1676725292,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 448739,
@@ -844,11 +868,19 @@
     },
     {
       "raw_hot": 438025,
-      "num": 416462,
+      "num": 437571,
       "word": "七年过去宁至谦死性不改",
       "onboard_time": 1676724450,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 437976,
+      "num": 437976,
+      "word": "苹果客服回应手表佩戴后体表凹陷",
+      "onboard_time": 1676725774,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 434388,
@@ -1009,6 +1041,14 @@
       "onboard_time": 1676694208,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366087,
+      "num": 366087,
+      "word": "莎头",
+      "onboard_time": 1676726911,
+      "rank": 22,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 358055,
@@ -1259,6 +1299,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 263079,
+      "num": 263079,
+      "word": "教师是否应该统一着装",
+      "onboard_time": 1676726791,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 262286,
       "num": 191209,
       "word": "深海",
@@ -1361,6 +1409,14 @@
       "onboard_time": 1676695230,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248692,
+      "num": 248692,
+      "word": "时代少年团全员为刘耀文加油",
+      "onboard_time": 1676727210,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 248671,
@@ -1561,14 +1617,6 @@
       "onboard_time": 1676685026,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 217751,
-      "num": 217751,
-      "word": "苹果客服回应手表佩戴后体表凹陷",
-      "onboard_time": 1676725774,
-      "rank": 33,
-      "category": "科技"
     },
     {
       "raw_hot": 215573,
@@ -1875,6 +1923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167984,
+      "num": 167984,
+      "word": "新兰",
+      "onboard_time": 1676727151,
+      "rank": 42,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 164678,
       "num": 164678,
       "word": "这位小熊友是不是偷偷补墨水了",
@@ -1971,6 +2027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152467,
+      "num": 152467,
+      "word": "那些明星们沙雕的出圈方式",
+      "onboard_time": 1676725951,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151896,
       "num": 151896,
       "word": "最强大脑",
@@ -2035,14 +2099,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135314,
-      "num": 135314,
-      "word": "那些明星们沙雕的出圈方式",
-      "onboard_time": 1676725951,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130816,
       "num": 130816,
       "word": "C罗助攻梅开二度",
@@ -2057,6 +2113,14 @@
       "onboard_time": 1676696010,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128738,
+      "num": 128738,
+      "word": "美国连巧取都没有只剩豪夺",
+      "onboard_time": 1676727210,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 128316,
