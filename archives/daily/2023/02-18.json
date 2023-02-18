@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676723624745,
+  "endTime": 1676724698314,
   "band_list": [
     {
       "raw_hot": 3218547,
@@ -97,6 +97,14 @@
       "onboard_time": 1676717489,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2069640,
+      "num": 2069640,
+      "word": "李佳琦直播",
+      "onboard_time": 1676723008,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 1974429,
@@ -251,14 +259,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1089604,
-      "num": 1089604,
-      "word": "李佳琦直播",
-      "onboard_time": 1676723008,
-      "rank": 4,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1072151,
       "num": 1072151,
       "word": "云南2失联男孩遗体在水库被发现",
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 794679,
-      "num": 456118,
+      "num": 485538,
       "word": "全嘻嘻",
       "onboard_time": 1676722168,
       "rank": 11,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 664185,
+      "num": 664185,
+      "word": "名侦探柯南最新ED封面",
+      "onboard_time": 1676722950,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 638382,
       "num": 638382,
       "word": "女子买电子表挂墙1年后发现没撕膜",
@@ -520,6 +528,14 @@
       "word": "aespa颁奖礼新闻图",
       "onboard_time": 1676714488,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 617769,
+      "num": 454002,
+      "word": "闫妮好疯 我好喜欢",
+      "onboard_time": 1676722950,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -595,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572428,
+      "num": 572428,
+      "word": "破译一个甲骨文奖励10万",
+      "onboard_time": 1676720131,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571351,
       "num": 571351,
       "word": "大学生谈恋爱要不要AA制",
@@ -625,14 +649,6 @@
       "onboard_time": 1676711428,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 555320,
-      "num": 555320,
-      "word": "破译一个甲骨文奖励10万",
-      "onboard_time": 1676720131,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 549803,
@@ -857,6 +873,14 @@
       "onboard_time": 1676693727,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 417257,
+      "num": 417257,
+      "word": "重庆女子上班1月倒欠公司5毛",
+      "onboard_time": 1676723967,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410253,
@@ -1211,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255765,
+      "num": 255765,
+      "word": "Hero对战狼队",
+      "onboard_time": 1676723729,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 255209,
       "num": 230505,
       "word": "姚晨模仿王菲和周星驰",
@@ -1323,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242710,
+      "num": 242710,
+      "word": "AI绘画进步的太快了",
+      "onboard_time": 1676722410,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 242700,
       "num": 242700,
       "word": "林俊杰西雅图世界巡回演唱会vlog",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1676709029,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240941,
+      "num": 240941,
+      "word": "七年过去宁至谦死性不改",
+      "onboard_time": 1676724450,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 238847,
@@ -1379,6 +1427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230012,
+      "num": 230012,
+      "word": "UP对战WBG",
+      "onboard_time": 1676723247,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 226534,
       "num": 226534,
       "word": "男子欠嫖资被扣报警双双被带走",
@@ -1395,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223001,
+      "num": 223001,
+      "word": "阿斯顿维拉vs阿森纳",
+      "onboard_time": 1676724150,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222372,
       "num": 222372,
       "word": "已经这样反反复复十几年",
@@ -1403,28 +1467,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 222299,
-      "num": 171968,
-      "word": "闫妮好疯 我好喜欢",
-      "onboard_time": 1676722950,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221042,
       "num": 217559,
       "word": "这里有人在拍MV是吧",
       "onboard_time": 1676707168,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 220480,
-      "num": 220480,
-      "word": "名侦探柯南最新ED封面",
-      "onboard_time": 1676722950,
-      "rank": 18,
-      "category": "动漫"
     },
     {
       "raw_hot": 220004,
@@ -1475,6 +1523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213595,
+      "num": 213595,
+      "word": "王楚钦孙颖莎3比0魏世皓王添艺",
+      "onboard_time": 1676724450,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213275,
       "num": 213275,
       "word": "王曼昱3比0韩菲儿",
@@ -1513,14 +1569,6 @@
       "onboard_time": 1676700988,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203155,
-      "num": 203155,
-      "word": "AI绘画进步的太快了",
-      "onboard_time": 1676722410,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 200897,
@@ -1763,14 +1811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 167265,
-      "num": 167265,
-      "word": "UP对战WBG",
-      "onboard_time": 1676723247,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 164678,
       "num": 164678,
       "word": "这位小熊友是不是偷偷补墨水了",
@@ -1979,20 +2019,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121099,
+      "num": 121099,
+      "word": "写意中国探寻汉字起源",
+      "onboard_time": 1676723432,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118142,
       "num": 118142,
       "word": "骚姆现场",
       "onboard_time": 1676681127,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 112677,
-      "num": 112677,
-      "word": "写意中国探寻汉字起源",
-      "onboard_time": 1676723432,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109315,
@@ -2067,7 +2107,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 48476,
+      "raw_hot": 50958,
       "num": 2302809,
       "word": "团结奋斗再出发",
       "onboard_time": 1676723008,

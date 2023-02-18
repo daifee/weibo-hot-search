@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676723624745,
+  "endTime": 1676724698314,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1433,6 +1433,14 @@
       "onboard_time": 1676624672,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2069640,
+      "num": 2069640,
+      "word": "李佳琦直播",
+      "onboard_time": 1676723008,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 2066004,
@@ -4955,14 +4963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1089604,
-      "num": 1089604,
-      "word": "李佳琦直播",
-      "onboard_time": 1676723008,
-      "rank": 4,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1088530,
       "num": 1088530,
       "word": "雪见又要长头发了",
@@ -8028,7 +8028,7 @@
     },
     {
       "raw_hot": 794679,
-      "num": 456118,
+      "num": 485538,
       "word": "全嘻嘻",
       "onboard_time": 1676722168,
       "rank": 11,
@@ -10427,6 +10427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 664185,
+      "num": 664185,
+      "word": "名侦探柯南最新ED封面",
+      "onboard_time": 1676722950,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 664114,
       "num": 586454,
       "word": "女生求职因河南户籍被HR拒面",
@@ -11465,6 +11473,14 @@
       "onboard_time": 1675505250,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 617769,
+      "num": 454002,
+      "word": "闫妮好疯 我好喜欢",
+      "onboard_time": 1676722950,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 617192,
@@ -12507,6 +12523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 572428,
+      "num": 572428,
+      "word": "破译一个甲骨文奖励10万",
+      "onboard_time": 1676720131,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572360,
       "num": 563271,
       "word": "学生恶作剧用60个闹钟图标挡课件",
@@ -12993,14 +13017,6 @@
       "onboard_time": 1676041051,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 555320,
-      "num": 555320,
-      "word": "破译一个甲骨文奖励10万",
-      "onboard_time": 1676720131,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 554650,
@@ -17681,6 +17697,14 @@
       "onboard_time": 1676549552,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 417257,
+      "num": 417257,
+      "word": "重庆女子上班1月倒欠公司5毛",
+      "onboard_time": 1676723967,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416683,
@@ -26843,6 +26867,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 255765,
+      "num": 255765,
+      "word": "Hero对战狼队",
+      "onboard_time": 1676723729,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 255714,
       "num": 255714,
       "word": "杜兰特预计全明星后复出",
@@ -27819,6 +27851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242710,
+      "num": 242710,
+      "word": "AI绘画进步的太快了",
+      "onboard_time": 1676722410,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 242700,
       "num": 242700,
       "word": "林俊杰西雅图世界巡回演唱会vlog",
@@ -27953,6 +27993,14 @@
       "onboard_time": 1676709029,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240941,
+      "num": 240941,
+      "word": "七年过去宁至谦死性不改",
+      "onboard_time": 1676724450,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 240940,
@@ -28787,6 +28835,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 230012,
+      "num": 230012,
+      "word": "UP对战WBG",
+      "onboard_time": 1676723247,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 229871,
       "num": 229871,
       "word": "选哪个师傅炒菜",
@@ -29355,6 +29411,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 223001,
+      "num": 223001,
+      "word": "阿斯顿维拉vs阿森纳",
+      "onboard_time": 1676724150,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222994,
       "num": 222994,
       "word": "女教师一个细节救下失联学生全家",
@@ -29425,14 +29489,6 @@
       "onboard_time": 1676647770,
       "rank": 47,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 222299,
-      "num": 171968,
-      "word": "闫妮好疯 我好喜欢",
-      "onboard_time": 1676722950,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 222168,
@@ -29569,14 +29625,6 @@
       "onboard_time": 1676606132,
       "rank": 42,
       "category": "科技"
-    },
-    {
-      "raw_hot": 220480,
-      "num": 220480,
-      "word": "名侦探柯南最新ED封面",
-      "onboard_time": 1676722950,
-      "rank": 18,
-      "category": "动漫"
     },
     {
       "raw_hot": 220383,
@@ -30113,6 +30161,14 @@
       "onboard_time": 1675419810,
       "rank": 27,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 213595,
+      "num": 213595,
+      "word": "王楚钦孙颖莎3比0魏世皓王添艺",
+      "onboard_time": 1676724450,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 213545,
@@ -30969,14 +31025,6 @@
       "onboard_time": 1676700988,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203155,
-      "num": 203155,
-      "word": "AI绘画进步的太快了",
-      "onboard_time": 1676722410,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 203135,
@@ -35347,14 +35395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 167265,
-      "num": 167265,
-      "word": "UP对战WBG",
-      "onboard_time": 1676723247,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 167228,
       "num": 167228,
       "word": "何广智希望非诚勿扰能一直办下去",
@@ -38811,6 +38851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121099,
+      "num": 121099,
+      "word": "写意中国探寻汉字起源",
+      "onboard_time": 1676723432,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120982,
       "num": 120982,
       "word": "猫咪是有多爱干架",
@@ -39041,14 +39089,6 @@
       "onboard_time": 1675379717,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112677,
-      "num": 112677,
-      "word": "写意中国探寻汉字起源",
-      "onboard_time": 1676723432,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112663,
@@ -40171,6 +40211,14 @@
       "category": "时尚,幽默"
     },
     {
+      "raw_hot": 50958,
+      "num": 2302809,
+      "word": "团结奋斗再出发",
+      "onboard_time": 1676723008,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50072,
       "num": 50072,
       "word": "曼联2比0诺丁汉森林",
@@ -40224,14 +40272,6 @@
       "word": "一年一度花灯大晒",
       "onboard_time": 1675598431,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48476,
-      "num": 2302809,
-      "word": "团结奋斗再出发",
-      "onboard_time": 1676723008,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
