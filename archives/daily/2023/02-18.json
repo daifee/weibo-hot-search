@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676715525985,
+  "endTime": 1676716476342,
   "band_list": [
     {
       "raw_hot": 3218547,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1461437,
+      "num": 1461437,
+      "word": "娃哈哈被曝八宝粥发黑长毛",
+      "onboard_time": 1676713769,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1456811,
       "num": 375800,
       "word": "费渡",
@@ -184,14 +192,6 @@
       "word": "长期久坐容易形成血栓",
       "onboard_time": 1676684967,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1179149,
-      "num": 1179149,
-      "word": "娃哈哈被曝八宝粥发黑长毛",
-      "onboard_time": 1676713769,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -259,6 +259,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 979715,
+      "num": 521619,
+      "word": "女士优先车厢男子坐满女子站立",
+      "onboard_time": 1676713047,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 960339,
       "num": 960339,
       "word": "一生未婚的爷爷离世捐出角膜救人",
@@ -296,14 +304,6 @@
       "word": "湖北初婚年龄突破30岁",
       "onboard_time": 1676681666,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 882391,
-      "num": 521619,
-      "word": "女士优先车厢男子坐满女子站立",
-      "onboard_time": 1676713047,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -587,6 +587,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 513399,
+      "num": 479275,
+      "word": "金道英赵美延比心",
+      "onboard_time": 1676715389,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 512401,
+      "num": 512401,
+      "word": "城管已制止狂飙拍摄地拍照收费一事",
+      "onboard_time": 1676713227,
+      "rank": 14,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 498251,
       "num": 464530,
       "word": "烽火流金",
@@ -665,14 +681,6 @@
       "onboard_time": 1676651246,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 445582,
-      "num": 445582,
-      "word": "城管已制止狂飙拍摄地拍照收费一事",
-      "onboard_time": 1676713227,
-      "rank": 14,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 434388,
@@ -785,14 +793,6 @@
       "onboard_time": 1676700449,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 371897,
-      "num": 266331,
-      "word": "金道英赵美延比心",
-      "onboard_time": 1676715389,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 366582,
@@ -963,6 +963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286294,
+      "num": 286294,
+      "word": "广东一餐厅被曝水壶里爬出蟑螂",
+      "onboard_time": 1676715749,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285438,
       "num": 285438,
       "word": "iPhone14ProMax烧屏",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1676684307,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 266097,
+      "num": 266097,
+      "word": "丈夫泼妻子硫酸被行拘10日",
+      "onboard_time": 1676716048,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264435,
@@ -1476,7 +1492,7 @@
     },
     {
       "raw_hot": 174018,
-      "num": 130888,
+      "num": 154393,
       "word": "萧寒没提爱但处处都是爱",
       "onboard_time": 1676715028,
       "rank": 43,
@@ -1524,7 +1540,7 @@
     },
     {
       "raw_hot": 170333,
-      "num": 128478,
+      "num": 149388,
       "word": "刘宇宁光渊情感主题曲",
       "onboard_time": 1676713409,
       "rank": 44,
@@ -1537,6 +1553,14 @@
       "onboard_time": 1676626891,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164678,
+      "num": 164678,
+      "word": "这位小熊友是不是偷偷补墨水了",
+      "onboard_time": 1676711487,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 164213,
@@ -1585,6 +1609,14 @@
       "onboard_time": 1676631753,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158928,
+      "num": 158928,
+      "word": "女性主义",
+      "onboard_time": 1676716348,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 158236,
@@ -1697,14 +1729,6 @@
       "onboard_time": 1676659335,
       "rank": 14,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 125527,
-      "num": 125527,
-      "word": "这位小熊友是不是偷偷补墨水了",
-      "onboard_time": 1676711487,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 124193,
