@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676711854541,
+  "endTime": 1676712820540,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1067,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2342291,
+      "num": 2342291,
+      "word": "镇魂",
+      "onboard_time": 1676701347,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2339204,
       "num": 2339204,
       "word": "张颂文 演技封神",
@@ -1680,14 +1688,6 @@
       "word": "人鱼",
       "onboard_time": 1676125952,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1927199,
-      "num": 1650127,
-      "word": "镇魂",
-      "onboard_time": 1676701347,
-      "rank": 43,
       "category": "影视"
     },
     {
@@ -2577,6 +2577,14 @@
       "onboard_time": 1676386897,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1572792,
+      "num": 1572792,
+      "word": "六大门派围攻光明顶",
+      "onboard_time": 1676711967,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1571226,
@@ -8483,6 +8491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 753666,
+      "num": 560272,
+      "word": "于正说还挺欣赏张一山的表演",
+      "onboard_time": 1676709449,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 753643,
       "num": 753643,
       "word": "唐嫣感谢张杰唱的歌助攻何以笙箫默",
@@ -9081,14 +9097,6 @@
       "onboard_time": 1676677102,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 722383,
-      "num": 443549,
-      "word": "于正说还挺欣赏张一山的表演",
-      "onboard_time": 1676709449,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 721662,
@@ -11995,6 +12003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 585715,
+      "num": 585715,
+      "word": "养了2年狗狗每天送小女孩上学",
+      "onboard_time": 1676710830,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585378,
       "num": 585378,
       "word": "王一博公司申请洛邑逸板商标",
@@ -12601,6 +12617,14 @@
       "onboard_time": 1676692947,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 562734,
+      "num": 555309,
+      "word": "沈小婷Circle红毯新闻图",
+      "onboard_time": 1676711428,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 562606,
@@ -13473,6 +13497,14 @@
       "onboard_time": 1675502606,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 534082,
+      "num": 351377,
+      "word": "流浪地球2票房破38亿",
+      "onboard_time": 1676711727,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 533775,
@@ -15635,6 +15667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464076,
+      "num": 349547,
+      "word": "阮流筝不满宁至谦打包策划的婚礼",
+      "onboard_time": 1676710893,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 464066,
       "num": 464066,
       "word": "南宁房贷年龄期限可延长至80岁",
@@ -17209,14 +17249,6 @@
       "onboard_time": 1675931912,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 422643,
-      "num": 291780,
-      "word": "沈小婷Circle红毯新闻图",
-      "onboard_time": 1676711428,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 422590,
@@ -21379,14 +21411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332578,
-      "num": 272604,
-      "word": "阮流筝不满宁至谦打包策划的婚礼",
-      "onboard_time": 1676710893,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 332537,
       "num": 332537,
       "word": "言承旭 偶像剧",
@@ -22032,14 +22056,6 @@
       "word": "农村年轻夫妇只生不养现象普遍",
       "onboard_time": 1676604330,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321062,
-      "num": 321062,
-      "word": "养了2年狗狗每天送小女孩上学",
-      "onboard_time": 1676710830,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -23721,14 +23737,6 @@
       "onboard_time": 1675782574,
       "rank": 47,
       "category": "网红"
-    },
-    {
-      "raw_hot": 293894,
-      "num": 217725,
-      "word": "流浪地球2票房破38亿",
-      "onboard_time": 1676711727,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 293743,
@@ -28243,6 +28251,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 233097,
+      "num": 233097,
+      "word": "JDG战胜iG",
+      "onboard_time": 1676712089,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233092,
       "num": 233092,
       "word": "孙杨张豆豆同游环球影城",
@@ -28321,6 +28337,14 @@
       "onboard_time": 1675509451,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232321,
+      "num": 212110,
+      "word": "警方通报女子被丈夫泼硫酸",
+      "onboard_time": 1676712388,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232089,

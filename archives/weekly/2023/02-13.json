@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676711854541,
+  "endTime": 1676712820540,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2342291,
+      "num": 2342291,
+      "word": "镇魂",
+      "onboard_time": 1676701347,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2312369,
       "num": 2135706,
       "word": "都美竹 一个人穿婚纱也很浪漫",
@@ -657,14 +665,6 @@
       "onboard_time": 1676533361,
       "rank": 3,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1927199,
-      "num": 1650127,
-      "word": "镇魂",
-      "onboard_time": 1676701347,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 1892990,
@@ -953,6 +953,14 @@
       "onboard_time": 1676386897,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1572792,
+      "num": 1572792,
+      "word": "六大门派围攻光明顶",
+      "onboard_time": 1676711967,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1565021,
@@ -2899,6 +2907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 753666,
+      "num": 560272,
+      "word": "于正说还挺欣赏张一山的表演",
+      "onboard_time": 1676709449,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 752829,
       "num": 752829,
       "word": "吃螺蛳吃出个考古遗址",
@@ -3121,14 +3137,6 @@
       "onboard_time": 1676677102,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 722383,
-      "num": 443549,
-      "word": "于正说还挺欣赏张一山的表演",
-      "onboard_time": 1676709449,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 721263,
@@ -4051,6 +4059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 585715,
+      "num": 585715,
+      "word": "养了2年狗狗每天送小女孩上学",
+      "onboard_time": 1676710830,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583971,
       "num": 527859,
       "word": "上半年偏财最旺的星座",
@@ -4291,6 +4307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 562734,
+      "num": 555309,
+      "word": "沈小婷Circle红毯新闻图",
+      "onboard_time": 1676711428,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 560806,
       "num": 560806,
       "word": "阿里客服称商家肯定看不到购物车信息",
@@ -4504,6 +4528,14 @@
       "word": "满江红成中国影史票房榜第7名",
       "onboard_time": 1676281478,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 534082,
+      "num": 351377,
+      "word": "流浪地球2票房破38亿",
+      "onboard_time": 1676711727,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -5291,6 +5323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 464076,
+      "num": 349547,
+      "word": "阮流筝不满宁至谦打包策划的婚礼",
+      "onboard_time": 1676710893,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 464021,
       "num": 464021,
       "word": "买房是必须的吗",
@@ -5881,14 +5921,6 @@
       "onboard_time": 1676543431,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 422643,
-      "num": 291780,
-      "word": "沈小婷Circle红毯新闻图",
-      "onboard_time": 1676711428,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 421346,
@@ -7131,14 +7163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 332578,
-      "num": 272604,
-      "word": "阮流筝不满宁至谦打包策划的婚礼",
-      "onboard_time": 1676710893,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 332537,
       "num": 332537,
       "word": "言承旭 偶像剧",
@@ -7368,14 +7392,6 @@
       "word": "农村年轻夫妇只生不养现象普遍",
       "onboard_time": 1676604330,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321062,
-      "num": 321062,
-      "word": "养了2年狗狗每天送小女孩上学",
-      "onboard_time": 1676710830,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -7905,14 +7921,6 @@
       "onboard_time": 1676288686,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293894,
-      "num": 217725,
-      "word": "流浪地球2票房破38亿",
-      "onboard_time": 1676711727,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 293737,
@@ -9331,6 +9339,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 233097,
+      "num": 233097,
+      "word": "JDG战胜iG",
+      "onboard_time": 1676712089,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232875,
       "num": 205216,
       "word": "于正探班你比星光美丽剧组照片",
@@ -9345,6 +9361,14 @@
       "onboard_time": 1676256448,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232321,
+      "num": 212110,
+      "word": "警方通报女子被丈夫泼硫酸",
+      "onboard_time": 1676712388,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231917,
@@ -9793,6 +9817,14 @@
       "onboard_time": 1676218166,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215325,
+      "num": 191209,
+      "word": "深海",
+      "onboard_time": 1676712749,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 215169,

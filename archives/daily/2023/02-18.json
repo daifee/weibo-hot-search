@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676711854541,
+  "endTime": 1676712820540,
   "band_list": [
     {
       "raw_hot": 3218547,
@@ -25,6 +25,14 @@
       "onboard_time": 1676648791,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2342291,
+      "num": 2342291,
+      "word": "镇魂",
+      "onboard_time": 1676701347,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 2302033,
@@ -75,14 +83,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1927199,
-      "num": 1650127,
-      "word": "镇魂",
-      "onboard_time": 1676701347,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1804200,
       "num": 1804200,
       "word": "皓衣行",
@@ -113,6 +113,14 @@
       "onboard_time": 1676693128,
       "rank": 4,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1572792,
+      "num": 1572792,
+      "word": "六大门派围攻光明顶",
+      "onboard_time": 1676711967,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1522278,
@@ -315,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 753666,
+      "num": 560272,
+      "word": "于正说还挺欣赏张一山的表演",
+      "onboard_time": 1676709449,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 724808,
       "num": 724808,
       "word": "肖战 米兰时装周",
@@ -329,14 +345,6 @@
       "onboard_time": 1676677102,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 722383,
-      "num": 443549,
-      "word": "于正说还挺欣赏张一山的表演",
-      "onboard_time": 1676709449,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 691832,
@@ -435,6 +443,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 585715,
+      "num": 585715,
+      "word": "养了2年狗狗每天送小女孩上学",
+      "onboard_time": 1676710830,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583431,
       "num": 583431,
       "word": "蜜雪冰城没关音响扰民一宿居民报警",
@@ -483,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 562734,
+      "num": 555309,
+      "word": "沈小婷Circle红毯新闻图",
+      "onboard_time": 1676711428,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 549803,
       "num": 549803,
       "word": "1岁多娃爱甜食61斤疑患库欣综合征",
@@ -513,6 +537,14 @@
       "onboard_time": 1676642309,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534082,
+      "num": 351377,
+      "word": "流浪地球2票房破38亿",
+      "onboard_time": 1676711727,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 526409,
@@ -587,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464076,
+      "num": 349547,
+      "word": "阮流筝不满宁至谦打包策划的婚礼",
+      "onboard_time": 1676710893,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 448739,
       "num": 352854,
       "word": "蔡徐坤特效视频",
@@ -625,14 +665,6 @@
       "onboard_time": 1676697988,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 422643,
-      "num": 291780,
-      "word": "沈小婷Circle红毯新闻图",
-      "onboard_time": 1676711428,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 421346,
@@ -795,14 +827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 332578,
-      "num": 272604,
-      "word": "阮流筝不满宁至谦打包策划的婚礼",
-      "onboard_time": 1676710893,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 330946,
       "num": 330946,
       "word": "乌梅子酱搜索量暴涨200倍",
@@ -824,14 +848,6 @@
       "word": "如何看待一些年轻人抗拒生育",
       "onboard_time": 1676688085,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321062,
-      "num": 321062,
-      "word": "养了2年狗狗每天送小女孩上学",
-      "onboard_time": 1676710830,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -897,14 +913,6 @@
       "onboard_time": 1676700931,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 293894,
-      "num": 217725,
-      "word": "流浪地球2票房破38亿",
-      "onboard_time": 1676711727,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 285438,
@@ -1131,6 +1139,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 233097,
+      "num": 233097,
+      "word": "JDG战胜iG",
+      "onboard_time": 1676712089,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 232321,
+      "num": 212110,
+      "word": "警方通报女子被丈夫泼硫酸",
+      "onboard_time": 1676712388,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226534,
       "num": 226534,
       "word": "男子欠嫖资被扣报警双双被带走",
@@ -1200,6 +1224,14 @@
       "word": "赖美云模仿疯驴子",
       "onboard_time": 1676675058,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 215325,
+      "num": 191209,
+      "word": "深海",
+      "onboard_time": 1676712749,
+      "rank": 36,
       "category": "影视"
     },
     {
