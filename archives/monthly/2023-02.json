@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676702232329,
+  "endTime": 1676704582420,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -2411,6 +2411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1650127,
+      "num": 1650127,
+      "word": "镇魂",
+      "onboard_time": 1676701347,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1646931,
       "num": 845490,
       "word": "河南一女子衣着暴露跪地表演",
@@ -4201,6 +4209,14 @@
       "onboard_time": 1676001396,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1173396,
+      "num": 1173396,
+      "word": "张颂文的农家院",
+      "onboard_time": 1676701407,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1172326,
@@ -6057,14 +6073,6 @@
       "onboard_time": 1676008471,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 948324,
-      "num": 948324,
-      "word": "镇魂",
-      "onboard_time": 1676701347,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 947762,
@@ -9347,6 +9355,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 707557,
+      "num": 707557,
+      "word": "中国乒乓票房",
+      "onboard_time": 1676703325,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 707277,
       "num": 707277,
       "word": "曝梅西6月来中国比赛",
@@ -9376,14 +9392,6 @@
       "word": "张颂文和巩俐走红毯",
       "onboard_time": 1675221149,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 705000,
-      "num": 705000,
-      "word": "张颂文的农家院",
-      "onboard_time": 1676701407,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -10081,6 +10089,14 @@
       "onboard_time": 1675491205,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 675358,
+      "num": 675358,
+      "word": "小学生投3万元压岁钱理财",
+      "onboard_time": 1676701828,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 674714,
@@ -14051,6 +14067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 514169,
+      "num": 489615,
+      "word": "迪丽热巴最新怼脸大片",
+      "onboard_time": 1676703868,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 513945,
       "num": 513945,
       "word": "言承旭说从此刻开始我就是萧寒",
@@ -14641,6 +14665,14 @@
       "onboard_time": 1675515751,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 493765,
+      "num": 493765,
+      "word": "骗子调包4万名表嫁祸快递小哥",
+      "onboard_time": 1676702488,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493383,
@@ -17857,6 +17889,14 @@
       "onboard_time": 1676259989,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 406310,
+      "num": 350321,
+      "word": "东北插班生衍生真人秀",
+      "onboard_time": 1676703808,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 406263,
@@ -29931,6 +29971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210146,
+      "num": 210146,
+      "word": "魏大勋说我是桃花花神",
+      "onboard_time": 1676700508,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210113,
       "num": 210113,
       "word": "白客张颂文新电影演师徒",
@@ -30241,14 +30289,6 @@
       "onboard_time": 1676419769,
       "rank": 37,
       "category": "科技"
-    },
-    {
-      "raw_hot": 205673,
-      "num": 205673,
-      "word": "魏大勋说我是桃花花神",
-      "onboard_time": 1676700508,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 205662,
@@ -34123,14 +34163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172872,
-      "num": 172872,
-      "word": "小学生投3万元压岁钱理财",
-      "onboard_time": 1676701828,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172729,
       "num": 172729,
       "word": "苏醒陆虎打开日出合照正确方式",
@@ -37555,6 +37587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 133115,
+      "num": 124628,
+      "word": "何洁讲价",
+      "onboard_time": 1676702307,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132758,
       "num": 132758,
       "word": "一声不吭的猫往往才最倔",
@@ -38552,6 +38592,14 @@
       "word": "美国防部称公众可自行仰望气球位置",
       "onboard_time": 1675532837,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106847,
+      "num": 106847,
+      "word": "如何预防春季过敏性鼻炎",
+      "onboard_time": 1676703988,
+      "rank": 47,
       "category": "社会新闻"
     },
     {

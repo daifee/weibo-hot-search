@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676702232329,
+  "endTime": 1676704582420,
   "band_list": [
     {
       "raw_hot": 3218547,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1650127,
+      "num": 1650127,
+      "word": "镇魂",
+      "onboard_time": 1676701347,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1629082,
       "num": 1629082,
       "word": "教授称年轻人没精力生那么多孩子",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1173396,
+      "num": 1173396,
+      "word": "张颂文的农家院",
+      "onboard_time": 1676701407,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1140438,
       "num": 1140438,
       "word": "吴磊赵今麦捧脸拥抱路透",
@@ -225,14 +241,6 @@
       "onboard_time": 1676687068,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 948324,
-      "num": 948324,
-      "word": "镇魂",
-      "onboard_time": 1676701347,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 904926,
@@ -291,12 +299,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 705000,
-      "num": 705000,
-      "word": "张颂文的农家院",
-      "onboard_time": 1676701407,
+      "raw_hot": 707557,
+      "num": 707557,
+      "word": "中国乒乓票房",
+      "onboard_time": 1676703325,
       "rank": 10,
-      "category": "艺人"
+      "category": "影视"
     },
     {
       "raw_hot": 686645,
@@ -312,6 +320,14 @@
       "word": "女子情人节领证次日被家暴",
       "onboard_time": 1676697690,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675358,
+      "num": 675358,
+      "word": "小学生投3万元压岁钱理财",
+      "onboard_time": 1676701828,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -467,12 +483,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 514169,
+      "num": 489615,
+      "word": "迪丽热巴最新怼脸大片",
+      "onboard_time": 1676703868,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 498251,
       "num": 464530,
       "word": "烽火流金",
       "onboard_time": 1676691507,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 493765,
+      "num": 493765,
+      "word": "骗子调包4万名表嫁祸快递小哥",
+      "onboard_time": 1676702488,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488928,
@@ -569,6 +601,14 @@
       "onboard_time": 1676692407,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 406310,
+      "num": 350321,
+      "word": "东北插班生衍生真人秀",
+      "onboard_time": 1676703808,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 405075,
@@ -987,8 +1027,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205673,
-      "num": 205673,
+      "raw_hot": 210146,
+      "num": 210146,
       "word": "魏大勋说我是桃花花神",
       "onboard_time": 1676700508,
       "rank": 36,
@@ -1147,14 +1187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172872,
-      "num": 172872,
-      "word": "小学生投3万元压岁钱理财",
-      "onboard_time": 1676701828,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172116,
       "num": 172116,
       "word": "刘雯 时装周",
@@ -1283,6 +1315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133115,
+      "num": 124628,
+      "word": "何洁讲价",
+      "onboard_time": 1676702307,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130816,
       "num": 130816,
       "word": "C罗助攻梅开二度",
@@ -1345,6 +1385,14 @@
       "onboard_time": 1676646572,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106847,
+      "num": 106847,
+      "word": "如何预防春季过敏性鼻炎",
+      "onboard_time": 1676703988,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104599,

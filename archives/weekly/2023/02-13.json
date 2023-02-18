@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676702232329,
+  "endTime": 1676704582420,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -875,6 +875,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 1650127,
+      "num": 1650127,
+      "word": "镇魂",
+      "onboard_time": 1676701347,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1640037,
       "num": 1640037,
       "word": "女性面试被HR反复盘问性别歧视肉眼可见",
@@ -1515,6 +1523,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1173396,
+      "num": 1173396,
+      "word": "张颂文的农家院",
+      "onboard_time": 1676701407,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1172326,
       "num": 1172326,
       "word": "颖儿手滑点赞付辛博井柏然相关微博",
@@ -2153,14 +2169,6 @@
       "onboard_time": 1676371652,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 948324,
-      "num": 948324,
-      "word": "镇魂",
-      "onboard_time": 1676701347,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 946867,
@@ -3163,6 +3171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 707557,
+      "num": 707557,
+      "word": "中国乒乓票房",
+      "onboard_time": 1676703325,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 707277,
       "num": 707277,
       "word": "曝梅西6月来中国比赛",
@@ -3177,14 +3193,6 @@
       "onboard_time": 1676357068,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 705000,
-      "num": 705000,
-      "word": "张颂文的农家院",
-      "onboard_time": 1676701407,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 702120,
@@ -3417,6 +3425,14 @@
       "onboard_time": 1676294260,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 675358,
+      "num": 675358,
+      "word": "小学生投3万元压岁钱理财",
+      "onboard_time": 1676701828,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 673966,
@@ -4659,6 +4675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 514169,
+      "num": 489615,
+      "word": "迪丽热巴最新怼脸大片",
+      "onboard_time": 1676703868,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 513945,
       "num": 513945,
       "word": "言承旭说从此刻开始我就是萧寒",
@@ -4841,6 +4865,14 @@
       "onboard_time": 1676338712,
       "rank": 42,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 493765,
+      "num": 493765,
+      "word": "骗子调包4万名表嫁祸快递小哥",
+      "onboard_time": 1676702488,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493615,
@@ -6041,6 +6073,14 @@
       "onboard_time": 1676259989,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 406310,
+      "num": 350321,
+      "word": "东北插班生衍生真人秀",
+      "onboard_time": 1676703808,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 406263,
@@ -9731,6 +9771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210146,
+      "num": 210146,
+      "word": "魏大勋说我是桃花花神",
+      "onboard_time": 1676700508,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210113,
       "num": 210113,
       "word": "白客张颂文新电影演师徒",
@@ -9817,14 +9865,6 @@
       "onboard_time": 1676419769,
       "rank": 37,
       "category": "科技"
-    },
-    {
-      "raw_hot": 205673,
-      "num": 205673,
-      "word": "魏大勋说我是桃花花神",
-      "onboard_time": 1676700508,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 205662,
@@ -11011,14 +11051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172872,
-      "num": 172872,
-      "word": "小学生投3万元压岁钱理财",
-      "onboard_time": 1676701828,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172729,
       "num": 172729,
       "word": "苏醒陆虎打开日出合照正确方式",
@@ -11923,6 +11955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133115,
+      "num": 124628,
+      "word": "何洁讲价",
+      "onboard_time": 1676702307,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132077,
       "num": 132077,
       "word": "黄奕回应演丈母娘",
@@ -12161,6 +12201,14 @@
       "onboard_time": 1676368832,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 106847,
+      "num": 106847,
+      "word": "如何预防春季过敏性鼻炎",
+      "onboard_time": 1676703988,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106580,
