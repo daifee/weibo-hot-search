@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676716476342,
+  "endTime": 1676718954215,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1361,6 +1361,14 @@
       "onboard_time": 1675998513,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2107055,
+      "num": 2107055,
+      "word": "曾经很火但消失了的APP",
+      "onboard_time": 1676716829,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 2106872,
@@ -6051,6 +6059,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 953425,
+      "num": 953425,
+      "word": "近期又开始发烧是否等于复阳",
+      "onboard_time": 1676717489,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 953057,
       "num": 953057,
       "word": "曝HYBE收购SMTOWN股份",
@@ -6137,6 +6153,14 @@
       "onboard_time": 1676535518,
       "rank": 19,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 946036,
+      "num": 946036,
+      "word": "女性主义",
+      "onboard_time": 1676716348,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 945366,
@@ -8443,6 +8467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 757100,
+      "num": 757100,
+      "word": "城管已制止狂飙拍摄地拍照收费一事",
+      "onboard_time": 1676713227,
+      "rank": 14,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 756824,
       "num": 756824,
       "word": "薛之谦演唱会门票",
@@ -8529,6 +8561,14 @@
       "onboard_time": 1676544330,
       "rank": 14,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 751552,
+      "num": 751552,
+      "word": "张新成撞脸易立竞",
+      "onboard_time": 1676717190,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 751305,
@@ -12355,6 +12395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573761,
+      "num": 573761,
+      "word": "广东一餐厅被曝水壶里爬出蟑螂",
+      "onboard_time": 1676715749,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573678,
       "num": 573678,
       "word": "王嘉尔上海活动红毯",
@@ -14099,6 +14147,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 517067,
+      "num": 517067,
+      "word": "烽火流金 烽火令",
+      "onboard_time": 1676718568,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 516780,
       "num": 516780,
       "word": "马思纯姜思达谈抑郁症",
@@ -14233,14 +14289,6 @@
       "onboard_time": 1676272666,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 512401,
-      "num": 512401,
-      "word": "城管已制止狂飙拍摄地拍照收费一事",
-      "onboard_time": 1676713227,
-      "rank": 14,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 511769,
@@ -15035,6 +15083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 486590,
+      "num": 486590,
+      "word": "丈夫泼妻子硫酸被行拘10日",
+      "onboard_time": 1676716048,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486503,
       "num": 486503,
       "word": "安永",
@@ -15081,6 +15137,14 @@
       "onboard_time": 1675481908,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 485522,
+      "num": 485522,
+      "word": "鞠婧祎学生装造型随拍",
+      "onboard_time": 1676717548,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 485452,
@@ -17409,6 +17473,14 @@
       "onboard_time": 1675264414,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420578,
+      "num": 420578,
+      "word": "被丈夫泼硫酸毁容女子发声",
+      "onboard_time": 1676716527,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420137,
@@ -22131,6 +22203,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 320779,
+      "num": 320779,
+      "word": "阮流筝提分手",
+      "onboard_time": 1676718630,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 320534,
       "num": 320534,
       "word": "瑞典女足4比1中国女足",
@@ -23315,6 +23395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301602,
+      "num": 301602,
+      "word": "黄明昊演唱会",
+      "onboard_time": 1676718809,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 301548,
       "num": 216105,
       "word": "杨幂白切黑变脸视频",
@@ -23435,12 +23523,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300106,
+      "num": 300106,
+      "word": "桂林等多地校园被指使用违规教材",
+      "onboard_time": 1676717008,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 299955,
       "num": 299955,
       "word": "必应聊天机器人爱上用户并诱其离开妻子",
       "onboard_time": 1676610097,
       "rank": 30,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 299843,
+      "num": 299843,
+      "word": "20元人民币老爷爷去世",
+      "onboard_time": 1676718630,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299719,
@@ -24353,14 +24457,6 @@
       "onboard_time": 1675830034,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 286294,
-      "num": 286294,
-      "word": "广东一餐厅被曝水壶里爬出蟑螂",
-      "onboard_time": 1676715749,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286265,
@@ -25867,6 +25963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266635,
+      "num": 238385,
+      "word": "吴宣仪机场出发前的ootd",
+      "onboard_time": 1676718870,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266619,
       "num": 266619,
       "word": "宁至谦他急了",
@@ -25907,12 +26011,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 266097,
-      "num": 266097,
-      "word": "丈夫泼妻子硫酸被行拘10日",
-      "onboard_time": 1676716048,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 266225,
+      "num": 233449,
+      "word": "时代少年团乌托邦少年拍摄花絮",
+      "onboard_time": 1676718931,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 266055,
@@ -31291,6 +31395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198296,
+      "num": 147183,
+      "word": "光渊台词",
+      "onboard_time": 1676716709,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198255,
       "num": 198255,
       "word": "星穹铁道公测时间疑似泄露",
@@ -36049,14 +36161,6 @@
       "onboard_time": 1676356832,
       "rank": 45,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 158928,
-      "num": 158928,
-      "word": "女性主义",
-      "onboard_time": 1676716348,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 158918,
