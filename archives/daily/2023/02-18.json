@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676733489912,
+  "endTime": 1676734415859,
   "band_list": [
     {
       "raw_hot": 3218547,
@@ -307,6 +307,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1049498,
+      "num": 806420,
+      "word": "无毛猫被前主人纹身打耳环",
+      "onboard_time": 1676731290,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1037576,
       "num": 1037576,
       "word": "美国被曝炸毁北溪新证据",
@@ -329,14 +337,6 @@
       "onboard_time": 1676705248,
       "rank": 34,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1004084,
-      "num": 806420,
-      "word": "无毛猫被前主人纹身打耳环",
-      "onboard_time": 1676731290,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 979715,
@@ -521,6 +521,14 @@
       "onboard_time": 1676724450,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 730162,
+      "num": 606030,
+      "word": "众星给黄明昊录制生日祝福VCR",
+      "onboard_time": 1676733396,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 724808,
@@ -763,6 +771,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 550406,
+      "num": 550406,
+      "word": "柯哀",
+      "onboard_time": 1676733451,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 549803,
       "num": 549803,
       "word": "1岁多娃爱甜食61斤疑患库欣综合征",
@@ -971,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 457451,
+      "num": 457451,
+      "word": "徐明浩金珉奎获奖reaction",
+      "onboard_time": 1676732973,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 448739,
       "num": 352854,
       "word": "蔡徐坤特效视频",
@@ -1067,14 +1091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 416771,
-      "num": 416771,
-      "word": "徐明浩金珉奎获奖reaction",
-      "onboard_time": 1676732973,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 410253,
       "num": 410253,
       "word": "云南80后女局长段颖被双开",
@@ -1163,14 +1179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380551,
-      "num": 380551,
-      "word": "众星给黄明昊录制生日祝福VCR",
-      "onboard_time": 1676733396,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 380153,
       "num": 380153,
       "word": "严浩翔白色挑染珍珠内搭造型",
@@ -1195,20 +1203,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376801,
+      "num": 376801,
+      "word": "玄商接吻引发天气异象",
+      "onboard_time": 1676731831,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 376616,
       "num": 376616,
       "word": "美国连巧取都没有只剩豪夺",
       "onboard_time": 1676727210,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 373749,
-      "num": 373749,
-      "word": "玄商接吻引发天气异象",
-      "onboard_time": 1676731831,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 366582,
@@ -1355,6 +1363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314036,
+      "num": 314036,
+      "word": "男子去面试偶遇6岁女孩自拍被亲",
+      "onboard_time": 1676733871,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311261,
       "num": 311261,
       "word": "cpsp排队",
@@ -1387,8 +1403,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306125,
-      "num": 306125,
+      "raw_hot": 306183,
+      "num": 306183,
       "word": "当你误发消息给妈妈",
       "onboard_time": 1676730694,
       "rank": 48,
@@ -1544,6 +1560,22 @@
       "word": "华晨宇白举纲唱逃离地球表面",
       "onboard_time": 1676729134,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 262780,
+      "num": 262780,
+      "word": "TheShy奎桑提",
+      "onboard_time": 1676733275,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 262623,
+      "num": 262623,
+      "word": "种地吧10个人搬了30吨化肥",
+      "onboard_time": 1676733152,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1835,20 +1867,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219160,
-      "num": 219160,
-      "word": "种地吧10个人搬了30吨化肥",
-      "onboard_time": 1676733152,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218722,
       "num": 218722,
       "word": "蚁人3票房破5000万",
       "onboard_time": 1676685026,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217590,
+      "num": 217590,
+      "word": "哺乳期女子点外卖骑手提醒不卫生",
+      "onboard_time": 1676734053,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215573,
@@ -1889,14 +1921,6 @@
       "onboard_time": 1676719590,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207233,
-      "num": 207233,
-      "word": "TheShy奎桑提",
-      "onboard_time": 1676733275,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 203929,
@@ -2043,6 +2067,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 179133,
+      "num": 179133,
+      "word": "李小冉说演老年的自己是新体验",
+      "onboard_time": 1676733513,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179094,
       "num": 179094,
       "word": "张大大问助理自己和王嘉尔谁帅",
@@ -2169,14 +2201,6 @@
       "onboard_time": 1676626891,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 167265,
-      "num": 167265,
-      "word": "柯哀",
-      "onboard_time": 1676733451,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 164678,
