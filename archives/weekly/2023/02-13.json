@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676698409730,
+  "endTime": 1676701366802,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -137,6 +137,14 @@
       "onboard_time": 1676357553,
       "rank": 0,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 3070624,
+      "num": 3070624,
+      "word": "沈巍",
+      "onboard_time": 1676698050,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 3062512,
@@ -1035,6 +1043,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 1470007,
+      "num": 1470007,
+      "word": "菲律宾一架飞机早上起飞后失联",
+      "onboard_time": 1676699667,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1469649,
       "num": 1469649,
       "word": "马思纯说张哲轩像太阳一样照亮她",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1676359052,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1128188,
+      "num": 1128188,
+      "word": "警方回应狂飙拍摄地旧厂街拍照收费",
+      "onboard_time": 1676697268,
+      "rank": 22,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 1126413,
@@ -2243,14 +2267,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 910374,
-      "num": 910374,
-      "word": "沈巍",
-      "onboard_time": 1676698050,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 904926,
       "num": 904926,
       "word": "村民以为杨紫是拍搞笑视频的",
@@ -2377,14 +2393,6 @@
       "onboard_time": 1676350298,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 860422,
-      "num": 860422,
-      "word": "警方回应狂飙拍摄地旧厂街拍照收费",
-      "onboard_time": 1676697268,
-      "rank": 22,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 859395,
@@ -2809,6 +2817,14 @@
       "onboard_time": 1676384917,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 758207,
+      "num": 758207,
+      "word": "一生未婚的爷爷离世捐出角膜救人",
+      "onboard_time": 1676699128,
+      "rank": 8,
+      "category": "社会正能量,情感"
     },
     {
       "raw_hot": 756824,
@@ -3299,6 +3315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686645,
+      "num": 686645,
+      "word": "0713录制种地吧路透",
+      "onboard_time": 1676700508,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 686298,
       "num": 686298,
       "word": "高铁晚点",
@@ -3576,6 +3600,14 @@
       "word": "孙女晒奶奶1954年寒假作业",
       "onboard_time": 1676607453,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638382,
+      "num": 638382,
+      "word": "女子买电子表挂墙1年后发现没撕膜",
+      "onboard_time": 1676696669,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -3953,14 +3985,6 @@
       "onboard_time": 1676243297,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 586022,
-      "num": 586022,
-      "word": "女子买电子表挂墙1年后发现没撕膜",
-      "onboard_time": 1676696669,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 583971,
@@ -6603,6 +6627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359842,
+      "num": 359842,
+      "word": "马伯庸说费启鸣把丰宝玉演活了",
+      "onboard_time": 1676700449,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359758,
       "num": 333916,
       "word": "陈奕迅情人节文案好甜",
@@ -6785,6 +6817,14 @@
       "onboard_time": 1676250149,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 345898,
+      "num": 345898,
+      "word": "新疆男篮回应篮协处罚决定",
+      "onboard_time": 1676698406,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 345829,
@@ -7667,6 +7707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297628,
+      "num": 297628,
+      "word": "光与夜之恋",
+      "onboard_time": 1676700931,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295128,
       "num": 295128,
       "word": "中方将对有关美国实体采取反制措施",
@@ -7921,6 +7969,14 @@
       "onboard_time": 1676545470,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283419,
+      "num": 283419,
+      "word": "种地吧成员精神状态",
+      "onboard_time": 1676700750,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 282490,
@@ -8596,7 +8652,7 @@
     },
     {
       "raw_hot": 255209,
-      "num": 213102,
+      "num": 230505,
       "word": "姚晨模仿王菲和周星驰",
       "onboard_time": 1676697268,
       "rank": 44,
@@ -8753,6 +8809,14 @@
       "onboard_time": 1676635891,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 246537,
+      "num": 246537,
+      "word": "一家要建房全村跑来搭积木",
+      "onboard_time": 1676698827,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246159,
@@ -9739,6 +9803,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 205673,
+      "num": 205673,
+      "word": "魏大勋说我是桃花花神",
+      "onboard_time": 1676700508,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205662,
       "num": 205662,
       "word": "妈妈用避孕套纸箱装零食寄女儿",
@@ -9777,6 +9849,14 @@
       "onboard_time": 1676337216,
       "rank": 35,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 203172,
+      "num": 154339,
+      "word": "黑豹2票房破亿",
+      "onboard_time": 1676700988,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 203135,
@@ -10219,6 +10299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190091,
+      "num": 149859,
+      "word": "种地吧",
+      "onboard_time": 1676700449,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190058,
       "num": 187114,
       "word": "男子130预定玫瑰情人节加价至248",
@@ -10363,12 +10451,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187504,
+      "num": 147273,
+      "word": "镇魂",
+      "onboard_time": 1676701347,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187438,
       "num": 187438,
       "word": "Apex",
       "onboard_time": 1676467172,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187370,
+      "num": 140751,
+      "word": "夺梦",
+      "onboard_time": 1676698468,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 187205,
@@ -11611,6 +11715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140426,
+      "num": 140426,
+      "word": "GEN粉丝卡车喊话",
+      "onboard_time": 1676699128,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140358,
       "num": 140358,
       "word": "严防消费贷款违规入楼市",
@@ -11913,14 +12025,6 @@
       "onboard_time": 1676216313,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 120574,
-      "num": 120574,
-      "word": "新疆男篮回应篮协处罚决定",
-      "onboard_time": 1676698406,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 120175,

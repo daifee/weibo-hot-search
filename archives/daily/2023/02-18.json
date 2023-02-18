@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676698409730,
+  "endTime": 1676701366802,
   "band_list": [
     {
       "raw_hot": 3218547,
@@ -9,6 +9,14 @@
       "onboard_time": 1676686285,
       "rank": 0,
       "category": "网红,情感"
+    },
+    {
+      "raw_hot": 3070624,
+      "num": 3070624,
+      "word": "沈巍",
+      "onboard_time": 1676698050,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 2893078,
@@ -107,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1470007,
+      "num": 1470007,
+      "word": "菲律宾一架飞机早上起飞后失联",
+      "onboard_time": 1676699667,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1456811,
       "num": 375800,
       "word": "费渡",
@@ -163,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1128188,
+      "num": 1128188,
+      "word": "警方回应狂飙拍摄地旧厂街拍照收费",
+      "onboard_time": 1676697268,
+      "rank": 22,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 1072151,
       "num": 1072151,
       "word": "云南2失联男孩遗体在水库被发现",
@@ -195,14 +219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 910374,
-      "num": 910374,
-      "word": "沈巍",
-      "onboard_time": 1676698050,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 904926,
       "num": 904926,
       "word": "村民以为杨紫是拍搞笑视频的",
@@ -217,14 +233,6 @@
       "onboard_time": 1676681666,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 860422,
-      "num": 860422,
-      "word": "警方回应狂飙拍摄地旧厂街拍照收费",
-      "onboard_time": 1676697268,
-      "rank": 22,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 852875,
@@ -251,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 758207,
+      "num": 758207,
+      "word": "一生未婚的爷爷离世捐出角膜救人",
+      "onboard_time": 1676699128,
+      "rank": 8,
+      "category": "社会正能量,情感"
+    },
+    {
       "raw_hot": 724808,
       "num": 724808,
       "word": "肖战 米兰时装周",
@@ -267,11 +283,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 686645,
+      "num": 686645,
+      "word": "0713录制种地吧路透",
+      "onboard_time": 1676700508,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 685403,
       "num": 685403,
       "word": "女子情人节领证次日被家暴",
       "onboard_time": 1676697690,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638382,
+      "num": 638382,
+      "word": "女子买电子表挂墙1年后发现没撕膜",
+      "onboard_time": 1676696669,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -337,14 +369,6 @@
       "onboard_time": 1676640751,
       "rank": 13,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 586022,
-      "num": 586022,
-      "word": "女子买电子表挂墙1年后发现没撕膜",
-      "onboard_time": 1676696669,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 583431,
@@ -579,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359842,
+      "num": 359842,
+      "word": "马伯庸说费启鸣把丰宝玉演活了",
+      "onboard_time": 1676700449,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353999,
       "num": 353999,
       "word": "长了一颗老虎胆的女植物学家走了",
@@ -619,6 +651,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 345898,
+      "num": 345898,
+      "word": "新疆男篮回应篮协处罚决定",
+      "onboard_time": 1676698406,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330946,
       "num": 330946,
       "word": "乌梅子酱搜索量暴涨200倍",
@@ -648,6 +688,14 @@
       "word": "朱志鑫演的冯彬",
       "onboard_time": 1676690907,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 316416,
+      "num": 316416,
+      "word": "君子盟",
+      "onboard_time": 1676700449,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -683,6 +731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 297628,
+      "num": 297628,
+      "word": "光与夜之恋",
+      "onboard_time": 1676700931,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285438,
       "num": 285438,
       "word": "iPhone14ProMax烧屏",
@@ -697,6 +753,14 @@
       "onboard_time": 1676682388,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283419,
+      "num": 283419,
+      "word": "种地吧成员精神状态",
+      "onboard_time": 1676700750,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 282490,
@@ -740,7 +804,7 @@
     },
     {
       "raw_hot": 255209,
-      "num": 213102,
+      "num": 230505,
       "word": "姚晨模仿王菲和周星驰",
       "onboard_time": 1676697268,
       "rank": 44,
@@ -785,6 +849,14 @@
       "onboard_time": 1676679444,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 246537,
+      "num": 246537,
+      "word": "一家要建房全村跑来搭积木",
+      "onboard_time": 1676698827,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245558,
@@ -899,11 +971,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205673,
+      "num": 205673,
+      "word": "魏大勋说我是桃花花神",
+      "onboard_time": 1676700508,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203929,
       "num": 203929,
       "word": "模范出租车2",
       "onboard_time": 1676647411,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 203172,
+      "num": 154339,
+      "word": "黑豹2票房破亿",
+      "onboard_time": 1676700988,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -939,6 +1027,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 190091,
+      "num": 149859,
+      "word": "种地吧",
+      "onboard_time": 1676700449,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189057,
       "num": 189057,
       "word": "住进心里的粤语歌",
@@ -960,6 +1056,22 @@
       "word": "萧寒何冉浴室相拥",
       "onboard_time": 1676648969,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187504,
+      "num": 147273,
+      "word": "镇魂",
+      "onboard_time": 1676701347,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187370,
+      "num": 140751,
+      "word": "夺梦",
+      "onboard_time": 1676698468,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -1147,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140426,
+      "num": 140426,
+      "word": "GEN粉丝卡车喊话",
+      "onboard_time": 1676699128,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130816,
       "num": 130816,
       "word": "C罗助攻梅开二度",
@@ -1185,14 +1305,6 @@
       "onboard_time": 1676689829,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120574,
-      "num": 120574,
-      "word": "新疆男篮回应篮协处罚决定",
-      "onboard_time": 1676698406,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 118142,
@@ -1274,6 +1386,9 @@
     },
     {
       "word": "#强大的政党是在自我革命中锻造出来的#"
+    },
+    {
+      "word": "#相约传统村落#"
     }
   ]
 }

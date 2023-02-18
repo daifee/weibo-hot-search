@@ -1,0 +1,410 @@
+{
+  "runTime": 1676701366802,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3070624,
+        "num": 3070624,
+        "word": "沈巍",
+        "onboard_time": 1676698050,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2524587,
+        "num": 2524587,
+        "word": "北大宿舍聊天 上野千鹤子",
+        "onboard_time": 1676686285,
+        "rank": 1,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 96044,
+        "num": 1917756,
+        "word": "用RAP方式打开中国县城",
+        "onboard_time": 1676689829,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1764953,
+        "num": 1764953,
+        "word": "家里的布洛芬连花清瘟们何去何从",
+        "onboard_time": 1676693848,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1470007,
+        "num": 1470007,
+        "word": "菲律宾一架飞机早上起飞后失联",
+        "onboard_time": 1676699667,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128188,
+        "num": 1128188,
+        "word": "警方回应狂飙拍摄地旧厂街拍照收费",
+        "onboard_time": 1676697268,
+        "rank": 5,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 1090425,
+        "num": 1090425,
+        "word": "付辛博抬头纹",
+        "onboard_time": 1676692107,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 883680,
+        "num": 883680,
+        "word": "左肩有你",
+        "onboard_time": 1676691567,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 758207,
+        "num": 758207,
+        "word": "一生未婚的爷爷离世捐出角膜救人",
+        "onboard_time": 1676699128,
+        "rank": 8,
+        "category": "社会正能量,情感"
+      },
+      {
+        "raw_hot": 686645,
+        "num": 686645,
+        "word": "0713录制种地吧路透",
+        "onboard_time": 1676700508,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638382,
+        "num": 638382,
+        "word": "女子买电子表挂墙1年后发现没撕膜",
+        "onboard_time": 1676696669,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636354,
+        "num": 636354,
+        "word": "日本789万老人还在打零工",
+        "onboard_time": 1676694390,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630219,
+        "num": 630219,
+        "word": "苏乞儿道歉",
+        "onboard_time": 1676693128,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 614149,
+        "num": 614149,
+        "word": "光渊",
+        "onboard_time": 1676686467,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 527013,
+        "num": 527013,
+        "word": "塔利班在阿富汗两大城市禁售避孕用品",
+        "onboard_time": 1676694690,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568821,
+        "num": 511400,
+        "word": "光渊空降",
+        "onboard_time": 1676687546,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419959,
+        "num": 419959,
+        "word": "艾薇儿否认参加浪姐",
+        "onboard_time": 1676680645,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417726,
+        "num": 417726,
+        "word": "上野千鹤子",
+        "onboard_time": 1676697988,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 399535,
+        "num": 399535,
+        "word": "去世侏儒抹香鲸胃内有大量塑料",
+        "onboard_time": 1676693308,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380244,
+        "num": 380244,
+        "word": "初婚年龄推迟意味着什么",
+        "onboard_time": 1676689647,
+        "rank": 19,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 366868,
+        "num": 366868,
+        "word": "小孩那桌也上不了了",
+        "onboard_time": 1676687068,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 359842,
+        "num": 359842,
+        "word": "马伯庸说费启鸣把丰宝玉演活了",
+        "onboard_time": 1676700449,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345898,
+        "num": 345898,
+        "word": "新疆男篮回应篮协处罚决定",
+        "onboard_time": 1676698406,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316416,
+        "num": 316416,
+        "word": "君子盟",
+        "onboard_time": 1676700449,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304717,
+        "num": 304717,
+        "word": "影院后排抖腿观众被打对方获刑",
+        "onboard_time": 1676693009,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 297628,
+        "num": 297628,
+        "word": "光与夜之恋",
+        "onboard_time": 1676700931,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285949,
+        "num": 285949,
+        "word": "杨超越泳池大片",
+        "onboard_time": 1676692170,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283419,
+        "num": 283419,
+        "word": "种地吧成员精神状态",
+        "onboard_time": 1676700750,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272666,
+        "num": 272666,
+        "word": "烽火流金",
+        "onboard_time": 1676691507,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246537,
+        "num": 246537,
+        "word": "一家要建房全村跑来搭积木",
+        "onboard_time": 1676698827,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236951,
+        "num": 236951,
+        "word": "张新成造型",
+        "onboard_time": 1676688928,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230505,
+        "num": 230505,
+        "word": "姚晨模仿王菲和周星驰",
+        "onboard_time": 1676697268,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229511,
+        "num": 229511,
+        "word": "如果不缴纳五险一金会怎样",
+        "onboard_time": 1676648791,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228592,
+        "num": 228592,
+        "word": "君子盟光渊 换乘恋爱",
+        "onboard_time": 1676693067,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225372,
+        "num": 225372,
+        "word": "教授称年轻人没精力生那么多孩子",
+        "onboard_time": 1676683288,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219859,
+        "num": 219859,
+        "word": "蔡徐坤特效视频",
+        "onboard_time": 1676696130,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205673,
+        "num": 205673,
+        "word": "魏大勋说我是桃花花神",
+        "onboard_time": 1676700508,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204266,
+        "num": 204266,
+        "word": "中国乒乓 排片",
+        "onboard_time": 1676692947,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180870,
+        "num": 180870,
+        "word": "女孩因学习压力大反锁房门昏迷",
+        "onboard_time": 1676688629,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 161499,
+        "num": 161499,
+        "word": "长期久坐容易形成血栓",
+        "onboard_time": 1676684967,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203383,
+        "num": 159872,
+        "word": "山河表里",
+        "onboard_time": 1676692407,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203172,
+        "num": 154339,
+        "word": "黑豹2票房破亿",
+        "onboard_time": 1676700988,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190091,
+        "num": 149859,
+        "word": "种地吧",
+        "onboard_time": 1676700449,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187504,
+        "num": 147273,
+        "word": "镇魂",
+        "onboard_time": 1676701347,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187370,
+        "num": 140751,
+        "word": "夺梦",
+        "onboard_time": 1676698468,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140426,
+        "num": 140426,
+        "word": "GEN粉丝卡车喊话",
+        "onboard_time": 1676699128,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132636,
+        "num": 132636,
+        "word": "XBB.1.5免疫逃逸能力增强",
+        "onboard_time": 1676682927,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125656,
+        "num": 125656,
+        "word": "女子情人节领证次日被家暴",
+        "onboard_time": 1676697690,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121318,
+        "num": 121318,
+        "word": "湖北初婚年龄突破30岁",
+        "onboard_time": 1676681666,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102583,
+        "num": 102583,
+        "word": "土家族姑娘出嫁前要背4本哭嫁词",
+        "onboard_time": 1676684788,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#相约传统村落#"
+    }
+  }
+}
