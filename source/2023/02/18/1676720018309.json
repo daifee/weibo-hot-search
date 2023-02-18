@@ -1,0 +1,410 @@
+{
+  "runTime": 1676720018309,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2470651,
+        "num": 2470651,
+        "word": "曾经很火但消失了的APP",
+        "onboard_time": 1676716829,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1628338,
+        "num": 1628338,
+        "word": "近期又开始发烧是否等于复阳",
+        "onboard_time": 1676717489,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14895,
+        "num": 1600320,
+        "word": "用RAP方式打开中国县城",
+        "onboard_time": 1676689829,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1590842,
+        "num": 1590842,
+        "word": "20元人民币老爷爷去世",
+        "onboard_time": 1676718630,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2344408,
+        "num": 1486104,
+        "word": "六大门派围攻光明顶",
+        "onboard_time": 1676711967,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1363471,
+        "num": 1363471,
+        "word": "镇魂",
+        "onboard_time": 1676701347,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 868012,
+        "num": 868012,
+        "word": "女性主义",
+        "onboard_time": 1676716348,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 864674,
+        "num": 864674,
+        "word": "烽火流金 烽火令",
+        "onboard_time": 1676718568,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 704729,
+        "num": 704729,
+        "word": "张新成撞脸易立竞",
+        "onboard_time": 1676717190,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 702813,
+        "num": 702813,
+        "word": "阮流筝提分手",
+        "onboard_time": 1676718630,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 617570,
+        "num": 617570,
+        "word": "城管已制止狂飙拍摄地拍照收费一事",
+        "onboard_time": 1676713227,
+        "rank": 10,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 496733,
+        "num": 496733,
+        "word": "鞠婧祎学生装造型随拍",
+        "onboard_time": 1676717548,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478384,
+        "num": 478384,
+        "word": "被丈夫泼硫酸毁容女子发声",
+        "onboard_time": 1676716527,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471809,
+        "num": 471809,
+        "word": "丈夫泼妻子硫酸被行拘10日",
+        "onboard_time": 1676716048,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432863,
+        "num": 432863,
+        "word": "黄明昊演唱会",
+        "onboard_time": 1676718809,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 425087,
+        "num": 425087,
+        "word": "迪丽热巴最新怼脸大片",
+        "onboard_time": 1676703868,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 402880,
+        "num": 402880,
+        "word": "北大宿舍聊天 上野千鹤子",
+        "onboard_time": 1676686285,
+        "rank": 16,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 382705,
+        "num": 382705,
+        "word": "镇魂站内热度超过光渊",
+        "onboard_time": 1676719288,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344820,
+        "num": 344820,
+        "word": "桂林等多地校园被指使用违规教材",
+        "onboard_time": 1676717008,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 312582,
+        "num": 312582,
+        "word": "广东一餐厅被曝水壶里爬出蟑螂",
+        "onboard_time": 1676715749,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060034,
+        "num": 294545,
+        "word": "娃哈哈被曝八宝粥发黑长毛",
+        "onboard_time": 1676713769,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645511,
+        "num": 288834,
+        "word": "女士优先车厢男子坐满女子站立",
+        "onboard_time": 1676713047,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369177,
+        "num": 248360,
+        "word": "aespa颁奖礼新闻图",
+        "onboard_time": 1676714488,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337213,
+        "num": 237471,
+        "word": "金道英赵美延比心",
+        "onboard_time": 1676715389,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223731,
+        "num": 223731,
+        "word": "家里的布洛芬连花清瘟们何去何从",
+        "onboard_time": 1676693848,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303614,
+        "num": 220830,
+        "word": "张颂文的农家院",
+        "onboard_time": 1676701407,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274241,
+        "num": 219744,
+        "word": "吴宣仪机场出发前的ootd",
+        "onboard_time": 1676718870,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265033,
+        "num": 217859,
+        "word": "中国乒乓票房",
+        "onboard_time": 1676703325,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213790,
+        "num": 213790,
+        "word": "雄安楼盘开卖单价1.4万",
+        "onboard_time": 1676704889,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 193062,
+        "num": 193062,
+        "word": "养了2年狗狗每天送小女孩上学",
+        "onboard_time": 1676710830,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246550,
+        "num": 189976,
+        "word": "左肩有你",
+        "onboard_time": 1676691567,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234550,
+        "num": 188803,
+        "word": "沈小婷Circle红毯新闻图",
+        "onboard_time": 1676711428,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226469,
+        "num": 185338,
+        "word": "光渊",
+        "onboard_time": 1676686467,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179329,
+        "num": 179329,
+        "word": "警方回应男子泼妻子硫酸仅拘10天",
+        "onboard_time": 1676705248,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 167574,
+        "num": 167574,
+        "word": "菲律宾一架飞机早上起飞后失联",
+        "onboard_time": 1676699667,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222602,
+        "num": 165206,
+        "word": "时代少年团乌托邦少年拍摄花絮",
+        "onboard_time": 1676718931,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212687,
+        "num": 162443,
+        "word": "满江红",
+        "onboard_time": 1676716829,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155647,
+        "num": 155647,
+        "word": "RW对战DRG",
+        "onboard_time": 1676719469,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146480,
+        "num": 146480,
+        "word": "奶奶用边角料给孙女做中式套装",
+        "onboard_time": 1676704407,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136097,
+        "num": 136097,
+        "word": "这位小熊友是不是偷偷补墨水了",
+        "onboard_time": 1676711487,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209318,
+        "num": 135840,
+        "word": "沈月双马尾小香风剧照六宫格",
+        "onboard_time": 1676719590,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203765,
+        "num": 133316,
+        "word": "沈巍",
+        "onboard_time": 1676698050,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192281,
+        "num": 131822,
+        "word": "流浪地球2票房破38亿",
+        "onboard_time": 1676711727,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180610,
+        "num": 130090,
+        "word": "光渊台词",
+        "onboard_time": 1676716709,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155234,
+        "num": 126504,
+        "word": "于正说还挺欣赏张一山的表演",
+        "onboard_time": 1676709449,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142516,
+        "num": 126113,
+        "word": "张栋梁何洁唱跳失恋阵线联盟",
+        "onboard_time": 1676715149,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124462,
+        "num": 124462,
+        "word": "马龙谈首次混双搭档陈梦",
+        "onboard_time": 1676710288,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124191,
+        "num": 124191,
+        "word": "一生未婚的爷爷离世捐出角膜救人",
+        "onboard_time": 1676699128,
+        "rank": 47,
+        "category": "社会正能量,情感"
+      },
+      {
+        "raw_hot": 106615,
+        "num": 106615,
+        "word": "雨水养生可以这样做",
+        "onboard_time": 1676719829,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100107,
+        "num": 106335,
+        "word": "前切尔西球员在地震中遇难",
+        "onboard_time": 1676709387,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国上下同向奔赴阔步向前#"
+    }
+  }
+}

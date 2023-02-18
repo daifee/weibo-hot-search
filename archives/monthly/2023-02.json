@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676718954215,
+  "endTime": 1676720018309,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -899,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2470651,
+      "num": 2470651,
+      "word": "曾经很火但消失了的APP",
+      "onboard_time": 1676716829,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2464987,
       "num": 2464987,
       "word": "微信一手机号可注册两账号",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1675998513,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2107055,
-      "num": 2107055,
-      "word": "曾经很火但消失了的APP",
-      "onboard_time": 1676716829,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 2106872,
@@ -2459,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1628338,
+      "num": 1628338,
+      "word": "近期又开始发烧是否等于复阳",
+      "onboard_time": 1676717489,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1628326,
       "num": 1628326,
       "word": "丈夫偷拍妻子在副驾吃喝睡780公里",
@@ -2553,6 +2561,14 @@
       "onboard_time": 1675415612,
       "rank": 42,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 1590842,
+      "num": 1590842,
+      "word": "20元人民币老爷爷去世",
+      "onboard_time": 1676718630,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1578679,
@@ -6059,14 +6075,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 953425,
-      "num": 953425,
-      "word": "近期又开始发烧是否等于复阳",
-      "onboard_time": 1676717489,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 953057,
       "num": 953057,
       "word": "曝HYBE收购SMTOWN股份",
@@ -7025,6 +7033,14 @@
       "onboard_time": 1676350298,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 864674,
+      "num": 864674,
+      "word": "烽火流金 烽火令",
+      "onboard_time": 1676718568,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 864086,
@@ -9529,6 +9545,14 @@
       "onboard_time": 1675603712,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 702813,
+      "num": 702813,
+      "word": "阮流筝提分手",
+      "onboard_time": 1676718630,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 702725,
@@ -14147,14 +14171,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 517067,
-      "num": 517067,
-      "word": "烽火流金 烽火令",
-      "onboard_time": 1676718568,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 516780,
       "num": 516780,
       "word": "马思纯姜思达谈抑郁症",
@@ -14763,6 +14779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496733,
+      "num": 496733,
+      "word": "鞠婧祎学生装造型随拍",
+      "onboard_time": 1676717548,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496355,
       "num": 496355,
       "word": "边牧绝育后站医院门口撒尿报复",
@@ -15139,14 +15163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 485522,
-      "num": 485522,
-      "word": "鞠婧祎学生装造型随拍",
-      "onboard_time": 1676717548,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 485452,
       "num": 485452,
       "word": "上海女子激励男友买车情人节送充电桩",
@@ -15345,6 +15361,14 @@
       "onboard_time": 1676425709,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 478384,
+      "num": 478384,
+      "word": "被丈夫泼硫酸毁容女子发声",
+      "onboard_time": 1676716527,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478273,
@@ -16947,6 +16971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 432863,
+      "num": 432863,
+      "word": "黄明昊演唱会",
+      "onboard_time": 1676718809,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 432667,
       "num": 432667,
       "word": "巴黎偶遇金敏喜",
@@ -17473,14 +17505,6 @@
       "onboard_time": 1675264414,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 420578,
-      "num": 420578,
-      "word": "被丈夫泼硫酸毁容女子发声",
-      "onboard_time": 1676716527,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 420137,
@@ -19219,6 +19243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382705,
+      "num": 382705,
+      "word": "镇魂站内热度超过光渊",
+      "onboard_time": 1676719288,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 382615,
       "num": 382615,
       "word": "ChatGPT官网已无法登陆",
@@ -20923,6 +20955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 344820,
+      "num": 344820,
+      "word": "桂林等多地校园被指使用违规教材",
+      "onboard_time": 1676717008,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 344696,
       "num": 344696,
       "word": "面试一趟有多难",
@@ -22203,14 +22243,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 320779,
-      "num": 320779,
-      "word": "阮流筝提分手",
-      "onboard_time": 1676718630,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 320534,
       "num": 320534,
       "word": "瑞典女足4比1中国女足",
@@ -23395,14 +23427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301602,
-      "num": 301602,
-      "word": "黄明昊演唱会",
-      "onboard_time": 1676718809,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 301548,
       "num": 216105,
       "word": "杨幂白切黑变脸视频",
@@ -23523,28 +23547,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 300106,
-      "num": 300106,
-      "word": "桂林等多地校园被指使用违规教材",
-      "onboard_time": 1676717008,
-      "rank": 24,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 299955,
       "num": 299955,
       "word": "必应聊天机器人爱上用户并诱其离开妻子",
       "onboard_time": 1676610097,
       "rank": 30,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 299843,
-      "num": 299843,
-      "word": "20元人民币老爷爷去世",
-      "onboard_time": 1676718630,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299719,
@@ -25347,6 +25355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274241,
+      "num": 238385,
+      "word": "吴宣仪机场出发前的ootd",
+      "onboard_time": 1676718870,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274240,
       "num": 274240,
       "word": "地铁回应老人带孩子在车厢内小便",
@@ -25961,14 +25977,6 @@
       "onboard_time": 1675725439,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 266635,
-      "num": 238385,
-      "word": "吴宣仪机场出发前的ootd",
-      "onboard_time": 1676718870,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 266619,
@@ -30432,6 +30440,14 @@
       "word": "何广智用便携式红毯闯时尚圈",
       "onboard_time": 1675581807,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209318,
+      "num": 135840,
+      "word": "沈月双马尾小香风剧照六宫格",
+      "onboard_time": 1676719590,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -36419,6 +36435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155647,
+      "num": 155647,
+      "word": "RW对战DRG",
+      "onboard_time": 1676719469,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155626,
       "num": 155626,
       "word": "李宏毅说坐等帅家默",
@@ -39089,6 +39113,14 @@
       "onboard_time": 1675854335,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 106615,
+      "num": 106615,
+      "word": "雨水养生可以这样做",
+      "onboard_time": 1676719829,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106580,
