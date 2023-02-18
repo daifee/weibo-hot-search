@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676756018657,
+  "endTime": 1676758639241,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -40643,6 +40643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55381,
+      "num": 55381,
+      "word": "现在的大学生开学",
+      "onboard_time": 1676752572,
+      "rank": 16,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 55261,
       "num": 55261,
       "word": "郑钦文止步四强",
@@ -40801,14 +40809,6 @@
       "onboard_time": 1675540633,
       "rank": 35,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 46671,
-      "num": 46671,
-      "word": "现在的大学生开学",
-      "onboard_time": 1676752572,
-      "rank": 16,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 46464,

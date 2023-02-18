@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/13 00:24:26 ~ 2023/02/19 05:33:38
+本榜单时间：2023/02/13 00:24:26 ~ 2023/02/19 06:17:19
 </p>
 </blockquote>
 <p>
@@ -10233,6 +10233,12 @@ WBG春季赛首周冠军（热度：115830）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%23" target="weibo">
+现在的大学生开学（热度：55381）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%85%B8%E6%9C%89%E7%90%B4%E5%A4%9C%E6%98%99%E5%88%9D%E5%90%BB%23" target="weibo">
 少典有琴夜昙初吻（热度：53886）
 </a>
@@ -10253,12 +10259,6 @@ WBG春季赛首周冠军（热度：115830）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E9%95%BF%E7%99%BD%E5%B1%B1%E6%BB%91%E9%9B%AAvlog%23" target="weibo">
 龚俊长白山滑雪vlog（热度：48185）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%23" target="weibo">
-现在的大学生开学（热度：46671）
 </a>
 </li>
 

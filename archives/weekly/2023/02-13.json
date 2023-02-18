@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676756018657,
+  "endTime": 1676758639241,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -13627,6 +13627,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 55381,
+      "num": 55381,
+      "word": "现在的大学生开学",
+      "onboard_time": 1676752572,
+      "rank": 16,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 53886,
       "num": 53886,
       "word": "少典有琴夜昙初吻",
@@ -13657,14 +13665,6 @@
       "onboard_time": 1676402773,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46671,
-      "num": 46671,
-      "word": "现在的大学生开学",
-      "onboard_time": 1676752572,
-      "rank": 16,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 44969,

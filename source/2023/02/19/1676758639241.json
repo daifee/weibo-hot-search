@@ -1,0 +1,410 @@
+{
+  "runTime": 1676758639241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 320403,
+        "num": 320403,
+        "word": "香港大学宣布禁用ChatGPT",
+        "onboard_time": 1676736818,
+        "rank": 0,
+        "category": "教育,科技"
+      },
+      {
+        "raw_hot": 223010,
+        "num": 223010,
+        "word": "曾经很火但消失了的APP",
+        "onboard_time": 1676716829,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 9000,
+        "num": 192256,
+        "word": "团结奋斗再出发",
+        "onboard_time": 1676723008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169769,
+        "num": 169769,
+        "word": "美甲最好隔20天左右就卸除",
+        "onboard_time": 1676737406,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144694,
+        "num": 144694,
+        "word": "哺乳期女子点外卖骑手提醒不卫生",
+        "onboard_time": 1676734053,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126409,
+        "num": 126409,
+        "word": "男子去面试偶遇6岁女孩自拍被亲",
+        "onboard_time": 1676733871,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118280,
+        "num": 118280,
+        "word": "近期又开始发烧是否等于复阳",
+        "onboard_time": 1676717489,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106800,
+        "num": 106800,
+        "word": "独居后才知道生活常识",
+        "onboard_time": 1676736631,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94834,
+        "num": 94834,
+        "word": "你好星期六下期有韩庚于文文",
+        "onboard_time": 1676737826,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81098,
+        "num": 81098,
+        "word": "20元人民币老爷爷去世",
+        "onboard_time": 1676718630,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111969,
+        "num": 80703,
+        "word": "无毛猫被前主人纹身打耳环",
+        "onboard_time": 1676731290,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72718,
+        "num": 72718,
+        "word": "董明珠 张兰",
+        "onboard_time": 1676727569,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66387,
+        "num": 66387,
+        "word": "闫妮好疯 我好喜欢",
+        "onboard_time": 1676722950,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63302,
+        "num": 63302,
+        "word": "男子称买200元螃蟹皮套得占70元",
+        "onboard_time": 1676740582,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62551,
+        "num": 62551,
+        "word": "教师是否应该统一着装",
+        "onboard_time": 1676726791,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 55381,
+        "num": 55381,
+        "word": "现在的大学生开学",
+        "onboard_time": 1676752572,
+        "rank": 15,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 51486,
+        "num": 51486,
+        "word": "柯哀",
+        "onboard_time": 1676733451,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 47208,
+        "num": 47208,
+        "word": "美国连巧取都没有只剩豪夺",
+        "onboard_time": 1676727210,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 46505,
+        "num": 46505,
+        "word": "苹果或将无法在美销售AppleWatch",
+        "onboard_time": 1676727691,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 45323,
+        "num": 45323,
+        "word": "姜涩琪不能跳HypeBoy的理由",
+        "onboard_time": 1676731954,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 42795,
+        "num": 42795,
+        "word": "种地吧10个人搬了30吨化肥",
+        "onboard_time": 1676733152,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39508,
+        "num": 39508,
+        "word": "林家川回应狂飙拍摄地收费",
+        "onboard_time": 1676731531,
+        "rank": 21,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 39008,
+        "num": 39008,
+        "word": "TheShy和Ning碰拳",
+        "onboard_time": 1676735969,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38620,
+        "num": 38620,
+        "word": "女士优先车厢男子坐满女子站立",
+        "onboard_time": 1676713047,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36723,
+        "num": 36723,
+        "word": "新疆男篮或退出本赛季CBA剩余比赛",
+        "onboard_time": 1676725292,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36177,
+        "num": 36177,
+        "word": "众星给黄明昊录制生日祝福VCR",
+        "onboard_time": 1676733396,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35494,
+        "num": 35494,
+        "word": "全嘻嘻",
+        "onboard_time": 1676722168,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31947,
+        "num": 31947,
+        "word": "破译一个甲骨文奖励10万",
+        "onboard_time": 1676720131,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29996,
+        "num": 29996,
+        "word": "陈楚生首场巡演",
+        "onboard_time": 1676730393,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29053,
+        "num": 29053,
+        "word": "光渊案件",
+        "onboard_time": 1676727810,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28703,
+        "num": 28703,
+        "word": "何与公主抱沈月",
+        "onboard_time": 1676726970,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28698,
+        "num": 28698,
+        "word": "卡琳娜 cpsp",
+        "onboard_time": 1676728172,
+        "rank": 31,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 28098,
+        "num": 28098,
+        "word": "满江红演员呼吁大家关注消防",
+        "onboard_time": 1676748792,
+        "rank": 32,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 27192,
+        "num": 27192,
+        "word": "雪花东方宏be了",
+        "onboard_time": 1676727511,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26696,
+        "num": 26696,
+        "word": "刘耀文的遗憾是不能见证弟弟成长",
+        "onboard_time": 1676730035,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26195,
+        "num": 26195,
+        "word": "粉色雪媚娘坟头",
+        "onboard_time": 1676728352,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25569,
+        "num": 25569,
+        "word": "烽火流金 烽火令",
+        "onboard_time": 1676718568,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25561,
+        "num": 25561,
+        "word": "当你误发消息给妈妈",
+        "onboard_time": 1676730694,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24635,
+        "num": 24635,
+        "word": "切尔西vs南安普顿",
+        "onboard_time": 1676734593,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24550,
+        "num": 24550,
+        "word": "新兰",
+        "onboard_time": 1676727151,
+        "rank": 39,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 23869,
+        "num": 23869,
+        "word": "李一桐的理想型",
+        "onboard_time": 1676728052,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23716,
+        "num": 23716,
+        "word": "名侦探柯南最新ED封面",
+        "onboard_time": 1676722950,
+        "rank": 41,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 23168,
+        "num": 23168,
+        "word": "无畏镜杀疯了",
+        "onboard_time": 1676732432,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22468,
+        "num": 22468,
+        "word": "徐明浩金珉奎获奖reaction",
+        "onboard_time": 1676732973,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22385,
+        "num": 22385,
+        "word": "傲寒",
+        "onboard_time": 1676731112,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21712,
+        "num": 21712,
+        "word": "阮流筝提分手",
+        "onboard_time": 1676718630,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21269,
+        "num": 21269,
+        "word": "成毅莲花楼红衣吊威亚路透视频",
+        "onboard_time": 1676738724,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17943,
+        "num": 21259,
+        "word": "aespa今日舞台",
+        "onboard_time": 1676727091,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17209,
+        "num": 21255,
+        "word": "镇魂",
+        "onboard_time": 1676701347,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17056,
+        "num": 21249,
+        "word": "TheShy奎桑提",
+        "onboard_time": 1676733275,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国上下同向奔赴阔步向前#"
+    }
+  }
+}
