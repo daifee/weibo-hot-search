@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676708568921,
+  "endTime": 1676709404332,
   "band_list": [
     {
       "raw_hot": 3218547,
@@ -83,20 +83,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1750355,
+      "num": 1650127,
+      "word": "镇魂",
+      "onboard_time": 1676701347,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1700112,
       "num": 1700112,
       "word": "艾薇儿回答是否参加浪姐",
       "onboard_time": 1676644655,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1650127,
-      "num": 1650127,
-      "word": "镇魂",
-      "onboard_time": 1676701347,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 1629082,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1022799,
+      "num": 1022799,
+      "word": "警方回应男子泼妻子硫酸仅拘10天",
+      "onboard_time": 1676705248,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 960339,
       "num": 960339,
       "word": "一生未婚的爷爷离世捐出角膜救人",
@@ -251,20 +259,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 932541,
-      "num": 932541,
-      "word": "警方回应男子泼妻子硫酸仅拘10天",
-      "onboard_time": 1676705248,
-      "rank": 34,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 904926,
       "num": 904926,
       "word": "村民以为杨紫是拍搞笑视频的",
       "onboard_time": 1676647171,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 884892,
+      "num": 884892,
+      "word": "雄安楼盘开卖单价1.4万",
+      "onboard_time": 1676704889,
+      "rank": 33,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 884201,
@@ -305,14 +313,6 @@
       "onboard_time": 1676703325,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 799314,
-      "num": 799314,
-      "word": "雄安楼盘开卖单价1.4万",
-      "onboard_time": 1676704889,
-      "rank": 33,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 724808,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489317,
+      "num": 489317,
+      "word": "奶奶用边角料给孙女做中式套装",
+      "onboard_time": 1676704407,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 488928,
       "num": 488928,
       "word": "女孩因学习压力大反锁房门昏迷",
@@ -577,14 +585,6 @@
       "onboard_time": 1676651246,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 443287,
-      "num": 443287,
-      "word": "奶奶用边角料给孙女做中式套装",
-      "onboard_time": 1676704407,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432667,
@@ -697,6 +697,14 @@
       "onboard_time": 1676694208,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358055,
+      "num": 288832,
+      "word": "Circle颁奖礼",
+      "onboard_time": 1676708728,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 353999,
@@ -987,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 241249,
+      "num": 241249,
+      "word": "李一桐赛车服造型",
+      "onboard_time": 1676709029,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238847,
       "num": 238847,
       "word": "刘亦菲捧花头像",
@@ -1043,6 +1059,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 221042,
+      "num": 217559,
+      "word": "这里有人在拍MV是吧",
+      "onboard_time": 1676707168,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 219929,
+      "num": 219929,
+      "word": "研究揭示蜈蚣无眼如何感知阳光",
+      "onboard_time": 1676706510,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 219288,
       "num": 219288,
       "word": "蚁人3好不好看",
@@ -1059,14 +1091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217989,
-      "num": 217989,
-      "word": "研究揭示蜈蚣无眼如何感知阳光",
-      "onboard_time": 1676706510,
-      "rank": 27,
-      "category": "科技"
-    },
-    {
       "raw_hot": 215573,
       "num": 215573,
       "word": "赖美云模仿疯驴子",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1676689228,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212718,
-      "num": 199976,
-      "word": "这里有人在拍MV是吧",
-      "onboard_time": 1676707168,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 210169,
@@ -1211,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183873,
+      "num": 183873,
+      "word": "北斗卫星日定位量已超3000亿次",
+      "onboard_time": 1676708666,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 179094,
       "num": 179094,
       "word": "张大大问助理自己和王嘉尔谁帅",
@@ -1323,6 +1347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161770,
+      "num": 161770,
+      "word": "市监局称狂飙取景地收费系个人行为",
+      "onboard_time": 1676709207,
+      "rank": 37,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 161263,
       "num": 161263,
       "word": "京海中年男子派对",
@@ -1427,6 +1459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139011,
+      "num": 139011,
+      "word": "绝意刺客流公孙离",
+      "onboard_time": 1676708304,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130816,
       "num": 130816,
       "word": "C罗助攻梅开二度",
@@ -1475,20 +1515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122206,
+      "num": 122206,
+      "word": "前切尔西球员在地震中遇难",
+      "onboard_time": 1676709387,
+      "rank": 48,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 118142,
       "num": 118142,
       "word": "骚姆现场",
       "onboard_time": 1676681127,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 116597,
-      "num": 116597,
-      "word": "绝意刺客流公孙离",
-      "onboard_time": 1676708304,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 109315,
