@@ -1,6 +1,6 @@
 {
   "startTime": 1676651164633,
-  "endTime": 1676697413175,
+  "endTime": 1676698409730,
   "band_list": [
     {
       "raw_hot": 3218547,
@@ -16,6 +16,14 @@
       "word": "如果不缴纳五险一金会怎样",
       "onboard_time": 1676648791,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2302033,
+      "num": 2302033,
+      "word": "家里的布洛芬连花清瘟们何去何从",
+      "onboard_time": 1676693848,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -41,14 +49,6 @@
       "onboard_time": 1676680645,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2123584,
-      "num": 2123584,
-      "word": "家里的布洛芬连花清瘟们何去何从",
-      "onboard_time": 1676693848,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1974429,
@@ -179,12 +179,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1029105,
+      "num": 1029105,
+      "word": "日本789万老人还在打零工",
+      "onboard_time": 1676694390,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 959542,
       "num": 959542,
       "word": "小孩那桌也上不了了",
       "onboard_time": 1676687068,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 910374,
+      "num": 910374,
+      "word": "沈巍",
+      "onboard_time": 1676698050,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 904926,
@@ -203,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 877737,
-      "num": 877737,
-      "word": "日本789万老人还在打零工",
-      "onboard_time": 1676694390,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 860422,
+      "num": 860422,
+      "word": "警方回应狂飙拍摄地旧厂街拍照收费",
+      "onboard_time": 1676697268,
+      "rank": 22,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 852875,
@@ -219,20 +235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 793091,
-      "num": 775570,
-      "word": "光渊",
-      "onboard_time": 1676686467,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 731530,
-      "num": 731530,
+      "raw_hot": 824651,
+      "num": 824651,
       "word": "塔利班在阿富汗两大城市禁售避孕用品",
       "onboard_time": 1676694690,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 810893,
+      "num": 810893,
+      "word": "光渊",
+      "onboard_time": 1676686467,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 724808,
@@ -249,6 +265,14 @@
       "onboard_time": 1676677102,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 685403,
+      "num": 685403,
+      "word": "女子情人节领证次日被家暴",
+      "onboard_time": 1676697690,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637196,
@@ -313,6 +337,14 @@
       "onboard_time": 1676640751,
       "rank": 13,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 586022,
+      "num": 586022,
+      "word": "女子买电子表挂墙1年后发现没撕膜",
+      "onboard_time": 1676696669,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 583431,
@@ -436,7 +468,7 @@
     },
     {
       "raw_hot": 448739,
-      "num": 324538,
+      "num": 352854,
       "word": "蔡徐坤特效视频",
       "onboard_time": 1676696130,
       "rank": 26,
@@ -465,6 +497,14 @@
       "onboard_time": 1676694510,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 424142,
+      "num": 424142,
+      "word": "上野千鹤子",
+      "onboard_time": 1676697988,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 418941,
@@ -577,22 +617,6 @@
       "onboard_time": 1676636429,
       "rank": 16,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 335569,
-      "num": 335569,
-      "word": "警方回应狂飙拍摄地旧厂街拍照收费",
-      "onboard_time": 1676697268,
-      "rank": 22,
-      "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 333153,
-      "num": 333153,
-      "word": "女子买电子表挂墙1年后发现没撕膜",
-      "onboard_time": 1676696669,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330946,
@@ -713,6 +737,14 @@
       "onboard_time": 1676689106,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255209,
+      "num": 213102,
+      "word": "姚晨模仿王菲和周星驰",
+      "onboard_time": 1676697268,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 253514,
@@ -987,12 +1019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174635,
-      "num": 174635,
-      "word": "姚晨模仿王菲和周星驰",
-      "onboard_time": 1676697268,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 174643,
+      "num": 155293,
+      "word": "电子宠物马兆鸥",
+      "onboard_time": 1676697750,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 172116,
@@ -1153,6 +1185,14 @@
       "onboard_time": 1676689829,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120574,
+      "num": 120574,
+      "word": "新疆男篮回应篮协处罚决定",
+      "onboard_time": 1676698406,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 118142,
