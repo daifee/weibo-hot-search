@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676712820540,
+  "endTime": 1676715525985,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -153,6 +153,14 @@
       "onboard_time": 1676436877,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3030957,
+      "num": 3030957,
+      "word": "六大门派围攻光明顶",
+      "onboard_time": 1676711967,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 2995320,
@@ -403,8 +411,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2342291,
-      "num": 2342291,
+      "raw_hot": 2342888,
+      "num": 2342888,
       "word": "镇魂",
       "onboard_time": 1676701347,
       "rank": 43,
@@ -953,14 +961,6 @@
       "onboard_time": 1676386897,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1572792,
-      "num": 1572792,
-      "word": "六大门派围攻光明顶",
-      "onboard_time": 1676711967,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1565021,
@@ -1512,6 +1512,14 @@
       "word": "女孩买9米挑高公寓被嘲装修后惊艳",
       "onboard_time": 1676613333,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1179149,
+      "num": 1179149,
+      "word": "娃哈哈被曝八宝粥发黑长毛",
+      "onboard_time": 1676713769,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -2392,6 +2400,14 @@
       "word": "湖北初婚年龄突破30岁",
       "onboard_time": 1676681666,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 882391,
+      "num": 521619,
+      "word": "女士优先车厢男子坐满女子站立",
+      "onboard_time": 1676713047,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -3827,6 +3843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 620224,
+      "num": 620224,
+      "word": "aespa颁奖礼新闻图",
+      "onboard_time": 1676714488,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619661,
       "num": 619661,
       "word": "美国脱轨列车上有毒化学品就地排放燃烧",
@@ -4532,7 +4556,7 @@
     },
     {
       "raw_hot": 534082,
-      "num": 351377,
+      "num": 482941,
       "word": "流浪地球2票房破38亿",
       "onboard_time": 1676711727,
       "rank": 31,
@@ -5547,6 +5571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445582,
+      "num": 445582,
+      "word": "城管已制止狂飙拍摄地拍照收费一事",
+      "onboard_time": 1676713227,
+      "rank": 14,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 445258,
       "num": 445258,
       "word": "缉毒警怕出意外曾与女友提分手",
@@ -5729,6 +5761,14 @@
       "onboard_time": 1676290784,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 434388,
+      "num": 434388,
+      "word": "警方通报女子被丈夫泼硫酸",
+      "onboard_time": 1676712388,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433937,
@@ -6657,6 +6697,14 @@
       "onboard_time": 1676344655,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 371897,
+      "num": 266331,
+      "word": "金道英赵美延比心",
+      "onboard_time": 1676715389,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 371224,
@@ -8651,6 +8699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262286,
+      "num": 191209,
+      "word": "深海",
+      "onboard_time": 1676712749,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261868,
       "num": 261868,
       "word": "光渊 科幻片",
@@ -9107,6 +9163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243457,
+      "num": 175245,
+      "word": "张栋梁何洁唱跳失恋阵线联盟",
+      "onboard_time": 1676715149,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243398,
       "num": 243398,
       "word": "诺如病毒高发期中疾控提醒预防",
@@ -9361,14 +9425,6 @@
       "onboard_time": 1676256448,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 232321,
-      "num": 212110,
-      "word": "警方通报女子被丈夫泼硫酸",
-      "onboard_time": 1676712388,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231917,
@@ -9817,14 +9873,6 @@
       "onboard_time": 1676218166,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 215325,
-      "num": 191209,
-      "word": "深海",
-      "onboard_time": 1676712749,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 215169,
@@ -11235,6 +11283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174018,
+      "num": 130888,
+      "word": "萧寒没提爱但处处都是爱",
+      "onboard_time": 1676715028,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173780,
       "num": 173780,
       "word": "RNG对战FPX",
@@ -11305,6 +11361,14 @@
       "onboard_time": 1676552131,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 172506,
+      "num": 172506,
+      "word": "LGD战胜VG",
+      "onboard_time": 1676715509,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 172318,
@@ -11385,6 +11449,14 @@
       "onboard_time": 1676436937,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170333,
+      "num": 128478,
+      "word": "刘宇宁光渊情感主题曲",
+      "onboard_time": 1676713409,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 170317,
@@ -12329,6 +12401,14 @@
       "onboard_time": 1676368354,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125527,
+      "num": 125527,
+      "word": "这位小熊友是不是偷偷补墨水了",
+      "onboard_time": 1676711487,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 124193,

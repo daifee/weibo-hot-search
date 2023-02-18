@@ -1,0 +1,410 @@
+{
+  "runTime": 1676715525985,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3030957,
+        "num": 3030957,
+        "word": "六大门派围攻光明顶",
+        "onboard_time": 1676711967,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2342888,
+        "num": 2342888,
+        "word": "镇魂",
+        "onboard_time": 1676701347,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30736,
+        "num": 1434330,
+        "word": "用RAP方式打开中国县城",
+        "onboard_time": 1676689829,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1179149,
+        "num": 1179149,
+        "word": "娃哈哈被曝八宝粥发黑长毛",
+        "onboard_time": 1676713769,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869638,
+        "num": 869638,
+        "word": "北大宿舍聊天 上野千鹤子",
+        "onboard_time": 1676686285,
+        "rank": 4,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 789264,
+        "num": 789264,
+        "word": "沈巍",
+        "onboard_time": 1676698050,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 644037,
+        "num": 644037,
+        "word": "警方回应男子泼妻子硫酸仅拘10天",
+        "onboard_time": 1676705248,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 620224,
+        "num": 620224,
+        "word": "aespa颁奖礼新闻图",
+        "onboard_time": 1676714488,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562404,
+        "num": 562404,
+        "word": "养了2年狗狗每天送小女孩上学",
+        "onboard_time": 1676710830,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551186,
+        "num": 551186,
+        "word": "家里的布洛芬连花清瘟们何去何从",
+        "onboard_time": 1676693848,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882391,
+        "num": 521619,
+        "word": "女士优先车厢男子坐满女子站立",
+        "onboard_time": 1676713047,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565992,
+        "num": 511137,
+        "word": "迪丽热巴最新怼脸大片",
+        "onboard_time": 1676703868,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 482941,
+        "num": 482941,
+        "word": "流浪地球2票房破38亿",
+        "onboard_time": 1676711727,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467941,
+        "num": 467941,
+        "word": "于正说还挺欣赏张一山的表演",
+        "onboard_time": 1676709449,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445582,
+        "num": 445582,
+        "word": "城管已制止狂飙拍摄地拍照收费一事",
+        "onboard_time": 1676713227,
+        "rank": 14,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 442470,
+        "num": 442470,
+        "word": "张颂文的农家院",
+        "onboard_time": 1676701407,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434388,
+        "num": 434388,
+        "word": "警方通报女子被丈夫泼硫酸",
+        "onboard_time": 1676712388,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380074,
+        "num": 380074,
+        "word": "雄安楼盘开卖单价1.4万",
+        "onboard_time": 1676704889,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 379658,
+        "num": 379658,
+        "word": "沈小婷Circle红毯新闻图",
+        "onboard_time": 1676711428,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287343,
+        "num": 287343,
+        "word": "菲律宾一架飞机早上起飞后失联",
+        "onboard_time": 1676699667,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371897,
+        "num": 266331,
+        "word": "金道英赵美延比心",
+        "onboard_time": 1676715389,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361881,
+        "num": 257732,
+        "word": "左肩有你撒野钢琴曲",
+        "onboard_time": 1676710768,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239052,
+        "num": 239052,
+        "word": "一生未婚的爷爷离世捐出角膜救人",
+        "onboard_time": 1676699128,
+        "rank": 22,
+        "category": "社会正能量,情感"
+      },
+      {
+        "raw_hot": 213085,
+        "num": 213085,
+        "word": "马龙谈首次混双搭档陈梦",
+        "onboard_time": 1676710288,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210838,
+        "num": 210838,
+        "word": "奶奶用边角料给孙女做中式套装",
+        "onboard_time": 1676704407,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355410,
+        "num": 203422,
+        "word": "左肩有你",
+        "onboard_time": 1676691567,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339693,
+        "num": 198826,
+        "word": "阮流筝不满宁至谦打包策划的婚礼",
+        "onboard_time": 1676710893,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338740,
+        "num": 198758,
+        "word": "中国乒乓票房",
+        "onboard_time": 1676703325,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193589,
+        "num": 193589,
+        "word": "小学生投3万元压岁钱理财",
+        "onboard_time": 1676701828,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188021,
+        "num": 188021,
+        "word": "JDG战胜iG",
+        "onboard_time": 1676712089,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303503,
+        "num": 186197,
+        "word": "光渊",
+        "onboard_time": 1676686467,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262286,
+        "num": 182774,
+        "word": "深海",
+        "onboard_time": 1676712749,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262180,
+        "num": 178927,
+        "word": "付辛博抬头纹",
+        "onboard_time": 1676692107,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243457,
+        "num": 175245,
+        "word": "张栋梁何洁唱跳失恋阵线联盟",
+        "onboard_time": 1676715149,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172506,
+        "num": 172506,
+        "word": "LGD战胜VG",
+        "onboard_time": 1676715509,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223501,
+        "num": 170447,
+        "word": "苏醒王栎鑫拖延式录制种地吧",
+        "onboard_time": 1676706687,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167895,
+        "num": 167895,
+        "word": "日本789万老人还在打零工",
+        "onboard_time": 1676694390,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157601,
+        "num": 157601,
+        "word": "前切尔西球员在地震中遇难",
+        "onboard_time": 1676709387,
+        "rank": 37,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 148753,
+        "num": 148753,
+        "word": "去世侏儒抹香鲸胃内有大量塑料",
+        "onboard_time": 1676693308,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138072,
+        "num": 138072,
+        "word": "骗子调包4万名表嫁祸快递小哥",
+        "onboard_time": 1676702488,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211403,
+        "num": 137128,
+        "word": "时代少年团今日海边路透",
+        "onboard_time": 1676710408,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200262,
+        "num": 134495,
+        "word": "emoji版狂飙",
+        "onboard_time": 1676711787,
+        "rank": 41,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 192730,
+        "num": 132567,
+        "word": "光渊空降",
+        "onboard_time": 1676687546,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174018,
+        "num": 130888,
+        "word": "萧寒没提爱但处处都是爱",
+        "onboard_time": 1676715028,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170333,
+        "num": 128478,
+        "word": "刘宇宁光渊情感主题曲",
+        "onboard_time": 1676713409,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163179,
+        "num": 127014,
+        "word": "马伯庸说费启鸣把丰宝玉演活了",
+        "onboard_time": 1676700449,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125527,
+        "num": 125527,
+        "word": "这位小熊友是不是偷偷补墨水了",
+        "onboard_time": 1676711487,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124646,
+        "num": 124646,
+        "word": "苏乞儿道歉",
+        "onboard_time": 1676693128,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 122899,
+        "num": 122899,
+        "word": "初婚年龄推迟意味着什么",
+        "onboard_time": 1676689647,
+        "rank": 48,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 110602,
+        "num": 110602,
+        "word": "市监局称狂飙取景地收费系个人行为",
+        "onboard_time": 1676709207,
+        "rank": 49,
+        "category": "社会新闻,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国上下同向奔赴阔步向前#"
+    }
+  }
+}
