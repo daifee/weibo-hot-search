@@ -1,0 +1,410 @@
+{
+  "runTime": 1676810062010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1619441,
+        "num": 1619441,
+        "word": "集美大学",
+        "onboard_time": 1676799632,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1379889,
+        "num": 1379889,
+        "word": "梅西刮胡子了",
+        "onboard_time": 1676806350,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104378,
+        "num": 1234979,
+        "word": "跨国企业在中国",
+        "onboard_time": 1676801253,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1091907,
+        "num": 1091907,
+        "word": "官方通报高校教师到中学演讲内容不当",
+        "onboard_time": 1676798129,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1018055,
+        "num": 1018055,
+        "word": "农历二月生的今年能过3次生日",
+        "onboard_time": 1676807487,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 792233,
+        "num": 792233,
+        "word": "独生子女能否全部继承父母遗产",
+        "onboard_time": 1676807790,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753762,
+        "num": 753762,
+        "word": "白惠承认隐孕入职",
+        "onboard_time": 1676808030,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 637496,
+        "num": 637496,
+        "word": "考研成绩",
+        "onboard_time": 1676809533,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 552581,
+        "num": 552581,
+        "word": "教育部门要求对陈某某进行调查",
+        "onboard_time": 1676800111,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 430515,
+        "num": 430515,
+        "word": "高叶再次感谢陈书婷",
+        "onboard_time": 1676806350,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1675973,
+        "num": 428998,
+        "word": "杨幂漂发了",
+        "onboard_time": 1676802091,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1357146,
+        "num": 425719,
+        "word": "每日新增阳性5000例以上",
+        "onboard_time": 1676789727,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856612,
+        "num": 421265,
+        "word": "女子应聘助理被要求和经理同生活",
+        "onboard_time": 1676803531,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629010,
+        "num": 418783,
+        "word": "Wendy哭了",
+        "onboard_time": 1676803770,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570102,
+        "num": 416767,
+        "word": "阿娇哭得好美",
+        "onboard_time": 1676808810,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 487058,
+        "num": 414066,
+        "word": "庐江中学称不会处理抢话筒学生",
+        "onboard_time": 1676800289,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 411974,
+        "num": 411974,
+        "word": "蛋仔派对",
+        "onboard_time": 1676804432,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 400342,
+        "num": 400342,
+        "word": "光渊 刺挠",
+        "onboard_time": 1676804852,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343354,
+        "num": 343354,
+        "word": "苏小玎说狂飙张颂文和角色反差最大",
+        "onboard_time": 1676803832,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311473,
+        "num": 311473,
+        "word": "EDG对战TES",
+        "onboard_time": 1676808690,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 308254,
+        "num": 308254,
+        "word": "XYG",
+        "onboard_time": 1676803229,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 304216,
+        "num": 304216,
+        "word": "王鹤棣坐在车头唱rap",
+        "onboard_time": 1676806531,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303678,
+        "num": 303678,
+        "word": "学生曝食堂勾芡严重菜稀成面条卤子",
+        "onboard_time": 1676790148,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291237,
+        "num": 291237,
+        "word": "MTG对战eStar",
+        "onboard_time": 1676808152,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288824,
+        "num": 288824,
+        "word": "Cube回应gidle演出服被售卖",
+        "onboard_time": 1676804552,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253126,
+        "num": 253126,
+        "word": "新增确诊病例主要是没阳过的",
+        "onboard_time": 1676792968,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253036,
+        "num": 253036,
+        "word": "全智贤机场风衣穿搭",
+        "onboard_time": 1676799148,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252050,
+        "num": 252050,
+        "word": "金泰亨出差十五夜预告视频",
+        "onboard_time": 1676805750,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249997,
+        "num": 249997,
+        "word": "金毛被撞趴地吐血女子救助收养",
+        "onboard_time": 1676797228,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238474,
+        "num": 238474,
+        "word": "陈都灵冯蘅绿衣路透",
+        "onboard_time": 1676809533,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304451,
+        "num": 238467,
+        "word": "合肥师范回应陈宏友中学演讲内容不当",
+        "onboard_time": 1676807911,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 237963,
+        "num": 237963,
+        "word": "巴黎圣日耳曼vs里尔",
+        "onboard_time": 1676806890,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224538,
+        "num": 224538,
+        "word": "如懿传剧组最新合照",
+        "onboard_time": 1676799208,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217734,
+        "num": 217734,
+        "word": "夜昙被退学",
+        "onboard_time": 1676809290,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210345,
+        "num": 210345,
+        "word": "张新成演技",
+        "onboard_time": 1676799748,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200378,
+        "num": 200378,
+        "word": "原来兔子会打人",
+        "onboard_time": 1676804071,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191798,
+        "num": 191798,
+        "word": "合肥宣扬功利性内容教授已停课",
+        "onboard_time": 1676794170,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 190353,
+        "num": 190353,
+        "word": "肖战wetv2022最佳男主角",
+        "onboard_time": 1676795849,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177466,
+        "num": 177466,
+        "word": "黄多多双语视频",
+        "onboard_time": 1676794408,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173217,
+        "num": 173217,
+        "word": "柯南2023全新片尾曲",
+        "onboard_time": 1676808990,
+        "rank": 39,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 171474,
+        "num": 171474,
+        "word": "光渊",
+        "onboard_time": 1676782171,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151976,
+        "num": 151976,
+        "word": "若美方执意扩大事态中方必将奉陪到底",
+        "onboard_time": 1676800830,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 150379,
+        "num": 150379,
+        "word": "重紫心魔",
+        "onboard_time": 1676809052,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147215,
+        "num": 147215,
+        "word": "浙江彩民中2.4亿元巨奖",
+        "onboard_time": 1676781389,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146888,
+        "num": 146888,
+        "word": "桃李面包中吃出2厘米带锈刀片",
+        "onboard_time": 1676787987,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140437,
+        "num": 140437,
+        "word": "赵露思神隐红衣拂袖路透",
+        "onboard_time": 1676804189,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128695,
+        "num": 128695,
+        "word": "社会我玲姐 衣服越粉打人越狠",
+        "onboard_time": 1676808455,
+        "rank": 46,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 127701,
+        "num": 127701,
+        "word": "满江红实时票房破44亿",
+        "onboard_time": 1676801971,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126893,
+        "num": 126893,
+        "word": "租客跟房东说养宠物结果是匹马",
+        "onboard_time": 1676788167,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119501,
+        "num": 119501,
+        "word": "let me do it for you",
+        "onboard_time": 1676793808,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#讲好中国故事传播好中国声音#"
+    }
+  }
+}

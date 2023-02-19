@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676806394398,
+  "endTime": 1676810062010,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -3395,6 +3395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1379889,
+      "num": 1379889,
+      "word": "梅西刮胡子了",
+      "onboard_time": 1676806350,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1375832,
       "num": 1375832,
       "word": "HYBE将正式接管SMTOWN",
@@ -5857,6 +5865,14 @@
       "onboard_time": 1676121029,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1018055,
+      "num": 1018055,
+      "word": "农历二月生的今年能过3次生日",
+      "onboard_time": 1676807487,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1017851,
@@ -8571,6 +8587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 792233,
+      "num": 792233,
+      "word": "独生子女能否全部继承父母遗产",
+      "onboard_time": 1676807790,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 791621,
       "num": 791621,
       "word": "李秀满将起诉SMTOWN理事会",
@@ -9089,6 +9113,14 @@
       "onboard_time": 1676593828,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 753762,
+      "num": 753762,
+      "word": "白惠承认隐孕入职",
+      "onboard_time": 1676808030,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 753666,
@@ -11611,6 +11643,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 637496,
+      "num": 637496,
+      "word": "考研成绩",
+      "onboard_time": 1676809533,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 637397,
       "num": 637397,
       "word": "人民币贷款创历史新高",
@@ -13281,6 +13321,14 @@
       "onboard_time": 1676730035,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 570102,
+      "num": 416767,
+      "word": "阿娇哭得好美",
+      "onboard_time": 1676808810,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 569431,
@@ -18067,6 +18115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430515,
+      "num": 430515,
+      "word": "高叶再次感谢陈书婷",
+      "onboard_time": 1676806350,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 430370,
       "num": 430370,
       "word": "华兴资本创始人包凡失联",
@@ -18803,6 +18859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411974,
+      "num": 411974,
+      "word": "蛋仔派对",
+      "onboard_time": 1676804432,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 411867,
       "num": 411867,
       "word": "男子车祸现场未撤离被撞飞下桥",
@@ -19416,6 +19480,14 @@
       "word": "星落凝成糖男二",
       "onboard_time": 1676625512,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 400342,
+      "num": 400342,
+      "word": "光渊 刺挠",
+      "onboard_time": 1676804852,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -21763,14 +21835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 352431,
-      "num": 352431,
-      "word": "蛋仔派对",
-      "onboard_time": 1676804432,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 351828,
       "num": 351828,
       "word": "米切尔狄龙冲突",
@@ -22897,14 +22961,6 @@
       "onboard_time": 1675219109,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329836,
-      "num": 329836,
-      "word": "光渊 刺挠",
-      "onboard_time": 1676804852,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 329630,
@@ -24035,6 +24091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311473,
+      "num": 311473,
+      "word": "EDG对战TES",
+      "onboard_time": 1676808690,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 311322,
       "num": 311322,
       "word": "养4年流浪金毛送婚戒满眼只有主人",
@@ -24507,6 +24571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304451,
+      "num": 238467,
+      "word": "合肥师范回应陈宏友中学演讲内容不当",
+      "onboard_time": 1676807911,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 304396,
       "num": 297739,
       "word": "张馨予晒度假照",
@@ -24521,6 +24593,14 @@
       "onboard_time": 1676641052,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304216,
+      "num": 304216,
+      "word": "王鹤棣坐在车头唱rap",
+      "onboard_time": 1676806531,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 304077,
@@ -25457,6 +25537,14 @@
       "onboard_time": 1675685370,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 291237,
+      "num": 291237,
+      "word": "MTG对战eStar",
+      "onboard_time": 1676808152,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 291196,
@@ -29667,6 +29755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238474,
+      "num": 238474,
+      "word": "陈都灵冯蘅绿衣路透",
+      "onboard_time": 1676809533,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238450,
       "num": 238450,
       "word": "爱情的理解",
@@ -29721,6 +29817,14 @@
       "onboard_time": 1675472066,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237963,
+      "num": 237963,
+      "word": "巴黎圣日耳曼vs里尔",
+      "onboard_time": 1676806890,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 237876,
@@ -31433,6 +31537,14 @@
       "onboard_time": 1676466632,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 217734,
+      "num": 217734,
+      "word": "夜昙被退学",
+      "onboard_time": 1676809290,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 217718,
@@ -35059,14 +35171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184481,
-      "num": 184481,
-      "word": "高叶再次感谢陈书婷",
-      "onboard_time": 1676806350,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 184383,
       "num": 184383,
       "word": "于正说张楠得三月底进组",
@@ -36457,6 +36561,14 @@
       "onboard_time": 1675728328,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173217,
+      "num": 173217,
+      "word": "柯南2023全新片尾曲",
+      "onboard_time": 1676808990,
+      "rank": 39,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 173181,
@@ -38867,6 +38979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150379,
+      "num": 150379,
+      "word": "重紫心魔",
+      "onboard_time": 1676809052,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150097,
       "num": 150097,
       "word": "中国田径队首日斩获金银铜",
@@ -39372,7 +39492,7 @@
     },
     {
       "raw_hot": 142935,
-      "num": 1075035,
+      "num": 1234979,
       "word": "跨国企业在中国",
       "onboard_time": 1676801253,
       "rank": 2,
@@ -39745,14 +39865,6 @@
       "onboard_time": 1675616602,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138177,
-      "num": 138177,
-      "word": "梅西刮胡子了",
-      "onboard_time": 1676806350,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 138164,
@@ -40481,6 +40593,14 @@
       "onboard_time": 1676188348,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128695,
+      "num": 128695,
+      "word": "社会我玲姐 衣服越粉打人越狠",
+      "onboard_time": 1676808455,
+      "rank": 46,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 128674,
