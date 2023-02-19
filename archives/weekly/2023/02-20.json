@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676834077351,
+  "endTime": 1676835228315,
   "band_list": [
     {
       "raw_hot": 1206592,
@@ -443,8 +443,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62498,
-      "num": 30540,
+      "raw_hot": 84686,
+      "num": 52486,
       "word": "日本一男子拉面店舔筷子后放回",
       "onboard_time": 1676832615,
       "rank": 30,
@@ -497,6 +497,14 @@
       "onboard_time": 1676833154,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 24512,
+      "num": 24512,
+      "word": "魏大勋晒一张库存照",
+      "onboard_time": 1676834411,
+      "rank": 35,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
