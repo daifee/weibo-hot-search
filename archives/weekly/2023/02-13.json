@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676805303000,
+  "endTime": 1676806394398,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -2075,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1107247,
+      "num": 538214,
+      "word": "女子应聘助理被要求和经理同生活",
+      "onboard_time": 1676803531,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1105049,
       "num": 1105049,
       "word": "MH370失踪事件纪录剧预告",
@@ -2481,14 +2489,6 @@
       "onboard_time": 1676478444,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 982491,
-      "num": 538214,
-      "word": "女子应聘助理被要求和经理同生活",
-      "onboard_time": 1676803531,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 980397,
@@ -3025,6 +3025,14 @@
       "onboard_time": 1676511208,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 842013,
+      "num": 842013,
+      "word": "庐江中学",
+      "onboard_time": 1676803051,
+      "rank": 7,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 837427,
@@ -3707,6 +3715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 731132,
+      "num": 731132,
+      "word": "XYG",
+      "onboard_time": 1676803229,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 730162,
       "num": 623600,
       "word": "众星给黄明昊录制生日祝福VCR",
@@ -3841,14 +3857,6 @@
       "onboard_time": 1676363074,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 713907,
-      "num": 713907,
-      "word": "XYG",
-      "onboard_time": 1676803229,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 708737,
@@ -4249,14 +4257,6 @@
       "onboard_time": 1676454753,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 653236,
-      "num": 653236,
-      "word": "庐江中学",
-      "onboard_time": 1676803051,
-      "rank": 7,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 651905,
@@ -4883,6 +4883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 580253,
+      "num": 580253,
+      "word": "苏小玎说狂飙张颂文和角色反差最大",
+      "onboard_time": 1676803832,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 580084,
       "num": 580084,
       "word": "李成洙要求李秀满下跪道歉",
@@ -5433,14 +5441,6 @@
       "onboard_time": 1676795129,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 531856,
-      "num": 531856,
-      "word": "苏小玎说狂飙张颂文和角色反差最大",
-      "onboard_time": 1676803832,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 530984,
@@ -6347,6 +6347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465190,
+      "num": 465190,
+      "word": "Cube回应gidle演出服被售卖",
+      "onboard_time": 1676804552,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464076,
       "num": 349547,
       "word": "阮流筝不满宁至谦打包策划的婚礼",
@@ -6529,14 +6537,6 @@
       "onboard_time": 1676604509,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 451324,
-      "num": 451324,
-      "word": "Cube回应gidle演出服被售卖",
-      "onboard_time": 1676804552,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 451063,
@@ -6761,6 +6761,14 @@
       "onboard_time": 1676617773,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 438885,
+      "num": 438885,
+      "word": "官方通报上栗2名民警1名辅警因公牺牲",
+      "onboard_time": 1676804731,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438025,
@@ -7971,6 +7979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 370839,
+      "num": 370839,
+      "word": "金泰亨出差十五夜预告视频",
+      "onboard_time": 1676805750,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370430,
       "num": 370430,
       "word": "中国半导体行业协会严正声明",
@@ -8233,6 +8249,14 @@
       "onboard_time": 1676279499,
       "rank": 31,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 352431,
+      "num": 352431,
+      "word": "蛋仔派对",
+      "onboard_time": 1676804432,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 351767,
@@ -8577,6 +8601,14 @@
       "onboard_time": 1676269435,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 329836,
+      "num": 329836,
+      "word": "光渊 刺挠",
+      "onboard_time": 1676804852,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 329630,
@@ -9169,6 +9201,14 @@
       "onboard_time": 1676534261,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304774,
+      "num": 304774,
+      "word": "原来兔子会打人",
+      "onboard_time": 1676804071,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 304611,
@@ -10907,14 +10947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242128,
-      "num": 242128,
-      "word": "原来兔子会打人",
-      "onboard_time": 1676804071,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242070,
       "num": 242070,
       "word": "猫走失主人花5千请人10分钟找回",
@@ -11833,14 +11865,6 @@
       "onboard_time": 1676365951,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211261,
-      "num": 211261,
-      "word": "官方通报上栗2名民警1名辅警因公牺牲",
-      "onboard_time": 1676804731,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210763,
@@ -12891,6 +12915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184481,
+      "num": 184481,
+      "word": "高叶再次感谢陈书婷",
+      "onboard_time": 1676806350,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184383,
       "num": 184383,
       "word": "于正说张楠得三月底进组",
@@ -13083,14 +13115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178915,
-      "num": 178915,
-      "word": "蛋仔派对",
-      "onboard_time": 1676804432,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 178823,
       "num": 178823,
       "word": "左航分享自习室vlog",
@@ -13176,14 +13200,6 @@
       "word": "万玛才旦黄轩新电影开机",
       "onboard_time": 1676280161,
       "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 175696,
-      "num": 175696,
-      "word": "光渊 刺挠",
-      "onboard_time": 1676804852,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -14267,6 +14283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142935,
+      "num": 1075035,
+      "word": "跨国企业在中国",
+      "onboard_time": 1676801253,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142693,
       "num": 142693,
       "word": "蔡卓妍的滑雪vlog",
@@ -14312,14 +14336,6 @@
       "word": "女子智齿位置奇特目测要背井离乡",
       "onboard_time": 1676198850,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141739,
-      "num": 1075035,
-      "word": "跨国企业在中国",
-      "onboard_time": 1676801253,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -14417,6 +14433,14 @@
       "onboard_time": 1676282438,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138177,
+      "num": 138177,
+      "word": "梅西刮胡子了",
+      "onboard_time": 1676806350,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 137927,

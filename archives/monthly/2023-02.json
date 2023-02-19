@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676805303000,
+  "endTime": 1676806394398,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -5123,6 +5123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1107247,
+      "num": 538214,
+      "word": "女子应聘助理被要求和经理同生活",
+      "onboard_time": 1676803531,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1106867,
       "num": 1106867,
       "word": "张译演反派吓到岳云鹏",
@@ -6113,14 +6121,6 @@
       "onboard_time": 1675683208,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 982491,
-      "num": 538214,
-      "word": "女子应聘助理被要求和经理同生活",
-      "onboard_time": 1676803531,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 981386,
@@ -7777,6 +7777,14 @@
       "onboard_time": 1675989155,
       "rank": 7,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 842013,
+      "num": 842013,
+      "word": "庐江中学",
+      "onboard_time": 1676803051,
+      "rank": 7,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 841413,
@@ -9571,6 +9579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 731132,
+      "num": 731132,
+      "word": "XYG",
+      "onboard_time": 1676803229,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 731023,
       "num": 731023,
       "word": "刘亦菲分享第一次插花plog",
@@ -9945,14 +9961,6 @@
       "onboard_time": 1676363074,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 713907,
-      "num": 713907,
-      "word": "XYG",
-      "onboard_time": 1676803229,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 713687,
@@ -11209,14 +11217,6 @@
       "onboard_time": 1675745376,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 653236,
-      "num": 653236,
-      "word": "庐江中学",
-      "onboard_time": 1676803051,
-      "rank": 7,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 652949,
@@ -12931,6 +12931,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 580253,
+      "num": 580253,
+      "word": "苏小玎说狂飙张颂文和角色反差最大",
+      "onboard_time": 1676803832,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 580096,
       "num": 580096,
       "word": "高启强车窗贴纸",
@@ -14449,14 +14457,6 @@
       "onboard_time": 1676795129,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 531856,
-      "num": 531856,
-      "word": "苏小玎说狂飙张颂文和角色反差最大",
-      "onboard_time": 1676803832,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 531596,
@@ -16691,6 +16691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465190,
+      "num": 465190,
+      "word": "Cube回应gidle演出服被售卖",
+      "onboard_time": 1676804552,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464076,
       "num": 349547,
       "word": "阮流筝不满宁至谦打包策划的婚礼",
@@ -17153,14 +17161,6 @@
       "onboard_time": 1675749392,
       "rank": 21,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 451324,
-      "num": 451324,
-      "word": "Cube回应gidle演出服被售卖",
-      "onboard_time": 1676804552,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 451281,
@@ -17673,6 +17673,14 @@
       "onboard_time": 1676132487,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 438885,
+      "num": 438885,
+      "word": "官方通报上栗2名民警1名辅警因公牺牲",
+      "onboard_time": 1676804731,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438692,
@@ -20923,6 +20931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370839,
+      "num": 370839,
+      "word": "金泰亨出差十五夜预告视频",
+      "onboard_time": 1676805750,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370729,
       "num": 370729,
       "word": "朋友分享张元英上学日常",
@@ -21745,6 +21761,14 @@
       "onboard_time": 1675397611,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 352431,
+      "num": 352431,
+      "word": "蛋仔派对",
+      "onboard_time": 1676804432,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 351828,
@@ -22873,6 +22897,14 @@
       "onboard_time": 1675219109,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329836,
+      "num": 329836,
+      "word": "光渊 刺挠",
+      "onboard_time": 1676804852,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 329630,
@@ -24457,6 +24489,14 @@
       "onboard_time": 1676022992,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304774,
+      "num": 304774,
+      "word": "原来兔子会打人",
+      "onboard_time": 1676804071,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 304611,
@@ -29395,14 +29435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 242128,
-      "num": 242128,
-      "word": "原来兔子会打人",
-      "onboard_time": 1676804071,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242116,
       "num": 242116,
       "word": "成毅李一桐英雄志雪景同框路透",
@@ -31953,14 +31985,6 @@
       "onboard_time": 1676365951,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211261,
-      "num": 211261,
-      "word": "官方通报上栗2名民警1名辅警因公牺牲",
-      "onboard_time": 1676804731,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211229,
@@ -35035,6 +35059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184481,
+      "num": 184481,
+      "word": "高叶再次感谢陈书婷",
+      "onboard_time": 1676806350,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184383,
       "num": 184383,
       "word": "于正说张楠得三月底进组",
@@ -35731,14 +35763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178915,
-      "num": 178915,
-      "word": "蛋仔派对",
-      "onboard_time": 1676804432,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 178881,
       "num": 178881,
       "word": "曾黎山海赋戏腔",
@@ -36064,14 +36088,6 @@
       "word": "张若昀王阳新剧水中戏花絮",
       "onboard_time": 1676111247,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 175696,
-      "num": 175696,
-      "word": "光渊 刺挠",
-      "onboard_time": 1676804852,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -39355,6 +39371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142935,
+      "num": 1075035,
+      "word": "跨国企业在中国",
+      "onboard_time": 1676801253,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142878,
       "num": 142878,
       "word": "救援队探测到90岁老人生命迹象",
@@ -39441,14 +39465,6 @@
       "onboard_time": 1676307502,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 141739,
-      "num": 1075035,
-      "word": "跨国企业在中国",
-      "onboard_time": 1676801253,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141372,
@@ -39729,6 +39745,14 @@
       "onboard_time": 1675616602,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138177,
+      "num": 138177,
+      "word": "梅西刮胡子了",
+      "onboard_time": 1676806350,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 138164,

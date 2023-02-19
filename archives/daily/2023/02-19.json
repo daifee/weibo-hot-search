@@ -1,6 +1,6 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676805303000,
+  "endTime": 1676806394398,
   "band_list": [
     {
       "raw_hot": 4088228,
@@ -243,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1107247,
+      "num": 538214,
+      "word": "女子应聘助理被要求和经理同生活",
+      "onboard_time": 1676803531,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1091589,
       "num": 1091589,
       "word": "金科路",
@@ -315,14 +323,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 982491,
-      "num": 538214,
-      "word": "女子应聘助理被要求和经理同生活",
-      "onboard_time": 1676803531,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 980397,
       "num": 980397,
       "word": "张新成造型 男女老少",
@@ -377,6 +377,14 @@
       "onboard_time": 1676792968,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842013,
+      "num": 842013,
+      "word": "庐江中学",
+      "onboard_time": 1676803051,
+      "rank": 7,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 822412,
@@ -467,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 731132,
+      "num": 731132,
+      "word": "XYG",
+      "onboard_time": 1676803229,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 727742,
       "num": 695046,
       "word": "黄多多双语视频",
@@ -481,14 +497,6 @@
       "onboard_time": 1676726791,
       "rank": 7,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 713907,
-      "num": 713907,
-      "word": "XYG",
-      "onboard_time": 1676803229,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 704165,
@@ -529,14 +537,6 @@
       "onboard_time": 1676795849,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 653236,
-      "num": 653236,
-      "word": "庐江中学",
-      "onboard_time": 1676803051,
-      "rank": 7,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 645492,
@@ -619,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 580253,
+      "num": 580253,
+      "word": "苏小玎说狂飙张颂文和角色反差最大",
+      "onboard_time": 1676803832,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 567627,
       "num": 567627,
       "word": "刘畊宏vivi鼓励大家多亲吻",
@@ -683,14 +691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 531856,
-      "num": 531856,
-      "word": "苏小玎说狂飙张颂文和角色反差最大",
-      "onboard_time": 1676803832,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 529183,
       "num": 529183,
       "word": "你好星期六下期有韩庚于文文",
@@ -747,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465190,
+      "num": 465190,
+      "word": "Cube回应gidle演出服被售卖",
+      "onboard_time": 1676804552,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455216,
       "num": 455216,
       "word": "杜华晒照为黄明昊庆生",
@@ -763,14 +771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 451324,
-      "num": 451324,
-      "word": "Cube回应gidle演出服被售卖",
-      "onboard_time": 1676804552,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 448989,
       "num": 448989,
       "word": "刘国梁为电影中国乒乓加油",
@@ -785,6 +785,14 @@
       "onboard_time": 1676794768,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 438885,
+      "num": 438885,
+      "word": "官方通报上栗2名民警1名辅警因公牺牲",
+      "onboard_time": 1676804731,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415591,
@@ -923,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370839,
+      "num": 370839,
+      "word": "金泰亨出差十五夜预告视频",
+      "onboard_time": 1676805750,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366296,
       "num": 366296,
       "word": "王鹤棣收工后的篮球vlog",
@@ -945,6 +961,14 @@
       "onboard_time": 1676770106,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 352431,
+      "num": 352431,
+      "word": "蛋仔派对",
+      "onboard_time": 1676804432,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 350085,
@@ -977,6 +1001,14 @@
       "onboard_time": 1676740582,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329836,
+      "num": 329836,
+      "word": "光渊 刺挠",
+      "onboard_time": 1676804852,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 328773,
@@ -1017,6 +1049,14 @@
       "onboard_time": 1676774069,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304774,
+      "num": 304774,
+      "word": "原来兔子会打人",
+      "onboard_time": 1676804071,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 302833,
@@ -1283,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242128,
-      "num": 242128,
-      "word": "原来兔子会打人",
-      "onboard_time": 1676804071,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 241759,
       "num": 241759,
       "word": "利拉德看表庆祝三分大赛冠军",
@@ -1401,14 +1433,6 @@
       "onboard_time": 1676773289,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211261,
-      "num": 211261,
-      "word": "官方通报上栗2名民警1名辅警因公牺牲",
-      "onboard_time": 1676804731,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210206,
@@ -1531,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184481,
+      "num": 184481,
+      "word": "高叶再次感谢陈书婷",
+      "onboard_time": 1676806350,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184383,
       "num": 184383,
       "word": "于正说张楠得三月底进组",
@@ -1595,14 +1627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178915,
-      "num": 178915,
-      "word": "蛋仔派对",
-      "onboard_time": 1676804432,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 178823,
       "num": 178823,
       "word": "左航分享自习室vlog",
@@ -1617,14 +1641,6 @@
       "onboard_time": 1676727210,
       "rank": 31,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 175696,
-      "num": 175696,
-      "word": "光渊 刺挠",
-      "onboard_time": 1676804852,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 173181,
@@ -1835,7 +1851,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141739,
+      "raw_hot": 142935,
       "num": 1075035,
       "word": "跨国企业在中国",
       "onboard_time": 1676801253,
@@ -1848,6 +1864,14 @@
       "word": "门兴打拜仁 血脉压制",
       "onboard_time": 1676765844,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138177,
+      "num": 138177,
+      "word": "梅西刮胡子了",
+      "onboard_time": 1676806350,
+      "rank": 47,
       "category": "体育"
     },
     {
