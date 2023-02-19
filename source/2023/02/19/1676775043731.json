@@ -1,0 +1,410 @@
+{
+  "runTime": 1676775043731,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1457021,
+        "num": 1457021,
+        "word": "上戏明年表演系考生高考须达一本线",
+        "onboard_time": 1676767766,
+        "rank": 0,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 1225965,
+        "num": 1225965,
+        "word": "新冠高峰后现肝损伤小高峰",
+        "onboard_time": 1676772746,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8306,
+        "num": 1209615,
+        "word": "团结奋斗再出发",
+        "onboard_time": 1676723008,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1901092,
+        "num": 1209251,
+        "word": "沈月在节目里谈分手原因",
+        "onboard_time": 1676773167,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1208560,
+        "num": 1208560,
+        "word": "向妻子面部泼硫酸男子称已同意离婚",
+        "onboard_time": 1676773834,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1082374,
+        "num": 1082374,
+        "word": "中方将发布政治解决乌克兰危机的中国立场",
+        "onboard_time": 1676769809,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1005871,
+        "num": 1005871,
+        "word": "马来西亚公主ins关注杨洋吴磊赵露思",
+        "onboard_time": 1676773046,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644492,
+        "num": 644492,
+        "word": "苏打绿宣布正式回归",
+        "onboard_time": 1676764222,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 627664,
+        "num": 627664,
+        "word": "军队文职",
+        "onboard_time": 1676768488,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 527207,
+        "num": 527207,
+        "word": "美甲最好隔20天左右就卸除",
+        "onboard_time": 1676737406,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521986,
+        "num": 521986,
+        "word": "美国前总统卡特将开始接受临终关怀",
+        "onboard_time": 1676768063,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 478631,
+        "num": 478631,
+        "word": "姜广涛",
+        "onboard_time": 1676762657,
+        "rank": 11,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 463628,
+        "num": 463628,
+        "word": "香港大学宣布禁用ChatGPT",
+        "onboard_time": 1676736818,
+        "rank": 12,
+        "category": "教育,科技"
+      },
+      {
+        "raw_hot": 447860,
+        "num": 447860,
+        "word": "婚检应该自愿还是强制",
+        "onboard_time": 1676767285,
+        "rank": 13,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 441865,
+        "num": 441865,
+        "word": "夏花删减",
+        "onboard_time": 1676769747,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420598,
+        "num": 420598,
+        "word": "郭晓婷的交友尺度",
+        "onboard_time": 1676772868,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418429,
+        "num": 418429,
+        "word": "杨迪晒照为黄明昊庆生",
+        "onboard_time": 1676771066,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396587,
+        "num": 396587,
+        "word": "多地21日起可查考研初试成绩",
+        "onboard_time": 1676769146,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 376436,
+        "num": 376436,
+        "word": "还得是言承旭",
+        "onboard_time": 1676772267,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 375054,
+        "num": 375054,
+        "word": "无毛猫被前主人纹身打耳环",
+        "onboard_time": 1676731290,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373103,
+        "num": 373103,
+        "word": "烧给爱丽丝",
+        "onboard_time": 1676772807,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 362788,
+        "num": 362788,
+        "word": "美国一工厂雇100余童工通宵工作",
+        "onboard_time": 1676766744,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351693,
+        "num": 351693,
+        "word": "杭师大",
+        "onboard_time": 1676774727,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 301432,
+        "num": 301432,
+        "word": "乌克兰延长战时状态至5月",
+        "onboard_time": 1676773528,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 281782,
+        "num": 281782,
+        "word": "现在的大学生开学",
+        "onboard_time": 1676752572,
+        "rank": 24,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 279844,
+        "num": 279844,
+        "word": "曾经很火但消失了的APP",
+        "onboard_time": 1676716829,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 263891,
+        "num": 263891,
+        "word": "中国男篮世预赛16人大名单",
+        "onboard_time": 1676770106,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248584,
+        "num": 248584,
+        "word": "网友连线张大大问aespa什么时候回归",
+        "onboard_time": 1676769507,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242445,
+        "num": 242445,
+        "word": "夏花 上头",
+        "onboard_time": 1676771668,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233536,
+        "num": 233536,
+        "word": "两男孩卖废品多收1元深夜捡纸箱还钱",
+        "onboard_time": 1676774069,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914523,
+        "num": 232271,
+        "word": "泰剧床伴",
+        "onboard_time": 1676763320,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229128,
+        "num": 229128,
+        "word": "跪求夏花500T",
+        "onboard_time": 1676768848,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216608,
+        "num": 216608,
+        "word": "檀健次发型可以乱游戏不能输",
+        "onboard_time": 1676773289,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195874,
+        "num": 195874,
+        "word": "男子称买200元螃蟹皮套得占70元",
+        "onboard_time": 1676740582,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194959,
+        "num": 194959,
+        "word": "NBA全明星三分大赛",
+        "onboard_time": 1676774850,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192129,
+        "num": 192129,
+        "word": "柯哀",
+        "onboard_time": 1676733451,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 781432,
+        "num": 191050,
+        "word": "吴磊赵今麦牵手饭拍路透",
+        "onboard_time": 1676773708,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186203,
+        "num": 186203,
+        "word": "近期又开始发烧是否等于复阳",
+        "onboard_time": 1676717489,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185602,
+        "num": 185602,
+        "word": "云南德宏地震",
+        "onboard_time": 1676762299,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177533,
+        "num": 177533,
+        "word": "侯明昊说我的心在她那",
+        "onboard_time": 1676770647,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173173,
+        "num": 173173,
+        "word": "ChatGPT相关领域招聘年薪超33万",
+        "onboard_time": 1676774549,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161515,
+        "num": 161515,
+        "word": "德班世乒赛选拔赛",
+        "onboard_time": 1676774248,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156682,
+        "num": 156682,
+        "word": "独居后才知道生活常识",
+        "onboard_time": 1676736631,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155821,
+        "num": 155821,
+        "word": "你是我最后一个女人",
+        "onboard_time": 1676775030,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155341,
+        "num": 155341,
+        "word": "雨水节气意味着什么",
+        "onboard_time": 1676766445,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154128,
+        "num": 154128,
+        "word": "马斯克称OpenAI违背创办初心",
+        "onboard_time": 1676770291,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 153679,
+        "num": 153679,
+        "word": "中方要求美国拿出诚意改正错误",
+        "onboard_time": 1676768063,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 153546,
+        "num": 153546,
+        "word": "叙利亚首都一居民楼被导弹击中",
+        "onboard_time": 1676766205,
+        "rank": 47,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 152597,
+        "num": 152597,
+        "word": "杨丞琳听粉丝喊自己的反应",
+        "onboard_time": 1676775030,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151909,
+        "num": 151909,
+        "word": "对我而言危险的他",
+        "onboard_time": 1676765243,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#强大的政党是在自我革命中锻造出来的#"
+    }
+  }
+}
