@@ -1,0 +1,410 @@
+{
+  "runTime": 1676781483419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2647829,
+        "num": 2647829,
+        "word": "杭师大",
+        "onboard_time": 1676774727,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1637230,
+        "num": 1637230,
+        "word": "浙师大",
+        "onboard_time": 1676776169,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181794,
+        "num": 1602379,
+        "word": "春雨里的中国美成了一幅画",
+        "onboard_time": 1676777370,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1569387,
+        "num": 1569387,
+        "word": "何与 卢洋洋",
+        "onboard_time": 1676776469,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1194623,
+        "num": 1194623,
+        "word": "吴磊赵今麦牵手饭拍路透",
+        "onboard_time": 1676773708,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1052130,
+        "num": 1052130,
+        "word": "向妻子面部泼硫酸男子称已同意离婚",
+        "onboard_time": 1676773834,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 939483,
+        "num": 939483,
+        "word": "沈月在节目里谈分手原因",
+        "onboard_time": 1676773167,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 910765,
+        "num": 910765,
+        "word": "你是我最后一个女人",
+        "onboard_time": 1676775030,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 842637,
+        "num": 842637,
+        "word": "四川凉山制止528起10万以上彩礼",
+        "onboard_time": 1676775567,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805960,
+        "num": 805960,
+        "word": "新冠高峰后现肝损伤小高峰",
+        "onboard_time": 1676772746,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767006,
+        "num": 767006,
+        "word": "金科路",
+        "onboard_time": 1676779350,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 718799,
+        "num": 718799,
+        "word": "郭晓婷的交友尺度",
+        "onboard_time": 1676772868,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645058,
+        "num": 645058,
+        "word": "军队文职",
+        "onboard_time": 1676768488,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 500701,
+        "num": 500701,
+        "word": "麦克朗扣篮大赛满分",
+        "onboard_time": 1676777850,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467789,
+        "num": 467789,
+        "word": "梁朝伟王一博无名走廊打戏花絮",
+        "onboard_time": 1676780968,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466123,
+        "num": 466123,
+        "word": "上戏明年表演系考生高考须达一本线",
+        "onboard_time": 1676767766,
+        "rank": 15,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 453520,
+        "num": 453520,
+        "word": "中方将发布政治解决乌克兰危机的中国立场",
+        "onboard_time": 1676769809,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 440356,
+        "num": 440356,
+        "word": "狂飙警戒线漫画版",
+        "onboard_time": 1676775267,
+        "rank": 17,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 424992,
+        "num": 424992,
+        "word": "张婧仪蓝色短上衣随拍",
+        "onboard_time": 1676781451,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396022,
+        "num": 396022,
+        "word": "杜华晒照为黄明昊庆生",
+        "onboard_time": 1676777729,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390646,
+        "num": 390646,
+        "word": "显微镜下的大明今日收官",
+        "onboard_time": 1676778750,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383604,
+        "num": 383604,
+        "word": "乌克兰延长战时状态至5月",
+        "onboard_time": 1676773528,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 366863,
+        "num": 366863,
+        "word": "田曦薇歪头和粉丝打招呼",
+        "onboard_time": 1676779050,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345032,
+        "num": 345032,
+        "word": "警犬云吞原来是云字辈的",
+        "onboard_time": 1676779590,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343838,
+        "num": 343838,
+        "word": "肖指导让王楚钦打球少生气",
+        "onboard_time": 1676780728,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338998,
+        "num": 338998,
+        "word": "姜广涛",
+        "onboard_time": 1676762657,
+        "rank": 25,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 319873,
+        "num": 319873,
+        "word": "苏打绿宣布正式回归",
+        "onboard_time": 1676764222,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297969,
+        "num": 297969,
+        "word": "中国好声音 唱跳赛道",
+        "onboard_time": 1676775389,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283843,
+        "num": 283843,
+        "word": "烧给爱丽丝",
+        "onboard_time": 1676772807,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271807,
+        "num": 271807,
+        "word": "不想开学",
+        "onboard_time": 1676778990,
+        "rank": 29,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 345808,
+        "num": 270445,
+        "word": "泰剧床伴",
+        "onboard_time": 1676763320,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268891,
+        "num": 268891,
+        "word": "赵樱子问周柯宇喜欢姐姐类型吗",
+        "onboard_time": 1676777850,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251439,
+        "num": 251439,
+        "word": "薛飞3比0林高远",
+        "onboard_time": 1676778750,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247291,
+        "num": 247291,
+        "word": "美国一工厂雇100余童工通宵工作",
+        "onboard_time": 1676766744,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243324,
+        "num": 243324,
+        "word": "好身材伴侣甜蜜接吻名场面",
+        "onboard_time": 1676780728,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234576,
+        "num": 234576,
+        "word": "香港大学宣布禁用ChatGPT",
+        "onboard_time": 1676736818,
+        "rank": 35,
+        "category": "教育,科技"
+      },
+      {
+        "raw_hot": 233733,
+        "num": 233733,
+        "word": "星落凝成糖制片人手滑点赞重紫微博",
+        "onboard_time": 1676778032,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219299,
+        "num": 219299,
+        "word": "美国前总统卡特将开始接受临终关怀",
+        "onboard_time": 1676768063,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 215909,
+        "num": 215909,
+        "word": "还得是言承旭",
+        "onboard_time": 1676772267,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213101,
+        "num": 213101,
+        "word": "种地吧",
+        "onboard_time": 1676778151,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209320,
+        "num": 209320,
+        "word": "多地21日起可查考研初试成绩",
+        "onboard_time": 1676769146,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 206087,
+        "num": 206087,
+        "word": "唐嫣与江南春雨的美好约定",
+        "onboard_time": 1676779709,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197907,
+        "num": 197907,
+        "word": "浙江一团队用3D还原心脏跳动",
+        "onboard_time": 1676779170,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 193389,
+        "num": 193389,
+        "word": "NBA全明星三分大赛",
+        "onboard_time": 1676774850,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192486,
+        "num": 192486,
+        "word": "婚检应该自愿还是强制",
+        "onboard_time": 1676767285,
+        "rank": 44,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 184315,
+        "num": 184315,
+        "word": "两男孩卖废品多收1元深夜捡纸箱还钱",
+        "onboard_time": 1676774069,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181175,
+        "num": 181175,
+        "word": "美甲最好隔20天左右就卸除",
+        "onboard_time": 1676737406,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178137,
+        "num": 178137,
+        "word": "浙江彩民中2.4亿元巨奖",
+        "onboard_time": 1676781389,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173421,
+        "num": 173421,
+        "word": "扣篮大赛",
+        "onboard_time": 1676778390,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171804,
+        "num": 171804,
+        "word": "夏花删减",
+        "onboard_time": 1676769747,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#促发展需要做好精准文章#"
+    }
+  }
+}

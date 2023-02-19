@@ -1,6 +1,6 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676780570619,
+  "endTime": 1676781483419,
   "band_list": [
     {
       "raw_hot": 2857236,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1256622,
-      "num": 268673,
+      "num": 270445,
       "word": "泰剧床伴",
       "onboard_time": 1676763320,
       "rank": 30,
@@ -115,8 +115,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1164360,
-      "num": 1164360,
+      "raw_hot": 1194623,
+      "num": 1194623,
       "word": "吴磊赵今麦牵手饭拍路透",
       "onboard_time": 1676773708,
       "rank": 36,
@@ -227,6 +227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 767006,
+      "num": 767006,
+      "word": "金科路",
+      "onboard_time": 1676779350,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 754326,
       "num": 754326,
       "word": "美甲最好隔20天左右就卸除",
@@ -299,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 564263,
-      "num": 564263,
-      "word": "金科路",
-      "onboard_time": 1676779350,
-      "rank": 13,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 560732,
       "num": 135711,
       "word": "iPhone14最高降1600元",
@@ -371,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 467789,
+      "num": 467789,
+      "word": "梁朝伟王一博无名走廊打戏花絮",
+      "onboard_time": 1676780968,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 455216,
       "num": 455216,
       "word": "杜华晒照为黄明昊庆生",
@@ -385,6 +393,14 @@
       "onboard_time": 1676731954,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 424992,
+      "num": 424992,
+      "word": "张婧仪蓝色短上衣随拍",
+      "onboard_time": 1676781451,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 403507,
@@ -465,6 +481,22 @@
       "onboard_time": 1676752572,
       "rank": 16,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 345032,
+      "num": 345032,
+      "word": "警犬云吞原来是云字辈的",
+      "onboard_time": 1676779590,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343838,
+      "num": 343838,
+      "word": "肖指导让王楚钦打球少生气",
+      "onboard_time": 1676780728,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 336402,
@@ -595,14 +627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 268546,
-      "num": 268546,
-      "word": "警犬云吞原来是云字辈的",
-      "onboard_time": 1676779590,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267876,
       "num": 267876,
       "word": "徐明浩金珉奎获奖reaction",
@@ -673,6 +697,14 @@
       "onboard_time": 1676778089,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 243324,
+      "num": 243324,
+      "word": "好身材伴侣甜蜜接吻名场面",
+      "onboard_time": 1676780728,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 241759,
@@ -873,6 +905,14 @@
       "onboard_time": 1676776289,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178137,
+      "num": 178137,
+      "word": "浙江彩民中2.4亿元巨奖",
+      "onboard_time": 1676781389,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178090,

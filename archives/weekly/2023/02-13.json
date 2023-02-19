@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676780570619,
+  "endTime": 1676781483419,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -1524,7 +1524,7 @@
     },
     {
       "raw_hot": 1256622,
-      "num": 268673,
+      "num": 270445,
       "word": "泰剧床伴",
       "onboard_time": 1676763320,
       "rank": 30,
@@ -1675,6 +1675,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1194623,
+      "num": 1194623,
+      "word": "吴磊赵今麦牵手饭拍路透",
+      "onboard_time": 1676773708,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1189353,
       "num": 1189353,
       "word": "男孩举手后身亡校方自称无过错",
@@ -1761,14 +1769,6 @@
       "onboard_time": 1676341052,
       "rank": 5,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1164360,
-      "num": 1164360,
-      "word": "吴磊赵今麦牵手饭拍路透",
-      "onboard_time": 1676773708,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 1161151,
@@ -3225,6 +3225,14 @@
       "onboard_time": 1676458053,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 767006,
+      "num": 767006,
+      "word": "金科路",
+      "onboard_time": 1676779350,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 765110,
@@ -4779,14 +4787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 564263,
-      "num": 564263,
-      "word": "金科路",
-      "onboard_time": 1676779350,
-      "rank": 13,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 563732,
       "num": 563732,
       "word": "SMTOWN将被税务调查",
@@ -5923,6 +5923,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 467789,
+      "num": 467789,
+      "word": "梁朝伟王一博无名走廊打戏花絮",
+      "onboard_time": 1676780968,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 467628,
       "num": 467628,
       "word": "香港大幅度下调英语节目比例",
@@ -6593,6 +6601,14 @@
       "onboard_time": 1676472455,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424992,
+      "num": 424992,
+      "word": "张婧仪蓝色短上衣随拍",
+      "onboard_time": 1676781451,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 424142,
@@ -7843,6 +7859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 345032,
+      "num": 345032,
+      "word": "警犬云吞原来是云字辈的",
+      "onboard_time": 1676779590,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344803,
       "num": 344803,
       "word": "微信头像褪色",
@@ -7865,6 +7889,14 @@
       "onboard_time": 1676554890,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343838,
+      "num": 343838,
+      "word": "肖指导让王楚钦打球少生气",
+      "onboard_time": 1676780728,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 343670,
@@ -9571,14 +9603,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 268546,
-      "num": 268546,
-      "word": "警犬云吞原来是云字辈的",
-      "onboard_time": 1676779590,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268337,
       "num": 268337,
       "word": "你吃过章肥虾吗",
@@ -10265,6 +10289,14 @@
       "onboard_time": 1676423732,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243324,
+      "num": 243324,
+      "word": "好身材伴侣甜蜜接吻名场面",
+      "onboard_time": 1676780728,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 243277,
@@ -12385,6 +12417,14 @@
       "onboard_time": 1676531732,
       "rank": 45,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 178137,
+      "num": 178137,
+      "word": "浙江彩民中2.4亿元巨奖",
+      "onboard_time": 1676781389,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178002,
