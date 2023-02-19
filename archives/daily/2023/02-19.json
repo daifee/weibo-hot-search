@@ -1,10 +1,10 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676792024290,
+  "endTime": 1676794972750,
   "band_list": [
     {
-      "raw_hot": 3637272,
-      "num": 3637272,
+      "raw_hot": 4088228,
+      "num": 4088228,
       "word": "每日新增阳性5000例以上",
       "onboard_time": 1676789727,
       "rank": 0,
@@ -163,8 +163,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1164764,
-      "num": 1164764,
+      "raw_hot": 1182249,
+      "num": 1182249,
       "word": "学生曝食堂勾芡严重菜稀成面条卤子",
       "onboard_time": 1676790148,
       "rank": 11,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 810396,
+      "num": 810396,
+      "word": "新增确诊病例主要是没阳过的",
+      "onboard_time": 1676792968,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807135,
       "num": 807135,
       "word": "租客跟房东说养宠物结果是匹马",
@@ -345,6 +353,14 @@
       "onboard_time": 1676776890,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 768323,
+      "num": 768323,
+      "word": "刘培强中校 检测到您心率上升请保持理智",
+      "onboard_time": 1676792069,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 754326,
@@ -419,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628843,
+      "num": 628843,
+      "word": "男孩疑遭校园霸凌被迫跳舞",
+      "onboard_time": 1676790988,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 623600,
       "num": 623600,
       "word": "众星给黄明昊录制生日祝福VCR",
       "onboard_time": 1676733396,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 622621,
+      "num": 622621,
+      "word": "谁给张新成画的眉毛",
+      "onboard_time": 1676793209,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 620129,
@@ -489,6 +521,14 @@
       "onboard_time": 1676737826,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 527638,
+      "num": 527638,
+      "word": "非婚生育将面临哪些困境",
+      "onboard_time": 1676792789,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519410,
@@ -563,6 +603,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 412243,
+      "num": 412243,
+      "word": "战歌级韩剧OST",
+      "onboard_time": 1676791408,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 403507,
       "num": 403507,
       "word": "烧给爱丽丝",
@@ -577,14 +625,6 @@
       "onboard_time": 1676772267,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 401082,
-      "num": 401082,
-      "word": "男孩疑遭校园霸凌被迫跳舞",
-      "onboard_time": 1676790988,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400523,
@@ -651,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373909,
+      "num": 373909,
+      "word": "宋亚轩我们的客栈跳舞预告",
+      "onboard_time": 1676794529,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371279,
       "num": 371279,
       "word": "中国好声音 唱跳赛道",
@@ -705,6 +753,22 @@
       "onboard_time": 1676779590,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344737,
+      "num": 344737,
+      "word": "陈宏友回应讲座引不满被高中生反呛",
+      "onboard_time": 1676793090,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 344693,
+      "num": 344693,
+      "word": "赵露思wetv2022最佳女主角",
+      "onboard_time": 1676794768,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 336402,
@@ -787,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297212,
+      "num": 297212,
+      "word": "上戏回应表演系高考须达一本线",
+      "onboard_time": 1676792309,
+      "rank": 25,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 297096,
       "num": 297096,
       "word": "不想开学",
@@ -841,6 +913,14 @@
       "onboard_time": 1676786067,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 286162,
+      "num": 286162,
+      "word": "let me do it for you",
+      "onboard_time": 1676793808,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 274127,
@@ -1027,14 +1107,6 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 227259,
-      "num": 227259,
-      "word": "战歌级韩剧OST",
-      "onboard_time": 1676791408,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 224474,
       "num": 224474,
       "word": "侯明昊说我的心在她那",
@@ -1051,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220240,
+      "num": 220240,
+      "word": "合肥宣扬功利性内容教授已停课",
+      "onboard_time": 1676794170,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 216608,
       "num": 216608,
       "word": "檀健次发型可以乱游戏不能输",
@@ -1065,6 +1145,14 @@
       "onboard_time": 1676784746,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208794,
+      "num": 208794,
+      "word": "黄多多双语视频",
+      "onboard_time": 1676794408,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 206218,
@@ -1131,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191889,
+      "num": 191889,
+      "word": "马龙这球太帅了",
+      "onboard_time": 1676791948,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191248,
       "num": 191248,
       "word": "雨水该吃啥",
@@ -1161,6 +1257,14 @@
       "onboard_time": 1676725292,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184383,
+      "num": 184383,
+      "word": "于正说张楠得三月底进组",
+      "onboard_time": 1676793330,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 183885,
@@ -1291,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161367,
+      "num": 161367,
+      "word": "科学家发现太空旅行会改变大脑",
+      "onboard_time": 1676793151,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 159726,
       "num": 159726,
       "word": "华晨宇你好星期六新歌直拍",
@@ -1403,12 +1515,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139617,
-      "num": 139617,
-      "word": "马龙这球太帅了",
-      "onboard_time": 1676791948,
+      "raw_hot": 143648,
+      "num": 143648,
+      "word": "WB对战WE",
+      "onboard_time": 1676792851,
       "rank": 42,
-      "category": "体育"
+      "category": "游戏"
     },
     {
       "raw_hot": 139449,
@@ -1457,6 +1569,14 @@
       "onboard_time": 1676791049,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128998,
+      "num": 128998,
+      "word": "杭州通报家联公寓燃气爆燃情况",
+      "onboard_time": 1676785647,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 128065,
