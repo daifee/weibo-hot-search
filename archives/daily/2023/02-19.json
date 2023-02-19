@@ -1,6 +1,6 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676777811465,
+  "endTime": 1676780570619,
   "band_list": [
     {
       "raw_hot": 2857236,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2243379,
-      "num": 1597094,
+      "num": 1678667,
       "word": "何与 卢洋洋",
       "onboard_time": 1676776469,
       "rank": 3,
@@ -51,20 +51,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1779937,
+      "num": 1779937,
+      "word": "浙师大",
+      "onboard_time": 1676776169,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1681597,
       "num": 1681597,
       "word": "向妻子面部泼硫酸男子称已同意离婚",
       "onboard_time": 1676773834,
       "rank": 4,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1586343,
-      "num": 1586343,
-      "word": "浙师大",
-      "onboard_time": 1676776169,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 1583530,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1256622,
-      "num": 255933,
+      "num": 268673,
       "word": "泰剧床伴",
       "onboard_time": 1676763320,
       "rank": 30,
@@ -113,6 +113,14 @@
       "onboard_time": 1676764222,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1164360,
+      "num": 1164360,
+      "word": "吴磊赵今麦牵手饭拍路透",
+      "onboard_time": 1676773708,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 1160768,
@@ -155,12 +163,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1010424,
+      "num": 1010424,
+      "word": "四川凉山制止528起10万以上彩礼",
+      "onboard_time": 1676775567,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 966073,
       "num": 966073,
       "word": "郭晓婷的交友尺度",
       "onboard_time": 1676772868,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 946696,
+      "num": 946696,
+      "word": "你是我最后一个女人",
+      "onboard_time": 1676775030,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 815520,
@@ -193,22 +217,6 @@
       "onboard_time": 1676727569,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 781432,
-      "num": 191050,
-      "word": "吴磊赵今麦牵手饭拍路透",
-      "onboard_time": 1676773708,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 776949,
-      "num": 776949,
-      "word": "你是我最后一个女人",
-      "onboard_time": 1676775030,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 775976,
@@ -267,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 640765,
-      "num": 640765,
-      "word": "四川凉山制止528起10万以上彩礼",
-      "onboard_time": 1676775567,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 623600,
       "num": 623600,
       "word": "众星给黄明昊录制生日祝福VCR",
@@ -289,6 +289,22 @@
       "onboard_time": 1676773528,
       "rank": 23,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 581270,
+      "num": 581270,
+      "word": "麦克朗扣篮大赛满分",
+      "onboard_time": 1676777850,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 564263,
+      "num": 564263,
+      "word": "金科路",
+      "onboard_time": 1676779350,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 560732,
@@ -339,11 +355,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 474404,
-      "num": 474404,
+      "raw_hot": 478705,
+      "num": 478705,
       "word": "狂飙警戒线漫画版",
       "onboard_time": 1676775267,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 477173,
+      "num": 477173,
+      "word": "显微镜下的大明今日收官",
+      "onboard_time": 1676778750,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -403,6 +427,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 384958,
+      "num": 384958,
+      "word": "田曦薇歪头和粉丝打招呼",
+      "onboard_time": 1676779050,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371279,
       "num": 371279,
       "word": "中国好声音 唱跳赛道",
@@ -459,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310428,
+      "num": 310428,
+      "word": "薛飞3比0林高远",
+      "onboard_time": 1676778750,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306395,
       "num": 306395,
       "word": "两男孩卖废品多收1元深夜捡纸箱还钱",
@@ -491,6 +531,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298975,
+      "num": 298975,
+      "word": "赵樱子问周柯宇喜欢姐姐类型吗",
+      "onboard_time": 1676777850,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 297096,
+      "num": 297096,
+      "word": "不想开学",
+      "onboard_time": 1676778990,
+      "rank": 26,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 295069,
       "num": 295069,
       "word": "骑士买断乐福",
@@ -515,12 +571,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274127,
+      "num": 274127,
+      "word": "星落凝成糖制片人手滑点赞重紫微博",
+      "onboard_time": 1676778032,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269085,
       "num": 269085,
       "word": "无畏镜杀疯了",
       "onboard_time": 1676732432,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 268692,
+      "num": 268692,
+      "word": "苏打绿 好久不见",
+      "onboard_time": 1676779771,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 268546,
+      "num": 268546,
+      "word": "警犬云吞原来是云字辈的",
+      "onboard_time": 1676779590,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267876,
@@ -571,11 +651,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248017,
+      "num": 248017,
+      "word": "唐嫣与江南春雨的美好约定",
+      "onboard_time": 1676779709,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246895,
       "num": 246895,
       "word": "夏花 上头",
       "onboard_time": 1676771668,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 245727,
+      "num": 245727,
+      "word": "彭冠英说宁至谦在追妻的路上",
+      "onboard_time": 1676778089,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -601,6 +697,22 @@
       "onboard_time": 1676777370,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238285,
+      "num": 238285,
+      "word": "种地吧",
+      "onboard_time": 1676778151,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238230,
+      "num": 238230,
+      "word": "扣篮大赛",
+      "onboard_time": 1676778390,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 232752,
@@ -657,6 +769,14 @@
       "onboard_time": 1676728352,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203864,
+      "num": 203864,
+      "word": "浙江一团队用3D还原心脏跳动",
+      "onboard_time": 1676779170,
+      "rank": 43,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 203442,
@@ -721,6 +841,14 @@
       "onboard_time": 1676771727,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182980,
+      "num": 1680267,
+      "word": "春雨里的中国美成了一幅画",
+      "onboard_time": 1676777370,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 181539,
@@ -1057,14 +1185,6 @@
       "onboard_time": 1676762237,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68401,
-      "num": 1598168,
-      "word": "春雨里的中国美成了一幅画",
-      "onboard_time": 1676777370,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 62178,
