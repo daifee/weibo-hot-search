@@ -1,7 +1,15 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676846028761,
+  "endTime": 1676848720861,
   "band_list": [
+    {
+      "raw_hot": 1312795,
+      "num": 1312795,
+      "word": "杭州两所中小学出现新冠阳性学生",
+      "onboard_time": 1676821231,
+      "rank": 3,
+      "category": "社会新闻,教育"
+    },
     {
       "raw_hot": 1206592,
       "num": 1206592,
@@ -19,11 +27,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 982203,
-      "num": 982203,
-      "word": "杭州两所中小学出现新冠阳性学生",
-      "onboard_time": 1676821231,
-      "rank": 3,
+      "raw_hot": 917412,
+      "num": 917412,
+      "word": "中学老师称除生病外痛苦都是价值观造成的",
+      "onboard_time": 1676843232,
+      "rank": 10,
       "category": "社会新闻,教育"
     },
     {
@@ -56,6 +64,14 @@
       "word": "男子为落户北京让妻子跟别人假结婚",
       "onboard_time": 1676815113,
       "rank": 7,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 567933,
+      "num": 567933,
+      "word": "女子超市买250斤过期大米索赔被殴打",
+      "onboard_time": 1676828598,
+      "rank": 30,
       "category": "社会负面"
     },
     {
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 467371,
-      "num": 260943,
+      "num": 296590,
       "word": "中国台湾联赛大规模冲突",
       "onboard_time": 1676823087,
       "rank": 30,
@@ -171,11 +187,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 308144,
+      "num": 308144,
+      "word": "小时候的塌天大事",
+      "onboard_time": 1676845393,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301572,
       "num": 301572,
       "word": "94岁老人疑遭护工推倒撞地去世",
       "onboard_time": 1676816614,
       "rank": 19,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 293391,
+      "num": 278755,
+      "word": "男子为挽回感情酒后烧了女友家",
+      "onboard_time": 1676841672,
+      "rank": 22,
       "category": "社会负面"
     },
     {
@@ -195,12 +227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273305,
-      "num": 273305,
-      "word": "中学老师称除生病外痛苦都是价值观造成的",
-      "onboard_time": 1676843232,
-      "rank": 10,
-      "category": "社会新闻,教育"
+      "raw_hot": 268991,
+      "num": 268991,
+      "word": "日本一男子拉面店舔筷子后放回",
+      "onboard_time": 1676832615,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264786,
@@ -217,14 +249,6 @@
       "onboard_time": 1676814092,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 229134,
-      "num": 229134,
-      "word": "女子超市买250斤过期大米索赔被殴打",
-      "onboard_time": 1676828598,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 228367,
@@ -329,14 +353,6 @@
       "onboard_time": 1676822428,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153787,
-      "num": 131386,
-      "word": "男子为挽回感情酒后烧了女友家",
-      "onboard_time": 1676841672,
-      "rank": 22,
-      "category": "社会负面"
     },
     {
       "raw_hot": 144328,
@@ -459,12 +475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97291,
-      "num": 97291,
-      "word": "日本一男子拉面店舔筷子后放回",
-      "onboard_time": 1676832615,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 98589,
+      "num": 98589,
+      "word": "社会我玲姐 衣服越粉打人越狠",
+      "onboard_time": 1676808455,
+      "rank": 47,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 78811,
+      "num": 78811,
+      "word": "王一博无名破9亿剧照",
+      "onboard_time": 1676812295,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 54832,
@@ -472,6 +496,22 @@
       "word": "高叶再次感谢陈书婷",
       "onboard_time": 1676806350,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 51303,
+      "num": 51303,
+      "word": "萧寒何冉处处吻",
+      "onboard_time": 1676846956,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 46545,
+      "num": 46545,
+      "word": "虞书欣冷到鹅叫",
+      "onboard_time": 1676833154,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -483,44 +523,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 40119,
-      "num": 40119,
-      "word": "王一博无名破9亿剧照",
-      "onboard_time": 1676812295,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 38567,
-      "num": 38567,
-      "word": "小时候的塌天大事",
-      "onboard_time": 1676845393,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 33598,
       "num": 987242,
       "word": "跨国企业在中国",
       "onboard_time": 1676801253,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28205,
-      "num": 28205,
-      "word": "社会我玲姐 衣服越粉打人越狠",
-      "onboard_time": 1676808455,
-      "rank": 47,
-      "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 24665,
-      "num": 24665,
-      "word": "虞书欣冷到鹅叫",
-      "onboard_time": 1676833154,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 24512,
