@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676828011240,
+  "endTime": 1676830936307,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -34467,6 +34467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191799,
+      "num": 51774,
+      "word": "女子超市买250斤过期大米索赔被殴打",
+      "onboard_time": 1676828598,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 191784,
       "num": 191784,
       "word": "刘敏涛演技感染力",
@@ -43073,6 +43081,14 @@
       "onboard_time": 1675832433,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 42130,
+      "num": 42130,
+      "word": "cpsp 阿宅拉练",
+      "onboard_time": 1676828717,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 41914,
