@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676841350151,
+  "endTime": 1676842416632,
   "band_list": [
     {
       "raw_hot": 1206592,
@@ -481,6 +481,14 @@
       "onboard_time": 1676812295,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 28336,
+      "num": 28336,
+      "word": "男子为挽回感情酒后烧了女友家",
+      "onboard_time": 1676841672,
+      "rank": 22,
+      "category": "社会负面"
     },
     {
       "raw_hot": 26357,
