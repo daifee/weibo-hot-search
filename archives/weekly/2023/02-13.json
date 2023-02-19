@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676801958157,
+  "endTime": 1676802903948,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -313,6 +313,14 @@
       "onboard_time": 1676619031,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2709873,
+      "num": 581932,
+      "word": "杨幂漂发了",
+      "onboard_time": 1676802091,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2690901,
@@ -1339,6 +1347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1397182,
+      "num": 1397182,
+      "word": "官方通报高校教师到中学演讲内容不当",
+      "onboard_time": 1676798129,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1396903,
       "num": 1396903,
       "word": "W两个世界翻拍版预告",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1676274646,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1284608,
-      "num": 1284608,
-      "word": "官方通报高校教师到中学演讲内容不当",
-      "onboard_time": 1676798129,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1278678,
@@ -3051,6 +3059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824378,
+      "num": 824378,
+      "word": "庐江中学称不会处理抢话筒学生",
+      "onboard_time": 1676800289,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 823676,
       "num": 823676,
       "word": "深渊",
@@ -3721,6 +3737,14 @@
       "onboard_time": 1676281182,
       "rank": 8,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 723934,
+      "num": 723934,
+      "word": "教育部门要求对陈某某进行调查",
+      "onboard_time": 1676800111,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 723412,
@@ -4659,6 +4683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601276,
+      "num": 601276,
+      "word": "张新成演技",
+      "onboard_time": 1676799748,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 598993,
       "num": 598993,
       "word": "为什么街边的榴莲那么便宜",
@@ -4987,6 +5019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567627,
+      "num": 567627,
+      "word": "刘畊宏vivi鼓励大家多亲吻",
+      "onboard_time": 1676797590,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567088,
       "num": 567088,
       "word": "刘小溪妈妈怀二胎",
@@ -5009,14 +5049,6 @@
       "onboard_time": 1676380475,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 565179,
-      "num": 565179,
-      "word": "刘畊宏vivi鼓励大家多亲吻",
-      "onboard_time": 1676797590,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 564753,
@@ -5075,14 +5107,6 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 562227,
-      "num": 562227,
-      "word": "庐江中学称不会处理抢话筒学生",
-      "onboard_time": 1676800289,
-      "rank": 11,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 560806,
       "num": 560806,
       "word": "阿里客服称商家肯定看不到购物车信息",
@@ -5129,14 +5153,6 @@
       "onboard_time": 1676593349,
       "rank": 8,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 554666,
-      "num": 554666,
-      "word": "教育部门要求对陈某某进行调查",
-      "onboard_time": 1676800111,
-      "rank": 12,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 554650,
@@ -5777,14 +5793,6 @@
       "onboard_time": 1676434360,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 499912,
-      "num": 499912,
-      "word": "张新成演技",
-      "onboard_time": 1676799748,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 498332,
@@ -7043,6 +7051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 415591,
+      "num": 415591,
+      "word": "满江红实时票房破44亿",
+      "onboard_time": 1676801971,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 415242,
       "num": 415242,
       "word": "宁至谦强吻阮流筝",
@@ -7395,6 +7411,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 395860,
+      "num": 395860,
+      "word": "广东选调",
+      "onboard_time": 1676800830,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 395655,
       "num": 395655,
       "word": "制片人说张译是安欣第一人选",
@@ -7707,6 +7731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379517,
+      "num": 379517,
+      "word": "陈宏友回应讲座引不满被高中生反呛",
+      "onboard_time": 1676793090,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 379208,
       "num": 379208,
       "word": "勇士向NBA投诉开拓者",
@@ -7721,14 +7753,6 @@
       "onboard_time": 1676375013,
       "rank": 27,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 379017,
-      "num": 379017,
-      "word": "陈宏友回应讲座引不满被高中生反呛",
-      "onboard_time": 1676793090,
-      "rank": 19,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 378752,
@@ -8665,14 +8689,6 @@
       "onboard_time": 1676258969,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322993,
-      "num": 322993,
-      "word": "广东选调",
-      "onboard_time": 1676800830,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 322369,
@@ -9963,6 +9979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 271351,
+      "num": 271351,
+      "word": "若美方执意扩大事态中方必将奉陪到底",
+      "onboard_time": 1676800830,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 271075,
       "num": 271075,
       "word": "年纪轻轻就长白头发是咋回事",
@@ -11041,6 +11065,14 @@
       "onboard_time": 1676295048,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233157,
+      "num": 233157,
+      "word": "Faker中单安妮",
+      "onboard_time": 1676801612,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 233146,
@@ -12923,14 +12955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179209,
-      "num": 179209,
-      "word": "若美方执意扩大事态中方必将奉陪到底",
-      "onboard_time": 1676800830,
-      "rank": 38,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 179183,
       "num": 179183,
       "word": "李培楠孤勇者",
@@ -14187,6 +14211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141739,
+      "num": 1075035,
+      "word": "跨国企业在中国",
+      "onboard_time": 1676801253,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140856,
       "num": 140856,
       "word": "章昊KillThisLove舞台",
@@ -14225,14 +14257,6 @@
       "onboard_time": 1676628096,
       "rank": 47,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 140250,
-      "num": 140250,
-      "word": "Faker中单安妮",
-      "onboard_time": 1676801612,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 140156,
@@ -14587,12 +14611,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125531,
+      "num": 125531,
+      "word": "言承旭徐若晗夏花花絮",
+      "onboard_time": 1676801850,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124193,
       "num": 124193,
       "word": "夏花导演好会拍",
       "onboard_time": 1676704949,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123301,
+      "num": 123301,
+      "word": "今晚开放麦",
+      "onboard_time": 1676802452,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 122652,
@@ -14867,28 +14907,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 97419,
-      "num": 1075035,
-      "word": "跨国企业在中国",
-      "onboard_time": 1676801253,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97096,
       "num": 97096,
       "word": "如何走出分手的痛苦",
       "onboard_time": 1676564904,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 94379,
-      "num": 94379,
-      "word": "言承旭徐若晗夏花花絮",
-      "onboard_time": 1676801850,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 93855,
@@ -15299,6 +15323,9 @@
     },
     {
       "word": "#讲好中国故事传播好中国声音#"
+    },
+    {
+      "word": "#藏在节气里的中国传统色#"
     }
   ]
 }
