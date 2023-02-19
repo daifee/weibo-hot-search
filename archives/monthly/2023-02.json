@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676794972750,
+  "endTime": 1676795829168,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -6523,6 +6523,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 939893,
+      "num": 939893,
+      "word": "刘培强中校 检测到您心率上升请保持理智",
+      "onboard_time": 1676792069,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 939879,
       "num": 939879,
       "word": "扎堆提前还房贷并不可取",
@@ -7579,6 +7587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 854733,
+      "num": 854733,
+      "word": "新增确诊病例主要是没阳过的",
+      "onboard_time": 1676792968,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 854136,
       "num": 854136,
       "word": "2023年多省公务员扩招超50%",
@@ -8192,14 +8208,6 @@
       "word": "两男子受高薪诱惑想去缅甸挣大钱",
       "onboard_time": 1675651769,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 810396,
-      "num": 810396,
-      "word": "新增确诊病例主要是没阳过的",
-      "onboard_time": 1676792968,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -8817,14 +8825,6 @@
       "onboard_time": 1675757492,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 768323,
-      "num": 768323,
-      "word": "刘培强中校 检测到您心率上升请保持理智",
-      "onboard_time": 1676792069,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 767877,
@@ -12707,6 +12707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 583441,
+      "num": 583441,
+      "word": "非婚生育将面临哪些困境",
+      "onboard_time": 1676792789,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583431,
       "num": 583431,
       "word": "蜜雪冰城没关音响扰民一宿居民报警",
@@ -14385,14 +14393,6 @@
       "onboard_time": 1675667247,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 527638,
-      "num": 527638,
-      "word": "非婚生育将面临哪些困境",
-      "onboard_time": 1676792789,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 526983,
@@ -16179,6 +16179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 474528,
+      "num": 474528,
+      "word": "宁艺卓实力",
+      "onboard_time": 1676795129,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 474170,
       "num": 474170,
       "word": "时代少年团元宵喜乐造型",
@@ -17091,6 +17099,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 448857,
+      "num": 448857,
+      "word": "赵露思wetv2022最佳女主角",
+      "onboard_time": 1676794768,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 448739,
       "num": 352854,
       "word": "蔡徐坤特效视频",
@@ -17289,6 +17305,14 @@
       "onboard_time": 1675925730,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 443739,
+      "num": 443739,
+      "word": "let me do it for you",
+      "onboard_time": 1676793808,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 443488,
@@ -18163,6 +18187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422597,
+      "num": 422597,
+      "word": "黄多多双语视频",
+      "onboard_time": 1676794408,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422590,
       "num": 422590,
       "word": "前女友团拉搞废新郎横幅系玩笑",
@@ -18769,6 +18801,14 @@
       "onboard_time": 1676452413,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409379,
+      "num": 409379,
+      "word": "合肥宣扬功利性内容教授已停课",
+      "onboard_time": 1676794170,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 409321,
@@ -21379,6 +21419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355261,
+      "num": 355261,
+      "word": "陈宏友回应讲座引不满被高中生反呛",
+      "onboard_time": 1676793090,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 354725,
       "num": 354725,
       "word": "男生攒压岁钱给妈妈换手机却挨批",
@@ -21931,28 +21979,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 344737,
-      "num": 344737,
-      "word": "陈宏友回应讲座引不满被高中生反呛",
-      "onboard_time": 1676793090,
-      "rank": 19,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 344696,
       "num": 344696,
       "word": "面试一趟有多难",
       "onboard_time": 1676436818,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 344693,
-      "num": 344693,
-      "word": "赵露思wetv2022最佳女主角",
-      "onboard_time": 1676794768,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 344668,
@@ -25625,14 +25657,6 @@
       "onboard_time": 1675773271,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286162,
-      "num": 286162,
-      "word": "let me do it for you",
-      "onboard_time": 1676793808,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 285938,
@@ -30931,14 +30955,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 220240,
-      "num": 220240,
-      "word": "合肥宣扬功利性内容教授已停课",
-      "onboard_time": 1676794170,
-      "rank": 30,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 220159,
       "num": 220159,
       "word": "你知道皮蛋有多美吗",
@@ -31883,14 +31899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 208794,
-      "num": 208794,
-      "word": "黄多多双语视频",
-      "onboard_time": 1676794408,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208510,
       "num": 208510,
       "word": "重紫连更10天22集",
@@ -32057,6 +32065,14 @@
       "onboard_time": 1675725800,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206246,
+      "num": 206246,
+      "word": "中国16岁女孩获网球世界冠军",
+      "onboard_time": 1676795249,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 206216,
@@ -40761,6 +40777,14 @@
       "onboard_time": 1675434872,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111474,
+      "num": 111474,
+      "word": "讲座名师遭高中生抢话筒",
+      "onboard_time": 1676795789,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 110431,

@@ -1,6 +1,6 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676794972750,
+  "endTime": 1676795829168,
   "band_list": [
     {
       "raw_hot": 4088228,
@@ -283,12 +283,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 939893,
+      "num": 939893,
+      "word": "刘培强中校 检测到您心率上升请保持理智",
+      "onboard_time": 1676792069,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 925319,
       "num": 925319,
       "word": "付辛博 爹系",
       "onboard_time": 1676788826,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 854733,
+      "num": 854733,
+      "word": "新增确诊病例主要是没阳过的",
+      "onboard_time": 1676792968,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 822412,
@@ -304,14 +320,6 @@
       "word": "20元人民币老爷爷去世",
       "onboard_time": 1676718630,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 810396,
-      "num": 810396,
-      "word": "新增确诊病例主要是没阳过的",
-      "onboard_time": 1676792968,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -353,14 +361,6 @@
       "onboard_time": 1676776890,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 768323,
-      "num": 768323,
-      "word": "刘培强中校 检测到您心率上升请保持理智",
-      "onboard_time": 1676792069,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 754326,
@@ -475,6 +475,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 583441,
+      "num": 583441,
+      "word": "非婚生育将面临哪些困境",
+      "onboard_time": 1676792789,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581270,
       "num": 581270,
       "word": "麦克朗扣篮大赛满分",
@@ -523,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 527638,
-      "num": 527638,
-      "word": "非婚生育将面临哪些困境",
-      "onboard_time": 1676792789,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 519410,
       "num": 519410,
       "word": "独居后才知道生活常识",
@@ -571,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 474528,
+      "num": 474528,
+      "word": "宁艺卓实力",
+      "onboard_time": 1676795129,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 467789,
       "num": 467789,
       "word": "梁朝伟王一博无名走廊打戏花絮",
@@ -603,12 +611,44 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 448857,
+      "num": 448857,
+      "word": "赵露思wetv2022最佳女主角",
+      "onboard_time": 1676794768,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 443739,
+      "num": 443739,
+      "word": "let me do it for you",
+      "onboard_time": 1676793808,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 422597,
+      "num": 422597,
+      "word": "黄多多双语视频",
+      "onboard_time": 1676794408,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412243,
       "num": 412243,
       "word": "战歌级韩剧OST",
       "onboard_time": 1676791408,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409379,
+      "num": 409379,
+      "word": "合肥宣扬功利性内容教授已停课",
+      "onboard_time": 1676794170,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 403507,
@@ -731,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355261,
+      "num": 355261,
+      "word": "陈宏友回应讲座引不满被高中生反呛",
+      "onboard_time": 1676793090,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 350085,
       "num": 350085,
       "word": "林家川回应狂飙拍摄地收费",
@@ -753,22 +801,6 @@
       "onboard_time": 1676779590,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344737,
-      "num": 344737,
-      "word": "陈宏友回应讲座引不满被高中生反呛",
-      "onboard_time": 1676793090,
-      "rank": 19,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 344693,
-      "num": 344693,
-      "word": "赵露思wetv2022最佳女主角",
-      "onboard_time": 1676794768,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 336402,
@@ -913,14 +945,6 @@
       "onboard_time": 1676786067,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 286162,
-      "num": 286162,
-      "word": "let me do it for you",
-      "onboard_time": 1676793808,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 274127,
@@ -1123,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220240,
-      "num": 220240,
-      "word": "合肥宣扬功利性内容教授已停课",
-      "onboard_time": 1676794170,
-      "rank": 30,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 216608,
       "num": 216608,
       "word": "檀健次发型可以乱游戏不能输",
@@ -1147,12 +1163,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 208794,
-      "num": 208794,
-      "word": "黄多多双语视频",
-      "onboard_time": 1676794408,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 206246,
+      "num": 206246,
+      "word": "中国16岁女孩获网球世界冠军",
+      "onboard_time": 1676795249,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 206218,
@@ -1625,6 +1641,14 @@
       "onboard_time": 1676728052,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111474,
+      "num": 111474,
+      "word": "讲座名师遭高中生抢话筒",
+      "onboard_time": 1676795789,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 108988,

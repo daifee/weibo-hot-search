@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676794972750,
+  "endTime": 1676795829168,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -2587,6 +2587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 939893,
+      "num": 939893,
+      "word": "刘培强中校 检测到您心率上升请保持理智",
+      "onboard_time": 1676792069,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 932981,
       "num": 932981,
       "word": "为什么年轻人都存不到钱",
@@ -2891,6 +2899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 854733,
+      "num": 854733,
+      "word": "新增确诊病例主要是没阳过的",
+      "onboard_time": 1676792968,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 854136,
       "num": 854136,
       "word": "2023年多省公务员扩招超50%",
@@ -3097,14 +3113,6 @@
       "onboard_time": 1676686467,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 810396,
-      "num": 810396,
-      "word": "新增确诊病例主要是没阳过的",
-      "onboard_time": 1676792968,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 808731,
@@ -3353,14 +3361,6 @@
       "onboard_time": 1676458053,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 768323,
-      "num": 768323,
-      "word": "刘培强中校 检测到您心率上升请保持理智",
-      "onboard_time": 1676792069,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 765110,
@@ -4707,6 +4707,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 583441,
+      "num": 583441,
+      "word": "非婚生育将面临哪些困境",
+      "onboard_time": 1676792789,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583431,
       "num": 583431,
       "word": "蜜雪冰城没关音响扰民一宿居民报警",
@@ -5305,14 +5313,6 @@
       "onboard_time": 1676737826,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 527638,
-      "num": 527638,
-      "word": "非婚生育将面临哪些困境",
-      "onboard_time": 1676792789,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 526409,
@@ -6051,6 +6051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 474528,
+      "num": 474528,
+      "word": "宁艺卓实力",
+      "onboard_time": 1676795129,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 474147,
       "num": 474147,
       "word": "姚薇帮安欣撕小三差点流产",
@@ -6395,6 +6403,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 448857,
+      "num": 448857,
+      "word": "赵露思wetv2022最佳女主角",
+      "onboard_time": 1676794768,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 448739,
       "num": 352854,
       "word": "蔡徐坤特效视频",
@@ -6473,6 +6489,14 @@
       "onboard_time": 1676268302,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443739,
+      "num": 443739,
+      "word": "let me do it for you",
+      "onboard_time": 1676793808,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 443126,
@@ -6835,6 +6859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422597,
+      "num": 422597,
+      "word": "黄多多双语视频",
+      "onboard_time": 1676794408,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421346,
       "num": 421346,
       "word": "东北插班生衍生真人秀",
@@ -7025,6 +7057,14 @@
       "onboard_time": 1676452413,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 409379,
+      "num": 409379,
+      "word": "合肥宣扬功利性内容教授已停课",
+      "onboard_time": 1676794170,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 409321,
@@ -7971,6 +8011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355261,
+      "num": 355261,
+      "word": "陈宏友回应讲座引不满被高中生反呛",
+      "onboard_time": 1676793090,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 354725,
       "num": 354725,
       "word": "男生攒压岁钱给妈妈换手机却挨批",
@@ -8131,28 +8179,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 344737,
-      "num": 344737,
-      "word": "陈宏友回应讲座引不满被高中生反呛",
-      "onboard_time": 1676793090,
-      "rank": 19,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 344696,
       "num": 344696,
       "word": "面试一趟有多难",
       "onboard_time": 1676436818,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 344693,
-      "num": 344693,
-      "word": "赵露思wetv2022最佳女主角",
-      "onboard_time": 1676794768,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 344607,
@@ -9417,14 +9449,6 @@
       "onboard_time": 1676448811,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286162,
-      "num": 286162,
-      "word": "let me do it for you",
-      "onboard_time": 1676793808,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 285466,
@@ -11275,14 +11299,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 220240,
-      "num": 220240,
-      "word": "合肥宣扬功利性内容教授已停课",
-      "onboard_time": 1676794170,
-      "rank": 30,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 220099,
       "num": 1533431,
       "word": "中国人第一次从太空遥望地球的影像",
@@ -11651,14 +11667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208794,
-      "num": 208794,
-      "word": "黄多多双语视频",
-      "onboard_time": 1676794408,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208510,
       "num": 208510,
       "word": "重紫连更10天22集",
@@ -11697,6 +11705,14 @@
       "onboard_time": 1676647411,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206246,
+      "num": 206246,
+      "word": "中国16岁女孩获网球世界冠军",
+      "onboard_time": 1676795249,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 205774,
@@ -14497,6 +14513,14 @@
       "onboard_time": 1676214275,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111474,
+      "num": 111474,
+      "word": "讲座名师遭高中生抢话筒",
+      "onboard_time": 1676795789,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 110211,
