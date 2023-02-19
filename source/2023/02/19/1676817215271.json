@@ -1,0 +1,410 @@
+{
+  "runTime": 1676817215271,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2022471,
+        "num": 2022471,
+        "word": "考研成绩",
+        "onboard_time": 1676809533,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1736464,
+        "num": 1736464,
+        "word": "梅西任意球绝杀",
+        "onboard_time": 1676816194,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97405,
+        "num": 1558261,
+        "word": "跨国企业在中国",
+        "onboard_time": 1676801253,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1405640,
+        "num": 1405640,
+        "word": "男子为落户北京让妻子跟别人假结婚",
+        "onboard_time": 1676815113,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 960575,
+        "num": 960575,
+        "word": "内马尔受伤",
+        "onboard_time": 1676813251,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 942890,
+        "num": 942890,
+        "word": "官方通报高校教师到中学演讲内容不当",
+        "onboard_time": 1676798129,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 860289,
+        "num": 860289,
+        "word": "农历二月生的今年能过3次生日",
+        "onboard_time": 1676807487,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 840677,
+        "num": 840677,
+        "word": "樊振东摔倒自己都笑了",
+        "onboard_time": 1676813010,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 806189,
+        "num": 806189,
+        "word": "集美大学",
+        "onboard_time": 1676799632,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 725399,
+        "num": 725399,
+        "word": "言承旭 满40减20",
+        "onboard_time": 1676814512,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1433928,
+        "num": 714614,
+        "word": "luna评论宋茜姐姐依旧还是那么美",
+        "onboard_time": 1676815172,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1099459,
+        "num": 661697,
+        "word": "杨幂漂发了",
+        "onboard_time": 1676802091,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 984007,
+        "num": 643252,
+        "word": "每日新增阳性5000例以上",
+        "onboard_time": 1676789727,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597388,
+        "num": 597388,
+        "word": "梅西刮胡子了",
+        "onboard_time": 1676806350,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 587556,
+        "num": 587556,
+        "word": "独生子女能否全部继承父母遗产",
+        "onboard_time": 1676807790,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566800,
+        "num": 566800,
+        "word": "阿娇哭得好美",
+        "onboard_time": 1676808810,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478289,
+        "num": 478289,
+        "word": "TES战胜EDG",
+        "onboard_time": 1676816194,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 462864,
+        "num": 462864,
+        "word": "打败竹马的还得是竹马",
+        "onboard_time": 1676815472,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422442,
+        "num": 422442,
+        "word": "王一博无名破9亿剧照",
+        "onboard_time": 1676812295,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419195,
+        "num": 419195,
+        "word": "檀健次 烽火流金配音",
+        "onboard_time": 1676814092,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396856,
+        "num": 396856,
+        "word": "Wendy哭了",
+        "onboard_time": 1676803770,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379035,
+        "num": 379035,
+        "word": "邓超 俞白眉",
+        "onboard_time": 1676810731,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363505,
+        "num": 363505,
+        "word": "剧版三体最初是保密项目",
+        "onboard_time": 1676813670,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334245,
+        "num": 334245,
+        "word": "白惠承认隐孕入职",
+        "onboard_time": 1676808030,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320995,
+        "num": 320995,
+        "word": "夏花",
+        "onboard_time": 1676814092,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320033,
+        "num": 320033,
+        "word": "肖战谈直通赛首设混双项目",
+        "onboard_time": 1676811389,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316857,
+        "num": 316857,
+        "word": "教育部门要求对陈某某进行调查",
+        "onboard_time": 1676800111,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 311561,
+        "num": 311561,
+        "word": "女子应聘助理被要求和经理同生活",
+        "onboard_time": 1676803531,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295665,
+        "num": 295665,
+        "word": "显微镜下的大明",
+        "onboard_time": 1676814512,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279211,
+        "num": 279211,
+        "word": "庐江中学称不会处理抢话筒学生",
+        "onboard_time": 1676800289,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 276801,
+        "num": 276801,
+        "word": "社会我玲姐 衣服越粉打人越狠",
+        "onboard_time": 1676808455,
+        "rank": 30,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 227483,
+        "num": 227483,
+        "word": "莎头",
+        "onboard_time": 1676811872,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217794,
+        "num": 217794,
+        "word": "光渊 刺挠",
+        "onboard_time": 1676804852,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212732,
+        "num": 212732,
+        "word": "94岁老人疑遭护工推倒撞地去世",
+        "onboard_time": 1676816614,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 210712,
+        "num": 210712,
+        "word": "薛飞张瑞3比0王楚钦孙颖莎",
+        "onboard_time": 1676814391,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205388,
+        "num": 205388,
+        "word": "宋亚轩拥抱式哄刘耀文",
+        "onboard_time": 1676810490,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197655,
+        "num": 197655,
+        "word": "高叶再次感谢陈书婷",
+        "onboard_time": 1676806350,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197633,
+        "num": 197633,
+        "word": "新增确诊病例主要是没阳过的",
+        "onboard_time": 1676792968,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197172,
+        "num": 197172,
+        "word": "张萌谈宁至谦阮流筝的爱情",
+        "onboard_time": 1676813670,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188928,
+        "num": 188928,
+        "word": "77H三连暴走",
+        "onboard_time": 1676816913,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183183,
+        "num": 183183,
+        "word": "丁程鑫贺峻霖再跳psycho",
+        "onboard_time": 1676810981,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173828,
+        "num": 173828,
+        "word": "金毛被撞趴地吐血女子救助收养",
+        "onboard_time": 1676797228,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170964,
+        "num": 170964,
+        "word": "田亮是懂惊喜的",
+        "onboard_time": 1676816552,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167210,
+        "num": 167210,
+        "word": "AG对战TTG",
+        "onboard_time": 1676813731,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159094,
+        "num": 159094,
+        "word": "曼联vs莱斯特城",
+        "onboard_time": 1676817152,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159024,
+        "num": 159024,
+        "word": "学生曝食堂勾芡严重菜稀成面条卤子",
+        "onboard_time": 1676790148,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154912,
+        "num": 154912,
+        "word": "全智贤机场风衣穿搭",
+        "onboard_time": 1676799148,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153695,
+        "num": 153695,
+        "word": "姆巴佩梅开二度",
+        "onboard_time": 1676817152,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150276,
+        "num": 150276,
+        "word": "EDG对战TES",
+        "onboard_time": 1676808690,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149208,
+        "num": 149208,
+        "word": "樊振东王曼昱晋级混双半决赛",
+        "onboard_time": 1676813552,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#藏在节气里的中国传统色#"
+    }
+  }
+}

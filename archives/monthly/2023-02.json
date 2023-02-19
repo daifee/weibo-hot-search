@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676816184088,
+  "endTime": 1676817215271,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -2323,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1736464,
+      "num": 1736464,
+      "word": "梅西任意球绝杀",
+      "onboard_time": 1676816194,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1736359,
       "num": 1736359,
       "word": "杯具熊 王一博的一件小事",
@@ -3235,6 +3243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1433928,
+      "num": 714614,
+      "word": "luna评论宋茜姐姐依旧还是那么美",
+      "onboard_time": 1676815172,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1433345,
       "num": 1433345,
       "word": "深渊 空降",
@@ -3345,6 +3361,14 @@
       "onboard_time": 1675524152,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1405640,
+      "num": 1405640,
+      "word": "男子为落户北京让妻子跟别人假结婚",
+      "onboard_time": 1676815113,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1403922,
@@ -4145,14 +4169,6 @@
       "onboard_time": 1676367395,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1234127,
-      "num": 689247,
-      "word": "luna评论宋茜姐姐依旧还是那么美",
-      "onboard_time": 1676815172,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1232329,
@@ -9763,6 +9779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 725399,
+      "num": 725399,
+      "word": "言承旭 满40减20",
+      "onboard_time": 1676814512,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 725258,
       "num": 725258,
       "word": "2023年中央一号文件",
@@ -10513,14 +10537,6 @@
       "onboard_time": 1676781927,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 693949,
-      "num": 693949,
-      "word": "言承旭 满40减20",
-      "onboard_time": 1676814512,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 693646,
@@ -11369,14 +11385,6 @@
       "onboard_time": 1676348621,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 651708,
-      "num": 651708,
-      "word": "男子为落户北京让妻子跟别人假结婚",
-      "onboard_time": 1676815113,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 651499,
@@ -16379,6 +16387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 478289,
+      "num": 478289,
+      "word": "TES战胜EDG",
+      "onboard_time": 1676816194,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 478273,
       "num": 478273,
       "word": "男朋友送的花有多直男审美",
@@ -16905,6 +16921,14 @@
       "onboard_time": 1675767510,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 462864,
+      "num": 462864,
+      "word": "打败竹马的还得是竹马",
+      "onboard_time": 1676815472,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 462820,
@@ -24667,14 +24691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 304823,
-      "num": 304823,
-      "word": "打败竹马的还得是竹马",
-      "onboard_time": 1676815472,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 304818,
       "num": 304818,
       "word": "刘敏涛说安欣的幸福由她来决定",
@@ -32147,6 +32163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212732,
+      "num": 212732,
+      "word": "94岁老人疑遭护工推倒撞地去世",
+      "onboard_time": 1676816614,
+      "rank": 33,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 212686,
       "num": 224991,
       "word": "检方提前介入男子割喉妻子案",
@@ -34667,6 +34691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188928,
+      "num": 188928,
+      "word": "77H三连暴走",
+      "onboard_time": 1676816913,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188861,
       "num": 188861,
       "word": "张若昀魏晨极限拉扯",
@@ -37059,6 +37091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170964,
+      "num": 170964,
+      "word": "田亮是懂惊喜的",
+      "onboard_time": 1676816552,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170953,
       "num": 170953,
       "word": "薄可透光狗嘴一张",
@@ -38435,6 +38475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159094,
+      "num": 159094,
+      "word": "曼联vs莱斯特城",
+      "onboard_time": 1676817152,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159058,
       "num": 159058,
       "word": "Aster被控诉拖欠工资",
@@ -38881,6 +38929,14 @@
       "onboard_time": 1676270272,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153695,
+      "num": 153695,
+      "word": "姆巴佩梅开二度",
+      "onboard_time": 1676817152,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 153597,
@@ -39692,7 +39748,7 @@
     },
     {
       "raw_hot": 142935,
-      "num": 1288911,
+      "num": 1558261,
       "word": "跨国企业在中国",
       "onboard_time": 1676801253,
       "rank": 2,
