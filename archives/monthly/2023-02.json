@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676770951857,
+  "endTime": 1676772218050,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -3828,7 +3828,7 @@
     },
     {
       "raw_hot": 1256622,
-      "num": 205382,
+      "num": 226078,
       "word": "泰剧床伴",
       "onboard_time": 1676763320,
       "rank": 30,
@@ -4467,6 +4467,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1160768,
+      "num": 590870,
+      "word": "中方将发布政治解决乌克兰危机的中国立场",
+      "onboard_time": 1676769809,
+      "rank": 31,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1160718,
       "num": 1160718,
       "word": "中国首批缉毒松鼠即将上岗",
@@ -5075,6 +5083,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1087041,
+      "num": 1087041,
+      "word": "军队文职",
+      "onboard_time": 1676768488,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1086072,
       "num": 1086072,
       "word": "唐嫣终于进组拍戏了",
@@ -5209,6 +5225,14 @@
       "onboard_time": 1676681249,
       "rank": 4,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1070414,
+      "num": 1070414,
+      "word": "婚检应该自愿还是强制",
+      "onboard_time": 1676767285,
+      "rank": 4,
+      "category": "社会议题"
     },
     {
       "raw_hot": 1069189,
@@ -5761,14 +5785,6 @@
       "onboard_time": 1675991437,
       "rank": 5,
       "category": "国外要闻,旅游"
-    },
-    {
-      "raw_hot": 1000397,
-      "num": 1000397,
-      "word": "婚检应该自愿还是强制",
-      "onboard_time": 1676767285,
-      "rank": 4,
-      "category": "社会议题"
     },
     {
       "raw_hot": 998039,
@@ -6705,14 +6721,6 @@
       "onboard_time": 1675219949,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 907563,
-      "num": 907563,
-      "word": "军队文职",
-      "onboard_time": 1676768488,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 907365,
@@ -8859,6 +8867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 747739,
+      "num": 582937,
+      "word": "杨迪晒照为黄明昊庆生",
+      "onboard_time": 1676771066,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 745736,
       "num": 520899,
       "word": "刘德华腹肌照",
@@ -10297,14 +10313,6 @@
       "onboard_time": 1676038774,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 682307,
-      "num": 205294,
-      "word": "中方将发布政治解决乌克兰危机的中国立场",
-      "onboard_time": 1676769809,
-      "rank": 31,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 682190,
@@ -13345,6 +13353,14 @@
       "onboard_time": 1675489647,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 551625,
+      "num": 551625,
+      "word": "夏花删减",
+      "onboard_time": 1676769747,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 551325,
@@ -18955,6 +18971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 397969,
+      "num": 397969,
+      "word": "言承旭腹肌",
+      "onboard_time": 1676763741,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 397934,
       "num": 397934,
       "word": "澳门明代已经在接外贸单了",
@@ -20779,6 +20803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 358004,
+      "num": 358004,
+      "word": "中国男篮世预赛16人大名单",
+      "onboard_time": 1676770106,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357982,
       "num": 357982,
       "word": "曝苹果所用USBC接口已加密",
@@ -20969,14 +21001,6 @@
       "onboard_time": 1675858470,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 353845,
-      "num": 353845,
-      "word": "言承旭腹肌",
-      "onboard_time": 1676763741,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 353823,
@@ -21377,6 +21401,14 @@
       "onboard_time": 1675425448,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 345492,
+      "num": 345492,
+      "word": "现在的大学生开学",
+      "onboard_time": 1676752572,
+      "rank": 16,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 345406,
@@ -21881,14 +21913,6 @@
       "onboard_time": 1675868620,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 336705,
-      "num": 336705,
-      "word": "现在的大学生开学",
-      "onboard_time": 1676752572,
-      "rank": 16,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 336524,
@@ -24104,6 +24128,14 @@
       "word": "开心麻花发文纪念夏洛特烦恼10周年",
       "onboard_time": 1675406008,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 299341,
+      "num": 299341,
+      "word": "跪求夏花500T",
+      "onboard_time": 1676768848,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -26827,14 +26859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263402,
-      "num": 263402,
-      "word": "跪求夏花500T",
-      "onboard_time": 1676768848,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 263342,
       "num": 263342,
       "word": "华晨宇白举纲唱逃离地球表面",
@@ -27555,6 +27579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 253738,
+      "num": 253738,
+      "word": "网友连线张大大问aespa什么时候回归",
+      "onboard_time": 1676769507,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253644,
       "num": 253644,
       "word": "秦岚打卡澳门的历史城区",
@@ -27585,14 +27617,6 @@
       "onboard_time": 1675518630,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252998,
-      "num": 252998,
-      "word": "中国男篮世预赛16人大名单",
-      "onboard_time": 1676770106,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 252997,
@@ -27649,6 +27673,14 @@
       "onboard_time": 1675918292,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251899,
+      "num": 251899,
+      "word": "多地21日起可查考研初试成绩",
+      "onboard_time": 1676769146,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 251891,
@@ -28081,6 +28113,14 @@
       "onboard_time": 1676110766,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246895,
+      "num": 246895,
+      "word": "夏花 上头",
+      "onboard_time": 1676771668,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 246538,
@@ -29859,6 +29899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224474,
+      "num": 224474,
+      "word": "侯明昊说我的心在她那",
+      "onboard_time": 1676770647,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224406,
       "num": 224406,
       "word": "主人护食比小猫还可怕",
@@ -30121,14 +30169,6 @@
       "onboard_time": 1676475032,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 221601,
-      "num": 221601,
-      "word": "网友连线张大大问aespa什么时候回归",
-      "onboard_time": 1676769507,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 221506,
@@ -31491,14 +31531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 204484,
-      "num": 204484,
-      "word": "侯明昊说我的心在她那",
-      "onboard_time": 1676770647,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204479,
       "num": 204479,
       "word": "无名延长上映",
@@ -31889,6 +31921,14 @@
       "onboard_time": 1676372497,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200417,
+      "num": 200417,
+      "word": "马斯克称OpenAI违背创办初心",
+      "onboard_time": 1676770291,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 200347,
@@ -32323,14 +32363,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 196847,
-      "num": 196847,
-      "word": "夏花删减",
-      "onboard_time": 1676769747,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 196526,
       "num": 196526,
       "word": "无畏情人节心动大片",
@@ -32692,7 +32724,7 @@
     },
     {
       "raw_hot": 193261,
-      "num": 183880,
+      "num": 187983,
       "word": "夏花小说",
       "onboard_time": 1676768787,
       "rank": 35,
@@ -33001,6 +33033,14 @@
       "onboard_time": 1676196151,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191134,
+      "num": 191134,
+      "word": "深圳马拉松",
+      "onboard_time": 1676771370,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 191066,
@@ -34051,14 +34091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183979,
-      "num": 183979,
-      "word": "多地21日起可查考研初试成绩",
-      "onboard_time": 1676769146,
-      "rank": 34,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 183978,
       "num": 183978,
       "word": "高启强为何让人恨不起来",
@@ -34089,6 +34121,14 @@
       "onboard_time": 1676708666,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 183733,
+      "num": 183733,
+      "word": "准备好拥抱春天了吗",
+      "onboard_time": 1676771727,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 183689,
@@ -35675,6 +35715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170466,
+      "num": 158473,
+      "word": "雨水和茶的适配度有多绝",
+      "onboard_time": 1676771127,
+      "rank": 45,
+      "category": "情感,美食"
+    },
+    {
       "raw_hot": 170434,
       "num": 170434,
       "word": "胡夏北京之雪唱哭何炅孙悦",
@@ -36067,14 +36115,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 167218,
-      "num": 167218,
-      "word": "马斯克称OpenAI违背创办初心",
-      "onboard_time": 1676770291,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 167209,
       "num": 167209,
       "word": "黄龄声音",
@@ -36217,6 +36257,14 @@
       "onboard_time": 1675406846,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166225,
+      "num": 166225,
+      "word": "深圳马拉松鸣枪起跑",
+      "onboard_time": 1676770827,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 166165,
@@ -37033,6 +37081,14 @@
       "onboard_time": 1675526788,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158484,
+      "num": 158484,
+      "word": "仪仗队退伍女兵踢正步太飒了",
+      "onboard_time": 1676771486,
+      "rank": 44,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 158401,
@@ -38795,12 +38851,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135206,
-      "num": 135206,
-      "word": "深圳马拉松鸣枪起跑",
-      "onboard_time": 1676770827,
-      "rank": 48,
-      "category": "体育,社会新闻"
+      "raw_hot": 135005,
+      "num": 135005,
+      "word": "王毅应邀同布林肯进行非正式接触",
+      "onboard_time": 1676772148,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 134958,
