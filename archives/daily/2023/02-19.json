@@ -1,6 +1,6 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676795829168,
+  "endTime": 1676798257498,
   "band_list": [
     {
       "raw_hot": 4088228,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1164957,
+      "num": 1164957,
+      "word": "合肥宣扬功利性内容教授已停课",
+      "onboard_time": 1676794170,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1160768,
       "num": 1082374,
       "word": "中方将发布政治解决乌克兰危机的中国立场",
@@ -267,6 +275,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 971773,
+      "num": 971773,
+      "word": "let me do it for you",
+      "onboard_time": 1676793808,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 966073,
       "num": 966073,
       "word": "郭晓婷的交友尺度",
@@ -299,8 +315,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 854733,
-      "num": 854733,
+      "raw_hot": 857909,
+      "num": 857909,
       "word": "新增确诊病例主要是没阳过的",
       "onboard_time": 1676792968,
       "rank": 6,
@@ -403,6 +419,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 698575,
+      "num": 695046,
+      "word": "黄多多双语视频",
+      "onboard_time": 1676794408,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 695154,
+      "num": 695154,
+      "word": "非婚生育将面临哪些困境",
+      "onboard_time": 1676792789,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694026,
       "num": 694026,
       "word": "丈夫否认网传产妇月子没过就跳河",
@@ -417,6 +449,14 @@
       "onboard_time": 1676722950,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 655850,
+      "num": 655850,
+      "word": "肖战wetv2022最佳男主角",
+      "onboard_time": 1676795849,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 645492,
@@ -475,14 +515,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 583441,
-      "num": 583441,
-      "word": "非婚生育将面临哪些困境",
-      "onboard_time": 1676792789,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 581270,
       "num": 581270,
       "word": "麦克朗扣篮大赛满分",
@@ -497,6 +529,14 @@
       "onboard_time": 1676728592,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 557576,
+      "num": 557576,
+      "word": "中国16岁女孩获网球世界冠军",
+      "onboard_time": 1676795249,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 551625,
@@ -521,6 +561,14 @@
       "onboard_time": 1676788708,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 531959,
+      "num": 531959,
+      "word": "宁艺卓实力",
+      "onboard_time": 1676795129,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 529183,
@@ -571,14 +619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 474528,
-      "num": 474528,
-      "word": "宁艺卓实力",
-      "onboard_time": 1676795129,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 467789,
       "num": 467789,
       "word": "梁朝伟王一博无名走廊打戏花絮",
@@ -619,36 +659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 443739,
-      "num": 443739,
-      "word": "let me do it for you",
-      "onboard_time": 1676793808,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 422597,
-      "num": 422597,
-      "word": "黄多多双语视频",
-      "onboard_time": 1676794408,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 412243,
       "num": 412243,
       "word": "战歌级韩剧OST",
       "onboard_time": 1676791408,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 409379,
-      "num": 409379,
-      "word": "合肥宣扬功利性内容教授已停课",
-      "onboard_time": 1676794170,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 403507,
@@ -747,12 +763,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371232,
+      "num": 371232,
+      "word": "讲座名师遭高中生抢话筒",
+      "onboard_time": 1676795789,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 366296,
       "num": 366296,
       "word": "王鹤棣收工后的篮球vlog",
       "onboard_time": 1676787327,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 360609,
+      "num": 360609,
+      "word": "陈宏友回应讲座引不满被高中生反呛",
+      "onboard_time": 1676793090,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 358359,
@@ -769,14 +801,6 @@
       "onboard_time": 1676770106,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 355261,
-      "num": 355261,
-      "word": "陈宏友回应讲座引不满被高中生反呛",
-      "onboard_time": 1676793090,
-      "rank": 19,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 350085,
@@ -807,6 +831,14 @@
       "num": 336402,
       "word": "男子称买200元螃蟹皮套得占70元",
       "onboard_time": 1676740582,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330716,
+      "num": 330716,
+      "word": "金毛被撞趴地吐血女子救助收养",
+      "onboard_time": 1676797228,
       "rank": 20,
       "category": "社会新闻"
     },
@@ -995,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 263729,
+      "num": 263729,
+      "word": "LNG对战FPX",
+      "onboard_time": 1676797890,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262390,
       "num": 262390,
       "word": "雨水",
@@ -1075,6 +1115,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 241538,
+      "num": 241538,
+      "word": "陈宏友",
+      "onboard_time": 1676796508,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 240775,
       "num": 240775,
       "word": "黄明昊演唱会",
@@ -1131,6 +1179,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 227070,
+      "num": 227070,
+      "word": "德国小伙时隔三年回家父母的反应",
+      "onboard_time": 1676796810,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224474,
       "num": 224474,
       "word": "侯明昊说我的心在她那",
@@ -1161,14 +1217,6 @@
       "onboard_time": 1676784746,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206246,
-      "num": 206246,
-      "word": "中国16岁女孩获网球世界冠军",
-      "onboard_time": 1676795249,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 206218,
@@ -1275,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185008,
+      "num": 185008,
+      "word": "刘畊宏vivi鼓励大家多亲吻",
+      "onboard_time": 1676797590,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184383,
       "num": 184383,
       "word": "于正说张楠得三月底进组",
@@ -1363,6 +1419,14 @@
       "category": "动漫,网红"
     },
     {
+      "raw_hot": 167404,
+      "num": 167404,
+      "word": "官方通报高校教师到中学演讲内容不当",
+      "onboard_time": 1676798129,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 166225,
       "num": 166225,
       "word": "深圳马拉松鸣枪起跑",
@@ -1449,6 +1513,14 @@
       "onboard_time": 1676762598,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154501,
+      "num": 154501,
+      "word": "你闻起来有中国的味道了",
+      "onboard_time": 1676797779,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152986,
@@ -1547,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135959,
+      "num": 135959,
+      "word": "4步教你快速辨认撞脸春花",
+      "onboard_time": 1676797228,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135005,
       "num": 135005,
       "word": "王毅应邀同布林肯进行非正式接触",
@@ -1575,6 +1655,14 @@
       "num": 131231,
       "word": "阮流筝提分手",
       "onboard_time": 1676718630,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 129369,
+      "num": 129369,
+      "word": "黄奕第一次演姐弟恋",
+      "onboard_time": 1676797050,
       "rank": 44,
       "category": "影视"
     },
@@ -1627,6 +1715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121223,
+      "num": 121223,
+      "word": "萨顶顶客串搞笑女",
+      "onboard_time": 1676798252,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 116803,
       "num": 111868,
       "word": "导演赵晓磊回应台词争议",
@@ -1641,14 +1737,6 @@
       "onboard_time": 1676728052,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111474,
-      "num": 111474,
-      "word": "讲座名师遭高中生抢话筒",
-      "onboard_time": 1676795789,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 108988,
