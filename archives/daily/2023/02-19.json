@@ -1,6 +1,6 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676799230704,
+  "endTime": 1676801958157,
   "band_list": [
     {
       "raw_hot": 4088228,
@@ -9,6 +9,14 @@
       "onboard_time": 1676789727,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3161543,
+      "num": 3161543,
+      "word": "集美大学",
+      "onboard_time": 1676799632,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 2892365,
@@ -129,6 +137,14 @@
       "onboard_time": 1676772746,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1284608,
+      "num": 1284608,
+      "word": "官方通报高校教师到中学演讲内容不当",
+      "onboard_time": 1676798129,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1264938,
@@ -403,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 731290,
+      "num": 731290,
+      "word": "金毛被撞趴地吐血女子救助收养",
+      "onboard_time": 1676797228,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727742,
       "num": 695046,
       "word": "黄多多双语视频",
@@ -449,14 +473,6 @@
       "onboard_time": 1676722950,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 667634,
-      "num": 667634,
-      "word": "官方通报高校教师到中学演讲内容不当",
-      "onboard_time": 1676798129,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 655850,
@@ -539,12 +555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 566960,
-      "num": 566960,
-      "word": "金毛被撞趴地吐血女子救助收养",
-      "onboard_time": 1676797228,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 565179,
+      "num": 565179,
+      "word": "刘畊宏vivi鼓励大家多亲吻",
+      "onboard_time": 1676797590,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 562227,
+      "num": 562227,
+      "word": "庐江中学称不会处理抢话筒学生",
+      "onboard_time": 1676800289,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 560732,
@@ -555,12 +579,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 554666,
+      "num": 554666,
+      "word": "教育部门要求对陈某某进行调查",
+      "onboard_time": 1676800111,
+      "rank": 12,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 551625,
       "num": 551625,
       "word": "夏花删减",
       "onboard_time": 1676769747,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 551014,
+      "num": 551014,
+      "word": "全智贤机场风衣穿搭",
+      "onboard_time": 1676799148,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 549410,
@@ -577,6 +617,14 @@
       "onboard_time": 1676788708,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 540566,
+      "num": 540566,
+      "word": "如懿传剧组最新合照",
+      "onboard_time": 1676799208,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 531959,
@@ -617,6 +665,14 @@
       "onboard_time": 1676781451,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499912,
+      "num": 499912,
+      "word": "张新成演技",
+      "onboard_time": 1676799748,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 478705,
@@ -763,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379017,
+      "num": 379017,
+      "word": "陈宏友回应讲座引不满被高中生反呛",
+      "onboard_time": 1676793090,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 378291,
       "num": 378291,
       "word": "王智再晒网友手绘的韩朵朵漫画",
@@ -793,14 +857,6 @@
       "onboard_time": 1676787327,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 362827,
-      "num": 362827,
-      "word": "陈宏友回应讲座引不满被高中生反呛",
-      "onboard_time": 1676793090,
-      "rank": 19,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 358359,
@@ -867,12 +923,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 323723,
-      "num": 323723,
-      "word": "刘畊宏vivi鼓励大家多亲吻",
-      "onboard_time": 1676797590,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 322993,
+      "num": 322993,
+      "word": "广东选调",
+      "onboard_time": 1676800830,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 319817,
@@ -995,6 +1051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 282318,
+      "num": 282318,
+      "word": "陈宏友",
+      "onboard_time": 1676796508,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 274127,
       "num": 274127,
       "word": "星落凝成糖制片人手滑点赞重紫微博",
@@ -1067,6 +1131,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256206,
+      "num": 256206,
+      "word": "德国小伙时隔三年回家父母的反应",
+      "onboard_time": 1676796810,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254069,
+      "num": 254069,
+      "word": "小夫妻飞奔救人后手挽手离开",
+      "onboard_time": 1676799689,
+      "rank": 28,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 253738,
       "num": 253738,
       "word": "网友连线张大大问aespa什么时候回归",
@@ -1089,14 +1169,6 @@
       "onboard_time": 1676731112,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 248180,
-      "num": 248180,
-      "word": "德国小伙时隔三年回家父母的反应",
-      "onboard_time": 1676796810,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248017,
@@ -1137,14 +1209,6 @@
       "onboard_time": 1676775930,
       "rank": 35,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 241538,
-      "num": 241538,
-      "word": "陈宏友",
-      "onboard_time": 1676796508,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 240775,
@@ -1219,20 +1283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218786,
+      "num": 218786,
+      "word": "你闻起来有中国的味道了",
+      "onboard_time": 1676797779,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216608,
       "num": 216608,
       "word": "檀健次发型可以乱游戏不能输",
       "onboard_time": 1676773289,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211178,
-      "num": 211178,
-      "word": "如懿传剧组最新合照",
-      "onboard_time": 1676799208,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 210206,
@@ -1297,14 +1361,6 @@
       "onboard_time": 1676722168,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 193714,
-      "num": 193714,
-      "word": "你闻起来有中国的味道了",
-      "onboard_time": 1676797779,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193261,
@@ -1409,6 +1465,14 @@
       "onboard_time": 1676730694,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179209,
+      "num": 179209,
+      "word": "若美方执意扩大事态中方必将奉陪到底",
+      "onboard_time": 1676800830,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 179043,
@@ -1531,14 +1595,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 155824,
-      "num": 155824,
-      "word": "全智贤机场风衣穿搭",
-      "onboard_time": 1676799148,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 155755,
       "num": 155755,
       "word": "雪花东方宏be了",
@@ -1648,6 +1704,14 @@
       "word": "WB对战WE",
       "onboard_time": 1676792851,
       "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 140250,
+      "num": 140250,
+      "word": "Faker中单安妮",
+      "onboard_time": 1676801612,
+      "rank": 41,
       "category": "游戏"
     },
     {
@@ -1803,12 +1867,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97419,
+      "num": 1075035,
+      "word": "跨国企业在中国",
+      "onboard_time": 1676801253,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95294,
       "num": 95294,
       "word": "阿斯顿维拉2比4阿森纳",
       "onboard_time": 1676731352,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94379,
+      "num": 94379,
+      "word": "言承旭徐若晗夏花花絮",
+      "onboard_time": 1676801850,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 93855,

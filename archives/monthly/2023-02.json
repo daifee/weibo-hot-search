@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676799230704,
+  "endTime": 1676801958157,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -409,6 +409,14 @@
       "onboard_time": 1675307681,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3161543,
+      "num": 3161543,
+      "word": "集美大学",
+      "onboard_time": 1676799632,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 3153177,
@@ -3785,6 +3793,14 @@
       "onboard_time": 1676098107,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1284608,
+      "num": 1284608,
+      "word": "官方通报高校教师到中学演讲内容不当",
+      "onboard_time": 1676798129,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1284222,
@@ -9507,6 +9523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 731290,
+      "num": 731290,
+      "word": "金毛被撞趴地吐血女子救助收养",
+      "onboard_time": 1676797228,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 731023,
       "num": 731023,
       "word": "刘亦菲分享第一次插花plog",
@@ -10881,14 +10905,6 @@
       "onboard_time": 1676475510,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 667634,
-      "num": 667634,
-      "word": "官方通报高校教师到中学演讲内容不当",
-      "onboard_time": 1676798129,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 667521,
@@ -13251,14 +13267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 566960,
-      "num": 566960,
-      "word": "金毛被撞趴地吐血女子救助收养",
-      "onboard_time": 1676797228,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 566796,
       "num": 566796,
       "word": "男子吸烟40年肺里长出大气球",
@@ -13289,6 +13297,14 @@
       "onboard_time": 1676380475,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 565179,
+      "num": 565179,
+      "word": "刘畊宏vivi鼓励大家多亲吻",
+      "onboard_time": 1676797590,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 564951,
@@ -13393,6 +13409,14 @@
       "onboard_time": 1675485326,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 562227,
+      "num": 562227,
+      "word": "庐江中学称不会处理抢话筒学生",
+      "onboard_time": 1676800289,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 561869,
@@ -13619,6 +13643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 554666,
+      "num": 554666,
+      "word": "教育部门要求对陈某某进行调查",
+      "onboard_time": 1676800111,
+      "rank": 12,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 554650,
       "num": 554650,
       "word": "果然男演员都逃不过女装",
@@ -13737,6 +13769,14 @@
       "onboard_time": 1676420191,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 551014,
+      "num": 551014,
+      "word": "全智贤机场风衣穿搭",
+      "onboard_time": 1676799148,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 550559,
@@ -14073,6 +14113,14 @@
       "onboard_time": 1676706687,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 540566,
+      "num": 540566,
+      "word": "如懿传剧组最新合照",
+      "onboard_time": 1676799208,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 540335,
@@ -15409,6 +15457,14 @@
       "onboard_time": 1675309356,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499912,
+      "num": 499912,
+      "word": "张新成演技",
+      "onboard_time": 1676799748,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 499667,
@@ -20347,6 +20403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 379017,
+      "num": 379017,
+      "word": "陈宏友回应讲座引不满被高中生反呛",
+      "onboard_time": 1676793090,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 378792,
       "num": 378792,
       "word": "妈妈终于认可了这个衣柜",
@@ -21113,14 +21177,6 @@
       "onboard_time": 1676646812,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 362827,
-      "num": 362827,
-      "word": "陈宏友回应讲座引不满被高中生反呛",
-      "onboard_time": 1676793090,
-      "rank": 19,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 362610,
@@ -23139,14 +23195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 323723,
-      "num": 323723,
-      "word": "刘畊宏vivi鼓励大家多亲吻",
-      "onboard_time": 1676797590,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 323529,
       "num": 323529,
       "word": "文韬极速心算",
@@ -23185,6 +23233,14 @@
       "onboard_time": 1675774529,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322993,
+      "num": 322993,
+      "word": "广东选调",
+      "onboard_time": 1676800830,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 322425,
@@ -25955,6 +26011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282318,
+      "num": 282318,
+      "word": "陈宏友",
+      "onboard_time": 1676796508,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 281944,
       "num": 281944,
       "word": "男子疑因小区乱停车情绪崩溃",
@@ -28115,6 +28179,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 256206,
+      "num": 256206,
+      "word": "德国小伙时隔三年回家父母的反应",
+      "onboard_time": 1676796810,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255984,
       "num": 255984,
       "word": "被一万四千公里的求婚整破防了",
@@ -28265,6 +28337,14 @@
       "onboard_time": 1676711250,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 254069,
+      "num": 254069,
+      "word": "小夫妻飞奔救人后手挽手离开",
+      "onboard_time": 1676799689,
+      "rank": 28,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 253738,
@@ -28665,14 +28745,6 @@
       "onboard_time": 1675699285,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 248180,
-      "num": 248180,
-      "word": "德国小伙时隔三年回家父母的反应",
-      "onboard_time": 1676796810,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248099,
@@ -29304,14 +29376,6 @@
       "word": "多地学校推出开学过渡套餐",
       "onboard_time": 1676129493,
       "rank": 47,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 241538,
-      "num": 241538,
-      "word": "陈宏友",
-      "onboard_time": 1676796508,
-      "rank": 29,
       "category": "教育,社会新闻"
     },
     {
@@ -31163,6 +31227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218786,
+      "num": 218786,
+      "word": "你闻起来有中国的味道了",
+      "onboard_time": 1676797779,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218722,
       "num": 218722,
       "word": "蚁人3票房破5000万",
@@ -31784,14 +31856,6 @@
       "word": "成毅吹笛子",
       "onboard_time": 1675667126,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 211178,
-      "num": 211178,
-      "word": "如懿传剧组最新合照",
-      "onboard_time": 1676799208,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -33465,14 +33529,6 @@
       "onboard_time": 1676267819,
       "rank": 34,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 193714,
-      "num": 193714,
-      "word": "你闻起来有中国的味道了",
-      "onboard_time": 1676797779,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193673,
@@ -35489,6 +35545,14 @@
       "onboard_time": 1676626293,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179209,
+      "num": 179209,
+      "word": "若美方执意扩大事态中方必将奉陪到底",
+      "onboard_time": 1676800830,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 179183,
@@ -38203,14 +38267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155824,
-      "num": 155824,
-      "word": "全智贤机场风衣穿搭",
-      "onboard_time": 1676799148,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 155692,
       "num": 155692,
       "word": "城市女性比农村女性更易得乳腺癌",
@@ -39385,6 +39441,14 @@
       "onboard_time": 1675217247,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140250,
+      "num": 140250,
+      "word": "Faker中单安妮",
+      "onboard_time": 1676801612,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 140156,
@@ -41347,6 +41411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 97419,
+      "num": 1075035,
+      "word": "跨国企业在中国",
+      "onboard_time": 1676801253,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97096,
       "num": 97096,
       "word": "如何走出分手的痛苦",
@@ -41385,6 +41457,14 @@
       "onboard_time": 1675726041,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94379,
+      "num": 94379,
+      "word": "言承旭徐若晗夏花花絮",
+      "onboard_time": 1676801850,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 93855,
