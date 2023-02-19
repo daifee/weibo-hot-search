@@ -1,6 +1,6 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676819897459,
+  "endTime": 1676820819557,
   "band_list": [
     {
       "raw_hot": 4088228,
@@ -467,6 +467,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 837547,
+      "num": 837547,
+      "word": "狂飙里的小黄瑶拿了篮球联赛冠军",
+      "onboard_time": 1676818295,
+      "rank": 14,
+      "category": "体育,影视"
+    },
+    {
       "raw_hot": 822412,
       "num": 706084,
       "word": "肖战雨水营业照",
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 759345,
-      "num": 540804,
+      "num": 587865,
       "word": "杨幂对郭采洁说姐生日快乐爱你",
       "onboard_time": 1676817872,
       "rank": 13,
@@ -569,14 +577,6 @@
       "onboard_time": 1676771066,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 743467,
-      "num": 519433,
-      "word": "狂飙里的小黄瑶拿了篮球联赛冠军",
-      "onboard_time": 1676818295,
-      "rank": 14,
-      "category": "体育,影视"
     },
     {
       "raw_hot": 733349,
@@ -651,20 +651,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 688489,
+      "num": 688489,
+      "word": "94岁老人疑遭护工推倒撞地去世",
+      "onboard_time": 1676816614,
+      "rank": 33,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 677927,
       "num": 677927,
       "word": "闫妮好疯 我好喜欢",
       "onboard_time": 1676722950,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 664437,
-      "num": 664437,
-      "word": "94岁老人疑遭护工推倒撞地去世",
-      "onboard_time": 1676816614,
-      "rank": 33,
-      "category": "社会负面"
     },
     {
       "raw_hot": 655850,
@@ -747,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 595228,
+      "num": 595228,
+      "word": "鹿晗实实在在做公益",
+      "onboard_time": 1676819733,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592358,
       "num": 592358,
       "word": "这票房还没违约金高",
@@ -761,6 +769,14 @@
       "onboard_time": 1676773528,
       "rank": 23,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 586758,
+      "num": 586758,
+      "word": "谁教张新成撩头发的",
+      "onboard_time": 1676819792,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 582962,
@@ -1195,11 +1211,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362812,
-      "num": 362812,
-      "word": "鹿晗实实在在做公益",
-      "onboard_time": 1676819733,
-      "rank": 18,
+      "raw_hot": 363322,
+      "num": 363322,
+      "word": "中国网友偶遇郑敬淏崔秀英",
+      "onboard_time": 1676819852,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1771,14 +1787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 232971,
-      "num": 227084,
-      "word": "谁教张新成撩头发的",
-      "onboard_time": 1676819792,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 232752,
       "num": 232752,
       "word": "新兰",
@@ -1939,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194323,
+      "num": 194323,
+      "word": "在小镇生活的幸福感有多高",
+      "onboard_time": 1676819372,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193261,
       "num": 187983,
       "word": "夏花小说",
@@ -1995,12 +2011,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188676,
-      "num": 188676,
-      "word": "在小镇生活的幸福感有多高",
-      "onboard_time": 1676819372,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 188012,
+      "num": 188012,
+      "word": "巴黎圣日耳曼4比3里尔",
+      "onboard_time": 1676820451,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 187681,
@@ -2225,14 +2241,6 @@
       "onboard_time": 1676771486,
       "rank": 44,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 157034,
-      "num": 157034,
-      "word": "中国网友偶遇郑敬淏崔秀英",
-      "onboard_time": 1676819852,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 155755,
