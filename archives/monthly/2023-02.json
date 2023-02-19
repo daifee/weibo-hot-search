@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676817215271,
+  "endTime": 1676819897459,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -2979,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1498014,
+      "num": 1498014,
+      "word": "男子为落户北京让妻子跟别人假结婚",
+      "onboard_time": 1676815113,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1497413,
       "num": 1497413,
       "word": "Lisa购买75亿韩元住宅",
@@ -3361,14 +3369,6 @@
       "onboard_time": 1675524152,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1405640,
-      "num": 1405640,
-      "word": "男子为落户北京让妻子跟别人假结婚",
-      "onboard_time": 1676815113,
-      "rank": 13,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1403922,
@@ -9091,6 +9091,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 759345,
+      "num": 540804,
+      "word": "杨幂对郭采洁说姐生日快乐爱你",
+      "onboard_time": 1676817872,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 759228,
       "num": 759228,
       "word": "TT战胜WBG",
@@ -9361,6 +9369,14 @@
       "onboard_time": 1676335412,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 743467,
+      "num": 519433,
+      "word": "狂飙里的小黄瑶拿了篮球联赛冠军",
+      "onboard_time": 1676818295,
+      "rank": 14,
+      "category": "体育,影视"
     },
     {
       "raw_hot": 743153,
@@ -11123,6 +11139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 664437,
+      "num": 664437,
+      "word": "94岁老人疑遭护工推倒撞地去世",
+      "onboard_time": 1676816614,
+      "rank": 33,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 664114,
       "num": 586454,
       "word": "女生求职因河南户籍被HR拒面",
@@ -12745,6 +12769,14 @@
       "onboard_time": 1676098046,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592358,
+      "num": 592358,
+      "word": "这票房还没违约金高",
+      "onboard_time": 1676817695,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 592200,
@@ -21475,6 +21507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362812,
+      "num": 362812,
+      "word": "鹿晗实实在在做公益",
+      "onboard_time": 1676819733,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362610,
       "num": 362610,
       "word": "护心滤镜",
@@ -23825,6 +23865,14 @@
       "onboard_time": 1675436671,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318428,
+      "num": 318428,
+      "word": "帅家默终于圆满了",
+      "onboard_time": 1676818113,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 318161,
@@ -27683,6 +27731,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 266692,
+      "num": 266692,
+      "word": "姆巴佩梅开二度",
+      "onboard_time": 1676817152,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266663,
       "num": 244309,
       "word": "高叶回应剧抛脸",
@@ -29251,6 +29307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247264,
+      "num": 247264,
+      "word": "AG辅助",
+      "onboard_time": 1676817454,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246909,
       "num": 246909,
       "word": "高启强同款书籍有多火",
@@ -30401,6 +30465,14 @@
       "onboard_time": 1676201610,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 232971,
+      "num": 227084,
+      "word": "谁教张新成撩头发的",
+      "onboard_time": 1676819792,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 232910,
@@ -32163,14 +32235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212732,
-      "num": 212732,
-      "word": "94岁老人疑遭护工推倒撞地去世",
-      "onboard_time": 1676816614,
-      "rank": 33,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 212686,
       "num": 224991,
       "word": "检方提前介入男子割喉妻子案",
@@ -32801,6 +32865,14 @@
       "onboard_time": 1675907367,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 205044,
+      "num": 205044,
+      "word": "张杰首次出演话剧vlog",
+      "onboard_time": 1676819073,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 204877,
@@ -33435,6 +33507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198752,
+      "num": 198752,
+      "word": "你满意显微镜下的大明大结局吗",
+      "onboard_time": 1676818831,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198723,
       "num": 198723,
       "word": "女子被困废墟25h用卫生纸吸雨水喝",
@@ -33889,6 +33969,14 @@
       "onboard_time": 1675778311,
       "rank": 43,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 194477,
+      "num": 194477,
+      "word": "羽毛球亚团赛中国队夺冠",
+      "onboard_time": 1676818831,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 194417,
@@ -34761,6 +34849,14 @@
       "onboard_time": 1675342535,
       "rank": 48,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 188676,
+      "num": 188676,
+      "word": "在小镇生活的幸福感有多高",
+      "onboard_time": 1676819372,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 188604,
@@ -38659,6 +38755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157034,
+      "num": 157034,
+      "word": "中国网友偶遇郑敬淏崔秀英",
+      "onboard_time": 1676819852,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156960,
       "num": 156960,
       "word": "WB对战eStar",
@@ -38929,14 +39033,6 @@
       "onboard_time": 1676270272,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153695,
-      "num": 153695,
-      "word": "姆巴佩梅开二度",
-      "onboard_time": 1676817152,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 153597,
