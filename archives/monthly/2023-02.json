@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676824920057,
+  "endTime": 1676826958551,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -16835,6 +16835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467371,
+      "num": 260943,
+      "word": "中国台湾联赛大规模冲突",
+      "onboard_time": 1676823087,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 467323,
       "num": 467323,
       "word": "付心童确诊躁郁症提出离婚",
@@ -18865,14 +18873,6 @@
       "onboard_time": 1675674029,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 417617,
-      "num": 181417,
-      "word": "中国台湾联赛大规模冲突",
-      "onboard_time": 1676823087,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 417503,
@@ -24123,6 +24123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315363,
+      "num": 315363,
+      "word": "找工作后才明白的事",
+      "onboard_time": 1676822729,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 315328,
       "num": 315328,
       "word": "田柾国翻唱NewJeans的ditto",
@@ -25113,14 +25121,6 @@
       "onboard_time": 1676530528,
       "rank": 25,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 301037,
-      "num": 301037,
-      "word": "找工作后才明白的事",
-      "onboard_time": 1676822729,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 300891,
@@ -33339,6 +33339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200939,
+      "num": 200939,
+      "word": "金子涵跳了LEFTRIGHT",
+      "onboard_time": 1676825123,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200926,
       "num": 200926,
       "word": "当狗子没把自己当成狗",
@@ -34689,6 +34697,14 @@
       "onboard_time": 1676086829,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189961,
+      "num": 189961,
+      "word": "如何看待合肥教授宣扬功利内容",
+      "onboard_time": 1676826500,
+      "rank": 20,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 189887,
@@ -40267,6 +40283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138751,
+      "num": 138751,
+      "word": "我们穷人的自我修养",
+      "onboard_time": 1676824463,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138687,
       "num": 138687,
       "word": "猫咪的嫌弃都写在脸上了",
@@ -41459,6 +41483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120308,
+      "num": 120308,
+      "word": "饺子怎么也没想到会挨一刀",
+      "onboard_time": 1676825601,
+      "rank": 29,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 120175,
       "num": 120175,
       "word": "三体拍出了北京的科幻感",
@@ -41561,14 +41593,6 @@
       "onboard_time": 1675830213,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117421,
-      "num": 117421,
-      "word": "我们穷人的自我修养",
-      "onboard_time": 1676824463,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 117358,
