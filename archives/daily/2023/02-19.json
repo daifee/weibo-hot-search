@@ -1,6 +1,6 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676811154636,
+  "endTime": 1676812956903,
   "band_list": [
     {
       "raw_hot": 4088228,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2872101,
-      "num": 581932,
+      "num": 646757,
       "word": "杨幂漂发了",
       "onboard_time": 1676802091,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1676776469,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2033219,
+      "num": 2033219,
+      "word": "考研成绩",
+      "onboard_time": 1676809533,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 1975119,
@@ -81,14 +89,6 @@
       "onboard_time": 1676773167,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1814798,
-      "num": 1814798,
-      "word": "考研成绩",
-      "onboard_time": 1676809533,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 1779937,
@@ -129,6 +129,14 @@
       "onboard_time": 1676787987,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1487267,
+      "num": 1487267,
+      "word": "农历二月生的今年能过3次生日",
+      "onboard_time": 1676807487,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1479525,
@@ -177,14 +185,6 @@
       "onboard_time": 1676768063,
       "rank": 1,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1259116,
-      "num": 1259116,
-      "word": "农历二月生的今年能过3次生日",
-      "onboard_time": 1676807487,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 1256622,
@@ -281,6 +281,14 @@
       "onboard_time": 1676779350,
       "rank": 13,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1088444,
+      "num": 1088444,
+      "word": "独生子女能否全部继承父母遗产",
+      "onboard_time": 1676807790,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1087041,
@@ -387,20 +395,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 937299,
+      "num": 937299,
+      "word": "莎头",
+      "onboard_time": 1676811872,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 925319,
       "num": 925319,
       "word": "付辛博 爹系",
       "onboard_time": 1676788826,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 879192,
-      "num": 879192,
-      "word": "独生子女能否全部继承父母遗产",
-      "onboard_time": 1676807790,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 857909,
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779728,
+      "num": 608936,
+      "word": "阿娇哭得好美",
+      "onboard_time": 1676808810,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 775976,
       "num": 775976,
       "word": "粉笔模考",
@@ -507,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 731877,
-      "num": 476398,
-      "word": "阿娇哭得好美",
-      "onboard_time": 1676808810,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 731290,
       "num": 731290,
       "word": "金毛被撞趴地吐血女子救助收养",
@@ -537,6 +545,14 @@
       "onboard_time": 1676794408,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 720386,
+      "num": 720386,
+      "word": "邓超 俞白眉",
+      "onboard_time": 1676810731,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 717616,
@@ -675,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 574378,
+      "num": 574378,
+      "word": "王一博无名破9亿剧照",
+      "onboard_time": 1676812295,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 567627,
       "num": 567627,
       "word": "刘畊宏vivi鼓励大家多亲吻",
@@ -713,6 +737,14 @@
       "onboard_time": 1676768063,
       "rank": 10,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 548860,
+      "num": 548860,
+      "word": "社会我玲姐 衣服越粉打人越狠",
+      "onboard_time": 1676808455,
+      "rank": 46,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 542236,
@@ -1091,12 +1123,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 326340,
+      "num": 326340,
+      "word": "丁程鑫贺峻霖再跳psycho",
+      "onboard_time": 1676810981,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325997,
       "num": 190114,
       "word": "黄明昊21岁生日庆生照",
       "onboard_time": 1676776770,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322363,
+      "num": 322363,
+      "word": "肖战谈直通赛首设混双项目",
+      "onboard_time": 1676811389,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 319817,
@@ -1161,14 +1209,6 @@
       "onboard_time": 1676765243,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 302032,
-      "num": 302032,
-      "word": "丁程鑫贺峻霖再跳psycho",
-      "onboard_time": 1676810981,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 301770,
@@ -1691,20 +1731,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191118,
+      "num": 191118,
+      "word": "撞脸明星的素人能有多像",
+      "onboard_time": 1676810071,
+      "rank": 42,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 189077,
       "num": 189077,
       "word": "太阳系遗物",
       "onboard_time": 1676784630,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188127,
-      "num": 187048,
-      "word": "社会我玲姐 衣服越粉打人越狠",
-      "onboard_time": 1676808455,
-      "rank": 46,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 187681,
@@ -1787,20 +1827,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178744,
-      "num": 178744,
-      "word": "撞脸明星的素人能有多像",
-      "onboard_time": 1676810071,
-      "rank": 42,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 178090,
       "num": 178090,
       "word": "美国连巧取都没有只剩豪夺",
       "onboard_time": 1676727210,
       "rank": 31,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 176012,
+      "num": 176012,
+      "word": "霍格沃茨之遗",
+      "onboard_time": 1676811033,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 175423,
+      "num": 175423,
+      "word": "张若昀的眼神戏",
+      "onboard_time": 1676812892,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 173217,
@@ -2043,10 +2091,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136908,
-      "num": 136908,
-      "word": "霍格沃茨之遗",
-      "onboard_time": 1676811033,
+      "raw_hot": 137019,
+      "num": 137019,
+      "word": "TTG",
+      "onboard_time": 1676812711,
       "rank": 48,
       "category": "游戏"
     },
@@ -2193,6 +2241,14 @@
       "onboard_time": 1676730631,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103428,
+      "num": 133655,
+      "word": "林高远陈幸同3比2袁励岑王艺迪",
+      "onboard_time": 1676812951,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 103172,
