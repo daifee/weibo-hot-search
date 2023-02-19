@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676826958551,
+  "endTime": 1676828011240,
   "band_list": [
     {
       "raw_hot": 1206592,
@@ -339,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135232,
+      "num": 135232,
+      "word": "饺子怎么也没想到会挨一刀",
+      "onboard_time": 1676825601,
+      "rank": 29,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 133277,
       "num": 133277,
       "word": "樊振东摔倒自己都笑了",
@@ -377,14 +385,6 @@
       "onboard_time": 1676816194,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 120308,
-      "num": 120308,
-      "word": "饺子怎么也没想到会挨一刀",
-      "onboard_time": 1676825601,
-      "rank": 29,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 117677,
