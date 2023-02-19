@@ -1,14 +1,22 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676776967733,
+  "endTime": 1676777811465,
   "band_list": [
     {
-      "raw_hot": 2725417,
-      "num": 2725417,
+      "raw_hot": 2857236,
+      "num": 2857236,
       "word": "杭师大",
       "onboard_time": 1676774727,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2243379,
+      "num": 1597094,
+      "word": "何与 卢洋洋",
+      "onboard_time": 1676776469,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1975119,
@@ -17,14 +25,6 @@
       "onboard_time": 1676733451,
       "rank": 0,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1961921,
-      "num": 1482952,
-      "word": "何与 卢洋洋",
-      "onboard_time": 1676776469,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1930683,
@@ -59,6 +59,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1586343,
+      "num": 1586343,
+      "word": "浙师大",
+      "onboard_time": 1676776169,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1583530,
       "num": 1583530,
       "word": "哺乳期女子点外卖骑手提醒不卫生",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1256622,
-      "num": 249351,
+      "num": 255933,
       "word": "泰剧床伴",
       "onboard_time": 1676763320,
       "rank": 30,
@@ -147,16 +155,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 930721,
-      "num": 930721,
-      "word": "浙师大",
-      "onboard_time": 1676776169,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 888869,
-      "num": 888869,
+      "raw_hot": 966073,
+      "num": 966073,
       "word": "郭晓婷的交友尺度",
       "onboard_time": 1676772868,
       "rank": 15,
@@ -203,12 +203,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 755714,
-      "num": 755714,
+      "raw_hot": 776949,
+      "num": 776949,
       "word": "你是我最后一个女人",
       "onboard_time": 1676775030,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 775976,
+      "num": 775976,
+      "word": "粉笔模考",
+      "onboard_time": 1676776890,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 754326,
@@ -256,6 +264,14 @@
       "word": "近期又开始发烧是否等于复阳",
       "onboard_time": 1676717489,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640765,
+      "num": 640765,
+      "word": "四川凉山制止528起10万以上彩礼",
+      "onboard_time": 1676775567,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -323,20 +339,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 495341,
-      "num": 495341,
-      "word": "四川凉山制止528起10万以上彩礼",
-      "onboard_time": 1676775567,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 474404,
       "num": 474404,
       "word": "狂飙警戒线漫画版",
       "onboard_time": 1676775267,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 455216,
+      "num": 455216,
+      "word": "杜华晒照为黄明昊庆生",
+      "onboard_time": 1676777729,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 454972,
@@ -387,8 +403,8 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 360882,
-      "num": 360882,
+      "raw_hot": 371279,
+      "num": 371279,
       "word": "中国好声音 唱跳赛道",
       "onboard_time": 1676775389,
       "rank": 43,
@@ -499,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280725,
-      "num": 280725,
-      "word": "粉笔模考",
-      "onboard_time": 1676776890,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 269085,
       "num": 269085,
       "word": "无畏镜杀疯了",
@@ -571,12 +579,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241759,
+      "num": 241759,
+      "word": "利拉德看表庆祝三分大赛冠军",
+      "onboard_time": 1676775930,
+      "rank": 35,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 240775,
       "num": 240775,
       "word": "黄明昊演唱会",
       "onboard_time": 1676718809,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 239415,
+      "num": 239415,
+      "word": "李兰迪谈理想型",
+      "onboard_time": 1676777370,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 232752,
@@ -683,14 +707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190220,
-      "num": 190220,
-      "word": "利拉德看表庆祝三分大赛冠军",
-      "onboard_time": 1676775930,
-      "rank": 35,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 187681,
       "num": 187681,
       "word": "新疆男篮或退出本赛季CBA剩余比赛",
@@ -769,6 +785,14 @@
       "onboard_time": 1676768606,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163968,
+      "num": 163968,
+      "word": "陈熠3比1王艺迪",
+      "onboard_time": 1676777189,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 161699,
@@ -915,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128065,
+      "num": 128065,
+      "word": "古画里的杏花春雨",
+      "onboard_time": 1676777189,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127327,
       "num": 127327,
       "word": "如果文旅局长来一场连麦",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1676762237,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68401,
+      "num": 1598168,
+      "word": "春雨里的中国美成了一幅画",
+      "onboard_time": 1676777370,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 62178,

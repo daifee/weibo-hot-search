@@ -1,0 +1,410 @@
+{
+  "runTime": 1676777811465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2857236,
+        "num": 2857236,
+        "word": "杭师大",
+        "onboard_time": 1676774727,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1643796,
+        "num": 1643796,
+        "word": "向妻子面部泼硫酸男子称已同意离婚",
+        "onboard_time": 1676773834,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 68401,
+        "num": 1598168,
+        "word": "春雨里的中国美成了一幅画",
+        "onboard_time": 1676777370,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2243379,
+        "num": 1597094,
+        "word": "何与 卢洋洋",
+        "onboard_time": 1676776469,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1586343,
+        "num": 1586343,
+        "word": "浙师大",
+        "onboard_time": 1676776169,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1258308,
+        "num": 1258308,
+        "word": "新冠高峰后现肝损伤小高峰",
+        "onboard_time": 1676772746,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1289392,
+        "num": 1253595,
+        "word": "沈月在节目里谈分手原因",
+        "onboard_time": 1676773167,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1110645,
+        "num": 1110645,
+        "word": "马来西亚公主ins关注杨洋吴磊赵露思",
+        "onboard_time": 1676773046,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 966073,
+        "num": 966073,
+        "word": "郭晓婷的交友尺度",
+        "onboard_time": 1676772868,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 776949,
+        "num": 776949,
+        "word": "你是我最后一个女人",
+        "onboard_time": 1676775030,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 775976,
+        "num": 775976,
+        "word": "粉笔模考",
+        "onboard_time": 1676776890,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 743702,
+        "num": 743702,
+        "word": "上戏明年表演系考生高考须达一本线",
+        "onboard_time": 1676767766,
+        "rank": 11,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 640765,
+        "num": 640765,
+        "word": "四川凉山制止528起10万以上彩礼",
+        "onboard_time": 1676775567,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585307,
+        "num": 585307,
+        "word": "中方将发布政治解决乌克兰危机的中国立场",
+        "onboard_time": 1676769809,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 571783,
+        "num": 571783,
+        "word": "军队文职",
+        "onboard_time": 1676768488,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 567596,
+        "num": 567596,
+        "word": "乌克兰延长战时状态至5月",
+        "onboard_time": 1676773528,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 506440,
+        "num": 506440,
+        "word": "NBA全明星三分大赛",
+        "onboard_time": 1676774850,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460963,
+        "num": 460963,
+        "word": "狂飙警戒线漫画版",
+        "onboard_time": 1676775267,
+        "rank": 17,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 455216,
+        "num": 455216,
+        "word": "杜华晒照为黄明昊庆生",
+        "onboard_time": 1676777729,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392501,
+        "num": 392501,
+        "word": "苏打绿宣布正式回归",
+        "onboard_time": 1676764222,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 391277,
+        "num": 391277,
+        "word": "还得是言承旭",
+        "onboard_time": 1676772267,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379638,
+        "num": 379638,
+        "word": "姜广涛",
+        "onboard_time": 1676762657,
+        "rank": 21,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 377801,
+        "num": 377801,
+        "word": "烧给爱丽丝",
+        "onboard_time": 1676772807,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 371279,
+        "num": 371279,
+        "word": "中国好声音 唱跳赛道",
+        "onboard_time": 1676775389,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340840,
+        "num": 340840,
+        "word": "美甲最好隔20天左右就卸除",
+        "onboard_time": 1676737406,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286765,
+        "num": 286765,
+        "word": "两男孩卖废品多收1元深夜捡纸箱还钱",
+        "onboard_time": 1676774069,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283510,
+        "num": 283510,
+        "word": "香港大学宣布禁用ChatGPT",
+        "onboard_time": 1676736818,
+        "rank": 26,
+        "category": "教育,科技"
+      },
+      {
+        "raw_hot": 274457,
+        "num": 274457,
+        "word": "夏花删减",
+        "onboard_time": 1676769747,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273061,
+        "num": 273061,
+        "word": "美国前总统卡特将开始接受临终关怀",
+        "onboard_time": 1676768063,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 265861,
+        "num": 265861,
+        "word": "多地21日起可查考研初试成绩",
+        "onboard_time": 1676769146,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 514942,
+        "num": 255933,
+        "word": "泰剧床伴",
+        "onboard_time": 1676763320,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241759,
+        "num": 241759,
+        "word": "利拉德看表庆祝三分大赛冠军",
+        "onboard_time": 1676775930,
+        "rank": 31,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 239415,
+        "num": 239415,
+        "word": "李兰迪谈理想型",
+        "onboard_time": 1676777370,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231111,
+        "num": 231111,
+        "word": "无毛猫被前主人纹身打耳环",
+        "onboard_time": 1676731290,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224801,
+        "num": 224801,
+        "word": "美国一工厂雇100余童工通宵工作",
+        "onboard_time": 1676766744,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208577,
+        "num": 208577,
+        "word": "婚检应该自愿还是强制",
+        "onboard_time": 1676767285,
+        "rank": 35,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 198576,
+        "num": 198576,
+        "word": "跪求夏花500T",
+        "onboard_time": 1676768848,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176805,
+        "num": 176805,
+        "word": "ChatGPT相关领域招聘年薪超33万",
+        "onboard_time": 1676774549,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165814,
+        "num": 165814,
+        "word": "现在的大学生开学",
+        "onboard_time": 1676752572,
+        "rank": 38,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 165811,
+        "num": 165811,
+        "word": "杨丞琳听粉丝喊自己的反应",
+        "onboard_time": 1676775030,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4517,
+        "num": 164748,
+        "word": "团结奋斗再出发",
+        "onboard_time": 1676723008,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163968,
+        "num": 163968,
+        "word": "陈熠3比1王艺迪",
+        "onboard_time": 1676777189,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162332,
+        "num": 162332,
+        "word": "网友连线张大大问aespa什么时候回归",
+        "onboard_time": 1676769507,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153885,
+        "num": 153885,
+        "word": "柯哀",
+        "onboard_time": 1676733451,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152670,
+        "num": 152670,
+        "word": "左航分享自习室vlog",
+        "onboard_time": 1676776289,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152398,
+        "num": 152398,
+        "word": "曾经很火但消失了的APP",
+        "onboard_time": 1676716829,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 141884,
+        "num": 141884,
+        "word": "男子称买200元螃蟹皮套得占70元",
+        "onboard_time": 1676740582,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128065,
+        "num": 128065,
+        "word": "古画里的杏花春雨",
+        "onboard_time": 1676777189,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125942,
+        "num": 125942,
+        "word": "中国男篮世预赛16人大名单",
+        "onboard_time": 1676770106,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121476,
+        "num": 121476,
+        "word": "云南德宏地震",
+        "onboard_time": 1676762299,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#促发展需要做好精准文章#"
+    }
+  }
+}

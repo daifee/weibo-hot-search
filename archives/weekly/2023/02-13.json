@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676776967733,
+  "endTime": 1676777811465,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2857236,
+      "num": 2857236,
+      "word": "杭师大",
+      "onboard_time": 1676774727,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2793640,
       "num": 2793640,
       "word": "教育局回应老师用尺狠抽学生手",
@@ -273,14 +281,6 @@
       "onboard_time": 1676375734,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2725417,
-      "num": 2725417,
-      "word": "杭师大",
-      "onboard_time": 1676774727,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 2722395,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2243379,
+      "num": 1597094,
+      "word": "何与 卢洋洋",
+      "onboard_time": 1676776469,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2218913,
       "num": 2218913,
       "word": "付辛博抬头纹",
@@ -713,14 +721,6 @@
       "onboard_time": 1676335471,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1961921,
-      "num": 1482952,
-      "word": "何与 卢洋洋",
-      "onboard_time": 1676776469,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1958005,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1676459790,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1586343,
+      "num": 1586343,
+      "word": "浙师大",
+      "onboard_time": 1676776169,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 1583530,
@@ -1516,7 +1524,7 @@
     },
     {
       "raw_hot": 1256622,
-      "num": 249351,
+      "num": 255933,
       "word": "泰剧床伴",
       "onboard_time": 1676763320,
       "rank": 30,
@@ -2355,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 966073,
+      "num": 966073,
+      "word": "郭晓婷的交友尺度",
+      "onboard_time": 1676772868,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 961040,
       "num": 961040,
       "word": "高启强为什么解领带擦玻璃",
@@ -2465,14 +2481,6 @@
       "onboard_time": 1676472934,
       "rank": 12,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 930721,
-      "num": 930721,
-      "word": "浙师大",
-      "onboard_time": 1676776169,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 929360,
@@ -2609,14 +2617,6 @@
       "onboard_time": 1676510128,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 888869,
-      "num": 888869,
-      "word": "郭晓婷的交友尺度",
-      "onboard_time": 1676772868,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 887672,
@@ -3131,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 776949,
+      "num": 776949,
+      "word": "你是我最后一个女人",
+      "onboard_time": 1676775030,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 776726,
       "num": 776726,
       "word": "男子卧室建浴缸被楼下邻居投诉",
@@ -3145,6 +3153,14 @@
       "onboard_time": 1676350059,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 775976,
+      "num": 775976,
+      "word": "粉笔模考",
+      "onboard_time": 1676776890,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 774926,
@@ -3241,14 +3257,6 @@
       "onboard_time": 1676626891,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 755714,
-      "num": 755714,
-      "word": "你是我最后一个女人",
-      "onboard_time": 1676775030,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 755294,
@@ -4057,6 +4065,14 @@
       "onboard_time": 1676612434,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 640765,
+      "num": 640765,
+      "word": "四川凉山制止528起10万以上彩礼",
+      "onboard_time": 1676775567,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 640230,
@@ -5507,14 +5523,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 495341,
-      "num": 495341,
-      "word": "四川凉山制止528起10万以上彩礼",
-      "onboard_time": 1676775567,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 493765,
       "num": 493765,
       "word": "骗子调包4万名表嫁祸快递小哥",
@@ -6057,6 +6065,14 @@
       "onboard_time": 1676640692,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 455216,
+      "num": 455216,
+      "word": "杜华晒照为黄明昊庆生",
+      "onboard_time": 1676777729,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 453952,
@@ -7427,6 +7443,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 371279,
+      "num": 371279,
+      "word": "中国好声音 唱跳赛道",
+      "onboard_time": 1676775389,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371224,
       "num": 371224,
       "word": "赵露思陈哲远新剧情人节语音",
@@ -7537,14 +7561,6 @@
       "onboard_time": 1676257948,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 360882,
-      "num": 360882,
-      "word": "中国好声音 唱跳赛道",
-      "onboard_time": 1676775389,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 360736,
@@ -9139,14 +9155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280725,
-      "num": 280725,
-      "word": "粉笔模考",
-      "onboard_time": 1676776890,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 280265,
       "num": 280265,
       "word": "IU韩国芭莎3月封面",
@@ -10219,6 +10227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241759,
+      "num": 241759,
+      "word": "利拉德看表庆祝三分大赛冠军",
+      "onboard_time": 1676775930,
+      "rank": 35,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 241409,
       "num": 241409,
       "word": "中国乒乓今日正式上映",
@@ -10257,6 +10273,14 @@
       "onboard_time": 1676729671,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239415,
+      "num": 239415,
+      "word": "李兰迪谈理想型",
+      "onboard_time": 1676777370,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 238713,
@@ -11747,14 +11771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190220,
-      "num": 190220,
-      "word": "利拉德看表庆祝三分大赛冠军",
-      "onboard_time": 1676775930,
-      "rank": 35,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 190091,
       "num": 161822,
       "word": "种地吧",
@@ -12835,6 +12851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163968,
+      "num": 163968,
+      "word": "陈熠3比1王艺迪",
+      "onboard_time": 1676777189,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163264,
       "num": 163264,
       "word": "美国无证据表明被击落飞行物用于情报收集",
@@ -13675,6 +13699,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 128065,
+      "num": 128065,
+      "word": "古画里的杏花春雨",
+      "onboard_time": 1676777189,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127478,
       "num": 127478,
       "word": "女子30天游13城手绘记录",
@@ -14137,6 +14169,14 @@
       "onboard_time": 1676197171,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68401,
+      "num": 1598168,
+      "word": "春雨里的中国美成了一幅画",
+      "onboard_time": 1676777370,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 67292,
