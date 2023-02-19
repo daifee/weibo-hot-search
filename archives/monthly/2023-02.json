@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676802903948,
+  "endTime": 1676805303000,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -603,6 +603,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 2872101,
+      "num": 581932,
+      "word": "杨幂漂发了",
+      "onboard_time": 1676802091,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2857236,
       "num": 2857236,
       "word": "杭师大",
@@ -737,14 +745,6 @@
       "onboard_time": 1676619031,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2709873,
-      "num": 581932,
-      "word": "杨幂漂发了",
-      "onboard_time": 1676802091,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2690901,
@@ -4339,6 +4339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1200185,
+      "num": 539556,
+      "word": "Wendy哭了",
+      "onboard_time": 1676803770,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1198293,
       "num": 1198293,
       "word": "月入一万是什么水平",
@@ -5603,6 +5611,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1037836,
+      "num": 1037836,
+      "word": "教育部门要求对陈某某进行调查",
+      "onboard_time": 1676800111,
+      "rank": 12,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1037576,
       "num": 1037576,
       "word": "美国被曝炸毁北溪新证据",
@@ -5809,6 +5825,14 @@
       "onboard_time": 1675846894,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1019007,
+      "num": 1019007,
+      "word": "庐江中学称不会处理抢话筒学生",
+      "onboard_time": 1676800289,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1018795,
@@ -6089,6 +6113,14 @@
       "onboard_time": 1675683208,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 982491,
+      "num": 538214,
+      "word": "女子应聘助理被要求和经理同生活",
+      "onboard_time": 1676803531,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 981386,
@@ -8003,14 +8035,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 824378,
-      "num": 824378,
-      "word": "庐江中学称不会处理抢话筒学生",
-      "onboard_time": 1676800289,
-      "rank": 11,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 824243,
       "num": 824243,
       "word": "女孩花4万在鹤岗买房后卖煎饼挣钱",
@@ -9667,14 +9691,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 723934,
-      "num": 723934,
-      "word": "教育部门要求对陈某某进行调查",
-      "onboard_time": 1676800111,
-      "rank": 12,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 723863,
       "num": 611047,
       "word": "医院回应14岁女孩被逼吸毒身亡",
@@ -9929,6 +9945,14 @@
       "onboard_time": 1676363074,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713907,
+      "num": 713907,
+      "word": "XYG",
+      "onboard_time": 1676803229,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 713687,
@@ -11185,6 +11209,14 @@
       "onboard_time": 1675745376,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 653236,
+      "num": 653236,
+      "word": "庐江中学",
+      "onboard_time": 1676803051,
+      "rank": 7,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 652949,
@@ -14419,6 +14451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 531856,
+      "num": 531856,
+      "word": "苏小玎说狂飙张颂文和角色反差最大",
+      "onboard_time": 1676803832,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 531596,
       "num": 531596,
       "word": "就zei块 就zei块",
@@ -17113,6 +17153,14 @@
       "onboard_time": 1675749392,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 451324,
+      "num": 451324,
+      "word": "Cube回应gidle演出服被售卖",
+      "onboard_time": 1676804552,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 451281,
@@ -25515,6 +25563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289247,
+      "num": 289247,
+      "word": "虞书欣云之羽坐船路透",
+      "onboard_time": 1676805210,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289060,
       "num": 289060,
       "word": "重病母亲回应儿子向舅舅借学费",
@@ -26499,6 +26555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276528,
+      "num": 276528,
+      "word": "若美方执意扩大事态中方必将奉陪到底",
+      "onboard_time": 1676800830,
+      "rank": 38,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 276452,
       "num": 276452,
       "word": "言承旭在刘畊宏直播间跳完发烧了",
@@ -26945,14 +27009,6 @@
       "onboard_time": 1675988492,
       "rank": 29,
       "category": "科技"
-    },
-    {
-      "raw_hot": 271351,
-      "num": 271351,
-      "word": "若美方执意扩大事态中方必将奉陪到底",
-      "onboard_time": 1676800830,
-      "rank": 38,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 271174,
@@ -29339,6 +29395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 242128,
+      "num": 242128,
+      "word": "原来兔子会打人",
+      "onboard_time": 1676804071,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242116,
       "num": 242116,
       "word": "成毅李一桐英雄志雪景同框路透",
@@ -29433,6 +29497,14 @@
       "onboard_time": 1675738948,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 240591,
+      "num": 240591,
+      "word": "赵露思神隐红衣拂袖路透",
+      "onboard_time": 1676804189,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 240563,
@@ -31881,6 +31953,14 @@
       "onboard_time": 1676365951,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211261,
+      "num": 211261,
+      "word": "官方通报上栗2名民警1名辅警因公牺牲",
+      "onboard_time": 1676804731,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211229,
@@ -35547,6 +35627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179560,
+      "num": 179560,
+      "word": "刘耀文严浩翔演武林高手",
+      "onboard_time": 1676803110,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179554,
       "num": 179554,
       "word": "孟佳粉色双马尾唱candy",
@@ -35641,6 +35729,14 @@
       "onboard_time": 1676079147,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178915,
+      "num": 178915,
+      "word": "蛋仔派对",
+      "onboard_time": 1676804432,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 178881,
@@ -35968,6 +36064,14 @@
       "word": "张若昀王阳新剧水中戏花絮",
       "onboard_time": 1676111247,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 175696,
+      "num": 175696,
+      "word": "光渊 刺挠",
+      "onboard_time": 1676804852,
+      "rank": 42,
       "category": "影视"
     },
     {
