@@ -1,6 +1,6 @@
 {
   "startTime": 1676219066879,
-  "endTime": 1676790993535,
+  "endTime": 1676792024290,
   "band_list": [
     {
       "raw_hot": 13120424,
@@ -57,6 +57,14 @@
       "onboard_time": 1676293723,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3637272,
+      "num": 3637272,
+      "word": "每日新增阳性5000例以上",
+      "onboard_time": 1676789727,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3392091,
@@ -587,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2130079,
-      "num": 2130079,
-      "word": "每日新增阳性5000例以上",
-      "onboard_time": 1676789727,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2128670,
       "num": 2128670,
       "word": "近期又开始发烧是否等于复阳",
@@ -899,6 +899,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1765187,
+      "num": 1765187,
+      "word": "江西3名民辅警查酒驾时被刺身亡",
+      "onboard_time": 1676788228,
+      "rank": 23,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1753757,
       "num": 1753757,
       "word": "狂飙",
@@ -993,14 +1001,6 @@
       "onboard_time": 1676444791,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1687247,
-      "num": 1687247,
-      "word": "江西3名民辅警查酒驾时被刺身亡",
-      "onboard_time": 1676788228,
-      "rank": 23,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1681597,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1676450014,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1544181,
+      "num": 1544181,
+      "word": "桃李面包中吃出2厘米带锈刀片",
+      "onboard_time": 1676787987,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1533290,
@@ -1457,14 +1465,6 @@
       "onboard_time": 1676272549,
       "rank": 46,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1299900,
-      "num": 1299900,
-      "word": "桃李面包中吃出2厘米带锈刀片",
-      "onboard_time": 1676787987,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1299008,
@@ -1809,6 +1809,14 @@
       "onboard_time": 1676341052,
       "rank": 5,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1164764,
+      "num": 1164764,
+      "word": "学生曝食堂勾芡严重菜稀成面条卤子",
+      "onboard_time": 1676790148,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1161151,
@@ -2619,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 925319,
+      "num": 925319,
+      "word": "付辛博 爹系",
+      "onboard_time": 1676788826,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 924437,
       "num": 924437,
       "word": "女子不吃碳水半年减46斤脱发怕冷",
@@ -3099,6 +3115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807135,
+      "num": 807135,
+      "word": "租客跟房东说养宠物结果是匹马",
+      "onboard_time": 1676788167,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 806983,
       "num": 806983,
       "word": "蒋鹤婷恋综最快下车女嘉宾",
@@ -3185,14 +3209,6 @@
       "onboard_time": 1676363496,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 787815,
-      "num": 787815,
-      "word": "租客跟房东说养宠物结果是匹马",
-      "onboard_time": 1676788167,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 787184,
@@ -3385,14 +3401,6 @@
       "onboard_time": 1676737406,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 753950,
-      "num": 753950,
-      "word": "付辛博 爹系",
-      "onboard_time": 1676788826,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 753858,
@@ -4531,14 +4539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 603760,
-      "num": 587681,
-      "word": "学生曝食堂勾芡严重菜稀成面条卤子",
-      "onboard_time": 1676790148,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 603222,
       "num": 603222,
       "word": "当爱如火遇上EXO",
@@ -5145,6 +5145,14 @@
       "onboard_time": 1676725774,
       "rank": 33,
       "category": "科技"
+    },
+    {
+      "raw_hot": 542236,
+      "num": 542236,
+      "word": "沈阳三胎家庭每月发放500元补贴",
+      "onboard_time": 1676788708,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541301,
@@ -6435,14 +6443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 442865,
-      "num": 442865,
-      "word": "沈阳三胎家庭每月发放500元补贴",
-      "onboard_time": 1676788708,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441572,
       "num": 441572,
       "word": "张颂文 不止不休",
@@ -7129,6 +7129,14 @@
       "onboard_time": 1676772267,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 401082,
+      "num": 401082,
+      "word": "男孩疑遭校园霸凌被迫跳舞",
+      "onboard_time": 1676790988,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400838,
@@ -8513,6 +8521,14 @@
       "onboard_time": 1676455832,
       "rank": 41,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 319817,
+      "num": 319817,
+      "word": "侯明昊你内衬开了",
+      "onboard_time": 1676790808,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 319518,
@@ -9947,14 +9963,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 263505,
-      "num": 263505,
-      "word": "侯明昊你内衬开了",
-      "onboard_time": 1676790808,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263342,
       "num": 263342,
       "word": "华晨宇白举纲唱逃离地球表面",
@@ -10969,6 +10977,14 @@
       "onboard_time": 1676748792,
       "rank": 18,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 227259,
+      "num": 227259,
+      "word": "战歌级韩剧OST",
+      "onboard_time": 1676791408,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 227105,
@@ -13667,6 +13683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151568,
+      "num": 151568,
+      "word": "T1对战GEN",
+      "onboard_time": 1676791468,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151450,
       "num": 151450,
       "word": "邓小平逝世26年",
@@ -13905,6 +13929,14 @@
       "onboard_time": 1676441190,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 139617,
+      "num": 139617,
+      "word": "马龙这球太帅了",
+      "onboard_time": 1676791948,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 139449,
@@ -14147,6 +14179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129227,
+      "num": 129227,
+      "word": "仙门反骨洛音凡",
+      "onboard_time": 1676791049,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129045,
       "num": 129045,
       "word": "阿森纳vs曼城",
@@ -14352,14 +14392,6 @@
       "word": "社恐人下班怎么玩",
       "onboard_time": 1676455232,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109198,
-      "num": 109198,
-      "word": "男孩疑遭校园霸凌被迫跳舞",
-      "onboard_time": 1676790988,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
