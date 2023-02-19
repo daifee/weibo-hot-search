@@ -1,6 +1,6 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676810062010,
+  "endTime": 1676811154636,
   "band_list": [
     {
       "raw_hot": 4088228,
@@ -81,6 +81,14 @@
       "onboard_time": 1676773167,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1814798,
+      "num": 1814798,
+      "word": "考研成绩",
+      "onboard_time": 1676809533,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 1779937,
@@ -169,6 +177,14 @@
       "onboard_time": 1676768063,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1259116,
+      "num": 1259116,
+      "word": "农历二月生的今年能过3次生日",
+      "onboard_time": 1676807487,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1256622,
@@ -307,14 +323,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1018055,
-      "num": 1018055,
-      "word": "农历二月生的今年能过3次生日",
-      "onboard_time": 1676807487,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1014855,
       "num": 1014855,
       "word": "曾经很火但消失了的APP",
@@ -387,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 879192,
+      "num": 879192,
+      "word": "独生子女能否全部继承父母遗产",
+      "onboard_time": 1676807790,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857909,
       "num": 857909,
       "word": "新增确诊病例主要是没阳过的",
@@ -417,6 +433,14 @@
       "onboard_time": 1676718630,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 815036,
+      "num": 815036,
+      "word": "白惠承认隐孕入职",
+      "onboard_time": 1676808030,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 807135,
@@ -451,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 792233,
-      "num": 792233,
-      "word": "独生子女能否全部继承父母遗产",
-      "onboard_time": 1676807790,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 775976,
       "num": 775976,
       "word": "粉笔模考",
@@ -475,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 753762,
-      "num": 753762,
-      "word": "白惠承认隐孕入职",
-      "onboard_time": 1676808030,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 747739,
       "num": 582937,
       "word": "杨迪晒照为黄明昊庆生",
@@ -497,6 +505,14 @@
       "onboard_time": 1676731290,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 731877,
+      "num": 476398,
+      "word": "阿娇哭得好美",
+      "onboard_time": 1676808810,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 731290,
@@ -587,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 637496,
-      "num": 637496,
-      "word": "考研成绩",
-      "onboard_time": 1676809533,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 628843,
       "num": 628843,
       "word": "男孩疑遭校园霸凌被迫跳舞",
@@ -665,14 +673,6 @@
       "onboard_time": 1676803832,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 570102,
-      "num": 416767,
-      "word": "阿娇哭得好美",
-      "onboard_time": 1676808810,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 567627,
@@ -771,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481802,
+      "num": 481802,
+      "word": "无名",
+      "onboard_time": 1676810311,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 478705,
       "num": 478705,
       "word": "狂飙警戒线漫画版",
@@ -785,6 +793,14 @@
       "onboard_time": 1676778750,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 470894,
+      "num": 470894,
+      "word": "宋亚轩拥抱式哄刘耀文",
+      "onboard_time": 1676810490,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 467789,
@@ -1147,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302032,
+      "num": 302032,
+      "word": "丁程鑫贺峻霖再跳psycho",
+      "onboard_time": 1676810981,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301770,
       "num": 301770,
       "word": "种地吧10个人搬了30吨化肥",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1676730393,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 289621,
+      "num": 289621,
+      "word": "电影无名海外影评",
+      "onboard_time": 1676810981,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 289247,
@@ -1387,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247314,
+      "num": 247314,
+      "word": "夜昙被退学",
+      "onboard_time": 1676809290,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246895,
       "num": 246895,
       "word": "夏花 上头",
@@ -1475,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233671,
+      "num": 233671,
+      "word": "真的没有人为坎儿井发声吗",
+      "onboard_time": 1676810551,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233157,
       "num": 233157,
       "word": "Faker中单安妮",
@@ -1529,14 +1577,6 @@
       "onboard_time": 1676797779,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217734,
-      "num": 217734,
-      "word": "夜昙被退学",
-      "onboard_time": 1676809290,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 216608,
@@ -1659,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188127,
+      "num": 187048,
+      "word": "社会我玲姐 衣服越粉打人越狠",
+      "onboard_time": 1676808455,
+      "rank": 46,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 187681,
       "num": 187681,
       "word": "新疆男篮或退出本赛季CBA剩余比赛",
@@ -1737,6 +1785,14 @@
       "onboard_time": 1676776289,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178744,
+      "num": 178744,
+      "word": "撞脸明星的素人能有多像",
+      "onboard_time": 1676810071,
+      "rank": 42,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 178090,
@@ -1972,7 +2028,7 @@
     },
     {
       "raw_hot": 142935,
-      "num": 1234979,
+      "num": 1288911,
       "word": "跨国企业在中国",
       "onboard_time": 1676801253,
       "rank": 2,
@@ -1985,6 +2041,14 @@
       "onboard_time": 1676765844,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136908,
+      "num": 136908,
+      "word": "霍格沃茨之遗",
+      "onboard_time": 1676811033,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 135959,
@@ -2057,14 +2121,6 @@
       "onboard_time": 1676785647,
       "rank": 44,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 128695,
-      "num": 128695,
-      "word": "社会我玲姐 衣服越粉打人越狠",
-      "onboard_time": 1676808455,
-      "rank": 46,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 128065,
