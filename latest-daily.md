@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/20 00:24:21 ~ 2023/02/20 05:33:36
+本榜单时间：2023/02/20 00:24:21 ~ 2023/02/20 06:17:34
 </p>
 </blockquote>
 <p>
@@ -273,6 +273,12 @@ AG对战TTG（热度：184698）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E7%A7%B0%E9%99%A4%E7%94%9F%E7%97%85%E5%A4%96%E7%97%9B%E8%8B%A6%E9%83%BD%E6%98%AF%E4%BB%B7%E5%80%BC%E8%A7%82%E9%80%A0%E6%88%90%E7%9A%84%23" target="weibo">
+中学老师称除生病外痛苦都是价值观造成的（热度：135398）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%BA%E5%AD%90%E6%80%8E%E4%B9%88%E4%B9%9F%E6%B2%A1%E6%83%B3%E5%88%B0%E4%BC%9A%E6%8C%A8%E4%B8%80%E5%88%80%23" target="weibo">
 饺子怎么也没想到会挨一刀（热度：135232）
 </a>
@@ -299,6 +305,12 @@ AG对战TTG（热度：184698）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E4%BF%9E%E7%99%BD%E7%9C%89%23" target="weibo">
 邓超 俞白眉（热度：122498）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E6%8C%BD%E5%9B%9E%E6%84%9F%E6%83%85%E9%85%92%E5%90%8E%E7%83%A7%E4%BA%86%E5%A5%B3%E5%8F%8B%E5%AE%B6%23" target="weibo">
+男子为挽回感情酒后烧了女友家（热度：121955）
 </a>
 </li>
 
@@ -370,13 +382,7 @@ cpsp 阿宅拉练（热度：42130）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%97%A0%E5%90%8D%E7%A0%B49%E4%BA%BF%E5%89%A7%E7%85%A7%23" target="weibo">
-王一博无名破9亿剧照（热度：29162）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E6%8C%BD%E5%9B%9E%E6%84%9F%E6%83%85%E9%85%92%E5%90%8E%E7%83%A7%E4%BA%86%E5%A5%B3%E5%8F%8B%E5%AE%B6%23" target="weibo">
-男子为挽回感情酒后烧了女友家（热度：28336）
+王一博无名破9亿剧照（热度：30541）
 </a>
 </li>
 
