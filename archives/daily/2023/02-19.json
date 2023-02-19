@@ -1,6 +1,6 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676787766794,
+  "endTime": 1676788645625,
   "band_list": [
     {
       "raw_hot": 2892365,
@@ -147,20 +147,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1140114,
-      "num": 1140114,
-      "word": "检出XBB.1.5意味着新一轮发烧开始吗",
-      "onboard_time": 1676783726,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1129380,
-      "num": 623765,
+      "raw_hot": 1152496,
+      "num": 652106,
       "word": "马云与43年前儿时好友相见",
       "onboard_time": 1676784449,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1140705,
+      "num": 1140705,
+      "word": "检出XBB.1.5意味着新一轮发烧开始吗",
+      "onboard_time": 1676783726,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1091589,
@@ -211,6 +211,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1000051,
+      "num": 1000051,
+      "word": "杭州一高层住宅爆炸",
+      "onboard_time": 1676785647,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 980397,
+      "num": 980397,
+      "word": "张新成造型 男女老少",
+      "onboard_time": 1676785166,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 979560,
       "num": 733141,
       "word": "上海中环一车失控翻下高架并起火",
@@ -232,22 +248,6 @@
       "word": "你是我最后一个女人",
       "onboard_time": 1676775030,
       "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 933976,
-      "num": 933976,
-      "word": "杭州一高层住宅爆炸",
-      "onboard_time": 1676785647,
-      "rank": 3,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 923107,
-      "num": 923107,
-      "word": "张新成造型 男女老少",
-      "onboard_time": 1676785166,
-      "rank": 4,
       "category": "影视"
     },
     {
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 620129,
+      "num": 620129,
+      "word": "熊猫香香回国",
+      "onboard_time": 1676786126,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587133,
       "num": 587133,
       "word": "乌克兰延长战时状态至5月",
@@ -451,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 502478,
-      "num": 502478,
-      "word": "熊猫香香回国",
-      "onboard_time": 1676786126,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 478705,
       "num": 478705,
       "word": "狂飙警戒线漫画版",
@@ -499,6 +499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 448989,
+      "num": 448989,
+      "word": "刘国梁为电影中国乒乓加油",
+      "onboard_time": 1676787567,
+      "rank": 20,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 403507,
       "num": 403507,
       "word": "烧给爱丽丝",
@@ -512,6 +520,14 @@
       "word": "还得是言承旭",
       "onboard_time": 1676772267,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 400523,
+      "num": 400523,
+      "word": "曾小贤戏推赛巴斯",
+      "onboard_time": 1676785166,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -547,14 +563,6 @@
       "category": "军事,国外要闻"
     },
     {
-      "raw_hot": 386566,
-      "num": 386566,
-      "word": "曾小贤戏推赛巴斯",
-      "onboard_time": 1676785166,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 384958,
       "num": 384958,
       "word": "田曦薇歪头和粉丝打招呼",
@@ -571,12 +579,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 378483,
-      "num": 378483,
-      "word": "刘国梁为电影中国乒乓加油",
-      "onboard_time": 1676787567,
+      "raw_hot": 371844,
+      "num": 371844,
+      "word": "桃李面包中吃出2厘米带锈刀片",
+      "onboard_time": 1676787987,
       "rank": 20,
-      "category": "影视,社会新闻"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371279,
@@ -755,6 +763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 286346,
+      "num": 286346,
+      "word": "江西3名民辅警查酒驾时被刺身亡",
+      "onboard_time": 1676788228,
+      "rank": 23,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 274127,
       "num": 274127,
       "word": "星落凝成糖制片人手滑点赞重紫微博",
@@ -809,6 +825,14 @@
       "onboard_time": 1676734593,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256681,
+      "num": 256681,
+      "word": "艺考 文化课成绩",
+      "onboard_time": 1676787687,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 253738,
@@ -953,6 +977,14 @@
       "onboard_time": 1676773289,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212790,
+      "num": 212790,
+      "word": "租客跟房东说养宠物结果是匹马",
+      "onboard_time": 1676788167,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210206,
@@ -1155,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163976,
+      "num": 163976,
+      "word": "宋轶购物vlog",
+      "onboard_time": 1676785888,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163968,
       "num": 163968,
       "word": "陈熠3比1王艺迪",
@@ -1193,14 +1233,6 @@
       "onboard_time": 1676771486,
       "rank": 44,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 158155,
-      "num": 150649,
-      "word": "宋轶购物vlog",
-      "onboard_time": 1676785888,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 155755,
@@ -1353,14 +1385,6 @@
       "onboard_time": 1676727810,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 122116,
-      "num": 122116,
-      "word": "艺考 文化课成绩",
-      "onboard_time": 1676787687,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 112719,

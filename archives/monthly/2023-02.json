@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676787766794,
+  "endTime": 1676788645625,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -4619,6 +4619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1152496,
+      "num": 652106,
+      "word": "马云与43年前儿时好友相见",
+      "onboard_time": 1676784449,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1152419,
       "num": 1152419,
       "word": "唐山打人者陈继志名下公司注销",
@@ -4691,6 +4699,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1140705,
+      "num": 1140705,
+      "word": "检出XBB.1.5意味着新一轮发烧开始吗",
+      "onboard_time": 1676783726,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1140438,
       "num": 1140438,
       "word": "吴磊赵今麦捧脸拥抱路透",
@@ -4705,14 +4721,6 @@
       "onboard_time": 1676102066,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1140114,
-      "num": 1140114,
-      "word": "检出XBB.1.5意味着新一轮发烧开始吗",
-      "onboard_time": 1676783726,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1140099,
@@ -4809,14 +4817,6 @@
       "onboard_time": 1676359052,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1129380,
-      "num": 623765,
-      "word": "马云与43年前儿时好友相见",
-      "onboard_time": 1676784449,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 1128757,
@@ -5899,6 +5899,14 @@
       "category": "国外要闻,旅游"
     },
     {
+      "raw_hot": 1000051,
+      "num": 1000051,
+      "word": "杭州一高层住宅爆炸",
+      "onboard_time": 1676785647,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 998039,
       "num": 998039,
       "word": "叙利亚已收到千笔中国捐款",
@@ -6025,6 +6033,14 @@
       "onboard_time": 1675852470,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 980397,
+      "num": 980397,
+      "word": "张新成造型 男女老少",
+      "onboard_time": 1676785166,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 980061,
@@ -6547,14 +6563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 933976,
-      "num": 933976,
-      "word": "杭州一高层住宅爆炸",
-      "onboard_time": 1676785647,
-      "rank": 3,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 933561,
       "num": 933561,
       "word": "宋亚轩二专",
@@ -6705,14 +6713,6 @@
       "onboard_time": 1675246532,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 923107,
-      "num": 923107,
-      "word": "张新成造型 男女老少",
-      "onboard_time": 1676785166,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 922717,
@@ -11795,6 +11795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 620129,
+      "num": 620129,
+      "word": "熊猫香香回国",
+      "onboard_time": 1676786126,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619661,
       "num": 619661,
       "word": "美国脱轨列车上有毒化学品就地排放燃烧",
@@ -15171,14 +15179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 502478,
-      "num": 502478,
-      "word": "熊猫香香回国",
-      "onboard_time": 1676786126,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 502341,
       "num": 502341,
       "word": "大侦探",
@@ -16977,6 +16977,14 @@
       "onboard_time": 1676542293,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 448989,
+      "num": 448989,
+      "word": "刘国梁为电影中国乒乓加油",
+      "onboard_time": 1676787567,
+      "rank": 20,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 448919,
@@ -19091,6 +19099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 400523,
+      "num": 400523,
+      "word": "曾小贤戏推赛巴斯",
+      "onboard_time": 1676785166,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400441,
       "num": 400441,
       "word": "星落凝成糖男二",
@@ -19851,14 +19867,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 386566,
-      "num": 386566,
-      "word": "曾小贤戏推赛巴斯",
-      "onboard_time": 1676785166,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 386551,
       "num": 386551,
       "word": "我都想跟你女朋友谈恋爱了",
@@ -20169,14 +20177,6 @@
       "onboard_time": 1676462250,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378483,
-      "num": 378483,
-      "word": "刘国梁为电影中国乒乓加油",
-      "onboard_time": 1676787567,
-      "rank": 20,
-      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 378235,
@@ -20521,6 +20521,14 @@
       "onboard_time": 1675231530,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371844,
+      "num": 371844,
+      "word": "桃李面包中吃出2厘米带锈刀片",
+      "onboard_time": 1676787987,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371732,
@@ -25435,6 +25443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286346,
+      "num": 286346,
+      "word": "江西3名民辅警查酒驾时被刺身亡",
+      "onboard_time": 1676788228,
+      "rank": 23,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 286319,
       "num": 286319,
       "word": "金巧巧说从来没有暗指满江红排片多",
@@ -27777,6 +27793,14 @@
       "onboard_time": 1675672648,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 256681,
+      "num": 256681,
+      "word": "艺考 文化课成绩",
+      "onboard_time": 1676787687,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 256668,
@@ -31361,6 +31385,14 @@
       "onboard_time": 1675321592,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212790,
+      "num": 212790,
+      "word": "租客跟房东说养宠物结果是匹马",
+      "onboard_time": 1676788167,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212686,
@@ -37075,6 +37107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163976,
+      "num": 163976,
+      "word": "宋轶购物vlog",
+      "onboard_time": 1676785888,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163968,
       "num": 163968,
       "word": "陈熠3比1王艺迪",
@@ -37697,14 +37737,6 @@
       "onboard_time": 1675577907,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 158155,
-      "num": 150649,
-      "word": "宋轶购物vlog",
-      "onboard_time": 1676785888,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 158077,
@@ -40169,14 +40201,6 @@
       "onboard_time": 1675268186,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122116,
-      "num": 122116,
-      "word": "艺考 文化课成绩",
-      "onboard_time": 1676787687,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 122025,
