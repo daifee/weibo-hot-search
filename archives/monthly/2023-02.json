@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676763234988,
+  "endTime": 1676770951857,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1801,6 +1801,14 @@
       "onboard_time": 1675345837,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1905845,
+      "num": 1905845,
+      "word": "上戏明年表演系考生高考须达一本线",
+      "onboard_time": 1676767766,
+      "rank": 0,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1892990,
@@ -3763,6 +3771,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 1264938,
+      "num": 1264938,
+      "word": "美国前总统卡特将开始接受临终关怀",
+      "onboard_time": 1676768063,
+      "rank": 1,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1264762,
       "num": 1264762,
       "word": "香港女子凌晨通关来深圳吃宵夜",
@@ -3808,6 +3824,14 @@
       "word": "王楚然 小说女主",
       "onboard_time": 1676172931,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1256622,
+      "num": 205382,
+      "word": "泰剧床伴",
+      "onboard_time": 1676763320,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -4161,6 +4185,14 @@
       "onboard_time": 1676297020,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1204992,
+      "num": 1204992,
+      "word": "苏打绿宣布正式回归",
+      "onboard_time": 1676764222,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1203786,
@@ -5731,6 +5763,14 @@
       "category": "国外要闻,旅游"
     },
     {
+      "raw_hot": 1000397,
+      "num": 1000397,
+      "word": "婚检应该自愿还是强制",
+      "onboard_time": 1676767285,
+      "rank": 4,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 998039,
       "num": 998039,
       "word": "叙利亚已收到千笔中国捐款",
@@ -6665,6 +6705,14 @@
       "onboard_time": 1675219949,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 907563,
+      "num": 907563,
+      "word": "军队文职",
+      "onboard_time": 1676768488,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 907365,
@@ -8003,6 +8051,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 805542,
+      "num": 805542,
+      "word": "姜广涛",
+      "onboard_time": 1676762657,
+      "rank": 4,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 805301,
       "num": 805301,
       "word": "刘亚仁尿检结果阳性",
@@ -8145,6 +8201,14 @@
       "onboard_time": 1676255786,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 794573,
+      "num": 794573,
+      "word": "美国一工厂雇100余童工通宵工作",
+      "onboard_time": 1676766744,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 793931,
@@ -8683,6 +8747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 754326,
+      "num": 754326,
+      "word": "美甲最好隔20天左右就卸除",
+      "onboard_time": 1676737406,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754153,
       "num": 754153,
       "word": "大理12岁双胞胎兄弟失联已8天",
@@ -8809,14 +8881,6 @@
       "onboard_time": 1675390648,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 745492,
-      "num": 745492,
-      "word": "美甲最好隔20天左右就卸除",
-      "onboard_time": 1676737406,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 745396,
@@ -10233,6 +10297,14 @@
       "onboard_time": 1676038774,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 682307,
+      "num": 205294,
+      "word": "中方将发布政治解决乌克兰危机的中国立场",
+      "onboard_time": 1676769809,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 682190,
@@ -13371,6 +13443,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 549410,
+      "num": 549410,
+      "word": "中方要求美国拿出诚意改正错误",
+      "onboard_time": 1676768063,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 548837,
       "num": 548837,
       "word": "周杰伦昆凌情人节捧花合照",
@@ -16017,14 +16097,6 @@
       "onboard_time": 1675559608,
       "rank": 14,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 466102,
-      "num": 466102,
-      "word": "姜广涛",
-      "onboard_time": 1676762657,
-      "rank": 4,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 466007,
@@ -19435,6 +19507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 387464,
+      "num": 387464,
+      "word": "叙利亚首都一居民楼被导弹击中",
+      "onboard_time": 1676766205,
+      "rank": 14,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 387403,
       "num": 387403,
       "word": "光渊案件",
@@ -20891,6 +20971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353845,
+      "num": 353845,
+      "word": "言承旭腹肌",
+      "onboard_time": 1676763741,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353823,
       "num": 353823,
       "word": "黄子欧皇",
@@ -21795,6 +21883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336705,
+      "num": 336705,
+      "word": "现在的大学生开学",
+      "onboard_time": 1676752572,
+      "rank": 16,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 336524,
       "num": 336524,
       "word": "最强大脑这期又燃又好哭",
@@ -21809,6 +21905,14 @@
       "onboard_time": 1676068514,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 336402,
+      "num": 336402,
+      "word": "男子称买200元螃蟹皮套得占70元",
+      "onboard_time": 1676740582,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336398,
@@ -24249,6 +24353,14 @@
       "onboard_time": 1676447853,
       "rank": 24,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 295069,
+      "num": 295069,
+      "word": "骑士买断乐福",
+      "onboard_time": 1676766804,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 295055,
@@ -26715,6 +26827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263402,
+      "num": 263402,
+      "word": "跪求夏花500T",
+      "onboard_time": 1676768848,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263342,
       "num": 263342,
       "word": "华晨宇白举纲唱逃离地球表面",
@@ -26793,6 +26913,14 @@
       "onboard_time": 1676081484,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262390,
+      "num": 262390,
+      "word": "雨水",
+      "onboard_time": 1676769926,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262140,
@@ -27457,6 +27585,14 @@
       "onboard_time": 1675518630,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252998,
+      "num": 252998,
+      "word": "中国男篮世预赛16人大名单",
+      "onboard_time": 1676770106,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 252997,
@@ -29987,6 +30123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221601,
+      "num": 221601,
+      "word": "网友连线张大大问aespa什么时候回归",
+      "onboard_time": 1676769507,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221506,
       "num": 221506,
       "word": "珀尔特尔被交易至猛龙",
@@ -30867,14 +31011,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 210838,
-      "num": 191495,
-      "word": "男子称买200元螃蟹皮套得占70元",
-      "onboard_time": 1676740582,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210824,
       "num": 210824,
       "word": "张元英演唱会直拍",
@@ -31353,6 +31489,14 @@
       "onboard_time": 1675592609,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204484,
+      "num": 204484,
+      "word": "侯明昊说我的心在她那",
+      "onboard_time": 1676770647,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 204479,
@@ -32179,6 +32323,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 196847,
+      "num": 196847,
+      "word": "夏花删减",
+      "onboard_time": 1676769747,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196526,
       "num": 196526,
       "word": "无畏情人节心动大片",
@@ -32537,6 +32689,14 @@
       "onboard_time": 1675909766,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193261,
+      "num": 183880,
+      "word": "夏花小说",
+      "onboard_time": 1676768787,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 193231,
@@ -33891,6 +34051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183979,
+      "num": 183979,
+      "word": "多地21日起可查考研初试成绩",
+      "onboard_time": 1676769146,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 183978,
       "num": 183978,
       "word": "高启强为何让人恨不起来",
@@ -34465,6 +34633,14 @@
       "onboard_time": 1676426369,
       "rank": 37,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 179043,
+      "num": 179043,
+      "word": "雨水节气意味着什么",
+      "onboard_time": 1676766445,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178965,
@@ -35891,6 +36067,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 167218,
+      "num": 167218,
+      "word": "马斯克称OpenAI违背创办初心",
+      "onboard_time": 1676770291,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 167209,
       "num": 167209,
       "word": "黄龄声音",
@@ -36201,6 +36385,14 @@
       "onboard_time": 1676711487,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164676,
+      "num": 164676,
+      "word": "吴镇宇眼中的刘耀文荣梓杉",
+      "onboard_time": 1676768606,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 164602,
@@ -37091,6 +37283,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 155447,
+      "num": 155447,
+      "word": "半夜下班看到宝宝迷人笑容太治愈了",
+      "onboard_time": 1676762598,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155372,
       "num": 155372,
       "word": "1分钟听见春天的声音",
@@ -37409,6 +37609,14 @@
       "onboard_time": 1675898842,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150904,
+      "num": 150904,
+      "word": "王毅就飞艇事件向美方表明立场",
+      "onboard_time": 1676768667,
+      "rank": 44,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 150874,
@@ -37785,14 +37993,6 @@
       "onboard_time": 1676556272,
       "rank": 49,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 145821,
-      "num": 145821,
-      "word": "现在的大学生开学",
-      "onboard_time": 1676752572,
-      "rank": 16,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 145767,
@@ -38219,6 +38419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139449,
+      "num": 139449,
+      "word": "门兴打拜仁 血脉压制",
+      "onboard_time": 1676765844,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139433,
       "num": 139433,
       "word": "魏晨说他侦探的回忆在枕边跳动",
@@ -38585,6 +38793,14 @@
       "onboard_time": 1675499668,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135206,
+      "num": 135206,
+      "word": "深圳马拉松鸣枪起跑",
+      "onboard_time": 1676770827,
+      "rank": 48,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 134958,
@@ -39081,6 +39297,14 @@
       "onboard_time": 1676659335,
       "rank": 14,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 127327,
+      "num": 127327,
+      "word": "如果文旅局长来一场连麦",
+      "onboard_time": 1676770946,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 127056,
@@ -40537,14 +40761,6 @@
       "onboard_time": 1675166797,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 68821,
-      "num": 68821,
-      "word": "半夜下班看到宝宝迷人笑容太治愈了",
-      "onboard_time": 1676762598,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 68478,
