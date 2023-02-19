@@ -1,0 +1,410 @@
+{
+  "runTime": 1676831780665,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 265605,
+        "num": 265605,
+        "word": "考研成绩",
+        "onboard_time": 1676809533,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 243435,
+        "num": 243435,
+        "word": "杭州两所中小学出现新冠阳性学生",
+        "onboard_time": 1676821231,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 10400,
+        "num": 209373,
+        "word": "跨国企业在中国",
+        "onboard_time": 1676801253,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197417,
+        "num": 197417,
+        "word": "集美大学",
+        "onboard_time": 1676799632,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190212,
+        "num": 190212,
+        "word": "父亲去世哥哥说妹妹没有继承权",
+        "onboard_time": 1676821052,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103958,
+        "num": 103958,
+        "word": "狂飙里的小黄瑶拿了篮球联赛冠军",
+        "onboard_time": 1676818295,
+        "rank": 5,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 97301,
+        "num": 97301,
+        "word": "男子为落户北京让妻子跟别人假结婚",
+        "onboard_time": 1676815113,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 94242,
+        "num": 94242,
+        "word": "饺子怎么也没想到会挨一刀",
+        "onboard_time": 1676825601,
+        "rank": 7,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 93450,
+        "num": 93450,
+        "word": "梅西任意球绝杀",
+        "onboard_time": 1676816194,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92642,
+        "num": 92642,
+        "word": "世界低估了美国全球网络窃密的危害",
+        "onboard_time": 1676821470,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 141496,
+        "num": 92482,
+        "word": "中国台湾联赛大规模冲突",
+        "onboard_time": 1676823087,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139018,
+        "num": 92466,
+        "word": "杨幂漂发了",
+        "onboard_time": 1676802091,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124594,
+        "num": 92354,
+        "word": "每日新增阳性5000例以上",
+        "onboard_time": 1676789727,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92217,
+        "num": 92217,
+        "word": "luna评论宋茜姐姐依旧还是那么美",
+        "onboard_time": 1676815172,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79557,
+        "num": 79557,
+        "word": "长沙旅游真的没有淡季吗",
+        "onboard_time": 1676821470,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 74562,
+        "num": 74562,
+        "word": "言承旭 满40减20",
+        "onboard_time": 1676814512,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72597,
+        "num": 72597,
+        "word": "阿娇哭得好美",
+        "onboard_time": 1676808810,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72312,
+        "num": 72312,
+        "word": "谁教张新成撩头发的",
+        "onboard_time": 1676819792,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71842,
+        "num": 71842,
+        "word": "小朋友问朴宰范可以跟IVE结婚吗",
+        "onboard_time": 1676824164,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71180,
+        "num": 71180,
+        "word": "金子涵跳了LEFTRIGHT",
+        "onboard_time": 1676825123,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66881,
+        "num": 66881,
+        "word": "找工作后才明白的事",
+        "onboard_time": 1676822729,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66473,
+        "num": 66473,
+        "word": "农历二月生的今年能过3次生日",
+        "onboard_time": 1676807487,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63706,
+        "num": 63706,
+        "word": "独生子女能否全部继承父母遗产",
+        "onboard_time": 1676807790,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56685,
+        "num": 56685,
+        "word": "如何看待合肥教授宣扬功利内容",
+        "onboard_time": 1676826500,
+        "rank": 23,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 55251,
+        "num": 55251,
+        "word": "我们穷人的自我修养",
+        "onboard_time": 1676824463,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52281,
+        "num": 52281,
+        "word": "夏花",
+        "onboard_time": 1676814092,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50820,
+        "num": 50820,
+        "word": "这票房还没违约金高",
+        "onboard_time": 1676817695,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50535,
+        "num": 50535,
+        "word": "94岁老人疑遭护工推倒撞地去世",
+        "onboard_time": 1676816614,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 49803,
+        "num": 49803,
+        "word": "梅西刮胡子了",
+        "onboard_time": 1676806350,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49582,
+        "num": 49582,
+        "word": "教育部门要求对陈某某进行调查",
+        "onboard_time": 1676800111,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 200600,
+        "num": 49064,
+        "word": "女子超市买250斤过期大米索赔被殴打",
+        "onboard_time": 1676828598,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 42904,
+        "num": 42904,
+        "word": "官方通报高校教师到中学演讲内容不当",
+        "onboard_time": 1676798129,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 40726,
+        "num": 40726,
+        "word": "内马尔受伤",
+        "onboard_time": 1676813251,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39509,
+        "num": 39509,
+        "word": "女子应聘助理被要求和经理同生活",
+        "onboard_time": 1676803531,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38772,
+        "num": 38772,
+        "word": "白惠承认隐孕入职",
+        "onboard_time": 1676808030,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36951,
+        "num": 36951,
+        "word": "邓超 俞白眉",
+        "onboard_time": 1676810731,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36207,
+        "num": 36207,
+        "word": "剧版三体最初是保密项目",
+        "onboard_time": 1676813670,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32932,
+        "num": 32932,
+        "word": "TTG",
+        "onboard_time": 1676812711,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32536,
+        "num": 32536,
+        "word": "明中严冰be了",
+        "onboard_time": 1676823268,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32487,
+        "num": 32487,
+        "word": "光渊 刺挠",
+        "onboard_time": 1676804852,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31637,
+        "num": 31637,
+        "word": "中国网友偶遇郑敬淏崔秀英",
+        "onboard_time": 1676819852,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28963,
+        "num": 28963,
+        "word": "cpsp 阿宅拉练",
+        "onboard_time": 1676828717,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 28822,
+        "num": 28822,
+        "word": "庐江中学称不会处理抢话筒学生",
+        "onboard_time": 1676800289,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 28764,
+        "num": 28764,
+        "word": "肖战谈直通赛首设混双项目",
+        "onboard_time": 1676811389,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28220,
+        "num": 28220,
+        "word": "王一博无名破9亿剧照",
+        "onboard_time": 1676812295,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28144,
+        "num": 28144,
+        "word": "AG对战TTG",
+        "onboard_time": 1676813731,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25320,
+        "num": 25320,
+        "word": "周也说想要檀健次教唱歌",
+        "onboard_time": 1676822428,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24087,
+        "num": 24087,
+        "word": "TES战胜EDG",
+        "onboard_time": 1676816194,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23135,
+        "num": 23135,
+        "word": "新疆是肉食爱好者的天堂吧",
+        "onboard_time": 1676821290,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22011,
+        "num": 22011,
+        "word": "社会我玲姐 衣服越粉打人越狠",
+        "onboard_time": 1676808455,
+        "rank": 49,
+        "category": "影视,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#藏在节气里的中国传统色#"
+    }
+  }
+}
