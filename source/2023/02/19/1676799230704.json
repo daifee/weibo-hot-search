@@ -1,0 +1,410 @@
+{
+  "runTime": 1676799230704,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3216599,
+        "num": 3216599,
+        "word": "每日新增阳性5000例以上",
+        "onboard_time": 1676789727,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1408774,
+        "num": 1408774,
+        "word": "合肥宣扬功利性内容教授已停课",
+        "onboard_time": 1676794170,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 77854,
+        "num": 1186708,
+        "word": "春雨里的中国美成了一幅画",
+        "onboard_time": 1676777370,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1127041,
+        "num": 1127041,
+        "word": "let me do it for you",
+        "onboard_time": 1676793808,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 840336,
+        "num": 840336,
+        "word": "学生曝食堂勾芡严重菜稀成面条卤子",
+        "onboard_time": 1676790148,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723816,
+        "num": 723816,
+        "word": "桃李面包中吃出2厘米带锈刀片",
+        "onboard_time": 1676787987,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713898,
+        "num": 713898,
+        "word": "浙江彩民中2.4亿元巨奖",
+        "onboard_time": 1676781389,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668105,
+        "num": 668105,
+        "word": "新增确诊病例主要是没阳过的",
+        "onboard_time": 1676792968,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667634,
+        "num": 667634,
+        "word": "官方通报高校教师到中学演讲内容不当",
+        "onboard_time": 1676798129,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 655146,
+        "num": 655146,
+        "word": "刘培强中校 检测到您心率上升请保持理智",
+        "onboard_time": 1676792069,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 727742,
+        "num": 629092,
+        "word": "黄多多双语视频",
+        "onboard_time": 1676794408,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582962,
+        "num": 582962,
+        "word": "中国16岁女孩获网球世界冠军",
+        "onboard_time": 1676795249,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 566960,
+        "num": 566960,
+        "word": "金毛被撞趴地吐血女子救助收养",
+        "onboard_time": 1676797228,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566761,
+        "num": 566761,
+        "word": "肖战wetv2022最佳男主角",
+        "onboard_time": 1676795849,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535031,
+        "num": 535031,
+        "word": "非婚生育将面临哪些困境",
+        "onboard_time": 1676792789,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488691,
+        "num": 488691,
+        "word": "宁艺卓实力",
+        "onboard_time": 1676795129,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387767,
+        "num": 387767,
+        "word": "赵露思wetv2022最佳女主角",
+        "onboard_time": 1676794768,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381120,
+        "num": 381120,
+        "word": "讲座名师遭高中生抢话筒",
+        "onboard_time": 1676795789,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 362827,
+        "num": 362827,
+        "word": "陈宏友回应讲座引不满被高中生反呛",
+        "onboard_time": 1676793090,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 358667,
+        "num": 358667,
+        "word": "租客跟房东说养宠物结果是匹马",
+        "onboard_time": 1676788167,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354542,
+        "num": 354542,
+        "word": "付辛博 爹系",
+        "onboard_time": 1676788826,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323723,
+        "num": 323723,
+        "word": "刘畊宏vivi鼓励大家多亲吻",
+        "onboard_time": 1676797590,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303098,
+        "num": 303098,
+        "word": "何与 卢洋洋",
+        "onboard_time": 1676776469,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286301,
+        "num": 286301,
+        "word": "光渊",
+        "onboard_time": 1676782171,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276627,
+        "num": 276627,
+        "word": "马云与43年前儿时好友相见",
+        "onboard_time": 1676784449,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 248638,
+        "num": 248638,
+        "word": "沈阳三胎家庭每月发放500元补贴",
+        "onboard_time": 1676788708,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248180,
+        "num": 248180,
+        "word": "德国小伙时隔三年回家父母的反应",
+        "onboard_time": 1676796810,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232516,
+        "num": 232516,
+        "word": "熊猫香香回国",
+        "onboard_time": 1676786126,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220951,
+        "num": 220951,
+        "word": "战歌级韩剧OST",
+        "onboard_time": 1676791408,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214443,
+        "num": 214443,
+        "word": "陈宏友",
+        "onboard_time": 1676796508,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 211178,
+        "num": 211178,
+        "word": "如懿传剧组最新合照",
+        "onboard_time": 1676799208,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200949,
+        "num": 200949,
+        "word": "上海中环一车失控翻下高架并起火",
+        "onboard_time": 1676781989,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 199968,
+        "num": 199968,
+        "word": "萨顶顶客串搞笑女",
+        "onboard_time": 1676798252,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193714,
+        "num": 193714,
+        "word": "你闻起来有中国的味道了",
+        "onboard_time": 1676797779,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182779,
+        "num": 182779,
+        "word": "因差几万彩礼新人结婚当天取消婚礼",
+        "onboard_time": 1676798548,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167552,
+        "num": 167552,
+        "word": "LNG对战FPX",
+        "onboard_time": 1676797890,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158083,
+        "num": 158083,
+        "word": "检出XBB.1.5意味着新一轮发烧开始吗",
+        "onboard_time": 1676783726,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157830,
+        "num": 157830,
+        "word": "上戏回应表演系高考须达一本线",
+        "onboard_time": 1676792309,
+        "rank": 37,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 155824,
+        "num": 155824,
+        "word": "全智贤机场风衣穿搭",
+        "onboard_time": 1676799148,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154700,
+        "num": 154700,
+        "word": "渊种",
+        "onboard_time": 1676786006,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148166,
+        "num": 148166,
+        "word": "T1战胜GEN",
+        "onboard_time": 1676798428,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136048,
+        "num": 136048,
+        "word": "吴磊赵今麦牵手饭拍路透",
+        "onboard_time": 1676773708,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131386,
+        "num": 131386,
+        "word": "乔兮鲁班七号三杀",
+        "onboard_time": 1676798789,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128057,
+        "num": 128057,
+        "word": "乌梅子酱是什么神仙味道",
+        "onboard_time": 1676781630,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127314,
+        "num": 127314,
+        "word": "你是我最后一个女人",
+        "onboard_time": 1676775030,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115319,
+        "num": 115319,
+        "word": "宋亚轩我们的客栈跳舞预告",
+        "onboard_time": 1676794529,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115183,
+        "num": 115183,
+        "word": "薛之谦衢州加场",
+        "onboard_time": 1676786067,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106679,
+        "num": 106679,
+        "word": "黄奕第一次演姐弟恋",
+        "onboard_time": 1676797050,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103868,
+        "num": 103868,
+        "word": "沈月在节目里谈分手原因",
+        "onboard_time": 1676773167,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103614,
+        "num": 103614,
+        "word": "无限超越班 恋综",
+        "onboard_time": 1676782109,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#促发展需要做好精准文章#"
+    }
+  }
+}

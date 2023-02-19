@@ -1,6 +1,6 @@
 {
   "startTime": 1676737472725,
-  "endTime": 1676798257498,
+  "endTime": 1676799230704,
   "band_list": [
     {
       "raw_hot": 4088228,
@@ -115,6 +115,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1408774,
+      "num": 1408774,
+      "word": "合肥宣扬功利性内容教授已停课",
+      "onboard_time": 1676794170,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1322379,
       "num": 1322379,
       "word": "新冠高峰后现肝损伤小高峰",
@@ -171,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1164957,
-      "num": 1164957,
-      "word": "合肥宣扬功利性内容教授已停课",
-      "onboard_time": 1676794170,
-      "rank": 30,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 1160768,
       "num": 1082374,
       "word": "中方将发布政治解决乌克兰危机的中国立场",
@@ -201,6 +201,14 @@
       "onboard_time": 1676783726,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1127041,
+      "num": 1127041,
+      "word": "let me do it for you",
+      "onboard_time": 1676793808,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 1091589,
@@ -273,14 +281,6 @@
       "onboard_time": 1676781989,
       "rank": 13,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 971773,
-      "num": 971773,
-      "word": "let me do it for you",
-      "onboard_time": 1676793808,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 966073,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727742,
+      "num": 695046,
+      "word": "黄多多双语视频",
+      "onboard_time": 1676794408,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 717616,
       "num": 717616,
       "word": "教师是否应该统一着装",
@@ -417,14 +425,6 @@
       "onboard_time": 1676786006,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 698575,
-      "num": 695046,
-      "word": "黄多多双语视频",
-      "onboard_time": 1676794408,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 695154,
@@ -449,6 +449,14 @@
       "onboard_time": 1676722950,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 667634,
+      "num": 667634,
+      "word": "官方通报高校教师到中学演讲内容不当",
+      "onboard_time": 1676798129,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 655850,
@@ -515,6 +523,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 582962,
+      "num": 582962,
+      "word": "中国16岁女孩获网球世界冠军",
+      "onboard_time": 1676795249,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 581270,
       "num": 581270,
       "word": "麦克朗扣篮大赛满分",
@@ -523,20 +539,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 566960,
+      "num": 566960,
+      "word": "金毛被撞趴地吐血女子救助收养",
+      "onboard_time": 1676797228,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560732,
       "num": 135711,
       "word": "iPhone14最高降1600元",
       "onboard_time": 1676728592,
       "rank": 41,
       "category": "科技"
-    },
-    {
-      "raw_hot": 557576,
-      "num": 557576,
-      "word": "中国16岁女孩获网球世界冠军",
-      "onboard_time": 1676795249,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 551625,
@@ -731,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381120,
+      "num": 381120,
+      "word": "讲座名师遭高中生抢话筒",
+      "onboard_time": 1676795789,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 380044,
       "num": 377875,
       "word": "光渊",
@@ -763,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371232,
-      "num": 371232,
-      "word": "讲座名师遭高中生抢话筒",
-      "onboard_time": 1676795789,
-      "rank": 47,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 366296,
       "num": 366296,
       "word": "王鹤棣收工后的篮球vlog",
@@ -779,8 +795,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 360609,
-      "num": 360609,
+      "raw_hot": 362827,
+      "num": 362827,
       "word": "陈宏友回应讲座引不满被高中生反呛",
       "onboard_time": 1676793090,
       "rank": 19,
@@ -835,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330716,
-      "num": 330716,
-      "word": "金毛被撞趴地吐血女子救助收养",
-      "onboard_time": 1676797228,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328773,
       "num": 328773,
       "word": "TheShy和Ning碰拳",
@@ -857,6 +865,14 @@
       "onboard_time": 1676776770,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323723,
+      "num": 323723,
+      "word": "刘畊宏vivi鼓励大家多亲吻",
+      "onboard_time": 1676797590,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 319817,
@@ -1075,6 +1091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248180,
+      "num": 248180,
+      "word": "德国小伙时隔三年回家父母的反应",
+      "onboard_time": 1676796810,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248017,
       "num": 248017,
       "word": "唐嫣与江南春雨的美好约定",
@@ -1179,14 +1203,6 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 227070,
-      "num": 227070,
-      "word": "德国小伙时隔三年回家父母的反应",
-      "onboard_time": 1676796810,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224474,
       "num": 224474,
       "word": "侯明昊说我的心在她那",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1676773289,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211178,
+      "num": 211178,
+      "word": "如懿传剧组最新合照",
+      "onboard_time": 1676799208,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 210206,
@@ -1251,6 +1275,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 199968,
+      "num": 199968,
+      "word": "萨顶顶客串搞笑女",
+      "onboard_time": 1676798252,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198137,
       "num": 198137,
       "word": "兔年正月最后一天",
@@ -1265,6 +1297,14 @@
       "onboard_time": 1676722168,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 193714,
+      "num": 193714,
+      "word": "你闻起来有中国的味道了",
+      "onboard_time": 1676797779,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193261,
@@ -1323,14 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185008,
-      "num": 185008,
-      "word": "刘畊宏vivi鼓励大家多亲吻",
-      "onboard_time": 1676797590,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184383,
       "num": 184383,
       "word": "于正说张楠得三月底进组",
@@ -1361,6 +1393,14 @@
       "onboard_time": 1676777370,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 182779,
+      "num": 182779,
+      "word": "因差几万彩礼新人结婚当天取消婚礼",
+      "onboard_time": 1676798548,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181539,
@@ -1417,14 +1457,6 @@
       "onboard_time": 1676728172,
       "rank": 32,
       "category": "动漫,网红"
-    },
-    {
-      "raw_hot": 167404,
-      "num": 167404,
-      "word": "官方通报高校教师到中学演讲内容不当",
-      "onboard_time": 1676798129,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 166225,
@@ -1499,6 +1531,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 155824,
+      "num": 155824,
+      "word": "全智贤机场风衣穿搭",
+      "onboard_time": 1676799148,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155755,
       "num": 155755,
       "word": "雪花东方宏be了",
@@ -1513,14 +1553,6 @@
       "onboard_time": 1676762598,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154501,
-      "num": 154501,
-      "word": "你闻起来有中国的味道了",
-      "onboard_time": 1676797779,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152986,
@@ -1587,6 +1619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148166,
+      "num": 148166,
+      "word": "T1战胜GEN",
+      "onboard_time": 1676798428,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145066,
       "num": 145066,
       "word": "刘耀文的遗憾是不能见证弟弟成长",
@@ -1651,6 +1691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131386,
+      "num": 131386,
+      "word": "乔兮鲁班七号三杀",
+      "onboard_time": 1676798789,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131231,
       "num": 131231,
       "word": "阮流筝提分手",
@@ -1712,14 +1760,6 @@
       "word": "光渊案件",
       "onboard_time": 1676727810,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 121223,
-      "num": 121223,
-      "word": "萨顶顶客串搞笑女",
-      "onboard_time": 1676798252,
-      "rank": 47,
       "category": "影视"
     },
     {
