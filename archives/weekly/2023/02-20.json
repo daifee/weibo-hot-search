@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676831780665,
+  "endTime": 1676834077351,
   "band_list": [
     {
       "raw_hot": 1206592,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 200600,
-      "num": 51774,
+      "num": 61195,
       "word": "女子超市买250斤过期大米索赔被殴打",
       "onboard_time": 1676828598,
       "rank": 30,
@@ -443,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62498,
+      "num": 30540,
+      "word": "日本一男子拉面店舔筷子后放回",
+      "onboard_time": 1676832615,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54832,
       "num": 54832,
       "word": "高叶再次感谢陈书婷",
@@ -481,6 +489,14 @@
       "onboard_time": 1676808455,
       "rank": 47,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 24665,
+      "num": 24665,
+      "word": "虞书欣冷到鹅叫",
+      "onboard_time": 1676833154,
+      "rank": 39,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
