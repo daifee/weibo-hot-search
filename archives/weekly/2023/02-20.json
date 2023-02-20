@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676878430710,
+  "endTime": 1676881530527,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -163,8 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1121137,
-      "num": 1121137,
+      "raw_hot": 1156514,
+      "num": 1156514,
       "word": "徐志胜 双开门腹肌",
       "onboard_time": 1676877209,
       "rank": 11,
@@ -179,20 +179,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1092080,
+      "num": 1092080,
+      "word": "王一博陈烁手上戴着小皮筋",
+      "onboard_time": 1676877991,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1075940,
+      "num": 1075940,
+      "word": "男子记性突然变差竟是感染梅毒20年",
+      "onboard_time": 1676875531,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1068348,
       "num": 1068348,
       "word": "网友韩国偶遇狂飙的安局",
       "onboard_time": 1676872769,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1021210,
-      "num": 1021210,
-      "word": "男子记性突然变差竟是感染梅毒20年",
-      "onboard_time": 1676875531,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1015636,
@@ -217,6 +225,14 @@
       "onboard_time": 1676860709,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 979501,
+      "num": 979501,
+      "word": "弄错试管婴儿医院曾劝导养父要豁达",
+      "onboard_time": 1676876849,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 975681,
@@ -275,6 +291,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 809691,
+      "num": 809691,
+      "word": "A股",
+      "onboard_time": 1676879668,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 791470,
       "num": 791470,
       "word": "王一博张婧仪对手戏花絮视频",
@@ -291,6 +315,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 773358,
+      "num": 773358,
+      "word": "考研查分瞬间太真实了",
+      "onboard_time": 1676875892,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 768039,
       "num": 768039,
       "word": "导演说言承旭拍戏时一直吃水煮菜",
@@ -305,14 +337,6 @@
       "onboard_time": 1676818295,
       "rank": 4,
       "category": "体育,影视"
-    },
-    {
-      "raw_hot": 754198,
-      "num": 754198,
-      "word": "弄错试管婴儿医院曾劝导养父要豁达",
-      "onboard_time": 1676876849,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 738335,
@@ -459,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 591222,
-      "num": 591222,
-      "word": "考研查分瞬间太真实了",
-      "onboard_time": 1676875892,
-      "rank": 15,
-      "category": "教育"
-    },
-    {
       "raw_hot": 589151,
       "num": 589151,
       "word": "EXO和aespa歌曲正在制作中",
@@ -603,14 +619,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 478030,
-      "num": 478030,
-      "word": "王一博陈烁手上戴着小皮筋",
-      "onboard_time": 1676877991,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 474799,
       "num": 474799,
       "word": "刘涛参加米兰时装周",
@@ -625,6 +633,14 @@
       "onboard_time": 1676823087,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 466183,
+      "num": 466183,
+      "word": "优酷在玩一种很新的换乘恋爱",
+      "onboard_time": 1676879852,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 461042,
@@ -643,6 +659,14 @@
       "category": "体育,影视"
     },
     {
+      "raw_hot": 452710,
+      "num": 452710,
+      "word": "比起失去狮子座更怕遗憾",
+      "onboard_time": 1676877811,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 451417,
       "num": 451417,
       "word": "星落凝成糖女主人设",
@@ -657,6 +681,14 @@
       "onboard_time": 1676817695,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 446196,
+      "num": 446196,
+      "word": "不要眼眶一红就觉得人间不值得",
+      "onboard_time": 1676878529,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 444401,
@@ -691,11 +723,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433133,
+      "num": 433133,
+      "word": "大学生毕业论文现状",
+      "onboard_time": 1676879011,
+      "rank": 17,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 432447,
       "num": 432447,
       "word": "梅西任意球绝杀",
       "onboard_time": 1676816194,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 430574,
+      "num": 430574,
+      "word": "林高远",
+      "onboard_time": 1676879552,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -1019,6 +1067,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280493,
+      "num": 280493,
+      "word": "武山一中",
+      "onboard_time": 1676880150,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 278740,
+      "num": 278740,
+      "word": "江湖举人 上野千鹤子",
+      "onboard_time": 1676877751,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 276849,
       "num": 276849,
       "word": "赵又廷你知道你在看什么吗",
@@ -1089,6 +1153,14 @@
       "onboard_time": 1676852970,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250848,
+      "num": 250848,
+      "word": "王智回应角色红人不红",
+      "onboard_time": 1676878529,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250084,
@@ -1187,6 +1259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224951,
+      "num": 224951,
+      "word": "战友女儿患白血病13名官兵捐血小板",
+      "onboard_time": 1676878350,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 222874,
       "num": 222874,
       "word": "洛杉矶火花官宣杨力维加盟",
@@ -1201,6 +1281,14 @@
       "onboard_time": 1676859207,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216304,
+      "num": 216304,
+      "word": "这届大学生是懂表达的",
+      "onboard_time": 1676878287,
+      "rank": 44,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 213478,
@@ -1267,6 +1355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196826,
+      "num": 196826,
+      "word": "钟汉良 我们的客栈",
+      "onboard_time": 1676881408,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196159,
       "num": 196159,
       "word": "李一桐说任何时间苏玖儿都会全力以赴",
@@ -1289,6 +1385,14 @@
       "onboard_time": 1676826500,
       "rank": 20,
       "category": "教育,社会议题"
+    },
+    {
+      "raw_hot": 189444,
+      "num": 189444,
+      "word": "陈星旭李兰迪新浪扫楼",
+      "onboard_time": 1676880032,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 188380,
@@ -1339,14 +1443,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 182790,
-      "num": 182790,
-      "word": "江湖举人 上野千鹤子",
-      "onboard_time": 1676877751,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 179974,
       "num": 179974,
       "word": "北京冬奥结束整整一年了",
@@ -1355,12 +1451,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 179013,
+      "num": 179013,
+      "word": "女子应聘行政被要求24小时陪客户",
+      "onboard_time": 1676879733,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177017,
       "num": 177017,
       "word": "电单车藏匿28台苹果手机走私被查获",
       "onboard_time": 1676859444,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175993,
+      "num": 175993,
+      "word": "你想要什么王者亲密称呼",
+      "onboard_time": 1676881110,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 175895,
@@ -1419,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163878,
+      "num": 163878,
+      "word": "梁靖崑3比1林高远",
+      "onboard_time": 1676880270,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162553,
       "num": 162553,
       "word": "陈宏友称不当演讲事件已向组织汇报",
@@ -1433,6 +1553,14 @@
       "onboard_time": 1676874089,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159732,
+      "num": 159732,
+      "word": "Scout获得周MVP",
+      "onboard_time": 1676879789,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 155834,
@@ -1467,14 +1595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 146266,
-      "num": 146266,
-      "word": "比起失去狮子座更怕遗憾",
-      "onboard_time": 1676877811,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 144328,
       "num": 144328,
       "word": "肖战谈直通赛首设混双项目",
@@ -1489,22 +1609,6 @@
       "onboard_time": 1676820451,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141774,
-      "num": 141774,
-      "word": "这届大学生是懂表达的",
-      "onboard_time": 1676878287,
-      "rank": 44,
-      "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 139145,
-      "num": 139145,
-      "word": "战友女儿患白血病13名官兵捐血小板",
-      "onboard_time": 1676878350,
-      "rank": 45,
-      "category": "军事"
     },
     {
       "raw_hot": 138751,

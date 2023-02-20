@@ -1,0 +1,410 @@
+{
+  "runTime": 1676881530527,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1523849,
+        "num": 1523849,
+        "word": "钟美美哭诉父母离婚原因",
+        "onboard_time": 1676875232,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1156514,
+        "num": 1156514,
+        "word": "徐志胜 双开门腹肌",
+        "onboard_time": 1676877209,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10655,
+        "num": 1092096,
+        "word": "跨国企业在中国",
+        "onboard_time": 1676801253,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1092080,
+        "num": 1092080,
+        "word": "王一博陈烁手上戴着小皮筋",
+        "onboard_time": 1676877991,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1075940,
+        "num": 1075940,
+        "word": "男子记性突然变差竟是感染梅毒20年",
+        "onboard_time": 1676875531,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069326,
+        "num": 1069326,
+        "word": "16岁少女被父母卖掉后出逃",
+        "onboard_time": 1676874988,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979501,
+        "num": 979501,
+        "word": "弄错试管婴儿医院曾劝导养父要豁达",
+        "onboard_time": 1676876849,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809691,
+        "num": 809691,
+        "word": "A股",
+        "onboard_time": 1676879668,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 773358,
+        "num": 773358,
+        "word": "考研查分瞬间太真实了",
+        "onboard_time": 1676875892,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 645644,
+        "num": 645644,
+        "word": "网友韩国偶遇狂飙的安局",
+        "onboard_time": 1676872769,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 577561,
+        "num": 577561,
+        "word": "段小薇",
+        "onboard_time": 1676870075,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532693,
+        "num": 532693,
+        "word": "小龙人贝贝扮演者去世",
+        "onboard_time": 1676868755,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477308,
+        "num": 477308,
+        "word": "桃李面包公告",
+        "onboard_time": 1676871269,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466183,
+        "num": 466183,
+        "word": "优酷在玩一种很新的换乘恋爱",
+        "onboard_time": 1676879852,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 465785,
+        "num": 465785,
+        "word": "官方通报男生进入女生宿舍楼相关事件",
+        "onboard_time": 1676876375,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 452710,
+        "num": 452710,
+        "word": "比起失去狮子座更怕遗憾",
+        "onboard_time": 1676877811,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 446196,
+        "num": 446196,
+        "word": "不要眼眶一红就觉得人间不值得",
+        "onboard_time": 1676878529,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433133,
+        "num": 433133,
+        "word": "大学生毕业论文现状",
+        "onboard_time": 1676879011,
+        "rank": 17,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 430574,
+        "num": 430574,
+        "word": "林高远",
+        "onboard_time": 1676879552,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291234,
+        "num": 291234,
+        "word": "转运头像",
+        "onboard_time": 1676874328,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280493,
+        "num": 280493,
+        "word": "武山一中",
+        "onboard_time": 1676880150,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 280278,
+        "num": 280278,
+        "word": "黑客组织正对中国疯狂实施网络攻击",
+        "onboard_time": 1676867015,
+        "rank": 21,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 278740,
+        "num": 278740,
+        "word": "江湖举人 上野千鹤子",
+        "onboard_time": 1676877751,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250848,
+        "num": 250848,
+        "word": "王智回应角色红人不红",
+        "onboard_time": 1676878529,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239462,
+        "num": 239462,
+        "word": "EXO和aespa歌曲正在制作中",
+        "onboard_time": 1676873188,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224951,
+        "num": 224951,
+        "word": "战友女儿患白血病13名官兵捐血小板",
+        "onboard_time": 1676878350,
+        "rank": 25,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 216304,
+        "num": 216304,
+        "word": "这届大学生是懂表达的",
+        "onboard_time": 1676878287,
+        "rank": 26,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 215330,
+        "num": 215330,
+        "word": "唐朝诡事录第二季将于三月开拍",
+        "onboard_time": 1676871269,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206555,
+        "num": 206555,
+        "word": "不能让她们怕穿碎花裙子",
+        "onboard_time": 1676863768,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203765,
+        "num": 203765,
+        "word": "澳大利亚非法捐精致60个孩子模样相似",
+        "onboard_time": 1676864070,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281735,
+        "num": 201257,
+        "word": "张婧仪古装",
+        "onboard_time": 1676870913,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246251,
+        "num": 200450,
+        "word": "宋茜 代言",
+        "onboard_time": 1676870850,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216934,
+        "num": 200204,
+        "word": "杨紫齐刘海卷发造型",
+        "onboard_time": 1676869474,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196826,
+        "num": 196826,
+        "word": "钟汉良 我们的客栈",
+        "onboard_time": 1676881408,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196425,
+        "num": 196425,
+        "word": "讨厌没有边界感的小猫",
+        "onboard_time": 1676873309,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 189444,
+        "num": 189444,
+        "word": "陈星旭李兰迪新浪扫楼",
+        "onboard_time": 1676880032,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186007,
+        "num": 186007,
+        "word": "爱奇艺客服回应不再限制投屏",
+        "onboard_time": 1676874389,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 179013,
+        "num": 179013,
+        "word": "女子应聘行政被要求24小时陪客户",
+        "onboard_time": 1676879733,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178577,
+        "num": 178577,
+        "word": "王楚钦发烧退赛",
+        "onboard_time": 1676875351,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177625,
+        "num": 177625,
+        "word": "NCT成员将5月solo出道",
+        "onboard_time": 1676875771,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177409,
+        "num": 177409,
+        "word": "桑姓艺人在宣传现场被强制执行",
+        "onboard_time": 1676858427,
+        "rank": 40,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 175993,
+        "num": 175993,
+        "word": "你想要什么王者亲密称呼",
+        "onboard_time": 1676881110,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163878,
+        "num": 163878,
+        "word": "梁靖崑3比1林高远",
+        "onboard_time": 1676880270,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159732,
+        "num": 159732,
+        "word": "Scout获得周MVP",
+        "onboard_time": 1676879789,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159710,
+        "num": 159710,
+        "word": "女子13岁被拐生子人贩子获刑12年",
+        "onboard_time": 1676866173,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155113,
+        "num": 155113,
+        "word": "迪丽热巴诉网友侵权案将开庭",
+        "onboard_time": 1676869655,
+        "rank": 45,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 154710,
+        "num": 154710,
+        "word": "SMTOWN上半年活动计划",
+        "onboard_time": 1676876013,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154477,
+        "num": 154477,
+        "word": "她的小梨涡开机",
+        "onboard_time": 1676864732,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150799,
+        "num": 150799,
+        "word": "李荣浩郑州演唱会",
+        "onboard_time": 1676875048,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148428,
+        "num": 148428,
+        "word": "亚马逊要求员工一周到岗工作3天",
+        "onboard_time": 1676866291,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#藏在节气里的中国传统色#"
+    }
+  }
+}
