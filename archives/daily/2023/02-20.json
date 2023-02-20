@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676874307038,
+  "endTime": 1676875184704,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -203,6 +203,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 856658,
+      "num": 546189,
+      "word": "网友韩国偶遇狂飙的安局",
+      "onboard_time": 1676872769,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 839378,
       "num": 558129,
       "word": "宋茜 代言",
@@ -329,14 +337,6 @@
       "onboard_time": 1676852610,
       "rank": 6,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 658904,
-      "num": 546189,
-      "word": "网友韩国偶遇狂飙的安局",
-      "onboard_time": 1676872769,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 656772,
@@ -739,6 +739,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 363494,
+      "num": 363494,
+      "word": "讨厌没有边界感的小猫",
+      "onboard_time": 1676873309,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 360246,
       "num": 360246,
       "word": "行驶中小车后备箱塞人露双脚",
@@ -947,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266500,
+      "num": 239463,
+      "word": "李荣浩郑州演唱会",
+      "onboard_time": 1676875048,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 263088,
       "num": 263088,
       "word": "YG新女团成员ASA介绍视频",
@@ -1051,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231979,
-      "num": 231979,
-      "word": "讨厌没有边界感的小猫",
-      "onboard_time": 1676873309,
-      "rank": 34,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 228367,
       "num": 228367,
       "word": "明中严冰be了",
@@ -1107,6 +1115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208606,
+      "num": 208606,
+      "word": "开学晒被子",
+      "onboard_time": 1676874449,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207132,
       "num": 207132,
       "word": "你会二刷显微镜下的大明吗",
@@ -1147,11 +1163,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195192,
+      "num": 195192,
+      "word": "爱奇艺客服回应不再限制投屏",
+      "onboard_time": 1676874389,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 195172,
       "num": 195172,
       "word": "邢菲武庚纪蓝白长裙路透",
       "onboard_time": 1676868254,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190775,
+      "num": 190775,
+      "word": "黄奕夏花吻戏",
+      "onboard_time": 1676875048,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -1227,12 +1259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175895,
+      "num": 175895,
+      "word": "何洁黄雅莉做客快乐再出发",
+      "onboard_time": 1676874510,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174905,
       "num": 174905,
       "word": "内马尔受伤",
       "onboard_time": 1676813251,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174581,
+      "num": 174581,
+      "word": "转运头像",
+      "onboard_time": 1676874328,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 170092,
@@ -1267,12 +1315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162553,
+      "num": 162553,
+      "word": "陈宏友称不当演讲事件已向组织汇报",
+      "onboard_time": 1676873788,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 161351,
       "num": 161351,
       "word": "吴宣仪粉黑外套造型机场路透",
       "onboard_time": 1676874089,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 160610,
+      "num": 160610,
+      "word": "16岁少女被父母卖掉后出逃",
+      "onboard_time": 1676874988,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155834,
@@ -1305,14 +1369,6 @@
       "onboard_time": 1676860109,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 150154,
-      "num": 150154,
-      "word": "陈宏友称不当演讲事件已向组织汇报",
-      "onboard_time": 1676873788,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 144328,
