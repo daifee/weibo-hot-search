@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676917408052,
+  "endTime": 1676918263816,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -45419,20 +45419,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34380,
+      "num": 34380,
+      "word": "当我开始给妆容做减法",
+      "onboard_time": 1676916076,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 33516,
       "num": 217448,
       "word": "饿了么免单鱼档出题",
       "onboard_time": 1676692827,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 33245,
-      "num": 33245,
-      "word": "当我开始给妆容做减法",
-      "onboard_time": 1676916076,
-      "rank": 35,
-      "category": "美妆"
     },
     {
       "raw_hot": 32361,

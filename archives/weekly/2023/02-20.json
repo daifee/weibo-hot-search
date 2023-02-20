@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676917408052,
+  "endTime": 1676918263816,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -2739,20 +2739,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 34380,
+      "num": 34380,
+      "word": "当我开始给妆容做减法",
+      "onboard_time": 1676916076,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 33598,
       "num": 1804395,
       "word": "跨国企业在中国",
       "onboard_time": 1676801253,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33245,
-      "num": 33245,
-      "word": "当我开始给妆容做减法",
-      "onboard_time": 1676916076,
-      "rank": 35,
-      "category": "美妆"
     },
     {
       "raw_hot": 24512,

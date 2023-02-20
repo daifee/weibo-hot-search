@@ -1,0 +1,410 @@
+{
+  "runTime": 1676918263816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 312071,
+        "num": 312071,
+        "word": "茶颜悦色取消小程序线上点单自取",
+        "onboard_time": 1676910145,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198000,
+        "num": 198000,
+        "word": "官方回应四川大学内挖出人的遗体",
+        "onboard_time": 1676899530,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7652,
+        "num": 161368,
+        "word": "走进区域看发展",
+        "onboard_time": 1676900011,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136830,
+        "num": 136830,
+        "word": "主人被抓走后狗狗的反应",
+        "onboard_time": 1676912000,
+        "rank": 3,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 135714,
+        "num": 135714,
+        "word": "女孩知道一年学费5万哭成泪人",
+        "onboard_time": 1676897309,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 109186,
+        "num": 109186,
+        "word": "如何看待异地恋接吻神器",
+        "onboard_time": 1676907988,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107740,
+        "num": 107740,
+        "word": "这一届考研人有多难",
+        "onboard_time": 1676890534,
+        "rank": 6,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 98363,
+        "num": 98363,
+        "word": "山东人均身高1米8实锤了",
+        "onboard_time": 1676904034,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83904,
+        "num": 83904,
+        "word": "日本66%的高端外国人才是中国人",
+        "onboard_time": 1676901089,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67025,
+        "num": 67025,
+        "word": "中国乒乓票房",
+        "onboard_time": 1676895928,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126316,
+        "num": 66113,
+        "word": "Mayumi官宣恋情",
+        "onboard_time": 1676893771,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 64612,
+        "num": 64612,
+        "word": "这是在厕所里安了张床吧",
+        "onboard_time": 1676906371,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61801,
+        "num": 61801,
+        "word": "权珉娥兼职陪聊被诈骗1500万韩元",
+        "onboard_time": 1676899410,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60101,
+        "num": 60101,
+        "word": "姜广涛",
+        "onboard_time": 1676904513,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56583,
+        "num": 56583,
+        "word": "考研查到满意分数时的真实反应",
+        "onboard_time": 1676895451,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 52201,
+        "num": 52201,
+        "word": "复旦团队发布国内首个类ChatGPT模型MOSS",
+        "onboard_time": 1676903012,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 52085,
+        "num": 52085,
+        "word": "妇联回应16岁少女被父母卖掉后出逃",
+        "onboard_time": 1676902173,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49323,
+        "num": 49323,
+        "word": "减肥人的自律时刻",
+        "onboard_time": 1676908587,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47872,
+        "num": 47872,
+        "word": "黄冈回应一问三不知主任有新职",
+        "onboard_time": 1676901930,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47460,
+        "num": 47460,
+        "word": "宋雨琦参加米兰时装周",
+        "onboard_time": 1676907748,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147613,
+        "num": 45696,
+        "word": "王智是忘了切号吗",
+        "onboard_time": 1676890049,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73443,
+        "num": 44767,
+        "word": "长肉芽凝胶",
+        "onboard_time": 1676897731,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43769,
+        "num": 43769,
+        "word": "夏花",
+        "onboard_time": 1676902652,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41067,
+        "num": 41067,
+        "word": "烹食大白鲨网红短视频平台复出",
+        "onboard_time": 1676896050,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38526,
+        "num": 38526,
+        "word": "文旅局长零下20度穿长裙代言家乡",
+        "onboard_time": 1676902295,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37707,
+        "num": 37707,
+        "word": "上野千鹤子 戴锦华",
+        "onboard_time": 1676890290,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37512,
+        "num": 37512,
+        "word": "水哥变帅了",
+        "onboard_time": 1676884649,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36070,
+        "num": 36070,
+        "word": "孙俪 保佑我不要一紧张拉出猪叫",
+        "onboard_time": 1676892151,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35368,
+        "num": 35368,
+        "word": "拜登已离开基辅",
+        "onboard_time": 1676900451,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 34380,
+        "num": 34380,
+        "word": "当我开始给妆容做减法",
+        "onboard_time": 1676916076,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 50264,
+        "num": 34246,
+        "word": "光渊把朴彩英照片P到剧中",
+        "onboard_time": 1676896826,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33785,
+        "num": 33785,
+        "word": "周深机场签名被反送张颂文签名照",
+        "onboard_time": 1676898930,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33380,
+        "num": 33380,
+        "word": "点燃我温暖你韩国开播",
+        "onboard_time": 1676902414,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31551,
+        "num": 31551,
+        "word": "星落凝成糖",
+        "onboard_time": 1676906070,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29252,
+        "num": 29252,
+        "word": "王楚然长了麦粒肿",
+        "onboard_time": 1676889271,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28132,
+        "num": 28132,
+        "word": "虞书欣穿棉裤上班",
+        "onboard_time": 1676893408,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27433,
+        "num": 27433,
+        "word": "王楚钦肖战加班训练",
+        "onboard_time": 1676904994,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26640,
+        "num": 26640,
+        "word": "深圳一楼盘送60万首付",
+        "onboard_time": 1676887111,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 26383,
+        "num": 26383,
+        "word": "这深蹲有点费猫",
+        "onboard_time": 1676906850,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26051,
+        "num": 26051,
+        "word": "赵露思2022wetv最佳女主感言",
+        "onboard_time": 1676904934,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25971,
+        "num": 25971,
+        "word": "郭帆说流浪地球3大纲就快被套出来了",
+        "onboard_time": 1676895690,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25476,
+        "num": 25476,
+        "word": "黄奕新剧身材",
+        "onboard_time": 1676899593,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24284,
+        "num": 24284,
+        "word": "乌梅子酱到底是什么酱",
+        "onboard_time": 1676897129,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 23947,
+        "num": 23947,
+        "word": "想去武汉体验一把过早",
+        "onboard_time": 1676901271,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 23754,
+        "num": 23754,
+        "word": "毛林林恭喜谭雅离婚",
+        "onboard_time": 1676896650,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23661,
+        "num": 23661,
+        "word": "东奥崩了",
+        "onboard_time": 1676899892,
+        "rank": 45,
+        "category": "科技,教育"
+      },
+      {
+        "raw_hot": 22806,
+        "num": 22806,
+        "word": "朱志鑫翻唱youth",
+        "onboard_time": 1676910802,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21633,
+        "num": 21633,
+        "word": "多地21日起可查考研初试成绩",
+        "onboard_time": 1676769146,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 21011,
+        "num": 21011,
+        "word": "易烊千玺提醒大家关注消防安全",
+        "onboard_time": 1676887890,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20657,
+        "num": 20657,
+        "word": "郑恺说自己是小区罗纳尔多",
+        "onboard_time": 1676903615,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#不负春光一起出发#"
+    }
+  }
+}
