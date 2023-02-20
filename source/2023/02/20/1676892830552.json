@@ -1,0 +1,410 @@
+{
+  "runTime": 1676892830552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1567901,
+        "num": 1567901,
+        "word": "拜登抵达基辅",
+        "onboard_time": 1676887589,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 973167,
+        "num": 973167,
+        "word": "水哥变帅了",
+        "onboard_time": 1676884649,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13441,
+        "num": 884761,
+        "word": "跨国企业在中国",
+        "onboard_time": 1676801253,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030173,
+        "num": 865597,
+        "word": "16岁少女被父母卖掉后出逃",
+        "onboard_time": 1676874988,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825828,
+        "num": 825828,
+        "word": "对疫情一问三不知主任已有新职务",
+        "onboard_time": 1676884110,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816751,
+        "num": 816751,
+        "word": "这一届考研人有多难",
+        "onboard_time": 1676890534,
+        "rank": 5,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 761790,
+        "num": 761790,
+        "word": "深圳一楼盘送60万首付",
+        "onboard_time": 1676887111,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 707919,
+        "num": 707919,
+        "word": "杨洋 出演北上",
+        "onboard_time": 1676890049,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 674675,
+        "num": 674675,
+        "word": "杨紫诉医美公司侵权案将开庭",
+        "onboard_time": 1676886451,
+        "rank": 8,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 663298,
+        "num": 663298,
+        "word": "异地恋接吻神器你会买吗",
+        "onboard_time": 1676882008,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 2106245,
+        "num": 656177,
+        "word": "王智是忘了切号吗",
+        "onboard_time": 1676890049,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645394,
+        "num": 645394,
+        "word": "王楚然长了麦粒肿",
+        "onboard_time": 1676889271,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593011,
+        "num": 593011,
+        "word": "孙俪 保佑我不要一紧张拉出猪叫",
+        "onboard_time": 1676892151,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534115,
+        "num": 534115,
+        "word": "易烊千玺提醒大家关注消防安全",
+        "onboard_time": 1676887890,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481140,
+        "num": 481140,
+        "word": "上野千鹤子 戴锦华",
+        "onboard_time": 1676890290,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478408,
+        "num": 478408,
+        "word": "遭学生抢话筒教授称将深刻反思",
+        "onboard_time": 1676886933,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 443381,
+        "num": 443381,
+        "word": "钟美美哭诉父母离婚原因",
+        "onboard_time": 1676875232,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438363,
+        "num": 438363,
+        "word": "这螺蛳粉真的非吃不可吗",
+        "onboard_time": 1676885490,
+        "rank": 17,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 434550,
+        "num": 434550,
+        "word": "拜登称将向乌克兰提供5亿美元援助",
+        "onboard_time": 1676890710,
+        "rank": 18,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 418410,
+        "num": 418410,
+        "word": "孔雪儿西藏布达拉宫随拍",
+        "onboard_time": 1676888251,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401043,
+        "num": 401043,
+        "word": "时代少年团站姐图真实距离",
+        "onboard_time": 1676888731,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387423,
+        "num": 387423,
+        "word": "王一博陈烁手上戴着小皮筋",
+        "onboard_time": 1676877991,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 374755,
+        "num": 374755,
+        "word": "拜登与泽连斯基会面",
+        "onboard_time": 1676890890,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 331768,
+        "num": 331768,
+        "word": "洛音凡杀死重紫",
+        "onboard_time": 1676892270,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304822,
+        "num": 304822,
+        "word": "弄错试管婴儿医院曾劝导养父要豁达",
+        "onboard_time": 1676876849,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297734,
+        "num": 297734,
+        "word": "著名女团成员作为证人被传唤",
+        "onboard_time": 1676882248,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295904,
+        "num": 295904,
+        "word": "考研查分瞬间太真实了",
+        "onboard_time": 1676875892,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 287894,
+        "num": 287894,
+        "word": "男子记性突然变差竟是感染梅毒20年",
+        "onboard_time": 1676875531,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286583,
+        "num": 286583,
+        "word": "XYG回应粉丝",
+        "onboard_time": 1676889332,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280577,
+        "num": 280577,
+        "word": "徐志胜 双开门腹肌",
+        "onboard_time": 1676877209,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264156,
+        "num": 264156,
+        "word": "常州一学院已申请远程接吻专利",
+        "onboard_time": 1676892088,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259496,
+        "num": 259496,
+        "word": "上野千鹤子",
+        "onboard_time": 1676885851,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 245939,
+        "num": 245939,
+        "word": "游戏代练恶意毁号判赔4.6万元",
+        "onboard_time": 1676883150,
+        "rank": 32,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 204238,
+        "num": 204238,
+        "word": "深圳再现排队抢房",
+        "onboard_time": 1676889151,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 197014,
+        "num": 197014,
+        "word": "比起失去狮子座更怕遗憾",
+        "onboard_time": 1676877811,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193837,
+        "num": 193837,
+        "word": "劳伦斯年度最佳女运动员提名公布",
+        "onboard_time": 1676890648,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190315,
+        "num": 190315,
+        "word": "网友韩国偶遇狂飙的安局",
+        "onboard_time": 1676872769,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189778,
+        "num": 189778,
+        "word": "米兰时装周",
+        "onboard_time": 1676885372,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 186991,
+        "num": 186991,
+        "word": "克拉棒",
+        "onboard_time": 1676884290,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181473,
+        "num": 181473,
+        "word": "A股",
+        "onboard_time": 1676879668,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176671,
+        "num": 176671,
+        "word": "段小薇",
+        "onboard_time": 1676870075,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174840,
+        "num": 174840,
+        "word": "杨蓉妆前妆后随拍",
+        "onboard_time": 1676891608,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173995,
+        "num": 173995,
+        "word": "满40减20男星",
+        "onboard_time": 1676888132,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156397,
+        "num": 156397,
+        "word": "煮面条最合适的量",
+        "onboard_time": 1676892568,
+        "rank": 43,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 154785,
+        "num": 154785,
+        "word": "女子应聘行政被要求24小时陪客户",
+        "onboard_time": 1676879733,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144894,
+        "num": 144894,
+        "word": "梅西姆巴佩获劳伦斯年度最佳男运动员提名",
+        "onboard_time": 1676892748,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143174,
+        "num": 143174,
+        "word": "桃李面包公告",
+        "onboard_time": 1676871269,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142824,
+        "num": 142824,
+        "word": "钟汉良 我们的客栈",
+        "onboard_time": 1676881408,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137993,
+        "num": 137993,
+        "word": "不要眼眶一红就觉得人间不值得",
+        "onboard_time": 1676878529,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137742,
+        "num": 137742,
+        "word": "小龙人贝贝扮演者去世",
+        "onboard_time": 1676868755,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#不负春光一起出发#"
+    }
+  }
+}

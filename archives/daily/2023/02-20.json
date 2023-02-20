@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676891768816,
+  "endTime": 1676892830552,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -59,8 +59,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 2027651,
-      "num": 588745,
+      "raw_hot": 2106245,
+      "num": 656177,
       "word": "王智是忘了切号吗",
       "onboard_time": 1676890049,
       "rank": 10,
@@ -371,6 +371,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 816751,
+      "num": 816751,
+      "word": "这一届考研人有多难",
+      "onboard_time": 1676890534,
+      "rank": 15,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 809691,
       "num": 809691,
       "word": "A股",
@@ -427,20 +435,20 @@
       "category": "体育,影视"
     },
     {
+      "raw_hot": 761790,
+      "num": 761790,
+      "word": "深圳一楼盘送60万首付",
+      "onboard_time": 1676887111,
+      "rank": 16,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 756388,
       "num": 756388,
       "word": "杨洋 出演北上",
       "onboard_time": 1676890049,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 743129,
-      "num": 743129,
-      "word": "深圳一楼盘送60万首付",
-      "onboard_time": 1676887111,
-      "rank": 16,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 738335,
@@ -539,6 +547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 645394,
+      "num": 645394,
+      "word": "王楚然长了麦粒肿",
+      "onboard_time": 1676889271,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644346,
       "num": 644346,
       "word": "詹姆斯对美娜秀中文",
@@ -587,14 +603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 597332,
-      "num": 587869,
-      "word": "王楚然长了麦粒肿",
-      "onboard_time": 1676889271,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 596991,
       "num": 535671,
       "word": "于正曾和许凯说有机会要跟杨紫合作",
@@ -609,6 +617,14 @@
       "onboard_time": 1676879011,
       "rank": 17,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 593011,
+      "num": 593011,
+      "word": "孙俪 保佑我不要一紧张拉出猪叫",
+      "onboard_time": 1676892151,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 589151,
@@ -795,20 +811,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 481140,
+      "num": 481140,
+      "word": "上野千鹤子 戴锦华",
+      "onboard_time": 1676890290,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480439,
       "num": 480439,
       "word": "孔雪儿西藏布达拉宫随拍",
       "onboard_time": 1676888251,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 475997,
-      "num": 475997,
-      "word": "这一届考研人有多难",
-      "onboard_time": 1676890534,
-      "rank": 15,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 475923,
@@ -907,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434550,
+      "num": 434550,
+      "word": "拜登称将向乌克兰提供5亿美元援助",
+      "onboard_time": 1676890710,
+      "rank": 27,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 432447,
       "num": 432447,
       "word": "梅西任意球绝杀",
@@ -961,6 +985,14 @@
       "onboard_time": 1676865392,
       "rank": 22,
       "category": "动漫,社会新闻"
+    },
+    {
+      "raw_hot": 401043,
+      "num": 401043,
+      "word": "时代少年团站姐图真实距离",
+      "onboard_time": 1676888731,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 400523,
@@ -1027,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 374755,
+      "num": 374755,
+      "word": "拜登与泽连斯基会面",
+      "onboard_time": 1676890890,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 374626,
       "num": 374626,
       "word": "塔图姆55分创全明星纪录",
@@ -1043,28 +1083,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 371448,
-      "num": 371448,
-      "word": "上野千鹤子 戴锦华",
-      "onboard_time": 1676890290,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 371000,
       "num": 371000,
       "word": "儿子患癌丈夫伤残女子跑外卖扛起家",
       "onboard_time": 1676863347,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369127,
-      "num": 369127,
-      "word": "时代少年团站姐图真实距离",
-      "onboard_time": 1676888731,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 369116,
@@ -1123,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352790,
-      "num": 352790,
-      "word": "拜登与泽连斯基会面",
-      "onboard_time": 1676890890,
-      "rank": 23,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 345743,
       "num": 345743,
       "word": "内地与澳门驾驶证互认换领",
@@ -1187,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331768,
+      "num": 331768,
+      "word": "洛音凡杀死重紫",
+      "onboard_time": 1676892270,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331379,
       "num": 331379,
       "word": "NBA全明星",
@@ -1209,14 +1233,6 @@
       "onboard_time": 1676883329,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 327374,
-      "num": 327374,
-      "word": "拜登称将向乌克兰提供5亿美元援助",
-      "onboard_time": 1676890710,
-      "rank": 27,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 324902,
@@ -1401,6 +1417,14 @@
       "onboard_time": 1676875048,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 264156,
+      "num": 264156,
+      "word": "常州一学院已申请远程接吻专利",
+      "onboard_time": 1676892088,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263088,
@@ -1803,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174840,
+      "num": 174840,
+      "word": "杨蓉妆前妆后随拍",
+      "onboard_time": 1676891608,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170092,
       "num": 170092,
       "word": "饺子怎么也没想到会挨一刀",
@@ -1883,6 +1915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156397,
+      "num": 156397,
+      "word": "煮面条最合适的量",
+      "onboard_time": 1676892568,
+      "rank": 43,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 155834,
       "num": 155834,
       "word": "白惠承认隐孕入职",
@@ -1923,20 +1963,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 144894,
+      "num": 144894,
+      "word": "梅西姆巴佩获劳伦斯年度最佳男运动员提名",
+      "onboard_time": 1676892748,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144328,
       "num": 144328,
       "word": "肖战谈直通赛首设混双项目",
       "onboard_time": 1676811389,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143307,
-      "num": 143307,
-      "word": "杨蓉妆前妆后随拍",
-      "onboard_time": 1676891608,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 142286,
