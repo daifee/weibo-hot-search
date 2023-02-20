@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676875184704,
+  "endTime": 1676877474559,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1762958,
+      "num": 1762958,
+      "word": "钟美美哭诉父母离婚原因",
+      "onboard_time": 1676875232,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1729713,
       "num": 1729713,
       "word": "医院回应试管婴儿被弄错",
@@ -105,6 +113,14 @@
       "onboard_time": 1676864311,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1354691,
+      "num": 1143585,
+      "word": "16岁少女被父母卖掉后出逃",
+      "onboard_time": 1676874988,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1337519,
@@ -155,6 +171,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1068348,
+      "num": 1068348,
+      "word": "网友韩国偶遇狂飙的安局",
+      "onboard_time": 1676872769,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1015636,
       "num": 1015636,
       "word": "肖战诉网友侵权案将开庭",
@@ -203,12 +227,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 856658,
-      "num": 546189,
-      "word": "网友韩国偶遇狂飙的安局",
-      "onboard_time": 1676872769,
-      "rank": 12,
-      "category": "影视"
+      "raw_hot": 887176,
+      "num": 462431,
+      "word": "男子记性突然变差竟是感染梅毒20年",
+      "onboard_time": 1676875531,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 839378,
@@ -451,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 554548,
+      "num": 554548,
+      "word": "王楚钦发烧退赛",
+      "onboard_time": 1676875351,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 553497,
       "num": 553497,
       "word": "陈戌源曾劝李铁退还武汉长江4800万",
@@ -489,6 +521,14 @@
       "onboard_time": 1676789727,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520402,
+      "num": 460968,
+      "word": "徐志胜 双开门腹肌",
+      "onboard_time": 1676877209,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 503851,
@@ -545,6 +585,14 @@
       "onboard_time": 1676823087,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 467186,
+      "num": 467186,
+      "word": "转运头像",
+      "onboard_time": 1676874328,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 461042,
@@ -643,6 +691,14 @@
       "category": "动漫,社会新闻"
     },
     {
+      "raw_hot": 409045,
+      "num": 409045,
+      "word": "考研查分瞬间太真实了",
+      "onboard_time": 1676875892,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 400523,
       "num": 400523,
       "word": "薛之谦 加场",
@@ -731,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 367946,
+      "num": 367946,
+      "word": "讨厌没有边界感的小猫",
+      "onboard_time": 1676873309,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 367219,
       "num": 367219,
       "word": "男子为挽回感情酒后烧了女友家",
@@ -739,12 +803,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 363494,
-      "num": 363494,
-      "word": "讨厌没有边界感的小猫",
-      "onboard_time": 1676873309,
-      "rank": 34,
-      "category": "幽默,情感"
+      "raw_hot": 364495,
+      "num": 364495,
+      "word": "官方通报男生进入女生宿舍楼相关事件",
+      "onboard_time": 1676876375,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 360246,
@@ -811,11 +875,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 328536,
+      "num": 328536,
+      "word": "爱奇艺客服回应不再限制投屏",
+      "onboard_time": 1676874389,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 324902,
+      "num": 324902,
+      "word": "NCT成员将5月solo出道",
+      "onboard_time": 1676875771,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324895,
       "num": 324895,
       "word": "情绪不好或导致胃胀胃痛",
       "onboard_time": 1676866173,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321852,
+      "num": 321852,
+      "word": "弄错试管婴儿医院曾劝导养父要豁达",
+      "onboard_time": 1676876849,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -995,6 +1083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250084,
+      "num": 250084,
+      "word": "黄奕夏花吻戏",
+      "onboard_time": 1676875048,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250081,
       "num": 250081,
       "word": "龙形天象将出现在夜空",
@@ -1107,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212382,
+      "num": 212382,
+      "word": "SMTOWN上半年活动计划",
+      "onboard_time": 1676876013,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210227,
       "num": 210227,
       "word": "TTG",
@@ -1163,27 +1267,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195192,
-      "num": 195192,
-      "word": "爱奇艺客服回应不再限制投屏",
-      "onboard_time": 1676874389,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 195172,
       "num": 195172,
       "word": "邢菲武庚纪蓝白长裙路透",
       "onboard_time": 1676868254,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 190775,
-      "num": 190775,
-      "word": "黄奕夏花吻戏",
-      "onboard_time": 1676875048,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -1275,14 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174581,
-      "num": 174581,
-      "word": "转运头像",
-      "onboard_time": 1676874328,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 170092,
       "num": 170092,
       "word": "饺子怎么也没想到会挨一刀",
@@ -1329,14 +1409,6 @@
       "onboard_time": 1676874089,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 160610,
-      "num": 160610,
-      "word": "16岁少女被父母卖掉后出逃",
-      "onboard_time": 1676874988,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155834,
@@ -1393,6 +1465,14 @@
       "onboard_time": 1676824463,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138726,
+      "num": 138726,
+      "word": "疑似宋威龙超载",
+      "onboard_time": 1676876789,
+      "rank": 49,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 134375,
