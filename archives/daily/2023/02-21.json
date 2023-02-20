@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676918263816,
+  "endTime": 1676920498345,
   "band_list": [
     {
       "raw_hot": 1212960,
@@ -417,6 +417,14 @@
       "onboard_time": 1676892151,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36000,
+      "num": 36000,
+      "word": "动物园免费3千动物1天看几万游客",
+      "onboard_time": 1676918834,
+      "rank": 19,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 34380,
