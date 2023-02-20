@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676867017379,
+  "endTime": 1676867950617,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -11,15 +11,15 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 3656462,
-      "num": 3656462,
+      "raw_hot": 3878918,
+      "num": 3878918,
       "word": "非法捐精致60个孩子模样相似",
       "onboard_time": 1676864070,
       "rank": 33,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2565491,
+      "raw_hot": 2810740,
       "num": 2565491,
       "word": "新冠",
       "onboard_time": 1676861547,
@@ -67,6 +67,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1457199,
+      "num": 1457199,
+      "word": "桑欣然",
+      "onboard_time": 1676865694,
+      "rank": 6,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1376668,
       "num": 1376668,
       "word": "Angelababy马天宇对视剧照",
@@ -89,14 +97,6 @@
       "onboard_time": 1676851827,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1220689,
-      "num": 1220689,
-      "word": "桑欣然",
-      "onboard_time": 1676865694,
-      "rank": 6,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1161865,
@@ -131,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 975681,
+      "num": 975681,
+      "word": "不能让她们怕穿碎花裙子",
+      "onboard_time": 1676863768,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 969067,
       "num": 969067,
       "word": "唐嫣谢娜李维嘉现身支持张杰话剧",
@@ -145,6 +153,14 @@
       "onboard_time": 1676843232,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 889184,
+      "num": 889184,
+      "word": "女子13岁被拐生子人贩子获刑12年",
+      "onboard_time": 1676866173,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 835814,
@@ -171,11 +187,11 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 794586,
-      "num": 794586,
-      "word": "不能让她们怕穿碎花裙子",
-      "onboard_time": 1676863768,
-      "rank": 27,
+      "raw_hot": 791470,
+      "num": 791470,
+      "word": "王一博张婧仪对手戏花絮视频",
+      "onboard_time": 1676867495,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -227,6 +243,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 672948,
+      "num": 672948,
+      "word": "亚马逊要求员工一周到岗工作3天",
+      "onboard_time": 1676866291,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 656772,
       "num": 656772,
       "word": "迪士尼宣布阿凡达2票房超泰坦尼克号",
@@ -241,6 +265,14 @@
       "onboard_time": 1676799632,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 646053,
+      "num": 646053,
+      "word": "考研人的脑子已经被这些BGM占领",
+      "onboard_time": 1676864912,
+      "rank": 14,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 644346,
@@ -267,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610640,
+      "num": 610640,
+      "word": "粉丝为王鹤棣虞书欣挂同心锁",
+      "onboard_time": 1676865392,
+      "rank": 21,
+      "category": "艺人,影视"
+    },
+    {
       "raw_hot": 600937,
       "num": 600937,
       "word": "谁教张新成撩头发的",
@@ -289,14 +329,6 @@
       "onboard_time": 1676858486,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 562469,
-      "num": 562469,
-      "word": "考研人的脑子已经被这些BGM占领",
-      "onboard_time": 1676864912,
-      "rank": 14,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 558516,
@@ -371,12 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 490013,
-      "num": 490013,
-      "word": "女子13岁被拐生子人贩子获刑12年",
-      "onboard_time": 1676866173,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 474799,
+      "num": 474799,
+      "word": "刘涛参加米兰时装周",
+      "onboard_time": 1676866895,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 467371,
@@ -393,6 +425,14 @@
       "onboard_time": 1676850143,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458834,
+      "num": 458834,
+      "word": "北京冬奥会要被搬上大银幕了",
+      "onboard_time": 1676865452,
+      "rank": 23,
+      "category": "体育,影视"
     },
     {
       "raw_hot": 451417,
@@ -427,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 437992,
-      "num": 437992,
-      "word": "粉丝为王鹤棣虞书欣挂同心锁",
-      "onboard_time": 1676865392,
-      "rank": 21,
-      "category": "艺人,影视"
-    },
-    {
       "raw_hot": 436982,
       "num": 436982,
       "word": "杭州发热学生涉及三所学校",
@@ -449,6 +481,22 @@
       "onboard_time": 1676816194,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 431085,
+      "num": 431085,
+      "word": "故宫回应没有现场售票窗口",
+      "onboard_time": 1676866717,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 427745,
+      "num": 427745,
+      "word": "电影热烈",
+      "onboard_time": 1676867736,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 416212,
@@ -467,12 +515,12 @@
       "category": "动漫,社会新闻"
     },
     {
-      "raw_hot": 403509,
-      "num": 403509,
-      "word": "北京冬奥会要被搬上大银幕了",
-      "onboard_time": 1676865452,
-      "rank": 23,
-      "category": "体育,影视"
+      "raw_hot": 400523,
+      "num": 400523,
+      "word": "薛之谦 加场",
+      "onboard_time": 1676863050,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 386734,
@@ -499,12 +547,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 371125,
-      "num": 371125,
-      "word": "薛之谦 加场",
-      "onboard_time": 1676863050,
-      "rank": 33,
-      "category": "音乐"
+      "raw_hot": 374626,
+      "num": 374626,
+      "word": "塔图姆55分创全明星纪录",
+      "onboard_time": 1676866535,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 371000,
@@ -529,6 +577,14 @@
       "onboard_time": 1676841672,
       "rank": 22,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 364540,
+      "num": 364540,
+      "word": "NBA全明星太无聊了",
+      "onboard_time": 1676866472,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 356024,
@@ -587,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 322801,
-      "num": 322801,
-      "word": "亚马逊要求员工一周到岗工作3天",
-      "onboard_time": 1676866291,
-      "rank": 31,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 321331,
       "num": 321331,
       "word": "江西省考",
@@ -603,12 +651,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 320186,
+      "num": 320186,
+      "word": "黑客组织正对中国疯狂实施网络攻击",
+      "onboard_time": 1676867015,
+      "rank": 35,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 319541,
       "num": 319541,
       "word": "阿娇哭得好美",
       "onboard_time": 1676808810,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 319449,
+      "num": 319449,
+      "word": "情绪不好或导致胃胀胃痛",
+      "onboard_time": 1676866173,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319107,
@@ -755,14 +819,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 241342,
-      "num": 241342,
-      "word": "情绪不好或导致胃胀胃痛",
-      "onboard_time": 1676866173,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235042,
       "num": 235042,
       "word": "盘点考研查分的高燃瞬间",
@@ -859,28 +915,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204653,
-      "num": 204653,
-      "word": "NBA全明星太无聊了",
-      "onboard_time": 1676866472,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200939,
       "num": 200939,
       "word": "金子涵跳了LEFTRIGHT",
       "onboard_time": 1676825123,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 192868,
-      "num": 192868,
-      "word": "故宫回应没有现场售票窗口",
-      "onboard_time": 1676866717,
-      "rank": 43,
-      "category": "旅游"
     },
     {
       "raw_hot": 189961,
@@ -939,14 +979,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 177994,
-      "num": 177994,
-      "word": "塔图姆55分创全明星纪录",
-      "onboard_time": 1676866535,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177017,
       "num": 177017,
       "word": "电单车藏匿28台苹果手机走私被查获",
@@ -963,12 +995,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171789,
-      "num": 171789,
-      "word": "刘涛参加米兰时装周",
-      "onboard_time": 1676866895,
-      "rank": 47,
-      "category": "艺人,时尚"
+      "raw_hot": 171594,
+      "num": 171594,
+      "word": "行驶中小车后备箱塞人露双脚",
+      "onboard_time": 1676867856,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170092,
