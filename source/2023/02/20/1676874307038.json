@@ -1,0 +1,410 @@
+{
+  "runTime": 1676874307038,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1955745,
+        "num": 1955745,
+        "word": "桃李面包公告",
+        "onboard_time": 1676871269,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1901519,
+        "num": 1901519,
+        "word": "段小薇",
+        "onboard_time": 1676870075,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46913,
+        "num": 1517634,
+        "word": "写意中国探寻汉字起源",
+        "onboard_time": 1676862207,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1141595,
+        "num": 1141595,
+        "word": "小龙人贝贝扮演者去世",
+        "onboard_time": 1676868755,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724239,
+        "num": 724239,
+        "word": "唐朝诡事录第二季将于三月开拍",
+        "onboard_time": 1676871269,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 721625,
+        "num": 721625,
+        "word": "澳大利亚非法捐精致60个孩子模样相似",
+        "onboard_time": 1676864070,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706505,
+        "num": 706505,
+        "word": "黑客组织正对中国疯狂实施网络攻击",
+        "onboard_time": 1676867015,
+        "rank": 6,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 646450,
+        "num": 646450,
+        "word": "桑姓艺人在宣传现场被强制执行",
+        "onboard_time": 1676858427,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 589151,
+        "num": 589151,
+        "word": "EXO和aespa歌曲正在制作中",
+        "onboard_time": 1676873188,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 567601,
+        "num": 567601,
+        "word": "女子13岁被拐生子人贩子获刑12年",
+        "onboard_time": 1676866173,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1323415,
+        "num": 567426,
+        "word": "王楚钦",
+        "onboard_time": 1676870490,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 839378,
+        "num": 558129,
+        "word": "宋茜 代言",
+        "onboard_time": 1676870850,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658904,
+        "num": 546189,
+        "word": "网友韩国偶遇狂飙的安局",
+        "onboard_time": 1676872769,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 596991,
+        "num": 535671,
+        "word": "于正曾和许凯说有机会要跟杨紫合作",
+        "onboard_time": 1676873670,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532304,
+        "num": 532304,
+        "word": "张婧仪古装",
+        "onboard_time": 1676870913,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 479711,
+        "num": 479711,
+        "word": "不能让她们怕穿碎花裙子",
+        "onboard_time": 1676863768,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451649,
+        "num": 451649,
+        "word": "医院回应试管婴儿被弄错",
+        "onboard_time": 1676860287,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428587,
+        "num": 428587,
+        "word": "迪丽热巴诉网友侵权案将开庭",
+        "onboard_time": 1676869655,
+        "rank": 17,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 379273,
+        "num": 379273,
+        "word": "考研人的脑子已经被这些BGM占领",
+        "onboard_time": 1676864912,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 370662,
+        "num": 370662,
+        "word": "亚马逊要求员工一周到岗工作3天",
+        "onboard_time": 1676866291,
+        "rank": 19,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 553872,
+        "num": 369013,
+        "word": "Angelababy马天宇对视剧照",
+        "onboard_time": 1676864311,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343599,
+        "num": 343599,
+        "word": "爱奇艺不再限制投屏",
+        "onboard_time": 1676858966,
+        "rank": 21,
+        "category": "科技,影视"
+      },
+      {
+        "raw_hot": 316606,
+        "num": 316606,
+        "word": "重紫制片人是听劝的",
+        "onboard_time": 1676872769,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297760,
+        "num": 297760,
+        "word": "故宫回应没有现场售票窗口",
+        "onboard_time": 1676866717,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 271428,
+        "num": 271428,
+        "word": "NBA全明星太无聊了",
+        "onboard_time": 1676866472,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280004,
+        "num": 270630,
+        "word": "五哈3全员开启硬汉模式",
+        "onboard_time": 1676870372,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268184,
+        "num": 268184,
+        "word": "桑欣然",
+        "onboard_time": 1676865694,
+        "rank": 26,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 264665,
+        "num": 264665,
+        "word": "行驶中小车后备箱塞人露双脚",
+        "onboard_time": 1676867856,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240479,
+        "num": 240479,
+        "word": "金字塔内部是这样的",
+        "onboard_time": 1676870671,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 237581,
+        "num": 237581,
+        "word": "王一博新片演黄渤徒弟",
+        "onboard_time": 1676869356,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239251,
+        "num": 237156,
+        "word": "西游记副导演任凤坡去世",
+        "onboard_time": 1676872529,
+        "rank": 30,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 236557,
+        "num": 236557,
+        "word": "迪士尼宣布阿凡达2票房超泰坦尼克号",
+        "onboard_time": 1676864190,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234637,
+        "num": 234637,
+        "word": "粉丝为王鹤棣虞书欣挂同心锁",
+        "onboard_time": 1676865392,
+        "rank": 32,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 231984,
+        "num": 231984,
+        "word": "桃李面包回应消费者称吃出刀片",
+        "onboard_time": 1676871149,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231979,
+        "num": 231979,
+        "word": "讨厌没有边界感的小猫",
+        "onboard_time": 1676873309,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 223503,
+        "num": 223503,
+        "word": "90后小伙以为健康体检一身老年病",
+        "onboard_time": 1676861427,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214679,
+        "num": 214679,
+        "word": "考研成绩",
+        "onboard_time": 1676809533,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 195063,
+        "num": 195063,
+        "word": "北京冬奥会要被搬上大银幕了",
+        "onboard_time": 1676865452,
+        "rank": 37,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 185419,
+        "num": 185419,
+        "word": "宣璐汪卓成尘缘二搭",
+        "onboard_time": 1676868156,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177432,
+        "num": 177432,
+        "word": "她的小梨涡开机",
+        "onboard_time": 1676864732,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167372,
+        "num": 167372,
+        "word": "各地考研成绩查询时间汇总",
+        "onboard_time": 1676857045,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 162775,
+        "num": 162775,
+        "word": "薛之谦 加场",
+        "onboard_time": 1676863050,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161351,
+        "num": 161351,
+        "word": "吴宣仪粉黑外套造型机场路透",
+        "onboard_time": 1676874089,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151792,
+        "num": 151792,
+        "word": "王楚然阮流筝反差感",
+        "onboard_time": 1676869054,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150154,
+        "num": 150154,
+        "word": "陈宏友称不当演讲事件已向组织汇报",
+        "onboard_time": 1676873788,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 143061,
+        "num": 143061,
+        "word": "她的小梨涡",
+        "onboard_time": 1676869716,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138104,
+        "num": 138104,
+        "word": "情绪不好或导致胃胀胃痛",
+        "onboard_time": 1676866173,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136569,
+        "num": 136569,
+        "word": "桑姓艺人因1.5万标的成老赖",
+        "onboard_time": 1676863951,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 133953,
+        "num": 133953,
+        "word": "马嘉祺三亚打太极路透",
+        "onboard_time": 1676870372,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128514,
+        "num": 128514,
+        "word": "SMTOWN担心HYBE将自己艺人排后",
+        "onboard_time": 1676859266,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#不负春光一起出发#"
+    }
+  }
+}
