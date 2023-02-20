@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/20 00:24:21 ~ 2023/02/21 01:17:20
+本榜单时间：2023/02/20 00:24:21 ~ 2023/02/21 01:33:30
 </p>
 </blockquote>
 <p>
@@ -1821,6 +1821,12 @@ Scout获得周MVP（热度：159732）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E8%A2%AB%E6%8A%93%E8%B5%B0%E5%90%8E%E7%8B%97%E7%8B%97%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+主人被抓走后狗狗的反应（热度：155311）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E8%AF%B4%E6%83%B3%E8%A6%81%E6%AA%80%E5%81%A5%E6%AC%A1%E6%95%99%E5%94%B1%E6%AD%8C%23" target="weibo">
 周也说想要檀健次教唱歌（热度：154237）
 </a>
@@ -1997,12 +2003,6 @@ TES战胜EDG（热度：121497）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%20%E7%83%BD%E7%81%AB%E6%B5%81%E9%87%91%E9%85%8D%E9%9F%B3%23" target="weibo">
 檀健次 烽火流金配音（热度：107655）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E8%A2%AB%E6%8A%93%E8%B5%B0%E5%90%8E%E7%8B%97%E7%8B%97%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-主人被抓走后狗狗的反应（热度：104984）
 </a>
 </li>
 
