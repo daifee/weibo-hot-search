@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676900259193,
+  "endTime": 1676902718793,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -16,6 +16,14 @@
       "word": "非法捐精致60个孩子模样相似",
       "onboard_time": 1676864070,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2942783,
+      "num": 2942783,
+      "word": "官方回应四川大学内挖出人的遗体",
+      "onboard_time": 1676899530,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -147,20 +155,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1457942,
+      "num": 1431408,
+      "word": "女孩知道一年学费5万哭成泪人",
+      "onboard_time": 1676897309,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1457199,
       "num": 1457199,
       "word": "桑欣然",
       "onboard_time": 1676865694,
       "rank": 6,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 1431408,
-      "num": 1431408,
-      "word": "女孩知道一年学费5万哭成泪人",
-      "onboard_time": 1676897309,
-      "rank": 33,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1427809,
@@ -315,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1047694,
+      "num": 1047694,
+      "word": "东奥崩了",
+      "onboard_time": 1676899892,
+      "rank": 34,
+      "category": "科技,教育"
+    },
+    {
       "raw_hot": 1046828,
       "num": 1046828,
       "word": "中国乒乓票房",
@@ -385,6 +401,22 @@
       "onboard_time": 1676852674,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 954228,
+      "num": 954228,
+      "word": "日本66%的高端外国人才是中国人",
+      "onboard_time": 1676901089,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 939629,
+      "num": 367268,
+      "word": "长肉芽凝胶",
+      "onboard_time": 1676897731,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 917412,
@@ -459,14 +491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 784625,
-      "num": 457120,
-      "word": "官方回应四川大学内挖出人的遗体",
-      "onboard_time": 1676899530,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 783846,
       "num": 783846,
       "word": "苹果将阻止用户免费装开测版iOS17",
@@ -529,14 +553,6 @@
       "onboard_time": 1676866291,
       "rank": 31,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 730378,
-      "num": 367268,
-      "word": "长肉芽凝胶",
-      "onboard_time": 1676897731,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 727121,
@@ -620,10 +636,18 @@
     },
     {
       "raw_hot": 679426,
-      "num": 515428,
+      "num": 606250,
       "word": "周深机场签名被反送张颂文签名照",
       "onboard_time": 1676898930,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 667858,
+      "num": 612001,
+      "word": "权珉娥兼职陪聊被诈骗1500万韩元",
+      "onboard_time": 1676899410,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -651,6 +675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 646461,
+      "num": 646461,
+      "word": "乌梅子酱到底是什么酱",
+      "onboard_time": 1676897129,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 645394,
       "num": 645394,
       "word": "王楚然长了麦粒肿",
@@ -665,14 +697,6 @@
       "onboard_time": 1676861126,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 631158,
-      "num": 454715,
-      "word": "权珉娥兼职陪聊被诈骗1500万韩元",
-      "onboard_time": 1676899410,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 625377,
@@ -691,12 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 615319,
-      "num": 615319,
-      "word": "乌梅子酱到底是什么酱",
-      "onboard_time": 1676897129,
-      "rank": 24,
-      "category": "美食"
+      "raw_hot": 616285,
+      "num": 616285,
+      "word": "王一博陪你到世界之巅将在俄罗斯播出",
+      "onboard_time": 1676901152,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 610640,
@@ -720,6 +744,14 @@
       "word": "谁教张新成撩头发的",
       "onboard_time": 1676819792,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 597676,
+      "num": 597676,
+      "word": "黄奕新剧身材",
+      "onboard_time": 1676899593,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -979,6 +1011,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 470469,
+      "num": 470469,
+      "word": "蔡徐坤收到粉丝送的蓝玫瑰",
+      "onboard_time": 1676901813,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 467371,
       "num": 341998,
       "word": "中国台湾联赛大规模冲突",
@@ -1187,14 +1227,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 381517,
-      "num": 381517,
-      "word": "黄奕新剧身材",
-      "onboard_time": 1676899593,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 381201,
       "num": 375826,
       "word": "王一博新片演黄渤徒弟",
@@ -1313,6 +1345,22 @@
       "onboard_time": 1676881408,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347978,
+      "num": 347978,
+      "word": "夏花",
+      "onboard_time": 1676814092,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 347938,
+      "num": 347938,
+      "word": "拜登已离开基辅",
+      "onboard_time": 1676900451,
+      "rank": 19,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 345743,
@@ -1523,6 +1571,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 294775,
+      "num": 294775,
+      "word": "星落凝成糖 喜剧",
+      "onboard_time": 1676902113,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288551,
       "num": 288551,
       "word": "言承旭 满40减20",
@@ -1595,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272767,
+      "num": 272767,
+      "word": "林高远陈幸同3比1樊振东王曼昱",
+      "onboard_time": 1676900011,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272538,
       "num": 272538,
       "word": "毛林林恭喜谭雅离婚",
@@ -1603,12 +1667,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272318,
+      "num": 272318,
+      "word": "想去武汉体验一把过早",
+      "onboard_time": 1676901271,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 271622,
+      "num": 268526,
+      "word": "黄冈回应一问三不知主任有新职",
+      "onboard_time": 1676901930,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269643,
       "num": 269643,
       "word": "严浩翔团综游乐园路透",
       "onboard_time": 1676863409,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268561,
+      "num": 268561,
+      "word": "点燃我温暖你韩国开播",
+      "onboard_time": 1676902414,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 266500,
@@ -1625,6 +1713,14 @@
       "onboard_time": 1676853931,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256268,
+      "num": 256268,
+      "word": "明晚夜空将上演龙抬头天象",
+      "onboard_time": 1676897975,
+      "rank": 36,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 253725,
@@ -1675,14 +1771,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 246739,
-      "num": 246739,
-      "word": "夏花",
-      "onboard_time": 1676814092,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 241982,
       "num": 241982,
       "word": "詹姆斯选择欧文",
@@ -1715,6 +1803,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 238581,
+      "num": 238581,
+      "word": "我们的日子",
+      "onboard_time": 1676897430,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235042,
       "num": 235042,
       "word": "盘点考研查分的高燃瞬间",
@@ -1739,14 +1835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228832,
-      "num": 228832,
-      "word": "明晚夜空将上演龙抬头天象",
-      "onboard_time": 1676897975,
-      "rank": 36,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 228367,
       "num": 228367,
       "word": "明中严冰be了",
@@ -1761,14 +1849,6 @@
       "onboard_time": 1676864790,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225433,
-      "num": 225433,
-      "word": "东奥崩了",
-      "onboard_time": 1676899892,
-      "rank": 34,
-      "category": "科技,教育"
     },
     {
       "raw_hot": 224951,
@@ -1859,6 +1939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 207576,
+      "num": 207576,
+      "word": "妇联回应16岁少女被父母卖掉后出逃",
+      "onboard_time": 1676902173,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207132,
       "num": 207132,
       "word": "你会二刷显微镜下的大明吗",
@@ -1907,14 +1995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199488,
-      "num": 199488,
-      "word": "林高远陈幸同3比1樊振东王曼昱",
-      "onboard_time": 1676900011,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197504,
       "num": 197504,
       "word": "劳伦斯年度最佳女运动员提名公布",
@@ -1945,6 +2025,14 @@
       "onboard_time": 1676883570,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190939,
+      "num": 190939,
+      "word": "文旅局长零下20度穿长裙代言家乡",
+      "onboard_time": 1676902295,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189961,
@@ -2017,14 +2105,6 @@
       "onboard_time": 1676883269,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181986,
-      "num": 181986,
-      "word": "我们的日子",
-      "onboard_time": 1676897430,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 179974,
@@ -2483,6 +2563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 48268,
+      "num": 1210251,
+      "word": "走进区域看发展",
+      "onboard_time": 1676900011,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46545,
       "num": 46545,
       "word": "虞书欣冷到鹅叫",
@@ -2513,14 +2601,6 @@
       "onboard_time": 1676834411,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13961,
-      "num": 1210251,
-      "word": "走进区域看发展",
-      "onboard_time": 1676900011,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
