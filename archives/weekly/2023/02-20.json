@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676928819985,
+  "endTime": 1676931471358,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -2067,6 +2067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 207716,
+      "num": 207716,
+      "word": "女子住着大别墅欠5000不还成老赖",
+      "onboard_time": 1676921173,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207132,
       "num": 207132,
       "word": "你会二刷显微镜下的大明吗",
@@ -2435,14 +2443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150608,
-      "num": 150608,
-      "word": "女子住着大别墅欠5000不还成老赖",
-      "onboard_time": 1676921173,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150496,
       "num": 150496,
       "word": "有点社恐的狗子",
@@ -2675,6 +2675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95401,
+      "num": 70362,
+      "word": "美国五霸俱全害人害己",
+      "onboard_time": 1676928371,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88615,
       "num": 88615,
       "word": "王一博无名破9亿剧照",
@@ -2747,6 +2755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 44788,
+      "num": 44788,
+      "word": "白芸豆真的可以减肥吗",
+      "onboard_time": 1676930293,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 42130,
       "num": 42130,
       "word": "cpsp 阿宅拉练",
@@ -2755,11 +2771,19 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 34975,
-      "num": 27915,
+      "raw_hot": 37790,
+      "num": 37790,
       "word": "男子公交站台偷窥女生裙底",
       "onboard_time": 1676922191,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35804,
+      "num": 35804,
+      "word": "美国的霸权霸道霸凌及其危害",
+      "onboard_time": 1676929032,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -2795,20 +2819,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17294,
+      "num": 17294,
+      "word": "河南人口自然增长率62年来首现负增长",
+      "onboard_time": 1676931313,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16352,
       "num": 16352,
       "word": "原子之心上线",
       "onboard_time": 1676922911,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14885,
-      "num": 14885,
-      "word": "美国五霸俱全害人害己",
-      "onboard_time": 1676928371,
-      "rank": 40,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
