@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676910386077,
+  "endTime": 1676911446664,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -449,6 +449,14 @@
       "onboard_time": 1676843232,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 889393,
+      "num": 889393,
+      "word": "茶颜悦色取消小程序线上点单自取",
+      "onboard_time": 1676910145,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 879129,
@@ -955,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518493,
+      "num": 518493,
+      "word": "如何看待异地恋接吻神器",
+      "onboard_time": 1676907988,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512906,
       "num": 512906,
       "word": "蔡徐坤收到粉丝送的蓝玫瑰",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1676892568,
       "rank": 43,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 473597,
-      "num": 339557,
-      "word": "如何看待异地恋接吻神器",
-      "onboard_time": 1676907988,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 467371,
@@ -1883,6 +1891,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 247524,
+      "num": 247524,
+      "word": "减肥人的自律时刻",
+      "onboard_time": 1676908587,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241982,
       "num": 241982,
       "word": "詹姆斯选择欧文",
@@ -1961,14 +1977,6 @@
       "onboard_time": 1676864790,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 226302,
-      "num": 226302,
-      "word": "减肥人的自律时刻",
-      "onboard_time": 1676908587,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 224951,
@@ -2363,6 +2371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160043,
+      "num": 160043,
+      "word": "朱志鑫翻唱youth",
+      "onboard_time": 1676910802,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159732,
       "num": 159732,
       "word": "Scout获得周MVP",
@@ -2577,14 +2593,6 @@
       "onboard_time": 1676816194,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 118899,
-      "num": 118899,
-      "word": "茶颜悦色取消小程序线上点单自取",
-      "onboard_time": 1676910145,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117677,

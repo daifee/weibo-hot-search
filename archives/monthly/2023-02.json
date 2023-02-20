@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676910386077,
+  "endTime": 1676911446664,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -7769,6 +7769,14 @@
       "onboard_time": 1675229910,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 889393,
+      "num": 889393,
+      "word": "茶颜悦色取消小程序线上点单自取",
+      "onboard_time": 1676910145,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 887961,
@@ -15995,6 +16003,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 518493,
+      "num": 518493,
+      "word": "如何看待异地恋接吻神器",
+      "onboard_time": 1676907988,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518209,
       "num": 518209,
       "word": "安欣熊猫血",
@@ -17561,14 +17577,6 @@
       "onboard_time": 1676892568,
       "rank": 43,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 473597,
-      "num": 339557,
-      "word": "如何看待异地恋接吻神器",
-      "onboard_time": 1676907988,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 473506,
@@ -30955,6 +30963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247524,
+      "num": 247524,
+      "word": "减肥人的自律时刻",
+      "onboard_time": 1676908587,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 247493,
       "num": 247493,
       "word": "小鬼 花好月圆夜",
@@ -32857,14 +32873,6 @@
       "onboard_time": 1676377957,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 226302,
-      "num": 226302,
-      "word": "减肥人的自律时刻",
-      "onboard_time": 1676908587,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 226278,
@@ -40595,6 +40603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160043,
+      "num": 160043,
+      "word": "朱志鑫翻唱youth",
+      "onboard_time": 1676910802,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159929,
       "num": 159929,
       "word": "这不是流星雨这是硫酸雨",
@@ -43633,14 +43649,6 @@
       "onboard_time": 1676564125,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118899,
-      "num": 118899,
-      "word": "茶颜悦色取消小程序线上点单自取",
-      "onboard_time": 1676910145,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118866,

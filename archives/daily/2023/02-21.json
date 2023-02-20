@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676910386077,
+  "endTime": 1676911446664,
   "band_list": [
     {
       "raw_hot": 1212960,
@@ -12,10 +12,18 @@
     },
     {
       "raw_hot": 1118203,
-      "num": 666335,
+      "num": 770753,
       "word": "山东人均身高1米8实锤了",
       "onboard_time": 1676904034,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889393,
+      "num": 889393,
+      "word": "茶颜悦色取消小程序线上点单自取",
+      "onboard_time": 1676910145,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -51,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 518493,
+      "num": 518493,
+      "word": "如何看待异地恋接吻神器",
+      "onboard_time": 1676907988,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484816,
       "num": 484816,
       "word": "这一届考研人有多难",
       "onboard_time": 1676890534,
       "rank": 6,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 473597,
-      "num": 339557,
-      "word": "如何看待异地恋接吻神器",
-      "onboard_time": 1676907988,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 450527,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 427936,
-      "num": 335380,
+      "num": 338327,
       "word": "Mayumi官宣恋情",
       "onboard_time": 1676893771,
       "rank": 11,
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247524,
+      "num": 247524,
+      "word": "减肥人的自律时刻",
+      "onboard_time": 1676908587,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246289,
       "num": 246289,
       "word": "星落凝成糖",
@@ -169,14 +185,6 @@
       "onboard_time": 1676903615,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226302,
-      "num": 226302,
-      "word": "减肥人的自律时刻",
-      "onboard_time": 1676908587,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 224339,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160043,
+      "num": 160043,
+      "word": "朱志鑫翻唱youth",
+      "onboard_time": 1676910802,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 157325,
       "num": 157325,
       "word": "黄奕新剧身材",
@@ -305,14 +321,6 @@
       "onboard_time": 1676903434,
       "rank": 38,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 118899,
-      "num": 118899,
-      "word": "茶颜悦色取消小程序线上点单自取",
-      "onboard_time": 1676910145,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115662,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 23108,
-      "num": 695501,
+      "num": 773229,
       "word": "走进区域看发展",
       "onboard_time": 1676900011,
       "rank": 2,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#不负春光一起出发#"
+    },
+    {
+      "word": "#9图速览中国经济复苏进度条#"
     }
   ]
 }
