@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676906420022,
+  "endTime": 1676907331466,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -123,20 +123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1688736,
+      "num": 1125046,
+      "word": "山东人均身高1米8实锤了",
+      "onboard_time": 1676904034,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1608373,
       "num": 1608373,
       "word": "考研成绩",
       "onboard_time": 1676809533,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1577381,
-      "num": 1125046,
-      "word": "山东人均身高1米8实锤了",
-      "onboard_time": 1676904034,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1563132,
@@ -201,6 +201,14 @@
       "onboard_time": 1676864311,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1355956,
+      "num": 1355956,
+      "word": "姜广涛",
+      "onboard_time": 1676904513,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1354691,
@@ -272,14 +280,6 @@
       "word": "小龙人贝贝扮演者去世",
       "onboard_time": 1676868755,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1188783,
-      "num": 1188783,
-      "word": "姜广涛",
-      "onboard_time": 1676904513,
-      "rank": 1,
       "category": "艺人"
     },
     {
@@ -1083,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459007,
+      "num": 459007,
+      "word": "星落凝成糖",
+      "onboard_time": 1676906070,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 458834,
       "num": 458834,
       "word": "北京冬奥会要被搬上大银幕了",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1676879552,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 429950,
+      "num": 429950,
+      "word": "郑恺说自己是小区罗纳尔多",
+      "onboard_time": 1676903615,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 428529,
@@ -1368,14 +1384,6 @@
       "word": "电影北京2022先导预告",
       "onboard_time": 1676861007,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 368634,
-      "num": 368634,
-      "word": "星落凝成糖",
-      "onboard_time": 1676906070,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -1667,14 +1675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307658,
-      "num": 307658,
-      "word": "郑恺说自己是小区罗纳尔多",
-      "onboard_time": 1676903615,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 301572,
       "num": 301572,
       "word": "94岁老人疑遭护工推倒撞地去世",
@@ -1841,6 +1841,14 @@
       "onboard_time": 1676878529,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250815,
+      "num": 250815,
+      "word": "这是在厕所里安了张床吧",
+      "onboard_time": 1676906371,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 250084,
@@ -2227,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171309,
+      "num": 171309,
+      "word": "王鹤棣皮衣造型自拍",
+      "onboard_time": 1676906553,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170092,
       "num": 170092,
       "word": "饺子怎么也没想到会挨一刀",
@@ -2403,6 +2419,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 136601,
+      "num": 136601,
+      "word": "这深蹲有点费猫",
+      "onboard_time": 1676906850,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134375,
       "num": 134375,
       "word": "你被各式的电话推销骚扰过吗",
@@ -2521,14 +2545,6 @@
       "onboard_time": 1676816194,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 120034,
-      "num": 120034,
-      "word": "这是在厕所里安了张床吧",
-      "onboard_time": 1676906371,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 117677,
