@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676932472420,
+  "endTime": 1676935143044,
   "band_list": [
     {
       "raw_hot": 1212960,
@@ -27,6 +27,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1040274,
+      "num": 1040274,
+      "word": "考研成绩",
+      "onboard_time": 1676934439,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 866181,
+      "num": 866181,
+      "word": "女子住着大别墅欠5000不还成老赖",
+      "onboard_time": 1676921173,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 771739,
       "num": 771739,
       "word": "姜广涛",
@@ -41,6 +57,14 @@
       "onboard_time": 1676897309,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 584585,
+      "num": 584585,
+      "word": "河南人口自然增长率62年来首现负增长",
+      "onboard_time": 1676931313,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 561521,
@@ -115,12 +139,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 310244,
-      "num": 310244,
-      "word": "女子住着大别墅欠5000不还成老赖",
-      "onboard_time": 1676921173,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 304305,
+      "num": 304305,
+      "word": "白芸豆真的可以减肥吗",
+      "onboard_time": 1676930293,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 298731,
@@ -129,6 +153,14 @@
       "onboard_time": 1676902414,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285346,
+      "num": 285346,
+      "word": "文旅局长零下20度穿长裙代言家乡",
+      "onboard_time": 1676902295,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271584,
@@ -179,20 +211,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244115,
-      "num": 244115,
-      "word": "文旅局长零下20度穿长裙代言家乡",
-      "onboard_time": 1676902295,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231741,
       "num": 231741,
       "word": "郑恺说自己是小区罗纳尔多",
       "onboard_time": 1676903615,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227320,
+      "num": 227320,
+      "word": "美国五霸俱全害人害己",
+      "onboard_time": 1676928371,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224339,
@@ -299,6 +331,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 142599,
+      "num": 142599,
+      "word": "动物园免费3千动物1天看几万游客",
+      "onboard_time": 1676918834,
+      "rank": 19,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 142598,
+      "num": 142598,
+      "word": "男子公交站台偷窥女生裙底",
+      "onboard_time": 1676922191,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139660,
       "num": 139660,
       "word": "烹食大白鲨网红短视频平台复出",
@@ -315,12 +363,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 135675,
-      "num": 135675,
-      "word": "美国五霸俱全害人害己",
-      "onboard_time": 1676928371,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 138623,
+      "num": 138623,
+      "word": "为什么用龙抬头来指代二月二",
+      "onboard_time": 1676934680,
+      "rank": 23,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 133706,
@@ -355,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115073,
+      "num": 102788,
+      "word": "威少将加盟快船",
+      "onboard_time": 1676934859,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114216,
       "num": 114216,
       "word": "王楚然长了麦粒肿",
@@ -371,14 +427,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 110894,
-      "num": 101542,
-      "word": "河南人口自然增长率62年来首现负增长",
-      "onboard_time": 1676931313,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110871,
       "num": 110871,
       "word": "拜登已离开基辅",
@@ -393,14 +441,6 @@
       "onboard_time": 1676901813,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106635,
-      "num": 101056,
-      "word": "白芸豆真的可以减肥吗",
-      "onboard_time": 1676930293,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 101764,
@@ -443,28 +483,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67461,
-      "num": 67461,
-      "word": "动物园免费3千动物1天看几万游客",
-      "onboard_time": 1676918834,
-      "rank": 19,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 51227,
-      "num": 51227,
-      "word": "男子公交站台偷窥女生裙底",
-      "onboard_time": 1676922191,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46359,
-      "num": 46359,
+      "raw_hot": 88732,
+      "num": 88732,
       "word": "孙俪 保佑我不要一紧张拉出猪叫",
       "onboard_time": 1676892151,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71889,
+      "num": 71889,
+      "word": "河南2022年常住人口减少11万",
+      "onboard_time": 1676932215,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63783,
+      "num": 63783,
+      "word": "115一袋的薯片刺客你吃过吗",
+      "onboard_time": 1676923691,
+      "rank": 47,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 35804,
@@ -483,24 +523,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 31513,
-      "num": 31513,
-      "word": "115一袋的薯片刺客你吃过吗",
-      "onboard_time": 1676923691,
-      "rank": 47,
-      "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 30005,
-      "num": 30005,
-      "word": "河南2022年常住人口减少11万",
-      "onboard_time": 1676932215,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23108,
-      "num": 773229,
+      "num": 815614,
       "word": "走进区域看发展",
       "onboard_time": 1676900011,
       "rank": 2,
