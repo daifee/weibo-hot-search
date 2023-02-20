@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676931471358,
+  "endTime": 1676932472420,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -1691,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310244,
+      "num": 310244,
+      "word": "女子住着大别墅欠5000不还成老赖",
+      "onboard_time": 1676921173,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309856,
       "num": 309856,
       "word": "詹姆斯称自己不会连续无缘季后赛",
@@ -2065,14 +2073,6 @@
       "onboard_time": 1676874449,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 207716,
-      "num": 207716,
-      "word": "女子住着大别墅欠5000不还成老赖",
-      "onboard_time": 1676921173,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207132,
@@ -2491,6 +2491,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 135675,
+      "num": 135675,
+      "word": "美国五霸俱全害人害己",
+      "onboard_time": 1676928371,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134375,
       "num": 134375,
       "word": "你被各式的电话推销骚扰过吗",
@@ -2643,6 +2651,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 110894,
+      "num": 101542,
+      "word": "河南人口自然增长率62年来首现负增长",
+      "onboard_time": 1676931313,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110880,
       "num": 110880,
       "word": "打败竹马的还得是竹马",
@@ -2667,20 +2683,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 106635,
+      "num": 101056,
+      "word": "白芸豆真的可以减肥吗",
+      "onboard_time": 1676930293,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 101857,
       "num": 101857,
       "word": "曼联vs莱斯特城",
       "onboard_time": 1676817152,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95401,
-      "num": 70362,
-      "word": "美国五霸俱全害人害己",
-      "onboard_time": 1676928371,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88615,
@@ -2699,20 +2715,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67461,
+      "num": 67461,
+      "word": "动物园免费3千动物1天看几万游客",
+      "onboard_time": 1676918834,
+      "rank": 19,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 65909,
       "num": 65909,
       "word": "希望下次哭是因为高分上岸",
       "onboard_time": 1676849484,
       "rank": 46,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 63496,
-      "num": 63496,
-      "word": "动物园免费3千动物1天看几万游客",
-      "onboard_time": 1676918834,
-      "rank": 19,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 58987,
@@ -2747,6 +2763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 51227,
+      "num": 51227,
+      "word": "男子公交站台偷窥女生裙底",
+      "onboard_time": 1676922191,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46545,
       "num": 46545,
       "word": "虞书欣冷到鹅叫",
@@ -2755,28 +2779,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 44788,
-      "num": 44788,
-      "word": "白芸豆真的可以减肥吗",
-      "onboard_time": 1676930293,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 42130,
       "num": 42130,
       "word": "cpsp 阿宅拉练",
       "onboard_time": 1676828717,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 37790,
-      "num": 37790,
-      "word": "男子公交站台偷窥女生裙底",
-      "onboard_time": 1676922191,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35804,
@@ -2811,20 +2819,20 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 30005,
+      "num": 30005,
+      "word": "河南2022年常住人口减少11万",
+      "onboard_time": 1676932215,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24512,
       "num": 24512,
       "word": "魏大勋晒一张库存照",
       "onboard_time": 1676834411,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17294,
-      "num": 17294,
-      "word": "河南人口自然增长率62年来首现负增长",
-      "onboard_time": 1676931313,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16352,

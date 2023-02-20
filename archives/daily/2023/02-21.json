@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676931471358,
+  "endTime": 1676932472420,
   "band_list": [
     {
       "raw_hot": 1212960,
@@ -115,6 +115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 310244,
+      "num": 310244,
+      "word": "女子住着大别墅欠5000不还成老赖",
+      "onboard_time": 1676921173,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298731,
       "num": 298731,
       "word": "点燃我温暖你韩国开播",
@@ -209,14 +217,6 @@
       "onboard_time": 1676904994,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207716,
-      "num": 207716,
-      "word": "女子住着大别墅欠5000不还成老赖",
-      "onboard_time": 1676921173,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186183,
@@ -315,6 +315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 135675,
+      "num": 135675,
+      "word": "美国五霸俱全害人害己",
+      "onboard_time": 1676928371,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133706,
       "num": 133706,
       "word": "虞书欣穿棉裤上班",
@@ -363,6 +371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 110894,
+      "num": 101542,
+      "word": "河南人口自然增长率62年来首现负增长",
+      "onboard_time": 1676931313,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110871,
       "num": 110871,
       "word": "拜登已离开基辅",
@@ -377,6 +393,14 @@
       "onboard_time": 1676901813,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106635,
+      "num": 101056,
+      "word": "白芸豆真的可以减肥吗",
+      "onboard_time": 1676930293,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 101764,
@@ -411,14 +435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 95401,
-      "num": 70362,
-      "word": "美国五霸俱全害人害己",
-      "onboard_time": 1676928371,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89815,
       "num": 89815,
       "word": "常州一学院已申请远程接吻专利",
@@ -427,12 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63496,
-      "num": 63496,
+      "raw_hot": 67461,
+      "num": 67461,
       "word": "动物园免费3千动物1天看几万游客",
       "onboard_time": 1676918834,
       "rank": 19,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 51227,
+      "num": 51227,
+      "word": "男子公交站台偷窥女生裙底",
+      "onboard_time": 1676922191,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46359,
@@ -441,22 +465,6 @@
       "onboard_time": 1676892151,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44788,
-      "num": 44788,
-      "word": "白芸豆真的可以减肥吗",
-      "onboard_time": 1676930293,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 37790,
-      "num": 37790,
-      "word": "男子公交站台偷窥女生裙底",
-      "onboard_time": 1676922191,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35804,
@@ -483,19 +491,19 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 30005,
+      "num": 30005,
+      "word": "河南2022年常住人口减少11万",
+      "onboard_time": 1676932215,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23108,
       "num": 773229,
       "word": "走进区域看发展",
       "onboard_time": 1676900011,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17294,
-      "num": 17294,
-      "word": "河南人口自然增长率62年来首现负增长",
-      "onboard_time": 1676931313,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
