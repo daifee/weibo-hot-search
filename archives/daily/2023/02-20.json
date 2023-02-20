@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676870285550,
+  "endTime": 1676871229750,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -41,6 +41,14 @@
       "onboard_time": 1676858966,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2203177,
+      "num": 2203177,
+      "word": "段小薇",
+      "onboard_time": 1676870075,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 1967302,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1209062,
+      "num": 1209062,
+      "word": "小龙人贝贝扮演者去世",
+      "onboard_time": 1676868755,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1161865,
       "num": 1161865,
       "word": "父亲去世哥哥说妹妹没有继承权",
@@ -123,12 +139,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1034418,
-      "num": 729359,
-      "word": "小龙人贝贝扮演者去世",
-      "onboard_time": 1676868755,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 1028518,
+      "num": 1028518,
+      "word": "王楚钦",
+      "onboard_time": 1676870490,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1015636,
@@ -243,11 +259,19 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 702747,
-      "num": 702747,
-      "word": "段小薇",
-      "onboard_time": 1676870075,
-      "rank": 13,
+      "raw_hot": 727121,
+      "num": 727121,
+      "word": "黑客组织正对中国疯狂实施网络攻击",
+      "onboard_time": 1676867015,
+      "rank": 35,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 719847,
+      "num": 719847,
+      "word": "张婧仪古装",
+      "onboard_time": 1676870913,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -265,6 +289,14 @@
       "onboard_time": 1676828598,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 692696,
+      "num": 692696,
+      "word": "杨紫齐刘海卷发造型",
+      "onboard_time": 1676869474,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 683125,
@@ -323,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 611949,
-      "num": 611949,
-      "word": "黑客组织正对中国疯狂实施网络攻击",
-      "onboard_time": 1676867015,
-      "rank": 35,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 610640,
       "num": 610640,
       "word": "粉丝为王鹤棣虞书欣挂同心锁",
@@ -345,14 +369,6 @@
       "onboard_time": 1676866717,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 601249,
-      "num": 601249,
-      "word": "杨紫齐刘海卷发造型",
-      "onboard_time": 1676869474,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 600937,
@@ -441,6 +457,14 @@
       "onboard_time": 1676819852,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493280,
+      "num": 493280,
+      "word": "五哈3全员开启硬汉模式",
+      "onboard_time": 1676870372,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 492608,
@@ -611,6 +635,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 385232,
+      "num": 385232,
+      "word": "宋茜 代言",
+      "onboard_time": 1676870850,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 381201,
+      "num": 375826,
+      "word": "王一博新片演黄渤徒弟",
+      "onboard_time": 1676869356,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380397,
       "num": 380397,
       "word": "农历二月生的今年能过3次生日",
@@ -625,6 +665,14 @@
       "onboard_time": 1676866535,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 374113,
+      "num": 374113,
+      "word": "aespa世界观第一季大结局",
+      "onboard_time": 1676869775,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 371000,
@@ -673,14 +721,6 @@
       "onboard_time": 1676860827,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 350583,
-      "num": 350583,
-      "word": "aespa世界观第一季大结局",
-      "onboard_time": 1676869775,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 345743,
@@ -769,6 +809,14 @@
       "onboard_time": 1676865452,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 312617,
+      "num": 312617,
+      "word": "马嘉祺三亚打太极路透",
+      "onboard_time": 1676870372,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 309856,
@@ -963,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213916,
+      "num": 213916,
+      "word": "金字塔内部是这样的",
+      "onboard_time": 1676870671,
+      "rank": 45,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 213478,
       "num": 213478,
       "word": "时代少年团全员晒海边照",
@@ -1081,6 +1137,14 @@
       "onboard_time": 1676800111,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 181490,
+      "num": 181490,
+      "word": "桃李面包回应消费者称吃出刀片",
+      "onboard_time": 1676871149,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179974,
