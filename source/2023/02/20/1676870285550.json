@@ -1,0 +1,410 @@
+{
+  "runTime": 1676870285550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2401856,
+        "num": 2401856,
+        "word": "澳大利亚非法捐精致60个孩子模样相似",
+        "onboard_time": 1676864070,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1631764,
+        "num": 1631764,
+        "word": "桑姓艺人在宣传现场被强制执行",
+        "onboard_time": 1676858427,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 45452,
+        "num": 1432589,
+        "word": "写意中国探寻汉字起源",
+        "onboard_time": 1676862207,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1267540,
+        "num": 1267540,
+        "word": "她的小梨涡开机",
+        "onboard_time": 1676864732,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1103672,
+        "num": 1103672,
+        "word": "桑欣然",
+        "onboard_time": 1676865694,
+        "rank": 4,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 993323,
+        "num": 993323,
+        "word": "女子13岁被拐生子人贩子获刑12年",
+        "onboard_time": 1676866173,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983598,
+        "num": 983598,
+        "word": "Angelababy马天宇对视剧照",
+        "onboard_time": 1676864311,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 776564,
+        "num": 776564,
+        "word": "医院回应试管婴儿被弄错",
+        "onboard_time": 1676860287,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756589,
+        "num": 756589,
+        "word": "不能让她们怕穿碎花裙子",
+        "onboard_time": 1676863768,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 738335,
+        "num": 738335,
+        "word": "亚马逊要求员工一周到岗工作3天",
+        "onboard_time": 1676866291,
+        "rank": 9,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1741054,
+        "num": 736894,
+        "word": "新冠",
+        "onboard_time": 1676861547,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034418,
+        "num": 729359,
+        "word": "小龙人贝贝扮演者去世",
+        "onboard_time": 1676868755,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 721580,
+        "num": 721580,
+        "word": "爱奇艺不再限制投屏",
+        "onboard_time": 1676858966,
+        "rank": 12,
+        "category": "科技,影视"
+      },
+      {
+        "raw_hot": 702747,
+        "num": 702747,
+        "word": "段小薇",
+        "onboard_time": 1676870075,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 654798,
+        "num": 654798,
+        "word": "考研人的脑子已经被这些BGM占领",
+        "onboard_time": 1676864912,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 619542,
+        "num": 619542,
+        "word": "王一博张婧仪对手戏花絮视频",
+        "onboard_time": 1676867495,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 611949,
+        "num": 611949,
+        "word": "黑客组织正对中国疯狂实施网络攻击",
+        "onboard_time": 1676867015,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 604698,
+        "num": 604698,
+        "word": "故宫回应没有现场售票窗口",
+        "onboard_time": 1676866717,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 601249,
+        "num": 601249,
+        "word": "杨紫齐刘海卷发造型",
+        "onboard_time": 1676869474,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549986,
+        "num": 549986,
+        "word": "迪丽热巴诉网友侵权案将开庭",
+        "onboard_time": 1676869655,
+        "rank": 19,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 534390,
+        "num": 534390,
+        "word": "粉丝为王鹤棣虞书欣挂同心锁",
+        "onboard_time": 1676865392,
+        "rank": 20,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 441488,
+        "num": 441488,
+        "word": "NBA全明星太无聊了",
+        "onboard_time": 1676866472,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431267,
+        "num": 431267,
+        "word": "迪士尼宣布阿凡达2票房超泰坦尼克号",
+        "onboard_time": 1676864190,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399427,
+        "num": 399427,
+        "word": "她的小梨涡",
+        "onboard_time": 1676869716,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396059,
+        "num": 396059,
+        "word": "北京冬奥会要被搬上大银幕了",
+        "onboard_time": 1676865452,
+        "rank": 24,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 397491,
+        "num": 385187,
+        "word": "宣璐汪卓成尘缘二搭",
+        "onboard_time": 1676868156,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360246,
+        "num": 360246,
+        "word": "行驶中小车后备箱塞人露双脚",
+        "onboard_time": 1676867856,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359979,
+        "num": 359979,
+        "word": "90后小伙以为健康体检一身老年病",
+        "onboard_time": 1676861427,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353815,
+        "num": 353815,
+        "word": "刘涛参加米兰时装周",
+        "onboard_time": 1676866895,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 350583,
+        "num": 350583,
+        "word": "aespa世界观第一季大结局",
+        "onboard_time": 1676869775,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324895,
+        "num": 324895,
+        "word": "情绪不好或导致胃胀胃痛",
+        "onboard_time": 1676866173,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317888,
+        "num": 317888,
+        "word": "桑姓艺人因1.5万标的成老赖",
+        "onboard_time": 1676863951,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 317879,
+        "num": 317879,
+        "word": "考研成绩",
+        "onboard_time": 1676809533,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 304659,
+        "num": 304659,
+        "word": "星落凝成糖女主人设",
+        "onboard_time": 1676865331,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297273,
+        "num": 297273,
+        "word": "爱奇艺限制投屏案原告发声",
+        "onboard_time": 1676862808,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 294421,
+        "num": 294421,
+        "word": "詹姆斯因伤退出全明星",
+        "onboard_time": 1676865272,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294209,
+        "num": 294209,
+        "word": "薛之谦 加场",
+        "onboard_time": 1676863050,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 286552,
+        "num": 286552,
+        "word": "小龙人",
+        "onboard_time": 1676868935,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253899,
+        "num": 253899,
+        "word": "SMTOWN担心HYBE将自己艺人排后",
+        "onboard_time": 1676859266,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253725,
+        "num": 253725,
+        "word": "王楚然阮流筝反差感",
+        "onboard_time": 1676869054,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253678,
+        "num": 253678,
+        "word": "宋仲基与狗狗合照",
+        "onboard_time": 1676863050,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247871,
+        "num": 247871,
+        "word": "松本零士去世",
+        "onboard_time": 1676865392,
+        "rank": 41,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 246995,
+        "num": 246995,
+        "word": "塔图姆55分创全明星纪录",
+        "onboard_time": 1676866535,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226508,
+        "num": 226508,
+        "word": "各地考研成绩查询时间汇总",
+        "onboard_time": 1676857045,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 226327,
+        "num": 226327,
+        "word": "导演说言承旭拍戏时一直吃水煮菜",
+        "onboard_time": 1676859085,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205502,
+        "num": 205502,
+        "word": "陈戌源曾劝李铁退还武汉长江4800万",
+        "onboard_time": 1676861729,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197516,
+        "num": 197516,
+        "word": "儿子患癌丈夫伤残女子跑外卖扛起家",
+        "onboard_time": 1676863347,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196159,
+        "num": 196159,
+        "word": "李一桐说任何时间苏玖儿都会全力以赴",
+        "onboard_time": 1676870191,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195172,
+        "num": 195172,
+        "word": "邢菲武庚纪蓝白长裙路透",
+        "onboard_time": 1676868254,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188380,
+        "num": 188380,
+        "word": "电影中国乒乓国家队打call版预告",
+        "onboard_time": 1676869174,
+        "rank": 49,
+        "category": "影视,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#不负春光一起出发#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676867950617,
+  "endTime": 1676870285550,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -24,6 +24,14 @@
       "word": "新冠",
       "onboard_time": 1676861547,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2401856,
+      "num": 2401856,
+      "word": "澳大利亚非法捐精致60个孩子模样相似",
+      "onboard_time": 1676864070,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -115,12 +123,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1034418,
+      "num": 729359,
+      "word": "小龙人贝贝扮演者去世",
+      "onboard_time": 1676868755,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1015636,
       "num": 1015636,
       "word": "肖战诉网友侵权案将开庭",
       "onboard_time": 1676859387,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 993323,
+      "num": 993323,
+      "word": "女子13岁被拐生子人贩子获刑12年",
+      "onboard_time": 1676866173,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 984973,
@@ -153,14 +177,6 @@
       "onboard_time": 1676843232,
       "rank": 10,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 889184,
-      "num": 889184,
-      "word": "女子13岁被拐生子人贩子获刑12年",
-      "onboard_time": 1676866173,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 835814,
@@ -219,6 +235,22 @@
       "category": "体育,影视"
     },
     {
+      "raw_hot": 738335,
+      "num": 738335,
+      "word": "亚马逊要求员工一周到岗工作3天",
+      "onboard_time": 1676866291,
+      "rank": 31,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 702747,
+      "num": 702747,
+      "word": "段小薇",
+      "onboard_time": 1676870075,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 700023,
       "num": 700023,
       "word": "SMTOWN担心HYBE将自己艺人排后",
@@ -243,14 +275,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 672948,
-      "num": 672948,
-      "word": "亚马逊要求员工一周到岗工作3天",
-      "onboard_time": 1676866291,
-      "rank": 31,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 656772,
       "num": 656772,
       "word": "迪士尼宣布阿凡达2票房超泰坦尼克号",
@@ -259,20 +283,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 654798,
+      "num": 654798,
+      "word": "考研人的脑子已经被这些BGM占领",
+      "onboard_time": 1676864912,
+      "rank": 14,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 647834,
       "num": 647834,
       "word": "集美大学",
       "onboard_time": 1676799632,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 646053,
-      "num": 646053,
-      "word": "考研人的脑子已经被这些BGM占领",
-      "onboard_time": 1676864912,
-      "rank": 14,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 644346,
@@ -299,12 +323,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611949,
+      "num": 611949,
+      "word": "黑客组织正对中国疯狂实施网络攻击",
+      "onboard_time": 1676867015,
+      "rank": 35,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 610640,
       "num": 610640,
       "word": "粉丝为王鹤棣虞书欣挂同心锁",
       "onboard_time": 1676865392,
       "rank": 21,
       "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 604698,
+      "num": 604698,
+      "word": "故宫回应没有现场售票窗口",
+      "onboard_time": 1676866717,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 601249,
+      "num": 601249,
+      "word": "杨紫齐刘海卷发造型",
+      "onboard_time": 1676869474,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 600937,
@@ -345,6 +393,14 @@
       "onboard_time": 1676861729,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 549986,
+      "num": 549986,
+      "word": "迪丽热巴诉网友侵权案将开庭",
+      "onboard_time": 1676869655,
+      "rank": 19,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 547127,
@@ -467,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441488,
+      "num": 441488,
+      "word": "NBA全明星太无聊了",
+      "onboard_time": 1676866472,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436982,
       "num": 436982,
       "word": "杭州发热学生涉及三所学校",
@@ -481,14 +545,6 @@
       "onboard_time": 1676816194,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 431085,
-      "num": 431085,
-      "word": "故宫回应没有现场售票窗口",
-      "onboard_time": 1676866717,
-      "rank": 43,
-      "category": "旅游"
     },
     {
       "raw_hot": 427745,
@@ -521,6 +577,22 @@
       "onboard_time": 1676863050,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 399427,
+      "num": 399427,
+      "word": "她的小梨涡",
+      "onboard_time": 1676869716,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 397491,
+      "num": 385187,
+      "word": "宣璐汪卓成尘缘二搭",
+      "onboard_time": 1676868156,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 386734,
@@ -579,12 +651,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 364540,
-      "num": 364540,
-      "word": "NBA全明星太无聊了",
-      "onboard_time": 1676866472,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 360246,
+      "num": 360246,
+      "word": "行驶中小车后备箱塞人露双脚",
+      "onboard_time": 1676867856,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356024,
@@ -601,6 +673,14 @@
       "onboard_time": 1676860827,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350583,
+      "num": 350583,
+      "word": "aespa世界观第一季大结局",
+      "onboard_time": 1676869775,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 345743,
@@ -643,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324895,
+      "num": 324895,
+      "word": "情绪不好或导致胃胀胃痛",
+      "onboard_time": 1676866173,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321331,
       "num": 321331,
       "word": "江西省考",
@@ -651,28 +739,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 320186,
-      "num": 320186,
-      "word": "黑客组织正对中国疯狂实施网络攻击",
-      "onboard_time": 1676867015,
-      "rank": 35,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 319541,
       "num": 319541,
       "word": "阿娇哭得好美",
       "onboard_time": 1676808810,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 319449,
-      "num": 319449,
-      "word": "情绪不好或导致胃胀胃痛",
-      "onboard_time": 1676866173,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 319107,
@@ -731,6 +803,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 286552,
+      "num": 286552,
+      "word": "小龙人",
+      "onboard_time": 1676868935,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 286211,
       "num": 286211,
       "word": "朱一龙周一侧面大片",
@@ -776,6 +856,22 @@
       "word": "YG新女团成员ASA介绍视频",
       "onboard_time": 1676853931,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 253725,
+      "num": 253725,
+      "word": "王楚然阮流筝反差感",
+      "onboard_time": 1676869054,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 253678,
+      "num": 253678,
+      "word": "宋仲基与狗狗合照",
+      "onboard_time": 1676863050,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -883,14 +979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209891,
-      "num": 209891,
-      "word": "宋仲基与狗狗合照",
-      "onboard_time": 1676863050,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207132,
       "num": 207132,
       "word": "你会二刷显微镜下的大明吗",
@@ -923,12 +1011,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196159,
+      "num": 196159,
+      "word": "李一桐说任何时间苏玖儿都会全力以赴",
+      "onboard_time": 1676870191,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195172,
+      "num": 195172,
+      "word": "邢菲武庚纪蓝白长裙路透",
+      "onboard_time": 1676868254,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189961,
       "num": 189961,
       "word": "如何看待合肥教授宣扬功利内容",
       "onboard_time": 1676826500,
       "rank": 20,
       "category": "教育,社会议题"
+    },
+    {
+      "raw_hot": 188380,
+      "num": 188380,
+      "word": "电影中国乒乓国家队打call版预告",
+      "onboard_time": 1676869174,
+      "rank": 49,
+      "category": "影视,体育"
     },
     {
       "raw_hot": 186533,
@@ -993,14 +1105,6 @@
       "onboard_time": 1676813251,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171594,
-      "num": 171594,
-      "word": "行驶中小车后备箱塞人露双脚",
-      "onboard_time": 1676867856,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170092,
