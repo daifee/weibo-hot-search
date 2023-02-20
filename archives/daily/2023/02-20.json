@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676862160302,
+  "endTime": 1676863469664,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -9,6 +9,14 @@
       "onboard_time": 1676858427,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2444986,
+      "num": 2444986,
+      "word": "新冠",
+      "onboard_time": 1676861547,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2378516,
@@ -83,12 +91,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1003517,
-      "num": 1003517,
-      "word": "新冠",
-      "onboard_time": 1676861547,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 984973,
+      "num": 984973,
+      "word": "张婧仪胡一天 长街长",
+      "onboard_time": 1676860709,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 969067,
@@ -107,14 +115,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 895231,
-      "num": 895231,
-      "word": "张婧仪胡一天 长街长",
-      "onboard_time": 1676860709,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 829427,
       "num": 829427,
       "word": "各地考研成绩查询时间汇总",
@@ -131,8 +131,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 764600,
-      "num": 764600,
+      "raw_hot": 768039,
+      "num": 768039,
       "word": "导演说言承旭拍戏时一直吃水煮菜",
       "onboard_time": 1676859085,
       "rank": 7,
@@ -145,6 +145,14 @@
       "onboard_time": 1676818295,
       "rank": 4,
       "category": "体育,影视"
+    },
+    {
+      "raw_hot": 729511,
+      "num": 729511,
+      "word": "90后小伙以为健康体检一身老年病",
+      "onboard_time": 1676861427,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 700023,
@@ -177,6 +185,14 @@
       "onboard_time": 1676799632,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 644346,
+      "num": 644346,
+      "word": "詹姆斯对美娜秀中文",
+      "onboard_time": 1676861126,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 625377,
@@ -243,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 507834,
-      "num": 507834,
-      "word": "詹姆斯对美娜秀中文",
-      "onboard_time": 1676861126,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 503851,
+      "num": 231001,
+      "word": "爱奇艺会员不再限制登录设备种类",
+      "onboard_time": 1676862388,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 495723,
@@ -257,6 +273,14 @@
       "onboard_time": 1676819852,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493012,
+      "num": 493012,
+      "word": "陈戌源曾劝李铁退还武汉长江4800万",
+      "onboard_time": 1676861729,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 492608,
@@ -371,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 347928,
-      "num": 347928,
-      "word": "90后小伙以为健康体检一身老年病",
-      "onboard_time": 1676861427,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 341702,
+      "num": 341702,
+      "word": "九霄寒夜暖定档预告",
+      "onboard_time": 1676863288,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 337025,
@@ -435,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314309,
+      "num": 314309,
+      "word": "爱奇艺限制投屏案原告发声",
+      "onboard_time": 1676862808,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 309856,
       "num": 309856,
       "word": "詹姆斯称自己不会连续无缘季后赛",
@@ -467,6 +499,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 286211,
+      "num": 286211,
+      "word": "朱一龙周一侧面大片",
+      "onboard_time": 1676863168,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276294,
       "num": 276294,
       "word": "独生子女能否全部继承父母遗产",
@@ -483,12 +523,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269643,
+      "num": 269643,
+      "word": "严浩翔团综游乐园路透",
+      "onboard_time": 1676863409,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263088,
       "num": 263088,
       "word": "YG新女团成员ASA介绍视频",
       "onboard_time": 1676853931,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259359,
+      "num": 259359,
+      "word": "教育局通报杭州有学生新冠阳性",
+      "onboard_time": 1676861967,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 251502,
@@ -531,20 +587,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232754,
+      "num": 232754,
+      "word": "盘点考研查分的高燃瞬间",
+      "onboard_time": 1676862037,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 228367,
       "num": 228367,
       "word": "明中严冰be了",
       "onboard_time": 1676823268,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225809,
-      "num": 225809,
-      "word": "陈戌源曾劝李铁退还武汉长江4800万",
-      "onboard_time": 1676861729,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 222874,
@@ -561,6 +617,14 @@
       "onboard_time": 1676859207,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213883,
+      "num": 213883,
+      "word": "薛之谦 加场",
+      "onboard_time": 1676863050,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 213478,
@@ -587,20 +651,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206506,
+      "num": 206506,
+      "word": "SMTOWN将今日召开企业说明会",
+      "onboard_time": 1676862629,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204788,
+      "num": 204788,
+      "word": "为什么年轻人越来越亚健康",
+      "onboard_time": 1676863050,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200939,
       "num": 200939,
       "word": "金子涵跳了LEFTRIGHT",
       "onboard_time": 1676825123,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 198890,
-      "num": 198890,
-      "word": "教育局通报杭州有学生新冠阳性",
-      "onboard_time": 1676861967,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 189961,
@@ -625,14 +697,6 @@
       "onboard_time": 1676806350,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185521,
-      "num": 185521,
-      "word": "盘点考研查分的高燃瞬间",
-      "onboard_time": 1676862037,
-      "rank": 33,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 185206,
@@ -795,6 +859,22 @@
       "category": "作品衍生,社会新闻"
     },
     {
+      "raw_hot": 131873,
+      "num": 131873,
+      "word": "儿子患癌丈夫伤残女子跑外卖扛起家",
+      "onboard_time": 1676863347,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131410,
+      "num": 131410,
+      "word": "宋仲基与狗狗合照",
+      "onboard_time": 1676863050,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130407,
       "num": 130407,
       "word": "陈宙飞",
@@ -939,6 +1019,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 65142,
+      "num": 1978084,
+      "word": "写意中国探寻汉字起源",
+      "onboard_time": 1676862207,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58987,
       "num": 58987,
       "word": "曼联3比0莱斯特城",
@@ -1001,6 +1089,9 @@
     },
     {
       "word": "#讲好中国故事传播好中国声音#"
+    },
+    {
+      "word": "#不负春光一起出发#"
     }
   ]
 }
