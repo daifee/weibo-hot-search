@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676927784967,
+  "endTime": 1676928819985,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -45412,7 +45412,7 @@
     },
     {
       "raw_hot": 34975,
-      "num": 25390,
+      "num": 27915,
       "word": "男子公交站台偷窥女生裙底",
       "onboard_time": 1676922191,
       "rank": 22,
@@ -45465,6 +45465,14 @@
       "onboard_time": 1676284539,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31513,
+      "num": 31513,
+      "word": "115一袋的薯片刺客你吃过吗",
+      "onboard_time": 1676923691,
+      "rank": 47,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 30821,
@@ -45579,14 +45587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24824,
-      "num": 24824,
-      "word": "115一袋的薯片刺客你吃过吗",
-      "onboard_time": 1676923691,
-      "rank": 47,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 24711,
       "num": 33718,
       "word": "Felix演唱会秀腹肌",
@@ -45665,6 +45665,14 @@
       "onboard_time": 1676922911,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14885,
+      "num": 14885,
+      "word": "美国五霸俱全害人害己",
+      "onboard_time": 1676928371,
+      "rank": 40,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

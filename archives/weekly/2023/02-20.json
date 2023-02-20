@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676927784967,
+  "endTime": 1676928819985,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -2756,7 +2756,7 @@
     },
     {
       "raw_hot": 34975,
-      "num": 25390,
+      "num": 27915,
       "word": "男子公交站台偷窥女生裙底",
       "onboard_time": 1676922191,
       "rank": 22,
@@ -2779,8 +2779,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24824,
-      "num": 24824,
+      "raw_hot": 31513,
+      "num": 31513,
       "word": "115一袋的薯片刺客你吃过吗",
       "onboard_time": 1676923691,
       "rank": 47,
@@ -2801,6 +2801,14 @@
       "onboard_time": 1676922911,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14885,
+      "num": 14885,
+      "word": "美国五霸俱全害人害己",
+      "onboard_time": 1676928371,
+      "rank": 40,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
