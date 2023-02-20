@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676914410303,
+  "endTime": 1676917408052,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -39619,6 +39619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168023,
+      "num": 168023,
+      "word": "主人被抓走后狗狗的反应",
+      "onboard_time": 1676912000,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 167897,
       "num": 167897,
       "word": "张杰神还原汤姆猫",
@@ -41065,14 +41073,6 @@
       "onboard_time": 1675487547,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155311,
-      "num": 155311,
-      "word": "主人被抓走后狗狗的反应",
-      "onboard_time": 1676912000,
-      "rank": 22,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 155189,
@@ -45425,6 +45425,14 @@
       "onboard_time": 1676692827,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 33245,
+      "num": 33245,
+      "word": "当我开始给妆容做减法",
+      "onboard_time": 1676916076,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 32361,

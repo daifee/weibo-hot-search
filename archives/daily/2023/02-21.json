@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676914410303,
+  "endTime": 1676917408052,
   "band_list": [
     {
       "raw_hot": 1212960,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168023,
+      "num": 168023,
+      "word": "主人被抓走后狗狗的反应",
+      "onboard_time": 1676912000,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 167019,
       "num": 167019,
       "word": "这深蹲有点费猫",
@@ -265,14 +273,6 @@
       "onboard_time": 1676899593,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 155311,
-      "num": 155311,
-      "word": "主人被抓走后狗狗的反应",
-      "onboard_time": 1676912000,
-      "rank": 22,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 154362,
@@ -417,6 +417,14 @@
       "onboard_time": 1676892151,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33245,
+      "num": 33245,
+      "word": "当我开始给妆容做减法",
+      "onboard_time": 1676916076,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 23108,

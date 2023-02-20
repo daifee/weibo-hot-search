@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676914410303,
+  "endTime": 1676917408052,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -2307,6 +2307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168023,
+      "num": 168023,
+      "word": "主人被抓走后狗狗的反应",
+      "onboard_time": 1676912000,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 167738,
       "num": 167738,
       "word": "卓昊对重紫开浪漫大招",
@@ -2409,14 +2417,6 @@
       "onboard_time": 1676803531,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155311,
-      "num": 155311,
-      "word": "主人被抓走后狗狗的反应",
-      "onboard_time": 1676912000,
-      "rank": 22,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 154237,
@@ -2745,6 +2745,14 @@
       "onboard_time": 1676801253,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33245,
+      "num": 33245,
+      "word": "当我开始给妆容做减法",
+      "onboard_time": 1676916076,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 24512,
