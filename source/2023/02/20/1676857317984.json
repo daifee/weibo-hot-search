@@ -1,0 +1,410 @@
+{
+  "runTime": 1676857317984,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1608373,
+        "num": 1608373,
+        "word": "考研成绩",
+        "onboard_time": 1676809533,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 969067,
+        "num": 969067,
+        "word": "唐嫣谢娜李维嘉现身支持张杰话剧",
+        "onboard_time": 1676852674,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12663,
+        "num": 958774,
+        "word": "跨国企业在中国",
+        "onboard_time": 1676801253,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953659,
+        "num": 953659,
+        "word": "为什么年轻人胃病高发",
+        "onboard_time": 1676853031,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 763237,
+        "num": 763237,
+        "word": "杭州两所中小学出现新冠阳性学生",
+        "onboard_time": 1676821231,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1823820,
+        "num": 729806,
+        "word": "北京户口有什么好处",
+        "onboard_time": 1676854290,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683125,
+        "num": 683125,
+        "word": "杭州校方回应出现阳性学生",
+        "onboard_time": 1676852610,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 640347,
+        "num": 640347,
+        "word": "狂飙里的小黄瑶拿了篮球联赛冠军",
+        "onboard_time": 1676818295,
+        "rank": 7,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 616545,
+        "num": 616545,
+        "word": "促进低龄老年就业",
+        "onboard_time": 1676852550,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577909,
+        "num": 577909,
+        "word": "女子超市买250斤过期大米索赔被殴打",
+        "onboard_time": 1676828598,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 461042,
+        "num": 461042,
+        "word": "这4种情形独生子女不能全部继承父母遗产",
+        "onboard_time": 1676850143,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1330202,
+        "num": 453997,
+        "word": "张大大直播哭了",
+        "onboard_time": 1676851827,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441659,
+        "num": 441659,
+        "word": "谁教张新成撩头发的",
+        "onboard_time": 1676819792,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386734,
+        "num": 386734,
+        "word": "日本一男子拉面店舔筷子后放回",
+        "onboard_time": 1676832615,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367219,
+        "num": 367219,
+        "word": "男子为挽回感情酒后烧了女友家",
+        "onboard_time": 1676841672,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 365729,
+        "num": 365729,
+        "word": "每日新增阳性5000例以上",
+        "onboard_time": 1676789727,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354643,
+        "num": 354643,
+        "word": "这票房还没违约金高",
+        "onboard_time": 1676817695,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331379,
+        "num": 331379,
+        "word": "NBA全明星",
+        "onboard_time": 1676856926,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319107,
+        "num": 319107,
+        "word": "字母哥为全明星选人做笔记",
+        "onboard_time": 1676855129,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 308980,
+        "num": 308980,
+        "word": "中学老师称除生病外痛苦都是价值观造成的",
+        "onboard_time": 1676843232,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 287875,
+        "num": 287875,
+        "word": "考研上岸专用表情包",
+        "onboard_time": 1676852069,
+        "rank": 20,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 263088,
+        "num": 263088,
+        "word": "YG新女团成员ASA介绍视频",
+        "onboard_time": 1676853931,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256725,
+        "num": 256725,
+        "word": "男子为落户北京让妻子跟别人假结婚",
+        "onboard_time": 1676815113,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 251502,
+        "num": 251502,
+        "word": "小时候最喜欢的方便面吃法",
+        "onboard_time": 1676852970,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250081,
+        "num": 250081,
+        "word": "龙形天象将出现在夜空",
+        "onboard_time": 1676856088,
+        "rank": 24,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 242655,
+        "num": 242655,
+        "word": "言承旭 满40减20",
+        "onboard_time": 1676814512,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235081,
+        "num": 235081,
+        "word": "农历二月生的今年能过3次生日",
+        "onboard_time": 1676807487,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228433,
+        "num": 228433,
+        "word": "长沙旅游真的没有淡季吗",
+        "onboard_time": 1676821470,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 219620,
+        "num": 219620,
+        "word": "luna评论宋茜姐姐依旧还是那么美",
+        "onboard_time": 1676815172,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213478,
+        "num": 213478,
+        "word": "时代少年团全员晒海边照",
+        "onboard_time": 1676853512,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205421,
+        "num": 205421,
+        "word": "中国台湾联赛大规模冲突",
+        "onboard_time": 1676823087,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193917,
+        "num": 193917,
+        "word": "梅西任意球绝杀",
+        "onboard_time": 1676816194,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178690,
+        "num": 178690,
+        "word": "小时候的塌天大事",
+        "onboard_time": 1676845393,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176796,
+        "num": 176796,
+        "word": "各地考研成绩查询时间汇总",
+        "onboard_time": 1676857045,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 173777,
+        "num": 173777,
+        "word": "世界低估了美国全球网络窃密的危害",
+        "onboard_time": 1676821470,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 170092,
+        "num": 170092,
+        "word": "饺子怎么也没想到会挨一刀",
+        "onboard_time": 1676825601,
+        "rank": 35,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 164324,
+        "num": 164324,
+        "word": "蔡徐坤出发米兰时装周",
+        "onboard_time": 1676848761,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 158717,
+        "num": 158717,
+        "word": "杨幂漂发了",
+        "onboard_time": 1676802091,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142260,
+        "num": 142260,
+        "word": "夏花",
+        "onboard_time": 1676814092,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134375,
+        "num": 134375,
+        "word": "你被各式的电话推销骚扰过吗",
+        "onboard_time": 1676854649,
+        "rank": 39,
+        "category": "社会议题,幽默"
+      },
+      {
+        "raw_hot": 134186,
+        "num": 134186,
+        "word": "小朋友问朴宰范可以跟IVE结婚吗",
+        "onboard_time": 1676824164,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132901,
+        "num": 132901,
+        "word": "白惠承认隐孕入职",
+        "onboard_time": 1676808030,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132405,
+        "num": 132405,
+        "word": "TWICE回归概念预告",
+        "onboard_time": 1676850927,
+        "rank": 42,
+        "category": "作品衍生,社会新闻"
+      },
+      {
+        "raw_hot": 130407,
+        "num": 130407,
+        "word": "陈宙飞",
+        "onboard_time": 1676853748,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124728,
+        "num": 124728,
+        "word": "找工作后才明白的事",
+        "onboard_time": 1676822729,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116094,
+        "num": 116094,
+        "word": "春日赏花拍照实用攻略",
+        "onboard_time": 1676856685,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 114989,
+        "num": 114989,
+        "word": "詹姆斯称自己不会连续无缘季后赛",
+        "onboard_time": 1676857226,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 108705,
+        "num": 108705,
+        "word": "乐福加盟热火",
+        "onboard_time": 1676850626,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102356,
+        "num": 102356,
+        "word": "中国网友偶遇郑敬淏崔秀英",
+        "onboard_time": 1676819852,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101580,
+        "num": 101580,
+        "word": "阿娇哭得好美",
+        "onboard_time": 1676808810,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#藏在节气里的中国传统色#"
+    }
+  }
+}
