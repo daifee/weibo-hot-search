@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676902718793,
+  "endTime": 1676903701927,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2942783,
-      "num": 2942783,
+      "raw_hot": 3278113,
+      "num": 3278113,
       "word": "官方回应四川大学内挖出人的遗体",
       "onboard_time": 1676899530,
       "rank": 45,
@@ -179,6 +179,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1401880,
+      "num": 1401880,
+      "word": "东奥崩了",
+      "onboard_time": 1676899892,
+      "rank": 34,
+      "category": "科技,教育"
+    },
+    {
       "raw_hot": 1376668,
       "num": 1376668,
       "word": "Angelababy马天宇对视剧照",
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1109780,
+      "num": 1109780,
+      "word": "日本66%的高端外国人才是中国人",
+      "onboard_time": 1676901089,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1093601,
       "num": 1093601,
       "word": "弄错试管婴儿医院曾劝导养父要豁达",
@@ -321,14 +337,6 @@
       "onboard_time": 1676872769,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1047694,
-      "num": 1047694,
-      "word": "东奥崩了",
-      "onboard_time": 1676899892,
-      "rank": 34,
-      "category": "科技,教育"
     },
     {
       "raw_hot": 1046828,
@@ -403,16 +411,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 954228,
-      "num": 954228,
-      "word": "日本66%的高端外国人才是中国人",
-      "onboard_time": 1676901089,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 939629,
-      "num": 367268,
+      "num": 379138,
       "word": "长肉芽凝胶",
       "onboard_time": 1676897731,
       "rank": 49,
@@ -579,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 712733,
+      "num": 712733,
+      "word": "点燃我温暖你韩国开播",
+      "onboard_time": 1676902414,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 700023,
       "num": 700023,
       "word": "SMTOWN担心HYBE将自己艺人排后",
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 686094,
+      "num": 612001,
+      "word": "权珉娥兼职陪聊被诈骗1500万韩元",
+      "onboard_time": 1676899410,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 683125,
       "num": 683125,
       "word": "杭州校方回应出现阳性学生",
@@ -640,14 +656,6 @@
       "word": "周深机场签名被反送张颂文签名照",
       "onboard_time": 1676898930,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 667858,
-      "num": 612001,
-      "word": "权珉娥兼职陪聊被诈骗1500万韩元",
-      "onboard_time": 1676899410,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -731,6 +739,14 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 609978,
+      "num": 609978,
+      "word": "黄奕新剧身材",
+      "onboard_time": 1676899593,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 604698,
       "num": 604698,
       "word": "故宫回应没有现场售票窗口",
@@ -744,14 +760,6 @@
       "word": "谁教张新成撩头发的",
       "onboard_time": 1676819792,
       "rank": 6,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 597676,
-      "num": 597676,
-      "word": "黄奕新剧身材",
-      "onboard_time": 1676899593,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -907,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512906,
+      "num": 512906,
+      "word": "蔡徐坤收到粉丝送的蓝玫瑰",
+      "onboard_time": 1676901813,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503851,
       "num": 231001,
       "word": "爱奇艺会员不再限制登录设备种类",
@@ -1011,14 +1027,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 470469,
-      "num": 470469,
-      "word": "蔡徐坤收到粉丝送的蓝玫瑰",
-      "onboard_time": 1676901813,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 467371,
       "num": 341998,
       "word": "中国台湾联赛大规模冲突",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1676865331,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 450142,
+      "num": 450142,
+      "word": "文旅局长零下20度穿长裙代言家乡",
+      "onboard_time": 1676902295,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 446933,
@@ -1123,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 431089,
+      "num": 431089,
+      "word": "黄冈回应一问三不知主任有新职",
+      "onboard_time": 1676901930,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430635,
       "num": 430635,
       "word": "武山一中",
@@ -1147,11 +1171,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 428330,
+      "num": 428330,
+      "word": "夏花",
+      "onboard_time": 1676814092,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 427745,
       "num": 427745,
       "word": "电影热烈",
       "onboard_time": 1676867736,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 418077,
+      "num": 418077,
+      "word": "星落凝成糖 喜剧",
+      "onboard_time": 1676902113,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1347,14 +1387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347978,
-      "num": 347978,
-      "word": "夏花",
-      "onboard_time": 1676814092,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 347938,
       "num": 347938,
       "word": "拜登已离开基辅",
@@ -1515,6 +1547,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 318827,
+      "num": 318827,
+      "word": "妇联回应16岁少女被父母卖掉后出逃",
+      "onboard_time": 1676902173,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316606,
       "num": 316606,
       "word": "重紫制片人是听劝的",
@@ -1571,12 +1611,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 294775,
-      "num": 294775,
-      "word": "星落凝成糖 喜剧",
-      "onboard_time": 1676902113,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 293283,
+      "num": 293283,
+      "word": "想去武汉体验一把过早",
+      "onboard_time": 1676901271,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 288551,
@@ -1667,20 +1707,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 272318,
-      "num": 272318,
-      "word": "想去武汉体验一把过早",
-      "onboard_time": 1676901271,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 271622,
-      "num": 268526,
-      "word": "黄冈回应一问三不知主任有新职",
-      "onboard_time": 1676901930,
+      "raw_hot": 271259,
+      "num": 271259,
+      "word": "二月不减肥五月徒伤悲",
+      "onboard_time": 1676902774,
       "rank": 30,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 269643,
@@ -1689,14 +1721,6 @@
       "onboard_time": 1676863409,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268561,
-      "num": 268561,
-      "word": "点燃我温暖你韩国开播",
-      "onboard_time": 1676902414,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 266500,
@@ -1737,6 +1761,14 @@
       "onboard_time": 1676863050,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252724,
+      "num": 252724,
+      "word": "复旦团队发布国内首个类ChatGPT模型MOSS",
+      "onboard_time": 1676903012,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 251502,
@@ -1939,14 +1971,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 207576,
-      "num": 207576,
-      "word": "妇联回应16岁少女被父母卖掉后出逃",
-      "onboard_time": 1676902173,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207132,
       "num": 207132,
       "word": "你会二刷显微镜下的大明吗",
@@ -2003,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196938,
+      "num": 196938,
+      "word": "樊振东个人能力太强了",
+      "onboard_time": 1676903434,
+      "rank": 43,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 196159,
       "num": 196159,
       "word": "李一桐说任何时间苏玖儿都会全力以赴",
@@ -2025,14 +2057,6 @@
       "onboard_time": 1676883570,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190939,
-      "num": 190939,
-      "word": "文旅局长零下20度穿长裙代言家乡",
-      "onboard_time": 1676902295,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189961,
@@ -2113,6 +2137,14 @@
       "onboard_time": 1676848881,
       "rank": 23,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 179918,
+      "num": 179918,
+      "word": "郑恺说自己是小区罗纳尔多",
+      "onboard_time": 1676903615,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 177017,
@@ -2547,6 +2579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55490,
+      "num": 1210251,
+      "word": "走进区域看发展",
+      "onboard_time": 1676900011,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54832,
       "num": 54832,
       "word": "高叶再次感谢陈书婷",
@@ -2561,14 +2601,6 @@
       "onboard_time": 1676846956,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 48268,
-      "num": 1210251,
-      "word": "走进区域看发展",
-      "onboard_time": 1676900011,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46545,
@@ -2615,6 +2647,9 @@
     },
     {
       "word": "#9图速览中国经济复苏进度条#"
+    },
+    {
+      "word": "#看中国式现代化图景#"
     }
   ]
 }
