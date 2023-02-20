@@ -1,0 +1,410 @@
+{
+  "runTime": 1676867017379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3656462,
+        "num": 3656462,
+        "word": "非法捐精致60个孩子模样相似",
+        "onboard_time": 1676864070,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2577744,
+        "num": 2577744,
+        "word": "桑姓艺人在宣传现场被强制执行",
+        "onboard_time": 1676858427,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 67292,
+        "num": 2151273,
+        "word": "写意中国探寻汉字起源",
+        "onboard_time": 1676862207,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1967302,
+        "num": 1967302,
+        "word": "她的小梨涡开机",
+        "onboard_time": 1676864732,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2301003,
+        "num": 1803136,
+        "word": "新冠",
+        "onboard_time": 1676861547,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1376668,
+        "num": 1376668,
+        "word": "Angelababy马天宇对视剧照",
+        "onboard_time": 1676864311,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1220689,
+        "num": 1220689,
+        "word": "桑欣然",
+        "onboard_time": 1676865694,
+        "rank": 6,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1164047,
+        "num": 1164047,
+        "word": "医院回应试管婴儿被弄错",
+        "onboard_time": 1676860287,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835883,
+        "num": 835883,
+        "word": "爱奇艺不再限制投屏",
+        "onboard_time": 1676858966,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 831023,
+        "num": 831023,
+        "word": "桑姓艺人因1.5万标的成老赖",
+        "onboard_time": 1676863951,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 794586,
+        "num": 794586,
+        "word": "不能让她们怕穿碎花裙子",
+        "onboard_time": 1676863768,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 661571,
+        "num": 661571,
+        "word": "90后小伙以为健康体检一身老年病",
+        "onboard_time": 1676861427,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656772,
+        "num": 656772,
+        "word": "迪士尼宣布阿凡达2票房超泰坦尼克号",
+        "onboard_time": 1676864190,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601563,
+        "num": 601563,
+        "word": "考研成绩",
+        "onboard_time": 1676809533,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 562469,
+        "num": 562469,
+        "word": "考研人的脑子已经被这些BGM占领",
+        "onboard_time": 1676864912,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 550860,
+        "num": 550860,
+        "word": "张婧仪胡一天 长街长",
+        "onboard_time": 1676860709,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 509822,
+        "num": 509822,
+        "word": "陈戌源曾劝李铁退还武汉长江4800万",
+        "onboard_time": 1676861729,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491943,
+        "num": 491943,
+        "word": "詹姆斯因伤退出全明星",
+        "onboard_time": 1676865272,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490013,
+        "num": 490013,
+        "word": "女子13岁被拐生子人贩子获刑12年",
+        "onboard_time": 1676866173,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488287,
+        "num": 488287,
+        "word": "爱奇艺限制投屏案原告发声",
+        "onboard_time": 1676862808,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 451417,
+        "num": 451417,
+        "word": "星落凝成糖女主人设",
+        "onboard_time": 1676865331,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 437992,
+        "num": 437992,
+        "word": "粉丝为王鹤棣虞书欣挂同心锁",
+        "onboard_time": 1676865392,
+        "rank": 21,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 410662,
+        "num": 410662,
+        "word": "松本零士去世",
+        "onboard_time": 1676865392,
+        "rank": 22,
+        "category": "动漫,社会新闻"
+      },
+      {
+        "raw_hot": 403509,
+        "num": 403509,
+        "word": "北京冬奥会要被搬上大银幕了",
+        "onboard_time": 1676865452,
+        "rank": 23,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 402346,
+        "num": 402346,
+        "word": "导演说言承旭拍戏时一直吃水煮菜",
+        "onboard_time": 1676859085,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399781,
+        "num": 399781,
+        "word": "SMTOWN担心HYBE将自己艺人排后",
+        "onboard_time": 1676859266,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371125,
+        "num": 371125,
+        "word": "薛之谦 加场",
+        "onboard_time": 1676863050,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 368704,
+        "num": 368704,
+        "word": "儿子患癌丈夫伤残女子跑外卖扛起家",
+        "onboard_time": 1676863347,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361159,
+        "num": 361159,
+        "word": "各地考研成绩查询时间汇总",
+        "onboard_time": 1676857045,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 356024,
+        "num": 356024,
+        "word": "教育局通报杭州有学生新冠阳性",
+        "onboard_time": 1676861967,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 345743,
+        "num": 345743,
+        "word": "内地与澳门驾驶证互认换领",
+        "onboard_time": 1676864252,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322801,
+        "num": 322801,
+        "word": "亚马逊要求员工一周到岗工作3天",
+        "onboard_time": 1676866291,
+        "rank": 31,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 314219,
+        "num": 314219,
+        "word": "光渊好像真的很用心在拍",
+        "onboard_time": 1676865452,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295543,
+        "num": 295543,
+        "word": "苹果将阻止用户免费装开测版iOS17",
+        "onboard_time": 1676857405,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 267489,
+        "num": 267489,
+        "word": "唐嫣谢娜李维嘉现身支持张杰话剧",
+        "onboard_time": 1676852674,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256487,
+        "num": 256487,
+        "word": "詹姆斯对美娜秀中文",
+        "onboard_time": 1676861126,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241752,
+        "num": 241752,
+        "word": "大学生开学决赛圈",
+        "onboard_time": 1676866118,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 241342,
+        "num": 241342,
+        "word": "情绪不好或导致胃胀胃痛",
+        "onboard_time": 1676866173,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227608,
+        "num": 227608,
+        "word": "电影热烈滚烫青春版海报",
+        "onboard_time": 1676864790,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218683,
+        "num": 218683,
+        "word": "为什么年轻人胃病高发",
+        "onboard_time": 1676853031,
+        "rank": 39,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 209086,
+        "num": 209086,
+        "word": "赵又廷你知道你在看什么吗",
+        "onboard_time": 1676863529,
+        "rank": 40,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 205413,
+        "num": 205413,
+        "word": "陈梦3比1蒯曼",
+        "onboard_time": 1676865752,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204653,
+        "num": 204653,
+        "word": "NBA全明星太无聊了",
+        "onboard_time": 1676866472,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192868,
+        "num": 192868,
+        "word": "故宫回应没有现场售票窗口",
+        "onboard_time": 1676866717,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 183521,
+        "num": 183521,
+        "word": "宋亚轩刘耀文坐摩天轮路透",
+        "onboard_time": 1676860827,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182049,
+        "num": 182049,
+        "word": "宋仲基与狗狗合照",
+        "onboard_time": 1676863050,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177994,
+        "num": 177994,
+        "word": "塔图姆55分创全明星纪录",
+        "onboard_time": 1676866535,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171789,
+        "num": 171789,
+        "word": "刘涛参加米兰时装周",
+        "onboard_time": 1676866895,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 160822,
+        "num": 160822,
+        "word": "NBA全明星",
+        "onboard_time": 1676856926,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160389,
+        "num": 160389,
+        "word": "这4种情形独生子女不能全部继承父母遗产",
+        "onboard_time": 1676850143,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#藏在节气里的中国传统色#"
+    }
+  }
+}

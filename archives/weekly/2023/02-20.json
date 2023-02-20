@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676864299249,
+  "endTime": 1676867017379,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -9,6 +9,14 @@
       "onboard_time": 1676858427,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3656462,
+      "num": 3656462,
+      "word": "非法捐精致60个孩子模样相似",
+      "onboard_time": 1676864070,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2565491,
@@ -25,6 +33,14 @@
       "onboard_time": 1676858966,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1967302,
+      "num": 1967302,
+      "word": "她的小梨涡开机",
+      "onboard_time": 1676864732,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1823820,
@@ -51,6 +67,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1376668,
+      "num": 1376668,
+      "word": "Angelababy马天宇对视剧照",
+      "onboard_time": 1676864311,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1337519,
       "num": 1337519,
       "word": "杭州两所中小学出现新冠阳性学生",
@@ -65,6 +89,14 @@
       "onboard_time": 1676851827,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1220689,
+      "num": 1220689,
+      "word": "桑欣然",
+      "onboard_time": 1676865694,
+      "rank": 6,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1161865,
@@ -123,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 831023,
+      "num": 831023,
+      "word": "桑姓艺人因1.5万标的成老赖",
+      "onboard_time": 1676863951,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 829427,
       "num": 829427,
       "word": "各地考研成绩查询时间汇总",
       "onboard_time": 1676857045,
       "rank": 33,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 794586,
+      "num": 794586,
+      "word": "不能让她们怕穿碎花裙子",
+      "onboard_time": 1676863768,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 783846,
@@ -177,6 +225,14 @@
       "onboard_time": 1676852610,
       "rank": 6,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 656772,
+      "num": 656772,
+      "word": "迪士尼宣布阿凡达2票房超泰坦尼克号",
+      "onboard_time": 1676864190,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 647834,
@@ -235,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562469,
+      "num": 562469,
+      "word": "考研人的脑子已经被这些BGM占领",
+      "onboard_time": 1676864912,
+      "rank": 14,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 558516,
       "num": 446756,
       "word": "杨幂漂发了",
@@ -257,14 +321,6 @@
       "onboard_time": 1676862808,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 537945,
-      "num": 537945,
-      "word": "桑姓艺人因1.5万标的成老赖",
-      "onboard_time": 1676863951,
-      "rank": 13,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 529820,
@@ -307,6 +363,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 491943,
+      "num": 491943,
+      "word": "詹姆斯因伤退出全明星",
+      "onboard_time": 1676865272,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 490013,
+      "num": 490013,
+      "word": "女子13岁被拐生子人贩子获刑12年",
+      "onboard_time": 1676866173,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467371,
       "num": 341998,
       "word": "中国台湾联赛大规模冲突",
@@ -321,6 +393,14 @@
       "onboard_time": 1676850143,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451417,
+      "num": 451417,
+      "word": "星落凝成糖女主人设",
+      "onboard_time": 1676865331,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 446933,
@@ -347,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437992,
+      "num": 437992,
+      "word": "粉丝为王鹤棣虞书欣挂同心锁",
+      "onboard_time": 1676865392,
+      "rank": 21,
+      "category": "艺人,影视"
+    },
+    {
       "raw_hot": 436982,
       "num": 436982,
       "word": "杭州发热学生涉及三所学校",
@@ -369,6 +457,22 @@
       "onboard_time": 1676821470,
       "rank": 17,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 410662,
+      "num": 410662,
+      "word": "松本零士去世",
+      "onboard_time": 1676865392,
+      "rank": 22,
+      "category": "动漫,社会新闻"
+    },
+    {
+      "raw_hot": 403509,
+      "num": 403509,
+      "word": "北京冬奥会要被搬上大银幕了",
+      "onboard_time": 1676865452,
+      "rank": 23,
+      "category": "体育,影视"
     },
     {
       "raw_hot": 386734,
@@ -395,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 371125,
+      "num": 371125,
+      "word": "薛之谦 加场",
+      "onboard_time": 1676863050,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 371000,
       "num": 371000,
       "word": "儿子患癌丈夫伤残女子跑外卖扛起家",
@@ -419,6 +531,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 356024,
+      "num": 356024,
+      "word": "教育局通报杭州有学生新冠阳性",
+      "onboard_time": 1676861967,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 354735,
       "num": 354735,
       "word": "宋亚轩刘耀文坐摩天轮路透",
@@ -427,12 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 348096,
-      "num": 348096,
-      "word": "薛之谦 加场",
-      "onboard_time": 1676863050,
-      "rank": 33,
-      "category": "音乐"
+      "raw_hot": 345743,
+      "num": 345743,
+      "word": "内地与澳门驾驶证互认换领",
+      "onboard_time": 1676864252,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341702,
@@ -441,14 +561,6 @@
       "onboard_time": 1676863288,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 340028,
-      "num": 340028,
-      "word": "教育局通报杭州有学生新冠阳性",
-      "onboard_time": 1676861967,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 337025,
@@ -475,12 +587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 330507,
-      "num": 330507,
-      "word": "迪士尼宣布阿凡达2票房超泰坦尼克号",
-      "onboard_time": 1676864190,
-      "rank": 23,
-      "category": "影视"
+      "raw_hot": 322801,
+      "num": 322801,
+      "word": "亚马逊要求员工一周到岗工作3天",
+      "onboard_time": 1676866291,
+      "rank": 31,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 321331,
@@ -513,6 +625,14 @@
       "onboard_time": 1676822729,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 314219,
+      "num": 314219,
+      "word": "光渊好像真的很用心在拍",
+      "onboard_time": 1676865452,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 309856,
@@ -571,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275207,
-      "num": 275207,
-      "word": "不能让她们怕穿碎花裙子",
-      "onboard_time": 1676863768,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 274776,
       "num": 274776,
       "word": "小朋友问朴宰范可以跟IVE结婚吗",
@@ -635,6 +747,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241752,
+      "num": 241752,
+      "word": "大学生开学决赛圈",
+      "onboard_time": 1676866118,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 241342,
+      "num": 241342,
+      "word": "情绪不好或导致胃胀胃痛",
+      "onboard_time": 1676866173,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235042,
       "num": 235042,
       "word": "盘点考研查分的高燃瞬间",
@@ -659,12 +787,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225942,
-      "num": 225942,
-      "word": "非法捐精致60个孩子模样相似",
-      "onboard_time": 1676864070,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 227608,
+      "num": 227608,
+      "word": "电影热烈滚烫青春版海报",
+      "onboard_time": 1676864790,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 222874,
@@ -723,12 +851,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205413,
+      "num": 205413,
+      "word": "陈梦3比1蒯曼",
+      "onboard_time": 1676865752,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204653,
+      "num": 204653,
+      "word": "NBA全明星太无聊了",
+      "onboard_time": 1676866472,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200939,
       "num": 200939,
       "word": "金子涵跳了LEFTRIGHT",
       "onboard_time": 1676825123,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192868,
+      "num": 192868,
+      "word": "故宫回应没有现场售票窗口",
+      "onboard_time": 1676866717,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 189961,
@@ -787,6 +939,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 177994,
+      "num": 177994,
+      "word": "塔图姆55分创全明星纪录",
+      "onboard_time": 1676866535,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177017,
       "num": 177017,
       "word": "电单车藏匿28台苹果手机走私被查获",
@@ -803,12 +963,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173947,
-      "num": 173947,
-      "word": "内地与澳门驾驶证互认换领",
-      "onboard_time": 1676864252,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 171789,
+      "num": 171789,
+      "word": "刘涛参加米兰时装周",
+      "onboard_time": 1676866895,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 170092,
@@ -1068,7 +1228,7 @@
     },
     {
       "raw_hot": 78823,
-      "num": 2053008,
+      "num": 2151273,
       "word": "写意中国探寻汉字起源",
       "onboard_time": 1676862207,
       "rank": 2,
