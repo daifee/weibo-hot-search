@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676903701927,
+  "endTime": 1676906420022,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -2859,6 +2859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1577381,
+      "num": 1125046,
+      "word": "山东人均身高1米8实锤了",
+      "onboard_time": 1676904034,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1575295,
       "num": 1575295,
       "word": "胡鑫宇全部器官在位无缺失",
@@ -4713,6 +4721,14 @@
       "onboard_time": 1676627973,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1188783,
+      "num": 1188783,
+      "word": "姜广涛",
+      "onboard_time": 1676762657,
+      "rank": 4,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 1188394,
@@ -7323,6 +7339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 922739,
+      "num": 922739,
+      "word": "点燃我温暖你韩国开播",
+      "onboard_time": 1676902414,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 922717,
       "num": 922717,
       "word": "00后女孩退房后屋里遍地是垃圾",
@@ -8921,14 +8945,6 @@
       "onboard_time": 1676331264,
       "rank": 4,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 805542,
-      "num": 805542,
-      "word": "姜广涛",
-      "onboard_time": 1676762657,
-      "rank": 4,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 805301,
@@ -10651,14 +10667,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 712733,
-      "num": 712733,
-      "word": "点燃我温暖你韩国开播",
-      "onboard_time": 1676902414,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 712145,
       "num": 712145,
       "word": "高启盛走路",
@@ -11305,6 +11313,14 @@
       "onboard_time": 1676126851,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 686914,
+      "num": 686914,
+      "word": "复旦团队发布国内首个类ChatGPT模型MOSS",
+      "onboard_time": 1676903012,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 686875,
@@ -12777,6 +12793,14 @@
       "onboard_time": 1676245103,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 622940,
+      "num": 622940,
+      "word": "文旅局长零下20度穿长裙代言家乡",
+      "onboard_time": 1676902295,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 622659,
@@ -18427,14 +18451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 450142,
-      "num": 450142,
-      "word": "文旅局长零下20度穿长裙代言家乡",
-      "onboard_time": 1676902295,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 449659,
       "num": 449659,
       "word": "张译商业版图",
@@ -18505,6 +18521,14 @@
       "onboard_time": 1675859192,
       "rank": 39,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 447914,
+      "num": 447914,
+      "word": "赵露思2022wetv最佳女主感言",
+      "onboard_time": 1676904934,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 447575,
@@ -22427,6 +22451,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 370191,
+      "num": 370191,
+      "word": "樊振东个人能力太强了",
+      "onboard_time": 1676903434,
+      "rank": 43,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 370185,
       "num": 370185,
       "word": "夏花今日开播",
@@ -22545,6 +22577,14 @@
       "onboard_time": 1675913368,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367665,
+      "num": 287123,
+      "word": "王楚钦肖战加班训练",
+      "onboard_time": 1676904994,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 367353,
@@ -25195,6 +25235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 319427,
+      "num": 319427,
+      "word": "想去武汉体验一把过早",
+      "onboard_time": 1676901271,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 319404,
       "num": 319404,
       "word": "时代少年团三亚花衬衫路透",
@@ -26001,6 +26049,14 @@
       "onboard_time": 1676393004,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 307658,
+      "num": 307658,
+      "word": "郑恺说自己是小区罗纳尔多",
+      "onboard_time": 1676903615,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 307633,
@@ -27041,14 +27097,6 @@
       "onboard_time": 1675843410,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 293283,
-      "num": 293283,
-      "word": "想去武汉体验一把过早",
-      "onboard_time": 1676901271,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 293273,
@@ -30417,14 +30465,6 @@
       "onboard_time": 1675842869,
       "rank": 26,
       "category": "幽默,音乐"
-    },
-    {
-      "raw_hot": 252724,
-      "num": 252724,
-      "word": "复旦团队发布国内首个类ChatGPT模型MOSS",
-      "onboard_time": 1676903012,
-      "rank": 33,
-      "category": "科技"
     },
     {
       "raw_hot": 252716,
@@ -35587,14 +35627,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 196938,
-      "num": 196938,
-      "word": "樊振东个人能力太强了",
-      "onboard_time": 1676903434,
-      "rank": 43,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 196866,
       "num": 196866,
       "word": "看出来双方的父亲相处得融洽了",
@@ -37921,14 +37953,6 @@
       "onboard_time": 1676848881,
       "rank": 23,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 179918,
-      "num": 179918,
-      "word": "郑恺说自己是小区罗纳尔多",
-      "onboard_time": 1676903615,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 179915,
@@ -43537,6 +43561,14 @@
       "onboard_time": 1676311037,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120034,
+      "num": 120034,
+      "word": "这是在厕所里安了张床吧",
+      "onboard_time": 1676906371,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 119671,
