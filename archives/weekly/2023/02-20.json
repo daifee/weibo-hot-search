@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676892830552,
+  "endTime": 1676896640368,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1268665,
+      "num": 1268665,
+      "word": "陈梦受伤梦龙退出混双",
+      "onboard_time": 1676894550,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1212614,
       "num": 1212614,
       "word": "克拉棒",
@@ -275,6 +283,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1026648,
+      "num": 1026648,
+      "word": "这一届考研人有多难",
+      "onboard_time": 1676890534,
+      "rank": 15,
+      "category": "情感,教育"
+    },
+    {
+      "raw_hot": 1023670,
+      "num": 1023670,
+      "word": "常州一学院已申请远程接吻专利",
+      "onboard_time": 1676892088,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1019691,
+      "num": 593011,
+      "word": "孙俪 保佑我不要一紧张拉出猪叫",
+      "onboard_time": 1676892151,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1015636,
       "num": 1015636,
       "word": "肖战诉网友侵权案将开庭",
@@ -313,6 +345,14 @@
       "onboard_time": 1676852674,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 926012,
+      "num": 926012,
+      "word": "Mayumi官宣恋情",
+      "onboard_time": 1676893771,
+      "rank": 5,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 917412,
@@ -369,14 +409,6 @@
       "onboard_time": 1676857045,
       "rank": 33,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 816751,
-      "num": 816751,
-      "word": "这一届考研人有多难",
-      "onboard_time": 1676890534,
-      "rank": 15,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 809691,
@@ -499,6 +531,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 698338,
+      "num": 698338,
+      "word": "马龙",
+      "onboard_time": 1676893469,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 692696,
       "num": 692696,
       "word": "杨紫齐刘海卷发造型",
@@ -611,20 +651,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 595078,
+      "num": 487710,
+      "word": "虞书欣穿棉裤上班",
+      "onboard_time": 1676893408,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 593610,
       "num": 593610,
       "word": "大学生毕业论文现状",
       "onboard_time": 1676879011,
       "rank": 17,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 593011,
-      "num": 593011,
-      "word": "孙俪 保佑我不要一紧张拉出猪叫",
-      "onboard_time": 1676892151,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 589151,
@@ -721,6 +761,14 @@
       "onboard_time": 1676885851,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 537279,
+      "num": 537279,
+      "word": "中国乒乓票房",
+      "onboard_time": 1676895928,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 536461,
@@ -841,6 +889,14 @@
       "onboard_time": 1676866895,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 473686,
+      "num": 473686,
+      "word": "煮面条最合适的量",
+      "onboard_time": 1676892568,
+      "rank": 43,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 467371,
@@ -1123,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359450,
+      "num": 359450,
+      "word": "梅西姆巴佩获劳伦斯年度最佳男运动员提名",
+      "onboard_time": 1676892748,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356024,
       "num": 356024,
       "word": "教育局通报杭州有学生新冠阳性",
@@ -1339,6 +1403,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 299299,
+      "num": 299299,
+      "word": "谢娜晒张杰话剧舞台照",
+      "onboard_time": 1676896410,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288551,
       "num": 288551,
       "word": "言承旭 满40减20",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1676877751,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 277871,
+      "num": 277871,
+      "word": "被95岁武术老人的精气神惊到了",
+      "onboard_time": 1676894190,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276849,
@@ -1419,20 +1499,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 264156,
-      "num": 264156,
-      "word": "常州一学院已申请远程接吻专利",
-      "onboard_time": 1676892088,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263088,
       "num": 263088,
       "word": "YG新女团成员ASA介绍视频",
       "onboard_time": 1676853931,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257429,
+      "num": 257429,
+      "word": "考研查到满意分数时的真实反应",
+      "onboard_time": 1676895451,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 253725,
@@ -1507,6 +1587,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 241288,
+      "num": 241288,
+      "word": "烹食大白鲨网红短视频平台复出",
+      "onboard_time": 1676896050,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240479,
       "num": 240479,
       "word": "金字塔内部是这样的",
@@ -1521,6 +1609,14 @@
       "onboard_time": 1676872529,
       "rank": 30,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 239101,
+      "num": 239101,
+      "word": "郭帆说流浪地球3大纲就快被套出来了",
+      "onboard_time": 1676895690,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 235042,
@@ -1673,6 +1769,14 @@
       "onboard_time": 1676888132,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201312,
+      "num": 201312,
+      "word": "蔡徐坤现象EP悬疑感预告",
+      "onboard_time": 1676893638,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 200939,
@@ -1843,6 +1947,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 168690,
+      "num": 168690,
+      "word": "因胁迫结婚能请求撤销婚姻吗",
+      "onboard_time": 1676896589,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168443,
       "num": 168443,
       "word": "吾乡有情人",
@@ -1857,6 +1969,14 @@
       "onboard_time": 1676859148,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167738,
+      "num": 167738,
+      "word": "卓昊对重紫开浪漫大招",
+      "onboard_time": 1676895928,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 167558,
@@ -1915,12 +2035,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156397,
-      "num": 156397,
-      "word": "煮面条最合适的量",
-      "onboard_time": 1676892568,
-      "rank": 43,
-      "category": "美食,幽默"
+      "raw_hot": 159181,
+      "num": 159181,
+      "word": "庄王送给魏妃的礼物",
+      "onboard_time": 1676896109,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 155834,
@@ -1961,14 +2081,6 @@
       "onboard_time": 1676887649,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 144894,
-      "num": 144894,
-      "word": "梅西姆巴佩获劳伦斯年度最佳男运动员提名",
-      "onboard_time": 1676892748,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 144328,
