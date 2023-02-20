@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676924396309,
+  "endTime": 1676925206063,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -2755,6 +2755,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 34975,
+      "num": 24999,
+      "word": "男子公交站台偷窥女生裙底",
+      "onboard_time": 1676922191,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34380,
       "num": 34380,
       "word": "当我开始给妆容做减法",
@@ -2771,14 +2779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31192,
-      "num": 24999,
-      "word": "男子公交站台偷窥女生裙底",
-      "onboard_time": 1676922191,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24512,
       "num": 24512,
       "word": "魏大勋晒一张库存照",
@@ -2787,20 +2787,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18522,
+      "num": 18522,
+      "word": "115一袋的薯片刺客你吃过吗",
+      "onboard_time": 1676923691,
+      "rank": 47,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 16352,
       "num": 16352,
       "word": "原子之心上线",
       "onboard_time": 1676922911,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 13429,
-      "num": 13429,
-      "word": "115一袋的薯片刺客你吃过吗",
-      "onboard_time": 1676923691,
-      "rank": 47,
-      "category": "美食,幽默"
     }
   ],
   "hotgov_list": [
