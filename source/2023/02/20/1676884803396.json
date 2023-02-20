@@ -1,0 +1,410 @@
+{
+  "runTime": 1676884803396,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1532278,
+        "num": 1532278,
+        "word": "著名女团成员作为证人被传唤",
+        "onboard_time": 1676882248,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1185284,
+        "num": 1185284,
+        "word": "钟美美哭诉父母离婚原因",
+        "onboard_time": 1676875232,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13248,
+        "num": 1140797,
+        "word": "跨国企业在中国",
+        "onboard_time": 1676801253,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110783,
+        "num": 1110783,
+        "word": "异地恋接吻神器你会买吗",
+        "onboard_time": 1676882008,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 993304,
+        "num": 993304,
+        "word": "16岁少女被父母卖掉后出逃",
+        "onboard_time": 1676874988,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004289,
+        "num": 938981,
+        "word": "王一博陈烁手上戴着小皮筋",
+        "onboard_time": 1676877991,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 839174,
+        "num": 839174,
+        "word": "弄错试管婴儿医院曾劝导养父要豁达",
+        "onboard_time": 1676876849,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838429,
+        "num": 838429,
+        "word": "克拉棒",
+        "onboard_time": 1676884290,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 689822,
+        "num": 689822,
+        "word": "女子应聘行政被要求24小时陪客户",
+        "onboard_time": 1676879733,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667826,
+        "num": 667826,
+        "word": "男子记性突然变差竟是感染梅毒20年",
+        "onboard_time": 1676875531,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646147,
+        "num": 646147,
+        "word": "徐志胜 双开门腹肌",
+        "onboard_time": 1676877209,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593610,
+        "num": 593610,
+        "word": "大学生毕业论文现状",
+        "onboard_time": 1676879011,
+        "rank": 11,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 571740,
+        "num": 571740,
+        "word": "A股",
+        "onboard_time": 1676879668,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 498962,
+        "num": 498962,
+        "word": "考研查分瞬间太真实了",
+        "onboard_time": 1676875892,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 487722,
+        "num": 487722,
+        "word": "你想要什么王者亲密称呼",
+        "onboard_time": 1676881110,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 477546,
+        "num": 477546,
+        "word": "游戏代练恶意毁号判赔4.6万元",
+        "onboard_time": 1676883150,
+        "rank": 15,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 443739,
+        "num": 443739,
+        "word": "孟美岐跳女团舞",
+        "onboard_time": 1676883630,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409871,
+        "num": 409871,
+        "word": "不要眼眶一红就觉得人间不值得",
+        "onboard_time": 1676878529,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409071,
+        "num": 409071,
+        "word": "小龙人贝贝扮演者去世",
+        "onboard_time": 1676868755,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402819,
+        "num": 402819,
+        "word": "武山一中",
+        "onboard_time": 1676880150,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 373401,
+        "num": 373401,
+        "word": "网友韩国偶遇狂飙的安局",
+        "onboard_time": 1676872769,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576373,
+        "num": 373193,
+        "word": "段小薇",
+        "onboard_time": 1676870075,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 356967,
+        "num": 356967,
+        "word": "水哥变帅了",
+        "onboard_time": 1676884649,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342649,
+        "num": 342649,
+        "word": "假如狂飙导演是其他名导",
+        "onboard_time": 1676884170,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340617,
+        "num": 340617,
+        "word": "李冰冰发长文告别会画少年的天空",
+        "onboard_time": 1676881770,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328416,
+        "num": 328416,
+        "word": "五哈3爱奇艺预约破70万",
+        "onboard_time": 1676883329,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325321,
+        "num": 325321,
+        "word": "比起失去狮子座更怕遗憾",
+        "onboard_time": 1676877811,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316141,
+        "num": 316141,
+        "word": "桃李面包公告",
+        "onboard_time": 1676871269,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296960,
+        "num": 296960,
+        "word": "钟汉良 我们的客栈",
+        "onboard_time": 1676881408,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290709,
+        "num": 290709,
+        "word": "陈道明惜命图",
+        "onboard_time": 1676882130,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277817,
+        "num": 277817,
+        "word": "对疫情一问三不知主任已有新职务",
+        "onboard_time": 1676884110,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270075,
+        "num": 270075,
+        "word": "优酷在玩一种很新的换乘恋爱",
+        "onboard_time": 1676879852,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262706,
+        "num": 262706,
+        "word": "杨紫199爱卡其色风衣路透",
+        "onboard_time": 1676881828,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206022,
+        "num": 206022,
+        "word": "张婧仪古装",
+        "onboard_time": 1676870913,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181021,
+        "num": 181021,
+        "word": "官方通报男生进入女生宿舍楼相关事件",
+        "onboard_time": 1676876375,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 200153,
+        "num": 180937,
+        "word": "EXO和aespa歌曲正在制作中",
+        "onboard_time": 1676873188,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182385,
+        "num": 180120,
+        "word": "宋茜黑粉成被执行人",
+        "onboard_time": 1676883269,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177774,
+        "num": 177774,
+        "word": "熊出没票房",
+        "onboard_time": 1676883570,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177040,
+        "num": 177040,
+        "word": "讨厌没有边界感的小猫",
+        "onboard_time": 1676873309,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 175140,
+        "num": 175140,
+        "word": "江湖举人 上野千鹤子",
+        "onboard_time": 1676877751,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168440,
+        "num": 168440,
+        "word": "林高远",
+        "onboard_time": 1676879552,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167473,
+        "num": 167473,
+        "word": "邓超范志毅吃苞米被王勉妈妈吼",
+        "onboard_time": 1676882191,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153351,
+        "num": 153351,
+        "word": "黑客组织正对中国疯狂实施网络攻击",
+        "onboard_time": 1676867015,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 145515,
+        "num": 145515,
+        "word": "唐朝诡事录第二季将于三月开拍",
+        "onboard_time": 1676871269,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141750,
+        "num": 141750,
+        "word": "王智回应角色红人不红",
+        "onboard_time": 1676878529,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135273,
+        "num": 135273,
+        "word": "转运头像",
+        "onboard_time": 1676874328,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131375,
+        "num": 131375,
+        "word": "这届大学生是懂表达的",
+        "onboard_time": 1676878287,
+        "rank": 46,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 130922,
+        "num": 130922,
+        "word": "不能让她们怕穿碎花裙子",
+        "onboard_time": 1676863768,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126095,
+        "num": 126095,
+        "word": "澳大利亚非法捐精致60个孩子模样相似",
+        "onboard_time": 1676864070,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125601,
+        "num": 125601,
+        "word": "战友女儿患白血病13名官兵捐血小板",
+        "onboard_time": 1676878350,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#不负春光一起出发#"
+    }
+  }
+}
