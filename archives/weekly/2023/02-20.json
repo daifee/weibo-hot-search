@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676888537402,
+  "endTime": 1676889483036,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -107,20 +107,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1563132,
+      "num": 1563132,
+      "word": "水哥变帅了",
+      "onboard_time": 1676884649,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1532278,
       "num": 1532278,
       "word": "著名女团成员作为证人被传唤",
       "onboard_time": 1676882248,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1517405,
-      "num": 1517405,
-      "word": "水哥变帅了",
-      "onboard_time": 1676884649,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 1457199,
@@ -185,6 +185,14 @@
       "onboard_time": 1676870490,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1313692,
+      "num": 1313692,
+      "word": "拜登抵达基辅",
+      "onboard_time": 1676887589,
+      "rank": 6,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1212614,
@@ -307,20 +315,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 879129,
+      "num": 879129,
+      "word": "杨紫诉医美公司侵权案将开庭",
+      "onboard_time": 1676886451,
+      "rank": 12,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 852783,
+      "num": 852783,
+      "word": "这螺蛳粉真的非吃不可吗",
+      "onboard_time": 1676885490,
+      "rank": 46,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 839378,
       "num": 558129,
       "word": "宋茜 代言",
       "onboard_time": 1676870850,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 837168,
-      "num": 837168,
-      "word": "拜登抵达基辅",
-      "onboard_time": 1676887589,
-      "rank": 6,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 835814,
@@ -371,20 +387,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 781787,
+      "num": 781787,
+      "word": "易烊千玺提醒大家关注消防安全",
+      "onboard_time": 1676887890,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 773358,
       "num": 773358,
       "word": "考研查分瞬间太真实了",
       "onboard_time": 1676875892,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 769476,
-      "num": 769476,
-      "word": "这螺蛳粉真的非吃不可吗",
-      "onboard_time": 1676885490,
-      "rank": 46,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 768039,
@@ -401,14 +417,6 @@
       "onboard_time": 1676818295,
       "rank": 4,
       "category": "体育,影视"
-    },
-    {
-      "raw_hot": 753403,
-      "num": 753403,
-      "word": "易烊千玺提醒大家关注消防安全",
-      "onboard_time": 1676887890,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 738335,
@@ -441,14 +449,6 @@
       "onboard_time": 1676870913,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 702879,
-      "num": 702879,
-      "word": "杨紫诉医美公司侵权案将开庭",
-      "onboard_time": 1676886451,
-      "rank": 12,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 700023,
@@ -489,6 +489,14 @@
       "onboard_time": 1676852610,
       "rank": 6,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 675463,
+      "num": 675463,
+      "word": "深圳一楼盘送60万首付",
+      "onboard_time": 1676887111,
+      "rank": 16,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 656772,
@@ -755,6 +763,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 481549,
+      "num": 481549,
+      "word": "遭学生抢话筒教授称将深刻反思",
+      "onboard_time": 1676886933,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 480439,
+      "num": 480439,
+      "word": "孔雪儿西藏布达拉宫随拍",
+      "onboard_time": 1676888251,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 475923,
       "num": 475923,
       "word": "比起失去狮子座更怕遗憾",
@@ -785,14 +809,6 @@
       "onboard_time": 1676879852,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 464277,
-      "num": 464277,
-      "word": "深圳一楼盘送60万首付",
-      "onboard_time": 1676887111,
-      "rank": 16,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 461042,
@@ -955,14 +971,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 384129,
-      "num": 384129,
-      "word": "遭学生抢话筒教授称将深刻反思",
-      "onboard_time": 1676886933,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 381201,
       "num": 375826,
       "word": "王一博新片演黄渤徒弟",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1676884170,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 342422,
+      "num": 342422,
+      "word": "时代少年团站姐图真实距离",
+      "onboard_time": 1676888731,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 341702,
@@ -1281,14 +1297,6 @@
       "onboard_time": 1676877751,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 277415,
-      "num": 277415,
-      "word": "孔雪儿西藏布达拉宫随拍",
-      "onboard_time": 1676888251,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 276849,
@@ -1571,6 +1579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196661,
+      "num": 196661,
+      "word": "满40减20男星",
+      "onboard_time": 1676888132,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196159,
       "num": 196159,
       "word": "李一桐说任何时间苏玖儿都会全力以赴",
@@ -1593,6 +1609,14 @@
       "onboard_time": 1676883570,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192342,
+      "num": 192342,
+      "word": "XYG回应粉丝",
+      "onboard_time": 1676889332,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 189961,
@@ -1635,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185521,
+      "num": 185521,
+      "word": "王楚然长了麦粒肿",
+      "onboard_time": 1676889271,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185206,
       "num": 185206,
       "word": "詹姆斯队名单",
@@ -1664,14 +1696,6 @@
       "word": "宋茜黑粉成被执行人",
       "onboard_time": 1676883269,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 181713,
-      "num": 181713,
-      "word": "满40减20男星",
-      "onboard_time": 1676888132,
-      "rank": 40,
       "category": "艺人"
     },
     {
@@ -1787,6 +1811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159731,
+      "num": 159731,
+      "word": "深圳再现排队抢房",
+      "onboard_time": 1676889151,
+      "rank": 43,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 155834,
       "num": 155834,
       "word": "白惠承认隐孕入职",
@@ -1817,6 +1849,22 @@
       "onboard_time": 1676860109,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150801,
+      "num": 150801,
+      "word": "吾乡有情人",
+      "onboard_time": 1676888612,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150496,
+      "num": 150496,
+      "word": "有点社恐的狗子",
+      "onboard_time": 1676887649,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 144328,
@@ -1907,14 +1955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128186,
-      "num": 128186,
-      "word": "有点社恐的狗子",
-      "onboard_time": 1676887649,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 127973,
       "num": 127973,
       "word": "张新起一审被判无期徒刑",
@@ -1937,6 +1977,14 @@
       "onboard_time": 1676857585,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124401,
+      "num": 124401,
+      "word": "不是潮人都不敢这么穿",
+      "onboard_time": 1676887529,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 123812,

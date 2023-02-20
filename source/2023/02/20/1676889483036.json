@@ -1,0 +1,410 @@
+{
+  "runTime": 1676889483036,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2239023,
+        "num": 2239023,
+        "word": "厌女下架",
+        "onboard_time": 1676885010,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1563132,
+        "num": 1563132,
+        "word": "水哥变帅了",
+        "onboard_time": 1676884649,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16371,
+        "num": 1375850,
+        "word": "跨国企业在中国",
+        "onboard_time": 1676801253,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1313692,
+        "num": 1313692,
+        "word": "拜登抵达基辅",
+        "onboard_time": 1676887589,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1303050,
+        "num": 1303050,
+        "word": "对疫情一问三不知主任已有新职务",
+        "onboard_time": 1676884110,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1124351,
+        "num": 1124351,
+        "word": "16岁少女被父母卖掉后出逃",
+        "onboard_time": 1676874988,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027962,
+        "num": 1027962,
+        "word": "异地恋接吻神器你会买吗",
+        "onboard_time": 1676882008,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 879129,
+        "num": 879129,
+        "word": "杨紫诉医美公司侵权案将开庭",
+        "onboard_time": 1676886451,
+        "rank": 7,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 852783,
+        "num": 852783,
+        "word": "这螺蛳粉真的非吃不可吗",
+        "onboard_time": 1676885490,
+        "rank": 8,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 781787,
+        "num": 781787,
+        "word": "易烊千玺提醒大家关注消防安全",
+        "onboard_time": 1676887890,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 684329,
+        "num": 684329,
+        "word": "钟美美哭诉父母离婚原因",
+        "onboard_time": 1676875232,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 675463,
+        "num": 675463,
+        "word": "深圳一楼盘送60万首付",
+        "onboard_time": 1676887111,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 603608,
+        "num": 603608,
+        "word": "王一博陈烁手上戴着小皮筋",
+        "onboard_time": 1676877991,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 574802,
+        "num": 574802,
+        "word": "著名女团成员作为证人被传唤",
+        "onboard_time": 1676882248,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534454,
+        "num": 534454,
+        "word": "克拉棒",
+        "onboard_time": 1676884290,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527262,
+        "num": 527262,
+        "word": "上野千鹤子",
+        "onboard_time": 1676885851,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 481549,
+        "num": 481549,
+        "word": "遭学生抢话筒教授称将深刻反思",
+        "onboard_time": 1676886933,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 480439,
+        "num": 480439,
+        "word": "孔雪儿西藏布达拉宫随拍",
+        "onboard_time": 1676888251,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471102,
+        "num": 471102,
+        "word": "游戏代练恶意毁号判赔4.6万元",
+        "onboard_time": 1676883150,
+        "rank": 18,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 406973,
+        "num": 406973,
+        "word": "弄错试管婴儿医院曾劝导养父要豁达",
+        "onboard_time": 1676876849,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410139,
+        "num": 402183,
+        "word": "徐志胜 双开门腹肌",
+        "onboard_time": 1676877209,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372797,
+        "num": 372797,
+        "word": "男子记性突然变差竟是感染梅毒20年",
+        "onboard_time": 1676875531,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360280,
+        "num": 360280,
+        "word": "考研查分瞬间太真实了",
+        "onboard_time": 1676875892,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 342422,
+        "num": 342422,
+        "word": "时代少年团站姐图真实距离",
+        "onboard_time": 1676888731,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301582,
+        "num": 301582,
+        "word": "忙day",
+        "onboard_time": 1676884890,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300858,
+        "num": 300858,
+        "word": "米兰时装周",
+        "onboard_time": 1676885372,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 283363,
+        "num": 283363,
+        "word": "网友韩国偶遇狂飙的安局",
+        "onboard_time": 1676872769,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260744,
+        "num": 260744,
+        "word": "比起失去狮子座更怕遗憾",
+        "onboard_time": 1676877811,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248745,
+        "num": 248745,
+        "word": "A股",
+        "onboard_time": 1676879668,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225324,
+        "num": 225324,
+        "word": "桃李面包公告",
+        "onboard_time": 1676871269,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214346,
+        "num": 214346,
+        "word": "女子应聘行政被要求24小时陪客户",
+        "onboard_time": 1676879733,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211170,
+        "num": 211170,
+        "word": "小龙人贝贝扮演者去世",
+        "onboard_time": 1676868755,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208109,
+        "num": 208109,
+        "word": "假如狂飙导演是其他名导",
+        "onboard_time": 1676884170,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206276,
+        "num": 206276,
+        "word": "段小薇",
+        "onboard_time": 1676870075,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203979,
+        "num": 203979,
+        "word": "钟汉良 我们的客栈",
+        "onboard_time": 1676881408,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196661,
+        "num": 196661,
+        "word": "满40减20男星",
+        "onboard_time": 1676888132,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192470,
+        "num": 192470,
+        "word": "大学生毕业论文现状",
+        "onboard_time": 1676879011,
+        "rank": 36,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 192342,
+        "num": 192342,
+        "word": "XYG回应粉丝",
+        "onboard_time": 1676889332,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191950,
+        "num": 191950,
+        "word": "五哈3爱奇艺预约破70万",
+        "onboard_time": 1676883329,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185521,
+        "num": 185521,
+        "word": "王楚然长了麦粒肿",
+        "onboard_time": 1676889271,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181564,
+        "num": 181564,
+        "word": "你想要什么王者亲密称呼",
+        "onboard_time": 1676881110,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173647,
+        "num": 173647,
+        "word": "不要眼眶一红就觉得人间不值得",
+        "onboard_time": 1676878529,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161200,
+        "num": 161200,
+        "word": "张婧仪古装",
+        "onboard_time": 1676870913,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159731,
+        "num": 159731,
+        "word": "深圳再现排队抢房",
+        "onboard_time": 1676889151,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 150801,
+        "num": 150801,
+        "word": "吾乡有情人",
+        "onboard_time": 1676888612,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150496,
+        "num": 150496,
+        "word": "有点社恐的狗子",
+        "onboard_time": 1676887649,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 139602,
+        "num": 139602,
+        "word": "陈道明惜命图",
+        "onboard_time": 1676882130,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134782,
+        "num": 134782,
+        "word": "EXO和aespa歌曲正在制作中",
+        "onboard_time": 1676873188,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124401,
+        "num": 124401,
+        "word": "不是潮人都不敢这么穿",
+        "onboard_time": 1676887529,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123167,
+        "num": 123167,
+        "word": "讨厌没有边界感的小猫",
+        "onboard_time": 1676873309,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#不负春光一起出发#"
+    }
+  }
+}
