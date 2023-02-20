@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676877474559,
+  "endTime": 1676878430710,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1875139,
+      "num": 1875139,
+      "word": "钟美美哭诉父母离婚原因",
+      "onboard_time": 1676875232,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1823820,
       "num": 729806,
       "word": "北京户口有什么好处",
       "onboard_time": 1676854290,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1762958,
-      "num": 1762958,
-      "word": "钟美美哭诉父母离婚原因",
-      "onboard_time": 1676875232,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1729713,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1121137,
+      "num": 1121137,
+      "word": "徐志胜 双开门腹肌",
+      "onboard_time": 1676877209,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1092365,
       "num": 1092365,
       "word": "为什么年轻人胃病高发",
@@ -177,6 +185,14 @@
       "onboard_time": 1676872769,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1021210,
+      "num": 1021210,
+      "word": "男子记性突然变差竟是感染梅毒20年",
+      "onboard_time": 1676875531,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1015636,
@@ -225,14 +241,6 @@
       "onboard_time": 1676843232,
       "rank": 10,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 887176,
-      "num": 462431,
-      "word": "男子记性突然变差竟是感染梅毒20年",
-      "onboard_time": 1676875531,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 839378,
@@ -297,6 +305,14 @@
       "onboard_time": 1676818295,
       "rank": 4,
       "category": "体育,影视"
+    },
+    {
+      "raw_hot": 754198,
+      "num": 754198,
+      "word": "弄错试管婴儿医院曾劝导养父要豁达",
+      "onboard_time": 1676876849,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 738335,
@@ -443,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591222,
+      "num": 591222,
+      "word": "考研查分瞬间太真实了",
+      "onboard_time": 1676875892,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 589151,
       "num": 589151,
       "word": "EXO和aespa歌曲正在制作中",
@@ -473,6 +497,14 @@
       "onboard_time": 1676802091,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 554831,
+      "num": 554831,
+      "word": "转运头像",
+      "onboard_time": 1676874328,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 554548,
@@ -523,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 520402,
-      "num": 460968,
-      "word": "徐志胜 双开门腹肌",
-      "onboard_time": 1676877209,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 503851,
       "num": 231001,
       "word": "爱奇艺会员不再限制登录设备种类",
@@ -571,6 +595,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 481913,
+      "num": 481913,
+      "word": "官方通报男生进入女生宿舍楼相关事件",
+      "onboard_time": 1676876375,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 478030,
+      "num": 478030,
+      "word": "王一博陈烁手上戴着小皮筋",
+      "onboard_time": 1676877991,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 474799,
       "num": 474799,
       "word": "刘涛参加米兰时装周",
@@ -585,14 +625,6 @@
       "onboard_time": 1676823087,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 467186,
-      "num": 467186,
-      "word": "转运头像",
-      "onboard_time": 1676874328,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 461042,
@@ -689,14 +721,6 @@
       "onboard_time": 1676865392,
       "rank": 22,
       "category": "动漫,社会新闻"
-    },
-    {
-      "raw_hot": 409045,
-      "num": 409045,
-      "word": "考研查分瞬间太真实了",
-      "onboard_time": 1676875892,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 400523,
@@ -803,14 +827,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 364495,
-      "num": 364495,
-      "word": "官方通报男生进入女生宿舍楼相关事件",
-      "onboard_time": 1676876375,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 360246,
       "num": 360246,
       "word": "行驶中小车后备箱塞人露双脚",
@@ -896,14 +912,6 @@
       "word": "情绪不好或导致胃胀胃痛",
       "onboard_time": 1676866173,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321852,
-      "num": 321852,
-      "word": "弄错试管婴儿医院曾劝导养父要豁达",
-      "onboard_time": 1676876849,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1331,6 +1339,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 182790,
+      "num": 182790,
+      "word": "江湖举人 上野千鹤子",
+      "onboard_time": 1676877751,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179974,
       "num": 179974,
       "word": "北京冬奥结束整整一年了",
@@ -1376,6 +1392,14 @@
       "word": "詹姆斯队vs字母哥队",
       "onboard_time": 1676859148,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167558,
+      "num": 167558,
+      "word": "王曼昱连得7分",
+      "onboard_time": 1676877570,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1443,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146266,
+      "num": 146266,
+      "word": "比起失去狮子座更怕遗憾",
+      "onboard_time": 1676877811,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144328,
       "num": 144328,
       "word": "肖战谈直通赛首设混双项目",
@@ -1457,6 +1489,22 @@
       "onboard_time": 1676820451,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141774,
+      "num": 141774,
+      "word": "这届大学生是懂表达的",
+      "onboard_time": 1676878287,
+      "rank": 44,
+      "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 139145,
+      "num": 139145,
+      "word": "战友女儿患白血病13名官兵捐血小板",
+      "onboard_time": 1676878350,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 138751,
