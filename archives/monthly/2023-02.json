@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676889483036,
+  "endTime": 1676891768816,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1667,6 +1667,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2027651,
+      "num": 588745,
+      "word": "王智是忘了切号吗",
+      "onboard_time": 1676890049,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2020013,
       "num": 2020013,
       "word": "大三男生换乘32辆公交从合肥到上海上学",
@@ -2313,6 +2321,14 @@
       "onboard_time": 1675779033,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1757306,
+      "num": 1757306,
+      "word": "拜登抵达基辅",
+      "onboard_time": 1676887589,
+      "rank": 6,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1755488,
@@ -3905,14 +3921,6 @@
       "onboard_time": 1676772746,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1313692,
-      "num": 1313692,
-      "word": "拜登抵达基辅",
-      "onboard_time": 1676887589,
-      "rank": 6,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1312225,
@@ -9547,6 +9555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 756388,
+      "num": 756388,
+      "word": "杨洋 出演北上",
+      "onboard_time": 1676890049,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 756282,
       "num": 756282,
       "word": "7pm 好听",
@@ -9785,6 +9801,14 @@
       "onboard_time": 1676551951,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 743129,
+      "num": 743129,
+      "word": "深圳一楼盘送60万首付",
+      "onboard_time": 1676887111,
+      "rank": 16,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 742541,
@@ -11417,14 +11441,6 @@
       "onboard_time": 1675491205,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 675463,
-      "num": 675463,
-      "word": "深圳一楼盘送60万首付",
-      "onboard_time": 1676887111,
-      "rank": 16,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 674714,
@@ -13171,6 +13187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597332,
+      "num": 587869,
+      "word": "王楚然长了麦粒肿",
+      "onboard_time": 1676889271,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 597079,
       "num": 597079,
       "word": "男孩吃火锅时发现作业没写愁到大哭",
@@ -14713,6 +14737,14 @@
       "onboard_time": 1675410208,
       "rank": 12,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 548597,
+      "num": 548597,
+      "word": "遭学生抢话筒教授称将深刻反思",
+      "onboard_time": 1676886933,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 548453,
@@ -17027,14 +17059,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 481549,
-      "num": 481549,
-      "word": "遭学生抢话筒教授称将深刻反思",
-      "onboard_time": 1676886933,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 481441,
       "num": 481441,
       "word": "肖战说骄阳炙热盛阳杀青快乐",
@@ -17233,6 +17257,14 @@
       "onboard_time": 1676621913,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475997,
+      "num": 475997,
+      "word": "这一届考研人有多难",
+      "onboard_time": 1676890534,
+      "rank": 15,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 475923,
@@ -21699,6 +21731,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 377362,
+      "num": 377362,
+      "word": "XYG回应粉丝",
+      "onboard_time": 1676889332,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 377246,
       "num": 377246,
       "word": "王嘉尔TikTok播放量华人明星第一",
@@ -22027,6 +22067,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 371448,
+      "num": 371448,
+      "word": "上野千鹤子 戴锦华",
+      "onboard_time": 1676890290,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371279,
       "num": 371279,
       "word": "中国好声音 唱跳赛道",
@@ -22161,6 +22209,14 @@
       "onboard_time": 1675945112,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369127,
+      "num": 369127,
+      "word": "时代少年团站姐图真实距离",
+      "onboard_time": 1676888731,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 369116,
@@ -22939,6 +22995,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 352790,
+      "num": 352790,
+      "word": "拜登与泽连斯基会面",
+      "onboard_time": 1676890890,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 352754,
       "num": 352754,
       "word": "黑豹",
@@ -23513,14 +23577,6 @@
       "onboard_time": 1675606773,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 342422,
-      "num": 342422,
-      "word": "时代少年团站姐图真实距离",
-      "onboard_time": 1676888731,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 342314,
@@ -24297,6 +24353,14 @@
       "onboard_time": 1675342475,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 327374,
+      "num": 327374,
+      "word": "拜登称将向乌克兰提供5亿美元援助",
+      "onboard_time": 1676890710,
+      "rank": 27,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 327091,
@@ -32531,6 +32595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224575,
+      "num": 224575,
+      "word": "深圳再现排队抢房",
+      "onboard_time": 1676889151,
+      "rank": 43,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 224474,
       "num": 224474,
       "word": "侯明昊说我的心在她那",
@@ -34515,6 +34587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202512,
+      "num": 202512,
+      "word": "满40减20男星",
+      "onboard_time": 1676888132,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202467,
       "num": 202467,
       "word": "柳智敏首场演唱会预告视频",
@@ -35075,6 +35155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197504,
+      "num": 197504,
+      "word": "劳伦斯年度最佳女运动员提名公布",
+      "onboard_time": 1676890648,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197503,
       "num": 197503,
       "word": "男童无微不至照顾脑瘫妈妈",
@@ -35161,14 +35249,6 @@
       "onboard_time": 1675753530,
       "rank": 37,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 196661,
-      "num": 196661,
-      "word": "满40减20男星",
-      "onboard_time": 1676888132,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 196526,
@@ -35721,14 +35801,6 @@
       "onboard_time": 1676617531,
       "rank": 34,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 192342,
-      "num": 192342,
-      "word": "XYG回应粉丝",
-      "onboard_time": 1676889332,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 192293,
@@ -36809,14 +36881,6 @@
       "onboard_time": 1676100206,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185521,
-      "num": 185521,
-      "word": "王楚然长了麦粒肿",
-      "onboard_time": 1676889271,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 185432,
@@ -39051,6 +39115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168443,
+      "num": 168443,
+      "word": "吾乡有情人",
+      "onboard_time": 1676888612,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168390,
       "num": 168390,
       "word": "詹姆斯队vs字母哥队",
@@ -40083,14 +40155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159731,
-      "num": 159731,
-      "word": "深圳再现排队抢房",
-      "onboard_time": 1676889151,
-      "rank": 43,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 159728,
       "num": 159728,
       "word": "卢歌把戒指留在地上",
@@ -40883,14 +40947,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 150801,
-      "num": 150801,
-      "word": "吾乡有情人",
-      "onboard_time": 1676888612,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 150715,
       "num": 150715,
       "word": "小学生被糖果卡喉民警5秒救回",
@@ -41440,6 +41496,14 @@
       "word": "范丞丞叫张大大起床",
       "onboard_time": 1675440750,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143307,
+      "num": 143307,
+      "word": "杨蓉妆前妆后随拍",
+      "onboard_time": 1676891608,
+      "rank": 48,
       "category": "艺人"
     },
     {
