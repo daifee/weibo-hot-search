@@ -1,0 +1,410 @@
+{
+  "runTime": 1676861572248,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3569337,
+        "num": 3569337,
+        "word": "桑姓艺人在宣传现场被强制执行",
+        "onboard_time": 1676858427,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2378516,
+        "num": 2378516,
+        "word": "爱奇艺不再限制投屏",
+        "onboard_time": 1676858966,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 10534,
+        "num": 1409203,
+        "word": "跨国企业在中国",
+        "onboard_time": 1676801253,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1356325,
+        "num": 1356325,
+        "word": "医院回应试管婴儿被弄错",
+        "onboard_time": 1676860287,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015636,
+        "num": 1015636,
+        "word": "肖战诉网友侵权案将开庭",
+        "onboard_time": 1676859387,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1010847,
+        "num": 1010847,
+        "word": "考研成绩",
+        "onboard_time": 1676809533,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 783846,
+        "num": 783846,
+        "word": "苹果将阻止用户免费装开测版iOS17",
+        "onboard_time": 1676857405,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 764600,
+        "num": 764600,
+        "word": "导演说言承旭拍戏时一直吃水煮菜",
+        "onboard_time": 1676859085,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 700911,
+        "num": 700911,
+        "word": "唐嫣谢娜李维嘉现身支持张杰话剧",
+        "onboard_time": 1676852674,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 700023,
+        "num": 700023,
+        "word": "SMTOWN担心HYBE将自己艺人排后",
+        "onboard_time": 1676859266,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690122,
+        "num": 690122,
+        "word": "各地考研成绩查询时间汇总",
+        "onboard_time": 1676857045,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 646451,
+        "num": 646451,
+        "word": "张婧仪胡一天 长街长",
+        "onboard_time": 1676860709,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 563521,
+        "num": 563521,
+        "word": "00后程序员为装修省钱写代码比价",
+        "onboard_time": 1676858486,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373633,
+        "num": 373633,
+        "word": "为什么年轻人胃病高发",
+        "onboard_time": 1676853031,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 354735,
+        "num": 354735,
+        "word": "宋亚轩刘耀文坐摩天轮路透",
+        "onboard_time": 1676860827,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343712,
+        "num": 343712,
+        "word": "杭州校方回应出现阳性学生",
+        "onboard_time": 1676852610,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 340235,
+        "num": 340235,
+        "word": "谁教张新成撩头发的",
+        "onboard_time": 1676819792,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337562,
+        "num": 337562,
+        "word": "电影北京2022先导预告",
+        "onboard_time": 1676861007,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328848,
+        "num": 328848,
+        "word": "狂飙里的小黄瑶拿了篮球联赛冠军",
+        "onboard_time": 1676818295,
+        "rank": 18,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 321331,
+        "num": 321331,
+        "word": "江西省考",
+        "onboard_time": 1676860109,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 308145,
+        "num": 308145,
+        "word": "詹姆斯称自己不会连续无缘季后赛",
+        "onboard_time": 1676857226,
+        "rank": 20,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 296995,
+        "num": 296995,
+        "word": "女子超市买250斤过期大米索赔被殴打",
+        "onboard_time": 1676828598,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 263028,
+        "num": 263028,
+        "word": "这4种情形独生子女不能全部继承父母遗产",
+        "onboard_time": 1676850143,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260871,
+        "num": 260871,
+        "word": "男子为挽回感情酒后烧了女友家",
+        "onboard_time": 1676841672,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 253345,
+        "num": 253345,
+        "word": "詹姆斯对美娜秀中文",
+        "onboard_time": 1676861126,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241982,
+        "num": 241982,
+        "word": "詹姆斯选择欧文",
+        "onboard_time": 1676858306,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221291,
+        "num": 221291,
+        "word": "日本一男子拉面店舔筷子后放回",
+        "onboard_time": 1676832615,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217744,
+        "num": 217744,
+        "word": "超市回应殴打买过期大米索赔女子",
+        "onboard_time": 1676859207,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200050,
+        "num": 200050,
+        "word": "中学老师称除生病外痛苦都是价值观造成的",
+        "onboard_time": 1676843232,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 198853,
+        "num": 198853,
+        "word": "雷霆沙赞2中国独家海报",
+        "onboard_time": 1676858375,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319230,
+        "num": 195920,
+        "word": "杭州发热学生涉及三所学校",
+        "onboard_time": 1676860407,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186199,
+        "num": 186199,
+        "word": "长沙旅游真的没有淡季吗",
+        "onboard_time": 1676821470,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 179755,
+        "num": 179755,
+        "word": "你会二刷显微镜下的大明吗",
+        "onboard_time": 1676857585,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177017,
+        "num": 177017,
+        "word": "电单车藏匿28台苹果手机走私被查获",
+        "onboard_time": 1676859444,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171064,
+        "num": 171064,
+        "word": "杭州两所中小学出现新冠阳性学生",
+        "onboard_time": 1676821231,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 168390,
+        "num": 168390,
+        "word": "詹姆斯队vs字母哥队",
+        "onboard_time": 1676859148,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163578,
+        "num": 163578,
+        "word": "这票房还没违约金高",
+        "onboard_time": 1676817695,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161446,
+        "num": 161446,
+        "word": "言承旭 满40减20",
+        "onboard_time": 1676814512,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154036,
+        "num": 154036,
+        "word": "重紫男性角色",
+        "onboard_time": 1676860109,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150673,
+        "num": 150673,
+        "word": "小时候最喜欢的方便面吃法",
+        "onboard_time": 1676852970,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143373,
+        "num": 143373,
+        "word": "90后小伙以为健康体检一身老年病",
+        "onboard_time": 1676861427,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139706,
+        "num": 139706,
+        "word": "农历二月生的今年能过3次生日",
+        "onboard_time": 1676807487,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137378,
+        "num": 137378,
+        "word": "洛杉矶火花官宣杨力维加盟",
+        "onboard_time": 1676857405,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135222,
+        "num": 135222,
+        "word": "NBA全明星",
+        "onboard_time": 1676856926,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133155,
+        "num": 133155,
+        "word": "luna评论宋茜姐姐依旧还是那么美",
+        "onboard_time": 1676815172,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126000,
+        "num": 126000,
+        "word": "YG新女团成员ASA介绍视频",
+        "onboard_time": 1676853931,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123820,
+        "num": 123820,
+        "word": "中国台湾联赛大规模冲突",
+        "onboard_time": 1676823087,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121267,
+        "num": 121267,
+        "word": "龙形天象将出现在夜空",
+        "onboard_time": 1676856088,
+        "rank": 47,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 117672,
+        "num": 117672,
+        "word": "詹姆斯自抛自扣",
+        "onboard_time": 1676861486,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116733,
+        "num": 116733,
+        "word": "新冠",
+        "onboard_time": 1676861547,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#讲好中国故事传播好中国声音#"
+    }
+  }
+}

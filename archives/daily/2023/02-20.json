@@ -1,7 +1,23 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676858748065,
+  "endTime": 1676861572248,
   "band_list": [
+    {
+      "raw_hot": 3569337,
+      "num": 3569337,
+      "word": "桑姓艺人在宣传现场被强制执行",
+      "onboard_time": 1676858427,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2378516,
+      "num": 2378516,
+      "word": "爱奇艺不再限制投屏",
+      "onboard_time": 1676858966,
+      "rank": 1,
+      "category": "科技"
+    },
     {
       "raw_hot": 1823820,
       "num": 729806,
@@ -17,6 +33,14 @@
       "onboard_time": 1676809533,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1356325,
+      "num": 1356325,
+      "word": "医院回应试管婴儿被弄错",
+      "onboard_time": 1676860287,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1337519,
@@ -51,6 +75,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1015636,
+      "num": 1015636,
+      "word": "肖战诉网友侵权案将开庭",
+      "onboard_time": 1676859387,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 969067,
       "num": 969067,
       "word": "唐嫣谢娜李维嘉现身支持张杰话剧",
@@ -75,6 +107,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 783846,
+      "num": 783846,
+      "word": "苹果将阻止用户免费装开测版iOS17",
+      "onboard_time": 1676857405,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 764600,
+      "num": 764600,
+      "word": "导演说言承旭拍戏时一直吃水煮菜",
+      "onboard_time": 1676859085,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 764469,
       "num": 764469,
       "word": "狂飙里的小黄瑶拿了篮球联赛冠军",
@@ -83,20 +131,12 @@
       "category": "体育,影视"
     },
     {
-      "raw_hot": 761848,
-      "num": 467888,
-      "word": "桑姓艺人在宣传现场被强制执行",
-      "onboard_time": 1676858427,
-      "rank": 10,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 739502,
-      "num": 739502,
-      "word": "苹果将阻止用户免费装开测版iOS17",
-      "onboard_time": 1676857405,
-      "rank": 5,
-      "category": "科技"
+      "raw_hot": 700023,
+      "num": 700023,
+      "word": "SMTOWN担心HYBE将自己艺人排后",
+      "onboard_time": 1676859266,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 698364,
@@ -121,6 +161,14 @@
       "onboard_time": 1676799632,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 646451,
+      "num": 646451,
+      "word": "张婧仪胡一天 长街长",
+      "onboard_time": 1676860709,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 625377,
@@ -153,6 +201,14 @@
       "onboard_time": 1676815113,
       "rank": 7,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 563521,
+      "num": 563521,
+      "word": "00后程序员为装修省钱写代码比价",
+      "onboard_time": 1676858486,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 558516,
@@ -275,6 +331,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 354735,
+      "num": 354735,
+      "word": "宋亚轩刘耀文坐摩天轮路透",
+      "onboard_time": 1676860827,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 337562,
+      "num": 337562,
+      "word": "电影北京2022先导预告",
+      "onboard_time": 1676861007,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337025,
       "num": 172576,
       "word": "鹿晗实实在在做公益",
@@ -299,12 +371,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321331,
+      "num": 321331,
+      "word": "江西省考",
+      "onboard_time": 1676860109,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 319541,
       "num": 319541,
       "word": "阿娇哭得好美",
       "onboard_time": 1676808810,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 319230,
+      "num": 195920,
+      "word": "杭州发热学生涉及三所学校",
+      "onboard_time": 1676860407,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319107,
@@ -379,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253345,
+      "num": 253345,
+      "word": "詹姆斯对美娜秀中文",
+      "onboard_time": 1676861126,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251502,
       "num": 251502,
       "word": "小时候最喜欢的方便面吃法",
@@ -403,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241982,
+      "num": 241982,
+      "word": "詹姆斯选择欧文",
+      "onboard_time": 1676858306,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233337,
       "num": 233337,
       "word": "戚薇发文告别丰碧玉",
@@ -425,6 +529,14 @@
       "onboard_time": 1676857405,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217744,
+      "num": 217744,
+      "word": "超市回应殴打买过期大米索赔女子",
+      "onboard_time": 1676859207,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213478,
@@ -457,14 +569,6 @@
       "onboard_time": 1676825123,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 197490,
-      "num": 197490,
-      "word": "00后程序员为装修省钱写代码比价",
-      "onboard_time": 1676858486,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189961,
@@ -523,6 +627,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 177017,
+      "num": 177017,
+      "word": "电单车藏匿28台苹果手机走私被查获",
+      "onboard_time": 1676859444,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174905,
       "num": 174905,
       "word": "内马尔受伤",
@@ -537,6 +649,14 @@
       "onboard_time": 1676825601,
       "rank": 29,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 168390,
+      "num": 168390,
+      "word": "詹姆斯队vs字母哥队",
+      "onboard_time": 1676859148,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 166745,
@@ -571,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154036,
+      "num": 154036,
+      "word": "重紫男性角色",
+      "onboard_time": 1676860109,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144328,
       "num": 144328,
       "word": "肖战谈直通赛首设混双项目",
@@ -579,19 +707,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143373,
+      "num": 143373,
+      "word": "90后小伙以为健康体检一身老年病",
+      "onboard_time": 1676861427,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142286,
       "num": 142286,
       "word": "巴黎圣日耳曼4比3里尔",
       "onboard_time": 1676820451,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 139950,
-      "num": 139950,
-      "word": "詹姆斯选择欧文",
-      "onboard_time": 1676858306,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -697,6 +825,22 @@
       "onboard_time": 1676819372,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117672,
+      "num": 117672,
+      "word": "詹姆斯自抛自扣",
+      "onboard_time": 1676861486,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116733,
+      "num": 116733,
+      "word": "新冠",
+      "onboard_time": 1676861547,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116094,
@@ -812,7 +956,7 @@
     },
     {
       "raw_hot": 33598,
-      "num": 987242,
+      "num": 1409203,
       "word": "跨国企业在中国",
       "onboard_time": 1676801253,
       "rank": 2,
