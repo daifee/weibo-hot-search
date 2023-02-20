@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676896640368,
+  "endTime": 1676897762999,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1164565,
+      "num": 1164565,
+      "word": "Mayumi官宣恋情",
+      "onboard_time": 1676893771,
+      "rank": 5,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1161865,
       "num": 1161865,
       "word": "父亲去世哥哥说妹妹没有继承权",
@@ -264,6 +272,14 @@
       "word": "王一博陈烁手上戴着小皮筋",
       "onboard_time": 1676877991,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1090700,
+      "num": 1090700,
+      "word": "光渊把朴彩英照片P到剧中",
+      "onboard_time": 1676896826,
+      "rank": 1,
       "category": "影视"
     },
     {
@@ -347,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 926012,
-      "num": 926012,
-      "word": "Mayumi官宣恋情",
-      "onboard_time": 1676893771,
-      "rank": 5,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 917412,
       "num": 917412,
       "word": "中学老师称除生病外痛苦都是价值观造成的",
@@ -369,6 +377,14 @@
       "onboard_time": 1676886451,
       "rank": 12,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 862167,
+      "num": 862167,
+      "word": "中国乒乓票房",
+      "onboard_time": 1676895928,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 852783,
@@ -691,6 +707,22 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 574730,
+      "num": 452173,
+      "word": "烹食大白鲨网红短视频平台复出",
+      "onboard_time": 1676896050,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570842,
+      "num": 450480,
+      "word": "赵露思敷面膜自拍",
+      "onboard_time": 1676896949,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 563521,
       "num": 563521,
       "word": "00后程序员为装修省钱写代码比价",
@@ -761,14 +793,6 @@
       "onboard_time": 1676885851,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 537279,
-      "num": 537279,
-      "word": "中国乒乓票房",
-      "onboard_time": 1676895928,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 536461,
@@ -1075,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 391272,
+      "num": 391272,
+      "word": "谢娜晒张杰话剧舞台照",
+      "onboard_time": 1676896410,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 386734,
       "num": 386734,
       "word": "日本一男子拉面店舔筷子后放回",
@@ -1187,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358446,
+      "num": 358446,
+      "word": "考研查到满意分数时的真实反应",
+      "onboard_time": 1676895451,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 356024,
       "num": 356024,
       "word": "教育局通报杭州有学生新冠阳性",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1676864252,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343431,
+      "num": 343431,
+      "word": "郭帆说流浪地球3大纲就快被套出来了",
+      "onboard_time": 1676895690,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 342649,
@@ -1395,20 +1443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302843,
+      "num": 302843,
+      "word": "乌梅子酱到底是什么酱",
+      "onboard_time": 1676897129,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 301572,
       "num": 301572,
       "word": "94岁老人疑遭护工推倒撞地去世",
       "onboard_time": 1676816614,
       "rank": 19,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 299299,
-      "num": 299299,
-      "word": "谢娜晒张杰话剧舞台照",
-      "onboard_time": 1676896410,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 288551,
@@ -1425,6 +1473,14 @@
       "onboard_time": 1676852069,
       "rank": 20,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 287020,
+      "num": 287020,
+      "word": "被95岁武术老人的精气神惊到了",
+      "onboard_time": 1676894190,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286552,
@@ -1449,14 +1505,6 @@
       "onboard_time": 1676877751,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 277871,
-      "num": 277871,
-      "word": "被95岁武术老人的精气神惊到了",
-      "onboard_time": 1676894190,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276849,
@@ -1505,14 +1553,6 @@
       "onboard_time": 1676853931,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257429,
-      "num": 257429,
-      "word": "考研查到满意分数时的真实反应",
-      "onboard_time": 1676895451,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 253725,
@@ -1587,14 +1627,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 241288,
-      "num": 241288,
-      "word": "烹食大白鲨网红短视频平台复出",
-      "onboard_time": 1676896050,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240479,
       "num": 240479,
       "word": "金字塔内部是这样的",
@@ -1611,12 +1643,12 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 239101,
-      "num": 239101,
-      "word": "郭帆说流浪地球3大纲就快被套出来了",
-      "onboard_time": 1676895690,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 238203,
+      "num": 238203,
+      "word": "女孩知道一年学费5万哭成泪人",
+      "onboard_time": 1676897309,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 235042,
@@ -1891,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181986,
+      "num": 181986,
+      "word": "我们的日子",
+      "onboard_time": 1676897430,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179974,
       "num": 179974,
       "word": "北京冬奥结束整整一年了",
@@ -2089,6 +2129,14 @@
       "onboard_time": 1676811389,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143665,
+      "num": 143665,
+      "word": "长肉芽凝胶",
+      "onboard_time": 1676897731,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 142286,
