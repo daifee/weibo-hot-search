@@ -1,7 +1,15 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676935143044,
+  "endTime": 1676936025136,
   "band_list": [
+    {
+      "raw_hot": 1841749,
+      "num": 1841749,
+      "word": "考研成绩",
+      "onboard_time": 1676934439,
+      "rank": 0,
+      "category": "教育"
+    },
     {
       "raw_hot": 1212960,
       "num": 1212960,
@@ -27,16 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1040274,
-      "num": 1040274,
-      "word": "考研成绩",
-      "onboard_time": 1676934439,
-      "rank": 0,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 866181,
-      "num": 866181,
+      "raw_hot": 1016107,
+      "num": 1016107,
       "word": "女子住着大别墅欠5000不还成老赖",
       "onboard_time": 1676921173,
       "rank": 23,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 714606,
+      "num": 714606,
+      "word": "河南人口自然增长率62年来首现负增长",
+      "onboard_time": 1676931313,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625600,
       "num": 625600,
       "word": "女孩知道一年学费5万哭成泪人",
@@ -59,12 +67,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 584585,
-      "num": 584585,
-      "word": "河南人口自然增长率62年来首现负增长",
-      "onboard_time": 1676931313,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 602034,
+      "num": 225927,
+      "word": "王智是忘了切号吗",
+      "onboard_time": 1676890049,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 561521,
@@ -73,14 +81,6 @@
       "onboard_time": 1676906371,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 548946,
-      "num": 225927,
-      "word": "王智是忘了切号吗",
-      "onboard_time": 1676890049,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 518493,
@@ -131,6 +131,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 362077,
+      "num": 362077,
+      "word": "文旅局长零下20度穿长裙代言家乡",
+      "onboard_time": 1676902295,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360901,
       "num": 225886,
       "word": "长肉芽凝胶",
@@ -139,8 +147,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 304305,
-      "num": 304305,
+      "raw_hot": 349526,
+      "num": 349526,
       "word": "白芸豆真的可以减肥吗",
       "onboard_time": 1676930293,
       "rank": 17,
@@ -155,12 +163,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 285346,
-      "num": 285346,
-      "word": "文旅局长零下20度穿长裙代言家乡",
-      "onboard_time": 1676902295,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 283949,
+      "num": 283949,
+      "word": "为什么用龙抬头来指代二月二",
+      "onboard_time": 1676934680,
+      "rank": 23,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 272451,
+      "num": 272451,
+      "word": "考研四六级查分都遇龙抬头",
+      "onboard_time": 1676935582,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 271584,
@@ -169,6 +185,14 @@
       "onboard_time": 1676895451,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 268492,
+      "num": 268492,
+      "word": "威少将加盟快船",
+      "onboard_time": 1676934859,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 266099,
@@ -185,6 +209,14 @@
       "onboard_time": 1676899410,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253869,
+      "num": 253869,
+      "word": "龙抬头",
+      "onboard_time": 1676935881,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 252534,
@@ -259,12 +291,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180219,
-      "num": 180219,
+      "raw_hot": 181929,
+      "num": 181929,
       "word": "黄冈回应一问三不知主任有新职",
       "onboard_time": 1676901930,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174899,
+      "num": 174899,
+      "word": "动物园免费3千动物1天看几万游客",
+      "onboard_time": 1676918834,
+      "rank": 19,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 173670,
@@ -289,6 +329,14 @@
       "onboard_time": 1676906850,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166651,
+      "num": 166651,
+      "word": "男子公交站台偷窥女生裙底",
+      "onboard_time": 1676922191,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161851,
@@ -331,22 +379,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 142599,
-      "num": 142599,
-      "word": "动物园免费3千动物1天看几万游客",
-      "onboard_time": 1676918834,
-      "rank": 19,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 142598,
-      "num": 142598,
-      "word": "男子公交站台偷窥女生裙底",
-      "onboard_time": 1676922191,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139660,
       "num": 139660,
       "word": "烹食大白鲨网红短视频平台复出",
@@ -363,11 +395,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 138623,
-      "num": 138623,
-      "word": "为什么用龙抬头来指代二月二",
-      "onboard_time": 1676934680,
-      "rank": 23,
+      "raw_hot": 138678,
+      "num": 138678,
+      "word": "二月二你打算理发吗",
+      "onboard_time": 1676935522,
+      "rank": 31,
       "category": "社会新闻,情感"
     },
     {
@@ -403,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115073,
-      "num": 102788,
-      "word": "威少将加盟快船",
-      "onboard_time": 1676934859,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114216,
       "num": 114216,
       "word": "王楚然长了麦粒肿",
@@ -433,6 +457,14 @@
       "onboard_time": 1676900451,
       "rank": 43,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 108110,
+      "num": 108110,
+      "word": "孙俪 保佑我不要一紧张拉出猪叫",
+      "onboard_time": 1676892151,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 107193,
@@ -475,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93558,
+      "num": 93558,
+      "word": "土耳其南部6.4级地震",
+      "onboard_time": 1676935881,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89815,
       "num": 89815,
       "word": "常州一学院已申请远程接吻专利",
@@ -483,24 +523,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88732,
-      "num": 88732,
-      "word": "孙俪 保佑我不要一紧张拉出猪叫",
-      "onboard_time": 1676892151,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 71889,
-      "num": 71889,
+      "raw_hot": 84930,
+      "num": 84930,
       "word": "河南2022年常住人口减少11万",
       "onboard_time": 1676932215,
       "rank": 43,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63783,
-      "num": 63783,
+      "raw_hot": 70894,
+      "num": 70894,
       "word": "115一袋的薯片刺客你吃过吗",
       "onboard_time": 1676923691,
       "rank": 47,
@@ -524,7 +556,7 @@
     },
     {
       "raw_hot": 23108,
-      "num": 815614,
+      "num": 954465,
       "word": "走进区域看发展",
       "onboard_time": 1676900011,
       "rank": 2,

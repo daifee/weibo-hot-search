@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676935143044,
+  "endTime": 1676936025136,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1841749,
+      "num": 1841749,
+      "word": "考研成绩",
+      "onboard_time": 1676809533,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1823820,
       "num": 729806,
       "word": "北京户口有什么好处",
@@ -129,14 +137,6 @@
       "onboard_time": 1676904034,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1608373,
-      "num": 1608373,
-      "word": "考研成绩",
-      "onboard_time": 1676809533,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1563132,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1016107,
+      "num": 1016107,
+      "word": "女子住着大别墅欠5000不还成老赖",
+      "onboard_time": 1676921173,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1015636,
       "num": 1015636,
       "word": "肖战诉网友侵权案将开庭",
@@ -465,14 +473,6 @@
       "onboard_time": 1676886451,
       "rank": 12,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 866181,
-      "num": 866181,
-      "word": "女子住着大别墅欠5000不还成老赖",
-      "onboard_time": 1676921173,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 852783,
@@ -617,6 +617,14 @@
       "onboard_time": 1676870913,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 714606,
+      "num": 714606,
+      "word": "河南人口自然增长率62年来首现负增长",
+      "onboard_time": 1676931313,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 700023,
@@ -857,14 +865,6 @@
       "onboard_time": 1676883150,
       "rank": 15,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 584585,
-      "num": 584585,
-      "word": "河南人口自然增长率62年来首现负增长",
-      "onboard_time": 1676931313,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 570842,
@@ -1499,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349526,
+      "num": 349526,
+      "word": "白芸豆真的可以减肥吗",
+      "onboard_time": 1676930293,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 347938,
       "num": 347938,
       "word": "拜登已离开基辅",
@@ -1723,14 +1731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 304305,
-      "num": 304305,
-      "word": "白芸豆真的可以减肥吗",
-      "onboard_time": 1676930293,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 301572,
       "num": 301572,
       "word": "94岁老人疑遭护工推倒撞地去世",
@@ -1777,6 +1777,14 @@
       "onboard_time": 1676863168,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283949,
+      "num": 283949,
+      "word": "为什么用龙抬头来指代二月二",
+      "onboard_time": 1676934680,
+      "rank": 23,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 278740,
@@ -1827,6 +1835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272451,
+      "num": 272451,
+      "word": "考研四六级查分都遇龙抬头",
+      "onboard_time": 1676935582,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 271259,
       "num": 271259,
       "word": "二月不减肥五月徒伤悲",
@@ -1841,6 +1857,14 @@
       "onboard_time": 1676863409,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268492,
+      "num": 268492,
+      "word": "威少将加盟快船",
+      "onboard_time": 1676934859,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 266500,
@@ -1865,6 +1889,14 @@
       "onboard_time": 1676897975,
       "rank": 36,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 253869,
+      "num": 253869,
+      "word": "龙抬头",
+      "onboard_time": 1676935881,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 253725,
@@ -2291,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174899,
+      "num": 174899,
+      "word": "动物园免费3千动物1天看几万游客",
+      "onboard_time": 1676918834,
+      "rank": 19,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 174840,
       "num": 174840,
       "word": "杨蓉妆前妆后随拍",
@@ -2377,6 +2417,14 @@
       "onboard_time": 1676813670,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166651,
+      "num": 166651,
+      "word": "男子公交站台偷窥女生裙底",
+      "onboard_time": 1676922191,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165596,
@@ -2491,22 +2539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142599,
-      "num": 142599,
-      "word": "动物园免费3千动物1天看几万游客",
-      "onboard_time": 1676918834,
-      "rank": 19,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 142598,
-      "num": 142598,
-      "word": "男子公交站台偷窥女生裙底",
-      "onboard_time": 1676922191,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142286,
       "num": 142286,
       "word": "巴黎圣日耳曼4比3里尔",
@@ -2531,11 +2563,11 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 138623,
-      "num": 138623,
-      "word": "为什么用龙抬头来指代二月二",
-      "onboard_time": 1676934680,
-      "rank": 23,
+      "raw_hot": 138678,
+      "num": 138678,
+      "word": "二月二你打算理发吗",
+      "onboard_time": 1676935522,
+      "rank": 31,
       "category": "社会新闻,情感"
     },
     {
@@ -2675,14 +2707,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 115073,
-      "num": 102788,
-      "word": "威少将加盟快船",
-      "onboard_time": 1676934859,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112721,
       "num": 112721,
       "word": "光渊 刺挠",
@@ -2731,12 +2755,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93558,
+      "num": 93558,
+      "word": "土耳其南部6.4级地震",
+      "onboard_time": 1676935881,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88615,
       "num": 88615,
       "word": "王一博无名破9亿剧照",
       "onboard_time": 1676812295,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 84930,
+      "num": 84930,
+      "word": "河南2022年常住人口减少11万",
+      "onboard_time": 1676932215,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78823,
@@ -2747,12 +2787,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71889,
-      "num": 71889,
-      "word": "河南2022年常住人口减少11万",
-      "onboard_time": 1676932215,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 70894,
+      "num": 70894,
+      "word": "115一袋的薯片刺客你吃过吗",
+      "onboard_time": 1676923691,
+      "rank": 47,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 65909,
@@ -2761,14 +2801,6 @@
       "onboard_time": 1676849484,
       "rank": 46,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 63783,
-      "num": 63783,
-      "word": "115一袋的薯片刺客你吃过吗",
-      "onboard_time": 1676923691,
-      "rank": 47,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 58987,
