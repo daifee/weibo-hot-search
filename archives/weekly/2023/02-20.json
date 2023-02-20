@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676897762999,
+  "endTime": 1676899604830,
   "band_list": [
     {
       "raw_hot": 4537623,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1549165,
+      "num": 1549165,
+      "word": "光渊把朴彩英照片P到剧中",
+      "onboard_time": 1676896826,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1532278,
       "num": 1532278,
       "word": "著名女团成员作为证人被传唤",
@@ -145,6 +153,14 @@
       "onboard_time": 1676865694,
       "rank": 6,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1431408,
+      "num": 1431408,
+      "word": "女孩知道一年学费5万哭成泪人",
+      "onboard_time": 1676897309,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1427809,
@@ -211,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1232508,
+      "num": 1232508,
+      "word": "Mayumi官宣恋情",
+      "onboard_time": 1676893771,
+      "rank": 5,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1212614,
       "num": 1212614,
       "word": "克拉棒",
@@ -225,14 +249,6 @@
       "onboard_time": 1676868755,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1164565,
-      "num": 1164565,
-      "word": "Mayumi官宣恋情",
-      "onboard_time": 1676893771,
-      "rank": 5,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 1161865,
@@ -272,14 +288,6 @@
       "word": "王一博陈烁手上戴着小皮筋",
       "onboard_time": 1676877991,
       "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1090700,
-      "num": 1090700,
-      "word": "光渊把朴彩英照片P到剧中",
-      "onboard_time": 1676896826,
-      "rank": 1,
       "category": "影视"
     },
     {
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 992339,
+      "num": 992339,
+      "word": "中国乒乓票房",
+      "onboard_time": 1676895928,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 984973,
       "num": 984973,
       "word": "张婧仪胡一天 长街长",
@@ -377,14 +393,6 @@
       "onboard_time": 1676886451,
       "rank": 12,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 862167,
-      "num": 862167,
-      "word": "中国乒乓票房",
-      "onboard_time": 1676895928,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 852783,
@@ -563,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 690764,
+      "num": 690764,
+      "word": "烹食大白鲨网红短视频平台复出",
+      "onboard_time": 1676896050,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 689822,
       "num": 689822,
       "word": "女子应聘行政被要求24小时陪客户",
@@ -651,6 +667,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 603886,
+      "num": 339480,
+      "word": "长肉芽凝胶",
+      "onboard_time": 1676897731,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 600937,
       "num": 600937,
       "word": "谁教张新成撩头发的",
@@ -683,6 +707,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 590036,
+      "num": 590036,
+      "word": "乌梅子酱到底是什么酱",
+      "onboard_time": 1676897129,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 589151,
       "num": 589151,
       "word": "EXO和aespa歌曲正在制作中",
@@ -707,16 +739,8 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 574730,
-      "num": 452173,
-      "word": "烹食大白鲨网红短视频平台复出",
-      "onboard_time": 1676896050,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 570842,
-      "num": 450480,
+      "num": 527065,
       "word": "赵露思敷面膜自拍",
       "onboard_time": 1676896949,
       "rank": 11,
@@ -795,6 +819,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 536783,
+      "num": 536783,
+      "word": "小伙与女友接吻后染病进医院",
+      "onboard_time": 1676898991,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536461,
       "num": 536461,
       "word": "不要眼眶一红就觉得人间不值得",
@@ -817,6 +849,14 @@
       "onboard_time": 1676789727,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515428,
+      "num": 515428,
+      "word": "周深机场签名被反送张颂文签名照",
+      "onboard_time": 1676898930,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 503851,
@@ -1051,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425600,
+      "num": 425600,
+      "word": "考研查到满意分数时的真实反应",
+      "onboard_time": 1676895451,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 416212,
       "num": 416212,
       "word": "世界低估了美国全球网络窃密的危害",
@@ -1105,6 +1153,14 @@
       "onboard_time": 1676896410,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 388504,
+      "num": 388504,
+      "word": "权珉娥兼职陪聊被诈骗1500万韩元",
+      "onboard_time": 1676899410,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 386734,
@@ -1217,14 +1273,6 @@
       "onboard_time": 1676892748,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 358446,
-      "num": 358446,
-      "word": "考研查到满意分数时的真实反应",
-      "onboard_time": 1676895451,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 356024,
@@ -1419,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313063,
+      "num": 313063,
+      "word": "韩东君热依扎悬空抱吻戏",
+      "onboard_time": 1676898631,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312617,
       "num": 312617,
       "word": "马嘉祺三亚打太极路透",
@@ -1441,14 +1497,6 @@
       "onboard_time": 1676882130,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302843,
-      "num": 302843,
-      "word": "乌梅子酱到底是什么酱",
-      "onboard_time": 1676897129,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 301572,
@@ -1643,14 +1691,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 238203,
-      "num": 238203,
-      "word": "女孩知道一年学费5万哭成泪人",
-      "onboard_time": 1676897309,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 235042,
       "num": 235042,
       "word": "盘点考研查分的高燃瞬间",
@@ -1713,6 +1753,30 @@
       "onboard_time": 1676857405,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220850,
+      "num": 220850,
+      "word": "章若楠照明商店路透",
+      "onboard_time": 1676898036,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220229,
+      "num": 220229,
+      "word": "黄奕新剧身材",
+      "onboard_time": 1676899593,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218676,
+      "num": 218676,
+      "word": "明晚夜空将上演龙抬头天象",
+      "onboard_time": 1676897975,
+      "rank": 36,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 217744,
@@ -1907,6 +1971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184384,
+      "num": 184384,
+      "word": "毛林林恭喜谭雅离婚",
+      "onboard_time": 1676896650,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182988,
       "num": 182988,
       "word": "教育部门要求对陈某某进行调查",
@@ -2059,6 +2131,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 161688,
+      "num": 161688,
+      "word": "官方回应四川大学内挖出人的遗体",
+      "onboard_time": 1676899530,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161351,
       "num": 161351,
       "word": "吴宣仪粉黑外套造型机场路透",
@@ -2129,14 +2209,6 @@
       "onboard_time": 1676811389,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143665,
-      "num": 143665,
-      "word": "长肉芽凝胶",
-      "onboard_time": 1676897731,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 142286,
