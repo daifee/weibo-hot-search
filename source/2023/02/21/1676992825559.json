@@ -1,0 +1,410 @@
+{
+  "runTime": 1676992825559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3705240,
+        "num": 3705240,
+        "word": "丫丫",
+        "onboard_time": 1676991157,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1778735,
+        "num": 1778735,
+        "word": "来电显示96110一定要接",
+        "onboard_time": 1676989839,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369638,
+        "num": 1376506,
+        "word": "大熊猫香香回家现场画面",
+        "onboard_time": 1676988814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1359352,
+        "num": 1359352,
+        "word": "甲流",
+        "onboard_time": 1676991039,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3272381,
+        "num": 1123502,
+        "word": "河北保定发生一起重大刑案",
+        "onboard_time": 1676989354,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777301,
+        "num": 777301,
+        "word": "试管婴儿被放错胚胎事件初步和解",
+        "onboard_time": 1676987072,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766487,
+        "num": 766487,
+        "word": "全球第5例艾滋病治愈者出现",
+        "onboard_time": 1676973099,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643623,
+        "num": 643623,
+        "word": "张婧仪直播",
+        "onboard_time": 1676990914,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629134,
+        "num": 629134,
+        "word": "林志颖问谁还记得放羊的星星这部剧",
+        "onboard_time": 1676986714,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 628633,
+        "num": 628633,
+        "word": "摆拍发3000收回2800主播被行拘",
+        "onboard_time": 1676988274,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528367,
+        "num": 528367,
+        "word": "内娱真人版网球王子",
+        "onboard_time": 1676983474,
+        "rank": 10,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 526591,
+        "num": 526591,
+        "word": "陈晓听陈妍希叫刘德华老公很开心",
+        "onboard_time": 1676980709,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471249,
+        "num": 471249,
+        "word": "香香已抵达成都",
+        "onboard_time": 1676987437,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457454,
+        "num": 457454,
+        "word": "我们的日子 严冰",
+        "onboard_time": 1676985454,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426197,
+        "num": 426197,
+        "word": "到底是考研难还是读研难",
+        "onboard_time": 1676973931,
+        "rank": 14,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 390938,
+        "num": 390938,
+        "word": "东北人第一次和南方人合租",
+        "onboard_time": 1676988453,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387288,
+        "num": 387288,
+        "word": "日本人有多舍不得中国大熊猫香香",
+        "onboard_time": 1676970092,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377786,
+        "num": 377786,
+        "word": "夏花 BE",
+        "onboard_time": 1676982574,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342858,
+        "num": 342858,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1676971712,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325298,
+        "num": 325298,
+        "word": "杨洋方已委请律师介入处理",
+        "onboard_time": 1676986293,
+        "rank": 19,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 321831,
+        "num": 321831,
+        "word": "因身揣逃犯身份证智障男子坐牢9年",
+        "onboard_time": 1676983413,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310532,
+        "num": 310532,
+        "word": "安欣陆泽宁吻戏",
+        "onboard_time": 1676985154,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295451,
+        "num": 295451,
+        "word": "宋亚轩侧颜状态",
+        "onboard_time": 1676992298,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288708,
+        "num": 288708,
+        "word": "王楚钦花在混双时间非常多",
+        "onboard_time": 1676989414,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280827,
+        "num": 280827,
+        "word": "一张九九乘法表拿捏外国小孩",
+        "onboard_time": 1676988640,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269457,
+        "num": 269457,
+        "word": "广州漫展",
+        "onboard_time": 1676991767,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 262698,
+        "num": 262698,
+        "word": "女子连刷10个差评商家找上门怒怼",
+        "onboard_time": 1676978251,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237674,
+        "num": 237674,
+        "word": "毒舌律师香港首部票房破亿华语片",
+        "onboard_time": 1676992177,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227336,
+        "num": 227336,
+        "word": "普京对特别军事行动发表评价",
+        "onboard_time": 1676977353,
+        "rank": 28,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 218249,
+        "num": 218249,
+        "word": "这美甲多少有点荒谬了",
+        "onboard_time": 1676984502,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212969,
+        "num": 212969,
+        "word": "HYBE称会帮SMTOWN艺人闯美",
+        "onboard_time": 1676982210,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208846,
+        "num": 208846,
+        "word": "吴京呼吁网友为刘培强复活支招",
+        "onboard_time": 1676985213,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205839,
+        "num": 205839,
+        "word": "章子怡 中戏考官",
+        "onboard_time": 1676968832,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200040,
+        "num": 200040,
+        "word": "香香回国是为寻找合适伴侣",
+        "onboard_time": 1676991275,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197837,
+        "num": 197837,
+        "word": "雾都雾里七个八",
+        "onboard_time": 1676979507,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196962,
+        "num": 196962,
+        "word": "我们的日子",
+        "onboard_time": 1676987613,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196790,
+        "num": 196790,
+        "word": "暨南大学考研",
+        "onboard_time": 1676972436,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 193780,
+        "num": 193780,
+        "word": "研究发现艾滋病或有望治愈",
+        "onboard_time": 1676992477,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192606,
+        "num": 192606,
+        "word": "WBG战胜iG",
+        "onboard_time": 1676987675,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189722,
+        "num": 189722,
+        "word": "今日宜加油集齐三大魔尊",
+        "onboard_time": 1676990976,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188256,
+        "num": 188256,
+        "word": "ChatGPT",
+        "onboard_time": 1676976331,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187757,
+        "num": 187757,
+        "word": "俞敏洪说想给董宇辉在北京买套房子",
+        "onboard_time": 1676970810,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183868,
+        "num": 183868,
+        "word": "ofo小黄车已彻底无法登录",
+        "onboard_time": 1676992657,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 165659,
+        "num": 165659,
+        "word": "费启鸣曾担心演不好会被换掉",
+        "onboard_time": 1676987313,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165531,
+        "num": 165531,
+        "word": "蒋敦豪董事长",
+        "onboard_time": 1676975316,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582885,
+        "num": 164992,
+        "word": "男子入住酒店41天后被发现死于客房",
+        "onboard_time": 1676980590,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160050,
+        "num": 160050,
+        "word": "李兰迪绿色毛衣下午茶随拍",
+        "onboard_time": 1676991817,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157561,
+        "num": 157561,
+        "word": "夜燕白 空降",
+        "onboard_time": 1676972550,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156616,
+        "num": 156616,
+        "word": "马嘉祺丁程鑫一起向我投来赞赏的目光",
+        "onboard_time": 1676986112,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153436,
+        "num": 153436,
+        "word": "蔡徐坤米兰时装周生图",
+        "onboard_time": 1676980952,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展看中国#"
+    }
+  }
+}

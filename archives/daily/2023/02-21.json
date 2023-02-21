@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676990065360,
+  "endTime": 1676992825559,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -9,6 +9,22 @@
       "onboard_time": 1676934439,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3705240,
+      "num": 3705240,
+      "word": "丫丫",
+      "onboard_time": 1676991157,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 3272381,
+      "num": 1123502,
+      "word": "河北保定发生一起重大刑案",
+      "onboard_time": 1676989354,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3051902,
@@ -99,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1778735,
+      "num": 1778735,
+      "word": "来电显示96110一定要接",
+      "onboard_time": 1676989839,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1468907,
       "num": 1407486,
       "word": "60岁中通快递分拣工凌晨在岗位猝死",
@@ -129,6 +153,14 @@
       "onboard_time": 1676948668,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1359352,
+      "num": 1359352,
+      "word": "甲流",
+      "onboard_time": 1676991039,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1328221,
@@ -531,14 +563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 749344,
-      "num": 530457,
-      "word": "河北保定发生一起重大刑案",
-      "onboard_time": 1676989354,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 748909,
       "num": 672860,
       "word": "30岁女程序员录用后又以未婚育被拒",
@@ -731,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 643623,
+      "num": 643623,
+      "word": "张婧仪直播",
+      "onboard_time": 1676990914,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 638633,
       "num": 638633,
       "word": "普京将发表国情咨文",
@@ -753,6 +785,14 @@
       "onboard_time": 1676974531,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 628633,
+      "num": 628633,
+      "word": "摆拍发3000收回2800主播被行拘",
+      "onboard_time": 1676988274,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625600,
@@ -1011,14 +1051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 465007,
-      "num": 465007,
-      "word": "摆拍发3000收回2800主播被行拘",
-      "onboard_time": 1676988274,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 461524,
       "num": 461524,
       "word": "张颂文饭还没放下就营业了",
@@ -1219,6 +1251,14 @@
       "category": "游戏,影视"
     },
     {
+      "raw_hot": 390938,
+      "num": 390938,
+      "word": "东北人第一次和南方人合租",
+      "onboard_time": 1676988453,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 390268,
       "num": 390268,
       "word": "虞书欣张凌赫蒙眼牵手路透",
@@ -1265,14 +1305,6 @@
       "onboard_time": 1676987313,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 380635,
-      "num": 380635,
-      "word": "东北人第一次和南方人合租",
-      "onboard_time": 1676988453,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 379995,
@@ -1344,6 +1376,14 @@
       "word": "官方回应城改办主任群发不雅信息",
       "onboard_time": 1676947950,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369638,
+      "num": 1376506,
+      "word": "大熊猫香香回家现场画面",
+      "onboard_time": 1676988814,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1619,6 +1659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295451,
+      "num": 295451,
+      "word": "宋亚轩侧颜状态",
+      "onboard_time": 1676992298,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295120,
       "num": 295120,
       "word": "半熟恋人",
@@ -1633,14 +1681,6 @@
       "onboard_time": 1676954498,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294372,
-      "num": 933148,
-      "word": "大熊猫香香回家现场画面",
-      "onboard_time": 1676988814,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292205,
@@ -1673,6 +1713,14 @@
       "onboard_time": 1676974052,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288708,
+      "num": 288708,
+      "word": "王楚钦花在混双时间非常多",
+      "onboard_time": 1676989414,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 286155,
@@ -1779,6 +1827,14 @@
       "category": "科技,游戏"
     },
     {
+      "raw_hot": 269457,
+      "num": 269457,
+      "word": "广州漫展",
+      "onboard_time": 1676991767,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 268492,
       "num": 268492,
       "word": "威少将加盟快船",
@@ -1859,14 +1915,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 250449,
-      "num": 250449,
-      "word": "王楚钦花在混双时间非常多",
-      "onboard_time": 1676989414,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 247524,
       "num": 247524,
       "word": "减肥人的自律时刻",
@@ -1896,6 +1944,14 @@
       "word": "杨紫199爱哭戏路透",
       "onboard_time": 1676967689,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 237674,
+      "num": 237674,
+      "word": "毒舌律师香港首部票房破亿华语片",
+      "onboard_time": 1676992177,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -2099,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200040,
+      "num": 200040,
+      "word": "香香回国是为寻找合适伴侣",
+      "onboard_time": 1676991275,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199814,
       "num": 199814,
       "word": "为什么在学校没见过我",
@@ -2171,6 +2235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193780,
+      "num": 193780,
+      "word": "研究发现艾滋病或有望治愈",
+      "onboard_time": 1676992477,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190563,
       "num": 190563,
       "word": "MOSS服务器流量过载",
@@ -2187,6 +2259,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 189722,
+      "num": 189722,
+      "word": "今日宜加油集齐三大魔尊",
+      "onboard_time": 1676990976,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188921,
       "num": 188921,
       "word": "韩版七月与安生新预告",
@@ -2201,14 +2281,6 @@
       "onboard_time": 1676961090,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 188527,
-      "num": 188527,
-      "word": "来电显示96110一定要接",
-      "onboard_time": 1676989839,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187640,
@@ -2241,6 +2313,14 @@
       "onboard_time": 1676978729,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183868,
+      "num": 183868,
+      "word": "ofo小黄车已彻底无法登录",
+      "onboard_time": 1676992657,
+      "rank": 42,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 182379,
@@ -2433,6 +2513,14 @@
       "onboard_time": 1676902173,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160050,
+      "num": 160050,
+      "word": "李兰迪绿色毛衣下午茶随拍",
+      "onboard_time": 1676991817,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 160043,
