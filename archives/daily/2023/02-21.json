@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676961461438,
+  "endTime": 1676963851519,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -33,6 +33,14 @@
       "onboard_time": 1676951433,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1883222,
+      "num": 1883222,
+      "word": "工作群发不雅信息涉事官员被免职",
+      "onboard_time": 1676957669,
+      "rank": 4,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1809009,
@@ -73,14 +81,6 @@
       "onboard_time": 1676947890,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1283442,
-      "num": 1283442,
-      "word": "工作群发不雅信息涉事官员被免职",
-      "onboard_time": 1676957669,
-      "rank": 4,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1282356,
@@ -267,6 +267,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 789671,
+      "num": 544096,
+      "word": "高校回应女厕设置男性小便池",
+      "onboard_time": 1676961927,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 775731,
       "num": 775731,
       "word": "鹿晗说五哈每一季开始都这么囧",
@@ -307,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 743492,
+      "num": 743492,
+      "word": "张小泉菜刀拍蒜断裂再现舆情风波",
+      "onboard_time": 1676958811,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730689,
       "num": 730689,
       "word": "法硕",
@@ -337,6 +353,14 @@
       "onboard_time": 1676954857,
       "rank": 14,
       "category": "艺人,科技"
+    },
+    {
+      "raw_hot": 669145,
+      "num": 669145,
+      "word": "韩剧我的大叔 翻拍",
+      "onboard_time": 1676960369,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 668145,
@@ -515,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488772,
+      "num": 488772,
+      "word": "全球最大四天工作制试验结果出炉",
+      "onboard_time": 1676958691,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484816,
       "num": 484816,
       "word": "这一届考研人有多难",
       "onboard_time": 1676890534,
       "rank": 6,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 480684,
+      "num": 480684,
+      "word": "言承旭徐若晗新浪扫楼",
+      "onboard_time": 1676962168,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 453668,
@@ -555,6 +595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 445290,
+      "num": 445290,
+      "word": "易烊千玺满江红职场潜台词",
+      "onboard_time": 1676962469,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 431124,
       "num": 431124,
       "word": "中方敦促有关国家停止鼓噪今日乌克兰明日台湾",
@@ -569,22 +617,6 @@
       "onboard_time": 1676893771,
       "rank": 11,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 425487,
-      "num": 425487,
-      "word": "张小泉菜刀拍蒜断裂再现舆情风波",
-      "onboard_time": 1676958811,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423899,
-      "num": 423899,
-      "word": "韩剧我的大叔 翻拍",
-      "onboard_time": 1676960369,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 420233,
@@ -707,14 +739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 359476,
-      "num": 359476,
-      "word": "全球最大四天工作制试验结果出炉",
-      "onboard_time": 1676958691,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359331,
       "num": 359331,
       "word": "宋祖儿刘宇宁红衣背影路透",
@@ -779,6 +803,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 327697,
+      "num": 327697,
+      "word": "李荣浩郑州演唱会门票",
+      "onboard_time": 1676960850,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 324735,
+      "num": 324735,
+      "word": "半熟恋人2男五女五来了",
+      "onboard_time": 1676959112,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318552,
       "num": 318552,
       "word": "张嘉倪出发米兰时装周",
@@ -835,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302210,
+      "num": 302210,
+      "word": "今晚能看到真正的龙抬头",
+      "onboard_time": 1676961328,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301316,
       "num": 301316,
       "word": "何冉病情恶化",
@@ -873,6 +921,14 @@
       "onboard_time": 1676944229,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 289675,
+      "num": 289675,
+      "word": "高启盛的走路姿势原来是家族遗传",
+      "onboard_time": 1676960609,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 286155,
@@ -963,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264045,
-      "num": 264045,
-      "word": "李荣浩郑州演唱会门票",
-      "onboard_time": 1676960850,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 263880,
       "num": 263880,
       "word": "土耳其南部6.4级地震",
@@ -1011,12 +1059,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246107,
+      "num": 246107,
+      "word": "情侣报考同校同专业考出同分",
+      "onboard_time": 1676963128,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 244454,
       "num": 244454,
       "word": "河南省考",
       "onboard_time": 1676945432,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 241071,
+      "num": 241071,
+      "word": "二十届二中全会召开时间",
+      "onboard_time": 1676963128,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 236713,
+      "num": 236713,
+      "word": "中国从未挑起战争但对华打压不断升级",
+      "onboard_time": 1676962049,
+      "rank": 30,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 234238,
@@ -1155,14 +1227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201301,
-      "num": 201301,
-      "word": "半熟恋人2男五女五来了",
-      "onboard_time": 1676959112,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199814,
       "num": 199814,
       "word": "为什么在学校没见过我",
@@ -1177,6 +1241,14 @@
       "onboard_time": 1676956951,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197837,
+      "num": 197837,
+      "word": "白时可乐",
+      "onboard_time": 1676963310,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 197225,
@@ -1267,6 +1339,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178694,
+      "num": 178694,
+      "word": "阿改获得周最佳选手",
+      "onboard_time": 1676963429,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 177223,
+      "num": 177223,
+      "word": "李现为拨浪鼓咚咚响打call",
+      "onboard_time": 1676963789,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175126,
       "num": 175126,
       "word": "唐艺昕晒户外随拍",
@@ -1281,6 +1369,14 @@
       "onboard_time": 1676950652,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 173911,
+      "num": 173911,
+      "word": "这个发型给几分",
+      "onboard_time": 1676962891,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173670,
@@ -1347,14 +1443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 157850,
-      "num": 157850,
-      "word": "今晚能看到真正的龙抬头",
-      "onboard_time": 1676961328,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156631,
       "num": 156631,
       "word": "官方通报城改办主任群发不雅信息",
@@ -1371,20 +1459,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153889,
+      "num": 153889,
+      "word": "XYG 羲和",
+      "onboard_time": 1676963668,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152390,
       "num": 152390,
       "word": "二月二",
       "onboard_time": 1676937026,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150488,
-      "num": 150488,
-      "word": "高启盛的走路姿势原来是家族遗传",
-      "onboard_time": 1676960609,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 145535,

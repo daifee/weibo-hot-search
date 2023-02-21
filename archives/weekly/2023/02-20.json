@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676961461438,
+  "endTime": 1676963851519,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -121,6 +121,14 @@
       "onboard_time": 1676871269,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1883222,
+      "num": 1883222,
+      "word": "工作群发不雅信息涉事官员被免职",
+      "onboard_time": 1676957669,
+      "rank": 4,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1875139,
@@ -313,14 +321,6 @@
       "onboard_time": 1676870490,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1283442,
-      "num": 1283442,
-      "word": "工作群发不雅信息涉事官员被免职",
-      "onboard_time": 1676957669,
-      "rank": 4,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1282356,
@@ -755,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 789671,
+      "num": 544096,
+      "word": "高校回应女厕设置男性小便池",
+      "onboard_time": 1676961927,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 783846,
       "num": 783846,
       "word": "苹果将阻止用户免费装开测版iOS17",
@@ -841,6 +849,14 @@
       "onboard_time": 1676953718,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 743492,
+      "num": 743492,
+      "word": "张小泉菜刀拍蒜断裂再现舆情风波",
+      "onboard_time": 1676958811,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 738335,
@@ -985,6 +1001,14 @@
       "onboard_time": 1676954857,
       "rank": 14,
       "category": "艺人,科技"
+    },
+    {
+      "raw_hot": 669145,
+      "num": 669145,
+      "word": "韩剧我的大叔 翻拍",
+      "onboard_time": 1676960369,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 668145,
@@ -1467,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488772,
+      "num": 488772,
+      "word": "全球最大四天工作制试验结果出炉",
+      "onboard_time": 1676958691,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 487722,
       "num": 487722,
       "word": "你想要什么王者亲密称呼",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1676890290,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480684,
+      "num": 480684,
+      "word": "言承旭徐若晗新浪扫楼",
+      "onboard_time": 1676962168,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 480439,
@@ -1619,6 +1659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 445290,
+      "num": 445290,
+      "word": "易烊千玺满江红职场潜台词",
+      "onboard_time": 1676962469,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 444401,
       "num": 444401,
       "word": "小时候的塌天大事",
@@ -1736,22 +1784,6 @@
       "word": "电影热烈",
       "onboard_time": 1676867736,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 425487,
-      "num": 425487,
-      "word": "张小泉菜刀拍蒜断裂再现舆情风波",
-      "onboard_time": 1676958811,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423899,
-      "num": 423899,
-      "word": "韩剧我的大叔 翻拍",
-      "onboard_time": 1676960369,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -2027,14 +2059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359476,
-      "num": 359476,
-      "word": "全球最大四天工作制试验结果出炉",
-      "onboard_time": 1676958691,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359450,
       "num": 359450,
       "word": "梅西姆巴佩获劳伦斯年度最佳男运动员提名",
@@ -2243,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327697,
+      "num": 327697,
+      "word": "李荣浩郑州演唱会门票",
+      "onboard_time": 1676960850,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 324902,
       "num": 324902,
       "word": "NCT成员将5月solo出道",
@@ -2257,6 +2289,14 @@
       "onboard_time": 1676866173,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324735,
+      "num": 324735,
+      "word": "半熟恋人2男五女五来了",
+      "onboard_time": 1676959112,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 321331,
@@ -2411,6 +2451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302210,
+      "num": 302210,
+      "word": "今晚能看到真正的龙抬头",
+      "onboard_time": 1676961328,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301572,
       "num": 301572,
       "word": "94岁老人疑遭护工推倒撞地去世",
@@ -2449,6 +2497,14 @@
       "onboard_time": 1676944229,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 289675,
+      "num": 289675,
+      "word": "高启盛的走路姿势原来是家族遗传",
+      "onboard_time": 1676960609,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 288551,
@@ -2627,14 +2683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264045,
-      "num": 264045,
-      "word": "李荣浩郑州演唱会门票",
-      "onboard_time": 1676960850,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 263880,
       "num": 263880,
       "word": "土耳其南部6.4级地震",
@@ -2723,6 +2771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 246107,
+      "num": 246107,
+      "word": "情侣报考同校同专业考出同分",
+      "onboard_time": 1676963128,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 244454,
       "num": 244454,
       "word": "河南省考",
@@ -2747,6 +2803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 241071,
+      "num": 241071,
+      "word": "二十届二中全会召开时间",
+      "onboard_time": 1676963128,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 240479,
       "num": 240479,
       "word": "金字塔内部是这样的",
@@ -2769,6 +2833,14 @@
       "onboard_time": 1676897430,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236713,
+      "num": 236713,
+      "word": "中国从未挑起战争但对华打压不断升级",
+      "onboard_time": 1676962049,
+      "rank": 30,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 235042,
@@ -3043,14 +3115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201301,
-      "num": 201301,
-      "word": "半熟恋人2男五女五来了",
-      "onboard_time": 1676959112,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200939,
       "num": 200939,
       "word": "金子涵跳了LEFTRIGHT",
@@ -3073,6 +3137,14 @@
       "onboard_time": 1676956951,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197837,
+      "num": 197837,
+      "word": "白时可乐",
+      "onboard_time": 1676963310,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 197504,
@@ -3259,6 +3331,22 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 178694,
+      "num": 178694,
+      "word": "阿改获得周最佳选手",
+      "onboard_time": 1676963429,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 177223,
+      "num": 177223,
+      "word": "李现为拨浪鼓咚咚响打call",
+      "onboard_time": 1676963789,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177017,
       "num": 177017,
       "word": "电单车藏匿28台苹果手机走私被查获",
@@ -3313,6 +3401,14 @@
       "onboard_time": 1676950652,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 173911,
+      "num": 173911,
+      "word": "这个发型给几分",
+      "onboard_time": 1676962891,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171309,
@@ -3467,14 +3563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157850,
-      "num": 157850,
-      "word": "今晚能看到真正的龙抬头",
-      "onboard_time": 1676961328,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156631,
       "num": 156631,
       "word": "官方通报城改办主任群发不雅信息",
@@ -3515,6 +3603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153889,
+      "num": 153889,
+      "word": "XYG 羲和",
+      "onboard_time": 1676963668,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152390,
       "num": 152390,
       "word": "二月二",
@@ -3529,14 +3625,6 @@
       "onboard_time": 1676887649,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 150488,
-      "num": 150488,
-      "word": "高启盛的走路姿势原来是家族遗传",
-      "onboard_time": 1676960609,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 145535,
