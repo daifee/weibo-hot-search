@@ -1,0 +1,410 @@
+{
+  "runTime": 1676983035852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1920659,
+        "num": 1920659,
+        "word": "男子入住酒店41天后被发现死于客房",
+        "onboard_time": 1676980590,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110868,
+        "num": 1110868,
+        "word": "全球第5例艾滋病治愈者出现",
+        "onboard_time": 1676973099,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24710,
+        "num": 1045907,
+        "word": "up新时代中国",
+        "onboard_time": 1676966729,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1608833,
+        "num": 1042660,
+        "word": "老人被确认车祸死亡11年后死而复生",
+        "onboard_time": 1676970871,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1276752,
+        "num": 1039904,
+        "word": "女子连刷10个差评商家找上门怒怼",
+        "onboard_time": 1676978251,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036334,
+        "num": 1036334,
+        "word": "陈晓听陈妍希叫刘德华老公很开心",
+        "onboard_time": 1676980709,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 721604,
+        "num": 721604,
+        "word": "到底是考研难还是读研难",
+        "onboard_time": 1676973931,
+        "rank": 6,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 674698,
+        "num": 674698,
+        "word": "雾都雾里七个八",
+        "onboard_time": 1676979507,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594888,
+        "num": 594888,
+        "word": "考研国家线",
+        "onboard_time": 1676942906,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 499636,
+        "num": 499636,
+        "word": "蒋敦豪董事长",
+        "onboard_time": 1676975316,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 925835,
+        "num": 498920,
+        "word": "林志颖刘荷娜16年后同框",
+        "onboard_time": 1676967030,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498120,
+        "num": 498120,
+        "word": "日本人有多舍不得中国大熊猫香香",
+        "onboard_time": 1676970092,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486406,
+        "num": 486406,
+        "word": "杨紫白裙小香风造型",
+        "onboard_time": 1676978610,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 452533,
+        "num": 452533,
+        "word": "章子怡 中戏考官",
+        "onboard_time": 1676968832,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429818,
+        "num": 429818,
+        "word": "HYBE称会帮SMTOWN艺人闯美",
+        "onboard_time": 1676982210,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420854,
+        "num": 420854,
+        "word": "北电美术学院教师评赵丽颖许半夏穿搭",
+        "onboard_time": 1676980348,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 382853,
+        "num": 382853,
+        "word": "蔡徐坤米兰时装周生图",
+        "onboard_time": 1676980952,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 373033,
+        "num": 373033,
+        "word": "韩国街头小广告盗用杨洋的照片",
+        "onboard_time": 1676979930,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354106,
+        "num": 354106,
+        "word": "异地民警郑州办案猥亵嫌疑人之妻被拘",
+        "onboard_time": 1676981910,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 341046,
+        "num": 341046,
+        "word": "ChatGPT",
+        "onboard_time": 1676976331,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 366146,
+        "num": 339154,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1676971712,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 331909,
+        "num": 331909,
+        "word": "北大方正集团财务有限公司进入破产程序",
+        "onboard_time": 1676976210,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 323322,
+        "num": 323322,
+        "word": "普京对特别军事行动发表评价",
+        "onboard_time": 1676977353,
+        "rank": 22,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 316234,
+        "num": 316234,
+        "word": "俞敏洪说想给董宇辉在北京买套房子",
+        "onboard_time": 1676970810,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311181,
+        "num": 311181,
+        "word": "暨南大学考研",
+        "onboard_time": 1676972436,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 305845,
+        "num": 305845,
+        "word": "夏花 BE",
+        "onboard_time": 1676982574,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297276,
+        "num": 297276,
+        "word": "夜燕白 空降",
+        "onboard_time": 1676972550,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295120,
+        "num": 295120,
+        "word": "半熟恋人",
+        "onboard_time": 1676980049,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291903,
+        "num": 291903,
+        "word": "龚俊入驻上海杜莎夫人蜡像馆",
+        "onboard_time": 1676980231,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131752,
+        "num": 287332,
+        "word": "特朗普称若当选总统先给俄乌打电话",
+        "onboard_time": 1676976573,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 320689,
+        "num": 286879,
+        "word": "湖南考研成绩2月21日可查",
+        "onboard_time": 1676977771,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 286217,
+        "num": 286217,
+        "word": "张颂文饭还没放下就营业了",
+        "onboard_time": 1676970752,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275490,
+        "num": 275490,
+        "word": "朱一龙起诉快活嘴食品",
+        "onboard_time": 1676974531,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 264176,
+        "num": 264176,
+        "word": "鞠婧祎象征性的剪两根头发",
+        "onboard_time": 1676967570,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253819,
+        "num": 253819,
+        "word": "麦迪全明星现场为粉丝签名",
+        "onboard_time": 1676981011,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246538,
+        "num": 246538,
+        "word": "柯南剧场版全新预告",
+        "onboard_time": 1676979212,
+        "rank": 35,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 229838,
+        "num": 229838,
+        "word": "当三个穿青蛙服的人相遇后",
+        "onboard_time": 1676975252,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224246,
+        "num": 224246,
+        "word": "井柏然谭松韵归路暂定三月播出",
+        "onboard_time": 1676982874,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218936,
+        "num": 218936,
+        "word": "王楚然今日扫楼生图",
+        "onboard_time": 1676980772,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214833,
+        "num": 214833,
+        "word": "我是颜值主播我不会跳舞",
+        "onboard_time": 1676980890,
+        "rank": 39,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 209210,
+        "num": 209210,
+        "word": "特朗普称能24小时解决俄乌冲突",
+        "onboard_time": 1676974292,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 207727,
+        "num": 207727,
+        "word": "郭德纲否认于谦离开德云社单飞",
+        "onboard_time": 1676968470,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206896,
+        "num": 206896,
+        "word": "边伯贤Candy练习室",
+        "onboard_time": 1676980110,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182170,
+        "num": 182170,
+        "word": "洛音凡后悔了",
+        "onboard_time": 1676982150,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179557,
+        "num": 179557,
+        "word": "林高远陈幸同混双夺冠",
+        "onboard_time": 1676982993,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177975,
+        "num": 177975,
+        "word": "上海总和生育率为0.7",
+        "onboard_time": 1676967510,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174987,
+        "num": 174987,
+        "word": "河南规定参加婚检可休28天婚假",
+        "onboard_time": 1676969609,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173181,
+        "num": 173181,
+        "word": "考研调剂",
+        "onboard_time": 1676958330,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172807,
+        "num": 172807,
+        "word": "30岁女程序员录用后又以未婚育被拒",
+        "onboard_time": 1676967992,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413095,
+        "num": 172574,
+        "word": "政府回应16岁少女被父母卖掉后逃走",
+        "onboard_time": 1676976210,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展看中国#"
+    }
+  }
+}

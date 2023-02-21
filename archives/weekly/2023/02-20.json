@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676979235872,
+  "endTime": 1676983035852,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -151,6 +151,14 @@
       "num": 1924210,
       "word": "全球第5例艾滋病治愈者出现",
       "onboard_time": 1676973099,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1920659,
+      "num": 1920659,
+      "word": "男子入住酒店41天后被发现死于客房",
+      "onboard_time": 1676980590,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -371,6 +379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1276752,
+      "num": 1039904,
+      "word": "女子连刷10个差评商家找上门怒怼",
+      "onboard_time": 1676978251,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1268665,
       "num": 1268665,
       "word": "陈梦受伤梦龙退出混双",
@@ -577,6 +593,14 @@
       "onboard_time": 1676895928,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1036334,
+      "num": 1036334,
+      "word": "陈晓听陈妍希叫刘德华老公很开心",
+      "onboard_time": 1676980709,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1026648,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1676898930,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 674698,
+      "num": 674698,
+      "word": "雾都雾里七个八",
+      "onboard_time": 1676979507,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 673471,
@@ -1867,14 +1899,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 472938,
-      "num": 472938,
-      "word": "女子连刷10个差评商家找上门怒怼",
-      "onboard_time": 1676978251,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 467371,
       "num": 341998,
       "word": "中国台湾联赛大规模冲突",
@@ -2107,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 429818,
+      "num": 429818,
+      "word": "HYBE称会帮SMTOWN艺人闯美",
+      "onboard_time": 1676982210,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428529,
       "num": 428529,
       "word": "杨紫199爱卡其色风衣路透",
@@ -2137,6 +2169,14 @@
       "onboard_time": 1676975373,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420854,
+      "num": 420854,
+      "word": "北电美术学院教师评赵丽颖许半夏穿搭",
+      "onboard_time": 1676980348,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 420233,
@@ -2177,6 +2217,14 @@
       "onboard_time": 1676940929,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 413095,
+      "num": 172574,
+      "word": "政府回应16岁少女被父母卖掉后逃走",
+      "onboard_time": 1676976210,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412408,
@@ -2291,6 +2339,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 382853,
+      "num": 382853,
+      "word": "蔡徐坤米兰时装周生图",
+      "onboard_time": 1676980952,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 382762,
       "num": 382762,
       "word": "蔡徐坤橘发挑染造型",
@@ -2385,6 +2441,14 @@
       "onboard_time": 1676869775,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 373033,
+      "num": 373033,
+      "word": "韩国街头小广告盗用杨洋的照片",
+      "onboard_time": 1676979930,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 371721,
@@ -2513,6 +2577,14 @@
       "onboard_time": 1676881408,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354106,
+      "num": 354106,
+      "word": "异地民警郑州办案猥亵嫌疑人之妻被拘",
+      "onboard_time": 1676981910,
+      "rank": 18,
+      "category": "社会负面"
     },
     {
       "raw_hot": 351028,
@@ -2715,12 +2787,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323322,
+      "num": 323322,
+      "word": "普京对特别军事行动发表评价",
+      "onboard_time": 1676977353,
+      "rank": 35,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 321331,
       "num": 321331,
       "word": "江西省考",
       "onboard_time": 1676860109,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 320689,
+      "num": 286879,
+      "word": "湖南考研成绩2月21日可查",
+      "onboard_time": 1676977771,
+      "rank": 43,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 319541,
@@ -2867,20 +2955,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305845,
+      "num": 305845,
+      "word": "夏花 BE",
+      "onboard_time": 1676982574,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304984,
       "num": 304984,
       "word": "剧本杀电影欢迎再次登录",
       "onboard_time": 1676945792,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 302414,
-      "num": 264006,
-      "word": "普京对特别军事行动发表评价",
-      "onboard_time": 1676977353,
-      "rank": 35,
-      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 302210,
@@ -2915,6 +3003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295120,
+      "num": 295120,
+      "word": "半熟恋人",
+      "onboard_time": 1676980049,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295013,
       "num": 295013,
       "word": "花木兰全球甄选新皮肤",
@@ -2929,6 +3025,14 @@
       "onboard_time": 1676967208,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291903,
+      "num": 291903,
+      "word": "龚俊入驻上海杜莎夫人蜡像馆",
+      "onboard_time": 1676980231,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 291134,
@@ -3131,14 +3235,6 @@
       "category": "科技,游戏"
     },
     {
-      "raw_hot": 269803,
-      "num": 262867,
-      "word": "湖南考研成绩2月21日可查",
-      "onboard_time": 1676977771,
-      "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 269643,
       "num": 269643,
       "word": "严浩翔团综游乐园路透",
@@ -3203,6 +3299,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 253819,
+      "num": 253819,
+      "word": "麦迪全明星现场为粉丝签名",
+      "onboard_time": 1676981011,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253725,
       "num": 253725,
       "word": "王楚然阮流筝反差感",
@@ -3265,6 +3369,14 @@
       "onboard_time": 1676908587,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246538,
+      "num": 246538,
+      "word": "柯南剧场版全新预告",
+      "onboard_time": 1676979212,
+      "rank": 49,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 244454,
@@ -3427,6 +3539,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 224246,
+      "num": 224246,
+      "word": "井柏然谭松韵归路暂定三月播出",
+      "onboard_time": 1676982874,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222874,
       "num": 222874,
       "word": "洛杉矶火花官宣杨力维加盟",
@@ -3448,6 +3568,14 @@
       "word": "章若楠照明商店路透",
       "onboard_time": 1676898036,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218936,
+      "num": 218936,
+      "word": "王楚然今日扫楼生图",
+      "onboard_time": 1676980772,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -3497,6 +3625,14 @@
       "onboard_time": 1676918834,
       "rank": 19,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 214833,
+      "num": 214833,
+      "word": "我是颜值主播我不会跳舞",
+      "onboard_time": 1676980890,
+      "rank": 39,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 213478,
@@ -3569,6 +3705,14 @@
       "onboard_time": 1676857585,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206896,
+      "num": 206896,
+      "word": "边伯贤Candy练习室",
+      "onboard_time": 1676980110,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 206506,
@@ -3859,6 +4003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182170,
+      "num": 182170,
+      "word": "洛音凡后悔了",
+      "onboard_time": 1676982150,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181414,
       "num": 181414,
       "word": "陆虎 王栎鑫家的餐桌",
@@ -3881,6 +4033,14 @@
       "onboard_time": 1676978670,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179557,
+      "num": 179557,
+      "word": "林高远陈幸同混双夺冠",
+      "onboard_time": 1676982993,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 178694,
@@ -4129,14 +4289,6 @@
       "onboard_time": 1676896109,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 158461,
-      "num": 158461,
-      "word": "柯南剧场版全新预告",
-      "onboard_time": 1676979212,
-      "rank": 49,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 156631,
