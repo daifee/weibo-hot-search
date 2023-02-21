@@ -1,0 +1,410 @@
+{
+  "runTime": 1676985992523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1809373,
+        "num": 1809373,
+        "word": "男子入住酒店41天后被发现死于客房",
+        "onboard_time": 1676980590,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1098400,
+        "num": 1098400,
+        "word": "陈晓听陈妍希叫刘德华老公很开心",
+        "onboard_time": 1676980709,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20606,
+        "num": 1026014,
+        "word": "up新时代中国",
+        "onboard_time": 1676966729,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963338,
+        "num": 963338,
+        "word": "杨紫直播",
+        "onboard_time": 1676984732,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 913304,
+        "num": 913304,
+        "word": "异地民警郑州办案猥亵嫌疑人之妻被拘",
+        "onboard_time": 1676981910,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 816838,
+        "num": 816838,
+        "word": "夏花 BE",
+        "onboard_time": 1676982574,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 782862,
+        "num": 782862,
+        "word": "全球第5例艾滋病治愈者出现",
+        "onboard_time": 1676973099,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682116,
+        "num": 682116,
+        "word": "女子连刷10个差评商家找上门怒怼",
+        "onboard_time": 1676978251,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631792,
+        "num": 631792,
+        "word": "女子试戴金戒指断两半遭索赔",
+        "onboard_time": 1676984559,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571831,
+        "num": 571831,
+        "word": "内娱真人版网球王子",
+        "onboard_time": 1676983474,
+        "rank": 9,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 907306,
+        "num": 555336,
+        "word": "林志颖刘荷娜16年后同框",
+        "onboard_time": 1676967030,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467671,
+        "num": 467671,
+        "word": "到底是考研难还是读研难",
+        "onboard_time": 1676973931,
+        "rank": 11,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 464270,
+        "num": 464270,
+        "word": "吴京呼吁网友为刘培强复活支招",
+        "onboard_time": 1676985213,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 455247,
+        "num": 455247,
+        "word": "考研国家线",
+        "onboard_time": 1676942906,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 451910,
+        "num": 451910,
+        "word": "日本人有多舍不得中国大熊猫香香",
+        "onboard_time": 1676970092,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1209219,
+        "num": 451215,
+        "word": "老人被确认车祸死亡11年后死而复生",
+        "onboard_time": 1676970871,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436250,
+        "num": 436250,
+        "word": "韩国街头小广告盗用杨洋的照片",
+        "onboard_time": 1676979930,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375786,
+        "num": 375786,
+        "word": "章子怡 中戏考官",
+        "onboard_time": 1676968832,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372659,
+        "num": 372659,
+        "word": "HYBE称会帮SMTOWN艺人闯美",
+        "onboard_time": 1676982210,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372065,
+        "num": 372065,
+        "word": "安欣陆泽宁吻戏",
+        "onboard_time": 1676985154,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 367726,
+        "num": 367726,
+        "word": "雾都雾里七个八",
+        "onboard_time": 1676979507,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345115,
+        "num": 345115,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1676971712,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 333050,
+        "num": 333050,
+        "word": "我们的日子 严冰",
+        "onboard_time": 1676985454,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 321808,
+        "num": 321808,
+        "word": "因身揣逃犯身份证智障男子坐牢9年",
+        "onboard_time": 1676983413,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296153,
+        "num": 296153,
+        "word": "俞敏洪说想给董宇辉在北京买套房子",
+        "onboard_time": 1676970810,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299246,
+        "num": 295795,
+        "word": "北电美术学院教师评赵丽颖许半夏穿搭",
+        "onboard_time": 1676980348,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288516,
+        "num": 288516,
+        "word": "这美甲多少有点荒谬了",
+        "onboard_time": 1676984502,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282084,
+        "num": 282084,
+        "word": "井柏然谭松韵归路暂定三月播出",
+        "onboard_time": 1676982874,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274624,
+        "num": 274624,
+        "word": "普京对特别军事行动发表评价",
+        "onboard_time": 1676977353,
+        "rank": 28,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 154090,
+        "num": 273614,
+        "word": "原来熊猫宝宝也会吃手",
+        "onboard_time": 1676984312,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273236,
+        "num": 273236,
+        "word": "刘三姐黄婉秋病危昏迷",
+        "onboard_time": 1676985693,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270367,
+        "num": 270367,
+        "word": "林高远陈幸同混双夺冠",
+        "onboard_time": 1676982993,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267858,
+        "num": 267858,
+        "word": "暨南大学考研",
+        "onboard_time": 1676972436,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 266523,
+        "num": 266523,
+        "word": "蒋敦豪董事长",
+        "onboard_time": 1676975316,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260384,
+        "num": 260384,
+        "word": "蔡徐坤米兰时装周生图",
+        "onboard_time": 1676980952,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 246726,
+        "num": 246726,
+        "word": "半熟恋人",
+        "onboard_time": 1676980049,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235503,
+        "num": 235503,
+        "word": "WBG对战iG",
+        "onboard_time": 1676983653,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228407,
+        "num": 228407,
+        "word": "夜燕白 空降",
+        "onboard_time": 1676972550,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226878,
+        "num": 226878,
+        "word": "ChatGPT",
+        "onboard_time": 1676976331,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 216792,
+        "num": 216792,
+        "word": "朱一龙起诉快活嘴食品",
+        "onboard_time": 1676974531,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 224077,
+        "num": 216045,
+        "word": "龚俊入驻上海杜莎夫人蜡像馆",
+        "onboard_time": 1676980231,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219152,
+        "num": 213818,
+        "word": "张颂文饭还没放下就营业了",
+        "onboard_time": 1676970752,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208417,
+        "num": 208417,
+        "word": "王楚然今日扫楼生图",
+        "onboard_time": 1676980772,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187530,
+        "num": 187530,
+        "word": "鞠婧祎象征性的剪两根头发",
+        "onboard_time": 1676967570,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185724,
+        "num": 185724,
+        "word": "我是颜值主播我不会跳舞",
+        "onboard_time": 1676980890,
+        "rank": 44,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 179481,
+        "num": 179481,
+        "word": "Light韦鲁斯五杀",
+        "onboard_time": 1676985332,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178219,
+        "num": 178219,
+        "word": "LPL",
+        "onboard_time": 1676985093,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177502,
+        "num": 177502,
+        "word": "当三个穿青蛙服的人相遇后",
+        "onboard_time": 1676975252,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176728,
+        "num": 176728,
+        "word": "湖南考研成绩2月21日可查",
+        "onboard_time": 1676977771,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 170930,
+        "num": 170930,
+        "word": "柯南剧场版全新预告",
+        "onboard_time": 1676979212,
+        "rank": 49,
+        "category": "影视,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展看中国#"
+    }
+  }
+}
