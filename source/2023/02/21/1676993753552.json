@@ -1,0 +1,410 @@
+{
+  "runTime": 1676993753552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3813771,
+        "num": 3813771,
+        "word": "丫丫",
+        "onboard_time": 1676991157,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1950538,
+        "num": 1950538,
+        "word": "来电显示96110一定要接",
+        "onboard_time": 1676989839,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489133,
+        "num": 1445087,
+        "word": "大熊猫香香回家现场画面",
+        "onboard_time": 1676988814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1375354,
+        "num": 1375354,
+        "word": "甲流",
+        "onboard_time": 1676991039,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756668,
+        "num": 756668,
+        "word": "全球第5例艾滋病治愈者出现",
+        "onboard_time": 1676973099,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615450,
+        "num": 615450,
+        "word": "ofo小黄车已彻底无法登录",
+        "onboard_time": 1676992657,
+        "rank": 5,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 2677824,
+        "num": 607525,
+        "word": "河北保定发生一起重大刑案",
+        "onboard_time": 1676989354,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597490,
+        "num": 597490,
+        "word": "摆拍发3000收回2800主播被行拘",
+        "onboard_time": 1676988274,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582124,
+        "num": 582124,
+        "word": "试管婴儿被放错胚胎事件初步和解",
+        "onboard_time": 1676987072,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497052,
+        "num": 497052,
+        "word": "林志颖问谁还记得放羊的星星这部剧",
+        "onboard_time": 1676986714,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481703,
+        "num": 481703,
+        "word": "内娱真人版网球王子",
+        "onboard_time": 1676983474,
+        "rank": 10,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 470440,
+        "num": 470440,
+        "word": "陈晓听陈妍希叫刘德华老公很开心",
+        "onboard_time": 1676980709,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453294,
+        "num": 453294,
+        "word": "张婧仪直播",
+        "onboard_time": 1676990914,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435022,
+        "num": 435022,
+        "word": "广州漫展",
+        "onboard_time": 1676991767,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 416828,
+        "num": 416828,
+        "word": "香香已抵达成都",
+        "onboard_time": 1676987437,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399125,
+        "num": 399125,
+        "word": "到底是考研难还是读研难",
+        "onboard_time": 1676973931,
+        "rank": 15,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 373322,
+        "num": 373322,
+        "word": "夏花 BE",
+        "onboard_time": 1676982574,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372157,
+        "num": 372157,
+        "word": "日本人有多舍不得中国大熊猫香香",
+        "onboard_time": 1676970092,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356977,
+        "num": 356977,
+        "word": "研究发现艾滋病或有望治愈",
+        "onboard_time": 1676992477,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351456,
+        "num": 351456,
+        "word": "我们的日子 严冰",
+        "onboard_time": 1676985454,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325262,
+        "num": 325262,
+        "word": "因身揣逃犯身份证智障男子坐牢9年",
+        "onboard_time": 1676983413,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310267,
+        "num": 310267,
+        "word": "东北人第一次和南方人合租",
+        "onboard_time": 1676988453,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278555,
+        "num": 278555,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1676971712,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271199,
+        "num": 271199,
+        "word": "杨洋方已委请律师介入处理",
+        "onboard_time": 1676986293,
+        "rank": 23,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 271186,
+        "num": 271186,
+        "word": "安欣陆泽宁吻戏",
+        "onboard_time": 1676985154,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263576,
+        "num": 263576,
+        "word": "多地学校因新冠甲流等停课",
+        "onboard_time": 1676993194,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 248310,
+        "num": 248310,
+        "word": "王楚钦花在混双时间非常多",
+        "onboard_time": 1676989414,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232281,
+        "num": 232281,
+        "word": "一张九九乘法表拿捏外国小孩",
+        "onboard_time": 1676988640,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231501,
+        "num": 231501,
+        "word": "毒舌律师香港首部票房破亿华语片",
+        "onboard_time": 1676992177,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225325,
+        "num": 225325,
+        "word": "女子连刷10个差评商家找上门怒怼",
+        "onboard_time": 1676978251,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215686,
+        "num": 215686,
+        "word": "宋亚轩侧颜状态",
+        "onboard_time": 1676992298,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213765,
+        "num": 213765,
+        "word": "香香回国是为寻找合适伴侣",
+        "onboard_time": 1676991275,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212370,
+        "num": 212370,
+        "word": "普京对特别军事行动发表评价",
+        "onboard_time": 1676977353,
+        "rank": 32,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 201061,
+        "num": 201061,
+        "word": "HYBE称会帮SMTOWN艺人闯美",
+        "onboard_time": 1676982210,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190882,
+        "num": 190882,
+        "word": "暨南大学考研",
+        "onboard_time": 1676972436,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 188884,
+        "num": 188884,
+        "word": "雾都雾里七个八",
+        "onboard_time": 1676979507,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184769,
+        "num": 184769,
+        "word": "李兰迪绿色毛衣下午茶随拍",
+        "onboard_time": 1676991817,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176052,
+        "num": 176052,
+        "word": "这美甲多少有点荒谬了",
+        "onboard_time": 1676984502,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174426,
+        "num": 174426,
+        "word": "ChatGPT",
+        "onboard_time": 1676976331,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 171153,
+        "num": 171153,
+        "word": "章子怡 中戏考官",
+        "onboard_time": 1676968832,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165520,
+        "num": 165520,
+        "word": "我们的日子",
+        "onboard_time": 1676987613,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163472,
+        "num": 163472,
+        "word": "吴京呼吁网友为刘培强复活支招",
+        "onboard_time": 1676985213,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157238,
+        "num": 157238,
+        "word": "俞敏洪说想给董宇辉在北京买套房子",
+        "onboard_time": 1676970810,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151124,
+        "num": 151124,
+        "word": "蒋敦豪董事长",
+        "onboard_time": 1676975316,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147711,
+        "num": 147711,
+        "word": "WBG战胜iG",
+        "onboard_time": 1676987675,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145789,
+        "num": 145789,
+        "word": "金晨剪刘海vlog",
+        "onboard_time": 1676993016,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138528,
+        "num": 138528,
+        "word": "今日宜加油集齐三大魔尊",
+        "onboard_time": 1676990976,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134267,
+        "num": 134267,
+        "word": "半熟恋人",
+        "onboard_time": 1676980049,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134161,
+        "num": 134161,
+        "word": "马嘉祺丁程鑫一起向我投来赞赏的目光",
+        "onboard_time": 1676986112,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131171,
+        "num": 131171,
+        "word": "家长是懂给我对象起外号的",
+        "onboard_time": 1676993735,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#以高质量供给满足日益升级的国内市场需求#"
+    }
+  }
+}
