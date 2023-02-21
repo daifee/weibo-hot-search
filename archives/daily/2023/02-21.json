@@ -1,18 +1,18 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676943820229,
+  "endTime": 1676945125751,
   "band_list": [
     {
-      "raw_hot": 4959538,
-      "num": 4959538,
+      "raw_hot": 5454285,
+      "num": 5454285,
       "word": "考研成绩",
       "onboard_time": 1676934439,
       "rank": 0,
       "category": "教育"
     },
     {
-      "raw_hot": 2057960,
-      "num": 2057960,
+      "raw_hot": 2867131,
+      "num": 2867131,
       "word": "考研国家线",
       "onboard_time": 1676942906,
       "rank": 1,
@@ -25,6 +25,14 @@
       "onboard_time": 1676938648,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1282356,
+      "num": 1282356,
+      "word": "四六级",
+      "onboard_time": 1676939848,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 1212960,
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1164811,
+      "num": 1164811,
+      "word": "10名学生阳性该不该动辄停课",
+      "onboard_time": 1676941470,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1118203,
       "num": 770753,
       "word": "山东人均身高1米8实锤了",
@@ -51,12 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1103820,
-      "num": 1103820,
-      "word": "10名学生阳性该不该动辄停课",
-      "onboard_time": 1676941470,
-      "rank": 4,
-      "category": "社会新闻,教育"
+      "raw_hot": 1023562,
+      "num": 1023562,
+      "word": "全智贤伦敦时装周生图",
+      "onboard_time": 1676943628,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1017406,
+      "num": 564608,
+      "word": "王鹤棣新手机壳",
+      "onboard_time": 1676943270,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1016107,
@@ -83,11 +107,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 736375,
-      "num": 736375,
-      "word": "四六级",
-      "onboard_time": 1676939848,
-      "rank": 6,
+      "raw_hot": 730689,
+      "num": 730689,
+      "word": "法硕",
+      "onboard_time": 1676942370,
+      "rank": 7,
       "category": "教育"
     },
     {
@@ -97,14 +121,6 @@
       "onboard_time": 1676931313,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 710334,
-      "num": 710334,
-      "word": "法硕",
-      "onboard_time": 1676942370,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 693662,
@@ -139,28 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 564608,
-      "num": 564608,
-      "word": "王鹤棣新手机壳",
-      "onboard_time": 1676943270,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 561521,
       "num": 561521,
       "word": "这是在厕所里安了张床吧",
       "onboard_time": 1676906371,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 549793,
-      "num": 549793,
-      "word": "全智贤伦敦时装周生图",
-      "onboard_time": 1676943628,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 547191,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445354,
+      "num": 445354,
+      "word": "山东省考",
+      "onboard_time": 1676943450,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 427936,
       "num": 338327,
       "word": "Mayumi官宣恋情",
@@ -243,20 +251,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 396902,
+      "num": 396902,
+      "word": "近5年学硕国家线趋势",
+      "onboard_time": 1676943747,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 381989,
       "num": 381989,
       "word": "日本66%的高端外国人才是中国人",
       "onboard_time": 1676901089,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380507,
-      "num": 380507,
-      "word": "山东省考",
-      "onboard_time": 1676943450,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 378845,
@@ -315,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 313648,
+      "num": 313648,
+      "word": "理性看待医保个人账户改革",
+      "onboard_time": 1676942728,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298731,
       "num": 298731,
       "word": "点燃我温暖你韩国开播",
@@ -331,12 +347,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 282567,
+      "num": 282567,
+      "word": "虞书欣张凌赫蒙眼牵手路透",
+      "onboard_time": 1676944590,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281645,
       "num": 281645,
       "word": "杨紫199爱白西装造型",
       "onboard_time": 1676941949,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 278256,
+      "num": 278256,
+      "word": "来自姐姐的安慰粗暴但有效",
+      "onboard_time": 1676943747,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 272451,
@@ -395,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248956,
-      "num": 248956,
-      "word": "理性看待医保个人账户改革",
-      "onboard_time": 1676942728,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247524,
       "num": 247524,
       "word": "减肥人的自律时刻",
@@ -419,12 +443,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238489,
+      "num": 238489,
+      "word": "刘雯出发米兰时装周",
+      "onboard_time": 1676944048,
+      "rank": 30,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 234238,
       "num": 234238,
       "word": "假如狂飙发生在屯子里",
       "onboard_time": 1676937508,
       "rank": 31,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 231823,
+      "num": 231823,
+      "word": "何冉病情恶化",
+      "onboard_time": 1676942309,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 231741,
@@ -451,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221737,
+      "num": 221737,
+      "word": "上岸壁纸",
+      "onboard_time": 1676937508,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 217357,
       "num": 217357,
       "word": "张杰晒照告别曾经如是",
@@ -465,14 +513,6 @@
       "onboard_time": 1676918834,
       "rank": 19,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 211830,
-      "num": 211830,
-      "word": "何冉病情恶化",
-      "onboard_time": 1676942309,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 209903,
@@ -499,20 +539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203655,
-      "num": 203655,
-      "word": "上岸壁纸",
-      "onboard_time": 1676937508,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 199814,
       "num": 199814,
       "word": "为什么在学校没见过我",
       "onboard_time": 1676936725,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 192706,
+      "num": 192706,
+      "word": "复旦MOSS团队回应内测",
+      "onboard_time": 1676944229,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 186183,
@@ -529,6 +569,14 @@
       "onboard_time": 1676901930,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178931,
+      "num": 178931,
+      "word": "韩版七月与安生新预告",
+      "onboard_time": 1676944710,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 173670,
@@ -595,12 +643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152944,
-      "num": 152944,
-      "word": "近5年学硕国家线趋势",
-      "onboard_time": 1676943747,
-      "rank": 45,
-      "category": "教育"
+      "raw_hot": 152390,
+      "num": 152390,
+      "word": "二月二",
+      "onboard_time": 1676937026,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 145535,
@@ -609,14 +657,6 @@
       "onboard_time": 1676769146,
       "rank": 33,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 145436,
-      "num": 145436,
-      "word": "来自姐姐的安慰粗暴但有效",
-      "onboard_time": 1676943747,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 142232,
@@ -643,14 +683,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 139147,
-      "num": 139147,
-      "word": "二月二",
-      "onboard_time": 1676937026,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138678,
       "num": 138678,
       "word": "二月二你打算理发吗",
@@ -665,6 +697,14 @@
       "onboard_time": 1676893408,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126340,
+      "num": 126340,
+      "word": "爱奇艺修改会员投屏优酷腾讯未跟进",
+      "onboard_time": 1676945009,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 124008,

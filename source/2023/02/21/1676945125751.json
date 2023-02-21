@@ -1,0 +1,410 @@
+{
+  "runTime": 1676945125751,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5454285,
+        "num": 5454285,
+        "word": "考研成绩",
+        "onboard_time": 1676934439,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2867131,
+        "num": 2867131,
+        "word": "考研国家线",
+        "onboard_time": 1676942906,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20399,
+        "num": 1491194,
+        "word": "走进区域看发展",
+        "onboard_time": 1676900011,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1317324,
+        "num": 1317324,
+        "word": "父母26万彩礼卖掉女儿或涉罪",
+        "onboard_time": 1676938648,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1282356,
+        "num": 1282356,
+        "word": "四六级",
+        "onboard_time": 1676939848,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1164811,
+        "num": 1164811,
+        "word": "10名学生阳性该不该动辄停课",
+        "onboard_time": 1676941470,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1023562,
+        "num": 1023562,
+        "word": "全智贤伦敦时装周生图",
+        "onboard_time": 1676943628,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 730689,
+        "num": 730689,
+        "word": "法硕",
+        "onboard_time": 1676942370,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 630952,
+        "num": 630952,
+        "word": "未拆封初代iPhone拍出6.3万美元",
+        "onboard_time": 1676937446,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 550099,
+        "num": 550099,
+        "word": "光渊美术方道歉",
+        "onboard_time": 1676938407,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1017406,
+        "num": 536982,
+        "word": "王鹤棣新手机壳",
+        "onboard_time": 1676943270,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512632,
+        "num": 512632,
+        "word": "官方回应四川大学内挖出人的遗体",
+        "onboard_time": 1676899530,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496828,
+        "num": 496828,
+        "word": "女子住着大别墅欠5000不还成老赖",
+        "onboard_time": 1676921173,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447312,
+        "num": 447312,
+        "word": "公司回应招助理和单身总经理同住",
+        "onboard_time": 1676940569,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445354,
+        "num": 445354,
+        "word": "山东省考",
+        "onboard_time": 1676943450,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 436143,
+        "num": 436143,
+        "word": "俄电视台讨论俄军为何不在拜登访乌时轰炸",
+        "onboard_time": 1676936966,
+        "rank": 15,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 424327,
+        "num": 424327,
+        "word": "茶颜悦色取消小程序线上点单自取",
+        "onboard_time": 1676910145,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417304,
+        "num": 417304,
+        "word": "广东省考",
+        "onboard_time": 1676942906,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 396902,
+        "num": 396902,
+        "word": "近5年学硕国家线趋势",
+        "onboard_time": 1676943747,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 371170,
+        "num": 371170,
+        "word": "北电导演系模拟考试有赖冠霖",
+        "onboard_time": 1676939909,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357644,
+        "num": 357644,
+        "word": "宋茜泳装随拍",
+        "onboard_time": 1676939548,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344181,
+        "num": 344181,
+        "word": "龙抬头",
+        "onboard_time": 1676935881,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325963,
+        "num": 325963,
+        "word": "金智秀MV拍摄中",
+        "onboard_time": 1676940929,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313648,
+        "num": 313648,
+        "word": "理性看待医保个人账户改革",
+        "onboard_time": 1676942728,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295136,
+        "num": 295136,
+        "word": "考研查分通道汇总",
+        "onboard_time": 1676938166,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289646,
+        "num": 289646,
+        "word": "山东人均身高1米8实锤了",
+        "onboard_time": 1676904034,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282567,
+        "num": 282567,
+        "word": "虞书欣张凌赫蒙眼牵手路透",
+        "onboard_time": 1676944590,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278256,
+        "num": 278256,
+        "word": "来自姐姐的安慰粗暴但有效",
+        "onboard_time": 1676943747,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 260401,
+        "num": 260401,
+        "word": "二月二的习俗有哪些",
+        "onboard_time": 1676941708,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251197,
+        "num": 251197,
+        "word": "河南人口自然增长率62年来首现负增长",
+        "onboard_time": 1676931313,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238489,
+        "num": 238489,
+        "word": "刘雯出发米兰时装周",
+        "onboard_time": 1676944048,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 231823,
+        "num": 231823,
+        "word": "何冉病情恶化",
+        "onboard_time": 1676942309,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221737,
+        "num": 221737,
+        "word": "上岸壁纸",
+        "onboard_time": 1676937508,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206389,
+        "num": 206389,
+        "word": "土耳其南部6.4级地震",
+        "onboard_time": 1676935881,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200001,
+        "num": 200001,
+        "word": "杨紫199爱白西装造型",
+        "onboard_time": 1676941949,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194472,
+        "num": 194472,
+        "word": "张杰晒照告别曾经如是",
+        "onboard_time": 1676938888,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193941,
+        "num": 193941,
+        "word": "动物园免费3千动物1天看几万游客",
+        "onboard_time": 1676918834,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 192706,
+        "num": 192706,
+        "word": "复旦MOSS团队回应内测",
+        "onboard_time": 1676944229,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 180095,
+        "num": 180095,
+        "word": "假如狂飙发生在屯子里",
+        "onboard_time": 1676937508,
+        "rank": 38,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 178931,
+        "num": 178931,
+        "word": "韩版七月与安生新预告",
+        "onboard_time": 1676944710,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175845,
+        "num": 175845,
+        "word": "女孩知道一年学费5万哭成泪人",
+        "onboard_time": 1676897309,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 175267,
+        "num": 175267,
+        "word": "这是在厕所里安了张床吧",
+        "onboard_time": 1676906371,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170647,
+        "num": 170647,
+        "word": "威少换球队不搬家",
+        "onboard_time": 1676939189,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155772,
+        "num": 155772,
+        "word": "郑恺说自己是小区罗纳尔多",
+        "onboard_time": 1676903615,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152390,
+        "num": 152390,
+        "word": "二月二",
+        "onboard_time": 1676937026,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147975,
+        "num": 147975,
+        "word": "日本66%的高端外国人才是中国人",
+        "onboard_time": 1676901089,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144903,
+        "num": 144903,
+        "word": "为什么在学校没见过我",
+        "onboard_time": 1676936725,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 140642,
+        "num": 140642,
+        "word": "文旅局长零下20度穿长裙代言家乡",
+        "onboard_time": 1676902295,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133249,
+        "num": 133249,
+        "word": "主人被抓走后狗狗的反应",
+        "onboard_time": 1676912000,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 126340,
+        "num": 126340,
+        "word": "爱奇艺修改会员投屏优酷腾讯未跟进",
+        "onboard_time": 1676945009,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#看中国式现代化图景#"
+    }
+  }
+}
