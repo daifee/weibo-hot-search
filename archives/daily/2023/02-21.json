@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676972030978,
+  "endTime": 1676974869152,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -11,8 +11,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3051902,
+      "num": 1959220,
+      "word": "老人被确认车祸死亡11年后死而复生",
+      "onboard_time": 1676970871,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2994824,
-      "num": 676052,
+      "num": 725895,
       "word": "林志颖刘荷娜16年后同框",
       "onboard_time": 1676967030,
       "rank": 10,
@@ -51,14 +59,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1959220,
-      "num": 1959220,
-      "word": "老人被确认车祸死亡11年后死而复生",
-      "onboard_time": 1676970871,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1883222,
       "num": 1883222,
       "word": "工作群发不雅信息涉事官员被免职",
@@ -72,6 +72,14 @@
       "word": "父母26万彩礼卖掉女儿或涉罪",
       "onboard_time": 1676938648,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1587510,
+      "num": 1587510,
+      "word": "全球第5例艾滋病治愈者出现",
+      "onboard_time": 1676973099,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -179,6 +187,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1157147,
+      "num": 1157147,
+      "word": "暨南大学考研",
+      "onboard_time": 1676972436,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1118203,
       "num": 770753,
       "word": "山东人均身高1米8实锤了",
@@ -267,11 +283,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 927211,
+      "num": 927211,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1676971712,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 912105,
       "num": 643366,
       "word": "男子多次猥亵女子称自己易冲动",
       "onboard_time": 1676957372,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 900752,
+      "num": 900752,
+      "word": "日本人有多舍不得中国大熊猫香香",
+      "onboard_time": 1676970092,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -288,6 +320,14 @@
       "word": "网购iPhone14开箱发现是IQOO",
       "onboard_time": 1676953655,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 849648,
+      "num": 849648,
+      "word": "俞敏洪说想给董宇辉在北京买套房子",
+      "onboard_time": 1676970810,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -313,14 +353,6 @@
       "onboard_time": 1676946212,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 831974,
-      "num": 831974,
-      "word": "日本人有多舍不得中国大熊猫香香",
-      "onboard_time": 1676970092,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 827911,
@@ -425,6 +457,14 @@
       "onboard_time": 1676942370,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 728798,
+      "num": 728798,
+      "word": "夜燕白 空降",
+      "onboard_time": 1676972550,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 726065,
@@ -561,14 +601,6 @@
       "onboard_time": 1676897309,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 621487,
-      "num": 621487,
-      "word": "俞敏洪说想给董宇辉在北京买套房子",
-      "onboard_time": 1676970810,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 602034,
@@ -763,6 +795,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 461524,
+      "num": 461524,
+      "word": "张颂文饭还没放下就营业了",
+      "onboard_time": 1676970752,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 459553,
+      "num": 459553,
+      "word": "HYBE称收购SMTOWN可促进KPOP发展",
+      "onboard_time": 1676974350,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458556,
       "num": 458556,
       "word": "全智贤孙兴慜同框",
@@ -819,6 +867,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 430150,
+      "num": 430150,
+      "word": "文春 上野千鹤子",
+      "onboard_time": 1676970330,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 427936,
       "num": 338327,
       "word": "Mayumi官宣恋情",
@@ -859,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 406332,
-      "num": 406332,
-      "word": "文春 上野千鹤子",
-      "onboard_time": 1676970330,
-      "rank": 26,
-      "category": "网红"
-    },
-    {
       "raw_hot": 404509,
       "num": 404509,
       "word": "光遇",
@@ -905,6 +953,14 @@
       "onboard_time": 1676948788,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382762,
+      "num": 382762,
+      "word": "蔡徐坤橘发挑染造型",
+      "onboard_time": 1676974710,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 381989,
@@ -963,6 +1019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 370772,
+      "num": 370772,
+      "word": "特朗普称能24小时解决俄乌冲突",
+      "onboard_time": 1676974292,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 370036,
       "num": 370036,
       "word": "官方回应城改办主任群发不雅信息",
@@ -995,14 +1059,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 357507,
-      "num": 357507,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1676971712,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 355372,
       "num": 355372,
       "word": "汪峰unfollow巡演官宣",
@@ -1027,20 +1083,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 346971,
+      "num": 346971,
+      "word": "单位不给批婚假怎么办",
+      "onboard_time": 1676971653,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346224,
       "num": 346224,
       "word": "解放军是懂龙抬头的",
       "onboard_time": 1676942009,
       "rank": 24,
       "category": "军事"
-    },
-    {
-      "raw_hot": 339812,
-      "num": 339812,
-      "word": "张颂文饭还没放下就营业了",
-      "onboard_time": 1676970752,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 339419,
@@ -1057,6 +1113,14 @@
       "onboard_time": 1676952398,
       "rank": 35,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 335824,
+      "num": 335824,
+      "word": "贺峻霖严浩翔同框路透",
+      "onboard_time": 1676973931,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 335610,
@@ -1089,6 +1153,14 @@
       "onboard_time": 1676947231,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 314715,
+      "num": 314715,
+      "word": "朱一龙起诉快活嘴食品",
+      "onboard_time": 1676974531,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 314482,
@@ -1193,6 +1265,14 @@
       "onboard_time": 1676944229,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 290003,
+      "num": 290003,
+      "word": "李旻浩五扇一",
+      "onboard_time": 1676974052,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 286155,
@@ -1331,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255073,
+      "num": 255073,
+      "word": "金晨的超减龄丸子头",
+      "onboard_time": 1676974112,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252534,
       "num": 159912,
       "word": "光渊把朴彩英照片P到剧中",
@@ -1441,6 +1529,14 @@
       "onboard_time": 1676902652,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223983,
+      "num": 261502,
+      "word": "普京国情咨文讲话",
+      "onboard_time": 1676974710,
+      "rank": 34,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 221737,
@@ -1563,14 +1659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197016,
-      "num": 197016,
-      "word": "单位不给批婚假怎么办",
-      "onboard_time": 1676971653,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197008,
       "num": 197008,
       "word": "隆力奇百余家分支机构均已吊注销",
@@ -1659,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181414,
+      "num": 181414,
+      "word": "陆虎 王栎鑫家的餐桌",
+      "onboard_time": 1676971892,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178694,
       "num": 178694,
       "word": "阿改获得周最佳选手",
@@ -1723,14 +1819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170209,
-      "num": 170209,
-      "word": "陆虎 王栎鑫家的餐桌",
-      "onboard_time": 1676971892,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168023,
       "num": 168023,
       "word": "主人被抓走后狗狗的反应",
@@ -1745,6 +1833,14 @@
       "onboard_time": 1676906850,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166677,
+      "num": 166677,
+      "word": "周末未及时回复加班信息被辞退",
+      "onboard_time": 1676972311,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166651,
@@ -1777,6 +1873,14 @@
       "onboard_time": 1676910802,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156706,
+      "num": 156706,
+      "word": "吴倩男人装封面拍摄花絮",
+      "onboard_time": 1676973872,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 156631,
@@ -1995,19 +2099,27 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 57330,
+      "num": 210706,
+      "word": "超9成用户选择线上理赔",
+      "onboard_time": 1676973633,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 35992,
+      "num": 1702928,
+      "word": "up新时代中国",
+      "onboard_time": 1676966729,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35804,
       "num": 35804,
       "word": "美国的霸权霸道霸凌及其危害",
       "onboard_time": 1676929032,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35792,
-      "num": 1702928,
-      "word": "up新时代中国",
-      "onboard_time": 1676966729,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
