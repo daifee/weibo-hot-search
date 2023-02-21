@@ -1,0 +1,410 @@
+{
+  "runTime": 1676989069739,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1200044,
+        "num": 1200044,
+        "word": "女子试戴金戒指断两半遭索赔",
+        "onboard_time": 1676984559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1074163,
+        "num": 1074163,
+        "word": "林志颖问谁还记得放羊的星星这部剧",
+        "onboard_time": 1676986714,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46446,
+        "num": 933148,
+        "word": "大熊猫香香回家现场画面",
+        "onboard_time": 1676988814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860628,
+        "num": 860628,
+        "word": "陈晓听陈妍希叫刘德华老公很开心",
+        "onboard_time": 1676980709,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 828230,
+        "num": 828230,
+        "word": "试管婴儿被放错胚胎事件初步和解",
+        "onboard_time": 1676987072,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767946,
+        "num": 767946,
+        "word": "全球第5例艾滋病治愈者出现",
+        "onboard_time": 1676973099,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742352,
+        "num": 742352,
+        "word": "内娱真人版网球王子",
+        "onboard_time": 1676983474,
+        "rank": 6,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 691931,
+        "num": 691931,
+        "word": "杨洋方已委请律师介入处理",
+        "onboard_time": 1676986293,
+        "rank": 7,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 664782,
+        "num": 664782,
+        "word": "我们的日子 严冰",
+        "onboard_time": 1676985454,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466927,
+        "num": 466927,
+        "word": "到底是考研难还是读研难",
+        "onboard_time": 1676973931,
+        "rank": 9,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 571428,
+        "num": 451336,
+        "word": "异地民警郑州办案猥亵嫌疑人之妻被拘",
+        "onboard_time": 1676981910,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 501094,
+        "num": 449867,
+        "word": "夏花 BE",
+        "onboard_time": 1676982574,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499803,
+        "num": 449286,
+        "word": "香香已抵达成都",
+        "onboard_time": 1676987437,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430812,
+        "num": 430812,
+        "word": "吴京呼吁网友为刘培强复活支招",
+        "onboard_time": 1676985213,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415887,
+        "num": 415887,
+        "word": "日本人有多舍不得中国大熊猫香香",
+        "onboard_time": 1676970092,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1124786,
+        "num": 413186,
+        "word": "老人被确认车祸死亡11年后死而复生",
+        "onboard_time": 1676970871,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1977759,
+        "num": 412500,
+        "word": "网友曝腾讯视频半夜跳转恐怖片",
+        "onboard_time": 1676986052,
+        "rank": 16,
+        "category": "科技,影视"
+      },
+      {
+        "raw_hot": 409784,
+        "num": 409784,
+        "word": "安欣陆泽宁吻戏",
+        "onboard_time": 1676985154,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400692,
+        "num": 400692,
+        "word": "这美甲多少有点荒谬了",
+        "onboard_time": 1676984502,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381149,
+        "num": 381149,
+        "word": "费启鸣曾担心演不好会被换掉",
+        "onboard_time": 1676987313,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363869,
+        "num": 363869,
+        "word": "刘三姐黄婉秋病危昏迷",
+        "onboard_time": 1676985693,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358963,
+        "num": 358963,
+        "word": "因身揣逃犯身份证智障男子坐牢9年",
+        "onboard_time": 1676983413,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350153,
+        "num": 350153,
+        "word": "女子连刷10个差评商家找上门怒怼",
+        "onboard_time": 1676978251,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349564,
+        "num": 349564,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1676971712,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 336674,
+        "num": 336674,
+        "word": "我们的日子",
+        "onboard_time": 1676987613,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327038,
+        "num": 327038,
+        "word": "WBG战胜iG",
+        "onboard_time": 1676987675,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265579,
+        "num": 265579,
+        "word": "HYBE称会帮SMTOWN艺人闯美",
+        "onboard_time": 1676982210,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264220,
+        "num": 264220,
+        "word": "马嘉祺丁程鑫一起向我投来赞赏的目光",
+        "onboard_time": 1676986112,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263060,
+        "num": 263060,
+        "word": "章子怡 中戏考官",
+        "onboard_time": 1676968832,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259585,
+        "num": 259585,
+        "word": "摆拍发3000收回2800主播被行拘",
+        "onboard_time": 1676988274,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013827,
+        "num": 259486,
+        "word": "男子入住酒店41天后被发现死于客房",
+        "onboard_time": 1676980590,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23816,
+        "num": 257849,
+        "word": "up新时代中国",
+        "onboard_time": 1676966729,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257324,
+        "num": 257324,
+        "word": "普京对特别军事行动发表评价",
+        "onboard_time": 1676977353,
+        "rank": 32,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 249272,
+        "num": 249272,
+        "word": "东北人第一次和南方人合租",
+        "onboard_time": 1676988453,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242750,
+        "num": 242750,
+        "word": "WBG对战iG",
+        "onboard_time": 1676983653,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238237,
+        "num": 238237,
+        "word": "俞敏洪说想给董宇辉在北京买套房子",
+        "onboard_time": 1676970810,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233436,
+        "num": 233436,
+        "word": "暨南大学考研",
+        "onboard_time": 1676972436,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 221960,
+        "num": 221960,
+        "word": "雾都雾里七个八",
+        "onboard_time": 1676979507,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210795,
+        "num": 210795,
+        "word": "邓紫棋用西语勾起回忆杀",
+        "onboard_time": 1676988575,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209547,
+        "num": 209547,
+        "word": "ChatGPT",
+        "onboard_time": 1676976331,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 191854,
+        "num": 191854,
+        "word": "蒋敦豪董事长",
+        "onboard_time": 1676975316,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191813,
+        "num": 191813,
+        "word": "一张九九乘法表拿捏外国小孩",
+        "onboard_time": 1676988640,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185836,
+        "num": 185836,
+        "word": "赵晓磊说夏花BE言承旭贾玲HE",
+        "onboard_time": 1676988335,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182178,
+        "num": 182178,
+        "word": "半熟恋人",
+        "onboard_time": 1676980049,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178247,
+        "num": 178247,
+        "word": "伦敦时装周",
+        "onboard_time": 1676988453,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 177782,
+        "num": 177782,
+        "word": "夜燕白 空降",
+        "onboard_time": 1676972550,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174052,
+        "num": 174052,
+        "word": "蔡徐坤米兰时装周生图",
+        "onboard_time": 1676980952,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164076,
+        "num": 164076,
+        "word": "鞠婧祎象征性的剪两根头发",
+        "onboard_time": 1676967570,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159303,
+        "num": 159303,
+        "word": "井柏然谭松韵归路暂定三月播出",
+        "onboard_time": 1676982874,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158323,
+        "num": 158323,
+        "word": "黄奕红裙造型",
+        "onboard_time": 1676988216,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届二中全会召开时间#"
+    }
+  }
+}

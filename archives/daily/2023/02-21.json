@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676986646210,
+  "endTime": 1676989069739,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -65,6 +65,14 @@
       "onboard_time": 1676951433,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1977759,
+      "num": 486547,
+      "word": "网友曝腾讯视频半夜跳转恐怖片",
+      "onboard_time": 1676986052,
+      "rank": 13,
+      "category": "科技,影视"
     },
     {
       "raw_hot": 1924210,
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1200044,
+      "num": 1200044,
+      "word": "女子试戴金戒指断两半遭索赔",
+      "onboard_time": 1676984559,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1186680,
       "num": 1186680,
       "word": "茶颜悦色取消小程序线上点单自取",
@@ -265,6 +281,14 @@
       "onboard_time": 1676950832,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1074163,
+      "num": 1074163,
+      "word": "林志颖问谁还记得放羊的星星这部剧",
+      "onboard_time": 1676986714,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1056275,
@@ -371,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 891831,
-      "num": 891831,
-      "word": "女子试戴金戒指断两半遭索赔",
-      "onboard_time": 1676984559,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 877419,
       "num": 877419,
       "word": "网购iPhone14开箱发现是IQOO",
@@ -425,6 +441,14 @@
       "onboard_time": 1676946212,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 828230,
+      "num": 828230,
+      "word": "试管婴儿被放错胚胎事件初步和解",
+      "onboard_time": 1676987072,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 827911,
@@ -539,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 742352,
+      "num": 742352,
+      "word": "内娱真人版网球王子",
+      "onboard_time": 1676983474,
+      "rank": 32,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 741255,
       "num": 741255,
       "word": "夜燕白 空降",
@@ -603,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 691931,
+      "num": 691931,
+      "word": "杨洋方已委请律师介入处理",
+      "onboard_time": 1676986293,
+      "rank": 8,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 686290,
       "num": 686290,
       "word": "考研成绩公布",
@@ -643,6 +683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 664782,
+      "num": 664782,
+      "word": "我们的日子 严冰",
+      "onboard_time": 1676985454,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 659941,
       "num": 659941,
       "word": "10省份放宽报考公务员35岁年龄限制",
@@ -657,14 +705,6 @@
       "onboard_time": 1676968890,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 653367,
-      "num": 653367,
-      "word": "杨洋方已委请律师介入处理",
-      "onboard_time": 1676986293,
-      "rank": 8,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 649335,
@@ -705,14 +745,6 @@
       "onboard_time": 1676974531,
       "rank": 31,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 630711,
-      "num": 630711,
-      "word": "内娱真人版网球王子",
-      "onboard_time": 1676983474,
-      "rank": 32,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 625600,
@@ -915,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499803,
+      "num": 449286,
+      "word": "香香已抵达成都",
+      "onboard_time": 1676987437,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493999,
       "num": 493999,
       "word": "马嘉祺丁程鑫一起向我投来赞赏的目光",
@@ -937,14 +977,6 @@
       "onboard_time": 1676958691,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 486547,
-      "num": 486547,
-      "word": "网友曝腾讯视频半夜跳转恐怖片",
-      "onboard_time": 1676986052,
-      "rank": 13,
-      "category": "科技,影视"
     },
     {
       "raw_hot": 485859,
@@ -1017,14 +1049,6 @@
       "onboard_time": 1676907748,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450251,
-      "num": 450251,
-      "word": "我们的日子 严冰",
-      "onboard_time": 1676985454,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 445354,
@@ -1163,6 +1187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 400692,
+      "num": 400692,
+      "word": "这美甲多少有点荒谬了",
+      "onboard_time": 1676984502,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 391545,
       "num": 391545,
       "word": "WB选手组团看中国乒乓",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1676901089,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381149,
+      "num": 381149,
+      "word": "费启鸣曾担心演不好会被换掉",
+      "onboard_time": 1676987313,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 379995,
@@ -1323,8 +1363,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 356808,
-      "num": 356808,
+      "raw_hot": 358963,
+      "num": 358963,
       "word": "因身揣逃犯身份证智障男子坐牢9年",
       "onboard_time": 1676983413,
       "rank": 39,
@@ -1387,6 +1427,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 336674,
+      "num": 336674,
+      "word": "我们的日子",
+      "onboard_time": 1676987613,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335824,
       "num": 335824,
       "word": "贺峻霖严浩翔同框路透",
@@ -1403,20 +1451,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 329903,
-      "num": 329903,
-      "word": "这美甲多少有点荒谬了",
-      "onboard_time": 1676984502,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 327697,
       "num": 327697,
       "word": "李荣浩郑州演唱会门票",
       "onboard_time": 1676960850,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 327038,
+      "num": 327038,
+      "word": "WBG战胜iG",
+      "onboard_time": 1676987675,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 324735,
@@ -1739,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259585,
+      "num": 259585,
+      "word": "摆拍发3000收回2800主播被行拘",
+      "onboard_time": 1676988274,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253819,
       "num": 253819,
       "word": "麦迪全明星现场为粉丝签名",
@@ -1769,6 +1825,14 @@
       "onboard_time": 1676956114,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249272,
+      "num": 249272,
+      "word": "东北人第一次和南方人合租",
+      "onboard_time": 1676988453,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 247524,
@@ -1923,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210795,
+      "num": 210795,
+      "word": "邓紫棋用西语勾起回忆杀",
+      "onboard_time": 1676988575,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209903,
       "num": 209903,
       "word": "东奥崩了",
@@ -2067,6 +2139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191813,
+      "num": 191813,
+      "word": "一张九九乘法表拿捏外国小孩",
+      "onboard_time": 1676988640,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190563,
       "num": 190563,
       "word": "MOSS服务器流量过载",
@@ -2112,6 +2192,14 @@
       "word": "赵露思2022wetv最佳女主感言",
       "onboard_time": 1676904934,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185836,
+      "num": 185836,
+      "word": "赵晓磊说夏花BE言承旭贾玲HE",
+      "onboard_time": 1676988335,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -2177,6 +2265,14 @@
       "onboard_time": 1676963429,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178247,
+      "num": 178247,
+      "word": "伦敦时装周",
+      "onboard_time": 1676988453,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 178219,
@@ -2297,6 +2393,14 @@
       "onboard_time": 1676910802,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158323,
+      "num": 158323,
+      "word": "黄奕红裙造型",
+      "onboard_time": 1676988216,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 156631,
@@ -2539,6 +2643,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 46446,
+      "num": 933148,
+      "word": "大熊猫香香回家现场画面",
+      "onboard_time": 1676988814,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35992,
       "num": 1702928,
       "word": "up新时代中国",
@@ -2594,6 +2706,9 @@
     },
     {
       "word": "#高质量发展看中国#"
+    },
+    {
+      "word": "#二十届二中全会召开时间#"
     }
   ]
 }
