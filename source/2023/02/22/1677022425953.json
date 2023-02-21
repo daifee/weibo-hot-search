@@ -1,0 +1,410 @@
+{
+  "runTime": 1677022425953,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3255808,
+        "num": 3255808,
+        "word": "丫丫",
+        "onboard_time": 1676991157,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1166033,
+        "num": 1166033,
+        "word": "长沙凌晨1点马路人流量惊人",
+        "onboard_time": 1676998941,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373520,
+        "num": 822167,
+        "word": "大熊猫香香回家现场画面",
+        "onboard_time": 1676988814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683479,
+        "num": 683479,
+        "word": "多地学校因新冠甲流等停课",
+        "onboard_time": 1676993194,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 666883,
+        "num": 666883,
+        "word": "俄罗斯要求美国从乌克兰撤军",
+        "onboard_time": 1677017233,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 575176,
+        "num": 575176,
+        "word": "来电显示96110一定要接",
+        "onboard_time": 1676989839,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427833,
+        "num": 427833,
+        "word": "酒店回应客房内发现男子遗体",
+        "onboard_time": 1676994692,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391463,
+        "num": 391463,
+        "word": "ofo小黄车已彻底无法登录",
+        "onboard_time": 1676992657,
+        "rank": 7,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 347398,
+        "num": 347398,
+        "word": "提前还贷算违约吗",
+        "onboard_time": 1676997088,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 333173,
+        "num": 333173,
+        "word": "你接受婚后和公婆同住吗",
+        "onboard_time": 1677004513,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 728994,
+        "num": 324184,
+        "word": "27岁女子因未婚未育应聘被拒",
+        "onboard_time": 1676998282,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314771,
+        "num": 314771,
+        "word": "美国北约火速回应俄暂停削减武器条约",
+        "onboard_time": 1676997803,
+        "rank": 11,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 290289,
+        "num": 290289,
+        "word": "甲流",
+        "onboard_time": 1676991039,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288716,
+        "num": 288716,
+        "word": "全球第5例艾滋病治愈者出现",
+        "onboard_time": 1676973099,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280176,
+        "num": 280176,
+        "word": "摆拍发3000收回2800主播被行拘",
+        "onboard_time": 1676988274,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248921,
+        "num": 248921,
+        "word": "宠物医院患者用喵喵拳攻击医生",
+        "onboard_time": 1677006372,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246501,
+        "num": 246501,
+        "word": "利物浦2比5皇马",
+        "onboard_time": 1677021143,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236481,
+        "num": 236481,
+        "word": "试管婴儿被放错胚胎事件初步和解",
+        "onboard_time": 1676987072,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235445,
+        "num": 235445,
+        "word": "刘宇宁直播",
+        "onboard_time": 1677021924,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227721,
+        "num": 227721,
+        "word": "我是颜值主播我不会跳舞",
+        "onboard_time": 1676980890,
+        "rank": 19,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 934691,
+        "num": 227036,
+        "word": "河北保定发生一起重大刑案",
+        "onboard_time": 1676989354,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226171,
+        "num": 226171,
+        "word": "直播旅美大熊猫丫丫",
+        "onboard_time": 1677021864,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225866,
+        "num": 225866,
+        "word": "原来这就是喜上梅梢",
+        "onboard_time": 1677019698,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 224616,
+        "num": 224616,
+        "word": "日本人有多舍不得中国大熊猫香香",
+        "onboard_time": 1676970092,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194363,
+        "num": 194363,
+        "word": "一人一个暴露年龄的老物件儿",
+        "onboard_time": 1677021562,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171868,
+        "num": 171868,
+        "word": "香香已抵达成都",
+        "onboard_time": 1676987437,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155485,
+        "num": 155485,
+        "word": "陈晓听陈妍希叫刘德华老公很开心",
+        "onboard_time": 1676980709,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142883,
+        "num": 142883,
+        "word": "23城下调首套房贷利率",
+        "onboard_time": 1676999840,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141755,
+        "num": 141755,
+        "word": "家长是懂给我对象起外号的",
+        "onboard_time": 1676993735,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 141312,
+        "num": 141312,
+        "word": "利物浦vs皇马",
+        "onboard_time": 1677005294,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132984,
+        "num": 132984,
+        "word": "武林外传演男女分手时内心活动",
+        "onboard_time": 1676995468,
+        "rank": 30,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 132829,
+        "num": 132829,
+        "word": "她是几代人记忆中的刘三姐",
+        "onboard_time": 1677022166,
+        "rank": 31,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 132121,
+        "num": 132121,
+        "word": "脏手指 舞女泪",
+        "onboard_time": 1677021202,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129850,
+        "num": 129850,
+        "word": "研究发现艾滋病或有望治愈",
+        "onboard_time": 1676992477,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123611,
+        "num": 123611,
+        "word": "林志颖问谁还记得放羊的星星这部剧",
+        "onboard_time": 1676986714,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120105,
+        "num": 120105,
+        "word": "杨洋方已委请律师介入处理",
+        "onboard_time": 1676986293,
+        "rank": 35,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 119934,
+        "num": 119934,
+        "word": "夏花 BE",
+        "onboard_time": 1676982574,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117017,
+        "num": 117017,
+        "word": "河北保定警方悬赏2万元通缉嫌犯",
+        "onboard_time": 1677022286,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108776,
+        "num": 108776,
+        "word": "刘三姐黄婉秋病危昏迷",
+        "onboard_time": 1676985693,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106396,
+        "num": 106396,
+        "word": "香香回国是为寻找合适伴侣",
+        "onboard_time": 1676991275,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105256,
+        "num": 105256,
+        "word": "内娱真人版网球王子",
+        "onboard_time": 1676983474,
+        "rank": 40,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 97524,
+        "num": 97524,
+        "word": "刘畊宏模仿言承旭",
+        "onboard_time": 1677000799,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95536,
+        "num": 95536,
+        "word": "汪东城cosJOJO",
+        "onboard_time": 1676996429,
+        "rank": 42,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 94083,
+        "num": 94083,
+        "word": "到底是考研难还是读研难",
+        "onboard_time": 1676973931,
+        "rank": 43,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 91952,
+        "num": 91952,
+        "word": "东北人第一次和南方人合租",
+        "onboard_time": 1676988453,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83388,
+        "num": 83388,
+        "word": "女子连刷10个差评商家找上门怒怼",
+        "onboard_time": 1676978251,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82839,
+        "num": 82839,
+        "word": "张艺兴二月二营业视频",
+        "onboard_time": 1677020661,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80095,
+        "num": 80095,
+        "word": "我们的日子 严冰",
+        "onboard_time": 1676985454,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77106,
+        "num": 77106,
+        "word": "种地吧 真实",
+        "onboard_time": 1677011232,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74302,
+        "num": 74302,
+        "word": "女明星时装周封神造型",
+        "onboard_time": 1677001035,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展看中国#"
+    }
+  }
+}

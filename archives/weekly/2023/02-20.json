@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677021578924,
+  "endTime": 1677022425953,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -547,6 +547,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 1166033,
+      "num": 1166033,
+      "word": "长沙凌晨1点马路人流量惊人",
+      "onboard_time": 1676998941,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1164811,
       "num": 1164811,
       "word": "10名学生阳性该不该动辄停课",
@@ -761,14 +769,6 @@
       "onboard_time": 1676860709,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 984142,
-      "num": 984142,
-      "word": "长沙凌晨1点马路人流量惊人",
-      "onboard_time": 1676998941,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 979489,
@@ -1187,6 +1187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 728994,
+      "num": 324184,
+      "word": "27岁女子因未婚未育应聘被拒",
+      "onboard_time": 1676998282,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727121,
       "num": 727121,
       "word": "黑客组织正对中国疯狂实施网络攻击",
@@ -1387,6 +1395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 666883,
+      "num": 666883,
+      "word": "俄罗斯要求美国从乌克兰撤军",
+      "onboard_time": 1677017233,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
       "raw_hot": 664782,
       "num": 664782,
       "word": "我们的日子 严冰",
@@ -1508,7 +1524,7 @@
     },
     {
       "raw_hot": 630826,
-      "num": 426186,
+      "num": 427833,
       "word": "酒店回应客房内发现男子遗体",
       "onboard_time": 1676994692,
       "rank": 10,
@@ -1643,14 +1659,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 589060,
-      "num": 285509,
-      "word": "俄罗斯要求美国从乌克兰撤军",
-      "onboard_time": 1677017233,
-      "rank": 30,
-      "category": "军事"
-    },
-    {
       "raw_hot": 588434,
       "num": 588434,
       "word": "言承旭徐若晗新浪扫楼",
@@ -1688,14 +1696,6 @@
       "word": "公司回应招助理和单身总经理同住",
       "onboard_time": 1676940569,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 578995,
-      "num": 277056,
-      "word": "27岁女子因未婚未育应聘被拒",
-      "onboard_time": 1676998282,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2891,6 +2891,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 347398,
+      "num": 347398,
+      "word": "提前还贷算违约吗",
+      "onboard_time": 1676997088,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 346224,
       "num": 346224,
       "word": "解放军是懂龙抬头的",
@@ -2945,14 +2953,6 @@
       "onboard_time": 1676943747,
       "rank": 47,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 338841,
-      "num": 338841,
-      "word": "提前还贷算违约吗",
-      "onboard_time": 1676997088,
-      "rank": 30,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 338052,
@@ -3017,6 +3017,14 @@
       "onboard_time": 1676997803,
       "rank": 48,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 333173,
+      "num": 333173,
+      "word": "你接受婚后和公婆同住吗",
+      "onboard_time": 1677004513,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 331947,
@@ -3337,14 +3345,6 @@
       "onboard_time": 1676954498,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294806,
-      "num": 294806,
-      "word": "你接受婚后和公婆同住吗",
-      "onboard_time": 1677004513,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 292205,
@@ -3731,12 +3731,28 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 248921,
+      "num": 248921,
+      "word": "宠物医院患者用喵喵拳攻击医生",
+      "onboard_time": 1677006372,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247524,
       "num": 247524,
       "word": "减肥人的自律时刻",
       "onboard_time": 1676908587,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246501,
+      "num": 246501,
+      "word": "利物浦2比5皇马",
+      "onboard_time": 1677021143,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 244454,
@@ -3811,6 +3827,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 235445,
+      "num": 235445,
+      "word": "刘宇宁直播",
+      "onboard_time": 1677021924,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235042,
       "num": 235042,
       "word": "盘点考研查分的高燃瞬间",
@@ -3867,6 +3891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227721,
+      "num": 227721,
+      "word": "我是颜值主播我不会跳舞",
+      "onboard_time": 1676980890,
+      "rank": 39,
+      "category": "幽默,网红"
+    },
+    {
       "raw_hot": 227608,
       "num": 227608,
       "word": "电影热烈滚烫青春版海报",
@@ -3889,6 +3921,22 @@
       "onboard_time": 1676939370,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226171,
+      "num": 226171,
+      "word": "直播旅美大熊猫丫丫",
+      "onboard_time": 1677021864,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225866,
+      "num": 225866,
+      "word": "原来这就是喜上梅梢",
+      "onboard_time": 1677019698,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 224951,
@@ -3985,14 +4033,6 @@
       "onboard_time": 1676918834,
       "rank": 19,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 214833,
-      "num": 214833,
-      "word": "我是颜值主播我不会跳舞",
-      "onboard_time": 1676980890,
-      "rank": 39,
-      "category": "幽默,网红"
     },
     {
       "raw_hot": 213765,
@@ -4171,14 +4211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198689,
-      "num": 198689,
-      "word": "宠物医院患者用喵喵拳攻击医生",
-      "onboard_time": 1677006372,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197833,
       "num": 197833,
       "word": "郑钦文退赛",
@@ -4249,6 +4281,14 @@
       "onboard_time": 1676883570,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194363,
+      "num": 194363,
+      "word": "一人一个暴露年龄的老物件儿",
+      "onboard_time": 1677021562,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 194300,
@@ -4369,14 +4409,6 @@
       "onboard_time": 1676988335,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 185823,
-      "num": 185823,
-      "word": "原来这就是喜上梅梢",
-      "onboard_time": 1677019698,
-      "rank": 19,
-      "category": "旅游"
     },
     {
       "raw_hot": 185448,
@@ -4513,14 +4545,6 @@
       "onboard_time": 1676859444,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176615,
-      "num": 176615,
-      "word": "利物浦2比5皇马",
-      "onboard_time": 1677021143,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 175996,
@@ -4708,7 +4732,7 @@
     },
     {
       "raw_hot": 165251,
-      "num": 133585,
+      "num": 141312,
       "word": "利物浦vs皇马",
       "onboard_time": 1677005294,
       "rank": 24,
@@ -4907,6 +4931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142883,
+      "num": 142883,
+      "word": "23城下调首套房贷利率",
+      "onboard_time": 1676999840,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 142286,
       "num": 142286,
       "word": "巴黎圣日耳曼4比3里尔",
@@ -4977,6 +5009,14 @@
       "onboard_time": 1676813010,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132829,
+      "num": 132829,
+      "word": "她是几代人记忆中的刘三姐",
+      "onboard_time": 1677022166,
+      "rank": 31,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 132405,
@@ -5083,6 +5123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117017,
+      "num": 117017,
+      "word": "河北保定警方悬赏2万元通缉嫌犯",
+      "onboard_time": 1677022286,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116094,
       "num": 116094,
       "word": "春日赏花拍照实用攻略",
@@ -5131,20 +5179,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 105176,
-      "num": 105176,
-      "word": "23城下调首套房贷利率",
-      "onboard_time": 1676999840,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 101857,
       "num": 101857,
       "word": "曼联vs莱斯特城",
       "onboard_time": 1676817152,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97524,
+      "num": 97524,
+      "word": "刘畊宏模仿言承旭",
+      "onboard_time": 1677000799,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 88615,
@@ -5163,6 +5211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82839,
+      "num": 82839,
+      "word": "张艺兴二月二营业视频",
+      "onboard_time": 1677020661,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82608,
       "num": 82608,
       "word": "俄暂停参与新削减战略武器条约",
@@ -5179,12 +5235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77318,
-      "num": 77318,
-      "word": "刘畊宏模仿言承旭",
-      "onboard_time": 1677000799,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 77106,
+      "num": 77106,
+      "word": "种地吧 真实",
+      "onboard_time": 1677011232,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 74579,
@@ -5195,12 +5251,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 73143,
-      "num": 73143,
-      "word": "张艺兴二月二营业视频",
-      "onboard_time": 1677020661,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 74302,
+      "num": 74302,
+      "word": "女明星时装周封神造型",
+      "onboard_time": 1677001035,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 70894,
@@ -5211,28 +5267,12 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 67503,
-      "num": 67503,
-      "word": "种地吧 真实",
-      "onboard_time": 1677011232,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 65909,
       "num": 65909,
       "word": "希望下次哭是因为高分上岸",
       "onboard_time": 1676849484,
       "rank": 46,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 63879,
-      "num": 63879,
-      "word": "女明星时装周封神造型",
-      "onboard_time": 1677001035,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 58987,
@@ -5257,14 +5297,6 @@
       "onboard_time": 1676806350,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 54770,
-      "num": 54770,
-      "word": "一人一个暴露年龄的老物件儿",
-      "onboard_time": 1677021562,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 51303,
