@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676949856872,
+  "endTime": 1676950660313,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -19,6 +19,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2257774,
+      "num": 2257774,
+      "word": "男子发现亡父739万债务3年偿清",
+      "onboard_time": 1676948253,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1809009,
       "num": 1809009,
       "word": "父母26万彩礼卖掉女儿或涉罪",
@@ -27,11 +35,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1662296,
-      "num": 1662296,
-      "word": "男子发现亡父739万债务3年偿清",
-      "onboard_time": 1676948253,
-      "rank": 30,
+      "raw_hot": 1468907,
+      "num": 1407486,
+      "word": "60岁中通快递分拣工凌晨在岗位猝死",
+      "onboard_time": 1676946811,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -43,12 +51,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1407486,
-      "num": 1407486,
-      "word": "60岁中通快递分拣工凌晨在岗位猝死",
-      "onboard_time": 1676946811,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 1339279,
+      "num": 1339279,
+      "word": "孟局身材",
+      "onboard_time": 1676949090,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1328221,
@@ -163,14 +171,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 795471,
-      "num": 795471,
-      "word": "孟局身材",
-      "onboard_time": 1676949090,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 775731,
       "num": 775731,
       "word": "鹿晗说五哈每一季开始都这么囧",
@@ -203,6 +203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 723196,
+      "num": 723196,
+      "word": "张嘉倪好事成双捧花杀青照",
+      "onboard_time": 1676948611,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 714606,
       "num": 714606,
       "word": "河南人口自然增长率62年来首现负增长",
@@ -219,12 +227,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 651761,
-      "num": 651761,
-      "word": "张嘉倪好事成双捧花杀青照",
-      "onboard_time": 1676948611,
-      "rank": 13,
-      "category": "影视"
+      "raw_hot": 668145,
+      "num": 668145,
+      "word": "北京考研",
+      "onboard_time": 1676949090,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 644809,
@@ -233,6 +241,14 @@
       "onboard_time": 1676946871,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 636954,
+      "num": 636954,
+      "word": "会和不喜欢但合适的人结婚吗",
+      "onboard_time": 1676946811,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 625600,
@@ -249,14 +265,6 @@
       "onboard_time": 1676890049,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 592162,
-      "num": 592162,
-      "word": "会和不喜欢但合适的人结婚吗",
-      "onboard_time": 1676946811,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 584319,
@@ -305,6 +313,14 @@
       "onboard_time": 1676907988,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510350,
+      "num": 510350,
+      "word": "10省份放宽报考公务员35岁年龄限制",
+      "onboard_time": 1676949270,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 505033,
@@ -379,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 406025,
-      "num": 406025,
-      "word": "北京考研",
-      "onboard_time": 1676949090,
-      "rank": 21,
-      "category": "教育"
-    },
-    {
       "raw_hot": 401816,
       "num": 401816,
       "word": "近5年学硕国家线趋势",
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366973,
+      "num": 366973,
+      "word": "老牌国货公司隆力奇人去楼空",
+      "onboard_time": 1676949870,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 362077,
       "num": 362077,
       "word": "文旅局长零下20度穿长裙代言家乡",
@@ -473,14 +489,6 @@
       "onboard_time": 1676930293,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 347878,
-      "num": 347878,
-      "word": "10省份放宽报考公务员35岁年龄限制",
-      "onboard_time": 1676949270,
-      "rank": 26,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 346224,
@@ -561,6 +569,14 @@
       "onboard_time": 1676945009,
       "rank": 49,
       "category": "科技"
+    },
+    {
+      "raw_hot": 285640,
+      "num": 285640,
+      "word": "大熊猫香香今日回国",
+      "onboard_time": 1676949571,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283949,
@@ -683,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231167,
+      "num": 231167,
+      "word": "男子每天酷爱嚼槟榔确诊舌癌",
+      "onboard_time": 1676949511,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227320,
       "num": 227320,
       "word": "美国五霸俱全害人害己",
@@ -771,6 +795,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 194853,
+      "num": 194853,
+      "word": "女子无意找到30年前钱包内含巨款",
+      "onboard_time": 1676950531,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190563,
       "num": 190563,
       "word": "MOSS服务器流量过载",
@@ -811,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173941,
+      "num": 173941,
+      "word": "李斌要把换电站建到县城",
+      "onboard_time": 1676950652,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 173670,
       "num": 173670,
       "word": "水哥变帅了",
@@ -825,22 +865,6 @@
       "onboard_time": 1676899593,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 172061,
-      "num": 172061,
-      "word": "男子每天酷爱嚼槟榔确诊舌癌",
-      "onboard_time": 1676949511,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170197,
-      "num": 170197,
-      "word": "大熊猫香香今日回国",
-      "onboard_time": 1676949571,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168023,
@@ -1041,6 +1065,14 @@
       "onboard_time": 1676896650,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 95167,
+      "num": 1603039,
+      "word": "全网最硬核版龙抬头",
+      "onboard_time": 1676939370,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89815,
