@@ -1,0 +1,410 @@
+{
+  "runTime": 1677011689887,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 384103,
+        "num": 384103,
+        "word": "丫丫",
+        "onboard_time": 1676991157,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110470,
+        "num": 110470,
+        "word": "长沙凌晨1点马路人流量惊人",
+        "onboard_time": 1676998941,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41559,
+        "num": 84433,
+        "word": "大熊猫香香回家现场画面",
+        "onboard_time": 1676988814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64558,
+        "num": 64558,
+        "word": "你接受婚后和公婆同住吗",
+        "onboard_time": 1677004513,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61462,
+        "num": 61462,
+        "word": "利物浦vs皇马",
+        "onboard_time": 1677005294,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59810,
+        "num": 59810,
+        "word": "来电显示96110一定要接",
+        "onboard_time": 1676989839,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54104,
+        "num": 54104,
+        "word": "多地学校因新冠甲流等停课",
+        "onboard_time": 1676993194,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 51258,
+        "num": 51258,
+        "word": "提前还贷算违约吗",
+        "onboard_time": 1676997088,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 49021,
+        "num": 49021,
+        "word": "ofo小黄车已彻底无法登录",
+        "onboard_time": 1676992657,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 46355,
+        "num": 46355,
+        "word": "全球第5例艾滋病治愈者出现",
+        "onboard_time": 1676973099,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66227,
+        "num": 45431,
+        "word": "27岁女子因未婚未育应聘被拒",
+        "onboard_time": 1676998282,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52039,
+        "num": 45157,
+        "word": "美国北约火速回应俄暂停削减武器条约",
+        "onboard_time": 1676997803,
+        "rank": 11,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 41205,
+        "num": 41205,
+        "word": "宠物医院患者用喵喵拳攻击医生",
+        "onboard_time": 1677006372,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39390,
+        "num": 39390,
+        "word": "日本人有多舍不得中国大熊猫香香",
+        "onboard_time": 1676970092,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39244,
+        "num": 39244,
+        "word": "酒店回应客房内发现男子遗体",
+        "onboard_time": 1676994692,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33929,
+        "num": 33929,
+        "word": "摆拍发3000收回2800主播被行拘",
+        "onboard_time": 1676988274,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33434,
+        "num": 33434,
+        "word": "汪东城cosJOJO",
+        "onboard_time": 1676996429,
+        "rank": 16,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 32805,
+        "num": 32805,
+        "word": "试管婴儿被放错胚胎事件初步和解",
+        "onboard_time": 1676987072,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31588,
+        "num": 31588,
+        "word": "香香已抵达成都",
+        "onboard_time": 1676987437,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25526,
+        "num": 25526,
+        "word": "甲流",
+        "onboard_time": 1676991039,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112284,
+        "num": 25405,
+        "word": "河北保定发生一起重大刑案",
+        "onboard_time": 1676989354,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24308,
+        "num": 24308,
+        "word": "陈晓听陈妍希叫刘德华老公很开心",
+        "onboard_time": 1676980709,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23078,
+        "num": 23078,
+        "word": "家长是懂给我对象起外号的",
+        "onboard_time": 1676993735,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 22904,
+        "num": 22904,
+        "word": "ChatGPT",
+        "onboard_time": 1676976331,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 21180,
+        "num": 21180,
+        "word": "研究发现艾滋病或有望治愈",
+        "onboard_time": 1676992477,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20821,
+        "num": 20821,
+        "word": "安欣陆泽宁吻戏",
+        "onboard_time": 1676985154,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20470,
+        "num": 20470,
+        "word": "武林外传演男女分手时内心活动",
+        "onboard_time": 1676995468,
+        "rank": 26,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 20332,
+        "num": 20332,
+        "word": "林志颖问谁还记得放羊的星星这部剧",
+        "onboard_time": 1676986714,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19951,
+        "num": 19951,
+        "word": "刘畊宏模仿言承旭",
+        "onboard_time": 1677000799,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19670,
+        "num": 19670,
+        "word": "女子连刷10个差评商家找上门怒怼",
+        "onboard_time": 1676978251,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19660,
+        "num": 19660,
+        "word": "内娱真人版网球王子",
+        "onboard_time": 1676983474,
+        "rank": 30,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 19505,
+        "num": 19505,
+        "word": "普京对特别军事行动发表评价",
+        "onboard_time": 1676977353,
+        "rank": 31,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 19070,
+        "num": 19070,
+        "word": "广州漫展",
+        "onboard_time": 1676991767,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 19057,
+        "num": 19057,
+        "word": "欧冠联赛",
+        "onboard_time": 1677009372,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18921,
+        "num": 18921,
+        "word": "香香回国是为寻找合适伴侣",
+        "onboard_time": 1676991275,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18790,
+        "num": 18790,
+        "word": "刘三姐黄婉秋病危昏迷",
+        "onboard_time": 1676985693,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18677,
+        "num": 18677,
+        "word": "这美甲多少有点荒谬了",
+        "onboard_time": 1676984502,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17180,
+        "num": 17180,
+        "word": "夏花 BE",
+        "onboard_time": 1676982574,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17158,
+        "num": 17158,
+        "word": "俄暂停参与新削减战略武器条约",
+        "onboard_time": 1676999239,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 16512,
+        "num": 16512,
+        "word": "杨洋方已委请律师介入处理",
+        "onboard_time": 1676986293,
+        "rank": 39,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 16195,
+        "num": 16195,
+        "word": "东北人第一次和南方人合租",
+        "onboard_time": 1676988453,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15688,
+        "num": 15688,
+        "word": "到底是考研难还是读研难",
+        "onboard_time": 1676973931,
+        "rank": 41,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 15129,
+        "num": 15129,
+        "word": "我们的日子 严冰",
+        "onboard_time": 1676985454,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14961,
+        "num": 14961,
+        "word": "23城下调首套房贷利率",
+        "onboard_time": 1676999840,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14859,
+        "num": 14859,
+        "word": "女明星时装周封神造型",
+        "onboard_time": 1677001035,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 14581,
+        "num": 14581,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1676971712,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13584,
+        "num": 13584,
+        "word": "吴京呼吁网友为刘培强复活支招",
+        "onboard_time": 1676985213,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12714,
+        "num": 12714,
+        "word": "HYBE称会帮SMTOWN艺人闯美",
+        "onboard_time": 1676982210,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12612,
+        "num": 12612,
+        "word": "张婧仪直播",
+        "onboard_time": 1676990914,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12595,
+        "num": 12595,
+        "word": "蒋敦豪董事长",
+        "onboard_time": 1676975316,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#以高质量供给满足日益升级的国内市场需求#"
+    }
+  }
+}
