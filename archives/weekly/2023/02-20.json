@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676947936310,
+  "endTime": 1676948534691,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1172939,
+      "num": 1172939,
+      "word": "国人买iPhone14要花12%年薪",
+      "onboard_time": 1676946330,
+      "rank": 3,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 1164811,
       "num": 1164811,
       "word": "10名学生阳性该不该动辄停课",
@@ -355,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1099447,
-      "num": 1099447,
-      "word": "国人买iPhone14要花12%年薪",
-      "onboard_time": 1676946330,
-      "rank": 3,
-      "category": "科技,财经"
+      "raw_hot": 1099394,
+      "num": 1099394,
+      "word": "60岁中通快递分拣工凌晨在岗位猝死",
+      "onboard_time": 1676946811,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1093601,
@@ -635,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 777116,
+      "num": 777116,
+      "word": "英语一",
+      "onboard_time": 1676947890,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 773358,
       "num": 773358,
       "word": "考研查分瞬间太真实了",
@@ -728,14 +744,6 @@
       "word": "河南人口自然增长率62年来首现负增长",
       "onboard_time": 1676931313,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 709439,
-      "num": 709439,
-      "word": "60岁中通快递分拣工凌晨在岗位猝死",
-      "onboard_time": 1676946811,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -867,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644809,
+      "num": 644809,
+      "word": "演制协要求SMTOWN给李秀满下跪道歉",
+      "onboard_time": 1676946871,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644346,
       "num": 644346,
       "word": "詹姆斯对美娜秀中文",
@@ -937,14 +953,6 @@
       "onboard_time": 1676819792,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 598341,
-      "num": 598341,
-      "word": "演制协要求SMTOWN给李秀满下跪道歉",
-      "onboard_time": 1676946871,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 596991,
@@ -1153,6 +1161,14 @@
       "onboard_time": 1676901813,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508923,
+      "num": 508923,
+      "word": "会和不喜欢但合适的人结婚吗",
+      "onboard_time": 1676946811,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 505033,
@@ -1507,6 +1523,14 @@
       "category": "动漫,社会新闻"
     },
     {
+      "raw_hot": 401816,
+      "num": 401816,
+      "word": "近5年学硕国家线趋势",
+      "onboard_time": 1676943747,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 401043,
       "num": 401043,
       "word": "时代少年团站姐图真实距离",
@@ -1539,19 +1563,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 396902,
-      "num": 396902,
-      "word": "近5年学硕国家线趋势",
-      "onboard_time": 1676943747,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 391272,
       "num": 391272,
       "word": "谢娜晒张杰话剧舞台照",
       "onboard_time": 1676896410,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 390268,
+      "num": 390268,
+      "word": "虞书欣张凌赫蒙眼牵手路透",
+      "onboard_time": 1676944590,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1675,14 +1699,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 360314,
-      "num": 360314,
-      "word": "会和不喜欢但合适的人结婚吗",
-      "onboard_time": 1676946811,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 360246,
       "num": 360246,
       "word": "行驶中小车后备箱塞人露双脚",
@@ -1729,14 +1745,6 @@
       "onboard_time": 1676881408,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 350670,
-      "num": 350670,
-      "word": "虞书欣张凌赫蒙眼牵手路透",
-      "onboard_time": 1676944590,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 349526,
@@ -2099,6 +2107,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 282409,
+      "num": 269449,
+      "word": "男子发现亡父739万债务3年偿清",
+      "onboard_time": 1676948253,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281645,
       "num": 281645,
       "word": "杨紫199爱白西装造型",
@@ -2323,6 +2339,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 238871,
+      "num": 238871,
+      "word": "第一次用泡泡的张元英",
+      "onboard_time": 1676948009,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238581,
       "num": 238581,
       "word": "我们的日子",
@@ -2417,6 +2441,14 @@
       "onboard_time": 1676937508,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 221062,
+      "num": 221062,
+      "word": "官方回应城改办主任群发不雅信息",
+      "onboard_time": 1676947950,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220850,
@@ -2603,6 +2635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190563,
+      "num": 190563,
+      "word": "MOSS服务器流量过载",
+      "onboard_time": 1676947710,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 189961,
       "num": 189961,
       "word": "如何看待合肥教授宣扬功利内容",
@@ -2715,12 +2755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175062,
-      "num": 175062,
-      "word": "英语一",
-      "onboard_time": 1676947890,
-      "rank": 45,
-      "category": "教育"
+      "raw_hot": 175126,
+      "num": 175126,
+      "word": "唐艺昕晒户外随拍",
+      "onboard_time": 1676948492,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 174905,
@@ -2753,14 +2793,6 @@
       "onboard_time": 1676825601,
       "rank": 29,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 168724,
-      "num": 168724,
-      "word": "MOSS服务器流量过载",
-      "onboard_time": 1676947710,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 168690,

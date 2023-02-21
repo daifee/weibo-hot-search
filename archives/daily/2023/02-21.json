@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676947936310,
+  "endTime": 1676948534691,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1172939,
+      "num": 1172939,
+      "word": "国人买iPhone14要花12%年薪",
+      "onboard_time": 1676946330,
+      "rank": 3,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 1164811,
       "num": 1164811,
       "word": "10名学生阳性该不该动辄停课",
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1099447,
-      "num": 1099447,
-      "word": "国人买iPhone14要花12%年薪",
-      "onboard_time": 1676946330,
-      "rank": 3,
-      "category": "科技,财经"
+      "raw_hot": 1099394,
+      "num": 1099394,
+      "word": "60岁中通快递分拣工凌晨在岗位猝死",
+      "onboard_time": 1676946811,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1023562,
@@ -131,6 +139,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 777116,
+      "num": 777116,
+      "word": "英语一",
+      "onboard_time": 1676947890,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 771739,
       "num": 771739,
       "word": "姜广涛",
@@ -163,20 +179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 709439,
-      "num": 709439,
-      "word": "60岁中通快递分拣工凌晨在岗位猝死",
-      "onboard_time": 1676946811,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 693662,
       "num": 693662,
       "word": "光渊美术方道歉",
       "onboard_time": 1676938407,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 644809,
+      "num": 644809,
+      "word": "演制协要求SMTOWN给李秀满下跪道歉",
+      "onboard_time": 1676946871,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 625600,
@@ -192,14 +208,6 @@
       "word": "王智是忘了切号吗",
       "onboard_time": 1676890049,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 598341,
-      "num": 598341,
-      "word": "演制协要求SMTOWN给李秀满下跪道歉",
-      "onboard_time": 1676946871,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -249,6 +257,14 @@
       "onboard_time": 1676907988,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508923,
+      "num": 508923,
+      "word": "会和不喜欢但合适的人结婚吗",
+      "onboard_time": 1676946811,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 505033,
@@ -315,12 +331,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 396902,
-      "num": 396902,
+      "raw_hot": 401816,
+      "num": 401816,
       "word": "近5年学硕国家线趋势",
       "onboard_time": 1676943747,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 390268,
+      "num": 390268,
+      "word": "虞书欣张凌赫蒙眼牵手路透",
+      "onboard_time": 1676944590,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 381989,
@@ -363,27 +387,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 360314,
-      "num": 360314,
-      "word": "会和不喜欢但合适的人结婚吗",
-      "onboard_time": 1676946811,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 359331,
       "num": 359331,
       "word": "宋祖儿刘宇宁红衣背影路透",
       "onboard_time": 1676946510,
       "rank": 18,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 350670,
-      "num": 350670,
-      "word": "虞书欣张凌赫蒙眼牵手路透",
-      "onboard_time": 1676944590,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -483,6 +491,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 282409,
+      "num": 269449,
+      "word": "男子发现亡父739万债务3年偿清",
+      "onboard_time": 1676948253,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281645,
       "num": 281645,
       "word": "杨紫199爱白西装造型",
@@ -579,6 +595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 238871,
+      "num": 238871,
+      "word": "第一次用泡泡的张元英",
+      "onboard_time": 1676948009,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234238,
       "num": 234238,
       "word": "假如狂飙发生在屯子里",
@@ -617,6 +641,14 @@
       "onboard_time": 1676937508,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 221062,
+      "num": 221062,
+      "word": "官方回应城改办主任群发不雅信息",
+      "onboard_time": 1676947950,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217357,
@@ -675,6 +707,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 190563,
+      "num": 190563,
+      "word": "MOSS服务器流量过载",
+      "onboard_time": 1676947710,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 188921,
       "num": 188921,
       "word": "韩版七月与安生新预告",
@@ -699,12 +739,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175062,
-      "num": 175062,
-      "word": "英语一",
-      "onboard_time": 1676947890,
-      "rank": 45,
-      "category": "教育"
+      "raw_hot": 175126,
+      "num": 175126,
+      "word": "唐艺昕晒户外随拍",
+      "onboard_time": 1676948492,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 173670,
@@ -721,14 +761,6 @@
       "onboard_time": 1676899593,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168724,
-      "num": 168724,
-      "word": "MOSS服务器流量过载",
-      "onboard_time": 1676947710,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 168023,
