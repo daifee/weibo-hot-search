@@ -1,0 +1,410 @@
+{
+  "runTime": 1676975832848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1924210,
+        "num": 1924210,
+        "word": "全球第5例艾滋病治愈者出现",
+        "onboard_time": 1676973099,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1264136,
+        "num": 1264136,
+        "word": "暨南大学考研",
+        "onboard_time": 1676972436,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 30931,
+        "num": 1114596,
+        "word": "up新时代中国",
+        "onboard_time": 1676966729,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2830749,
+        "num": 1113212,
+        "word": "老人被确认车祸死亡11年后死而复生",
+        "onboard_time": 1676970871,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103836,
+        "num": 1103836,
+        "word": "考研国家线",
+        "onboard_time": 1676942906,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1077119,
+        "num": 1077119,
+        "word": "章子怡 中戏考官",
+        "onboard_time": 1676968832,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 940883,
+        "num": 940883,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1676971712,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 868378,
+        "num": 868378,
+        "word": "日本人有多舍不得中国大熊猫香香",
+        "onboard_time": 1676970092,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776706,
+        "num": 776706,
+        "word": "特朗普称能24小时解决俄乌冲突",
+        "onboard_time": 1676974292,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 741255,
+        "num": 741255,
+        "word": "夜燕白 空降",
+        "onboard_time": 1676972550,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1377272,
+        "num": 739419,
+        "word": "林志颖刘荷娜16年后同框",
+        "onboard_time": 1676967030,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 731798,
+        "num": 731798,
+        "word": "俞敏洪说想给董宇辉在北京买套房子",
+        "onboard_time": 1676970810,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592243,
+        "num": 592243,
+        "word": "河南规定参加婚检可休28天婚假",
+        "onboard_time": 1676969609,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522760,
+        "num": 522760,
+        "word": "朱一龙起诉快活嘴食品",
+        "onboard_time": 1676974531,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 501169,
+        "num": 501169,
+        "word": "HYBE称收购SMTOWN可促进KPOP发展",
+        "onboard_time": 1676974350,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485859,
+        "num": 485859,
+        "word": "普京国情咨文讲话",
+        "onboard_time": 1676974710,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 471302,
+        "num": 471302,
+        "word": "蒋敦豪董事长",
+        "onboard_time": 1676975316,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433343,
+        "num": 433343,
+        "word": "30岁女程序员录用后又以未婚育被拒",
+        "onboard_time": 1676967992,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424999,
+        "num": 424999,
+        "word": "金希澈为校园暴力受害者捐款",
+        "onboard_time": 1676975373,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404545,
+        "num": 404545,
+        "word": "张颂文饭还没放下就营业了",
+        "onboard_time": 1676970752,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402307,
+        "num": 402307,
+        "word": "文春 上野千鹤子",
+        "onboard_time": 1676970330,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 387540,
+        "num": 387540,
+        "word": "考研成绩",
+        "onboard_time": 1676934439,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 386096,
+        "num": 386096,
+        "word": "郭德纲否认于谦离开德云社单飞",
+        "onboard_time": 1676968470,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382010,
+        "num": 382010,
+        "word": "上海总和生育率为0.7",
+        "onboard_time": 1676967510,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379243,
+        "num": 379243,
+        "word": "单位不给批婚假怎么办",
+        "onboard_time": 1676971653,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354364,
+        "num": 354364,
+        "word": "高圆圆的仪态",
+        "onboard_time": 1676969370,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343868,
+        "num": 343868,
+        "word": "蔡徐坤橘发挑染造型",
+        "onboard_time": 1676974710,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 563015,
+        "num": 343055,
+        "word": "佟丽娅冲浪",
+        "onboard_time": 1676970270,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333145,
+        "num": 333145,
+        "word": "新疆天山雪豹宣布退出",
+        "onboard_time": 1676969310,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 328734,
+        "num": 328734,
+        "word": "种地吧 开公司",
+        "onboard_time": 1676968890,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321106,
+        "num": 321106,
+        "word": "鞠婧祎象征性的剪两根头发",
+        "onboard_time": 1676967570,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303624,
+        "num": 303624,
+        "word": "赵露思神隐白色长发",
+        "onboard_time": 1676969730,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278140,
+        "num": 278140,
+        "word": "金晨的超减龄丸子头",
+        "onboard_time": 1676974112,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278046,
+        "num": 278046,
+        "word": "李旻浩五扇一",
+        "onboard_time": 1676974052,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271434,
+        "num": 271434,
+        "word": "贺峻霖严浩翔同框路透",
+        "onboard_time": 1676973931,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257508,
+        "num": 257508,
+        "word": "高校回应女厕设置男性小便池",
+        "onboard_time": 1676961927,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234299,
+        "num": 234299,
+        "word": "考研调剂",
+        "onboard_time": 1676958330,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215474,
+        "num": 215474,
+        "word": "考研成绩公布",
+        "onboard_time": 1676969252,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209997,
+        "num": 209997,
+        "word": "无名北美票房",
+        "onboard_time": 1676969850,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74579,
+        "num": 203553,
+        "word": "超9成用户选择线上理赔",
+        "onboard_time": 1676973633,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 201904,
+        "num": 201904,
+        "word": "厦门巴厘岛复航往返1800元",
+        "onboard_time": 1676965530,
+        "rank": 40,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 196184,
+        "num": 196184,
+        "word": "吴倩男人装封面拍摄花絮",
+        "onboard_time": 1676973872,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192890,
+        "num": 192890,
+        "word": "会计专硕",
+        "onboard_time": 1676957730,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178651,
+        "num": 178651,
+        "word": "张译蹦迪动图",
+        "onboard_time": 1676968770,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177850,
+        "num": 177850,
+        "word": "陆虎 王栎鑫家的餐桌",
+        "onboard_time": 1676971892,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162231,
+        "num": 162231,
+        "word": "周末未及时回复加班信息被辞退",
+        "onboard_time": 1676972311,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152248,
+        "num": 152248,
+        "word": "到底是考研难还是读研难",
+        "onboard_time": 1676973931,
+        "rank": 46,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 152186,
+        "num": 152186,
+        "word": "党和国家机构改革方案",
+        "onboard_time": 1676964329,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 144774,
+        "num": 144774,
+        "word": "网购iPhone14开箱发现是IQOO",
+        "onboard_time": 1676953655,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143229,
+        "num": 143229,
+        "word": "当三个穿青蛙服的人相遇后",
+        "onboard_time": 1676975252,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展看中国#"
+    }
+  }
+}

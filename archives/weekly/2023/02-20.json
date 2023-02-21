@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676974869152,
+  "endTime": 1676975832848,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2994824,
-      "num": 725895,
+      "num": 739419,
       "word": "林志颖刘荷娜16年后同框",
       "onboard_time": 1676967030,
       "rank": 10,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1924210,
+      "num": 1924210,
+      "word": "全球第5例艾滋病治愈者出现",
+      "onboard_time": 1676973099,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1883222,
       "num": 1883222,
       "word": "工作群发不雅信息涉事官员被免职",
@@ -200,14 +208,6 @@
       "word": "山东人均身高1米8实锤了",
       "onboard_time": 1676904034,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1587510,
-      "num": 1587510,
-      "word": "全球第5例艾滋病治愈者出现",
-      "onboard_time": 1676973099,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1264136,
+      "num": 1264136,
+      "word": "暨南大学考研",
+      "onboard_time": 1676972436,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1242527,
       "num": 1242527,
       "word": "女子多次拒接反诈电话被骗122万元",
@@ -456,14 +464,6 @@
       "word": "考研最好考的十大专业",
       "onboard_time": 1676951014,
       "rank": 6,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1157147,
-      "num": 1157147,
-      "word": "暨南大学考研",
-      "onboard_time": 1676972436,
-      "rank": 5,
       "category": "教育,社会新闻"
     },
     {
@@ -675,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 940883,
+      "num": 940883,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1676971712,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 939629,
       "num": 379138,
       "word": "长肉芽凝胶",
@@ -689,14 +697,6 @@
       "onboard_time": 1676957730,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 927211,
-      "num": 927211,
-      "word": "周杰伦演唱会",
-      "onboard_time": 1676971712,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 922739,
@@ -891,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 776706,
+      "num": 776706,
+      "word": "特朗普称能24小时解决俄乌冲突",
+      "onboard_time": 1676974292,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 775731,
       "num": 775731,
       "word": "鹿晗说五哈每一季开始都这么囧",
@@ -987,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 741255,
+      "num": 741255,
+      "word": "夜燕白 空降",
+      "onboard_time": 1676972550,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 738335,
       "num": 738335,
       "word": "亚马逊要求员工一周到岗工作3天",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1676942370,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 728798,
-      "num": 728798,
-      "word": "夜燕白 空降",
-      "onboard_time": 1676972550,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 727121,
@@ -1611,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522760,
+      "num": 522760,
+      "word": "朱一龙起诉快活嘴食品",
+      "onboard_time": 1676974531,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 521836,
       "num": 442177,
       "word": "每日新增阳性5000例以上",
@@ -1673,6 +1689,14 @@
       "onboard_time": 1676862388,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 501169,
+      "num": 501169,
+      "word": "HYBE称收购SMTOWN可促进KPOP发展",
+      "onboard_time": 1676974350,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 498329,
@@ -1739,6 +1763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 485859,
+      "num": 485859,
+      "word": "普京国情咨文讲话",
+      "onboard_time": 1676974710,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 481913,
       "num": 481913,
       "word": "官方通报男生进入女生宿舍楼相关事件",
@@ -1795,6 +1827,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 471302,
+      "num": 471302,
+      "word": "蒋敦豪董事长",
+      "onboard_time": 1676975316,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467371,
       "num": 341998,
       "word": "中国台湾联赛大规模冲突",
@@ -1825,14 +1865,6 @@
       "onboard_time": 1676850143,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 459553,
-      "num": 459553,
-      "word": "HYBE称收购SMTOWN可促进KPOP发展",
-      "onboard_time": 1676974350,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 459007,
@@ -2051,6 +2083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 424999,
+      "num": 424999,
+      "word": "金希澈为校园暴力受害者捐款",
+      "onboard_time": 1676975373,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420233,
       "num": 420233,
       "word": "amazing哥返场了",
@@ -2235,6 +2275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379243,
+      "num": 379243,
+      "word": "单位不给批婚假怎么办",
+      "onboard_time": 1676971653,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377362,
       "num": 377362,
       "word": "XYG回应粉丝",
@@ -2305,14 +2353,6 @@
       "onboard_time": 1676935881,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 370772,
-      "num": 370772,
-      "word": "特朗普称能24小时解决俄乌冲突",
-      "onboard_time": 1676974292,
-      "rank": 26,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 370191,
@@ -2441,14 +2481,6 @@
       "onboard_time": 1676900451,
       "rank": 19,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 346971,
-      "num": 346971,
-      "word": "单位不给批婚假怎么办",
-      "onboard_time": 1676971653,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346224,
@@ -2699,14 +2731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 314715,
-      "num": 314715,
-      "word": "朱一龙起诉快活嘴食品",
-      "onboard_time": 1676974531,
-      "rank": 31,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 314482,
       "num": 314482,
       "word": "大熊猫香香今日回国",
@@ -2947,6 +2971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278140,
+      "num": 278140,
+      "word": "金晨的超减龄丸子头",
+      "onboard_time": 1676974112,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277559,
       "num": 277559,
       "word": "XYG 羲和",
@@ -3089,14 +3121,6 @@
       "onboard_time": 1676897975,
       "rank": 36,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 255073,
-      "num": 255073,
-      "word": "金晨的超减龄丸子头",
-      "onboard_time": 1676974112,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 253725,
@@ -3321,14 +3345,6 @@
       "onboard_time": 1676889151,
       "rank": 43,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 223983,
-      "num": 261502,
-      "word": "普京国情咨文讲话",
-      "onboard_time": 1676974710,
-      "rank": 34,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 222874,
@@ -3569,6 +3585,14 @@
       "onboard_time": 1676956056,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 196184,
+      "num": 196184,
+      "word": "吴倩男人装封面拍摄花絮",
+      "onboard_time": 1676973872,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196159,
@@ -3995,14 +4019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156706,
-      "num": 156706,
-      "word": "吴倩男人装封面拍摄花絮",
-      "onboard_time": 1676973872,
-      "rank": 48,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 156631,
       "num": 156631,
       "word": "官方通报城改办主任群发不雅信息",
@@ -4059,6 +4075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152248,
+      "num": 152248,
+      "word": "到底是考研难还是读研难",
+      "onboard_time": 1676973931,
+      "rank": 46,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 150496,
       "num": 150496,
       "word": "有点社恐的狗子",
@@ -4097,6 +4121,14 @@
       "onboard_time": 1676964929,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143229,
+      "num": 143229,
+      "word": "当三个穿青蛙服的人相遇后",
+      "onboard_time": 1676975252,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 142286,
@@ -4347,6 +4379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74579,
+      "num": 210706,
+      "word": "超9成用户选择线上理赔",
+      "onboard_time": 1676973633,
+      "rank": 39,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 70894,
       "num": 70894,
       "word": "115一袋的薯片刺客你吃过吗",
@@ -4369,14 +4409,6 @@
       "onboard_time": 1676849543,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57330,
-      "num": 210706,
-      "word": "超9成用户选择线上理赔",
-      "onboard_time": 1676973633,
-      "rank": 39,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 55490,
