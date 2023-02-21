@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676953424092,
+  "endTime": 1676954340420,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -227,19 +227,19 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 1426230,
+      "num": 1426230,
+      "word": "孟局身材",
+      "onboard_time": 1676949090,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1420547,
       "num": 1420547,
       "word": "王一博无名拍抽烟戏拍到吐",
       "onboard_time": 1676948668,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1409002,
-      "num": 1409002,
-      "word": "孟局身材",
-      "onboard_time": 1676949090,
-      "rank": 8,
       "category": "影视"
     },
     {
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1161574,
+      "num": 1161574,
+      "word": "考研最好考的十大专业",
+      "onboard_time": 1676951014,
+      "rank": 6,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1156514,
       "num": 1156514,
       "word": "徐志胜 双开门腹肌",
@@ -395,19 +403,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1154886,
-      "num": 1154886,
-      "word": "考研最好考的十大专业",
-      "onboard_time": 1676951014,
-      "rank": 6,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 1118467,
       "num": 536783,
       "word": "小伙与女友接吻后染病进医院",
       "onboard_time": 1676898991,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1111382,
+      "num": 1111382,
+      "word": "女子无意找到30年前钱包内含巨款",
+      "onboard_time": 1676950531,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -465,14 +473,6 @@
       "onboard_time": 1676872769,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1055625,
-      "num": 1055625,
-      "word": "女子无意找到30年前钱包内含巨款",
-      "onboard_time": 1676950531,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1046828,
@@ -545,6 +545,14 @@
       "onboard_time": 1676859387,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 997358,
+      "num": 707509,
+      "word": "盘锦教育局局长遇意外去世",
+      "onboard_time": 1676952335,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 993323,
@@ -771,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 745483,
+      "num": 694849,
+      "word": "人社局回应上班1个月反欠公司5毛",
+      "onboard_time": 1676952274,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738335,
       "num": 738335,
       "word": "亚马逊要求员工一周到岗工作3天",
@@ -913,6 +929,14 @@
       "onboard_time": 1676949090,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 666238,
+      "num": 666238,
+      "word": "音悦台将回归",
+      "onboard_time": 1676953718,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 659941,
@@ -1107,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 571124,
-      "num": 314303,
-      "word": "盘锦教育局局长遇意外去世",
-      "onboard_time": 1676952335,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 570842,
       "num": 527065,
       "word": "赵露思敷面膜自拍",
@@ -1227,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 533980,
+      "num": 533980,
+      "word": "英语二",
+      "onboard_time": 1676952814,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 529820,
       "num": 529820,
       "word": "长沙旅游真的没有淡季吗",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1676942906,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 526438,
+      "num": 526438,
+      "word": "客服回应张小泉菜刀拍蒜断成两截",
+      "onboard_time": 1676952636,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521836,
@@ -1339,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489188,
+      "num": 489188,
+      "word": "山东考研",
+      "onboard_time": 1676953237,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 487722,
       "num": 487722,
       "word": "你想要什么王者亲密称呼",
@@ -1385,14 +1425,6 @@
       "onboard_time": 1676866895,
       "rank": 47,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 474110,
-      "num": 474110,
-      "word": "人社局回应上班1个月反欠公司5毛",
-      "onboard_time": 1676952274,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 473686,
@@ -1547,11 +1579,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 431124,
+      "num": 431124,
+      "word": "中方敦促有关国家停止鼓噪今日乌克兰明日台湾",
+      "onboard_time": 1676952037,
+      "rank": 23,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 431089,
       "num": 431089,
       "word": "黄冈回应一问三不知主任有新职",
       "onboard_time": 1676901930,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 430687,
+      "num": 430687,
+      "word": "网购iPhone14开箱发现是IQOO",
+      "onboard_time": 1676953655,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -1691,12 +1739,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 397484,
-      "num": 397484,
-      "word": "中方敦促有关国家停止鼓噪今日乌克兰明日台湾",
-      "onboard_time": 1676952037,
-      "rank": 23,
-      "category": "国内要闻"
+      "raw_hot": 392842,
+      "num": 371655,
+      "word": "关晓彤陈采尼同框合照",
+      "onboard_time": 1676954137,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 391545,
@@ -1771,12 +1819,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 377316,
-      "num": 377316,
-      "word": "英语二",
-      "onboard_time": 1676952814,
-      "rank": 25,
-      "category": "教育"
+      "raw_hot": 376367,
+      "num": 376367,
+      "word": "任嘉伦晒二月二天空照",
+      "onboard_time": 1676953956,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 374755,
@@ -1899,12 +1947,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 354737,
-      "num": 354737,
-      "word": "客服回应张小泉菜刀拍蒜断成两截",
-      "onboard_time": 1676952636,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 355372,
+      "num": 355372,
+      "word": "汪峰unfollow巡演官宣",
+      "onboard_time": 1676953475,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 354735,
@@ -1993,6 +2041,14 @@
       "onboard_time": 1676943747,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 338052,
+      "num": 338052,
+      "word": "中通回应60岁分拣工猝死",
+      "onboard_time": 1676952398,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 337450,
@@ -2163,6 +2219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 314065,
+      "num": 314065,
+      "word": "大侦探",
+      "onboard_time": 1676952398,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313863,
       "num": 313863,
       "word": "二月二的习俗有哪些",
@@ -2185,14 +2249,6 @@
       "onboard_time": 1676952934,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 313246,
-      "num": 313246,
-      "word": "大侦探",
-      "onboard_time": 1676952398,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 312617,
@@ -2249,14 +2305,6 @@
       "onboard_time": 1676951493,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 294191,
-      "num": 294191,
-      "word": "中通回应60岁分拣工猝死",
-      "onboard_time": 1676952398,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 291134,
@@ -2595,14 +2643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229499,
-      "num": 229499,
-      "word": "山东考研",
-      "onboard_time": 1676953237,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 228367,
       "num": 228367,
       "word": "明中严冰be了",
@@ -2843,6 +2883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197225,
+      "num": 197225,
+      "word": "卫健委回应医院弄错试管婴儿",
+      "onboard_time": 1676953535,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196159,
       "num": 196159,
       "word": "李一桐说任何时间苏玖儿都会全力以赴",
@@ -2881,6 +2929,14 @@
       "onboard_time": 1676826500,
       "rank": 20,
       "category": "教育,社会议题"
+    },
+    {
+      "raw_hot": 189923,
+      "num": 189923,
+      "word": "今年iPhone全球出货量或将下滑",
+      "onboard_time": 1676954076,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 189444,

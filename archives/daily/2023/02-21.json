@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676953424092,
+  "endTime": 1676954340420,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -51,19 +51,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1426230,
+      "num": 1426230,
+      "word": "孟局身材",
+      "onboard_time": 1676949090,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1420547,
       "num": 1420547,
       "word": "王一博无名拍抽烟戏拍到吐",
       "onboard_time": 1676948668,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1409002,
-      "num": 1409002,
-      "word": "孟局身材",
-      "onboard_time": 1676949090,
-      "rank": 8,
       "category": "影视"
     },
     {
@@ -115,8 +115,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1154886,
-      "num": 1154886,
+      "raw_hot": 1161574,
+      "num": 1161574,
       "word": "考研最好考的十大专业",
       "onboard_time": 1676951014,
       "rank": 6,
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1111382,
+      "num": 1111382,
+      "word": "女子无意找到30年前钱包内含巨款",
+      "onboard_time": 1676950531,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1096353,
       "num": 869022,
       "word": "肖战米兰时装周应援",
       "onboard_time": 1676950832,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1055625,
-      "num": 1055625,
-      "word": "女子无意找到30年前钱包内含巨款",
-      "onboard_time": 1676950531,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1023562,
@@ -176,6 +176,14 @@
       "word": "女子住着大别墅欠5000不还成老赖",
       "onboard_time": 1676921173,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 997358,
+      "num": 707509,
+      "word": "盘锦教育局局长遇意外去世",
+      "onboard_time": 1676952335,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -235,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 745483,
+      "num": 694849,
+      "word": "人社局回应上班1个月反欠公司5毛",
+      "onboard_time": 1676952274,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730689,
       "num": 730689,
       "word": "法硕",
@@ -265,6 +281,14 @@
       "onboard_time": 1676949090,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 666238,
+      "num": 666238,
+      "word": "音悦台将回归",
+      "onboard_time": 1676953718,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 659941,
@@ -315,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 571124,
-      "num": 314303,
-      "word": "盘锦教育局局长遇意外去世",
-      "onboard_time": 1676952335,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 561521,
       "num": 561521,
       "word": "这是在厕所里安了张床吧",
@@ -347,12 +363,28 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 533980,
+      "num": 533980,
+      "word": "英语二",
+      "onboard_time": 1676952814,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 527195,
       "num": 527195,
       "word": "广东省考",
       "onboard_time": 1676942906,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 526438,
+      "num": 526438,
+      "word": "客服回应张小泉菜刀拍蒜断成两截",
+      "onboard_time": 1676952636,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 520612,
@@ -387,20 +419,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489188,
+      "num": 489188,
+      "word": "山东考研",
+      "onboard_time": 1676953237,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 484816,
       "num": 484816,
       "word": "这一届考研人有多难",
       "onboard_time": 1676890534,
       "rank": 6,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 474110,
-      "num": 474110,
-      "word": "人社局回应上班1个月反欠公司5毛",
-      "onboard_time": 1676952274,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 453668,
@@ -425,6 +457,22 @@
       "onboard_time": 1676943450,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 431124,
+      "num": 431124,
+      "word": "中方敦促有关国家停止鼓噪今日乌克兰明日台湾",
+      "onboard_time": 1676952037,
+      "rank": 23,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 430687,
+      "num": 430687,
+      "word": "网购iPhone14开箱发现是IQOO",
+      "onboard_time": 1676953655,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427936,
@@ -467,12 +515,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 397484,
-      "num": 397484,
-      "word": "中方敦促有关国家停止鼓噪今日乌克兰明日台湾",
-      "onboard_time": 1676952037,
-      "rank": 23,
-      "category": "国内要闻"
+      "raw_hot": 392842,
+      "num": 371655,
+      "word": "关晓彤陈采尼同框合照",
+      "onboard_time": 1676954137,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 391545,
@@ -515,12 +563,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 377316,
-      "num": 377316,
-      "word": "英语二",
-      "onboard_time": 1676952814,
-      "rank": 25,
-      "category": "教育"
+      "raw_hot": 376367,
+      "num": 376367,
+      "word": "任嘉伦晒二月二天空照",
+      "onboard_time": 1676953956,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 370997,
@@ -563,12 +611,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 354737,
-      "num": 354737,
-      "word": "客服回应张小泉菜刀拍蒜断成两截",
-      "onboard_time": 1676952636,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 355372,
+      "num": 355372,
+      "word": "汪峰unfollow巡演官宣",
+      "onboard_time": 1676953475,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 349526,
@@ -595,6 +643,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 338052,
+      "num": 338052,
+      "word": "中通回应60岁分拣工猝死",
+      "onboard_time": 1676952398,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 318552,
       "num": 318552,
       "word": "张嘉倪出发米兰时装周",
@@ -609,6 +665,14 @@
       "onboard_time": 1676949571,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314065,
+      "num": 314065,
+      "word": "大侦探",
+      "onboard_time": 1676952398,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 313863,
@@ -633,14 +697,6 @@
       "onboard_time": 1676952934,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 313246,
-      "num": 313246,
-      "word": "大侦探",
-      "onboard_time": 1676952398,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 304984,
@@ -673,14 +729,6 @@
       "onboard_time": 1676951493,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 294191,
-      "num": 294191,
-      "word": "中通回应60岁分拣工猝死",
-      "onboard_time": 1676952398,
-      "rank": 35,
-      "category": "社会负面"
     },
     {
       "raw_hot": 291134,
@@ -827,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229499,
-      "num": 229499,
-      "word": "山东考研",
-      "onboard_time": 1676953237,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 227320,
       "num": 227320,
       "word": "美国五霸俱全害人害己",
@@ -939,11 +979,27 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 197225,
+      "num": 197225,
+      "word": "卫健委回应医院弄错试管婴儿",
+      "onboard_time": 1676953535,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190563,
       "num": 190563,
       "word": "MOSS服务器流量过载",
       "onboard_time": 1676947710,
       "rank": 47,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 189923,
+      "num": 189923,
+      "word": "今年iPhone全球出货量或将下滑",
+      "onboard_time": 1676954076,
+      "rank": 49,
       "category": "科技"
     },
     {
