@@ -1,0 +1,410 @@
+{
+  "runTime": 1676964855572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2468667,
+        "num": 2468667,
+        "word": "考研国家线",
+        "onboard_time": 1676942906,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1295693,
+        "num": 1295693,
+        "word": "考研成绩",
+        "onboard_time": 1676934439,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96670,
+        "num": 949505,
+        "word": "全网最硬核版龙抬头",
+        "onboard_time": 1676939370,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683045,
+        "num": 683045,
+        "word": "张小泉菜刀拍蒜断裂再现舆情风波",
+        "onboard_time": 1676958811,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1685709,
+        "num": 671413,
+        "word": "工作群发不雅信息涉事官员被免职",
+        "onboard_time": 1676957669,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 618217,
+        "num": 618217,
+        "word": "男子发现亡父739万债务3年偿清",
+        "onboard_time": 1676948253,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602837,
+        "num": 602837,
+        "word": "会计专硕",
+        "onboard_time": 1676957730,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 588434,
+        "num": 588434,
+        "word": "言承旭徐若晗新浪扫楼",
+        "onboard_time": 1676962168,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 587551,
+        "num": 587551,
+        "word": "韩剧我的大叔 翻拍",
+        "onboard_time": 1676960369,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 573898,
+        "num": 573898,
+        "word": "考研调剂",
+        "onboard_time": 1676958330,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1064839,
+        "num": 555636,
+        "word": "未婚夫去世准公公写信求留下孩子",
+        "onboard_time": 1676951433,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827911,
+        "num": 524084,
+        "word": "高校回应女厕设置男性小便池",
+        "onboard_time": 1676961927,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769829,
+        "num": 512373,
+        "word": "情侣报考同校同专业考出同分",
+        "onboard_time": 1676963128,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 474802,
+        "num": 474802,
+        "word": "四郎去给孩子上户口了",
+        "onboard_time": 1676956173,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463708,
+        "num": 463708,
+        "word": "王鹤棣演樊少皇儿子",
+        "onboard_time": 1676955815,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 439038,
+        "num": 439038,
+        "word": "全球最大四天工作制试验结果出炉",
+        "onboard_time": 1676958691,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438635,
+        "num": 438635,
+        "word": "孟局身材",
+        "onboard_time": 1676949090,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420787,
+        "num": 420787,
+        "word": "易烊千玺满江红职场潜台词",
+        "onboard_time": 1676962469,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 399587,
+        "num": 399587,
+        "word": "党和国家机构改革方案",
+        "onboard_time": 1676964329,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 392750,
+        "num": 392750,
+        "word": "女子无意找到30年前钱包内含巨款",
+        "onboard_time": 1676950531,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379995,
+        "num": 379995,
+        "word": "高启盛的走路姿势原来是家族遗传",
+        "onboard_time": 1676960609,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 379273,
+        "num": 379273,
+        "word": "盘锦教育局局长遇意外去世",
+        "onboard_time": 1676952335,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366572,
+        "num": 366572,
+        "word": "网购iPhone14开箱发现是IQOO",
+        "onboard_time": 1676953655,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329931,
+        "num": 329931,
+        "word": "考研最好考的十大专业",
+        "onboard_time": 1676951014,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 312832,
+        "num": 312832,
+        "word": "李荣浩郑州演唱会门票",
+        "onboard_time": 1676960850,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307131,
+        "num": 307131,
+        "word": "博主称嘎子哥卖的手机最多值999元",
+        "onboard_time": 1676954857,
+        "rank": 25,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 289284,
+        "num": 289284,
+        "word": "英语一",
+        "onboard_time": 1676947890,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 278678,
+        "num": 278678,
+        "word": "今晚能看到真正的龙抬头",
+        "onboard_time": 1676961328,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277559,
+        "num": 277559,
+        "word": "XYG 羲和",
+        "onboard_time": 1676963668,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275132,
+        "num": 275132,
+        "word": "二十届二中全会召开时间",
+        "onboard_time": 1676963128,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 266774,
+        "num": 266774,
+        "word": "白时可乐",
+        "onboard_time": 1676963310,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258889,
+        "num": 258889,
+        "word": "半熟恋人2男五女五来了",
+        "onboard_time": 1676959112,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238161,
+        "num": 238161,
+        "word": "人社局回应上班1个月反欠公司5毛",
+        "onboard_time": 1676952274,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215185,
+        "num": 215185,
+        "word": "中国从未挑起战争但对华打压不断升级",
+        "onboard_time": 1676962049,
+        "rank": 33,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 206149,
+        "num": 206149,
+        "word": "北京考研",
+        "onboard_time": 1676949090,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202282,
+        "num": 202282,
+        "word": "新传",
+        "onboard_time": 1676957431,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 195957,
+        "num": 195957,
+        "word": "SMTOWN将正式抵制HYBE收购",
+        "onboard_time": 1676955757,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195505,
+        "num": 195505,
+        "word": "王一博无名拍抽烟戏拍到吐",
+        "onboard_time": 1676948668,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192330,
+        "num": 192330,
+        "word": "关晓彤陈采尼同框合照",
+        "onboard_time": 1676954137,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181410,
+        "num": 181410,
+        "word": "全智贤伦敦时装周生图",
+        "onboard_time": 1676943628,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177314,
+        "num": 177314,
+        "word": "多地参加婚检额外奖励婚假",
+        "onboard_time": 1676964209,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175296,
+        "num": 175296,
+        "word": "音悦台将回归",
+        "onboard_time": 1676953718,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174530,
+        "num": 174530,
+        "word": "赵露思神隐片场休息路透",
+        "onboard_time": 1676964509,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169924,
+        "num": 169924,
+        "word": "老牌国货公司隆力奇人去楼空",
+        "onboard_time": 1676949870,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 164835,
+        "num": 164835,
+        "word": "花木兰全球甄选新皮肤",
+        "onboard_time": 1676954498,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164819,
+        "num": 164819,
+        "word": "10省份放宽报考公务员35岁年龄限制",
+        "onboard_time": 1676949270,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 153862,
+        "num": 153862,
+        "word": "中方敦促有关国家停止鼓噪今日乌克兰明日台湾",
+        "onboard_time": 1676952037,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 148070,
+        "num": 148070,
+        "word": "女子多次拒接反诈电话被骗122万元",
+        "onboard_time": 1676964708,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146951,
+        "num": 146951,
+        "word": "会和不喜欢但合适的人结婚吗",
+        "onboard_time": 1676946811,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146384,
+        "num": 146384,
+        "word": "上海暂停体育中考",
+        "onboard_time": 1676955636,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#9图速览中国经济复苏进度条#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676963851519,
+  "endTime": 1676964855572,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -251,6 +251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 827911,
+      "num": 544096,
+      "word": "高校回应女厕设置男性小便池",
+      "onboard_time": 1676961927,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 827375,
       "num": 827375,
       "word": "考研调剂",
@@ -267,14 +275,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 789671,
-      "num": 544096,
-      "word": "高校回应女厕设置男性小便池",
-      "onboard_time": 1676961927,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 775731,
       "num": 775731,
       "word": "鹿晗说五哈每一季开始都这么囧",
@@ -289,6 +289,14 @@
       "onboard_time": 1676904513,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 769829,
+      "num": 512373,
+      "word": "情侣报考同校同专业考出同分",
+      "onboard_time": 1676963128,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 760211,
@@ -427,6 +435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 588434,
+      "num": 588434,
+      "word": "言承旭徐若晗新浪扫楼",
+      "onboard_time": 1676962168,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 584319,
       "num": 584319,
       "word": "公司回应招助理和单身总经理同住",
@@ -555,14 +571,6 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 480684,
-      "num": 480684,
-      "word": "言承旭徐若晗新浪扫楼",
-      "onboard_time": 1676962168,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 453668,
       "num": 453668,
       "word": "宋茜泳装随拍",
@@ -659,6 +667,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 399587,
+      "num": 399587,
+      "word": "党和国家机构改革方案",
+      "onboard_time": 1676964329,
+      "rank": 18,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 391545,
       "num": 391545,
       "word": "WB选手组团看中国乒乓",
@@ -689,6 +705,14 @@
       "onboard_time": 1676901089,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379995,
+      "num": 379995,
+      "word": "高启盛的走路姿势原来是家族遗传",
+      "onboard_time": 1676960609,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 378845,
@@ -923,14 +947,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 289675,
-      "num": 289675,
-      "word": "高启盛的走路姿势原来是家族遗传",
-      "onboard_time": 1676960609,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 286155,
       "num": 286155,
       "word": "爱奇艺修改会员投屏优酷腾讯未跟进",
@@ -971,6 +987,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 277559,
+      "num": 277559,
+      "word": "XYG 羲和",
+      "onboard_time": 1676963668,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 275132,
+      "num": 275132,
+      "word": "二十届二中全会召开时间",
+      "onboard_time": 1676963128,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 272451,
       "num": 272451,
       "word": "考研四六级查分都遇龙抬头",
@@ -993,6 +1025,14 @@
       "onboard_time": 1676934859,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266774,
+      "num": 266774,
+      "word": "白时可乐",
+      "onboard_time": 1676963310,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 266099,
@@ -1059,28 +1099,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246107,
-      "num": 246107,
-      "word": "情侣报考同校同专业考出同分",
-      "onboard_time": 1676963128,
-      "rank": 28,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 244454,
       "num": 244454,
       "word": "河南省考",
       "onboard_time": 1676945432,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 241071,
-      "num": 241071,
-      "word": "二十届二中全会召开时间",
-      "onboard_time": 1676963128,
-      "rank": 29,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 236713,
@@ -1243,14 +1267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197837,
-      "num": 197837,
-      "word": "白时可乐",
-      "onboard_time": 1676963310,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 197225,
       "num": 197225,
       "word": "卫健委回应医院弄错试管婴儿",
@@ -1347,6 +1363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177314,
+      "num": 177314,
+      "word": "多地参加婚检额外奖励婚假",
+      "onboard_time": 1676964209,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177223,
       "num": 177223,
       "word": "李现为拨浪鼓咚咚响打call",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1676948492,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174530,
+      "num": 174530,
+      "word": "赵露思神隐片场休息路透",
+      "onboard_time": 1676964509,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 173941,
@@ -1459,20 +1491,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153889,
-      "num": 153889,
-      "word": "XYG 羲和",
-      "onboard_time": 1676963668,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 152390,
       "num": 152390,
       "word": "二月二",
       "onboard_time": 1676937026,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148070,
+      "num": 148070,
+      "word": "女子多次拒接反诈电话被骗122万元",
+      "onboard_time": 1676964708,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145535,
