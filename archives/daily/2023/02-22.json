@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677000830153,
+  "endTime": 1677003841223,
   "band_list": [
     {
       "raw_hot": 3129328,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400466,
+      "num": 400466,
+      "word": "长沙凌晨1点马路人流量惊人",
+      "onboard_time": 1676998941,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343241,
       "num": 343241,
       "word": "陈晓听陈妍希叫刘德华老公很开心",
@@ -112,14 +120,6 @@
       "word": "大熊猫香香回家现场画面",
       "onboard_time": 1676988814,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316379,
-      "num": 316379,
-      "word": "长沙凌晨1点马路人流量惊人",
-      "onboard_time": 1676998941,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -459,12 +459,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41223,
-      "num": 41223,
+      "raw_hot": 44906,
+      "num": 44906,
       "word": "刘畊宏模仿言承旭",
       "onboard_time": 1677000799,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44776,
+      "num": 44776,
+      "word": "女明星时装周封神造型",
+      "onboard_time": 1677001035,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 27975,
+      "num": 27975,
+      "word": "萌娃剃头图鉴",
+      "onboard_time": 1677002836,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
