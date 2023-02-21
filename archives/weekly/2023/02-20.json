@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676956662487,
+  "endTime": 1676957630156,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1182625,
+      "num": 1182625,
+      "word": "盘锦教育局局长遇意外去世",
+      "onboard_time": 1676952335,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1172939,
       "num": 1172939,
       "word": "国人买iPhone14要花12%年薪",
@@ -427,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1106708,
-      "num": 1106708,
-      "word": "盘锦教育局局长遇意外去世",
-      "onboard_time": 1676952335,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1096353,
       "num": 869022,
       "word": "肖战米兰时装周应援",
@@ -480,6 +480,14 @@
       "word": "网友韩国偶遇狂飙的安局",
       "onboard_time": 1676872769,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1056275,
+      "num": 1056275,
+      "word": "王鹤棣演樊少皇儿子",
+      "onboard_time": 1676955815,
+      "rank": 8,
       "category": "影视"
     },
     {
@@ -609,14 +617,6 @@
       "onboard_time": 1676843232,
       "rank": 10,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 880606,
-      "num": 880606,
-      "word": "王鹤棣演樊少皇儿子",
-      "onboard_time": 1676955815,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 879129,
@@ -947,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 673471,
+      "num": 673471,
+      "word": "博主称嘎子哥卖的手机最多值999元",
+      "onboard_time": 1676954857,
+      "rank": 14,
+      "category": "艺人,科技"
+    },
+    {
       "raw_hot": 668145,
       "num": 668145,
       "word": "北京考研",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1676899593,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 608890,
-      "num": 608890,
-      "word": "博主称嘎子哥卖的手机最多值999元",
-      "onboard_time": 1676954857,
-      "rank": 14,
-      "category": "艺人,科技"
     },
     {
       "raw_hot": 604698,
@@ -1273,6 +1273,14 @@
       "onboard_time": 1676885851,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 540295,
+      "num": 540295,
+      "word": "四郎去给孩子上户口了",
+      "onboard_time": 1676956173,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 536461,
@@ -2003,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351028,
+      "num": 351028,
+      "word": "张小斐新剧好事成双杀青照",
+      "onboard_time": 1676957611,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349526,
       "num": 349526,
       "word": "白芸豆真的可以减肥吗",
@@ -2105,6 +2121,14 @@
       "onboard_time": 1676898631,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335610,
+      "num": 335610,
+      "word": "上海暂停体育中考",
+      "onboard_time": 1676955636,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 331947,
@@ -2227,14 +2251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315535,
-      "num": 315535,
-      "word": "四郎去给孩子上户口了",
-      "onboard_time": 1676956173,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 315363,
       "num": 315363,
       "word": "找工作后才明白的事",
@@ -2347,6 +2363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295013,
+      "num": 295013,
+      "word": "花木兰全球甄选新皮肤",
+      "onboard_time": 1676954498,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 291134,
       "num": 291134,
       "word": "复旦MOSS团队回应内测",
@@ -2369,14 +2393,6 @@
       "onboard_time": 1676852069,
       "rank": 20,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 287168,
-      "num": 287168,
-      "word": "花木兰全球甄选新皮肤",
-      "onboard_time": 1676954498,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 287020,
@@ -2417,6 +2433,14 @@
       "onboard_time": 1676934680,
       "rank": 23,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 282330,
+      "num": 282330,
+      "word": "苹果已占据当前台积电所有3nm产能",
+      "onboard_time": 1676954797,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 281645,
@@ -2491,14 +2515,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 272018,
-      "num": 272018,
-      "word": "上海暂停体育中考",
-      "onboard_time": 1676955636,
-      "rank": 36,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 271259,
       "num": 271259,
       "word": "二月不减肥五月徒伤悲",
@@ -2553,14 +2569,6 @@
       "onboard_time": 1676853931,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 262607,
-      "num": 262607,
-      "word": "苹果已占据当前台积电所有3nm产能",
-      "onboard_time": 1676954797,
-      "rank": 38,
-      "category": "科技"
     },
     {
       "raw_hot": 256268,
@@ -2721,6 +2729,14 @@
       "onboard_time": 1676949511,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230392,
+      "num": 230392,
+      "word": "新传",
+      "onboard_time": 1676957431,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 228367,
@@ -2923,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204502,
+      "num": 204502,
+      "word": "杨超越是懂端水的",
+      "onboard_time": 1676957191,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203657,
       "num": 203657,
       "word": "威少换球队不搬家",
@@ -2961,6 +2985,14 @@
       "onboard_time": 1676936725,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 199226,
+      "num": 199226,
+      "word": "直通赛抽签",
+      "onboard_time": 1676956951,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 197504,
@@ -3009,6 +3041,14 @@
       "onboard_time": 1676883570,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193241,
+      "num": 193241,
+      "word": "隆力奇回应董事长被指涉非法集资",
+      "onboard_time": 1676957309,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 190563,
@@ -3073,6 +3113,14 @@
       "onboard_time": 1676806350,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186227,
+      "num": 186227,
+      "word": "男子多次猥亵女子称自己易冲动",
+      "onboard_time": 1676957372,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185206,

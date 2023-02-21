@@ -1,0 +1,410 @@
+{
+  "runTime": 1676957630156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2200202,
+        "num": 2200202,
+        "word": "考研国家线",
+        "onboard_time": 1676942906,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1714479,
+        "num": 1714479,
+        "word": "考研成绩",
+        "onboard_time": 1676934439,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197941,
+        "num": 1391593,
+        "word": "全网最硬核版龙抬头",
+        "onboard_time": 1676939370,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1801914,
+        "num": 1384973,
+        "word": "未婚夫去世准公公写信求留下孩子",
+        "onboard_time": 1676951433,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182625,
+        "num": 1182625,
+        "word": "盘锦教育局局长遇意外去世",
+        "onboard_time": 1676952335,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1056275,
+        "num": 1056275,
+        "word": "王鹤棣演樊少皇儿子",
+        "onboard_time": 1676955815,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1049098,
+        "num": 1049098,
+        "word": "男子发现亡父739万债务3年偿清",
+        "onboard_time": 1676948253,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877089,
+        "num": 877089,
+        "word": "孟局身材",
+        "onboard_time": 1676949090,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 824119,
+        "num": 824119,
+        "word": "网购iPhone14开箱发现是IQOO",
+        "onboard_time": 1676953655,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815597,
+        "num": 815597,
+        "word": "人社局回应上班1个月反欠公司5毛",
+        "onboard_time": 1676952274,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722377,
+        "num": 722377,
+        "word": "考研最好考的十大专业",
+        "onboard_time": 1676951014,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 673471,
+        "num": 673471,
+        "word": "博主称嘎子哥卖的手机最多值999元",
+        "onboard_time": 1676954857,
+        "rank": 11,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 662550,
+        "num": 662550,
+        "word": "音悦台将回归",
+        "onboard_time": 1676953718,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 661712,
+        "num": 661712,
+        "word": "女子无意找到30年前钱包内含巨款",
+        "onboard_time": 1676950531,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562439,
+        "num": 562439,
+        "word": "山东考研",
+        "onboard_time": 1676953237,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 542077,
+        "num": 542077,
+        "word": "关晓彤陈采尼同框合照",
+        "onboard_time": 1676954137,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540295,
+        "num": 540295,
+        "word": "四郎去给孩子上户口了",
+        "onboard_time": 1676956173,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 481213,
+        "num": 481213,
+        "word": "王一博无名拍抽烟戏拍到吐",
+        "onboard_time": 1676948668,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475236,
+        "num": 475236,
+        "word": "SMTOWN将正式抵制HYBE收购",
+        "onboard_time": 1676955757,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462963,
+        "num": 462963,
+        "word": "全智贤伦敦时装周生图",
+        "onboard_time": 1676943628,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 445297,
+        "num": 445297,
+        "word": "英语一",
+        "onboard_time": 1676947890,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 407969,
+        "num": 407969,
+        "word": "英语二",
+        "onboard_time": 1676952814,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 374774,
+        "num": 374774,
+        "word": "10省份放宽报考公务员35岁年龄限制",
+        "onboard_time": 1676949270,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 374074,
+        "num": 374074,
+        "word": "老牌国货公司隆力奇人去楼空",
+        "onboard_time": 1676949870,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 359428,
+        "num": 359428,
+        "word": "客服回应张小泉菜刀拍蒜断成两截",
+        "onboard_time": 1676952636,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351028,
+        "num": 351028,
+        "word": "张小斐新剧好事成双杀青照",
+        "onboard_time": 1676957611,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335810,
+        "num": 335810,
+        "word": "amazing哥返场了",
+        "onboard_time": 1676954915,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 347649,
+        "num": 335808,
+        "word": "张嘉倪好事成双捧花杀青照",
+        "onboard_time": 1676948611,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335610,
+        "num": 335610,
+        "word": "上海暂停体育中考",
+        "onboard_time": 1676955636,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 334288,
+        "num": 334288,
+        "word": "中方敦促有关国家停止鼓噪今日乌克兰明日台湾",
+        "onboard_time": 1676952037,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 312142,
+        "num": 312142,
+        "word": "会和不喜欢但合适的人结婚吗",
+        "onboard_time": 1676946811,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295013,
+        "num": 295013,
+        "word": "花木兰全球甄选新皮肤",
+        "onboard_time": 1676954498,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293357,
+        "num": 293357,
+        "word": "弄错试管婴儿涉事医院称没必要计较",
+        "onboard_time": 1676946151,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282330,
+        "num": 282330,
+        "word": "苹果已占据当前台积电所有3nm产能",
+        "onboard_time": 1676954797,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 274560,
+        "num": 274560,
+        "word": "管综",
+        "onboard_time": 1676945130,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 265265,
+        "num": 265265,
+        "word": "北京考研",
+        "onboard_time": 1676949090,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 256142,
+        "num": 256142,
+        "word": "鹿晗说五哈每一季开始都这么囧",
+        "onboard_time": 1676949151,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254628,
+        "num": 254628,
+        "word": "复试",
+        "onboard_time": 1676952934,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 240937,
+        "num": 240937,
+        "word": "第一次用泡泡的张元英",
+        "onboard_time": 1676948009,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230392,
+        "num": 230392,
+        "word": "新传",
+        "onboard_time": 1676957431,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 218506,
+        "num": 218506,
+        "word": "剪头发",
+        "onboard_time": 1676956114,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204502,
+        "num": 204502,
+        "word": "杨超越是懂端水的",
+        "onboard_time": 1676957191,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201700,
+        "num": 201700,
+        "word": "五哈",
+        "onboard_time": 1676956114,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199226,
+        "num": 199226,
+        "word": "直通赛抽签",
+        "onboard_time": 1676956951,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196790,
+        "num": 196790,
+        "word": "音悦台 时代的眼泪",
+        "onboard_time": 1676956472,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193241,
+        "num": 193241,
+        "word": "隆力奇回应董事长被指涉非法集资",
+        "onboard_time": 1676957309,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 186227,
+        "num": 186227,
+        "word": "男子多次猥亵女子称自己易冲动",
+        "onboard_time": 1676957372,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182983,
+        "num": 182983,
+        "word": "大熊猫香香今日回国",
+        "onboard_time": 1676949571,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177537,
+        "num": 177537,
+        "word": "法硕",
+        "onboard_time": 1676942370,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176062,
+        "num": 176062,
+        "word": "父母26万彩礼卖掉女儿或涉罪",
+        "onboard_time": 1676938648,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以高质量供给满足日益升级的国内市场需求#"
+    }
+  }
+}
