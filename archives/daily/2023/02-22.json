@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677017950791,
+  "endTime": 1677018944737,
   "band_list": [
     {
       "raw_hot": 3129328,
@@ -243,6 +243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186134,
+      "num": 41825,
+      "word": "俄罗斯要求美国从乌克兰撤军",
+      "onboard_time": 1677017233,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
       "raw_hot": 184491,
       "num": 184491,
       "word": "安欣陆泽宁吻戏",
@@ -323,20 +331,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130348,
+      "num": 130348,
+      "word": "利物浦vs皇马",
+      "onboard_time": 1677005294,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126605,
       "num": 126605,
       "word": "HYBE称会帮SMTOWN艺人闯美",
       "onboard_time": 1676982210,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126511,
-      "num": 126511,
-      "word": "利物浦vs皇马",
-      "onboard_time": 1677005294,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 126277,
@@ -355,8 +363,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119643,
-      "num": 119643,
+      "raw_hot": 121919,
+      "num": 121919,
       "word": "你接受婚后和公婆同住吗",
       "onboard_time": 1677004513,
       "rank": 47,
@@ -467,28 +475,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 74658,
+      "num": 74658,
+      "word": "宠物医院患者用喵喵拳攻击医生",
+      "onboard_time": 1677006372,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70605,
       "num": 70605,
       "word": "刘三姐黄婉秋病危昏迷",
       "onboard_time": 1676985693,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60030,
-      "num": 31772,
-      "word": "俄罗斯要求美国从乌克兰撤军",
-      "onboard_time": 1677017233,
-      "rank": 30,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 54915,
-      "num": 54915,
-      "word": "宠物医院患者用喵喵拳攻击医生",
-      "onboard_time": 1677006372,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44906,
@@ -507,6 +507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 34246,
+      "num": 34246,
+      "word": "种地吧 真实",
+      "onboard_time": 1677011232,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27975,
       "num": 27975,
       "word": "萌娃剃头图鉴",
@@ -515,16 +523,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25593,
-      "num": 25593,
-      "word": "种地吧 真实",
-      "onboard_time": 1677011232,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 24515,
-      "num": 24515,
+      "raw_hot": 27817,
+      "num": 27817,
       "word": "欧冠联赛",
       "onboard_time": 1677009372,
       "rank": 37,
