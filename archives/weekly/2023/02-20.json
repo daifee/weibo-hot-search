@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676978188283,
+  "endTime": 1676979235872,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -403,6 +403,22 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1232233,
+      "num": 1232233,
+      "word": "蒋敦豪董事长",
+      "onboard_time": 1676975316,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1229338,
+      "num": 1229338,
+      "word": "到底是考研难还是读研难",
+      "onboard_time": 1676973931,
+      "rank": 46,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 1212614,
       "num": 1212614,
       "word": "克拉棒",
@@ -417,14 +433,6 @@
       "onboard_time": 1676868755,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1187418,
-      "num": 1187418,
-      "word": "蒋敦豪董事长",
-      "onboard_time": 1676975316,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 1186680,
@@ -747,14 +755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 879796,
-      "num": 879796,
-      "word": "到底是考研难还是读研难",
-      "onboard_time": 1676973931,
-      "rank": 46,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 879129,
       "num": 879129,
       "word": "杨紫诉医美公司侵权案将开庭",
@@ -969,6 +969,14 @@
       "onboard_time": 1676890049,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 756162,
+      "num": 569427,
+      "word": "杨紫白裙小香风造型",
+      "onboard_time": 1676978610,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 752108,
@@ -1315,6 +1323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 633654,
+      "num": 633654,
+      "word": "朱一龙起诉快活嘴食品",
+      "onboard_time": 1676974531,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 625377,
       "num": 625377,
       "word": "蔡徐坤出发米兰时装周",
@@ -1377,14 +1393,6 @@
       "onboard_time": 1676819792,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 600752,
-      "num": 600752,
-      "word": "朱一龙起诉快活嘴食品",
-      "onboard_time": 1676974531,
-      "rank": 31,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 599543,
@@ -1465,6 +1473,14 @@
       "onboard_time": 1676883150,
       "rank": 15,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 585847,
+      "num": 568709,
+      "word": "北大方正集团财务有限公司进入破产程序",
+      "onboard_time": 1676976210,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 584319,
@@ -1691,14 +1707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 509476,
-      "num": 509476,
-      "word": "北大方正集团财务有限公司进入破产程序",
-      "onboard_time": 1676976210,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 505033,
       "num": 505033,
       "word": "时代少年团 演唱会",
@@ -1857,6 +1865,14 @@
       "onboard_time": 1676892568,
       "rank": 43,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 472938,
+      "num": 472938,
+      "word": "女子连刷10个差评商家找上门怒怼",
+      "onboard_time": 1676978251,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467371,
@@ -2827,6 +2843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310447,
+      "num": 310447,
+      "word": "当三个穿青蛙服的人相遇后",
+      "onboard_time": 1676975252,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 309856,
       "num": 309856,
       "word": "詹姆斯称自己不会连续无缘季后赛",
@@ -2849,6 +2873,14 @@
       "onboard_time": 1676945792,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302414,
+      "num": 264006,
+      "word": "普京对特别军事行动发表评价",
+      "onboard_time": 1676977353,
+      "rank": 35,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 302210,
@@ -3099,6 +3131,14 @@
       "category": "科技,游戏"
     },
     {
+      "raw_hot": 269803,
+      "num": 262867,
+      "word": "湖南考研成绩2月21日可查",
+      "onboard_time": 1676977771,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 269643,
       "num": 269643,
       "word": "严浩翔团综游乐园路透",
@@ -3129,14 +3169,6 @@
       "onboard_time": 1676875048,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 266120,
-      "num": 266120,
-      "word": "当三个穿青蛙服的人相遇后",
-      "onboard_time": 1676975252,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 264981,
@@ -3515,20 +3547,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 208131,
-      "num": 208131,
-      "word": "普京对特别军事行动发表评价",
-      "onboard_time": 1676977353,
-      "rank": 35,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 207326,
       "num": 207326,
       "word": "梦回放羊的星星",
       "onboard_time": 1676969130,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207278,
+      "num": 207278,
+      "word": "让AI扮演母亲",
+      "onboard_time": 1676972370,
+      "rank": 37,
+      "category": "科技,情感"
     },
     {
       "raw_hot": 207132,
@@ -3619,6 +3651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197833,
+      "num": 197833,
+      "word": "郑钦文退赛",
+      "onboard_time": 1676977591,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197504,
       "num": 197504,
       "word": "劳伦斯年度最佳女运动员提名公布",
@@ -3697,14 +3737,6 @@
       "onboard_time": 1676959529,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 192327,
-      "num": 192327,
-      "word": "郑钦文退赛",
-      "onboard_time": 1676977591,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 190563,
@@ -3787,6 +3819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185448,
+      "num": 185448,
+      "word": "王楚然啜妮毛林林三美同框",
+      "onboard_time": 1676978729,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185206,
       "num": 185206,
       "word": "詹姆斯队名单",
@@ -3819,14 +3859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181884,
-      "num": 181884,
-      "word": "湖南考研成绩2月21日可查",
-      "onboard_time": 1676977771,
-      "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 181414,
       "num": 181414,
       "word": "陆虎 王栎鑫家的餐桌",
@@ -3841,6 +3873,14 @@
       "onboard_time": 1676848881,
       "rank": 23,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 179913,
+      "num": 179913,
+      "word": "文紫好惨",
+      "onboard_time": 1676978670,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 178694,
@@ -4089,6 +4129,14 @@
       "onboard_time": 1676896109,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158461,
+      "num": 158461,
+      "word": "柯南剧场版全新预告",
+      "onboard_time": 1676979212,
+      "rank": 49,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 156631,
