@@ -1,0 +1,410 @@
+{
+  "runTime": 1676949856872,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6485770,
+        "num": 6485770,
+        "word": "考研成绩",
+        "onboard_time": 1676934439,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1820522,
+        "num": 1820522,
+        "word": "考研国家线",
+        "onboard_time": 1676942906,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15926,
+        "num": 1682236,
+        "word": "走进区域看发展",
+        "onboard_time": 1676900011,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1662296,
+        "num": 1662296,
+        "word": "男子发现亡父739万债务3年偿清",
+        "onboard_time": 1676948253,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1420547,
+        "num": 1420547,
+        "word": "王一博无名拍抽烟戏拍到吐",
+        "onboard_time": 1676948668,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1407486,
+        "num": 1407486,
+        "word": "60岁中通快递分拣工凌晨在岗位猝死",
+        "onboard_time": 1676946811,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1328221,
+        "num": 1328221,
+        "word": "英语一",
+        "onboard_time": 1676947890,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 966174,
+        "num": 966174,
+        "word": "弄错试管婴儿涉事医院称没必要计较",
+        "onboard_time": 1676946151,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795471,
+        "num": 795471,
+        "word": "孟局身材",
+        "onboard_time": 1676949090,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1141721,
+        "num": 793354,
+        "word": "国人买iPhone14要花12%年薪",
+        "onboard_time": 1676946330,
+        "rank": 9,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 775731,
+        "num": 775731,
+        "word": "鹿晗说五哈每一季开始都这么囧",
+        "onboard_time": 1676949151,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 715505,
+        "num": 715505,
+        "word": "全智贤伦敦时装周生图",
+        "onboard_time": 1676943628,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 671445,
+        "num": 671445,
+        "word": "管综",
+        "onboard_time": 1676945130,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 651761,
+        "num": 651761,
+        "word": "张嘉倪好事成双捧花杀青照",
+        "onboard_time": 1676948611,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 592162,
+        "num": 592162,
+        "word": "会和不喜欢但合适的人结婚吗",
+        "onboard_time": 1676946811,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 567115,
+        "num": 567115,
+        "word": "演制协要求SMTOWN给李秀满下跪道歉",
+        "onboard_time": 1676946871,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527521,
+        "num": 527521,
+        "word": "四六级查分",
+        "onboard_time": 1676946212,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 458012,
+        "num": 458012,
+        "word": "王曼昱张瑞发烧退赛",
+        "onboard_time": 1676945492,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412408,
+        "num": 412408,
+        "word": "第一次用泡泡的张元英",
+        "onboard_time": 1676948009,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411893,
+        "num": 411893,
+        "word": "10名学生阳性该不该动辄停课",
+        "onboard_time": 1676941470,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 543331,
+        "num": 409884,
+        "word": "王鹤棣新手机壳",
+        "onboard_time": 1676943270,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406025,
+        "num": 406025,
+        "word": "北京考研",
+        "onboard_time": 1676949090,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 385373,
+        "num": 385373,
+        "word": "大侦探往日回响高清剧照",
+        "onboard_time": 1676948788,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376568,
+        "num": 376568,
+        "word": "虞书欣张凌赫蒙眼牵手路透",
+        "onboard_time": 1676944590,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370036,
+        "num": 370036,
+        "word": "官方回应城改办主任群发不雅信息",
+        "onboard_time": 1676947950,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367899,
+        "num": 367899,
+        "word": "父母26万彩礼卖掉女儿或涉罪",
+        "onboard_time": 1676938648,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347878,
+        "num": 347878,
+        "word": "10省份放宽报考公务员35岁年龄限制",
+        "onboard_time": 1676949270,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 342956,
+        "num": 342956,
+        "word": "时代少年团 演唱会",
+        "onboard_time": 1676946151,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 296680,
+        "num": 296680,
+        "word": "近5年学硕国家线趋势",
+        "onboard_time": 1676943747,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 283954,
+        "num": 283954,
+        "word": "光渊美术方道歉",
+        "onboard_time": 1676938407,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278180,
+        "num": 278180,
+        "word": "何冉病情恶化",
+        "onboard_time": 1676942309,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260131,
+        "num": 260131,
+        "word": "法硕",
+        "onboard_time": 1676942370,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251410,
+        "num": 251410,
+        "word": "龙抬头",
+        "onboard_time": 1676935881,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248065,
+        "num": 248065,
+        "word": "俄电视台讨论俄军为何不在拜登访乌时轰炸",
+        "onboard_time": 1676936966,
+        "rank": 33,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 231259,
+        "num": 231259,
+        "word": "刘雯出发米兰时装周",
+        "onboard_time": 1676944048,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 229797,
+        "num": 229797,
+        "word": "剧本杀电影欢迎再次登录",
+        "onboard_time": 1676945792,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225045,
+        "num": 225045,
+        "word": "复旦MOSS团队回应内测",
+        "onboard_time": 1676944229,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 222750,
+        "num": 222750,
+        "word": "女子住着大别墅欠5000不还成老赖",
+        "onboard_time": 1676921173,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220799,
+        "num": 220799,
+        "word": "四六级",
+        "onboard_time": 1676939848,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 212009,
+        "num": 212009,
+        "word": "未拆封初代iPhone拍出6.3万美元",
+        "onboard_time": 1676937446,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 211453,
+        "num": 211453,
+        "word": "广东省考",
+        "onboard_time": 1676942906,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210577,
+        "num": 210577,
+        "word": "爱奇艺修改会员投屏优酷腾讯未跟进",
+        "onboard_time": 1676945009,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 204915,
+        "num": 204915,
+        "word": "曾黎晒米兰机场随拍",
+        "onboard_time": 1676948969,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204265,
+        "num": 204265,
+        "word": "来自姐姐的安慰粗暴但有效",
+        "onboard_time": 1676943747,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 203922,
+        "num": 203922,
+        "word": "上岸壁纸",
+        "onboard_time": 1676937508,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194758,
+        "num": 194758,
+        "word": "河南省考",
+        "onboard_time": 1676945432,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190292,
+        "num": 190292,
+        "word": "宋祖儿刘宇宁红衣背影路透",
+        "onboard_time": 1676946510,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172061,
+        "num": 172061,
+        "word": "男子每天酷爱嚼槟榔确诊舌癌",
+        "onboard_time": 1676949511,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170197,
+        "num": 170197,
+        "word": "大熊猫香香今日回国",
+        "onboard_time": 1676949571,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168505,
+        "num": 168505,
+        "word": "宋茜泳装随拍",
+        "onboard_time": 1676939548,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#看中国式现代化图景#"
+    }
+  }
+}

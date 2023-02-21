@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676948534691,
+  "endTime": 1676949856872,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1662296,
+      "num": 1662296,
+      "word": "男子发现亡父739万债务3年偿清",
+      "onboard_time": 1676948253,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1563132,
       "num": 1563132,
       "word": "水哥变帅了",
@@ -201,6 +209,22 @@
       "onboard_time": 1676882008,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 1420547,
+      "num": 1420547,
+      "word": "王一博无名拍抽烟戏拍到吐",
+      "onboard_time": 1676948668,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1407486,
+      "num": 1407486,
+      "word": "60岁中通快递分拣工凌晨在岗位猝死",
+      "onboard_time": 1676946811,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1401880,
@@ -257,6 +281,14 @@
       "onboard_time": 1676851827,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1328221,
+      "num": 1328221,
+      "word": "英语一",
+      "onboard_time": 1676947890,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 1323415,
@@ -360,14 +392,6 @@
       "word": "日本66%的高端外国人才是中国人",
       "onboard_time": 1676901089,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1099394,
-      "num": 1099394,
-      "word": "60岁中通快递分拣工凌晨在岗位猝死",
-      "onboard_time": 1676946811,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -619,6 +643,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 795471,
+      "num": 795471,
+      "word": "孟局身材",
+      "onboard_time": 1676949090,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 791470,
       "num": 791470,
       "word": "王一博张婧仪对手戏花絮视频",
@@ -643,12 +675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 777116,
-      "num": 777116,
-      "word": "英语一",
-      "onboard_time": 1676947890,
-      "rank": 45,
-      "category": "教育"
+      "raw_hot": 775731,
+      "num": 775731,
+      "word": "鹿晗说五哈每一季开始都这么囧",
+      "onboard_time": 1676949151,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 773358,
@@ -851,6 +883,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 651761,
+      "num": 651761,
+      "word": "张嘉倪好事成双捧花杀青照",
+      "onboard_time": 1676948611,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 647834,
       "num": 647834,
       "word": "集美大学",
@@ -977,6 +1017,14 @@
       "onboard_time": 1676879011,
       "rank": 17,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 592162,
+      "num": 592162,
+      "word": "会和不喜欢但合适的人结婚吗",
+      "onboard_time": 1676946811,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 589151,
@@ -1161,14 +1209,6 @@
       "onboard_time": 1676901813,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 508923,
-      "num": 508923,
-      "word": "会和不喜欢但合适的人结婚吗",
-      "onboard_time": 1676946811,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 505033,
@@ -1515,12 +1555,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 412408,
+      "num": 412408,
+      "word": "第一次用泡泡的张元英",
+      "onboard_time": 1676948009,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410662,
       "num": 410662,
       "word": "松本零士去世",
       "onboard_time": 1676865392,
       "rank": 22,
       "category": "动漫,社会新闻"
+    },
+    {
+      "raw_hot": 406025,
+      "num": 406025,
+      "word": "北京考研",
+      "onboard_time": 1676949090,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 401816,
@@ -1585,6 +1641,14 @@
       "onboard_time": 1676832615,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385373,
+      "num": 385373,
+      "word": "大侦探往日回响高清剧照",
+      "onboard_time": 1676948788,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 385333,
@@ -1665,6 +1729,14 @@
       "onboard_time": 1676903434,
       "rank": 43,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 370036,
+      "num": 370036,
+      "word": "官方回应城改办主任群发不雅信息",
+      "onboard_time": 1676947950,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369116,
@@ -1761,6 +1833,14 @@
       "onboard_time": 1676900451,
       "rank": 19,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 347878,
+      "num": 347878,
+      "word": "10省份放宽报考公务员35岁年龄限制",
+      "onboard_time": 1676949270,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 346224,
@@ -2107,14 +2187,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 282409,
-      "num": 269449,
-      "word": "男子发现亡父739万债务3年偿清",
-      "onboard_time": 1676948253,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281645,
       "num": 281645,
       "word": "杨紫199爱白西装造型",
@@ -2339,14 +2411,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 238871,
-      "num": 238871,
-      "word": "第一次用泡泡的张元英",
-      "onboard_time": 1676948009,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238581,
       "num": 238581,
       "word": "我们的日子",
@@ -2441,14 +2505,6 @@
       "onboard_time": 1676937508,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 221062,
-      "num": 221062,
-      "word": "官方回应城改办主任群发不雅信息",
-      "onboard_time": 1676947950,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220850,
@@ -2561,6 +2617,14 @@
       "onboard_time": 1676865752,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204915,
+      "num": 204915,
+      "word": "曾黎晒米兰机场随拍",
+      "onboard_time": 1676948969,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 203657,
@@ -2779,12 +2843,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172061,
+      "num": 172061,
+      "word": "男子每天酷爱嚼槟榔确诊舌癌",
+      "onboard_time": 1676949511,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171309,
       "num": 171309,
       "word": "王鹤棣皮衣造型自拍",
       "onboard_time": 1676906553,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170197,
+      "num": 170197,
+      "word": "大熊猫香香今日回国",
+      "onboard_time": 1676949571,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170092,
