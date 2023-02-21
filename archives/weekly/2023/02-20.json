@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1676975832848,
+  "endTime": 1676978188283,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1187418,
+      "num": 1187418,
+      "word": "蒋敦豪董事长",
+      "onboard_time": 1676975316,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1186680,
       "num": 1186680,
       "word": "茶颜悦色取消小程序线上点单自取",
@@ -739,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 879796,
+      "num": 879796,
+      "word": "到底是考研难还是读研难",
+      "onboard_time": 1676973931,
+      "rank": 46,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 879129,
       "num": 879129,
       "word": "杨紫诉医美公司侵权案将开庭",
@@ -777,6 +793,14 @@
       "onboard_time": 1676952274,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840602,
+      "num": 840602,
+      "word": "特朗普称能24小时解决俄乌冲突",
+      "onboard_time": 1676974292,
+      "rank": 26,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 839378,
@@ -889,14 +913,6 @@
       "onboard_time": 1676887890,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 776706,
-      "num": 776706,
-      "word": "特朗普称能24小时解决俄乌冲突",
-      "onboard_time": 1676974292,
-      "rank": 26,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 775731,
@@ -1363,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 600752,
+      "num": 600752,
+      "word": "朱一龙起诉快活嘴食品",
+      "onboard_time": 1676974531,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 599543,
       "num": 599543,
       "word": "新疆天山雪豹宣布退出",
@@ -1619,20 +1643,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 522760,
-      "num": 522760,
-      "word": "朱一龙起诉快活嘴食品",
-      "onboard_time": 1676974531,
-      "rank": 31,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 521836,
       "num": 442177,
       "word": "每日新增阳性5000例以上",
       "onboard_time": 1676789727,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520869,
+      "num": 520869,
+      "word": "ChatGPT",
+      "onboard_time": 1676976331,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 520612,
@@ -1665,6 +1689,14 @@
       "onboard_time": 1676901813,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 509476,
+      "num": 509476,
+      "word": "北大方正集团财务有限公司进入破产程序",
+      "onboard_time": 1676976210,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 505033,
@@ -1827,14 +1859,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 471302,
-      "num": 471302,
-      "word": "蒋敦豪董事长",
-      "onboard_time": 1676975316,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 467371,
       "num": 341998,
       "word": "中国台湾联赛大规模冲突",
@@ -1889,6 +1913,14 @@
       "onboard_time": 1676966429,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457650,
+      "num": 457650,
+      "word": "特朗普称若当选总统先给俄乌打电话",
+      "onboard_time": 1676976573,
+      "rank": 17,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 453668,
@@ -2337,6 +2369,14 @@
       "onboard_time": 1676869775,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 371721,
+      "num": 371721,
+      "word": "当地政府回应16岁少女逃婚事件",
+      "onboard_time": 1676976210,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371000,
@@ -3091,6 +3131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 266120,
+      "num": 266120,
+      "word": "当三个穿青蛙服的人相遇后",
+      "onboard_time": 1676975252,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264981,
       "num": 264981,
       "word": "五哈",
@@ -3467,6 +3515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208131,
+      "num": 208131,
+      "word": "普京对特别军事行动发表评价",
+      "onboard_time": 1676977353,
+      "rank": 35,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 207326,
       "num": 207326,
       "word": "梦回放羊的星星",
@@ -3643,6 +3699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192327,
+      "num": 192327,
+      "word": "郑钦文退赛",
+      "onboard_time": 1676977591,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190563,
       "num": 190563,
       "word": "MOSS服务器流量过载",
@@ -3753,6 +3817,14 @@
       "onboard_time": 1676883269,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181884,
+      "num": 181884,
+      "word": "湖南考研成绩2月21日可查",
+      "onboard_time": 1676977771,
+      "rank": 43,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 181414,
@@ -4075,14 +4147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152248,
-      "num": 152248,
-      "word": "到底是考研难还是读研难",
-      "onboard_time": 1676973931,
-      "rank": 46,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 150496,
       "num": 150496,
       "word": "有点社恐的狗子",
@@ -4123,14 +4187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 143229,
-      "num": 143229,
-      "word": "当三个穿青蛙服的人相遇后",
-      "onboard_time": 1676975252,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142286,
       "num": 142286,
       "word": "巴黎圣日耳曼4比3里尔",
@@ -4145,6 +4201,14 @@
       "onboard_time": 1676943154,
       "rank": 48,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 141211,
+      "num": 141211,
+      "word": "宋亚轩补妆路透",
+      "onboard_time": 1676976390,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138751,

@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676975832848,
+  "endTime": 1676978188283,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -153,6 +153,14 @@
       "onboard_time": 1676899530,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1187418,
+      "num": 1187418,
+      "word": "蒋敦豪董事长",
+      "onboard_time": 1676975316,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1186680,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 879796,
+      "num": 879796,
+      "word": "到底是考研难还是读研难",
+      "onboard_time": 1676973931,
+      "rank": 46,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 877419,
       "num": 877419,
       "word": "网购iPhone14开箱发现是IQOO",
@@ -337,6 +353,14 @@
       "onboard_time": 1676952274,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840602,
+      "num": 840602,
+      "word": "特朗普称能24小时解决俄乌冲突",
+      "onboard_time": 1676974292,
+      "rank": 26,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 835860,
@@ -385,14 +409,6 @@
       "onboard_time": 1676969370,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 776706,
-      "num": 776706,
-      "word": "特朗普称能24小时解决俄乌冲突",
-      "onboard_time": 1676974292,
-      "rank": 26,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 775731,
@@ -619,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600752,
+      "num": 600752,
+      "word": "朱一龙起诉快活嘴食品",
+      "onboard_time": 1676974531,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 599543,
       "num": 599543,
       "word": "新疆天山雪豹宣布退出",
@@ -731,12 +755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 522760,
-      "num": 522760,
-      "word": "朱一龙起诉快活嘴食品",
-      "onboard_time": 1676974531,
-      "rank": 31,
-      "category": "社会新闻,艺人"
+      "raw_hot": 520869,
+      "num": 520869,
+      "word": "ChatGPT",
+      "onboard_time": 1676976331,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 520612,
@@ -761,6 +785,14 @@
       "onboard_time": 1676964990,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 509476,
+      "num": 509476,
+      "word": "北大方正集团财务有限公司进入破产程序",
+      "onboard_time": 1676976210,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 505033,
@@ -827,14 +859,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 471302,
-      "num": 471302,
-      "word": "蒋敦豪董事长",
-      "onboard_time": 1676975316,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 461524,
       "num": 461524,
       "word": "张颂文饭还没放下就营业了",
@@ -849,6 +873,14 @@
       "onboard_time": 1676966429,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457650,
+      "num": 457650,
+      "word": "特朗普称若当选总统先给俄乌打电话",
+      "onboard_time": 1676976573,
+      "rank": 17,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 453668,
@@ -1057,6 +1089,14 @@
       "onboard_time": 1676969730,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 371721,
+      "num": 371721,
+      "word": "当地政府回应16岁少女逃婚事件",
+      "onboard_time": 1676976210,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370997,
@@ -1411,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266120,
+      "num": 266120,
+      "word": "当三个穿青蛙服的人相遇后",
+      "onboard_time": 1676975252,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266099,
       "num": 266099,
       "word": "中国乒乓票房",
@@ -1619,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208131,
+      "num": 208131,
+      "word": "普京对特别军事行动发表评价",
+      "onboard_time": 1676977353,
+      "rank": 35,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 207326,
       "num": 207326,
       "word": "梦回放羊的星星",
@@ -1715,6 +1771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192327,
+      "num": 192327,
+      "word": "郑钦文退赛",
+      "onboard_time": 1676977591,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190563,
       "num": 190563,
       "word": "MOSS服务器流量过载",
@@ -1769,6 +1833,14 @@
       "onboard_time": 1676901930,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181884,
+      "num": 181884,
+      "word": "湖南考研成绩2月21日可查",
+      "onboard_time": 1676977771,
+      "rank": 43,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 181414,
@@ -1931,14 +2003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152248,
-      "num": 152248,
-      "word": "到底是考研难还是读研难",
-      "onboard_time": 1676973931,
-      "rank": 46,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 145535,
       "num": 145535,
       "word": "多地21日起可查考研初试成绩",
@@ -1963,20 +2027,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 143229,
-      "num": 143229,
-      "word": "当三个穿青蛙服的人相遇后",
-      "onboard_time": 1676975252,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142232,
       "num": 142232,
       "word": "进藏列车载歌载舞大爷夹中间懵了",
       "onboard_time": 1676943154,
       "rank": 48,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 141211,
+      "num": 141211,
+      "word": "宋亚轩补妆路透",
+      "onboard_time": 1676976390,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139660,
