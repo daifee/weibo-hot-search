@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677006957409,
+  "endTime": 1677008026334,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -46003,6 +46003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119643,
+      "num": 119643,
+      "word": "你接受婚后和公婆同住吗",
+      "onboard_time": 1677004513,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119075,
       "num": 119075,
       "word": "钱锟直播中卸妆",
@@ -46601,14 +46609,6 @@
       "onboard_time": 1675156961,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 99630,
-      "num": 99630,
-      "word": "你接受婚后和公婆同住吗",
-      "onboard_time": 1677004513,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 99035,
@@ -47731,6 +47731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 40472,
+      "num": 40472,
+      "word": "宠物医院患者用喵喵拳攻击医生",
+      "onboard_time": 1677006372,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40427,
       "num": 40427,
       "word": "邓超鹿晗东北报菜名",
@@ -47777,6 +47785,14 @@
       "onboard_time": 1675890432,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 37334,
+      "num": 37334,
+      "word": "利物浦vs皇马",
+      "onboard_time": 1677005294,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 37010,
@@ -47875,14 +47891,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 32892,
-      "num": 32892,
-      "word": "利物浦vs皇马",
-      "onboard_time": 1677005294,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 32361,
       "num": 1158598,
       "word": "向着新目标奋楫再出发",
@@ -47969,14 +47977,6 @@
       "onboard_time": 1675508428,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27525,
-      "num": 27525,
-      "word": "宠物医院患者用喵喵拳攻击医生",
-      "onboard_time": 1677006372,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26846,
