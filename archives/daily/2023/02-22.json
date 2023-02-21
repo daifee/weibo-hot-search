@@ -1,0 +1,411 @@
+{
+  "startTime": 1676996734513,
+  "endTime": 1676996734513,
+  "band_list": [
+    {
+      "raw_hot": 3129328,
+      "num": 3129328,
+      "word": "丫丫",
+      "onboard_time": 1676991157,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1439293,
+      "num": 1439293,
+      "word": "ofo小黄车已彻底无法登录",
+      "onboard_time": 1676992657,
+      "rank": 1,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1277368,
+      "num": 312304,
+      "word": "河北保定发生一起重大刑案",
+      "onboard_time": 1676989354,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1135813,
+      "num": 1135813,
+      "word": "来电显示96110一定要接",
+      "onboard_time": 1676989839,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954941,
+      "num": 954941,
+      "word": "多地学校因新冠甲流等停课",
+      "onboard_time": 1676993194,
+      "rank": 4,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 748053,
+      "num": 748053,
+      "word": "甲流",
+      "onboard_time": 1676991039,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611957,
+      "num": 339401,
+      "word": "酒店回应客房内发现男子遗体",
+      "onboard_time": 1676994692,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505975,
+      "num": 505975,
+      "word": "全球第5例艾滋病治愈者出现",
+      "onboard_time": 1676973099,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477331,
+      "num": 477331,
+      "word": "研究发现艾滋病或有望治愈",
+      "onboard_time": 1676992477,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435510,
+      "num": 435510,
+      "word": "广州漫展",
+      "onboard_time": 1676991767,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 343241,
+      "num": 343241,
+      "word": "陈晓听陈妍希叫刘德华老公很开心",
+      "onboard_time": 1676980709,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 328415,
+      "num": 328415,
+      "word": "内娱真人版网球王子",
+      "onboard_time": 1676983474,
+      "rank": 11,
+      "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 328342,
+      "num": 1270067,
+      "word": "大熊猫香香回家现场画面",
+      "onboard_time": 1676988814,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312473,
+      "num": 312473,
+      "word": "夏花 BE",
+      "onboard_time": 1676982574,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 309555,
+      "num": 309555,
+      "word": "摆拍发3000收回2800主播被行拘",
+      "onboard_time": 1676988274,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300486,
+      "num": 300486,
+      "word": "到底是考研难还是读研难",
+      "onboard_time": 1676973931,
+      "rank": 15,
+      "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 274737,
+      "num": 274737,
+      "word": "日本人有多舍不得中国大熊猫香香",
+      "onboard_time": 1676970092,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265244,
+      "num": 265244,
+      "word": "香香已抵达成都",
+      "onboard_time": 1676987437,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243759,
+      "num": 243759,
+      "word": "张婧仪直播",
+      "onboard_time": 1676990914,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242281,
+      "num": 242281,
+      "word": "家长是懂给我对象起外号的",
+      "onboard_time": 1676993735,
+      "rank": 19,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 225258,
+      "num": 225258,
+      "word": "林志颖问谁还记得放羊的星星这部剧",
+      "onboard_time": 1676986714,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 207687,
+      "num": 207687,
+      "word": "我们的日子 严冰",
+      "onboard_time": 1676985454,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197995,
+      "num": 197995,
+      "word": "试管婴儿被放错胚胎事件初步和解",
+      "onboard_time": 1676987072,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192809,
+      "num": 192809,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1676971712,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 191303,
+      "num": 191303,
+      "word": "汪东城cosJOJO",
+      "onboard_time": 1676996429,
+      "rank": 24,
+      "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 184491,
+      "num": 184491,
+      "word": "安欣陆泽宁吻戏",
+      "onboard_time": 1676985154,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184223,
+      "num": 155821,
+      "word": "武林外传演男女分手时内心活动",
+      "onboard_time": 1676995468,
+      "rank": 30,
+      "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 180874,
+      "num": 180874,
+      "word": "女子连刷10个差评商家找上门怒怼",
+      "onboard_time": 1676978251,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174156,
+      "num": 174156,
+      "word": "香香回国是为寻找合适伴侣",
+      "onboard_time": 1676991275,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170103,
+      "num": 153071,
+      "word": "专家称弄错试管婴儿的医院应受处罚",
+      "onboard_time": 1676994871,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158280,
+      "num": 158280,
+      "word": "暨南大学考研",
+      "onboard_time": 1676972436,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 156093,
+      "num": 156093,
+      "word": "杨洋方已委请律师介入处理",
+      "onboard_time": 1676986293,
+      "rank": 29,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 149891,
+      "num": 149891,
+      "word": "普京对特别军事行动发表评价",
+      "onboard_time": 1676977353,
+      "rank": 32,
+      "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 144510,
+      "num": 144510,
+      "word": "ChatGPT",
+      "onboard_time": 1676976331,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 143921,
+      "num": 143921,
+      "word": "东北人第一次和南方人合租",
+      "onboard_time": 1676988453,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 138988,
+      "num": 138988,
+      "word": "这美甲多少有点荒谬了",
+      "onboard_time": 1676984502,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 126605,
+      "num": 126605,
+      "word": "HYBE称会帮SMTOWN艺人闯美",
+      "onboard_time": 1676982210,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126277,
+      "num": 126277,
+      "word": "毒舌律师香港首部票房破亿华语片",
+      "onboard_time": 1676992177,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 124986,
+      "num": 124986,
+      "word": "李兰迪绿色毛衣下午茶随拍",
+      "onboard_time": 1676991817,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113908,
+      "num": 113908,
+      "word": "雾都雾里七个八",
+      "onboard_time": 1676979507,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112820,
+      "num": 112820,
+      "word": "蒋敦豪董事长",
+      "onboard_time": 1676975316,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109289,
+      "num": 109289,
+      "word": "吴京呼吁网友为刘培强复活支招",
+      "onboard_time": 1676985213,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 104142,
+      "num": 104142,
+      "word": "王楚钦花在混双时间非常多",
+      "onboard_time": 1676989414,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103313,
+      "num": 103313,
+      "word": "一张九九乘法表拿捏外国小孩",
+      "onboard_time": 1676988640,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91291,
+      "num": 91291,
+      "word": "WBG战胜iG",
+      "onboard_time": 1676987675,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 91008,
+      "num": 91008,
+      "word": "章子怡 中戏考官",
+      "onboard_time": 1676968832,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89403,
+      "num": 89403,
+      "word": "我们的日子",
+      "onboard_time": 1676987613,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 87193,
+      "num": 87193,
+      "word": "金晨剪刘海vlog",
+      "onboard_time": 1676993016,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84340,
+      "num": 84340,
+      "word": "半熟恋人",
+      "onboard_time": 1676980049,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 82992,
+      "num": 82992,
+      "word": "夜燕白 空降",
+      "onboard_time": 1676972550,
+      "rank": 49,
+      "category": "影视"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#高质量发展看中国#"
+    }
+  ]
+}
