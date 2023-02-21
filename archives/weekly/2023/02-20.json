@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677015230254,
+  "endTime": 1677017950791,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -4963,6 +4963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126511,
+      "num": 126511,
+      "word": "利物浦vs皇马",
+      "onboard_time": 1677005294,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125810,
       "num": 125810,
       "word": "社会我玲姐 衣服越粉打人越狠",
@@ -5123,14 +5131,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 82575,
-      "num": 82575,
-      "word": "利物浦vs皇马",
-      "onboard_time": 1677005294,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 78823,
       "num": 2151273,
       "word": "写意中国探寻汉字起源",
@@ -5163,6 +5163,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 60030,
+      "num": 31772,
+      "word": "俄罗斯要求美国从乌克兰撤军",
+      "onboard_time": 1677017233,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
       "raw_hot": 58987,
       "num": 58987,
       "word": "曼联3比0莱斯特城",
@@ -5176,6 +5184,14 @@
       "word": "走进区域看发展",
       "onboard_time": 1676900011,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54915,
+      "num": 54915,
+      "word": "宠物医院患者用喵喵拳攻击医生",
+      "onboard_time": 1677006372,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -5227,14 +5243,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 41799,
-      "num": 41799,
-      "word": "宠物医院患者用喵喵拳攻击医生",
-      "onboard_time": 1677006372,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35992,
       "num": 1702928,
       "word": "up新时代中国",
@@ -5275,28 +5283,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24512,
-      "num": 24512,
-      "word": "魏大勋晒一张库存照",
-      "onboard_time": 1676834411,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 25593,
+      "num": 25593,
+      "word": "种地吧 真实",
+      "onboard_time": 1677011232,
+      "rank": 32,
+      "category": "综艺"
     },
     {
-      "raw_hot": 23669,
-      "num": 23669,
+      "raw_hot": 24515,
+      "num": 24515,
       "word": "欧冠联赛",
       "onboard_time": 1677009372,
       "rank": 37,
       "category": "体育"
     },
     {
-      "raw_hot": 20140,
-      "num": 20140,
-      "word": "种地吧 真实",
-      "onboard_time": 1677011232,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 24512,
+      "num": 24512,
+      "word": "魏大勋晒一张库存照",
+      "onboard_time": 1676834411,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 16352,

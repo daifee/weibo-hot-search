@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677015230254,
+  "endTime": 1677017950791,
   "band_list": [
     {
       "raw_hot": 3129328,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126511,
+      "num": 126511,
+      "word": "利物浦vs皇马",
+      "onboard_time": 1677005294,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126277,
       "num": 126277,
       "word": "毒舌律师香港首部票房破亿华语片",
@@ -459,20 +467,28 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 82575,
-      "num": 82575,
-      "word": "利物浦vs皇马",
-      "onboard_time": 1677005294,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 70605,
       "num": 70605,
       "word": "刘三姐黄婉秋病危昏迷",
       "onboard_time": 1676985693,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60030,
+      "num": 31772,
+      "word": "俄罗斯要求美国从乌克兰撤军",
+      "onboard_time": 1677017233,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 54915,
+      "num": 54915,
+      "word": "宠物医院患者用喵喵拳攻击医生",
+      "onboard_time": 1677006372,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44906,
@@ -491,14 +507,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 41799,
-      "num": 41799,
-      "word": "宠物医院患者用喵喵拳攻击医生",
-      "onboard_time": 1677006372,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27975,
       "num": 27975,
       "word": "萌娃剃头图鉴",
@@ -507,20 +515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23669,
-      "num": 23669,
-      "word": "欧冠联赛",
-      "onboard_time": 1677009372,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 20140,
-      "num": 20140,
+      "raw_hot": 25593,
+      "num": 25593,
       "word": "种地吧 真实",
       "onboard_time": 1677011232,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24515,
+      "num": 24515,
+      "word": "欧冠联赛",
+      "onboard_time": 1677009372,
+      "rank": 37,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
