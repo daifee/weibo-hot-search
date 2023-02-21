@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676957630156,
+  "endTime": 1676960661939,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -163,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1034856,
+      "num": 1034856,
+      "word": "工作群发不雅信息涉事官员被免职",
+      "onboard_time": 1676957669,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1023562,
       "num": 1023562,
       "word": "全智贤伦敦时装周生图",
@@ -195,6 +203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 932842,
+      "num": 932842,
+      "word": "会计专硕",
+      "onboard_time": 1676957730,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 912105,
+      "num": 643366,
+      "word": "男子多次猥亵女子称自己易冲动",
+      "onboard_time": 1676957372,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 877419,
       "num": 877419,
       "word": "网购iPhone14开箱发现是IQOO",
@@ -224,6 +248,14 @@
       "word": "四六级查分",
       "onboard_time": 1676946212,
       "rank": 7,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 827375,
+      "num": 827375,
+      "word": "考研调剂",
+      "onboard_time": 1676958330,
+      "rank": 6,
       "category": "教育"
     },
     {
@@ -403,6 +435,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 546235,
+      "num": 546235,
+      "word": "新传",
+      "onboard_time": 1676957431,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 540295,
       "num": 540295,
       "word": "四郎去给孩子上户口了",
@@ -531,6 +571,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 413820,
+      "num": 413820,
+      "word": "宁波人社局回应60岁快递员意外猝死",
+      "onboard_time": 1676958090,
+      "rank": 18,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 413419,
       "num": 413419,
       "word": "金智秀MV拍摄中",
@@ -651,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358822,
+      "num": 358822,
+      "word": "张小泉菜刀拍蒜断裂再现舆情风波",
+      "onboard_time": 1676958811,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355372,
       "num": 355372,
       "word": "汪峰unfollow巡演官宣",
@@ -761,6 +817,14 @@
       "onboard_time": 1676945792,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 303974,
+      "num": 303974,
+      "word": "全球最大四天工作制试验结果出炉",
+      "onboard_time": 1676958691,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301316,
@@ -963,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230392,
-      "num": 230392,
-      "word": "新传",
-      "onboard_time": 1676957431,
-      "rank": 39,
-      "category": "教育"
-    },
-    {
       "raw_hot": 227320,
       "num": 227320,
       "word": "美国五霸俱全害人害己",
@@ -985,6 +1041,14 @@
       "onboard_time": 1676939370,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224747,
+      "num": 224747,
+      "word": "韩剧我的大叔 翻拍",
+      "onboard_time": 1676960369,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 224339,
@@ -1115,12 +1179,28 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 193241,
-      "num": 193241,
+      "raw_hot": 195843,
+      "num": 195843,
+      "word": "张真源涂鸦衬衫造型路透",
+      "onboard_time": 1676960188,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194300,
+      "num": 194300,
       "word": "隆力奇回应董事长被指涉非法集资",
       "onboard_time": 1676957309,
       "rank": 45,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 194124,
+      "num": 194124,
+      "word": "张艺兴绿色外套机场路透",
+      "onboard_time": 1676959529,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190563,
@@ -1147,20 +1227,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186227,
-      "num": 186227,
-      "word": "男子多次猥亵女子称自己易冲动",
-      "onboard_time": 1676957372,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186183,
       "num": 186183,
       "word": "赵露思2022wetv最佳女主感言",
       "onboard_time": 1676904934,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183065,
+      "num": 183065,
+      "word": "半熟恋人2男五女五来了",
+      "onboard_time": 1676959112,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 181929,
@@ -1243,6 +1323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156631,
+      "num": 156631,
+      "word": "官方通报城改办主任群发不雅信息",
+      "onboard_time": 1676957553,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 154362,
       "num": 154362,
       "word": "周深机场签名被反送张颂文签名照",
@@ -1257,6 +1345,14 @@
       "onboard_time": 1676937026,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150488,
+      "num": 150488,
+      "word": "高启盛的走路姿势原来是家族遗传",
+      "onboard_time": 1676960609,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 145535,
