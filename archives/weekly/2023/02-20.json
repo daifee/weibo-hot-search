@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677008026334,
+  "endTime": 1677010844911,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -5187,6 +5187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 47403,
+      "num": 47403,
+      "word": "利物浦vs皇马",
+      "onboard_time": 1677005294,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46545,
       "num": 46545,
       "word": "虞书欣冷到鹅叫",
@@ -5219,20 +5227,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 40472,
-      "num": 40472,
+      "raw_hot": 41799,
+      "num": 41799,
       "word": "宠物医院患者用喵喵拳攻击医生",
       "onboard_time": 1677006372,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37334,
-      "num": 37334,
-      "word": "利物浦vs皇马",
-      "onboard_time": 1677005294,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 35992,
@@ -5281,6 +5281,14 @@
       "onboard_time": 1676834411,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18486,
+      "num": 18486,
+      "word": "欧冠联赛",
+      "onboard_time": 1677009372,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 16352,
