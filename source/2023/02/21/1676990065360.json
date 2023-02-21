@@ -1,0 +1,410 @@
+{
+  "runTime": 1676990065360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1127332,
+        "num": 1127332,
+        "word": "林志颖问谁还记得放羊的星星这部剧",
+        "onboard_time": 1676986714,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1059814,
+        "num": 1059814,
+        "word": "试管婴儿被放错胚胎事件初步和解",
+        "onboard_time": 1676987072,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294372,
+        "num": 831979,
+        "word": "大熊猫香香回家现场画面",
+        "onboard_time": 1676988814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740606,
+        "num": 740606,
+        "word": "全球第5例艾滋病治愈者出现",
+        "onboard_time": 1676973099,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682645,
+        "num": 682645,
+        "word": "陈晓听陈妍希叫刘德华老公很开心",
+        "onboard_time": 1676980709,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674330,
+        "num": 674330,
+        "word": "内娱真人版网球王子",
+        "onboard_time": 1676983474,
+        "rank": 5,
+        "category": "作品衍生,体育"
+      },
+      {
+        "raw_hot": 664664,
+        "num": 664664,
+        "word": "我们的日子 严冰",
+        "onboard_time": 1676985454,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 638672,
+        "num": 638672,
+        "word": "女子试戴金戒指断两半遭索赔",
+        "onboard_time": 1676984559,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600981,
+        "num": 600981,
+        "word": "杨洋方已委请律师介入处理",
+        "onboard_time": 1676986293,
+        "rank": 8,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 573889,
+        "num": 573889,
+        "word": "香香已抵达成都",
+        "onboard_time": 1676987437,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749344,
+        "num": 530457,
+        "word": "河北保定发生一起重大刑案",
+        "onboard_time": 1676989354,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465007,
+        "num": 465007,
+        "word": "摆拍发3000收回2800主播被行拘",
+        "onboard_time": 1676988274,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438424,
+        "num": 438424,
+        "word": "夏花 BE",
+        "onboard_time": 1676982574,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434157,
+        "num": 434157,
+        "word": "到底是考研难还是读研难",
+        "onboard_time": 1676973931,
+        "rank": 13,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 403742,
+        "num": 403742,
+        "word": "日本人有多舍不得中国大熊猫香香",
+        "onboard_time": 1676970092,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395683,
+        "num": 395683,
+        "word": "吴京呼吁网友为刘培强复活支招",
+        "onboard_time": 1676985213,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395433,
+        "num": 395433,
+        "word": "安欣陆泽宁吻戏",
+        "onboard_time": 1676985154,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 385789,
+        "num": 385789,
+        "word": "这美甲多少有点荒谬了",
+        "onboard_time": 1676984502,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380635,
+        "num": 380635,
+        "word": "东北人第一次和南方人合租",
+        "onboard_time": 1676988453,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 445145,
+        "num": 369616,
+        "word": "异地民警郑州办案猥亵嫌疑人之妻被拘",
+        "onboard_time": 1676981910,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 316976,
+        "num": 316976,
+        "word": "女子连刷10个差评商家找上门怒怼",
+        "onboard_time": 1676978251,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304931,
+        "num": 304931,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1676971712,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304787,
+        "num": 304787,
+        "word": "费启鸣曾担心演不好会被换掉",
+        "onboard_time": 1676987313,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304033,
+        "num": 304033,
+        "word": "因身揣逃犯身份证智障男子坐牢9年",
+        "onboard_time": 1676983413,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302284,
+        "num": 302284,
+        "word": "一张九九乘法表拿捏外国小孩",
+        "onboard_time": 1676988640,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290116,
+        "num": 290116,
+        "word": "WBG战胜iG",
+        "onboard_time": 1676987675,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288731,
+        "num": 288731,
+        "word": "刘三姐黄婉秋病危昏迷",
+        "onboard_time": 1676985693,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284965,
+        "num": 284965,
+        "word": "我们的日子",
+        "onboard_time": 1676987613,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250449,
+        "num": 250449,
+        "word": "王楚钦花在混双时间非常多",
+        "onboard_time": 1676989414,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246240,
+        "num": 246240,
+        "word": "章子怡 中戏考官",
+        "onboard_time": 1676968832,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 884667,
+        "num": 244662,
+        "word": "男子入住酒店41天后被发现死于客房",
+        "onboard_time": 1676980590,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242428,
+        "num": 242428,
+        "word": "普京对特别军事行动发表评价",
+        "onboard_time": 1676977353,
+        "rank": 31,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 235932,
+        "num": 235932,
+        "word": "HYBE称会帮SMTOWN艺人闯美",
+        "onboard_time": 1676982210,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 883547,
+        "num": 235588,
+        "word": "老人被确认车祸死亡11年后死而复生",
+        "onboard_time": 1676970871,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234750,
+        "num": 234750,
+        "word": "雾都雾里七个八",
+        "onboard_time": 1676979507,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227199,
+        "num": 227199,
+        "word": "俞敏洪说想给董宇辉在北京买套房子",
+        "onboard_time": 1676970810,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226374,
+        "num": 226374,
+        "word": "马嘉祺丁程鑫一起向我投来赞赏的目光",
+        "onboard_time": 1676986112,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212846,
+        "num": 212846,
+        "word": "暨南大学考研",
+        "onboard_time": 1676972436,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 193238,
+        "num": 193238,
+        "word": "邓紫棋用西语勾起回忆杀",
+        "onboard_time": 1676988575,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193011,
+        "num": 193011,
+        "word": "ChatGPT",
+        "onboard_time": 1676976331,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 192228,
+        "num": 192228,
+        "word": "半熟恋人",
+        "onboard_time": 1676980049,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192196,
+        "num": 192196,
+        "word": "蒋敦豪董事长",
+        "onboard_time": 1676975316,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188527,
+        "num": 188527,
+        "word": "来电显示96110一定要接",
+        "onboard_time": 1676989839,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169956,
+        "num": 169956,
+        "word": "凉山老人回应慈善主播发钱系摆拍",
+        "onboard_time": 1676989778,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169730,
+        "num": 169730,
+        "word": "夜燕白 空降",
+        "onboard_time": 1676972550,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164892,
+        "num": 164892,
+        "word": "WBG对战iG",
+        "onboard_time": 1676983653,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164218,
+        "num": 164218,
+        "word": "邢菲武庚纪绿衣造型路透",
+        "onboard_time": 1676989594,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161674,
+        "num": 161674,
+        "word": "蔡徐坤米兰时装周生图",
+        "onboard_time": 1676980952,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1986446,
+        "num": 160315,
+        "word": "网友曝腾讯视频半夜跳转恐怖片",
+        "onboard_time": 1676986052,
+        "rank": 48,
+        "category": "科技,影视"
+      },
+      {
+        "raw_hot": 146710,
+        "num": 146710,
+        "word": "主播在凉山发钱被指发3000收回2800",
+        "onboard_time": 1676989967,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届二中全会召开时间#"
+    }
+  }
+}
