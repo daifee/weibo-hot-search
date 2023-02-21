@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676945125751,
+  "endTime": 1676947936310,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -91,6 +91,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 7662033,
+      "num": 7662033,
+      "word": "考研成绩",
+      "onboard_time": 1676809533,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 6997376,
       "num": 6997376,
       "word": "石家庄临时空中管制已解除",
@@ -113,14 +121,6 @@
       "onboard_time": 1675832618,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5454285,
-      "num": 5454285,
-      "word": "考研成绩",
-      "onboard_time": 1676809533,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 4816423,
@@ -5579,6 +5579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1099447,
+      "num": 1099447,
+      "word": "国人买iPhone14要花12%年薪",
+      "onboard_time": 1676946330,
+      "rank": 3,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 1098006,
       "num": 1098006,
       "word": "3岁女童喊脚疼被确诊癌症晚期",
@@ -6361,6 +6369,14 @@
       "onboard_time": 1676943270,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1017104,
+      "num": 1017104,
+      "word": "弄错试管婴儿涉事医院称没必要计较",
+      "onboard_time": 1676946151,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1016107,
@@ -8435,6 +8451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 835860,
+      "num": 835860,
+      "word": "管综",
+      "onboard_time": 1676945130,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 835814,
       "num": 835814,
       "word": "90后小伙以为健康体检一身老年病",
@@ -8489,6 +8513,14 @@
       "onboard_time": 1676256987,
       "rank": 40,
       "category": "科技"
+    },
+    {
+      "raw_hot": 833401,
+      "num": 833401,
+      "word": "四六级查分",
+      "onboard_time": 1676946212,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 831023,
@@ -9667,6 +9699,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 760211,
+      "num": 760211,
+      "word": "王曼昱张瑞发烧退赛",
+      "onboard_time": 1676945492,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 759931,
       "num": 731619,
       "word": "程耳王一博半夜去看无名",
@@ -10784,6 +10824,14 @@
       "word": "3斤肉上桌只剩1斤多店家称正常",
       "onboard_time": 1675481245,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 709439,
+      "num": 709439,
+      "word": "60岁中通快递分拣工凌晨在岗位猝死",
+      "onboard_time": 1676946811,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -13449,6 +13497,14 @@
       "onboard_time": 1676180489,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598341,
+      "num": 598341,
+      "word": "演制协要求SMTOWN给李秀满下跪道歉",
+      "onboard_time": 1676946871,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 598186,
@@ -16545,6 +16601,14 @@
       "onboard_time": 1675822584,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 505033,
+      "num": 505033,
+      "word": "时代少年团 演唱会",
+      "onboard_time": 1676946151,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 504950,
@@ -23059,6 +23123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360314,
+      "num": 360314,
+      "word": "会和不喜欢但合适的人结婚吗",
+      "onboard_time": 1676946811,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 360246,
       "num": 360246,
       "word": "行驶中小车后备箱塞人露双脚",
@@ -23129,6 +23201,14 @@
       "onboard_time": 1676253505,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359331,
+      "num": 359331,
+      "word": "宋祖儿刘宇宁红衣背影路透",
+      "onboard_time": 1676946510,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 359302,
@@ -23649,6 +23729,14 @@
       "onboard_time": 1675802952,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350670,
+      "num": 350670,
+      "word": "虞书欣张凌赫蒙眼牵手路透",
+      "onboard_time": 1676944590,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 350329,
@@ -24281,6 +24369,14 @@
       "onboard_time": 1676039011,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339419,
+      "num": 339419,
+      "word": "来自姐姐的安慰粗暴但有效",
+      "onboard_time": 1676943747,
+      "rank": 47,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 339280,
@@ -25531,6 +25627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318552,
+      "num": 318552,
+      "word": "张嘉倪出发米兰时装周",
+      "onboard_time": 1676947231,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 318479,
       "num": 318479,
       "word": "媳妇帮婆婆化妆美貌还原儿子惊呆",
@@ -26443,6 +26547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304984,
+      "num": 304984,
+      "word": "剧本杀电影欢迎再次登录",
+      "onboard_time": 1676945792,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304964,
       "num": 304964,
       "word": "和疯驴子一起滑雪",
@@ -26784,6 +26896,14 @@
       "word": "张若昀说步履坚定对簿公堂纠错到底",
       "onboard_time": 1675913128,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 301316,
+      "num": 301316,
+      "word": "何冉病情恶化",
+      "onboard_time": 1676942309,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -27483,6 +27603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 291134,
+      "num": 291134,
+      "word": "复旦MOSS团队回应内测",
+      "onboard_time": 1676944229,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 291034,
       "num": 291034,
       "word": "全国多地现巨型玫瑰",
@@ -27931,6 +28059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286155,
+      "num": 286155,
+      "word": "爱奇艺修改会员投屏优酷腾讯未跟进",
+      "onboard_time": 1676945009,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 285938,
       "num": 285938,
       "word": "李硕珉跳了antifragile",
@@ -28171,14 +28307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 282567,
-      "num": 282567,
-      "word": "虞书欣张凌赫蒙眼牵手路透",
-      "onboard_time": 1676944590,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 282490,
       "num": 259142,
       "word": "白鹿牛仔外套低马尾造型上班路透",
@@ -28313,6 +28441,14 @@
       "onboard_time": 1676013873,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280631,
+      "num": 280631,
+      "word": "刘雯出发米兰时装周",
+      "onboard_time": 1676944048,
+      "rank": 30,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 280622,
@@ -28513,14 +28649,6 @@
       "onboard_time": 1676428409,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 278256,
-      "num": 278256,
-      "word": "来自姐姐的安慰粗暴但有效",
-      "onboard_time": 1676943747,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 278234,
@@ -31467,6 +31595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244454,
+      "num": 244454,
+      "word": "河南省考",
+      "onboard_time": 1676945432,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244403,
       "num": 244403,
       "word": "重紫特效",
@@ -31993,14 +32129,6 @@
       "onboard_time": 1675929568,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238489,
-      "num": 238489,
-      "word": "刘雯出发米兰时装周",
-      "onboard_time": 1676944048,
-      "rank": 30,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 238474,
@@ -32569,14 +32697,6 @@
       "onboard_time": 1676470114,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231823,
-      "num": 231823,
-      "word": "何冉病情恶化",
-      "onboard_time": 1676942309,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 231813,
@@ -34041,6 +34161,14 @@
       "onboard_time": 1675858650,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216321,
+      "num": 216321,
+      "word": "MOSS的最大短板是中文水平不够高",
+      "onboard_time": 1676945492,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 216304,
@@ -36491,14 +36619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192706,
-      "num": 192706,
-      "word": "复旦MOSS团队回应内测",
-      "onboard_time": 1676944229,
-      "rank": 37,
-      "category": "科技"
-    },
-    {
       "raw_hot": 192588,
       "num": 192588,
       "word": "电影断网定档3月3日",
@@ -37065,6 +37185,14 @@
       "onboard_time": 1676816913,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188921,
+      "num": 188921,
+      "word": "韩版七月与安生新预告",
+      "onboard_time": 1676944710,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 188861,
@@ -38499,14 +38627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178931,
-      "num": 178931,
-      "word": "韩版七月与安生新预告",
-      "onboard_time": 1676944710,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 178881,
       "num": 178881,
       "word": "曾黎山海赋戏腔",
@@ -38945,6 +39065,14 @@
       "onboard_time": 1675389566,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175062,
+      "num": 175062,
+      "word": "英语一",
+      "onboard_time": 1676947890,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 175051,
@@ -39849,6 +39977,14 @@
       "onboard_time": 1675484308,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 168724,
+      "num": 168724,
+      "word": "MOSS服务器流量过载",
+      "onboard_time": 1676947710,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 168699,
@@ -43673,14 +43809,6 @@
       "onboard_time": 1675213228,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126340,
-      "num": 126340,
-      "word": "爱奇艺修改会员投屏优酷腾讯未跟进",
-      "onboard_time": 1676945009,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 126267,
