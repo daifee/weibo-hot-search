@@ -1,14 +1,30 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676936025136,
+  "endTime": 1676943820229,
   "band_list": [
     {
-      "raw_hot": 1841749,
-      "num": 1841749,
+      "raw_hot": 4959538,
+      "num": 4959538,
       "word": "考研成绩",
       "onboard_time": 1676934439,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2057960,
+      "num": 2057960,
+      "word": "考研国家线",
+      "onboard_time": 1676942906,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1809009,
+      "num": 1809009,
+      "word": "父母26万彩礼卖掉女儿或涉罪",
+      "onboard_time": 1676938648,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1212960,
@@ -35,12 +51,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1103820,
+      "num": 1103820,
+      "word": "10名学生阳性该不该动辄停课",
+      "onboard_time": 1676941470,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1016107,
       "num": 1016107,
       "word": "女子住着大别墅欠5000不还成老赖",
       "onboard_time": 1676921173,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 800931,
+      "num": 800931,
+      "word": "未拆封初代iPhone拍出6.3万美元",
+      "onboard_time": 1676937446,
+      "rank": 5,
+      "category": "科技"
     },
     {
       "raw_hot": 771739,
@@ -51,12 +83,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 736375,
+      "num": 736375,
+      "word": "四六级",
+      "onboard_time": 1676939848,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 714606,
       "num": 714606,
       "word": "河南人口自然增长率62年来首现负增长",
       "onboard_time": 1676931313,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710334,
+      "num": 710334,
+      "word": "法硕",
+      "onboard_time": 1676942370,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 693662,
+      "num": 693662,
+      "word": "光渊美术方道歉",
+      "onboard_time": 1676938407,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 625600,
@@ -75,12 +131,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 584319,
+      "num": 584319,
+      "word": "公司回应招助理和单身总经理同住",
+      "onboard_time": 1676940569,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564608,
+      "num": 564608,
+      "word": "王鹤棣新手机壳",
+      "onboard_time": 1676943270,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561521,
       "num": 561521,
       "word": "这是在厕所里安了张床吧",
       "onboard_time": 1676906371,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 549793,
+      "num": 549793,
+      "word": "全智贤伦敦时装周生图",
+      "onboard_time": 1676943628,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 547191,
+      "num": 547191,
+      "word": "俄电视台讨论俄军为何不在拜登访乌时轰炸",
+      "onboard_time": 1676936966,
+      "rank": 15,
+      "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 527195,
+      "num": 527195,
+      "word": "广东省考",
+      "onboard_time": 1676942906,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 520612,
+      "num": 520612,
+      "word": "考研查分通道汇总",
+      "onboard_time": 1676938166,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 518493,
@@ -91,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489363,
+      "num": 489363,
+      "word": "北电导演系模拟考试有赖冠霖",
+      "onboard_time": 1676939909,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484816,
       "num": 484816,
       "word": "这一届考研人有多难",
       "onboard_time": 1676890534,
       "rank": 6,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 453668,
+      "num": 453668,
+      "word": "宋茜泳装随拍",
+      "onboard_time": 1676939548,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 450527,
@@ -115,6 +235,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 413419,
+      "num": 413419,
+      "word": "金智秀MV拍摄中",
+      "onboard_time": 1676940929,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 381989,
       "num": 381989,
       "word": "日本66%的高端外国人才是中国人",
@@ -123,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380507,
+      "num": 380507,
+      "word": "山东省考",
+      "onboard_time": 1676943450,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 378845,
       "num": 378845,
       "word": "复旦团队发布国内首个类ChatGPT模型MOSS",
       "onboard_time": 1676903012,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 370997,
+      "num": 370997,
+      "word": "龙抬头",
+      "onboard_time": 1676935881,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 362077,
@@ -155,6 +299,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 346224,
+      "num": 346224,
+      "word": "解放军是懂龙抬头的",
+      "onboard_time": 1676942009,
+      "rank": 24,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 313863,
+      "num": 313863,
+      "word": "二月二的习俗有哪些",
+      "onboard_time": 1676941708,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 298731,
       "num": 298731,
       "word": "点燃我温暖你韩国开播",
@@ -169,6 +329,14 @@
       "onboard_time": 1676934680,
       "rank": 23,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 281645,
+      "num": 281645,
+      "word": "杨紫199爱白西装造型",
+      "onboard_time": 1676941949,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 272451,
@@ -211,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253869,
-      "num": 253869,
-      "word": "龙抬头",
+      "raw_hot": 263880,
+      "num": 263880,
+      "word": "土耳其南部6.4级地震",
       "onboard_time": 1676935881,
-      "rank": 15,
-      "category": "情感"
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252534,
@@ -225,6 +393,14 @@
       "onboard_time": 1676896826,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248956,
+      "num": 248956,
+      "word": "理性看待医保个人账户改革",
+      "onboard_time": 1676942728,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247524,
@@ -241,6 +417,14 @@
       "onboard_time": 1676906070,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 234238,
+      "num": 234238,
+      "word": "假如狂飙发生在屯子里",
+      "onboard_time": 1676937508,
+      "rank": 31,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 231741,
@@ -267,6 +451,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217357,
+      "num": 217357,
+      "word": "张杰晒照告别曾经如是",
+      "onboard_time": 1676938888,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215725,
+      "num": 215725,
+      "word": "动物园免费3千动物1天看几万游客",
+      "onboard_time": 1676918834,
+      "rank": 19,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 211830,
+      "num": 211830,
+      "word": "何冉病情恶化",
+      "onboard_time": 1676942309,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209903,
       "num": 209903,
       "word": "东奥崩了",
@@ -281,6 +489,30 @@
       "onboard_time": 1676904994,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203657,
+      "num": 203657,
+      "word": "威少换球队不搬家",
+      "onboard_time": 1676939189,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203655,
+      "num": 203655,
+      "word": "上岸壁纸",
+      "onboard_time": 1676937508,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 199814,
+      "num": 199814,
+      "word": "为什么在学校没见过我",
+      "onboard_time": 1676936725,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 186183,
@@ -299,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174899,
-      "num": 174899,
-      "word": "动物园免费3千动物1天看几万游客",
-      "onboard_time": 1676918834,
-      "rank": 19,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 173670,
       "num": 173670,
       "word": "水哥变帅了",
       "onboard_time": 1676884649,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172676,
+      "num": 172676,
+      "word": "黄奕新剧身材",
+      "onboard_time": 1676899593,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 168023,
@@ -355,14 +587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 157325,
-      "num": 157325,
-      "word": "黄奕新剧身材",
-      "onboard_time": 1676899593,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 154362,
       "num": 154362,
       "word": "周深机场签名被反送张颂文签名照",
@@ -371,12 +595,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152944,
+      "num": 152944,
+      "word": "近5年学硕国家线趋势",
+      "onboard_time": 1676943747,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 145535,
       "num": 145535,
       "word": "多地21日起可查考研初试成绩",
       "onboard_time": 1676769146,
       "rank": 33,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 145436,
+      "num": 145436,
+      "word": "来自姐姐的安慰粗暴但有效",
+      "onboard_time": 1676943747,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 142232,
+      "num": 142232,
+      "word": "进藏列车载歌载舞大爷夹中间懵了",
+      "onboard_time": 1676943154,
+      "rank": 48,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 139660,
@@ -393,6 +641,14 @@
       "onboard_time": 1676897129,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 139147,
+      "num": 139147,
+      "word": "二月二",
+      "onboard_time": 1676937026,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 138678,
@@ -507,14 +763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 93558,
-      "num": 93558,
-      "word": "土耳其南部6.4级地震",
-      "onboard_time": 1676935881,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89815,
       "num": 89815,
       "word": "常州一学院已申请远程接吻专利",
@@ -555,8 +803,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 23108,
-      "num": 954465,
+      "raw_hot": 23581,
+      "num": 1891027,
       "word": "走进区域看发展",
       "onboard_time": 1676900011,
       "rank": 2,
