@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676964855572,
+  "endTime": 1676967880290,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -17,6 +17,14 @@
       "onboard_time": 1676942906,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2464589,
+      "num": 540561,
+      "word": "林志颖刘荷娜16年后同框",
+      "onboard_time": 1676967030,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 2258602,
@@ -57,6 +65,14 @@
       "onboard_time": 1676946811,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1454522,
+      "num": 1454522,
+      "word": "情侣报考同校同专业考出同分",
+      "onboard_time": 1676963128,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1426230,
@@ -121,6 +137,14 @@
       "onboard_time": 1676946330,
       "rank": 3,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 1171440,
+      "num": 1171440,
+      "word": "女子多次拒接反诈电话被骗122万元",
+      "onboard_time": 1676964708,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1164811,
@@ -291,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 769829,
-      "num": 512373,
-      "word": "情侣报考同校同专业考出同分",
-      "onboard_time": 1676963128,
-      "rank": 28,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 760211,
       "num": 760211,
       "word": "王曼昱张瑞发烧退赛",
@@ -339,6 +355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 726065,
+      "num": 726065,
+      "word": "孙俪罗晋 乌云之上",
+      "onboard_time": 1676966009,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 714606,
       "num": 714606,
       "word": "河南人口自然增长率62年来首现负增长",
@@ -347,12 +371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695597,
+      "num": 695597,
+      "word": "党和国家机构改革方案",
+      "onboard_time": 1676964329,
+      "rank": 18,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 693662,
       "num": 693662,
       "word": "光渊美术方道歉",
       "onboard_time": 1676938407,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 677257,
+      "num": 677257,
+      "word": "厦门巴厘岛复航往返1800元",
+      "onboard_time": 1676965530,
+      "rank": 7,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 673471,
@@ -425,6 +465,14 @@
       "onboard_time": 1676890049,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 599056,
+      "num": 599056,
+      "word": "李秀满10年分走SMTOWN1308亿韩元",
+      "onboard_time": 1676965290,
+      "rank": 8,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 591988,
@@ -539,12 +587,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513722,
+      "num": 513722,
+      "word": "南派三叔约饭重启主演",
+      "onboard_time": 1676964990,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 505033,
       "num": 505033,
       "word": "时代少年团 演唱会",
       "onboard_time": 1676946151,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 504395,
+      "num": 504395,
+      "word": "内娱男演员待播古装剧造型大赏",
+      "onboard_time": 1676965409,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 499830,
+      "num": 499830,
+      "word": "鞠婧祎象征性的剪两根头发",
+      "onboard_time": 1676967570,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 489363,
@@ -569,6 +641,14 @@
       "onboard_time": 1676890534,
       "rank": 6,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 458556,
+      "num": 458556,
+      "word": "全智贤孙兴慜同框",
+      "onboard_time": 1676966429,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 453668,
@@ -665,14 +745,6 @@
       "onboard_time": 1676943747,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 399587,
-      "num": 399587,
-      "word": "党和国家机构改革方案",
-      "onboard_time": 1676964329,
-      "rank": 18,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 391545,
@@ -955,6 +1027,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 284033,
+      "num": 284033,
+      "word": "多地参加婚检额外奖励婚假",
+      "onboard_time": 1676964209,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283949,
       "num": 283949,
       "word": "为什么用龙抬头来指代二月二",
@@ -1017,6 +1097,14 @@
       "onboard_time": 1676895451,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 270423,
+      "num": 270423,
+      "word": "微软与任天堂签订10年合约",
+      "onboard_time": 1676966371,
+      "rank": 29,
+      "category": "科技,游戏"
     },
     {
       "raw_hot": 268492,
@@ -1091,6 +1179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247452,
+      "num": 247452,
+      "word": "四天工作制会提高工作效率吗",
+      "onboard_time": 1676967208,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246289,
       "num": 246289,
       "word": "星落凝成糖",
@@ -1105,6 +1201,14 @@
       "onboard_time": 1676945432,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 243492,
+      "num": 243492,
+      "word": "杨紫199爱哭戏路透",
+      "onboard_time": 1676967689,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 236713,
@@ -1137,6 +1241,14 @@
       "onboard_time": 1676949511,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228829,
+      "num": 228829,
+      "word": "宋茜白色露背长裙",
+      "onboard_time": 1676966729,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 227320,
@@ -1251,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200095,
+      "num": 200095,
+      "word": "上海总和生育率为0.7",
+      "onboard_time": 1676967510,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199814,
       "num": 199814,
       "word": "为什么在学校没见过我",
@@ -1361,14 +1481,6 @@
       "onboard_time": 1676963429,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 177314,
-      "num": 177314,
-      "word": "多地参加婚检额外奖励婚假",
-      "onboard_time": 1676964209,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177223,
@@ -1499,20 +1611,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148070,
-      "num": 148070,
-      "word": "女子多次拒接反诈电话被骗122万元",
-      "onboard_time": 1676964708,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145535,
       "num": 145535,
       "word": "多地21日起可查考研初试成绩",
       "onboard_time": 1676769146,
       "rank": 33,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 144893,
+      "num": 144893,
+      "word": "陈瑶晒二月二小娜剪头照",
+      "onboard_time": 1676967267,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 143793,
+      "num": 143793,
+      "word": "井柏然夸网友画的兰珏太好了",
+      "onboard_time": 1676964929,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 142232,
@@ -1680,6 +1800,14 @@
       "word": "美国的霸权霸道霸凌及其危害",
       "onboard_time": 1676929032,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35792,
+      "num": 1184314,
+      "word": "up新时代中国",
+      "onboard_time": 1676966729,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
