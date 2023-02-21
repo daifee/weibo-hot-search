@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677004712198,
+  "endTime": 1677006957409,
   "band_list": [
     {
       "raw_hot": 3129328,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99630,
+      "num": 99630,
+      "word": "你接受婚后和公婆同住吗",
+      "onboard_time": 1677004513,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91291,
       "num": 91291,
       "word": "WBG战胜iG",
@@ -475,6 +483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 32892,
+      "num": 32892,
+      "word": "利物浦vs皇马",
+      "onboard_time": 1677005294,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27975,
       "num": 27975,
       "word": "萌娃剃头图鉴",
@@ -483,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25458,
-      "num": 25458,
-      "word": "你接受婚后和公婆同住吗",
-      "onboard_time": 1677004513,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 27525,
+      "num": 27525,
+      "word": "宠物医院患者用喵喵拳攻击医生",
+      "onboard_time": 1677006372,
+      "rank": 33,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
