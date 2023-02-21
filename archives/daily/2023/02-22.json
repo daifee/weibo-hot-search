@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677011689887,
+  "endTime": 1677014237523,
   "band_list": [
     {
       "raw_hot": 3129328,
@@ -467,8 +467,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61462,
-      "num": 61462,
+      "raw_hot": 68773,
+      "num": 68773,
       "word": "利物浦vs皇马",
       "onboard_time": 1677005294,
       "rank": 24,
@@ -507,12 +507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19057,
-      "num": 19057,
+      "raw_hot": 23669,
+      "num": 23669,
       "word": "欧冠联赛",
       "onboard_time": 1677009372,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19920,
+      "num": 19920,
+      "word": "种地吧 真实",
+      "onboard_time": 1677011232,
+      "rank": 32,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
