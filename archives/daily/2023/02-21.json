@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676971152521,
+  "endTime": 1676972030978,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2994824,
-      "num": 597488,
+      "num": 676052,
       "word": "林志颖刘荷娜16年后同框",
       "onboard_time": 1676967030,
       "rank": 10,
@@ -48,6 +48,14 @@
       "word": "未婚夫去世准公公写信求留下孩子",
       "onboard_time": 1676951433,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1959220,
+      "num": 1959220,
+      "word": "老人被确认车祸死亡11年后死而复生",
+      "onboard_time": 1676970871,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 979489,
-      "num": 576827,
+      "num": 663245,
       "word": "鞠婧祎象征性的剪两根头发",
       "onboard_time": 1676967570,
       "rank": 14,
@@ -307,6 +315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 831974,
+      "num": 831974,
+      "word": "日本人有多舍不得中国大熊猫香香",
+      "onboard_time": 1676970092,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 827911,
       "num": 544096,
       "word": "高校回应女厕设置男性小便池",
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 790379,
-      "num": 581949,
+      "num": 661363,
       "word": "高圆圆的仪态",
       "onboard_time": 1676969370,
       "rank": 11,
@@ -371,6 +387,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 748909,
+      "num": 672860,
+      "word": "30岁女程序员录用后又以未婚育被拒",
+      "onboard_time": 1676967992,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 747854,
+      "num": 747854,
+      "word": "河南规定参加婚检可休28天婚假",
+      "onboard_time": 1676969609,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 743528,
       "num": 743528,
       "word": "音悦台将回归",
@@ -403,12 +435,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 718465,
-      "num": 557025,
-      "word": "30岁女程序员录用后又以未婚育被拒",
-      "onboard_time": 1676967992,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 722731,
+      "num": 669944,
+      "word": "佟丽娅冲浪",
+      "onboard_time": 1676970270,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 714606,
@@ -483,6 +515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 658500,
+      "num": 658500,
+      "word": "种地吧 开公司",
+      "onboard_time": 1676968890,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 649335,
       "num": 649335,
       "word": "关晓彤陈采尼同框合照",
@@ -491,20 +531,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 645076,
-      "num": 645076,
-      "word": "种地吧 开公司",
-      "onboard_time": 1676968890,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 644809,
       "num": 644809,
       "word": "演制协要求SMTOWN给李秀满下跪道歉",
       "onboard_time": 1676946871,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 638633,
+      "num": 638633,
+      "word": "普京将发表国情咨文",
+      "onboard_time": 1676970631,
+      "rank": 20,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 636954,
@@ -523,12 +563,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 621487,
+      "num": 621487,
+      "word": "俞敏洪说想给董宇辉在北京买套房子",
+      "onboard_time": 1676970810,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 602034,
       "num": 225927,
       "word": "王智是忘了切号吗",
       "onboard_time": 1676890049,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 599543,
+      "num": 599543,
+      "word": "新疆天山雪豹宣布退出",
+      "onboard_time": 1676969310,
+      "rank": 14,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 599056,
@@ -579,28 +635,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 555001,
-      "num": 555001,
-      "word": "新疆天山雪豹宣布退出",
-      "onboard_time": 1676969310,
-      "rank": 14,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 551946,
       "num": 551946,
       "word": "老牌国货公司隆力奇人去楼空",
       "onboard_time": 1676949870,
       "rank": 22,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 551593,
-      "num": 551593,
-      "word": "河南规定参加婚检可休28天婚假",
-      "onboard_time": 1676969609,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 547191,
@@ -651,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 525099,
-      "num": 525099,
-      "word": "日本人有多舍不得中国大熊猫香香",
-      "onboard_time": 1676970092,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 520612,
       "num": 520612,
       "word": "考研查分通道汇总",
@@ -697,14 +729,6 @@
       "onboard_time": 1676965409,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 490789,
-      "num": 490789,
-      "word": "佟丽娅冲浪",
-      "onboard_time": 1676970270,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 489363,
@@ -835,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406332,
+      "num": 406332,
+      "word": "文春 上野千鹤子",
+      "onboard_time": 1676970330,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 404509,
       "num": 404509,
       "word": "光遇",
@@ -849,14 +881,6 @@
       "onboard_time": 1676943747,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 396080,
-      "num": 396080,
-      "word": "普京将发表国情咨文",
-      "onboard_time": 1676970631,
-      "rank": 20,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 391545,
@@ -923,20 +947,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374457,
+      "num": 374457,
+      "word": "赵露思神隐白色长发",
+      "onboard_time": 1676969730,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 370997,
       "num": 370997,
       "word": "龙抬头",
       "onboard_time": 1676935881,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 370485,
-      "num": 370485,
-      "word": "赵露思神隐白色长发",
-      "onboard_time": 1676969730,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 370036,
@@ -971,6 +995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357507,
+      "num": 357507,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1676971712,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 355372,
       "num": 355372,
       "word": "汪峰unfollow巡演官宣",
@@ -1003,6 +1035,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 339812,
+      "num": 339812,
+      "word": "张颂文饭还没放下就营业了",
+      "onboard_time": 1676970752,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339419,
       "num": 339419,
       "word": "来自姐姐的安慰粗暴但有效",
@@ -1017,14 +1057,6 @@
       "onboard_time": 1676952398,
       "rank": 35,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 336969,
-      "num": 336969,
-      "word": "文春 上野千鹤子",
-      "onboard_time": 1676970330,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 335610,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1676952934,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 307468,
-      "num": 298005,
-      "word": "老人被确认车祸死亡11年后死而复生",
-      "onboard_time": 1676970871,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304984,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1676966371,
       "rank": 29,
       "category": "科技,游戏"
-    },
-    {
-      "raw_hot": 270087,
-      "num": 270087,
-      "word": "俞敏洪说想给董宇辉在北京买套房子",
-      "onboard_time": 1676970810,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 268492,
@@ -1547,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197016,
+      "num": 197016,
+      "word": "单位不给批婚假怎么办",
+      "onboard_time": 1676971653,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197008,
       "num": 197008,
       "word": "隆力奇百余家分支机构均已吊注销",
@@ -1617,14 +1641,6 @@
       "onboard_time": 1676968649,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 186274,
-      "num": 186274,
-      "word": "张颂文饭还没放下就营业了",
-      "onboard_time": 1676970752,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 186183,
@@ -1705,6 +1721,14 @@
       "onboard_time": 1676899593,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170209,
+      "num": 170209,
+      "word": "陆虎 王栎鑫家的餐桌",
+      "onboard_time": 1676971892,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 168023,
@@ -1980,7 +2004,7 @@
     },
     {
       "raw_hot": 35792,
-      "num": 1335549,
+      "num": 1702928,
       "word": "up新时代中国",
       "onboard_time": 1676966729,
       "rank": 2,
