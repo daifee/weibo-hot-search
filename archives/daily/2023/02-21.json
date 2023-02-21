@@ -1,6 +1,6 @@
 {
   "startTime": 1676910386077,
-  "endTime": 1676954340420,
+  "endTime": 1676956662487,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1106708,
+      "num": 1106708,
+      "word": "盘锦教育局局长遇意外去世",
+      "onboard_time": 1676952335,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1096353,
       "num": 869022,
       "word": "肖战米兰时装周应援",
@@ -179,11 +187,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 997358,
-      "num": 707509,
-      "word": "盘锦教育局局长遇意外去世",
-      "onboard_time": 1676952335,
-      "rank": 30,
+      "raw_hot": 880606,
+      "num": 880606,
+      "word": "王鹤棣演樊少皇儿子",
+      "onboard_time": 1676955815,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 877419,
+      "num": 877419,
+      "word": "网购iPhone14开箱发现是IQOO",
+      "onboard_time": 1676953655,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 848673,
+      "num": 848673,
+      "word": "人社局回应上班1个月反欠公司5毛",
+      "onboard_time": 1676952274,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -243,12 +267,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 745483,
-      "num": 694849,
-      "word": "人社局回应上班1个月反欠公司5毛",
-      "onboard_time": 1676952274,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 743528,
+      "num": 743528,
+      "word": "音悦台将回归",
+      "onboard_time": 1676953718,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 730689,
@@ -283,20 +307,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 666238,
-      "num": 666238,
-      "word": "音悦台将回归",
-      "onboard_time": 1676953718,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 659941,
       "num": 659941,
       "word": "10省份放宽报考公务员35岁年龄限制",
       "onboard_time": 1676949270,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 649335,
+      "num": 649335,
+      "word": "关晓彤陈采尼同框合照",
+      "onboard_time": 1676954137,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 644809,
@@ -323,12 +347,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 608890,
+      "num": 608890,
+      "word": "博主称嘎子哥卖的手机最多值999元",
+      "onboard_time": 1676954857,
+      "rank": 14,
+      "category": "艺人,科技"
+    },
+    {
       "raw_hot": 602034,
       "num": 225927,
       "word": "王智是忘了切号吗",
       "onboard_time": 1676890049,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 591988,
+      "num": 591988,
+      "word": "山东考研",
+      "onboard_time": 1676953237,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 584319,
@@ -369,6 +409,14 @@
       "onboard_time": 1676952814,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 528342,
+      "num": 528342,
+      "word": "SMTOWN将正式抵制HYBE收购",
+      "onboard_time": 1676955757,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 527195,
@@ -419,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 489188,
-      "num": 489188,
-      "word": "山东考研",
-      "onboard_time": 1676953237,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 484816,
       "num": 484816,
       "word": "这一届考研人有多难",
@@ -467,20 +507,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 430687,
-      "num": 430687,
-      "word": "网购iPhone14开箱发现是IQOO",
-      "onboard_time": 1676953655,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 427936,
       "num": 338327,
       "word": "Mayumi官宣恋情",
       "onboard_time": 1676893771,
       "rank": 11,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 420233,
+      "num": 420233,
+      "word": "amazing哥返场了",
+      "onboard_time": 1676954915,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 413419,
@@ -513,14 +553,6 @@
       "onboard_time": 1676943747,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 392842,
-      "num": 371655,
-      "word": "关晓彤陈采尼同框合照",
-      "onboard_time": 1676954137,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 391545,
@@ -659,6 +691,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 315535,
+      "num": 315535,
+      "word": "四郎去给孩子上户口了",
+      "onboard_time": 1676956173,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314482,
       "num": 314482,
       "word": "大熊猫香香今日回国",
@@ -739,6 +779,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 287168,
+      "num": 287168,
+      "word": "花木兰全球甄选新皮肤",
+      "onboard_time": 1676954498,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 286155,
       "num": 286155,
       "word": "爱奇艺修改会员投屏优酷腾讯未跟进",
@@ -779,6 +827,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 272018,
+      "num": 272018,
+      "word": "上海暂停体育中考",
+      "onboard_time": 1676955636,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 271584,
       "num": 271584,
       "word": "考研查到满意分数时的真实反应",
@@ -811,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264981,
+      "num": 264981,
+      "word": "五哈",
+      "onboard_time": 1676956114,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263880,
       "num": 263880,
       "word": "土耳其南部6.4级地震",
@@ -819,12 +883,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262607,
+      "num": 262607,
+      "word": "苹果已占据当前台积电所有3nm产能",
+      "onboard_time": 1676954797,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 252534,
       "num": 159912,
       "word": "光渊把朴彩英照片P到剧中",
       "onboard_time": 1676896826,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251670,
+      "num": 251670,
+      "word": "剪头发",
+      "onboard_time": 1676956114,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 247524,
@@ -947,6 +1027,14 @@
       "category": "科技,教育"
     },
     {
+      "raw_hot": 208606,
+      "num": 208606,
+      "word": "音悦台 时代的眼泪",
+      "onboard_time": 1676956472,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208471,
       "num": 208471,
       "word": "王楚钦肖战加班训练",
@@ -985,6 +1073,14 @@
       "onboard_time": 1676953535,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197008,
+      "num": 197008,
+      "word": "隆力奇百余家分支机构均已吊注销",
+      "onboard_time": 1676956056,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 190563,

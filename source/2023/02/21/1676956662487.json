@@ -1,0 +1,410 @@
+{
+  "runTime": 1676956662487,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2086802,
+        "num": 2086802,
+        "word": "考研成绩",
+        "onboard_time": 1676934439,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2012950,
+        "num": 2012950,
+        "word": "考研国家线",
+        "onboard_time": 1676942906,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216873,
+        "num": 1943544,
+        "word": "全网最硬核版龙抬头",
+        "onboard_time": 1676939370,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1929436,
+        "num": 1929436,
+        "word": "未婚夫去世准公公写信求留下孩子",
+        "onboard_time": 1676951433,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1270153,
+        "num": 1270153,
+        "word": "男子发现亡父739万债务3年偿清",
+        "onboard_time": 1676948253,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1120837,
+        "num": 1120837,
+        "word": "孟局身材",
+        "onboard_time": 1676949090,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1106708,
+        "num": 1106708,
+        "word": "盘锦教育局局长遇意外去世",
+        "onboard_time": 1676952335,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951717,
+        "num": 951717,
+        "word": "考研最好考的十大专业",
+        "onboard_time": 1676951014,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 880606,
+        "num": 880606,
+        "word": "王鹤棣演樊少皇儿子",
+        "onboard_time": 1676955815,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 877419,
+        "num": 877419,
+        "word": "网购iPhone14开箱发现是IQOO",
+        "onboard_time": 1676953655,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848673,
+        "num": 848673,
+        "word": "人社局回应上班1个月反欠公司5毛",
+        "onboard_time": 1676952274,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767396,
+        "num": 767396,
+        "word": "女子无意找到30年前钱包内含巨款",
+        "onboard_time": 1676950531,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743528,
+        "num": 743528,
+        "word": "音悦台将回归",
+        "onboard_time": 1676953718,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 649335,
+        "num": 649335,
+        "word": "关晓彤陈采尼同框合照",
+        "onboard_time": 1676954137,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 608890,
+        "num": 608890,
+        "word": "博主称嘎子哥卖的手机最多值999元",
+        "onboard_time": 1676954857,
+        "rank": 14,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 591988,
+        "num": 591988,
+        "word": "山东考研",
+        "onboard_time": 1676953237,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 562440,
+        "num": 562440,
+        "word": "王一博无名拍抽烟戏拍到吐",
+        "onboard_time": 1676948668,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 528342,
+        "num": 528342,
+        "word": "SMTOWN将正式抵制HYBE收购",
+        "onboard_time": 1676955757,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496962,
+        "num": 496962,
+        "word": "全智贤伦敦时装周生图",
+        "onboard_time": 1676943628,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 507975,
+        "num": 496759,
+        "word": "60岁中通快递分拣工凌晨在岗位猝死",
+        "onboard_time": 1676946811,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 486305,
+        "num": 486305,
+        "word": "英语一",
+        "onboard_time": 1676947890,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 477427,
+        "num": 477427,
+        "word": "张嘉倪好事成双捧花杀青照",
+        "onboard_time": 1676948611,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 450014,
+        "num": 450014,
+        "word": "英语二",
+        "onboard_time": 1676952814,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 435685,
+        "num": 435685,
+        "word": "10省份放宽报考公务员35岁年龄限制",
+        "onboard_time": 1676949270,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 420233,
+        "num": 420233,
+        "word": "amazing哥返场了",
+        "onboard_time": 1676954915,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 406919,
+        "num": 406919,
+        "word": "客服回应张小泉菜刀拍蒜断成两截",
+        "onboard_time": 1676952636,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384414,
+        "num": 384414,
+        "word": "老牌国货公司隆力奇人去楼空",
+        "onboard_time": 1676949870,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 361416,
+        "num": 361416,
+        "word": "会和不喜欢但合适的人结婚吗",
+        "onboard_time": 1676946811,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355782,
+        "num": 355782,
+        "word": "中方敦促有关国家停止鼓噪今日乌克兰明日台湾",
+        "onboard_time": 1676952037,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 316148,
+        "num": 316148,
+        "word": "弄错试管婴儿涉事医院称没必要计较",
+        "onboard_time": 1676946151,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315535,
+        "num": 315535,
+        "word": "四郎去给孩子上户口了",
+        "onboard_time": 1676956173,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306696,
+        "num": 306696,
+        "word": "北京考研",
+        "onboard_time": 1676949090,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 304287,
+        "num": 304287,
+        "word": "第一次用泡泡的张元英",
+        "onboard_time": 1676948009,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303830,
+        "num": 303830,
+        "word": "鹿晗说五哈每一季开始都这么囧",
+        "onboard_time": 1676949151,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299396,
+        "num": 299396,
+        "word": "管综",
+        "onboard_time": 1676945130,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 287168,
+        "num": 287168,
+        "word": "花木兰全球甄选新皮肤",
+        "onboard_time": 1676954498,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272018,
+        "num": 272018,
+        "word": "上海暂停体育中考",
+        "onboard_time": 1676955636,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 264981,
+        "num": 264981,
+        "word": "五哈",
+        "onboard_time": 1676956114,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262607,
+        "num": 262607,
+        "word": "苹果已占据当前台积电所有3nm产能",
+        "onboard_time": 1676954797,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 211427,
+        "num": 253009,
+        "word": "大熊猫香香今日回国",
+        "onboard_time": 1676949571,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251740,
+        "num": 251740,
+        "word": "复试",
+        "onboard_time": 1676952934,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251670,
+        "num": 251670,
+        "word": "剪头发",
+        "onboard_time": 1676956114,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229278,
+        "num": 229278,
+        "word": "任嘉伦晒二月二天空照",
+        "onboard_time": 1676953956,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208606,
+        "num": 208606,
+        "word": "音悦台 时代的眼泪",
+        "onboard_time": 1676956472,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208111,
+        "num": 208111,
+        "word": "法硕",
+        "onboard_time": 1676942370,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203916,
+        "num": 203916,
+        "word": "外媒镜头下的陈立农",
+        "onboard_time": 1676951493,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240259,
+        "num": 203453,
+        "word": "中通回应60岁分拣工猝死",
+        "onboard_time": 1676952398,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 202804,
+        "num": 202804,
+        "word": "父母26万彩礼卖掉女儿或涉罪",
+        "onboard_time": 1676938648,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197008,
+        "num": 197008,
+        "word": "隆力奇百余家分支机构均已吊注销",
+        "onboard_time": 1676956056,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 196316,
+        "num": 196316,
+        "word": "大侦探",
+        "onboard_time": 1676952398,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#看中国式现代化图景#"
+    }
+  }
+}

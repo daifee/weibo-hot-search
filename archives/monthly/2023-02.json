@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1676954340420,
+  "endTime": 1676956662487,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -5603,6 +5603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1106708,
+      "num": 1106708,
+      "word": "盘锦教育局局长遇意外去世",
+      "onboard_time": 1676952335,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1105049,
       "num": 1105049,
       "word": "MH370失踪事件纪录剧预告",
@@ -6624,14 +6632,6 @@
       "word": "女子车辆被强盛集团违停车挡住",
       "onboard_time": 1676280402,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 997358,
-      "num": 707509,
-      "word": "盘锦教育局局长遇意外去世",
-      "onboard_time": 1676952335,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -7995,6 +7995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 880606,
+      "num": 880606,
+      "word": "王鹤棣演樊少皇儿子",
+      "onboard_time": 1676955815,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 879129,
       "num": 879129,
       "word": "杨紫诉医美公司侵权案将开庭",
@@ -8009,6 +8017,14 @@
       "onboard_time": 1675250131,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 877419,
+      "num": 877419,
+      "word": "网购iPhone14开箱发现是IQOO",
+      "onboard_time": 1676953655,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 876571,
@@ -8409,6 +8425,14 @@
       "onboard_time": 1675510409,
       "rank": 2,
       "category": "科技"
+    },
+    {
+      "raw_hot": 848673,
+      "num": 848673,
+      "word": "人社局回应上班1个月反欠公司5毛",
+      "onboard_time": 1676952274,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 848462,
@@ -10059,14 +10083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 745483,
-      "num": 694849,
-      "word": "人社局回应上班1个月反欠公司5毛",
-      "onboard_time": 1676952274,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 745396,
       "num": 745396,
       "word": "专家建议向大中专毕业生发现金补助",
@@ -10105,6 +10121,14 @@
       "onboard_time": 1676249667,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 743528,
+      "num": 743528,
+      "word": "音悦台将回归",
+      "onboard_time": 1676953718,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 743482,
@@ -11987,14 +12011,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 666238,
-      "num": 666238,
-      "word": "音悦台将回归",
-      "onboard_time": 1676953718,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 666102,
       "num": 666102,
       "word": "34岁小伙被36个乡村孩子当爸爸",
@@ -12393,6 +12409,14 @@
       "onboard_time": 1676383296,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 649335,
+      "num": 649335,
+      "word": "关晓彤陈采尼同框合照",
+      "onboard_time": 1676954137,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 647816,
@@ -13379,6 +13403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608890,
+      "num": 608890,
+      "word": "博主称嘎子哥卖的手机最多值999元",
+      "onboard_time": 1676954857,
+      "rank": 14,
+      "category": "艺人,科技"
+    },
+    {
       "raw_hot": 608874,
       "num": 608874,
       "word": "戚薇新剧演技",
@@ -13841,6 +13873,14 @@
       "onboard_time": 1675259376,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 591988,
+      "num": 591988,
+      "word": "山东考研",
+      "onboard_time": 1676953237,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 591359,
@@ -15915,6 +15955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528342,
+      "num": 528342,
+      "word": "SMTOWN将正式抵制HYBE收购",
+      "onboard_time": 1676955757,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528308,
       "num": 528308,
       "word": "海底捞很关心久龙",
@@ -17361,14 +17409,6 @@
       "onboard_time": 1676602288,
       "rank": 47,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 489188,
-      "num": 489188,
-      "word": "山东考研",
-      "onboard_time": 1676953237,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 488928,
@@ -19739,14 +19779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430687,
-      "num": 430687,
-      "word": "网购iPhone14开箱发现是IQOO",
-      "onboard_time": 1676953655,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 430635,
       "num": 430635,
       "word": "武山一中",
@@ -20217,6 +20249,14 @@
       "onboard_time": 1676729312,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 420233,
+      "num": 420233,
+      "word": "amazing哥返场了",
+      "onboard_time": 1676954915,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 420137,
@@ -21753,14 +21793,6 @@
       "onboard_time": 1676297321,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 392842,
-      "num": 371655,
-      "word": "关晓彤陈采尼同框合照",
-      "onboard_time": 1676954137,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 392054,
@@ -26075,6 +26107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 315535,
+      "num": 315535,
+      "word": "四郎去给孩子上户口了",
+      "onboard_time": 1676956173,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315410,
       "num": 315410,
       "word": "年轻时的安欣和疯驴子",
@@ -28195,6 +28235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287168,
+      "num": 287168,
+      "word": "花木兰全球甄选新皮肤",
+      "onboard_time": 1676954498,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 287124,
       "num": 287124,
       "word": "再见爱人嘉宾和18天前的自己对话",
@@ -29523,6 +29571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272018,
+      "num": 272018,
+      "word": "上海暂停体育中考",
+      "onboard_time": 1676955636,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 271943,
       "num": 271943,
       "word": "今年五一档新片你最期待哪部",
@@ -30379,6 +30435,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 262607,
+      "num": 262607,
+      "word": "苹果已占据当前台积电所有3nm产能",
+      "onboard_time": 1676954797,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 262397,
       "num": 262397,
       "word": "大马丁回应世界杯争议动作",
@@ -31161,6 +31225,14 @@
       "onboard_time": 1676179049,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251670,
+      "num": 251670,
+      "word": "剪头发",
+      "onboard_time": 1676956114,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 251502,
@@ -35131,6 +35203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 208606,
+      "num": 208606,
+      "word": "音悦台 时代的眼泪",
+      "onboard_time": 1676956472,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208510,
       "num": 208510,
       "word": "重紫连更10天22集",
@@ -36393,6 +36473,14 @@
       "onboard_time": 1675914328,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197008,
+      "num": 197008,
+      "word": "隆力奇百余家分支机构均已吊注销",
+      "onboard_time": 1676956056,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 196959,
