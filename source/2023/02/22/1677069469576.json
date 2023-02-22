@@ -1,0 +1,410 @@
+{
+  "runTime": 1677069469576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1995944,
+        "num": 1995944,
+        "word": "沪上阿姨外包装旗袍图被质疑不雅",
+        "onboard_time": 1677065793,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1821583,
+        "num": 1821583,
+        "word": "内蒙古煤矿坍塌已致2死6伤53失联",
+        "onboard_time": 1677065070,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 98023,
+        "num": 1798252,
+        "word": "2022年中国考古新发现",
+        "onboard_time": 1677058832,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1779961,
+        "num": 1779961,
+        "word": "孟菲斯动物园称希望再租借一对年轻熊猫",
+        "onboard_time": 1677066929,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033888,
+        "num": 1033888,
+        "word": "乐乐",
+        "onboard_time": 1677038320,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007544,
+        "num": 1007544,
+        "word": "内蒙古一煤矿发生事故",
+        "onboard_time": 1677062914,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1003271,
+        "num": 1003271,
+        "word": "2.4亿大奖得主3天后现身还捐了100万",
+        "onboard_time": 1677059371,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958449,
+        "num": 958449,
+        "word": "乌梅子酱",
+        "onboard_time": 1677066450,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 799703,
+        "num": 799703,
+        "word": "抑郁症早期的4大征兆",
+        "onboard_time": 1677063872,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767265,
+        "num": 767265,
+        "word": "90后程序员改行卖早餐年入30万",
+        "onboard_time": 1677066091,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689767,
+        "num": 689767,
+        "word": "新疆地震",
+        "onboard_time": 1677064290,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677007,
+        "num": 677007,
+        "word": "SMTOWN理事集体辞职",
+        "onboard_time": 1677063393,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465313,
+        "num": 465313,
+        "word": "月亮",
+        "onboard_time": 1677064893,
+        "rank": 12,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 432658,
+        "num": 432658,
+        "word": "安欣帮前夫还债",
+        "onboard_time": 1677068489,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416237,
+        "num": 416237,
+        "word": "朱一龙病号服光头造型路透图",
+        "onboard_time": 1677066993,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383191,
+        "num": 383191,
+        "word": "蕈样霉菌病",
+        "onboard_time": 1677065312,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368414,
+        "num": 368414,
+        "word": "丁太升说乌梅子酱俗不可耐",
+        "onboard_time": 1677043652,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 365123,
+        "num": 365123,
+        "word": "种地吧成员负债26万",
+        "onboard_time": 1677056851,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338234,
+        "num": 338234,
+        "word": "言承旭说怕大家对他定型",
+        "onboard_time": 1677064771,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335675,
+        "num": 335675,
+        "word": "李钟硕采访聊IU",
+        "onboard_time": 1677056374,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1701393,
+        "num": 333947,
+        "word": "保姆多次猥亵男婴被判刑5年",
+        "onboard_time": 1677053312,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 332104,
+        "num": 332104,
+        "word": "旅美大熊猫丫丫回国手续正在办理",
+        "onboard_time": 1677061233,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326843,
+        "num": 326843,
+        "word": "峨眉山的猴子你们好日子到头了",
+        "onboard_time": 1677058531,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317795,
+        "num": 317795,
+        "word": "女演员待播古偶剧造型",
+        "onboard_time": 1677067232,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314737,
+        "num": 314737,
+        "word": "乐乐与丫丫20年前抵美画面",
+        "onboard_time": 1677059852,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282184,
+        "num": 282184,
+        "word": "四川一学校免费送新生iPhone14",
+        "onboard_time": 1677055951,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 240181,
+        "num": 240181,
+        "word": "如何评价李荣浩的乌梅子酱",
+        "onboard_time": 1677063393,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215159,
+        "num": 215159,
+        "word": "23岁小伙起红疹被误诊6年查出癌症",
+        "onboard_time": 1677054513,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207505,
+        "num": 207505,
+        "word": "夜燕白",
+        "onboard_time": 1677062312,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203582,
+        "num": 203582,
+        "word": "土豆博士刘杰回应18元5片土豆",
+        "onboard_time": 1677063694,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202402,
+        "num": 202402,
+        "word": "FPX",
+        "onboard_time": 1677066629,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173093,
+        "num": 173093,
+        "word": "实习生测评有多离谱",
+        "onboard_time": 1677068311,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169208,
+        "num": 169208,
+        "word": "张雪峰发文致歉",
+        "onboard_time": 1677037230,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160953,
+        "num": 160953,
+        "word": "半熟恋人2盲选约会",
+        "onboard_time": 1677065251,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155701,
+        "num": 155701,
+        "word": "妈妈给女儿停掉抗抑郁药换成维生素",
+        "onboard_time": 1677035128,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152470,
+        "num": 152470,
+        "word": "贺峻霖喂马嘉祺吃糖油粑粑",
+        "onboard_time": 1677062670,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149739,
+        "num": 149739,
+        "word": "周杰伦演唱会 衢州",
+        "onboard_time": 1677036212,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148922,
+        "num": 148922,
+        "word": "纪向宁考研成绩总分439分",
+        "onboard_time": 1677042215,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148066,
+        "num": 148066,
+        "word": "市监局回应火锅店18元土豆仅5片",
+        "onboard_time": 1677061954,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135248,
+        "num": 135248,
+        "word": "3000元手机谁值得买",
+        "onboard_time": 1677068852,
+        "rank": 39,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 131514,
+        "num": 131514,
+        "word": "奶油日记",
+        "onboard_time": 1677069391,
+        "rank": 40,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 126579,
+        "num": 126579,
+        "word": "武汉草莓音乐节",
+        "onboard_time": 1677061593,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125217,
+        "num": 125217,
+        "word": "KPL选手持证上岗",
+        "onboard_time": 1677058112,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119728,
+        "num": 119728,
+        "word": "皮克带新女友吃饭被赶出餐厅",
+        "onboard_time": 1677055711,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114033,
+        "num": 114033,
+        "word": "国家线",
+        "onboard_time": 1677029188,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113176,
+        "num": 113176,
+        "word": "文紫发现自己是替身",
+        "onboard_time": 1677063513,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104945,
+        "num": 104945,
+        "word": "在东北实现碳水自由有多爽",
+        "onboard_time": 1677058472,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97958,
+        "num": 97958,
+        "word": "夏花你先别虐",
+        "onboard_time": 1677069210,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95581,
+        "num": 95581,
+        "word": "赵丽颖虎狼之路拍摄路透",
+        "onboard_time": 1677048031,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93660,
+        "num": 93660,
+        "word": "研究表明在某些方面AI不如婴儿",
+        "onboard_time": 1677067951,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国依然是外商投资兴业的热土#"
+    }
+  }
+}
