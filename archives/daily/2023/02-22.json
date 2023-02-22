@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677043991891,
+  "endTime": 1677047113725,
   "band_list": [
     {
       "raw_hot": 5326666,
@@ -35,12 +35,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2823116,
+      "num": 2823116,
+      "word": "丁太升说乌梅子酱俗不可耐",
+      "onboard_time": 1677043652,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2388017,
       "num": 2388017,
       "word": "国家线",
       "onboard_time": 1677029188,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2196404,
+      "num": 1442451,
+      "word": "李天一",
+      "onboard_time": 1677044553,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1980261,
+      "num": 1980261,
+      "word": "乐乐",
+      "onboard_time": 1677038320,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1627833,
@@ -67,20 +91,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1462333,
-      "num": 1462333,
+      "raw_hot": 1523046,
+      "num": 1523046,
       "word": "纪向宁考研成绩总分439分",
       "onboard_time": 1677042215,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1441541,
-      "num": 1441541,
-      "word": "乐乐",
-      "onboard_time": 1677038320,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1439293,
@@ -187,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 967465,
+      "num": 967465,
+      "word": "美司令暗示台湾有事将部署攻击解放军",
+      "onboard_time": 1677041675,
+      "rank": 14,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 954941,
       "num": 954941,
       "word": "多地学校因新冠甲流等停课",
@@ -209,14 +233,6 @@
       "onboard_time": 1676998282,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 880638,
-      "num": 880638,
-      "word": "美司令暗示台湾有事将部署攻击解放军",
-      "onboard_time": 1677041675,
-      "rank": 14,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 861598,
@@ -387,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531675,
+      "num": 531675,
+      "word": "员工阳康后连上16天班在宿舍离世",
+      "onboard_time": 1677045149,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 524308,
       "num": 524308,
       "word": "31岁大熊猫永明携双胞胎回家",
@@ -459,20 +483,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 445280,
-      "num": 445280,
-      "word": "丁太升说乌梅子酱俗不可耐",
-      "onboard_time": 1677043652,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 435510,
       "num": 435510,
       "word": "广州漫展",
       "onboard_time": 1676991767,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 423060,
+      "num": 423060,
+      "word": "李宇春米兰时装周出发图",
+      "onboard_time": 1677045512,
+      "rank": 15,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 415879,
@@ -521,6 +545,14 @@
       "onboard_time": 1677037349,
       "rank": 22,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 381216,
+      "num": 381216,
+      "word": "中国专家已赴美协商丫丫回国事宜",
+      "onboard_time": 1677046111,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378798,
@@ -585,6 +617,14 @@
       "onboard_time": 1677036148,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348558,
+      "num": 348558,
+      "word": "15岁以下抑郁症患者3年涨3倍多",
+      "onboard_time": 1677044732,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347398,
@@ -939,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217473,
+      "num": 217473,
+      "word": "王勉妈妈双手摸鹿晗的脸",
+      "onboard_time": 1677044609,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214101,
       "num": 214101,
       "word": "皇马杀疯了",
@@ -971,6 +1019,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 201006,
+      "num": 201006,
+      "word": "农行回应对雄安购房者推出连心贷",
+      "onboard_time": 1677045273,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 194363,
       "num": 194363,
       "word": "一人一个暴露年龄的老物件儿",
@@ -993,6 +1049,14 @@
       "onboard_time": 1677042512,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 186929,
+      "num": 186929,
+      "word": "蓝色生命线",
+      "onboard_time": 1677046654,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186078,
@@ -1083,6 +1147,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165100,
+      "num": 165100,
+      "word": "剧版雪鹰领主",
+      "onboard_time": 1677044311,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 164190,
+      "num": 164190,
+      "word": "白面僧猴",
+      "onboard_time": 1677046893,
+      "rank": 41,
+      "category": "其它"
+    },
+    {
       "raw_hot": 158280,
       "num": 158280,
       "word": "暨南大学考研",
@@ -1113,6 +1193,14 @@
       "onboard_time": 1677027154,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154866,
+      "num": 154866,
+      "word": "考研上岸表情",
+      "onboard_time": 1677045872,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 149891,
@@ -1161,6 +1249,14 @@
       "onboard_time": 1676984502,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138648,
+      "num": 138648,
+      "word": "美动物保护组织曾担忧丫丫处境",
+      "onboard_time": 1677045811,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132829,
@@ -1345,6 +1441,14 @@
       "onboard_time": 1677001035,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 33061,
+      "num": 165845,
+      "word": "饿了么免单梦回高考",
+      "onboard_time": 1677045634,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 27975,
