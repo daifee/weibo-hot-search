@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677054312509,
+  "endTime": 1677055105429,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -113,6 +113,14 @@
       "onboard_time": 1676861547,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2653759,
+      "num": 1048132,
+      "word": "保姆多次猥亵男婴被判刑5年",
+      "onboard_time": 1677053312,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2459136,
@@ -361,14 +369,6 @@
       "onboard_time": 1677042215,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1488195,
-      "num": 565773,
-      "word": "保姆多次猥亵男婴被判刑5年",
-      "onboard_time": 1677053312,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1468907,
@@ -2571,6 +2571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 462119,
+      "num": 462119,
+      "word": "串串店服务员用手机精准扫出签子数量",
+      "onboard_time": 1677053910,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461524,
       "num": 461524,
       "word": "张颂文饭还没放下就营业了",
@@ -3347,6 +3355,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 363083,
+      "num": 363083,
+      "word": "杭州拟向三孩家庭发放补助2万元",
+      "onboard_time": 1677053552,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 362012,
       "num": 362012,
       "word": "WBG对战iG",
@@ -3699,6 +3715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 326437,
+      "num": 326437,
+      "word": "从抑郁情绪到抑郁症有多远",
+      "onboard_time": 1677051212,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324902,
       "num": 324902,
       "word": "NCT成员将5月solo出道",
@@ -3793,14 +3817,6 @@
       "onboard_time": 1676885372,
       "rank": 39,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 318889,
-      "num": 318889,
-      "word": "从抑郁情绪到抑郁症有多远",
-      "onboard_time": 1677051212,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318827,
@@ -3921,6 +3937,14 @@
       "onboard_time": 1677030751,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305210,
+      "num": 305210,
+      "word": "23岁小伙起红疹被误诊6年查出癌症",
+      "onboard_time": 1677054513,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304984,
@@ -5187,14 +5211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193581,
-      "num": 193581,
-      "word": "杭州拟向三孩家庭发放补助2万元",
-      "onboard_time": 1677053552,
-      "rank": 31,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 190563,
       "num": 190563,
       "word": "MOSS服务器流量过载",
@@ -5280,14 +5296,6 @@
       "word": "蓝色生命线",
       "onboard_time": 1677046654,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186696,
-      "num": 186696,
-      "word": "串串店服务员用手机精准扫出签子数量",
-      "onboard_time": 1677053910,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -5787,6 +5795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156692,
+      "num": 156692,
+      "word": "张小斐首部电视剧",
+      "onboard_time": 1677054698,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156631,
       "num": 156631,
       "word": "官方通报城改办主任群发不雅信息",
@@ -6001,6 +6017,14 @@
       "onboard_time": 1677040957,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134673,
+      "num": 134673,
+      "word": "超级马力欧兄弟大电影确认引进",
+      "onboard_time": 1677054513,
+      "rank": 42,
+      "category": "影视,游戏"
     },
     {
       "raw_hot": 134375,
