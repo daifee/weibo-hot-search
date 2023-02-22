@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677034188370,
+  "endTime": 1677034782453,
   "band_list": [
     {
       "raw_hot": 4793161,
@@ -27,18 +27,18 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1581111,
-      "num": 1581111,
-      "word": "女子宿舍吃火锅放罂粟提味被罚",
-      "onboard_time": 1677024871,
+      "raw_hot": 1598873,
+      "num": 1598873,
+      "word": "火锅店18元一份土豆就5薄片",
+      "onboard_time": 1677031528,
       "rank": 3,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1548838,
-      "num": 1548838,
-      "word": "火锅店18元一份土豆就5薄片",
-      "onboard_time": 1677031528,
+      "raw_hot": 1581111,
+      "num": 1581111,
+      "word": "女子宿舍吃火锅放罂粟提味被罚",
+      "onboard_time": 1677024871,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1147545,
+      "num": 1147545,
+      "word": "郑恺晒前任4余飞杀青照",
+      "onboard_time": 1677033148,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1135813,
       "num": 1135813,
       "word": "来电显示96110一定要接",
@@ -99,15 +107,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 954941,
-      "num": 954941,
-      "word": "多地学校因新冠甲流等停课",
-      "onboard_time": 1676993194,
-      "rank": 4,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 951893,
+      "raw_hot": 979372,
       "num": 611621,
       "word": "米兰偶遇宋雨琦程潇逛街",
       "onboard_time": 1677031710,
@@ -115,12 +115,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 922091,
-      "num": 612587,
-      "word": "郑恺晒前任4余飞杀青照",
-      "onboard_time": 1677033148,
-      "rank": 11,
-      "category": "影视"
+      "raw_hot": 954941,
+      "num": 954941,
+      "word": "多地学校因新冠甲流等停课",
+      "onboard_time": 1676993194,
+      "rank": 4,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 904508,
@@ -219,6 +219,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 543106,
+      "num": 543106,
+      "word": "新加坡给穷人发钱让富人增税应对涨价",
+      "onboard_time": 1677032312,
+      "rank": 17,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 505975,
       "num": 505975,
       "word": "全球第5例艾滋病治愈者出现",
@@ -259,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462071,
-      "num": 462071,
-      "word": "新加坡给穷人发钱让富人增税应对涨价",
-      "onboard_time": 1677032312,
-      "rank": 17,
-      "category": "社会新闻,财经"
+      "raw_hot": 467993,
+      "num": 467993,
+      "word": "提前还贷大大减轻按揭压力",
+      "onboard_time": 1677032068,
+      "rank": 19,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 435510,
@@ -291,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 391931,
-      "num": 391931,
-      "word": "提前还贷大大减轻按揭压力",
-      "onboard_time": 1677032068,
-      "rank": 19,
-      "category": "财经,社会新闻"
+      "raw_hot": 382145,
+      "num": 382145,
+      "word": "五月天演唱会门票",
+      "onboard_time": 1677034289,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 374724,
@@ -363,6 +371,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 333149,
+      "num": 333149,
+      "word": "十年朋克无人问 一朝舞女天下知",
+      "onboard_time": 1677032430,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 328415,
       "num": 328415,
       "word": "内娱真人版网球王子",
@@ -379,20 +395,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 314547,
-      "num": 314547,
-      "word": "十年朋克无人问 一朝舞女天下知",
-      "onboard_time": 1677032430,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 312473,
       "num": 312473,
       "word": "夏花 BE",
       "onboard_time": 1676982574,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 310895,
+      "num": 310895,
+      "word": "全村凑钱上大学的孩子返乡带大家致富",
+      "onboard_time": 1677033867,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309555,
@@ -449,6 +465,14 @@
       "onboard_time": 1676987437,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265167,
+      "num": 265167,
+      "word": "女童玩滑梯被男童踹倒头着地",
+      "onboard_time": 1677033148,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 261444,
@@ -595,12 +619,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197496,
-      "num": 197496,
-      "word": "女童玩滑梯被男童踹倒头着地",
-      "onboard_time": 1677033148,
-      "rank": 37,
-      "category": "社会负面"
+      "raw_hot": 197189,
+      "num": 197189,
+      "word": "91岁教师决定去世后捐献遗体给浙大",
+      "onboard_time": 1677033989,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 195048,
+      "num": 195048,
+      "word": "AppleWatch或因侵权在美国禁售",
+      "onboard_time": 1677034588,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 194363,
@@ -617,14 +649,6 @@
       "onboard_time": 1676971712,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 187577,
-      "num": 187577,
-      "word": "全村凑钱上大学的孩子返乡带大家致富",
-      "onboard_time": 1677033867,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186078,
@@ -672,6 +696,14 @@
       "word": "专家称弄错试管婴儿的医院应受处罚",
       "onboard_time": 1676994871,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165555,
+      "num": 165555,
+      "word": "旅美大熊猫丫丫何时回家",
+      "onboard_time": 1677034169,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -739,20 +771,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141971,
+      "num": 141971,
+      "word": "网友刷屏接丫丫回家",
+      "onboard_time": 1677034711,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141027,
+      "num": 141027,
+      "word": "赴韩签证搜索量环比增长1179%",
+      "onboard_time": 1677034289,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 140990,
       "num": 140990,
       "word": "刘畊宏模仿言承旭",
       "onboard_time": 1677000799,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140668,
-      "num": 140668,
-      "word": "91岁教师决定去世后捐献遗体给浙大",
-      "onboard_time": 1677033989,
-      "rank": 46,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 138988,
@@ -801,14 +841,6 @@
       "onboard_time": 1676991817,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123423,
-      "num": 123423,
-      "word": "旅美大熊猫丫丫何时回家",
-      "onboard_time": 1677034169,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117017,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1677034782453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3667216,
+        "num": 3667216,
+        "word": "丫丫",
+        "onboard_time": 1676991157,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2129982,
+        "num": 2129982,
+        "word": "国家线",
+        "onboard_time": 1677029188,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 409949,
+        "num": 1761586,
+        "word": "大熊猫香香回家现场画面",
+        "onboard_time": 1676988814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1598873,
+        "num": 1598873,
+        "word": "火锅店18元一份土豆就5薄片",
+        "onboard_time": 1677031528,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1147545,
+        "num": 1147545,
+        "word": "郑恺晒前任4余飞杀青照",
+        "onboard_time": 1677033148,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1080205,
+        "num": 1080205,
+        "word": "日本海岸发现不明球状物",
+        "onboard_time": 1677030450,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670634,
+        "num": 670634,
+        "word": "3月起自中国入境韩国无须核酸",
+        "onboard_time": 1677030570,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664727,
+        "num": 664727,
+        "word": "电影前任4杀青阵容升级",
+        "onboard_time": 1677029550,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 632292,
+        "num": 632292,
+        "word": "iPhone15Pro机型有望配8GB内存",
+        "onboard_time": 1677030507,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 608354,
+        "num": 608354,
+        "word": "女子宿舍吃火锅放罂粟提味被罚",
+        "onboard_time": 1677024871,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1452613,
+        "num": 608075,
+        "word": "张雪峰吐槽还60万房贷利息57万",
+        "onboard_time": 1677024933,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606918,
+        "num": 606918,
+        "word": "我的工位是不是有脏东西",
+        "onboard_time": 1677031950,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 586590,
+        "num": 586590,
+        "word": "心疼丫丫",
+        "onboard_time": 1677031290,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 543106,
+        "num": 543106,
+        "word": "新加坡给穷人发钱让富人增税应对涨价",
+        "onboard_time": 1677032312,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 529285,
+        "num": 529285,
+        "word": "27岁女子因未婚未育应聘被拒",
+        "onboard_time": 1676998282,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467993,
+        "num": 467993,
+        "word": "提前还贷大大减轻按揭压力",
+        "onboard_time": 1677032068,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 423829,
+        "num": 423829,
+        "word": "男子不信自己是逃犯报警验证",
+        "onboard_time": 1677027872,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979372,
+        "num": 409380,
+        "word": "米兰偶遇宋雨琦程潇逛街",
+        "onboard_time": 1677031710,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390659,
+        "num": 390659,
+        "word": "Kakao或将收购JYP",
+        "onboard_time": 1677024933,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387936,
+        "num": 387936,
+        "word": "宿迁建立离婚登记冷静期调解制度",
+        "onboard_time": 1677029010,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382145,
+        "num": 382145,
+        "word": "五月天演唱会门票",
+        "onboard_time": 1677034289,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 376737,
+        "num": 376737,
+        "word": "微软将把所有暴雪游戏引入英伟达平台",
+        "onboard_time": 1677029610,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 345099,
+        "num": 345099,
+        "word": "蔡徐坤米兰街头听演奏",
+        "onboard_time": 1677028831,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 333149,
+        "num": 333149,
+        "word": "十年朋克无人问 一朝舞女天下知",
+        "onboard_time": 1677032430,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324194,
+        "num": 324194,
+        "word": "身高与发育期的睡眠相关",
+        "onboard_time": 1677026371,
+        "rank": 24,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 310895,
+        "num": 310895,
+        "word": "全村凑钱上大学的孩子返乡带大家致富",
+        "onboard_time": 1677033867,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304162,
+        "num": 304162,
+        "word": "3只旅日大熊猫今日回国",
+        "onboard_time": 1677032007,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293295,
+        "num": 293295,
+        "word": "河北保定发生一起重大刑案",
+        "onboard_time": 1676989354,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 275834,
+        "num": 275834,
+        "word": "考研出分后怎么准备复试",
+        "onboard_time": 1677029308,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 270352,
+        "num": 270352,
+        "word": "陈星旭直播把袜带戴头上",
+        "onboard_time": 1677030751,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265167,
+        "num": 265167,
+        "word": "女童玩滑梯被男童踹倒头着地",
+        "onboard_time": 1677033148,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 249104,
+        "num": 249104,
+        "word": "6岁女童被玩伴踹进水池",
+        "onboard_time": 1677026613,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 247138,
+        "num": 247138,
+        "word": "脏手指 舞女泪",
+        "onboard_time": 1677021202,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 243698,
+        "num": 243698,
+        "word": "莫德里奇庆祝逆转利物浦",
+        "onboard_time": 1677030869,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231917,
+        "num": 231917,
+        "word": "来电显示96110一定要接",
+        "onboard_time": 1676989839,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226501,
+        "num": 226501,
+        "word": "你接受婚后和公婆同住吗",
+        "onboard_time": 1677004513,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220664,
+        "num": 220664,
+        "word": "美方人员从拜登专机舷梯跌落",
+        "onboard_time": 1677029909,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 215057,
+        "num": 215057,
+        "word": "男子救人留下我是四川人就离开了",
+        "onboard_time": 1677031049,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 203266,
+        "num": 203266,
+        "word": "于文文说林佳杀青快乐",
+        "onboard_time": 1677033508,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197189,
+        "num": 197189,
+        "word": "91岁教师决定去世后捐献遗体给浙大",
+        "onboard_time": 1677033989,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 195048,
+        "num": 195048,
+        "word": "AppleWatch或因侵权在美国禁售",
+        "onboard_time": 1677034588,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 188599,
+        "num": 188599,
+        "word": "ofo小黄车已彻底无法登录",
+        "onboard_time": 1676992657,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 176189,
+        "num": 176189,
+        "word": "长沙凌晨1点马路人流量惊人",
+        "onboard_time": 1676998941,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166181,
+        "num": 166181,
+        "word": "宠物医院患者用喵喵拳攻击医生",
+        "onboard_time": 1677006372,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165555,
+        "num": 165555,
+        "word": "旅美大熊猫丫丫何时回家",
+        "onboard_time": 1677034169,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155342,
+        "num": 155342,
+        "word": "直播旅美大熊猫丫丫",
+        "onboard_time": 1677021864,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154479,
+        "num": 154479,
+        "word": "这时候方向盘打不过来会被笑话吗",
+        "onboard_time": 1677028290,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153216,
+        "num": 153216,
+        "word": "Apink将于4月回归",
+        "onboard_time": 1677030629,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141971,
+        "num": 141971,
+        "word": "网友刷屏接丫丫回家",
+        "onboard_time": 1677034711,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141027,
+        "num": 141027,
+        "word": "赴韩签证搜索量环比增长1179%",
+        "onboard_time": 1677034289,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展看中国#"
+    }
+  }
+}
