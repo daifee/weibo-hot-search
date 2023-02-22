@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677075462560,
+  "endTime": 1677076475926,
   "band_list": [
     {
       "raw_hot": 5326666,
@@ -251,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1123503,
+      "num": 1117574,
+      "word": "农村结婚难该谁来背锅",
+      "onboard_time": 1677070714,
+      "rank": 7,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 1118013,
       "num": 1118013,
       "word": "SMTOWN理事集体辞职",
       "onboard_time": 1677063393,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1117574,
-      "num": 1117574,
-      "word": "农村结婚难该谁来背锅",
-      "onboard_time": 1677070714,
-      "rank": 7,
-      "category": "社会议题"
     },
     {
       "raw_hot": 1109457,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 759354,
+      "num": 759354,
+      "word": "宋雨琦程潇看秀造型",
+      "onboard_time": 1677074255,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 748053,
       "num": 748053,
       "word": "甲流",
@@ -545,14 +553,6 @@
       "onboard_time": 1677038971,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 669222,
-      "num": 669222,
-      "word": "宋雨琦程潇看秀造型",
-      "onboard_time": 1677074255,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 667191,
@@ -657,6 +657,14 @@
       "onboard_time": 1677046893,
       "rank": 41,
       "category": "其它"
+    },
+    {
+      "raw_hot": 544104,
+      "num": 544104,
+      "word": "接下来的杭州将是浪漫天花板",
+      "onboard_time": 1677073172,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 541017,
@@ -835,12 +843,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 422308,
-      "num": 422308,
-      "word": "接下来的杭州将是浪漫天花板",
-      "onboard_time": 1677073172,
-      "rank": 18,
-      "category": "旅游"
+      "raw_hot": 422357,
+      "num": 422357,
+      "word": "毛不易不愧是be王者",
+      "onboard_time": 1677075213,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 416237,
@@ -873,6 +881,14 @@
       "onboard_time": 1677042697,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 408445,
+      "num": 408445,
+      "word": "马龙说决赛和樊振东没压力",
+      "onboard_time": 1677074553,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 408026,
@@ -1083,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339565,
+      "num": 339565,
+      "word": "内蒙古阿拉善煤矿坍塌瞬间曝光",
+      "onboard_time": 1677073113,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 336654,
       "num": 336654,
       "word": "侵权赵丽颖黑粉道歉",
@@ -1171,6 +1195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 316928,
+      "num": 316928,
+      "word": "宋慧乔许光汉同框",
+      "onboard_time": 1677076173,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 312473,
       "num": 312473,
       "word": "夏花 BE",
@@ -1211,20 +1243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303821,
-      "num": 303821,
+      "raw_hot": 304181,
+      "num": 304181,
       "word": "张大磊说和周迅王一博合作很惊喜",
       "onboard_time": 1677074375,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 301877,
-      "num": 301877,
-      "word": "马龙说决赛和樊振东没压力",
-      "onboard_time": 1677074553,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 301871,
@@ -1251,6 +1275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296922,
+      "num": 296922,
+      "word": "ayo",
+      "onboard_time": 1677074131,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 296437,
       "num": 296437,
       "word": "蔡依林出发参加米兰时装周",
@@ -1267,28 +1299,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293723,
+      "num": 293723,
+      "word": "真的被美到挪不开眼了",
+      "onboard_time": 1677072273,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 292840,
       "num": 292840,
       "word": "boss回应女子因未婚未育应聘被拒",
       "onboard_time": 1677036450,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288806,
-      "num": 288806,
-      "word": "内蒙古阿拉善煤矿坍塌瞬间曝光",
-      "onboard_time": 1677073113,
-      "rank": 26,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 288423,
-      "num": 288423,
-      "word": "ayo",
-      "onboard_time": 1677074131,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 288176,
@@ -1331,14 +1355,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 266899,
-      "num": 266899,
-      "word": "真的被美到挪不开眼了",
-      "onboard_time": 1677072273,
-      "rank": 46,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 266539,
       "num": 266539,
       "word": "直播旅美大熊猫丫丫",
@@ -1369,14 +1385,6 @@
       "onboard_time": 1676987437,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263911,
-      "num": 263911,
-      "word": "毛不易不愧是be王者",
-      "onboard_time": 1677075213,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 263033,
@@ -1755,6 +1763,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 194541,
+      "num": 194541,
+      "word": "刘涛米兰时装周生图",
+      "onboard_time": 1677076303,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 194363,
       "num": 194363,
       "word": "一人一个暴露年龄的老物件儿",
@@ -1859,12 +1875,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180929,
+      "num": 180929,
+      "word": "张雨绮说相爱的人会越长越像",
+      "onboard_time": 1677076114,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180874,
       "num": 180874,
       "word": "女子连刷10个差评商家找上门怒怼",
       "onboard_time": 1676978251,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175874,
+      "num": 175874,
+      "word": "LNG战胜BLG",
+      "onboard_time": 1677075995,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 174156,
@@ -1889,6 +1921,14 @@
       "onboard_time": 1677059910,
       "rank": 36,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 171546,
+      "num": 171546,
+      "word": "杨思宇问雪花后悔吗",
+      "onboard_time": 1677075875,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 170365,
@@ -2017,6 +2057,22 @@
       "onboard_time": 1677027154,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152278,
+      "num": 152278,
+      "word": "博主奶油日记为博眼球谎称下海被查",
+      "onboard_time": 1677076358,
+      "rank": 48,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 151108,
+      "num": 151108,
+      "word": "玄商跳归墟",
+      "onboard_time": 1677076114,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 149891,
@@ -2163,7 +2219,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121842,
+      "raw_hot": 123583,
       "num": 1471144,
       "word": "你那里的春日大片上线了吗",
       "onboard_time": 1677070952,
