@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677073109347,
+  "endTime": 1677075462560,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -515,8 +515,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1361821,
-      "num": 1361821,
+      "raw_hot": 1362555,
+      "num": 1362555,
       "word": "陈妍希几乎每天都对陈晓说我爱你",
       "onboard_time": 1677070470,
       "rank": 25,
@@ -819,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1117574,
+      "num": 1117574,
+      "word": "农村结婚难该谁来背锅",
+      "onboard_time": 1677070714,
+      "rank": 7,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 1111382,
       "num": 1111382,
       "word": "女子无意找到30年前钱包内含巨款",
@@ -929,14 +937,6 @@
       "onboard_time": 1676895928,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1046654,
-      "num": 1046654,
-      "word": "农村结婚难该谁来背锅",
-      "onboard_time": 1677070714,
-      "rank": 7,
-      "category": "社会议题"
     },
     {
       "raw_hot": 1028309,
@@ -1435,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 776098,
+      "num": 776098,
+      "word": "刘诗诗米兰时装周出发路透",
+      "onboard_time": 1677073353,
+      "rank": 9,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 775731,
       "num": 775731,
       "word": "鹿晗说五哈每一季开始都这么囧",
@@ -1843,6 +1851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 669222,
+      "num": 669222,
+      "word": "宋雨琦程潇看秀造型",
+      "onboard_time": 1677074255,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 669145,
       "num": 669145,
       "word": "韩剧我的大叔 翻拍",
@@ -2001,6 +2017,14 @@
       "onboard_time": 1676974531,
       "rank": 31,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 631924,
+      "num": 631924,
+      "word": "李宇春背了好大一个包",
+      "onboard_time": 1677073534,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 630826,
@@ -2971,6 +2995,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 434808,
+      "num": 434808,
+      "word": "旅美大熊猫丫丫回国手续正在办理",
+      "onboard_time": 1677061233,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434550,
       "num": 434550,
       "word": "拜登称将向乌克兰提供5亿美元援助",
@@ -3089,6 +3121,14 @@
       "onboard_time": 1677045512,
       "rank": 15,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 422308,
+      "num": 422308,
+      "word": "接下来的杭州将是浪漫天花板",
+      "onboard_time": 1677073172,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 420854,
@@ -3643,14 +3683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360110,
-      "num": 360110,
-      "word": "旅美大熊猫丫丫回国手续正在办理",
-      "onboard_time": 1677061233,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359450,
       "num": 359450,
       "word": "梅西姆巴佩获劳伦斯年度最佳男运动员提名",
@@ -4067,6 +4099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 321241,
+      "num": 321241,
+      "word": "房贷到底怎么还才划算",
+      "onboard_time": 1677069689,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 320821,
       "num": 320821,
       "word": "TizzyT新厂牌全员官宣",
@@ -4275,12 +4315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 303342,
-      "num": 303342,
-      "word": "房贷到底怎么还才划算",
-      "onboard_time": 1677069689,
-      "rank": 47,
-      "category": "财经,社会新闻"
+      "raw_hot": 303821,
+      "num": 303821,
+      "word": "张大磊说和周迅王一博合作很惊喜",
+      "onboard_time": 1677074375,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 302284,
@@ -4297,6 +4337,14 @@
       "onboard_time": 1676961328,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301877,
+      "num": 301877,
+      "word": "马龙说决赛和樊振东没压力",
+      "onboard_time": 1677074553,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 301871,
@@ -4419,6 +4467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288806,
+      "num": 288806,
+      "word": "内蒙古阿拉善煤矿坍塌瞬间曝光",
+      "onboard_time": 1677073113,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 288708,
       "num": 288708,
       "word": "王楚钦花在混双时间非常多",
@@ -4433,6 +4489,14 @@
       "onboard_time": 1676814512,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 288423,
+      "num": 288423,
+      "word": "ayo",
+      "onboard_time": 1677074131,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 288176,
@@ -4667,6 +4731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266899,
+      "num": 266899,
+      "word": "真的被美到挪不开眼了",
+      "onboard_time": 1677072273,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 266774,
       "num": 266774,
       "word": "白时可乐",
@@ -4713,6 +4785,14 @@
       "onboard_time": 1676956114,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263911,
+      "num": 263911,
+      "word": "毛不易不愧是be王者",
+      "onboard_time": 1677075213,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 263880,
@@ -5707,14 +5787,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 190187,
-      "num": 190187,
-      "word": "真的被美到挪不开眼了",
-      "onboard_time": 1677072273,
-      "rank": 46,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 190004,
       "num": 190004,
       "word": "罗云熙金色亮钻白西装造型",
@@ -5873,6 +5945,14 @@
       "onboard_time": 1677028412,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183781,
+      "num": 183781,
+      "word": "白鹿以爱为营拍摄路透",
+      "onboard_time": 1677072751,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 182995,
@@ -6273,14 +6353,6 @@
       "onboard_time": 1677058832,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163742,
-      "num": 163742,
-      "word": "白鹿以爱为营拍摄路透",
-      "onboard_time": 1677072751,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 162553,
@@ -6739,6 +6811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121842,
+      "num": 1471144,
+      "word": "你那里的春日大片上线了吗",
+      "onboard_time": 1677070952,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121497,
       "num": 121497,
       "word": "TES战胜EDG",
@@ -6761,14 +6841,6 @@
       "onboard_time": 1676819372,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117457,
-      "num": 1471144,
-      "word": "你那里的春日大片上线了吗",
-      "onboard_time": 1677070952,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117017,
