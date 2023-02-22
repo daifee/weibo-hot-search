@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677094415760,
+  "endTime": 1677097241015,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -7369,6 +7369,14 @@
       "onboard_time": 1676801253,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28148,
+      "num": 28148,
+      "word": "爱奇艺首次实现全年运营盈利",
+      "onboard_time": 1677096552,
+      "rank": 18,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 27975,
