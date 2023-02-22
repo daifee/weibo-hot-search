@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677057586870,
+  "endTime": 1677058489254,
   "band_list": [
     {
       "raw_hot": 5326666,
@@ -131,6 +131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1322399,
+      "num": 1322399,
+      "word": "四川一学校免费送新生iPhone14",
+      "onboard_time": 1677055951,
+      "rank": 4,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1277368,
       "num": 355026,
       "word": "河北保定发生一起重大刑案",
@@ -259,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 891513,
-      "num": 891513,
-      "word": "四川一学校免费送新生iPhone14",
-      "onboard_time": 1677055951,
-      "rank": 4,
-      "category": "教育,社会新闻"
+      "raw_hot": 864500,
+      "num": 864500,
+      "word": "23岁小伙起红疹被误诊6年查出癌症",
+      "onboard_time": 1677054513,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 861598,
@@ -272,14 +280,6 @@
       "word": "当地回应公职人员相亲失败出言不逊",
       "onboard_time": 1677038134,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 821539,
-      "num": 821539,
-      "word": "23岁小伙起红疹被误诊6年查出癌症",
-      "onboard_time": 1677054513,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -377,6 +377,14 @@
       "onboard_time": 1677054698,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 724319,
+      "num": 724319,
+      "word": "种地吧成员负债26万",
+      "onboard_time": 1677056851,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 710636,
@@ -635,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 408026,
+      "num": 408026,
+      "word": "杭州拟向三孩家庭发放补助2万元",
+      "onboard_time": 1677053552,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 404617,
       "num": 404617,
       "word": "这时候方向盘打不过来会被笑话吗",
@@ -643,28 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404616,
-      "num": 404616,
-      "word": "杭州拟向三孩家庭发放补助2万元",
-      "onboard_time": 1677053552,
-      "rank": 31,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 395876,
       "num": 395876,
       "word": "张绍刚说王鹤棣长的让人垂涎欲滴",
       "onboard_time": 1677040957,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 390506,
-      "num": 390506,
-      "word": "种地吧成员负债26万",
-      "onboard_time": 1677056851,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 386989,
@@ -819,6 +819,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 329166,
+      "num": 329166,
+      "word": "皮克带新女友吃饭被赶出餐厅",
+      "onboard_time": 1677055711,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328415,
       "num": 328415,
       "word": "内娱真人版网球王子",
@@ -907,20 +915,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 296437,
+      "num": 296437,
+      "word": "蔡依林出发参加米兰时装周",
+      "onboard_time": 1677056374,
+      "rank": 24,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 295286,
       "num": 295286,
       "word": "名侦探学院校规案",
       "onboard_time": 1677042753,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 295095,
-      "num": 295095,
-      "word": "皮克带新女友吃饭被赶出餐厅",
-      "onboard_time": 1677055711,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 292840,
@@ -945,14 +953,6 @@
       "onboard_time": 1677050133,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284446,
-      "num": 284446,
-      "word": "蔡依林出发参加米兰时装周",
-      "onboard_time": 1677056374,
-      "rank": 24,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 276627,
@@ -1003,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263033,
+      "num": 263033,
+      "word": "张雪峰商业版图盘点",
+      "onboard_time": 1677055172,
+      "rank": 27,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 261444,
       "num": 261444,
       "word": "武林外传演男女分手时内心活动",
@@ -1011,12 +1019,12 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 259201,
-      "num": 259201,
-      "word": "张雪峰商业版图盘点",
-      "onboard_time": 1677055172,
-      "rank": 27,
-      "category": "财经,社会新闻"
+      "raw_hot": 258571,
+      "num": 258571,
+      "word": "韩庚郑恺于文文等分享前任4台词",
+      "onboard_time": 1677057272,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 254603,
@@ -1187,6 +1195,14 @@
       "category": "幽默,网红"
     },
     {
+      "raw_hot": 227412,
+      "num": 227412,
+      "word": "外交部回应持签证赴美中国留学生遭拒绝入境",
+      "onboard_time": 1677057572,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 227342,
       "num": 227342,
       "word": "男子救人留下我是四川人就离开了",
@@ -1259,12 +1275,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206890,
+      "num": 206890,
+      "word": "陈梦退出直通赛",
+      "onboard_time": 1677057872,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205149,
       "num": 205149,
       "word": "Hanni米兰时装周出发图",
       "onboard_time": 1677040716,
       "rank": 49,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 202958,
+      "num": 202958,
+      "word": "KPL选手持证上岗",
+      "onboard_time": 1677058112,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 201006,
@@ -1289,6 +1321,14 @@
       "onboard_time": 1677021562,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192875,
+      "num": 192875,
+      "word": "孙颖莎说更从容自信了",
+      "onboard_time": 1677057512,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 192809,
@@ -1329,14 +1369,6 @@
       "onboard_time": 1677042697,
       "rank": 48,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 184824,
-      "num": 184824,
-      "word": "孙颖莎说更从容自信了",
-      "onboard_time": 1677057512,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 184491,
@@ -1435,12 +1467,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159682,
-      "num": 159682,
-      "word": "韩庚郑恺于文文等分享前任4台词",
-      "onboard_time": 1677057272,
-      "rank": 38,
-      "category": "影视"
+      "raw_hot": 162220,
+      "num": 162220,
+      "word": "陈梦脚伤未愈退出女单半决赛",
+      "onboard_time": 1677058233,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160967,
+      "num": 160967,
+      "word": "上海一传媒公司两度被王一博起诉",
+      "onboard_time": 1677057334,
+      "rank": 40,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 158280,
@@ -1449,14 +1489,6 @@
       "onboard_time": 1676972436,
       "rank": 28,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 158129,
-      "num": 158129,
-      "word": "上海一传媒公司两度被王一博起诉",
-      "onboard_time": 1677057334,
-      "rank": 40,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 156093,
@@ -1651,14 +1683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111618,
-      "num": 111618,
-      "word": "外交部回应持签证赴美中国留学生遭拒绝入境",
-      "onboard_time": 1677057572,
-      "rank": 49,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 109289,
       "num": 109289,
       "word": "吴京呼吁网友为刘培强复活支招",
@@ -1689,6 +1713,14 @@
       "onboard_time": 1676988640,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100367,
+      "num": 100367,
+      "word": "在东北实现碳水自由有多爽",
+      "onboard_time": 1677058472,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 91291,

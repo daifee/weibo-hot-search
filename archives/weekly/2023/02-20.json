@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677057586870,
+  "endTime": 1677058489254,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -529,6 +529,14 @@
       "onboard_time": 1676870490,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1322399,
+      "num": 1322399,
+      "word": "四川一学校免费送新生iPhone14",
+      "onboard_time": 1677055951,
+      "rank": 4,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1291299,
@@ -1091,14 +1099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 891513,
-      "num": 891513,
-      "word": "四川一学校免费送新生iPhone14",
-      "onboard_time": 1677055951,
-      "rank": 4,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 879129,
       "num": 879129,
       "word": "杨紫诉医美公司侵权案将开庭",
@@ -1112,6 +1112,14 @@
       "word": "网购iPhone14开箱发现是IQOO",
       "onboard_time": 1676953655,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 864500,
+      "num": 864500,
+      "word": "23岁小伙起红疹被误诊6年查出癌症",
+      "onboard_time": 1677054513,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -1217,14 +1225,6 @@
       "onboard_time": 1676958330,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 821539,
-      "num": 821539,
-      "word": "23岁小伙起红疹被误诊6年查出癌症",
-      "onboard_time": 1677054513,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 816838,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1676966009,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 724319,
+      "num": 724319,
+      "word": "种地吧成员负债26万",
+      "onboard_time": 1677056851,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 724239,
@@ -3003,20 +3011,20 @@
       "category": "动漫,社会新闻"
     },
     {
+      "raw_hot": 408026,
+      "num": 408026,
+      "word": "杭州拟向三孩家庭发放补助2万元",
+      "onboard_time": 1677053552,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 404617,
       "num": 404617,
       "word": "这时候方向盘打不过来会被笑话吗",
       "onboard_time": 1677028290,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 404616,
-      "num": 404616,
-      "word": "杭州拟向三孩家庭发放补助2万元",
-      "onboard_time": 1677053552,
-      "rank": 31,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 404509,
@@ -3105,14 +3113,6 @@
       "onboard_time": 1676988453,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 390506,
-      "num": 390506,
-      "word": "种地吧成员负债26万",
-      "onboard_time": 1677056851,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 390268,
@@ -3723,6 +3723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329166,
+      "num": 329166,
+      "word": "皮克带新女友吃饭被赶出餐厅",
+      "onboard_time": 1677055711,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328536,
       "num": 328536,
       "word": "爱奇艺客服回应不再限制投屏",
@@ -4051,6 +4059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 296437,
+      "num": 296437,
+      "word": "蔡依林出发参加米兰时装周",
+      "onboard_time": 1677056374,
+      "rank": 24,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 295451,
       "num": 295451,
       "word": "宋亚轩侧颜状态",
@@ -4073,14 +4089,6 @@
       "onboard_time": 1676980049,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 295095,
-      "num": 295095,
-      "word": "皮克带新女友吃饭被赶出餐厅",
-      "onboard_time": 1677055711,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 295013,
@@ -4201,14 +4209,6 @@
       "onboard_time": 1677050133,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284446,
-      "num": 284446,
-      "word": "蔡依林出发参加米兰时装周",
-      "onboard_time": 1677056374,
-      "rank": 24,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 284033,
@@ -4443,6 +4443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263033,
+      "num": 263033,
+      "word": "张雪峰商业版图盘点",
+      "onboard_time": 1677055172,
+      "rank": 27,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 261444,
       "num": 261444,
       "word": "武林外传演男女分手时内心活动",
@@ -4451,12 +4459,12 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 259201,
-      "num": 259201,
-      "word": "张雪峰商业版图盘点",
-      "onboard_time": 1677055172,
-      "rank": 27,
-      "category": "财经,社会新闻"
+      "raw_hot": 258571,
+      "num": 258571,
+      "word": "韩庚郑恺于文文等分享前任4台词",
+      "onboard_time": 1677057272,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 256268,
@@ -4827,6 +4835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227412,
+      "num": 227412,
+      "word": "外交部回应持签证赴美中国留学生遭拒绝入境",
+      "onboard_time": 1677057572,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 227342,
       "num": 227342,
       "word": "男子救人留下我是四川人就离开了",
@@ -5091,6 +5107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206890,
+      "num": 206890,
+      "word": "陈梦退出直通赛",
+      "onboard_time": 1677057872,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206506,
       "num": 206506,
       "word": "SMTOWN将今日召开企业说明会",
@@ -5137,6 +5161,14 @@
       "onboard_time": 1676939189,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202958,
+      "num": 202958,
+      "word": "KPL选手持证上岗",
+      "onboard_time": 1677058112,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 202512,
@@ -5291,6 +5323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192875,
+      "num": 192875,
+      "word": "孙颖莎说更从容自信了",
+      "onboard_time": 1677057512,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190563,
       "num": 190563,
       "word": "MOSS服务器流量过载",
@@ -5432,14 +5472,6 @@
       "word": "詹姆斯队名单",
       "onboard_time": 1676857525,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 184824,
-      "num": 184824,
-      "word": "孙颖莎说更从容自信了",
-      "onboard_time": 1677057512,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -5835,6 +5867,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 162220,
+      "num": 162220,
+      "word": "陈梦脚伤未愈退出女单半决赛",
+      "onboard_time": 1677058233,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161904,
       "num": 161904,
       "word": "隆力奇是如何走向落没的",
@@ -5849,6 +5889,14 @@
       "onboard_time": 1676874089,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 160967,
+      "num": 160967,
+      "word": "上海一传媒公司两度被王一博起诉",
+      "onboard_time": 1677057334,
+      "rank": 40,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 160043,
@@ -5867,14 +5915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159682,
-      "num": 159682,
-      "word": "韩庚郑恺于文文等分享前任4台词",
-      "onboard_time": 1677057272,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 159181,
       "num": 159181,
       "word": "庄王送给魏妃的礼物",
@@ -5889,14 +5929,6 @@
       "onboard_time": 1676988216,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158129,
-      "num": 158129,
-      "word": "上海一传媒公司两度被王一博起诉",
-      "onboard_time": 1677057334,
-      "rank": 40,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 156631,
@@ -6323,14 +6355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111618,
-      "num": 111618,
-      "word": "外交部回应持签证赴美中国留学生遭拒绝入境",
-      "onboard_time": 1677057572,
-      "rank": 49,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 111608,
       "num": 111608,
       "word": "庐江中学称不会处理抢话筒学生",
@@ -6369,6 +6393,14 @@
       "onboard_time": 1676817152,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100367,
+      "num": 100367,
+      "word": "在东北实现碳水自由有多爽",
+      "onboard_time": 1677058472,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 88615,
