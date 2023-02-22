@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677091147366,
+  "endTime": 1677093270939,
   "band_list": [
     {
       "raw_hot": 1160828,
@@ -227,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210098,
+      "num": 210098,
+      "word": "大学生吐槽洗澡太贵一次18元",
+      "onboard_time": 1677089595,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205594,
       "num": 205594,
       "word": "乐乐与丫丫20年前抵美画面",
@@ -347,14 +355,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 127919,
-      "num": 127919,
-      "word": "大学生吐槽洗澡太贵一次18元",
-      "onboard_time": 1677089595,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125514,
       "num": 125514,
       "word": "毛不易不愧是be王者",
@@ -441,6 +441,22 @@
       "onboard_time": 1677088696,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 35880,
+      "num": 35880,
+      "word": "小学生看到2岁男童独行一路护送",
+      "onboard_time": 1677091512,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 25469,
+      "num": 25469,
+      "word": "七日有幸",
+      "onboard_time": 1677092772,
+      "rank": 36,
+      "category": "作品衍生,情感"
     }
   ],
   "hotgov_list": [
