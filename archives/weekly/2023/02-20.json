@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677022425953,
+  "endTime": 1677029971572,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -9,6 +9,14 @@
       "onboard_time": 1676809533,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 4793161,
+      "num": 4793161,
+      "word": "丫丫",
+      "onboard_time": 1676991157,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 4537623,
@@ -25,14 +33,6 @@
       "onboard_time": 1676864070,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3813771,
-      "num": 3813771,
-      "word": "丫丫",
-      "onboard_time": 1676991157,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 3278113,
@@ -65,6 +65,14 @@
       "onboard_time": 1676967030,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2959373,
+      "num": 2959373,
+      "word": "张雪峰吐槽还60万房贷利息57万",
+      "onboard_time": 1677024933,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2867131,
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1581111,
+      "num": 1581111,
+      "word": "女子宿舍吃火锅放罂粟提味被罚",
+      "onboard_time": 1677024871,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1563132,
       "num": 1563132,
       "word": "水哥变帅了",
@@ -385,6 +401,14 @@
       "onboard_time": 1676884110,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1338394,
+      "num": 1338394,
+      "word": "国家线",
+      "onboard_time": 1677029188,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 1337519,
@@ -755,6 +779,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 993478,
+      "num": 993478,
+      "word": "男子不信自己是逃犯报警验证",
+      "onboard_time": 1677027872,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 993323,
       "num": 993323,
       "word": "女子13岁被拐生子人贩子获刑12年",
@@ -864,6 +896,14 @@
       "word": "男子多次猥亵女子称自己易冲动",
       "onboard_time": 1676957372,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 904508,
+      "num": 618590,
+      "word": "27岁女子因未婚未育应聘被拒",
+      "onboard_time": 1676998282,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1003,6 +1043,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 812695,
+      "num": 812695,
+      "word": "身高与发育期的睡眠相关",
+      "onboard_time": 1677026371,
+      "rank": 6,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 811269,
+      "num": 811269,
+      "word": "电影前任4杀青阵容升级",
+      "onboard_time": 1677029550,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 809691,
       "num": 809691,
       "word": "A股",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1676887111,
       "rank": 16,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 760489,
+      "num": 760489,
+      "word": "Kakao或将收购JYP",
+      "onboard_time": 1677024933,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 760211,
@@ -1187,12 +1251,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 728994,
-      "num": 324184,
-      "word": "27岁女子因未婚未育应聘被拒",
-      "onboard_time": 1676998282,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 729759,
+      "num": 616272,
+      "word": "蔡徐坤米兰街头听演奏",
+      "onboard_time": 1677028831,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 727121,
@@ -1803,6 +1867,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 548345,
+      "num": 548345,
+      "word": "6岁女童被玩伴踹进水池",
+      "onboard_time": 1677026613,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 547191,
       "num": 547191,
       "word": "俄电视台讨论俄军为何不在拜登访乌时轰炸",
@@ -2020,7 +2092,7 @@
     },
     {
       "raw_hot": 489133,
-      "num": 1445087,
+      "num": 2229758,
       "word": "大熊猫香香回家现场画面",
       "onboard_time": 1676988814,
       "rank": 2,
@@ -2451,6 +2523,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 415879,
+      "num": 415879,
+      "word": "你接受婚后和公婆同住吗",
+      "onboard_time": 1677004513,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 413419,
       "num": 413419,
       "word": "金智秀MV拍摄中",
@@ -2481,6 +2561,14 @@
       "onboard_time": 1676865392,
       "rank": 22,
       "category": "动漫,社会新闻"
+    },
+    {
+      "raw_hot": 404617,
+      "num": 404617,
+      "word": "这时候方向盘打不过来会被笑话吗",
+      "onboard_time": 1677028290,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404509,
@@ -2681,6 +2769,14 @@
       "onboard_time": 1676890890,
       "rank": 23,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 374724,
+      "num": 374724,
+      "word": "脏手指 舞女泪",
+      "onboard_time": 1677021202,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 374626,
@@ -2915,6 +3011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344539,
+      "num": 344539,
+      "word": "宠物医院患者用喵喵拳攻击医生",
+      "onboard_time": 1677006372,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343431,
       "num": 343431,
       "word": "郭帆说流浪地球3大纲就快被套出来了",
@@ -3017,14 +3121,6 @@
       "onboard_time": 1676997803,
       "rank": 48,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 333173,
-      "num": 333173,
-      "word": "你接受婚后和公婆同住吗",
-      "onboard_time": 1677004513,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 331947,
@@ -3523,6 +3619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275193,
+      "num": 275193,
+      "word": "考研出分后怎么准备复试",
+      "onboard_time": 1677029308,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 275132,
       "num": 275132,
       "word": "二十届二中全会召开时间",
@@ -3579,6 +3683,14 @@
       "category": "科技,游戏"
     },
     {
+      "raw_hot": 270079,
+      "num": 270079,
+      "word": "宿迁建立离婚登记冷静期调解制度",
+      "onboard_time": 1677029010,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269643,
       "num": 269643,
       "word": "严浩翔团综游乐园路透",
@@ -3601,6 +3713,14 @@
       "onboard_time": 1676963310,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 266539,
+      "num": 266539,
+      "word": "直播旅美大熊猫丫丫",
+      "onboard_time": 1677021864,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266500,
@@ -3731,12 +3851,12 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 248921,
-      "num": 248921,
-      "word": "宠物医院患者用喵喵拳攻击医生",
-      "onboard_time": 1677006372,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 247904,
+      "num": 247904,
+      "word": "美丽的他",
+      "onboard_time": 1677024450,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 247524,
@@ -3809,6 +3929,14 @@
       "onboard_time": 1676872529,
       "rank": 30,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 238548,
+      "num": 238548,
+      "word": "二喜团建",
+      "onboard_time": 1677023787,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 237674,
@@ -3923,14 +4051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226171,
-      "num": 226171,
-      "word": "直播旅美大熊猫丫丫",
-      "onboard_time": 1677021864,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225866,
       "num": 225866,
       "word": "原来这就是喜上梅梢",
@@ -4035,11 +4155,27 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 214101,
+      "num": 214101,
+      "word": "皇马杀疯了",
+      "onboard_time": 1677027271,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213765,
       "num": 213765,
       "word": "香香回国是为寻找合适伴侣",
       "onboard_time": 1676991275,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213611,
+      "num": 213611,
+      "word": "网友呼吁提前接旅美大熊猫丫丫回国",
+      "onboard_time": 1677023369,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -4267,6 +4403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195640,
+      "num": 195640,
+      "word": "微软将把所有暴雪游戏引入英伟达平台",
+      "onboard_time": 1677029610,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195172,
       "num": 195172,
       "word": "邢菲武庚纪蓝白长裙路透",
@@ -4305,6 +4449,14 @@
       "onboard_time": 1676959529,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193042,
+      "num": 193042,
+      "word": "美脱轨列车现场挖出6.8吨受污染土",
+      "onboard_time": 1677029308,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190563,
@@ -4371,14 +4523,6 @@
       "category": "影视,体育"
     },
     {
-      "raw_hot": 188339,
-      "num": 188339,
-      "word": "脏手指 舞女泪",
-      "onboard_time": 1677021202,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 187640,
       "num": 187640,
       "word": "星宇MOMENT复古玩趣大片",
@@ -4401,6 +4545,14 @@
       "onboard_time": 1676806350,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186078,
+      "num": 186078,
+      "word": "23城下调首套房贷利率",
+      "onboard_time": 1676999840,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 185836,
@@ -4441,6 +4593,14 @@
       "onboard_time": 1676813731,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184404,
+      "num": 184404,
+      "word": "大熊猫丫丫旅美时间线",
+      "onboard_time": 1677028412,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182988,
@@ -4827,6 +4987,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155767,
+      "num": 155767,
+      "word": "这是我见过最详细的旅游攻略",
+      "onboard_time": 1677023428,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 155744,
+      "num": 155744,
+      "word": "卡里乌斯之夜",
+      "onboard_time": 1677027154,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155624,
       "num": 155624,
       "word": "女子应聘助理被要求和经理同生活",
@@ -4931,14 +5107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142883,
-      "num": 142883,
-      "word": "23城下调首套房贷利率",
-      "onboard_time": 1676999840,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 142286,
       "num": 142286,
       "word": "巴黎圣日耳曼4比3里尔",
@@ -4961,6 +5129,14 @@
       "onboard_time": 1676976390,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140990,
+      "num": 140990,
+      "word": "刘畊宏模仿言承旭",
+      "onboard_time": 1677000799,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 138751,
@@ -5025,6 +5201,22 @@
       "onboard_time": 1676850927,
       "rank": 42,
       "category": "作品衍生,社会新闻"
+    },
+    {
+      "raw_hot": 132028,
+      "num": 132028,
+      "word": "美方人员从拜登专机舷梯跌落",
+      "onboard_time": 1677029909,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 131325,
+      "num": 131325,
+      "word": "欧冠上的血脉压制",
+      "onboard_time": 1677025773,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 130407,
@@ -5185,14 +5377,6 @@
       "onboard_time": 1676817152,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97524,
-      "num": 97524,
-      "word": "刘畊宏模仿言承旭",
-      "onboard_time": 1677000799,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 88615,
