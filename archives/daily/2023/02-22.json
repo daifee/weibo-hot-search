@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677036190978,
+  "endTime": 1677037041242,
   "band_list": [
     {
       "raw_hot": 4793161,
@@ -19,12 +19,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2199534,
-      "num": 2199534,
+      "raw_hot": 2388017,
+      "num": 2388017,
       "word": "国家线",
       "onboard_time": 1677029188,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1988592,
+      "num": 1988592,
+      "word": "妈妈给女儿停掉抗抑郁药换成维生素",
+      "onboard_time": 1677035128,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1618305,
@@ -91,14 +99,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1125921,
-      "num": 576208,
-      "word": "妈妈给女儿停掉抗抑郁药换成维生素",
-      "onboard_time": 1677035128,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1108543,
       "num": 1108543,
       "word": "日本海岸发现不明球状物",
@@ -131,6 +131,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 915291,
+      "num": 915291,
+      "word": "HYBE成SMTOWN第一大股东",
+      "onboard_time": 1677036030,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 904508,
       "num": 618590,
       "word": "27岁女子因未婚未育应聘被拒",
@@ -147,8 +155,8 @@
       "category": "其它"
     },
     {
-      "raw_hot": 788055,
-      "num": 788055,
+      "raw_hot": 808035,
+      "num": 808035,
       "word": "五月天演唱会门票",
       "onboard_time": 1677034289,
       "rank": 20,
@@ -201,6 +209,14 @@
       "onboard_time": 1677030507,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 701603,
+      "num": 701603,
+      "word": "丫丫或将提前回国",
+      "onboard_time": 1677035310,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 680477,
@@ -259,6 +275,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 525987,
+      "num": 525987,
+      "word": "周杰伦演唱会 衢州",
+      "onboard_time": 1677036212,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 505975,
       "num": 505975,
       "word": "全球第5例艾滋病治愈者出现",
@@ -283,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478898,
-      "num": 478898,
-      "word": "丫丫或将提前回国",
-      "onboard_time": 1677035310,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 477331,
       "num": 477331,
       "word": "研究发现艾滋病或有望治愈",
@@ -307,20 +323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463719,
+      "num": 463719,
+      "word": "十年朋克无人问 一朝舞女天下知",
+      "onboard_time": 1677032430,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 435510,
       "num": 435510,
       "word": "广州漫展",
       "onboard_time": 1676991767,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 426616,
-      "num": 426616,
-      "word": "十年朋克无人问 一朝舞女天下知",
-      "onboard_time": 1677032430,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 415879,
@@ -371,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349312,
+      "num": 349312,
+      "word": "浮图缘集体入职今日宜加油",
+      "onboard_time": 1677036148,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 347398,
       "num": 347398,
       "word": "提前还贷算违约吗",
@@ -403,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336654,
+      "num": 336654,
+      "word": "侵权赵丽颖黑粉道歉",
+      "onboard_time": 1677036570,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334440,
       "num": 334440,
       "word": "美国北约火速回应俄暂停削减武器条约",
@@ -427,20 +459,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 320821,
+      "num": 320821,
+      "word": "TizzyT新厂牌全员官宣",
+      "onboard_time": 1677035310,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 320673,
       "num": 320673,
       "word": "91岁教师决定去世后捐献遗体给浙大",
       "onboard_time": 1677033989,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 313431,
-      "num": 313431,
-      "word": "TizzyT新厂牌全员官宣",
-      "onboard_time": 1677035310,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 312473,
@@ -483,14 +515,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 276191,
-      "num": 276191,
-      "word": "浮图缘集体入职今日宜加油",
-      "onboard_time": 1677036148,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 274737,
       "num": 274737,
       "word": "日本人有多舍不得中国大熊猫香香",
@@ -505,6 +529,14 @@
       "onboard_time": 1677021864,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266531,
+      "num": 266531,
+      "word": "箱庭小偶",
+      "onboard_time": 1677035491,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 265757,
@@ -545,14 +577,6 @@
       "onboard_time": 1677024450,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246764,
-      "num": 246764,
-      "word": "HYBE成SMTOWN第一大股东",
-      "onboard_time": 1677036030,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 246501,
@@ -635,6 +659,14 @@
       "category": "幽默,网红"
     },
     {
+      "raw_hot": 227383,
+      "num": 227383,
+      "word": "boss回应女子因未婚未育应聘被拒",
+      "onboard_time": 1677036450,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227342,
       "num": 227342,
       "word": "男子救人留下我是四川人就离开了",
@@ -691,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202619,
-      "num": 202619,
-      "word": "箱庭小偶",
-      "onboard_time": 1677035491,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194363,
       "num": 194363,
       "word": "一人一个暴露年龄的老物件儿",
@@ -753,6 +777,14 @@
       "onboard_time": 1676991275,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173219,
+      "num": 173219,
+      "word": "苹果变色表带可根据着装变幻颜色",
+      "onboard_time": 1677036812,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 170103,
@@ -995,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85699,
+      "num": 2136212,
+      "word": "春耕农忙正当时",
+      "onboard_time": 1677035610,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84340,
       "num": 84340,
       "word": "半熟恋人",
@@ -1043,14 +1083,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 59505,
-      "num": 1691356,
-      "word": "春耕农忙正当时",
-      "onboard_time": 1677035610,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27975,
       "num": 27975,
       "word": "萌娃剃头图鉴",
@@ -1079,6 +1111,9 @@
     },
     {
       "word": "#使农村的生活奔向现代化越走越有奔头#"
+    },
+    {
+      "word": "#应对全球安全困境中国给出方案#"
     }
   ]
 }

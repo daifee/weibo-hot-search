@@ -1,0 +1,410 @@
+{
+  "runTime": 1677037041242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3183921,
+        "num": 3183921,
+        "word": "丫丫",
+        "onboard_time": 1676991157,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2388017,
+        "num": 2388017,
+        "word": "国家线",
+        "onboard_time": 1677029188,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 85699,
+        "num": 2136212,
+        "word": "春耕农忙正当时",
+        "onboard_time": 1677035610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1988592,
+        "num": 1988592,
+        "word": "妈妈给女儿停掉抗抑郁药换成维生素",
+        "onboard_time": 1677035128,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1417074,
+        "num": 1417074,
+        "word": "火锅店18元一份土豆就5薄片",
+        "onboard_time": 1677031528,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999188,
+        "num": 999188,
+        "word": "郑恺晒前任4余飞杀青照",
+        "onboard_time": 1677033148,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 915291,
+        "num": 915291,
+        "word": "HYBE成SMTOWN第一大股东",
+        "onboard_time": 1677036030,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 819133,
+        "num": 819133,
+        "word": "日本海岸发现不明球状物",
+        "onboard_time": 1677030450,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808035,
+        "num": 808035,
+        "word": "五月天演唱会门票",
+        "onboard_time": 1677034289,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 739406,
+        "num": 739406,
+        "word": "新加坡给穷人发钱让富人增税应对涨价",
+        "onboard_time": 1677032312,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1130282,
+        "num": 735606,
+        "word": "张雪峰吐槽还60万房贷利息57万",
+        "onboard_time": 1677024933,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701603,
+        "num": 701603,
+        "word": "丫丫或将提前回国",
+        "onboard_time": 1677035310,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617870,
+        "num": 617870,
+        "word": "我的工位是不是有脏东西",
+        "onboard_time": 1677031950,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 546011,
+        "num": 546011,
+        "word": "彭昱畅李庚希出演韩延新片",
+        "onboard_time": 1677035010,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 545258,
+        "num": 545258,
+        "word": "提前还贷大大减轻按揭压力",
+        "onboard_time": 1677032068,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 525987,
+        "num": 525987,
+        "word": "周杰伦演唱会 衢州",
+        "onboard_time": 1677036212,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 463719,
+        "num": 463719,
+        "word": "十年朋克无人问 一朝舞女天下知",
+        "onboard_time": 1677032430,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 422533,
+        "num": 422533,
+        "word": "iPhone15Pro机型有望配8GB内存",
+        "onboard_time": 1677030507,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 413662,
+        "num": 413662,
+        "word": "女子宿舍吃火锅放罂粟提味被罚",
+        "onboard_time": 1677024871,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384909,
+        "num": 384909,
+        "word": "心疼丫丫",
+        "onboard_time": 1677031290,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363851,
+        "num": 363851,
+        "word": "Kakao或将收购JYP",
+        "onboard_time": 1677024933,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361328,
+        "num": 361328,
+        "word": "全村凑钱上大学的孩子返乡带大家致富",
+        "onboard_time": 1677033867,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355306,
+        "num": 355306,
+        "word": "27岁女子因未婚未育应聘被拒",
+        "onboard_time": 1676998282,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349312,
+        "num": 349312,
+        "word": "浮图缘集体入职今日宜加油",
+        "onboard_time": 1677036148,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345631,
+        "num": 345631,
+        "word": "3月起自中国入境韩国无须核酸",
+        "onboard_time": 1677030570,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336654,
+        "num": 336654,
+        "word": "侵权赵丽颖黑粉道歉",
+        "onboard_time": 1677036570,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320821,
+        "num": 320821,
+        "word": "TizzyT新厂牌全员官宣",
+        "onboard_time": 1677035310,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315055,
+        "num": 315055,
+        "word": "91岁教师决定去世后捐献遗体给浙大",
+        "onboard_time": 1677033989,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 299426,
+        "num": 299426,
+        "word": "男子不信自己是逃犯报警验证",
+        "onboard_time": 1677027872,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267900,
+        "num": 267900,
+        "word": "电影前任4杀青阵容升级",
+        "onboard_time": 1677029550,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266531,
+        "num": 266531,
+        "word": "箱庭小偶",
+        "onboard_time": 1677035491,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256863,
+        "num": 256863,
+        "word": "蔡徐坤米兰街头听演奏",
+        "onboard_time": 1677028831,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250251,
+        "num": 250251,
+        "word": "女童玩滑梯被男童踹倒头着地",
+        "onboard_time": 1677033148,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 229450,
+        "num": 229450,
+        "word": "身高与发育期的睡眠相关",
+        "onboard_time": 1677026371,
+        "rank": 33,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 227383,
+        "num": 227383,
+        "word": "boss回应女子因未婚未育应聘被拒",
+        "onboard_time": 1677036450,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218816,
+        "num": 218816,
+        "word": "阴阳师",
+        "onboard_time": 1677034892,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212909,
+        "num": 212909,
+        "word": "AppleWatch或因侵权在美国禁售",
+        "onboard_time": 1677034588,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 210659,
+        "num": 210659,
+        "word": "大熊猫香香回家现场画面",
+        "onboard_time": 1676988814,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207418,
+        "num": 207418,
+        "word": "3只旅日大熊猫今日回国",
+        "onboard_time": 1677032007,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207059,
+        "num": 207059,
+        "word": "微软将把所有暴雪游戏引入英伟达平台",
+        "onboard_time": 1677029610,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199429,
+        "num": 199429,
+        "word": "陈星旭直播把袜带戴头上",
+        "onboard_time": 1677030751,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197363,
+        "num": 197363,
+        "word": "脏手指 舞女泪",
+        "onboard_time": 1677021202,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181484,
+        "num": 181484,
+        "word": "河北保定发生一起重大刑案",
+        "onboard_time": 1676989354,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 173219,
+        "num": 173219,
+        "word": "苹果变色表带可根据着装变幻颜色",
+        "onboard_time": 1677036812,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 171510,
+        "num": 171510,
+        "word": "莫德里奇庆祝逆转利物浦",
+        "onboard_time": 1677030869,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168278,
+        "num": 168278,
+        "word": "美方人员从拜登专机舷梯跌落",
+        "onboard_time": 1677029909,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 165222,
+        "num": 165222,
+        "word": "宿迁建立离婚登记冷静期调解制度",
+        "onboard_time": 1677029010,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164954,
+        "num": 164954,
+        "word": "你接受婚后和公婆同住吗",
+        "onboard_time": 1677004513,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164145,
+        "num": 164145,
+        "word": "来电显示96110一定要接",
+        "onboard_time": 1676989839,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156102,
+        "num": 156102,
+        "word": "6岁女童被玩伴踹进水池",
+        "onboard_time": 1677026613,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#应对全球安全困境中国给出方案#"
+    }
+  }
+}
