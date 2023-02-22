@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677047989413,
+  "endTime": 1677050260680,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -155,6 +155,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2287251,
+      "num": 1503718,
+      "word": "李天一",
+      "onboard_time": 1677044553,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2258602,
       "num": 2258602,
       "word": "男子发现亡父739万债务3年偿清",
@@ -169,14 +177,6 @@
       "onboard_time": 1676870075,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2196404,
-      "num": 1503718,
-      "word": "李天一",
-      "onboard_time": 1677044553,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2106245,
@@ -203,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2008467,
+      "num": 2008467,
+      "word": "乐乐",
+      "onboard_time": 1677038320,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1986446,
       "num": 486547,
       "word": "网友曝腾讯视频半夜跳转恐怖片",
       "onboard_time": 1676986052,
       "rank": 13,
       "category": "科技,影视"
-    },
-    {
-      "raw_hot": 1980261,
-      "num": 1980261,
-      "word": "乐乐",
-      "onboard_time": 1677038320,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1967302,
@@ -1251,6 +1251,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 782911,
+      "num": 782911,
+      "word": "中国专家已赴美协商丫丫回国事宜",
+      "onboard_time": 1677046111,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 781787,
       "num": 781787,
       "word": "易烊千玺提醒大家关注消防安全",
@@ -1675,6 +1683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 667191,
+      "num": 667191,
+      "word": "赵丽颖虎狼之路拍摄路透",
+      "onboard_time": 1677048031,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 666883,
       "num": 666883,
       "word": "俄罗斯要求美国从乌克兰撤军",
@@ -1721,6 +1737,14 @@
       "onboard_time": 1676864912,
       "rank": 14,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 649490,
+      "num": 649490,
+      "word": "员工阳康后连上16天班在宿舍离世",
+      "onboard_time": 1677045149,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 649335,
@@ -1947,14 +1971,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 590605,
-      "num": 590605,
-      "word": "中国专家已赴美协商丫丫回国事宜",
-      "onboard_time": 1677046111,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 589151,
       "num": 589151,
       "word": "EXO和aespa歌曲正在制作中",
@@ -1993,14 +2009,6 @@
       "onboard_time": 1676976210,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 585259,
-      "num": 585259,
-      "word": "员工阳康后连上16天班在宿舍离世",
-      "onboard_time": 1677045149,
-      "rank": 12,
-      "category": "社会负面"
     },
     {
       "raw_hot": 584319,
@@ -2129,6 +2137,14 @@
       "onboard_time": 1677026613,
       "rank": 12,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 547783,
+      "num": 547783,
+      "word": "白面僧猴",
+      "onboard_time": 1677046893,
+      "rank": 41,
+      "category": "其它"
     },
     {
       "raw_hot": 547191,
@@ -2449,6 +2465,14 @@
       "onboard_time": 1676877811,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 474958,
+      "num": 474958,
+      "word": "15岁以下抑郁症患者3年涨3倍多",
+      "onboard_time": 1677044732,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474799,
@@ -2785,14 +2809,6 @@
       "onboard_time": 1676867736,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 426922,
-      "num": 426922,
-      "word": "15岁以下抑郁症患者3年涨3倍多",
-      "onboard_time": 1677044732,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 424999,
@@ -3179,6 +3195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 373482,
+      "num": 373482,
+      "word": "大侦探这期开场全员遇害",
+      "onboard_time": 1677047792,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371721,
       "num": 371721,
       "word": "当地政府回应16岁少女逃婚事件",
@@ -3361,6 +3385,14 @@
       "onboard_time": 1676881408,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351650,
+      "num": 351650,
+      "word": "吴磊在芬兰给人指路",
+      "onboard_time": 1677049291,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 351028,
@@ -3795,14 +3827,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 312823,
-      "num": 312823,
-      "word": "白面僧猴",
-      "onboard_time": 1677046893,
-      "rank": 41,
-      "category": "其它"
-    },
-    {
       "raw_hot": 312617,
       "num": 312617,
       "word": "马嘉祺三亚打太极路透",
@@ -4195,6 +4219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268824,
+      "num": 222971,
+      "word": "李秀满中国公司否认偷税漏税",
+      "onboard_time": 1677050133,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268492,
       "num": 268492,
       "word": "威少将加盟快船",
@@ -4427,6 +4459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241864,
+      "num": 241864,
+      "word": "名侦探学院",
+      "onboard_time": 1677047672,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241752,
       "num": 241752,
       "word": "大学生开学决赛圈",
@@ -4587,6 +4627,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 227802,
+      "num": 227802,
+      "word": "蔡徐坤分享米兰随拍",
+      "onboard_time": 1677048868,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 227721,
       "num": 227721,
       "word": "我是颜值主播我不会跳舞",
@@ -4635,6 +4683,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 225512,
+      "num": 225512,
+      "word": "魏晨胡同随拍",
+      "onboard_time": 1677048574,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224951,
       "num": 224951,
       "word": "战友女儿患白血病13名官兵捐血小板",
@@ -4681,6 +4737,14 @@
       "onboard_time": 1676898036,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220757,
+      "num": 220757,
+      "word": "贵州一女子曝光教师丈夫家暴视频",
+      "onboard_time": 1677048511,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218936,
@@ -4849,14 +4913,6 @@
       "onboard_time": 1676857585,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207091,
-      "num": 207091,
-      "word": "名侦探学院",
-      "onboard_time": 1677047672,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 206896,
@@ -5155,6 +5211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186465,
+      "num": 186465,
+      "word": "艾尔登法环销量突破2000万",
+      "onboard_time": 1677049592,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186392,
       "num": 186392,
       "word": "梅西刮胡子了",
@@ -5224,6 +5288,14 @@
       "word": "大熊猫丫丫旅美时间线",
       "onboard_time": 1677028412,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182995,
+      "num": 182995,
+      "word": "孟菲斯曾有多只动物神秘死亡",
+      "onboard_time": 1677048331,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -5313,14 +5385,6 @@
       "onboard_time": 1676985093,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 177872,
-      "num": 177872,
-      "word": "大侦探这期开场全员遇害",
-      "onboard_time": 1677047792,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 177223,
@@ -5849,6 +5913,14 @@
       "onboard_time": 1677045811,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136129,
+      "num": 136129,
+      "word": "张绍刚说王鹤棣长得让人垂涎欲滴",
+      "onboard_time": 1677040957,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 134375,

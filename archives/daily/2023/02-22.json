@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677047989413,
+  "endTime": 1677050260680,
   "band_list": [
     {
       "raw_hot": 5326666,
@@ -51,7 +51,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2196404,
+      "raw_hot": 2287251,
       "num": 1503718,
       "word": "李天一",
       "onboard_time": 1677044553,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1980261,
-      "num": 1980261,
+      "raw_hot": 2008467,
+      "num": 2008467,
       "word": "乐乐",
       "onboard_time": 1677038320,
       "rank": 5,
@@ -259,6 +259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 782911,
+      "num": 782911,
+      "word": "中国专家已赴美协商丫丫回国事宜",
+      "onboard_time": 1677046111,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 781448,
       "num": 781448,
       "word": "3月起自中国入境韩国无须核酸",
@@ -347,12 +355,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 667191,
+      "num": 667191,
+      "word": "赵丽颖虎狼之路拍摄路透",
+      "onboard_time": 1677048031,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 666883,
       "num": 666883,
       "word": "俄罗斯要求美国从乌克兰撤军",
       "onboard_time": 1677017233,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 649490,
+      "num": 649490,
+      "word": "员工阳康后连上16天班在宿舍离世",
+      "onboard_time": 1677045149,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 630826,
@@ -379,22 +403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 590605,
-      "num": 590605,
-      "word": "中国专家已赴美协商丫丫回国事宜",
-      "onboard_time": 1677046111,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 585259,
-      "num": 585259,
-      "word": "员工阳康后连上16天班在宿舍离世",
-      "onboard_time": 1677045149,
-      "rank": 12,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 556144,
       "num": 556144,
       "word": "提前还贷大大减轻按揭压力",
@@ -409,6 +417,14 @@
       "onboard_time": 1677026613,
       "rank": 12,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 547783,
+      "num": 547783,
+      "word": "白面僧猴",
+      "onboard_time": 1677046893,
+      "rank": 41,
+      "category": "其它"
     },
     {
       "raw_hot": 538420,
@@ -467,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474958,
+      "num": 474958,
+      "word": "15岁以下抑郁症患者3年涨3倍多",
+      "onboard_time": 1677044732,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474496,
       "num": 474496,
       "word": "宿迁建立离婚登记冷静期调解制度",
@@ -497,14 +521,6 @@
       "onboard_time": 1676991767,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 426922,
-      "num": 426922,
-      "word": "15岁以下抑郁症患者3年涨3倍多",
-      "onboard_time": 1677044732,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 423060,
@@ -587,6 +603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 373482,
+      "num": 373482,
+      "word": "大侦探这期开场全员遇害",
+      "onboard_time": 1677047792,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370305,
       "num": 370305,
       "word": "前任4",
@@ -617,6 +641,14 @@
       "onboard_time": 1677032007,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351650,
+      "num": 351650,
+      "word": "吴磊在芬兰给人指路",
+      "onboard_time": 1677049291,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 349312,
@@ -707,14 +739,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 312823,
-      "num": 312823,
-      "word": "白面僧猴",
-      "onboard_time": 1677046893,
-      "rank": 41,
-      "category": "其它"
-    },
-    {
       "raw_hot": 312473,
       "num": 312473,
       "word": "夏花 BE",
@@ -793,6 +817,14 @@
       "onboard_time": 1676970092,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268824,
+      "num": 222971,
+      "word": "李秀满中国公司否认偷税漏税",
+      "onboard_time": 1677050133,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 266539,
@@ -883,6 +915,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 241864,
+      "num": 241864,
+      "word": "名侦探学院",
+      "onboard_time": 1677047672,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240461,
       "num": 240461,
       "word": "柯南2023咖啡店海报",
@@ -955,6 +995,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 227802,
+      "num": 227802,
+      "word": "蔡徐坤分享米兰随拍",
+      "onboard_time": 1677048868,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 227721,
       "num": 227721,
       "word": "我是颜值主播我不会跳舞",
@@ -979,6 +1027,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 225512,
+      "num": 225512,
+      "word": "魏晨胡同随拍",
+      "onboard_time": 1677048574,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225258,
       "num": 225258,
       "word": "林志颖问谁还记得放羊的星星这部剧",
@@ -993,6 +1049,14 @@
       "onboard_time": 1677034892,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220757,
+      "num": 220757,
+      "word": "贵州一女子曝光教师丈夫家暴视频",
+      "onboard_time": 1677048511,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217473,
@@ -1025,14 +1089,6 @@
       "onboard_time": 1676985454,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207091,
-      "num": 207091,
-      "word": "名侦探学院",
-      "onboard_time": 1677047672,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 205149,
@@ -1083,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186465,
+      "num": 186465,
+      "word": "艾尔登法环销量突破2000万",
+      "onboard_time": 1677049592,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186078,
       "num": 186078,
       "word": "23城下调首套房贷利率",
@@ -1115,20 +1179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182995,
+      "num": 182995,
+      "word": "孟菲斯曾有多只动物神秘死亡",
+      "onboard_time": 1677048331,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180874,
       "num": 180874,
       "word": "女子连刷10个差评商家找上门怒怼",
       "onboard_time": 1676978251,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177872,
-      "num": 177872,
-      "word": "大侦探这期开场全员遇害",
-      "onboard_time": 1677047792,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 174156,
@@ -1281,6 +1345,14 @@
       "onboard_time": 1677045811,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136129,
+      "num": 136129,
+      "word": "张绍刚说王鹤棣长得让人垂涎欲滴",
+      "onboard_time": 1677040957,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 132829,

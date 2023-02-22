@@ -1,0 +1,410 @@
+{
+  "runTime": 1677050260680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2278032,
+        "num": 2278032,
+        "word": "丁太升说乌梅子酱俗不可耐",
+        "onboard_time": 1677043652,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2008467,
+        "num": 2008467,
+        "word": "乐乐",
+        "onboard_time": 1677038320,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74505,
+        "num": 1761241,
+        "word": "春耕农忙正当时",
+        "onboard_time": 1677035610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1627574,
+        "num": 1627574,
+        "word": "张雪峰发文致歉",
+        "onboard_time": 1677037230,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291391,
+        "num": 1291391,
+        "word": "纪向宁考研成绩总分439分",
+        "onboard_time": 1677042215,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2287251,
+        "num": 1246750,
+        "word": "李天一",
+        "onboard_time": 1677044553,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1185775,
+        "num": 1185775,
+        "word": "妈妈给女儿停掉抗抑郁药换成维生素",
+        "onboard_time": 1677035128,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880336,
+        "num": 880336,
+        "word": "丫丫",
+        "onboard_time": 1676991157,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 782911,
+        "num": 782911,
+        "word": "中国专家已赴美协商丫丫回国事宜",
+        "onboard_time": 1677046111,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728299,
+        "num": 728299,
+        "word": "贵阳回应一领导不雅聊天记录曝光",
+        "onboard_time": 1677041017,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667191,
+        "num": 667191,
+        "word": "赵丽颖虎狼之路拍摄路透",
+        "onboard_time": 1677048031,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 649490,
+        "num": 649490,
+        "word": "员工阳康后连上16天班在宿舍离世",
+        "onboard_time": 1677045149,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 616622,
+        "num": 616622,
+        "word": "HYBE三国语言公告没有中文",
+        "onboard_time": 1677042992,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603965,
+        "num": 603965,
+        "word": "周杰伦演唱会 衢州",
+        "onboard_time": 1677036212,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 601944,
+        "num": 601944,
+        "word": "美司令暗示台湾有事将部署攻击解放军",
+        "onboard_time": 1677041675,
+        "rank": 14,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 547783,
+        "num": 547783,
+        "word": "白面僧猴",
+        "onboard_time": 1677046893,
+        "rank": 15,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 488200,
+        "num": 488200,
+        "word": "国家线",
+        "onboard_time": 1677029188,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 474958,
+        "num": 474958,
+        "word": "15岁以下抑郁症患者3年涨3倍多",
+        "onboard_time": 1677044732,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377878,
+        "num": 377878,
+        "word": "香香丫丫待遇为何差距大",
+        "onboard_time": 1677040417,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373482,
+        "num": 373482,
+        "word": "大侦探这期开场全员遇害",
+        "onboard_time": 1677047792,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351650,
+        "num": 351650,
+        "word": "吴磊在芬兰给人指路",
+        "onboard_time": 1677049291,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267525,
+        "num": 267525,
+        "word": "李宇春米兰时装周出发图",
+        "onboard_time": 1677045512,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 262558,
+        "num": 262558,
+        "word": "JYP中国已与腾讯成立合资公司",
+        "onboard_time": 1677038434,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 258497,
+        "num": 258497,
+        "word": "火锅店18元一份土豆就5薄片",
+        "onboard_time": 1677031528,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251864,
+        "num": 251864,
+        "word": "14岁女孩暴发性心肌炎1年9次返院",
+        "onboard_time": 1677040358,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251410,
+        "num": 251410,
+        "word": "家长开门没想到把2岁女童手指夹断",
+        "onboard_time": 1677037349,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 241864,
+        "num": 241864,
+        "word": "名侦探学院",
+        "onboard_time": 1677047672,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227802,
+        "num": 227802,
+        "word": "蔡徐坤分享米兰随拍",
+        "onboard_time": 1677048868,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 225512,
+        "num": 225512,
+        "word": "魏晨胡同随拍",
+        "onboard_time": 1677048574,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222984,
+        "num": 222984,
+        "word": "柯南2023咖啡店海报",
+        "onboard_time": 1677047192,
+        "rank": 29,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 268824,
+        "num": 222971,
+        "word": "李秀满中国公司否认偷税漏税",
+        "onboard_time": 1677050133,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222010,
+        "num": 222010,
+        "word": "马沙拉棣",
+        "onboard_time": 1677039094,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220757,
+        "num": 220757,
+        "word": "贵州一女子曝光教师丈夫家暴视频",
+        "onboard_time": 1677048511,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219358,
+        "num": 219358,
+        "word": "五月天演唱会门票",
+        "onboard_time": 1677034289,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202409,
+        "num": 202409,
+        "word": "巴奴涉事门店回应18元土豆仅5片",
+        "onboard_time": 1677042933,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196127,
+        "num": 196127,
+        "word": "成龙娜扎神话2同框合影",
+        "onboard_time": 1677038971,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194163,
+        "num": 194163,
+        "word": "农行回应对雄安购房者推出连心贷",
+        "onboard_time": 1677045273,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 190705,
+        "num": 190705,
+        "word": "31岁大熊猫永明携双胞胎回家",
+        "onboard_time": 1677039874,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186669,
+        "num": 186669,
+        "word": "HYBE成SMTOWN第一大股东",
+        "onboard_time": 1677036030,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186465,
+        "num": 186465,
+        "word": "艾尔登法环销量突破2000万",
+        "onboard_time": 1677049592,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186248,
+        "num": 186248,
+        "word": "当地回应公职人员相亲失败出言不逊",
+        "onboard_time": 1677038134,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182995,
+        "num": 182995,
+        "word": "孟菲斯曾有多只动物神秘死亡",
+        "onboard_time": 1677048331,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179942,
+        "num": 179942,
+        "word": "前任4",
+        "onboard_time": 1677043591,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167751,
+        "num": 167751,
+        "word": "考研上岸表情",
+        "onboard_time": 1677045872,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157266,
+        "num": 157266,
+        "word": "我的工位是不是有脏东西",
+        "onboard_time": 1677031950,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141431,
+        "num": 141431,
+        "word": "丫丫或将提前回国",
+        "onboard_time": 1677035310,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136924,
+        "num": 136924,
+        "word": "iPhone15Pro机型有望配8GB内存",
+        "onboard_time": 1677030507,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 136129,
+        "num": 136129,
+        "word": "张绍刚说王鹤棣长得让人垂涎欲滴",
+        "onboard_time": 1677040957,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123678,
+        "num": 123678,
+        "word": "美动物保护组织曾担忧丫丫处境",
+        "onboard_time": 1677045811,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112869,
+        "num": 112869,
+        "word": "剧版雪鹰领主",
+        "onboard_time": 1677044311,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#应对全球安全困境中国给出方案#"
+    }
+  }
+}
