@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677083214058,
+  "endTime": 1677084315482,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -21483,6 +21483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426628,
+      "num": 426628,
+      "word": "爷爷颤颤巍巍去见孙子最后一面",
+      "onboard_time": 1677082644,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426535,
       "num": 405399,
       "word": "周也石榴花神造型",
@@ -30795,6 +30803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283179,
+      "num": 283179,
+      "word": "蒿俊闵",
+      "onboard_time": 1677081926,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283146,
       "num": 283146,
       "word": "被人坚定地选择是什么感觉",
@@ -34553,6 +34569,14 @@
       "onboard_time": 1676627672,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242744,
+      "num": 242744,
+      "word": "南方都是这样的教学楼吗",
+      "onboard_time": 1677083304,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 242700,
@@ -38761,14 +38785,6 @@
       "onboard_time": 1676770291,
       "rank": 38,
       "category": "科技"
-    },
-    {
-      "raw_hot": 200385,
-      "num": 155202,
-      "word": "蒿俊闵",
-      "onboard_time": 1677081926,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 200347,
@@ -45547,6 +45563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151420,
+      "num": 151420,
+      "word": "找人类帮忙的小猫",
+      "onboard_time": 1677083124,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151224,
       "num": 151224,
       "word": "seventeen克拉岛回忆录",
@@ -45945,14 +45969,6 @@
       "onboard_time": 1675487489,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146748,
-      "num": 146748,
-      "word": "爷爷颤颤巍巍去见孙子最后一面",
-      "onboard_time": 1677082644,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146710,
@@ -48889,14 +48905,6 @@
       "onboard_time": 1675546513,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 86506,
-      "num": 86506,
-      "word": "找人类帮忙的小猫",
-      "onboard_time": 1677083124,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 86068,

@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677083214058,
+  "endTime": 1677084315482,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -3179,6 +3179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 426628,
+      "num": 426628,
+      "word": "爷爷颤颤巍巍去见孙子最后一面",
+      "onboard_time": 1677082644,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424999,
       "num": 424999,
       "word": "金希澈为校园暴力受害者捐款",
@@ -4675,6 +4683,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 283179,
+      "num": 283179,
+      "word": "蒿俊闵",
+      "onboard_time": 1677081926,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282330,
       "num": 282330,
       "word": "苹果已占据当前台积电所有3nm产能",
@@ -5105,6 +5121,14 @@
       "onboard_time": 1676967689,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242744,
+      "num": 242744,
+      "word": "南方都是这样的教学楼吗",
+      "onboard_time": 1677083304,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 242281,
@@ -5745,14 +5769,6 @@
       "onboard_time": 1676825123,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 200385,
-      "num": 155202,
-      "word": "蒿俊闵",
-      "onboard_time": 1677081926,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 199899,
@@ -6675,6 +6691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151420,
+      "num": 151420,
+      "word": "找人类帮忙的小猫",
+      "onboard_time": 1677083124,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151108,
       "num": 151108,
       "word": "玄商跳归墟",
@@ -6689,14 +6713,6 @@
       "onboard_time": 1676887649,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 146748,
-      "num": 146748,
-      "word": "爷爷颤颤巍巍去见孙子最后一面",
-      "onboard_time": 1677082644,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146710,
@@ -7145,14 +7161,6 @@
       "onboard_time": 1676812295,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 86506,
-      "num": 86506,
-      "word": "找人类帮忙的小猫",
-      "onboard_time": 1677083124,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 84930,
