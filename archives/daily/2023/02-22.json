@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677050260680,
+  "endTime": 1677051237207,
   "band_list": [
     {
       "raw_hot": 5326666,
@@ -619,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 368561,
+      "num": 368561,
+      "word": "山西考研成绩",
+      "onboard_time": 1677050553,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 364459,
       "num": 364459,
       "word": "美方人员从拜登专机舷梯跌落",
@@ -640,6 +648,14 @@
       "word": "3只旅日大熊猫今日回国",
       "onboard_time": 1677032007,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356325,
+      "num": 356325,
+      "word": "贵州一女子曝光教师丈夫家暴视频",
+      "onboard_time": 1677048511,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -803,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284977,
+      "num": 222971,
+      "word": "李秀满中国公司否认偷税漏税",
+      "onboard_time": 1677050133,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276627,
       "num": 276627,
       "word": "女童玩滑梯被男童踹倒头着地",
@@ -817,14 +841,6 @@
       "onboard_time": 1676970092,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268824,
-      "num": 222971,
-      "word": "李秀满中国公司否认偷税漏税",
-      "onboard_time": 1677050133,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 266539,
@@ -867,12 +883,28 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 254603,
+      "num": 254603,
+      "word": "名侦探学院",
+      "onboard_time": 1677047672,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251935,
       "num": 251935,
       "word": "莫德里奇庆祝逆转利物浦",
       "onboard_time": 1677030869,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250140,
+      "num": 250140,
+      "word": "艾尔登法环销量突破2000万",
+      "onboard_time": 1677049592,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 247904,
@@ -913,14 +945,6 @@
       "onboard_time": 1676993735,
       "rank": 19,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 241864,
-      "num": 241864,
-      "word": "名侦探学院",
-      "onboard_time": 1677047672,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 240461,
@@ -987,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 229652,
+      "num": 229652,
+      "word": "蒲熠星说是你没见过的全新玩法",
+      "onboard_time": 1677050853,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227960,
       "num": 227960,
       "word": "AppleWatch或因侵权在美国禁售",
@@ -1051,14 +1083,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 220757,
-      "num": 220757,
-      "word": "贵州一女子曝光教师丈夫家暴视频",
-      "onboard_time": 1677048511,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217473,
       "num": 217473,
       "word": "王勉妈妈双手摸鹿晗的脸",
@@ -1107,6 +1131,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 197219,
+      "num": 197219,
+      "word": "新娘婚礼后满怀愧疚给环卫大叔送红包",
+      "onboard_time": 1677050913,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194363,
       "num": 194363,
       "word": "一人一个暴露年龄的老物件儿",
@@ -1137,14 +1169,6 @@
       "onboard_time": 1677046654,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186465,
-      "num": 186465,
-      "word": "艾尔登法环销量突破2000万",
-      "onboard_time": 1677049592,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 186078,
@@ -1192,6 +1216,14 @@
       "word": "女子连刷10个差评商家找上门怒怼",
       "onboard_time": 1676978251,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175892,
+      "num": 175892,
+      "word": "从抑郁情绪到抑郁症有多远",
+      "onboard_time": 1677051212,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1297,6 +1329,14 @@
       "onboard_time": 1676977353,
       "rank": 32,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 149781,
+      "num": 149781,
+      "word": "新发现或能助人类延长生育能力",
+      "onboard_time": 1677050494,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 144510,
