@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677029971572,
+  "endTime": 1677031383889,
   "band_list": [
     {
       "raw_hot": 4793161,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2199534,
+      "num": 2199534,
+      "word": "国家线",
+      "onboard_time": 1677029188,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1581111,
       "num": 1581111,
       "word": "女子宿舍吃火锅放罂粟提味被罚",
@@ -35,16 +43,16 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 1338394,
-      "num": 1338394,
-      "word": "国家线",
-      "onboard_time": 1677029188,
-      "rank": 4,
-      "category": "教育"
+      "raw_hot": 1437795,
+      "num": 1437795,
+      "word": "电影前任4杀青阵容升级",
+      "onboard_time": 1677029550,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1277368,
-      "num": 315942,
+      "num": 355026,
       "word": "河北保定发生一起重大刑案",
       "onboard_time": 1676989354,
       "rank": 13,
@@ -99,14 +107,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 811269,
-      "num": 811269,
-      "word": "电影前任4杀青阵容升级",
-      "onboard_time": 1677029550,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 760489,
       "num": 760489,
       "word": "Kakao或将收购JYP",
@@ -123,7 +123,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 729759,
+      "raw_hot": 732196,
       "num": 616272,
       "word": "蔡徐坤米兰街头听演奏",
       "onboard_time": 1677028831,
@@ -163,11 +163,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492754,
+      "num": 492754,
+      "word": "微软将把所有暴雪游戏引入英伟达平台",
+      "onboard_time": 1677029610,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 481945,
-      "num": 2229758,
+      "num": 2267114,
       "word": "大熊猫香香回家现场画面",
       "onboard_time": 1676988814,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480226,
+      "num": 231134,
+      "word": "日本海岸发现不明球状物",
+      "onboard_time": 1677030450,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -179,12 +195,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470726,
+      "num": 470726,
+      "word": "iPhone15Pro机型有望配8GB内存",
+      "onboard_time": 1677030507,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 452141,
+      "num": 452141,
+      "word": "宿迁建立离婚登记冷静期调解制度",
+      "onboard_time": 1677029010,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435510,
       "num": 435510,
       "word": "广州漫展",
       "onboard_time": 1676991767,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 422966,
+      "num": 422966,
+      "word": "3月起自中国入境韩国无须核酸",
+      "onboard_time": 1677030570,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415879,
@@ -211,12 +251,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 364459,
+      "num": 364459,
+      "word": "美方人员从拜登专机舷梯跌落",
+      "onboard_time": 1677029909,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 347398,
       "num": 347398,
       "word": "提前还贷算违约吗",
       "onboard_time": 1676997088,
       "rank": 30,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 345116,
+      "num": 345116,
+      "word": "Apink将于4月回归",
+      "onboard_time": 1677030629,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 344539,
@@ -251,6 +307,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 327752,
+      "num": 327752,
+      "word": "考研出分后怎么准备复试",
+      "onboard_time": 1677029308,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 312473,
       "num": 312473,
       "word": "夏花 BE",
@@ -267,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307636,
+      "num": 307636,
+      "word": "陈星旭直播把袜带戴头上",
+      "onboard_time": 1677030751,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300486,
       "num": 300486,
       "word": "到底是考研难还是读研难",
@@ -275,27 +347,11 @@
       "category": "教育,幽默"
     },
     {
-      "raw_hot": 275193,
-      "num": 275193,
-      "word": "考研出分后怎么准备复试",
-      "onboard_time": 1677029308,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 274737,
       "num": 274737,
       "word": "日本人有多舍不得中国大熊猫香香",
       "onboard_time": 1676970092,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270079,
-      "num": 270079,
-      "word": "宿迁建立离婚登记冷静期调解制度",
-      "onboard_time": 1677029010,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -387,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231878,
+      "num": 231878,
+      "word": "美脱轨列车现场挖出6.8吨受污染土",
+      "onboard_time": 1677029308,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227721,
       "num": 227721,
       "word": "我是颜值主播我不会跳舞",
@@ -435,14 +499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195640,
-      "num": 195640,
-      "word": "微软将把所有暴雪游戏引入英伟达平台",
-      "onboard_time": 1677029610,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194363,
       "num": 194363,
       "word": "一人一个暴露年龄的老物件儿",
@@ -451,20 +507,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193042,
-      "num": 193042,
-      "word": "美脱轨列车现场挖出6.8吨受污染土",
-      "onboard_time": 1677029308,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192809,
       "num": 192809,
       "word": "周杰伦演唱会",
       "onboard_time": 1676971712,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190402,
+      "num": 190402,
+      "word": "男子救人留下我是四川人就离开了",
+      "onboard_time": 1677031049,
+      "rank": 35,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 186078,
@@ -513,6 +569,14 @@
       "onboard_time": 1676994871,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167620,
+      "num": 167620,
+      "word": "莫德里奇庆祝逆转利物浦",
+      "onboard_time": 1677030869,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 165251,
@@ -579,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141484,
+      "num": 141484,
+      "word": "心疼丫丫",
+      "onboard_time": 1677031290,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140990,
       "num": 140990,
       "word": "刘畊宏模仿言承旭",
@@ -601,14 +673,6 @@
       "onboard_time": 1677022166,
       "rank": 31,
       "category": "社会新闻,音乐"
-    },
-    {
-      "raw_hot": 132028,
-      "num": 132028,
-      "word": "美方人员从拜登专机舷梯跌落",
-      "onboard_time": 1677029909,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 131325,
