@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677062262011,
+  "endTime": 1677064578456,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2545240,
+      "num": 2545240,
+      "word": "2.4亿大奖得主3天后现身还捐了100万",
+      "onboard_time": 1677059371,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2459136,
       "num": 2459136,
       "word": "章子怡 中戏考官",
@@ -185,14 +193,6 @@
       "onboard_time": 1676870075,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2143409,
-      "num": 2143409,
-      "word": "2.4亿大奖得主3天后现身还捐了100万",
-      "onboard_time": 1677059371,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2106245,
@@ -761,6 +761,14 @@
       "onboard_time": 1676898991,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1118013,
+      "num": 1118013,
+      "word": "SMTOWN理事集体辞职",
+      "onboard_time": 1677063393,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1111382,
@@ -1931,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619386,
+      "num": 619386,
+      "word": "内蒙古一煤矿发生事故",
+      "onboard_time": 1677062914,
+      "rank": 5,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 616545,
       "num": 616545,
       "word": "促进低龄老年就业",
@@ -1969,6 +1985,14 @@
       "onboard_time": 1676866717,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 602852,
+      "num": 602852,
+      "word": "峨眉山的猴子你们好日子到头了",
+      "onboard_time": 1677058531,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 602289,
@@ -2027,20 +2051,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 594921,
-      "num": 594921,
-      "word": "峨眉山的猴子你们好日子到头了",
-      "onboard_time": 1677058531,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 593610,
       "num": 593610,
       "word": "大学生毕业论文现状",
       "onboard_time": 1676879011,
       "rank": 17,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 593557,
+      "num": 593557,
+      "word": "夜燕白",
+      "onboard_time": 1677062312,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 591988,
@@ -2096,6 +2120,14 @@
       "word": "公司回应招助理和单身总经理同住",
       "onboard_time": 1676940569,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584067,
+      "num": 584067,
+      "word": "乐乐与丫丫20年前抵美画面",
+      "onboard_time": 1677059852,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -2779,14 +2811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442848,
-      "num": 442848,
-      "word": "乐乐与丫丫20年前抵美画面",
-      "onboard_time": 1677059852,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441488,
       "num": 441488,
       "word": "NBA全明星太无聊了",
@@ -3067,6 +3091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 404037,
+      "num": 404037,
+      "word": "市监局回应火锅店18元土豆仅5片",
+      "onboard_time": 1677061954,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401816,
       "num": 401816,
       "word": "近5年学硕国家线趋势",
@@ -3235,6 +3267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379268,
+      "num": 379268,
+      "word": "贺峻霖喂马嘉祺吃糖油粑粑",
+      "onboard_time": 1677062670,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 379243,
       "num": 379243,
       "word": "单位不给批婚假怎么办",
@@ -3385,6 +3425,14 @@
       "onboard_time": 1676947950,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369225,
+      "num": 369225,
+      "word": "如何评价李荣浩的乌梅子酱",
+      "onboard_time": 1677063393,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 369116,
@@ -3835,6 +3883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325498,
+      "num": 325498,
+      "word": "旅美大熊猫丫丫回国手续正在办理",
+      "onboard_time": 1677061233,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324902,
       "num": 324902,
       "word": "NCT成员将5月solo出道",
@@ -3867,6 +3923,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 322273,
+      "num": 322273,
+      "word": "抑郁症早期的4大征兆",
+      "onboard_time": 1677063872,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321331,
       "num": 321331,
       "word": "江西省考",
@@ -3897,6 +3961,14 @@
       "onboard_time": 1677033989,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 320388,
+      "num": 320388,
+      "word": "武汉草莓音乐节",
+      "onboard_time": 1677061593,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 319541,
@@ -4129,14 +4201,6 @@
       "onboard_time": 1677056374,
       "rank": 24,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 295704,
-      "num": 295704,
-      "word": "武汉草莓音乐节",
-      "onboard_time": 1677061593,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 295451,
@@ -4763,6 +4827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237576,
+      "num": 206137,
+      "word": "新疆地震",
+      "onboard_time": 1677064290,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236713,
       "num": 236713,
       "word": "中国从未挑起战争但对华打压不断升级",
@@ -5163,6 +5235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207131,
+      "num": 207131,
+      "word": "文紫发现自己是替身",
+      "onboard_time": 1677063513,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206896,
       "num": 206896,
       "word": "边伯贤Candy练习室",
@@ -5227,6 +5307,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203431,
+      "num": 203431,
+      "word": "土豆博士刘杰回应18元5片土豆",
+      "onboard_time": 1677063694,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202871,
+      "num": 202871,
+      "word": "市监局调查18元5片土豆事件",
+      "onboard_time": 1677061896,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202512,
       "num": 202512,
       "word": "满40减20男星",
@@ -5257,6 +5353,14 @@
       "onboard_time": 1676825123,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199899,
+      "num": 199899,
+      "word": "种地吧",
+      "onboard_time": 1677062972,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 199814,
@@ -5739,14 +5843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 172773,
-      "num": 172773,
-      "word": "旅美大熊猫丫丫回国手续正在办理",
-      "onboard_time": 1677061233,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171608,
       "num": 171608,
       "word": "峨眉山景区回应将推行人猴分离",
@@ -5819,6 +5915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168531,
+      "num": 168531,
+      "word": "官方回应内蒙古一煤矿发生坍塌",
+      "onboard_time": 1677064290,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 168443,
       "num": 168443,
       "word": "吾乡有情人",
@@ -5857,14 +5961,6 @@
       "onboard_time": 1676877570,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167498,
-      "num": 167498,
-      "word": "市监局回应火锅店18元土豆仅5片",
-      "onboard_time": 1677061954,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167019,
@@ -5915,6 +6011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165410,
+      "num": 165410,
+      "word": "JDG战胜FPX",
+      "onboard_time": 1677064110,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165251,
       "num": 141312,
       "word": "利物浦vs皇马",
@@ -5947,6 +6051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163780,
+      "num": 1409221,
+      "word": "2022年中国考古新发现",
+      "onboard_time": 1677058832,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162553,
       "num": 162553,
       "word": "陈宏友称不当演讲事件已向组织汇报",
@@ -5969,6 +6081,14 @@
       "onboard_time": 1676961209,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161513,
+      "num": 161513,
+      "word": "如何看待中小学生心理危机",
+      "onboard_time": 1677063154,
+      "rank": 43,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 161351,
@@ -6009,14 +6129,6 @@
       "onboard_time": 1676988216,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 157849,
-      "num": 157849,
-      "word": "市监局调查18元5片土豆事件",
-      "onboard_time": 1677061896,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156631,
@@ -6115,14 +6227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146340,
-      "num": 1409221,
-      "word": "2022年中国考古新发现",
-      "onboard_time": 1677058832,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145789,
       "num": 145789,
       "word": "金晨剪刘海vlog",
@@ -6209,6 +6313,14 @@
       "onboard_time": 1677000799,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139968,
+      "num": 139968,
+      "word": "宋亚轩白色短袖造型路透",
+      "onboard_time": 1677063212,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138972,
@@ -6689,6 +6801,14 @@
       "onboard_time": 1676834411,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22697,
+      "num": 165556,
+      "word": "高德推出一体化出行平台",
+      "onboard_time": 1677063632,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16352,

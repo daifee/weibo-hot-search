@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677062262011,
+  "endTime": 1677064578456,
   "band_list": [
     {
       "raw_hot": 5326666,
@@ -51,6 +51,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2545240,
+      "num": 2545240,
+      "word": "2.4亿大奖得主3天后现身还捐了100万",
+      "onboard_time": 1677059371,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2388017,
       "num": 2388017,
       "word": "国家线",
@@ -64,14 +72,6 @@
       "word": "李天一",
       "onboard_time": 1677044553,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2143409,
-      "num": 2143409,
-      "word": "2.4亿大奖得主3天后现身还捐了100万",
-      "onboard_time": 1677059371,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -201,6 +201,14 @@
       "onboard_time": 1676989839,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1118013,
+      "num": 1118013,
+      "word": "SMTOWN理事集体辞职",
+      "onboard_time": 1677063393,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1108543,
@@ -459,6 +467,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619386,
+      "num": 619386,
+      "word": "内蒙古一煤矿发生事故",
+      "onboard_time": 1677062914,
+      "rank": 5,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 602852,
+      "num": 602852,
+      "word": "峨眉山的猴子你们好日子到头了",
+      "onboard_time": 1677058531,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 602289,
       "num": 602289,
       "word": "心疼丫丫",
@@ -475,11 +499,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 594921,
-      "num": 594921,
-      "word": "峨眉山的猴子你们好日子到头了",
-      "onboard_time": 1677058531,
+      "raw_hot": 593557,
+      "num": 593557,
+      "word": "夜燕白",
+      "onboard_time": 1677062312,
       "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 584067,
+      "num": 584067,
+      "word": "乐乐与丫丫20年前抵美画面",
+      "onboard_time": 1677059852,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -627,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 442848,
-      "num": 442848,
-      "word": "乐乐与丫丫20年前抵美画面",
-      "onboard_time": 1677059852,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 435510,
       "num": 435510,
       "word": "广州漫展",
@@ -691,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404037,
+      "num": 404037,
+      "word": "市监局回应火锅店18元土豆仅5片",
+      "onboard_time": 1677061954,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395876,
       "num": 395876,
       "word": "张绍刚说王鹤棣长的让人垂涎欲滴",
@@ -705,6 +737,14 @@
       "onboard_time": 1677037349,
       "rank": 22,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 379268,
+      "num": 379268,
+      "word": "贺峻霖喂马嘉祺吃糖油粑粑",
+      "onboard_time": 1677062670,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 378798,
@@ -753,6 +793,14 @@
       "onboard_time": 1677043591,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 369225,
+      "num": 369225,
+      "word": "如何评价李荣浩的乌梅子酱",
+      "onboard_time": 1677063393,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 368561,
@@ -907,6 +955,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325498,
+      "num": 325498,
+      "word": "旅美大熊猫丫丫回国手续正在办理",
+      "onboard_time": 1677061233,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322273,
+      "num": 322273,
+      "word": "抑郁症早期的4大征兆",
+      "onboard_time": 1677063872,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320821,
       "num": 320821,
       "word": "TizzyT新厂牌全员官宣",
@@ -921,6 +985,14 @@
       "onboard_time": 1677033989,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 320388,
+      "num": 320388,
+      "word": "武汉草莓音乐节",
+      "onboard_time": 1677061593,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 312473,
@@ -985,14 +1057,6 @@
       "onboard_time": 1677056374,
       "rank": 24,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 295704,
-      "num": 295704,
-      "word": "武汉草莓音乐节",
-      "onboard_time": 1677061593,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 295286,
@@ -1187,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237576,
+      "num": 206137,
+      "word": "新疆地震",
+      "onboard_time": 1677064290,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236481,
       "num": 236481,
       "word": "试管婴儿被放错胚胎事件初步和解",
@@ -1339,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207131,
+      "num": 207131,
+      "word": "文紫发现自己是替身",
+      "onboard_time": 1677063513,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206890,
       "num": 206890,
       "word": "陈梦退出直通赛",
@@ -1355,12 +1435,36 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 203431,
+      "num": 203431,
+      "word": "土豆博士刘杰回应18元5片土豆",
+      "onboard_time": 1677063694,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202871,
+      "num": 202871,
+      "word": "市监局调查18元5片土豆事件",
+      "onboard_time": 1677061896,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201006,
       "num": 201006,
       "word": "农行回应对雄安购房者推出连心贷",
       "onboard_time": 1677045273,
       "rank": 34,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 199899,
+      "num": 199899,
+      "word": "种地吧",
+      "onboard_time": 1677062972,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 199485,
@@ -1475,14 +1579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172773,
-      "num": 172773,
-      "word": "旅美大熊猫丫丫回国手续正在办理",
-      "onboard_time": 1677061233,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171608,
       "num": 171608,
       "word": "峨眉山景区回应将推行人猴分离",
@@ -1523,12 +1619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167498,
-      "num": 167498,
-      "word": "市监局回应火锅店18元土豆仅5片",
-      "onboard_time": 1677061954,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 168531,
+      "num": 168531,
+      "word": "官方回应内蒙古一煤矿发生坍塌",
+      "onboard_time": 1677064290,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 165555,
@@ -1537,6 +1633,14 @@
       "onboard_time": 1677034169,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165410,
+      "num": 165410,
+      "word": "JDG战胜FPX",
+      "onboard_time": 1677064110,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 165251,
@@ -1555,6 +1659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163780,
+      "num": 1409221,
+      "word": "2022年中国考古新发现",
+      "onboard_time": 1677058832,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162220,
       "num": 162220,
       "word": "陈梦脚伤未愈退出女单半决赛",
@@ -1563,20 +1675,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161513,
+      "num": 161513,
+      "word": "如何看待中小学生心理危机",
+      "onboard_time": 1677063154,
+      "rank": 43,
+      "category": "教育,社会议题"
+    },
+    {
       "raw_hot": 158280,
       "num": 158280,
       "word": "暨南大学考研",
       "onboard_time": 1676972436,
       "rank": 28,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 157849,
-      "num": 157849,
-      "word": "市监局调查18元5片土豆事件",
-      "onboard_time": 1677061896,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156093,
@@ -1609,14 +1721,6 @@
       "onboard_time": 1676977353,
       "rank": 32,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 146340,
-      "num": 1409221,
-      "word": "2022年中国考古新发现",
-      "onboard_time": 1677058832,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144510,
@@ -1657,6 +1761,14 @@
       "onboard_time": 1677000799,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139968,
+      "num": 139968,
+      "word": "宋亚轩白色短袖造型路透",
+      "onboard_time": 1677063212,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138988,
@@ -1921,6 +2033,14 @@
       "onboard_time": 1677009372,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22697,
+      "num": 165556,
+      "word": "高德推出一体化出行平台",
+      "onboard_time": 1677063632,
+      "rank": 39,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
