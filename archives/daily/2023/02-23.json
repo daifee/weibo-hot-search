@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677101623474,
+  "endTime": 1677104238501,
   "band_list": [
     {
       "raw_hot": 1160828,
@@ -363,8 +363,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 120307,
-      "num": 42342,
+      "raw_hot": 124321,
+      "num": 124321,
       "word": "爱奇艺首次实现全年运营盈利",
       "onboard_time": 1677096552,
       "rank": 18,
@@ -393,6 +393,14 @@
       "onboard_time": 1677072273,
       "rank": 43,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 107821,
+      "num": 30736,
+      "word": "知情人称内蒙古煤矿坍塌被埋者大部分为司机",
+      "onboard_time": 1677103214,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 106880,
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53640,
+      "num": 53640,
+      "word": "小学生看到2岁男童独行一路护送",
+      "onboard_time": 1677091512,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 46266,
       "num": 46266,
       "word": "当你有个擅长表达的女朋友",
@@ -451,12 +467,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 40252,
-      "num": 40252,
-      "word": "小学生看到2岁男童独行一路护送",
-      "onboard_time": 1677091512,
-      "rank": 24,
-      "category": "社会正能量"
+      "raw_hot": 40251,
+      "num": 40251,
+      "word": "莱比锡vs曼城",
+      "onboard_time": 1677098291,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28074,
+      "num": 28074,
+      "word": "虞书欣最新直播状态",
+      "onboard_time": 1677097572,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 25469,
@@ -467,19 +491,11 @@
       "category": "作品衍生,情感"
     },
     {
-      "raw_hot": 21812,
-      "num": 21812,
-      "word": "莱比锡vs曼城",
-      "onboard_time": 1677098291,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 20946,
-      "num": 20946,
-      "word": "虞书欣最新直播状态",
-      "onboard_time": 1677097572,
-      "rank": 38,
+      "raw_hot": 20147,
+      "num": 20147,
+      "word": "高叶晒下班比耶合照",
+      "onboard_time": 1677101171,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -489,14 +505,6 @@
       "onboard_time": 1676942906,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 12086,
-      "num": 12086,
-      "word": "高叶晒下班比耶合照",
-      "onboard_time": 1677101171,
-      "rank": 49,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
