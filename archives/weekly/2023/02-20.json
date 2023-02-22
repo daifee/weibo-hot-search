@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677047113725,
+  "endTime": 1677047989413,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -91,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2933215,
+      "num": 2933215,
+      "word": "丁太升说乌梅子酱俗不可耐",
+      "onboard_time": 1677043652,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2867131,
       "num": 2867131,
       "word": "考研国家线",
       "onboard_time": 1676942906,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2823116,
-      "num": 2823116,
-      "word": "丁太升说乌梅子酱俗不可耐",
-      "onboard_time": 1677043652,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 2810740,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 2196404,
-      "num": 1442451,
+      "num": 1503718,
       "word": "李天一",
       "onboard_time": 1677044553,
       "rank": 5,
@@ -1947,6 +1947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 590605,
+      "num": 590605,
+      "word": "中国专家已赴美协商丫丫回国事宜",
+      "onboard_time": 1677046111,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 589151,
       "num": 589151,
       "word": "EXO和aespa歌曲正在制作中",
@@ -1985,6 +1993,14 @@
       "onboard_time": 1676976210,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 585259,
+      "num": 585259,
+      "word": "员工阳康后连上16天班在宿舍离世",
+      "onboard_time": 1677045149,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 584319,
@@ -2169,14 +2185,6 @@
       "onboard_time": 1676952814,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 531675,
-      "num": 531675,
-      "word": "员工阳康后连上16天班在宿舍离世",
-      "onboard_time": 1677045149,
-      "rank": 12,
-      "category": "社会负面"
     },
     {
       "raw_hot": 529820,
@@ -2779,6 +2787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 426922,
+      "num": 426922,
+      "word": "15岁以下抑郁症患者3年涨3倍多",
+      "onboard_time": 1677044732,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424999,
       "num": 424999,
       "word": "金希澈为校园暴力受害者捐款",
@@ -3041,14 +3057,6 @@
       "onboard_time": 1676974710,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 381216,
-      "num": 381216,
-      "word": "中国专家已赴美协商丫丫回国事宜",
-      "onboard_time": 1677046111,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381201,
@@ -3385,14 +3393,6 @@
       "onboard_time": 1677036148,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 348558,
-      "num": 348558,
-      "word": "15岁以下抑郁症患者3年涨3倍多",
-      "onboard_time": 1677044732,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347938,
@@ -3793,6 +3793,14 @@
       "onboard_time": 1676952934,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 312823,
+      "num": 312823,
+      "word": "白面僧猴",
+      "onboard_time": 1677046893,
+      "rank": 41,
+      "category": "其它"
     },
     {
       "raw_hot": 312617,
@@ -4435,6 +4443,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 240461,
+      "num": 240461,
+      "word": "柯南2023咖啡店海报",
+      "onboard_time": 1677047192,
+      "rank": 26,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 239251,
       "num": 237156,
       "word": "西游记副导演任凤坡去世",
@@ -4833,6 +4849,14 @@
       "onboard_time": 1676857585,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207091,
+      "num": 207091,
+      "word": "名侦探学院",
+      "onboard_time": 1677047672,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 206896,
@@ -5291,6 +5315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177872,
+      "num": 177872,
+      "word": "大侦探这期开场全员遇害",
+      "onboard_time": 1677047792,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177223,
       "num": 177223,
       "word": "李现为拨浪鼓咚咚响打call",
@@ -5385,6 +5417,14 @@
       "onboard_time": 1677039816,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170302,
+      "num": 170302,
+      "word": "考研上岸表情",
+      "onboard_time": 1677045872,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 170103,
@@ -5539,14 +5579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164190,
-      "num": 164190,
-      "word": "白面僧猴",
-      "onboard_time": 1677046893,
-      "rank": 41,
-      "category": "其它"
-    },
-    {
       "raw_hot": 163878,
       "num": 163878,
       "word": "梁靖崑3比1林高远",
@@ -5649,14 +5681,6 @@
       "onboard_time": 1676803531,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154866,
-      "num": 154866,
-      "word": "考研上岸表情",
-      "onboard_time": 1677045872,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 154237,
@@ -6155,6 +6179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 47022,
+      "num": 165845,
+      "word": "饿了么免单梦回高考",
+      "onboard_time": 1677045634,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 46545,
       "num": 46545,
       "word": "虞书欣冷到鹅叫",
@@ -6201,14 +6233,6 @@
       "onboard_time": 1676801253,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33061,
-      "num": 165845,
-      "word": "饿了么免单梦回高考",
-      "onboard_time": 1677045634,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 27975,

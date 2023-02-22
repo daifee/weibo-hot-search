@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677047113725,
+  "endTime": 1677047989413,
   "band_list": [
     {
       "raw_hot": 5326666,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2823116,
-      "num": 2823116,
+      "raw_hot": 2933215,
+      "num": 2933215,
       "word": "丁太升说乌梅子酱俗不可耐",
       "onboard_time": 1677043652,
       "rank": 19,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2196404,
-      "num": 1442451,
+      "num": 1503718,
       "word": "李天一",
       "onboard_time": 1677044553,
       "rank": 5,
@@ -379,6 +379,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 590605,
+      "num": 590605,
+      "word": "中国专家已赴美协商丫丫回国事宜",
+      "onboard_time": 1677046111,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 585259,
+      "num": 585259,
+      "word": "员工阳康后连上16天班在宿舍离世",
+      "onboard_time": 1677045149,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 556144,
       "num": 556144,
       "word": "提前还贷大大减轻按揭压力",
@@ -401,14 +417,6 @@
       "onboard_time": 1677037650,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 531675,
-      "num": 531675,
-      "word": "员工阳康后连上16天班在宿舍离世",
-      "onboard_time": 1677045149,
-      "rank": 12,
-      "category": "社会负面"
     },
     {
       "raw_hot": 524308,
@@ -491,6 +499,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 426922,
+      "num": 426922,
+      "word": "15岁以下抑郁症患者3年涨3倍多",
+      "onboard_time": 1677044732,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423060,
       "num": 423060,
       "word": "李宇春米兰时装周出发图",
@@ -545,14 +561,6 @@
       "onboard_time": 1677037349,
       "rank": 22,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 381216,
-      "num": 381216,
-      "word": "中国专家已赴美协商丫丫回国事宜",
-      "onboard_time": 1677046111,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378798,
@@ -617,14 +625,6 @@
       "onboard_time": 1677036148,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 348558,
-      "num": 348558,
-      "word": "15岁以下抑郁症患者3年涨3倍多",
-      "onboard_time": 1677044732,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347398,
@@ -705,6 +705,14 @@
       "onboard_time": 1677033989,
       "rank": 46,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 312823,
+      "num": 312823,
+      "word": "白面僧猴",
+      "onboard_time": 1677046893,
+      "rank": 41,
+      "category": "其它"
     },
     {
       "raw_hot": 312473,
@@ -875,6 +883,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 240461,
+      "num": 240461,
+      "word": "柯南2023咖啡店海报",
+      "onboard_time": 1677047192,
+      "rank": 26,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 238548,
       "num": 238548,
       "word": "二喜团建",
@@ -1011,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207091,
+      "num": 207091,
+      "word": "名侦探学院",
+      "onboard_time": 1677047672,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205149,
       "num": 205149,
       "word": "Hanni米兰时装周出发图",
@@ -1099,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177872,
+      "num": 177872,
+      "word": "大侦探这期开场全员遇害",
+      "onboard_time": 1677047792,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174156,
       "num": 174156,
       "word": "香香回国是为寻找合适伴侣",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1677039816,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170302,
+      "num": 170302,
+      "word": "考研上岸表情",
+      "onboard_time": 1677045872,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 170103,
@@ -1155,14 +1195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164190,
-      "num": 164190,
-      "word": "白面僧猴",
-      "onboard_time": 1677046893,
-      "rank": 41,
-      "category": "其它"
-    },
-    {
       "raw_hot": 158280,
       "num": 158280,
       "word": "暨南大学考研",
@@ -1193,14 +1225,6 @@
       "onboard_time": 1677027154,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154866,
-      "num": 154866,
-      "word": "考研上岸表情",
-      "onboard_time": 1677045872,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 149891,
@@ -1443,7 +1467,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 33061,
+      "raw_hot": 47022,
       "num": 165845,
       "word": "饿了么免单梦回高考",
       "onboard_time": 1677045634,
