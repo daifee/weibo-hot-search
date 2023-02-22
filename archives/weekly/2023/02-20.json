@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677084315482,
+  "endTime": 1677086266636,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -2107,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617739,
+      "num": 617739,
+      "word": "爷爷颤颤巍巍去见孙子最后一面",
+      "onboard_time": 1677082644,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616545,
       "num": 616545,
       "word": "促进低龄老年就业",
@@ -2601,6 +2609,14 @@
       "onboard_time": 1677048511,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506003,
+      "num": 506003,
+      "word": "南方都是这样的教学楼吗",
+      "onboard_time": 1677083304,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 505033,
@@ -3177,14 +3193,6 @@
       "onboard_time": 1676867736,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 426628,
-      "num": 426628,
-      "word": "爷爷颤颤巍巍去见孙子最后一面",
-      "onboard_time": 1677082644,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 424999,
@@ -5123,14 +5131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242744,
-      "num": 242744,
-      "word": "南方都是这样的教学楼吗",
-      "onboard_time": 1677083304,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242281,
       "num": 242281,
       "word": "家长是懂给我对象起外号的",
@@ -5265,6 +5265,14 @@
       "onboard_time": 1676871149,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231956,
+      "num": 231956,
+      "word": "周杰伦2022IFPI第九位",
+      "onboard_time": 1677084381,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 231878,
@@ -6147,6 +6155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181952,
+      "num": 181952,
+      "word": "找人类帮忙的小猫",
+      "onboard_time": 1677083124,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181414,
       "num": 181414,
       "word": "陆虎 王栎鑫家的餐桌",
@@ -6689,14 +6705,6 @@
       "onboard_time": 1676937026,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151420,
-      "num": 151420,
-      "word": "找人类帮忙的小猫",
-      "onboard_time": 1677083124,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 151108,

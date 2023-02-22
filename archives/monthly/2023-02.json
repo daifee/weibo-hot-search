@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677084315482,
+  "endTime": 1677086266636,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -14283,6 +14283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 617739,
+      "num": 617739,
+      "word": "爷爷颤颤巍巍去见孙子最后一面",
+      "onboard_time": 1677082644,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617192,
       "num": 617192,
       "word": "封神",
@@ -18019,6 +18027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 506003,
+      "num": 506003,
+      "word": "南方都是这样的教学楼吗",
+      "onboard_time": 1677083304,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 505780,
       "num": 505780,
       "word": "亲属自述未成年侄女被强迫卖淫",
@@ -21481,14 +21497,6 @@
       "onboard_time": 1676614533,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 426628,
-      "num": 426628,
-      "word": "爷爷颤颤巍巍去见孙子最后一面",
-      "onboard_time": 1677082644,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 426535,
@@ -34571,14 +34579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242744,
-      "num": 242744,
-      "word": "南方都是这样的教学楼吗",
-      "onboard_time": 1677083304,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242700,
       "num": 242700,
       "word": "林俊杰西雅图世界巡回演唱会vlog",
@@ -35545,6 +35545,14 @@
       "onboard_time": 1676871149,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231956,
+      "num": 231956,
+      "word": "周杰伦2022IFPI第九位",
+      "onboard_time": 1677084381,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 231917,
@@ -41579,6 +41587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181952,
+      "num": 181952,
+      "word": "找人类帮忙的小猫",
+      "onboard_time": 1677083124,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181929,
       "num": 181929,
       "word": "秦霄贤新发色",
@@ -45561,14 +45577,6 @@
       "onboard_time": 1676131649,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 151420,
-      "num": 151420,
-      "word": "找人类帮忙的小猫",
-      "onboard_time": 1677083124,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 151224,
