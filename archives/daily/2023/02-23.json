@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677086266636,
+  "endTime": 1677087290362,
   "band_list": [
     {
       "raw_hot": 1160828,
@@ -75,8 +75,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 506003,
-      "num": 506003,
+      "raw_hot": 518368,
+      "num": 518368,
       "word": "南方都是这样的教学楼吗",
       "onboard_time": 1677083304,
       "rank": 17,
@@ -409,6 +409,14 @@
       "onboard_time": 1677074553,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73060,
+      "num": 73060,
+      "word": "美主播曝拜登曾说毁灭台湾计划",
+      "onboard_time": 1677086597,
+      "rank": 29,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 62559,
