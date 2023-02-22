@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677055105429,
+  "endTime": 1677057586870,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -99,6 +99,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2906738,
+      "num": 1048132,
+      "word": "保姆多次猥亵男婴被判刑5年",
+      "onboard_time": 1677053312,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2867131,
       "num": 2867131,
       "word": "考研国家线",
@@ -113,14 +121,6 @@
       "onboard_time": 1676861547,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2653759,
-      "num": 1048132,
-      "word": "保姆多次猥亵男婴被判刑5年",
-      "onboard_time": 1677053312,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2459136,
@@ -659,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1177367,
+      "num": 594841,
+      "word": "李钟硕采访聊IU",
+      "onboard_time": 1677056374,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1172939,
       "num": 1172939,
       "word": "国人买iPhone14要花12%年薪",
@@ -1083,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 891513,
+      "num": 891513,
+      "word": "四川一学校免费送新生iPhone14",
+      "onboard_time": 1677055951,
+      "rank": 4,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 879129,
       "num": 879129,
       "word": "杨紫诉医美公司侵权案将开庭",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1676958330,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 821539,
+      "num": 821539,
+      "word": "23岁小伙起红疹被误诊6年查出癌症",
+      "onboard_time": 1677054513,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 816838,
@@ -1481,6 +1505,14 @@
       "onboard_time": 1676867015,
       "rank": 35,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 726446,
+      "num": 726446,
+      "word": "张小斐首部电视剧",
+      "onboard_time": 1677054698,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 726065,
@@ -2467,6 +2499,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 483033,
+      "num": 462119,
+      "word": "串串店服务员用手机精准扫出签子数量",
+      "onboard_time": 1677053910,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481913,
       "num": 481913,
       "word": "官方通报男生进入女生宿舍楼相关事件",
@@ -2569,14 +2609,6 @@
       "onboard_time": 1677032430,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 462119,
-      "num": 462119,
-      "word": "串串店服务员用手机精准扫出签子数量",
-      "onboard_time": 1677053910,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 461524,
@@ -2979,6 +3011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404616,
+      "num": 404616,
+      "word": "杭州拟向三孩家庭发放补助2万元",
+      "onboard_time": 1677053552,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 404509,
       "num": 404509,
       "word": "光遇",
@@ -3065,6 +3105,14 @@
       "onboard_time": 1676988453,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 390506,
+      "num": 390506,
+      "word": "种地吧成员负债26万",
+      "onboard_time": 1677056851,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 390268,
@@ -3251,6 +3299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373059,
+      "num": 373059,
+      "word": "TheNext导师拟邀权志龙蔡徐坤",
+      "onboard_time": 1677056012,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371721,
       "num": 371721,
       "word": "当地政府回应16岁少女逃婚事件",
@@ -3353,14 +3409,6 @@
       "onboard_time": 1677029909,
       "rank": 47,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 363083,
-      "num": 363083,
-      "word": "杭州拟向三孩家庭发放补助2万元",
-      "onboard_time": 1677053552,
-      "rank": 31,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 362012,
@@ -3939,12 +3987,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 305210,
-      "num": 305210,
-      "word": "23岁小伙起红疹被误诊6年查出癌症",
-      "onboard_time": 1677054513,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 307050,
+      "num": 307050,
+      "word": "张元英机场路透",
+      "onboard_time": 1677055412,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 304984,
@@ -4025,6 +4073,14 @@
       "onboard_time": 1676980049,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295095,
+      "num": 295095,
+      "word": "皮克带新女友吃饭被赶出餐厅",
+      "onboard_time": 1677055711,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 295013,
@@ -4145,6 +4201,14 @@
       "onboard_time": 1677050133,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284446,
+      "num": 284446,
+      "word": "蔡依林出发参加米兰时装周",
+      "onboard_time": 1677056374,
+      "rank": 24,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 284033,
@@ -4387,6 +4451,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 259201,
+      "num": 259201,
+      "word": "张雪峰商业版图盘点",
+      "onboard_time": 1677055172,
+      "rank": 27,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 256268,
       "num": 256268,
       "word": "明晚夜空将上演龙抬头天象",
@@ -4593,6 +4665,14 @@
       "onboard_time": 1677023787,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238038,
+      "num": 238038,
+      "word": "网友呼吁尽快调查乐乐死因",
+      "onboard_time": 1677055771,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237674,
@@ -5355,6 +5435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184824,
+      "num": 184824,
+      "word": "孙颖莎说更从容自信了",
+      "onboard_time": 1677057512,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184769,
       "num": 184769,
       "word": "李兰迪绿色毛衣下午茶随拍",
@@ -5779,6 +5867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159682,
+      "num": 159682,
+      "word": "韩庚郑恺于文文等分享前任4台词",
+      "onboard_time": 1677057272,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159181,
       "num": 159181,
       "word": "庄王送给魏妃的礼物",
@@ -5795,12 +5891,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 156692,
-      "num": 156692,
-      "word": "张小斐首部电视剧",
-      "onboard_time": 1677054698,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 158129,
+      "num": 158129,
+      "word": "上海一传媒公司两度被王一博起诉",
+      "onboard_time": 1677057334,
+      "rank": 40,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 156631,
@@ -5955,6 +6051,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 141600,
+      "num": 141600,
+      "word": "重紫第二世结局是be吗",
+      "onboard_time": 1677055895,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141211,
       "num": 141211,
       "word": "宋亚轩补妆路透",
@@ -6049,6 +6153,14 @@
       "onboard_time": 1676813010,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133040,
+      "num": 133040,
+      "word": "今晚上演金星伴月木星相随",
+      "onboard_time": 1677056434,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132829,
@@ -6187,6 +6299,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 115853,
+      "num": 115853,
+      "word": "贾冰保你平安拍摄花絮",
+      "onboard_time": 1677056732,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 112721,
       "num": 112721,
       "word": "光渊 刺挠",
@@ -6201,6 +6321,14 @@
       "onboard_time": 1677035610,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111618,
+      "num": 111618,
+      "word": "外交部回应持签证赴美中国留学生遭拒绝入境",
+      "onboard_time": 1677057572,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 111608,

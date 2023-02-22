@@ -1,0 +1,410 @@
+{
+  "runTime": 1677057586870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1978705,
+        "num": 1978705,
+        "word": "乐乐",
+        "onboard_time": 1677038320,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1077542,
+        "num": 1077542,
+        "word": "张雪峰发文致歉",
+        "onboard_time": 1677037230,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34544,
+        "num": 903943,
+        "word": "春耕农忙正当时",
+        "onboard_time": 1677035610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2906738,
+        "num": 897934,
+        "word": "保姆多次猥亵男婴被判刑5年",
+        "onboard_time": 1677053312,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 891513,
+        "num": 891513,
+        "word": "四川一学校免费送新生iPhone14",
+        "onboard_time": 1677055951,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 821539,
+        "num": 821539,
+        "word": "23岁小伙起红疹被误诊6年查出癌症",
+        "onboard_time": 1677054513,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726446,
+        "num": 726446,
+        "word": "张小斐首部电视剧",
+        "onboard_time": 1677054698,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 652794,
+        "num": 652794,
+        "word": "妈妈给女儿停掉抗抑郁药换成维生素",
+        "onboard_time": 1677035128,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640359,
+        "num": 640359,
+        "word": "纪向宁考研成绩总分439分",
+        "onboard_time": 1677042215,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 973454,
+        "num": 618162,
+        "word": "丁太升说乌梅子酱俗不可耐",
+        "onboard_time": 1677043652,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1177367,
+        "num": 594841,
+        "word": "李钟硕采访聊IU",
+        "onboard_time": 1677056374,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455488,
+        "num": 455488,
+        "word": "周杰伦演唱会 衢州",
+        "onboard_time": 1677036212,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 449186,
+        "num": 449186,
+        "word": "孙颖莎",
+        "onboard_time": 1677052113,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404616,
+        "num": 404616,
+        "word": "杭州拟向三孩家庭发放补助2万元",
+        "onboard_time": 1677053552,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 390506,
+        "num": 390506,
+        "word": "种地吧成员负债26万",
+        "onboard_time": 1677056851,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383151,
+        "num": 383151,
+        "word": "贵阳回应一领导不雅聊天记录曝光",
+        "onboard_time": 1677041017,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373059,
+        "num": 373059,
+        "word": "TheNext导师拟邀权志龙蔡徐坤",
+        "onboard_time": 1677056012,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348167,
+        "num": 348167,
+        "word": "国家线",
+        "onboard_time": 1677029188,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 346102,
+        "num": 346102,
+        "word": "饶雪漫离歌阵容官宣",
+        "onboard_time": 1677053193,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307050,
+        "num": 307050,
+        "word": "张元英机场路透",
+        "onboard_time": 1677055412,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483033,
+        "num": 305904,
+        "word": "串串店服务员用手机精准扫出签子数量",
+        "onboard_time": 1677053910,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309680,
+        "num": 302164,
+        "word": "新娘婚礼后满怀愧疚给环卫大叔送红包",
+        "onboard_time": 1677050913,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297483,
+        "num": 297483,
+        "word": "HYBE三国语言公告没有中文",
+        "onboard_time": 1677042992,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295095,
+        "num": 295095,
+        "word": "皮克带新女友吃饭被赶出餐厅",
+        "onboard_time": 1677055711,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284446,
+        "num": 284446,
+        "word": "蔡依林出发参加米兰时装周",
+        "onboard_time": 1677056374,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 269581,
+        "num": 269581,
+        "word": "员工阳康后连上16天班在宿舍离世",
+        "onboard_time": 1677045149,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 259979,
+        "num": 259979,
+        "word": "赵丽颖虎狼之路拍摄路透",
+        "onboard_time": 1677048031,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259201,
+        "num": 259201,
+        "word": "张雪峰商业版图盘点",
+        "onboard_time": 1677055172,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 259129,
+        "num": 259129,
+        "word": "美司令暗示台湾有事将部署攻击解放军",
+        "onboard_time": 1677041675,
+        "rank": 28,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 245754,
+        "num": 245754,
+        "word": "香香丫丫待遇为何差距大",
+        "onboard_time": 1677040417,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238038,
+        "num": 238038,
+        "word": "网友呼吁尽快调查乐乐死因",
+        "onboard_time": 1677055771,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217016,
+        "num": 217016,
+        "word": "中国专家已赴美协商丫丫回国事宜",
+        "onboard_time": 1677046111,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209415,
+        "num": 209415,
+        "word": "从抑郁情绪到抑郁症有多远",
+        "onboard_time": 1677051212,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189624,
+        "num": 189624,
+        "word": "山西考研成绩",
+        "onboard_time": 1677050553,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184824,
+        "num": 184824,
+        "word": "孙颖莎说更从容自信了",
+        "onboard_time": 1677057512,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183074,
+        "num": 183074,
+        "word": "大侦探这期开场全员遇害",
+        "onboard_time": 1677047792,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169268,
+        "num": 169268,
+        "word": "丫丫",
+        "onboard_time": 1676991157,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160281,
+        "num": 160281,
+        "word": "白面僧猴",
+        "onboard_time": 1677046893,
+        "rank": 37,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 159682,
+        "num": 159682,
+        "word": "韩庚郑恺于文文等分享前任4台词",
+        "onboard_time": 1677057272,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159010,
+        "num": 159010,
+        "word": "名侦探学院",
+        "onboard_time": 1677047672,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158129,
+        "num": 158129,
+        "word": "上海一传媒公司两度被王一博起诉",
+        "onboard_time": 1677057334,
+        "rank": 40,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 141600,
+        "num": 141600,
+        "word": "重紫第二世结局是be吗",
+        "onboard_time": 1677055895,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135974,
+        "num": 135974,
+        "word": "14岁女孩暴发性心肌炎1年9次返院",
+        "onboard_time": 1677040358,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135504,
+        "num": 135504,
+        "word": "前任4",
+        "onboard_time": 1677043591,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133040,
+        "num": 133040,
+        "word": "今晚上演金星伴月木星相随",
+        "onboard_time": 1677056434,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125292,
+        "num": 125292,
+        "word": "吴磊在芬兰给人指路",
+        "onboard_time": 1677049291,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122038,
+        "num": 122038,
+        "word": "艾尔登法环销量突破2000万",
+        "onboard_time": 1677049592,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116238,
+        "num": 116238,
+        "word": "五月天演唱会门票",
+        "onboard_time": 1677034289,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115853,
+        "num": 115853,
+        "word": "贾冰保你平安拍摄花絮",
+        "onboard_time": 1677056732,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111618,
+        "num": 111618,
+        "word": "外交部回应持签证赴美中国留学生遭拒绝入境",
+        "onboard_time": 1677057572,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#雷锋精神为什么是永恒的#"
+    }
+  }
+}
