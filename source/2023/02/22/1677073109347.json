@@ -1,0 +1,410 @@
+{
+  "runTime": 1677073109347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2061422,
+        "num": 2061422,
+        "word": "沪上阿姨外包装旗袍图被质疑不雅",
+        "onboard_time": 1677065793,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1428292,
+        "num": 1428292,
+        "word": "马龙",
+        "onboard_time": 1677071431,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117457,
+        "num": 1380499,
+        "word": "你那里的春日大片上线了吗",
+        "onboard_time": 1677070952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1353731,
+        "num": 1353731,
+        "word": "陈妍希几乎每天都对陈晓说我爱你",
+        "onboard_time": 1677070470,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1263513,
+        "num": 1263513,
+        "word": "孟菲斯动物园称希望再租借一对年轻熊猫",
+        "onboard_time": 1677066929,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046654,
+        "num": 1046654,
+        "word": "农村结婚难该谁来背锅",
+        "onboard_time": 1677070714,
+        "rank": 5,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1040745,
+        "num": 1040745,
+        "word": "乐乐",
+        "onboard_time": 1677038320,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946533,
+        "num": 946533,
+        "word": "2.4亿大奖得主3天后现身还捐了100万",
+        "onboard_time": 1677059371,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786810,
+        "num": 786810,
+        "word": "虞书欣黑色深V吊带裙",
+        "onboard_time": 1677069689,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 785521,
+        "num": 785521,
+        "word": "乌梅子酱",
+        "onboard_time": 1677066450,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 642755,
+        "num": 642755,
+        "word": "90后程序员改行卖早餐年入30万",
+        "onboard_time": 1677066091,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546357,
+        "num": 546357,
+        "word": "SMTOWN理事集体辞职",
+        "onboard_time": 1677063393,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498728,
+        "num": 498728,
+        "word": "内蒙古煤矿坍塌已致2死6伤53失联",
+        "onboard_time": 1677065070,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 492570,
+        "num": 492570,
+        "word": "王毅与普京会晤",
+        "onboard_time": 1677069508,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 479232,
+        "num": 479232,
+        "word": "抑郁症早期的4大征兆",
+        "onboard_time": 1677063872,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386866,
+        "num": 386866,
+        "word": "乐乐与丫丫20年前抵美画面",
+        "onboard_time": 1677059852,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377257,
+        "num": 377257,
+        "word": "女演员待播古偶剧造型",
+        "onboard_time": 1677067232,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345955,
+        "num": 345955,
+        "word": "旅美大熊猫丫丫回国手续正在办理",
+        "onboard_time": 1677061233,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330829,
+        "num": 330829,
+        "word": "种地吧成员负债26万",
+        "onboard_time": 1677056851,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314015,
+        "num": 314015,
+        "word": "安欣帮前夫还债",
+        "onboard_time": 1677068489,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1928331,
+        "num": 309791,
+        "word": "保姆多次猥亵男婴被判刑5年",
+        "onboard_time": 1677053312,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 303342,
+        "num": 303342,
+        "word": "房贷到底怎么还才划算",
+        "onboard_time": 1677069689,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 292327,
+        "num": 292327,
+        "word": "朱一龙病号服光头造型路透图",
+        "onboard_time": 1677066993,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287218,
+        "num": 287218,
+        "word": "新疆地震",
+        "onboard_time": 1677064290,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273390,
+        "num": 273390,
+        "word": "3000元手机谁值得买",
+        "onboard_time": 1677068852,
+        "rank": 24,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 266232,
+        "num": 266232,
+        "word": "李钟硕采访聊IU",
+        "onboard_time": 1677056374,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261241,
+        "num": 261241,
+        "word": "范伟谈王俊凯敬业态度",
+        "onboard_time": 1677071912,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249980,
+        "num": 249980,
+        "word": "峨眉山的猴子你们好日子到头了",
+        "onboard_time": 1677058531,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247958,
+        "num": 247958,
+        "word": "奶油日记",
+        "onboard_time": 1677069391,
+        "rank": 28,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 218493,
+        "num": 218493,
+        "word": "丁太升说乌梅子酱俗不可耐",
+        "onboard_time": 1677043652,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211751,
+        "num": 211751,
+        "word": "蕈样霉菌病",
+        "onboard_time": 1677065312,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200795,
+        "num": 200795,
+        "word": "23岁小伙起红疹被误诊6年查出癌症",
+        "onboard_time": 1677054513,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195403,
+        "num": 195403,
+        "word": "实习生测评有多离谱",
+        "onboard_time": 1677068311,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190187,
+        "num": 190187,
+        "word": "真的被美到挪不开眼了",
+        "onboard_time": 1677072273,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 190168,
+        "num": 190168,
+        "word": "四川一学校免费送新生iPhone14",
+        "onboard_time": 1677055951,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 185717,
+        "num": 185717,
+        "word": "言承旭说怕大家对他定型",
+        "onboard_time": 1677064771,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163875,
+        "num": 163875,
+        "word": "三体研讨会",
+        "onboard_time": 1677070232,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163742,
+        "num": 163742,
+        "word": "白鹿以爱为营拍摄路透",
+        "onboard_time": 1677072751,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161819,
+        "num": 161819,
+        "word": "蔡徐坤阳台随拍照",
+        "onboard_time": 1677070650,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55078,
+        "num": 160986,
+        "word": "飞猪包岛婚礼被指门槛高",
+        "onboard_time": 1677070843,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160889,
+        "num": 160889,
+        "word": "月亮",
+        "onboard_time": 1677064893,
+        "rank": 40,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 145346,
+        "num": 145346,
+        "word": "贺峻霖喂马嘉祺吃糖油粑粑",
+        "onboard_time": 1677062670,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142615,
+        "num": 142615,
+        "word": "FPX",
+        "onboard_time": 1677066629,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137938,
+        "num": 137938,
+        "word": "夜燕白",
+        "onboard_time": 1677062312,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301871,
+        "num": 135980,
+        "word": "刘涛米兰试装vlog",
+        "onboard_time": 1677071553,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 133997,
+        "num": 133997,
+        "word": "土豆博士刘杰回应18元5片土豆",
+        "onboard_time": 1677063694,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120726,
+        "num": 120726,
+        "word": "慕玉给重紫治腿伤",
+        "onboard_time": 1677072152,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118016,
+        "num": 118016,
+        "word": "周杰伦演唱会 衢州",
+        "onboard_time": 1677036212,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112973,
+        "num": 112973,
+        "word": "妈妈给女儿停掉抗抑郁药换成维生素",
+        "onboard_time": 1677035128,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106908,
+        "num": 106908,
+        "word": "张萌问王楚然阮流筝是不是恋爱脑",
+        "onboard_time": 1677069811,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实加强基础研究#"
+    }
+  }
+}
