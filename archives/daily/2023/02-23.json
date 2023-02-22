@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677104238501,
+  "endTime": 1677105269575,
   "band_list": [
     {
       "raw_hot": 1160828,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308080,
+      "num": 118181,
+      "word": "知情人称内蒙古煤矿坍塌被埋者大部分为司机",
+      "onboard_time": 1677103214,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 304495,
       "num": 304495,
       "word": "抑郁症早期的4大征兆",
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247555,
+      "num": 247555,
+      "word": "美主播曝拜登曾说毁灭台湾计划",
+      "onboard_time": 1677086597,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 244691,
       "num": 244691,
       "word": "虞书欣黑色深V吊带裙",
@@ -211,12 +227,12 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 225339,
-      "num": 225339,
-      "word": "美主播曝拜登曾说毁灭台湾计划",
-      "onboard_time": 1677086597,
+      "raw_hot": 220901,
+      "num": 220901,
+      "word": "大学生吐槽洗澡太贵一次18元",
+      "onboard_time": 1677089595,
       "rank": 29,
-      "category": "国外要闻"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211979,
@@ -225,14 +241,6 @@
       "onboard_time": 1677079170,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 210098,
-      "num": 210098,
-      "word": "大学生吐槽洗澡太贵一次18元",
-      "onboard_time": 1677089595,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205594,
@@ -289,6 +297,14 @@
       "onboard_time": 1677073172,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 175285,
+      "num": 175285,
+      "word": "爱奇艺首次实现全年运营盈利",
+      "onboard_time": 1677096552,
+      "rank": 18,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 163714,
@@ -363,14 +379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124321,
-      "num": 124321,
-      "word": "爱奇艺首次实现全年运营盈利",
-      "onboard_time": 1677096552,
-      "rank": 18,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 115975,
       "num": 115975,
       "word": "种地吧成员负债26万",
@@ -393,14 +401,6 @@
       "onboard_time": 1677072273,
       "rank": 43,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 107821,
-      "num": 30736,
-      "word": "知情人称内蒙古煤矿坍塌被埋者大部分为司机",
-      "onboard_time": 1677103214,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 106880,
@@ -435,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 83335,
+      "num": 83335,
+      "word": "小学生看到2岁男童独行一路护送",
+      "onboard_time": 1677091512,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 81493,
       "num": 81493,
       "word": "马龙说决赛和樊振东没压力",
@@ -451,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53640,
-      "num": 53640,
-      "word": "小学生看到2岁男童独行一路护送",
-      "onboard_time": 1677091512,
-      "rank": 24,
-      "category": "社会正能量"
+      "raw_hot": 47849,
+      "num": 47849,
+      "word": "莱比锡vs曼城",
+      "onboard_time": 1677098291,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 46266,
@@ -467,20 +475,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 40251,
-      "num": 40251,
-      "word": "莱比锡vs曼城",
-      "onboard_time": 1677098291,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 38258,
+      "num": 38258,
+      "word": "高叶晒下班比耶合照",
+      "onboard_time": 1677101171,
+      "rank": 49,
+      "category": "艺人"
     },
     {
-      "raw_hot": 28074,
-      "num": 28074,
+      "raw_hot": 37998,
+      "num": 37998,
       "word": "虞书欣最新直播状态",
       "onboard_time": 1677097572,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32675,
+      "num": 32675,
+      "word": "动物园回应白面僧面猴长相炸裂",
+      "onboard_time": 1677104956,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25469,
@@ -489,14 +505,6 @@
       "onboard_time": 1677092772,
       "rank": 36,
       "category": "作品衍生,情感"
-    },
-    {
-      "raw_hot": 20147,
-      "num": 20147,
-      "word": "高叶晒下班比耶合照",
-      "onboard_time": 1677101171,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 16846,
