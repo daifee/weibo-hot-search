@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677058489254,
+  "endTime": 1677061287640,
   "band_list": [
     {
       "raw_hot": 5326666,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1362572,
+      "num": 1362572,
+      "word": "四川一学校免费送新生iPhone14",
+      "onboard_time": 1677055951,
+      "rank": 4,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1337349,
       "num": 1337349,
       "word": "周杰伦演唱会 衢州",
@@ -131,19 +139,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1322399,
-      "num": 1322399,
-      "word": "四川一学校免费送新生iPhone14",
-      "onboard_time": 1677055951,
-      "rank": 4,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 1277368,
       "num": 355026,
       "word": "河北保定发生一起重大刑案",
       "onboard_time": 1676989354,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1263601,
+      "num": 1263601,
+      "word": "2.4亿大奖得主3天后现身还捐了100万",
+      "onboard_time": 1677059371,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -249,6 +257,14 @@
       "onboard_time": 1676993194,
       "rank": 4,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 916573,
+      "num": 916573,
+      "word": "种地吧成员负债26万",
+      "onboard_time": 1677056851,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 915291,
@@ -379,14 +395,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 724319,
-      "num": 724319,
-      "word": "种地吧成员负债26万",
-      "onboard_time": 1677056851,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 710636,
       "num": 710636,
       "word": "iPhone15Pro机型有望配8GB内存",
@@ -507,12 +515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528971,
+      "num": 528971,
+      "word": "峨眉山的猴子你们好日子到头了",
+      "onboard_time": 1677058531,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524308,
       "num": 524308,
       "word": "31岁大熊猫永明携双胞胎回家",
       "onboard_time": 1677039874,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520896,
+      "num": 520896,
+      "word": "KPL选手持证上岗",
+      "onboard_time": 1677058112,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 517379,
@@ -739,6 +763,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 361729,
+      "num": 361729,
+      "word": "在东北实现碳水自由有多爽",
+      "onboard_time": 1677058472,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 358646,
       "num": 358646,
       "word": "一人一句接丫丫回家",
@@ -753,6 +785,14 @@
       "onboard_time": 1677032007,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355163,
+      "num": 355163,
+      "word": "皮克带新女友吃饭被赶出餐厅",
+      "onboard_time": 1677055711,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 351650,
@@ -811,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335322,
+      "num": 335322,
+      "word": "乐乐与丫丫20年前抵美画面",
+      "onboard_time": 1677059852,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334440,
       "num": 334440,
       "word": "美国北约火速回应俄暂停削减武器条约",
@@ -819,20 +867,20 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 329166,
-      "num": 329166,
-      "word": "皮克带新女友吃饭被赶出餐厅",
-      "onboard_time": 1677055711,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 328415,
       "num": 328415,
       "word": "内娱真人版网球王子",
       "onboard_time": 1676983474,
       "rank": 11,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 328162,
+      "num": 328162,
+      "word": "外交部回应持签证赴美中国留学生遭拒绝入境",
+      "onboard_time": 1677057572,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 327752,
@@ -867,11 +915,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 318720,
+      "num": 318720,
+      "word": "陆虎说嘘嘘是自己的救赎",
+      "onboard_time": 1677060391,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312473,
       "num": 312473,
       "word": "夏花 BE",
       "onboard_time": 1676982574,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 310825,
+      "num": 310825,
+      "word": "三体剧组庆功宴",
+      "onboard_time": 1677059672,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -1195,14 +1259,6 @@
       "category": "幽默,网红"
     },
     {
-      "raw_hot": 227412,
-      "num": 227412,
-      "word": "外交部回应持签证赴美中国留学生遭拒绝入境",
-      "onboard_time": 1677057572,
-      "rank": 49,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 227342,
       "num": 227342,
       "word": "男子救人留下我是四川人就离开了",
@@ -1291,14 +1347,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 202958,
-      "num": 202958,
-      "word": "KPL选手持证上岗",
-      "onboard_time": 1677058112,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 201006,
       "num": 201006,
       "word": "农行回应对雄安购房者推出连心贷",
@@ -1337,6 +1385,14 @@
       "onboard_time": 1676971712,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190568,
+      "num": 190568,
+      "word": "上海一传媒公司两度被王一博起诉",
+      "onboard_time": 1677057334,
+      "rank": 40,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 190004,
@@ -1411,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171608,
+      "num": 171608,
+      "word": "峨眉山景区回应将推行人猴分离",
+      "onboard_time": 1677059910,
+      "rank": 36,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 170365,
       "num": 170365,
       "word": "文紫皮下是重紫",
@@ -1475,14 +1539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160967,
-      "num": 160967,
-      "word": "上海一传媒公司两度被王一博起诉",
-      "onboard_time": 1677057334,
-      "rank": 40,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 158280,
       "num": 158280,
       "word": "暨南大学考研",
@@ -1521,6 +1577,14 @@
       "onboard_time": 1676977353,
       "rank": 32,
       "category": "军事,国内要闻"
+    },
+    {
+      "raw_hot": 146340,
+      "num": 1281972,
+      "word": "2022年中国考古新发现",
+      "onboard_time": 1677058832,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144510,
@@ -1569,6 +1633,14 @@
       "onboard_time": 1676984502,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138972,
+      "num": 138972,
+      "word": "JDG对战FPX",
+      "onboard_time": 1677060632,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 138648,
@@ -1683,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111537,
+      "num": 111537,
+      "word": "旅美大熊猫丫丫回国手续正在办理",
+      "onboard_time": 1677061233,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109289,
       "num": 109289,
       "word": "吴京呼吁网友为刘培强复活支招",
@@ -1713,14 +1793,6 @@
       "onboard_time": 1676988640,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100367,
-      "num": 100367,
-      "word": "在东北实现碳水自由有多爽",
-      "onboard_time": 1677058472,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 91291,
@@ -1845,6 +1917,9 @@
     },
     {
       "word": "#雷锋精神为什么是永恒的#"
+    },
+    {
+      "word": "#锚定发展加把劲#"
     }
   ]
 }
