@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677043095401,
+  "endTime": 1677043991891,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -283,20 +283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1627833,
+      "num": 1627833,
+      "word": "女儿考研437分单亲妈妈哽咽安慰",
+      "onboard_time": 1677040297,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1618305,
       "num": 1618305,
       "word": "火锅店18元一份土豆就5薄片",
       "onboard_time": 1677031528,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1612768,
-      "num": 1612768,
-      "word": "女儿考研437分单亲妈妈哽咽安慰",
-      "onboard_time": 1677040297,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1581111,
@@ -337,6 +337,14 @@
       "onboard_time": 1676946811,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1462333,
+      "num": 1462333,
+      "word": "纪向宁考研成绩总分439分",
+      "onboard_time": 1677042215,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1457942,
@@ -625,6 +633,14 @@
       "onboard_time": 1676946330,
       "rank": 3,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 1169291,
+      "num": 1169291,
+      "word": "HYBE三国语言公告没有中文",
+      "onboard_time": 1677042992,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 1166033,
@@ -1027,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 880638,
+      "num": 880638,
+      "word": "美司令暗示台湾有事将部署攻击解放军",
+      "onboard_time": 1677041675,
+      "rank": 14,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 879129,
       "num": 879129,
       "word": "杨紫诉医美公司侵权案将开庭",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1676885490,
       "rank": 46,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 852607,
-      "num": 852607,
-      "word": "纪向宁考研成绩总分439分",
-      "onboard_time": 1677042215,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 849648,
@@ -1251,6 +1267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 770999,
+      "num": 770999,
+      "word": "贵阳回应一领导不雅聊天记录曝光",
+      "onboard_time": 1677041017,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 768039,
       "num": 768039,
       "word": "导演说言承旭拍戏时一直吃水煮菜",
@@ -1336,14 +1360,6 @@
       "word": "14岁女孩暴发性心肌炎1年9次返院",
       "onboard_time": 1677040358,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 744105,
-      "num": 744105,
-      "word": "贵阳回应一领导不雅聊天记录曝光",
-      "onboard_time": 1677041017,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1465,14 +1481,6 @@
       "onboard_time": 1677030507,
       "rank": 13,
       "category": "科技"
-    },
-    {
-      "raw_hot": 707258,
-      "num": 707258,
-      "word": "美司令暗示台湾有事将部署攻击解放军",
-      "onboard_time": 1677041675,
-      "rank": 14,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 702389,
@@ -1937,14 +1945,6 @@
       "onboard_time": 1676962168,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 587065,
-      "num": 587065,
-      "word": "HYBE三国语言公告没有中文",
-      "onboard_time": 1677042992,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 586321,
@@ -2595,6 +2595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 445280,
+      "num": 445280,
+      "word": "丁太升说乌梅子酱俗不可耐",
+      "onboard_time": 1677043652,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 444401,
       "num": 444401,
       "word": "小时候的塌天大事",
@@ -3153,6 +3161,14 @@
       "onboard_time": 1676935881,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 370305,
+      "num": 370305,
+      "word": "前任4",
+      "onboard_time": 1677043591,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 370191,
@@ -3843,6 +3859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295286,
+      "num": 295286,
+      "word": "名侦探学院校规案",
+      "onboard_time": 1677042753,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295120,
       "num": 295120,
       "word": "半熟恋人",
@@ -3913,6 +3937,14 @@
       "onboard_time": 1676814512,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 288176,
+      "num": 288176,
+      "word": "巴奴涉事门店回应18元土豆仅5片",
+      "onboard_time": 1677042933,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287875,
@@ -4025,14 +4057,6 @@
       "onboard_time": 1676963668,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 277441,
-      "num": 277441,
-      "word": "名侦探学院校规案",
-      "onboard_time": 1677042753,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 276849,
@@ -5033,14 +5057,6 @@
       "onboard_time": 1676968649,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 186780,
-      "num": 186780,
-      "word": "巴奴涉事门店回应18元土豆仅5片",
-      "onboard_time": 1677042933,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186533,
