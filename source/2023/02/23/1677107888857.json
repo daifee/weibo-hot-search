@@ -1,0 +1,410 @@
+{
+  "runTime": 1677107888857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1264143,
+        "num": 1264143,
+        "word": "知情人称内蒙古煤矿坍塌被埋者大部分为司机",
+        "onboard_time": 1677103214,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 890876,
+        "num": 890876,
+        "word": "孟菲斯动物园称希望再租借一对年轻熊猫",
+        "onboard_time": 1677066929,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67969,
+        "num": 768574,
+        "word": "你那里的春日大片上线了吗",
+        "onboard_time": 1677070952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669565,
+        "num": 669565,
+        "word": "大学生吐槽洗澡太贵一次18元",
+        "onboard_time": 1677089595,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523502,
+        "num": 523502,
+        "word": "沪上阿姨外包装旗袍图被质疑不雅",
+        "onboard_time": 1677065793,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512237,
+        "num": 512237,
+        "word": "美主播曝拜登曾说毁灭台湾计划",
+        "onboard_time": 1677086597,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 488204,
+        "num": 488204,
+        "word": "动物园回应白面僧面猴长相炸裂",
+        "onboard_time": 1677104956,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485722,
+        "num": 485722,
+        "word": "南方都是这样的教学楼吗",
+        "onboard_time": 1677083304,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 442293,
+        "num": 442293,
+        "word": "爱奇艺首次实现全年运营盈利",
+        "onboard_time": 1677096552,
+        "rank": 8,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 335183,
+        "num": 335183,
+        "word": "陈妍希几乎每天都对陈晓说我爱你",
+        "onboard_time": 1677070470,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305499,
+        "num": 305499,
+        "word": "宋慧乔许光汉同框",
+        "onboard_time": 1677076173,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266091,
+        "num": 266091,
+        "word": "农村结婚难该谁来背锅",
+        "onboard_time": 1677070714,
+        "rank": 11,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 258730,
+        "num": 258730,
+        "word": "爷爷颤颤巍巍去见孙子最后一面",
+        "onboard_time": 1677082644,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239459,
+        "num": 239459,
+        "word": "蒿俊闵",
+        "onboard_time": 1677081926,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238070,
+        "num": 238070,
+        "word": "乌梅子酱",
+        "onboard_time": 1677066450,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237563,
+        "num": 237563,
+        "word": "中国乒乓出品人回应票房不如预期",
+        "onboard_time": 1677079949,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228162,
+        "num": 228162,
+        "word": "大儿子下床被突然出现的爸爸吓到",
+        "onboard_time": 1677107180,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223363,
+        "num": 223363,
+        "word": "小学生看到2岁男童独行一路护送",
+        "onboard_time": 1677091512,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 216277,
+        "num": 216277,
+        "word": "Doinb小孩出生",
+        "onboard_time": 1677076893,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 203519,
+        "num": 203519,
+        "word": "2.4亿大奖得主3天后现身还捐了100万",
+        "onboard_time": 1677059371,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195018,
+        "num": 195018,
+        "word": "明星米兰时装周状态",
+        "onboard_time": 1677077434,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 153917,
+        "num": 153917,
+        "word": "接下来的杭州将是浪漫天花板",
+        "onboard_time": 1677073172,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 145173,
+        "num": 145173,
+        "word": "李宇春背了好大一个包",
+        "onboard_time": 1677073534,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143772,
+        "num": 143772,
+        "word": "为什么抑郁症的人越来越多",
+        "onboard_time": 1677076893,
+        "rank": 23,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 143130,
+        "num": 143130,
+        "word": "90后程序员改行卖早餐年入30万",
+        "onboard_time": 1677066091,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132579,
+        "num": 132579,
+        "word": "博主奶油日记为博眼球谎称下海被查",
+        "onboard_time": 1677076358,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 121586,
+        "num": 121586,
+        "word": "找人类帮忙的小猫",
+        "onboard_time": 1677083124,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118171,
+        "num": 118171,
+        "word": "抑郁症早期的4大征兆",
+        "onboard_time": 1677063872,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108320,
+        "num": 108320,
+        "word": "宋亚轩刘耀文搂肩一起下班",
+        "onboard_time": 1677079170,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106511,
+        "num": 106511,
+        "word": "星落凝成刀",
+        "onboard_time": 1677081747,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110729,
+        "num": 106501,
+        "word": "宋雨琦程潇看秀造型",
+        "onboard_time": 1677074255,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 106242,
+        "num": 106242,
+        "word": "米兰时装周",
+        "onboard_time": 1677078094,
+        "rank": 31,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 102538,
+        "num": 102538,
+        "word": "当你有个擅长表达的女朋友",
+        "onboard_time": 1677088696,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97975,
+        "num": 97975,
+        "word": "3只旅日大熊猫顺利返回成都",
+        "onboard_time": 1677107542,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96813,
+        "num": 96813,
+        "word": "半熟恋人 抓马",
+        "onboard_time": 1677077314,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89697,
+        "num": 89697,
+        "word": "大学食堂物价堪比10年前",
+        "onboard_time": 1677106999,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 84162,
+        "num": 84162,
+        "word": "新疆地震",
+        "onboard_time": 1677064290,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83817,
+        "num": 83817,
+        "word": "安欣帮前夫还债",
+        "onboard_time": 1677068489,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82994,
+        "num": 82994,
+        "word": "周杰伦2022IFPI第九位",
+        "onboard_time": 1677084381,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81742,
+        "num": 81742,
+        "word": "旅美大熊猫丫丫回国手续正在办理",
+        "onboard_time": 1677061233,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77367,
+        "num": 77367,
+        "word": "莱比锡vs曼城",
+        "onboard_time": 1677098291,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77021,
+        "num": 77021,
+        "word": "虞书欣最新直播状态",
+        "onboard_time": 1677097572,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75820,
+        "num": 75820,
+        "word": "SMTOWN理事集体辞职",
+        "onboard_time": 1677063393,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75539,
+        "num": 75539,
+        "word": "乐乐与丫丫20年前抵美画面",
+        "onboard_time": 1677059852,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73153,
+        "num": 73153,
+        "word": "文豪野犬",
+        "onboard_time": 1677080130,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 67409,
+        "num": 67409,
+        "word": "刘诗诗米兰时装周出发路透",
+        "onboard_time": 1677073353,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 67198,
+        "num": 67198,
+        "word": "高叶晒下班比耶合照",
+        "onboard_time": 1677101171,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62324,
+        "num": 62324,
+        "word": "王毅与普京会晤",
+        "onboard_time": 1677069508,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 60644,
+        "num": 60644,
+        "word": "内蒙古阿拉善煤矿坍塌瞬间曝光",
+        "onboard_time": 1677073113,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 60332,
+        "num": 60332,
+        "word": "刘涛米兰时装周生图",
+        "onboard_time": 1677076303,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实加强基础研究#"
+    }
+  }
+}

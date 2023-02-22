@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/01 00:26:13 ~ 2023/02/23 06:34:29
+本榜单时间：2023/02/01 00:26:13 ~ 2023/02/23 07:18:08
 </p>
 </blockquote>
 <p>
@@ -3459,6 +3459,12 @@ HYBE将正式接管SMTOWN（热度：1375832）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%86%85%E8%92%99%E5%8F%A4%E7%85%A4%E7%9F%BF%E5%9D%8D%E5%A1%8C%E8%A2%AB%E5%9F%8B%E8%80%85%E5%A4%A7%E9%83%A8%E5%88%86%E4%B8%BA%E5%8F%B8%E6%9C%BA%23" target="weibo">
+知情人称内蒙古煤矿坍塌被埋者大部分为司机（热度：1264143）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%80%83%E7%A0%94%23" target="weibo">
 暨南大学考研（热度：1264136）
 </a>
@@ -6005,12 +6011,6 @@ SMTOWN曾反对加入中国成员（热度：933992）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E4%B8%8D%E5%90%83%E6%97%A9%E9%A4%90%E4%BC%9A%E9%99%8D%E4%BD%8E%E5%A4%A7%E8%84%91%E5%8A%9F%E8%83%BD%23" target="weibo">
 长期不吃早餐会降低大脑功能（热度：925608）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E6%96%A4%E6%A3%BA%E6%9C%A8%E5%8E%8B%E6%89%8B%E6%88%B410%E5%B9%B4%E5%B0%BE%E6%88%92%E4%BF%9D%E4%BD%8F%E7%94%B7%E5%AD%90%E6%89%8B%E6%8C%87%23" target="weibo">
-千斤棺木压手戴10年尾戒保住男子手指（热度：925476）
 </a>
 </li>
 
