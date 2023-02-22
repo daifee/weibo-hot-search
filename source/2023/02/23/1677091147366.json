@@ -1,0 +1,410 @@
+{
+  "runTime": 1677091147366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 230430,
+        "num": 230430,
+        "word": "南方都是这样的教学楼吗",
+        "onboard_time": 1677083304,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212246,
+        "num": 212246,
+        "word": "美主播曝拜登曾说毁灭台湾计划",
+        "onboard_time": 1677086597,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 12490,
+        "num": 180116,
+        "word": "你那里的春日大片上线了吗",
+        "onboard_time": 1677070952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171451,
+        "num": 171451,
+        "word": "孟菲斯动物园称希望再租借一对年轻熊猫",
+        "onboard_time": 1677066929,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149031,
+        "num": 149031,
+        "word": "沪上阿姨外包装旗袍图被质疑不雅",
+        "onboard_time": 1677065793,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131430,
+        "num": 131430,
+        "word": "乐乐",
+        "onboard_time": 1677038320,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128310,
+        "num": 128310,
+        "word": "爷爷颤颤巍巍去见孙子最后一面",
+        "onboard_time": 1677082644,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127919,
+        "num": 127919,
+        "word": "大学生吐槽洗澡太贵一次18元",
+        "onboard_time": 1677089595,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106515,
+        "num": 106515,
+        "word": "乌梅子酱",
+        "onboard_time": 1677066450,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102209,
+        "num": 102209,
+        "word": "陈妍希几乎每天都对陈晓说我爱你",
+        "onboard_time": 1677070470,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99695,
+        "num": 99695,
+        "word": "Doinb小孩出生",
+        "onboard_time": 1677076893,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 92892,
+        "num": 92892,
+        "word": "为什么抑郁症的人越来越多",
+        "onboard_time": 1677076893,
+        "rank": 11,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 83245,
+        "num": 83245,
+        "word": "农村结婚难该谁来背锅",
+        "onboard_time": 1677070714,
+        "rank": 12,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 71558,
+        "num": 71558,
+        "word": "抑郁症早期的4大征兆",
+        "onboard_time": 1677063872,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70813,
+        "num": 70813,
+        "word": "2.4亿大奖得主3天后现身还捐了100万",
+        "onboard_time": 1677059371,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67899,
+        "num": 67899,
+        "word": "中国乒乓出品人回应票房不如预期",
+        "onboard_time": 1677079949,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66120,
+        "num": 66120,
+        "word": "宋慧乔许光汉同框",
+        "onboard_time": 1677076173,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64514,
+        "num": 64514,
+        "word": "周杰伦2022IFPI第九位",
+        "onboard_time": 1677084381,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 59376,
+        "num": 59376,
+        "word": "旅美大熊猫丫丫回国手续正在办理",
+        "onboard_time": 1677061233,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56661,
+        "num": 56661,
+        "word": "蒿俊闵",
+        "onboard_time": 1677081926,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55064,
+        "num": 55064,
+        "word": "找人类帮忙的小猫",
+        "onboard_time": 1677083124,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52355,
+        "num": 52355,
+        "word": "星落凝成刀",
+        "onboard_time": 1677081747,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51239,
+        "num": 51239,
+        "word": "90后程序员改行卖早餐年入30万",
+        "onboard_time": 1677066091,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50545,
+        "num": 50545,
+        "word": "SMTOWN理事集体辞职",
+        "onboard_time": 1677063393,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49746,
+        "num": 49746,
+        "word": "虞书欣黑色深V吊带裙",
+        "onboard_time": 1677069689,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48762,
+        "num": 48762,
+        "word": "乐乐与丫丫20年前抵美画面",
+        "onboard_time": 1677059852,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47872,
+        "num": 47872,
+        "word": "明星米兰时装周状态",
+        "onboard_time": 1677077434,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 46266,
+        "num": 46266,
+        "word": "当你有个擅长表达的女朋友",
+        "onboard_time": 1677088696,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44576,
+        "num": 44576,
+        "word": "文豪野犬",
+        "onboard_time": 1677080130,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 41729,
+        "num": 41729,
+        "word": "博主奶油日记为博眼球谎称下海被查",
+        "onboard_time": 1677076358,
+        "rank": 29,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 48502,
+        "num": 41533,
+        "word": "宋雨琦程潇看秀造型",
+        "onboard_time": 1677074255,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 40535,
+        "num": 40535,
+        "word": "安欣帮前夫还债",
+        "onboard_time": 1677068489,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39839,
+        "num": 39839,
+        "word": "新疆地震",
+        "onboard_time": 1677064290,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39607,
+        "num": 39607,
+        "word": "半熟恋人 抓马",
+        "onboard_time": 1677077314,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36432,
+        "num": 36432,
+        "word": "宋亚轩刘耀文搂肩一起下班",
+        "onboard_time": 1677079170,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34037,
+        "num": 34037,
+        "word": "王毅与普京会晤",
+        "onboard_time": 1677069508,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 32301,
+        "num": 32301,
+        "word": "李宇春背了好大一个包",
+        "onboard_time": 1677073534,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31258,
+        "num": 31258,
+        "word": "接下来的杭州将是浪漫天花板",
+        "onboard_time": 1677073172,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 30212,
+        "num": 30212,
+        "word": "峨眉山的猴子你们好日子到头了",
+        "onboard_time": 1677058531,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29862,
+        "num": 29862,
+        "word": "真的被美到挪不开眼了",
+        "onboard_time": 1677072273,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 29790,
+        "num": 29790,
+        "word": "种地吧成员负债26万",
+        "onboard_time": 1677056851,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27629,
+        "num": 27629,
+        "word": "米兰时装周",
+        "onboard_time": 1677078094,
+        "rank": 41,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 27378,
+        "num": 27378,
+        "word": "孕妇临产交警开道8分钟送医",
+        "onboard_time": 1677077071,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 27163,
+        "num": 27163,
+        "word": "曾凡博落选12人大名单",
+        "onboard_time": 1677079052,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26952,
+        "num": 26952,
+        "word": "魔咒",
+        "onboard_time": 1677077252,
+        "rank": 44,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 26743,
+        "num": 26743,
+        "word": "内蒙古阿拉善煤矿坍塌瞬间曝光",
+        "onboard_time": 1677073113,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 26321,
+        "num": 26321,
+        "word": "刘诗诗米兰时装周出发路透",
+        "onboard_time": 1677073353,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25780,
+        "num": 25780,
+        "word": "刘涛米兰时装周生图",
+        "onboard_time": 1677076303,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23371,
+        "num": 23371,
+        "word": "夏花",
+        "onboard_time": 1677077672,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20999,
+        "num": 20999,
+        "word": "房贷到底怎么还才划算",
+        "onboard_time": 1677069689,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实加强基础研究#"
+    }
+  }
+}

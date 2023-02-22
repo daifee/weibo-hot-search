@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/23 00:26:54 ~ 2023/02/23 02:24:05
+本榜单时间：2023/02/23 00:26:54 ~ 2023/02/23 02:39:07
 </p>
 </blockquote>
 <p>
@@ -273,6 +273,12 @@ SMTOWN理事集体辞职（热度：187266）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD%E6%B4%97%E6%BE%A1%E5%A4%AA%E8%B4%B5%E4%B8%80%E6%AC%A118%E5%85%83%23" target="weibo">
+大学生吐槽洗澡太贵一次18元（热度：127919）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E4%B8%8D%E6%84%A7%E6%98%AFbe%E7%8E%8B%E8%80%85%23" target="weibo">
 毛不易不愧是be王者（热度：125514）
 </a>
@@ -333,14 +339,8 @@ SMTOWN理事集体辞职（热度：187266）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD%E6%B4%97%E6%BE%A1%E5%A4%AA%E8%B4%B5%E4%B8%80%E6%AC%A118%E5%85%83%23" target="weibo">
-大学生吐槽洗澡太贵一次18元（热度：49049）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E6%9C%89%E4%B8%AA%E6%93%85%E9%95%BF%E8%A1%A8%E8%BE%BE%E7%9A%84%E5%A5%B3%E6%9C%8B%E5%8F%8B%23" target="weibo">
-当你有个擅长表达的女朋友（热度：45188）
+当你有个擅长表达的女朋友（热度：46266）
 </a>
 </li>
 
