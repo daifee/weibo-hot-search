@@ -1,6 +1,6 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677034782453,
+  "endTime": 1677036190978,
   "band_list": [
     {
       "raw_hot": 4793161,
@@ -27,8 +27,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1598873,
-      "num": 1598873,
+      "raw_hot": 1618305,
+      "num": 1618305,
       "word": "火锅店18元一份土豆就5薄片",
       "onboard_time": 1677031528,
       "rank": 3,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1125921,
+      "num": 576208,
+      "word": "妈妈给女儿停掉抗抑郁药换成维生素",
+      "onboard_time": 1677035128,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1108543,
       "num": 1108543,
       "word": "日本海岸发现不明球状物",
@@ -139,6 +147,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 788055,
+      "num": 788055,
+      "word": "五月天演唱会门票",
+      "onboard_time": 1677034289,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 781448,
       "num": 781448,
       "word": "3月起自中国入境韩国无须核酸",
@@ -163,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 740741,
+      "num": 740741,
+      "word": "新加坡给穷人发钱让富人增税应对涨价",
+      "onboard_time": 1677032312,
+      "rank": 17,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 732196,
       "num": 616272,
       "word": "蔡徐坤米兰街头听演奏",
@@ -177,6 +201,14 @@
       "onboard_time": 1677030507,
       "rank": 13,
       "category": "科技"
+    },
+    {
+      "raw_hot": 680477,
+      "num": 680477,
+      "word": "我的工位是不是有脏东西",
+      "onboard_time": 1677031950,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 666883,
@@ -195,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 623021,
-      "num": 623021,
-      "word": "我的工位是不是有脏东西",
-      "onboard_time": 1677031950,
-      "rank": 9,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 602289,
       "num": 602289,
       "word": "心疼丫丫",
@@ -211,20 +235,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 597124,
+      "num": 597124,
+      "word": "彭昱畅李庚希出演韩延新片",
+      "onboard_time": 1677035010,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 556144,
+      "num": 556144,
+      "word": "提前还贷大大减轻按揭压力",
+      "onboard_time": 1677032068,
+      "rank": 19,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 548345,
       "num": 548345,
       "word": "6岁女童被玩伴踹进水池",
       "onboard_time": 1677026613,
       "rank": 12,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 543106,
-      "num": 543106,
-      "word": "新加坡给穷人发钱让富人增税应对涨价",
-      "onboard_time": 1677032312,
-      "rank": 17,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 505975,
@@ -251,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478898,
+      "num": 478898,
+      "word": "丫丫或将提前回国",
+      "onboard_time": 1677035310,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477331,
       "num": 477331,
       "word": "研究发现艾滋病或有望治愈",
@@ -267,20 +307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 467993,
-      "num": 467993,
-      "word": "提前还贷大大减轻按揭压力",
-      "onboard_time": 1677032068,
-      "rank": 19,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 435510,
       "num": 435510,
       "word": "广州漫展",
       "onboard_time": 1676991767,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 426616,
+      "num": 426616,
+      "word": "十年朋克无人问 一朝舞女天下知",
+      "onboard_time": 1677032430,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 415879,
@@ -299,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382145,
-      "num": 382145,
-      "word": "五月天演唱会门票",
-      "onboard_time": 1677034289,
-      "rank": 20,
-      "category": "音乐"
+      "raw_hot": 378714,
+      "num": 378714,
+      "word": "全村凑钱上大学的孩子返乡带大家致富",
+      "onboard_time": 1677033867,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374724,
@@ -371,14 +411,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 333149,
-      "num": 333149,
-      "word": "十年朋克无人问 一朝舞女天下知",
-      "onboard_time": 1677032430,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 328415,
       "num": 328415,
       "word": "内娱真人版网球王子",
@@ -395,20 +427,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 320673,
+      "num": 320673,
+      "word": "91岁教师决定去世后捐献遗体给浙大",
+      "onboard_time": 1677033989,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 313431,
+      "num": 313431,
+      "word": "TizzyT新厂牌全员官宣",
+      "onboard_time": 1677035310,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 312473,
       "num": 312473,
       "word": "夏花 BE",
       "onboard_time": 1676982574,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 310895,
-      "num": 310895,
-      "word": "全村凑钱上大学的孩子返乡带大家致富",
-      "onboard_time": 1677033867,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309555,
@@ -433,6 +473,22 @@
       "onboard_time": 1676973931,
       "rank": 15,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 276627,
+      "num": 276627,
+      "word": "女童玩滑梯被男童踹倒头着地",
+      "onboard_time": 1677033148,
+      "rank": 37,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 276191,
+      "num": 276191,
+      "word": "浮图缘集体入职今日宜加油",
+      "onboard_time": 1677036148,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 274737,
@@ -467,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265167,
-      "num": 265167,
-      "word": "女童玩滑梯被男童踹倒头着地",
-      "onboard_time": 1677033148,
-      "rank": 37,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 261444,
       "num": 261444,
       "word": "武林外传演男女分手时内心活动",
@@ -497,6 +545,14 @@
       "onboard_time": 1677024450,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246764,
+      "num": 246764,
+      "word": "HYBE成SMTOWN第一大股东",
+      "onboard_time": 1677036030,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 246501,
@@ -563,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227960,
+      "num": 227960,
+      "word": "AppleWatch或因侵权在美国禁售",
+      "onboard_time": 1677034588,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 227721,
       "num": 227721,
       "word": "我是颜值主播我不会跳舞",
@@ -595,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221570,
+      "num": 221570,
+      "word": "阴阳师",
+      "onboard_time": 1677034892,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214101,
       "num": 214101,
       "word": "皇马杀疯了",
@@ -619,20 +691,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197189,
-      "num": 197189,
-      "word": "91岁教师决定去世后捐献遗体给浙大",
-      "onboard_time": 1677033989,
-      "rank": 46,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 195048,
-      "num": 195048,
-      "word": "AppleWatch或因侵权在美国禁售",
-      "onboard_time": 1677034588,
-      "rank": 40,
-      "category": "科技"
+      "raw_hot": 202619,
+      "num": 202619,
+      "word": "箱庭小偶",
+      "onboard_time": 1677035491,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 194363,
@@ -696,6 +760,14 @@
       "word": "专家称弄错试管婴儿的医院应受处罚",
       "onboard_time": 1676994871,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168658,
+      "num": 168658,
+      "word": "网友刷屏接丫丫回家",
+      "onboard_time": 1677034711,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -769,14 +841,6 @@
       "onboard_time": 1676988453,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 141971,
-      "num": 141971,
-      "word": "网友刷屏接丫丫回家",
-      "onboard_time": 1677034711,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141027,
@@ -979,6 +1043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 59505,
+      "num": 1691356,
+      "word": "春耕农忙正当时",
+      "onboard_time": 1677035610,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27975,
       "num": 27975,
       "word": "萌娃剃头图鉴",
@@ -1004,6 +1076,9 @@
     },
     {
       "word": "#以高质量供给满足日益升级的国内市场需求#"
+    },
+    {
+      "word": "#使农村的生活奔向现代化越走越有奔头#"
     }
   ]
 }
