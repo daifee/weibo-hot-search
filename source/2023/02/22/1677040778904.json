@@ -1,0 +1,410 @@
+{
+  "runTime": 1677040778904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5326666,
+        "num": 5326666,
+        "word": "张雪峰发文致歉",
+        "onboard_time": 1677037230,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3002601,
+        "num": 3002601,
+        "word": "妈妈给女儿停掉抗抑郁药换成维生素",
+        "onboard_time": 1677035128,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111097,
+        "num": 2839196,
+        "word": "春耕农忙正当时",
+        "onboard_time": 1677035610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2726737,
+        "num": 2726737,
+        "word": "丫丫",
+        "onboard_time": 1676991157,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1791564,
+        "num": 1791564,
+        "word": "国家线",
+        "onboard_time": 1677029188,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1441541,
+        "num": 1441541,
+        "word": "乐乐",
+        "onboard_time": 1677038320,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1337349,
+        "num": 1337349,
+        "word": "周杰伦演唱会 衢州",
+        "onboard_time": 1677036212,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1089684,
+        "num": 1089684,
+        "word": "火锅店18元一份土豆就5薄片",
+        "onboard_time": 1677031528,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021593,
+        "num": 1021593,
+        "word": "马沙拉棣",
+        "onboard_time": 1677039094,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 740400,
+        "num": 740400,
+        "word": "HYBE成SMTOWN第一大股东",
+        "onboard_time": 1677036030,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1076711,
+        "num": 739969,
+        "word": "JYP中国已与腾讯成立合资公司",
+        "onboard_time": 1677038434,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 720367,
+        "num": 720367,
+        "word": "张雪峰吐槽还60万房贷利息57万",
+        "onboard_time": 1677024933,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717098,
+        "num": 717098,
+        "word": "当地回应公职人员相亲失败出言不逊",
+        "onboard_time": 1677038134,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706985,
+        "num": 706985,
+        "word": "五月天演唱会门票",
+        "onboard_time": 1677034289,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 691520,
+        "num": 691520,
+        "word": "丫丫或将提前回国",
+        "onboard_time": 1677035310,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623422,
+        "num": 623422,
+        "word": "郑恺晒前任4余飞杀青照",
+        "onboard_time": 1677033148,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 540771,
+        "num": 540771,
+        "word": "日本海岸发现不明球状物",
+        "onboard_time": 1677030450,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486416,
+        "num": 486416,
+        "word": "成龙娜扎神话2同框合影",
+        "onboard_time": 1677038971,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 459467,
+        "num": 459467,
+        "word": "我的工位是不是有脏东西",
+        "onboard_time": 1677031950,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 449588,
+        "num": 449588,
+        "word": "新加坡给穷人发钱让富人增税应对涨价",
+        "onboard_time": 1677032312,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 440490,
+        "num": 440490,
+        "word": "31岁大熊猫永明携双胞胎回家",
+        "onboard_time": 1677039874,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439839,
+        "num": 439839,
+        "word": "苏醒见陈楚生秒叫大哥",
+        "onboard_time": 1677037650,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415471,
+        "num": 415471,
+        "word": "国台办回应台湾夜市螺蛳粉生意火爆",
+        "onboard_time": 1677038853,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386989,
+        "num": 386989,
+        "word": "家长开门没想到把2岁女童手指夹断",
+        "onboard_time": 1677037349,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 378798,
+        "num": 378798,
+        "word": "张天爱前任4杀青剧照",
+        "onboard_time": 1677040297,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373496,
+        "num": 373496,
+        "word": "魏晨大侦探8绿色外套造型",
+        "onboard_time": 1677037893,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372462,
+        "num": 372462,
+        "word": "十年朋克无人问 一朝舞女天下知",
+        "onboard_time": 1677032430,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 358646,
+        "num": 358646,
+        "word": "一人一句接丫丫回家",
+        "onboard_time": 1677040057,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347917,
+        "num": 347917,
+        "word": "提前还贷大大减轻按揭压力",
+        "onboard_time": 1677032068,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 320316,
+        "num": 320316,
+        "word": "女子宿舍吃火锅放罂粟提味被罚",
+        "onboard_time": 1677024871,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405028,
+        "num": 320059,
+        "word": "女儿考研437分单亲妈妈哽咽安慰",
+        "onboard_time": 1677040297,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 317454,
+        "num": 317454,
+        "word": "91岁教师决定去世后捐献遗体给浙大",
+        "onboard_time": 1677033989,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 293667,
+        "num": 293667,
+        "word": "浮图缘集体入职今日宜加油",
+        "onboard_time": 1677036148,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292063,
+        "num": 292063,
+        "word": "Kakao或将收购JYP",
+        "onboard_time": 1677024933,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280769,
+        "num": 280769,
+        "word": "boss回应女子因未婚未育应聘被拒",
+        "onboard_time": 1677036450,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280557,
+        "num": 280557,
+        "word": "iPhone15Pro机型有望配8GB内存",
+        "onboard_time": 1677030507,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 279088,
+        "num": 279088,
+        "word": "27岁女子因未婚未育应聘被拒",
+        "onboard_time": 1676998282,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257852,
+        "num": 257852,
+        "word": "英雄联盟绝息圣堂皮肤",
+        "onboard_time": 1677037712,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246082,
+        "num": 246082,
+        "word": "女子分享三年异国恋是如何坚持的",
+        "onboard_time": 1677039214,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242674,
+        "num": 242674,
+        "word": "彭昱畅李庚希出演韩延新片",
+        "onboard_time": 1677035010,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242071,
+        "num": 242071,
+        "word": "14岁女孩暴发性心肌炎1年9次返院",
+        "onboard_time": 1677040358,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240028,
+        "num": 240028,
+        "word": "全村凑钱上大学的孩子返乡带大家致富",
+        "onboard_time": 1677033867,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239544,
+        "num": 239544,
+        "word": "蔡徐坤米兰街头听演奏",
+        "onboard_time": 1677028831,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238652,
+        "num": 238652,
+        "word": "身高与发育期的睡眠相关",
+        "onboard_time": 1677026371,
+        "rank": 43,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 238307,
+        "num": 238307,
+        "word": "香香丫丫待遇为何差距大",
+        "onboard_time": 1677040417,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230100,
+        "num": 230100,
+        "word": "电影前任4杀青阵容升级",
+        "onboard_time": 1677029550,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230075,
+        "num": 230075,
+        "word": "杨颖宋威龙相思令新造型路透",
+        "onboard_time": 1677038493,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223453,
+        "num": 223453,
+        "word": "脏手指 舞女泪",
+        "onboard_time": 1677021202,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222371,
+        "num": 222371,
+        "word": "箱庭小偶",
+        "onboard_time": 1677035491,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205149,
+        "num": 205149,
+        "word": "Hanni米兰时装周出发图",
+        "onboard_time": 1677040716,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#雷锋精神为什么是永恒的#"
+    }
+  }
+}

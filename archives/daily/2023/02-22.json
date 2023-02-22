@@ -1,7 +1,15 @@
 {
   "startTime": 1676996734513,
-  "endTime": 1677039843255,
+  "endTime": 1677040778904,
   "band_list": [
+    {
+      "raw_hot": 5326666,
+      "num": 5326666,
+      "word": "张雪峰发文致歉",
+      "onboard_time": 1677037230,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 4793161,
       "num": 4793161,
@@ -9,14 +17,6 @@
       "onboard_time": 1676991157,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 4547588,
-      "num": 4547588,
-      "word": "张雪峰发文致歉",
-      "onboard_time": 1677037230,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3036287,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1441541,
+      "num": 1441541,
+      "word": "乐乐",
+      "onboard_time": 1677038320,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1439293,
       "num": 1439293,
       "word": "ofo小黄车已彻底无法登录",
@@ -75,12 +83,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1345478,
-      "num": 1345478,
-      "word": "乐乐",
-      "onboard_time": 1677038320,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 1337349,
+      "num": 1337349,
+      "word": "周杰伦演唱会 衢州",
+      "onboard_time": 1677036212,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 1277368,
@@ -97,14 +105,6 @@
       "onboard_time": 1676998941,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1147702,
-      "num": 1147702,
-      "word": "周杰伦演唱会 衢州",
-      "onboard_time": 1677036212,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 1147545,
@@ -131,12 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1053069,
+      "raw_hot": 1076711,
       "num": 760300,
       "word": "JYP中国已与腾讯成立合资公司",
       "onboard_time": 1677038434,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1021593,
+      "num": 1021593,
+      "word": "马沙拉棣",
+      "onboard_time": 1677039094,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 993478,
@@ -235,6 +243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 717098,
+      "num": 717098,
+      "word": "当地回应公职人员相亲失败出言不逊",
+      "onboard_time": 1677038134,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 710636,
       "num": 710636,
       "word": "iPhone15Pro机型有望配8GB内存",
@@ -249,14 +265,6 @@
       "onboard_time": 1677035310,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 691269,
-      "num": 691269,
-      "word": "马沙拉棣",
-      "onboard_time": 1677039094,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 680477,
@@ -323,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 516243,
-      "num": 516243,
-      "word": "当地回应公职人员相亲失败出言不逊",
-      "onboard_time": 1677038134,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 505975,
       "num": 505975,
       "word": "全球第5例艾滋病治愈者出现",
@@ -345,6 +345,14 @@
       "onboard_time": 1677029610,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 486416,
+      "num": 486416,
+      "word": "成龙娜扎神话2同框合影",
+      "onboard_time": 1677038971,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 481945,
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440490,
+      "num": 440490,
+      "word": "31岁大熊猫永明携双胞胎回家",
+      "onboard_time": 1677039874,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435510,
       "num": 435510,
       "word": "广州漫展",
@@ -403,6 +419,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 415471,
+      "num": 415471,
+      "word": "国台办回应台湾夜市螺蛳粉生意火爆",
+      "onboard_time": 1677038853,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405028,
+      "num": 320059,
+      "word": "女儿考研437分单亲妈妈哽咽安慰",
+      "onboard_time": 1677040297,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 404617,
       "num": 404617,
       "word": "这时候方向盘打不过来会被笑话吗",
@@ -411,20 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386989,
+      "num": 386989,
+      "word": "家长开门没想到把2岁女童手指夹断",
+      "onboard_time": 1677037349,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 378798,
+      "num": 378798,
+      "word": "张天爱前任4杀青剧照",
+      "onboard_time": 1677040297,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 378714,
       "num": 378714,
       "word": "全村凑钱上大学的孩子返乡带大家致富",
       "onboard_time": 1677033867,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376270,
-      "num": 376270,
-      "word": "家长开门没想到把2岁女童手指夹断",
-      "onboard_time": 1677037349,
-      "rank": 22,
-      "category": "社会负面"
     },
     {
       "raw_hot": 374724,
@@ -441,6 +481,14 @@
       "onboard_time": 1677029909,
       "rank": 47,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 358646,
+      "num": 358646,
+      "word": "一人一句接丫丫回家",
+      "onboard_time": 1677040057,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 357486,
@@ -555,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309248,
-      "num": 309248,
-      "word": "成龙娜扎神话2同框合影",
-      "onboard_time": 1677038971,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 307636,
       "num": 307636,
       "word": "陈星旭直播把袜带戴头上",
@@ -585,14 +625,6 @@
       "onboard_time": 1677037712,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 298830,
-      "num": 298830,
-      "word": "国台办回应台湾夜市螺蛳粉生意火爆",
-      "onboard_time": 1677038853,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292840,
@@ -683,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246082,
+      "num": 246082,
+      "word": "女子分享三年异国恋是如何坚持的",
+      "onboard_time": 1677039214,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243759,
       "num": 243759,
       "word": "张婧仪直播",
@@ -699,12 +739,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 242071,
+      "num": 242071,
+      "word": "14岁女孩暴发性心肌炎1年9次返院",
+      "onboard_time": 1677040358,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238548,
       "num": 238548,
       "word": "二喜团建",
       "onboard_time": 1677023787,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238307,
+      "num": 238307,
+      "word": "香香丫丫待遇为何差距大",
+      "onboard_time": 1677040417,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236481,
@@ -744,6 +800,14 @@
       "word": "于文文说林佳杀青快乐",
       "onboard_time": 1677033508,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 230075,
+      "num": 230075,
+      "word": "杨颖宋威龙相思令新造型路透",
+      "onboard_time": 1677038493,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -787,14 +851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221699,
-      "num": 221699,
-      "word": "杨颖宋威龙相思令新造型路透",
-      "onboard_time": 1677038493,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221570,
       "num": 221570,
       "word": "阴阳师",
@@ -827,12 +883,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204977,
-      "num": 204977,
-      "word": "女子分享三年异国恋是如何坚持的",
-      "onboard_time": 1677039214,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 205149,
+      "num": 205149,
+      "word": "Hanni米兰时装周出发图",
+      "onboard_time": 1677040716,
+      "rank": 49,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 194363,
@@ -1076,7 +1132,7 @@
     },
     {
       "raw_hot": 112419,
-      "num": 2704990,
+      "num": 2839196,
       "word": "春耕农忙正当时",
       "onboard_time": 1677035610,
       "rank": 2,
