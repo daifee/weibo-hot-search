@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677093270939,
+  "endTime": 1677094415760,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -7331,20 +7331,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 40252,
+      "num": 40252,
+      "word": "小学生看到2岁男童独行一路护送",
+      "onboard_time": 1677091512,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 35992,
       "num": 1702928,
       "word": "up新时代中国",
       "onboard_time": 1676966729,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35880,
-      "num": 35880,
-      "word": "小学生看到2岁男童独行一路护送",
-      "onboard_time": 1677091512,
-      "rank": 24,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 35804,
