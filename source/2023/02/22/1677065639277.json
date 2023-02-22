@@ -1,0 +1,410 @@
+{
+  "runTime": 1677065639277,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2223514,
+        "num": 2223514,
+        "word": "2.4亿大奖得主3天后现身还捐了100万",
+        "onboard_time": 1677059371,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1349119,
+        "num": 1349119,
+        "word": "内蒙古一煤矿发生事故",
+        "onboard_time": 1677062914,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 143017,
+        "num": 1249815,
+        "word": "2022年中国考古新发现",
+        "onboard_time": 1677058832,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1247266,
+        "num": 1247266,
+        "word": "乐乐",
+        "onboard_time": 1677038320,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112572,
+        "num": 1112572,
+        "word": "SMTOWN理事集体辞职",
+        "onboard_time": 1677063393,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1109457,
+        "num": 1109457,
+        "word": "新疆地震",
+        "onboard_time": 1677064290,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673650,
+        "num": 673650,
+        "word": "月亮",
+        "onboard_time": 1677064893,
+        "rank": 6,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 656695,
+        "num": 656695,
+        "word": "内蒙古煤矿坍塌已致2死6伤53失联",
+        "onboard_time": 1677065070,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 594661,
+        "num": 594661,
+        "word": "峨眉山的猴子你们好日子到头了",
+        "onboard_time": 1677058531,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578717,
+        "num": 578717,
+        "word": "抑郁症早期的4大征兆",
+        "onboard_time": 1677063872,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2186075,
+        "num": 578430,
+        "word": "保姆多次猥亵男婴被判刑5年",
+        "onboard_time": 1677053312,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 574433,
+        "num": 574433,
+        "word": "种地吧成员负债26万",
+        "onboard_time": 1677056851,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475909,
+        "num": 475909,
+        "word": "夜燕白",
+        "onboard_time": 1677062312,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 475700,
+        "num": 475700,
+        "word": "乐乐与丫丫20年前抵美画面",
+        "onboard_time": 1677059852,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473067,
+        "num": 473067,
+        "word": "丁太升说乌梅子酱俗不可耐",
+        "onboard_time": 1677043652,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 467858,
+        "num": 467858,
+        "word": "四川一学校免费送新生iPhone14",
+        "onboard_time": 1677055951,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 433343,
+        "num": 433343,
+        "word": "李钟硕采访聊IU",
+        "onboard_time": 1677056374,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395845,
+        "num": 395845,
+        "word": "如何评价李荣浩的乌梅子酱",
+        "onboard_time": 1677063393,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379694,
+        "num": 379694,
+        "word": "市监局回应火锅店18元土豆仅5片",
+        "onboard_time": 1677061954,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377262,
+        "num": 377262,
+        "word": "23岁小伙起红疹被误诊6年查出癌症",
+        "onboard_time": 1677054513,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375138,
+        "num": 375138,
+        "word": "张雪峰发文致歉",
+        "onboard_time": 1677037230,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360110,
+        "num": 360110,
+        "word": "旅美大熊猫丫丫回国手续正在办理",
+        "onboard_time": 1677061233,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324089,
+        "num": 324089,
+        "word": "纪向宁考研成绩总分439分",
+        "onboard_time": 1677042215,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302948,
+        "num": 302948,
+        "word": "妈妈给女儿停掉抗抑郁药换成维生素",
+        "onboard_time": 1677035128,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293742,
+        "num": 293742,
+        "word": "贺峻霖喂马嘉祺吃糖油粑粑",
+        "onboard_time": 1677062670,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283898,
+        "num": 283898,
+        "word": "武汉草莓音乐节",
+        "onboard_time": 1677061593,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272916,
+        "num": 272916,
+        "word": "周杰伦演唱会 衢州",
+        "onboard_time": 1677036212,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256467,
+        "num": 256467,
+        "word": "土豆博士刘杰回应18元5片土豆",
+        "onboard_time": 1677063694,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216379,
+        "num": 216379,
+        "word": "皮克带新女友吃饭被赶出餐厅",
+        "onboard_time": 1677055711,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211944,
+        "num": 211944,
+        "word": "半熟恋人2盲选约会",
+        "onboard_time": 1677065251,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205599,
+        "num": 205599,
+        "word": "官方回应内蒙古一煤矿发生坍塌",
+        "onboard_time": 1677064290,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 205247,
+        "num": 205247,
+        "word": "KPL选手持证上岗",
+        "onboard_time": 1677058112,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193965,
+        "num": 193965,
+        "word": "文紫发现自己是替身",
+        "onboard_time": 1677063513,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188824,
+        "num": 188824,
+        "word": "三体剧组庆功宴",
+        "onboard_time": 1677059672,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186235,
+        "num": 186235,
+        "word": "在东北实现碳水自由有多爽",
+        "onboard_time": 1677058472,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175189,
+        "num": 175189,
+        "word": "言承旭说怕大家对他定型",
+        "onboard_time": 1677064771,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173268,
+        "num": 173268,
+        "word": "蕈样霉菌病",
+        "onboard_time": 1677065312,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172615,
+        "num": 172615,
+        "word": "员工阳康后连上16天班在宿舍离世",
+        "onboard_time": 1677045149,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 170638,
+        "num": 170638,
+        "word": "市监局调查18元5片土豆事件",
+        "onboard_time": 1677061896,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21914,
+        "num": 170604,
+        "word": "高德推出一体化出行平台",
+        "onboard_time": 1677063632,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170580,
+        "num": 170580,
+        "word": "赵丽颖虎狼之路拍摄路透",
+        "onboard_time": 1677048031,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169117,
+        "num": 169117,
+        "word": "种地吧",
+        "onboard_time": 1677062972,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165467,
+        "num": 165467,
+        "word": "张小斐首部电视剧",
+        "onboard_time": 1677054698,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162085,
+        "num": 162085,
+        "word": "陆虎说嘘嘘是自己的救赎",
+        "onboard_time": 1677060391,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155565,
+        "num": 155565,
+        "word": "外交部回应持签证赴美中国留学生遭拒绝入境",
+        "onboard_time": 1677057572,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 150526,
+        "num": 150526,
+        "word": "国家线",
+        "onboard_time": 1677029188,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141991,
+        "num": 141991,
+        "word": "张雪峰商业版图盘点",
+        "onboard_time": 1677055172,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 141856,
+        "num": 141856,
+        "word": "HYBE三国语言公告没有中文",
+        "onboard_time": 1677042992,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133682,
+        "num": 133682,
+        "word": "如何看待中小学生心理危机",
+        "onboard_time": 1677063154,
+        "rank": 48,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 125958,
+        "num": 125958,
+        "word": "贵阳回应一领导不雅聊天记录曝光",
+        "onboard_time": 1677041017,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国依然是外商投资兴业的热土#"
+    }
+  }
+}
