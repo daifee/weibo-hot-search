@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677079242261,
+  "endTime": 1677080169125,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -1347,6 +1347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 821927,
+      "num": 821927,
+      "word": "内蒙古煤矿坍塌",
+      "onboard_time": 1677077252,
+      "rank": 7,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 816838,
       "num": 816838,
       "word": "夏花 BE",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1676969370,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 787494,
-      "num": 787494,
-      "word": "内蒙古煤矿坍塌",
-      "onboard_time": 1677077252,
-      "rank": 7,
-      "category": "社会负面"
     },
     {
       "raw_hot": 786810,
@@ -1849,6 +1849,14 @@
       "onboard_time": 1676898930,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 675312,
+      "num": 675312,
+      "word": "为什么抑郁症的人越来越多",
+      "onboard_time": 1677076893,
+      "rank": 12,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 674698,
@@ -2427,14 +2435,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 541959,
-      "num": 541959,
-      "word": "为什么抑郁症的人越来越多",
-      "onboard_time": 1677076893,
-      "rank": 12,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 541017,
       "num": 541017,
       "word": "饶雪漫离歌阵容官宣",
@@ -2611,6 +2611,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 501253,
+      "num": 501253,
+      "word": "明星米兰时装周状态",
+      "onboard_time": 1677077434,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 501169,
       "num": 501169,
       "word": "HYBE称收购SMTOWN可促进KPOP发展",
@@ -2729,6 +2737,14 @@
       "onboard_time": 1676974710,
       "rank": 34,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 485314,
+      "num": 485314,
+      "word": "半熟恋人 抓马",
+      "onboard_time": 1677077314,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 483033,
@@ -3003,14 +3019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 438197,
-      "num": 438197,
-      "word": "明星米兰时装周状态",
-      "onboard_time": 1677077434,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 437335,
       "num": 437335,
       "word": "考研查到满意分数时的真实反应",
@@ -3241,14 +3249,6 @@
       "onboard_time": 1677038853,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 414279,
-      "num": 414279,
-      "word": "半熟恋人 抓马",
-      "onboard_time": 1677077314,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 414269,
@@ -4049,6 +4049,14 @@
       "onboard_time": 1676997803,
       "rank": 48,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 332152,
+      "num": 332152,
+      "word": "宋亚轩刘耀文搂肩一起下班",
+      "onboard_time": 1677079170,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 331947,
@@ -5603,6 +5611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206508,
+      "num": 206508,
+      "word": "曾凡博落选12人大名单",
+      "onboard_time": 1677079052,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206506,
       "num": 206506,
       "word": "SMTOWN将今日召开企业说明会",
@@ -6587,12 +6603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154861,
-      "num": 154861,
-      "word": "宋亚轩刘耀文搂肩一起下班",
-      "onboard_time": 1677079170,
-      "rank": 45,
-      "category": "作品衍生"
+      "raw_hot": 155612,
+      "num": 155612,
+      "word": "中国乒乓出品人回应票房不如预期",
+      "onboard_time": 1677079949,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 154237,
@@ -6697,6 +6713,14 @@
       "onboard_time": 1676964929,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142913,
+      "num": 142913,
+      "word": "张真源侧拍",
+      "onboard_time": 1677079830,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 142286,
@@ -6899,6 +6923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126877,
+      "num": 126877,
+      "word": "文豪野犬",
+      "onboard_time": 1677080130,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 125810,
       "num": 125810,
       "word": "社会我玲姐 衣服越粉打人越狠",
@@ -6985,14 +7017,6 @@
       "onboard_time": 1677022286,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116352,
-      "num": 116352,
-      "word": "曾凡博落选12人大名单",
-      "onboard_time": 1677079052,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 116094,
@@ -7341,6 +7365,9 @@
     },
     {
       "word": "#切实加强基础研究#"
+    },
+    {
+      "word": "#推进中国式现代化需要处理好若干重大关系#"
     }
   ]
 }
