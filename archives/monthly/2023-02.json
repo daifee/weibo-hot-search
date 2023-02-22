@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677080169125,
+  "endTime": 1677083214058,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -11739,6 +11739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 714342,
+      "num": 714342,
+      "word": "文豪野犬",
+      "onboard_time": 1677080130,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 714322,
       "num": 714322,
       "word": "丈夫提前送给妻子自制520草莓",
@@ -14073,6 +14081,14 @@
       "onboard_time": 1676848761,
       "rank": 5,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 624458,
+      "num": 624458,
+      "word": "中国乒乓出品人回应票房不如预期",
+      "onboard_time": 1677079949,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 624226,
@@ -25769,6 +25785,14 @@
       "onboard_time": 1676611293,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351189,
+      "num": 351189,
+      "word": "星落凝成刀",
+      "onboard_time": 1677081747,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 351084,
@@ -38739,6 +38763,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 200385,
+      "num": 155202,
+      "word": "蒿俊闵",
+      "onboard_time": 1677081926,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200347,
       "num": 187182,
       "word": "姨叔感",
@@ -45139,14 +45171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155612,
-      "num": 155612,
-      "word": "中国乒乓出品人回应票房不如预期",
-      "onboard_time": 1677079949,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 155534,
       "num": 155534,
       "word": "好想和他一起骑马",
@@ -45921,6 +45945,14 @@
       "onboard_time": 1675487489,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146748,
+      "num": 146748,
+      "word": "爷爷颤颤巍巍去见孙子最后一面",
+      "onboard_time": 1677082644,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146710,
@@ -47571,14 +47603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126877,
-      "num": 126877,
-      "word": "文豪野犬",
-      "onboard_time": 1677080130,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 126827,
       "num": 126827,
       "word": "英超指控曼城违反财务规则",
@@ -48771,6 +48795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90250,
+      "num": 90250,
+      "word": "夜昙青葵被区别对待",
+      "onboard_time": 1677080189,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 90204,
       "num": 90204,
       "word": "苏翊鸣说梦想就要百分百努力追求",
@@ -48857,6 +48889,14 @@
       "onboard_time": 1675546513,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 86506,
+      "num": 86506,
+      "word": "找人类帮忙的小猫",
+      "onboard_time": 1677083124,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 86068,
