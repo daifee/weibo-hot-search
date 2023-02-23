@@ -1,0 +1,410 @@
+{
+  "runTime": 1677151004873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1355230,
+        "num": 1355230,
+        "word": "王濛方声明",
+        "onboard_time": 1677147270,
+        "rank": 0,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1087599,
+        "num": 1087599,
+        "word": "海底捞禁止自带菜",
+        "onboard_time": 1677137970,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191731,
+        "num": 1058596,
+        "word": "大熊猫永明与女儿回家画面",
+        "onboard_time": 1677137610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1057046,
+        "num": 1057046,
+        "word": "仙剑奇侠传3主演无滤镜定妆照",
+        "onboard_time": 1677148771,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 986039,
+        "num": 986039,
+        "word": "我们的日子道歉",
+        "onboard_time": 1677148471,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 824130,
+        "num": 824130,
+        "word": "企业月薪4万招人去非洲养鸡",
+        "onboard_time": 1677144155,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 703518,
+        "num": 703518,
+        "word": "甘肃地震",
+        "onboard_time": 1677145950,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566421,
+        "num": 566421,
+        "word": "蔡徐坤现象演唱会官宣",
+        "onboard_time": 1677149432,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 430038,
+        "num": 430038,
+        "word": "大熊猫丫丫回国全面准备工作已进行",
+        "onboard_time": 1677149373,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429869,
+        "num": 429869,
+        "word": "地下城与勇士端游改名",
+        "onboard_time": 1677144451,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 3055386,
+        "num": 422747,
+        "word": "李现 麻烦以后不要再乱P图",
+        "onboard_time": 1677150633,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541917,
+        "num": 414267,
+        "word": "陈乔恩说如果能重来不会公开恋情",
+        "onboard_time": 1677148891,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381485,
+        "num": 381485,
+        "word": "1斤土豆在火锅店卖多少钱",
+        "onboard_time": 1677149012,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358587,
+        "num": 358587,
+        "word": "王濛违约被公司起诉",
+        "onboard_time": 1677138810,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 356518,
+        "num": 356518,
+        "word": "周杰伦2023海口演唱会",
+        "onboard_time": 1677149912,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 345277,
+        "num": 345277,
+        "word": "女电工写20万字笔记练成行业天花板",
+        "onboard_time": 1677146432,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315837,
+        "num": 315837,
+        "word": "电影灌篮高手官宣定档",
+        "onboard_time": 1677145950,
+        "rank": 16,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 308510,
+        "num": 308510,
+        "word": "辣目夜昙头纱吻",
+        "onboard_time": 1677145168,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393784,
+        "num": 302276,
+        "word": "恒大1.1亿年薪归化球员在国足0出场",
+        "onboard_time": 1677141991,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293313,
+        "num": 293313,
+        "word": "女子举报丈夫与公职人员同居生女",
+        "onboard_time": 1677133951,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 284686,
+        "num": 284686,
+        "word": "水瓶座真的很适合搞事业",
+        "onboard_time": 1677134907,
+        "rank": 20,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 279339,
+        "num": 279339,
+        "word": "aespa世界观大结局",
+        "onboard_time": 1677148233,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256671,
+        "num": 256671,
+        "word": "张若昀大侦探再现白敬亭名场面",
+        "onboard_time": 1677145050,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252232,
+        "num": 252232,
+        "word": "流浪地球2徐工集团合作起源",
+        "onboard_time": 1677148891,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243970,
+        "num": 243970,
+        "word": "EXO最新完整体合影",
+        "onboard_time": 1677138149,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243862,
+        "num": 243862,
+        "word": "老默不送鱼改反诈了",
+        "onboard_time": 1677138631,
+        "rank": 25,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 237751,
+        "num": 237751,
+        "word": "李秀满将SMTOWN21亿韩元转至中国公司",
+        "onboard_time": 1677143310,
+        "rank": 26,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 228597,
+        "num": 228597,
+        "word": "听说你喜欢我",
+        "onboard_time": 1677149072,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226690,
+        "num": 226690,
+        "word": "近5成韩国新婚夫妻不生子",
+        "onboard_time": 1677149974,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210172,
+        "num": 210172,
+        "word": "狂飙的小灵通是怎么消失的",
+        "onboard_time": 1677140731,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219261,
+        "num": 208952,
+        "word": "沈月李嘉琦合照",
+        "onboard_time": 1677150751,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205167,
+        "num": 205167,
+        "word": "老人故意推倒摩托后去世继承人被起诉",
+        "onboard_time": 1677150512,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199506,
+        "num": 199506,
+        "word": "特朗普访毒列车事发地带1.4万瓶特朗普牌矿泉水",
+        "onboard_time": 1677135028,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 194951,
+        "num": 194951,
+        "word": "男子左眼皮异常抖动有虫游走",
+        "onboard_time": 1677139408,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194794,
+        "num": 194794,
+        "word": "苗苗说曾经觉得自己不配被人爱",
+        "onboard_time": 1677138149,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188343,
+        "num": 188343,
+        "word": "猫咪有时间观念吗",
+        "onboard_time": 1677150210,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187170,
+        "num": 187170,
+        "word": "李玟说这些年都靠右腿支撑全身",
+        "onboard_time": 1677135808,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175669,
+        "num": 175669,
+        "word": "巴奴火锅致歉",
+        "onboard_time": 1677138990,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169009,
+        "num": 169009,
+        "word": "灌篮高手",
+        "onboard_time": 1677145950,
+        "rank": 38,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 163488,
+        "num": 163488,
+        "word": "肖战米兰看秀造型大片",
+        "onboard_time": 1677126757,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159706,
+        "num": 159706,
+        "word": "教体局回应小学副班长受贿数万元",
+        "onboard_time": 1677135028,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156378,
+        "num": 156378,
+        "word": "田曦薇初中时期的表演视频",
+        "onboard_time": 1677137728,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156301,
+        "num": 156301,
+        "word": "9元5片土豆片合理吗",
+        "onboard_time": 1677141698,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153751,
+        "num": 153751,
+        "word": "外卖员穿工装禁入成都高端商场",
+        "onboard_time": 1677136110,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149402,
+        "num": 149402,
+        "word": "高拉特退籍费250元",
+        "onboard_time": 1677143912,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149073,
+        "num": 149073,
+        "word": "赵今麦芬兰玩雪vlog",
+        "onboard_time": 1677148771,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138400,
+        "num": 138400,
+        "word": "骗子为骗钱竟造一整个派出所",
+        "onboard_time": 1677129153,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132845,
+        "num": 132845,
+        "word": "张颂文是如何厚积薄发的",
+        "onboard_time": 1677144692,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117628,
+        "num": 117628,
+        "word": "虞书欣黑皮衣绿背心上班路透",
+        "onboard_time": 1677142052,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114663,
+        "num": 114663,
+        "word": "陈星旭吐槽李兰迪给俩人起的cp名",
+        "onboard_time": 1677141512,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#落实重大发展战略开创事业新局#"
+    }
+  }
+}

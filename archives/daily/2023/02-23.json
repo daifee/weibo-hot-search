@@ -1,7 +1,15 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677148658217,
+  "endTime": 1677151004873,
   "band_list": [
+    {
+      "raw_hot": 3055386,
+      "num": 422747,
+      "word": "李现 麻烦以后不要再乱P图",
+      "onboard_time": 1677150633,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2699441,
       "num": 2699441,
@@ -177,6 +185,22 @@
       "onboard_time": 1677112289,
       "rank": 6,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1057046,
+      "num": 1057046,
+      "word": "仙剑奇侠传3主演无滤镜定妆照",
+      "onboard_time": 1677148771,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 986039,
+      "num": 986039,
+      "word": "我们的日子道歉",
+      "onboard_time": 1677148471,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 981884,
@@ -523,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 566421,
+      "num": 566421,
+      "word": "蔡徐坤现象演唱会官宣",
+      "onboard_time": 1677149432,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 547663,
       "num": 547663,
       "word": "爱奇艺首次实现全年运营盈利",
@@ -537,6 +569,14 @@
       "onboard_time": 1677113611,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 541917,
+      "num": 414267,
+      "word": "陈乔恩说如果能重来不会公开恋情",
+      "onboard_time": 1677148891,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 541674,
@@ -659,6 +699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 430038,
+      "num": 430038,
+      "word": "大熊猫丫丫回国全面准备工作已进行",
+      "onboard_time": 1677149373,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427116,
       "num": 427116,
       "word": "李乃文发文反对家长自我意识过剩",
@@ -747,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 381485,
+      "num": 381485,
+      "word": "1斤土豆在火锅店卖多少钱",
+      "onboard_time": 1677149012,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380523,
       "num": 380523,
       "word": "陈楚生工作室除了音乐就是喝茶",
@@ -811,6 +867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 356518,
+      "num": 356518,
+      "word": "周杰伦2023海口演唱会",
+      "onboard_time": 1677149912,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 355967,
       "num": 355967,
       "word": "春楠刘诗诗合照",
@@ -859,12 +923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339060,
-      "num": 339060,
-      "word": "我们的日子道歉",
-      "onboard_time": 1677148471,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 345277,
+      "num": 345277,
+      "word": "女电工写20万字笔记练成行业天花板",
+      "onboard_time": 1677146432,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338920,
@@ -985,14 +1049,6 @@
       "onboard_time": 1677143912,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 290450,
-      "num": 290450,
-      "word": "女电工写20万字笔记练成行业天花板",
-      "onboard_time": 1677146432,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289745,
@@ -1171,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252232,
+      "num": 252232,
+      "word": "流浪地球2徐工集团合作起源",
+      "onboard_time": 1677148891,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248242,
       "num": 248242,
       "word": "旅美大熊猫丫丫回国手续正在办理",
@@ -1251,11 +1315,27 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 228597,
+      "num": 228597,
+      "word": "听说你喜欢我",
+      "onboard_time": 1677149072,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228162,
       "num": 228162,
       "word": "大儿子下床被突然出现的爸爸吓到",
       "onboard_time": 1677107180,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226690,
+      "num": 226690,
+      "word": "近5成韩国新婚夫妻不生子",
+      "onboard_time": 1677149974,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1265,6 +1345,14 @@
       "onboard_time": 1677091512,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 219261,
+      "num": 208952,
+      "word": "沈月李嘉琦合照",
+      "onboard_time": 1677150751,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 217300,
@@ -1368,6 +1456,14 @@
       "word": "乐乐与丫丫20年前抵美画面",
       "onboard_time": 1677059852,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205167,
+      "num": 205167,
+      "word": "老人故意推倒摩托后去世继承人被起诉",
+      "onboard_time": 1677150512,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1481,6 +1577,14 @@
       "onboard_time": 1677073534,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188343,
+      "num": 188343,
+      "word": "猫咪有时间观念吗",
+      "onboard_time": 1677150210,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 187266,
@@ -1737,6 +1841,14 @@
       "onboard_time": 1677123869,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149073,
+      "num": 149073,
+      "word": "赵今麦芬兰玩雪vlog",
+      "onboard_time": 1677148771,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 145076,
