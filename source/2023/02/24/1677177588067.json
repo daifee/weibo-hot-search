@@ -1,0 +1,410 @@
+{
+  "runTime": 1677177588067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 386091,
+        "num": 386091,
+        "word": "央视网谈厌蠢症",
+        "onboard_time": 1677172577,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217400,
+        "num": 217400,
+        "word": "12岁孩子进店撸猫被拒家长怒怼店员",
+        "onboard_time": 1677170604,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24965,
+        "num": 183644,
+        "word": "端牢中国饭碗的底气",
+        "onboard_time": 1677162511,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446956,
+        "num": 183620,
+        "word": "Prada",
+        "onboard_time": 1677159271,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 183564,
+        "num": 183564,
+        "word": "网传有银行每天交易限额5000元",
+        "onboard_time": 1677169885,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 173038,
+        "num": 173038,
+        "word": "女生考研查分后激动到晕倒送医",
+        "onboard_time": 1677172519,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 140688,
+        "num": 140688,
+        "word": "会和丑却对你好的人恋爱吗",
+        "onboard_time": 1677169407,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139055,
+        "num": 139055,
+        "word": "丫丫或于4月7日合同到期时回国",
+        "onboard_time": 1677168505,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79158,
+        "num": 79158,
+        "word": "四省联考",
+        "onboard_time": 1677166708,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 74722,
+        "num": 74722,
+        "word": "全国6亿栋房屋并不全是商品房",
+        "onboard_time": 1677167728,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 125641,
+        "num": 74525,
+        "word": "刘雯闭场",
+        "onboard_time": 1677162093,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 72004,
+        "num": 72004,
+        "word": "央视曝光个人电影投资骗局",
+        "onboard_time": 1677164372,
+        "rank": 11,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 59316,
+        "num": 59316,
+        "word": "巴奴火锅创始人发声",
+        "onboard_time": 1677167012,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57676,
+        "num": 57676,
+        "word": "陈乔恩说如果能重来不会公开恋情",
+        "onboard_time": 1677148891,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57417,
+        "num": 57417,
+        "word": "新疆小伙1天拿到驾驶证",
+        "onboard_time": 1677154410,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54213,
+        "num": 54213,
+        "word": "甘肃地震",
+        "onboard_time": 1677145950,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51220,
+        "num": 51220,
+        "word": "仙剑奇侠传3主演无滤镜定妆照",
+        "onboard_time": 1677148771,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50069,
+        "num": 50069,
+        "word": "大爷银行取钱排队一小时频遭插队",
+        "onboard_time": 1677165631,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48272,
+        "num": 48272,
+        "word": "Somi生图",
+        "onboard_time": 1677164913,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 47846,
+        "num": 47846,
+        "word": "女子避雨时随手拍下人生的轮回",
+        "onboard_time": 1677156209,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65237,
+        "num": 47536,
+        "word": "男子多年求子不得查出竟是女儿身",
+        "onboard_time": 1677153630,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46020,
+        "num": 46020,
+        "word": "委员提案独生子女父母养老政府解决",
+        "onboard_time": 1677157830,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 45056,
+        "num": 45056,
+        "word": "MOSS量子体积为什么是8192",
+        "onboard_time": 1677174676,
+        "rank": 22,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 42902,
+        "num": 42902,
+        "word": "XYG",
+        "onboard_time": 1677156931,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39672,
+        "num": 39672,
+        "word": "甲流",
+        "onboard_time": 1677164133,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37869,
+        "num": 37869,
+        "word": "猫咪有时间观念吗",
+        "onboard_time": 1677150210,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37027,
+        "num": 37027,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1677173776,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36712,
+        "num": 36712,
+        "word": "近5成韩国新婚夫妻不生子",
+        "onboard_time": 1677149974,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34982,
+        "num": 34982,
+        "word": "我们的日子道歉",
+        "onboard_time": 1677148471,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34796,
+        "num": 34796,
+        "word": "马龙3比0樊振东",
+        "onboard_time": 1677157591,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39332,
+        "num": 34366,
+        "word": "综艺效果一下子就有了",
+        "onboard_time": 1677172099,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33759,
+        "num": 33759,
+        "word": "李玟 希望你们可以等我回来",
+        "onboard_time": 1677157182,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32891,
+        "num": 32891,
+        "word": "沈月李嘉琦合照",
+        "onboard_time": 1677150751,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32174,
+        "num": 32174,
+        "word": "海底捞禁止自带菜",
+        "onboard_time": 1677137970,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30475,
+        "num": 30475,
+        "word": "蔡徐坤秀场氛围感",
+        "onboard_time": 1677172637,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 30332,
+        "num": 30332,
+        "word": "阿娇出发米兰时装周",
+        "onboard_time": 1677165931,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 28642,
+        "num": 28642,
+        "word": "深圳一外卖小哥疑送餐时猝死",
+        "onboard_time": 1677152070,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 28573,
+        "num": 28573,
+        "word": "王铮亮预录了没上春晚的反应",
+        "onboard_time": 1677170423,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28324,
+        "num": 28324,
+        "word": "大熊猫丫丫回国全面准备工作已进行",
+        "onboard_time": 1677149373,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26456,
+        "num": 26456,
+        "word": "企业月薪4万招人去非洲养鸡",
+        "onboard_time": 1677144155,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 25183,
+        "num": 25183,
+        "word": "中国男篮四后卫1助攻",
+        "onboard_time": 1677161254,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25033,
+        "num": 25033,
+        "word": "宋雨琦晒与许光汉合照",
+        "onboard_time": 1677163114,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24625,
+        "num": 24625,
+        "word": "张嘉倪夜游米兰随拍",
+        "onboard_time": 1677154169,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24430,
+        "num": 24430,
+        "word": "苏醒陈楚生空手套生活费",
+        "onboard_time": 1677170183,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24113,
+        "num": 24113,
+        "word": "1斤土豆在火锅店卖多少钱",
+        "onboard_time": 1677149012,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22223,
+        "num": 22223,
+        "word": "柳智敏演技",
+        "onboard_time": 1677160293,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22213,
+        "num": 22213,
+        "word": "王濛方声明",
+        "onboard_time": 1677147270,
+        "rank": 46,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 21868,
+        "num": 21868,
+        "word": "六公主赞夏花",
+        "onboard_time": 1677165693,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18547,
+        "num": 21844,
+        "word": "张元英跳HowYouLikeThat",
+        "onboard_time": 1677152851,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18097,
+        "num": 21770,
+        "word": "混双",
+        "onboard_time": 1677161855,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#雷锋精神永不过时#"
+    }
+  }
+}
