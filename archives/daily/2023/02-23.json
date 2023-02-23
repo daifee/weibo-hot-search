@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677157072012,
+  "endTime": 1677159182856,
   "band_list": [
     {
       "raw_hot": 4249897,
@@ -49,6 +49,14 @@
       "onboard_time": 1677114151,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1967686,
+      "num": 1967686,
+      "word": "马龙3比0樊振东",
+      "onboard_time": 1677157591,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1859017,
@@ -121,6 +129,14 @@
       "onboard_time": 1677125853,
       "rank": 27,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 1441138,
+      "num": 1441138,
+      "word": "新疆小伙1天拿到驾驶证",
+      "onboard_time": 1677154410,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1439616,
@@ -216,14 +232,6 @@
       "word": "男子多年求子不得查出竟是女儿身",
       "onboard_time": 1677153630,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1007112,
-      "num": 1007112,
-      "word": "新疆小伙1天拿到驾驶证",
-      "onboard_time": 1677154410,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -547,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 601641,
+      "num": 601641,
+      "word": "女子避雨时随手拍下人生的轮回",
+      "onboard_time": 1677156209,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594061,
       "num": 594061,
       "word": "乐乐",
@@ -811,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 411929,
+      "num": 363515,
+      "word": "张嘉倪夜游米兰随拍",
+      "onboard_time": 1677154169,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408743,
       "num": 408743,
       "word": "郑州有银行房贷利率上调至4.3%",
@@ -963,6 +987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 350059,
+      "num": 350059,
+      "word": "中国男篮vs哈萨克斯坦男篮",
+      "onboard_time": 1677153091,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346961,
       "num": 346961,
       "word": "明星米兰时装周状态",
@@ -1017,14 +1049,6 @@
       "onboard_time": 1677125369,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333846,
-      "num": 333846,
-      "word": "中国男篮vs哈萨克斯坦男篮",
-      "onboard_time": 1677153091,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 326342,
@@ -1083,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307596,
+      "num": 307596,
+      "word": "委员提案独生子女父母养老政府解决",
+      "onboard_time": 1677157830,
+      "rank": 15,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 307410,
       "num": 307410,
       "word": "妻子的浪漫旅行6收官",
@@ -1131,12 +1163,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291011,
+      "num": 187441,
+      "word": "吉利银河正式发布",
+      "onboard_time": 1677156511,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 289745,
       "num": 289745,
       "word": "半熟恋人 抓马",
       "onboard_time": 1677077314,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286356,
+      "num": 286356,
+      "word": "XYG",
+      "onboard_time": 1677156931,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 283179,
@@ -1299,14 +1347,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 263401,
-      "num": 263401,
-      "word": "张嘉倪夜游米兰随拍",
-      "onboard_time": 1677154169,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263173,
       "num": 156814,
       "word": "宋雨琦程潇看秀造型",
@@ -1395,14 +1435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 239638,
-      "num": 239638,
-      "word": "女子避雨时随手拍下人生的轮回",
-      "onboard_time": 1677156209,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239040,
       "num": 239040,
       "word": "内蒙古坍塌煤矿仍有51人失联",
@@ -1459,20 +1491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225474,
+      "num": 225474,
+      "word": "中国男篮",
+      "onboard_time": 1677157529,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223363,
       "num": 223363,
       "word": "小学生看到2岁男童独行一路护送",
       "onboard_time": 1677091512,
       "rank": 24,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 222957,
-      "num": 174239,
-      "word": "吉利银河正式发布",
-      "onboard_time": 1677156511,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 217300,
@@ -1739,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182104,
+      "num": 182104,
+      "word": "李玟 希望你们可以等我回来",
+      "onboard_time": 1677157182,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181952,
       "num": 181952,
       "word": "找人类帮忙的小猫",
@@ -1971,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147214,
+      "num": 147214,
+      "word": "吉利银河",
+      "onboard_time": 1677157950,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 145076,
       "num": 145076,
       "word": "刘诗诗米兰时装周出发路透",
@@ -2091,6 +2139,14 @@
       "category": "美食,情感"
     },
     {
+      "raw_hot": 127968,
+      "num": 127968,
+      "word": "重紫在卓昊的心里无人可替",
+      "onboard_time": 1677157710,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127754,
       "num": 127754,
       "word": "中星26号卫星成功发射",
@@ -2131,14 +2187,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 121741,
-      "num": 121741,
-      "word": "XYG",
-      "onboard_time": 1677156931,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 120738,
       "num": 120738,
       "word": "男篮",
@@ -2169,6 +2217,14 @@
       "onboard_time": 1677056851,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113531,
+      "num": 113531,
+      "word": "峨眉山景区辟谣猴子被拘留",
+      "onboard_time": 1677158670,
+      "rank": 45,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 112732,

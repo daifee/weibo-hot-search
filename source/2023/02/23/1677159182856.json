@@ -1,0 +1,410 @@
+{
+  "runTime": 1677159182856,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1967686,
+        "num": 1967686,
+        "word": "马龙3比0樊振东",
+        "onboard_time": 1677157591,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1441138,
+        "num": 1441138,
+        "word": "新疆小伙1天拿到驾驶证",
+        "onboard_time": 1677154410,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123263,
+        "num": 928718,
+        "word": "大熊猫永明与女儿回家画面",
+        "onboard_time": 1677137610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850433,
+        "num": 850433,
+        "word": "孙颖莎",
+        "onboard_time": 1677154951,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 652847,
+        "num": 652847,
+        "word": "仙剑奇侠传3主演无滤镜定妆照",
+        "onboard_time": 1677148771,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 601641,
+        "num": 601641,
+        "word": "女子避雨时随手拍下人生的轮回",
+        "onboard_time": 1677156209,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443878,
+        "num": 443878,
+        "word": "企业月薪4万招人去非洲养鸡",
+        "onboard_time": 1677144155,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 438924,
+        "num": 438924,
+        "word": "海底捞禁止自带菜",
+        "onboard_time": 1677137970,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423574,
+        "num": 423574,
+        "word": "老人故意推倒摩托后去世继承人被起诉",
+        "onboard_time": 1677150512,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370529,
+        "num": 370529,
+        "word": "我们的日子道歉",
+        "onboard_time": 1677148471,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438361,
+        "num": 366187,
+        "word": "陈乔恩说如果能重来不会公开恋情",
+        "onboard_time": 1677148891,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411929,
+        "num": 363515,
+        "word": "张嘉倪夜游米兰随拍",
+        "onboard_time": 1677154169,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389702,
+        "num": 358767,
+        "word": "深圳一外卖小哥疑送餐时猝死",
+        "onboard_time": 1677152070,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 379450,
+        "num": 351047,
+        "word": "沈月李嘉琦合照",
+        "onboard_time": 1677150751,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350059,
+        "num": 350059,
+        "word": "中国男篮vs哈萨克斯坦男篮",
+        "onboard_time": 1677153091,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307596,
+        "num": 307596,
+        "word": "委员提案独生子女父母养老政府解决",
+        "onboard_time": 1677157830,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 306505,
+        "num": 306505,
+        "word": "王濛方声明",
+        "onboard_time": 1677147270,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 301202,
+        "num": 301202,
+        "word": "蔡徐坤现象演唱会官宣",
+        "onboard_time": 1677149432,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297167,
+        "num": 297167,
+        "word": "大熊猫丫丫回国全面准备工作已进行",
+        "onboard_time": 1677149373,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286356,
+        "num": 286356,
+        "word": "XYG",
+        "onboard_time": 1677156931,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 948190,
+        "num": 285692,
+        "word": "男子多年求子不得查出竟是女儿身",
+        "onboard_time": 1677153630,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284299,
+        "num": 284299,
+        "word": "张元英跳HowYouLikeThat",
+        "onboard_time": 1677152851,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269210,
+        "num": 269210,
+        "word": "近5成韩国新婚夫妻不生子",
+        "onboard_time": 1677149974,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225474,
+        "num": 225474,
+        "word": "中国男篮",
+        "onboard_time": 1677157529,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217858,
+        "num": 217858,
+        "word": "宁至谦阮流筝破冰吻",
+        "onboard_time": 1677155611,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216176,
+        "num": 216176,
+        "word": "猫咪有时间观念吗",
+        "onboard_time": 1677150210,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215392,
+        "num": 215392,
+        "word": "甘肃地震",
+        "onboard_time": 1677145950,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211709,
+        "num": 211709,
+        "word": "宝妈请闺蜜当育儿嫂做5休2月薪5500",
+        "onboard_time": 1677151170,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209482,
+        "num": 209482,
+        "word": "1斤土豆在火锅店卖多少钱",
+        "onboard_time": 1677149012,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191932,
+        "num": 191932,
+        "word": "15岁男孩10天打赏女主播6万",
+        "onboard_time": 1677152187,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2005367,
+        "num": 188842,
+        "word": "李现 麻烦以后不要再乱P图",
+        "onboard_time": 1677150633,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291011,
+        "num": 187441,
+        "word": "吉利银河正式发布",
+        "onboard_time": 1677156511,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 182104,
+        "num": 182104,
+        "word": "李玟 希望你们可以等我回来",
+        "onboard_time": 1677157182,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172324,
+        "num": 172324,
+        "word": "电影灌篮高手官宣定档",
+        "onboard_time": 1677145950,
+        "rank": 33,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 165053,
+        "num": 165053,
+        "word": "孙颖莎直通德班世乒赛",
+        "onboard_time": 1677156450,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158777,
+        "num": 158777,
+        "word": "周杰伦2023海口演唱会",
+        "onboard_time": 1677149912,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151792,
+        "num": 151792,
+        "word": "流浪地球2徐工集团合作起源",
+        "onboard_time": 1677148891,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147214,
+        "num": 147214,
+        "word": "吉利银河",
+        "onboard_time": 1677157950,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 145025,
+        "num": 145025,
+        "word": "EXO最新完整体合影",
+        "onboard_time": 1677138149,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144211,
+        "num": 144211,
+        "word": "郭艾伦被违体犯规",
+        "onboard_time": 1677155248,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139196,
+        "num": 139196,
+        "word": "张若昀大侦探再现白敬亭名场面",
+        "onboard_time": 1677145050,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127968,
+        "num": 127968,
+        "word": "重紫在卓昊的心里无人可替",
+        "onboard_time": 1677157710,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123454,
+        "num": 123454,
+        "word": "水瓶座真的很适合搞事业",
+        "onboard_time": 1677134907,
+        "rank": 42,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 117312,
+        "num": 117312,
+        "word": "李秀满将SMTOWN21亿韩元转至中国公司",
+        "onboard_time": 1677143310,
+        "rank": 43,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 115169,
+        "num": 115169,
+        "word": "女子举报丈夫与公职人员同居生女",
+        "onboard_time": 1677133951,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 113531,
+        "num": 113531,
+        "word": "峨眉山景区辟谣猴子被拘留",
+        "onboard_time": 1677158670,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 113132,
+        "num": 113132,
+        "word": "地下城与勇士端游改名",
+        "onboard_time": 1677144451,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111907,
+        "num": 111907,
+        "word": "听说你喜欢我",
+        "onboard_time": 1677149072,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102181,
+        "num": 102181,
+        "word": "老默不送鱼改反诈了",
+        "onboard_time": 1677138631,
+        "rank": 48,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 95970,
+        "num": 95970,
+        "word": "姚薇程梁备孕",
+        "onboard_time": 1677153149,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#落实重大发展战略开创事业新局#"
+    }
+  }
+}
