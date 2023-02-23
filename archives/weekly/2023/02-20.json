@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677121053988,
+  "endTime": 1677122479493,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1519280,
+      "num": 1349477,
+      "word": "高学历低龄老人线上求职碰壁",
+      "onboard_time": 1677118349,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1468907,
       "num": 1407486,
       "word": "60岁中通快递分拣工凌晨在岗位猝死",
@@ -608,14 +616,6 @@
       "word": "对疫情一问三不知主任已有新职务",
       "onboard_time": 1676884110,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1349477,
-      "num": 1349477,
-      "word": "高学历低龄老人线上求职碰壁",
-      "onboard_time": 1677118349,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2067,6 +2067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 660246,
+      "num": 660246,
+      "word": "王一博扮奥特曼跳breaking",
+      "onboard_time": 1677120326,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 659941,
       "num": 659941,
       "word": "10省份放宽报考公务员35岁年龄限制",
@@ -2371,6 +2379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 593342,
+      "num": 593342,
+      "word": "刘烨胡军新片定档",
+      "onboard_time": 1677120749,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 591988,
       "num": 591988,
       "word": "山东考研",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1676858486,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562017,
+      "num": 562017,
+      "word": "突然明白为什么会有卷面分",
+      "onboard_time": 1677120569,
+      "rank": 27,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 561521,
@@ -2641,14 +2665,6 @@
       "onboard_time": 1677037650,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 538211,
-      "num": 538211,
-      "word": "王一博扮奥特曼跳breaking",
-      "onboard_time": 1677120326,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 536461,
@@ -3363,14 +3379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 429010,
-      "num": 429010,
-      "word": "刘烨胡军新片定档",
-      "onboard_time": 1677120749,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 428529,
       "num": 428529,
       "word": "杨紫199爱卡其色风衣路透",
@@ -3393,6 +3401,14 @@
       "onboard_time": 1676867736,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 427519,
+      "num": 427519,
+      "word": "近期婴幼儿易感染人呼吸道合胞病毒",
+      "onboard_time": 1677119487,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424999,
@@ -3979,6 +3995,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 364271,
+      "num": 364271,
+      "word": "丁程鑫晒花与少年随拍",
+      "onboard_time": 1677120808,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362287,
       "num": 362287,
       "word": "小学校长回应班主任多次收礼",
@@ -4169,14 +4193,6 @@
       "onboard_time": 1676997088,
       "rank": 30,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 346680,
-      "num": 346680,
-      "word": "近期婴幼儿易感染人呼吸道合胞病毒",
-      "onboard_time": 1677119487,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346224,
@@ -4811,6 +4827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294967,
+      "num": 294967,
+      "word": "半夜外墙现巨型蛛影吓坏众人",
+      "onboard_time": 1677119846,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293723,
       "num": 293723,
       "word": "真的被美到挪不开眼了",
@@ -4995,14 +5019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279442,
-      "num": 279442,
-      "word": "半夜外墙现巨型蛛影吓坏众人",
-      "onboard_time": 1677119846,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278740,
       "num": 278740,
       "word": "江湖举人 上野千鹤子",
@@ -5105,6 +5121,14 @@
       "onboard_time": 1676935582,
       "rank": 13,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 271511,
+      "num": 271511,
+      "word": "纪向宁 真学霸",
+      "onboard_time": 1677121649,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 271259,
@@ -5275,6 +5299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256350,
+      "num": 256350,
+      "word": "受过伤害的女孩有多让人心疼",
+      "onboard_time": 1677121830,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 256268,
       "num": 256268,
       "word": "明晚夜空将上演龙抬头天象",
@@ -5393,6 +5425,14 @@
       "onboard_time": 1676908587,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247221,
+      "num": 247221,
+      "word": "哪座城市支持生育力度最大",
+      "onboard_time": 1677117987,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246501,
@@ -5779,14 +5819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219906,
-      "num": 219906,
-      "word": "哪座城市支持生育力度最大",
-      "onboard_time": 1677117987,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218936,
       "num": 218936,
       "word": "王楚然今日扫楼生图",
@@ -6107,14 +6139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203299,
-      "num": 203299,
-      "word": "突然明白为什么会有卷面分",
-      "onboard_time": 1677120569,
-      "rank": 27,
-      "category": "幽默,教育"
-    },
-    {
       "raw_hot": 202871,
       "num": 202871,
       "word": "市监局调查18元5片土豆事件",
@@ -6217,6 +6241,14 @@
       "onboard_time": 1676956951,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198633,
+      "num": 198633,
+      "word": "SMTOWN虚拟偶像问候视频",
+      "onboard_time": 1677121589,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 197833,
@@ -6385,14 +6417,6 @@
       "onboard_time": 1676880032,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 189253,
-      "num": 189253,
-      "word": "丁程鑫晒花与少年随拍",
-      "onboard_time": 1677120808,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 188921,
@@ -6641,6 +6665,14 @@
       "onboard_time": 1676963429,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178654,
+      "num": 178654,
+      "word": "张学友国语新歌又十年",
+      "onboard_time": 1677122188,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 178247,
@@ -7035,6 +7067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161853,
+      "num": 161853,
+      "word": "爱奇艺已解决债务问题",
+      "onboard_time": 1677121170,
+      "rank": 34,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 161513,
       "num": 161513,
       "word": "如何看待中小学生心理危机",
@@ -7427,11 +7467,43 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129934,
+      "num": 129934,
+      "word": "六公主评情满九道弯",
+      "onboard_time": 1677120989,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127973,
       "num": 127973,
       "word": "张新起一审被判无期徒刑",
       "onboard_time": 1676885551,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127366,
+      "num": 127366,
+      "word": "走失德牧被警犬带回警队",
+      "onboard_time": 1677122248,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126170,
+      "num": 126170,
+      "word": "郑州有银行房贷利率上调至4.3%",
+      "onboard_time": 1677122248,
+      "rank": 43,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 125986,
+      "num": 125986,
+      "word": "商丘公交员工称5个月没发工资",
+      "onboard_time": 1677122369,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -7504,14 +7576,6 @@
       "word": "慕玉给重紫治腿伤",
       "onboard_time": 1677072152,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 118813,
-      "num": 118813,
-      "word": "六公主评情满九道弯",
-      "onboard_time": 1677120989,
-      "rank": 46,
       "category": "影视"
     },
     {
