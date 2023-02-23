@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677147649116,
+  "endTime": 1677148658217,
   "band_list": [
     {
       "raw_hot": 2699441,
@@ -115,6 +115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1393667,
+      "num": 1393667,
+      "word": "王濛方声明",
+      "onboard_time": 1677147270,
+      "rank": 6,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 1347972,
+      "num": 1347972,
+      "word": "企业月薪4万招人去非洲养鸡",
+      "onboard_time": 1677144155,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1340767,
       "num": 1151080,
       "word": "商丘公交将暂停运营市区线路",
@@ -129,14 +145,6 @@
       "onboard_time": 1677129153,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1260745,
-      "num": 1260745,
-      "word": "企业月薪4万招人去非洲养鸡",
-      "onboard_time": 1677144155,
-      "rank": 21,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1237829,
@@ -387,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 665220,
+      "num": 665220,
+      "word": "地下城与勇士端游改名",
+      "onboard_time": 1677144451,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 660246,
       "num": 660246,
       "word": "王一博扮奥特曼跳breaking",
@@ -395,28 +411,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 653194,
-      "num": 653194,
-      "word": "王濛方声明",
-      "onboard_time": 1677147270,
-      "rank": 6,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 647500,
       "num": 647500,
       "word": "南方都是这样的教学楼吗",
       "onboard_time": 1677083304,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 645609,
-      "num": 645609,
-      "word": "地下城与勇士端游改名",
-      "onboard_time": 1677144451,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 645358,
@@ -603,20 +603,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 480973,
+      "num": 461190,
+      "word": "辣目夜昙头纱吻",
+      "onboard_time": 1677145168,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 470318,
       "num": 470318,
       "word": "内蒙古煤矿坍塌事故相关人员被控制",
       "onboard_time": 1677134490,
       "rank": 9,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 461190,
-      "num": 461190,
-      "word": "辣目夜昙头纱吻",
-      "onboard_time": 1677145168,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 460682,
@@ -683,20 +683,20 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 417662,
+      "num": 417662,
+      "word": "电影灌篮高手官宣定档",
+      "onboard_time": 1677145950,
+      "rank": 14,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 416174,
       "num": 416174,
       "word": "刘烨胡军文咏珊民国氛围感",
       "onboard_time": 1677128013,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 414083,
-      "num": 414083,
-      "word": "电影灌篮高手官宣定档",
-      "onboard_time": 1677145950,
-      "rank": 14,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 408743,
@@ -771,8 +771,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369255,
+      "num": 369255,
+      "word": "张若昀大侦探再现白敬亭名场面",
+      "onboard_time": 1677145050,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366616,
-      "num": 1274401,
+      "num": 1351875,
       "word": "大熊猫永明与女儿回家画面",
       "onboard_time": 1677137610,
       "rank": 2,
@@ -819,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350709,
+      "num": 350709,
+      "word": "aespa世界观大结局",
+      "onboard_time": 1677148233,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 346961,
       "num": 346961,
       "word": "明星米兰时装周状态",
@@ -843,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339060,
+      "num": 339060,
+      "word": "我们的日子道歉",
+      "onboard_time": 1677148471,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338920,
       "num": 338920,
       "word": "孔雪儿到达米兰",
@@ -865,14 +889,6 @@
       "onboard_time": 1677125369,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333397,
-      "num": 333397,
-      "word": "张若昀大侦探再现白敬亭名场面",
-      "onboard_time": 1677145050,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 326342,
@@ -969,6 +985,14 @@
       "onboard_time": 1677143912,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290450,
+      "num": 290450,
+      "word": "女电工写20万字笔记练成行业天花板",
+      "onboard_time": 1677146432,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289745,
@@ -1243,14 +1267,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 222988,
-      "num": 222988,
-      "word": "女电工写20万字笔记练成行业天花板",
-      "onboard_time": 1677146432,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217300,
       "num": 217300,
       "word": "为何说国产奶粉更适合中国宝宝",
@@ -1515,6 +1531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181906,
+      "num": 181906,
+      "word": "重紫斗篷造型",
+      "onboard_time": 1677147752,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181460,
       "num": 181460,
       "word": "郭采洁米兰第一夜随拍",
@@ -1555,6 +1579,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 173811,
+      "num": 173811,
+      "word": "张颂文是如何厚积薄发的",
+      "onboard_time": 1677144692,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172994,
       "num": 172994,
       "word": "孙怡说我是懂算账的",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1677129449,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171938,
+      "num": 171938,
+      "word": "饭局恐慌症",
+      "onboard_time": 1677146970,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 169074,
@@ -1608,22 +1648,6 @@
       "word": "玄商遗言",
       "onboard_time": 1677115949,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 166682,
-      "num": 166682,
-      "word": "饭局恐慌症",
-      "onboard_time": 1677146970,
-      "rank": 39,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 165815,
-      "num": 165815,
-      "word": "张颂文是如何厚积薄发的",
-      "onboard_time": 1677144692,
-      "rank": 48,
       "category": "影视"
     },
     {
