@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677127155740,
+  "endTime": 1677129476437,
   "band_list": [
     {
       "raw_hot": 2699441,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1472966,
+      "num": 1472966,
+      "word": "乌克兰要求停售原子之心",
+      "onboard_time": 1677125853,
+      "rank": 27,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 1340767,
       "num": 1151080,
       "word": "商丘公交将暂停运营市区线路",
@@ -99,6 +107,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 981884,
+      "num": 464304,
+      "word": "肖战米兰看秀造型大片",
+      "onboard_time": 1677126757,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 901198,
+      "num": 481015,
+      "word": "上海浦东新区海域发生M0.8级地震",
+      "onboard_time": 1677126272,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897072,
       "num": 897072,
       "word": "五哈3官宣定档",
@@ -115,6 +139,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 870532,
+      "num": 870532,
+      "word": "张杰演唱会门票",
+      "onboard_time": 1677128193,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 870341,
       "num": 870341,
       "word": "淘宝公布2023年度丑东西",
@@ -123,12 +155,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 857891,
-      "num": 493816,
-      "word": "乌克兰要求停售原子之心",
-      "onboard_time": 1677125853,
-      "rank": 27,
-      "category": "游戏,社会新闻"
+      "raw_hot": 861836,
+      "num": 861836,
+      "word": "商丘公交发通告表示确保不停运",
+      "onboard_time": 1677127532,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 806155,
@@ -145,6 +177,14 @@
       "onboard_time": 1677065793,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741500,
+      "num": 741500,
+      "word": "蛋仔派对",
+      "onboard_time": 1677126512,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 734685,
@@ -203,14 +243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 663404,
-      "num": 481015,
-      "word": "上海浦东新区海域发生M0.8级地震",
-      "onboard_time": 1677126272,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 660246,
       "num": 660246,
       "word": "王一博扮奥特曼跳breaking",
@@ -233,14 +265,6 @@
       "onboard_time": 1677076893,
       "rank": 4,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 639456,
-      "num": 464304,
-      "word": "肖战米兰看秀造型大片",
-      "onboard_time": 1677126757,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 624458,
@@ -331,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508721,
-      "num": 508721,
-      "word": "蛋仔派对",
-      "onboard_time": 1677126512,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 502259,
       "num": 502259,
       "word": "陈妍希几乎每天都对陈晓说我爱你",
@@ -411,6 +427,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 416174,
+      "num": 416174,
+      "word": "刘烨胡军文咏珊民国氛围感",
+      "onboard_time": 1677128013,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 408743,
       "num": 408743,
       "word": "郑州有银行房贷利率上调至4.3%",
@@ -425,6 +449,14 @@
       "onboard_time": 1677119428,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 374973,
+      "num": 374973,
+      "word": "女朋友是收纳癖是什么体验",
+      "onboard_time": 1677126935,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 369604,
@@ -449,6 +481,14 @@
       "onboard_time": 1677118230,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 355995,
+      "num": 355995,
+      "word": "iPhone15或仍采用物理按键",
+      "onboard_time": 1677126033,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 355967,
@@ -499,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309071,
+      "num": 309071,
+      "word": "大侦探",
+      "onboard_time": 1677127655,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308426,
       "num": 308426,
       "word": "2.4亿大奖得主3天后现身还捐了100万",
       "onboard_time": 1677059371,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307410,
+      "num": 307410,
+      "word": "妻子的浪漫旅行6收官",
+      "onboard_time": 1677127772,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 304495,
@@ -651,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247173,
-      "num": 247173,
-      "word": "iPhone15或仍采用物理按键",
-      "onboard_time": 1677126033,
-      "rank": 46,
-      "category": "科技"
-    },
-    {
       "raw_hot": 244691,
       "num": 244691,
       "word": "虞书欣黑色深V吊带裙",
@@ -675,6 +723,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 232212,
+      "num": 232212,
+      "word": "原子之心",
+      "onboard_time": 1677128849,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231956,
       "num": 231956,
       "word": "周杰伦2022IFPI第九位",
@@ -689,6 +745,14 @@
       "onboard_time": 1677077252,
       "rank": 21,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 228252,
+      "num": 228252,
+      "word": "吴磊赵今麦雪中心动注视版海报",
+      "onboard_time": 1677129032,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 228162,
@@ -819,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198757,
+      "num": 198757,
+      "word": "别人直播带货这位老师直播带人",
+      "onboard_time": 1677127113,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196473,
       "num": 196473,
       "word": "塔吉克斯坦7.2级地震喀什震感强烈",
@@ -873,6 +945,14 @@
       "onboard_time": 1677126634,
       "rank": 36,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 187094,
+      "num": 187094,
+      "word": "毛不易演唱会重启",
+      "onboard_time": 1677127414,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 186419,
@@ -963,8 +1043,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151680,
+      "num": 151680,
+      "word": "骗子为骗钱竟造一整个派出所",
+      "onboard_time": 1677129153,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149953,
-      "num": 149953,
+      "num": 364421,
       "word": "原来集装箱还能用来种菜",
       "onboard_time": 1677125492,
       "rank": 39,
@@ -1011,19 +1099,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137250,
-      "num": 137250,
-      "word": "女朋友是收纳癖是什么体验",
-      "onboard_time": 1677126935,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 134029,
-      "num": 134029,
-      "word": "别人直播带货这位老师直播带人",
-      "onboard_time": 1677127113,
-      "rank": 49,
+      "raw_hot": 136877,
+      "num": 136877,
+      "word": "市政府工作组已进驻商丘公交公司",
+      "onboard_time": 1677129330,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1057,6 +1137,22 @@
       "onboard_time": 1677075213,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124510,
+      "num": 124510,
+      "word": "大连某图书馆一男子对小女孩脱裤子",
+      "onboard_time": 1677128312,
+      "rank": 45,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 119823,
+      "num": 119823,
+      "word": "郑恺健身追剧vlog",
+      "onboard_time": 1677129449,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 116367,
@@ -1163,7 +1259,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 27734,
+      "raw_hot": 28255,
       "num": 1313717,
       "word": "春日里有仪式感的9件小事",
       "onboard_time": 1677110428,
