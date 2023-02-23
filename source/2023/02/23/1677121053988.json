@@ -1,0 +1,410 @@
+{
+  "runTime": 1677121053988,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1732112,
+        "num": 1732112,
+        "word": "狂飙里的猪脚面是张颂文改的",
+        "onboard_time": 1677117327,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1349477,
+        "num": 1349477,
+        "word": "高学历低龄老人线上求职碰壁",
+        "onboard_time": 1677118349,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38507,
+        "num": 856519,
+        "word": "你那里的春日大片上线了吗",
+        "onboard_time": 1677070952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1639325,
+        "num": 839432,
+        "word": "女生拼多多网购改地址遭商家侮辱",
+        "onboard_time": 1677116068,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816133,
+        "num": 816133,
+        "word": "五哈3官宣定档",
+        "onboard_time": 1677119007,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 760616,
+        "num": 760616,
+        "word": "商丘公交将暂停运营市区线路",
+        "onboard_time": 1677118884,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675674,
+        "num": 675674,
+        "word": "美媒称韩国部队锅是美军剩菜",
+        "onboard_time": 1677110908,
+        "rank": 6,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 538211,
+        "num": 538211,
+        "word": "王一博扮奥特曼跳breaking",
+        "onboard_time": 1677120326,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 526646,
+        "num": 526646,
+        "word": "塔吉克斯坦发生7.2级地震",
+        "onboard_time": 1677114151,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516359,
+        "num": 516359,
+        "word": "爱奇艺能否复制狂飙的成功",
+        "onboard_time": 1677115709,
+        "rank": 9,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 429010,
+        "num": 429010,
+        "word": "刘烨胡军新片定档",
+        "onboard_time": 1677120749,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 424620,
+        "num": 424620,
+        "word": "菲律宾版花泽类",
+        "onboard_time": 1677117266,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396096,
+        "num": 396096,
+        "word": "拜登离开波兰上飞机时摔倒",
+        "onboard_time": 1677112289,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 387877,
+        "num": 387877,
+        "word": "iPhone15早期真机图曝光",
+        "onboard_time": 1677112592,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 378725,
+        "num": 378725,
+        "word": "宋雨琦程潇许光汉同框",
+        "onboard_time": 1677119428,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 358560,
+        "num": 358560,
+        "word": "新疆边境地区附近发生7.3级左右地震",
+        "onboard_time": 1677113669,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350623,
+        "num": 350623,
+        "word": "小学校长回应班主任多次收礼",
+        "onboard_time": 1677116967,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 346680,
+        "num": 346680,
+        "word": "近期婴幼儿易感染人呼吸道合胞病毒",
+        "onboard_time": 1677119487,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342496,
+        "num": 342496,
+        "word": "南方都是这样的教学楼吗",
+        "onboard_time": 1677083304,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316428,
+        "num": 316428,
+        "word": "王鹤棣时宴雨中撑伞",
+        "onboard_time": 1677114570,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 302736,
+        "num": 302736,
+        "word": "iPhone15采用更大的6.2英寸屏",
+        "onboard_time": 1677114449,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 279442,
+        "num": 279442,
+        "word": "半夜外墙现巨型蛛影吓坏众人",
+        "onboard_time": 1677119846,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276711,
+        "num": 276711,
+        "word": "税务师成绩",
+        "onboard_time": 1677118230,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 250094,
+        "num": 250094,
+        "word": "读研到底是种什么体验",
+        "onboard_time": 1677111688,
+        "rank": 23,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 248987,
+        "num": 248987,
+        "word": "知情人称内蒙古煤矿坍塌被埋者大部分为司机",
+        "onboard_time": 1677103214,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 219906,
+        "num": 219906,
+        "word": "哪座城市支持生育力度最大",
+        "onboard_time": 1677117987,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209342,
+        "num": 209342,
+        "word": "不愿相信主人得癌症的狗狗",
+        "onboard_time": 1677110188,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203299,
+        "num": 203299,
+        "word": "突然明白为什么会有卷面分",
+        "onboard_time": 1677120569,
+        "rank": 27,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 200335,
+        "num": 200335,
+        "word": "黄奕于翔新剧亲嘴大头贴",
+        "onboard_time": 1677119187,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189253,
+        "num": 189253,
+        "word": "丁程鑫晒花与少年随拍",
+        "onboard_time": 1677120808,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187814,
+        "num": 187814,
+        "word": "欢迎台湾同胞品尝这些大陆美食",
+        "onboard_time": 1677113611,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179171,
+        "num": 179171,
+        "word": "YG新女团CHIQUITA介绍视频",
+        "onboard_time": 1677116548,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179067,
+        "num": 179067,
+        "word": "大鹏新片热烈相信版预告",
+        "onboard_time": 1677119249,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176813,
+        "num": 176813,
+        "word": "这篇小学作文是被打成压缩包了吗",
+        "onboard_time": 1677114449,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 169882,
+        "num": 169882,
+        "word": "郭采洁米兰第一夜随拍",
+        "onboard_time": 1677118406,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 168968,
+        "num": 168968,
+        "word": "宋慧乔米兰时装周造型",
+        "onboard_time": 1677119487,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142837,
+        "num": 142837,
+        "word": "沪上阿姨外包装旗袍图被质疑不雅",
+        "onboard_time": 1677065793,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140726,
+        "num": 140726,
+        "word": "农村结婚难该谁来背锅",
+        "onboard_time": 1677070714,
+        "rank": 37,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 140478,
+        "num": 140478,
+        "word": "乌梅子酱",
+        "onboard_time": 1677066450,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137905,
+        "num": 137905,
+        "word": "SMTOWN将全方位与Kakao合作",
+        "onboard_time": 1677113070,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137356,
+        "num": 137356,
+        "word": "爷爷颤颤巍巍去见孙子最后一面",
+        "onboard_time": 1677082644,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134823,
+        "num": 134823,
+        "word": "黑暗荣耀第二季预告视频",
+        "onboard_time": 1677113430,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131688,
+        "num": 131688,
+        "word": "曼城全场0换人",
+        "onboard_time": 1677116487,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128974,
+        "num": 128974,
+        "word": "AppleWatch未来或将无创测血糖",
+        "onboard_time": 1677113252,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 121328,
+        "num": 121328,
+        "word": "当事人回应要返现未果连刷11个差评",
+        "onboard_time": 1677115230,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 119149,
+        "num": 119149,
+        "word": "玄商遗言",
+        "onboard_time": 1677115949,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118813,
+        "num": 118813,
+        "word": "六公主评情满九道弯",
+        "onboard_time": 1677120989,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116433,
+        "num": 116433,
+        "word": "动物园回应白面僧面猴长相炸裂",
+        "onboard_time": 1677104956,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115590,
+        "num": 115590,
+        "word": "当你有个擅长表达的女朋友",
+        "onboard_time": 1677088696,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115130,
+        "num": 115130,
+        "word": "明星米兰时装周状态",
+        "onboard_time": 1677077434,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实加强基础研究#"
+    }
+  }
+}

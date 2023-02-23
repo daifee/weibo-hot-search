@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677120470886,
+  "endTime": 1677121053988,
   "band_list": [
     {
       "raw_hot": 2147116,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1732112,
+      "num": 1732112,
+      "word": "狂飙里的猪脚面是张颂文改的",
+      "onboard_time": 1677117327,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1726795,
       "num": 1726795,
       "word": "知情人称内蒙古煤矿坍塌被埋者大部分为司机",
       "onboard_time": 1677103214,
       "rank": 30,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1678044,
-      "num": 1678044,
-      "word": "狂飙里的猪脚面是张颂文改的",
-      "onboard_time": 1677117327,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 1540968,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1223991,
-      "num": 1223991,
+      "raw_hot": 1349477,
+      "num": 1349477,
       "word": "高学历低龄老人线上求职碰壁",
       "onboard_time": 1677118349,
       "rank": 1,
@@ -104,6 +104,14 @@
       "word": "沪上阿姨外包装旗袍图被质疑不雅",
       "onboard_time": 1677065793,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 760616,
+      "num": 760616,
+      "word": "商丘公交将暂停运营市区线路",
+      "onboard_time": 1677118884,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -211,14 +219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 555947,
-      "num": 555947,
-      "word": "商丘公交将暂停运营市区线路",
-      "onboard_time": 1677118884,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 547663,
       "num": 547663,
       "word": "爱奇艺首次实现全年运营盈利",
@@ -233,6 +233,14 @@
       "onboard_time": 1677113611,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 538211,
+      "num": 538211,
+      "word": "王一博扮奥特曼跳breaking",
+      "onboard_time": 1677120326,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 502259,
@@ -291,6 +299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 429010,
+      "num": 429010,
+      "word": "刘烨胡军新片定档",
+      "onboard_time": 1677120749,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423829,
       "num": 423829,
       "word": "爱奇艺会员收入创单季最高",
@@ -337,6 +353,14 @@
       "onboard_time": 1677077434,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 346680,
+      "num": 346680,
+      "word": "近期婴幼儿易感染人呼吸道合胞病毒",
+      "onboard_time": 1677119487,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326342,
@@ -395,20 +419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279442,
+      "num": 279442,
+      "word": "半夜外墙现巨型蛛影吓坏众人",
+      "onboard_time": 1677119846,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277854,
       "num": 277854,
       "word": "内蒙古煤矿坍塌",
       "onboard_time": 1677077252,
       "rank": 17,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 276960,
-      "num": 276960,
-      "word": "王一博扮奥特曼跳breaking",
-      "onboard_time": 1677120326,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 276794,
@@ -425,14 +449,6 @@
       "onboard_time": 1677113430,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 269943,
-      "num": 269943,
-      "word": "近期婴幼儿易感染人呼吸道合胞病毒",
-      "onboard_time": 1677119487,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265829,
@@ -515,6 +531,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 219906,
+      "num": 219906,
+      "word": "哪座城市支持生育力度最大",
+      "onboard_time": 1677117987,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217300,
       "num": 217300,
       "word": "为何说国产奶粉更适合中国宝宝",
@@ -571,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209753,
-      "num": 209753,
-      "word": "哪座城市支持生育力度最大",
-      "onboard_time": 1677117987,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205594,
       "num": 205594,
       "word": "乐乐与丫丫20年前抵美画面",
@@ -593,6 +609,14 @@
       "onboard_time": 1677079052,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203299,
+      "num": 203299,
+      "word": "突然明白为什么会有卷面分",
+      "onboard_time": 1677120569,
+      "rank": 27,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 202217,
@@ -611,6 +635,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200335,
+      "num": 200335,
+      "word": "黄奕于翔新剧亲嘴大头贴",
+      "onboard_time": 1677119187,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 189253,
+      "num": 189253,
+      "word": "丁程鑫晒花与少年随拍",
+      "onboard_time": 1677120808,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188710,
       "num": 188710,
       "word": "李宇春背了好大一个包",
@@ -625,14 +665,6 @@
       "onboard_time": 1677063393,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186798,
-      "num": 186798,
-      "word": "黄奕于翔新剧亲嘴大头贴",
-      "onboard_time": 1677119187,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 186419,
@@ -675,14 +707,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 180095,
-      "num": 180095,
-      "word": "半夜外墙现巨型蛛影吓坏众人",
-      "onboard_time": 1677119846,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174768,
       "num": 174768,
       "word": "博主奶油日记为博眼球谎称下海被查",
@@ -691,20 +715,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 168968,
+      "num": 168968,
+      "word": "宋慧乔米兰时装周造型",
+      "onboard_time": 1677119487,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 167604,
       "num": 167604,
       "word": "玄商遗言",
       "onboard_time": 1677115949,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164907,
-      "num": 164907,
-      "word": "宋慧乔米兰时装周造型",
-      "onboard_time": 1677119487,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 164576,
@@ -776,6 +800,14 @@
       "word": "毛不易不愧是be王者",
       "onboard_time": 1677075213,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 118813,
+      "num": 118813,
+      "word": "六公主评情满九道弯",
+      "onboard_time": 1677120989,
+      "rank": 46,
       "category": "影视"
     },
     {

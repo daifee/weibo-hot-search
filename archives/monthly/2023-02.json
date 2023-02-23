@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677120470886,
+  "endTime": 1677121053988,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -2747,6 +2747,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1732112,
+      "num": 1732112,
+      "word": "狂飙里的猪脚面是张颂文改的",
+      "onboard_time": 1677117327,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1730670,
       "num": 1730670,
       "word": "牛莉直播",
@@ -2897,14 +2905,6 @@
       "onboard_time": 1676773834,
       "rank": 4,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1678044,
-      "num": 1678044,
-      "word": "狂飙里的猪脚面是张颂文改的",
-      "onboard_time": 1677117327,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 1674299,
@@ -4195,6 +4195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1349477,
+      "num": 1349477,
+      "word": "高学历低龄老人线上求职碰壁",
+      "onboard_time": 1677118349,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1349119,
       "num": 1349119,
       "word": "内蒙古一煤矿发生事故",
@@ -4913,14 +4921,6 @@
       "onboard_time": 1677052113,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1223991,
-      "num": 1223991,
-      "word": "高学历低龄老人线上求职碰壁",
-      "onboard_time": 1677118349,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1222950,
@@ -10627,6 +10627,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 760616,
+      "num": 760616,
+      "word": "商丘公交将暂停运营市区线路",
+      "onboard_time": 1677118884,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760489,
       "num": 760489,
       "word": "Kakao或将收购JYP",
@@ -16283,14 +16291,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 555947,
-      "num": 555947,
-      "word": "商丘公交将暂停运营市区线路",
-      "onboard_time": 1677118884,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 555835,
       "num": 555835,
       "word": "小钰Rookie比心",
@@ -17001,6 +17001,14 @@
       "onboard_time": 1675236269,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 538211,
+      "num": 538211,
+      "word": "王一博扮奥特曼跳breaking",
+      "onboard_time": 1677120326,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 538055,
@@ -21576,6 +21584,14 @@
       "word": "岳云鹏这次追不上的是沈腾",
       "onboard_time": 1676087850,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 429010,
+      "num": 429010,
+      "word": "刘烨胡军新片定档",
+      "onboard_time": 1677120749,
+      "rank": 10,
       "category": "影视"
     },
     {
@@ -26273,6 +26289,14 @@
       "onboard_time": 1675928490,
       "rank": 16,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 346680,
+      "num": 346680,
+      "word": "近期婴幼儿易感染人呼吸道合胞病毒",
+      "onboard_time": 1677119487,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346543,
@@ -31371,6 +31395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279442,
+      "num": 279442,
+      "word": "半夜外墙现巨型蛛影吓坏众人",
+      "onboard_time": 1677119846,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279426,
       "num": 279426,
       "word": "满江红周边设计公司3人参保",
@@ -31601,14 +31633,6 @@
       "onboard_time": 1675897938,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 276960,
-      "num": 276960,
-      "word": "王一博扮奥特曼跳breaking",
-      "onboard_time": 1677120326,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 276927,
@@ -32304,14 +32328,6 @@
       "word": "还没阳过的孩子老人再感染可能性小",
       "onboard_time": 1675935274,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269943,
-      "num": 269943,
-      "word": "近期婴幼儿易感染人呼吸道合胞病毒",
-      "onboard_time": 1677119487,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -37131,6 +37147,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 219906,
+      "num": 219906,
+      "word": "哪座城市支持生育力度最大",
+      "onboard_time": 1677117987,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219882,
       "num": 219882,
       "word": "张若昀王阳对手戏",
@@ -38187,14 +38211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209753,
-      "num": 209753,
-      "word": "哪座城市支持生育力度最大",
-      "onboard_time": 1677117987,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209606,
       "num": 209606,
       "word": "演技叔圈101",
@@ -38827,6 +38843,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 203299,
+      "num": 203299,
+      "word": "突然明白为什么会有卷面分",
+      "onboard_time": 1677120569,
+      "rank": 27,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 203172,
       "num": 171136,
       "word": "黑豹2票房破亿",
@@ -39176,6 +39200,14 @@
       "word": "姨叔感",
       "onboard_time": 1676707108,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 200335,
+      "num": 200335,
+      "word": "黄奕于翔新剧亲嘴大头贴",
+      "onboard_time": 1677119187,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -40795,6 +40827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189253,
+      "num": 189253,
+      "word": "丁程鑫晒花与少年随拍",
+      "onboard_time": 1677120808,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189107,
       "num": 189107,
       "word": "iG冠军阵容赛场重遇",
@@ -41225,14 +41265,6 @@
       "onboard_time": 1675761510,
       "rank": 40,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 186798,
-      "num": 186798,
-      "word": "黄奕于翔新剧亲嘴大头贴",
-      "onboard_time": 1677119187,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 186722,
@@ -42233,14 +42265,6 @@
       "onboard_time": 1675235431,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180095,
-      "num": 180095,
-      "word": "半夜外墙现巨型蛛影吓坏众人",
-      "onboard_time": 1677119846,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180081,
@@ -43931,6 +43955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168968,
+      "num": 168968,
+      "word": "宋慧乔米兰时装周造型",
+      "onboard_time": 1677119487,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 168814,
       "num": 168814,
       "word": "送你圆圆圆圆圆圆圆圆圆",
@@ -44513,14 +44545,6 @@
       "onboard_time": 1675301489,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164907,
-      "num": 164907,
-      "word": "宋慧乔米兰时装周造型",
-      "onboard_time": 1677119487,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 164825,
@@ -48449,6 +48473,14 @@
       "onboard_time": 1675641625,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118813,
+      "num": 118813,
+      "word": "六公主评情满九道弯",
+      "onboard_time": 1677120989,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 118742,
