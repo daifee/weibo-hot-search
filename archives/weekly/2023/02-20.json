@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677177588067,
+  "endTime": 1677179756549,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -9649,6 +9649,14 @@
       "onboard_time": 1677110428,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28594,
+      "num": 28594,
+      "word": "中国不会成为另一个美国的十个原因",
+      "onboard_time": 1677179172,
+      "rank": 25,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 27975,
