@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677134351677,
+  "endTime": 1677136656275,
   "band_list": [
     {
       "raw_hot": 2699441,
@@ -25,6 +25,14 @@
       "onboard_time": 1677114151,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1859017,
+      "num": 1859017,
+      "word": "女子举报丈夫与公职人员同居生女",
+      "onboard_time": 1677133951,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1840447,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 729028,
+      "num": 729028,
+      "word": "研究称做饭可降低四成死亡率",
+      "onboard_time": 1677132209,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716528,
       "num": 457602,
       "word": "商丘公交员工称5个月没发工资",
@@ -235,8 +251,16 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 682847,
+      "num": 682847,
+      "word": "唐嫣钟汉良同框梦回何以笙箫默",
+      "onboard_time": 1677132569,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 674160,
-      "num": 450345,
+      "num": 538550,
       "word": "徐志胜说自己刚红没那么多钱",
       "onboard_time": 1677130649,
       "rank": 10,
@@ -265,14 +289,6 @@
       "onboard_time": 1677110188,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 663444,
-      "num": 663444,
-      "word": "唐嫣钟汉良同框梦回何以笙箫默",
-      "onboard_time": 1677132569,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 660246,
@@ -339,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 601834,
+      "num": 601834,
+      "word": "水瓶座真的很适合搞事业",
+      "onboard_time": 1677134907,
+      "rank": 6,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 594061,
       "num": 594061,
       "word": "乐乐",
@@ -371,12 +395,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 573415,
-      "num": 573415,
-      "word": "研究称做饭可降低四成死亡率",
-      "onboard_time": 1677132209,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 559729,
+      "num": 470251,
+      "word": "李玟说这些年都靠右腿支撑全身",
+      "onboard_time": 1677135808,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 547663,
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 496302,
-      "num": 413721,
+      "num": 469182,
       "word": "政府回应温泉水煮面被质疑不卫生",
       "onboard_time": 1677132327,
       "rank": 19,
@@ -443,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470318,
+      "num": 470318,
+      "word": "内蒙古煤矿坍塌事故相关人员被控制",
+      "onboard_time": 1677134490,
+      "rank": 9,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 460682,
       "num": 460682,
       "word": "近期婴幼儿易感染人呼吸道合胞病毒",
@@ -457,6 +489,14 @@
       "onboard_time": 1677114449,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 456267,
+      "num": 456267,
+      "word": "特朗普访毒列车事发地带1.4万瓶特朗普牌矿泉水",
+      "onboard_time": 1677135028,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 438783,
@@ -507,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396822,
+      "num": 396822,
+      "word": "脑花帽",
+      "onboard_time": 1677133648,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 393817,
       "num": 393817,
       "word": "宋雨琦程潇许光汉同框",
@@ -521,6 +569,14 @@
       "onboard_time": 1677126935,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 380523,
+      "num": 380523,
+      "word": "陈楚生工作室除了音乐就是喝茶",
+      "onboard_time": 1677135687,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 379232,
@@ -569,6 +625,14 @@
       "onboard_time": 1677123630,
       "rank": 18,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 355420,
+      "num": 355420,
+      "word": "教体局回应小学副班长受贿数万元",
+      "onboard_time": 1677135028,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 351189,
@@ -747,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267087,
-      "num": 267087,
-      "word": "脑花帽",
-      "onboard_time": 1677133648,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 265829,
       "num": 265829,
       "word": "当你有个擅长表达的女朋友",
@@ -859,12 +915,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227187,
-      "num": 170436,
-      "word": "女子举报丈夫与公职人员同居生女",
-      "onboard_time": 1677133951,
-      "rank": 30,
-      "category": "社会负面"
+      "raw_hot": 223775,
+      "num": 223775,
+      "word": "流浪地球2",
+      "onboard_time": 1677132808,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 223363,
@@ -931,6 +987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211931,
+      "num": 211931,
+      "word": "陈乔恩说你的心有多软壳就要有多硬",
+      "onboard_time": 1677135747,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211147,
       "num": 211147,
       "word": "YG新女团CHIQUITA介绍视频",
@@ -977,6 +1041,14 @@
       "onboard_time": 1677130649,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202702,
+      "num": 202702,
+      "word": "男子胖到坐着睡梦游都是去做饭",
+      "onboard_time": 1677135630,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202217,
@@ -1139,6 +1211,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 172160,
+      "num": 172160,
+      "word": "外卖员穿工装禁入成都高端商场",
+      "onboard_time": 1677136110,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171957,
       "num": 171957,
       "word": "郑恺健身追剧vlog",
@@ -1171,6 +1251,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167451,
+      "num": 167451,
+      "word": "哈士奇当警犬是什么体验",
+      "onboard_time": 1677133830,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 165169,
+      "num": 165169,
+      "word": "吴磊赵今麦新剧同框照",
+      "onboard_time": 1677135989,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 164693,
+      "num": 164693,
+      "word": "联想小新死机黑屏",
+      "onboard_time": 1677134548,
+      "rank": 36,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 164576,
       "num": 164576,
       "word": "霉霉2022IFPI全球畅销艺人榜冠军",
@@ -1179,12 +1283,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 159744,
-      "num": 159744,
-      "word": "流浪地球2",
-      "onboard_time": 1677132808,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 160766,
+      "num": 160766,
+      "word": "韩国家庭8.9年收入才能买房",
+      "onboard_time": 1677136349,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 158892,
@@ -1209,6 +1313,14 @@
       "onboard_time": 1677120989,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153434,
+      "num": 153434,
+      "word": "蛋仔派对失心熊",
+      "onboard_time": 1677134188,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 149953,
@@ -1275,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135536,
+      "num": 135536,
+      "word": "电影荒原向南京红山动物园捐款",
+      "onboard_time": 1677135209,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132338,
       "num": 132338,
       "word": "邓超说在孙俪面前自己更像个孩子",
@@ -1297,6 +1417,14 @@
       "onboard_time": 1677069508,
       "rank": 39,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 128554,
+      "num": 128554,
+      "word": "这顿饭真的非做不可吗",
+      "onboard_time": 1677133110,
+      "rank": 46,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 125514,
@@ -1355,28 +1483,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 107117,
-      "num": 107117,
-      "word": "这顿饭真的非做不可吗",
-      "onboard_time": 1677133110,
-      "rank": 46,
-      "category": "美食,情感"
-    },
-    {
       "raw_hot": 106880,
       "num": 106880,
       "word": "内蒙古阿拉善煤矿坍塌瞬间曝光",
       "onboard_time": 1677073113,
       "rank": 44,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 105271,
-      "num": 105271,
-      "word": "哈士奇当警犬是什么体验",
-      "onboard_time": 1677133830,
-      "rank": 42,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 101777,
@@ -1409,14 +1521,6 @@
       "onboard_time": 1677076303,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 95894,
-      "num": 95894,
-      "word": "蛋仔派对失心熊",
-      "onboard_time": 1677134188,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 94999,
