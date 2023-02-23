@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677184476994,
+  "endTime": 1677187045787,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -9619,6 +9619,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 41389,
+      "num": 41389,
+      "word": "实探上海巴奴火锅土豆11元6片",
+      "onboard_time": 1677182651,
+      "rank": 29,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 35992,
       "num": 1702928,
       "word": "up新时代中国",
@@ -9675,14 +9683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26294,
-      "num": 26294,
-      "word": "实探上海巴奴火锅土豆11元6片",
-      "onboard_time": 1677182651,
-      "rank": 29,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 25469,
       "num": 25469,
       "word": "七日有幸",
@@ -9713,6 +9713,14 @@
       "onboard_time": 1676922911,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 13020,
+      "num": 13862,
+      "word": "复盘俄乌战场十二大关键节点",
+      "onboard_time": 1677186491,
+      "rank": 43,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
