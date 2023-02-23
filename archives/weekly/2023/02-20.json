@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677161954002,
+  "endTime": 1677162816572,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1491126,
+      "num": 1491126,
+      "word": "刘雯闭场",
+      "onboard_time": 1677162093,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1472966,
       "num": 1472966,
       "word": "乌克兰要求停售原子之心",
@@ -569,6 +577,14 @@
       "onboard_time": 1676865694,
       "rank": 6,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1455133,
+      "num": 1455133,
+      "word": "刘雯重返时装周首秀",
+      "onboard_time": 1677160832,
+      "rank": 1,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1454522,
@@ -971,14 +987,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1163965,
-      "num": 1163965,
-      "word": "刘雯重返时装周首秀",
-      "onboard_time": 1677160832,
-      "rank": 1,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 1161865,
       "num": 1161865,
       "word": "父亲去世哥哥说妹妹没有继承权",
@@ -1347,6 +1355,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 962635,
+      "num": 962635,
+      "word": "委员提案独生子女父母养老政府解决",
+      "onboard_time": 1677157830,
+      "rank": 15,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 961068,
       "num": 961068,
       "word": "异地民警郑州办案猥亵嫌疑人之妻被拘",
@@ -1673,14 +1689,6 @@
       "onboard_time": 1676958330,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 826476,
-      "num": 826476,
-      "word": "委员提案独生子女父母养老政府解决",
-      "onboard_time": 1677157830,
-      "rank": 15,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 821927,
@@ -3763,6 +3771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436180,
+      "num": 436180,
+      "word": "柳智敏演技",
+      "onboard_time": 1677160293,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 435510,
       "num": 435510,
       "word": "广州漫展",
@@ -3913,14 +3929,6 @@
       "onboard_time": 1676975373,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 424709,
-      "num": 424709,
-      "word": "柳智敏演技",
-      "onboard_time": 1677160293,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 423829,
@@ -5395,6 +5403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311130,
+      "num": 311130,
+      "word": "张小斐狐狸眼妆",
+      "onboard_time": 1677161015,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 310825,
       "num": 310825,
       "word": "三体剧组庆功宴",
@@ -5513,6 +5529,14 @@
       "onboard_time": 1677037712,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298774,
+      "num": 298774,
+      "word": "中国男篮四后卫1助攻",
+      "onboard_time": 1677161254,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 297450,
@@ -6499,6 +6523,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 235818,
+      "num": 235818,
+      "word": "混双",
+      "onboard_time": 1677161855,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235445,
       "num": 235445,
       "word": "刘宇宁直播",
@@ -6777,14 +6809,6 @@
       "onboard_time": 1676980772,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 217804,
-      "num": 217804,
-      "word": "张小斐狐狸眼妆",
-      "onboard_time": 1677161015,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 217744,
@@ -7707,14 +7731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182148,
-      "num": 182148,
-      "word": "中国男篮四后卫1助攻",
-      "onboard_time": 1677161254,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181952,
       "num": 181952,
       "word": "找人类帮忙的小猫",
@@ -7771,6 +7787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179642,
+      "num": 179642,
+      "word": "听说你喜欢我开分7.8",
+      "onboard_time": 1677161312,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179481,
       "num": 179481,
       "word": "Light韦鲁斯五杀",
@@ -7809,6 +7833,14 @@
       "onboard_time": 1676985093,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177696,
+      "num": 177696,
+      "word": "吉利银河",
+      "onboard_time": 1677157950,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 177223,
@@ -7937,14 +7969,6 @@
       "onboard_time": 1677133830,
       "rank": 42,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 172341,
-      "num": 172341,
-      "word": "吉利银河",
-      "onboard_time": 1677157950,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 171957,
@@ -8267,6 +8291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162826,
+      "num": 168769,
+      "word": "清理中国天眼好像刷锅",
+      "onboard_time": 1677159510,
+      "rank": 34,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 162553,
       "num": 162553,
       "word": "陈宏友称不当演讲事件已向组织汇报",
@@ -8344,14 +8376,6 @@
       "word": "黄奕红裙造型",
       "onboard_time": 1676988216,
       "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 157682,
-      "num": 157682,
-      "word": "听说你喜欢我开分7.8",
-      "onboard_time": 1677161312,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -8475,20 +8499,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152003,
-      "num": 168769,
-      "word": "清理中国天眼好像刷锅",
-      "onboard_time": 1677159510,
-      "rank": 34,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 151108,
       "num": 151108,
       "word": "玄商跳归墟",
       "onboard_time": 1677076114,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150848,
+      "num": 150848,
+      "word": "重庆列车穿行花海名场面回来了",
+      "onboard_time": 1677162393,
+      "rank": 42,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 150496,
@@ -8579,14 +8603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 143307,
-      "num": 143307,
-      "word": "混双",
-      "onboard_time": 1677161855,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142913,
       "num": 142913,
       "word": "张真源侧拍",
@@ -8649,6 +8665,14 @@
       "onboard_time": 1677063212,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139706,
+      "num": 139706,
+      "word": "马龙34岁还在进步",
+      "onboard_time": 1677162511,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 138972,
@@ -9329,6 +9353,14 @@
       "onboard_time": 1676828717,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 40520,
+      "num": 1468160,
+      "word": "端牢中国饭碗的底气",
+      "onboard_time": 1677162511,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35992,
