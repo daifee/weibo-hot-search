@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677133463012,
+  "endTime": 1677134351677,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -515,6 +515,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1439616,
+      "num": 1439616,
+      "word": "市政府工作组已进驻商丘公交公司",
+      "onboard_time": 1677129330,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1439293,
       "num": 1439293,
       "word": "ofo小黄车已彻底无法登录",
@@ -577,14 +585,6 @@
       "onboard_time": 1676899892,
       "rank": 34,
       "category": "科技,教育"
-    },
-    {
-      "raw_hot": 1388983,
-      "num": 1388983,
-      "word": "市政府工作组已进驻商丘公交公司",
-      "onboard_time": 1677129330,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1376668,
@@ -2075,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 674160,
+      "num": 450345,
+      "word": "徐志胜说自己刚红没那么多钱",
+      "onboard_time": 1677130649,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 673650,
       "num": 673650,
       "word": "月亮",
@@ -2161,6 +2169,14 @@
       "onboard_time": 1676985454,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 663444,
+      "num": 663444,
+      "word": "唐嫣钟汉良同框梦回何以笙箫默",
+      "onboard_time": 1677132569,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 660246,
@@ -2395,14 +2411,6 @@
       "category": "艺人,影视"
     },
     {
-      "raw_hot": 610585,
-      "num": 450345,
-      "word": "徐志胜说自己刚红没那么多钱",
-      "onboard_time": 1677130649,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 609978,
       "num": 609978,
       "word": "黄奕新剧身材",
@@ -2603,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573415,
+      "num": 573415,
+      "word": "研究称做饭可降低四成死亡率",
+      "onboard_time": 1677132209,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570842,
       "num": 527065,
       "word": "赵露思敷面膜自拍",
@@ -2795,14 +2811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 536952,
-      "num": 536952,
-      "word": "唐嫣钟汉良同框梦回何以笙箫默",
-      "onboard_time": 1677132569,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 536461,
       "num": 536461,
       "word": "不要眼眶一红就觉得人间不值得",
@@ -2977,6 +2985,14 @@
       "onboard_time": 1676883630,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 496302,
+      "num": 413721,
+      "word": "政府回应温泉水煮面被质疑不卫生",
+      "onboard_time": 1677132327,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496066,
@@ -4475,14 +4491,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 338648,
-      "num": 338648,
-      "word": "研究称做饭可降低四成死亡率",
-      "onboard_time": 1677132209,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338052,
       "num": 338052,
       "word": "中通回应60岁分拣工猝死",
@@ -5115,14 +5123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289142,
-      "num": 289142,
-      "word": "政府回应温泉水煮面被质疑不卫生",
-      "onboard_time": 1677132327,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288708,
       "num": 288708,
       "word": "王楚钦花在混双时间非常多",
@@ -5425,6 +5425,14 @@
       "onboard_time": 1676934859,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267087,
+      "num": 267087,
+      "word": "脑花帽",
+      "onboard_time": 1677133648,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 266774,
@@ -6009,6 +6017,14 @@
       "onboard_time": 1676928371,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227187,
+      "num": 170436,
+      "word": "女子举报丈夫与公职人员同居生女",
+      "onboard_time": 1677133951,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 227144,
@@ -8091,6 +8107,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107117,
+      "num": 107117,
+      "word": "这顿饭真的非做不可吗",
+      "onboard_time": 1677133110,
+      "rank": 46,
+      "category": "美食,情感"
+    },
+    {
+      "raw_hot": 105271,
+      "num": 105271,
+      "word": "哈士奇当警犬是什么体验",
+      "onboard_time": 1677133830,
+      "rank": 42,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 101857,
       "num": 101857,
       "word": "曼联vs莱斯特城",
@@ -8107,20 +8139,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 100288,
-      "num": 100288,
-      "word": "这顿饭真的非做不可吗",
-      "onboard_time": 1677133110,
-      "rank": 46,
-      "category": "美食,情感"
-    },
-    {
       "raw_hot": 99045,
       "num": 99045,
       "word": "eStar家乡美食试吃",
       "onboard_time": 1677131968,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98626,
+      "num": 98626,
+      "word": "多个厨具品牌直播正确拍蒜",
+      "onboard_time": 1677133349,
+      "rank": 49,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 97958,
@@ -8131,20 +8163,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 95894,
+      "num": 95894,
+      "word": "蛋仔派对失心熊",
+      "onboard_time": 1677134188,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94999,
       "num": 94999,
       "word": "虞书欣最新直播状态",
       "onboard_time": 1677097572,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94007,
-      "num": 94007,
-      "word": "多个厨具品牌直播正确拍蒜",
-      "onboard_time": 1677133349,
-      "rank": 49,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 93660,

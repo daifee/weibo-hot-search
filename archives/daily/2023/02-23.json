@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677133463012,
+  "endTime": 1677134351677,
   "band_list": [
     {
       "raw_hot": 2699441,
@@ -75,8 +75,8 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 1388983,
-      "num": 1388983,
+      "raw_hot": 1439616,
+      "num": 1439616,
       "word": "市政府工作组已进驻商丘公交公司",
       "onboard_time": 1677129330,
       "rank": 41,
@@ -235,6 +235,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 674160,
+      "num": 450345,
+      "word": "徐志胜说自己刚红没那么多钱",
+      "onboard_time": 1677130649,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 669565,
       "num": 669565,
       "word": "大学生吐槽洗澡太贵一次18元",
@@ -257,6 +265,14 @@
       "onboard_time": 1677110188,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 663444,
+      "num": 663444,
+      "word": "唐嫣钟汉良同框梦回何以笙箫默",
+      "onboard_time": 1677132569,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 660246,
@@ -315,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 610585,
-      "num": 450345,
-      "word": "徐志胜说自己刚红没那么多钱",
-      "onboard_time": 1677130649,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 609098,
       "num": 609098,
       "word": "杨紫范丞丞片场跳舞",
@@ -363,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 573415,
+      "num": 573415,
+      "word": "研究称做饭可降低四成死亡率",
+      "onboard_time": 1677132209,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547663,
       "num": 547663,
       "word": "爱奇艺首次实现全年运营盈利",
@@ -387,20 +403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536952,
-      "num": 536952,
-      "word": "唐嫣钟汉良同框梦回何以笙箫默",
-      "onboard_time": 1677132569,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 502259,
       "num": 502259,
       "word": "陈妍希几乎每天都对陈晓说我爱你",
       "onboard_time": 1677070470,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 496302,
+      "num": 413721,
+      "word": "政府回应温泉水煮面被质疑不卫生",
+      "onboard_time": 1677132327,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494757,
@@ -579,14 +595,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 338648,
-      "num": 338648,
-      "word": "研究称做饭可降低四成死亡率",
-      "onboard_time": 1677132209,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337660,
       "num": 337660,
       "word": "云陪伴大熊猫丫丫",
@@ -667,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289142,
-      "num": 289142,
-      "word": "政府回应温泉水煮面被质疑不卫生",
-      "onboard_time": 1677132327,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283179,
       "num": 283179,
       "word": "蒿俊闵",
@@ -745,6 +745,14 @@
       "onboard_time": 1677121649,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267087,
+      "num": 267087,
+      "word": "脑花帽",
+      "onboard_time": 1677133648,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 265829,
@@ -849,6 +857,14 @@
       "onboard_time": 1677107180,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227187,
+      "num": 170436,
+      "word": "女子举报丈夫与公职人员同居生女",
+      "onboard_time": 1677133951,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 223363,
@@ -1339,12 +1355,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 107117,
+      "num": 107117,
+      "word": "这顿饭真的非做不可吗",
+      "onboard_time": 1677133110,
+      "rank": 46,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 106880,
       "num": 106880,
       "word": "内蒙古阿拉善煤矿坍塌瞬间曝光",
       "onboard_time": 1677073113,
       "rank": 44,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 105271,
+      "num": 105271,
+      "word": "哈士奇当警犬是什么体验",
+      "onboard_time": 1677133830,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 101777,
@@ -1355,14 +1387,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 100288,
-      "num": 100288,
-      "word": "这顿饭真的非做不可吗",
-      "onboard_time": 1677133110,
-      "rank": 46,
-      "category": "美食,情感"
-    },
-    {
       "raw_hot": 99045,
       "num": 99045,
       "word": "eStar家乡美食试吃",
@@ -1371,12 +1395,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98626,
+      "num": 98626,
+      "word": "多个厨具品牌直播正确拍蒜",
+      "onboard_time": 1677133349,
+      "rank": 49,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 96909,
       "num": 96909,
       "word": "刘涛米兰时装周生图",
       "onboard_time": 1677076303,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 95894,
+      "num": 95894,
+      "word": "蛋仔派对失心熊",
+      "onboard_time": 1677134188,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 94999,
@@ -1393,14 +1433,6 @@
       "onboard_time": 1677069689,
       "rank": 46,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 94007,
-      "num": 94007,
-      "word": "多个厨具品牌直播正确拍蒜",
-      "onboard_time": 1677133349,
-      "rank": 49,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 90250,
