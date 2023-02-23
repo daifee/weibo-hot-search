@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677165636489,
+  "endTime": 1677166586960,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -6579,6 +6579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1075867,
+      "num": 1075867,
+      "word": "央视曝光个人电影投资骗局",
+      "onboard_time": 1677164372,
+      "rank": 3,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 1074639,
       "num": 1074639,
       "word": "樊振东摔倒自己都笑了",
@@ -6985,14 +6993,6 @@
       "onboard_time": 1676353352,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1027466,
-      "num": 1027466,
-      "word": "央视曝光个人电影投资骗局",
-      "onboard_time": 1677164372,
-      "rank": 3,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 1027355,
@@ -18651,6 +18651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 506412,
+      "num": 335456,
+      "word": "阿娇出发米兰时装周",
+      "onboard_time": 1677165931,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 506150,
       "num": 506150,
       "word": "深海",
@@ -18745,6 +18753,14 @@
       "onboard_time": 1675305765,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503491,
+      "num": 373333,
+      "word": "Somi生图",
+      "onboard_time": 1677164913,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 503417,
@@ -20265,14 +20281,6 @@
       "onboard_time": 1675304561,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 466780,
-      "num": 373333,
-      "word": "Somi生图",
-      "onboard_time": 1677164913,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 466411,
@@ -22441,6 +22449,14 @@
       "onboard_time": 1675236330,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421697,
+      "num": 311389,
+      "word": "蔡徐坤杜鹃同框",
+      "onboard_time": 1677166115,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 421616,
@@ -36979,6 +36995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231141,
+      "num": 231141,
+      "word": "张远带的可能是二货",
+      "onboard_time": 1677166352,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231077,
       "num": 231077,
       "word": "原来伊斯坦布尔是爱猫之城",
@@ -43451,6 +43475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180051,
+      "num": 180051,
+      "word": "六公主赞夏花",
+      "onboard_time": 1677165693,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179986,
       "num": 179986,
       "word": "河南省投资教育事业有多拼",
@@ -44051,6 +44083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175967,
+      "num": 175967,
+      "word": "李隼说马龙赛前打封闭上场",
+      "onboard_time": 1677164615,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175933,
       "num": 175933,
       "word": "万玛才旦黄轩新电影开机",
@@ -44337,6 +44377,14 @@
       "onboard_time": 1675829191,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 174508,
+      "num": 174508,
+      "word": "大爷银行取钱排队一小时频遭插队",
+      "onboard_time": 1677165631,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174493,
@@ -46771,6 +46819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157617,
+      "num": 157617,
+      "word": "KSG战胜XYG",
+      "onboard_time": 1677165393,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157419,
       "num": 157419,
       "word": "你被水果刺客劝退过吗",
@@ -47185,14 +47241,6 @@
       "onboard_time": 1675644330,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153150,
-      "num": 153150,
-      "word": "KSG战胜XYG",
-      "onboard_time": 1677165393,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 153126,
@@ -47865,14 +47913,6 @@
       "onboard_time": 1675560148,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146312,
-      "num": 146312,
-      "word": "李隼说马龙赛前打封闭上场",
-      "onboard_time": 1677164615,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 146211,
@@ -49963,6 +50003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119708,
+      "num": 119708,
+      "word": "贺峻霖绿色衬衫短裤造型",
+      "onboard_time": 1677165693,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 119671,
       "num": 119671,
       "word": "钎城学猫叫",
@@ -50520,14 +50568,6 @@
       "word": "今日雨水",
       "onboard_time": 1676762959,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103089,
-      "num": 103089,
-      "word": "大爷银行取钱排队一小时频遭插队",
-      "onboard_time": 1677165631,
-      "rank": 49,
       "category": "社会新闻"
     },
     {

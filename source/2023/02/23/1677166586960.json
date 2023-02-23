@@ -1,0 +1,410 @@
+{
+  "runTime": 1677166586960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3520591,
+        "num": 3520591,
+        "word": "Prada",
+        "onboard_time": 1677159271,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1773546,
+        "num": 1773546,
+        "word": "刘雯闭场",
+        "onboard_time": 1677162093,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170607,
+        "num": 1259916,
+        "word": "端牢中国饭碗的底气",
+        "onboard_time": 1677162511,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118870,
+        "num": 1118870,
+        "word": "甲流",
+        "onboard_time": 1677164133,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075867,
+        "num": 1075867,
+        "word": "央视曝光个人电影投资骗局",
+        "onboard_time": 1677164372,
+        "rank": 4,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 558002,
+        "num": 558002,
+        "word": "仙剑奇侠传3主演无滤镜定妆照",
+        "onboard_time": 1677148771,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518294,
+        "num": 518294,
+        "word": "新疆小伙1天拿到驾驶证",
+        "onboard_time": 1677154410,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454864,
+        "num": 454864,
+        "word": "委员提案独生子女父母养老政府解决",
+        "onboard_time": 1677157830,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 400052,
+        "num": 400052,
+        "word": "女子避雨时随手拍下人生的轮回",
+        "onboard_time": 1677156209,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340863,
+        "num": 340863,
+        "word": "马龙3比0樊振东",
+        "onboard_time": 1677157591,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506412,
+        "num": 335456,
+        "word": "阿娇出发米兰时装周",
+        "onboard_time": 1677165931,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 429510,
+        "num": 330724,
+        "word": "陈乔恩说如果能重来不会公开恋情",
+        "onboard_time": 1677148891,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 503491,
+        "num": 325523,
+        "word": "Somi生图",
+        "onboard_time": 1677164913,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 367804,
+        "num": 319869,
+        "word": "张小斐狐狸眼妆",
+        "onboard_time": 1677161015,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 421697,
+        "num": 311389,
+        "word": "蔡徐坤杜鹃同框",
+        "onboard_time": 1677166115,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 307929,
+        "num": 307929,
+        "word": "宋雨琦晒与许光汉合照",
+        "onboard_time": 1677163114,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306563,
+        "num": 306563,
+        "word": "中国男篮四后卫1助攻",
+        "onboard_time": 1677161254,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281092,
+        "num": 281092,
+        "word": "海底捞禁止自带菜",
+        "onboard_time": 1677137970,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267602,
+        "num": 267602,
+        "word": "企业月薪4万招人去非洲养鸡",
+        "onboard_time": 1677144155,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 259956,
+        "num": 259956,
+        "word": "大熊猫丫丫回国全面准备工作已进行",
+        "onboard_time": 1677149373,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647172,
+        "num": 259333,
+        "word": "男子多年求子不得查出竟是女儿身",
+        "onboard_time": 1677153630,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287588,
+        "num": 259149,
+        "word": "刘雯重返时装周首秀",
+        "onboard_time": 1677160832,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 258211,
+        "num": 258211,
+        "word": "我们的日子道歉",
+        "onboard_time": 1677148471,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256185,
+        "num": 256185,
+        "word": "柳智敏演技",
+        "onboard_time": 1677160293,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232412,
+        "num": 232412,
+        "word": "沈月李嘉琦合照",
+        "onboard_time": 1677150751,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231141,
+        "num": 231141,
+        "word": "张远带的可能是二货",
+        "onboard_time": 1677166352,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218161,
+        "num": 218161,
+        "word": "近5成韩国新婚夫妻不生子",
+        "onboard_time": 1677149974,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211914,
+        "num": 211914,
+        "word": "XYG",
+        "onboard_time": 1677156931,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202505,
+        "num": 202505,
+        "word": "甘肃地震",
+        "onboard_time": 1677145950,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201488,
+        "num": 201488,
+        "word": "女孩坠河溺水路人接力救回",
+        "onboard_time": 1677162872,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 199628,
+        "num": 199628,
+        "word": "李玟 希望你们可以等我回来",
+        "onboard_time": 1677157182,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197578,
+        "num": 197578,
+        "word": "重庆列车穿行花海名场面回来了",
+        "onboard_time": 1677162393,
+        "rank": 31,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 197332,
+        "num": 197332,
+        "word": "深圳一外卖小哥疑送餐时猝死",
+        "onboard_time": 1677152070,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 183350,
+        "num": 183350,
+        "word": "混双",
+        "onboard_time": 1677161855,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180051,
+        "num": 180051,
+        "word": "六公主赞夏花",
+        "onboard_time": 1677165693,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175967,
+        "num": 175967,
+        "word": "李隼说马龙赛前打封闭上场",
+        "onboard_time": 1677164615,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174508,
+        "num": 174508,
+        "word": "大爷银行取钱排队一小时频遭插队",
+        "onboard_time": 1677165631,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163012,
+        "num": 163012,
+        "word": "猫咪有时间观念吗",
+        "onboard_time": 1677150210,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157617,
+        "num": 157617,
+        "word": "KSG战胜XYG",
+        "onboard_time": 1677165393,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153643,
+        "num": 153643,
+        "word": "王濛方声明",
+        "onboard_time": 1677147270,
+        "rank": 39,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 151483,
+        "num": 151483,
+        "word": "1斤土豆在火锅店卖多少钱",
+        "onboard_time": 1677149012,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148892,
+        "num": 148892,
+        "word": "我们的日子",
+        "onboard_time": 1677162996,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147183,
+        "num": 147183,
+        "word": "张嘉倪夜游米兰随拍",
+        "onboard_time": 1677154169,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140656,
+        "num": 140656,
+        "word": "宝妈请闺蜜当育儿嫂做5休2月薪5500",
+        "onboard_time": 1677151170,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139666,
+        "num": 139666,
+        "word": "老人故意推倒摩托后去世继承人被起诉",
+        "onboard_time": 1677150512,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132315,
+        "num": 132315,
+        "word": "听说你喜欢我开分7.8",
+        "onboard_time": 1677161312,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122573,
+        "num": 122573,
+        "word": "张元英跳HowYouLikeThat",
+        "onboard_time": 1677152851,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119708,
+        "num": 119708,
+        "word": "贺峻霖绿色衬衫短裤造型",
+        "onboard_time": 1677165693,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107213,
+        "num": 107213,
+        "word": "清理中国天眼好像刷锅",
+        "onboard_time": 1677159510,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 106422,
+        "num": 106422,
+        "word": "宁至谦阮流筝破冰吻",
+        "onboard_time": 1677155611,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党带着新的承诺再出发#"
+    }
+  }
+}

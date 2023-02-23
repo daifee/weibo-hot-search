@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677165636489,
+  "endTime": 1677166586960,
   "band_list": [
     {
       "raw_hot": 4249897,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1118870,
+      "num": 1118870,
+      "word": "甲流",
+      "onboard_time": 1677164133,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1110962,
       "num": 1110962,
       "word": "iPhone15早期真机图曝光",
@@ -243,20 +251,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1075867,
+      "num": 1075867,
+      "word": "央视曝光个人电影投资骗局",
+      "onboard_time": 1677164372,
+      "rank": 3,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 1065371,
       "num": 1065371,
       "word": "老人故意推倒摩托后去世继承人被起诉",
       "onboard_time": 1677150512,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1027466,
-      "num": 1027466,
-      "word": "央视曝光个人电影投资骗局",
-      "onboard_time": 1677164372,
-      "rank": 3,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 1020666,
@@ -337,14 +345,6 @@
       "onboard_time": 1677141991,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 892777,
-      "num": 892777,
-      "word": "甲流",
-      "onboard_time": 1677164133,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 874587,
@@ -723,6 +723,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 506412,
+      "num": 335456,
+      "word": "阿娇出发米兰时装周",
+      "onboard_time": 1677165931,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 503491,
+      "num": 373333,
+      "word": "Somi生图",
+      "onboard_time": 1677164913,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 502259,
       "num": 502259,
       "word": "陈妍希几乎每天都对陈晓说我爱你",
@@ -777,14 +793,6 @@
       "onboard_time": 1677134490,
       "rank": 9,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 466780,
-      "num": 373333,
-      "word": "Somi生图",
-      "onboard_time": 1677164913,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 462929,
@@ -873,6 +881,14 @@
       "onboard_time": 1677107902,
       "rank": 12,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 421697,
+      "num": 311389,
+      "word": "蔡徐坤杜鹃同框",
+      "onboard_time": 1677166115,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 421616,
@@ -1579,6 +1595,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 231141,
+      "num": 231141,
+      "word": "张远带的可能是二货",
+      "onboard_time": 1677166352,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229529,
       "num": 229529,
       "word": "杨洋起诉娱乐自媒体侵权获赔",
@@ -1947,6 +1971,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 180051,
+      "num": 180051,
+      "word": "六公主赞夏花",
+      "onboard_time": 1677165693,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179642,
       "num": 179642,
       "word": "听说你喜欢我开分7.8",
@@ -1979,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175967,
+      "num": 175967,
+      "word": "李隼说马龙赛前打封闭上场",
+      "onboard_time": 1677164615,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175067,
       "num": 175067,
       "word": "胡明轩关键三分",
@@ -1993,6 +2033,14 @@
       "onboard_time": 1677076358,
       "rank": 29,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 174508,
+      "num": 174508,
+      "word": "大爷银行取钱排队一小时频遭插队",
+      "onboard_time": 1677165631,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173811,
@@ -2115,6 +2163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 157617,
+      "num": 157617,
+      "word": "KSG战胜XYG",
+      "onboard_time": 1677165393,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156111,
       "num": 156111,
       "word": "商丘公交涉多个劳动纠纷",
@@ -2152,14 +2208,6 @@
       "word": "蛋仔派对失心熊",
       "onboard_time": 1677134188,
       "rank": 47,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 153150,
-      "num": 153150,
-      "word": "KSG战胜XYG",
-      "onboard_time": 1677165393,
-      "rank": 41,
       "category": "游戏"
     },
     {
@@ -2201,14 +2249,6 @@
       "onboard_time": 1677148771,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146312,
-      "num": 146312,
-      "word": "李隼说马龙赛前打封闭上场",
-      "onboard_time": 1677164615,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 145076,
@@ -2403,6 +2443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119708,
+      "num": 119708,
+      "word": "贺峻霖绿色衬衫短裤造型",
+      "onboard_time": 1677165693,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118783,
       "num": 118783,
       "word": "灵梦上官婉儿三杀",
@@ -2473,14 +2521,6 @@
       "onboard_time": 1677073113,
       "rank": 44,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 103089,
-      "num": 103089,
-      "word": "大爷银行取钱排队一小时频遭插队",
-      "onboard_time": 1677165631,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101777,
