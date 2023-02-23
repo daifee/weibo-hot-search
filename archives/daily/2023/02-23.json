@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677159182856,
+  "endTime": 1677159806846,
   "band_list": [
     {
       "raw_hot": 4249897,
@@ -403,12 +403,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 712067,
+      "num": 712067,
+      "word": "Prada",
+      "onboard_time": 1677159271,
+      "rank": 3,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 689650,
       "num": 689650,
       "word": "水瓶座真的很适合搞事业",
       "onboard_time": 1677134907,
       "rank": 6,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 684739,
+      "num": 684739,
+      "word": "女子避雨时随手拍下人生的轮回",
+      "onboard_time": 1677156209,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 684231,
@@ -553,14 +569,6 @@
       "onboard_time": 1677132689,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 601641,
-      "num": 601641,
-      "word": "女子避雨时随手拍下人生的轮回",
-      "onboard_time": 1677156209,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 594061,
@@ -731,6 +739,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 462929,
+      "num": 399306,
+      "word": "张嘉倪夜游米兰随拍",
+      "onboard_time": 1677154169,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460682,
       "num": 460682,
       "word": "近期婴幼儿易感染人呼吸道合胞病毒",
@@ -745,6 +761,14 @@
       "onboard_time": 1677114449,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 442867,
+      "num": 374817,
+      "word": "委员提案独生子女父母养老政府解决",
+      "onboard_time": 1677157830,
+      "rank": 15,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 442354,
@@ -827,14 +851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 411929,
-      "num": 363515,
-      "word": "张嘉倪夜游米兰随拍",
-      "onboard_time": 1677154169,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 408743,
       "num": 408743,
       "word": "郑州有银行房贷利率上调至4.3%",
@@ -857,6 +873,14 @@
       "onboard_time": 1677135028,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 403975,
+      "num": 403975,
+      "word": "XYG",
+      "onboard_time": 1677156931,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 396822,
@@ -1107,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307596,
-      "num": 307596,
-      "word": "委员提案独生子女父母养老政府解决",
-      "onboard_time": 1677157830,
-      "rank": 15,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 307410,
       "num": 307410,
       "word": "妻子的浪漫旅行6收官",
@@ -1164,7 +1180,7 @@
     },
     {
       "raw_hot": 291011,
-      "num": 187441,
+      "num": 195789,
       "word": "吉利银河正式发布",
       "onboard_time": 1677156511,
       "rank": 30,
@@ -1177,14 +1193,6 @@
       "onboard_time": 1677077314,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286356,
-      "num": 286356,
-      "word": "XYG",
-      "onboard_time": 1677156931,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 283179,
@@ -1395,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256601,
+      "num": 256601,
+      "word": "中国男篮",
+      "onboard_time": 1677157529,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252232,
       "num": 252232,
       "word": "流浪地球2徐工集团合作起源",
@@ -1451,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235221,
+      "num": 235221,
+      "word": "李玟 希望你们可以等我回来",
+      "onboard_time": 1677157182,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231956,
       "num": 231956,
       "word": "周杰伦2022IFPI第九位",
@@ -1489,14 +1513,6 @@
       "onboard_time": 1677107180,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225474,
-      "num": 225474,
-      "word": "中国男篮",
-      "onboard_time": 1677157529,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 223363,
@@ -1771,14 +1787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182104,
-      "num": 182104,
-      "word": "李玟 希望你们可以等我回来",
-      "onboard_time": 1677157182,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181952,
       "num": 181952,
       "word": "找人类帮忙的小猫",
@@ -1939,6 +1947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160682,
+      "num": 160682,
+      "word": "吉利银河",
+      "onboard_time": 1677157950,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 158892,
       "num": 158892,
       "word": "上野千鹤子对谈汤山玲子",
@@ -1979,6 +1995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152584,
+      "num": 152584,
+      "word": "今屿梦奇无敌了",
+      "onboard_time": 1677159271,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150048,
       "num": 150048,
       "word": "洱海绝美丁达尔效应如流光瀑布",
@@ -2009,14 +2033,6 @@
       "onboard_time": 1677148771,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147214,
-      "num": 147214,
-      "word": "吉利银河",
-      "onboard_time": 1677157950,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 145076,
@@ -2155,6 +2171,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 126456,
+      "num": 126456,
+      "word": "平台回应外卖骑手送餐时猝死",
+      "onboard_time": 1677159571,
+      "rank": 44,
+      "category": "社会负面,科技"
+    },
+    {
       "raw_hot": 125514,
       "num": 125514,
       "word": "毛不易不愧是be王者",
@@ -2203,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117078,
+      "num": 117078,
+      "word": "峨眉山景区辟谣猴子被拘留",
+      "onboard_time": 1677158670,
+      "rank": 45,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 116367,
       "num": 116367,
       "word": "黎明觉醒",
@@ -2219,14 +2251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113531,
-      "num": 113531,
-      "word": "峨眉山景区辟谣猴子被拘留",
-      "onboard_time": 1677158670,
-      "rank": 45,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 112732,
       "num": 112732,
       "word": "峨眉山的猴子你们好日子到头了",
@@ -2241,6 +2265,14 @@
       "onboard_time": 1677072273,
       "rank": 43,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 109835,
+      "num": 109835,
+      "word": "明日之后2亿玩家集结",
+      "onboard_time": 1677158550,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 106880,
@@ -2273,6 +2305,14 @@
       "onboard_time": 1677133349,
       "rank": 49,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 97334,
+      "num": 168769,
+      "word": "清理中国天眼好像刷锅",
+      "onboard_time": 1677159510,
+      "rank": 34,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 96909,

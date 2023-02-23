@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677159182856,
+  "endTime": 1677159806846,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -2091,6 +2091,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 712067,
+      "num": 712067,
+      "word": "Prada",
+      "onboard_time": 1677159271,
+      "rank": 3,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 710636,
       "num": 710636,
       "word": "iPhone15Pro机型有望配8GB内存",
@@ -2209,6 +2217,14 @@
       "onboard_time": 1676899410,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 684739,
+      "num": 684739,
+      "word": "女子避雨时随手拍下人生的轮回",
+      "onboard_time": 1677156209,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 683125,
@@ -2657,14 +2673,6 @@
       "onboard_time": 1677031290,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 601641,
-      "num": 601641,
-      "word": "女子避雨时随手拍下人生的轮回",
-      "onboard_time": 1677156209,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 600937,
@@ -3523,6 +3531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 462929,
+      "num": 399306,
+      "word": "张嘉倪夜游米兰随拍",
+      "onboard_time": 1677154169,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461524,
       "num": 461524,
       "word": "张颂文饭还没放下就营业了",
@@ -3673,6 +3689,14 @@
       "onboard_time": 1676863050,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442867,
+      "num": 374817,
+      "word": "委员提案独生子女父母养老政府解决",
+      "onboard_time": 1677157830,
+      "rank": 15,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 442354,
@@ -4027,14 +4051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411929,
-      "num": 363515,
-      "word": "张嘉倪夜游米兰随拍",
-      "onboard_time": 1677154169,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 410662,
       "num": 410662,
       "word": "松本零士去世",
@@ -4105,6 +4121,14 @@
       "onboard_time": 1677061954,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403975,
+      "num": 403975,
+      "word": "XYG",
+      "onboard_time": 1677156931,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 401816,
@@ -5387,14 +5411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 307596,
-      "num": 307596,
-      "word": "委员提案独生子女父母养老政府解决",
-      "onboard_time": 1677157830,
-      "rank": 15,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 307410,
       "num": 307410,
       "word": "妻子的浪漫旅行6收官",
@@ -5604,7 +5620,7 @@
     },
     {
       "raw_hot": 291011,
-      "num": 187441,
+      "num": 195789,
       "word": "吉利银河正式发布",
       "onboard_time": 1677156511,
       "rank": 30,
@@ -5665,14 +5681,6 @@
       "onboard_time": 1676868935,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 286356,
-      "num": 286356,
-      "word": "XYG",
-      "onboard_time": 1677156931,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 286211,
@@ -6171,6 +6179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256601,
+      "num": 256601,
+      "word": "中国男篮",
+      "onboard_time": 1677157529,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256467,
       "num": 256467,
       "word": "土豆博士刘杰回应18元5片土豆",
@@ -6467,6 +6483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235221,
+      "num": 235221,
+      "word": "李玟 希望你们可以等我回来",
+      "onboard_time": 1677157182,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235042,
       "num": 235042,
       "word": "盘点考研查分的高燃瞬间",
@@ -6665,14 +6689,6 @@
       "onboard_time": 1677048574,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225474,
-      "num": 225474,
-      "word": "中国男篮",
-      "onboard_time": 1677157529,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 224951,
@@ -7651,14 +7667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182104,
-      "num": 182104,
-      "word": "李玟 希望你们可以等我回来",
-      "onboard_time": 1677157182,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181952,
       "num": 181952,
       "word": "找人类帮忙的小猫",
@@ -8235,6 +8243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160682,
+      "num": 160682,
+      "word": "吉利银河",
+      "onboard_time": 1677157950,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 160043,
       "num": 160043,
       "word": "朱志鑫翻唱youth",
@@ -8379,6 +8395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152584,
+      "num": 152584,
+      "word": "今屿梦奇无敌了",
+      "onboard_time": 1677159271,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152390,
       "num": 152390,
       "word": "二月二",
@@ -8433,14 +8457,6 @@
       "onboard_time": 1677148771,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147214,
-      "num": 147214,
-      "word": "吉利银河",
-      "onboard_time": 1677157950,
-      "rank": 37,
-      "category": "科技"
     },
     {
       "raw_hot": 146710,
@@ -8779,6 +8795,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 126456,
+      "num": 126456,
+      "word": "平台回应外卖骑手送餐时猝死",
+      "onboard_time": 1677159571,
+      "rank": 44,
+      "category": "社会负面,科技"
+    },
+    {
       "raw_hot": 125810,
       "num": 125810,
       "word": "社会我玲姐 衣服越粉打人越狠",
@@ -8899,6 +8923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117078,
+      "num": 117078,
+      "word": "峨眉山景区辟谣猴子被拘留",
+      "onboard_time": 1677158670,
+      "rank": 45,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 117017,
       "num": 117017,
       "word": "河北保定警方悬赏2万元通缉嫌犯",
@@ -8931,14 +8963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 113531,
-      "num": 113531,
-      "word": "峨眉山景区辟谣猴子被拘留",
-      "onboard_time": 1677158670,
-      "rank": 45,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 112721,
       "num": 112721,
       "word": "光渊 刺挠",
@@ -8969,6 +8993,14 @@
       "onboard_time": 1676815472,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 109835,
+      "num": 109835,
+      "word": "明日之后2亿玩家集结",
+      "onboard_time": 1677158550,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 108705,
@@ -9025,6 +9057,14 @@
       "onboard_time": 1677069210,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97334,
+      "num": 168769,
+      "word": "清理中国天眼好像刷锅",
+      "onboard_time": 1677159510,
+      "rank": 34,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 96852,
