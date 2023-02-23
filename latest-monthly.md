@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/01 00:26:13 ~ 2023/02/23 15:17:36
+本榜单时间：2023/02/01 00:26:13 ~ 2023/02/23 15:33:52
 </p>
 </blockquote>
 <p>
@@ -5625,6 +5625,12 @@ iG正统在iG（热度：980061）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AE%B6%E5%BA%AD8.9%E5%B9%B4%E6%94%B6%E5%85%A5%E6%89%8D%E8%83%BD%E4%B9%B0%E6%88%BF%23" target="weibo">
+韩国家庭8.9年收入才能买房（热度：975071）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E4%B8%8A%E9%94%99%E9%AB%98%E9%93%81%E4%BA%86%23" target="weibo">
 许凯上错高铁了（热度：974020）
 </a>
@@ -6005,12 +6011,6 @@ RNG官宣教练Heart离队（热度：939035）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%B1%E7%BE%8E%E6%96%B9%E8%A2%AD%E5%87%BB%E4%B8%AD%E5%9B%BD%E9%A3%9E%E8%89%87%E6%8F%90%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89%23" target="weibo">
 中方就美方袭击中国飞艇提严正交涉（热度：934155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23SMTOWN%E6%9B%BE%E5%8F%8D%E5%AF%B9%E5%8A%A0%E5%85%A5%E4%B8%AD%E5%9B%BD%E6%88%90%E5%91%98%23" target="weibo">
-SMTOWN曾反对加入中国成员（热度：933992）
 </a>
 </li>
 
