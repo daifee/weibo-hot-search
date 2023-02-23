@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677129476437,
+  "endTime": 1677130428625,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -1171,6 +1171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 977377,
+      "num": 977377,
+      "word": "张杰演唱会门票",
+      "onboard_time": 1677128193,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 975681,
       "num": 975681,
       "word": "不能让她们怕穿碎花裙子",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1677111688,
       "rank": 7,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 870532,
-      "num": 870532,
-      "word": "张杰演唱会门票",
-      "onboard_time": 1677128193,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 870341,
@@ -2577,6 +2577,14 @@
       "onboard_time": 1676896949,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 567987,
+      "num": 523545,
+      "word": "骗子为骗钱竟造一整个派出所",
+      "onboard_time": 1677129153,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 564698,
@@ -3811,6 +3819,22 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 388479,
+      "num": 388479,
+      "word": "郑钧说刘芸是自己的一面镜子",
+      "onboard_time": 1677129870,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 387846,
+      "num": 387846,
+      "word": "女朋友是收纳癖是什么体验",
+      "onboard_time": 1677126935,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 386989,
       "num": 386989,
       "word": "家长开门没想到把2岁女童手指夹断",
@@ -3907,6 +3931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379232,
+      "num": 379232,
+      "word": "iPhone15或仍采用物理按键",
+      "onboard_time": 1677126033,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 378798,
       "num": 378798,
       "word": "张天爱前任4杀青剧照",
@@ -3945,14 +3977,6 @@
       "onboard_time": 1676953956,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 374973,
-      "num": 374973,
-      "word": "女朋友是收纳癖是什么体验",
-      "onboard_time": 1677126935,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 374755,
@@ -4123,6 +4147,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 363431,
+      "num": 363431,
+      "word": "吴磊赵今麦雪中心动注视版海报",
+      "onboard_time": 1677129032,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362287,
       "num": 362287,
       "word": "小学校长回应班主任多次收礼",
@@ -4209,14 +4241,6 @@
       "onboard_time": 1676861967,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 355995,
-      "num": 355995,
-      "word": "iPhone15或仍采用物理按键",
-      "onboard_time": 1677126033,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 355967,
@@ -5163,6 +5187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281095,
+      "num": 281095,
+      "word": "原子之心",
+      "onboard_time": 1677128849,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280631,
       "num": 280631,
       "word": "刘雯出发米兰时装周",
@@ -5739,6 +5771,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 236489,
+      "num": 236489,
+      "word": "市政府工作组已进驻商丘公交公司",
+      "onboard_time": 1677129330,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235445,
       "num": 235445,
       "word": "刘宇宁直播",
@@ -5777,14 +5817,6 @@
       "onboard_time": 1676848941,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 232212,
-      "num": 232212,
-      "word": "原子之心",
-      "onboard_time": 1677128849,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 231984,
@@ -5856,14 +5888,6 @@
       "word": "明中严冰be了",
       "onboard_time": 1676823268,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 228252,
-      "num": 228252,
-      "word": "吴磊赵今麦雪中心动注视版海报",
-      "onboard_time": 1677129032,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -7035,6 +7059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171957,
+      "num": 171957,
+      "word": "郑恺健身追剧vlog",
+      "onboard_time": 1677129449,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171650,
       "num": 171650,
       "word": "蔡徐坤阳台随拍照",
@@ -7371,12 +7403,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157809,
+      "num": 157809,
+      "word": "上野千鹤子对谈汤山玲子",
+      "onboard_time": 1677130230,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 156631,
       "num": 156631,
       "word": "官方通报城改办主任群发不雅信息",
       "onboard_time": 1676957553,
       "rank": 47,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 156111,
+      "num": 156111,
+      "word": "商丘公交涉多个劳动纠纷",
+      "onboard_time": 1677130169,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155834,
@@ -7459,14 +7507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151680,
-      "num": 151680,
-      "word": "骗子为骗钱竟造一整个派出所",
-      "onboard_time": 1677129153,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151108,
       "num": 151108,
       "word": "玄商跳归墟",
@@ -7484,7 +7524,7 @@
     },
     {
       "raw_hot": 149953,
-      "num": 364421,
+      "num": 383355,
       "word": "原来集装箱还能用来种菜",
       "onboard_time": 1677125492,
       "rank": 39,
@@ -7651,12 +7691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136877,
-      "num": 136877,
-      "word": "市政府工作组已进驻商丘公交公司",
-      "onboard_time": 1677129330,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 136925,
+      "num": 136925,
+      "word": "路人视角下的宋雨琦海外人气",
+      "onboard_time": 1677129567,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 136129,
@@ -7819,6 +7859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122561,
+      "num": 122561,
+      "word": "内蒙古坍塌煤矿伤者讲述事发情况",
+      "onboard_time": 1677130052,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 122498,
       "num": 122498,
       "word": "邓超 俞白眉",
@@ -7841,14 +7889,6 @@
       "onboard_time": 1677072152,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119823,
-      "num": 119823,
-      "word": "郑恺健身追剧vlog",
-      "onboard_time": 1677129449,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 117677,
@@ -8171,7 +8211,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28255,
+      "raw_hot": 28655,
       "num": 1313717,
       "word": "春日里有仪式感的9件小事",
       "onboard_time": 1677110428,

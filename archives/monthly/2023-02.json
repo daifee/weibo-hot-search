@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677129476437,
+  "endTime": 1677130428625,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -7419,6 +7419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 977377,
+      "num": 977377,
+      "word": "张杰演唱会门票",
+      "onboard_time": 1677128193,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 977315,
       "num": 977315,
       "word": "格莱美",
@@ -8817,14 +8825,6 @@
       "onboard_time": 1676557290,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 870532,
-      "num": 870532,
-      "word": "张杰演唱会门票",
-      "onboard_time": 1677128193,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 870341,
@@ -15977,6 +15977,14 @@
       "onboard_time": 1675422989,
       "rank": 26,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 567987,
+      "num": 523545,
+      "word": "骗子为骗钱竟造一整个派出所",
+      "onboard_time": 1677129153,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567814,
@@ -24027,6 +24035,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 388479,
+      "num": 388479,
+      "word": "郑钧说刘芸是自己的一面镜子",
+      "onboard_time": 1677129870,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388466,
       "num": 388466,
       "word": "新Mac值不值得买",
@@ -24057,6 +24073,14 @@
       "onboard_time": 1675310917,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387846,
+      "num": 387846,
+      "word": "女朋友是收纳癖是什么体验",
+      "onboard_time": 1677126935,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 387711,
@@ -24459,6 +24483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379232,
+      "num": 379232,
+      "word": "iPhone15或仍采用物理按键",
+      "onboard_time": 1677126033,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 379208,
       "num": 379208,
       "word": "勇士向NBA投诉开拓者",
@@ -24769,14 +24801,6 @@
       "onboard_time": 1676346696,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 374973,
-      "num": 374973,
-      "word": "女朋友是收纳癖是什么体验",
-      "onboard_time": 1677126935,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 374755,
@@ -25467,6 +25491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363431,
+      "num": 363431,
+      "word": "吴磊赵今麦雪中心动注视版海报",
+      "onboard_time": 1677129032,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363400,
       "num": 363400,
       "word": "YG新女团PHARITA介绍视频",
@@ -25865,14 +25897,6 @@
       "onboard_time": 1676861967,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 355995,
-      "num": 355995,
-      "word": "iPhone15或仍采用物理按键",
-      "onboard_time": 1677126033,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 355967,
@@ -31427,6 +31451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 281095,
+      "num": 281095,
+      "word": "原子之心",
+      "onboard_time": 1677128849,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281040,
       "num": 281040,
       "word": "我老了也要这么高兴",
@@ -35659,6 +35691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236489,
+      "num": 236489,
+      "word": "市政府工作组已进驻商丘公交公司",
+      "onboard_time": 1677129330,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236473,
       "num": 236473,
       "word": "元宵节文案",
@@ -36041,14 +36081,6 @@
       "onboard_time": 1675509451,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232212,
-      "num": 232212,
-      "word": "原子之心",
-      "onboard_time": 1677128849,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 232089,
@@ -36537,14 +36569,6 @@
       "onboard_time": 1675996411,
       "rank": 42,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 228252,
-      "num": 228252,
-      "word": "吴磊赵今麦雪中心动注视版海报",
-      "onboard_time": 1677129032,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 228162,
@@ -43731,6 +43755,14 @@
       "category": "影视,旅游"
     },
     {
+      "raw_hot": 171957,
+      "num": 171957,
+      "word": "郑恺健身追剧vlog",
+      "onboard_time": 1677129449,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171715,
       "num": 171715,
       "word": "杨紫199爱条纹衬衫饭拍路透",
@@ -45731,6 +45763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157809,
+      "num": 157809,
+      "word": "上野千鹤子对谈汤山玲子",
+      "onboard_time": 1677130230,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 157778,
       "num": 157778,
       "word": "土耳其数名儿童被困超130小时后获救",
@@ -45857,6 +45897,14 @@
       "onboard_time": 1676446411,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156111,
+      "num": 156111,
+      "word": "商丘公交涉多个劳动纠纷",
+      "onboard_time": 1677130169,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156010,
@@ -46291,14 +46339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 151680,
-      "num": 151680,
-      "word": "骗子为骗钱竟造一整个派出所",
-      "onboard_time": 1677129153,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151626,
       "num": 151626,
       "word": "赵梦跳伞时喊郑秀妍的名字",
@@ -46444,7 +46484,7 @@
     },
     {
       "raw_hot": 149953,
-      "num": 364421,
+      "num": 383355,
       "word": "原来集装箱还能用来种菜",
       "onboard_time": 1677125492,
       "rank": 39,
@@ -47571,12 +47611,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 136877,
-      "num": 136877,
-      "word": "市政府工作组已进驻商丘公交公司",
-      "onboard_time": 1677129330,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 136925,
+      "num": 136925,
+      "word": "路人视角下的宋雨琦海外人气",
+      "onboard_time": 1677129567,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 136872,
@@ -48627,6 +48667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122561,
+      "num": 122561,
+      "word": "内蒙古坍塌煤矿伤者讲述事发情况",
+      "onboard_time": 1677130052,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 122221,
       "num": 122221,
       "word": "高叶谈边境风云窒息戏",
@@ -48761,14 +48809,6 @@
       "onboard_time": 1676311037,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119823,
-      "num": 119823,
-      "word": "郑恺健身追剧vlog",
-      "onboard_time": 1677129449,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 119671,
@@ -50803,20 +50843,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 28655,
+      "num": 1313717,
+      "word": "春日里有仪式感的9件小事",
+      "onboard_time": 1677110428,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28544,
       "num": 28195,
       "word": "鲍蕾说陆毅胆量有但不多",
       "onboard_time": 1676574494,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28255,
-      "num": 1313717,
-      "word": "春日里有仪式感的9件小事",
-      "onboard_time": 1677110428,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27975,

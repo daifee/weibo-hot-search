@@ -1,0 +1,410 @@
+{
+  "runTime": 1677130428625,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1436210,
+        "num": 1436210,
+        "word": "乌克兰要求停售原子之心",
+        "onboard_time": 1677125853,
+        "rank": 0,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 977377,
+        "num": 977377,
+        "word": "张杰演唱会门票",
+        "onboard_time": 1677128193,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28655,
+        "num": 873848,
+        "word": "春日里有仪式感的9件小事",
+        "onboard_time": 1677110428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845978,
+        "num": 845978,
+        "word": "狂飙里的猪脚面是张颂文改的",
+        "onboard_time": 1677117327,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 837646,
+        "num": 837646,
+        "word": "商丘公交发通告表示确保不停运",
+        "onboard_time": 1677127532,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1311333,
+        "num": 830586,
+        "word": "每周两次外卖或增5成死亡率",
+        "onboard_time": 1677122969,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809510,
+        "num": 809510,
+        "word": "女生拼多多网购改地址遭商家侮辱",
+        "onboard_time": 1677116068,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725735,
+        "num": 725735,
+        "word": "蛋仔派对",
+        "onboard_time": 1677126512,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 580210,
+        "num": 580210,
+        "word": "淘宝公布2023年度丑东西",
+        "onboard_time": 1677123029,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 545112,
+        "num": 545112,
+        "word": "美国5名环境顾问前往俄亥俄州时坠机身亡",
+        "onboard_time": 1677125554,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567987,
+        "num": 523545,
+        "word": "骗子为骗钱竟造一整个派出所",
+        "onboard_time": 1677129153,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446307,
+        "num": 446307,
+        "word": "突然明白为什么会有卷面分",
+        "onboard_time": 1677120569,
+        "rank": 11,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 388479,
+        "num": 388479,
+        "word": "郑钧说刘芸是自己的一面镜子",
+        "onboard_time": 1677129870,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387846,
+        "num": 387846,
+        "word": "女朋友是收纳癖是什么体验",
+        "onboard_time": 1677126935,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91589,
+        "num": 383355,
+        "word": "原来集装箱还能用来种菜",
+        "onboard_time": 1677125492,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488880,
+        "num": 381624,
+        "word": "高学历低龄老人线上求职碰壁",
+        "onboard_time": 1677118349,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421121,
+        "num": 381052,
+        "word": "超5成男性每周点3次以上外卖",
+        "onboard_time": 1677123448,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379232,
+        "num": 379232,
+        "word": "iPhone15或仍采用物理按键",
+        "onboard_time": 1677126033,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 363431,
+        "num": 363431,
+        "word": "吴磊赵今麦雪中心动注视版海报",
+        "onboard_time": 1677129032,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314930,
+        "num": 314930,
+        "word": "交通局回应商丘公交因亏损严重将停运",
+        "onboard_time": 1677124353,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808029,
+        "num": 313880,
+        "word": "肖战米兰看秀造型大片",
+        "onboard_time": 1677126757,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 726570,
+        "num": 313745,
+        "word": "上海浦东新区海域发生M0.8级地震",
+        "onboard_time": 1677126272,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312101,
+        "num": 312101,
+        "word": "刘烨胡军文咏珊民国氛围感",
+        "onboard_time": 1677128013,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284517,
+        "num": 284517,
+        "word": "妻子的浪漫旅行6收官",
+        "onboard_time": 1677127772,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281095,
+        "num": 281095,
+        "word": "原子之心",
+        "onboard_time": 1677128849,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268287,
+        "num": 268287,
+        "word": "王一博扮奥特曼跳breaking",
+        "onboard_time": 1677120326,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248203,
+        "num": 248203,
+        "word": "五哈3官宣定档",
+        "onboard_time": 1677119007,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239710,
+        "num": 239710,
+        "word": "大侦探",
+        "onboard_time": 1677127655,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236489,
+        "num": 236489,
+        "word": "市政府工作组已进驻商丘公交公司",
+        "onboard_time": 1677129330,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234214,
+        "num": 234214,
+        "word": "郑州有银行房贷利率上调至4.3%",
+        "onboard_time": 1677122248,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 205496,
+        "num": 205496,
+        "word": "美媒称韩国部队锅是美军剩菜",
+        "onboard_time": 1677110908,
+        "rank": 30,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 204941,
+        "num": 204941,
+        "word": "春楠刘诗诗合照",
+        "onboard_time": 1677123630,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 199485,
+        "num": 199485,
+        "word": "拜登离开波兰上飞机时摔倒",
+        "onboard_time": 1677112289,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 185085,
+        "num": 185085,
+        "word": "近期婴幼儿易感染人呼吸道合胞病毒",
+        "onboard_time": 1677119487,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182290,
+        "num": 182290,
+        "word": "云陪伴大熊猫丫丫",
+        "onboard_time": 1677125369,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171957,
+        "num": 171957,
+        "word": "郑恺健身追剧vlog",
+        "onboard_time": 1677129449,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160906,
+        "num": 160906,
+        "word": "别人直播带货这位老师直播带人",
+        "onboard_time": 1677127113,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157809,
+        "num": 157809,
+        "word": "上野千鹤子对谈汤山玲子",
+        "onboard_time": 1677130230,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156111,
+        "num": 156111,
+        "word": "商丘公交涉多个劳动纠纷",
+        "onboard_time": 1677130169,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148892,
+        "num": 148892,
+        "word": "菲律宾版花泽类",
+        "onboard_time": 1677117266,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145098,
+        "num": 145098,
+        "word": "骆驼界的高启强",
+        "onboard_time": 1677126332,
+        "rank": 40,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 144772,
+        "num": 144772,
+        "word": "毛不易演唱会重启",
+        "onboard_time": 1677127414,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139543,
+        "num": 139543,
+        "word": "塔吉克斯坦发生7.2级地震",
+        "onboard_time": 1677114151,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136925,
+        "num": 136925,
+        "word": "路人视角下的宋雨琦海外人气",
+        "onboard_time": 1677129567,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126391,
+        "num": 126391,
+        "word": "市监局回应沪上阿姨图片被指不雅",
+        "onboard_time": 1677123566,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126245,
+        "num": 126245,
+        "word": "爱奇艺能否复制狂飙的成功",
+        "onboard_time": 1677115709,
+        "rank": 45,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 123358,
+        "num": 123358,
+        "word": "iPhone15采用更大的6.2英寸屏",
+        "onboard_time": 1677114449,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 122561,
+        "num": 122561,
+        "word": "内蒙古坍塌煤矿伤者讲述事发情况",
+        "onboard_time": 1677130052,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 102346,
+        "num": 102346,
+        "word": "王鹤棣时宴雨中撑伞",
+        "onboard_time": 1677114570,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101862,
+        "num": 101862,
+        "word": "SMTOWN虚拟偶像问候视频",
+        "onboard_time": 1677121589,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#解决卡脖子问题要打牢基础研究的地基#"
+    }
+  }
+}
