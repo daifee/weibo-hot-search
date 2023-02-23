@@ -1,0 +1,410 @@
+{
+  "runTime": 1677140687590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2273359,
+        "num": 2273359,
+        "word": "王濛违约被公司起诉",
+        "onboard_time": 1677138810,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1502151,
+        "num": 1502151,
+        "word": "海底捞禁止自带菜",
+        "onboard_time": 1677137970,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365435,
+        "num": 1068785,
+        "word": "大熊猫永明与女儿回家画面",
+        "onboard_time": 1677137610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950125,
+        "num": 950125,
+        "word": "女子举报丈夫与公职人员同居生女",
+        "onboard_time": 1677133951,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 929471,
+        "num": 929471,
+        "word": "EXO最新完整体合影",
+        "onboard_time": 1677138149,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2111592,
+        "num": 923711,
+        "word": "韩国家庭8.9年收入才能买房",
+        "onboard_time": 1677136349,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 787294,
+        "num": 787294,
+        "word": "苗苗说曾经觉得自己不配被人爱",
+        "onboard_time": 1677138149,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 744896,
+        "num": 744896,
+        "word": "外卖员穿工装禁入成都高端商场",
+        "onboard_time": 1677136110,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613040,
+        "num": 613040,
+        "word": "水瓶座真的很适合搞事业",
+        "onboard_time": 1677134907,
+        "rank": 8,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 577359,
+        "num": 577359,
+        "word": "巴奴火锅致歉",
+        "onboard_time": 1677138990,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645358,
+        "num": 577068,
+        "word": "田曦薇初中时期的表演视频",
+        "onboard_time": 1677137728,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575734,
+        "num": 575734,
+        "word": "李玟说这些年都靠右腿支撑全身",
+        "onboard_time": 1677135808,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509716,
+        "num": 509716,
+        "word": "特朗普访毒列车事发地带1.4万瓶特朗普牌矿泉水",
+        "onboard_time": 1677135028,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 439149,
+        "num": 439149,
+        "word": "老默不送鱼改反诈了",
+        "onboard_time": 1677138631,
+        "rank": 13,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 427116,
+        "num": 427116,
+        "word": "李乃文发文反对家长自我意识过剩",
+        "onboard_time": 1677139350,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405989,
+        "num": 405989,
+        "word": "骗子为骗钱竟造一整个派出所",
+        "onboard_time": 1677129153,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382562,
+        "num": 382562,
+        "word": "男子左眼皮异常抖动有虫游走",
+        "onboard_time": 1677139408,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382376,
+        "num": 382376,
+        "word": "研究称做饭可降低四成死亡率",
+        "onboard_time": 1677132209,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342481,
+        "num": 342481,
+        "word": "梁万年表示本轮疫情已基本结束",
+        "onboard_time": 1677138391,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323394,
+        "num": 323394,
+        "word": "陈楚生工作室除了音乐就是喝茶",
+        "onboard_time": 1677135687,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322360,
+        "num": 322360,
+        "word": "我想和你唱第四季回归",
+        "onboard_time": 1677140192,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312773,
+        "num": 312773,
+        "word": "肖战米兰看秀造型大片",
+        "onboard_time": 1677126757,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 294419,
+        "num": 294419,
+        "word": "教体局回应小学副班长受贿数万元",
+        "onboard_time": 1677135028,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 279611,
+        "num": 279611,
+        "word": "我们的日子台词疑似抄袭天官赐福",
+        "onboard_time": 1677137069,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273733,
+        "num": 273733,
+        "word": "杨幂童年古装旧照",
+        "onboard_time": 1677140249,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270355,
+        "num": 270355,
+        "word": "王心凌潘玮柏合照",
+        "onboard_time": 1677137848,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257646,
+        "num": 257646,
+        "word": "乌克兰要求停售原子之心",
+        "onboard_time": 1677125853,
+        "rank": 26,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 246061,
+        "num": 246061,
+        "word": "徐志胜说自己刚红没那么多钱",
+        "onboard_time": 1677130649,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244336,
+        "num": 244336,
+        "word": "言承旭谈为什么接演夏花",
+        "onboard_time": 1677137190,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226563,
+        "num": 226563,
+        "word": "国务院联防联控机制发布会",
+        "onboard_time": 1677137249,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 207630,
+        "num": 207630,
+        "word": "iPhone15或仍采用物理按键",
+        "onboard_time": 1677126033,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 197035,
+        "num": 197035,
+        "word": "五哈邓超陈赫探班种地吧路透",
+        "onboard_time": 1677138929,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194433,
+        "num": 194433,
+        "word": "蛋仔派对",
+        "onboard_time": 1677126512,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193794,
+        "num": 193794,
+        "word": "白鹿王鹤棣周柯宇同框路透",
+        "onboard_time": 1677138870,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185725,
+        "num": 185725,
+        "word": "美国5名环境顾问前往俄亥俄州时坠机身亡",
+        "onboard_time": 1677125554,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178746,
+        "num": 178746,
+        "word": "张杰演唱会门票",
+        "onboard_time": 1677128193,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178331,
+        "num": 178331,
+        "word": "脑花帽",
+        "onboard_time": 1677133648,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173287,
+        "num": 173287,
+        "word": "上海浦东新区海域发生M0.8级地震",
+        "onboard_time": 1677126272,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168102,
+        "num": 168102,
+        "word": "龚俊把席子当成稻草",
+        "onboard_time": 1677137308,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167814,
+        "num": 167814,
+        "word": "男子胖到坐着睡梦游都是去做饭",
+        "onboard_time": 1677135630,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165172,
+        "num": 165172,
+        "word": "市政府工作组已进驻商丘公交公司",
+        "onboard_time": 1677129330,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162782,
+        "num": 162782,
+        "word": "雪花杨思宇分手",
+        "onboard_time": 1677140551,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160158,
+        "num": 160158,
+        "word": "流浪地球2",
+        "onboard_time": 1677132808,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143133,
+        "num": 143133,
+        "word": "内蒙古煤矿坍塌事故相关人员被控制",
+        "onboard_time": 1677134490,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 131213,
+        "num": 131213,
+        "word": "张新成遛道具狗",
+        "onboard_time": 1677137848,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287965,
+        "num": 130843,
+        "word": "唐嫣钟汉良同框梦回何以笙箫默",
+        "onboard_time": 1677132569,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129507,
+        "num": 129507,
+        "word": "2023KPL春季赛",
+        "onboard_time": 1677139770,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129421,
+        "num": 129421,
+        "word": "政府回应温泉水煮面被质疑不卫生",
+        "onboard_time": 1677132327,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127884,
+        "num": 127884,
+        "word": "狂飙里的猪脚面是张颂文改的",
+        "onboard_time": 1677117327,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121478,
+        "num": 121478,
+        "word": "男子手绘裸眼3D凌霄花超惊艳",
+        "onboard_time": 1677140672,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#落实重大发展战略开创事业新局#"
+    }
+  }
+}
