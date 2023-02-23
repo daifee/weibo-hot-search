@@ -1,0 +1,410 @@
+{
+  "runTime": 1677123330673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1551774,
+        "num": 1551774,
+        "word": "狂飙里的猪脚面是张颂文改的",
+        "onboard_time": 1677117327,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1062103,
+        "num": 1062103,
+        "word": "商丘公交将暂停运营市区线路",
+        "onboard_time": 1677118884,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10305,
+        "num": 733375,
+        "word": "春日里有仪式感的9件小事",
+        "onboard_time": 1677110428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1252863,
+        "num": 705238,
+        "word": "女生拼多多网购改地址遭商家侮辱",
+        "onboard_time": 1677116068,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665960,
+        "num": 665960,
+        "word": "五哈3官宣定档",
+        "onboard_time": 1677119007,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1302153,
+        "num": 647151,
+        "word": "高学历低龄老人线上求职碰壁",
+        "onboard_time": 1677118349,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612029,
+        "num": 612029,
+        "word": "王一博扮奥特曼跳breaking",
+        "onboard_time": 1677120326,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 588911,
+        "num": 588911,
+        "word": "突然明白为什么会有卷面分",
+        "onboard_time": 1677120569,
+        "rank": 7,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 525742,
+        "num": 525742,
+        "word": "美媒称韩国部队锅是美军剩菜",
+        "onboard_time": 1677110908,
+        "rank": 8,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 520759,
+        "num": 520759,
+        "word": "刘烨胡军新片定档",
+        "onboard_time": 1677120749,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460682,
+        "num": 460682,
+        "word": "近期婴幼儿易感染人呼吸道合胞病毒",
+        "onboard_time": 1677119487,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444918,
+        "num": 444918,
+        "word": "商丘公交员工称5个月没发工资",
+        "onboard_time": 1677122369,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391799,
+        "num": 391799,
+        "word": "拜登离开波兰上飞机时摔倒",
+        "onboard_time": 1677112289,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 369604,
+        "num": 369604,
+        "word": "丁程鑫晒花与少年随拍",
+        "onboard_time": 1677120808,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358276,
+        "num": 358276,
+        "word": "iPhone15早期真机图曝光",
+        "onboard_time": 1677112592,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 337812,
+        "num": 337812,
+        "word": "爱奇艺能否复制狂飙的成功",
+        "onboard_time": 1677115709,
+        "rank": 15,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 324345,
+        "num": 324345,
+        "word": "塔吉克斯坦发生7.2级地震",
+        "onboard_time": 1677114151,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313674,
+        "num": 313674,
+        "word": "菲律宾版花泽类",
+        "onboard_time": 1677117266,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288022,
+        "num": 288022,
+        "word": "iPhone15采用更大的6.2英寸屏",
+        "onboard_time": 1677114449,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 284933,
+        "num": 284933,
+        "word": "新疆边境地区附近发生7.3级左右地震",
+        "onboard_time": 1677113669,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274874,
+        "num": 274874,
+        "word": "受过伤害的女孩有多让人心疼",
+        "onboard_time": 1677121830,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272284,
+        "num": 272284,
+        "word": "宋雨琦程潇许光汉同框",
+        "onboard_time": 1677119428,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 272122,
+        "num": 272122,
+        "word": "小学校长回应班主任多次收礼",
+        "onboard_time": 1677116967,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 265533,
+        "num": 265533,
+        "word": "郑州有银行房贷利率上调至4.3%",
+        "onboard_time": 1677122248,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 261995,
+        "num": 261995,
+        "word": "商丘公交",
+        "onboard_time": 1677122969,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246463,
+        "num": 246463,
+        "word": "爱奇艺已解决债务问题",
+        "onboard_time": 1677121170,
+        "rank": 25,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 239560,
+        "num": 239560,
+        "word": "南方都是这样的教学楼吗",
+        "onboard_time": 1677083304,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208545,
+        "num": 208545,
+        "word": "SMTOWN虚拟偶像问候视频",
+        "onboard_time": 1677121589,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207429,
+        "num": 207429,
+        "word": "哪座城市支持生育力度最大",
+        "onboard_time": 1677117987,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202165,
+        "num": 202165,
+        "word": "王鹤棣时宴雨中撑伞",
+        "onboard_time": 1677114570,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196473,
+        "num": 196473,
+        "word": "塔吉克斯坦7.2级地震喀什震感强烈",
+        "onboard_time": 1677123269,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196144,
+        "num": 196144,
+        "word": "张学友国语新歌又十年",
+        "onboard_time": 1677122188,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195755,
+        "num": 195755,
+        "word": "读研到底是种什么体验",
+        "onboard_time": 1677111688,
+        "rank": 32,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 193126,
+        "num": 193126,
+        "word": "走失德牧被警犬带回警队",
+        "onboard_time": 1677122248,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178254,
+        "num": 178254,
+        "word": "纪向宁 真学霸",
+        "onboard_time": 1677121649,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177204,
+        "num": 177204,
+        "word": "90后女孩建3万平工厂当厂长",
+        "onboard_time": 1677122908,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176537,
+        "num": 176537,
+        "word": "不愿相信主人得癌症的狗狗",
+        "onboard_time": 1677110188,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165361,
+        "num": 165361,
+        "word": "每周两次外卖或增5成死亡率",
+        "onboard_time": 1677122969,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155208,
+        "num": 155208,
+        "word": "税务师成绩",
+        "onboard_time": 1677118230,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155196,
+        "num": 155196,
+        "word": "六公主评情满九道弯",
+        "onboard_time": 1677120989,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147877,
+        "num": 147877,
+        "word": "宋慧乔米兰时装周造型",
+        "onboard_time": 1677119487,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 146400,
+        "num": 146400,
+        "word": "知情人称内蒙古煤矿坍塌被埋者大部分为司机",
+        "onboard_time": 1677103214,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 134114,
+        "num": 134114,
+        "word": "淘宝公布2023年度丑东西",
+        "onboard_time": 1677123029,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 129919,
+        "num": 129919,
+        "word": "AppleWatch未来或将无创测血糖",
+        "onboard_time": 1677113252,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 125145,
+        "num": 125145,
+        "word": "YG新女团CHIQUITA介绍视频",
+        "onboard_time": 1677116548,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120342,
+        "num": 120342,
+        "word": "SMTOWN将全方位与Kakao合作",
+        "onboard_time": 1677113070,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118184,
+        "num": 118184,
+        "word": "欢迎台湾同胞品尝这些大陆美食",
+        "onboard_time": 1677113611,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108677,
+        "num": 108677,
+        "word": "这篇小学作文是被打成压缩包了吗",
+        "onboard_time": 1677114449,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 108197,
+        "num": 108197,
+        "word": "黄奕于翔新剧亲嘴大头贴",
+        "onboard_time": 1677119187,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103032,
+        "num": 103032,
+        "word": "郭采洁米兰第一夜随拍",
+        "onboard_time": 1677118406,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#解决卡脖子问题要打牢基础研究的地基#"
+    }
+  }
+}

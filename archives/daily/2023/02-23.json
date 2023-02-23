@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677122479493,
+  "endTime": 1677123330673,
   "band_list": [
     {
       "raw_hot": 2147116,
@@ -83,6 +83,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1062103,
+      "num": 1062103,
+      "word": "商丘公交将暂停运营市区线路",
+      "onboard_time": 1677118884,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897072,
       "num": 897072,
       "word": "五哈3官宣定档",
@@ -104,14 +112,6 @@
       "word": "沪上阿姨外包装旗袍图被质疑不雅",
       "onboard_time": 1677065793,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 760616,
-      "num": 760616,
-      "word": "商丘公交将暂停运营市区线路",
-      "onboard_time": 1677118884,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -219,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 588911,
+      "num": 588911,
+      "word": "突然明白为什么会有卷面分",
+      "onboard_time": 1677120569,
+      "rank": 27,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 585009,
       "num": 585009,
       "word": "美主播曝拜登曾说毁灭台湾计划",
@@ -233,14 +241,6 @@
       "onboard_time": 1677076173,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 562017,
-      "num": 562017,
-      "word": "突然明白为什么会有卷面分",
-      "onboard_time": 1677120569,
-      "rank": 27,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 547663,
@@ -291,12 +291,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 460682,
+      "num": 460682,
+      "word": "近期婴幼儿易感染人呼吸道合胞病毒",
+      "onboard_time": 1677119487,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460333,
       "num": 460333,
       "word": "iPhone15采用更大的6.2英寸屏",
       "onboard_time": 1677114449,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 444918,
+      "num": 444918,
+      "word": "商丘公交员工称5个月没发工资",
+      "onboard_time": 1677122369,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438783,
@@ -315,14 +331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 427519,
-      "num": 427519,
-      "word": "近期婴幼儿易感染人呼吸道合胞病毒",
-      "onboard_time": 1677119487,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423829,
       "num": 423829,
       "word": "爱奇艺会员收入创单季最高",
@@ -339,8 +347,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 364271,
-      "num": 364271,
+      "raw_hot": 369604,
+      "num": 369604,
       "word": "丁程鑫晒花与少年随拍",
       "onboard_time": 1677120808,
       "rank": 29,
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274874,
+      "num": 274874,
+      "word": "受过伤害的女孩有多让人心疼",
+      "onboard_time": 1677121830,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274753,
       "num": 274753,
       "word": "黑暗荣耀第二季预告视频",
@@ -483,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265533,
+      "num": 265533,
+      "word": "郑州有银行房贷利率上调至4.3%",
+      "onboard_time": 1677122248,
+      "rank": 43,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 263622,
       "num": 263622,
       "word": "大学食堂物价堪比10年前",
@@ -499,12 +523,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 256350,
-      "num": 256350,
-      "word": "受过伤害的女孩有多让人心疼",
-      "onboard_time": 1677121830,
+      "raw_hot": 261995,
+      "num": 261995,
+      "word": "商丘公交",
+      "onboard_time": 1677122969,
       "rank": 24,
-      "category": "影视"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248242,
@@ -521,6 +545,14 @@
       "onboard_time": 1677117987,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246463,
+      "num": 246463,
+      "word": "爱奇艺已解决债务问题",
+      "onboard_time": 1677121170,
+      "rank": 34,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 244691,
@@ -627,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208545,
+      "num": 208545,
+      "word": "SMTOWN虚拟偶像问候视频",
+      "onboard_time": 1677121589,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205594,
       "num": 205594,
       "word": "乐乐与丫丫20年前抵美画面",
@@ -667,12 +707,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198633,
-      "num": 198633,
-      "word": "SMTOWN虚拟偶像问候视频",
-      "onboard_time": 1677121589,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 196473,
+      "num": 196473,
+      "word": "塔吉克斯坦7.2级地震喀什震感强烈",
+      "onboard_time": 1677123269,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196144,
+      "num": 196144,
+      "word": "张学友国语新歌又十年",
+      "onboard_time": 1677122188,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 193126,
+      "num": 193126,
+      "word": "走失德牧被警犬带回警队",
+      "onboard_time": 1677122248,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188710,
@@ -731,12 +787,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 178654,
-      "num": 178654,
-      "word": "张学友国语新歌又十年",
-      "onboard_time": 1677122188,
-      "rank": 30,
-      "category": "音乐"
+      "raw_hot": 177204,
+      "num": 177204,
+      "word": "90后女孩建3万平工厂当厂长",
+      "onboard_time": 1677122908,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174768,
@@ -763,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165361,
+      "num": 165361,
+      "word": "每周两次外卖或增5成死亡率",
+      "onboard_time": 1677122969,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164576,
       "num": 164576,
       "word": "霉霉2022IFPI全球畅销艺人榜冠军",
@@ -771,12 +835,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 161853,
-      "num": 161853,
-      "word": "爱奇艺已解决债务问题",
-      "onboard_time": 1677121170,
-      "rank": 34,
-      "category": "科技,财经"
+      "raw_hot": 155196,
+      "num": 155196,
+      "word": "六公主评情满九道弯",
+      "onboard_time": 1677120989,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 145076,
@@ -811,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134114,
+      "num": 134114,
+      "word": "淘宝公布2023年度丑东西",
+      "onboard_time": 1677123029,
+      "rank": 42,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 132338,
       "num": 132338,
       "word": "邓超说在孙俪面前自己更像个孩子",
@@ -827,44 +899,12 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 129934,
-      "num": 129934,
-      "word": "六公主评情满九道弯",
-      "onboard_time": 1677120989,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 129466,
       "num": 129466,
       "word": "王毅与普京会晤",
       "onboard_time": 1677069508,
       "rank": 39,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 127366,
-      "num": 127366,
-      "word": "走失德牧被警犬带回警队",
-      "onboard_time": 1677122248,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126170,
-      "num": 126170,
-      "word": "郑州有银行房贷利率上调至4.3%",
-      "onboard_time": 1677122248,
-      "rank": 43,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 125986,
-      "num": 125986,
-      "word": "商丘公交员工称5个月没发工资",
-      "onboard_time": 1677122369,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125514,
@@ -993,6 +1033,14 @@
       "onboard_time": 1676942906,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 10305,
+      "num": 733375,
+      "word": "春日里有仪式感的9件小事",
+      "onboard_time": 1677110428,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1007,6 +1055,9 @@
     },
     {
       "word": "#中国依然是外商投资兴业的热土#"
+    },
+    {
+      "word": "#解决卡脖子问题要打牢基础研究的地基#"
     }
   ]
 }
