@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/01 00:26:13 ~ 2023/02/23 12:24:18
+本榜单时间：2023/02/01 00:26:13 ~ 2023/02/23 12:39:15
 </p>
 </blockquote>
 <p>
@@ -663,6 +663,12 @@ QQ崩了（热度：13978759）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%91%A8%E4%B8%A4%E6%AC%A1%E5%A4%96%E5%8D%96%E6%88%96%E5%A2%9E5%E6%88%90%E6%AD%BB%E4%BA%A1%E7%8E%87%23" target="weibo">
+每周两次外卖或增5成死亡率（热度：2699441）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E8%A1%A3%E6%9C%8D%E9%95%BF%E6%97%B6%E9%97%B4%E6%94%BE%E8%B4%AD%E7%89%A9%E8%BD%A6%E8%A2%AB%E5%AE%A2%E6%9C%8D%E5%98%B2%E8%AE%BD%23" target="weibo">
 因衣服长时间放购物车被客服嘲讽（热度：2690901）
 </a>
@@ -803,12 +809,6 @@ TFBOYS十周年演唱会附近酒店已被订完（热度：2611842）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%85%AD%E7%BA%A7%23" target="weibo">
 四六级（热度：2484923）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%91%A8%E4%B8%A4%E6%AC%A1%E5%A4%96%E5%8D%96%E6%88%96%E5%A2%9E5%E6%88%90%E6%AD%BB%E4%BA%A1%E7%8E%87%23" target="weibo">
-每周两次外卖或增5成死亡率（热度：2483057）
 </a>
 </li>
 
