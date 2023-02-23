@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677155944667,
+  "endTime": 1677157072012,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1685870,
+      "num": 1685870,
+      "word": "孙颖莎",
+      "onboard_time": 1677052113,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1627833,
       "num": 1627833,
       "word": "女儿考研437分单亲妈妈哽咽安慰",
@@ -851,14 +859,6 @@
       "category": "教育,幽默"
     },
     {
-      "raw_hot": 1225310,
-      "num": 1225310,
-      "word": "孙颖莎",
-      "onboard_time": 1677052113,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1212614,
       "num": 1212614,
       "word": "克拉棒",
@@ -1225,6 +1225,14 @@
       "onboard_time": 1676859387,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1007112,
+      "num": 1007112,
+      "word": "新疆小伙1天拿到驾驶证",
+      "onboard_time": 1677154410,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 993478,
@@ -2721,14 +2729,6 @@
       "onboard_time": 1676953237,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 590723,
-      "num": 590723,
-      "word": "新疆小伙1天拿到驾驶证",
-      "onboard_time": 1677154410,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 589151,
@@ -4307,6 +4307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379613,
+      "num": 379613,
+      "word": "张元英跳HowYouLikeThat",
+      "onboard_time": 1677152851,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 379268,
       "num": 379268,
       "word": "贺峻霖喂马嘉祺吃糖油粑粑",
@@ -4513,14 +4521,6 @@
       "onboard_time": 1676873309,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 367891,
-      "num": 367891,
-      "word": "张元英跳HowYouLikeThat",
-      "onboard_time": 1677152851,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 367665,
@@ -4979,6 +4979,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 333846,
+      "num": 333846,
+      "word": "中国男篮vs哈萨克斯坦男篮",
+      "onboard_time": 1677153091,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332152,
       "num": 332152,
       "word": "宋亚轩刘耀文搂肩一起下班",
@@ -5025,14 +5033,6 @@
       "onboard_time": 1677057572,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 328583,
-      "num": 328583,
-      "word": "中国男篮vs哈萨克斯坦男篮",
-      "onboard_time": 1677153091,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 328536,
@@ -6027,6 +6027,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 263401,
+      "num": 263401,
+      "word": "张嘉倪夜游米兰随拍",
+      "onboard_time": 1677154169,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263088,
       "num": 263088,
       "word": "YG新女团成员ASA介绍视频",
@@ -6097,6 +6105,14 @@
       "onboard_time": 1677137190,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260048,
+      "num": 260048,
+      "word": "孙颖莎直通德班世乒赛",
+      "onboard_time": 1677156450,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 259229,
@@ -6339,6 +6355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239638,
+      "num": 239638,
+      "word": "女子避雨时随手拍下人生的轮回",
+      "onboard_time": 1677156209,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239251,
       "num": 237156,
       "word": "西游记副导演任凤坡去世",
@@ -6481,14 +6505,6 @@
       "onboard_time": 1677033508,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 230267,
-      "num": 230267,
-      "word": "张嘉倪夜游米兰随拍",
-      "onboard_time": 1677154169,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 230075,
@@ -6641,6 +6657,14 @@
       "onboard_time": 1677091512,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 222957,
+      "num": 174239,
+      "word": "吉利银河正式发布",
+      "onboard_time": 1677156511,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 222874,
@@ -7139,6 +7163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199883,
+      "num": 189533,
+      "word": "郭艾伦被违体犯规",
+      "onboard_time": 1677155248,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199814,
       "num": 199814,
       "word": "为什么在学校没见过我",
@@ -7193,14 +7225,6 @@
       "onboard_time": 1676953535,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197076,
-      "num": 189533,
-      "word": "郭艾伦被违体犯规",
-      "onboard_time": 1677155248,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 197035,
@@ -8267,6 +8291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154763,
+      "num": 154763,
+      "word": "姚薇程梁备孕",
+      "onboard_time": 1677153149,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154237,
       "num": 154237,
       "word": "周也说想要檀健次教唱歌",
@@ -8361,14 +8393,6 @@
       "onboard_time": 1677148771,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148708,
-      "num": 148708,
-      "word": "姚薇程梁备孕",
-      "onboard_time": 1677153149,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 146710,
@@ -8691,6 +8715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127754,
+      "num": 127754,
+      "word": "中星26号卫星成功发射",
+      "onboard_time": 1677156813,
+      "rank": 41,
+      "category": "科技,国内要闻"
+    },
+    {
       "raw_hot": 125810,
       "num": 125810,
       "word": "社会我玲姐 衣服越粉打人越狠",
@@ -8769,6 +8801,14 @@
       "onboard_time": 1676810731,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121741,
+      "num": 121741,
+      "word": "XYG",
+      "onboard_time": 1677156931,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 121497,

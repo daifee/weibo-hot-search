@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677155944667,
+  "endTime": 1677157072012,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -2939,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1685870,
+      "num": 1685870,
+      "word": "孙颖莎",
+      "onboard_time": 1677052113,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1682442,
       "num": 1682442,
       "word": "游客洪崖洞花30元找当地大爷抄近道",
@@ -5025,14 +5033,6 @@
       "onboard_time": 1675691549,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1225310,
-      "num": 1225310,
-      "word": "孙颖莎",
-      "onboard_time": 1677052113,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1222950,
@@ -7217,6 +7217,14 @@
       "onboard_time": 1676022692,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1007112,
+      "num": 1007112,
+      "word": "新疆小伙1天拿到驾驶证",
+      "onboard_time": 1677154410,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1006783,
@@ -15473,14 +15481,6 @@
       "onboard_time": 1676125232,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 590723,
-      "num": 590723,
-      "word": "新疆小伙1天拿到驾驶证",
-      "onboard_time": 1677154410,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 589620,
@@ -24827,6 +24827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379613,
+      "num": 379613,
+      "word": "张元英跳HowYouLikeThat",
+      "onboard_time": 1677152851,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 379517,
       "num": 379517,
       "word": "陈宏友回应讲座引不满被高中生反呛",
@@ -25665,14 +25673,6 @@
       "onboard_time": 1675780771,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367891,
-      "num": 367891,
-      "word": "张元英跳HowYouLikeThat",
-      "onboard_time": 1677152851,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 367821,
@@ -27795,6 +27795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333846,
+      "num": 333846,
+      "word": "中国男篮vs哈萨克斯坦男篮",
+      "onboard_time": 1677153091,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333275,
       "num": 333275,
       "word": "路人视角下张子枫陈飞宇状态",
@@ -28025,14 +28033,6 @@
       "onboard_time": 1676426908,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328583,
-      "num": 328583,
-      "word": "中国男篮vs哈萨克斯坦男篮",
-      "onboard_time": 1677153091,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 328569,
@@ -33787,6 +33787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263401,
+      "num": 263401,
+      "word": "张嘉倪夜游米兰随拍",
+      "onboard_time": 1677154169,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263342,
       "num": 263342,
       "word": "华晨宇白举纲唱逃离地球表面",
@@ -34129,6 +34137,14 @@
       "onboard_time": 1675734625,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 260048,
+      "num": 260048,
+      "word": "孙颖莎直通德班世乒赛",
+      "onboard_time": 1677156450,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 260023,
@@ -36027,6 +36043,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 239638,
+      "num": 239638,
+      "word": "女子避雨时随手拍下人生的轮回",
+      "onboard_time": 1677156209,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239415,
       "num": 239415,
       "word": "李兰迪谈理想型",
@@ -36955,14 +36979,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 230267,
-      "num": 230267,
-      "word": "张嘉倪夜游米兰随拍",
-      "onboard_time": 1677154169,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230161,
       "num": 230161,
       "word": "梅西进球",
@@ -37737,6 +37753,14 @@
       "onboard_time": 1675739188,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222957,
+      "num": 174239,
+      "word": "吉利银河正式发布",
+      "onboard_time": 1677156511,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 222902,
@@ -40195,6 +40219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199883,
+      "num": 189533,
+      "word": "郭艾伦被违体犯规",
+      "onboard_time": 1677155248,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199869,
       "num": 199869,
       "word": "论文导师能有多操心",
@@ -40593,14 +40625,6 @@
       "onboard_time": 1676390308,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 197076,
-      "num": 189533,
-      "word": "郭艾伦被违体犯规",
-      "onboard_time": 1677155248,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 197068,
@@ -46811,6 +46835,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 154763,
+      "num": 154763,
+      "word": "姚薇程梁备孕",
+      "onboard_time": 1677153149,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154733,
       "num": 154733,
       "word": "名侦探学院校规风云",
@@ -47408,14 +47440,6 @@
       "word": "宋威龙直播谈新剧人设",
       "onboard_time": 1675511850,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 148708,
-      "num": 148708,
-      "word": "姚薇程梁备孕",
-      "onboard_time": 1677153149,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -49257,6 +49281,14 @@
       "onboard_time": 1675206617,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127754,
+      "num": 127754,
+      "word": "中星26号卫星成功发射",
+      "onboard_time": 1677156813,
+      "rank": 41,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 127496,

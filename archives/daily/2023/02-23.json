@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677155944667,
+  "endTime": 1677157072012,
   "band_list": [
     {
       "raw_hot": 4249897,
@@ -89,6 +89,14 @@
       "onboard_time": 1677137970,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1685870,
+      "num": 1685870,
+      "word": "孙颖莎",
+      "onboard_time": 1677154951,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1540968,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1007112,
+      "num": 1007112,
+      "word": "新疆小伙1天拿到驾驶证",
+      "onboard_time": 1677154410,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 986039,
       "num": 986039,
       "word": "我们的日子道歉",
@@ -305,14 +321,6 @@
       "onboard_time": 1677135808,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 811448,
-      "num": 811448,
-      "word": "孙颖莎",
-      "onboard_time": 1677154951,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 806155,
@@ -553,14 +561,6 @@
       "onboard_time": 1677120749,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 590723,
-      "num": 590723,
-      "word": "新疆小伙1天拿到驾驶证",
-      "onboard_time": 1677154410,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 585009,
@@ -875,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379613,
+      "num": 379613,
+      "word": "张元英跳HowYouLikeThat",
+      "onboard_time": 1677152851,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 379232,
       "num": 379232,
       "word": "iPhone15或仍采用物理按键",
@@ -897,14 +905,6 @@
       "onboard_time": 1677145050,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367891,
-      "num": 367891,
-      "word": "张元英跳HowYouLikeThat",
-      "onboard_time": 1677152851,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 366616,
@@ -1019,8 +1019,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328583,
-      "num": 328583,
+      "raw_hot": 333846,
+      "num": 333846,
       "word": "中国男篮vs哈萨克斯坦男篮",
       "onboard_time": 1677153091,
       "rank": 16,
@@ -1299,6 +1299,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 263401,
+      "num": 263401,
+      "word": "张嘉倪夜游米兰随拍",
+      "onboard_time": 1677154169,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263173,
       "num": 156814,
       "word": "宋雨琦程潇看秀造型",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1677137190,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260048,
+      "num": 260048,
+      "word": "孙颖莎直通德班世乒赛",
+      "onboard_time": 1677156450,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 252232,
@@ -1379,6 +1395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239638,
+      "num": 239638,
+      "word": "女子避雨时随手拍下人生的轮回",
+      "onboard_time": 1677156209,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239040,
       "num": 239040,
       "word": "内蒙古坍塌煤矿仍有51人失联",
@@ -1411,14 +1435,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 230267,
-      "num": 230267,
-      "word": "张嘉倪夜游米兰随拍",
-      "onboard_time": 1677154169,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229529,
       "num": 229529,
       "word": "杨洋起诉娱乐自媒体侵权获赔",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1677091512,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 222957,
+      "num": 174239,
+      "word": "吉利银河正式发布",
+      "onboard_time": 1677156511,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 217300,
@@ -1603,20 +1627,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199883,
+      "num": 189533,
+      "word": "郭艾伦被违体犯规",
+      "onboard_time": 1677155248,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198757,
       "num": 198757,
       "word": "别人直播带货这位老师直播带人",
       "onboard_time": 1677127113,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197076,
-      "num": 189533,
-      "word": "郭艾伦被违体犯规",
-      "onboard_time": 1677155248,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 197035,
@@ -1899,6 +1923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154763,
+      "num": 154763,
+      "word": "姚薇程梁备孕",
+      "onboard_time": 1677153149,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153434,
       "num": 153434,
       "word": "蛋仔派对失心熊",
@@ -1937,14 +1969,6 @@
       "onboard_time": 1677148771,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148708,
-      "num": 148708,
-      "word": "姚薇程梁备孕",
-      "onboard_time": 1677153149,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 145076,
@@ -2067,6 +2091,14 @@
       "category": "美食,情感"
     },
     {
+      "raw_hot": 127754,
+      "num": 127754,
+      "word": "中星26号卫星成功发射",
+      "onboard_time": 1677156813,
+      "rank": 41,
+      "category": "科技,国内要闻"
+    },
+    {
       "raw_hot": 125514,
       "num": 125514,
       "word": "毛不易不愧是be王者",
@@ -2097,6 +2129,14 @@
       "onboard_time": 1677130052,
       "rank": 47,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 121741,
+      "num": 121741,
+      "word": "XYG",
+      "onboard_time": 1677156931,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 120738,
