@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677159806846,
+  "endTime": 1677161954002,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -41,6 +41,14 @@
       "onboard_time": 1677150633,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3983382,
+      "num": 3983382,
+      "word": "Prada",
+      "onboard_time": 1677159271,
+      "rank": 3,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 3878918,
@@ -963,6 +971,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1163965,
+      "num": 1163965,
+      "word": "刘雯重返时装周首秀",
+      "onboard_time": 1677160832,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1161865,
       "num": 1161865,
       "word": "父亲去世哥哥说妹妹没有继承权",
@@ -1659,6 +1675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 826476,
+      "num": 826476,
+      "word": "委员提案独生子女父母养老政府解决",
+      "onboard_time": 1677157830,
+      "rank": 15,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 821927,
       "num": 821927,
       "word": "内蒙古煤矿坍塌",
@@ -2051,6 +2075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 723354,
+      "num": 723354,
+      "word": "女子避雨时随手拍下人生的轮回",
+      "onboard_time": 1677156209,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722731,
       "num": 669944,
       "word": "佟丽娅冲浪",
@@ -2089,14 +2121,6 @@
       "onboard_time": 1677080130,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 712067,
-      "num": 712067,
-      "word": "Prada",
-      "onboard_time": 1677159271,
-      "rank": 3,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 710636,
@@ -2217,14 +2241,6 @@
       "onboard_time": 1676899410,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 684739,
-      "num": 684739,
-      "word": "女子避雨时随手拍下人生的轮回",
-      "onboard_time": 1677156209,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 683125,
@@ -3691,14 +3707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 442867,
-      "num": 374817,
-      "word": "委员提案独生子女父母养老政府解决",
-      "onboard_time": 1677157830,
-      "rank": 15,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 442354,
       "num": 442354,
       "word": "狂飙的小灵通是怎么消失的",
@@ -3905,6 +3913,14 @@
       "onboard_time": 1676975373,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424709,
+      "num": 424709,
+      "word": "柳智敏演技",
+      "onboard_time": 1677160293,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 423829,
@@ -5081,6 +5097,14 @@
       "onboard_time": 1677057572,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 329035,
+      "num": 329035,
+      "word": "李玟 希望你们可以等我回来",
+      "onboard_time": 1677157182,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 328536,
@@ -6483,14 +6507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235221,
-      "num": 235221,
-      "word": "李玟 希望你们可以等我回来",
-      "onboard_time": 1677157182,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235042,
       "num": 235042,
       "word": "盘点考研查分的高燃瞬间",
@@ -6761,6 +6777,14 @@
       "onboard_time": 1676980772,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217804,
+      "num": 217804,
+      "word": "张小斐狐狸眼妆",
+      "onboard_time": 1677161015,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217744,
@@ -7227,6 +7251,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 199651,
+      "num": 199651,
+      "word": "KSG对战XYG",
+      "onboard_time": 1677161613,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199485,
       "num": 199485,
       "word": "新发现或能助人类延长生育能力",
@@ -7483,6 +7515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188452,
+      "num": 188452,
+      "word": "宋佳出发米兰时装周",
+      "onboard_time": 1677161312,
+      "rank": 32,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 188380,
       "num": 188380,
       "word": "电影中国乒乓国家队打call版预告",
@@ -7667,6 +7707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182148,
+      "num": 182148,
+      "word": "中国男篮四后卫1助攻",
+      "onboard_time": 1677161254,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181952,
       "num": 181952,
       "word": "找人类帮忙的小猫",
@@ -7819,6 +7867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175067,
+      "num": 175067,
+      "word": "胡明轩关键三分",
+      "onboard_time": 1677160654,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174905,
       "num": 174905,
       "word": "内马尔受伤",
@@ -7881,6 +7937,14 @@
       "onboard_time": 1677133830,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 172341,
+      "num": 172341,
+      "word": "吉利银河",
+      "onboard_time": 1677157950,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 171957,
@@ -8243,14 +8307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 160682,
-      "num": 160682,
-      "word": "吉利银河",
-      "onboard_time": 1677157950,
-      "rank": 37,
-      "category": "科技"
-    },
-    {
       "raw_hot": 160043,
       "num": 160043,
       "word": "朱志鑫翻唱youth",
@@ -8288,6 +8344,14 @@
       "word": "黄奕红裙造型",
       "onboard_time": 1676988216,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 157682,
+      "num": 157682,
+      "word": "听说你喜欢我开分7.8",
+      "onboard_time": 1677161312,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -8411,6 +8475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152003,
+      "num": 168769,
+      "word": "清理中国天眼好像刷锅",
+      "onboard_time": 1677159510,
+      "rank": 34,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 151108,
       "num": 151108,
       "word": "玄商跳归墟",
@@ -8505,6 +8577,14 @@
       "onboard_time": 1676964929,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143307,
+      "num": 143307,
+      "word": "混双",
+      "onboard_time": 1677161855,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 142913,
@@ -9057,14 +9137,6 @@
       "onboard_time": 1677069210,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 97334,
-      "num": 168769,
-      "word": "清理中国天眼好像刷锅",
-      "onboard_time": 1677159510,
-      "rank": 34,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 96852,
