@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677162816572,
+  "endTime": 1677165636489,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -265,6 +265,14 @@
       "onboard_time": 1676890049,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2022784,
+      "num": 2022784,
+      "word": "刘雯闭场",
+      "onboard_time": 1677162093,
+      "rank": 1,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2015644,
@@ -537,14 +545,6 @@
       "onboard_time": 1677118349,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1491126,
-      "num": 1491126,
-      "word": "刘雯闭场",
-      "onboard_time": 1677162093,
-      "rank": 1,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1472966,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1677039094,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1027466,
+      "num": 1027466,
+      "word": "央视曝光个人电影投资骗局",
+      "onboard_time": 1677164372,
+      "rank": 3,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 1026648,
@@ -3539,6 +3547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 466780,
+      "num": 373333,
+      "word": "Somi生图",
+      "onboard_time": 1677164913,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 466183,
       "num": 466183,
       "word": "优酷在玩一种很新的换乘恋爱",
@@ -4185,6 +4201,14 @@
       "onboard_time": 1676863050,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 399633,
+      "num": 372182,
+      "word": "张小斐狐狸眼妆",
+      "onboard_time": 1677161015,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 399427,
@@ -4859,6 +4883,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 346321,
+      "num": 346321,
+      "word": "中国男篮四后卫1助攻",
+      "onboard_time": 1677161254,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346224,
       "num": 346224,
       "word": "解放军是懂龙抬头的",
@@ -5105,6 +5137,14 @@
       "onboard_time": 1677057572,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 329124,
+      "num": 329124,
+      "word": "宋雨琦晒与许光汉合照",
+      "onboard_time": 1677163114,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 329035,
@@ -5403,14 +5443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311130,
-      "num": 311130,
-      "word": "张小斐狐狸眼妆",
-      "onboard_time": 1677161015,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 310825,
       "num": 310825,
       "word": "三体剧组庆功宴",
@@ -5529,14 +5561,6 @@
       "onboard_time": 1677037712,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 298774,
-      "num": 298774,
-      "word": "中国男篮四后卫1助攻",
-      "onboard_time": 1677161254,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 297450,
@@ -6515,6 +6539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237308,
+      "num": 237308,
+      "word": "女孩坠河溺水路人接力救回",
+      "onboard_time": 1677162872,
+      "rank": 26,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 236713,
       "num": 236713,
       "word": "中国从未挑起战争但对华打压不断升级",
@@ -7051,6 +7083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208161,
+      "num": 208161,
+      "word": "重庆列车穿行花海名场面回来了",
+      "onboard_time": 1677162393,
+      "rank": 42,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 207326,
       "num": 207326,
       "word": "梦回放羊的星星",
@@ -7507,6 +7547,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 189865,
+      "num": 189865,
+      "word": "周深演唱种地吧主题曲",
+      "onboard_time": 1677164913,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189722,
       "num": 189722,
       "word": "今日宜加油集齐三大魔尊",
@@ -7745,6 +7793,14 @@
       "onboard_time": 1677147752,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181515,
+      "num": 1468160,
+      "word": "端牢中国饭碗的底气",
+      "onboard_time": 1677162511,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181460,
@@ -8475,6 +8531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153150,
+      "num": 153150,
+      "word": "KSG战胜XYG",
+      "onboard_time": 1677165393,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153070,
       "num": 153070,
       "word": "范丞丞199爱校服花絮照",
@@ -8505,14 +8569,6 @@
       "onboard_time": 1677076114,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 150848,
-      "num": 150848,
-      "word": "重庆列车穿行花海名场面回来了",
-      "onboard_time": 1677162393,
-      "rank": 42,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 150496,
@@ -8561,6 +8617,14 @@
       "onboard_time": 1676989967,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146312,
+      "num": 146312,
+      "word": "李隼说马龙赛前打封闭上场",
+      "onboard_time": 1677164615,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 145789,
@@ -9011,6 +9075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118783,
+      "num": 118783,
+      "word": "灵梦上官婉儿三杀",
+      "onboard_time": 1677163715,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118647,
       "num": 118647,
       "word": "时光音乐会张真源吹卡祖笛",
@@ -9121,6 +9193,14 @@
       "onboard_time": 1676814092,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 103089,
+      "num": 103089,
+      "word": "大爷银行取钱排队一小时频遭插队",
+      "onboard_time": 1677165631,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101857,
@@ -9353,14 +9433,6 @@
       "onboard_time": 1676828717,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 40520,
-      "num": 1468160,
-      "word": "端牢中国饭碗的底气",
-      "onboard_time": 1677162511,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35992,
