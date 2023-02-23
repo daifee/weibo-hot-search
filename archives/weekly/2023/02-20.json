@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677130428625,
+  "endTime": 1677133463012,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -579,6 +579,14 @@
       "category": "科技,教育"
     },
     {
+      "raw_hot": 1388983,
+      "num": 1388983,
+      "word": "市政府工作组已进驻商丘公交公司",
+      "onboard_time": 1677129330,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1376668,
       "num": 1376668,
       "word": "Angelababy马天宇对视剧照",
@@ -712,6 +720,14 @@
       "word": "女子连刷10个差评商家找上门怒怼",
       "onboard_time": 1676978251,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1274619,
+      "num": 817133,
+      "word": "骗子为骗钱竟造一整个派出所",
+      "onboard_time": 1677129153,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2379,11 +2395,27 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 610585,
+      "num": 450345,
+      "word": "徐志胜说自己刚红没那么多钱",
+      "onboard_time": 1677130649,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 609978,
       "num": 609978,
       "word": "黄奕新剧身材",
       "onboard_time": 1676899593,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 609098,
+      "num": 609098,
+      "word": "杨紫范丞丞片场跳舞",
+      "onboard_time": 1677132689,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -2579,14 +2611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 567987,
-      "num": 523545,
-      "word": "骗子为骗钱竟造一整个派出所",
-      "onboard_time": 1677129153,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 564698,
       "num": 564698,
       "word": "新传",
@@ -2768,6 +2792,14 @@
       "word": "苏醒见陈楚生秒叫大哥",
       "onboard_time": 1677037650,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 536952,
+      "num": 536952,
+      "word": "唐嫣钟汉良同框梦回何以笙箫默",
+      "onboard_time": 1677132569,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -3667,6 +3699,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 408740,
+      "num": 408740,
+      "word": "郑钧说刘芸是自己的一面镜子",
+      "onboard_time": 1677129870,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408445,
       "num": 408445,
       "word": "马龙说决赛和樊振东没压力",
@@ -3817,14 +3857,6 @@
       "onboard_time": 1677077252,
       "rank": 19,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 388479,
-      "num": 388479,
-      "word": "郑钧说刘芸是自己的一面镜子",
-      "onboard_time": 1677129870,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 387846,
@@ -4433,6 +4465,22 @@
       "onboard_time": 1676943747,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 338920,
+      "num": 338920,
+      "word": "孔雪儿到达米兰",
+      "onboard_time": 1677130709,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 338648,
+      "num": 338648,
+      "word": "研究称做饭可降低四成死亡率",
+      "onboard_time": 1677132209,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338052,
@@ -5067,6 +5115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289142,
+      "num": 289142,
+      "word": "政府回应温泉水煮面被质疑不卫生",
+      "onboard_time": 1677132327,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288708,
       "num": 288708,
       "word": "王楚钦花在混双时间非常多",
@@ -5467,6 +5523,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 262661,
+      "num": 262661,
+      "word": "宋亚轩练八段锦",
+      "onboard_time": 1677131489,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261995,
       "num": 261995,
       "word": "商丘公交",
@@ -5771,14 +5835,6 @@
       "category": "国内要闻,军事"
     },
     {
-      "raw_hot": 236489,
-      "num": 236489,
-      "word": "市政府工作组已进驻商丘公交公司",
-      "onboard_time": 1677129330,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235445,
       "num": 235445,
       "word": "刘宇宁直播",
@@ -5873,6 +5929,14 @@
       "onboard_time": 1677050853,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229529,
+      "num": 229529,
+      "word": "杨洋起诉娱乐自媒体侵权获赔",
+      "onboard_time": 1677130531,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 228829,
@@ -6227,6 +6291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210658,
+      "num": 210658,
+      "word": "龚俊大乱炖犒劳种地吧",
+      "onboard_time": 1677132389,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210227,
       "num": 210227,
       "word": "TTG",
@@ -6363,6 +6435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203882,
+      "num": 203882,
+      "word": "快乐再出发今晚走心局",
+      "onboard_time": 1677130649,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203657,
       "num": 203657,
       "word": "威少换球队不搬家",
@@ -6433,6 +6513,14 @@
       "onboard_time": 1676825123,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200612,
+      "num": 200612,
+      "word": "庞博以为种地吧就是一张PPT",
+      "onboard_time": 1677130770,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 200335,
@@ -7147,6 +7235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169074,
+      "num": 169074,
+      "word": "Akira说林志玲完美",
+      "onboard_time": 1677130590,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168968,
       "num": 168968,
       "word": "宋慧乔米兰时装周造型",
@@ -7379,6 +7475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159744,
+      "num": 159744,
+      "word": "流浪地球2",
+      "onboard_time": 1677132808,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159732,
       "num": 159732,
       "word": "Scout获得周MVP",
@@ -7395,20 +7499,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158892,
+      "num": 158892,
+      "word": "上野千鹤子对谈汤山玲子",
+      "onboard_time": 1677130230,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 158323,
       "num": 158323,
       "word": "黄奕红裙造型",
       "onboard_time": 1676988216,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 157809,
-      "num": 157809,
-      "word": "上野千鹤子对谈汤山玲子",
-      "onboard_time": 1677130230,
-      "rank": 37,
-      "category": "网红"
     },
     {
       "raw_hot": 156631,
@@ -7699,6 +7803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 136264,
+      "num": 110693,
+      "word": "在暴雪时分剧粉名是自来雪",
+      "onboard_time": 1677131370,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 136129,
       "num": 136129,
       "word": "张绍刚说王鹤棣长得让人垂涎欲滴",
@@ -7987,6 +8099,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101777,
+      "num": 101777,
+      "word": "高三学生英语试卷字体工整宛如印刷",
+      "onboard_time": 1677132990,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 100288,
+      "num": 100288,
+      "word": "这顿饭真的非做不可吗",
+      "onboard_time": 1677133110,
+      "rank": 46,
+      "category": "美食,情感"
+    },
+    {
+      "raw_hot": 99045,
+      "num": 99045,
+      "word": "eStar家乡美食试吃",
+      "onboard_time": 1677131968,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97958,
       "num": 97958,
       "word": "夏花你先别虐",
@@ -8001,6 +8137,14 @@
       "onboard_time": 1677097572,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94007,
+      "num": 94007,
+      "word": "多个厨具品牌直播正确拍蒜",
+      "onboard_time": 1677133349,
+      "rank": 49,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 93660,

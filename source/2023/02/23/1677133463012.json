@@ -1,0 +1,410 @@
+{
+  "runTime": 1677133463012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1388983,
+        "num": 1388983,
+        "word": "市政府工作组已进驻商丘公交公司",
+        "onboard_time": 1677129330,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975387,
+        "num": 975387,
+        "word": "乌克兰要求停售原子之心",
+        "onboard_time": 1677125853,
+        "rank": 1,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 26485,
+        "num": 824105,
+        "word": "春日里有仪式感的9件小事",
+        "onboard_time": 1677110428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1274619,
+        "num": 817133,
+        "word": "骗子为骗钱竟造一整个派出所",
+        "onboard_time": 1677129153,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759304,
+        "num": 759304,
+        "word": "张杰演唱会门票",
+        "onboard_time": 1677128193,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 609098,
+        "num": 609098,
+        "word": "杨紫范丞丞片场跳舞",
+        "onboard_time": 1677132689,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 539142,
+        "num": 539142,
+        "word": "美国5名环境顾问前往俄亥俄州时坠机身亡",
+        "onboard_time": 1677125554,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536952,
+        "num": 536952,
+        "word": "唐嫣钟汉良同框梦回何以笙箫默",
+        "onboard_time": 1677132569,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503297,
+        "num": 503297,
+        "word": "蛋仔派对",
+        "onboard_time": 1677126512,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 458415,
+        "num": 458415,
+        "word": "狂飙里的猪脚面是张颂文改的",
+        "onboard_time": 1677117327,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 610585,
+        "num": 450345,
+        "word": "徐志胜说自己刚红没那么多钱",
+        "onboard_time": 1677130649,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424244,
+        "num": 424244,
+        "word": "女生拼多多网购改地址遭商家侮辱",
+        "onboard_time": 1677116068,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416012,
+        "num": 416012,
+        "word": "商丘公交发通告表示确保不停运",
+        "onboard_time": 1677127532,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408740,
+        "num": 408740,
+        "word": "郑钧说刘芸是自己的一面镜子",
+        "onboard_time": 1677129870,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360528,
+        "num": 360528,
+        "word": "iPhone15或仍采用物理按键",
+        "onboard_time": 1677126033,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 338920,
+        "num": 338920,
+        "word": "孔雪儿到达米兰",
+        "onboard_time": 1677130709,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 338648,
+        "num": 338648,
+        "word": "研究称做饭可降低四成死亡率",
+        "onboard_time": 1677132209,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334859,
+        "num": 334859,
+        "word": "淘宝公布2023年度丑东西",
+        "onboard_time": 1677123029,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 301101,
+        "num": 301101,
+        "word": "突然明白为什么会有卷面分",
+        "onboard_time": 1677120569,
+        "rank": 18,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 289142,
+        "num": 289142,
+        "word": "政府回应温泉水煮面被质疑不卫生",
+        "onboard_time": 1677132327,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443442,
+        "num": 281114,
+        "word": "肖战米兰看秀造型大片",
+        "onboard_time": 1677126757,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 382513,
+        "num": 278219,
+        "word": "上海浦东新区海域发生M0.8级地震",
+        "onboard_time": 1677126272,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262661,
+        "num": 262661,
+        "word": "宋亚轩练八段锦",
+        "onboard_time": 1677131489,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235037,
+        "num": 235037,
+        "word": "女朋友是收纳癖是什么体验",
+        "onboard_time": 1677126935,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229529,
+        "num": 229529,
+        "word": "杨洋起诉娱乐自媒体侵权获赔",
+        "onboard_time": 1677130531,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210658,
+        "num": 210658,
+        "word": "龚俊大乱炖犒劳种地吧",
+        "onboard_time": 1677132389,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205101,
+        "num": 205101,
+        "word": "吴磊赵今麦雪中心动注视版海报",
+        "onboard_time": 1677129032,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203882,
+        "num": 203882,
+        "word": "快乐再出发今晚走心局",
+        "onboard_time": 1677130649,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200612,
+        "num": 200612,
+        "word": "庞博以为种地吧就是一张PPT",
+        "onboard_time": 1677130770,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199101,
+        "num": 199101,
+        "word": "原子之心",
+        "onboard_time": 1677128849,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169074,
+        "num": 169074,
+        "word": "Akira说林志玲完美",
+        "onboard_time": 1677130590,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168004,
+        "num": 168004,
+        "word": "王一博扮奥特曼跳breaking",
+        "onboard_time": 1677120326,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159744,
+        "num": 159744,
+        "word": "流浪地球2",
+        "onboard_time": 1677132808,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158892,
+        "num": 158892,
+        "word": "上野千鹤子对谈汤山玲子",
+        "onboard_time": 1677130230,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150893,
+        "num": 150893,
+        "word": "近期婴幼儿易感染人呼吸道合胞病毒",
+        "onboard_time": 1677119487,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145111,
+        "num": 145111,
+        "word": "妻子的浪漫旅行6收官",
+        "onboard_time": 1677127772,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142377,
+        "num": 142377,
+        "word": "五哈3官宣定档",
+        "onboard_time": 1677119007,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133261,
+        "num": 133261,
+        "word": "郑州有银行房贷利率上调至4.3%",
+        "onboard_time": 1677122248,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 114511,
+        "num": 114511,
+        "word": "美媒称韩国部队锅是美军剩菜",
+        "onboard_time": 1677110908,
+        "rank": 38,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 111317,
+        "num": 111317,
+        "word": "云陪伴大熊猫丫丫",
+        "onboard_time": 1677125369,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136264,
+        "num": 110693,
+        "word": "在暴雪时分剧粉名是自来雪",
+        "onboard_time": 1677131370,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126458,
+        "num": 109799,
+        "word": "刘烨胡军文咏珊民国氛围感",
+        "onboard_time": 1677128013,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113523,
+        "num": 109518,
+        "word": "菲律宾版花泽类",
+        "onboard_time": 1677117266,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108823,
+        "num": 108823,
+        "word": "大侦探",
+        "onboard_time": 1677127655,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101777,
+        "num": 101777,
+        "word": "高三学生英语试卷字体工整宛如印刷",
+        "onboard_time": 1677132990,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 100879,
+        "num": 100879,
+        "word": "别人直播带货这位老师直播带人",
+        "onboard_time": 1677127113,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100288,
+        "num": 100288,
+        "word": "这顿饭真的非做不可吗",
+        "onboard_time": 1677133110,
+        "rank": 46,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 99045,
+        "num": 99045,
+        "word": "eStar家乡美食试吃",
+        "onboard_time": 1677131968,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95455,
+        "num": 95455,
+        "word": "拜登离开波兰上飞机时摔倒",
+        "onboard_time": 1677112289,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 94007,
+        "num": 94007,
+        "word": "多个厨具品牌直播正确拍蒜",
+        "onboard_time": 1677133349,
+        "rank": 49,
+        "category": "社会新闻,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实加强基础研究#"
+    }
+  }
+}
