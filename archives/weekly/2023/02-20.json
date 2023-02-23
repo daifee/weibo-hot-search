@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677194420443,
+  "endTime": 1677195264716,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -1475,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 915461,
+      "num": 915461,
+      "word": "网传有银行每天交易限额5000元",
+      "onboard_time": 1677169885,
+      "rank": 26,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 915291,
       "num": 915291,
       "word": "HYBE成SMTOWN第一大股东",
@@ -1963,14 +1971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 754056,
-      "num": 754056,
-      "word": "网传有银行每天交易限额5000元",
-      "onboard_time": 1677169885,
-      "rank": 26,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 752108,
       "num": 752108,
       "word": "张嘉倪好事成双捧花杀青照",
@@ -2057,6 +2057,14 @@
       "onboard_time": 1677032312,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 739181,
+      "num": 559066,
+      "word": "央视网谈厌蠢症",
+      "onboard_time": 1677172577,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 738335,
@@ -3075,14 +3083,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 547722,
-      "num": 547722,
-      "word": "央视网谈厌蠢症",
-      "onboard_time": 1677172577,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 547663,
       "num": 547663,
       "word": "爱奇艺首次实现全年运营盈利",
@@ -3369,6 +3369,14 @@
       "onboard_time": 1677132327,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496127,
+      "num": 496127,
+      "word": "会和丑却对你好的人恋爱吗",
+      "onboard_time": 1677169407,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 496066,
@@ -3745,14 +3753,6 @@
       "onboard_time": 1676907748,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450477,
-      "num": 450477,
-      "word": "会和丑却对你好的人恋爱吗",
-      "onboard_time": 1677169407,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 447914,
@@ -4723,6 +4723,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 367056,
+      "num": 367056,
+      "word": "女生考研查分后激动到晕倒送医",
+      "onboard_time": 1677172519,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 366616,
       "num": 1351875,
       "word": "大熊猫永明与女儿回家画面",
@@ -5635,6 +5643,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 301646,
+      "num": 301646,
+      "word": "全国6亿栋房屋并不全是商品房",
+      "onboard_time": 1677167728,
+      "rank": 16,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 301572,
       "num": 301572,
       "word": "94岁老人疑遭护工推倒撞地去世",
@@ -5651,20 +5667,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 300811,
-      "num": 300811,
-      "word": "全国6亿栋房屋并不全是商品房",
-      "onboard_time": 1677167728,
-      "rank": 16,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 300017,
       "num": 300017,
       "word": "英雄联盟绝息圣堂皮肤",
       "onboard_time": 1677037712,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299222,
+      "num": 299222,
+      "word": "济南一古墓发掘50余件唐三彩",
+      "onboard_time": 1677193640,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297450,
@@ -5883,14 +5899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284836,
-      "num": 284836,
-      "word": "女生考研查分后激动到晕倒送医",
-      "onboard_time": 1677172519,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 284033,
       "num": 284033,
       "word": "多地参加婚检额外奖励婚假",
@@ -5912,6 +5920,14 @@
       "word": "蒿俊闵",
       "onboard_time": 1677081926,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 282636,
+      "num": 282636,
+      "word": "曼联2比1巴萨",
+      "onboard_time": 1677193881,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -6497,6 +6513,14 @@
       "onboard_time": 1677024450,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247810,
+      "num": 247810,
+      "word": "中国不会成为另一个美国的十个原因",
+      "onboard_time": 1677179172,
+      "rank": 25,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 247524,
@@ -7291,14 +7315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205199,
-      "num": 205199,
-      "word": "曼联2比1巴萨",
-      "onboard_time": 1677193881,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205149,
       "num": 205149,
       "word": "Hanni米兰时装周出发图",
@@ -7401,14 +7417,6 @@
       "onboard_time": 1676825123,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 200771,
-      "num": 200771,
-      "word": "中国不会成为另一个美国的十个原因",
-      "onboard_time": 1677179172,
-      "rank": 25,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 200612,
@@ -7865,6 +7873,14 @@
       "onboard_time": 1677028412,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183970,
+      "num": 183970,
+      "word": "是什么让你在艰难时坚持下来",
+      "onboard_time": 1677194062,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 183781,
@@ -8467,14 +8483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164847,
-      "num": 164847,
-      "word": "济南一古墓发掘50余件唐三彩",
-      "onboard_time": 1677193640,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164693,
       "num": 164693,
       "word": "联想小新死机黑屏",
@@ -9019,6 +9027,14 @@
       "category": "社会议题,幽默"
     },
     {
+      "raw_hot": 134328,
+      "num": 134328,
+      "word": "实探上海巴奴火锅土豆11元6片",
+      "onboard_time": 1677182651,
+      "rank": 29,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 134314,
       "num": 134314,
       "word": "吴宣仪下班随拍",
@@ -9283,6 +9299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118244,
+      "num": 118244,
+      "word": "曼联晋级",
+      "onboard_time": 1677194182,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117677,
       "num": 117677,
       "word": "在小镇生活的幸福感有多高",
@@ -9353,14 +9377,6 @@
       "onboard_time": 1676800289,
       "rank": 46,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 111396,
-      "num": 111396,
-      "word": "实探上海巴奴火锅土豆11元6片",
-      "onboard_time": 1677182651,
-      "rank": 29,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 110880,
@@ -9475,14 +9491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 88504,
-      "num": 81058,
-      "word": "是什么让你在艰难时坚持下来",
-      "onboard_time": 1677194062,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 88126,
       "num": 88126,
       "word": "莱比锡vs曼城",
@@ -9515,12 +9523,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 81843,
-      "num": 81843,
-      "word": "曼联晋级",
-      "onboard_time": 1677194182,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 79759,
+      "num": 79759,
+      "word": "MOSS量子体积为什么是8192",
+      "onboard_time": 1677174676,
+      "rank": 21,
+      "category": "影视,科技"
     },
     {
       "raw_hot": 78823,
@@ -9528,6 +9536,14 @@
       "word": "写意中国探寻汉字起源",
       "onboard_time": 1676862207,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78750,
+      "num": 78750,
+      "word": "小朋友手绘奖状夸警察叔叔世界最牛",
+      "onboard_time": 1677194844,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -9587,20 +9603,20 @@
       "category": "教育,情感"
     },
     {
-      "raw_hot": 60718,
-      "num": 60718,
-      "word": "MOSS量子体积为什么是8192",
-      "onboard_time": 1677174676,
-      "rank": 21,
-      "category": "影视,科技"
-    },
-    {
-      "raw_hot": 59812,
-      "num": 59812,
+      "raw_hot": 62023,
+      "num": 62023,
       "word": "复盘俄乌战场十二大关键节点",
       "onboard_time": 1677186491,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59529,
+      "num": 59529,
+      "word": "迪马利亚帽子戏法",
+      "onboard_time": 1677195205,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 58987,
