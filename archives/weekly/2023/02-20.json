@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677187045787,
+  "endTime": 1677188030693,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -9228,7 +9228,7 @@
     },
     {
       "raw_hot": 120030,
-      "num": 42063,
+      "num": 42528,
       "word": "中国不会成为另一个美国的十个原因",
       "onboard_time": 1677179172,
       "rank": 25,
@@ -9611,20 +9611,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 44287,
+      "num": 44287,
+      "word": "实探上海巴奴火锅土豆11元6片",
+      "onboard_time": 1677182651,
+      "rank": 29,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 42130,
       "num": 42130,
       "word": "cpsp 阿宅拉练",
       "onboard_time": 1676828717,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 41389,
-      "num": 41389,
-      "word": "实探上海巴奴火锅土豆11元6片",
-      "onboard_time": 1677182651,
-      "rank": 29,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 35992,
@@ -9707,20 +9707,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17899,
+      "num": 17899,
+      "word": "复盘俄乌战场十二大关键节点",
+      "onboard_time": 1677186491,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16352,
       "num": 16352,
       "word": "原子之心上线",
       "onboard_time": 1676922911,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 13020,
-      "num": 13862,
-      "word": "复盘俄乌战场十二大关键节点",
-      "onboard_time": 1677186491,
-      "rank": 43,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
