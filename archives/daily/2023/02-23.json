@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677117553746,
+  "endTime": 1677120470886,
   "band_list": [
     {
       "raw_hot": 2147116,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1840447,
+      "num": 1468945,
+      "word": "女生拼多多网购改地址遭商家侮辱",
+      "onboard_time": 1677116068,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1726795,
       "num": 1726795,
       "word": "知情人称内蒙古煤矿坍塌被埋者大部分为司机",
       "onboard_time": 1677103214,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1678044,
+      "num": 1678044,
+      "word": "狂飙里的猪脚面是张颂文改的",
+      "onboard_time": 1677117327,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 1540968,
@@ -35,11 +51,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1468945,
-      "num": 1468945,
-      "word": "女生拼多多网购改地址遭商家侮辱",
-      "onboard_time": 1677116068,
-      "rank": 42,
+      "raw_hot": 1223991,
+      "num": 1223991,
+      "word": "高学历低龄老人线上求职碰壁",
+      "onboard_time": 1677118349,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -65,6 +81,14 @@
       "onboard_time": 1677112289,
       "rank": 6,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 897072,
+      "num": 897072,
+      "word": "五哈3官宣定档",
+      "onboard_time": 1677119007,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 874587,
@@ -187,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 555947,
+      "num": 555947,
+      "word": "商丘公交将暂停运营市区线路",
+      "onboard_time": 1677118884,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547663,
       "num": 547663,
       "word": "爱奇艺首次实现全年运营盈利",
@@ -227,6 +259,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 483843,
+      "num": 483843,
+      "word": "菲律宾版花泽类",
+      "onboard_time": 1677117266,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 460333,
       "num": 460333,
       "word": "iPhone15采用更大的6.2英寸屏",
@@ -257,6 +297,30 @@
       "onboard_time": 1677107902,
       "rank": 12,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 393817,
+      "num": 393817,
+      "word": "宋雨琦程潇许光汉同框",
+      "onboard_time": 1677119428,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 362287,
+      "num": 362287,
+      "word": "小学校长回应班主任多次收礼",
+      "onboard_time": 1677116967,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 359289,
+      "num": 359289,
+      "word": "税务师成绩",
+      "onboard_time": 1677118230,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 351189,
@@ -307,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289857,
-      "num": 195132,
-      "word": "狂飙里的猪脚面是张颂文改的",
-      "onboard_time": 1677117327,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 289745,
       "num": 289745,
       "word": "半熟恋人 抓马",
@@ -347,6 +403,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 276960,
+      "num": 276960,
+      "word": "王一博扮奥特曼跳breaking",
+      "onboard_time": 1677120326,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276794,
       "num": 276794,
       "word": "90后程序员改行卖早餐年入30万",
@@ -361,6 +425,14 @@
       "onboard_time": 1677113430,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269943,
+      "num": 269943,
+      "word": "近期婴幼儿易感染人呼吸道合胞病毒",
+      "onboard_time": 1677119487,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265829,
@@ -499,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209753,
+      "num": 209753,
+      "word": "哪座城市支持生育力度最大",
+      "onboard_time": 1677117987,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205594,
       "num": 205594,
       "word": "乐乐与丫丫20年前抵美画面",
@@ -523,11 +603,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196587,
-      "num": 196587,
-      "word": "菲律宾版花泽类",
-      "onboard_time": 1677117266,
-      "rank": 29,
+      "raw_hot": 201859,
+      "num": 201859,
+      "word": "大鹏新片热烈相信版预告",
+      "onboard_time": 1677119249,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -539,20 +619,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187927,
-      "num": 187927,
-      "word": "小学校长回应班主任多次收礼",
-      "onboard_time": 1677116967,
-      "rank": 33,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 187266,
       "num": 187266,
       "word": "SMTOWN理事集体辞职",
       "onboard_time": 1677063393,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186798,
+      "num": 186798,
+      "word": "黄奕于翔新剧亲嘴大头贴",
+      "onboard_time": 1677119187,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 186419,
@@ -579,12 +659,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181460,
+      "num": 181460,
+      "word": "郭采洁米兰第一夜随拍",
+      "onboard_time": 1677118406,
+      "rank": 30,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 181087,
       "num": 181087,
       "word": "接下来的杭州将是浪漫天花板",
       "onboard_time": 1677073172,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 180095,
+      "num": 180095,
+      "word": "半夜外墙现巨型蛛影吓坏众人",
+      "onboard_time": 1677119846,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174768,
@@ -601,6 +697,14 @@
       "onboard_time": 1677115949,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164907,
+      "num": 164907,
+      "word": "宋慧乔米兰时装周造型",
+      "onboard_time": 1677119487,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 164576,
@@ -673,6 +777,14 @@
       "onboard_time": 1677075213,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 116367,
+      "num": 116367,
+      "word": "黎明觉醒",
+      "onboard_time": 1677117807,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 115975,
