@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677116238926,
+  "endTime": 1677117553746,
   "band_list": [
     {
       "raw_hot": 2147116,
@@ -32,6 +32,14 @@
       "word": "新疆边境地区附近发生7.3级左右地震",
       "onboard_time": 1677113669,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1468945,
+      "num": 1468945,
+      "word": "女生拼多多网购改地址遭商家侮辱",
+      "onboard_time": 1677116068,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -105,6 +113,14 @@
       "onboard_time": 1677089595,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 667977,
+      "num": 667977,
+      "word": "爱奇艺能否复制狂飙的成功",
+      "onboard_time": 1677115709,
+      "rank": 26,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 666594,
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289857,
+      "num": 195132,
+      "word": "狂飙里的猪脚面是张颂文改的",
+      "onboard_time": 1677117327,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289745,
       "num": 289745,
       "word": "半熟恋人 抓马",
@@ -337,14 +361,6 @@
       "onboard_time": 1677113430,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 265946,
-      "num": 265946,
-      "word": "爱奇艺能否复制狂飙的成功",
-      "onboard_time": 1677115709,
-      "rank": 26,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 265829,
@@ -475,6 +491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211147,
+      "num": 211147,
+      "word": "YG新女团CHIQUITA介绍视频",
+      "onboard_time": 1677116548,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205594,
       "num": 205594,
       "word": "乐乐与丫丫20年前抵美画面",
@@ -491,12 +515,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202217,
+      "num": 202217,
+      "word": "曼城全场0换人",
+      "onboard_time": 1677116487,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196587,
+      "num": 196587,
+      "word": "菲律宾版花泽类",
+      "onboard_time": 1677117266,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188710,
       "num": 188710,
       "word": "李宇春背了好大一个包",
       "onboard_time": 1677073534,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187927,
+      "num": 187927,
+      "word": "小学校长回应班主任多次收礼",
+      "onboard_time": 1677116967,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 187266,
@@ -539,14 +587,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 178534,
-      "num": 178534,
-      "word": "女生拼多多网购改地址遭商家侮辱",
-      "onboard_time": 1677116068,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174768,
       "num": 174768,
       "word": "博主奶油日记为博眼球谎称下海被查",
@@ -555,20 +595,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 167604,
+      "num": 167604,
+      "word": "玄商遗言",
+      "onboard_time": 1677115949,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164576,
       "num": 164576,
       "word": "霉霉2022IFPI全球畅销艺人榜冠军",
       "onboard_time": 1677110730,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 154671,
-      "num": 154671,
-      "word": "玄商遗言",
-      "onboard_time": 1677115949,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 145076,

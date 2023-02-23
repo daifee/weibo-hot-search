@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677116238926,
+  "endTime": 1677117553746,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -441,6 +441,14 @@
       "onboard_time": 1677042215,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1468945,
+      "num": 1468945,
+      "word": "女生拼多多网购改地址遭商家侮辱",
+      "onboard_time": 1677116068,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1468907,
@@ -1985,6 +1993,14 @@
       "onboard_time": 1676949090,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 667977,
+      "num": 667977,
+      "word": "爱奇艺能否复制狂飙的成功",
+      "onboard_time": 1677115709,
+      "rank": 26,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 667191,
@@ -4755,6 +4771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289857,
+      "num": 195132,
+      "word": "狂飙里的猪脚面是张颂文改的",
+      "onboard_time": 1677117327,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288708,
       "num": 288708,
       "word": "王楚钦花在混双时间非常多",
@@ -5057,14 +5081,6 @@
       "onboard_time": 1676875048,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 265946,
-      "num": 265946,
-      "word": "爱奇艺能否复制狂飙的成功",
-      "onboard_time": 1677115709,
-      "rank": 26,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 265829,
@@ -5835,6 +5851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211147,
+      "num": 211147,
+      "word": "YG新女团CHIQUITA介绍视频",
+      "onboard_time": 1677116548,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211066,
       "num": 211066,
       "word": "外卖员晒接单截图泄漏顾客隐私",
@@ -6011,6 +6035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202217,
+      "num": 202217,
+      "word": "曼城全场0换人",
+      "onboard_time": 1677116487,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201312,
       "num": 201312,
       "word": "蔡徐坤现象EP悬疑感预告",
@@ -6097,6 +6129,14 @@
       "onboard_time": 1676956056,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 196587,
+      "num": 196587,
+      "word": "菲律宾版花泽类",
+      "onboard_time": 1677117266,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 196184,
@@ -6257,6 +6297,14 @@
       "onboard_time": 1676869174,
       "rank": 49,
       "category": "影视,体育"
+    },
+    {
+      "raw_hot": 187927,
+      "num": 187927,
+      "word": "小学校长回应班主任多次收礼",
+      "onboard_time": 1677116967,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 187640,
@@ -6473,14 +6521,6 @@
       "onboard_time": 1676963429,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178534,
-      "num": 178534,
-      "word": "女生拼多多网购改地址遭商家侮辱",
-      "onboard_time": 1677116068,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178247,
@@ -6715,6 +6755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167604,
+      "num": 167604,
+      "word": "玄商遗言",
+      "onboard_time": 1677115949,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167558,
       "num": 167558,
       "word": "王曼昱连得7分",
@@ -6945,14 +6993,6 @@
       "onboard_time": 1676803531,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154671,
-      "num": 154671,
-      "word": "玄商遗言",
-      "onboard_time": 1677115949,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 154237,

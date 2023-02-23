@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677116238926,
+  "endTime": 1677117553746,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -3593,6 +3593,14 @@
       "onboard_time": 1676371833,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1468945,
+      "num": 1468945,
+      "word": "女生拼多多网购改地址遭商家侮辱",
+      "onboard_time": 1677116068,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1468907,
@@ -13025,6 +13033,14 @@
       "onboard_time": 1676949090,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 667977,
+      "num": 667977,
+      "word": "爱奇艺能否复制狂飙的成功",
+      "onboard_time": 1677115709,
+      "rank": 26,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 667521,
@@ -30355,6 +30371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289857,
+      "num": 195132,
+      "word": "狂飙里的猪脚面是张颂文改的",
+      "onboard_time": 1677117327,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289717,
       "num": 289717,
       "word": "权顺荣剧透PLEDIS新男团将今年出道",
@@ -32633,14 +32657,6 @@
       "onboard_time": 1675384767,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265946,
-      "num": 265946,
-      "word": "爱奇艺能否复制狂飙的成功",
-      "onboard_time": 1677115709,
-      "rank": 26,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 265829,
@@ -37939,6 +37955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211147,
+      "num": 211147,
+      "word": "YG新女团CHIQUITA介绍视频",
+      "onboard_time": 1677116548,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211066,
       "num": 211066,
       "word": "外卖员晒接单截图泄漏顾客隐私",
@@ -38851,6 +38875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202217,
+      "num": 202217,
+      "word": "曼城全场0换人",
+      "onboard_time": 1677116487,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202209,
       "num": 202209,
       "word": "中国空间站又要来新人啦",
@@ -39553,6 +39585,14 @@
       "onboard_time": 1675753530,
       "rank": 37,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 196587,
+      "num": 196587,
+      "word": "菲律宾版花泽类",
+      "onboard_time": 1677117266,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 196526,
@@ -40881,6 +40921,14 @@
       "onboard_time": 1676820451,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187927,
+      "num": 187927,
+      "word": "小学校长回应班主任多次收礼",
+      "onboard_time": 1677116967,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 187904,
@@ -42353,14 +42401,6 @@
       "onboard_time": 1676339971,
       "rank": 41,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 178534,
-      "num": 178534,
-      "word": "女生拼多多网购改地址遭商家侮辱",
-      "onboard_time": 1677116068,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178455,
@@ -43971,6 +44011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167604,
+      "num": 167604,
+      "word": "玄商遗言",
+      "onboard_time": 1677115949,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167563,
       "num": 167563,
       "word": "Meiko500胜",
@@ -45529,14 +45577,6 @@
       "onboard_time": 1676439152,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154671,
-      "num": 154671,
-      "word": "玄商遗言",
-      "onboard_time": 1677115949,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 154602,
