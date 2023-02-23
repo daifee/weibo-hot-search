@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677108832427,
+  "endTime": 1677116238926,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2147116,
+      "num": 2147116,
+      "word": "美媒称韩国部队锅是美军剩菜",
+      "onboard_time": 1677110908,
+      "rank": 0,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 2106245,
       "num": 656177,
       "word": "王智是忘了切号吗",
@@ -240,6 +248,14 @@
       "word": "乐乐",
       "onboard_time": 1677038320,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1997326,
+      "num": 1997326,
+      "word": "塔吉克斯坦发生7.2级地震",
+      "onboard_time": 1677114151,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -401,6 +417,14 @@
       "onboard_time": 1676896826,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1540968,
+      "num": 1540968,
+      "word": "新疆边境地区附近发生7.3级左右地震",
+      "onboard_time": 1677113669,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1532278,
@@ -859,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1110962,
+      "num": 1110962,
+      "word": "iPhone15早期真机图曝光",
+      "onboard_time": 1677112592,
+      "rank": 5,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1109780,
       "num": 1109780,
       "word": "日本66%的高端外国人才是中国人",
@@ -881,6 +913,14 @@
       "onboard_time": 1677030450,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1103029,
+      "num": 1103029,
+      "word": "拜登离开波兰上飞机时摔倒",
+      "onboard_time": 1677112289,
+      "rank": 6,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1096353,
@@ -1241,6 +1281,14 @@
       "onboard_time": 1676953655,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 874587,
+      "num": 874587,
+      "word": "读研到底是种什么体验",
+      "onboard_time": 1677111688,
+      "rank": 7,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 864500,
@@ -1955,6 +2003,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 666594,
+      "num": 666594,
+      "word": "不愿相信主人得癌症的狗狗",
+      "onboard_time": 1677110188,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 664782,
       "num": 664782,
       "word": "我们的日子 严冰",
@@ -2017,6 +2073,14 @@
       "onboard_time": 1676799632,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 647500,
+      "num": 647500,
+      "word": "南方都是这样的教学楼吗",
+      "onboard_time": 1677083304,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 646461,
@@ -2371,14 +2435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 562747,
-      "num": 562747,
-      "word": "南方都是这样的教学楼吗",
-      "onboard_time": 1677083304,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 561521,
       "num": 561521,
       "word": "这是在厕所里安了张床吧",
@@ -2497,6 +2553,14 @@
       "onboard_time": 1676862808,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 545737,
+      "num": 545737,
+      "word": "欢迎台湾同胞品尝这些大陆美食",
+      "onboard_time": 1677113611,
+      "rank": 10,
+      "category": "美食"
     },
     {
       "raw_hot": 545297,
@@ -2723,6 +2787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494757,
+      "num": 494757,
+      "word": "王鹤棣时宴雨中撑伞",
+      "onboard_time": 1677114570,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 493999,
       "num": 493999,
       "word": "马嘉祺丁程鑫一起向我投来赞赏的目光",
@@ -2737,6 +2809,14 @@
       "onboard_time": 1676870372,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 493211,
+      "num": 493211,
+      "word": "这篇小学作文是被打成压缩包了吗",
+      "onboard_time": 1677114449,
+      "rank": 13,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 492754,
@@ -2945,6 +3025,14 @@
       "onboard_time": 1676850143,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460333,
+      "num": 460333,
+      "word": "iPhone15采用更大的6.2英寸屏",
+      "onboard_time": 1677114449,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 459007,
@@ -3241,6 +3329,14 @@
       "onboard_time": 1676975373,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 423829,
+      "num": 423829,
+      "word": "爱奇艺会员收入创单季最高",
+      "onboard_time": 1677107902,
+      "rank": 12,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 423060,
@@ -4179,14 +4275,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 328890,
-      "num": 328890,
-      "word": "爱奇艺会员收入创单季最高",
-      "onboard_time": 1677107902,
-      "rank": 12,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 328536,
       "num": 328536,
       "word": "爱奇艺客服回应不再限制投屏",
@@ -4369,6 +4457,14 @@
       "onboard_time": 1676947231,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 316760,
+      "num": 316760,
+      "word": "SMTOWN将全方位与Kakao合作",
+      "onboard_time": 1677113070,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 316606,
@@ -4787,6 +4883,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 279553,
+      "num": 279553,
+      "word": "3只旅日大熊猫顺利返回成都",
+      "onboard_time": 1677107542,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278740,
       "num": 278740,
       "word": "江湖举人 上野千鹤子",
@@ -4849,6 +4953,14 @@
       "onboard_time": 1676824164,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274753,
+      "num": 274753,
+      "word": "黑暗荣耀第二季预告视频",
+      "onboard_time": 1677113430,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 273390,
@@ -4945,6 +5057,22 @@
       "onboard_time": 1676875048,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 265946,
+      "num": 265946,
+      "word": "爱奇艺能否复制狂飙的成功",
+      "onboard_time": 1677115709,
+      "rank": 26,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 265829,
+      "num": 265829,
+      "word": "当你有个擅长表达的女朋友",
+      "onboard_time": 1677088696,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 265757,
@@ -5243,6 +5371,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 239040,
+      "num": 239040,
+      "word": "内蒙古坍塌煤矿仍有51人失联",
+      "onboard_time": 1677110248,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 238548,
       "num": 238548,
       "word": "二喜团建",
@@ -5507,14 +5643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222781,
-      "num": 222781,
-      "word": "3只旅日大熊猫顺利返回成都",
-      "onboard_time": 1677107542,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222505,
       "num": 222505,
       "word": "刘涛米兰时装周生图",
@@ -5587,6 +5715,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217300,
+      "num": 217300,
+      "word": "为何说国产奶粉更适合中国宝宝",
+      "onboard_time": 1677113368,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217100,
+      "num": 217100,
+      "word": "喀什震感",
+      "onboard_time": 1677114329,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216321,
       "num": 216321,
       "word": "MOSS的最大短板是中文水平不够高",
@@ -5609,6 +5753,14 @@
       "onboard_time": 1676918834,
       "rank": 19,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 214978,
+      "num": 214978,
+      "word": "SEVENTEEN2022IFPI第6位",
+      "onboard_time": 1677111450,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 214101,
@@ -5649,6 +5801,22 @@
       "onboard_time": 1676853512,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213382,
+      "num": 213382,
+      "word": "AppleWatch未来或将无创测血糖",
+      "onboard_time": 1677113252,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 212798,
+      "num": 212798,
+      "word": "李宇春到达米兰",
+      "onboard_time": 1677110008,
+      "rank": 38,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 212382,
@@ -6115,6 +6283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186419,
+      "num": 186419,
+      "word": "当事人回应要返现未果连刷11个差评",
+      "onboard_time": 1677115230,
+      "rank": 41,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 186392,
       "num": 186392,
       "word": "梅西刮胡子了",
@@ -6297,6 +6473,14 @@
       "onboard_time": 1676963429,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178534,
+      "num": 178534,
+      "word": "女生拼多多网购改地址遭商家侮辱",
+      "onboard_time": 1677116068,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178247,
@@ -6611,6 +6795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164576,
+      "num": 164576,
+      "word": "霉霉2022IFPI全球畅销艺人榜冠军",
+      "onboard_time": 1677110730,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164218,
       "num": 164218,
       "word": "邢菲武庚纪绿衣造型路透",
@@ -6753,6 +6945,14 @@
       "onboard_time": 1676803531,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154671,
+      "num": 154671,
+      "word": "玄商遗言",
+      "onboard_time": 1677115949,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 154237,
@@ -6963,14 +7163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137886,
-      "num": 137886,
-      "word": "当你有个擅长表达的女朋友",
-      "onboard_time": 1677088696,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136129,
       "num": 136129,
       "word": "张绍刚说王鹤棣长得让人垂涎欲滴",
@@ -7108,7 +7300,7 @@
     },
     {
       "raw_hot": 123583,
-      "num": 1471144,
+      "num": 1656202,
       "word": "你那里的春日大片上线了吗",
       "onboard_time": 1677070952,
       "rank": 2,

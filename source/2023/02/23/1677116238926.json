@@ -1,0 +1,410 @@
+{
+  "runTime": 1677116238926,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2147116,
+        "num": 2147116,
+        "word": "美媒称韩国部队锅是美军剩菜",
+        "onboard_time": 1677110908,
+        "rank": 0,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 1997326,
+        "num": 1997326,
+        "word": "塔吉克斯坦发生7.2级地震",
+        "onboard_time": 1677114151,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87628,
+        "num": 1656202,
+        "word": "你那里的春日大片上线了吗",
+        "onboard_time": 1677070952,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1540968,
+        "num": 1540968,
+        "word": "新疆边境地区附近发生7.3级左右地震",
+        "onboard_time": 1677113669,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1134560,
+        "num": 1134560,
+        "word": "知情人称内蒙古煤矿坍塌被埋者大部分为司机",
+        "onboard_time": 1677103214,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1110962,
+        "num": 1110962,
+        "word": "iPhone15早期真机图曝光",
+        "onboard_time": 1677112592,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1103029,
+        "num": 1103029,
+        "word": "拜登离开波兰上飞机时摔倒",
+        "onboard_time": 1677112289,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 874587,
+        "num": 874587,
+        "word": "读研到底是种什么体验",
+        "onboard_time": 1677111688,
+        "rank": 7,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 666594,
+        "num": 666594,
+        "word": "不愿相信主人得癌症的狗狗",
+        "onboard_time": 1677110188,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 647500,
+        "num": 647500,
+        "word": "南方都是这样的教学楼吗",
+        "onboard_time": 1677083304,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 545737,
+        "num": 545737,
+        "word": "欢迎台湾同胞品尝这些大陆美食",
+        "onboard_time": 1677113611,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 514223,
+        "num": 514223,
+        "word": "孟菲斯动物园称希望再租借一对年轻熊猫",
+        "onboard_time": 1677066929,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494757,
+        "num": 494757,
+        "word": "王鹤棣时宴雨中撑伞",
+        "onboard_time": 1677114570,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 493211,
+        "num": 493211,
+        "word": "这篇小学作文是被打成压缩包了吗",
+        "onboard_time": 1677114449,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 466509,
+        "num": 466509,
+        "word": "宋慧乔许光汉同框",
+        "onboard_time": 1677076173,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 460333,
+        "num": 460333,
+        "word": "iPhone15采用更大的6.2英寸屏",
+        "onboard_time": 1677114449,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 459191,
+        "num": 459191,
+        "word": "沪上阿姨外包装旗袍图被质疑不雅",
+        "onboard_time": 1677065793,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423829,
+        "num": 423829,
+        "word": "爱奇艺会员收入创单季最高",
+        "onboard_time": 1677107902,
+        "rank": 17,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 378039,
+        "num": 378039,
+        "word": "动物园回应白面僧面猴长相炸裂",
+        "onboard_time": 1677104956,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316760,
+        "num": 316760,
+        "word": "SMTOWN将全方位与Kakao合作",
+        "onboard_time": 1677113070,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315130,
+        "num": 315130,
+        "word": "爷爷颤颤巍巍去见孙子最后一面",
+        "onboard_time": 1677082644,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311009,
+        "num": 311009,
+        "word": "星落凝成刀",
+        "onboard_time": 1677081747,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282613,
+        "num": 282613,
+        "word": "明星米兰时装周状态",
+        "onboard_time": 1677077434,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 282387,
+        "num": 282387,
+        "word": "乌梅子酱",
+        "onboard_time": 1677066450,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279553,
+        "num": 279553,
+        "word": "3只旅日大熊猫顺利返回成都",
+        "onboard_time": 1677107542,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274753,
+        "num": 274753,
+        "word": "黑暗荣耀第二季预告视频",
+        "onboard_time": 1677113430,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265946,
+        "num": 265946,
+        "word": "爱奇艺能否复制狂飙的成功",
+        "onboard_time": 1677115709,
+        "rank": 26,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 265829,
+        "num": 265829,
+        "word": "当你有个擅长表达的女朋友",
+        "onboard_time": 1677088696,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259485,
+        "num": 259485,
+        "word": "金智秀法国VOGUE三月刊封面",
+        "onboard_time": 1677108143,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 241831,
+        "num": 241831,
+        "word": "为什么抑郁症的人越来越多",
+        "onboard_time": 1677076893,
+        "rank": 29,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 376777,
+        "num": 241792,
+        "word": "农村结婚难该谁来背锅",
+        "onboard_time": 1677070714,
+        "rank": 30,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 272932,
+        "num": 241531,
+        "word": "陈妍希几乎每天都对陈晓说我爱你",
+        "onboard_time": 1677070470,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239040,
+        "num": 239040,
+        "word": "内蒙古坍塌煤矿仍有51人失联",
+        "onboard_time": 1677110248,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 222087,
+        "num": 222087,
+        "word": "美主播曝拜登曾说毁灭台湾计划",
+        "onboard_time": 1677086597,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 217300,
+        "num": 217300,
+        "word": "为何说国产奶粉更适合中国宝宝",
+        "onboard_time": 1677113368,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217100,
+        "num": 217100,
+        "word": "喀什震感",
+        "onboard_time": 1677114329,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214978,
+        "num": 214978,
+        "word": "SEVENTEEN2022IFPI第6位",
+        "onboard_time": 1677111450,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213382,
+        "num": 213382,
+        "word": "AppleWatch未来或将无创测血糖",
+        "onboard_time": 1677113252,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 212798,
+        "num": 212798,
+        "word": "李宇春到达米兰",
+        "onboard_time": 1677110008,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 199407,
+        "num": 199407,
+        "word": "半熟恋人 抓马",
+        "onboard_time": 1677077314,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188949,
+        "num": 188949,
+        "word": "中国乒乓出品人回应票房不如预期",
+        "onboard_time": 1677079949,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186419,
+        "num": 186419,
+        "word": "当事人回应要返现未果连刷11个差评",
+        "onboard_time": 1677115230,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 178534,
+        "num": 178534,
+        "word": "女生拼多多网购改地址遭商家侮辱",
+        "onboard_time": 1677116068,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164576,
+        "num": 164576,
+        "word": "霉霉2022IFPI全球畅销艺人榜冠军",
+        "onboard_time": 1677110730,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163146,
+        "num": 163146,
+        "word": "博主奶油日记为博眼球谎称下海被查",
+        "onboard_time": 1677076358,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 158690,
+        "num": 158690,
+        "word": "文豪野犬",
+        "onboard_time": 1677080130,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 154671,
+        "num": 154671,
+        "word": "玄商遗言",
+        "onboard_time": 1677115949,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150770,
+        "num": 150770,
+        "word": "宋雨琦程潇看秀造型",
+        "onboard_time": 1677074255,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140064,
+        "num": 140064,
+        "word": "找人类帮忙的小猫",
+        "onboard_time": 1677083124,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138418,
+        "num": 138418,
+        "word": "90后程序员改行卖早餐年入30万",
+        "onboard_time": 1677066091,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进中国式现代化需要处理好若干重大关系#"
+    }
+  }
+}
