@@ -1,6 +1,6 @@
 {
   "startTime": 1677083214058,
-  "endTime": 1677144833959,
+  "endTime": 1677147649116,
   "band_list": [
     {
       "raw_hot": 2699441,
@@ -128,6 +128,22 @@
       "word": "骗子为骗钱竟造一整个派出所",
       "onboard_time": 1677129153,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1260745,
+      "num": 1260745,
+      "word": "企业月薪4万招人去非洲养鸡",
+      "onboard_time": 1677144155,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1237829,
+      "num": 1237829,
+      "word": "甘肃地震",
+      "onboard_time": 1677145950,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -379,12 +395,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 653194,
+      "num": 653194,
+      "word": "王濛方声明",
+      "onboard_time": 1677147270,
+      "rank": 6,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 647500,
       "num": 647500,
       "word": "南方都是这样的教学楼吗",
       "onboard_time": 1677083304,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 645609,
+      "num": 645609,
+      "word": "地下城与勇士端游改名",
+      "onboard_time": 1677144451,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 645358,
@@ -515,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522833,
+      "num": 522833,
+      "word": "李秀满将SMTOWN21亿韩元转至中国公司",
+      "onboard_time": 1677143310,
+      "rank": 15,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 513648,
       "num": 509716,
       "word": "特朗普访毒列车事发地带1.4万瓶特朗普牌矿泉水",
@@ -529,14 +569,6 @@
       "onboard_time": 1677070470,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 499158,
-      "num": 499158,
-      "word": "李秀满将SMTOWN21亿韩元转至中国公司",
-      "onboard_time": 1677143310,
-      "rank": 15,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 496302,
@@ -577,6 +609,14 @@
       "onboard_time": 1677134490,
       "rank": 9,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 461190,
+      "num": 461190,
+      "word": "辣目夜昙头纱吻",
+      "onboard_time": 1677145168,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 460682,
@@ -635,12 +675,28 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 421616,
+      "num": 421616,
+      "word": "灌篮高手",
+      "onboard_time": 1677145950,
+      "rank": 12,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 416174,
       "num": 416174,
       "word": "刘烨胡军文咏珊民国氛围感",
       "onboard_time": 1677128013,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 414083,
+      "num": 414083,
+      "word": "电影灌篮高手官宣定档",
+      "onboard_time": 1677145950,
+      "rank": 14,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 408743,
@@ -716,7 +772,7 @@
     },
     {
       "raw_hot": 366616,
-      "num": 1169644,
+      "num": 1274401,
       "word": "大熊猫永明与女儿回家画面",
       "onboard_time": 1677137610,
       "rank": 2,
@@ -811,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333397,
+      "num": 333397,
+      "word": "张若昀大侦探再现白敬亭名场面",
+      "onboard_time": 1677145050,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326342,
       "num": 326342,
       "word": "金智秀法国VOGUE三月刊封面",
@@ -883,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297040,
-      "num": 297040,
-      "word": "企业月薪4万招人去非洲养鸡",
-      "onboard_time": 1677144155,
-      "rank": 21,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 295340,
       "num": 295340,
       "word": "市监局回应沪上阿姨图片被指不雅",
@@ -905,6 +961,14 @@
       "onboard_time": 1677119846,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291067,
+      "num": 291067,
+      "word": "高拉特退籍费250元",
+      "onboard_time": 1677143912,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 289745,
@@ -1123,6 +1187,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 238544,
+      "num": 238544,
+      "word": "黄仁俊直播",
+      "onboard_time": 1677144571,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231956,
       "num": 231956,
       "word": "周杰伦2022IFPI第九位",
@@ -1163,20 +1235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227265,
-      "num": 227265,
-      "word": "高拉特退籍费250元",
-      "onboard_time": 1677143912,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 223363,
       "num": 223363,
       "word": "小学生看到2岁男童独行一路护送",
       "onboard_time": 1677091512,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 222988,
+      "num": 222988,
+      "word": "女电工写20万字笔记练成行业天花板",
+      "onboard_time": 1677146432,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217300,
@@ -1379,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191562,
-      "num": 191562,
-      "word": "黄仁俊直播",
-      "onboard_time": 1677144571,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190723,
       "num": 190723,
       "word": "骆驼界的高启强",
@@ -1467,20 +1531,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 178365,
+      "num": 178365,
+      "word": "邓超谈中国乒乓排片",
+      "onboard_time": 1677144393,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177204,
       "num": 177204,
       "word": "90后女孩建3万平工厂当厂长",
       "onboard_time": 1677122908,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175178,
-      "num": 175178,
-      "word": "邓超谈中国乒乓排片",
-      "onboard_time": 1677144393,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 174768,
@@ -1515,14 +1579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169182,
-      "num": 169182,
-      "word": "地下城与勇士端游改名",
-      "onboard_time": 1677144451,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 169074,
       "num": 169074,
       "word": "Akira说林志玲完美",
@@ -1555,6 +1611,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166682,
+      "num": 166682,
+      "word": "饭局恐慌症",
+      "onboard_time": 1677146970,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 165815,
+      "num": 165815,
+      "word": "张颂文是如何厚积薄发的",
+      "onboard_time": 1677144692,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165169,
       "num": 165169,
       "word": "吴磊赵今麦新剧同框照",
@@ -1577,6 +1649,14 @@
       "onboard_time": 1677110730,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 163325,
+      "num": 163325,
+      "word": "战歌响夏花飙",
+      "onboard_time": 1677146192,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 158892,
@@ -1753,14 +1833,6 @@
       "onboard_time": 1677133110,
       "rank": 46,
       "category": "美食,情感"
-    },
-    {
-      "raw_hot": 126096,
-      "num": 126096,
-      "word": "张颂文是如何厚积薄发的",
-      "onboard_time": 1677144692,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 125514,
