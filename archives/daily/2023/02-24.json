@@ -1,6 +1,6 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677245214270,
+  "endTime": 1677245869148,
   "band_list": [
     {
       "raw_hot": 2829909,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 851161,
+      "num": 851161,
+      "word": "水哥真帅",
+      "onboard_time": 1677243930,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 845991,
       "num": 755952,
       "word": "刘雯闭场",
@@ -337,6 +345,14 @@
       "onboard_time": 1677225508,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 790291,
+      "num": 274730,
+      "word": "江苏一男子因赡养问题弑父杀母",
+      "onboard_time": 1677242611,
+      "rank": 27,
+      "category": "社会负面"
     },
     {
       "raw_hot": 785853,
@@ -403,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 721539,
-      "num": 230035,
-      "word": "江苏一男子因赡养问题弑父杀母",
-      "onboard_time": 1677242611,
-      "rank": 27,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 710806,
       "num": 710806,
       "word": "会和丑却对你好的人恋爱吗",
@@ -459,6 +467,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 693965,
+      "num": 693965,
+      "word": "冰冰重做了吧",
+      "onboard_time": 1677241050,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 675776,
       "num": 675776,
       "word": "演员王全有吐槽药价",
@@ -505,22 +521,6 @@
       "onboard_time": 1677241950,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 634172,
-      "num": 634172,
-      "word": "水哥真帅",
-      "onboard_time": 1677243930,
-      "rank": 4,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 629888,
-      "num": 629888,
-      "word": "冰冰重做了吧",
-      "onboard_time": 1677241050,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 620123,
@@ -731,6 +731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 499174,
+      "num": 499174,
+      "word": "鹿晗的行李箱",
+      "onboard_time": 1677244470,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 497852,
       "num": 497852,
       "word": "目前过敏性鼻炎无法根治",
@@ -795,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452136,
+      "num": 452136,
+      "word": "小城市房子会越来越不值钱吗",
+      "onboard_time": 1677244650,
+      "rank": 29,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 450823,
       "num": 450823,
       "word": "aespa将举行世界巡演",
@@ -827,8 +843,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421945,
-      "num": 421945,
+      "raw_hot": 427772,
+      "num": 427772,
       "word": "张大大直播",
       "onboard_time": 1677243692,
       "rank": 12,
@@ -883,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 407440,
+      "num": 407440,
+      "word": "滴水观音有毒不能碰",
+      "onboard_time": 1677242491,
+      "rank": 38,
+      "category": "其它"
+    },
+    {
       "raw_hot": 402497,
       "num": 402497,
       "word": "爱情而已",
@@ -899,20 +923,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397553,
+      "num": 189379,
+      "word": "李佳琦现身浙江传媒学院招聘",
+      "onboard_time": 1677245130,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 397302,
       "num": 397302,
       "word": "男子贩卖小熊猫川金丝猴获刑14年",
       "onboard_time": 1677223229,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396300,
-      "num": 340979,
-      "word": "鹿晗的行李箱",
-      "onboard_time": 1677244470,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 394235,
@@ -929,6 +953,14 @@
       "onboard_time": 1677221848,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 390120,
+      "num": 390120,
+      "word": "邓超说30岁前没穿过秋裤",
+      "onboard_time": 1677245189,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 381615,
@@ -948,7 +980,7 @@
     },
     {
       "raw_hot": 377819,
-      "num": 461575,
+      "num": 466569,
       "word": "女童玩瑜伽球致跑步机男子摔倒",
       "onboard_time": 1677242072,
       "rank": 44,
@@ -969,14 +1001,6 @@
       "onboard_time": 1677239727,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 374311,
-      "num": 374311,
-      "word": "滴水观音有毒不能碰",
-      "onboard_time": 1677242491,
-      "rank": 38,
-      "category": "其它"
     },
     {
       "raw_hot": 367056,
@@ -1019,20 +1043,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 360208,
+      "num": 270815,
+      "word": "周深唱大鱼",
+      "onboard_time": 1677244053,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357820,
       "num": 357820,
       "word": "联大通过和平公式决议草案",
       "onboard_time": 1677202047,
       "rank": 28,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 356614,
-      "num": 229742,
-      "word": "周深唱大鱼",
-      "onboard_time": 1677244053,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 354433,
@@ -1091,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339632,
+      "num": 339632,
+      "word": "什么都AI换脸只会害了你",
+      "onboard_time": 1677242971,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 338979,
       "num": 338979,
       "word": "德云社节目单",
@@ -1129,14 +1161,6 @@
       "onboard_time": 1677167012,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335666,
-      "num": 335666,
-      "word": "什么都AI换脸只会害了你",
-      "onboard_time": 1677242971,
-      "rank": 42,
-      "category": "科技"
     },
     {
       "raw_hot": 329403,
@@ -1267,20 +1291,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 280378,
+      "num": 280378,
+      "word": "原来有趣的人真的不会无聊",
+      "onboard_time": 1677244650,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 280297,
       "num": 280297,
       "word": "新疆小伙1天拿到驾驶证",
       "onboard_time": 1677154410,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278921,
-      "num": 216649,
-      "word": "邓超说30岁前没穿过秋裤",
-      "onboard_time": 1677245189,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 278346,
@@ -1387,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234141,
+      "num": 202082,
+      "word": "张栋梁称赞张真源前途无量",
+      "onboard_time": 1677244770,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232528,
       "num": 232528,
       "word": "现实版落霞与孤鹜齐飞有多美",
@@ -1451,14 +1483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216725,
-      "num": 216725,
-      "word": "小城市房子会越来越不值钱吗",
-      "onboard_time": 1677244650,
-      "rank": 29,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 216012,
       "num": 216012,
       "word": "维金斯无限期离队",
@@ -1489,14 +1513,6 @@
       "onboard_time": 1677200189,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205757,
-      "num": 202082,
-      "word": "张栋梁称赞张真源前途无量",
-      "onboard_time": 1677244770,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 205151,
@@ -1595,6 +1611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190246,
+      "num": 190246,
+      "word": "孔乙己文学",
+      "onboard_time": 1677245431,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186844,
       "num": 186844,
       "word": "房贷创新重在发掘消费者潜在需求",
@@ -1643,14 +1667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180694,
-      "num": 180694,
-      "word": "原来有趣的人真的不会无聊",
-      "onboard_time": 1677244650,
-      "rank": 36,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 178832,
       "num": 178832,
       "word": "彭冠英王楚然新剧吻戏",
@@ -1672,6 +1688,14 @@
       "word": "刘耀文荣梓杉对手戏",
       "onboard_time": 1677220828,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177176,
+      "num": 177176,
+      "word": "唐嫣报喜不报忧",
+      "onboard_time": 1677245549,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1857,14 +1881,6 @@
       "onboard_time": 1677226647,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151783,
-      "num": 151783,
-      "word": "李佳琦现身浙江传媒学院招聘",
-      "onboard_time": 1677245130,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 149263,
@@ -2259,8 +2275,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 38645,
-      "num": 344619,
+      "raw_hot": 52304,
+      "num": 408213,
       "word": "时装周比大胆的时候到了",
       "onboard_time": 1677244053,
       "rank": 14,
@@ -2306,6 +2322,9 @@
     },
     {
       "word": "#奋进的春天#"
+    },
+    {
+      "word": "#不负人民#"
     }
   ]
 }
