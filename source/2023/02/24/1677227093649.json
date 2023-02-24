@@ -1,0 +1,410 @@
+{
+  "runTime": 1677227093649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1818016,
+        "num": 1818016,
+        "word": "王鸥诡笑",
+        "onboard_time": 1677221248,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1683516,
+        "num": 1683516,
+        "word": "男孩7次举手后离世最新进展",
+        "onboard_time": 1677222330,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105050,
+        "num": 1168759,
+        "word": "关于政治解决乌克兰危机的中国立场",
+        "onboard_time": 1677201567,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1086096,
+        "num": 1086096,
+        "word": "男子猝死其母将女友告上法庭判赔16万",
+        "onboard_time": 1677213454,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795779,
+        "num": 795779,
+        "word": "原神",
+        "onboard_time": 1677225508,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 753201,
+        "num": 753201,
+        "word": "公诉精英 接档",
+        "onboard_time": 1677225988,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 424270,
+        "num": 424270,
+        "word": "双鱼座的恋爱心态",
+        "onboard_time": 1677221308,
+        "rank": 6,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 417981,
+        "num": 417981,
+        "word": "徐志胜和李宇春同获音乐奖",
+        "onboard_time": 1677224548,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387411,
+        "num": 387411,
+        "word": "男子贩卖小熊猫川金丝猴获刑14年",
+        "onboard_time": 1677223229,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378988,
+        "num": 378988,
+        "word": "邓超陈赫鹿晗哈哇哟表情包",
+        "onboard_time": 1677224131,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1125743,
+        "num": 375184,
+        "word": "肖战米兰街拍",
+        "onboard_time": 1677226528,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 592676,
+        "num": 373623,
+        "word": "天官赐福",
+        "onboard_time": 1677216635,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370472,
+        "num": 370472,
+        "word": "省考",
+        "onboard_time": 1677217111,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 337094,
+        "num": 337094,
+        "word": "四大会计事务所中标多家国企项目",
+        "onboard_time": 1677219149,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 325817,
+        "num": 325817,
+        "word": "唐嫣短发造型路透",
+        "onboard_time": 1677222150,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317303,
+        "num": 317303,
+        "word": "刘些宁与jellyfish终止合约",
+        "onboard_time": 1677221008,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306205,
+        "num": 306205,
+        "word": "郑恺 谁会对周一有期待",
+        "onboard_time": 1677219329,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276976,
+        "num": 276976,
+        "word": "网友P的刘诗诗李健合照",
+        "onboard_time": 1677219329,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272679,
+        "num": 272679,
+        "word": "隔空猥亵同样是性侵",
+        "onboard_time": 1677207448,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255953,
+        "num": 255953,
+        "word": "catti",
+        "onboard_time": 1677221848,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 746132,
+        "num": 255081,
+        "word": "30岁以上大龄未婚青年非常普遍",
+        "onboard_time": 1677220470,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329274,
+        "num": 254825,
+        "word": "县长涉嫌性侵挂职女干部被停职",
+        "onboard_time": 1677203847,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265490,
+        "num": 254496,
+        "word": "陈学冬车祸后报平安",
+        "onboard_time": 1677212251,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254166,
+        "num": 254166,
+        "word": "农村也出现恐婚恐育群体",
+        "onboard_time": 1677217948,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234973,
+        "num": 234973,
+        "word": "网友称用ChatGPT后被海外大学录取",
+        "onboard_time": 1677213870,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 234494,
+        "num": 234494,
+        "word": "刘亚仁体毛检测阳性",
+        "onboard_time": 1677206786,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 234362,
+        "num": 234362,
+        "word": "龚俊也去泰国了",
+        "onboard_time": 1677212429,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232048,
+        "num": 232048,
+        "word": "毒舌律师 粤语",
+        "onboard_time": 1677222868,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230974,
+        "num": 230974,
+        "word": "村支书非法占有孤儿生活补贴五年",
+        "onboard_time": 1677214533,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203882,
+        "num": 203882,
+        "word": "毒舌律师",
+        "onboard_time": 1677224790,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290316,
+        "num": 203855,
+        "word": "知名杂志因大量AI生成投稿暂停征稿",
+        "onboard_time": 1677225629,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203409,
+        "num": 203409,
+        "word": "毛不易演唱会官宣十场",
+        "onboard_time": 1677212490,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199531,
+        "num": 199531,
+        "word": "流浪地球2评分上涨",
+        "onboard_time": 1677221308,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195795,
+        "num": 195795,
+        "word": "NLPC试图把库克踢出苹果董事会",
+        "onboard_time": 1677226708,
+        "rank": 33,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 186168,
+        "num": 186168,
+        "word": "无臂女孩用脚卖货成人气主播",
+        "onboard_time": 1677223349,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 179084,
+        "num": 179084,
+        "word": "预防性侵必须知道的六个危险警报",
+        "onboard_time": 1677225266,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177153,
+        "num": 177153,
+        "word": "老默我想吃鱼了被抢注商标",
+        "onboard_time": 1677207928,
+        "rank": 36,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 171768,
+        "num": 171768,
+        "word": "李泳知表情包",
+        "onboard_time": 1677222330,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168968,
+        "num": 168968,
+        "word": "陆虎2023巡演官宣",
+        "onboard_time": 1677225208,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159518,
+        "num": 159518,
+        "word": "云南3岁失联男童已平安找到",
+        "onboard_time": 1677211589,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152096,
+        "num": 152096,
+        "word": "陈乔恩粉色氛围感随拍",
+        "onboard_time": 1677226647,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152055,
+        "num": 152055,
+        "word": "在美志愿者称丫丫有刻板行为",
+        "onboard_time": 1677202408,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143535,
+        "num": 143535,
+        "word": "张颂文曾抱过张翰",
+        "onboard_time": 1677208708,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138832,
+        "num": 138832,
+        "word": "亮剑丁团长扮演者吐槽药费贵",
+        "onboard_time": 1677214773,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136748,
+        "num": 136748,
+        "word": "科学家在大脑中培育出电极",
+        "onboard_time": 1677224848,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 133867,
+        "num": 133867,
+        "word": "男子带礼物坐地铁不断向路人炫耀",
+        "onboard_time": 1677221671,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130637,
+        "num": 130637,
+        "word": "王一博贡献了诸多临场发挥的戏码",
+        "onboard_time": 1677213993,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130261,
+        "num": 130261,
+        "word": "又一未拆封初代iPhone被拍卖",
+        "onboard_time": 1677212251,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 125523,
+        "num": 125523,
+        "word": "曝HYBE为李秀满植树计划投资百亿韩元",
+        "onboard_time": 1677212913,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117700,
+        "num": 117700,
+        "word": "梁洁落日氛围感随拍",
+        "onboard_time": 1677225508,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#雷锋的故事为何被传颂了大半个世纪#"
+    }
+  }
+}

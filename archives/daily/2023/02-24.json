@@ -1,6 +1,6 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677224034904,
+  "endTime": 1677227093649,
   "band_list": [
     {
       "raw_hot": 2530260,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1790029,
-      "num": 1790029,
+      "raw_hot": 1818016,
+      "num": 1818016,
       "word": "王鸥诡笑",
       "onboard_time": 1677221248,
       "rank": 1,
@@ -49,6 +49,14 @@
       "onboard_time": 1677206786,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1683516,
+      "num": 1683516,
+      "word": "男孩7次举手后离世最新进展",
+      "onboard_time": 1677222330,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1625727,
@@ -121,6 +129,14 @@
       "onboard_time": 1677197790,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1125743,
+      "num": 375184,
+      "word": "肖战米兰街拍",
+      "onboard_time": 1677226528,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1111016,
@@ -211,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 860286,
-      "num": 479051,
-      "word": "男孩7次举手后离世最新进展",
-      "onboard_time": 1677222330,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 845991,
       "num": 755952,
       "word": "刘雯闭场",
@@ -243,12 +251,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 795779,
+      "num": 795779,
+      "word": "原神",
+      "onboard_time": 1677225508,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 762323,
       "num": 762323,
       "word": "央视曝光个人电影投资骗局",
       "onboard_time": 1677164372,
       "rank": 5,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 753201,
+      "num": 753201,
+      "word": "公诉精英 接档",
+      "onboard_time": 1677225988,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 744827,
@@ -563,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417981,
+      "num": 417981,
+      "word": "徐志胜和李宇春同获音乐奖",
+      "onboard_time": 1677224548,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413224,
       "num": 413224,
       "word": "女子避雨时随手拍下人生的轮回",
@@ -603,12 +635,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 387411,
+      "num": 387411,
+      "word": "男子贩卖小熊猫川金丝猴获刑14年",
+      "onboard_time": 1677223229,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381615,
       "num": 381615,
       "word": "刘雯白色睫毛",
       "onboard_time": 1677216692,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 378988,
+      "num": 378988,
+      "word": "邓超陈赫鹿晗哈哇哟表情包",
+      "onboard_time": 1677224131,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 367056,
@@ -795,6 +843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290316,
+      "num": 203855,
+      "word": "知名杂志因大量AI生成投稿暂停征稿",
+      "onboard_time": 1677225629,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282636,
       "num": 282636,
       "word": "曼联2比1巴萨",
@@ -891,6 +947,14 @@
       "category": "旅游,自然"
     },
     {
+      "raw_hot": 232048,
+      "num": 232048,
+      "word": "毒舌律师 粤语",
+      "onboard_time": 1677222868,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229104,
       "num": 229104,
       "word": "彭冠英王楚然片场精神状态",
@@ -955,20 +1019,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203882,
+      "num": 203882,
+      "word": "毒舌律师",
+      "onboard_time": 1677224790,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203733,
       "num": 203733,
       "word": "中国最后的沙漠村落",
       "onboard_time": 1677202227,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203222,
-      "num": 203222,
-      "word": "毒舌律师 粤语",
-      "onboard_time": 1677222868,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 200419,
@@ -985,6 +1049,14 @@
       "onboard_time": 1677210329,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195795,
+      "num": 195795,
+      "word": "NLPC试图把库克踢出苹果董事会",
+      "onboard_time": 1677226708,
+      "rank": 33,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 193235,
@@ -1011,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186168,
+      "num": 186168,
+      "word": "无臂女孩用脚卖货成人气主播",
+      "onboard_time": 1677223349,
+      "rank": 36,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 183970,
       "num": 183970,
       "word": "是什么让你在艰难时坚持下来",
@@ -1033,6 +1113,14 @@
       "onboard_time": 1677170183,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179084,
+      "num": 179084,
+      "word": "预防性侵必须知道的六个危险警报",
+      "onboard_time": 1677225266,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178688,
@@ -1067,20 +1155,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171836,
-      "num": 171836,
-      "word": "男子贩卖小熊猫川金丝猴获刑14年",
-      "onboard_time": 1677223229,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170394,
       "num": 170394,
       "word": "海底捞禁止自带菜",
       "onboard_time": 1677137970,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168968,
+      "num": 168968,
+      "word": "陆虎2023巡演官宣",
+      "onboard_time": 1677225208,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 161500,
@@ -1123,14 +1211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155318,
-      "num": 155318,
-      "word": "无臂女孩用脚卖货成人气主播",
-      "onboard_time": 1677223349,
-      "rank": 36,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 155303,
       "num": 155303,
       "word": "李宇春翻唱张三的歌",
@@ -1169,6 +1249,14 @@
       "onboard_time": 1677213574,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 152096,
+      "num": 152096,
+      "word": "陈乔恩粉色氛围感随拍",
+      "onboard_time": 1677226647,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 149022,
@@ -1251,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136748,
+      "num": 136748,
+      "word": "科学家在大脑中培育出电极",
+      "onboard_time": 1677224848,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 134328,
       "num": 134328,
       "word": "实探上海巴奴火锅土豆11元6片",
@@ -1321,6 +1417,14 @@
       "onboard_time": 1677194182,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117700,
+      "num": 117700,
+      "word": "梁洁落日氛围感随拍",
+      "onboard_time": 1677225508,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 116786,
