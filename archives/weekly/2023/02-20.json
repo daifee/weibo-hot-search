@@ -1,7 +1,15 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677245869148,
+  "endTime": 1677248265344,
   "band_list": [
+    {
+      "raw_hot": 9385691,
+      "num": 9385691,
+      "word": "GUCCI",
+      "onboard_time": 1677245911,
+      "rank": 0,
+      "category": "时尚,艺人"
+    },
     {
       "raw_hot": 7662033,
       "num": 7662033,
@@ -1627,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 949094,
+      "num": 880374,
+      "word": "水哥真帅",
+      "onboard_time": 1677243930,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 940883,
       "num": 940883,
       "word": "周杰伦演唱会",
@@ -1755,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 903730,
+      "num": 903730,
+      "word": "鹿晗牵小猫手",
+      "onboard_time": 1677246874,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 902217,
       "num": 902217,
       "word": "在美志愿者称丫丫有刻板行为",
@@ -1859,12 +1883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 867417,
+      "num": 867417,
+      "word": "小城市房子会越来越不值钱吗",
+      "onboard_time": 1677244650,
+      "rank": 29,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 864500,
       "num": 864500,
       "word": "23岁小伙起红疹被误诊6年查出癌症",
       "onboard_time": 1677054513,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 863124,
+      "num": 863124,
+      "word": "孔乙己文学",
+      "onboard_time": 1677245431,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 861836,
@@ -1897,14 +1937,6 @@
       "onboard_time": 1676885490,
       "rank": 46,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 851161,
-      "num": 851161,
-      "word": "水哥真帅",
-      "onboard_time": 1677243930,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 849648,
@@ -2108,7 +2140,7 @@
     },
     {
       "raw_hot": 790291,
-      "num": 274730,
+      "num": 307456,
       "word": "江苏一男子因赡养问题弑父杀母",
       "onboard_time": 1677242611,
       "rank": 27,
@@ -2449,6 +2481,14 @@
       "onboard_time": 1676867015,
       "rank": 35,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 726656,
+      "num": 726656,
+      "word": "李佳琦现身浙江传媒学院招聘",
+      "onboard_time": 1677245130,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 726446,
@@ -2913,6 +2953,14 @@
       "onboard_time": 1676864912,
       "rank": 14,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 649849,
+      "num": 649849,
+      "word": "建议减少教师参与网络点赞转发工作",
+      "onboard_time": 1677246211,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 649490,
@@ -4427,14 +4475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 452136,
-      "num": 452136,
-      "word": "小城市房子会越来越不值钱吗",
-      "onboard_time": 1677244650,
-      "rank": 29,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 451417,
       "num": 451417,
       "word": "星落凝成糖女主人设",
@@ -4465,6 +4505,14 @@
       "onboard_time": 1676907748,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450106,
+      "num": 450106,
+      "word": "原来有趣的人真的不会无聊",
+      "onboard_time": 1677244650,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 448638,
@@ -5105,14 +5153,6 @@
       "onboard_time": 1676869716,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 397553,
-      "num": 189379,
-      "word": "李佳琦现身浙江传媒学院招聘",
-      "onboard_time": 1677245130,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 397491,
@@ -6667,6 +6707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307404,
+      "num": 307404,
+      "word": "GUCCI CEO",
+      "onboard_time": 1677248137,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 307050,
       "num": 307050,
       "word": "张元英机场路透",
@@ -7081,14 +7129,6 @@
       "onboard_time": 1676944048,
       "rank": 30,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 280378,
-      "num": 280378,
-      "word": "原来有趣的人真的不会无聊",
-      "onboard_time": 1677244650,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 279611,
@@ -7523,12 +7563,28 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 258885,
+      "num": 258885,
+      "word": "最强大脑",
+      "onboard_time": 1677247052,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258571,
       "num": 258571,
       "word": "韩庚郑恺于文文等分享前任4台词",
       "onboard_time": 1677057272,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257463,
+      "num": 239304,
+      "word": "唐嫣报喜不报忧",
+      "onboard_time": 1677245549,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 256601,
@@ -7897,6 +7953,14 @@
       "onboard_time": 1677021924,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235066,
+      "num": 235066,
+      "word": "苏醒张远陆虎合唱你曾是少年",
+      "onboard_time": 1677247833,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 235042,
@@ -8691,6 +8755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202368,
+      "num": 202368,
+      "word": "一恋爱就消失的闺蜜",
+      "onboard_time": 1677246572,
+      "rank": 32,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 202217,
       "num": 202217,
       "word": "曼城全场0换人",
@@ -9033,14 +9105,6 @@
       "onboard_time": 1677232708,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 190246,
-      "num": 190246,
-      "word": "孔乙己文学",
-      "onboard_time": 1677245431,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 190004,
@@ -9505,14 +9569,6 @@
       "onboard_time": 1677122908,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177176,
-      "num": 177176,
-      "word": "唐嫣报喜不报忧",
-      "onboard_time": 1677245549,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 177017,
@@ -10867,6 +10923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124146,
+      "num": 124146,
+      "word": "申论",
+      "onboard_time": 1677247891,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 123812,
       "num": 123812,
       "word": "詹姆斯自抛自扣",
@@ -10929,6 +10993,14 @@
       "onboard_time": 1677072152,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119841,
+      "num": 119841,
+      "word": "TES对战狼队",
+      "onboard_time": 1677248137,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 119708,

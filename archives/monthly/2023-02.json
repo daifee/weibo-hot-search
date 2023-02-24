@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677245869148,
+  "endTime": 1677248265344,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -65,6 +65,14 @@
       "onboard_time": 1675568914,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9385691,
+      "num": 9385691,
+      "word": "GUCCI",
+      "onboard_time": 1677245911,
+      "rank": 0,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 8361811,
@@ -8187,6 +8195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 949094,
+      "num": 880374,
+      "word": "水哥真帅",
+      "onboard_time": 1677243930,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 948602,
       "num": 948602,
       "word": "邓超情人节送孙俪一盆菜",
@@ -8875,6 +8891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 903730,
+      "num": 903730,
+      "word": "鹿晗牵小猫手",
+      "onboard_time": 1677246874,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 903416,
       "num": 903416,
       "word": "女子偷闺蜜百万奢侈品用高仿替代",
@@ -9323,6 +9347,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 867417,
+      "num": 867417,
+      "word": "小城市房子会越来越不值钱吗",
+      "onboard_time": 1677244650,
+      "rank": 29,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 867307,
       "num": 867307,
       "word": "易烊千玺把沈腾后背刮出痧的反应",
@@ -9401,6 +9433,14 @@
       "onboard_time": 1675782154,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 863124,
+      "num": 863124,
+      "word": "孔乙己文学",
+      "onboard_time": 1677245431,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 862849,
@@ -9665,14 +9705,6 @@
       "onboard_time": 1676726970,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 851161,
-      "num": 851161,
-      "word": "水哥真帅",
-      "onboard_time": 1677243930,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 849648,
@@ -10740,7 +10772,7 @@
     },
     {
       "raw_hot": 790291,
-      "num": 274730,
+      "num": 307456,
       "word": "江苏一男子因赡养问题弑父杀母",
       "onboard_time": 1677242611,
       "rank": 27,
@@ -12153,6 +12185,14 @@
       "onboard_time": 1676867015,
       "rank": 35,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 726656,
+      "num": 726656,
+      "word": "李佳琦现身浙江传媒学院招聘",
+      "onboard_time": 1677245130,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 726534,
@@ -14305,6 +14345,14 @@
       "onboard_time": 1676089648,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 649849,
+      "num": 649849,
+      "word": "建议减少教师参与网络点赞转发工作",
+      "onboard_time": 1677246211,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 649729,
@@ -21643,14 +21691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452136,
-      "num": 452136,
-      "word": "小城市房子会越来越不值钱吗",
-      "onboard_time": 1677244650,
-      "rank": 29,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 452073,
       "num": 452073,
       "word": "建议延长男性陪产假并强制执行",
@@ -21785,6 +21825,14 @@
       "onboard_time": 1676014111,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450106,
+      "num": 450106,
+      "word": "原来有趣的人真的不会无聊",
+      "onboard_time": 1677244650,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 449659,
@@ -24793,14 +24841,6 @@
       "onboard_time": 1675619776,
       "rank": 13,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 397553,
-      "num": 189379,
-      "word": "李佳琦现身浙江传媒学院招聘",
-      "onboard_time": 1677245130,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 397491,
@@ -31011,6 +31051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307404,
+      "num": 307404,
+      "word": "GUCCI CEO",
+      "onboard_time": 1677248137,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 307193,
       "num": 307193,
       "word": "山东女子请命奔赴土耳其救援",
@@ -33371,14 +33419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 280378,
-      "num": 280378,
-      "word": "原来有趣的人真的不会无聊",
-      "onboard_time": 1677244650,
-      "rank": 36,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 280265,
       "num": 280265,
       "word": "IU韩国芭莎3月封面",
@@ -35715,6 +35755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257463,
+      "num": 239304,
+      "word": "唐嫣报喜不报忧",
+      "onboard_time": 1677245549,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257260,
       "num": 257260,
       "word": "唱离歌的张天爱",
@@ -37833,6 +37881,14 @@
       "onboard_time": 1676262994,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235066,
+      "num": 235066,
+      "word": "苏醒张远陆虎合唱你曾是少年",
+      "onboard_time": 1677247833,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 235042,
@@ -41475,6 +41531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202368,
+      "num": 202368,
+      "word": "一恋爱就消失的闺蜜",
+      "onboard_time": 1677246572,
+      "rank": 32,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 202217,
       "num": 202217,
       "word": "曼城全场0换人",
@@ -43241,14 +43305,6 @@
       "onboard_time": 1675450454,
       "rank": 16,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 190246,
-      "num": 190246,
-      "word": "孔乙己文学",
-      "onboard_time": 1677245431,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 190097,
@@ -45449,14 +45505,6 @@
       "onboard_time": 1677122908,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177176,
-      "num": 177176,
-      "word": "唐嫣报喜不报忧",
-      "onboard_time": 1677245549,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 177017,
@@ -51547,6 +51595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124146,
+      "num": 124146,
+      "word": "申论",
+      "onboard_time": 1677247891,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 124133,
       "num": 124133,
       "word": "RA对战LNG",
@@ -51785,6 +51841,14 @@
       "onboard_time": 1676311037,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119841,
+      "num": 119841,
+      "word": "TES对战狼队",
+      "onboard_time": 1677248137,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 119708,

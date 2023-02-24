@@ -1,7 +1,15 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677245869148,
+  "endTime": 1677248265344,
   "band_list": [
+    {
+      "raw_hot": 9385691,
+      "num": 9385691,
+      "word": "GUCCI",
+      "onboard_time": 1677245911,
+      "rank": 0,
+      "category": "时尚,艺人"
+    },
     {
       "raw_hot": 2829909,
       "num": 2829909,
@@ -235,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 949094,
+      "num": 880374,
+      "word": "水哥真帅",
+      "onboard_time": 1677243930,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 925172,
       "num": 925172,
       "word": "姚琛辟谣朴振英不是李秀满",
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 903730,
+      "num": 903730,
+      "word": "鹿晗牵小猫手",
+      "onboard_time": 1677246874,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 902217,
       "num": 902217,
       "word": "在美志愿者称丫丫有刻板行为",
@@ -299,20 +323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 867417,
+      "num": 867417,
+      "word": "小城市房子会越来越不值钱吗",
+      "onboard_time": 1677244650,
+      "rank": 29,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 863124,
+      "num": 863124,
+      "word": "孔乙己文学",
+      "onboard_time": 1677245431,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 860296,
       "num": 860296,
       "word": "85岁老人想娶60岁女友遭子女反对",
       "onboard_time": 1677229048,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 851161,
-      "num": 851161,
-      "word": "水哥真帅",
-      "onboard_time": 1677243930,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 845991,
@@ -348,7 +380,7 @@
     },
     {
       "raw_hot": 790291,
-      "num": 274730,
+      "num": 307456,
       "word": "江苏一男子因赡养问题弑父杀母",
       "onboard_time": 1677242611,
       "rank": 27,
@@ -417,6 +449,14 @@
       "onboard_time": 1677172577,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 726656,
+      "num": 726656,
+      "word": "李佳琦现身浙江传媒学院招聘",
+      "onboard_time": 1677245130,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 710806,
@@ -497,6 +537,14 @@
       "onboard_time": 1677212429,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 649849,
+      "num": 649849,
+      "word": "建议减少教师参与网络点赞转发工作",
+      "onboard_time": 1677246211,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 642365,
@@ -803,20 +851,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452136,
-      "num": 452136,
-      "word": "小城市房子会越来越不值钱吗",
-      "onboard_time": 1677244650,
-      "rank": 29,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 450823,
       "num": 450823,
       "word": "aespa将举行世界巡演",
       "onboard_time": 1677243391,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 450106,
+      "num": 450106,
+      "word": "原来有趣的人真的不会无聊",
+      "onboard_time": 1677244650,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 448638,
@@ -921,14 +969,6 @@
       "onboard_time": 1677203368,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 397553,
-      "num": 189379,
-      "word": "李佳琦现身浙江传媒学院招聘",
-      "onboard_time": 1677245130,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 397302,
@@ -1227,6 +1267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 307404,
+      "num": 307404,
+      "word": "GUCCI CEO",
+      "onboard_time": 1677248137,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 301646,
       "num": 301646,
       "word": "全国6亿栋房屋并不全是商品房",
@@ -1289,14 +1337,6 @@
       "onboard_time": 1677203728,
       "rank": 45,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 280378,
-      "num": 280378,
-      "word": "原来有趣的人真的不会无聊",
-      "onboard_time": 1677244650,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 280297,
@@ -1363,6 +1403,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 258885,
+      "num": 258885,
+      "word": "最强大脑",
+      "onboard_time": 1677247052,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 257463,
+      "num": 239304,
+      "word": "唐嫣报喜不报忧",
+      "onboard_time": 1677245549,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253046,
       "num": 253046,
       "word": "少年歌行",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1677214893,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235066,
+      "num": 235066,
+      "word": "苏醒张远陆虎合唱你曾是少年",
+      "onboard_time": 1677247833,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 234141,
@@ -1547,6 +1611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202368,
+      "num": 202368,
+      "word": "一恋爱就消失的闺蜜",
+      "onboard_time": 1677246572,
+      "rank": 32,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 200419,
       "num": 200419,
       "word": "深海真正的结局",
@@ -1609,14 +1681,6 @@
       "onboard_time": 1677232708,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 190246,
-      "num": 190246,
-      "word": "孔乙己文学",
-      "onboard_time": 1677245431,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 186844,
@@ -1688,14 +1752,6 @@
       "word": "刘耀文荣梓杉对手戏",
       "onboard_time": 1677220828,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 177176,
-      "num": 177176,
-      "word": "唐嫣报喜不报忧",
-      "onboard_time": 1677245549,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -2035,12 +2091,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124146,
+      "num": 124146,
+      "word": "申论",
+      "onboard_time": 1677247891,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 122097,
       "num": 122097,
       "word": "猫咪有时间观念吗",
       "onboard_time": 1677150210,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119841,
+      "num": 119841,
+      "word": "TES对战狼队",
+      "onboard_time": 1677248137,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 119460,
