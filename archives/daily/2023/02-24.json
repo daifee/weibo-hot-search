@@ -1,6 +1,6 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677231273684,
+  "endTime": 1677234077598,
   "band_list": [
     {
       "raw_hot": 2530260,
@@ -9,6 +9,14 @@
       "onboard_time": 1677203847,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2176457,
+      "num": 2176457,
+      "word": "任命贺荣为司法部部长",
+      "onboard_time": 1677230069,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2141826,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1318307,
+      "num": 1318307,
+      "word": "何以琛赵默笙同框",
+      "onboard_time": 1677232949,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1224957,
       "num": 1224957,
       "word": "张颂文曾抱过张翰",
@@ -129,6 +145,14 @@
       "onboard_time": 1677201030,
       "rank": 7,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1177657,
+      "num": 1177657,
+      "word": "肖战刘诗诗同框",
+      "onboard_time": 1677233126,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1171185,
@@ -291,6 +315,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 754535,
+      "num": 754535,
+      "word": "苹果最贵电脑拍出一套房",
+      "onboard_time": 1677228208,
+      "rank": 10,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 753201,
       "num": 753201,
       "word": "公诉精英 接档",
@@ -323,12 +355,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 730345,
-      "num": 730345,
-      "word": "苹果最贵电脑拍出一套房",
-      "onboard_time": 1677228208,
-      "rank": 10,
-      "category": "财经,科技"
+      "raw_hot": 732394,
+      "num": 732394,
+      "word": "姚琛辟谣朴振英不是李秀满",
+      "onboard_time": 1677233308,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 731713,
+      "num": 731713,
+      "word": "近半数安卓用户考虑换苹果",
+      "onboard_time": 1677229468,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 710806,
@@ -395,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 642365,
+      "num": 642365,
+      "word": "扬科维奇任国家男子足球队主教练",
+      "onboard_time": 1677230488,
+      "rank": 13,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 637998,
       "num": 637998,
       "word": "知名杂志因大量AI生成投稿暂停征稿",
@@ -419,20 +467,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 617841,
+      "num": 529884,
+      "word": "杀我别用双北刀",
+      "onboard_time": 1677231028,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 614754,
       "num": 614754,
       "word": "刘些宁与jellyfish终止合约",
       "onboard_time": 1677221008,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 602676,
-      "num": 519218,
-      "word": "任命贺荣为司法部部长",
-      "onboard_time": 1677230069,
-      "rank": 31,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 593074,
@@ -539,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 523179,
-      "num": 523179,
-      "word": "近半数安卓用户考虑换苹果",
-      "onboard_time": 1677229468,
-      "rank": 22,
-      "category": "科技"
-    },
-    {
       "raw_hot": 520831,
       "num": 520831,
       "word": "演技姐圈101",
@@ -625,14 +665,6 @@
       "onboard_time": 1677214472,
       "rank": 22,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 461283,
-      "num": 461283,
-      "word": "扬科维奇任国家男子足球队主教练",
-      "onboard_time": 1677230488,
-      "rank": 13,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 454523,
@@ -811,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344735,
+      "num": 344735,
+      "word": "维金斯",
+      "onboard_time": 1677229767,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343349,
       "num": 343349,
       "word": "云南3岁失联男童已平安找到",
@@ -825,14 +865,6 @@
       "onboard_time": 1677204689,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 338225,
-      "num": 338225,
-      "word": "维金斯",
-      "onboard_time": 1677229767,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 337655,
@@ -939,6 +971,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 301103,
+      "num": 301103,
+      "word": "奥迪诉蔚来商标侵权请求被驳回",
+      "onboard_time": 1677231567,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299222,
       "num": 299222,
       "word": "济南一古墓发掘50余件唐三彩",
@@ -1011,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264837,
+      "num": 264837,
+      "word": "杨迪模仿高启盛走路",
+      "onboard_time": 1677233126,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264698,
       "num": 264698,
       "word": "毒舌律师 粤语",
@@ -1033,6 +1081,14 @@
       "onboard_time": 1677166115,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 252090,
+      "num": 252090,
+      "word": "美方应就所谓摧毁台湾计划作出解释",
+      "onboard_time": 1677230609,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 242749,
@@ -1155,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201229,
+      "num": 201229,
+      "word": "小学生集体冒雪做课间操引质疑",
+      "onboard_time": 1677232468,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 200419,
       "num": 200419,
       "word": "深海真正的结局",
@@ -1195,6 +1259,22 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 195694,
+      "num": 195694,
+      "word": "夏花海外评论",
+      "onboard_time": 1677232468,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 194055,
+      "num": 194055,
+      "word": "时光音乐会收官",
+      "onboard_time": 1677233308,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193235,
       "num": 193235,
       "word": "马龙3比0樊振东",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1677223349,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 185741,
+      "num": 185741,
+      "word": "虞书欣墨绿色套装上班路透",
+      "onboard_time": 1677232708,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183970,
@@ -1259,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178686,
+      "num": 178686,
+      "word": "维金斯无限期离队",
+      "onboard_time": 1677230968,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177866,
       "num": 177866,
       "word": "刘耀文荣梓杉对手戏",
@@ -1276,7 +1372,7 @@
     },
     {
       "raw_hot": 173771,
-      "num": 912515,
+      "num": 1183656,
       "word": "2023全国入春进程地图",
       "onboard_time": 1677229288,
       "rank": 2,
@@ -1307,14 +1403,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 167004,
-      "num": 167004,
-      "word": "美方应就所谓摧毁台湾计划作出解释",
-      "onboard_time": 1677230609,
-      "rank": 34,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 164501,
       "num": 164501,
       "word": "你最近想看谁的演唱会",
@@ -1323,12 +1411,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163254,
+      "num": 163254,
+      "word": "星痕貂蝉首秀首胜",
+      "onboard_time": 1677233067,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161500,
       "num": 161500,
       "word": "迪马利亚帽子戏法",
       "onboard_time": 1677195205,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160867,
+      "num": 160867,
+      "word": "Hero战胜DYG",
+      "onboard_time": 1677231807,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 160595,
@@ -1419,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151177,
-      "num": 151177,
-      "word": "杀我别用双北刀",
-      "onboard_time": 1677231028,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149022,
       "num": 149022,
       "word": "张小斐狐狸眼妆",
@@ -1507,14 +1603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136862,
-      "num": 136862,
-      "word": "维金斯无限期离队",
-      "onboard_time": 1677230968,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136748,
       "num": 136748,
       "word": "科学家在大脑中培育出电极",
@@ -1545,6 +1633,14 @@
       "onboard_time": 1677203368,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128732,
+      "num": 128732,
+      "word": "少年歌行",
+      "onboard_time": 1677233669,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 128087,
@@ -1633,6 +1729,14 @@
       "onboard_time": 1677174676,
       "rank": 21,
       "category": "影视,科技"
+    },
+    {
+      "raw_hot": 110349,
+      "num": 110349,
+      "word": "怪不得说春江水暖鸭先知",
+      "onboard_time": 1677233907,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 110315,
@@ -1823,6 +1927,9 @@
     },
     {
       "word": "#雷锋的故事为何被传颂了大半个世纪#"
+    },
+    {
+      "word": "#奋进的春天#"
     }
   ]
 }
