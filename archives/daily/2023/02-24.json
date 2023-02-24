@@ -1,6 +1,6 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677223057531,
+  "endTime": 1677224034904,
   "band_list": [
     {
       "raw_hot": 2530260,
@@ -25,6 +25,14 @@
       "onboard_time": 1677212251,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1790029,
+      "num": 1790029,
+      "word": "王鸥诡笑",
+      "onboard_time": 1677221248,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1783213,
@@ -115,20 +123,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1114692,
-      "num": 1114692,
-      "word": "王鸥诡笑",
-      "onboard_time": 1677221248,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1111016,
       "num": 1111016,
       "word": "俄乌战争一周年前后",
       "onboard_time": 1677200069,
       "rank": 1,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 1056029,
+      "num": 1056029,
+      "word": "30岁以上大龄未婚青年非常普遍",
+      "onboard_time": 1677220470,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1022054,
@@ -171,14 +179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 925128,
-      "num": 925128,
-      "word": "30岁以上大龄未婚青年非常普遍",
-      "onboard_time": 1677220470,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 917856,
       "num": 917856,
       "word": "体育生考研435分社牛舍友挂条幅庆祝",
@@ -208,6 +208,14 @@
       "word": "在美志愿者称丫丫有刻板行为",
       "onboard_time": 1677202408,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 860286,
+      "num": 479051,
+      "word": "男孩7次举手后离世最新进展",
+      "onboard_time": 1677222330,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -387,6 +395,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 561164,
+      "num": 561164,
+      "word": "库克恐被踢出苹果董事会",
+      "onboard_time": 1677221552,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 554152,
       "num": 554152,
       "word": "出生率下降将直接影响教育行业",
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536923,
+      "num": 536923,
+      "word": "四大会计事务所中标多家国企项目",
+      "onboard_time": 1677219149,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 534050,
       "num": 534050,
       "word": "美国毒火车事件已致近4.4万只动物死亡",
@@ -449,14 +473,6 @@
       "onboard_time": 1677211408,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 506735,
-      "num": 506735,
-      "word": "四大会计事务所中标多家国企项目",
-      "onboard_time": 1677219149,
-      "rank": 31,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 500067,
@@ -531,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 426583,
-      "num": 426583,
-      "word": "库克恐被踢出苹果董事会",
-      "onboard_time": 1677221552,
-      "rank": 14,
-      "category": "科技"
-    },
-    {
       "raw_hot": 419611,
       "num": 419611,
       "word": "大爷银行取钱排队一小时频遭插队",
@@ -587,6 +595,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 392223,
+      "num": 392223,
+      "word": "catti",
+      "onboard_time": 1677221848,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 381615,
       "num": 381615,
       "word": "刘雯白色睫毛",
@@ -601,6 +617,14 @@
       "onboard_time": 1677172519,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 366613,
+      "num": 366613,
+      "word": "男子带礼物坐地铁不断向路人炫耀",
+      "onboard_time": 1677221671,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357820,
@@ -627,12 +651,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 346638,
-      "num": 346638,
-      "word": "男孩7次举手后离世最新进展",
-      "onboard_time": 1677222330,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 346336,
+      "num": 346336,
+      "word": "唐嫣短发造型路透",
+      "onboard_time": 1677222150,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 343349,
@@ -672,14 +696,6 @@
       "word": "巴奴火锅创始人发声",
       "onboard_time": 1677167012,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333432,
-      "num": 333432,
-      "word": "男子带礼物坐地铁不断向路人炫耀",
-      "onboard_time": 1677221671,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -739,28 +755,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 309547,
-      "num": 309547,
-      "word": "catti",
-      "onboard_time": 1677221848,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 307636,
       "num": 307636,
       "word": "蔡徐坤现象EP上线",
       "onboard_time": 1677206968,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 306116,
-      "num": 306116,
-      "word": "唐嫣短发造型路透",
-      "onboard_time": 1677222150,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 301646,
@@ -899,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224440,
+      "num": 224440,
+      "word": "李泳知表情包",
+      "onboard_time": 1677222330,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223784,
       "num": 223784,
       "word": "iPhone15USBC口或获利超50亿美元",
@@ -953,6 +961,14 @@
       "onboard_time": 1677202227,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203222,
+      "num": 203222,
+      "word": "毒舌律师 粤语",
+      "onboard_time": 1677222868,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 200419,
@@ -1051,12 +1067,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170685,
-      "num": 170685,
-      "word": "李泳知表情包",
-      "onboard_time": 1677222330,
+      "raw_hot": 171836,
+      "num": 171836,
+      "word": "男子贩卖小熊猫川金丝猴获刑14年",
+      "onboard_time": 1677223229,
       "rank": 34,
-      "category": "艺人"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170394,
@@ -1105,6 +1121,14 @@
       "onboard_time": 1677163114,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155318,
+      "num": 155318,
+      "word": "无臂女孩用脚卖货成人气主播",
+      "onboard_time": 1677223349,
+      "rank": 36,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 155303,
@@ -1225,14 +1249,6 @@
       "onboard_time": 1677218910,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136905,
-      "num": 136905,
-      "word": "毒舌律师 粤语",
-      "onboard_time": 1677222868,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 134328,
