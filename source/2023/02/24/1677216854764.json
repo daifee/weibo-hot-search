@@ -1,0 +1,410 @@
+{
+  "runTime": 1677216854764,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1775403,
+        "num": 1775403,
+        "word": "男子猝死其母将女友告上法庭判赔16万",
+        "onboard_time": 1677213454,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1712536,
+        "num": 1712536,
+        "word": "陈学冬车祸后报平安",
+        "onboard_time": 1677212251,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257684,
+        "num": 1409578,
+        "word": "关于政治解决乌克兰危机的中国立场",
+        "onboard_time": 1677201567,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1263845,
+        "num": 1263845,
+        "word": "13岁女孩患宫颈癌7年",
+        "onboard_time": 1677214234,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005713,
+        "num": 1005713,
+        "word": "我爸学会网购后买了个亭子回家",
+        "onboard_time": 1677213271,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603343,
+        "num": 603343,
+        "word": "毛不易演唱会官宣十场",
+        "onboard_time": 1677212490,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 585517,
+        "num": 585517,
+        "word": "隔空猥亵同样是性侵",
+        "onboard_time": 1677207448,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542198,
+        "num": 542198,
+        "word": "为什么大学生越来越求稳了",
+        "onboard_time": 1677215134,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523790,
+        "num": 523790,
+        "word": "张颂文曾抱过张翰",
+        "onboard_time": 1677208708,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 469855,
+        "num": 469855,
+        "word": "大学关停与出生率下降有直接关系",
+        "onboard_time": 1677214472,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1625727,
+        "num": 465039,
+        "word": "天官赐福",
+        "onboard_time": 1677216635,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 950736,
+        "num": 455776,
+        "word": "县长涉嫌性侵挂职女干部被停职",
+        "onboard_time": 1677203847,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565693,
+        "num": 445020,
+        "word": "网友称用ChatGPT后被海外大学录取",
+        "onboard_time": 1677213870,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 537791,
+        "num": 422899,
+        "word": "龚俊也去泰国了",
+        "onboard_time": 1677212429,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421616,
+        "num": 421616,
+        "word": "曝HYBE为李秀满植树计划投资百亿韩元",
+        "onboard_time": 1677212913,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414985,
+        "num": 414985,
+        "word": "老默我想吃鱼了被抢注商标",
+        "onboard_time": 1677207928,
+        "rank": 15,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 396491,
+        "num": 396491,
+        "word": "王一博贡献了诸多临场发挥的戏码",
+        "onboard_time": 1677213993,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 882680,
+        "num": 387515,
+        "word": "刘亚仁体毛检测阳性",
+        "onboard_time": 1677206786,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 360577,
+        "num": 360577,
+        "word": "在美志愿者称丫丫有刻板行为",
+        "onboard_time": 1677202408,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343360,
+        "num": 343360,
+        "word": "村支书非法占有孤儿生活补贴五年",
+        "onboard_time": 1677214533,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320897,
+        "num": 320897,
+        "word": "勇士vs湖人",
+        "onboard_time": 1677211289,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315783,
+        "num": 315783,
+        "word": "演员王全有吐槽药价",
+        "onboard_time": 1677210207,
+        "rank": 21,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 314683,
+        "num": 314683,
+        "word": "鼓励生育先要缓解年轻人婚姻焦虑",
+        "onboard_time": 1677206006,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311924,
+        "num": 311924,
+        "word": "亮剑丁团长扮演者吐槽药费贵",
+        "onboard_time": 1677214773,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299202,
+        "num": 299202,
+        "word": "央企幼儿园首次对外招生",
+        "onboard_time": 1677204868,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 289121,
+        "num": 289121,
+        "word": "美国毒火车事件已致近4.4万只动物死亡",
+        "onboard_time": 1677209249,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277476,
+        "num": 277476,
+        "word": "世界讨厌香菜日",
+        "onboard_time": 1677206067,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256287,
+        "num": 256287,
+        "word": "长公主在上原班人马回归",
+        "onboard_time": 1677209848,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254267,
+        "num": 254267,
+        "word": "专家称未来不少大学将关停",
+        "onboard_time": 1677201030,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 236150,
+        "num": 236150,
+        "word": "拉塞尔脚踝扭伤",
+        "onboard_time": 1677214893,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231191,
+        "num": 231191,
+        "word": "云南3岁失联男童已平安找到",
+        "onboard_time": 1677211589,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224631,
+        "num": 224631,
+        "word": "陆虎向嘘嘘求婚预告",
+        "onboard_time": 1677211408,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208510,
+        "num": 208510,
+        "word": "李宇春说老默我想吃鱼了",
+        "onboard_time": 1677197790,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203635,
+        "num": 203635,
+        "word": "又一未拆封初代iPhone被拍卖",
+        "onboard_time": 1677212251,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 203586,
+        "num": 203586,
+        "word": "李荣浩演唱会官宣沈阳西安",
+        "onboard_time": 1677213152,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193219,
+        "num": 193219,
+        "word": "肠粉遇上螺蛳粉",
+        "onboard_time": 1677214533,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 183890,
+        "num": 183890,
+        "word": "刘雯白色睫毛",
+        "onboard_time": 1677216692,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 180864,
+        "num": 180864,
+        "word": "安乐传 Q2",
+        "onboard_time": 1677209487,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179569,
+        "num": 179569,
+        "word": "现实版落霞与孤鹜齐飞有多美",
+        "onboard_time": 1677211349,
+        "rank": 38,
+        "category": "旅游,自然"
+      },
+      {
+        "raw_hot": 178296,
+        "num": 178296,
+        "word": "iPhone15Pro将新增深红色配色",
+        "onboard_time": 1677196768,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 174152,
+        "num": 174152,
+        "word": "五哈团反向感谢节目组",
+        "onboard_time": 1677210749,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160488,
+        "num": 160488,
+        "word": "刘诗诗米兰侧脸路透",
+        "onboard_time": 1677209007,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159064,
+        "num": 159064,
+        "word": "金俊勉方否认拿鞋子不还",
+        "onboard_time": 1677201327,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153502,
+        "num": 153502,
+        "word": "蔡徐坤现象EP上线",
+        "onboard_time": 1677206968,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130961,
+        "num": 130961,
+        "word": "海清方否认退圈",
+        "onboard_time": 1677207868,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126766,
+        "num": 126766,
+        "word": "女子下班途中被狗撞伤被判工伤",
+        "onboard_time": 1677206428,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114400,
+        "num": 114400,
+        "word": "四天工作制究竟香不香",
+        "onboard_time": 1677201149,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111463,
+        "num": 111463,
+        "word": "宋亚轩听自己11岁唱的歌的反应",
+        "onboard_time": 1677208708,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110000,
+        "num": 110000,
+        "word": "李梦金敏喜柏林合照",
+        "onboard_time": 1677207267,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103611,
+        "num": 103611,
+        "word": "体育生考研435分社牛舍友挂条幅庆祝",
+        "onboard_time": 1677196889,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#雷锋的故事为何被传颂了大半个世纪#"
+    }
+  }
+}
