@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677280765428,
+  "endTime": 1677281629042,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -10827,6 +10827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789932,
+      "num": 351659,
+      "word": "香港名媛蔡天凤遭谋杀",
+      "onboard_time": 1677281060,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 789266,
       "num": 789266,
       "word": "成毅口罩断了的反应",
@@ -18931,6 +18939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 519805,
+      "num": 519805,
+      "word": "姐弟恋比例持续攀升",
+      "onboard_time": 1677260176,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519694,
       "num": 519694,
       "word": "易烊千玺满江红落泪花絮",
@@ -20753,14 +20769,6 @@
       "onboard_time": 1675346679,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 476130,
-      "num": 476130,
-      "word": "姐弟恋比例持续攀升",
-      "onboard_time": 1677260176,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 476113,
@@ -27507,6 +27515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357141,
+      "num": 357141,
+      "word": "你会选择单休的工作吗",
+      "onboard_time": 1677258319,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 356983,
       "num": 356983,
       "word": "哇唧唧哇新人路演",
@@ -27785,14 +27801,6 @@
       "onboard_time": 1675397611,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 352266,
-      "num": 352266,
-      "word": "你会选择单休的工作吗",
-      "onboard_time": 1677258319,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 351828,
@@ -28521,6 +28529,14 @@
       "onboard_time": 1675747110,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 342045,
+      "num": 342045,
+      "word": "白宫发言人把拜登说成奥巴马",
+      "onboard_time": 1677279797,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 341976,
@@ -39563,14 +39579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221787,
-      "num": 221787,
-      "word": "白宫发言人把拜登说成奥巴马",
-      "onboard_time": 1677279797,
-      "rank": 12,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 221737,
       "num": 221737,
       "word": "上岸壁纸",
@@ -50203,6 +50211,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142506,
+      "num": 142506,
+      "word": "泰剧我的会长男友",
+      "onboard_time": 1677281600,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 142500,
+      "num": 102103,
+      "word": "支教11年他拍的视频看哭网友",
+      "onboard_time": 1677280818,
+      "rank": 30,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 142480,
       "num": 142480,
       "word": "iG对战JDG",
@@ -50985,6 +51009,14 @@
       "onboard_time": 1675485508,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 134735,
+      "num": 134735,
+      "word": "光渊更不更新",
+      "onboard_time": 1677281600,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 134685,
@@ -52571,6 +52603,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 108368,
+      "num": 108368,
+      "word": "盘点那些高开高走的剧",
+      "onboard_time": 1677279196,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 108351,
       "num": 108351,
       "word": "洛音凡开大",
@@ -53315,14 +53355,6 @@
       "category": "幽默,旅游"
     },
     {
-      "raw_hot": 84015,
-      "num": 84015,
-      "word": "盘点那些高开高走的剧",
-      "onboard_time": 1677279196,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 83722,
       "num": 83722,
       "word": "英媒评男子运动员9位GOAT",
@@ -53771,6 +53803,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59939,
+      "num": 59939,
+      "word": "扬科维奇执教铁律",
+      "onboard_time": 1677280399,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 59882,
+      "num": 59882,
+      "word": "猫急得都快说人话了",
+      "onboard_time": 1677264253,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 59792,
       "num": 1656145,
       "word": "流动的中国活力",
@@ -54011,14 +54059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49035,
-      "num": 49035,
-      "word": "猫急得都快说人话了",
-      "onboard_time": 1677264253,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 48813,
       "num": 42725,
       "word": "安欣你这件衣服是哪来的",
@@ -54153,14 +54193,6 @@
       "onboard_time": 1676828717,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 42035,
-      "num": 42035,
-      "word": "扬科维奇执教铁律",
-      "onboard_time": 1677280399,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 41914,
