@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677195264716,
+  "endTime": 1677202753808,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -488,6 +488,14 @@
       "word": "火锅店18元一份土豆就5薄片",
       "onboard_time": 1677031528,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1583216,
+      "num": 1583216,
+      "word": "丫丫或于4月7日合同到期时回国",
+      "onboard_time": 1677168505,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1067,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1111016,
+      "num": 1111016,
+      "word": "俄乌战争一周年前后",
+      "onboard_time": 1677200069,
+      "rank": 1,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 1110962,
       "num": 1110962,
       "word": "iPhone15早期真机图曝光",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1676890534,
       "rank": 15,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 1025827,
+      "num": 1025827,
+      "word": "李宇春说老默我想吃鱼了",
+      "onboard_time": 1677197790,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1023670,
@@ -1419,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 948088,
+      "num": 948088,
+      "word": "金俊勉方否认拿鞋子不还",
+      "onboard_time": 1677201327,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 940883,
       "num": 940883,
       "word": "周杰伦演唱会",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1676902414,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 917856,
+      "num": 917856,
+      "word": "体育生考研435分社牛舍友挂条幅庆祝",
+      "onboard_time": 1677196889,
+      "rank": 6,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 917412,
@@ -1713,6 +1753,14 @@
       "onboard_time": 1676961927,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 827611,
+      "num": 827611,
+      "word": "专家称未来不少大学将关停",
+      "onboard_time": 1677201030,
+      "rank": 7,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 827375,
@@ -2155,14 +2203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 718184,
-      "num": 718184,
-      "word": "丫丫或于4月7日合同到期时回国",
-      "onboard_time": 1677168505,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 716528,
       "num": 457602,
       "word": "商丘公交员工称5个月没发工资",
@@ -2185,6 +2225,14 @@
       "onboard_time": 1677080130,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 710806,
+      "num": 710806,
+      "word": "会和丑却对你好的人恋爱吗",
+      "onboard_time": 1677169407,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 710636,
@@ -2211,12 +2259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700419,
+      "num": 297498,
+      "word": "民警逛街一手喝奶茶一手抓嫌犯",
+      "onboard_time": 1677197912,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700023,
       "num": 700023,
       "word": "SMTOWN担心HYBE将自己艺人排后",
       "onboard_time": 1676859266,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 699986,
+      "num": 699986,
+      "word": "iPhone15Pro将新增深红色配色",
+      "onboard_time": 1677196768,
+      "rank": 9,
+      "category": "科技"
     },
     {
       "raw_hot": 698507,
@@ -2907,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581025,
+      "num": 581025,
+      "word": "关于政治解决乌克兰危机的中国立场",
+      "onboard_time": 1677201567,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 580136,
       "num": 580136,
       "word": "老默不送鱼改反诈了",
@@ -3371,14 +3443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 496127,
-      "num": 496127,
-      "word": "会和丑却对你好的人恋爱吗",
-      "onboard_time": 1677169407,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 496066,
       "num": 496066,
       "word": "安欣帮前夫还债",
@@ -3457,6 +3521,14 @@
       "onboard_time": 1676865272,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 491270,
+      "num": 491270,
+      "word": "甲流是最为复杂的流感病毒",
+      "onboard_time": 1677200611,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489363,
@@ -3755,6 +3827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448078,
+      "num": 448078,
+      "word": "四天工作制究竟香不香",
+      "onboard_time": 1677201149,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447914,
       "num": 447914,
       "word": "赵露思2022wetv最佳女主感言",
@@ -3833,6 +3913,14 @@
       "onboard_time": 1677065312,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437721,
+      "num": 437721,
+      "word": "小美人鱼扮演者杂志封面",
+      "onboard_time": 1677201208,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 437335,
@@ -4337,6 +4425,14 @@
       "onboard_time": 1677063393,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 394235,
+      "num": 394235,
+      "word": "内蒙古煤矿坍塌已致6死6伤",
+      "onboard_time": 1677199827,
+      "rank": 16,
+      "category": "社会负面"
     },
     {
       "raw_hot": 393817,
@@ -4923,6 +5019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 350454,
+      "num": 350454,
+      "word": "长空之王严正声明",
+      "onboard_time": 1677195745,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350298,
       "num": 350298,
       "word": "林高远陈幸同混双夺冠",
@@ -5337,6 +5441,14 @@
       "onboard_time": 1676959112,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324327,
+      "num": 324327,
+      "word": "中国不会成为另一个美国的十个原因",
+      "onboard_time": 1677179172,
+      "rank": 25,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 323418,
@@ -6515,14 +6627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 247810,
-      "num": 247810,
-      "word": "中国不会成为另一个美国的十个原因",
-      "onboard_time": 1677179172,
-      "rank": 25,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 247524,
       "num": 247524,
       "word": "减肥人的自律时刻",
@@ -7203,6 +7307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210166,
+      "num": 210166,
+      "word": "在美志愿者称丫丫有刻板行为",
+      "onboard_time": 1677202408,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208606,
       "num": 208606,
       "word": "开学晒被子",
@@ -7337,6 +7449,14 @@
       "onboard_time": 1676957191,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204169,
+      "num": 204169,
+      "word": "迪马利亚单场7射正创欧联杯纪录",
+      "onboard_time": 1677200189,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 203882,
@@ -7529,6 +7649,14 @@
       "onboard_time": 1676956056,
       "rank": 48,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 196993,
+      "num": 196993,
+      "word": "联大通过和平公式决议草案",
+      "onboard_time": 1677202047,
+      "rank": 28,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 196473,
@@ -7795,6 +7923,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 186408,
+      "num": 186408,
+      "word": "房贷创新重在发掘消费者潜在需求",
+      "onboard_time": 1677202408,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 186392,
       "num": 186392,
       "word": "梅西刮胡子了",
@@ -8041,6 +8177,14 @@
       "onboard_time": 1676985332,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179292,
+      "num": 179292,
+      "word": "中国最后的沙漠村落",
+      "onboard_time": 1677202227,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178694,
@@ -8579,12 +8723,28 @@
       "category": "教育,社会议题"
     },
     {
+      "raw_hot": 161500,
+      "num": 161500,
+      "word": "迪马利亚帽子戏法",
+      "onboard_time": 1677195205,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161351,
       "num": 161351,
       "word": "吴宣仪粉黑外套造型机场路透",
       "onboard_time": 1676874089,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 160152,
+      "num": 160152,
+      "word": "九月哭了",
+      "onboard_time": 1677195506,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 160043,
@@ -9131,6 +9291,14 @@
       "category": "美食,情感"
     },
     {
+      "raw_hot": 128087,
+      "num": 128087,
+      "word": "没有比煲仔饭更好吃的饭",
+      "onboard_time": 1677198031,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 127973,
       "num": 127973,
       "word": "张新起一审被判无期徒刑",
@@ -9355,6 +9523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114324,
+      "num": 114324,
+      "word": "陈建宇一公舞台镜头",
+      "onboard_time": 1677201807,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112721,
       "num": 112721,
       "word": "光渊 刺挠",
@@ -9369,6 +9545,14 @@
       "onboard_time": 1677035610,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112098,
+      "num": 112098,
+      "word": "MOSS量子体积为什么是8192",
+      "onboard_time": 1677174676,
+      "rank": 21,
+      "category": "影视,科技"
     },
     {
       "raw_hot": 111608,
@@ -9409,6 +9593,14 @@
       "onboard_time": 1676814092,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 106395,
+      "num": 106395,
+      "word": "春天的脚步到哪里了",
+      "onboard_time": 1677202287,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 101857,
@@ -9499,6 +9691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85553,
+      "num": 85553,
+      "word": "有些小事值得被科普",
+      "onboard_time": 1677197548,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 84930,
       "num": 84930,
       "word": "河南2022年常住人口减少11万",
@@ -9521,14 +9721,6 @@
       "onboard_time": 1676999239,
       "rank": 34,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 79759,
-      "num": 79759,
-      "word": "MOSS量子体积为什么是8192",
-      "onboard_time": 1677174676,
-      "rank": 21,
-      "category": "影视,科技"
     },
     {
       "raw_hot": 78823,
@@ -9609,14 +9801,6 @@
       "onboard_time": 1677186491,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59529,
-      "num": 59529,
-      "word": "迪马利亚帽子戏法",
-      "onboard_time": 1677195205,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 58987,

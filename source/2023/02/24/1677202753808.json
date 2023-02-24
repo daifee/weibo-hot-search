@@ -1,0 +1,410 @@
+{
+  "runTime": 1677202753808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1583216,
+        "num": 1583216,
+        "word": "丫丫或于4月7日合同到期时回国",
+        "onboard_time": 1677168505,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1111016,
+        "num": 1111016,
+        "word": "俄乌战争一周年前后",
+        "onboard_time": 1677200069,
+        "rank": 1,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 115440,
+        "num": 1037348,
+        "word": "端牢中国饭碗的底气",
+        "onboard_time": 1677162511,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1518344,
+        "num": 1037250,
+        "word": "Prada",
+        "onboard_time": 1677159271,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1025827,
+        "num": 1025827,
+        "word": "李宇春说老默我想吃鱼了",
+        "onboard_time": 1677197790,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 948088,
+        "num": 948088,
+        "word": "金俊勉方否认拿鞋子不还",
+        "onboard_time": 1677201327,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 917856,
+        "num": 917856,
+        "word": "体育生考研435分社牛舍友挂条幅庆祝",
+        "onboard_time": 1677196889,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 827611,
+        "num": 827611,
+        "word": "专家称未来不少大学将关停",
+        "onboard_time": 1677201030,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 710806,
+        "num": 710806,
+        "word": "会和丑却对你好的人恋爱吗",
+        "onboard_time": 1677169407,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 699986,
+        "num": 699986,
+        "word": "iPhone15Pro将新增深红色配色",
+        "onboard_time": 1677196768,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 581025,
+        "num": 581025,
+        "word": "关于政治解决乌克兰危机的中国立场",
+        "onboard_time": 1677201567,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 491270,
+        "num": 491270,
+        "word": "甲流是最为复杂的流感病毒",
+        "onboard_time": 1677200611,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451026,
+        "num": 451026,
+        "word": "网传有银行每天交易限额5000元",
+        "onboard_time": 1677169885,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 448078,
+        "num": 448078,
+        "word": "四天工作制究竟香不香",
+        "onboard_time": 1677201149,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437721,
+        "num": 437721,
+        "word": "小美人鱼扮演者杂志封面",
+        "onboard_time": 1677201208,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 396279,
+        "num": 396279,
+        "word": "刘雯闭场",
+        "onboard_time": 1677162093,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 394235,
+        "num": 394235,
+        "word": "内蒙古煤矿坍塌已致6死6伤",
+        "onboard_time": 1677199827,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 350454,
+        "num": 350454,
+        "word": "长空之王严正声明",
+        "onboard_time": 1677195745,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 324327,
+        "num": 324327,
+        "word": "中国不会成为另一个美国的十个原因",
+        "onboard_time": 1677179172,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 302556,
+        "num": 302556,
+        "word": "女子避雨时随手拍下人生的轮回",
+        "onboard_time": 1677156209,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700419,
+        "num": 297498,
+        "word": "民警逛街一手喝奶茶一手抓嫌犯",
+        "onboard_time": 1677197912,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305851,
+        "num": 293811,
+        "word": "12岁孩子进店撸猫被拒家长怒怼店员",
+        "onboard_time": 1677170604,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284076,
+        "num": 284076,
+        "word": "全国6亿栋房屋并不全是商品房",
+        "onboard_time": 1677167728,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 247740,
+        "num": 247740,
+        "word": "女生考研查分后激动到晕倒送医",
+        "onboard_time": 1677172519,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 241579,
+        "num": 241579,
+        "word": "大爷银行取钱排队一小时频遭插队",
+        "onboard_time": 1677165631,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230096,
+        "num": 230096,
+        "word": "甲流",
+        "onboard_time": 1677164133,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210166,
+        "num": 210166,
+        "word": "在美志愿者称丫丫有刻板行为",
+        "onboard_time": 1677202408,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204169,
+        "num": 204169,
+        "word": "迪马利亚单场7射正创欧联杯纪录",
+        "onboard_time": 1677200189,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196993,
+        "num": 196993,
+        "word": "联大通过和平公式决议草案",
+        "onboard_time": 1677202047,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 195517,
+        "num": 195517,
+        "word": "央视曝光个人电影投资骗局",
+        "onboard_time": 1677164372,
+        "rank": 29,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 193174,
+        "num": 193174,
+        "word": "曼联2比1巴萨",
+        "onboard_time": 1677193881,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191313,
+        "num": 191313,
+        "word": "男子多年求子不得查出竟是女儿身",
+        "onboard_time": 1677153630,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186408,
+        "num": 186408,
+        "word": "房贷创新重在发掘消费者潜在需求",
+        "onboard_time": 1677202408,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181615,
+        "num": 181615,
+        "word": "济南一古墓发掘50余件唐三彩",
+        "onboard_time": 1677193640,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179292,
+        "num": 179292,
+        "word": "中国最后的沙漠村落",
+        "onboard_time": 1677202227,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168734,
+        "num": 168734,
+        "word": "四省联考",
+        "onboard_time": 1677166708,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 161500,
+        "num": 161500,
+        "word": "迪马利亚帽子戏法",
+        "onboard_time": 1677195205,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160152,
+        "num": 160152,
+        "word": "九月哭了",
+        "onboard_time": 1677195506,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158524,
+        "num": 158524,
+        "word": "巴奴火锅创始人发声",
+        "onboard_time": 1677167012,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139918,
+        "num": 139918,
+        "word": "新疆小伙1天拿到驾驶证",
+        "onboard_time": 1677154410,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129647,
+        "num": 129647,
+        "word": "实探上海巴奴火锅土豆11元6片",
+        "onboard_time": 1677182651,
+        "rank": 40,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 128087,
+        "num": 128087,
+        "word": "没有比煲仔饭更好吃的饭",
+        "onboard_time": 1677198031,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114324,
+        "num": 114324,
+        "word": "陈建宇一公舞台镜头",
+        "onboard_time": 1677201807,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112098,
+        "num": 112098,
+        "word": "MOSS量子体积为什么是8192",
+        "onboard_time": 1677174676,
+        "rank": 43,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 106395,
+        "num": 106395,
+        "word": "春天的脚步到哪里了",
+        "onboard_time": 1677202287,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94858,
+        "num": 94858,
+        "word": "陈乔恩说如果能重来不会公开恋情",
+        "onboard_time": 1677148891,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91951,
+        "num": 91951,
+        "word": "马龙3比0樊振东",
+        "onboard_time": 1677157591,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90839,
+        "num": 90839,
+        "word": "Somi生图",
+        "onboard_time": 1677164913,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 85553,
+        "num": 85553,
+        "word": "有些小事值得被科普",
+        "onboard_time": 1677197548,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 82689,
+        "num": 82689,
+        "word": "六公主赞夏花",
+        "onboard_time": 1677165693,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党带着新的承诺再出发#"
+    }
+  }
+}
