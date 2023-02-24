@@ -1,0 +1,410 @@
+{
+  "runTime": 1677231273684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1219756,
+        "num": 1219756,
+        "word": "王鸥诡笑",
+        "onboard_time": 1677221248,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1003778,
+        "num": 1003778,
+        "word": "男子猝死其母将女友告上法庭判赔16万",
+        "onboard_time": 1677213454,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173771,
+        "num": 912515,
+        "word": "2023全国入春进程地图",
+        "onboard_time": 1677229288,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1059967,
+        "num": 909871,
+        "word": "男孩7次举手后离世最新进展",
+        "onboard_time": 1677222330,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896522,
+        "num": 896522,
+        "word": "省考",
+        "onboard_time": 1677217111,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 860296,
+        "num": 860296,
+        "word": "85岁老人想娶60岁女友遭子女反对",
+        "onboard_time": 1677229048,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785853,
+        "num": 785853,
+        "word": "4人听说曹县是宇宙中心专程来盗窃",
+        "onboard_time": 1677228389,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730345,
+        "num": 730345,
+        "word": "苹果最贵电脑拍出一套房",
+        "onboard_time": 1677228208,
+        "rank": 7,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 539144,
+        "num": 539144,
+        "word": "檀健次官宣录制我们的客栈",
+        "onboard_time": 1677228809,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523179,
+        "num": 523179,
+        "word": "近半数安卓用户考虑换苹果",
+        "onboard_time": 1677229468,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 602676,
+        "num": 519218,
+        "word": "任命贺荣为司法部部长",
+        "onboard_time": 1677230069,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 497852,
+        "num": 497852,
+        "word": "目前过敏性鼻炎无法根治",
+        "onboard_time": 1677228569,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496875,
+        "num": 496875,
+        "word": "知名杂志因大量AI生成投稿暂停征稿",
+        "onboard_time": 1677225629,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461283,
+        "num": 461283,
+        "word": "扬科维奇任国家男子足球队主教练",
+        "onboard_time": 1677230488,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 458619,
+        "num": 458619,
+        "word": "演技姐圈101",
+        "onboard_time": 1677228087,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 439717,
+        "num": 439717,
+        "word": "天官赐福",
+        "onboard_time": 1677216635,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 419645,
+        "num": 419645,
+        "word": "文俊辉看到了雾都雾里七个八",
+        "onboard_time": 1677227547,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392551,
+        "num": 392551,
+        "word": "公诉精英 接档",
+        "onboard_time": 1677225988,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380046,
+        "num": 380046,
+        "word": "虞书欣双人舞视频",
+        "onboard_time": 1677228869,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351362,
+        "num": 351362,
+        "word": "爱情而已",
+        "onboard_time": 1677227788,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463014,
+        "num": 347857,
+        "word": "30岁以上大龄未婚青年非常普遍",
+        "onboard_time": 1677220470,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338225,
+        "num": 338225,
+        "word": "维金斯",
+        "onboard_time": 1677229767,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331450,
+        "num": 331450,
+        "word": "徐志胜和李宇春同获音乐奖",
+        "onboard_time": 1677224548,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282721,
+        "num": 282721,
+        "word": "原神",
+        "onboard_time": 1677225508,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278407,
+        "num": 278407,
+        "word": "双鱼座的恋爱心态",
+        "onboard_time": 1677221308,
+        "rank": 24,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 270646,
+        "num": 270646,
+        "word": "原神白术",
+        "onboard_time": 1677227307,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203266,
+        "num": 203266,
+        "word": "卡维",
+        "onboard_time": 1677230609,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202559,
+        "num": 202559,
+        "word": "四大会计事务所中标多家国企项目",
+        "onboard_time": 1677219149,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 198608,
+        "num": 198608,
+        "word": "无畏MVP",
+        "onboard_time": 1677230728,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186708,
+        "num": 186708,
+        "word": "刘些宁与jellyfish终止合约",
+        "onboard_time": 1677221008,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181757,
+        "num": 181757,
+        "word": "男子贩卖小熊猫川金丝猴获刑14年",
+        "onboard_time": 1677223229,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1247162,
+        "num": 181664,
+        "word": "肖战米兰街拍",
+        "onboard_time": 1677226528,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181397,
+        "num": 181397,
+        "word": "毒舌律师 粤语",
+        "onboard_time": 1677222868,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174892,
+        "num": 174892,
+        "word": "县长涉嫌性侵挂职女干部被停职",
+        "onboard_time": 1677203847,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167004,
+        "num": 167004,
+        "word": "美方应就所谓摧毁台湾计划作出解释",
+        "onboard_time": 1677230609,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 157798,
+        "num": 157798,
+        "word": "龚俊也去泰国了",
+        "onboard_time": 1677212429,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157448,
+        "num": 157448,
+        "word": "陈学冬车祸后报平安",
+        "onboard_time": 1677212251,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152421,
+        "num": 152421,
+        "word": "隔空猥亵同样是性侵",
+        "onboard_time": 1677207448,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152380,
+        "num": 152380,
+        "word": "邓超陈赫鹿晗哈哇哟表情包",
+        "onboard_time": 1677224131,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151177,
+        "num": 151177,
+        "word": "杀我别用双北刀",
+        "onboard_time": 1677231028,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136862,
+        "num": 136862,
+        "word": "维金斯无限期离队",
+        "onboard_time": 1677230968,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136277,
+        "num": 136277,
+        "word": "我们的客栈投资能力大比拼",
+        "onboard_time": 1677228511,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133784,
+        "num": 133784,
+        "word": "网友称用ChatGPT后被海外大学录取",
+        "onboard_time": 1677213870,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 135559,
+        "num": 133096,
+        "word": "唐嫣短发造型路透",
+        "onboard_time": 1677222150,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132022,
+        "num": 132022,
+        "word": "村支书非法占有孤儿生活补贴五年",
+        "onboard_time": 1677214533,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129820,
+        "num": 129820,
+        "word": "农村也出现恐婚恐育群体",
+        "onboard_time": 1677217948,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128293,
+        "num": 128293,
+        "word": "网友P的刘诗诗李健合照",
+        "onboard_time": 1677219329,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114628,
+        "num": 114628,
+        "word": "毛不易演唱会官宣十场",
+        "onboard_time": 1677212490,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109180,
+        "num": 109180,
+        "word": "流浪地球2评分上涨",
+        "onboard_time": 1677221308,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102824,
+        "num": 102824,
+        "word": "郑恺 谁会对周一有期待",
+        "onboard_time": 1677219329,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大代表2977名#"
+    }
+  }
+}

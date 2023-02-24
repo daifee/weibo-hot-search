@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677230357899,
+  "endTime": 1677231273684,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -8963,6 +8963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 896522,
+      "num": 896522,
+      "word": "省考",
+      "onboard_time": 1677217111,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 896503,
       "num": 828495,
       "word": "恒大1.1亿年薪归化球员在国足0出场",
@@ -9403,6 +9411,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 860296,
+      "num": 860296,
+      "word": "85岁老人想娶60岁女友遭子女反对",
+      "onboard_time": 1677229048,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 859956,
       "num": 859956,
       "word": "电影无名票房超过媒体预测",
@@ -9625,14 +9641,6 @@
       "onboard_time": 1675924949,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 846995,
-      "num": 846995,
-      "word": "省考",
-      "onboard_time": 1677217111,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 845902,
@@ -10721,6 +10729,14 @@
       "onboard_time": 1677069689,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 785853,
+      "num": 785853,
+      "word": "4人听说曹县是宇宙中心专程来盗窃",
+      "onboard_time": 1677228389,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 785823,
@@ -11915,14 +11931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 732378,
-      "num": 732378,
-      "word": "4人听说曹县是宇宙中心专程来盗窃",
-      "onboard_time": 1677228389,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 732196,
       "num": 616272,
       "word": "蔡徐坤米兰街头听演奏",
@@ -11985,6 +11993,14 @@
       "onboard_time": 1676942370,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 730345,
+      "num": 730345,
+      "word": "苹果最贵电脑拍出一套房",
+      "onboard_time": 1677228208,
+      "rank": 10,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 730162,
@@ -13515,14 +13531,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 674810,
-      "num": 516482,
-      "word": "苹果最贵电脑拍出一套房",
-      "onboard_time": 1677228208,
-      "rank": 10,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 674714,
       "num": 674714,
       "word": "魏大勋接梗",
@@ -13889,14 +13897,6 @@
       "onboard_time": 1676252065,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 662263,
-      "num": 662263,
-      "word": "85岁老人想娶60岁女友遭子女反对",
-      "onboard_time": 1677229048,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 662243,
@@ -15553,6 +15553,14 @@
       "onboard_time": 1677058531,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602676,
+      "num": 519218,
+      "word": "任命贺荣为司法部部长",
+      "onboard_time": 1677230069,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 602289,
@@ -18467,6 +18475,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 523179,
+      "num": 523179,
+      "word": "近半数安卓用户考虑换苹果",
+      "onboard_time": 1677229468,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 523081,
       "num": 523081,
       "word": "强震已致土耳其叙利亚上万人遇难",
@@ -19488,6 +19504,14 @@
       "word": "男子分手后起诉女方返还彩礼",
       "onboard_time": 1676346037,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497852,
+      "num": 497852,
+      "word": "目前过敏性鼻炎无法根治",
+      "onboard_time": 1677228569,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -21083,6 +21107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 461283,
+      "num": 461283,
+      "word": "扬科维奇任国家男子足球队主教练",
+      "onboard_time": 1677230488,
+      "rank": 13,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 461055,
       "num": 461055,
       "word": "苹果或将继续上调iPhone售价",
@@ -21737,14 +21769,6 @@
       "onboard_time": 1676943450,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 445291,
-      "num": 445291,
-      "word": "目前过敏性鼻炎无法根治",
-      "onboard_time": 1677228569,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445290,
@@ -28363,6 +28387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 338225,
+      "num": 338225,
+      "word": "维金斯",
+      "onboard_time": 1677229767,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338208,
       "num": 338208,
       "word": "五哈",
@@ -32313,14 +32345,6 @@
       "onboard_time": 1676382632,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 288239,
-      "num": 288239,
-      "word": "近半数安卓用户考虑换苹果",
-      "onboard_time": 1677229468,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 288176,
@@ -40339,14 +40363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208265,
-      "num": 193999,
-      "word": "任命贺荣为司法部部长",
-      "onboard_time": 1677230069,
-      "rank": 31,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 208170,
       "num": 208170,
       "word": "eStar战胜WB",
@@ -40937,6 +40953,14 @@
       "onboard_time": 1676337216,
       "rank": 35,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 203266,
+      "num": 203266,
+      "word": "卡维",
+      "onboard_time": 1677230609,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 203172,
@@ -41961,14 +41985,6 @@
       "onboard_time": 1675686691,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195861,
-      "num": 195861,
-      "word": "维金斯",
-      "onboard_time": 1677229767,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 195843,
@@ -45587,6 +45603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173771,
+      "num": 912515,
+      "word": "2023全国入春进程地图",
+      "onboard_time": 1677229288,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173715,
       "num": 173715,
       "word": "贾乃亮给流浪狗喂香肠",
@@ -46681,6 +46705,14 @@
       "onboard_time": 1676906850,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167004,
+      "num": 167004,
+      "word": "美方应就所谓摧毁台湾计划作出解释",
+      "onboard_time": 1677230609,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 166926,
@@ -48651,6 +48683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151177,
+      "num": 151177,
+      "word": "杀我别用双北刀",
+      "onboard_time": 1677231028,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151108,
       "num": 151108,
       "word": "玄商跳归墟",
@@ -49955,6 +49995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136862,
+      "num": 136862,
+      "word": "维金斯无限期离队",
+      "onboard_time": 1677230968,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136834,
       "num": 136834,
       "word": "GEN战胜DK",
@@ -50833,14 +50881,6 @@
       "onboard_time": 1677156813,
       "rank": 41,
       "category": "科技,国内要闻"
-    },
-    {
-      "raw_hot": 127618,
-      "num": 862074,
-      "word": "2023全国入春进程地图",
-      "onboard_time": 1677229288,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127496,
