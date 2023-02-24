@@ -1,0 +1,410 @@
+{
+  "runTime": 1677278157249,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 758224,
+        "num": 758224,
+        "word": "丫丫",
+        "onboard_time": 1677255387,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406507,
+        "num": 406507,
+        "word": "GUCCI CEO",
+        "onboard_time": 1677248137,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 30888,
+        "num": 284873,
+        "word": "新一代载人登月飞船模型首次展出",
+        "onboard_time": 1677250479,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 214419,
+        "num": 214419,
+        "word": "水哥最强大脑5分钟答对15道题",
+        "onboard_time": 1677254071,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202276,
+        "num": 202276,
+        "word": "肖战入场视频",
+        "onboard_time": 1677252334,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190358,
+        "num": 190358,
+        "word": "姐弟恋比例持续攀升",
+        "onboard_time": 1677260176,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163142,
+        "num": 163142,
+        "word": "GUCCI",
+        "onboard_time": 1677245911,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 160237,
+        "num": 160237,
+        "word": "孔乙己文学",
+        "onboard_time": 1677245431,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156389,
+        "num": 156389,
+        "word": "你会选择单休的工作吗",
+        "onboard_time": 1677258319,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126833,
+        "num": 126833,
+        "word": "建议减少教师参与网络点赞转发工作",
+        "onboard_time": 1677246211,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110831,
+        "num": 110831,
+        "word": "小城市房子会越来越不值钱吗",
+        "onboard_time": 1677244650,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 98431,
+        "num": 98431,
+        "word": "为什么火锅越来越贵",
+        "onboard_time": 1677256345,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92624,
+        "num": 92624,
+        "word": "原来有趣的人真的不会无聊",
+        "onboard_time": 1677244650,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 90964,
+        "num": 90964,
+        "word": "男子不慎被妻子扎伤在绷带写字留念",
+        "onboard_time": 1677248559,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81056,
+        "num": 81056,
+        "word": "蔡天凤",
+        "onboard_time": 1677250180,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 78397,
+        "num": 78397,
+        "word": "官方通报县长涉侵犯女干部",
+        "onboard_time": 1677235167,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74178,
+        "num": 74178,
+        "word": "以爱为营 车内吻",
+        "onboard_time": 1677254607,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69409,
+        "num": 69409,
+        "word": "何以琛赵默笙同框",
+        "onboard_time": 1677232949,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51788,
+        "num": 51788,
+        "word": "自信的女生的魅力有多大",
+        "onboard_time": 1677257721,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53961,
+        "num": 51492,
+        "word": "张杰小时候因为没钱没上音乐专业课",
+        "onboard_time": 1677260237,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76754,
+        "num": 51116,
+        "word": "江苏一男子因赡养问题弑父杀母",
+        "onboard_time": 1677242611,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 49055,
+        "num": 49055,
+        "word": "鹿晗牵小猫手",
+        "onboard_time": 1677246874,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48867,
+        "num": 48867,
+        "word": "TODS",
+        "onboard_time": 1677251913,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 46411,
+        "num": 46411,
+        "word": "文紫被洛音凡关了三年",
+        "onboard_time": 1677260237,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45625,
+        "num": 45625,
+        "word": "王雨城最强黑马",
+        "onboard_time": 1677256944,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38416,
+        "num": 38416,
+        "word": "为什么新生儿一定要哭",
+        "onboard_time": 1677251078,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38575,
+        "num": 38374,
+        "word": "水哥真帅",
+        "onboard_time": 1677243930,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36469,
+        "num": 36469,
+        "word": "女童玩瑜伽球致跑步机男子摔倒",
+        "onboard_time": 1677242072,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35637,
+        "num": 35637,
+        "word": "王心凌说别管我跷二郎腿",
+        "onboard_time": 1677240928,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33957,
+        "num": 33957,
+        "word": "猫急得都快说人话了",
+        "onboard_time": 1677264253,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33052,
+        "num": 33052,
+        "word": "冰冰重做了吧",
+        "onboard_time": 1677241050,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31161,
+        "num": 31161,
+        "word": "85岁老人想娶60岁女友遭子女反对",
+        "onboard_time": 1677229048,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30805,
+        "num": 30805,
+        "word": "写实到可怕的电影",
+        "onboard_time": 1677274092,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29843,
+        "num": 29843,
+        "word": "吴京现身中国乒乓校园路演",
+        "onboard_time": 1677252690,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29431,
+        "num": 29431,
+        "word": "滴水观音有毒不能碰",
+        "onboard_time": 1677242491,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 29365,
+        "num": 29365,
+        "word": "程潇回国机场饭拍",
+        "onboard_time": 1677256882,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28324,
+        "num": 28324,
+        "word": "魏无羡的喷子",
+        "onboard_time": 1677240506,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27209,
+        "num": 27209,
+        "word": "什么都AI换脸只会害了你",
+        "onboard_time": 1677242971,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 26459,
+        "num": 26459,
+        "word": "王源毕业季演唱会",
+        "onboard_time": 1677252272,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24400,
+        "num": 24400,
+        "word": "张大大直播",
+        "onboard_time": 1677243692,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23559,
+        "num": 23559,
+        "word": "关注中国旅美大熊猫",
+        "onboard_time": 1677250832,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23217,
+        "num": 23217,
+        "word": "李宇春看秀",
+        "onboard_time": 1677248375,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 22314,
+        "num": 22314,
+        "word": "女孩被老板误会没付款回家哭诉",
+        "onboard_time": 1677234569,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22057,
+        "num": 22057,
+        "word": "赵丽颖云南拍戏人气",
+        "onboard_time": 1677236909,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21736,
+        "num": 21736,
+        "word": "夏花",
+        "onboard_time": 1677253350,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20908,
+        "num": 20908,
+        "word": "彭于晏脸部晒伤",
+        "onboard_time": 1677236608,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20607,
+        "num": 20607,
+        "word": "周深时光音乐会收官花絮vlog",
+        "onboard_time": 1677252931,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19990,
+        "num": 19990,
+        "word": "邓超说30岁前没穿过秋裤",
+        "onboard_time": 1677245189,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18899,
+        "num": 19985,
+        "word": "SMTOWN艺人今年活动计划",
+        "onboard_time": 1677241950,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13815,
+        "num": 19978,
+        "word": "WBG胜利吃鸡",
+        "onboard_time": 1677254455,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平夫妇会见柬埔寨国王和太后#"
+    }
+  }
+}
