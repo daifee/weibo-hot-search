@@ -1,6 +1,6 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677212652790,
+  "endTime": 1677213596967,
   "band_list": [
     {
       "raw_hot": 2530260,
@@ -17,6 +17,14 @@
       "onboard_time": 1677159271,
       "rank": 3,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 1833651,
+      "num": 1833651,
+      "word": "陈学冬车祸后报平安",
+      "onboard_time": 1677212251,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1730355,
@@ -155,6 +163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 814948,
+      "num": 814948,
+      "word": "老默我想吃鱼了被抢注商标",
+      "onboard_time": 1677207928,
+      "rank": 12,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 797850,
       "num": 797850,
       "word": "日本家庭花6.8年收入才能买房",
@@ -163,20 +179,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 762509,
-      "num": 762509,
-      "word": "老默我想吃鱼了被抢注商标",
-      "onboard_time": 1677207928,
-      "rank": 12,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 762323,
       "num": 762323,
       "word": "央视曝光个人电影投资骗局",
       "onboard_time": 1677164372,
       "rank": 5,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 744827,
+      "num": 744827,
+      "word": "毛不易演唱会官宣十场",
+      "onboard_time": 1677212490,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 739599,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 709812,
-      "num": 1202165,
+      "num": 1216947,
       "word": "关于政治解决乌克兰危机的中国立场",
       "onboard_time": 1677201567,
       "rank": 10,
@@ -227,16 +243,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 648890,
-      "num": 626393,
-      "word": "陈学冬车祸后报平安",
-      "onboard_time": 1677212251,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 629813,
-      "num": 629813,
+      "raw_hot": 675776,
+      "num": 675776,
       "word": "演员王全有吐槽药价",
       "onboard_time": 1677210207,
       "rank": 9,
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 584131,
+      "num": 584131,
+      "word": "龚俊也去泰国了",
+      "onboard_time": 1677212429,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583820,
       "num": 583820,
       "word": "12岁孩子进店撸猫被拒家长怒怼店员",
@@ -273,6 +289,14 @@
       "onboard_time": 1677201208,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 534050,
+      "num": 534050,
+      "word": "美国毒火车事件已致近4.4万只动物死亡",
+      "onboard_time": 1677209249,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533989,
@@ -291,12 +315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 522088,
-      "num": 522088,
-      "word": "美国毒火车事件已致近4.4万只动物死亡",
-      "onboard_time": 1677209249,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 512240,
+      "num": 512240,
+      "word": "陆虎向嘘嘘求婚预告",
+      "onboard_time": 1677211408,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 500067,
@@ -323,20 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490421,
-      "num": 490421,
-      "word": "陆虎向嘘嘘求婚预告",
-      "onboard_time": 1677211408,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 483240,
       "num": 450577,
       "word": "网友米兰偶遇孔雪儿",
       "onboard_time": 1677204209,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 471221,
+      "num": 471221,
+      "word": "曝HYBE为李秀满植树计划投资百亿韩元",
+      "onboard_time": 1677212913,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 454523,
@@ -417,6 +441,22 @@
       "onboard_time": 1677195745,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 349855,
+      "num": 349855,
+      "word": "李荣浩演唱会官宣沈阳西安",
+      "onboard_time": 1677213152,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 343349,
+      "num": 343349,
+      "word": "云南3岁失联男童已平安找到",
+      "onboard_time": 1677211589,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338979,
@@ -571,14 +611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 274437,
-      "num": 274437,
-      "word": "毛不易演唱会官宣十场",
-      "onboard_time": 1677212490,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 270727,
       "num": 270727,
       "word": "陈乔恩说如果能重来不会公开恋情",
@@ -601,6 +633,30 @@
       "onboard_time": 1677166115,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 245246,
+      "num": 245246,
+      "word": "我爸学会网购后买了个亭子回家",
+      "onboard_time": 1677213271,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232528,
+      "num": 232528,
+      "word": "现实版落霞与孤鹜齐飞有多美",
+      "onboard_time": 1677211349,
+      "rank": 46,
+      "category": "旅游,自然"
+    },
+    {
+      "raw_hot": 232349,
+      "num": 232349,
+      "word": "又一未拆封初代iPhone被拍卖",
+      "onboard_time": 1677212251,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 229104,
@@ -643,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209272,
-      "num": 209272,
-      "word": "云南3岁失联男童已平安找到",
-      "onboard_time": 1677211589,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207949,
       "num": 207949,
       "word": "迪马利亚单场7射正创欧联杯纪录",
@@ -683,14 +731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193780,
-      "num": 193780,
-      "word": "又一未拆封初代iPhone被拍卖",
-      "onboard_time": 1677212251,
-      "rank": 35,
-      "category": "科技"
-    },
-    {
       "raw_hot": 193235,
       "num": 193235,
       "word": "马龙3比0樊振东",
@@ -713,6 +753,14 @@
       "onboard_time": 1677170423,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185762,
+      "num": 185762,
+      "word": "男子猝死其母将女友告上法庭判赔16万",
+      "onboard_time": 1677213454,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183970,
@@ -787,22 +835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160006,
-      "num": 160006,
-      "word": "现实版落霞与孤鹜齐飞有多美",
-      "onboard_time": 1677211349,
-      "rank": 46,
-      "category": "旅游,自然"
-    },
-    {
-      "raw_hot": 158720,
-      "num": 158720,
-      "word": "龚俊也去泰国了",
-      "onboard_time": 1677212429,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156202,
       "num": 156202,
       "word": "宋雨琦晒与许光汉合照",
@@ -817,6 +849,14 @@
       "onboard_time": 1677208948,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 152925,
+      "num": 152925,
+      "word": "李硕珉米兰时装周出发图",
+      "onboard_time": 1677213574,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 149022,
