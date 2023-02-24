@@ -1,0 +1,410 @@
+{
+  "runTime": 1677203958361,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1364111,
+        "num": 1364111,
+        "word": "丫丫或于4月7日合同到期时回国",
+        "onboard_time": 1677168505,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1187986,
+        "num": 1187986,
+        "word": "专家称未来不少大学将关停",
+        "onboard_time": 1677201030,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 92683,
+        "num": 1177345,
+        "word": "端牢中国饭碗的底气",
+        "onboard_time": 1677162511,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1171185,
+        "num": 1171185,
+        "word": "李宇春说老默我想吃鱼了",
+        "onboard_time": 1677197790,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1001093,
+        "num": 1001093,
+        "word": "金俊勉方否认拿鞋子不还",
+        "onboard_time": 1677201327,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 902217,
+        "num": 902217,
+        "word": "在美志愿者称丫丫有刻板行为",
+        "onboard_time": 1677202408,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846550,
+        "num": 846550,
+        "word": "俄乌战争一周年前后",
+        "onboard_time": 1677200069,
+        "rank": 6,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 1407413,
+        "num": 814536,
+        "word": "Prada",
+        "onboard_time": 1677159271,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 769294,
+        "num": 769294,
+        "word": "体育生考研435分社牛舍友挂条幅庆祝",
+        "onboard_time": 1677196889,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 709812,
+        "num": 709812,
+        "word": "关于政治解决乌克兰危机的中国立场",
+        "onboard_time": 1677201567,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 596134,
+        "num": 596134,
+        "word": "iPhone15Pro将新增深红色配色",
+        "onboard_time": 1677196768,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 563833,
+        "num": 563833,
+        "word": "小美人鱼扮演者杂志封面",
+        "onboard_time": 1677201208,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 540930,
+        "num": 540930,
+        "word": "会和丑却对你好的人恋爱吗",
+        "onboard_time": 1677169407,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 496050,
+        "num": 496050,
+        "word": "甲流是最为复杂的流感病毒",
+        "onboard_time": 1677200611,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445873,
+        "num": 445873,
+        "word": "刘雯闭场",
+        "onboard_time": 1677162093,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 425471,
+        "num": 425471,
+        "word": "四天工作制究竟香不香",
+        "onboard_time": 1677201149,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357820,
+        "num": 357820,
+        "word": "联大通过和平公式决议草案",
+        "onboard_time": 1677202047,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 357684,
+        "num": 357684,
+        "word": "网传有银行每天交易限额5000元",
+        "onboard_time": 1677169885,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 322725,
+        "num": 322725,
+        "word": "丈夫婚后发现妻子患精神病起诉离婚",
+        "onboard_time": 1677203127,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299357,
+        "num": 299357,
+        "word": "长空之王严正声明",
+        "onboard_time": 1677195745,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560569,
+        "num": 298716,
+        "word": "民警逛街一手喝奶茶一手抓嫌犯",
+        "onboard_time": 1677197912,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295465,
+        "num": 295465,
+        "word": "12岁孩子进店撸猫被拒家长怒怼店员",
+        "onboard_time": 1677170604,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279973,
+        "num": 279973,
+        "word": "内蒙古煤矿坍塌已致6死6伤",
+        "onboard_time": 1677199827,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 262814,
+        "num": 262814,
+        "word": "中国不会成为另一个美国的十个原因",
+        "onboard_time": 1677179172,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 232952,
+        "num": 232952,
+        "word": "女子避雨时随手拍下人生的轮回",
+        "onboard_time": 1677156209,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213410,
+        "num": 213410,
+        "word": "女生考研查分后激动到晕倒送医",
+        "onboard_time": 1677172519,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 210691,
+        "num": 210691,
+        "word": "全国6亿栋房屋并不全是商品房",
+        "onboard_time": 1677167728,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 207949,
+        "num": 207949,
+        "word": "迪马利亚单场7射正创欧联杯纪录",
+        "onboard_time": 1677200189,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203733,
+        "num": 203733,
+        "word": "中国最后的沙漠村落",
+        "onboard_time": 1677202227,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202313,
+        "num": 202313,
+        "word": "甲流",
+        "onboard_time": 1677164133,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200010,
+        "num": 200010,
+        "word": "大爷银行取钱排队一小时频遭插队",
+        "onboard_time": 1677165631,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186844,
+        "num": 186844,
+        "word": "房贷创新重在发掘消费者潜在需求",
+        "onboard_time": 1677202408,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177990,
+        "num": 177990,
+        "word": "陆虎与跳伞教练是同一赛区选手",
+        "onboard_time": 1677203368,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160423,
+        "num": 160423,
+        "word": "95后女生放弃安稳生活专职科普植物",
+        "onboard_time": 1677203066,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159426,
+        "num": 159426,
+        "word": "央视曝光个人电影投资骗局",
+        "onboard_time": 1677164372,
+        "rank": 34,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 146037,
+        "num": 146037,
+        "word": "四省联考",
+        "onboard_time": 1677166708,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 138744,
+        "num": 138744,
+        "word": "曼联2比1巴萨",
+        "onboard_time": 1677193881,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137872,
+        "num": 137872,
+        "word": "济南一古墓发掘50余件唐三彩",
+        "onboard_time": 1677193640,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135761,
+        "num": 135761,
+        "word": "九月哭了",
+        "onboard_time": 1677195506,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128753,
+        "num": 128753,
+        "word": "北京朝霞",
+        "onboard_time": 1677203368,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124488,
+        "num": 124488,
+        "word": "巴奴火锅创始人发声",
+        "onboard_time": 1677167012,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121020,
+        "num": 121020,
+        "word": "县长涉嫌性侵挂职女干部被停职",
+        "onboard_time": 1677203847,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133527,
+        "num": 112328,
+        "word": "男子多年求子不得查出竟是女儿身",
+        "onboard_time": 1677153630,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102195,
+        "num": 102195,
+        "word": "没有比煲仔饭更好吃的饭",
+        "onboard_time": 1677198031,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99929,
+        "num": 99929,
+        "word": "迪马利亚帽子戏法",
+        "onboard_time": 1677195205,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99016,
+        "num": 99016,
+        "word": "警方回应男子地铁口打抱娃女子",
+        "onboard_time": 1677203728,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 98325,
+        "num": 98325,
+        "word": "新疆小伙1天拿到驾驶证",
+        "onboard_time": 1677154410,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95294,
+        "num": 95294,
+        "word": "MOSS量子体积为什么是8192",
+        "onboard_time": 1677174676,
+        "rank": 47,
+        "category": "影视,科技"
+      },
+      {
+        "raw_hot": 89793,
+        "num": 89793,
+        "word": "实探上海巴奴火锅土豆11元6片",
+        "onboard_time": 1677182651,
+        "rank": 48,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 88786,
+        "num": 88786,
+        "word": "陈建宇一公舞台镜头",
+        "onboard_time": 1677201807,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#雷锋精神永不过时#"
+    }
+  }
+}

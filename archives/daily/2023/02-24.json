@@ -1,6 +1,6 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677202753808,
+  "endTime": 1677203958361,
   "band_list": [
     {
       "raw_hot": 2141826,
@@ -27,6 +27,22 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 1187986,
+      "num": 1187986,
+      "word": "专家称未来不少大学将关停",
+      "onboard_time": 1677201030,
+      "rank": 7,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1171185,
+      "num": 1171185,
+      "word": "李宇春说老默我想吃鱼了",
+      "onboard_time": 1677197790,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1111016,
       "num": 1111016,
       "word": "俄乌战争一周年前后",
@@ -35,11 +51,11 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 1025827,
-      "num": 1025827,
-      "word": "李宇春说老默我想吃鱼了",
-      "onboard_time": 1677197790,
-      "rank": 4,
+      "raw_hot": 1001093,
+      "num": 1001093,
+      "word": "金俊勉方否认拿鞋子不还",
+      "onboard_time": 1677201327,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -49,14 +65,6 @@
       "onboard_time": 1677166708,
       "rank": 1,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 948088,
-      "num": 948088,
-      "word": "金俊勉方否认拿鞋子不还",
-      "onboard_time": 1677201327,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 917856,
@@ -75,20 +83,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 902217,
+      "num": 902217,
+      "word": "在美志愿者称丫丫有刻板行为",
+      "onboard_time": 1677202408,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 845991,
       "num": 755952,
       "word": "刘雯闭场",
       "onboard_time": 1677162093,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 827611,
-      "num": 827611,
-      "word": "专家称未来不少大学将关停",
-      "onboard_time": 1677201030,
-      "rank": 7,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 797850,
@@ -131,8 +139,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 709812,
+      "num": 709812,
+      "word": "关于政治解决乌克兰危机的中国立场",
+      "onboard_time": 1677201567,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 700419,
-      "num": 297498,
+      "num": 298716,
       "word": "民警逛街一手喝奶茶一手抓嫌犯",
       "onboard_time": 1677197912,
       "rank": 20,
@@ -155,16 +171,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 581025,
-      "num": 581025,
-      "word": "关于政治解决乌克兰危机的中国立场",
-      "onboard_time": 1677201567,
-      "rank": 10,
-      "category": "国外要闻"
+      "raw_hot": 563833,
+      "num": 563833,
+      "word": "小美人鱼扮演者杂志封面",
+      "onboard_time": 1677201208,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 491270,
-      "num": 491270,
+      "raw_hot": 496050,
+      "num": 496050,
       "word": "甲流是最为复杂的流感病毒",
       "onboard_time": 1677200611,
       "rank": 11,
@@ -185,14 +201,6 @@
       "onboard_time": 1677201149,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 437721,
-      "num": 437721,
-      "word": "小美人鱼扮演者杂志封面",
-      "onboard_time": 1677201208,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 419611,
@@ -227,6 +235,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 357820,
+      "num": 357820,
+      "word": "联大通过和平公式决议草案",
+      "onboard_time": 1677202047,
+      "rank": 28,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 350454,
       "num": 350454,
       "word": "长空之王严正声明",
@@ -257,6 +273,14 @@
       "onboard_time": 1677179172,
       "rank": 25,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 322725,
+      "num": 322725,
+      "word": "丈夫婚后发现妻子患精神病起诉离婚",
+      "onboard_time": 1677203127,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316814,
@@ -331,28 +355,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210166,
-      "num": 210166,
-      "word": "在美志愿者称丫丫有刻板行为",
-      "onboard_time": 1677202408,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204169,
-      "num": 204169,
+      "raw_hot": 207949,
+      "num": 207949,
       "word": "迪马利亚单场7射正创欧联杯纪录",
       "onboard_time": 1677200189,
       "rank": 27,
       "category": "体育"
     },
     {
-      "raw_hot": 196993,
-      "num": 196993,
-      "word": "联大通过和平公式决议草案",
-      "onboard_time": 1677202047,
-      "rank": 28,
-      "category": "国外要闻"
+      "raw_hot": 203733,
+      "num": 203733,
+      "word": "中国最后的沙漠村落",
+      "onboard_time": 1677202227,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193235,
@@ -363,8 +379,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186408,
-      "num": 186408,
+      "raw_hot": 186844,
+      "num": 186844,
       "word": "房贷创新重在发掘消费者潜在需求",
       "onboard_time": 1677202408,
       "rank": 32,
@@ -403,20 +419,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179292,
-      "num": 179292,
-      "word": "中国最后的沙漠村落",
-      "onboard_time": 1677202227,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178688,
       "num": 178688,
       "word": "甘肃地震",
       "onboard_time": 1677145950,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177990,
+      "num": 177990,
+      "word": "陆虎与跳伞教练是同一赛区选手",
+      "onboard_time": 1677203368,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 176521,
@@ -449,6 +465,14 @@
       "onboard_time": 1677148471,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160423,
+      "num": 160423,
+      "word": "95后女生放弃安稳生活专职科普植物",
+      "onboard_time": 1677203066,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160152,
@@ -515,6 +539,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 128753,
+      "num": 128753,
+      "word": "北京朝霞",
+      "onboard_time": 1677203368,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128087,
       "num": 128087,
       "word": "没有比煲仔饭更好吃的饭",
@@ -537,6 +569,14 @@
       "onboard_time": 1677150210,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121020,
+      "num": 121020,
+      "word": "县长涉嫌性侵挂职女干部被停职",
+      "onboard_time": 1677203847,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119460,
@@ -572,7 +612,7 @@
     },
     {
       "raw_hot": 115440,
-      "num": 1037348,
+      "num": 1177345,
       "word": "端牢中国饭碗的底气",
       "onboard_time": 1677162511,
       "rank": 2,
@@ -641,6 +681,14 @@
       "onboard_time": 1677164615,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99016,
+      "num": 99016,
+      "word": "警方回应男子地铁口打抱娃女子",
+      "onboard_time": 1677203728,
+      "rank": 45,
+      "category": "社会负面"
     },
     {
       "raw_hot": 97888,
