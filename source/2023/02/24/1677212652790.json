@@ -1,0 +1,410 @@
+{
+  "runTime": 1677212652790,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1501625,
+        "num": 1501625,
+        "word": "隔空猥亵同样是性侵",
+        "onboard_time": 1677207448,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1224957,
+        "num": 1224957,
+        "word": "张颂文曾抱过张翰",
+        "onboard_time": 1677208708,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471150,
+        "num": 1040259,
+        "word": "关于政治解决乌克兰危机的中国立场",
+        "onboard_time": 1677201567,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1730355,
+        "num": 1036808,
+        "word": "刘亚仁体毛检测阳性",
+        "onboard_time": 1677206786,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1022054,
+        "num": 1022054,
+        "word": "世界讨厌香菜日",
+        "onboard_time": 1677206067,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1673197,
+        "num": 949204,
+        "word": "县长涉嫌性侵挂职女干部被停职",
+        "onboard_time": 1677203847,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837445,
+        "num": 837445,
+        "word": "央企幼儿园首次对外招生",
+        "onboard_time": 1677204868,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 832370,
+        "num": 832370,
+        "word": "鼓励生育先要缓解年轻人婚姻焦虑",
+        "onboard_time": 1677206006,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762509,
+        "num": 762509,
+        "word": "老默我想吃鱼了被抢注商标",
+        "onboard_time": 1677207928,
+        "rank": 8,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 629813,
+        "num": 629813,
+        "word": "演员王全有吐槽药价",
+        "onboard_time": 1677210207,
+        "rank": 9,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 648890,
+        "num": 626393,
+        "word": "陈学冬车祸后报平安",
+        "onboard_time": 1677212251,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640595,
+        "num": 624762,
+        "word": "专家称未来不少大学将关停",
+        "onboard_time": 1677201030,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 620123,
+        "num": 620123,
+        "word": "长公主在上原班人马回归",
+        "onboard_time": 1677209848,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535305,
+        "num": 535305,
+        "word": "在美志愿者称丫丫有刻板行为",
+        "onboard_time": 1677202408,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531083,
+        "num": 531083,
+        "word": "五哈团反向感谢节目组",
+        "onboard_time": 1677210749,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522088,
+        "num": 522088,
+        "word": "美国毒火车事件已致近4.4万只动物死亡",
+        "onboard_time": 1677209249,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500067,
+        "num": 500067,
+        "word": "安乐传 Q2",
+        "onboard_time": 1677209487,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490421,
+        "num": 490421,
+        "word": "陆虎向嘘嘘求婚预告",
+        "onboard_time": 1677211408,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405415,
+        "num": 405415,
+        "word": "女子下班途中被狗撞伤被判工伤",
+        "onboard_time": 1677206428,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347004,
+        "num": 347004,
+        "word": "海清方否认退圈",
+        "onboard_time": 1677207868,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372026,
+        "num": 338529,
+        "word": "李宇春说老默我想吃鱼了",
+        "onboard_time": 1677197790,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326443,
+        "num": 326443,
+        "word": "勇士vs湖人",
+        "onboard_time": 1677211289,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317780,
+        "num": 317780,
+        "word": "金俊勉方否认拿鞋子不还",
+        "onboard_time": 1677201327,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313280,
+        "num": 313280,
+        "word": "iPhone15Pro将新增深红色配色",
+        "onboard_time": 1677196768,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 307842,
+        "num": 307842,
+        "word": "刘诗诗米兰侧脸路透",
+        "onboard_time": 1677209007,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 302690,
+        "num": 302690,
+        "word": "云南3岁男童与2陌生女孩玩后失踪",
+        "onboard_time": 1677204209,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 290908,
+        "num": 290908,
+        "word": "宋亚轩听自己11岁唱的歌的反应",
+        "onboard_time": 1677208708,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274437,
+        "num": 274437,
+        "word": "毛不易演唱会官宣十场",
+        "onboard_time": 1677212490,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264865,
+        "num": 264865,
+        "word": "杨超越发文告别方向",
+        "onboard_time": 1677209368,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259019,
+        "num": 259019,
+        "word": "体育生考研435分社牛舍友挂条幅庆祝",
+        "onboard_time": 1677196889,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 229104,
+        "num": 229104,
+        "word": "彭冠英王楚然片场精神状态",
+        "onboard_time": 1677210088,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209272,
+        "num": 209272,
+        "word": "云南3岁失联男童已平安找到",
+        "onboard_time": 1677211589,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207937,
+        "num": 207937,
+        "word": "李梦金敏喜柏林合照",
+        "onboard_time": 1677207267,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196724,
+        "num": 196724,
+        "word": "天空之城将重映",
+        "onboard_time": 1677210329,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194646,
+        "num": 194646,
+        "word": "Sana跳舞时牵住定延的手",
+        "onboard_time": 1677207630,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193780,
+        "num": 193780,
+        "word": "又一未拆封初代iPhone被拍卖",
+        "onboard_time": 1677212251,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 189195,
+        "num": 189195,
+        "word": "蔡徐坤现象EP上线",
+        "onboard_time": 1677206968,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188683,
+        "num": 188683,
+        "word": "会和丑却对你好的人恋爱吗",
+        "onboard_time": 1677169407,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187508,
+        "num": 187508,
+        "word": "网友米兰偶遇孔雪儿",
+        "onboard_time": 1677204209,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185728,
+        "num": 185728,
+        "word": "EDG惜败100T",
+        "onboard_time": 1677208166,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181478,
+        "num": 181478,
+        "word": "丫丫或于4月7日合同到期时回国",
+        "onboard_time": 1677168505,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175891,
+        "num": 175891,
+        "word": "四天工作制究竟香不香",
+        "onboard_time": 1677201149,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175626,
+        "num": 175626,
+        "word": "民警逛街一手喝奶茶一手抓嫌犯",
+        "onboard_time": 1677197912,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166379,
+        "num": 166379,
+        "word": "小美人鱼扮演者杂志封面",
+        "onboard_time": 1677201208,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161839,
+        "num": 161839,
+        "word": "俄乌战争一周年前后",
+        "onboard_time": 1677200069,
+        "rank": 44,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 160787,
+        "num": 160787,
+        "word": "iPhone15USBC口或获利超50亿美元",
+        "onboard_time": 1677204387,
+        "rank": 45,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 160006,
+        "num": 160006,
+        "word": "现实版落霞与孤鹜齐飞有多美",
+        "onboard_time": 1677211349,
+        "rank": 46,
+        "category": "旅游,自然"
+      },
+      {
+        "raw_hot": 158720,
+        "num": 158720,
+        "word": "龚俊也去泰国了",
+        "onboard_time": 1677212429,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158123,
+        "num": 158123,
+        "word": "深海真正的结局",
+        "onboard_time": 1677208110,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150908,
+        "num": 150908,
+        "word": "警方回应男子地铁口打抱娃女子",
+        "onboard_time": 1677203728,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国共产党带着新的承诺再出发#"
+    }
+  }
+}

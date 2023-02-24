@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677209834174,
+  "endTime": 1677212652790,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -443,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1730355,
+      "num": 1219015,
+      "word": "刘亚仁体毛检测阳性",
+      "onboard_time": 1677206786,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1729713,
       "num": 1729713,
       "word": "医院回应试管婴儿被弄错",
@@ -457,14 +465,6 @@
       "onboard_time": 1677103214,
       "rank": 30,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1724412,
-      "num": 1219015,
-      "word": "刘亚仁体毛检测阳性",
-      "onboard_time": 1677206786,
-      "rank": 14,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1715714,
@@ -576,6 +576,14 @@
       "word": "高学历低龄老人线上求职碰壁",
       "onboard_time": 1677118349,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1501625,
+      "num": 1501625,
+      "word": "隔空猥亵同样是性侵",
+      "onboard_time": 1677207448,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -883,14 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1265245,
-      "num": 1265245,
-      "word": "隔空猥亵同样是性侵",
-      "onboard_time": 1677207448,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1264866,
       "num": 1264866,
       "word": "仙剑奇侠传3主演无滤镜定妆照",
@@ -945,6 +945,14 @@
       "onboard_time": 1676973931,
       "rank": 46,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 1224957,
+      "num": 1224957,
+      "word": "张颂文曾抱过张翰",
+      "onboard_time": 1677208708,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1212614,
@@ -1065,14 +1073,6 @@
       "onboard_time": 1676951014,
       "rank": 6,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1156826,
-      "num": 1156826,
-      "word": "张颂文曾抱过张翰",
-      "onboard_time": 1677208708,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 1156514,
@@ -1305,6 +1305,14 @@
       "onboard_time": 1676943628,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1022054,
+      "num": 1022054,
+      "word": "世界讨厌香菜日",
+      "onboard_time": 1677206067,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 1020666,
@@ -2019,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 762509,
+      "num": 762509,
+      "word": "老默我想吃鱼了被抢注商标",
+      "onboard_time": 1677207928,
+      "rank": 12,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 761790,
       "num": 761790,
       "word": "深圳一楼盘送60万首付",
@@ -2643,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648890,
+      "num": 626393,
+      "word": "陈学冬车祸后报平安",
+      "onboard_time": 1677212251,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647834,
       "num": 647834,
       "word": "集美大学",
@@ -2763,6 +2787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629813,
+      "num": 629813,
+      "word": "演员王全有吐槽药价",
+      "onboard_time": 1677210207,
+      "rank": 9,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 628633,
       "num": 628633,
       "word": "摆拍发3000收回2800主播被行拘",
@@ -2801,6 +2833,14 @@
       "onboard_time": 1676902295,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620123,
+      "num": 620123,
+      "word": "长公主在上原班人马回归",
+      "onboard_time": 1677209848,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 619728,
@@ -3267,14 +3307,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 542470,
-      "num": 448338,
-      "word": "老默我想吃鱼了被抢注商标",
-      "onboard_time": 1677207928,
-      "rank": 12,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 541674,
       "num": 464003,
       "word": "交通局回应商丘公交因亏损严重将停运",
@@ -3331,6 +3363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 531083,
+      "num": 531083,
+      "word": "五哈团反向感谢节目组",
+      "onboard_time": 1677210749,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 529820,
       "num": 529820,
       "word": "长沙旅游真的没有淡季吗",
@@ -3377,6 +3417,14 @@
       "onboard_time": 1677143310,
       "rank": 15,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 522088,
+      "num": 522088,
+      "word": "美国毒火车事件已致近4.4万只动物死亡",
+      "onboard_time": 1677209249,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521836,
@@ -3515,6 +3563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500067,
+      "num": 500067,
+      "word": "安乐传 Q2",
+      "onboard_time": 1677209487,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 498329,
       "num": 498329,
       "word": "孟美岐跳女团舞",
@@ -3625,6 +3681,14 @@
       "onboard_time": 1676865272,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 490421,
+      "num": 490421,
+      "word": "陆虎向嘘嘘求婚预告",
+      "onboard_time": 1677211408,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 489363,
@@ -4875,14 +4939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369779,
-      "num": 369779,
-      "word": "世界讨厌香菜日",
-      "onboard_time": 1677206067,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 369604,
       "num": 369604,
       "word": "丁程鑫晒花与少年随拍",
@@ -5547,6 +5603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 326443,
+      "num": 326443,
+      "word": "勇士vs湖人",
+      "onboard_time": 1677211289,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326437,
       "num": 326437,
       "word": "从抑郁情绪到抑郁症有多远",
@@ -5761,14 +5825,6 @@
       "onboard_time": 1676822729,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 314517,
-      "num": 314517,
-      "word": "安乐传 Q2",
-      "onboard_time": 1677209487,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 314482,
@@ -6401,6 +6457,14 @@
       "onboard_time": 1677113430,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 274437,
+      "num": 274437,
+      "word": "毛不易演唱会官宣十场",
+      "onboard_time": 1677212490,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 273733,
@@ -7139,6 +7203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229104,
+      "num": 229104,
+      "word": "彭冠英王楚然片场精神状态",
+      "onboard_time": 1677210088,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228829,
       "num": 228829,
       "word": "宋茜白色露背长裙",
@@ -7547,6 +7619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209272,
+      "num": 209272,
+      "word": "云南3岁失联男童已平安找到",
+      "onboard_time": 1677211589,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208606,
       "num": 208606,
       "word": "开学晒被子",
@@ -7899,6 +7979,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 196724,
+      "num": 196724,
+      "word": "天空之城将重映",
+      "onboard_time": 1677210329,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196473,
       "num": 196473,
       "word": "塔吉克斯坦7.2级地震喀什震感强烈",
@@ -7985,6 +8073,14 @@
       "onboard_time": 1677138870,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193780,
+      "num": 193780,
+      "word": "又一未拆封初代iPhone被拍卖",
+      "onboard_time": 1677212251,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 193126,
@@ -8987,6 +9083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160006,
+      "num": 160006,
+      "word": "现实版落霞与孤鹜齐飞有多美",
+      "onboard_time": 1677211349,
+      "rank": 46,
+      "category": "旅游,自然"
+    },
+    {
       "raw_hot": 159732,
       "num": 159732,
       "word": "Scout获得周MVP",
@@ -9009,6 +9113,14 @@
       "onboard_time": 1677130230,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 158720,
+      "num": 158720,
+      "word": "龚俊也去泰国了",
+      "onboard_time": 1677212429,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 158323,
@@ -9313,14 +9425,6 @@
       "onboard_time": 1677000799,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140664,
-      "num": 140664,
-      "word": "美国毒火车事件已致近4.4万只动物死亡",
-      "onboard_time": 1677209249,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139968,
