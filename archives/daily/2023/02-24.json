@@ -1,6 +1,6 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677220805594,
+  "endTime": 1677223057531,
   "band_list": [
     {
       "raw_hot": 2530260,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1625727,
-      "num": 486906,
+      "num": 507716,
       "word": "天官赐福",
       "onboard_time": 1677216635,
       "rank": 10,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1114692,
+      "num": 1114692,
+      "word": "王鸥诡笑",
+      "onboard_time": 1677221248,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1111016,
       "num": 1111016,
       "word": "俄乌战争一周年前后",
@@ -153,6 +161,22 @@
       "onboard_time": 1677166708,
       "rank": 1,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 970852,
+      "num": 970852,
+      "word": "郑恺 谁会对周一有期待",
+      "onboard_time": 1677219329,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 925128,
+      "num": 925128,
+      "word": "30岁以上大龄未婚青年非常普遍",
+      "onboard_time": 1677220470,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 917856,
@@ -217,14 +241,6 @@
       "onboard_time": 1677164372,
       "rank": 5,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 747592,
-      "num": 747592,
-      "word": "郑恺 谁会对周一有期待",
-      "onboard_time": 1677219329,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 744827,
@@ -299,20 +315,20 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 663039,
+      "num": 663039,
+      "word": "农村也出现恐婚恐育群体",
+      "onboard_time": 1677217948,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662243,
       "num": 584131,
       "word": "龚俊也去泰国了",
       "onboard_time": 1677212429,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 659070,
-      "num": 659070,
-      "word": "农村也出现恐婚恐育群体",
-      "onboard_time": 1677217948,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 620123,
@@ -328,6 +344,14 @@
       "word": "海清方否认退圈",
       "onboard_time": 1677207868,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 614754,
+      "num": 614754,
+      "word": "刘些宁与jellyfish终止合约",
+      "onboard_time": 1677221008,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -427,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 506735,
+      "num": 506735,
+      "word": "四大会计事务所中标多家国企项目",
+      "onboard_time": 1677219149,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 500067,
       "num": 500067,
       "word": "安乐传 Q2",
@@ -449,6 +481,14 @@
       "onboard_time": 1677200611,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487327,
+      "num": 487327,
+      "word": "双鱼座的恋爱心态",
+      "onboard_time": 1677221308,
+      "rank": 12,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 483240,
@@ -489,6 +529,14 @@
       "onboard_time": 1677214773,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426583,
+      "num": 426583,
+      "word": "库克恐被踢出苹果董事会",
+      "onboard_time": 1677221552,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 419611,
@@ -579,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 346638,
+      "num": 346638,
+      "word": "男孩7次举手后离世最新进展",
+      "onboard_time": 1677222330,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343349,
       "num": 343349,
       "word": "云南3岁失联男童已平安找到",
@@ -595,12 +651,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 338449,
-      "num": 338449,
-      "word": "四大会计事务所中标多家国企项目",
-      "onboard_time": 1677219149,
-      "rank": 31,
-      "category": "财经,社会新闻"
+      "raw_hot": 337398,
+      "num": 337398,
+      "word": "流浪地球2评分上涨",
+      "onboard_time": 1677221308,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 337225,
@@ -616,6 +672,14 @@
       "word": "巴奴火锅创始人发声",
       "onboard_time": 1677167012,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333432,
+      "num": 333432,
+      "word": "男子带礼物坐地铁不断向路人炫耀",
+      "onboard_time": 1677221671,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -675,12 +739,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 309547,
+      "num": 309547,
+      "word": "catti",
+      "onboard_time": 1677221848,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 307636,
       "num": 307636,
       "word": "蔡徐坤现象EP上线",
       "onboard_time": 1677206968,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 306116,
+      "num": 306116,
+      "word": "唐嫣短发造型路透",
+      "onboard_time": 1677222150,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 301646,
@@ -899,14 +979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192627,
-      "num": 187699,
-      "word": "30岁以上大龄未婚青年非常普遍",
-      "onboard_time": 1677220470,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186844,
       "num": 186844,
       "word": "房贷创新重在发掘消费者潜在需求",
@@ -955,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177866,
+      "num": 177866,
+      "word": "刘耀文荣梓杉对手戏",
+      "onboard_time": 1677220828,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176521,
       "num": 176521,
       "word": "委员提案独生子女父母养老政府解决",
@@ -968,6 +1048,14 @@
       "word": "Somi宋江同框视频",
       "onboard_time": 1677218730,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170685,
+      "num": 170685,
+      "word": "李泳知表情包",
+      "onboard_time": 1677222330,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1043,6 +1131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153788,
+      "num": 153788,
+      "word": "陈星旭片场为李兰迪拍照",
+      "onboard_time": 1677221128,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152925,
       "num": 152925,
       "word": "李硕珉米兰时装周出发图",
@@ -1073,6 +1169,14 @@
       "onboard_time": 1677150751,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148318,
+      "num": 148318,
+      "word": "辣目的爱如火",
+      "onboard_time": 1677221008,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 147458,
@@ -1121,6 +1225,14 @@
       "onboard_time": 1677218910,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136905,
+      "num": 136905,
+      "word": "毒舌律师 粤语",
+      "onboard_time": 1677222868,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 134328,
@@ -1233,6 +1345,14 @@
       "onboard_time": 1677206549,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 109512,
+      "num": 109512,
+      "word": "流感常表现为高热而非低中度发烧",
+      "onboard_time": 1677221970,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106410,
