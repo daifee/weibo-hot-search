@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677248265344,
+  "endTime": 1677249287447,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10505974,
+      "num": 10505974,
+      "word": "GUCCI",
+      "onboard_time": 1677245911,
+      "rank": 0,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 9632259,
       "num": 9632259,
       "word": "佛山地震",
       "onboard_time": 1675568914,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9385691,
-      "num": 9385691,
-      "word": "GUCCI",
-      "onboard_time": 1677245911,
-      "rank": 0,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 8361811,
@@ -993,6 +993,14 @@
       "onboard_time": 1675221032,
       "rank": 0,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 2595861,
+      "num": 1057694,
+      "word": "GUCCI CEO",
+      "onboard_time": 1677248137,
+      "rank": 21,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 2569393,
@@ -5347,6 +5355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1212891,
+      "num": 1212891,
+      "word": "孔乙己文学",
+      "onboard_time": 1677245431,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1212614,
       "num": 1212614,
       "word": "克拉棒",
@@ -7371,6 +7387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1017215,
+      "num": 1017215,
+      "word": "水哥真帅",
+      "onboard_time": 1677243930,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1017104,
       "num": 1017104,
       "word": "弄错试管婴儿涉事医院称没必要计较",
@@ -8193,14 +8217,6 @@
       "onboard_time": 1675935332,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 949094,
-      "num": 880374,
-      "word": "水哥真帅",
-      "onboard_time": 1677243930,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 948602,
@@ -9435,14 +9451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 863124,
-      "num": 863124,
-      "word": "孔乙己文学",
-      "onboard_time": 1677245431,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 862849,
       "num": 862849,
       "word": "赵露思演的孙头头人小辈大",
@@ -9504,6 +9512,14 @@
       "word": "售楼部回应小区池子形似卫生巾",
       "onboard_time": 1676193089,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 860818,
+      "num": 860818,
+      "word": "建议减少教师参与网络点赞转发工作",
+      "onboard_time": 1677246211,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -12083,6 +12099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 731956,
+      "num": 726656,
+      "word": "李佳琦现身浙江传媒学院招聘",
+      "onboard_time": 1677245130,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 731742,
       "num": 731742,
       "word": "杨幂短发齐刘海",
@@ -12185,14 +12209,6 @@
       "onboard_time": 1676867015,
       "rank": 35,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 726656,
-      "num": 726656,
-      "word": "李佳琦现身浙江传媒学院招聘",
-      "onboard_time": 1677245130,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 726534,
@@ -14345,14 +14361,6 @@
       "onboard_time": 1676089648,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 649849,
-      "num": 649849,
-      "word": "建议减少教师参与网络点赞转发工作",
-      "onboard_time": 1677246211,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 649729,
@@ -18923,6 +18931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518318,
+      "num": 518318,
+      "word": "原来有趣的人真的不会无聊",
+      "onboard_time": 1677244650,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 518209,
       "num": 518209,
       "word": "安欣熊猫血",
@@ -21825,14 +21841,6 @@
       "onboard_time": 1676014111,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450106,
-      "num": 450106,
-      "word": "原来有趣的人真的不会无聊",
-      "onboard_time": 1677244650,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 449659,
@@ -31051,14 +31059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307404,
-      "num": 307404,
-      "word": "GUCCI CEO",
-      "onboard_time": 1677248137,
-      "rank": 21,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 307193,
       "num": 307193,
       "word": "山东女子请命奔赴土耳其救援",
@@ -33203,6 +33203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282807,
+      "num": 282807,
+      "word": "李宇春看秀",
+      "onboard_time": 1677248375,
+      "rank": 18,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 282636,
       "num": 282636,
       "word": "曼联2比1巴萨",
@@ -35025,6 +35033,14 @@
       "onboard_time": 1676557472,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265223,
+      "num": 265223,
+      "word": "申论",
+      "onboard_time": 1677247891,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 265107,
@@ -40027,6 +40043,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 215341,
+      "num": 209124,
+      "word": "张杰谢娜是晴天夫妇",
+      "onboard_time": 1677248740,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215258,
       "num": 215258,
       "word": "嫌疑人亲属曾是遇袭医生的患者",
@@ -41003,6 +41027,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 206822,
+      "num": 206822,
+      "word": "被执行人何种情况下会限高或失信",
+      "onboard_time": 1677249238,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206721,
       "num": 206721,
       "word": "开学第一课是睁眼说瞎话",
@@ -41297,6 +41329,14 @@
       "onboard_time": 1675809795,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 204003,
+      "num": 204003,
+      "word": "宋亚轩跳八段锦",
+      "onboard_time": 1677249179,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 203969,
@@ -46475,6 +46515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171200,
+      "num": 171200,
+      "word": "Hanni米兰时装周新闻图",
+      "onboard_time": 1677248681,
+      "rank": 37,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 171198,
       "num": 171198,
       "word": "TES战胜DYG",
@@ -51595,14 +51643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124146,
-      "num": 124146,
-      "word": "申论",
-      "onboard_time": 1677247891,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 124133,
       "num": 124133,
       "word": "RA对战LNG",
@@ -51785,6 +51825,14 @@
       "onboard_time": 1676095406,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121150,
+      "num": 121150,
+      "word": "五哈3是懂饥饿营销的",
+      "onboard_time": 1677249120,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 121099,
@@ -52327,6 +52375,14 @@
       "num": 108308,
       "word": "土耳其消防正在救援旁边大楼轰然倒塌",
       "onboard_time": 1675693953,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107949,
+      "num": 107949,
+      "word": "男子不慎被妻子扎伤在绷带写字留念",
+      "onboard_time": 1677248559,
       "rank": 49,
       "category": "社会新闻"
     },

@@ -1,10 +1,10 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677248265344,
+  "endTime": 1677249287447,
   "band_list": [
     {
-      "raw_hot": 9385691,
-      "num": 9385691,
+      "raw_hot": 10505974,
+      "num": 10505974,
       "word": "GUCCI",
       "onboard_time": 1677245911,
       "rank": 0,
@@ -161,6 +161,14 @@
       "onboard_time": 1677122969,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2595861,
+      "num": 1057694,
+      "word": "GUCCI CEO",
+      "onboard_time": 1677248137,
+      "rank": 21,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 2545240,
@@ -1051,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1212891,
+      "num": 1212891,
+      "word": "孔乙己文学",
+      "onboard_time": 1677245431,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1212614,
       "num": 1212614,
       "word": "克拉棒",
@@ -1451,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1017215,
+      "num": 1017215,
+      "word": "水哥真帅",
+      "onboard_time": 1677243930,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1017104,
       "num": 1017104,
       "word": "弄错试管婴儿涉事医院称没必要计较",
@@ -1633,14 +1657,6 @@
       "onboard_time": 1676967510,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 949094,
-      "num": 880374,
-      "word": "水哥真帅",
-      "onboard_time": 1677243930,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 940883,
@@ -1899,14 +1915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 863124,
-      "num": 863124,
-      "word": "孔乙己文学",
-      "onboard_time": 1677245431,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 861836,
       "num": 861836,
       "word": "商丘公交发通告表示确保不停运",
@@ -1920,6 +1928,14 @@
       "word": "当地回应公职人员相亲失败出言不逊",
       "onboard_time": 1677038134,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 860818,
+      "num": 860818,
+      "word": "建议减少教师参与网络点赞转发工作",
+      "onboard_time": 1677246211,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2467,6 +2483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 731956,
+      "num": 726656,
+      "word": "李佳琦现身浙江传媒学院招聘",
+      "onboard_time": 1677245130,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 730689,
       "num": 730689,
       "word": "法硕",
@@ -2481,14 +2505,6 @@
       "onboard_time": 1676867015,
       "rank": 35,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 726656,
-      "num": 726656,
-      "word": "李佳琦现身浙江传媒学院招聘",
-      "onboard_time": 1677245130,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 726446,
@@ -2953,14 +2969,6 @@
       "onboard_time": 1676864912,
       "rank": 14,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 649849,
-      "num": 649849,
-      "word": "建议减少教师参与网络点赞转发工作",
-      "onboard_time": 1677246211,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 649490,
@@ -3907,6 +3915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518318,
+      "num": 518318,
+      "word": "原来有趣的人真的不会无聊",
+      "onboard_time": 1677244650,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 517379,
       "num": 517379,
       "word": "香香丫丫待遇为何差距大",
@@ -4505,14 +4521,6 @@
       "onboard_time": 1676907748,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450106,
-      "num": 450106,
-      "word": "原来有趣的人真的不会无聊",
-      "onboard_time": 1677244650,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 448638,
@@ -6707,14 +6715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307404,
-      "num": 307404,
-      "word": "GUCCI CEO",
-      "onboard_time": 1677248137,
-      "rank": 21,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 307050,
       "num": 307050,
       "word": "张元英机场路透",
@@ -7075,6 +7075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282807,
+      "num": 282807,
+      "word": "李宇春看秀",
+      "onboard_time": 1677248375,
+      "rank": 18,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 282636,
       "num": 282636,
       "word": "曼联2比1巴萨",
@@ -7433,6 +7441,14 @@
       "onboard_time": 1676996429,
       "rank": 24,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 265223,
+      "num": 265223,
+      "word": "申论",
+      "onboard_time": 1677247891,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 264698,
@@ -8411,6 +8427,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 215341,
+      "num": 209124,
+      "word": "张杰谢娜是晴天夫妇",
+      "onboard_time": 1677248740,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214978,
       "num": 214978,
       "word": "SEVENTEEN2022IFPI第6位",
@@ -8627,6 +8651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206822,
+      "num": 206822,
+      "word": "被执行人何种情况下会限高或失信",
+      "onboard_time": 1677249238,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206508,
       "num": 206508,
       "word": "曾凡博落选12人大名单",
@@ -8689,6 +8721,14 @@
       "onboard_time": 1676957191,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204003,
+      "num": 204003,
+      "word": "宋亚轩跳八段锦",
+      "onboard_time": 1677249179,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 203882,
@@ -9761,6 +9801,14 @@
       "onboard_time": 1676906553,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171200,
+      "num": 171200,
+      "word": "Hanni米兰时装周新闻图",
+      "onboard_time": 1677248681,
+      "rank": 37,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 170365,
@@ -10923,14 +10971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124146,
-      "num": 124146,
-      "word": "申论",
-      "onboard_time": 1677247891,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 123812,
       "num": 123812,
       "word": "詹姆斯自抛自扣",
@@ -10977,6 +11017,14 @@
       "onboard_time": 1676816194,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121150,
+      "num": 121150,
+      "word": "五哈3是懂饥饿营销的",
+      "onboard_time": 1677249120,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 120738,
@@ -11177,6 +11225,14 @@
       "onboard_time": 1676850626,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107949,
+      "num": 107949,
+      "word": "男子不慎被妻子扎伤在绷带写字留念",
+      "onboard_time": 1677248559,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107655,
