@@ -1,0 +1,410 @@
+{
+  "runTime": 1677242236675,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2141001,
+        "num": 2141001,
+        "word": "董卿丈夫被国企追债783万元",
+        "onboard_time": 1677240628,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 996694,
+        "num": 996694,
+        "word": "魏无羡的喷子",
+        "onboard_time": 1677240506,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99029,
+        "num": 812354,
+        "word": "2023全国入春进程地图",
+        "onboard_time": 1677229288,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711113,
+        "num": 711113,
+        "word": "王心凌说别管我跷二郎腿",
+        "onboard_time": 1677240928,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 666516,
+        "num": 666516,
+        "word": "官方通报县长涉侵犯女干部",
+        "onboard_time": 1677235167,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1407506,
+        "num": 651429,
+        "word": "肖战刘诗诗同框",
+        "onboard_time": 1677233126,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 602404,
+        "num": 602404,
+        "word": "NCT无限扩张体制结束",
+        "onboard_time": 1677239007,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562844,
+        "num": 562844,
+        "word": "数学能力有遗传基础吗",
+        "onboard_time": 1677236850,
+        "rank": 7,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 886108,
+        "num": 547686,
+        "word": "何以琛赵默笙同框",
+        "onboard_time": 1677232949,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513501,
+        "num": 513501,
+        "word": "水哥王昱珩今晚下场做题",
+        "onboard_time": 1677237149,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 603605,
+        "num": 501874,
+        "word": "赵丽颖云南拍戏人气",
+        "onboard_time": 1677236909,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462862,
+        "num": 462862,
+        "word": "SMTOWN艺人今年活动计划",
+        "onboard_time": 1677241950,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462379,
+        "num": 462379,
+        "word": "EXO将发行正规专辑",
+        "onboard_time": 1677240868,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 405712,
+        "num": 405712,
+        "word": "女孩被老板误会没付款回家哭诉",
+        "onboard_time": 1677234569,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360357,
+        "num": 360357,
+        "word": "王濛经纪公司再次声明",
+        "onboard_time": 1677239007,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 448638,
+        "num": 355694,
+        "word": "彭于晏脸部晒伤",
+        "onboard_time": 1677236608,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374335,
+        "num": 352576,
+        "word": "唐嫣宋亚轩翻唱的有何不可",
+        "onboard_time": 1677239727,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331965,
+        "num": 331965,
+        "word": "男子猝死其母将女友告上法庭判赔16万",
+        "onboard_time": 1677213454,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276971,
+        "num": 276971,
+        "word": "苹果最贵电脑拍出一套房",
+        "onboard_time": 1677228208,
+        "rank": 18,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 265804,
+        "num": 265804,
+        "word": "冰冰重做了吧",
+        "onboard_time": 1677241050,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 365759,
+        "num": 261284,
+        "word": "五哈",
+        "onboard_time": 1677239907,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501100,
+        "num": 257252,
+        "word": "成毅被电暖器灼伤脚后跟",
+        "onboard_time": 1677237747,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318119,
+        "num": 248942,
+        "word": "85岁老人想娶60岁女友遭子女反对",
+        "onboard_time": 1677229048,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274814,
+        "num": 240189,
+        "word": "杨紫199爱黑色大衣补妆路透",
+        "onboard_time": 1677239488,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232200,
+        "num": 232200,
+        "word": "30岁以上大龄未婚青年非常普遍",
+        "onboard_time": 1677220470,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230979,
+        "num": 230979,
+        "word": "杀我别用双北刀",
+        "onboard_time": 1677231028,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214864,
+        "num": 214864,
+        "word": "任命贺荣为司法部部长",
+        "onboard_time": 1677230069,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 213468,
+        "num": 213468,
+        "word": "美方应就所谓摧毁台湾计划作出解释",
+        "onboard_time": 1677230609,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 199305,
+        "num": 199305,
+        "word": "女士的品格制片人回应安欣撞名",
+        "onboard_time": 1677241647,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198434,
+        "num": 198434,
+        "word": "省考",
+        "onboard_time": 1677217111,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166318,
+        "num": 166318,
+        "word": "天官赐福",
+        "onboard_time": 1677216635,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165684,
+        "num": 165684,
+        "word": "姚琛辟谣朴振英不是李秀满",
+        "onboard_time": 1677233308,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163072,
+        "num": 163072,
+        "word": "杨迪模仿高启盛走路",
+        "onboard_time": 1677233126,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159855,
+        "num": 159855,
+        "word": "怪不得说春江水暖鸭先知",
+        "onboard_time": 1677233907,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153478,
+        "num": 153478,
+        "word": "严厉打击利用风水学说预测股市等行为",
+        "onboard_time": 1677240209,
+        "rank": 34,
+        "category": "财经,国内要闻"
+      },
+      {
+        "raw_hot": 160875,
+        "num": 151066,
+        "word": "彭冠英王楚然新剧吻戏",
+        "onboard_time": 1677241529,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146002,
+        "num": 146002,
+        "word": "徐明浩签售黑屏后回应粉丝",
+        "onboard_time": 1677235646,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136293,
+        "num": 136293,
+        "word": "维金斯无限期离队",
+        "onboard_time": 1677230968,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132648,
+        "num": 132648,
+        "word": "原神",
+        "onboard_time": 1677225508,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129153,
+        "num": 129153,
+        "word": "4人听说曹县是宇宙中心专程来盗窃",
+        "onboard_time": 1677228389,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125520,
+        "num": 125520,
+        "word": "双鱼座的恋爱心态",
+        "onboard_time": 1677221308,
+        "rank": 40,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 109995,
+        "num": 109995,
+        "word": "目前过敏性鼻炎无法根治",
+        "onboard_time": 1677228569,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100026,
+        "num": 100026,
+        "word": "滕王阁序描述的画面照进了现实",
+        "onboard_time": 1677235468,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 99433,
+        "num": 99433,
+        "word": "毒舌律师 粤语",
+        "onboard_time": 1677222868,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95452,
+        "num": 95452,
+        "word": "女童玩瑜伽球致跑步机男子摔倒",
+        "onboard_time": 1677242072,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93362,
+        "num": 93362,
+        "word": "欧联抽签",
+        "onboard_time": 1677239189,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92356,
+        "num": 92356,
+        "word": "DRG对战RNGM",
+        "onboard_time": 1677238289,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89705,
+        "num": 89705,
+        "word": "百兽关羽刹车踩不住了",
+        "onboard_time": 1677242204,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87810,
+        "num": 87810,
+        "word": "少年歌行",
+        "onboard_time": 1677233669,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86705,
+        "num": 86705,
+        "word": "于正说演员走正道才是王道",
+        "onboard_time": 1677236487,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#雷锋的故事为何被传颂了大半个世纪#"
+    }
+  }
+}

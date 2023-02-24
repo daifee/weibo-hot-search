@@ -1,6 +1,6 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677238427353,
+  "endTime": 1677242236675,
   "band_list": [
     {
       "raw_hot": 2530260,
@@ -33,6 +33,14 @@
       "onboard_time": 1677159271,
       "rank": 3,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 2141001,
+      "num": 2141001,
+      "word": "董卿丈夫被国企追债783万元",
+      "onboard_time": 1677240628,
+      "rank": 0,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2034507,
@@ -201,6 +209,14 @@
       "onboard_time": 1677201327,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 996694,
+      "num": 996694,
+      "word": "魏无羡的喷子",
+      "onboard_time": 1677240506,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 983382,
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 711113,
+      "num": 711113,
+      "word": "王心凌说别管我跷二郎腿",
+      "onboard_time": 1677240928,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 710806,
       "num": 710806,
       "word": "会和丑却对你好的人恋爱吗",
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 707089,
-      "num": 450950,
+      "num": 501874,
       "word": "赵丽颖云南拍戏人气",
       "onboard_time": 1677236909,
       "rank": 11,
@@ -499,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 602404,
+      "num": 602404,
+      "word": "NCT无限扩张体制结束",
+      "onboard_time": 1677239007,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 597210,
       "num": 597210,
       "word": "女孩被老板误会没付款回家哭诉",
@@ -537,6 +569,14 @@
       "onboard_time": 1677201208,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 562844,
+      "num": 562844,
+      "word": "数学能力有遗传基础吗",
+      "onboard_time": 1677236850,
+      "rank": 43,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 561164,
@@ -619,12 +659,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 513501,
+      "num": 513501,
+      "word": "水哥王昱珩今晚下场做题",
+      "onboard_time": 1677237149,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 512240,
       "num": 512240,
       "word": "陆虎向嘘嘘求婚预告",
       "onboard_time": 1677211408,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 501100,
+      "num": 267623,
+      "word": "成毅被电暖器灼伤脚后跟",
+      "onboard_time": 1677237747,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 500559,
@@ -683,14 +739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 474304,
-      "num": 474304,
-      "word": "水哥王昱珩今晚下场做题",
-      "onboard_time": 1677237149,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 469855,
       "num": 469855,
       "word": "大学关停与出生率下降有直接关系",
@@ -699,12 +747,36 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 462862,
+      "num": 462862,
+      "word": "SMTOWN艺人今年活动计划",
+      "onboard_time": 1677241950,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 462379,
+      "num": 462379,
+      "word": "EXO将发行正规专辑",
+      "onboard_time": 1677240868,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 454523,
       "num": 203739,
       "word": "男子多年求子不得查出竟是女儿身",
       "onboard_time": 1677153630,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448638,
+      "num": 355694,
+      "word": "彭于晏脸部晒伤",
+      "onboard_time": 1677236608,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 448078,
@@ -835,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374335,
+      "num": 352576,
+      "word": "唐嫣宋亚轩翻唱的有何不可",
+      "onboard_time": 1677239727,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367056,
       "num": 367056,
       "word": "女生考研查分后激动到晕倒送医",
@@ -851,12 +931,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365759,
+      "num": 261284,
+      "word": "五哈",
+      "onboard_time": 1677239907,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363011,
       "num": 363011,
       "word": "杨迪模仿高启盛走路",
       "onboard_time": 1677233126,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360357,
+      "num": 360357,
+      "word": "王濛经纪公司再次声明",
+      "onboard_time": 1677239007,
+      "rank": 14,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 357820,
@@ -1067,22 +1163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 292686,
-      "num": 292686,
-      "word": "数学能力有遗传基础吗",
-      "onboard_time": 1677236850,
-      "rank": 43,
-      "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 291329,
-      "num": 291329,
-      "word": "彭于晏脸部晒伤",
-      "onboard_time": 1677236608,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 282636,
       "num": 282636,
       "word": "曼联2比1巴萨",
@@ -1115,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274814,
+      "num": 240189,
+      "word": "杨紫199爱黑色大衣补妆路透",
+      "onboard_time": 1677239488,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 270727,
       "num": 270727,
       "word": "陈乔恩说如果能重来不会公开恋情",
@@ -1131,12 +1219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267623,
-      "num": 267623,
-      "word": "成毅被电暖器灼伤脚后跟",
-      "onboard_time": 1677237747,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 265804,
+      "num": 265804,
+      "word": "冰冰重做了吧",
+      "onboard_time": 1677241050,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 264698,
@@ -1339,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199305,
+      "num": 199305,
+      "word": "女士的品格制片人回应安欣撞名",
+      "onboard_time": 1677241647,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198608,
       "num": 198608,
       "word": "无畏MVP",
@@ -1539,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160875,
+      "num": 151066,
+      "word": "彭冠英王楚然新剧吻戏",
+      "onboard_time": 1677241529,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160867,
       "num": 160867,
       "word": "Hero战胜DYG",
@@ -1617,6 +1721,14 @@
       "onboard_time": 1677221128,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153478,
+      "num": 153478,
+      "word": "严厉打击利用风水学说预测股市等行为",
+      "onboard_time": 1677240209,
+      "rank": 34,
+      "category": "财经,国内要闻"
     },
     {
       "raw_hot": 152925,
@@ -1931,12 +2043,36 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 95452,
+      "num": 95452,
+      "word": "女童玩瑜伽球致跑步机男子摔倒",
+      "onboard_time": 1677242072,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93362,
+      "num": 93362,
+      "word": "欧联抽签",
+      "onboard_time": 1677239189,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91748,
       "num": 91748,
       "word": "张嘉倪夜游米兰随拍",
       "onboard_time": 1677154169,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89705,
+      "num": 89705,
+      "word": "百兽关羽刹车踩不住了",
+      "onboard_time": 1677242204,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 88926,
