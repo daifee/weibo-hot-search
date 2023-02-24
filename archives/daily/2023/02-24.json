@@ -1,6 +1,6 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677237399939,
+  "endTime": 1677238427353,
   "band_list": [
     {
       "raw_hot": 2530260,
@@ -243,6 +243,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 915027,
+      "num": 915027,
+      "word": "近半数安卓用户考虑换苹果",
+      "onboard_time": 1677229468,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 906821,
       "num": 906821,
       "word": "鼓励生育先要缓解年轻人婚姻焦虑",
@@ -273,14 +281,6 @@
       "onboard_time": 1677229048,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854015,
-      "num": 854015,
-      "word": "近半数安卓用户考虑换苹果",
-      "onboard_time": 1677229468,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 845991,
@@ -319,6 +319,14 @@
       "num": 785853,
       "word": "4人听说曹县是宇宙中心专程来盗窃",
       "onboard_time": 1677228389,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784471,
+      "num": 784471,
+      "word": "官方通报县长涉侵犯女干部",
+      "onboard_time": 1677235167,
       "rank": 5,
       "category": "社会新闻"
     },
@@ -387,6 +395,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 707089,
+      "num": 450950,
+      "word": "赵丽颖云南拍戏人气",
+      "onboard_time": 1677236909,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 703035,
       "num": 703035,
       "word": "网友P的刘诗诗李健合照",
@@ -409,14 +425,6 @@
       "onboard_time": 1677196768,
       "rank": 9,
       "category": "科技"
-    },
-    {
-      "raw_hot": 689433,
-      "num": 689433,
-      "word": "官方通报县长涉侵犯女干部",
-      "onboard_time": 1677235167,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 675776,
@@ -489,6 +497,14 @@
       "onboard_time": 1677221008,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 597210,
+      "num": 597210,
+      "word": "女孩被老板误会没付款回家哭诉",
+      "onboard_time": 1677234569,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593074,
@@ -603,14 +619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 513694,
-      "num": 513694,
-      "word": "女孩被老板误会没付款回家哭诉",
-      "onboard_time": 1677234569,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 512240,
       "num": 512240,
       "word": "陆虎向嘘嘘求婚预告",
@@ -675,6 +683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 474304,
+      "num": 474304,
+      "word": "水哥王昱珩今晚下场做题",
+      "onboard_time": 1677237149,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469855,
       "num": 469855,
       "word": "大学关停与出生率下降有直接关系",
@@ -697,14 +713,6 @@
       "onboard_time": 1677201149,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439225,
-      "num": 439225,
-      "word": "赵丽颖云南拍戏人气",
-      "onboard_time": 1677236909,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 437630,
@@ -1059,6 +1067,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292686,
+      "num": 292686,
+      "word": "数学能力有遗传基础吗",
+      "onboard_time": 1677236850,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 291329,
+      "num": 291329,
+      "word": "彭于晏脸部晒伤",
+      "onboard_time": 1677236608,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282636,
       "num": 282636,
       "word": "曼联2比1巴萨",
@@ -1107,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267623,
+      "num": 267623,
+      "word": "成毅被电暖器灼伤脚后跟",
+      "onboard_time": 1677237747,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264698,
       "num": 264698,
       "word": "毒舌律师 粤语",
@@ -1129,14 +1161,6 @@
       "onboard_time": 1677166115,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 260338,
-      "num": 260338,
-      "word": "水哥王昱珩今晚下场做题",
-      "onboard_time": 1677237149,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 253046,
@@ -1267,12 +1291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207284,
-      "num": 207284,
-      "word": "彭于晏脸部晒伤",
-      "onboard_time": 1677236608,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 205151,
+      "num": 205151,
+      "word": "DRG对战RNGM",
+      "onboard_time": 1677238289,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 203882,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1677218730,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171582,
+      "num": 171582,
+      "word": "安远县长李某平被停职",
+      "onboard_time": 1677237447,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170394,
@@ -1659,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145575,
+      "num": 145575,
+      "word": "谢娜做清肺蔬果茶vlog",
+      "onboard_time": 1677237629,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143752,
       "num": 143752,
       "word": "荷鲁斯1号遥感卫星发射成功",
@@ -1697,14 +1737,6 @@
       "onboard_time": 1677224848,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 135705,
-      "num": 135705,
-      "word": "数学能力有遗传基础吗",
-      "onboard_time": 1677236850,
-      "rank": 43,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 134328,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1677238427353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1851508,
+        "num": 1851508,
+        "word": "何以琛赵默笙同框",
+        "onboard_time": 1677232949,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 915027,
+        "num": 915027,
+        "word": "近半数安卓用户考虑换苹果",
+        "onboard_time": 1677229468,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 79692,
+        "num": 804276,
+        "word": "2023全国入春进程地图",
+        "onboard_time": 1677229288,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1556894,
+        "num": 803720,
+        "word": "肖战刘诗诗同框",
+        "onboard_time": 1677233126,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 784471,
+        "num": 784471,
+        "word": "官方通报县长涉侵犯女干部",
+        "onboard_time": 1677235167,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597210,
+        "num": 597210,
+        "word": "女孩被老板误会没付款回家哭诉",
+        "onboard_time": 1677234569,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501911,
+        "num": 501911,
+        "word": "男子猝死其母将女友告上法庭判赔16万",
+        "onboard_time": 1677213454,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474304,
+        "num": 474304,
+        "word": "水哥王昱珩今晚下场做题",
+        "onboard_time": 1677237149,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473028,
+        "num": 473028,
+        "word": "任命贺荣为司法部部长",
+        "onboard_time": 1677230069,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 457588,
+        "num": 457588,
+        "word": "姚琛辟谣朴振英不是李秀满",
+        "onboard_time": 1677233308,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 707089,
+        "num": 450950,
+        "word": "赵丽颖云南拍戏人气",
+        "onboard_time": 1677236909,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438712,
+        "num": 438712,
+        "word": "杀我别用双北刀",
+        "onboard_time": 1677231028,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372236,
+        "num": 372236,
+        "word": "苹果最贵电脑拍出一套房",
+        "onboard_time": 1677228208,
+        "rank": 12,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 316264,
+        "num": 316264,
+        "word": "美方应就所谓摧毁台湾计划作出解释",
+        "onboard_time": 1677230609,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 611673,
+        "num": 315084,
+        "word": "男孩7次举手后离世最新进展",
+        "onboard_time": 1677222330,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313052,
+        "num": 313052,
+        "word": "徐明浩签售黑屏后回应粉丝",
+        "onboard_time": 1677235646,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306397,
+        "num": 306397,
+        "word": "杨迪模仿高启盛走路",
+        "onboard_time": 1677233126,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357723,
+        "num": 303168,
+        "word": "王鸥诡笑",
+        "onboard_time": 1677221248,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292686,
+        "num": 292686,
+        "word": "数学能力有遗传基础吗",
+        "onboard_time": 1677236850,
+        "rank": 18,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 291329,
+        "num": 291329,
+        "word": "彭于晏脸部晒伤",
+        "onboard_time": 1677236608,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392459,
+        "num": 290019,
+        "word": "85岁老人想娶60岁女友遭子女反对",
+        "onboard_time": 1677229048,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271324,
+        "num": 271324,
+        "word": "30岁以上大龄未婚青年非常普遍",
+        "onboard_time": 1677220470,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267623,
+        "num": 267623,
+        "word": "成毅被电暖器灼伤脚后跟",
+        "onboard_time": 1677237747,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258905,
+        "num": 258905,
+        "word": "天官赐福",
+        "onboard_time": 1677216635,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253769,
+        "num": 253769,
+        "word": "怪不得说春江水暖鸭先知",
+        "onboard_time": 1677233907,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248923,
+        "num": 248923,
+        "word": "4人听说曹县是宇宙中心专程来盗窃",
+        "onboard_time": 1677228389,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230016,
+        "num": 230016,
+        "word": "省考",
+        "onboard_time": 1677217111,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205151,
+        "num": 205151,
+        "word": "DRG对战RNGM",
+        "onboard_time": 1677238289,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194325,
+        "num": 194325,
+        "word": "维金斯无限期离队",
+        "onboard_time": 1677230968,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185925,
+        "num": 185925,
+        "word": "少年歌行",
+        "onboard_time": 1677233669,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179905,
+        "num": 179905,
+        "word": "夏花海外评论",
+        "onboard_time": 1677232468,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175407,
+        "num": 175407,
+        "word": "目前过敏性鼻炎无法根治",
+        "onboard_time": 1677228569,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171582,
+        "num": 171582,
+        "word": "安远县长李某平被停职",
+        "onboard_time": 1677237447,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161026,
+        "num": 161026,
+        "word": "双鱼座的恋爱心态",
+        "onboard_time": 1677221308,
+        "rank": 33,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 145575,
+        "num": 145575,
+        "word": "谢娜做清肺蔬果茶vlog",
+        "onboard_time": 1677237629,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144529,
+        "num": 144529,
+        "word": "毒舌律师 粤语",
+        "onboard_time": 1677222868,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144500,
+        "num": 144500,
+        "word": "原神",
+        "onboard_time": 1677225508,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141939,
+        "num": 141939,
+        "word": "Hero宝贝三C",
+        "onboard_time": 1677235107,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141801,
+        "num": 141801,
+        "word": "小学生集体冒雪做课间操引质疑",
+        "onboard_time": 1677232468,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 138297,
+        "num": 138297,
+        "word": "奥迪诉蔚来商标侵权请求被驳回",
+        "onboard_time": 1677231567,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137925,
+        "num": 137925,
+        "word": "公诉精英 接档",
+        "onboard_time": 1677225988,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134600,
+        "num": 134600,
+        "word": "于正说演员走正道才是王道",
+        "onboard_time": 1677236487,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133270,
+        "num": 133270,
+        "word": "虞书欣墨绿色套装上班路透",
+        "onboard_time": 1677232708,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132632,
+        "num": 132632,
+        "word": "扬科维奇任国家男子足球队主教练",
+        "onboard_time": 1677230488,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 126051,
+        "num": 126051,
+        "word": "滕王阁序描述的画面照进了现实",
+        "onboard_time": 1677235468,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 125436,
+        "num": 125436,
+        "word": "文俊辉看到了雾都雾里七个八",
+        "onboard_time": 1677227547,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124487,
+        "num": 124487,
+        "word": "徐志胜和李宇春同获音乐奖",
+        "onboard_time": 1677224548,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120891,
+        "num": 120891,
+        "word": "演技姐圈101",
+        "onboard_time": 1677228087,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117519,
+        "num": 117519,
+        "word": "原神白术",
+        "onboard_time": 1677227307,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106242,
+        "num": 106242,
+        "word": "檀健次官宣录制我们的客栈",
+        "onboard_time": 1677228809,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大代表2977名#"
+    }
+  }
+}

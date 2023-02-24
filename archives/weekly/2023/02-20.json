@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677237399939,
+  "endTime": 1677238427353,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -1699,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 915027,
+      "num": 915027,
+      "word": "近半数安卓用户考虑换苹果",
+      "onboard_time": 1677229468,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 912105,
       "num": 643366,
       "word": "男子多次猥亵女子称自己易冲动",
@@ -1857,14 +1865,6 @@
       "onboard_time": 1677229048,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854015,
-      "num": 854015,
-      "word": "近半数安卓用户考虑换苹果",
-      "onboard_time": 1677229468,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 852783,
@@ -2095,6 +2095,14 @@
       "num": 785853,
       "word": "4人听说曹县是宇宙中心专程来盗窃",
       "onboard_time": 1677228389,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784471,
+      "num": 784471,
+      "word": "官方通报县长涉侵犯女干部",
+      "onboard_time": 1677235167,
       "rank": 5,
       "category": "社会新闻"
     },
@@ -2499,6 +2507,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 707089,
+      "num": 450950,
+      "word": "赵丽颖云南拍戏人气",
+      "onboard_time": 1677236909,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 703035,
       "num": 703035,
       "word": "网友P的刘诗诗李健合照",
@@ -2609,14 +2625,6 @@
       "onboard_time": 1677134907,
       "rank": 6,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 689433,
-      "num": 689433,
-      "word": "官方通报县长涉侵犯女干部",
-      "onboard_time": 1677235167,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 686914,
@@ -3185,6 +3193,14 @@
       "onboard_time": 1676965290,
       "rank": 8,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 597210,
+      "num": 597210,
+      "word": "女孩被老板误会没付款回家哭诉",
+      "onboard_time": 1677234569,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 597124,
@@ -3787,14 +3803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 513694,
-      "num": 513694,
-      "word": "女孩被老板误会没付款回家哭诉",
-      "onboard_time": 1677234569,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 513648,
       "num": 509716,
       "word": "特朗普访毒列车事发地带1.4万瓶特朗普牌矿泉水",
@@ -4179,6 +4187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 474304,
+      "num": 474304,
+      "word": "水哥王昱珩今晚下场做题",
+      "onboard_time": 1677237149,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 473686,
       "num": 473686,
       "word": "煮面条最合适的量",
@@ -4425,14 +4441,6 @@
       "onboard_time": 1677065312,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439225,
-      "num": 439225,
-      "word": "赵丽颖云南拍戏人气",
-      "onboard_time": 1677236909,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 437630,
@@ -6667,6 +6675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292686,
+      "num": 292686,
+      "word": "数学能力有遗传基础吗",
+      "onboard_time": 1677236850,
+      "rank": 43,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 292205,
       "num": 292205,
       "word": "四天工作制会提高工作效率吗",
@@ -6680,6 +6696,14 @@
       "word": "龚俊入驻上海杜莎夫人蜡像馆",
       "onboard_time": 1676980231,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 291329,
+      "num": 291329,
+      "word": "彭于晏脸部晒伤",
+      "onboard_time": 1677236608,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -7099,6 +7123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267623,
+      "num": 267623,
+      "word": "成毅被电暖器灼伤脚后跟",
+      "onboard_time": 1677237747,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266848,
       "num": 266848,
       "word": "听说你喜欢我",
@@ -7281,14 +7313,6 @@
       "onboard_time": 1677137190,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 260338,
-      "num": 260338,
-      "word": "水哥王昱珩今晚下场做题",
-      "onboard_time": 1677237149,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 260048,
@@ -8283,14 +8307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207284,
-      "num": 207284,
-      "word": "彭于晏脸部晒伤",
-      "onboard_time": 1677236608,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207278,
       "num": 207278,
       "word": "让AI扮演母亲",
@@ -8361,6 +8377,14 @@
       "onboard_time": 1676865752,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205151,
+      "num": 205151,
+      "word": "DRG对战RNGM",
+      "onboard_time": 1677238289,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 205149,
@@ -9419,6 +9443,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 171582,
+      "num": 171582,
+      "word": "安远县长李某平被停职",
+      "onboard_time": 1677237447,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171546,
       "num": 171546,
       "word": "杨思宇问雪花后悔吗",
@@ -10139,6 +10171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145575,
+      "num": 145575,
+      "word": "谢娜做清肺蔬果茶vlog",
+      "onboard_time": 1677237629,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145535,
       "num": 145535,
       "word": "多地21日起可查考研初试成绩",
@@ -10345,14 +10385,6 @@
       "onboard_time": 1677140672,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135705,
-      "num": 135705,
-      "word": "数学能力有遗传基础吗",
-      "onboard_time": 1677236850,
-      "rank": 43,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 135536,
