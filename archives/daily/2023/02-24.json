@@ -1,6 +1,6 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677251915756,
+  "endTime": 1677252879151,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1552887,
+      "num": 1552887,
+      "word": "孔乙己文学",
+      "onboard_time": 1677245431,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1536580,
       "num": 1481929,
       "word": "游泳教练性侵未成年学员被终身禁业",
@@ -163,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1324414,
-      "num": 1324414,
-      "word": "孔乙己文学",
-      "onboard_time": 1677245431,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1247603,
       "num": 1247603,
       "word": "建议减少教师参与网络点赞转发工作",
@@ -201,6 +201,14 @@
       "onboard_time": 1677197790,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1123069,
+      "num": 885801,
+      "word": "肖战入场视频",
+      "onboard_time": 1677252334,
+      "rank": 5,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1111016,
@@ -419,6 +427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779594,
+      "num": 779594,
+      "word": "男子不慎被妻子扎伤在绷带写字留念",
+      "onboard_time": 1677248559,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 774447,
+      "num": 774447,
+      "word": "TODS",
+      "onboard_time": 1677251913,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 762323,
       "num": 762323,
       "word": "央视曝光个人电影投资骗局",
@@ -473,14 +497,6 @@
       "onboard_time": 1677245130,
       "rank": 45,
       "category": "网红"
-    },
-    {
-      "raw_hot": 717655,
-      "num": 717655,
-      "word": "男子不慎被妻子扎伤在绷带写字留念",
-      "onboard_time": 1677248559,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 710806,
@@ -857,6 +873,14 @@
       "onboard_time": 1677204209,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 473765,
+      "num": 473765,
+      "word": "王源毕业季演唱会",
+      "onboard_time": 1677252272,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 469855,
@@ -1403,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 277809,
+      "num": 277809,
+      "word": "为什么新生儿一定要哭",
+      "onboard_time": 1677251078,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 274814,
       "num": 240189,
       "word": "杨紫199爱黑色大衣补妆路透",
@@ -1707,6 +1739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200023,
+      "num": 200023,
+      "word": "水木年华大合唱",
+      "onboard_time": 1677252451,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199844,
       "num": 199844,
       "word": "预防性侵必须知道的六个危险警报",
@@ -1728,6 +1768,14 @@
       "word": "天空之城将重映",
       "onboard_time": 1677210329,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196518,
+      "num": 196518,
+      "word": "吴京现身中国乒乓校园路演",
+      "onboard_time": 1677252690,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -1905,14 +1953,6 @@
       "onboard_time": 1677235107,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 164757,
-      "num": 164757,
-      "word": "为什么新生儿一定要哭",
-      "onboard_time": 1677251078,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 164501,
@@ -2363,6 +2403,22 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 95184,
+      "num": 1256156,
+      "word": "新一代载人登月飞船模型首次展出",
+      "onboard_time": 1677250479,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 93798,
+      "num": 103550,
+      "word": "DK战胜KDF",
+      "onboard_time": 1677252213,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 93362,
       "num": 93362,
       "word": "欧联抽签",
@@ -2441,14 +2497,6 @@
       "onboard_time": 1677161855,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72198,
-      "num": 1256156,
-      "word": "新一代载人登月飞船模型首次展出",
-      "onboard_time": 1677250479,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 62023,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1677252879151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8341897,
+        "num": 8341897,
+        "word": "GUCCI",
+        "onboard_time": 1677245911,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1552887,
+        "num": 1552887,
+        "word": "孔乙己文学",
+        "onboard_time": 1677245431,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95184,
+        "num": 914438,
+        "word": "新一代载人登月飞船模型首次展出",
+        "onboard_time": 1677250479,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2650231,
+        "num": 914069,
+        "word": "GUCCI CEO",
+        "onboard_time": 1677248137,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 903677,
+        "num": 903677,
+        "word": "建议减少教师参与网络点赞转发工作",
+        "onboard_time": 1677246211,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1123069,
+        "num": 885801,
+        "word": "肖战入场视频",
+        "onboard_time": 1677252334,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 837074,
+        "num": 837074,
+        "word": "水哥真帅",
+        "onboard_time": 1677243930,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 779594,
+        "num": 779594,
+        "word": "男子不慎被妻子扎伤在绷带写字留念",
+        "onboard_time": 1677248559,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774447,
+        "num": 774447,
+        "word": "TODS",
+        "onboard_time": 1677251913,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 504979,
+        "num": 504979,
+        "word": "小城市房子会越来越不值钱吗",
+        "onboard_time": 1677244650,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 586320,
+        "num": 501617,
+        "word": "鹿晗牵小猫手",
+        "onboard_time": 1677246874,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473765,
+        "num": 473765,
+        "word": "王源毕业季演唱会",
+        "onboard_time": 1677252272,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 453278,
+        "num": 453278,
+        "word": "何以琛赵默笙同框",
+        "onboard_time": 1677232949,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446545,
+        "num": 446545,
+        "word": "原来有趣的人真的不会无聊",
+        "onboard_time": 1677244650,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 332796,
+        "num": 332796,
+        "word": "魏无羡的喷子",
+        "onboard_time": 1677240506,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 448735,
+        "num": 330554,
+        "word": "张杰谢娜是晴天夫妇",
+        "onboard_time": 1677248740,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327818,
+        "num": 327818,
+        "word": "蔡天凤",
+        "onboard_time": 1677250180,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 292612,
+        "num": 292612,
+        "word": "申论",
+        "onboard_time": 1677247891,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 277809,
+        "num": 277809,
+        "word": "为什么新生儿一定要哭",
+        "onboard_time": 1677251078,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271326,
+        "num": 271326,
+        "word": "冰冰重做了吧",
+        "onboard_time": 1677241050,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 349836,
+        "num": 269851,
+        "word": "江苏一男子因赡养问题弑父杀母",
+        "onboard_time": 1677242611,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 256584,
+        "num": 256584,
+        "word": "滴水观音有毒不能碰",
+        "onboard_time": 1677242491,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 220313,
+        "num": 220313,
+        "word": "赵丽颖云南拍戏人气",
+        "onboard_time": 1677236909,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218979,
+        "num": 218979,
+        "word": "张大大直播",
+        "onboard_time": 1677243692,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217179,
+        "num": 217179,
+        "word": "王心凌说别管我跷二郎腿",
+        "onboard_time": 1677240928,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211837,
+        "num": 211837,
+        "word": "官方通报县长涉侵犯女干部",
+        "onboard_time": 1677235167,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201328,
+        "num": 201328,
+        "word": "五哈3是懂饥饿营销的",
+        "onboard_time": 1677249120,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200023,
+        "num": 200023,
+        "word": "水木年华大合唱",
+        "onboard_time": 1677252451,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196518,
+        "num": 196518,
+        "word": "吴京现身中国乒乓校园路演",
+        "onboard_time": 1677252690,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181415,
+        "num": 193173,
+        "word": "什么都AI换脸只会害了你",
+        "onboard_time": 1677242971,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 192691,
+        "num": 192691,
+        "word": "李宇春看秀",
+        "onboard_time": 1677248375,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184028,
+        "num": 184028,
+        "word": "彭于晏脸部晒伤",
+        "onboard_time": 1677236608,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180623,
+        "num": 180623,
+        "word": "SMTOWN艺人今年活动计划",
+        "onboard_time": 1677241950,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177562,
+        "num": 177562,
+        "word": "最强大脑",
+        "onboard_time": 1677247052,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156672,
+        "num": 156672,
+        "word": "一恋爱就消失的闺蜜",
+        "onboard_time": 1677246572,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 158473,
+        "num": 155627,
+        "word": "水哥王昱珩今晚下场做题",
+        "onboard_time": 1677237149,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153488,
+        "num": 153488,
+        "word": "密春雷被国企追债783万元",
+        "onboard_time": 1677240628,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 120639,
+        "num": 153457,
+        "word": "关注中国旅美大熊猫",
+        "onboard_time": 1677250832,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113928,
+        "num": 153026,
+        "word": "女童玩瑜伽球致跑步机男子摔倒",
+        "onboard_time": 1677242072,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107455,
+        "num": 152505,
+        "word": "85岁老人想娶60岁女友遭子女反对",
+        "onboard_time": 1677229048,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154778,
+        "num": 152028,
+        "word": "成毅被电暖器灼伤脚后跟",
+        "onboard_time": 1677237747,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151958,
+        "num": 151958,
+        "word": "唐嫣报喜不报忧",
+        "onboard_time": 1677245549,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145832,
+        "num": 145832,
+        "word": "苏醒张远陆虎合唱你曾是少年",
+        "onboard_time": 1677247833,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144565,
+        "num": 144565,
+        "word": "邓超说30岁前没穿过秋裤",
+        "onboard_time": 1677245189,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120663,
+        "num": 120663,
+        "word": "NCT无限扩张体制结束",
+        "onboard_time": 1677239007,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106233,
+        "num": 106233,
+        "word": "狼队战胜TES",
+        "onboard_time": 1677251018,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105962,
+        "num": 105962,
+        "word": "美方应就所谓摧毁台湾计划作出解释",
+        "onboard_time": 1677230609,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 105861,
+        "num": 105861,
+        "word": "女孩被老板误会没付款回家哭诉",
+        "onboard_time": 1677234569,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105639,
+        "num": 105639,
+        "word": "30岁以上大龄未婚青年非常普遍",
+        "onboard_time": 1677220470,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93798,
+        "num": 103550,
+        "word": "DK战胜KDF",
+        "onboard_time": 1677252213,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#不负人民#"
+    }
+  }
+}

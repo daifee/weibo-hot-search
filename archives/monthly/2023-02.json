@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677251915756,
+  "endTime": 1677252879151,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -3427,6 +3427,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1552887,
+      "num": 1552887,
+      "word": "孔乙己文学",
+      "onboard_time": 1677245431,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1549165,
       "num": 1549165,
       "word": "光渊把朴彩英照片P到剧中",
@@ -4649,14 +4657,6 @@
       "onboard_time": 1675986868,
       "rank": 1,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1324414,
-      "num": 1324414,
-      "word": "孔乙己文学",
-      "onboard_time": 1677245431,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 1324133,
@@ -6217,6 +6217,14 @@
       "onboard_time": 1676547152,
       "rank": 41,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1123069,
+      "num": 885801,
+      "word": "肖战入场视频",
+      "onboard_time": 1677252334,
+      "rank": 5,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1122763,
@@ -10995,6 +11003,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 779594,
+      "num": 779594,
+      "word": "男子不慎被妻子扎伤在绷带写字留念",
+      "onboard_time": 1677248559,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 778854,
       "num": 778854,
       "word": "李秀满返韩",
@@ -11097,6 +11113,14 @@
       "onboard_time": 1676443468,
       "rank": 14,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 774447,
+      "num": 774447,
+      "word": "TODS",
+      "onboard_time": 1677251913,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 774176,
@@ -12481,14 +12505,6 @@
       "onboard_time": 1675692931,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 717655,
-      "num": 717655,
-      "word": "男子不慎被妻子扎伤在绷带写字留念",
-      "onboard_time": 1677248559,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 717367,
@@ -20833,6 +20849,14 @@
       "onboard_time": 1675898358,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473765,
+      "num": 473765,
+      "word": "王源毕业季演唱会",
+      "onboard_time": 1677252272,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 473686,
@@ -33707,6 +33731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277809,
+      "num": 277809,
+      "word": "为什么新生儿一定要哭",
+      "onboard_time": 1677251078,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277571,
       "num": 277571,
       "word": "基金",
@@ -41899,6 +41931,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 200023,
+      "num": 200023,
+      "word": "水木年华大合唱",
+      "onboard_time": 1677252451,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199993,
       "num": 199993,
       "word": "原来猛兽的睡姿是这样的",
@@ -42417,6 +42457,14 @@
       "onboard_time": 1676357912,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196518,
+      "num": 196518,
+      "word": "吴京现身中国乒乓校园路演",
+      "onboard_time": 1677252690,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 196473,
@@ -47609,14 +47657,6 @@
       "onboard_time": 1675856130,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 164757,
-      "num": 164757,
-      "word": "为什么新生儿一定要哭",
-      "onboard_time": 1677251078,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 164744,
@@ -52859,6 +52899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95184,
+      "num": 1256156,
+      "word": "新一代载人登月飞船模型首次展出",
+      "onboard_time": 1677250479,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 94999,
       "num": 94999,
       "word": "虞书欣最新直播状态",
@@ -52873,6 +52921,14 @@
       "onboard_time": 1676738724,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 93798,
+      "num": 103550,
+      "word": "DK战胜KDF",
+      "onboard_time": 1677252213,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 93722,
@@ -53385,14 +53441,6 @@
       "onboard_time": 1677101171,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72198,
-      "num": 1256156,
-      "word": "新一代载人登月飞船模型首次展出",
-      "onboard_time": 1677250479,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 71881,
