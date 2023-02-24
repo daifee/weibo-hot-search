@@ -1,0 +1,410 @@
+{
+  "runTime": 1677207555603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2530260,
+        "num": 2530260,
+        "word": "县长涉嫌性侵挂职女干部被停职",
+        "onboard_time": 1677203847,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219015,
+        "num": 1219015,
+        "word": "刘亚仁体毛检测阳性",
+        "onboard_time": 1677206786,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 65067,
+        "num": 1205919,
+        "word": "端牢中国饭碗的底气",
+        "onboard_time": 1677162511,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1195058,
+        "num": 1195058,
+        "word": "央企幼儿园首次对外招生",
+        "onboard_time": 1677204868,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 930799,
+        "num": 930799,
+        "word": "专家称未来不少大学将关停",
+        "onboard_time": 1677201030,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 823712,
+        "num": 823712,
+        "word": "丫丫或于4月7日合同到期时回国",
+        "onboard_time": 1677168505,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822517,
+        "num": 822517,
+        "word": "在美志愿者称丫丫有刻板行为",
+        "onboard_time": 1677202408,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570609,
+        "num": 570609,
+        "word": "鼓励生育先要缓解年轻人婚姻焦虑",
+        "onboard_time": 1677206006,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533989,
+        "num": 533989,
+        "word": "云南3岁男童与2陌生女孩玩后失踪",
+        "onboard_time": 1677204209,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 457880,
+        "num": 457880,
+        "word": "iPhone15Pro将新增深红色配色",
+        "onboard_time": 1677196768,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 446689,
+        "num": 446689,
+        "word": "网友米兰偶遇孔雪儿",
+        "onboard_time": 1677204209,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 579648,
+        "num": 445906,
+        "word": "金俊勉方否认拿鞋子不还",
+        "onboard_time": 1677201327,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442353,
+        "num": 442353,
+        "word": "小美人鱼扮演者杂志封面",
+        "onboard_time": 1677201208,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 414118,
+        "num": 414118,
+        "word": "体育生考研435分社牛舍友挂条幅庆祝",
+        "onboard_time": 1677196889,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 412400,
+        "num": 412400,
+        "word": "Prada",
+        "onboard_time": 1677159271,
+        "rank": 14,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 400642,
+        "num": 400642,
+        "word": "陆虎与跳伞教练是同一赛区选手",
+        "onboard_time": 1677203368,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369779,
+        "num": 369779,
+        "word": "世界讨厌香菜日",
+        "onboard_time": 1677206067,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351650,
+        "num": 351650,
+        "word": "会和丑却对你好的人恋爱吗",
+        "onboard_time": 1677169407,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314953,
+        "num": 314953,
+        "word": "刘雯闭场",
+        "onboard_time": 1677162093,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 308222,
+        "num": 308222,
+        "word": "德云社节目单",
+        "onboard_time": 1677204689,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 692590,
+        "num": 307967,
+        "word": "李宇春说老默我想吃鱼了",
+        "onboard_time": 1677197790,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334715,
+        "num": 307875,
+        "word": "民警逛街一手喝奶茶一手抓嫌犯",
+        "onboard_time": 1677197912,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307636,
+        "num": 307636,
+        "word": "蔡徐坤现象EP上线",
+        "onboard_time": 1677206968,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291590,
+        "num": 291590,
+        "word": "女子下班途中被狗撞伤被判工伤",
+        "onboard_time": 1677206428,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286176,
+        "num": 286176,
+        "word": "95后女生放弃安稳生活专职科普植物",
+        "onboard_time": 1677203066,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281258,
+        "num": 281258,
+        "word": "甲流是最为复杂的流感病毒",
+        "onboard_time": 1677200611,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280958,
+        "num": 280958,
+        "word": "警方回应男子地铁口打抱娃女子",
+        "onboard_time": 1677203728,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 278156,
+        "num": 278156,
+        "word": "关于政治解决乌克兰危机的中国立场",
+        "onboard_time": 1677201567,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 272716,
+        "num": 272716,
+        "word": "四天工作制究竟香不香",
+        "onboard_time": 1677201149,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215381,
+        "num": 215381,
+        "word": "拉莫斯退出西班牙国家队",
+        "onboard_time": 1677204089,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213042,
+        "num": 213042,
+        "word": "俄乌战争一周年前后",
+        "onboard_time": 1677200069,
+        "rank": 30,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 212670,
+        "num": 212670,
+        "word": "iPhone15USBC口或获利超50亿美元",
+        "onboard_time": 1677204387,
+        "rank": 31,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 199026,
+        "num": 199026,
+        "word": "李梦金敏喜柏林合照",
+        "onboard_time": 1677207267,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186560,
+        "num": 186560,
+        "word": "12岁孩子进店撸猫被拒家长怒怼店员",
+        "onboard_time": 1677170604,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408636,
+        "num": 186348,
+        "word": "京东百亿补贴已上线测试",
+        "onboard_time": 1677204209,
+        "rank": 34,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 179447,
+        "num": 179447,
+        "word": "网传有银行每天交易限额5000元",
+        "onboard_time": 1677169885,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 143918,
+        "num": 143918,
+        "word": "中国最后的沙漠村落",
+        "onboard_time": 1677202227,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143490,
+        "num": 143490,
+        "word": "女生考研查分后激动到晕倒送医",
+        "onboard_time": 1677172519,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 140452,
+        "num": 140452,
+        "word": "中国不会成为另一个美国的十个原因",
+        "onboard_time": 1677179172,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 130136,
+        "num": 130136,
+        "word": "联大通过和平公式决议草案",
+        "onboard_time": 1677202047,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 121475,
+        "num": 121475,
+        "word": "房贷创新重在发掘消费者潜在需求",
+        "onboard_time": 1677202408,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120561,
+        "num": 120561,
+        "word": "女子避雨时随手拍下人生的轮回",
+        "onboard_time": 1677156209,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117554,
+        "num": 117554,
+        "word": "长空之王严正声明",
+        "onboard_time": 1677195745,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116968,
+        "num": 116968,
+        "word": "韦恩斯坦再被判刑16年",
+        "onboard_time": 1677204146,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 114226,
+        "num": 114226,
+        "word": "朴智旻solo专辑歌单公开",
+        "onboard_time": 1677205048,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111692,
+        "num": 111692,
+        "word": "隔空猥亵同样是性侵",
+        "onboard_time": 1677207448,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110601,
+        "num": 110601,
+        "word": "甲流",
+        "onboard_time": 1677164133,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110215,
+        "num": 110215,
+        "word": "九月哭了",
+        "onboard_time": 1677195506,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104835,
+        "num": 104835,
+        "word": "内蒙古煤矿坍塌已致6死6伤",
+        "onboard_time": 1677199827,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 104119,
+        "num": 104119,
+        "word": "迪马利亚单场7射正创欧联杯纪录",
+        "onboard_time": 1677200189,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大代表2977名#"
+    }
+  }
+}

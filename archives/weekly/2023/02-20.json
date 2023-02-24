@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677206964237,
+  "endTime": 1677207555603,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -155,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2530260,
+      "num": 2530260,
+      "word": "县长涉嫌性侵挂职女干部被停职",
+      "onboard_time": 1677203847,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2459136,
       "num": 2459136,
       "word": "章子怡 中戏考官",
       "onboard_time": 1676968832,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2454963,
-      "num": 2454963,
-      "word": "县长涉嫌性侵挂职女干部被停职",
-      "onboard_time": 1677203847,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2422803,
@@ -923,6 +923,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 1219015,
+      "num": 1219015,
+      "word": "刘亚仁体毛检测阳性",
+      "onboard_time": 1677206786,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1212614,
       "num": 1212614,
       "word": "克拉棒",
@@ -945,6 +953,14 @@
       "onboard_time": 1676984559,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1195058,
+      "num": 1195058,
+      "word": "央企幼儿园首次对外招生",
+      "onboard_time": 1677204868,
+      "rank": 1,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1187986,
@@ -1425,14 +1441,6 @@
       "onboard_time": 1677041675,
       "rank": 14,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 966077,
-      "num": 966077,
-      "word": "央企幼儿园首次对外招生",
-      "onboard_time": 1677204868,
-      "rank": 1,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 962635,
@@ -3043,6 +3051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 570609,
+      "num": 570609,
+      "word": "鼓励生育先要缓解年轻人婚姻焦虑",
+      "onboard_time": 1677206006,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566421,
       "num": 566421,
       "word": "蔡徐坤现象演唱会官宣",
@@ -3265,6 +3281,14 @@
       "onboard_time": 1676878529,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 533989,
+      "num": 533989,
+      "word": "云南3岁男童与2陌生女孩玩后失踪",
+      "onboard_time": 1677204209,
+      "rank": 8,
+      "category": "社会负面"
     },
     {
       "raw_hot": 533980,
@@ -3721,14 +3745,6 @@
       "onboard_time": 1676892568,
       "rank": 43,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 471867,
-      "num": 471867,
-      "word": "云南3岁男童与2陌生女孩玩后失踪",
-      "onboard_time": 1677204209,
-      "rank": 8,
-      "category": "社会负面"
     },
     {
       "raw_hot": 470318,
@@ -4331,6 +4347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408636,
+      "num": 391568,
+      "word": "京东百亿补贴已上线测试",
+      "onboard_time": 1677204209,
+      "rank": 15,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 408445,
       "num": 408445,
       "word": "马龙说决赛和樊振东没压力",
@@ -4411,6 +4435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 400642,
+      "num": 400642,
+      "word": "陆虎与跳伞教练是同一赛区选手",
+      "onboard_time": 1677203368,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400523,
       "num": 400523,
       "word": "薛之谦 加场",
@@ -4481,22 +4513,6 @@
       "onboard_time": 1677119428,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 392775,
-      "num": 392775,
-      "word": "刘亚仁体毛检测阳性",
-      "onboard_time": 1677206786,
-      "rank": 14,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 391568,
-      "num": 391568,
-      "word": "京东百亿补贴已上线测试",
-      "onboard_time": 1677204209,
-      "rank": 15,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 391545,
@@ -4747,14 +4763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 374198,
-      "num": 374198,
-      "word": "陆虎与跳伞教练是同一赛区选手",
-      "onboard_time": 1677203368,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 374113,
       "num": 374113,
       "word": "aespa世界观第一季大结局",
@@ -4827,12 +4835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369825,
-      "num": 369825,
-      "word": "鼓励生育先要缓解年轻人婚姻焦虑",
-      "onboard_time": 1677206006,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 369779,
+      "num": 369779,
+      "word": "世界讨厌香菜日",
+      "onboard_time": 1677206067,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 369604,
@@ -5795,6 +5803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307636,
+      "num": 307636,
+      "word": "蔡徐坤现象EP上线",
+      "onboard_time": 1677206968,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 307410,
       "num": 307410,
       "word": "妻子的浪漫旅行6收官",
@@ -6011,6 +6027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291590,
+      "num": 291590,
+      "word": "女子下班途中被狗撞伤被判工伤",
+      "onboard_time": 1677206428,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291134,
       "num": 291134,
       "word": "复旦MOSS团队回应内测",
@@ -6179,6 +6203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280958,
+      "num": 280958,
+      "word": "警方回应男子地铁口打抱娃女子",
+      "onboard_time": 1677203728,
+      "rank": 45,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 280631,
       "num": 280631,
       "word": "刘雯出发米兰时装周",
@@ -6217,14 +6249,6 @@
       "onboard_time": 1676974112,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 277774,
-      "num": 277774,
-      "word": "世界讨厌香菜日",
-      "onboard_time": 1677206067,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 277559,
@@ -6497,14 +6521,6 @@
       "onboard_time": 1676935881,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263695,
-      "num": 263695,
-      "word": "警方回应男子地铁口打抱娃女子",
-      "onboard_time": 1677203728,
-      "rank": 45,
-      "category": "社会负面"
     },
     {
       "raw_hot": 263622,
@@ -7739,19 +7755,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199026,
+      "num": 199026,
+      "word": "李梦金敏喜柏林合照",
+      "onboard_time": 1677207267,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198757,
       "num": 198757,
       "word": "别人直播带货这位老师直播带人",
       "onboard_time": 1677127113,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197907,
-      "num": 197907,
-      "word": "女子下班途中被狗撞伤被判工伤",
-      "onboard_time": 1677206428,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -9713,6 +9729,14 @@
       "onboard_time": 1677174676,
       "rank": 21,
       "category": "影视,科技"
+    },
+    {
+      "raw_hot": 111692,
+      "num": 111692,
+      "word": "隔空猥亵同样是性侵",
+      "onboard_time": 1677207448,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111608,

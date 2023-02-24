@@ -1,10 +1,10 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677206964237,
+  "endTime": 1677207555603,
   "band_list": [
     {
-      "raw_hot": 2454963,
-      "num": 2454963,
+      "raw_hot": 2530260,
+      "num": 2530260,
       "word": "县长涉嫌性侵挂职女干部被停职",
       "onboard_time": 1677203847,
       "rank": 41,
@@ -33,6 +33,22 @@
       "onboard_time": 1677167369,
       "rank": 0,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 1219015,
+      "num": 1219015,
+      "word": "刘亚仁体毛检测阳性",
+      "onboard_time": 1677206786,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1195058,
+      "num": 1195058,
+      "word": "央企幼儿园首次对外招生",
+      "onboard_time": 1677204868,
+      "rank": 1,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1187986,
@@ -71,14 +87,6 @@
       "num": 983382,
       "word": "四省联考",
       "onboard_time": 1677166708,
-      "rank": 1,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 966077,
-      "num": 966077,
-      "word": "央企幼儿园首次对外招生",
-      "onboard_time": 1677204868,
       "rank": 1,
       "category": "教育,社会新闻"
     },
@@ -187,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570609,
+      "num": 570609,
+      "word": "鼓励生育先要缓解年轻人婚姻焦虑",
+      "onboard_time": 1677206006,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 563833,
       "num": 563833,
       "word": "小美人鱼扮演者杂志封面",
       "onboard_time": 1677201208,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 533989,
+      "num": 533989,
+      "word": "云南3岁男童与2陌生女孩玩后失踪",
+      "onboard_time": 1677204209,
+      "rank": 8,
+      "category": "社会负面"
     },
     {
       "raw_hot": 496050,
@@ -209,14 +233,6 @@
       "onboard_time": 1677204209,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 471867,
-      "num": 471867,
-      "word": "云南3岁男童与2陌生女孩玩后失踪",
-      "onboard_time": 1677204209,
-      "rank": 8,
-      "category": "社会负面"
     },
     {
       "raw_hot": 454523,
@@ -251,6 +267,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408636,
+      "num": 391568,
+      "word": "京东百亿补贴已上线测试",
+      "onboard_time": 1677204209,
+      "rank": 15,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 400642,
+      "num": 400642,
+      "word": "陆虎与跳伞教练是同一赛区选手",
+      "onboard_time": 1677203368,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394235,
       "num": 394235,
       "word": "内蒙古煤矿坍塌已致6死6伤",
@@ -259,36 +291,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 392775,
-      "num": 392775,
-      "word": "刘亚仁体毛检测阳性",
-      "onboard_time": 1677206786,
-      "rank": 14,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 391568,
-      "num": 391568,
-      "word": "京东百亿补贴已上线测试",
-      "onboard_time": 1677204209,
-      "rank": 15,
-      "category": "科技,财经"
-    },
-    {
-      "raw_hot": 374198,
-      "num": 374198,
-      "word": "陆虎与跳伞教练是同一赛区选手",
-      "onboard_time": 1677203368,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 369825,
-      "num": 369825,
-      "word": "鼓励生育先要缓解年轻人婚姻焦虑",
-      "onboard_time": 1677206006,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 369779,
+      "num": 369779,
+      "word": "世界讨厌香菜日",
+      "onboard_time": 1677206067,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 367056,
@@ -363,6 +371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 307636,
+      "num": 307636,
+      "word": "蔡徐坤现象EP上线",
+      "onboard_time": 1677206968,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 301646,
       "num": 301646,
       "word": "全国6亿栋房屋并不全是商品房",
@@ -387,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291590,
+      "num": 291590,
+      "word": "女子下班途中被狗撞伤被判工伤",
+      "onboard_time": 1677206428,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282636,
       "num": 282636,
       "word": "曼联2比1巴萨",
       "onboard_time": 1677193881,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280958,
+      "num": 280958,
+      "word": "警方回应男子地铁口打抱娃女子",
+      "onboard_time": 1677203728,
+      "rank": 45,
+      "category": "社会负面"
     },
     {
       "raw_hot": 280297,
@@ -403,28 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277774,
-      "num": 277774,
-      "word": "世界讨厌香菜日",
-      "onboard_time": 1677206067,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 270727,
       "num": 270727,
       "word": "陈乔恩说如果能重来不会公开恋情",
       "onboard_time": 1677148891,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 263695,
-      "num": 263695,
-      "word": "警方回应男子地铁口打抱娃女子",
-      "onboard_time": 1677203728,
-      "rank": 45,
-      "category": "社会负面"
     },
     {
       "raw_hot": 261611,
@@ -483,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197907,
-      "num": 197907,
-      "word": "女子下班途中被狗撞伤被判工伤",
-      "onboard_time": 1677206428,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 199026,
+      "num": 199026,
+      "word": "李梦金敏喜柏林合照",
+      "onboard_time": 1677207267,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 193235,
@@ -732,7 +748,7 @@
     },
     {
       "raw_hot": 115440,
-      "num": 1177345,
+      "num": 1205919,
       "word": "端牢中国饭碗的底气",
       "onboard_time": 1677162511,
       "rank": 2,
@@ -753,6 +769,14 @@
       "onboard_time": 1677174676,
       "rank": 21,
       "category": "影视,科技"
+    },
+    {
+      "raw_hot": 111692,
+      "num": 111692,
+      "word": "隔空猥亵同样是性侵",
+      "onboard_time": 1677207448,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110315,
