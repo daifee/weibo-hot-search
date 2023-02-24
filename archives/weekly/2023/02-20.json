@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677273338053,
+  "endTime": 1677274443552,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -11889,6 +11889,14 @@
       "onboard_time": 1676922911,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12600,
+      "num": 12600,
+      "word": "写实到可怕的电影",
+      "onboard_time": 1677274092,
+      "rank": 48,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
