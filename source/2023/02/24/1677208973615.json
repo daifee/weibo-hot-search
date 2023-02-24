@@ -1,0 +1,410 @@
+{
+  "runTime": 1677208973615,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1394221,
+        "num": 1394221,
+        "word": "央企幼儿园首次对外招生",
+        "onboard_time": 1677204868,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1996983,
+        "num": 1231615,
+        "word": "县长涉嫌性侵挂职女干部被停职",
+        "onboard_time": 1677203847,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53462,
+        "num": 1034281,
+        "word": "端牢中国饭碗的底气",
+        "onboard_time": 1677162511,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1724412,
+        "num": 980796,
+        "word": "刘亚仁体毛检测阳性",
+        "onboard_time": 1677206786,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 903991,
+        "num": 903991,
+        "word": "鼓励生育先要缓解年轻人婚姻焦虑",
+        "onboard_time": 1677206006,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696877,
+        "num": 696877,
+        "word": "在美志愿者称丫丫有刻板行为",
+        "onboard_time": 1677202408,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619728,
+        "num": 619728,
+        "word": "海清方否认退圈",
+        "onboard_time": 1677207868,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539064,
+        "num": 539064,
+        "word": "张颂文曾抱过张翰",
+        "onboard_time": 1677208708,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 496783,
+        "num": 496783,
+        "word": "女子下班途中被狗撞伤被判工伤",
+        "onboard_time": 1677206428,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454060,
+        "num": 454060,
+        "word": "丫丫或于4月7日合同到期时回国",
+        "onboard_time": 1677168505,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939742,
+        "num": 450683,
+        "word": "隔空猥亵同样是性侵",
+        "onboard_time": 1677207448,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806578,
+        "num": 449763,
+        "word": "专家称未来不少大学将关停",
+        "onboard_time": 1677201030,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 455614,
+        "num": 448338,
+        "word": "老默我想吃鱼了被抢注商标",
+        "onboard_time": 1677207928,
+        "rank": 12,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 446326,
+        "num": 446326,
+        "word": "云南3岁男童与2陌生女孩玩后失踪",
+        "onboard_time": 1677204209,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 372641,
+        "num": 399826,
+        "word": "体育生考研435分社牛舍友挂条幅庆祝",
+        "onboard_time": 1677196889,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 393434,
+        "num": 393434,
+        "word": "iPhone15Pro将新增深红色配色",
+        "onboard_time": 1677196768,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 385214,
+        "num": 385214,
+        "word": "网友米兰偶遇孔雪儿",
+        "onboard_time": 1677204209,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331491,
+        "num": 331491,
+        "word": "陆虎与跳伞教练是同一赛区选手",
+        "onboard_time": 1677203368,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329403,
+        "num": 329403,
+        "word": "Sana跳舞时牵住定延的手",
+        "onboard_time": 1677207630,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321090,
+        "num": 321090,
+        "word": "小美人鱼扮演者杂志封面",
+        "onboard_time": 1677201208,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 517212,
+        "num": 317625,
+        "word": "李宇春说老默我想吃鱼了",
+        "onboard_time": 1677197790,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441074,
+        "num": 317280,
+        "word": "金俊勉方否认拿鞋子不还",
+        "onboard_time": 1677201327,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311999,
+        "num": 311999,
+        "word": "世界讨厌香菜日",
+        "onboard_time": 1677206067,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286900,
+        "num": 286900,
+        "word": "民警逛街一手喝奶茶一手抓嫌犯",
+        "onboard_time": 1677197912,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278015,
+        "num": 278015,
+        "word": "会和丑却对你好的人恋爱吗",
+        "onboard_time": 1677169407,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249589,
+        "num": 249589,
+        "word": "Prada",
+        "onboard_time": 1677159271,
+        "rank": 25,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 241264,
+        "num": 241264,
+        "word": "蔡徐坤现象EP上线",
+        "onboard_time": 1677206968,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233070,
+        "num": 233070,
+        "word": "EDG惜败100T",
+        "onboard_time": 1677208166,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231176,
+        "num": 231176,
+        "word": "警方回应男子地铁口打抱娃女子",
+        "onboard_time": 1677203728,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 224663,
+        "num": 224663,
+        "word": "四天工作制究竟香不香",
+        "onboard_time": 1677201149,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269986,
+        "num": 224396,
+        "word": "李梦金敏喜柏林合照",
+        "onboard_time": 1677207267,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220281,
+        "num": 220281,
+        "word": "95后女生放弃安稳生活专职科普植物",
+        "onboard_time": 1677203066,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220131,
+        "num": 220131,
+        "word": "德云社节目单",
+        "onboard_time": 1677204689,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204812,
+        "num": 204812,
+        "word": "iPhone15USBC口或获利超50亿美元",
+        "onboard_time": 1677204387,
+        "rank": 33,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 193207,
+        "num": 193207,
+        "word": "刘雯闭场",
+        "onboard_time": 1677162093,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191079,
+        "num": 191079,
+        "word": "宋亚轩听自己11岁唱的歌的反应",
+        "onboard_time": 1677208708,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188377,
+        "num": 188377,
+        "word": "拉莫斯退出西班牙国家队",
+        "onboard_time": 1677204089,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187942,
+        "num": 187942,
+        "word": "深海真正的结局",
+        "onboard_time": 1677208110,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182459,
+        "num": 182459,
+        "word": "甲流是最为复杂的流感病毒",
+        "onboard_time": 1677200611,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178784,
+        "num": 178784,
+        "word": "关于政治解决乌克兰危机的中国立场",
+        "onboard_time": 1677201567,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 162130,
+        "num": 162130,
+        "word": "俄乌战争一周年前后",
+        "onboard_time": 1677200069,
+        "rank": 40,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 152911,
+        "num": 152911,
+        "word": "12岁孩子进店撸猫被拒家长怒怼店员",
+        "onboard_time": 1677170604,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146124,
+        "num": 146124,
+        "word": "网传有银行每天交易限额5000元",
+        "onboard_time": 1677169885,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 120156,
+        "num": 120156,
+        "word": "王铮亮预录了没上春晚的反应",
+        "onboard_time": 1677170423,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118175,
+        "num": 118175,
+        "word": "中国不会成为另一个美国的十个原因",
+        "onboard_time": 1677179172,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 114701,
+        "num": 114701,
+        "word": "女生考研查分后激动到晕倒送医",
+        "onboard_time": 1677172519,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 106381,
+        "num": 106381,
+        "word": "韦恩斯坦再被判刑16年",
+        "onboard_time": 1677204146,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 102768,
+        "num": 102768,
+        "word": "中国最后的沙漠村落",
+        "onboard_time": 1677202227,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102325,
+        "num": 102325,
+        "word": "油菜花和壮观棉被云同框有多美",
+        "onboard_time": 1677208948,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 96271,
+        "num": 96271,
+        "word": "九月哭了",
+        "onboard_time": 1677195506,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#雷锋精神永不过时#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677207555603,
+  "endTime": 1677208973615,
   "band_list": [
     {
       "raw_hot": 2530260,
@@ -19,6 +19,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 1724412,
+      "num": 1219015,
+      "word": "刘亚仁体毛检测阳性",
+      "onboard_time": 1677206786,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1583216,
       "num": 1583216,
       "word": "丫丫或于4月7日合同到期时回国",
@@ -35,16 +43,8 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 1219015,
-      "num": 1219015,
-      "word": "刘亚仁体毛检测阳性",
-      "onboard_time": 1677206786,
-      "rank": 14,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1195058,
-      "num": 1195058,
+      "raw_hot": 1394221,
+      "num": 1394221,
       "word": "央企幼儿园首次对外招生",
       "onboard_time": 1677204868,
       "rank": 1,
@@ -91,6 +91,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 939742,
+      "num": 450683,
+      "word": "隔空猥亵同样是性侵",
+      "onboard_time": 1677207448,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 917856,
       "num": 917856,
       "word": "体育生考研435分社牛舍友挂条幅庆祝",
@@ -105,6 +113,14 @@
       "onboard_time": 1677169885,
       "rank": 26,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 903991,
+      "num": 903991,
+      "word": "鼓励生育先要缓解年轻人婚姻焦虑",
+      "onboard_time": 1677206006,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 902217,
@@ -187,19 +203,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 619728,
+      "num": 619728,
+      "word": "海清方否认退圈",
+      "onboard_time": 1677207868,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583820,
       "num": 583820,
       "word": "12岁孩子进店撸猫被拒家长怒怼店员",
       "onboard_time": 1677170604,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570609,
-      "num": 570609,
-      "word": "鼓励生育先要缓解年轻人婚姻焦虑",
-      "onboard_time": 1677206006,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -211,12 +227,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 539064,
+      "num": 539064,
+      "word": "张颂文曾抱过张翰",
+      "onboard_time": 1677208708,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 533989,
       "num": 533989,
       "word": "云南3岁男童与2陌生女孩玩后失踪",
       "onboard_time": 1677204209,
       "rank": 8,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 496783,
+      "num": 496783,
+      "word": "女子下班途中被狗撞伤被判工伤",
+      "onboard_time": 1677206428,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496050,
@@ -233,6 +265,14 @@
       "onboard_time": 1677204209,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 455614,
+      "num": 448338,
+      "word": "老默我想吃鱼了被抢注商标",
+      "onboard_time": 1677207928,
+      "rank": 12,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 454523,
@@ -347,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329403,
+      "num": 329403,
+      "word": "Sana跳舞时牵住定延的手",
+      "onboard_time": 1677207630,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 324327,
       "num": 324327,
       "word": "中国不会成为另一个美国的十个原因",
@@ -403,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291590,
-      "num": 291590,
-      "word": "女子下班途中被狗撞伤被判工伤",
-      "onboard_time": 1677206428,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282636,
       "num": 282636,
       "word": "曼联2比1巴萨",
@@ -443,12 +483,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269986,
+      "num": 224396,
+      "word": "李梦金敏喜柏林合照",
+      "onboard_time": 1677207267,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261611,
       "num": 261611,
       "word": "蔡徐坤杜鹃同框",
       "onboard_time": 1677166115,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 233070,
+      "num": 233070,
+      "word": "EDG惜败100T",
+      "onboard_time": 1677208166,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 223784,
@@ -499,20 +555,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199026,
-      "num": 199026,
-      "word": "李梦金敏喜柏林合照",
-      "onboard_time": 1677207267,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193235,
       "num": 193235,
       "word": "马龙3比0樊振东",
       "onboard_time": 1677157591,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191079,
+      "num": 191079,
+      "word": "宋亚轩听自己11岁唱的歌的反应",
+      "onboard_time": 1677208708,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187942,
+      "num": 187942,
+      "word": "深海真正的结局",
+      "onboard_time": 1677208110,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 186844,
@@ -771,14 +835,6 @@
       "category": "影视,科技"
     },
     {
-      "raw_hot": 111692,
-      "num": 111692,
-      "word": "隔空猥亵同样是性侵",
-      "onboard_time": 1677207448,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110315,
       "num": 110315,
       "word": "今日宜加油热带雨林海报",
@@ -825,6 +881,14 @@
       "onboard_time": 1677160293,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 102325,
+      "num": 102325,
+      "word": "油菜花和壮观棉被云同框有多美",
+      "onboard_time": 1677208948,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 101601,
