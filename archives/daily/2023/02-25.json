@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677274443552,
+  "endTime": 1677277143887,
   "band_list": [
     {
       "raw_hot": 4003829,
@@ -491,6 +491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32944,
+      "num": 32944,
+      "word": "邓超说30岁前没穿过秋裤",
+      "onboard_time": 1677245189,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32689,
       "num": 38512,
       "word": "周深时光音乐会收官花絮vlog",
@@ -507,16 +515,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 21300,
-      "num": 21300,
-      "word": "邓超说30岁前没穿过秋裤",
-      "onboard_time": 1677245189,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 12600,
-      "num": 12600,
+      "raw_hot": 25100,
+      "num": 25100,
       "word": "写实到可怕的电影",
       "onboard_time": 1677274092,
       "rank": 48,

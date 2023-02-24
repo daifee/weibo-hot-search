@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677274443552,
+  "endTime": 1677277143887,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -54475,6 +54475,14 @@
       "category": "作品衍生,情感"
     },
     {
+      "raw_hot": 25100,
+      "num": 25100,
+      "word": "写实到可怕的电影",
+      "onboard_time": 1677274092,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 24711,
       "num": 33718,
       "word": "Felix演唱会秀腹肌",
@@ -54569,14 +54577,6 @@
       "onboard_time": 1676922911,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 12600,
-      "num": 12600,
-      "word": "写实到可怕的电影",
-      "onboard_time": 1677274092,
-      "rank": 48,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
