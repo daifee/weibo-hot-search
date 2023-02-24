@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677219919144,
+  "endTime": 1677220805594,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 1625727,
-      "num": 465039,
+      "num": 486906,
       "word": "天官赐福",
       "onboard_time": 1677216635,
       "rank": 10,
@@ -2155,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 747592,
+      "num": 747592,
+      "word": "郑恺 谁会对周一有期待",
+      "onboard_time": 1677219329,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 745194,
       "num": 745194,
       "word": "14岁女孩暴发性心肌炎1年9次返院",
@@ -2369,6 +2377,14 @@
       "onboard_time": 1677201567,
       "rank": 10,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 703035,
+      "num": 703035,
+      "word": "网友P的刘诗诗李健合照",
+      "onboard_time": 1677219329,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 702389,
@@ -2681,6 +2697,14 @@
       "onboard_time": 1676949270,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 659070,
+      "num": 659070,
+      "word": "农村也出现恐婚恐育群体",
+      "onboard_time": 1677217948,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 658500,
@@ -3203,6 +3227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 564135,
+      "num": 564135,
+      "word": "省考",
+      "onboard_time": 1677217111,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 563833,
       "num": 563833,
       "word": "小美人鱼扮演者杂志封面",
@@ -3267,6 +3299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554152,
+      "num": 554152,
+      "word": "出生率下降将直接影响教育行业",
+      "onboard_time": 1677218430,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553497,
       "num": 553497,
       "word": "陈戌源曾劝李铁退还武汉长江4800万",
@@ -3281,14 +3321,6 @@
       "onboard_time": 1676949870,
       "rank": 22,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 551519,
-      "num": 551519,
-      "word": "农村也出现恐婚恐育群体",
-      "onboard_time": 1677217948,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 550123,
@@ -3569,14 +3601,6 @@
       "onboard_time": 1676964990,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 513697,
-      "num": 513697,
-      "word": "省考",
-      "onboard_time": 1677217111,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 513648,
@@ -4051,14 +4075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 457883,
-      "num": 447604,
-      "word": "出生率下降将直接影响教育行业",
-      "onboard_time": 1677218430,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 457713,
       "num": 457713,
       "word": "魏晨大侦探8绿色外套造型",
@@ -4169,14 +4185,6 @@
       "onboard_time": 1677140731,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 441694,
-      "num": 441694,
-      "word": "网友P的刘诗诗李健合照",
-      "onboard_time": 1677219329,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 441488,
@@ -5555,6 +5563,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 338449,
+      "num": 338449,
+      "word": "四大会计事务所中标多家国企项目",
+      "onboard_time": 1677219149,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 338052,
       "num": 338052,
       "word": "中通回应60岁分拣工猝死",
@@ -6385,14 +6401,6 @@
       "onboard_time": 1676852069,
       "rank": 20,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 287096,
-      "num": 287096,
-      "word": "郑恺 谁会对周一有期待",
-      "onboard_time": 1677219329,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 287020,
@@ -7563,6 +7571,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 222169,
+      "num": 222169,
+      "word": "建议加强幼儿园性教育政策建设",
+      "onboard_time": 1677217289,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 221737,
       "num": 221737,
       "word": "上岸壁纸",
@@ -8283,12 +8299,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191847,
-      "num": 191847,
-      "word": "建议加强幼儿园性教育政策建设",
-      "onboard_time": 1677217289,
+      "raw_hot": 192627,
+      "num": 187699,
+      "word": "30岁以上大龄未婚青年非常普遍",
+      "onboard_time": 1677220470,
       "rank": 30,
-      "category": "教育,社会新闻"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190968,
@@ -8667,14 +8683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180831,
-      "num": 180831,
-      "word": "四大会计事务所中标多家国企项目",
-      "onboard_time": 1677219149,
-      "rank": 31,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 180051,
       "num": 180051,
       "word": "六公主赞夏花",
@@ -8873,6 +8881,14 @@
       "onboard_time": 1677144692,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173367,
+      "num": 173367,
+      "word": "Somi宋江同框视频",
+      "onboard_time": 1677218730,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 172994,
@@ -9081,14 +9097,6 @@
       "onboard_time": 1676906850,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166819,
-      "num": 166819,
-      "word": "Somi宋江同框视频",
-      "onboard_time": 1677218730,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 166745,
@@ -9385,6 +9393,14 @@
       "onboard_time": 1676803531,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155303,
+      "num": 155303,
+      "word": "李宇春翻唱张三的歌",
+      "onboard_time": 1677220229,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 155196,
