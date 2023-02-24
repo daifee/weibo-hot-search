@@ -1,6 +1,6 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677213596967,
+  "endTime": 1677215900730,
   "band_list": [
     {
       "raw_hot": 2530260,
@@ -19,8 +19,8 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 1833651,
-      "num": 1833651,
+      "raw_hot": 2034507,
+      "num": 2034507,
       "word": "陈学冬车祸后报平安",
       "onboard_time": 1677212251,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1677206786,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1683470,
+      "num": 1683470,
+      "word": "男子猝死其母将女友告上法庭判赔16万",
+      "onboard_time": 1677213454,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1583216,
@@ -65,6 +73,14 @@
       "onboard_time": 1677204868,
       "rank": 1,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1374598,
+      "num": 1374598,
+      "word": "13岁女孩患宫颈癌7年",
+      "onboard_time": 1677214234,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1224957,
@@ -121,6 +137,14 @@
       "onboard_time": 1677166708,
       "rank": 1,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 981216,
+      "num": 981216,
+      "word": "我爸学会网购后买了个亭子回家",
+      "onboard_time": 1677213271,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 917856,
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 709812,
-      "num": 1216947,
+      "num": 1510473,
       "word": "关于政治解决乌克兰危机的中国立场",
       "onboard_time": 1677201567,
       "rank": 10,
@@ -251,6 +275,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 662243,
+      "num": 584131,
+      "word": "龚俊也去泰国了",
+      "onboard_time": 1677212429,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 620123,
       "num": 620123,
       "word": "长公主在上原班人马回归",
@@ -264,14 +296,6 @@
       "word": "海清方否认退圈",
       "onboard_time": 1677207868,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 584131,
-      "num": 584131,
-      "word": "龚俊也去泰国了",
-      "onboard_time": 1677212429,
-      "rank": 47,
       "category": "艺人"
     },
     {
@@ -289,6 +313,14 @@
       "onboard_time": 1677201208,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 543276,
+      "num": 543276,
+      "word": "曝HYBE为李秀满植树计划投资百亿韩元",
+      "onboard_time": 1677212913,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 534050,
@@ -331,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 498994,
+      "num": 498994,
+      "word": "网友称用ChatGPT后被海外大学录取",
+      "onboard_time": 1677213870,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 496783,
       "num": 496783,
       "word": "女子下班途中被狗撞伤被判工伤",
@@ -355,14 +395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 471221,
-      "num": 471221,
-      "word": "曝HYBE为李秀满植树计划投资百亿韩元",
-      "onboard_time": 1677212913,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 454523,
       "num": 203739,
       "word": "男子多年求子不得查出竟是女儿身",
@@ -385,6 +417,14 @@
       "onboard_time": 1677165631,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419400,
+      "num": 419400,
+      "word": "王一博贡献了诸多临场发挥的戏码",
+      "onboard_time": 1677213993,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 413224,
@@ -475,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 337204,
+      "num": 337204,
+      "word": "大学关停与出生率下降有直接关系",
+      "onboard_time": 1677214472,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 336671,
       "num": 336671,
       "word": "巴奴火锅创始人发声",
@@ -563,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297332,
+      "num": 297332,
+      "word": "村支书非法占有孤儿生活补贴五年",
+      "onboard_time": 1677214533,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295833,
       "num": 295833,
       "word": "95后女生放弃安稳生活专职科普植物",
@@ -611,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271714,
+      "num": 271714,
+      "word": "为什么大学生越来越求稳了",
+      "onboard_time": 1677215134,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270727,
       "num": 270727,
       "word": "陈乔恩说如果能重来不会公开恋情",
@@ -627,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262228,
+      "num": 262228,
+      "word": "又一未拆封初代iPhone被拍卖",
+      "onboard_time": 1677212251,
+      "rank": 35,
+      "category": "科技"
+    },
+    {
       "raw_hot": 261611,
       "num": 261611,
       "word": "蔡徐坤杜鹃同框",
@@ -635,12 +707,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 245246,
-      "num": 245246,
-      "word": "我爸学会网购后买了个亭子回家",
-      "onboard_time": 1677213271,
+      "raw_hot": 236255,
+      "num": 236255,
+      "word": "肠粉遇上螺蛳粉",
+      "onboard_time": 1677214533,
       "rank": 32,
-      "category": "社会新闻"
+      "category": "美食"
     },
     {
       "raw_hot": 232528,
@@ -649,14 +721,6 @@
       "onboard_time": 1677211349,
       "rank": 46,
       "category": "旅游,自然"
-    },
-    {
-      "raw_hot": 232349,
-      "num": 232349,
-      "word": "又一未拆封初代iPhone被拍卖",
-      "onboard_time": 1677212251,
-      "rank": 35,
-      "category": "科技"
     },
     {
       "raw_hot": 229104,
@@ -675,12 +739,28 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 223523,
+      "num": 223523,
+      "word": "拉塞尔脚踝扭伤",
+      "onboard_time": 1677214893,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219990,
       "num": 219990,
       "word": "拉莫斯退出西班牙国家队",
       "onboard_time": 1677204089,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213737,
+      "num": 213737,
+      "word": "亮剑丁团长扮演者吐槽药费贵",
+      "onboard_time": 1677214773,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213601,
@@ -753,14 +833,6 @@
       "onboard_time": 1677170423,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185762,
-      "num": 185762,
-      "word": "男子猝死其母将女友告上法庭判赔16万",
-      "onboard_time": 1677213454,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183970,
@@ -897,6 +969,14 @@
       "onboard_time": 1677149373,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143752,
+      "num": 143752,
+      "word": "荷鲁斯1号遥感卫星发射成功",
+      "onboard_time": 1677215250,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 141208,

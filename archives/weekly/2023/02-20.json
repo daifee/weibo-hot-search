@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677213596967,
+  "endTime": 1677215900730,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2034507,
+      "num": 2034507,
+      "word": "陈学冬车祸后报平安",
+      "onboard_time": 1677212251,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2022784,
       "num": 2022784,
       "word": "刘雯闭场",
@@ -395,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1833651,
-      "num": 1833651,
-      "word": "陈学冬车祸后报平安",
-      "onboard_time": 1677212251,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1823820,
       "num": 729806,
       "word": "北京户口有什么好处",
@@ -497,6 +497,14 @@
       "onboard_time": 1677052113,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1683470,
+      "num": 1683470,
+      "word": "男子猝死其母将女友告上法庭判赔16万",
+      "onboard_time": 1677213454,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1627833,
@@ -751,6 +759,14 @@
       "num": 1375354,
       "word": "甲流",
       "onboard_time": 1676991039,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1374598,
+      "num": 1374598,
+      "word": "13岁女孩患宫颈癌7年",
+      "onboard_time": 1677214234,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -1425,6 +1441,14 @@
       "onboard_time": 1677126757,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 981216,
+      "num": 981216,
+      "word": "我爸学会网购后买了个亭子回家",
+      "onboard_time": 1677213271,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 979489,
@@ -2332,7 +2356,7 @@
     },
     {
       "raw_hot": 709812,
-      "num": 1216947,
+      "num": 1510473,
       "word": "关于政治解决乌克兰危机的中国立场",
       "onboard_time": 1677201567,
       "rank": 10,
@@ -2625,6 +2649,14 @@
       "onboard_time": 1676985454,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 662243,
+      "num": 584131,
+      "word": "龚俊也去泰国了",
+      "onboard_time": 1677212429,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 660246,
@@ -3075,14 +3107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 584131,
-      "num": 584131,
-      "word": "龚俊也去泰国了",
-      "onboard_time": 1677212429,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 584067,
       "num": 584067,
       "word": "乐乐与丫丫20年前抵美画面",
@@ -3321,6 +3345,14 @@
       "onboard_time": 1676885851,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 543276,
+      "num": 543276,
+      "word": "曝HYBE为李秀满植树计划投资百亿韩元",
+      "onboard_time": 1677212913,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 541674,
@@ -3595,6 +3627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 498994,
+      "num": 498994,
+      "word": "网友称用ChatGPT后被海外大学录取",
+      "onboard_time": 1677213870,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 498329,
       "num": 498329,
       "word": "孟美岐跳女团舞",
@@ -3865,14 +3905,6 @@
       "onboard_time": 1676892568,
       "rank": 43,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 471221,
-      "num": 471221,
-      "word": "曝HYBE为李秀满植树计划投资百亿韩元",
-      "onboard_time": 1677212913,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 470318,
@@ -4353,6 +4385,14 @@
       "onboard_time": 1677165631,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419400,
+      "num": 419400,
+      "word": "王一博贡献了诸多临场发挥的戏码",
+      "onboard_time": 1677213993,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 418077,
@@ -5467,6 +5507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 337204,
+      "num": 337204,
+      "word": "大学关停与出生率下降有直接关系",
+      "onboard_time": 1677214472,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 337025,
       "num": 172576,
       "word": "鹿晗实实在在做公益",
@@ -6083,6 +6131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 297332,
+      "num": 297332,
+      "word": "村支书非法占有孤儿生活补贴五年",
+      "onboard_time": 1677214533,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296922,
       "num": 296922,
       "word": "ayo",
@@ -6555,6 +6611,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 271714,
+      "num": 271714,
+      "word": "为什么大学生越来越求稳了",
+      "onboard_time": 1677215134,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271511,
       "num": 271511,
       "word": "纪向宁 真学霸",
@@ -6745,6 +6809,14 @@
       "onboard_time": 1677131489,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262228,
+      "num": 262228,
+      "word": "又一未拆封初代iPhone被拍卖",
+      "onboard_time": 1677212251,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 261995,
@@ -6979,14 +7051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245246,
-      "num": 245246,
-      "word": "我爸学会网购后买了个亭子回家",
-      "onboard_time": 1677213271,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244454,
       "num": 244454,
       "word": "河南省考",
@@ -7123,6 +7187,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 236255,
+      "num": 236255,
+      "word": "肠粉遇上螺蛳粉",
+      "onboard_time": 1677214533,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 235818,
       "num": 235818,
       "word": "混双",
@@ -7177,14 +7249,6 @@
       "onboard_time": 1677211349,
       "rank": 46,
       "category": "旅游,自然"
-    },
-    {
-      "raw_hot": 232349,
-      "num": 232349,
-      "word": "又一未拆封初代iPhone被拍卖",
-      "onboard_time": 1677212251,
-      "rank": 35,
-      "category": "科技"
     },
     {
       "raw_hot": 231984,
@@ -7395,6 +7459,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 223523,
+      "num": 223523,
+      "word": "拉塞尔脚踝扭伤",
+      "onboard_time": 1677214893,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223363,
       "num": 223363,
       "word": "小学生看到2岁男童独行一路护送",
@@ -7576,6 +7648,14 @@
       "word": "香香回国是为寻找合适伴侣",
       "onboard_time": 1676991275,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213737,
+      "num": 213737,
+      "word": "亮剑丁团长扮演者吐槽药费贵",
+      "onboard_time": 1677214773,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -8337,14 +8417,6 @@
       "onboard_time": 1676988335,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 185762,
-      "num": 185762,
-      "word": "男子猝死其母将女友告上法庭判赔16万",
-      "onboard_time": 1677213454,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185697,
@@ -9409,6 +9481,14 @@
       "onboard_time": 1676964929,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143752,
+      "num": 143752,
+      "word": "荷鲁斯1号遥感卫星发射成功",
+      "onboard_time": 1677215250,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 142913,
