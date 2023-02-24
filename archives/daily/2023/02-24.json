@@ -1,6 +1,6 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677249287447,
+  "endTime": 1677251915756,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -11,20 +11,20 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 3039197,
+      "num": 1254154,
+      "word": "GUCCI CEO",
+      "onboard_time": 1677248137,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 2829909,
       "num": 2829909,
       "word": "董卿丈夫被国企追债783万元",
       "onboard_time": 1677240628,
       "rank": 0,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 2595861,
-      "num": 1057694,
-      "word": "GUCCI CEO",
-      "onboard_time": 1677248137,
-      "rank": 21,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 2530260,
@@ -163,20 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1324414,
+      "num": 1324414,
+      "word": "孔乙己文学",
+      "onboard_time": 1677245431,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1247603,
+      "num": 1247603,
+      "word": "建议减少教师参与网络点赞转发工作",
+      "onboard_time": 1677246211,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1224957,
       "num": 1224957,
       "word": "张颂文曾抱过张翰",
       "onboard_time": 1677208708,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1212891,
-      "num": 1212891,
-      "word": "孔乙己文学",
-      "onboard_time": 1677245431,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 1187986,
@@ -347,14 +355,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 860818,
-      "num": 860818,
-      "word": "建议减少教师参与网络点赞转发工作",
-      "onboard_time": 1677246211,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 860296,
       "num": 860296,
       "word": "85岁老人想娶60岁女友遭子女反对",
@@ -473,6 +473,14 @@
       "onboard_time": 1677245130,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 717655,
+      "num": 717655,
+      "word": "男子不慎被妻子扎伤在绷带写字留念",
+      "onboard_time": 1677248559,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710806,
@@ -800,6 +808,14 @@
       "word": "鹿晗的行李箱",
       "onboard_time": 1677244470,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 499166,
+      "num": 435288,
+      "word": "张杰谢娜是晴天夫妇",
+      "onboard_time": 1677248740,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1155,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341508,
+      "num": 341508,
+      "word": "申论",
+      "onboard_time": 1677247891,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 340381,
       "num": 228911,
       "word": "张杰宋亚轩合唱",
@@ -1211,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336026,
+      "num": 336026,
+      "word": "蔡天凤",
+      "onboard_time": 1677250180,
+      "rank": 15,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 329403,
       "num": 329403,
       "word": "Sana跳舞时牵住定延的手",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1677164913,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 315357,
+      "num": 315357,
+      "word": "密春雷被国企追债783万元",
+      "onboard_time": 1677240628,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 310884,
@@ -1385,14 +1425,6 @@
       "onboard_time": 1677207267,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265223,
-      "num": 265223,
-      "word": "申论",
-      "onboard_time": 1677247891,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 264698,
@@ -1563,20 +1595,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217572,
+      "num": 217572,
+      "word": "五哈3是懂饥饿营销的",
+      "onboard_time": 1677249120,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216012,
       "num": 216012,
       "word": "维金斯无限期离队",
       "onboard_time": 1677230968,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215341,
-      "num": 209124,
-      "word": "张杰谢娜是晴天夫妇",
-      "onboard_time": 1677248740,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 213601,
@@ -1608,6 +1640,14 @@
       "word": "被执行人何种情况下会限高或失信",
       "onboard_time": 1677249238,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206724,
+      "num": 206724,
+      "word": "关注中国旅美大熊猫",
+      "onboard_time": 1677250832,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1723,6 +1763,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190496,
+      "num": 190496,
+      "word": "Hanni米兰时装周新闻图",
+      "onboard_time": 1677248681,
+      "rank": 37,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 190136,
+      "num": 190136,
+      "word": "周深发文告别时光音乐会",
+      "onboard_time": 1677250296,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186844,
       "num": 186844,
       "word": "房贷创新重在发掘消费者潜在需求",
@@ -1827,14 +1883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171200,
-      "num": 171200,
-      "word": "Hanni米兰时装周新闻图",
-      "onboard_time": 1677248681,
-      "rank": 37,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 170394,
       "num": 170394,
       "word": "海底捞禁止自带菜",
@@ -1857,6 +1905,14 @@
       "onboard_time": 1677235107,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164757,
+      "num": 164757,
+      "word": "为什么新生儿一定要哭",
+      "onboard_time": 1677251078,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 164501,
@@ -2059,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144242,
+      "num": 144242,
+      "word": "狼队战胜TES",
+      "onboard_time": 1677251018,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143752,
       "num": 143752,
       "word": "荷鲁斯1号遥感卫星发射成功",
@@ -2147,14 +2211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121150,
-      "num": 121150,
-      "word": "五哈3是懂饥饿营销的",
-      "onboard_time": 1677249120,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119841,
       "num": 119841,
       "word": "TES对战狼队",
@@ -2240,14 +2296,6 @@
       "word": "流感常表现为高热而非低中度发烧",
       "onboard_time": 1677221970,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107949,
-      "num": 107949,
-      "word": "男子不慎被妻子扎伤在绷带写字留念",
-      "onboard_time": 1677248559,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2393,6 +2441,14 @@
       "onboard_time": 1677161855,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72198,
+      "num": 1256156,
+      "word": "新一代载人登月飞船模型首次展出",
+      "onboard_time": 1677250479,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 62023,

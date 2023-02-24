@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677249287447,
+  "endTime": 1677251915756,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3039197,
+      "num": 1254154,
+      "word": "GUCCI CEO",
+      "onboard_time": 1677248137,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 3036287,
       "num": 3036287,
       "word": "妈妈给女儿停掉抗抑郁药换成维生素",
@@ -161,14 +169,6 @@
       "onboard_time": 1677122969,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2595861,
-      "num": 1057694,
-      "word": "GUCCI CEO",
-      "onboard_time": 1677248137,
-      "rank": 21,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 2545240,
@@ -947,6 +947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1324414,
+      "num": 1324414,
+      "word": "孔乙己文学",
+      "onboard_time": 1677245431,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1323415,
       "num": 1028518,
       "word": "王楚钦",
@@ -1011,6 +1019,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1247603,
+      "num": 1247603,
+      "word": "建议减少教师参与网络点赞转发工作",
+      "onboard_time": 1677246211,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1242527,
       "num": 1242527,
       "word": "女子多次拒接反诈电话被骗122万元",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1677208708,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1212891,
-      "num": 1212891,
-      "word": "孔乙己文学",
-      "onboard_time": 1677245431,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 1212614,
@@ -1931,14 +1939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 860818,
-      "num": 860818,
-      "word": "建议减少教师参与网络点赞转发工作",
-      "onboard_time": 1677246211,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 860296,
       "num": 860296,
       "word": "85岁老人想娶60岁女友遭子女反对",
@@ -2553,6 +2553,14 @@
       "onboard_time": 1676870913,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 717655,
+      "num": 717655,
+      "word": "男子不慎被妻子扎伤在绷带写字留念",
+      "onboard_time": 1677248559,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 716528,
@@ -4064,6 +4072,14 @@
       "word": "鹿晗的行李箱",
       "onboard_time": 1677244470,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 499166,
+      "num": 435288,
+      "word": "张杰谢娜是晴天夫妇",
+      "onboard_time": 1677248740,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -6091,6 +6107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 341508,
+      "num": 341508,
+      "word": "申论",
+      "onboard_time": 1677247891,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 340617,
       "num": 340617,
       "word": "李冰冰发长文告别会画少年的天空",
@@ -6233,6 +6257,14 @@
       "onboard_time": 1677036570,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336026,
+      "num": 336026,
+      "word": "蔡天凤",
+      "onboard_time": 1677250180,
+      "rank": 15,
+      "category": "社会负面"
     },
     {
       "raw_hot": 335824,
@@ -6593,6 +6625,14 @@
       "onboard_time": 1676822729,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 315357,
+      "num": 315357,
+      "word": "密春雷被国企追债783万元",
+      "onboard_time": 1677240628,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 314482,
@@ -7441,14 +7481,6 @@
       "onboard_time": 1676996429,
       "rank": 24,
       "category": "艺人,动漫"
-    },
-    {
-      "raw_hot": 265223,
-      "num": 265223,
-      "word": "申论",
-      "onboard_time": 1677247891,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 264698,
@@ -8339,6 +8371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217572,
+      "num": 217572,
+      "word": "五哈3是懂饥饿营销的",
+      "onboard_time": 1677249120,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217556,
       "num": 217556,
       "word": "杨超越修风扇",
@@ -8425,14 +8465,6 @@
       "onboard_time": 1676918834,
       "rank": 19,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 215341,
-      "num": 209124,
-      "word": "张杰谢娜是晴天夫妇",
-      "onboard_time": 1677248740,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 214978,
@@ -8656,6 +8688,14 @@
       "word": "被执行人何种情况下会限高或失信",
       "onboard_time": 1677249238,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206724,
+      "num": 206724,
+      "word": "关注中国旅美大熊猫",
+      "onboard_time": 1677250832,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -9145,6 +9185,22 @@
       "onboard_time": 1677232708,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190496,
+      "num": 190496,
+      "word": "Hanni米兰时装周新闻图",
+      "onboard_time": 1677248681,
+      "rank": 37,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 190136,
+      "num": 190136,
+      "word": "周深发文告别时光音乐会",
+      "onboard_time": 1677250296,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 190004,
@@ -9803,14 +9859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171200,
-      "num": 171200,
-      "word": "Hanni米兰时装周新闻图",
-      "onboard_time": 1677248681,
-      "rank": 37,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 170365,
       "num": 170365,
       "word": "文紫皮下是重紫",
@@ -10041,6 +10089,14 @@
       "onboard_time": 1677235107,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164757,
+      "num": 164757,
+      "word": "为什么新生儿一定要哭",
+      "onboard_time": 1677251078,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 164693,
@@ -10555,6 +10611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144242,
+      "num": 144242,
+      "word": "狼队战胜TES",
+      "onboard_time": 1677251018,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143793,
       "num": 143793,
       "word": "井柏然夸网友画的兰珏太好了",
@@ -11019,14 +11083,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 121150,
-      "num": 121150,
-      "word": "五哈3是懂饥饿营销的",
-      "onboard_time": 1677249120,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120738,
       "num": 120738,
       "word": "男篮",
@@ -11225,14 +11281,6 @@
       "onboard_time": 1676850626,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107949,
-      "num": 107949,
-      "word": "男子不慎被妻子扎伤在绷带写字留念",
-      "onboard_time": 1677248559,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107655,
@@ -11441,6 +11489,14 @@
       "onboard_time": 1677101171,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72198,
+      "num": 1256156,
+      "word": "新一代载人登月飞船模型首次展出",
+      "onboard_time": 1677250479,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 70894,
