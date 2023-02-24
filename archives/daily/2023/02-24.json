@@ -1,6 +1,6 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677216854764,
+  "endTime": 1677219919144,
   "band_list": [
     {
       "raw_hot": 2530260,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1775403,
-      "num": 1775403,
+      "raw_hot": 1783213,
+      "num": 1783213,
       "word": "男子猝死其母将女友告上法庭判赔16万",
       "onboard_time": 1677213454,
       "rank": 41,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 593074,
+      "num": 593074,
+      "word": "网友称用ChatGPT后被海外大学录取",
+      "onboard_time": 1677213870,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 583820,
       "num": 583820,
       "word": "12岁孩子进店撸猫被拒家长怒怼店员",
@@ -315,20 +323,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 565693,
-      "num": 498994,
-      "word": "网友称用ChatGPT后被海外大学录取",
-      "onboard_time": 1677213870,
-      "rank": 13,
-      "category": "科技"
-    },
-    {
       "raw_hot": 563833,
       "num": 563833,
       "word": "小美人鱼扮演者杂志封面",
       "onboard_time": 1677201208,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 551519,
+      "num": 551519,
+      "word": "农村也出现恐婚恐育群体",
+      "onboard_time": 1677217948,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547607,
+      "num": 547607,
+      "word": "村支书非法占有孤儿生活补贴五年",
+      "onboard_time": 1677214533,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543276,
@@ -369,6 +385,14 @@
       "onboard_time": 1677210749,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513697,
+      "num": 513697,
+      "word": "省考",
+      "onboard_time": 1677217111,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 512240,
@@ -419,6 +443,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 457883,
+      "num": 447604,
+      "word": "出生率下降将直接影响教育行业",
+      "onboard_time": 1677218430,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454523,
       "num": 203739,
       "word": "男子多年求子不得查出竟是女儿身",
@@ -432,6 +464,22 @@
       "word": "四天工作制究竟香不香",
       "onboard_time": 1677201149,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441694,
+      "num": 441694,
+      "word": "网友P的刘诗诗李健合照",
+      "onboard_time": 1677219329,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 437630,
+      "num": 437630,
+      "word": "亮剑丁团长扮演者吐槽药费贵",
+      "onboard_time": 1677214773,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -483,6 +531,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 381615,
+      "num": 381615,
+      "word": "刘雯白色睫毛",
+      "onboard_time": 1677216692,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 367056,
       "num": 367056,
       "word": "女生考研查分后激动到晕倒送医",
@@ -513,14 +569,6 @@
       "onboard_time": 1677213152,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 343360,
-      "num": 343360,
-      "word": "村支书非法占有孤儿生活补贴五年",
-      "onboard_time": 1677214533,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 343349,
@@ -603,14 +651,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 311924,
-      "num": 311924,
-      "word": "亮剑丁团长扮演者吐槽药费贵",
-      "onboard_time": 1677214773,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310884,
       "num": 310884,
       "word": "刘诗诗米兰侧脸路透",
@@ -657,6 +697,14 @@
       "onboard_time": 1677208166,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 287096,
+      "num": 287096,
+      "word": "郑恺 谁会对周一有期待",
+      "onboard_time": 1677219329,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 282636,
@@ -721,6 +769,14 @@
       "onboard_time": 1677166115,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 242749,
+      "num": 242749,
+      "word": "湖人战胜勇士",
+      "onboard_time": 1677218430,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 236255,
@@ -827,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191847,
+      "num": 191847,
+      "word": "建议加强幼儿园性教育政策建设",
+      "onboard_time": 1677217289,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 186844,
       "num": 186844,
       "word": "房贷创新重在发掘消费者潜在需求",
@@ -851,14 +915,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183890,
-      "num": 183890,
-      "word": "刘雯白色睫毛",
-      "onboard_time": 1677216692,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 181097,
       "num": 151495,
       "word": "蔡徐坤秀场氛围感",
@@ -873,6 +929,14 @@
       "onboard_time": 1677170183,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180831,
+      "num": 180831,
+      "word": "四大会计事务所中标多家国企项目",
+      "onboard_time": 1677219149,
+      "rank": 31,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 178688,
@@ -899,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166819,
+      "num": 166819,
+      "word": "Somi宋江同框视频",
+      "onboard_time": 1677218730,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161500,
       "num": 161500,
       "word": "迪马利亚帽子戏法",
@@ -923,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157470,
+      "num": 157470,
+      "word": "如何看未来不少大学或将关停",
+      "onboard_time": 1677219390,
+      "rank": 37,
+      "category": "教育,社会议题"
+    },
+    {
       "raw_hot": 156202,
       "num": 156202,
       "word": "宋雨琦晒与许光汉合照",
@@ -937,6 +1017,14 @@
       "onboard_time": 1677208948,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 154643,
+      "num": 154643,
+      "word": "没有最丑只有更丑的设计",
+      "onboard_time": 1677216931,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 152925,
@@ -1009,6 +1097,14 @@
       "onboard_time": 1677205048,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138529,
+      "num": 138529,
+      "word": "我们的客栈春游之旅",
+      "onboard_time": 1677218910,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 134328,
