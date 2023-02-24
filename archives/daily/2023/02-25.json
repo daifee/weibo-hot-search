@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677256019120,
+  "endTime": 1677257113641,
   "band_list": [
     {
       "raw_hot": 4003829,
@@ -11,16 +11,24 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 2575766,
+      "num": 2575766,
+      "word": "丫丫",
+      "onboard_time": 1677255387,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1597204,
-      "num": 1169298,
+      "num": 1324752,
       "word": "GUCCI CEO",
       "onboard_time": 1677248137,
       "rank": 3,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1191367,
-      "num": 1191367,
+      "raw_hot": 1222610,
+      "num": 1222610,
       "word": "水哥最强大脑5分钟答对15道题",
       "onboard_time": 1677254071,
       "rank": 1,
@@ -51,14 +59,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 896557,
-      "num": 896557,
-      "word": "丫丫",
-      "onboard_time": 1677255387,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 694158,
       "num": 694158,
       "word": "原来有趣的人真的不会无聊",
@@ -67,20 +67,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 683498,
+      "num": 683498,
+      "word": "以爱为营 车内吻",
+      "onboard_time": 1677254607,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 473358,
       "num": 473358,
       "word": "男子不慎被妻子扎伤在绷带写字留念",
       "onboard_time": 1677248559,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 453593,
-      "num": 453593,
-      "word": "以爱为营 车内吻",
-      "onboard_time": 1677254607,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 443817,
@@ -171,6 +171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 220278,
+      "num": 220278,
+      "word": "夏花",
+      "onboard_time": 1677253350,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220085,
       "num": 220085,
       "word": "为什么新生儿一定要哭",
@@ -179,7 +187,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 196903,
+      "raw_hot": 198929,
       "num": 196903,
       "word": "我们的客栈",
       "onboard_time": 1677255924,
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158535,
+      "num": 157302,
+      "word": "王雨城最强黑马",
+      "onboard_time": 1677256944,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150387,
       "num": 150387,
       "word": "张大大直播",
@@ -256,14 +272,6 @@
       "word": "赵丽颖云南拍戏人气",
       "onboard_time": 1677236909,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 134300,
-      "num": 121602,
-      "word": "夏花",
-      "onboard_time": 1677253350,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -281,6 +289,14 @@
       "onboard_time": 1677241950,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117728,
+      "num": 117728,
+      "word": "为什么火锅越来越贵",
+      "onboard_time": 1677256345,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 116740,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 84089,
-      "num": 1170711,
+      "num": 1571215,
       "word": "新一代载人登月飞船模型首次展出",
       "onboard_time": 1677250479,
       "rank": 2,
@@ -372,11 +388,19 @@
     },
     {
       "raw_hot": 83216,
-      "num": 83216,
+      "num": 88260,
       "word": "女孩被老板误会没付款回家哭诉",
       "onboard_time": 1677234569,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82588,
+      "num": 82588,
+      "word": "程潇回国机场饭拍",
+      "onboard_time": 1677256882,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 72511,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#奋进的春天#"
+    },
+    {
+      "word": "#习近平夫妇会见柬埔寨国王和太后#"
     }
   ]
 }
