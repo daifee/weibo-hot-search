@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677235055063,
+  "endTime": 1677237399939,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -179,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2420725,
+      "num": 2420725,
+      "word": "何以琛赵默笙同框",
+      "onboard_time": 1677232949,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2401856,
       "num": 2401856,
       "word": "澳大利亚非法捐精致60个孩子模样相似",
@@ -321,14 +329,6 @@
       "onboard_time": 1677038320,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2007101,
-      "num": 2007101,
-      "word": "何以琛赵默笙同框",
-      "onboard_time": 1677232949,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1997326,
@@ -2611,6 +2611,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 689433,
+      "num": 689433,
+      "word": "官方通报县长涉侵犯女干部",
+      "onboard_time": 1677235167,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686914,
       "num": 686914,
       "word": "复旦团队发布国内首个类ChatGPT模型MOSS",
@@ -3779,6 +3787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 513694,
+      "num": 513694,
+      "word": "女孩被老板误会没付款回家哭诉",
+      "onboard_time": 1677234569,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513648,
       "num": 509716,
       "word": "特朗普访毒列车事发地带1.4万瓶特朗普牌矿泉水",
@@ -4409,6 +4425,14 @@
       "onboard_time": 1677065312,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439225,
+      "num": 439225,
+      "word": "赵丽颖云南拍戏人气",
+      "onboard_time": 1677236909,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 437630,
@@ -5219,6 +5243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 376891,
+      "num": 376891,
+      "word": "徐明浩签售黑屏后回应粉丝",
+      "onboard_time": 1677235646,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376704,
       "num": 376704,
       "word": "无名北美票房",
@@ -5585,6 +5617,14 @@
       "onboard_time": 1676881408,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 354433,
+      "num": 354433,
+      "word": "美方应就所谓摧毁台湾计划作出解释",
+      "onboard_time": 1677230609,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 351650,
@@ -6603,6 +6643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294313,
+      "num": 294313,
+      "word": "怪不得说春江水暖鸭先知",
+      "onboard_time": 1677233907,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293723,
       "num": 293723,
       "word": "真的被美到挪不开眼了",
@@ -6633,14 +6681,6 @@
       "onboard_time": 1676980231,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291626,
-      "num": 291626,
-      "word": "美方应就所谓摧毁台湾计划作出解释",
-      "onboard_time": 1677230609,
-      "rank": 34,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 291134,
@@ -7211,14 +7251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261878,
-      "num": 193887,
-      "word": "怪不得说春江水暖鸭先知",
-      "onboard_time": 1677233907,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 261444,
       "num": 261444,
       "word": "武林外传演男女分手时内心活动",
@@ -7249,6 +7281,14 @@
       "onboard_time": 1677137190,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260338,
+      "num": 260338,
+      "word": "水哥王昱珩今晚下场做题",
+      "onboard_time": 1677237149,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 260048,
@@ -7907,6 +7947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222514,
+      "num": 222514,
+      "word": "夏花海外评论",
+      "onboard_time": 1677232468,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222505,
       "num": 222505,
       "word": "刘涛米兰时装周生图",
@@ -8041,6 +8089,14 @@
       "onboard_time": 1676878287,
       "rank": 44,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 216012,
+      "num": 216012,
+      "word": "维金斯无限期离队",
+      "onboard_time": 1677230968,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 215725,
@@ -8203,14 +8259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208289,
-      "num": 208289,
-      "word": "维金斯无限期离队",
-      "onboard_time": 1677230968,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 208161,
       "num": 208161,
       "word": "重庆列车穿行花海名场面回来了",
@@ -8233,6 +8281,14 @@
       "onboard_time": 1676969130,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207284,
+      "num": 207284,
+      "word": "彭于晏脸部晒伤",
+      "onboard_time": 1677236608,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 207278,
@@ -8625,14 +8681,6 @@
       "onboard_time": 1677226708,
       "rank": 33,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 195694,
-      "num": 195694,
-      "word": "夏花海外评论",
-      "onboard_time": 1677232468,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 195172,
@@ -9435,14 +9483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169802,
-      "num": 169802,
-      "word": "女孩被老板误会没付款回家哭诉",
-      "onboard_time": 1677234569,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169074,
       "num": 169074,
       "word": "Akira说林志玲完美",
@@ -9619,6 +9659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164958,
+      "num": 164958,
+      "word": "Hero宝贝三C",
+      "onboard_time": 1677235107,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164693,
       "num": 164693,
       "word": "联想小新死机黑屏",
@@ -9689,6 +9737,14 @@
       "onboard_time": 1677233067,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162944,
+      "num": 162944,
+      "word": "于正说演员走正道才是王道",
+      "onboard_time": 1677236487,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 162826,
@@ -10027,6 +10083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149263,
+      "num": 149263,
+      "word": "滕王阁序描述的画面照进了现实",
+      "onboard_time": 1677235468,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 149247,
       "num": 149247,
       "word": "热烈",
@@ -10281,6 +10345,14 @@
       "onboard_time": 1677140672,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135705,
+      "num": 135705,
+      "word": "数学能力有遗传基础吗",
+      "onboard_time": 1677236850,
+      "rank": 43,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 135536,
