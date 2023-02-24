@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677263950359,
+  "endTime": 1677266152886,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -54393,6 +54393,14 @@
       "onboard_time": 1676574494,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28152,
+      "num": 28152,
+      "word": "猫急得都快说人话了",
+      "onboard_time": 1677264253,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 27975,
