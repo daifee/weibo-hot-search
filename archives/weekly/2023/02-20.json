@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677242236675,
+  "endTime": 1677243361176,
   "band_list": [
     {
       "raw_hot": 7662033,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2600704,
+      "num": 2600704,
+      "word": "董卿丈夫被国企追债783万元",
+      "onboard_time": 1677240628,
+      "rank": 0,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 2545240,
       "num": 2545240,
       "word": "2.4亿大奖得主3天后现身还捐了100万",
@@ -273,14 +281,6 @@
       "onboard_time": 1677110908,
       "rank": 0,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 2141001,
-      "num": 2141001,
-      "word": "董卿丈夫被国企追债783万元",
-      "onboard_time": 1677240628,
-      "rank": 0,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2111592,
@@ -1299,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1083530,
+      "num": 1083530,
+      "word": "魏无羡的喷子",
+      "onboard_time": 1677240506,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1076711,
       "num": 788107,
       "word": "JYP中国已与腾讯成立合资公司",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1677201327,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 996694,
-      "num": 996694,
-      "word": "魏无羡的喷子",
-      "onboard_time": 1677240506,
-      "rank": 1,
-      "category": "游戏"
     },
     {
       "raw_hot": 993478,
@@ -1905,6 +1905,14 @@
       "onboard_time": 1676952274,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 844347,
+      "num": 844347,
+      "word": "王心凌说别管我跷二郎腿",
+      "onboard_time": 1677240928,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 840643,
@@ -2499,14 +2507,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 711113,
-      "num": 711113,
-      "word": "王心凌说别管我跷二郎腿",
-      "onboard_time": 1677240928,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 710806,
       "num": 710806,
       "word": "会和丑却对你好的人恋爱吗",
@@ -3009,6 +3009,14 @@
       "onboard_time": 1676946811,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 634726,
+      "num": 634726,
+      "word": "SMTOWN艺人今年活动计划",
+      "onboard_time": 1677241950,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 633654,
@@ -4019,6 +4027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494959,
+      "num": 494959,
+      "word": "冰冰重做了吧",
+      "onboard_time": 1677241050,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 494757,
       "num": 494757,
       "word": "王鹤棣时宴雨中撑伞",
@@ -4299,14 +4315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 462862,
-      "num": 462862,
-      "word": "SMTOWN艺人今年活动计划",
-      "onboard_time": 1677241950,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 462379,
       "num": 462379,
       "word": "EXO将发行正规专辑",
@@ -4420,7 +4428,7 @@
     },
     {
       "raw_hot": 448638,
-      "num": 355694,
+      "num": 375954,
       "word": "彭于晏脸部晒伤",
       "onboard_time": 1677236608,
       "rank": 26,
@@ -5540,7 +5548,7 @@
     },
     {
       "raw_hot": 365759,
-      "num": 264981,
+      "num": 322115,
       "word": "五哈",
       "onboard_time": 1676956114,
       "rank": 37,
@@ -7267,14 +7275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 265804,
-      "num": 265804,
-      "word": "冰冰重做了吧",
-      "onboard_time": 1677241050,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 265757,
       "num": 265757,
       "word": "汪东城cosJOJO",
@@ -7595,6 +7595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246437,
+      "num": 246437,
+      "word": "女童玩瑜伽球致跑步机男子摔倒",
+      "onboard_time": 1677242072,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246082,
       "num": 246082,
       "word": "女子分享三年异国恋是如何坚持的",
@@ -7609,6 +7617,14 @@
       "onboard_time": 1676945432,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 243723,
+      "num": 224578,
+      "word": "女士的品格制片人回应安欣撞名",
+      "onboard_time": 1677241647,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 243492,
@@ -8003,6 +8019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225044,
+      "num": 225044,
+      "word": "严厉打击利用风水学说预测股市等行为",
+      "onboard_time": 1677240209,
+      "rank": 34,
+      "category": "财经,国内要闻"
+    },
+    {
       "raw_hot": 224951,
       "num": 224951,
       "word": "战友女儿患白血病13名官兵捐血小板",
@@ -8089,6 +8113,14 @@
       "onboard_time": 1677034892,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221307,
+      "num": 221307,
+      "word": "江苏一男子因赡养问题弑父杀母",
+      "onboard_time": 1677242611,
+      "rank": 27,
+      "category": "社会负面"
     },
     {
       "raw_hot": 220850,
@@ -8665,14 +8697,6 @@
       "onboard_time": 1677050494,
       "rank": 46,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 199305,
-      "num": 199305,
-      "word": "女士的品格制片人回应安欣撞名",
-      "onboard_time": 1677241647,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 199226,
@@ -9299,6 +9323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178832,
+      "num": 178832,
+      "word": "彭冠英王楚然新剧吻戏",
+      "onboard_time": 1677241529,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178694,
       "num": 178694,
       "word": "阿改获得周最佳选手",
@@ -9923,14 +9955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 160875,
-      "num": 151066,
-      "word": "彭冠英王楚然新剧吻戏",
-      "onboard_time": 1677241529,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160867,
       "num": 160867,
       "word": "Hero战胜DYG",
@@ -10131,14 +10155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153478,
-      "num": 153478,
-      "word": "严厉打击利用风水学说预测股市等行为",
-      "onboard_time": 1677240209,
-      "rank": 34,
-      "category": "财经,国内要闻"
-    },
-    {
       "raw_hot": 153434,
       "num": 153434,
       "word": "蛋仔派对失心熊",
@@ -10235,6 +10251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149113,
+      "num": 149113,
+      "word": "百兽关羽刹车踩不住了",
+      "onboard_time": 1677242204,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149073,
       "num": 149073,
       "word": "赵今麦芬兰玩雪vlog",
@@ -10329,6 +10353,14 @@
       "onboard_time": 1677079830,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142912,
+      "num": 142912,
+      "word": "滴水观音有毒不能碰",
+      "onboard_time": 1677242491,
+      "rank": 38,
+      "category": "其它"
     },
     {
       "raw_hot": 142286,
@@ -10617,6 +10649,14 @@
       "onboard_time": 1676885430,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129735,
+      "num": 129735,
+      "word": "什么都AI换脸只会害了你",
+      "onboard_time": 1677242971,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 129507,
@@ -11035,14 +11075,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 95452,
-      "num": 95452,
-      "word": "女童玩瑜伽球致跑步机男子摔倒",
-      "onboard_time": 1677242072,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94999,
       "num": 94999,
       "word": "虞书欣最新直播状态",
@@ -11073,14 +11105,6 @@
       "onboard_time": 1677080189,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 89705,
-      "num": 89705,
-      "word": "百兽关羽刹车踩不住了",
-      "onboard_time": 1677242204,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 88615,

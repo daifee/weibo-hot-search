@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677242236675,
+  "endTime": 1677243361176,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -971,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2600704,
+      "num": 2600704,
+      "word": "董卿丈夫被国企追债783万元",
+      "onboard_time": 1677240628,
+      "rank": 0,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 2598630,
       "num": 2598630,
       "word": "刘强东得子后立即回国工作",
@@ -1657,14 +1665,6 @@
       "onboard_time": 1676680645,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2141001,
-      "num": 2141001,
-      "word": "董卿丈夫被国企追债783万元",
-      "onboard_time": 1677240628,
-      "rank": 0,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 2140749,
@@ -6651,6 +6651,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1083530,
+      "num": 1083530,
+      "word": "魏无羡的喷子",
+      "onboard_time": 1677240506,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1082451,
       "num": 1082451,
       "word": "谷阿莫",
@@ -7569,14 +7577,6 @@
       "onboard_time": 1675699765,
       "rank": 19,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 996694,
-      "num": 996694,
-      "word": "魏无羡的喷子",
-      "onboard_time": 1677240506,
-      "rank": 1,
-      "category": "游戏"
     },
     {
       "raw_hot": 993478,
@@ -9712,6 +9712,14 @@
       "word": "李秀满",
       "onboard_time": 1676511208,
       "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 844347,
+      "num": 844347,
+      "word": "王心凌说别管我跷二郎腿",
+      "onboard_time": 1677240928,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -12555,14 +12563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 711113,
-      "num": 711113,
-      "word": "王心凌说别管我跷二郎腿",
-      "onboard_time": 1677240928,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 710806,
       "num": 710806,
       "word": "会和丑却对你好的人恋爱吗",
@@ -14729,6 +14729,14 @@
       "onboard_time": 1676379156,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 634726,
+      "num": 634726,
+      "word": "SMTOWN艺人今年活动计划",
+      "onboard_time": 1677241950,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 634372,
@@ -19779,6 +19787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 494959,
+      "num": 494959,
+      "word": "冰冰重做了吧",
+      "onboard_time": 1677241050,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 494757,
       "num": 494757,
       "word": "王鹤棣时宴雨中撑伞",
@@ -21163,14 +21179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 462862,
-      "num": 462862,
-      "word": "SMTOWN艺人今年活动计划",
-      "onboard_time": 1677241950,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 462820,
       "num": 462820,
       "word": "辽宁省中医医院一名医生遇袭",
@@ -21796,7 +21804,7 @@
     },
     {
       "raw_hot": 448638,
-      "num": 355694,
+      "num": 375954,
       "word": "彭于晏脸部晒伤",
       "onboard_time": 1677236608,
       "rank": 26,
@@ -34803,14 +34811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 265804,
-      "num": 265804,
-      "word": "冰冰重做了吧",
-      "onboard_time": 1677241050,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 265757,
       "num": 265757,
       "word": "汪东城cosJOJO",
@@ -36651,6 +36651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246437,
+      "num": 246437,
+      "word": "女童玩瑜伽球致跑步机男子摔倒",
+      "onboard_time": 1677242072,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246159,
       "num": 246159,
       "word": "新郎带好友垦荒布置浪漫乡村婚礼",
@@ -36889,6 +36897,14 @@
       "onboard_time": 1676084792,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243723,
+      "num": 224578,
+      "word": "女士的品格制片人回应安欣撞名",
+      "onboard_time": 1677241647,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 243563,
@@ -38859,6 +38875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225044,
+      "num": 225044,
+      "word": "严厉打击利用风水学说预测股市等行为",
+      "onboard_time": 1677240209,
+      "rank": 34,
+      "category": "财经,国内要闻"
+    },
+    {
       "raw_hot": 225033,
       "num": 225033,
       "word": "宋宁峰看张婉婷写给婆婆的话哭了",
@@ -39273,6 +39297,14 @@
       "onboard_time": 1675822287,
       "rank": 34,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 221307,
+      "num": 221307,
+      "word": "江苏一男子因赡养问题弑父杀母",
+      "onboard_time": 1677242611,
+      "rank": 27,
+      "category": "社会负面"
     },
     {
       "raw_hot": 221164,
@@ -41761,14 +41793,6 @@
       "onboard_time": 1676372854,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199305,
-      "num": 199305,
-      "word": "女士的品格制片人回应安欣撞名",
-      "onboard_time": 1677241647,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 199284,
@@ -45099,6 +45123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178832,
+      "num": 178832,
+      "word": "彭冠英王楚然新剧吻戏",
+      "onboard_time": 1677241529,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178823,
       "num": 178823,
       "word": "左航分享自习室vlog",
@@ -47907,14 +47939,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 160875,
-      "num": 151066,
-      "word": "彭冠英王楚然新剧吻戏",
-      "onboard_time": 1677241529,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160867,
       "num": 160867,
       "word": "Hero战胜DYG",
@@ -48739,14 +48763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153478,
-      "num": 153478,
-      "word": "严厉打击利用风水学说预测股市等行为",
-      "onboard_time": 1677240209,
-      "rank": 34,
-      "category": "财经,国内要闻"
-    },
-    {
       "raw_hot": 153434,
       "num": 153434,
       "word": "蛋仔派对失心熊",
@@ -49217,6 +49233,14 @@
       "onboard_time": 1675490366,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149113,
+      "num": 149113,
+      "word": "百兽关羽刹车踩不住了",
+      "onboard_time": 1677242204,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 149073,
@@ -49713,6 +49737,14 @@
       "onboard_time": 1677079830,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142912,
+      "num": 142912,
+      "word": "滴水观音有毒不能碰",
+      "onboard_time": 1677242491,
+      "rank": 38,
+      "category": "其它"
     },
     {
       "raw_hot": 142878,
@@ -51009,6 +51041,14 @@
       "onboard_time": 1675405046,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129735,
+      "num": 129735,
+      "word": "什么都AI换脸只会害了你",
+      "onboard_time": 1677242971,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 129507,
@@ -52547,14 +52587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 95452,
-      "num": 95452,
-      "word": "女童玩瑜伽球致跑步机男子摔倒",
-      "onboard_time": 1677242072,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94999,
       "num": 94999,
       "word": "虞书欣最新直播状态",
@@ -52681,14 +52713,6 @@
       "onboard_time": 1675163257,
       "rank": 38,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 89705,
-      "num": 89705,
-      "word": "百兽关羽刹车踩不住了",
-      "onboard_time": 1677242204,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 88418,
