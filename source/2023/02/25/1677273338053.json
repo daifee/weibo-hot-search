@@ -1,0 +1,410 @@
+{
+  "runTime": 1677273338053,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 396785,
+        "num": 396785,
+        "word": "丫丫",
+        "onboard_time": 1677255387,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195041,
+        "num": 195041,
+        "word": "GUCCI CEO",
+        "onboard_time": 1677248137,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 14435,
+        "num": 87759,
+        "word": "新一代载人登月飞船模型首次展出",
+        "onboard_time": 1677250479,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 79689,
+        "num": 79689,
+        "word": "姐弟恋比例持续攀升",
+        "onboard_time": 1677260176,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78295,
+        "num": 78295,
+        "word": "肖战入场视频",
+        "onboard_time": 1677252334,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 73408,
+        "num": 73408,
+        "word": "水哥最强大脑5分钟答对15道题",
+        "onboard_time": 1677254071,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77086,
+        "num": 72765,
+        "word": "GUCCI",
+        "onboard_time": 1677245911,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 67341,
+        "num": 67341,
+        "word": "原来有趣的人真的不会无聊",
+        "onboard_time": 1677244650,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 61666,
+        "num": 61666,
+        "word": "你会选择单休的工作吗",
+        "onboard_time": 1677258319,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58941,
+        "num": 58941,
+        "word": "孔乙己文学",
+        "onboard_time": 1677245431,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47822,
+        "num": 47822,
+        "word": "小城市房子会越来越不值钱吗",
+        "onboard_time": 1677244650,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 46021,
+        "num": 46021,
+        "word": "蔡天凤",
+        "onboard_time": 1677250180,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 45103,
+        "num": 45103,
+        "word": "为什么火锅越来越贵",
+        "onboard_time": 1677256345,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 37893,
+        "num": 37893,
+        "word": "男子不慎被妻子扎伤在绷带写字留念",
+        "onboard_time": 1677248559,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37248,
+        "num": 37248,
+        "word": "建议减少教师参与网络点赞转发工作",
+        "onboard_time": 1677246211,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35279,
+        "num": 35279,
+        "word": "以爱为营 车内吻",
+        "onboard_time": 1677254607,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31241,
+        "num": 31241,
+        "word": "官方通报县长涉侵犯女干部",
+        "onboard_time": 1677235167,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27835,
+        "num": 27835,
+        "word": "自信的女生的魅力有多大",
+        "onboard_time": 1677257721,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26852,
+        "num": 26852,
+        "word": "程潇回国机场饭拍",
+        "onboard_time": 1677256882,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26366,
+        "num": 26366,
+        "word": "何以琛赵默笙同框",
+        "onboard_time": 1677232949,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36600,
+        "num": 26053,
+        "word": "江苏一男子因赡养问题弑父杀母",
+        "onboard_time": 1677242611,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 24630,
+        "num": 24630,
+        "word": "水哥真帅",
+        "onboard_time": 1677243930,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24276,
+        "num": 24276,
+        "word": "TODS",
+        "onboard_time": 1677251913,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23622,
+        "num": 23622,
+        "word": "张杰小时候因为没钱没上音乐专业课",
+        "onboard_time": 1677260237,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23200,
+        "num": 23200,
+        "word": "文紫被洛音凡关了三年",
+        "onboard_time": 1677260237,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22279,
+        "num": 22279,
+        "word": "为什么新生儿一定要哭",
+        "onboard_time": 1677251078,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21783,
+        "num": 21783,
+        "word": "鹿晗牵小猫手",
+        "onboard_time": 1677246874,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21090,
+        "num": 21090,
+        "word": "关注中国旅美大熊猫",
+        "onboard_time": 1677250832,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20437,
+        "num": 20437,
+        "word": "周深时光音乐会收官花絮vlog",
+        "onboard_time": 1677252931,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20027,
+        "num": 20027,
+        "word": "邓超说30岁前没穿过秋裤",
+        "onboard_time": 1677245189,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19900,
+        "num": 19900,
+        "word": "女童玩瑜伽球致跑步机男子摔倒",
+        "onboard_time": 1677242072,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18638,
+        "num": 19881,
+        "word": "冰冰重做了吧",
+        "onboard_time": 1677241050,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18626,
+        "num": 19880,
+        "word": "王心凌说别管我跷二郎腿",
+        "onboard_time": 1677240928,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19880,
+        "num": 19879,
+        "word": "王雨城最强黑马",
+        "onboard_time": 1677256944,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19085,
+        "num": 19085,
+        "word": "什么都AI换脸只会害了你",
+        "onboard_time": 1677242971,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 18186,
+        "num": 18186,
+        "word": "张大大直播",
+        "onboard_time": 1677243692,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17788,
+        "num": 17788,
+        "word": "夏花",
+        "onboard_time": 1677253350,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16468,
+        "num": 16468,
+        "word": "猫急得都快说人话了",
+        "onboard_time": 1677264253,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15600,
+        "num": 15600,
+        "word": "魏无羡的喷子",
+        "onboard_time": 1677240506,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15331,
+        "num": 15331,
+        "word": "李宇春看秀",
+        "onboard_time": 1677248375,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 15306,
+        "num": 15306,
+        "word": "赵丽颖云南拍戏人气",
+        "onboard_time": 1677236909,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15054,
+        "num": 15054,
+        "word": "滴水观音有毒不能碰",
+        "onboard_time": 1677242491,
+        "rank": 41,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 14717,
+        "num": 14717,
+        "word": "彭于晏脸部晒伤",
+        "onboard_time": 1677236608,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14310,
+        "num": 14310,
+        "word": "85岁老人想娶60岁女友遭子女反对",
+        "onboard_time": 1677229048,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13676,
+        "num": 13676,
+        "word": "我们的客栈",
+        "onboard_time": 1677255924,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13655,
+        "num": 13655,
+        "word": "女孩被老板误会没付款回家哭诉",
+        "onboard_time": 1677234569,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12848,
+        "num": 12848,
+        "word": "我们的客栈宋亚轩下期预告",
+        "onboard_time": 1677255685,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12403,
+        "num": 12403,
+        "word": "王源毕业季演唱会",
+        "onboard_time": 1677252272,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12197,
+        "num": 12197,
+        "word": "吴京现身中国乒乓校园路演",
+        "onboard_time": 1677252690,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11377,
+        "num": 12030,
+        "word": "WBG胜利吃鸡",
+        "onboard_time": 1677254455,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#雷锋的故事为何被传颂了大半个世纪#"
+    }
+  }
+}
