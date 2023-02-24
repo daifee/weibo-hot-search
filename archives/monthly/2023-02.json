@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677252879151,
+  "endTime": 1677256019120,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -5531,6 +5531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1191367,
+      "num": 1191367,
+      "word": "水哥最强大脑5分钟答对15道题",
+      "onboard_time": 1677254071,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1189353,
       "num": 1189353,
       "word": "男孩举手后身亡校方自称无过错",
@@ -6481,6 +6489,14 @@
       "onboard_time": 1676532033,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1104987,
+      "num": 1104987,
+      "word": "TODS",
+      "onboard_time": 1677251913,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1103368,
@@ -11115,14 +11131,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 774447,
-      "num": 774447,
-      "word": "TODS",
-      "onboard_time": 1677251913,
-      "rank": 8,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 774176,
       "num": 774176,
       "word": "蔚来试驾车冲进人行道致一死一伤",
@@ -13185,6 +13193,14 @@
       "onboard_time": 1676365896,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694158,
+      "num": 694158,
+      "word": "原来有趣的人真的不会无聊",
+      "onboard_time": 1677244650,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 694026,
@@ -18955,14 +18971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 518318,
-      "num": 518318,
-      "word": "原来有趣的人真的不会无聊",
-      "onboard_time": 1677244650,
-      "rank": 36,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 518209,
       "num": 518209,
       "word": "安欣熊猫血",
@@ -21681,6 +21689,14 @@
       "onboard_time": 1676939548,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453593,
+      "num": 453593,
+      "word": "以爱为营 车内吻",
+      "onboard_time": 1677254607,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 453445,
@@ -38067,6 +38083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234301,
+      "num": 221737,
+      "word": "我们的客栈宋亚轩下期预告",
+      "onboard_time": 1677255685,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234294,
       "num": 234294,
       "word": "鞠婧祎兜风vlog",
@@ -42435,6 +42459,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 196903,
+      "num": 196903,
+      "word": "我们的客栈",
+      "onboard_time": 1677255924,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196866,
       "num": 196866,
       "word": "看出来双方的父亲相处得融洽了",
@@ -45425,6 +45457,14 @@
       "onboard_time": 1676079147,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178957,
+      "num": 178957,
+      "word": "丁程鑫新歌一起跳舞吧",
+      "onboard_time": 1677255746,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 178881,
@@ -52211,6 +52251,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 115968,
+      "num": 122337,
+      "word": "这狗真的很滑稽",
+      "onboard_time": 1677253470,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115853,
       "num": 115853,
       "word": "贾冰保你平安拍摄花絮",
@@ -53177,6 +53225,14 @@
       "onboard_time": 1675792036,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84240,
+      "num": 84240,
+      "word": "WBG胜利吃鸡",
+      "onboard_time": 1677254455,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 84234,

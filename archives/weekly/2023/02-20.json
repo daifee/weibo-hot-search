@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677252879151,
+  "endTime": 1677256019120,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -1099,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1191367,
+      "num": 1191367,
+      "word": "水哥最强大脑5分钟答对15道题",
+      "onboard_time": 1677254071,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1187986,
       "num": 1187986,
       "word": "专家称未来不少大学将关停",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1677030450,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1104987,
+      "num": 1104987,
+      "word": "TODS",
+      "onboard_time": 1677251913,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1103029,
@@ -2259,14 +2275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 774447,
-      "num": 774447,
-      "word": "TODS",
-      "onboard_time": 1677251913,
-      "rank": 8,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 773358,
       "num": 773358,
       "word": "考研查分瞬间太真实了",
@@ -2705,6 +2713,14 @@
       "onboard_time": 1676964329,
       "rank": 18,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 694158,
+      "num": 694158,
+      "word": "原来有趣的人真的不会无聊",
+      "onboard_time": 1677244650,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 693965,
@@ -3939,14 +3955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 518318,
-      "num": 518318,
-      "word": "原来有趣的人真的不会无聊",
-      "onboard_time": 1677244650,
-      "rank": 36,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 517379,
       "num": 517379,
       "word": "香香丫丫待遇为何差距大",
@@ -4529,6 +4537,14 @@
       "onboard_time": 1676939548,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453593,
+      "num": 453593,
+      "word": "以爱为营 车内吻",
+      "onboard_time": 1677254607,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 451417,
@@ -8059,6 +8075,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 234301,
+      "num": 221737,
+      "word": "我们的客栈宋亚轩下期预告",
+      "onboard_time": 1677255685,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234238,
       "num": 234238,
       "word": "假如狂飙发生在屯子里",
@@ -9059,6 +9083,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 196903,
+      "num": 196903,
+      "word": "我们的客栈",
+      "onboard_time": 1677255924,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196724,
       "num": 196724,
       "word": "天空之城将重映",
@@ -9641,6 +9673,14 @@
       "onboard_time": 1676985332,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178957,
+      "num": 178957,
+      "word": "丁程鑫新歌一起跳舞吧",
+      "onboard_time": 1677255746,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 178832,
@@ -11235,6 +11275,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 115968,
+      "num": 122337,
+      "word": "这狗真的很滑稽",
+      "onboard_time": 1677253470,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115853,
       "num": 115853,
       "word": "贾冰保你平安拍摄花絮",
@@ -11473,6 +11521,14 @@
       "onboard_time": 1676932215,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84240,
+      "num": 84240,
+      "word": "WBG胜利吃鸡",
+      "onboard_time": 1677254455,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 82839,
