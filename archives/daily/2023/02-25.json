@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677257113641,
+  "endTime": 1677259094048,
   "band_list": [
     {
       "raw_hot": 4003829,
@@ -11,8 +11,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 2575766,
-      "num": 2575766,
+      "raw_hot": 2878817,
+      "num": 2878817,
       "word": "丫丫",
       "onboard_time": 1677255387,
       "rank": 6,
@@ -89,6 +89,14 @@
       "onboard_time": 1677246211,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393979,
+      "num": 393979,
+      "word": "为什么火锅越来越贵",
+      "onboard_time": 1677256345,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 380350,
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143583,
+      "num": 143583,
+      "word": "程潇回国机场饭拍",
+      "onboard_time": 1677256882,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139512,
       "num": 139512,
       "word": "赵丽颖云南拍戏人气",
@@ -289,14 +305,6 @@
       "onboard_time": 1677241950,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 117728,
-      "num": 117728,
-      "word": "为什么火锅越来越贵",
-      "onboard_time": 1677256345,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 116740,
@@ -355,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92727,
+      "num": 92727,
+      "word": "自信的女生的魅力有多大",
+      "onboard_time": 1677257721,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87668,
       "num": 87668,
       "word": "女童玩瑜伽球致跑步机男子摔倒",
@@ -395,12 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82588,
-      "num": 82588,
-      "word": "程潇回国机场饭拍",
-      "onboard_time": 1677256882,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 78898,
+      "num": 78898,
+      "word": "宋亚轩在角落里打哈欠",
+      "onboard_time": 1677254249,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 73987,
+      "num": 73987,
+      "word": "你会选择单休的工作吗",
+      "onboard_time": 1677258319,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 72511,
@@ -425,6 +449,14 @@
       "onboard_time": 1677230609,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 41496,
+      "num": 41496,
+      "word": "EXO将发行正规专辑",
+      "onboard_time": 1677240868,
+      "rank": 49,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
