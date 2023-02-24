@@ -1,7 +1,15 @@
 {
   "startTime": 1677169663106,
-  "endTime": 1677203958361,
+  "endTime": 1677206964237,
   "band_list": [
+    {
+      "raw_hot": 2454963,
+      "num": 2454963,
+      "word": "县长涉嫌性侵挂职女干部被停职",
+      "onboard_time": 1677203847,
+      "rank": 41,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2141826,
       "num": 1037250,
@@ -63,6 +71,14 @@
       "num": 983382,
       "word": "四省联考",
       "onboard_time": 1677166708,
+      "rank": 1,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 966077,
+      "num": 966077,
+      "word": "央企幼儿园首次对外招生",
+      "onboard_time": 1677204868,
       "rank": 1,
       "category": "教育,社会新闻"
     },
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 700419,
-      "num": 298716,
+      "num": 343533,
       "word": "民警逛街一手喝奶茶一手抓嫌犯",
       "onboard_time": 1677197912,
       "rank": 20,
@@ -185,6 +201,22 @@
       "onboard_time": 1677200611,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483240,
+      "num": 450577,
+      "word": "网友米兰偶遇孔雪儿",
+      "onboard_time": 1677204209,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 471867,
+      "num": 471867,
+      "word": "云南3岁男童与2陌生女孩玩后失踪",
+      "onboard_time": 1677204209,
+      "rank": 8,
+      "category": "社会负面"
     },
     {
       "raw_hot": 454523,
@@ -227,6 +259,38 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 392775,
+      "num": 392775,
+      "word": "刘亚仁体毛检测阳性",
+      "onboard_time": 1677206786,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 391568,
+      "num": 391568,
+      "word": "京东百亿补贴已上线测试",
+      "onboard_time": 1677204209,
+      "rank": 15,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 374198,
+      "num": 374198,
+      "word": "陆虎与跳伞教练是同一赛区选手",
+      "onboard_time": 1677203368,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 369825,
+      "num": 369825,
+      "word": "鼓励生育先要缓解年轻人婚姻焦虑",
+      "onboard_time": 1677206006,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367056,
       "num": 367056,
       "word": "女生考研查分后激动到晕倒送医",
@@ -249,6 +313,14 @@
       "onboard_time": 1677195745,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 338979,
+      "num": 338979,
+      "word": "德云社节目单",
+      "onboard_time": 1677204689,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 337225,
@@ -307,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295833,
+      "num": 295833,
+      "word": "95后女生放弃安稳生活专职科普植物",
+      "onboard_time": 1677203066,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282636,
       "num": 282636,
       "word": "曼联2比1巴萨",
@@ -323,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277774,
+      "num": 277774,
+      "word": "世界讨厌香菜日",
+      "onboard_time": 1677206067,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 270727,
       "num": 270727,
       "word": "陈乔恩说如果能重来不会公开恋情",
@@ -331,12 +419,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263695,
+      "num": 263695,
+      "word": "警方回应男子地铁口打抱娃女子",
+      "onboard_time": 1677203728,
+      "rank": 45,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 261611,
       "num": 261611,
       "word": "蔡徐坤杜鹃同框",
       "onboard_time": 1677166115,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 223784,
+      "num": 223784,
+      "word": "iPhone15USBC口或获利超50亿美元",
+      "onboard_time": 1677204387,
+      "rank": 29,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 219990,
+      "num": 219990,
+      "word": "拉莫斯退出西班牙国家队",
+      "onboard_time": 1677204089,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 213601,
@@ -368,6 +480,14 @@
       "word": "中国最后的沙漠村落",
       "onboard_time": 1677202227,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197907,
+      "num": 197907,
+      "word": "女子下班途中被狗撞伤被判工伤",
+      "onboard_time": 1677206428,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -427,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177990,
-      "num": 177990,
-      "word": "陆虎与跳伞教练是同一赛区选手",
-      "onboard_time": 1677203368,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176521,
       "num": 176521,
       "word": "委员提案独生子女父母养老政府解决",
@@ -467,14 +579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160423,
-      "num": 160423,
-      "word": "95后女生放弃安稳生活专职科普植物",
-      "onboard_time": 1677203066,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160152,
       "num": 160152,
       "word": "九月哭了",
@@ -497,6 +601,14 @@
       "onboard_time": 1677161015,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148902,
+      "num": 148902,
+      "word": "女子早八买的手机比自己先到公司",
+      "onboard_time": 1677204446,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148596,
@@ -531,12 +643,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139638,
+      "num": 139638,
+      "word": "朴智旻solo专辑歌单公开",
+      "onboard_time": 1677205048,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134328,
       "num": 134328,
       "word": "实探上海巴奴火锅土豆11元6片",
       "onboard_time": 1677182651,
       "rank": 29,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 131940,
+      "num": 131940,
+      "word": "韦恩斯坦再被判刑16年",
+      "onboard_time": 1677204146,
+      "rank": 42,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 128753,
@@ -569,14 +697,6 @@
       "onboard_time": 1677150210,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121020,
-      "num": 121020,
-      "word": "县长涉嫌性侵挂职女干部被停职",
-      "onboard_time": 1677203847,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119460,
@@ -635,6 +755,14 @@
       "category": "影视,科技"
     },
     {
+      "raw_hot": 110315,
+      "num": 110315,
+      "word": "今日宜加油热带雨林海报",
+      "onboard_time": 1677206549,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 106410,
       "num": 106410,
       "word": "李玟 希望你们可以等我回来",
@@ -681,14 +809,6 @@
       "onboard_time": 1677164615,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99016,
-      "num": 99016,
-      "word": "警方回应男子地铁口打抱娃女子",
-      "onboard_time": 1677203728,
-      "rank": 45,
-      "category": "社会负面"
     },
     {
       "raw_hot": 97888,
