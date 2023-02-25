@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677309405474,
+  "endTime": 1677310424066,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -65,6 +65,14 @@
       "onboard_time": 1677159271,
       "rank": 3,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 3885320,
+      "num": 3885320,
+      "word": "蔡天凤前夫落网",
+      "onboard_time": 1677309627,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3878918,
@@ -1123,6 +1131,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1259165,
+      "num": 1259165,
+      "word": "川籍华人飞3000公里看丫丫哭了",
+      "onboard_time": 1677306927,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1247603,
       "num": 1247603,
       "word": "建议减少教师参与网络点赞转发工作",
@@ -1371,14 +1387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1114838,
-      "num": 1114838,
-      "word": "川籍华人飞3000公里看丫丫哭了",
-      "onboard_time": 1677306927,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1111382,
       "num": 1111382,
       "word": "女子无意找到30年前钱包内含巨款",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1676895928,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1032162,
+      "num": 326341,
+      "word": "林娜琏烤瓷牙",
+      "onboard_time": 1677309507,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1028309,
@@ -4835,6 +4851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457805,
+      "num": 324931,
+      "word": "男子地摊套娃娃发现内藏摄像头",
+      "onboard_time": 1677309206,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457713,
       "num": 457713,
       "word": "魏晨大侦探8绿色外套造型",
@@ -7467,6 +7491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294937,
+      "num": 294937,
+      "word": "快船国王合砍351分",
+      "onboard_time": 1677308607,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294313,
       "num": 294313,
       "word": "怪不得说春江水暖鸭先知",
@@ -8187,6 +8219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259469,
+      "num": 259469,
+      "word": "宋威龙工作室声明",
+      "onboard_time": 1677309026,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259229,
       "num": 259229,
       "word": "奶油日记",
@@ -8249,6 +8289,14 @@
       "onboard_time": 1676897975,
       "rank": 36,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 255007,
+      "num": 186641,
+      "word": "威少失误把湖人球迷看PTSD了",
+      "onboard_time": 1677309146,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 254603,
@@ -8329,6 +8377,14 @@
       "onboard_time": 1676956114,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251658,
+      "num": 251658,
+      "word": "国家医保局答记者问",
+      "onboard_time": 1677305307,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251502,
@@ -8483,6 +8539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 241427,
+      "num": 241427,
+      "word": "苹果回应偷看密码后再偷iPhone",
+      "onboard_time": 1677309807,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 240479,
       "num": 240479,
       "word": "金字塔内部是这样的",
@@ -8505,14 +8569,6 @@
       "onboard_time": 1677132808,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 239512,
-      "num": 239512,
-      "word": "宋威龙工作室声明",
-      "onboard_time": 1677309026,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 239251,
@@ -8763,14 +8819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229140,
-      "num": 229140,
-      "word": "国家医保局答记者问",
-      "onboard_time": 1677305307,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229104,
       "num": 229104,
       "word": "彭冠英王楚然片场精神状态",
@@ -9017,14 +9065,6 @@
       "onboard_time": 1676980772,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218703,
-      "num": 218703,
-      "word": "快船国王合砍351分",
-      "onboard_time": 1677308607,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 217744,
@@ -9281,6 +9321,14 @@
       "onboard_time": 1677121589,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208379,
+      "num": 208379,
+      "word": "李一桐双麻花辫",
+      "onboard_time": 1677310166,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208161,
@@ -9833,14 +9881,6 @@
       "onboard_time": 1676957309,
       "rank": 45,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 194182,
-      "num": 186641,
-      "word": "威少失误把湖人球迷看PTSD了",
-      "onboard_time": 1677309146,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 194124,
@@ -11435,6 +11475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144721,
+      "num": 144721,
+      "word": "李嘉琦晒与陈瑜周末合照",
+      "onboard_time": 1677310166,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144328,
       "num": 144328,
       "word": "肖战谈直通赛首设混双项目",
@@ -11513,6 +11561,14 @@
       "onboard_time": 1676943154,
       "rank": 48,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 142195,
+      "num": 142195,
+      "word": "考公为什么会越来越卷",
+      "onboard_time": 1677310046,
+      "rank": 35,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 142001,
@@ -11827,14 +11883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129286,
-      "num": 129286,
-      "word": "男子地摊套娃娃发现内藏摄像头",
-      "onboard_time": 1677309206,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128753,
       "num": 128753,
       "word": "北京朝霞",
@@ -11937,6 +11985,14 @@
       "onboard_time": 1676887529,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124233,
+      "num": 124233,
+      "word": "王昱珩说赚钱这事是最简单的",
+      "onboard_time": 1677310347,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 123812,
