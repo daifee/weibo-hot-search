@@ -1,0 +1,410 @@
+{
+  "runTime": 1677324818442,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1438395,
+        "num": 1438395,
+        "word": "省考",
+        "onboard_time": 1677315449,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1059983,
+        "num": 1059983,
+        "word": "博主三亚买3888元海鲜被提醒多花1700",
+        "onboard_time": 1677322709,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56562,
+        "num": 844303,
+        "word": "金黄油菜花海与蓝天配色好搭",
+        "onboard_time": 1677297392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787133,
+        "num": 787133,
+        "word": "TT 可惜",
+        "onboard_time": 1677319645,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 693863,
+        "num": 693863,
+        "word": "美国务卿说不喜欢看到大国欺凌他国",
+        "onboard_time": 1677322650,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 676784,
+        "num": 676784,
+        "word": "日本网友2020年已发起拯救丫丫的请愿",
+        "onboard_time": 1677312626,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580068,
+        "num": 580068,
+        "word": "EDG 打麻将",
+        "onboard_time": 1677321328,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 533542,
+        "num": 533542,
+        "word": "申论",
+        "onboard_time": 1677297028,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 504328,
+        "num": 504328,
+        "word": "众星为李一桐新剧打call",
+        "onboard_time": 1677314969,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441140,
+        "num": 441140,
+        "word": "aespa演唱会",
+        "onboard_time": 1677317428,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1835441,
+        "num": 441074,
+        "word": "高叶真空西装",
+        "onboard_time": 1677320128,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 564897,
+        "num": 440947,
+        "word": "川籍华人飞3000公里看丫丫哭了",
+        "onboard_time": 1677306927,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833247,
+        "num": 440841,
+        "word": "胡烨韬造型",
+        "onboard_time": 1677321568,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 491469,
+        "num": 440739,
+        "word": "钟欣潼米兰看秀红裙造型",
+        "onboard_time": 1677323247,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 479362,
+        "num": 440707,
+        "word": "谭仔米线",
+        "onboard_time": 1677303568,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 440636,
+        "num": 440636,
+        "word": "诟病",
+        "onboard_time": 1677321868,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349211,
+        "num": 349211,
+        "word": "听说你喜欢我",
+        "onboard_time": 1677323129,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322526,
+        "num": 322526,
+        "word": "商丘公交司机称工资已全部发下",
+        "onboard_time": 1677319227,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304981,
+        "num": 304981,
+        "word": "五哈3观后感",
+        "onboard_time": 1677323247,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303191,
+        "num": 303191,
+        "word": "任素汐对自己太狠了",
+        "onboard_time": 1677318929,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 632582,
+        "num": 297958,
+        "word": "1岁男童误食降糖药成植物人",
+        "onboard_time": 1677316406,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288027,
+        "num": 288027,
+        "word": "男子地摊套娃娃发现内藏摄像头",
+        "onboard_time": 1677309206,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282347,
+        "num": 282347,
+        "word": "王昱珩说赚钱这事是最简单的",
+        "onboard_time": 1677310347,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272682,
+        "num": 272682,
+        "word": "周杰伦演唱会附近酒店涨价三倍",
+        "onboard_time": 1677311729,
+        "rank": 23,
+        "category": "音乐,财经"
+      },
+      {
+        "raw_hot": 260827,
+        "num": 260827,
+        "word": "泽连斯基强忍泪水诉苦",
+        "onboard_time": 1677312927,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 266954,
+        "num": 260717,
+        "word": "林娜琏烤瓷牙",
+        "onboard_time": 1677309507,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265260,
+        "num": 260701,
+        "word": "柳智敏独舞",
+        "onboard_time": 1677323549,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260595,
+        "num": 260595,
+        "word": "丁禹兮回应被扎针花絮",
+        "onboard_time": 1677316528,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237525,
+        "num": 237525,
+        "word": "不如回溯到S8",
+        "onboard_time": 1677315509,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234614,
+        "num": 234614,
+        "word": "这个班没他就散了",
+        "onboard_time": 1677312327,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286128,
+        "num": 233444,
+        "word": "丫丫 乞食",
+        "onboard_time": 1677293547,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231908,
+        "num": 231908,
+        "word": "女子与前夫摆拍家暴完整监控曝光",
+        "onboard_time": 1677323427,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229433,
+        "num": 229433,
+        "word": "考公路上的那些酸甜苦辣",
+        "onboard_time": 1677321748,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 226631,
+        "num": 226631,
+        "word": "彭冠英王楚然现场还原名场面",
+        "onboard_time": 1677323489,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221145,
+        "num": 221145,
+        "word": "考公为什么会越来越卷",
+        "onboard_time": 1677310046,
+        "rank": 34,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 209981,
+        "num": 209981,
+        "word": "张天爱纯黑拽姐造型",
+        "onboard_time": 1677324393,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 209433,
+        "num": 209433,
+        "word": "谭维维海滩椰林大片",
+        "onboard_time": 1677324269,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 203400,
+        "num": 203400,
+        "word": "苹果回应偷看密码后再偷iPhone",
+        "onboard_time": 1677309807,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 201927,
+        "num": 201927,
+        "word": "苹果或在4月推出15.5寸MacBookAir",
+        "onboard_time": 1677313107,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 313848,
+        "num": 201180,
+        "word": "搜狐时尚盛典",
+        "onboard_time": 1677322829,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200252,
+        "num": 200252,
+        "word": "光渊到底更不更",
+        "onboard_time": 1677318327,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189714,
+        "num": 189714,
+        "word": "RNG 暂停",
+        "onboard_time": 1677313886,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187098,
+        "num": 187098,
+        "word": "LPL",
+        "onboard_time": 1677323969,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185051,
+        "num": 185051,
+        "word": "蔡依林黑色漏腰西装造型",
+        "onboard_time": 1677321810,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 154173,
+        "num": 154173,
+        "word": "SNH48年度金曲大赏",
+        "onboard_time": 1677320668,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139935,
+        "num": 139935,
+        "word": "蔡徐坤线上演唱会邀请视频",
+        "onboard_time": 1677310826,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139394,
+        "num": 139394,
+        "word": "海外出生的大熊猫仍属于中国所有",
+        "onboard_time": 1677310766,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138883,
+        "num": 138883,
+        "word": "乌总统称目前没有与普京谈判可能",
+        "onboard_time": 1677316528,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 131686,
+        "num": 131686,
+        "word": "宋茜路演",
+        "onboard_time": 1677312026,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129340,
+        "num": 129340,
+        "word": "婚纱日常化",
+        "onboard_time": 1677315088,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的民生关切#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677323701270,
+  "endTime": 1677324818442,
   "band_list": [
     {
       "raw_hot": 9510697,
@@ -91,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1751503,
-      "num": 400591,
+      "raw_hot": 1835441,
+      "num": 441074,
       "word": "高叶真空西装",
       "onboard_time": 1677320128,
       "rank": 28,
@@ -211,6 +211,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1059983,
+      "num": 1059983,
+      "word": "博主三亚买3888元海鲜被提醒多花1700",
+      "onboard_time": 1677322709,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1059566,
       "num": 709900,
       "word": "1岁男童误食降糖药成植物人",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 886293,
-      "num": 342738,
+      "num": 440841,
       "word": "胡烨韬造型",
       "onboard_time": 1677321568,
       "rank": 12,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 818545,
-      "num": 234842,
+      "num": 260701,
       "word": "柳智敏独舞",
       "onboard_time": 1677323549,
       "rank": 30,
@@ -313,6 +321,14 @@
       "onboard_time": 1677287486,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 787133,
+      "num": 787133,
+      "word": "TT 可惜",
+      "onboard_time": 1677319645,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 785692,
@@ -387,20 +403,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 705997,
-      "num": 705997,
-      "word": "TT 可惜",
-      "onboard_time": 1677319645,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 694158,
       "num": 694158,
       "word": "原来有趣的人真的不会无聊",
       "onboard_time": 1677244650,
       "rank": 8,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 693863,
+      "num": 693863,
+      "word": "美国务卿说不喜欢看到大国欺凌他国",
+      "onboard_time": 1677322650,
+      "rank": 19,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 683498,
@@ -475,8 +491,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 578940,
-      "num": 340626,
+      "raw_hot": 580068,
+      "num": 580068,
       "word": "EDG 打麻将",
       "onboard_time": 1677321328,
       "rank": 13,
@@ -531,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491469,
+      "num": 440739,
+      "word": "钟欣潼米兰看秀红裙造型",
+      "onboard_time": 1677323247,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 487285,
       "num": 487285,
       "word": "多省份公务员扩招",
@@ -545,14 +569,6 @@
       "onboard_time": 1677317428,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 476694,
-      "num": 339446,
-      "word": "博主三亚买3888元海鲜被提醒多花1700",
-      "onboard_time": 1677322709,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 473358,
@@ -580,7 +596,7 @@
     },
     {
       "raw_hot": 456140,
-      "num": 338113,
+      "num": 440636,
       "word": "诟病",
       "onboard_time": 1677321868,
       "rank": 15,
@@ -811,6 +827,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 349211,
+      "num": 349211,
+      "word": "听说你喜欢我",
+      "onboard_time": 1677323129,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 342045,
       "num": 342045,
       "word": "白宫发言人把拜登说成奥巴马",
@@ -865,14 +889,6 @@
       "onboard_time": 1677298712,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 333091,
-      "num": 333091,
-      "word": "美国务卿说不喜欢看到大国欺凌他国",
-      "onboard_time": 1677322650,
-      "rank": 19,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 327150,
@@ -953,14 +969,6 @@
       "onboard_time": 1677291207,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 288875,
-      "num": 288875,
-      "word": "钟欣潼米兰看秀红裙造型",
-      "onboard_time": 1677323247,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 283464,
@@ -1131,14 +1139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240293,
-      "num": 234312,
-      "word": "听说你喜欢我",
-      "onboard_time": 1677323129,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 236466,
       "num": 236466,
       "word": "SNH48年度金曲大赏",
@@ -1161,6 +1161,14 @@
       "onboard_time": 1677280760,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 231908,
+      "num": 231908,
+      "word": "女子与前夫摆拍家暴完整监控曝光",
+      "onboard_time": 1677323427,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231545,
@@ -1249,6 +1257,22 @@
       "onboard_time": 1677307946,
       "rank": 23,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 209981,
+      "num": 209981,
+      "word": "张天爱纯黑拽姐造型",
+      "onboard_time": 1677324393,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 209433,
+      "num": 209433,
+      "word": "谭维维海滩椰林大片",
+      "onboard_time": 1677324269,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208379,
@@ -1353,6 +1377,14 @@
       "onboard_time": 1677290068,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187098,
+      "num": 187098,
+      "word": "LPL",
+      "onboard_time": 1677323969,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 186707,
@@ -1633,14 +1665,6 @@
       "onboard_time": 1677317907,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126988,
-      "num": 126988,
-      "word": "女子与前夫摆拍家暴完整监控曝光",
-      "onboard_time": 1677323427,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124661,
