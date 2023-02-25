@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677349366287,
+  "endTime": 1677350223793,
   "band_list": [
     {
       "raw_hot": 924122,
@@ -363,6 +363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 102754,
+      "num": 102754,
+      "word": "看视频觉异样男子跨城救下垂危小狗",
+      "onboard_time": 1677347597,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101367,
       "num": 101367,
       "word": "佘诗曼夸周柯宇",
@@ -393,14 +401,6 @@
       "onboard_time": 1677337196,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75226,
-      "num": 75226,
-      "word": "看视频觉异样男子跨城救下垂危小狗",
-      "onboard_time": 1677347597,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75031,
@@ -435,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 54861,
+      "num": 54861,
+      "word": "皇马vs马竞",
+      "onboard_time": 1677347656,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45998,
       "num": 66985,
       "word": "RNG战胜TT",
@@ -443,12 +451,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 41963,
-      "num": 41963,
-      "word": "皇马vs马竞",
-      "onboard_time": 1677347656,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 26455,
+      "num": 28943,
+      "word": "于文文透露前任4今年上映",
+      "onboard_time": 1677327690,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 25873,
