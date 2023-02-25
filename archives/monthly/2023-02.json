@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677352496160,
+  "endTime": 1677353602589,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -55811,6 +55811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 55698,
+      "num": 55698,
+      "word": "皇马vs马竞",
+      "onboard_time": 1677347656,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55688,
       "num": 55688,
       "word": "你会邀请前任参加你的婚礼吗",
@@ -55857,14 +55865,6 @@
       "onboard_time": 1676125775,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54935,
-      "num": 54935,
-      "word": "皇马vs马竞",
-      "onboard_time": 1677347656,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 54629,
