@@ -1,0 +1,410 @@
+{
+  "runTime": 1677302247159,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1944934,
+        "num": 1944934,
+        "word": "清明假期不调休",
+        "onboard_time": 1677297090,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1250726,
+        "num": 1250726,
+        "word": "行测",
+        "onboard_time": 1677284365,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 178578,
+        "num": 1102496,
+        "word": "金黄油菜花海与蓝天配色好搭",
+        "onboard_time": 1677297392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1591855,
+        "num": 1096970,
+        "word": "香港名媛遭谋杀警方已拘捕3人",
+        "onboard_time": 1677298771,
+        "rank": 3,
+        "category": "社会负面,艺人"
+      },
+      {
+        "raw_hot": 1086144,
+        "num": 1086144,
+        "word": "申论",
+        "onboard_time": 1677297028,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 760542,
+        "num": 760542,
+        "word": "乌梅子酱 口水歌",
+        "onboard_time": 1677286585,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 671455,
+        "num": 671455,
+        "word": "2040年参加高考人数或不到600万",
+        "onboard_time": 1677293066,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 605009,
+        "num": 605009,
+        "word": "你认为存多少钱能有安全感",
+        "onboard_time": 1677296069,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 561579,
+        "num": 561579,
+        "word": "省考",
+        "onboard_time": 1677280939,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 525888,
+        "num": 525888,
+        "word": "巴奴火锅创始人再回应天价土豆",
+        "onboard_time": 1677300693,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1451133,
+        "num": 503529,
+        "word": "肖战上意大利电视了",
+        "onboard_time": 1677299069,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 468922,
+        "num": 468922,
+        "word": "诗情画奕",
+        "onboard_time": 1677300931,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636128,
+        "num": 467433,
+        "word": "张嘉倪露背私服好辣",
+        "onboard_time": 1677295888,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 463115,
+        "num": 463115,
+        "word": "资料分析",
+        "onboard_time": 1677297753,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 439418,
+        "num": 439418,
+        "word": "金泰亨把口罩当成护目镜",
+        "onboard_time": 1677300211,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425900,
+        "num": 425900,
+        "word": "杨蓉也买不到完美的光腿神器",
+        "onboard_time": 1677301471,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397679,
+        "num": 397679,
+        "word": "广东省考 难",
+        "onboard_time": 1677291507,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 331832,
+        "num": 331832,
+        "word": "行测常识",
+        "onboard_time": 1677298650,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 325783,
+        "num": 325783,
+        "word": "范世錡李一桐cp氛围感",
+        "onboard_time": 1677298712,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313844,
+        "num": 313844,
+        "word": "iPhone15Pro将配备LiDAR传感器",
+        "onboard_time": 1677296247,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 808735,
+        "num": 310862,
+        "word": "香港名媛蔡天凤遭谋杀",
+        "onboard_time": 1677281060,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 307789,
+        "num": 307789,
+        "word": "丫丫回国流程进行到哪一步了",
+        "onboard_time": 1677287066,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7032830,
+        "num": 298137,
+        "word": "香港警方公布蔡天凤碎尸案细节",
+        "onboard_time": 1677295288,
+        "rank": 22,
+        "category": "社会负面,艺人"
+      },
+      {
+        "raw_hot": 285085,
+        "num": 285085,
+        "word": "11名缉毒警和徒弟们合影不露脸",
+        "onboard_time": 1677300874,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283464,
+        "num": 283464,
+        "word": "蔡徐坤又收到粉丝送的蓝玫瑰",
+        "onboard_time": 1677300452,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278385,
+        "num": 278385,
+        "word": "月薪4万非洲养鸡岗位未招到人",
+        "onboard_time": 1677289467,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 278038,
+        "num": 278038,
+        "word": "你好星期六全员晒工牌",
+        "onboard_time": 1677295047,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257937,
+        "num": 257937,
+        "word": "威少快船首秀",
+        "onboard_time": 1677297813,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255560,
+        "num": 255560,
+        "word": "光渊",
+        "onboard_time": 1677281120,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248473,
+        "num": 248473,
+        "word": "涉猥亵女干部的县长辞去人大代表",
+        "onboard_time": 1677301293,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1801387,
+        "num": 247288,
+        "word": "丫丫 乞食",
+        "onboard_time": 1677293547,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243876,
+        "num": 243876,
+        "word": "吕珍九胖了好多",
+        "onboard_time": 1677292585,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233473,
+        "num": 233473,
+        "word": "广西一艘船上3人窒息死亡",
+        "onboard_time": 1677287486,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325664,
+        "num": 232411,
+        "word": "曝韩国男爱豆对女友施暴",
+        "onboard_time": 1677291927,
+        "rank": 33,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 225925,
+        "num": 225925,
+        "word": "李荣浩的歌",
+        "onboard_time": 1677294025,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222439,
+        "num": 222439,
+        "word": "被无人机播种效率惊呆了",
+        "onboard_time": 1677301293,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204325,
+        "num": 204325,
+        "word": "想偷孙悦的衣柜",
+        "onboard_time": 1677299069,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182834,
+        "num": 182834,
+        "word": "李宇春 开云老板老板娘",
+        "onboard_time": 1677286706,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178885,
+        "num": 178885,
+        "word": "光渊更不更新",
+        "onboard_time": 1677281600,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163200,
+        "num": 163200,
+        "word": "河南省考",
+        "onboard_time": 1677295769,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 154585,
+        "num": 154585,
+        "word": "法考",
+        "onboard_time": 1677301892,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153005,
+        "num": 153005,
+        "word": "iPhone15Plus渲染图曝光",
+        "onboard_time": 1677293965,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152235,
+        "num": 152235,
+        "word": "孟菲斯曾说丫丫毛发稀疏是家族遗传",
+        "onboard_time": 1677288146,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141169,
+        "num": 141169,
+        "word": "双北",
+        "onboard_time": 1677284606,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138504,
+        "num": 138504,
+        "word": "地铁跑酷",
+        "onboard_time": 1677289225,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125890,
+        "num": 125890,
+        "word": "姐弟恋比例持续攀升",
+        "onboard_time": 1677260176,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125435,
+        "num": 125435,
+        "word": "汶川地震幸存女孩戴义肢玩滑板",
+        "onboard_time": 1677288266,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 107903,
+        "num": 107903,
+        "word": "刘耀文写给丁程鑫的信",
+        "onboard_time": 1677292826,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107099,
+        "num": 107099,
+        "word": "下班跳舞为啥让人上头",
+        "onboard_time": 1677293246,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 97295,
+        "num": 97295,
+        "word": "灌篮高手出场队员7号宫城良田",
+        "onboard_time": 1677296850,
+        "rank": 49,
+        "category": "影视,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#数字碳中和#"
+    }
+  }
+}
