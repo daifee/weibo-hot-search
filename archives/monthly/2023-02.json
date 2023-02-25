@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677364475201,
+  "endTime": 1677367132669,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -33195,6 +33195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 296542,
+      "num": 123470,
+      "word": "HPV病毒可导致哪些疾病",
+      "onboard_time": 1677365776,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296437,
       "num": 296437,
       "word": "蔡依林出发参加米兰时装周",
@@ -37441,6 +37449,14 @@
       "onboard_time": 1676182769,
       "rank": 37,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 255288,
+      "num": 122919,
+      "word": "CNN拍下解放军对峙美机",
+      "onboard_time": 1677359351,
+      "rank": 36,
+      "category": "军事"
     },
     {
       "raw_hot": 255209,
@@ -52491,6 +52507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137141,
+      "num": 122049,
+      "word": "日本百年温泉旅馆被曝半年不换水",
+      "onboard_time": 1677366315,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137104,
       "num": 137104,
       "word": "董思成将参加巴黎时装周",
@@ -52793,6 +52817,14 @@
       "onboard_time": 1675485508,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 134743,
+      "num": 121081,
+      "word": "美防长称已经数月没和中国防长通话",
+      "onboard_time": 1677358151,
+      "rank": 10,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 134685,
@@ -53545,14 +53577,6 @@
       "onboard_time": 1675687108,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126796,
-      "num": 24743,
-      "word": "CNN拍下解放军对峙美机",
-      "onboard_time": 1677359351,
-      "rank": 36,
-      "category": "军事"
     },
     {
       "raw_hot": 126688,
@@ -55187,14 +55211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87133,
-      "num": 55981,
-      "word": "美防长称已经数月没和中国防长通话",
-      "onboard_time": 1677358151,
-      "rank": 10,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 86681,
       "num": 86681,
       "word": "李秀满仍拥有SMTOWN经营权",
@@ -55635,6 +55651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67400,
+      "num": 67400,
+      "word": "健康路成郑州干饭顶流",
+      "onboard_time": 1677364215,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67380,
       "num": 1780022,
       "word": "开局之年第一课",
@@ -55899,6 +55923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54466,
+      "num": 54466,
+      "word": "C罗帽子戏法",
+      "onboard_time": 1677366857,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54293,
       "num": 1331826,
       "word": "强信心稳经济促发展",
@@ -56051,6 +56083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47080,
+      "num": 47080,
+      "word": "不要错过拨浪鼓咚咚响",
+      "onboard_time": 1677366619,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 47022,
       "num": 165845,
       "word": "饿了么免单梦回高考",
@@ -56091,6 +56131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45306,
+      "num": 45306,
+      "word": "AG战胜EDGM",
+      "onboard_time": 1677366797,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 45201,
       "num": 45201,
       "word": "如何评价黑豹2",
@@ -56121,6 +56169,14 @@
       "onboard_time": 1676231591,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43276,
+      "num": 43276,
+      "word": "新一届全国人大代表全名单公布",
+      "onboard_time": 1677356592,
+      "rank": 36,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 43062,
@@ -56379,6 +56435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29210,
+      "num": 29210,
+      "word": "巨人完结篇新预告",
+      "onboard_time": 1677367098,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 29058,
       "num": 29058,
       "word": "这个挑食是情有可原的",
@@ -56409,14 +56473,6 @@
       "onboard_time": 1677110428,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28567,
-      "num": 28567,
-      "word": "新一届全国人大代表全名单公布",
-      "onboard_time": 1677356592,
-      "rank": 36,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 28544,
@@ -56585,14 +56641,6 @@
       "onboard_time": 1677188592,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17919,
-      "num": 18451,
-      "word": "健康路成郑州干饭顶流",
-      "onboard_time": 1677364215,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16380,

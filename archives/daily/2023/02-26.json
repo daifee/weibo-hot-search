@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677364475201,
+  "endTime": 1677367132669,
   "band_list": [
     {
       "raw_hot": 924122,
@@ -99,12 +99,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 296542,
+      "num": 123470,
+      "word": "HPV病毒可导致哪些疾病",
+      "onboard_time": 1677365776,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266584,
       "num": 266584,
       "word": "旅美大熊猫乐乐是如何离世的",
       "onboard_time": 1677331651,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255288,
+      "num": 122919,
+      "word": "CNN拍下解放军对峙美机",
+      "onboard_time": 1677359351,
+      "rank": 36,
+      "category": "军事"
     },
     {
       "raw_hot": 250041,
@@ -235,6 +251,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 169697,
+      "num": 169697,
+      "word": "女子与前夫摆拍家暴完整监控曝光",
+      "onboard_time": 1677323427,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166282,
       "num": 166282,
       "word": "黄书记对不起",
@@ -273,14 +297,6 @@
       "onboard_time": 1677331529,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 153457,
-      "num": 153457,
-      "word": "女子与前夫摆拍家暴完整监控曝光",
-      "onboard_time": 1677323427,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148899,
@@ -323,6 +339,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137141,
+      "num": 122049,
+      "word": "日本百年温泉旅馆被曝半年不换水",
+      "onboard_time": 1677366315,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134743,
+      "num": 121081,
+      "word": "美防长称已经数月没和中国防长通话",
+      "onboard_time": 1677358151,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 132706,
       "num": 132706,
       "word": "李小冉红毯状态",
@@ -353,14 +385,6 @@
       "onboard_time": 1677325170,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 126796,
-      "num": 24743,
-      "word": "CNN拍下解放军对峙美机",
-      "onboard_time": 1677359351,
-      "rank": 36,
-      "category": "军事"
     },
     {
       "raw_hot": 111315,
@@ -395,14 +419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 87133,
-      "num": 55981,
-      "word": "美防长称已经数月没和中国防长通话",
-      "onboard_time": 1677358151,
-      "rank": 10,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 79934,
       "num": 79934,
       "word": "甲流高发期如何做好防护",
@@ -435,6 +451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 67400,
+      "num": 67400,
+      "word": "健康路成郑州干饭顶流",
+      "onboard_time": 1677364215,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66787,
       "num": 104033,
       "word": "JDG战胜TES",
@@ -459,11 +483,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54466,
+      "num": 54466,
+      "word": "C罗帽子戏法",
+      "onboard_time": 1677366857,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47080,
+      "num": 47080,
+      "word": "不要错过拨浪鼓咚咚响",
+      "onboard_time": 1677366619,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 45998,
       "num": 66985,
       "word": "RNG战胜TT",
       "onboard_time": 1677317907,
       "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 45306,
+      "num": 45306,
+      "word": "AG战胜EDGM",
+      "onboard_time": 1677366797,
+      "rank": 35,
       "category": "游戏"
     },
     {
@@ -475,12 +523,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 28567,
-      "num": 28567,
+      "raw_hot": 43276,
+      "num": 43276,
       "word": "新一届全国人大代表全名单公布",
       "onboard_time": 1677356592,
       "rank": 36,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 30723,
+      "num": 30723,
+      "word": "刘宇泪钻",
+      "onboard_time": 1677332191,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 29210,
+      "num": 29210,
+      "word": "巨人完结篇新预告",
+      "onboard_time": 1677367098,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 29202,
+      "num": 29202,
+      "word": "EDG 打麻将",
+      "onboard_time": 1677321328,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 26455,
@@ -505,14 +577,6 @@
       "onboard_time": 1677340050,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17919,
-      "num": 18451,
-      "word": "健康路成郑州干饭顶流",
-      "onboard_time": 1677364215,
-      "rank": 45,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
