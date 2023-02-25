@@ -1,0 +1,410 @@
+{
+  "runTime": 1677320348082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2158902,
+        "num": 2158902,
+        "word": "省考",
+        "onboard_time": 1677315449,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1892025,
+        "num": 1892025,
+        "word": "申论",
+        "onboard_time": 1677297028,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 100791,
+        "num": 1272251,
+        "word": "金黄油菜花海与蓝天配色好搭",
+        "onboard_time": 1677297392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843310,
+        "num": 843310,
+        "word": "众星为李一桐新剧打call",
+        "onboard_time": 1677314969,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 567081,
+        "num": 567081,
+        "word": "日本网友2020年已发起拯救丫丫的请愿",
+        "onboard_time": 1677312626,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548391,
+        "num": 548391,
+        "word": "RNG 暂停",
+        "onboard_time": 1677313886,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 485888,
+        "num": 485888,
+        "word": "aespa演唱会",
+        "onboard_time": 1677317428,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 449141,
+        "num": 449141,
+        "word": "泽连斯基强忍泪水诉苦",
+        "onboard_time": 1677312927,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 411832,
+        "num": 411832,
+        "word": "王昱珩说赚钱这事是最简单的",
+        "onboard_time": 1677310347,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406065,
+        "num": 406065,
+        "word": "不如回溯到S8",
+        "onboard_time": 1677315509,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 723917,
+        "num": 405944,
+        "word": "川籍华人飞3000公里看丫丫哭了",
+        "onboard_time": 1677306927,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623109,
+        "num": 405454,
+        "word": "丁禹兮回应被扎针花絮",
+        "onboard_time": 1677316528,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 447596,
+        "num": 405271,
+        "word": "谭仔米线",
+        "onboard_time": 1677303568,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 394491,
+        "num": 404901,
+        "word": "婚纱日常化",
+        "onboard_time": 1677315088,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 404556,
+        "num": 404556,
+        "word": "任素汐对自己太狠了",
+        "onboard_time": 1677318929,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338348,
+        "num": 338348,
+        "word": "林娜琏烤瓷牙",
+        "onboard_time": 1677309507,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327035,
+        "num": 327035,
+        "word": "考公为什么会越来越卷",
+        "onboard_time": 1677310046,
+        "rank": 16,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 317466,
+        "num": 317466,
+        "word": "这个班没他就散了",
+        "onboard_time": 1677312327,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316103,
+        "num": 316103,
+        "word": "乌总统称目前没有与普京谈判可能",
+        "onboard_time": 1677316528,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 300574,
+        "num": 300574,
+        "word": "商丘公交司机称工资已全部发下",
+        "onboard_time": 1677319227,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1059566,
+        "num": 298561,
+        "word": "1岁男童误食降糖药成植物人",
+        "onboard_time": 1677316406,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295859,
+        "num": 295859,
+        "word": "男子地摊套娃娃发现内藏摄像头",
+        "onboard_time": 1677309206,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278520,
+        "num": 278520,
+        "word": "周杰伦演唱会附近酒店涨价三倍",
+        "onboard_time": 1677311729,
+        "rank": 22,
+        "category": "音乐,财经"
+      },
+      {
+        "raw_hot": 272121,
+        "num": 272121,
+        "word": "光渊到底更不更",
+        "onboard_time": 1677318327,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254664,
+        "num": 254664,
+        "word": "TT 可惜",
+        "onboard_time": 1677319645,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237514,
+        "num": 237514,
+        "word": "苹果回应偷看密码后再偷iPhone",
+        "onboard_time": 1677309807,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 225451,
+        "num": 225451,
+        "word": "搜狐时尚盛典红毯",
+        "onboard_time": 1677319045,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200793,
+        "num": 200793,
+        "word": "秒睡可能是种睡眠障碍",
+        "onboard_time": 1677305068,
+        "rank": 27,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 211713,
+        "num": 199561,
+        "word": "高叶真空西装",
+        "onboard_time": 1677320128,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193689,
+        "num": 193689,
+        "word": "KPL",
+        "onboard_time": 1677319527,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 393953,
+        "num": 193546,
+        "word": "丫丫 乞食",
+        "onboard_time": 1677293547,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191437,
+        "num": 191437,
+        "word": "苹果或在4月推出15.5寸MacBookAir",
+        "onboard_time": 1677313107,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 182911,
+        "num": 182911,
+        "word": "这颗子弹在老人右肩藏了74年",
+        "onboard_time": 1677317608,
+        "rank": 32,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 169264,
+        "num": 169264,
+        "word": "张远现身石家庄",
+        "onboard_time": 1677311729,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163264,
+        "num": 163264,
+        "word": "宋茜路演",
+        "onboard_time": 1677312026,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160210,
+        "num": 160210,
+        "word": "清明假期不调休",
+        "onboard_time": 1677297090,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151201,
+        "num": 151201,
+        "word": "柳真跳Hypeboy",
+        "onboard_time": 1677318146,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149637,
+        "num": 149637,
+        "word": "毒舌律师",
+        "onboard_time": 1677312385,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141411,
+        "num": 141411,
+        "word": "RNG战胜TT",
+        "onboard_time": 1677317907,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141539,
+        "num": 138780,
+        "word": "法律面前 三六九等",
+        "onboard_time": 1677320188,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136057,
+        "num": 136057,
+        "word": "海外出生的大熊猫仍属于中国所有",
+        "onboard_time": 1677310766,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135827,
+        "num": 135827,
+        "word": "张嘉倪露背私服好辣",
+        "onboard_time": 1677295888,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135201,
+        "num": 135201,
+        "word": "威少失误把湖人球迷看PTSD了",
+        "onboard_time": 1677309146,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128405,
+        "num": 128405,
+        "word": "刘畊宏谈小泡芙扎针",
+        "onboard_time": 1677304646,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127142,
+        "num": 127142,
+        "word": "魏大勋跳舞动作",
+        "onboard_time": 1677317907,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126315,
+        "num": 126315,
+        "word": "文俊辉直播",
+        "onboard_time": 1677316110,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126043,
+        "num": 126043,
+        "word": "蔡徐坤线上演唱会邀请视频",
+        "onboard_time": 1677310826,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125627,
+        "num": 125627,
+        "word": "毒舌律师粤语版",
+        "onboard_time": 1677320247,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124473,
+        "num": 124473,
+        "word": "听说你喜欢我恋爱告白会",
+        "onboard_time": 1677317008,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115262,
+        "num": 115262,
+        "word": "岳云鹏追猪",
+        "onboard_time": 1677313467,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的民生关切#"
+    }
+  }
+}

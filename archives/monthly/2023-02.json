@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677317620027,
+  "endTime": 1677320348082,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1699,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2158902,
+      "num": 2158902,
+      "word": "省考",
+      "onboard_time": 1677217111,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2157361,
       "num": 2157361,
       "word": "陈妍希说陈晓婚前非常浪漫",
@@ -2017,14 +2025,6 @@
       "onboard_time": 1677038320,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2003182,
-      "num": 2003182,
-      "word": "省考",
-      "onboard_time": 1677217111,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 1998988,
@@ -7104,6 +7104,14 @@
       "word": "试管婴儿被放错胚胎事件初步和解",
       "onboard_time": 1676987072,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1059566,
+      "num": 709900,
+      "word": "1岁男童误食降糖药成植物人",
+      "onboard_time": 1677316406,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -12992,14 +13000,6 @@
       "word": "3斤肉上桌只剩1斤多店家称正常",
       "onboard_time": 1675481245,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 709900,
-      "num": 709900,
-      "word": "1岁男童误食降糖药成植物人",
-      "onboard_time": 1677316406,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -20763,6 +20763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485888,
+      "num": 485888,
+      "word": "aespa演唱会",
+      "onboard_time": 1677317428,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 485859,
       "num": 485859,
       "word": "普京国情咨文讲话",
@@ -24891,6 +24899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404556,
+      "num": 404556,
+      "word": "任素汐对自己太狠了",
+      "onboard_time": 1677318929,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404509,
       "num": 404509,
       "word": "光遇",
@@ -25681,6 +25697,14 @@
       "onboard_time": 1675344636,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 394491,
+      "num": 404901,
+      "word": "婚纱日常化",
+      "onboard_time": 1677315088,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 394369,
@@ -28233,14 +28257,6 @@
       "onboard_time": 1675300592,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 354054,
-      "num": 354054,
-      "word": "婚纱日常化",
-      "onboard_time": 1677315088,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 354010,
@@ -32387,6 +32403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300574,
+      "num": 300574,
+      "word": "商丘公交司机称工资已全部发下",
+      "onboard_time": 1677319227,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300498,
       "num": 300498,
       "word": "欧文说和詹姆斯永远是兄弟",
@@ -35147,6 +35171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272121,
+      "num": 272121,
+      "word": "光渊到底更不更",
+      "onboard_time": 1677318327,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272063,
       "num": 272063,
       "word": "小说里的大嫂从此有脸了",
@@ -36523,14 +36555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 258701,
-      "num": 258701,
-      "word": "aespa演唱会",
-      "onboard_time": 1677317428,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 258625,
       "num": 258625,
       "word": "董子健两部作品入围柏林电影节",
@@ -36921,6 +36945,14 @@
       "onboard_time": 1675604855,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254664,
+      "num": 254664,
+      "word": "TT 可惜",
+      "onboard_time": 1677319645,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 254603,
@@ -39947,6 +39979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225451,
+      "num": 225451,
+      "word": "搜狐时尚盛典红毯",
+      "onboard_time": 1677319045,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 225335,
       "num": 225335,
       "word": "心理专家解读胡鑫宇事件",
@@ -41425,6 +41465,14 @@
       "onboard_time": 1675598670,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211713,
+      "num": 199561,
+      "word": "高叶真空西装",
+      "onboard_time": 1677320128,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 211614,
@@ -45761,6 +45809,14 @@
       "onboard_time": 1676777370,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 182911,
+      "num": 182911,
+      "word": "这颗子弹在老人右肩藏了74年",
+      "onboard_time": 1677317608,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 182828,
@@ -50379,6 +50435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151201,
+      "num": 151201,
+      "word": "柳真跳Hypeboy",
+      "onboard_time": 1677318146,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151108,
       "num": 151108,
       "word": "玄商跳归墟",
@@ -51249,6 +51313,22 @@
       "onboard_time": 1677055895,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141539,
+      "num": 138780,
+      "word": "法律面前 三六九等",
+      "onboard_time": 1677320188,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 141411,
+      "num": 141411,
+      "word": "RNG战胜TT",
+      "onboard_time": 1677317907,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 141372,
@@ -52707,6 +52787,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 127142,
+      "num": 127142,
+      "word": "魏大勋跳舞动作",
+      "onboard_time": 1677317907,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127056,
       "num": 127056,
       "word": "流浪地球2图恒宇写4的官方解读",
@@ -52795,6 +52883,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 125627,
+      "num": 125627,
+      "word": "毒舌律师粤语版",
+      "onboard_time": 1677320247,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125531,
       "num": 125531,
       "word": "言承旭徐若晗夏花花絮",
@@ -52825,14 +52921,6 @@
       "onboard_time": 1675851812,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 125071,
-      "num": 125071,
-      "word": "这颗子弹在老人右肩藏了74年",
-      "onboard_time": 1677317608,
-      "rank": 49,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 124715,
@@ -55979,6 +56067,9 @@
     },
     {
       "word": "#十四届全国人大代表全名单#"
+    },
+    {
+      "word": "#总书记的民生关切#"
     }
   ]
 }

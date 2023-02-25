@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677317620027,
+  "endTime": 1677320348082,
   "band_list": [
     {
       "raw_hot": 9510697,
@@ -67,20 +67,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2158902,
+      "num": 2158902,
+      "word": "省考",
+      "onboard_time": 1677280939,
+      "rank": 1,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 2098893,
       "num": 629137,
       "word": "谭仔米线",
       "onboard_time": 1677303568,
       "rank": 10,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2003182,
-      "num": 2003182,
-      "word": "省考",
-      "onboard_time": 1677280939,
-      "rank": 1,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1944934,
@@ -201,6 +201,14 @@
       "onboard_time": 1677291927,
       "rank": 3,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1059566,
+      "num": 709900,
+      "word": "1岁男童误食降糖药成植物人",
+      "onboard_time": 1677316406,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1047754,
@@ -355,14 +363,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 709900,
-      "num": 709900,
-      "word": "1岁男童误食降糖药成植物人",
-      "onboard_time": 1677316406,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 694158,
       "num": 694158,
       "word": "原来有趣的人真的不会无聊",
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485888,
+      "num": 485888,
+      "word": "aespa演唱会",
+      "onboard_time": 1677317428,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 473358,
       "num": 473358,
       "word": "男子不慎被妻子扎伤在绷带写字留念",
@@ -595,12 +603,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 404556,
+      "num": 404556,
+      "word": "任素汐对自己太狠了",
+      "onboard_time": 1677318929,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395724,
       "num": 395724,
       "word": "赵樱子周柯宇倩女幽魂海报",
       "onboard_time": 1677310766,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 394491,
+      "num": 404901,
+      "word": "婚纱日常化",
+      "onboard_time": 1677315088,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 393438,
@@ -681,14 +705,6 @@
       "onboard_time": 1677258319,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 354054,
-      "num": 354054,
-      "word": "婚纱日常化",
-      "onboard_time": 1677315088,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 352582,
@@ -811,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300574,
+      "num": 300574,
+      "word": "商丘公交司机称工资已全部发下",
+      "onboard_time": 1677319227,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294937,
       "num": 294937,
       "word": "快船国王合砍351分",
@@ -891,6 +915,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 272121,
+      "num": 272121,
+      "word": "光渊到底更不更",
+      "onboard_time": 1677318327,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262370,
       "num": 262370,
       "word": "警方回应女子高铁站殴打威胁女童",
@@ -923,20 +955,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258701,
-      "num": 258701,
-      "word": "aespa演唱会",
-      "onboard_time": 1677317428,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 257937,
       "num": 257937,
       "word": "威少快船首秀",
       "onboard_time": 1677297813,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254664,
+      "num": 254664,
+      "word": "TT 可惜",
+      "onboard_time": 1677319645,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 254032,
@@ -1011,6 +1043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 225451,
+      "num": 225451,
+      "word": "搜狐时尚盛典红毯",
+      "onboard_time": 1677319045,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 224670,
       "num": 224670,
       "word": "海外出生的大熊猫仍属于中国所有",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1677307946,
       "rank": 23,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 211713,
+      "num": 199561,
+      "word": "高叶真空西装",
+      "onboard_time": 1677320128,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208379,
@@ -1147,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193689,
+      "num": 193689,
+      "word": "KPL",
+      "onboard_time": 1677319527,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192144,
       "num": 192144,
       "word": "国内科幻名刊将拒收ChatGPT投稿",
@@ -1185,6 +1241,14 @@
       "onboard_time": 1677294025,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182911,
+      "num": 182911,
+      "word": "这颗子弹在老人右肩藏了74年",
+      "onboard_time": 1677317608,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 182527,
@@ -1307,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151201,
+      "num": 151201,
+      "word": "柳真跳Hypeboy",
+      "onboard_time": 1677318146,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 150387,
       "num": 150387,
       "word": "张大大直播",
@@ -1353,6 +1425,22 @@
       "onboard_time": 1677307106,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141539,
+      "num": 138780,
+      "word": "法律面前 三六九等",
+      "onboard_time": 1677320188,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 141411,
+      "num": 141411,
+      "word": "RNG战胜TT",
+      "onboard_time": 1677317907,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 139512,
@@ -1403,12 +1491,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125071,
-      "num": 125071,
-      "word": "这颗子弹在老人右肩藏了74年",
-      "onboard_time": 1677317608,
-      "rank": 49,
-      "category": "军事,社会新闻"
+      "raw_hot": 127142,
+      "num": 127142,
+      "word": "魏大勋跳舞动作",
+      "onboard_time": 1677317907,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125627,
+      "num": 125627,
+      "word": "毒舌律师粤语版",
+      "onboard_time": 1677320247,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 124661,
@@ -1733,6 +1829,9 @@
     },
     {
       "word": "#十四届全国人大代表全名单#"
+    },
+    {
+      "word": "#总书记的民生关切#"
     }
   ]
 }
