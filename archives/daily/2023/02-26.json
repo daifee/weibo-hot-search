@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677343314528,
+  "endTime": 1677345385107,
   "band_list": [
     {
       "raw_hot": 924122,
@@ -27,20 +27,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 695527,
+      "num": 695527,
+      "word": "建议延长毕业生应届身份时限",
+      "onboard_time": 1677341186,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 645811,
       "num": 645811,
       "word": "在张大大直播间笑死",
       "onboard_time": 1677336509,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 508919,
-      "num": 508919,
-      "word": "建议延长毕业生应届身份时限",
-      "onboard_time": 1677341186,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 496525,
@@ -177,6 +177,14 @@
       "onboard_time": 1677334049,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181908,
+      "num": 181908,
+      "word": "网友点赞中国蓝新闻为丫丫发声",
+      "onboard_time": 1677343283,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181890,
@@ -395,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 68106,
+      "num": 68106,
+      "word": "黑喵 隔了条银河",
+      "onboard_time": 1677329730,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 66787,
       "num": 104033,
       "word": "JDG战胜TES",
@@ -403,12 +419,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 55981,
-      "num": 103669,
-      "word": "网友点赞中国蓝新闻为丫丫发声",
-      "onboard_time": 1677343283,
+      "raw_hot": 45998,
+      "num": 66985,
+      "word": "RNG战胜TT",
+      "onboard_time": 1677317907,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "游戏"
     },
     {
       "raw_hot": 25873,
