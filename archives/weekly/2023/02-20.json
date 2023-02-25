@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677342261542,
+  "endTime": 1677343314528,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -2091,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 904285,
+      "num": 904285,
+      "word": "女子考研期间生娃初试395分",
+      "onboard_time": 1677340287,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 903730,
       "num": 903730,
       "word": "鹿晗牵小猫手",
@@ -2673,6 +2681,14 @@
       "onboard_time": 1676818295,
       "rank": 4,
       "category": "体育,影视"
+    },
+    {
+      "raw_hot": 763763,
+      "num": 533158,
+      "word": "沈月谈上一次分手的原因",
+      "onboard_time": 1677342146,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 763636,
@@ -3345,14 +3361,6 @@
       "onboard_time": 1677038971,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 670831,
-      "num": 670831,
-      "word": "女子考研期间生娃初试395分",
-      "onboard_time": 1677340287,
-      "rank": 1,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 669565,
@@ -4705,6 +4713,14 @@
       "onboard_time": 1677211408,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 508919,
+      "num": 508919,
+      "word": "建议延长毕业生应届身份时限",
+      "onboard_time": 1677341186,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507386,
@@ -6163,14 +6179,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 396926,
-      "num": 396926,
-      "word": "沈月谈上一次分手的原因",
-      "onboard_time": 1677342146,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 396822,
       "num": 396822,
       "word": "脑花帽",
@@ -6897,6 +6905,14 @@
       "onboard_time": 1677040057,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 358113,
+      "num": 358113,
+      "word": "王濛风波后首现身",
+      "onboard_time": 1677340648,
+      "rank": 14,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 357952,
@@ -9411,14 +9427,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 237231,
-      "num": 237231,
-      "word": "王濛风波后首现身",
-      "onboard_time": 1677340648,
-      "rank": 14,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 236713,
       "num": 236713,
       "word": "中国从未挑起战争但对华打压不断升级",
@@ -9913,14 +9921,6 @@
       "onboard_time": 1676980772,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218282,
-      "num": 218282,
-      "word": "建议延长毕业生应届身份时限",
-      "onboard_time": 1677341186,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217744,
@@ -13705,6 +13705,14 @@
       "onboard_time": 1676849543,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55981,
+      "num": 103669,
+      "word": "网友点赞中国蓝新闻为丫丫发声",
+      "onboard_time": 1677343283,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55490,

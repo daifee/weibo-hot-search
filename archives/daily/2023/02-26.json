@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677342261542,
+  "endTime": 1677343314528,
   "band_list": [
     {
       "raw_hot": 924122,
@@ -11,12 +11,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 670831,
-      "num": 670831,
+      "raw_hot": 904285,
+      "num": 904285,
       "word": "女子考研期间生娃初试395分",
       "onboard_time": 1677340287,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 763763,
+      "num": 533158,
+      "word": "沈月谈上一次分手的原因",
+      "onboard_time": 1677342146,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 645811,
@@ -25,6 +33,14 @@
       "onboard_time": 1677336509,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508919,
+      "num": 508919,
+      "word": "建议延长毕业生应届身份时限",
+      "onboard_time": 1677341186,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496525,
@@ -43,20 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 396926,
-      "num": 396926,
-      "word": "沈月谈上一次分手的原因",
-      "onboard_time": 1677342146,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 374792,
       "num": 374792,
       "word": "蒲熠星 我一路走来惊心动魄",
       "onboard_time": 1677332609,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358113,
+      "num": 358113,
+      "word": "王濛风波后首现身",
+      "onboard_time": 1677340648,
+      "rank": 14,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 315177,
@@ -107,14 +123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 237231,
-      "num": 237231,
-      "word": "王濛风波后首现身",
-      "onboard_time": 1677340648,
-      "rank": 14,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 233263,
       "num": 233263,
       "word": "鞠婧祎小卡",
@@ -137,14 +145,6 @@
       "onboard_time": 1677328588,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218282,
-      "num": 218282,
-      "word": "建议延长毕业生应届身份时限",
-      "onboard_time": 1677341186,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215563,
@@ -339,8 +339,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 122682,
-      "num": 122682,
+      "raw_hot": 129971,
+      "num": 129971,
       "word": "流浪地球2票房",
       "onboard_time": 1677325170,
       "rank": 43,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 96957,
-      "num": 96957,
+      "num": 105626,
       "word": "沈梦瑶表现力",
       "onboard_time": 1677335791,
       "rank": 46,
@@ -380,19 +380,35 @@
     },
     {
       "raw_hot": 75265,
-      "num": 75265,
+      "num": 104530,
       "word": "莱斯特城vs阿森纳",
       "onboard_time": 1677337196,
       "rank": 48,
       "category": "体育"
     },
     {
+      "raw_hot": 75031,
+      "num": 105455,
+      "word": "INTO1苏州音乐会",
+      "onboard_time": 1677328588,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 66787,
-      "num": 74715,
+      "num": 104033,
       "word": "JDG战胜TES",
       "onboard_time": 1677333590,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 55981,
+      "num": 103669,
+      "word": "网友点赞中国蓝新闻为丫丫发声",
+      "onboard_time": 1677343283,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25873,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#总书记的民生关切#"
+    },
+    {
+      "word": "#全国两会时光#"
     }
   ]
 }

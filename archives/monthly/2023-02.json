@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677342261542,
+  "endTime": 1677343314528,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -9187,6 +9187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 904285,
+      "num": 904285,
+      "word": "女子考研期间生娃初试395分",
+      "onboard_time": 1677340287,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 904020,
       "num": 904020,
       "word": "王安宇瘦了好多",
@@ -11657,6 +11665,14 @@
       "onboard_time": 1675212389,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 763763,
+      "num": 533158,
+      "word": "沈月谈上一次分手的原因",
+      "onboard_time": 1677342146,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 763636,
@@ -14337,14 +14353,6 @@
       "onboard_time": 1676088268,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 670831,
-      "num": 670831,
-      "word": "女子考研期间生娃初试395分",
-      "onboard_time": 1677340287,
-      "rank": 1,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 670753,
@@ -20025,6 +20033,14 @@
       "onboard_time": 1676516487,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 508919,
+      "num": 508919,
+      "word": "建议延长毕业生应届身份时限",
+      "onboard_time": 1677341186,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 508857,
@@ -25867,14 +25883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 396926,
-      "num": 396926,
-      "word": "沈月谈上一次分手的原因",
-      "onboard_time": 1677342146,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 396868,
       "num": 396868,
       "word": "赵丽颖漫步古城游玩照",
@@ -28441,6 +28449,14 @@
       "onboard_time": 1675319434,
       "rank": 23,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 358113,
+      "num": 358113,
+      "word": "王濛风波后首现身",
+      "onboard_time": 1677340648,
+      "rank": 14,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 358095,
@@ -39227,14 +39243,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 237231,
-      "num": 237231,
-      "word": "王濛风波后首现身",
-      "onboard_time": 1677340648,
-      "rank": 14,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 237182,
       "num": 237182,
       "word": "马斯克曾称ChatGPT好得吓人",
@@ -41353,14 +41361,6 @@
       "onboard_time": 1676039492,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 218282,
-      "num": 218282,
-      "word": "建议延长毕业生应届身份时限",
-      "onboard_time": 1677341186,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218252,
@@ -55793,6 +55793,14 @@
       "onboard_time": 1675171596,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 55981,
+      "num": 103669,
+      "word": "网友点赞中国蓝新闻为丫丫发声",
+      "onboard_time": 1677343283,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55688,
