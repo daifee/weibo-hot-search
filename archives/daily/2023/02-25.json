@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677294027426,
+  "endTime": 1677295385007,
   "band_list": [
     {
       "raw_hot": 4003829,
@@ -35,6 +35,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1627912,
+      "num": 1627912,
+      "word": "丫丫 乞食",
+      "onboard_time": 1677293547,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1597204,
       "num": 1324752,
       "word": "GUCCI CEO",
@@ -43,12 +51,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1233923,
+      "num": 1233923,
+      "word": "2040年参加高考人数或不到600万",
+      "onboard_time": 1677293066,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1222610,
       "num": 1222610,
       "word": "水哥最强大脑5分钟答对15道题",
       "onboard_time": 1677254071,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1215057,
+      "num": 1215057,
+      "word": "省考",
+      "onboard_time": 1677280939,
+      "rank": 1,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1154462,
@@ -115,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 740860,
+      "num": 740860,
+      "word": "李荣浩的歌",
+      "onboard_time": 1677294025,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 723012,
       "num": 723012,
       "word": "姐弟恋比例持续攀升",
@@ -147,16 +179,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 672105,
-      "num": 672105,
-      "word": "省考",
-      "onboard_time": 1677280939,
-      "rank": 1,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 591205,
-      "num": 459374,
+      "num": 573136,
       "word": "吕珍九胖了好多",
       "onboard_time": 1677292585,
       "rank": 10,
@@ -203,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513734,
+      "num": 513734,
+      "word": "行测",
+      "onboard_time": 1677284365,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 487285,
       "num": 487285,
       "word": "多省份公务员扩招",
@@ -219,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463964,
-      "num": 415684,
-      "word": "2040年参加高考人数或不到600万",
-      "onboard_time": 1677293066,
-      "rank": 33,
-      "category": "社会新闻,教育"
+      "raw_hot": 452311,
+      "num": 452311,
+      "word": "你好星期六全员晒工牌",
+      "onboard_time": 1677295047,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 443817,
@@ -241,6 +273,14 @@
       "onboard_time": 1677287245,
       "rank": 13,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 432435,
+      "num": 432435,
+      "word": "iPhone15Plus渲染图曝光",
+      "onboard_time": 1677293965,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 428461,
@@ -331,20 +371,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 326739,
-      "num": 326739,
-      "word": "丫丫 乞食",
-      "onboard_time": 1677293547,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316724,
-      "num": 316724,
+      "raw_hot": 322318,
+      "num": 322318,
       "word": "考研找工作面试怎么准备",
       "onboard_time": 1677290427,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 290264,
+      "num": 290264,
+      "word": "扬科维奇规定体脂率超10%不能比赛",
+      "onboard_time": 1677291207,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 288525,
@@ -379,12 +419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271509,
-      "num": 271509,
-      "word": "扬科维奇规定体脂率超10%不能比赛",
-      "onboard_time": 1677291207,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 272319,
+      "num": 272319,
+      "word": "吉林省考",
+      "onboard_time": 1677294928,
+      "rank": 27,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 259202,
@@ -499,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184814,
+      "num": 184814,
+      "word": "渊种的精神状态",
+      "onboard_time": 1677294025,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178957,
       "num": 178957,
       "word": "丁程鑫新歌一起跳舞吧",
@@ -513,6 +561,14 @@
       "onboard_time": 1677242491,
       "rank": 24,
       "category": "其它"
+    },
+    {
+      "raw_hot": 172094,
+      "num": 172094,
+      "word": "下班跳舞为啥让人上头",
+      "onboard_time": 1677293246,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 171894,
@@ -595,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147647,
+      "num": 147647,
+      "word": "香港警方公布蔡天凤碎尸案细节",
+      "onboard_time": 1677295288,
+      "rank": 41,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 143583,
       "num": 143583,
       "word": "程潇回国机场饭拍",
@@ -625,6 +689,14 @@
       "onboard_time": 1677236909,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132973,
+      "num": 132973,
+      "word": "分辨大熊猫像在玩大家来找茬",
+      "onboard_time": 1677294386,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131002,
@@ -681,14 +753,6 @@
       "onboard_time": 1677253470,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 114630,
-      "num": 114630,
-      "word": "下班跳舞为啥让人上头",
-      "onboard_time": 1677293246,
-      "rank": 49,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 112470,
@@ -825,14 +889,6 @@
       "onboard_time": 1677234569,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83156,
-      "num": 83156,
-      "word": "iPhone15Plus渲染图曝光",
-      "onboard_time": 1677293965,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 78898,

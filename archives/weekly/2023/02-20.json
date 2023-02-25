@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677294027426,
+  "endTime": 1677295385007,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1627912,
+      "num": 1627912,
+      "word": "丫丫 乞食",
+      "onboard_time": 1677293547,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1627833,
       "num": 1627833,
       "word": "女儿考研437分单亲妈妈哽咽安慰",
@@ -1059,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1233923,
+      "num": 1233923,
+      "word": "2040年参加高考人数或不到600万",
+      "onboard_time": 1677293066,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1232508,
       "num": 1232508,
       "word": "Mayumi官宣恋情",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1677254071,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1215057,
+      "num": 1215057,
+      "word": "省考",
+      "onboard_time": 1677217111,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 1212614,
@@ -1907,14 +1931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 896522,
-      "num": 896522,
-      "word": "省考",
-      "onboard_time": 1677217111,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 896503,
       "num": 828495,
       "word": "恒大1.1亿年薪归化球员在国足0出场",
@@ -2521,6 +2537,14 @@
       "onboard_time": 1676972550,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 740860,
+      "num": 740860,
+      "word": "李荣浩的歌",
+      "onboard_time": 1677294025,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 740853,
@@ -3508,7 +3532,7 @@
     },
     {
       "raw_hot": 591205,
-      "num": 459374,
+      "num": 573136,
       "word": "吕珍九胖了好多",
       "onboard_time": 1677292585,
       "rank": 10,
@@ -4091,6 +4115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513734,
+      "num": 513734,
+      "word": "行测",
+      "onboard_time": 1677284365,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 513722,
       "num": 513722,
       "word": "南派三叔约饭重启主演",
@@ -4571,14 +4603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 463964,
-      "num": 415684,
-      "word": "2040年参加高考人数或不到600万",
-      "onboard_time": 1677293066,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 463719,
       "num": 463719,
       "word": "十年朋克无人问 一朝舞女天下知",
@@ -4681,6 +4705,14 @@
       "onboard_time": 1676939548,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 452311,
+      "num": 452311,
+      "word": "你好星期六全员晒工牌",
+      "onboard_time": 1677295047,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 451417,
@@ -4913,6 +4945,14 @@
       "onboard_time": 1676816194,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 432435,
+      "num": 432435,
+      "word": "iPhone15Plus渲染图曝光",
+      "onboard_time": 1677293965,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 431124,
@@ -6651,14 +6691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 326739,
-      "num": 326739,
-      "word": "丫丫 乞食",
-      "onboard_time": 1677293547,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326443,
       "num": 326443,
       "word": "勇士vs湖人",
@@ -6753,6 +6785,14 @@
       "onboard_time": 1677140192,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322318,
+      "num": 322318,
+      "word": "考研找工作面试怎么准备",
+      "onboard_time": 1677290427,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 321331,
@@ -6857,14 +6897,6 @@
       "onboard_time": 1677113070,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316724,
-      "num": 316724,
-      "word": "考研找工作面试怎么准备",
-      "onboard_time": 1677290427,
-      "rank": 46,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 316606,
@@ -7275,6 +7307,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 290264,
+      "num": 290264,
+      "word": "扬科维奇规定体脂率超10%不能比赛",
+      "onboard_time": 1677291207,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290003,
       "num": 290003,
       "word": "李旻浩五扇一",
@@ -7643,20 +7683,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 272319,
+      "num": 272319,
+      "word": "吉林省考",
+      "onboard_time": 1677294928,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 271511,
       "num": 271511,
       "word": "纪向宁 真学霸",
       "onboard_time": 1677121649,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271509,
-      "num": 271509,
-      "word": "扬科维奇规定体脂率超10%不能比赛",
-      "onboard_time": 1677291207,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 271259,
@@ -9771,6 +9811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184814,
+      "num": 184814,
+      "word": "渊种的精神状态",
+      "onboard_time": 1677294025,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184769,
       "num": 184769,
       "word": "李兰迪绿色毛衣下午茶随拍",
@@ -10177,6 +10225,14 @@
       "onboard_time": 1677133830,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 172094,
+      "num": 172094,
+      "word": "下班跳舞为啥让人上头",
+      "onboard_time": 1677293246,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 171957,
@@ -10971,6 +11027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147647,
+      "num": 147647,
+      "word": "香港警方公布蔡天凤碎尸案细节",
+      "onboard_time": 1677295288,
+      "rank": 41,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 146710,
       "num": 146710,
       "word": "主播在凉山发钱被指发3000收回2800",
@@ -11295,6 +11359,14 @@
       "num": 133040,
       "word": "今晚上演金星伴月木星相随",
       "onboard_time": 1677056434,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132973,
+      "num": 132973,
+      "word": "分辨大熊猫像在玩大家来找茬",
+      "onboard_time": 1677294386,
       "rank": 44,
       "category": "社会新闻"
     },
@@ -11667,14 +11739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 114630,
-      "num": 114630,
-      "word": "下班跳舞为啥让人上头",
-      "onboard_time": 1677293246,
-      "rank": 49,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 114324,
       "num": 114324,
       "word": "陈建宇一公舞台镜头",
@@ -11969,14 +12033,6 @@
       "onboard_time": 1677254455,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 83156,
-      "num": 83156,
-      "word": "iPhone15Plus渲染图曝光",
-      "onboard_time": 1677293965,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 82839,
