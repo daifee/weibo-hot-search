@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677296193191,
+  "endTime": 1677299008426,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -9,6 +9,14 @@
       "onboard_time": 1677245911,
       "rank": 0,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 9510697,
+      "num": 9510697,
+      "word": "香港警方公布蔡天凤碎尸案细节",
+      "onboard_time": 1677295288,
+      "rank": 41,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 7662033,
@@ -89,6 +97,14 @@
       "onboard_time": 1677281060,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3211472,
+      "num": 3211472,
+      "word": "丫丫 乞食",
+      "onboard_time": 1677293547,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3051902,
@@ -339,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2024320,
-      "num": 2024320,
-      "word": "丫丫 乞食",
-      "onboard_time": 1677293547,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2022784,
       "num": 2022784,
       "word": "刘雯闭场",
@@ -361,14 +369,6 @@
       "onboard_time": 1676980590,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2012432,
-      "num": 2012432,
-      "word": "香港警方公布蔡天凤碎尸案细节",
-      "onboard_time": 1677295288,
-      "rank": 41,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2011206,
@@ -737,6 +737,14 @@
       "onboard_time": 1676946811,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1458439,
+      "num": 1458439,
+      "word": "行测",
+      "onboard_time": 1677284365,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1457942,
@@ -1248,14 +1256,6 @@
       "word": "考研最好考的十大专业",
       "onboard_time": 1676951014,
       "rank": 6,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1158331,
-      "num": 1158331,
-      "word": "行测",
-      "onboard_time": 1677284365,
-      "rank": 11,
       "category": "教育,社会新闻"
     },
     {
@@ -1979,6 +1979,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 879065,
+      "num": 879065,
+      "word": "申论",
+      "onboard_time": 1677247891,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 877419,
       "num": 877419,
       "word": "网购iPhone14开箱发现是IQOO",
@@ -2072,6 +2080,14 @@
       "word": "人社局回应上班1个月反欠公司5毛",
       "onboard_time": 1676952274,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842654,
+      "num": 842654,
+      "word": "清明假期不调休",
+      "onboard_time": 1677297090,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -2297,6 +2313,14 @@
       "onboard_time": 1677228389,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785692,
+      "num": 610217,
+      "word": "张嘉倪露背私服好辣",
+      "onboard_time": 1677295888,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 784471,
@@ -3403,6 +3427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 613819,
+      "num": 613819,
+      "word": "资料分析",
+      "onboard_time": 1677297753,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 610640,
       "num": 610640,
       "word": "粉丝为王鹤棣虞书欣挂同心锁",
@@ -3641,6 +3673,14 @@
       "onboard_time": 1677170604,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 583808,
+      "num": 583808,
+      "word": "你认为存多少钱能有安全感",
+      "onboard_time": 1677296069,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 580136,
@@ -6411,14 +6451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 341508,
-      "num": 341508,
-      "word": "申论",
-      "onboard_time": 1677247891,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 340617,
       "num": 340617,
       "word": "李冰冰发长文告别会画少年的天空",
@@ -7505,6 +7537,14 @@
       "onboard_time": 1676944048,
       "rank": 30,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 279838,
+      "num": 279838,
+      "word": "iPhone15Pro将配备LiDAR传感器",
+      "onboard_time": 1677296247,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 279611,
@@ -8643,6 +8683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223873,
+      "num": 223873,
+      "word": "11个果冻242元价格离谱吗",
+      "onboard_time": 1677297992,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223784,
       "num": 223784,
       "word": "iPhone15USBC口或获利超50亿美元",
@@ -8657,6 +8705,14 @@
       "onboard_time": 1677091512,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 223013,
+      "num": 223013,
+      "word": "香港名媛遭谋杀警方已拘捕3人",
+      "onboard_time": 1677298771,
+      "rank": 31,
+      "category": "社会负面,艺人"
     },
     {
       "raw_hot": 222874,
@@ -8705,6 +8761,14 @@
       "onboard_time": 1677034892,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221277,
+      "num": 221277,
+      "word": "范世錡李一桐cp氛围感",
+      "onboard_time": 1677298712,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 220850,
@@ -8961,14 +9025,6 @@
       "onboard_time": 1676812711,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209260,
-      "num": 209260,
-      "word": "张嘉倪露背私服好辣",
-      "onboard_time": 1677295888,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208606,
@@ -10763,6 +10819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157758,
+      "num": 1799332,
+      "word": "金黄油菜花海与蓝天配色好搭",
+      "onboard_time": 1677297392,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157617,
       "num": 157617,
       "word": "KSG战胜XYG",
@@ -10953,6 +11017,14 @@
       "onboard_time": 1677226647,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151168,
+      "num": 151168,
+      "word": "威少快船首秀",
+      "onboard_time": 1677297813,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 151108,
@@ -11387,6 +11459,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 132484,
+      "num": 132484,
+      "word": "行测常识",
+      "onboard_time": 1677298650,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 132405,
       "num": 132405,
       "word": "TWICE回归概念预告",
@@ -11619,6 +11699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120860,
+      "num": 120860,
+      "word": "灌篮高手出场队员7号宫城良田",
+      "onboard_time": 1677296850,
+      "rank": 45,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 120738,
       "num": 120738,
       "word": "男篮",
@@ -11801,14 +11889,6 @@
       "onboard_time": 1676800289,
       "rank": 46,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 111349,
-      "num": 111349,
-      "word": "你认为存多少钱能有安全感",
-      "onboard_time": 1677296069,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 110880,

@@ -1,7 +1,15 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677296193191,
+  "endTime": 1677299008426,
   "band_list": [
+    {
+      "raw_hot": 9510697,
+      "num": 9510697,
+      "word": "香港警方公布蔡天凤碎尸案细节",
+      "onboard_time": 1677295288,
+      "rank": 41,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 4003829,
       "num": 4003829,
@@ -17,6 +25,14 @@
       "onboard_time": 1677281060,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3211472,
+      "num": 3211472,
+      "word": "丫丫 乞食",
+      "onboard_time": 1677293547,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2878817,
@@ -35,22 +51,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 2024320,
-      "num": 2024320,
-      "word": "丫丫 乞食",
-      "onboard_time": 1677293547,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2012432,
-      "num": 2012432,
-      "word": "香港警方公布蔡天凤碎尸案细节",
-      "onboard_time": 1677295288,
-      "rank": 41,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1670979,
       "num": 1670979,
       "word": "省考",
@@ -67,6 +67,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1458439,
+      "num": 1458439,
+      "word": "行测",
+      "onboard_time": 1677284365,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1343991,
       "num": 1343991,
       "word": "2040年参加高考人数或不到600万",
@@ -81,14 +89,6 @@
       "onboard_time": 1677254071,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1158331,
-      "num": 1158331,
-      "word": "行测",
-      "onboard_time": 1677284365,
-      "rank": 11,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1154462,
@@ -147,12 +147,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 879065,
+      "num": 879065,
+      "word": "申论",
+      "onboard_time": 1677247891,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 842654,
+      "num": 842654,
+      "word": "清明假期不调休",
+      "onboard_time": 1677297090,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816501,
       "num": 336638,
       "word": "广西一艘船上3人窒息死亡",
       "onboard_time": 1677287486,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785692,
+      "num": 610217,
+      "word": "张嘉倪露背私服好辣",
+      "onboard_time": 1677295888,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 781632,
@@ -203,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 613819,
+      "num": 613819,
+      "word": "资料分析",
+      "onboard_time": 1677297753,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 591205,
       "num": 573136,
       "word": "吕珍九胖了好多",
@@ -217,6 +249,14 @@
       "onboard_time": 1677288266,
       "rank": 23,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 583808,
+      "num": 583808,
+      "word": "你认为存多少钱能有安全感",
+      "onboard_time": 1677296069,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 558798,
@@ -427,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 279838,
+      "num": 279838,
+      "word": "iPhone15Pro将配备LiDAR传感器",
+      "onboard_time": 1677296247,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 279384,
       "num": 279384,
       "word": "光渊更不更新",
@@ -491,12 +539,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 223873,
+      "num": 223873,
+      "word": "11个果冻242元价格离谱吗",
+      "onboard_time": 1677297992,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223158,
       "num": 223158,
       "word": "魏无羡的喷子",
       "onboard_time": 1677240506,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223013,
+      "num": 223013,
+      "word": "香港名媛遭谋杀警方已拘捕3人",
+      "onboard_time": 1677298771,
+      "rank": 31,
+      "category": "社会负面,艺人"
+    },
+    {
+      "raw_hot": 221277,
+      "num": 221277,
+      "word": "范世錡李一桐cp氛围感",
+      "onboard_time": 1677298712,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 220278,
@@ -513,14 +585,6 @@
       "onboard_time": 1677251078,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 209260,
-      "num": 209260,
-      "word": "张嘉倪露背私服好辣",
-      "onboard_time": 1677295888,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198929,
@@ -651,12 +715,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157758,
+      "num": 1799332,
+      "word": "金黄油菜花海与蓝天配色好搭",
+      "onboard_time": 1677297392,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152488,
       "num": 152488,
       "word": "宋茜白衬衫自拍",
       "onboard_time": 1677288384,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151168,
+      "num": 151168,
+      "word": "威少快船首秀",
+      "onboard_time": 1677297813,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 150387,
@@ -715,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132484,
+      "num": 132484,
+      "word": "行测常识",
+      "onboard_time": 1677298650,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 131002,
       "num": 131002,
       "word": "给熊猫宝宝换毯子全过程",
@@ -745,6 +833,14 @@
       "onboard_time": 1677250832,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120860,
+      "num": 120860,
+      "word": "灌篮高手出场队员7号宫城良田",
+      "onboard_time": 1677296850,
+      "rank": 45,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 120212,
@@ -785,22 +881,6 @@
       "onboard_time": 1677293246,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 111349,
-      "num": 111349,
-      "word": "你认为存多少钱能有安全感",
-      "onboard_time": 1677296069,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 110653,
-      "num": 110653,
-      "word": "申论",
-      "onboard_time": 1677247891,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 108368,
