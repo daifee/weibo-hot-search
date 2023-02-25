@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677306195498,
+  "endTime": 1677307068334,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 2098893,
-      "num": 392370,
+      "num": 418350,
       "word": "谭仔米线",
       "onboard_time": 1677303568,
       "rank": 10,
@@ -2323,6 +2323,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 788251,
+      "num": 788251,
+      "word": "秒睡可能是种睡眠障碍",
+      "onboard_time": 1677305068,
+      "rank": 9,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 787294,
       "num": 787294,
       "word": "苗苗说曾经觉得自己不配被人爱",
@@ -4107,8 +4115,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 533507,
-      "num": 386784,
+      "raw_hot": 533674,
+      "num": 415570,
       "word": "刘畊宏谈小泡芙扎针",
       "onboard_time": 1677304646,
       "rank": 11,
@@ -4393,6 +4401,14 @@
       "onboard_time": 1677228569,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497754,
+      "num": 414947,
+      "word": "吴磊赵露思片场骑马花絮",
+      "onboard_time": 1677306685,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 496783,
@@ -5179,6 +5195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 426437,
+      "num": 426437,
+      "word": "福宝",
+      "onboard_time": 1677303270,
+      "rank": 17,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 425042,
       "num": 425042,
       "word": "近5成韩国新婚夫妻不生子",
@@ -5603,12 +5627,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 392727,
-      "num": 392727,
-      "word": "秒睡可能是种睡眠障碍",
-      "onboard_time": 1677305068,
-      "rank": 9,
-      "category": "情感,社会新闻"
+      "raw_hot": 393438,
+      "num": 393438,
+      "word": "女子与前夫摆拍家暴视频被拘10日",
+      "onboard_time": 1677303026,
+      "rank": 46,
+      "category": "社会负面"
     },
     {
       "raw_hot": 392223,
@@ -5721,6 +5745,14 @@
       "onboard_time": 1676798129,
       "rank": 15,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 384985,
+      "num": 384985,
+      "word": "涉猥亵女干部的县长辞去人大代表",
+      "onboard_time": 1677301293,
+      "rank": 29,
+      "category": "社会负面"
     },
     {
       "raw_hot": 384401,
@@ -5897,14 +5929,6 @@
       "onboard_time": 1676953956,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 375782,
-      "num": 375782,
-      "word": "涉猥亵女干部的县长辞去人大代表",
-      "onboard_time": 1677301293,
-      "rank": 29,
-      "category": "社会负面"
     },
     {
       "raw_hot": 374755,
@@ -6411,14 +6435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 348117,
-      "num": 348117,
-      "word": "女子与前夫摆拍家暴视频被拘10日",
-      "onboard_time": 1677303026,
-      "rank": 46,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 347938,
       "num": 347938,
       "word": "拜登已离开基辅",
@@ -6585,6 +6601,14 @@
       "onboard_time": 1677242971,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 339623,
+      "num": 339623,
+      "word": "网友偶遇鹿晗合照",
+      "onboard_time": 1677303568,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 339565,
@@ -6931,14 +6955,6 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 322999,
-      "num": 322999,
-      "word": "网友偶遇鹿晗合照",
-      "onboard_time": 1677303568,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 322725,
       "num": 322725,
       "word": "丈夫婚后发现妻子患精神病起诉离婚",
@@ -7091,14 +7107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315828,
-      "num": 315828,
-      "word": "福宝",
-      "onboard_time": 1677303270,
-      "rank": 17,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 315363,
       "num": 315363,
       "word": "找工作后才明白的事",
@@ -7219,12 +7227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307658,
-      "num": 307658,
+      "raw_hot": 308089,
+      "num": 308089,
       "word": "101岁老人每天赶2场麻将",
       "onboard_time": 1677302550,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307686,
+      "num": 307686,
+      "word": "seventeen将5月举办Fanmeeting",
+      "onboard_time": 1677306565,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 307636,
@@ -8219,6 +8235,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 255781,
+      "num": 255781,
+      "word": "警方回应女子高铁站殴打威胁女童",
+      "onboard_time": 1677303809,
+      "rank": 25,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 254603,
       "num": 254603,
       "word": "名侦探学院",
@@ -8393,6 +8417,14 @@
       "onboard_time": 1677039214,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245698,
+      "num": 245698,
+      "word": "北上主演",
+      "onboard_time": 1677305547,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 243723,
@@ -8683,14 +8715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231058,
-      "num": 231058,
-      "word": "警方回应女子高铁站殴打威胁女童",
-      "onboard_time": 1677303809,
-      "rank": 25,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 230726,
       "num": 230726,
       "word": "于文文说林佳杀青快乐",
@@ -8961,14 +8985,6 @@
       "onboard_time": 1677204089,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219162,
-      "num": 219162,
-      "word": "北上主演",
-      "onboard_time": 1677305547,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 218936,
@@ -9473,6 +9489,14 @@
       "onboard_time": 1677119249,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201845,
+      "num": 201845,
+      "word": "国王绝平三分",
+      "onboard_time": 1677306626,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 201312,
@@ -10803,6 +10827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164745,
+      "num": 164745,
+      "word": "国王vs快船",
+      "onboard_time": 1677305186,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164693,
       "num": 164693,
       "word": "联想小新死机黑屏",
@@ -11017,14 +11049,6 @@
       "onboard_time": 1677285206,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157745,
-      "num": 157745,
-      "word": "国王vs快船",
-      "onboard_time": 1677305186,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 157617,
@@ -11531,6 +11555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137464,
+      "num": 137464,
+      "word": "国家医保局答记者问",
+      "onboard_time": 1677305307,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136925,
       "num": 136925,
       "word": "路人视角下的宋雨琦海外人气",
@@ -11561,14 +11593,6 @@
       "onboard_time": 1677040957,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135964,
-      "num": 135964,
-      "word": "国家医保局答记者问",
-      "onboard_time": 1677305307,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135826,
@@ -12313,6 +12337,14 @@
       "onboard_time": 1677197548,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 85497,
+      "num": 85497,
+      "word": "川籍华人飞3000公里看丫丫哭了",
+      "onboard_time": 1677306927,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84930,
