@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677290583019,
+  "endTime": 1677293425711,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -1371,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1091740,
+      "num": 1091740,
+      "word": "曝韩国男爱豆对女友施暴",
+      "onboard_time": 1677291927,
+      "rank": 3,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1083530,
       "num": 1083530,
       "word": "魏无羡的喷子",
@@ -1761,6 +1769,14 @@
       "onboard_time": 1676902414,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 922298,
+      "num": 922298,
+      "word": "月薪4万非洲养鸡岗位未招到人",
+      "onboard_time": 1677289467,
+      "rank": 11,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 917856,
@@ -3491,14 +3507,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 591754,
-      "num": 510578,
-      "word": "月薪4万非洲养鸡岗位未招到人",
-      "onboard_time": 1677289467,
-      "rank": 11,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 589151,
       "num": 589151,
       "word": "EXO和aespa歌曲正在制作中",
@@ -3513,6 +3521,14 @@
       "onboard_time": 1676962168,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 587290,
+      "num": 587290,
+      "word": "汶川地震幸存女孩戴义肢玩滑板",
+      "onboard_time": 1677288266,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 586321,
@@ -3569,14 +3585,6 @@
       "onboard_time": 1677170604,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 582258,
-      "num": 582258,
-      "word": "汶川地震幸存女孩戴义肢玩滑板",
-      "onboard_time": 1677288266,
-      "rank": 23,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 580136,
@@ -3841,6 +3849,14 @@
       "onboard_time": 1677113611,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 545322,
+      "num": 545322,
+      "word": "广东省考 难",
+      "onboard_time": 1677291507,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 545297,
@@ -4601,6 +4617,14 @@
       "onboard_time": 1677114449,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 459374,
+      "num": 459374,
+      "word": "吕珍九胖了好多",
+      "onboard_time": 1677292585,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 459007,
@@ -5923,6 +5947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362971,
+      "num": 362971,
+      "word": "刘耀文写给丁程鑫的信",
+      "onboard_time": 1677292826,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362287,
       "num": 362287,
       "word": "小学校长回应班主任多次收礼",
@@ -7091,6 +7123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296195,
+      "num": 296195,
+      "word": "考研找工作面试怎么准备",
+      "onboard_time": 1677290427,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 295833,
       "num": 295833,
       "word": "95后女生放弃安稳生活专职科普植物",
@@ -7411,6 +7451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279384,
+      "num": 279384,
+      "word": "光渊更不更新",
+      "onboard_time": 1677281600,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 278740,
       "num": 278740,
       "word": "江湖举人 上野千鹤子",
@@ -7585,6 +7633,14 @@
       "onboard_time": 1677121649,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271509,
+      "num": 271509,
+      "word": "扬科维奇规定体脂率超10%不能比赛",
+      "onboard_time": 1677291207,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 271259,
@@ -8025,6 +8081,14 @@
       "onboard_time": 1677232468,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 246837,
+      "num": 246837,
+      "word": "刘诗诗咖色风衣造型",
+      "onboard_time": 1677289946,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 246501,
@@ -8795,14 +8859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211452,
-      "num": 211452,
-      "word": "光渊更不更新",
-      "onboard_time": 1677281600,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211147,
       "num": 211147,
       "word": "YG新女团CHIQUITA介绍视频",
@@ -9555,6 +9611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188543,
+      "num": 188543,
+      "word": "森林进化论",
+      "onboard_time": 1677290068,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188452,
       "num": 188452,
       "word": "宋佳出发米兰时装周",
@@ -9667,14 +9731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185751,
-      "num": 185751,
-      "word": "森林进化论",
-      "onboard_time": 1677290068,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185697,
       "num": 185697,
       "word": "警惕购房零首付首付贷风险",
@@ -9745,14 +9801,6 @@
       "onboard_time": 1677076772,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183418,
-      "num": 183418,
-      "word": "刘诗诗咖色风衣造型",
-      "onboard_time": 1677289946,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 182995,
@@ -10097,6 +10145,14 @@
       "onboard_time": 1677218730,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173107,
+      "num": 173107,
+      "word": "2040年参加高考人数或不到600万",
+      "onboard_time": 1677293066,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 172994,
@@ -11715,6 +11771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102516,
+      "num": 102516,
+      "word": "肖战看秀座位",
+      "onboard_time": 1677293246,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 101857,
       "num": 101857,
       "word": "曼联vs莱斯特城",
@@ -11771,14 +11835,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 95253,
-      "num": 95253,
-      "word": "考研找工作面试怎么准备",
-      "onboard_time": 1677290427,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 95184,
       "num": 1571215,
       "word": "新一代载人登月飞船模型首次展出",
@@ -11833,6 +11889,22 @@
       "onboard_time": 1677260237,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91917,
+      "num": 91917,
+      "word": "庞博像极了上课怕被点名的我",
+      "onboard_time": 1677290845,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91289,
+      "num": 91289,
+      "word": "下班跳舞为啥让人上头",
+      "onboard_time": 1677293246,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 90250,

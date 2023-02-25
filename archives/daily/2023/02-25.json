@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677290583019,
+  "endTime": 1677293425711,
   "band_list": [
     {
       "raw_hot": 4003829,
@@ -67,6 +67,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1091740,
+      "num": 1091740,
+      "word": "曝韩国男爱豆对女友施暴",
+      "onboard_time": 1677291927,
+      "rank": 3,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1047754,
       "num": 1047754,
       "word": "丫丫回国流程进行到哪一步了",
@@ -81,6 +89,14 @@
       "onboard_time": 1677252334,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 922298,
+      "num": 922298,
+      "word": "月薪4万非洲养鸡岗位未招到人",
+      "onboard_time": 1677289467,
+      "rank": 11,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 889353,
@@ -139,16 +155,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 591754,
-      "num": 510578,
-      "word": "月薪4万非洲养鸡岗位未招到人",
-      "onboard_time": 1677289467,
-      "rank": 11,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 582258,
-      "num": 582258,
+      "raw_hot": 587290,
+      "num": 587290,
       "word": "汶川地震幸存女孩戴义肢玩滑板",
       "onboard_time": 1677288266,
       "rank": 23,
@@ -161,6 +169,14 @@
       "onboard_time": 1677287968,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 545322,
+      "num": 545322,
+      "word": "广东省考 难",
+      "onboard_time": 1677291507,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 541148,
@@ -193,6 +209,14 @@
       "onboard_time": 1677248559,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459374,
+      "num": 459374,
+      "word": "吕珍九胖了好多",
+      "onboard_time": 1677292585,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 443817,
@@ -259,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362971,
+      "num": 362971,
+      "word": "刘耀文写给丁程鑫的信",
+      "onboard_time": 1677292826,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357141,
       "num": 357141,
       "word": "你会选择单休的工作吗",
@@ -291,6 +323,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 296195,
+      "num": 296195,
+      "word": "考研找工作面试怎么准备",
+      "onboard_time": 1677290427,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 288525,
       "num": 288525,
       "word": "蔡天凤",
@@ -315,12 +355,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 279384,
+      "num": 279384,
+      "word": "光渊更不更新",
+      "onboard_time": 1677281600,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271509,
+      "num": 271509,
+      "word": "扬科维奇规定体脂率超10%不能比赛",
+      "onboard_time": 1677291207,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259202,
       "num": 259202,
       "word": "鹿晗牵小猫手",
       "onboard_time": 1677246874,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246837,
+      "num": 246837,
+      "word": "刘诗诗咖色风衣造型",
+      "onboard_time": 1677289946,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 245115,
@@ -379,14 +443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 211452,
-      "num": 211452,
-      "word": "光渊更不更新",
-      "onboard_time": 1677281600,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 198929,
       "num": 196903,
       "word": "我们的客栈",
@@ -419,20 +475,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185751,
-      "num": 185751,
+      "raw_hot": 188543,
+      "num": 188543,
       "word": "森林进化论",
       "onboard_time": 1677290068,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183418,
-      "num": 183418,
-      "word": "刘诗诗咖色风衣造型",
-      "onboard_time": 1677289946,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 178957,
@@ -449,6 +497,14 @@
       "onboard_time": 1677242491,
       "rank": 24,
       "category": "其它"
+    },
+    {
+      "raw_hot": 173107,
+      "num": 173107,
+      "word": "2040年参加高考人数或不到600万",
+      "onboard_time": 1677293066,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 171894,
@@ -667,20 +723,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 102516,
+      "num": 102516,
+      "word": "肖战看秀座位",
+      "onboard_time": 1677293246,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 102266,
       "num": 102266,
       "word": "唐嫣报喜不报忧",
       "onboard_time": 1677245549,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95253,
-      "num": 95253,
-      "word": "考研找工作面试怎么准备",
-      "onboard_time": 1677290427,
-      "rank": 46,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 94372,
@@ -697,6 +753,22 @@
       "onboard_time": 1677260237,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91917,
+      "num": 91917,
+      "word": "庞博像极了上课怕被点名的我",
+      "onboard_time": 1677290845,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91289,
+      "num": 91289,
+      "word": "下班跳舞为啥让人上头",
+      "onboard_time": 1677293246,
+      "rank": 49,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 90039,
