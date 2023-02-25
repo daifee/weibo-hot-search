@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677363467492,
+  "endTime": 1677364475201,
   "band_list": [
     {
       "raw_hot": 924122,
@@ -355,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126796,
+      "num": 24743,
+      "word": "CNN拍下解放军对峙美机",
+      "onboard_time": 1677359351,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 111315,
       "num": 111315,
       "word": "行测答案",
@@ -379,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98875,
-      "num": 22564,
-      "word": "CNN拍下解放军对峙美机",
-      "onboard_time": 1677359351,
-      "rank": 36,
-      "category": "军事"
-    },
-    {
       "raw_hot": 96957,
       "num": 105626,
       "word": "沈梦瑶表现力",
@@ -395,8 +395,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 84868,
-      "num": 44901,
+      "raw_hot": 87133,
+      "num": 55981,
       "word": "美防长称已经数月没和中国防长通话",
       "onboard_time": 1677358151,
       "rank": 10,
@@ -505,6 +505,14 @@
       "onboard_time": 1677340050,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 17919,
+      "num": 18451,
+      "word": "健康路成郑州干饭顶流",
+      "onboard_time": 1677364215,
+      "rank": 45,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

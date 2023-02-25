@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677363467492,
+  "endTime": 1677364475201,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -53547,6 +53547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126796,
+      "num": 24743,
+      "word": "CNN拍下解放军对峙美机",
+      "onboard_time": 1677359351,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 126688,
       "num": 126688,
       "word": "齐耶赫转会巴黎告吹",
@@ -54819,14 +54827,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 98875,
-      "num": 22564,
-      "word": "CNN拍下解放军对峙美机",
-      "onboard_time": 1677359351,
-      "rank": 36,
-      "category": "军事"
-    },
-    {
       "raw_hot": 98788,
       "num": 98788,
       "word": "小佩顿回归勇士",
@@ -55187,6 +55187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87133,
+      "num": 55981,
+      "word": "美防长称已经数月没和中国防长通话",
+      "onboard_time": 1677358151,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 86681,
       "num": 86681,
       "word": "李秀满仍拥有SMTOWN经营权",
@@ -55257,14 +55265,6 @@
       "onboard_time": 1676932215,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84868,
-      "num": 44901,
-      "word": "美防长称已经数月没和中国防长通话",
-      "onboard_time": 1677358151,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 84717,
@@ -56585,6 +56585,14 @@
       "onboard_time": 1677188592,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 17919,
+      "num": 18451,
+      "word": "健康路成郑州干饭顶流",
+      "onboard_time": 1677364215,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16380,
