@@ -1,0 +1,410 @@
+{
+  "runTime": 1677306195498,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1200479,
+        "num": 1200479,
+        "word": "清明假期不调休",
+        "onboard_time": 1677297090,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959626,
+        "num": 959626,
+        "word": "杨蓉也买不到完美的光腿神器",
+        "onboard_time": 1677301471,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128250,
+        "num": 857493,
+        "word": "金黄油菜花海与蓝天配色好搭",
+        "onboard_time": 1677297392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819890,
+        "num": 819890,
+        "word": "香港名媛遭谋杀警方已拘捕3人",
+        "onboard_time": 1677298771,
+        "rank": 3,
+        "category": "社会负面,艺人"
+      },
+      {
+        "raw_hot": 747655,
+        "num": 747655,
+        "word": "巴奴火锅创始人再回应天价土豆",
+        "onboard_time": 1677300693,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606870,
+        "num": 606870,
+        "word": "沈月何与吻戏",
+        "onboard_time": 1677303090,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553465,
+        "num": 553465,
+        "word": "申论",
+        "onboard_time": 1677297028,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 467359,
+        "num": 467359,
+        "word": "乌梅子酱 口水歌",
+        "onboard_time": 1677286585,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 457235,
+        "num": 457235,
+        "word": "你认为存多少钱能有安全感",
+        "onboard_time": 1677296069,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392727,
+        "num": 392727,
+        "word": "秒睡可能是种睡眠障碍",
+        "onboard_time": 1677305068,
+        "rank": 9,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 2098893,
+        "num": 392370,
+        "word": "谭仔米线",
+        "onboard_time": 1677303568,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 533507,
+        "num": 386784,
+        "word": "刘畊宏谈小泡芙扎针",
+        "onboard_time": 1677304646,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417234,
+        "num": 378556,
+        "word": "张嘉倪露背私服好辣",
+        "onboard_time": 1677295888,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370176,
+        "num": 370176,
+        "word": "涉猥亵女干部的县长辞去人大代表",
+        "onboard_time": 1677301293,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 348117,
+        "num": 348117,
+        "word": "女子与前夫摆拍家暴视频被拘10日",
+        "onboard_time": 1677303026,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 329583,
+        "num": 329583,
+        "word": "广东省考 难",
+        "onboard_time": 1677291507,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 322999,
+        "num": 322999,
+        "word": "网友偶遇鹿晗合照",
+        "onboard_time": 1677303568,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315828,
+        "num": 315828,
+        "word": "福宝",
+        "onboard_time": 1677303270,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 310910,
+        "num": 310910,
+        "word": "11名缉毒警和徒弟们合影不露脸",
+        "onboard_time": 1677300874,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307658,
+        "num": 307658,
+        "word": "101岁老人每天赶2场麻将",
+        "onboard_time": 1677302550,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299200,
+        "num": 299200,
+        "word": "行测",
+        "onboard_time": 1677284365,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 284147,
+        "num": 284147,
+        "word": "金泰亨把口罩当成护目镜",
+        "onboard_time": 1677300211,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273902,
+        "num": 273902,
+        "word": "汤普森12记三分",
+        "onboard_time": 1677304227,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244202,
+        "num": 244202,
+        "word": "诗情画奕",
+        "onboard_time": 1677300931,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231486,
+        "num": 231486,
+        "word": "iPhone15Pro将配备LiDAR传感器",
+        "onboard_time": 1677296247,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 231058,
+        "num": 231058,
+        "word": "警方回应女子高铁站殴打威胁女童",
+        "onboard_time": 1677303809,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 225882,
+        "num": 225882,
+        "word": "丫丫回国流程进行到哪一步了",
+        "onboard_time": 1677287066,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219162,
+        "num": 219162,
+        "word": "北上主演",
+        "onboard_time": 1677305547,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175136,
+        "num": 175136,
+        "word": "威少快船首秀",
+        "onboard_time": 1677297813,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164369,
+        "num": 164369,
+        "word": "你好星期六全员晒工牌",
+        "onboard_time": 1677295047,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 886845,
+        "num": 163074,
+        "word": "丫丫 乞食",
+        "onboard_time": 1677293547,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159970,
+        "num": 159970,
+        "word": "吕珍九胖了好多",
+        "onboard_time": 1677292585,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159815,
+        "num": 159815,
+        "word": "想偷孙悦的衣柜",
+        "onboard_time": 1677299069,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158788,
+        "num": 158788,
+        "word": "光渊",
+        "onboard_time": 1677281120,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157745,
+        "num": 157745,
+        "word": "国王vs快船",
+        "onboard_time": 1677305186,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157411,
+        "num": 157411,
+        "word": "月薪4万非洲养鸡岗位未招到人",
+        "onboard_time": 1677289467,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 157252,
+        "num": 157252,
+        "word": "李荣浩的歌",
+        "onboard_time": 1677294025,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152380,
+        "num": 152380,
+        "word": "范世錡李一桐cp氛围感",
+        "onboard_time": 1677298712,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152128,
+        "num": 152128,
+        "word": "蔡徐坤又收到粉丝送的蓝玫瑰",
+        "onboard_time": 1677300452,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135964,
+        "num": 135964,
+        "word": "国家医保局答记者问",
+        "onboard_time": 1677305307,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133502,
+        "num": 133502,
+        "word": "广西一艘船上3人窒息死亡",
+        "onboard_time": 1677287486,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113867,
+        "num": 113867,
+        "word": "法考",
+        "onboard_time": 1677301892,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113501,
+        "num": 113501,
+        "word": "光渊更不更新",
+        "onboard_time": 1677281600,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103982,
+        "num": 103982,
+        "word": "iPhone15Plus渲染图曝光",
+        "onboard_time": 1677293965,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 100780,
+        "num": 100780,
+        "word": "被无人机播种效率惊呆了",
+        "onboard_time": 1677301293,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92833,
+        "num": 92833,
+        "word": "地铁跑酷",
+        "onboard_time": 1677289225,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90759,
+        "num": 90759,
+        "word": "省考",
+        "onboard_time": 1677280939,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 83154,
+        "num": 83154,
+        "word": "李宇春 开云老板老板娘",
+        "onboard_time": 1677286706,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79219,
+        "num": 79219,
+        "word": "孟菲斯曾说丫丫毛发稀疏是家族遗传",
+        "onboard_time": 1677288146,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75350,
+        "num": 75350,
+        "word": "资料分析",
+        "onboard_time": 1677297753,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大代表全名单#"
+    }
+  }
+}

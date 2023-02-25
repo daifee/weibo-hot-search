@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677303230832,
+  "endTime": 1677306195498,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -345,6 +345,14 @@
       "onboard_time": 1676890049,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2098893,
+      "num": 392370,
+      "word": "谭仔米线",
+      "onboard_time": 1677303568,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2034507,
@@ -1771,6 +1779,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 959626,
+      "num": 959626,
+      "word": "杨蓉也买不到完美的光腿神器",
+      "onboard_time": 1677301471,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 958449,
       "num": 958449,
       "word": "乌梅子酱",
@@ -2000,14 +2016,6 @@
       "word": "双北",
       "onboard_time": 1677284606,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 884679,
-      "num": 884679,
-      "word": "杨蓉也买不到完美的光腿神器",
-      "onboard_time": 1677301471,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -2555,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 747655,
+      "num": 747655,
+      "word": "巴奴火锅创始人再回应天价土豆",
+      "onboard_time": 1677300693,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 745194,
       "num": 745194,
       "word": "14岁女孩暴发性心肌炎1年9次返院",
@@ -2985,14 +3001,6 @@
       "onboard_time": 1677132569,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 682119,
-      "num": 682119,
-      "word": "巴奴火锅创始人再回应天价土豆",
-      "onboard_time": 1677300693,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 680477,
@@ -3497,6 +3505,14 @@
       "onboard_time": 1677132689,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 606870,
+      "num": 606870,
+      "word": "沈月何与吻戏",
+      "onboard_time": 1677303090,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 604698,
@@ -4089,6 +4105,14 @@
       "onboard_time": 1676952814,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 533507,
+      "num": 386784,
+      "word": "刘畊宏谈小泡芙扎针",
+      "onboard_time": 1677304646,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 531083,
@@ -5579,6 +5603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 392727,
+      "num": 392727,
+      "word": "秒睡可能是种睡眠障碍",
+      "onboard_time": 1677305068,
+      "rank": 9,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 392223,
       "num": 392223,
       "word": "catti",
@@ -6379,6 +6411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348117,
+      "num": 348117,
+      "word": "女子与前夫摆拍家暴视频被拘10日",
+      "onboard_time": 1677303026,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 347938,
       "num": 347938,
       "word": "拜登已离开基辅",
@@ -6891,6 +6931,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 322999,
+      "num": 322999,
+      "word": "网友偶遇鹿晗合照",
+      "onboard_time": 1677303568,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322725,
       "num": 322725,
       "word": "丈夫婚后发现妻子患精神病起诉离婚",
@@ -7043,6 +7091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315828,
+      "num": 315828,
+      "word": "福宝",
+      "onboard_time": 1677303270,
+      "rank": 17,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 315363,
       "num": 315363,
       "word": "找工作后才明白的事",
@@ -7161,6 +7217,14 @@
       "onboard_time": 1676882130,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307658,
+      "num": 307658,
+      "word": "101岁老人每天赶2场麻将",
+      "onboard_time": 1677302550,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307636,
@@ -7771,6 +7835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273902,
+      "num": 273902,
+      "word": "汤普森12记三分",
+      "onboard_time": 1677304227,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273733,
       "num": 273733,
       "word": "杨幂童年古装旧照",
@@ -7809,14 +7881,6 @@
       "onboard_time": 1676900011,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 272741,
-      "num": 272741,
-      "word": "沈月何与吻戏",
-      "onboard_time": 1677303090,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 272538,
@@ -8619,6 +8683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231058,
+      "num": 231058,
+      "word": "警方回应女子高铁站殴打威胁女童",
+      "onboard_time": 1677303809,
+      "rank": 25,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 230726,
       "num": 230726,
       "word": "于文文说林佳杀青快乐",
@@ -8889,6 +8961,14 @@
       "onboard_time": 1677204089,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219162,
+      "num": 219162,
+      "word": "北上主演",
+      "onboard_time": 1677305547,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 218936,
@@ -10939,6 +11019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157745,
+      "num": 157745,
+      "word": "国王vs快船",
+      "onboard_time": 1677305186,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157617,
       "num": 157617,
       "word": "KSG战胜XYG",
@@ -11227,14 +11315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146228,
-      "num": 146228,
-      "word": "101岁老人每天赶2场麻将",
-      "onboard_time": 1677302550,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145789,
       "num": 145789,
       "word": "金晨剪刘海vlog",
@@ -11481,6 +11561,14 @@
       "onboard_time": 1677040957,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135964,
+      "num": 135964,
+      "word": "国家医保局答记者问",
+      "onboard_time": 1677305307,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135826,
@@ -12049,14 +12137,6 @@
       "onboard_time": 1676814092,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 107107,
-      "num": 107107,
-      "word": "女子与前夫摆拍家暴视频被拘10日",
-      "onboard_time": 1677303026,
-      "rank": 46,
-      "category": "社会负面"
     },
     {
       "raw_hot": 106395,
@@ -12639,6 +12719,9 @@
     },
     {
       "word": "#数字碳中和#"
+    },
+    {
+      "word": "#十四届全国人大代表全名单#"
     }
   ]
 }
