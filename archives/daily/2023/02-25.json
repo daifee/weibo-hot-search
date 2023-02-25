@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677295385007,
+  "endTime": 1677296193191,
   "band_list": [
     {
       "raw_hot": 4003829,
@@ -35,12 +35,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1627912,
-      "num": 1627912,
+      "raw_hot": 2024320,
+      "num": 2024320,
       "word": "丫丫 乞食",
       "onboard_time": 1677293547,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2012432,
+      "num": 2012432,
+      "word": "香港警方公布蔡天凤碎尸案细节",
+      "onboard_time": 1677295288,
+      "rank": 41,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1670979,
+      "num": 1670979,
+      "word": "省考",
+      "onboard_time": 1677280939,
+      "rank": 1,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1597204,
@@ -51,8 +67,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1233923,
-      "num": 1233923,
+      "raw_hot": 1343991,
+      "num": 1343991,
       "word": "2040年参加高考人数或不到600万",
       "onboard_time": 1677293066,
       "rank": 33,
@@ -67,11 +83,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1215057,
-      "num": 1215057,
-      "word": "省考",
-      "onboard_time": 1677280939,
-      "rank": 1,
+      "raw_hot": 1158331,
+      "num": 1158331,
+      "word": "行测",
+      "onboard_time": 1677284365,
+      "rank": 11,
       "category": "教育,社会新闻"
     },
     {
@@ -137,6 +153,14 @@
       "onboard_time": 1677287486,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 781632,
+      "num": 781632,
+      "word": "你好星期六全员晒工牌",
+      "onboard_time": 1677295047,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 740860,
@@ -227,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 513734,
-      "num": 513734,
-      "word": "行测",
-      "onboard_time": 1677284365,
-      "rank": 11,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 487285,
       "num": 487285,
       "word": "多省份公务员扩招",
@@ -251,12 +267,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452311,
-      "num": 452311,
-      "word": "你好星期六全员晒工牌",
-      "onboard_time": 1677295047,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 469477,
+      "num": 469477,
+      "word": "iPhone15Plus渲染图曝光",
+      "onboard_time": 1677293965,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 452939,
+      "num": 452939,
+      "word": "河南省考",
+      "onboard_time": 1677295769,
+      "rank": 15,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 443817,
@@ -273,14 +297,6 @@
       "onboard_time": 1677287245,
       "rank": 13,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 432435,
-      "num": 432435,
-      "word": "iPhone15Plus渲染图曝光",
-      "onboard_time": 1677293965,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 428461,
@@ -499,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209260,
+      "num": 209260,
+      "word": "张嘉倪露背私服好辣",
+      "onboard_time": 1677295888,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198929,
       "num": 196903,
       "word": "我们的客栈",
@@ -651,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147647,
-      "num": 147647,
-      "word": "香港警方公布蔡天凤碎尸案细节",
-      "onboard_time": 1677295288,
-      "rank": 41,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 143583,
       "num": 143583,
       "word": "程潇回国机场饭拍",
@@ -771,6 +787,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 111349,
+      "num": 111349,
+      "word": "你认为存多少钱能有安全感",
+      "onboard_time": 1677296069,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110653,
       "num": 110653,
       "word": "申论",
@@ -793,6 +817,14 @@
       "onboard_time": 1677248375,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 105339,
+      "num": 105339,
+      "word": "立体糖画",
+      "onboard_time": 1677295649,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 103388,
@@ -852,7 +884,7 @@
     },
     {
       "raw_hot": 89480,
-      "num": 1571215,
+      "num": 2012590,
       "word": "新一代载人登月飞船模型首次展出",
       "onboard_time": 1677250479,
       "rank": 2,
