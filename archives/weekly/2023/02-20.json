@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677357212575,
+  "endTime": 1677359761105,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -13803,6 +13803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 42961,
+      "num": 33217,
+      "word": "美防长称已经数月没和中国防长通话",
+      "onboard_time": 1677358151,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 42130,
       "num": 42130,
       "word": "cpsp 阿宅拉练",
@@ -13857,6 +13865,14 @@
       "onboard_time": 1677110428,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28567,
+      "num": 28567,
+      "word": "新一届全国人大代表全名单公布",
+      "onboard_time": 1677356592,
+      "rank": 36,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 27975,
@@ -13915,12 +13931,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 17986,
-      "num": 19556,
-      "word": "新一届全国人大代表全名单公布",
-      "onboard_time": 1677356592,
+      "raw_hot": 17252,
+      "num": 17252,
+      "word": "CNN拍下解放军对峙美机",
+      "onboard_time": 1677359351,
       "rank": 36,
-      "category": "国内要闻"
+      "category": "军事"
     },
     {
       "raw_hot": 16352,
