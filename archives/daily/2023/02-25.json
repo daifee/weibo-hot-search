@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677302247159,
+  "endTime": 1677303230832,
   "band_list": [
     {
       "raw_hot": 9510697,
@@ -67,6 +67,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1613706,
+      "num": 1613706,
+      "word": "申论",
+      "onboard_time": 1677247891,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1597204,
       "num": 1324752,
       "word": "GUCCI CEO",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1591855,
-      "num": 1096970,
+      "num": 1380217,
       "word": "香港名媛遭谋杀警方已拘捕3人",
       "onboard_time": 1677298771,
       "rank": 31,
@@ -139,14 +147,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 1086144,
-      "num": 1086144,
-      "word": "申论",
-      "onboard_time": 1677247891,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1047754,
       "num": 1047754,
       "word": "丫丫回国流程进行到哪一步了",
@@ -176,6 +176,14 @@
       "word": "双北",
       "onboard_time": 1677284606,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 884679,
+      "num": 884679,
+      "word": "杨蓉也买不到完美的光腿神器",
+      "onboard_time": 1677301471,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -243,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 682119,
+      "num": 682119,
+      "word": "巴奴火锅创始人再回应天价土豆",
+      "onboard_time": 1677300693,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653038,
       "num": 653038,
       "word": "你认为存多少钱能有安全感",
@@ -297,14 +313,6 @@
       "onboard_time": 1677289225,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 525888,
-      "num": 525888,
-      "word": "巴奴火锅创始人再回应天价土豆",
-      "onboard_time": 1677300693,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 519647,
@@ -387,14 +395,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 425900,
-      "num": 425900,
-      "word": "杨蓉也买不到完美的光腿神器",
-      "onboard_time": 1677301471,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 413781,
       "num": 413781,
       "word": "丫丫快回家吧",
@@ -435,12 +435,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375782,
+      "num": 375782,
+      "word": "涉猥亵女干部的县长辞去人大代表",
+      "onboard_time": 1677301293,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 362971,
       "num": 362971,
       "word": "刘耀文写给丁程鑫的信",
       "onboard_time": 1677292826,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357952,
+      "num": 357952,
+      "word": "11名缉毒警和徒弟们合影不露脸",
+      "onboard_time": 1677300874,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357141,
@@ -523,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285085,
-      "num": 285085,
-      "word": "11名缉毒警和徒弟们合影不露脸",
-      "onboard_time": 1677300874,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283464,
       "num": 283464,
       "word": "蔡徐坤又收到粉丝送的蓝玫瑰",
@@ -563,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272741,
+      "num": 272741,
+      "word": "沈月何与吻戏",
+      "onboard_time": 1677303090,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272319,
       "num": 272319,
       "word": "吉林省考",
@@ -593,14 +609,6 @@
       "onboard_time": 1677299069,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248473,
-      "num": 248473,
-      "word": "涉猥亵女干部的县长辞去人大代表",
-      "onboard_time": 1677301293,
-      "rank": 29,
-      "category": "社会负面"
     },
     {
       "raw_hot": 246837,
@@ -681,6 +689,14 @@
       "onboard_time": 1677251078,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200468,
+      "num": 200468,
+      "word": "法考",
+      "onboard_time": 1677301892,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 198929,
@@ -819,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154585,
-      "num": 154585,
-      "word": "法考",
-      "onboard_time": 1677301892,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 152488,
       "num": 152488,
       "word": "宋茜白衬衫自拍",
@@ -848,6 +856,14 @@
       "word": "春捂到底应该捂哪儿",
       "onboard_time": 1677286405,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146228,
+      "num": 146228,
+      "word": "101岁老人每天赶2场麻将",
+      "onboard_time": 1677302550,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -985,6 +1001,14 @@
       "onboard_time": 1677248375,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 107107,
+      "num": 107107,
+      "word": "女子与前夫摆拍家暴视频被拘10日",
+      "onboard_time": 1677303026,
+      "rank": 46,
+      "category": "社会负面"
     },
     {
       "raw_hot": 105339,
