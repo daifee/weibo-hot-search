@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677299008426,
+  "endTime": 1677299924395,
   "band_list": [
     {
       "raw_hot": 9510697,
@@ -19,20 +19,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 3460815,
+      "num": 3460815,
+      "word": "丫丫 乞食",
+      "onboard_time": 1677293547,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3243202,
       "num": 351659,
       "word": "香港名媛蔡天凤遭谋杀",
       "onboard_time": 1677281060,
       "rank": 10,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 3211472,
-      "num": 3211472,
-      "word": "丫丫 乞食",
-      "onboard_time": 1677293547,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2878817,
@@ -75,6 +75,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1415220,
+      "num": 753199,
+      "word": "肖战上意大利电视了",
+      "onboard_time": 1677299069,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1343991,
       "num": 1343991,
       "word": "2040年参加高考人数或不到600万",
@@ -113,6 +121,14 @@
       "onboard_time": 1677291927,
       "rank": 3,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1068003,
+      "num": 1068003,
+      "word": "清明假期不调休",
+      "onboard_time": 1677297090,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1047754,
@@ -155,14 +171,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 842654,
-      "num": 842654,
-      "word": "清明假期不调休",
-      "onboard_time": 1677297090,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 816501,
       "num": 336638,
       "word": "广西一艘船上3人窒息死亡",
@@ -171,8 +179,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809366,
+      "num": 809366,
+      "word": "香港名媛遭谋杀警方已拘捕3人",
+      "onboard_time": 1677298771,
+      "rank": 31,
+      "category": "社会负面,艺人"
+    },
+    {
       "raw_hot": 785692,
-      "num": 610217,
+      "num": 621423,
       "word": "张嘉倪露背私服好辣",
       "onboard_time": 1677295888,
       "rank": 33,
@@ -227,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 653038,
+      "num": 653038,
+      "word": "你认为存多少钱能有安全感",
+      "onboard_time": 1677296069,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 613819,
       "num": 613819,
       "word": "资料分析",
@@ -249,14 +273,6 @@
       "onboard_time": 1677288266,
       "rank": 23,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 583808,
-      "num": 583808,
-      "word": "你认为存多少钱能有安全感",
-      "onboard_time": 1677296069,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 558798,
@@ -419,12 +435,36 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 341094,
+      "num": 341094,
+      "word": "行测常识",
+      "onboard_time": 1677298650,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 333942,
       "num": 333942,
       "word": "小城市房子会越来越不值钱吗",
       "onboard_time": 1677244650,
       "rank": 14,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 333098,
+      "num": 333098,
+      "word": "范世錡李一桐cp氛围感",
+      "onboard_time": 1677298712,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 327150,
+      "num": 288525,
+      "word": "蔡天凤",
+      "onboard_time": 1677250180,
+      "rank": 17,
+      "category": "社会负面"
     },
     {
       "raw_hot": 322318,
@@ -441,14 +481,6 @@
       "onboard_time": 1677291207,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 288525,
-      "num": 288525,
-      "word": "蔡天凤",
-      "onboard_time": 1677250180,
-      "rank": 17,
-      "category": "社会负面"
     },
     {
       "raw_hot": 281791,
@@ -497,6 +529,14 @@
       "onboard_time": 1677246874,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254032,
+      "num": 254032,
+      "word": "想偷孙悦的衣柜",
+      "onboard_time": 1677299069,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 246837,
@@ -555,22 +595,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 223013,
-      "num": 223013,
-      "word": "香港名媛遭谋杀警方已拘捕3人",
-      "onboard_time": 1677298771,
-      "rank": 31,
-      "category": "社会负面,艺人"
-    },
-    {
-      "raw_hot": 221277,
-      "num": 221277,
-      "word": "范世錡李一桐cp氛围感",
-      "onboard_time": 1677298712,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220278,
       "num": 220278,
       "word": "夏花",
@@ -625,6 +649,14 @@
       "onboard_time": 1677290068,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186707,
+      "num": 2182228,
+      "word": "金黄油菜花海与蓝天配色好搭",
+      "onboard_time": 1677297392,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184814,
@@ -715,14 +747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157758,
-      "num": 1799332,
-      "word": "金黄油菜花海与蓝天配色好搭",
-      "onboard_time": 1677297392,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152488,
       "num": 152488,
       "word": "宋茜白衬衫自拍",
@@ -793,14 +817,6 @@
       "onboard_time": 1677294386,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132484,
-      "num": 132484,
-      "word": "行测常识",
-      "onboard_time": 1677298650,
-      "rank": 41,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 131002,

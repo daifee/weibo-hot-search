@@ -1,0 +1,410 @@
+{
+  "runTime": 1677299924395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9060892,
+        "num": 9060892,
+        "word": "香港警方公布蔡天凤碎尸案细节",
+        "onboard_time": 1677295288,
+        "rank": 0,
+        "category": "社会负面,艺人"
+      },
+      {
+        "raw_hot": 3460815,
+        "num": 3460815,
+        "word": "丫丫 乞食",
+        "onboard_time": 1677293547,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186707,
+        "num": 2182228,
+        "word": "金黄油菜花海与蓝天配色好搭",
+        "onboard_time": 1677297392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1230619,
+        "num": 1230619,
+        "word": "行测",
+        "onboard_time": 1677284365,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1068003,
+        "num": 1068003,
+        "word": "清明假期不调休",
+        "onboard_time": 1677297090,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952267,
+        "num": 952267,
+        "word": "2040年参加高考人数或不到600万",
+        "onboard_time": 1677293066,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 855096,
+        "num": 855096,
+        "word": "乌梅子酱 口水歌",
+        "onboard_time": 1677286585,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 826132,
+        "num": 826132,
+        "word": "省考",
+        "onboard_time": 1677280939,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 809366,
+        "num": 809366,
+        "word": "香港名媛遭谋杀警方已拘捕3人",
+        "onboard_time": 1677298771,
+        "rank": 8,
+        "category": "社会负面,艺人"
+      },
+      {
+        "raw_hot": 771778,
+        "num": 771778,
+        "word": "申论",
+        "onboard_time": 1677297028,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1415220,
+        "num": 753199,
+        "word": "肖战上意大利电视了",
+        "onboard_time": 1677299069,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 653038,
+        "num": 653038,
+        "word": "你认为存多少钱能有安全感",
+        "onboard_time": 1677296069,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 722109,
+        "num": 621423,
+        "word": "张嘉倪露背私服好辣",
+        "onboard_time": 1677295888,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 580950,
+        "num": 580950,
+        "word": "资料分析",
+        "onboard_time": 1677297753,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 422193,
+        "num": 422193,
+        "word": "你好星期六全员晒工牌",
+        "onboard_time": 1677295047,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417056,
+        "num": 417056,
+        "word": "曝韩国男爱豆对女友施暴",
+        "onboard_time": 1677291927,
+        "rank": 15,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 374408,
+        "num": 374408,
+        "word": "丫丫回国流程进行到哪一步了",
+        "onboard_time": 1677287066,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363912,
+        "num": 363912,
+        "word": "月薪4万非洲养鸡岗位未招到人",
+        "onboard_time": 1677289467,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 343006,
+        "num": 343006,
+        "word": "吕珍九胖了好多",
+        "onboard_time": 1677292585,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341094,
+        "num": 341094,
+        "word": "行测常识",
+        "onboard_time": 1677298650,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1295750,
+        "num": 340997,
+        "word": "香港名媛蔡天凤遭谋杀",
+        "onboard_time": 1677281060,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 336029,
+        "num": 336029,
+        "word": "光渊",
+        "onboard_time": 1677281120,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336009,
+        "num": 336009,
+        "word": "李荣浩的歌",
+        "onboard_time": 1677294025,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 333098,
+        "num": 333098,
+        "word": "范世錡李一桐cp氛围感",
+        "onboard_time": 1677298712,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295047,
+        "num": 295047,
+        "word": "广西一艘船上3人窒息死亡",
+        "onboard_time": 1677287486,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279668,
+        "num": 279668,
+        "word": "iPhone15Pro将配备LiDAR传感器",
+        "onboard_time": 1677296247,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 275254,
+        "num": 275254,
+        "word": "iPhone15Plus渲染图曝光",
+        "onboard_time": 1677293965,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 262398,
+        "num": 262398,
+        "word": "河南省考",
+        "onboard_time": 1677295769,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 254032,
+        "num": 254032,
+        "word": "想偷孙悦的衣柜",
+        "onboard_time": 1677299069,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198509,
+        "num": 238708,
+        "word": "孟菲斯曾说丫丫毛发稀疏是家族遗传",
+        "onboard_time": 1677288146,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234557,
+        "num": 234557,
+        "word": "光渊更不更新",
+        "onboard_time": 1677281600,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225517,
+        "num": 225517,
+        "word": "李宇春 开云老板老板娘",
+        "onboard_time": 1677286706,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229216,
+        "num": 221417,
+        "word": "丫丫",
+        "onboard_time": 1677255387,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174695,
+        "num": 174695,
+        "word": "姐弟恋比例持续攀升",
+        "onboard_time": 1677260176,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160170,
+        "num": 160170,
+        "word": "地铁跑酷",
+        "onboard_time": 1677289225,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154368,
+        "num": 154368,
+        "word": "双北",
+        "onboard_time": 1677284606,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150860,
+        "num": 150860,
+        "word": "威少快船首秀",
+        "onboard_time": 1677297813,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150089,
+        "num": 150089,
+        "word": "汶川地震幸存女孩戴义肢玩滑板",
+        "onboard_time": 1677288266,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 149455,
+        "num": 149455,
+        "word": "广东省考 难",
+        "onboard_time": 1677291507,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136552,
+        "num": 136552,
+        "word": "下班跳舞为啥让人上头",
+        "onboard_time": 1677293246,
+        "rank": 39,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 125778,
+        "num": 125778,
+        "word": "刘耀文写给丁程鑫的信",
+        "onboard_time": 1677292826,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119911,
+        "num": 119911,
+        "word": "扬科维奇规定体脂率超10%不能比赛",
+        "onboard_time": 1677291207,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113825,
+        "num": 113825,
+        "word": "11个果冻242元价格离谱吗",
+        "onboard_time": 1677297992,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113520,
+        "num": 113520,
+        "word": "灌篮高手出场队员7号宫城良田",
+        "onboard_time": 1677296850,
+        "rank": 43,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 108815,
+        "num": 108815,
+        "word": "浪漫手机",
+        "onboard_time": 1677288807,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102913,
+        "num": 102913,
+        "word": "吉林省考",
+        "onboard_time": 1677294928,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 327150,
+        "num": 101748,
+        "word": "蔡天凤",
+        "onboard_time": 1677250180,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 100280,
+        "num": 100280,
+        "word": "水哥最强大脑5分钟答对15道题",
+        "onboard_time": 1677254071,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92926,
+        "num": 92926,
+        "word": "以爱为营 车内吻",
+        "onboard_time": 1677254607,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89233,
+        "num": 89233,
+        "word": "渊种的精神状态",
+        "onboard_time": 1677294025,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#数字碳中和#"
+    }
+  }
+}
