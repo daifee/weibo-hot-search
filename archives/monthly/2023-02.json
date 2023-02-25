@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677316678942,
+  "endTime": 1677317620027,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1836,7 +1836,7 @@
     },
     {
       "raw_hot": 2098893,
-      "num": 604178,
+      "num": 629137,
       "word": "谭仔米线",
       "onboard_time": 1677303568,
       "rank": 10,
@@ -2017,6 +2017,14 @@
       "onboard_time": 1677038320,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2003182,
+      "num": 2003182,
+      "word": "省考",
+      "onboard_time": 1677217111,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 1998988,
@@ -3161,14 +3169,6 @@
       "onboard_time": 1675408288,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1670979,
-      "num": 1670979,
-      "word": "省考",
-      "onboard_time": 1677217111,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 1668803,
@@ -4851,6 +4851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1307049,
+      "num": 1307049,
+      "word": "众星为李一桐新剧打call",
+      "onboard_time": 1677314969,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1305240,
       "num": 1305240,
       "word": "97岁奶奶为吃炸鸡打扮3小时",
@@ -6009,14 +6017,6 @@
       "onboard_time": 1676081967,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1158706,
-      "num": 1158706,
-      "word": "众星为李一桐新剧打call",
-      "onboard_time": 1677314969,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1157625,
@@ -9667,12 +9667,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 863347,
+      "num": 644300,
+      "word": "丁禹兮回应被扎针花絮",
+      "onboard_time": 1677316528,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 863271,
       "num": 863271,
       "word": "网友在泰国偶遇鞠婧祎",
       "onboard_time": 1675782154,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 863197,
+      "num": 863197,
+      "word": "泽连斯基强忍泪水诉苦",
+      "onboard_time": 1677312927,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 862849,
@@ -10779,14 +10795,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 803718,
-      "num": 803718,
-      "word": "泽连斯基强忍泪水诉苦",
-      "onboard_time": 1677312927,
-      "rank": 35,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 803299,
       "num": 803299,
       "word": "少爷和我 把事办妥",
@@ -11211,6 +11219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 780715,
+      "num": 780715,
+      "word": "日本网友2020年已发起拯救丫丫的请愿",
+      "onboard_time": 1677312626,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 780213,
       "num": 780213,
       "word": "大理地震",
@@ -11441,6 +11457,14 @@
       "onboard_time": 1677041017,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770763,
+      "num": 770763,
+      "word": "不如回溯到S8",
+      "onboard_time": 1677315509,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 770219,
@@ -12219,14 +12243,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 736403,
-      "num": 736403,
-      "word": "日本网友2020年已发起拯救丫丫的请愿",
-      "onboard_time": 1677312626,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 735990,
       "num": 735990,
       "word": "工资是你应聘时最看重的条件吗",
@@ -12976,6 +12992,14 @@
       "word": "3斤肉上桌只剩1斤多店家称正常",
       "onboard_time": 1675481245,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 709900,
+      "num": 709900,
+      "word": "1岁男童误食降糖药成植物人",
+      "onboard_time": 1677316406,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -16243,14 +16267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 597778,
-      "num": 597778,
-      "word": "丁禹兮回应被扎针花絮",
-      "onboard_time": 1677316528,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 597210,
       "num": 597210,
       "word": "女孩被老板误会没付款回家哭诉",
@@ -18129,14 +18145,6 @@
       "onboard_time": 1676633672,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 547235,
-      "num": 547235,
-      "word": "不如回溯到S8",
-      "onboard_time": 1677315509,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 547191,
@@ -28227,6 +28235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 354054,
+      "num": 354054,
+      "word": "婚纱日常化",
+      "onboard_time": 1677315088,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 354010,
       "num": 354010,
       "word": "严浩翔也在追狂飙",
@@ -30923,6 +30939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 317804,
+      "num": 317804,
+      "word": "乌总统称目前没有与普京谈判可能",
+      "onboard_time": 1677316528,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 317777,
       "num": 317777,
       "word": "最后一次上班是什么感觉",
@@ -33209,14 +33233,6 @@
       "onboard_time": 1677156511,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 290845,
-      "num": 290845,
-      "word": "婚纱日常化",
-      "onboard_time": 1677315088,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 290716,
@@ -36504,6 +36520,14 @@
       "word": "时代少年团弹吉他路透",
       "onboard_time": 1676725653,
       "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 258701,
+      "num": 258701,
+      "word": "aespa演唱会",
+      "onboard_time": 1677317428,
+      "rank": 27,
       "category": "音乐"
     },
     {
@@ -43675,14 +43699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194359,
-      "num": 194359,
-      "word": "乌总统称目前没有与普京谈判可能",
-      "onboard_time": 1677316528,
-      "rank": 35,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 194323,
       "num": 194323,
       "word": "在小镇生活的幸福感有多高",
@@ -45793,6 +45809,14 @@
       "onboard_time": 1675306425,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182516,
+      "num": 182516,
+      "word": "听说你喜欢我恋爱告白会",
+      "onboard_time": 1677317008,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 182487,
@@ -48153,14 +48177,6 @@
       "onboard_time": 1676912000,
       "rank": 22,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 167985,
-      "num": 167985,
-      "word": "1岁男童误食降糖药成植物人",
-      "onboard_time": 1677316406,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167897,
@@ -52809,6 +52825,14 @@
       "onboard_time": 1675851812,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125071,
+      "num": 125071,
+      "word": "这颗子弹在老人右肩藏了74年",
+      "onboard_time": 1677317608,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 124715,

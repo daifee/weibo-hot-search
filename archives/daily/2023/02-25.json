@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677316678942,
+  "endTime": 1677317620027,
   "band_list": [
     {
       "raw_hot": 9510697,
@@ -68,11 +68,19 @@
     },
     {
       "raw_hot": 2098893,
-      "num": 604178,
+      "num": 629137,
       "word": "谭仔米线",
       "onboard_time": 1677303568,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2003182,
+      "num": 2003182,
+      "word": "省考",
+      "onboard_time": 1677280939,
+      "rank": 1,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1944934,
@@ -89,14 +97,6 @@
       "onboard_time": 1677305068,
       "rank": 9,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 1670979,
-      "num": 1670979,
-      "word": "省考",
-      "onboard_time": 1677280939,
-      "rank": 1,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1597204,
@@ -147,6 +147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1307049,
+      "num": 1307049,
+      "word": "众星为李一桐新剧打call",
+      "onboard_time": 1677314969,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1259165,
       "num": 1259165,
       "word": "川籍华人飞3000公里看丫丫哭了",
@@ -168,14 +176,6 @@
       "word": "吴磊赵露思片场骑马花絮",
       "onboard_time": 1677306685,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1158706,
-      "num": 1158706,
-      "word": "众星为李一桐新剧打call",
-      "onboard_time": 1677314969,
-      "rank": 4,
       "category": "影视"
     },
     {
@@ -259,20 +259,28 @@
       "category": "教育,社会议题"
     },
     {
+      "raw_hot": 863347,
+      "num": 644300,
+      "word": "丁禹兮回应被扎针花絮",
+      "onboard_time": 1677316528,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 863197,
+      "num": 863197,
+      "word": "泽连斯基强忍泪水诉苦",
+      "onboard_time": 1677312927,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 816501,
       "num": 336638,
       "word": "广西一艘船上3人窒息死亡",
       "onboard_time": 1677287486,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 803718,
-      "num": 803718,
-      "word": "泽连斯基强忍泪水诉苦",
-      "onboard_time": 1677312927,
-      "rank": 35,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 785692,
@@ -289,6 +297,22 @@
       "onboard_time": 1677295047,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 780715,
+      "num": 780715,
+      "word": "日本网友2020年已发起拯救丫丫的请愿",
+      "onboard_time": 1677312626,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770763,
+      "num": 770763,
+      "word": "不如回溯到S8",
+      "onboard_time": 1677315509,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 747655,
@@ -315,14 +339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 736403,
-      "num": 736403,
-      "word": "日本网友2020年已发起拯救丫丫的请愿",
-      "onboard_time": 1677312626,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 723012,
       "num": 723012,
       "word": "姐弟恋比例持续攀升",
@@ -337,6 +353,14 @@
       "onboard_time": 1677286706,
       "rank": 11,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 709900,
+      "num": 709900,
+      "word": "1岁男童误食降糖药成植物人",
+      "onboard_time": 1677316406,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 694158,
@@ -403,14 +427,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 597778,
-      "num": 597778,
-      "word": "丁禹兮回应被扎针花絮",
-      "onboard_time": 1677316528,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 591205,
       "num": 573136,
       "word": "吕珍九胖了好多",
@@ -433,14 +449,6 @@
       "onboard_time": 1677287968,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 547235,
-      "num": 547235,
-      "word": "不如回溯到S8",
-      "onboard_time": 1677315509,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 545322,
@@ -675,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 354054,
+      "num": 354054,
+      "word": "婚纱日常化",
+      "onboard_time": 1677315088,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 352582,
       "num": 352582,
       "word": "苹果或在4月推出15.5寸MacBookAir",
@@ -763,6 +779,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 317804,
+      "num": 317804,
+      "word": "乌总统称目前没有与普京谈判可能",
+      "onboard_time": 1677316528,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 313844,
       "num": 313844,
       "word": "iPhone15Pro将配备LiDAR传感器",
@@ -809,14 +833,6 @@
       "onboard_time": 1677309146,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 290845,
-      "num": 290845,
-      "word": "婚纱日常化",
-      "onboard_time": 1677315088,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 290264,
@@ -905,6 +921,14 @@
       "onboard_time": 1677246874,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258701,
+      "num": 258701,
+      "word": "aespa演唱会",
+      "onboard_time": 1677317428,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 257937,
@@ -1115,12 +1139,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194359,
-      "num": 194359,
-      "word": "乌总统称目前没有与普京谈判可能",
-      "onboard_time": 1677316528,
-      "rank": 35,
-      "category": "国外要闻"
+      "raw_hot": 194501,
+      "num": 194501,
+      "word": "毒舌律师",
+      "onboard_time": 1677312385,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 192144,
@@ -1171,20 +1195,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182516,
+      "num": 182516,
+      "word": "听说你喜欢我恋爱告白会",
+      "onboard_time": 1677317008,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178957,
       "num": 178957,
       "word": "丁程鑫新歌一起跳舞吧",
       "onboard_time": 1677255746,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 178669,
-      "num": 178669,
-      "word": "毒舌律师",
-      "onboard_time": 1677312385,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 176544,
@@ -1217,14 +1241,6 @@
       "onboard_time": 1677242971,
       "rank": 27,
       "category": "科技"
-    },
-    {
-      "raw_hot": 167985,
-      "num": 167985,
-      "word": "1岁男童误食降糖药成植物人",
-      "onboard_time": 1677316406,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167764,
@@ -1385,6 +1401,14 @@
       "onboard_time": 1677257721,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125071,
+      "num": 125071,
+      "word": "这颗子弹在老人右肩藏了74年",
+      "onboard_time": 1677317608,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 124661,
