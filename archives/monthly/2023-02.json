@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677329511969,
+  "endTime": 1677331335447,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -8067,6 +8067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 978157,
+      "num": 600029,
+      "word": "夜旅人",
+      "onboard_time": 1677330149,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 977885,
       "num": 523914,
       "word": "麦当劳叫Lisa妈妈",
@@ -8265,6 +8273,14 @@
       "onboard_time": 1675486589,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 964590,
+      "num": 582917,
+      "word": "郑成华回应未按时缴纳税务罚款传闻",
+      "onboard_time": 1677328528,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 962635,
@@ -8497,6 +8513,14 @@
       "onboard_time": 1676106147,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 947678,
+      "num": 577887,
+      "word": "李小冉红毯状态",
+      "onboard_time": 1677328767,
+      "rank": 15,
+      "category": "作品衍生,影视"
     },
     {
       "raw_hot": 946867,
@@ -12195,6 +12219,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 740652,
+      "num": 740652,
+      "word": "李一桐夹子音",
+      "onboard_time": 1677328588,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 740638,
       "num": 740638,
       "word": "纪委回应书记被绑架网传付千万赎金",
@@ -14595,14 +14627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 657737,
-      "num": 657737,
-      "word": "李一桐夹子音",
-      "onboard_time": 1677328588,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 657479,
       "num": 657479,
       "word": "唐嫣孙坚友谊",
@@ -15451,6 +15475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 630002,
+      "num": 567190,
+      "word": "黑喵 隔了条银河",
+      "onboard_time": 1677329730,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 629843,
       "num": 629843,
       "word": "情人节文案",
@@ -15697,6 +15729,14 @@
       "onboard_time": 1677312327,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 620693,
+      "num": 620693,
+      "word": "女老板给去世员工遗孀发3年工资",
+      "onboard_time": 1677329488,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 620617,
@@ -16201,6 +16241,14 @@
       "onboard_time": 1676396178,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 604874,
+      "num": 604874,
+      "word": "WB射手",
+      "onboard_time": 1677329911,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 604698,
@@ -17595,14 +17643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 564086,
-      "num": 564086,
-      "word": "李小冉红毯状态",
-      "onboard_time": 1677328767,
-      "rank": 15,
-      "category": "作品衍生,影视"
-    },
-    {
       "raw_hot": 563833,
       "num": 563833,
       "word": "小美人鱼扮演者杂志封面",
@@ -17737,6 +17777,14 @@
       "onboard_time": 1677221552,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 560930,
+      "num": 560930,
+      "word": "宁至谦失忆",
+      "onboard_time": 1677328110,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 560806,
@@ -17905,14 +17953,6 @@
       "onboard_time": 1675994370,
       "rank": 24,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 556438,
-      "num": 556438,
-      "word": "宁至谦失忆",
-      "onboard_time": 1677328110,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 556306,
@@ -19321,6 +19361,14 @@
       "onboard_time": 1677143310,
       "rank": 15,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 522805,
+      "num": 522805,
+      "word": "LGD战胜WB",
+      "onboard_time": 1677329911,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 522500,
@@ -20857,6 +20905,14 @@
       "onboard_time": 1676094745,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 488516,
+      "num": 488516,
+      "word": "黄书记对不起",
+      "onboard_time": 1677328350,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 487921,
@@ -22603,6 +22659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448770,
+      "num": 448770,
+      "word": "LGD 旋转",
+      "onboard_time": 1677330751,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 448739,
       "num": 352854,
       "word": "蔡徐坤特效视频",
@@ -22633,6 +22697,14 @@
       "onboard_time": 1675859192,
       "rank": 39,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 448212,
+      "num": 448212,
+      "word": "郑秀妍花朵裙",
+      "onboard_time": 1677327690,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 448078,
@@ -25651,14 +25723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 397332,
-      "num": 397332,
-      "word": "郑秀妍花朵裙",
-      "onboard_time": 1677327690,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 397302,
       "num": 397302,
       "word": "男子贩卖小熊猫川金丝猴获刑14年",
@@ -26201,14 +26265,6 @@
       "onboard_time": 1676368892,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 389816,
-      "num": 389816,
-      "word": "郑成华回应未按时缴纳税务罚款传闻",
-      "onboard_time": 1677328528,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 389737,
@@ -28536,6 +28592,14 @@
       "word": "法院悬赏百万看到这4个人请举报",
       "onboard_time": 1676690547,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353958,
+      "num": 353958,
+      "word": "餐厅接网吧10个订单收到9个差评",
+      "onboard_time": 1677329246,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -32137,6 +32201,14 @@
       "onboard_time": 1675404390,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 305776,
+      "num": 305776,
+      "word": "JDG对战TES",
+      "onboard_time": 1677330329,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 305737,
@@ -37859,6 +37931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 247593,
+      "num": 247593,
+      "word": "GISELLE演唱会solo舞台",
+      "onboard_time": 1677331049,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 247541,
       "num": 5052528,
       "word": "春天的脚步越来越近了",
@@ -37969,6 +38049,14 @@
       "onboard_time": 1676771668,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246879,
+      "num": 246879,
+      "word": "绝意太秀了",
+      "onboard_time": 1677330391,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 246837,
@@ -42561,14 +42649,6 @@
       "onboard_time": 1675739848,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 204592,
-      "num": 204592,
-      "word": "黄书记对不起",
-      "onboard_time": 1677328350,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 204512,
@@ -48091,6 +48171,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 170926,
+      "num": 170926,
+      "word": "绝意马可波罗太绝了",
+      "onboard_time": 1677329428,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170919,
       "num": 170919,
       "word": "兔里兔气的柯基",
@@ -51403,22 +51491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143855,
-      "num": 143855,
-      "word": "餐厅接网吧10个订单收到9个差评",
-      "onboard_time": 1677329246,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143829,
-      "num": 143829,
-      "word": "绝意马可波罗太绝了",
-      "onboard_time": 1677329428,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 143818,
       "num": 143818,
       "word": "时代少年团你好星期六唱的百忧戒",
@@ -53185,14 +53257,6 @@
       "onboard_time": 1676720610,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 125775,
-      "num": 125775,
-      "word": "女老板给去世员工遗孀发3年工资",
-      "onboard_time": 1677329488,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125761,
@@ -56398,6 +56462,9 @@
     },
     {
       "word": "#总书记的民生关切#"
+    },
+    {
+      "word": "#全国两会时光#"
     }
   ]
 }

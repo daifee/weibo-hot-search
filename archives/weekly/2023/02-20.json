@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677329511969,
+  "endTime": 1677331335447,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -1827,6 +1827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 978157,
+      "num": 600029,
+      "word": "夜旅人",
+      "onboard_time": 1677330149,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 977377,
       "num": 977377,
       "word": "张杰演唱会门票",
@@ -1865,6 +1873,14 @@
       "onboard_time": 1677041675,
       "rank": 14,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 964590,
+      "num": 582917,
+      "word": "郑成华回应未按时缴纳税务罚款传闻",
+      "onboard_time": 1677328528,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 962635,
@@ -1913,6 +1929,14 @@
       "onboard_time": 1676967510,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 947678,
+      "num": 577887,
+      "word": "李小冉红毯状态",
+      "onboard_time": 1677328767,
+      "rank": 15,
+      "category": "作品衍生,影视"
     },
     {
       "raw_hot": 940883,
@@ -2819,6 +2843,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 740652,
+      "num": 740652,
+      "word": "李一桐夹子音",
+      "onboard_time": 1677328588,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 739831,
       "num": 739831,
       "word": "王昱珩说赚钱这事是最简单的",
@@ -3403,14 +3435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 657737,
-      "num": 657737,
-      "word": "李一桐夹子音",
-      "onboard_time": 1677328588,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 656772,
       "num": 656772,
       "word": "迪士尼宣布阿凡达2票房超泰坦尼克号",
@@ -3595,6 +3619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630002,
+      "num": 567190,
+      "word": "黑喵 隔了条银河",
+      "onboard_time": 1677329730,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 628633,
       "num": 628633,
       "word": "摆拍发3000收回2800主播被行拘",
@@ -3649,6 +3681,14 @@
       "onboard_time": 1677312327,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 620693,
+      "num": 620693,
+      "word": "女老板给去世员工遗孀发3年工资",
+      "onboard_time": 1677329488,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 620123,
@@ -3753,6 +3793,14 @@
       "onboard_time": 1677303090,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 604874,
+      "num": 604874,
+      "word": "WB射手",
+      "onboard_time": 1677329911,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 604698,
@@ -4091,14 +4139,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 564086,
-      "num": 564086,
-      "word": "李小冉红毯状态",
-      "onboard_time": 1677328767,
-      "rank": 15,
-      "category": "作品衍生,影视"
-    },
-    {
       "raw_hot": 563833,
       "num": 563833,
       "word": "小美人鱼扮演者杂志封面",
@@ -4139,6 +4179,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 560930,
+      "num": 560930,
+      "word": "宁至谦失忆",
+      "onboard_time": 1677328110,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 558798,
       "num": 501098,
       "word": "蔡徐坤回国机场",
@@ -4153,14 +4201,6 @@
       "onboard_time": 1676802091,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 556438,
-      "num": 556438,
-      "word": "宁至谦失忆",
-      "onboard_time": 1677328110,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 556144,
@@ -4489,6 +4529,14 @@
       "onboard_time": 1677143310,
       "rank": 15,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 522805,
+      "num": 522805,
+      "word": "LGD战胜WB",
+      "onboard_time": 1677329911,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 521836,
@@ -4849,6 +4897,14 @@
       "onboard_time": 1676958691,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488516,
+      "num": 488516,
+      "word": "黄书记对不起",
+      "onboard_time": 1677328350,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 487722,
@@ -5235,12 +5291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448770,
+      "num": 448770,
+      "word": "LGD 旋转",
+      "onboard_time": 1677330751,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 448638,
       "num": 375954,
       "word": "彭于晏脸部晒伤",
       "onboard_time": 1677236608,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448212,
+      "num": 448212,
+      "word": "郑秀妍花朵裙",
+      "onboard_time": 1677327690,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 448078,
@@ -5963,14 +6035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 397332,
-      "num": 397332,
-      "word": "郑秀妍花朵裙",
-      "onboard_time": 1677327690,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 397302,
       "num": 397302,
       "word": "男子贩卖小熊猫川金丝猴获刑14年",
@@ -6097,14 +6161,6 @@
       "onboard_time": 1677245189,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 389816,
-      "num": 389816,
-      "word": "郑成华回应未按时缴纳税务罚款传闻",
-      "onboard_time": 1677328528,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 389222,
@@ -6777,6 +6833,14 @@
       "onboard_time": 1677230609,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 353958,
+      "num": 353958,
+      "word": "餐厅接网吧10个订单收到9个差评",
+      "onboard_time": 1677329246,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352582,
@@ -7737,6 +7801,14 @@
       "onboard_time": 1677055412,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305776,
+      "num": 305776,
+      "word": "JDG对战TES",
+      "onboard_time": 1677330329,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 304984,
@@ -8923,6 +8995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247593,
+      "num": 247593,
+      "word": "GISELLE演唱会solo舞台",
+      "onboard_time": 1677331049,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 247524,
       "num": 247524,
       "word": "减肥人的自律时刻",
@@ -8945,6 +9025,14 @@
       "onboard_time": 1677232468,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 246879,
+      "num": 246879,
+      "word": "绝意太秀了",
+      "onboard_time": 1677330391,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 246837,
@@ -10041,14 +10129,6 @@
       "onboard_time": 1676948969,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204592,
-      "num": 204592,
-      "word": "黄书记对不起",
-      "onboard_time": 1677328350,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 204502,
@@ -11315,6 +11395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170926,
+      "num": 170926,
+      "word": "绝意马可波罗太绝了",
+      "onboard_time": 1677329428,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170365,
       "num": 170365,
       "word": "文紫皮下是重紫",
@@ -12131,22 +12219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 143855,
-      "num": 143855,
-      "word": "餐厅接网吧10个订单收到9个差评",
-      "onboard_time": 1677329246,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143829,
-      "num": 143829,
-      "word": "绝意马可波罗太绝了",
-      "onboard_time": 1677329428,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 143793,
       "num": 143793,
       "word": "井柏然夸网友画的兰珏太好了",
@@ -12609,14 +12681,6 @@
       "onboard_time": 1676808455,
       "rank": 47,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 125775,
-      "num": 125775,
-      "word": "女老板给去世员工遗孀发3年工资",
-      "onboard_time": 1677329488,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125305,
@@ -13565,6 +13629,9 @@
     },
     {
       "word": "#总书记的民生关切#"
+    },
+    {
+      "word": "#全国两会时光#"
     }
   ]
 }
