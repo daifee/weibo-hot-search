@@ -1,0 +1,410 @@
+{
+  "runTime": 1677294027426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1708262,
+        "num": 1708262,
+        "word": "乌梅子酱 口水歌",
+        "onboard_time": 1677286585,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1173093,
+        "num": 1173093,
+        "word": "丫丫",
+        "onboard_time": 1677255387,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53090,
+        "num": 1118130,
+        "word": "新一代载人登月飞船模型首次展出",
+        "onboard_time": 1677250479,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1104327,
+        "num": 1104327,
+        "word": "曝韩国男爱豆对女友施暴",
+        "onboard_time": 1677291927,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 896848,
+        "num": 896848,
+        "word": "丫丫回国流程进行到哪一步了",
+        "onboard_time": 1677287066,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868854,
+        "num": 868854,
+        "word": "月薪4万非洲养鸡岗位未招到人",
+        "onboard_time": 1677289467,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 537974,
+        "num": 537974,
+        "word": "汶川地震幸存女孩戴义肢玩滑板",
+        "onboard_time": 1677288266,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 474886,
+        "num": 474886,
+        "word": "地铁跑酷",
+        "onboard_time": 1677289225,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 454053,
+        "num": 454053,
+        "word": "姐弟恋比例持续攀升",
+        "onboard_time": 1677260176,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420188,
+        "num": 420188,
+        "word": "广东省考 难",
+        "onboard_time": 1677291507,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 591205,
+        "num": 417110,
+        "word": "吕珍九胖了好多",
+        "onboard_time": 1677292585,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463964,
+        "num": 415684,
+        "word": "2040年参加高考人数或不到600万",
+        "onboard_time": 1677293066,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 383626,
+        "num": 383626,
+        "word": "李宇春 开云老板老板娘",
+        "onboard_time": 1677286706,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342075,
+        "num": 342075,
+        "word": "孙悦说50岁开始的很有意义",
+        "onboard_time": 1677289526,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339420,
+        "num": 339420,
+        "word": "孟菲斯曾说丫丫毛发稀疏是家族遗传",
+        "onboard_time": 1677288146,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335505,
+        "num": 335505,
+        "word": "双北",
+        "onboard_time": 1677284606,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331524,
+        "num": 331524,
+        "word": "光渊",
+        "onboard_time": 1677281120,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326739,
+        "num": 326739,
+        "word": "丫丫 乞食",
+        "onboard_time": 1677293547,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316724,
+        "num": 316724,
+        "word": "考研找工作面试怎么准备",
+        "onboard_time": 1677290427,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 313786,
+        "num": 313786,
+        "word": "浪漫手机",
+        "onboard_time": 1677288807,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2875753,
+        "num": 312508,
+        "word": "香港名媛蔡天凤遭谋杀",
+        "onboard_time": 1677281060,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 430301,
+        "num": 311320,
+        "word": "广西一艘船上3人窒息死亡",
+        "onboard_time": 1677287486,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310082,
+        "num": 310082,
+        "word": "蔡徐坤回国机场",
+        "onboard_time": 1677287968,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305143,
+        "num": 305143,
+        "word": "刘耀文写给丁程鑫的信",
+        "onboard_time": 1677292826,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268022,
+        "num": 268022,
+        "word": "光渊更不更新",
+        "onboard_time": 1677281600,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265567,
+        "num": 265567,
+        "word": "扬科维奇规定体脂率超10%不能比赛",
+        "onboard_time": 1677291207,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229542,
+        "num": 229542,
+        "word": "刘诗诗咖色风衣造型",
+        "onboard_time": 1677289946,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225291,
+        "num": 225291,
+        "word": "水哥最强大脑5分钟答对15道题",
+        "onboard_time": 1677254071,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210509,
+        "num": 210509,
+        "word": "蔡天凤",
+        "onboard_time": 1677250180,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 208540,
+        "num": 208540,
+        "word": "以爱为营 车内吻",
+        "onboard_time": 1677254607,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208107,
+        "num": 208107,
+        "word": "孔乙己文学",
+        "onboard_time": 1677245431,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202209,
+        "num": 202209,
+        "word": "官方通报女子直播称被前夫家暴",
+        "onboard_time": 1677287245,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 183668,
+        "num": 183668,
+        "word": "省考",
+        "onboard_time": 1677280939,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 172939,
+        "num": 172939,
+        "word": "为什么火锅越来越贵",
+        "onboard_time": 1677256345,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171456,
+        "num": 171456,
+        "word": "森林进化论",
+        "onboard_time": 1677290068,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160776,
+        "num": 160776,
+        "word": "多省份公务员扩招",
+        "onboard_time": 1677283104,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148184,
+        "num": 148184,
+        "word": "你会选择单休的工作吗",
+        "onboard_time": 1677258319,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138697,
+        "num": 138697,
+        "word": "红薯为何是优质碳水",
+        "onboard_time": 1677280760,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122653,
+        "num": 122653,
+        "word": "泰剧我的会长男友",
+        "onboard_time": 1677281600,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120953,
+        "num": 120953,
+        "word": "国内科幻名刊将拒收ChatGPT投稿",
+        "onboard_time": 1677286226,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 114630,
+        "num": 114630,
+        "word": "下班跳舞为啥让人上头",
+        "onboard_time": 1677293246,
+        "rank": 40,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 112120,
+        "num": 112120,
+        "word": "肖战看秀座位",
+        "onboard_time": 1677293246,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 108045,
+        "num": 108045,
+        "word": "宋茜白衬衫自拍",
+        "onboard_time": 1677288384,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102531,
+        "num": 102531,
+        "word": "小城市房子会越来越不值钱吗",
+        "onboard_time": 1677244650,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 101230,
+        "num": 101230,
+        "word": "建议减少教师参与网络点赞转发工作",
+        "onboard_time": 1677246211,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93692,
+        "num": 93692,
+        "word": "过敏性鼻炎还没有办法彻底治愈",
+        "onboard_time": 1677286106,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93513,
+        "num": 93513,
+        "word": "唐嫣描述数字71时的脑回路",
+        "onboard_time": 1677285206,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91423,
+        "num": 91423,
+        "word": "猫急得都快说人话了",
+        "onboard_time": 1677264253,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86329,
+        "num": 86329,
+        "word": "庞博像极了上课怕被点名的我",
+        "onboard_time": 1677290845,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83156,
+        "num": 83156,
+        "word": "iPhone15Plus渲染图曝光",
+        "onboard_time": 1677293965,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#不负人民#"
+    }
+  }
+}

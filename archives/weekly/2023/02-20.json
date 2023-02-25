@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677293425711,
+  "endTime": 1677294027426,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -1331,6 +1331,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1104327,
+      "num": 1104327,
+      "word": "曝韩国男爱豆对女友施暴",
+      "onboard_time": 1677291927,
+      "rank": 3,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1103029,
       "num": 1103029,
       "word": "拜登离开波兰上飞机时摔倒",
@@ -1369,14 +1377,6 @@
       "onboard_time": 1676877991,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1091740,
-      "num": 1091740,
-      "word": "曝韩国男爱豆对女友施暴",
-      "onboard_time": 1677291927,
-      "rank": 3,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1083530,
@@ -3507,6 +3507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 591205,
+      "num": 459374,
+      "word": "吕珍九胖了好多",
+      "onboard_time": 1677292585,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 589151,
       "num": 589151,
       "word": "EXO和aespa歌曲正在制作中",
@@ -4563,6 +4571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 463964,
+      "num": 415684,
+      "word": "2040年参加高考人数或不到600万",
+      "onboard_time": 1677293066,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 463719,
       "num": 463719,
       "word": "十年朋克无人问 一朝舞女天下知",
@@ -4617,14 +4633,6 @@
       "onboard_time": 1677114449,
       "rank": 15,
       "category": "科技"
-    },
-    {
-      "raw_hot": 459374,
-      "num": 459374,
-      "word": "吕珍九胖了好多",
-      "onboard_time": 1677292585,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 459007,
@@ -6643,6 +6651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 326739,
+      "num": 326739,
+      "word": "丫丫 乞食",
+      "onboard_time": 1677293547,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326443,
       "num": 326443,
       "word": "勇士vs湖人",
@@ -6841,6 +6857,14 @@
       "onboard_time": 1677113070,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316724,
+      "num": 316724,
+      "word": "考研找工作面试怎么准备",
+      "onboard_time": 1677290427,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 316606,
@@ -7121,14 +7145,6 @@
       "onboard_time": 1677151170,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 296195,
-      "num": 296195,
-      "word": "考研找工作面试怎么准备",
-      "onboard_time": 1677290427,
-      "rank": 46,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 295833,
@@ -10147,14 +10163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173107,
-      "num": 173107,
-      "word": "2040年参加高考人数或不到600万",
-      "onboard_time": 1677293066,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 172994,
       "num": 172994,
       "word": "孙怡说我是懂算账的",
@@ -11659,6 +11667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114630,
+      "num": 114630,
+      "word": "下班跳舞为啥让人上头",
+      "onboard_time": 1677293246,
+      "rank": 49,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 114324,
       "num": 114324,
       "word": "陈建宇一公舞台镜头",
@@ -11689,6 +11705,14 @@
       "onboard_time": 1677035610,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112120,
+      "num": 112120,
+      "word": "肖战看秀座位",
+      "onboard_time": 1677293246,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 112098,
@@ -11769,14 +11793,6 @@
       "onboard_time": 1677202287,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102516,
-      "num": 102516,
-      "word": "肖战看秀座位",
-      "onboard_time": 1677293246,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 101857,
@@ -11899,14 +11915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91289,
-      "num": 91289,
-      "word": "下班跳舞为啥让人上头",
-      "onboard_time": 1677293246,
-      "rank": 49,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 90250,
       "num": 90250,
       "word": "夜昙青葵被区别对待",
@@ -11961,6 +11969,14 @@
       "onboard_time": 1677254455,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83156,
+      "num": 83156,
+      "word": "iPhone15Plus渲染图曝光",
+      "onboard_time": 1677293965,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 82839,

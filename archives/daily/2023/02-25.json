@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677293425711,
+  "endTime": 1677294027426,
   "band_list": [
     {
       "raw_hot": 4003829,
@@ -67,8 +67,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1091740,
-      "num": 1091740,
+      "raw_hot": 1104327,
+      "num": 1104327,
       "word": "曝韩国男爱豆对女友施暴",
       "onboard_time": 1677291927,
       "rank": 3,
@@ -155,6 +155,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 591205,
+      "num": 459374,
+      "word": "吕珍九胖了好多",
+      "onboard_time": 1677292585,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 587290,
       "num": 587290,
       "word": "汶川地震幸存女孩戴义肢玩滑板",
@@ -211,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 459374,
-      "num": 459374,
-      "word": "吕珍九胖了好多",
-      "onboard_time": 1677292585,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 463964,
+      "num": 415684,
+      "word": "2040年参加高考人数或不到600万",
+      "onboard_time": 1677293066,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 443817,
@@ -323,8 +331,16 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 296195,
-      "num": 296195,
+      "raw_hot": 326739,
+      "num": 326739,
+      "word": "丫丫 乞食",
+      "onboard_time": 1677293547,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316724,
+      "num": 316724,
       "word": "考研找工作面试怎么准备",
       "onboard_time": 1677290427,
       "rank": 46,
@@ -499,14 +515,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 173107,
-      "num": 173107,
-      "word": "2040年参加高考人数或不到600万",
-      "onboard_time": 1677293066,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 171894,
       "num": 171894,
       "word": "刘雨昕到达巴黎",
@@ -675,12 +683,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114630,
+      "num": 114630,
+      "word": "下班跳舞为啥让人上头",
+      "onboard_time": 1677293246,
+      "rank": 49,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 112470,
       "num": 112470,
       "word": "文紫被洛音凡关了三年",
       "onboard_time": 1677260237,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 112120,
+      "num": 112120,
+      "word": "肖战看秀座位",
+      "onboard_time": 1677293246,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 110653,
@@ -723,14 +747,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 102516,
-      "num": 102516,
-      "word": "肖战看秀座位",
-      "onboard_time": 1677293246,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 102266,
       "num": 102266,
       "word": "唐嫣报喜不报忧",
@@ -761,14 +777,6 @@
       "onboard_time": 1677290845,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91289,
-      "num": 91289,
-      "word": "下班跳舞为啥让人上头",
-      "onboard_time": 1677293246,
-      "rank": 49,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 90039,
@@ -817,6 +825,14 @@
       "onboard_time": 1677234569,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83156,
+      "num": 83156,
+      "word": "iPhone15Plus渲染图曝光",
+      "onboard_time": 1677293965,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 78898,
