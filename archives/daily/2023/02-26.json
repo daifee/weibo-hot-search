@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677356371950,
+  "endTime": 1677357212575,
   "band_list": [
     {
       "raw_hot": 924122,
@@ -451,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 43639,
+      "num": 20794,
+      "word": "爱的二八定律将在马来西亚播出",
+      "onboard_time": 1677356712,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 26455,
       "num": 28943,
       "word": "于文文透露前任4今年上映",
@@ -473,6 +481,14 @@
       "onboard_time": 1677340050,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 17986,
+      "num": 19556,
+      "word": "新一届全国人大代表全名单公布",
+      "onboard_time": 1677356592,
+      "rank": 36,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [

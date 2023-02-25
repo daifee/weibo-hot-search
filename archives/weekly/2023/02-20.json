@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677356371950,
+  "endTime": 1677357212575,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -13795,6 +13795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 43639,
+      "num": 20794,
+      "word": "爱的二八定律将在马来西亚播出",
+      "onboard_time": 1677356712,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 42130,
       "num": 42130,
       "word": "cpsp 阿宅拉练",
@@ -13905,6 +13913,14 @@
       "onboard_time": 1677188592,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 17986,
+      "num": 19556,
+      "word": "新一届全国人大代表全名单公布",
+      "onboard_time": 1677356592,
+      "rank": 36,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 16352,
