@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677360831453,
+  "endTime": 1677363467492,
   "band_list": [
     {
       "raw_hot": 924122,
@@ -379,12 +379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98875,
+      "num": 22564,
+      "word": "CNN拍下解放军对峙美机",
+      "onboard_time": 1677359351,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 96957,
       "num": 105626,
       "word": "沈梦瑶表现力",
       "onboard_time": 1677335791,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 84868,
+      "num": 44901,
+      "word": "美防长称已经数月没和中国防长通话",
+      "onboard_time": 1677358151,
+      "rank": 10,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 79934,
@@ -427,14 +443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 63415,
-      "num": 36102,
-      "word": "美防长称已经数月没和中国防长通话",
-      "onboard_time": 1677358151,
-      "rank": 10,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 61664,
       "num": 61664,
       "word": "夏花编剧",
@@ -449,14 +457,6 @@
       "onboard_time": 1677347656,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49449,
-      "num": 19530,
-      "word": "CNN拍下解放军对峙美机",
-      "onboard_time": 1677359351,
-      "rank": 36,
-      "category": "军事"
     },
     {
       "raw_hot": 45998,

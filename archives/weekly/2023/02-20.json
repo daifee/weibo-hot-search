@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677360831453,
+  "endTime": 1677363467492,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -13443,6 +13443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98875,
+      "num": 22564,
+      "word": "CNN拍下解放军对峙美机",
+      "onboard_time": 1677359351,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 98626,
       "num": 98626,
       "word": "多个厨具品牌直播正确拍蒜",
@@ -13587,6 +13595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84868,
+      "num": 44901,
+      "word": "美防长称已经数月没和中国防长通话",
+      "onboard_time": 1677358151,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 84240,
       "num": 84240,
       "word": "WBG胜利吃鸡",
@@ -13699,14 +13715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 63415,
-      "num": 36102,
-      "word": "美防长称已经数月没和中国防长通话",
-      "onboard_time": 1677358151,
-      "rank": 10,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 62023,
       "num": 62023,
       "word": "复盘俄乌战场十二大关键节点",
@@ -13785,14 +13793,6 @@
       "onboard_time": 1676846956,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 49449,
-      "num": 19530,
-      "word": "CNN拍下解放军对峙美机",
-      "onboard_time": 1677359351,
-      "rank": 36,
-      "category": "军事"
     },
     {
       "raw_hot": 47022,

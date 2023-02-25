@@ -1,0 +1,410 @@
+{
+  "runTime": 1677363467492,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 116085,
+        "num": 116085,
+        "word": "女子考研期间生娃初试395分",
+        "onboard_time": 1677340287,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 100242,
+        "num": 100242,
+        "word": "王濛风波后首现身",
+        "onboard_time": 1677340648,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 8392,
+        "num": 97388,
+        "word": "中国载人航天三十年启示录",
+        "onboard_time": 1677332369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95533,
+        "num": 95533,
+        "word": "沈月谈上一次分手的原因",
+        "onboard_time": 1677342146,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80295,
+        "num": 80295,
+        "word": "建议延长毕业生应届身份时限",
+        "onboard_time": 1677341186,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66225,
+        "num": 66225,
+        "word": "倪妮夸高叶 你超美的",
+        "onboard_time": 1677325828,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 54421,
+        "num": 54421,
+        "word": "博主三亚买3888元海鲜被提醒多花1700",
+        "onboard_time": 1677322709,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53354,
+        "num": 53354,
+        "word": "女子与前夫摆拍家暴完整监控曝光",
+        "onboard_time": 1677323427,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47418,
+        "num": 47418,
+        "word": "在张大大直播间笑死",
+        "onboard_time": 1677336509,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46456,
+        "num": 46456,
+        "word": "网友点赞中国蓝新闻为丫丫发声",
+        "onboard_time": 1677343283,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84868,
+        "num": 44901,
+        "word": "美防长称已经数月没和中国防长通话",
+        "onboard_time": 1677358151,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 41521,
+        "num": 41521,
+        "word": "甲流",
+        "onboard_time": 1677325649,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38239,
+        "num": 38239,
+        "word": "美国务卿说不喜欢看到大国欺凌他国",
+        "onboard_time": 1677322650,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 36376,
+        "num": 36376,
+        "word": "唐僧吃了都不算破戒",
+        "onboard_time": 1677337495,
+        "rank": 13,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 35716,
+        "num": 35716,
+        "word": "看视频觉异样男子跨城救下垂危小狗",
+        "onboard_time": 1677347597,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35234,
+        "num": 35234,
+        "word": "赵奕欢身材比例",
+        "onboard_time": 1677331529,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 35139,
+        "num": 35139,
+        "word": "郑业成郭晓婷鼻尖吻",
+        "onboard_time": 1677338072,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32464,
+        "num": 32464,
+        "word": "蒲熠星 我一路走来惊心动魄",
+        "onboard_time": 1677332609,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30753,
+        "num": 30753,
+        "word": "满江红票房",
+        "onboard_time": 1677327510,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28830,
+        "num": 28830,
+        "word": "李小冉红毯状态",
+        "onboard_time": 1677328767,
+        "rank": 19,
+        "category": "作品衍生,影视"
+      },
+      {
+        "raw_hot": 37450,
+        "num": 28593,
+        "word": "女老板给去世员工遗孀发3年工资",
+        "onboard_time": 1677329488,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29566,
+        "num": 28593,
+        "word": "1岁男童误食降糖药成植物人",
+        "onboard_time": 1677316406,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28344,
+        "num": 28344,
+        "word": "旅美大熊猫乐乐是如何离世的",
+        "onboard_time": 1677331651,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28017,
+        "num": 28017,
+        "word": "孟佳半透明连衣裙",
+        "onboard_time": 1677334948,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 27556,
+        "num": 27556,
+        "word": "全景还原北溪被炸过程",
+        "onboard_time": 1677336750,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 25288,
+        "num": 25288,
+        "word": "INTO1苏州音乐会",
+        "onboard_time": 1677328588,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24274,
+        "num": 24274,
+        "word": "夜旅人",
+        "onboard_time": 1677330149,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24067,
+        "num": 24067,
+        "word": "新一届全国人大代表全名单公布",
+        "onboard_time": 1677356592,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 23522,
+        "num": 23522,
+        "word": "TT申诉时光回溯",
+        "onboard_time": 1677332010,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22638,
+        "num": 22638,
+        "word": "鞠婧祎小卡",
+        "onboard_time": 1677325231,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98875,
+        "num": 22564,
+        "word": "CNN拍下解放军对峙美机",
+        "onboard_time": 1677359351,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 22485,
+        "num": 22485,
+        "word": "AG夏竹",
+        "onboard_time": 1677334591,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22012,
+        "num": 22012,
+        "word": "皇马vs马竞",
+        "onboard_time": 1677347656,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21671,
+        "num": 21671,
+        "word": "李一桐夹子音",
+        "onboard_time": 1677328588,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21118,
+        "num": 21118,
+        "word": "省考",
+        "onboard_time": 1677315449,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21009,
+        "num": 21009,
+        "word": "于文文透露前任4今年上映",
+        "onboard_time": 1677327690,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20764,
+        "num": 20764,
+        "word": "TES 净化",
+        "onboard_time": 1677331408,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20026,
+        "num": 20026,
+        "word": "JDG 虐菜队",
+        "onboard_time": 1677334049,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19651,
+        "num": 19651,
+        "word": "爱的二八定律将在马来西亚播出",
+        "onboard_time": 1677356712,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17551,
+        "num": 19650,
+        "word": "九霄寒夜暖",
+        "onboard_time": 1677340050,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17367,
+        "num": 19649,
+        "word": "流浪地球2票房",
+        "onboard_time": 1677325170,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17111,
+        "num": 19647,
+        "word": "宁至谦失忆",
+        "onboard_time": 1677328110,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16446,
+        "num": 19647,
+        "word": "孔雪儿绿色镂空纱裙造型",
+        "onboard_time": 1677332731,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16123,
+        "num": 19645,
+        "word": "夏花编剧",
+        "onboard_time": 1677326307,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15213,
+        "num": 19645,
+        "word": "JDG战胜TES",
+        "onboard_time": 1677333590,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15051,
+        "num": 19643,
+        "word": "毕雯珺演技",
+        "onboard_time": 1677333868,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14330,
+        "num": 19642,
+        "word": "AG对战EDGM",
+        "onboard_time": 1677334407,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14061,
+        "num": 19642,
+        "word": "宁艺卓solo舞台",
+        "onboard_time": 1677325049,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12894,
+        "num": 19640,
+        "word": "蔡徐坤武汉",
+        "onboard_time": 1677325588,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12343,
+        "num": 19639,
+        "word": "RNG战胜TT",
+        "onboard_time": 1677317907,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的民生关切#"
+    }
+  }
+}
