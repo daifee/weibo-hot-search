@@ -1,0 +1,410 @@
+{
+  "runTime": 1677339220775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1507759,
+        "num": 1507759,
+        "word": "倪妮夸高叶 你超美的",
+        "onboard_time": 1677325828,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 727133,
+        "num": 727133,
+        "word": "在张大大直播间笑死",
+        "onboard_time": 1677336509,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50490,
+        "num": 661046,
+        "word": "中国载人航天三十年启示录",
+        "onboard_time": 1677332369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598185,
+        "num": 598185,
+        "word": "蒲熠星 我一路走来惊心动魄",
+        "onboard_time": 1677332609,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513396,
+        "num": 513396,
+        "word": "省考",
+        "onboard_time": 1677315449,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 491323,
+        "num": 491323,
+        "word": "博主三亚买3888元海鲜被提醒多花1700",
+        "onboard_time": 1677322709,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456759,
+        "num": 456759,
+        "word": "旅美大熊猫乐乐是如何离世的",
+        "onboard_time": 1677331651,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428574,
+        "num": 428574,
+        "word": "沈月复古婚纱",
+        "onboard_time": 1677335848,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381681,
+        "num": 381681,
+        "word": "郑业成郭晓婷鼻尖吻",
+        "onboard_time": 1677338072,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363846,
+        "num": 363846,
+        "word": "甲流",
+        "onboard_time": 1677325649,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391902,
+        "num": 362791,
+        "word": "夜旅人",
+        "onboard_time": 1677330149,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377291,
+        "num": 356875,
+        "word": "毕雯珺演技",
+        "onboard_time": 1677333868,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350298,
+        "num": 350298,
+        "word": "JDG 虐菜队",
+        "onboard_time": 1677334049,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 346032,
+        "num": 346032,
+        "word": "你好星期六下期预告",
+        "onboard_time": 1677337950,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327480,
+        "num": 327480,
+        "word": "裴珠泫金艺琳去看了aespa演唱会",
+        "onboard_time": 1677337495,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 319089,
+        "num": 319089,
+        "word": "AG夏竹",
+        "onboard_time": 1677334591,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 310810,
+        "num": 310810,
+        "word": "满江红票房",
+        "onboard_time": 1677327510,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309843,
+        "num": 309843,
+        "word": "黄书记对不起",
+        "onboard_time": 1677328350,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 295768,
+        "num": 295768,
+        "word": "8旬奶奶将孩子手机号文在手背防走失",
+        "onboard_time": 1677332910,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289221,
+        "num": 289221,
+        "word": "唐僧吃了都不算破戒",
+        "onboard_time": 1677337495,
+        "rank": 19,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 310701,
+        "num": 283708,
+        "word": "女老板给去世员工遗孀发3年工资",
+        "onboard_time": 1677329488,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275681,
+        "num": 275681,
+        "word": "赵奕欢身材比例",
+        "onboard_time": 1677331529,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 250579,
+        "num": 250579,
+        "word": "美国务卿说不喜欢看到大国欺凌他国",
+        "onboard_time": 1677322650,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 258004,
+        "num": 248811,
+        "word": "李小冉红毯状态",
+        "onboard_time": 1677328767,
+        "rank": 23,
+        "category": "作品衍生,影视"
+      },
+      {
+        "raw_hot": 242504,
+        "num": 242504,
+        "word": "TT申诉时光回溯",
+        "onboard_time": 1677332010,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250730,
+        "num": 238221,
+        "word": "鞠婧祎小卡",
+        "onboard_time": 1677325231,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247660,
+        "num": 235724,
+        "word": "沈梦瑶表现力",
+        "onboard_time": 1677335791,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245798,
+        "num": 235561,
+        "word": "孟佳半透明连衣裙",
+        "onboard_time": 1677334948,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 232241,
+        "num": 232241,
+        "word": "申论答案",
+        "onboard_time": 1677336929,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 231566,
+        "num": 231566,
+        "word": "1岁男童误食降糖药成植物人",
+        "onboard_time": 1677316406,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241794,
+        "num": 229485,
+        "word": "李一桐夹子音",
+        "onboard_time": 1677328588,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232000,
+        "num": 222844,
+        "word": "宁艺卓solo舞台",
+        "onboard_time": 1677325049,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215475,
+        "num": 215475,
+        "word": "邓紫棋空降周兴哲演唱会",
+        "onboard_time": 1677339029,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211200,
+        "num": 211200,
+        "word": "孔雪儿绿色镂空纱裙造型",
+        "onboard_time": 1677332731,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 209671,
+        "num": 209671,
+        "word": "女子与前夫摆拍家暴完整监控曝光",
+        "onboard_time": 1677323427,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201377,
+        "num": 201377,
+        "word": "蔡徐坤武汉",
+        "onboard_time": 1677325588,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185997,
+        "num": 185997,
+        "word": "AG对战EDGM",
+        "onboard_time": 1677334407,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180688,
+        "num": 180688,
+        "word": "TES 净化",
+        "onboard_time": 1677331408,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148582,
+        "num": 148582,
+        "word": "全景还原北溪被炸过程",
+        "onboard_time": 1677336750,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 147066,
+        "num": 147066,
+        "word": "甲流高发期如何做好防护",
+        "onboard_time": 1677334948,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198309,
+        "num": 145916,
+        "word": "唐艺昕发文告别陈兰青",
+        "onboard_time": 1677339088,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184439,
+        "num": 145286,
+        "word": "宁至谦失忆",
+        "onboard_time": 1677328110,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175686,
+        "num": 144896,
+        "word": "于文文透露前任4今年上映",
+        "onboard_time": 1677327690,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143822,
+        "num": 143822,
+        "word": "行测答案",
+        "onboard_time": 1677325170,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167160,
+        "num": 140114,
+        "word": "流浪地球2票房",
+        "onboard_time": 1677325170,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130901,
+        "num": 130901,
+        "word": "夫胜宽崔秀彬直播",
+        "onboard_time": 1677336150,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119328,
+        "num": 119328,
+        "word": "莱斯特城vs阿森纳",
+        "onboard_time": 1677337196,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102733,
+        "num": 116048,
+        "word": "JDG战胜TES",
+        "onboard_time": 1677333590,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86174,
+        "num": 115615,
+        "word": "WB射手",
+        "onboard_time": 1677329911,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161948,
+        "num": 115580,
+        "word": "郑秀妍花朵裙",
+        "onboard_time": 1677327690,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#数字碳中和#"
+    }
+  }
+}
