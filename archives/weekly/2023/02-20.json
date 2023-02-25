@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677289233290,
+  "endTime": 1677290583019,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2276980,
+      "num": 2276980,
+      "word": "乌梅子酱 口水歌",
+      "onboard_time": 1677286585,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2273359,
       "num": 2273359,
       "word": "王濛违约被公司起诉",
@@ -281,14 +289,6 @@
       "onboard_time": 1677065793,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2216486,
-      "num": 2216486,
-      "word": "乌梅子酱 口水歌",
-      "onboard_time": 1677286585,
-      "rank": 0,
-      "category": "音乐"
     },
     {
       "raw_hot": 2203177,
@@ -1443,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1047754,
+      "num": 1047754,
+      "word": "丫丫回国流程进行到哪一步了",
+      "onboard_time": 1677287066,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1046828,
       "num": 1046828,
       "word": "中国乒乓票房",
@@ -1832,14 +1840,6 @@
       "word": "27岁女子因未婚未育应聘被拒",
       "onboard_time": 1676998282,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 903754,
-      "num": 903754,
-      "word": "丫丫回国流程进行到哪一步了",
-      "onboard_time": 1677287066,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -2660,7 +2660,7 @@
     },
     {
       "raw_hot": 712449,
-      "num": 330072,
+      "num": 518634,
       "word": "李宇春 开云老板老板娘",
       "onboard_time": 1677286706,
       "rank": 11,
@@ -3491,6 +3491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 591754,
+      "num": 510578,
+      "word": "月薪4万非洲养鸡岗位未招到人",
+      "onboard_time": 1677289467,
+      "rank": 11,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 589151,
       "num": 589151,
       "word": "EXO和aespa歌曲正在制作中",
@@ -3561,6 +3569,14 @@
       "onboard_time": 1677170604,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582258,
+      "num": 582258,
+      "word": "汶川地震幸存女孩戴义肢玩滑板",
+      "onboard_time": 1677288266,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 580136,
@@ -3676,7 +3692,7 @@
     },
     {
       "raw_hot": 558798,
-      "num": 326990,
+      "num": 501098,
       "word": "蔡徐坤回国机场",
       "onboard_time": 1677287968,
       "rank": 12,
@@ -3859,6 +3875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541148,
+      "num": 541148,
+      "word": "地铁跑酷",
+      "onboard_time": 1677289225,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 541017,
       "num": 541017,
       "word": "饶雪漫离歌阵容官宣",
@@ -4017,6 +4041,14 @@
       "onboard_time": 1676938166,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 519647,
+      "num": 519647,
+      "word": "孟菲斯曾说丫丫毛发稀疏是家族遗传",
+      "onboard_time": 1677288146,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 518493,
@@ -4716,7 +4748,7 @@
     },
     {
       "raw_hot": 443653,
-      "num": 320347,
+      "num": 419193,
       "word": "官方通报女子直播称被前夫家暴",
       "onboard_time": 1677287245,
       "rank": 13,
@@ -5379,6 +5411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 391732,
+      "num": 391732,
+      "word": "光渊",
+      "onboard_time": 1677281120,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391545,
       "num": 391545,
       "word": "WB选手组团看中国乒乓",
@@ -5416,6 +5456,14 @@
       "word": "邓超说30岁前没穿过秋裤",
       "onboard_time": 1677245189,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 389222,
+      "num": 389222,
+      "word": "孙悦说50岁开始的很有意义",
+      "onboard_time": 1677289526,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -5465,6 +5513,14 @@
       "onboard_time": 1676798129,
       "rank": 15,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 384401,
+      "num": 384401,
+      "word": "浪漫手机",
+      "onboard_time": 1677288807,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 384377,
@@ -5833,14 +5889,6 @@
       "onboard_time": 1676956114,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 365583,
-      "num": 314136,
-      "word": "孟菲斯曾说丫丫毛发稀疏是家族遗传",
-      "onboard_time": 1677288146,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 364979,
@@ -6553,14 +6601,6 @@
       "onboard_time": 1676960850,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 327424,
-      "num": 327424,
-      "word": "光渊",
-      "onboard_time": 1677281120,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 327038,
@@ -7763,14 +7803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261161,
-      "num": 261161,
-      "word": "汶川地震幸存女孩戴义肢玩滑板",
-      "onboard_time": 1677288266,
-      "rank": 23,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 260810,
       "num": 260810,
       "word": "宁至谦阮流筝破冰吻",
@@ -7937,14 +7969,6 @@
       "onboard_time": 1676878529,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 250736,
-      "num": 250736,
-      "word": "地铁跑酷",
-      "onboard_time": 1677289225,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 250140,
@@ -8769,6 +8793,14 @@
       "onboard_time": 1677135747,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211452,
+      "num": 211452,
+      "word": "光渊更不更新",
+      "onboard_time": 1677281600,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 211147,
@@ -9635,6 +9667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185751,
+      "num": 185751,
+      "word": "森林进化论",
+      "onboard_time": 1677290068,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185697,
       "num": 185697,
       "word": "警惕购房零首付首付贷风险",
@@ -9705,6 +9745,14 @@
       "onboard_time": 1677076772,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183418,
+      "num": 183418,
+      "word": "刘诗诗咖色风衣造型",
+      "onboard_time": 1677289946,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182995,
@@ -9969,14 +10017,6 @@
       "onboard_time": 1677075995,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175191,
-      "num": 175191,
-      "word": "光渊更不更新",
-      "onboard_time": 1677281600,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 175126,
@@ -10451,14 +10491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162853,
-      "num": 162853,
-      "word": "浪漫手机",
-      "onboard_time": 1677288807,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 162826,
       "num": 168769,
       "word": "清理中国天眼好像刷锅",
@@ -10763,6 +10795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152488,
+      "num": 152488,
+      "word": "宋茜白衬衫自拍",
+      "onboard_time": 1677288384,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152390,
       "num": 152390,
       "word": "二月二",
@@ -10808,6 +10848,14 @@
       "word": "原来集装箱还能用来种菜",
       "onboard_time": 1677125492,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149754,
+      "num": 149754,
+      "word": "春捂到底应该捂哪儿",
+      "onboard_time": 1677286405,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -10889,14 +10937,6 @@
       "onboard_time": 1676769146,
       "rank": 33,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 145198,
-      "num": 145198,
-      "word": "春捂到底应该捂哪儿",
-      "onboard_time": 1677286405,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144893,
@@ -11016,14 +11056,6 @@
       "word": "刘畊宏模仿言承旭",
       "onboard_time": 1677000799,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 140821,
-      "num": 140821,
-      "word": "宋茜白衬衫自拍",
-      "onboard_time": 1677288384,
-      "rank": 40,
       "category": "艺人"
     },
     {
@@ -11739,6 +11771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 95253,
+      "num": 95253,
+      "word": "考研找工作面试怎么准备",
+      "onboard_time": 1677290427,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 95184,
       "num": 1571215,
       "word": "新一代载人登月飞船模型首次展出",
@@ -11753,6 +11793,14 @@
       "onboard_time": 1677097572,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94372,
+      "num": 94372,
+      "word": "正义回廊",
+      "onboard_time": 1677289287,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 93798,
@@ -11779,8 +11827,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91751,
-      "num": 91751,
+      "raw_hot": 93028,
+      "num": 93028,
       "word": "张杰小时候因为没钱没上音乐专业课",
       "onboard_time": 1677260237,
       "rank": 15,
