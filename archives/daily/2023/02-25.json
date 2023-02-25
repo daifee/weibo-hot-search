@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677310424066,
+  "endTime": 1677313392394,
   "band_list": [
     {
       "raw_hot": 9510697,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1032162,
-      "num": 326341,
+      "num": 359126,
       "word": "林娜琏烤瓷牙",
       "onboard_time": 1677309507,
       "rank": 11,
@@ -299,12 +299,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 687206,
+      "num": 687206,
+      "word": "王昱珩说赚钱这事是最简单的",
+      "onboard_time": 1677310347,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 683498,
       "num": 683498,
       "word": "以爱为营 车内吻",
       "onboard_time": 1677254607,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 680570,
+      "num": 324931,
+      "word": "男子地摊套娃娃发现内藏摄像头",
+      "onboard_time": 1677309206,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 653038,
@@ -347,6 +363,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 558869,
+      "num": 558869,
+      "word": "苹果回应偷看密码后再偷iPhone",
+      "onboard_time": 1677309807,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 558798,
       "num": 501098,
       "word": "蔡徐坤回国机场",
@@ -377,6 +401,14 @@
       "onboard_time": 1677304646,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 525605,
+      "num": 525605,
+      "word": "考公为什么会越来越卷",
+      "onboard_time": 1677310046,
+      "rank": 35,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 519647,
@@ -417,14 +449,6 @@
       "onboard_time": 1677300931,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 457805,
-      "num": 324931,
-      "word": "男子地摊套娃娃发现内藏摄像头",
-      "onboard_time": 1677309206,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 455819,
@@ -475,12 +499,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 428204,
+      "num": 170729,
+      "word": "蔡天凤与前夫家有巨额金钱纠纷",
+      "onboard_time": 1677311007,
+      "rank": 39,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 413781,
       "num": 413781,
       "word": "丫丫快回家吧",
       "onboard_time": 1677282560,
       "rank": 8,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 395724,
+      "num": 395724,
+      "word": "赵樱子周柯宇倩女幽魂海报",
+      "onboard_time": 1677310766,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 393438,
@@ -531,12 +571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380103,
+      "num": 380103,
+      "word": "宋茜路演",
+      "onboard_time": 1677312026,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362971,
       "num": 362971,
       "word": "刘耀文写给丁程鑫的信",
       "onboard_time": 1677292826,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361100,
+      "num": 361100,
+      "word": "彭冠英看到王楚然撒娇的反应",
+      "onboard_time": 1677312385,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 357952,
@@ -553,6 +609,14 @@
       "onboard_time": 1677258319,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 355702,
+      "num": 355702,
+      "word": "周杰伦演唱会附近酒店涨价三倍",
+      "onboard_time": 1677311729,
+      "rank": 12,
+      "category": "音乐,财经"
     },
     {
       "raw_hot": 350669,
@@ -627,6 +691,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 313545,
+      "num": 313545,
+      "word": "张远现身石家庄",
+      "onboard_time": 1677311729,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308089,
       "num": 308089,
       "word": "101岁老人每天赶2场麻将",
@@ -648,6 +720,14 @@
       "word": "快船国王合砍351分",
       "onboard_time": 1677308607,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 292257,
+      "num": 292257,
+      "word": "威少失误把湖人球迷看PTSD了",
+      "onboard_time": 1677309146,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -715,6 +795,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 259780,
+      "num": 259780,
+      "word": "小猫咪手贱扒拉壁虎下一秒惊呆了",
+      "onboard_time": 1677310647,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259469,
       "num": 259469,
       "word": "宋威龙工作室声明",
@@ -736,14 +824,6 @@
       "word": "威少快船首秀",
       "onboard_time": 1677297813,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 255007,
-      "num": 186641,
-      "word": "威少失误把湖人球迷看PTSD了",
-      "onboard_time": 1677309146,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -795,14 +875,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 241427,
-      "num": 241427,
-      "word": "苹果回应偷看密码后再偷iPhone",
-      "onboard_time": 1677309807,
-      "rank": 21,
-      "category": "科技"
-    },
-    {
       "raw_hot": 234301,
       "num": 221737,
       "word": "我们的客栈宋亚轩下期预告",
@@ -817,6 +889,14 @@
       "onboard_time": 1677280760,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 226671,
+      "num": 186537,
+      "word": "这个班没他就散了",
+      "onboard_time": 1677312327,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 223873,
@@ -875,12 +955,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207666,
+      "num": 177572,
+      "word": "日本网友2020年已发起拯救丫丫的请愿",
+      "onboard_time": 1677312626,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205609,
       "num": 205609,
       "word": "搜狐时尚盛典",
       "onboard_time": 1677308186,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202852,
+      "num": 202852,
+      "word": "李嘉琦晒与陈瑜周末合照",
+      "onboard_time": 1677310166,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 201845,
@@ -939,6 +1035,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189805,
+      "num": 189805,
+      "word": "海外出生的大熊猫仍属于中国所有",
+      "onboard_time": 1677310766,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188965,
+      "num": 188965,
+      "word": "RNG对战TT",
+      "onboard_time": 1677313348,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188543,
       "num": 188543,
       "word": "森林进化论",
@@ -963,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182527,
+      "num": 182527,
+      "word": "蔡徐坤线上演唱会邀请视频",
+      "onboard_time": 1677310826,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178957,
       "num": 178957,
       "word": "丁程鑫新歌一起跳舞吧",
@@ -977,6 +1097,14 @@
       "onboard_time": 1677242491,
       "rank": 24,
       "category": "其它"
+    },
+    {
+      "raw_hot": 174880,
+      "num": 174880,
+      "word": "泽连斯基强忍泪水诉苦",
+      "onboard_time": 1677312927,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 172094,
@@ -1000,6 +1128,14 @@
       "word": "什么都AI换脸只会害了你",
       "onboard_time": 1677242971,
       "rank": 27,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 168447,
+      "num": 168447,
+      "word": "苹果或在4月推出15.5寸MacBookAir",
+      "onboard_time": 1677313107,
+      "rank": 40,
       "category": "科技"
     },
     {
@@ -1033,6 +1169,14 @@
       "onboard_time": 1677305186,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162957,
+      "num": 159364,
+      "word": "毒舌律师",
+      "onboard_time": 1677312385,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 158535,
@@ -1083,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144721,
-      "num": 144721,
-      "word": "李嘉琦晒与陈瑜周末合照",
-      "onboard_time": 1677310166,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143583,
       "num": 143583,
       "word": "程潇回国机场饭拍",
@@ -1113,14 +1249,6 @@
       "onboard_time": 1677264253,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142195,
-      "num": 142195,
-      "word": "考公为什么会越来越卷",
-      "onboard_time": 1677310046,
-      "rank": 35,
-      "category": "教育,社会议题"
     },
     {
       "raw_hot": 142001,
@@ -1177,14 +1305,6 @@
       "onboard_time": 1677250832,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 124233,
-      "num": 124233,
-      "word": "王昱珩说赚钱这事是最简单的",
-      "onboard_time": 1677310347,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 122372,

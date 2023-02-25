@@ -1,0 +1,410 @@
+{
+  "runTime": 1677313392394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1186771,
+        "num": 1186771,
+        "word": "川籍华人飞3000公里看丫丫哭了",
+        "onboard_time": 1677306927,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814172,
+        "num": 814172,
+        "word": "秒睡可能是种睡眠障碍",
+        "onboard_time": 1677305068,
+        "rank": 1,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 89770,
+        "num": 709324,
+        "word": "金黄油菜花海与蓝天配色好搭",
+        "onboard_time": 1677297392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687206,
+        "num": 687206,
+        "word": "王昱珩说赚钱这事是最简单的",
+        "onboard_time": 1677310347,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558869,
+        "num": 558869,
+        "word": "苹果回应偷看密码后再偷iPhone",
+        "onboard_time": 1677309807,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 3520058,
+        "num": 550469,
+        "word": "蔡天凤前夫落网",
+        "onboard_time": 1677309627,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 525605,
+        "num": 525605,
+        "word": "考公为什么会越来越卷",
+        "onboard_time": 1677310046,
+        "rank": 6,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 395724,
+        "num": 395724,
+        "word": "赵樱子周柯宇倩女幽魂海报",
+        "onboard_time": 1677310766,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380103,
+        "num": 380103,
+        "word": "宋茜路演",
+        "onboard_time": 1677312026,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361100,
+        "num": 361100,
+        "word": "彭冠英看到王楚然撒娇的反应",
+        "onboard_time": 1677312385,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 831298,
+        "num": 360972,
+        "word": "谭仔米线",
+        "onboard_time": 1677303568,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 737357,
+        "num": 359126,
+        "word": "林娜琏烤瓷牙",
+        "onboard_time": 1677309507,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355702,
+        "num": 355702,
+        "word": "周杰伦演唱会附近酒店涨价三倍",
+        "onboard_time": 1677311729,
+        "rank": 12,
+        "category": "音乐,财经"
+      },
+      {
+        "raw_hot": 352140,
+        "num": 352140,
+        "word": "清明假期不调休",
+        "onboard_time": 1677297090,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317157,
+        "num": 317157,
+        "word": "香港名媛遭谋杀警方已拘捕3人",
+        "onboard_time": 1677298771,
+        "rank": 14,
+        "category": "社会负面,艺人"
+      },
+      {
+        "raw_hot": 313545,
+        "num": 313545,
+        "word": "张远现身石家庄",
+        "onboard_time": 1677311729,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292257,
+        "num": 292257,
+        "word": "威少失误把湖人球迷看PTSD了",
+        "onboard_time": 1677309146,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285608,
+        "num": 285608,
+        "word": "杨蓉也买不到完美的光腿神器",
+        "onboard_time": 1677301471,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274536,
+        "num": 274536,
+        "word": "张嘉倪露背私服好辣",
+        "onboard_time": 1677295888,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262858,
+        "num": 262858,
+        "word": "刘畊宏谈小泡芙扎针",
+        "onboard_time": 1677304646,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680570,
+        "num": 261887,
+        "word": "男子地摊套娃娃发现内藏摄像头",
+        "onboard_time": 1677309206,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259780,
+        "num": 259780,
+        "word": "小猫咪手贱扒拉壁虎下一秒惊呆了",
+        "onboard_time": 1677310647,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248182,
+        "num": 248182,
+        "word": "国家医保局答记者问",
+        "onboard_time": 1677305307,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221623,
+        "num": 221623,
+        "word": "你认为存多少钱能有安全感",
+        "onboard_time": 1677296069,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221150,
+        "num": 221150,
+        "word": "乌梅子酱 口水歌",
+        "onboard_time": 1677286585,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204927,
+        "num": 204927,
+        "word": "福宝",
+        "onboard_time": 1677303270,
+        "rank": 25,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 202852,
+        "num": 202852,
+        "word": "李嘉琦晒与陈瑜周末合照",
+        "onboard_time": 1677310166,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195236,
+        "num": 195236,
+        "word": "快船国王合砍351分",
+        "onboard_time": 1677308607,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189805,
+        "num": 189805,
+        "word": "海外出生的大熊猫仍属于中国所有",
+        "onboard_time": 1677310766,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188965,
+        "num": 188965,
+        "word": "RNG对战TT",
+        "onboard_time": 1677313348,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226671,
+        "num": 186537,
+        "word": "这个班没他就散了",
+        "onboard_time": 1677312327,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 704616,
+        "num": 186033,
+        "word": "丫丫 乞食",
+        "onboard_time": 1677293547,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182527,
+        "num": 182527,
+        "word": "蔡徐坤线上演唱会邀请视频",
+        "onboard_time": 1677310826,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179430,
+        "num": 179430,
+        "word": "山东省考",
+        "onboard_time": 1677307946,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 207666,
+        "num": 177572,
+        "word": "日本网友2020年已发起拯救丫丫的请愿",
+        "onboard_time": 1677312626,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174880,
+        "num": 174880,
+        "word": "泽连斯基强忍泪水诉苦",
+        "onboard_time": 1677312927,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 172816,
+        "num": 172816,
+        "word": "巴奴火锅创始人再回应天价土豆",
+        "onboard_time": 1677300693,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172539,
+        "num": 172539,
+        "word": "李一桐双麻花辫",
+        "onboard_time": 1677310166,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171372,
+        "num": 171372,
+        "word": "沈月何与吻戏",
+        "onboard_time": 1677303090,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428204,
+        "num": 170729,
+        "word": "蔡天凤与前夫家有巨额金钱纠纷",
+        "onboard_time": 1677311007,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 168447,
+        "num": 168447,
+        "word": "苹果或在4月推出15.5寸MacBookAir",
+        "onboard_time": 1677313107,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 159492,
+        "num": 159492,
+        "word": "iPhone15Pro将配备LiDAR传感器",
+        "onboard_time": 1677296247,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 162957,
+        "num": 159364,
+        "word": "毒舌律师",
+        "onboard_time": 1677312385,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146434,
+        "num": 146434,
+        "word": "广东省考 难",
+        "onboard_time": 1677291507,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135651,
+        "num": 135651,
+        "word": "涉猥亵女干部的县长辞去人大代表",
+        "onboard_time": 1677301293,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 130609,
+        "num": 130609,
+        "word": "宋威龙工作室声明",
+        "onboard_time": 1677309026,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125093,
+        "num": 125093,
+        "word": "网友偶遇鹿晗合照",
+        "onboard_time": 1677303568,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122070,
+        "num": 122070,
+        "word": "女子与前夫摆拍家暴视频被拘10日",
+        "onboard_time": 1677303026,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 103300,
+        "num": 103300,
+        "word": "丫丫回国流程进行到哪一步了",
+        "onboard_time": 1677287066,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99394,
+        "num": 99394,
+        "word": "警方回应女子高铁站殴打威胁女童",
+        "onboard_time": 1677303809,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#数字碳中和#"
+    }
+  }
+}
