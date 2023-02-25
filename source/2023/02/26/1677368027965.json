@@ -1,0 +1,410 @@
+{
+  "runTime": 1677368027965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 479906,
+        "num": 479906,
+        "word": "女子考研期间生娃初试395分",
+        "onboard_time": 1677340287,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 376701,
+        "num": 376701,
+        "word": "建议延长毕业生应届身份时限",
+        "onboard_time": 1677341186,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15609,
+        "num": 323096,
+        "word": "中国载人航天三十年启示录",
+        "onboard_time": 1677332369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288224,
+        "num": 288224,
+        "word": "沈月谈上一次分手的原因",
+        "onboard_time": 1677342146,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241902,
+        "num": 241902,
+        "word": "王濛风波后首现身",
+        "onboard_time": 1677340648,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 201235,
+        "num": 201235,
+        "word": "倪妮夸高叶 你超美的",
+        "onboard_time": 1677325828,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193027,
+        "num": 193027,
+        "word": "女子与前夫摆拍家暴完整监控曝光",
+        "onboard_time": 1677323427,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177550,
+        "num": 177550,
+        "word": "C罗帽子戏法",
+        "onboard_time": 1677366857,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165657,
+        "num": 165657,
+        "word": "博主三亚买3888元海鲜被提醒多花1700",
+        "onboard_time": 1677322709,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164063,
+        "num": 164063,
+        "word": "唐僧吃了都不算破戒",
+        "onboard_time": 1677337495,
+        "rank": 9,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 489061,
+        "num": 163955,
+        "word": "HPV病毒可导致哪些疾病",
+        "onboard_time": 1677365776,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299952,
+        "num": 163846,
+        "word": "CNN拍下解放军对峙美机",
+        "onboard_time": 1677359351,
+        "rank": 11,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 271751,
+        "num": 163659,
+        "word": "日本百年温泉旅馆被曝半年不换水",
+        "onboard_time": 1677366315,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193795,
+        "num": 163381,
+        "word": "为前两秒的不耐烦道歉",
+        "onboard_time": 1677367157,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163279,
+        "num": 163279,
+        "word": "郑业成郭晓婷鼻尖吻",
+        "onboard_time": 1677338072,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150609,
+        "num": 150609,
+        "word": "又吐又拉是甲流还是诺如",
+        "onboard_time": 1677367338,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144338,
+        "num": 144338,
+        "word": "在张大大直播间笑死",
+        "onboard_time": 1677336509,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143056,
+        "num": 143056,
+        "word": "美防长称已经数月没和中国防长通话",
+        "onboard_time": 1677358151,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 123118,
+        "num": 123118,
+        "word": "赵奕欢身材比例",
+        "onboard_time": 1677331529,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121222,
+        "num": 121222,
+        "word": "蒲熠星 我一路走来惊心动魄",
+        "onboard_time": 1677332609,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112041,
+        "num": 112041,
+        "word": "看视频觉异样男子跨城救下垂危小狗",
+        "onboard_time": 1677347597,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108147,
+        "num": 108147,
+        "word": "女老板给去世员工遗孀发3年工资",
+        "onboard_time": 1677329488,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100377,
+        "num": 100377,
+        "word": "美国务卿说不喜欢看到大国欺凌他国",
+        "onboard_time": 1677322650,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 96051,
+        "num": 96051,
+        "word": "网友点赞中国蓝新闻为丫丫发声",
+        "onboard_time": 1677343283,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95994,
+        "num": 95994,
+        "word": "旅美大熊猫乐乐是如何离世的",
+        "onboard_time": 1677331651,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95728,
+        "num": 95728,
+        "word": "甲流",
+        "onboard_time": 1677325649,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83473,
+        "num": 83473,
+        "word": "1岁男童误食降糖药成植物人",
+        "onboard_time": 1677316406,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76067,
+        "num": 76067,
+        "word": "鞠婧祎小卡",
+        "onboard_time": 1677325231,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75372,
+        "num": 75372,
+        "word": "巨人完结篇新预告",
+        "onboard_time": 1677367098,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 75142,
+        "num": 75142,
+        "word": "全景还原北溪被炸过程",
+        "onboard_time": 1677336750,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 75140,
+        "num": 75140,
+        "word": "满江红票房",
+        "onboard_time": 1677327510,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74356,
+        "num": 74356,
+        "word": "李小冉红毯状态",
+        "onboard_time": 1677328767,
+        "rank": 31,
+        "category": "作品衍生,影视"
+      },
+      {
+        "raw_hot": 72416,
+        "num": 72416,
+        "word": "健康路成郑州干饭顶流",
+        "onboard_time": 1677364215,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72344,
+        "num": 72344,
+        "word": "孟佳半透明连衣裙",
+        "onboard_time": 1677334948,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 69987,
+        "num": 69987,
+        "word": "李一桐夹子音",
+        "onboard_time": 1677328588,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68613,
+        "num": 68613,
+        "word": "理发师才是最需要考证的吧",
+        "onboard_time": 1677367638,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66792,
+        "num": 66792,
+        "word": "夜旅人",
+        "onboard_time": 1677330149,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62177,
+        "num": 62177,
+        "word": "AG战胜EDGM",
+        "onboard_time": 1677366797,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60689,
+        "num": 60689,
+        "word": "毕雯珺演技",
+        "onboard_time": 1677333868,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56069,
+        "num": 56069,
+        "word": "宁至谦失忆",
+        "onboard_time": 1677328110,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53725,
+        "num": 53725,
+        "word": "AG夏竹",
+        "onboard_time": 1677334591,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49738,
+        "num": 49738,
+        "word": "TT申诉时光回溯",
+        "onboard_time": 1677332010,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49125,
+        "num": 49125,
+        "word": "省考",
+        "onboard_time": 1677315449,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 47898,
+        "num": 47898,
+        "word": "新一届全国人大代表全名单公布",
+        "onboard_time": 1677356592,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 46599,
+        "num": 46599,
+        "word": "流浪地球2票房",
+        "onboard_time": 1677325170,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45497,
+        "num": 45497,
+        "word": "不要错过拨浪鼓咚咚响",
+        "onboard_time": 1677366619,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44188,
+        "num": 44188,
+        "word": "TES 净化",
+        "onboard_time": 1677331408,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40646,
+        "num": 40646,
+        "word": "孔雪儿绿色镂空纱裙造型",
+        "onboard_time": 1677332731,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 39065,
+        "num": 39065,
+        "word": "爱的二八定律将在马来西亚播出",
+        "onboard_time": 1677356712,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38203,
+        "num": 38203,
+        "word": "JDG 虐菜队",
+        "onboard_time": 1677334049,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的民生关切#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677367132669,
+  "endTime": 1677368027965,
   "band_list": [
     {
       "raw_hot": 924122,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 489061,
+      "num": 163955,
+      "word": "HPV病毒可导致哪些疾病",
+      "onboard_time": 1677365776,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424256,
       "num": 424256,
       "word": "博主三亚买3888元海鲜被提醒多花1700",
@@ -99,11 +107,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 296542,
-      "num": 123470,
-      "word": "HPV病毒可导致哪些疾病",
-      "onboard_time": 1677365776,
-      "rank": 10,
+      "raw_hot": 299952,
+      "num": 163846,
+      "word": "CNN拍下解放军对峙美机",
+      "onboard_time": 1677359351,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 271751,
+      "num": 163659,
+      "word": "日本百年温泉旅馆被曝半年不换水",
+      "onboard_time": 1677366315,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -113,14 +129,6 @@
       "onboard_time": 1677331651,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255288,
-      "num": 122919,
-      "word": "CNN拍下解放军对峙美机",
-      "onboard_time": 1677359351,
-      "rank": 36,
-      "category": "军事"
     },
     {
       "raw_hot": 250041,
@@ -195,6 +203,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193795,
+      "num": 163381,
+      "word": "为前两秒的不耐烦道歉",
+      "onboard_time": 1677367157,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 193027,
+      "num": 193027,
+      "word": "女子与前夫摆拍家暴完整监控曝光",
+      "onboard_time": 1677323427,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183710,
       "num": 183710,
       "word": "网友点赞中国蓝新闻为丫丫发声",
@@ -209,6 +233,14 @@
       "onboard_time": 1677334591,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177550,
+      "num": 177550,
+      "word": "C罗帽子戏法",
+      "onboard_time": 1677366857,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 177005,
@@ -251,14 +283,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 169697,
-      "num": 169697,
-      "word": "女子与前夫摆拍家暴完整监控曝光",
-      "onboard_time": 1677323427,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166282,
       "num": 166282,
       "word": "黄书记对不起",
@@ -299,6 +323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 150609,
+      "num": 150609,
+      "word": "又吐又拉是甲流还是诺如",
+      "onboard_time": 1677367338,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148899,
       "num": 148899,
       "word": "杨超越新综艺路透",
@@ -331,28 +363,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143056,
+      "num": 143056,
+      "word": "美防长称已经数月没和中国防长通话",
+      "onboard_time": 1677358151,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 139364,
       "num": 139364,
       "word": "AG对战EDGM",
       "onboard_time": 1677334407,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137141,
-      "num": 122049,
-      "word": "日本百年温泉旅馆被曝半年不换水",
-      "onboard_time": 1677366315,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134743,
-      "num": 121081,
-      "word": "美防长称已经数月没和中国防长通话",
-      "onboard_time": 1677358151,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 132706,
@@ -387,20 +411,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 112041,
+      "num": 112041,
+      "word": "看视频觉异样男子跨城救下垂危小狗",
+      "onboard_time": 1677347597,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111315,
       "num": 111315,
       "word": "行测答案",
       "onboard_time": 1677325170,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 110797,
-      "num": 102754,
-      "word": "看视频觉异样男子跨城救下垂危小狗",
-      "onboard_time": 1677347597,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101367,
@@ -427,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75372,
+      "num": 75372,
+      "word": "巨人完结篇新预告",
+      "onboard_time": 1677367098,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 75265,
       "num": 104530,
       "word": "莱斯特城vs阿森纳",
@@ -443,6 +475,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 72416,
+      "num": 72416,
+      "word": "健康路成郑州干饭顶流",
+      "onboard_time": 1677364215,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68613,
+      "num": 68613,
+      "word": "理发师才是最需要考证的吧",
+      "onboard_time": 1677367638,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68106,
       "num": 68106,
       "word": "黑喵 隔了条银河",
@@ -451,19 +499,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 67400,
-      "num": 67400,
-      "word": "健康路成郑州干饭顶流",
-      "onboard_time": 1677364215,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66787,
       "num": 104033,
       "word": "JDG战胜TES",
       "onboard_time": 1677333590,
       "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 62177,
+      "num": 62177,
+      "word": "AG战胜EDGM",
+      "onboard_time": 1677366797,
+      "rank": 35,
       "category": "游戏"
     },
     {
@@ -483,12 +531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54466,
-      "num": 54466,
-      "word": "C罗帽子戏法",
-      "onboard_time": 1677366857,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 47898,
+      "num": 47898,
+      "word": "新一届全国人大代表全名单公布",
+      "onboard_time": 1677356592,
+      "rank": 36,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 47080,
@@ -507,28 +555,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 45306,
-      "num": 45306,
-      "word": "AG战胜EDGM",
-      "onboard_time": 1677366797,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 43639,
-      "num": 20794,
+      "num": 39065,
       "word": "爱的二八定律将在马来西亚播出",
       "onboard_time": 1677356712,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 43276,
-      "num": 43276,
-      "word": "新一届全国人大代表全名单公布",
-      "onboard_time": 1677356592,
-      "rank": 36,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 30723,
@@ -537,14 +569,6 @@
       "onboard_time": 1677332191,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 29210,
-      "num": 29210,
-      "word": "巨人完结篇新预告",
-      "onboard_time": 1677367098,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 29202,
