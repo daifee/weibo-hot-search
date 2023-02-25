@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677313392394,
+  "endTime": 1677314228907,
   "band_list": [
     {
       "raw_hot": 9510697,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1032162,
-      "num": 359126,
+      "num": 401619,
       "word": "林娜琏烤瓷牙",
       "onboard_time": 1677309507,
       "rank": 11,
@@ -275,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 739831,
+      "num": 739831,
+      "word": "王昱珩说赚钱这事是最简单的",
+      "onboard_time": 1677310347,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 723012,
       "num": 723012,
       "word": "姐弟恋比例持续攀升",
@@ -297,14 +305,6 @@
       "onboard_time": 1677244650,
       "rank": 8,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 687206,
-      "num": 687206,
-      "word": "王昱珩说赚钱这事是最简单的",
-      "onboard_time": 1677310347,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 683498,
@@ -331,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 642537,
+      "num": 642537,
+      "word": "考公为什么会越来越卷",
+      "onboard_time": 1677310046,
+      "rank": 35,
+      "category": "教育,社会议题"
+    },
+    {
       "raw_hot": 613819,
       "num": 613819,
       "word": "资料分析",
@@ -347,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 603613,
+      "num": 603613,
+      "word": "苹果回应偷看密码后再偷iPhone",
+      "onboard_time": 1677309807,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 591205,
       "num": 573136,
       "word": "吕珍九胖了好多",
@@ -361,14 +377,6 @@
       "onboard_time": 1677288266,
       "rank": 23,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 558869,
-      "num": 558869,
-      "word": "苹果回应偷看密码后再偷iPhone",
-      "onboard_time": 1677309807,
-      "rank": 21,
-      "category": "科技"
     },
     {
       "raw_hot": 558798,
@@ -401,14 +409,6 @@
       "onboard_time": 1677304646,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 525605,
-      "num": 525605,
-      "word": "考公为什么会越来越卷",
-      "onboard_time": 1677310046,
-      "rank": 35,
-      "category": "教育,社会议题"
     },
     {
       "raw_hot": 519647,
@@ -491,6 +491,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 434176,
+      "num": 434176,
+      "word": "彭冠英看到王楚然撒娇的反应",
+      "onboard_time": 1677312385,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 430259,
+      "num": 401037,
+      "word": "日本网友2020年已发起拯救丫丫的请愿",
+      "onboard_time": 1677312626,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428461,
       "num": 428461,
       "word": "为什么火锅越来越贵",
@@ -507,12 +523,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 414450,
+      "num": 414450,
+      "word": "周杰伦演唱会附近酒店涨价三倍",
+      "onboard_time": 1677311729,
+      "rank": 12,
+      "category": "音乐,财经"
+    },
+    {
       "raw_hot": 413781,
       "num": 413781,
       "word": "丫丫快回家吧",
       "onboard_time": 1677282560,
       "rank": 8,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 406733,
+      "num": 406733,
+      "word": "RNG 暂停",
+      "onboard_time": 1677313886,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 395724,
@@ -529,6 +561,14 @@
       "onboard_time": 1677303026,
       "rank": 46,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 392166,
+      "num": 392166,
+      "word": "泽连斯基强忍泪水诉苦",
+      "onboard_time": 1677312927,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 391732,
@@ -563,6 +603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 383922,
+      "num": 383922,
+      "word": "宋茜路演",
+      "onboard_time": 1677312026,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 380350,
       "num": 380350,
       "word": "何以琛赵默笙同框",
@@ -571,28 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 380103,
-      "num": 380103,
-      "word": "宋茜路演",
-      "onboard_time": 1677312026,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 362971,
       "num": 362971,
       "word": "刘耀文写给丁程鑫的信",
       "onboard_time": 1677292826,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 361100,
-      "num": 361100,
-      "word": "彭冠英看到王楚然撒娇的反应",
-      "onboard_time": 1677312385,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 357952,
@@ -609,14 +641,6 @@
       "onboard_time": 1677258319,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 355702,
-      "num": 355702,
-      "word": "周杰伦演唱会附近酒店涨价三倍",
-      "onboard_time": 1677311729,
-      "rank": 12,
-      "category": "音乐,财经"
     },
     {
       "raw_hot": 350669,
@@ -651,6 +675,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337474,
+      "num": 337474,
+      "word": "张远现身石家庄",
+      "onboard_time": 1677311729,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 337106,
+      "num": 337106,
+      "word": "RNG对战TT",
+      "onboard_time": 1677313348,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 333942,
       "num": 333942,
       "word": "小城市房子会越来越不值钱吗",
@@ -675,6 +715,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 326845,
+      "num": 199355,
+      "word": "这个班没他就散了",
+      "onboard_time": 1677312327,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 322318,
       "num": 322318,
       "word": "考研找工作面试怎么准备",
@@ -689,14 +737,6 @@
       "onboard_time": 1677296247,
       "rank": 25,
       "category": "科技"
-    },
-    {
-      "raw_hot": 313545,
-      "num": 313545,
-      "word": "张远现身石家庄",
-      "onboard_time": 1677311729,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 308089,
@@ -721,6 +761,14 @@
       "onboard_time": 1677308607,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292284,
+      "num": 199351,
+      "word": "郑恺的家庭vlog",
+      "onboard_time": 1677313766,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 292257,
@@ -891,12 +939,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 226671,
-      "num": 186537,
-      "word": "这个班没他就散了",
-      "onboard_time": 1677312327,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 224138,
+      "num": 224138,
+      "word": "岳云鹏追猪",
+      "onboard_time": 1677313467,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 223873,
@@ -947,20 +995,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 212366,
+      "num": 212366,
+      "word": "苹果或在4月推出15.5寸MacBookAir",
+      "onboard_time": 1677313107,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 208379,
       "num": 208379,
       "word": "李一桐双麻花辫",
       "onboard_time": 1677310166,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207666,
-      "num": 177572,
-      "word": "日本网友2020年已发起拯救丫丫的请愿",
-      "onboard_time": 1677312626,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205609,
@@ -1043,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188965,
-      "num": 188965,
-      "word": "RNG对战TT",
-      "onboard_time": 1677313348,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188543,
       "num": 188543,
       "word": "森林进化论",
@@ -1099,12 +1139,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 174880,
-      "num": 174880,
-      "word": "泽连斯基强忍泪水诉苦",
-      "onboard_time": 1677312927,
-      "rank": 35,
-      "category": "国外要闻"
+      "raw_hot": 175062,
+      "num": 175062,
+      "word": "毒舌律师",
+      "onboard_time": 1677312385,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 172094,
@@ -1128,14 +1168,6 @@
       "word": "什么都AI换脸只会害了你",
       "onboard_time": 1677242971,
       "rank": 27,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 168447,
-      "num": 168447,
-      "word": "苹果或在4月推出15.5寸MacBookAir",
-      "onboard_time": 1677313107,
-      "rank": 40,
       "category": "科技"
     },
     {
@@ -1169,14 +1201,6 @@
       "onboard_time": 1677305186,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162957,
-      "num": 159364,
-      "word": "毒舌律师",
-      "onboard_time": 1677312385,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 158535,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1677294386,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132533,
+      "num": 132533,
+      "word": "花海露娜MVP",
+      "onboard_time": 1677314006,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 131002,

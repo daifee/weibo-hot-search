@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677313392394,
+  "endTime": 1677314228907,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -7324,7 +7324,7 @@
     },
     {
       "raw_hot": 1032162,
-      "num": 359126,
+      "num": 401619,
       "word": "林娜琏烤瓷牙",
       "onboard_time": 1677309507,
       "rank": 11,
@@ -12107,6 +12107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 739831,
+      "num": 739831,
+      "word": "王昱珩说赚钱这事是最简单的",
+      "onboard_time": 1677310347,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 739598,
       "num": 739598,
       "word": "国内高校已有学生用ChatGPT写论文",
@@ -13635,14 +13643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 687206,
-      "num": 687206,
-      "word": "王昱珩说赚钱这事是最简单的",
-      "onboard_time": 1677310347,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 686914,
       "num": 686914,
       "word": "复旦团队发布国内首个类ChatGPT模型MOSS",
@@ -14883,6 +14883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 642537,
+      "num": 642537,
+      "word": "考公为什么会越来越卷",
+      "onboard_time": 1677310046,
+      "rank": 35,
+      "category": "教育,社会议题"
+    },
+    {
       "raw_hot": 642365,
       "num": 642365,
       "word": "扬科维奇任国家男子足球队主教练",
@@ -16033,6 +16041,14 @@
       "onboard_time": 1676163145,
       "rank": 5,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 603613,
+      "num": 603613,
+      "word": "苹果回应偷看密码后再偷iPhone",
+      "onboard_time": 1677309807,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 603222,
@@ -17571,14 +17587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 558869,
-      "num": 558869,
-      "word": "苹果回应偷看密码后再偷iPhone",
-      "onboard_time": 1677309807,
-      "rank": 21,
-      "category": "科技"
-    },
-    {
       "raw_hot": 558798,
       "num": 501098,
       "word": "蔡徐坤回国机场",
@@ -18937,14 +18945,6 @@
       "onboard_time": 1675853671,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 525605,
-      "num": 525605,
-      "word": "考公为什么会越来越卷",
-      "onboard_time": 1677310046,
-      "rank": 35,
-      "category": "教育,社会议题"
     },
     {
       "raw_hot": 525574,
@@ -23075,6 +23075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434176,
+      "num": 434176,
+      "word": "彭冠英看到王楚然撒娇的反应",
+      "onboard_time": 1677312385,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 434007,
       "num": 434007,
       "word": "HYBE称会帮SMTOWN艺人闯美",
@@ -23353,6 +23361,14 @@
       "onboard_time": 1676556812,
       "rank": 32,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 430259,
+      "num": 401037,
+      "word": "日本网友2020年已发起拯救丫丫的请愿",
+      "onboard_time": 1677312626,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430150,
@@ -24227,6 +24243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414450,
+      "num": 414450,
+      "word": "周杰伦演唱会附近酒店涨价三倍",
+      "onboard_time": 1677311729,
+      "rank": 12,
+      "category": "音乐,财经"
+    },
+    {
       "raw_hot": 414269,
       "num": 414269,
       "word": "王一博无名路演vlog",
@@ -24712,6 +24736,14 @@
       "word": "TT 状态",
       "onboard_time": 1676386235,
       "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 406733,
+      "num": 406733,
+      "word": "RNG 暂停",
+      "onboard_time": 1677313886,
+      "rank": 9,
       "category": "游戏"
     },
     {
@@ -25699,6 +25731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 392166,
+      "num": 392166,
+      "word": "泽连斯基强忍泪水诉苦",
+      "onboard_time": 1677312927,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 392054,
       "num": 392054,
       "word": "土耳其华人被埋25小时后获救",
@@ -26211,6 +26251,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 383922,
+      "num": 383922,
+      "word": "宋茜路演",
+      "onboard_time": 1677312026,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 383740,
       "num": 383740,
       "word": "16名队员在土耳其遇难最小仅12岁",
@@ -26377,14 +26425,6 @@
       "onboard_time": 1676730631,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 380103,
-      "num": 380103,
-      "word": "宋茜路演",
-      "onboard_time": 1677312026,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 380077,
@@ -27643,14 +27683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361100,
-      "num": 361100,
-      "word": "彭冠英看到王楚然撒娇的反应",
-      "onboard_time": 1677312385,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 360839,
       "num": 360839,
       "word": "父亲回应6岁儿子做饭致全身烧伤",
@@ -28049,14 +28081,6 @@
       "onboard_time": 1675946912,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 355702,
-      "num": 355702,
-      "word": "周杰伦演唱会附近酒店涨价三倍",
-      "onboard_time": 1677311729,
-      "rank": 12,
-      "category": "音乐,财经"
     },
     {
       "raw_hot": 355618,
@@ -29387,6 +29411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 337474,
+      "num": 337474,
+      "word": "张远现身石家庄",
+      "onboard_time": 1677311729,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337450,
       "num": 337450,
       "word": "忙day",
@@ -29401,6 +29433,14 @@
       "onboard_time": 1677221308,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 337106,
+      "num": 337106,
+      "word": "RNG对战TT",
+      "onboard_time": 1677313348,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 337091,
@@ -30025,6 +30065,14 @@
       "onboard_time": 1676987675,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 326845,
+      "num": 199355,
+      "word": "这个班没他就散了",
+      "onboard_time": 1677312327,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 326839,
@@ -31201,14 +31249,6 @@
       "onboard_time": 1676942728,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313545,
-      "num": 313545,
-      "word": "张远现身石家庄",
-      "onboard_time": 1677311729,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 313493,
@@ -32969,6 +33009,14 @@
       "onboard_time": 1675775192,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292284,
+      "num": 199351,
+      "word": "郑恺的家庭vlog",
+      "onboard_time": 1677313766,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 292269,
@@ -39723,14 +39771,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 226671,
-      "num": 186537,
-      "word": "这个班没他就散了",
-      "onboard_time": 1677312327,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 226544,
       "num": 226544,
       "word": "杨超越签字笔没水了",
@@ -39977,6 +40017,14 @@
       "onboard_time": 1675311399,
       "rank": 43,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 224138,
+      "num": 224138,
+      "word": "岳云鹏追猪",
+      "onboard_time": 1677313467,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 224115,
@@ -41235,6 +41283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212366,
+      "num": 212366,
+      "word": "苹果或在4月推出15.5寸MacBookAir",
+      "onboard_time": 1677313107,
+      "rank": 40,
+      "category": "科技"
+    },
+    {
       "raw_hot": 212056,
       "num": 212056,
       "word": "当流浪小狗变成了我的小狗",
@@ -41729,14 +41785,6 @@
       "onboard_time": 1676344952,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207666,
-      "num": 177572,
-      "word": "日本网友2020年已发起拯救丫丫的请愿",
-      "onboard_time": 1677312626,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207643,
@@ -44539,14 +44587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188965,
-      "num": 188965,
-      "word": "RNG对战TT",
-      "onboard_time": 1677313348,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188928,
       "num": 188928,
       "word": "77H三连暴走",
@@ -46899,14 +46939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174880,
-      "num": 174880,
-      "word": "泽连斯基强忍泪水诉苦",
-      "onboard_time": 1677312927,
-      "rank": 35,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 174840,
       "num": 174840,
       "word": "杨蓉妆前妆后随拍",
@@ -48009,14 +48041,6 @@
       "onboard_time": 1675664846,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168447,
-      "num": 168447,
-      "word": "苹果或在4月推出15.5寸MacBookAir",
-      "onboard_time": 1677313107,
-      "rank": 40,
-      "category": "科技"
     },
     {
       "raw_hot": 168443,
@@ -52113,6 +52137,14 @@
       "onboard_time": 1675671927,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132533,
+      "num": 132533,
+      "word": "花海露娜MVP",
+      "onboard_time": 1677314006,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 132453,
