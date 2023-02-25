@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677359761105,
+  "endTime": 1677360831453,
   "band_list": [
     {
       "raw_hot": 924122,
@@ -427,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 63415,
+      "num": 36102,
+      "word": "美防长称已经数月没和中国防长通话",
+      "onboard_time": 1677358151,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 61664,
       "num": 61664,
       "word": "夏花编剧",
@@ -443,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49449,
+      "num": 19530,
+      "word": "CNN拍下解放军对峙美机",
+      "onboard_time": 1677359351,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 45998,
       "num": 66985,
       "word": "RNG战胜TT",
@@ -457,14 +473,6 @@
       "onboard_time": 1677356712,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 42961,
-      "num": 33217,
-      "word": "美防长称已经数月没和中国防长通话",
-      "onboard_time": 1677358151,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 28567,
@@ -497,14 +505,6 @@
       "onboard_time": 1677340050,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17252,
-      "num": 17252,
-      "word": "CNN拍下解放军对峙美机",
-      "onboard_time": 1677359351,
-      "rank": 36,
-      "category": "军事"
     }
   ],
   "hotgov_list": [

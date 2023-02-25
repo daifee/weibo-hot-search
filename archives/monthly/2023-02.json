@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677359761105,
+  "endTime": 1677360831453,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -55667,6 +55667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63415,
+      "num": 36102,
+      "word": "美防长称已经数月没和中国防长通话",
+      "onboard_time": 1677358151,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 63358,
       "num": 63358,
       "word": "关注土耳其7.8级地震",
@@ -55979,6 +55987,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 49449,
+      "num": 19530,
+      "word": "CNN拍下解放军对峙美机",
+      "onboard_time": 1677359351,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 49126,
       "num": 49126,
       "word": "原来高叶也这么有梗",
@@ -56113,14 +56129,6 @@
       "onboard_time": 1675198332,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 42961,
-      "num": 33217,
-      "word": "美防长称已经数月没和中国防长通话",
-      "onboard_time": 1677358151,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 42728,
@@ -56577,14 +56585,6 @@
       "onboard_time": 1677188592,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17252,
-      "num": 17252,
-      "word": "CNN拍下解放军对峙美机",
-      "onboard_time": 1677359351,
-      "rank": 36,
-      "category": "军事"
     },
     {
       "raw_hot": 16380,

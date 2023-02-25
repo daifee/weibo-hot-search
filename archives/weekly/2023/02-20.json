@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677359761105,
+  "endTime": 1677360831453,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -13699,6 +13699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 63415,
+      "num": 36102,
+      "word": "美防长称已经数月没和中国防长通话",
+      "onboard_time": 1677358151,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 62023,
       "num": 62023,
       "word": "复盘俄乌战场十二大关键节点",
@@ -13779,6 +13787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 49449,
+      "num": 19530,
+      "word": "CNN拍下解放军对峙美机",
+      "onboard_time": 1677359351,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 47022,
       "num": 165845,
       "word": "饿了么免单梦回高考",
@@ -13801,14 +13817,6 @@
       "onboard_time": 1677356712,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 42961,
-      "num": 33217,
-      "word": "美防长称已经数月没和中国防长通话",
-      "onboard_time": 1677358151,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 42130,
@@ -13929,14 +13937,6 @@
       "onboard_time": 1677188592,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17252,
-      "num": 17252,
-      "word": "CNN拍下解放军对峙美机",
-      "onboard_time": 1677359351,
-      "rank": 36,
-      "category": "军事"
     },
     {
       "raw_hot": 16352,
