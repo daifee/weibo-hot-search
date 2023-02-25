@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677324818442,
+  "endTime": 1677328443030,
   "band_list": [
     {
       "raw_hot": 9510697,
@@ -49,6 +49,14 @@
       "onboard_time": 1677255387,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2610595,
+      "num": 2610595,
+      "word": "倪妮夸高叶 你超美的",
+      "onboard_time": 1677325828,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2276980,
@@ -139,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1407062,
+      "num": 545242,
+      "word": "肖战探店",
+      "onboard_time": 1677325348,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1343991,
       "num": 1343991,
       "word": "2040年参加高考人数或不到600万",
@@ -161,6 +177,22 @@
       "onboard_time": 1677314969,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1279876,
+      "num": 1279876,
+      "word": "博主三亚买3888元海鲜被提醒多花1700",
+      "onboard_time": 1677322709,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1274446,
+      "num": 1274446,
+      "word": "甲流",
+      "onboard_time": 1677325649,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1259165,
@@ -209,14 +241,6 @@
       "onboard_time": 1677291927,
       "rank": 3,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 1059983,
-      "num": 1059983,
-      "word": "博主三亚买3888元海鲜被提醒多花1700",
-      "onboard_time": 1677322709,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1059566,
@@ -387,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 728233,
+      "num": 728233,
+      "word": "美国务卿说不喜欢看到大国欺凌他国",
+      "onboard_time": 1677322650,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 723012,
       "num": 723012,
       "word": "姐弟恋比例持续攀升",
@@ -411,12 +443,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 693863,
-      "num": 693863,
-      "word": "美国务卿说不喜欢看到大国欺凌他国",
-      "onboard_time": 1677322650,
-      "rank": 19,
-      "category": "国外要闻"
+      "raw_hot": 686780,
+      "num": 588484,
+      "word": "鞠婧祎小卡",
+      "onboard_time": 1677325231,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 685184,
+      "num": 685184,
+      "word": "满江红票房",
+      "onboard_time": 1677327510,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 683498,
@@ -441,6 +481,14 @@
       "onboard_time": 1677296069,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 627362,
+      "num": 627362,
+      "word": "流浪地球2票房",
+      "onboard_time": 1677325170,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 621829,
@@ -483,6 +531,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 588883,
+      "num": 588883,
+      "word": "女子与前夫摆拍家暴完整监控曝光",
+      "onboard_time": 1677323427,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588060,
+      "num": 588060,
+      "word": "宁艺卓solo舞台",
+      "onboard_time": 1677325049,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 587290,
       "num": 587290,
       "word": "汶川地震幸存女孩戴义肢玩滑板",
@@ -507,12 +571,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557462,
+      "num": 557462,
+      "word": "于文文透露前任4今年上映",
+      "onboard_time": 1677327690,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 547391,
+      "num": 547391,
+      "word": "RNG战胜TT",
+      "onboard_time": 1677317907,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 545322,
       "num": 545322,
       "word": "广东省考 难",
       "onboard_time": 1677291507,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 541213,
+      "num": 541213,
+      "word": "RNG对战TT",
+      "onboard_time": 1677313348,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 541148,
@@ -528,6 +616,14 @@
       "word": "刘畊宏谈小泡芙扎针",
       "onboard_time": 1677304646,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 531799,
+      "num": 531799,
+      "word": "蔡徐坤武汉",
+      "onboard_time": 1677325588,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -593,6 +689,14 @@
       "onboard_time": 1677300931,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 462329,
+      "num": 462329,
+      "word": "行测答案",
+      "onboard_time": 1677325170,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 456140,
@@ -867,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337106,
-      "num": 337106,
-      "word": "RNG对战TT",
-      "onboard_time": 1677313348,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 333942,
       "num": 333942,
       "word": "小城市房子会越来越不值钱吗",
@@ -897,6 +993,14 @@
       "onboard_time": 1677250180,
       "rank": 17,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 323758,
+      "num": 323758,
+      "word": "饭店保洁捡2万元报警寻失主被开除",
+      "onboard_time": 1677327570,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322318,
@@ -947,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294277,
+      "num": 294277,
+      "word": "夏花编剧",
+      "onboard_time": 1677326307,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292284,
       "num": 237258,
       "word": "郑恺的家庭vlog",
@@ -971,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287528,
+      "num": 287528,
+      "word": "EDG战胜UP",
+      "onboard_time": 1677327927,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283464,
       "num": 283464,
       "word": "蔡徐坤又收到粉丝送的蓝玫瑰",
@@ -993,6 +1113,14 @@
       "onboard_time": 1677252272,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 280116,
+      "num": 280116,
+      "word": "郑秀妍花朵裙",
+      "onboard_time": 1677327690,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 279384,
@@ -1024,6 +1152,14 @@
       "word": "光渊到底更不更",
       "onboard_time": 1677318327,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271248,
+      "num": 271248,
+      "word": "宁至谦失忆",
+      "onboard_time": 1677328110,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -1081,6 +1217,14 @@
       "onboard_time": 1677299069,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253641,
+      "num": 253641,
+      "word": "王丽丽60分13篮板",
+      "onboard_time": 1677326909,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 251658,
@@ -1161,14 +1305,6 @@
       "onboard_time": 1677280760,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 231908,
-      "num": 231908,
-      "word": "女子与前夫摆拍家暴完整监控曝光",
-      "onboard_time": 1677323427,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231545,
@@ -1281,6 +1417,22 @@
       "onboard_time": 1677310166,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207088,
+      "num": 207088,
+      "word": "深海",
+      "onboard_time": 1677327148,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205795,
+      "num": 205795,
+      "word": "得了甲流该如何用药",
+      "onboard_time": 1677327627,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202852,
@@ -1595,14 +1747,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141411,
-      "num": 141411,
-      "word": "RNG战胜TT",
-      "onboard_time": 1677317907,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 139512,
       "num": 139512,
       "word": "赵丽颖云南拍戏人气",
@@ -1625,6 +1769,14 @@
       "onboard_time": 1677294386,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132901,
+      "num": 132901,
+      "word": "黄书记对不起",
+      "onboard_time": 1677328350,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 132533,
