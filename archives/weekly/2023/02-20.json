@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677281629042,
+  "endTime": 1677289233290,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -81,6 +81,14 @@
       "onboard_time": 1676989354,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3243202,
+      "num": 351659,
+      "word": "香港名媛蔡天凤遭谋杀",
+      "onboard_time": 1677281060,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3051902,
@@ -273,6 +281,14 @@
       "onboard_time": 1677065793,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2216486,
+      "num": 2216486,
+      "word": "乌梅子酱 口水歌",
+      "onboard_time": 1677286585,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 2203177,
@@ -1819,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 903754,
+      "num": 903754,
+      "word": "丫丫回国流程进行到哪一步了",
+      "onboard_time": 1677287066,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 903730,
       "num": 903730,
       "word": "鹿晗牵小猫手",
@@ -1889,6 +1913,14 @@
       "onboard_time": 1677066091,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889353,
+      "num": 889353,
+      "word": "双北",
+      "onboard_time": 1677284606,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 879129,
@@ -2091,6 +2123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 816501,
+      "num": 336638,
+      "word": "广西一艘船上3人窒息死亡",
+      "onboard_time": 1677287486,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814948,
       "num": 814948,
       "word": "老默我想吃鱼了被抢注商标",
@@ -2185,14 +2225,6 @@
       "onboard_time": 1677242611,
       "rank": 27,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 789932,
-      "num": 351659,
-      "word": "香港名媛蔡天凤遭谋杀",
-      "onboard_time": 1677281060,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 787294,
@@ -2579,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 723012,
+      "num": 723012,
+      "word": "姐弟恋比例持续攀升",
+      "onboard_time": 1677260176,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722731,
       "num": 669944,
       "word": "佟丽娅冲浪",
@@ -2617,6 +2657,14 @@
       "onboard_time": 1677080130,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 712449,
+      "num": 330072,
+      "word": "李宇春 开云老板老板娘",
+      "onboard_time": 1677286706,
+      "rank": 11,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 710806,
@@ -3627,6 +3675,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 558798,
+      "num": 326990,
+      "word": "蔡徐坤回国机场",
+      "onboard_time": 1677287968,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 558516,
       "num": 446756,
       "word": "杨幂漂发了",
@@ -3963,14 +4019,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 519805,
-      "num": 519805,
-      "word": "姐弟恋比例持续攀升",
-      "onboard_time": 1677260176,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 518493,
       "num": 518493,
       "word": "如何看待异地恋接吻神器",
@@ -4289,6 +4337,14 @@
       "onboard_time": 1677221308,
       "rank": 12,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 487285,
+      "num": 487285,
+      "word": "多省份公务员扩招",
+      "onboard_time": 1677283104,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485859,
@@ -4657,6 +4713,14 @@
       "onboard_time": 1676863050,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443653,
+      "num": 320347,
+      "word": "官方通报女子直播称被前夫家暴",
+      "onboard_time": 1677287245,
+      "rank": 13,
+      "category": "社会负面"
     },
     {
       "raw_hot": 442354,
@@ -5049,6 +5113,14 @@
       "onboard_time": 1677042697,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 413781,
+      "num": 413781,
+      "word": "丫丫快回家吧",
+      "onboard_time": 1677282560,
+      "rank": 8,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 413419,
@@ -5761,6 +5833,14 @@
       "onboard_time": 1676956114,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365583,
+      "num": 314136,
+      "word": "孟菲斯曾说丫丫毛发稀疏是家族遗传",
+      "onboard_time": 1677288146,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364979,
@@ -7235,6 +7315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281791,
+      "num": 281791,
+      "word": "过敏性鼻炎还没有办法彻底治愈",
+      "onboard_time": 1677286106,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281645,
       "num": 281645,
       "word": "杨紫199爱白西装造型",
@@ -7675,6 +7763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261161,
+      "num": 261161,
+      "word": "汶川地震幸存女孩戴义肢玩滑板",
+      "onboard_time": 1677288266,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 260810,
       "num": 260810,
       "word": "宁至谦阮流筝破冰吻",
@@ -7841,6 +7937,14 @@
       "onboard_time": 1676878529,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250736,
+      "num": 250736,
+      "word": "地铁跑酷",
+      "onboard_time": 1677289225,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 250140,
@@ -8137,6 +8241,14 @@
       "onboard_time": 1676937508,
       "rank": 31,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 234168,
+      "num": 234168,
+      "word": "红薯为何是优质碳水",
+      "onboard_time": 1677280760,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 234141,
@@ -9203,6 +9315,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 195303,
+      "num": 195303,
+      "word": "泰剧我的会长男友",
+      "onboard_time": 1677281600,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195172,
       "num": 195172,
       "word": "邢菲武庚纪蓝白长裙路透",
@@ -9273,6 +9393,14 @@
       "onboard_time": 1677057512,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192144,
+      "num": 192144,
+      "word": "国内科幻名刊将拒收ChatGPT投稿",
+      "onboard_time": 1677286226,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 190968,
@@ -9843,6 +9971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175191,
+      "num": 175191,
+      "word": "光渊更不更新",
+      "onboard_time": 1677281600,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175126,
       "num": 175126,
       "word": "唐艺昕晒户外随拍",
@@ -9953,6 +10089,14 @@
       "onboard_time": 1677146970,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 171894,
+      "num": 171894,
+      "word": "刘雨昕到达巴黎",
+      "onboard_time": 1677286706,
+      "rank": 34,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 171650,
@@ -10307,6 +10451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162853,
+      "num": 162853,
+      "word": "浪漫手机",
+      "onboard_time": 1677288807,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162826,
       "num": 168769,
       "word": "清理中国天眼好像刷锅",
@@ -10433,6 +10585,14 @@
       "onboard_time": 1676988216,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157849,
+      "num": 157849,
+      "word": "唐嫣描述数字71时的脑回路",
+      "onboard_time": 1677285206,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 157617,
@@ -10731,6 +10891,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 145198,
+      "num": 145198,
+      "word": "春捂到底应该捂哪儿",
+      "onboard_time": 1677286405,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144893,
       "num": 144893,
       "word": "陈瑶晒二月二小娜剪头照",
@@ -10787,20 +10955,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142506,
-      "num": 142506,
-      "word": "泰剧我的会长男友",
-      "onboard_time": 1677281600,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 142500,
-      "num": 102103,
+      "num": 113326,
       "word": "支教11年他拍的视频看哭网友",
       "onboard_time": 1677280818,
       "rank": 30,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 142296,
+      "num": 142296,
+      "word": "猫急得都快说人话了",
+      "onboard_time": 1677264253,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 142286,
@@ -10848,6 +11016,14 @@
       "word": "刘畊宏模仿言承旭",
       "onboard_time": 1677000799,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140821,
+      "num": 140821,
+      "word": "宋茜白衬衫自拍",
+      "onboard_time": 1677288384,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -10971,14 +11147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 134735,
-      "num": 134735,
-      "word": "光渊更不更新",
-      "onboard_time": 1677281600,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 134673,
       "num": 134673,
       "word": "超级马力欧兄弟大电影确认引进",
@@ -11075,6 +11243,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131002,
+      "num": 131002,
+      "word": "给熊猫宝宝换毯子全过程",
+      "onboard_time": 1677285685,
+      "rank": 41,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 130657,
+      "num": 130657,
+      "word": "AI写作",
+      "onboard_time": 1677287606,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 130407,
       "num": 130407,
       "word": "陈宙飞",
@@ -11153,6 +11337,14 @@
       "onboard_time": 1677156813,
       "rank": 41,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 127735,
+      "num": 127735,
+      "word": "自信的女生的魅力有多大",
+      "onboard_time": 1677257721,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 126456,
@@ -11345,14 +11537,6 @@
       "onboard_time": 1677022286,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116808,
-      "num": 116808,
-      "word": "自信的女生的魅力有多大",
-      "onboard_time": 1677257721,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 116367,
@@ -11611,6 +11795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 90039,
+      "num": 90039,
+      "word": "二十大报告学习笔记",
+      "onboard_time": 1677288746,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88615,
       "num": 88615,
       "word": "王一博无名破9亿剧照",
@@ -11771,14 +11963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59882,
-      "num": 59882,
-      "word": "猫急得都快说人话了",
-      "onboard_time": 1677264253,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 58987,
       "num": 58987,
       "word": "曼联3比0莱斯特城",
@@ -11923,14 +12107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26809,
-      "num": 40362,
-      "word": "红薯为何是优质碳水",
-      "onboard_time": 1677280760,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 25469,
       "num": 25469,
       "word": "七日有幸",
@@ -12052,6 +12228,9 @@
     },
     {
       "word": "#习近平夫妇会见柬埔寨国王和太后#"
+    },
+    {
+      "word": "#数字碳中和#"
     }
   ]
 }

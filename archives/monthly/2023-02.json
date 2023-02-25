@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677281629042,
+  "endTime": 1677289233290,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -465,6 +465,14 @@
       "onboard_time": 1676425289,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3243202,
+      "num": 351659,
+      "word": "香港名媛蔡天凤遭谋杀",
+      "onboard_time": 1677281060,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 3226519,
@@ -1561,6 +1569,14 @@
       "onboard_time": 1676692107,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2216486,
+      "num": 2216486,
+      "word": "乌梅子酱 口水歌",
+      "onboard_time": 1677286585,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 2215236,
@@ -8939,6 +8955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 903754,
+      "num": 903754,
+      "word": "丫丫回国流程进行到哪一步了",
+      "onboard_time": 1677287066,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 903730,
       "num": 903730,
       "word": "鹿晗牵小猫手",
@@ -9193,6 +9217,14 @@
       "onboard_time": 1677066091,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889353,
+      "num": 889353,
+      "word": "双北",
+      "onboard_time": 1677284606,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 887961,
@@ -10307,6 +10339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 816501,
+      "num": 336638,
+      "word": "广西一艘船上3人窒息死亡",
+      "onboard_time": 1677287486,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816227,
       "num": 816227,
       "word": "张颂文说不适应被接机",
@@ -10825,14 +10865,6 @@
       "onboard_time": 1676008772,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 789932,
-      "num": 351659,
-      "word": "香港名媛蔡天凤遭谋杀",
-      "onboard_time": 1677281060,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 789266,
@@ -12371,6 +12403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 723012,
+      "num": 723012,
+      "word": "姐弟恋比例持续攀升",
+      "onboard_time": 1677260176,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722731,
       "num": 669944,
       "word": "佟丽娅冲浪",
@@ -12657,6 +12697,14 @@
       "onboard_time": 1675241852,
       "rank": 20,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 712449,
+      "num": 330072,
+      "word": "李宇春 开云老板老板娘",
+      "onboard_time": 1677286706,
+      "rank": 11,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 712145,
@@ -17299,6 +17347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558798,
+      "num": 326990,
+      "word": "蔡徐坤回国机场",
+      "onboard_time": 1677287968,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 558605,
       "num": 558605,
       "word": "黑暗森林",
@@ -18939,14 +18995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 519805,
-      "num": 519805,
-      "word": "姐弟恋比例持续攀升",
-      "onboard_time": 1677260176,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 519694,
       "num": 519694,
       "word": "易烊千玺满江红落泪花絮",
@@ -20321,6 +20369,14 @@
       "onboard_time": 1677221308,
       "rank": 12,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 487285,
+      "num": 487285,
+      "word": "多省份公务员扩招",
+      "onboard_time": 1677283104,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486967,
@@ -22219,6 +22275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443653,
+      "num": 320347,
+      "word": "官方通报女子直播称被前夫家暴",
+      "onboard_time": 1677287245,
+      "rank": 13,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 443488,
       "num": 443488,
       "word": "中科院团队创制出无刺喜头鱼",
@@ -23865,6 +23929,14 @@
       "onboard_time": 1676243778,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 413781,
+      "num": 413781,
+      "word": "丫丫快回家吧",
+      "onboard_time": 1677282560,
+      "rank": 8,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 413419,
@@ -27041,6 +27113,14 @@
       "onboard_time": 1676441489,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365583,
+      "num": 314136,
+      "word": "孟菲斯曾说丫丫毛发稀疏是家族遗传",
+      "onboard_time": 1677288146,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365100,
@@ -33403,6 +33483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281791,
+      "num": 281791,
+      "word": "过敏性鼻炎还没有办法彻底治愈",
+      "onboard_time": 1677286106,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281773,
       "num": 281773,
       "word": "商务部回应制裁对台军售公司",
@@ -35595,6 +35683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261161,
+      "num": 261161,
+      "word": "汶川地震幸存女孩戴义肢玩滑板",
+      "onboard_time": 1677288266,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 260888,
       "num": 260888,
       "word": "时代少年团百忧戒转场视频",
@@ -36433,6 +36529,14 @@
       "onboard_time": 1675260096,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250736,
+      "num": 250736,
+      "word": "地铁跑酷",
+      "onboard_time": 1677289225,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 250545,
@@ -38161,6 +38265,14 @@
       "onboard_time": 1675648828,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 234168,
+      "num": 234168,
+      "word": "红薯为何是优质碳水",
+      "onboard_time": 1677280760,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 234141,
@@ -42699,6 +42811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195303,
+      "num": 195303,
+      "word": "泰剧我的会长男友",
+      "onboard_time": 1677281600,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195275,
       "num": 195275,
       "word": "洪恩採将担任音银下任MC",
@@ -43209,6 +43329,14 @@
       "onboard_time": 1676118447,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192144,
+      "num": 192144,
+      "word": "国内科幻名刊将拒收ChatGPT投稿",
+      "onboard_time": 1677286226,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 192024,
@@ -46019,6 +46147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175191,
+      "num": 175191,
+      "word": "光渊更不更新",
+      "onboard_time": 1677281600,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175150,
       "num": 165874,
       "word": "范丞丞支持电影中国乒乓",
@@ -46577,6 +46713,14 @@
       "onboard_time": 1677146970,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 171894,
+      "num": 171894,
+      "word": "刘雨昕到达巴黎",
+      "onboard_time": 1677286706,
+      "rank": 34,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 171715,
@@ -48067,6 +48211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162853,
+      "num": 162853,
+      "word": "浪漫手机",
+      "onboard_time": 1677288807,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162826,
       "num": 168769,
       "word": "清理中国天眼好像刷锅",
@@ -48705,6 +48857,14 @@
       "onboard_time": 1675812561,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157849,
+      "num": 157849,
+      "word": "唐嫣描述数字71时的脑回路",
+      "onboard_time": 1677285206,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 157812,
@@ -49955,6 +50115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145198,
+      "num": 145198,
+      "word": "春捂到底应该捂哪儿",
+      "onboard_time": 1677286405,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145156,
       "num": 145156,
       "word": "原来小狗喝多了是这样的",
@@ -50211,16 +50379,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142506,
-      "num": 142506,
-      "word": "泰剧我的会长男友",
-      "onboard_time": 1677281600,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 142500,
-      "num": 102103,
+      "num": 113326,
       "word": "支教11年他拍的视频看哭网友",
       "onboard_time": 1677280818,
       "rank": 30,
@@ -50257,6 +50417,14 @@
       "onboard_time": 1676307502,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 142296,
+      "num": 142296,
+      "word": "猫急得都快说人话了",
+      "onboard_time": 1677264253,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 142232,
@@ -50329,6 +50497,14 @@
       "onboard_time": 1676597248,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140821,
+      "num": 140821,
+      "word": "宋茜白衬衫自拍",
+      "onboard_time": 1677288384,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 140803,
@@ -51011,14 +51187,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 134735,
-      "num": 134735,
-      "word": "光渊更不更新",
-      "onboard_time": 1677281600,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 134685,
       "num": 134685,
       "word": "李健说导演预判了我的台词",
@@ -51403,6 +51571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131002,
+      "num": 131002,
+      "word": "给熊猫宝宝换毯子全过程",
+      "onboard_time": 1677285685,
+      "rank": 41,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 130816,
       "num": 130816,
       "word": "C罗助攻梅开二度",
@@ -51433,6 +51609,14 @@
       "onboard_time": 1676696010,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130657,
+      "num": 130657,
+      "word": "AI写作",
+      "onboard_time": 1677287606,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 130438,
@@ -51665,6 +51849,14 @@
       "onboard_time": 1677156813,
       "rank": 41,
       "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 127735,
+      "num": 127735,
+      "word": "自信的女生的魅力有多大",
+      "onboard_time": 1677257721,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 127496,
@@ -52297,14 +52489,6 @@
       "onboard_time": 1675863810,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116808,
-      "num": 116808,
-      "word": "自信的女生的魅力有多大",
-      "onboard_time": 1677257721,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 116803,
@@ -53203,6 +53387,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 90039,
+      "num": 90039,
+      "word": "二十大报告学习笔记",
+      "onboard_time": 1677288746,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88418,
       "num": 88418,
       "word": "曼城3比1阿斯顿维拉",
@@ -53809,14 +54001,6 @@
       "onboard_time": 1677280399,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59882,
-      "num": 59882,
-      "word": "猫急得都快说人话了",
-      "onboard_time": 1677264253,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 59792,
@@ -54499,14 +54683,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 26809,
-      "num": 40362,
-      "word": "红薯为何是优质碳水",
-      "onboard_time": 1677280760,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 26802,
       "num": 26802,
       "word": "大张伟说战有战相跪有跪相",
@@ -54901,6 +55077,9 @@
     },
     {
       "word": "#习近平夫妇会见柬埔寨国王和太后#"
+    },
+    {
+      "word": "#数字碳中和#"
     }
   ]
 }
