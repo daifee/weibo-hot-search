@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677320348082,
+  "endTime": 1677321316787,
   "band_list": [
     {
       "raw_hot": 9510697,
@@ -59,20 +59,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2263668,
+      "num": 2263668,
+      "word": "省考",
+      "onboard_time": 1677280939,
+      "rank": 1,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 2225430,
       "num": 2225430,
       "word": "申论",
       "onboard_time": 1677247891,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2158902,
-      "num": 2158902,
-      "word": "省考",
-      "onboard_time": 1677280939,
-      "rank": 1,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2098893,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1016093,
+      "num": 400591,
+      "word": "高叶真空西装",
+      "onboard_time": 1677320128,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 959626,
       "num": 959626,
       "word": "杨蓉也买不到完美的光腿神器",
@@ -363,6 +371,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 701783,
+      "num": 399717,
+      "word": "TT 可惜",
+      "onboard_time": 1677319645,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 694158,
       "num": 694158,
       "word": "原来有趣的人真的不会无聊",
@@ -475,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 526518,
+      "num": 526518,
+      "word": "法律面前 三六九等",
+      "onboard_time": 1677320188,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 519647,
       "num": 519647,
       "word": "孟菲斯曾说丫丫毛发稀疏是家族遗传",
@@ -491,8 +515,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 485888,
-      "num": 485888,
+      "raw_hot": 486791,
+      "num": 486791,
       "word": "aespa演唱会",
       "onboard_time": 1677317428,
       "rank": 27,
@@ -587,6 +611,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 419986,
+      "num": 419986,
+      "word": "任素汐对自己太狠了",
+      "onboard_time": 1677318929,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414450,
       "num": 414450,
       "word": "周杰伦演唱会附近酒店涨价三倍",
@@ -603,12 +635,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 404556,
-      "num": 404556,
-      "word": "任素汐对自己太狠了",
-      "onboard_time": 1677318929,
-      "rank": 14,
-      "category": "影视"
+      "raw_hot": 401662,
+      "num": 404901,
+      "word": "婚纱日常化",
+      "onboard_time": 1677315088,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 395724,
@@ -619,12 +651,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 394491,
-      "num": 404901,
-      "word": "婚纱日常化",
-      "onboard_time": 1677315088,
-      "rank": 23,
-      "category": "作品衍生,时尚"
+      "raw_hot": 395355,
+      "num": 395355,
+      "word": "商丘公交司机称工资已全部发下",
+      "onboard_time": 1677319227,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393438,
@@ -827,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300574,
-      "num": 300574,
-      "word": "商丘公交司机称工资已全部发下",
-      "onboard_time": 1677319227,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 294937,
       "num": 294937,
       "word": "快船国王合砍351分",
@@ -923,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269471,
+      "num": 269471,
+      "word": "eStar战胜WE",
+      "onboard_time": 1677320785,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262370,
       "num": 262370,
       "word": "警方回应女子高铁站殴打威胁女童",
@@ -961,14 +993,6 @@
       "onboard_time": 1677297813,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254664,
-      "num": 254664,
-      "word": "TT 可惜",
-      "onboard_time": 1677319645,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 254032,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1677241050,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 236466,
+      "num": 236466,
+      "word": "SNH48年度金曲大赏",
+      "onboard_time": 1677320668,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 234301,
@@ -1115,14 +1147,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 211713,
-      "num": 199561,
-      "word": "高叶真空西装",
-      "onboard_time": 1677320128,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 208379,
       "num": 208379,
       "word": "李一桐双麻花辫",
@@ -1211,6 +1235,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 192119,
+      "num": 192119,
+      "word": "毒舌律师粤语版",
+      "onboard_time": 1677320247,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190770,
       "num": 190770,
       "word": "王心凌说别管我跷二郎腿",
@@ -1243,8 +1275,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182911,
-      "num": 182911,
+      "raw_hot": 182992,
+      "num": 182992,
       "word": "这颗子弹在老人右肩藏了74年",
       "onboard_time": 1677317608,
       "rank": 49,
@@ -1339,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159184,
+      "num": 159184,
+      "word": "黄子华台词",
+      "onboard_time": 1677320785,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158535,
       "num": 157302,
       "word": "王雨城最强黑马",
@@ -1427,14 +1467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141539,
-      "num": 138780,
-      "word": "法律面前 三六九等",
-      "onboard_time": 1677320188,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 141411,
       "num": 141411,
       "word": "RNG战胜TT",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1677236909,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136126,
+      "num": 136126,
+      "word": "探访商丘公交车运行现状",
+      "onboard_time": 1677320905,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132973,
@@ -1497,14 +1537,6 @@
       "onboard_time": 1677317907,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125627,
-      "num": 125627,
-      "word": "毒舌律师粤语版",
-      "onboard_time": 1677320247,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 124661,
