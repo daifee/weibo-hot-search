@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677346399075,
+  "endTime": 1677349366287,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -13643,6 +13643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75226,
+      "num": 75226,
+      "word": "看视频觉异样男子跨城救下垂危小狗",
+      "onboard_time": 1677347597,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74579,
       "num": 210706,
       "word": "超9成用户选择线上理赔",
@@ -13785,6 +13793,14 @@
       "onboard_time": 1676828717,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 41963,
+      "num": 41963,
+      "word": "皇马vs马竞",
+      "onboard_time": 1677347656,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 35992,

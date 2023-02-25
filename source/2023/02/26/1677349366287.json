@@ -1,0 +1,410 @@
+{
+  "runTime": 1677349366287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 291765,
+        "num": 291765,
+        "word": "建议延长毕业生应届身份时限",
+        "onboard_time": 1677341186,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231327,
+        "num": 231327,
+        "word": "倪妮夸高叶 你超美的",
+        "onboard_time": 1677325828,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 8714,
+        "num": 207151,
+        "word": "中国载人航天三十年启示录",
+        "onboard_time": 1677332369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290940,
+        "num": 206340,
+        "word": "沈月谈上一次分手的原因",
+        "onboard_time": 1677342146,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204982,
+        "num": 204982,
+        "word": "女子考研期间生娃初试395分",
+        "onboard_time": 1677340287,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 149085,
+        "num": 149085,
+        "word": "王濛风波后首现身",
+        "onboard_time": 1677340648,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 145569,
+        "num": 145569,
+        "word": "网友点赞中国蓝新闻为丫丫发声",
+        "onboard_time": 1677343283,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142096,
+        "num": 142096,
+        "word": "在张大大直播间笑死",
+        "onboard_time": 1677336509,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136665,
+        "num": 136665,
+        "word": "蒲熠星 我一路走来惊心动魄",
+        "onboard_time": 1677332609,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125073,
+        "num": 125073,
+        "word": "博主三亚买3888元海鲜被提醒多花1700",
+        "onboard_time": 1677322709,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91752,
+        "num": 91752,
+        "word": "郑业成郭晓婷鼻尖吻",
+        "onboard_time": 1677338072,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88801,
+        "num": 88801,
+        "word": "TT申诉时光回溯",
+        "onboard_time": 1677332010,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85877,
+        "num": 85877,
+        "word": "赵奕欢身材比例",
+        "onboard_time": 1677331529,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 82115,
+        "num": 82115,
+        "word": "美国务卿说不喜欢看到大国欺凌他国",
+        "onboard_time": 1677322650,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 78867,
+        "num": 78867,
+        "word": "满江红票房",
+        "onboard_time": 1677327510,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77305,
+        "num": 77305,
+        "word": "鞠婧祎小卡",
+        "onboard_time": 1677325231,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76697,
+        "num": 76697,
+        "word": "女子与前夫摆拍家暴完整监控曝光",
+        "onboard_time": 1677323427,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75226,
+        "num": 75226,
+        "word": "看视频觉异样男子跨城救下垂危小狗",
+        "onboard_time": 1677347597,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74473,
+        "num": 74473,
+        "word": "旅美大熊猫乐乐是如何离世的",
+        "onboard_time": 1677331651,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65326,
+        "num": 65326,
+        "word": "TES 净化",
+        "onboard_time": 1677331408,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70024,
+        "num": 64900,
+        "word": "女老板给去世员工遗孀发3年工资",
+        "onboard_time": 1677329488,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63316,
+        "num": 63316,
+        "word": "唐僧吃了都不算破戒",
+        "onboard_time": 1677337495,
+        "rank": 21,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 62757,
+        "num": 62757,
+        "word": "宁艺卓solo舞台",
+        "onboard_time": 1677325049,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 55487,
+        "num": 55487,
+        "word": "李一桐夹子音",
+        "onboard_time": 1677328588,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55184,
+        "num": 55184,
+        "word": "夜旅人",
+        "onboard_time": 1677330149,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51643,
+        "num": 51643,
+        "word": "AG夏竹",
+        "onboard_time": 1677334591,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50975,
+        "num": 50975,
+        "word": "JDG 虐菜队",
+        "onboard_time": 1677334049,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49565,
+        "num": 49565,
+        "word": "1岁男童误食降糖药成植物人",
+        "onboard_time": 1677316406,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47403,
+        "num": 47403,
+        "word": "孔雪儿绿色镂空纱裙造型",
+        "onboard_time": 1677332731,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 47269,
+        "num": 47269,
+        "word": "宁至谦失忆",
+        "onboard_time": 1677328110,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45952,
+        "num": 45952,
+        "word": "蔡徐坤武汉",
+        "onboard_time": 1677325588,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45212,
+        "num": 45212,
+        "word": "甲流",
+        "onboard_time": 1677325649,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43893,
+        "num": 43893,
+        "word": "流浪地球2票房",
+        "onboard_time": 1677325170,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43694,
+        "num": 43694,
+        "word": "孟佳半透明连衣裙",
+        "onboard_time": 1677334948,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 41963,
+        "num": 41963,
+        "word": "皇马vs马竞",
+        "onboard_time": 1677347656,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41930,
+        "num": 41930,
+        "word": "夏花编剧",
+        "onboard_time": 1677326307,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41521,
+        "num": 41521,
+        "word": "黄书记对不起",
+        "onboard_time": 1677328350,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41192,
+        "num": 41192,
+        "word": "全景还原北溪被炸过程",
+        "onboard_time": 1677336750,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 40855,
+        "num": 40855,
+        "word": "黑喵 隔了条银河",
+        "onboard_time": 1677329730,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40398,
+        "num": 40398,
+        "word": "毕雯珺演技",
+        "onboard_time": 1677333868,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36928,
+        "num": 36928,
+        "word": "INTO1苏州音乐会",
+        "onboard_time": 1677328588,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36788,
+        "num": 36788,
+        "word": "申论答案",
+        "onboard_time": 1677336929,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36385,
+        "num": 36385,
+        "word": "杨超越新综艺路透",
+        "onboard_time": 1677342207,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35510,
+        "num": 35510,
+        "word": "邓紫棋空降周兴哲演唱会",
+        "onboard_time": 1677339029,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35040,
+        "num": 35040,
+        "word": "裴珠泫金艺琳去看了aespa演唱会",
+        "onboard_time": 1677337495,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34932,
+        "num": 34932,
+        "word": "李小冉红毯状态",
+        "onboard_time": 1677328767,
+        "rank": 45,
+        "category": "作品衍生,影视"
+      },
+      {
+        "raw_hot": 31970,
+        "num": 34930,
+        "word": "行测答案",
+        "onboard_time": 1677325170,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31898,
+        "num": 34916,
+        "word": "省考",
+        "onboard_time": 1677315449,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27193,
+        "num": 34901,
+        "word": "你好星期六下期预告",
+        "onboard_time": 1677337950,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26868,
+        "num": 34886,
+        "word": "RNG战胜TT",
+        "onboard_time": 1677317907,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#up新时代中国#"
+    }
+  }
+}
