@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677307068334,
+  "endTime": 1677309405474,
   "band_list": [
     {
       "raw_hot": 9510697,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1727400,
+      "num": 1727400,
+      "word": "秒睡可能是种睡眠障碍",
+      "onboard_time": 1677305068,
+      "rank": 9,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 1670979,
       "num": 1670979,
       "word": "省考",
@@ -131,12 +139,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1164367,
+      "num": 414947,
+      "word": "吴磊赵露思片场骑马花絮",
+      "onboard_time": 1677306685,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1154462,
       "num": 1154462,
       "word": "孔乙己文学",
       "onboard_time": 1677245431,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1114838,
+      "num": 1114838,
+      "word": "川籍华人飞3000公里看丫丫哭了",
+      "onboard_time": 1677306927,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1104987,
@@ -201,14 +225,6 @@
       "onboard_time": 1677287486,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 788251,
-      "num": 788251,
-      "word": "秒睡可能是种睡眠障碍",
-      "onboard_time": 1677305068,
-      "rank": 9,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 785692,
@@ -355,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 497754,
-      "num": 414947,
-      "word": "吴磊赵露思片场骑马花絮",
-      "onboard_time": 1677306685,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 487285,
       "num": 487285,
       "word": "多省份公务员扩招",
@@ -393,6 +401,14 @@
       "onboard_time": 1677300931,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455819,
+      "num": 455819,
+      "word": "福宝",
+      "onboard_time": 1677303270,
+      "rank": 17,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 452939,
@@ -433,14 +449,6 @@
       "onboard_time": 1677256345,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 426437,
-      "num": 426437,
-      "word": "福宝",
-      "onboard_time": 1677303270,
-      "rank": 17,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 413781,
@@ -667,6 +675,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 262370,
+      "num": 262370,
+      "word": "警方回应女子高铁站殴打威胁女童",
+      "onboard_time": 1677303809,
+      "rank": 25,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 259202,
       "num": 259202,
       "word": "鹿晗牵小猫手",
@@ -681,14 +697,6 @@
       "onboard_time": 1677297813,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255781,
-      "num": 255781,
-      "word": "警方回应女子高铁站殴打威胁女童",
-      "onboard_time": 1677303809,
-      "rank": 25,
-      "category": "社会负面"
     },
     {
       "raw_hot": 254032,
@@ -731,6 +739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239512,
+      "num": 239512,
+      "word": "宋威龙工作室声明",
+      "onboard_time": 1677309026,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234301,
       "num": 221737,
       "word": "我们的客栈宋亚轩下期预告",
@@ -745,6 +761,14 @@
       "onboard_time": 1677280760,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 229140,
+      "num": 229140,
+      "word": "国家医保局答记者问",
+      "onboard_time": 1677305307,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223873,
@@ -787,6 +811,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218972,
+      "num": 218972,
+      "word": "山东省考",
+      "onboard_time": 1677307946,
+      "rank": 23,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 218703,
+      "num": 218703,
+      "word": "快船国王合砍351分",
+      "onboard_time": 1677308607,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205609,
+      "num": 205609,
+      "word": "搜狐时尚盛典",
+      "onboard_time": 1677308186,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201845,
       "num": 201845,
       "word": "国王绝平三分",
@@ -811,12 +859,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195950,
+      "num": 195950,
+      "word": "丁程鑫侧身转场视频",
+      "onboard_time": 1677309026,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195303,
       "num": 195303,
       "word": "泰剧我的会长男友",
       "onboard_time": 1677281600,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194182,
+      "num": 186641,
+      "word": "威少失误把湖人球迷看PTSD了",
+      "onboard_time": 1677309146,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 192144,
@@ -947,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153178,
+      "num": 153178,
+      "word": "国王快船双加时",
+      "onboard_time": 1677308246,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152488,
       "num": 152488,
       "word": "宋茜白衬衫自拍",
@@ -995,20 +1067,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142001,
+      "num": 142001,
+      "word": "INTO1苏州音乐会",
+      "onboard_time": 1677307106,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 139512,
       "num": 139512,
       "word": "赵丽颖云南拍戏人气",
       "onboard_time": 1677236909,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 137464,
-      "num": 137464,
-      "word": "国家医保局答记者问",
-      "onboard_time": 1677305307,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132973,
@@ -1035,6 +1107,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 129286,
+      "num": 129286,
+      "word": "男子地摊套娃娃发现内藏摄像头",
+      "onboard_time": 1677309206,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127735,
       "num": 127735,
       "word": "自信的女生的魅力有多大",
@@ -1051,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122372,
+      "num": 122372,
+      "word": "明星时装周造型",
+      "onboard_time": 1677307826,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 120860,
       "num": 120860,
       "word": "灌篮高手出场队员7号宫城良田",
@@ -1065,6 +1153,30 @@
       "onboard_time": 1677241950,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118462,
+      "num": 118462,
+      "word": "蒙克45分",
+      "onboard_time": 1677307826,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118420,
+      "num": 118420,
+      "word": "伦纳德44分",
+      "onboard_time": 1677309327,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117577,
+      "num": 117577,
+      "word": "姚晨综艺里砍柴",
+      "onboard_time": 1677308127,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 116740,
@@ -1201,14 +1313,6 @@
       "onboard_time": 1677249120,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85497,
-      "num": 85497,
-      "word": "川籍华人飞3000公里看丫丫哭了",
-      "onboard_time": 1677306927,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84240,
