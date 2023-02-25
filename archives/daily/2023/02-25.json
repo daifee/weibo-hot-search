@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677321316787,
+  "endTime": 1677323701270,
   "band_list": [
     {
       "raw_hot": 9510697,
@@ -89,6 +89,14 @@
       "onboard_time": 1677297090,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1751503,
+      "num": 400591,
+      "word": "高叶真空西装",
+      "onboard_time": 1677320128,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1727400,
@@ -227,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1016093,
-      "num": 400591,
-      "word": "高叶真空西装",
-      "onboard_time": 1677320128,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 959626,
       "num": 959626,
       "word": "杨蓉也买不到完美的光腿神器",
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 886293,
+      "num": 342738,
+      "word": "胡烨韬造型",
+      "onboard_time": 1677321568,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 866028,
       "num": 866028,
       "word": "考公为什么会越来越卷",
@@ -289,6 +297,14 @@
       "onboard_time": 1677312927,
       "rank": 35,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 818545,
+      "num": 234842,
+      "word": "柳智敏独舞",
+      "onboard_time": 1677323549,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 816501,
@@ -371,8 +387,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 701783,
-      "num": 399717,
+      "raw_hot": 705997,
+      "num": 705997,
       "word": "TT 可惜",
       "onboard_time": 1677319645,
       "rank": 24,
@@ -459,6 +475,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 578940,
+      "num": 340626,
+      "word": "EDG 打麻将",
+      "onboard_time": 1677321328,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 558798,
       "num": 501098,
       "word": "蔡徐坤回国机场",
@@ -523,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 476694,
+      "num": 339446,
+      "word": "博主三亚买3888元海鲜被提醒多花1700",
+      "onboard_time": 1677322709,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473358,
       "num": 473358,
       "word": "男子不慎被妻子扎伤在绷带写字留念",
@@ -545,6 +577,14 @@
       "onboard_time": 1677300931,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 456140,
+      "num": 338113,
+      "word": "诟病",
+      "onboard_time": 1677321868,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 455819,
@@ -635,6 +675,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 403046,
+      "num": 403046,
+      "word": "商丘公交司机称工资已全部发下",
+      "onboard_time": 1677319227,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401662,
       "num": 404901,
       "word": "婚纱日常化",
@@ -649,14 +697,6 @@
       "onboard_time": 1677310766,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 395355,
-      "num": 395355,
-      "word": "商丘公交司机称工资已全部发下",
-      "onboard_time": 1677319227,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 393438,
@@ -675,11 +715,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 390595,
+      "num": 205609,
+      "word": "搜狐时尚盛典",
+      "onboard_time": 1677308186,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 389222,
       "num": 389222,
       "word": "孙悦说50岁开始的很有意义",
       "onboard_time": 1677289526,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 388397,
+      "num": 388397,
+      "word": "五哈3观后感",
+      "onboard_time": 1677323247,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -811,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333091,
+      "num": 333091,
+      "word": "美国务卿说不喜欢看到大国欺凌他国",
+      "onboard_time": 1677322650,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 327150,
       "num": 288525,
       "word": "蔡天凤",
@@ -889,6 +953,14 @@
       "onboard_time": 1677291207,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288875,
+      "num": 288875,
+      "word": "钟欣潼米兰看秀红裙造型",
+      "onboard_time": 1677323247,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 283464,
@@ -1051,6 +1123,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241464,
+      "num": 241464,
+      "word": "彭冠英王楚然现场还原名场面",
+      "onboard_time": 1677323489,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 240293,
+      "num": 234312,
+      "word": "听说你喜欢我",
+      "onboard_time": 1677323129,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236466,
       "num": 236466,
       "word": "SNH48年度金曲大赏",
@@ -1073,6 +1161,14 @@
       "onboard_time": 1677280760,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 231545,
+      "num": 231545,
+      "word": "考公路上的那些酸甜苦辣",
+      "onboard_time": 1677321748,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 225451,
@@ -1131,6 +1227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220222,
+      "num": 220222,
+      "word": "蔡依林黑色漏腰西装造型",
+      "onboard_time": 1677321810,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 220085,
       "num": 220085,
       "word": "为什么新生儿一定要哭",
@@ -1152,14 +1256,6 @@
       "word": "李一桐双麻花辫",
       "onboard_time": 1677310166,
       "rank": 24,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205609,
-      "num": 205609,
-      "word": "搜狐时尚盛典",
-      "onboard_time": 1677308186,
-      "rank": 27,
       "category": "作品衍生"
     },
     {
@@ -1537,6 +1633,14 @@
       "onboard_time": 1677317907,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126988,
+      "num": 126988,
+      "word": "女子与前夫摆拍家暴完整监控曝光",
+      "onboard_time": 1677323427,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124661,
