@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677350223793,
+  "endTime": 1677352496160,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -13331,6 +13331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110797,
+      "num": 102754,
+      "word": "看视频觉异样男子跨城救下垂危小狗",
+      "onboard_time": 1677347597,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110315,
       "num": 110315,
       "word": "今日宜加油热带雨林海报",
@@ -13393,14 +13401,6 @@
       "onboard_time": 1677295649,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 102754,
-      "num": 102754,
-      "word": "看视频觉异样男子跨城救下垂危小狗",
-      "onboard_time": 1677347597,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101857,
@@ -13739,8 +13739,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54861,
-      "num": 54861,
+      "raw_hot": 54935,
+      "num": 54935,
       "word": "皇马vs马竞",
       "onboard_time": 1677347656,
       "rank": 34,
@@ -13881,6 +13881,14 @@
       "onboard_time": 1676834411,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23349,
+      "num": 24743,
+      "word": "九霄寒夜暖",
+      "onboard_time": 1677340050,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 22697,

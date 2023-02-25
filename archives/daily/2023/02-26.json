@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677350223793,
+  "endTime": 1677352496160,
   "band_list": [
     {
       "raw_hot": 924122,
@@ -363,7 +363,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 102754,
+      "raw_hot": 110797,
       "num": 102754,
       "word": "看视频觉异样男子跨城救下垂危小狗",
       "onboard_time": 1677347597,
@@ -435,8 +435,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 54861,
-      "num": 54861,
+      "raw_hot": 54935,
+      "num": 54935,
       "word": "皇马vs马竞",
       "onboard_time": 1677347656,
       "rank": 34,
@@ -465,6 +465,14 @@
       "onboard_time": 1677332369,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23349,
+      "num": 24743,
+      "word": "九霄寒夜暖",
+      "onboard_time": 1677340050,
+      "rank": 42,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
@@ -476,6 +484,9 @@
     },
     {
       "word": "#up新时代中国#"
+    },
+    {
+      "word": "#数字碳中和#"
     }
   ]
 }
