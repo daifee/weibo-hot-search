@@ -1,6 +1,6 @@
 {
   "startTime": 1677256019120,
-  "endTime": 1677331335447,
+  "endTime": 1677332034908,
   "band_list": [
     {
       "raw_hot": 9510697,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1508117,
+      "num": 600029,
+      "word": "夜旅人",
+      "onboard_time": 1677330149,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1458439,
       "num": 1458439,
       "word": "行测",
@@ -275,14 +283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 978157,
-      "num": 600029,
-      "word": "夜旅人",
-      "onboard_time": 1677330149,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 964590,
       "num": 582917,
       "word": "郑成华回应未按时缴纳税务罚款传闻",
@@ -361,6 +361,14 @@
       "onboard_time": 1677312927,
       "rank": 35,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 824948,
+      "num": 824948,
+      "word": "女老板给去世员工遗孀发3年工资",
+      "onboard_time": 1677329488,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 822370,
@@ -531,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 636279,
+      "num": 636279,
+      "word": "黄书记对不起",
+      "onboard_time": 1677328350,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 630002,
       "num": 567190,
       "word": "黑喵 隔了条银河",
@@ -553,14 +569,6 @@
       "onboard_time": 1677312327,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 620693,
-      "num": 620693,
-      "word": "女老板给去世员工遗孀发3年工资",
-      "onboard_time": 1677329488,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 613819,
@@ -731,14 +739,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 488516,
-      "num": 488516,
-      "word": "黄书记对不起",
-      "onboard_time": 1677328350,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 487285,
       "num": 487285,
       "word": "多省份公务员扩招",
@@ -875,6 +875,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 425556,
+      "num": 425556,
+      "word": "赵奕欢身材比例",
+      "onboard_time": 1677331529,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 419986,
       "num": 419986,
       "word": "任素汐对自己太狠了",
@@ -913,6 +921,14 @@
       "onboard_time": 1677315088,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 398807,
+      "num": 398807,
+      "word": "餐厅接网吧10个订单收到9个差评",
+      "onboard_time": 1677329246,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395724,
@@ -1017,14 +1033,6 @@
       "onboard_time": 1677258319,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 353958,
-      "num": 353958,
-      "word": "餐厅接网吧10个订单收到9个差评",
-      "onboard_time": 1677329246,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352582,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1677309146,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291260,
+      "num": 267160,
+      "word": "TES 净化",
+      "onboard_time": 1677331408,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 290264,
@@ -1675,6 +1691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184048,
+      "num": 184048,
+      "word": "旅美大熊猫乐乐是如何离世的",
+      "onboard_time": 1677331651,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182992,
       "num": 182992,
       "word": "这颗子弹在老人右肩藏了74年",
@@ -1803,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154966,
+      "num": 154966,
+      "word": "TT申诉时光回溯",
+      "onboard_time": 1677332010,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153178,
       "num": 153178,
       "word": "国王快船双加时",
@@ -1841,6 +1873,14 @@
       "onboard_time": 1677286405,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145160,
+      "num": 145160,
+      "word": "人们为啥都不爱买车了",
+      "onboard_time": 1677332010,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 143583,
@@ -2259,6 +2299,9 @@
     },
     {
       "word": "#全国两会时光#"
+    },
+    {
+      "word": "#up新时代中国#"
     }
   ]
 }

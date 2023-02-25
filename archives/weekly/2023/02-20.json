@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677331335447,
+  "endTime": 1677332034908,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -785,6 +785,14 @@
       "onboard_time": 1677118349,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1508117,
+      "num": 600029,
+      "word": "夜旅人",
+      "onboard_time": 1677330149,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1501625,
@@ -1827,14 +1835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 978157,
-      "num": 600029,
-      "word": "夜旅人",
-      "onboard_time": 1677330149,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 977377,
       "num": 977377,
       "word": "张杰演唱会门票",
@@ -2361,6 +2361,14 @@
       "onboard_time": 1676958330,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 824948,
+      "num": 824948,
+      "word": "女老板给去世员工遗孀发3年工资",
+      "onboard_time": 1677329488,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 822370,
@@ -3579,6 +3587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 636279,
+      "num": 636279,
+      "word": "黄书记对不起",
+      "onboard_time": 1677328350,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 634726,
       "num": 634726,
       "word": "SMTOWN艺人今年活动计划",
@@ -3681,14 +3697,6 @@
       "onboard_time": 1677312327,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 620693,
-      "num": 620693,
-      "word": "女老板给去世员工遗孀发3年工资",
-      "onboard_time": 1677329488,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 620123,
@@ -4899,14 +4907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 488516,
-      "num": 488516,
-      "word": "黄书记对不起",
-      "onboard_time": 1677328350,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 487722,
       "num": 487722,
       "word": "你想要什么王者亲密称呼",
@@ -5627,6 +5627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425556,
+      "num": 425556,
+      "word": "赵奕欢身材比例",
+      "onboard_time": 1677331529,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 425042,
       "num": 425042,
       "word": "近5成韩国新婚夫妻不生子",
@@ -6025,6 +6033,14 @@
       "onboard_time": 1676869716,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 398807,
+      "num": 398807,
+      "word": "餐厅接网吧10个订单收到9个差评",
+      "onboard_time": 1677329246,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397491,
@@ -6833,14 +6849,6 @@
       "onboard_time": 1677230609,
       "rank": 34,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 353958,
-      "num": 353958,
-      "word": "餐厅接网吧10个订单收到9个差评",
-      "onboard_time": 1677329246,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352582,
@@ -8065,6 +8073,14 @@
       "onboard_time": 1676980231,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291260,
+      "num": 267160,
+      "word": "TES 净化",
+      "onboard_time": 1677331408,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 291134,
@@ -10923,6 +10939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184048,
+      "num": 184048,
+      "word": "旅美大熊猫乐乐是如何离世的",
+      "onboard_time": 1677331651,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183970,
       "num": 183970,
       "word": "是什么让你在艰难时坚持下来",
@@ -11955,6 +11979,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 154966,
+      "num": 154966,
+      "word": "TT申诉时光回溯",
+      "onboard_time": 1677332010,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154763,
       "num": 154763,
       "word": "姚薇程梁备孕",
@@ -12193,6 +12225,14 @@
       "onboard_time": 1676769146,
       "rank": 33,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 145160,
+      "num": 145160,
+      "word": "人们为啥都不爱买车了",
+      "onboard_time": 1677332010,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 144893,
@@ -13632,6 +13672,9 @@
     },
     {
       "word": "#全国两会时光#"
+    },
+    {
+      "word": "#up新时代中国#"
     }
   ]
 }
