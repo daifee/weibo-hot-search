@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677328443030,
+  "endTime": 1677329511969,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -3419,6 +3419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1582460,
+      "num": 1582460,
+      "word": "甲流",
+      "onboard_time": 1676991039,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1581111,
       "num": 1581111,
       "word": "女子宿舍吃火锅放罂粟提味被罚",
@@ -4441,14 +4449,6 @@
       "onboard_time": 1675413926,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1375354,
-      "num": 1375354,
-      "word": "甲流",
-      "onboard_time": 1676991039,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1375194,
@@ -7963,6 +7963,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 982992,
+      "num": 982992,
+      "word": "TT 可惜",
+      "onboard_time": 1677319645,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 982614,
       "num": 982614,
       "word": "杨紫绿色抹胸纱裙",
@@ -10483,6 +10491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 822370,
+      "num": 822370,
+      "word": "满江红票房",
+      "onboard_time": 1677327510,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 821927,
       "num": 821927,
       "word": "内蒙古煤矿坍塌",
@@ -11145,14 +11161,6 @@
       "onboard_time": 1676635112,
       "rank": 6,
       "category": "科技"
-    },
-    {
-      "raw_hot": 787133,
-      "num": 787133,
-      "word": "TT 可惜",
-      "onboard_time": 1677319645,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 786810,
@@ -12241,6 +12249,14 @@
       "onboard_time": 1676001575,
       "rank": 22,
       "category": "教育,科技"
+    },
+    {
+      "raw_hot": 739307,
+      "num": 739307,
+      "word": "RNG战胜TT",
+      "onboard_time": 1677317907,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 739181,
@@ -13788,7 +13804,7 @@
     },
     {
       "raw_hot": 686780,
-      "num": 588484,
+      "num": 637880,
       "word": "鞠婧祎小卡",
       "onboard_time": 1677325231,
       "rank": 10,
@@ -13857,14 +13873,6 @@
       "onboard_time": 1676697690,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 685184,
-      "num": 685184,
-      "word": "满江红票房",
-      "onboard_time": 1677327510,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 684413,
@@ -14339,6 +14347,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 667763,
+      "num": 656079,
+      "word": "RNG对战TT",
+      "onboard_time": 1677313348,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 667521,
       "num": 667521,
       "word": "EXO将举办粉丝见面会",
@@ -14577,6 +14593,14 @@
       "onboard_time": 1675734866,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 657737,
+      "num": 657737,
+      "word": "李一桐夹子音",
+      "onboard_time": 1677328588,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 657479,
@@ -16707,6 +16731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 587975,
+      "num": 587975,
+      "word": "于文文透露前任4今年上映",
+      "onboard_time": 1677327690,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 587362,
       "num": 587362,
       "word": "capper",
@@ -17139,6 +17171,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 576386,
+      "num": 576386,
+      "word": "蔡徐坤武汉",
+      "onboard_time": 1677325588,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 576295,
       "num": 576295,
       "word": "情人节父亲叫跑腿给单身女儿送花",
@@ -17555,6 +17595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 564086,
+      "num": 564086,
+      "word": "李小冉红毯状态",
+      "onboard_time": 1677328767,
+      "rank": 15,
+      "category": "作品衍生,影视"
+    },
+    {
       "raw_hot": 563833,
       "num": 563833,
       "word": "小美人鱼扮演者杂志封面",
@@ -17835,14 +17883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 557462,
-      "num": 557462,
-      "word": "于文文透露前任4今年上映",
-      "onboard_time": 1677327690,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 557445,
       "num": 557445,
       "word": "LOL新英雄Milio",
@@ -17865,6 +17905,14 @@
       "onboard_time": 1675994370,
       "rank": 24,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 556438,
+      "num": 556438,
+      "word": "宁至谦失忆",
+      "onboard_time": 1677328110,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 556306,
@@ -18009,6 +18057,14 @@
       "onboard_time": 1676861729,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 553303,
+      "num": 444383,
+      "word": "饭店保洁捡2万元报警寻失主被开除",
+      "onboard_time": 1677327570,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552405,
@@ -18259,14 +18315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547391,
-      "num": 547391,
-      "word": "RNG战胜TT",
-      "onboard_time": 1677317907,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 547327,
       "num": 547327,
       "word": "四六级成绩像拆盲盒",
@@ -18513,14 +18561,6 @@
       "onboard_time": 1675769010,
       "rank": 35,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 541213,
-      "num": 541213,
-      "word": "RNG对战TT",
-      "onboard_time": 1677313348,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 541152,
@@ -18929,14 +18969,6 @@
       "onboard_time": 1676795129,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 531799,
-      "num": 531799,
-      "word": "蔡徐坤武汉",
-      "onboard_time": 1677325588,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 531596,
@@ -25619,6 +25651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 397332,
+      "num": 397332,
+      "word": "郑秀妍花朵裙",
+      "onboard_time": 1677327690,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 397302,
       "num": 397302,
       "word": "男子贩卖小熊猫川金丝猴获刑14年",
@@ -26161,6 +26201,14 @@
       "onboard_time": 1676368892,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389816,
+      "num": 389816,
+      "word": "郑成华回应未按时缴纳税务罚款传闻",
+      "onboard_time": 1677328528,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 389737,
@@ -30659,14 +30707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 323758,
-      "num": 323758,
-      "word": "饭店保洁捡2万元报警寻失主被开除",
-      "onboard_time": 1677327570,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323529,
       "num": 323529,
       "word": "文韬极速心算",
@@ -34483,14 +34523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 280116,
-      "num": 280116,
-      "word": "郑秀妍花朵裙",
-      "onboard_time": 1677327690,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 279908,
       "num": 279908,
       "word": "关晓彤维权案件进展说明",
@@ -35465,14 +35497,6 @@
       "onboard_time": 1676902774,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 271248,
-      "num": 271248,
-      "word": "宁至谦失忆",
-      "onboard_time": 1677328110,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 271174,
@@ -37049,6 +37073,14 @@
       "onboard_time": 1676796810,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256187,
+      "num": 256187,
+      "word": "INTO1苏州音乐会",
+      "onboard_time": 1677307106,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 255984,
@@ -42529,6 +42561,14 @@
       "onboard_time": 1675739848,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 204592,
+      "num": 204592,
+      "word": "黄书记对不起",
+      "onboard_time": 1677328350,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 204512,
@@ -51363,6 +51403,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143855,
+      "num": 143855,
+      "word": "餐厅接网吧10个订单收到9个差评",
+      "onboard_time": 1677329246,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143829,
+      "num": 143829,
+      "word": "绝意马可波罗太绝了",
+      "onboard_time": 1677329428,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143818,
       "num": 143818,
       "word": "时代少年团你好星期六唱的百忧戒",
@@ -51585,14 +51641,6 @@
       "onboard_time": 1676943154,
       "rank": 48,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 142001,
-      "num": 142001,
-      "word": "INTO1苏州音乐会",
-      "onboard_time": 1677307106,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 141600,
@@ -52523,14 +52571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132901,
-      "num": 132901,
-      "word": "黄书记对不起",
-      "onboard_time": 1677328350,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 132829,
       "num": 132829,
       "word": "她是几代人记忆中的刘三姐",
@@ -53145,6 +53185,14 @@
       "onboard_time": 1676720610,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 125775,
+      "num": 125775,
+      "word": "女老板给去世员工遗孀发3年工资",
+      "onboard_time": 1677329488,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125761,

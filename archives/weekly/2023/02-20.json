@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677328443030,
+  "endTime": 1677329511969,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1582460,
+      "num": 1582460,
+      "word": "甲流",
+      "onboard_time": 1676991039,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1581111,
       "num": 1581111,
       "word": "女子宿舍吃火锅放罂粟提味被罚",
@@ -969,14 +977,6 @@
       "onboard_time": 1676864311,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1375354,
-      "num": 1375354,
-      "word": "甲流",
-      "onboard_time": 1676991039,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1374598,
@@ -1795,6 +1795,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 982992,
+      "num": 982992,
+      "word": "TT 可惜",
+      "onboard_time": 1677319645,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 981884,
       "num": 464304,
       "word": "肖战米兰看秀造型大片",
@@ -2331,6 +2339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 822370,
+      "num": 822370,
+      "word": "满江红票房",
+      "onboard_time": 1677327510,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 821927,
       "num": 821927,
       "word": "内蒙古煤矿坍塌",
@@ -2465,14 +2481,6 @@
       "onboard_time": 1677138149,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 787133,
-      "num": 787133,
-      "word": "TT 可惜",
-      "onboard_time": 1677319645,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 786810,
@@ -2819,6 +2827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 739307,
+      "num": 739307,
+      "word": "RNG战胜TT",
+      "onboard_time": 1677317907,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 739181,
       "num": 559066,
       "word": "央视网谈厌蠢症",
@@ -3140,7 +3156,7 @@
     },
     {
       "raw_hot": 686780,
-      "num": 588484,
+      "num": 637880,
       "word": "鞠婧祎小卡",
       "onboard_time": 1677325231,
       "rank": 10,
@@ -3161,14 +3177,6 @@
       "onboard_time": 1676899410,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 685184,
-      "num": 685184,
-      "word": "满江红票房",
-      "onboard_time": 1677327510,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 683498,
@@ -3307,6 +3315,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 667763,
+      "num": 656079,
+      "word": "RNG对战TT",
+      "onboard_time": 1677313348,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 667191,
       "num": 667191,
       "word": "赵丽颖虎狼之路拍摄路透",
@@ -3385,6 +3401,14 @@
       "onboard_time": 1676968890,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 657737,
+      "num": 657737,
+      "word": "李一桐夹子音",
+      "onboard_time": 1677328588,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 656772,
@@ -3907,6 +3931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 587975,
+      "num": 587975,
+      "word": "于文文透露前任4今年上映",
+      "onboard_time": 1677327690,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 587290,
       "num": 587290,
       "word": "汶川地震幸存女孩戴义肢玩滑板",
@@ -4011,6 +4043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 576386,
+      "num": 576386,
+      "word": "蔡徐坤武汉",
+      "onboard_time": 1677325588,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 573889,
       "num": 573889,
       "word": "香香已抵达成都",
@@ -4049,6 +4089,14 @@
       "onboard_time": 1676957431,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 564086,
+      "num": 564086,
+      "word": "李小冉红毯状态",
+      "onboard_time": 1677328767,
+      "rank": 15,
+      "category": "作品衍生,影视"
     },
     {
       "raw_hot": 563833,
@@ -4107,11 +4155,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 557462,
-      "num": 557462,
-      "word": "于文文透露前任4今年上映",
-      "onboard_time": 1677327690,
-      "rank": 12,
+      "raw_hot": 556438,
+      "num": 556438,
+      "word": "宁至谦失忆",
+      "onboard_time": 1677328110,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -4161,6 +4209,14 @@
       "onboard_time": 1676861729,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 553303,
+      "num": 444383,
+      "word": "饭店保洁捡2万元报警寻失主被开除",
+      "onboard_time": 1677327570,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 551946,
@@ -4227,14 +4283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547391,
-      "num": 547391,
-      "word": "RNG战胜TT",
-      "onboard_time": 1677317907,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 547191,
       "num": 547191,
       "word": "俄电视台讨论俄军为何不在拜登访乌时轰炸",
@@ -4297,14 +4345,6 @@
       "onboard_time": 1677124353,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541213,
-      "num": 541213,
-      "word": "RNG对战TT",
-      "onboard_time": 1677313348,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 541148,
@@ -4384,14 +4424,6 @@
       "word": "刘畊宏谈小泡芙扎针",
       "onboard_time": 1677304646,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 531799,
-      "num": 531799,
-      "word": "蔡徐坤武汉",
-      "onboard_time": 1677325588,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -5931,6 +5963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 397332,
+      "num": 397332,
+      "word": "郑秀妍花朵裙",
+      "onboard_time": 1677327690,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 397302,
       "num": 397302,
       "word": "男子贩卖小熊猫川金丝猴获刑14年",
@@ -6057,6 +6097,14 @@
       "onboard_time": 1677245189,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389816,
+      "num": 389816,
+      "word": "郑成华回应未按时缴纳税务罚款传闻",
+      "onboard_time": 1677328528,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 389222,
@@ -7347,14 +7395,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 323758,
-      "num": 323758,
-      "word": "饭店保洁捡2万元报警寻失主被开除",
-      "onboard_time": 1677327570,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323418,
       "num": 323418,
       "word": "唐嫣首次参与综艺主题曲的录音",
@@ -8179,14 +8219,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 280116,
-      "num": 280116,
-      "word": "郑秀妍花朵裙",
-      "onboard_time": 1677327690,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 279611,
       "num": 279611,
       "word": "我们的日子台词疑似抄袭天官赐福",
@@ -8417,14 +8449,6 @@
       "onboard_time": 1676902774,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 271248,
-      "num": 271248,
-      "word": "宁至谦失忆",
-      "onboard_time": 1677328110,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 271014,
@@ -8745,6 +8769,14 @@
       "onboard_time": 1676897975,
       "rank": 36,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 256187,
+      "num": 256187,
+      "word": "INTO1苏州音乐会",
+      "onboard_time": 1677307106,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 254603,
@@ -10009,6 +10041,14 @@
       "onboard_time": 1676948969,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204592,
+      "num": 204592,
+      "word": "黄书记对不起",
+      "onboard_time": 1677328350,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 204502,
@@ -12091,6 +12131,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143855,
+      "num": 143855,
+      "word": "餐厅接网吧10个订单收到9个差评",
+      "onboard_time": 1677329246,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143829,
+      "num": 143829,
+      "word": "绝意马可波罗太绝了",
+      "onboard_time": 1677329428,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143793,
       "num": 143793,
       "word": "井柏然夸网友画的兰珏太好了",
@@ -12153,14 +12209,6 @@
       "onboard_time": 1676943154,
       "rank": 48,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 142001,
-      "num": 142001,
-      "word": "INTO1苏州音乐会",
-      "onboard_time": 1677307106,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 141600,
@@ -12387,14 +12435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132901,
-      "num": 132901,
-      "word": "黄书记对不起",
-      "onboard_time": 1677328350,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 132829,
       "num": 132829,
       "word": "她是几代人记忆中的刘三姐",
@@ -12569,6 +12609,14 @@
       "onboard_time": 1676808455,
       "rank": 47,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 125775,
+      "num": 125775,
+      "word": "女老板给去世员工遗孀发3年工资",
+      "onboard_time": 1677329488,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125305,
