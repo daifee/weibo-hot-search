@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/27 00:24:53 ~ 2023/02/27 03:14:52
+本榜单时间：2023/02/27 00:24:53 ~ 2023/02/27 03:33:09
 </p>
 </blockquote>
 <p>
@@ -389,6 +389,12 @@ ITZY中文版TrustMe（热度：75550）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TTG%E8%BF%9E%E8%BF%BD%E4%B8%89%E5%B1%80%E8%8E%B7%E8%83%9C%23" target="weibo">
 TTG连追三局获胜（热度：21307）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E9%99%A4%E6%AF%9B%E5%8F%91%E8%84%B1%E8%90%BD%E5%A4%96%E5%A4%9A%E9%A1%B9%E6%8C%87%E6%A0%87%E6%AD%A3%E5%B8%B8%23" target="weibo">
+丫丫除毛发脱落外多项指标正常（热度：18856）
 </a>
 </li>
 

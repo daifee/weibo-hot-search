@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677438892588,
+  "endTime": 1677439989105,
   "band_list": [
     {
       "raw_hot": 1500507,
@@ -505,6 +505,14 @@
       "onboard_time": 1677423513,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18856,
+      "num": 18856,
+      "word": "丫丫除毛发脱落外多项指标正常",
+      "onboard_time": 1677439693,
+      "rank": 35,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677438892588,
+  "endTime": 1677439989105,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -58465,6 +58465,14 @@
       "onboard_time": 1675543153,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18856,
+      "num": 18856,
+      "word": "丫丫除毛发脱落外多项指标正常",
+      "onboard_time": 1677439693,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18647,
