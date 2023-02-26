@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677382918876,
+  "endTime": 1677385394416,
   "band_list": [
     {
       "raw_hot": 2293120,
@@ -35,12 +35,36 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1014943,
+      "num": 1014943,
+      "word": "到底是考公难还是考研难",
+      "onboard_time": 1677382528,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 959738,
+      "num": 959738,
+      "word": "夜市偶遇张颂文",
+      "onboard_time": 1677382349,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 952771,
       "num": 952771,
       "word": "王宝强叫高叶大嫂",
       "onboard_time": 1677376409,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 932193,
+      "num": 932193,
+      "word": "我国适龄女孩HPV疫苗接种率不到1%",
+      "onboard_time": 1677380908,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 924122,
@@ -139,19 +163,27 @@
       "category": "网红"
     },
     {
-      "raw_hot": 666806,
-      "num": 666806,
-      "word": "我国适龄女孩HPV疫苗接种率不到1%",
-      "onboard_time": 1677380908,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 645811,
       "num": 645811,
       "word": "在张大大直播间笑死",
       "onboard_time": 1677336509,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 640518,
+      "num": 640518,
+      "word": "刘诗诗捧花视频",
+      "onboard_time": 1677382592,
+      "rank": 9,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 634204,
+      "num": 453429,
+      "word": "权顺荣 签售",
+      "onboard_time": 1677383251,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -171,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 576199,
-      "num": 473298,
-      "word": "夜市偶遇张颂文",
-      "onboard_time": 1677382349,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 558208,
       "num": 558208,
       "word": "刘雯米兰时装周再度闭场",
@@ -195,14 +219,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 509659,
-      "num": 509659,
-      "word": "刘诗诗捧花视频",
-      "onboard_time": 1677382592,
-      "rank": 9,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 506715,
       "num": 506715,
       "word": "9岁女演员成为柏林电影节最佳主角",
@@ -217,6 +233,14 @@
       "onboard_time": 1677373887,
       "rank": 12,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 502401,
+      "num": 502401,
+      "word": "早年的婚纱照能有多离谱",
+      "onboard_time": 1677381689,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 496525,
@@ -267,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405128,
+      "num": 405128,
+      "word": "大爷怒斥夜市悬挂日式雨伞",
+      "onboard_time": 1677383367,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389047,
       "num": 389047,
       "word": "CNN拍下解放军对峙美机",
@@ -276,7 +308,7 @@
     },
     {
       "raw_hot": 379044,
-      "num": 348299,
+      "num": 372588,
       "word": "丫丫毛发脱落系皮肤病所致",
       "onboard_time": 1677382110,
       "rank": 30,
@@ -313,14 +345,6 @@
       "onboard_time": 1677340648,
       "rank": 14,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 354484,
-      "num": 211703,
-      "word": "早年的婚纱照能有多离谱",
-      "onboard_time": 1677381689,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 330856,
@@ -363,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285286,
+      "num": 285286,
+      "word": "王楚然出发巴黎时装周",
+      "onboard_time": 1677385107,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 284562,
       "num": 284562,
       "word": "INTO1海外活动官宣",
       "onboard_time": 1677380670,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275173,
+      "num": 275173,
+      "word": "老人疑因男生公交上未让座将其骂哭",
+      "onboard_time": 1677384146,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266584,
@@ -403,6 +443,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242576,
+      "num": 242576,
+      "word": "刘德华说想和黄子华拍喜剧",
+      "onboard_time": 1677383608,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 242391,
+      "num": 242391,
+      "word": "如何看待子女冠姓权给女方",
+      "onboard_time": 1677384508,
+      "rank": 20,
+      "category": "情感,社会议题"
+    },
+    {
       "raw_hot": 241888,
       "num": 241888,
       "word": "高清镜头下的倪妮",
@@ -417,6 +473,14 @@
       "onboard_time": 1677327510,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236345,
+      "num": 236345,
+      "word": "郑业成耳朵红了",
+      "onboard_time": 1677384266,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 235388,
@@ -473,6 +537,14 @@
       "onboard_time": 1677328588,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218161,
+      "num": 218161,
+      "word": "TF家族和你一起去做的第十六件事",
+      "onboard_time": 1677385049,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 215563,
@@ -635,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168167,
-      "num": 168167,
-      "word": "到底是考公难还是考研难",
-      "onboard_time": 1677382528,
-      "rank": 34,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 166282,
       "num": 166282,
       "word": "黄书记对不起",
@@ -803,11 +867,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125578,
+      "num": 125578,
+      "word": "蔡徐坤线上演唱会预告海报",
+      "onboard_time": 1677383788,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124733,
       "num": 124733,
       "word": "看视频觉异样男子跨城救下垂危小狗",
       "onboard_time": 1677347597,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115252,
+      "num": 115252,
+      "word": "竹子究竟是草还是树",
+      "onboard_time": 1677383967,
+      "rank": 44,
       "category": "社会新闻"
     },
     {

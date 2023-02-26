@@ -1,0 +1,410 @@
+{
+  "runTime": 1677385394416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1586485,
+        "num": 1586485,
+        "word": "乐乐死因初步确定为心脏病变",
+        "onboard_time": 1677375990,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014943,
+        "num": 1014943,
+        "word": "到底是考公难还是考研难",
+        "onboard_time": 1677382528,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 6715,
+        "num": 961581,
+        "word": "中国载人航天三十年启示录",
+        "onboard_time": 1677332369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959738,
+        "num": 959738,
+        "word": "夜市偶遇张颂文",
+        "onboard_time": 1677382349,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 932193,
+        "num": 932193,
+        "word": "我国适龄女孩HPV疫苗接种率不到1%",
+        "onboard_time": 1677380908,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697950,
+        "num": 697950,
+        "word": "中方已为接返丫丫做好准备",
+        "onboard_time": 1677375447,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640518,
+        "num": 640518,
+        "word": "刘诗诗捧花视频",
+        "onboard_time": 1677382592,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 598403,
+        "num": 598403,
+        "word": "中国留学生遇害案校方赔500万美元",
+        "onboard_time": 1677380249,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 502401,
+        "num": 502401,
+        "word": "早年的婚纱照能有多离谱",
+        "onboard_time": 1677381689,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 474630,
+        "num": 474630,
+        "word": "王宝强叫高叶大嫂",
+        "onboard_time": 1677376409,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 634204,
+        "num": 453429,
+        "word": "权顺荣 签售",
+        "onboard_time": 1677383251,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406822,
+        "num": 406822,
+        "word": "还记得那个承诺包1年家务的丈夫吗",
+        "onboard_time": 1677377369,
+        "rank": 11,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 405128,
+        "num": 405128,
+        "word": "大爷怒斥夜市悬挂日式雨伞",
+        "onboard_time": 1677383367,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395100,
+        "num": 395100,
+        "word": "老默唐小虎 我们的客栈",
+        "onboard_time": 1677376950,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372588,
+        "num": 372588,
+        "word": "丫丫毛发脱落系皮肤病所致",
+        "onboard_time": 1677382110,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285286,
+        "num": 285286,
+        "word": "王楚然出发巴黎时装周",
+        "onboard_time": 1677385107,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 275173,
+        "num": 275173,
+        "word": "老人疑因男生公交上未让座将其骂哭",
+        "onboard_time": 1677384146,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245804,
+        "num": 245804,
+        "word": "老人捐出珍藏半世纪的8600多枚火花",
+        "onboard_time": 1677374966,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245377,
+        "num": 245377,
+        "word": "无所谓国家队会出手",
+        "onboard_time": 1677380068,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242576,
+        "num": 242576,
+        "word": "刘德华说想和黄子华拍喜剧",
+        "onboard_time": 1677383608,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242391,
+        "num": 242391,
+        "word": "如何看待子女冠姓权给女方",
+        "onboard_time": 1677384508,
+        "rank": 20,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 242202,
+        "num": 242202,
+        "word": "7旬大爷头婚摆11桌迎娶6旬新娘",
+        "onboard_time": 1677379769,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236345,
+        "num": 236345,
+        "word": "郑业成耳朵红了",
+        "onboard_time": 1677384266,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218161,
+        "num": 218161,
+        "word": "TF家族和你一起去做的第十六件事",
+        "onboard_time": 1677385049,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618782,
+        "num": 215437,
+        "word": "优衣库高管卷走800余件服装7.5折卖",
+        "onboard_time": 1677370585,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 210204,
+        "num": 210204,
+        "word": "北京二手房成交量大涨96%",
+        "onboard_time": 1677370285,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 206634,
+        "num": 206634,
+        "word": "中方对丫丫饲养护理向美方提出要求",
+        "onboard_time": 1677377427,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201921,
+        "num": 201921,
+        "word": "高铁站殴打女童女子系亲生母亲",
+        "onboard_time": 1677377847,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 189493,
+        "num": 189493,
+        "word": "高三女孩热血发言燃爆全场",
+        "onboard_time": 1677373887,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 189325,
+        "num": 189325,
+        "word": "刘雯米兰时装周再度闭场",
+        "onboard_time": 1677373288,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188328,
+        "num": 188328,
+        "word": "贡米",
+        "onboard_time": 1677374547,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 185712,
+        "num": 185712,
+        "word": "为何寺庙旅游在90后00后中爆火",
+        "onboard_time": 1677376347,
+        "rank": 31,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 185393,
+        "num": 185393,
+        "word": "47岁丘索维金娜体操世界杯摘铜",
+        "onboard_time": 1677380549,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184738,
+        "num": 184738,
+        "word": "女子委托储存胎盘5年后干细胞丢失",
+        "onboard_time": 1677379528,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161626,
+        "num": 161626,
+        "word": "女子考研期间生娃初试395分",
+        "onboard_time": 1677340287,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 150365,
+        "num": 150365,
+        "word": "接种HPV疫苗为什么重要",
+        "onboard_time": 1677370163,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149633,
+        "num": 149633,
+        "word": "张杰模仿高启强走路",
+        "onboard_time": 1677375148,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143957,
+        "num": 143957,
+        "word": "为前两秒的不耐烦道歉",
+        "onboard_time": 1677367157,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137217,
+        "num": 137217,
+        "word": "佘诗曼韩雪 青蛇",
+        "onboard_time": 1677371126,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134194,
+        "num": 134194,
+        "word": "INTO1海外活动官宣",
+        "onboard_time": 1677380670,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127966,
+        "num": 127966,
+        "word": "赵樱子版聂小倩",
+        "onboard_time": 1677371187,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127690,
+        "num": 127690,
+        "word": "男子手机掉落拍下羊驼罕见视角",
+        "onboard_time": 1677373561,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125578,
+        "num": 125578,
+        "word": "蔡徐坤线上演唱会预告海报",
+        "onboard_time": 1677383788,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118880,
+        "num": 118880,
+        "word": "建议延长毕业生应届身份时限",
+        "onboard_time": 1677341186,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115252,
+        "num": 115252,
+        "word": "竹子究竟是草还是树",
+        "onboard_time": 1677383967,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111948,
+        "num": 111948,
+        "word": "9岁女演员成为柏林电影节最佳主角",
+        "onboard_time": 1677369021,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110112,
+        "num": 110112,
+        "word": "网友米兰偶遇李宇春",
+        "onboard_time": 1677381689,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101126,
+        "num": 101126,
+        "word": "高清镜头下的倪妮",
+        "onboard_time": 1677376468,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92932,
+        "num": 92932,
+        "word": "CNN拍下解放军对峙美机",
+        "onboard_time": 1677359351,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 87141,
+        "num": 87141,
+        "word": "薛凯琪周柯宇 春娇与志明",
+        "onboard_time": 1677377489,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国两会时光#"
+    }
+  }
+}
