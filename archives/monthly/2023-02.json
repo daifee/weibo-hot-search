@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677436608501,
+  "endTime": 1677438892588,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -32347,6 +32347,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 317099,
+      "num": 317099,
+      "word": "曼联夺冠",
+      "onboard_time": 1677437113,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317096,
       "num": 317096,
       "word": "年轻人的社恐有多真实",
@@ -56859,6 +56867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92478,
+      "num": 92478,
+      "word": "钝评我是小妖怪",
+      "onboard_time": 1677434834,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92104,
       "num": 1190331,
       "word": "风和日暖人勤春早",
@@ -57801,14 +57817,6 @@
       "onboard_time": 1675544711,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 52838,
-      "num": 52838,
-      "word": "钝评我是小妖怪",
-      "onboard_time": 1677434834,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 52513,

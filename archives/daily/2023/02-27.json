@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677436608501,
+  "endTime": 1677438892588,
   "band_list": [
     {
       "raw_hot": 1500507,
@@ -129,6 +129,14 @@
       "onboard_time": 1677422194,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317099,
+      "num": 317099,
+      "word": "曼联夺冠",
+      "onboard_time": 1677437113,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 304958,
@@ -371,6 +379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92478,
+      "num": 92478,
+      "word": "钝评我是小妖怪",
+      "onboard_time": 1677434834,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91523,
       "num": 91523,
       "word": "谢可寅南京livehouse舞台",
@@ -465,14 +481,6 @@
       "onboard_time": 1677430879,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52838,
-      "num": 52838,
-      "word": "钝评我是小妖怪",
-      "onboard_time": 1677434834,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 40098,
