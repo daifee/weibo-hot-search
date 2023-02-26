@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677407750369,
+  "endTime": 1677410122850,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -1756,7 +1756,7 @@
     },
     {
       "raw_hot": 1028254,
-      "num": 323970,
+      "num": 330172,
       "word": "向佐瘦了好多",
       "onboard_time": 1677404847,
       "rank": 10,
@@ -3147,6 +3147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 728953,
+      "num": 728953,
+      "word": "唐嫣被吓哭了",
+      "onboard_time": 1677405388,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 728233,
       "num": 728233,
       "word": "美国务卿说不喜欢看到大国欺凌他国",
@@ -3921,6 +3929,14 @@
       "onboard_time": 1677383251,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 633804,
+      "num": 320296,
+      "word": "解放军军机强硬拦截美军机",
+      "onboard_time": 1677407550,
+      "rank": 30,
+      "category": "军事"
     },
     {
       "raw_hot": 633654,
@@ -5604,7 +5620,7 @@
     },
     {
       "raw_hot": 466146,
-      "num": 295524,
+      "num": 313105,
       "word": "路人镜头下的张雨绮身材",
       "onboard_time": 1677406229,
       "rank": 19,
@@ -5724,7 +5740,7 @@
     },
     {
       "raw_hot": 457609,
-      "num": 295175,
+      "num": 404253,
       "word": "SMTOWN艺人们看aespa演唱会",
       "onboard_time": 1677407610,
       "rank": 13,
@@ -5761,6 +5777,14 @@
       "onboard_time": 1676945432,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 452513,
+      "num": 452513,
+      "word": "樊振东",
+      "onboard_time": 1677407428,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 451417,
@@ -5840,14 +5864,6 @@
       "word": "这票房还没违约金高",
       "onboard_time": 1676817695,
       "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 446328,
-      "num": 446328,
-      "word": "唐嫣被吓哭了",
-      "onboard_time": 1677405388,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -8603,6 +8619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303332,
+      "num": 303332,
+      "word": "泰山站候车乘客集体呼呼大睡",
+      "onboard_time": 1677404667,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302284,
       "num": 302284,
       "word": "一张九九乘法表拿捏外国小孩",
@@ -9169,6 +9193,14 @@
       "onboard_time": 1676974112,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278063,
+      "num": 278063,
+      "word": "疑似泽连斯基替身被媒体拍到",
+      "onboard_time": 1677409230,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277809,
@@ -9873,14 +9905,6 @@
       "onboard_time": 1676856088,
       "rank": 24,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 247962,
-      "num": 247962,
-      "word": "泰山站候车乘客集体呼呼大睡",
-      "onboard_time": 1677404667,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247904,
@@ -10907,6 +10931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212106,
+      "num": 212106,
+      "word": "武汉大学的早樱终于开了",
+      "onboard_time": 1677407910,
+      "rank": 22,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 211944,
       "num": 211944,
       "word": "半熟恋人2盲选约会",
@@ -11161,6 +11193,14 @@
       "onboard_time": 1676865752,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205374,
+      "num": 205374,
+      "word": "年轻人的社恐有多真实",
+      "onboard_time": 1677409468,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 205161,
@@ -11504,6 +11544,14 @@
       "word": "卫健委回应医院弄错试管婴儿",
       "onboard_time": 1676953535,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197176,
+      "num": 197176,
+      "word": "警方回应男子在自家鱼塘电鱼被处罚",
+      "onboard_time": 1677408688,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -12267,20 +12315,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 179655,
-      "num": 148951,
-      "word": "解放军军机强硬拦截美军机",
-      "onboard_time": 1677407550,
-      "rank": 30,
-      "category": "军事"
-    },
-    {
       "raw_hot": 179642,
       "num": 179642,
       "word": "听说你喜欢我开分7.8",
       "onboard_time": 1677161312,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179484,
+      "num": 179484,
+      "word": "国乒调整果阿站参赛人员",
+      "onboard_time": 1677407067,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 179481,
@@ -13715,14 +13763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139944,
-      "num": 139944,
-      "word": "樊振东",
-      "onboard_time": 1677407428,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139706,
       "num": 139706,
       "word": "马龙34岁还在进步",
@@ -13977,6 +14017,14 @@
       "onboard_time": 1677285685,
       "rank": 41,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 130900,
+      "num": 130900,
+      "word": "无畏的小目标是进S组",
+      "onboard_time": 1677408569,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 130657,
@@ -14507,14 +14555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108677,
-      "num": 108677,
-      "word": "国乒调整果阿站参赛人员",
-      "onboard_time": 1677407067,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108368,
       "num": 108368,
       "word": "盘点那些高开高走的剧",
@@ -14529,6 +14569,14 @@
       "onboard_time": 1676814092,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 107353,
+      "num": 107353,
+      "word": "电竞百灵鸟一诺上线",
+      "onboard_time": 1677409590,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 107252,
@@ -14553,6 +14601,14 @@
       "onboard_time": 1677295649,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 104714,
+      "num": 104714,
+      "word": "WBG对战LNG",
+      "onboard_time": 1677410069,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 104582,
@@ -14681,6 +14737,14 @@
       "onboard_time": 1677067951,
       "rank": 49,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 93533,
+      "num": 93533,
+      "word": "盘点梵音瑜伽商业版图",
+      "onboard_time": 1677408990,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 93362,
@@ -14825,6 +14889,14 @@
       "onboard_time": 1677194844,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77984,
+      "num": 77984,
+      "word": "全国超9成小城市房价不过万元",
+      "onboard_time": 1677410009,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 77106,

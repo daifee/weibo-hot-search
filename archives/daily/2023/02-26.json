@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677407750369,
+  "endTime": 1677410122850,
   "band_list": [
     {
       "raw_hot": 2293120,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1028254,
-      "num": 323970,
+      "num": 330172,
       "word": "向佐瘦了好多",
       "onboard_time": 1677404847,
       "rank": 10,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728953,
+      "num": 728953,
+      "word": "唐嫣被吓哭了",
+      "onboard_time": 1677405388,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 724737,
       "num": 724737,
       "word": "中国留学生遇害案校方赔500万美元",
@@ -329,6 +337,14 @@
       "onboard_time": 1677383251,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 633804,
+      "num": 320296,
+      "word": "解放军军机强硬拦截美军机",
+      "onboard_time": 1677407550,
+      "rank": 30,
+      "category": "军事"
     },
     {
       "raw_hot": 602529,
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 466146,
-      "num": 295524,
+      "num": 313105,
       "word": "路人镜头下的张雨绮身材",
       "onboard_time": 1677406229,
       "rank": 19,
@@ -468,19 +484,19 @@
     },
     {
       "raw_hot": 457609,
-      "num": 295175,
+      "num": 404253,
       "word": "SMTOWN艺人们看aespa演唱会",
       "onboard_time": 1677407610,
       "rank": 13,
       "category": "音乐"
     },
     {
-      "raw_hot": 446328,
-      "num": 446328,
-      "word": "唐嫣被吓哭了",
-      "onboard_time": 1677405388,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 452513,
+      "num": 452513,
+      "word": "樊振东",
+      "onboard_time": 1677407428,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 444509,
@@ -691,6 +707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 303332,
+      "num": 303332,
+      "word": "泰山站候车乘客集体呼呼大睡",
+      "onboard_time": 1677404667,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300757,
       "num": 300757,
       "word": "儿子爱打人爸爸角色互换式教育",
@@ -745,6 +769,14 @@
       "onboard_time": 1677403707,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278063,
+      "num": 278063,
+      "word": "疑似泽连斯基替身被媒体拍到",
+      "onboard_time": 1677409230,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272335,
@@ -817,14 +849,6 @@
       "onboard_time": 1677330149,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247962,
-      "num": 247962,
-      "word": "泰山站候车乘客集体呼呼大睡",
-      "onboard_time": 1677404667,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244911,
@@ -979,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212106,
+      "num": 212106,
+      "word": "武汉大学的早樱终于开了",
+      "onboard_time": 1677407910,
+      "rank": 22,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 210117,
       "num": 210117,
       "word": "JDG 虐菜队",
@@ -1011,6 +1043,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 205374,
+      "num": 205374,
+      "word": "年轻人的社恐有多真实",
+      "onboard_time": 1677409468,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205161,
       "num": 205161,
       "word": "丁程鑫扎染衬衫造型",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1677391948,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197176,
+      "num": 197176,
+      "word": "警方回应男子在自家鱼塘电鱼被处罚",
+      "onboard_time": 1677408688,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194570,
@@ -1115,12 +1163,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 179655,
-      "num": 148951,
-      "word": "解放军军机强硬拦截美军机",
-      "onboard_time": 1677407550,
-      "rank": 30,
-      "category": "军事"
+      "raw_hot": 179484,
+      "num": 179484,
+      "word": "国乒调整果阿站参赛人员",
+      "onboard_time": 1677407067,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 179338,
@@ -1395,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139944,
-      "num": 139944,
-      "word": "樊振东",
-      "onboard_time": 1677407428,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139364,
       "num": 139364,
       "word": "AG对战EDGM",
@@ -1433,6 +1473,14 @@
       "onboard_time": 1677334948,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 130900,
+      "num": 130900,
+      "word": "无畏的小目标是进S组",
+      "onboard_time": 1677408569,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 130431,
@@ -1515,12 +1563,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108677,
-      "num": 108677,
-      "word": "国乒调整果阿站参赛人员",
-      "onboard_time": 1677407067,
+      "raw_hot": 107353,
+      "num": 107353,
+      "word": "电竞百灵鸟一诺上线",
+      "onboard_time": 1677409590,
       "rank": 40,
-      "category": "体育"
+      "category": "游戏"
     },
     {
       "raw_hot": 107252,
@@ -1529,6 +1577,14 @@
       "onboard_time": 1677404188,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104714,
+      "num": 104714,
+      "word": "WBG对战LNG",
+      "onboard_time": 1677410069,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 104582,
@@ -1563,6 +1619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 93533,
+      "num": 93533,
+      "word": "盘点梵音瑜伽商业版图",
+      "onboard_time": 1677408990,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 90509,
       "num": 90509,
       "word": "梵音瑜伽首次公开回应会员表示不买账",
@@ -1593,6 +1657,14 @@
       "onboard_time": 1677401487,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 77984,
+      "num": 77984,
+      "word": "全国超9成小城市房价不过万元",
+      "onboard_time": 1677410009,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 75265,
