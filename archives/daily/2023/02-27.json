@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677453529366,
+  "endTime": 1677454421846,
   "band_list": [
     {
       "raw_hot": 1500507,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 745735,
+      "num": 312680,
+      "word": "碎尸案风波中的谭仔国际",
+      "onboard_time": 1677440712,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 679752,
       "num": 603378,
       "word": "普京说世界必须改变",
@@ -35,20 +43,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 665538,
+      "num": 665538,
+      "word": "感染甲流大部分都是轻症",
+      "onboard_time": 1677452117,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 644982,
       "num": 213441,
       "word": "刘宇说讨厌INTO1要解散了",
       "onboard_time": 1677418413,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 631426,
-      "num": 220463,
-      "word": "碎尸案风波中的谭仔国际",
-      "onboard_time": 1677440712,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 616503,
@@ -67,8 +75,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 574786,
+      "num": 574786,
+      "word": "建议监督8小时工作制执行",
+      "onboard_time": 1677453319,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509289,
-      "num": 274312,
+      "num": 284016,
       "word": "刘亚仁一年内注射异丙酚73次",
       "onboard_time": 1677405268,
       "rank": 12,
@@ -99,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399014,
+      "num": 399014,
+      "word": "妻子想卖房救重病儿子遭丈夫反对",
+      "onboard_time": 1677414569,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386216,
       "num": 386216,
       "word": "网传易烊千玺新歌发布会",
@@ -115,28 +139,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 363790,
-      "num": 215132,
-      "word": "感染甲流大部分都是轻症",
-      "onboard_time": 1677452117,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363068,
-      "num": 256622,
+      "num": 311376,
       "word": "肖战在意大利吃川菜",
       "onboard_time": 1677421413,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 361283,
-      "num": 361283,
-      "word": "妻子想卖房救重病儿子遭丈夫反对",
-      "onboard_time": 1677414569,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345703,
@@ -147,20 +155,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332303,
+      "num": 332303,
+      "word": "丫丫除毛发脱落外多项指标正常",
+      "onboard_time": 1677439693,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323721,
       "num": 196726,
       "word": "张大大说王鹤棣特别好",
       "onboard_time": 1677422194,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 306661,
-      "num": 306661,
-      "word": "丫丫除毛发脱落外多项指标正常",
-      "onboard_time": 1677439693,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304958,
@@ -171,20 +179,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293169,
+      "num": 293169,
+      "word": "特朗普称破坏北溪的不是俄罗斯",
+      "onboard_time": 1677440351,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 282101,
       "num": 192594,
       "word": "蔡徐坤的戒指好大",
       "onboard_time": 1677422555,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 262911,
-      "num": 198740,
-      "word": "特朗普称破坏北溪的不是俄罗斯",
-      "onboard_time": 1677440351,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 262287,
@@ -195,6 +203,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236349,
+      "num": 236349,
+      "word": "湖人vs独行侠",
+      "onboard_time": 1677453442,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 225058,
+      "num": 225058,
+      "word": "钝评我是小妖怪",
+      "onboard_time": 1677434834,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216931,
       "num": 216931,
       "word": "朴智旻崔秀彬崔杋圭舞蹈挑战",
@@ -203,12 +227,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 215199,
+      "num": 215199,
+      "word": "程序员20年喝近2吨可乐屡患结石",
+      "onboard_time": 1677453921,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209736,
       "num": 209736,
       "word": "解放军军机强硬拦截美军机",
       "onboard_time": 1677407550,
       "rank": 15,
       "category": "军事"
+    },
+    {
+      "raw_hot": 208483,
+      "num": 208483,
+      "word": "宋祖儿刘宇宁折腰互动路透",
+      "onboard_time": 1677452779,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 198495,
@@ -227,12 +267,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 194648,
-      "num": 194648,
-      "word": "宋祖儿刘宇宁折腰互动路透",
-      "onboard_time": 1677452779,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 194120,
+      "num": 194120,
+      "word": "马赛0比3巴黎圣日耳曼",
+      "onboard_time": 1677453502,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 193617,
@@ -251,12 +291,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181183,
-      "num": 181183,
-      "word": "钝评我是小妖怪",
-      "onboard_time": 1677434834,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 167372,
+      "num": 167372,
+      "word": "梅西俱乐部700球",
+      "onboard_time": 1677453442,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163312,
+      "num": 163312,
+      "word": "泽连斯基展示过去一年住所房间",
+      "onboard_time": 1677443232,
+      "rank": 47,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 162717,
@@ -299,20 +347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147188,
+      "num": 147188,
+      "word": "虞书欣菱格毛衣上班路透",
+      "onboard_time": 1677432557,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141552,
       "num": 141552,
       "word": "上海地铁内一男子涂鸦致列车停运",
       "onboard_time": 1677403109,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141105,
-      "num": 141105,
-      "word": "虞书欣菱格毛衣上班路透",
-      "onboard_time": 1677432557,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 138096,
@@ -323,28 +371,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 136585,
+      "num": 136585,
+      "word": "男子吃完饭发现车被新装护栏挡住",
+      "onboard_time": 1677442031,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134540,
       "num": 134540,
       "word": "路人镜头下的张雨绮身材",
       "onboard_time": 1677406229,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132149,
-      "num": 132149,
-      "word": "泽连斯基展示过去一年住所房间",
-      "onboard_time": 1677443232,
-      "rank": 47,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 128982,
-      "num": 128982,
-      "word": "男子吃完饭发现车被新装护栏挡住",
-      "onboard_time": 1677442031,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124931,
@@ -363,8 +403,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117088,
-      "num": 117088,
+      "raw_hot": 119784,
+      "num": 119784,
       "word": "甲流就是流感吗",
       "onboard_time": 1677452660,
       "rank": 23,
@@ -451,6 +491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95252,
+      "num": 95252,
+      "word": "被一只小狗碰瓷了",
+      "onboard_time": 1677442451,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91523,
       "num": 91523,
       "word": "谢可寅南京livehouse舞台",
@@ -499,36 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80917,
-      "num": 80917,
-      "word": "被一只小狗碰瓷了",
-      "onboard_time": 1677442451,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 79760,
       "num": 79760,
       "word": "宁至谦阮流筝接吻被撞到",
       "onboard_time": 1677429383,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 79007,
-      "num": 79007,
-      "word": "马赛0比3巴黎圣日耳曼",
-      "onboard_time": 1677453502,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 75653,
-      "num": 75653,
-      "word": "建议监督8小时工作制执行",
-      "onboard_time": 1677453319,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75550,
@@ -555,28 +579,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 67278,
-      "num": 67278,
-      "word": "梅西俱乐部700球",
-      "onboard_time": 1677453442,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 65140,
       "num": 65140,
       "word": "最晚被解密的两弹一星元勋",
       "onboard_time": 1677419853,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59120,
-      "num": 59120,
-      "word": "湖人vs独行侠",
-      "onboard_time": 1677453442,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 55498,
@@ -587,7 +595,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44638,
+      "raw_hot": 54091,
       "num": 573233,
       "word": "无人机看五彩春耕画卷",
       "onboard_time": 1677421713,
