@@ -1,10 +1,10 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677417830249,
+  "endTime": 1677418509337,
   "band_list": [
     {
-      "raw_hot": 2618388,
-      "num": 2618388,
+      "raw_hot": 2640231,
+      "num": 2640231,
       "word": "辣目被打伤",
       "onboard_time": 1677415229,
       "rank": 0,
@@ -17,6 +17,14 @@
       "onboard_time": 1677375990,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1998228,
+      "num": 1998228,
+      "word": "诛仙 六公主",
+      "onboard_time": 1677416614,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1866142,
@@ -41,14 +49,6 @@
       "onboard_time": 1677399566,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1669467,
-      "num": 1669467,
-      "word": "诛仙 六公主",
-      "onboard_time": 1677416614,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1634495,
@@ -91,8 +91,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1207422,
-      "num": 1207422,
+      "raw_hot": 1265133,
+      "num": 1265133,
       "word": "妻子想卖房救重病儿子遭丈夫反对",
       "onboard_time": 1677414569,
       "rank": 32,
@@ -387,6 +387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 660597,
+      "num": 660597,
+      "word": "刘宇说讨厌INTO1要解散了",
+      "onboard_time": 1677418413,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 645811,
       "num": 645811,
       "word": "在张大大直播间笑死",
@@ -603,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441678,
+      "num": 441678,
+      "word": "张新成录音室工作照",
+      "onboard_time": 1677415229,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441444,
       "num": 263617,
       "word": "7旬大爷头婚摆11桌迎娶6旬新娘",
@@ -649,14 +665,6 @@
       "onboard_time": 1677322709,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423281,
-      "num": 423281,
-      "word": "张新成录音室工作照",
-      "onboard_time": 1677415229,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 420187,
@@ -851,19 +859,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 305579,
+      "num": 305579,
+      "word": "乌克兰回应泽连斯基替身",
+      "onboard_time": 1677414329,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303332,
       "num": 303332,
       "word": "泰山站候车乘客集体呼呼大睡",
       "onboard_time": 1677404667,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302752,
-      "num": 302752,
-      "word": "乌克兰回应泽连斯基替身",
-      "onboard_time": 1677414329,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1091,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232366,
+      "num": 218009,
+      "word": "ITZY中文版TrustMe",
+      "onboard_time": 1677418474,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231230,
       "num": 231230,
       "word": "原来这就是买零食路上的统一动作",
@@ -1131,20 +1147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221410,
+      "num": 221410,
+      "word": "A股第一代庄家吕梁去世",
+      "onboard_time": 1677413488,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 219626,
       "num": 219626,
       "word": "杨占家去世",
       "onboard_time": 1677372267,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219383,
-      "num": 219383,
-      "word": "A股第一代庄家吕梁去世",
-      "onboard_time": 1677413488,
-      "rank": 23,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 218327,
@@ -1201,6 +1217,14 @@
       "onboard_time": 1677407910,
       "rank": 22,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 211583,
+      "num": 211583,
+      "word": "朱一龙晒印尼随拍",
+      "onboard_time": 1677417934,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 210117,
@@ -1260,15 +1284,15 @@
     },
     {
       "raw_hot": 201639,
-      "num": 201639,
+      "num": 213810,
       "word": "WBG",
       "onboard_time": 1677415108,
       "rank": 25,
       "category": "游戏"
     },
     {
-      "raw_hot": 197665,
-      "num": 195954,
+      "raw_hot": 199814,
+      "num": 199814,
       "word": "黄奕鼓励看夏花的单亲妈妈追求爱情",
       "onboard_time": 1677414629,
       "rank": 25,
@@ -1835,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98808,
+      "num": 98808,
+      "word": "和困意疯狂斗争的狗狗",
+      "onboard_time": 1677417694,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98455,
       "num": 98455,
       "word": "凯尔特人vs76人",
@@ -1851,6 +1883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 95868,
+      "num": 95868,
+      "word": "如果郦道元看到三峡工程",
+      "onboard_time": 1677417993,
+      "rank": 49,
+      "category": "综艺,社会新闻"
+    },
+    {
       "raw_hot": 93533,
       "num": 93533,
       "word": "盘点梵音瑜伽商业版图",
@@ -1865,14 +1905,6 @@
       "onboard_time": 1677406589,
       "rank": 49,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 90450,
-      "num": 90450,
-      "word": "和困意疯狂斗争的狗狗",
-      "onboard_time": 1677417694,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 83729,

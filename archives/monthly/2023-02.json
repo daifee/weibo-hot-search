@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677417830249,
+  "endTime": 1677418509337,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -979,8 +979,8 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 2618388,
-      "num": 2618388,
+      "raw_hot": 2640231,
+      "num": 2640231,
       "word": "辣目被打伤",
       "onboard_time": 1677415229,
       "rank": 0,
@@ -2057,6 +2057,14 @@
       "onboard_time": 1676548890,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1998228,
+      "num": 1998228,
+      "word": "诛仙 六公主",
+      "onboard_time": 1677416614,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1997326,
@@ -3225,14 +3233,6 @@
       "onboard_time": 1675408288,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1669467,
-      "num": 1669467,
-      "word": "诛仙 六公主",
-      "onboard_time": 1677416614,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1668803,
@@ -5179,6 +5179,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 1265133,
+      "num": 1265133,
+      "word": "妻子想卖房救重病儿子遭丈夫反对",
+      "onboard_time": 1677414569,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1264938,
       "num": 1264938,
       "word": "美国前总统卡特将开始接受临终关怀",
@@ -5689,14 +5697,6 @@
       "onboard_time": 1675392689,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1207422,
-      "num": 1207422,
-      "word": "妻子想卖房救重病儿子遭丈夫反对",
-      "onboard_time": 1677414569,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1206222,
@@ -14947,6 +14947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 660597,
+      "num": 660597,
+      "word": "刘宇说讨厌INTO1要解散了",
+      "onboard_time": 1677418413,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 660246,
       "num": 660246,
       "word": "王一博扮奥特曼跳breaking",
@@ -23611,6 +23619,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 441678,
+      "num": 441678,
+      "word": "张新成录音室工作照",
+      "onboard_time": 1677415229,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441572,
       "num": 441572,
       "word": "张颂文 不止不休",
@@ -24753,14 +24769,6 @@
       "onboard_time": 1675218452,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 423281,
-      "num": 423281,
-      "word": "张新成录音室工作照",
-      "onboard_time": 1677415229,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 423248,
@@ -33163,6 +33171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305579,
+      "num": 305579,
+      "word": "乌克兰回应泽连斯基替身",
+      "onboard_time": 1677414329,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305571,
       "num": 305571,
       "word": "Nuguri说TheShy是最强上单",
@@ -33409,14 +33425,6 @@
       "onboard_time": 1675515932,
       "rank": 46,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 302752,
-      "num": 302752,
-      "word": "乌克兰回应泽连斯基替身",
-      "onboard_time": 1677414329,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302686,
@@ -40691,6 +40699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232366,
+      "num": 218009,
+      "word": "ITZY中文版TrustMe",
+      "onboard_time": 1677418474,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232241,
       "num": 232241,
       "word": "申论答案",
@@ -42019,6 +42035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221410,
+      "num": 221410,
+      "word": "A股第一代庄家吕梁去世",
+      "onboard_time": 1677413488,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 221329,
       "num": 221329,
       "word": "新海诚铃芽之旅官宣定档",
@@ -42233,14 +42257,6 @@
       "onboard_time": 1676722592,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 219383,
-      "num": 219383,
-      "word": "A股第一代庄家吕梁去世",
-      "onboard_time": 1677413488,
-      "rank": 23,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 219288,
@@ -43113,6 +43129,14 @@
       "onboard_time": 1675822165,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211583,
+      "num": 211583,
+      "word": "朱一龙晒印尼随拍",
+      "onboard_time": 1677417934,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 211563,
@@ -44372,7 +44396,7 @@
     },
     {
       "raw_hot": 201639,
-      "num": 201639,
+      "num": 213810,
       "word": "WBG",
       "onboard_time": 1677415108,
       "rank": 25,
@@ -44683,6 +44707,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 199814,
+      "num": 199814,
+      "word": "黄奕鼓励看夏花的单亲妈妈追求爱情",
+      "onboard_time": 1677414629,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199739,
       "num": 199739,
       "word": "高叶分享陈书婷的妆教vlog",
@@ -44977,14 +45009,6 @@
       "onboard_time": 1675758090,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197665,
-      "num": 195954,
-      "word": "黄奕鼓励看夏花的单亲妈妈追求爱情",
-      "onboard_time": 1677414629,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 197639,
@@ -56259,6 +56283,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 98808,
+      "num": 98808,
+      "word": "和困意疯狂斗争的狗狗",
+      "onboard_time": 1677417694,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98788,
       "num": 98788,
       "word": "小佩顿回归勇士",
@@ -56393,6 +56425,14 @@
       "onboard_time": 1675161102,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95868,
+      "num": 95868,
+      "word": "如果郦道元看到三峡工程",
+      "onboard_time": 1677417993,
+      "rank": 49,
+      "category": "综艺,社会新闻"
     },
     {
       "raw_hot": 95689,
@@ -56561,14 +56601,6 @@
       "onboard_time": 1676224996,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90450,
-      "num": 90450,
-      "word": "和困意疯狂斗争的狗狗",
-      "onboard_time": 1677417694,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 90250,
