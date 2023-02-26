@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677393508511,
+  "endTime": 1677395821293,
   "band_list": [
     {
       "raw_hot": 2293120,
@@ -27,6 +27,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1595335,
+      "num": 1595335,
+      "word": "编剧曝演员因文化不够错改台词",
+      "onboard_time": 1677393327,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1520290,
       "num": 1520290,
       "word": "佘诗曼 韩雪",
@@ -41,6 +49,14 @@
       "onboard_time": 1677382528,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1182510,
+      "num": 1182510,
+      "word": "早年的婚纱照能有多离谱",
+      "onboard_time": 1677381689,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1134395,
@@ -97,14 +113,6 @@
       "onboard_time": 1677325828,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 921567,
-      "num": 921567,
-      "word": "早年的婚纱照能有多离谱",
-      "onboard_time": 1677381689,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 905544,
@@ -291,6 +299,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 512588,
+      "num": 512588,
+      "word": "用光给女友做了一条项链",
+      "onboard_time": 1677392727,
+      "rank": 30,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 506715,
       "num": 506715,
       "word": "9岁女演员成为柏林电影节最佳主角",
@@ -313,6 +329,14 @@
       "onboard_time": 1677338072,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494653,
+      "num": 494653,
+      "word": "银行向家属索赔被要求证明亲属关系",
+      "onboard_time": 1677393625,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489061,
@@ -363,19 +387,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420187,
+      "num": 420187,
+      "word": "中国男篮战胜伊朗男篮",
+      "onboard_time": 1677392426,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419329,
       "num": 419329,
       "word": "杨紫范丞丞片场抓代拍",
       "onboard_time": 1677387991,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 416222,
-      "num": 406584,
-      "word": "编剧曝演员因文化不够错改台词",
-      "onboard_time": 1677393327,
-      "rank": 10,
       "category": "影视"
     },
     {
@@ -451,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 340430,
+      "num": 340430,
+      "word": "星落凝成糖海外评价",
+      "onboard_time": 1677394888,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330856,
       "num": 330856,
       "word": "为何寺庙旅游在90后00后中爆火",
@@ -513,6 +545,14 @@
       "onboard_time": 1677384266,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271866,
+      "num": 271866,
+      "word": "捡2万现金报警被开除保洁员发声",
+      "onboard_time": 1677394944,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266584,
@@ -667,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216566,
-      "num": 216566,
-      "word": "中国男篮战胜伊朗男篮",
-      "onboard_time": 1677392426,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215563,
       "num": 215231,
       "word": "女老板给去世员工遗孀发3年工资",
@@ -705,14 +737,6 @@
       "onboard_time": 1677334049,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 208650,
-      "num": 180533,
-      "word": "用光给女友做了一条项链",
-      "onboard_time": 1677392727,
-      "rank": 30,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 207843,
@@ -755,6 +779,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200599,
+      "num": 200599,
+      "word": "张大大早期生图",
+      "onboard_time": 1677395426,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194570,
+      "num": 194570,
+      "word": "赞达亚古董长裙红毯造型",
+      "onboard_time": 1677393388,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 193027,
       "num": 193027,
       "word": "女子与前夫摆拍家暴完整监控曝光",
@@ -793,6 +833,14 @@
       "onboard_time": 1677334591,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180438,
+      "num": 180438,
+      "word": "苗苗成都vlog",
+      "onboard_time": 1677394588,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 179779,
@@ -873,6 +921,14 @@
       "onboard_time": 1677375867,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167739,
+      "num": 167739,
+      "word": "社牛女生如何在读书馆搭讪",
+      "onboard_time": 1677395307,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 166282,
@@ -987,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147719,
+      "num": 147719,
+      "word": "Hero对战XYG",
+      "onboard_time": 1677394106,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146830,
       "num": 146830,
       "word": "男篮世预赛",
@@ -1067,14 +1131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 128072,
-      "num": 128072,
-      "word": "赞达亚古董长裙红毯造型",
-      "onboard_time": 1677393388,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 127165,
       "num": 127165,
       "word": "竹子究竟是草还是树",
@@ -1097,6 +1153,30 @@
       "onboard_time": 1677347597,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117167,
+      "num": 117167,
+      "word": "赵继伟晃倒对手三分",
+      "onboard_time": 1677393928,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116165,
+      "num": 116165,
+      "word": "小伙吐槽尼泊尔摩天轮连门都没有",
+      "onboard_time": 1677395307,
+      "rank": 40,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 114207,
+      "num": 114207,
+      "word": "杨超越无实物表演花絮",
+      "onboard_time": 1677395066,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 111315,
