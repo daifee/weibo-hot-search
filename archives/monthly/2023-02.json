@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677418509337,
+  "endTime": 1677420994302,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -4073,6 +4073,14 @@
       "onboard_time": 1676110406,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1459697,
+      "num": 1459697,
+      "word": "刘宇说讨厌INTO1要解散了",
+      "onboard_time": 1677418413,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1458870,
@@ -14945,14 +14953,6 @@
       "onboard_time": 1675385906,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 660597,
-      "num": 660597,
-      "word": "刘宇说讨厌INTO1要解散了",
-      "onboard_time": 1677418413,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 660246,
@@ -34883,6 +34883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287633,
+      "num": 239029,
+      "word": "谢可寅南京livehouse舞台",
+      "onboard_time": 1677420573,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 287528,
       "num": 287528,
       "word": "EDG战胜UP",
@@ -40603,6 +40611,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 233129,
+      "num": 218009,
+      "word": "ITZY中文版TrustMe",
+      "onboard_time": 1677418474,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 233097,
       "num": 233097,
       "word": "JDG战胜iG",
@@ -40667,6 +40683,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 232707,
+      "num": 211583,
+      "word": "朱一龙晒印尼随拍",
+      "onboard_time": 1677417934,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232693,
       "num": 232693,
       "word": "女子收近16万彩礼后失联",
@@ -40697,14 +40721,6 @@
       "onboard_time": 1675509451,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232366,
-      "num": 218009,
-      "word": "ITZY中文版TrustMe",
-      "onboard_time": 1677418474,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 232241,
@@ -43129,14 +43145,6 @@
       "onboard_time": 1675822165,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211583,
-      "num": 211583,
-      "word": "朱一龙晒印尼随拍",
-      "onboard_time": 1677417934,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 211563,
@@ -48883,6 +48891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175043,
+      "num": 175043,
+      "word": "九尾的海月",
+      "onboard_time": 1677419253,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175009,
       "num": 175009,
       "word": "重紫单人剧照",
@@ -50041,6 +50057,14 @@
       "onboard_time": 1677034711,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168651,
+      "num": 168651,
+      "word": "有才的人甚至连笔都不用",
+      "onboard_time": 1677420392,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 168608,
@@ -52451,6 +52475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151068,
+      "num": 151068,
+      "word": "最晚被解密的两弹一星元勋",
+      "onboard_time": 1677419853,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150904,
       "num": 150904,
       "word": "王毅就飞艇事件向美方表明立场",
@@ -53379,6 +53411,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 141827,
+      "num": 141827,
+      "word": "云南的鸟儿是懂色彩美学的",
+      "onboard_time": 1677418951,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 141600,
       "num": 141600,
       "word": "重紫第二世结局是be吗",
@@ -53569,6 +53609,14 @@
       "onboard_time": 1677063212,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139967,
+      "num": 139967,
+      "word": "WBG满编吃鸡",
+      "onboard_time": 1677419734,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 139787,
@@ -55523,6 +55571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117707,
+      "num": 117707,
+      "word": "原来记述三峡的郦道元没去过三峡",
+      "onboard_time": 1677418654,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117700,
       "num": 117700,
       "word": "梁洁落日氛围感随拍",
@@ -56643,6 +56699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88373,
+      "num": 1397094,
+      "word": "雷锋精神永不过时",
+      "onboard_time": 1677412526,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88126,
       "num": 88126,
       "word": "莱比锡vs曼城",
@@ -56785,14 +56849,6 @@
       "onboard_time": 1676226795,
       "rank": 10,
       "category": "幽默,旅游"
-    },
-    {
-      "raw_hot": 83729,
-      "num": 1397094,
-      "word": "雷锋精神永不过时",
-      "onboard_time": 1677412526,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83722,

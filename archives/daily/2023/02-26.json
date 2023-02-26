@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677418509337,
+  "endTime": 1677420994302,
   "band_list": [
     {
       "raw_hot": 2640231,
@@ -80,6 +80,14 @@
       "word": "佘诗曼 韩雪",
       "onboard_time": 1677371126,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1459697,
+      "num": 1459697,
+      "word": "刘宇说讨厌INTO1要解散了",
+      "onboard_time": 1677418413,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -385,14 +393,6 @@
       "onboard_time": 1677374547,
       "rank": 4,
       "category": "网红"
-    },
-    {
-      "raw_hot": 660597,
-      "num": 660597,
-      "word": "刘宇说讨厌INTO1要解散了",
-      "onboard_time": 1677418413,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 645811,
@@ -915,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287633,
+      "num": 239029,
+      "word": "谢可寅南京livehouse舞台",
+      "onboard_time": 1677420573,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 287423,
       "num": 287423,
       "word": "DYG",
@@ -1099,12 +1107,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232366,
+      "raw_hot": 233129,
       "num": 218009,
       "word": "ITZY中文版TrustMe",
       "onboard_time": 1677418474,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232707,
+      "num": 211583,
+      "word": "朱一龙晒印尼随拍",
+      "onboard_time": 1677417934,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 231230,
@@ -1217,14 +1233,6 @@
       "onboard_time": 1677407910,
       "rank": 22,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 211583,
-      "num": 211583,
-      "word": "朱一龙晒印尼随拍",
-      "onboard_time": 1677417934,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 210117,
@@ -1435,6 +1443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175043,
+      "num": 175043,
+      "word": "九尾的海月",
+      "onboard_time": 1677419253,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173273,
       "num": 173273,
       "word": "任达华现场观战中国男篮",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1677375867,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168651,
+      "num": 168651,
+      "word": "有才的人甚至连笔都不用",
+      "onboard_time": 1677420392,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 168174,
@@ -1595,6 +1619,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 151068,
+      "num": 151068,
+      "word": "最晚被解密的两弹一星元勋",
+      "onboard_time": 1677419853,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150737,
       "num": 150737,
       "word": "唐九洲吐槽乐华档期太满",
@@ -1673,6 +1705,22 @@
       "onboard_time": 1677387028,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141827,
+      "num": 141827,
+      "word": "云南的鸟儿是懂色彩美学的",
+      "onboard_time": 1677418951,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 139967,
+      "num": 139967,
+      "word": "WBG满编吃鸡",
+      "onboard_time": 1677419734,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 139364,
@@ -1785,6 +1833,14 @@
       "onboard_time": 1677407369,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 117707,
+      "num": 117707,
+      "word": "原来记述三峡的郦道元没去过三峡",
+      "onboard_time": 1677418654,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 117167,
@@ -1907,7 +1963,7 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 83729,
+      "raw_hot": 88373,
       "num": 1397094,
       "word": "雷锋精神永不过时",
       "onboard_time": 1677412526,
