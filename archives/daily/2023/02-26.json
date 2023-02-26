@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677385394416,
+  "endTime": 1677386317473,
   "band_list": [
     {
       "raw_hot": 2293120,
@@ -27,20 +27,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1313561,
+      "num": 1313561,
+      "word": "到底是考公难还是考研难",
+      "onboard_time": 1677382528,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1134395,
       "num": 824685,
       "word": "优衣库高管卷走800余件服装7.5折卖",
       "onboard_time": 1677370585,
       "rank": 10,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1014943,
-      "num": 1014943,
-      "word": "到底是考公难还是考研难",
-      "onboard_time": 1677382528,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 959738,
@@ -180,11 +180,19 @@
     },
     {
       "raw_hot": 634204,
-      "num": 453429,
+      "num": 457342,
       "word": "权顺荣 签售",
       "onboard_time": 1677383251,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 616351,
+      "num": 616351,
+      "word": "早年的婚纱照能有多离谱",
+      "onboard_time": 1677381689,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 602529,
@@ -235,12 +243,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 502401,
-      "num": 502401,
-      "word": "早年的婚纱照能有多离谱",
-      "onboard_time": 1677381689,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 504483,
+      "num": 504483,
+      "word": "老人疑因男生公交上未让座将其骂哭",
+      "onboard_time": 1677384146,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496525,
@@ -267,12 +275,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441787,
+      "num": 441787,
+      "word": "大爷怒斥夜市悬挂日式雨伞",
+      "onboard_time": 1677383367,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441444,
       "num": 263617,
       "word": "7旬大爷头婚摆11桌迎娶6旬新娘",
       "onboard_time": 1677379769,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437405,
+      "num": 437405,
+      "word": "王楚然出发巴黎时装周",
+      "onboard_time": 1677385107,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 435817,
+      "num": 435817,
+      "word": "如何看待子女冠姓权给女方",
+      "onboard_time": 1677384508,
+      "rank": 20,
+      "category": "情感,社会议题"
     },
     {
       "raw_hot": 424287,
@@ -288,14 +320,6 @@
       "word": "博主三亚买3888元海鲜被提醒多花1700",
       "onboard_time": 1677322709,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405128,
-      "num": 405128,
-      "word": "大爷怒斥夜市悬挂日式雨伞",
-      "onboard_time": 1677383367,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -387,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285286,
-      "num": 285286,
-      "word": "王楚然出发巴黎时装周",
-      "onboard_time": 1677385107,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 284562,
       "num": 284562,
       "word": "INTO1海外活动官宣",
@@ -403,12 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275173,
-      "num": 275173,
-      "word": "老人疑因男生公交上未让座将其骂哭",
-      "onboard_time": 1677384146,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 272335,
+      "num": 272335,
+      "word": "郑业成耳朵红了",
+      "onboard_time": 1677384266,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 266584,
@@ -427,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257648,
+      "num": 257648,
+      "word": "刘德华说想和黄子华拍喜剧",
+      "onboard_time": 1677383608,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252200,
       "num": 252200,
       "word": "无所谓国家队会出手",
@@ -443,22 +467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242576,
-      "num": 242576,
-      "word": "刘德华说想和黄子华拍喜剧",
-      "onboard_time": 1677383608,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 242391,
-      "num": 242391,
-      "word": "如何看待子女冠姓权给女方",
-      "onboard_time": 1677384508,
-      "rank": 20,
-      "category": "情感,社会议题"
-    },
-    {
       "raw_hot": 241888,
       "num": 241888,
       "word": "高清镜头下的倪妮",
@@ -473,14 +481,6 @@
       "onboard_time": 1677327510,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 236345,
-      "num": 236345,
-      "word": "郑业成耳朵红了",
-      "onboard_time": 1677384266,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 235388,
@@ -835,6 +835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134750,
+      "num": 134750,
+      "word": "乐乐丫丫早期旅美的视频",
+      "onboard_time": 1677386190,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132706,
       "num": 132706,
       "word": "李小冉红毯状态",
@@ -865,6 +873,14 @@
       "onboard_time": 1677325170,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128928,
+      "num": 128928,
+      "word": "中国男篮vs伊朗男篮",
+      "onboard_time": 1677386190,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 125578,
@@ -915,12 +931,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98455,
+      "num": 98455,
+      "word": "凯尔特人vs76人",
+      "onboard_time": 1677385405,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96957,
       "num": 105626,
       "word": "沈梦瑶表现力",
       "onboard_time": 1677335791,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 83354,
+      "num": 83354,
+      "word": "古代火折子原来是这样做出来的",
+      "onboard_time": 1677386007,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79934,
@@ -985,6 +1017,14 @@
       "onboard_time": 1677326307,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 57344,
+      "num": 944394,
+      "word": "春季传染病防治热点问题解答",
+      "onboard_time": 1677385525,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55698,
@@ -1079,6 +1119,9 @@
     },
     {
       "word": "#数字碳中和#"
+    },
+    {
+      "word": "#总书记的人民情怀#"
     }
   ]
 }
