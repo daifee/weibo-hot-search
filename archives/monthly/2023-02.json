@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677439989105,
+  "endTime": 1677442767515,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -56339,6 +56339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105374,
+      "num": 41166,
+      "word": "碎尸案风波中的谭仔国际",
+      "onboard_time": 1677440712,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 105339,
       "num": 105339,
       "word": "立体糖画",
@@ -57041,6 +57049,14 @@
       "onboard_time": 1675546513,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 86427,
+      "num": 86427,
+      "word": "丫丫除毛发脱落外多项指标正常",
+      "onboard_time": 1677439693,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86068,
@@ -57883,6 +57899,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 49596,
+      "num": 19102,
+      "word": "特朗普称破坏北溪的不是俄罗斯",
+      "onboard_time": 1677440351,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 49126,
       "num": 49126,
       "word": "原来高叶也这么有梗",
@@ -58467,14 +58491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 18856,
-      "num": 18856,
-      "word": "丫丫除毛发脱落外多项指标正常",
-      "onboard_time": 1677439693,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18647,
       "num": 18647,
       "word": "向涵之滑雪plog",
@@ -58505,6 +58521,22 @@
       "onboard_time": 1676922911,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 13935,
+      "num": 13935,
+      "word": "男子吃完饭发现车被新装护栏挡住",
+      "onboard_time": 1677442031,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11546,
+      "num": 11546,
+      "word": "被一只小狗碰瓷了",
+      "onboard_time": 1677442451,
+      "rank": 47,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
