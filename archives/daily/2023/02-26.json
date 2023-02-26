@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677424714235,
+  "endTime": 1677425622648,
   "band_list": [
     {
       "raw_hot": 2640231,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1075314,
+      "num": 502771,
+      "word": "周杰说张颂文火了我特别高兴",
+      "onboard_time": 1677424771,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1028254,
       "num": 430742,
       "word": "向佐瘦了好多",
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 781812,
+      "num": 781812,
+      "word": "切尔西",
+      "onboard_time": 1677423212,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 763763,
       "num": 533158,
       "word": "沈月谈上一次分手的原因",
@@ -409,14 +425,6 @@
       "onboard_time": 1677396207,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 674774,
-      "num": 674774,
-      "word": "切尔西",
-      "onboard_time": 1677423212,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 669901,
@@ -1027,6 +1035,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 269192,
+      "num": 264664,
+      "word": "张九龄王九龙怕是回不去德云社了",
+      "onboard_time": 1677424529,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267454,
       "num": 234744,
       "word": "拍照的人",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1677383608,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253552,
+      "num": 180595,
+      "word": "朴智旻崔秀彬崔杋圭舞蹈挑战",
+      "onboard_time": 1677425493,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252200,
@@ -1113,6 +1137,14 @@
       "onboard_time": 1677394106,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 244034,
+      "num": 172436,
+      "word": "王鸥演的不忍直视",
+      "onboard_time": 1677425552,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 241888,
@@ -1435,14 +1467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186581,
-      "num": 186581,
-      "word": "张九龄王九龙怕是回不去德云社了",
-      "onboard_time": 1677424529,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185613,
       "num": 185613,
       "word": "中国制造日",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1677419253,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173559,
+      "num": 173559,
+      "word": "小朋友的绘本也太好玩了",
+      "onboard_time": 1677424713,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 173273,
@@ -1952,6 +1984,14 @@
       "word": "赵继伟晃倒对手三分",
       "onboard_time": 1677393928,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114705,
+      "num": 114705,
+      "word": "又看到刘诗雯打球了",
+      "onboard_time": 1677425192,
+      "rank": 45,
       "category": "体育"
     },
     {
