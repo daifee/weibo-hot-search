@@ -1,7 +1,15 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677377559670,
+  "endTime": 1677380337958,
   "band_list": [
+    {
+      "raw_hot": 2293120,
+      "num": 2293120,
+      "word": "乐乐死因初步确定为心脏病变",
+      "onboard_time": 1677375990,
+      "rank": 30,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1634495,
       "num": 1634495,
@@ -19,20 +27,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1353858,
-      "num": 1353858,
-      "word": "乐乐死因初步确定为心脏病变",
-      "onboard_time": 1677375990,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1134395,
-      "num": 506423,
+      "num": 824685,
       "word": "优衣库高管卷走800余件服装7.5折卖",
       "onboard_time": 1677370585,
       "rank": 10,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 952771,
+      "num": 952771,
+      "word": "王宝强叫高叶大嫂",
+      "onboard_time": 1677376409,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 924122,
@@ -59,12 +67,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 811331,
-      "num": 811331,
-      "word": "王宝强叫高叶大嫂",
-      "onboard_time": 1677376409,
-      "rank": 4,
-      "category": "作品衍生,时尚"
+      "raw_hot": 897672,
+      "num": 897672,
+      "word": "老默唐小虎 我们的客栈",
+      "onboard_time": 1677376950,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 763763,
@@ -80,6 +88,14 @@
       "word": "老人捐出珍藏半世纪的8600多枚火花",
       "onboard_time": 1677374966,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 724416,
+      "num": 724416,
+      "word": "中方对丫丫饲养护理向美方提出要求",
+      "onboard_time": 1677377427,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -99,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 670157,
-      "num": 670157,
-      "word": "老默唐小虎 我们的客栈",
-      "onboard_time": 1677376950,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 669710,
       "num": 669710,
       "word": "贡米",
@@ -121,6 +129,14 @@
       "onboard_time": 1677336509,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 619729,
+      "num": 619729,
+      "word": "还记得那个承诺包1年家务的丈夫吗",
+      "onboard_time": 1677377369,
+      "rank": 42,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 602529,
@@ -145,6 +161,14 @@
       "onboard_time": 1677373288,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 518776,
+      "num": 518776,
+      "word": "高铁站殴打女童女子系亲生母亲",
+      "onboard_time": 1677377847,
+      "rank": 9,
+      "category": "社会负面"
     },
     {
       "raw_hot": 506715,
@@ -243,6 +267,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 330856,
+      "num": 330856,
+      "word": "为何寺庙旅游在90后00后中爆火",
+      "onboard_time": 1677376347,
+      "rank": 23,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 315177,
       "num": 315177,
       "word": "唐僧吃了都不算破戒",
@@ -315,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225769,
+      "num": 195263,
+      "word": "女子委托储存胎盘5年后干细胞丢失",
+      "onboard_time": 1677379528,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224689,
       "num": 224689,
       "word": "你好星期六下期预告",
@@ -337,6 +377,14 @@
       "onboard_time": 1677328588,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217668,
+      "num": 217668,
+      "word": "高清镜头下的倪妮",
+      "onboard_time": 1677376468,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215563,
@@ -363,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214925,
-      "num": 214925,
-      "word": "为何寺庙旅游在90后00后中爆火",
-      "onboard_time": 1677376347,
-      "rank": 23,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 210117,
       "num": 210117,
       "word": "JDG 虐菜队",
@@ -387,20 +427,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206701,
+      "num": 206701,
+      "word": "山村小学一年级只有一个学生",
+      "onboard_time": 1677377189,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 197361,
+      "num": 197361,
+      "word": "薛凯琪周柯宇 春娇与志明",
+      "onboard_time": 1677377489,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193027,
       "num": 193027,
       "word": "女子与前夫摆拍家暴完整监控曝光",
       "onboard_time": 1677323427,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190155,
-      "num": 168657,
-      "word": "山村小学一年级只有一个学生",
-      "onboard_time": 1677377189,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 185137,
@@ -499,20 +547,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 166171,
+      "num": 166171,
+      "word": "7旬大爷头婚摆11桌迎娶6旬新娘",
+      "onboard_time": 1677379769,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162118,
       "num": 162118,
       "word": "毕雯珺演技",
       "onboard_time": 1677333868,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 161823,
-      "num": 161823,
-      "word": "高清镜头下的倪妮",
-      "onboard_time": 1677376468,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 159188,
@@ -659,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115021,
-      "num": 115021,
-      "word": "还记得那个承诺包1年家务的丈夫吗",
-      "onboard_time": 1677377369,
-      "rank": 42,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 111315,
       "num": 111315,
       "word": "行测答案",
@@ -675,11 +715,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 110117,
-      "num": 110117,
-      "word": "中方对丫丫饲养护理向美方提出要求",
-      "onboard_time": 1677377427,
-      "rank": 45,
+      "raw_hot": 109509,
+      "num": 109509,
+      "word": "无所谓国家队会出手",
+      "onboard_time": 1677380068,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -691,20 +731,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 102370,
-      "num": 102370,
-      "word": "薛凯琪周柯宇 春娇与志明",
-      "onboard_time": 1677377489,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101367,
       "num": 101367,
       "word": "佘诗曼夸周柯宇",
       "onboard_time": 1677341725,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97364,
+      "num": 97364,
+      "word": "中国留学生遇害案校方赔500万美元",
+      "onboard_time": 1677380249,
+      "rank": 42,
+      "category": "社会负面"
     },
     {
       "raw_hot": 96957,
