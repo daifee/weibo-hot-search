@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677410122850,
+  "endTime": 1677411225406,
   "band_list": [
     {
       "raw_hot": 2293120,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1028254,
-      "num": 330172,
+      "num": 384438,
       "word": "向佐瘦了好多",
       "onboard_time": 1677404847,
       "rank": 10,
@@ -217,6 +217,14 @@
       "onboard_time": 1677342146,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 755175,
+      "num": 755175,
+      "word": "解放军军机强硬拦截美军机",
+      "onboard_time": 1677407550,
+      "rank": 30,
+      "category": "军事"
     },
     {
       "raw_hot": 738981,
@@ -339,12 +347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 633804,
-      "num": 320296,
-      "word": "解放军军机强硬拦截美军机",
-      "onboard_time": 1677407550,
-      "rank": 30,
-      "category": "军事"
+      "raw_hot": 604857,
+      "num": 604857,
+      "word": "疑似泽连斯基替身被媒体拍到",
+      "onboard_time": 1677409230,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 602529,
@@ -377,6 +385,14 @@
       "onboard_time": 1677396026,
       "rank": 36,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 586191,
+      "num": 586191,
+      "word": "狂飙中最惨的人",
+      "onboard_time": 1677410129,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 558208,
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 466146,
-      "num": 313105,
+      "num": 379856,
       "word": "路人镜头下的张雨绮身材",
       "onboard_time": 1677406229,
       "rank": 19,
@@ -619,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 367958,
+      "num": 367958,
+      "word": "全国超9成小城市房价不过万元",
+      "onboard_time": 1677410009,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 367715,
       "num": 367715,
       "word": "赵樱子版聂小倩",
@@ -755,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287423,
+      "num": 287423,
+      "word": "DYG",
+      "onboard_time": 1677410430,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284562,
       "num": 284562,
       "word": "INTO1海外活动官宣",
@@ -769,14 +801,6 @@
       "onboard_time": 1677403707,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278063,
-      "num": 278063,
-      "word": "疑似泽连斯基替身被媒体拍到",
-      "onboard_time": 1677409230,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272335,
@@ -801,6 +825,14 @@
       "onboard_time": 1677331651,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265665,
+      "num": 265665,
+      "word": "年轻人的社恐有多真实",
+      "onboard_time": 1677409468,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 265579,
@@ -1003,8 +1035,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212106,
-      "num": 212106,
+      "raw_hot": 213339,
+      "num": 213339,
       "word": "武汉大学的早樱终于开了",
       "onboard_time": 1677407910,
       "rank": 22,
@@ -1041,14 +1073,6 @@
       "onboard_time": 1677377189,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 205374,
-      "num": 205374,
-      "word": "年轻人的社恐有多真实",
-      "onboard_time": 1677409468,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 205161,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1677336929,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 175923,
+      "num": 175923,
+      "word": "WBG对战LNG",
+      "onboard_time": 1677410069,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 175510,
@@ -1579,14 +1611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104714,
-      "num": 104714,
-      "word": "WBG对战LNG",
-      "onboard_time": 1677410069,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 104582,
       "num": 104582,
       "word": "巨人完结篇新预告",
@@ -1635,6 +1659,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 89245,
+      "num": 89245,
+      "word": "小胖的镜",
+      "onboard_time": 1677410791,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 83354,
       "num": 83354,
       "word": "古代火折子原来是这样做出来的",
@@ -1657,14 +1689,6 @@
       "onboard_time": 1677401487,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 77984,
-      "num": 77984,
-      "word": "全国超9成小城市房价不过万元",
-      "onboard_time": 1677410009,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 75265,
