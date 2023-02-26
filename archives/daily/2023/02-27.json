@@ -1,10 +1,10 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677428693403,
+  "endTime": 1677429734654,
   "band_list": [
     {
       "raw_hot": 1500507,
-      "num": 500470,
+      "num": 572004,
       "word": "周杰说张颂文火了我特别高兴",
       "onboard_time": 1677424771,
       "rank": 3,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 679752,
-      "num": 214541,
+      "num": 603378,
       "word": "普京说世界必须改变",
       "onboard_time": 1677425672,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 509289,
-      "num": 212982,
+      "num": 274312,
       "word": "刘亚仁一年内注射异丙酚73次",
       "onboard_time": 1677405268,
       "rank": 12,
@@ -65,6 +65,14 @@
       "onboard_time": 1677422972,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436260,
+      "num": 278268,
+      "word": "别给孩子用磁性文具",
+      "onboard_time": 1677427048,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436082,
@@ -83,8 +91,16 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 366531,
+      "num": 366531,
+      "word": "网传易烊千玺新歌发布会",
+      "onboard_time": 1677428726,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 363068,
-      "num": 211707,
+      "num": 256622,
       "word": "肖战在意大利吃川菜",
       "onboard_time": 1677421413,
       "rank": 13,
@@ -115,14 +131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 299059,
-      "num": 210744,
-      "word": "别给孩子用磁性文具",
-      "onboard_time": 1677427048,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282101,
       "num": 192594,
       "word": "蔡徐坤的戒指好大",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 262287,
-      "num": 262287,
+      "num": 282461,
       "word": "蔡卓妍巴黎时装周出发随拍",
       "onboard_time": 1677425970,
       "rank": 7,
@@ -153,6 +161,14 @@
       "onboard_time": 1677407550,
       "rank": 15,
       "category": "军事"
+    },
+    {
+      "raw_hot": 207221,
+      "num": 207221,
+      "word": "杨芸晴泰国第一份工作vlog",
+      "onboard_time": 1677429144,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 198495,
@@ -371,6 +387,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79760,
+      "num": 79760,
+      "word": "宁至谦阮流筝接吻被撞到",
+      "onboard_time": 1677429383,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 77055,
+      "num": 77055,
+      "word": "毕雯珺送李一桐玲娜贝儿",
+      "onboard_time": 1677429264,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 75550,
       "num": 75550,
       "word": "ITZY中文版TrustMe",
@@ -396,7 +428,7 @@
     },
     {
       "raw_hot": 40098,
-      "num": 523207,
+      "num": 573233,
       "word": "无人机看五彩春耕画卷",
       "onboard_time": 1677421713,
       "rank": 2,

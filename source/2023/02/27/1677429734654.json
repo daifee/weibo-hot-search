@@ -1,0 +1,410 @@
+{
+  "runTime": 1677429734654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 603378,
+        "num": 603378,
+        "word": "普京说世界必须改变",
+        "onboard_time": 1677425672,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 600152,
+        "num": 600152,
+        "word": "甲流",
+        "onboard_time": 1677402925,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31603,
+        "num": 573233,
+        "word": "无人机看五彩春耕画卷",
+        "onboard_time": 1677421713,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1209655,
+        "num": 572004,
+        "word": "周杰说张颂文火了我特别高兴",
+        "onboard_time": 1677424771,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561524,
+        "num": 561524,
+        "word": "切尔西",
+        "onboard_time": 1677423212,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430576,
+        "num": 430576,
+        "word": "王鸥演的不忍直视",
+        "onboard_time": 1677425552,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366531,
+        "num": 366531,
+        "word": "网传易烊千玺新歌发布会",
+        "onboard_time": 1677428726,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313865,
+        "num": 313865,
+        "word": "全国超9成小城市房价不过万元",
+        "onboard_time": 1677410009,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 313771,
+        "num": 313771,
+        "word": "妻子想卖房救重病儿子遭丈夫反对",
+        "onboard_time": 1677414569,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201502,
+        "num": 282461,
+        "word": "蔡卓妍巴黎时装周出发随拍",
+        "onboard_time": 1677425970,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436260,
+        "num": 278268,
+        "word": "别给孩子用磁性文具",
+        "onboard_time": 1677427048,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430611,
+        "num": 274312,
+        "word": "刘亚仁一年内注射异丙酚73次",
+        "onboard_time": 1677405268,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 256622,
+        "num": 256622,
+        "word": "肖战在意大利吃川菜",
+        "onboard_time": 1677421413,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207221,
+        "num": 207221,
+        "word": "杨芸晴泰国第一份工作vlog",
+        "onboard_time": 1677429144,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176239,
+        "num": 176239,
+        "word": "OMG战胜iG",
+        "onboard_time": 1677428424,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175092,
+        "num": 175092,
+        "word": "朴智旻崔秀彬崔杋圭舞蹈挑战",
+        "onboard_time": 1677425493,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 713795,
+        "num": 175042,
+        "word": "辣目被打伤",
+        "onboard_time": 1677415229,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422027,
+        "num": 175037,
+        "word": "刘宇说讨厌INTO1要解散了",
+        "onboard_time": 1677418413,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174930,
+        "num": 174930,
+        "word": "解放军军机强硬拦截美军机",
+        "onboard_time": 1677407550,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 167557,
+        "num": 167557,
+        "word": "狂飙中最惨的人",
+        "onboard_time": 1677410129,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359594,
+        "num": 164454,
+        "word": "孔雪儿李硕珉合照",
+        "onboard_time": 1677422972,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268101,
+        "num": 161144,
+        "word": "诛仙 六公主",
+        "onboard_time": 1677416614,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155318,
+        "num": 155318,
+        "word": "有才的人甚至连笔都不用",
+        "onboard_time": 1677420392,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121799,
+        "num": 121799,
+        "word": "疑似泽连斯基替身被媒体拍到",
+        "onboard_time": 1677409230,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117488,
+        "num": 117488,
+        "word": "又看到刘诗雯打球了",
+        "onboard_time": 1677425192,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205380,
+        "num": 117465,
+        "word": "张大大说王鹤棣特别好",
+        "onboard_time": 1677422194,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200709,
+        "num": 117377,
+        "word": "蔡徐坤的戒指好大",
+        "onboard_time": 1677422555,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156625,
+        "num": 117364,
+        "word": "金泰亨演我第一天入职",
+        "onboard_time": 1677426390,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117247,
+        "num": 117247,
+        "word": "上海地铁内一男子涂鸦致列车停运",
+        "onboard_time": 1677403109,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104606,
+        "num": 104606,
+        "word": "小朋友的绘本也太好玩了",
+        "onboard_time": 1677424713,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 136788,
+        "num": 103547,
+        "word": "张九龄王九龙怕是回不去德云社了",
+        "onboard_time": 1677424529,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132396,
+        "num": 103057,
+        "word": "向佐瘦了好多",
+        "onboard_time": 1677404847,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120533,
+        "num": 102762,
+        "word": "薛凯琪现场",
+        "onboard_time": 1677421355,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101451,
+        "num": 101451,
+        "word": "斯基普世界波",
+        "onboard_time": 1677426268,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92417,
+        "num": 92417,
+        "word": "乌克兰回应泽连斯基替身",
+        "onboard_time": 1677414329,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115453,
+        "num": 91070,
+        "word": "路人镜头下的张雨绮身材",
+        "onboard_time": 1677406229,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97905,
+        "num": 90165,
+        "word": "光渊什么时候更新",
+        "onboard_time": 1677414689,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86555,
+        "num": 86555,
+        "word": "一家三猴为什么就它长相炸裂",
+        "onboard_time": 1677411927,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86030,
+        "num": 86030,
+        "word": "警方回应男子在自家鱼塘电鱼被处罚",
+        "onboard_time": 1677408688,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81019,
+        "num": 81019,
+        "word": "网球王子作者坐上轮椅",
+        "onboard_time": 1677413671,
+        "rank": 39,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 95273,
+        "num": 80669,
+        "word": "HYBE新女团MOONCHILD",
+        "onboard_time": 1677412169,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79760,
+        "num": 79760,
+        "word": "宁至谦阮流筝接吻被撞到",
+        "onboard_time": 1677429383,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78696,
+        "num": 78696,
+        "word": "LNG战胜WBG",
+        "onboard_time": 1677417093,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77309,
+        "num": 77309,
+        "word": "九尾三连MVP",
+        "onboard_time": 1677422493,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77055,
+        "num": 77055,
+        "word": "毕雯珺送李一桐玲娜贝儿",
+        "onboard_time": 1677429264,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74514,
+        "num": 74514,
+        "word": "党和国家机构改革方案",
+        "onboard_time": 1677405868,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 70017,
+        "num": 70017,
+        "word": "朱一龙晒印尼随拍",
+        "onboard_time": 1677417934,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69328,
+        "num": 69328,
+        "word": "谢可寅南京livehouse舞台",
+        "onboard_time": 1677420573,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 66367,
+        "num": 66367,
+        "word": "泰山站候车乘客集体呼呼大睡",
+        "onboard_time": 1677404667,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49916,
+        "num": 61782,
+        "word": "福宝和爷爷",
+        "onboard_time": 1677402567,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的人民情怀#"
+    }
+  }
+}
