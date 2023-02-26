@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677442767515,
+  "endTime": 1677443622693,
   "band_list": [
     {
       "raw_hot": 1500507,
@@ -291,6 +291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120386,
+      "num": 41166,
+      "word": "碎尸案风波中的谭仔国际",
+      "onboard_time": 1677440712,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 114734,
       "num": 114734,
       "word": "光渊什么时候更新",
@@ -329,14 +337,6 @@
       "onboard_time": 1677411927,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105374,
-      "num": 41166,
-      "word": "碎尸案风波中的谭仔国际",
-      "onboard_time": 1677440712,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 102894,
@@ -499,7 +499,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49596,
+      "raw_hot": 50178,
       "num": 19102,
       "word": "特朗普称破坏北溪的不是俄罗斯",
       "onboard_time": 1677440351,
@@ -531,20 +531,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 13935,
-      "num": 13935,
+      "raw_hot": 19681,
+      "num": 19681,
       "word": "男子吃完饭发现车被新装护栏挡住",
       "onboard_time": 1677442031,
       "rank": 40,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11546,
-      "num": 11546,
+      "raw_hot": 13414,
+      "num": 13414,
       "word": "被一只小狗碰瓷了",
       "onboard_time": 1677442451,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11505,
+      "num": 11505,
+      "word": "泽连斯基展示过去一年住所房间",
+      "onboard_time": 1677443232,
+      "rank": 47,
+      "category": "国外要闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677442767515,
+  "endTime": 1677443622693,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -55603,6 +55603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120386,
+      "num": 41166,
+      "word": "碎尸案风波中的谭仔国际",
+      "onboard_time": 1677440712,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 120175,
       "num": 120175,
       "word": "三体拍出了北京的科幻感",
@@ -56337,14 +56345,6 @@
       "onboard_time": 1675545613,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105374,
-      "num": 41166,
-      "word": "碎尸案风波中的谭仔国际",
-      "onboard_time": 1677440712,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 105339,
@@ -57867,6 +57867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 50178,
+      "num": 19102,
+      "word": "特朗普称破坏北溪的不是俄罗斯",
+      "onboard_time": 1677440351,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 50072,
       "num": 50072,
       "word": "曼联2比0诺丁汉森林",
@@ -57897,14 +57905,6 @@
       "onboard_time": 1675207761,
       "rank": 49,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 49596,
-      "num": 19102,
-      "word": "特朗普称破坏北溪的不是俄罗斯",
-      "onboard_time": 1677440351,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 49126,
@@ -58483,6 +58483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19681,
+      "num": 19681,
+      "word": "男子吃完饭发现车被新装护栏挡住",
+      "onboard_time": 1677442031,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19052,
       "num": 19052,
       "word": "原来大一点的哥哥也喜欢玩",
@@ -58523,20 +58531,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 13935,
-      "num": 13935,
-      "word": "男子吃完饭发现车被新装护栏挡住",
-      "onboard_time": 1677442031,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11546,
-      "num": 11546,
+      "raw_hot": 13414,
+      "num": 13414,
       "word": "被一只小狗碰瓷了",
       "onboard_time": 1677442451,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11505,
+      "num": 11505,
+      "word": "泽连斯基展示过去一年住所房间",
+      "onboard_time": 1677443232,
+      "rank": 47,
+      "category": "国外要闻"
     }
   ],
   "hotgov_list": [
