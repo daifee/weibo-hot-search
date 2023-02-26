@@ -1,0 +1,410 @@
+{
+  "runTime": 1677380912179,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2160118,
+        "num": 2160118,
+        "word": "乐乐死因初步确定为心脏病变",
+        "onboard_time": 1677375990,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1611364,
+        "num": 1611364,
+        "word": "中方已为接返丫丫做好准备",
+        "onboard_time": 1677375447,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15771,
+        "num": 844794,
+        "word": "中国载人航天三十年启示录",
+        "onboard_time": 1677332369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843932,
+        "num": 843932,
+        "word": "老默唐小虎 我们的客栈",
+        "onboard_time": 1677376950,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 807026,
+        "num": 807026,
+        "word": "王宝强叫高叶大嫂",
+        "onboard_time": 1677376409,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 802293,
+        "num": 802293,
+        "word": "优衣库高管卷走800余件服装7.5折卖",
+        "onboard_time": 1677370585,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 679684,
+        "num": 679684,
+        "word": "还记得那个承诺包1年家务的丈夫吗",
+        "onboard_time": 1677377369,
+        "rank": 6,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 676562,
+        "num": 676562,
+        "word": "中方对丫丫饲养护理向美方提出要求",
+        "onboard_time": 1677377427,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472470,
+        "num": 472470,
+        "word": "高铁站殴打女童女子系亲生母亲",
+        "onboard_time": 1677377847,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 464056,
+        "num": 464056,
+        "word": "老人捐出珍藏半世纪的8600多枚火花",
+        "onboard_time": 1677374966,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441222,
+        "num": 441222,
+        "word": "高三女孩热血发言燃爆全场",
+        "onboard_time": 1677373887,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 392711,
+        "num": 392711,
+        "word": "贡米",
+        "onboard_time": 1677374547,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 351698,
+        "num": 351698,
+        "word": "女子考研期间生娃初试395分",
+        "onboard_time": 1677340287,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 328138,
+        "num": 328138,
+        "word": "为何寺庙旅游在90后00后中爆火",
+        "onboard_time": 1677376347,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 327803,
+        "num": 327803,
+        "word": "刘雯米兰时装周再度闭场",
+        "onboard_time": 1677373288,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 305082,
+        "num": 305082,
+        "word": "张杰模仿高启强走路",
+        "onboard_time": 1677375148,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283565,
+        "num": 283565,
+        "word": "北京二手房成交量大涨96%",
+        "onboard_time": 1677370285,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 264622,
+        "num": 264622,
+        "word": "INTO1海外活动官宣",
+        "onboard_time": 1677380670,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258874,
+        "num": 258874,
+        "word": "女子委托储存胎盘5年后干细胞丢失",
+        "onboard_time": 1677379528,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256920,
+        "num": 256920,
+        "word": "建议延长毕业生应届身份时限",
+        "onboard_time": 1677341186,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253120,
+        "num": 253120,
+        "word": "接种HPV疫苗为什么重要",
+        "onboard_time": 1677370163,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250290,
+        "num": 250290,
+        "word": "7旬大爷头婚摆11桌迎娶6旬新娘",
+        "onboard_time": 1677379769,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241888,
+        "num": 241888,
+        "word": "高清镜头下的倪妮",
+        "onboard_time": 1677376468,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238936,
+        "num": 238936,
+        "word": "佘诗曼韩雪 青蛇",
+        "onboard_time": 1677371126,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235388,
+        "num": 235388,
+        "word": "理发师才是最需要考证的吧",
+        "onboard_time": 1677367638,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228481,
+        "num": 228481,
+        "word": "男子手机掉落拍下羊驼罕见视角",
+        "onboard_time": 1677373561,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212078,
+        "num": 212078,
+        "word": "日本百年温泉旅馆被曝半年不换水",
+        "onboard_time": 1677366315,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210555,
+        "num": 210555,
+        "word": "CNN拍下解放军对峙美机",
+        "onboard_time": 1677359351,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 208862,
+        "num": 208862,
+        "word": "9岁女演员成为柏林电影节最佳主角",
+        "onboard_time": 1677369021,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207843,
+        "num": 207843,
+        "word": "薛凯琪周柯宇 春娇与志明",
+        "onboard_time": 1677377489,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353907,
+        "num": 206503,
+        "word": "中国留学生遇害案校方赔500万美元",
+        "onboard_time": 1677380249,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 202028,
+        "num": 202028,
+        "word": "公司领导回应保洁捡2万元报警被开除",
+        "onboard_time": 1677368360,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190866,
+        "num": 190866,
+        "word": "为前两秒的不耐烦道歉",
+        "onboard_time": 1677367157,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184834,
+        "num": 184834,
+        "word": "赵樱子版聂小倩",
+        "onboard_time": 1677371187,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183598,
+        "num": 183598,
+        "word": "山村小学一年级只有一个学生",
+        "onboard_time": 1677377189,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 178023,
+        "num": 178023,
+        "word": "无所谓国家队会出手",
+        "onboard_time": 1677380068,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140227,
+        "num": 140227,
+        "word": "C罗帽子戏法",
+        "onboard_time": 1677366857,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138625,
+        "num": 138625,
+        "word": "沈月谈上一次分手的原因",
+        "onboard_time": 1677342146,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133732,
+        "num": 133732,
+        "word": "郑业成郭晓婷鼻尖吻",
+        "onboard_time": 1677338072,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115734,
+        "num": 115734,
+        "word": "城市公交停运难局",
+        "onboard_time": 1677375867,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114472,
+        "num": 114472,
+        "word": "HPV病毒可导致哪些疾病",
+        "onboard_time": 1677365776,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113616,
+        "num": 113616,
+        "word": "47岁丘索维金娜体操世界杯摘铜",
+        "onboard_time": 1677380549,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109611,
+        "num": 109611,
+        "word": "蒲熠星 我一路走来惊心动魄",
+        "onboard_time": 1677332609,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103791,
+        "num": 103791,
+        "word": "在张大大直播间笑死",
+        "onboard_time": 1677336509,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97773,
+        "num": 97773,
+        "word": "柏林电影节获奖名单",
+        "onboard_time": 1677369021,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94217,
+        "num": 94217,
+        "word": "唐僧吃了都不算破戒",
+        "onboard_time": 1677337495,
+        "rank": 45,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 91891,
+        "num": 91891,
+        "word": "上过央视的浪漫出租车这次救了个人",
+        "onboard_time": 1677380727,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89240,
+        "num": 89240,
+        "word": "唐九洲吐槽乐华档期太满",
+        "onboard_time": 1677369021,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84111,
+        "num": 84111,
+        "word": "王濛风波后首现身",
+        "onboard_time": 1677340648,
+        "rank": 48,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 80795,
+        "num": 80795,
+        "word": "为误食降糖药男童寻找救治线索",
+        "onboard_time": 1677372206,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#up新时代中国#"
+    }
+  }
+}

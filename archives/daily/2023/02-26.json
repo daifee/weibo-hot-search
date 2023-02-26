@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677380337958,
+  "endTime": 1677380912179,
   "band_list": [
     {
       "raw_hot": 2293120,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 679684,
+      "num": 679684,
+      "word": "还记得那个承诺包1年家务的丈夫吗",
+      "onboard_time": 1677377369,
+      "rank": 42,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 669710,
       "num": 669710,
       "word": "贡米",
@@ -129,14 +137,6 @@
       "onboard_time": 1677336509,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 619729,
-      "num": 619729,
-      "word": "还记得那个承诺包1年家务的丈夫吗",
-      "onboard_time": 1677377369,
-      "rank": 42,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 602529,
@@ -267,6 +267,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 353907,
+      "num": 206503,
+      "word": "中国留学生遇害案校方赔500万美元",
+      "onboard_time": 1677380249,
+      "rank": 42,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 330856,
       "num": 330856,
       "word": "为何寺庙旅游在90后00后中爆火",
@@ -315,6 +323,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264622,
+      "num": 264622,
+      "word": "INTO1海外活动官宣",
+      "onboard_time": 1677380670,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 258874,
+      "num": 258874,
+      "word": "女子委托储存胎盘5年后干细胞丢失",
+      "onboard_time": 1677379528,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250290,
+      "num": 250290,
+      "word": "7旬大爷头婚摆11桌迎娶6旬新娘",
+      "onboard_time": 1677379769,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250041,
       "num": 250041,
       "word": "夜旅人",
@@ -323,12 +355,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241888,
+      "num": 241888,
+      "word": "高清镜头下的倪妮",
+      "onboard_time": 1677376468,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 239098,
       "num": 239098,
       "word": "满江红票房",
       "onboard_time": 1677327510,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235388,
+      "num": 235388,
+      "word": "理发师才是最需要考证的吧",
+      "onboard_time": 1677367638,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 233263,
@@ -344,14 +392,6 @@
       "word": "为误食降糖药男童寻找救治线索",
       "onboard_time": 1677372206,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225769,
-      "num": 195263,
-      "word": "女子委托储存胎盘5年后干细胞丢失",
-      "onboard_time": 1677379528,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -377,14 +417,6 @@
       "onboard_time": 1677328588,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 217668,
-      "num": 217668,
-      "word": "高清镜头下的倪妮",
-      "onboard_time": 1677376468,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 215563,
@@ -419,12 +451,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209307,
-      "num": 209307,
-      "word": "理发师才是最需要考证的吧",
-      "onboard_time": 1677367638,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 207843,
+      "num": 207843,
+      "word": "薛凯琪周柯宇 春娇与志明",
+      "onboard_time": 1677377489,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 206701,
@@ -433,14 +465,6 @@
       "onboard_time": 1677377189,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 197361,
-      "num": 197361,
-      "word": "薛凯琪周柯宇 春娇与志明",
-      "onboard_time": 1677377489,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 193027,
@@ -480,6 +504,14 @@
       "word": "又吐又拉是甲流还是诺如",
       "onboard_time": 1677367338,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178023,
+      "num": 178023,
+      "word": "无所谓国家队会出手",
+      "onboard_time": 1677380068,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -545,14 +577,6 @@
       "onboard_time": 1677328350,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 166171,
-      "num": 166171,
-      "word": "7旬大爷头婚摆11桌迎娶6旬新娘",
-      "onboard_time": 1677379769,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162118,
@@ -707,20 +731,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113616,
+      "num": 113616,
+      "word": "47岁丘索维金娜体操世界杯摘铜",
+      "onboard_time": 1677380549,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111315,
       "num": 111315,
       "word": "行测答案",
       "onboard_time": 1677325170,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 109509,
-      "num": 109509,
-      "word": "无所谓国家队会出手",
-      "onboard_time": 1677380068,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104582,
@@ -739,20 +763,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97364,
-      "num": 97364,
-      "word": "中国留学生遇害案校方赔500万美元",
-      "onboard_time": 1677380249,
-      "rank": 42,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 96957,
       "num": 105626,
       "word": "沈梦瑶表现力",
       "onboard_time": 1677335791,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 91891,
+      "num": 91891,
+      "word": "上过央视的浪漫出租车这次救了个人",
+      "onboard_time": 1677380727,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79934,
