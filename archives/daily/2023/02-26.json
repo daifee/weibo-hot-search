@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677399800377,
+  "endTime": 1677400636950,
   "band_list": [
     {
       "raw_hot": 2293120,
@@ -9,6 +9,14 @@
       "onboard_time": 1677375990,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1680651,
+      "num": 1680651,
+      "word": "SM新女团成员",
+      "onboard_time": 1677399566,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1634495,
@@ -97,14 +105,6 @@
       "onboard_time": 1677376409,
       "rank": 4,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 936205,
-      "num": 936205,
-      "word": "SM新女团成员",
-      "onboard_time": 1677399566,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 932193,
@@ -227,8 +227,8 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 676017,
-      "num": 676017,
+      "raw_hot": 677378,
+      "num": 677378,
       "word": "梵音瑜伽",
       "onboard_time": 1677396207,
       "rank": 24,
@@ -291,12 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592740,
+      "num": 592740,
+      "word": "研究称过早上课会导致成绩差",
+      "onboard_time": 1677396026,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 558208,
       "num": 558208,
       "word": "刘雯米兰时装周再度闭场",
       "onboard_time": 1677373288,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 553946,
+      "num": 553946,
+      "word": "三亚通报博主买海鲜被宰千元事件结果",
+      "onboard_time": 1677398368,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553329,
@@ -371,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 482785,
-      "num": 482785,
-      "word": "研究称过早上课会导致成绩差",
-      "onboard_time": 1677396026,
-      "rank": 36,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 444509,
       "num": 444509,
       "word": "张杰模仿高启强走路",
@@ -401,6 +409,14 @@
       "onboard_time": 1677385107,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 432336,
+      "num": 335972,
+      "word": "李一桐毕雯珺迪士尼合体",
+      "onboard_time": 1677399748,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 424287,
@@ -441,14 +457,6 @@
       "onboard_time": 1677391706,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 412812,
-      "num": 390189,
-      "word": "三亚通报博主买海鲜被宰千元事件结果",
-      "onboard_time": 1677398368,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 402653,
@@ -571,6 +579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 298789,
+      "num": 298789,
+      "word": "陈星旭李兰迪南京",
+      "onboard_time": 1677398667,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 298467,
       "num": 298467,
       "word": "女子委托储存胎盘5年后干细胞丢失",
@@ -617,14 +633,6 @@
       "onboard_time": 1677367157,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 261341,
-      "num": 261341,
-      "word": "陈星旭李兰迪南京",
-      "onboard_time": 1677398667,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 258677,
@@ -1115,14 +1123,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 151145,
-      "num": 151145,
-      "word": "李一桐毕雯珺迪士尼合体",
-      "onboard_time": 1677399748,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 150737,
       "num": 150737,
       "word": "唐九洲吐槽乐华档期太满",
@@ -1339,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75530,
+      "num": 75530,
+      "word": "儿子爱打人爸爸角色互换式教育",
+      "onboard_time": 1677400407,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75265,
       "num": 104530,
       "word": "莱斯特城vs阿森纳",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1677333590,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 64004,
+      "num": 64004,
+      "word": "女孩骨折住院趁导师看望时请教论文",
+      "onboard_time": 1677400587,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 62177,

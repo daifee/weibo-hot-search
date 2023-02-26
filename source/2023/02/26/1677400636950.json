@@ -1,0 +1,410 @@
+{
+  "runTime": 1677400636950,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1680651,
+        "num": 1680651,
+        "word": "SM新女团成员",
+        "onboard_time": 1677399566,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1015847,
+        "num": 1015847,
+        "word": "编剧曝演员因文化不够错改台词",
+        "onboard_time": 1677393327,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 761371,
+        "num": 761371,
+        "word": "早年的婚纱照能有多离谱",
+        "onboard_time": 1677381689,
+        "rank": 2,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 748235,
+        "num": 748235,
+        "word": "捡2万现金报警被开除保洁员发声",
+        "onboard_time": 1677394944,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677378,
+        "num": 677378,
+        "word": "梵音瑜伽",
+        "onboard_time": 1677396207,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592740,
+        "num": 592740,
+        "word": "研究称过早上课会导致成绩差",
+        "onboard_time": 1677396026,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 553946,
+        "num": 553946,
+        "word": "三亚通报博主买海鲜被宰千元事件结果",
+        "onboard_time": 1677398368,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416269,
+        "num": 416269,
+        "word": "用光给女友做了一条项链",
+        "onboard_time": 1677392727,
+        "rank": 7,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 344975,
+        "num": 344975,
+        "word": "乐乐死因初步确定为心脏病变",
+        "onboard_time": 1677375990,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411254,
+        "num": 339546,
+        "word": "到底是考公难还是考研难",
+        "onboard_time": 1677382528,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1009671,
+        "num": 336619,
+        "word": "杨幂强曝光生图",
+        "onboard_time": 1677390689,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 432336,
+        "num": 335972,
+        "word": "李一桐毕雯珺迪士尼合体",
+        "onboard_time": 1677399748,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332815,
+        "num": 332815,
+        "word": "TheShy说当选手时只想幸福生活",
+        "onboard_time": 1677396147,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 321810,
+        "num": 321810,
+        "word": "夜市偶遇张颂文",
+        "onboard_time": 1677382349,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298789,
+        "num": 298789,
+        "word": "陈星旭李兰迪南京",
+        "onboard_time": 1677398667,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319668,
+        "num": 296729,
+        "word": "银行向家属索赔被要求证明亲属关系",
+        "onboard_time": 1677393625,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265646,
+        "num": 265646,
+        "word": "鹿晗福州路透",
+        "onboard_time": 1677391107,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242676,
+        "num": 242676,
+        "word": "羽生结弦冰演",
+        "onboard_time": 1677391706,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217926,
+        "num": 217926,
+        "word": "我国适龄女孩HPV疫苗接种率不到1%",
+        "onboard_time": 1677380908,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210936,
+        "num": 210936,
+        "word": "刘令姿出发巴黎时装周机场图",
+        "onboard_time": 1677396806,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 237209,
+        "num": 203260,
+        "word": "老人疑因男生公交上未让座将其骂哭",
+        "onboard_time": 1677384146,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187245,
+        "num": 187245,
+        "word": "张新成付辛博 时尚芭莎",
+        "onboard_time": 1677389067,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177975,
+        "num": 177975,
+        "word": "中国男篮战胜伊朗男篮",
+        "onboard_time": 1677392426,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176948,
+        "num": 176948,
+        "word": "Hero对战XYG",
+        "onboard_time": 1677394106,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176590,
+        "num": 176590,
+        "word": "如何看待子女冠姓权给女方",
+        "onboard_time": 1677384508,
+        "rank": 24,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 159449,
+        "num": 159449,
+        "word": "社牛女生如何在读书馆搭讪",
+        "onboard_time": 1677395307,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159211,
+        "num": 159211,
+        "word": "小伙吐槽尼泊尔摩天轮连门都没有",
+        "onboard_time": 1677395307,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 335058,
+        "num": 159053,
+        "word": "张大大早期生图",
+        "onboard_time": 1677395426,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157403,
+        "num": 157403,
+        "word": "蔡徐坤现象EP",
+        "onboard_time": 1677393447,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155387,
+        "num": 155387,
+        "word": "任达华现场观战中国男篮",
+        "onboard_time": 1677396986,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 151240,
+        "num": 151240,
+        "word": "王俊凯给八中学子送祝福",
+        "onboard_time": 1677387691,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148036,
+        "num": 148036,
+        "word": "大爷怒斥夜市悬挂日式雨伞",
+        "onboard_time": 1677383367,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135903,
+        "num": 135903,
+        "word": "权顺荣 签售",
+        "onboard_time": 1677383251,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132312,
+        "num": 132312,
+        "word": "星落凝成糖海外评价",
+        "onboard_time": 1677394888,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127247,
+        "num": 127247,
+        "word": "丫丫毛发脱落系皮肤病所致",
+        "onboard_time": 1677382110,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124266,
+        "num": 124266,
+        "word": "刘诗诗捧花视频",
+        "onboard_time": 1677382592,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122609,
+        "num": 122609,
+        "word": "原来这就是买零食路上的统一动作",
+        "onboard_time": 1677391047,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115136,
+        "num": 115136,
+        "word": "还记得那个承诺包1年家务的丈夫吗",
+        "onboard_time": 1677377369,
+        "rank": 37,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 112949,
+        "num": 112949,
+        "word": "羲和鬼谷子好会拉",
+        "onboard_time": 1677398786,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111149,
+        "num": 111149,
+        "word": "INTO1苏州签售会饭拍图",
+        "onboard_time": 1677398607,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108108,
+        "num": 108108,
+        "word": "苗苗成都vlog",
+        "onboard_time": 1677394588,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107439,
+        "num": 107439,
+        "word": "王宝强叫高叶大嫂",
+        "onboard_time": 1677376409,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105943,
+        "num": 105943,
+        "word": "赞达亚古董长裙红毯造型",
+        "onboard_time": 1677393388,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 103709,
+        "num": 103709,
+        "word": "中方对丫丫饲养护理向美方提出要求",
+        "onboard_time": 1677377427,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102852,
+        "num": 102852,
+        "word": "杨紫范丞丞片场抓代拍",
+        "onboard_time": 1677387991,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92407,
+        "num": 92407,
+        "word": "中方已为接返丫丫做好准备",
+        "onboard_time": 1677375447,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83978,
+        "num": 83978,
+        "word": "老默唐小虎 我们的客栈",
+        "onboard_time": 1677376950,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77733,
+        "num": 77733,
+        "word": "女子委托储存胎盘5年后干细胞丢失",
+        "onboard_time": 1677379528,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75530,
+        "num": 75530,
+        "word": "儿子爱打人爸爸角色互换式教育",
+        "onboard_time": 1677400407,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64004,
+        "num": 64004,
+        "word": "女孩骨折住院趁导师看望时请教论文",
+        "onboard_time": 1677400587,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#up新时代中国#"
+    }
+  }
+}
