@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677435751405,
+  "endTime": 1677436608501,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -57803,6 +57803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52838,
+      "num": 52838,
+      "word": "钝评我是小妖怪",
+      "onboard_time": 1677434834,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52513,
       "num": 49096,
       "word": "想象中的毛毛外套和现实中的毛毛外套",
@@ -58305,14 +58313,6 @@
       "onboard_time": 1676574494,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28218,
-      "num": 28218,
-      "word": "钝评我是小妖怪",
-      "onboard_time": 1677434834,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 27975,
