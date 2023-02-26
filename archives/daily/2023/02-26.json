@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677392626344,
+  "endTime": 1677393508511,
   "band_list": [
     {
       "raw_hot": 2293120,
@@ -99,6 +99,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 921567,
+      "num": 921567,
+      "word": "早年的婚纱照能有多离谱",
+      "onboard_time": 1677381689,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 905544,
       "num": 905544,
       "word": "老默唐小虎 我们的客栈",
@@ -169,14 +177,6 @@
       "onboard_time": 1677368360,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 707598,
-      "num": 707598,
-      "word": "早年的婚纱照能有多离谱",
-      "onboard_time": 1677381689,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 702099,
@@ -275,8 +275,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 540532,
-      "num": 540532,
+      "raw_hot": 543042,
+      "num": 543042,
       "word": "郑号锡即将入伍",
       "onboard_time": 1677391226,
       "rank": 8,
@@ -369,6 +369,22 @@
       "onboard_time": 1677387991,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 416222,
+      "num": 406584,
+      "word": "编剧曝演员因文化不够错改台词",
+      "onboard_time": 1677393327,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 415782,
+      "num": 415782,
+      "word": "羽生结弦冰演",
+      "onboard_time": 1677391706,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 399022,
@@ -467,14 +483,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 307424,
-      "num": 307424,
-      "word": "羽生结弦冰演",
-      "onboard_time": 1677391706,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 298467,
       "num": 298467,
       "word": "女子委托储存胎盘5年后干细胞丢失",
@@ -563,6 +571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 241682,
+      "num": 241682,
+      "word": "蔡徐坤现象EP",
+      "onboard_time": 1677393447,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 239098,
       "num": 239098,
       "word": "满江红票房",
@@ -601,6 +617,14 @@
       "onboard_time": 1677372206,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231230,
+      "num": 231230,
+      "word": "原来这就是买零食路上的统一动作",
+      "onboard_time": 1677391047,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 229850,
@@ -643,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216566,
+      "num": 216566,
+      "word": "中国男篮战胜伊朗男篮",
+      "onboard_time": 1677392426,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215563,
       "num": 215231,
       "word": "女老板给去世员工遗孀发3年工资",
@@ -659,14 +691,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 215208,
-      "num": 215208,
-      "word": "原来这就是买零食路上的统一动作",
-      "onboard_time": 1677391047,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 215073,
       "num": 215073,
       "word": "甲流",
@@ -681,6 +705,14 @@
       "onboard_time": 1677334049,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208650,
+      "num": 180533,
+      "word": "用光给女友做了一条项链",
+      "onboard_time": 1677392727,
+      "rank": 30,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 207843,
@@ -729,14 +761,6 @@
       "onboard_time": 1677323427,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190597,
-      "num": 190597,
-      "word": "中国男篮战胜伊朗男篮",
-      "onboard_time": 1677392426,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 185613,
@@ -1041,6 +1065,14 @@
       "onboard_time": 1677325170,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128072,
+      "num": 128072,
+      "word": "赞达亚古董长裙红毯造型",
+      "onboard_time": 1677393388,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127165,

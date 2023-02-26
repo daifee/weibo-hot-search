@@ -1,0 +1,410 @@
+{
+  "runTime": 1677393508511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 921567,
+        "num": 921567,
+        "word": "早年的婚纱照能有多离谱",
+        "onboard_time": 1677381689,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 860913,
+        "num": 860913,
+        "word": "乐乐死因初步确定为心脏病变",
+        "onboard_time": 1677375990,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44957,
+        "num": 705407,
+        "word": "春季传染病防治热点问题解答",
+        "onboard_time": 1677385525,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1586884,
+        "num": 704989,
+        "word": "杨幂强曝光生图",
+        "onboard_time": 1677390689,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 686143,
+        "num": 686143,
+        "word": "张新成付辛博 时尚芭莎",
+        "onboard_time": 1677389067,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 611330,
+        "num": 611330,
+        "word": "到底是考公难还是考研难",
+        "onboard_time": 1677382528,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 543042,
+        "num": 543042,
+        "word": "郑号锡即将入伍",
+        "onboard_time": 1677391226,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470394,
+        "num": 470394,
+        "word": "王俊凯给八中学子送祝福",
+        "onboard_time": 1677387691,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434728,
+        "num": 434728,
+        "word": "鹿晗福州路透",
+        "onboard_time": 1677391107,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415782,
+        "num": 415782,
+        "word": "羽生结弦冰演",
+        "onboard_time": 1677391706,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416222,
+        "num": 406584,
+        "word": "编剧曝演员因文化不够错改台词",
+        "onboard_time": 1677393327,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 384829,
+        "num": 384829,
+        "word": "夜市偶遇张颂文",
+        "onboard_time": 1677382349,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369831,
+        "num": 369831,
+        "word": "如何看待子女冠姓权给女方",
+        "onboard_time": 1677384508,
+        "rank": 12,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 330192,
+        "num": 330192,
+        "word": "大爷怒斥夜市悬挂日式雨伞",
+        "onboard_time": 1677383367,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281924,
+        "num": 281924,
+        "word": "王宝强叫高叶大嫂",
+        "onboard_time": 1677376409,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 277232,
+        "num": 277232,
+        "word": "我国适龄女孩HPV疫苗接种率不到1%",
+        "onboard_time": 1677380908,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275996,
+        "num": 275996,
+        "word": "杨紫范丞丞片场抓代拍",
+        "onboard_time": 1677387991,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273976,
+        "num": 273976,
+        "word": "中国男篮vs伊朗男篮",
+        "onboard_time": 1677386190,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262427,
+        "num": 262427,
+        "word": "还记得那个承诺包1年家务的丈夫吗",
+        "onboard_time": 1677377369,
+        "rank": 18,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 251836,
+        "num": 251836,
+        "word": "无畏说一切为了季后赛",
+        "onboard_time": 1677391226,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 439521,
+        "num": 249126,
+        "word": "老人疑因男生公交上未让座将其骂哭",
+        "onboard_time": 1677384146,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241682,
+        "num": 241682,
+        "word": "蔡徐坤现象EP",
+        "onboard_time": 1677393447,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240717,
+        "num": 240717,
+        "word": "权顺荣 签售",
+        "onboard_time": 1677383251,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231230,
+        "num": 231230,
+        "word": "原来这就是买零食路上的统一动作",
+        "onboard_time": 1677391047,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216566,
+        "num": 216566,
+        "word": "中国男篮战胜伊朗男篮",
+        "onboard_time": 1677392426,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211160,
+        "num": 211160,
+        "word": "刘诗诗捧花视频",
+        "onboard_time": 1677382592,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207856,
+        "num": 207856,
+        "word": "丫丫毛发脱落系皮肤病所致",
+        "onboard_time": 1677382110,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197485,
+        "num": 197485,
+        "word": "丁程鑫扎染衬衫造型",
+        "onboard_time": 1677392487,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195256,
+        "num": 195256,
+        "word": "中方对丫丫饲养护理向美方提出要求",
+        "onboard_time": 1677377427,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185110,
+        "num": 185110,
+        "word": "中国留学生遇害案校方赔500万美元",
+        "onboard_time": 1677380249,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 208650,
+        "num": 180533,
+        "word": "用光给女友做了一条项链",
+        "onboard_time": 1677392727,
+        "rank": 30,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 168962,
+        "num": 168962,
+        "word": "老默唐小虎 我们的客栈",
+        "onboard_time": 1677376950,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165495,
+        "num": 165495,
+        "word": "郑业成耳朵红了",
+        "onboard_time": 1677384266,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160350,
+        "num": 160350,
+        "word": "中方已为接返丫丫做好准备",
+        "onboard_time": 1677375447,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154891,
+        "num": 154891,
+        "word": "女子委托储存胎盘5年后干细胞丢失",
+        "onboard_time": 1677379528,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153902,
+        "num": 153902,
+        "word": "王楚然出发巴黎时装周",
+        "onboard_time": 1677385107,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151955,
+        "num": 151955,
+        "word": "高铁站殴打女童女子系亲生母亲",
+        "onboard_time": 1677377847,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 146369,
+        "num": 146369,
+        "word": "男篮世预赛",
+        "onboard_time": 1677392306,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143561,
+        "num": 143561,
+        "word": "7旬大爷头婚摆11桌迎娶6旬新娘",
+        "onboard_time": 1677379769,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140494,
+        "num": 140494,
+        "word": "中国男篮半场落后3分",
+        "onboard_time": 1677389607,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134022,
+        "num": 134022,
+        "word": "INTO1新歌是刘彰写的",
+        "onboard_time": 1677386429,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128072,
+        "num": 128072,
+        "word": "赞达亚古董长裙红毯造型",
+        "onboard_time": 1677393388,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127898,
+        "num": 127898,
+        "word": "接种HPV疫苗为什么重要",
+        "onboard_time": 1677370163,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127367,
+        "num": 127367,
+        "word": "乐乐丫丫早期旅美的视频",
+        "onboard_time": 1677386190,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125333,
+        "num": 125333,
+        "word": "老人捐出珍藏半世纪的8600多枚火花",
+        "onboard_time": 1677374966,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118258,
+        "num": 122954,
+        "word": "无名北美扩映",
+        "onboard_time": 1677391948,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120995,
+        "num": 120995,
+        "word": "塔图姆绝杀76人",
+        "onboard_time": 1677386429,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118894,
+        "num": 118894,
+        "word": "47岁丘索维金娜体操世界杯摘铜",
+        "onboard_time": 1677380549,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110211,
+        "num": 110211,
+        "word": "男子癫痫倒地2名战士紧急抢救",
+        "onboard_time": 1677387568,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 109556,
+        "num": 109556,
+        "word": "洗碗工大爷学校餐厅弹钢琴",
+        "onboard_time": 1677387028,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国两会时光#"
+    }
+  }
+}

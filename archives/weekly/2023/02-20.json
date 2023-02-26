@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677392626344,
+  "endTime": 1677393508511,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -2099,6 +2099,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 921567,
+      "num": 921567,
+      "word": "早年的婚纱照能有多离谱",
+      "onboard_time": 1677381689,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 917856,
       "num": 917856,
       "word": "体育生考研435分社牛舍友挂条幅庆祝",
@@ -3233,14 +3241,6 @@
       "onboard_time": 1677368360,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 707598,
-      "num": 707598,
-      "word": "早年的婚纱照能有多离谱",
-      "onboard_time": 1677381689,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 707089,
@@ -4675,6 +4675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543042,
+      "num": 543042,
+      "word": "郑号锡即将入伍",
+      "onboard_time": 1677391226,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542198,
       "num": 542198,
       "word": "为什么大学生越来越求稳了",
@@ -4705,14 +4713,6 @@
       "onboard_time": 1677053193,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 540532,
-      "num": 540532,
-      "word": "郑号锡即将入伍",
-      "onboard_time": 1677391226,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 540295,
@@ -6187,6 +6187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 416222,
+      "num": 406584,
+      "word": "编剧曝演员因文化不够错改台词",
+      "onboard_time": 1677393327,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 416212,
       "num": 416212,
       "word": "世界低估了美国全球网络窃密的危害",
@@ -6209,6 +6217,14 @@
       "onboard_time": 1677004513,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 415782,
+      "num": 415782,
+      "word": "羽生结弦冰演",
+      "onboard_time": 1677391706,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 415471,
@@ -8355,14 +8371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 307424,
-      "num": 307424,
-      "word": "羽生结弦冰演",
-      "onboard_time": 1677391706,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 307410,
       "num": 307410,
       "word": "妻子的浪漫旅行6收官",
@@ -9779,6 +9787,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 241682,
+      "num": 241682,
+      "word": "蔡徐坤现象EP",
+      "onboard_time": 1677393447,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 241464,
       "num": 241464,
       "word": "彭冠英王楚然现场还原名场面",
@@ -10057,6 +10073,14 @@
       "onboard_time": 1677321748,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 231230,
+      "num": 231230,
+      "word": "原来这就是买零食路上的统一动作",
+      "onboard_time": 1677391047,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 231167,
@@ -10475,6 +10499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216566,
+      "num": 216566,
+      "word": "中国男篮战胜伊朗男篮",
+      "onboard_time": 1677392426,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216503,
       "num": 216503,
       "word": "发生规模聚集性新冠疫情的风险较低",
@@ -10529,14 +10561,6 @@
       "onboard_time": 1677339029,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 215208,
-      "num": 215208,
-      "word": "原来这就是买零食路上的统一动作",
-      "onboard_time": 1677391047,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 214978,
@@ -10681,6 +10705,14 @@
       "onboard_time": 1677324269,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 208650,
+      "num": 180533,
+      "word": "用光给女友做了一条项链",
+      "onboard_time": 1677392727,
+      "rank": 30,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 208606,
@@ -11425,14 +11457,6 @@
       "onboard_time": 1677126332,
       "rank": 35,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 190597,
-      "num": 190597,
-      "word": "中国男篮战胜伊朗男篮",
-      "onboard_time": 1677392426,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 190568,
@@ -13641,6 +13665,14 @@
       "onboard_time": 1677198031,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 128072,
+      "num": 128072,
+      "word": "赞达亚古董长裙红毯造型",
+      "onboard_time": 1677393388,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127973,
