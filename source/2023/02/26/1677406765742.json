@@ -1,0 +1,410 @@
+{
+  "runTime": 1677406765742,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1778670,
+        "num": 1778670,
+        "word": "甲流",
+        "onboard_time": 1677402925,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1758937,
+        "num": 1758937,
+        "word": "刘亚仁一年内注射异丙酚73次",
+        "onboard_time": 1677405268,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 24144,
+        "num": 1266418,
+        "word": "春季传染病防治热点问题解答",
+        "onboard_time": 1677385525,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903285,
+        "num": 903285,
+        "word": "泽连斯基希望与中方会面",
+        "onboard_time": 1677401306,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 492137,
+        "num": 492137,
+        "word": "福宝和爷爷",
+        "onboard_time": 1677402567,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376511,
+        "num": 376511,
+        "word": "三亚通报博主买海鲜被宰千元事件结果",
+        "onboard_time": 1677398368,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363942,
+        "num": 363942,
+        "word": "编剧曝演员因文化不够错改台词",
+        "onboard_time": 1677393327,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339079,
+        "num": 339079,
+        "word": "男子在自家鱼塘电鱼被罚500元",
+        "onboard_time": 1677404729,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334850,
+        "num": 334850,
+        "word": "唐嫣被吓哭了",
+        "onboard_time": 1677405388,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334314,
+        "num": 334314,
+        "word": "早年的婚纱照能有多离谱",
+        "onboard_time": 1677381689,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1028254,
+        "num": 323970,
+        "word": "向佐瘦了好多",
+        "onboard_time": 1677404847,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584951,
+        "num": 314591,
+        "word": "严屹宽白发",
+        "onboard_time": 1677402265,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357211,
+        "num": 306285,
+        "word": "党和国家机构改革方案",
+        "onboard_time": 1677405868,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 297753,
+        "num": 297753,
+        "word": "Hero让二追三",
+        "onboard_time": 1677404970,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281272,
+        "num": 281272,
+        "word": "李一桐毕雯珺迪士尼合体",
+        "onboard_time": 1677399748,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273222,
+        "num": 273222,
+        "word": "网友在张大大直播间洗澡",
+        "onboard_time": 1677402206,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270712,
+        "num": 270712,
+        "word": "陈星旭李兰迪南京",
+        "onboard_time": 1677398667,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242713,
+        "num": 242713,
+        "word": "Hero对战XYG",
+        "onboard_time": 1677394106,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240794,
+        "num": 240794,
+        "word": "甲流和新冠症状上有哪些区别",
+        "onboard_time": 1677401967,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228574,
+        "num": 228574,
+        "word": "路人镜头下的张雨绮身材",
+        "onboard_time": 1677406229,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 669901,
+        "num": 227220,
+        "word": "上海地铁内一男子涂鸦致列车停运",
+        "onboard_time": 1677403109,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223801,
+        "num": 223801,
+        "word": "泰山站候车乘客集体呼呼大睡",
+        "onboard_time": 1677404667,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221077,
+        "num": 221077,
+        "word": "羽生结弦冰演",
+        "onboard_time": 1677391706,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213848,
+        "num": 213848,
+        "word": "用光给女友做了一条项链",
+        "onboard_time": 1677392727,
+        "rank": 23,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 204093,
+        "num": 204093,
+        "word": "毒舌律师票房破5000万",
+        "onboard_time": 1677403469,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184778,
+        "num": 184778,
+        "word": "无畏澜好秀",
+        "onboard_time": 1677405988,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181443,
+        "num": 181443,
+        "word": "四川发生非煤矿山顶板事故已致5死",
+        "onboard_time": 1677403648,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 181353,
+        "num": 181353,
+        "word": "研究称过早上课会导致成绩差",
+        "onboard_time": 1677396026,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 176990,
+        "num": 176990,
+        "word": "梵音瑜伽",
+        "onboard_time": 1677396207,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167156,
+        "num": 167156,
+        "word": "儿子爱打人爸爸角色互换式教育",
+        "onboard_time": 1677400407,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165813,
+        "num": 165813,
+        "word": "女孩骨折住院趁导师看望时请教论文",
+        "onboard_time": 1677400587,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 158994,
+        "num": 158994,
+        "word": "星痕貂蝉一舞绝杀",
+        "onboard_time": 1677404006,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155797,
+        "num": 155797,
+        "word": "夜市偶遇张颂文",
+        "onboard_time": 1677382349,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148608,
+        "num": 148608,
+        "word": "金硕珍回应郑号锡入伍",
+        "onboard_time": 1677403707,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137559,
+        "num": 137559,
+        "word": "aespa演唱会现场人工手动礼炮",
+        "onboard_time": 1677405508,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133379,
+        "num": 133379,
+        "word": "TheShy说当选手时只想幸福生活",
+        "onboard_time": 1677396147,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132667,
+        "num": 132667,
+        "word": "蔡徐坤现象EP",
+        "onboard_time": 1677393447,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130240,
+        "num": 130240,
+        "word": "老人疑因男生公交上未让座将其骂哭",
+        "onboard_time": 1677384146,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128636,
+        "num": 128636,
+        "word": "乐乐死因初步确定为心脏病变",
+        "onboard_time": 1677375990,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111334,
+        "num": 111334,
+        "word": "我国适龄女孩HPV疫苗接种率不到1%",
+        "onboard_time": 1677380908,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110019,
+        "num": 110019,
+        "word": "张新成付辛博 时尚芭莎",
+        "onboard_time": 1677389067,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 107252,
+        "num": 107252,
+        "word": "网友偶遇曾黎合照",
+        "onboard_time": 1677404188,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107065,
+        "num": 107065,
+        "word": "中国男篮战胜伊朗男篮",
+        "onboard_time": 1677392426,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96129,
+        "num": 96129,
+        "word": "如何看待子女冠姓权给女方",
+        "onboard_time": 1677384508,
+        "rank": 43,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 95208,
+        "num": 95208,
+        "word": "原来这就是买零食路上的统一动作",
+        "onboard_time": 1677391047,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87859,
+        "num": 87859,
+        "word": "做饭扫地就喘得不行一定要高度警惕",
+        "onboard_time": 1677401187,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80601,
+        "num": 80601,
+        "word": "王俊凯给八中学子送祝福",
+        "onboard_time": 1677387691,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79080,
+        "num": 79080,
+        "word": "社牛女生如何在读书馆搭讪",
+        "onboard_time": 1677395307,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78667,
+        "num": 78667,
+        "word": "刘令姿出发巴黎时装周机场图",
+        "onboard_time": 1677396806,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 72635,
+        "num": 72635,
+        "word": "梵音瑜伽首次公开回应会员表示不买账",
+        "onboard_time": 1677406589,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的人民情怀#"
+    }
+  }
+}

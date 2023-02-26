@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677404021756,
+  "endTime": 1677406765742,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -587,6 +587,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1778670,
+      "num": 1778670,
+      "word": "甲流",
+      "onboard_time": 1676991039,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1758937,
+      "num": 1758937,
+      "word": "刘亚仁一年内注射异丙酚73次",
+      "onboard_time": 1677405268,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1757306,
       "num": 1757306,
       "word": "拜登抵达基辅",
@@ -744,14 +760,6 @@
       "word": "丫丫或于4月7日合同到期时回国",
       "onboard_time": 1677168505,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1582460,
-      "num": 1582460,
-      "word": "甲流",
-      "onboard_time": 1676991039,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1747,6 +1755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1028254,
+      "num": 323970,
+      "word": "向佐瘦了好多",
+      "onboard_time": 1677404847,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1027758,
       "num": 1027758,
       "word": "蒲熠星 我一路走来惊心动魄",
@@ -2233,6 +2249,14 @@
       "onboard_time": 1677246874,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 903285,
+      "num": 903285,
+      "word": "泽连斯基希望与中方会面",
+      "onboard_time": 1677401306,
+      "rank": 10,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 902217,
@@ -3587,6 +3611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 669901,
+      "num": 315116,
+      "word": "上海地铁内一男子涂鸦致列车停运",
+      "onboard_time": 1677403109,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669710,
       "num": 669710,
       "word": "贡米",
@@ -3953,14 +3985,6 @@
       "onboard_time": 1676848761,
       "rank": 5,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 625053,
-      "num": 625053,
-      "word": "泽连斯基希望与中方会面",
-      "onboard_time": 1677401306,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 624458,
@@ -5289,6 +5313,14 @@
       "onboard_time": 1677069508,
       "rank": 26,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 492137,
+      "num": 492137,
+      "word": "福宝和爷爷",
+      "onboard_time": 1677402567,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 491943,
@@ -7819,6 +7851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339079,
+      "num": 339079,
+      "word": "男子在自家鱼塘电鱼被罚500元",
+      "onboard_time": 1677404729,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338979,
       "num": 338979,
       "word": "德云社节目单",
@@ -7953,6 +7993,14 @@
       "onboard_time": 1676955636,
       "rank": 36,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 334850,
+      "num": 334850,
+      "word": "唐嫣被吓哭了",
+      "onboard_time": 1677405388,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 334440,
@@ -8355,14 +8403,6 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 315116,
-      "num": 315116,
-      "word": "上海地铁内一男子涂鸦致列车停运",
-      "onboard_time": 1677403109,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314664,
       "num": 296541,
       "word": "唐艺昕发文告别陈兰青",
@@ -8635,6 +8675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297753,
+      "num": 297753,
+      "word": "Hero让二追三",
+      "onboard_time": 1677404970,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297712,
       "num": 297712,
       "word": "塔图姆绝杀76人",
@@ -8809,14 +8857,6 @@
       "onboard_time": 1676980231,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291893,
-      "num": 291893,
-      "word": "福宝和爷爷",
-      "onboard_time": 1677402567,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 291134,
@@ -9219,6 +9259,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 273222,
+      "num": 273222,
+      "word": "网友在张大大直播间洗澡",
+      "onboard_time": 1677402206,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273130,
       "num": 273130,
       "word": "猫咪有时间观念吗",
@@ -9545,14 +9593,6 @@
       "onboard_time": 1677137190,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 260169,
-      "num": 260169,
-      "word": "网友在张大大直播间洗澡",
-      "onboard_time": 1677402206,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 260048,
@@ -10355,6 +10395,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 228574,
+      "num": 228574,
+      "word": "路人镜头下的张雨绮身材",
+      "onboard_time": 1677406229,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228367,
       "num": 228367,
       "word": "明中严冰be了",
@@ -10520,6 +10568,14 @@
       "word": "11个果冻242元价格离谱吗",
       "onboard_time": 1677297992,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223801,
+      "num": 223801,
+      "word": "泰山站候车乘客集体呼呼大睡",
+      "onboard_time": 1677404667,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -11120,6 +11176,14 @@
       "word": "杨超越是懂端水的",
       "onboard_time": 1676957191,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 204093,
+      "num": 204093,
+      "word": "毒舌律师票房破5000万",
+      "onboard_time": 1677403469,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -11955,6 +12019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184778,
+      "num": 184778,
+      "word": "无畏澜好秀",
+      "onboard_time": 1677405988,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184769,
       "num": 184769,
       "word": "李兰迪绿色毛衣下午茶随拍",
@@ -12105,6 +12177,14 @@
       "onboard_time": 1677118406,
       "rank": 30,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 181443,
+      "num": 181443,
+      "word": "四川发生非煤矿山顶板事故已致5死",
+      "onboard_time": 1677403648,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 181414,
@@ -12481,14 +12561,6 @@
       "onboard_time": 1677070650,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171633,
-      "num": 171633,
-      "word": "毒舌律师票房破5000万",
-      "onboard_time": 1677403469,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 171608,
@@ -12993,6 +13065,14 @@
       "onboard_time": 1676896109,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158994,
+      "num": 158994,
+      "word": "星痕貂蝉一舞绝杀",
+      "onboard_time": 1677404006,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 158892,
@@ -13689,6 +13769,14 @@
       "onboard_time": 1677335369,
       "rank": 47,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 137559,
+      "num": 137559,
+      "word": "aespa演唱会现场人工手动礼炮",
+      "onboard_time": 1677405508,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 136925,
@@ -14403,6 +14491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107252,
+      "num": 107252,
+      "word": "网友偶遇曾黎合照",
+      "onboard_time": 1677404188,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106395,
       "num": 106395,
       "word": "春天的脚步到哪里了",
@@ -14587,14 +14683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89458,
-      "num": 89458,
-      "word": "星痕貂蝉一舞绝杀",
-      "onboard_time": 1677404006,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 88615,
       "num": 88615,
       "word": "王一博无名破9亿剧照",
@@ -14633,14 +14721,6 @@
       "onboard_time": 1677254455,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 83653,
-      "num": 83653,
-      "word": "四川发生非煤矿山顶板事故已致5死",
-      "onboard_time": 1677403648,
-      "rank": 44,
-      "category": "社会负面"
     },
     {
       "raw_hot": 83354,
@@ -14731,6 +14811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 72635,
+      "num": 72635,
+      "word": "梵音瑜伽首次公开回应会员表示不买账",
+      "onboard_time": 1677406589,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 72416,
       "num": 72416,
       "word": "健康路成郑州干饭顶流",
@@ -14804,7 +14892,7 @@
     },
     {
       "raw_hot": 57344,
-      "num": 944394,
+      "num": 1266418,
       "word": "春季传染病防治热点问题解答",
       "onboard_time": 1677385525,
       "rank": 2,
