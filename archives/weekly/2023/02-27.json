@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677446149959,
+  "endTime": 1677447215687,
   "band_list": [
     {
       "raw_hot": 1500507,
@@ -515,28 +515,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30251,
-      "num": 30251,
-      "word": "没有情为夜昙掏空钱包",
-      "onboard_time": 1677424353,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 34029,
+      "num": 17744,
+      "word": "泽连斯基展示过去一年住所房间",
+      "onboard_time": 1677443232,
+      "rank": 47,
+      "category": "国外要闻"
     },
     {
-      "raw_hot": 29011,
-      "num": 29011,
+      "raw_hot": 32690,
+      "num": 32690,
       "word": "男子吃完饭发现车被新装护栏挡住",
       "onboard_time": 1677442031,
       "rank": 40,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28667,
-      "num": 16932,
-      "word": "泽连斯基展示过去一年住所房间",
-      "onboard_time": 1677443232,
-      "rank": 47,
-      "category": "国外要闻"
+      "raw_hot": 30251,
+      "num": 30251,
+      "word": "没有情为夜昙掏空钱包",
+      "onboard_time": 1677424353,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 21307,
@@ -547,8 +547,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 16352,
-      "num": 16352,
+      "raw_hot": 17859,
+      "num": 17859,
       "word": "被一只小狗碰瓷了",
       "onboard_time": 1677442451,
       "rank": 47,

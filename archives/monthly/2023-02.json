@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677446149959,
+  "endTime": 1677447215687,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -58251,12 +58251,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 34029,
+      "num": 17744,
+      "word": "泽连斯基展示过去一年住所房间",
+      "onboard_time": 1677443232,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 33516,
       "num": 217448,
       "word": "饿了么免单鱼档出题",
       "onboard_time": 1676692827,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 32690,
+      "num": 32690,
+      "word": "男子吃完饭发现车被新装护栏挡住",
+      "onboard_time": 1677442031,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32689,
@@ -58315,14 +58331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 29011,
-      "num": 29011,
-      "word": "男子吃完饭发现车被新装护栏挡住",
-      "onboard_time": 1677442031,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28810,
       "num": 28810,
       "word": "UP战胜AL",
@@ -58337,14 +58345,6 @@
       "onboard_time": 1675791854,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28667,
-      "num": 16932,
-      "word": "泽连斯基展示过去一年住所房间",
-      "onboard_time": 1677443232,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 28655,
@@ -58523,6 +58523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 17859,
+      "num": 17859,
+      "word": "被一只小狗碰瓷了",
+      "onboard_time": 1677442451,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16380,
       "num": 16380,
       "word": "五世同堂排排坐接龙喊妈妈",
@@ -58537,14 +58545,6 @@
       "onboard_time": 1676922911,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 16352,
-      "num": 16352,
-      "word": "被一只小狗碰瓷了",
-      "onboard_time": 1677442451,
-      "rank": 47,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
