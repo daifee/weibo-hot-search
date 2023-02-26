@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677414931296,
+  "endTime": 1677416010818,
   "band_list": [
     {
       "raw_hot": 2293120,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1431948,
+      "num": 1431948,
+      "word": "辣目被打伤",
+      "onboard_time": 1677415229,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1313561,
       "num": 1313561,
       "word": "到底是考公难还是考研难",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1028254,
-      "num": 384438,
+      "num": 430742,
       "word": "向佐瘦了好多",
       "onboard_time": 1677404847,
       "rank": 10,
@@ -313,6 +321,14 @@
       "onboard_time": 1677384508,
       "rank": 20,
       "category": "情感,社会议题"
+    },
+    {
+      "raw_hot": 701251,
+      "num": 460375,
+      "word": "妻子想卖房救重病儿子遭丈夫反对",
+      "onboard_time": 1677414569,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 695527,
@@ -723,6 +739,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 356281,
+      "num": 356281,
+      "word": "光渊什么时候更新",
+      "onboard_time": 1677414689,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 344313,
       "num": 344313,
       "word": "INTO1新歌是刘彰写的",
@@ -777,6 +801,14 @@
       "onboard_time": 1677339088,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313319,
+      "num": 313319,
+      "word": "张新成录音室工作照",
+      "onboard_time": 1677415229,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 310037,
@@ -931,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246247,
+      "num": 246247,
+      "word": "乌克兰回应泽连斯基替身",
+      "onboard_time": 1677414329,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244911,
       "num": 244911,
       "word": "Hero对战XYG",
@@ -1019,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227632,
+      "num": 227632,
+      "word": "TTG对战DRG",
+      "onboard_time": 1677415892,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227391,
       "num": 227391,
       "word": "做饭扫地就喘得不行一定要高度警惕",
@@ -1091,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213434,
+      "num": 213434,
+      "word": "A股第一代庄家吕梁去世",
+      "onboard_time": 1677413488,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 213339,
       "num": 213339,
       "word": "武汉大学的早樱终于开了",
@@ -1121,22 +1177,6 @@
       "onboard_time": 1677410069,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209499,
-      "num": 180677,
-      "word": "乌克兰回应泽连斯基替身",
-      "onboard_time": 1677414329,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207901,
-      "num": 207901,
-      "word": "A股第一代庄家吕梁去世",
-      "onboard_time": 1677413488,
-      "rank": 23,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 207843,
@@ -1177,6 +1217,14 @@
       "onboard_time": 1677391948,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201639,
+      "num": 201639,
+      "word": "WBG",
+      "onboard_time": 1677415108,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 197665,
@@ -1241,14 +1289,6 @@
       "onboard_time": 1677405988,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183797,
-      "num": 183797,
-      "word": "光渊什么时候更新",
-      "onboard_time": 1677414689,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 183710,
@@ -1329,14 +1369,6 @@
       "onboard_time": 1677325049,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 173537,
-      "num": 173537,
-      "word": "妻子想卖房救重病儿子遭丈夫反对",
-      "onboard_time": 1677414569,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173273,
@@ -1675,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119515,
+      "num": 119515,
+      "word": "热刺vs切尔西",
+      "onboard_time": 1677415592,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119086,
       "num": 119086,
       "word": "热依扎隐忍式哭戏",
@@ -1788,7 +1828,7 @@
     },
     {
       "raw_hot": 83729,
-      "num": 843417,
+      "num": 1083874,
       "word": "雷锋精神永不过时",
       "onboard_time": 1677412526,
       "rank": 2,
