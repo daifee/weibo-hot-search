@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677403075963,
+  "endTime": 1677404021756,
   "band_list": [
     {
       "raw_hot": 2293120,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1073908,
+      "num": 1073908,
+      "word": "甲流",
+      "onboard_time": 1677325649,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 996624,
       "num": 727328,
       "word": "王俊凯给八中学子送祝福",
@@ -153,6 +161,14 @@
       "onboard_time": 1677371126,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 816494,
+      "num": 662328,
+      "word": "严屹宽白发",
+      "onboard_time": 1677402265,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 811458,
@@ -251,14 +267,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 662328,
-      "num": 662328,
-      "word": "严屹宽白发",
-      "onboard_time": 1677402265,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 645811,
       "num": 645811,
       "word": "在张大大直播间笑死",
@@ -281,6 +289,14 @@
       "onboard_time": 1677383251,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 625053,
+      "num": 625053,
+      "word": "泽连斯基希望与中方会面",
+      "onboard_time": 1677401306,
+      "rank": 10,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 602529,
@@ -393,14 +409,6 @@
       "onboard_time": 1677365776,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 487890,
-      "num": 335679,
-      "word": "泽连斯基希望与中方会面",
-      "onboard_time": 1677401306,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 444509,
@@ -539,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359780,
+      "num": 359780,
+      "word": "陈星旭李兰迪南京",
+      "onboard_time": 1677398667,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358113,
       "num": 358113,
       "word": "王濛风波后首现身",
@@ -563,12 +579,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 339468,
-      "num": 339468,
-      "word": "陈星旭李兰迪南京",
-      "onboard_time": 1677398667,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 339354,
+      "num": 339354,
+      "word": "甲流和新冠症状上有哪些区别",
+      "onboard_time": 1677401967,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330856,
@@ -585,6 +601,14 @@
       "onboard_time": 1677337495,
       "rank": 8,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 315116,
+      "num": 315116,
+      "word": "上海地铁内一男子涂鸦致列车停运",
+      "onboard_time": 1677403109,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314664,
@@ -627,11 +651,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291893,
+      "num": 291893,
+      "word": "福宝和爷爷",
+      "onboard_time": 1677402567,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284562,
       "num": 284562,
       "word": "INTO1海外活动官宣",
       "onboard_time": 1677380670,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281538,
+      "num": 281538,
+      "word": "金硕珍回应郑号锡入伍",
+      "onboard_time": 1677403707,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -641,6 +681,14 @@
       "onboard_time": 1677384266,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271771,
+      "num": 271771,
+      "word": "女孩骨折住院趁导师看望时请教论文",
+      "onboard_time": 1677400587,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 266584,
@@ -657,6 +705,14 @@
       "onboard_time": 1677367157,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 260169,
+      "num": 260169,
+      "word": "网友在张大大直播间洗澡",
+      "onboard_time": 1677402206,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 258677,
@@ -697,14 +753,6 @@
       "onboard_time": 1677330149,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 248713,
-      "num": 248713,
-      "word": "女孩骨折住院趁导师看望时请教论文",
-      "onboard_time": 1677400587,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 244911,
@@ -795,28 +843,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224858,
-      "num": 224858,
-      "word": "甲流和新冠症状上有哪些区别",
-      "onboard_time": 1677401967,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224689,
       "num": 224689,
       "word": "你好星期六下期预告",
       "onboard_time": 1677337950,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221794,
-      "num": 221794,
-      "word": "甲流",
-      "onboard_time": 1677325649,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219626,
@@ -881,14 +913,6 @@
       "onboard_time": 1677377489,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207133,
-      "num": 207133,
-      "word": "网友在张大大直播间洗澡",
-      "onboard_time": 1677402206,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 206701,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1677337495,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171633,
+      "num": 171633,
+      "word": "毒舌律师票房破5000万",
+      "onboard_time": 1677403469,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 170804,
@@ -1259,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141154,
-      "num": 141154,
-      "word": "福宝和爷爷",
-      "onboard_time": 1677402567,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 139364,
       "num": 139364,
       "word": "AG对战EDGM",
@@ -1393,6 +1417,22 @@
       "onboard_time": 1677335791,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 89458,
+      "num": 89458,
+      "word": "星痕貂蝉一舞绝杀",
+      "onboard_time": 1677404006,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 83653,
+      "num": 83653,
+      "word": "四川发生非煤矿山顶板事故已致5死",
+      "onboard_time": 1677403648,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 83354,
