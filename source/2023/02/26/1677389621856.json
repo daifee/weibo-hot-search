@@ -1,0 +1,410 @@
+{
+  "runTime": 1677389621856,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1048788,
+        "num": 1048788,
+        "word": "乐乐死因初步确定为心脏病变",
+        "onboard_time": 1677375990,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915054,
+        "num": 915054,
+        "word": "到底是考公难还是考研难",
+        "onboard_time": 1677382528,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 46319,
+        "num": 735760,
+        "word": "春季传染病防治热点问题解答",
+        "onboard_time": 1677385525,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1080700,
+        "num": 730990,
+        "word": "老人疑因男生公交上未让座将其骂哭",
+        "onboard_time": 1677384146,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965717,
+        "num": 727328,
+        "word": "王俊凯给八中学子送祝福",
+        "onboard_time": 1677387691,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677697,
+        "num": 677697,
+        "word": "如何看待子女冠姓权给女方",
+        "onboard_time": 1677384508,
+        "rank": 5,
+        "category": "情感,社会议题"
+      },
+      {
+        "raw_hot": 616934,
+        "num": 616934,
+        "word": "早年的婚纱照能有多离谱",
+        "onboard_time": 1677381689,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 613237,
+        "num": 613237,
+        "word": "夜市偶遇张颂文",
+        "onboard_time": 1677382349,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483617,
+        "num": 483617,
+        "word": "张新成付辛博 时尚芭莎",
+        "onboard_time": 1677389067,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 430454,
+        "num": 430454,
+        "word": "大爷怒斥夜市悬挂日式雨伞",
+        "onboard_time": 1677383367,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419329,
+        "num": 419329,
+        "word": "杨紫范丞丞片场抓代拍",
+        "onboard_time": 1677387991,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393939,
+        "num": 393939,
+        "word": "中国男篮vs伊朗男篮",
+        "onboard_time": 1677386190,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377579,
+        "num": 377579,
+        "word": "王宝强叫高叶大嫂",
+        "onboard_time": 1677376409,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 362540,
+        "num": 362540,
+        "word": "刘诗诗捧花视频",
+        "onboard_time": 1677382592,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 356306,
+        "num": 356306,
+        "word": "权顺荣 签售",
+        "onboard_time": 1677383251,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355587,
+        "num": 355587,
+        "word": "我国适龄女孩HPV疫苗接种率不到1%",
+        "onboard_time": 1677380908,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321355,
+        "num": 321355,
+        "word": "还记得那个承诺包1年家务的丈夫吗",
+        "onboard_time": 1677377369,
+        "rank": 16,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 316594,
+        "num": 316594,
+        "word": "王楚然出发巴黎时装周",
+        "onboard_time": 1677385107,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 316472,
+        "num": 316472,
+        "word": "INTO1新歌是刘彰写的",
+        "onboard_time": 1677386429,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263750,
+        "num": 263750,
+        "word": "老默唐小虎 我们的客栈",
+        "onboard_time": 1677376950,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247406,
+        "num": 247406,
+        "word": "丫丫毛发脱落系皮肤病所致",
+        "onboard_time": 1677382110,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243695,
+        "num": 243695,
+        "word": "中方已为接返丫丫做好准备",
+        "onboard_time": 1677375447,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237029,
+        "num": 237029,
+        "word": "塔图姆绝杀76人",
+        "onboard_time": 1677386429,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234494,
+        "num": 234494,
+        "word": "郑业成耳朵红了",
+        "onboard_time": 1677384266,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232487,
+        "num": 232487,
+        "word": "中国留学生遇害案校方赔500万美元",
+        "onboard_time": 1677380249,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 220554,
+        "num": 220554,
+        "word": "乐乐丫丫早期旅美的视频",
+        "onboard_time": 1677386190,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219207,
+        "num": 219207,
+        "word": "刘德华说想和黄子华拍喜剧",
+        "onboard_time": 1677383608,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203453,
+        "num": 203453,
+        "word": "张杰宋亚轩合唱幕后花絮",
+        "onboard_time": 1677389429,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185611,
+        "num": 185611,
+        "word": "老人捐出珍藏半世纪的8600多枚火花",
+        "onboard_time": 1677374966,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179876,
+        "num": 179876,
+        "word": "中方对丫丫饲养护理向美方提出要求",
+        "onboard_time": 1677377427,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179779,
+        "num": 179779,
+        "word": "男子癫痫倒地2名战士紧急抢救",
+        "onboard_time": 1677387568,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 171836,
+        "num": 171836,
+        "word": "高三女孩热血发言燃爆全场",
+        "onboard_time": 1677373887,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 168217,
+        "num": 168217,
+        "word": "7旬大爷头婚摆11桌迎娶6旬新娘",
+        "onboard_time": 1677379769,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156192,
+        "num": 156192,
+        "word": "接种HPV疫苗为什么重要",
+        "onboard_time": 1677370163,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154807,
+        "num": 154807,
+        "word": "47岁丘索维金娜体操世界杯摘铜",
+        "onboard_time": 1677380549,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152509,
+        "num": 152509,
+        "word": "北京二手房成交量大涨96%",
+        "onboard_time": 1677370285,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 151326,
+        "num": 151326,
+        "word": "女子委托储存胎盘5年后干细胞丢失",
+        "onboard_time": 1677379528,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151033,
+        "num": 151033,
+        "word": "高铁站殴打女童女子系亲生母亲",
+        "onboard_time": 1677377847,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 149441,
+        "num": 149441,
+        "word": "为何寺庙旅游在90后00后中爆火",
+        "onboard_time": 1677376347,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 148723,
+        "num": 148723,
+        "word": "刘雯米兰时装周再度闭场",
+        "onboard_time": 1677373288,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140383,
+        "num": 140383,
+        "word": "贡米",
+        "onboard_time": 1677374547,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133780,
+        "num": 133780,
+        "word": "洗碗工大爷学校餐厅弹钢琴",
+        "onboard_time": 1677387028,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127498,
+        "num": 127498,
+        "word": "无所谓国家队会出手",
+        "onboard_time": 1677380068,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119670,
+        "num": 119670,
+        "word": "竹子究竟是草还是树",
+        "onboard_time": 1677383967,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116811,
+        "num": 116811,
+        "word": "为前两秒的不耐烦道歉",
+        "onboard_time": 1677367157,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115600,
+        "num": 115600,
+        "word": "佘诗曼韩雪 青蛇",
+        "onboard_time": 1677371126,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108537,
+        "num": 108537,
+        "word": "赵樱子版聂小倩",
+        "onboard_time": 1677371187,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99591,
+        "num": 99591,
+        "word": "TF家族和你一起去做的第十六件事",
+        "onboard_time": 1677385049,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91761,
+        "num": 91761,
+        "word": "唯有知识的光可以照亮前路",
+        "onboard_time": 1677386547,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90677,
+        "num": 90677,
+        "word": "中国男篮半场落后3分",
+        "onboard_time": 1677389607,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#up新时代中国#"
+    }
+  }
+}
