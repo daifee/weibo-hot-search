@@ -1,0 +1,410 @@
+{
+  "runTime": 1677453529366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 583543,
+        "num": 583543,
+        "word": "曼联夺冠",
+        "onboard_time": 1677437113,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438556,
+        "num": 438556,
+        "word": "普京说世界必须改变",
+        "onboard_time": 1677425672,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 44638,
+        "num": 420802,
+        "word": "无人机看五彩春耕画卷",
+        "onboard_time": 1677421713,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947215,
+        "num": 418793,
+        "word": "周杰说张颂文火了我特别高兴",
+        "onboard_time": 1677424771,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405849,
+        "num": 405849,
+        "word": "别给孩子用磁性文具",
+        "onboard_time": 1677427048,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335224,
+        "num": 335224,
+        "word": "妻子想卖房救重病儿子遭丈夫反对",
+        "onboard_time": 1677414569,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320236,
+        "num": 320236,
+        "word": "甲流",
+        "onboard_time": 1677402925,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306661,
+        "num": 306661,
+        "word": "丫丫除毛发脱落外多项指标正常",
+        "onboard_time": 1677439693,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234040,
+        "num": 234040,
+        "word": "王鸥演的不忍直视",
+        "onboard_time": 1677425552,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222772,
+        "num": 222772,
+        "word": "全国超9成小城市房价不过万元",
+        "onboard_time": 1677410009,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 631426,
+        "num": 220463,
+        "word": "碎尸案风波中的谭仔国际",
+        "onboard_time": 1677440712,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 363790,
+        "num": 215132,
+        "word": "感染甲流大部分都是轻症",
+        "onboard_time": 1677452117,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282940,
+        "num": 211204,
+        "word": "刘亚仁一年内注射异丙酚73次",
+        "onboard_time": 1677405268,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 276837,
+        "num": 200789,
+        "word": "肖战在意大利吃川菜",
+        "onboard_time": 1677421413,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262911,
+        "num": 198740,
+        "word": "特朗普称破坏北溪的不是俄罗斯",
+        "onboard_time": 1677440351,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 194648,
+        "num": 194648,
+        "word": "宋祖儿刘宇宁折腰互动路透",
+        "onboard_time": 1677452779,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181183,
+        "num": 181183,
+        "word": "钝评我是小妖怪",
+        "onboard_time": 1677434834,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132149,
+        "num": 132149,
+        "word": "泽连斯基展示过去一年住所房间",
+        "onboard_time": 1677443232,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 128982,
+        "num": 128982,
+        "word": "男子吃完饭发现车被新装护栏挡住",
+        "onboard_time": 1677442031,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120255,
+        "num": 120255,
+        "word": "一家三猴为什么就它长相炸裂",
+        "onboard_time": 1677411927,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367151,
+        "num": 119952,
+        "word": "辣目被打伤",
+        "onboard_time": 1677415229,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151673,
+        "num": 119443,
+        "word": "诛仙 六公主",
+        "onboard_time": 1677416614,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118570,
+        "num": 118570,
+        "word": "杨芸晴泰国第一份工作vlog",
+        "onboard_time": 1677429144,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117088,
+        "num": 117088,
+        "word": "甲流就是流感吗",
+        "onboard_time": 1677452660,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110532,
+        "num": 110532,
+        "word": "孔雪儿李硕珉合照",
+        "onboard_time": 1677422972,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105906,
+        "num": 105906,
+        "word": "虞书欣菱格毛衣上班路透",
+        "onboard_time": 1677432557,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102042,
+        "num": 102042,
+        "word": "解放军军机强硬拦截美军机",
+        "onboard_time": 1677407550,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 101595,
+        "num": 101595,
+        "word": "公司老板是一只猫吧",
+        "onboard_time": 1677429862,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101567,
+        "num": 101567,
+        "word": "向佐瘦了好多",
+        "onboard_time": 1677404847,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98449,
+        "num": 98449,
+        "word": "上海地铁内一男子涂鸦致列车停运",
+        "onboard_time": 1677403109,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95096,
+        "num": 95096,
+        "word": "刘宇说讨厌INTO1要解散了",
+        "onboard_time": 1677418413,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92134,
+        "num": 92134,
+        "word": "乌克兰回应泽连斯基替身",
+        "onboard_time": 1677414329,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81580,
+        "num": 81580,
+        "word": "狂飙中最惨的人",
+        "onboard_time": 1677410129,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80917,
+        "num": 80917,
+        "word": "被一只小狗碰瓷了",
+        "onboard_time": 1677442451,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79007,
+        "num": 79007,
+        "word": "马赛0比3巴黎圣日耳曼",
+        "onboard_time": 1677453502,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75653,
+        "num": 75653,
+        "word": "建议监督8小时工作制执行",
+        "onboard_time": 1677453319,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73575,
+        "num": 73575,
+        "word": "警方回应男子在自家鱼塘电鱼被处罚",
+        "onboard_time": 1677408688,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71957,
+        "num": 71957,
+        "word": "毕雯珺送李一桐玲娜贝儿",
+        "onboard_time": 1677429264,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70286,
+        "num": 70286,
+        "word": "疑似泽连斯基替身被媒体拍到",
+        "onboard_time": 1677409230,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67278,
+        "num": 67278,
+        "word": "梅西俱乐部700球",
+        "onboard_time": 1677453442,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67017,
+        "num": 67017,
+        "word": "有才的人甚至连笔都不用",
+        "onboard_time": 1677420392,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62682,
+        "num": 62682,
+        "word": "切尔西",
+        "onboard_time": 1677423212,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61921,
+        "num": 61921,
+        "word": "党和国家机构改革方案",
+        "onboard_time": 1677405868,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 59315,
+        "num": 59315,
+        "word": "张大大说王鹤棣特别好",
+        "onboard_time": 1677422194,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59120,
+        "num": 59120,
+        "word": "湖人vs独行侠",
+        "onboard_time": 1677453442,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57516,
+        "num": 57516,
+        "word": "朱一龙晒印尼随拍",
+        "onboard_time": 1677417934,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53252,
+        "num": 53252,
+        "word": "张九龄王九龙怕是回不去德云社了",
+        "onboard_time": 1677424529,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52864,
+        "num": 52864,
+        "word": "蔡卓妍巴黎时装周出发随拍",
+        "onboard_time": 1677425970,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45660,
+        "num": 45660,
+        "word": "路人镜头下的张雨绮身材",
+        "onboard_time": 1677406229,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44580,
+        "num": 44580,
+        "word": "羽生结弦冰演感言",
+        "onboard_time": 1677430879,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届二中全会#"
+    }
+  }
+}
