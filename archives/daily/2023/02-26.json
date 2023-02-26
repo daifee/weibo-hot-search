@@ -1,7 +1,15 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677416010818,
+  "endTime": 1677417830249,
   "band_list": [
+    {
+      "raw_hot": 2618388,
+      "num": 2618388,
+      "word": "辣目被打伤",
+      "onboard_time": 1677415229,
+      "rank": 0,
+      "category": "影视"
+    },
     {
       "raw_hot": 2293120,
       "num": 2293120,
@@ -33,6 +41,14 @@
       "onboard_time": 1677399566,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1669467,
+      "num": 1669467,
+      "word": "诛仙 六公主",
+      "onboard_time": 1677416614,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1634495,
@@ -67,20 +83,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1431948,
-      "num": 1431948,
-      "word": "辣目被打伤",
-      "onboard_time": 1677415229,
-      "rank": 0,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1313561,
       "num": 1313561,
       "word": "到底是考公难还是考研难",
       "onboard_time": 1677382528,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1207422,
+      "num": 1207422,
+      "word": "妻子想卖房救重病儿子遭丈夫反对",
+      "onboard_time": 1677414569,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1182510,
@@ -321,14 +337,6 @@
       "onboard_time": 1677384508,
       "rank": 20,
       "category": "情感,社会议题"
-    },
-    {
-      "raw_hot": 701251,
-      "num": 460375,
-      "word": "妻子想卖房救重病儿子遭丈夫反对",
-      "onboard_time": 1677414569,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 695527,
@@ -579,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 448486,
+      "num": 448486,
+      "word": "王一博无名戗驳领西装形象硬朗",
+      "onboard_time": 1677416735,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 444509,
       "num": 444509,
       "word": "张杰模仿高启强走路",
@@ -635,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423281,
+      "num": 423281,
+      "word": "张新成录音室工作照",
+      "onboard_time": 1677415229,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420187,
       "num": 420187,
       "word": "中国男篮战胜伊朗男篮",
@@ -673,6 +697,14 @@
       "onboard_time": 1677386190,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 391691,
+      "num": 391691,
+      "word": "LNG战胜WBG",
+      "onboard_time": 1677417093,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 389047,
@@ -747,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355442,
+      "num": 355442,
+      "word": "张大大直播",
+      "onboard_time": 1677416072,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344313,
       "num": 344313,
       "word": "INTO1新歌是刘彰写的",
@@ -803,14 +843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 313319,
-      "num": 313319,
-      "word": "张新成录音室工作照",
-      "onboard_time": 1677415229,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 310037,
       "num": 310037,
       "word": "省考",
@@ -824,6 +856,14 @@
       "word": "泰山站候车乘客集体呼呼大睡",
       "onboard_time": 1677404667,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302752,
+      "num": 302752,
+      "word": "乌克兰回应泽连斯基替身",
+      "onboard_time": 1677414329,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -907,6 +947,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 267454,
+      "num": 234744,
+      "word": "拍照的人",
+      "onboard_time": 1677416072,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 266584,
       "num": 266584,
       "word": "旅美大熊猫乐乐是如何离世的",
@@ -963,14 +1011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 246247,
-      "num": 246247,
-      "word": "乌克兰回应泽连斯基替身",
-      "onboard_time": 1677414329,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244911,
       "num": 244911,
       "word": "Hero对战XYG",
@@ -993,6 +1033,14 @@
       "onboard_time": 1677393447,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 240447,
+      "num": 240447,
+      "word": "WBG对战LNG",
+      "onboard_time": 1677410069,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 239098,
@@ -1091,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219383,
+      "num": 219383,
+      "word": "A股第一代庄家吕梁去世",
+      "onboard_time": 1677413488,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 218327,
       "num": 218327,
       "word": "李一桐夹子音",
@@ -1139,14 +1195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213434,
-      "num": 213434,
-      "word": "A股第一代庄家吕梁去世",
-      "onboard_time": 1677413488,
-      "rank": 23,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 213339,
       "num": 213339,
       "word": "武汉大学的早樱终于开了",
@@ -1169,14 +1217,6 @@
       "onboard_time": 1677403648,
       "rank": 44,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 209630,
-      "num": 209630,
-      "word": "WBG对战LNG",
-      "onboard_time": 1677410069,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 207843,
@@ -1228,7 +1268,7 @@
     },
     {
       "raw_hot": 197665,
-      "num": 189360,
+      "num": 195954,
       "word": "黄奕鼓励看夏花的单亲妈妈追求爱情",
       "onboard_time": 1677414629,
       "rank": 25,
@@ -1827,8 +1867,16 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 90450,
+      "num": 90450,
+      "word": "和困意疯狂斗争的狗狗",
+      "onboard_time": 1677417694,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83729,
-      "num": 1083874,
+      "num": 1397094,
       "word": "雷锋精神永不过时",
       "onboard_time": 1677412526,
       "rank": 2,
