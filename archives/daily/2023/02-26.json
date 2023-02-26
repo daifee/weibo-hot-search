@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677420994302,
+  "endTime": 1677422005937,
   "band_list": [
     {
       "raw_hot": 2640231,
@@ -83,8 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1459697,
-      "num": 1459697,
+      "raw_hot": 1501007,
+      "num": 1501007,
       "word": "刘宇说讨厌INTO1要解散了",
       "onboard_time": 1677418413,
       "rank": 6,
@@ -105,6 +105,14 @@
       "onboard_time": 1677414569,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1205480,
+      "num": 393407,
+      "word": "肖战在意大利吃川菜",
+      "onboard_time": 1677421413,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1182510,
@@ -691,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405480,
+      "num": 392901,
+      "word": "有才的人甚至连笔都不用",
+      "onboard_time": 1677420392,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 402653,
       "num": 402653,
       "word": "张大大早期生图",
@@ -915,8 +931,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 287633,
-      "num": 239029,
+      "raw_hot": 293397,
+      "num": 293397,
       "word": "谢可寅南京livehouse舞台",
       "onboard_time": 1677420573,
       "rank": 21,
@@ -1027,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246823,
+      "num": 246823,
+      "word": "TTG对战DRG",
+      "onboard_time": 1677415892,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244911,
       "num": 244911,
       "word": "Hero对战XYG",
@@ -1116,7 +1140,7 @@
     },
     {
       "raw_hot": 232707,
-      "num": 211583,
+      "num": 213718,
       "word": "朱一龙晒印尼随拍",
       "onboard_time": 1677417934,
       "rank": 31,
@@ -1137,14 +1161,6 @@
       "onboard_time": 1677380549,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227632,
-      "num": 227632,
-      "word": "TTG对战DRG",
-      "onboard_time": 1677415892,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 227391,
@@ -1307,6 +1323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197959,
+      "num": 197959,
+      "word": "李兰迪用鼻孔比心",
+      "onboard_time": 1677421175,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197176,
       "num": 197176,
       "word": "警方回应男子在自家鱼塘电鱼被处罚",
@@ -1385,6 +1409,14 @@
       "onboard_time": 1677394588,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180238,
+      "num": 180238,
+      "word": "最晚被解密的两弹一星元勋",
+      "onboard_time": 1677419853,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179779,
@@ -1475,6 +1507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171209,
+      "num": 171209,
+      "word": "薛凯琪现场",
+      "onboard_time": 1677421355,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 170804,
       "num": 170804,
       "word": "孔雪儿绿色镂空纱裙造型",
@@ -1489,14 +1529,6 @@
       "onboard_time": 1677375867,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168651,
-      "num": 168651,
-      "word": "有才的人甚至连笔都不用",
-      "onboard_time": 1677420392,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 168174,
@@ -1617,14 +1649,6 @@
       "onboard_time": 1677372746,
       "rank": 32,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 151068,
-      "num": 151068,
-      "word": "最晚被解密的两弹一星元勋",
-      "onboard_time": 1677419853,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150737,
@@ -2137,6 +2161,14 @@
       "onboard_time": 1677340050,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 18323,
+      "num": 998485,
+      "word": "无人机看五彩春耕画卷",
+      "onboard_time": 1677421713,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

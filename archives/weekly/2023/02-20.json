@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677420994302,
+  "endTime": 1677422005937,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -875,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1501007,
+      "num": 1501007,
+      "word": "刘宇说讨厌INTO1要解散了",
+      "onboard_time": 1677418413,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1472966,
       "num": 1472966,
       "word": "乌克兰要求停售原子之心",
@@ -889,14 +897,6 @@
       "onboard_time": 1676946811,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1459697,
-      "num": 1459697,
-      "word": "刘宇说讨厌INTO1要解散了",
-      "onboard_time": 1677418413,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1458439,
@@ -1367,6 +1367,14 @@
       "num": 1209062,
       "word": "小龙人贝贝扮演者去世",
       "onboard_time": 1676868755,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1205480,
+      "num": 393407,
+      "word": "肖战在意大利吃川菜",
+      "onboard_time": 1677421413,
       "rank": 11,
       "category": "艺人"
     },
@@ -6635,6 +6643,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 405480,
+      "num": 392901,
+      "word": "有才的人甚至连笔都不用",
+      "onboard_time": 1677420392,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 404746,
       "num": 404746,
       "word": "教体局回应小学副班长受贿数万元",
@@ -9019,6 +9035,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 293397,
+      "num": 293397,
+      "word": "谢可寅南京livehouse舞台",
+      "onboard_time": 1677420573,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 292840,
       "num": 292840,
       "word": "boss回应女子因未婚未育应聘被拒",
@@ -9129,14 +9153,6 @@
       "onboard_time": 1676852069,
       "rank": 20,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 287633,
-      "num": 239029,
-      "word": "谢可寅南京livehouse舞台",
-      "onboard_time": 1677420573,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 287528,
@@ -10131,6 +10147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246823,
+      "num": 246823,
+      "word": "TTG对战DRG",
+      "onboard_time": 1677415892,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246501,
       "num": 246501,
       "word": "利物浦2比5皇马",
@@ -10500,7 +10524,7 @@
     },
     {
       "raw_hot": 232707,
-      "num": 211583,
+      "num": 213718,
       "word": "朱一龙晒印尼随拍",
       "onboard_time": 1677417934,
       "rank": 31,
@@ -10681,14 +10705,6 @@
       "onboard_time": 1676980890,
       "rank": 39,
       "category": "幽默,网红"
-    },
-    {
-      "raw_hot": 227632,
-      "num": 227632,
-      "word": "TTG对战DRG",
-      "onboard_time": 1677415892,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 227608,
@@ -11747,6 +11763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197959,
+      "num": 197959,
+      "word": "李兰迪用鼻孔比心",
+      "onboard_time": 1677421175,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197833,
       "num": 197833,
       "word": "郑钦文退赛",
@@ -12507,6 +12531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180238,
+      "num": 180238,
+      "word": "最晚被解密的两弹一星元勋",
+      "onboard_time": 1677419853,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180051,
       "num": 180051,
       "word": "六公主赞夏花",
@@ -12891,6 +12923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171209,
+      "num": 171209,
+      "word": "薛凯琪现场",
+      "onboard_time": 1677421355,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 170926,
       "num": 170926,
       "word": "绝意马可波罗太绝了",
@@ -13001,14 +13041,6 @@
       "onboard_time": 1677034711,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168651,
-      "num": 168651,
-      "word": "有才的人甚至连笔都不用",
-      "onboard_time": 1677420392,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 168443,
@@ -13689,14 +13721,6 @@
       "onboard_time": 1677076114,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 151068,
-      "num": 151068,
-      "word": "最晚被解密的两弹一星元勋",
-      "onboard_time": 1677419853,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150737,
@@ -15537,6 +15561,14 @@
       "onboard_time": 1677188592,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 18323,
+      "num": 998485,
+      "word": "无人机看五彩春耕画卷",
+      "onboard_time": 1677421713,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16352,
