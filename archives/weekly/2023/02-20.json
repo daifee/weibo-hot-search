@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677396813117,
+  "endTime": 1677399800377,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -2067,6 +2067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 936205,
+      "num": 936205,
+      "word": "SM新女团成员",
+      "onboard_time": 1677399566,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 932842,
       "num": 932842,
       "word": "会计专硕",
@@ -2712,6 +2720,14 @@
       "word": "中国专家已赴美协商丫丫回国事宜",
       "onboard_time": 1677046111,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 782573,
+      "num": 782573,
+      "word": "捡2万现金报警被开除保洁员发声",
+      "onboard_time": 1677394944,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3489,6 +3505,14 @@
       "onboard_time": 1676898930,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 676017,
+      "num": 676017,
+      "word": "梵音瑜伽",
+      "onboard_time": 1677396207,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 675776,
@@ -4955,14 +4979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 513967,
-      "num": 513967,
-      "word": "捡2万现金报警被开除保洁员发声",
-      "onboard_time": 1677394944,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 513722,
       "num": 513722,
       "word": "南派三叔约饭重启主演",
@@ -5361,6 +5377,14 @@
       "onboard_time": 1677053910,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482785,
+      "num": 482785,
+      "word": "研究称过早上课会导致成绩差",
+      "onboard_time": 1677396026,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 481913,
@@ -6307,6 +6331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412812,
+      "num": 390189,
+      "word": "三亚通报博主买海鲜被宰千元事件结果",
+      "onboard_time": 1677398368,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412408,
       "num": 412408,
       "word": "第一次用泡泡的张元英",
@@ -7025,6 +7057,14 @@
       "onboard_time": 1677056012,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371895,
+      "num": 371895,
+      "word": "TheShy说当选手时只想幸福生活",
+      "onboard_time": 1677396147,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 371721,
@@ -9403,6 +9443,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 261341,
+      "num": 261341,
+      "word": "陈星旭李兰迪南京",
+      "onboard_time": 1677398667,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 261241,
       "num": 261241,
       "word": "范伟谈王俊凯敬业态度",
@@ -9595,14 +9643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252956,
-      "num": 172914,
-      "word": "TheShy说当选手时只想幸福生活",
-      "onboard_time": 1677396147,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 252232,
       "num": 252232,
       "word": "流浪地球2徐工集团合作起源",
@@ -9617,6 +9657,14 @@
       "onboard_time": 1677380068,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252172,
+      "num": 252172,
+      "word": "刘令姿出发巴黎时装周机场图",
+      "onboard_time": 1677396806,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 251935,
@@ -9785,6 +9833,14 @@
       "onboard_time": 1677333210,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 244911,
+      "num": 244911,
+      "word": "Hero对战XYG",
+      "onboard_time": 1677394106,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 243723,
@@ -11299,14 +11355,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 196802,
-      "num": 196802,
-      "word": "Hero对战XYG",
-      "onboard_time": 1677394106,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 196724,
       "num": 196724,
       "word": "天空之城将重映",
@@ -11491,14 +11539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192170,
-      "num": 192170,
-      "word": "刘令姿出发巴黎时装周机场图",
-      "onboard_time": 1677396806,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 192144,
       "num": 192144,
       "word": "国内科幻名刊将拒收ChatGPT投稿",
@@ -11523,20 +11563,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190898,
+      "num": 190898,
+      "word": "INTO1苏州签售会饭拍图",
+      "onboard_time": 1677398607,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190723,
       "num": 190723,
       "word": "骆驼界的高启强",
       "onboard_time": 1677126332,
       "rank": 35,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 190684,
-      "num": 190684,
-      "word": "梵音瑜伽",
-      "onboard_time": 1677396207,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190568,
@@ -12283,6 +12323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173273,
+      "num": 173273,
+      "word": "任达华现场观战中国男篮",
+      "onboard_time": 1677396986,
+      "rank": 29,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 172994,
       "num": 172994,
       "word": "孙怡说我是懂算账的",
@@ -12595,6 +12643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165309,
+      "num": 165309,
+      "word": "小伙吐槽尼泊尔摩天轮连门都没有",
+      "onboard_time": 1677395307,
+      "rank": 40,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 165251,
       "num": 141312,
       "word": "利物浦vs皇马",
@@ -12795,14 +12851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160770,
-      "num": 160770,
-      "word": "小伙吐槽尼泊尔摩天轮连门都没有",
-      "onboard_time": 1677395307,
-      "rank": 40,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 160152,
       "num": 160152,
       "word": "九月哭了",
@@ -12825,6 +12873,14 @@
       "onboard_time": 1676879789,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159229,
+      "num": 159229,
+      "word": "保你平安长春路演",
+      "onboard_time": 1677398667,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 159184,
@@ -12857,6 +12913,14 @@
       "onboard_time": 1677228511,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158643,
+      "num": 158643,
+      "word": "羲和鬼谷子好会拉",
+      "onboard_time": 1677398786,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 158535,
@@ -13131,6 +13195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151145,
+      "num": 151145,
+      "word": "李一桐毕雯珺迪士尼合体",
+      "onboard_time": 1677399748,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151108,
       "num": 151108,
       "word": "玄商跳归墟",
@@ -13201,14 +13273,6 @@
       "onboard_time": 1677123869,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149174,
-      "num": 149174,
-      "word": "研究称过早上课会导致成绩差",
-      "onboard_time": 1677396026,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 149113,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677396813117,
+  "endTime": 1677399800377,
   "band_list": [
     {
       "raw_hot": 2293120,
@@ -99,6 +99,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 936205,
+      "num": 936205,
+      "word": "SM新女团成员",
+      "onboard_time": 1677399566,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 932193,
       "num": 932193,
       "word": "我国适龄女孩HPV疫苗接种率不到1%",
@@ -145,6 +153,14 @@
       "onboard_time": 1677389067,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 782573,
+      "num": 782573,
+      "word": "捡2万现金报警被开除保洁员发声",
+      "onboard_time": 1677394944,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 763763,
@@ -209,6 +225,14 @@
       "onboard_time": 1677377369,
       "rank": 42,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 676017,
+      "num": 676017,
+      "word": "梵音瑜伽",
+      "onboard_time": 1677396207,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 669710,
@@ -315,14 +339,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 513967,
-      "num": 513967,
-      "word": "捡2万现金报警被开除保洁员发声",
-      "onboard_time": 1677394944,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 506715,
       "num": 506715,
       "word": "9岁女演员成为柏林电影节最佳主角",
@@ -353,6 +369,14 @@
       "onboard_time": 1677365776,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482785,
+      "num": 482785,
+      "word": "研究称过早上课会导致成绩差",
+      "onboard_time": 1677396026,
+      "rank": 36,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 444509,
@@ -419,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 412812,
+      "num": 390189,
+      "word": "三亚通报博主买海鲜被宰千元事件结果",
+      "onboard_time": 1677398368,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402653,
       "num": 402653,
       "word": "张大大早期生图",
@@ -457,6 +489,14 @@
       "onboard_time": 1677332609,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371895,
+      "num": 371895,
+      "word": "TheShy说当选手时只想幸福生活",
+      "onboard_time": 1677396147,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 367715,
@@ -579,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261341,
+      "num": 261341,
+      "word": "陈星旭李兰迪南京",
+      "onboard_time": 1677398667,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258677,
       "num": 258677,
       "word": "无畏说一切为了季后赛",
@@ -595,14 +643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 252956,
-      "num": 172914,
-      "word": "TheShy说当选手时只想幸福生活",
-      "onboard_time": 1677396147,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 252200,
       "num": 252200,
       "word": "无所谓国家队会出手",
@@ -611,12 +651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252172,
+      "num": 252172,
+      "word": "刘令姿出发巴黎时装周机场图",
+      "onboard_time": 1677396806,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 250041,
       "num": 250041,
       "word": "夜旅人",
       "onboard_time": 1677330149,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244911,
+      "num": 244911,
+      "word": "Hero对战XYG",
+      "onboard_time": 1677394106,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 241888,
@@ -803,14 +859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196802,
-      "num": 196802,
-      "word": "Hero对战XYG",
-      "onboard_time": 1677394106,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194570,
       "num": 194570,
       "word": "赞达亚古董长裙红毯造型",
@@ -827,20 +875,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192170,
-      "num": 192170,
-      "word": "刘令姿出发巴黎时装周机场图",
-      "onboard_time": 1677396806,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 190684,
-      "num": 190684,
-      "word": "梵音瑜伽",
-      "onboard_time": 1677396207,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 190898,
+      "num": 190898,
+      "word": "INTO1苏州签售会饭拍图",
+      "onboard_time": 1677398607,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185613,
@@ -931,6 +971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173273,
+      "num": 173273,
+      "word": "任达华现场观战中国男篮",
+      "onboard_time": 1677396986,
+      "rank": 29,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 172613,
       "num": 172613,
       "word": "美防长称已经数月没和中国防长通话",
@@ -971,6 +1019,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 165309,
+      "num": 165309,
+      "word": "小伙吐槽尼泊尔摩天轮连门都没有",
+      "onboard_time": 1677395307,
+      "rank": 40,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 164832,
       "num": 164832,
       "word": "上过央视的浪漫出租车这次救了个人",
@@ -987,12 +1043,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160770,
-      "num": 160770,
-      "word": "小伙吐槽尼泊尔摩天轮连门都没有",
-      "onboard_time": 1677395307,
-      "rank": 40,
-      "category": "旅游,社会新闻"
+      "raw_hot": 159229,
+      "num": 159229,
+      "word": "保你平安长春路演",
+      "onboard_time": 1677398667,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 159188,
@@ -1017,6 +1073,14 @@
       "onboard_time": 1677331529,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 158643,
+      "num": 158643,
+      "word": "羲和鬼谷子好会拉",
+      "onboard_time": 1677398786,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 158518,
@@ -1051,6 +1115,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 151145,
+      "num": 151145,
+      "word": "李一桐毕雯珺迪士尼合体",
+      "onboard_time": 1677399748,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150737,
       "num": 150737,
       "word": "唐九洲吐槽乐华档期太满",
@@ -1065,14 +1137,6 @@
       "onboard_time": 1677373468,
       "rank": 36,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 149174,
-      "num": 149174,
-      "word": "研究称过早上课会导致成绩差",
-      "onboard_time": 1677396026,
-      "rank": 36,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 148899,
