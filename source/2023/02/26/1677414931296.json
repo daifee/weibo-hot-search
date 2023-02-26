@@ -1,0 +1,410 @@
+{
+  "runTime": 1677414931296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1306601,
+        "num": 1306601,
+        "word": "甲流",
+        "onboard_time": 1677402925,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925732,
+        "num": 925732,
+        "word": "蔡徐坤现象线上演唱会",
+        "onboard_time": 1677413070,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83729,
+        "num": 843417,
+        "word": "雷锋精神永不过时",
+        "onboard_time": 1677412526,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1189815,
+        "num": 843282,
+        "word": "刘亚仁一年内注射异丙酚73次",
+        "onboard_time": 1677405268,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 842943,
+        "num": 842943,
+        "word": "全国超9成小城市房价不过万元",
+        "onboard_time": 1677410009,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 720558,
+        "num": 720558,
+        "word": "疑似泽连斯基替身被媒体拍到",
+        "onboard_time": 1677409230,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678619,
+        "num": 678619,
+        "word": "狂飙中最惨的人",
+        "onboard_time": 1677410129,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 610095,
+        "num": 610095,
+        "word": "HYBE新女团MOONCHILD",
+        "onboard_time": 1677412169,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483439,
+        "num": 483439,
+        "word": "网球王子作者坐上轮椅",
+        "onboard_time": 1677413671,
+        "rank": 8,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 474440,
+        "num": 474440,
+        "word": "解放军军机强硬拦截美军机",
+        "onboard_time": 1677407550,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 998219,
+        "num": 468362,
+        "word": "佛罗伦萨偶遇肖战",
+        "onboard_time": 1677412108,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456619,
+        "num": 456619,
+        "word": "一家三猴为什么就它长相炸裂",
+        "onboard_time": 1677411927,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440451,
+        "num": 440451,
+        "word": "周迅王一博短片柏林电影节海报",
+        "onboard_time": 1677413729,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370757,
+        "num": 370757,
+        "word": "向佐瘦了好多",
+        "onboard_time": 1677404847,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343244,
+        "num": 343244,
+        "word": "路人镜头下的张雨绮身材",
+        "onboard_time": 1677406229,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317096,
+        "num": 317096,
+        "word": "年轻人的社恐有多真实",
+        "onboard_time": 1677409468,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283667,
+        "num": 283667,
+        "word": "唐嫣被吓哭了",
+        "onboard_time": 1677405388,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268332,
+        "num": 268332,
+        "word": "党和国家机构改革方案",
+        "onboard_time": 1677405868,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 235461,
+        "num": 235461,
+        "word": "王鹤棣谈白马帅小呆毛",
+        "onboard_time": 1677411749,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209630,
+        "num": 209630,
+        "word": "WBG对战LNG",
+        "onboard_time": 1677410069,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 312860,
+        "num": 209292,
+        "word": "上海地铁内一男子涂鸦致列车停运",
+        "onboard_time": 1677403109,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216410,
+        "num": 209076,
+        "word": "李一桐毕雯珺迪士尼合体",
+        "onboard_time": 1677399748,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208790,
+        "num": 208790,
+        "word": "严屹宽白发",
+        "onboard_time": 1677402265,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207901,
+        "num": 207901,
+        "word": "A股第一代庄家吕梁去世",
+        "onboard_time": 1677413488,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 191940,
+        "num": 191940,
+        "word": "福宝和爷爷",
+        "onboard_time": 1677402567,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197665,
+        "num": 189360,
+        "word": "黄奕鼓励看夏花的单亲妈妈追求爱情",
+        "onboard_time": 1677414629,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186165,
+        "num": 186165,
+        "word": "泽连斯基希望与中方会面",
+        "onboard_time": 1677401306,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 185550,
+        "num": 185550,
+        "word": "樊振东",
+        "onboard_time": 1677407428,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183797,
+        "num": 183797,
+        "word": "光渊什么时候更新",
+        "onboard_time": 1677414689,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181062,
+        "num": 181062,
+        "word": "武汉大学的早樱终于开了",
+        "onboard_time": 1677407910,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 209499,
+        "num": 180677,
+        "word": "乌克兰回应泽连斯基替身",
+        "onboard_time": 1677414329,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179382,
+        "num": 179382,
+        "word": "警方回应男子在自家鱼塘电鱼被处罚",
+        "onboard_time": 1677408688,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173537,
+        "num": 173537,
+        "word": "妻子想卖房救重病儿子遭丈夫反对",
+        "onboard_time": 1677414569,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168174,
+        "num": 168174,
+        "word": "大妈强行在邻居院里种菜还辱骂租户",
+        "onboard_time": 1677414091,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164263,
+        "num": 164263,
+        "word": "泰山站候车乘客集体呼呼大睡",
+        "onboard_time": 1677404667,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159656,
+        "num": 159656,
+        "word": "编剧曝演员因文化不够错改台词",
+        "onboard_time": 1677393327,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158280,
+        "num": 158280,
+        "word": "网友在张大大直播间洗澡",
+        "onboard_time": 1677402206,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155017,
+        "num": 155017,
+        "word": "SMTOWN艺人们看aespa演唱会",
+        "onboard_time": 1677407610,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151833,
+        "num": 151833,
+        "word": "陈星旭李兰迪南京",
+        "onboard_time": 1677398667,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138714,
+        "num": 138714,
+        "word": "用光给女友做了一条项链",
+        "onboard_time": 1677392727,
+        "rank": 39,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 133763,
+        "num": 133763,
+        "word": "三亚通报博主买海鲜被宰千元事件结果",
+        "onboard_time": 1677398368,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132488,
+        "num": 132488,
+        "word": "女孩骨折住院趁导师看望时请教论文",
+        "onboard_time": 1677400587,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 131911,
+        "num": 131911,
+        "word": "Fly首个达成500胜局",
+        "onboard_time": 1677412890,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130853,
+        "num": 130853,
+        "word": "重紫一秒开大",
+        "onboard_time": 1677411630,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120191,
+        "num": 120191,
+        "word": "羽生结弦冰演",
+        "onboard_time": 1677391706,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119122,
+        "num": 119122,
+        "word": "甲流和新冠症状上有哪些区别",
+        "onboard_time": 1677401967,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105111,
+        "num": 105111,
+        "word": "小胖的镜",
+        "onboard_time": 1677410791,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104340,
+        "num": 104340,
+        "word": "男子在自家鱼塘电鱼被罚500元",
+        "onboard_time": 1677404729,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95394,
+        "num": 95394,
+        "word": "儿子爱打人爸爸角色互换式教育",
+        "onboard_time": 1677400407,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83362,
+        "num": 83362,
+        "word": "DYG",
+        "onboard_time": 1677410430,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的人民情怀#"
+    }
+  }
+}

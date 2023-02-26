@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677411225406,
+  "endTime": 1677414931296,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -1875,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 998219,
+      "num": 468362,
+      "word": "佛罗伦萨偶遇肖战",
+      "onboard_time": 1677412108,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 996624,
       "num": 727328,
       "word": "王俊凯给八中学子送祝福",
@@ -2113,6 +2121,14 @@
       "onboard_time": 1677138149,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 925732,
+      "num": 925732,
+      "word": "蔡徐坤现象线上演唱会",
+      "onboard_time": 1677413070,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 925172,
@@ -2465,6 +2481,14 @@
       "onboard_time": 1676952274,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842943,
+      "num": 842943,
+      "word": "全国超9成小城市房价不过万元",
+      "onboard_time": 1677410009,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 840643,
@@ -3251,6 +3275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 720558,
+      "num": 720558,
+      "word": "疑似泽连斯基替身被媒体拍到",
+      "onboard_time": 1677409230,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719847,
       "num": 719847,
       "word": "张婧仪古装",
@@ -3561,6 +3593,14 @@
       "onboard_time": 1676898930,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 678619,
+      "num": 678619,
+      "word": "狂飙中最惨的人",
+      "onboard_time": 1677410129,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 677378,
@@ -4115,6 +4155,14 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 610095,
+      "num": 610095,
+      "word": "HYBE新女团MOONCHILD",
+      "onboard_time": 1677412169,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 609978,
       "num": 609978,
       "word": "黄奕新剧身材",
@@ -4145,14 +4193,6 @@
       "onboard_time": 1677329911,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 604857,
-      "num": 604857,
-      "word": "疑似泽连斯基替身被媒体拍到",
-      "onboard_time": 1677409230,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 604698,
@@ -4385,14 +4425,6 @@
       "onboard_time": 1676815113,
       "rank": 7,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 586191,
-      "num": 586191,
-      "word": "狂飙中最惨的人",
-      "onboard_time": 1677410129,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 585891,
@@ -5467,6 +5499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 483439,
+      "num": 483439,
+      "word": "网球王子作者坐上轮椅",
+      "onboard_time": 1677413671,
+      "rank": 8,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 483240,
       "num": 450577,
       "word": "网友米兰偶遇孔雪儿",
@@ -5763,6 +5803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 456619,
+      "num": 456619,
+      "word": "一家三猴为什么就它长相炸裂",
+      "onboard_time": 1677411927,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456140,
       "num": 440636,
       "word": "诟病",
@@ -5953,6 +6001,14 @@
       "onboard_time": 1677379769,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440451,
+      "num": 440451,
+      "word": "周迅王一博短片柏林电影节海报",
+      "onboard_time": 1677413729,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 440197,
@@ -7267,14 +7323,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 367958,
-      "num": 367958,
-      "word": "全国超9成小城市房价不过万元",
-      "onboard_time": 1677410009,
-      "rank": 49,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 367946,
       "num": 367946,
       "word": "讨厌没有边界感的小猫",
@@ -8411,6 +8459,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 317096,
+      "num": 317096,
+      "word": "年轻人的社恐有多真实",
+      "onboard_time": 1677409468,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316760,
       "num": 316760,
       "word": "SMTOWN将全方位与Kakao合作",
@@ -9539,14 +9595,6 @@
       "category": "艺人,动漫"
     },
     {
-      "raw_hot": 265665,
-      "num": 265665,
-      "word": "年轻人的社恐有多真实",
-      "onboard_time": 1677409468,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265579,
       "num": 265579,
       "word": "为前两秒的不耐烦道歉",
@@ -10241,6 +10289,14 @@
       "onboard_time": 1677161855,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235461,
+      "num": 235461,
+      "word": "王鹤棣谈白马帅小呆毛",
+      "onboard_time": 1677411749,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 235445,
@@ -11043,6 +11099,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 209630,
+      "num": 209630,
+      "word": "WBG对战LNG",
+      "onboard_time": 1677410069,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 209499,
+      "num": 180677,
+      "word": "乌克兰回应泽连斯基替身",
+      "onboard_time": 1677414329,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209433,
       "num": 209433,
       "word": "谭维维海滩椰林大片",
@@ -11097,6 +11169,14 @@
       "onboard_time": 1677200189,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207901,
+      "num": 207901,
+      "word": "A股第一代庄家吕梁去世",
+      "onboard_time": 1677413488,
+      "rank": 23,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 207843,
@@ -11553,6 +11633,14 @@
       "onboard_time": 1676977591,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197665,
+      "num": 189360,
+      "word": "黄奕鼓励看夏花的单亲妈妈追求爱情",
+      "onboard_time": 1677414629,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197504,
@@ -12147,6 +12235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183797,
+      "num": 183797,
+      "word": "光渊什么时候更新",
+      "onboard_time": 1677414689,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183781,
       "num": 183781,
       "word": "白鹿以爱为营拍摄路透",
@@ -12467,14 +12563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175923,
-      "num": 175923,
-      "word": "WBG对战LNG",
-      "onboard_time": 1677410069,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 175895,
       "num": 175895,
       "word": "何洁黄雅莉做客快乐再出发",
@@ -12576,6 +12664,14 @@
       "word": "2023全国入春进程地图",
       "onboard_time": 1677229288,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173537,
+      "num": 173537,
+      "word": "妻子想卖房救重病儿子遭丈夫反对",
+      "onboard_time": 1677414569,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -12817,6 +12913,14 @@
       "onboard_time": 1676859148,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168174,
+      "num": 168174,
+      "word": "大妈强行在邻居院里种菜还辱骂租户",
+      "onboard_time": 1677414091,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168023,
@@ -14027,6 +14131,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 131911,
+      "num": 131911,
+      "word": "Fly首个达成500胜局",
+      "onboard_time": 1677412890,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131325,
       "num": 131325,
       "word": "欧冠上的血脉压制",
@@ -14057,6 +14169,14 @@
       "onboard_time": 1677408569,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130853,
+      "num": 130853,
+      "word": "重紫一秒开大",
+      "onboard_time": 1677411630,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 130657,
@@ -14635,6 +14755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 105111,
+      "num": 105111,
+      "word": "小胖的镜",
+      "onboard_time": 1677410791,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 104582,
       "num": 104582,
       "word": "巨人完结篇新预告",
@@ -14819,14 +14947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89245,
-      "num": 89245,
-      "word": "小胖的镜",
-      "onboard_time": 1677410791,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 88615,
       "num": 88615,
       "word": "王一博无名破9亿剧照",
@@ -14865,6 +14985,14 @@
       "onboard_time": 1677254455,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83729,
+      "num": 843417,
+      "word": "雷锋精神永不过时",
+      "onboard_time": 1677412526,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83354,
