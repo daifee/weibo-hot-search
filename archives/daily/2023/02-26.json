@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677422005937,
+  "endTime": 1677424714235,
   "band_list": [
     {
       "raw_hot": 2640231,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1205480,
-      "num": 393407,
+      "num": 574837,
       "word": "肖战在意大利吃川菜",
       "onboard_time": 1677421413,
       "rank": 11,
@@ -129,6 +129,14 @@
       "onboard_time": 1677370585,
       "rank": 10,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1114176,
+      "num": 1114176,
+      "word": "孔雪儿李硕珉合照",
+      "onboard_time": 1677422972,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1080700,
@@ -259,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 812188,
+      "num": 812188,
+      "word": "蔡徐坤的戒指好大",
+      "onboard_time": 1677422555,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 811458,
       "num": 811458,
       "word": "张新成付辛博 时尚芭莎",
@@ -289,6 +305,14 @@
       "onboard_time": 1677407550,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 740177,
+      "num": 740177,
+      "word": "张大大说王鹤棣特别好",
+      "onboard_time": 1677422194,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 738981,
@@ -387,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 674774,
+      "num": 674774,
+      "word": "切尔西",
+      "onboard_time": 1677423212,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 669901,
       "num": 315116,
       "word": "上海地铁内一男子涂鸦致列车停运",
@@ -401,6 +433,14 @@
       "onboard_time": 1677374547,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 660147,
+      "num": 660147,
+      "word": "结婚当天接亲新娘去参加英语考试了",
+      "onboard_time": 1677422074,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 645811,
@@ -545,6 +585,14 @@
       "onboard_time": 1677373887,
       "rank": 12,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 504535,
+      "num": 504535,
+      "word": "有才的人甚至连笔都不用",
+      "onboard_time": 1677420392,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 496525,
@@ -699,14 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 405480,
-      "num": 392901,
-      "word": "有才的人甚至连笔都不用",
-      "onboard_time": 1677420392,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 402653,
       "num": 402653,
       "word": "张大大早期生图",
@@ -816,6 +856,14 @@
       "word": "INTO1新歌是刘彰写的",
       "onboard_time": 1677386429,
       "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 343156,
+      "num": 343156,
+      "word": "薛凯琪现场",
+      "onboard_time": 1677421355,
+      "rank": 36,
       "category": "音乐"
     },
     {
@@ -1051,6 +1099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 246617,
+      "num": 246617,
+      "word": "九尾三连MVP",
+      "onboard_time": 1677422493,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244911,
       "num": 244911,
       "word": "Hero对战XYG",
@@ -1176,6 +1232,14 @@
       "word": "你好星期六下期预告",
       "onboard_time": 1677337950,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223806,
+      "num": 223806,
+      "word": "瑞镇家",
+      "onboard_time": 1677422312,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1323,6 +1387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198143,
+      "num": 198143,
+      "word": "TTG连追三局获胜",
+      "onboard_time": 1677423513,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197959,
       "num": 197959,
       "word": "李兰迪用鼻孔比心",
@@ -1361,6 +1433,14 @@
       "onboard_time": 1677398607,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186581,
+      "num": 186581,
+      "word": "张九龄王九龙怕是回不去德云社了",
+      "onboard_time": 1677424529,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 185613,
@@ -1507,14 +1587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 171209,
-      "num": 171209,
-      "word": "薛凯琪现场",
-      "onboard_time": 1677421355,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 170804,
       "num": 170804,
       "word": "孔雪儿绿色镂空纱裙造型",
@@ -1649,6 +1721,14 @@
       "onboard_time": 1677372746,
       "rank": 32,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 154887,
+      "num": 154887,
+      "word": "没有情为夜昙掏空钱包",
+      "onboard_time": 1677424353,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 150737,
@@ -1915,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106307,
+      "num": 106307,
+      "word": "赖美云的视频签售",
+      "onboard_time": 1677423932,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 105111,
       "num": 105111,
       "word": "小胖的镜",
@@ -2043,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68738,
+      "num": 1144955,
+      "word": "无人机看五彩春耕画卷",
+      "onboard_time": 1677421713,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68106,
       "num": 68106,
       "word": "黑喵 隔了条银河",
@@ -2161,14 +2257,6 @@
       "onboard_time": 1677340050,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 18323,
-      "num": 998485,
-      "word": "无人机看五彩春耕画卷",
-      "onboard_time": 1677421713,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2186,6 +2274,9 @@
     },
     {
       "word": "#总书记的人民情怀#"
+    },
+    {
+      "word": "#二十届二中全会#"
     }
   ]
 }
