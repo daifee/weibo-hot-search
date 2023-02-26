@@ -1,7 +1,23 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677368027965,
+  "endTime": 1677376092600,
   "band_list": [
+    {
+      "raw_hot": 1520290,
+      "num": 1520290,
+      "word": "佘诗曼 韩雪",
+      "onboard_time": 1677371126,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1134395,
+      "num": 430031,
+      "word": "优衣库高管卷走800余件服装7.5折卖",
+      "onboard_time": 1677370585,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
     {
       "raw_hot": 924122,
       "num": 924122,
@@ -27,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 707655,
+      "num": 707655,
+      "word": "公司领导回应保洁捡2万元报警被开除",
+      "onboard_time": 1677368360,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 695527,
       "num": 695527,
       "word": "建议延长毕业生应届身份时限",
@@ -43,6 +67,46 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 602529,
+      "num": 602529,
+      "word": "北京二手房成交量大涨96%",
+      "onboard_time": 1677370285,
+      "rank": 3,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 601215,
+      "num": 601215,
+      "word": "贡米",
+      "onboard_time": 1677374547,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 598099,
+      "num": 598099,
+      "word": "接种HPV疫苗为什么重要",
+      "onboard_time": 1677370163,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558208,
+      "num": 558208,
+      "word": "刘雯米兰时装周再度闭场",
+      "onboard_time": 1677373288,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 506715,
+      "num": 506715,
+      "word": "9岁女演员成为柏林电影节最佳主角",
+      "onboard_time": 1677369021,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 496525,
       "num": 496525,
       "word": "郑业成郭晓婷鼻尖吻",
@@ -52,10 +116,18 @@
     },
     {
       "raw_hot": 489061,
-      "num": 163955,
+      "num": 301598,
       "word": "HPV病毒可导致哪些疾病",
       "onboard_time": 1677365776,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424287,
+      "num": 424287,
+      "word": "男子手机掉落拍下羊驼罕见视角",
+      "onboard_time": 1677373561,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -67,6 +139,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417236,
+      "num": 417236,
+      "word": "高三女孩热血发言燃爆全场",
+      "onboard_time": 1677373887,
+      "rank": 12,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 390873,
+      "num": 390873,
+      "word": "老人捐出珍藏半世纪的8600多枚火花",
+      "onboard_time": 1677374966,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389047,
+      "num": 389047,
+      "word": "CNN拍下解放军对峙美机",
+      "onboard_time": 1677359351,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 374792,
       "num": 374792,
       "word": "蒲熠星 我一路走来惊心动魄",
@@ -75,12 +171,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372536,
+      "num": 372536,
+      "word": "中方已为接返丫丫做好准备",
+      "onboard_time": 1677375447,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367715,
+      "num": 367715,
+      "word": "赵樱子版聂小倩",
+      "onboard_time": 1677371187,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 365312,
+      "num": 365312,
+      "word": "日本百年温泉旅馆被曝半年不换水",
+      "onboard_time": 1677366315,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358113,
       "num": 358113,
       "word": "王濛风波后首现身",
       "onboard_time": 1677340648,
       "rank": 14,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 352368,
+      "num": 352368,
+      "word": "张杰模仿高启强走路",
+      "onboard_time": 1677375148,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 315177,
@@ -107,22 +235,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 299952,
-      "num": 163846,
-      "word": "CNN拍下解放军对峙美机",
-      "onboard_time": 1677359351,
-      "rank": 36,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 271751,
-      "num": 163659,
-      "word": "日本百年温泉旅馆被曝半年不换水",
-      "onboard_time": 1677366315,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266584,
       "num": 266584,
       "word": "旅美大熊猫乐乐是如何离世的",
@@ -137,6 +249,14 @@
       "onboard_time": 1677330149,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241852,
+      "num": 241852,
+      "word": "为前两秒的不耐烦道歉",
+      "onboard_time": 1677367157,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 239098,
@@ -155,12 +275,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233239,
+      "num": 233239,
+      "word": "为误食降糖药男童寻找救治线索",
+      "onboard_time": 1677372206,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224689,
       "num": 224689,
       "word": "你好星期六下期预告",
       "onboard_time": 1677337950,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219626,
+      "num": 219626,
+      "word": "杨占家去世",
+      "onboard_time": 1677372267,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 218327,
@@ -203,12 +339,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193795,
-      "num": 163381,
-      "word": "为前两秒的不耐烦道歉",
-      "onboard_time": 1677367157,
-      "rank": 13,
-      "category": "情感"
+      "raw_hot": 209307,
+      "num": 209307,
+      "word": "理发师才是最需要考证的吧",
+      "onboard_time": 1677367638,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 193027,
@@ -217,6 +353,14 @@
       "onboard_time": 1677323427,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185137,
+      "num": 185137,
+      "word": "C罗帽子戏法",
+      "onboard_time": 1677366857,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 183710,
@@ -235,12 +379,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177550,
-      "num": 177550,
-      "word": "C罗帽子戏法",
-      "onboard_time": 1677366857,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 179338,
+      "num": 179338,
+      "word": "又吐又拉是甲流还是诺如",
+      "onboard_time": 1677367338,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177005,
@@ -265,6 +409,14 @@
       "onboard_time": 1677325049,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 172613,
+      "num": 172613,
+      "word": "美防长称已经数月没和中国防长通话",
+      "onboard_time": 1677358151,
+      "rank": 10,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 172519,
@@ -299,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160284,
+      "num": 160284,
+      "word": "乐乐死因初步确定为心脏病变",
+      "onboard_time": 1677375990,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159188,
       "num": 159188,
       "word": "邓紫棋空降周兴哲演唱会",
@@ -323,12 +483,36 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 150609,
-      "num": 150609,
-      "word": "又吐又拉是甲流还是诺如",
-      "onboard_time": 1677367338,
-      "rank": 15,
+      "raw_hot": 158518,
+      "num": 158518,
+      "word": "北海道附近海域6.0级地震",
+      "onboard_time": 1677374488,
+      "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157481,
+      "num": 157481,
+      "word": "4岁萌娃蹦蹦跳跳买零食好快乐",
+      "onboard_time": 1677372746,
+      "rank": 32,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 150737,
+      "num": 150737,
+      "word": "唐九洲吐槽乐华档期太满",
+      "onboard_time": 1677369021,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149660,
+      "num": 149660,
+      "word": "中国霹雳舞队首个正式国际赛冠军",
+      "onboard_time": 1677373468,
+      "rank": 36,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 148899,
@@ -363,12 +547,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 143056,
-      "num": 143056,
-      "word": "美防长称已经数月没和中国防长通话",
-      "onboard_time": 1677358151,
-      "rank": 10,
-      "category": "国外要闻"
+      "raw_hot": 143623,
+      "num": 143623,
+      "word": "柏林电影节获奖名单",
+      "onboard_time": 1677369021,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 139364,
@@ -411,8 +595,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 112041,
-      "num": 112041,
+      "raw_hot": 124733,
+      "num": 124733,
       "word": "看视频觉异样男子跨城救下垂危小狗",
       "onboard_time": 1677347597,
       "rank": 17,
@@ -425,6 +609,14 @@
       "onboard_time": 1677325170,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 104582,
+      "num": 104582,
+      "word": "巨人完结篇新预告",
+      "onboard_time": 1677367098,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 101367,
@@ -443,20 +635,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 94127,
+      "num": 94127,
+      "word": "城市公交停运难局",
+      "onboard_time": 1677375867,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79934,
       "num": 79934,
       "word": "甲流高发期如何做好防护",
       "onboard_time": 1677334948,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75372,
-      "num": 75372,
-      "word": "巨人完结篇新预告",
-      "onboard_time": 1677367098,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 75265,
@@ -481,14 +673,6 @@
       "onboard_time": 1677364215,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68613,
-      "num": 68613,
-      "word": "理发师才是最需要考证的吧",
-      "onboard_time": 1677367638,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 68106,

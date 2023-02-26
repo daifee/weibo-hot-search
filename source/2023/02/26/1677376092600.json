@@ -1,0 +1,410 @@
+{
+  "runTime": 1677376092600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1520290,
+        "num": 1520290,
+        "word": "佘诗曼 韩雪",
+        "onboard_time": 1677371126,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707655,
+        "num": 707655,
+        "word": "公司领导回应保洁捡2万元报警被开除",
+        "onboard_time": 1677368360,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25421,
+        "num": 625655,
+        "word": "中国载人航天三十年启示录",
+        "onboard_time": 1677332369,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602529,
+        "num": 602529,
+        "word": "北京二手房成交量大涨96%",
+        "onboard_time": 1677370285,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 601215,
+        "num": 601215,
+        "word": "贡米",
+        "onboard_time": 1677374547,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 598099,
+        "num": 598099,
+        "word": "接种HPV疫苗为什么重要",
+        "onboard_time": 1677370163,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578703,
+        "num": 578703,
+        "word": "女子考研期间生娃初试395分",
+        "onboard_time": 1677340287,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 558208,
+        "num": 558208,
+        "word": "刘雯米兰时装周再度闭场",
+        "onboard_time": 1677373288,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 506715,
+        "num": 506715,
+        "word": "9岁女演员成为柏林电影节最佳主角",
+        "onboard_time": 1677369021,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434519,
+        "num": 434519,
+        "word": "建议延长毕业生应届身份时限",
+        "onboard_time": 1677341186,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1134395,
+        "num": 430031,
+        "word": "优衣库高管卷走800余件服装7.5折卖",
+        "onboard_time": 1677370585,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 424287,
+        "num": 424287,
+        "word": "男子手机掉落拍下羊驼罕见视角",
+        "onboard_time": 1677373561,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417236,
+        "num": 417236,
+        "word": "高三女孩热血发言燃爆全场",
+        "onboard_time": 1677373887,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 390873,
+        "num": 390873,
+        "word": "老人捐出珍藏半世纪的8600多枚火花",
+        "onboard_time": 1677374966,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389047,
+        "num": 389047,
+        "word": "CNN拍下解放军对峙美机",
+        "onboard_time": 1677359351,
+        "rank": 14,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 372536,
+        "num": 372536,
+        "word": "中方已为接返丫丫做好准备",
+        "onboard_time": 1677375447,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367715,
+        "num": 367715,
+        "word": "赵樱子版聂小倩",
+        "onboard_time": 1677371187,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365312,
+        "num": 365312,
+        "word": "日本百年温泉旅馆被曝半年不换水",
+        "onboard_time": 1677366315,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352368,
+        "num": 352368,
+        "word": "张杰模仿高启强走路",
+        "onboard_time": 1677375148,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301598,
+        "num": 301598,
+        "word": "HPV病毒可导致哪些疾病",
+        "onboard_time": 1677365776,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241852,
+        "num": 241852,
+        "word": "为前两秒的不耐烦道歉",
+        "onboard_time": 1677367157,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233239,
+        "num": 233239,
+        "word": "为误食降糖药男童寻找救治线索",
+        "onboard_time": 1677372206,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224874,
+        "num": 224874,
+        "word": "沈月谈上一次分手的原因",
+        "onboard_time": 1677342146,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219626,
+        "num": 219626,
+        "word": "杨占家去世",
+        "onboard_time": 1677372267,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209307,
+        "num": 209307,
+        "word": "理发师才是最需要考证的吧",
+        "onboard_time": 1677367638,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201644,
+        "num": 201644,
+        "word": "倪妮夸高叶 你超美的",
+        "onboard_time": 1677325828,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200982,
+        "num": 200982,
+        "word": "郑业成郭晓婷鼻尖吻",
+        "onboard_time": 1677338072,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185137,
+        "num": 185137,
+        "word": "C罗帽子戏法",
+        "onboard_time": 1677366857,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179338,
+        "num": 179338,
+        "word": "又吐又拉是甲流还是诺如",
+        "onboard_time": 1677367338,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172613,
+        "num": 172613,
+        "word": "美防长称已经数月没和中国防长通话",
+        "onboard_time": 1677358151,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 160284,
+        "num": 160284,
+        "word": "乐乐死因初步确定为心脏病变",
+        "onboard_time": 1677375990,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158518,
+        "num": 158518,
+        "word": "北海道附近海域6.0级地震",
+        "onboard_time": 1677374488,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157481,
+        "num": 157481,
+        "word": "4岁萌娃蹦蹦跳跳买零食好快乐",
+        "onboard_time": 1677372746,
+        "rank": 32,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 152015,
+        "num": 152015,
+        "word": "王濛风波后首现身",
+        "onboard_time": 1677340648,
+        "rank": 33,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 150737,
+        "num": 150737,
+        "word": "唐九洲吐槽乐华档期太满",
+        "onboard_time": 1677369021,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150018,
+        "num": 150018,
+        "word": "在张大大直播间笑死",
+        "onboard_time": 1677336509,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149660,
+        "num": 149660,
+        "word": "中国霹雳舞队首个正式国际赛冠军",
+        "onboard_time": 1677373468,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 148176,
+        "num": 148176,
+        "word": "蒲熠星 我一路走来惊心动魄",
+        "onboard_time": 1677332609,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143623,
+        "num": 143623,
+        "word": "柏林电影节获奖名单",
+        "onboard_time": 1677369021,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137486,
+        "num": 137486,
+        "word": "赵奕欢身材比例",
+        "onboard_time": 1677331529,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128670,
+        "num": 128670,
+        "word": "唐僧吃了都不算破戒",
+        "onboard_time": 1677337495,
+        "rank": 40,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 124733,
+        "num": 124733,
+        "word": "看视频觉异样男子跨城救下垂危小狗",
+        "onboard_time": 1677347597,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104582,
+        "num": 104582,
+        "word": "巨人完结篇新预告",
+        "onboard_time": 1677367098,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 104029,
+        "num": 104029,
+        "word": "鞠婧祎小卡",
+        "onboard_time": 1677325231,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97698,
+        "num": 97698,
+        "word": "女老板给去世员工遗孀发3年工资",
+        "onboard_time": 1677329488,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97102,
+        "num": 97102,
+        "word": "TT申诉时光回溯",
+        "onboard_time": 1677332010,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96040,
+        "num": 96040,
+        "word": "甲流",
+        "onboard_time": 1677325649,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94127,
+        "num": 94127,
+        "word": "城市公交停运难局",
+        "onboard_time": 1677375867,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93467,
+        "num": 93467,
+        "word": "满江红票房",
+        "onboard_time": 1677327510,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90724,
+        "num": 90724,
+        "word": "网友点赞中国蓝新闻为丫丫发声",
+        "onboard_time": 1677343283,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国两会时光#"
+    }
+  }
+}
