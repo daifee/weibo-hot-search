@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677443622693,
+  "endTime": 1677446149959,
   "band_list": [
     {
       "raw_hot": 1500507,
@@ -523,6 +523,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 29011,
+      "num": 29011,
+      "word": "男子吃完饭发现车被新装护栏挡住",
+      "onboard_time": 1677442031,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28667,
+      "num": 16932,
+      "word": "泽连斯基展示过去一年住所房间",
+      "onboard_time": 1677443232,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 21307,
       "num": 27170,
       "word": "TTG连追三局获胜",
@@ -531,28 +547,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 19681,
-      "num": 19681,
-      "word": "男子吃完饭发现车被新装护栏挡住",
-      "onboard_time": 1677442031,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13414,
-      "num": 13414,
+      "raw_hot": 16352,
+      "num": 16352,
       "word": "被一只小狗碰瓷了",
       "onboard_time": 1677442451,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 11505,
-      "num": 11505,
-      "word": "泽连斯基展示过去一年住所房间",
-      "onboard_time": 1677443232,
-      "rank": 47,
-      "category": "国外要闻"
     }
   ],
   "hotgov_list": [
