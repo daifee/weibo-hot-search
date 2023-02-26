@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677429734654,
+  "endTime": 1677431775366,
   "band_list": [
     {
       "raw_hot": 1500507,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 436260,
-      "num": 278268,
+      "num": 415585,
       "word": "别给孩子用磁性文具",
       "onboard_time": 1677427048,
       "rank": 14,
@@ -83,20 +83,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386216,
+      "num": 386216,
+      "word": "网传易烊千玺新歌发布会",
+      "onboard_time": 1677428726,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 374404,
       "num": 374404,
       "word": "全国超9成小城市房价不过万元",
       "onboard_time": 1677410009,
       "rank": 5,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 366531,
-      "num": 366531,
-      "word": "网传易烊千玺新歌发布会",
-      "onboard_time": 1677428726,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 363068,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304958,
+      "num": 304958,
+      "word": "杨芸晴泰国第一份工作vlog",
+      "onboard_time": 1677429144,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282101,
       "num": 192594,
       "word": "蔡徐坤的戒指好大",
@@ -161,14 +169,6 @@
       "onboard_time": 1677407550,
       "rank": 15,
       "category": "军事"
-    },
-    {
-      "raw_hot": 207221,
-      "num": 207221,
-      "word": "杨芸晴泰国第一份工作vlog",
-      "onboard_time": 1677429144,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 198495,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121531,
+      "num": 121531,
+      "word": "公司老板是一只猫吧",
+      "onboard_time": 1677429862,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114734,
       "num": 114734,
       "word": "光渊什么时候更新",
@@ -321,6 +329,22 @@
       "onboard_time": 1677408688,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100814,
+      "num": 100814,
+      "word": "蔡徐坤回答粉丝提问",
+      "onboard_time": 1677430043,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 97591,
+      "num": 97591,
+      "word": "毕雯珺送李一桐玲娜贝儿",
+      "onboard_time": 1677429264,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 96785,
@@ -395,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 77055,
-      "num": 77055,
-      "word": "毕雯珺送李一桐玲娜贝儿",
-      "onboard_time": 1677429264,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 75550,
       "num": 75550,
       "word": "ITZY中文版TrustMe",
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53358,
+      "num": 53358,
+      "word": "羽生结弦冰演感言",
+      "onboard_time": 1677430879,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40098,
       "num": 573233,
       "word": "无人机看五彩春耕画卷",
@@ -438,6 +462,9 @@
   "hotgov_list": [
     {
       "word": "#总书记的人民情怀#"
+    },
+    {
+      "word": "#二十届二中全会#"
     }
   ]
 }
