@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677400636950,
+  "endTime": 1677403075963,
   "band_list": [
     {
       "raw_hot": 2293120,
@@ -123,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 922678,
+      "num": 922678,
+      "word": "三亚通报博主买海鲜被宰千元事件结果",
+      "onboard_time": 1677398368,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 905544,
       "num": 905544,
       "word": "老默唐小虎 我们的客栈",
@@ -243,6 +251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 662328,
+      "num": 662328,
+      "word": "严屹宽白发",
+      "onboard_time": 1677402265,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 645811,
       "num": 645811,
       "word": "在张大大直播间笑死",
@@ -305,14 +321,6 @@
       "onboard_time": 1677373288,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 553946,
-      "num": 553946,
-      "word": "三亚通报博主买海鲜被宰千元事件结果",
-      "onboard_time": 1677398368,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 553329,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487890,
+      "num": 335679,
+      "word": "泽连斯基希望与中方会面",
+      "onboard_time": 1677401306,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 444509,
       "num": 444509,
       "word": "张杰模仿高启强走路",
@@ -411,7 +427,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 432336,
+      "raw_hot": 437272,
       "num": 335972,
       "word": "李一桐毕雯珺迪士尼合体",
       "onboard_time": 1677399748,
@@ -547,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339468,
+      "num": 339468,
+      "word": "陈星旭李兰迪南京",
+      "onboard_time": 1677398667,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330856,
       "num": 330856,
       "word": "为何寺庙旅游在90后00后中爆火",
@@ -579,12 +603,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 298789,
-      "num": 298789,
-      "word": "陈星旭李兰迪南京",
-      "onboard_time": 1677398667,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 300757,
+      "num": 300757,
+      "word": "儿子爱打人爸爸角色互换式教育",
+      "onboard_time": 1677400407,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298467,
@@ -675,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248713,
+      "num": 248713,
+      "word": "女孩骨折住院趁导师看望时请教论文",
+      "onboard_time": 1677400587,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 244911,
       "num": 244911,
       "word": "Hero对战XYG",
@@ -755,12 +787,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227391,
+      "num": 227391,
+      "word": "做饭扫地就喘得不行一定要高度警惕",
+      "onboard_time": 1677401187,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224858,
+      "num": 224858,
+      "word": "甲流和新冠症状上有哪些区别",
+      "onboard_time": 1677401967,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224689,
       "num": 224689,
       "word": "你好星期六下期预告",
       "onboard_time": 1677337950,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221794,
+      "num": 221794,
+      "word": "甲流",
+      "onboard_time": 1677325649,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219626,
@@ -811,14 +867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 215073,
-      "num": 215073,
-      "word": "甲流",
-      "onboard_time": 1677325649,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210117,
       "num": 210117,
       "word": "JDG 虐菜队",
@@ -833,6 +881,14 @@
       "onboard_time": 1677377489,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207133,
+      "num": 207133,
+      "word": "网友在张大大直播间洗澡",
+      "onboard_time": 1677402206,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 206701,
@@ -1155,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147589,
+      "num": 147589,
+      "word": "铃铛守约致命一击",
+      "onboard_time": 1677402087,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146830,
       "num": 146830,
       "word": "男篮世预赛",
@@ -1193,6 +1257,14 @@
       "onboard_time": 1677387028,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141154,
+      "num": 141154,
+      "word": "福宝和爷爷",
+      "onboard_time": 1677402567,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 139364,
@@ -1339,12 +1411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75530,
-      "num": 75530,
-      "word": "儿子爱打人爸爸角色互换式教育",
-      "onboard_time": 1677400407,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 79608,
+      "num": 79608,
+      "word": "秀豆公孙离MVP",
+      "onboard_time": 1677401487,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 75265,
@@ -1385,14 +1457,6 @@
       "onboard_time": 1677333590,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 64004,
-      "num": 64004,
-      "word": "女孩骨折住院趁导师看望时请教论文",
-      "onboard_time": 1677400587,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 62177,
