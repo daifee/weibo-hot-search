@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677447215687,
+  "endTime": 1677449870355,
   "band_list": [
     {
       "raw_hot": 1500507,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162292,
+      "num": 58579,
+      "word": "碎尸案风波中的谭仔国际",
+      "onboard_time": 1677440712,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 160281,
       "num": 155610,
       "word": "薛凯琪现场",
@@ -289,14 +297,6 @@
       "onboard_time": 1677429862,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120386,
-      "num": 41166,
-      "word": "碎尸案风波中的谭仔国际",
-      "onboard_time": 1677440712,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 114734,
@@ -467,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 73758,
+      "num": 53716,
+      "word": "特朗普称破坏北溪的不是俄罗斯",
+      "onboard_time": 1677440351,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 73389,
       "num": 73389,
       "word": "蔡徐坤爵士乐队版情人",
@@ -499,12 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50178,
-      "num": 19102,
-      "word": "特朗普称破坏北溪的不是俄罗斯",
-      "onboard_time": 1677440351,
-      "rank": 30,
+      "raw_hot": 48893,
+      "num": 24407,
+      "word": "泽连斯基展示过去一年住所房间",
+      "onboard_time": 1677443232,
+      "rank": 47,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 40375,
+      "num": 40375,
+      "word": "男子吃完饭发现车被新装护栏挡住",
+      "onboard_time": 1677442031,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40098,
@@ -512,22 +528,6 @@
       "word": "无人机看五彩春耕画卷",
       "onboard_time": 1677421713,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34029,
-      "num": 17744,
-      "word": "泽连斯基展示过去一年住所房间",
-      "onboard_time": 1677443232,
-      "rank": 47,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 32690,
-      "num": 32690,
-      "word": "男子吃完饭发现车被新装护栏挡住",
-      "onboard_time": 1677442031,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -539,20 +539,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 24411,
+      "num": 24411,
+      "word": "被一只小狗碰瓷了",
+      "onboard_time": 1677442451,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21307,
       "num": 27170,
       "word": "TTG连追三局获胜",
       "onboard_time": 1677423513,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17859,
-      "num": 17859,
-      "word": "被一只小狗碰瓷了",
-      "onboard_time": 1677442451,
-      "rank": 47,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
