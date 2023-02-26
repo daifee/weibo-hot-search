@@ -1,6 +1,6 @@
 {
   "startTime": 1676823861800,
-  "endTime": 1677386317473,
+  "endTime": 1677388657032,
   "band_list": [
     {
       "raw_hot": 10505974,
@@ -1819,6 +1819,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 998736,
+      "num": 732424,
+      "word": "老人疑因男生公交上未让座将其骂哭",
+      "onboard_time": 1677384146,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 996624,
+      "num": 717698,
+      "word": "王俊凯给八中学子送祝福",
+      "onboard_time": 1677387691,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 993478,
       "num": 993478,
       "word": "男子不信自己是逃犯报警验证",
@@ -3227,6 +3243,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 702099,
+      "num": 702099,
+      "word": "如何看待子女冠姓权给女方",
+      "onboard_time": 1677384508,
+      "rank": 20,
+      "category": "情感,社会议题"
+    },
+    {
       "raw_hot": 701603,
       "num": 701603,
       "word": "丫丫或将提前回国",
@@ -4611,6 +4635,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 543956,
+      "num": 543956,
+      "word": "大爷怒斥夜市悬挂日式雨伞",
+      "onboard_time": 1677383367,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543276,
       "num": 543276,
       "word": "曝HYBE为李秀满植树计划投资百亿韩元",
@@ -4945,14 +4977,6 @@
       "onboard_time": 1676946151,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 504483,
-      "num": 504483,
-      "word": "老人疑因男生公交上未让座将其骂哭",
-      "onboard_time": 1677384146,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 504395,
@@ -5707,14 +5731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 441787,
-      "num": 441787,
-      "word": "大爷怒斥夜市悬挂日式雨伞",
-      "onboard_time": 1677383367,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441488,
       "num": 441488,
       "word": "NBA全明星太无聊了",
@@ -5801,14 +5817,6 @@
       "onboard_time": 1677160293,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 435817,
-      "num": 435817,
-      "word": "如何看待子女冠姓权给女方",
-      "onboard_time": 1677384508,
-      "rank": 20,
-      "category": "情感,社会议题"
     },
     {
       "raw_hot": 435510,
@@ -6409,6 +6417,14 @@
       "onboard_time": 1677337495,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 399022,
+      "num": 399022,
+      "word": "中国男篮vs伊朗男篮",
+      "onboard_time": 1677386190,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 398807,
@@ -7515,6 +7531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344313,
+      "num": 344313,
+      "word": "INTO1新歌是刘彰写的",
+      "onboard_time": 1677386429,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 343431,
       "num": 343431,
       "word": "郭帆说流浪地球3大纲就快被套出来了",
@@ -8115,6 +8139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316596,
+      "num": 316596,
+      "word": "杨紫范丞丞片场抓代拍",
+      "onboard_time": 1677387991,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316091,
       "num": 316091,
       "word": "雪花杨思宇分手",
@@ -8409,6 +8441,14 @@
       "onboard_time": 1677379528,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297712,
+      "num": 297712,
+      "word": "塔图姆绝杀76人",
+      "onboard_time": 1677386429,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 297450,
@@ -9841,6 +9881,14 @@
       "onboard_time": 1677367638,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 235119,
+      "num": 235119,
+      "word": "乐乐丫丫早期旅美的视频",
+      "onboard_time": 1677386190,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235066,
@@ -12627,6 +12675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157842,
+      "num": 157842,
+      "word": "新华网专访于和伟",
+      "onboard_time": 1677387928,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157617,
       "num": 157617,
       "word": "KSG战胜XYG",
@@ -12785,6 +12841,14 @@
       "onboard_time": 1677134188,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153364,
+      "num": 153364,
+      "word": "男子癫痫倒地2名战士紧急抢救",
+      "onboard_time": 1677387568,
+      "rank": 36,
+      "category": "军事"
     },
     {
       "raw_hot": 153178,
@@ -13283,14 +13347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 134750,
-      "num": 134750,
-      "word": "乐乐丫丫早期旅美的视频",
-      "onboard_time": 1677386190,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134673,
       "num": 134673,
       "word": "超级马力欧兄弟大电影确认引进",
@@ -13451,14 +13507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128928,
-      "num": 128928,
-      "word": "中国男篮vs伊朗男篮",
-      "onboard_time": 1677386190,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128753,
       "num": 128753,
       "word": "北京朝霞",
@@ -13513,6 +13561,14 @@
       "onboard_time": 1677257721,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127165,
+      "num": 127165,
+      "word": "竹子究竟是草还是树",
+      "onboard_time": 1677383967,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127142,
@@ -13600,6 +13656,14 @@
       "word": "你那里的春日大片上线了吗",
       "onboard_time": 1677070952,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123014,
+      "num": 123014,
+      "word": "洗碗工大爷学校餐厅弹钢琴",
+      "onboard_time": 1677387028,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -13811,14 +13875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 115252,
-      "num": 115252,
-      "word": "竹子究竟是草还是树",
-      "onboard_time": 1677383967,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114324,
       "num": 114324,
       "word": "陈建宇一公舞台镜头",
@@ -13905,6 +13961,14 @@
       "onboard_time": 1677221970,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108886,
+      "num": 108886,
+      "word": "唯有知识的光可以照亮前路",
+      "onboard_time": 1677386547,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 108705,
