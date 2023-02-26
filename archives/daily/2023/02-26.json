@@ -1,6 +1,6 @@
 {
   "startTime": 1677342261542,
-  "endTime": 1677382288422,
+  "endTime": 1677382918876,
   "band_list": [
     {
       "raw_hot": 2293120,
@@ -91,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 724737,
+      "num": 724737,
+      "word": "中国留学生遇害案校方赔500万美元",
+      "onboard_time": 1677380249,
+      "rank": 42,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 724416,
       "num": 724416,
       "word": "中方对丫丫饲养护理向美方提出要求",
       "onboard_time": 1677377427,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 712516,
-      "num": 411894,
-      "word": "中国留学生遇害案校方赔500万美元",
-      "onboard_time": 1677380249,
-      "rank": 42,
-      "category": "社会负面"
     },
     {
       "raw_hot": 707655,
@@ -139,6 +139,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 666806,
+      "num": 666806,
+      "word": "我国适龄女孩HPV疫苗接种率不到1%",
+      "onboard_time": 1677380908,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 645811,
       "num": 645811,
       "word": "在张大大直播间笑死",
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576199,
+      "num": 473298,
+      "word": "夜市偶遇张颂文",
+      "onboard_time": 1677382349,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 558208,
       "num": 558208,
       "word": "刘雯米兰时装周再度闭场",
@@ -179,12 +195,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 510862,
-      "num": 510862,
-      "word": "我国适龄女孩HPV疫苗接种率不到1%",
-      "onboard_time": 1677380908,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 509659,
+      "num": 509659,
+      "word": "刘诗诗捧花视频",
+      "onboard_time": 1677382592,
+      "rank": 9,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 506715,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 441444,
-      "num": 250304,
+      "num": 263617,
       "word": "7旬大爷头婚摆11桌迎娶6旬新娘",
       "onboard_time": 1677379769,
       "rank": 32,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 379044,
-      "num": 184524,
+      "num": 348299,
       "word": "丫丫毛发脱落系皮肤病所致",
       "onboard_time": 1677382110,
       "rank": 30,
@@ -297,6 +313,14 @@
       "onboard_time": 1677340648,
       "rank": 14,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 354484,
+      "num": 211703,
+      "word": "早年的婚纱照能有多离谱",
+      "onboard_time": 1677381689,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 330856,
@@ -363,12 +387,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 250651,
-      "num": 183784,
-      "word": "早年的婚纱照能有多离谱",
-      "onboard_time": 1677381689,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 252200,
+      "num": 252200,
+      "word": "无所谓国家队会出手",
+      "onboard_time": 1677380068,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250041,
@@ -385,14 +409,6 @@
       "onboard_time": 1677376468,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 241261,
-      "num": 241261,
-      "word": "无所谓国家队会出手",
-      "onboard_time": 1677380068,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239098,
@@ -427,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229850,
+      "num": 229850,
+      "word": "47岁丘索维金娜体操世界杯摘铜",
+      "onboard_time": 1677380549,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224689,
       "num": 224689,
       "word": "你好星期六下期预告",
       "onboard_time": 1677337950,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220284,
-      "num": 220284,
-      "word": "47岁丘索维金娜体操世界杯摘铜",
-      "onboard_time": 1677380549,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 219626,
@@ -617,6 +633,14 @@
       "onboard_time": 1677375867,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168167,
+      "num": 168167,
+      "word": "到底是考公难还是考研难",
+      "onboard_time": 1677382528,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 166282,
