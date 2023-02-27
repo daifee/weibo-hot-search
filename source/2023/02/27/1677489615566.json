@@ -1,0 +1,410 @@
+{
+  "runTime": 1677489615566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1212544,
+        "num": 1212544,
+        "word": "大麦",
+        "onboard_time": 1677485730,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 916952,
+        "num": 916952,
+        "word": "建议部分岗位向35岁以上群体倾斜",
+        "onboard_time": 1677477809,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 39951,
+        "num": 792530,
+        "word": "又到了宜耕耘奋斗的春天",
+        "onboard_time": 1677473434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1784696,
+        "num": 775623,
+        "word": "章子怡章泽天聚餐",
+        "onboard_time": 1677487771,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671988,
+        "num": 671988,
+        "word": "董明珠称一人一套房承诺不变",
+        "onboard_time": 1677480689,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 610611,
+        "num": 610611,
+        "word": "当一个巨蟹座不碰感情时",
+        "onboard_time": 1677485250,
+        "rank": 5,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 568848,
+        "num": 568848,
+        "word": "丫丫现身纽约时代广场大屏幕",
+        "onboard_time": 1677463106,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503303,
+        "num": 503303,
+        "word": "宋雨琦周洁琼新综艺同框跳tomboy",
+        "onboard_time": 1677488071,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481803,
+        "num": 481803,
+        "word": "周杰伦演唱会门票",
+        "onboard_time": 1677468210,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 459531,
+        "num": 459531,
+        "word": "狂飙麻子变成景点了",
+        "onboard_time": 1677477988,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 544293,
+        "num": 452221,
+        "word": "七成35岁以上职场人职业晋升停滞",
+        "onboard_time": 1677488371,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436559,
+        "num": 436559,
+        "word": "虞书欣粉色耳环",
+        "onboard_time": 1677487949,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427957,
+        "num": 427957,
+        "word": "大连保洁员拾金不昧行为属实",
+        "onboard_time": 1677485911,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356804,
+        "num": 356804,
+        "word": "台湾问题不容他人置喙",
+        "onboard_time": 1677486151,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 340186,
+        "num": 340186,
+        "word": "朴灿烈吴世勋顺天乡校庆生图",
+        "onboard_time": 1677484949,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319806,
+        "num": 319806,
+        "word": "赵露思做完美容后手舞足蹈",
+        "onboard_time": 1677475530,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308851,
+        "num": 308851,
+        "word": "网友P的张颂文高叶合照",
+        "onboard_time": 1677483449,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301644,
+        "num": 301644,
+        "word": "谁砸了甘孜旅游我砸他饭碗",
+        "onboard_time": 1677471153,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 293630,
+        "num": 293630,
+        "word": "起底甘孜拒绝退款酒店",
+        "onboard_time": 1677487230,
+        "rank": 18,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 291745,
+        "num": 291745,
+        "word": "蔡徐坤晒KUN标墨镜",
+        "onboard_time": 1677489210,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284420,
+        "num": 284420,
+        "word": "鹿晗脸上有将字",
+        "onboard_time": 1677489567,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281581,
+        "num": 281581,
+        "word": "建议农村推行低彩礼零彩礼",
+        "onboard_time": 1677472354,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276974,
+        "num": 276974,
+        "word": "林依晨陈柏霖合照",
+        "onboard_time": 1677487110,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238181,
+        "num": 238181,
+        "word": "带状疱疹有时会被误认是皮炎",
+        "onboard_time": 1677479848,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226499,
+        "num": 226499,
+        "word": "董明珠将再建议提高个税起征点",
+        "onboard_time": 1677481888,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 2695984,
+        "num": 226088,
+        "word": "邵逸夫医院",
+        "onboard_time": 1677481647,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2009874,
+        "num": 224810,
+        "word": "警方通报邵逸夫医院凶杀案",
+        "onboard_time": 1677483510,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 269049,
+        "num": 223057,
+        "word": "黄晓明期盼丫丫早日回家",
+        "onboard_time": 1677473674,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219912,
+        "num": 219912,
+        "word": "这个发型太显气质了",
+        "onboard_time": 1677487650,
+        "rank": 28,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 216370,
+        "num": 216370,
+        "word": "90后女生离异后定遗嘱保护财产",
+        "onboard_time": 1677478170,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211399,
+        "num": 211399,
+        "word": "滑县通报一男子持刀将妻子杀害",
+        "onboard_time": 1677470731,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 209561,
+        "num": 209561,
+        "word": "解放军回应美军机穿航台湾海峡",
+        "onboard_time": 1677489149,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 208158,
+        "num": 208158,
+        "word": "当你走在街上被爱豆喊名字",
+        "onboard_time": 1677484111,
+        "rank": 32,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 204840,
+        "num": 204840,
+        "word": "杨澜说独立女性不意味着独身",
+        "onboard_time": 1677486327,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199767,
+        "num": 199767,
+        "word": "Angelababy诉香港娱记朱皮获赔",
+        "onboard_time": 1677475648,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198660,
+        "num": 198660,
+        "word": "校方回应男生进女寝喊我爸是干部",
+        "onboard_time": 1677482247,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 197623,
+        "num": 197623,
+        "word": "居然在一只猫眼里看到了爱情",
+        "onboard_time": 1677479668,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 195838,
+        "num": 195838,
+        "word": "孙俪 要更多去倾听孩子的内心",
+        "onboard_time": 1677485730,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189014,
+        "num": 189014,
+        "word": "iPhone15ProMax或半斤重",
+        "onboard_time": 1677472894,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 187034,
+        "num": 187034,
+        "word": "周迅19岁旧照",
+        "onboard_time": 1677479907,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175979,
+        "num": 175979,
+        "word": "LPL春季赛周最佳阵容",
+        "onboard_time": 1677484650,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175273,
+        "num": 175273,
+        "word": "企业给员工发房能留住人才吗",
+        "onboard_time": 1677484290,
+        "rank": 41,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 171652,
+        "num": 171652,
+        "word": "未定事件簿空少",
+        "onboard_time": 1677484770,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165115,
+        "num": 165115,
+        "word": "HPV疫苗能约几价就打几价",
+        "onboard_time": 1677464427,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158421,
+        "num": 158421,
+        "word": "贺峻霖新头像是耿鬼",
+        "onboard_time": 1677484230,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149725,
+        "num": 149725,
+        "word": "毛不易演唱会门票",
+        "onboard_time": 1677480087,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135945,
+        "num": 135945,
+        "word": "00后女生上班吃糖粘掉假牙",
+        "onboard_time": 1677467670,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133139,
+        "num": 133139,
+        "word": "哪些人不适合接种HPV疫苗",
+        "onboard_time": 1677483149,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132800,
+        "num": 132800,
+        "word": "祝绪丹羽毛流光裙夜景随拍",
+        "onboard_time": 1677489030,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118557,
+        "num": 118557,
+        "word": "建议小学教育年限缩短到5年",
+        "onboard_time": 1677489451,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民江山谱写新的史诗#"
+    }
+  }
+}

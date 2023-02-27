@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677487227590,
+  "endTime": 1677489615566,
   "band_list": [
     {
       "raw_hot": 4920735,
@@ -43,12 +43,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1988914,
+      "raw_hot": 2009874,
       "num": 1046378,
       "word": "警方通报邵逸夫医院凶杀案",
       "onboard_time": 1677483510,
       "rank": 3,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1784696,
+      "num": 775623,
+      "word": "章子怡章泽天聚餐",
+      "onboard_time": 1677487771,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1710754,
@@ -147,8 +155,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1187984,
-      "num": 1187984,
+      "raw_hot": 1212544,
+      "num": 1212544,
       "word": "大麦",
       "onboard_time": 1677485730,
       "rank": 5,
@@ -395,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 610611,
+      "num": 610611,
+      "word": "当一个巨蟹座不碰感情时",
+      "onboard_time": 1677485250,
+      "rank": 16,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 603189,
       "num": 603189,
       "word": "苹果内部有一支神秘研发团队",
@@ -451,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 544293,
+      "num": 452221,
+      "word": "七成35岁以上职场人职业晋升停滞",
+      "onboard_time": 1677488371,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 533688,
       "num": 332104,
       "word": "蔡天凤被碎尸案今日提堂",
@@ -499,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 503303,
+      "num": 503303,
+      "word": "宋雨琦周洁琼新综艺同框跳tomboy",
+      "onboard_time": 1677488071,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 491810,
       "num": 491810,
       "word": "毛不易演唱会门票",
@@ -539,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469296,
-      "num": 469296,
-      "word": "当一个巨蟹座不碰感情时",
-      "onboard_time": 1677485250,
-      "rank": 16,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 452973,
       "num": 452973,
       "word": "必胜客崩了",
@@ -579,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 436559,
+      "num": 436559,
+      "word": "虞书欣粉色耳环",
+      "onboard_time": 1677487949,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436260,
       "num": 415585,
       "word": "别给孩子用磁性文具",
@@ -593,6 +625,14 @@
       "onboard_time": 1677425552,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427957,
+      "num": 427957,
+      "word": "大连保洁员拾金不昧行为属实",
+      "onboard_time": 1677485911,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418405,
@@ -697,6 +737,14 @@
       "onboard_time": 1677421413,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356804,
+      "num": 356804,
+      "word": "台湾问题不容他人置喙",
+      "onboard_time": 1677486151,
+      "rank": 45,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 345703,
@@ -907,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293630,
+      "num": 293630,
+      "word": "起底甘孜拒绝退款酒店",
+      "onboard_time": 1677487230,
+      "rank": 18,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 293169,
       "num": 293169,
       "word": "特朗普称破坏北溪的不是俄罗斯",
@@ -915,12 +971,36 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 291745,
+      "num": 291745,
+      "word": "蔡徐坤晒KUN标墨镜",
+      "onboard_time": 1677489210,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 284420,
+      "num": 284420,
+      "word": "鹿晗脸上有将字",
+      "onboard_time": 1677489567,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282101,
       "num": 192594,
       "word": "蔡徐坤的戒指好大",
       "onboard_time": 1677422555,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 276974,
+      "num": 276974,
+      "word": "林依晨陈柏霖合照",
+      "onboard_time": 1677487110,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 276628,
@@ -961,14 +1041,6 @@
       "onboard_time": 1677425970,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 255649,
-      "num": 255649,
-      "word": "大连保洁员拾金不昧行为属实",
-      "onboard_time": 1677485911,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247881,
@@ -1027,12 +1099,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220627,
-      "num": 220627,
-      "word": "台湾问题不容他人置喙",
-      "onboard_time": 1677486151,
-      "rank": 45,
-      "category": "国内要闻"
+      "raw_hot": 219912,
+      "num": 219912,
+      "word": "这个发型太显气质了",
+      "onboard_time": 1677487650,
+      "rank": 28,
+      "category": "时尚,美妆"
     },
     {
       "raw_hot": 218667,
@@ -1097,6 +1169,14 @@
       "onboard_time": 1677462927,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209561,
+      "num": 209561,
+      "word": "解放军回应美军机穿航台湾海峡",
+      "onboard_time": 1677489149,
+      "rank": 31,
+      "category": "军事"
     },
     {
       "raw_hot": 208740,
@@ -1299,14 +1379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173982,
-      "num": 173982,
-      "word": "林依晨陈柏霖合照",
-      "onboard_time": 1677487110,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167372,
       "num": 167372,
       "word": "梅西俱乐部700球",
@@ -1475,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132800,
+      "num": 132800,
+      "word": "祝绪丹羽毛流光裙夜景随拍",
+      "onboard_time": 1677489030,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132390,
       "num": 132390,
       "word": "春季预防流感要注意什么",
@@ -1545,6 +1625,14 @@
       "onboard_time": 1677452660,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118557,
+      "num": 118557,
+      "word": "建议小学教育年限缩短到5年",
+      "onboard_time": 1677489451,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 115022,

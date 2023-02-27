@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677487227590,
+  "endTime": 1677489615566,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -2083,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2009874,
+      "num": 1046378,
+      "word": "警方通报邵逸夫医院凶杀案",
+      "onboard_time": 1677483510,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2008467,
       "num": 2008467,
       "word": "乐乐",
@@ -2145,14 +2153,6 @@
       "onboard_time": 1676379334,
       "rank": 45,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 1988914,
-      "num": 1046378,
-      "word": "警方通报邵逸夫医院凶杀案",
-      "onboard_time": 1677483510,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1986446,
@@ -2753,6 +2753,14 @@
       "onboard_time": 1676631211,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1784696,
+      "num": 775623,
+      "word": "章子怡章泽天聚餐",
+      "onboard_time": 1677487771,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1783213,
@@ -5803,6 +5811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1212544,
+      "num": 1212544,
+      "word": "大麦",
+      "onboard_time": 1677485730,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1212165,
       "num": 964313,
       "word": "广东一男子朝女子泼硫酸连捅数刀",
@@ -5985,14 +6001,6 @@
       "onboard_time": 1677201030,
       "rank": 7,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1187984,
-      "num": 1187984,
-      "word": "大麦",
-      "onboard_time": 1677485730,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 1187264,
@@ -16883,6 +16891,14 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 610611,
+      "num": 610611,
+      "word": "当一个巨蟹座不碰感情时",
+      "onboard_time": 1677485250,
+      "rank": 16,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 610285,
       "num": 610285,
       "word": "上市公司回应董事长月薪两万招保镖",
@@ -19443,6 +19459,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 544293,
+      "num": 452221,
+      "word": "七成35岁以上职场人职业晋升停滞",
+      "onboard_time": 1677488371,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544123,
       "num": 544123,
       "word": "马思纯说不会让大家等太久了",
@@ -21243,6 +21267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503303,
+      "num": 503303,
+      "word": "宋雨琦周洁琼新综艺同框跳tomboy",
+      "onboard_time": 1677488071,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 503222,
       "num": 503222,
       "word": "兰花草",
@@ -22833,14 +22865,6 @@
       "onboard_time": 1676160802,
       "rank": 10,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 469296,
-      "num": 469296,
-      "word": "当一个巨蟹座不碰感情时",
-      "onboard_time": 1677485250,
-      "rank": 16,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 469054,
@@ -24547,6 +24571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 436559,
+      "num": 436559,
+      "word": "虞书欣粉色耳环",
+      "onboard_time": 1677487949,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436416,
       "num": 436416,
       "word": "产后抑郁不是公主病",
@@ -25145,6 +25177,14 @@
       "onboard_time": 1677311007,
       "rank": 39,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 427957,
+      "num": 427957,
+      "word": "大连保洁员拾金不昧行为属实",
+      "onboard_time": 1677485911,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427852,
@@ -29929,6 +29969,14 @@
       "onboard_time": 1676185349,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 356804,
+      "num": 356804,
+      "word": "台湾问题不容他人置喙",
+      "onboard_time": 1677486151,
+      "rank": 45,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 356712,
@@ -35187,6 +35235,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 293630,
+      "num": 293630,
+      "word": "起底甘孜拒绝退款酒店",
+      "onboard_time": 1677487230,
+      "rank": 18,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 293474,
       "num": 293474,
       "word": "樊治欣李墨之直播",
@@ -35369,6 +35425,14 @@
       "onboard_time": 1675945351,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 291745,
+      "num": 291745,
+      "word": "蔡徐坤晒KUN标墨镜",
+      "onboard_time": 1677489210,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 291714,
@@ -36073,6 +36137,14 @@
       "onboard_time": 1677380670,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284420,
+      "num": 284420,
+      "word": "鹿晗脸上有将字",
+      "onboard_time": 1677489567,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 284277,
@@ -36817,6 +36889,14 @@
       "onboard_time": 1675897938,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276974,
+      "num": 276974,
+      "word": "林依晨陈柏霖合照",
+      "onboard_time": 1677487110,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 276927,
@@ -39217,14 +39297,6 @@
       "onboard_time": 1675734625,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 255649,
-      "num": 255649,
-      "word": "大连保洁员拾金不昧行为属实",
-      "onboard_time": 1677485911,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255473,
@@ -43139,14 +43211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220627,
-      "num": 220627,
-      "word": "台湾问题不容他人置喙",
-      "onboard_time": 1677486151,
-      "rank": 45,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 220551,
       "num": 220551,
       "word": "满江红实时票房破43亿",
@@ -43233,6 +43297,14 @@
       "onboard_time": 1676706510,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 219912,
+      "num": 219912,
+      "word": "这个发型太显气质了",
+      "onboard_time": 1677487650,
+      "rank": 28,
+      "category": "时尚,美妆"
     },
     {
       "raw_hot": 219882,
@@ -44473,6 +44545,14 @@
       "onboard_time": 1675387108,
       "rank": 47,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 209561,
+      "num": 209561,
+      "word": "解放军回应美军机穿航台湾海峡",
+      "onboard_time": 1677489149,
+      "rank": 31,
+      "category": "军事"
     },
     {
       "raw_hot": 209433,
@@ -50363,14 +50443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173982,
-      "num": 173982,
-      "word": "林依晨陈柏霖合照",
-      "onboard_time": 1677487110,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173941,
       "num": 173941,
       "word": "李斌要把换电站建到县城",
@@ -55763,6 +55835,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 132800,
+      "num": 132800,
+      "word": "祝绪丹羽毛流光裙夜景随拍",
+      "onboard_time": 1677489030,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132758,
       "num": 132758,
       "word": "一声不吭的猫往往才最倔",
@@ -56953,6 +57033,14 @@
       "onboard_time": 1677141092,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118557,
+      "num": 118557,
+      "word": "建议小学教育年限缩短到5年",
+      "onboard_time": 1677489451,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 118462,
