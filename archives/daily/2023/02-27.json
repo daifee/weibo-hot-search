@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677472772948,
+  "endTime": 1677475103754,
   "band_list": [
     {
       "raw_hot": 3989793,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2426198,
+      "num": 553436,
+      "word": "蔡天凤前夫一家4人不准保释",
+      "onboard_time": 1677473313,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1710754,
       "num": 623398,
       "word": "郭富城方媛悼念蔡天凤",
@@ -41,6 +49,14 @@
       "onboard_time": 1677456387,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1631282,
+      "num": 1631282,
+      "word": "网传男生进女寝被抓喊我爸是干部",
+      "onboard_time": 1677468930,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1500507,
@@ -59,12 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1354107,
-      "num": 1354107,
-      "word": "网传男生进女寝被抓喊我爸是干部",
-      "onboard_time": 1677468930,
-      "rank": 44,
-      "category": "教育,社会新闻"
+      "raw_hot": 1461270,
+      "num": 1461270,
+      "word": "黄晓明期盼丫丫早日回家",
+      "onboard_time": 1677473674,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1297158,
+      "num": 1297158,
+      "word": "谁砸了甘孜旅游我砸他饭碗",
+      "onboard_time": 1677471153,
+      "rank": 34,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 1279122,
@@ -107,6 +131,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 962041,
+      "num": 962041,
+      "word": "建议农村推行低彩礼零彩礼",
+      "onboard_time": 1677472354,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 932170,
       "num": 413719,
       "word": "蔡天凤或因硬物撞击耳后致命",
@@ -129,6 +161,14 @@
       "onboard_time": 1677415229,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 842149,
+      "num": 842149,
+      "word": "利拉德71分",
+      "onboard_time": 1677472655,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 841652,
@@ -161,14 +201,6 @@
       "onboard_time": 1677423212,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 770349,
-      "num": 603462,
-      "word": "谁砸了甘孜旅游我砸他饭碗",
-      "onboard_time": 1677471153,
-      "rank": 34,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 753081,
@@ -209,14 +241,6 @@
       "onboard_time": 1677456807,
       "rank": 7,
       "category": "科技"
-    },
-    {
-      "raw_hot": 721221,
-      "num": 721221,
-      "word": "建议农村推行低彩礼零彩礼",
-      "onboard_time": 1677472354,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 679752,
@@ -321,6 +345,14 @@
       "onboard_time": 1677469172,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 556328,
+      "num": 556328,
+      "word": "光与夜之恋",
+      "onboard_time": 1677473613,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 533688,
@@ -579,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327883,
+      "num": 327883,
+      "word": "李兰迪两部在播剧",
+      "onboard_time": 1677474033,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323721,
       "num": 196726,
       "word": "张大大说王鹤棣特别好",
@@ -592,6 +632,14 @@
       "word": "诺基亚更换新logo",
       "onboard_time": 1677461788,
       "rank": 39,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 309422,
+      "num": 309422,
+      "word": "iPhone15ProMax或半斤重",
+      "onboard_time": 1677472894,
+      "rank": 28,
       "category": "科技"
     },
     {
@@ -643,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293456,
-      "num": 293456,
-      "word": "利拉德71分",
-      "onboard_time": 1677472655,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 293169,
       "num": 293169,
       "word": "特朗普称破坏北溪的不是俄罗斯",
@@ -675,12 +715,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269934,
+      "num": 254640,
+      "word": "警方称蔡天凤案疑犯表现极不合作",
+      "onboard_time": 1677474630,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 262287,
       "num": 282461,
       "word": "蔡卓妍巴黎时装周出发随拍",
       "onboard_time": 1677425970,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 255286,
+      "num": 255286,
+      "word": "自动续费前5日应以显著方式提醒",
+      "onboard_time": 1677473853,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236349,
@@ -696,6 +752,22 @@
       "word": "2女子饭店吃饭将餐具放地上喂狗",
       "onboard_time": 1677466049,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230575,
+      "num": 230575,
+      "word": "夏花",
+      "onboard_time": 1677474630,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 229274,
+      "num": 229274,
+      "word": "广西公安厅回应欠费48万被停电",
+      "onboard_time": 1677474812,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -771,12 +843,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208023,
+      "num": 208023,
+      "word": "名媛蔡天凤被杀案将5月8日再审",
+      "onboard_time": 1677474812,
+      "rank": 41,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 207842,
       "num": 207842,
       "word": "流感",
       "onboard_time": 1677471513,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207226,
+      "num": 193085,
+      "word": "律师解读香港名媛蔡天凤被杀案",
+      "onboard_time": 1677474450,
+      "rank": 44,
+      "category": "社会负面"
     },
     {
       "raw_hot": 207116,
@@ -801,6 +889,14 @@
       "onboard_time": 1677465387,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201986,
+      "num": 201986,
+      "word": "NBA",
+      "onboard_time": 1677473971,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 198495,
@@ -859,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193533,
+      "num": 193533,
+      "word": "许你万家灯火官宣定档",
+      "onboard_time": 1677472834,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192042,
       "num": 192042,
       "word": "金泰亨演我第一天入职",
@@ -873,6 +977,14 @@
       "onboard_time": 1677468508,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188801,
+      "num": 188801,
+      "word": "利拉德13记三分",
+      "onboard_time": 1677473911,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 167372,
@@ -1231,6 +1343,14 @@
       "num": 1449599,
       "word": "无人机看五彩春耕画卷",
       "onboard_time": 1677421713,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57217,
+      "num": 1363388,
+      "word": "又到了宜耕耘奋斗的春天",
+      "onboard_time": 1677473434,
       "rank": 2,
       "category": "社会新闻"
     },

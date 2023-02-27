@@ -1,0 +1,410 @@
+{
+  "runTime": 1677475103754,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1631282,
+        "num": 1631282,
+        "word": "网传男生进女寝被抓喊我爸是干部",
+        "onboard_time": 1677468930,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1461270,
+        "num": 1461270,
+        "word": "黄晓明期盼丫丫早日回家",
+        "onboard_time": 1677473674,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57217,
+        "num": 1363388,
+        "word": "又到了宜耕耘奋斗的春天",
+        "onboard_time": 1677473434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1297158,
+        "num": 1297158,
+        "word": "谁砸了甘孜旅游我砸他饭碗",
+        "onboard_time": 1677471153,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 962041,
+        "num": 962041,
+        "word": "建议农村推行低彩礼零彩礼",
+        "onboard_time": 1677472354,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1421557,
+        "num": 927470,
+        "word": "丫丫现身纽约时代广场大屏幕",
+        "onboard_time": 1677463106,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842149,
+        "num": 842149,
+        "word": "利拉德71分",
+        "onboard_time": 1677472655,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 690445,
+        "num": 690445,
+        "word": "周杰伦演唱会门票",
+        "onboard_time": 1677468210,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 618273,
+        "num": 618273,
+        "word": "台独辜宽敏病亡",
+        "onboard_time": 1677470313,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556328,
+        "num": 556328,
+        "word": "光与夜之恋",
+        "onboard_time": 1677473613,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2426198,
+        "num": 553436,
+        "word": "蔡天凤前夫一家4人不准保释",
+        "onboard_time": 1677473313,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 541761,
+        "num": 541761,
+        "word": "重紫的腿没了",
+        "onboard_time": 1677469890,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471182,
+        "num": 471182,
+        "word": "HPV疫苗能约几价就打几价",
+        "onboard_time": 1677464427,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463206,
+        "num": 463206,
+        "word": "五一假期可以拼出9天假",
+        "onboard_time": 1677456387,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440576,
+        "num": 440576,
+        "word": "湿厕纸可以擦脸吗",
+        "onboard_time": 1677465867,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412421,
+        "num": 412421,
+        "word": "李佳琦预告",
+        "onboard_time": 1677468566,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 396032,
+        "num": 396032,
+        "word": "金智秀即将solo出道",
+        "onboard_time": 1677469172,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 388460,
+        "num": 388460,
+        "word": "父亲告上大学女儿索要赡养费",
+        "onboard_time": 1677461728,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377777,
+        "num": 377777,
+        "word": "原来发疯真的有用",
+        "onboard_time": 1677465748,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356287,
+        "num": 356287,
+        "word": "滑县通报一男子持刀将妻子杀害",
+        "onboard_time": 1677470731,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1525897,
+        "num": 355868,
+        "word": "郭富城方媛悼念蔡天凤",
+        "onboard_time": 1677467970,
+        "rank": 20,
+        "category": "社会负面,艺人"
+      },
+      {
+        "raw_hot": 370227,
+        "num": 355185,
+        "word": "年轻人为什么不愿意拼凑长假",
+        "onboard_time": 1677465387,
+        "rank": 21,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 352754,
+        "num": 352754,
+        "word": "核酸检测也能测出甲流病毒",
+        "onboard_time": 1677462747,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818543,
+        "num": 351321,
+        "word": "蔡天凤或因硬物撞击耳后致命",
+        "onboard_time": 1677467970,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 349084,
+        "num": 349084,
+        "word": "首个吃辣条的人找到了",
+        "onboard_time": 1677463047,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327883,
+        "num": 327883,
+        "word": "李兰迪两部在播剧",
+        "onboard_time": 1677474033,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 763147,
+        "num": 324007,
+        "word": "蔡天凤前夫父子三人被控谋杀",
+        "onboard_time": 1677467848,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 317162,
+        "num": 317162,
+        "word": "奥司他韦",
+        "onboard_time": 1677455907,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309422,
+        "num": 309422,
+        "word": "iPhone15ProMax或半斤重",
+        "onboard_time": 1677472894,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 487923,
+        "num": 307682,
+        "word": "蔡天凤被碎尸案今日提堂",
+        "onboard_time": 1677468808,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 305397,
+        "num": 305397,
+        "word": "第一次被剧抛弃",
+        "onboard_time": 1677460288,
+        "rank": 30,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 273163,
+        "num": 273163,
+        "word": "00后女生上班吃糖粘掉假牙",
+        "onboard_time": 1677467670,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400341,
+        "num": 272497,
+        "word": "蔡天凤前夫父亲的情妇被捕",
+        "onboard_time": 1677467848,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 271787,
+        "num": 271787,
+        "word": "必胜客 原神",
+        "onboard_time": 1677460410,
+        "rank": 33,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 255286,
+        "num": 255286,
+        "word": "自动续费前5日应以显著方式提醒",
+        "onboard_time": 1677473853,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269934,
+        "num": 254640,
+        "word": "警方称蔡天凤案疑犯表现极不合作",
+        "onboard_time": 1677474630,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 231812,
+        "num": 231812,
+        "word": "iPhone15ProMax与14ProMax对比",
+        "onboard_time": 1677456807,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 230575,
+        "num": 230575,
+        "word": "夏花",
+        "onboard_time": 1677474630,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229274,
+        "num": 229274,
+        "word": "广西公安厅回应欠费48万被停电",
+        "onboard_time": 1677474812,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221572,
+        "num": 221572,
+        "word": "杨紫琼美国演员工会奖影后",
+        "onboard_time": 1677468149,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219265,
+        "num": 219265,
+        "word": "瞬息全宇宙",
+        "onboard_time": 1677471513,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208023,
+        "num": 208023,
+        "word": "名媛蔡天凤被杀案将5月8日再审",
+        "onboard_time": 1677474812,
+        "rank": 41,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 201986,
+        "num": 201986,
+        "word": "NBA",
+        "onboard_time": 1677473971,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193533,
+        "num": 193533,
+        "word": "许你万家灯火官宣定档",
+        "onboard_time": 1677472834,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207226,
+        "num": 193085,
+        "word": "律师解读香港名媛蔡天凤被杀案",
+        "onboard_time": 1677474450,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 192617,
+        "num": 192617,
+        "word": "周杰说张颂文火了我特别高兴",
+        "onboard_time": 1677424771,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189512,
+        "num": 189512,
+        "word": "江苏是早睡早起的省",
+        "onboard_time": 1677457230,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188801,
+        "num": 188801,
+        "word": "利拉德13记三分",
+        "onboard_time": 1677473911,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183678,
+        "num": 183678,
+        "word": "发布者回应拍视频不去救小女孩",
+        "onboard_time": 1677463465,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175624,
+        "num": 175624,
+        "word": "电影脐带定档",
+        "onboard_time": 1677471092,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届二中全会#"
+    }
+  }
+}
