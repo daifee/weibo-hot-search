@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677505192813,
+  "endTime": 1677507509914,
   "band_list": [
     {
       "raw_hot": 4920735,
@@ -24,6 +24,14 @@
       "word": "丫丫仍继续乞食",
       "onboard_time": 1677499469,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2775290,
+      "num": 2775290,
+      "word": "厉以宁逝世",
+      "onboard_time": 1677504451,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -96,14 +104,6 @@
       "word": "五一假期可以拼出9天假",
       "onboard_time": 1677456387,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1686604,
-      "num": 1686604,
-      "word": "厉以宁逝世",
-      "onboard_time": 1677504451,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 803566,
+      "num": 442678,
+      "word": "女子2万买名牌包背了15分钟断了",
+      "onboard_time": 1677506492,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772455,
       "num": 772455,
       "word": "切尔西",
@@ -627,6 +635,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 550246,
+      "num": 550246,
+      "word": "有没有哥哥的看到这段都沉默了",
+      "onboard_time": 1677503790,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 533688,
       "num": 332104,
       "word": "蔡天凤被碎尸案今日提堂",
@@ -737,6 +753,14 @@
       "onboard_time": 1677457348,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465834,
+      "num": 465834,
+      "word": "嫡谋作者关注杨紫檀健次",
+      "onboard_time": 1677507092,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 462646,
@@ -851,20 +875,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405502,
+      "num": 405502,
+      "word": "84岁老汉回应花万元为自己办葬礼",
+      "onboard_time": 1677504871,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404310,
       "num": 404310,
       "word": "宋亚轩张真源一起上学",
       "onboard_time": 1677464548,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 402849,
-      "num": 179483,
-      "word": "有没有哥哥的看到这段都沉默了",
-      "onboard_time": 1677503790,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 401275,
@@ -931,12 +955,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382512,
+      "num": 382512,
+      "word": "湖南普通家庭的饭菜有多香",
+      "onboard_time": 1677505411,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 380855,
       "num": 380855,
       "word": "众星发博盼望丫丫早日回家",
       "onboard_time": 1677494611,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379663,
+      "num": 379663,
+      "word": "奥司他韦周搜索暴涨1150%",
+      "onboard_time": 1677496468,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 374404,
@@ -985,6 +1025,14 @@
       "onboard_time": 1677486151,
       "rank": 45,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 350560,
+      "num": 350560,
+      "word": "Jiejie喊话Scout",
+      "onboard_time": 1677504089,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 346403,
@@ -1131,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326410,
+      "num": 326410,
+      "word": "普通人生活原本的样子",
+      "onboard_time": 1677503550,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323721,
       "num": 196726,
       "word": "张大大说王鹤棣特别好",
@@ -1147,6 +1203,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 313390,
+      "num": 313390,
+      "word": "张馨予后台状态",
+      "onboard_time": 1677506852,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 312270,
+      "num": 312270,
+      "word": "出张新成付辛博旧图没有光渊",
+      "onboard_time": 1677504451,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310899,
       "num": 310899,
       "word": "诺基亚更换新logo",
@@ -1161,14 +1233,6 @@
       "onboard_time": 1677472894,
       "rank": 28,
       "category": "科技"
-    },
-    {
-      "raw_hot": 309185,
-      "num": 309185,
-      "word": "奥司他韦周搜索暴涨1150%",
-      "onboard_time": 1677496468,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 305502,
@@ -1259,14 +1323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290224,
-      "num": 290224,
-      "word": "普通人生活原本的样子",
-      "onboard_time": 1677503550,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 290007,
       "num": 290007,
       "word": "林依晨陈柏霖合照",
@@ -1315,12 +1371,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 265113,
-      "num": 265113,
-      "word": "Jiejie喊话Scout",
-      "onboard_time": 1677504089,
-      "rank": 36,
-      "category": "游戏"
+      "raw_hot": 262752,
+      "num": 262752,
+      "word": "厉以宁生平",
+      "onboard_time": 1677506852,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 262287,
@@ -1371,20 +1427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228317,
+      "num": 228317,
+      "word": "宝可梦",
+      "onboard_time": 1677502111,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227213,
       "num": 227213,
       "word": "怎样知道一家店好不好吃",
       "onboard_time": 1677466647,
       "rank": 38,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 225416,
-      "num": 225416,
-      "word": "出张新成付辛博旧图没有光渊",
-      "onboard_time": 1677504451,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 225058,
@@ -1515,6 +1571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207947,
+      "num": 207947,
+      "word": "赵明称鹰眼相机可自动抓拍",
+      "onboard_time": 1677506730,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 207842,
       "num": 207842,
       "word": "流感",
@@ -1627,20 +1691,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197220,
+      "num": 197220,
+      "word": "曝部分SMTOWN歌手接触新公司",
+      "onboard_time": 1677497670,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196689,
       "num": 196689,
       "word": "妈妈写2000字家书为女儿加油",
       "onboard_time": 1677468448,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196428,
-      "num": 196428,
-      "word": "曝部分SMTOWN歌手接触新公司",
-      "onboard_time": 1677497670,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 195467,
@@ -1779,6 +1843,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 177518,
+      "num": 177518,
+      "word": "滑县",
+      "onboard_time": 1677507273,
+      "rank": 35,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 167372,
       "num": 167372,
       "word": "梅西俱乐部700球",
@@ -1851,12 +1923,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155350,
-      "num": 155350,
-      "word": "宝可梦",
-      "onboard_time": 1677502111,
-      "rank": 39,
-      "category": "游戏"
+      "raw_hot": 155747,
+      "num": 155747,
+      "word": "四川有座大宋不夜城",
+      "onboard_time": 1677504811,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 155292,
@@ -1971,6 +2043,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 134800,
+      "num": 134800,
+      "word": "宋茜保你平安路演花絮照",
+      "onboard_time": 1677506971,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134540,
       "num": 134540,
       "word": "路人镜头下的张雨绮身材",
@@ -2075,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119370,
+      "num": 119370,
+      "word": "玄商君第三片神识是海王",
+      "onboard_time": 1677503730,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115022,
       "num": 115022,
       "word": "明星红毯美颜大赏",
@@ -2091,12 +2179,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 112149,
-      "num": 112149,
-      "word": "84岁老汉回应花万元为自己办葬礼",
-      "onboard_time": 1677504871,
+      "raw_hot": 113392,
+      "num": 113392,
+      "word": "原来黄金还能这样玩",
+      "onboard_time": 1677505352,
       "rank": 46,
-      "category": "社会新闻"
+      "category": "幽默"
     },
     {
       "raw_hot": 111751,
@@ -2131,14 +2219,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 107120,
-      "num": 107120,
-      "word": "玄商君第三片神识是海王",
-      "onboard_time": 1677503730,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 106799,
       "num": 106799,
       "word": "湖人战胜独行侠",
@@ -2153,14 +2233,6 @@
       "onboard_time": 1677497969,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104861,
-      "num": 104861,
-      "word": "四川有座大宋不夜城",
-      "onboard_time": 1677504811,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 102894,
@@ -2417,6 +2489,14 @@
       "onboard_time": 1677423513,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 20714,
+      "num": 1050894,
+      "word": "奋进的春天",
+      "onboard_time": 1677507092,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

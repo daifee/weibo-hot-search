@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/01 00:26:13 ~ 2023/02/27 21:39:52
+本榜单时间：2023/02/01 00:26:13 ~ 2023/02/27 22:18:29
 </p>
 </blockquote>
 <p>
@@ -659,6 +659,12 @@ GUCCI CEO（热度：3039197）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E7%94%A8%E5%B0%BA%E7%8B%A0%E6%8A%BD%E5%AD%A6%E7%94%9F%E6%89%8B%23" target="weibo">
 教育局回应老师用尺狠抽学生手（热度：2793640）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%89%E4%BB%A5%E5%AE%81%E9%80%9D%E4%B8%96%23" target="weibo">
+厉以宁逝世（热度：2775290）
 </a>
 </li>
 
@@ -2471,12 +2477,6 @@ yoyo颢鑫官宣（热度：1733002）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%BA%E5%9D%87%E8%BA%AB%E9%AB%981%E7%B1%B38%E5%AE%9E%E9%94%A4%E4%BA%86%23" target="weibo">
 山东人均身高1米8实锤了（热度：1688736）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%89%E4%BB%A5%E5%AE%81%E9%80%9D%E4%B8%96%23" target="weibo">
-厉以宁逝世（热度：1686604）
 </a>
 </li>
 

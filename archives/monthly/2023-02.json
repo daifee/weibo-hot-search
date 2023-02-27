@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677505192813,
+  "endTime": 1677507509914,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -865,6 +865,14 @@
       "onboard_time": 1676466872,
       "rank": 23,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2775290,
+      "num": 2775290,
+      "word": "厉以宁逝世",
+      "onboard_time": 1677504451,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2762248,
@@ -3280,14 +3288,6 @@
       "word": "山东人均身高1米8实锤了",
       "onboard_time": 1676904034,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1686604,
-      "num": 1686604,
-      "word": "厉以宁逝世",
-      "onboard_time": 1677504451,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -11571,6 +11571,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 803566,
+      "num": 442678,
+      "word": "女子2万买名牌包背了15分钟断了",
+      "onboard_time": 1677506492,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 803299,
       "num": 803299,
       "word": "少爷和我 把事办妥",
@@ -19347,6 +19355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 550246,
+      "num": 550246,
+      "word": "有没有哥哥的看到这段都沉默了",
+      "onboard_time": 1677503790,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 550123,
       "num": 550123,
       "word": "接下来的杭州将是浪漫天花板",
@@ -23203,6 +23219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 465834,
+      "num": 465834,
+      "word": "嫡谋作者关注杨紫檀健次",
+      "onboard_time": 1677507092,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 465470,
       "num": 465470,
       "word": "IVE新歌NotYourGirl",
@@ -26699,6 +26723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405502,
+      "num": 405502,
+      "word": "84岁老汉回应花万元为自己办葬礼",
+      "onboard_time": 1677504871,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405380,
       "num": 405380,
       "word": "动物园通报小老虎意外溺亡",
@@ -26897,14 +26929,6 @@
       "onboard_time": 1675592549,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402849,
-      "num": 179483,
-      "word": "有没有哥哥的看到这段都沉默了",
-      "onboard_time": 1677503790,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 402653,
@@ -28403,6 +28427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382512,
+      "num": 382512,
+      "word": "湖南普通家庭的饭菜有多香",
+      "onboard_time": 1677505411,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 382251,
       "num": 382251,
       "word": "王一博无名原野天空剧照",
@@ -28537,6 +28569,14 @@
       "onboard_time": 1676960609,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 379663,
+      "num": 379663,
+      "word": "奥司他韦周搜索暴涨1150%",
+      "onboard_time": 1677496468,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 379613,
@@ -30651,6 +30691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 350560,
+      "num": 350560,
+      "word": "Jiejie喊话Scout",
+      "onboard_time": 1677504089,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 350454,
       "num": 350454,
       "word": "长空之王严正声明",
@@ -32515,6 +32563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326410,
+      "num": 326410,
+      "word": "普通人生活原本的样子",
+      "onboard_time": 1677503550,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 326342,
       "num": 326342,
       "word": "金智秀法国VOGUE三月刊封面",
@@ -33691,6 +33747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 313390,
+      "num": 313390,
+      "word": "张馨予后台状态",
+      "onboard_time": 1677506852,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 313354,
       "num": 313354,
       "word": "复试",
@@ -33753,6 +33817,14 @@
       "onboard_time": 1675340493,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312270,
+      "num": 312270,
+      "word": "出张新成付辛博旧图没有光渊",
+      "onboard_time": 1677504451,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 312266,
@@ -33977,14 +34049,6 @@
       "onboard_time": 1675863212,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309185,
-      "num": 309185,
-      "word": "奥司他韦周搜索暴涨1150%",
-      "onboard_time": 1677496468,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 309118,
@@ -35841,14 +35905,6 @@
       "onboard_time": 1676003198,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 290224,
-      "num": 290224,
-      "word": "普通人生活原本的样子",
-      "onboard_time": 1677503550,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 290198,
@@ -38547,14 +38603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 265113,
-      "num": 265113,
-      "word": "Jiejie喊话Scout",
-      "onboard_time": 1677504089,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 265107,
       "num": 265107,
       "word": "张若昀新剧原声台词",
@@ -38809,6 +38857,14 @@
       "onboard_time": 1676733275,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 262752,
+      "num": 262752,
+      "word": "厉以宁生平",
+      "onboard_time": 1677506852,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 262731,
@@ -42611,6 +42667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 228317,
+      "num": 228317,
+      "word": "宝可梦",
+      "onboard_time": 1677502111,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228305,
       "num": 228305,
       "word": "首款招聘类ChatGPT产品上线",
@@ -42929,14 +42993,6 @@
       "onboard_time": 1677319045,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 225416,
-      "num": 225416,
-      "word": "出张新成付辛博旧图没有光渊",
-      "onboard_time": 1677504451,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 225335,
@@ -45011,6 +45067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207947,
+      "num": 207947,
+      "word": "赵明称鹰眼相机可自动抓拍",
+      "onboard_time": 1677506730,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 207849,
       "num": 207849,
       "word": "外卖大战会重现吗",
@@ -46667,6 +46731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197220,
+      "num": 197220,
+      "word": "曝部分SMTOWN歌手接触新公司",
+      "onboard_time": 1677497670,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197176,
       "num": 197176,
       "word": "警方回应男子在自家鱼塘电鱼被处罚",
@@ -46777,14 +46849,6 @@
       "onboard_time": 1677123269,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196428,
-      "num": 196428,
-      "word": "曝部分SMTOWN歌手接触新公司",
-      "onboard_time": 1677497670,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 196408,
@@ -50217,6 +50281,14 @@
       "onboard_time": 1677157950,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 177518,
+      "num": 177518,
+      "word": "滑县",
+      "onboard_time": 1677507273,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 177449,
@@ -53707,6 +53779,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 155747,
+      "num": 155747,
+      "word": "四川有座大宋不夜城",
+      "onboard_time": 1677504811,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 155744,
       "num": 155744,
       "word": "卡里乌斯之夜",
@@ -53777,14 +53857,6 @@
       "onboard_time": 1675487547,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155350,
-      "num": 155350,
-      "word": "宝可梦",
-      "onboard_time": 1677502111,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 155303,
@@ -56059,6 +56131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 134800,
+      "num": 134800,
+      "word": "宋茜保你平安路演花絮照",
+      "onboard_time": 1677506971,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134685,
       "num": 134685,
       "word": "李健说导演预判了我的台词",
@@ -57379,6 +57459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119370,
+      "num": 119370,
+      "word": "玄商君第三片神识是海王",
+      "onboard_time": 1677503730,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119328,
       "num": 119328,
       "word": "莱斯特城vs阿森纳",
@@ -57715,6 +57803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113392,
+      "num": 113392,
+      "word": "原来黄金还能这样玩",
+      "onboard_time": 1677505352,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113045,
       "num": 506914,
       "word": "理想L7发布会很苹果",
@@ -57769,14 +57865,6 @@
       "onboard_time": 1675434872,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112149,
-      "num": 112149,
-      "word": "84岁老汉回应花万元为自己办葬礼",
-      "onboard_time": 1677504871,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112120,
@@ -58011,14 +58099,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 107120,
-      "num": 107120,
-      "word": "玄商君第三片神识是海王",
-      "onboard_time": 1677503730,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 106853,
       "num": 106853,
       "word": "美国防部称公众可自行仰望气球位置",
@@ -58137,14 +58217,6 @@
       "onboard_time": 1676037210,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104861,
-      "num": 104861,
-      "word": "四川有座大宋不夜城",
-      "onboard_time": 1677504811,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 104675,
@@ -60288,6 +60360,14 @@
       "word": "高德推出一体化出行平台",
       "onboard_time": 1677063632,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20714,
+      "num": 1050894,
+      "word": "奋进的春天",
+      "onboard_time": 1677507092,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
