@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677466307096,
+  "endTime": 1677466899557,
   "band_list": [
     {
       "raw_hot": 3989793,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2565819,
-      "num": 1455731,
+      "num": 1457343,
       "word": "丫丫现身纽约时代广场大屏幕",
       "onboard_time": 1677463106,
       "rank": 13,
@@ -51,12 +51,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1034061,
-      "num": 1034061,
+      "raw_hot": 1058390,
+      "num": 1058390,
       "word": "核酸检测也能测出甲流病毒",
       "onboard_time": 1677462747,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1055306,
+      "num": 1055306,
+      "word": "年轻人为什么不愿意拼凑长假",
+      "onboard_time": 1677465387,
+      "rank": 7,
+      "category": "社会议题"
     },
     {
       "raw_hot": 870384,
@@ -121,14 +129,6 @@
       "onboard_time": 1677456807,
       "rank": 7,
       "category": "科技"
-    },
-    {
-      "raw_hot": 724415,
-      "num": 724415,
-      "word": "年轻人为什么不愿意拼凑长假",
-      "onboard_time": 1677465387,
-      "rank": 7,
-      "category": "社会议题"
     },
     {
       "raw_hot": 679752,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467930,
+      "num": 467930,
+      "word": "湿厕纸可以擦脸吗",
+      "onboard_time": 1677465867,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436742,
       "num": 436742,
       "word": "大渊种",
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401275,
+      "num": 401275,
+      "word": "发布者回应拍视频不去救小女孩",
+      "onboard_time": 1677463465,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399014,
       "num": 399014,
       "word": "妻子想卖房救重病儿子遭丈夫反对",
@@ -307,14 +323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 386045,
-      "num": 386045,
-      "word": "发布者回应拍视频不去救小女孩",
-      "onboard_time": 1677463465,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 374404,
       "num": 374404,
       "word": "全国超9成小城市房价不过万元",
@@ -323,19 +331,19 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 371348,
+      "num": 371348,
+      "word": "张大大介绍工作室福利",
+      "onboard_time": 1677462987,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363068,
       "num": 311376,
       "word": "肖战在意大利吃川菜",
       "onboard_time": 1677421413,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 348636,
-      "num": 348636,
-      "word": "张大大介绍工作室福利",
-      "onboard_time": 1677462987,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -395,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315505,
+      "num": 315505,
+      "word": "必胜客崩了",
+      "onboard_time": 1677466349,
+      "rank": 22,
+      "category": "游戏,科技"
+    },
+    {
       "raw_hot": 310899,
       "num": 310899,
       "word": "诺基亚更换新logo",
@@ -417,6 +433,14 @@
       "onboard_time": 1677456628,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 302720,
+      "num": 302720,
+      "word": "宋雨琦金发",
+      "onboard_time": 1677466229,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 299688,
@@ -467,6 +491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 270649,
+      "num": 270649,
+      "word": "原来发疯真的有用",
+      "onboard_time": 1677465748,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 262287,
       "num": 282461,
       "word": "蔡卓妍巴黎时装周出发随拍",
@@ -507,14 +539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 214946,
-      "num": 214946,
-      "word": "湿厕纸可以擦脸吗",
-      "onboard_time": 1677465867,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214779,
       "num": 214779,
       "word": "湖人创造本赛季最大逆转分差",
@@ -531,6 +555,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 209629,
+      "num": 209629,
+      "word": "光渊 离家出走",
+      "onboard_time": 1677462927,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208483,
       "num": 208483,
       "word": "宋祖儿刘宇宁折腰互动路透",
@@ -539,12 +571,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207116,
+      "num": 207116,
+      "word": "网友自发为丫丫祈福",
+      "onboard_time": 1677466647,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206961,
       "num": 206961,
       "word": "奥司他韦行业一家独大",
       "onboard_time": 1677461067,
       "rank": 26,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 206388,
+      "num": 206388,
+      "word": "2女子饭店吃饭将餐具放地上喂狗",
+      "onboard_time": 1677466049,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203814,
@@ -601,22 +649,6 @@
       "onboard_time": 1677426390,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191088,
-      "num": 191088,
-      "word": "光渊 离家出走",
-      "onboard_time": 1677462927,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 178311,
-      "num": 178311,
-      "word": "原来发疯真的有用",
-      "onboard_time": 1677465748,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 167372,
@@ -715,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147928,
+      "num": 147928,
+      "word": "怎样知道一家店好不好吃",
+      "onboard_time": 1677466647,
+      "rank": 38,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 141552,
       "num": 141552,
       "word": "上海地铁内一男子涂鸦致列车停运",
@@ -747,28 +787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125825,
-      "num": 125825,
-      "word": "宋雨琦金发",
-      "onboard_time": 1677466229,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 124931,
       "num": 124931,
       "word": "公司老板是一只猫吧",
       "onboard_time": 1677429862,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121092,
-      "num": 121092,
-      "word": "2女子饭店吃饭将餐具放地上喂狗",
-      "onboard_time": 1677466049,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120255,
