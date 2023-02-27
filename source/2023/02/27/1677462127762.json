@@ -1,0 +1,410 @@
+{
+  "runTime": 1677462127762,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3989793,
+        "num": 3989793,
+        "word": "必胜客 原神",
+        "onboard_time": 1677460410,
+        "rank": 0,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 1704806,
+        "num": 1704806,
+        "word": "五一假期可以拼出9天假",
+        "onboard_time": 1677456387,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60372,
+        "num": 1449599,
+        "word": "无人机看五彩春耕画卷",
+        "onboard_time": 1677421713,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219244,
+        "num": 1219244,
+        "word": "奥司他韦",
+        "onboard_time": 1677455907,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999021,
+        "num": 999021,
+        "word": "周杰说张颂文火了我特别高兴",
+        "onboard_time": 1677424771,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 870384,
+        "num": 870384,
+        "word": "江苏是早睡早起的省",
+        "onboard_time": 1677457230,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 795913,
+        "num": 795913,
+        "word": "第一次被剧抛弃",
+        "onboard_time": 1677460288,
+        "rank": 6,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 724650,
+        "num": 724650,
+        "word": "iPhone15ProMax与14ProMax对比",
+        "onboard_time": 1677456807,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 668175,
+        "num": 668175,
+        "word": "丫丫是最坚强的熊猫",
+        "onboard_time": 1677458011,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603189,
+        "num": 603189,
+        "word": "苹果内部有一支神秘研发团队",
+        "onboard_time": 1677458790,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 673947,
+        "num": 595186,
+        "word": "孕妇被拐卖34年儿子带母追责",
+        "onboard_time": 1677455305,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582377,
+        "num": 582377,
+        "word": "流浪地球官博换黑头像悼念吴孟达",
+        "onboard_time": 1677459811,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474889,
+        "num": 474889,
+        "word": "王嘉尔 上海",
+        "onboard_time": 1677457348,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421409,
+        "num": 421409,
+        "word": "建议监督8小时工作制执行",
+        "onboard_time": 1677453319,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415388,
+        "num": 415388,
+        "word": "程序员20年喝近2吨可乐屡患结石",
+        "onboard_time": 1677453921,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340484,
+        "num": 340484,
+        "word": "白桃星座",
+        "onboard_time": 1677457951,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333656,
+        "num": 333656,
+        "word": "一大批05后今年参加高考",
+        "onboard_time": 1677455725,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 303242,
+        "num": 303242,
+        "word": "苹果头显不需要iPhone配合使用",
+        "onboard_time": 1677456628,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 299688,
+        "num": 299688,
+        "word": "男孩游乐场殴打4岁男童",
+        "onboard_time": 1677459629,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 297259,
+        "num": 297259,
+        "word": "种牙降价了多地已调整",
+        "onboard_time": 1677456027,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 301091,
+        "num": 297152,
+        "word": "辣目被打伤",
+        "onboard_time": 1677415229,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295230,
+        "num": 295230,
+        "word": "马嘉祺声生不息转场下班路透",
+        "onboard_time": 1677460348,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250177,
+        "num": 250177,
+        "word": "父亲告上大学女儿索要赡养费",
+        "onboard_time": 1677461728,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238171,
+        "num": 238171,
+        "word": "感染甲流大部分都是轻症",
+        "onboard_time": 1677452117,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224583,
+        "num": 224583,
+        "word": "白鹿演我早起",
+        "onboard_time": 1677458852,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212773,
+        "num": 212773,
+        "word": "00后医学生备考期间两次捐髓救人",
+        "onboard_time": 1677461307,
+        "rank": 25,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 206961,
+        "num": 206961,
+        "word": "奥司他韦行业一家独大",
+        "onboard_time": 1677461067,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 202293,
+        "num": 202293,
+        "word": "丫丫除毛发脱落外多项指标正常",
+        "onboard_time": 1677439693,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199675,
+        "num": 199675,
+        "word": "特朗普称破坏北溪的不是俄罗斯",
+        "onboard_time": 1677440351,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 198793,
+        "num": 198793,
+        "word": "湖人创造本赛季最大逆转分差",
+        "onboard_time": 1677459750,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197392,
+        "num": 197392,
+        "word": "医生提醒甲流患者勿自行服用奥司他韦",
+        "onboard_time": 1677457891,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196567,
+        "num": 196567,
+        "word": "普京说世界必须改变",
+        "onboard_time": 1677425672,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 185429,
+        "num": 185429,
+        "word": "肖战在意大利吃川菜",
+        "onboard_time": 1677421413,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179903,
+        "num": 179903,
+        "word": "甲流",
+        "onboard_time": 1677402925,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177108,
+        "num": 177108,
+        "word": "杨芸晴泰国第一份工作vlog",
+        "onboard_time": 1677429144,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166799,
+        "num": 166799,
+        "word": "曼联夺冠",
+        "onboard_time": 1677437113,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164483,
+        "num": 164483,
+        "word": "孔雪儿李硕珉合照",
+        "onboard_time": 1677422972,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164285,
+        "num": 164285,
+        "word": "门诊共济可唤醒1.2万亿个账资金",
+        "onboard_time": 1677457468,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 163886,
+        "num": 163886,
+        "word": "阿克苏5.1级地震",
+        "onboard_time": 1677457169,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157321,
+        "num": 157321,
+        "word": "诺基亚更换新logo",
+        "onboard_time": 1677461788,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 150772,
+        "num": 150772,
+        "word": "奥司他韦应在医生指导下使用",
+        "onboard_time": 1677460648,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150097,
+        "num": 150097,
+        "word": "王鸥演的不忍直视",
+        "onboard_time": 1677425552,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148829,
+        "num": 148829,
+        "word": "虞书欣菱格毛衣上班路透",
+        "onboard_time": 1677432557,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148237,
+        "num": 148237,
+        "word": "别给孩子用磁性文具",
+        "onboard_time": 1677427048,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141578,
+        "num": 141578,
+        "word": "钝评我是小妖怪",
+        "onboard_time": 1677434834,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133500,
+        "num": 133500,
+        "word": "妻子想卖房救重病儿子遭丈夫反对",
+        "onboard_time": 1677414569,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115095,
+        "num": 115095,
+        "word": "刘亚仁一年内注射异丙酚73次",
+        "onboard_time": 1677405268,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 109526,
+        "num": 109526,
+        "word": "大量海外新商家看好中国市场",
+        "onboard_time": 1677462087,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 107083,
+        "num": 107083,
+        "word": "宋祖儿刘宇宁折腰互动路透",
+        "onboard_time": 1677452779,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106799,
+        "num": 106799,
+        "word": "湖人战胜独行侠",
+        "onboard_time": 1677454762,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的人民情怀#"
+    }
+  }
+}
