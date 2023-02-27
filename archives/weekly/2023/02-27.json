@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677532656975,
+  "endTime": 1677533637059,
   "band_list": [
     {
       "raw_hot": 4920735,
@@ -2715,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50437,
+      "num": 40705,
+      "word": "未来10年间我国将迎最大退休潮",
+      "onboard_time": 1677532392,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50203,
       "num": 50203,
       "word": "专家称甲流与新冠叠加几率很小",
@@ -2777,14 +2785,6 @@
       "onboard_time": 1677423513,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14918,
-      "num": 14918,
-      "word": "未来10年间我国将迎最大退休潮",
-      "onboard_time": 1677532392,
-      "rank": 38,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
