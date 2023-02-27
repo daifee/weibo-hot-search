@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/02/01 00:26:13 ~ 2023/02/27 23:20:38
+本榜单时间：2023/02/01 00:26:13 ~ 2023/02/27 23:36:16
 </p>
 </blockquote>
 <p>
@@ -4611,6 +4611,12 @@ Wendy哭了（热度：1200185）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B8%B8%E8%A7%81%E7%97%85%E4%B8%8D%E8%A6%81%E5%8E%BB%E4%B8%89%E7%BA%A7%E5%8C%BB%E9%99%A2%23" target="weibo">
+建议常见病不要去三级医院（热度：1182533）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E5%B9%B4%E7%9A%84%E5%A9%9A%E7%BA%B1%E7%85%A7%E8%83%BD%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23" target="weibo">
 早年的婚纱照能有多离谱（热度：1182510）
 </a>
@@ -4847,12 +4853,6 @@ HYBE三国语言公告没有中文（热度：1169291）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%B8%B4%E6%B4%BB%E4%BA%BA%E4%B9%85%E7%9F%A3%23" target="weibo">
 内娱渴活人久矣（热度：1156152）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B8%B8%E8%A7%81%E7%97%85%E4%B8%8D%E8%A6%81%E5%8E%BB%E4%B8%89%E7%BA%A7%E5%8C%BB%E9%99%A2%23" target="weibo">
-建议常见病不要去三级医院（热度：1155471）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677511238210,
+  "endTime": 1677512176640,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -6131,6 +6131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1182533,
+      "num": 1182533,
+      "word": "建议常见病不要去三级医院",
+      "onboard_time": 1677507752,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1182510,
       "num": 1182510,
       "word": "早年的婚纱照能有多离谱",
@@ -6449,14 +6457,6 @@
       "onboard_time": 1676505986,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1155471,
-      "num": 1155471,
-      "word": "建议常见病不要去三级医院",
-      "onboard_time": 1677507752,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1154795,
@@ -19995,6 +19995,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 537669,
+      "num": 537669,
+      "word": "名侦探柯南cp端水大师",
+      "onboard_time": 1677508053,
+      "rank": 41,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 537536,
       "num": 537536,
       "word": "hanni",
@@ -20545,14 +20553,6 @@
       "onboard_time": 1676421513,
       "rank": 16,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 524443,
-      "num": 524443,
-      "word": "名侦探柯南cp端水大师",
-      "onboard_time": 1677508053,
-      "rank": 41,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 524311,
@@ -41211,6 +41211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241389,
+      "num": 241389,
+      "word": "医生称甲流也会引起白肺",
+      "onboard_time": 1677511349,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241249,
       "num": 241249,
       "word": "李一桐赛车服造型",
@@ -44947,6 +44955,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 209510,
+      "num": 162278,
+      "word": "厉以宁被称为厉股份",
+      "onboard_time": 1677511349,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 209433,
       "num": 209433,
       "word": "谭维维海滩椰林大片",
@@ -46347,6 +46363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199807,
+      "num": 199807,
+      "word": "厉以宁对中国经济做出哪些贡献",
+      "onboard_time": 1677511529,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 199739,
       "num": 199739,
       "word": "高叶分享陈书婷的妆教vlog",
@@ -47017,6 +47041,14 @@
       "onboard_time": 1676084971,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195535,
+      "num": 160664,
+      "word": "陈采尼点评高叶红毯造型",
+      "onboard_time": 1677511767,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195480,
@@ -48001,6 +48033,14 @@
       "onboard_time": 1675852108,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190073,
+      "num": 190073,
+      "word": "宝可梦朱紫零之秘宝",
+      "onboard_time": 1677511590,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 190066,
@@ -49265,6 +49305,14 @@
       "onboard_time": 1675998695,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184039,
+      "num": 158167,
+      "word": "厉以宁主要著作",
+      "onboard_time": 1677511114,
+      "rank": 42,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 183987,
@@ -53643,6 +53691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157197,
+      "num": 157197,
+      "word": "厉以宁曾称中国需要大量的民营企业",
+      "onboard_time": 1677511349,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 157119,
       "num": 157119,
       "word": "刘些宁宫廷风造型",
@@ -53785,6 +53841,14 @@
       "onboard_time": 1675527445,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155974,
+      "num": 155974,
+      "word": "李一桐给自己画黑眼圈",
+      "onboard_time": 1677510691,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 155876,
@@ -55635,6 +55699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139408,
+      "num": 139408,
+      "word": "我国两种甲流亚型同时传播",
+      "onboard_time": 1677511349,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139330,
       "num": 139330,
       "word": "流浪地球2主创央视对话",
@@ -56345,14 +56417,6 @@
       "onboard_time": 1677056434,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133012,
-      "num": 133012,
-      "word": "李一桐给自己画黑眼圈",
-      "onboard_time": 1677510691,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 132973,
@@ -58083,14 +58147,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 108664,
-      "num": 108664,
-      "word": "厉以宁主要著作",
-      "onboard_time": 1677511114,
-      "rank": 42,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 108368,
       "num": 108368,
       "word": "盘点那些高开高走的剧",
@@ -59811,20 +59867,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 51871,
+      "num": 1224669,
+      "word": "奋进的春天",
+      "onboard_time": 1677507092,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51303,
       "num": 51303,
       "word": "萧寒何冉处处吻",
       "onboard_time": 1676846956,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 50093,
-      "num": 1224669,
-      "word": "奋进的春天",
-      "onboard_time": 1677507092,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50072,
