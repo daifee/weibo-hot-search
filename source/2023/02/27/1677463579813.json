@@ -1,0 +1,410 @@
+{
+  "runTime": 1677463579813,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3057093,
+        "num": 3057093,
+        "word": "必胜客 原神",
+        "onboard_time": 1677460410,
+        "rank": 0,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 1257540,
+        "num": 1257540,
+        "word": "父亲告上大学女儿索要赡养费",
+        "onboard_time": 1677461728,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51678,
+        "num": 1201921,
+        "word": "无人机看五彩春耕画卷",
+        "onboard_time": 1677421713,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1186598,
+        "num": 1186598,
+        "word": "五一假期可以拼出9天假",
+        "onboard_time": 1677456387,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838377,
+        "num": 838377,
+        "word": "奥司他韦",
+        "onboard_time": 1677455907,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837486,
+        "num": 837486,
+        "word": "第一次被剧抛弃",
+        "onboard_time": 1677460288,
+        "rank": 5,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 764327,
+        "num": 764327,
+        "word": "周杰说张颂文火了我特别高兴",
+        "onboard_time": 1677424771,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637445,
+        "num": 637445,
+        "word": "江苏是早睡早起的省",
+        "onboard_time": 1677457230,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 558751,
+        "num": 558751,
+        "word": "iPhone15ProMax与14ProMax对比",
+        "onboard_time": 1677456807,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 555310,
+        "num": 555310,
+        "word": "丫丫是最坚强的熊猫",
+        "onboard_time": 1677458011,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524539,
+        "num": 524539,
+        "word": "苹果内部有一支神秘研发团队",
+        "onboard_time": 1677458790,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 514420,
+        "num": 514420,
+        "word": "流浪地球官博换黑头像悼念吴孟达",
+        "onboard_time": 1677459811,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460159,
+        "num": 460159,
+        "word": "孕妇被拐卖34年儿子带母追责",
+        "onboard_time": 1677455305,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457022,
+        "num": 457022,
+        "word": "丫丫现身纽约时代广场大屏幕",
+        "onboard_time": 1677463106,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357420,
+        "num": 357420,
+        "word": "王嘉尔 上海",
+        "onboard_time": 1677457348,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349485,
+        "num": 349485,
+        "word": "大渊种",
+        "onboard_time": 1677462146,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339233,
+        "num": 339233,
+        "word": "KAKAO向HYBE宣战",
+        "onboard_time": 1677463288,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335617,
+        "num": 335617,
+        "word": "杨紫金世佳199爱同框",
+        "onboard_time": 1677462268,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328806,
+        "num": 328806,
+        "word": "程序员20年喝近2吨可乐屡患结石",
+        "onboard_time": 1677453921,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310899,
+        "num": 310899,
+        "word": "诺基亚更换新logo",
+        "onboard_time": 1677461788,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 300519,
+        "num": 300519,
+        "word": "首个吃辣条的人找到了",
+        "onboard_time": 1677463047,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296822,
+        "num": 296822,
+        "word": "00后医学生备考期间两次捐髓救人",
+        "onboard_time": 1677461307,
+        "rank": 21,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 283209,
+        "num": 283209,
+        "word": "白桃星座",
+        "onboard_time": 1677457951,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277636,
+        "num": 277636,
+        "word": "男孩游乐场殴打4岁男童",
+        "onboard_time": 1677459629,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 276057,
+        "num": 276057,
+        "word": "建议监督8小时工作制执行",
+        "onboard_time": 1677453319,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232058,
+        "num": 232058,
+        "word": "核酸检测也能测出甲流病毒",
+        "onboard_time": 1677462747,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216790,
+        "num": 216790,
+        "word": "辣目被打伤",
+        "onboard_time": 1677415229,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215159,
+        "num": 215159,
+        "word": "种牙降价了多地已调整",
+        "onboard_time": 1677456027,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 214779,
+        "num": 214779,
+        "word": "湖人创造本赛季最大逆转分差",
+        "onboard_time": 1677459750,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203852,
+        "num": 203852,
+        "word": "苹果头显不需要iPhone配合使用",
+        "onboard_time": 1677456628,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 319547,
+        "num": 203608,
+        "word": "张大大介绍工作室福利",
+        "onboard_time": 1677462987,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201984,
+        "num": 201984,
+        "word": "一大批05后今年参加高考",
+        "onboard_time": 1677455725,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 200992,
+        "num": 200992,
+        "word": "甲流",
+        "onboard_time": 1677402925,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190833,
+        "num": 190833,
+        "word": "奥司他韦行业一家独大",
+        "onboard_time": 1677461067,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 188071,
+        "num": 188071,
+        "word": "马嘉祺声生不息转场下班路透",
+        "onboard_time": 1677460348,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186682,
+        "num": 186682,
+        "word": "光渊 离家出走",
+        "onboard_time": 1677462927,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181983,
+        "num": 181983,
+        "word": "白鹿演我早起",
+        "onboard_time": 1677458852,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173064,
+        "num": 173064,
+        "word": "感染甲流大部分都是轻症",
+        "onboard_time": 1677452117,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155670,
+        "num": 155670,
+        "word": "特朗普称破坏北溪的不是俄罗斯",
+        "onboard_time": 1677440351,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 155292,
+        "num": 155292,
+        "word": "戴佩妮辛德瑞拉舞台",
+        "onboard_time": 1677463225,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151375,
+        "num": 151375,
+        "word": "普京说世界必须改变",
+        "onboard_time": 1677425672,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 150777,
+        "num": 150777,
+        "word": "曼联夺冠",
+        "onboard_time": 1677437113,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150682,
+        "num": 150682,
+        "word": "医生提醒甲流患者勿自行服用奥司他韦",
+        "onboard_time": 1677457891,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146272,
+        "num": 146272,
+        "word": "丫丫除毛发脱落外多项指标正常",
+        "onboard_time": 1677439693,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140922,
+        "num": 140922,
+        "word": "肖战在意大利吃川菜",
+        "onboard_time": 1677421413,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133366,
+        "num": 133366,
+        "word": "别给孩子用磁性文具",
+        "onboard_time": 1677427048,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123231,
+        "num": 123231,
+        "word": "发布者回应拍视频不去救小女孩",
+        "onboard_time": 1677463465,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118926,
+        "num": 118926,
+        "word": "杨芸晴泰国第一份工作vlog",
+        "onboard_time": 1677429144,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118150,
+        "num": 118150,
+        "word": "虞书欣菱格毛衣上班路透",
+        "onboard_time": 1677432557,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117796,
+        "num": 117796,
+        "word": "门诊共济可唤醒1.2万亿个账资金",
+        "onboard_time": 1677457468,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届二中全会#"
+    }
+  }
+}

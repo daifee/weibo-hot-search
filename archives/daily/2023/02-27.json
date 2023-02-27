@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677462127762,
+  "endTime": 1677463579813,
   "band_list": [
     {
       "raw_hot": 3989793,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1257540,
+      "num": 1257540,
+      "word": "父亲告上大学女儿索要赡养费",
+      "onboard_time": 1677461728,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1219244,
       "num": 1219244,
       "word": "奥司他韦",
@@ -51,8 +59,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 795913,
-      "num": 795913,
+      "raw_hot": 837486,
+      "num": 837486,
       "word": "第一次被剧抛弃",
       "onboard_time": 1677460288,
       "rank": 6,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457022,
+      "num": 457022,
+      "word": "丫丫现身纽约时代广场大屏幕",
+      "onboard_time": 1677463106,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436260,
       "num": 415585,
       "word": "别给孩子用磁性文具",
@@ -243,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349485,
+      "num": 349485,
+      "word": "大渊种",
+      "onboard_time": 1677462146,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 345703,
       "num": 192822,
       "word": "诛仙 六公主",
@@ -257,6 +281,22 @@
       "onboard_time": 1677457951,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 339233,
+      "num": 339233,
+      "word": "KAKAO向HYBE宣战",
+      "onboard_time": 1677463288,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 335617,
+      "num": 335617,
+      "word": "杨紫金世佳199爱同框",
+      "onboard_time": 1677462268,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 333656,
@@ -283,6 +323,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319547,
+      "num": 203608,
+      "word": "张大大介绍工作室福利",
+      "onboard_time": 1677462987,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 310899,
+      "num": 310899,
+      "word": "诺基亚更换新logo",
+      "onboard_time": 1677461788,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 304958,
       "num": 304958,
       "word": "杨芸晴泰国第一份工作vlog",
@@ -299,6 +355,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 300519,
+      "num": 300519,
+      "word": "首个吃辣条的人找到了",
+      "onboard_time": 1677463047,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299688,
       "num": 299688,
       "word": "男孩游乐场殴打4岁男童",
@@ -313,6 +377,14 @@
       "onboard_time": 1677456027,
       "rank": 19,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 296822,
+      "num": 296822,
+      "word": "00后医学生备考期间两次捐髓救人",
+      "onboard_time": 1677461307,
+      "rank": 25,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 295230,
@@ -347,20 +419,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 250177,
-      "num": 250177,
-      "word": "父亲告上大学女儿索要赡养费",
-      "onboard_time": 1677461728,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236349,
       "num": 236349,
       "word": "湖人vs独行侠",
       "onboard_time": 1677453442,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232058,
+      "num": 232058,
+      "word": "核酸检测也能测出甲流病毒",
+      "onboard_time": 1677462747,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225058,
@@ -387,12 +459,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 212773,
-      "num": 212773,
-      "word": "00后医学生备考期间两次捐髓救人",
-      "onboard_time": 1677461307,
-      "rank": 25,
-      "category": "社会正能量,教育"
+      "raw_hot": 214779,
+      "num": 214779,
+      "word": "湖人创造本赛季最大逆转分差",
+      "onboard_time": 1677459750,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 209736,
@@ -417,14 +489,6 @@
       "onboard_time": 1677461067,
       "rank": 26,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 198793,
-      "num": 198793,
-      "word": "湖人创造本赛季最大逆转分差",
-      "onboard_time": 1677459750,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 198495,
@@ -475,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186682,
+      "num": 186682,
+      "word": "光渊 离家出走",
+      "onboard_time": 1677462927,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167372,
       "num": 167372,
       "word": "梅西俱乐部700球",
@@ -523,20 +595,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 157321,
-      "num": 157321,
-      "word": "诺基亚更换新logo",
-      "onboard_time": 1677461788,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 156066,
       "num": 156066,
       "word": "又看到刘诗雯打球了",
       "onboard_time": 1677425192,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155292,
+      "num": 155292,
+      "word": "戴佩妮辛德瑞拉舞台",
+      "onboard_time": 1677463225,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 154413,
@@ -609,6 +681,14 @@
       "onboard_time": 1677429862,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123231,
+      "num": 123231,
+      "word": "发布者回应拍视频不去救小女孩",
+      "onboard_time": 1677463465,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120255,
