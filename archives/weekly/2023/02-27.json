@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677480030004,
+  "endTime": 1677482294309,
   "band_list": [
     {
       "raw_hot": 3989793,
@@ -99,6 +99,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1270272,
+      "num": 1270272,
+      "word": "建议部分岗位向35岁以上群体倾斜",
+      "onboard_time": 1677477809,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1219244,
       "num": 1219244,
       "word": "奥司他韦",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 894084,
-      "num": 408258,
+      "num": 468268,
       "word": "赵露思做完美容后手舞足蹈",
       "onboard_time": 1677475530,
       "rank": 24,
@@ -251,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 729194,
+      "num": 469779,
+      "word": "董明珠称一人一套房承诺不变",
+      "onboard_time": 1677480689,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 725439,
       "num": 725439,
       "word": "台独辜宽敏病亡",
@@ -267,14 +283,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 722722,
-      "num": 399248,
-      "word": "建议部分岗位向35岁以上群体倾斜",
-      "onboard_time": 1677477809,
-      "rank": 12,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 679752,
       "num": 603378,
       "word": "普京说世界必须改变",
@@ -288,6 +296,14 @@
       "word": "孕妇被拐卖34年儿子带母追责",
       "onboard_time": 1677455305,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672639,
+      "num": 469706,
+      "word": "蔡天凤碎尸案提堂3男被告表现平静",
+      "onboard_time": 1677481406,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -345,6 +361,14 @@
       "onboard_time": 1677458790,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 597348,
+      "num": 597348,
+      "word": "90后女生离异后定遗嘱保护财产",
+      "onboard_time": 1677478170,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 583543,
@@ -427,6 +451,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 496590,
+      "num": 496590,
+      "word": "带状疱疹有时会被误认是皮炎",
+      "onboard_time": 1677479848,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491810,
+      "num": 491810,
+      "word": "毛不易演唱会门票",
+      "onboard_time": 1677480087,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 490744,
       "num": 193347,
       "word": "孔雪儿李硕珉合照",
@@ -457,6 +497,14 @@
       "onboard_time": 1677457348,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461014,
+      "num": 461014,
+      "word": "周迅19岁旧照",
+      "onboard_time": 1677479907,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 452973,
@@ -587,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 369232,
-      "num": 369232,
-      "word": "90后女生离异后定遗嘱保护财产",
-      "onboard_time": 1677478170,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364429,
       "num": 364429,
       "word": "00后女生上班吃糖粘掉假牙",
@@ -689,6 +729,14 @@
       "onboard_time": 1677471092,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 324698,
+      "num": 175768,
+      "word": "邵逸夫医院",
+      "onboard_time": 1677481647,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 323721,
@@ -795,12 +843,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278650,
+      "num": 278650,
+      "word": "居然在一只猫眼里看到了爱情",
+      "onboard_time": 1677479668,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 276628,
       "num": 249680,
       "word": "27岁男子没穿鞋失踪40余天",
       "onboard_time": 1677466948,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271585,
+      "num": 271585,
+      "word": "无名北美票房超47万美元",
+      "onboard_time": 1677481527,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 269934,
@@ -907,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210885,
+      "num": 210885,
+      "word": "嫡谋影视化",
+      "onboard_time": 1677481167,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209736,
       "num": 209736,
       "word": "解放军军机强硬拦截美军机",
@@ -987,6 +1059,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 199037,
+      "num": 173863,
+      "word": "董明珠将再建议提高个税起征点",
+      "onboard_time": 1677481888,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 198495,
       "num": 198495,
       "word": "OMG战胜iG",
@@ -1001,6 +1081,14 @@
       "onboard_time": 1677420392,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198054,
+      "num": 173271,
+      "word": "如何看年轻人提前立遗嘱",
+      "onboard_time": 1677481888,
+      "rank": 32,
+      "category": "社会议题"
     },
     {
       "raw_hot": 197392,
@@ -1067,20 +1155,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191382,
+      "num": 191382,
+      "word": "未定事件簿夏彦",
+      "onboard_time": 1677481349,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188801,
       "num": 188801,
       "word": "利拉德13记三分",
       "onboard_time": 1677473911,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187152,
-      "num": 187152,
-      "word": "周迅19岁旧照",
-      "onboard_time": 1677479907,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 167372,
@@ -1129,6 +1217,14 @@
       "onboard_time": 1677421355,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158118,
+      "num": 158118,
+      "word": "闪耀暖暖",
+      "onboard_time": 1677480689,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 156066,
@@ -1187,6 +1283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142456,
+      "num": 142456,
+      "word": "100天可以有无限可能",
+      "onboard_time": 1677478948,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141552,
       "num": 141552,
       "word": "上海地铁内一男子涂鸦致列车停运",
@@ -1200,6 +1304,14 @@
       "word": "小朋友的绘本也太好玩了",
       "onboard_time": 1677424713,
       "rank": 29,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 136931,
+      "num": 136931,
+      "word": "大海带走了开心并对你说不",
+      "onboard_time": 1677481288,
+      "rank": 42,
       "category": "幽默,情感"
     },
     {
@@ -1225,14 +1337,6 @@
       "onboard_time": 1677406229,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132110,
-      "num": 132110,
-      "word": "100天可以有无限可能",
-      "onboard_time": 1677478948,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 124931,
@@ -1281,6 +1385,14 @@
       "onboard_time": 1677414689,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 114152,
+      "num": 114152,
+      "word": "校方回应男生进女寝喊我爸是干部",
+      "onboard_time": 1677482247,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 111751,
@@ -1363,28 +1475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98075,
-      "num": 98075,
-      "word": "带状疱疹有时会被误认是皮炎",
-      "onboard_time": 1677479848,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97591,
       "num": 97591,
       "word": "毕雯珺送李一桐玲娜贝儿",
       "onboard_time": 1677429264,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 97320,
-      "num": 97320,
-      "word": "居然在一只猫眼里看到了爱情",
-      "onboard_time": 1677479668,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 97196,
@@ -1537,6 +1633,14 @@
       "onboard_time": 1677430879,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41712,
+      "num": 391067,
+      "word": "窦靖童未来感妆容",
+      "onboard_time": 1677481229,
+      "rank": 14,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 30251,

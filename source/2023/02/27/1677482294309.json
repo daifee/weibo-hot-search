@@ -1,0 +1,410 @@
+{
+  "runTime": 1677482294309,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1270272,
+        "num": 1270272,
+        "word": "建议部分岗位向35岁以上群体倾斜",
+        "onboard_time": 1677477809,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1099898,
+        "num": 1099898,
+        "word": "狂飙麻子变成景点了",
+        "onboard_time": 1677477988,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42409,
+        "num": 829752,
+        "word": "又到了宜耕耘奋斗的春天",
+        "onboard_time": 1677473434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702271,
+        "num": 702271,
+        "word": "谁砸了甘孜旅游我砸他饭碗",
+        "onboard_time": 1677471153,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 597348,
+        "num": 597348,
+        "word": "90后女生离异后定遗嘱保护财产",
+        "onboard_time": 1677478170,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740292,
+        "num": 564923,
+        "word": "丫丫现身纽约时代广场大屏幕",
+        "onboard_time": 1677463106,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496590,
+        "num": 496590,
+        "word": "带状疱疹有时会被误认是皮炎",
+        "onboard_time": 1677479848,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491810,
+        "num": 491810,
+        "word": "毛不易演唱会门票",
+        "onboard_time": 1677480087,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 473087,
+        "num": 473087,
+        "word": "周杰伦演唱会门票",
+        "onboard_time": 1677468210,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 471237,
+        "num": 471237,
+        "word": "Angelababy诉香港娱记朱皮获赔",
+        "onboard_time": 1677475648,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 729194,
+        "num": 469779,
+        "word": "董明珠称一人一套房承诺不变",
+        "onboard_time": 1677480689,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 672639,
+        "num": 469706,
+        "word": "蔡天凤碎尸案提堂3男被告表现平静",
+        "onboard_time": 1677481406,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636465,
+        "num": 468268,
+        "word": "赵露思做完美容后手舞足蹈",
+        "onboard_time": 1677475530,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461014,
+        "num": 461014,
+        "word": "周迅19岁旧照",
+        "onboard_time": 1677479907,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41712,
+        "num": 391067,
+        "word": "窦靖童未来感妆容",
+        "onboard_time": 1677481229,
+        "rank": 14,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 388417,
+        "num": 388417,
+        "word": "建议农村推行低彩礼零彩礼",
+        "onboard_time": 1677472354,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278650,
+        "num": 278650,
+        "word": "居然在一只猫眼里看到了爱情",
+        "onboard_time": 1677479668,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 271585,
+        "num": 271585,
+        "word": "无名北美票房超47万美元",
+        "onboard_time": 1677481527,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269402,
+        "num": 269402,
+        "word": "HPV疫苗能约几价就打几价",
+        "onboard_time": 1677464427,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230199,
+        "num": 230199,
+        "word": "湿厕纸可以擦脸吗",
+        "onboard_time": 1677465867,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390658,
+        "num": 229184,
+        "word": "黄晓明期盼丫丫早日回家",
+        "onboard_time": 1677473674,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218978,
+        "num": 218978,
+        "word": "滑县通报一男子持刀将妻子杀害",
+        "onboard_time": 1677470731,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 210903,
+        "num": 210903,
+        "word": "iPhone15ProMax或半斤重",
+        "onboard_time": 1677472894,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 210885,
+        "num": 210885,
+        "word": "嫡谋影视化",
+        "onboard_time": 1677481167,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207733,
+        "num": 207733,
+        "word": "利拉德71分",
+        "onboard_time": 1677472655,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200687,
+        "num": 200687,
+        "word": "年轻人为什么不愿意拼凑长假",
+        "onboard_time": 1677465387,
+        "rank": 25,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 191382,
+        "num": 191382,
+        "word": "未定事件簿夏彦",
+        "onboard_time": 1677481349,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190581,
+        "num": 190581,
+        "word": "00后女生上班吃糖粘掉假牙",
+        "onboard_time": 1677467670,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182185,
+        "num": 182185,
+        "word": "自动续费前5日应以显著方式提醒",
+        "onboard_time": 1677473853,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177674,
+        "num": 177674,
+        "word": "台独辜宽敏病亡",
+        "onboard_time": 1677470313,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324698,
+        "num": 175768,
+        "word": "邵逸夫医院",
+        "onboard_time": 1677481647,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 199037,
+        "num": 173863,
+        "word": "董明珠将再建议提高个税起征点",
+        "onboard_time": 1677481888,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 198054,
+        "num": 173271,
+        "word": "如何看年轻人提前立遗嘱",
+        "onboard_time": 1677481888,
+        "rank": 32,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 171755,
+        "num": 171755,
+        "word": "重紫的腿没了",
+        "onboard_time": 1677469890,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167766,
+        "num": 167766,
+        "word": "原来发疯真的有用",
+        "onboard_time": 1677465748,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164184,
+        "num": 164184,
+        "word": "核酸检测也能测出甲流病毒",
+        "onboard_time": 1677462747,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163946,
+        "num": 163946,
+        "word": "未定事件簿",
+        "onboard_time": 1677477450,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158434,
+        "num": 158434,
+        "word": "五一假期可以拼出9天假",
+        "onboard_time": 1677456387,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158118,
+        "num": 158118,
+        "word": "闪耀暖暖",
+        "onboard_time": 1677480689,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152517,
+        "num": 152517,
+        "word": "为什么甘孜被爆负面反获好评如潮",
+        "onboard_time": 1677475890,
+        "rank": 39,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 142456,
+        "num": 142456,
+        "word": "100天可以有无限可能",
+        "onboard_time": 1677478948,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142318,
+        "num": 142318,
+        "word": "金智秀即将solo出道",
+        "onboard_time": 1677469172,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136931,
+        "num": 136931,
+        "word": "大海带走了开心并对你说不",
+        "onboard_time": 1677481288,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 135982,
+        "num": 135982,
+        "word": "必胜客 原神",
+        "onboard_time": 1677460410,
+        "rank": 43,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 134426,
+        "num": 134426,
+        "word": "掘金战胜快船",
+        "onboard_time": 1677479009,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133798,
+        "num": 133798,
+        "word": "首个吃辣条的人找到了",
+        "onboard_time": 1677463047,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122439,
+        "num": 122439,
+        "word": "李兰迪两部在播剧",
+        "onboard_time": 1677474033,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121830,
+        "num": 121830,
+        "word": "奥司他韦",
+        "onboard_time": 1677455907,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114152,
+        "num": 114152,
+        "word": "校方回应男生进女寝喊我爸是干部",
+        "onboard_time": 1677482247,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 110619,
+        "num": 110619,
+        "word": "光与夜之恋萧逸",
+        "onboard_time": 1677477450,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届二中全会#"
+    }
+  }
+}
