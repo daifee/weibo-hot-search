@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677479147624,
+  "endTime": 1677480030004,
   "band_list": [
     {
       "raw_hot": 3989793,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1113937,
+      "num": 1113937,
+      "word": "狂飙麻子变成景点了",
+      "onboard_time": 1677477988,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1055306,
       "num": 1055306,
       "word": "年轻人为什么不愿意拼凑长假",
@@ -243,14 +251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 735354,
-      "num": 735354,
-      "word": "狂飙麻子变成景点了",
-      "onboard_time": 1677477988,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 725439,
       "num": 725439,
       "word": "台独辜宽敏病亡",
@@ -265,6 +265,14 @@
       "onboard_time": 1677456807,
       "rank": 7,
       "category": "科技"
+    },
+    {
+      "raw_hot": 722722,
+      "num": 399248,
+      "word": "建议部分岗位向35岁以上群体倾斜",
+      "onboard_time": 1677477809,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 679752,
@@ -395,12 +403,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 517489,
-      "num": 399248,
-      "word": "建议部分岗位向35岁以上群体倾斜",
-      "onboard_time": 1677477809,
-      "rank": 12,
-      "category": "国内要闻"
+      "raw_hot": 527973,
+      "num": 474450,
+      "word": "为什么甘孜被爆负面反获好评如潮",
+      "onboard_time": 1677475890,
+      "rank": 45,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 509289,
@@ -449,14 +457,6 @@
       "onboard_time": 1677457348,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 474450,
-      "num": 474450,
-      "word": "为什么甘孜被爆负面反获好评如潮",
-      "onboard_time": 1677475890,
-      "rank": 45,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 452973,
@@ -585,6 +585,14 @@
       "onboard_time": 1677474033,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 369232,
+      "num": 369232,
+      "word": "90后女生离异后定遗嘱保护财产",
+      "onboard_time": 1677478170,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364429,
@@ -963,20 +971,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203431,
-      "num": 203431,
-      "word": "90后女生离异后定遗嘱保护财产",
-      "onboard_time": 1677478170,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201986,
       "num": 201986,
       "word": "NBA",
       "onboard_time": 1677473971,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200216,
+      "num": 200216,
+      "word": "网友点赞甘孜文旅局执行力",
+      "onboard_time": 1677479430,
+      "rank": 27,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 198495,
@@ -1065,6 +1073,14 @@
       "onboard_time": 1677473911,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187152,
+      "num": 187152,
+      "word": "周迅19岁旧照",
+      "onboard_time": 1677479907,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167372,
@@ -1211,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132110,
+      "num": 132110,
+      "word": "100天可以有无限可能",
+      "onboard_time": 1677478948,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 124931,
       "num": 124931,
       "word": "公司老板是一只猫吧",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1677476309,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121035,
+      "num": 121035,
+      "word": "清融马术vlog",
+      "onboard_time": 1677479188,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 120255,
@@ -1291,20 +1323,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103139,
-      "num": 103139,
-      "word": "100天可以有无限可能",
-      "onboard_time": 1677478948,
-      "rank": 42,
-      "category": "教育"
-    },
-    {
       "raw_hot": 102894,
       "num": 102894,
       "word": "LNG战胜WBG",
       "onboard_time": 1677417093,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101954,
+      "num": 101954,
+      "word": "缉毒民警急速追击冲卡毒贩",
+      "onboard_time": 1677478829,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100827,
@@ -1331,12 +1363,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98075,
+      "num": 98075,
+      "word": "带状疱疹有时会被误认是皮炎",
+      "onboard_time": 1677479848,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97591,
       "num": 97591,
       "word": "毕雯珺送李一桐玲娜贝儿",
       "onboard_time": 1677429264,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97320,
+      "num": 97320,
+      "word": "居然在一只猫眼里看到了爱情",
+      "onboard_time": 1677479668,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 97196,
+      "num": 97196,
+      "word": "西溪湿地2万株梅花绽放",
+      "onboard_time": 1677478888,
+      "rank": 45,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 96785,
@@ -1363,28 +1419,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 94519,
-      "num": 94519,
-      "word": "缉毒民警急速追击冲卡毒贩",
-      "onboard_time": 1677478829,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91523,
       "num": 91523,
       "word": "谢可寅南京livehouse舞台",
       "onboard_time": 1677420573,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 90637,
-      "num": 90637,
-      "word": "西溪湿地2万株梅花绽放",
-      "onboard_time": 1677478888,
-      "rank": 45,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 86186,
