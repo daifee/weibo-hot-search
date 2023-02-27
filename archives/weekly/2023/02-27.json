@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677468249257,
+  "endTime": 1677469107986,
   "band_list": [
     {
       "raw_hot": 3989793,
@@ -19,20 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1713438,
+      "num": 529830,
+      "word": "特朗普或出卖女儿伊万卡以换取减刑",
+      "onboard_time": 1677467429,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1710754,
+      "num": 599615,
+      "word": "郭富城方媛悼念蔡天凤",
+      "onboard_time": 1677467970,
+      "rank": 10,
+      "category": "社会负面,艺人"
+    },
+    {
       "raw_hot": 1704806,
       "num": 1704806,
       "word": "五一假期可以拼出9天假",
       "onboard_time": 1677456387,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1698606,
-      "num": 599615,
-      "word": "郭富城方媛悼念蔡天凤",
-      "onboard_time": 1677467970,
-      "rank": 10,
-      "category": "社会负面,艺人"
     },
     {
       "raw_hot": 1500507,
@@ -113,14 +121,6 @@
       "onboard_time": 1677464427,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 788009,
-      "num": 238584,
-      "word": "特朗普或出卖女儿伊万卡以换取减刑",
-      "onboard_time": 1677467429,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 772455,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564597,
+      "num": 354362,
+      "word": "蔡天凤前夫父子三人被控谋杀",
+      "onboard_time": 1677467848,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 509289,
       "num": 284016,
       "word": "刘亚仁一年内注射异丙酚73次",
@@ -243,12 +251,36 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 498553,
+      "num": 498553,
+      "word": "原来发疯真的有用",
+      "onboard_time": 1677465748,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 498061,
+      "num": 346091,
+      "word": "蔡天凤前夫父亲的情妇被捕",
+      "onboard_time": 1677467848,
+      "rank": 21,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 490744,
       "num": 193347,
       "word": "孔雪儿李硕珉合照",
       "onboard_time": 1677422972,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 489158,
+      "num": 489158,
+      "word": "周杰伦演唱会门票",
+      "onboard_time": 1677468210,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 477636,
@@ -267,12 +299,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458115,
+      "num": 458115,
+      "word": "杨紫琼美国演员工会奖影后",
+      "onboard_time": 1677468149,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 452973,
       "num": 452973,
       "word": "必胜客崩了",
       "onboard_time": 1677466349,
       "rank": 22,
       "category": "游戏,科技"
+    },
+    {
+      "raw_hot": 450720,
+      "num": 303015,
+      "word": "蔡天凤或因硬物撞击耳后致命",
+      "onboard_time": 1677467970,
+      "rank": 41,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 436994,
+      "num": 436994,
+      "word": "宋雨琦金发",
+      "onboard_time": 1677466229,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 436742,
@@ -331,28 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400380,
-      "num": 400380,
-      "word": "宋雨琦金发",
-      "onboard_time": 1677466229,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 399014,
       "num": 399014,
       "word": "妻子想卖房救重病儿子遭丈夫反对",
       "onboard_time": 1677414569,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 394485,
-      "num": 394485,
-      "word": "原来发疯真的有用",
-      "onboard_time": 1677465748,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 387110,
@@ -379,28 +419,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 370843,
-      "num": 238444,
-      "word": "蔡天凤前夫父子三人被控谋杀",
-      "onboard_time": 1677467848,
-      "rank": 31,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 363068,
       "num": 311376,
       "word": "肖战在意大利吃川菜",
       "onboard_time": 1677421413,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353945,
-      "num": 346091,
-      "word": "蔡天凤前夫父亲的情妇被捕",
-      "onboard_time": 1677467848,
-      "rank": 21,
-      "category": "社会负面"
     },
     {
       "raw_hot": 345703,
@@ -465,6 +489,22 @@
       "onboard_time": 1677422194,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322904,
+      "num": 322904,
+      "word": "李佳琦预告",
+      "onboard_time": 1677468566,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 312913,
+      "num": 312913,
+      "word": "00后女生上班吃糖粘掉假牙",
+      "onboard_time": 1677467670,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310899,
@@ -540,7 +580,7 @@
     },
     {
       "raw_hot": 276628,
-      "num": 236930,
+      "num": 249680,
       "word": "27岁男子没穿鞋失踪40余天",
       "onboard_time": 1677466948,
       "rank": 32,
@@ -569,14 +609,6 @@
       "onboard_time": 1677466049,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229249,
-      "num": 229249,
-      "word": "杨紫琼美国演员工会奖影后",
-      "onboard_time": 1677468149,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 225058,
@@ -667,14 +699,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203494,
-      "num": 203494,
-      "word": "00后女生上班吃糖粘掉假牙",
-      "onboard_time": 1677467670,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198495,
       "num": 198495,
       "word": "OMG战胜iG",
@@ -699,12 +723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196689,
+      "num": 196689,
+      "word": "妈妈写2000字家书为女儿加油",
+      "onboard_time": 1677468448,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194120,
       "num": 194120,
       "word": "马赛0比3巴黎圣日耳曼",
       "onboard_time": 1677453502,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193742,
+      "num": 193742,
+      "word": "江西适龄女孩HPV疫苗将免费打",
+      "onboard_time": 1677468329,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193617,
@@ -715,14 +755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192446,
-      "num": 192446,
-      "word": "周杰伦演唱会门票",
-      "onboard_time": 1677468210,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 192042,
       "num": 192042,
       "word": "金泰亨演我第一天入职",
@@ -731,12 +763,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189912,
-      "num": 189912,
-      "word": "蔡天凤或因硬物撞击耳后致命",
-      "onboard_time": 1677467970,
-      "rank": 41,
+      "raw_hot": 191566,
+      "num": 191566,
+      "word": "必胜客回应崩了",
+      "onboard_time": 1677468508,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 189030,
+      "num": 189030,
+      "word": "蔡天凤被碎尸案今日提堂",
+      "onboard_time": 1677468808,
+      "rank": 43,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 169433,
+      "num": 169433,
+      "word": "网传男生进女寝被抓喊我爸是干部",
+      "onboard_time": 1677468930,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 167372,
