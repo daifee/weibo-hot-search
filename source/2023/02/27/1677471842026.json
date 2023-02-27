@@ -1,0 +1,410 @@
+{
+  "runTime": 1677471842026,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1052106,
+        "num": 1052106,
+        "word": "周杰伦演唱会门票",
+        "onboard_time": 1677468210,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 952042,
+        "num": 952042,
+        "word": "父亲告上大学女儿索要赡养费",
+        "onboard_time": 1677461728,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26074,
+        "num": 946693,
+        "word": "无人机看五彩春耕画卷",
+        "onboard_time": 1677421713,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942598,
+        "num": 942598,
+        "word": "网传男生进女寝被抓喊我爸是干部",
+        "onboard_time": 1677468930,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1880960,
+        "num": 844636,
+        "word": "丫丫现身纽约时代广场大屏幕",
+        "onboard_time": 1677463106,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715792,
+        "num": 715792,
+        "word": "核酸检测也能测出甲流病毒",
+        "onboard_time": 1677462747,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711357,
+        "num": 711357,
+        "word": "五一假期可以拼出9天假",
+        "onboard_time": 1677456387,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647241,
+        "num": 647241,
+        "word": "重紫的腿没了",
+        "onboard_time": 1677469890,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 626990,
+        "num": 626990,
+        "word": "湿厕纸可以擦脸吗",
+        "onboard_time": 1677465867,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624143,
+        "num": 624143,
+        "word": "台独辜宽敏病亡",
+        "onboard_time": 1677470313,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1630564,
+        "num": 623398,
+        "word": "郭富城方媛悼念蔡天凤",
+        "onboard_time": 1677467970,
+        "rank": 10,
+        "category": "社会负面,艺人"
+      },
+      {
+        "raw_hot": 612406,
+        "num": 612406,
+        "word": "杨紫琼美国演员工会奖影后",
+        "onboard_time": 1677468149,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 603710,
+        "num": 603710,
+        "word": "HPV疫苗能约几价就打几价",
+        "onboard_time": 1677464427,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562811,
+        "num": 562811,
+        "word": "金智秀即将solo出道",
+        "onboard_time": 1677469172,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 506088,
+        "num": 506088,
+        "word": "原来发疯真的有用",
+        "onboard_time": 1677465748,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 460343,
+        "num": 460343,
+        "word": "首个吃辣条的人找到了",
+        "onboard_time": 1677463047,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460050,
+        "num": 460050,
+        "word": "必胜客 原神",
+        "onboard_time": 1677460410,
+        "rank": 16,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 450123,
+        "num": 450123,
+        "word": "奥司他韦",
+        "onboard_time": 1677455907,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389120,
+        "num": 389120,
+        "word": "第一次被剧抛弃",
+        "onboard_time": 1677460288,
+        "rank": 18,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 368320,
+        "num": 368320,
+        "word": "李佳琦预告",
+        "onboard_time": 1677468566,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1122154,
+        "num": 365589,
+        "word": "蔡天凤前夫父子三人被控谋杀",
+        "onboard_time": 1677467848,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 441893,
+        "num": 361631,
+        "word": "年轻人为什么不愿意拼凑长假",
+        "onboard_time": 1677465387,
+        "rank": 21,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 354639,
+        "num": 354639,
+        "word": "00后女生上班吃糖粘掉假牙",
+        "onboard_time": 1677467670,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843087,
+        "num": 350421,
+        "word": "蔡天凤或因硬物撞击耳后致命",
+        "onboard_time": 1677467970,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 338042,
+        "num": 338042,
+        "word": "必胜客崩了",
+        "onboard_time": 1677466349,
+        "rank": 24,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 2578451,
+        "num": 334508,
+        "word": "特朗普或出卖女儿伊万卡以换取减刑",
+        "onboard_time": 1677467429,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 568107,
+        "num": 324606,
+        "word": "蔡天凤前夫父亲的情妇被捕",
+        "onboard_time": 1677467848,
+        "rank": 26,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 312332,
+        "num": 312332,
+        "word": "滑县通报一男子持刀将妻子杀害",
+        "onboard_time": 1677470731,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 306791,
+        "num": 306791,
+        "word": "宋雨琦金发",
+        "onboard_time": 1677466229,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 458587,
+        "num": 302337,
+        "word": "蔡天凤被碎尸案今日提堂",
+        "onboard_time": 1677468808,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 292665,
+        "num": 292665,
+        "word": "周杰说张颂文火了我特别高兴",
+        "onboard_time": 1677424771,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290002,
+        "num": 290002,
+        "word": "iPhone15ProMax与14ProMax对比",
+        "onboard_time": 1677456807,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 265098,
+        "num": 265098,
+        "word": "发布者回应拍视频不去救小女孩",
+        "onboard_time": 1677463465,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257942,
+        "num": 257942,
+        "word": "电影脐带定档",
+        "onboard_time": 1677471092,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253906,
+        "num": 253906,
+        "word": "谁砸了甘孜旅游我砸他饭碗",
+        "onboard_time": 1677471153,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 251405,
+        "num": 251405,
+        "word": "张大大介绍工作室福利",
+        "onboard_time": 1677462987,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235938,
+        "num": 235938,
+        "word": "瞬息全宇宙",
+        "onboard_time": 1677471513,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231114,
+        "num": 231114,
+        "word": "江苏是早睡早起的省",
+        "onboard_time": 1677457230,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227213,
+        "num": 227213,
+        "word": "怎样知道一家店好不好吃",
+        "onboard_time": 1677466647,
+        "rank": 38,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 208458,
+        "num": 208458,
+        "word": "流浪地球官博换黑头像悼念吴孟达",
+        "onboard_time": 1677459811,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207842,
+        "num": 207842,
+        "word": "流感",
+        "onboard_time": 1677471513,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206697,
+        "num": 206697,
+        "word": "27岁男子没穿鞋失踪40余天",
+        "onboard_time": 1677466948,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201290,
+        "num": 201290,
+        "word": "王嘉尔 上海",
+        "onboard_time": 1677457348,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199880,
+        "num": 199880,
+        "word": "KAKAO向HYBE宣战",
+        "onboard_time": 1677463288,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189629,
+        "num": 189629,
+        "word": "宋亚轩张真源一起上学",
+        "onboard_time": 1677464548,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180159,
+        "num": 180159,
+        "word": "SMTOWN前练习生与aespa合照",
+        "onboard_time": 1677465628,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165492,
+        "num": 165492,
+        "word": "江西适龄女孩HPV疫苗将免费打",
+        "onboard_time": 1677468329,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164170,
+        "num": 164170,
+        "word": "苹果内部有一支神秘研发团队",
+        "onboard_time": 1677458790,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 145805,
+        "num": 145805,
+        "word": "光渊 离家出走",
+        "onboard_time": 1677462927,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143103,
+        "num": 143103,
+        "word": "湖人创造本赛季最大逆转分差",
+        "onboard_time": 1677459750,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届二中全会#"
+    }
+  }
+}

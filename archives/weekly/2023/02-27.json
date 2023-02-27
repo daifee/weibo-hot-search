@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677469107986,
+  "endTime": 1677471842026,
   "band_list": [
     {
       "raw_hot": 3989793,
@@ -11,6 +11,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 2578451,
+      "num": 529830,
+      "word": "特朗普或出卖女儿伊万卡以换取减刑",
+      "onboard_time": 1677467429,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2565819,
       "num": 1457343,
       "word": "丫丫现身纽约时代广场大屏幕",
@@ -19,16 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1713438,
-      "num": 529830,
-      "word": "特朗普或出卖女儿伊万卡以换取减刑",
-      "onboard_time": 1677467429,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 1710754,
-      "num": 599615,
+      "num": 623398,
       "word": "郭富城方媛悼念蔡天凤",
       "onboard_time": 1677467970,
       "rank": 10,
@@ -75,12 +75,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1122154,
+      "num": 365589,
+      "word": "蔡天凤前夫父子三人被控谋杀",
+      "onboard_time": 1677467848,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1055306,
       "num": 1055306,
       "word": "年轻人为什么不愿意拼凑长假",
       "onboard_time": 1677465387,
       "rank": 7,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 1052106,
+      "num": 1052106,
+      "word": "周杰伦演唱会门票",
+      "onboard_time": 1677468210,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 942598,
+      "num": 942598,
+      "word": "网传男生进女寝被抓喊我爸是干部",
+      "onboard_time": 1677468930,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 870384,
@@ -97,6 +121,14 @@
       "onboard_time": 1677415229,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 843087,
+      "num": 350421,
+      "word": "蔡天凤或因硬物撞击耳后致命",
+      "onboard_time": 1677467970,
+      "rank": 41,
+      "category": "社会负面"
     },
     {
       "raw_hot": 841652,
@@ -187,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647241,
+      "num": 647241,
+      "word": "重紫的腿没了",
+      "onboard_time": 1677469890,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 644982,
       "num": 213441,
       "word": "刘宇说讨厌INTO1要解散了",
@@ -195,12 +235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 624143,
+      "num": 624143,
+      "word": "台独辜宽敏病亡",
+      "onboard_time": 1677470313,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616503,
       "num": 616503,
       "word": "甲流",
       "onboard_time": 1677402925,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612406,
+      "num": 612406,
+      "word": "杨紫琼美国演员工会奖影后",
+      "onboard_time": 1677468149,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 603189,
@@ -235,12 +291,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 564597,
-      "num": 354362,
-      "word": "蔡天凤前夫父子三人被控谋杀",
+      "raw_hot": 568107,
+      "num": 346091,
+      "word": "蔡天凤前夫父亲的情妇被捕",
       "onboard_time": 1677467848,
-      "rank": 31,
+      "rank": 21,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 562811,
+      "num": 562811,
+      "word": "金智秀即将solo出道",
+      "onboard_time": 1677469172,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 509289,
@@ -251,20 +315,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 498553,
-      "num": 498553,
+      "raw_hot": 506088,
+      "num": 506088,
       "word": "原来发疯真的有用",
       "onboard_time": 1677465748,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 498061,
-      "num": 346091,
-      "word": "蔡天凤前夫父亲的情妇被捕",
-      "onboard_time": 1677467848,
-      "rank": 21,
-      "category": "社会负面"
     },
     {
       "raw_hot": 490744,
@@ -273,14 +329,6 @@
       "onboard_time": 1677422972,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 489158,
-      "num": 489158,
-      "word": "周杰伦演唱会门票",
-      "onboard_time": 1677468210,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 477636,
@@ -299,12 +347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 458115,
-      "num": 458115,
-      "word": "杨紫琼美国演员工会奖影后",
-      "onboard_time": 1677468149,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 458587,
+      "num": 302337,
+      "word": "蔡天凤被碎尸案今日提堂",
+      "onboard_time": 1677468808,
+      "rank": 43,
+      "category": "社会负面"
     },
     {
       "raw_hot": 452973,
@@ -313,14 +361,6 @@
       "onboard_time": 1677466349,
       "rank": 22,
       "category": "游戏,科技"
-    },
-    {
-      "raw_hot": 450720,
-      "num": 303015,
-      "word": "蔡天凤或因硬物撞击耳后致命",
-      "onboard_time": 1677467970,
-      "rank": 41,
-      "category": "社会负面"
     },
     {
       "raw_hot": 436994,
@@ -419,12 +459,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 368320,
+      "num": 368320,
+      "word": "李佳琦预告",
+      "onboard_time": 1677468566,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 363068,
       "num": 311376,
       "word": "肖战在意大利吃川菜",
       "onboard_time": 1677421413,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354639,
+      "num": 354639,
+      "word": "00后女生上班吃糖粘掉假牙",
+      "onboard_time": 1677467670,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345703,
@@ -491,20 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 322904,
-      "num": 322904,
-      "word": "李佳琦预告",
-      "onboard_time": 1677468566,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 312913,
-      "num": 312913,
-      "word": "00后女生上班吃糖粘掉假牙",
-      "onboard_time": 1677467670,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 312332,
+      "num": 312332,
+      "word": "滑县通报一男子持刀将妻子杀害",
+      "onboard_time": 1677470731,
+      "rank": 27,
+      "category": "社会负面"
     },
     {
       "raw_hot": 310899,
@@ -595,6 +643,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 257942,
+      "num": 257942,
+      "word": "电影脐带定档",
+      "onboard_time": 1677471092,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 253906,
+      "num": 253906,
+      "word": "谁砸了甘孜旅游我砸他饭碗",
+      "onboard_time": 1677471153,
+      "rank": 34,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 236349,
       "num": 236349,
       "word": "湖人vs独行侠",
@@ -603,12 +667,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235938,
+      "num": 235938,
+      "word": "瞬息全宇宙",
+      "onboard_time": 1677471513,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235164,
       "num": 235164,
       "word": "2女子饭店吃饭将餐具放地上喂狗",
       "onboard_time": 1677466049,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227213,
+      "num": 227213,
+      "word": "怎样知道一家店好不好吃",
+      "onboard_time": 1677466647,
+      "rank": 38,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 225058,
@@ -633,14 +713,6 @@
       "onboard_time": 1677425493,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 215461,
-      "num": 215461,
-      "word": "怎样知道一家店好不好吃",
-      "onboard_time": 1677466647,
-      "rank": 38,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 214779,
@@ -673,6 +745,14 @@
       "onboard_time": 1677452779,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207842,
+      "num": 207842,
+      "word": "流感",
+      "onboard_time": 1677471513,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207116,
@@ -769,22 +849,6 @@
       "onboard_time": 1677468508,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 189030,
-      "num": 189030,
-      "word": "蔡天凤被碎尸案今日提堂",
-      "onboard_time": 1677468808,
-      "rank": 43,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 169433,
-      "num": 169433,
-      "word": "网传男生进女寝被抓喊我爸是干部",
-      "onboard_time": 1677468930,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 167372,
