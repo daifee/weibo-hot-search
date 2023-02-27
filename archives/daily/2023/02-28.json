@@ -1,6 +1,6 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677516380128,
+  "endTime": 1677518303033,
   "band_list": [
     {
       "raw_hot": 1747050,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395230,
+      "num": 213875,
+      "word": "蔡天凤案港媒报道是否过于详细",
+      "onboard_time": 1677515241,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 368832,
       "num": 160332,
       "word": "甲流",
@@ -171,12 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185773,
-      "num": 185773,
-      "word": "蔡天凤案港媒报道是否过于详细",
-      "onboard_time": 1677515241,
-      "rank": 49,
-      "category": "社会负面"
+      "raw_hot": 186416,
+      "num": 186416,
+      "word": "被山东一张海鲜面价格单馋哭了",
+      "onboard_time": 1677515063,
+      "rank": 48,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 177958,
@@ -241,14 +249,6 @@
       "onboard_time": 1677512488,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129368,
-      "num": 129368,
-      "word": "被山东一张海鲜面价格单馋哭了",
-      "onboard_time": 1677515063,
-      "rank": 48,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 124030,
@@ -393,6 +393,30 @@
       "onboard_time": 1677510691,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 73447,
+      "num": 73447,
+      "word": "小熊猫美美",
+      "onboard_time": 1677516799,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50203,
+      "num": 50203,
+      "word": "专家称甲流与新冠叠加几率很小",
+      "onboard_time": 1677517697,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37885,
+      "num": 37885,
+      "word": "当一个巨蟹座不碰感情时",
+      "onboard_time": 1677485250,
+      "rank": 48,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 28333,
