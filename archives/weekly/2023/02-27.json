@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677496606393,
+  "endTime": 1677497642090,
   "band_list": [
     {
       "raw_hot": 4920735,
@@ -297,6 +297,14 @@
       "onboard_time": 1677481888,
       "rank": 31,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 844630,
+      "num": 388929,
+      "word": "美国53岁儿童性侵犯疑被连环杀手狱友杀死",
+      "onboard_time": 1677496288,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 842149,
@@ -683,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 437258,
+      "num": 422973,
+      "word": "厦门工商旅游学校回应学生跳楼",
+      "onboard_time": 1677495271,
+      "rank": 10,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 436994,
       "num": 436994,
       "word": "宋雨琦金发",
@@ -729,14 +745,6 @@
       "onboard_time": 1677485911,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422973,
-      "num": 422973,
-      "word": "厦门工商旅游学校回应学生跳楼",
-      "onboard_time": 1677495271,
-      "rank": 10,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 418405,
@@ -843,8 +851,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 365442,
-      "num": 365442,
+      "raw_hot": 366319,
+      "num": 366319,
       "word": "贺峻霖采访华晨宇",
       "onboard_time": 1677496348,
       "rank": 15,
@@ -1195,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239870,
+      "num": 239870,
+      "word": "奥司他韦周搜索暴涨1150%",
+      "onboard_time": 1677496468,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 236349,
       "num": 236349,
       "word": "湖人vs独行侠",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1677484111,
       "rank": 35,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 213209,
+      "num": 213209,
+      "word": "流浪地球2到徐工化缘",
+      "onboard_time": 1677497549,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 210885,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1677468448,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194308,
+      "num": 194308,
+      "word": "游客误把野狼当狗下车拍照",
+      "onboard_time": 1677496891,
+      "rank": 26,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 194120,
@@ -1635,19 +1667,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153041,
+      "num": 153041,
+      "word": "小车坠河路人下水扶正车辆救出4人",
+      "onboard_time": 1677495450,
+      "rank": 35,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 150772,
       "num": 150772,
       "word": "奥司他韦应在医生指导下使用",
       "onboard_time": 1677460648,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150700,
-      "num": 150700,
-      "word": "美国53岁儿童性侵犯疑被连环杀手狱友杀死",
-      "onboard_time": 1677496288,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1665,14 +1697,6 @@
       "onboard_time": 1677432557,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 145348,
-      "num": 145348,
-      "word": "小车坠河路人下水扶正车辆救出4人",
-      "onboard_time": 1677495450,
-      "rank": 35,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 142456,
@@ -1827,14 +1851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 112082,
-      "num": 112082,
-      "word": "奥司他韦周搜索暴涨1150%",
-      "onboard_time": 1677496468,
-      "rank": 45,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 111751,
       "num": 111751,
       "word": "HYBE新女团MOONCHILD",
@@ -1955,12 +1971,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93998,
+      "num": 93998,
+      "word": "甘孜文旅局长回应博主退订酒店被骂",
+      "onboard_time": 1677497368,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 91523,
       "num": 91523,
       "word": "谢可寅南京livehouse舞台",
       "onboard_time": 1677420573,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 90729,
+      "num": 90729,
+      "word": "3D模拟香港名媛碎尸案经过",
+      "onboard_time": 1677497609,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 86186,
@@ -2091,20 +2123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33133,
+      "num": 372227,
+      "word": "新能源守得住才能跑得远",
+      "onboard_time": 1677495632,
+      "rank": 14,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 30251,
       "num": 30251,
       "word": "没有情为夜昙掏空钱包",
       "onboard_time": 1677424353,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28237,
-      "num": 372227,
-      "word": "新能源守得住才能跑得远",
-      "onboard_time": 1677495632,
-      "rank": 14,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 21307,
