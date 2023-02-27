@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677493328634,
+  "endTime": 1677494322006,
   "band_list": [
     {
       "raw_hot": 4920735,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1784696,
-      "num": 947267,
+      "num": 1070018,
       "word": "章子怡章泽天聚餐",
       "onboard_time": 1677487771,
       "rank": 3,
@@ -64,6 +64,14 @@
       "word": "董明珠辟谣与王自如恋情传闻",
       "onboard_time": 1677490109,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1750993,
+      "num": 1750993,
+      "word": "0室0厅1卫房间一晚60元能住吗",
+      "onboard_time": 1677492509,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -201,6 +209,14 @@
       "onboard_time": 1677489451,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 964707,
+      "num": 964707,
+      "word": "奶嗝文学",
+      "onboard_time": 1677492568,
+      "rank": 20,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 962041,
@@ -387,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 650031,
-      "num": 409318,
-      "word": "0室0厅1卫房间一晚60元能住吗",
-      "onboard_time": 1677492509,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 648486,
       "num": 485830,
       "word": "广西公安厅回应欠费48万被停电",
@@ -473,6 +481,22 @@
       "onboard_time": 1677459811,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 580714,
+      "num": 580714,
+      "word": "网传庆余年2原班人马4月18日开机",
+      "onboard_time": 1677493651,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 577622,
+      "num": 577622,
+      "word": "周杰伦 抢票",
+      "onboard_time": 1677493890,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 574786,
@@ -609,6 +633,14 @@
       "onboard_time": 1677457348,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 462646,
+      "num": 462646,
+      "word": "64岁男子为到工地干活办假证减龄",
+      "onboard_time": 1677492030,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452973,
@@ -795,14 +827,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 349568,
-      "num": 349568,
-      "word": "64岁男子为到工地干活办假证减龄",
-      "onboard_time": 1677492030,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 346403,
       "num": 346403,
       "word": "起底甘孜拒绝退款酒店",
@@ -939,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321361,
+      "num": 321361,
+      "word": "退订酒店被辱骂博主已谅解对方",
+      "onboard_time": 1677492448,
+      "rank": 29,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 317887,
       "num": 317887,
       "word": "未定事件簿",
@@ -961,6 +993,14 @@
       "onboard_time": 1677472894,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 309114,
+      "num": 309114,
+      "word": "关于我爸是小学校长这件事",
+      "onboard_time": 1677492091,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 304958,
@@ -1043,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290007,
+      "num": 290007,
+      "word": "林依晨陈柏霖合照",
+      "onboard_time": 1677487110,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282101,
       "num": 192594,
       "word": "蔡徐坤的戒指好大",
@@ -1051,28 +1099,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 276974,
-      "num": 276974,
-      "word": "林依晨陈柏霖合照",
-      "onboard_time": 1677487110,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 276628,
       "num": 249680,
       "word": "27岁男子没穿鞋失踪40余天",
       "onboard_time": 1677466948,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275316,
-      "num": 275316,
-      "word": "奶嗝文学",
-      "onboard_time": 1677492568,
-      "rank": 20,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 271585,
@@ -1121,14 +1153,6 @@
       "onboard_time": 1677475410,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244456,
-      "num": 244456,
-      "word": "关于我爸是小学校长这件事",
-      "onboard_time": 1677492091,
-      "rank": 23,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 236349,
@@ -1339,14 +1363,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 198846,
-      "num": 198846,
-      "word": "退订酒店被辱骂博主已谅解对方",
-      "onboard_time": 1677492448,
-      "rank": 29,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 198495,
       "num": 198495,
       "word": "OMG战胜iG",
@@ -1457,6 +1473,14 @@
       "onboard_time": 1677484770,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184162,
+      "num": 184162,
+      "word": "教育如何应对人口之变",
+      "onboard_time": 1677493651,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 182019,
