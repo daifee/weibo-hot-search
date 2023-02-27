@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677466899557,
+  "endTime": 1677468249257,
   "band_list": [
     {
       "raw_hot": 3989793,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1698606,
+      "num": 599615,
+      "word": "郭富城方媛悼念蔡天凤",
+      "onboard_time": 1677467970,
+      "rank": 10,
+      "category": "社会负面,艺人"
+    },
+    {
       "raw_hot": 1500507,
       "num": 999021,
       "word": "周杰说张颂文火了我特别高兴",
@@ -51,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1058390,
-      "num": 1058390,
+      "raw_hot": 1124953,
+      "num": 1124953,
       "word": "核酸检测也能测出甲流病毒",
       "onboard_time": 1677462747,
       "rank": 25,
@@ -107,12 +115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 788009,
+      "num": 238584,
+      "word": "特朗普或出卖女儿伊万卡以换取减刑",
+      "onboard_time": 1677467429,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 772455,
       "num": 772455,
       "word": "切尔西",
       "onboard_time": 1677423212,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 753081,
+      "num": 753081,
+      "word": "湿厕纸可以擦脸吗",
+      "onboard_time": 1677465867,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 745735,
@@ -243,12 +267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 467930,
-      "num": 467930,
-      "word": "湿厕纸可以擦脸吗",
-      "onboard_time": 1677465867,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 452973,
+      "num": 452973,
+      "word": "必胜客崩了",
+      "onboard_time": 1677466349,
+      "rank": 22,
+      "category": "游戏,科技"
     },
     {
       "raw_hot": 436742,
@@ -307,12 +331,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400380,
+      "num": 400380,
+      "word": "宋雨琦金发",
+      "onboard_time": 1677466229,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 399014,
       "num": 399014,
       "word": "妻子想卖房救重病儿子遭丈夫反对",
       "onboard_time": 1677414569,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394485,
+      "num": 394485,
+      "word": "原来发疯真的有用",
+      "onboard_time": 1677465748,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 387110,
+      "num": 387110,
+      "word": "张大大介绍工作室福利",
+      "onboard_time": 1677462987,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 386216,
@@ -331,12 +379,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 371348,
-      "num": 371348,
-      "word": "张大大介绍工作室福利",
-      "onboard_time": 1677462987,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 370843,
+      "num": 238444,
+      "word": "蔡天凤前夫父子三人被控谋杀",
+      "onboard_time": 1677467848,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 363068,
@@ -345,6 +393,14 @@
       "onboard_time": 1677421413,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353945,
+      "num": 346091,
+      "word": "蔡天凤前夫父亲的情妇被捕",
+      "onboard_time": 1677467848,
+      "rank": 21,
+      "category": "社会负面"
     },
     {
       "raw_hot": 345703,
@@ -361,6 +417,14 @@
       "onboard_time": 1677457951,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 340460,
+      "num": 340460,
+      "word": "金智秀出发巴黎时装周",
+      "onboard_time": 1677467670,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 335617,
@@ -403,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315505,
-      "num": 315505,
-      "word": "必胜客崩了",
-      "onboard_time": 1677466349,
-      "rank": 22,
-      "category": "游戏,科技"
-    },
-    {
       "raw_hot": 310899,
       "num": 310899,
       "word": "诺基亚更换新logo",
@@ -433,14 +489,6 @@
       "onboard_time": 1677456628,
       "rank": 17,
       "category": "科技"
-    },
-    {
-      "raw_hot": 302720,
-      "num": 302720,
-      "word": "宋雨琦金发",
-      "onboard_time": 1677466229,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 299688,
@@ -491,12 +539,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 270649,
-      "num": 270649,
-      "word": "原来发疯真的有用",
-      "onboard_time": 1677465748,
+      "raw_hot": 276628,
+      "num": 236930,
+      "word": "27岁男子没穿鞋失踪40余天",
+      "onboard_time": 1677466948,
       "rank": 32,
-      "category": "幽默"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262287,
@@ -513,6 +561,22 @@
       "onboard_time": 1677453442,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235164,
+      "num": 235164,
+      "word": "2女子饭店吃饭将餐具放地上喂狗",
+      "onboard_time": 1677466049,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229249,
+      "num": 229249,
+      "word": "杨紫琼美国演员工会奖影后",
+      "onboard_time": 1677468149,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 225058,
@@ -537,6 +601,14 @@
       "onboard_time": 1677425493,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 215461,
+      "num": 215461,
+      "word": "怎样知道一家店好不好吃",
+      "onboard_time": 1677466647,
+      "rank": 38,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 214779,
@@ -587,20 +659,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 206388,
-      "num": 206388,
-      "word": "2女子饭店吃饭将餐具放地上喂狗",
-      "onboard_time": 1677466049,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203814,
       "num": 203814,
       "word": "龚俊拳击手造型拍摄路透",
       "onboard_time": 1677465387,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203494,
+      "num": 203494,
+      "word": "00后女生上班吃糖粘掉假牙",
+      "onboard_time": 1677467670,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198495,
@@ -643,12 +715,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192446,
+      "num": 192446,
+      "word": "周杰伦演唱会门票",
+      "onboard_time": 1677468210,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192042,
       "num": 192042,
       "word": "金泰亨演我第一天入职",
       "onboard_time": 1677426390,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189912,
+      "num": 189912,
+      "word": "蔡天凤或因硬物撞击耳后致命",
+      "onboard_time": 1677467970,
+      "rank": 41,
+      "category": "社会负面"
     },
     {
       "raw_hot": 167372,
@@ -747,14 +835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 147928,
-      "num": 147928,
-      "word": "怎样知道一家店好不好吃",
-      "onboard_time": 1677466647,
-      "rank": 38,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 141552,
       "num": 141552,
       "word": "上海地铁内一男子涂鸦致列车停运",
@@ -777,6 +857,14 @@
       "onboard_time": 1677442031,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135952,
+      "num": 135952,
+      "word": "男子海上偶遇祖国军舰又收到祝福",
+      "onboard_time": 1677467549,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 134540,
