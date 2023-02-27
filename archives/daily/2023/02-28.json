@@ -1,6 +1,6 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677522291602,
+  "endTime": 1677523178584,
   "band_list": [
     {
       "raw_hot": 1747050,
@@ -435,8 +435,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22549,
-      "num": 22549,
+      "raw_hot": 27921,
+      "num": 27921,
+      "word": "巴黎时装周看秀日历",
+      "onboard_time": 1677513087,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 25624,
+      "num": 25624,
       "word": "宝可梦",
       "onboard_time": 1677502111,
       "rank": 47,
@@ -449,14 +457,6 @@
       "onboard_time": 1677513087,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 20867,
-      "num": 20867,
-      "word": "巴黎时装周看秀日历",
-      "onboard_time": 1677513087,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [

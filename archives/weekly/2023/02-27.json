@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677522291602,
+  "endTime": 1677523178584,
   "band_list": [
     {
       "raw_hot": 4920735,
@@ -2747,6 +2747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27921,
+      "num": 27921,
+      "word": "巴黎时装周看秀日历",
+      "onboard_time": 1677513087,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 21307,
       "num": 27170,
       "word": "TTG连追三局获胜",
@@ -2761,14 +2769,6 @@
       "onboard_time": 1677513087,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 20867,
-      "num": 20867,
-      "word": "巴黎时装周看秀日历",
-      "onboard_time": 1677513087,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
