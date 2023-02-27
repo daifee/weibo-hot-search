@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677523178584,
+  "endTime": 1677525348856,
   "band_list": [
     {
       "raw_hot": 4920735,
@@ -2755,20 +2755,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 27455,
+      "num": 27455,
+      "word": "一条plog告别二月",
+      "onboard_time": 1677513087,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21307,
       "num": 27170,
       "word": "TTG连追三局获胜",
       "onboard_time": 1677423513,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 21248,
-      "num": 21248,
-      "word": "一条plog告别二月",
-      "onboard_time": 1677513087,
-      "rank": 48,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
