@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677502684600,
+  "endTime": 1677504542571,
   "band_list": [
     {
       "raw_hot": 4920735,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1482320,
+      "num": 1482320,
+      "word": "茶颜悦色回应满杯奶茶放久了变半杯",
+      "onboard_time": 1677501029,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1481067,
       "num": 1481067,
       "word": "周杰伦演唱会门票",
@@ -259,6 +267,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 984119,
+      "num": 210001,
+      "word": "93年女子已是6个娃的妈妈",
+      "onboard_time": 1677502711,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 962041,
       "num": 962041,
       "word": "建议农村推行低彩礼零彩礼",
@@ -355,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 838155,
-      "num": 410428,
-      "word": "茶颜悦色回应满杯奶茶放久了变半杯",
-      "onboard_time": 1677501029,
-      "rank": 30,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 837486,
       "num": 837486,
       "word": "第一次被剧抛弃",
@@ -435,7 +443,7 @@
       "category": "科技"
     },
     {
-      "raw_hot": 694050,
+      "raw_hot": 707317,
       "num": 694050,
       "word": "朴秀荣ins晒自己晚宴座位",
       "onboard_time": 1677500251,
@@ -603,6 +611,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 537720,
+      "num": 537720,
+      "word": "外卖小哥咆哮称没人能在我手上饿死",
+      "onboard_time": 1677499110,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 533688,
       "num": 332104,
       "word": "蔡天凤被碎尸案今日提堂",
@@ -632,14 +648,6 @@
       "word": "带状疱疹有时会被误认是皮炎",
       "onboard_time": 1677479848,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510494,
-      "num": 510494,
-      "word": "外卖小哥咆哮称没人能在我手上饿死",
-      "onboard_time": 1677499110,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -939,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361077,
+      "num": 361077,
+      "word": "3岁萌娃帮看店遇男子买卫生巾",
+      "onboard_time": 1677499830,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356804,
       "num": 356804,
       "word": "台湾问题不容他人置喙",
@@ -1075,6 +1091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 329886,
+      "num": 329886,
+      "word": "全网都在关注丫丫回国时间",
+      "onboard_time": 1677501209,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326621,
       "num": 326621,
       "word": "杨澜说独立女性不意味着独身",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1677422194,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322792,
+      "num": 179483,
+      "word": "有没有哥哥的看到这段都沉默了",
+      "onboard_time": 1677503790,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 317887,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1677472894,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 305502,
+      "num": 305502,
+      "word": "萧寒得知何冉病情真相",
+      "onboard_time": 1677503010,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 304958,
@@ -1153,14 +1193,6 @@
       "onboard_time": 1677496468,
       "rank": 45,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 298254,
-      "num": 298254,
-      "word": "3岁萌娃帮看店遇男子买卫生巾",
-      "onboard_time": 1677499830,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297259,
@@ -1227,8 +1259,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 276636,
-      "num": 276636,
+      "raw_hot": 280256,
+      "num": 280256,
       "word": "华晨宇说中国式温暖是团结",
       "onboard_time": 1677502047,
       "rank": 16,
@@ -1289,14 +1321,6 @@
       "onboard_time": 1677474630,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247167,
-      "num": 247167,
-      "word": "全网都在关注丫丫回国时间",
-      "onboard_time": 1677501209,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245864,
@@ -1427,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210292,
+      "num": 210292,
+      "word": "普通人生活原本的样子",
+      "onboard_time": 1677503550,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209736,
       "num": 209736,
       "word": "解放军军机强硬拦截美军机",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1677452779,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208467,
+      "num": 208467,
+      "word": "厉以宁逝世",
+      "onboard_time": 1677504451,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207842,
@@ -1579,6 +1619,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196428,
+      "num": 196428,
+      "word": "曝部分SMTOWN歌手接触新公司",
+      "onboard_time": 1677497670,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195467,
+      "num": 195467,
+      "word": "黄奕隐忍式哭戏",
+      "onboard_time": 1677503550,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194120,
       "num": 194120,
       "word": "马赛0比3巴黎圣日耳曼",
@@ -1659,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188655,
+      "num": 188655,
+      "word": "动保呼吁霍格沃茨之遗玩家善待动物",
+      "onboard_time": 1677499469,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187015,
       "num": 187015,
       "word": "董明珠斥某自媒体低级下流无聊",
@@ -1683,20 +1747,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 182581,
-      "num": 182581,
-      "word": "动保呼吁霍格沃茨之遗玩家善待动物",
-      "onboard_time": 1677499469,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 182019,
       "num": 182019,
       "word": "克林斯曼出任韩国男足主教练",
       "onboard_time": 1677490289,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180983,
+      "num": 295448,
+      "word": "荣耀Magic5海外发布会",
+      "onboard_time": 1677502830,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 167372,
@@ -1771,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155350,
+      "num": 155350,
+      "word": "宝可梦",
+      "onboard_time": 1677502111,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155292,
       "num": 155292,
       "word": "戴佩妮辛德瑞拉舞台",
@@ -1793,6 +1865,14 @@
       "onboard_time": 1677409230,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153318,
+      "num": 153318,
+      "word": "Jiejie喊话Scout",
+      "onboard_time": 1677504089,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 153041,
@@ -1955,12 +2035,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 123226,
+      "num": 123226,
+      "word": "出张新成付辛博旧图没有光渊",
+      "onboard_time": 1677504451,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 121035,
       "num": 121035,
       "word": "清融马术vlog",
       "onboard_time": 1677479188,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 120335,
+      "num": 120335,
+      "word": "MWC2023",
+      "onboard_time": 1677503310,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 120255,
@@ -2027,20 +2123,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 107120,
+      "num": 107120,
+      "word": "玄商君第三片神识是海王",
+      "onboard_time": 1677503730,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 106799,
       "num": 106799,
       "word": "湖人战胜独行侠",
       "onboard_time": 1677454762,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105993,
-      "num": 105993,
-      "word": "宝可梦",
-      "onboard_time": 1677502111,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 105275,
