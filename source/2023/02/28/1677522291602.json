@@ -1,0 +1,410 @@
+{
+  "runTime": 1677522291602,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 199475,
+        "num": 199475,
+        "word": "苏小玎已经不会高启盛舞步了",
+        "onboard_time": 1677513509,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191778,
+        "num": 191778,
+        "word": "有没有哥哥的看到这段都沉默了",
+        "onboard_time": 1677503790,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9356,
+        "num": 151265,
+        "word": "奋进的春天",
+        "onboard_time": 1677507092,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111793,
+        "num": 111793,
+        "word": "男孩爱吃水饺家长包了33天直接崩溃",
+        "onboard_time": 1677513267,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105008,
+        "num": 105008,
+        "word": "茶颜悦色回应满杯奶茶放久了变半杯",
+        "onboard_time": 1677501029,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 264477,
+        "num": 104363,
+        "word": "丫丫仍继续乞食",
+        "onboard_time": 1677499469,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103293,
+        "num": 103293,
+        "word": "刘亦菲新造型好辣",
+        "onboard_time": 1677508952,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82674,
+        "num": 82674,
+        "word": "个税起征点是否应提高",
+        "onboard_time": 1677513926,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 81572,
+        "num": 81572,
+        "word": "0室0厅1卫房间一晚60元能住吗",
+        "onboard_time": 1677492509,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78521,
+        "num": 78521,
+        "word": "被山东一张海鲜面价格单馋哭了",
+        "onboard_time": 1677515063,
+        "rank": 9,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 228587,
+        "num": 75846,
+        "word": "蔡天凤案港媒报道是否过于详细",
+        "onboard_time": 1677515241,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 72263,
+        "num": 72263,
+        "word": "建议常见病不要去三级医院",
+        "onboard_time": 1677507752,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67727,
+        "num": 67727,
+        "word": "周杰伦 抢票",
+        "onboard_time": 1677493890,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 65693,
+        "num": 65693,
+        "word": "华晨宇说音乐不应该停留在舒适圈",
+        "onboard_time": 1677513146,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 65469,
+        "num": 65469,
+        "word": "女生奶茶中喝出3个标签后细菌感染",
+        "onboard_time": 1677498391,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63726,
+        "num": 63726,
+        "word": "厉以宁逝世",
+        "onboard_time": 1677504451,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 63363,
+        "num": 63363,
+        "word": "小熊猫美美",
+        "onboard_time": 1677516799,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60564,
+        "num": 60564,
+        "word": "全网都在关注丫丫回国时间",
+        "onboard_time": 1677501209,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47395,
+        "num": 47395,
+        "word": "名侦探柯南cp端水大师",
+        "onboard_time": 1677508053,
+        "rank": 18,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 44024,
+        "num": 44024,
+        "word": "专家称甲流与新冠叠加几率很小",
+        "onboard_time": 1677517697,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77227,
+        "num": 43420,
+        "word": "美国53岁儿童性侵犯疑被连环杀手狱友杀死",
+        "onboard_time": 1677496288,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42269,
+        "num": 42269,
+        "word": "萧寒何冉和好了",
+        "onboard_time": 1677513567,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41932,
+        "num": 41932,
+        "word": "游客误把野狼当狗下车拍照",
+        "onboard_time": 1677496891,
+        "rank": 22,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 41792,
+        "num": 41792,
+        "word": "奶嗝文学",
+        "onboard_time": 1677492568,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 39791,
+        "num": 39791,
+        "word": "张兰膝盖伤",
+        "onboard_time": 1677512788,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39188,
+        "num": 39188,
+        "word": "医生称甲流也会引起白肺",
+        "onboard_time": 1677511349,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38726,
+        "num": 38726,
+        "word": "我国两种甲流亚型同时传播",
+        "onboard_time": 1677511349,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38269,
+        "num": 38269,
+        "word": "动保呼吁霍格沃茨之遗玩家善待动物",
+        "onboard_time": 1677499469,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36163,
+        "num": 36163,
+        "word": "外卖小哥咆哮称没人能在我手上饿死",
+        "onboard_time": 1677499110,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36072,
+        "num": 36072,
+        "word": "84岁老汉回应花万元为自己办葬礼",
+        "onboard_time": 1677504871,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33132,
+        "num": 33132,
+        "word": "网传庆余年2原班人马4月18日开机",
+        "onboard_time": 1677493651,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32444,
+        "num": 32444,
+        "word": "宝可梦朱紫",
+        "onboard_time": 1677508413,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32207,
+        "num": 32207,
+        "word": "湖南普通家庭的饭菜有多香",
+        "onboard_time": 1677505411,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 31373,
+        "num": 31373,
+        "word": "甲流患者不宜自行服用奥司他韦",
+        "onboard_time": 1677512488,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30158,
+        "num": 30158,
+        "word": "陈采尼点评高叶红毯造型",
+        "onboard_time": 1677511767,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29086,
+        "num": 29086,
+        "word": "蔡徐坤线上演唱会热度",
+        "onboard_time": 1677513087,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28279,
+        "num": 28279,
+        "word": "董明珠辟谣与王自如恋情传闻",
+        "onboard_time": 1677490109,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27847,
+        "num": 27847,
+        "word": "曝部分SMTOWN歌手接触新公司",
+        "onboard_time": 1677497670,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27689,
+        "num": 27689,
+        "word": "郭帆剧透流浪地球3会有地方小吃呈现",
+        "onboard_time": 1677514226,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27335,
+        "num": 27335,
+        "word": "众星发博盼望丫丫早日回家",
+        "onboard_time": 1677494611,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27264,
+        "num": 27264,
+        "word": "丫丫",
+        "onboard_time": 1677494430,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26946,
+        "num": 26946,
+        "word": "3岁萌娃帮看店遇男子买卫生巾",
+        "onboard_time": 1677499830,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25295,
+        "num": 25295,
+        "word": "奥司他韦周搜索暴涨1150%",
+        "onboard_time": 1677496468,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 24490,
+        "num": 24490,
+        "word": "张馨予后台状态",
+        "onboard_time": 1677506852,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24438,
+        "num": 24438,
+        "word": "建议小学教育年限缩短到5年",
+        "onboard_time": 1677489451,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 23887,
+        "num": 23887,
+        "word": "普通人生活原本的样子",
+        "onboard_time": 1677503550,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23556,
+        "num": 23556,
+        "word": "嫡谋作者关注杨紫檀健次",
+        "onboard_time": 1677507092,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22549,
+        "num": 22549,
+        "word": "宝可梦",
+        "onboard_time": 1677502111,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21248,
+        "num": 21248,
+        "word": "一条plog告别二月",
+        "onboard_time": 1677513087,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20867,
+        "num": 20867,
+        "word": "巴黎时装周看秀日历",
+        "onboard_time": 1677513087,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#看中国式现代化图景#"
+    }
+  }
+}
