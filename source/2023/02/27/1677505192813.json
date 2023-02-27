@@ -1,0 +1,410 @@
+{
+  "runTime": 1677505192813,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1686604,
+        "num": 1686604,
+        "word": "厉以宁逝世",
+        "onboard_time": 1677504451,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1574901,
+        "num": 1574901,
+        "word": "茶颜悦色回应满杯奶茶放久了变半杯",
+        "onboard_time": 1677501029,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 12908,
+        "num": 1318134,
+        "word": "又到了宜耕耘奋斗的春天",
+        "onboard_time": 1677473434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090521,
+        "num": 1090521,
+        "word": "0室0厅1卫房间一晚60元能住吗",
+        "onboard_time": 1677492509,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646906,
+        "num": 646906,
+        "word": "周杰伦 抢票",
+        "onboard_time": 1677493890,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1979084,
+        "num": 642390,
+        "word": "丫丫仍继续乞食",
+        "onboard_time": 1677499469,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584475,
+        "num": 584475,
+        "word": "女生奶茶中喝出3个标签后细菌感染",
+        "onboard_time": 1677498391,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562793,
+        "num": 562793,
+        "word": "外卖小哥咆哮称没人能在我手上饿死",
+        "onboard_time": 1677499110,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384727,
+        "num": 384727,
+        "word": "华晨宇说中国式温暖是团结",
+        "onboard_time": 1677502047,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 382601,
+        "num": 382601,
+        "word": "3岁萌娃帮看店遇男子买卫生巾",
+        "onboard_time": 1677499830,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696407,
+        "num": 380683,
+        "word": "朴秀荣ins晒自己晚宴座位",
+        "onboard_time": 1677500251,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 364197,
+        "num": 364197,
+        "word": "建议小学教育年限缩短到5年",
+        "onboard_time": 1677489451,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 322941,
+        "num": 322941,
+        "word": "游客误把野狼当狗下车拍照",
+        "onboard_time": 1677496891,
+        "rank": 12,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 309185,
+        "num": 309185,
+        "word": "奥司他韦周搜索暴涨1150%",
+        "onboard_time": 1677496468,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 175608,
+        "num": 308271,
+        "word": "荣耀Magic5海外发布会",
+        "onboard_time": 1677502830,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 308024,
+        "num": 308024,
+        "word": "全网都在关注丫丫回国时间",
+        "onboard_time": 1677501209,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302358,
+        "num": 302358,
+        "word": "奶嗝文学",
+        "onboard_time": 1677492568,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 290224,
+        "num": 290224,
+        "word": "普通人生活原本的样子",
+        "onboard_time": 1677503550,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281512,
+        "num": 281512,
+        "word": "网传庆余年2原班人马4月18日开机",
+        "onboard_time": 1677493651,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275600,
+        "num": 275600,
+        "word": "萧寒得知何冉病情真相",
+        "onboard_time": 1677503010,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 745312,
+        "num": 274030,
+        "word": "美国53岁儿童性侵犯疑被连环杀手狱友杀死",
+        "onboard_time": 1677496288,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265113,
+        "num": 265113,
+        "word": "Jiejie喊话Scout",
+        "onboard_time": 1677504089,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225416,
+        "num": 225416,
+        "word": "出张新成付辛博旧图没有光渊",
+        "onboard_time": 1677504451,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224270,
+        "num": 224270,
+        "word": "丫丫",
+        "onboard_time": 1677494430,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194599,
+        "num": 194599,
+        "word": "当一个巨蟹座不碰感情时",
+        "onboard_time": 1677485250,
+        "rank": 24,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 187595,
+        "num": 187595,
+        "word": "曝部分SMTOWN歌手接触新公司",
+        "onboard_time": 1677497670,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179321,
+        "num": 179321,
+        "word": "七成35岁以上职场人职业晋升停滞",
+        "onboard_time": 1677488371,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176553,
+        "num": 176553,
+        "word": "众星发博盼望丫丫早日回家",
+        "onboard_time": 1677494611,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162406,
+        "num": 162406,
+        "word": "动保呼吁霍格沃茨之遗玩家善待动物",
+        "onboard_time": 1677499469,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157223,
+        "num": 157223,
+        "word": "关于我爸是小学校长这件事",
+        "onboard_time": 1677492091,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 402849,
+        "num": 156612,
+        "word": "有没有哥哥的看到这段都沉默了",
+        "onboard_time": 1677503790,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300860,
+        "num": 153965,
+        "word": "董明珠辟谣与王自如恋情传闻",
+        "onboard_time": 1677490109,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950050,
+        "num": 153301,
+        "word": "93年女子已是6个娃的妈妈",
+        "onboard_time": 1677502711,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150015,
+        "num": 150015,
+        "word": "宝可梦",
+        "onboard_time": 1677502111,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146726,
+        "num": 146726,
+        "word": "刘敏涛演的安欣遭遇职场危机",
+        "onboard_time": 1677500429,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145654,
+        "num": 145654,
+        "word": "主打的就是",
+        "onboard_time": 1677501269,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143811,
+        "num": 143811,
+        "word": "米卡说我一定会留在中国",
+        "onboard_time": 1677489931,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136134,
+        "num": 136134,
+        "word": "霍格沃茨之遗",
+        "onboard_time": 1677499049,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132157,
+        "num": 132157,
+        "word": "黄奕隐忍式哭戏",
+        "onboard_time": 1677503550,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127868,
+        "num": 127868,
+        "word": "解放军回应美军机穿航台湾海峡",
+        "onboard_time": 1677489149,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 126707,
+        "num": 126707,
+        "word": "鹿晗脸上有将字",
+        "onboard_time": 1677489567,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124202,
+        "num": 124202,
+        "word": "董明珠斥某自媒体低级下流无聊",
+        "onboard_time": 1677500429,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 119236,
+        "num": 119236,
+        "word": "阴阳师",
+        "onboard_time": 1677500010,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116080,
+        "num": 116080,
+        "word": "虞书欣粉色耳环",
+        "onboard_time": 1677487949,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113386,
+        "num": 113386,
+        "word": "丫丫现身纽约时代广场大屏幕",
+        "onboard_time": 1677463106,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127070,
+        "num": 113202,
+        "word": "64岁男子为到工地干活办假证减龄",
+        "onboard_time": 1677492030,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112149,
+        "num": 112149,
+        "word": "84岁老汉回应花万元为自己办葬礼",
+        "onboard_time": 1677504871,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106368,
+        "num": 106368,
+        "word": "玄商君第三片神识是海王",
+        "onboard_time": 1677503730,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106049,
+        "num": 106049,
+        "word": "流浪地球2到徐工化缘",
+        "onboard_time": 1677497549,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104861,
+        "num": 104861,
+        "word": "四川有座大宋不夜城",
+        "onboard_time": 1677504811,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民江山谱写新的史诗#"
+    }
+  }
+}
