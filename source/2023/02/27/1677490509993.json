@@ -1,0 +1,410 @@
+{
+  "runTime": 1677490509993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1345796,
+        "num": 1345796,
+        "word": "大麦",
+        "onboard_time": 1677485730,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 947788,
+        "num": 947788,
+        "word": "建议部分岗位向35岁以上群体倾斜",
+        "onboard_time": 1677477809,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 36450,
+        "num": 886393,
+        "word": "又到了宜耕耘奋斗的春天",
+        "onboard_time": 1677473434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1656696,
+        "num": 883263,
+        "word": "章子怡章泽天聚餐",
+        "onboard_time": 1677487771,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836001,
+        "num": 836001,
+        "word": "七成35岁以上职场人职业晋升停滞",
+        "onboard_time": 1677488371,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570916,
+        "num": 570916,
+        "word": "董明珠称一人一套房承诺不变",
+        "onboard_time": 1677480689,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 568599,
+        "num": 568599,
+        "word": "当一个巨蟹座不碰感情时",
+        "onboard_time": 1677485250,
+        "rank": 6,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 552089,
+        "num": 552089,
+        "word": "周杰伦演唱会门票",
+        "onboard_time": 1677468210,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 506734,
+        "num": 506734,
+        "word": "鹿晗脸上有将字",
+        "onboard_time": 1677489567,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490974,
+        "num": 490974,
+        "word": "丫丫现身纽约时代广场大屏幕",
+        "onboard_time": 1677463106,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539824,
+        "num": 484605,
+        "word": "解放军回应美军机穿航台湾海峡",
+        "onboard_time": 1677489149,
+        "rank": 10,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 513828,
+        "num": 478252,
+        "word": "董明珠辟谣与王自如恋情传闻",
+        "onboard_time": 1677490109,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454268,
+        "num": 454268,
+        "word": "宋雨琦周洁琼新综艺同框跳tomboy",
+        "onboard_time": 1677488071,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372963,
+        "num": 372963,
+        "word": "大连保洁员拾金不昧行为属实",
+        "onboard_time": 1677485911,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357432,
+        "num": 357432,
+        "word": "狂飙麻子变成景点了",
+        "onboard_time": 1677477988,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355716,
+        "num": 355716,
+        "word": "虞书欣粉色耳环",
+        "onboard_time": 1677487949,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354142,
+        "num": 354142,
+        "word": "建议小学教育年限缩短到5年",
+        "onboard_time": 1677489451,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 346403,
+        "num": 346403,
+        "word": "起底甘孜拒绝退款酒店",
+        "onboard_time": 1677487230,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 330518,
+        "num": 330518,
+        "word": "谁砸了甘孜旅游我砸他饭碗",
+        "onboard_time": 1677471153,
+        "rank": 18,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 318815,
+        "num": 318815,
+        "word": "台湾问题不容他人置喙",
+        "onboard_time": 1677486151,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 291892,
+        "num": 291892,
+        "word": "朴灿烈吴世勋顺天乡校庆生图",
+        "onboard_time": 1677484949,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265120,
+        "num": 265120,
+        "word": "米卡说我一定会留在中国",
+        "onboard_time": 1677489931,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255095,
+        "num": 255095,
+        "word": "林依晨陈柏霖合照",
+        "onboard_time": 1677487110,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249958,
+        "num": 249958,
+        "word": "蔡徐坤晒KUN标墨镜",
+        "onboard_time": 1677489210,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247425,
+        "num": 247425,
+        "word": "黄晓明期盼丫丫早日回家",
+        "onboard_time": 1677473674,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247306,
+        "num": 247306,
+        "word": "赵露思做完美容后手舞足蹈",
+        "onboard_time": 1677475530,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246614,
+        "num": 246614,
+        "word": "建议农村推行低彩礼零彩礼",
+        "onboard_time": 1677472354,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245701,
+        "num": 245701,
+        "word": "网友P的张颂文高叶合照",
+        "onboard_time": 1677483449,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216099,
+        "num": 216099,
+        "word": "哪些格力员工能分到房",
+        "onboard_time": 1677490051,
+        "rank": 28,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 211518,
+        "num": 211518,
+        "word": "滑县通报一男子持刀将妻子杀害",
+        "onboard_time": 1677470731,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 205686,
+        "num": 205686,
+        "word": "董明珠将再建议提高个税起征点",
+        "onboard_time": 1677481888,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 204385,
+        "num": 204385,
+        "word": "带状疱疹有时会被误认是皮炎",
+        "onboard_time": 1677479848,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190655,
+        "num": 190655,
+        "word": "90后女生离异后定遗嘱保护财产",
+        "onboard_time": 1677478170,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185356,
+        "num": 185356,
+        "word": "居然在一只猫眼里看到了爱情",
+        "onboard_time": 1677479668,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 183930,
+        "num": 183930,
+        "word": "当你走在街上被爱豆喊名字",
+        "onboard_time": 1677484111,
+        "rank": 34,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 174037,
+        "num": 174037,
+        "word": "杨澜说独立女性不意味着独身",
+        "onboard_time": 1677486327,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172120,
+        "num": 172120,
+        "word": "Angelababy诉香港娱记朱皮获赔",
+        "onboard_time": 1677475648,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171492,
+        "num": 171492,
+        "word": "iPhone15ProMax或半斤重",
+        "onboard_time": 1677472894,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 167326,
+        "num": 167326,
+        "word": "孙俪 要更多去倾听孩子的内心",
+        "onboard_time": 1677485730,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166314,
+        "num": 166314,
+        "word": "未定事件簿空少",
+        "onboard_time": 1677484770,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161102,
+        "num": 161102,
+        "word": "川渝好风光",
+        "onboard_time": 1677489692,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 159430,
+        "num": 159430,
+        "word": "校方回应男生进女寝喊我爸是干部",
+        "onboard_time": 1677482247,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 159112,
+        "num": 159112,
+        "word": "周迅19岁旧照",
+        "onboard_time": 1677479907,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150227,
+        "num": 150227,
+        "word": "这个发型太显气质了",
+        "onboard_time": 1677487650,
+        "rank": 43,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 144718,
+        "num": 144718,
+        "word": "LPL春季赛周最佳阵容",
+        "onboard_time": 1677484650,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140266,
+        "num": 140266,
+        "word": "贺峻霖新头像是耿鬼",
+        "onboard_time": 1677484230,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131598,
+        "num": 131598,
+        "word": "毛不易演唱会门票",
+        "onboard_time": 1677480087,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130380,
+        "num": 130380,
+        "word": "HPV疫苗能约几价就打几价",
+        "onboard_time": 1677464427,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120691,
+        "num": 120691,
+        "word": "克林斯曼出任韩国男足主教练",
+        "onboard_time": 1677490289,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108400,
+        "num": 108400,
+        "word": "企业给员工发房能留住人才吗",
+        "onboard_time": 1677484290,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届二中全会#"
+    }
+  }
+}
