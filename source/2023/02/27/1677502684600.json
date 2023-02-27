@@ -1,0 +1,410 @@
+{
+  "runTime": 1677502684600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2756519,
+        "num": 2756519,
+        "word": "丫丫仍继续乞食",
+        "onboard_time": 1677499469,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1127235,
+        "num": 1127235,
+        "word": "0室0厅1卫房间一晚60元能住吗",
+        "onboard_time": 1677492509,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12380,
+        "num": 1019292,
+        "word": "又到了宜耕耘奋斗的春天",
+        "onboard_time": 1677473434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928419,
+        "num": 928419,
+        "word": "美国53岁儿童性侵犯疑被连环杀手狱友杀死",
+        "onboard_time": 1677496288,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863090,
+        "num": 863090,
+        "word": "女生奶茶中喝出3个标签后细菌感染",
+        "onboard_time": 1677498391,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694050,
+        "num": 694050,
+        "word": "朴秀荣ins晒自己晚宴座位",
+        "onboard_time": 1677500251,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 598458,
+        "num": 598458,
+        "word": "周杰伦 抢票",
+        "onboard_time": 1677493890,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1358288,
+        "num": 563993,
+        "word": "EXO或将离开SMTOWN",
+        "onboard_time": 1677499890,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510494,
+        "num": 510494,
+        "word": "外卖小哥咆哮称没人能在我手上饿死",
+        "onboard_time": 1677499110,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480571,
+        "num": 480571,
+        "word": "游客误把野狼当狗下车拍照",
+        "onboard_time": 1677496891,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 838155,
+        "num": 410428,
+        "word": "茶颜悦色回应满杯奶茶放久了变半杯",
+        "onboard_time": 1677501029,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 332134,
+        "num": 332134,
+        "word": "奶嗝文学",
+        "onboard_time": 1677492568,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 325949,
+        "num": 325949,
+        "word": "网传庆余年2原班人马4月18日开机",
+        "onboard_time": 1677493651,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306499,
+        "num": 306499,
+        "word": "建议小学教育年限缩短到5年",
+        "onboard_time": 1677489451,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1181971,
+        "num": 306431,
+        "word": "3D模拟香港名媛碎尸案经过",
+        "onboard_time": 1677497609,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 298254,
+        "num": 298254,
+        "word": "3岁萌娃帮看店遇男子买卫生巾",
+        "onboard_time": 1677499830,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276636,
+        "num": 276636,
+        "word": "华晨宇说中国式温暖是团结",
+        "onboard_time": 1677502047,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248447,
+        "num": 248447,
+        "word": "丫丫",
+        "onboard_time": 1677494430,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247167,
+        "num": 247167,
+        "word": "全网都在关注丫丫回国时间",
+        "onboard_time": 1677501209,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243075,
+        "num": 243075,
+        "word": "奥司他韦周搜索暴涨1150%",
+        "onboard_time": 1677496468,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 241782,
+        "num": 241782,
+        "word": "众星发博盼望丫丫早日回家",
+        "onboard_time": 1677494611,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218042,
+        "num": 218042,
+        "word": "刘敏涛演的安欣遭遇职场危机",
+        "onboard_time": 1677500429,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210619,
+        "num": 210619,
+        "word": "七成35岁以上职场人职业晋升停滞",
+        "onboard_time": 1677488371,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207667,
+        "num": 207667,
+        "word": "当一个巨蟹座不碰感情时",
+        "onboard_time": 1677485250,
+        "rank": 23,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 197300,
+        "num": 197300,
+        "word": "霍格沃茨之遗",
+        "onboard_time": 1677499049,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192785,
+        "num": 192785,
+        "word": "贺峻霖白衬衫光影随拍",
+        "onboard_time": 1677502047,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168497,
+        "num": 168497,
+        "word": "主打的就是",
+        "onboard_time": 1677501269,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165564,
+        "num": 165564,
+        "word": "米卡说我一定会留在中国",
+        "onboard_time": 1677489931,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157974,
+        "num": 157974,
+        "word": "鹿晗脸上有将字",
+        "onboard_time": 1677489567,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156758,
+        "num": 156758,
+        "word": "动保呼吁霍格沃茨之遗玩家善待动物",
+        "onboard_time": 1677499469,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 385784,
+        "num": 155744,
+        "word": "董明珠辟谣与王自如恋情传闻",
+        "onboard_time": 1677490109,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154415,
+        "num": 154415,
+        "word": "流浪地球2到徐工化缘",
+        "onboard_time": 1677497549,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154093,
+        "num": 154093,
+        "word": "关于我爸是小学校长这件事",
+        "onboard_time": 1677492091,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 147712,
+        "num": 147712,
+        "word": "阴阳师",
+        "onboard_time": 1677500010,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141382,
+        "num": 141382,
+        "word": "解放军回应美军机穿航台湾海峡",
+        "onboard_time": 1677489149,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 132824,
+        "num": 132824,
+        "word": "丫丫现身纽约时代广场大屏幕",
+        "onboard_time": 1677463106,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131535,
+        "num": 131535,
+        "word": "64岁男子为到工地干活办假证减龄",
+        "onboard_time": 1677492030,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119345,
+        "num": 119345,
+        "word": "何冉吃醋",
+        "onboard_time": 1677499950,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113771,
+        "num": 113771,
+        "word": "虞书欣粉色耳环",
+        "onboard_time": 1677487949,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105993,
+        "num": 105993,
+        "word": "宝可梦",
+        "onboard_time": 1677502111,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105275,
+        "num": 105275,
+        "word": "利拉德",
+        "onboard_time": 1677497969,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102747,
+        "num": 102747,
+        "word": "建议部分岗位向35岁以上群体倾斜",
+        "onboard_time": 1677477809,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 94806,
+        "num": 94806,
+        "word": "赵露思做完美容后手舞足蹈",
+        "onboard_time": 1677475530,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92587,
+        "num": 92587,
+        "word": "原子之心",
+        "onboard_time": 1677502408,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91889,
+        "num": 91889,
+        "word": "狂飙麻子变成景点了",
+        "onboard_time": 1677477988,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199221,
+        "num": 91622,
+        "word": "厦门工商旅游学校回应学生跳楼",
+        "onboard_time": 1677495271,
+        "rank": 45,
+        "category": "教育,社会负面"
+      },
+      {
+        "raw_hot": 89165,
+        "num": 89165,
+        "word": "大麦",
+        "onboard_time": 1677485730,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87891,
+        "num": 87891,
+        "word": "网友P的张颂文高叶合照",
+        "onboard_time": 1677483449,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85182,
+        "num": 85182,
+        "word": "董明珠斥某自媒体低级下流无聊",
+        "onboard_time": 1677500429,
+        "rank": 48,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 81876,
+        "num": 81876,
+        "word": "宋雨琦周洁琼新综艺同框跳tomboy",
+        "onboard_time": 1677488071,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民江山谱写新的史诗#"
+    }
+  }
+}
