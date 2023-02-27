@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677507509914,
+  "endTime": 1677508554755,
   "band_list": [
     {
       "raw_hot": 4920735,
@@ -81,6 +81,14 @@
       "onboard_time": 1677487771,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1776323,
+      "num": 1776323,
+      "word": "女子2万买名牌包背了15分钟断了",
+      "onboard_time": 1677506492,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1769689,
@@ -403,20 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 803566,
-      "num": 442678,
-      "word": "女子2万买名牌包背了15分钟断了",
-      "onboard_time": 1677506492,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 772455,
       "num": 772455,
       "word": "切尔西",
       "onboard_time": 1677423212,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 758344,
+      "num": 758344,
+      "word": "有没有哥哥的看到这段都沉默了",
+      "onboard_time": 1677503790,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 753081,
@@ -465,6 +473,14 @@
       "onboard_time": 1677500251,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 706580,
+      "num": 706580,
+      "word": "嫡谋作者关注杨紫檀健次",
+      "onboard_time": 1677507092,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 679752,
@@ -635,14 +651,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 550246,
-      "num": 550246,
-      "word": "有没有哥哥的看到这段都沉默了",
-      "onboard_time": 1677503790,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 533688,
       "num": 332104,
       "word": "蔡天凤被碎尸案今日提堂",
@@ -755,20 +763,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 465834,
-      "num": 465834,
-      "word": "嫡谋作者关注杨紫檀健次",
-      "onboard_time": 1677507092,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 462646,
       "num": 462646,
       "word": "64岁男子为到工地干活办假证减龄",
       "onboard_time": 1677492030,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458473,
+      "num": 458473,
+      "word": "滑县",
+      "onboard_time": 1677507273,
+      "rank": 35,
+      "category": "社会负面"
     },
     {
       "raw_hot": 452973,
@@ -843,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430057,
+      "num": 430057,
+      "word": "湖南普通家庭的饭菜有多香",
+      "onboard_time": 1677505411,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 427957,
       "num": 427957,
       "word": "大连保洁员拾金不昧行为属实",
@@ -857,6 +873,14 @@
       "onboard_time": 1677465688,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 417496,
+      "num": 417496,
+      "word": "84岁老汉回应花万元为自己办葬礼",
+      "onboard_time": 1677504871,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415388,
@@ -875,12 +899,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 405502,
-      "num": 405502,
-      "word": "84岁老汉回应花万元为自己办葬礼",
-      "onboard_time": 1677504871,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 404425,
+      "num": 404425,
+      "word": "张馨予后台状态",
+      "onboard_time": 1677506852,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 404310,
@@ -931,6 +955,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 386314,
+      "num": 386314,
+      "word": "奥司他韦周搜索暴涨1150%",
+      "onboard_time": 1677496468,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 386216,
       "num": 386216,
       "word": "网传易烊千玺新歌发布会",
@@ -955,28 +987,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382512,
-      "num": 382512,
-      "word": "湖南普通家庭的饭菜有多香",
-      "onboard_time": 1677505411,
-      "rank": 13,
-      "category": "美食"
-    },
-    {
       "raw_hot": 380855,
       "num": 380855,
       "word": "众星发博盼望丫丫早日回家",
       "onboard_time": 1677494611,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379663,
-      "num": 379663,
-      "word": "奥司他韦周搜索暴涨1150%",
-      "onboard_time": 1677496468,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 374404,
@@ -1203,14 +1219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 313390,
-      "num": 313390,
-      "word": "张馨予后台状态",
-      "onboard_time": 1677506852,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 312270,
       "num": 312270,
       "word": "出张新成付辛博旧图没有光渊",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1677460348,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295180,
+      "num": 295180,
+      "word": "宝可梦",
+      "onboard_time": 1677502111,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 293169,
@@ -1427,12 +1443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228317,
-      "num": 228317,
-      "word": "宝可梦",
-      "onboard_time": 1677502111,
-      "rank": 39,
-      "category": "游戏"
+      "raw_hot": 228209,
+      "num": 228209,
+      "word": "建议常见病不要去三级医院",
+      "onboard_time": 1677507752,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227213,
@@ -1843,14 +1859,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 177518,
-      "num": 177518,
-      "word": "滑县",
-      "onboard_time": 1677507273,
-      "rank": 35,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 167372,
       "num": 167372,
       "word": "梅西俱乐部700球",
@@ -1995,6 +2003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143964,
+      "num": 143964,
+      "word": "宝可梦朱紫",
+      "onboard_time": 1677508413,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142456,
       "num": 142456,
       "word": "100天可以有无限可能",
@@ -2099,6 +2115,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 126697,
+      "num": 126697,
+      "word": "名侦探柯南cp端水大师",
+      "onboard_time": 1677508053,
+      "rank": 41,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 124931,
       "num": 124931,
       "word": "公司老板是一只猫吧",
@@ -2147,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120183,
+      "num": 120183,
+      "word": "玄商君第三片神识是海王",
+      "onboard_time": 1677503730,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119784,
       "num": 119784,
       "word": "甲流就是流感吗",
@@ -2155,12 +2187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119370,
-      "num": 119370,
-      "word": "玄商君第三片神识是海王",
-      "onboard_time": 1677503730,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 117093,
+      "num": 117093,
+      "word": "原来黄金还能这样玩",
+      "onboard_time": 1677505352,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 115022,
@@ -2177,14 +2209,6 @@
       "onboard_time": 1677414689,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 113392,
-      "num": 113392,
-      "word": "原来黄金还能这样玩",
-      "onboard_time": 1677505352,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 111751,
@@ -2459,6 +2483,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 41057,
+      "num": 1224669,
+      "word": "奋进的春天",
+      "onboard_time": 1677507092,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35634,
       "num": 159650,
       "word": "顶尖科学家为饿了么出题",
@@ -2489,14 +2521,6 @@
       "onboard_time": 1677423513,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 20714,
-      "num": 1050894,
-      "word": "奋进的春天",
-      "onboard_time": 1677507092,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2508,6 +2532,9 @@
     },
     {
       "word": "#人民江山谱写新的史诗#"
+    },
+    {
+      "word": "#看中国式现代化图景#"
     }
   ]
 }
