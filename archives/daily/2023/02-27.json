@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677482294309,
+  "endTime": 1677483215174,
   "band_list": [
     {
       "raw_hot": 3989793,
@@ -83,6 +83,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1481067,
+      "num": 1481067,
+      "word": "周杰伦演唱会门票",
+      "onboard_time": 1677468210,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1415272,
+      "num": 503385,
+      "word": "蔡天凤碎尸案提堂3男被告表现平静",
+      "onboard_time": 1677481406,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1332584,
       "num": 1332584,
       "word": "谁砸了甘孜旅游我砸他饭碗",
@@ -115,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1126818,
-      "num": 1126818,
-      "word": "周杰伦演唱会门票",
-      "onboard_time": 1677468210,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1124953,
       "num": 1124953,
       "word": "核酸检测也能测出甲流病毒",
@@ -153,6 +161,14 @@
       "onboard_time": 1677472354,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 952461,
+      "num": 952461,
+      "word": "董明珠称一人一套房承诺不变",
+      "onboard_time": 1677480689,
+      "rank": 10,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 932170,
@@ -193,6 +209,22 @@
       "onboard_time": 1677415229,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 849874,
+      "num": 473053,
+      "word": "董明珠将再建议提高个税起征点",
+      "onboard_time": 1677481888,
+      "rank": 31,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 847244,
+      "num": 455391,
+      "word": "邵逸夫医院",
+      "onboard_time": 1677481647,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 842149,
@@ -259,14 +291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 729194,
-      "num": 469779,
-      "word": "董明珠称一人一套房承诺不变",
-      "onboard_time": 1677480689,
-      "rank": 10,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 725439,
       "num": 725439,
       "word": "台独辜宽敏病亡",
@@ -296,14 +320,6 @@
       "word": "孕妇被拐卖34年儿子带母追责",
       "onboard_time": 1677455305,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 672639,
-      "num": 469706,
-      "word": "蔡天凤碎尸案提堂3男被告表现平静",
-      "onboard_time": 1677481406,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -339,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 617274,
+      "num": 617274,
+      "word": "90后女生离异后定遗嘱保护财产",
+      "onboard_time": 1677478170,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616503,
       "num": 616503,
       "word": "甲流",
@@ -361,14 +385,6 @@
       "onboard_time": 1677458790,
       "rank": 9,
       "category": "科技"
-    },
-    {
-      "raw_hot": 597348,
-      "num": 597348,
-      "word": "90后女生离异后定遗嘱保护财产",
-      "onboard_time": 1677478170,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 583543,
@@ -435,6 +451,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 517013,
+      "num": 517013,
+      "word": "带状疱疹有时会被误认是皮炎",
+      "onboard_time": 1677479848,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509289,
       "num": 284016,
       "word": "刘亚仁一年内注射异丙酚73次",
@@ -451,12 +475,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 496590,
-      "num": 496590,
-      "word": "带状疱疹有时会被误认是皮炎",
-      "onboard_time": 1677479848,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 505117,
+      "num": 505117,
+      "word": "周迅19岁旧照",
+      "onboard_time": 1677479907,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 491810,
@@ -497,14 +521,6 @@
       "onboard_time": 1677457348,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 461014,
-      "num": 461014,
-      "word": "周迅19岁旧照",
-      "onboard_time": 1677479907,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 452973,
@@ -731,12 +747,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 324698,
-      "num": 175768,
-      "word": "邵逸夫医院",
-      "onboard_time": 1677481647,
-      "rank": 30,
-      "category": "社会负面"
+      "raw_hot": 330731,
+      "num": 330731,
+      "word": "居然在一只猫眼里看到了爱情",
+      "onboard_time": 1677479668,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 323721,
@@ -843,14 +859,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 278650,
-      "num": 278650,
-      "word": "居然在一只猫眼里看到了爱情",
-      "onboard_time": 1677479668,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 276628,
       "num": 249680,
       "word": "27岁男子没穿鞋失踪40余天",
@@ -873,6 +881,14 @@
       "onboard_time": 1677474630,
       "rank": 35,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 267946,
+      "num": 267946,
+      "word": "校方回应男生进女寝喊我爸是干部",
+      "onboard_time": 1677482247,
+      "rank": 48,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 267041,
@@ -1057,14 +1073,6 @@
       "onboard_time": 1677479430,
       "rank": 27,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 199037,
-      "num": 173863,
-      "word": "董明珠将再建议提高个税起征点",
-      "onboard_time": 1677481888,
-      "rank": 31,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 198495,
@@ -1307,6 +1315,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 137822,
+      "num": 137822,
+      "word": "哪些人不适合接种HPV疫苗",
+      "onboard_time": 1677483149,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136931,
       "num": 136931,
       "word": "大海带走了开心并对你说不",
@@ -1347,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124719,
+      "num": 124719,
+      "word": "保你平安全员跳广场舞",
+      "onboard_time": 1677482670,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123315,
       "num": 123315,
       "word": "capper巡演",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1677414689,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 114152,
-      "num": 114152,
-      "word": "校方回应男生进女寝喊我爸是干部",
-      "onboard_time": 1677482247,
-      "rank": 48,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 111751,
@@ -1465,6 +1481,14 @@
       "onboard_time": 1677430043,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 100431,
+      "num": 100431,
+      "word": "国务院联防联控机制发布会",
+      "onboard_time": 1677483208,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 99844,
@@ -1635,8 +1659,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41712,
-      "num": 391067,
+      "raw_hot": 44598,
+      "num": 426530,
       "word": "窦靖童未来感妆容",
       "onboard_time": 1677481229,
       "rank": 14,
