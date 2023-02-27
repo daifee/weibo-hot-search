@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677540015127,
+  "endTime": 1677540855937,
   "band_list": [
     {
       "raw_hot": 4920735,
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1100848,
+      "num": 1100848,
+      "word": "有没有哥哥的看到这段都沉默了",
+      "onboard_time": 1677503790,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1061069,
       "num": 1061069,
       "word": "美国53岁儿童性侵犯疑被连环杀手狱友杀死",
@@ -313,6 +321,14 @@
       "onboard_time": 1677465387,
       "rank": 7,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 1036302,
+      "num": 1036302,
+      "word": "梅西当选FIFA年度最佳球员",
+      "onboard_time": 1677539239,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1023416,
@@ -395,14 +411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 860918,
-      "num": 860918,
-      "word": "有没有哥哥的看到这段都沉默了",
-      "onboard_time": 1677503790,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 851260,
       "num": 297152,
       "word": "辣目被打伤",
@@ -459,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 794631,
+      "num": 794631,
+      "word": "苏小玎已经不会高启盛舞步了",
+      "onboard_time": 1677513509,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 772455,
       "num": 772455,
       "word": "切尔西",
       "onboard_time": 1677423212,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 757652,
-      "num": 757652,
-      "word": "苏小玎已经不会高启盛舞步了",
-      "onboard_time": 1677513509,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 757626,
@@ -505,6 +513,14 @@
       "onboard_time": 1677469890,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 733042,
+      "num": 733042,
+      "word": "未来10年间我国将迎最大退休潮",
+      "onboard_time": 1677532392,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 725439,
@@ -585,14 +601,6 @@
       "onboard_time": 1677418413,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 631753,
-      "num": 631753,
-      "word": "未来10年间我国将迎最大退休潮",
-      "onboard_time": 1677532392,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 617274,
@@ -745,14 +753,6 @@
       "onboard_time": 1677492091,
       "rank": 23,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 524914,
-      "num": 524914,
-      "word": "梅西当选FIFA年度最佳球员",
-      "onboard_time": 1677539239,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 517013,
@@ -1027,6 +1027,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 393978,
+      "num": 393978,
+      "word": "被山东一张海鲜面价格单馋哭了",
+      "onboard_time": 1677515063,
+      "rank": 48,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 387110,
       "num": 387110,
       "word": "张大大介绍工作室福利",
@@ -1099,14 +1107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 368567,
-      "num": 368567,
-      "word": "被山东一张海鲜面价格单馋哭了",
-      "onboard_time": 1677515063,
-      "rank": 48,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 366319,
       "num": 366319,
       "word": "贺峻霖采访华晨宇",
@@ -1153,6 +1153,14 @@
       "onboard_time": 1677501209,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347350,
+      "num": 347350,
+      "word": "马丁内斯当选FIFA最佳门将",
+      "onboard_time": 1677539538,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 346403,
@@ -1491,6 +1499,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 263425,
+      "num": 263425,
+      "word": "我国两种甲流亚型同时传播",
+      "onboard_time": 1677511349,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262752,
       "num": 262752,
       "word": "厉以宁生平",
@@ -1635,14 +1651,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 214346,
-      "num": 214346,
-      "word": "马丁内斯当选FIFA最佳门将",
-      "onboard_time": 1677539538,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 214249,
       "num": 214249,
       "word": "霍格沃茨之遗",
@@ -1665,14 +1673,6 @@
       "onboard_time": 1677512788,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211528,
-      "num": 211528,
-      "word": "我国两种甲流亚型同时传播",
-      "onboard_time": 1677511349,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210885,
@@ -1753,6 +1753,14 @@
       "onboard_time": 1677461067,
       "rank": 26,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 205840,
+      "num": 205840,
+      "word": "FIFA年度颁奖典礼",
+      "onboard_time": 1677540201,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 205581,
@@ -1931,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192482,
+      "num": 192482,
+      "word": "小学生给课本挑错新教材真的改了",
+      "onboard_time": 1677538939,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 192250,
       "num": 192250,
       "word": "主打的就是",
@@ -1961,6 +1977,14 @@
       "onboard_time": 1677481349,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190905,
+      "num": 190905,
+      "word": "斯卡洛尼当选FIFA年度最佳教练",
+      "onboard_time": 1677539661,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 190073,
@@ -2035,14 +2059,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 176003,
-      "num": 176003,
-      "word": "斯卡洛尼当选FIFA年度最佳教练",
-      "onboard_time": 1677539661,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 167372,
       "num": 167372,
       "word": "梅西俱乐部700球",
@@ -2099,6 +2115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158697,
+      "num": 158697,
+      "word": "梅西 实至名归",
+      "onboard_time": 1677540804,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158118,
       "num": 158118,
       "word": "闪耀暖暖",
@@ -2121,6 +2145,14 @@
       "onboard_time": 1677508413,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156604,
+      "num": 156604,
+      "word": "甲流患者不宜自行服用奥司他韦",
+      "onboard_time": 1677512488,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156066,
@@ -2209,14 +2241,6 @@
       "onboard_time": 1677500010,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144082,
-      "num": 144082,
-      "word": "甲流患者不宜自行服用奥司他韦",
-      "onboard_time": 1677512488,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142456,
@@ -2321,6 +2345,14 @@
       "onboard_time": 1677483570,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 128551,
+      "num": 128551,
+      "word": "需要去看医生的呼噜声什么样",
+      "onboard_time": 1677540021,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 127561,
@@ -2499,6 +2531,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 103425,
+      "num": 103425,
+      "word": "小熊猫美美",
+      "onboard_time": 1677516799,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102894,
       "num": 102894,
       "word": "LNG战胜WBG",
@@ -2537,14 +2577,6 @@
       "onboard_time": 1677478588,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98895,
-      "num": 98895,
-      "word": "小学生给课本挑错新教材真的改了",
-      "onboard_time": 1677538939,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 97591,
@@ -2627,12 +2659,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 87466,
-      "num": 87466,
-      "word": "小熊猫美美",
-      "onboard_time": 1677516799,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 86823,
+      "num": 86823,
+      "word": "怎样做才是真正的爱自己",
+      "onboard_time": 1677540623,
+      "rank": 35,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 86186,
@@ -2675,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82762,
+      "num": 82762,
+      "word": "专家称甲流与新冠叠加几率很小",
+      "onboard_time": 1677517697,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79762,
       "num": 79762,
       "word": "中国乒乓致敬运动员教练员家属",
@@ -2697,14 +2737,6 @@
       "onboard_time": 1677418474,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 73954,
-      "num": 73954,
-      "word": "专家称甲流与新冠叠加几率很小",
-      "onboard_time": 1677517697,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73389,

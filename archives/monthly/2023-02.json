@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677540015127,
+  "endTime": 1677540855937,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -7147,6 +7147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1100848,
+      "num": 1100848,
+      "word": "有没有哥哥的看到这段都沉默了",
+      "onboard_time": 1677503790,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1100800,
       "num": 1100800,
       "word": "路人美国偶遇刘亦菲",
@@ -7793,6 +7801,14 @@
       "onboard_time": 1676044947,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1036302,
+      "num": 1036302,
+      "word": "梅西当选FIFA年度最佳球员",
+      "onboard_time": 1677539239,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1035051,
@@ -10459,14 +10475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 860918,
-      "num": 860918,
-      "word": "有没有哥哥的看到这段都沉默了",
-      "onboard_time": 1677503790,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 860879,
       "num": 860879,
       "word": "张颂文与他的经纪人赵玉德",
@@ -11763,6 +11771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 794631,
+      "num": 794631,
+      "word": "苏小玎已经不会高启盛舞步了",
+      "onboard_time": 1677513509,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 794573,
       "num": 794573,
       "word": "美国一工厂雇100余童工通宵工作",
@@ -12521,14 +12537,6 @@
       "onboard_time": 1675305164,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 757652,
-      "num": 757652,
-      "word": "苏小玎已经不会高启盛舞步了",
-      "onboard_time": 1677513509,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 757626,
@@ -13297,6 +13305,14 @@
       "onboard_time": 1675837949,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 733042,
+      "num": 733042,
+      "word": "未来10年间我国将迎最大退休潮",
+      "onboard_time": 1677532392,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 732822,
@@ -16425,14 +16441,6 @@
       "onboard_time": 1676606972,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 631753,
-      "num": 631753,
-      "word": "未来10年间我国将迎最大退休潮",
-      "onboard_time": 1677532392,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 631530,
@@ -20569,14 +20577,6 @@
       "onboard_time": 1675665567,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 524914,
-      "num": 524914,
-      "word": "梅西当选FIFA年度最佳球员",
-      "onboard_time": 1677539239,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 524903,
@@ -27827,6 +27827,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 393978,
+      "num": 393978,
+      "word": "被山东一张海鲜面价格单馋哭了",
+      "onboard_time": 1677515063,
+      "rank": 48,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 393817,
       "num": 393817,
       "word": "宋雨琦程潇许光汉同框",
@@ -29555,14 +29563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368567,
-      "num": 368567,
-      "word": "被山东一张海鲜面价格单馋哭了",
-      "onboard_time": 1677515063,
-      "rank": 48,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 368561,
       "num": 368561,
       "word": "山西考研成绩",
@@ -30969,6 +30969,14 @@
       "onboard_time": 1676997088,
       "rank": 30,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 347350,
+      "num": 347350,
+      "word": "马丁内斯当选FIFA最佳门将",
+      "onboard_time": 1677539538,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 347290,
@@ -38907,6 +38915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263425,
+      "num": 263425,
+      "word": "我国两种甲流亚型同时传播",
+      "onboard_time": 1677511349,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263342,
       "num": 263342,
       "word": "华晨宇白举纲唱逃离地球表面",
@@ -44403,14 +44419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214346,
-      "num": 214346,
-      "word": "马丁内斯当选FIFA最佳门将",
-      "onboard_time": 1677539538,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 214290,
       "num": 214290,
       "word": "胡鑫宇生前青春期心理状态失衡",
@@ -44785,14 +44793,6 @@
       "onboard_time": 1676641775,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 211528,
-      "num": 211528,
-      "word": "我国两种甲流亚型同时传播",
-      "onboard_time": 1677511349,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211495,
@@ -45489,6 +45489,14 @@
       "onboard_time": 1675673848,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205840,
+      "num": 205840,
+      "word": "FIFA年度颁奖典礼",
+      "onboard_time": 1677540201,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 205795,
@@ -47707,6 +47715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192482,
+      "num": 192482,
+      "word": "小学生给课本挑错新教材真的改了",
+      "onboard_time": 1677538939,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 192466,
       "num": 192466,
       "word": "甪端的甪该怎么读",
@@ -48033,6 +48049,14 @@
       "onboard_time": 1675783052,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190905,
+      "num": 190905,
+      "word": "斯卡洛尼当选FIFA年度最佳教练",
+      "onboard_time": 1677539661,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 190898,
@@ -50681,14 +50705,6 @@
       "onboard_time": 1675841249,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176003,
-      "num": 176003,
-      "word": "斯卡洛尼当选FIFA年度最佳教练",
-      "onboard_time": 1677539661,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 175996,
@@ -53627,6 +53643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158697,
+      "num": 158697,
+      "word": "梅西 实至名归",
+      "onboard_time": 1677540804,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158643,
       "num": 158643,
       "word": "羲和鬼谷子好会拉",
@@ -53881,6 +53905,14 @@
       "onboard_time": 1675639040,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156604,
+      "num": 156604,
+      "word": "甲流患者不宜自行服用奥司他韦",
+      "onboard_time": 1677512488,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156534,
@@ -55257,14 +55289,6 @@
       "onboard_time": 1675959273,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144082,
-      "num": 144082,
-      "word": "甲流患者不宜自行服用奥司他韦",
-      "onboard_time": 1677512488,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144019,
@@ -57011,6 +57035,14 @@
       "category": "美食,情感"
     },
     {
+      "raw_hot": 128551,
+      "num": 128551,
+      "word": "需要去看医生的呼噜声什么样",
+      "onboard_time": 1677540021,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 128486,
       "num": 128486,
       "word": "震后106小时救援队救出1名幸存女性",
@@ -58531,6 +58563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103425,
+      "num": 103425,
+      "word": "小熊猫美美",
+      "onboard_time": 1677516799,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103172,
       "num": 103172,
       "word": "今日雨水",
@@ -58705,14 +58745,6 @@
       "onboard_time": 1676562209,
       "rank": 46,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 98895,
-      "num": 98895,
-      "word": "小学生给课本挑错新教材真的改了",
-      "onboard_time": 1677538939,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 98808,
@@ -59155,14 +59187,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 87466,
-      "num": 87466,
-      "word": "小熊猫美美",
-      "onboard_time": 1677516799,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87265,
       "num": 87265,
       "word": "聋哑夫妇的我爱你",
@@ -59177,6 +59201,14 @@
       "onboard_time": 1676762779,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86823,
+      "num": 86823,
+      "word": "怎样做才是真正的爱自己",
+      "onboard_time": 1677540623,
+      "rank": 35,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 86681,
@@ -59329,6 +59361,14 @@
       "onboard_time": 1677020661,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82762,
+      "num": 82762,
+      "word": "专家称甲流与新冠叠加几率很小",
+      "onboard_time": 1677517697,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82608,
@@ -59545,14 +59585,6 @@
       "onboard_time": 1677001035,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 73954,
-      "num": 73954,
-      "word": "专家称甲流与新冠叠加几率很小",
-      "onboard_time": 1677517697,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73389,
