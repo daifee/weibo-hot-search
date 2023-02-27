@@ -1,10 +1,10 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677486358841,
+  "endTime": 1677487227590,
   "band_list": [
     {
-      "raw_hot": 4564224,
-      "num": 4564224,
+      "raw_hot": 4920735,
+      "num": 4920735,
       "word": "邵逸夫医院",
       "onboard_time": 1677481647,
       "rank": 30,
@@ -43,8 +43,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1934766,
-      "num": 967697,
+      "raw_hot": 1988914,
+      "num": 1046378,
       "word": "警方通报邵逸夫医院凶杀案",
       "onboard_time": 1677483510,
       "rank": 3,
@@ -145,6 +145,14 @@
       "onboard_time": 1677455907,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1187984,
+      "num": 1187984,
+      "word": "大麦",
+      "onboard_time": 1677485730,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 1124953,
@@ -273,14 +281,6 @@
       "onboard_time": 1677423212,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 767543,
-      "num": 767543,
-      "word": "大麦",
-      "onboard_time": 1677485730,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 753081,
@@ -539,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469296,
+      "num": 469296,
+      "word": "当一个巨蟹座不碰感情时",
+      "onboard_time": 1677485250,
+      "rank": 16,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 452973,
       "num": 452973,
       "word": "必胜客崩了",
@@ -700,7 +708,7 @@
     },
     {
       "raw_hot": 343687,
-      "num": 204816,
+      "num": 218645,
       "word": "孙俪 要更多去倾听孩子的内心",
       "onboard_time": 1677485730,
       "rank": 30,
@@ -763,14 +771,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 332983,
-      "num": 332983,
-      "word": "当一个巨蟹座不碰感情时",
-      "onboard_time": 1677485250,
-      "rank": 16,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 332324,
       "num": 332324,
       "word": "瞬息全宇宙",
@@ -801,6 +801,22 @@
       "onboard_time": 1677479668,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 330679,
+      "num": 330679,
+      "word": "网友P的张颂文高叶合照",
+      "onboard_time": 1677483449,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 326621,
+      "num": 326621,
+      "word": "杨澜说独立女性不意味着独身",
+      "onboard_time": 1677486327,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 323721,
@@ -899,14 +915,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 282204,
-      "num": 282204,
-      "word": "网友P的张颂文高叶合照",
-      "onboard_time": 1677483449,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 282101,
       "num": 192594,
       "word": "蔡徐坤的戒指好大",
@@ -953,6 +961,14 @@
       "onboard_time": 1677425970,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 255649,
+      "num": 255649,
+      "word": "大连保洁员拾金不昧行为属实",
+      "onboard_time": 1677485911,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247881,
@@ -1011,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220627,
+      "num": 220627,
+      "word": "台湾问题不容他人置喙",
+      "onboard_time": 1677486151,
+      "rank": 45,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 218667,
       "num": 218667,
       "word": "掘金战胜快船",
@@ -1043,20 +1067,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214432,
+      "num": 214432,
+      "word": "当你走在街上被爱豆喊名字",
+      "onboard_time": 1677484111,
+      "rank": 35,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 210885,
       "num": 210885,
       "word": "嫡谋影视化",
       "onboard_time": 1677481167,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 209743,
-      "num": 209743,
-      "word": "杨澜说独立女性不意味着独身",
-      "onboard_time": 1677486327,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 209736,
@@ -1123,6 +1147,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 203843,
+      "num": 203843,
+      "word": "哪些人不适合接种HPV疫苗",
+      "onboard_time": 1677483149,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203814,
       "num": 203814,
       "word": "龚俊拳击手造型拍摄路透",
@@ -1153,14 +1185,6 @@
       "onboard_time": 1677479430,
       "rank": 27,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 198577,
-      "num": 198577,
-      "word": "哪些人不适合接种HPV疫苗",
-      "onboard_time": 1677483149,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198495,
@@ -1275,20 +1299,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182017,
-      "num": 182017,
-      "word": "大连保洁员拾金不昧行为属实",
-      "onboard_time": 1677485911,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180532,
-      "num": 180532,
-      "word": "当你走在街上被爱豆喊名字",
-      "onboard_time": 1677484111,
+      "raw_hot": 173982,
+      "num": 173982,
+      "word": "林依晨陈柏霖合照",
+      "onboard_time": 1677487110,
       "rank": 35,
-      "category": "幽默,艺人"
+      "category": "艺人"
     },
     {
       "raw_hot": 167372,
@@ -1467,19 +1483,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128623,
+      "num": 128623,
+      "word": "投诉酒店游客为刘局点赞",
+      "onboard_time": 1677483570,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 127561,
       "num": 127561,
       "word": "国务院联防联控机制发布会",
       "onboard_time": 1677483208,
       "rank": 49,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 125425,
-      "num": 125425,
-      "word": "台湾问题不容他人置喙",
-      "onboard_time": 1677486151,
-      "rank": 45,
       "category": "国内要闻"
     },
     {
@@ -1529,14 +1545,6 @@
       "onboard_time": 1677452660,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118395,
-      "num": 118395,
-      "word": "投诉酒店游客为刘局点赞",
-      "onboard_time": 1677483570,
-      "rank": 47,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 115022,
@@ -1803,20 +1811,20 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 35634,
+      "num": 159650,
+      "word": "顶尖科学家为饿了么出题",
+      "onboard_time": 1677484827,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30251,
       "num": 30251,
       "word": "没有情为夜昙掏空钱包",
       "onboard_time": 1677424353,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 29832,
-      "num": 144341,
-      "word": "顶尖科学家为饿了么出题",
-      "onboard_time": 1677484827,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21307,
