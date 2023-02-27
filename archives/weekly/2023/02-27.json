@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677518303033,
+  "endTime": 1677519327508,
   "band_list": [
     {
       "raw_hot": 4920735,
@@ -2635,20 +2635,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 76809,
+      "num": 76809,
+      "word": "小熊猫美美",
+      "onboard_time": 1677516799,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75550,
       "num": 75550,
       "word": "ITZY中文版TrustMe",
       "onboard_time": 1677418474,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 73447,
-      "num": 73447,
-      "word": "小熊猫美美",
-      "onboard_time": 1677516799,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73389,

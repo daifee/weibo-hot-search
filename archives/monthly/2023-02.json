@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677518303033,
+  "endTime": 1677519327508,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -59419,6 +59419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76809,
+      "num": 76809,
+      "word": "小熊猫美美",
+      "onboard_time": 1677516799,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76680,
       "num": 76680,
       "word": "大鹅在曲水亭街快乐游玩",
@@ -59489,14 +59497,6 @@
       "onboard_time": 1677001035,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 73447,
-      "num": 73447,
-      "word": "小熊猫美美",
-      "onboard_time": 1677516799,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73389,
