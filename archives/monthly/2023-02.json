@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677584040982,
+  "endTime": 1677587874602,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -2987,6 +2987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1763321,
+      "num": 1763321,
+      "word": "黑崎真音去世",
+      "onboard_time": 1677586290,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1757306,
       "num": 1757306,
       "word": "拜登抵达基辅",
@@ -3744,6 +3752,14 @@
       "word": "央视采访发现胡鑫宇尸体的粮库员工",
       "onboard_time": 1675314515,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1577982,
+      "num": 1577982,
+      "word": "建议消除对罪犯子女考公的限制",
+      "onboard_time": 1677572070,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -5993,14 +6009,6 @@
       "onboard_time": 1675992393,
       "rank": 11,
       "category": "国外要闻,旅游"
-    },
-    {
-      "raw_hot": 1217794,
-      "num": 1217794,
-      "word": "建议消除对罪犯子女考公的限制",
-      "onboard_time": 1677572070,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1217065,
@@ -12051,6 +12059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 796399,
+      "num": 796399,
+      "word": "余生请多指教",
+      "onboard_time": 1677586590,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 795367,
       "num": 795367,
       "word": "韩媒关注林孝埈连续夺冠",
@@ -15140,7 +15156,7 @@
     },
     {
       "raw_hot": 685496,
-      "num": 476940,
+      "num": 615303,
       "word": "毛宁称美国未免太不自信",
       "onboard_time": 1677580710,
       "rank": 49,
@@ -19771,6 +19787,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 551912,
+      "num": 482308,
+      "word": "王源胡子",
+      "onboard_time": 1677587671,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 551902,
       "num": 551902,
       "word": "张颂文曾经是广东省最佳导游",
@@ -22915,6 +22939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 486135,
+      "num": 486135,
+      "word": "夏花 OE",
+      "onboard_time": 1677584370,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 486076,
       "num": 486076,
       "word": "龚俊大学时候的秘密",
@@ -23169,6 +23201,14 @@
       "onboard_time": 1676888251,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 480216,
+      "num": 480216,
+      "word": "庞博说太太给了他很多能量",
+      "onboard_time": 1677585270,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 480032,
@@ -26921,6 +26961,14 @@
       "onboard_time": 1677311729,
       "rank": 12,
       "category": "音乐,财经"
+    },
+    {
+      "raw_hot": 414312,
+      "num": 414312,
+      "word": "饕餮记官博声明",
+      "onboard_time": 1677587129,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 414269,
@@ -31097,6 +31145,14 @@
       "onboard_time": 1676442809,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356155,
+      "num": 356155,
+      "word": "AL战胜RNG",
+      "onboard_time": 1677585510,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 356024,
@@ -40483,6 +40539,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 256839,
+      "num": 444994,
+      "word": "建议把抑郁症治疗纳入医保",
+      "onboard_time": 1677585690,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256668,
       "num": 256668,
       "word": "欧豪的偶像是历史得分王",
@@ -41075,6 +41139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 250216,
+      "num": 250216,
+      "word": "许允真中村一叶发丝跳舞饭拍图",
+      "onboard_time": 1677583770,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 250140,
       "num": 250140,
       "word": "任贤齐拒绝郑钧坚持骑行",
@@ -41560,6 +41632,14 @@
       "word": "TTG对战DRG",
       "onboard_time": 1677415892,
       "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 246699,
+      "num": 246699,
+      "word": "RNG对战AL",
+      "onboard_time": 1677582630,
+      "rank": 33,
       "category": "游戏"
     },
     {
@@ -43195,6 +43275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232284,
+      "num": 232284,
+      "word": "微博KING和QUEEN",
+      "onboard_time": 1677572369,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232241,
       "num": 232241,
       "word": "申论答案",
@@ -43243,20 +43331,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231823,
-      "num": 231823,
-      "word": "许允真中村一叶发丝跳舞饭拍图",
-      "onboard_time": 1677583770,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 231813,
       "num": 231813,
       "word": "虞书欣白色露背蓬蓬裙拍摄路透",
       "onboard_time": 1676185768,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231722,
+      "num": 231722,
+      "word": "司马妙元自尽",
+      "onboard_time": 1677585450,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 231672,
@@ -45875,14 +45963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 210796,
-      "num": 210796,
-      "word": "RNG对战AL",
-      "onboard_time": 1677582630,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 210795,
       "num": 210795,
       "word": "邓紫棋用西语勾起回忆杀",
@@ -48051,6 +48131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196586,
+      "num": 196586,
+      "word": "陈坤直播",
+      "onboard_time": 1677587068,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196526,
       "num": 196526,
       "word": "无畏情人节心动大片",
@@ -49233,6 +49321,14 @@
       "onboard_time": 1675742310,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190156,
+      "num": 181695,
+      "word": "年度慈善盛典红毯",
+      "onboard_time": 1677586769,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190136,
@@ -57457,6 +57553,14 @@
       "onboard_time": 1676307144,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136434,
+      "num": 136434,
+      "word": "市监局受理香奈儿包断链投诉",
+      "onboard_time": 1677584790,
+      "rank": 48,
+      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 136378,

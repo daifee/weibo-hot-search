@@ -1,6 +1,6 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677584040982,
+  "endTime": 1677587874602,
   "band_list": [
     {
       "raw_hot": 8538395,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1763321,
+      "num": 1763321,
+      "word": "黑崎真音去世",
+      "onboard_time": 1677586290,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1747050,
       "num": 156859,
       "word": "浪胃仙近照",
@@ -105,6 +113,14 @@
       "onboard_time": 1677572369,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1577982,
+      "num": 1577982,
+      "word": "建议消除对罪犯子女考公的限制",
+      "onboard_time": 1677572070,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1523766,
@@ -168,14 +184,6 @@
       "word": "2022年中国出生人口956万人",
       "onboard_time": 1677551188,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1217794,
-      "num": 1217794,
-      "word": "建议消除对罪犯子女考公的限制",
-      "onboard_time": 1677572070,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -339,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 796399,
+      "num": 796399,
+      "word": "余生请多指教",
+      "onboard_time": 1677586590,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 794631,
       "num": 794631,
       "word": "苏小玎已经不会高启盛舞步了",
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 685496,
-      "num": 476940,
+      "num": 615303,
       "word": "毛宁称美国未免太不自信",
       "onboard_time": 1677580710,
       "rank": 49,
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551912,
+      "num": 482308,
+      "word": "王源胡子",
+      "onboard_time": 1677587671,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 545287,
       "num": 545287,
       "word": "疱疹病毒一旦感染终身携带",
@@ -603,12 +627,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486135,
+      "num": 486135,
+      "word": "夏花 OE",
+      "onboard_time": 1677584370,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 484024,
       "num": 484024,
       "word": "肖战补妆视频",
       "onboard_time": 1677554489,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 480216,
+      "num": 480216,
+      "word": "庞博说太太给了他很多能量",
+      "onboard_time": 1677585270,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 478298,
@@ -731,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 414312,
+      "num": 414312,
+      "word": "饕餮记官博声明",
+      "onboard_time": 1677587129,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 412342,
       "num": 412342,
       "word": "3月壁纸",
@@ -841,6 +889,14 @@
       "onboard_time": 1677547768,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356155,
+      "num": 356155,
+      "word": "AL战胜RNG",
+      "onboard_time": 1677585510,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 355667,
@@ -1075,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256839,
+      "num": 444994,
+      "word": "建议把抑郁症治疗纳入医保",
+      "onboard_time": 1677585690,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255703,
       "num": 255703,
       "word": "周杰伦 抢票",
@@ -1091,12 +1155,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 250216,
+      "num": 250216,
+      "word": "许允真中村一叶发丝跳舞饭拍图",
+      "onboard_time": 1677583770,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 249510,
       "num": 249510,
       "word": "大侦探",
       "onboard_time": 1677555208,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246699,
+      "num": 246699,
+      "word": "RNG对战AL",
+      "onboard_time": 1677582630,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 245659,
@@ -1147,12 +1227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231823,
-      "num": 231823,
-      "word": "许允真中村一叶发丝跳舞饭拍图",
-      "onboard_time": 1677583770,
-      "rank": 28,
-      "category": "音乐"
+      "raw_hot": 232284,
+      "num": 232284,
+      "word": "微博KING和QUEEN",
+      "onboard_time": 1677572369,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 231722,
+      "num": 231722,
+      "word": "司马妙元自尽",
+      "onboard_time": 1677585450,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 230981,
@@ -1227,14 +1315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210796,
-      "num": 210796,
-      "word": "RNG对战AL",
-      "onboard_time": 1677582630,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 208281,
       "num": 208281,
       "word": "景甜回归半熟恋人2",
@@ -1307,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196586,
+      "num": 196586,
+      "word": "陈坤直播",
+      "onboard_time": 1677587068,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196372,
       "num": 196372,
       "word": "怪化猫剧场版延期",
@@ -1353,6 +1441,14 @@
       "onboard_time": 1677553768,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190156,
+      "num": 181695,
+      "word": "年度慈善盛典红毯",
+      "onboard_time": 1677586769,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186705,
@@ -1409,6 +1505,14 @@
       "onboard_time": 1677505411,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 175745,
+      "num": 175745,
+      "word": "半熟恋人",
+      "onboard_time": 1677584129,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 174770,
@@ -1609,6 +1713,14 @@
       "onboard_time": 1677496891,
       "rank": 27,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 136434,
+      "num": 136434,
+      "word": "市监局受理香奈儿包断链投诉",
+      "onboard_time": 1677584790,
+      "rank": 48,
+      "category": "社会新闻,时尚"
     },
     {
       "raw_hot": 135737,
