@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677555461939,
+  "endTime": 1677558241311,
   "band_list": [
     {
       "raw_hot": 4920735,
@@ -88,6 +88,14 @@
       "word": "父母没重视15岁儿子最终身高1米53",
       "onboard_time": 1677544831,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1799410,
+      "num": 1799410,
+      "word": "80后丁克夫妻回应存300万提前退休",
+      "onboard_time": 1677553528,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -331,6 +339,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1145404,
+      "num": 1145404,
+      "word": "丫丫身体状况评估完毕",
+      "onboard_time": 1677556109,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1144328,
       "num": 1144328,
       "word": "教资",
@@ -345,14 +361,6 @@
       "onboard_time": 1677507273,
       "rank": 35,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1126878,
-      "num": 1126878,
-      "word": "80后丁克夫妻回应存300万提前退休",
-      "onboard_time": 1677553528,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1124953,
@@ -571,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 816626,
+      "num": 816626,
+      "word": "陈书婷被注册为公司名",
+      "onboard_time": 1677555208,
+      "rank": 29,
+      "category": "财经,影视"
+    },
+    {
       "raw_hot": 794631,
       "num": 794631,
       "word": "苏小玎已经不会高启盛舞步了",
@@ -675,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 673187,
+      "num": 673187,
+      "word": "尹智圣妹妹回应鸡蛋事件争议",
+      "onboard_time": 1677555268,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 668175,
       "num": 668175,
       "word": "丫丫是最坚强的熊猫",
@@ -761,6 +785,14 @@
       "onboard_time": 1677554788,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 587559,
+      "num": 587559,
+      "word": "建议实行6岁以下儿童免费医疗",
+      "onboard_time": 1677554248,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 583543,
@@ -851,6 +883,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 534389,
+      "num": 534389,
+      "word": "此轮甲流为何这么严重",
+      "onboard_time": 1677552687,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 533688,
       "num": 332104,
       "word": "蔡天凤被碎尸案今日提堂",
@@ -907,6 +947,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 508740,
+      "num": 508740,
+      "word": "建议第三孩从幼儿园到高中免费教育",
+      "onboard_time": 1677555509,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 506734,
       "num": 506734,
       "word": "鹿晗脸上有将字",
@@ -937,6 +985,14 @@
       "onboard_time": 1677488071,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494229,
+      "num": 494229,
+      "word": "阿Sa阿娇古装剑侠合体",
+      "onboard_time": 1677555868,
+      "rank": 13,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 491810,
@@ -971,12 +1027,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 480969,
-      "num": 480969,
-      "word": "此轮甲流为何这么严重",
-      "onboard_time": 1677552687,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 478298,
+      "num": 478298,
+      "word": "西安草莓音乐节阵容",
+      "onboard_time": 1677556046,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 477636,
@@ -1001,6 +1057,14 @@
       "onboard_time": 1677457348,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469195,
+      "num": 469195,
+      "word": "肖战补妆视频",
+      "onboard_time": 1677554489,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 466787,
@@ -1179,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414823,
+      "num": 414823,
+      "word": "杰尼斯 喜多川",
+      "onboard_time": 1677556649,
+      "rank": 19,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 412342,
       "num": 412342,
       "word": "3月壁纸",
@@ -1209,14 +1281,6 @@
       "onboard_time": 1677464548,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 402395,
-      "num": 402395,
-      "word": "建议实行6岁以下儿童免费医疗",
-      "onboard_time": 1677554248,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 401275,
@@ -1265,6 +1329,14 @@
       "onboard_time": 1677553949,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 387385,
+      "num": 387385,
+      "word": "张元英金珉奎拍的广告",
+      "onboard_time": 1677556708,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 387110,
@@ -1353,14 +1425,6 @@
       "onboard_time": 1677467670,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 363832,
-      "num": 363832,
-      "word": "肖战补妆视频",
-      "onboard_time": 1677554489,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 363068,
@@ -1619,6 +1683,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 307765,
+      "num": 290892,
+      "word": "BBC将播出喜多川纪录片",
+      "onboard_time": 1677557430,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 305502,
       "num": 305502,
       "word": "萧寒得知何冉病情真相",
@@ -1723,6 +1795,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 291877,
+      "num": 291877,
+      "word": "张若昀大侦探大衣皮靴造型",
+      "onboard_time": 1677556948,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291745,
       "num": 291745,
       "word": "蔡徐坤晒KUN标墨镜",
@@ -1745,6 +1825,14 @@
       "onboard_time": 1677553949,
       "rank": 31,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 288042,
+      "num": 288042,
+      "word": "许凯逛街",
+      "onboard_time": 1677556831,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 282101,
@@ -1795,6 +1883,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 267769,
+      "num": 267769,
+      "word": "香港撤销所有社交距离措施",
+      "onboard_time": 1677554308,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267041,
       "num": 247673,
       "word": "律师解读香港名媛蔡天凤被杀案",
@@ -1827,14 +1923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 249894,
-      "num": 249894,
-      "word": "陈书婷被注册为公司名",
-      "onboard_time": 1677555208,
-      "rank": 29,
-      "category": "财经,影视"
-    },
-    {
       "raw_hot": 249510,
       "num": 249510,
       "word": "大侦探",
@@ -1857,14 +1945,6 @@
       "onboard_time": 1677475410,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 241040,
-      "num": 241040,
-      "word": "香港撤销所有社交距离措施",
-      "onboard_time": 1677554308,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240215,
@@ -2027,8 +2107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211726,
-      "num": 211726,
+      "raw_hot": 212589,
+      "num": 212589,
       "word": "超20省市执行公积金付首付新政",
       "onboard_time": 1677552871,
       "rank": 44,
@@ -2443,20 +2523,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 180490,
+      "num": 180490,
+      "word": "郑州将降低小学入学年龄",
+      "onboard_time": 1677557911,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 174770,
       "num": 174770,
       "word": "异地就医备案能在手机上办了",
       "onboard_time": 1677548907,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168699,
-      "num": 168699,
-      "word": "尹智圣妹妹回应鸡蛋事件争议",
-      "onboard_time": 1677555268,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 167372,
@@ -3193,6 +3273,14 @@
       "onboard_time": 1677404667,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84974,
+      "num": 216418,
+      "word": "那家餐厅被饿了么免单了",
+      "onboard_time": 1677556831,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 83942,
