@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677623760379,
+  "endTime": 1677626373717,
   "band_list": [
     {
       "raw_hot": 2029268,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1186532,
+      "num": 1186532,
+      "word": "罪犯子女考公限制应该消除吗",
+      "onboard_time": 1677595534,
+      "rank": 5,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1055363,
       "num": 1055363,
       "word": "晚十点是最佳入睡时段",
@@ -35,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 882146,
+      "num": 882146,
+      "word": "周琦回应",
+      "onboard_time": 1677625519,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 837838,
       "num": 837838,
       "word": "丫丫食欲良好即将回国",
       "onboard_time": 1677590911,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 802266,
-      "num": 802266,
-      "word": "罪犯子女考公限制应该消除吗",
-      "onboard_time": 1677595534,
-      "rank": 5,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 781117,
@@ -65,6 +73,14 @@
       "onboard_time": 1677597458,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 540844,
+      "num": 540844,
+      "word": "辽宁一轿车被大货车追尾压扁",
+      "onboard_time": 1677623715,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 521783,
@@ -89,6 +105,14 @@
       "onboard_time": 1677588749,
       "rank": 11,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 454818,
+      "num": 454818,
+      "word": "退税",
+      "onboard_time": 1677625759,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 414431,
@@ -147,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297072,
+      "num": 297072,
+      "word": "建议给3岁以下婴幼儿家庭发育儿补贴",
+      "onboard_time": 1677614711,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 297059,
       "num": 297059,
       "word": "你是补税还是退税",
@@ -155,12 +187,44 @@
       "category": "财经"
     },
     {
+      "raw_hot": 277512,
+      "num": 277512,
+      "word": "售价近40元的绘本",
+      "onboard_time": 1677603619,
+      "rank": 21,
+      "category": "其它"
+    },
+    {
       "raw_hot": 268841,
       "num": 268841,
       "word": "一宿舍的军师都沉默了",
       "onboard_time": 1677594333,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255639,
+      "num": 255639,
+      "word": "姚明 新疆男篮",
+      "onboard_time": 1677625939,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 247410,
+      "num": 247410,
+      "word": "炒面涨到2元老板娘觉得不好意思",
+      "onboard_time": 1677607576,
+      "rank": 31,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 232038,
+      "num": 232038,
+      "word": "个人所得税退税",
+      "onboard_time": 1677625458,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 229691,
@@ -187,11 +251,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206078,
+      "num": 206078,
+      "word": "新疆男篮",
+      "onboard_time": 1677625759,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202587,
       "num": 202587,
       "word": "三月你好",
       "onboard_time": 1677601405,
       "rank": 24,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 202018,
+      "num": 202018,
+      "word": "三月",
+      "onboard_time": 1677626061,
+      "rank": 21,
       "category": "情感,社会新闻"
     },
     {
@@ -219,20 +299,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185589,
+      "num": 185589,
+      "word": "三月第一天",
+      "onboard_time": 1677626061,
+      "rank": 22,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 177242,
       "num": 177242,
       "word": "HYBE新男团BOYNEXTDOOR",
       "onboard_time": 1677597222,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174758,
-      "num": 174758,
-      "word": "售价近40元的绘本",
-      "onboard_time": 1677603619,
-      "rank": 21,
-      "category": "其它"
     },
     {
       "raw_hot": 173039,
@@ -299,28 +379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138373,
-      "num": 138373,
-      "word": "炒面涨到2元老板娘觉得不好意思",
-      "onboard_time": 1677607576,
-      "rank": 31,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 136221,
       "num": 136221,
       "word": "徐志胜安利女士的品格",
       "onboard_time": 1677596863,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135714,
-      "num": 120880,
-      "word": "建议给3岁以下婴幼儿家庭发育儿补贴",
-      "onboard_time": 1677614711,
-      "rank": 12,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 135295,
@@ -361,6 +425,14 @@
       "onboard_time": 1677591451,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115177,
+      "num": 115177,
+      "word": "重组家庭男孩凌晨独行好心人送回家",
+      "onboard_time": 1677613991,
+      "rank": 30,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 114148,
@@ -435,12 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70772,
-      "num": 61769,
-      "word": "重组家庭男孩凌晨独行好心人送回家",
-      "onboard_time": 1677613991,
-      "rank": 30,
-      "category": "社会正能量"
+      "raw_hot": 64605,
+      "num": 64605,
+      "word": "毛宁称美国未免太不自信",
+      "onboard_time": 1677580710,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 60091,
@@ -451,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43373,
-      "num": 43373,
-      "word": "毛宁称美国未免太不自信",
-      "onboard_time": 1677580710,
-      "rank": 48,
-      "category": "国内要闻"
+      "raw_hot": 52083,
+      "num": 52083,
+      "word": "新疆男篮将全部资产捐出",
+      "onboard_time": 1677626362,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 41813,
@@ -497,14 +569,6 @@
       "onboard_time": 1677612252,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21826,
-      "num": 27770,
-      "word": "辽宁一轿车被大货车追尾压扁",
-      "onboard_time": 1677623715,
-      "rank": 49,
-      "category": "社会负面"
     }
   ],
   "hotgov_list": [
