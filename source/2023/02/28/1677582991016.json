@@ -1,0 +1,410 @@
+{
+  "runTime": 1677582991016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1456780,
+        "num": 1456780,
+        "word": "黄婷婷被纳入失信被执行人名单",
+        "onboard_time": 1677574171,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1341810,
+        "num": 1341810,
+        "word": "香奈儿回应2万包包15分钟断了",
+        "onboard_time": 1677573270,
+        "rank": 1,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 71084,
+        "num": 1146692,
+        "word": "加油中国人",
+        "onboard_time": 1677571289,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1523880,
+        "num": 1146462,
+        "word": "女子因烤苕皮太难吃送回给老板",
+        "onboard_time": 1677574592,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144669,
+        "num": 1144669,
+        "word": "建议消除对罪犯子女考公的限制",
+        "onboard_time": 1677572070,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913856,
+        "num": 913856,
+        "word": "虞书欣方发严正声明维权",
+        "onboard_time": 1677581551,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 745474,
+        "num": 745474,
+        "word": "夏花大结局",
+        "onboard_time": 1677579266,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 662580,
+        "num": 662580,
+        "word": "刘德华李兰迪早期旧照",
+        "onboard_time": 1677580949,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548122,
+        "num": 548122,
+        "word": "教育局回应学校要求学生必须缴医保",
+        "onboard_time": 1677578610,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 546581,
+        "num": 546581,
+        "word": "山姆超市买到一天后上市的鸡爪",
+        "onboard_time": 1677572909,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036029,
+        "num": 535908,
+        "word": "吴秀波儿子 家暴",
+        "onboard_time": 1677560434,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 673573,
+        "num": 527331,
+        "word": "微博King和QUEEN",
+        "onboard_time": 1677572369,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611907,
+        "num": 521943,
+        "word": "赵露思工作室发严正声明",
+        "onboard_time": 1677570329,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496596,
+        "num": 496596,
+        "word": "王者新亲密关系称谓",
+        "onboard_time": 1677577833,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 459281,
+        "num": 459281,
+        "word": "微博之夜官宣",
+        "onboard_time": 1677569728,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452880,
+        "num": 452880,
+        "word": "旅美大熊猫丫丫要回来了",
+        "onboard_time": 1677565587,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441994,
+        "num": 441994,
+        "word": "党和国家机构改革",
+        "onboard_time": 1677576929,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 439457,
+        "num": 439457,
+        "word": "14岁男孩网上自学偷开70公里后撞车",
+        "onboard_time": 1677577289,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425781,
+        "num": 425781,
+        "word": "俄罗斯暂时关闭圣彼得堡机场",
+        "onboard_time": 1677573450,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 420483,
+        "num": 420483,
+        "word": "田柾国注销ins",
+        "onboard_time": 1677569667,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436704,
+        "num": 420440,
+        "word": "女子路边买2碗麻辣烫花费175元",
+        "onboard_time": 1677574772,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418344,
+        "num": 418344,
+        "word": "毛宁称美国未免太不自信",
+        "onboard_time": 1677580710,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 385362,
+        "num": 385362,
+        "word": "山姆门店多次因食品安全问题被罚",
+        "onboard_time": 1677578071,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379012,
+        "num": 379012,
+        "word": "周杰伦天津演唱会票价",
+        "onboard_time": 1677572791,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 309599,
+        "num": 309599,
+        "word": "邓超分不清小花得了什么奖",
+        "onboard_time": 1677570572,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286073,
+        "num": 286073,
+        "word": "明星虚假违法代言等记录向社会公开",
+        "onboard_time": 1677579088,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 270184,
+        "num": 270184,
+        "word": "杨紫黑白穿搭造型随拍",
+        "onboard_time": 1677579150,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259635,
+        "num": 259635,
+        "word": "章莹颖父亲回应直播带货",
+        "onboard_time": 1677567146,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247357,
+        "num": 247357,
+        "word": "杨颖相思令妆造",
+        "onboard_time": 1677578910,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247157,
+        "num": 247157,
+        "word": "00后男生筋膜枪按摩眼睛致白内障",
+        "onboard_time": 1677571829,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305187,
+        "num": 238118,
+        "word": "井柏然李荣浩逛街",
+        "onboard_time": 1677581609,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222267,
+        "num": 222267,
+        "word": "把孩子养到18岁平均成本近50万",
+        "onboard_time": 1677569188,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 215719,
+        "num": 215719,
+        "word": "教资面试",
+        "onboard_time": 1677564029,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210796,
+        "num": 210796,
+        "word": "RNG对战AL",
+        "onboard_time": 1677582630,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207483,
+        "num": 207483,
+        "word": "女子帮网友表白日收入过万",
+        "onboard_time": 1677576989,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 197693,
+        "num": 197693,
+        "word": "夏花",
+        "onboard_time": 1677580231,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194045,
+        "num": 194045,
+        "word": "957直播爆料",
+        "onboard_time": 1677571172,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189367,
+        "num": 189367,
+        "word": "如果狂飙里死的是高启强",
+        "onboard_time": 1677572728,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186705,
+        "num": 186705,
+        "word": "白宫要求美政府设备上禁用TikTok",
+        "onboard_time": 1677581850,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 179642,
+        "num": 179642,
+        "word": "EXO粉丝见面会海报公开",
+        "onboard_time": 1677576331,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174184,
+        "num": 174184,
+        "word": "原来打包的面可以这样吃",
+        "onboard_time": 1677568648,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158420,
+        "num": 158420,
+        "word": "山东养的大熊猫相当炸裂",
+        "onboard_time": 1677563489,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147075,
+        "num": 147075,
+        "word": "无水番茄牛腩",
+        "onboard_time": 1677574950,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143607,
+        "num": 143607,
+        "word": "外国要租借大熊猫有多难",
+        "onboard_time": 1677572309,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143473,
+        "num": 143473,
+        "word": "快乐再出发收官演唱会预告",
+        "onboard_time": 1677582809,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142557,
+        "num": 142557,
+        "word": "高叶早期生图剧照",
+        "onboard_time": 1677577951,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137377,
+        "num": 137377,
+        "word": "当动物闻到榴莲味的反应",
+        "onboard_time": 1677579871,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136276,
+        "num": 136276,
+        "word": "95后山东女孩大学毕业当矿工",
+        "onboard_time": 1677574470,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 131872,
+        "num": 131872,
+        "word": "杰尼斯 喜多川",
+        "onboard_time": 1677556649,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 124331,
+        "num": 124331,
+        "word": "帮我艾特王子殿下",
+        "onboard_time": 1677580530,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民冷暖是总书记的时刻牵挂#"
+    }
+  }
+}
