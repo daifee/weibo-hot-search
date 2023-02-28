@@ -1,0 +1,410 @@
+{
+  "runTime": 1677611754854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 154934,
+        "num": 154934,
+        "word": "罪犯子女考公限制应该消除吗",
+        "onboard_time": 1677595534,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 138373,
+        "num": 138373,
+        "word": "炒面涨到2元老板娘觉得不好意思",
+        "onboard_time": 1677607576,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 7427,
+        "num": 126879,
+        "word": "乡村振兴美好图景",
+        "onboard_time": 1677596564,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122962,
+        "num": 122962,
+        "word": "丫丫食欲良好即将回国",
+        "onboard_time": 1677590911,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100574,
+        "num": 100574,
+        "word": "泸定地震",
+        "onboard_time": 1677596443,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97285,
+        "num": 97285,
+        "word": "白夜追凶2",
+        "onboard_time": 1677588088,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89444,
+        "num": 89444,
+        "word": "晚十点是最佳入睡时段",
+        "onboard_time": 1677599491,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76049,
+        "num": 76049,
+        "word": "特斯拉潮州事故鉴定结果已出",
+        "onboard_time": 1677597458,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75530,
+        "num": 75530,
+        "word": "成都震感",
+        "onboard_time": 1677596260,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66123,
+        "num": 66123,
+        "word": "建议生育登记取消结婚限制",
+        "onboard_time": 1677589650,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 223920,
+        "num": 64963,
+        "word": "新疆男篮退出CBA",
+        "onboard_time": 1677599789,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62294,
+        "num": 62294,
+        "word": "女子别墅被老爸60万装出浓情复古风",
+        "onboard_time": 1677592532,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60869,
+        "num": 60869,
+        "word": "虞书欣方发严正声明维权",
+        "onboard_time": 1677581551,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59558,
+        "num": 59558,
+        "word": "售价近40元的绘本",
+        "onboard_time": 1677603619,
+        "rank": 13,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 59271,
+        "num": 59271,
+        "word": "明天起个税将再次多退少补",
+        "onboard_time": 1677588749,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 44450,
+        "num": 44450,
+        "word": "金智秀紫裙",
+        "onboard_time": 1677594573,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 43643,
+        "num": 43643,
+        "word": "那些曾经霸榜的小说",
+        "onboard_time": 1677596983,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42616,
+        "num": 42616,
+        "word": "你是补税还是退税",
+        "onboard_time": 1677591992,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39753,
+        "num": 39753,
+        "word": "黑崎真音去世",
+        "onboard_time": 1677586290,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39683,
+        "num": 39683,
+        "word": "代表建议延长春节法定假期",
+        "onboard_time": 1677598893,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 38494,
+        "num": 38494,
+        "word": "余生请多指教",
+        "onboard_time": 1677586590,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36822,
+        "num": 36822,
+        "word": "赵露思工作室发严正声明",
+        "onboard_time": 1677570329,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36758,
+        "num": 36758,
+        "word": "黄婷婷回应",
+        "onboard_time": 1677589471,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35714,
+        "num": 35714,
+        "word": "DIOR",
+        "onboard_time": 1677593914,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 32490,
+        "num": 32490,
+        "word": "山姆回应顾客买到1天后上市的鸡爪",
+        "onboard_time": 1677591033,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32371,
+        "num": 32371,
+        "word": "一宿舍的军师都沉默了",
+        "onboard_time": 1677594333,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30014,
+        "num": 30014,
+        "word": "等一个言承旭徐若晗二搭",
+        "onboard_time": 1677599667,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29453,
+        "num": 29453,
+        "word": "建议把抑郁症治疗纳入医保",
+        "onboard_time": 1677585690,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29336,
+        "num": 29336,
+        "word": "90后女孩奋斗14年从服务员到博士生",
+        "onboard_time": 1677591150,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 28917,
+        "num": 28917,
+        "word": "毛宁称美国未免太不自信",
+        "onboard_time": 1677580710,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 28126,
+        "num": 28126,
+        "word": "四川泸定发生4.8级地震",
+        "onboard_time": 1677597637,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27323,
+        "num": 27323,
+        "word": "香奈儿回应2万包包15分钟断了",
+        "onboard_time": 1677573270,
+        "rank": 31,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 26832,
+        "num": 26832,
+        "word": "一条plog告别二月",
+        "onboard_time": 1677601823,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26449,
+        "num": 26449,
+        "word": "建议消除对罪犯子女考公的限制",
+        "onboard_time": 1677572070,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24145,
+        "num": 24145,
+        "word": "刘雨昕巴黎vlog",
+        "onboard_time": 1677601644,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23382,
+        "num": 23382,
+        "word": "一种很新的支付方式",
+        "onboard_time": 1677595232,
+        "rank": 35,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 22865,
+        "num": 22865,
+        "word": "夏花大结局",
+        "onboard_time": 1677579266,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21662,
+        "num": 21662,
+        "word": "女子因烤苕皮太难吃送回给老板",
+        "onboard_time": 1677574592,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20486,
+        "num": 20486,
+        "word": "朴敏赫退队",
+        "onboard_time": 1677590071,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20449,
+        "num": 20449,
+        "word": "三月你好",
+        "onboard_time": 1677601405,
+        "rank": 39,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 20050,
+        "num": 20050,
+        "word": "夏花",
+        "onboard_time": 1677580231,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19782,
+        "num": 19782,
+        "word": "声生不息",
+        "onboard_time": 1677595113,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19317,
+        "num": 19317,
+        "word": "HYBE新男团BOYNEXTDOOR",
+        "onboard_time": 1677597222,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19194,
+        "num": 19194,
+        "word": "王源胡子",
+        "onboard_time": 1677587671,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18933,
+        "num": 18933,
+        "word": "流浪地球2成2月票房冠军",
+        "onboard_time": 1677595293,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18741,
+        "num": 18741,
+        "word": "海空卫士王伟烈士父亲去世",
+        "onboard_time": 1677595293,
+        "rank": 45,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 18707,
+        "num": 18707,
+        "word": "2023年CBA全明星阵容",
+        "onboard_time": 1677594634,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18580,
+        "num": 18580,
+        "word": "李宏毅直播",
+        "onboard_time": 1677591451,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17251,
+        "num": 17251,
+        "word": "这楼梯怎么还会捉迷藏呢",
+        "onboard_time": 1677604457,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17077,
+        "num": 17077,
+        "word": "徐志胜安利女士的品格",
+        "onboard_time": 1677596863,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十届二中全会公报#"
+    }
+  }
+}
