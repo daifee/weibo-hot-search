@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677608690031,
+  "endTime": 1677609569269,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -4515,6 +4515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88736,
+      "num": 88736,
+      "word": "炒面涨到2元老板娘觉得不好意思",
+      "onboard_time": 1677607576,
+      "rank": 31,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 87682,
       "num": 87682,
       "word": "AG版狂飙",
@@ -4697,14 +4705,6 @@
       "onboard_time": 1677604457,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 41236,
-      "num": 41236,
-      "word": "炒面涨到2元老板娘觉得不好意思",
-      "onboard_time": 1677607576,
-      "rank": 31,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 35634,
