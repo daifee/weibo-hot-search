@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/03/01 00:27:31 ~ 2023/03/01 01:35:25
+本榜单时间：2023/03/01 00:27:31 ~ 2023/03/01 02:24:50
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@ HYBE新男团BOYNEXTDOOR（热度：177242）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%92%E9%9D%A2%E6%B6%A8%E5%88%B02%E5%85%83%E8%80%81%E6%9D%BF%E5%A8%98%E8%A7%89%E5%BE%97%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%23" target="weibo">
+炒面涨到2元老板娘觉得不好意思（热度：41236）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E6%99%92%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E9%9A%8F%E6%8B%8D%23" target="weibo">
 章子怡晒巴黎时装周随拍（热度：33058）
 </a>
@@ -347,6 +353,12 @@ HYBE新男团BOYNEXTDOOR（热度：177242）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E7%BE%8E%E5%A5%BD%E5%9B%BE%E6%99%AF%23" target="weibo">
 乡村振兴美好图景（热度：33010）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%AE%9A%E5%8F%91%E7%94%9F4.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+四川泸定发生4.8级地震（热度：30219）
 </a>
 </li>
 
