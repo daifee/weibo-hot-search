@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677568681091,
+  "endTime": 1677569629234,
   "band_list": [
     {
       "raw_hot": 8538395,
@@ -104,6 +104,14 @@
       "word": "父母没重视15岁儿子最终身高1米53",
       "onboard_time": 1677544831,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1813718,
+      "num": 1813718,
+      "word": "章莹颖父亲回应直播带货",
+      "onboard_time": 1677567146,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -259,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1396984,
-      "num": 1396984,
-      "word": "章莹颖父亲回应直播带货",
-      "onboard_time": 1677567146,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1345796,
       "num": 1345796,
       "word": "大麦",
@@ -403,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1119343,
+      "num": 1119343,
+      "word": "旅美大熊猫丫丫要回来了",
+      "onboard_time": 1677565587,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1113937,
       "num": 1113937,
       "word": "狂飙麻子变成景点了",
       "onboard_time": 1677477988,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1106178,
-      "num": 1106178,
-      "word": "旅美大熊猫丫丫要回来了",
-      "onboard_time": 1677565587,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1100848,
@@ -1235,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 440801,
+      "num": 386536,
+      "word": "从大嫂的全世界路过",
+      "onboard_time": 1677568590,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 440559,
       "num": 440559,
       "word": "HYBE新男团将5月出道",
@@ -1379,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409640,
+      "num": 409640,
+      "word": "虞书欣双丸子头上班路透",
+      "onboard_time": 1677567388,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408597,
       "num": 408597,
       "word": "田柾国直播",
@@ -1515,14 +1531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380689,
-      "num": 380689,
-      "word": "虞书欣双丸子头上班路透",
-      "onboard_time": 1677567388,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 374404,
       "num": 374404,
       "word": "全国超9成小城市房价不过万元",
@@ -1537,6 +1545,14 @@
       "onboard_time": 1677474033,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 369458,
+      "num": 369458,
+      "word": "退订酒店被辱骂游客已收到退款",
+      "onboard_time": 1677567028,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367473,
@@ -1755,6 +1771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 327549,
+      "num": 327549,
+      "word": "守财奴没有情",
+      "onboard_time": 1677568046,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326621,
       "num": 326621,
       "word": "杨澜说独立女性不意味着独身",
@@ -1787,20 +1811,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323014,
+      "num": 323014,
+      "word": "原来打包的面可以这样吃",
+      "onboard_time": 1677568648,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317887,
       "num": 317887,
       "word": "未定事件簿",
       "onboard_time": 1677477450,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 314649,
-      "num": 314649,
-      "word": "退订酒店被辱骂游客已收到退款",
-      "onboard_time": 1677567028,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312656,
@@ -1843,6 +1867,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 307754,
+      "num": 307754,
+      "word": "20多位中科院专家把芯片价格打到10块",
+      "onboard_time": 1677568348,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 305502,
       "num": 305502,
       "word": "萧寒得知何冉病情真相",
@@ -1873,14 +1905,6 @@
       "onboard_time": 1677491130,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 301368,
-      "num": 301368,
-      "word": "守财奴没有情",
-      "onboard_time": 1677568046,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 299688,
@@ -2003,14 +2027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285977,
-      "num": 285977,
-      "word": "从大嫂的全世界路过",
-      "onboard_time": 1677568590,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 282101,
       "num": 192594,
       "word": "蔡徐坤的戒指好大",
@@ -2131,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245659,
+      "num": 245659,
+      "word": "玉兰花",
+      "onboard_time": 1677566548,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241876,
       "num": 241876,
       "word": "柯南角色全家福海报",
@@ -2171,20 +2195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234428,
-      "num": 234428,
-      "word": "玉兰花",
-      "onboard_time": 1677566548,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234042,
       "num": 234042,
       "word": "何瑞贤秀场妆",
       "onboard_time": 1677561753,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228272,
+      "num": 228272,
+      "word": "把孩子养到18岁平均成本近50万",
+      "onboard_time": 1677569188,
+      "rank": 27,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 227213,
@@ -2633,6 +2657,14 @@
       "onboard_time": 1677538939,
       "rank": 28,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 192433,
+      "num": 192433,
+      "word": "95花哭戏演技大赏",
+      "onboard_time": 1677569548,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 192250,
@@ -3115,14 +3147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131272,
-      "num": 131272,
-      "word": "20多位中科院专家把芯片价格打到10块",
-      "onboard_time": 1677568348,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 130335,
       "num": 130335,
       "word": "何冉吃醋",
@@ -3337,14 +3361,6 @@
       "onboard_time": 1677462087,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 107187,
-      "num": 107187,
-      "word": "原来打包的面可以这样吃",
-      "onboard_time": 1677568648,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 106799,
