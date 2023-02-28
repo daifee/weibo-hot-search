@@ -1,6 +1,6 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677553232247,
+  "endTime": 1677554636167,
   "band_list": [
     {
       "raw_hot": 2364822,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1399647,
+      "num": 1399647,
+      "word": "张译狂飙热播后首露面",
+      "onboard_time": 1677552027,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1216486,
       "num": 982005,
       "word": "迪丽热巴双麻花辫造型拍摄路透",
@@ -51,12 +59,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1164444,
+      "num": 1164444,
+      "word": "2022年中国出生人口956万人",
+      "onboard_time": 1677551188,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1144328,
       "num": 1144328,
       "word": "教资",
       "onboard_time": 1677546810,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1105368,
+      "num": 1105368,
+      "word": "王勉接机把鹿晗写成鹿女士",
+      "onboard_time": 1677553347,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1100848,
@@ -83,14 +107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 995836,
-      "num": 995836,
-      "word": "2022年中国出生人口956万人",
-      "onboard_time": 1677551188,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 960805,
       "num": 960805,
       "word": "超90%的成人体内有水痘带状疱疹病毒",
@@ -99,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 897418,
-      "num": 897418,
-      "word": "张译狂飙热播后首露面",
-      "onboard_time": 1677552027,
-      "rank": 13,
-      "category": "影视"
+      "raw_hot": 891850,
+      "num": 891850,
+      "word": "微博之夜嘉宾",
+      "onboard_time": 1677551848,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 868324,
@@ -121,14 +137,6 @@
       "onboard_time": 1677545190,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 851980,
-      "num": 851980,
-      "word": "微博之夜嘉宾",
-      "onboard_time": 1677551848,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 829024,
@@ -171,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 682944,
+      "num": 576153,
+      "word": "80后丁克夫妻回应存300万提前退休",
+      "onboard_time": 1677553528,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579454,
       "num": 579454,
       "word": "建议常见病不要去三级医院",
@@ -193,6 +209,14 @@
       "onboard_time": 1677548848,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 475110,
+      "num": 475110,
+      "word": "成都警方通报越野车追撞轿车",
+      "onboard_time": 1677550947,
+      "rank": 19,
+      "category": "社会负面"
     },
     {
       "raw_hot": 466787,
@@ -219,6 +243,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 443282,
+      "num": 443282,
+      "word": "老友记莫妮卡扮演者好莱坞留星",
+      "onboard_time": 1677552088,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 440954,
+      "num": 440954,
+      "word": "疱疹病毒一旦感染终身携带",
+      "onboard_time": 1677552629,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440559,
       "num": 440559,
       "word": "HYBE新男团将5月出道",
@@ -235,20 +275,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427961,
+      "num": 427961,
+      "word": "此轮甲流为何这么严重",
+      "onboard_time": 1677552687,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423543,
       "num": 423543,
       "word": "医生称甲流也会引起白肺",
       "onboard_time": 1677511349,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421442,
-      "num": 421442,
-      "word": "老友记莫妮卡扮演者好莱坞留星",
-      "onboard_time": 1677552088,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 412342,
@@ -259,11 +299,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 408046,
-      "num": 408046,
-      "word": "成都警方通报越野车追撞轿车",
-      "onboard_time": 1677550947,
-      "rank": 19,
+      "raw_hot": 411106,
+      "num": 411106,
+      "word": "中学生骑车载好友致摔亡判赔70万",
+      "onboard_time": 1677553287,
+      "rank": 18,
       "category": "社会负面"
     },
     {
@@ -281,6 +321,14 @@
       "onboard_time": 1677515063,
       "rank": 48,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 372306,
+      "num": 372306,
+      "word": "HYBE今日结束SMTOWN公开收购",
+      "onboard_time": 1677553949,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 368832,
@@ -371,20 +419,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 267993,
+      "num": 267993,
+      "word": "害怕吃东西变不聪明的小朋友",
+      "onboard_time": 1677553347,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 255703,
       "num": 255703,
       "word": "周杰伦 抢票",
       "onboard_time": 1677493890,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 246436,
-      "num": 246436,
-      "word": "疱疹病毒一旦感染终身携带",
-      "onboard_time": 1677552629,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242295,
@@ -475,10 +523,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200151,
-      "num": 200151,
-      "word": "此轮甲流为何这么严重",
-      "onboard_time": 1677552687,
+      "raw_hot": 203977,
+      "num": 203977,
+      "word": "建议实行6岁以下儿童免费医疗",
+      "onboard_time": 1677554248,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -489,6 +537,14 @@
       "onboard_time": 1677539601,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192547,
+      "num": 192547,
+      "word": "香港中国联通换新logo",
+      "onboard_time": 1677553949,
+      "rank": 31,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 192482,
@@ -505,6 +561,14 @@
       "onboard_time": 1677539661,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190262,
+      "num": 190262,
+      "word": "明日方舟",
+      "onboard_time": 1677553768,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 185444,
@@ -539,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169961,
+      "num": 169961,
+      "word": "肖战补妆视频",
+      "onboard_time": 1677554489,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168831,
       "num": 168831,
       "word": "外卖小哥咆哮称没人能在我手上饿死",
@@ -561,6 +633,14 @@
       "onboard_time": 1677549687,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165367,
+      "num": 165367,
+      "word": "超20省市执行公积金付首付新政",
+      "onboard_time": 1677552871,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 163211,
@@ -587,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156870,
+      "num": 156870,
+      "word": "香港撤销所有社交距离措施",
+      "onboard_time": 1677554308,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153721,
       "num": 153721,
       "word": "建议小学教育年限缩短到5年",
@@ -601,6 +689,14 @@
       "onboard_time": 1677492568,
       "rank": 25,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 149269,
+      "num": 149269,
+      "word": "你是口腔溃疡星人吗",
+      "onboard_time": 1677554128,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 148574,
@@ -737,14 +833,6 @@
       "onboard_time": 1677517697,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102224,
-      "num": 102224,
-      "word": "超20省市执行公积金付首付新政",
-      "onboard_time": 1677552871,
-      "rank": 44,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 101098,
