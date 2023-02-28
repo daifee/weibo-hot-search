@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677604695136,
+  "endTime": 1677605725263,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -3635,6 +3635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174758,
+      "num": 174758,
+      "word": "售价近40元的绘本",
+      "onboard_time": 1677603619,
+      "rank": 21,
+      "category": "其它"
+    },
+    {
       "raw_hot": 173315,
       "num": 173315,
       "word": "艾尔登法环DLC开发中",
@@ -4129,14 +4137,6 @@
       "onboard_time": 1677571289,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125211,
-      "num": 125211,
-      "word": "售价近40元的绘本",
-      "onboard_time": 1677603619,
-      "rank": 21,
-      "category": "其它"
     },
     {
       "raw_hot": 124931,
@@ -4657,6 +4657,14 @@
       "onboard_time": 1677421713,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60091,
+      "num": 60091,
+      "word": "张峻豪说提前透露一些创意",
+      "onboard_time": 1677605116,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 55498,
