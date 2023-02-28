@@ -1,0 +1,410 @@
+{
+  "runTime": 1677568681091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1396984,
+        "num": 1396984,
+        "word": "章莹颖父亲回应直播带货",
+        "onboard_time": 1677567146,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1106178,
+        "num": 1106178,
+        "word": "旅美大熊猫丫丫要回来了",
+        "onboard_time": 1677565587,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81172,
+        "num": 1038045,
+        "word": "春季高发传染病预防指南",
+        "onboard_time": 1677564209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2863034,
+        "num": 1036387,
+        "word": "吴秀波儿子 家暴",
+        "onboard_time": 1677560434,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1001430,
+        "num": 1001430,
+        "word": "山东养的大熊猫相当炸裂",
+        "onboard_time": 1677563489,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993531,
+        "num": 993531,
+        "word": "高叶曾出演鹿晗勋章的MV",
+        "onboard_time": 1677565888,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 497634,
+        "num": 497634,
+        "word": "刘涛芭比粉喇叭裤造型",
+        "onboard_time": 1677567748,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 469051,
+        "num": 469051,
+        "word": "疱疹病毒一旦感染终身携带",
+        "onboard_time": 1677552629,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462514,
+        "num": 462514,
+        "word": "教资面试",
+        "onboard_time": 1677564029,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 431393,
+        "num": 431393,
+        "word": "丫丫身体状况评估完毕",
+        "onboard_time": 1677556109,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390838,
+        "num": 390838,
+        "word": "80后丁克夫妻回应存300万提前退休",
+        "onboard_time": 1677553528,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380689,
+        "num": 380689,
+        "word": "虞书欣双丸子头上班路透",
+        "onboard_time": 1677567388,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346743,
+        "num": 346743,
+        "word": "杰尼斯 喜多川",
+        "onboard_time": 1677556649,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 340015,
+        "num": 340015,
+        "word": "周杰伦海口演唱会",
+        "onboard_time": 1677558394,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 314649,
+        "num": 314649,
+        "word": "退订酒店被辱骂游客已收到退款",
+        "onboard_time": 1677567028,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301368,
+        "num": 301368,
+        "word": "守财奴没有情",
+        "onboard_time": 1677568046,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291311,
+        "num": 291311,
+        "word": "张译狂飙热播后首露面",
+        "onboard_time": 1677552027,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285977,
+        "num": 285977,
+        "word": "从大嫂的全世界路过",
+        "onboard_time": 1677568590,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277387,
+        "num": 277387,
+        "word": "此轮甲流为何这么严重",
+        "onboard_time": 1677552687,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270955,
+        "num": 270955,
+        "word": "田柾国直播",
+        "onboard_time": 1677565169,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270810,
+        "num": 270810,
+        "word": "父母没重视15岁儿子最终身高1米53",
+        "onboard_time": 1677544831,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262816,
+        "num": 262816,
+        "word": "建议第三孩从幼儿园到高中免费教育",
+        "onboard_time": 1677555509,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 256200,
+        "num": 256200,
+        "word": "梅西第一票投给内马尔",
+        "onboard_time": 1677559597,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255297,
+        "num": 255297,
+        "word": "吉利汽车回应银河之光涉嫌抄袭",
+        "onboard_time": 1677565648,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 254709,
+        "num": 254709,
+        "word": "郑州将降低小学入学年龄",
+        "onboard_time": 1677557911,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 248225,
+        "num": 248225,
+        "word": "四川将调整优化成都市落户政策",
+        "onboard_time": 1677562410,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248091,
+        "num": 248091,
+        "word": "华晨宇2023年演唱会官宣",
+        "onboard_time": 1677565527,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247135,
+        "num": 247135,
+        "word": "微博之夜嘉宾",
+        "onboard_time": 1677551848,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237521,
+        "num": 237521,
+        "word": "我每天的上班动力",
+        "onboard_time": 1677563908,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234428,
+        "num": 234428,
+        "word": "玉兰花",
+        "onboard_time": 1677566548,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227732,
+        "num": 227732,
+        "word": "BBC将播出喜多川纪录片",
+        "onboard_time": 1677557430,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 226116,
+        "num": 226116,
+        "word": "王智发文揭秘韩朵朵特效妆",
+        "onboard_time": 1677567327,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224764,
+        "num": 224764,
+        "word": "建议实行6岁以下儿童免费医疗",
+        "onboard_time": 1677554248,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205670,
+        "num": 205670,
+        "word": "2022年中国出生人口956万人",
+        "onboard_time": 1677551188,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188221,
+        "num": 188221,
+        "word": "3月壁纸",
+        "onboard_time": 1677549508,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187426,
+        "num": 187426,
+        "word": "迪丽热巴双麻花辫造型拍摄路透",
+        "onboard_time": 1677548187,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184292,
+        "num": 184292,
+        "word": "杨幂费加罗男士三月刊封面",
+        "onboard_time": 1677560794,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181868,
+        "num": 181868,
+        "word": "中学生骑车载好友致摔亡判赔70万",
+        "onboard_time": 1677553287,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 181834,
+        "num": 181834,
+        "word": "刘亦菲春日繁花大片",
+        "onboard_time": 1677560434,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175348,
+        "num": 175348,
+        "word": "尹智圣妹妹回应鸡蛋事件争议",
+        "onboard_time": 1677555268,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166012,
+        "num": 166012,
+        "word": "超20省市执行公积金付首付新政",
+        "onboard_time": 1677552871,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 157565,
+        "num": 157565,
+        "word": "肖战补妆视频",
+        "onboard_time": 1677554489,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145167,
+        "num": 145167,
+        "word": "张元英金珉奎拍的广告",
+        "onboard_time": 1677556708,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144628,
+        "num": 144628,
+        "word": "KPL春季赛第三周最佳阵容",
+        "onboard_time": 1677566007,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135663,
+        "num": 135663,
+        "word": "西安草莓音乐节阵容",
+        "onboard_time": 1677556046,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131272,
+        "num": 131272,
+        "word": "20多位中科院专家把芯片价格打到10块",
+        "onboard_time": 1677568348,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 130024,
+        "num": 130024,
+        "word": "安陵容316岁了",
+        "onboard_time": 1677548008,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123420,
+        "num": 123420,
+        "word": "香港撤销所有社交距离措施",
+        "onboard_time": 1677554308,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116694,
+        "num": 116694,
+        "word": "苹果iPhone等设备全系电池将涨价",
+        "onboard_time": 1677548848,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 107187,
+        "num": 107187,
+        "word": "原来打包的面可以这样吃",
+        "onboard_time": 1677568648,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#看中国式现代化图景#"
+    }
+  }
+}

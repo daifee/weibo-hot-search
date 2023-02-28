@@ -1,6 +1,6 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677566424113,
+  "endTime": 1677568681091,
   "band_list": [
     {
       "raw_hot": 8538395,
@@ -75,8 +75,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1396984,
+      "num": 1396984,
+      "word": "章莹颖父亲回应直播带货",
+      "onboard_time": 1677567146,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1307217,
-      "num": 570510,
+      "num": 1001430,
       "word": "山东养的大熊猫相当炸裂",
       "onboard_time": 1677563489,
       "rank": 4,
@@ -123,6 +131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1106178,
+      "num": 1106178,
+      "word": "旅美大熊猫丫丫要回来了",
+      "onboard_time": 1677565587,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1100848,
       "num": 1100848,
       "word": "有没有哥哥的看到这段都沉默了",
@@ -145,6 +161,14 @@
       "onboard_time": 1677539239,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 993531,
+      "num": 993531,
+      "word": "高叶曾出演鹿晗勋章的MV",
+      "onboard_time": 1677565888,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 960805,
@@ -201,14 +225,6 @@
       "onboard_time": 1677513509,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 762181,
-      "num": 762181,
-      "word": "高叶曾出演鹿晗勋章的MV",
-      "onboard_time": 1677565888,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 757626,
@@ -345,6 +361,14 @@
       "onboard_time": 1677548848,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 497634,
+      "num": 497634,
+      "word": "刘涛芭比粉喇叭裤造型",
+      "onboard_time": 1677567748,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 494229,
@@ -523,12 +547,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 370967,
-      "num": 370967,
-      "word": "旅美大熊猫丫丫要回来了",
-      "onboard_time": 1677565587,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 380689,
+      "num": 380689,
+      "word": "虞书欣双丸子头上班路透",
+      "onboard_time": 1677567388,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 368832,
@@ -595,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314649,
+      "num": 314649,
+      "word": "退订酒店被辱骂游客已收到退款",
+      "onboard_time": 1677567028,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312656,
       "num": 312656,
       "word": "华晨宇2023年演唱会官宣",
@@ -609,6 +641,14 @@
       "onboard_time": 1677513926,
       "rank": 16,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 301368,
+      "num": 301368,
+      "word": "守财奴没有情",
+      "onboard_time": 1677568046,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 296059,
@@ -667,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285977,
+      "num": 285977,
+      "word": "从大嫂的全世界路过",
+      "onboard_time": 1677568590,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 281430,
       "num": 281430,
       "word": "害怕吃东西变不聪明的小朋友",
@@ -697,6 +745,14 @@
       "onboard_time": 1677493890,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 255297,
+      "num": 255297,
+      "word": "吉利汽车回应银河之光涉嫌抄袭",
+      "onboard_time": 1677565648,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 249510,
@@ -739,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234428,
+      "num": 234428,
+      "word": "玉兰花",
+      "onboard_time": 1677566548,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234042,
       "num": 234042,
       "word": "何瑞贤秀场妆",
@@ -761,6 +825,14 @@
       "onboard_time": 1677513146,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226116,
+      "num": 226116,
+      "word": "王智发文揭秘韩朵朵特效妆",
+      "onboard_time": 1677567327,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 224737,
@@ -963,14 +1035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 154937,
-      "num": 154937,
-      "word": "吉利汽车回应银河之光涉嫌抄袭",
-      "onboard_time": 1677565648,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 153721,
       "num": 153721,
       "word": "建议小学教育年限缩短到5年",
@@ -1051,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131272,
+      "num": 131272,
+      "word": "20多位中科院专家把芯片价格打到10块",
+      "onboard_time": 1677568348,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 128309,
       "num": 128309,
       "word": "梅西说获奖代表对团队的认可",
@@ -1116,7 +1188,7 @@
     },
     {
       "raw_hot": 110948,
-      "num": 633417,
+      "num": 1038045,
       "word": "春季高发传染病预防指南",
       "onboard_time": 1677564209,
       "rank": 2,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1677493651,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 107187,
+      "num": 107187,
+      "word": "原来打包的面可以这样吃",
+      "onboard_time": 1677568648,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 106020,
