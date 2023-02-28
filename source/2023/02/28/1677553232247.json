@@ -1,0 +1,410 @@
+{
+  "runTime": 1677553232247,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1720543,
+        "num": 1720543,
+        "word": "明起香港口罩令全面取消",
+        "onboard_time": 1677549628,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1127822,
+        "num": 1127822,
+        "word": "建议取消寻衅滋事罪",
+        "onboard_time": 1677545791,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 30955,
+        "num": 1044300,
+        "word": "奋进的春天",
+        "onboard_time": 1677507092,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1282863,
+        "num": 1044159,
+        "word": "父母没重视15岁儿子最终身高1米53",
+        "onboard_time": 1677544831,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995836,
+        "num": 995836,
+        "word": "2022年中国出生人口956万人",
+        "onboard_time": 1677551188,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901977,
+        "num": 901977,
+        "word": "迪丽热巴双麻花辫造型拍摄路透",
+        "onboard_time": 1677548187,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 897418,
+        "num": 897418,
+        "word": "张译狂飙热播后首露面",
+        "onboard_time": 1677552027,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 851980,
+        "num": 851980,
+        "word": "微博之夜嘉宾",
+        "onboard_time": 1677551848,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689515,
+        "num": 689515,
+        "word": "教资",
+        "onboard_time": 1677546810,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 568922,
+        "num": 568922,
+        "word": "高启强为啥总穿戗驳领西装",
+        "onboard_time": 1677545190,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 536562,
+        "num": 536562,
+        "word": "安陵容316岁了",
+        "onboard_time": 1677548008,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 508796,
+        "num": 508796,
+        "word": "苹果iPhone等设备全系电池将涨价",
+        "onboard_time": 1677548848,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 460958,
+        "num": 460958,
+        "word": "丫丫仍继续乞食",
+        "onboard_time": 1677499469,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421442,
+        "num": 421442,
+        "word": "老友记莫妮卡扮演者好莱坞留星",
+        "onboard_time": 1677552088,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 410094,
+        "num": 410094,
+        "word": "3月壁纸",
+        "onboard_time": 1677549508,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 408046,
+        "num": 408046,
+        "word": "成都警方通报越野车追撞轿车",
+        "onboard_time": 1677550947,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 373604,
+        "num": 373604,
+        "word": "今年的甲流要比常年猛一些吗",
+        "onboard_time": 1677547288,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367246,
+        "num": 367246,
+        "word": "超90%的成人体内有水痘带状疱疹病毒",
+        "onboard_time": 1677542846,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335872,
+        "num": 335872,
+        "word": "女子河边跑步被老头骚扰",
+        "onboard_time": 1677548667,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325752,
+        "num": 325752,
+        "word": "带状疱疹要在黄金时间3天内就诊",
+        "onboard_time": 1677551546,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310036,
+        "num": 310036,
+        "word": "C罗无缘FIFA年度最佳阵容",
+        "onboard_time": 1677547768,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298610,
+        "num": 298610,
+        "word": "Angelababy待播剧生日海报",
+        "onboard_time": 1677551546,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 293612,
+        "num": 293612,
+        "word": "苏小玎已经不会高启盛舞步了",
+        "onboard_time": 1677513509,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277536,
+        "num": 277536,
+        "word": "刘亦菲新造型好辣",
+        "onboard_time": 1677508952,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274801,
+        "num": 274801,
+        "word": "李佳琦直播预告",
+        "onboard_time": 1677552328,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 274001,
+        "num": 274001,
+        "word": "苹果将于明年推出自研5G基带芯片",
+        "onboard_time": 1677548487,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 246436,
+        "num": 246436,
+        "word": "疱疹病毒一旦感染终身携带",
+        "onboard_time": 1677552629,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236872,
+        "num": 236872,
+        "word": "詹姆斯因伤缺席迎战灰熊",
+        "onboard_time": 1677551967,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221436,
+        "num": 221436,
+        "word": "HYBE新男团将5月出道",
+        "onboard_time": 1677549266,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205281,
+        "num": 205281,
+        "word": "配眼镜前看到这些是我的福气",
+        "onboard_time": 1677541945,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200151,
+        "num": 200151,
+        "word": "此轮甲流为何这么严重",
+        "onboard_time": 1677552687,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191443,
+        "num": 191443,
+        "word": "被山东一张海鲜面价格单馋哭了",
+        "onboard_time": 1677515063,
+        "rank": 31,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 191065,
+        "num": 191065,
+        "word": "手机沉迷催生乡村新问题少年",
+        "onboard_time": 1677545970,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167219,
+        "num": 167219,
+        "word": "特殊的一顿饭",
+        "onboard_time": 1677553108,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 162458,
+        "num": 162458,
+        "word": "2022年国民总收入超119万亿元",
+        "onboard_time": 1677549266,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 153995,
+        "num": 153995,
+        "word": "甲流患者不宜自行服用奥司他韦",
+        "onboard_time": 1677512488,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147808,
+        "num": 147808,
+        "word": "夏花今晚大结局",
+        "onboard_time": 1677548369,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135522,
+        "num": 135522,
+        "word": "全球最大苹果硬件收藏之一将拍卖",
+        "onboard_time": 1677551188,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 133691,
+        "num": 133691,
+        "word": "梅西当选FIFA年度最佳球员",
+        "onboard_time": 1677539239,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130550,
+        "num": 130550,
+        "word": "医生称甲流也会引起白肺",
+        "onboard_time": 1677511349,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129528,
+        "num": 129528,
+        "word": "我国两种甲流亚型同时传播",
+        "onboard_time": 1677511349,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128919,
+        "num": 128919,
+        "word": "茶颜悦色回应满杯奶茶放久了变半杯",
+        "onboard_time": 1677501029,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 124647,
+        "num": 124647,
+        "word": "建议常见病不要去三级医院",
+        "onboard_time": 1677507752,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105249,
+        "num": 105249,
+        "word": "名侦探柯南cp端水大师",
+        "onboard_time": 1677508053,
+        "rank": 43,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 102224,
+        "num": 102224,
+        "word": "超20省市执行公积金付首付新政",
+        "onboard_time": 1677552871,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 102095,
+        "num": 102095,
+        "word": "周杰伦 抢票",
+        "onboard_time": 1677493890,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99240,
+        "num": 99240,
+        "word": "北方多地将快进式升温",
+        "onboard_time": 1677547888,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97075,
+        "num": 97075,
+        "word": "黑灯用脱口秀的方式讲述罕见病",
+        "onboard_time": 1677549687,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89742,
+        "num": 89742,
+        "word": "原来微博可以杜比的",
+        "onboard_time": 1677551126,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 79180,
+        "num": 79180,
+        "word": "个税起征点是否应提高",
+        "onboard_time": 1677513926,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#看中国式现代化图景#"
+    }
+  }
+}

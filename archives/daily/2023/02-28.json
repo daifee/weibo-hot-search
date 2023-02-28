@@ -1,6 +1,6 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677552631358,
+  "endTime": 1677553232247,
   "band_list": [
     {
       "raw_hot": 2364822,
@@ -35,8 +35,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1657373,
-      "num": 1657373,
+      "raw_hot": 1720543,
+      "num": 1720543,
       "word": "明起香港口罩令全面取消",
       "onboard_time": 1677549628,
       "rank": 30,
@@ -83,12 +83,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 995836,
+      "num": 995836,
+      "word": "2022年中国出生人口956万人",
+      "onboard_time": 1677551188,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 960805,
       "num": 960805,
       "word": "超90%的成人体内有水痘带状疱疹病毒",
       "onboard_time": 1677542846,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 897418,
+      "num": 897418,
+      "word": "张译狂飙热播后首露面",
+      "onboard_time": 1677552027,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 868324,
@@ -105,6 +121,14 @@
       "onboard_time": 1677545190,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 851980,
+      "num": 851980,
+      "word": "微博之夜嘉宾",
+      "onboard_time": 1677551848,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 829024,
@@ -147,14 +171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 722624,
-      "num": 722624,
-      "word": "2022年中国出生人口956万人",
-      "onboard_time": 1677551188,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 579454,
       "num": 579454,
       "word": "建议常见病不要去三级医院",
@@ -171,16 +187,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 518159,
-      "num": 518159,
-      "word": "微博之夜嘉宾",
-      "onboard_time": 1677551848,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 502367,
-      "num": 502367,
+      "raw_hot": 508796,
+      "num": 508796,
       "word": "苹果iPhone等设备全系电池将涨价",
       "onboard_time": 1677548848,
       "rank": 17,
@@ -219,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 434789,
-      "num": 434789,
-      "word": "张译狂飙热播后首露面",
-      "onboard_time": 1677552027,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 429195,
       "num": 429195,
       "word": "男孩爱吃水饺家长包了33天直接崩溃",
@@ -243,12 +243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421442,
+      "num": 421442,
+      "word": "老友记莫妮卡扮演者好莱坞留星",
+      "onboard_time": 1677552088,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 412342,
       "num": 412342,
       "word": "3月壁纸",
       "onboard_time": 1677549508,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 408046,
+      "num": 408046,
+      "word": "成都警方通报越野车追撞轿车",
+      "onboard_time": 1677550947,
+      "rank": 19,
+      "category": "社会负面"
     },
     {
       "raw_hot": 395805,
@@ -299,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 346418,
-      "num": 346418,
-      "word": "成都警方通报越野车追撞轿车",
-      "onboard_time": 1677550947,
-      "rank": 19,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 335168,
       "num": 335168,
       "word": "0室0厅1卫房间一晚60元能住吗",
@@ -315,12 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314111,
-      "num": 314111,
-      "word": "老友记莫妮卡扮演者好莱坞留星",
-      "onboard_time": 1677552088,
-      "rank": 21,
-      "category": "影视"
+      "raw_hot": 325752,
+      "num": 325752,
+      "word": "带状疱疹要在黄金时间3天内就诊",
+      "onboard_time": 1677551546,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312312,
@@ -355,12 +363,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 282412,
-      "num": 282412,
-      "word": "带状疱疹要在黄金时间3天内就诊",
-      "onboard_time": 1677551546,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 274801,
+      "num": 274801,
+      "word": "李佳琦直播预告",
+      "onboard_time": 1677552328,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 255703,
@@ -369,6 +377,14 @@
       "onboard_time": 1677493890,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 246436,
+      "num": 246436,
+      "word": "疱疹病毒一旦感染终身携带",
+      "onboard_time": 1677552629,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242295,
@@ -385,6 +401,14 @@
       "onboard_time": 1677543207,
       "rank": 19,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 236872,
+      "num": 236872,
+      "word": "詹姆斯因伤缺席迎战灰熊",
+      "onboard_time": 1677551967,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 230981,
@@ -451,20 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205668,
-      "num": 205668,
-      "word": "李佳琦直播预告",
-      "onboard_time": 1677552328,
-      "rank": 28,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 202472,
-      "num": 202472,
-      "word": "詹姆斯因伤缺席迎战灰熊",
-      "onboard_time": 1677551967,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 200151,
+      "num": 200151,
+      "word": "此轮甲流为何这么严重",
+      "onboard_time": 1677552687,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199781,
@@ -529,6 +545,14 @@
       "onboard_time": 1677499110,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167219,
+      "num": 167219,
+      "word": "特殊的一顿饭",
+      "onboard_time": 1677553108,
+      "rank": 33,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 166782,
@@ -713,6 +737,14 @@
       "onboard_time": 1677517697,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102224,
+      "num": 102224,
+      "word": "超20省市执行公积金付首付新政",
+      "onboard_time": 1677552871,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 101098,
