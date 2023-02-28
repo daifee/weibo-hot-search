@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677622727360,
+  "endTime": 1677623760379,
   "band_list": [
     {
       "raw_hot": 2029268,
@@ -315,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135714,
+      "num": 120880,
+      "word": "建议给3岁以下婴幼儿家庭发育儿补贴",
+      "onboard_time": 1677614711,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 135295,
       "num": 135295,
       "word": "建议把抑郁症治疗纳入医保",
@@ -379,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101965,
-      "num": 79849,
-      "word": "建议给3岁以下婴幼儿家庭发育儿补贴",
-      "onboard_time": 1677614711,
-      "rank": 12,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 101231,
       "num": 101231,
       "word": "夏花",
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70772,
+      "num": 61769,
+      "word": "重组家庭男孩凌晨独行好心人送回家",
+      "onboard_time": 1677613991,
+      "rank": 30,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 60091,
       "num": 60091,
       "word": "张峻豪说提前透露一些创意",
@@ -443,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49231,
-      "num": 45893,
-      "word": "重组家庭男孩凌晨独行好心人送回家",
-      "onboard_time": 1677613991,
-      "rank": 30,
-      "category": "社会正能量"
+      "raw_hot": 43373,
+      "num": 43373,
+      "word": "毛宁称美国未免太不自信",
+      "onboard_time": 1677580710,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 41813,
@@ -457,14 +465,6 @@
       "onboard_time": 1677604457,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 35938,
-      "num": 35938,
-      "word": "毛宁称美国未免太不自信",
-      "onboard_time": 1677580710,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 33058,
@@ -497,6 +497,14 @@
       "onboard_time": 1677612252,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21826,
+      "num": 27770,
+      "word": "辽宁一轿车被大货车追尾压扁",
+      "onboard_time": 1677623715,
+      "rank": 49,
+      "category": "社会负面"
     }
   ],
   "hotgov_list": [
