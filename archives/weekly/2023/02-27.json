@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677601651826,
+  "endTime": 1677602754043,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1055363,
+      "num": 1055363,
+      "word": "晚十点是最佳入睡时段",
+      "onboard_time": 1677599491,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1055306,
       "num": 1055306,
       "word": "年轻人为什么不愿意拼凑长假",
@@ -896,14 +904,6 @@
       "word": "00后男生筋膜枪按摩眼睛致白内障",
       "onboard_time": 1677571829,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 759602,
-      "num": 759602,
-      "word": "晚十点是最佳入睡时段",
-      "onboard_time": 1677599491,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -2427,6 +2427,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 305776,
+      "num": 305776,
+      "word": "等一个言承旭徐若晗二搭",
+      "onboard_time": 1677599667,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305502,
       "num": 305502,
       "word": "萧寒得知何冉病情真相",
@@ -2776,14 +2784,6 @@
       "word": "徐志胜安利女士的品格",
       "onboard_time": 1677596863,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 251874,
-      "num": 251874,
-      "word": "等一个言承旭徐若晗二搭",
-      "onboard_time": 1677599667,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -3457,6 +3457,14 @@
       "onboard_time": 1677601644,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191643,
+      "num": 191643,
+      "word": "一条plog告别二月",
+      "onboard_time": 1677513087,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 191566,
@@ -4483,6 +4491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91973,
+      "num": 91973,
+      "word": "周刊君带你看两会",
+      "onboard_time": 1677602061,
+      "rank": 44,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 91523,
       "num": 91523,
       "word": "谢可寅南京livehouse舞台",
@@ -4673,14 +4689,6 @@
       "onboard_time": 1677495632,
       "rank": 14,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 32983,
-      "num": 32983,
-      "word": "一条plog告别二月",
-      "onboard_time": 1677513087,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 30251,

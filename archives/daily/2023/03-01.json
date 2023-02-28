@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677601651826,
+  "endTime": 1677602754043,
   "band_list": [
     {
       "raw_hot": 2029268,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1055363,
+      "num": 1055363,
+      "word": "晚十点是最佳入睡时段",
+      "onboard_time": 1677599491,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 837838,
       "num": 837838,
       "word": "丫丫食欲良好即将回国",
@@ -49,14 +57,6 @@
       "onboard_time": 1677588088,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 759602,
-      "num": 759602,
-      "word": "晚十点是最佳入睡时段",
-      "onboard_time": 1677599491,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 682271,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305776,
+      "num": 305776,
+      "word": "等一个言承旭徐若晗二搭",
+      "onboard_time": 1677599667,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297059,
       "num": 297059,
       "word": "你是补税还是退税",
@@ -153,14 +161,6 @@
       "onboard_time": 1677594333,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 251874,
-      "num": 251874,
-      "word": "等一个言承旭徐若晗二搭",
-      "onboard_time": 1677599667,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 229691,
@@ -209,6 +209,14 @@
       "onboard_time": 1677601644,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191643,
+      "num": 191643,
+      "word": "一条plog告别二月",
+      "onboard_time": 1677601823,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 177242,
@@ -361,6 +369,14 @@
       "onboard_time": 1677580231,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 91973,
+      "num": 91973,
+      "word": "周刊君带你看两会",
+      "onboard_time": 1677602061,
+      "rank": 44,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 89658,
