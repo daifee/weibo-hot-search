@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677620033710,
+  "endTime": 1677622727360,
   "band_list": [
     {
       "raw_hot": 2029268,
@@ -379,20 +379,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101965,
+      "num": 79849,
+      "word": "建议给3岁以下婴幼儿家庭发育儿补贴",
+      "onboard_time": 1677614711,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 101231,
       "num": 101231,
       "word": "夏花",
       "onboard_time": 1677580231,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 93219,
-      "num": 47587,
-      "word": "建议给3岁以下婴幼儿家庭发育儿补贴",
-      "onboard_time": 1677614711,
-      "rank": 12,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 91973,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49231,
+      "num": 45893,
+      "word": "重组家庭男孩凌晨独行好心人送回家",
+      "onboard_time": 1677613991,
+      "rank": 30,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 41813,
       "num": 41813,
       "word": "这楼梯怎么还会捉迷藏呢",
@@ -451,12 +459,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 41776,
-      "num": 22694,
-      "word": "重组家庭男孩凌晨独行好心人送回家",
-      "onboard_time": 1677613991,
-      "rank": 30,
-      "category": "社会正能量"
+      "raw_hot": 35938,
+      "num": 35938,
+      "word": "毛宁称美国未免太不自信",
+      "onboard_time": 1677580710,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 33058,
@@ -481,14 +489,6 @@
       "onboard_time": 1677597637,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29295,
-      "num": 29295,
-      "word": "毛宁称美国未免太不自信",
-      "onboard_time": 1677580710,
-      "rank": 48,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 23007,
