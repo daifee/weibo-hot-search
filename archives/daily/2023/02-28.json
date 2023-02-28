@@ -1,6 +1,6 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677582991016,
+  "endTime": 1677584040982,
   "band_list": [
     {
       "raw_hot": 8538395,
@@ -243,6 +243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 985794,
+      "num": 985794,
+      "word": "虞书欣方发严正声明维权",
+      "onboard_time": 1677581551,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 960805,
       "num": 960805,
       "word": "超90%的成人体内有水痘带状疱疹病毒",
@@ -257,14 +265,6 @@
       "onboard_time": 1677572909,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 913856,
-      "num": 913856,
-      "word": "虞书欣方发严正声明维权",
-      "onboard_time": 1677581551,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 891850,
@@ -387,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 685496,
+      "num": 476940,
+      "word": "毛宁称美国未免太不自信",
+      "onboard_time": 1677580710,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 676298,
       "num": 676298,
       "word": "郑州将降低小学入学年龄",
@@ -475,20 +483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561351,
+      "num": 561351,
+      "word": "教育局回应学校要求学生必须缴医保",
+      "onboard_time": 1677578610,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 555018,
       "num": 521240,
       "word": "女子河边跑步被老头骚扰",
       "onboard_time": 1677548667,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548122,
-      "num": 548122,
-      "word": "教育局回应学校要求学生必须缴医保",
-      "onboard_time": 1677578610,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 545287,
@@ -715,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418344,
-      "num": 418344,
-      "word": "毛宁称美国未免太不自信",
-      "onboard_time": 1677580710,
-      "rank": 49,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 416729,
       "num": 416729,
       "word": "欢乐颂4已过审下证",
@@ -761,6 +761,14 @@
       "onboard_time": 1677572309,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401848,
+      "num": 401848,
+      "word": "井柏然李荣浩逛街",
+      "onboard_time": 1677581609,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 395805,
@@ -937,14 +945,6 @@
       "onboard_time": 1677513926,
       "rank": 16,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 305187,
-      "num": 238118,
-      "word": "井柏然李荣浩逛街",
-      "onboard_time": 1677581609,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 300209,
@@ -1147,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231823,
+      "num": 231823,
+      "word": "许允真中村一叶发丝跳舞饭拍图",
+      "onboard_time": 1677583770,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230981,
       "num": 230981,
       "word": "全网都在关注丫丫回国时间",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1677575251,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206686,
+      "num": 206686,
+      "word": "Hero少年眼镜氛围大片",
+      "onboard_time": 1677583231,
+      "rank": 34,
+      "category": "游戏,时尚"
     },
     {
       "raw_hot": 206597,
@@ -1347,12 +1363,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 186080,
+      "num": 186080,
+      "word": "快乐再出发收官演唱会预告",
+      "onboard_time": 1677582809,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185444,
       "num": 185444,
       "word": "马斯克或开发ChatGPT替代品",
       "onboard_time": 1677546689,
       "rank": 25,
       "category": "科技"
+    },
+    {
+      "raw_hot": 185094,
+      "num": 185094,
+      "word": "微博年度剧集",
+      "onboard_time": 1677584007,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 182336,
@@ -1537,14 +1569,6 @@
       "onboard_time": 1677540021,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 143473,
-      "num": 143473,
-      "word": "快乐再出发收官演唱会预告",
-      "onboard_time": 1677582809,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 141083,
@@ -1905,6 +1929,14 @@
       "onboard_time": 1677513087,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 21066,
+      "num": 131984,
+      "word": "买辆轻越野换种活法",
+      "onboard_time": 1677583231,
+      "rank": 47,
+      "category": "科技"
     }
   ],
   "hotgov_list": [

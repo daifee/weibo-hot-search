@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677582991016,
+  "endTime": 1677584040982,
   "band_list": [
     {
       "raw_hot": 8538395,
@@ -539,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 985794,
+      "num": 985794,
+      "word": "虞书欣方发严正声明维权",
+      "onboard_time": 1677581551,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 984119,
       "num": 210001,
       "word": "93年女子已是6个娃的妈妈",
@@ -593,14 +601,6 @@
       "onboard_time": 1677488371,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 913856,
-      "num": 913856,
-      "word": "虞书欣方发严正声明维权",
-      "onboard_time": 1677581551,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 905788,
@@ -859,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 685496,
+      "num": 476940,
+      "word": "毛宁称美国未免太不自信",
+      "onboard_time": 1677580710,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 679752,
       "num": 603378,
       "word": "普京说世界必须改变",
@@ -1091,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561351,
+      "num": 561351,
+      "word": "教育局回应学校要求学生必须缴医保",
+      "onboard_time": 1677578610,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 556328,
       "num": 556328,
       "word": "光与夜之恋",
@@ -1113,14 +1129,6 @@
       "onboard_time": 1677496891,
       "rank": 26,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 548122,
-      "num": 548122,
-      "word": "教育局回应学校要求学生必须缴医保",
-      "onboard_time": 1677578610,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 545287,
@@ -1563,14 +1571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 418344,
-      "num": 418344,
-      "word": "毛宁称美国未免太不自信",
-      "onboard_time": 1677580710,
-      "rank": 49,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 417496,
       "num": 417496,
       "word": "84岁老汉回应花万元为自己办葬礼",
@@ -1648,6 +1648,14 @@
       "word": "宋亚轩张真源一起上学",
       "onboard_time": 1677464548,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 401848,
+      "num": 401848,
+      "word": "井柏然李荣浩逛街",
+      "onboard_time": 1677581609,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -2147,14 +2155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 305187,
-      "num": 238118,
-      "word": "井柏然李荣浩逛街",
-      "onboard_time": 1677581609,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304958,
       "num": 304958,
       "word": "杨芸晴泰国第一份工作vlog",
@@ -2515,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231823,
+      "num": 231823,
+      "word": "许允真中村一叶发丝跳舞饭拍图",
+      "onboard_time": 1677583770,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227213,
       "num": 227213,
       "word": "怎样知道一家店好不好吃",
@@ -2769,6 +2777,14 @@
       "onboard_time": 1677575251,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206686,
+      "num": 206686,
+      "word": "Hero少年眼镜氛围大片",
+      "onboard_time": 1677583231,
+      "rank": 34,
+      "category": "游戏,时尚"
     },
     {
       "raw_hot": 206597,
@@ -3107,12 +3123,28 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 186080,
+      "num": 186080,
+      "word": "快乐再出发收官演唱会预告",
+      "onboard_time": 1677582809,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185444,
       "num": 185444,
       "word": "马斯克或开发ChatGPT替代品",
       "onboard_time": 1677546689,
       "rank": 25,
       "category": "科技"
+    },
+    {
+      "raw_hot": 185094,
+      "num": 185094,
+      "word": "微博年度剧集",
+      "onboard_time": 1677584007,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 184927,
@@ -3465,14 +3497,6 @@
       "onboard_time": 1677540021,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 143473,
-      "num": 143473,
-      "word": "快乐再出发收官演唱会预告",
-      "onboard_time": 1677582809,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 142456,
@@ -4209,6 +4233,14 @@
       "onboard_time": 1677423513,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 21066,
+      "num": 131984,
+      "word": "买辆轻越野换种活法",
+      "onboard_time": 1677583231,
+      "rank": 47,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
