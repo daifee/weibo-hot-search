@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677598582174,
+  "endTime": 1677601651826,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -121,6 +121,14 @@
       "onboard_time": 1677545791,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2029268,
+      "num": 2029268,
+      "word": "新疆男篮退出CBA",
+      "onboard_time": 1677599789,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2009874,
@@ -859,6 +867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 802266,
+      "num": 802266,
+      "word": "罪犯子女考公限制应该消除吗",
+      "onboard_time": 1677595534,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 794631,
       "num": 794631,
       "word": "苏小玎已经不会高启盛舞步了",
@@ -880,6 +896,14 @@
       "word": "00后男生筋膜枪按摩眼睛致白内障",
       "onboard_time": 1677571829,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 759602,
+      "num": 759602,
+      "word": "晚十点是最佳入睡时段",
+      "onboard_time": 1677599491,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -977,6 +1001,14 @@
       "onboard_time": 1677580710,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 682271,
+      "num": 682271,
+      "word": "特斯拉潮州事故鉴定结果已出",
+      "onboard_time": 1677597458,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 679752,
@@ -1195,14 +1227,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 573507,
-      "num": 573507,
-      "word": "罪犯子女考公限制应该消除吗",
-      "onboard_time": 1677595534,
-      "rank": 20,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 568107,
       "num": 376452,
       "word": "蔡天凤前夫父亲的情妇被捕",
@@ -1403,6 +1427,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 507987,
+      "num": 507987,
+      "word": "那些曾经霸榜的小说",
+      "onboard_time": 1677596983,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 506734,
       "num": 506734,
       "word": "鹿晗脸上有将字",
@@ -1459,14 +1491,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 492578,
-      "num": 492578,
-      "word": "特斯拉潮州事故鉴定结果已出",
-      "onboard_time": 1677597458,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491810,
       "num": 491810,
       "word": "毛不易演唱会门票",
@@ -1505,14 +1529,6 @@
       "onboard_time": 1677584370,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 484280,
-      "num": 484280,
-      "word": "那些曾经霸榜的小说",
-      "onboard_time": 1677596983,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 484024,
@@ -2187,6 +2203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340751,
+      "num": 340751,
+      "word": "代表建议延长春节法定假期",
+      "onboard_time": 1677598893,
+      "rank": 15,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 340529,
       "num": 340529,
       "word": "李宏毅直播",
@@ -2755,6 +2779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251874,
+      "num": 251874,
+      "word": "等一个言承旭徐若晗二搭",
+      "onboard_time": 1677599667,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250216,
       "num": 250216,
       "word": "许允真中村一叶发丝跳舞饭拍图",
@@ -3187,6 +3219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202587,
+      "num": 202587,
+      "word": "三月你好",
+      "onboard_time": 1677601405,
+      "rank": 24,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 201986,
       "num": 201986,
       "word": "NBA",
@@ -3409,6 +3449,14 @@
       "onboard_time": 1677426390,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191700,
+      "num": 191700,
+      "word": "刘雨昕巴黎vlog",
+      "onboard_time": 1677601644,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 191566,
@@ -4193,6 +4241,14 @@
       "onboard_time": 1677414689,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113928,
+      "num": 113928,
+      "word": "半熟恋人修罗场",
+      "onboard_time": 1677601105,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 113648,
