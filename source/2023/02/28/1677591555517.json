@@ -1,0 +1,410 @@
+{
+  "runTime": 1677591555517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2585295,
+        "num": 2585295,
+        "word": "白夜追凶2",
+        "onboard_time": 1677588088,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1829278,
+        "num": 1829278,
+        "word": "黄婷婷回应",
+        "onboard_time": 1677589471,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80012,
+        "num": 1362921,
+        "word": "加油中国人",
+        "onboard_time": 1677571289,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996538,
+        "num": 996538,
+        "word": "建议生育登记取消结婚限制",
+        "onboard_time": 1677589650,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 957807,
+        "num": 957807,
+        "word": "明天起个税将再次多退少补",
+        "onboard_time": 1677588749,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 927765,
+        "num": 927765,
+        "word": "余生请多指教",
+        "onboard_time": 1677586590,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 870119,
+        "num": 870119,
+        "word": "女子因烤苕皮太难吃送回给老板",
+        "onboard_time": 1677574592,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783536,
+        "num": 783536,
+        "word": "黑崎真音去世",
+        "onboard_time": 1677586290,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 722622,
+        "num": 722622,
+        "word": "建议消除对罪犯子女考公的限制",
+        "onboard_time": 1677572070,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703321,
+        "num": 703321,
+        "word": "香奈儿回应2万包包15分钟断了",
+        "onboard_time": 1677573270,
+        "rank": 9,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 800295,
+        "num": 692015,
+        "word": "王源胡子",
+        "onboard_time": 1677587671,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 586590,
+        "num": 586590,
+        "word": "吴秀波儿子 家暴",
+        "onboard_time": 1677560434,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 576811,
+        "num": 576811,
+        "word": "朴敏赫退队",
+        "onboard_time": 1677590071,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557618,
+        "num": 557618,
+        "word": "虞书欣方发严正声明维权",
+        "onboard_time": 1677581551,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465910,
+        "num": 465910,
+        "word": "赵露思工作室发严正声明",
+        "onboard_time": 1677570329,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414808,
+        "num": 414808,
+        "word": "丁真和邓亚萍一起走红毯",
+        "onboard_time": 1677589831,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 340721,
+        "num": 340721,
+        "word": "庞博说太太给了他很多能量",
+        "onboard_time": 1677585270,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338208,
+        "num": 338208,
+        "word": "丫丫食欲良好即将回国",
+        "onboard_time": 1677590911,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322280,
+        "num": 322280,
+        "word": "山姆超市买到一天后上市的鸡爪",
+        "onboard_time": 1677572909,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298650,
+        "num": 298650,
+        "word": "毛宁称美国未免太不自信",
+        "onboard_time": 1677580710,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 320123,
+        "num": 297459,
+        "word": "女子路边买2碗麻辣烫花费175元",
+        "onboard_time": 1677574772,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310336,
+        "num": 293575,
+        "word": "夏花 OE",
+        "onboard_time": 1677584370,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288794,
+        "num": 288794,
+        "word": "微博之夜官宣",
+        "onboard_time": 1677569728,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286128,
+        "num": 286128,
+        "word": "旅美大熊猫丫丫要回来了",
+        "onboard_time": 1677565587,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250704,
+        "num": 274827,
+        "word": "建议把抑郁症治疗纳入医保",
+        "onboard_time": 1677585690,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268153,
+        "num": 268153,
+        "word": "周杰伦天津演唱会票价",
+        "onboard_time": 1677572791,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261796,
+        "num": 261796,
+        "word": "夏花大结局",
+        "onboard_time": 1677579266,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252120,
+        "num": 252120,
+        "word": "没有情救妻破产",
+        "onboard_time": 1677590852,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241112,
+        "num": 241112,
+        "word": "教育局回应学校要求学生必须缴医保",
+        "onboard_time": 1677578610,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 206613,
+        "num": 206613,
+        "word": "AL战胜RNG",
+        "onboard_time": 1677585510,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247475,
+        "num": 206331,
+        "word": "井柏然李荣浩逛街",
+        "onboard_time": 1677581609,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244310,
+        "num": 206165,
+        "word": "饕餮记官博声明",
+        "onboard_time": 1677587129,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239037,
+        "num": 205717,
+        "word": "章子怡晒巴黎时装周随拍",
+        "onboard_time": 1677590731,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204991,
+        "num": 204991,
+        "word": "党和国家机构改革",
+        "onboard_time": 1677576929,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 202482,
+        "num": 202482,
+        "word": "14岁男孩网上自学偷开70公里后撞车",
+        "onboard_time": 1677577289,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220635,
+        "num": 199249,
+        "word": "黄景瑜万茜电影大爆炸开机路透",
+        "onboard_time": 1677588328,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208063,
+        "num": 192320,
+        "word": "星落凝成糖登顶猫眼剧集热度榜",
+        "onboard_time": 1677589110,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180218,
+        "num": 180218,
+        "word": "俄罗斯暂时关闭圣彼得堡机场",
+        "onboard_time": 1677573450,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 166844,
+        "num": 166844,
+        "word": "教资面试",
+        "onboard_time": 1677564029,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166756,
+        "num": 166756,
+        "word": "00后男生筋膜枪按摩眼睛致白内障",
+        "onboard_time": 1677571829,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193292,
+        "num": 166617,
+        "word": "微博KING和QUEEN",
+        "onboard_time": 1677572369,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192833,
+        "num": 166455,
+        "word": "星落凝成糖",
+        "onboard_time": 1677591451,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188721,
+        "num": 166347,
+        "word": "李宏毅直播",
+        "onboard_time": 1677591451,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169352,
+        "num": 166109,
+        "word": "田柾国注销ins",
+        "onboard_time": 1677569667,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166061,
+        "num": 166061,
+        "word": "山姆回应顾客买到1天后上市的鸡爪",
+        "onboard_time": 1677591033,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159418,
+        "num": 159418,
+        "word": "邓超分不清小花得了什么奖",
+        "onboard_time": 1677570572,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155092,
+        "num": 155092,
+        "word": "90后女孩奋斗14年从服务员到博士生",
+        "onboard_time": 1677591150,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 152090,
+        "num": 152090,
+        "word": "把孩子养到18岁平均成本近50万",
+        "onboard_time": 1677569188,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 145446,
+        "num": 145446,
+        "word": "RNG对战AL",
+        "onboard_time": 1677582630,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137255,
+        "num": 137255,
+        "word": "王者新亲密关系称谓",
+        "onboard_time": 1677577833,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#看中国式现代化图景#"
+    }
+  }
+}
