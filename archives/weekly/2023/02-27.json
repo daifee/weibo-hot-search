@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677612814253,
+  "endTime": 1677615657878,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -4707,12 +4707,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 38108,
+      "num": 38108,
+      "word": "建议给3岁以下婴幼儿家庭发育儿补贴",
+      "onboard_time": 1677614711,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 35634,
       "num": 159650,
       "word": "顶尖科学家为饿了么出题",
       "onboard_time": 1677484827,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34557,
+      "num": 22694,
+      "word": "重组家庭男孩凌晨独行好心人送回家",
+      "onboard_time": 1677613991,
+      "rank": 30,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 33133,
@@ -4739,6 +4755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 23007,
+      "num": 23007,
+      "word": "莫言获中国慈善家年度人物",
+      "onboard_time": 1677612252,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21307,
       "num": 27170,
       "word": "TTG连追三局获胜",
@@ -4753,14 +4777,6 @@
       "onboard_time": 1677583231,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 19047,
-      "num": 19047,
-      "word": "莫言获中国慈善家年度人物",
-      "onboard_time": 1677612252,
-      "rank": 37,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
