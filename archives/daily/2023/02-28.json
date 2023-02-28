@@ -1,6 +1,6 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677569629234,
+  "endTime": 1677572751846,
   "band_list": [
     {
       "raw_hot": 8538395,
@@ -9,6 +9,14 @@
       "onboard_time": 1677560434,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2721001,
+      "num": 2721001,
+      "word": "赵露思工作室发严正声明",
+      "onboard_time": 1677570329,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2364822,
@@ -83,12 +91,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1310313,
+      "num": 536838,
+      "word": "田柾国注销ins",
+      "onboard_time": 1677569667,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1307217,
       "num": 1001430,
       "word": "山东养的大熊猫相当炸裂",
       "onboard_time": 1677563489,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1302655,
+      "num": 1302655,
+      "word": "邓超分不清小花得了什么奖",
+      "onboard_time": 1677570572,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1236424,
@@ -163,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1012837,
+      "num": 1012837,
+      "word": "微博King和QUEEN",
+      "onboard_time": 1677572369,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 993531,
       "num": 993531,
       "word": "高叶曾出演鹿晗勋章的MV",
@@ -203,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 854838,
+      "num": 854838,
+      "word": "微博之夜官宣",
+      "onboard_time": 1677569728,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 829024,
       "num": 829024,
       "word": "厉以宁逝世",
@@ -217,6 +257,14 @@
       "onboard_time": 1677555208,
       "rank": 29,
       "category": "财经,影视"
+    },
+    {
+      "raw_hot": 811765,
+      "num": 811765,
+      "word": "把孩子养到18岁平均成本近50万",
+      "onboard_time": 1677569188,
+      "rank": 27,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 794631,
@@ -241,6 +289,14 @@
       "onboard_time": 1677532392,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 732760,
+      "num": 732760,
+      "word": "957直播爆料",
+      "onboard_time": 1677571172,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 723061,
@@ -323,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544649,
+      "num": 544649,
+      "word": "20多位中科院专家把芯片价格打到10块",
+      "onboard_time": 1677568348,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 537523,
       "num": 537523,
       "word": "梅西第一票投给内马尔",
@@ -337,6 +401,14 @@
       "onboard_time": 1677552687,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527328,
+      "num": 527328,
+      "word": "原来打包的面可以这样吃",
+      "onboard_time": 1677568648,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 523261,
@@ -499,12 +571,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 426121,
+      "num": 426121,
+      "word": "建议消除对罪犯子女考公的限制",
+      "onboard_time": 1677572070,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423543,
       "num": 423543,
       "word": "医生称甲流也会引起白肺",
       "onboard_time": 1677511349,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416729,
+      "num": 416729,
+      "word": "欢乐颂4已过审下证",
+      "onboard_time": 1677571528,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 412342,
@@ -561,6 +649,14 @@
       "onboard_time": 1677560794,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 383917,
+      "num": 383917,
+      "word": "00后男生筋膜枪按摩眼睛致白内障",
+      "onboard_time": 1677571829,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369458,
@@ -643,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 323014,
-      "num": 323014,
-      "word": "原来打包的面可以这样吃",
-      "onboard_time": 1677568648,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 312656,
       "num": 312656,
       "word": "华晨宇2023年演唱会官宣",
@@ -665,14 +753,6 @@
       "onboard_time": 1677513926,
       "rank": 16,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 307754,
-      "num": 307754,
-      "word": "20多位中科院专家把芯片价格打到10块",
-      "onboard_time": 1677568348,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 296059,
@@ -731,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285795,
+      "num": 285795,
+      "word": "郭帆称流浪地球3还会找徐工",
+      "onboard_time": 1677571709,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 281430,
       "num": 281430,
       "word": "害怕吃东西变不聪明的小朋友",
@@ -769,6 +857,14 @@
       "onboard_time": 1677565648,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 254873,
+      "num": 254873,
+      "word": "杨颖晒剧组过生日合照",
+      "onboard_time": 1677570148,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 249510,
@@ -835,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228272,
-      "num": 228272,
-      "word": "把孩子养到18岁平均成本近50万",
-      "onboard_time": 1677569188,
-      "rank": 27,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 226753,
       "num": 226753,
       "word": "华晨宇说音乐不应该停留在舒适圈",
@@ -873,6 +961,14 @@
       "onboard_time": 1677542908,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219029,
+      "num": 219029,
+      "word": "巴黎时装周",
+      "onboard_time": 1677571289,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216682,
@@ -931,12 +1027,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200146,
+      "num": 200146,
+      "word": "外国要租借大熊猫有多难",
+      "onboard_time": 1677572309,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199781,
       "num": 199781,
       "word": "2月最后一天",
       "onboard_time": 1677539601,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196372,
+      "num": 196372,
+      "word": "怪化猫剧场版延期",
+      "onboard_time": 1677572728,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 195462,
@@ -985,6 +1097,22 @@
       "onboard_time": 1677546689,
       "rank": 25,
       "category": "科技"
+    },
+    {
+      "raw_hot": 182336,
+      "num": 182336,
+      "word": "于正今年要上三部剧",
+      "onboard_time": 1677569969,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 178732,
+      "num": 178732,
+      "word": "如果狂飙里死的是高启强",
+      "onboard_time": 1677572728,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 177958,
@@ -1187,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115341,
+      "num": 115341,
+      "word": "孙俪织袖子花絮",
+      "onboard_time": 1677569969,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 112775,
       "num": 112775,
       "word": "成都街头一越野车多次追撞轿车",
@@ -1256,6 +1392,14 @@
       "word": "董明珠辟谣与王自如恋情传闻",
       "onboard_time": 1677490109,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100271,
+      "num": 1378519,
+      "word": "加油中国人",
+      "onboard_time": 1677571289,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1428,6 +1572,9 @@
     },
     {
       "word": "#全国两会时光#"
+    },
+    {
+      "word": "#全国两会常用词#"
     }
   ]
 }
