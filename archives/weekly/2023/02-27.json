@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677549836496,
+  "endTime": 1677552631358,
   "band_list": [
     {
       "raw_hot": 4920735,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1820954,
-      "num": 951910,
+      "num": 1367267,
       "word": "父母没重视15岁儿子最终身高1米53",
       "onboard_time": 1677544831,
       "rank": 3,
@@ -153,6 +153,14 @@
       "onboard_time": 1677499890,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1657373,
+      "num": 1657373,
+      "word": "明起香港口罩令全面取消",
+      "onboard_time": 1677549628,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1631282,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 1216486,
-      "num": 913945,
+      "num": 982005,
       "word": "迪丽热巴双麻花辫造型拍摄路透",
       "onboard_time": 1677548187,
       "rank": 7,
@@ -595,6 +603,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 722624,
+      "num": 722624,
+      "word": "2022年中国出生人口956万人",
+      "onboard_time": 1677551188,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 707317,
       "num": 694050,
       "word": "朴秀荣ins晒自己晚宴座位",
@@ -771,6 +787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 555018,
+      "num": 521240,
+      "word": "女子河边跑步被老头骚扰",
+      "onboard_time": 1677548667,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551383,
       "num": 551383,
       "word": "游客误把野狼当狗下车拍照",
@@ -811,6 +835,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 518159,
+      "num": 518159,
+      "word": "微博之夜嘉宾",
+      "onboard_time": 1677551848,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 517013,
       "num": 517013,
       "word": "带状疱疹有时会被误认是皮炎",
@@ -835,14 +867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 506600,
-      "num": 490419,
-      "word": "女子河边跑步被老头骚扰",
-      "onboard_time": 1677548667,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 506088,
       "num": 506088,
       "word": "原来发疯真的有用",
@@ -865,6 +889,14 @@
       "onboard_time": 1677488071,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 502367,
+      "num": 502367,
+      "word": "苹果iPhone等设备全系电池将涨价",
+      "onboard_time": 1677548848,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 491810,
@@ -1019,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 434789,
+      "num": 434789,
+      "word": "张译狂飙热播后首露面",
+      "onboard_time": 1677552027,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429195,
       "num": 429195,
       "word": "男孩爱吃水饺家长包了33天直接崩溃",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1677453921,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412342,
+      "num": 412342,
+      "word": "3月壁纸",
+      "onboard_time": 1677549508,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 409920,
@@ -1243,6 +1291,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 350599,
+      "num": 350599,
+      "word": "Angelababy待播剧生日海报",
+      "onboard_time": 1677551546,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350560,
       "num": 350560,
       "word": "Jiejie喊话Scout",
@@ -1265,6 +1321,14 @@
       "onboard_time": 1677539538,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346418,
+      "num": 346418,
+      "word": "成都警方通报越野车追撞轿车",
+      "onboard_time": 1677550947,
+      "rank": 19,
+      "category": "社会负面"
     },
     {
       "raw_hot": 346403,
@@ -1427,6 +1491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 314111,
+      "num": 314111,
+      "word": "老友记莫妮卡扮演者好莱坞留星",
+      "onboard_time": 1677552088,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312312,
       "num": 312312,
       "word": "个税起征点是否应提高",
@@ -1547,6 +1619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 293823,
+      "num": 293823,
+      "word": "苹果将于明年推出自研5G基带芯片",
+      "onboard_time": 1677548487,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 293169,
       "num": 293169,
       "word": "特朗普称破坏北溪的不是俄罗斯",
@@ -1571,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282412,
+      "num": 282412,
+      "word": "带状疱疹要在黄金时间3天内就诊",
+      "onboard_time": 1677551546,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282101,
       "num": 192594,
       "word": "蔡徐坤的戒指好大",
@@ -1579,28 +1667,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 278590,
-      "num": 278590,
-      "word": "苹果iPhone等设备全系电池将涨价",
-      "onboard_time": 1677548848,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 276628,
       "num": 249680,
       "word": "27岁男子没穿鞋失踪40余天",
       "onboard_time": 1677466948,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273572,
-      "num": 273572,
-      "word": "苹果将于明年推出自研5G基带芯片",
-      "onboard_time": 1677548487,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 271585,
@@ -1617,14 +1689,6 @@
       "onboard_time": 1677474630,
       "rank": 35,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 268834,
-      "num": 268834,
-      "word": "3月壁纸",
-      "onboard_time": 1677549508,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 267041,
@@ -1696,14 +1760,6 @@
       "word": "2女子饭店吃饭将餐具放地上喂狗",
       "onboard_time": 1677466049,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227605,
-      "num": 169915,
-      "word": "明起香港口罩令全面取消",
-      "onboard_time": 1677549628,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1931,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205668,
+      "num": 205668,
+      "word": "李佳琦直播预告",
+      "onboard_time": 1677552328,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 205581,
       "num": 205581,
       "word": "企业给员工发房能留住人才吗",
@@ -1953,6 +2017,14 @@
       "onboard_time": 1677465387,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202472,
+      "num": 202472,
+      "word": "詹姆斯因伤缺席迎战灰熊",
+      "onboard_time": 1677551967,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 201986,
@@ -2331,6 +2403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157306,
+      "num": 157306,
+      "word": "夏花今晚大结局",
+      "onboard_time": 1677548369,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 157197,
       "num": 157197,
       "word": "厉以宁曾称中国需要大量的民营企业",
@@ -2443,20 +2523,20 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 147826,
+      "num": 147826,
+      "word": "全球最大苹果硬件收藏之一将拍卖",
+      "onboard_time": 1677551188,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 144739,
       "num": 144739,
       "word": "需要去看医生的呼噜声什么样",
       "onboard_time": 1677540021,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 144183,
-      "num": 144183,
-      "word": "夏花今晚大结局",
-      "onboard_time": 1677548369,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 142456,
@@ -2691,6 +2771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 112775,
+      "num": 112775,
+      "word": "成都街头一越野车多次追撞轿车",
+      "onboard_time": 1677551907,
+      "rank": 42,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 111843,
       "num": 111843,
       "word": "小熊猫美美",
@@ -2705,6 +2793,14 @@
       "onboard_time": 1677412169,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111242,
+      "num": 111242,
+      "word": "原来微博可以杜比的",
+      "onboard_time": 1677551126,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 110659,
@@ -3036,7 +3132,7 @@
     },
     {
       "raw_hot": 51871,
-      "num": 1224669,
+      "num": 1367964,
       "word": "奋进的春天",
       "onboard_time": 1677507092,
       "rank": 2,

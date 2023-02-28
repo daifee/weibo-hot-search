@@ -1,6 +1,6 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677549836496,
+  "endTime": 1677552631358,
   "band_list": [
     {
       "raw_hot": 2364822,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1820954,
-      "num": 951910,
+      "num": 1367267,
       "word": "父母没重视15岁儿子最终身高1米53",
       "onboard_time": 1677544831,
       "rank": 3,
@@ -35,8 +35,16 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1657373,
+      "num": 1657373,
+      "word": "明起香港口罩令全面取消",
+      "onboard_time": 1677549628,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1216486,
-      "num": 913945,
+      "num": 982005,
       "word": "迪丽热巴双麻花辫造型拍摄路透",
       "onboard_time": 1677548187,
       "rank": 7,
@@ -139,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 722624,
+      "num": 722624,
+      "word": "2022年中国出生人口956万人",
+      "onboard_time": 1677551188,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579454,
       "num": 579454,
       "word": "建议常见病不要去三级医院",
@@ -147,12 +163,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506600,
-      "num": 490419,
+      "raw_hot": 555018,
+      "num": 521240,
       "word": "女子河边跑步被老头骚扰",
       "onboard_time": 1677548667,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518159,
+      "num": 518159,
+      "word": "微博之夜嘉宾",
+      "onboard_time": 1677551848,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 502367,
+      "num": 502367,
+      "word": "苹果iPhone等设备全系电池将涨价",
+      "onboard_time": 1677548848,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 466787,
@@ -187,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434789,
+      "num": 434789,
+      "word": "张译狂飙热播后首露面",
+      "onboard_time": 1677552027,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 429195,
       "num": 429195,
       "word": "男孩爱吃水饺家长包了33天直接崩溃",
@@ -201,6 +241,14 @@
       "onboard_time": 1677511349,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412342,
+      "num": 412342,
+      "word": "3月壁纸",
+      "onboard_time": 1677549508,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 395805,
@@ -235,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350599,
+      "num": 350599,
+      "word": "Angelababy待播剧生日海报",
+      "onboard_time": 1677551546,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 347350,
       "num": 347350,
       "word": "马丁内斯当选FIFA最佳门将",
@@ -243,12 +299,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346418,
+      "num": 346418,
+      "word": "成都警方通报越野车追撞轿车",
+      "onboard_time": 1677550947,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 335168,
       "num": 335168,
       "word": "0室0厅1卫房间一晚60元能住吗",
       "onboard_time": 1677492509,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314111,
+      "num": 314111,
+      "word": "老友记莫妮卡扮演者好莱坞留星",
+      "onboard_time": 1677552088,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 312312,
@@ -275,28 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278590,
-      "num": 278590,
-      "word": "苹果iPhone等设备全系电池将涨价",
-      "onboard_time": 1677548848,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 273572,
-      "num": 273572,
+      "raw_hot": 293823,
+      "num": 293823,
       "word": "苹果将于明年推出自研5G基带芯片",
       "onboard_time": 1677548487,
       "rank": 48,
       "category": "科技"
     },
     {
-      "raw_hot": 268834,
-      "num": 268834,
-      "word": "3月壁纸",
-      "onboard_time": 1677549508,
-      "rank": 19,
-      "category": "情感"
+      "raw_hot": 282412,
+      "num": 282412,
+      "word": "带状疱疹要在黄金时间3天内就诊",
+      "onboard_time": 1677551546,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255703,
@@ -328,14 +392,6 @@
       "word": "全网都在关注丫丫回国时间",
       "onboard_time": 1677501209,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227605,
-      "num": 169915,
-      "word": "明起香港口罩令全面取消",
-      "onboard_time": 1677549628,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -392,6 +448,22 @@
       "word": "FIFA年度颁奖典礼",
       "onboard_time": 1677540201,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205668,
+      "num": 205668,
+      "word": "李佳琦直播预告",
+      "onboard_time": 1677552328,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 202472,
+      "num": 202472,
+      "word": "詹姆斯因伤缺席迎战灰熊",
+      "onboard_time": 1677551967,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -483,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157306,
+      "num": 157306,
+      "word": "夏花今晚大结局",
+      "onboard_time": 1677548369,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153721,
       "num": 153721,
       "word": "建议小学教育年限缩短到5年",
@@ -507,20 +587,20 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 147826,
+      "num": 147826,
+      "word": "全球最大苹果硬件收藏之一将拍卖",
+      "onboard_time": 1677551188,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 144739,
       "num": 144739,
       "word": "需要去看医生的呼噜声什么样",
       "onboard_time": 1677540021,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 144183,
-      "num": 144183,
-      "word": "夏花今晚大结局",
-      "onboard_time": 1677548369,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 141083,
@@ -587,12 +667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112775,
+      "num": 112775,
+      "word": "成都街头一越野车多次追撞轿车",
+      "onboard_time": 1677551907,
+      "rank": 42,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 111843,
       "num": 111843,
       "word": "小熊猫美美",
       "onboard_time": 1677516799,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111242,
+      "num": 111242,
+      "word": "原来微博可以杜比的",
+      "onboard_time": 1677551126,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 108944,
@@ -748,7 +844,7 @@
     },
     {
       "raw_hot": 45256,
-      "num": 952688,
+      "num": 1367964,
       "word": "奋进的春天",
       "onboard_time": 1677507092,
       "rank": 2,
