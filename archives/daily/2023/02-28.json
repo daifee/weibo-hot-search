@@ -1,6 +1,6 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677597625257,
+  "endTime": 1677598582174,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -603,6 +603,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 573507,
+      "num": 573507,
+      "word": "罪犯子女考公限制应该消除吗",
+      "onboard_time": 1677595534,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 564855,
       "num": 564855,
       "word": "14岁男孩网上自学偷开70公里后撞车",
@@ -739,6 +747,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 492578,
+      "num": 492578,
+      "word": "特斯拉潮州事故鉴定结果已出",
+      "onboard_time": 1677597458,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 487288,
       "num": 487288,
       "word": "KPOP艺人回归顺序",
@@ -753,6 +769,14 @@
       "onboard_time": 1677584370,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 484280,
+      "num": 484280,
+      "word": "那些曾经霸榜的小说",
+      "onboard_time": 1677596983,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 484024,
@@ -939,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 406114,
-      "num": 406114,
-      "word": "那些曾经霸榜的小说",
-      "onboard_time": 1677596983,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 404735,
       "num": 404735,
       "word": "外国要租借大熊猫有多难",
@@ -1073,14 +1089,6 @@
       "onboard_time": 1677562410,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355170,
-      "num": 355170,
-      "word": "罪犯子女考公限制应该消除吗",
-      "onboard_time": 1677595534,
-      "rank": 20,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 350599,
@@ -1387,6 +1395,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 253401,
+      "num": 253401,
+      "word": "徐志胜安利女士的品格",
+      "onboard_time": 1677596863,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250216,
       "num": 250216,
       "word": "许允真中村一叶发丝跳舞饭拍图",
@@ -1627,20 +1643,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199642,
-      "num": 199642,
-      "word": "徐志胜安利女士的品格",
-      "onboard_time": 1677596863,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 197408,
       "num": 197408,
       "word": "梁洁早春氛围感随拍",
       "onboard_time": 1677580170,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196612,
+      "num": 196612,
+      "word": "四川泸定发生4.8级地震",
+      "onboard_time": 1677597637,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196586,
@@ -2059,14 +2075,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 120528,
-      "num": 120528,
-      "word": "特斯拉潮州事故鉴定结果已出",
-      "onboard_time": 1677597458,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119293,
       "num": 119293,
       "word": "郭帆剧透流浪地球3会有地方小吃呈现",
@@ -2267,20 +2275,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 78522,
+      "num": 5331941,
+      "word": "乡村振兴美好图景",
+      "onboard_time": 1677596564,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75926,
       "num": 75926,
       "word": "宝可梦朱紫",
       "onboard_time": 1677508413,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 75360,
-      "num": 5331941,
-      "word": "乡村振兴美好图景",
-      "onboard_time": 1677596564,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74161,
