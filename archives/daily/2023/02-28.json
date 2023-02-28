@@ -1,6 +1,6 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677591555517,
+  "endTime": 1677593914769,
   "band_list": [
     {
       "raw_hot": 8538395,
@@ -163,6 +163,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 1333881,
+      "num": 1333881,
+      "word": "建议生育登记取消结婚限制",
+      "onboard_time": 1677589650,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1310313,
       "num": 731701,
       "word": "田柾国注销ins",
@@ -219,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1145835,
+      "num": 1145835,
+      "word": "丫丫食欲良好即将回国",
+      "onboard_time": 1677590911,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1144328,
       "num": 1144328,
       "word": "教资",
@@ -243,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1098491,
+      "num": 1098491,
+      "word": "明天起个税将再次多退少补",
+      "onboard_time": 1677588749,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1097118,
       "num": 940090,
       "word": "丫丫仍继续乞食",
@@ -265,14 +289,6 @@
       "onboard_time": 1677586590,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 996538,
-      "num": 996538,
-      "word": "建议生育登记取消结婚限制",
-      "onboard_time": 1677589650,
-      "rank": 11,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 993531,
@@ -305,14 +321,6 @@
       "onboard_time": 1677542846,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 957807,
-      "num": 957807,
-      "word": "明天起个税将再次多退少补",
-      "onboard_time": 1677588749,
-      "rank": 46,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 953479,
@@ -467,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 666438,
+      "num": 666438,
+      "word": "你是补税还是退税",
+      "onboard_time": 1677591992,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 662580,
       "num": 662580,
       "word": "刘德华李兰迪早期旧照",
@@ -481,6 +497,14 @@
       "onboard_time": 1677555509,
       "rank": 12,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 621225,
+      "num": 621225,
+      "word": "女子别墅被老爸60万装出浓情复古风",
+      "onboard_time": 1677592532,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 598801,
@@ -625,6 +649,14 @@
       "onboard_time": 1677564029,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 517381,
+      "num": 517381,
+      "word": "山姆回应顾客买到1天后上市的鸡爪",
+      "onboard_time": 1677591033,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 508796,
@@ -819,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422305,
+      "num": 422305,
+      "word": "90后女孩奋斗14年从服务员到博士生",
+      "onboard_time": 1677591150,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 416729,
       "num": 416729,
       "word": "欢乐颂4已过审下证",
@@ -1011,20 +1051,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340529,
+      "num": 340529,
+      "word": "李宏毅直播",
+      "onboard_time": 1677591451,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338281,
       "num": 338281,
       "word": "EXO粉丝见面会海报公开",
       "onboard_time": 1677576331,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 338208,
-      "num": 338208,
-      "word": "丫丫食欲良好即将回国",
-      "onboard_time": 1677590911,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335168,
@@ -1145,6 +1185,14 @@
       "onboard_time": 1677554308,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286004,
+      "num": 286004,
+      "word": "星落凝成糖",
+      "onboard_time": 1677591451,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 281430,
@@ -1292,7 +1340,7 @@
     },
     {
       "raw_hot": 239037,
-      "num": 205717,
+      "num": 210499,
       "word": "章子怡晒巴黎时装周随拍",
       "onboard_time": 1677590731,
       "rank": 42,
@@ -1507,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192833,
-      "num": 166455,
-      "word": "星落凝成糖",
-      "onboard_time": 1677591451,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 192482,
       "num": 192482,
       "word": "小学生给课本挑错新教材真的改了",
@@ -1553,14 +1593,6 @@
       "onboard_time": 1677586769,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 188721,
-      "num": 166347,
-      "word": "李宏毅直播",
-      "onboard_time": 1677591451,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 186705,
@@ -1667,20 +1699,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166061,
-      "num": 166061,
-      "word": "山姆回应顾客买到1天后上市的鸡爪",
-      "onboard_time": 1677591033,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165707,
       "num": 165707,
       "word": "高叶早期生图剧照",
       "onboard_time": 1677577951,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165117,
+      "num": 165117,
+      "word": "315消费面面观",
+      "onboard_time": 1677593733,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 163211,
@@ -1737,14 +1769,6 @@
       "onboard_time": 1677579088,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155092,
-      "num": 155092,
-      "word": "90后女孩奋斗14年从服务员到博士生",
-      "onboard_time": 1677591150,
-      "rank": 46,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 153721,
