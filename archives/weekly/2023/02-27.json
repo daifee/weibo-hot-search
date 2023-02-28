@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677548491841,
+  "endTime": 1677549836496,
   "band_list": [
     {
       "raw_hot": 4920735,
@@ -67,20 +67,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2364822,
+      "num": 2364822,
+      "word": "建议取消寻衅滋事罪",
+      "onboard_time": 1677545791,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2009874,
       "num": 1046378,
       "word": "警方通报邵逸夫医院凶杀案",
       "onboard_time": 1677483510,
       "rank": 3,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1969825,
-      "num": 1969825,
-      "word": "建议取消寻衅滋事罪",
-      "onboard_time": 1677545791,
-      "rank": 0,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1820954,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1216486,
+      "num": 913945,
+      "word": "迪丽热巴双麻花辫造型拍摄路透",
+      "onboard_time": 1677548187,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1182533,
       "num": 1182533,
       "word": "建议常见病不要去三级医院",
@@ -289,6 +297,14 @@
       "onboard_time": 1677492568,
       "rank": 20,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1144328,
+      "num": 1144328,
+      "word": "教资",
+      "onboard_time": 1677546810,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 1127934,
@@ -387,14 +403,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 947704,
-      "num": 947704,
-      "word": "教资",
-      "onboard_time": 1677546810,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
       "raw_hot": 932170,
       "num": 413719,
       "word": "蔡天凤或因硬物撞击耳后致命",
@@ -441,6 +449,14 @@
       "onboard_time": 1677457230,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 868324,
+      "num": 868324,
+      "word": "安陵容316岁了",
+      "onboard_time": 1677548008,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 860899,
@@ -531,14 +547,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 753611,
-      "num": 753611,
-      "word": "迪丽热巴双麻花辫造型拍摄路透",
-      "onboard_time": 1677548187,
-      "rank": 7,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 753081,
       "num": 753081,
       "word": "湿厕纸可以擦脸吗",
@@ -599,14 +607,6 @@
       "num": 706580,
       "word": "嫡谋作者关注杨紫檀健次",
       "onboard_time": 1677507092,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 704739,
-      "num": 704739,
-      "word": "安陵容316岁了",
-      "onboard_time": 1677548008,
       "rank": 8,
       "category": "影视"
     },
@@ -835,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 506600,
+      "num": 490419,
+      "word": "女子河边跑步被老头骚扰",
+      "onboard_time": 1677548667,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506088,
       "num": 506088,
       "word": "原来发疯真的有用",
@@ -923,6 +931,14 @@
       "category": "游戏,科技"
     },
     {
+      "raw_hot": 449328,
+      "num": 449328,
+      "word": "今年的甲流要比常年猛一些吗",
+      "onboard_time": 1677547288,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445735,
       "num": 445735,
       "word": "湖南普通家庭的饭菜有多香",
@@ -936,6 +952,14 @@
       "word": "朴灿烈吴世勋顺天乡校庆生图",
       "onboard_time": 1677484949,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 440559,
+      "num": 440559,
+      "word": "HYBE新男团将5月出道",
+      "onboard_time": 1677549266,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1203,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360751,
+      "num": 360751,
+      "word": "C罗无缘FIFA年度最佳阵容",
+      "onboard_time": 1677547768,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356804,
       "num": 356804,
       "word": "台湾问题不容他人置喙",
@@ -1289,14 +1321,6 @@
       "onboard_time": 1677462268,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 335285,
-      "num": 335285,
-      "word": "今年的甲流要比常年猛一些吗",
-      "onboard_time": 1677547288,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334926,
@@ -1555,12 +1579,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278590,
+      "num": 278590,
+      "word": "苹果iPhone等设备全系电池将涨价",
+      "onboard_time": 1677548848,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 276628,
       "num": 249680,
       "word": "27岁男子没穿鞋失踪40余天",
       "onboard_time": 1677466948,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273572,
+      "num": 273572,
+      "word": "苹果将于明年推出自研5G基带芯片",
+      "onboard_time": 1677548487,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 271585,
@@ -1577,6 +1617,14 @@
       "onboard_time": 1677474630,
       "rank": 35,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 268834,
+      "num": 268834,
+      "word": "3月壁纸",
+      "onboard_time": 1677549508,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 267041,
@@ -1648,6 +1696,14 @@
       "word": "2女子饭店吃饭将餐具放地上喂狗",
       "onboard_time": 1677466049,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227605,
+      "num": 169915,
+      "word": "明起香港口罩令全面取消",
+      "onboard_time": 1677549628,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1787,14 +1843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210410,
-      "num": 210410,
-      "word": "C罗无缘FIFA年度最佳阵容",
-      "onboard_time": 1677547768,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209736,
       "num": 209736,
       "word": "解放军军机强硬拦截美军机",
@@ -1864,6 +1912,14 @@
       "word": "奥司他韦行业一家独大",
       "onboard_time": 1677461067,
       "rank": 26,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 205959,
+      "num": 205959,
+      "word": "2022年国民总收入超119万亿元",
+      "onboard_time": 1677549266,
+      "rank": 25,
       "category": "财经,社会新闻"
     },
     {
@@ -2179,12 +2235,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 174770,
+      "num": 174770,
+      "word": "异地就医备案能在手机上办了",
+      "onboard_time": 1677548907,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167372,
       "num": 167372,
       "word": "梅西俱乐部700球",
       "onboard_time": 1677453442,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166782,
+      "num": 166782,
+      "word": "黑灯用脱口秀的方式讲述罕见病",
+      "onboard_time": 1677549687,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164285,
@@ -2209,6 +2281,14 @@
       "onboard_time": 1677443232,
       "rank": 47,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 163211,
+      "num": 163211,
+      "word": "北方多地将快进式升温",
+      "onboard_time": 1677547888,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162717,
@@ -2355,8 +2435,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 145501,
-      "num": 145501,
+      "raw_hot": 148574,
+      "num": 148574,
       "word": "一个镜头好似拍到了人的一生",
       "onboard_time": 1677546810,
       "rank": 31,
@@ -2371,20 +2451,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 144183,
+      "num": 144183,
+      "word": "夏花今晚大结局",
+      "onboard_time": 1677548369,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142456,
       "num": 142456,
       "word": "100天可以有无限可能",
       "onboard_time": 1677478948,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 141562,
-      "num": 141562,
-      "word": "北方多地将快进式升温",
-      "onboard_time": 1677547888,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141552,
@@ -2691,14 +2771,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 103027,
-      "num": 103027,
-      "word": "夏花今晚大结局",
-      "onboard_time": 1677548369,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 102894,
       "num": 102894,
       "word": "LNG战胜WBG",
@@ -2865,14 +2937,6 @@
       "onboard_time": 1677404667,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84057,
-      "num": 84057,
-      "word": "苹果将于明年推出自研5G基带芯片",
-      "onboard_time": 1677548487,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 83942,
