@@ -1,6 +1,6 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677573637191,
+  "endTime": 1677576013519,
   "band_list": [
     {
       "raw_hot": 8538395,
@@ -15,6 +15,14 @@
       "num": 2721001,
       "word": "赵露思工作室发严正声明",
       "onboard_time": 1677570329,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2601421,
+      "num": 2601421,
+      "word": "黄婷婷被纳入失信被执行人名单",
+      "onboard_time": 1677574171,
       "rank": 0,
       "category": "艺人"
     },
@@ -73,6 +81,14 @@
       "onboard_time": 1677549628,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1696959,
+      "num": 1696959,
+      "word": "俄罗斯暂时关闭圣彼得堡机场",
+      "onboard_time": 1677573450,
+      "rank": 21,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1605241,
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1217794,
+      "num": 1217794,
+      "word": "建议消除对罪犯子女考公的限制",
+      "onboard_time": 1677572070,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1216486,
       "num": 982005,
       "word": "迪丽热巴双麻花辫造型拍摄路透",
@@ -195,14 +219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1033281,
-      "num": 1033281,
-      "word": "建议消除对罪犯子女考公的限制",
-      "onboard_time": 1677572070,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 993531,
       "num": 993531,
       "word": "高叶曾出演鹿晗勋章的MV",
@@ -211,11 +227,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 989715,
+      "num": 609551,
+      "word": "香奈儿回应2万包包15分钟断了",
+      "onboard_time": 1677573270,
+      "rank": 30,
+      "category": "社会新闻,时尚"
+    },
+    {
       "raw_hot": 960805,
       "num": 960805,
       "word": "超90%的成人体内有水痘带状疱疹病毒",
       "onboard_time": 1677542846,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 953479,
+      "num": 953479,
+      "word": "山姆超市买到一天后上市的鸡爪",
+      "onboard_time": 1677572909,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -241,6 +273,14 @@
       "onboard_time": 1677545190,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 860288,
+      "num": 593619,
+      "word": "女子因烤苕皮太难吃送回给老板",
+      "onboard_time": 1677574592,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 854838,
@@ -291,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 763387,
+      "num": 763387,
+      "word": "00后男生筋膜枪按摩眼睛致白内障",
+      "onboard_time": 1677571829,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 757626,
       "num": 247164,
       "word": "蔡天凤案港媒报道是否过于详细",
@@ -313,14 +361,6 @@
       "onboard_time": 1677508952,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 676331,
-      "num": 676331,
-      "word": "00后男生筋膜枪按摩眼睛致白内障",
-      "onboard_time": 1677571829,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 676298,
@@ -363,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580223,
+      "num": 580223,
+      "word": "周杰伦天津演唱会票价",
+      "onboard_time": 1677572791,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 579454,
       "num": 579454,
       "word": "建议常见病不要去三级医院",
@@ -401,14 +449,6 @@
       "onboard_time": 1677568348,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 538159,
-      "num": 538159,
-      "word": "周杰伦天津演唱会票价",
-      "onboard_time": 1677572791,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 537523,
@@ -635,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404735,
+      "num": 404735,
+      "word": "外国要租借大熊猫有多难",
+      "onboard_time": 1677572309,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395805,
       "num": 395805,
       "word": "手机沉迷催生乡村新问题少年",
@@ -665,14 +713,6 @@
       "onboard_time": 1677560794,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 379762,
-      "num": 379762,
-      "word": "山姆超市买到一天后上市的鸡爪",
-      "onboard_time": 1677572909,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369458,
@@ -707,14 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 357223,
-      "num": 357223,
-      "word": "外国要租借大熊猫有多难",
-      "onboard_time": 1677572309,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355667,
       "num": 355667,
       "word": "四川将调整优化成都市落户政策",
@@ -739,11 +771,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343204,
+      "num": 343204,
+      "word": "如果狂飙里死的是高启强",
+      "onboard_time": 1677572728,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 335168,
       "num": 335168,
       "word": "0室0厅1卫房间一晚60元能住吗",
       "onboard_time": 1677492509,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329117,
+      "num": 329117,
+      "word": "女子路边买2碗麻辣烫花费175元",
+      "onboard_time": 1677574772,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -761,22 +809,6 @@
       "onboard_time": 1677551546,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315091,
-      "num": 315091,
-      "word": "如果狂飙里死的是高启强",
-      "onboard_time": 1677572728,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 313194,
-      "num": 313194,
-      "word": "俄罗斯暂时关闭圣彼得堡机场",
-      "onboard_time": 1677573450,
-      "rank": 21,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 312656,
@@ -1043,12 +1075,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206913,
-      "num": 206913,
-      "word": "香奈儿回应2万包包15分钟断了",
-      "onboard_time": 1677573270,
-      "rank": 30,
-      "category": "社会新闻,时尚"
+      "raw_hot": 206728,
+      "num": 206728,
+      "word": "微博年度人物推荐",
+      "onboard_time": 1677575251,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 205959,
@@ -1075,6 +1107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201948,
+      "num": 201948,
+      "word": "无水番茄牛腩",
+      "onboard_time": 1677574950,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 199781,
       "num": 199781,
       "word": "2月最后一天",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1677559897,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193200,
+      "num": 193200,
+      "word": "95后山东女孩大学毕业当矿工",
+      "onboard_time": 1677574470,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 192482,
@@ -1147,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182252,
+      "num": 182252,
+      "word": "二十届二中全会公报",
+      "onboard_time": 1677575791,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 177958,
       "num": 177958,
       "word": "陈采尼点评高叶红毯造型",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1677548907,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173315,
+      "num": 173315,
+      "word": "艾尔登法环DLC开发中",
+      "onboard_time": 1677573809,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 168831,
@@ -1227,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155402,
+      "num": 155402,
+      "word": "黄金树之影",
+      "onboard_time": 1677574651,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153721,
       "num": 153721,
       "word": "建议小学教育年限缩短到5年",
@@ -1249,6 +1321,14 @@
       "onboard_time": 1677492568,
       "rank": 25,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 149297,
+      "num": 149297,
+      "word": "委员建议小学改为5年制",
+      "onboard_time": 1677573572,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148574,
@@ -1283,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136548,
+      "num": 136548,
+      "word": "男孩负气出走却不忘做作业",
+      "onboard_time": 1677574411,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136442,
       "num": 136442,
       "word": "游客误把野狼当狗下车拍照",
@@ -1299,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132554,
+      "num": 132554,
+      "word": "这回转寿司挺废顾客",
+      "onboard_time": 1677573930,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131734,
       "num": 131734,
       "word": "嫡谋作者关注杨紫檀健次",
@@ -1307,12 +1403,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130060,
+      "num": 130060,
+      "word": "小伙车祸倒地男子用AED撑起生命线",
+      "onboard_time": 1677574950,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128309,
       "num": 128309,
       "word": "梅西说获奖代表对团队的认可",
       "onboard_time": 1677544590,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125665,
+      "num": 1717425,
+      "word": "加油中国人",
+      "onboard_time": 1677571289,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124030,
@@ -1353,14 +1465,6 @@
       "onboard_time": 1677569969,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 115014,
-      "num": 115014,
-      "word": "委员建议小学改为5年制",
-      "onboard_time": 1677573572,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112775,
@@ -1417,14 +1521,6 @@
       "onboard_time": 1677513567,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 105499,
-      "num": 1378519,
-      "word": "加油中国人",
-      "onboard_time": 1677571289,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105181,
