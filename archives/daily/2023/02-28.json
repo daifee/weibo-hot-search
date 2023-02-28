@@ -1,6 +1,6 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677579718192,
+  "endTime": 1677580717011,
   "band_list": [
     {
       "raw_hot": 8538395,
@@ -91,20 +91,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1660807,
+      "num": 1055353,
+      "word": "女子因烤苕皮太难吃送回给老板",
+      "onboard_time": 1677574592,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1605241,
       "num": 1605241,
       "word": "微博King和QUEEN",
       "onboard_time": 1677572369,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1595867,
-      "num": 1055353,
-      "word": "女子因烤苕皮太难吃送回给老板",
-      "onboard_time": 1677574592,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1523766,
@@ -123,8 +123,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1379365,
-      "num": 1379365,
+      "raw_hot": 1470616,
+      "num": 1470616,
       "word": "香奈儿回应2万包包15分钟断了",
       "onboard_time": 1677573270,
       "rank": 30,
@@ -435,20 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573807,
+      "num": 573807,
+      "word": "党和国家机构改革",
+      "onboard_time": 1677576929,
+      "rank": 40,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 564855,
+      "num": 564855,
+      "word": "14岁男孩网上自学偷开70公里后撞车",
+      "onboard_time": 1677577289,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 555018,
       "num": 521240,
       "word": "女子河边跑步被老头骚扰",
       "onboard_time": 1677548667,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545998,
-      "num": 545998,
-      "word": "党和国家机构改革",
-      "onboard_time": 1677576929,
-      "rank": 40,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 545287,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 541406,
-      "num": 383587,
+      "num": 386972,
       "word": "女子路边买2碗麻辣烫花费175元",
       "onboard_time": 1677574772,
       "rank": 21,
@@ -497,6 +505,14 @@
       "onboard_time": 1677568648,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 524271,
+      "num": 524271,
+      "word": "夏花大结局",
+      "onboard_time": 1677579266,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 523261,
@@ -611,14 +627,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 444108,
-      "num": 444108,
-      "word": "14岁男孩网上自学偷开70公里后撞车",
-      "onboard_time": 1677577289,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 443282,
       "num": 443282,
       "word": "老友记莫妮卡扮演者好莱坞留星",
@@ -715,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399591,
+      "num": 399591,
+      "word": "王者新亲密关系称谓",
+      "onboard_time": 1677577833,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 395805,
       "num": 395805,
       "word": "手机沉迷催生乡村新问题少年",
@@ -779,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359524,
+      "num": 359524,
+      "word": "山姆门店多次因食品安全问题被罚",
+      "onboard_time": 1677578071,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355667,
       "num": 355667,
       "word": "四川将调整优化成都市落户政策",
@@ -793,6 +817,14 @@
       "onboard_time": 1677551546,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348032,
+      "num": 348032,
+      "word": "教育局回应学校要求学生必须缴医保",
+      "onboard_time": 1677578610,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 347350,
@@ -811,20 +843,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342959,
+      "num": 342959,
+      "word": "杨紫黑白穿搭造型随拍",
+      "onboard_time": 1677579150,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 341168,
+      "num": 341168,
+      "word": "夏花",
+      "onboard_time": 1677580231,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338281,
       "num": 338281,
       "word": "EXO粉丝见面会海报公开",
       "onboard_time": 1677576331,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 338116,
-      "num": 338116,
-      "word": "王者新亲密关系称谓",
-      "onboard_time": 1677577833,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 335168,
@@ -843,20 +883,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326251,
-      "num": 326251,
-      "word": "杨紫黑白穿搭造型随拍",
-      "onboard_time": 1677579150,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 325752,
       "num": 325752,
       "word": "带状疱疹要在黄金时间3天内就诊",
       "onboard_time": 1677551546,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318620,
+      "num": 318620,
+      "word": "杨颖相思令妆造",
+      "onboard_time": 1677578910,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 312656,
@@ -875,12 +915,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 302208,
-      "num": 302208,
-      "word": "杨颖相思令妆造",
-      "onboard_time": 1677578910,
-      "rank": 24,
-      "category": "影视"
+      "raw_hot": 300209,
+      "num": 300209,
+      "word": "明星虚假违法代言等记录向社会公开",
+      "onboard_time": 1677579088,
+      "rank": 35,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 296059,
@@ -905,14 +945,6 @@
       "onboard_time": 1677548487,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 293445,
-      "num": 227608,
-      "word": "山姆门店多次因食品安全问题被罚",
-      "onboard_time": 1677578071,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291877,
@@ -1091,14 +1123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227947,
-      "num": 227947,
-      "word": "夏花大结局",
-      "onboard_time": 1677579266,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 226753,
       "num": 226753,
       "word": "华晨宇说音乐不应该停留在舒适圈",
@@ -1147,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215793,
-      "num": 215793,
-      "word": "教育局回应学校要求学生必须缴医保",
-      "onboard_time": 1677578610,
-      "rank": 34,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 214948,
       "num": 214948,
       "word": "超20省市执行公积金付首付新政",
@@ -1177,14 +1193,6 @@
       "onboard_time": 1677560136,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208038,
-      "num": 208038,
-      "word": "明星虚假违法代言等记录向社会公开",
-      "onboard_time": 1677579088,
-      "rank": 35,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 206728,
@@ -1233,6 +1241,14 @@
       "onboard_time": 1677539601,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197408,
+      "num": 197408,
+      "word": "梁洁早春氛围感随拍",
+      "onboard_time": 1677580170,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 196372,
@@ -1483,6 +1499,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138584,
+      "num": 138584,
+      "word": "帮我艾特王子殿下",
+      "onboard_time": 1677580530,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 138559,
+      "num": 138559,
+      "word": "当动物闻到榴莲味的反应",
+      "onboard_time": 1677579871,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136548,
       "num": 136548,
       "word": "男孩负气出走却不忘做作业",
@@ -1625,6 +1657,14 @@
       "onboard_time": 1677556831,
       "rank": 39,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 110461,
+      "num": 110461,
+      "word": "毛宁称美国未免太不自信",
+      "onboard_time": 1677580710,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 108944,
