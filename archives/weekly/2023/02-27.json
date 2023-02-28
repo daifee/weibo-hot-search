@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677565517956,
+  "endTime": 1677566424113,
   "band_list": [
     {
       "raw_hot": 8538395,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1307217,
-      "num": 509921,
+      "num": 570510,
       "word": "山东养的大熊猫相当炸裂",
       "onboard_time": 1677563489,
       "rank": 4,
@@ -625,6 +625,14 @@
       "onboard_time": 1677423212,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 762181,
+      "num": 762181,
+      "word": "高叶曾出演鹿晗勋章的MV",
+      "onboard_time": 1677565888,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 757626,
@@ -987,6 +995,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 519378,
+      "num": 519378,
+      "word": "教资面试",
+      "onboard_time": 1677564029,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 517013,
       "num": 517013,
       "word": "带状疱疹有时会被误认是皮炎",
@@ -1201,14 +1217,6 @@
       "onboard_time": 1677549266,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 440554,
-      "num": 440554,
-      "word": "教资面试",
-      "onboard_time": 1677564029,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 438269,
@@ -1491,6 +1499,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 370967,
+      "num": 370967,
+      "word": "旅美大熊猫丫丫要回来了",
+      "onboard_time": 1677565587,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370847,
       "num": 370847,
       "word": "李兰迪两部在播剧",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1677486151,
       "rank": 45,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 355667,
+      "num": 355667,
+      "word": "四川将调整优化成都市落户政策",
+      "onboard_time": 1677562410,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350599,
@@ -1739,20 +1763,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319974,
-      "num": 319974,
-      "word": "四川将调整优化成都市落户政策",
-      "onboard_time": 1677562410,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317887,
       "num": 317887,
       "word": "未定事件簿",
       "onboard_time": 1677477450,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 312656,
+      "num": 312656,
+      "word": "华晨宇2023年演唱会官宣",
+      "onboard_time": 1677565527,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 312312,
@@ -1987,6 +2011,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 269138,
+      "num": 269138,
+      "word": "我每天的上班动力",
+      "onboard_time": 1677563908,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267041,
       "num": 247673,
       "word": "律师解读香港名媛蔡天凤被杀案",
@@ -2009,14 +2041,6 @@
       "onboard_time": 1677425970,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 257156,
-      "num": 257156,
-      "word": "我每天的上班动力",
-      "onboard_time": 1677563908,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 254105,
@@ -2345,6 +2369,14 @@
       "onboard_time": 1677484290,
       "rank": 29,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 205060,
+      "num": 205060,
+      "word": "KPL春季赛第三周最佳阵容",
+      "onboard_time": 1677566007,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 203843,
@@ -2747,6 +2779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159631,
+      "num": 159631,
+      "word": "第16个国际罕见病日",
+      "onboard_time": 1677566367,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158697,
       "num": 158697,
       "word": "梅西 实至名归",
@@ -2817,6 +2857,14 @@
       "onboard_time": 1677463225,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 154937,
+      "num": 154937,
+      "word": "吉利汽车回应银河之光涉嫌抄袭",
+      "onboard_time": 1677565648,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 154413,
@@ -3179,6 +3227,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 110948,
+      "num": 633417,
+      "word": "春季高发传染病预防指南",
+      "onboard_time": 1677564209,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110903,
       "num": 219611,
       "word": "那家餐厅被饿了么免单了",
@@ -3240,14 +3296,6 @@
       "word": "专家称甲流与新冠叠加几率很小",
       "onboard_time": 1677517697,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105044,
-      "num": 518659,
-      "word": "春季高发传染病预防指南",
-      "onboard_time": 1677564209,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

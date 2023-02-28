@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677565517956,
+  "endTime": 1677566424113,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -5244,7 +5244,7 @@
     },
     {
       "raw_hot": 1307217,
-      "num": 509921,
+      "num": 570510,
       "word": "山东养的大熊猫相当炸裂",
       "onboard_time": 1677563489,
       "rank": 4,
@@ -12569,6 +12569,14 @@
       "onboard_time": 1675296145,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 762181,
+      "num": 762181,
+      "word": "高叶曾出演鹿晗勋章的MV",
+      "onboard_time": 1677565888,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 761790,
@@ -21107,6 +21115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 519378,
+      "num": 519378,
+      "word": "教资面试",
+      "onboard_time": 1677564029,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 519165,
       "num": 519165,
       "word": "王一博电影无名破7亿海报",
@@ -24913,14 +24929,6 @@
       "onboard_time": 1677549266,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 440554,
-      "num": 440554,
-      "word": "教资面试",
-      "onboard_time": 1677564029,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 440451,
@@ -29787,6 +29795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 370967,
+      "num": 370967,
+      "word": "旅美大熊猫丫丫要回来了",
+      "onboard_time": 1677565587,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370850,
       "num": 370850,
       "word": "流浪地球2图丫丫房间美术设定",
@@ -30833,6 +30849,14 @@
       "onboard_time": 1675946912,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 355667,
+      "num": 355667,
+      "word": "四川将调整优化成都市落户政策",
+      "onboard_time": 1677562410,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355618,
@@ -33707,14 +33731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319974,
-      "num": 319974,
-      "word": "四川将调整优化成都市落户政策",
-      "onboard_time": 1677562410,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 319817,
       "num": 319817,
       "word": "侯明昊你内衬开了",
@@ -34345,6 +34361,14 @@
       "onboard_time": 1675343614,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312656,
+      "num": 312656,
+      "word": "华晨宇2023年演唱会官宣",
+      "onboard_time": 1677565527,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 312617,
@@ -38779,6 +38803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269138,
+      "num": 269138,
+      "word": "我每天的上班动力",
+      "onboard_time": 1677563908,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269123,
       "num": 269123,
       "word": "文草草和已婚男领导用情侣水杯",
@@ -40041,14 +40073,6 @@
       "onboard_time": 1676245523,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 257156,
-      "num": 257156,
-      "word": "我每天的上班动力",
-      "onboard_time": 1677563908,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 257014,
@@ -46209,6 +46233,14 @@
       "onboard_time": 1675907367,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 205060,
+      "num": 205060,
+      "word": "KPL春季赛第三周最佳阵容",
+      "onboard_time": 1677566007,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 205044,
@@ -54067,6 +54099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159631,
+      "num": 159631,
+      "word": "第16个国际罕见病日",
+      "onboard_time": 1677566367,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159617,
       "num": 159617,
       "word": "星际争霸2",
@@ -54753,6 +54793,14 @@
       "onboard_time": 1677208948,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 154937,
+      "num": 154937,
+      "word": "吉利汽车回应银河之光涉嫌抄袭",
+      "onboard_time": 1677565648,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 154892,
@@ -58843,6 +58891,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 110948,
+      "num": 633417,
+      "word": "春季高发传染病预防指南",
+      "onboard_time": 1677564209,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110903,
       "num": 219611,
       "word": "那家餐厅被饿了么免单了",
@@ -59193,14 +59249,6 @@
       "onboard_time": 1677410791,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105044,
-      "num": 518659,
-      "word": "春季高发传染病预防指南",
-      "onboard_time": 1677564209,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104888,
