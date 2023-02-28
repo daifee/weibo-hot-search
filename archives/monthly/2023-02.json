@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677587874602,
+  "endTime": 1677589021156,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -1809,6 +1809,14 @@
       "onboard_time": 1677230069,
       "rank": 31,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2170380,
+      "num": 2170380,
+      "word": "白夜追凶2",
+      "onboard_time": 1677588088,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2163507,
@@ -8699,6 +8707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 983615,
+      "num": 983615,
+      "word": "余生请多指教",
+      "onboard_time": 1677586590,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 983382,
       "num": 983382,
       "word": "四省联考",
@@ -8857,6 +8873,14 @@
       "onboard_time": 1676863768,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 974947,
+      "num": 482308,
+      "word": "王源胡子",
+      "onboard_time": 1677587671,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 974020,
@@ -12057,14 +12081,6 @@
       "onboard_time": 1675398571,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 796399,
-      "num": 796399,
-      "word": "余生请多指教",
-      "onboard_time": 1677586590,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 795367,
@@ -19787,14 +19803,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 551912,
-      "num": 482308,
-      "word": "王源胡子",
-      "onboard_time": 1677587671,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 551902,
       "num": 551902,
       "word": "张颂文曾经是广东省最佳导游",
@@ -25635,6 +25643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 434668,
+      "num": 434668,
+      "word": "饕餮记官博声明",
+      "onboard_time": 1677587129,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 434550,
       "num": 434550,
       "word": "拜登称将向乌克兰提供5亿美元援助",
@@ -26961,14 +26977,6 @@
       "onboard_time": 1677311729,
       "rank": 12,
       "category": "音乐,财经"
-    },
-    {
-      "raw_hot": 414312,
-      "num": 414312,
-      "word": "饕餮记官博声明",
-      "onboard_time": 1677587129,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 414269,
@@ -30451,6 +30459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366884,
+      "num": 299075,
+      "word": "黄景瑜万茜电影大爆炸开机路透",
+      "onboard_time": 1677588328,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 366850,
       "num": 366850,
       "word": "被喷奶油的龚俊",
@@ -30657,6 +30673,14 @@
       "onboard_time": 1676250745,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363177,
+      "num": 444994,
+      "word": "建议把抑郁症治疗纳入医保",
+      "onboard_time": 1677585690,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363039,
@@ -30963,6 +30987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 358527,
+      "num": 358527,
+      "word": "AL战胜RNG",
+      "onboard_time": 1677585510,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 358518,
       "num": 358518,
       "word": "中年夫妻如何给婚姻保鲜",
@@ -31145,14 +31177,6 @@
       "onboard_time": 1676442809,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 356155,
-      "num": 356155,
-      "word": "AL战胜RNG",
-      "onboard_time": 1677585510,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 356024,
@@ -40539,14 +40563,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 256839,
-      "num": 444994,
-      "word": "建议把抑郁症治疗纳入医保",
-      "onboard_time": 1677585690,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256668,
       "num": 256668,
       "word": "欧豪的偶像是历史得分王",
@@ -48763,6 +48779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193058,
+      "num": 215014,
+      "word": "洗烘一体是真香还是鸡肋",
+      "onboard_time": 1677588031,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 193053,
       "num": 193053,
       "word": "如何看待满江红周边争议",
@@ -56361,6 +56385,14 @@
       "onboard_time": 1677551188,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 147803,
+      "num": 147803,
+      "word": "明天起个税将再次多退少补",
+      "onboard_time": 1677588749,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 147589,

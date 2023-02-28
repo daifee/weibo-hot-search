@@ -1,6 +1,6 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677587874602,
+  "endTime": 1677589021156,
   "band_list": [
     {
       "raw_hot": 8538395,
@@ -33,6 +33,14 @@
       "onboard_time": 1677545791,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2170380,
+      "num": 2170380,
+      "word": "白夜追凶2",
+      "onboard_time": 1677588088,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1935044,
@@ -259,6 +267,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 983615,
+      "num": 983615,
+      "word": "余生请多指教",
+      "onboard_time": 1677586590,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 974947,
+      "num": 482308,
+      "word": "王源胡子",
+      "onboard_time": 1677587671,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 960805,
       "num": 960805,
       "word": "超90%的成人体内有水痘带状疱疹病毒",
@@ -345,14 +369,6 @@
       "onboard_time": 1677571172,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 796399,
-      "num": 796399,
-      "word": "余生请多指教",
-      "onboard_time": 1677586590,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 794631,
@@ -513,14 +529,6 @@
       "onboard_time": 1677548667,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 551912,
-      "num": 482308,
-      "word": "王源胡子",
-      "onboard_time": 1677587671,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 545287,
@@ -731,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434668,
+      "num": 434668,
+      "word": "饕餮记官博声明",
+      "onboard_time": 1677587129,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 430395,
       "num": 430395,
       "word": "刘亦菲春日繁花大片",
@@ -767,14 +783,6 @@
       "num": 416729,
       "word": "欢乐颂4已过审下证",
       "onboard_time": 1677571528,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 414312,
-      "num": 414312,
-      "word": "饕餮记官博声明",
-      "onboard_time": 1677587129,
       "rank": 15,
       "category": "影视"
     },
@@ -883,6 +891,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366884,
+      "num": 299075,
+      "word": "黄景瑜万茜电影大爆炸开机路透",
+      "onboard_time": 1677588328,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 363177,
+      "num": 444994,
+      "word": "建议把抑郁症治疗纳入医保",
+      "onboard_time": 1677585690,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360751,
       "num": 360751,
       "word": "C罗无缘FIFA年度最佳阵容",
@@ -891,8 +915,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 356155,
-      "num": 356155,
+      "raw_hot": 358527,
+      "num": 358527,
       "word": "AL战胜RNG",
       "onboard_time": 1677585510,
       "rank": 18,
@@ -1129,14 +1153,6 @@
       "onboard_time": 1677570148,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 256839,
-      "num": 444994,
-      "word": "建议把抑郁症治疗纳入医保",
-      "onboard_time": 1677585690,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255703,
@@ -1411,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193058,
+      "num": 215014,
+      "word": "洗烘一体是真香还是鸡肋",
+      "onboard_time": 1677588031,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 192482,
       "num": 192482,
       "word": "小学生给课本挑错新教材真的改了",
@@ -1491,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179577,
+      "num": 179577,
+      "word": "半熟恋人",
+      "onboard_time": 1677584129,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177958,
       "num": 177958,
       "word": "陈采尼点评高叶红毯造型",
@@ -1505,14 +1537,6 @@
       "onboard_time": 1677505411,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 175745,
-      "num": 175745,
-      "word": "半熟恋人",
-      "onboard_time": 1677584129,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 174770,
@@ -1665,6 +1689,14 @@
       "onboard_time": 1677551188,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 147803,
+      "num": 147803,
+      "word": "明天起个税将再次多退少补",
+      "onboard_time": 1677588749,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 144739,
