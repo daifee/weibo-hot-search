@@ -1,0 +1,410 @@
+{
+  "runTime": 1677548491841,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1969825,
+        "num": 1969825,
+        "word": "建议取消寻衅滋事罪",
+        "onboard_time": 1677545791,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 960805,
+        "num": 960805,
+        "word": "超90%的成人体内有水痘带状疱疹病毒",
+        "onboard_time": 1677542846,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42470,
+        "num": 952688,
+        "word": "奋进的春天",
+        "onboard_time": 1677507092,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1820954,
+        "num": 951910,
+        "word": "父母没重视15岁儿子最终身高1米53",
+        "onboard_time": 1677544831,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947704,
+        "num": 947704,
+        "word": "教资",
+        "onboard_time": 1677546810,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 940090,
+        "num": 940090,
+        "word": "丫丫仍继续乞食",
+        "onboard_time": 1677499469,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860899,
+        "num": 860899,
+        "word": "高启强为啥总穿戗驳领西装",
+        "onboard_time": 1677545190,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 753611,
+        "num": 753611,
+        "word": "迪丽热巴双麻花辫造型拍摄路透",
+        "onboard_time": 1677548187,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 704739,
+        "num": 704739,
+        "word": "安陵容316岁了",
+        "onboard_time": 1677548008,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 679342,
+        "num": 679342,
+        "word": "苏小玎已经不会高启盛舞步了",
+        "onboard_time": 1677513509,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466787,
+        "num": 466787,
+        "word": "配眼镜前看到这些是我的福气",
+        "onboard_time": 1677541945,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 395862,
+        "num": 395862,
+        "word": "刘亦菲新造型好辣",
+        "onboard_time": 1677508952,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395805,
+        "num": 395805,
+        "word": "手机沉迷催生乡村新问题少年",
+        "onboard_time": 1677545970,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343749,
+        "num": 343749,
+        "word": "建议常见病不要去三级医院",
+        "onboard_time": 1677507752,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335285,
+        "num": 335285,
+        "word": "今年的甲流要比常年猛一些吗",
+        "onboard_time": 1677547288,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311265,
+        "num": 311265,
+        "word": "梅西当选FIFA年度最佳球员",
+        "onboard_time": 1677539239,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301078,
+        "num": 301078,
+        "word": "茶颜悦色回应满杯奶茶放久了变半杯",
+        "onboard_time": 1677501029,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 295981,
+        "num": 295981,
+        "word": "我国两种甲流亚型同时传播",
+        "onboard_time": 1677511349,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248176,
+        "num": 248176,
+        "word": "医生称甲流也会引起白肺",
+        "onboard_time": 1677511349,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240215,
+        "num": 240215,
+        "word": "马斯克重返全球首富宝座",
+        "onboard_time": 1677543207,
+        "rank": 19,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 264408,
+        "num": 232919,
+        "word": "被山东一张海鲜面价格单馋哭了",
+        "onboard_time": 1677515063,
+        "rank": 20,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 224737,
+        "num": 224737,
+        "word": "甲流患者不宜自行服用奥司他韦",
+        "onboard_time": 1677512488,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220032,
+        "num": 220032,
+        "word": "夜班经理",
+        "onboard_time": 1677542908,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214546,
+        "num": 214546,
+        "word": "个税起征点是否应提高",
+        "onboard_time": 1677513926,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 210410,
+        "num": 210410,
+        "word": "C罗无缘FIFA年度最佳阵容",
+        "onboard_time": 1677547768,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185444,
+        "num": 185444,
+        "word": "马斯克或开发ChatGPT替代品",
+        "onboard_time": 1677546689,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 177369,
+        "num": 177369,
+        "word": "名侦探柯南cp端水大师",
+        "onboard_time": 1677508053,
+        "rank": 26,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 171823,
+        "num": 171823,
+        "word": "周杰伦 抢票",
+        "onboard_time": 1677493890,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149439,
+        "num": 149439,
+        "word": "美国53岁儿童性侵犯疑被连环杀手狱友杀死",
+        "onboard_time": 1677496288,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148859,
+        "num": 148859,
+        "word": "小学生给课本挑错新教材真的改了",
+        "onboard_time": 1677538939,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 148151,
+        "num": 148151,
+        "word": "厉以宁逝世",
+        "onboard_time": 1677504451,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 145501,
+        "num": 145501,
+        "word": "一个镜头好似拍到了人的一生",
+        "onboard_time": 1677546810,
+        "rank": 31,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 144739,
+        "num": 144739,
+        "word": "需要去看医生的呼噜声什么样",
+        "onboard_time": 1677540021,
+        "rank": 32,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 141562,
+        "num": 141562,
+        "word": "北方多地将快进式升温",
+        "onboard_time": 1677547888,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128309,
+        "num": 128309,
+        "word": "梅西说获奖代表对团队的认可",
+        "onboard_time": 1677544590,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122084,
+        "num": 122084,
+        "word": "张馨予后台状态",
+        "onboard_time": 1677506852,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118682,
+        "num": 118682,
+        "word": "84岁老汉回应花万元为自己办葬礼",
+        "onboard_time": 1677504871,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117029,
+        "num": 117029,
+        "word": "最疼的皮肤病",
+        "onboard_time": 1677544348,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111843,
+        "num": 111843,
+        "word": "小熊猫美美",
+        "onboard_time": 1677516799,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105181,
+        "num": 105181,
+        "word": "专家称甲流与新冠叠加几率很小",
+        "onboard_time": 1677517697,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103027,
+        "num": 103027,
+        "word": "夏花今晚大结局",
+        "onboard_time": 1677548369,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102264,
+        "num": 102264,
+        "word": "0室0厅1卫房间一晚60元能住吗",
+        "onboard_time": 1677492509,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96250,
+        "num": 96250,
+        "word": "众星为电影脐带打call",
+        "onboard_time": 1677544831,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93933,
+        "num": 93933,
+        "word": "嫡谋作者关注杨紫檀健次",
+        "onboard_time": 1677507092,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93835,
+        "num": 93835,
+        "word": "马丁内斯当选FIFA最佳门将",
+        "onboard_time": 1677539538,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93788,
+        "num": 93788,
+        "word": "游客误把野狼当狗下车拍照",
+        "onboard_time": 1677496891,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 85691,
+        "num": 85691,
+        "word": "陈采尼点评高叶红毯造型",
+        "onboard_time": 1677511767,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84138,
+        "num": 84138,
+        "word": "全网都在关注丫丫回国时间",
+        "onboard_time": 1677501209,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84057,
+        "num": 84057,
+        "word": "苹果将于明年推出自研5G基带芯片",
+        "onboard_time": 1677548487,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 82212,
+        "num": 82212,
+        "word": "7000种罕见病约半数发病于儿童期",
+        "onboard_time": 1677545130,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#看中国式现代化图景#"
+    }
+  }
+}

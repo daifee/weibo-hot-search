@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677540855937,
+  "endTime": 1677548491841,
   "band_list": [
     {
       "raw_hot": 4920735,
@@ -73,6 +73,22 @@
       "onboard_time": 1677483510,
       "rank": 3,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1969825,
+      "num": 1969825,
+      "word": "建议取消寻衅滋事罪",
+      "onboard_time": 1677545791,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1820954,
+      "num": 951910,
+      "word": "父母没重视15岁儿子最终身高1米53",
+      "onboard_time": 1677544831,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1784696,
@@ -355,12 +371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 960805,
+      "num": 960805,
+      "word": "超90%的成人体内有水痘带状疱疹病毒",
+      "onboard_time": 1677542846,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 952461,
       "num": 952461,
       "word": "董明珠称一人一套房承诺不变",
       "onboard_time": 1677480689,
       "rank": 10,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 947704,
+      "num": 947704,
+      "word": "教资",
+      "onboard_time": 1677546810,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 932170,
@@ -409,6 +441,14 @@
       "onboard_time": 1677457230,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 860899,
+      "num": 860899,
+      "word": "高启强为啥总穿戗驳领西装",
+      "onboard_time": 1677545190,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 851260,
@@ -491,6 +531,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 753611,
+      "num": 753611,
+      "word": "迪丽热巴双麻花辫造型拍摄路透",
+      "onboard_time": 1677548187,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 753081,
       "num": 753081,
       "word": "湿厕纸可以擦脸吗",
@@ -551,6 +599,14 @@
       "num": 706580,
       "word": "嫡谋作者关注杨紫檀健次",
       "onboard_time": 1677507092,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 704739,
+      "num": 704739,
+      "word": "安陵容316岁了",
+      "onboard_time": 1677548008,
       "rank": 8,
       "category": "影视"
     },
@@ -843,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466787,
+      "num": 466787,
+      "word": "配眼镜前看到这些是我的福气",
+      "onboard_time": 1677541945,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 462646,
       "num": 462646,
       "word": "64岁男子为到工地干活办假证减龄",
@@ -1025,6 +1089,14 @@
       "onboard_time": 1677492448,
       "rank": 29,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 395805,
+      "num": 395805,
+      "word": "手机沉迷催生乡村新问题少年",
+      "onboard_time": 1677545970,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393978,
@@ -1219,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335285,
+      "num": 335285,
+      "word": "今年的甲流要比常年猛一些吗",
+      "onboard_time": 1677547288,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334926,
       "num": 334926,
       "word": "SMTOWN前练习生与aespa合照",
@@ -1411,6 +1491,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 295981,
+      "num": 295981,
+      "word": "我国两种甲流亚型同时传播",
+      "onboard_time": 1677511349,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295314,
       "num": 295314,
       "word": "光与夜之恋萧逸",
@@ -1499,14 +1587,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 263425,
-      "num": 263425,
-      "word": "我国两种甲流亚型同时传播",
-      "onboard_time": 1677511349,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262752,
       "num": 262752,
       "word": "厉以宁生平",
@@ -1545,6 +1625,14 @@
       "onboard_time": 1677475410,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240215,
+      "num": 240215,
+      "word": "马斯克重返全球首富宝座",
+      "onboard_time": 1677543207,
+      "rank": 19,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 236349,
@@ -1587,12 +1675,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224737,
+      "num": 224737,
+      "word": "甲流患者不宜自行服用奥司他韦",
+      "onboard_time": 1677512488,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224583,
       "num": 224583,
       "word": "白鹿演我早起",
       "onboard_time": 1677458852,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220032,
+      "num": 220032,
+      "word": "夜班经理",
+      "onboard_time": 1677542908,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 219912,
@@ -1681,6 +1785,14 @@
       "onboard_time": 1677481167,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210410,
+      "num": 210410,
+      "word": "C罗无缘FIFA年度最佳阵容",
+      "onboard_time": 1677547768,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 209736,
@@ -2019,6 +2131,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 185444,
+      "num": 185444,
+      "word": "马斯克或开发ChatGPT替代品",
+      "onboard_time": 1677546689,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 184927,
       "num": 184927,
       "word": "未定事件簿空少",
@@ -2147,14 +2267,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156604,
-      "num": 156604,
-      "word": "甲流患者不宜自行服用奥司他韦",
-      "onboard_time": 1677512488,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156066,
       "num": 156066,
       "word": "又看到刘诗雯打球了",
@@ -2243,12 +2355,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145501,
+      "num": 145501,
+      "word": "一个镜头好似拍到了人的一生",
+      "onboard_time": 1677546810,
+      "rank": 31,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 144739,
+      "num": 144739,
+      "word": "需要去看医生的呼噜声什么样",
+      "onboard_time": 1677540021,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 142456,
       "num": 142456,
       "word": "100天可以有无限可能",
       "onboard_time": 1677478948,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 141562,
+      "num": 141562,
+      "word": "北方多地将快进式升温",
+      "onboard_time": 1677547888,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141552,
@@ -2347,12 +2483,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 128551,
-      "num": 128551,
-      "word": "需要去看医生的呼噜声什么样",
-      "onboard_time": 1677540021,
-      "rank": 30,
-      "category": "社会新闻,情感"
+      "raw_hot": 128309,
+      "num": 128309,
+      "word": "梅西说获奖代表对团队的认可",
+      "onboard_time": 1677544590,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 127561,
@@ -2451,6 +2587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117029,
+      "num": 117029,
+      "word": "最疼的皮肤病",
+      "onboard_time": 1677544348,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115022,
       "num": 115022,
       "word": "明星红毯美颜大赏",
@@ -2465,6 +2609,14 @@
       "onboard_time": 1677414689,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 111843,
+      "num": 111843,
+      "word": "小熊猫美美",
+      "onboard_time": 1677516799,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111751,
@@ -2523,6 +2675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105181,
+      "num": 105181,
+      "word": "专家称甲流与新冠叠加几率很小",
+      "onboard_time": 1677517697,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104026,
       "num": 104026,
       "word": "厉以宁是我国最早提出股份制学者之一",
@@ -2531,12 +2691,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 103425,
-      "num": 103425,
-      "word": "小熊猫美美",
-      "onboard_time": 1677516799,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 103027,
+      "num": 103027,
+      "word": "夏花今晚大结局",
+      "onboard_time": 1677548369,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 102894,
@@ -2609,6 +2769,14 @@
       "onboard_time": 1677422493,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96250,
+      "num": 96250,
+      "word": "众星为电影脐带打call",
+      "onboard_time": 1677544831,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 95252,
@@ -2699,6 +2867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84057,
+      "num": 84057,
+      "word": "苹果将于明年推出自研5G基带芯片",
+      "onboard_time": 1677548487,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 83942,
       "num": 83942,
       "word": "瑞镇家",
@@ -2707,11 +2883,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82762,
-      "num": 82762,
-      "word": "专家称甲流与新冠叠加几率很小",
-      "onboard_time": 1677517697,
-      "rank": 43,
+      "raw_hot": 82212,
+      "num": 82212,
+      "word": "7000种罕见病约半数发病于儿童期",
+      "onboard_time": 1677545130,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
