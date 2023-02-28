@@ -1,7 +1,23 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677594956084,
+  "endTime": 1677597625257,
   "band_list": [
+    {
+      "raw_hot": 21193818,
+      "num": 22443818,
+      "word": "成都震感",
+      "onboard_time": 1677596260,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20191550,
+      "num": 21441550,
+      "word": "泸定地震",
+      "onboard_time": 1677596443,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 8538395,
       "num": 8538395,
@@ -259,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1593007,
+      "num": 1593007,
+      "word": "DIOR",
+      "onboard_time": 1677593914,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1577982,
       "num": 1577982,
       "word": "建议消除对罪犯子女考公的限制",
@@ -427,6 +451,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1269326,
+      "num": 1269326,
+      "word": "丫丫食欲良好即将回国",
+      "onboard_time": 1677590911,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1236424,
       "num": 1236424,
       "word": "周杰伦海口演唱会",
@@ -451,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1217121,
-      "num": 1217121,
-      "word": "DIOR",
-      "onboard_time": 1677593914,
-      "rank": 3,
-      "category": "作品衍生,时尚"
+      "raw_hot": 1218054,
+      "num": 1218054,
+      "word": "女子别墅被老爸60万装出浓情复古风",
+      "onboard_time": 1677592532,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1216486,
@@ -481,14 +513,6 @@
       "onboard_time": 1677553347,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1158011,
-      "num": 1158011,
-      "word": "丫丫食欲良好即将回国",
-      "onboard_time": 1677590911,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1147874,
@@ -595,14 +619,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1021278,
-      "num": 1021278,
-      "word": "女子别墅被老爸60万装出浓情复古风",
-      "onboard_time": 1677592532,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 993531,
       "num": 993531,
       "word": "高叶曾出演鹿晗勋章的MV",
@@ -681,6 +697,14 @@
       "onboard_time": 1677488371,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 911300,
+      "num": 689843,
+      "word": "金智秀紫裙",
+      "onboard_time": 1677594573,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 905788,
@@ -907,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728023,
+      "num": 728023,
+      "word": "声生不息",
+      "onboard_time": 1677595113,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 725439,
       "num": 725439,
       "word": "台独辜宽敏病亡",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1677554248,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 587139,
-      "num": 587139,
-      "word": "金智秀紫裙",
-      "onboard_time": 1677594573,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 583543,
@@ -1353,6 +1377,14 @@
       "onboard_time": 1677405268,
       "rank": 12,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 509003,
+      "num": 509003,
+      "word": "一宿舍的军师都沉默了",
+      "onboard_time": 1677594333,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 508796,
@@ -1779,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406114,
+      "num": 406114,
+      "word": "那些曾经霸榜的小说",
+      "onboard_time": 1677596983,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 404735,
       "num": 404735,
       "word": "外国要租借大熊猫有多难",
@@ -1915,6 +1955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 383118,
+      "num": 383118,
+      "word": "HYBE新男团BOYNEXTDOOR",
+      "onboard_time": 1677597222,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382601,
       "num": 382601,
       "word": "3岁萌娃帮看店遇男子买卫生巾",
@@ -2033,6 +2081,14 @@
       "onboard_time": 1677562410,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355170,
+      "num": 355170,
+      "word": "罪犯子女考公限制应该消除吗",
+      "onboard_time": 1677595534,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 350599,
@@ -2323,6 +2379,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 309794,
+      "num": 309794,
+      "word": "一种很新的支付方式",
+      "onboard_time": 1677595232,
+      "rank": 23,
+      "category": "幽默,科技"
+    },
+    {
       "raw_hot": 309422,
       "num": 309422,
       "word": "iPhone15ProMax或半斤重",
@@ -2361,6 +2425,14 @@
       "onboard_time": 1677491130,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 302530,
+      "num": 302530,
+      "word": "海空卫士王伟烈士父亲去世",
+      "onboard_time": 1677595293,
+      "rank": 28,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 300209,
@@ -2512,6 +2584,14 @@
       "word": "星落凝成糖",
       "onboard_time": 1677591451,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 284392,
+      "num": 284392,
+      "word": "流浪地球2成2月票房冠军",
+      "onboard_time": 1677595293,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -3131,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199642,
+      "num": 199642,
+      "word": "徐志胜安利女士的品格",
+      "onboard_time": 1677596863,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198495,
       "num": 198495,
       "word": "OMG战胜iG",
@@ -3435,14 +3523,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 182416,
-      "num": 182416,
-      "word": "一宿舍的军师都沉默了",
-      "onboard_time": 1677594333,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182336,
       "num": 182336,
       "word": "于正今年要上三部剧",
@@ -3569,6 +3649,14 @@
       "onboard_time": 1677424529,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162187,
+      "num": 162187,
+      "word": "2023年CBA全明星阵容",
+      "onboard_time": 1677594634,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 161102,
@@ -4011,6 +4099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120528,
+      "num": 120528,
+      "word": "特斯拉潮州事故鉴定结果已出",
+      "onboard_time": 1677597458,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120335,
       "num": 120335,
       "word": "MWC2023",
@@ -4065,14 +4161,6 @@
       "onboard_time": 1677544348,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116877,
-      "num": 116877,
-      "word": "2023年CBA全明星阵容",
-      "onboard_time": 1677594634,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 115341,
@@ -4427,6 +4515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 75360,
+      "num": 5331941,
+      "word": "乡村振兴美好图景",
+      "onboard_time": 1677596564,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73389,
       "num": 73389,
       "word": "蔡徐坤爵士乐队版情人",
@@ -4576,6 +4672,9 @@
     },
     {
       "word": "#人民冷暖是总书记的时刻牵挂#"
+    },
+    {
+      "word": "#党的二十届二中全会公报#"
     }
   ]
 }

@@ -1,7 +1,23 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677594956084,
+  "endTime": 1677597625257,
   "band_list": [
+    {
+      "raw_hot": 21193818,
+      "num": 22443818,
+      "word": "成都震感",
+      "onboard_time": 1677596260,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20191550,
+      "num": 21441550,
+      "word": "泸定地震",
+      "onboard_time": 1677596443,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 13978759,
       "num": 13978759,
@@ -3723,6 +3739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1593007,
+      "num": 1593007,
+      "word": "DIOR",
+      "onboard_time": 1677593914,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1591855,
       "num": 1380217,
       "word": "香港名媛遭谋杀警方已拘捕3人",
@@ -5587,6 +5611,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1269326,
+      "num": 1269326,
+      "word": "丫丫食欲良好即将回国",
+      "onboard_time": 1677590911,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1268665,
       "num": 1268665,
       "word": "陈梦受伤梦龙退出混双",
@@ -6035,12 +6067,12 @@
       "category": "国外要闻,旅游"
     },
     {
-      "raw_hot": 1217121,
-      "num": 1217121,
-      "word": "DIOR",
-      "onboard_time": 1677593914,
-      "rank": 3,
-      "category": "作品衍生,时尚"
+      "raw_hot": 1218054,
+      "num": 1218054,
+      "word": "女子别墅被老爸60万装出浓情复古风",
+      "onboard_time": 1677592532,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1217065,
@@ -6648,14 +6680,6 @@
       "word": "中国首批缉毒松鼠即将上岗",
       "onboard_time": 1676081967,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1158011,
-      "num": 1158011,
-      "word": "丫丫食欲良好即将回国",
-      "onboard_time": 1677590911,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -8307,14 +8331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1021278,
-      "num": 1021278,
-      "word": "女子别墅被老爸60万装出浓情复古风",
-      "onboard_time": 1677592532,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1021214,
       "num": 1021214,
       "word": "张艺兴的刘海",
@@ -9953,6 +9969,14 @@
       "onboard_time": 1675943609,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 911300,
+      "num": 689843,
+      "word": "金智秀紫裙",
+      "onboard_time": 1677594573,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 910976,
@@ -13841,6 +13865,14 @@
       "onboard_time": 1677322650,
       "rank": 19,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 728023,
+      "num": 728023,
+      "word": "声生不息",
+      "onboard_time": 1677595113,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 727742,
@@ -18371,14 +18403,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 587139,
-      "num": 587139,
-      "word": "金智秀紫裙",
-      "onboard_time": 1677594573,
-      "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 587133,
       "num": 587133,
       "word": "乌克兰延长战时状态至5月",
@@ -21857,6 +21881,14 @@
       "onboard_time": 1676516487,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 509003,
+      "num": 509003,
+      "word": "一宿舍的军师都沉默了",
+      "onboard_time": 1677594333,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 508857,
@@ -27619,6 +27651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 406114,
+      "num": 406114,
+      "word": "那些曾经霸榜的小说",
+      "onboard_time": 1677596983,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 406072,
       "num": 406072,
       "word": "童瑶山楂糖雪球抹胸长裙",
@@ -29337,6 +29377,14 @@
       "onboard_time": 1675410989,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 383118,
+      "num": 383118,
+      "word": "HYBE新男团BOYNEXTDOOR",
+      "onboard_time": 1677597222,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 382991,
@@ -31353,6 +31401,14 @@
       "onboard_time": 1675486650,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355170,
+      "num": 355170,
+      "word": "罪犯子女考公限制应该消除吗",
+      "onboard_time": 1677595534,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 355163,
@@ -35099,6 +35155,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 309794,
+      "num": 309794,
+      "word": "一种很新的支付方式",
+      "onboard_time": 1677595232,
+      "rank": 23,
+      "category": "幽默,科技"
+    },
+    {
       "raw_hot": 309615,
       "num": 309615,
       "word": "14岁女孩用海姆立克法救被噎爸爸",
@@ -35753,6 +35817,14 @@
       "onboard_time": 1676350779,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302530,
+      "num": 302530,
+      "word": "海空卫士王伟烈士父亲去世",
+      "onboard_time": 1677595293,
+      "rank": 28,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 302507,
@@ -37649,6 +37721,14 @@
       "onboard_time": 1677380670,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284392,
+      "num": 284392,
+      "word": "流浪地球2成2月票房冠军",
+      "onboard_time": 1677595293,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 284277,
@@ -47795,6 +47875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199642,
+      "num": 199642,
+      "word": "徐志胜安利女士的品格",
+      "onboard_time": 1677596863,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199531,
       "num": 199531,
       "word": "你在求职中遇到过性别歧视吗",
@@ -51057,14 +51145,6 @@
       "onboard_time": 1675661189,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 182416,
-      "num": 182416,
-      "word": "一宿舍的军师都沉默了",
-      "onboard_time": 1677594333,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 182385,
@@ -54552,6 +54632,14 @@
       "word": "陈梦脚伤未愈退出女单半决赛",
       "onboard_time": 1677058233,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162187,
+      "num": 162187,
+      "word": "2023年CBA全明星阵容",
+      "onboard_time": 1677594634,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -59219,6 +59307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120528,
+      "num": 120528,
+      "word": "特斯拉潮州事故鉴定结果已出",
+      "onboard_time": 1677597458,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120458,
       "num": 120458,
       "word": "周深beatbox版祝你平安吹蜡烛",
@@ -59529,14 +59625,6 @@
       "onboard_time": 1677022286,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116877,
-      "num": 116877,
-      "word": "2023年CBA全明星阵容",
-      "onboard_time": 1677594634,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 116824,
@@ -61195,6 +61283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75360,
+      "num": 5331941,
+      "word": "乡村振兴美好图景",
+      "onboard_time": 1677596564,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75300,
       "num": 75300,
       "word": "诺丁汉森林1比1曼城",
@@ -62723,6 +62819,9 @@
     },
     {
       "word": "#人民冷暖是总书记的时刻牵挂#"
+    },
+    {
+      "word": "#党的二十届二中全会公报#"
     }
   ]
 }
