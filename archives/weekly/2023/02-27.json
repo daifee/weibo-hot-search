@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677626373717,
+  "endTime": 1677627237542,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1713353,
+      "num": 1713353,
+      "word": "周琦回应",
+      "onboard_time": 1677625519,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1710754,
       "num": 623398,
       "word": "郭富城方媛悼念蔡天凤",
@@ -403,6 +411,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1315579,
+      "num": 1315579,
+      "word": "罪犯子女考公限制应该消除吗",
+      "onboard_time": 1677595534,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1310313,
       "num": 731701,
       "word": "田柾国注销ins",
@@ -507,14 +523,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1186532,
-      "num": 1186532,
-      "word": "罪犯子女考公限制应该消除吗",
-      "onboard_time": 1677595534,
-      "rank": 20,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1182533,
       "num": 1182533,
       "word": "建议常见病不要去三级医院",
@@ -577,6 +585,14 @@
       "onboard_time": 1677477988,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1108887,
+      "num": 1108887,
+      "word": "退税",
+      "onboard_time": 1677625759,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 1100848,
@@ -763,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 882146,
-      "num": 882146,
-      "word": "周琦回应",
-      "onboard_time": 1677625519,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 870384,
       "num": 870384,
       "word": "江苏是早睡早起的省",
@@ -809,6 +817,14 @@
       "onboard_time": 1677569728,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 852499,
+      "num": 852499,
+      "word": "姚明 新疆男篮",
+      "onboard_time": 1677625939,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 851260,
@@ -1187,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 580412,
+      "num": 580412,
+      "word": "辽宁一轿车被大货车追尾压扁",
+      "onboard_time": 1677623715,
+      "rank": 49,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 580223,
       "num": 580223,
       "word": "周杰伦天津演唱会票价",
@@ -1321,14 +1345,6 @@
       "onboard_time": 1677574772,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 540844,
-      "num": 540844,
-      "word": "辽宁一轿车被大货车追尾压扁",
-      "onboard_time": 1677623715,
-      "rank": 49,
-      "category": "社会负面"
     },
     {
       "raw_hot": 537669,
@@ -1625,14 +1641,6 @@
       "onboard_time": 1677492030,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454818,
-      "num": 454818,
-      "word": "退税",
-      "onboard_time": 1677625759,
-      "rank": 6,
-      "category": "财经"
     },
     {
       "raw_hot": 452973,
@@ -2139,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353624,
+      "num": 353624,
+      "word": "新疆男篮将全部资产捐出",
+      "onboard_time": 1677626362,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350599,
       "num": 350599,
       "word": "Angelababy待播剧生日海报",
@@ -2185,6 +2201,14 @@
       "onboard_time": 1677416614,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 344656,
+      "num": 344656,
+      "word": "建议给3岁以下婴幼儿家庭发育儿补贴",
+      "onboard_time": 1677614711,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 343687,
@@ -2451,6 +2475,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 307070,
+      "num": 307070,
+      "word": "炒面涨到2元老板娘觉得不好意思",
+      "onboard_time": 1677607576,
+      "rank": 31,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 305776,
       "num": 305776,
       "word": "等一个言承旭徐若晗二搭",
@@ -2529,14 +2561,6 @@
       "onboard_time": 1677594512,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297072,
-      "num": 297072,
-      "word": "建议给3岁以下婴幼儿家庭发育儿补贴",
-      "onboard_time": 1677614711,
-      "rank": 12,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 296822,
@@ -2803,14 +2827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255639,
-      "num": 255639,
-      "word": "姚明 新疆男篮",
-      "onboard_time": 1677625939,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 255297,
       "num": 255297,
       "word": "吉利汽车回应银河之光涉嫌抄袭",
@@ -2849,14 +2865,6 @@
       "onboard_time": 1677555208,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247410,
-      "num": 247410,
-      "word": "炒面涨到2元老板娘觉得不好意思",
-      "onboard_time": 1677607576,
-      "rank": 31,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 246699,
@@ -3299,6 +3307,22 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 202432,
+      "num": 202432,
+      "word": "三月第一天",
+      "onboard_time": 1677626061,
+      "rank": 22,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 202321,
+      "num": 202321,
+      "word": "何佳蓉",
+      "onboard_time": 1677626542,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202018,
       "num": 202018,
       "word": "三月",
@@ -3633,14 +3657,6 @@
       "onboard_time": 1677582809,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185589,
-      "num": 185589,
-      "word": "三月第一天",
-      "onboard_time": 1677626061,
-      "rank": 22,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 185444,
@@ -4411,6 +4427,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 110825,
+      "num": 110825,
+      "word": "美丽的他第二季",
+      "onboard_time": 1677626782,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 110659,
       "num": 110659,
       "word": "斯基普世界波",
@@ -4603,6 +4627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 90939,
+      "num": 90939,
+      "word": "睢冉",
+      "onboard_time": 1677626903,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87682,
       "num": 87682,
       "word": "AG版狂飙",
@@ -4760,14 +4792,6 @@
       "word": "羽生结弦冰演感言",
       "onboard_time": 1677430879,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 52083,
-      "num": 52083,
-      "word": "新疆男篮将全部资产捐出",
-      "onboard_time": 1677626362,
-      "rank": 46,
       "category": "体育"
     },
     {
