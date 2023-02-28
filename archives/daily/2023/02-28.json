@@ -1,7 +1,15 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677559154925,
+  "endTime": 1677561520564,
   "band_list": [
+    {
+      "raw_hot": 8538395,
+      "num": 8538395,
+      "word": "吴秀波儿子 家暴",
+      "onboard_time": 1677560434,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 2364822,
       "num": 2364822,
@@ -51,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1523766,
+      "num": 1523766,
+      "word": "丫丫身体状况评估完毕",
+      "onboard_time": 1677556109,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1503263,
       "num": 1503263,
       "word": "张译狂飙热播后首露面",
       "onboard_time": 1677552027,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1387669,
-      "num": 1387669,
-      "word": "丫丫身体状况评估完毕",
-      "onboard_time": 1677556109,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1236424,
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 596576,
+      "num": 596576,
+      "word": "郑州将降低小学入学年龄",
+      "onboard_time": 1677557911,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 587559,
       "num": 587559,
       "word": "建议实行6岁以下儿童免费医疗",
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545287,
+      "num": 545287,
+      "word": "疱疹病毒一旦感染终身携带",
+      "onboard_time": 1677552629,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534389,
       "num": 534389,
       "word": "此轮甲流为何这么严重",
@@ -273,6 +297,14 @@
       "onboard_time": 1677553287,
       "rank": 18,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 514838,
+      "num": 514838,
+      "word": "梅西第一票投给内马尔",
+      "onboard_time": 1677559597,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 508796,
@@ -315,20 +347,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 476503,
+      "num": 476503,
+      "word": "BBC将播出喜多川纪录片",
+      "onboard_time": 1677557430,
+      "rank": 30,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 475110,
       "num": 475110,
       "word": "成都警方通报越野车追撞轿车",
       "onboard_time": 1677550947,
       "rank": 19,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 467314,
-      "num": 467314,
-      "word": "疱疹病毒一旦感染终身携带",
-      "onboard_time": 1677552629,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 466787,
@@ -379,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 440083,
-      "num": 440083,
-      "word": "BBC将播出喜多川纪录片",
-      "onboard_time": 1677557430,
-      "rank": 30,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 429195,
       "num": 429195,
       "word": "男孩爱吃水饺家长包了33天直接崩溃",
@@ -419,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 400754,
+      "num": 400754,
+      "word": "刘亦菲春日繁花大片",
+      "onboard_time": 1677560434,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 395805,
       "num": 395805,
       "word": "手机沉迷催生乡村新问题少年",
@@ -443,20 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 382298,
-      "num": 382298,
-      "word": "郑州将降低小学入学年龄",
-      "onboard_time": 1677557911,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 368832,
       "num": 160332,
       "word": "甲流",
       "onboard_time": 1677511529,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367473,
+      "num": 367473,
+      "word": "张婧仪花环造型",
+      "onboard_time": 1677559656,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 360751,
@@ -497,6 +529,14 @@
       "onboard_time": 1677551546,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320472,
+      "num": 320472,
+      "word": "杨幂费加罗男士三月刊封面",
+      "onboard_time": 1677560794,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 312312,
@@ -603,6 +643,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 241876,
+      "num": 241876,
+      "word": "柯南角色全家福海报",
+      "onboard_time": 1677560198,
+      "rank": 33,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 240215,
       "num": 240215,
       "word": "马斯克重返全球首富宝座",
@@ -659,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214948,
+      "num": 214948,
+      "word": "超20省市执行公积金付首付新政",
+      "onboard_time": 1677552871,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 213208,
       "num": 213208,
       "word": "张兰膝盖伤",
@@ -667,12 +723,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212589,
-      "num": 212589,
-      "word": "超20省市执行公积金付首付新政",
-      "onboard_time": 1677552871,
-      "rank": 44,
-      "category": "财经,社会新闻"
+      "raw_hot": 208281,
+      "num": 208281,
+      "word": "景甜回归半熟恋人2",
+      "onboard_time": 1677560136,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 205959,
@@ -696,6 +752,14 @@
       "word": "2月最后一天",
       "onboard_time": 1677539601,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195462,
+      "num": 195462,
+      "word": "建议保障劳动者休息权",
+      "onboard_time": 1677559897,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -801,6 +865,14 @@
       "onboard_time": 1677548369,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155221,
+      "num": 155221,
+      "word": "小伙相亲吃光18笼汤包让女生买单",
+      "onboard_time": 1677561392,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153721,
