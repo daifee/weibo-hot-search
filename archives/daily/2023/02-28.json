@@ -1,6 +1,6 @@
 {
   "startTime": 1677515271709,
-  "endTime": 1677589021156,
+  "endTime": 1677590898647,
   "band_list": [
     {
       "raw_hot": 8538395,
@@ -9,6 +9,14 @@
       "onboard_time": 1677560434,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2866827,
+      "num": 2866827,
+      "word": "白夜追凶2",
+      "onboard_time": 1677588088,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2721001,
@@ -35,20 +43,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 2170380,
-      "num": 2170380,
-      "word": "白夜追凶2",
-      "onboard_time": 1677588088,
-      "rank": 0,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1935044,
       "num": 1935044,
       "word": "80后丁克夫妻回应存300万提前退休",
       "onboard_time": 1677553528,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1868036,
+      "num": 1868036,
+      "word": "黄婷婷回应",
+      "onboard_time": 1677589471,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1820954,
@@ -251,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1026323,
+      "num": 1026323,
+      "word": "余生请多指教",
+      "onboard_time": 1677586590,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 993531,
       "num": 993531,
       "word": "高叶曾出演鹿晗勋章的MV",
@@ -267,16 +283,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 983615,
-      "num": 983615,
-      "word": "余生请多指教",
-      "onboard_time": 1677586590,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 974947,
-      "num": 482308,
+      "num": 635408,
       "word": "王源胡子",
       "onboard_time": 1677587671,
       "rank": 12,
@@ -337,6 +345,14 @@
       "onboard_time": 1677569728,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 838537,
+      "num": 838537,
+      "word": "明天起个税将再次多退少补",
+      "onboard_time": 1677588749,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 829024,
@@ -459,6 +475,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 600532,
+      "num": 600532,
+      "word": "建议生育登记取消结婚限制",
+      "onboard_time": 1677589650,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 598801,
       "num": 598801,
       "word": "大侦探芒城之风云再起剧照",
@@ -481,6 +505,14 @@
       "onboard_time": 1677572791,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 579561,
+      "num": 579561,
+      "word": "朴敏赫退队",
+      "onboard_time": 1677590071,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 579454,
@@ -745,6 +777,14 @@
       "onboard_time": 1677587129,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 433414,
+      "num": 433414,
+      "word": "丁真和邓亚萍一起走红毯",
+      "onboard_time": 1677589831,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 430395,
@@ -1147,11 +1187,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 262864,
+      "num": 250526,
+      "word": "没有情救妻破产",
+      "onboard_time": 1677590852,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260815,
       "num": 260815,
       "word": "杨颖晒剧组过生日合照",
       "onboard_time": 1677570148,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 260665,
+      "num": 250213,
+      "word": "星落凝成糖登顶猫眼剧集热度榜",
+      "onboard_time": 1677589110,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1339,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207189,
+      "num": 263968,
+      "word": "洗烘一体是真香还是鸡肋",
+      "onboard_time": 1677588031,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 206728,
       "num": 206728,
       "word": "微博年度人物推荐",
@@ -1425,14 +1489,6 @@
       "onboard_time": 1677559897,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193058,
-      "num": 215014,
-      "word": "洗烘一体是真香还是鸡肋",
-      "onboard_time": 1677588031,
-      "rank": 29,
-      "category": "科技"
     },
     {
       "raw_hot": 192482,
@@ -1595,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159735,
+      "num": 159735,
+      "word": "章子怡晒巴黎时装周随拍",
+      "onboard_time": 1677590731,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159631,
       "num": 159631,
       "word": "第16个国际罕见病日",
@@ -1691,12 +1755,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 147803,
-      "num": 147803,
-      "word": "明天起个税将再次多退少补",
-      "onboard_time": 1677588749,
-      "rank": 46,
-      "category": "财经,社会新闻"
+      "raw_hot": 145501,
+      "num": 145501,
+      "word": "TES战胜WE",
+      "onboard_time": 1677589350,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 144739,

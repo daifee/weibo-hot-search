@@ -1,6 +1,6 @@
 {
   "startTime": 1675182373463,
-  "endTime": 1677589021156,
+  "endTime": 1677590898647,
   "band_list": [
     {
       "raw_hot": 13978759,
@@ -817,6 +817,14 @@
       "onboard_time": 1676942906,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2866827,
+      "num": 2866827,
+      "word": "白夜追凶2",
+      "onboard_time": 1677588088,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2857236,
@@ -1811,14 +1819,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 2170380,
-      "num": 2170380,
-      "word": "白夜追凶2",
-      "onboard_time": 1677588088,
-      "rank": 0,
-      "category": "影视"
-    },
-    {
       "raw_hot": 2163507,
       "num": 2163507,
       "word": "新郎回应结婚当天前女友组团拉横幅",
@@ -2545,6 +2545,14 @@
       "onboard_time": 1676175449,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1868036,
+      "num": 1868036,
+      "word": "黄婷婷回应",
+      "onboard_time": 1677589471,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1866142,
@@ -8163,6 +8171,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 1026323,
+      "num": 1026323,
+      "word": "余生请多指教",
+      "onboard_time": 1677586590,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1025629,
       "num": 1025629,
       "word": "李一桐郭晓婷不到90斤",
@@ -8707,14 +8723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 983615,
-      "num": 983615,
-      "word": "余生请多指教",
-      "onboard_time": 1677586590,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 983382,
       "num": 983382,
       "word": "四省联考",
@@ -8876,7 +8884,7 @@
     },
     {
       "raw_hot": 974947,
-      "num": 482308,
+      "num": 635408,
       "word": "王源胡子",
       "onboard_time": 1677587671,
       "rank": 12,
@@ -11145,6 +11153,14 @@
       "onboard_time": 1676870850,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 838537,
+      "num": 838537,
+      "word": "明天起个税将再次多退少补",
+      "onboard_time": 1677588749,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 837547,
@@ -17819,6 +17835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 600532,
+      "num": 600532,
+      "word": "建议生育登记取消结婚限制",
+      "onboard_time": 1677589650,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 600016,
       "num": 600016,
       "word": "张颂文给李健上过课",
@@ -18641,6 +18665,14 @@
       "onboard_time": 1677321328,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 579561,
+      "num": 579561,
+      "word": "朴敏赫退队",
+      "onboard_time": 1677590071,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 579462,
@@ -25729,6 +25761,14 @@
       "onboard_time": 1676559033,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433414,
+      "num": 433414,
+      "word": "丁真和邓亚萍一起走红毯",
+      "onboard_time": 1677589831,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 433405,
@@ -39947,6 +39987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262864,
+      "num": 250526,
+      "word": "没有情救妻破产",
+      "onboard_time": 1677590852,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262859,
       "num": 262859,
       "word": "博主奶油日记为博眼球谎称下海被查",
@@ -40193,6 +40241,14 @@
       "onboard_time": 1675736066,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260665,
+      "num": 250213,
+      "word": "星落凝成糖登顶猫眼剧集热度榜",
+      "onboard_time": 1677589110,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 260595,
@@ -46427,6 +46483,14 @@
       "category": "科技,情感"
     },
     {
+      "raw_hot": 207189,
+      "num": 263968,
+      "word": "洗烘一体是真香还是鸡肋",
+      "onboard_time": 1677588031,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 207132,
       "num": 207132,
       "word": "你会二刷显微镜下的大明吗",
@@ -48777,14 +48841,6 @@
       "onboard_time": 1677122248,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193058,
-      "num": 215014,
-      "word": "洗烘一体是真香还是鸡肋",
-      "onboard_time": 1677588031,
-      "rank": 29,
-      "category": "科技"
     },
     {
       "raw_hot": 193053,
@@ -54723,6 +54779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159735,
+      "num": 159735,
+      "word": "章子怡晒巴黎时装周随拍",
+      "onboard_time": 1677590731,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159728,
       "num": 159728,
       "word": "卢歌把戒指留在地上",
@@ -56387,14 +56451,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 147803,
-      "num": 147803,
-      "word": "明天起个税将再次多退少补",
-      "onboard_time": 1677588749,
-      "rank": 46,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 147589,
       "num": 147589,
       "word": "铃铛守约致命一击",
@@ -56569,6 +56625,14 @@
       "onboard_time": 1677237629,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145501,
+      "num": 145501,
+      "word": "TES战胜WE",
+      "onboard_time": 1677589350,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 145486,
