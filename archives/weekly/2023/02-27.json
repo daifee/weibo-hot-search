@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677692162169,
+  "endTime": 1677695079699,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -6451,6 +6451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87552,
+      "num": 67403,
+      "word": "看得出外公已经尽力了",
+      "onboard_time": 1677693194,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86823,
       "num": 86823,
       "word": "怎样做才是真正的爱自己",
@@ -6544,6 +6552,14 @@
       "word": "乡村振兴美好图景",
       "onboard_time": 1677596564,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76193,
+      "num": 40195,
+      "word": "秘鲁男子将木乃伊当女友每天同睡",
+      "onboard_time": 1677691456,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -6713,14 +6729,6 @@
       "onboard_time": 1677654027,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 31080,
-      "num": 31080,
-      "word": "秘鲁男子将木乃伊当女友每天同睡",
-      "onboard_time": 1677691456,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30251,
