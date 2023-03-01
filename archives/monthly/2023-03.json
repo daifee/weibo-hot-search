@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677669416115,
+  "endTime": 1677670439550,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -235,12 +235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 928046,
+      "num": 420003,
+      "word": "爱奇艺回应2月充会员只能用28天",
+      "onboard_time": 1677668188,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 927503,
       "num": 927503,
       "word": "妇联回应吴秀波儿子被指家暴",
       "onboard_time": 1677633451,
       "rank": 5,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 901263,
+      "num": 901263,
+      "word": "颖儿探班任嘉伦",
+      "onboard_time": 1677669869,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 869362,
@@ -281,14 +297,6 @@
       "onboard_time": 1677588088,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 763358,
-      "num": 420003,
-      "word": "爱奇艺回应2月充会员只能用28天",
-      "onboard_time": 1677668188,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 758844,
@@ -521,6 +529,14 @@
       "onboard_time": 1677647731,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 597719,
+      "num": 597719,
+      "word": "杜海涛说想和沈梦辰生两到三个孩子",
+      "onboard_time": 1677669689,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 580412,
@@ -921,6 +937,14 @@
       "onboard_time": 1677595113,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321926,
+      "num": 321926,
+      "word": "丫丫回国后将进行检疫隔离",
+      "onboard_time": 1677669809,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318840,
@@ -1331,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206095,
+      "num": 170998,
+      "word": "谢娜做小奶球饼干vlog",
+      "onboard_time": 1677669989,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206078,
       "num": 206078,
       "word": "新疆男篮",
@@ -1515,6 +1547,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 180143,
+      "num": 180143,
+      "word": "最好嗑的年龄差cp",
+      "onboard_time": 1677668068,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177242,
       "num": 177242,
       "word": "HYBE新男团BOYNEXTDOOR",
@@ -1593,14 +1633,6 @@
       "onboard_time": 1677595232,
       "rank": 29,
       "category": "幽默,科技"
-    },
-    {
-      "raw_hot": 165932,
-      "num": 165932,
-      "word": "最好嗑的年龄差cp",
-      "onboard_time": 1677668068,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 161686,
@@ -1689,6 +1721,14 @@
       "onboard_time": 1677591033,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142936,
+      "num": 142936,
+      "word": "见过最让人窒息的家长",
+      "onboard_time": 1677669567,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 141389,
@@ -1905,6 +1945,14 @@
       "onboard_time": 1677665967,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80147,
+      "num": 80147,
+      "word": "鹿晗五哈橘色连帽卫衣路透",
+      "onboard_time": 1677670228,
+      "rank": 48,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 79845,

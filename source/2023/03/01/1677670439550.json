@@ -1,0 +1,410 @@
+{
+  "runTime": 1677670439550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 991099,
+        "num": 991099,
+        "word": "建议引导大学生入职高素质农民队伍",
+        "onboard_time": 1677663149,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901263,
+        "num": 901263,
+        "word": "颖儿探班任嘉伦",
+        "onboard_time": 1677669869,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91206,
+        "num": 825037,
+        "word": "中国基建太牛了",
+        "onboard_time": 1677657088,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807330,
+        "num": 807330,
+        "word": "建议每周单休月末连休5天",
+        "onboard_time": 1677653067,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 639231,
+        "num": 639231,
+        "word": "王一博祝福周艺轩陈梦瑶",
+        "onboard_time": 1677666028,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597719,
+        "num": 597719,
+        "word": "杜海涛说想和沈梦辰生两到三个孩子",
+        "onboard_time": 1677669689,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574662,
+        "num": 574662,
+        "word": "肖战意大利游玩plog",
+        "onboard_time": 1677664288,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477396,
+        "num": 477396,
+        "word": "1.89亿天价拍卖后万辆新车被报废",
+        "onboard_time": 1677659670,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466344,
+        "num": 466344,
+        "word": "国考",
+        "onboard_time": 1677656247,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 409993,
+        "num": 409993,
+        "word": "干将莫邪画中仙皮肤",
+        "onboard_time": 1677664048,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1033174,
+        "num": 409067,
+        "word": "姚明回应新疆男篮退出CBA",
+        "onboard_time": 1677666688,
+        "rank": 10,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 928046,
+        "num": 403640,
+        "word": "爱奇艺回应2月充会员只能用28天",
+        "onboard_time": 1677668188,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 447279,
+        "num": 397735,
+        "word": "陆虎 抢票",
+        "onboard_time": 1677653126,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 383115,
+        "num": 383115,
+        "word": "瓦妮莎与洛杉矶政府和解获赔近2亿元",
+        "onboard_time": 1677663987,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 366037,
+        "num": 366037,
+        "word": "周杰伦 抢票",
+        "onboard_time": 1677656126,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 366024,
+        "num": 366024,
+        "word": "大学生送5年外卖还清40万外债",
+        "onboard_time": 1677662069,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321926,
+        "num": 321926,
+        "word": "丫丫回国后将进行检疫隔离",
+        "onboard_time": 1677669809,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294323,
+        "num": 294323,
+        "word": "熊猫七七",
+        "onboard_time": 1677662849,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287052,
+        "num": 287052,
+        "word": "建议元宵节放假1天",
+        "onboard_time": 1677661948,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 255068,
+        "num": 255068,
+        "word": "上海野生动物园多次抽查发现问题",
+        "onboard_time": 1677660389,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501629,
+        "num": 252426,
+        "word": "全红婵长成大女孩了",
+        "onboard_time": 1677658949,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238665,
+        "num": 238665,
+        "word": "动物园发布丫丫最新照片",
+        "onboard_time": 1677654628,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229151,
+        "num": 229151,
+        "word": "爱奇艺新专利可在弹幕中展示广告",
+        "onboard_time": 1677663509,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 219031,
+        "num": 219031,
+        "word": "2023全年实际放假10天",
+        "onboard_time": 1677648568,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218346,
+        "num": 218346,
+        "word": "张译呼吁丰富无障碍影视作品",
+        "onboard_time": 1677668068,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215061,
+        "num": 215061,
+        "word": "世上再没有辣目没有情和闻人了",
+        "onboard_time": 1677664948,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203601,
+        "num": 203601,
+        "word": "向太暂停直播的原因",
+        "onboard_time": 1677661648,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191689,
+        "num": 191689,
+        "word": "赵丽颖和素人合照",
+        "onboard_time": 1677654628,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180143,
+        "num": 180143,
+        "word": "最好嗑的年龄差cp",
+        "onboard_time": 1677668068,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173034,
+        "num": 173034,
+        "word": "还不会退税的有福了",
+        "onboard_time": 1677655288,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206095,
+        "num": 170998,
+        "word": "谢娜做小奶球饼干vlog",
+        "onboard_time": 1677669989,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197749,
+        "num": 170787,
+        "word": "敏感人群的辛苦谁懂啊",
+        "onboard_time": 1677669206,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 167131,
+        "num": 167131,
+        "word": "法国球星方丹去世",
+        "onboard_time": 1677666089,
+        "rank": 32,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 160491,
+        "num": 160491,
+        "word": "三月头像",
+        "onboard_time": 1677649767,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149741,
+        "num": 149741,
+        "word": "国考3月上中旬出分",
+        "onboard_time": 1677660569,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 143903,
+        "num": 143903,
+        "word": "2023五一档电影增至五部",
+        "onboard_time": 1677662189,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142936,
+        "num": 142936,
+        "word": "见过最让人窒息的家长",
+        "onboard_time": 1677669567,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 140799,
+        "num": 140799,
+        "word": "三甲医院有位患者叫熊猫是真熊猫",
+        "onboard_time": 1677643769,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133864,
+        "num": 133864,
+        "word": "全球近60只大熊猫旅居海外",
+        "onboard_time": 1677662790,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121889,
+        "num": 121889,
+        "word": "双休真的可以干好多事",
+        "onboard_time": 1677645453,
+        "rank": 39,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 108676,
+        "num": 108676,
+        "word": "玄商神君回归",
+        "onboard_time": 1677660749,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107960,
+        "num": 107960,
+        "word": "张若昀刘昊然合体录制大侦探",
+        "onboard_time": 1677662370,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92888,
+        "num": 92888,
+        "word": "年薪30万大厂女生回应转行卖快餐",
+        "onboard_time": 1677644311,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91885,
+        "num": 91885,
+        "word": "孙怡的直角肩",
+        "onboard_time": 1677655348,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91238,
+        "num": 91238,
+        "word": "快乐再出发2收官演唱会阵容",
+        "onboard_time": 1677662189,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88705,
+        "num": 88705,
+        "word": "重紫第三世叫逆紫",
+        "onboard_time": 1677663028,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85611,
+        "num": 85611,
+        "word": "狗狗的cpu都被干烧了",
+        "onboard_time": 1677653788,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84085,
+        "num": 84085,
+        "word": "特斯拉",
+        "onboard_time": 1677645393,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 80147,
+        "num": 80147,
+        "word": "鹿晗五哈橘色连帽卫衣路透",
+        "onboard_time": 1677670228,
+        "rank": 48,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 79229,
+        "num": 79229,
+        "word": "王鸥大侦探水晶发箍造型",
+        "onboard_time": 1677661110,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#两会好声音#"
+    }
+  }
+}
