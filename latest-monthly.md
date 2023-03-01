@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/03/01 00:27:31 ~ 2023/03/02 01:18:28
+本榜单时间：2023/03/01 00:27:31 ~ 2023/03/02 01:36:02
 </p>
 </blockquote>
 <p>
@@ -1899,8 +1899,20 @@ HYBE新男团BOYNEXTDOOR（热度：177242）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%98%E9%B2%81%E7%94%B7%E5%AD%90%E5%B0%86%E6%9C%A8%E4%B9%83%E4%BC%8A%E5%BD%93%E5%A5%B3%E5%8F%8B%E6%AF%8F%E5%A4%A9%E5%90%8C%E7%9D%A1%23" target="weibo">
+秘鲁男子将木乃伊当女友每天同睡（热度：31080）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%AE%9A%E5%8F%91%E7%94%9F4.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 四川泸定发生4.8级地震（热度：30219）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%E8%AF%84%E4%BC%B0%E5%AE%8C%E6%AF%95%23" target="weibo">
+丫丫身体状况评估完毕（热度：24561）
 </a>
 </li>
 

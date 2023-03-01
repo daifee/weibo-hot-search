@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677691108328,
+  "endTime": 1677692162169,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -6713,6 +6713,14 @@
       "onboard_time": 1677654027,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 31080,
+      "num": 31080,
+      "word": "秘鲁男子将木乃伊当女友每天同睡",
+      "onboard_time": 1677691456,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30251,
