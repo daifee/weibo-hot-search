@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677675467478,
+  "endTime": 1677677308869,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1180512,
+      "num": 1180512,
+      "word": "刘亚仁",
+      "onboard_time": 1677676230,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1161382,
       "num": 1161382,
       "word": "王勉接机把鹿晗写成鹿女士",
@@ -768,6 +776,14 @@
       "word": "动物园发布丫丫最新照片",
       "onboard_time": 1677654628,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1092331,
+      "num": 1092331,
+      "word": "董明珠建议统一五险一金标准",
+      "onboard_time": 1677671848,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -929,14 +945,6 @@
       "onboard_time": 1677480689,
       "rank": 10,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 935559,
-      "num": 935559,
-      "word": "董明珠建议统一五险一金标准",
-      "onboard_time": 1677671848,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 932170,
@@ -1299,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 724929,
+      "num": 724929,
+      "word": "张颂文感谢网友画的高启强",
+      "onboard_time": 1677672809,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 724650,
       "num": 724650,
       "word": "iPhone15ProMax与14ProMax对比",
@@ -1427,6 +1443,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 678795,
+      "num": 678795,
+      "word": "宋茜路演现场因雪莉落泪",
+      "onboard_time": 1677675990,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 676298,
       "num": 676298,
       "word": "郑州将降低小学入学年龄",
@@ -1465,14 +1489,6 @@
       "onboard_time": 1677635910,
       "rank": 6,
       "category": "网红"
-    },
-    {
-      "raw_hot": 670188,
-      "num": 670188,
-      "word": "张颂文感谢网友画的高启强",
-      "onboard_time": 1677672809,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 670118,
@@ -2209,6 +2225,14 @@
       "onboard_time": 1677457348,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471366,
+      "num": 471366,
+      "word": "动物园称未收到丫丫提早回国消息",
+      "onboard_time": 1677676650,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466787,
@@ -3241,6 +3265,14 @@
       "onboard_time": 1677477450,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 317426,
+      "num": 317426,
+      "word": "鬼灭之刃第三季正式预告",
+      "onboard_time": 1677675569,
+      "rank": 22,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 316718,
@@ -4995,6 +5027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184277,
+      "num": 184277,
+      "word": "WBG战胜LGD",
+      "onboard_time": 1677675270,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184162,
       "num": 184162,
       "word": "教育如何应对人口之变",
@@ -5473,14 +5513,6 @@
       "onboard_time": 1677546810,
       "rank": 31,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 148327,
-      "num": 148327,
-      "word": "WBG战胜LGD",
-      "onboard_time": 1677675270,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 147826,
@@ -6323,6 +6355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62240,
+      "num": 413372,
+      "word": "薇姿洗发水",
+      "onboard_time": 1677675632,
+      "rank": 14,
+      "category": "其它"
+    },
+    {
       "raw_hot": 60372,
       "num": 1449599,
       "word": "无人机看五彩春耕画卷",
@@ -6433,6 +6473,14 @@
       "onboard_time": 1677583231,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 14039,
+      "num": 1108986,
+      "word": "春日里的花海列车",
+      "onboard_time": 1677677069,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -6474,6 +6522,9 @@
     },
     {
       "word": "#推进中国式现代化关键在党#"
+    },
+    {
+      "word": "#聚焦2023年全国两会#"
     }
   ]
 }
