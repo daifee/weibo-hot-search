@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677695079699,
+  "endTime": 1677695994843,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -6059,6 +6059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118109,
+      "num": 67403,
+      "word": "看得出外公已经尽力了",
+      "onboard_time": 1677693194,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117243,
       "num": 117243,
       "word": "勇士战胜开拓者",
@@ -6451,14 +6459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 87552,
-      "num": 67403,
-      "word": "看得出外公已经尽力了",
-      "onboard_time": 1677693194,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 86823,
       "num": 86823,
       "word": "怎样做才是真正的爱自己",
@@ -6769,6 +6769,14 @@
       "onboard_time": 1677583231,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 13312,
+      "num": 13312,
+      "word": "浙江女子追到广州找到被偷的爱猫",
+      "onboard_time": 1677695953,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677695079699,
+  "endTime": 1677695994843,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -2235,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118109,
+      "num": 67403,
+      "word": "看得出外公已经尽力了",
+      "onboard_time": 1677693194,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117243,
       "num": 117243,
       "word": "勇士战胜开拓者",
@@ -2369,14 +2377,6 @@
       "onboard_time": 1677572791,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 87552,
-      "num": 67403,
-      "word": "看得出外公已经尽力了",
-      "onboard_time": 1677693194,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 83596,
@@ -2524,7 +2524,7 @@
     },
     {
       "raw_hot": 32058,
-      "num": 32058,
+      "num": 32102,
       "word": "微博年度人物推荐",
       "onboard_time": 1677575251,
       "rank": 29,
@@ -2577,6 +2577,14 @@
       "onboard_time": 1677583231,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 13312,
+      "num": 13312,
+      "word": "浙江女子追到广州找到被偷的爱猫",
+      "onboard_time": 1677695953,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
