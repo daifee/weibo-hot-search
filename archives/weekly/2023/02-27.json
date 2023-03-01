@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677651976454,
+  "endTime": 1677652861548,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -603,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1157560,
+      "num": 1157560,
+      "word": "2023全年实际放假10天",
+      "onboard_time": 1677648568,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1147874,
       "num": 1147874,
       "word": "奶嗝文学",
@@ -648,14 +656,6 @@
       "word": "旅美大熊猫丫丫要回来了",
       "onboard_time": 1677565587,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1115218,
-      "num": 1115218,
-      "word": "2023全年实际放假10天",
-      "onboard_time": 1677648568,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -883,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 869362,
+      "num": 869362,
+      "word": "周艺轩求婚前一天故意激怒陈梦瑶",
+      "onboard_time": 1677650908,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 868324,
       "num": 868324,
       "word": "安陵容316岁了",
@@ -1052,7 +1060,7 @@
     },
     {
       "raw_hot": 745866,
-      "num": 544686,
+      "num": 554372,
       "word": "肖战上了意大利canale5频道",
       "onboard_time": 1677649647,
       "rank": 10,
@@ -1219,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 681846,
+      "num": 681846,
+      "word": "于正说欢娱只有学霸没有文盲",
+      "onboard_time": 1677650187,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 679752,
       "num": 603378,
       "word": "普京说世界必须改变",
@@ -1339,12 +1355,12 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 633990,
-      "num": 633990,
-      "word": "于正说欢娱只有学霸没有文盲",
-      "onboard_time": 1677650187,
+      "raw_hot": 638528,
+      "num": 638528,
+      "word": "毛不易演唱会门票",
+      "onboard_time": 1677480087,
       "rank": 7,
-      "category": "艺人"
+      "category": "音乐"
     },
     {
       "raw_hot": 619068,
@@ -1425,6 +1441,14 @@
       "onboard_time": 1677647731,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 590650,
+      "num": 590650,
+      "word": "女孩当街抓头发暴打三轮车阿姨",
+      "onboard_time": 1677650247,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 587559,
@@ -1675,14 +1699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 527207,
-      "num": 527207,
-      "word": "周艺轩求婚前一天故意激怒陈梦瑶",
-      "onboard_time": 1677650908,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 527202,
       "num": 527202,
       "word": "SuperJunior将推出沙特旅行综艺神灯的骑士",
@@ -1857,22 +1873,6 @@
       "onboard_time": 1677555868,
       "rank": 13,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 491817,
-      "num": 491817,
-      "word": "女孩当街抓头发暴打三轮车阿姨",
-      "onboard_time": 1677650247,
-      "rank": 12,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 491810,
-      "num": 491810,
-      "word": "毛不易演唱会门票",
-      "onboard_time": 1677480087,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 490744,
@@ -2747,6 +2747,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 339437,
+      "num": 339437,
+      "word": "Doinb直播送火箭",
+      "onboard_time": 1677648269,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 338281,
       "num": 338281,
       "word": "EXO粉丝见面会海报公开",
@@ -2841,14 +2849,6 @@
       "onboard_time": 1677568046,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 327419,
-      "num": 327419,
-      "word": "Doinb直播送火箭",
-      "onboard_time": 1677648269,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 326621,
@@ -3289,6 +3289,14 @@
       "onboard_time": 1677552328,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 273891,
+      "num": 273891,
+      "word": "姜潮吃烤板栗被崩到嘴",
+      "onboard_time": 1677652466,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 273590,
@@ -3827,6 +3835,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 210503,
+      "num": 210503,
+      "word": "当情书被公开复诵",
+      "onboard_time": 1677650306,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209736,
       "num": 209736,
       "word": "解放军军机强硬拦截美军机",
@@ -4011,6 +4027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202960,
+      "num": 202960,
+      "word": "动物园回应三甲医院熊猫患者",
+      "onboard_time": 1677652228,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202587,
       "num": 202587,
       "word": "三月你好",
@@ -4187,6 +4211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194462,
+      "num": 194462,
+      "word": "张婧仪长沙夜生活花絮",
+      "onboard_time": 1677652587,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194120,
       "num": 194120,
       "word": "马赛0比3巴黎圣日耳曼",
@@ -4217,14 +4249,6 @@
       "onboard_time": 1677472834,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193494,
-      "num": 193494,
-      "word": "当情书被公开复诵",
-      "onboard_time": 1677650306,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 192785,
@@ -4305,6 +4329,14 @@
       "onboard_time": 1677539661,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190876,
+      "num": 190876,
+      "word": "INTO1烟花回眸氛围感",
+      "onboard_time": 1677652587,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 190700,

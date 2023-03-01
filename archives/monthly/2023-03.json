@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677651976454,
+  "endTime": 1677652861548,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -107,20 +107,20 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1157560,
+      "num": 1157560,
+      "word": "2023全年实际放假10天",
+      "onboard_time": 1677648568,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1138073,
       "num": 1138073,
       "word": "为什么睡很久还是感觉疲惫",
       "onboard_time": 1677639388,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1115218,
-      "num": 1115218,
-      "word": "2023全年实际放假10天",
-      "onboard_time": 1677648568,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1068589,
@@ -153,6 +153,14 @@
       "onboard_time": 1677633451,
       "rank": 5,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 869362,
+      "num": 869362,
+      "word": "周艺轩求婚前一天故意激怒陈梦瑶",
+      "onboard_time": 1677650908,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 852499,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 745866,
-      "num": 544686,
+      "num": 554372,
       "word": "肖战上了意大利canale5频道",
       "onboard_time": 1677649647,
       "rank": 10,
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 681846,
+      "num": 681846,
+      "word": "于正说欢娱只有学霸没有文盲",
+      "onboard_time": 1677650187,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 674523,
       "num": 674523,
       "word": "米店",
@@ -307,12 +323,12 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 633990,
-      "num": 633990,
-      "word": "于正说欢娱只有学霸没有文盲",
-      "onboard_time": 1677650187,
-      "rank": 7,
-      "category": "艺人"
+      "raw_hot": 638528,
+      "num": 638528,
+      "word": "毛不易演唱会门票",
+      "onboard_time": 1677651805,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 619068,
@@ -345,6 +361,14 @@
       "onboard_time": 1677647731,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 590650,
+      "num": 590650,
+      "word": "女孩当街抓头发暴打三轮车阿姨",
+      "onboard_time": 1677650247,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 580412,
@@ -385,14 +409,6 @@
       "onboard_time": 1677645393,
       "rank": 41,
       "category": "科技"
-    },
-    {
-      "raw_hot": 527207,
-      "num": 527207,
-      "word": "周艺轩求婚前一天故意激怒陈梦瑶",
-      "onboard_time": 1677650908,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 527202,
@@ -449,14 +465,6 @@
       "onboard_time": 1677636269,
       "rank": 12,
       "category": "财经,艺人"
-    },
-    {
-      "raw_hot": 491817,
-      "num": 491817,
-      "word": "女孩当街抓头发暴打三轮车阿姨",
-      "onboard_time": 1677650247,
-      "rank": 12,
-      "category": "社会负面"
     },
     {
       "raw_hot": 462932,
@@ -651,6 +659,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 339437,
+      "num": 339437,
+      "word": "Doinb直播送火箭",
+      "onboard_time": 1677648269,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 338565,
       "num": 338565,
       "word": "建议生育登记取消结婚限制",
@@ -659,28 +675,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 327419,
-      "num": 327419,
-      "word": "Doinb直播送火箭",
-      "onboard_time": 1677648269,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 326457,
       "num": 326457,
       "word": "声生不息",
       "onboard_time": 1677595113,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 325220,
-      "num": 325220,
-      "word": "毛不易演唱会门票",
-      "onboard_time": 1677651805,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 318840,
@@ -809,6 +809,14 @@
       "onboard_time": 1677594333,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273891,
+      "num": 273891,
+      "word": "姜潮吃烤板栗被崩到嘴",
+      "onboard_time": 1677652466,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 271275,
@@ -979,6 +987,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 210503,
+      "num": 210503,
+      "word": "当情书被公开复诵",
+      "onboard_time": 1677650306,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206789,
       "num": 206789,
       "word": "在单休和调休之间选择退休",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1677647848,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202960,
+      "num": 202960,
+      "word": "动物园回应三甲医院熊猫患者",
+      "onboard_time": 1677652228,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202587,
@@ -1035,12 +1059,12 @@
       "category": "社会新闻,时尚"
     },
     {
-      "raw_hot": 193494,
-      "num": 193494,
-      "word": "当情书被公开复诵",
-      "onboard_time": 1677650306,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 194462,
+      "num": 194462,
+      "word": "张婧仪长沙夜生活花絮",
+      "onboard_time": 1677652587,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 191700,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1677601823,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190876,
+      "num": 190876,
+      "word": "INTO1烟花回眸氛围感",
+      "onboard_time": 1677652587,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 190700,
@@ -1451,7 +1483,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18008,
+      "raw_hot": 20843,
       "num": 450074,
       "word": "买辆轻越野换种活法",
       "onboard_time": 1677583231,
