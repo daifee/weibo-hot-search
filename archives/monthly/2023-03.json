@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677667112815,
+  "endTime": 1677669416115,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -163,6 +163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1157055,
+      "num": 1157055,
+      "word": "建议引导大学生入职高素质农民队伍",
+      "onboard_time": 1677663149,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1139475,
+      "num": 490558,
+      "word": "姚明回应新疆男篮退出CBA",
+      "onboard_time": 1677666688,
+      "rank": 12,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1138073,
       "num": 1138073,
       "word": "为什么睡很久还是感觉疲惫",
@@ -265,6 +281,14 @@
       "onboard_time": 1677588088,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 763358,
+      "num": 420003,
+      "word": "爱奇艺回应2月充会员只能用28天",
+      "onboard_time": 1677668188,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 758844,
@@ -459,14 +483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 636260,
-      "num": 636260,
-      "word": "建议引导大学生入职高素质农民队伍",
-      "onboard_time": 1677663149,
-      "rank": 46,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 619068,
       "num": 571221,
       "word": "新疆男篮球员何去何从",
@@ -625,14 +641,6 @@
       "onboard_time": 1677636269,
       "rank": 12,
       "category": "财经,艺人"
-    },
-    {
-      "raw_hot": 490558,
-      "num": 490558,
-      "word": "姚明回应新疆男篮退出CBA",
-      "onboard_time": 1677666688,
-      "rank": 12,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 463063,
@@ -1179,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236642,
+      "num": 236642,
+      "word": "张译呼吁丰富无障碍影视作品",
+      "onboard_time": 1677668068,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232038,
       "num": 232038,
       "word": "个人所得税退税",
@@ -1203,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228243,
+      "num": 228243,
+      "word": "世上再没有辣目没有情和闻人了",
+      "onboard_time": 1677664948,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225068,
       "num": 225068,
       "word": "杨紫片场跳舞路透",
@@ -1225,14 +1249,6 @@
       "onboard_time": 1677662790,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218497,
-      "num": 218497,
-      "word": "世上再没有辣目没有情和闻人了",
-      "onboard_time": 1677664948,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 217343,
@@ -1337,6 +1353,14 @@
       "onboard_time": 1677659846,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203590,
+      "num": 177402,
+      "word": "敏感人群的辛苦谁懂啊",
+      "onboard_time": 1677669206,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 202960,
@@ -1483,8 +1507,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177532,
-      "num": 177532,
+      "raw_hot": 185683,
+      "num": 185683,
       "word": "法国球星方丹去世",
       "onboard_time": 1677666089,
       "rank": 49,
@@ -1569,6 +1593,14 @@
       "onboard_time": 1677595232,
       "rank": 29,
       "category": "幽默,科技"
+    },
+    {
+      "raw_hot": 165932,
+      "num": 165932,
+      "word": "最好嗑的年龄差cp",
+      "onboard_time": 1677668068,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 161686,

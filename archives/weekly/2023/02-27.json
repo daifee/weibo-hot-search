@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677667112815,
+  "endTime": 1677669416115,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1157055,
+      "num": 1157055,
+      "word": "建议引导大学生入职高素质农民队伍",
+      "onboard_time": 1677663149,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1147874,
       "num": 1147874,
       "word": "奶嗝文学",
@@ -665,6 +673,14 @@
       "onboard_time": 1677546810,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1139475,
+      "num": 490558,
+      "word": "姚明回应新疆男篮退出CBA",
+      "onboard_time": 1677666688,
+      "rank": 12,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1138073,
@@ -1107,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 763358,
+      "num": 420003,
+      "word": "爱奇艺回应2月充会员只能用28天",
+      "onboard_time": 1677668188,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 758844,
       "num": 758844,
       "word": "国足新帅正式亮相",
@@ -1481,14 +1505,6 @@
       "onboard_time": 1677480087,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 636260,
-      "num": 636260,
-      "word": "建议引导大学生入职高素质农民队伍",
-      "onboard_time": 1677663149,
-      "rank": 46,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 619068,
@@ -2033,14 +2049,6 @@
       "onboard_time": 1677422972,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 490558,
-      "num": 490558,
-      "word": "姚明回应新疆男篮退出CBA",
-      "onboard_time": 1677666688,
-      "rank": 12,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 487288,
@@ -3835,6 +3843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236642,
+      "num": 236642,
+      "word": "张译呼吁丰富无障碍影视作品",
+      "onboard_time": 1677668068,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236349,
       "num": 236349,
       "word": "湖人vs独行侠",
@@ -3888,6 +3904,14 @@
       "word": "司马妙元自尽",
       "onboard_time": 1677585450,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228243,
+      "num": 228243,
+      "word": "世上再没有辣目没有情和闻人了",
+      "onboard_time": 1677664948,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -3993,14 +4017,6 @@
       "onboard_time": 1677479009,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218497,
-      "num": 218497,
-      "word": "世上再没有辣目没有情和闻人了",
-      "onboard_time": 1677664948,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 217343,
@@ -4329,6 +4345,14 @@
       "onboard_time": 1677465387,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203590,
+      "num": 177402,
+      "word": "敏感人群的辛苦谁懂啊",
+      "onboard_time": 1677669206,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 202960,
@@ -4779,6 +4803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185683,
+      "num": 185683,
+      "word": "法国球星方丹去世",
+      "onboard_time": 1677666089,
+      "rank": 49,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 185444,
       "num": 185444,
       "word": "马斯克或开发ChatGPT替代品",
@@ -4849,14 +4881,6 @@
       "onboard_time": 1677584129,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177532,
-      "num": 177532,
-      "word": "法国球星方丹去世",
-      "onboard_time": 1677666089,
-      "rank": 49,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 175728,
@@ -4961,6 +4985,14 @@
       "onboard_time": 1677593733,
       "rank": 39,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 165932,
+      "num": 165932,
+      "word": "最好嗑的年龄差cp",
+      "onboard_time": 1677668068,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 165707,
