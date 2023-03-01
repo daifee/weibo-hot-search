@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677627237542,
+  "endTime": 1677635441432,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -25,6 +25,14 @@
       "onboard_time": 1677560434,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 8343319,
+      "num": 8343319,
+      "word": "建议调整双休日试点隔周三休",
+      "onboard_time": 1677628949,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 4920735,
@@ -123,6 +131,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2153485,
+      "num": 2153485,
+      "word": "退税",
+      "onboard_time": 1677625759,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 2029268,
       "num": 2029268,
       "word": "新疆男篮退出CBA",
@@ -144,6 +160,14 @@
       "word": "80后丁克夫妻回应存300万提前退休",
       "onboard_time": 1677553528,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1909258,
+      "num": 1909258,
+      "word": "代表建议取消调休制度",
+      "onboard_time": 1677635009,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -353,6 +377,14 @@
       "onboard_time": 1677461728,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1491042,
+      "num": 1491042,
+      "word": "蔡徐坤舞台背景 抄袭",
+      "onboard_time": 1677634169,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 1481067,
@@ -587,14 +619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1108887,
-      "num": 1108887,
-      "word": "退税",
-      "onboard_time": 1677625759,
-      "rank": 6,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1100848,
       "num": 1100848,
       "word": "有没有哥哥的看到这段都沉默了",
@@ -731,6 +755,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 927503,
+      "num": 927503,
+      "word": "妇联回应吴秀波儿子被指家暴",
+      "onboard_time": 1677633451,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 925357,
       "num": 925357,
       "word": "七成35岁以上职场人职业晋升停滞",
@@ -841,6 +873,14 @@
       "onboard_time": 1677481888,
       "rank": 31,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 844896,
+      "num": 844896,
+      "word": "教资面试成绩",
+      "onboard_time": 1677632853,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 842149,
@@ -1003,6 +1043,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 721227,
+      "num": 721227,
+      "word": "深圳一业主拆迁9栋楼",
+      "onboard_time": 1677628287,
+      "rank": 7,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 719737,
+      "num": 526284,
+      "word": "新疆男篮将全部资产捐出",
+      "onboard_time": 1677626362,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 707317,
       "num": 694050,
       "word": "朴秀荣ins晒自己晚宴座位",
@@ -1071,6 +1127,14 @@
       "num": 668175,
       "word": "丫丫是最坚强的熊猫",
       "onboard_time": 1677458011,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 668012,
+      "num": 668012,
+      "word": "老人自家院子种菜被上门强行清理",
+      "onboard_time": 1677630870,
       "rank": 8,
       "category": "社会新闻"
     },
@@ -1251,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573899,
+      "num": 288918,
+      "word": "家属曝73岁父亲被养老院护工打爆眼球",
+      "onboard_time": 1677629368,
+      "rank": 20,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 573807,
       "num": 573807,
       "word": "党和国家机构改革",
@@ -1395,12 +1467,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 526554,
+      "num": 526554,
+      "word": "原神",
+      "onboard_time": 1677633692,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 526455,
       "num": 526455,
       "word": "关于我爸是小学校长这件事",
       "onboard_time": 1677492091,
       "rank": 23,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 523819,
+      "num": 523819,
+      "word": "墨西哥总统宣布特斯拉将在该国建厂",
+      "onboard_time": 1677633630,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 523261,
@@ -1803,6 +1891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 426748,
+      "num": 426748,
+      "word": "陈数问粉丝你没有三急吗",
+      "onboard_time": 1677632374,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423543,
       "num": 423543,
       "word": "医生称甲流也会引起白肺",
@@ -1883,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405335,
+      "num": 405335,
+      "word": "米店",
+      "onboard_time": 1677628344,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 404735,
       "num": 404735,
       "word": "外国要租借大熊猫有多难",
@@ -1961,6 +2065,14 @@
       "onboard_time": 1677553949,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390024,
+      "num": 390024,
+      "word": "安欣吃醋",
+      "onboard_time": 1677628708,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 387110,
@@ -2145,14 +2257,6 @@
       "onboard_time": 1677562410,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353624,
-      "num": 353624,
-      "word": "新疆男篮将全部资产捐出",
-      "onboard_time": 1677626362,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 350599,
@@ -2683,6 +2787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 285898,
+      "num": 285898,
+      "word": "朴彩英巴黎时装周造型",
+      "onboard_time": 1677631110,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 284392,
       "num": 284392,
       "word": "流浪地球2成2月票房冠军",
@@ -2827,6 +2939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257983,
+      "num": 257983,
+      "word": "两会",
+      "onboard_time": 1677634051,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 255297,
       "num": 255297,
       "word": "吉利汽车回应银河之光涉嫌抄袭",
@@ -2867,6 +2987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249480,
+      "num": 249480,
+      "word": "何佳蓉",
+      "onboard_time": 1677626542,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246699,
       "num": 246699,
       "word": "RNG对战AL",
@@ -2891,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245186,
+      "num": 245186,
+      "word": "父母矮孩子一定矮吗",
+      "onboard_time": 1677629247,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241876,
       "num": 241876,
       "word": "柯南角色全家福海报",
@@ -2905,6 +3041,14 @@
       "onboard_time": 1677543207,
       "rank": 19,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 240135,
+      "num": 240135,
+      "word": "白鹿以爱为营白色贝雷帽造型",
+      "onboard_time": 1677633749,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 239037,
@@ -3073,6 +3217,22 @@
       "onboard_time": 1677490051,
       "rank": 28,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 216062,
+      "num": 216062,
+      "word": "杰尼斯旗下艺人",
+      "onboard_time": 1677627806,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 215104,
+      "num": 215104,
+      "word": "调整双休日为隔周三休合理吗",
+      "onboard_time": 1677634472,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214948,
@@ -3315,14 +3475,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 202321,
-      "num": 202321,
-      "word": "何佳蓉",
-      "onboard_time": 1677626542,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202018,
       "num": 202018,
       "word": "三月",
@@ -3368,6 +3520,14 @@
       "word": "2月最后一天",
       "onboard_time": 1677539601,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199170,
+      "num": 199170,
+      "word": "甲流易感染人群如何防护",
+      "onboard_time": 1677635069,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -3747,6 +3907,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167938,
+      "num": 167938,
+      "word": "杜兰特太阳首秀对阵黄蜂",
+      "onboard_time": 1677632254,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167719,
+      "num": 167719,
+      "word": "练习心眼子",
+      "onboard_time": 1677630031,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 167547,
+      "num": 167547,
+      "word": "街道回应一业主拆迁9栋楼",
+      "onboard_time": 1677633630,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167372,
       "num": 167372,
       "word": "梅西俱乐部700球",
@@ -3897,6 +4081,14 @@
       "onboard_time": 1677511349,
       "rank": 34,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 157025,
+      "num": 157025,
+      "word": "个税汇算3月1日预约已满",
+      "onboard_time": 1677631955,
+      "rank": 41,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 156813,
@@ -4139,6 +4331,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 136217,
+      "num": 136217,
+      "word": "睢冉",
+      "onboard_time": 1677626903,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135952,
       "num": 135952,
       "word": "男子海上偶遇祖国军舰又收到祝福",
@@ -4161,6 +4361,14 @@
       "onboard_time": 1677506971,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134739,
+      "num": 134739,
+      "word": "iPhone16Pro有望采用屏下FaceID",
+      "onboard_time": 1677635433,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 134540,
@@ -4625,14 +4833,6 @@
       "onboard_time": 1677420573,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 90939,
-      "num": 90939,
-      "word": "睢冉",
-      "onboard_time": 1677626903,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 87682,
