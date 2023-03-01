@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677677308869,
+  "endTime": 1677677979720,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -199,6 +199,14 @@
       "num": 1868036,
       "word": "黄婷婷回应",
       "onboard_time": 1677589471,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1843019,
+      "num": 1843019,
+      "word": "刘亚仁",
+      "onboard_time": 1677676230,
       "rank": 1,
       "category": "艺人"
     },
@@ -651,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1180512,
-      "num": 1180512,
-      "word": "刘亚仁",
-      "onboard_time": 1677676230,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1161382,
       "num": 1161382,
       "word": "王勉接机把鹿晗写成鹿女士",
@@ -955,8 +955,16 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 931088,
+      "num": 931088,
+      "word": "宋茜路演现场因雪莉落泪",
+      "onboard_time": 1677675990,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 928046,
-      "num": 554629,
+      "num": 598227,
       "word": "爱奇艺回应2月充会员只能用28天",
       "onboard_time": 1677668188,
       "rank": 11,
@@ -976,6 +984,14 @@
       "word": "七成35岁以上职场人职业晋升停滞",
       "onboard_time": 1677488371,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 918565,
+      "num": 918565,
+      "word": "动物园称未收到丫丫提早回国消息",
+      "onboard_time": 1677676650,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1441,14 +1457,6 @@
       "onboard_time": 1677425672,
       "rank": 10,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 678795,
-      "num": 678795,
-      "word": "宋茜路演现场因雪莉落泪",
-      "onboard_time": 1677675990,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 676298,
@@ -2227,14 +2235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 471366,
-      "num": 471366,
-      "word": "动物园称未收到丫丫提早回国消息",
-      "onboard_time": 1677676650,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 466787,
       "num": 466787,
       "word": "配眼镜前看到这些是我的福气",
@@ -2827,6 +2827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374923,
+      "num": 374923,
+      "word": "鬼灭之刃第三季正式预告",
+      "onboard_time": 1677675569,
+      "rank": 22,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 374404,
       "num": 374404,
       "word": "全国超9成小城市房价不过万元",
@@ -3265,14 +3273,6 @@
       "onboard_time": 1677477450,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 317426,
-      "num": 317426,
-      "word": "鬼灭之刃第三季正式预告",
-      "onboard_time": 1677675569,
-      "rank": 22,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 316718,
@@ -3857,6 +3857,14 @@
       "onboard_time": 1677596863,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253127,
+      "num": 253127,
+      "word": "教育局通报柳州一小学按父母职业排座位",
+      "onboard_time": 1677677491,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252639,
@@ -5275,6 +5283,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 160684,
+      "num": 160684,
+      "word": "可以直接做但还是走了流程",
+      "onboard_time": 1677677970,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160281,
       "num": 155610,
       "word": "薛凯琪现场",
@@ -6147,6 +6163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94708,
+      "num": 94708,
+      "word": "山东男篮vs辽宁男篮",
+      "onboard_time": 1677677970,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93998,
       "num": 93998,
       "word": "甘孜文旅局长回应博主退订酒店被骂",
@@ -6193,6 +6217,14 @@
       "onboard_time": 1677510811,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 87380,
+      "num": 1108986,
+      "word": "春日里的花海列车",
+      "onboard_time": 1677677069,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86823,
@@ -6265,6 +6297,14 @@
       "onboard_time": 1677670228,
       "rank": 48,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 80071,
+      "num": 413372,
+      "word": "薇姿洗发水",
+      "onboard_time": 1677675632,
+      "rank": 14,
+      "category": "其它"
     },
     {
       "raw_hot": 79762,
@@ -6353,14 +6393,6 @@
       "onboard_time": 1677473434,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62240,
-      "num": 413372,
-      "word": "薇姿洗发水",
-      "onboard_time": 1677675632,
-      "rank": 14,
-      "category": "其它"
     },
     {
       "raw_hot": 60372,
@@ -6473,14 +6505,6 @@
       "onboard_time": 1677583231,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 14039,
-      "num": 1108986,
-      "word": "春日里的花海列车",
-      "onboard_time": 1677677069,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -6525,6 +6549,9 @@
     },
     {
       "word": "#聚焦2023年全国两会#"
+    },
+    {
+      "word": "#中央党校建校90周年#"
     }
   ]
 }
