@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677670439550,
+  "endTime": 1677674313131,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1551473,
+      "num": 1551473,
+      "word": "建议严查超前学习行为",
+      "onboard_time": 1677671189,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1523766,
       "num": 1523766,
       "word": "丫丫身体状况评估完毕",
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 1139475,
-      "num": 490558,
+      "num": 553070,
       "word": "姚明回应新疆男篮退出CBA",
       "onboard_time": 1677666688,
       "rank": 12,
@@ -755,12 +763,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1076800,
+      "num": 1076800,
+      "word": "颖儿探班任嘉伦",
+      "onboard_time": 1677669869,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1068589,
       "num": 1068589,
       "word": "双休真的可以干好多事",
       "onboard_time": 1677645453,
       "rank": 44,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 1064723,
+      "num": 1064723,
+      "word": "杜海涛说想和沈梦辰生两到三个孩子",
+      "onboard_time": 1677669689,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1061069,
@@ -825,6 +849,14 @@
       "onboard_time": 1677565888,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 991265,
+      "num": 991265,
+      "word": "韩总统称日本已从侵略者转变为伙伴",
+      "onboard_time": 1677670589,
+      "rank": 4,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 985794,
@@ -900,7 +932,7 @@
     },
     {
       "raw_hot": 928046,
-      "num": 420003,
+      "num": 554629,
       "word": "爱奇艺回应2月充会员只能用28天",
       "onboard_time": 1677668188,
       "rank": 11,
@@ -939,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 901263,
-      "num": 901263,
-      "word": "颖儿探班任嘉伦",
-      "onboard_time": 1677669869,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 894084,
       "num": 468268,
       "word": "赵露思做完美容后手舞足蹈",
@@ -969,6 +993,14 @@
       "onboard_time": 1677475648,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 874398,
+      "num": 874398,
+      "word": "董明珠建议统一五险一金标准",
+      "onboard_time": 1677671848,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 870384,
@@ -1001,6 +1033,14 @@
       "onboard_time": 1677575791,
       "rank": 32,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 861186,
+      "num": 861186,
+      "word": "推特崩了",
+      "onboard_time": 1677671971,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 860899,
@@ -1160,6 +1200,14 @@
       "word": "湿厕纸可以擦脸吗",
       "onboard_time": 1677465867,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 752908,
+      "num": 752908,
+      "word": "丫丫回国后将进行检疫隔离",
+      "onboard_time": 1677669809,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1603,14 +1651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 597719,
-      "num": 597719,
-      "word": "杜海涛说想和沈梦辰生两到三个孩子",
-      "onboard_time": 1677669689,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 587559,
       "num": 587559,
       "word": "建议实行6岁以下儿童免费医疗",
@@ -1715,6 +1755,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 568094,
+      "num": 568094,
+      "word": "陈妍希翻遍通讯录为景甜找对象",
+      "onboard_time": 1677671189,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567110,
       "num": 496234,
       "word": "瓦妮莎与洛杉矶政府和解获赔近2亿元",
@@ -1761,6 +1809,14 @@
       "onboard_time": 1677578610,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 558008,
+      "num": 558008,
+      "word": "张颂文感谢网友画的高启强",
+      "onboard_time": 1677672809,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 556328,
@@ -2033,6 +2089,14 @@
       "onboard_time": 1677488071,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 500649,
+      "num": 500649,
+      "word": "安欣陆泽宁楼道吻",
+      "onboard_time": 1677672629,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 497634,
@@ -2385,6 +2449,14 @@
       "onboard_time": 1677632374,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425840,
+      "num": 425840,
+      "word": "杨树茂破产",
+      "onboard_time": 1677670468,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 423543,
@@ -2891,6 +2963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348586,
+      "num": 348586,
+      "word": "见过最让人窒息的家长",
+      "onboard_time": 1677669567,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 347350,
       "num": 347350,
       "word": "马丁内斯当选FIFA最佳门将",
@@ -3123,20 +3203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325540,
+      "num": 325540,
+      "word": "星落凝成糖上头名场面",
+      "onboard_time": 1677673828,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 323721,
       "num": 196726,
       "word": "张大大说王鹤棣特别好",
       "onboard_time": 1677422194,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321926,
-      "num": 321926,
-      "word": "丫丫回国后将进行检疫隔离",
-      "onboard_time": 1677669809,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318840,
@@ -3779,6 +3859,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 247261,
+      "num": 247261,
+      "word": "邢菲哭戏",
+      "onboard_time": 1677672750,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246699,
       "num": 246699,
       "word": "RNG对战AL",
@@ -4001,6 +4089,14 @@
       "onboard_time": 1677639328,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223380,
+      "num": 223380,
+      "word": "程耳透露无名原本结局",
+      "onboard_time": 1677672389,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 221574,
@@ -4643,6 +4739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192678,
+      "num": 192678,
+      "word": "Hero星元紫金契约",
+      "onboard_time": 1677673767,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192482,
       "num": 192482,
       "word": "小学生给课本挑错新教材真的改了",
@@ -4753,6 +4857,14 @@
       "onboard_time": 1677553768,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190193,
+      "num": 190193,
+      "word": "广东男篮vs山西男篮",
+      "onboard_time": 1677671728,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 190156,
@@ -5363,14 +5475,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 142936,
-      "num": 142936,
-      "word": "见过最让人窒息的家长",
-      "onboard_time": 1677669567,
-      "rank": 36,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 142456,
       "num": 142456,
       "word": "100天可以有无限可能",
@@ -5657,6 +5761,14 @@
       "onboard_time": 1677452660,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119480,
+      "num": 119480,
+      "word": "张大大体验东北烧烤",
+      "onboard_time": 1677672991,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 119293,
