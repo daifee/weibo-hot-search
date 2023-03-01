@@ -1,0 +1,410 @@
+{
+  "runTime": 1677644648579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2914924,
+        "num": 2914924,
+        "word": "建议调整双休日试点隔周三休",
+        "onboard_time": 1677628949,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2534874,
+        "num": 2534874,
+        "word": "211文科男硕士吐槽招聘会均薪5500引争议",
+        "onboard_time": 1677641848,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 23938,
+        "num": 1760751,
+        "word": "乡村振兴美好图景",
+        "onboard_time": 1677596564,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1616654,
+        "num": 1616654,
+        "word": "代表建议取消调休制度",
+        "onboard_time": 1677635009,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1570659,
+        "num": 1570659,
+        "word": "旅俄大熊猫画风突变体重狂飙40公斤",
+        "onboard_time": 1677640168,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1430910,
+        "num": 1430910,
+        "word": "退税",
+        "onboard_time": 1677625759,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1138073,
+        "num": 1138073,
+        "word": "为什么睡很久还是感觉疲惫",
+        "onboard_time": 1677639388,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1056716,
+        "num": 1056716,
+        "word": "如果执行八小时工作双休会怎样",
+        "onboard_time": 1677641309,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749911,
+        "num": 749911,
+        "word": "三甲医院有位患者叫熊猫是真熊猫",
+        "onboard_time": 1677643769,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688447,
+        "num": 688447,
+        "word": "鹅厂三月大剧片单",
+        "onboard_time": 1677639751,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571221,
+        "num": 571221,
+        "word": "新疆男篮球员何去何从",
+        "onboard_time": 1677642449,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512906,
+        "num": 512906,
+        "word": "严查借春节档电影挑起互撕对立",
+        "onboard_time": 1677640289,
+        "rank": 11,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 502368,
+        "num": 502368,
+        "word": "王楚然刘令姿 看秀图",
+        "onboard_time": 1677636750,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 471692,
+        "num": 471692,
+        "word": "米店",
+        "onboard_time": 1677628344,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 89711,
+        "num": 453847,
+        "word": "原神3.5版本更新 迪希雅",
+        "onboard_time": 1677643233,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 446912,
+        "num": 446912,
+        "word": "官方通报网传苏州动保组织拘禁审讯猫贩",
+        "onboard_time": 1677638186,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423402,
+        "num": 423402,
+        "word": "HYBE收购SMTOWN失败",
+        "onboard_time": 1677636269,
+        "rank": 16,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 389317,
+        "num": 389317,
+        "word": "蔡徐坤工作室将对睛致传媒追责",
+        "onboard_time": 1677640590,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 371097,
+        "num": 371097,
+        "word": "iPhone16Pro有望采用屏下FaceID",
+        "onboard_time": 1677635433,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 364026,
+        "num": 364026,
+        "word": "教资认定",
+        "onboard_time": 1677639149,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 638360,
+        "num": 355841,
+        "word": "年薪30万女生转行卖快餐",
+        "onboard_time": 1677637829,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 332631,
+        "num": 332631,
+        "word": "SuperJunior将推出沙特旅行综艺神灯的骑士",
+        "onboard_time": 1677638607,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323045,
+        "num": 323045,
+        "word": "华为诉小米专利侵权已被受理",
+        "onboard_time": 1677641247,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 320007,
+        "num": 320007,
+        "word": "公诉精英",
+        "onboard_time": 1677643589,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318840,
+        "num": 318840,
+        "word": "苏州通报男子被爱猫人士控制殴打",
+        "onboard_time": 1677640526,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 316629,
+        "num": 316629,
+        "word": "家属曝73岁父亲被养老院护工打爆眼球",
+        "onboard_time": 1677629368,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 292725,
+        "num": 292725,
+        "word": "爱奇艺CEO回应投屏事件",
+        "onboard_time": 1677638547,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 287942,
+        "num": 287942,
+        "word": "张杰声生不息宝岛季",
+        "onboard_time": 1677643589,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271448,
+        "num": 271448,
+        "word": "原神",
+        "onboard_time": 1677633692,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271275,
+        "num": 271275,
+        "word": "甲流患者需服用抗病毒药物吗",
+        "onboard_time": 1677643049,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297962,
+        "num": 270283,
+        "word": "妇联回应吴秀波儿子被指家暴",
+        "onboard_time": 1677633451,
+        "rank": 30,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 266231,
+        "num": 266231,
+        "word": "3月星座恋爱运",
+        "onboard_time": 1677637048,
+        "rank": 31,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 246721,
+        "num": 246721,
+        "word": "古天乐郭富城刘青云三人首次合作",
+        "onboard_time": 1677641309,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243105,
+        "num": 243105,
+        "word": "深圳一业主拆迁9栋楼",
+        "onboard_time": 1677628287,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 228653,
+        "num": 228653,
+        "word": "赵丽颖春日vlog",
+        "onboard_time": 1677639631,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226852,
+        "num": 226852,
+        "word": "安欣吃醋",
+        "onboard_time": 1677628708,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224483,
+        "num": 224483,
+        "word": "如何减轻年轻人生育焦虑",
+        "onboard_time": 1677639328,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214764,
+        "num": 214764,
+        "word": "熊猫七七在医院做CT",
+        "onboard_time": 1677644552,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211640,
+        "num": 211640,
+        "word": "何佳蓉",
+        "onboard_time": 1677626542,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202793,
+        "num": 202793,
+        "word": "张艺兴出演长沙夜生活",
+        "onboard_time": 1677639031,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201729,
+        "num": 201729,
+        "word": "年薪30万大厂女生回应转行卖快餐",
+        "onboard_time": 1677644311,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196356,
+        "num": 196356,
+        "word": "iPhone能在PC端接打电话了",
+        "onboard_time": 1677636451,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 192907,
+        "num": 192907,
+        "word": "老人自家院子种菜被上门强行清理",
+        "onboard_time": 1677630870,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189279,
+        "num": 189279,
+        "word": "杨紫片场跳舞路透",
+        "onboard_time": 1677639508,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180056,
+        "num": 180056,
+        "word": "柯南剧场版90秒预告",
+        "onboard_time": 1677637648,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175845,
+        "num": 175845,
+        "word": "AppleMusic被欧盟指控垄断",
+        "onboard_time": 1677639868,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 167482,
+        "num": 167482,
+        "word": "单休比双休一年少休近50天",
+        "onboard_time": 1677644610,
+        "rank": 46,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 162333,
+        "num": 162333,
+        "word": "天空之城定档",
+        "onboard_time": 1677635668,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161686,
+        "num": 161686,
+        "word": "钎城国服后羿到手了",
+        "onboard_time": 1677644190,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123729,
+        "num": 156821,
+        "word": "为何法式可以跨越时空",
+        "onboard_time": 1677644070,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国两会常用词#"
+    }
+  }
+}
