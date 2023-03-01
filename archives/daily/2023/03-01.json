@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677663314041,
+  "endTime": 1677666112498,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -139,6 +139,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1232897,
+      "num": 1232897,
+      "word": "熊猫七七",
+      "onboard_time": 1677662849,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1201618,
       "num": 1201618,
       "word": "1.89亿天价拍卖后万辆新车被报废",
@@ -251,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 758844,
+      "num": 758844,
+      "word": "国足新帅正式亮相",
+      "onboard_time": 1677662009,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 748287,
       "num": 590650,
       "word": "女孩当街抓头发暴打三轮车阿姨",
@@ -265,14 +281,6 @@
       "onboard_time": 1677649647,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 744411,
-      "num": 744411,
-      "word": "国足新帅正式亮相",
-      "onboard_time": 1677662009,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 739784,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 736477,
-      "num": 256740,
+      "num": 291204,
       "word": "全红婵长成大女孩了",
       "onboard_time": 1677658949,
       "rank": 39,
@@ -403,11 +411,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 670118,
+      "num": 670118,
+      "word": "肖战意大利游玩plog",
+      "onboard_time": 1677664288,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 668012,
       "num": 668012,
       "word": "老人自家院子种菜被上门强行清理",
       "onboard_time": 1677630870,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660534,
+      "num": 660534,
+      "word": "大学生送5年外卖还清40万外债",
+      "onboard_time": 1677662069,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -427,12 +451,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 626268,
+      "num": 626268,
+      "word": "王一博祝福周艺轩陈梦瑶",
+      "onboard_time": 1677666028,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 619068,
       "num": 571221,
       "word": "新疆男篮球员何去何从",
       "onboard_time": 1677642449,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 608203,
+      "num": 608203,
+      "word": "干将莫邪画中仙皮肤",
+      "onboard_time": 1677664048,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 605934,
@@ -465,6 +505,14 @@
       "onboard_time": 1677623715,
       "rank": 49,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 578894,
+      "num": 578894,
+      "word": "建议引导大学生入职高素质农民队伍",
+      "onboard_time": 1677663149,
+      "rank": 46,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 573899,
@@ -505,6 +553,14 @@
       "onboard_time": 1677645393,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 534485,
+      "num": 534485,
+      "word": "建议元宵节放假1天",
+      "onboard_time": 1677661948,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 527202,
@@ -563,6 +619,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 496234,
+      "num": 496234,
+      "word": "瓦妮莎与洛杉矶政府和解获赔近2亿元",
+      "onboard_time": 1677663987,
+      "rank": 12,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 463063,
       "num": 463063,
       "word": "国足目标全力冲击2026世界杯",
@@ -585,6 +649,14 @@
       "onboard_time": 1677588749,
       "rank": 11,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 457517,
+      "num": 457517,
+      "word": "上海野生动物园多次抽查发现问题",
+      "onboard_time": 1677660389,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456116,
@@ -665,14 +737,6 @@
       "onboard_time": 1677655288,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 407264,
-      "num": 407264,
-      "word": "上海野生动物园多次抽查发现问题",
-      "onboard_time": 1677660389,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406883,
@@ -827,14 +891,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 337519,
-      "num": 184671,
-      "word": "建议元宵节放假1天",
-      "onboard_time": 1677661948,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 326457,
       "num": 326457,
       "word": "声生不息",
@@ -864,14 +920,6 @@
       "word": "Swisse钙片表面镶嵌一根黑毛",
       "onboard_time": 1677660033,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313391,
-      "num": 313391,
-      "word": "大学生送5年外卖还清40万外债",
-      "onboard_time": 1677662069,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -953,6 +1001,14 @@
       "onboard_time": 1677647848,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 292458,
+      "num": 292458,
+      "word": "爱奇艺新专利可在弹幕中展示广告",
+      "onboard_time": 1677663509,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 290906,
@@ -1171,14 +1227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216511,
-      "num": 216511,
-      "word": "熊猫七七",
-      "onboard_time": 1677662849,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216062,
       "num": 216062,
       "word": "杰尼斯旗下艺人",
@@ -1395,6 +1443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189894,
+      "num": 189894,
+      "word": "张若昀刘昊然合体录制大侦探",
+      "onboard_time": 1677662370,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189315,
       "num": 189315,
       "word": "全球近60只大熊猫旅居海外",
@@ -1408,6 +1464,14 @@
       "word": "电影长沙夜生活",
       "onboard_time": 1677642148,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 183595,
+      "num": 183595,
+      "word": "世上再没有辣目没有情和闻人了",
+      "onboard_time": 1677664948,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -1425,14 +1489,6 @@
       "onboard_time": 1677654748,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175696,
-      "num": 175696,
-      "word": "张若昀刘昊然合体录制大侦探",
-      "onboard_time": 1677662370,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 173039,
@@ -1521,6 +1577,14 @@
       "onboard_time": 1677631955,
       "rank": 41,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 156613,
+      "num": 156613,
+      "word": "重紫第三世叫逆紫",
+      "onboard_time": 1677663028,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 155654,
@@ -1619,14 +1683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135388,
-      "num": 135388,
-      "word": "重紫第三世叫逆紫",
-      "onboard_time": 1677663028,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 135295,
       "num": 135295,
       "word": "建议把抑郁症治疗纳入医保",
@@ -1723,14 +1779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111370,
-      "num": 111370,
-      "word": "建议引导大学生入职高素质农民队伍",
-      "onboard_time": 1677663149,
-      "rank": 46,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 110825,
       "num": 110825,
       "word": "美丽的他第二季",
@@ -1793,6 +1841,14 @@
       "onboard_time": 1677572791,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 86224,
+      "num": 86224,
+      "word": "法国球星方丹去世",
+      "onboard_time": 1677666089,
+      "rank": 49,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 83596,
