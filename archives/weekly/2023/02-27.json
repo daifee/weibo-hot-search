@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677639685584,
+  "endTime": 1677640240588,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -1187,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 661119,
+      "num": 324396,
+      "word": "年薪30万女生转行卖快餐",
+      "onboard_time": 1677637829,
+      "rank": 20,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 653037,
       "num": 653037,
       "word": "建议第三孩从幼儿园到高中免费教育",
@@ -1235,14 +1243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 611474,
-      "num": 293280,
-      "word": "年薪30万女生转行卖快餐",
-      "onboard_time": 1677637829,
-      "rank": 20,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 610611,
       "num": 610611,
       "word": "当一个巨蟹座不碰感情时",
@@ -1257,6 +1257,14 @@
       "onboard_time": 1677489149,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 606403,
+      "num": 606403,
+      "word": "米店",
+      "onboard_time": 1677628344,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 603189,
@@ -1348,7 +1356,7 @@
     },
     {
       "raw_hot": 573899,
-      "num": 292763,
+      "num": 322825,
       "word": "家属曝73岁父亲被养老院护工打爆眼球",
       "onboard_time": 1677629368,
       "rank": 20,
@@ -1499,6 +1507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 527202,
+      "num": 527202,
+      "word": "SuperJunior将推出沙特旅行综艺神灯的骑士",
+      "onboard_time": 1677638607,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 526975,
       "num": 526975,
       "word": "天空之城定档",
@@ -1619,6 +1635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 503541,
+      "num": 503541,
+      "word": "HYBE收购SMTOWN失败",
+      "onboard_time": 1677636269,
+      "rank": 12,
+      "category": "财经,艺人"
+    },
+    {
       "raw_hot": 503303,
       "num": 503303,
       "word": "宋雨琦周洁琼新综艺同框跳tomboy",
@@ -1643,12 +1667,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 495390,
-      "num": 495390,
-      "word": "SuperJunior将推出沙特旅行综艺神灯的骑士",
-      "onboard_time": 1677638607,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 495893,
+      "num": 495893,
+      "word": "鹅厂三月大剧片单",
+      "onboard_time": 1677639751,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 494229,
@@ -1755,14 +1779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 471595,
-      "num": 471595,
-      "word": "HYBE收购SMTOWN失败",
-      "onboard_time": 1677636269,
-      "rank": 12,
-      "category": "财经,艺人"
-    },
-    {
       "raw_hot": 466787,
       "num": 466787,
       "word": "配眼镜前看到这些是我的福气",
@@ -1801,6 +1817,14 @@
       "onboard_time": 1677547288,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446891,
+      "num": 446891,
+      "word": "张艺兴出演长沙夜生活",
+      "onboard_time": 1677639031,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 445735,
@@ -2003,14 +2027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 413363,
-      "num": 413363,
-      "word": "张艺兴出演长沙夜生活",
-      "onboard_time": 1677639031,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 412342,
       "num": 412342,
       "word": "3月壁纸",
@@ -2041,14 +2057,6 @@
       "onboard_time": 1677565169,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 405335,
-      "num": 405335,
-      "word": "米店",
-      "onboard_time": 1677628344,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 404735,
@@ -2097,6 +2105,14 @@
       "onboard_time": 1677414569,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397950,
+      "num": 397950,
+      "word": "教资认定",
+      "onboard_time": 1677639149,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 396882,
@@ -2195,6 +2211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 384112,
+      "num": 384112,
+      "word": "3月星座恋爱运",
+      "onboard_time": 1677637048,
+      "rank": 14,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 383118,
       "num": 383118,
       "word": "HYBE新男团BOYNEXTDOOR",
@@ -2219,12 +2243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377703,
+      "num": 377703,
+      "word": "爱奇艺CEO回应投屏事件",
+      "onboard_time": 1677638547,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 374404,
       "num": 374404,
       "word": "全国超9成小城市房价不过万元",
       "onboard_time": 1677410009,
       "rank": 5,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 373550,
+      "num": 373550,
+      "word": "iPhone能在PC端接打电话了",
+      "onboard_time": 1677636451,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 370847,
@@ -2321,14 +2361,6 @@
       "onboard_time": 1677486151,
       "rank": 45,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 355686,
-      "num": 355686,
-      "word": "3月星座恋爱运",
-      "onboard_time": 1677637048,
-      "rank": 14,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 355667,
@@ -2467,14 +2499,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 338441,
-      "num": 338441,
-      "word": "iPhone能在PC端接打电话了",
-      "onboard_time": 1677636451,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 338281,
       "num": 338281,
       "word": "EXO粉丝见面会海报公开",
@@ -2561,6 +2585,14 @@
       "onboard_time": 1677483449,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 330078,
+      "num": 330078,
+      "word": "官方通报网传苏州动保组织拘禁审讯猫贩",
+      "onboard_time": 1677638186,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327549,
@@ -2739,6 +2771,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 298324,
+      "num": 298324,
+      "word": "何佳蓉",
+      "onboard_time": 1677626542,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297259,
       "num": 297259,
       "word": "种牙降价了多地已调整",
@@ -2793,14 +2833,6 @@
       "onboard_time": 1677502111,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294344,
-      "num": 294344,
-      "word": "官方通报网传苏州动保组织拘禁审讯猫贩",
-      "onboard_time": 1677638186,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293823,
@@ -2987,6 +3019,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 270275,
+      "num": 270275,
+      "word": "赵丽颖春日vlog",
+      "onboard_time": 1677639631,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269934,
       "num": 254640,
       "word": "警方称蔡天凤案疑犯表现极不合作",
@@ -3009,14 +3049,6 @@
       "onboard_time": 1677474450,
       "rank": 44,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 266025,
-      "num": 266025,
-      "word": "何佳蓉",
-      "onboard_time": 1677626542,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262864,
@@ -3043,14 +3075,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 262214,
-      "num": 262214,
-      "word": "教资认定",
-      "onboard_time": 1677639149,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 260815,
       "num": 260815,
       "word": "杨颖晒剧组过生日合照",
@@ -3067,14 +3091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 260059,
-      "num": 260059,
-      "word": "爱奇艺CEO回应投屏事件",
-      "onboard_time": 1677638547,
-      "rank": 28,
-      "category": "科技"
-    },
-    {
       "raw_hot": 257983,
       "num": 257983,
       "word": "两会",
@@ -3083,12 +3099,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 255398,
+      "num": 255398,
+      "word": "为什么睡很久还是感觉疲惫",
+      "onboard_time": 1677639388,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255297,
       "num": 255297,
       "word": "吉利汽车回应银河之光涉嫌抄袭",
       "onboard_time": 1677565648,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 254347,
+      "num": 254347,
+      "word": "于正很期待和李现合作",
+      "onboard_time": 1677638728,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 254105,
@@ -3121,6 +3153,14 @@
       "onboard_time": 1677555208,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247474,
+      "num": 247474,
+      "word": "泫雅出发巴黎时装周",
+      "onboard_time": 1677637408,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 246699,
@@ -3179,14 +3219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 239522,
-      "num": 239522,
-      "word": "泫雅出发巴黎时装周",
-      "onboard_time": 1677637408,
-      "rank": 29,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 239037,
       "num": 210499,
       "word": "章子怡晒巴黎时装周随拍",
@@ -3201,6 +3233,14 @@
       "onboard_time": 1677551967,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236849,
+      "num": 236849,
+      "word": "我努力工作只为双休日",
+      "onboard_time": 1677639206,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 236349,
@@ -3297,6 +3337,14 @@
       "onboard_time": 1677458852,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222071,
+      "num": 222071,
+      "word": "如何减轻年轻人生育焦虑",
+      "onboard_time": 1677639328,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220032,
@@ -3409,6 +3457,14 @@
       "onboard_time": 1677499049,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213313,
+      "num": 213313,
+      "word": "杨紫片场跳舞路透",
+      "onboard_time": 1677639508,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 213209,
@@ -3531,6 +3587,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 206789,
+      "num": 206789,
+      "word": "在单休和调休之间选择退休",
+      "onboard_time": 1677639868,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206728,
       "num": 206728,
       "word": "微博年度人物推荐",
@@ -3611,14 +3675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203742,
-      "num": 203742,
-      "word": "我努力工作只为双休日",
-      "onboard_time": 1677639206,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 202587,
       "num": 202587,
       "word": "三月你好",
@@ -3683,14 +3739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199244,
-      "num": 199244,
-      "word": "于正很期待和李现合作",
-      "onboard_time": 1677638728,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198495,
       "num": 198495,
       "word": "OMG战胜iG",
@@ -3753,14 +3801,6 @@
       "onboard_time": 1677468448,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196620,
-      "num": 196620,
-      "word": "为什么睡很久还是感觉疲惫",
-      "onboard_time": 1677639388,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 196612,
@@ -3921,6 +3961,14 @@
       "onboard_time": 1677539661,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190700,
+      "num": 190700,
+      "word": "AppleMusic被欧盟指控垄断",
+      "onboard_time": 1677639868,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 190262,
@@ -4235,6 +4283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157651,
+      "num": 157651,
+      "word": "旅俄大熊猫画风突变体重狂飙40公斤",
+      "onboard_time": 1677640168,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157306,
       "num": 157306,
       "word": "夏花今晚大结局",
@@ -4331,6 +4387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153358,
+      "num": 153358,
+      "word": "为什么有人需要补税",
+      "onboard_time": 1677636033,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 153041,
       "num": 153041,
       "word": "小车坠河路人下水扶正车辆救出4人",
@@ -4403,14 +4467,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 146226,
-      "num": 146226,
-      "word": "为什么有人需要补税",
-      "onboard_time": 1677636033,
-      "rank": 42,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 145501,
       "num": 145501,
       "word": "TES战胜WE",
@@ -4425,14 +4481,6 @@
       "onboard_time": 1677540021,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 142964,
-      "num": 142964,
-      "word": "赵丽颖春日vlog",
-      "onboard_time": 1677639631,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 142456,
@@ -4531,28 +4579,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 135833,
-      "num": 135833,
-      "word": "杨紫片场跳舞路透",
-      "onboard_time": 1677639508,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 135737,
       "num": 135737,
       "word": "半熟恋人全员剧透式路透",
       "onboard_time": 1677563247,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135027,
-      "num": 135027,
-      "word": "如何减轻年轻人生育焦虑",
-      "onboard_time": 1677639328,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134800,
