@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677647926180,
+  "endTime": 1677648906881,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -675,6 +675,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1068589,
+      "num": 1068589,
+      "word": "双休真的可以干好多事",
+      "onboard_time": 1677645453,
+      "rank": 44,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 1061069,
       "num": 1061069,
       "word": "美国53岁儿童性侵犯疑被连环杀手狱友杀死",
@@ -857,14 +865,6 @@
       "onboard_time": 1677475648,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 882058,
-      "num": 882058,
-      "word": "双休真的可以干好多事",
-      "onboard_time": 1677645453,
-      "rank": 44,
-      "category": "社会议题"
     },
     {
       "raw_hot": 870384,
@@ -1059,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 739784,
+      "num": 739784,
+      "word": "年薪30万大厂女生回应转行卖快餐",
+      "onboard_time": 1677644311,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 739482,
       "num": 739482,
       "word": "重紫的腿没了",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1677456807,
       "rank": 7,
       "category": "科技"
-    },
-    {
-      "raw_hot": 724243,
-      "num": 724243,
-      "word": "年薪30万大厂女生回应转行卖快餐",
-      "onboard_time": 1677644311,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 721227,
@@ -1395,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 598549,
+      "num": 598549,
+      "word": "周琦",
+      "onboard_time": 1677647731,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 587559,
       "num": 587559,
       "word": "建议实行6岁以下儿童免费医疗",
@@ -1499,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563823,
+      "num": 563823,
+      "word": "熊猫七七在医院做CT",
+      "onboard_time": 1677644552,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562811,
       "num": 562811,
       "word": "金智秀即将solo出道",
@@ -1593,14 +1609,6 @@
       "onboard_time": 1677559597,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 534474,
-      "num": 534474,
-      "word": "熊猫七七在医院做CT",
-      "onboard_time": 1677644552,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534389,
@@ -2227,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405863,
+      "num": 405863,
+      "word": "capper",
+      "onboard_time": 1677648329,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 404735,
       "num": 404735,
       "word": "外国要租借大熊猫有多难",
@@ -2275,14 +2291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399548,
-      "num": 399548,
-      "word": "周琦",
-      "onboard_time": 1677647731,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 399014,
       "num": 399014,
       "word": "妻子想卖房救重病儿子遭丈夫反对",
@@ -2305,6 +2313,14 @@
       "onboard_time": 1677545970,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395491,
+      "num": 395491,
+      "word": "宁艺卓小熊造型",
+      "onboard_time": 1677647908,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 393978,
@@ -2419,8 +2435,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 374776,
-      "num": 374776,
+      "raw_hot": 377946,
+      "num": 377946,
       "word": "95后大厂裸辞卖盒饭月挣4万",
       "onboard_time": 1677646171,
       "rank": 20,
@@ -2859,6 +2875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311678,
+      "num": 311678,
+      "word": "这外卖是非送不可吗",
+      "onboard_time": 1677646712,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310899,
       "num": 310899,
       "word": "诺基亚更换新logo",
@@ -3051,6 +3075,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 292904,
+      "num": 242401,
+      "word": "原来车是这么进商场的",
+      "onboard_time": 1677647848,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 291877,
       "num": 291877,
       "word": "张若昀大侦探大衣皮靴造型",
@@ -3065,6 +3097,14 @@
       "onboard_time": 1677489210,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290906,
+      "num": 290906,
+      "word": "男子多次以领养为名将获取的猫虐杀",
+      "onboard_time": 1677645572,
+      "rank": 48,
+      "category": "社会负面"
     },
     {
       "raw_hot": 290304,
@@ -3161,14 +3201,6 @@
       "onboard_time": 1677553347,
       "rank": 23,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 278471,
-      "num": 278471,
-      "word": "男子多次以领养为名将获取的猫虐杀",
-      "onboard_time": 1677645572,
-      "rank": 48,
-      "category": "社会负面"
     },
     {
       "raw_hot": 277512,
@@ -3323,14 +3355,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 256132,
-      "num": 256132,
-      "word": "宁艺卓小熊造型",
-      "onboard_time": 1677647908,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 255297,
       "num": 255297,
       "word": "吉利汽车回应银河之光涉嫌抄袭",
@@ -3377,14 +3401,6 @@
       "onboard_time": 1677555208,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248497,
-      "num": 248497,
-      "word": "这外卖是非送不可吗",
-      "onboard_time": 1677646712,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 247474,
@@ -3707,6 +3723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213764,
+      "num": 213764,
+      "word": "Doinb直播送火箭",
+      "onboard_time": 1677648269,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213209,
       "num": 213209,
       "word": "流浪地球2到徐工化缘",
@@ -3737,6 +3761,14 @@
       "onboard_time": 1677481167,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210662,
+      "num": 210662,
+      "word": "武夷山是坏情绪疗愈所吧",
+      "onboard_time": 1677648508,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 209736,
@@ -3897,6 +3929,22 @@
       "onboard_time": 1677566007,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204911,
+      "num": 204911,
+      "word": "2023全年实际放假10天",
+      "onboard_time": 1677648568,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204467,
+      "num": 204467,
+      "word": "半熟恋人2集体抓马路透",
+      "onboard_time": 1677647848,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 203843,
@@ -4387,14 +4435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 168113,
-      "num": 168113,
-      "word": "原来车是这么进商场的",
-      "onboard_time": 1677647848,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167938,
       "num": 167938,
       "word": "杜兰特太阳首秀对阵黄蜂",
@@ -4529,14 +4569,6 @@
       "onboard_time": 1677421355,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 160152,
-      "num": 160152,
-      "word": "半熟恋人2集体抓马路透",
-      "onboard_time": 1677647848,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 159631,
@@ -5483,7 +5515,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 65996,
+      "raw_hot": 67313,
       "num": 1474088,
       "word": "大国工匠们的话朴素却让人敬佩",
       "onboard_time": 1677646053,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677647926180,
+  "endTime": 1677648906881,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -115,6 +115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1068589,
+      "num": 1068589,
+      "word": "双休真的可以干好多事",
+      "onboard_time": 1677645453,
+      "rank": 44,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 1056716,
       "num": 1056716,
       "word": "如果执行八小时工作双休会怎样",
@@ -137,14 +145,6 @@
       "onboard_time": 1677633451,
       "rank": 5,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 882058,
-      "num": 882058,
-      "word": "双休真的可以干好多事",
-      "onboard_time": 1677645453,
-      "rank": 44,
-      "category": "社会议题"
     },
     {
       "raw_hot": 852499,
@@ -179,8 +179,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 724243,
-      "num": 724243,
+      "raw_hot": 739784,
+      "num": 739784,
       "word": "年薪30万大厂女生回应转行卖快餐",
       "onboard_time": 1677644311,
       "rank": 40,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598549,
+      "num": 598549,
+      "word": "周琦",
+      "onboard_time": 1677647731,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 580412,
       "num": 580412,
       "word": "辽宁一轿车被大货车追尾压扁",
@@ -331,20 +339,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 563823,
+      "num": 563823,
+      "word": "熊猫七七在医院做CT",
+      "onboard_time": 1677644552,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537737,
       "num": 537737,
       "word": "特斯拉",
       "onboard_time": 1677645393,
       "rank": 41,
       "category": "科技"
-    },
-    {
-      "raw_hot": 534474,
-      "num": 534474,
-      "word": "熊猫七七在医院做CT",
-      "onboard_time": 1677644552,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 527202,
@@ -483,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405863,
+      "num": 405863,
+      "word": "capper",
+      "onboard_time": 1677648329,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 401518,
       "num": 401518,
       "word": "公诉精英",
@@ -491,12 +507,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 399548,
-      "num": 399548,
-      "word": "周琦",
-      "onboard_time": 1677647731,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 395491,
+      "num": 395491,
+      "word": "宁艺卓小熊造型",
+      "onboard_time": 1677647908,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 390024,
@@ -523,8 +539,8 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 374776,
-      "num": 374776,
+      "raw_hot": 377946,
+      "num": 377946,
       "word": "95后大厂裸辞卖盒饭月挣4万",
       "onboard_time": 1677646171,
       "rank": 20,
@@ -611,6 +627,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 311678,
+      "num": 311678,
+      "word": "这外卖是非送不可吗",
+      "onboard_time": 1677646712,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 307844,
       "num": 307844,
       "word": "张杰声生不息宝岛季",
@@ -659,6 +683,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 292904,
+      "num": 242401,
+      "word": "原来车是这么进商场的",
+      "onboard_time": 1677647848,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 290906,
+      "num": 290906,
+      "word": "男子多次以领养为名将获取的猫虐杀",
+      "onboard_time": 1677645572,
+      "rank": 48,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 290304,
       "num": 290304,
       "word": "怎么判断自己是退税还是补税",
@@ -681,14 +721,6 @@
       "onboard_time": 1677635069,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278471,
-      "num": 278471,
-      "word": "男子多次以领养为名将获取的猫虐杀",
-      "onboard_time": 1677645572,
-      "rank": 48,
-      "category": "社会负面"
     },
     {
       "raw_hot": 277512,
@@ -739,28 +771,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 256132,
-      "num": 256132,
-      "word": "宁艺卓小熊造型",
-      "onboard_time": 1677647908,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254347,
       "num": 254347,
       "word": "于正很期待和李现合作",
       "onboard_time": 1677638728,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248497,
-      "num": 248497,
-      "word": "这外卖是非送不可吗",
-      "onboard_time": 1677646712,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 247474,
@@ -867,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213764,
+      "num": 213764,
+      "word": "Doinb直播送火箭",
+      "onboard_time": 1677648269,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213015,
       "num": 213015,
       "word": "黄婷婷回应",
@@ -883,6 +907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210662,
+      "num": 210662,
+      "word": "武夷山是坏情绪疗愈所吧",
+      "onboard_time": 1677648508,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 206789,
       "num": 206789,
       "word": "在单休和调休之间选择退休",
@@ -897,6 +929,22 @@
       "onboard_time": 1677625759,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204911,
+      "num": 204911,
+      "word": "2023全年实际放假10天",
+      "onboard_time": 1677648568,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204467,
+      "num": 204467,
+      "word": "半熟恋人2集体抓马路透",
+      "onboard_time": 1677647848,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 202587,
@@ -995,14 +1043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 168113,
-      "num": 168113,
-      "word": "原来车是这么进商场的",
-      "onboard_time": 1677647848,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167938,
       "num": 167938,
       "word": "杜兰特太阳首秀对阵黄蜂",
@@ -1041,14 +1081,6 @@
       "onboard_time": 1677644190,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 160152,
-      "num": 160152,
-      "word": "半熟恋人2集体抓马路透",
-      "onboard_time": 1677647848,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 157146,
@@ -1283,7 +1315,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65996,
+      "raw_hot": 67313,
       "num": 1474088,
       "word": "大国工匠们的话朴素却让人敬佩",
       "onboard_time": 1677646053,
