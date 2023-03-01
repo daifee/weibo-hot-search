@@ -1,0 +1,410 @@
+{
+  "runTime": 1677667112815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1296015,
+        "num": 1296015,
+        "word": "熊猫七七",
+        "onboard_time": 1677662849,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159102,
+        "num": 1159102,
+        "word": "建议每周单休月末连休5天",
+        "onboard_time": 1677653067,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 120651,
+        "num": 1051167,
+        "word": "中国基建太牛了",
+        "onboard_time": 1677657088,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979429,
+        "num": 979429,
+        "word": "王一博祝福周艺轩陈梦瑶",
+        "onboard_time": 1677666028,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652770,
+        "num": 652770,
+        "word": "大学生送5年外卖还清40万外债",
+        "onboard_time": 1677662069,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636260,
+        "num": 636260,
+        "word": "建议引导大学生入职高素质农民队伍",
+        "onboard_time": 1677663149,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629173,
+        "num": 629173,
+        "word": "肖战意大利游玩plog",
+        "onboard_time": 1677664288,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603609,
+        "num": 603609,
+        "word": "1.89亿天价拍卖后万辆新车被报废",
+        "onboard_time": 1677659670,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566792,
+        "num": 566792,
+        "word": "干将莫邪画中仙皮肤",
+        "onboard_time": 1677664048,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 492431,
+        "num": 492431,
+        "word": "建议元宵节放假1天",
+        "onboard_time": 1677661948,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 567110,
+        "num": 491918,
+        "word": "瓦妮莎与洛杉矶政府和解获赔近2亿元",
+        "onboard_time": 1677663987,
+        "rank": 10,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 540506,
+        "num": 491635,
+        "word": "周杰伦 抢票",
+        "onboard_time": 1677656126,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 490558,
+        "num": 490558,
+        "word": "姚明回应新疆男篮退出CBA",
+        "onboard_time": 1677666688,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 480921,
+        "num": 480921,
+        "word": "国足新帅正式亮相",
+        "onboard_time": 1677662009,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401242,
+        "num": 401242,
+        "word": "国考",
+        "onboard_time": 1677656247,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 376163,
+        "num": 376163,
+        "word": "向太暂停直播的原因",
+        "onboard_time": 1677661648,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368711,
+        "num": 368711,
+        "word": "上海野生动物园多次抽查发现问题",
+        "onboard_time": 1677660389,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352789,
+        "num": 352789,
+        "word": "爱奇艺新专利可在弹幕中展示广告",
+        "onboard_time": 1677663509,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 302478,
+        "num": 302478,
+        "word": "2023五一档电影增至五部",
+        "onboard_time": 1677662189,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295183,
+        "num": 295183,
+        "word": "2023全年实际放假10天",
+        "onboard_time": 1677648568,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413869,
+        "num": 289474,
+        "word": "全红婵长成大女孩了",
+        "onboard_time": 1677658949,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269210,
+        "num": 269210,
+        "word": "赵丽颖和素人合照",
+        "onboard_time": 1677654628,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265631,
+        "num": 265631,
+        "word": "陆虎 抢票",
+        "onboard_time": 1677653126,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239190,
+        "num": 239190,
+        "word": "三甲医院有位患者叫熊猫是真熊猫",
+        "onboard_time": 1677643769,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230399,
+        "num": 230399,
+        "word": "动物园发布丫丫最新照片",
+        "onboard_time": 1677654628,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221574,
+        "num": 221574,
+        "word": "全球近60只大熊猫旅居海外",
+        "onboard_time": 1677662790,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219828,
+        "num": 219828,
+        "word": "还不会退税的有福了",
+        "onboard_time": 1677655288,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218497,
+        "num": 218497,
+        "word": "世上再没有辣目没有情和闻人了",
+        "onboard_time": 1677664948,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199022,
+        "num": 199022,
+        "word": "双休真的可以干好多事",
+        "onboard_time": 1677645453,
+        "rank": 28,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 186028,
+        "num": 186028,
+        "word": "三月头像",
+        "onboard_time": 1677649767,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180622,
+        "num": 180622,
+        "word": "张若昀刘昊然合体录制大侦探",
+        "onboard_time": 1677662370,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177532,
+        "num": 177532,
+        "word": "法国球星方丹去世",
+        "onboard_time": 1677666089,
+        "rank": 31,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 160801,
+        "num": 160801,
+        "word": "国考3月上中旬出分",
+        "onboard_time": 1677660569,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 150323,
+        "num": 150323,
+        "word": "孙怡的直角肩",
+        "onboard_time": 1677655348,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142105,
+        "num": 142105,
+        "word": "制片人梅子笑为风波中的女演员抱不平",
+        "onboard_time": 1677662128,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138310,
+        "num": 138310,
+        "word": "重紫第三世叫逆紫",
+        "onboard_time": 1677663028,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136747,
+        "num": 136747,
+        "word": "玄商神君回归",
+        "onboard_time": 1677660749,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128023,
+        "num": 128023,
+        "word": "快乐再出发2收官演唱会阵容",
+        "onboard_time": 1677662189,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119137,
+        "num": 119137,
+        "word": "211文科男硕士吐槽招聘会均薪5500引争议",
+        "onboard_time": 1677641848,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 114010,
+        "num": 114010,
+        "word": "年薪30万大厂女生回应转行卖快餐",
+        "onboard_time": 1677644311,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110705,
+        "num": 110705,
+        "word": "狗狗的cpu都被干烧了",
+        "onboard_time": 1677653788,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110623,
+        "num": 110623,
+        "word": "特斯拉",
+        "onboard_time": 1677645393,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 108254,
+        "num": 108254,
+        "word": "于正说欢娱只有学霸没有文盲",
+        "onboard_time": 1677650187,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108127,
+        "num": 108127,
+        "word": "王鸥大侦探水晶发箍造型",
+        "onboard_time": 1677661110,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107334,
+        "num": 107334,
+        "word": "国足目标全力冲击2026世界杯",
+        "onboard_time": 1677660449,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101577,
+        "num": 101577,
+        "word": "扬科维奇掌握中国所有球员信息",
+        "onboard_time": 1677662728,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98128,
+        "num": 98128,
+        "word": "单休比双休一年少休近50天",
+        "onboard_time": 1677644610,
+        "rank": 46,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 97577,
+        "num": 97577,
+        "word": "阿娇米兰餐厅打卡照",
+        "onboard_time": 1677658469,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 86308,
+        "num": 86308,
+        "word": "七七同园大熊猫雅奥曾因肠梗阻离世",
+        "onboard_time": 1677660268,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83285,
+        "num": 83285,
+        "word": "所有大熊猫在法律上都属于中国",
+        "onboard_time": 1677665967,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进中国式现代化关键在党#"
+    }
+  }
+}
