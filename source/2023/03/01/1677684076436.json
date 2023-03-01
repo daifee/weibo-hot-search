@@ -1,0 +1,410 @@
+{
+  "runTime": 1677684076436,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 843497,
+        "num": 843497,
+        "word": "爱奇艺回应2月充会员只能用28天",
+        "onboard_time": 1677668188,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 519810,
+        "num": 519810,
+        "word": "建议严查超前学习行为",
+        "onboard_time": 1677671189,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94086,
+        "num": 493208,
+        "word": "春日里的花海列车",
+        "onboard_time": 1677677069,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490804,
+        "num": 490804,
+        "word": "韩总统称日本已从侵略者转变为伙伴",
+        "onboard_time": 1677670589,
+        "rank": 3,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 1250834,
+        "num": 487185,
+        "word": "教育局通报柳州一小学按父母职业排座位",
+        "onboard_time": 1677677491,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768749,
+        "num": 486963,
+        "word": "动物园称未收到丫丫提早回国消息",
+        "onboard_time": 1677676650,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480881,
+        "num": 480881,
+        "word": "董明珠建议统一五险一金标准",
+        "onboard_time": 1677671848,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742861,
+        "num": 477905,
+        "word": "刘亚仁",
+        "onboard_time": 1677676230,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442052,
+        "num": 442052,
+        "word": "颖儿探班任嘉伦",
+        "onboard_time": 1677669869,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 420183,
+        "num": 420183,
+        "word": "胡锡进谈调整休假安排建议",
+        "onboard_time": 1677681092,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652142,
+        "num": 409634,
+        "word": "白敬亭睡前视频",
+        "onboard_time": 1677682351,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396442,
+        "num": 396442,
+        "word": "安欣陆泽宁楼道吻",
+        "onboard_time": 1677672629,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 365191,
+        "num": 365191,
+        "word": "张颂文感谢网友画的高启强",
+        "onboard_time": 1677672809,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362753,
+        "num": 362753,
+        "word": "家长发文称小学按父母职业排座位",
+        "onboard_time": 1677678510,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 65053,
+        "num": 348018,
+        "word": "怡丽丝尔水乳",
+        "onboard_time": 1677682831,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 343791,
+        "num": 343791,
+        "word": "姚明回应新疆男篮退出CBA",
+        "onboard_time": 1677666688,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 313168,
+        "num": 313168,
+        "word": "大麦",
+        "onboard_time": 1677675632,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307023,
+        "num": 307023,
+        "word": "见过最让人窒息的家长",
+        "onboard_time": 1677669567,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 275369,
+        "num": 275369,
+        "word": "历届微博之夜名场面盘点",
+        "onboard_time": 1677684030,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266222,
+        "num": 266222,
+        "word": "陈妍希翻遍通讯录为景甜找对象",
+        "onboard_time": 1677671189,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1059632,
+        "num": 260178,
+        "word": "宋茜路演现场因雪莉落泪",
+        "onboard_time": 1677675990,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307213,
+        "num": 258965,
+        "word": "推特崩了",
+        "onboard_time": 1677671971,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 253868,
+        "num": 253868,
+        "word": "鬼灭之刃第三季正式预告",
+        "onboard_time": 1677675569,
+        "rank": 22,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 220153,
+        "num": 220153,
+        "word": "在新疆减肥有多难",
+        "onboard_time": 1677683008,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217546,
+        "num": 217546,
+        "word": "周杰伦 抢票",
+        "onboard_time": 1677656126,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206432,
+        "num": 206432,
+        "word": "王茂蕾李一桐演父女",
+        "onboard_time": 1677679831,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200135,
+        "num": 200135,
+        "word": "1.89亿天价拍卖后万辆新车被报废",
+        "onboard_time": 1677659670,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196047,
+        "num": 196047,
+        "word": "大秀直击",
+        "onboard_time": 1677683728,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190871,
+        "num": 190871,
+        "word": "彭冠英王楚然兑现flag",
+        "onboard_time": 1677680072,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190549,
+        "num": 190549,
+        "word": "樊治欣杨雨潼吻戏好甜",
+        "onboard_time": 1677682469,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190513,
+        "num": 190513,
+        "word": "大学生送5年外卖还清40万外债",
+        "onboard_time": 1677662069,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184158,
+        "num": 184158,
+        "word": "这猫咪是戴了金箍吧",
+        "onboard_time": 1677680370,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172044,
+        "num": 172044,
+        "word": "这玩偶一天能走两万步",
+        "onboard_time": 1677679470,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160204,
+        "num": 160204,
+        "word": "山东男篮双加时战胜辽宁男篮",
+        "onboard_time": 1677682050,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158510,
+        "num": 158510,
+        "word": "王一博祝福周艺轩陈梦瑶",
+        "onboard_time": 1677666028,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149554,
+        "num": 149554,
+        "word": "全红婵长成大女孩了",
+        "onboard_time": 1677658949,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148544,
+        "num": 148544,
+        "word": "丫丫回国后将进行检疫隔离",
+        "onboard_time": 1677669809,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147471,
+        "num": 147471,
+        "word": "急诊科医生与外卖小哥的共同点找到了",
+        "onboard_time": 1677683251,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389075,
+        "num": 147119,
+        "word": "肖战插兜采访视频",
+        "onboard_time": 1677680551,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146520,
+        "num": 146520,
+        "word": "山东男篮vs辽宁男篮",
+        "onboard_time": 1677677970,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135228,
+        "num": 135228,
+        "word": "星落凝成糖上头名场面",
+        "onboard_time": 1677673828,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135170,
+        "num": 135170,
+        "word": "建议每周单休月末连休5天",
+        "onboard_time": 1677653067,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 134998,
+        "num": 134998,
+        "word": "Lisa新加坡芭莎封面",
+        "onboard_time": 1677674911,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133477,
+        "num": 133477,
+        "word": "李岱昆重紫烟熏妆",
+        "onboard_time": 1677681032,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132497,
+        "num": 132497,
+        "word": "恋爱中的少典有琴",
+        "onboard_time": 1677681751,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129380,
+        "num": 129380,
+        "word": "每周单休月末连休5天合理吗",
+        "onboard_time": 1677682831,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127395,
+        "num": 127395,
+        "word": "上海野生动物园多次抽查发现问题",
+        "onboard_time": 1677660389,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114360,
+        "num": 114360,
+        "word": "赵继伟罚球绝平",
+        "onboard_time": 1677681389,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107364,
+        "num": 107364,
+        "word": "洪金宝亚洲电影大奖终身成就奖",
+        "onboard_time": 1677683310,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103194,
+        "num": 103194,
+        "word": "国考",
+        "onboard_time": 1677656247,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在创造性实践中探索中国式现代化#"
+    }
+  }
+}

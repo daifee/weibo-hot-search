@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677681367249,
+  "endTime": 1677684076436,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -835,20 +835,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1059632,
+      "num": 1056072,
+      "word": "宋茜路演现场因雪莉落泪",
+      "onboard_time": 1677675990,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1056716,
       "num": 1056716,
       "word": "如果执行八小时工作双休会怎样",
       "onboard_time": 1677641309,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1056072,
-      "num": 1056072,
-      "word": "宋茜路演现场因雪莉落泪",
-      "onboard_time": 1677675990,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 1055363,
@@ -980,7 +980,7 @@
     },
     {
       "raw_hot": 928046,
-      "num": 705557,
+      "num": 843497,
       "word": "爱奇艺回应2月充会员只能用28天",
       "onboard_time": 1677668188,
       "rank": 11,
@@ -1569,6 +1569,14 @@
       "onboard_time": 1677555509,
       "rank": 12,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 652142,
+      "num": 409634,
+      "word": "白敬亭睡前视频",
+      "onboard_time": 1677682351,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 648486,
@@ -2547,6 +2555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 420183,
+      "num": 420183,
+      "word": "胡锡进谈调整休假安排建议",
+      "onboard_time": 1677681092,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418405,
       "num": 418405,
       "word": "杨幂费加罗男士3月封面预告视频",
@@ -2945,6 +2961,14 @@
       "onboard_time": 1677421413,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362753,
+      "num": 362753,
+      "word": "家长发文称小学按父母职业排座位",
+      "onboard_time": 1677678510,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 362335,
@@ -3491,14 +3515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297475,
-      "num": 297475,
-      "word": "家长发文称小学按父母职业排座位",
-      "onboard_time": 1677678510,
-      "rank": 27,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 297259,
       "num": 297259,
       "word": "种牙降价了多地已调整",
@@ -3745,6 +3761,14 @@
       "onboard_time": 1677645934,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275369,
+      "num": 275369,
+      "word": "历届微博之夜名场面盘点",
+      "onboard_time": 1677684030,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 274968,
@@ -4217,6 +4241,14 @@
       "onboard_time": 1677662790,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220153,
+      "num": 220153,
+      "word": "在新疆减肥有多难",
+      "onboard_time": 1677683008,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 220032,
@@ -4771,6 +4803,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 196047,
+      "num": 196047,
+      "word": "大秀直击",
+      "onboard_time": 1677683728,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 195535,
       "num": 177958,
       "word": "陈采尼点评高叶红毯造型",
@@ -4963,12 +5003,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 190627,
-      "num": 190627,
-      "word": "胡锡进谈调整休假安排建议",
-      "onboard_time": 1677681092,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 190549,
+      "num": 190549,
+      "word": "樊治欣杨雨潼吻戏好甜",
+      "onboard_time": 1677682469,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 190262,
@@ -5121,6 +5161,14 @@
       "onboard_time": 1677493651,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 184158,
+      "num": 184158,
+      "word": "这猫咪是戴了金箍吧",
+      "onboard_time": 1677680370,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 184039,
@@ -5363,6 +5411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160204,
+      "num": 160204,
+      "word": "山东男篮双加时战胜辽宁男篮",
+      "onboard_time": 1677682050,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159631,
       "num": 159631,
       "word": "第16个国际罕见病日",
@@ -5555,14 +5611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149462,
-      "num": 149462,
-      "word": "这猫咪是戴了金箍吧",
-      "onboard_time": 1677680370,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149297,
       "num": 149297,
       "word": "委员建议小学改为5年制",
@@ -5609,6 +5657,14 @@
       "onboard_time": 1677551188,
       "rank": 37,
       "category": "科技"
+    },
+    {
+      "raw_hot": 147471,
+      "num": 147471,
+      "word": "急诊科医生与外卖小哥的共同点找到了",
+      "onboard_time": 1677683251,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145501,
@@ -5779,6 +5835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132497,
+      "num": 132497,
+      "word": "恋爱中的少典有琴",
+      "onboard_time": 1677681751,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132390,
       "num": 132390,
       "word": "春季预防流感要注意什么",
@@ -5809,6 +5873,14 @@
       "onboard_time": 1677654027,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129380,
+      "num": 129380,
+      "word": "每周单休月末连休5天合理吗",
+      "onboard_time": 1677682831,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128623,
@@ -5995,6 +6067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114360,
+      "num": 114360,
+      "word": "赵继伟罚球绝平",
+      "onboard_time": 1677681389,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113928,
       "num": 113928,
       "word": "半熟恋人修罗场",
@@ -6105,6 +6185,14 @@
       "onboard_time": 1677462087,
       "rank": 47,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 107364,
+      "num": 107364,
+      "word": "洪金宝亚洲电影大奖终身成就奖",
+      "onboard_time": 1677683310,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 106799,
@@ -6449,6 +6537,14 @@
       "onboard_time": 1677419853,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65053,
+      "num": 348018,
+      "word": "怡丽丝尔水乳",
+      "onboard_time": 1677682831,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 62972,
