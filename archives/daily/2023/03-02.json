@@ -1,6 +1,6 @@
 {
   "startTime": 1677688085914,
-  "endTime": 1677689205075,
+  "endTime": 1677691108328,
   "band_list": [
     {
       "raw_hot": 857414,
@@ -11,8 +11,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 752586,
-      "num": 752586,
+      "raw_hot": 850150,
+      "num": 850150,
       "word": "美国流浪汉被当街处决式射杀",
       "onboard_time": 1677686724,
       "rank": 10,
@@ -25,6 +25,14 @@
       "onboard_time": 1677675990,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 617003,
+      "num": 617003,
+      "word": "文科生转码或成趋势",
+      "onboard_time": 1677687685,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 611289,
@@ -89,14 +97,6 @@
       "onboard_time": 1677672629,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 266161,
-      "num": 266161,
-      "word": "文科生转码或成趋势",
-      "onboard_time": 1677687685,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 248400,
@@ -377,6 +377,14 @@
       "onboard_time": 1677681751,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 61129,
+      "num": 61129,
+      "word": "龚俊入驻上海杜莎夫人蜡像馆",
+      "onboard_time": 1677689479,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 60931,

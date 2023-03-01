@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677689205075,
+  "endTime": 1677691108328,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -1115,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 850150,
+      "num": 850150,
+      "word": "美国流浪汉被当街处决式射杀",
+      "onboard_time": 1677686724,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 849874,
       "num": 485159,
       "word": "董明珠将再建议提高个税起征点",
@@ -1248,14 +1256,6 @@
       "word": "丫丫回国后将进行检疫隔离",
       "onboard_time": 1677669809,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 752586,
-      "num": 752586,
-      "word": "美国流浪汉被当街处决式射杀",
-      "onboard_time": 1677686724,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1649,6 +1649,14 @@
       "onboard_time": 1677478170,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617003,
+      "num": 617003,
+      "word": "文科生转码或成趋势",
+      "onboard_time": 1677687685,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 616503,
@@ -3889,14 +3897,6 @@
       "onboard_time": 1677474450,
       "rank": 44,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 266161,
-      "num": 266161,
-      "word": "文科生转码或成趋势",
-      "onboard_time": 1677687685,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 262864,
@@ -6625,6 +6625,14 @@
       "onboard_time": 1677473434,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61129,
+      "num": 61129,
+      "word": "龚俊入驻上海杜莎夫人蜡像馆",
+      "onboard_time": 1677689479,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 60372,

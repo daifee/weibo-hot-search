@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677689205075,
+  "endTime": 1677691108328,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 850150,
+      "num": 850150,
+      "word": "美国流浪汉被当街处决式射杀",
+      "onboard_time": 1677686724,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 844896,
       "num": 844896,
       "word": "教资面试成绩",
@@ -400,14 +408,6 @@
       "word": "丫丫回国后将进行检疫隔离",
       "onboard_time": 1677669809,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 752586,
-      "num": 752586,
-      "word": "美国流浪汉被当街处决式射杀",
-      "onboard_time": 1677686724,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -625,6 +625,14 @@
       "onboard_time": 1677642449,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 617003,
+      "num": 617003,
+      "word": "文科生转码或成趋势",
+      "onboard_time": 1677687685,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 608203,
@@ -1369,14 +1377,6 @@
       "onboard_time": 1677639631,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 266161,
-      "num": 266161,
-      "word": "文科生转码或成趋势",
-      "onboard_time": 1677687685,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 257983,
@@ -2449,6 +2449,14 @@
       "onboard_time": 1677580710,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 61129,
+      "num": 61129,
+      "word": "龚俊入驻上海杜莎夫人蜡像馆",
+      "onboard_time": 1677689479,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 60091,
