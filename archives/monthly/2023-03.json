@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677636962384,
+  "endTime": 1677639685584,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 708615,
+      "num": 708615,
+      "word": "王楚然刘令姿 看秀图",
+      "onboard_time": 1677636750,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 690993,
       "num": 690993,
       "word": "iPhone16Pro有望采用屏下FaceID",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 611474,
+      "num": 293280,
+      "word": "年薪30万女生转行卖快餐",
+      "onboard_time": 1677637829,
+      "rank": 20,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 605934,
       "num": 605934,
       "word": "女子别墅被老爸60万装出浓情复古风",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 573899,
-      "num": 288918,
+      "num": 292763,
       "word": "家属曝73岁父亲被养老院护工打爆眼球",
       "onboard_time": 1677629368,
       "rank": 20,
@@ -227,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 495390,
+      "num": 495390,
+      "word": "SuperJunior将推出沙特旅行综艺神灯的骑士",
+      "onboard_time": 1677638607,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471595,
       "num": 471595,
       "word": "HYBE收购SMTOWN失败",
@@ -259,6 +283,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 413363,
+      "num": 413363,
+      "word": "张艺兴出演长沙夜生活",
+      "onboard_time": 1677639031,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405335,
       "num": 405335,
       "word": "米店",
@@ -281,6 +313,22 @@
       "onboard_time": 1677630634,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362335,
+      "num": 362335,
+      "word": "湖人",
+      "onboard_time": 1677637648,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 355686,
+      "num": 355686,
+      "word": "3月星座恋爱运",
+      "onboard_time": 1677637048,
+      "rank": 14,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 350184,
@@ -323,6 +371,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 338441,
+      "num": 338441,
+      "word": "iPhone能在PC端接打电话了",
+      "onboard_time": 1677636451,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 326457,
       "num": 326457,
       "word": "声生不息",
@@ -355,6 +411,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 294344,
+      "num": 294344,
+      "word": "官方通报网传苏州动保组织拘禁审讯猫贩",
+      "onboard_time": 1677638186,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290304,
+      "num": 290304,
+      "word": "怎么判断自己是退税还是补税",
+      "onboard_time": 1677635791,
+      "rank": 19,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 285898,
       "num": 285898,
       "word": "朴彩英巴黎时装周造型",
@@ -369,14 +441,6 @@
       "onboard_time": 1677635069,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277703,
-      "num": 277703,
-      "word": "怎么判断自己是退税还是补税",
-      "onboard_time": 1677635791,
-      "rank": 19,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 277512,
@@ -395,12 +459,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 262795,
-      "num": 262795,
+      "raw_hot": 266025,
+      "num": 266025,
       "word": "何佳蓉",
       "onboard_time": 1677626542,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262214,
+      "num": 262214,
+      "word": "教资认定",
+      "onboard_time": 1677639149,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 260059,
+      "num": 260059,
+      "word": "爱奇艺CEO回应投屏事件",
+      "onboard_time": 1677638547,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 257983,
@@ -427,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239522,
+      "num": 239522,
+      "word": "泫雅出发巴黎时装周",
+      "onboard_time": 1677637408,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 232038,
       "num": 232038,
       "word": "个人所得税退税",
@@ -443,12 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219437,
-      "num": 219437,
-      "word": "iPhone能在PC端接打电话了",
-      "onboard_time": 1677636451,
+      "raw_hot": 217343,
+      "num": 217343,
+      "word": "柯南剧场版90秒预告",
+      "onboard_time": 1677637648,
       "rank": 30,
-      "category": "科技"
+      "category": "影视"
     },
     {
       "raw_hot": 216677,
@@ -483,20 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207884,
-      "num": 207884,
+      "raw_hot": 211015,
+      "num": 211015,
       "word": "双休日对打工人有多重要",
       "onboard_time": 1677636572,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 207669,
-      "num": 207669,
-      "word": "王楚然刘令姿 看秀图",
-      "onboard_time": 1677636750,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206078,
@@ -505,6 +585,14 @@
       "onboard_time": 1677625759,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203742,
+      "num": 203742,
+      "word": "我努力工作只为双休日",
+      "onboard_time": 1677639206,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 202587,
@@ -531,12 +619,28 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 199244,
+      "num": 199244,
+      "word": "于正很期待和李现合作",
+      "onboard_time": 1677638728,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196718,
       "num": 196718,
       "word": "香奈儿回应2万包包15分钟断了",
       "onboard_time": 1677573270,
       "rank": 25,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 196620,
+      "num": 196620,
+      "word": "为什么睡很久还是感觉疲惫",
+      "onboard_time": 1677639388,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 191700,
@@ -643,12 +747,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143604,
-      "num": 143604,
+      "raw_hot": 146226,
+      "num": 146226,
       "word": "为什么有人需要补税",
       "onboard_time": 1677636033,
       "rank": 42,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 142964,
+      "num": 142964,
+      "word": "赵丽颖春日vlog",
+      "onboard_time": 1677639631,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 140495,
@@ -683,11 +795,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135833,
+      "num": 135833,
+      "word": "杨紫片场跳舞路透",
+      "onboard_time": 1677639508,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135295,
       "num": 135295,
       "word": "建议把抑郁症治疗纳入医保",
       "onboard_time": 1677585690,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135027,
+      "num": 135027,
+      "word": "如何减轻年轻人生育焦虑",
+      "onboard_time": 1677639328,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
