@@ -1,7 +1,15 @@
 {
   "startTime": 1677688085914,
-  "endTime": 1677710110716,
+  "endTime": 1677712783619,
   "band_list": [
+    {
+      "raw_hot": 861487,
+      "num": 861487,
+      "word": "美国流浪汉被当街处决式射杀",
+      "onboard_time": 1677686724,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 857414,
       "num": 857414,
@@ -9,14 +17,6 @@
       "onboard_time": 1677684388,
       "rank": 0,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 850150,
-      "num": 850150,
-      "word": "美国流浪汉被当街处决式射杀",
-      "onboard_time": 1677686724,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 658197,
@@ -27,8 +27,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 617003,
-      "num": 617003,
+      "raw_hot": 619816,
+      "num": 619816,
       "word": "文科生转码或成趋势",
       "onboard_time": 1677687685,
       "rank": 48,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444510,
+      "num": 444510,
+      "word": "3月份有望播出的电视剧",
+      "onboard_time": 1677710777,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400502,
       "num": 400502,
       "word": "安乐传制片人",
@@ -59,12 +67,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382552,
+      "num": 382552,
+      "word": "浙江女子追到广州找到被偷的爱猫",
+      "onboard_time": 1677695953,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344256,
       "num": 344256,
       "word": "韩总统称日本已从侵略者转变为伙伴",
       "onboard_time": 1677670589,
       "rank": 5,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 329491,
+      "num": 329491,
+      "word": "网友遭遇话梅刺客一颗20多元",
+      "onboard_time": 1677709995,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324121,
@@ -91,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282871,
+      "num": 282871,
+      "word": "特斯拉投资者日",
+      "onboard_time": 1677712641,
+      "rank": 8,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 269244,
       "num": 269244,
       "word": "安欣陆泽宁楼道吻",
@@ -115,6 +147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232416,
+      "num": 232416,
+      "word": "六十岁上班的我",
+      "onboard_time": 1677680312,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 228758,
+      "num": 228758,
+      "word": "儿子篮球班倒闭家长掏1000万买下",
+      "onboard_time": 1677712400,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224302,
       "num": 224302,
       "word": "颖儿探班任嘉伦",
@@ -129,6 +177,14 @@
       "onboard_time": 1677683008,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193140,
+      "num": 193140,
+      "word": "张颂文希望大家不要再接机",
+      "onboard_time": 1677712761,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 188141,
@@ -155,6 +211,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 167812,
+      "num": 167812,
+      "word": "家长发文称小学按父母职业排座位",
+      "onboard_time": 1677678510,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 167592,
       "num": 167592,
       "word": "肖战意大利游玩plog",
@@ -171,11 +235,11 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 154985,
-      "num": 154985,
-      "word": "浙江女子追到广州找到被偷的爱猫",
-      "onboard_time": 1677695953,
-      "rank": 49,
+      "raw_hot": 156281,
+      "num": 130312,
+      "word": "秘鲁男子将木乃伊当女友每天同睡",
+      "onboard_time": 1677691456,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -185,14 +249,6 @@
       "onboard_time": 1677683251,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134667,
-      "num": 134667,
-      "word": "家长发文称小学按父母职业排座位",
-      "onboard_time": 1677678510,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 125142,
@@ -220,7 +276,7 @@
     },
     {
       "raw_hot": 118109,
-      "num": 67403,
+      "num": 108829,
       "word": "看得出外公已经尽力了",
       "onboard_time": 1677693194,
       "rank": 10,
@@ -259,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109825,
-      "num": 109825,
-      "word": "六十岁上班的我",
-      "onboard_time": 1677680312,
-      "rank": 39,
-      "category": "幽默,情感"
+      "raw_hot": 110541,
+      "num": 110541,
+      "word": "温州特斯拉车祸驾驶员已苏醒",
+      "onboard_time": 1677712339,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97474,
@@ -305,6 +361,22 @@
       "onboard_time": 1677679470,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88667,
+      "num": 88667,
+      "word": "子女受父母胁迫结婚可申请撤销",
+      "onboard_time": 1677703991,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88610,
+      "num": 88610,
+      "word": "成毅巴黎时装周停车场大片",
+      "onboard_time": 1677703150,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 88014,
@@ -355,20 +427,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 77457,
-      "num": 77457,
-      "word": "子女受父母胁迫结婚可申请撤销",
-      "onboard_time": 1677703991,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76193,
-      "num": 47688,
-      "word": "秘鲁男子将木乃伊当女友每天同睡",
-      "onboard_time": 1677691456,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 74146,
+      "num": 74146,
+      "word": "王茂蕾李一桐演父女",
+      "onboard_time": 1677679831,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 72042,
@@ -403,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63298,
-      "num": 63298,
-      "word": "成毅巴黎时装周停车场大片",
-      "onboard_time": 1677703150,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 62920,
       "num": 62920,
       "word": "建议每周单休月末连休5天",
@@ -435,12 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60931,
-      "num": 60931,
-      "word": "王茂蕾李一桐演父女",
-      "onboard_time": 1677679831,
-      "rank": 44,
-      "category": "影视"
+      "raw_hot": 60178,
+      "num": 524864,
+      "word": "春日里的花海列车",
+      "onboard_time": 1677677069,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55440,
@@ -459,16 +515,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 51638,
-      "num": 524864,
-      "word": "春日里的花海列车",
-      "onboard_time": 1677677069,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38796,
-      "num": 38796,
+      "raw_hot": 47508,
+      "num": 47508,
       "word": "曼联vs西汉姆联",
       "onboard_time": 1677698173,
       "rank": 43,
@@ -491,6 +539,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36291,
+      "num": 36291,
+      "word": "阿森纳vs埃弗顿",
+      "onboard_time": 1677698412,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 34677,
+      "num": 34677,
+      "word": "普通蓝莓vs蓝莓plus",
+      "onboard_time": 1677700272,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 32331,
       "num": 32331,
       "word": "微博之夜嘉宾",
@@ -507,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28138,
-      "num": 28138,
-      "word": "阿森纳vs埃弗顿",
-      "onboard_time": 1677698412,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 26409,
       "num": 26409,
       "word": "大秀直击",
@@ -523,28 +579,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 20789,
-      "num": 20789,
-      "word": "普通蓝莓vs蓝莓plus",
-      "onboard_time": 1677700272,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 17767,
       "num": 17767,
       "word": "利马major淘汰赛",
       "onboard_time": 1677700632,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 16658,
-      "num": 20047,
-      "word": "网友遭遇话梅刺客一颗20多元",
-      "onboard_time": 1677709995,
-      "rank": 48,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

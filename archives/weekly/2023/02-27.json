@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677710110716,
+  "endTime": 1677712783619,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -1075,6 +1075,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 861487,
+      "num": 861487,
+      "word": "美国流浪汉被当街处决式射杀",
+      "onboard_time": 1677686724,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 860899,
       "num": 860899,
       "word": "高启强为啥总穿戗驳领西装",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1677415229,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 850150,
-      "num": 850150,
-      "word": "美国流浪汉被当街处决式射杀",
-      "onboard_time": 1677686724,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 849874,
@@ -1635,6 +1635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 619816,
+      "num": 619816,
+      "word": "文科生转码或成趋势",
+      "onboard_time": 1677687685,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 619068,
       "num": 571221,
       "word": "新疆男篮球员何去何从",
@@ -1649,14 +1657,6 @@
       "onboard_time": 1677478170,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 617003,
-      "num": 617003,
-      "word": "文科生转码或成趋势",
-      "onboard_time": 1677687685,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 616503,
@@ -2387,6 +2387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 444510,
+      "num": 444510,
+      "word": "3月份有望播出的电视剧",
+      "onboard_time": 1677710777,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443282,
       "num": 443282,
       "word": "老友记莫妮卡扮演者好莱坞留星",
@@ -2891,6 +2899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382552,
+      "num": 382552,
+      "word": "浙江女子追到广州找到被偷的爱猫",
+      "onboard_time": 1677695953,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380855,
       "num": 380855,
       "word": "众星发博盼望丫丫早日回家",
@@ -3305,6 +3321,14 @@
       "onboard_time": 1677677970,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329491,
+      "num": 329491,
+      "word": "网友遭遇话梅刺客一颗20多元",
+      "onboard_time": 1677709995,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327549,
@@ -3763,6 +3787,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 282871,
+      "num": 282871,
+      "word": "特斯拉投资者日",
+      "onboard_time": 1677712641,
+      "rank": 8,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 282101,
       "num": 192594,
       "word": "蔡徐坤的戒指好大",
@@ -4163,6 +4195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232416,
+      "num": 232416,
+      "word": "六十岁上班的我",
+      "onboard_time": 1677680312,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 232284,
       "num": 232284,
       "word": "微博KING和QUEEN",
@@ -4201,6 +4241,14 @@
       "onboard_time": 1677684988,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228758,
+      "num": 228758,
+      "word": "儿子篮球班倒闭家长掏1000万买下",
+      "onboard_time": 1677712400,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228243,
@@ -4931,6 +4979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193140,
+      "num": 193140,
+      "word": "张颂文希望大家不要再接机",
+      "onboard_time": 1677712761,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193022,
       "num": 193022,
       "word": "舞力全开入选奥林匹克电竞项目",
@@ -5547,6 +5603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156281,
+      "num": 130312,
+      "word": "秘鲁男子将木乃伊当女友每天同睡",
+      "onboard_time": 1677691456,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156066,
       "num": 156066,
       "word": "又看到刘诗雯打球了",
@@ -5600,14 +5664,6 @@
       "word": "委员建议将轻微伤入刑",
       "onboard_time": 1677579088,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154985,
-      "num": 154985,
-      "word": "浙江女子追到广州找到被偷的爱猫",
-      "onboard_time": 1677695953,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -6076,7 +6132,7 @@
     },
     {
       "raw_hot": 118109,
-      "num": 67403,
+      "num": 108829,
       "word": "看得出外公已经尽力了",
       "onboard_time": 1677693194,
       "rank": 10,
@@ -6251,12 +6307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109825,
-      "num": 109825,
-      "word": "六十岁上班的我",
-      "onboard_time": 1677680312,
-      "rank": 39,
-      "category": "幽默,情感"
+      "raw_hot": 110541,
+      "num": 110541,
+      "word": "温州特斯拉车祸驾驶员已苏醒",
+      "onboard_time": 1677712339,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109807,
@@ -6467,6 +6523,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88667,
+      "num": 88667,
+      "word": "子女受父母胁迫结婚可申请撤销",
+      "onboard_time": 1677703991,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88610,
+      "num": 88610,
+      "word": "成毅巴黎时装周停车场大片",
+      "onboard_time": 1677703150,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 87682,
       "num": 87682,
       "word": "AG版狂飙",
@@ -6571,22 +6643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77457,
-      "num": 77457,
-      "word": "子女受父母胁迫结婚可申请撤销",
-      "onboard_time": 1677703991,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76193,
-      "num": 47688,
-      "word": "秘鲁男子将木乃伊当女友每天同睡",
-      "onboard_time": 1677691456,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75550,
       "num": 75550,
       "word": "ITZY中文版TrustMe",
@@ -6659,14 +6715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63298,
-      "num": 63298,
-      "word": "成毅巴黎时装周停车场大片",
-      "onboard_time": 1677703150,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 62972,
       "num": 1363388,
       "word": "又到了宜耕耘奋斗的春天",
@@ -6715,6 +6763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47508,
+      "num": 47508,
+      "word": "曼联vs西汉姆联",
+      "onboard_time": 1677698173,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44598,
       "num": 426530,
       "word": "窦靖童未来感妆容",
@@ -6739,11 +6795,11 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 38796,
-      "num": 38796,
-      "word": "曼联vs西汉姆联",
-      "onboard_time": 1677698173,
-      "rank": 43,
+      "raw_hot": 36291,
+      "num": 36291,
+      "word": "阿森纳vs埃弗顿",
+      "onboard_time": 1677698412,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -6753,6 +6809,14 @@
       "onboard_time": 1677484827,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34677,
+      "num": 34677,
+      "word": "普通蓝莓vs蓝莓plus",
+      "onboard_time": 1677700272,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 33133,
@@ -6777,14 +6841,6 @@
       "onboard_time": 1677424353,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 28138,
-      "num": 28138,
-      "word": "阿森纳vs埃弗顿",
-      "onboard_time": 1677698412,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 27921,
@@ -6819,28 +6875,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 20789,
-      "num": 20789,
-      "word": "普通蓝莓vs蓝莓plus",
-      "onboard_time": 1677700272,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 17767,
       "num": 17767,
       "word": "利马major淘汰赛",
       "onboard_time": 1677700632,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 16658,
-      "num": 20047,
-      "word": "网友遭遇话梅刺客一颗20多元",
-      "onboard_time": 1677709995,
-      "rank": 48,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

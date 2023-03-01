@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677710110716,
+  "endTime": 1677712783619,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -347,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 861487,
+      "num": 861487,
+      "word": "美国流浪汉被当街处决式射杀",
+      "onboard_time": 1677686724,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857414,
       "num": 857414,
       "word": "建议不得将年龄作为招聘辞退红线",
@@ -361,14 +369,6 @@
       "onboard_time": 1677625939,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 850150,
-      "num": 850150,
-      "word": "美国流浪汉被当街处决式射杀",
-      "onboard_time": 1677686724,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 844896,
@@ -619,20 +619,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 619816,
+      "num": 619816,
+      "word": "文科生转码或成趋势",
+      "onboard_time": 1677687685,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 619068,
       "num": 571221,
       "word": "新疆男篮球员何去何从",
       "onboard_time": 1677642449,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 617003,
-      "num": 617003,
-      "word": "文科生转码或成趋势",
-      "onboard_time": 1677687685,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 608203,
@@ -867,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 444510,
+      "num": 444510,
+      "word": "3月份有望播出的电视剧",
+      "onboard_time": 1677710777,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443269,
       "num": 443269,
       "word": "我想和你唱嘉宾歌词官宣",
@@ -1027,6 +1035,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 382552,
+      "num": 382552,
+      "word": "浙江女子追到广州找到被偷的爱猫",
+      "onboard_time": 1677695953,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380638,
       "num": 1492936,
       "word": "中国基建太牛了",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1677677970,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329491,
+      "num": 329491,
+      "word": "网友遭遇话梅刺客一颗20多元",
+      "onboard_time": 1677709995,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326457,
@@ -1323,6 +1347,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 282871,
+      "num": 282871,
+      "word": "特斯拉投资者日",
+      "onboard_time": 1677712641,
+      "rank": 8,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 281546,
       "num": 281546,
       "word": "甲流易感染人群如何防护",
@@ -1491,6 +1523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232416,
+      "num": 232416,
+      "word": "六十岁上班的我",
+      "onboard_time": 1677680312,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 232038,
       "num": 232038,
       "word": "个人所得税退税",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1677684988,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228758,
+      "num": 228758,
+      "word": "儿子篮球班倒闭家长掏1000万买下",
+      "onboard_time": 1677712400,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228243,
@@ -1769,6 +1817,14 @@
       "onboard_time": 1677662189,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193140,
+      "num": 193140,
+      "word": "张颂文希望大家不要再接机",
+      "onboard_time": 1677712761,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 193022,
@@ -2035,20 +2091,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156281,
+      "num": 130312,
+      "word": "秘鲁男子将木乃伊当女友每天同睡",
+      "onboard_time": 1677691456,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155654,
       "num": 155654,
       "word": "章子怡盖尔加朵合照",
       "onboard_time": 1677657268,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 154985,
-      "num": 154985,
-      "word": "浙江女子追到广州找到被偷的爱猫",
-      "onboard_time": 1677695953,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154214,
@@ -2252,7 +2308,7 @@
     },
     {
       "raw_hot": 118109,
-      "num": 67403,
+      "num": 108829,
       "word": "看得出外公已经尽力了",
       "onboard_time": 1677693194,
       "rank": 10,
@@ -2331,12 +2387,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 109825,
-      "num": 109825,
-      "word": "六十岁上班的我",
-      "onboard_time": 1677680312,
-      "rank": 39,
-      "category": "幽默,情感"
+      "raw_hot": 110541,
+      "num": 110541,
+      "word": "温州特斯拉车祸驾驶员已苏醒",
+      "onboard_time": 1677712339,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106310,
@@ -2395,6 +2451,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88667,
+      "num": 88667,
+      "word": "子女受父母胁迫结婚可申请撤销",
+      "onboard_time": 1677703991,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88610,
+      "num": 88610,
+      "word": "成毅巴黎时装周停车场大片",
+      "onboard_time": 1677703150,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 83596,
       "num": 83596,
       "word": "庞博说太太给了他很多能量",
@@ -2433,22 +2505,6 @@
       "onboard_time": 1677594512,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 77457,
-      "num": 77457,
-      "word": "子女受父母胁迫结婚可申请撤销",
-      "onboard_time": 1677703991,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76193,
-      "num": 47688,
-      "word": "秘鲁男子将木乃伊当女友每天同睡",
-      "onboard_time": 1677691456,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69173,
@@ -2491,14 +2547,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 63298,
-      "num": 63298,
-      "word": "成毅巴黎时装周停车场大片",
-      "onboard_time": 1677703150,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 61129,
       "num": 61129,
       "word": "龚俊入驻上海杜莎夫人蜡像馆",
@@ -2523,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47508,
+      "num": 47508,
+      "word": "曼联vs西汉姆联",
+      "onboard_time": 1677698173,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41813,
       "num": 41813,
       "word": "这楼梯怎么还会捉迷藏呢",
@@ -2539,14 +2595,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 38796,
-      "num": 38796,
-      "word": "曼联vs西汉姆联",
-      "onboard_time": 1677698173,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 37974,
       "num": 37974,
       "word": "微博年度剧集",
@@ -2561,6 +2609,22 @@
       "onboard_time": 1677575251,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36291,
+      "num": 36291,
+      "word": "阿森纳vs埃弗顿",
+      "onboard_time": 1677698412,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 34677,
+      "num": 34677,
+      "word": "普通蓝莓vs蓝莓plus",
+      "onboard_time": 1677700272,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 33058,
@@ -2603,14 +2667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28138,
-      "num": 28138,
-      "word": "阿森纳vs埃弗顿",
-      "onboard_time": 1677698412,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 23007,
       "num": 23007,
       "word": "莫言获中国慈善家年度人物",
@@ -2627,28 +2683,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 20789,
-      "num": 20789,
-      "word": "普通蓝莓vs蓝莓plus",
-      "onboard_time": 1677700272,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 17767,
       "num": 17767,
       "word": "利马major淘汰赛",
       "onboard_time": 1677700632,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 16658,
-      "num": 20047,
-      "word": "网友遭遇话梅刺客一颗20多元",
-      "onboard_time": 1677709995,
-      "rank": 48,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
