@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677674313131,
+  "endTime": 1677675467478,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1916746,
+      "num": 1916746,
+      "word": "建议严查超前学习行为",
+      "onboard_time": 1677671189,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1713353,
       "num": 1713353,
       "word": "周琦回应",
@@ -72,14 +80,6 @@
       "word": "旅俄大熊猫画风突变体重狂飙40公斤",
       "onboard_time": 1677640168,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1551473,
-      "num": 1551473,
-      "word": "建议严查超前学习行为",
-      "onboard_time": 1677671189,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -153,6 +153,14 @@
       "onboard_time": 1677644610,
       "rank": 46,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 1211286,
+      "num": 1211286,
+      "word": "韩总统称日本已从侵略者转变为伙伴",
+      "onboard_time": 1677670589,
+      "rank": 4,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 1201618,
@@ -251,12 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 991265,
-      "num": 991265,
-      "word": "韩总统称日本已从侵略者转变为伙伴",
-      "onboard_time": 1677670589,
-      "rank": 4,
-      "category": "国外要闻,社会新闻"
+      "raw_hot": 979865,
+      "num": 979865,
+      "word": "推特崩了",
+      "onboard_time": 1677671971,
+      "rank": 6,
+      "category": "科技"
     },
     {
       "raw_hot": 979429,
@@ -265,6 +273,14 @@
       "onboard_time": 1677666028,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 935559,
+      "num": 935559,
+      "word": "董明珠建议统一五险一金标准",
+      "onboard_time": 1677671848,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 928046,
@@ -283,28 +299,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 874398,
-      "num": 874398,
-      "word": "董明珠建议统一五险一金标准",
-      "onboard_time": 1677671848,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 869362,
       "num": 869362,
       "word": "周艺轩求婚前一天故意激怒陈梦瑶",
       "onboard_time": 1677650908,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 861186,
-      "num": 861186,
-      "word": "推特崩了",
-      "onboard_time": 1677671971,
-      "rank": 6,
-      "category": "科技"
     },
     {
       "raw_hot": 852499,
@@ -499,6 +499,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 670188,
+      "num": 670188,
+      "word": "张颂文感谢网友画的高启强",
+      "onboard_time": 1677672809,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 670118,
       "num": 670118,
       "word": "肖战意大利游玩plog",
@@ -627,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558008,
-      "num": 558008,
-      "word": "张颂文感谢网友画的高启强",
-      "onboard_time": 1677672809,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 546253,
       "num": 546253,
       "word": "三月头像",
@@ -657,6 +657,14 @@
       "onboard_time": 1677661948,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 530685,
+      "num": 530685,
+      "word": "安欣陆泽宁楼道吻",
+      "onboard_time": 1677672629,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 527202,
@@ -713,14 +721,6 @@
       "onboard_time": 1677636269,
       "rank": 12,
       "category": "财经,艺人"
-    },
-    {
-      "raw_hot": 500649,
-      "num": 500649,
-      "word": "安欣陆泽宁楼道吻",
-      "onboard_time": 1677672629,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 463063,
@@ -931,6 +931,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 366632,
+      "num": 366632,
+      "word": "星落凝成糖上头名场面",
+      "onboard_time": 1677673828,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362335,
       "num": 362335,
       "word": "湖人",
@@ -955,20 +963,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 351138,
+      "num": 351138,
+      "word": "见过最让人窒息的家长",
+      "onboard_time": 1677669567,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 350184,
       "num": 346673,
       "word": "DIOR",
       "onboard_time": 1677593914,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 348586,
-      "num": 348586,
-      "word": "见过最让人窒息的家长",
-      "onboard_time": 1677669567,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 348273,
@@ -1017,14 +1025,6 @@
       "onboard_time": 1677595113,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 325540,
-      "num": 325540,
-      "word": "星落凝成糖上头名场面",
-      "onboard_time": 1677673828,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 318840,
@@ -1187,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274968,
+      "num": 274968,
+      "word": "Lisa新加坡芭莎封面",
+      "onboard_time": 1677674911,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 274135,
       "num": 274135,
       "word": "一宿舍的军师都沉默了",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1677664948,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228114,
+      "num": 228114,
+      "word": "Hero星元紫金契约",
+      "onboard_time": 1677673767,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 225068,
@@ -1563,14 +1579,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 192678,
-      "num": 192678,
-      "word": "Hero星元紫金契约",
-      "onboard_time": 1677673767,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 192366,
       "num": 192366,
       "word": "扬科维奇掌握中国所有球员信息",
@@ -1643,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189792,
+      "num": 189792,
+      "word": "KPL星元争夺战",
+      "onboard_time": 1677675329,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188646,
       "num": 188646,
       "word": "电影长沙夜生活",
@@ -1705,6 +1721,14 @@
       "onboard_time": 1677647071,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171179,
+      "num": 171179,
+      "word": "容祖儿阿Sa巴黎贴脸合照",
+      "onboard_time": 1677675148,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 170483,
@@ -1827,6 +1851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148327,
+      "num": 148327,
+      "word": "WBG战胜LGD",
+      "onboard_time": 1677675270,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147793,
       "num": 147793,
       "word": "山姆回应顾客买到1天后上市的鸡爪",
@@ -1939,8 +1971,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119480,
-      "num": 119480,
+      "raw_hot": 121021,
+      "num": 121021,
       "word": "张大大体验东北烧烤",
       "onboard_time": 1677672991,
       "rank": 40,
