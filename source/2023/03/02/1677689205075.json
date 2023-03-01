@@ -1,0 +1,410 @@
+{
+  "runTime": 1677689205075,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 779981,
+        "num": 779981,
+        "word": "建议不得将年龄作为招聘辞退红线",
+        "onboard_time": 1677684388,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 752586,
+        "num": 752586,
+        "word": "美国流浪汉被当街处决式射杀",
+        "onboard_time": 1677686724,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43417,
+        "num": 486968,
+        "word": "春日里的花海列车",
+        "onboard_time": 1677677069,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482266,
+        "num": 482266,
+        "word": "爱奇艺回应2月充会员只能用28天",
+        "onboard_time": 1677668188,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 412946,
+        "num": 412946,
+        "word": "建议严查超前学习行为",
+        "onboard_time": 1677671189,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305205,
+        "num": 305205,
+        "word": "安乐传制片人",
+        "onboard_time": 1677684328,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266161,
+        "num": 266161,
+        "word": "文科生转码或成趋势",
+        "onboard_time": 1677687685,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 254723,
+        "num": 254723,
+        "word": "韩总统称日本已从侵略者转变为伙伴",
+        "onboard_time": 1677670589,
+        "rank": 7,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 225312,
+        "num": 225312,
+        "word": "董明珠建议统一五险一金标准",
+        "onboard_time": 1677671848,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225052,
+        "num": 225052,
+        "word": "安欣陆泽宁楼道吻",
+        "onboard_time": 1677672629,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217332,
+        "num": 217332,
+        "word": "历届微博之夜名场面盘点",
+        "onboard_time": 1677684030,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211701,
+        "num": 211701,
+        "word": "白敬亭睡前视频",
+        "onboard_time": 1677682351,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197222,
+        "num": 197222,
+        "word": "张颂文感谢网友画的高启强",
+        "onboard_time": 1677672809,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195888,
+        "num": 195888,
+        "word": "动物园称未收到丫丫提早回国消息",
+        "onboard_time": 1677676650,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173908,
+        "num": 173908,
+        "word": "颖儿探班任嘉伦",
+        "onboard_time": 1677669869,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168606,
+        "num": 168606,
+        "word": "在新疆减肥有多难",
+        "onboard_time": 1677683008,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146621,
+        "num": 146621,
+        "word": "肖战意大利游玩plog",
+        "onboard_time": 1677664288,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138082,
+        "num": 138082,
+        "word": "见过最让人窒息的家长",
+        "onboard_time": 1677669567,
+        "rank": 17,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 124187,
+        "num": 124187,
+        "word": "鬼灭之刃第三季正式预告",
+        "onboard_time": 1677675569,
+        "rank": 18,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 115145,
+        "num": 115145,
+        "word": "家长发文称小学按父母职业排座位",
+        "onboard_time": 1677678510,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 496656,
+        "num": 114291,
+        "word": "宋茜路演现场因雪莉落泪",
+        "onboard_time": 1677675990,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153803,
+        "num": 114175,
+        "word": "推特崩了",
+        "onboard_time": 1677671971,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 113291,
+        "num": 113291,
+        "word": "建议春节放假9天",
+        "onboard_time": 1677688223,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112359,
+        "num": 112359,
+        "word": "丫丫回国后将进行检疫隔离",
+        "onboard_time": 1677669809,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110506,
+        "num": 110506,
+        "word": "胡锡进谈调整休假安排建议",
+        "onboard_time": 1677681092,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109825,
+        "num": 109825,
+        "word": "六十岁上班的我",
+        "onboard_time": 1677680312,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 105285,
+        "num": 105285,
+        "word": "大麦",
+        "onboard_time": 1677675632,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104292,
+        "num": 104292,
+        "word": "周杰伦 抢票",
+        "onboard_time": 1677656126,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101663,
+        "num": 101663,
+        "word": "急诊科医生与外卖小哥的共同点找到了",
+        "onboard_time": 1677683251,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93523,
+        "num": 93523,
+        "word": "1.89亿天价拍卖后万辆新车被报废",
+        "onboard_time": 1677659670,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82676,
+        "num": 82676,
+        "word": "大学生送5年外卖还清40万外债",
+        "onboard_time": 1677662069,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81423,
+        "num": 81423,
+        "word": "樊治欣杨雨潼吻戏好甜",
+        "onboard_time": 1677682469,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80274,
+        "num": 80274,
+        "word": "王一博祝福周艺轩陈梦瑶",
+        "onboard_time": 1677666028,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72386,
+        "num": 72386,
+        "word": "全红婵长成大女孩了",
+        "onboard_time": 1677658949,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69173,
+        "num": 69173,
+        "word": "这就是鼓励式教育的意义吧",
+        "onboard_time": 1677687443,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69117,
+        "num": 69117,
+        "word": "张极说想看贾斯汀比伯演唱会",
+        "onboard_time": 1677684988,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66594,
+        "num": 66594,
+        "word": "王冰冰三月随拍",
+        "onboard_time": 1677687504,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65839,
+        "num": 65839,
+        "word": "这玩偶一天能走两万步",
+        "onboard_time": 1677679470,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64854,
+        "num": 64854,
+        "word": "Lisa新加坡芭莎封面",
+        "onboard_time": 1677674911,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 60813,
+        "num": 60813,
+        "word": "洪金宝亚洲电影大奖终身成就奖",
+        "onboard_time": 1677683310,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60761,
+        "num": 60761,
+        "word": "星落凝成糖上头名场面",
+        "onboard_time": 1677673828,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60523,
+        "num": 60523,
+        "word": "山东男篮双加时战胜辽宁男篮",
+        "onboard_time": 1677682050,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58243,
+        "num": 58243,
+        "word": "这猫咪是戴了金箍吧",
+        "onboard_time": 1677680370,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56977,
+        "num": 56977,
+        "word": "上海野生动物园多次抽查发现问题",
+        "onboard_time": 1677660389,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49152,
+        "num": 49152,
+        "word": "建议每周单休月末连休5天",
+        "onboard_time": 1677653067,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 48787,
+        "num": 48787,
+        "word": "杨树茂破产",
+        "onboard_time": 1677670468,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 46507,
+        "num": 46507,
+        "word": "恋爱中的少典有琴",
+        "onboard_time": 1677681751,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42754,
+        "num": 42754,
+        "word": "国考",
+        "onboard_time": 1677656247,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 40491,
+        "num": 40491,
+        "word": "彭冠英王楚然兑现flag",
+        "onboard_time": 1677680072,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37974,
+        "num": 37974,
+        "word": "微博年度剧集",
+        "onboard_time": 1677584007,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央党校建校90周年#"
+    }
+  }
+}

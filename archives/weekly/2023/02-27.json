@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677688085914,
+  "endTime": 1677689205075,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -1248,6 +1248,14 @@
       "word": "丫丫回国后将进行检疫隔离",
       "onboard_time": 1677669809,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 752586,
+      "num": 752586,
+      "word": "美国流浪汉被当街处决式射杀",
+      "onboard_time": 1677686724,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2505,14 +2513,6 @@
       "onboard_time": 1677556708,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 426943,
-      "num": 247933,
-      "word": "美国流浪汉被当街处决式射杀",
-      "onboard_time": 1677686724,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 426748,
@@ -3889,6 +3889,14 @@
       "onboard_time": 1677474450,
       "rank": 44,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 266161,
+      "num": 266161,
+      "word": "文科生转码或成趋势",
+      "onboard_time": 1677687685,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 262864,
@@ -6131,6 +6139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113291,
+      "num": 113291,
+      "word": "建议春节放假9天",
+      "onboard_time": 1677688223,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112775,
       "num": 112775,
       "word": "成都街头一越野车多次追撞轿车",
@@ -6209,6 +6225,14 @@
       "onboard_time": 1677426268,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109825,
+      "num": 109825,
+      "word": "六十岁上班的我",
+      "onboard_time": 1677680312,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 109807,
@@ -6531,14 +6555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 74769,
-      "num": 74769,
-      "word": "六十岁上班的我",
-      "onboard_time": 1677680312,
-      "rank": 39,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 73389,
       "num": 73389,
       "word": "蔡徐坤爵士乐队版情人",
@@ -6553,6 +6569,14 @@
       "onboard_time": 1677530951,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 69173,
+      "num": 69173,
+      "word": "这就是鼓励式教育的意义吧",
+      "onboard_time": 1677687443,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 69016,
@@ -6577,6 +6601,14 @@
       "onboard_time": 1677646053,
       "rank": 2,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 66594,
+      "num": 66594,
+      "word": "王冰冰三月随拍",
+      "onboard_time": 1677687504,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 65140,
@@ -6611,14 +6643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58051,
-      "num": 58051,
-      "word": "这就是鼓励式教育的意义吧",
-      "onboard_time": 1677687443,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 55498,
       "num": 55498,
       "word": "羽生结弦冰演感言",
@@ -6627,28 +6651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52895,
-      "num": 52895,
-      "word": "文科生转码或成趋势",
-      "onboard_time": 1677687685,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 51871,
       "num": 1367964,
       "word": "奋进的春天",
       "onboard_time": 1677507092,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51680,
-      "num": 51680,
-      "word": "王冰冰三月随拍",
-      "onboard_time": 1677687504,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 44598,

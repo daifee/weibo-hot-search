@@ -1,6 +1,6 @@
 {
   "startTime": 1677688085914,
-  "endTime": 1677688085914,
+  "endTime": 1677689205075,
   "band_list": [
     {
       "raw_hot": 857414,
@@ -9,6 +9,14 @@
       "onboard_time": 1677684388,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 752586,
+      "num": 752586,
+      "word": "美国流浪汉被当街处决式射杀",
+      "onboard_time": 1677686724,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 658197,
@@ -32,14 +40,6 @@
       "word": "建议严查超前学习行为",
       "onboard_time": 1677671189,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 426943,
-      "num": 247933,
-      "word": "美国流浪汉被当街处决式射杀",
-      "onboard_time": 1677686724,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -89,6 +89,14 @@
       "onboard_time": 1677672629,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 266161,
+      "num": 266161,
+      "word": "文科生转码或成趋势",
+      "onboard_time": 1677687685,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 248400,
@@ -211,12 +219,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113291,
+      "num": 113291,
+      "word": "建议春节放假9天",
+      "onboard_time": 1677688223,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112743,
       "num": 112743,
       "word": "1.89亿天价拍卖后万辆新车被报废",
       "onboard_time": 1677659670,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109825,
+      "num": 109825,
+      "word": "六十岁上班的我",
+      "onboard_time": 1677680312,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 97474,
@@ -307,14 +331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74769,
-      "num": 74769,
-      "word": "六十岁上班的我",
-      "onboard_time": 1677680312,
-      "rank": 39,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 72042,
       "num": 72042,
       "word": "杨树茂破产",
@@ -323,12 +339,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 69173,
+      "num": 69173,
+      "word": "这就是鼓励式教育的意义吧",
+      "onboard_time": 1677687443,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67669,
       "num": 67669,
       "word": "上海野生动物园多次抽查发现问题",
       "onboard_time": 1677660389,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66594,
+      "num": 66594,
+      "word": "王冰冰三月随拍",
+      "onboard_time": 1677687504,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 62920,
@@ -355,14 +387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 58051,
-      "num": 58051,
-      "word": "这就是鼓励式教育的意义吧",
-      "onboard_time": 1677687443,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 55440,
       "num": 55440,
       "word": "彭冠英王楚然兑现flag",
@@ -379,33 +403,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 52895,
-      "num": 52895,
-      "word": "文科生转码或成趋势",
-      "onboard_time": 1677687685,
-      "rank": 48,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 51680,
-      "num": 51680,
-      "word": "王冰冰三月随拍",
-      "onboard_time": 1677687504,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51638,
       "num": 524864,
       "word": "春日里的花海列车",
       "onboard_time": 1677677069,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37974,
+      "num": 37974,
+      "word": "微博年度剧集",
+      "onboard_time": 1677584007,
+      "rank": 49,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
     {
       "word": "#在创造性实践中探索中国式现代化#"
+    },
+    {
+      "word": "#中央党校建校90周年#"
     }
   ]
 }
