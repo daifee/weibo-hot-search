@@ -1,0 +1,410 @@
+{
+  "runTime": 1677636962384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7468602,
+        "num": 7468602,
+        "word": "建议调整双休日试点隔周三休",
+        "onboard_time": 1677628949,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3312641,
+        "num": 3312641,
+        "word": "代表建议取消调休制度",
+        "onboard_time": 1677635009,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45048,
+        "num": 2114900,
+        "word": "乡村振兴美好图景",
+        "onboard_time": 1677596564,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1564392,
+        "num": 1564392,
+        "word": "退税",
+        "onboard_time": 1677625759,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1334799,
+        "num": 1334799,
+        "word": "蔡徐坤舞台背景 抄袭",
+        "onboard_time": 1677634169,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 690993,
+        "num": 690993,
+        "word": "iPhone16Pro有望采用屏下FaceID",
+        "onboard_time": 1677635433,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 672990,
+        "num": 672990,
+        "word": "李佳琦",
+        "onboard_time": 1677635910,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 599914,
+        "num": 599914,
+        "word": "妇联回应吴秀波儿子被指家暴",
+        "onboard_time": 1677633451,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 560828,
+        "num": 560828,
+        "word": "教资面试成绩",
+        "onboard_time": 1677632853,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 526975,
+        "num": 526975,
+        "word": "天空之城定档",
+        "onboard_time": 1677635668,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 679410,
+        "num": 524217,
+        "word": "新疆男篮将全部资产捐出",
+        "onboard_time": 1677626362,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510142,
+        "num": 510142,
+        "word": "深圳一业主拆迁9栋楼",
+        "onboard_time": 1677628287,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 471595,
+        "num": 471595,
+        "word": "HYBE收购SMTOWN失败",
+        "onboard_time": 1677636269,
+        "rank": 12,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 471119,
+        "num": 471119,
+        "word": "老人自家院子种菜被上门强行清理",
+        "onboard_time": 1677630870,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367863,
+        "num": 367863,
+        "word": "原神",
+        "onboard_time": 1677633692,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 364053,
+        "num": 364053,
+        "word": "墨西哥总统宣布特斯拉将在该国建厂",
+        "onboard_time": 1677633630,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 344262,
+        "num": 344262,
+        "word": "陈数问粉丝你没有三急吗",
+        "onboard_time": 1677632374,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309063,
+        "num": 309063,
+        "word": "安欣吃醋",
+        "onboard_time": 1677628708,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281546,
+        "num": 281546,
+        "word": "甲流易感染人群如何防护",
+        "onboard_time": 1677635069,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277703,
+        "num": 277703,
+        "word": "怎么判断自己是退税还是补税",
+        "onboard_time": 1677635791,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 471251,
+        "num": 277639,
+        "word": "家属曝73岁父亲被养老院护工打爆眼球",
+        "onboard_time": 1677629368,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 277573,
+        "num": 277573,
+        "word": "甲流",
+        "onboard_time": 1677630634,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276419,
+        "num": 276419,
+        "word": "晚十点是最佳入睡时段",
+        "onboard_time": 1677599491,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274031,
+        "num": 274031,
+        "word": "米店",
+        "onboard_time": 1677628344,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262795,
+        "num": 262795,
+        "word": "何佳蓉",
+        "onboard_time": 1677626542,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259481,
+        "num": 259481,
+        "word": "女子别墅被老爸60万装出浓情复古风",
+        "onboard_time": 1677592532,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235536,
+        "num": 235536,
+        "word": "白夜追凶2",
+        "onboard_time": 1677588088,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225566,
+        "num": 225566,
+        "word": "白鹿以爱为营白色贝雷帽造型",
+        "onboard_time": 1677633749,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222503,
+        "num": 222503,
+        "word": "特斯拉潮州事故鉴定结果已出",
+        "onboard_time": 1677597458,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221684,
+        "num": 221684,
+        "word": "一宿舍的军师都沉默了",
+        "onboard_time": 1677594333,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219437,
+        "num": 219437,
+        "word": "iPhone能在PC端接打电话了",
+        "onboard_time": 1677636451,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 211060,
+        "num": 211060,
+        "word": "朴彩英巴黎时装周造型",
+        "onboard_time": 1677631110,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207884,
+        "num": 207884,
+        "word": "双休日对打工人有多重要",
+        "onboard_time": 1677636572,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207669,
+        "num": 207669,
+        "word": "王楚然刘令姿 看秀图",
+        "onboard_time": 1677636750,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198426,
+        "num": 198426,
+        "word": "丫丫食欲良好即将回国",
+        "onboard_time": 1677590911,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196704,
+        "num": 196704,
+        "word": "父母矮孩子一定矮吗",
+        "onboard_time": 1677629247,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169567,
+        "num": 169567,
+        "word": "金智秀紫裙",
+        "onboard_time": 1677594573,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168921,
+        "num": 168921,
+        "word": "那些曾经霸榜的小说",
+        "onboard_time": 1677596983,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167340,
+        "num": 167340,
+        "word": "两会",
+        "onboard_time": 1677634051,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 161371,
+        "num": 161371,
+        "word": "街道回应一业主拆迁9栋楼",
+        "onboard_time": 1677633630,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160566,
+        "num": 160566,
+        "word": "杰尼斯旗下艺人",
+        "onboard_time": 1677627806,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145924,
+        "num": 145924,
+        "word": "建议给3岁以下婴幼儿家庭发育儿补贴",
+        "onboard_time": 1677614711,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 143604,
+        "num": 143604,
+        "word": "为什么有人需要补税",
+        "onboard_time": 1677636033,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 140061,
+        "num": 140061,
+        "word": "辽宁一轿车被大货车追尾压扁",
+        "onboard_time": 1677623715,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 135457,
+        "num": 135457,
+        "word": "成都震感",
+        "onboard_time": 1677596260,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127051,
+        "num": 127051,
+        "word": "杜兰特太阳首秀对阵黄蜂",
+        "onboard_time": 1677632254,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123017,
+        "num": 123017,
+        "word": "个税汇算3月1日预约已满",
+        "onboard_time": 1677631955,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 116645,
+        "num": 116645,
+        "word": "三月",
+        "onboard_time": 1677626061,
+        "rank": 47,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 114788,
+        "num": 114788,
+        "word": "泸定地震",
+        "onboard_time": 1677596443,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113888,
+        "num": 113888,
+        "word": "调整双休日为隔周三休合理吗",
+        "onboard_time": 1677634472,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国两会常用词#"
+    }
+  }
+}

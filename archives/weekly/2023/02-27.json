@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677635441432,
+  "endTime": 1677636962384,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -49,6 +49,14 @@
       "onboard_time": 1677460410,
       "rank": 0,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 3312641,
+      "num": 3312641,
+      "word": "代表建议取消调休制度",
+      "onboard_time": 1677635009,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3075971,
@@ -160,14 +168,6 @@
       "word": "80后丁克夫妻回应存300万提前退休",
       "onboard_time": 1677553528,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1909258,
-      "num": 1909258,
-      "word": "代表建议取消调休制度",
-      "onboard_time": 1677635009,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1075,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 690993,
+      "num": 690993,
+      "word": "iPhone16Pro有望采用屏下FaceID",
+      "onboard_time": 1677635433,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 685496,
       "num": 615303,
       "word": "毛宁称美国未免太不自信",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1677555268,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 672990,
+      "num": 672990,
+      "word": "李佳琦",
+      "onboard_time": 1677635910,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 668175,
@@ -1467,6 +1483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 526975,
+      "num": 526975,
+      "word": "天空之城定档",
+      "onboard_time": 1677635668,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 526554,
       "num": 526554,
       "word": "原神",
@@ -1705,6 +1729,14 @@
       "onboard_time": 1677457348,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471595,
+      "num": 471595,
+      "word": "HYBE收购SMTOWN失败",
+      "onboard_time": 1677636269,
+      "rank": 12,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 466787,
@@ -2811,12 +2843,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 281546,
+      "num": 281546,
+      "word": "甲流易感染人群如何防护",
+      "onboard_time": 1677635069,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281430,
       "num": 281430,
       "word": "害怕吃东西变不聪明的小朋友",
       "onboard_time": 1677553347,
       "rank": 23,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 277703,
+      "num": 277703,
+      "word": "怎么判断自己是退税还是补税",
+      "onboard_time": 1677635791,
+      "rank": 19,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 277512,
@@ -2907,6 +2955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262795,
+      "num": 262795,
+      "word": "何佳蓉",
+      "onboard_time": 1677626542,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262752,
       "num": 262752,
       "word": "厉以宁生平",
@@ -2985,14 +3041,6 @@
       "onboard_time": 1677555208,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249480,
-      "num": 249480,
-      "word": "何佳蓉",
-      "onboard_time": 1677626542,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246699,
@@ -3179,6 +3227,14 @@
       "category": "时尚,美妆"
     },
     {
+      "raw_hot": 219437,
+      "num": 219437,
+      "word": "iPhone能在PC端接打电话了",
+      "onboard_time": 1677636451,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 219029,
       "num": 219029,
       "word": "巴黎时装周",
@@ -3347,12 +3403,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 207884,
+      "num": 207884,
+      "word": "双休日对打工人有多重要",
+      "onboard_time": 1677636572,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207842,
       "num": 207842,
       "word": "流感",
       "onboard_time": 1677471513,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207669,
+      "num": 207669,
+      "word": "王楚然刘令姿 看秀图",
+      "onboard_time": 1677636750,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 207189,
@@ -3520,14 +3592,6 @@
       "word": "2月最后一天",
       "onboard_time": 1677539601,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199170,
-      "num": 199170,
-      "word": "甲流易感染人群如何防护",
-      "onboard_time": 1677635069,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -4251,6 +4315,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 143604,
+      "num": 143604,
+      "word": "为什么有人需要补税",
+      "onboard_time": 1677636033,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 142456,
       "num": 142456,
       "word": "100天可以有无限可能",
@@ -4361,14 +4433,6 @@
       "onboard_time": 1677506971,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 134739,
-      "num": 134739,
-      "word": "iPhone16Pro有望采用屏下FaceID",
-      "onboard_time": 1677635433,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 134540,
