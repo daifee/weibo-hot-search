@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677640240588,
+  "endTime": 1677642235439,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -579,6 +579,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1145412,
+      "num": 1145412,
+      "word": "旅俄大熊猫画风突变体重狂飙40公斤",
+      "onboard_time": 1677640168,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1144328,
       "num": 1144328,
       "word": "教资",
@@ -657,6 +665,14 @@
       "onboard_time": 1677465387,
       "rank": 7,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 1051242,
+      "num": 1051242,
+      "word": "为什么睡很久还是感觉疲惫",
+      "onboard_time": 1677639388,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 1036302,
@@ -1059,6 +1075,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 718680,
+      "num": 718680,
+      "word": "蔡徐坤工作室将对睛致传媒追责",
+      "onboard_time": 1677640590,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 713496,
+      "num": 713496,
+      "word": "鹅厂三月大剧片单",
+      "onboard_time": 1677639751,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 708615,
       "num": 708615,
       "word": "王楚然刘令姿 看秀图",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1677507092,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 701062,
+      "num": 324396,
+      "word": "年薪30万女生转行卖快餐",
+      "onboard_time": 1677637829,
+      "rank": 20,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 690993,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1677557911,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 674523,
+      "num": 674523,
+      "word": "米店",
+      "onboard_time": 1677628344,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 673947,
@@ -1187,14 +1235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 661119,
-      "num": 324396,
-      "word": "年薪30万女生转行卖快餐",
-      "onboard_time": 1677637829,
-      "rank": 20,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 653037,
       "num": 653037,
       "word": "建议第三孩从幼儿园到高中免费教育",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1677418413,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 640354,
+      "num": 640354,
+      "word": "严查借春节档电影挑起互撕对立",
+      "onboard_time": 1677640289,
+      "rank": 10,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 617274,
@@ -1259,12 +1307,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 606403,
-      "num": 606403,
-      "word": "米店",
-      "onboard_time": 1677628344,
-      "rank": 13,
-      "category": "音乐"
+      "raw_hot": 604013,
+      "num": 604013,
+      "word": "官方通报网传苏州动保组织拘禁审讯猫贩",
+      "onboard_time": 1677638186,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 603189,
@@ -1571,6 +1619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 519354,
+      "num": 519354,
+      "word": "为什么找工作要双休的",
+      "onboard_time": 1677640289,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 517013,
       "num": 517013,
       "word": "带状疱疹有时会被误认是皮炎",
@@ -1665,14 +1721,6 @@
       "onboard_time": 1677577833,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 495893,
-      "num": 495893,
-      "word": "鹅厂三月大剧片单",
-      "onboard_time": 1677639751,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 494229,
@@ -1801,6 +1849,14 @@
       "onboard_time": 1677492030,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456116,
+      "num": 456116,
+      "word": "教资认定",
+      "onboard_time": 1677639149,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 452973,
@@ -1995,6 +2051,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 422255,
+      "num": 422255,
+      "word": "爱奇艺CEO回应投屏事件",
+      "onboard_time": 1677638547,
+      "rank": 28,
+      "category": "科技"
+    },
+    {
       "raw_hot": 418405,
       "num": 418405,
       "word": "杨幂费加罗男士3月封面预告视频",
@@ -2105,14 +2169,6 @@
       "onboard_time": 1677414569,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397950,
-      "num": 397950,
-      "word": "教资认定",
-      "onboard_time": 1677639149,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 396882,
@@ -2241,14 +2297,6 @@
       "onboard_time": 1677494611,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 377703,
-      "num": 377703,
-      "word": "爱奇艺CEO回应投屏事件",
-      "onboard_time": 1677638547,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 374404,
@@ -2587,14 +2635,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 330078,
-      "num": 330078,
-      "word": "官方通报网传苏州动保组织拘禁审讯猫贩",
-      "onboard_time": 1677638186,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327549,
       "num": 327549,
       "word": "守财奴没有情",
@@ -2699,6 +2739,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 307540,
+      "num": 307540,
+      "word": "苏州通报男子被爱猫人士控制殴打",
+      "onboard_time": 1677640526,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 307070,
       "num": 307070,
       "word": "炒面涨到2元老板娘觉得不好意思",
@@ -2720,6 +2768,22 @@
       "word": "萧寒得知何冉病情真相",
       "onboard_time": 1677503010,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 305496,
+      "num": 305496,
+      "word": "如果执行八小时工作双休会怎样",
+      "onboard_time": 1677641309,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305329,
+      "num": 305329,
+      "word": "古天乐郭富城刘青云三人首次合作",
+      "onboard_time": 1677641309,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -2995,6 +3059,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 273352,
+      "num": 273352,
+      "word": "211文科男硕士吐槽招聘会均薪5500引争议",
+      "onboard_time": 1677641848,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 272226,
       "num": 272226,
       "word": "女子帮网友表白日收入过万",
@@ -3097,14 +3169,6 @@
       "onboard_time": 1677634051,
       "rank": 24,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 255398,
-      "num": 255398,
-      "word": "为什么睡很久还是感觉疲惫",
-      "onboard_time": 1677639388,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 255297,
@@ -3315,6 +3379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225068,
+      "num": 225068,
+      "word": "杨紫片场跳舞路透",
+      "onboard_time": 1677639508,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 225058,
       "num": 225058,
       "word": "钝评我是小妖怪",
@@ -3457,14 +3529,6 @@
       "onboard_time": 1677499049,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 213313,
-      "num": 213313,
-      "word": "杨紫片场跳舞路透",
-      "onboard_time": 1677639508,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 213209,
@@ -4011,6 +4075,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188646,
+      "num": 188646,
+      "word": "电影长沙夜生活",
+      "onboard_time": 1677642148,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187766,
+      "num": 187766,
+      "word": "华为诉小米专利侵权已被受理",
+      "onboard_time": 1677641247,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 187015,
       "num": 187015,
       "word": "董明珠斥某自媒体低级下流无聊",
@@ -4283,14 +4363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157651,
-      "num": 157651,
-      "word": "旅俄大熊猫画风突变体重狂飙40公斤",
-      "onboard_time": 1677640168,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157306,
       "num": 157306,
       "word": "夏花今晚大结局",
@@ -4305,6 +4377,14 @@
       "onboard_time": 1677511349,
       "rank": 34,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 157146,
+      "num": 157146,
+      "word": "灰熊战胜湖人",
+      "onboard_time": 1677640944,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 157025,
