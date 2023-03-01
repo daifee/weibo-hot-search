@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677659995984,
+  "endTime": 1677662399542,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -139,6 +139,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1201618,
+      "num": 1201618,
+      "word": "1.89亿天价拍卖后万辆新车被报废",
+      "onboard_time": 1677659670,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1157560,
       "num": 1157560,
       "word": "2023全年实际放假10天",
@@ -268,11 +276,19 @@
     },
     {
       "raw_hot": 739285,
-      "num": 438760,
+      "num": 449740,
       "word": "赵丽颖和素人合照",
       "onboard_time": 1677654628,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 734969,
+      "num": 256740,
+      "word": "全红婵长成大女孩了",
+      "onboard_time": 1677658949,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 721227,
@@ -337,6 +353,14 @@
       "onboard_time": 1677635433,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 690323,
+      "num": 690323,
+      "word": "向太暂停直播的原因",
+      "onboard_time": 1677661648,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 682271,
@@ -521,6 +545,22 @@
       "onboard_time": 1677636269,
       "rank": 12,
       "category": "财经,艺人"
+    },
+    {
+      "raw_hot": 474333,
+      "num": 474333,
+      "word": "2023五一档电影增至五部",
+      "onboard_time": 1677662189,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 463063,
+      "num": 463063,
+      "word": "国足目标全力冲击2026世界杯",
+      "onboard_time": 1677660449,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 462932,
@@ -771,12 +811,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 333247,
-      "num": 220274,
-      "word": "全红婵长成大女孩了",
-      "onboard_time": 1677658949,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 328088,
+      "num": 328088,
+      "word": "上海野生动物园多次抽查发现问题",
+      "onboard_time": 1677660389,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326457,
@@ -801,6 +841,14 @@
       "onboard_time": 1677658469,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315338,
+      "num": 315338,
+      "word": "Swisse钙片表面镶嵌一根黑毛",
+      "onboard_time": 1677660033,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311678,
@@ -907,6 +955,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 284238,
+      "num": 284238,
+      "word": "国考3月上中旬出分",
+      "onboard_time": 1677660569,
+      "rank": 18,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 281546,
       "num": 281546,
       "word": "甲流易感染人群如何防护",
@@ -971,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252639,
+      "num": 252639,
+      "word": "制片人梅子笑为风波中的女演员抱不平",
+      "onboard_time": 1677662128,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251976,
       "num": 251976,
       "word": "勇三疯回来了",
@@ -993,6 +1057,14 @@
       "onboard_time": 1677637408,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 245187,
+      "num": 184671,
+      "word": "建议元宵节放假1天",
+      "onboard_time": 1677661948,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 245186,
@@ -1203,6 +1275,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 200014,
+      "num": 200014,
+      "word": "玄商神君回归",
+      "onboard_time": 1677660749,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196718,
       "num": 196718,
       "word": "香奈儿回应2万包包15分钟断了",
@@ -1217,6 +1297,22 @@
       "onboard_time": 1677652587,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193433,
+      "num": 193433,
+      "word": "快乐再出发2收官演唱会阵容",
+      "onboard_time": 1677662189,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191743,
+      "num": 191743,
+      "word": "七七同园大熊猫雅奥曾因肠梗阻离世",
+      "onboard_time": 1677660268,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191700,
@@ -1339,6 +1435,22 @@
       "category": "幽默,科技"
     },
     {
+      "raw_hot": 166109,
+      "num": 166109,
+      "word": "舞力全开入选奥林匹克电竞项目",
+      "onboard_time": 1677662128,
+      "rank": 34,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 163998,
+      "num": 163998,
+      "word": "王鸥大侦探水晶发箍造型",
+      "onboard_time": 1677661110,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161686,
       "num": 161686,
       "word": "钎城国服后羿到手了",
@@ -1379,14 +1491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153782,
-      "num": 153782,
-      "word": "1.89亿天价拍卖后万辆新车被报废",
-      "onboard_time": 1677659670,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153358,
       "num": 153358,
       "word": "为什么有人需要补税",
@@ -1425,6 +1529,22 @@
       "onboard_time": 1677591033,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144964,
+      "num": 144964,
+      "word": "国足新帅正式亮相",
+      "onboard_time": 1677662009,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143241,
+      "num": 143241,
+      "word": "张若昀刘昊然合体录制大侦探",
+      "onboard_time": 1677662370,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 141389,
@@ -1481,6 +1601,14 @@
       "onboard_time": 1677586590,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132080,
+      "num": 132080,
+      "word": "大学生送5年外卖还清40万外债",
+      "onboard_time": 1677662069,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130040,
