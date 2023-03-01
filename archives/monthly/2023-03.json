@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677695994843,
+  "endTime": 1677698171728,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -2427,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73545,
+      "num": 36305,
+      "word": "浙江女子追到广州找到被偷的爱猫",
+      "onboard_time": 1677695953,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69173,
       "num": 69173,
       "word": "这就是鼓励式教育的意义吧",
@@ -2577,14 +2585,6 @@
       "onboard_time": 1677583231,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 13312,
-      "num": 13312,
-      "word": "浙江女子追到广州找到被偷的爱猫",
-      "onboard_time": 1677695953,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
