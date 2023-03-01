@@ -1,0 +1,410 @@
+{
+  "runTime": 1677647926180,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2534958,
+        "num": 2534958,
+        "word": "211文科男硕士吐槽招聘会均薪5500引争议",
+        "onboard_time": 1677641848,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1619738,
+        "num": 1619738,
+        "word": "建议调整双休日试点隔周三休",
+        "onboard_time": 1677628949,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 65996,
+        "num": 1474088,
+        "word": "大国工匠们的话朴素却让人敬佩",
+        "onboard_time": 1677646053,
+        "rank": 2,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1432588,
+        "num": 1432588,
+        "word": "三甲医院有位患者叫熊猫是真熊猫",
+        "onboard_time": 1677643769,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291023,
+        "num": 1291023,
+        "word": "单休比双休一年少休近50天",
+        "onboard_time": 1677644610,
+        "rank": 4,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1185495,
+        "num": 1185495,
+        "word": "退税",
+        "onboard_time": 1677625759,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1009970,
+        "num": 1009970,
+        "word": "代表建议取消调休制度",
+        "onboard_time": 1677635009,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935158,
+        "num": 935158,
+        "word": "旅俄大熊猫画风突变体重狂飙40公斤",
+        "onboard_time": 1677640168,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882058,
+        "num": 882058,
+        "word": "双休真的可以干好多事",
+        "onboard_time": 1677645453,
+        "rank": 8,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 724243,
+        "num": 724243,
+        "word": "年薪30万大厂女生回应转行卖快餐",
+        "onboard_time": 1677644311,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711050,
+        "num": 711050,
+        "word": "刘昊然银灰挑染",
+        "onboard_time": 1677645273,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575424,
+        "num": 575424,
+        "word": "如果执行八小时工作双休会怎样",
+        "onboard_time": 1677641309,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537737,
+        "num": 537737,
+        "word": "特斯拉",
+        "onboard_time": 1677645393,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 534474,
+        "num": 534474,
+        "word": "熊猫七七在医院做CT",
+        "onboard_time": 1677644552,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68950,
+        "num": 477687,
+        "word": "为何法式可以跨越时空",
+        "onboard_time": 1677644070,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 468798,
+        "num": 468798,
+        "word": "为什么睡很久还是感觉疲惫",
+        "onboard_time": 1677639388,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 462932,
+        "num": 462932,
+        "word": "丫丫",
+        "onboard_time": 1677646292,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443269,
+        "num": 443269,
+        "word": "我想和你唱嘉宾歌词官宣",
+        "onboard_time": 1677645870,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406045,
+        "num": 406045,
+        "word": "名侦探学院禁入派对",
+        "onboard_time": 1677646235,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399548,
+        "num": 399548,
+        "word": "周琦",
+        "onboard_time": 1677647731,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374776,
+        "num": 374776,
+        "word": "95后大厂裸辞卖盒饭月挣4万",
+        "onboard_time": 1677646171,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358388,
+        "num": 358388,
+        "word": "王楚然刘令姿 看秀图",
+        "onboard_time": 1677636750,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 311982,
+        "num": 311982,
+        "word": "HYBE收购SMTOWN失败",
+        "onboard_time": 1677636269,
+        "rank": 22,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 305932,
+        "num": 305932,
+        "word": "EXO通过粉丝见面会正式启动完整体活动",
+        "onboard_time": 1677645210,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304384,
+        "num": 304384,
+        "word": "鹅厂三月大剧片单",
+        "onboard_time": 1677639751,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278471,
+        "num": 278471,
+        "word": "男子多次以领养为名将获取的猫虐杀",
+        "onboard_time": 1677645572,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 276214,
+        "num": 276214,
+        "word": "张艺兴金晨捕鱼行动立项",
+        "onboard_time": 1677645934,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265530,
+        "num": 265530,
+        "word": "年薪30万女生转行卖快餐",
+        "onboard_time": 1677637829,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 263248,
+        "num": 263248,
+        "word": "iPhone16Pro有望采用屏下FaceID",
+        "onboard_time": 1677635433,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 256832,
+        "num": 256832,
+        "word": "家属曝73岁父亲被养老院护工打爆眼球",
+        "onboard_time": 1677629368,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 256132,
+        "num": 256132,
+        "word": "宁艺卓小熊造型",
+        "onboard_time": 1677647908,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248497,
+        "num": 248497,
+        "word": "这外卖是非送不可吗",
+        "onboard_time": 1677646712,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243740,
+        "num": 243740,
+        "word": "苏州通报男子被爱猫人士控制殴打",
+        "onboard_time": 1677640526,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 243309,
+        "num": 243309,
+        "word": "华为诉小米专利侵权已被受理",
+        "onboard_time": 1677641247,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 241582,
+        "num": 241582,
+        "word": "严查借春节档电影挑起互撕对立",
+        "onboard_time": 1677640289,
+        "rank": 34,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 237411,
+        "num": 237411,
+        "word": "甲流患者需服用抗病毒药物吗",
+        "onboard_time": 1677643049,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235379,
+        "num": 235379,
+        "word": "3月星座恋爱运",
+        "onboard_time": 1677637048,
+        "rank": 36,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 234120,
+        "num": 234120,
+        "word": "张杰声生不息宝岛季",
+        "onboard_time": 1677643589,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224553,
+        "num": 224553,
+        "word": "妇联回应吴秀波儿子被指家暴",
+        "onboard_time": 1677633451,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 221370,
+        "num": 221370,
+        "word": "公诉精英",
+        "onboard_time": 1677643589,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221213,
+        "num": 221213,
+        "word": "原神",
+        "onboard_time": 1677633692,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215768,
+        "num": 215768,
+        "word": "米店",
+        "onboard_time": 1677628344,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214081,
+        "num": 214081,
+        "word": "教资认定",
+        "onboard_time": 1677639149,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 198016,
+        "num": 198016,
+        "word": "何佳蓉",
+        "onboard_time": 1677626542,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186115,
+        "num": 186115,
+        "word": "徐克将拍射雕英雄传",
+        "onboard_time": 1677644731,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172861,
+        "num": 172861,
+        "word": "建议调整燃放烟花爆竹政策",
+        "onboard_time": 1677646593,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 172273,
+        "num": 172273,
+        "word": "三月的烟雨 飘摇的南方",
+        "onboard_time": 1677647071,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168113,
+        "num": 168113,
+        "word": "原来车是这么进商场的",
+        "onboard_time": 1677647848,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165332,
+        "num": 165332,
+        "word": "深圳一业主拆迁9栋楼",
+        "onboard_time": 1677628287,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 160152,
+        "num": 160152,
+        "word": "半熟恋人2集体抓马路透",
+        "onboard_time": 1677647848,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#党的二十届二中全会公报#"
+    }
+  }
+}
