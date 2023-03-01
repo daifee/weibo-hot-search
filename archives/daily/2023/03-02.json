@@ -1,10 +1,18 @@
 {
   "startTime": 1677688085914,
-  "endTime": 1677712783619,
+  "endTime": 1677713655692,
   "band_list": [
     {
-      "raw_hot": 861487,
-      "num": 861487,
+      "raw_hot": 989961,
+      "num": 319336,
+      "word": "儿子篮球班倒闭家长掏1000万买下",
+      "onboard_time": 1677712400,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 882905,
+      "num": 882905,
       "word": "美国流浪汉被当街处决式射杀",
       "onboard_time": 1677686724,
       "rank": 10,
@@ -19,20 +27,36 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 735172,
+      "num": 735172,
+      "word": "文科生转码或成趋势",
+      "onboard_time": 1677687685,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 658197,
-      "num": 139279,
+      "num": 154689,
       "word": "宋茜路演现场因雪莉落泪",
       "onboard_time": 1677675990,
       "rank": 20,
       "category": "影视"
     },
     {
-      "raw_hot": 619816,
-      "num": 619816,
-      "word": "文科生转码或成趋势",
-      "onboard_time": 1677687685,
-      "rank": 48,
-      "category": "社会新闻,教育"
+      "raw_hot": 647245,
+      "num": 647245,
+      "word": "特斯拉投资者日",
+      "onboard_time": 1677712641,
+      "rank": 8,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 615521,
+      "num": 615521,
+      "word": "张颂文希望大家不要再接机",
+      "onboard_time": 1677712761,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 611289,
@@ -51,12 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 444510,
-      "num": 444510,
+      "raw_hot": 473611,
+      "num": 473611,
       "word": "3月份有望播出的电视剧",
       "onboard_time": 1677710777,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 456743,
+      "num": 456743,
+      "word": "浙江女子追到广州找到被偷的爱猫",
+      "onboard_time": 1677695953,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400502,
@@ -67,11 +99,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 382552,
-      "num": 382552,
-      "word": "浙江女子追到广州找到被偷的爱猫",
-      "onboard_time": 1677695953,
-      "rank": 49,
+      "raw_hot": 354931,
+      "num": 354931,
+      "word": "网友遭遇话梅刺客一颗20多元",
+      "onboard_time": 1677709995,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -81,14 +113,6 @@
       "onboard_time": 1677670589,
       "rank": 5,
       "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 329491,
-      "num": 329491,
-      "word": "网友遭遇话梅刺客一颗20多元",
-      "onboard_time": 1677709995,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324121,
@@ -115,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282871,
-      "num": 282871,
-      "word": "特斯拉投资者日",
-      "onboard_time": 1677712641,
-      "rank": 8,
-      "category": "财经,科技"
+      "raw_hot": 278363,
+      "num": 278363,
+      "word": "温州特斯拉车祸驾驶员已苏醒",
+      "onboard_time": 1677712339,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269244,
@@ -147,20 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232416,
-      "num": 232416,
+      "raw_hot": 242381,
+      "num": 242381,
       "word": "六十岁上班的我",
       "onboard_time": 1677680312,
       "rank": 39,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 228758,
-      "num": 228758,
-      "word": "儿子篮球班倒闭家长掏1000万买下",
-      "onboard_time": 1677712400,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224302,
@@ -179,14 +195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 193140,
-      "num": 193140,
-      "word": "张颂文希望大家不要再接机",
-      "onboard_time": 1677712761,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188141,
       "num": 138381,
       "word": "推特崩了",
@@ -203,12 +211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176658,
+      "num": 150056,
+      "word": "母亲去世妹妹含泪背姐姐出嫁",
+      "onboard_time": 1677713000,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172845,
       "num": 172845,
       "word": "见过最让人窒息的家长",
       "onboard_time": 1677669567,
       "rank": 16,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 169298,
+      "num": 149292,
+      "word": "秘鲁男子将木乃伊当女友每天同睡",
+      "onboard_time": 1677691456,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167812,
@@ -235,20 +259,20 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 156281,
-      "num": 130312,
-      "word": "秘鲁男子将木乃伊当女友每天同睡",
-      "onboard_time": 1677691456,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141805,
       "num": 141805,
       "word": "急诊科医生与外卖小哥的共同点找到了",
       "onboard_time": 1677683251,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135064,
+      "num": 135064,
+      "word": "看得出外公已经尽力了",
+      "onboard_time": 1677693194,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 125142,
@@ -273,14 +297,6 @@
       "onboard_time": 1677669809,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118109,
-      "num": 108829,
-      "word": "看得出外公已经尽力了",
-      "onboard_time": 1677693194,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 117718,
@@ -315,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110541,
-      "num": 110541,
-      "word": "温州特斯拉车祸驾驶员已苏醒",
-      "onboard_time": 1677712339,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 104139,
+      "num": 104139,
+      "word": "成毅巴黎时装周停车场大片",
+      "onboard_time": 1677703150,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 97474,
@@ -371,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88610,
-      "num": 88610,
-      "word": "成毅巴黎时装周停车场大片",
-      "onboard_time": 1677703150,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 88014,
       "num": 88014,
       "word": "张极说想看贾斯汀比伯演唱会",
@@ -419,12 +427,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 80225,
+      "num": 80225,
+      "word": "男子取消报警医生直奔现场劝说",
+      "onboard_time": 1677713301,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78093,
       "num": 78093,
       "word": "这猫咪是戴了金箍吧",
       "onboard_time": 1677680370,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76761,
+      "num": 689961,
+      "word": "春日里的花海列车",
+      "onboard_time": 1677677069,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74146,
@@ -441,6 +465,14 @@
       "onboard_time": 1677670468,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 69800,
+      "num": 69800,
+      "word": "向太暂停直播的原因",
+      "onboard_time": 1677661648,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 69173,
@@ -475,6 +507,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 61375,
+      "num": 61375,
+      "word": "龚俊入驻上海杜莎夫人蜡像馆",
+      "onboard_time": 1677689479,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61156,
       "num": 61156,
       "word": "恋爱中的少典有琴",
@@ -483,19 +523,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 61129,
-      "num": 61129,
-      "word": "龚俊入驻上海杜莎夫人蜡像馆",
-      "onboard_time": 1677689479,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 60866,
+      "num": 60866,
+      "word": "曼联vs西汉姆联",
+      "onboard_time": 1677698173,
+      "rank": 43,
+      "category": "体育"
     },
     {
-      "raw_hot": 60178,
-      "num": 524864,
-      "word": "春日里的花海列车",
-      "onboard_time": 1677677069,
-      "rank": 2,
+      "raw_hot": 60455,
+      "num": 60455,
+      "word": "专家称双休制度很难被改变",
+      "onboard_time": 1677713484,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -515,12 +555,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 47508,
-      "num": 47508,
-      "word": "曼联vs西汉姆联",
-      "onboard_time": 1677698173,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 42498,
+      "num": 42498,
+      "word": "武大樱花特写",
+      "onboard_time": 1677713604,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 37974,

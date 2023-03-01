@@ -1,0 +1,410 @@
+{
+  "runTime": 1677713655692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 882905,
+        "num": 882905,
+        "word": "美国流浪汉被当街处决式射杀",
+        "onboard_time": 1677686724,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735172,
+        "num": 735172,
+        "word": "文科生转码或成趋势",
+        "onboard_time": 1677687685,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 76761,
+        "num": 689961,
+        "word": "春日里的花海列车",
+        "onboard_time": 1677677069,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647245,
+        "num": 647245,
+        "word": "特斯拉投资者日",
+        "onboard_time": 1677712641,
+        "rank": 3,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 615521,
+        "num": 615521,
+        "word": "张颂文希望大家不要再接机",
+        "onboard_time": 1677712761,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473611,
+        "num": 473611,
+        "word": "3月份有望播出的电视剧",
+        "onboard_time": 1677710777,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 456743,
+        "num": 456743,
+        "word": "浙江女子追到广州找到被偷的爱猫",
+        "onboard_time": 1677695953,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393623,
+        "num": 393623,
+        "word": "建议不得将年龄作为招聘辞退红线",
+        "onboard_time": 1677684388,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354931,
+        "num": 354931,
+        "word": "网友遭遇话梅刺客一颗20多元",
+        "onboard_time": 1677709995,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326469,
+        "num": 326469,
+        "word": "爱奇艺回应2月充会员只能用28天",
+        "onboard_time": 1677668188,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 989961,
+        "num": 319336,
+        "word": "儿子篮球班倒闭家长掏1000万买下",
+        "onboard_time": 1677712400,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278363,
+        "num": 278363,
+        "word": "温州特斯拉车祸驾驶员已苏醒",
+        "onboard_time": 1677712339,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245970,
+        "num": 245970,
+        "word": "董明珠建议统一五险一金标准",
+        "onboard_time": 1677671848,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242381,
+        "num": 242381,
+        "word": "六十岁上班的我",
+        "onboard_time": 1677680312,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 224333,
+        "num": 224333,
+        "word": "韩总统称日本已从侵略者转变为伙伴",
+        "onboard_time": 1677670589,
+        "rank": 14,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 203688,
+        "num": 203688,
+        "word": "颖儿探班任嘉伦",
+        "onboard_time": 1677669869,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183060,
+        "num": 183060,
+        "word": "安欣陆泽宁楼道吻",
+        "onboard_time": 1677672629,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176262,
+        "num": 176262,
+        "word": "建议严查超前学习行为",
+        "onboard_time": 1677671189,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163400,
+        "num": 163400,
+        "word": "动物园称未收到丫丫提早回国消息",
+        "onboard_time": 1677676650,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158391,
+        "num": 158391,
+        "word": "肖战意大利游玩plog",
+        "onboard_time": 1677664288,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507601,
+        "num": 154689,
+        "word": "宋茜路演现场因雪莉落泪",
+        "onboard_time": 1677675990,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176658,
+        "num": 150056,
+        "word": "母亲去世妹妹含泪背姐姐出嫁",
+        "onboard_time": 1677713000,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169298,
+        "num": 149292,
+        "word": "秘鲁男子将木乃伊当女友每天同睡",
+        "onboard_time": 1677691456,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145126,
+        "num": 145126,
+        "word": "白敬亭睡前视频",
+        "onboard_time": 1677682351,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139501,
+        "num": 139501,
+        "word": "家长发文称小学按父母职业排座位",
+        "onboard_time": 1677678510,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 135064,
+        "num": 135064,
+        "word": "看得出外公已经尽力了",
+        "onboard_time": 1677693194,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125403,
+        "num": 125403,
+        "word": "胡锡进谈调整休假安排建议",
+        "onboard_time": 1677681092,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119384,
+        "num": 119384,
+        "word": "安乐传制片人",
+        "onboard_time": 1677684328,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104139,
+        "num": 104139,
+        "word": "成毅巴黎时装周停车场大片",
+        "onboard_time": 1677703150,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 84787,
+        "num": 102080,
+        "word": "急诊科医生与外卖小哥的共同点找到了",
+        "onboard_time": 1677683251,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100844,
+        "num": 100844,
+        "word": "见过最让人窒息的家长",
+        "onboard_time": 1677669567,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 84020,
+        "num": 84020,
+        "word": "鬼灭之刃第三季正式预告",
+        "onboard_time": 1677675569,
+        "rank": 31,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 81484,
+        "num": 81484,
+        "word": "子女受父母胁迫结婚可申请撤销",
+        "onboard_time": 1677703991,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80225,
+        "num": 80225,
+        "word": "男子取消报警医生直奔现场劝说",
+        "onboard_time": 1677713301,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76115,
+        "num": 76115,
+        "word": "建议春节放假9天",
+        "onboard_time": 1677688223,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76059,
+        "num": 76059,
+        "word": "历届微博之夜名场面盘点",
+        "onboard_time": 1677684030,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70844,
+        "num": 70844,
+        "word": "丫丫回国后将进行检疫隔离",
+        "onboard_time": 1677669809,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69800,
+        "num": 69800,
+        "word": "向太暂停直播的原因",
+        "onboard_time": 1677661648,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64036,
+        "num": 64036,
+        "word": "这玩偶一天能走两万步",
+        "onboard_time": 1677679470,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61375,
+        "num": 61375,
+        "word": "龚俊入驻上海杜莎夫人蜡像馆",
+        "onboard_time": 1677689479,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60866,
+        "num": 60866,
+        "word": "曼联vs西汉姆联",
+        "onboard_time": 1677698173,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60455,
+        "num": 60455,
+        "word": "专家称双休制度很难被改变",
+        "onboard_time": 1677713484,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60346,
+        "num": 60346,
+        "word": "全红婵长成大女孩了",
+        "onboard_time": 1677658949,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57986,
+        "num": 57986,
+        "word": "这就是鼓励式教育的意义吧",
+        "onboard_time": 1677687443,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57450,
+        "num": 57450,
+        "word": "在新疆减肥有多难",
+        "onboard_time": 1677683008,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56212,
+        "num": 56212,
+        "word": "王一博祝福周艺轩陈梦瑶",
+        "onboard_time": 1677666028,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53620,
+        "num": 53620,
+        "word": "大学生送5年外卖还清40万外债",
+        "onboard_time": 1677662069,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49530,
+        "num": 49530,
+        "word": "1.89亿天价拍卖后万辆新车被报废",
+        "onboard_time": 1677659670,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47082,
+        "num": 47082,
+        "word": "大麦",
+        "onboard_time": 1677675632,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 42498,
+        "num": 42498,
+        "word": "武大樱花特写",
+        "onboard_time": 1677713604,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在创造性实践中探索中国式现代化#"
+    }
+  }
+}
