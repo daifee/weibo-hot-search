@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677685017263,
+  "endTime": 1677688085914,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1677545190,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 857414,
+      "num": 857414,
+      "word": "建议不得将年龄作为招聘辞退红线",
+      "onboard_time": 1677684388,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 854838,
@@ -2499,6 +2507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 426943,
+      "num": 247933,
+      "word": "美国流浪汉被当街处决式射杀",
+      "onboard_time": 1677686724,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426748,
       "num": 426748,
       "word": "陈数问粉丝你没有三急吗",
@@ -2715,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400502,
+      "num": 400502,
+      "word": "安乐传制片人",
+      "onboard_time": 1677684328,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399014,
       "num": 399014,
       "word": "妻子想卖房救重病儿子遭丈夫反对",
@@ -2873,14 +2897,6 @@
       "onboard_time": 1677657088,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378745,
-      "num": 378745,
-      "word": "安乐传制片人",
-      "onboard_time": 1677684328,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 377946,
@@ -5907,14 +5923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129331,
-      "num": 129331,
-      "word": "建议不得将年龄作为招聘辞退红线",
-      "onboard_time": 1677684388,
-      "rank": 43,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 128623,
       "num": 128623,
       "word": "投诉酒店游客为刘局点赞",
@@ -6523,6 +6531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 74769,
+      "num": 74769,
+      "word": "六十岁上班的我",
+      "onboard_time": 1677680312,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 73389,
       "num": 73389,
       "word": "蔡徐坤爵士乐队版情人",
@@ -6595,6 +6611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58051,
+      "num": 58051,
+      "word": "这就是鼓励式教育的意义吧",
+      "onboard_time": 1677687443,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55498,
       "num": 55498,
       "word": "羽生结弦冰演感言",
@@ -6603,12 +6627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52895,
+      "num": 52895,
+      "word": "文科生转码或成趋势",
+      "onboard_time": 1677687685,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 51871,
       "num": 1367964,
       "word": "奋进的春天",
       "onboard_time": 1677507092,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51680,
+      "num": 51680,
+      "word": "王冰冰三月随拍",
+      "onboard_time": 1677687504,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 44598,

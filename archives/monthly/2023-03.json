@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677685017263,
+  "endTime": 1677688085914,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -345,6 +345,14 @@
       "onboard_time": 1677650908,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 857414,
+      "num": 857414,
+      "word": "建议不得将年龄作为招聘辞退红线",
+      "onboard_time": 1677684388,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 852499,
@@ -851,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426943,
+      "num": 247933,
+      "word": "美国流浪汉被当街处决式射杀",
+      "onboard_time": 1677686724,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426748,
       "num": 426748,
       "word": "陈数问粉丝你没有三急吗",
@@ -955,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 400502,
+      "num": 400502,
+      "word": "安乐传制片人",
+      "onboard_time": 1677684328,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 397628,
       "num": 397628,
       "word": "历届微博之夜名场面盘点",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1677657088,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378745,
-      "num": 378745,
-      "word": "安乐传制片人",
-      "onboard_time": 1677684328,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 377946,
@@ -2179,14 +2195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129331,
-      "num": 129331,
-      "word": "建议不得将年龄作为招聘辞退红线",
-      "onboard_time": 1677684388,
-      "rank": 43,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 126078,
       "num": 126078,
       "word": "朴敏赫退队",
@@ -2379,6 +2387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74769,
+      "num": 74769,
+      "word": "六十岁上班的我",
+      "onboard_time": 1677680312,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 69016,
       "num": 134739,
       "word": "零跑汽车公布全新价格",
@@ -2408,6 +2424,30 @@
       "word": "张峻豪说提前透露一些创意",
       "onboard_time": 1677605116,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58051,
+      "num": 58051,
+      "word": "这就是鼓励式教育的意义吧",
+      "onboard_time": 1677687443,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 52895,
+      "num": 52895,
+      "word": "文科生转码或成趋势",
+      "onboard_time": 1677687685,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 51680,
+      "num": 51680,
+      "word": "王冰冰三月随拍",
+      "onboard_time": 1677687504,
+      "rank": 49,
       "category": "艺人"
     },
     {
