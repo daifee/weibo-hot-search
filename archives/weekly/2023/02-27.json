@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677656035663,
+  "endTime": 1677659157345,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -49,6 +49,14 @@
       "onboard_time": 1677460410,
       "rank": 0,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 3355116,
+      "num": 1529852,
+      "word": "唐山打人者陈继志被强执125万",
+      "onboard_time": 1677657206,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3312641,
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1492541,
+      "num": 1492541,
+      "word": "周杰伦 抢票",
+      "onboard_time": 1677493890,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1491042,
       "num": 1491042,
       "word": "蔡徐坤舞台背景 抄袭",
@@ -521,14 +537,6 @@
       "onboard_time": 1677570572,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1297672,
-      "num": 1297672,
-      "word": "周杰伦 抢票",
-      "onboard_time": 1677493890,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 1291023,
@@ -867,6 +875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 909748,
+      "num": 909748,
+      "word": "国考",
+      "onboard_time": 1677656247,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 905788,
       "num": 905788,
       "word": "女生奶茶中喝出3个标签后细菌感染",
@@ -1131,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 739285,
+      "num": 438760,
+      "word": "赵丽颖和素人合照",
+      "onboard_time": 1677654628,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 733042,
       "num": 733042,
       "word": "未来10年间我国将迎最大退休潮",
@@ -1369,14 +1393,6 @@
       "onboard_time": 1677474812,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 646983,
-      "num": 436065,
-      "word": "赵丽颖和素人合照",
-      "onboard_time": 1677654628,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 644982,
@@ -2035,6 +2051,14 @@
       "category": "游戏,科技"
     },
     {
+      "raw_hot": 452920,
+      "num": 452920,
+      "word": "微软",
+      "onboard_time": 1677655528,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 449328,
       "num": 449328,
       "word": "今年的甲流要比常年猛一些吗",
@@ -2475,6 +2499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 385532,
+      "num": 385532,
+      "word": "还不会退税的有福了",
+      "onboard_time": 1677655288,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 385362,
       "num": 385362,
       "word": "山姆门店多次因食品安全问题被罚",
@@ -2529,6 +2561,14 @@
       "onboard_time": 1677646171,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374914,
+      "num": 374914,
+      "word": "孙怡的直角肩",
+      "onboard_time": 1677655348,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 374404,
@@ -3355,6 +3395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 273441,
+      "num": 273441,
+      "word": "阿娇米兰餐厅打卡照",
+      "onboard_time": 1677658469,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272226,
       "num": 272226,
       "word": "女子帮网友表白日收入过万",
@@ -3419,14 +3467,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 263994,
-      "num": 263994,
-      "word": "微软",
-      "onboard_time": 1677655528,
-      "rank": 17,
-      "category": "科技"
-    },
-    {
       "raw_hot": 262864,
       "num": 252120,
       "word": "没有情救妻破产",
@@ -3449,6 +3489,14 @@
       "onboard_time": 1677425970,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261329,
+      "num": 1492936,
+      "word": "中国基建太牛了",
+      "onboard_time": 1677657088,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260815,
@@ -3489,14 +3537,6 @@
       "onboard_time": 1677638728,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254245,
-      "num": 254245,
-      "word": "孙怡的直角肩",
-      "onboard_time": 1677655348,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 254105,
@@ -4179,14 +4219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198785,
-      "num": 198785,
-      "word": "还不会退税的有福了",
-      "onboard_time": 1677655288,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 198495,
       "num": 198495,
       "word": "OMG战胜iG",
@@ -4457,6 +4489,14 @@
       "onboard_time": 1677511590,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189907,
+      "num": 189907,
+      "word": "张杰未live曜北斗巡回演唱会",
+      "onboard_time": 1677656667,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 188801,
@@ -4851,6 +4891,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 155654,
+      "num": 155654,
+      "word": "章子怡盖尔加朵合照",
+      "onboard_time": 1677657268,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 155402,
       "num": 155402,
       "word": "黄金树之影",
@@ -5019,6 +5067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139479,
+      "num": 139479,
+      "word": "吴京儿子写的玫瑰观察卡",
+      "onboard_time": 1677658409,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138584,
       "num": 138584,
       "word": "帮我艾特王子殿下",
@@ -5121,6 +5177,14 @@
       "onboard_time": 1677489030,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132576,
+      "num": 132576,
+      "word": "全红婵长成大女孩了",
+      "onboard_time": 1677658949,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 132554,
@@ -5491,6 +5555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101287,
+      "num": 101287,
+      "word": "计划生育宣传语应及时清理",
+      "onboard_time": 1677657206,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 100827,
       "num": 100827,
       "word": "警方回应男子在自家鱼塘电鱼被处罚",
@@ -5569,6 +5641,14 @@
       "onboard_time": 1677442451,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94894,
+      "num": 94894,
+      "word": "小猪转呼啦圈向主人炫耀",
+      "onboard_time": 1677658710,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93998,
@@ -5905,6 +5985,9 @@
     },
     {
       "word": "#总书记关心的事#"
+    },
+    {
+      "word": "#一条视频看懂两会知识点#"
     }
   ]
 }
