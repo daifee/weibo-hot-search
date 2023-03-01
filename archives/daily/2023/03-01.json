@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677677979720,
+  "endTime": 1677680300524,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -115,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1446960,
+      "num": 1446960,
+      "word": "动物园称未收到丫丫提早回国消息",
+      "onboard_time": 1677676650,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1432588,
       "num": 1432588,
       "word": "三甲医院有位患者叫熊猫是真熊猫",
@@ -195,6 +203,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1153019,
+      "num": 1153019,
+      "word": "教育局通报柳州一小学按父母职业排座位",
+      "onboard_time": 1677677491,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1139475,
       "num": 553070,
       "word": "姚明回应新疆男篮退出CBA",
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1056072,
+      "num": 1056072,
+      "word": "宋茜路演现场因雪莉落泪",
+      "onboard_time": 1677675990,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1055363,
       "num": 1055363,
       "word": "晚十点是最佳入睡时段",
@@ -299,16 +323,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 931088,
-      "num": 931088,
-      "word": "宋茜路演现场因雪莉落泪",
-      "onboard_time": 1677675990,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 928046,
-      "num": 598227,
+      "num": 704173,
       "word": "爱奇艺回应2月充会员只能用28天",
       "onboard_time": 1677668188,
       "rank": 11,
@@ -321,14 +337,6 @@
       "onboard_time": 1677633451,
       "rank": 5,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 918565,
-      "num": 918565,
-      "word": "动物园称未收到丫丫提早回国消息",
-      "onboard_time": 1677676650,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 869362,
@@ -875,6 +883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 407423,
+      "num": 407423,
+      "word": "鬼灭之刃第三季正式预告",
+      "onboard_time": 1677675569,
+      "rank": 22,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 406883,
       "num": 406883,
       "word": "孙怡的直角肩",
@@ -955,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 374923,
-      "num": 374923,
-      "word": "鬼灭之刃第三季正式预告",
-      "onboard_time": 1677675569,
-      "rank": 22,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 373550,
       "num": 373550,
       "word": "iPhone能在PC端接打电话了",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1677614711,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 342725,
+      "num": 342725,
+      "word": "王茂蕾李一桐演父女",
+      "onboard_time": 1677679831,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 340751,
@@ -1187,6 +1203,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 286679,
+      "num": 286679,
+      "word": "可以直接做但还是走了流程",
+      "onboard_time": 1677677970,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 285898,
       "num": 285898,
       "word": "朴彩英巴黎时装周造型",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1677635069,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280957,
+      "num": 280957,
+      "word": "彭冠英王楚然兑现flag",
+      "onboard_time": 1677680072,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 277512,
@@ -1273,14 +1305,6 @@
       "onboard_time": 1677638728,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 253127,
-      "num": 253127,
-      "word": "教育局通报柳州一小学按父母职业排座位",
-      "onboard_time": 1677677491,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252639,
@@ -1403,6 +1427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227294,
+      "num": 227294,
+      "word": "家长发文称小学按父母职业排座位",
+      "onboard_time": 1677678510,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 225068,
       "num": 225068,
       "word": "杨紫片场跳舞路透",
@@ -1425,6 +1457,14 @@
       "onboard_time": 1677672389,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222556,
+      "num": 222556,
+      "word": "山东男篮vs辽宁男篮",
+      "onboard_time": 1677677970,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 221574,
@@ -1585,6 +1625,14 @@
       "onboard_time": 1677626061,
       "rank": 21,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 200170,
+      "num": 200170,
+      "word": "这玩偶一天能走两万步",
+      "onboard_time": 1677679470,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 200014,
@@ -1835,14 +1883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160684,
-      "num": 160684,
-      "word": "可以直接做但还是走了流程",
-      "onboard_time": 1677677970,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 157146,
       "num": 157146,
       "word": "灰熊战胜湖人",
@@ -1945,6 +1985,14 @@
       "onboard_time": 1677594634,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136697,
+      "num": 1321910,
+      "word": "春日里的花海列车",
+      "onboard_time": 1677677069,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136221,
@@ -2083,6 +2131,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 110689,
+      "num": 413372,
+      "word": "薇姿洗发水",
+      "onboard_time": 1677675632,
+      "rank": 14,
+      "category": "其它"
+    },
+    {
       "raw_hot": 106310,
       "num": 106310,
       "word": "建议消除对罪犯子女考公的限制",
@@ -2115,14 +2171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94708,
-      "num": 94708,
-      "word": "山东男篮vs辽宁男篮",
-      "onboard_time": 1677677970,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91973,
       "num": 91973,
       "word": "周刊君带你看两会",
@@ -2137,14 +2185,6 @@
       "onboard_time": 1677572791,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 87380,
-      "num": 1108986,
-      "word": "春日里的花海列车",
-      "onboard_time": 1677677069,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83596,
@@ -2169,14 +2209,6 @@
       "onboard_time": 1677670228,
       "rank": 48,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 80071,
-      "num": 413372,
-      "word": "薇姿洗发水",
-      "onboard_time": 1677675632,
-      "rank": 14,
-      "category": "其它"
     },
     {
       "raw_hot": 79845,

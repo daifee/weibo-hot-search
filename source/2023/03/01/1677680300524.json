@@ -1,0 +1,410 @@
+{
+  "runTime": 1677680300524,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1549929,
+        "num": 1549929,
+        "word": "刘亚仁",
+        "onboard_time": 1677676230,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1446960,
+        "num": 1446960,
+        "word": "动物园称未收到丫丫提早回国消息",
+        "onboard_time": 1677676650,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136697,
+        "num": 1321910,
+        "word": "春日里的花海列车",
+        "onboard_time": 1677677069,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1317577,
+        "num": 1317577,
+        "word": "建议严查超前学习行为",
+        "onboard_time": 1677671189,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1153019,
+        "num": 1153019,
+        "word": "教育局通报柳州一小学按父母职业排座位",
+        "onboard_time": 1677677491,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1056072,
+        "num": 1056072,
+        "word": "宋茜路演现场因雪莉落泪",
+        "onboard_time": 1677675990,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 746766,
+        "num": 746766,
+        "word": "董明珠建议统一五险一金标准",
+        "onboard_time": 1677671848,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704173,
+        "num": 704173,
+        "word": "爱奇艺回应2月充会员只能用28天",
+        "onboard_time": 1677668188,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 689140,
+        "num": 689140,
+        "word": "大麦",
+        "onboard_time": 1677675632,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 537401,
+        "num": 537401,
+        "word": "韩总统称日本已从侵略者转变为伙伴",
+        "onboard_time": 1677670589,
+        "rank": 9,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 515688,
+        "num": 515688,
+        "word": "颖儿探班任嘉伦",
+        "onboard_time": 1677669869,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451948,
+        "num": 451948,
+        "word": "张颂文感谢网友画的高启强",
+        "onboard_time": 1677672809,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407423,
+        "num": 407423,
+        "word": "鬼灭之刃第三季正式预告",
+        "onboard_time": 1677675569,
+        "rank": 12,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 402730,
+        "num": 402730,
+        "word": "姚明回应新疆男篮退出CBA",
+        "onboard_time": 1677666688,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 367201,
+        "num": 367201,
+        "word": "肖战意大利游玩plog",
+        "onboard_time": 1677664288,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357128,
+        "num": 357128,
+        "word": "安欣陆泽宁楼道吻",
+        "onboard_time": 1677672629,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342725,
+        "num": 342725,
+        "word": "王茂蕾李一桐演父女",
+        "onboard_time": 1677679831,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287134,
+        "num": 287134,
+        "word": "建议每周单休月末连休5天",
+        "onboard_time": 1677653067,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 286679,
+        "num": 286679,
+        "word": "可以直接做但还是走了流程",
+        "onboard_time": 1677677970,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280957,
+        "num": 280957,
+        "word": "彭冠英王楚然兑现flag",
+        "onboard_time": 1677680072,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397016,
+        "num": 278509,
+        "word": "推特崩了",
+        "onboard_time": 1677671971,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 275560,
+        "num": 275560,
+        "word": "周杰伦 抢票",
+        "onboard_time": 1677656126,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259771,
+        "num": 259771,
+        "word": "见过最让人窒息的家长",
+        "onboard_time": 1677669567,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 253021,
+        "num": 253021,
+        "word": "全红婵长成大女孩了",
+        "onboard_time": 1677658949,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248378,
+        "num": 248378,
+        "word": "陈妍希翻遍通讯录为景甜找对象",
+        "onboard_time": 1677671189,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237340,
+        "num": 237340,
+        "word": "1.89亿天价拍卖后万辆新车被报废",
+        "onboard_time": 1677659670,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228945,
+        "num": 228945,
+        "word": "Lisa新加坡芭莎封面",
+        "onboard_time": 1677674911,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 227294,
+        "num": 227294,
+        "word": "家长发文称小学按父母职业排座位",
+        "onboard_time": 1677678510,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 222556,
+        "num": 222556,
+        "word": "山东男篮vs辽宁男篮",
+        "onboard_time": 1677677970,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213720,
+        "num": 213720,
+        "word": "王一博祝福周艺轩陈梦瑶",
+        "onboard_time": 1677666028,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200170,
+        "num": 200170,
+        "word": "这玩偶一天能走两万步",
+        "onboard_time": 1677679470,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198612,
+        "num": 198612,
+        "word": "大学生送5年外卖还清40万外债",
+        "onboard_time": 1677662069,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169926,
+        "num": 169926,
+        "word": "星落凝成糖上头名场面",
+        "onboard_time": 1677673828,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169505,
+        "num": 169505,
+        "word": "上海野生动物园多次抽查发现问题",
+        "onboard_time": 1677660389,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166079,
+        "num": 166079,
+        "word": "丫丫回国后将进行检疫隔离",
+        "onboard_time": 1677669809,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138563,
+        "num": 138563,
+        "word": "邢菲哭戏",
+        "onboard_time": 1677672750,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138218,
+        "num": 138218,
+        "word": "国考",
+        "onboard_time": 1677656247,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123065,
+        "num": 123065,
+        "word": "三月头像",
+        "onboard_time": 1677649767,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120996,
+        "num": 120996,
+        "word": "陆虎 抢票",
+        "onboard_time": 1677653126,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119461,
+        "num": 119461,
+        "word": "干将莫邪画中仙皮肤",
+        "onboard_time": 1677664048,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117911,
+        "num": 117911,
+        "word": "WBG战胜LGD",
+        "onboard_time": 1677675270,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116793,
+        "num": 116793,
+        "word": "建议元宵节放假1天",
+        "onboard_time": 1677661948,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 110689,
+        "num": 110689,
+        "word": "薇姿洗发水",
+        "onboard_time": 1677675632,
+        "rank": 42,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 110175,
+        "num": 110175,
+        "word": "瓦妮莎与洛杉矶政府和解获赔近2亿元",
+        "onboard_time": 1677663987,
+        "rank": 43,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 94554,
+        "num": 94554,
+        "word": "动物园发布丫丫最新照片",
+        "onboard_time": 1677654628,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93455,
+        "num": 93455,
+        "word": "Hero星元紫金契约",
+        "onboard_time": 1677673767,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92206,
+        "num": 92206,
+        "word": "杨树茂破产",
+        "onboard_time": 1677670468,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88909,
+        "num": 88909,
+        "word": "赵丽颖和素人合照",
+        "onboard_time": 1677654628,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85384,
+        "num": 85384,
+        "word": "向太暂停直播的原因",
+        "onboard_time": 1677661648,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79361,
+        "num": 79361,
+        "word": "程耳透露无名原本结局",
+        "onboard_time": 1677672389,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央党校建校90周年#"
+    }
+  }
+}
