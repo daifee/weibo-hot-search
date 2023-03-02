@@ -1,6 +1,6 @@
 {
   "startTime": 1677688085914,
-  "endTime": 1677739207051,
+  "endTime": 1677741479620,
   "band_list": [
     {
       "raw_hot": 2946066,
@@ -81,6 +81,14 @@
       "onboard_time": 1677732333,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1115358,
+      "num": 847391,
+      "word": "陈玺达要考复旦",
+      "onboard_time": 1677738624,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1105567,
@@ -171,14 +179,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 847391,
-      "num": 847391,
-      "word": "陈玺达要考复旦",
-      "onboard_time": 1677738624,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 845655,
       "num": 845655,
       "word": "电影忠犬八公定档",
@@ -201,6 +201,14 @@
       "onboard_time": 1677725368,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 790113,
+      "num": 657260,
+      "word": "PYL结婚",
+      "onboard_time": 1677739286,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 784044,
@@ -233,6 +241,14 @@
       "onboard_time": 1677734727,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 701192,
+      "num": 701192,
+      "word": "樊振东2比3赵大成",
+      "onboard_time": 1677740304,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 658197,
@@ -283,6 +299,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 602403,
+      "num": 321161,
+      "word": "妈妈喂8个月宝宝吃馍窒息昏迷9天",
+      "onboard_time": 1677736466,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574814,
       "num": 426986,
       "word": "肖战托腮",
@@ -304,14 +328,6 @@
       "word": "泸定地震民宿老板3000万投资打水漂",
       "onboard_time": 1677720747,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 568813,
-      "num": 271755,
-      "word": "妈妈喂8个月宝宝吃馍窒息昏迷9天",
-      "onboard_time": 1677736466,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -411,6 +427,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470732,
+      "num": 470732,
+      "word": "年轻人都流向了哪些城市",
+      "onboard_time": 1677738206,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462284,
+      "num": 462284,
+      "word": "YG新女团合照",
+      "onboard_time": 1677739705,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456743,
       "num": 456743,
       "word": "浙江女子追到广州找到被偷的爱猫",
@@ -449,6 +481,14 @@
       "onboard_time": 1677737787,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 402040,
+      "num": 402040,
+      "word": "14亿多中国人的心声",
+      "onboard_time": 1677739405,
+      "rank": 16,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 400502,
@@ -555,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 324750,
+      "num": 324750,
+      "word": "惠普笔记本维修后发现掌托是木头的",
+      "onboard_time": 1677737365,
+      "rank": 30,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 324654,
       "num": 324654,
       "word": "谢可寅巴黎时装周生图",
@@ -568,6 +616,14 @@
       "word": "白敬亭睡前视频",
       "onboard_time": 1677682351,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 322555,
+      "num": 322555,
+      "word": "成毅抵达巴黎",
+      "onboard_time": 1677739225,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -619,6 +675,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 285567,
+      "num": 285567,
+      "word": "好多演唱会",
+      "onboard_time": 1677741026,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 279193,
       "num": 279193,
       "word": "大侦探",
@@ -635,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272054,
-      "num": 272054,
-      "word": "惠普笔记本维修后发现掌托是木头的",
-      "onboard_time": 1677737365,
-      "rank": 30,
-      "category": "科技,社会新闻"
+      "raw_hot": 274936,
+      "num": 274936,
+      "word": "建议提高多孩家庭个税扣除比例",
+      "onboard_time": 1677739827,
+      "rank": 24,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 269244,
@@ -651,20 +715,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267180,
-      "num": 267180,
-      "word": "年轻人都流向了哪些城市",
-      "onboard_time": 1677738206,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262525,
       "num": 236337,
       "word": "理发店宠物狗未栓绳店主被城管掌掴",
       "onboard_time": 1677716072,
       "rank": 21,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 259183,
+      "num": 259183,
+      "word": "哪些政策能真正鼓励生育",
+      "onboard_time": 1677741266,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254008,
@@ -939,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175183,
+      "num": 175183,
+      "word": "一年四季都要用防晒吗",
+      "onboard_time": 1677740965,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172845,
       "num": 172845,
       "word": "见过最让人窒息的家长",
@@ -1091,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123591,
+      "num": 123591,
+      "word": "成龙吴京同框海报",
+      "onboard_time": 1677740486,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 123004,
       "num": 123004,
       "word": "周杰伦 抢票",
@@ -1105,6 +1185,22 @@
       "onboard_time": 1677669809,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121358,
+      "num": 121358,
+      "word": "永远猜不到女生包里有什么",
+      "onboard_time": 1677741386,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 119745,
+      "num": 119745,
+      "word": "INTO1告别MV梦回海花岛",
+      "onboard_time": 1677740007,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 116769,
