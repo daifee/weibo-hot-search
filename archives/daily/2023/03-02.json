@@ -1,6 +1,6 @@
 {
   "startTime": 1677688085914,
-  "endTime": 1677738301333,
+  "endTime": 1677739207051,
   "band_list": [
     {
       "raw_hot": 2946066,
@@ -33,6 +33,14 @@
       "onboard_time": 1677732694,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1369052,
+      "num": 1369052,
+      "word": "海南椰树集团招生本科年薪16.8万",
+      "onboard_time": 1677735208,
+      "rank": 48,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1293393,
@@ -73,14 +81,6 @@
       "onboard_time": 1677732333,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1134742,
-      "num": 1134742,
-      "word": "海南椰树集团招生本科年薪16.8万",
-      "onboard_time": 1677735208,
-      "rank": 48,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1105567,
@@ -171,6 +171,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 847391,
+      "num": 847391,
+      "word": "陈玺达要考复旦",
+      "onboard_time": 1677738624,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 845655,
       "num": 845655,
       "word": "电影忠犬八公定档",
@@ -219,8 +227,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 686133,
-      "num": 686133,
+      "raw_hot": 709137,
+      "num": 709137,
       "word": "忠犬八公主演是中华田园犬",
       "onboard_time": 1677734727,
       "rank": 16,
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568813,
+      "num": 271755,
+      "word": "妈妈喂8个月宝宝吃馍窒息昏迷9天",
+      "onboard_time": 1677736466,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554899,
       "num": 554899,
       "word": "RNG老板道歉",
@@ -315,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528935,
-      "num": 271755,
-      "word": "妈妈喂8个月宝宝吃馍窒息昏迷9天",
-      "onboard_time": 1677736466,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 518283,
+      "num": 518283,
+      "word": "李敏镐香港经纪公司已告解散",
+      "onboard_time": 1677737844,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 514756,
@@ -360,14 +376,6 @@
       "word": "李飞真会省钱",
       "onboard_time": 1677723147,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 490738,
-      "num": 438303,
-      "word": "李敏镐香港经纪公司已告解散",
-      "onboard_time": 1677737844,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -419,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438491,
+      "num": 438491,
+      "word": "杨幂鲜花封面大片",
+      "onboard_time": 1677738446,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 428799,
       "num": 428799,
       "word": "养育子女仅由女性承担不公平",
       "onboard_time": 1677730831,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427968,
+      "num": 427968,
+      "word": "于朦胧镜头下的宋妍霏",
+      "onboard_time": 1677737787,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 400502,
@@ -555,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 317929,
-      "num": 317929,
-      "word": "于朦胧镜头下的宋妍霏",
-      "onboard_time": 1677737787,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 313965,
       "num": 313965,
       "word": "gidle将于四五月间回归",
@@ -619,12 +635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272054,
+      "num": 272054,
+      "word": "惠普笔记本维修后发现掌托是木头的",
+      "onboard_time": 1677737365,
+      "rank": 30,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 269244,
       "num": 269244,
       "word": "安欣陆泽宁楼道吻",
       "onboard_time": 1677672629,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267180,
+      "num": 267180,
+      "word": "年轻人都流向了哪些城市",
+      "onboard_time": 1677738206,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262525,
@@ -753,14 +785,6 @@
       "onboard_time": 1677729150,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222822,
-      "num": 200963,
-      "word": "惠普笔记本维修后发现掌托是木头的",
-      "onboard_time": 1677737365,
-      "rank": 30,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 222421,
@@ -923,6 +947,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 169644,
+      "num": 169644,
+      "word": "刘耀文荣梓杉海报拍摄花絮",
+      "onboard_time": 1677739166,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169298,
       "num": 149292,
       "word": "秘鲁男子将木乃伊当女友每天同睡",
@@ -1041,14 +1073,6 @@
       "onboard_time": 1677693194,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134524,
-      "num": 134524,
-      "word": "年轻人都流向了哪些城市",
-      "onboard_time": 1677738206,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127486,
@@ -1419,20 +1443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30757,
+      "num": 126043,
+      "word": "天猫发布春夏消费趋势",
+      "onboard_time": 1677736829,
+      "rank": 39,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 26409,
       "num": 26409,
       "word": "大秀直击",
       "onboard_time": 1677683728,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 18344,
-      "num": 125007,
-      "word": "天猫发布春夏消费趋势",
-      "onboard_time": 1677736829,
-      "rank": 39,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 17767,

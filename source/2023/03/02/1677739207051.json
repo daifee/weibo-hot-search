@@ -1,0 +1,410 @@
+{
+  "runTime": 1677739207051,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1369052,
+        "num": 1369052,
+        "word": "海南椰树集团招生本科年薪16.8万",
+        "onboard_time": 1677735208,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1049600,
+        "num": 1049600,
+        "word": "杭州吸走北京上海人才",
+        "onboard_time": 1677732694,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48750,
+        "num": 959582,
+        "word": "9图了解政协知识点",
+        "onboard_time": 1677727107,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 881690,
+        "num": 881690,
+        "word": "孙怡威海夜市卖梨汤",
+        "onboard_time": 1677737125,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 847391,
+        "num": 847391,
+        "word": "陈玺达要考复旦",
+        "onboard_time": 1677738624,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 802719,
+        "num": 802719,
+        "word": "女子曝杨子直播间卖的被子里全是头发",
+        "onboard_time": 1677724947,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 768640,
+        "num": 768640,
+        "word": "新人结婚朋友随100张刮刮乐",
+        "onboard_time": 1677732333,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709137,
+        "num": 709137,
+        "word": "忠犬八公主演是中华田园犬",
+        "onboard_time": 1677734727,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 610896,
+        "num": 610896,
+        "word": "冯禧 打码",
+        "onboard_time": 1677717809,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571098,
+        "num": 571098,
+        "word": "鹿晗2023演唱会来了",
+        "onboard_time": 1677734967,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 518283,
+        "num": 518283,
+        "word": "李敏镐香港经纪公司已告解散",
+        "onboard_time": 1677737844,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438491,
+        "num": 438491,
+        "word": "杨幂鲜花封面大片",
+        "onboard_time": 1677738446,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428796,
+        "num": 428796,
+        "word": "每天睡4个小时属于睡眠不足",
+        "onboard_time": 1677725188,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427968,
+        "num": 427968,
+        "word": "于朦胧镜头下的宋妍霏",
+        "onboard_time": 1677737787,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336152,
+        "num": 336152,
+        "word": "建议对2024年后出生孩子免除学费",
+        "onboard_time": 1677727766,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359083,
+        "num": 335563,
+        "word": "流浪地球3为何还选青岛",
+        "onboard_time": 1677735628,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292774,
+        "num": 292774,
+        "word": "原设计者说蔡徐坤不用对此事负责",
+        "onboard_time": 1677729629,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272054,
+        "num": 272054,
+        "word": "惠普笔记本维修后发现掌托是木头的",
+        "onboard_time": 1677737365,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 267180,
+        "num": 267180,
+        "word": "年轻人都流向了哪些城市",
+        "onboard_time": 1677738206,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257519,
+        "num": 257519,
+        "word": "父亲为救4岁患肿瘤儿子跑外卖摔断腿",
+        "onboard_time": 1677733589,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568813,
+        "num": 244050,
+        "word": "妈妈喂8个月宝宝吃馍窒息昏迷9天",
+        "onboard_time": 1677736466,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287583,
+        "num": 241023,
+        "word": "张杰广州演唱会加场",
+        "onboard_time": 1677735029,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283251,
+        "num": 236807,
+        "word": "肖战去了西班牙阶梯",
+        "onboard_time": 1677726508,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225266,
+        "num": 225266,
+        "word": "人社部将适时调整个人养老金缴费上限",
+        "onboard_time": 1677729810,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223568,
+        "num": 223568,
+        "word": "不良人",
+        "onboard_time": 1677724465,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 263779,
+        "num": 222764,
+        "word": "SMTOWN和HYBE开通联合账号",
+        "onboard_time": 1677732512,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260305,
+        "num": 222704,
+        "word": "贝克街的亡灵定档",
+        "onboard_time": 1677727526,
+        "rank": 26,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 250884,
+        "num": 222347,
+        "word": "白夜追凶2改名白夜破晓",
+        "onboard_time": 1677728248,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221874,
+        "num": 221874,
+        "word": "男子爬泰山帮挑山工挑120斤水",
+        "onboard_time": 1677734010,
+        "rank": 28,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 188303,
+        "num": 188303,
+        "word": "梅西买苹果手机送给队友",
+        "onboard_time": 1677724286,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222458,
+        "num": 185956,
+        "word": "张若昀敲胸的",
+        "onboard_time": 1677734608,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177746,
+        "num": 177746,
+        "word": "女子称30岁相亲不是二婚就是老头",
+        "onboard_time": 1677731370,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172900,
+        "num": 172900,
+        "word": "黑神话悟空软著登记获批",
+        "onboard_time": 1677732812,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169644,
+        "num": 169644,
+        "word": "刘耀文荣梓杉海报拍摄花絮",
+        "onboard_time": 1677739166,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157955,
+        "num": 157955,
+        "word": "老了我们也要这样吃喝",
+        "onboard_time": 1677736645,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157026,
+        "num": 157026,
+        "word": "张柏芝与二儿子同框比心",
+        "onboard_time": 1677720806,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154153,
+        "num": 154153,
+        "word": "养育子女仅由女性承担不公平",
+        "onboard_time": 1677730831,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149296,
+        "num": 149296,
+        "word": "老师被指侵占学生雕塑冒名参展",
+        "onboard_time": 1677723147,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 148882,
+        "num": 148882,
+        "word": "为什么有些人晚睡早起还精力充沛",
+        "onboard_time": 1677723806,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30757,
+        "num": 126043,
+        "word": "天猫发布春夏消费趋势",
+        "onboard_time": 1677736829,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 123199,
+        "num": 123199,
+        "word": "陈星旭李兰迪流星许愿2.0",
+        "onboard_time": 1677737247,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118279,
+        "num": 118279,
+        "word": "大侦探",
+        "onboard_time": 1677733111,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114326,
+        "num": 114326,
+        "word": "大哥大爷神同步跳河救人获见义勇为",
+        "onboard_time": 1677737546,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 109703,
+        "num": 109703,
+        "word": "王者干将莫邪新皮肤特效",
+        "onboard_time": 1677728307,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104642,
+        "num": 104642,
+        "word": "宋亚轩讲粤语了",
+        "onboard_time": 1677734308,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104507,
+        "num": 104507,
+        "word": "泸定地震民宿老板3000万投资打水漂",
+        "onboard_time": 1677720747,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91946,
+        "num": 91946,
+        "word": "重紫大婚造型",
+        "onboard_time": 1677729328,
+        "rank": 46,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 89353,
+        "num": 89353,
+        "word": "马思唯官宣2023世界巡演",
+        "onboard_time": 1677728367,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88583,
+        "num": 88583,
+        "word": "RNG老板道歉",
+        "onboard_time": 1677718529,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87372,
+        "num": 87372,
+        "word": "杨紫199爱哭戏",
+        "onboard_time": 1677725488,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦2023年全国两会#"
+    }
+  }
+}
