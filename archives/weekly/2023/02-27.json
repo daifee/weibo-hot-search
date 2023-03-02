@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677760624971,
+  "endTime": 1677761788509,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2459613,
+      "num": 391561,
+      "word": "香港名媛碎尸案警方再拘一人",
+      "onboard_time": 1677759569,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2426198,
       "num": 553436,
       "word": "蔡天凤前夫一家4人不准保释",
@@ -193,14 +201,6 @@
       "onboard_time": 1677744267,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2287472,
-      "num": 391561,
-      "word": "香港名媛碎尸案警方再拘一人",
-      "onboard_time": 1677759569,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2153485,
@@ -1027,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1046121,
+      "num": 631644,
+      "word": "薛之谦 这世界病了而我没有妥协",
+      "onboard_time": 1677758190,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1036302,
       "num": 1036302,
       "word": "梅西当选FIFA年度最佳球员",
@@ -1051,12 +1059,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1019451,
-      "num": 563830,
-      "word": "薛之谦 这世界病了而我没有妥协",
-      "onboard_time": 1677758190,
-      "rank": 4,
-      "category": "艺人"
+      "raw_hot": 999872,
+      "num": 999872,
+      "word": "杨子发视频回应驼毛被事件",
+      "onboard_time": 1677758127,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 993531,
@@ -1065,14 +1073,6 @@
       "onboard_time": 1677565888,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 993369,
-      "num": 993369,
-      "word": "杨子发视频回应驼毛被事件",
-      "onboard_time": 1677758127,
-      "rank": 0,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 993001,
@@ -1739,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 718153,
+      "num": 577366,
+      "word": "迪丽热巴回应前段时间休息是有点疲惫",
+      "onboard_time": 1677761489,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 713496,
       "num": 713496,
       "word": "鹅厂三月大剧片单",
@@ -2219,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574613,
+      "num": 388276,
+      "word": "时代少年团全员无发缝",
+      "onboard_time": 1677759569,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 573899,
       "num": 322825,
       "word": "家属曝73岁父亲被养老院护工打爆眼球",
@@ -2239,14 +2255,6 @@
       "num": 573322,
       "word": "SMTOWN和HYBE开通联合账号",
       "onboard_time": 1677732512,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 572974,
-      "num": 388276,
-      "word": "时代少年团全员无发缝",
-      "onboard_time": 1677759569,
       "rank": 11,
       "category": "艺人"
     },
@@ -2363,8 +2371,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 552350,
-      "num": 552350,
+      "raw_hot": 552782,
+      "num": 552782,
       "word": "王一博李沁同框路透",
       "onboard_time": 1677758970,
       "rank": 6,
@@ -4699,6 +4707,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 276666,
+      "num": 237683,
+      "word": "丁程鑫出发录制你好星期六",
+      "onboard_time": 1677761009,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276628,
       "num": 249680,
       "word": "27岁男子没穿鞋失踪40余天",
@@ -5321,6 +5337,14 @@
       "onboard_time": 1677748772,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224904,
+      "num": 336348,
+      "word": "直播间买东西开始真香了",
+      "onboard_time": 1677758431,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 224737,
@@ -6563,14 +6587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178518,
-      "num": 336348,
-      "word": "直播间买东西开始真香了",
-      "onboard_time": 1677758431,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175728,
       "num": 175728,
       "word": "2023LPL春季赛",
@@ -7185,6 +7201,14 @@
       "onboard_time": 1677654147,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141208,
+      "num": 141208,
+      "word": "大卫詹姆斯受伤",
+      "onboard_time": 1677761669,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 140315,
@@ -7905,6 +7929,14 @@
       "onboard_time": 1677478829,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101536,
+      "num": 101536,
+      "word": "天津男篮vs广厦男篮",
+      "onboard_time": 1677761431,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 100827,

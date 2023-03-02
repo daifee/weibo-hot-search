@@ -1,0 +1,410 @@
+{
+  "runTime": 1677761788509,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 999872,
+        "num": 999872,
+        "word": "杨子发视频回应驼毛被事件",
+        "onboard_time": 1677758127,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 671896,
+        "num": 671896,
+        "word": "俞敏洪称不太喜欢狂飙",
+        "onboard_time": 1677745468,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73923,
+        "num": 651809,
+        "word": "一图认遍全国春花",
+        "onboard_time": 1677746610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046121,
+        "num": 631644,
+        "word": "薛之谦 这世界病了而我没有妥协",
+        "onboard_time": 1677758190,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1036410,
+        "num": 598016,
+        "word": "爱情公寓林宛瑜扮演者近照",
+        "onboard_time": 1677746552,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 718153,
+        "num": 577366,
+        "word": "迪丽热巴回应前段时间休息是有点疲惫",
+        "onboard_time": 1677761489,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566808,
+        "num": 566808,
+        "word": "公司招聘会计要求必须是A型血",
+        "onboard_time": 1677750271,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552782,
+        "num": 552782,
+        "word": "王一博李沁同框路透",
+        "onboard_time": 1677758970,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368853,
+        "num": 368853,
+        "word": "杨幂王楚然穿了同款",
+        "onboard_time": 1677750569,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 358911,
+        "num": 358911,
+        "word": "当地华人接力守护丫丫",
+        "onboard_time": 1677752553,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2459613,
+        "num": 353746,
+        "word": "香港名媛碎尸案警方再拘一人",
+        "onboard_time": 1677759569,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 574613,
+        "num": 350181,
+        "word": "时代少年团全员无发缝",
+        "onboard_time": 1677759569,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336035,
+        "num": 336035,
+        "word": "关晓彤出发巴黎时装周",
+        "onboard_time": 1677755969,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334521,
+        "num": 334521,
+        "word": "日本千叶县全体议员戴头盔开会",
+        "onboard_time": 1677755308,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224904,
+        "num": 318061,
+        "word": "直播间买东西开始真香了",
+        "onboard_time": 1677758431,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317221,
+        "num": 317221,
+        "word": "学霸寝室不泡图书馆全员保研名校",
+        "onboard_time": 1677752670,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 305795,
+        "num": 305795,
+        "word": "耳背文学",
+        "onboard_time": 1677756087,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292865,
+        "num": 292865,
+        "word": "建议将1000万元作为遗产税起征点",
+        "onboard_time": 1677747632,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247226,
+        "num": 247226,
+        "word": "徐冬冬自嘲身材比例55开",
+        "onboard_time": 1677750810,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239735,
+        "num": 239735,
+        "word": "女明星捧花头像",
+        "onboard_time": 1677750150,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356362,
+        "num": 238876,
+        "word": "夫妻离婚后发现儿子患自闭症又复婚",
+        "onboard_time": 1677742887,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472022,
+        "num": 238724,
+        "word": "烽火流金 空降",
+        "onboard_time": 1677745170,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276666,
+        "num": 237683,
+        "word": "丁程鑫出发录制你好星期六",
+        "onboard_time": 1677761009,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236204,
+        "num": 236204,
+        "word": "肖战欧洲篇vlog",
+        "onboard_time": 1677743307,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 227550,
+        "num": 227550,
+        "word": "中动协称丫丫乐乐或将一起回国",
+        "onboard_time": 1677744931,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213359,
+        "num": 213359,
+        "word": "狗狗真的被风吹走了",
+        "onboard_time": 1677748892,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212320,
+        "num": 212320,
+        "word": "玄商得知夜昙悲惨身世",
+        "onboard_time": 1677760171,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208570,
+        "num": 208570,
+        "word": "光渊",
+        "onboard_time": 1677748592,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199030,
+        "num": 199030,
+        "word": "重紫和魔尊成亲",
+        "onboard_time": 1677753629,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119570,
+        "num": 196958,
+        "word": "我国短视频用户规模突破10亿",
+        "onboard_time": 1677752732,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 196839,
+        "num": 196839,
+        "word": "官方通报女子买两碗麻辣烫花175元",
+        "onboard_time": 1677743247,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188583,
+        "num": 188583,
+        "word": "HYBE多给李秀满700亿韩元",
+        "onboard_time": 1677753568,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179564,
+        "num": 179564,
+        "word": "罗云熙宋轶 颜心记",
+        "onboard_time": 1677757650,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176979,
+        "num": 176979,
+        "word": "陆泽宁求婚成功",
+        "onboard_time": 1677758850,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163075,
+        "num": 163075,
+        "word": "建议第三胎孩子教育全免费",
+        "onboard_time": 1677744510,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 167326,
+        "num": 161709,
+        "word": "喻言黑色玫瑰皮裙造型",
+        "onboard_time": 1677759210,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160154,
+        "num": 160154,
+        "word": "蔡徐坤欧洲行程",
+        "onboard_time": 1677760355,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151709,
+        "num": 151709,
+        "word": "开车的和坐车的都懵了",
+        "onboard_time": 1677750989,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147298,
+        "num": 147298,
+        "word": "久哲说我们一定会进S组",
+        "onboard_time": 1677756929,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141208,
+        "num": 141208,
+        "word": "大卫詹姆斯受伤",
+        "onboard_time": 1677761669,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156338,
+        "num": 137341,
+        "word": "张颂文曾指导赵露思演戏",
+        "onboard_time": 1677749370,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151451,
+        "num": 135433,
+        "word": "你会暗恋一个人十年吗",
+        "onboard_time": 1677748652,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130538,
+        "num": 130538,
+        "word": "宋亚轩带吉他回学校",
+        "onboard_time": 1677759688,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129239,
+        "num": 129239,
+        "word": "妈妈喂8个月宝宝吃馍窒息昏迷9天",
+        "onboard_time": 1677736466,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127388,
+        "num": 127388,
+        "word": "建议特定条件支持未婚女性冻卵",
+        "onboard_time": 1677757889,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 121510,
+        "num": 121510,
+        "word": "TWICE直拍",
+        "onboard_time": 1677756751,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121400,
+        "num": 121400,
+        "word": "射手座最害怕辜负的感觉",
+        "onboard_time": 1677744450,
+        "rank": 46,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 112698,
+        "num": 112698,
+        "word": "原来白米粥还能涮火锅",
+        "onboard_time": 1677746733,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101536,
+        "num": 101536,
+        "word": "天津男篮vs广厦男篮",
+        "onboard_time": 1677761431,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91751,
+        "num": 91751,
+        "word": "陈玺达要考复旦",
+        "onboard_time": 1677738624,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦2023年全国两会#"
+    }
+  }
+}
