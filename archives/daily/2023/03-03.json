@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677778549748,
+  "endTime": 1677781686906,
   "band_list": [
     {
       "raw_hot": 964016,
@@ -403,12 +403,36 @@
       "category": "情感,自然"
     },
     {
+      "raw_hot": 62947,
+      "num": 62947,
+      "word": "米兰时装周国内明星最佳看秀造型",
+      "onboard_time": 1677780496,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 46565,
       "num": 124664,
       "word": "我国短视频用户规模突破10亿",
       "onboard_time": 1677752732,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 30071,
+      "num": 30071,
+      "word": "朱一龙印尼碎片随拍",
+      "onboard_time": 1677771867,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24576,
+      "num": 24576,
+      "word": "85生演技大赏",
+      "onboard_time": 1677772467,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 21390,
