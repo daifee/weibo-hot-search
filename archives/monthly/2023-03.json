@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677727646443,
+  "endTime": 1677728449162,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -83,20 +83,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1789357,
+      "num": 1789357,
+      "word": "女子曝杨子直播间卖的被子里全是头发",
+      "onboard_time": 1677724947,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1713353,
       "num": 1713353,
       "word": "周琦回应",
       "onboard_time": 1677625519,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1614482,
-      "num": 1614482,
-      "word": "女子曝杨子直播间卖的被子里全是头发",
-      "onboard_time": 1677724947,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1591473,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1081452,
+      "num": 1081452,
+      "word": "每天睡4个小时属于睡眠不足",
+      "onboard_time": 1677725188,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1076800,
       "num": 1076800,
       "word": "颖儿探班任嘉伦",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 1059046,
-      "num": 512567,
+      "num": 531230,
       "word": "肖战去了西班牙阶梯",
       "onboard_time": 1677726508,
       "rank": 10,
@@ -435,14 +443,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 853072,
-      "num": 853072,
-      "word": "每天睡4个小时属于睡眠不足",
-      "onboard_time": 1677725188,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 852499,
       "num": 852499,
       "word": "姚明 新疆男篮",
@@ -491,20 +491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 784044,
+      "num": 784044,
+      "word": "为什么有些人晚睡早起还精力充沛",
+      "onboard_time": 1677723806,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 781117,
       "num": 781117,
       "word": "白夜追凶2",
       "onboard_time": 1677588088,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 779820,
-      "num": 779820,
-      "word": "为什么有些人晚睡早起还精力充沛",
-      "onboard_time": 1677723806,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 758844,
@@ -891,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 540390,
+      "num": 540390,
+      "word": "贝克街的亡灵定档",
+      "onboard_time": 1677727526,
+      "rank": 33,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 537737,
       "num": 537737,
       "word": "特斯拉",
@@ -963,6 +971,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 508720,
+      "num": 508720,
+      "word": "1家3口同月同日生日",
+      "onboard_time": 1677725787,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507987,
       "num": 507987,
       "word": "那些曾经霸榜的小说",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1677710777,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 463859,
-      "num": 463859,
-      "word": "1家3口同月同日生日",
-      "onboard_time": 1677725787,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 463063,
@@ -1243,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385213,
+      "num": 385213,
+      "word": "白夜追凶2改名白夜破晓",
+      "onboard_time": 1677728248,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 384112,
       "num": 384112,
       "word": "3月星座恋爱运",
@@ -1283,12 +1299,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 366939,
+      "num": 366939,
+      "word": "建议对2024年后出生孩子免除学费",
+      "onboard_time": 1677727766,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366632,
       "num": 366632,
       "word": "星落凝成糖上头名场面",
       "onboard_time": 1677673828,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 365945,
+      "num": 365945,
+      "word": "建议辅助生殖技术进医保",
+      "onboard_time": 1677727229,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362753,
@@ -1721,6 +1753,14 @@
       "onboard_time": 1677680312,
       "rank": 39,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 253269,
+      "num": 219963,
+      "word": "马思唯官宣2023世界巡演",
+      "onboard_time": 1677728367,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 252639,
@@ -2211,14 +2251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190752,
-      "num": 190752,
-      "word": "建议辅助生殖技术进医保",
-      "onboard_time": 1677727229,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190700,
       "num": 190700,
       "word": "AppleMusic被欧盟指控垄断",
@@ -2275,6 +2307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187465,
+      "num": 187465,
+      "word": "王源文淇同框照",
+      "onboard_time": 1677728248,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186252,
       "num": 186252,
       "word": "肖战意大利雨天街头漫步",
@@ -2315,6 +2355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182904,
+      "num": 182904,
+      "word": "建议出台反网络暴力法",
+      "onboard_time": 1677727349,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182512,
       "num": 182512,
       "word": "建议企业给外卖员等群体上工伤保险",
@@ -2337,6 +2385,14 @@
       "onboard_time": 1677668068,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180108,
+      "num": 180108,
+      "word": "重返校园的春天有多美",
+      "onboard_time": 1677727648,
+      "rank": 37,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 177242,
@@ -2393,14 +2449,6 @@
       "onboard_time": 1677661110,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170343,
-      "num": 170343,
-      "word": "贝克街的亡灵定档",
-      "onboard_time": 1677727526,
-      "rank": 33,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 169298,
@@ -2547,6 +2595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144048,
+      "num": 144048,
+      "word": "中国小将顶峰相见",
+      "onboard_time": 1677727408,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141389,
       "num": 141389,
       "word": "孙千出发巴黎时装周",
@@ -2651,14 +2707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133548,
-      "num": 133548,
-      "word": "建议出台反网络暴力法",
-      "onboard_time": 1677727349,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132497,
       "num": 132497,
       "word": "恋爱中的少典有琴",
@@ -2755,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116669,
+      "num": 116669,
+      "word": "王者干将莫邪新皮肤特效",
+      "onboard_time": 1677728307,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115177,
       "num": 115177,
       "word": "重组家庭男孩凌晨独行好心人送回家",
@@ -2801,14 +2857,6 @@
       "onboard_time": 1677688223,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112657,
-      "num": 112657,
-      "word": "中国小将顶峰相见",
-      "onboard_time": 1677727408,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 112446,
@@ -2995,19 +3043,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65436,
+      "num": 1235936,
+      "word": "9图了解政协知识点",
+      "onboard_time": 1677727107,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 64605,
       "num": 64605,
       "word": "毛宁称美国未免太不自信",
       "onboard_time": 1677580710,
       "rank": 48,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 63109,
-      "num": 1230401,
-      "word": "9图了解政协知识点",
-      "onboard_time": 1677727107,
-      "rank": 2,
       "category": "国内要闻"
     },
     {

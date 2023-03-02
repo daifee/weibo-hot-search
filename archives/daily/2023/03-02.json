@@ -1,6 +1,6 @@
 {
   "startTime": 1677688085914,
-  "endTime": 1677727646443,
+  "endTime": 1677728449162,
   "band_list": [
     {
       "raw_hot": 2946066,
@@ -19,8 +19,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1614482,
-      "num": 1614482,
+      "raw_hot": 1789357,
+      "num": 1789357,
       "word": "女子曝杨子直播间卖的被子里全是头发",
       "onboard_time": 1677724947,
       "rank": 30,
@@ -35,8 +35,16 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1081452,
+      "num": 1081452,
+      "word": "每天睡4个小时属于睡眠不足",
+      "onboard_time": 1677725188,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1059046,
-      "num": 512567,
+      "num": 531230,
       "word": "肖战去了西班牙阶梯",
       "onboard_time": 1677726508,
       "rank": 10,
@@ -91,14 +99,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 853072,
-      "num": 853072,
-      "word": "每天睡4个小时属于睡眠不足",
-      "onboard_time": 1677725188,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 845655,
       "num": 845655,
       "word": "电影忠犬八公定档",
@@ -123,8 +123,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 779820,
-      "num": 779820,
+      "raw_hot": 784044,
+      "num": 784044,
       "word": "为什么有些人晚睡早起还精力充沛",
       "onboard_time": 1677723806,
       "rank": 11,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540390,
+      "num": 540390,
+      "word": "贝克街的亡灵定档",
+      "onboard_time": 1677727526,
+      "rank": 33,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 514756,
       "num": 514756,
       "word": "建议严查超前学习行为",
@@ -225,6 +233,14 @@
       "onboard_time": 1677716549,
       "rank": 8,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 508720,
+      "num": 508720,
+      "word": "1家3口同月同日生日",
+      "onboard_time": 1677725787,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502611,
@@ -251,14 +267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 463859,
-      "num": 463859,
-      "word": "1家3口同月同日生日",
-      "onboard_time": 1677725787,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 456743,
       "num": 456743,
       "word": "浙江女子追到广州找到被偷的爱猫",
@@ -283,12 +291,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385213,
+      "num": 385213,
+      "word": "白夜追凶2改名白夜破晓",
+      "onboard_time": 1677728248,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372688,
       "num": 372688,
       "word": "金龟子如何看待女儿早恋",
       "onboard_time": 1677714145,
       "rank": 12,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 366939,
+      "num": 366939,
+      "word": "建议对2024年后出生孩子免除学费",
+      "onboard_time": 1677727766,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365945,
+      "num": 365945,
+      "word": "建议辅助生殖技术进医保",
+      "onboard_time": 1677727229,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354931,
@@ -427,6 +459,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 253269,
+      "num": 219963,
+      "word": "马思唯官宣2023世界巡演",
+      "onboard_time": 1677728367,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 251650,
       "num": 236197,
       "word": "母亲去世妹妹含泪背姐姐出嫁",
@@ -523,20 +563,20 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 190752,
-      "num": 190752,
-      "word": "建议辅助生殖技术进医保",
-      "onboard_time": 1677727229,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188141,
       "num": 138381,
       "word": "推特崩了",
       "onboard_time": 1677671971,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 187465,
+      "num": 187465,
+      "word": "王源文淇同框照",
+      "onboard_time": 1677728248,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 186252,
@@ -555,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182904,
+      "num": 182904,
+      "word": "建议出台反网络暴力法",
+      "onboard_time": 1677727349,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182512,
       "num": 182512,
       "word": "建议企业给外卖员等群体上工伤保险",
@@ -569,6 +617,14 @@
       "onboard_time": 1677717090,
       "rank": 28,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 180108,
+      "num": 180108,
+      "word": "重返校园的春天有多美",
+      "onboard_time": 1677727648,
+      "rank": 37,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 179729,
@@ -593,14 +649,6 @@
       "onboard_time": 1677669567,
       "rank": 16,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 170343,
-      "num": 170343,
-      "word": "贝克街的亡灵定档",
-      "onboard_time": 1677727526,
-      "rank": 33,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 169298,
@@ -641,6 +689,14 @@
       "onboard_time": 1677675569,
       "rank": 18,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 144048,
+      "num": 144048,
+      "word": "中国小将顶峰相见",
+      "onboard_time": 1677727408,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 141805,
@@ -691,14 +747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133548,
-      "num": 133548,
-      "word": "建议出台反网络暴力法",
-      "onboard_time": 1677727349,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125142,
       "num": 29023,
       "word": "刘耀文三月随拍",
@@ -721,6 +769,14 @@
       "onboard_time": 1677669809,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116669,
+      "num": 116669,
+      "word": "王者干将莫邪新皮肤特效",
+      "onboard_time": 1677728307,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 116430,
@@ -753,14 +809,6 @@
       "onboard_time": 1677659670,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112657,
-      "num": 112657,
-      "word": "中国小将顶峰相见",
-      "onboard_time": 1677727408,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 112446,
@@ -939,8 +987,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63109,
-      "num": 1230401,
+      "raw_hot": 65436,
+      "num": 1235936,
       "word": "9图了解政协知识点",
       "onboard_time": 1677727107,
       "rank": 2,
