@@ -1,0 +1,410 @@
+{
+  "runTime": 1677752461005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1260397,
+        "num": 1260397,
+        "word": "俞敏洪称不太喜欢狂飙",
+        "onboard_time": 1677745468,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993001,
+        "num": 993001,
+        "word": "薛之谦 抢票",
+        "onboard_time": 1677749609,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155779,
+        "num": 892774,
+        "word": "一图认遍全国春花",
+        "onboard_time": 1677746610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1865301,
+        "num": 883660,
+        "word": "爱情公寓林宛瑜扮演者近照",
+        "onboard_time": 1677746552,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 855706,
+        "num": 855706,
+        "word": "杨幂王楚然穿了同款",
+        "onboard_time": 1677750569,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 843980,
+        "num": 843980,
+        "word": "公司招聘会计要求必须是A型血",
+        "onboard_time": 1677750271,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791211,
+        "num": 791211,
+        "word": "建议将1000万元作为遗产税起征点",
+        "onboard_time": 1677747632,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775403,
+        "num": 775403,
+        "word": "烽火流金 空降",
+        "onboard_time": 1677745170,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 620394,
+        "num": 620394,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1677744267,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544001,
+        "num": 544001,
+        "word": "中动协称丫丫乐乐或将一起回国",
+        "onboard_time": 1677744931,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620063,
+        "num": 542023,
+        "word": "徐冬冬自嘲身材比例55开",
+        "onboard_time": 1677750810,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507584,
+        "num": 507584,
+        "word": "光渊",
+        "onboard_time": 1677748592,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490635,
+        "num": 490635,
+        "word": "你会暗恋一个人十年吗",
+        "onboard_time": 1677748652,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 446786,
+        "num": 446786,
+        "word": "狗狗真的被风吹走了",
+        "onboard_time": 1677748892,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 410332,
+        "num": 410332,
+        "word": "官方通报女子买两碗麻辣烫花175元",
+        "onboard_time": 1677743247,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428546,
+        "num": 402627,
+        "word": "女明星捧花头像",
+        "onboard_time": 1677750150,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393772,
+        "num": 393772,
+        "word": "建议第三胎孩子教育全免费",
+        "onboard_time": 1677744510,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 264575,
+        "num": 264575,
+        "word": "陈玺达要考复旦",
+        "onboard_time": 1677738624,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253193,
+        "num": 253193,
+        "word": "原来白米粥还能涮火锅",
+        "onboard_time": 1677746733,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 248956,
+        "num": 248956,
+        "word": "海南椰树集团招生本科年薪16.8万",
+        "onboard_time": 1677735208,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 501517,
+        "num": 248778,
+        "word": "夫妻离婚后发现儿子患自闭症又复婚",
+        "onboard_time": 1677742887,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264357,
+        "num": 247976,
+        "word": "虞书欣像戴着袖套",
+        "onboard_time": 1677751409,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323095,
+        "num": 246766,
+        "word": "张颂文曾指导赵露思演戏",
+        "onboard_time": 1677749370,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291846,
+        "num": 246087,
+        "word": "肖战欧洲篇vlog",
+        "onboard_time": 1677743307,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 267540,
+        "num": 245251,
+        "word": "妈妈喂8个月宝宝吃馍窒息昏迷9天",
+        "onboard_time": 1677736466,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245214,
+        "num": 245214,
+        "word": "开车的和坐车的都懵了",
+        "onboard_time": 1677750989,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239674,
+        "num": 239674,
+        "word": "射手座最害怕辜负的感觉",
+        "onboard_time": 1677744450,
+        "rank": 26,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 218166,
+        "num": 218166,
+        "word": "李现向每一位中国运动员致敬",
+        "onboard_time": 1677750391,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206958,
+        "num": 206958,
+        "word": "张天爱到达巴黎",
+        "onboard_time": 1677749850,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127399,
+        "num": 205009,
+        "word": "14亿多中国人的心声",
+        "onboard_time": 1677739405,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 204963,
+        "num": 204963,
+        "word": "冰尘盾山MVP",
+        "onboard_time": 1677751289,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200419,
+        "num": 200419,
+        "word": "诸葛宇杰任湖北省委副书记",
+        "onboard_time": 1677747153,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191814,
+        "num": 191814,
+        "word": "周鸿祎称大学生可做人工智能训练师",
+        "onboard_time": 1677748772,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190603,
+        "num": 190603,
+        "word": "杭州吸走北京上海人才",
+        "onboard_time": 1677732694,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183389,
+        "num": 183389,
+        "word": "PYL结婚",
+        "onboard_time": 1677739286,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170990,
+        "num": 170990,
+        "word": "原来印度飞饼真的会飞",
+        "onboard_time": 1677751770,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160753,
+        "num": 160753,
+        "word": "于和伟说三体涨分像涨工资",
+        "onboard_time": 1677745950,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159174,
+        "num": 159174,
+        "word": "鹿晗2023演唱会来了",
+        "onboard_time": 1677734967,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156890,
+        "num": 156890,
+        "word": "樊振东2比3赵大成",
+        "onboard_time": 1677740304,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152325,
+        "num": 152325,
+        "word": "Hero对战TES",
+        "onboard_time": 1677742468,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144709,
+        "num": 144709,
+        "word": "大侦探无名联动",
+        "onboard_time": 1677748652,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138166,
+        "num": 138166,
+        "word": "YG新女团合照",
+        "onboard_time": 1677739705,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137404,
+        "num": 137404,
+        "word": "女子曝杨子直播间卖的被子里全是头发",
+        "onboard_time": 1677724947,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 128462,
+        "num": 128462,
+        "word": "花三年造了一片荧光海",
+        "onboard_time": 1677749430,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 126443,
+        "num": 126443,
+        "word": "杭州亚运与微博战略合作签约",
+        "onboard_time": 1677748233,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123532,
+        "num": 123532,
+        "word": "还以为饲养员跑过去了",
+        "onboard_time": 1677751409,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122190,
+        "num": 122190,
+        "word": "听说你喜欢我",
+        "onboard_time": 1677752369,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121991,
+        "num": 121991,
+        "word": "好多演唱会",
+        "onboard_time": 1677741026,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115528,
+        "num": 115528,
+        "word": "孙怡威海夜市卖梨汤",
+        "onboard_time": 1677737125,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115020,
+        "num": 115020,
+        "word": "忠犬八公主演是中华田园犬",
+        "onboard_time": 1677734727,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央党校建校90周年#"
+    }
+  }
+}
