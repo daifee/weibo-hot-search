@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677791845095,
+  "endTime": 1677792833984,
   "band_list": [
     {
       "raw_hot": 964016,
@@ -331,20 +331,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93925,
+      "num": 93925,
+      "word": "大学每月生活费多少才够用",
+      "onboard_time": 1677787751,
+      "rank": 21,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 89086,
       "num": 89086,
       "word": "烽火流金 空降",
       "onboard_time": 1677745170,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 87358,
-      "num": 87358,
-      "word": "大学每月生活费多少才够用",
-      "onboard_time": 1677787751,
-      "rank": 21,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 87049,
@@ -387,6 +387,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 76555,
+      "num": 76555,
+      "word": "海关工作犬嗅出6只活体甲虫",
+      "onboard_time": 1677789614,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73866,
       "num": 73866,
       "word": "蒋胜男发声反对加班泛滥",
@@ -419,12 +427,12 @@
       "category": "情感,自然"
     },
     {
-      "raw_hot": 56713,
-      "num": 56713,
-      "word": "海关工作犬嗅出6只活体甲虫",
-      "onboard_time": 1677789614,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 60567,
+      "num": 60567,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1677789790,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 46565,
@@ -435,14 +443,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 46359,
-      "num": 46359,
-      "word": "俄乌局势新进展",
-      "onboard_time": 1677789790,
-      "rank": 5,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 37356,
       "num": 37356,
       "word": "被家里的宠物锁在了门外",
@@ -451,20 +451,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 32978,
+      "num": 31419,
+      "word": "建议学前教育纳入义务教育",
+      "onboard_time": 1677787214,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30071,
       "num": 30071,
       "word": "朱一龙印尼碎片随拍",
       "onboard_time": 1677771867,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28772,
-      "num": 28772,
-      "word": "建议学前教育纳入义务教育",
-      "onboard_time": 1677787214,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25328,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15548,
+      "num": 15548,
+      "word": "俄称美企图在乌使用化武嫁祸俄方",
+      "onboard_time": 1677792073,
+      "rank": 35,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 14485,
       "num": 14485,
       "word": "光渊",
@@ -491,8 +499,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 12576,
-      "num": 12576,
+      "raw_hot": 13913,
+      "num": 13913,
       "word": "狂飙内部评级S",
       "onboard_time": 1677790330,
       "rank": 41,

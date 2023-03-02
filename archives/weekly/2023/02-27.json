@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677791845095,
+  "endTime": 1677792833984,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -8371,6 +8371,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 93925,
+      "num": 93925,
+      "word": "大学每月生活费多少才够用",
+      "onboard_time": 1677787751,
+      "rank": 21,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 92813,
       "num": 92813,
       "word": "厉以宁提出中国经济发展非均衡理论",
@@ -8425,14 +8433,6 @@
       "onboard_time": 1677510811,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 87358,
-      "num": 87358,
-      "word": "大学每月生活费多少才够用",
-      "onboard_time": 1677787751,
-      "rank": 21,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 86823,
@@ -8536,6 +8536,14 @@
       "word": "乡村振兴美好图景",
       "onboard_time": 1677596564,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76555,
+      "num": 76555,
+      "word": "海关工作犬嗅出6只活体甲虫",
+      "onboard_time": 1677789614,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -8659,6 +8667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60567,
+      "num": 60567,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1677789790,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 60372,
       "num": 1449599,
       "word": "无人机看五彩春耕画卷",
@@ -8675,14 +8691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56713,
-      "num": 56713,
-      "word": "海关工作犬嗅出6只活体甲虫",
-      "onboard_time": 1677789614,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55498,
       "num": 55498,
       "word": "羽生结弦冰演感言",
@@ -8697,14 +8705,6 @@
       "onboard_time": 1677507092,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46359,
-      "num": 46359,
-      "word": "俄乌局势新进展",
-      "onboard_time": 1677789790,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 44598,
@@ -8771,6 +8771,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 32978,
+      "num": 31419,
+      "word": "建议学前教育纳入义务教育",
+      "onboard_time": 1677787214,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31948,
       "num": 202379,
       "word": "被这部纪录片里的话戳到",
@@ -8809,14 +8817,6 @@
       "onboard_time": 1677771867,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28772,
-      "num": 28772,
-      "word": "建议学前教育纳入义务教育",
-      "onboard_time": 1677787214,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27921,
@@ -8867,8 +8867,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 12576,
-      "num": 12576,
+      "raw_hot": 15548,
+      "num": 15548,
+      "word": "俄称美企图在乌使用化武嫁祸俄方",
+      "onboard_time": 1677792073,
+      "rank": 35,
+      "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 13913,
+      "num": 13913,
       "word": "狂飙内部评级S",
       "onboard_time": 1677790330,
       "rank": 41,

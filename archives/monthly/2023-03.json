@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677791845095,
+  "endTime": 1677792833984,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -4331,6 +4331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93925,
+      "num": 93925,
+      "word": "大学每月生活费多少才够用",
+      "onboard_time": 1677787751,
+      "rank": 21,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 91973,
       "num": 91973,
       "word": "周刊君带你看两会",
@@ -4361,14 +4369,6 @@
       "onboard_time": 1677703991,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87358,
-      "num": 87358,
-      "word": "大学每月生活费多少才够用",
-      "onboard_time": 1677787751,
-      "rank": 21,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 83596,
@@ -4417,6 +4417,14 @@
       "onboard_time": 1677594512,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76555,
+      "num": 76555,
+      "word": "海关工作犬嗅出6只活体甲虫",
+      "onboard_time": 1677789614,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73434,
@@ -4499,6 +4507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60567,
+      "num": 60567,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1677789790,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 60091,
       "num": 60091,
       "word": "张峻豪说提前透露一些创意",
@@ -4507,28 +4523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56713,
-      "num": 56713,
-      "word": "海关工作犬嗅出6只活体甲虫",
-      "onboard_time": 1677789614,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48070,
       "num": 2114900,
       "word": "乡村振兴美好图景",
       "onboard_time": 1677596564,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46359,
-      "num": 46359,
-      "word": "俄乌局势新进展",
-      "onboard_time": 1677789790,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 41813,
@@ -4595,6 +4595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 32978,
+      "num": 31419,
+      "word": "建议学前教育纳入义务教育",
+      "onboard_time": 1677787214,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32331,
       "num": 32331,
       "word": "微博之夜嘉宾",
@@ -4651,14 +4659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28772,
-      "num": 28772,
-      "word": "建议学前教育纳入义务教育",
-      "onboard_time": 1677787214,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25328,
       "num": 25328,
       "word": "85生演技大赏",
@@ -4691,8 +4691,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 12576,
-      "num": 12576,
+      "raw_hot": 15548,
+      "num": 15548,
+      "word": "俄称美企图在乌使用化武嫁祸俄方",
+      "onboard_time": 1677792073,
+      "rank": 35,
+      "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 13913,
+      "num": 13913,
       "word": "狂飙内部评级S",
       "onboard_time": 1677790330,
       "rank": 41,
