@@ -1,6 +1,6 @@
 {
   "startTime": 1677688085914,
-  "endTime": 1677731059425,
+  "endTime": 1677731990197,
   "band_list": [
     {
       "raw_hot": 2946066,
@@ -24,6 +24,14 @@
       "word": "女子曝杨子直播间卖的被子里全是头发",
       "onboard_time": 1677724947,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1293393,
+      "num": 1293393,
+      "word": "建议对2024年后出生孩子免除学费",
+      "onboard_time": 1677727766,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -51,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1147525,
-      "num": 1147525,
-      "word": "建议对2024年后出生孩子免除学费",
-      "onboard_time": 1677727766,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 1105567,
+      "num": 1105567,
+      "word": "原设计者说蔡徐坤不用对此事负责",
+      "onboard_time": 1677729629,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1059046,
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 966788,
-      "num": 966788,
-      "word": "原设计者说蔡徐坤不用对此事负责",
-      "onboard_time": 1677729629,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 951361,
       "num": 951361,
       "word": "专家称双休制度很难被改变",
@@ -107,8 +107,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 894041,
-      "num": 894041,
+      "raw_hot": 904523,
+      "num": 904523,
       "word": "贝克街的亡灵定档",
       "onboard_time": 1677727526,
       "rank": 33,
@@ -169,6 +169,14 @@
       "onboard_time": 1677687685,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 701120,
+      "num": 701120,
+      "word": "人社部将适时调整个人养老金缴费上限",
+      "onboard_time": 1677729810,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 658197,
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484149,
+      "num": 484149,
+      "word": "三胞胎姐妹同天出嫁",
+      "onboard_time": 1677730230,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474168,
       "num": 474168,
       "word": "张佳宁长发梦回林北星",
@@ -315,11 +331,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 415136,
-      "num": 415136,
-      "word": "人社部将适时调整个人养老金缴费上限",
-      "onboard_time": 1677729810,
-      "rank": 16,
+      "raw_hot": 428799,
+      "num": 428799,
+      "word": "养育子女仅由女性承担不公平",
+      "onboard_time": 1677730831,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407371,
+      "num": 407371,
+      "word": "女子称30岁相亲不是二婚就是老头",
+      "onboard_time": 1677731370,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -371,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 342828,
+      "num": 342828,
+      "word": "马思唯官宣2023世界巡演",
+      "onboard_time": 1677728367,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 335176,
       "num": 335176,
       "word": "kep1er将于4月10日回归",
@@ -411,14 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320721,
-      "num": 320721,
-      "word": "马思唯官宣2023世界巡演",
-      "onboard_time": 1677728367,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 318720,
       "num": 318720,
       "word": "杜兰特太阳首秀",
@@ -441,14 +465,6 @@
       "onboard_time": 1677684030,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 307445,
-      "num": 307445,
-      "word": "三胞胎姐妹同天出嫁",
-      "onboard_time": 1677730230,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306200,
@@ -563,6 +579,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 225099,
+      "num": 225099,
+      "word": "Angel回应时空断裂",
+      "onboard_time": 1677730351,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224302,
       "num": 224302,
       "word": "颖儿探班任嘉伦",
@@ -595,14 +619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211104,
-      "num": 211104,
-      "word": "Angel回应时空断裂",
-      "onboard_time": 1677730351,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 203117,
       "num": 203117,
       "word": "YG新女团成员HARAM介绍视频",
@@ -616,14 +632,6 @@
       "word": "特警22米高楼飞身索降动作干净利落",
       "onboard_time": 1677717750,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200460,
-      "num": 200460,
-      "word": "养育子女仅由女性承担不公平",
-      "onboard_time": 1677730831,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -761,6 +769,14 @@
       "onboard_time": 1677675569,
       "rank": 18,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 151744,
+      "num": 151744,
+      "word": "安香怡女单短节目63.91分",
+      "onboard_time": 1677731310,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 144048,
@@ -1035,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 73434,
+      "num": 458449,
+      "word": "身边女生竟然都在玩",
+      "onboard_time": 1677729629,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 72042,
       "num": 72042,
       "word": "杨树茂破产",
@@ -1123,14 +1147,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 38782,
-      "num": 458449,
-      "word": "身边女生竟然都在玩",
-      "onboard_time": 1677729629,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 37974,
       "num": 37974,
       "word": "微博年度剧集",
@@ -1171,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31948,
+      "num": 202379,
+      "word": "被这部纪录片里的话戳到",
+      "onboard_time": 1677729629,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31550,
       "num": 31550,
       "word": "丫丫身体状况评估完毕",
@@ -1193,14 +1217,6 @@
       "onboard_time": 1677700632,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14840,
-      "num": 202379,
-      "word": "被这部纪录片里的话戳到",
-      "onboard_time": 1677729629,
-      "rank": 39,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
