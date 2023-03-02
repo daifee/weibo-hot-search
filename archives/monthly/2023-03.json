@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677761788509,
+  "endTime": 1677763986844,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -121,6 +121,14 @@
       "onboard_time": 1677745170,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1732782,
+      "num": 596660,
+      "word": "迪丽热巴回应前段时间休息是有点疲惫",
+      "onboard_time": 1677761489,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1713353,
@@ -832,14 +840,6 @@
       "word": "蔡徐坤工作室将对睛致传媒追责",
       "onboard_time": 1677640590,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 718153,
-      "num": 577366,
-      "word": "迪丽热巴回应前段时间休息是有点疲惫",
-      "onboard_time": 1677761489,
-      "rank": 5,
       "category": "艺人"
     },
     {
@@ -1569,6 +1569,14 @@
       "onboard_time": 1677743307,
       "rank": 14,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 427067,
+      "num": 427067,
+      "word": "大卫詹姆斯受伤",
+      "onboard_time": 1677761669,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 426748,
@@ -2939,6 +2947,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 201922,
+      "num": 201922,
+      "word": "李一桐毕雯珺合照好甜",
+      "onboard_time": 1677763409,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201332,
       "num": 200419,
       "word": "诸葛宇杰任湖北省委副书记",
@@ -3571,14 +3587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141208,
-      "num": 141208,
-      "word": "大卫詹姆斯受伤",
-      "onboard_time": 1677761669,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140495,
       "num": 140495,
       "word": "90后女孩奋斗14年从服务员到博士生",
@@ -3713,6 +3721,14 @@
       "onboard_time": 1677683310,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130336,
+      "num": 130336,
+      "word": "CBA",
+      "onboard_time": 1677762751,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 130299,

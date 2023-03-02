@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677761788509,
+  "endTime": 1677763986844,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -329,6 +329,14 @@
       "onboard_time": 1677513326,
       "rank": 3,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1732782,
+      "num": 596660,
+      "word": "迪丽热巴回应前段时间休息是有点疲惫",
+      "onboard_time": 1677761489,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1720543,
@@ -1736,14 +1744,6 @@
       "word": "蔡徐坤工作室将对睛致传媒追责",
       "onboard_time": 1677640590,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 718153,
-      "num": 577366,
-      "word": "迪丽热巴回应前段时间休息是有点疲惫",
-      "onboard_time": 1677761489,
-      "rank": 5,
       "category": "艺人"
     },
     {
@@ -3217,6 +3217,14 @@
       "onboard_time": 1677743307,
       "rank": 14,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 427067,
+      "num": 427067,
+      "word": "大卫詹姆斯受伤",
+      "onboard_time": 1677761669,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 426748,
@@ -5923,6 +5931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201922,
+      "num": 201922,
+      "word": "李一桐毕雯珺合照好甜",
+      "onboard_time": 1677763409,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201537,
       "num": 201537,
       "word": "LPL春季赛周最佳阵容",
@@ -7203,14 +7219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141208,
-      "num": 141208,
-      "word": "大卫詹姆斯受伤",
-      "onboard_time": 1677761669,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140315,
       "num": 140315,
       "word": "无畏的百万自拍",
@@ -7425,6 +7433,14 @@
       "onboard_time": 1677683310,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130336,
+      "num": 130336,
+      "word": "CBA",
+      "onboard_time": 1677762751,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 130335,
