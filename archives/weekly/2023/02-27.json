@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677782552916,
+  "endTime": 1677784567852,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -8707,6 +8707,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 36411,
+      "num": 36411,
+      "word": "被家里的宠物锁在了门外",
+      "onboard_time": 1677781155,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 36291,
       "num": 36291,
       "word": "阿森纳vs埃弗顿",
@@ -8793,14 +8801,6 @@
       "onboard_time": 1677772467,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 24372,
-      "num": 24372,
-      "word": "被家里的宠物锁在了门外",
-      "onboard_time": 1677781155,
-      "rank": 33,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 23007,
