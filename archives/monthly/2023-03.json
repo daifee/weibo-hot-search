@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677725757026,
+  "endTime": 1677726352053,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 963234,
+      "num": 488386,
+      "word": "女子曝杨子直播间卖的被子里全是头发",
+      "onboard_time": 1677724947,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 951361,
       "num": 951361,
       "word": "专家称双休制度很难被改变",
@@ -385,6 +393,14 @@
       "onboard_time": 1677633451,
       "rank": 5,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 914573,
+      "num": 914573,
+      "word": "梅西买苹果手机送给队友",
+      "onboard_time": 1677724286,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 882905,
@@ -465,14 +481,6 @@
       "onboard_time": 1677588088,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 778524,
-      "num": 778524,
-      "word": "梅西买苹果手机送给队友",
-      "onboard_time": 1677724286,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 758844,
@@ -731,11 +739,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 615504,
-      "num": 177537,
-      "word": "女子曝杨子直播间卖的被子里全是头发",
-      "onboard_time": 1677724947,
-      "rank": 30,
+      "raw_hot": 613444,
+      "num": 613444,
+      "word": "为什么有些人晚睡早起还精力充沛",
+      "onboard_time": 1677723806,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -771,8 +779,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 589953,
-      "num": 589953,
+      "raw_hot": 598315,
+      "num": 598315,
       "word": "老师被指侵占学生雕塑冒名参展",
       "onboard_time": 1677723147,
       "rank": 7,
@@ -955,20 +963,20 @@
       "category": "财经,艺人"
     },
     {
-      "raw_hot": 498500,
-      "num": 498500,
-      "word": "为什么有些人晚睡早起还精力充沛",
-      "onboard_time": 1677723806,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 494647,
       "num": 494647,
       "word": "李飞真会省钱",
       "onboard_time": 1677723147,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490097,
+      "num": 490097,
+      "word": "不良人",
+      "onboard_time": 1677724465,
+      "rank": 13,
+      "category": "动漫"
     },
     {
       "raw_hot": 473611,
@@ -1033,14 +1041,6 @@
       "onboard_time": 1677655528,
       "rank": 17,
       "category": "科技"
-    },
-    {
-      "raw_hot": 447242,
-      "num": 447242,
-      "word": "不良人",
-      "onboard_time": 1677724465,
-      "rank": 13,
-      "category": "动漫"
     },
     {
       "raw_hot": 446891,
@@ -1131,6 +1131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 408073,
+      "num": 408073,
+      "word": "每天睡4个小时属于睡眠不足",
+      "onboard_time": 1677725188,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407423,
       "num": 407423,
       "word": "鬼灭之刃第三季正式预告",
@@ -1203,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 387332,
+      "num": 387332,
+      "word": "建议延长男性生育假",
+      "onboard_time": 1677723446,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385885,
       "num": 385885,
       "word": "甲流",
@@ -1232,14 +1248,6 @@
       "word": "95后大厂裸辞卖盒饭月挣4万",
       "onboard_time": 1677646171,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 374099,
-      "num": 374099,
-      "word": "建议延长男性生育假",
-      "onboard_time": 1677723446,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1443,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 311314,
+      "num": 311314,
+      "word": "gidle将于四五月间回归",
+      "onboard_time": 1677725368,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 309431,
       "num": 309431,
       "word": "teams",
@@ -1579,20 +1595,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 282664,
-      "num": 282664,
-      "word": "gidle将于四五月间回归",
-      "onboard_time": 1677725368,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 281546,
       "num": 281546,
       "word": "甲流易感染人群如何防护",
       "onboard_time": 1677635069,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280570,
+      "num": 280570,
+      "word": "杨紫199爱哭戏",
+      "onboard_time": 1677725488,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 278363,
@@ -1771,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241069,
+      "num": 241069,
+      "word": "宋旻浩将于3月24日入伍",
+      "onboard_time": 1677725368,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240135,
       "num": 240135,
       "word": "白鹿以爱为营白色贝雷帽造型",
@@ -1891,6 +1915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217050,
+      "num": 217050,
+      "word": "杨幂新片杀青合影",
+      "onboard_time": 1677725668,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216677,
       "num": 216677,
       "word": "黑崎真音去世",
@@ -1905,14 +1937,6 @@
       "onboard_time": 1677627806,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215932,
-      "num": 215932,
-      "word": "杨紫199爱哭戏",
-      "onboard_time": 1677725488,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 215722,
@@ -1931,20 +1955,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213342,
-      "num": 213342,
-      "word": "每天睡4个小时属于睡眠不足",
-      "onboard_time": 1677725188,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213015,
       "num": 213015,
       "word": "黄婷婷回应",
       "onboard_time": 1677589471,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211822,
+      "num": 211822,
+      "word": "1家3口同月同日生日",
+      "onboard_time": 1677725787,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211015,
@@ -2083,14 +2107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197149,
-      "num": 172689,
-      "word": "宋旻浩将于3月24日入伍",
-      "onboard_time": 1677725368,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196718,
       "num": 196718,
       "word": "香奈儿回应2万包包15分钟断了",
@@ -2105,6 +2121,14 @@
       "onboard_time": 1677683728,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 195263,
+      "num": 195263,
+      "word": "TTG拉票放大招了",
+      "onboard_time": 1677725308,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 194462,
@@ -2145,14 +2169,6 @@
       "onboard_time": 1677662728,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191816,
-      "num": 191816,
-      "word": "TTG拉票放大招了",
-      "onboard_time": 1677725308,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 191743,
@@ -2243,6 +2259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186252,
+      "num": 186252,
+      "word": "肖战意大利雨天街头漫步",
+      "onboard_time": 1677715167,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185683,
       "num": 185683,
       "word": "法国球星方丹去世",
@@ -2288,14 +2312,6 @@
       "word": "最好嗑的年龄差cp",
       "onboard_time": 1677668068,
       "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 177785,
-      "num": 177785,
-      "word": "杨幂新片杀青合影",
-      "onboard_time": 1677725668,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -2777,6 +2793,14 @@
       "onboard_time": 1677703150,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 101754,
+      "num": 101754,
+      "word": "建议适度提高醉驾入刑标准",
+      "onboard_time": 1677726086,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101231,
