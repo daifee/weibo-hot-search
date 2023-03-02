@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677753486238,
+  "endTime": 1677755816774,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -811,6 +811,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1150041,
+      "num": 858402,
+      "word": "公司招聘会计要求必须是A型血",
+      "onboard_time": 1677750271,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1147874,
       "num": 1147874,
       "word": "奶嗝文学",
@@ -913,14 +921,6 @@
       "onboard_time": 1677588749,
       "rank": 46,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1094830,
-      "num": 858402,
-      "word": "公司招聘会计要求必须是A型血",
-      "onboard_time": 1677750271,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1092787,
@@ -1612,7 +1612,7 @@
     },
     {
       "raw_hot": 737357,
-      "num": 263252,
+      "num": 273691,
       "word": "夫妻离婚后发现儿子患自闭症又复婚",
       "onboard_time": 1677742887,
       "rank": 20,
@@ -1913,6 +1913,14 @@
       "onboard_time": 1677662069,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 655479,
+      "num": 542707,
+      "word": "学霸寝室不泡图书馆全员保研名校",
+      "onboard_time": 1677752670,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 654544,
@@ -2521,6 +2529,14 @@
       "onboard_time": 1677737844,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 518214,
+      "num": 518214,
+      "word": "重紫和魔尊成亲",
+      "onboard_time": 1677753629,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 517013,
@@ -3147,6 +3163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 423624,
+      "num": 423624,
+      "word": "HYBE多给李秀满700亿韩元",
+      "onboard_time": 1677753568,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423543,
       "num": 423543,
       "word": "医生称甲流也会引起白肺",
@@ -3497,6 +3521,14 @@
       "onboard_time": 1677597222,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382719,
+      "num": 382719,
+      "word": "当地华人接力守护丫丫",
+      "onboard_time": 1677752553,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382601,
@@ -4068,7 +4100,7 @@
     },
     {
       "raw_hot": 323095,
-      "num": 246766,
+      "num": 262402,
       "word": "张颂文曾指导赵露思演戏",
       "onboard_time": 1677749370,
       "rank": 41,
@@ -4571,6 +4603,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 279997,
+      "num": 279997,
+      "word": "开车的和坐车的都懵了",
+      "onboard_time": 1677750989,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279193,
       "num": 279193,
       "word": "大侦探",
@@ -4617,14 +4657,6 @@
       "onboard_time": 1677645934,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 275107,
-      "num": 275107,
-      "word": "开车的和坐车的都懵了",
-      "onboard_time": 1677750989,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 274968,
@@ -5227,14 +5259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223901,
-      "num": 223901,
-      "word": "当地华人接力守护丫丫",
-      "onboard_time": 1677752553,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223446,
       "num": 223446,
       "word": "湖人战胜雷霆",
@@ -5249,6 +5273,14 @@
       "onboard_time": 1677672389,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221953,
+      "num": 221953,
+      "word": "我国短视频用户规模突破10亿",
+      "onboard_time": 1677752732,
+      "rank": 29,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 221574,
@@ -5833,14 +5865,6 @@
       "onboard_time": 1677428424,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198492,
-      "num": 198492,
-      "word": "学霸寝室不泡图书馆全员保研名校",
-      "onboard_time": 1677752670,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 198421,
@@ -7027,14 +7051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139621,
-      "num": 197617,
-      "word": "我国短视频用户规模突破10亿",
-      "onboard_time": 1677752732,
-      "rank": 29,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 138584,
       "num": 138584,
       "word": "帮我艾特王子殿下",
@@ -7185,6 +7201,14 @@
       "onboard_time": 1677406229,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134138,
+      "num": 134138,
+      "word": "DYG对阵KSG",
+      "onboard_time": 1677753568,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 132800,
@@ -7712,6 +7736,14 @@
       "word": "缉毒民警急速追击冲卡毒贩",
       "onboard_time": 1677478829,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100838,
+      "num": 100838,
+      "word": "日本千叶县全体议员戴头盔开会",
+      "onboard_time": 1677755308,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
