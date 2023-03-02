@@ -1,0 +1,410 @@
+{
+  "runTime": 1677721638122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2946066,
+        "num": 2946066,
+        "word": "冯禧 打码",
+        "onboard_time": 1677717809,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 951361,
+        "num": 951361,
+        "word": "专家称双休制度很难被改变",
+        "onboard_time": 1677713484,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87328,
+        "num": 596321,
+        "word": "春日里的花海列车",
+        "onboard_time": 1677677069,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586660,
+        "num": 586660,
+        "word": "文科生转码或成趋势",
+        "onboard_time": 1677687685,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 550933,
+        "num": 550933,
+        "word": "人大代表建议在幼儿园实施全面性教育",
+        "onboard_time": 1677716729,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845368,
+        "num": 550648,
+        "word": "张颂文希望大家不要再接机",
+        "onboard_time": 1677712761,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 843999,
+        "num": 541904,
+        "word": "儿子篮球班倒闭家长掏1000万买下",
+        "onboard_time": 1677712400,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523321,
+        "num": 523321,
+        "word": "RNG老板道歉",
+        "onboard_time": 1677718529,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 513594,
+        "num": 513594,
+        "word": "特斯拉潮州事故车主不服鉴定",
+        "onboard_time": 1677716549,
+        "rank": 8,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 445479,
+        "num": 445479,
+        "word": "美国流浪汉被当街处决式射杀",
+        "onboard_time": 1677686724,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935016,
+        "num": 431117,
+        "word": "张柏芝与二儿子同框比心",
+        "onboard_time": 1677720806,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574814,
+        "num": 426986,
+        "word": "肖战托腮",
+        "onboard_time": 1677719247,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372688,
+        "num": 372688,
+        "word": "金龟子如何看待女儿早恋",
+        "onboard_time": 1677714145,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 335176,
+        "num": 335176,
+        "word": "kep1er将于4月10日回归",
+        "onboard_time": 1677720747,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 335091,
+        "num": 335091,
+        "word": "警方回应保洁被扣工资向领导下跪",
+        "onboard_time": 1677718410,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301156,
+        "num": 301156,
+        "word": "特斯拉Cybertruck将在今年问世",
+        "onboard_time": 1677717569,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 295756,
+        "num": 295756,
+        "word": "浙江女子追到广州找到被偷的爱猫",
+        "onboard_time": 1677695953,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254008,
+        "num": 254008,
+        "word": "我国近3亿人失眠",
+        "onboard_time": 1677719668,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253471,
+        "num": 253471,
+        "word": "六十岁上班的我",
+        "onboard_time": 1677680312,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 236510,
+        "num": 236510,
+        "word": "特斯拉投资者日",
+        "onboard_time": 1677712641,
+        "rank": 19,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 345119,
+        "num": 236350,
+        "word": "宋茜路演现场因雪莉落泪",
+        "onboard_time": 1677675990,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262525,
+        "num": 236337,
+        "word": "理发店宠物狗未栓绳店主被城管掌掴",
+        "onboard_time": 1677716072,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 251650,
+        "num": 236197,
+        "word": "母亲去世妹妹含泪背姐姐出嫁",
+        "onboard_time": 1677713000,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235994,
+        "num": 235994,
+        "word": "泸定地震民宿老板3000万投资打水漂",
+        "onboard_time": 1677720747,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215421,
+        "num": 215421,
+        "word": "特斯拉人形机器人自己造自己",
+        "onboard_time": 1677719186,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 200892,
+        "num": 200892,
+        "word": "特警22米高楼飞身索降动作干净利落",
+        "onboard_time": 1677717750,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195463,
+        "num": 195463,
+        "word": "建议不得将年龄作为招聘辞退红线",
+        "onboard_time": 1677684388,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193143,
+        "num": 193143,
+        "word": "特斯拉下一代汽车成本降低",
+        "onboard_time": 1677716970,
+        "rank": 27,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 182203,
+        "num": 182203,
+        "word": "直播间66元的白酒宣称堪比茅台",
+        "onboard_time": 1677717090,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 169278,
+        "num": 169278,
+        "word": "董明珠建议统一五险一金标准",
+        "onboard_time": 1677671848,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140074,
+        "num": 140074,
+        "word": "男子取消报警医生直奔现场劝说",
+        "onboard_time": 1677713301,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139701,
+        "num": 139701,
+        "word": "韩总统称日本已从侵略者转变为伙伴",
+        "onboard_time": 1677670589,
+        "rank": 31,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 138226,
+        "num": 138226,
+        "word": "建议企业给外卖员等群体上工伤保险",
+        "onboard_time": 1677721345,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137795,
+        "num": 137795,
+        "word": "温州特斯拉车祸驾驶员已苏醒",
+        "onboard_time": 1677712339,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137391,
+        "num": 137391,
+        "word": "陕西汉中400余年古旱莲开花",
+        "onboard_time": 1677715048,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126722,
+        "num": 126722,
+        "word": "爱奇艺回应2月充会员只能用28天",
+        "onboard_time": 1677668188,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 124955,
+        "num": 124955,
+        "word": "园林猫咪遇到花好治愈",
+        "onboard_time": 1677719490,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 123763,
+        "num": 123763,
+        "word": "3月份有望播出的电视剧",
+        "onboard_time": 1677710777,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114014,
+        "num": 114014,
+        "word": "粉丝问许凯为什么不换衣服",
+        "onboard_time": 1677715648,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109287,
+        "num": 109287,
+        "word": "安乐传制片人",
+        "onboard_time": 1677684328,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108955,
+        "num": 108955,
+        "word": "动物园称未收到丫丫提早回国消息",
+        "onboard_time": 1677676650,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106901,
+        "num": 106901,
+        "word": "网友遭遇话梅刺客一颗20多元",
+        "onboard_time": 1677709995,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101796,
+        "num": 101796,
+        "word": "颖儿探班任嘉伦",
+        "onboard_time": 1677669869,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101007,
+        "num": 101007,
+        "word": "看得出外公已经尽力了",
+        "onboard_time": 1677693194,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99180,
+        "num": 99180,
+        "word": "武大樱花特写",
+        "onboard_time": 1677713604,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 96573,
+        "num": 96573,
+        "word": "建议春节放假9天",
+        "onboard_time": 1677688223,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96508,
+        "num": 96508,
+        "word": "安欣陆泽宁楼道吻",
+        "onboard_time": 1677672629,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96114,
+        "num": 96114,
+        "word": "白敬亭睡前视频",
+        "onboard_time": 1677682351,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93185,
+        "num": 93185,
+        "word": "建议严查超前学习行为",
+        "onboard_time": 1677671189,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90330,
+        "num": 90330,
+        "word": "鬼灭之刃第三季正式预告",
+        "onboard_time": 1677675569,
+        "rank": 49,
+        "category": "动漫,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#在创造性实践中探索中国式现代化#"
+    }
+  }
+}

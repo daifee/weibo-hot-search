@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677713655692,
+  "endTime": 1677721638122,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -81,6 +81,14 @@
       "onboard_time": 1677641848,
       "rank": 26,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2946066,
+      "num": 2946066,
+      "word": "冯禧 打码",
+      "onboard_time": 1677717809,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2866827,
@@ -900,7 +908,7 @@
     },
     {
       "raw_hot": 989961,
-      "num": 319336,
+      "num": 541904,
       "word": "儿子篮球班倒闭家长掏1000万买下",
       "onboard_time": 1677712400,
       "rank": 10,
@@ -977,6 +985,22 @@
       "onboard_time": 1677480689,
       "rank": 10,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 951361,
+      "num": 951361,
+      "word": "专家称双休制度很难被改变",
+      "onboard_time": 1677713484,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 935016,
+      "num": 431117,
+      "word": "张柏芝与二儿子同框比心",
+      "onboard_time": 1677720806,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 932170,
@@ -1137,6 +1161,14 @@
       "onboard_time": 1677481888,
       "rank": 31,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 845368,
+      "num": 615521,
+      "word": "张颂文希望大家不要再接机",
+      "onboard_time": 1677712761,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 844896,
@@ -1683,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 615521,
-      "num": 615521,
-      "word": "张颂文希望大家不要再接机",
-      "onboard_time": 1677712761,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 612406,
       "num": 612406,
       "word": "杨紫琼美国演员工会奖影后",
@@ -1819,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574814,
+      "num": 426986,
+      "word": "肖战托腮",
+      "onboard_time": 1677719247,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 574786,
       "num": 574786,
       "word": "建议监督8小时工作制执行",
@@ -1937,6 +1969,14 @@
       "onboard_time": 1677496891,
       "rank": 26,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 550933,
+      "num": 550933,
+      "word": "人大代表建议在幼儿园实施全面性教育",
+      "onboard_time": 1677716729,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546253,
@@ -2083,6 +2123,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 523321,
+      "num": 523321,
+      "word": "RNG老板道歉",
+      "onboard_time": 1677718529,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 523261,
       "num": 523261,
       "word": "中学生骑车载好友致摔亡判赔70万",
@@ -2121,6 +2169,14 @@
       "onboard_time": 1677479848,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513594,
+      "num": 513594,
+      "word": "特斯拉潮州事故车主不服鉴定",
+      "onboard_time": 1677716549,
+      "rank": 8,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 509289,
@@ -2971,6 +3027,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 372688,
+      "num": 372688,
+      "word": "金龟子如何看待女儿早恋",
+      "onboard_time": 1677714145,
+      "rank": 12,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 370847,
       "num": 370847,
       "word": "李兰迪两部在播剧",
@@ -3275,6 +3339,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335176,
+      "num": 335176,
+      "word": "kep1er将于4月10日回归",
+      "onboard_time": 1677720747,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 335091,
+      "num": 335091,
+      "word": "警方回应保洁被扣工资向领导下跪",
+      "onboard_time": 1677718410,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334926,
       "num": 334926,
       "word": "SMTOWN前练习生与aespa合照",
@@ -3577,6 +3657,14 @@
       "onboard_time": 1677595293,
       "rank": 28,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 301156,
+      "num": 301156,
+      "word": "特斯拉Cybertruck将在今年问世",
+      "onboard_time": 1677717569,
+      "rank": 15,
+      "category": "科技"
     },
     {
       "raw_hot": 300339,
@@ -3971,6 +4059,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 262525,
+      "num": 236337,
+      "word": "理发店宠物狗未栓绳店主被城管掌掴",
+      "onboard_time": 1677716072,
+      "rank": 21,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 262287,
       "num": 282461,
       "word": "蔡卓妍巴黎时装周出发随拍",
@@ -4027,6 +4123,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254008,
+      "num": 254008,
+      "word": "我国近3亿人失眠",
+      "onboard_time": 1677719668,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253471,
+      "num": 253471,
+      "word": "六十岁上班的我",
+      "onboard_time": 1677680312,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 253401,
       "num": 253401,
       "word": "徐志胜安利女士的品格",
@@ -4049,6 +4161,14 @@
       "onboard_time": 1677652885,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251650,
+      "num": 236197,
+      "word": "母亲去世妹妹含泪背姐姐出嫁",
+      "onboard_time": 1677713000,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250216,
@@ -4121,14 +4241,6 @@
       "onboard_time": 1677629247,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242381,
-      "num": 242381,
-      "word": "六十岁上班的我",
-      "onboard_time": 1677680312,
-      "rank": 39,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 241892,
@@ -4209,6 +4321,14 @@
       "onboard_time": 1677453442,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235994,
+      "num": 235994,
+      "word": "泸定地震民宿老板3000万投资打水漂",
+      "onboard_time": 1677720747,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235164,
@@ -4441,6 +4561,14 @@
       "onboard_time": 1677649767,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215421,
+      "num": 215421,
+      "word": "特斯拉人形机器人自己造自己",
+      "onboard_time": 1677719186,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 215104,
@@ -4795,6 +4923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200892,
+      "num": 200892,
+      "word": "特警22米高楼飞身索降动作干净利落",
+      "onboard_time": 1677717750,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200216,
       "num": 200216,
       "word": "网友点赞甘孜文旅局执行力",
@@ -4993,6 +5129,14 @@
       "onboard_time": 1677662189,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193143,
+      "num": 193143,
+      "word": "特斯拉下一代汽车成本降低",
+      "onboard_time": 1677716970,
+      "rank": 27,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 193022,
@@ -5299,6 +5443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182203,
+      "num": 182203,
+      "word": "直播间66元的白酒宣称堪比茅台",
+      "onboard_time": 1677717090,
+      "rank": 28,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 182019,
       "num": 182019,
       "word": "克林斯曼出任韩国男足主教练",
@@ -5329,14 +5481,6 @@
       "onboard_time": 1677584129,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176658,
-      "num": 150056,
-      "word": "母亲去世妹妹含泪背姐姐出嫁",
-      "onboard_time": 1677713000,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175728,
@@ -5835,6 +5979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140074,
+      "num": 140074,
+      "word": "男子取消报警医生直奔现场劝说",
+      "onboard_time": 1677713301,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138584,
       "num": 138584,
       "word": "帮我艾特王子殿下",
@@ -5851,12 +6003,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138226,
+      "num": 138226,
+      "word": "建议企业给外卖员等群体上工伤保险",
+      "onboard_time": 1677721345,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138096,
       "num": 138096,
       "word": "小朋友的绘本也太好玩了",
       "onboard_time": 1677424713,
       "rank": 29,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 137391,
+      "num": 137391,
+      "word": "陕西汉中400余年古旱莲开花",
+      "onboard_time": 1677715048,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136931,
@@ -6059,6 +6227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124955,
+      "num": 124955,
+      "word": "园林猫咪遇到花好治愈",
+      "onboard_time": 1677719490,
+      "rank": 36,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 124931,
       "num": 124931,
       "word": "公司老板是一只猫吧",
@@ -6217,6 +6393,14 @@
       "onboard_time": 1677681389,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114014,
+      "num": 114014,
+      "word": "粉丝问许凯为什么不换衣服",
+      "onboard_time": 1677715648,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 113928,
@@ -6427,6 +6611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99180,
+      "num": 99180,
+      "word": "武大樱花特写",
+      "onboard_time": 1677713604,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 98416,
       "num": 354305,
       "word": "怡丽丝尔水乳",
@@ -6619,14 +6811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80225,
-      "num": 80225,
-      "word": "男子取消报警医生直奔现场劝说",
-      "onboard_time": 1677713301,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80147,
       "num": 80147,
       "word": "鹿晗五哈橘色连帽卫衣路透",
@@ -6755,14 +6939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60455,
-      "num": 60455,
-      "word": "专家称双休制度很难被改变",
-      "onboard_time": 1677713484,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60372,
       "num": 1449599,
       "word": "无人机看五彩春耕画卷",
@@ -6801,14 +6977,6 @@
       "onboard_time": 1677481229,
       "rank": 14,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 42498,
-      "num": 42498,
-      "word": "武大樱花特写",
-      "onboard_time": 1677713604,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 41813,
