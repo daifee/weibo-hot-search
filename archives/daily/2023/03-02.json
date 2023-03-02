@@ -1,6 +1,6 @@
 {
   "startTime": 1677688085914,
-  "endTime": 1677723062530,
+  "endTime": 1677725757026,
   "band_list": [
     {
       "raw_hot": 2946066,
@@ -11,8 +11,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2587201,
+      "num": 334616,
+      "word": "艾滋病患者强奸留守幼女被判15年",
+      "onboard_time": 1677722666,
+      "rank": 14,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1275681,
+      "num": 1275681,
+      "word": "李敏镐被追缴数亿韩元",
+      "onboard_time": 1677722485,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1055164,
-      "num": 431117,
+      "num": 524652,
       "word": "张柏芝与二儿子同框比心",
       "onboard_time": 1677720806,
       "rank": 10,
@@ -67,12 +83,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 811988,
-      "num": 369469,
-      "word": "李敏镐被追缴数亿韩元",
-      "onboard_time": 1677722485,
-      "rank": 11,
-      "category": "社会新闻,艺人"
+      "raw_hot": 814755,
+      "num": 814755,
+      "word": "张大大2月全平台涨粉最多艺人",
+      "onboard_time": 1677725368,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 778524,
+      "num": 778524,
+      "word": "梅西买苹果手机送给队友",
+      "onboard_time": 1677724286,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 735172,
@@ -99,12 +123,36 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 624710,
+      "num": 624710,
+      "word": "高启兰被粉丝狂叫金丝老婆",
+      "onboard_time": 1677725308,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 615504,
+      "num": 177537,
+      "word": "女子曝杨子直播间卖的被子里全是头发",
+      "onboard_time": 1677724947,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611289,
       "num": 611289,
       "word": "爱奇艺回应2月充会员只能用28天",
       "onboard_time": 1677668188,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 589953,
+      "num": 589953,
+      "word": "老师被指侵占学生雕塑冒名参展",
+      "onboard_time": 1677723147,
+      "rank": 7,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 574814,
@@ -116,7 +164,7 @@
     },
     {
       "raw_hot": 571300,
-      "num": 355833,
+      "num": 541855,
       "word": "泸定地震民宿老板3000万投资打水漂",
       "onboard_time": 1677720747,
       "rank": 23,
@@ -139,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 522609,
-      "num": 334616,
-      "word": "艾滋病患者强奸留守幼女被判15年",
-      "onboard_time": 1677722666,
-      "rank": 14,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 514756,
       "num": 514756,
       "word": "建议严查超前学习行为",
@@ -161,6 +201,22 @@
       "onboard_time": 1677716549,
       "rank": 8,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 498500,
+      "num": 498500,
+      "word": "为什么有些人晚睡早起还精力充沛",
+      "onboard_time": 1677723806,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494647,
+      "num": 494647,
+      "word": "李飞真会省钱",
+      "onboard_time": 1677723147,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 473611,
@@ -179,12 +235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447242,
+      "num": 447242,
+      "word": "不良人",
+      "onboard_time": 1677724465,
+      "rank": 13,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 400502,
       "num": 400502,
       "word": "安乐传制片人",
       "onboard_time": 1677684328,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 374099,
+      "num": 374099,
+      "word": "建议延长男性生育假",
+      "onboard_time": 1677723446,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372688,
@@ -243,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318720,
+      "num": 318720,
+      "word": "杜兰特太阳首秀",
+      "onboard_time": 1677724046,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311384,
       "num": 311384,
       "word": "历届微博之夜名场面盘点",
@@ -265,6 +345,14 @@
       "onboard_time": 1677717569,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 282664,
+      "num": 282664,
+      "word": "gidle将于四五月间回归",
+      "onboard_time": 1677725368,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 278363,
@@ -355,6 +443,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215932,
+      "num": 215932,
+      "word": "杨紫199爱哭戏",
+      "onboard_time": 1677725488,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 213342,
+      "num": 213342,
+      "word": "每天睡4个小时属于睡眠不足",
+      "onboard_time": 1677725188,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203117,
       "num": 203117,
       "word": "YG新女团成员HARAM介绍视频",
@@ -371,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197149,
+      "num": 172689,
+      "word": "宋旻浩将于3月24日入伍",
+      "onboard_time": 1677725368,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193143,
       "num": 193143,
       "word": "特斯拉下一代汽车成本降低",
       "onboard_time": 1677716970,
       "rank": 27,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 191816,
+      "num": 191816,
+      "word": "TTG拉票放大招了",
+      "onboard_time": 1677725308,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 188141,
@@ -409,6 +529,14 @@
       "onboard_time": 1677675632,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 177785,
+      "num": 177785,
+      "word": "杨幂新片杀青合影",
+      "onboard_time": 1677725668,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 177006,
@@ -636,7 +764,7 @@
     },
     {
       "raw_hot": 87328,
-      "num": 712978,
+      "num": 977126,
       "word": "春日里的花海列车",
       "onboard_time": 1677677069,
       "rank": 2,
