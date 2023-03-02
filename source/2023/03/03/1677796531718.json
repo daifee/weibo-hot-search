@@ -1,0 +1,410 @@
+{
+  "runTime": 1677796531718,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 460568,
+        "num": 460568,
+        "word": "在双亲的遗物中发现自己的领养证",
+        "onboard_time": 1677771752,
+        "rank": 0,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 206987,
+        "num": 206987,
+        "word": "海关工作犬嗅出6只活体甲虫",
+        "onboard_time": 1677789614,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10688,
+        "num": 186192,
+        "word": "一图认遍全国春花",
+        "onboard_time": 1677746610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177314,
+        "num": 177314,
+        "word": "无锡销毁首批涉疫个人数据10亿条",
+        "onboard_time": 1677771629,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154145,
+        "num": 154145,
+        "word": "俄乌局势新进展",
+        "onboard_time": 1677789790,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 147902,
+        "num": 147902,
+        "word": "米兰时装周国内明星最佳看秀造型",
+        "onboard_time": 1677780496,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140283,
+        "num": 140283,
+        "word": "大学每月生活费多少才够用",
+        "onboard_time": 1677787751,
+        "rank": 6,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 102910,
+        "num": 102910,
+        "word": "甄子丹说BBC们从不报道真实的中国",
+        "onboard_time": 1677769593,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96364,
+        "num": 96364,
+        "word": "爱情公寓林宛瑜扮演者近照",
+        "onboard_time": 1677746552,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94056,
+        "num": 94056,
+        "word": "杨子发视频回应驼毛被事件",
+        "onboard_time": 1677758127,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 311447,
+        "num": 92413,
+        "word": "香港名媛碎尸案警方再拘一人",
+        "onboard_time": 1677759569,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 136390,
+        "num": 91425,
+        "word": "关晓彤荧光绿短裙",
+        "onboard_time": 1677773485,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90430,
+        "num": 90430,
+        "word": "薛之谦 这世界病了而我没有妥协",
+        "onboard_time": 1677758190,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79610,
+        "num": 79610,
+        "word": "俞敏洪称不太喜欢狂飙",
+        "onboard_time": 1677745468,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68926,
+        "num": 68926,
+        "word": "B站称三体动画引中国式科幻热潮",
+        "onboard_time": 1677775580,
+        "rank": 14,
+        "category": "动漫,科技"
+      },
+      {
+        "raw_hot": 67045,
+        "num": 67045,
+        "word": "李俊昊采访谈林允儿",
+        "onboard_time": 1677772588,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63608,
+        "num": 63608,
+        "word": "当地华人接力守护丫丫",
+        "onboard_time": 1677752553,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61557,
+        "num": 61557,
+        "word": "建议学前教育纳入义务教育",
+        "onboard_time": 1677787214,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59173,
+        "num": 59173,
+        "word": "警惕求稳躺平心态蔓延",
+        "onboard_time": 1677768570,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55952,
+        "num": 55952,
+        "word": "公司招聘会计要求必须是A型血",
+        "onboard_time": 1677750271,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96242,
+        "num": 55685,
+        "word": "商场回应艺术画展被指涉儿童色情",
+        "onboard_time": 1677768511,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55163,
+        "num": 55163,
+        "word": "太阳的后裔KBS50周年最佳电视剧",
+        "onboard_time": 1677771207,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51115,
+        "num": 51115,
+        "word": "快乐再出发",
+        "onboard_time": 1677768810,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50234,
+        "num": 50234,
+        "word": "见过最离谱的夜市价格",
+        "onboard_time": 1677765269,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 48576,
+        "num": 48576,
+        "word": "进击的巨人",
+        "onboard_time": 1677773604,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 43820,
+        "num": 43820,
+        "word": "杨幂王楚然穿了同款",
+        "onboard_time": 1677750569,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41357,
+        "num": 41357,
+        "word": "王嘉尔和好友见面视频",
+        "onboard_time": 1677775460,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41349,
+        "num": 41349,
+        "word": "胡金秋",
+        "onboard_time": 1677766353,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39800,
+        "num": 39800,
+        "word": "王一博李沁同框路透",
+        "onboard_time": 1677758970,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14486,
+        "num": 39434,
+        "word": "我国短视频用户规模突破10亿",
+        "onboard_time": 1677752732,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 45167,
+        "num": 39306,
+        "word": "俄称美企图在乌使用化武嫁祸俄方",
+        "onboard_time": 1677792073,
+        "rank": 30,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 39142,
+        "num": 39142,
+        "word": "玄商夜昙地下恋情",
+        "onboard_time": 1677765871,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38046,
+        "num": 38046,
+        "word": "夫妻离婚后发现儿子患自闭症又复婚",
+        "onboard_time": 1677742887,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36990,
+        "num": 36990,
+        "word": "大卫詹姆斯受伤",
+        "onboard_time": 1677761669,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33010,
+        "num": 33010,
+        "word": "狂飙内部评级S",
+        "onboard_time": 1677790330,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32030,
+        "num": 32030,
+        "word": "建议将1000万元作为遗产税起征点",
+        "onboard_time": 1677747632,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31782,
+        "num": 31782,
+        "word": "肖战欧洲篇vlog",
+        "onboard_time": 1677743307,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 31540,
+        "num": 31540,
+        "word": "快乐再出发2收官",
+        "onboard_time": 1677764670,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29805,
+        "num": 29805,
+        "word": "被家里的宠物锁在了门外",
+        "onboard_time": 1677781155,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 29210,
+        "num": 29210,
+        "word": "BoysPlanet第一次顺位发表",
+        "onboard_time": 1677766111,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27946,
+        "num": 27946,
+        "word": "金星合木星",
+        "onboard_time": 1677764009,
+        "rank": 40,
+        "category": "情感,自然"
+      },
+      {
+        "raw_hot": 27591,
+        "num": 27591,
+        "word": "韩维辰第四",
+        "onboard_time": 1677773246,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27553,
+        "num": 27553,
+        "word": "蒋胜男发声反对加班泛滥",
+        "onboard_time": 1677765331,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26763,
+        "num": 26763,
+        "word": "重紫登中国妇女报",
+        "onboard_time": 1677770250,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26266,
+        "num": 26266,
+        "word": "陈楚生苏醒王铮亮合唱海上花",
+        "onboard_time": 1677773664,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25811,
+        "num": 25811,
+        "word": "中动协称丫丫乐乐或将一起回国",
+        "onboard_time": 1677744931,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25199,
+        "num": 25199,
+        "word": "85生演技大赏",
+        "onboard_time": 1677772467,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25043,
+        "num": 25043,
+        "word": "王子浩29名",
+        "onboard_time": 1677766710,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24663,
+        "num": 24663,
+        "word": "王源读粉丝信",
+        "onboard_time": 1677772827,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23727,
+        "num": 23727,
+        "word": "时代少年团全员无发缝",
+        "onboard_time": 1677759569,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#看中国式现代化图景#"
+    }
+  }
+}

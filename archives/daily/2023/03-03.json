@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677795469037,
+  "endTime": 1677796531718,
   "band_list": [
     {
       "raw_hot": 964016,
@@ -155,6 +155,14 @@
       "category": "动漫,科技"
     },
     {
+      "raw_hot": 206987,
+      "num": 206987,
+      "word": "海关工作犬嗅出6只活体甲虫",
+      "onboard_time": 1677789614,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205919,
       "num": 198169,
       "word": "柳智敏小拇指骨折了",
@@ -195,14 +203,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 158780,
-      "num": 158780,
-      "word": "海关工作犬嗅出6只活体甲虫",
-      "onboard_time": 1677789614,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154552,
       "num": 154552,
       "word": "BoysPlanet第一次顺位发表",
@@ -211,12 +211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154145,
+      "num": 154145,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1677789790,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 151002,
       "num": 151002,
       "word": "王鹤棣无效握手",
       "onboard_time": 1677766832,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147902,
+      "num": 147902,
+      "word": "米兰时装周国内明星最佳看秀造型",
+      "onboard_time": 1677780496,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 147266,
@@ -243,20 +259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140283,
+      "num": 140283,
+      "word": "大学每月生活费多少才够用",
+      "onboard_time": 1677787751,
+      "rank": 21,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 130382,
       "num": 130382,
       "word": "学霸寝室不泡图书馆全员保研名校",
       "onboard_time": 1677752670,
       "rank": 28,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 126305,
-      "num": 126305,
-      "word": "俄乌局势新进展",
-      "onboard_time": 1677789790,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 121228,
@@ -323,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 105487,
-      "num": 105487,
-      "word": "米兰时装周国内明星最佳看秀造型",
-      "onboard_time": 1677780496,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 104627,
       "num": 104627,
       "word": "警惕求稳躺平心态蔓延",
@@ -353,14 +361,6 @@
       "onboard_time": 1677765871,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 97211,
-      "num": 97211,
-      "word": "大学每月生活费多少才够用",
-      "onboard_time": 1677787751,
-      "rank": 21,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 89086,
@@ -435,6 +435,14 @@
       "category": "情感,自然"
     },
     {
+      "raw_hot": 61557,
+      "num": 61557,
+      "word": "建议学前教育纳入义务教育",
+      "onboard_time": 1677787214,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46565,
       "num": 124664,
       "word": "我国短视频用户规模突破10亿",
@@ -443,12 +451,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 39857,
-      "num": 39857,
-      "word": "建议学前教育纳入义务教育",
-      "onboard_time": 1677787214,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 45167,
+      "num": 39306,
+      "word": "俄称美企图在乌使用化武嫁祸俄方",
+      "onboard_time": 1677792073,
+      "rank": 35,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 37356,
@@ -459,6 +467,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 33010,
+      "num": 33010,
+      "word": "狂飙内部评级S",
+      "onboard_time": 1677790330,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 30071,
       "num": 30071,
       "word": "朱一龙印尼碎片随拍",
@@ -467,27 +483,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29013,
-      "num": 27856,
-      "word": "俄称美企图在乌使用化武嫁祸俄方",
-      "onboard_time": 1677792073,
-      "rank": 35,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 25328,
       "num": 25328,
       "word": "85生演技大赏",
       "onboard_time": 1677772467,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 22605,
-      "num": 22605,
-      "word": "狂飙内部评级S",
-      "onboard_time": 1677790330,
-      "rank": 41,
       "category": "影视"
     },
     {
