@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677770454751,
+  "endTime": 1677771412549,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -2211,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 579384,
+      "num": 579384,
+      "word": "胡金秋",
+      "onboard_time": 1677766353,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 579381,
       "num": 579381,
       "word": "小伙相亲吃光18笼汤包让女生买单",
@@ -2819,20 +2827,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 485858,
-      "num": 485858,
-      "word": "胡金秋",
-      "onboard_time": 1677766353,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 485398,
       "num": 473594,
       "word": "女明星捧花头像",
       "onboard_time": 1677750150,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 485243,
+      "num": 361364,
+      "word": "甄子丹说BBC们从不报道真实的中国",
+      "onboard_time": 1677769593,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 484149,
@@ -3795,6 +3803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363437,
+      "num": 363437,
+      "word": "商场回应艺术画展被指涉儿童色情",
+      "onboard_time": 1677768511,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363177,
       "num": 444994,
       "word": "建议把抑郁症治疗纳入医保",
@@ -3817,6 +3833,14 @@
       "onboard_time": 1677678510,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 362341,
+      "num": 362341,
+      "word": "快乐再出发",
+      "onboard_time": 1677768810,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 362335,
@@ -4075,14 +4099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335940,
-      "num": 335940,
-      "word": "甄子丹说BBC们从不报道真实的中国",
-      "onboard_time": 1677769593,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 335617,
       "num": 335617,
       "word": "杨紫金世佳199爱同框",
@@ -4113,14 +4129,6 @@
       "onboard_time": 1677465628,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334762,
-      "num": 334762,
-      "word": "快乐再出发",
-      "onboard_time": 1677768810,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 333806,
@@ -4867,6 +4875,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 274678,
+      "num": 274678,
+      "word": "魔咒",
+      "onboard_time": 1677766590,
+      "rank": 47,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 273590,
       "num": 273590,
       "word": "无水番茄牛腩",
@@ -5169,14 +5185,6 @@
       "onboard_time": 1677566548,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245574,
-      "num": 245574,
-      "word": "魔咒",
-      "onboard_time": 1677766590,
-      "rank": 47,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 245186,
@@ -5529,14 +5537,6 @@
       "onboard_time": 1677763409,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220149,
-      "num": 220149,
-      "word": "商场回应艺术画展被指涉儿童色情",
-      "onboard_time": 1677768511,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220032,
@@ -6827,6 +6827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171638,
+      "num": 171638,
+      "word": "重紫登中国妇女报",
+      "onboard_time": 1677770250,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171179,
       "num": 171179,
       "word": "容祖儿阿Sa巴黎贴脸合照",
@@ -7411,14 +7419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141113,
-      "num": 141113,
-      "word": "重紫登中国妇女报",
-      "onboard_time": 1677770250,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 140315,
       "num": 140315,
       "word": "无畏的百万自拍",
@@ -7715,6 +7715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127368,
+      "num": 127368,
+      "word": "太阳的后裔KBS50周年最佳电视剧",
+      "onboard_time": 1677771207,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125817,
       "num": 125817,
       "word": "TWICE新歌初舞台直拍",
@@ -7755,6 +7763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124554,
+      "num": 124554,
+      "word": "接住江豚吐水柱可爱攻击",
+      "onboard_time": 1677768155,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124030,
       "num": 124030,
       "word": "蔡徐坤线上演唱会热度",
@@ -7793,6 +7809,14 @@
       "onboard_time": 1677476309,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122541,
+      "num": 122541,
+      "word": "警惕求稳躺平心态蔓延",
+      "onboard_time": 1677768570,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121035,
@@ -8051,14 +8075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110038,
-      "num": 110038,
-      "word": "警惕求稳躺平心态蔓延",
-      "onboard_time": 1677768570,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109807,
       "num": 109807,
       "word": "乌克兰回应泽连斯基替身",
@@ -8073,14 +8089,6 @@
       "onboard_time": 1677462087,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 109313,
-      "num": 109313,
-      "word": "接住江豚吐水柱可爱攻击",
-      "onboard_time": 1677768155,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106799,
