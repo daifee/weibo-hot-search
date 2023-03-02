@@ -1,7 +1,15 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677796531718,
+  "endTime": 1677799202556,
   "band_list": [
+    {
+      "raw_hot": 2057427,
+      "num": 2057427,
+      "word": "尖沙咀",
+      "onboard_time": 1677798380,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 964016,
       "num": 964016,
@@ -59,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459864,
+      "num": 459864,
+      "word": "海关工作犬嗅出6只活体甲虫",
+      "onboard_time": 1677789614,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405683,
       "num": 229368,
       "word": "商场回应艺术画展被指涉儿童色情",
@@ -83,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361169,
+      "num": 361169,
+      "word": "大学每月生活费多少才够用",
+      "onboard_time": 1677787751,
+      "rank": 21,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 334006,
       "num": 334006,
       "word": "俞敏洪称不太喜欢狂飙",
       "onboard_time": 1677745468,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326263,
+      "num": 326263,
+      "word": "黄绮珊状态",
+      "onboard_time": 1677797176,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 317864,
@@ -107,12 +139,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301683,
+      "num": 301683,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1677789790,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 269487,
       "num": 269487,
       "word": "李俊昊采访谈林允儿",
       "onboard_time": 1677772588,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250517,
+      "num": 250517,
+      "word": "米兰时装周国内明星最佳看秀造型",
+      "onboard_time": 1677780496,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 249024,
@@ -147,20 +195,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213859,
+      "num": 213859,
+      "word": "杨子发视频回应驼毛被事件",
+      "onboard_time": 1677758127,
+      "rank": 21,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 213249,
       "num": 213249,
       "word": "B站称三体动画引中国式科幻热潮",
       "onboard_time": 1677775580,
       "rank": 7,
       "category": "动漫,科技"
-    },
-    {
-      "raw_hot": 206987,
-      "num": 206987,
-      "word": "海关工作犬嗅出6只活体甲虫",
-      "onboard_time": 1677789614,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205919,
@@ -195,14 +243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 163438,
-      "num": 163438,
-      "word": "杨子发视频回应驼毛被事件",
-      "onboard_time": 1677758127,
-      "rank": 21,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 154552,
       "num": 154552,
       "word": "BoysPlanet第一次顺位发表",
@@ -211,28 +251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154145,
-      "num": 154145,
-      "word": "俄乌局势新进展",
-      "onboard_time": 1677789790,
-      "rank": 5,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 151002,
       "num": 151002,
       "word": "王鹤棣无效握手",
       "onboard_time": 1677766832,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147902,
-      "num": 147902,
-      "word": "米兰时装周国内明星最佳看秀造型",
-      "onboard_time": 1677780496,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 147266,
@@ -259,12 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140283,
-      "num": 140283,
-      "word": "大学每月生活费多少才够用",
-      "onboard_time": 1677787751,
-      "rank": 21,
-      "category": "情感,教育"
+      "raw_hot": 135490,
+      "num": 135490,
+      "word": "建议学前教育纳入义务教育",
+      "onboard_time": 1677787214,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130382,
@@ -331,20 +355,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107083,
+      "num": 107083,
+      "word": "警惕求稳躺平心态蔓延",
+      "onboard_time": 1677768570,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106753,
       "num": 100808,
       "word": "你会暗恋一个人十年吗",
       "onboard_time": 1677748652,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 104627,
-      "num": 104627,
-      "word": "警惕求稳躺平心态蔓延",
-      "onboard_time": 1677768570,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103168,
@@ -355,11 +379,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 99681,
-      "num": 99681,
+      "raw_hot": 102411,
+      "num": 102411,
       "word": "玄商夜昙地下恋情",
       "onboard_time": 1677765871,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 95790,
+      "num": 95790,
+      "word": "王鹤棣时宴英雄救美路透",
+      "onboard_time": 1677798680,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -385,6 +417,22 @@
       "onboard_time": 1677747632,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84545,
+      "num": 84545,
+      "word": "狂飙内部评级S",
+      "onboard_time": 1677790330,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 84012,
+      "num": 84012,
+      "word": "俄称美企图在乌使用化武嫁祸俄方",
+      "onboard_time": 1677792073,
+      "rank": 35,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 82344,
@@ -427,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71417,
+      "num": 71417,
+      "word": "被家里的宠物锁在了门外",
+      "onboard_time": 1677781155,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 67309,
       "num": 67309,
       "word": "金星合木星",
@@ -435,44 +491,12 @@
       "category": "情感,自然"
     },
     {
-      "raw_hot": 61557,
-      "num": 61557,
-      "word": "建议学前教育纳入义务教育",
-      "onboard_time": 1677787214,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46565,
       "num": 124664,
       "word": "我国短视频用户规模突破10亿",
       "onboard_time": 1677752732,
       "rank": 29,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 45167,
-      "num": 39306,
-      "word": "俄称美企图在乌使用化武嫁祸俄方",
-      "onboard_time": 1677792073,
-      "rank": 35,
-      "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 37356,
-      "num": 37356,
-      "word": "被家里的宠物锁在了门外",
-      "onboard_time": 1677781155,
-      "rank": 33,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 33010,
-      "num": 33010,
-      "word": "狂飙内部评级S",
-      "onboard_time": 1677790330,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 30071,
@@ -491,8 +515,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 21390,
-      "num": 513442,
+      "raw_hot": 21804,
+      "num": 626183,
       "word": "一图认遍全国春花",
       "onboard_time": 1677746610,
       "rank": 2,
