@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677774483034,
+  "endTime": 1677775565720,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -523,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 964016,
+      "num": 964016,
+      "word": "在双亲的遗物中发现自己的领养证",
+      "onboard_time": 1677771752,
+      "rank": 10,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 951361,
       "num": 951361,
       "word": "专家称双休制度很难被改变",
@@ -673,14 +681,6 @@
       "onboard_time": 1677725368,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 813008,
-      "num": 243209,
-      "word": "在双亲的遗物中发现自己的领养证",
-      "onboard_time": 1677771752,
-      "rank": 10,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 791211,
@@ -1267,6 +1267,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 545233,
+      "num": 242663,
+      "word": "关晓彤荧光绿短裙",
+      "onboard_time": 1677773485,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 541898,
+      "num": 541898,
+      "word": "无锡销毁首批涉疫个人数据10亿条",
+      "onboard_time": 1677771629,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537737,
       "num": 537737,
       "word": "特斯拉",
@@ -1329,14 +1345,6 @@
       "onboard_time": 1677633630,
       "rank": 11,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 522335,
-      "num": 235555,
-      "word": "无锡销毁首批涉疫个人数据10亿条",
-      "onboard_time": 1677771629,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 519354,
@@ -1513,14 +1521,6 @@
       "onboard_time": 1677739705,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 459927,
-      "num": 231272,
-      "word": "关晓彤荧光绿短裙",
-      "onboard_time": 1677773485,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 457564,
@@ -2211,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307743,
+      "num": 307743,
+      "word": "进击的巨人",
+      "onboard_time": 1677773604,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 307295,
       "num": 307295,
       "word": "彭冠英王楚然兑现flag",
@@ -2475,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269487,
+      "num": 269487,
+      "word": "李俊昊采访谈林允儿",
+      "onboard_time": 1677772588,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 265139,
       "num": 265139,
       "word": "于和伟说三体涨分像涨工资",
@@ -2577,14 +2593,6 @@
       "onboard_time": 1677655586,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 248922,
-      "num": 224275,
-      "word": "李俊昊采访谈林允儿",
-      "onboard_time": 1677772588,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 247509,
@@ -3763,14 +3771,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 148736,
-      "num": 148736,
-      "word": "进击的巨人",
-      "onboard_time": 1677773604,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 147793,
       "num": 147793,
       "word": "山姆回应顾客买到1天后上市的鸡爪",
@@ -4129,6 +4129,14 @@
       "onboard_time": 1677740007,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118793,
+      "num": 98374,
+      "word": "王嘉尔和好友见面视频",
+      "onboard_time": 1677775460,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 117243,

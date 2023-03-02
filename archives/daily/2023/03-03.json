@@ -1,10 +1,10 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677774483034,
+  "endTime": 1677775565720,
   "band_list": [
     {
-      "raw_hot": 813008,
-      "num": 243209,
+      "raw_hot": 964016,
+      "num": 964016,
       "word": "在双亲的遗物中发现自己的领养证",
       "onboard_time": 1677771752,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 774234,
-      "num": 240040,
+      "num": 250157,
       "word": "香港名媛碎尸案警方再拘一人",
       "onboard_time": 1677759569,
       "rank": 11,
@@ -27,8 +27,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 522335,
-      "num": 235555,
+      "raw_hot": 545233,
+      "num": 242663,
+      "word": "关晓彤荧光绿短裙",
+      "onboard_time": 1677773485,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 541898,
+      "num": 541898,
       "word": "无锡销毁首批涉疫个人数据10亿条",
       "onboard_time": 1677771629,
       "rank": 12,
@@ -49,14 +57,6 @@
       "onboard_time": 1677746552,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 459927,
-      "num": 231272,
-      "word": "关晓彤荧光绿短裙",
-      "onboard_time": 1677773485,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 405683,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307743,
+      "num": 307743,
+      "word": "进击的巨人",
+      "onboard_time": 1677773604,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 303813,
       "num": 303813,
       "word": "快乐再出发",
@@ -99,20 +107,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269487,
+      "num": 269487,
+      "word": "李俊昊采访谈林允儿",
+      "onboard_time": 1677772588,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249024,
       "num": 249024,
       "word": "见过最离谱的夜市价格",
       "onboard_time": 1677765269,
       "rank": 8,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 248922,
-      "num": 224275,
-      "word": "李俊昊采访谈林允儿",
-      "onboard_time": 1677772588,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 244611,
@@ -187,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148736,
-      "num": 148736,
-      "word": "进击的巨人",
-      "onboard_time": 1677773604,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 147266,
       "num": 147266,
       "word": "魔咒",
@@ -241,6 +241,14 @@
       "onboard_time": 1677758970,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118793,
+      "num": 98374,
+      "word": "王嘉尔和好友见面视频",
+      "onboard_time": 1677775460,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 118253,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 21390,
-      "num": 485320,
+      "num": 513442,
       "word": "一图认遍全国春花",
       "onboard_time": 1677746610,
       "rank": 2,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#2023看两会#"
+    },
+    {
+      "word": "#看中国式现代化图景#"
     }
   ]
 }

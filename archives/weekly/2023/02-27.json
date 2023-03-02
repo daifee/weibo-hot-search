@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677774483034,
+  "endTime": 1677775565720,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -1139,6 +1139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 964016,
+      "num": 964016,
+      "word": "在双亲的遗物中发现自己的领养证",
+      "onboard_time": 1677771752,
+      "rank": 10,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 962041,
       "num": 962041,
       "word": "建议农村推行低彩礼零彩礼",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1677725368,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 813008,
-      "num": 243209,
-      "word": "在双亲的遗物中发现自己的领养证",
-      "onboard_time": 1677771752,
-      "rank": 10,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 811765,
@@ -2475,12 +2475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545233,
+      "num": 242663,
+      "word": "关晓彤荧光绿短裙",
+      "onboard_time": 1677773485,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 544649,
       "num": 544649,
       "word": "20多位中科院专家把芯片价格打到10块",
       "onboard_time": 1677568348,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 541898,
+      "num": 541898,
+      "word": "无锡销毁首批涉疫个人数据10亿条",
+      "onboard_time": 1677771629,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541406,
@@ -2617,14 +2633,6 @@
       "onboard_time": 1677553287,
       "rank": 18,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 522335,
-      "num": 235555,
-      "word": "无锡销毁首批涉疫个人数据10亿条",
-      "onboard_time": 1677771629,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 520339,
@@ -3009,14 +3017,6 @@
       "onboard_time": 1677739705,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 459927,
-      "num": 231272,
-      "word": "关晓彤荧光绿短裙",
-      "onboard_time": 1677773485,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 457517,
@@ -4459,6 +4459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307743,
+      "num": 307743,
+      "word": "进击的巨人",
+      "onboard_time": 1677773604,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 307295,
       "num": 307295,
       "word": "彭冠英王楚然兑现flag",
@@ -4979,6 +4987,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 269487,
+      "num": 269487,
+      "word": "李俊昊采访谈林允儿",
+      "onboard_time": 1677772588,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269138,
       "num": 269138,
       "word": "我每天的上班动力",
@@ -5161,14 +5177,6 @@
       "onboard_time": 1677583770,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 248922,
-      "num": 224275,
-      "word": "李俊昊采访谈林允儿",
-      "onboard_time": 1677772588,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 247509,
@@ -7347,14 +7355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 148736,
-      "num": 148736,
-      "word": "进击的巨人",
-      "onboard_time": 1677773604,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 148651,
       "num": 148651,
       "word": "阴阳师",
@@ -7937,6 +7937,14 @@
       "onboard_time": 1677514226,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118793,
+      "num": 98374,
+      "word": "王嘉尔和好友见面视频",
+      "onboard_time": 1677775460,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 117243,
