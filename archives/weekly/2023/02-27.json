@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677792833984,
+  "endTime": 1677795469037,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -7147,6 +7147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158780,
+      "num": 158780,
+      "word": "海关工作犬嗅出6只活体甲虫",
+      "onboard_time": 1677789614,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158697,
       "num": 158697,
       "word": "梅西 实至名归",
@@ -7795,6 +7803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126305,
+      "num": 126305,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1677789790,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 125817,
       "num": 125817,
       "word": "TWICE新歌初舞台直拍",
@@ -8187,6 +8203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 105487,
+      "num": 105487,
+      "word": "米兰时装周国内明星最佳看秀造型",
+      "onboard_time": 1677780496,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 105304,
       "num": 105304,
       "word": "金星木星全年最近",
@@ -8307,6 +8331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97211,
+      "num": 97211,
+      "word": "大学每月生活费多少才够用",
+      "onboard_time": 1677787751,
+      "rank": 21,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 97196,
       "num": 97196,
       "word": "西溪湿地2万株梅花绽放",
@@ -8369,14 +8401,6 @@
       "onboard_time": 1677497368,
       "rank": 48,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 93925,
-      "num": 93925,
-      "word": "大学每月生活费多少才够用",
-      "onboard_time": 1677787751,
-      "rank": 21,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 92813,
@@ -8539,14 +8563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76555,
-      "num": 76555,
-      "word": "海关工作犬嗅出6只活体甲虫",
-      "onboard_time": 1677789614,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75550,
       "num": 75550,
       "word": "ITZY中文版TrustMe",
@@ -8577,14 +8593,6 @@
       "onboard_time": 1677765871,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71843,
-      "num": 71843,
-      "word": "米兰时装周国内明星最佳看秀造型",
-      "onboard_time": 1677780496,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 69266,
@@ -8667,14 +8675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60567,
-      "num": 60567,
-      "word": "俄乌局势新进展",
-      "onboard_time": 1677789790,
-      "rank": 5,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 60372,
       "num": 1449599,
       "word": "无人机看五彩春耕画卷",
@@ -8731,6 +8731,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 39857,
+      "num": 39857,
+      "word": "建议学前教育纳入义务教育",
+      "onboard_time": 1677787214,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37356,
       "num": 37356,
       "word": "被家里的宠物锁在了门外",
@@ -8769,14 +8777,6 @@
       "onboard_time": 1677495632,
       "rank": 14,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 32978,
-      "num": 31419,
-      "word": "建议学前教育纳入义务教育",
-      "onboard_time": 1677787214,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31948,
@@ -8819,6 +8819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29013,
+      "num": 27856,
+      "word": "俄称美企图在乌使用化武嫁祸俄方",
+      "onboard_time": 1677792073,
+      "rank": 35,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 27921,
       "num": 27921,
       "word": "巴黎时装周看秀日历",
@@ -8843,6 +8851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22605,
+      "num": 22605,
+      "word": "狂飙内部评级S",
+      "onboard_time": 1677790330,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 21307,
       "num": 27170,
       "word": "TTG连追三局获胜",
@@ -8865,22 +8881,6 @@
       "onboard_time": 1677700632,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 15548,
-      "num": 15548,
-      "word": "俄称美企图在乌使用化武嫁祸俄方",
-      "onboard_time": 1677792073,
-      "rank": 35,
-      "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 13913,
-      "num": 13913,
-      "word": "狂飙内部评级S",
-      "onboard_time": 1677790330,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 12119,
