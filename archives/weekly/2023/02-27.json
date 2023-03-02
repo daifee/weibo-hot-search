@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677742424220,
+  "endTime": 1677745537537,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -177,6 +177,14 @@
       "onboard_time": 1677545791,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2231025,
+      "num": 2231025,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1677744267,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2153485,
@@ -1235,6 +1243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 866193,
+      "num": 866193,
+      "word": "烽火流金 空降",
+      "onboard_time": 1677745170,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 864769,
       "num": 864769,
       "word": "二十届二中全会公报",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1677493651,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 825267,
+      "num": 825267,
+      "word": "好多演唱会",
+      "onboard_time": 1677741026,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 819393,
@@ -1883,6 +1907,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 639118,
+      "num": 263252,
+      "word": "夫妻离婚后发现儿子患自闭症又复婚",
+      "onboard_time": 1677742887,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638528,
       "num": 638528,
       "word": "毛不易演唱会门票",
@@ -1897,14 +1929,6 @@
       "onboard_time": 1677725308,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 622896,
-      "num": 622896,
-      "word": "好多演唱会",
-      "onboard_time": 1677741026,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 619068,
@@ -2080,6 +2104,14 @@
       "word": "建议监督8小时工作制执行",
       "onboard_time": 1677453319,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574546,
+      "num": 574546,
+      "word": "官方通报女子买两碗麻辣烫花175元",
+      "onboard_time": 1677743247,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -2595,6 +2627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 482613,
+      "num": 482613,
+      "word": "射手座最害怕辜负的感觉",
+      "onboard_time": 1677744450,
+      "rank": 8,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 480216,
       "num": 480216,
       "word": "庞博说太太给了他很多能量",
@@ -2971,6 +3011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 427178,
+      "num": 331520,
+      "word": "肖战欧洲篇vlog",
+      "onboard_time": 1677743307,
+      "rank": 14,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 426748,
       "num": 426748,
       "word": "陈数问粉丝你没有三急吗",
@@ -3209,6 +3257,14 @@
       "onboard_time": 1677684030,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 397171,
+      "num": 397171,
+      "word": "建议第三胎孩子教育全免费",
+      "onboard_time": 1677744510,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 396882,
@@ -3625,6 +3681,14 @@
       "onboard_time": 1677614711,
       "rank": 12,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 344571,
+      "num": 344571,
+      "word": "中动协称丫丫乐乐或将一起回国",
+      "onboard_time": 1677744931,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343750,
@@ -4113,6 +4177,14 @@
       "onboard_time": 1677491130,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 303031,
+      "num": 303031,
+      "word": "白鹿摸周柯宇的头",
+      "onboard_time": 1677743848,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 302530,
@@ -5211,6 +5283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209871,
+      "num": 209871,
+      "word": "2女子抱幼童行走中被面包车撞翻",
+      "onboard_time": 1677741748,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209736,
       "num": 209736,
       "word": "解放军军机强硬拦截美军机",
@@ -5779,6 +5859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191817,
+      "num": 191817,
+      "word": "人才流向新一线城市会成为趋势吗",
+      "onboard_time": 1677745052,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191743,
       "num": 191743,
       "word": "七七同园大熊猫雅奥曾因肠梗阻离世",
@@ -6179,19 +6267,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169502,
+      "num": 169502,
+      "word": "白敬亭打乒乓球",
+      "onboard_time": 1677744149,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169298,
       "num": 149292,
       "word": "秘鲁男子将木乃伊当女友每天同睡",
       "onboard_time": 1677691456,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168166,
-      "num": 168166,
-      "word": "2女子抱幼童行走中被面包车撞翻",
-      "onboard_time": 1677741748,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -7299,6 +7387,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 103574,
+      "num": 103574,
+      "word": "筑最小鸟巢的凤头雨燕进入繁殖期",
+      "onboard_time": 1677744813,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102894,
       "num": 102894,
       "word": "LNG战胜WBG",
@@ -7449,6 +7545,14 @@
       "onboard_time": 1677602061,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 91939,
+      "num": 91939,
+      "word": "俞敏洪称不太喜欢狂飙",
+      "onboard_time": 1677745468,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91523,

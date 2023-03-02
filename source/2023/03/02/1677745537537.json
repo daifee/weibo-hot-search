@@ -1,0 +1,410 @@
+{
+  "runTime": 1677745537537,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2231025,
+        "num": 2231025,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1677744267,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 866193,
+        "num": 866193,
+        "word": "烽火流金 空降",
+        "onboard_time": 1677745170,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36101,
+        "num": 844813,
+        "word": "9图了解政协知识点",
+        "onboard_time": 1677727107,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 825267,
+        "num": 825267,
+        "word": "好多演唱会",
+        "onboard_time": 1677741026,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 692660,
+        "num": 692660,
+        "word": "陈玺达要考复旦",
+        "onboard_time": 1677738624,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652868,
+        "num": 652868,
+        "word": "海南椰树集团招生本科年薪16.8万",
+        "onboard_time": 1677735208,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 574546,
+        "num": 574546,
+        "word": "官方通报女子买两碗麻辣烫花175元",
+        "onboard_time": 1677743247,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523118,
+        "num": 523118,
+        "word": "女子曝杨子直播间卖的被子里全是头发",
+        "onboard_time": 1677724947,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 482613,
+        "num": 482613,
+        "word": "射手座最害怕辜负的感觉",
+        "onboard_time": 1677744450,
+        "rank": 8,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 409971,
+        "num": 409971,
+        "word": "新人结婚朋友随100张刮刮乐",
+        "onboard_time": 1677732333,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398530,
+        "num": 398530,
+        "word": "樊振东2比3赵大成",
+        "onboard_time": 1677740304,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397171,
+        "num": 397171,
+        "word": "建议第三胎孩子教育全免费",
+        "onboard_time": 1677744510,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 378716,
+        "num": 378716,
+        "word": "14亿多中国人的心声",
+        "onboard_time": 1677739405,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 344571,
+        "num": 344571,
+        "word": "中动协称丫丫乐乐或将一起回国",
+        "onboard_time": 1677744931,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427178,
+        "num": 331520,
+        "word": "肖战欧洲篇vlog",
+        "onboard_time": 1677743307,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 349662,
+        "num": 322924,
+        "word": "杭州吸走北京上海人才",
+        "onboard_time": 1677732694,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303031,
+        "num": 303031,
+        "word": "白鹿摸周柯宇的头",
+        "onboard_time": 1677743848,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283659,
+        "num": 283659,
+        "word": "YG新女团合照",
+        "onboard_time": 1677739705,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267638,
+        "num": 267638,
+        "word": "忠犬八公主演是中华田园犬",
+        "onboard_time": 1677734727,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263513,
+        "num": 263513,
+        "word": "PYL结婚",
+        "onboard_time": 1677739286,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 639118,
+        "num": 263252,
+        "word": "夫妻离婚后发现儿子患自闭症又复婚",
+        "onboard_time": 1677742887,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383692,
+        "num": 263063,
+        "word": "妈妈喂8个月宝宝吃馍窒息昏迷9天",
+        "onboard_time": 1677736466,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261654,
+        "num": 261654,
+        "word": "鹿晗2023演唱会来了",
+        "onboard_time": 1677734967,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256709,
+        "num": 256709,
+        "word": "哪些政策能真正鼓励生育",
+        "onboard_time": 1677741266,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249577,
+        "num": 249577,
+        "word": "冯禧 打码",
+        "onboard_time": 1677717809,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247323,
+        "num": 247323,
+        "word": "年轻人都流向了哪些城市",
+        "onboard_time": 1677738206,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220501,
+        "num": 220501,
+        "word": "李敏镐香港经纪公司已告解散",
+        "onboard_time": 1677737844,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219776,
+        "num": 219776,
+        "word": "孙怡威海夜市卖梨汤",
+        "onboard_time": 1677737125,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210045,
+        "num": 210045,
+        "word": "每天睡4个小时属于睡眠不足",
+        "onboard_time": 1677725188,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209871,
+        "num": 209871,
+        "word": "2女子抱幼童行走中被面包车撞翻",
+        "onboard_time": 1677741748,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206228,
+        "num": 206228,
+        "word": "杨幂鲜花封面大片",
+        "onboard_time": 1677738446,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191817,
+        "num": 191817,
+        "word": "人才流向新一线城市会成为趋势吗",
+        "onboard_time": 1677745052,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187967,
+        "num": 187967,
+        "word": "建议提高多孩家庭个税扣除比例",
+        "onboard_time": 1677739827,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 184792,
+        "num": 184792,
+        "word": "贝克街的亡灵定档",
+        "onboard_time": 1677727526,
+        "rank": 33,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 169502,
+        "num": 169502,
+        "word": "白敬亭打乒乓球",
+        "onboard_time": 1677744149,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168058,
+        "num": 168058,
+        "word": "成毅抵达巴黎",
+        "onboard_time": 1677739225,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167048,
+        "num": 167048,
+        "word": "惠普笔记本维修后发现掌托是木头的",
+        "onboard_time": 1677737365,
+        "rank": 36,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 166513,
+        "num": 166513,
+        "word": "张杰广州演唱会加场",
+        "onboard_time": 1677735029,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163422,
+        "num": 163422,
+        "word": "白夜追凶2改名白夜破晓",
+        "onboard_time": 1677728248,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153088,
+        "num": 153088,
+        "word": "永远猜不到女生包里有什么",
+        "onboard_time": 1677741386,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142711,
+        "num": 142711,
+        "word": "流浪地球3为何还选青岛",
+        "onboard_time": 1677735628,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131083,
+        "num": 131083,
+        "word": "建议对2024年后出生孩子免除学费",
+        "onboard_time": 1677727766,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128130,
+        "num": 128130,
+        "word": "SMTOWN和HYBE开通联合账号",
+        "onboard_time": 1677732512,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127771,
+        "num": 127771,
+        "word": "人社部将适时调整个人养老金缴费上限",
+        "onboard_time": 1677729810,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123431,
+        "num": 123431,
+        "word": "原设计者说蔡徐坤不用对此事负责",
+        "onboard_time": 1677729629,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119496,
+        "num": 119496,
+        "word": "不良人",
+        "onboard_time": 1677724465,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115052,
+        "num": 115052,
+        "word": "女子称30岁相亲不是二婚就是老头",
+        "onboard_time": 1677731370,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103574,
+        "num": 103574,
+        "word": "筑最小鸟巢的凤头雨燕进入繁殖期",
+        "onboard_time": 1677744813,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97880,
+        "num": 97880,
+        "word": "养育子女仅由女性承担不公平",
+        "onboard_time": 1677730831,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91939,
+        "num": 91939,
+        "word": "俞敏洪称不太喜欢狂飙",
+        "onboard_time": 1677745468,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央党校建校90周年#"
+    }
+  }
+}
