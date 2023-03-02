@@ -1,0 +1,410 @@
+{
+  "runTime": 1677767757945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 924408,
+        "num": 924408,
+        "word": "BoysPlanet第一次顺位发表",
+        "onboard_time": 1677766111,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 773494,
+        "num": 773494,
+        "word": "俞敏洪称不太喜欢狂飙",
+        "onboard_time": 1677745468,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84237,
+        "num": 645130,
+        "word": "一图认遍全国春花",
+        "onboard_time": 1677746610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884086,
+        "num": 641881,
+        "word": "爱情公寓林宛瑜扮演者近照",
+        "onboard_time": 1677746552,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 602802,
+        "num": 602802,
+        "word": "柳智敏小拇指骨折了",
+        "onboard_time": 1677766291,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1381605,
+        "num": 594385,
+        "word": "迪丽热巴回应前段时间休息是有点疲惫",
+        "onboard_time": 1677761489,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622027,
+        "num": 569665,
+        "word": "薛之谦 这世界病了而我没有妥协",
+        "onboard_time": 1677758190,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497039,
+        "num": 497039,
+        "word": "公司招聘会计要求必须是A型血",
+        "onboard_time": 1677750271,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412964,
+        "num": 412964,
+        "word": "杨子发视频回应驼毛被事件",
+        "onboard_time": 1677758127,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 412942,
+        "num": 412942,
+        "word": "当地华人接力守护丫丫",
+        "onboard_time": 1677752553,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1517965,
+        "num": 412564,
+        "word": "香港名媛碎尸案警方再拘一人",
+        "onboard_time": 1677759569,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 547743,
+        "num": 410926,
+        "word": "王子浩29名",
+        "onboard_time": 1677766710,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463320,
+        "num": 408696,
+        "word": "刘涛直播唱乌梅子酱",
+        "onboard_time": 1677764972,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419832,
+        "num": 406498,
+        "word": "见过最离谱的夜市价格",
+        "onboard_time": 1677765269,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 405713,
+        "num": 405713,
+        "word": "胡金秋",
+        "onboard_time": 1677766353,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397895,
+        "num": 397895,
+        "word": "大卫詹姆斯受伤",
+        "onboard_time": 1677761669,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348166,
+        "num": 348166,
+        "word": "王一博李沁同框路透",
+        "onboard_time": 1677758970,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345130,
+        "num": 345130,
+        "word": "快乐再出发2收官",
+        "onboard_time": 1677764670,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324992,
+        "num": 324992,
+        "word": "金星合木星",
+        "onboard_time": 1677764009,
+        "rank": 18,
+        "category": "情感,自然"
+      },
+      {
+        "raw_hot": 37505,
+        "num": 315539,
+        "word": "小车也要大空间",
+        "onboard_time": 1677765871,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313700,
+        "num": 313700,
+        "word": "五菱缤果新车来了",
+        "onboard_time": 1677764911,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305700,
+        "num": 305700,
+        "word": "夫妻离婚后发现儿子患自闭症又复婚",
+        "onboard_time": 1677742887,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303596,
+        "num": 303596,
+        "word": "杨幂王楚然穿了同款",
+        "onboard_time": 1677750569,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283926,
+        "num": 283926,
+        "word": "时代少年团全员无发缝",
+        "onboard_time": 1677759569,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273552,
+        "num": 273552,
+        "word": "玄商夜昙地下恋情",
+        "onboard_time": 1677765871,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259759,
+        "num": 259759,
+        "word": "蒋胜男发声反对加班泛滥",
+        "onboard_time": 1677765331,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242435,
+        "num": 242435,
+        "word": "魔咒",
+        "onboard_time": 1677766590,
+        "rank": 26,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 240963,
+        "num": 240963,
+        "word": "学霸寝室不泡图书馆全员保研名校",
+        "onboard_time": 1677752670,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 219375,
+        "num": 219375,
+        "word": "女明星捧花头像",
+        "onboard_time": 1677750150,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118762,
+        "num": 219141,
+        "word": "我国短视频用户规模突破10亿",
+        "onboard_time": 1677752732,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 228068,
+        "num": 219132,
+        "word": "烽火流金 空降",
+        "onboard_time": 1677745170,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219081,
+        "num": 219081,
+        "word": "王鹤棣无效握手",
+        "onboard_time": 1677766832,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215202,
+        "num": 215202,
+        "word": "建议将1000万元作为遗产税起征点",
+        "onboard_time": 1677747632,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201441,
+        "num": 201441,
+        "word": "肖战欧洲篇vlog",
+        "onboard_time": 1677743307,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 186218,
+        "num": 186218,
+        "word": "你会暗恋一个人十年吗",
+        "onboard_time": 1677748652,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170420,
+        "num": 170420,
+        "word": "关晓彤出发巴黎时装周",
+        "onboard_time": 1677755969,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169818,
+        "num": 169818,
+        "word": "卧龙宣布联动永劫无间",
+        "onboard_time": 1677767011,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167860,
+        "num": 167860,
+        "word": "徐冬冬自嘲身材比例55开",
+        "onboard_time": 1677750810,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167015,
+        "num": 167015,
+        "word": "BoysPlanet",
+        "onboard_time": 1677766111,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165996,
+        "num": 165996,
+        "word": "中动协称丫丫乐乐或将一起回国",
+        "onboard_time": 1677744931,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163616,
+        "num": 163616,
+        "word": "范丞丞了不起的夜晚变装视频",
+        "onboard_time": 1677765331,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159933,
+        "num": 159933,
+        "word": "李一桐毕雯珺合照好甜",
+        "onboard_time": 1677763409,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157277,
+        "num": 157277,
+        "word": "光渊",
+        "onboard_time": 1677748592,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155106,
+        "num": 155106,
+        "word": "狗狗真的被风吹走了",
+        "onboard_time": 1677748892,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148128,
+        "num": 148128,
+        "word": "建议第三胎孩子教育全免费",
+        "onboard_time": 1677744510,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 144268,
+        "num": 144268,
+        "word": "开车的和坐车的都懵了",
+        "onboard_time": 1677750989,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126970,
+        "num": 126970,
+        "word": "日本千叶县全体议员戴头盔开会",
+        "onboard_time": 1677755308,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117890,
+        "num": 117890,
+        "word": "玄商得知夜昙悲惨身世",
+        "onboard_time": 1677760171,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109131,
+        "num": 109131,
+        "word": "丁程鑫出发录制你好星期六",
+        "onboard_time": 1677761009,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98098,
+        "num": 98098,
+        "word": "JDG战胜WE",
+        "onboard_time": 1677764131,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023看两会#"
+    }
+  }
+}

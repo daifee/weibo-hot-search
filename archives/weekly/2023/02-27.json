@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677766714226,
+  "endTime": 1677767757945,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -1227,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 924408,
+      "num": 924408,
+      "word": "BoysPlanet第一次顺位发表",
+      "onboard_time": 1677766111,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 914379,
       "num": 407371,
       "word": "女子称30岁相亲不是二婚就是老头",
@@ -1644,7 +1652,7 @@
     },
     {
       "raw_hot": 737357,
-      "num": 273691,
+      "num": 305700,
       "word": "夫妻离婚后发现儿子患自闭症又复婚",
       "onboard_time": 1677742887,
       "rank": 20,
@@ -2123,6 +2131,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 602802,
+      "num": 602802,
+      "word": "柳智敏小拇指骨折了",
+      "onboard_time": 1677766291,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 602536,
       "num": 321161,
       "word": "妈妈喂8个月宝宝吃馍窒息昏迷9天",
@@ -2401,6 +2417,14 @@
       "onboard_time": 1677716729,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547743,
+      "num": 410926,
+      "word": "王子浩29名",
+      "onboard_time": 1677766710,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 546253,
@@ -2891,14 +2915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 471406,
-      "num": 471406,
-      "word": "BoysPlanet第一次顺位发表",
-      "onboard_time": 1677766111,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 470732,
       "num": 470732,
       "word": "年轻人都流向了哪些城市",
@@ -3307,14 +3323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 420846,
-      "num": 420846,
-      "word": "柳智敏小拇指骨折了",
-      "onboard_time": 1677766291,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 420303,
       "num": 420303,
       "word": "姜潮吃烤板栗被崩到嘴",
@@ -3329,6 +3337,14 @@
       "onboard_time": 1677681092,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419832,
+      "num": 406498,
+      "word": "见过最离谱的夜市价格",
+      "onboard_time": 1677765269,
+      "rank": 30,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 418405,
@@ -3433,6 +3449,14 @@
       "onboard_time": 1677648329,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 405713,
+      "num": 405713,
+      "word": "胡金秋",
+      "onboard_time": 1677766353,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 404735,
@@ -4291,6 +4315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 313700,
+      "num": 313700,
+      "word": "五菱缤果新车来了",
+      "onboard_time": 1677764911,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312656,
       "num": 312656,
       "word": "华晨宇2023年演唱会官宣",
@@ -4451,14 +4483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302596,
-      "num": 302596,
-      "word": "五菱缤果新车来了",
-      "onboard_time": 1677764911,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302530,
       "num": 302530,
       "word": "海空卫士王伟烈士父亲去世",
@@ -4561,14 +4585,6 @@
       "onboard_time": 1677502111,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294080,
-      "num": 197186,
-      "word": "见过最离谱的夜市价格",
-      "onboard_time": 1677765269,
-      "rank": 30,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 293823,
@@ -4835,6 +4851,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 273552,
+      "num": 273552,
+      "word": "玄商夜昙地下恋情",
+      "onboard_time": 1677765871,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 272226,
       "num": 272226,
       "word": "女子帮网友表白日收入过万",
@@ -4889,14 +4913,6 @@
       "onboard_time": 1677563908,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 268686,
-      "num": 268686,
-      "word": "玄商夜昙地下恋情",
-      "onboard_time": 1677765871,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 267041,
@@ -4969,6 +4985,14 @@
       "onboard_time": 1677589110,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259759,
+      "num": 259759,
+      "word": "蒋胜男发声反对加班泛滥",
+      "onboard_time": 1677765331,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257983,
@@ -5145,6 +5169,14 @@
       "onboard_time": 1677730351,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242435,
+      "num": 242435,
+      "word": "魔咒",
+      "onboard_time": 1677766590,
+      "rank": 47,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 241892,
@@ -5489,6 +5521,14 @@
       "onboard_time": 1677487650,
       "rank": 28,
       "category": "时尚,美妆"
+    },
+    {
+      "raw_hot": 219081,
+      "num": 219081,
+      "word": "王鹤棣无效握手",
+      "onboard_time": 1677766832,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 219029,
@@ -6667,14 +6707,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 180166,
-      "num": 180166,
-      "word": "蒋胜男发声反对加班泛滥",
-      "onboard_time": 1677765331,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180143,
       "num": 180143,
       "word": "最好嗑的年龄差cp",
@@ -6755,14 +6787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170545,
-      "num": 170545,
-      "word": "胡金秋",
-      "onboard_time": 1677766353,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170483,
       "num": 163998,
       "word": "王鸥大侦探水晶发箍造型",
@@ -6777,6 +6801,14 @@
       "onboard_time": 1677748531,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169818,
+      "num": 169818,
+      "word": "卧龙宣布联动永劫无间",
+      "onboard_time": 1677767011,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 169731,
@@ -7763,14 +7795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 118676,
-      "num": 118676,
-      "word": "魔咒",
-      "onboard_time": 1677766590,
-      "rank": 47,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 117243,
       "num": 117243,
       "word": "勇士战胜开拓者",
@@ -8364,7 +8388,7 @@
     },
     {
       "raw_hot": 71947,
-      "num": 199605,
+      "num": 315539,
       "word": "小车也要大空间",
       "onboard_time": 1677765871,
       "rank": 27,
