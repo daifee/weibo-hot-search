@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677775565720,
+  "endTime": 1677777505351,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -2147,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317864,
+      "num": 317864,
+      "word": "进击的巨人",
+      "onboard_time": 1677773604,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 316718,
       "num": 316718,
       "word": "阿娇米兰餐厅打卡照",
@@ -2209,14 +2217,6 @@
       "onboard_time": 1677643589,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 307743,
-      "num": 307743,
-      "word": "进击的巨人",
-      "onboard_time": 1677773604,
-      "rank": 24,
-      "category": "动漫"
     },
     {
       "raw_hot": 307295,
@@ -2899,6 +2899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216827,
+      "num": 141556,
+      "word": "王嘉尔和好友见面视频",
+      "onboard_time": 1677775460,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216677,
       "num": 216677,
       "word": "黑崎真音去世",
@@ -3345,6 +3353,14 @@
       "onboard_time": 1677671728,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190052,
+      "num": 190052,
+      "word": "B站称三体动画引中国式科幻热潮",
+      "onboard_time": 1677775580,
+      "rank": 7,
+      "category": "动漫,科技"
     },
     {
       "raw_hot": 189907,
@@ -4129,14 +4145,6 @@
       "onboard_time": 1677740007,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 118793,
-      "num": 98374,
-      "word": "王嘉尔和好友见面视频",
-      "onboard_time": 1677775460,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 117243,
