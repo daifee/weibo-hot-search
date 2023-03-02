@@ -1,6 +1,6 @@
 {
   "startTime": 1677688085914,
-  "endTime": 1677745537537,
+  "endTime": 1677746405216,
   "band_list": [
     {
       "raw_hot": 2946066,
@@ -27,12 +27,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2231025,
-      "num": 2231025,
+      "raw_hot": 2345834,
+      "num": 2345834,
       "word": "迪丽热巴直播",
       "onboard_time": 1677744267,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1767288,
+      "num": 1767288,
+      "word": "烽火流金 空降",
+      "onboard_time": 1677745170,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1398951,
@@ -179,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 866193,
-      "num": 866193,
-      "word": "烽火流金 空降",
-      "onboard_time": 1677745170,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 857414,
       "num": 857414,
       "word": "建议不得将年龄作为招聘辞退红线",
@@ -259,6 +259,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 754547,
+      "num": 754547,
+      "word": "中动协称丫丫乐乐或将一起回国",
+      "onboard_time": 1677744931,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 737357,
+      "num": 263252,
+      "word": "夫妻离婚后发现儿子患自闭症又复婚",
+      "onboard_time": 1677742887,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736543,
+      "num": 736543,
+      "word": "官方通报女子买两碗麻辣烫花175元",
+      "onboard_time": 1677743247,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 735172,
       "num": 735172,
       "word": "文科生转码或成趋势",
@@ -307,12 +331,12 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 639118,
-      "num": 263252,
-      "word": "夫妻离婚后发现儿子患自闭症又复婚",
-      "onboard_time": 1677742887,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 645952,
+      "num": 645952,
+      "word": "建议第三胎孩子教育全免费",
+      "onboard_time": 1677744510,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 624710,
@@ -345,14 +369,6 @@
       "onboard_time": 1677719247,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 574546,
-      "num": 574546,
-      "word": "官方通报女子买两碗麻辣烫花175元",
-      "onboard_time": 1677743247,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 573322,
@@ -555,19 +571,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 397171,
-      "num": 397171,
-      "word": "建议第三胎孩子教育全免费",
-      "onboard_time": 1677744510,
-      "rank": 11,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 387332,
       "num": 387332,
       "word": "建议延长男性生育假",
       "onboard_time": 1677723446,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386377,
+      "num": 386377,
+      "word": "俞敏洪称不太喜欢狂飙",
+      "onboard_time": 1677745468,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -609,14 +625,6 @@
       "onboard_time": 1677732154,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 344571,
-      "num": 344571,
-      "word": "中动协称丫丫乐乐或将一起回国",
-      "onboard_time": 1677744931,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 344256,
@@ -811,6 +819,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 258681,
+      "num": 185439,
+      "word": "于和伟说三体涨分像涨工资",
+      "onboard_time": 1677745950,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254008,
       "num": 254008,
       "word": "我国近3亿人失眠",
@@ -913,6 +929,14 @@
       "onboard_time": 1677719186,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 225215,
+      "num": 225215,
+      "word": "WTT球星挑战赛果阿站2023",
+      "onboard_time": 1677745830,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 224302,
@@ -1115,20 +1139,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 169731,
+      "num": 169731,
+      "word": "白敬亭打乒乓球",
+      "onboard_time": 1677744149,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169644,
       "num": 169644,
       "word": "刘耀文荣梓杉海报拍摄花絮",
       "onboard_time": 1677739166,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169502,
-      "num": 169502,
-      "word": "白敬亭打乒乓球",
-      "onboard_time": 1677744149,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 169298,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1677693194,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132602,
+      "num": 132602,
+      "word": "Hero对战TES",
+      "onboard_time": 1677742468,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 127486,
@@ -1384,14 +1416,6 @@
       "word": "大学生送5年外卖还清40万外债",
       "onboard_time": 1677662069,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91939,
-      "num": 91939,
-      "word": "俞敏洪称不太喜欢狂飙",
-      "onboard_time": 1677745468,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1684,6 +1708,9 @@
     },
     {
       "word": "#聚焦2023年全国两会#"
+    },
+    {
+      "word": "#中白友谊牢不可破#"
     }
   ]
 }

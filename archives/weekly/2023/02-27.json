@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677745537537,
+  "endTime": 1677746405216,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -179,8 +179,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 2231025,
-      "num": 2231025,
+      "raw_hot": 2345834,
+      "num": 2345834,
       "word": "迪丽热巴直播",
       "onboard_time": 1677744267,
       "rank": 0,
@@ -281,6 +281,14 @@
       "onboard_time": 1677490109,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1767288,
+      "num": 1767288,
+      "word": "烽火流金 空降",
+      "onboard_time": 1677745170,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1763321,
@@ -1243,14 +1251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 866193,
-      "num": 866193,
-      "word": "烽火流金 空降",
-      "onboard_time": 1677745170,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 864769,
       "num": 864769,
       "word": "二十届二中全会公报",
@@ -1483,6 +1483,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 754547,
+      "num": 754547,
+      "word": "中动协称丫丫乐乐或将一起回国",
+      "onboard_time": 1677744931,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753081,
       "num": 753081,
       "word": "湿厕纸可以擦脸吗",
@@ -1553,6 +1561,22 @@
       "onboard_time": 1677654628,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 737357,
+      "num": 263252,
+      "word": "夫妻离婚后发现儿子患自闭症又复婚",
+      "onboard_time": 1677742887,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736543,
+      "num": 736543,
+      "word": "官方通报女子买两碗麻辣烫花175元",
+      "onboard_time": 1677743247,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 736477,
@@ -1891,6 +1915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 645952,
+      "num": 645952,
+      "word": "建议第三胎孩子教育全免费",
+      "onboard_time": 1677744510,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 644982,
       "num": 213441,
       "word": "刘宇说讨厌INTO1要解散了",
@@ -1905,14 +1937,6 @@
       "onboard_time": 1677640289,
       "rank": 10,
       "category": "影视,社会新闻"
-    },
-    {
-      "raw_hot": 639118,
-      "num": 263252,
-      "word": "夫妻离婚后发现儿子患自闭症又复婚",
-      "onboard_time": 1677742887,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638528,
@@ -2104,14 +2128,6 @@
       "word": "建议监督8小时工作制执行",
       "onboard_time": 1677453319,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 574546,
-      "num": 574546,
-      "word": "官方通报女子买两碗麻辣烫花175元",
-      "onboard_time": 1677743247,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -3259,14 +3275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 397171,
-      "num": 397171,
-      "word": "建议第三胎孩子教育全免费",
-      "onboard_time": 1677744510,
-      "rank": 11,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 396882,
       "num": 396882,
       "word": "退订酒店被辱骂博主已谅解对方",
@@ -3345,6 +3353,14 @@
       "onboard_time": 1677560794,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 386377,
+      "num": 386377,
+      "word": "俞敏洪称不太喜欢狂飙",
+      "onboard_time": 1677745468,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386314,
@@ -3681,14 +3697,6 @@
       "onboard_time": 1677614711,
       "rank": 12,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 344571,
-      "num": 344571,
-      "word": "中动协称丫丫乐乐或将一起回国",
-      "onboard_time": 1677744931,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 343750,
@@ -4651,6 +4659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258681,
+      "num": 185439,
+      "word": "于和伟说三体涨分像涨工资",
+      "onboard_time": 1677745950,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257983,
       "num": 257983,
       "word": "两会",
@@ -5033,6 +5049,14 @@
       "onboard_time": 1677567327,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225215,
+      "num": 225215,
+      "word": "WTT球星挑战赛果阿站2023",
+      "onboard_time": 1677745830,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 225068,
@@ -6259,20 +6283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169731,
+      "num": 169731,
+      "word": "白敬亭打乒乓球",
+      "onboard_time": 1677744149,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169644,
       "num": 169644,
       "word": "刘耀文荣梓杉海报拍摄花絮",
       "onboard_time": 1677739166,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169502,
-      "num": 169502,
-      "word": "白敬亭打乒乓球",
-      "onboard_time": 1677744149,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 169298,
@@ -6905,6 +6929,14 @@
       "onboard_time": 1677489030,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132602,
+      "num": 132602,
+      "word": "Hero对战TES",
+      "onboard_time": 1677742468,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 132554,
@@ -7547,14 +7579,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 91939,
-      "num": 91939,
-      "word": "俞敏洪称不太喜欢狂飙",
-      "onboard_time": 1677745468,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91523,
       "num": 91523,
       "word": "谢可寅南京livehouse舞台",
@@ -7995,6 +8019,9 @@
     },
     {
       "word": "#在创造性实践中探索中国式现代化#"
+    },
+    {
+      "word": "#中白友谊牢不可破#"
     }
   ]
 }
