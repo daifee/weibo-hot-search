@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677721638122,
+  "endTime": 1677723062530,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -875,6 +875,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1055164,
+      "num": 431117,
+      "word": "张柏芝与二儿子同框比心",
+      "onboard_time": 1677720806,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1036302,
       "num": 1036302,
       "word": "梅西当选FIFA年度最佳球员",
@@ -993,14 +1001,6 @@
       "onboard_time": 1677713484,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 935016,
-      "num": 431117,
-      "word": "张柏芝与二儿子同框比心",
-      "onboard_time": 1677720806,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 932170,
@@ -1163,6 +1163,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 845655,
+      "num": 845655,
+      "word": "电影忠犬八公定档",
+      "onboard_time": 1677721707,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 845368,
       "num": 615521,
       "word": "张颂文希望大家不要再接机",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1677555208,
       "rank": 29,
       "category": "财经,影视"
+    },
+    {
+      "raw_hot": 811988,
+      "num": 369469,
+      "word": "李敏镐被追缴数亿韩元",
+      "onboard_time": 1677722485,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 811765,
@@ -1883,6 +1899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 571300,
+      "num": 355833,
+      "word": "泸定地震民宿老板3000万投资打水漂",
+      "onboard_time": 1677720747,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568107,
       "num": 376452,
       "word": "蔡天凤前夫父亲的情妇被捕",
@@ -1961,6 +1985,14 @@
       "onboard_time": 1677548667,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554899,
+      "num": 554899,
+      "word": "RNG老板道歉",
+      "onboard_time": 1677718529,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 551383,
@@ -2123,19 +2155,19 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 523321,
-      "num": 523321,
-      "word": "RNG老板道歉",
-      "onboard_time": 1677718529,
-      "rank": 7,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 523261,
       "num": 523261,
       "word": "中学生骑车载好友致摔亡判赔70万",
       "onboard_time": 1677553287,
       "rank": 18,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 522609,
+      "num": 334616,
+      "word": "艾滋病患者强奸留守幼女被判15年",
+      "onboard_time": 1677722666,
+      "rank": 14,
       "category": "社会负面"
     },
     {
@@ -3467,6 +3499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324654,
+      "num": 324654,
+      "word": "谢可寅巴黎时装周生图",
+      "onboard_time": 1677722367,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 323721,
       "num": 196726,
       "word": "张大大说王鹤棣特别好",
@@ -4323,14 +4363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 235994,
-      "num": 235994,
-      "word": "泸定地震民宿老板3000万投资打水漂",
-      "onboard_time": 1677720747,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235164,
       "num": 235164,
       "word": "2女子饭店吃饭将餐具放地上喂狗",
@@ -4417,6 +4449,14 @@
       "onboard_time": 1677513146,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226537,
+      "num": 226537,
+      "word": "特斯拉人形机器人自己造自己",
+      "onboard_time": 1677719186,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 226116,
@@ -4561,14 +4601,6 @@
       "onboard_time": 1677649767,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215421,
-      "num": 215421,
-      "word": "特斯拉人形机器人自己造自己",
-      "onboard_time": 1677719186,
-      "rank": 24,
-      "category": "科技"
     },
     {
       "raw_hot": 215104,
@@ -4873,6 +4905,14 @@
       "onboard_time": 1677669206,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 203117,
+      "num": 203117,
+      "word": "YG新女团成员HARAM介绍视频",
+      "onboard_time": 1677723028,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 202960,
@@ -5433,6 +5473,14 @@
       "onboard_time": 1677511114,
       "rank": 42,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 182512,
+      "num": 182512,
+      "word": "建议企业给外卖员等群体上工伤保险",
+      "onboard_time": 1677721345,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182336,
@@ -6003,12 +6051,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138226,
-      "num": 138226,
-      "word": "建议企业给外卖员等群体上工伤保险",
-      "onboard_time": 1677721345,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 138495,
+      "num": 138495,
+      "word": "警方下周传唤刘亚仁",
+      "onboard_time": 1677722605,
+      "rank": 35,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 138096,
@@ -6057,6 +6105,14 @@
       "onboard_time": 1677574411,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136477,
+      "num": 136477,
+      "word": "园林猫咪遇到花好治愈",
+      "onboard_time": 1677719490,
+      "rank": 36,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 136434,
@@ -6225,14 +6281,6 @@
       "onboard_time": 1677700991,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124955,
-      "num": 124955,
-      "word": "园林猫咪遇到花好治愈",
-      "onboard_time": 1677719490,
-      "rank": 36,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 124931,

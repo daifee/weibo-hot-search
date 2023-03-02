@@ -1,0 +1,410 @@
+{
+  "runTime": 1677723062530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2452964,
+        "num": 2452964,
+        "word": "冯禧 打码",
+        "onboard_time": 1677717809,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 845655,
+        "num": 845655,
+        "word": "电影忠犬八公定档",
+        "onboard_time": 1677721707,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 79182,
+        "num": 712978,
+        "word": "春日里的花海列车",
+        "onboard_time": 1677677069,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699800,
+        "num": 699800,
+        "word": "专家称双休制度很难被改变",
+        "onboard_time": 1677713484,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554899,
+        "num": 554899,
+        "word": "RNG老板道歉",
+        "onboard_time": 1677718529,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 789257,
+        "num": 541276,
+        "word": "张颂文希望大家不要再接机",
+        "onboard_time": 1677712761,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714056,
+        "num": 536356,
+        "word": "儿子篮球班倒闭家长掏1000万买下",
+        "onboard_time": 1677712400,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524548,
+        "num": 524548,
+        "word": "文科生转码或成趋势",
+        "onboard_time": 1677687685,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 397927,
+        "num": 397927,
+        "word": "特斯拉潮州事故车主不服鉴定",
+        "onboard_time": 1677716549,
+        "rank": 8,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 389024,
+        "num": 389024,
+        "word": "人大代表建议在幼儿园实施全面性教育",
+        "onboard_time": 1677716729,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055164,
+        "num": 383707,
+        "word": "张柏芝与二儿子同框比心",
+        "onboard_time": 1677720806,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 811988,
+        "num": 369469,
+        "word": "李敏镐被追缴数亿韩元",
+        "onboard_time": 1677722485,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 571300,
+        "num": 355833,
+        "word": "泸定地震民宿老板3000万投资打水漂",
+        "onboard_time": 1677720747,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554725,
+        "num": 343054,
+        "word": "肖战托腮",
+        "onboard_time": 1677719247,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 522609,
+        "num": 334616,
+        "word": "艾滋病患者强奸留守幼女被判15年",
+        "onboard_time": 1677722666,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 324654,
+        "num": 324654,
+        "word": "谢可寅巴黎时装周生图",
+        "onboard_time": 1677722367,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308112,
+        "num": 308112,
+        "word": "美国流浪汉被当街处决式射杀",
+        "onboard_time": 1677686724,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301865,
+        "num": 301865,
+        "word": "kep1er将于4月10日回归",
+        "onboard_time": 1677720747,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295656,
+        "num": 295656,
+        "word": "金龟子如何看待女儿早恋",
+        "onboard_time": 1677714145,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 271581,
+        "num": 271581,
+        "word": "特斯拉Cybertruck将在今年问世",
+        "onboard_time": 1677717569,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 258046,
+        "num": 258046,
+        "word": "警方回应保洁被扣工资向领导下跪",
+        "onboard_time": 1677718410,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254926,
+        "num": 254926,
+        "word": "宋茜路演现场因雪莉落泪",
+        "onboard_time": 1677675990,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228039,
+        "num": 228039,
+        "word": "母亲去世妹妹含泪背姐姐出嫁",
+        "onboard_time": 1677713000,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226537,
+        "num": 226537,
+        "word": "特斯拉人形机器人自己造自己",
+        "onboard_time": 1677719186,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 224135,
+        "num": 224135,
+        "word": "理发店宠物狗未栓绳店主被城管掌掴",
+        "onboard_time": 1677716072,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 219759,
+        "num": 219759,
+        "word": "浙江女子追到广州找到被偷的爱猫",
+        "onboard_time": 1677695953,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203117,
+        "num": 203117,
+        "word": "YG新女团成员HARAM介绍视频",
+        "onboard_time": 1677723028,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198358,
+        "num": 198358,
+        "word": "六十岁上班的我",
+        "onboard_time": 1677680312,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 196654,
+        "num": 196654,
+        "word": "我国近3亿人失眠",
+        "onboard_time": 1677719668,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184336,
+        "num": 184336,
+        "word": "特斯拉投资者日",
+        "onboard_time": 1677712641,
+        "rank": 29,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 182512,
+        "num": 182512,
+        "word": "建议企业给外卖员等群体上工伤保险",
+        "onboard_time": 1677721345,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179729,
+        "num": 179729,
+        "word": "大麦",
+        "onboard_time": 1677675632,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166577,
+        "num": 166577,
+        "word": "特警22米高楼飞身索降动作干净利落",
+        "onboard_time": 1677717750,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154969,
+        "num": 154969,
+        "word": "建议不得将年龄作为招聘辞退红线",
+        "onboard_time": 1677684388,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141515,
+        "num": 141515,
+        "word": "特斯拉下一代汽车成本降低",
+        "onboard_time": 1677716970,
+        "rank": 34,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 138495,
+        "num": 138495,
+        "word": "警方下周传唤刘亚仁",
+        "onboard_time": 1677722605,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 136477,
+        "num": 136477,
+        "word": "园林猫咪遇到花好治愈",
+        "onboard_time": 1677719490,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 135779,
+        "num": 135779,
+        "word": "直播间66元的白酒宣称堪比茅台",
+        "onboard_time": 1677717090,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 117240,
+        "num": 117240,
+        "word": "董明珠建议统一五险一金标准",
+        "onboard_time": 1677671848,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115232,
+        "num": 115232,
+        "word": "男子取消报警医生直奔现场劝说",
+        "onboard_time": 1677713301,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111893,
+        "num": 111893,
+        "word": "韩总统称日本已从侵略者转变为伙伴",
+        "onboard_time": 1677670589,
+        "rank": 40,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 107872,
+        "num": 107872,
+        "word": "陕西汉中400余年古旱莲开花",
+        "onboard_time": 1677715048,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105975,
+        "num": 105975,
+        "word": "动物园称未收到丫丫提早回国消息",
+        "onboard_time": 1677676650,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102396,
+        "num": 102396,
+        "word": "安乐传制片人",
+        "onboard_time": 1677684328,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97931,
+        "num": 97931,
+        "word": "温州特斯拉车祸驾驶员已苏醒",
+        "onboard_time": 1677712339,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95276,
+        "num": 95276,
+        "word": "3月份有望播出的电视剧",
+        "onboard_time": 1677710777,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91085,
+        "num": 91085,
+        "word": "建议春节放假9天",
+        "onboard_time": 1677688223,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87546,
+        "num": 87546,
+        "word": "白敬亭睡前视频",
+        "onboard_time": 1677682351,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86292,
+        "num": 86292,
+        "word": "粉丝问许凯为什么不换衣服",
+        "onboard_time": 1677715648,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84793,
+        "num": 84793,
+        "word": "看得出外公已经尽力了",
+        "onboard_time": 1677693194,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦2023年全国两会#"
+    }
+  }
+}
