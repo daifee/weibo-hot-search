@@ -1,0 +1,410 @@
+{
+  "runTime": 1677742424220,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1080810,
+        "num": 1080810,
+        "word": "海南椰树集团招生本科年薪16.8万",
+        "onboard_time": 1677735208,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 773018,
+        "num": 773018,
+        "word": "樊振东2比3赵大成",
+        "onboard_time": 1677740304,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46684,
+        "num": 675392,
+        "word": "9图了解政协知识点",
+        "onboard_time": 1677727107,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 888912,
+        "num": 660540,
+        "word": "陈玺达要考复旦",
+        "onboard_time": 1677738624,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622896,
+        "num": 622896,
+        "word": "好多演唱会",
+        "onboard_time": 1677741026,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 697603,
+        "num": 598650,
+        "word": "PYL结婚",
+        "onboard_time": 1677739286,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 634146,
+        "num": 591194,
+        "word": "女子曝杨子直播间卖的被子里全是头发",
+        "onboard_time": 1677724947,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 562838,
+        "num": 562838,
+        "word": "孙怡威海夜市卖梨汤",
+        "onboard_time": 1677737125,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541601,
+        "num": 541601,
+        "word": "杭州吸走北京上海人才",
+        "onboard_time": 1677732694,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523040,
+        "num": 523040,
+        "word": "新人结婚朋友随100张刮刮乐",
+        "onboard_time": 1677732333,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506388,
+        "num": 506388,
+        "word": "鹿晗2023演唱会来了",
+        "onboard_time": 1677734967,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 439038,
+        "num": 439038,
+        "word": "14亿多中国人的心声",
+        "onboard_time": 1677739405,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 429021,
+        "num": 429021,
+        "word": "年轻人都流向了哪些城市",
+        "onboard_time": 1677738206,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420440,
+        "num": 420440,
+        "word": "YG新女团合照",
+        "onboard_time": 1677739705,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411979,
+        "num": 411979,
+        "word": "李敏镐香港经纪公司已告解散",
+        "onboard_time": 1677737844,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407972,
+        "num": 407972,
+        "word": "忠犬八公主演是中华田园犬",
+        "onboard_time": 1677734727,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391353,
+        "num": 391353,
+        "word": "冯禧 打码",
+        "onboard_time": 1677717809,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381757,
+        "num": 381757,
+        "word": "哪些政策能真正鼓励生育",
+        "onboard_time": 1677741266,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352156,
+        "num": 352156,
+        "word": "每天睡4个小时属于睡眠不足",
+        "onboard_time": 1677725188,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296897,
+        "num": 296897,
+        "word": "惠普笔记本维修后发现掌托是木头的",
+        "onboard_time": 1677737365,
+        "rank": 19,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 602536,
+        "num": 296845,
+        "word": "妈妈喂8个月宝宝吃馍窒息昏迷9天",
+        "onboard_time": 1677736466,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296790,
+        "num": 296790,
+        "word": "杨幂鲜花封面大片",
+        "onboard_time": 1677738446,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284507,
+        "num": 284507,
+        "word": "肖战去了西班牙阶梯",
+        "onboard_time": 1677726508,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276240,
+        "num": 276240,
+        "word": "永远猜不到女生包里有什么",
+        "onboard_time": 1677741386,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275107,
+        "num": 275107,
+        "word": "成毅抵达巴黎",
+        "onboard_time": 1677739225,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266500,
+        "num": 266500,
+        "word": "建议提高多孩家庭个税扣除比例",
+        "onboard_time": 1677739827,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 245001,
+        "num": 245001,
+        "word": "流浪地球3为何还选青岛",
+        "onboard_time": 1677735628,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236912,
+        "num": 236912,
+        "word": "建议对2024年后出生孩子免除学费",
+        "onboard_time": 1677727766,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232094,
+        "num": 232094,
+        "word": "贝克街的亡灵定档",
+        "onboard_time": 1677727526,
+        "rank": 28,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 211016,
+        "num": 211016,
+        "word": "张杰广州演唱会加场",
+        "onboard_time": 1677735029,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209726,
+        "num": 209726,
+        "word": "原设计者说蔡徐坤不用对此事负责",
+        "onboard_time": 1677729629,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191677,
+        "num": 191677,
+        "word": "一年四季都要用防晒吗",
+        "onboard_time": 1677740965,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170724,
+        "num": 170724,
+        "word": "白夜追凶2改名白夜破晓",
+        "onboard_time": 1677728248,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170376,
+        "num": 170376,
+        "word": "人社部将适时调整个人养老金缴费上限",
+        "onboard_time": 1677729810,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168166,
+        "num": 168166,
+        "word": "2女子抱幼童行走中被面包车撞翻",
+        "onboard_time": 1677741748,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167505,
+        "num": 167505,
+        "word": "SMTOWN和HYBE开通联合账号",
+        "onboard_time": 1677732512,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150260,
+        "num": 150260,
+        "word": "女子称30岁相亲不是二婚就是老头",
+        "onboard_time": 1677731370,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146719,
+        "num": 146719,
+        "word": "父亲为救4岁患肿瘤儿子跑外卖摔断腿",
+        "onboard_time": 1677733589,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146538,
+        "num": 146538,
+        "word": "不良人",
+        "onboard_time": 1677724465,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 145789,
+        "num": 145789,
+        "word": "于朦胧镜头下的宋妍霏",
+        "onboard_time": 1677737787,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122380,
+        "num": 122380,
+        "word": "张若昀敲胸的",
+        "onboard_time": 1677734608,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120559,
+        "num": 120559,
+        "word": "梅西买苹果手机送给队友",
+        "onboard_time": 1677724286,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118075,
+        "num": 118075,
+        "word": "养育子女仅由女性承担不公平",
+        "onboard_time": 1677730831,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117574,
+        "num": 117574,
+        "word": "男子爬泰山帮挑山工挑120斤水",
+        "onboard_time": 1677734010,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 114414,
+        "num": 114414,
+        "word": "老师被指侵占学生雕塑冒名参展",
+        "onboard_time": 1677723147,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 110628,
+        "num": 110628,
+        "word": "为什么有些人晚睡早起还精力充沛",
+        "onboard_time": 1677723806,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109181,
+        "num": 109181,
+        "word": "刘耀文荣梓杉海报拍摄花絮",
+        "onboard_time": 1677739166,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105522,
+        "num": 105522,
+        "word": "张柏芝与二儿子同框比心",
+        "onboard_time": 1677720806,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102800,
+        "num": 102800,
+        "word": "黑神话悟空软著登记获批",
+        "onboard_time": 1677732812,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98991,
+        "num": 98991,
+        "word": "老了我们也要这样吃喝",
+        "onboard_time": 1677736645,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央党校建校90周年#"
+    }
+  }
+}
