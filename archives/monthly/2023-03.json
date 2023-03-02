@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677756853899,
+  "endTime": 1677760624971,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -73,6 +73,14 @@
       "onboard_time": 1677744267,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2287472,
+      "num": 391561,
+      "word": "香港名媛碎尸案警方再拘一人",
+      "onboard_time": 1677759569,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2153485,
@@ -457,6 +465,22 @@
       "onboard_time": 1677675632,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1019451,
+      "num": 563830,
+      "word": "薛之谦 这世界病了而我没有妥协",
+      "onboard_time": 1677758190,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 993369,
+      "num": 993369,
+      "word": "杨子发视频回应驼毛被事件",
+      "onboard_time": 1677758127,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 993001,
@@ -1083,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 572974,
+      "num": 388276,
+      "word": "时代少年团全员无发缝",
+      "onboard_time": 1677759569,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571417,
       "num": 571417,
       "word": "2023五一档电影增至五部",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1677718529,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 552350,
+      "num": 552350,
+      "word": "王一博李沁同框路透",
+      "onboard_time": 1677758970,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 550933,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1677645870,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 439818,
+      "num": 439818,
+      "word": "日本千叶县全体议员戴头盔开会",
+      "onboard_time": 1677755308,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439038,
@@ -1971,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314194,
+      "num": 314194,
+      "word": "耳背文学",
+      "onboard_time": 1677756087,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 313965,
       "num": 313965,
       "word": "gidle将于四五月间回归",
@@ -2251,6 +2307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264352,
+      "num": 264352,
+      "word": "陆泽宁求婚成功",
+      "onboard_time": 1677758850,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262525,
       "num": 236337,
       "word": "理发店宠物狗未栓绳店主被城管掌掴",
@@ -2313,6 +2377,14 @@
       "onboard_time": 1677713000,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250827,
+      "num": 250827,
+      "word": "玄商得知夜昙悲惨身世",
+      "onboard_time": 1677760171,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 250715,
@@ -2571,14 +2643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223350,
-      "num": 223350,
-      "word": "日本千叶县全体议员戴头盔开会",
-      "onboard_time": 1677755308,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221574,
       "num": 221574,
       "word": "全球近60只大熊猫旅居海外",
@@ -2731,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205375,
+      "num": 205375,
+      "word": "蔡徐坤欧洲行程",
+      "onboard_time": 1677760355,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204963,
       "num": 204963,
       "word": "冰尘盾山MVP",
@@ -2753,6 +2825,14 @@
       "onboard_time": 1677647848,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204365,
+      "num": 204365,
+      "word": "罗云熙宋轶 颜心记",
+      "onboard_time": 1677757650,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 204322,
@@ -2843,6 +2923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200983,
+      "num": 200983,
+      "word": "宋亚轩带吉他回学校",
+      "onboard_time": 1677759688,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200892,
       "num": 200892,
       "word": "特警22米高楼飞身索降动作干净利落",
@@ -2889,6 +2977,14 @@
       "onboard_time": 1677652587,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194085,
+      "num": 194085,
+      "word": "喻言黑色玫瑰皮裙造型",
+      "onboard_time": 1677759210,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193433,
@@ -3123,6 +3219,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 178518,
+      "num": 336348,
+      "word": "直播间买东西开始真香了",
+      "onboard_time": 1677758431,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177242,
       "num": 177242,
       "word": "HYBE新男团BOYNEXTDOOR",
@@ -3251,6 +3355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167443,
+      "num": 167443,
+      "word": "久哲说我们一定会进S组",
+      "onboard_time": 1677756929,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166870,
       "num": 166870,
       "word": "一种很新的支付方式",
@@ -3371,6 +3483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149148,
+      "num": 149148,
+      "word": "建议特定条件支持未婚女性冻卵",
+      "onboard_time": 1677757889,
+      "rank": 40,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 147793,
       "num": 147793,
       "word": "山姆回应顾客买到1天后上市的鸡爪",
@@ -3393,14 +3513,6 @@
       "onboard_time": 1677749430,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144834,
-      "num": 144834,
-      "word": "耳背文学",
-      "onboard_time": 1677756087,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 144753,
@@ -3577,6 +3689,14 @@
       "onboard_time": 1677683310,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130299,
+      "num": 130299,
+      "word": "TWICE直拍",
+      "onboard_time": 1677756751,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 130040,
@@ -3881,14 +4001,6 @@
       "onboard_time": 1677703991,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87098,
-      "num": 87098,
-      "word": "TWICE直拍",
-      "onboard_time": 1677756751,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 83596,
