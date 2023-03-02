@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677755816774,
+  "endTime": 1677756853899,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -1907,20 +1907,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 661858,
+      "num": 564644,
+      "word": "学霸寝室不泡图书馆全员保研名校",
+      "onboard_time": 1677752670,
+      "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 660534,
       "num": 660534,
       "word": "大学生送5年外卖还清40万外债",
       "onboard_time": 1677662069,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 655479,
-      "num": 542707,
-      "word": "学霸寝室不泡图书馆全员保研名校",
-      "onboard_time": 1677752670,
-      "rank": 28,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 654544,
@@ -2299,6 +2299,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 561170,
+      "num": 561170,
+      "word": "重紫和魔尊成亲",
+      "onboard_time": 1677753629,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 556328,
       "num": 556328,
       "word": "光与夜之恋",
@@ -2529,14 +2537,6 @@
       "onboard_time": 1677737844,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 518214,
-      "num": 518214,
-      "word": "重紫和魔尊成亲",
-      "onboard_time": 1677753629,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 517013,
@@ -3075,6 +3075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435528,
+      "num": 435528,
+      "word": "关晓彤出发巴黎时装周",
+      "onboard_time": 1677755969,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434668,
       "num": 434668,
       "word": "饕餮记官博声明",
@@ -3097,6 +3105,14 @@
       "onboard_time": 1677560434,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 429938,
+      "num": 429938,
+      "word": "当地华人接力守护丫丫",
+      "onboard_time": 1677752553,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429195,
@@ -3521,14 +3537,6 @@
       "onboard_time": 1677597222,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 382719,
-      "num": 382719,
-      "word": "当地华人接力守护丫丫",
-      "onboard_time": 1677752553,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382601,
@@ -5203,6 +5211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225530,
+      "num": 225530,
+      "word": "我国短视频用户规模突破10亿",
+      "onboard_time": 1677752732,
+      "rank": 29,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 225215,
       "num": 225215,
       "word": "WTT球星挑战赛果阿站2023",
@@ -5275,12 +5291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 221953,
-      "num": 221953,
-      "word": "我国短视频用户规模突破10亿",
-      "onboard_time": 1677752732,
-      "rank": 29,
-      "category": "科技,社会新闻"
+      "raw_hot": 223350,
+      "num": 223350,
+      "word": "日本千叶县全体议员戴头盔开会",
+      "onboard_time": 1677755308,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221574,
@@ -6075,6 +6091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192412,
+      "num": 192412,
+      "word": "了不起的夜晚定档",
+      "onboard_time": 1677756450,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192366,
       "num": 192366,
       "word": "扬科维奇掌握中国所有球员信息",
@@ -6481,6 +6505,14 @@
       "onboard_time": 1677647071,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171840,
+      "num": 171840,
+      "word": "JDG对战WE",
+      "onboard_time": 1677755907,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 171179,
@@ -6947,8 +6979,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 145908,
-      "num": 145908,
+      "raw_hot": 147455,
+      "num": 147455,
       "word": "听说你喜欢我",
       "onboard_time": 1677752369,
       "rank": 46,
@@ -6969,6 +7001,14 @@
       "onboard_time": 1677589350,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144834,
+      "num": 144834,
+      "word": "耳背文学",
+      "onboard_time": 1677756087,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 144753,
@@ -7683,6 +7723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 105304,
+      "num": 105304,
+      "word": "金星木星全年最近",
+      "onboard_time": 1677756210,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105275,
       "num": 105275,
       "word": "利拉德",
@@ -7736,14 +7784,6 @@
       "word": "缉毒民警急速追击冲卡毒贩",
       "onboard_time": 1677478829,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100838,
-      "num": 100838,
-      "word": "日本千叶县全体议员戴头盔开会",
-      "onboard_time": 1677755308,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -7905,6 +7945,14 @@
       "onboard_time": 1677510811,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 87098,
+      "num": 87098,
+      "word": "TWICE直拍",
+      "onboard_time": 1677756751,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 86823,

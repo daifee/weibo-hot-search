@@ -1,0 +1,410 @@
+{
+  "runTime": 1677756853899,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 916530,
+        "num": 916530,
+        "word": "俞敏洪称不太喜欢狂飙",
+        "onboard_time": 1677745468,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577194,
+        "num": 577194,
+        "word": "烽火流金 空降",
+        "onboard_time": 1677745170,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115626,
+        "num": 574520,
+        "word": "一图认遍全国春花",
+        "onboard_time": 1677746610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1292303,
+        "num": 573949,
+        "word": "爱情公寓林宛瑜扮演者近照",
+        "onboard_time": 1677746552,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 893269,
+        "num": 568295,
+        "word": "公司招聘会计要求必须是A型血",
+        "onboard_time": 1677750271,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661858,
+        "num": 564644,
+        "word": "学霸寝室不泡图书馆全员保研名校",
+        "onboard_time": 1677752670,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 593171,
+        "num": 561313,
+        "word": "杨幂王楚然穿了同款",
+        "onboard_time": 1677750569,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 561170,
+        "num": 561170,
+        "word": "重紫和魔尊成亲",
+        "onboard_time": 1677753629,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478246,
+        "num": 478246,
+        "word": "建议将1000万元作为遗产税起征点",
+        "onboard_time": 1677747632,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435528,
+        "num": 435528,
+        "word": "关晓彤出发巴黎时装周",
+        "onboard_time": 1677755969,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524456,
+        "num": 433017,
+        "word": "徐冬冬自嘲身材比例55开",
+        "onboard_time": 1677750810,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429938,
+        "num": 429938,
+        "word": "当地华人接力守护丫丫",
+        "onboard_time": 1677752553,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423332,
+        "num": 423332,
+        "word": "薛之谦 抢票",
+        "onboard_time": 1677749609,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 355444,
+        "num": 355444,
+        "word": "女明星捧花头像",
+        "onboard_time": 1677750150,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344204,
+        "num": 344204,
+        "word": "HYBE多给李秀满700亿韩元",
+        "onboard_time": 1677753568,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317768,
+        "num": 317768,
+        "word": "中动协称丫丫乐乐或将一起回国",
+        "onboard_time": 1677744931,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307632,
+        "num": 307632,
+        "word": "官方通报女子买两碗麻辣烫花175元",
+        "onboard_time": 1677743247,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304661,
+        "num": 304661,
+        "word": "狗狗真的被风吹走了",
+        "onboard_time": 1677748892,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279508,
+        "num": 279508,
+        "word": "光渊",
+        "onboard_time": 1677748592,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269947,
+        "num": 269947,
+        "word": "开车的和坐车的都懵了",
+        "onboard_time": 1677750989,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 469710,
+        "num": 256966,
+        "word": "夫妻离婚后发现儿子患自闭症又复婚",
+        "onboard_time": 1677742887,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280329,
+        "num": 252665,
+        "word": "肖战欧洲篇vlog",
+        "onboard_time": 1677743307,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 230581,
+        "num": 230581,
+        "word": "张颂文曾指导赵露思演戏",
+        "onboard_time": 1677749370,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229141,
+        "num": 229141,
+        "word": "建议第三胎孩子教育全免费",
+        "onboard_time": 1677744510,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 225530,
+        "num": 225530,
+        "word": "我国短视频用户规模突破10亿",
+        "onboard_time": 1677752732,
+        "rank": 24,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 230423,
+        "num": 224493,
+        "word": "你会暗恋一个人十年吗",
+        "onboard_time": 1677748652,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223350,
+        "num": 223350,
+        "word": "日本千叶县全体议员戴头盔开会",
+        "onboard_time": 1677755308,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201755,
+        "num": 201755,
+        "word": "虞书欣像戴着袖套",
+        "onboard_time": 1677751409,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200552,
+        "num": 200552,
+        "word": "妈妈喂8个月宝宝吃馍窒息昏迷9天",
+        "onboard_time": 1677736466,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192412,
+        "num": 192412,
+        "word": "了不起的夜晚定档",
+        "onboard_time": 1677756450,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181662,
+        "num": 181662,
+        "word": "射手座最害怕辜负的感觉",
+        "onboard_time": 1677744450,
+        "rank": 30,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 174693,
+        "num": 174693,
+        "word": "陈玺达要考复旦",
+        "onboard_time": 1677738624,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172421,
+        "num": 172421,
+        "word": "原来印度飞饼真的会飞",
+        "onboard_time": 1677751770,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171840,
+        "num": 171840,
+        "word": "JDG对战WE",
+        "onboard_time": 1677755907,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155764,
+        "num": 155764,
+        "word": "原来白米粥还能涮火锅",
+        "onboard_time": 1677746733,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150122,
+        "num": 150122,
+        "word": "李现向每一位中国运动员致敬",
+        "onboard_time": 1677750391,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147455,
+        "num": 147455,
+        "word": "听说你喜欢我",
+        "onboard_time": 1677752369,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144834,
+        "num": 144834,
+        "word": "耳背文学",
+        "onboard_time": 1677756087,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129584,
+        "num": 129584,
+        "word": "诸葛宇杰任湖北省委副书记",
+        "onboard_time": 1677747153,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121968,
+        "num": 121968,
+        "word": "海南椰树集团招生本科年薪16.8万",
+        "onboard_time": 1677735208,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 110605,
+        "num": 110605,
+        "word": "鹿晗2023演唱会来了",
+        "onboard_time": 1677734967,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106384,
+        "num": 106384,
+        "word": "杭州吸走北京上海人才",
+        "onboard_time": 1677732694,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105782,
+        "num": 105782,
+        "word": "樊振东2比3赵大成",
+        "onboard_time": 1677740304,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105304,
+        "num": 105304,
+        "word": "金星木星全年最近",
+        "onboard_time": 1677756210,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104892,
+        "num": 104892,
+        "word": "PYL结婚",
+        "onboard_time": 1677739286,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104275,
+        "num": 104275,
+        "word": "YG新女团合照",
+        "onboard_time": 1677739705,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94216,
+        "num": 94216,
+        "word": "DYG对阵KSG",
+        "onboard_time": 1677753568,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87098,
+        "num": 87098,
+        "word": "TWICE直拍",
+        "onboard_time": 1677756751,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86656,
+        "num": 86656,
+        "word": "大侦探无名联动",
+        "onboard_time": 1677748652,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81531,
+        "num": 81531,
+        "word": "成毅抵达巴黎",
+        "onboard_time": 1677739225,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦2023年全国两会#"
+    }
+  }
+}
