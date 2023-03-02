@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677752461005,
+  "endTime": 1677753486238,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1094830,
+      "num": 858402,
+      "word": "公司招聘会计要求必须是A型血",
+      "onboard_time": 1677750271,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1092787,
       "num": 1092787,
       "word": "动物园发布丫丫最新照片",
@@ -601,14 +609,6 @@
       "onboard_time": 1677632853,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 843980,
-      "num": 843980,
-      "word": "公司招聘会计要求必须是A型血",
-      "onboard_time": 1677750271,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 837838,
@@ -1283,6 +1283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 485398,
+      "num": 473594,
+      "word": "女明星捧花头像",
+      "onboard_time": 1677750150,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 484149,
       "num": 484149,
       "word": "三胞胎姐妹同天出嫁",
@@ -1457,14 +1465,6 @@
       "onboard_time": 1677730831,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428546,
-      "num": 402627,
-      "word": "女明星捧花头像",
-      "onboard_time": 1677750150,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 427968,
@@ -2003,6 +2003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304156,
+      "num": 304156,
+      "word": "虞书欣像戴着袖套",
+      "onboard_time": 1677751409,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303031,
       "num": 303031,
       "word": "白鹿摸周柯宇的头",
@@ -2147,6 +2155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275107,
+      "num": 275107,
+      "word": "开车的和坐车的都懵了",
+      "onboard_time": 1677750989,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274968,
       "num": 274968,
       "word": "Lisa新加坡芭莎封面",
@@ -2193,14 +2209,6 @@
       "onboard_time": 1677745950,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 264357,
-      "num": 247976,
-      "word": "虞书欣像戴着袖套",
-      "onboard_time": 1677751409,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 262525,
@@ -2305,14 +2313,6 @@
       "onboard_time": 1677734308,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245214,
-      "num": 245214,
-      "word": "开车的和坐车的都懵了",
-      "onboard_time": 1677750989,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 245186,
@@ -2467,6 +2467,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 225658,
+      "num": 225658,
+      "word": "原来印度飞饼真的会飞",
+      "onboard_time": 1677751770,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225215,
       "num": 225215,
       "word": "WTT球星挑战赛果阿站2023",
@@ -2496,6 +2504,14 @@
       "word": "如何减轻年轻人生育焦虑",
       "onboard_time": 1677639328,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223901,
+      "num": 223901,
+      "word": "当地华人接力守护丫丫",
+      "onboard_time": 1677752553,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -2793,6 +2809,14 @@
       "onboard_time": 1677660749,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198492,
+      "num": 198492,
+      "word": "学霸寝室不泡图书馆全员保研名校",
+      "onboard_time": 1677752670,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 196718,
@@ -3099,14 +3123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170990,
-      "num": 170990,
-      "word": "原来印度飞饼真的会飞",
-      "onboard_time": 1677751770,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 170483,
       "num": 163998,
       "word": "王鸥大侦探水晶发箍造型",
@@ -3307,6 +3323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145908,
+      "num": 145908,
+      "word": "听说你喜欢我",
+      "onboard_time": 1677752369,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145742,
       "num": 145742,
       "word": "龙马精神海报没有刘浩存",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1677594634,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139621,
+      "num": 197617,
+      "word": "我国短视频用户规模突破10亿",
+      "onboard_time": 1677752732,
+      "rank": 29,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 138495,
@@ -3577,14 +3609,6 @@
       "onboard_time": 1677751409,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 122190,
-      "num": 122190,
-      "word": "听说你喜欢我",
-      "onboard_time": 1677752369,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 121021,
