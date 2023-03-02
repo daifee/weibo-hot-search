@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677788484698,
+  "endTime": 1677789300750,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -8683,6 +8683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47626,
+      "num": 47626,
+      "word": "大学每月生活费多少才够用",
+      "onboard_time": 1677787751,
+      "rank": 21,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 44598,
       "num": 426530,
       "word": "窦靖童未来感妆容",
@@ -8811,12 +8819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22139,
-      "num": 22139,
-      "word": "大学每月生活费多少才够用",
-      "onboard_time": 1677787751,
-      "rank": 21,
-      "category": "情感,教育"
+      "raw_hot": 21361,
+      "num": 21361,
+      "word": "建议学前教育纳入义务教育",
+      "onboard_time": 1677787214,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21307,
@@ -8833,14 +8841,6 @@
       "onboard_time": 1677583231,
       "rank": 47,
       "category": "科技"
-    },
-    {
-      "raw_hot": 18697,
-      "num": 18697,
-      "word": "建议学前教育纳入义务教育",
-      "onboard_time": 1677787214,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17767,
