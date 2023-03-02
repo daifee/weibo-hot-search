@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677784567852,
+  "endTime": 1677785616141,
   "band_list": [
     {
       "raw_hot": 964016,
@@ -419,8 +419,8 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 36411,
-      "num": 36411,
+      "raw_hot": 37356,
+      "num": 37356,
       "word": "被家里的宠物锁在了门外",
       "onboard_time": 1677781155,
       "rank": 33,
@@ -457,6 +457,14 @@
       "onboard_time": 1677748592,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 12119,
+      "num": 12119,
+      "word": "2023的她们",
+      "onboard_time": 1677779295,
+      "rank": 49,
+      "category": "社会新闻,情感"
     }
   ],
   "hotgov_list": [
