@@ -1,6 +1,6 @@
 {
   "startTime": 1677688085914,
-  "endTime": 1677728449162,
+  "endTime": 1677731059425,
   "band_list": [
     {
       "raw_hot": 2946066,
@@ -19,8 +19,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1789357,
-      "num": 1789357,
+      "raw_hot": 2370708,
+      "num": 2370708,
       "word": "女子曝杨子直播间卖的被子里全是头发",
       "onboard_time": 1677724947,
       "rank": 30,
@@ -35,16 +35,32 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1081452,
-      "num": 1081452,
+      "raw_hot": 1251627,
+      "num": 1251627,
+      "word": "白夜追凶2改名白夜破晓",
+      "onboard_time": 1677728248,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1186798,
+      "num": 1186798,
       "word": "每天睡4个小时属于睡眠不足",
       "onboard_time": 1677725188,
       "rank": 25,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1147525,
+      "num": 1147525,
+      "word": "建议对2024年后出生孩子免除学费",
+      "onboard_time": 1677727766,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1059046,
-      "num": 531230,
+      "num": 593634,
       "word": "肖战去了西班牙阶梯",
       "onboard_time": 1677726508,
       "rank": 10,
@@ -67,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 966788,
+      "num": 966788,
+      "word": "原设计者说蔡徐坤不用对此事负责",
+      "onboard_time": 1677729629,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 951361,
       "num": 951361,
       "word": "专家称双休制度很难被改变",
@@ -81,6 +105,14 @@
       "onboard_time": 1677724286,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 894041,
+      "num": 894041,
+      "word": "贝克街的亡灵定档",
+      "onboard_time": 1677727526,
+      "rank": 33,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 882905,
@@ -211,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 540390,
-      "num": 540390,
-      "word": "贝克街的亡灵定档",
-      "onboard_time": 1677727526,
-      "rank": 33,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 514756,
       "num": 514756,
       "word": "建议严查超前学习行为",
@@ -259,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474168,
+      "num": 474168,
+      "word": "张佳宁长发梦回林北星",
+      "onboard_time": 1677729028,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 473611,
       "num": 473611,
       "word": "3月份有望播出的电视剧",
@@ -272,6 +304,22 @@
       "word": "浙江女子追到广州找到被偷的爱猫",
       "onboard_time": 1677695953,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447763,
+      "num": 447763,
+      "word": "建议辅助生殖技术进医保",
+      "onboard_time": 1677727229,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415136,
+      "num": 415136,
+      "word": "人社部将适时调整个人养老金缴费上限",
+      "onboard_time": 1677729810,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -291,36 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385213,
-      "num": 385213,
-      "word": "白夜追凶2改名白夜破晓",
-      "onboard_time": 1677728248,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 372688,
       "num": 372688,
       "word": "金龟子如何看待女儿早恋",
       "onboard_time": 1677714145,
       "rank": 12,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 366939,
-      "num": 366939,
-      "word": "建议对2024年后出生孩子免除学费",
-      "onboard_time": 1677727766,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365945,
-      "num": 365945,
-      "word": "建议辅助生殖技术进医保",
-      "onboard_time": 1677727229,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354931,
@@ -337,6 +361,14 @@
       "onboard_time": 1677670589,
       "rank": 5,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 342992,
+      "num": 342992,
+      "word": "王者干将莫邪新皮肤特效",
+      "onboard_time": 1677728307,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 335176,
@@ -379,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320721,
+      "num": 320721,
+      "word": "马思唯官宣2023世界巡演",
+      "onboard_time": 1677728367,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 318720,
       "num": 318720,
       "word": "杜兰特太阳首秀",
@@ -401,6 +441,14 @@
       "onboard_time": 1677684030,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307445,
+      "num": 307445,
+      "word": "三胞胎姐妹同天出嫁",
+      "onboard_time": 1677730230,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306200,
@@ -459,14 +507,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 253269,
-      "num": 219963,
-      "word": "马思唯官宣2023世界巡演",
-      "onboard_time": 1677728367,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 251650,
       "num": 236197,
       "word": "母亲去世妹妹含泪背姐姐出嫁",
@@ -491,12 +531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243627,
+      "num": 243627,
+      "word": "王源文淇同框照",
+      "onboard_time": 1677728248,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241069,
       "num": 241069,
       "word": "宋旻浩将于3月24日入伍",
       "onboard_time": 1677725368,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237225,
+      "num": 237225,
+      "word": "重紫大婚造型",
+      "onboard_time": 1677729328,
+      "rank": 35,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 226537,
@@ -515,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223446,
+      "num": 223446,
+      "word": "湖人战胜雷霆",
+      "onboard_time": 1677729150,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222421,
       "num": 222421,
       "word": "在新疆减肥有多难",
@@ -531,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 211104,
+      "num": 211104,
+      "word": "Angel回应时空断裂",
+      "onboard_time": 1677730351,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203117,
       "num": 203117,
       "word": "YG新女团成员HARAM介绍视频",
@@ -544,6 +616,14 @@
       "word": "特警22米高楼飞身索降动作干净利落",
       "onboard_time": 1677717750,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200460,
+      "num": 200460,
+      "word": "养育子女仅由女性承担不公平",
+      "onboard_time": 1677730831,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -569,14 +649,6 @@
       "onboard_time": 1677671971,
       "rank": 21,
       "category": "科技"
-    },
-    {
-      "raw_hot": 187465,
-      "num": 187465,
-      "word": "王源文淇同框照",
-      "onboard_time": 1677728248,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 186252,
@@ -707,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141791,
+      "num": 141791,
+      "word": "王楚然吐槽彭冠英拍照技术",
+      "onboard_time": 1677728909,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140074,
       "num": 140074,
       "word": "男子取消报警医生直奔现场劝说",
@@ -747,6 +827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127486,
+      "num": 127486,
+      "word": "Angel商城画面弹窗",
+      "onboard_time": 1677730711,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125142,
       "num": 29023,
       "word": "刘耀文三月随拍",
@@ -769,14 +857,6 @@
       "onboard_time": 1677669809,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116669,
-      "num": 116669,
-      "word": "王者干将莫邪新皮肤特效",
-      "onboard_time": 1677728307,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 116430,
@@ -899,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82838,
+      "num": 1399550,
+      "word": "9图了解政协知识点",
+      "onboard_time": 1677727107,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 82155,
       "num": 82155,
       "word": "Lisa新加坡芭莎封面",
@@ -987,14 +1075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65436,
-      "num": 1235936,
-      "word": "9图了解政协知识点",
-      "onboard_time": 1677727107,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 62920,
       "num": 62920,
       "word": "建议每周单休月末连休5天",
@@ -1041,6 +1121,14 @@
       "onboard_time": 1677656247,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 38782,
+      "num": 458449,
+      "word": "身边女生竟然都在玩",
+      "onboard_time": 1677729629,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 37974,
@@ -1105,6 +1193,14 @@
       "onboard_time": 1677700632,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14840,
+      "num": 202379,
+      "word": "被这部纪录片里的话戳到",
+      "onboard_time": 1677729629,
+      "rank": 39,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

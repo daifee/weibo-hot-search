@@ -1,0 +1,410 @@
+{
+  "runTime": 1677731059425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2370708,
+        "num": 2370708,
+        "word": "女子曝杨子直播间卖的被子里全是头发",
+        "onboard_time": 1677724947,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1769318,
+        "num": 1769318,
+        "word": "冯禧 打码",
+        "onboard_time": 1677717809,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82838,
+        "num": 1399550,
+        "word": "9图了解政协知识点",
+        "onboard_time": 1677727107,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1251627,
+        "num": 1251627,
+        "word": "白夜追凶2改名白夜破晓",
+        "onboard_time": 1677728248,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1186798,
+        "num": 1186798,
+        "word": "每天睡4个小时属于睡眠不足",
+        "onboard_time": 1677725188,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1147525,
+        "num": 1147525,
+        "word": "建议对2024年后出生孩子免除学费",
+        "onboard_time": 1677727766,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966788,
+        "num": 966788,
+        "word": "原设计者说蔡徐坤不用对此事负责",
+        "onboard_time": 1677729629,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 894041,
+        "num": 894041,
+        "word": "贝克街的亡灵定档",
+        "onboard_time": 1677727526,
+        "rank": 7,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 662045,
+        "num": 662045,
+        "word": "李敏镐被追缴数亿韩元",
+        "onboard_time": 1677722485,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 613863,
+        "num": 613863,
+        "word": "梅西买苹果手机送给队友",
+        "onboard_time": 1677724286,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 730446,
+        "num": 593634,
+        "word": "肖战去了西班牙阶梯",
+        "onboard_time": 1677726508,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563603,
+        "num": 563603,
+        "word": "为什么有些人晚睡早起还精力充沛",
+        "onboard_time": 1677723806,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476127,
+        "num": 476127,
+        "word": "1家3口同月同日生日",
+        "onboard_time": 1677725787,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474168,
+        "num": 474168,
+        "word": "张佳宁长发梦回林北星",
+        "onboard_time": 1677729028,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38782,
+        "num": 458449,
+        "word": "身边女生竟然都在玩",
+        "onboard_time": 1677729629,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 447763,
+        "num": 447763,
+        "word": "建议辅助生殖技术进医保",
+        "onboard_time": 1677727229,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415136,
+        "num": 415136,
+        "word": "人社部将适时调整个人养老金缴费上限",
+        "onboard_time": 1677729810,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406684,
+        "num": 406684,
+        "word": "高启兰被粉丝狂叫金丝老婆",
+        "onboard_time": 1677725308,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 392015,
+        "num": 392015,
+        "word": "泸定地震民宿老板3000万投资打水漂",
+        "onboard_time": 1677720747,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386581,
+        "num": 386581,
+        "word": "不良人",
+        "onboard_time": 1677724465,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 367371,
+        "num": 367371,
+        "word": "电影忠犬八公定档",
+        "onboard_time": 1677721707,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361184,
+        "num": 361184,
+        "word": "老师被指侵占学生雕塑冒名参展",
+        "onboard_time": 1677723147,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 359583,
+        "num": 359583,
+        "word": "张柏芝与二儿子同框比心",
+        "onboard_time": 1677720806,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342992,
+        "num": 342992,
+        "word": "王者干将莫邪新皮肤特效",
+        "onboard_time": 1677728307,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 341170,
+        "num": 341170,
+        "word": "张大大2月全平台涨粉最多艺人",
+        "onboard_time": 1677725368,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320721,
+        "num": 320721,
+        "word": "马思唯官宣2023世界巡演",
+        "onboard_time": 1677728367,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307445,
+        "num": 307445,
+        "word": "三胞胎姐妹同天出嫁",
+        "onboard_time": 1677730230,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302091,
+        "num": 302091,
+        "word": "RNG老板道歉",
+        "onboard_time": 1677718529,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295594,
+        "num": 295594,
+        "word": "特斯拉潮州事故车主不服鉴定",
+        "onboard_time": 1677716549,
+        "rank": 28,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 288838,
+        "num": 288838,
+        "word": "张颂文希望大家不要再接机",
+        "onboard_time": 1677712761,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269667,
+        "num": 269667,
+        "word": "儿子篮球班倒闭家长掏1000万买下",
+        "onboard_time": 1677712400,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259207,
+        "num": 259207,
+        "word": "李飞真会省钱",
+        "onboard_time": 1677723147,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245524,
+        "num": 245524,
+        "word": "杨紫199爱哭戏",
+        "onboard_time": 1677725488,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243627,
+        "num": 243627,
+        "word": "王源文淇同框照",
+        "onboard_time": 1677728248,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237951,
+        "num": 237951,
+        "word": "gidle将于四五月间回归",
+        "onboard_time": 1677725368,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237225,
+        "num": 237225,
+        "word": "重紫大婚造型",
+        "onboard_time": 1677729328,
+        "rank": 35,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 223446,
+        "num": 223446,
+        "word": "湖人战胜雷霆",
+        "onboard_time": 1677729150,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211104,
+        "num": 211104,
+        "word": "Angel回应时空断裂",
+        "onboard_time": 1677730351,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204401,
+        "num": 204401,
+        "word": "专家称双休制度很难被改变",
+        "onboard_time": 1677713484,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14840,
+        "num": 202379,
+        "word": "被这部纪录片里的话戳到",
+        "onboard_time": 1677729629,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200460,
+        "num": 200460,
+        "word": "养育子女仅由女性承担不公平",
+        "onboard_time": 1677730831,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179714,
+        "num": 179714,
+        "word": "文科生转码或成趋势",
+        "onboard_time": 1677687685,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 179271,
+        "num": 179271,
+        "word": "杨幂新片杀青合影",
+        "onboard_time": 1677725668,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168608,
+        "num": 168608,
+        "word": "建议延长男性生育假",
+        "onboard_time": 1677723446,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159043,
+        "num": 159043,
+        "word": "特斯拉Cybertruck将在今年问世",
+        "onboard_time": 1677717569,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 158004,
+        "num": 158004,
+        "word": "杜兰特太阳首秀",
+        "onboard_time": 1677724046,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146373,
+        "num": 146373,
+        "word": "宋旻浩将于3月24日入伍",
+        "onboard_time": 1677725368,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141791,
+        "num": 141791,
+        "word": "王楚然吐槽彭冠英拍照技术",
+        "onboard_time": 1677728909,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127486,
+        "num": 127486,
+        "word": "Angel商城画面弹窗",
+        "onboard_time": 1677730711,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122945,
+        "num": 122945,
+        "word": "重返校园的春天有多美",
+        "onboard_time": 1677727648,
+        "rank": 49,
+        "category": "情感,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦2023年全国两会#"
+    }
+  }
+}
