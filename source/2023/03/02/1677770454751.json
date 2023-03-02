@@ -1,0 +1,410 @@
+{
+  "runTime": 1677770454751,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 599638,
+        "num": 599638,
+        "word": "俞敏洪称不太喜欢狂飙",
+        "onboard_time": 1677745468,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758682,
+        "num": 588741,
+        "word": "BoysPlanet第一次顺位发表",
+        "onboard_time": 1677766111,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50255,
+        "num": 555431,
+        "word": "一图认遍全国春花",
+        "onboard_time": 1677746610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786614,
+        "num": 552453,
+        "word": "爱情公寓林宛瑜扮演者近照",
+        "onboard_time": 1677746552,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 548995,
+        "num": 548995,
+        "word": "见过最离谱的夜市价格",
+        "onboard_time": 1677765269,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1181021,
+        "num": 534349,
+        "word": "迪丽热巴回应前段时间休息是有点疲惫",
+        "onboard_time": 1677761489,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611527,
+        "num": 517689,
+        "word": "薛之谦 这世界病了而我没有妥协",
+        "onboard_time": 1677758190,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498492,
+        "num": 498492,
+        "word": "柳智敏小拇指骨折了",
+        "onboard_time": 1677766291,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485858,
+        "num": 485858,
+        "word": "胡金秋",
+        "onboard_time": 1677766353,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395338,
+        "num": 395338,
+        "word": "公司招聘会计要求必须是A型血",
+        "onboard_time": 1677750271,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1272347,
+        "num": 389820,
+        "word": "香港名媛碎尸案警方再拘一人",
+        "onboard_time": 1677759569,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 382772,
+        "num": 382772,
+        "word": "王子浩29名",
+        "onboard_time": 1677766710,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370785,
+        "num": 370785,
+        "word": "蒋胜男发声反对加班泛滥",
+        "onboard_time": 1677765331,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335940,
+        "num": 335940,
+        "word": "甄子丹说BBC们从不报道真实的中国",
+        "onboard_time": 1677769593,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334762,
+        "num": 334762,
+        "word": "快乐再出发",
+        "onboard_time": 1677768810,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325603,
+        "num": 325603,
+        "word": "当地华人接力守护丫丫",
+        "onboard_time": 1677752553,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319635,
+        "num": 319635,
+        "word": "杨子发视频回应驼毛被事件",
+        "onboard_time": 1677758127,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 275020,
+        "num": 275020,
+        "word": "杨幂王楚然穿了同款",
+        "onboard_time": 1677750569,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267929,
+        "num": 267929,
+        "word": "刘涛直播唱乌梅子酱",
+        "onboard_time": 1677764972,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258008,
+        "num": 258008,
+        "word": "五菱缤果新车来了",
+        "onboard_time": 1677764911,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255234,
+        "num": 255234,
+        "word": "王鹤棣无效握手",
+        "onboard_time": 1677766832,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252098,
+        "num": 252098,
+        "word": "时代少年团全员无发缝",
+        "onboard_time": 1677759569,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246325,
+        "num": 246325,
+        "word": "大卫詹姆斯受伤",
+        "onboard_time": 1677761669,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245574,
+        "num": 245574,
+        "word": "魔咒",
+        "onboard_time": 1677766590,
+        "rank": 23,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 220149,
+        "num": 220149,
+        "word": "商场回应艺术画展被指涉儿童色情",
+        "onboard_time": 1677768511,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251208,
+        "num": 218443,
+        "word": "快乐再出发2收官",
+        "onboard_time": 1677764670,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234531,
+        "num": 217426,
+        "word": "王一博李沁同框路透",
+        "onboard_time": 1677758970,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216054,
+        "num": 216054,
+        "word": "学霸寝室不泡图书馆全员保研名校",
+        "onboard_time": 1677752670,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 215348,
+        "num": 215348,
+        "word": "金星合木星",
+        "onboard_time": 1677764009,
+        "rank": 28,
+        "category": "情感,自然"
+      },
+      {
+        "raw_hot": 100317,
+        "num": 214103,
+        "word": "我国短视频用户规模突破10亿",
+        "onboard_time": 1677752732,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 213993,
+        "num": 213993,
+        "word": "夫妻离婚后发现儿子患自闭症又复婚",
+        "onboard_time": 1677742887,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198096,
+        "num": 198096,
+        "word": "玄商夜昙地下恋情",
+        "onboard_time": 1677765871,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197194,
+        "num": 197194,
+        "word": "女明星捧花头像",
+        "onboard_time": 1677750150,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189702,
+        "num": 189702,
+        "word": "卧龙宣布联动永劫无间",
+        "onboard_time": 1677767011,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188891,
+        "num": 188891,
+        "word": "王勉吐槽王伟",
+        "onboard_time": 1677768570,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166998,
+        "num": 166998,
+        "word": "烽火流金 空降",
+        "onboard_time": 1677745170,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177756,
+        "num": 165945,
+        "word": "邢菲说第一次演现实题材作品",
+        "onboard_time": 1677769769,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161839,
+        "num": 161839,
+        "word": "建议将1000万元作为遗产税起征点",
+        "onboard_time": 1677747632,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158271,
+        "num": 158271,
+        "word": "关晓彤出发巴黎时装周",
+        "onboard_time": 1677755969,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134569,
+        "num": 145666,
+        "word": "中动协称丫丫乐乐或将一起回国",
+        "onboard_time": 1677744931,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145158,
+        "num": 145158,
+        "word": "张艺兴变装教程视频",
+        "onboard_time": 1677770010,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142565,
+        "num": 142565,
+        "word": "宁至谦对阮流筝说带你摘星星去",
+        "onboard_time": 1677768872,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141113,
+        "num": 141113,
+        "word": "重紫登中国妇女报",
+        "onboard_time": 1677770250,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138226,
+        "num": 138226,
+        "word": "肖战欧洲篇vlog",
+        "onboard_time": 1677743307,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 137637,
+        "num": 137637,
+        "word": "你会暗恋一个人十年吗",
+        "onboard_time": 1677748652,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115963,
+        "num": 115963,
+        "word": "狗狗真的被风吹走了",
+        "onboard_time": 1677748892,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110038,
+        "num": 110038,
+        "word": "警惕求稳躺平心态蔓延",
+        "onboard_time": 1677768570,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109313,
+        "num": 109313,
+        "word": "接住江豚吐水柱可爱攻击",
+        "onboard_time": 1677768155,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103845,
+        "num": 103845,
+        "word": "开车的和坐车的都懵了",
+        "onboard_time": 1677750989,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82492,
+        "num": 82492,
+        "word": "建议第三胎孩子教育全免费",
+        "onboard_time": 1677744510,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#看中国式现代化图景#"
+    }
+  }
+}

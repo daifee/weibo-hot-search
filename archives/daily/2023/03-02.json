@@ -1,6 +1,6 @@
 {
   "startTime": 1677688085914,
-  "endTime": 1677767757945,
+  "endTime": 1677770454751,
   "band_list": [
     {
       "raw_hot": 2946066,
@@ -547,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548995,
+      "num": 548995,
+      "word": "见过最离谱的夜市价格",
+      "onboard_time": 1677765269,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 547743,
       "num": 410926,
       "word": "王子浩29名",
@@ -633,6 +641,14 @@
       "onboard_time": 1677748652,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 485858,
+      "num": 485858,
+      "word": "胡金秋",
+      "onboard_time": 1677766353,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 485398,
@@ -803,22 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 419832,
-      "num": 406498,
-      "word": "见过最离谱的夜市价格",
-      "onboard_time": 1677765269,
-      "rank": 30,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 405713,
-      "num": 405713,
-      "word": "胡金秋",
-      "onboard_time": 1677766353,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 400502,
       "num": 400502,
       "word": "安乐传制片人",
@@ -849,6 +849,14 @@
       "onboard_time": 1677714145,
       "rank": 12,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 370785,
+      "num": 370785,
+      "word": "蒋胜男发声反对加班泛滥",
+      "onboard_time": 1677765331,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363721,
@@ -915,6 +923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 335940,
+      "num": 335940,
+      "word": "甄子丹说BBC们从不报道真实的中国",
+      "onboard_time": 1677769593,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335176,
       "num": 335176,
       "word": "kep1er将于4月10日回归",
@@ -929,6 +945,14 @@
       "onboard_time": 1677718410,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334762,
+      "num": 334762,
+      "word": "快乐再出发",
+      "onboard_time": 1677768810,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 332700,
@@ -1147,12 +1171,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 259759,
-      "num": 259759,
-      "word": "蒋胜男发声反对加班泛滥",
-      "onboard_time": 1677765331,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 255234,
+      "num": 255234,
+      "word": "王鹤棣无效握手",
+      "onboard_time": 1677766832,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 254008,
@@ -1203,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245574,
+      "num": 245574,
+      "word": "魔咒",
+      "onboard_time": 1677766590,
+      "rank": 47,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 245122,
       "num": 245122,
       "word": "动物园称未收到丫丫提早回国消息",
@@ -1225,14 +1257,6 @@
       "onboard_time": 1677730351,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 242435,
-      "num": 242435,
-      "word": "魔咒",
-      "onboard_time": 1677766590,
-      "rank": 47,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 241069,
@@ -1347,12 +1371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219081,
-      "num": 219081,
-      "word": "王鹤棣无效握手",
-      "onboard_time": 1677766832,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 220149,
+      "num": 220149,
+      "word": "商场回应艺术画展被指涉儿童色情",
+      "onboard_time": 1677768511,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218166,
@@ -1547,6 +1571,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189702,
+      "num": 189702,
+      "word": "卧龙宣布联动永劫无间",
+      "onboard_time": 1677767011,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 188891,
+      "num": 188891,
+      "word": "王勉吐槽王伟",
+      "onboard_time": 1677768570,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188141,
       "num": 138381,
       "word": "推特崩了",
@@ -1627,6 +1667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177756,
+      "num": 165945,
+      "word": "邢菲说第一次演现实题材作品",
+      "onboard_time": 1677769769,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177006,
       "num": 177006,
       "word": "胡锡进谈调整休假安排建议",
@@ -1657,14 +1705,6 @@
       "onboard_time": 1677748531,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169818,
-      "num": 169818,
-      "word": "卧龙宣布联动永劫无间",
-      "onboard_time": 1677767011,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 169731,
@@ -1779,6 +1819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145158,
+      "num": 145158,
+      "word": "张艺兴变装教程视频",
+      "onboard_time": 1677770010,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144753,
       "num": 144753,
       "word": "林高远3比1莱贝松",
@@ -1803,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142565,
+      "num": 142565,
+      "word": "宁至谦对阮流筝说带你摘星星去",
+      "onboard_time": 1677768872,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141805,
       "num": 141805,
       "word": "急诊科医生与外卖小哥的共同点找到了",
@@ -1816,6 +1872,14 @@
       "word": "王楚然吐槽彭冠英拍照技术",
       "onboard_time": 1677728909,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 141113,
+      "num": 141113,
+      "word": "重紫登中国妇女报",
+      "onboard_time": 1677770250,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -2009,6 +2073,22 @@
       "onboard_time": 1677726447,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110038,
+      "num": 110038,
+      "word": "警惕求稳躺平心态蔓延",
+      "onboard_time": 1677768570,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109313,
+      "num": 109313,
+      "word": "接住江豚吐水柱可爱攻击",
+      "onboard_time": 1677768155,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105304,

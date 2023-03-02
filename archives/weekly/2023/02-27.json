@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677767757945,
+  "endTime": 1677770454751,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -2419,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548995,
+      "num": 548995,
+      "word": "见过最离谱的夜市价格",
+      "onboard_time": 1677765269,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 547743,
       "num": 410926,
       "word": "王子浩29名",
@@ -2809,6 +2817,14 @@
       "onboard_time": 1677584370,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 485858,
+      "num": 485858,
+      "word": "胡金秋",
+      "onboard_time": 1677766353,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 485398,
@@ -3339,14 +3355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419832,
-      "num": 406498,
-      "word": "见过最离谱的夜市价格",
-      "onboard_time": 1677765269,
-      "rank": 30,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 418405,
       "num": 418405,
       "word": "杨幂费加罗男士3月封面预告视频",
@@ -3449,14 +3457,6 @@
       "onboard_time": 1677648329,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 405713,
-      "num": 405713,
-      "word": "胡金秋",
-      "onboard_time": 1677766353,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 404735,
@@ -3729,6 +3729,14 @@
       "onboard_time": 1677474033,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 370785,
+      "num": 370785,
+      "word": "蒋胜男发声反对加班泛滥",
+      "onboard_time": 1677765331,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369458,
@@ -4067,6 +4075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335940,
+      "num": 335940,
+      "word": "甄子丹说BBC们从不报道真实的中国",
+      "onboard_time": 1677769593,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335617,
       "num": 335617,
       "word": "杨紫金世佳199爱同框",
@@ -4097,6 +4113,14 @@
       "onboard_time": 1677465628,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334762,
+      "num": 334762,
+      "word": "快乐再出发",
+      "onboard_time": 1677768810,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 333806,
@@ -4987,14 +5011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 259759,
-      "num": 259759,
-      "word": "蒋胜男发声反对加班泛滥",
-      "onboard_time": 1677765331,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257983,
       "num": 257983,
       "word": "两会",
@@ -5009,6 +5025,14 @@
       "onboard_time": 1677565648,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 255234,
+      "num": 255234,
+      "word": "王鹤棣无效握手",
+      "onboard_time": 1677766832,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 254347,
@@ -5147,6 +5171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245574,
+      "num": 245574,
+      "word": "魔咒",
+      "onboard_time": 1677766590,
+      "rank": 47,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 245186,
       "num": 245186,
       "word": "父母矮孩子一定矮吗",
@@ -5169,14 +5201,6 @@
       "onboard_time": 1677730351,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 242435,
-      "num": 242435,
-      "word": "魔咒",
-      "onboard_time": 1677766590,
-      "rank": 47,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 241892,
@@ -5507,6 +5531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220149,
+      "num": 220149,
+      "word": "商场回应艺术画展被指涉儿童色情",
+      "onboard_time": 1677768511,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220032,
       "num": 220032,
       "word": "夜班经理",
@@ -5521,14 +5553,6 @@
       "onboard_time": 1677487650,
       "rank": 28,
       "category": "时尚,美妆"
-    },
-    {
-      "raw_hot": 219081,
-      "num": 219081,
-      "word": "王鹤棣无效握手",
-      "onboard_time": 1677766832,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 219029,
@@ -6523,6 +6547,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189702,
+      "num": 189702,
+      "word": "卧龙宣布联动永劫无间",
+      "onboard_time": 1677767011,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 188891,
+      "num": 188891,
+      "word": "王勉吐槽王伟",
+      "onboard_time": 1677768570,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188801,
       "num": 188801,
       "word": "利拉德13记三分",
@@ -6731,6 +6771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177756,
+      "num": 165945,
+      "word": "邢菲说第一次演现实题材作品",
+      "onboard_time": 1677769769,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175728,
       "num": 175728,
       "word": "2023LPL春季赛",
@@ -6801,14 +6849,6 @@
       "onboard_time": 1677748531,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169818,
-      "num": 169818,
-      "word": "卧龙宣布联动永劫无间",
-      "onboard_time": 1677767011,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 169731,
@@ -7291,6 +7331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145158,
+      "num": 145158,
+      "word": "张艺兴变装教程视频",
+      "onboard_time": 1677770010,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144753,
       "num": 144753,
       "word": "林高远3比1莱贝松",
@@ -7323,6 +7371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142565,
+      "num": 142565,
+      "word": "宁至谦对阮流筝说带你摘星星去",
+      "onboard_time": 1677768872,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142456,
       "num": 142456,
       "word": "100天可以有无限可能",
@@ -7353,6 +7409,14 @@
       "onboard_time": 1677654147,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141113,
+      "num": 141113,
+      "word": "重紫登中国妇女报",
+      "onboard_time": 1677770250,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 140315,
@@ -7987,6 +8051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110038,
+      "num": 110038,
+      "word": "警惕求稳躺平心态蔓延",
+      "onboard_time": 1677768570,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109807,
       "num": 109807,
       "word": "乌克兰回应泽连斯基替身",
@@ -8001,6 +8073,14 @@
       "onboard_time": 1677462087,
       "rank": 47,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 109313,
+      "num": 109313,
+      "word": "接住江豚吐水柱可爱攻击",
+      "onboard_time": 1677768155,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106799,
