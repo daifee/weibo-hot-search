@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677746405216,
+  "endTime": 1677748790623,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -41,6 +41,14 @@
       "onboard_time": 1677717809,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2854611,
+      "num": 2854611,
+      "word": "爱情公寓林宛瑜扮演者近照",
+      "onboard_time": 1677746552,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2587201,
@@ -435,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1009352,
+      "num": 1009352,
+      "word": "俞敏洪称不太喜欢狂飙",
+      "onboard_time": 1677745468,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 989961,
       "num": 541904,
       "word": "儿子篮球班倒闭家长掏1000万买下",
@@ -643,8 +659,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 754547,
-      "num": 754547,
+      "raw_hot": 755338,
+      "num": 755338,
       "word": "中动协称丫丫乐乐或将一起回国",
       "onboard_time": 1677744931,
       "rank": 13,
@@ -737,6 +753,14 @@
       "onboard_time": 1677628287,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 720590,
+      "num": 720590,
+      "word": "建议第三胎孩子教育全免费",
+      "onboard_time": 1677744510,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 719737,
@@ -905,14 +929,6 @@
       "onboard_time": 1677680551,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 645952,
-      "num": 645952,
-      "word": "建议第三胎孩子教育全免费",
-      "onboard_time": 1677744510,
-      "rank": 11,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 640354,
@@ -1161,6 +1177,14 @@
       "onboard_time": 1677716549,
       "rank": 8,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 511312,
+      "num": 511312,
+      "word": "原来白米粥还能涮火锅",
+      "onboard_time": 1677746733,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 508720,
@@ -1531,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386377,
-      "num": 386377,
-      "word": "俞敏洪称不太喜欢狂飙",
-      "onboard_time": 1677745468,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 385885,
       "num": 385885,
       "word": "甲流",
@@ -1585,6 +1601,14 @@
       "onboard_time": 1677636451,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 372691,
+      "num": 343368,
+      "word": "建议将1000万元作为遗产税起征点",
+      "onboard_time": 1677747632,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372688,
@@ -2091,20 +2115,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265139,
+      "num": 265139,
+      "word": "于和伟说三体涨分像涨工资",
+      "onboard_time": 1677745950,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262525,
       "num": 236337,
       "word": "理发店宠物狗未栓绳店主被城管掌掴",
       "onboard_time": 1677716072,
       "rank": 21,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 258681,
-      "num": 185439,
-      "word": "于和伟说三体涨分像涨工资",
-      "onboard_time": 1677745950,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 257983,
@@ -2161,6 +2185,14 @@
       "onboard_time": 1677713000,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250943,
+      "num": 250943,
+      "word": "光渊",
+      "onboard_time": 1677748592,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 250715,
@@ -2467,6 +2499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212625,
+      "num": 212625,
+      "word": "杭州亚运与微博战略合作签约",
+      "onboard_time": 1677748233,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211015,
       "num": 211015,
       "word": "双休日对打工人有多重要",
@@ -2763,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190016,
+      "num": 175199,
+      "word": "诸葛宇杰任湖北省委副书记",
+      "onboard_time": 1677747153,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189907,
       "num": 189907,
       "word": "张杰未live曜北斗巡回演唱会",
@@ -2897,6 +2945,14 @@
       "onboard_time": 1677654748,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173371,
+      "num": 173371,
+      "word": "周鸿祎称大学生可做人工智能训练师",
+      "onboard_time": 1677748772,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173039,
@@ -3107,12 +3163,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144753,
+      "num": 144753,
+      "word": "林高远3比1莱贝松",
+      "onboard_time": 1677747092,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144048,
       "num": 144048,
       "word": "中国小将顶峰相见",
       "onboard_time": 1677727408,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143066,
+      "num": 143066,
+      "word": "你会暗恋一个人十年吗",
+      "onboard_time": 1677748652,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 141826,
+      "num": 1143671,
+      "word": "一图认遍全国春花",
+      "onboard_time": 1677746610,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141791,
@@ -3211,6 +3291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135715,
+      "num": 135715,
+      "word": "美国一大学课堂播放步步惊心",
+      "onboard_time": 1677747092,
+      "rank": 38,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 135295,
       "num": 135295,
       "word": "建议把抑郁症治疗纳入医保",
@@ -3307,6 +3395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125817,
+      "num": 125817,
+      "word": "TWICE新歌初舞台直拍",
+      "onboard_time": 1677748172,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 125142,
       "num": 29023,
       "word": "刘耀文三月随拍",
@@ -3353,6 +3449,14 @@
       "onboard_time": 1677740007,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118909,
+      "num": 118909,
+      "word": "有哪些巨好用的防晒霜",
+      "onboard_time": 1677748531,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117243,
@@ -3425,6 +3529,14 @@
       "onboard_time": 1677726447,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112169,
+      "num": 112169,
+      "word": "大侦探无名联动",
+      "onboard_time": 1677748652,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 110825,
@@ -3828,6 +3940,9 @@
     },
     {
       "word": "#中白友谊牢不可破#"
+    },
+    {
+      "word": "#看中国式现代化图景#"
     }
   ]
 }

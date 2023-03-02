@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677746405216,
+  "endTime": 1677748790623,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -95,6 +95,14 @@
       "num": 2866827,
       "word": "白夜追凶2",
       "onboard_time": 1677588088,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 2854611,
+      "num": 2854611,
+      "word": "爱情公寓林宛瑜扮演者近照",
+      "onboard_time": 1677746552,
       "rank": 0,
       "category": "影视"
     },
@@ -1019,6 +1027,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1009352,
+      "num": 1009352,
+      "word": "俞敏洪称不太喜欢狂飙",
+      "onboard_time": 1677745468,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 993531,
       "num": 993531,
       "word": "高叶曾出演鹿晗勋章的MV",
@@ -1483,8 +1499,8 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 754547,
-      "num": 754547,
+      "raw_hot": 755338,
+      "num": 755338,
       "word": "中动协称丫丫乐乐或将一起回国",
       "onboard_time": 1677744931,
       "rank": 13,
@@ -1641,6 +1657,14 @@
       "onboard_time": 1677628287,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 720590,
+      "num": 720590,
+      "word": "建议第三胎孩子教育全免费",
+      "onboard_time": 1677744510,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 719737,
@@ -1913,14 +1937,6 @@
       "onboard_time": 1677680551,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 645952,
-      "num": 645952,
-      "word": "建议第三胎孩子教育全免费",
-      "onboard_time": 1677744510,
-      "rank": 11,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 644982,
@@ -2473,6 +2489,14 @@
       "onboard_time": 1677716549,
       "rank": 8,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 511312,
+      "num": 511312,
+      "word": "原来白米粥还能涮火锅",
+      "onboard_time": 1677746733,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 509289,
@@ -3355,14 +3379,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 386377,
-      "num": 386377,
-      "word": "俞敏洪称不太喜欢狂飙",
-      "onboard_time": 1677745468,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 386314,
       "num": 386314,
       "word": "奥司他韦周搜索暴涨1150%",
@@ -3465,6 +3481,14 @@
       "onboard_time": 1677636451,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 372691,
+      "num": 343368,
+      "word": "建议将1000万元作为遗产税起征点",
+      "onboard_time": 1677747632,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372688,
@@ -4611,6 +4635,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 265139,
+      "num": 265139,
+      "word": "于和伟说三体涨分像涨工资",
+      "onboard_time": 1677745950,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262864,
       "num": 252120,
       "word": "没有情救妻破产",
@@ -4656,14 +4688,6 @@
       "word": "星落凝成糖登顶猫眼剧集热度榜",
       "onboard_time": 1677589110,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 258681,
-      "num": 185439,
-      "word": "于和伟说三体涨分像涨工资",
-      "onboard_time": 1677745950,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -4745,6 +4769,14 @@
       "onboard_time": 1677713000,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250943,
+      "num": 250943,
+      "word": "光渊",
+      "onboard_time": 1677748592,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 250216,
@@ -5273,6 +5305,14 @@
       "onboard_time": 1677512788,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212625,
+      "num": 212625,
+      "word": "杭州亚运与微博战略合作签约",
+      "onboard_time": 1677748233,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 211015,
@@ -6003,6 +6043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190016,
+      "num": 175199,
+      "word": "诸葛宇杰任湖北省委副书记",
+      "onboard_time": 1677747153,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189907,
       "num": 189907,
       "word": "张杰未live曜北斗巡回演唱会",
@@ -6240,6 +6288,14 @@
       "word": "异地就医备案能在手机上办了",
       "onboard_time": 1677548907,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173371,
+      "num": 173371,
+      "word": "周鸿祎称大学生可做人工智能训练师",
+      "onboard_time": 1677748772,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -6715,6 +6771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144753,
+      "num": 144753,
+      "word": "林高远3比1莱贝松",
+      "onboard_time": 1677747092,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144739,
       "num": 144739,
       "word": "需要去看医生的呼噜声什么样",
@@ -6731,12 +6795,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143066,
+      "num": 143066,
+      "word": "你会暗恋一个人十年吗",
+      "onboard_time": 1677748652,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142456,
       "num": 142456,
       "word": "100天可以有无限可能",
       "onboard_time": 1677478948,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 141826,
+      "num": 1143671,
+      "word": "一图认遍全国春花",
+      "onboard_time": 1677746610,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141791,
@@ -6899,6 +6979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135715,
+      "num": 135715,
+      "word": "美国一大学课堂播放步步惊心",
+      "onboard_time": 1677747092,
+      "rank": 38,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 135064,
       "num": 135064,
       "word": "看得出外公已经尽力了",
@@ -7035,6 +7123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125817,
+      "num": 125817,
+      "word": "TWICE新歌初舞台直拍",
+      "onboard_time": 1677748172,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 125665,
       "num": 1717425,
       "word": "加油中国人",
@@ -7163,6 +7259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118909,
+      "num": 118909,
+      "word": "有哪些巨好用的防晒霜",
+      "onboard_time": 1677748531,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117243,
       "num": 117243,
       "word": "勇士战胜开拓者",
@@ -7281,6 +7385,14 @@
       "onboard_time": 1677726447,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112169,
+      "num": 112169,
+      "word": "大侦探无名联动",
+      "onboard_time": 1677748652,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 111843,
