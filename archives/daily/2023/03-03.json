@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677777505351,
+  "endTime": 1677778549748,
   "band_list": [
     {
       "raw_hot": 964016,
@@ -140,11 +140,19 @@
     },
     {
       "raw_hot": 216827,
-      "num": 141556,
+      "num": 209403,
       "word": "王嘉尔和好友见面视频",
       "onboard_time": 1677775460,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213249,
+      "num": 213249,
+      "word": "B站称三体动画引中国式科幻热潮",
+      "onboard_time": 1677775580,
+      "rank": 7,
+      "category": "动漫,科技"
     },
     {
       "raw_hot": 205919,
@@ -169,14 +177,6 @@
       "onboard_time": 1677750271,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190052,
-      "num": 190052,
-      "word": "B站称三体动画引中国式科幻热潮",
-      "onboard_time": 1677775580,
-      "rank": 7,
-      "category": "动漫,科技"
     },
     {
       "raw_hot": 169733,
