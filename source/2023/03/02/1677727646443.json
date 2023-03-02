@@ -1,0 +1,410 @@
+{
+  "runTime": 1677727646443,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1775877,
+        "num": 1775877,
+        "word": "冯禧 打码",
+        "onboard_time": 1677717809,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1614482,
+        "num": 1614482,
+        "word": "女子曝杨子直播间卖的被子里全是头发",
+        "onboard_time": 1677724947,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 63109,
+        "num": 1230401,
+        "word": "9图了解政协知识点",
+        "onboard_time": 1677727107,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1039348,
+        "num": 1039348,
+        "word": "李敏镐被追缴数亿韩元",
+        "onboard_time": 1677722485,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 948483,
+        "num": 948483,
+        "word": "梅西买苹果手机送给队友",
+        "onboard_time": 1677724286,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 853072,
+        "num": 853072,
+        "word": "每天睡4个小时属于睡眠不足",
+        "onboard_time": 1677725188,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779820,
+        "num": 779820,
+        "word": "为什么有些人晚睡早起还精力充沛",
+        "onboard_time": 1677723806,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654544,
+        "num": 654544,
+        "word": "老师被指侵占学生雕塑冒名参展",
+        "onboard_time": 1677723147,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 585063,
+        "num": 585063,
+        "word": "高启兰被粉丝狂叫金丝老婆",
+        "onboard_time": 1677725308,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 522306,
+        "num": 522306,
+        "word": "张大大2月全平台涨粉最多艺人",
+        "onboard_time": 1677725368,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1059046,
+        "num": 512567,
+        "word": "肖战去了西班牙阶梯",
+        "onboard_time": 1677726508,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502611,
+        "num": 502611,
+        "word": "不良人",
+        "onboard_time": 1677724465,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 487677,
+        "num": 487677,
+        "word": "张柏芝与二儿子同框比心",
+        "onboard_time": 1677720806,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474820,
+        "num": 474820,
+        "word": "电影忠犬八公定档",
+        "onboard_time": 1677721707,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 463859,
+        "num": 463859,
+        "word": "1家3口同月同日生日",
+        "onboard_time": 1677725787,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439737,
+        "num": 439737,
+        "word": "泸定地震民宿老板3000万投资打水漂",
+        "onboard_time": 1677720747,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417771,
+        "num": 417771,
+        "word": "张颂文希望大家不要再接机",
+        "onboard_time": 1677712761,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378712,
+        "num": 378712,
+        "word": "李飞真会省钱",
+        "onboard_time": 1677723147,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335997,
+        "num": 335997,
+        "word": "建议延长男性生育假",
+        "onboard_time": 1677723446,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332700,
+        "num": 332700,
+        "word": "杨紫199爱哭戏",
+        "onboard_time": 1677725488,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315396,
+        "num": 315396,
+        "word": "儿子篮球班倒闭家长掏1000万买下",
+        "onboard_time": 1677712400,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313965,
+        "num": 313965,
+        "word": "gidle将于四五月间回归",
+        "onboard_time": 1677725368,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298994,
+        "num": 298994,
+        "word": "RNG老板道歉",
+        "onboard_time": 1677718529,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253664,
+        "num": 253664,
+        "word": "特斯拉潮州事故车主不服鉴定",
+        "onboard_time": 1677716549,
+        "rank": 23,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 248021,
+        "num": 248021,
+        "word": "文科生转码或成趋势",
+        "onboard_time": 1677687685,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 228692,
+        "num": 228692,
+        "word": "杜兰特太阳首秀",
+        "onboard_time": 1677724046,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223480,
+        "num": 223480,
+        "word": "专家称双休制度很难被改变",
+        "onboard_time": 1677713484,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219334,
+        "num": 219334,
+        "word": "宋旻浩将于3月24日入伍",
+        "onboard_time": 1677725368,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213847,
+        "num": 213847,
+        "word": "杨幂新片杀青合影",
+        "onboard_time": 1677725668,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213641,
+        "num": 213641,
+        "word": "特斯拉Cybertruck将在今年问世",
+        "onboard_time": 1677717569,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 193454,
+        "num": 193454,
+        "word": "谢可寅巴黎时装周生图",
+        "onboard_time": 1677722367,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190752,
+        "num": 190752,
+        "word": "建议辅助生殖技术进医保",
+        "onboard_time": 1677727229,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183680,
+        "num": 183680,
+        "word": "明日方舟",
+        "onboard_time": 1677727168,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170343,
+        "num": 170343,
+        "word": "贝克街的亡灵定档",
+        "onboard_time": 1677727526,
+        "rank": 33,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 163605,
+        "num": 163605,
+        "word": "建议适度提高醉驾入刑标准",
+        "onboard_time": 1677726086,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150117,
+        "num": 150117,
+        "word": "TTG拉票放大招了",
+        "onboard_time": 1677725308,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146888,
+        "num": 146888,
+        "word": "美国流浪汉被当街处决式射杀",
+        "onboard_time": 1677686724,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133548,
+        "num": 133548,
+        "word": "建议出台反网络暴力法",
+        "onboard_time": 1677727349,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125552,
+        "num": 125552,
+        "word": "金龟子如何看待女儿早恋",
+        "onboard_time": 1677714145,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 125069,
+        "num": 125069,
+        "word": "YG新女团成员HARAM介绍视频",
+        "onboard_time": 1677723028,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122092,
+        "num": 122092,
+        "word": "特斯拉投资者日",
+        "onboard_time": 1677712641,
+        "rank": 40,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 121165,
+        "num": 121165,
+        "word": "母亲去世妹妹含泪背姐姐出嫁",
+        "onboard_time": 1677713000,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114358,
+        "num": 114358,
+        "word": "宋茜路演现场因雪莉落泪",
+        "onboard_time": 1677675990,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112657,
+        "num": 112657,
+        "word": "中国小将顶峰相见",
+        "onboard_time": 1677727408,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112446,
+        "num": 112446,
+        "word": "像极了被领导训话时的你",
+        "onboard_time": 1677726447,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105220,
+        "num": 105220,
+        "word": "理发店宠物狗未栓绳店主被城管掌掴",
+        "onboard_time": 1677716072,
+        "rank": 45,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 104500,
+        "num": 104500,
+        "word": "浙江女子追到广州找到被偷的爱猫",
+        "onboard_time": 1677695953,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100403,
+        "num": 100403,
+        "word": "特斯拉人形机器人自己造自己",
+        "onboard_time": 1677719186,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 95207,
+        "num": 95207,
+        "word": "人大代表建议在幼儿园实施全面性教育",
+        "onboard_time": 1677716729,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95030,
+        "num": 95030,
+        "word": "建议不得将年龄作为招聘辞退红线",
+        "onboard_time": 1677684388,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在创造性实践中探索中国式现代化#"
+    }
+  }
+}

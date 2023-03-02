@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677726352053,
+  "endTime": 1677727646443,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -353,6 +353,14 @@
       "onboard_time": 1677468930,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1614482,
+      "num": 1614482,
+      "word": "女子曝杨子直播间卖的被子里全是头发",
+      "onboard_time": 1677724947,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1605241,
@@ -867,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1059046,
+      "num": 512567,
+      "word": "肖战去了西班牙阶梯",
+      "onboard_time": 1677726508,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1056716,
       "num": 1056716,
       "word": "如果执行八小时工作双休会怎样",
@@ -979,14 +995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 963234,
-      "num": 488386,
-      "word": "女子曝杨子直播间卖的被子里全是头发",
-      "onboard_time": 1677724947,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 962041,
       "num": 962041,
       "word": "建议农村推行低彩礼零彩礼",
@@ -1027,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 948483,
+      "num": 948483,
+      "word": "梅西买苹果手机送给队友",
+      "onboard_time": 1677724286,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 932170,
       "num": 413719,
       "word": "蔡天凤或因硬物撞击耳后致命",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1677488371,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 914573,
-      "num": 914573,
-      "word": "梅西买苹果手机送给队友",
-      "onboard_time": 1677724286,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 911300,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1677569728,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 853072,
+      "num": 853072,
+      "word": "每天睡4个小时属于睡眠不足",
+      "onboard_time": 1677725188,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 852499,
@@ -1297,6 +1313,14 @@
       "onboard_time": 1677513509,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 779820,
+      "num": 779820,
+      "word": "为什么有些人晚睡早起还精力充沛",
+      "onboard_time": 1677723806,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 772455,
@@ -1675,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 654544,
+      "num": 654544,
+      "word": "老师被指侵占学生雕塑冒名参展",
+      "onboard_time": 1677723147,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 653037,
       "num": 653037,
       "word": "建议第三孩从幼儿园到高中免费教育",
@@ -1771,14 +1803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 613444,
-      "num": 613444,
-      "word": "为什么有些人晚睡早起还精力充沛",
-      "onboard_time": 1677723806,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 612406,
       "num": 612406,
       "word": "杨紫琼美国演员工会奖影后",
@@ -1841,14 +1865,6 @@
       "onboard_time": 1677647731,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 598315,
-      "num": 598315,
-      "word": "老师被指侵占学生雕塑冒名参展",
-      "onboard_time": 1677723147,
-      "rank": 7,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 587559,
@@ -2331,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502611,
+      "num": 502611,
+      "word": "不良人",
+      "onboard_time": 1677724465,
+      "rank": 13,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 497634,
       "num": 497634,
       "word": "刘涛芭比粉喇叭裤造型",
@@ -2369,14 +2393,6 @@
       "onboard_time": 1677422972,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 490097,
-      "num": 490097,
-      "word": "不良人",
-      "onboard_time": 1677724465,
-      "rank": 13,
-      "category": "动漫"
     },
     {
       "raw_hot": 487288,
@@ -2481,6 +2497,14 @@
       "onboard_time": 1677556649,
       "rank": 19,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 463859,
+      "num": 463859,
+      "word": "1家3口同月同日生日",
+      "onboard_time": 1677725787,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463063,
@@ -2849,14 +2873,6 @@
       "onboard_time": 1677565169,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 408073,
-      "num": 408073,
-      "word": "每天睡4个小时属于睡眠不足",
-      "onboard_time": 1677725188,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407423,
@@ -3491,6 +3507,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 332700,
+      "num": 332700,
+      "word": "杨紫199爱哭戏",
+      "onboard_time": 1677725488,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332324,
       "num": 332324,
       "word": "瞬息全宇宙",
@@ -3643,6 +3667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313965,
+      "num": 313965,
+      "word": "gidle将于四五月间回归",
+      "onboard_time": 1677725368,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 312656,
       "num": 312656,
       "word": "华晨宇2023年演唱会官宣",
@@ -3673,14 +3705,6 @@
       "onboard_time": 1677646712,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 311314,
-      "num": 311314,
-      "word": "gidle将于四五月间回归",
-      "onboard_time": 1677725368,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 310899,
@@ -4057,14 +4081,6 @@
       "onboard_time": 1677553347,
       "rank": 23,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 280570,
-      "num": 280570,
-      "word": "杨紫199爱哭戏",
-      "onboard_time": 1677725488,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 278363,
@@ -4779,14 +4795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211822,
-      "num": 211822,
-      "word": "1家3口同月同日生日",
-      "onboard_time": 1677725787,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211015,
       "num": 211015,
       "word": "双休日对打工人有多重要",
@@ -5427,6 +5435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190752,
+      "num": 190752,
+      "word": "建议辅助生殖技术进医保",
+      "onboard_time": 1677727229,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190700,
       "num": 190700,
       "word": "AppleMusic被欧盟指控垄断",
@@ -5731,6 +5747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170343,
+      "num": 170343,
+      "word": "贝克街的亡灵定档",
+      "onboard_time": 1677727526,
+      "rank": 33,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 169298,
       "num": 149292,
       "word": "秘鲁男子将木乃伊当女友每天同睡",
@@ -5816,6 +5840,14 @@
       "word": "阿克苏5.1级地震",
       "onboard_time": 1677457169,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163605,
+      "num": 163605,
+      "word": "建议适度提高醉驾入刑标准",
+      "onboard_time": 1677726086,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6315,6 +6347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133548,
+      "num": 133548,
+      "word": "建议出台反网络暴力法",
+      "onboard_time": 1677727349,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132800,
       "num": 132800,
       "word": "祝绪丹羽毛流光裙夜景随拍",
@@ -6627,6 +6667,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 112657,
+      "num": 112657,
+      "word": "中国小将顶峰相见",
+      "onboard_time": 1677727408,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112446,
+      "num": 112446,
+      "word": "像极了被领导训话时的你",
+      "onboard_time": 1677726447,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111843,
       "num": 111843,
       "word": "小熊猫美美",
@@ -6776,14 +6832,6 @@
       "word": "缉毒民警急速追击冲卡毒贩",
       "onboard_time": 1677478829,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101754,
-      "num": 101754,
-      "word": "建议适度提高醉驾入刑标准",
-      "onboard_time": 1677726086,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -7113,6 +7161,14 @@
       "onboard_time": 1677419853,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63109,
+      "num": 1230401,
+      "word": "9图了解政协知识点",
+      "onboard_time": 1677727107,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 62972,
