@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677785616141,
+  "endTime": 1677788484698,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -8811,6 +8811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22139,
+      "num": 22139,
+      "word": "大学每月生活费多少才够用",
+      "onboard_time": 1677787751,
+      "rank": 21,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 21307,
       "num": 27170,
       "word": "TTG连追三局获胜",
@@ -8825,6 +8833,14 @@
       "onboard_time": 1677583231,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 18697,
+      "num": 18697,
+      "word": "建议学前教育纳入义务教育",
+      "onboard_time": 1677787214,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17767,
