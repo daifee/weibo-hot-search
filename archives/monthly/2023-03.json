@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677771412549,
+  "endTime": 1677774483034,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -675,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813008,
+      "num": 243209,
+      "word": "在双亲的遗物中发现自己的领养证",
+      "onboard_time": 1677771752,
+      "rank": 10,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 791211,
       "num": 791211,
       "word": "建议将1000万元作为遗产税起征点",
@@ -969,6 +977,14 @@
       "onboard_time": 1677662069,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 656877,
+      "num": 656877,
+      "word": "太阳的后裔KBS50周年最佳电视剧",
+      "onboard_time": 1677771207,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 654544,
@@ -1315,6 +1331,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 522335,
+      "num": 235555,
+      "word": "无锡销毁首批涉疫个人数据10亿条",
+      "onboard_time": 1677771629,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519354,
       "num": 519354,
       "word": "为什么找工作要双休的",
@@ -1412,7 +1436,7 @@
     },
     {
       "raw_hot": 485243,
-      "num": 361364,
+      "num": 377349,
       "word": "甄子丹说BBC们从不报道真实的中国",
       "onboard_time": 1677769593,
       "rank": 13,
@@ -1489,6 +1513,14 @@
       "onboard_time": 1677739705,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459927,
+      "num": 231272,
+      "word": "关晓彤荧光绿短裙",
+      "onboard_time": 1677773485,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 457564,
@@ -1747,6 +1779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 405683,
+      "num": 363437,
+      "word": "商场回应艺术画展被指涉儿童色情",
+      "onboard_time": 1677768511,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401518,
       "num": 401518,
       "word": "公诉精英",
@@ -1873,14 +1913,6 @@
       "onboard_time": 1677735628,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 363437,
-      "num": 363437,
-      "word": "商场回应艺术画展被指涉儿童色情",
-      "onboard_time": 1677768511,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362753,
@@ -2547,6 +2579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 248922,
+      "num": 224275,
+      "word": "李俊昊采访谈林允儿",
+      "onboard_time": 1677772588,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 247509,
       "num": 247509,
       "word": "急诊科医生与外卖小哥的共同点找到了",
@@ -2785,6 +2825,14 @@
       "onboard_time": 1677639328,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223484,
+      "num": 223484,
+      "word": "陈楚生苏醒王铮亮合唱海上花",
+      "onboard_time": 1677773664,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 223446,
@@ -3120,6 +3168,14 @@
       "word": "BoysPlanet",
       "onboard_time": 1677766111,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198676,
+      "num": 198676,
+      "word": "韩维辰第四",
+      "onboard_time": 1677773246,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -3707,6 +3763,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 148736,
+      "num": 148736,
+      "word": "进击的巨人",
+      "onboard_time": 1677773604,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 147793,
       "num": 147793,
       "word": "山姆回应顾客买到1天后上市的鸡爪",
@@ -3979,14 +4043,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 127368,
-      "num": 127368,
-      "word": "太阳的后裔KBS50周年最佳电视剧",
-      "onboard_time": 1677771207,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 126078,
       "num": 126078,
       "word": "朴敏赫退队",
@@ -4089,6 +4145,14 @@
       "onboard_time": 1677737546,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 116077,
+      "num": 116077,
+      "word": "王源读粉丝信",
+      "onboard_time": 1677772827,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 115177,

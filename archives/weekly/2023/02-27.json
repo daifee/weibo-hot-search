@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677771412549,
+  "endTime": 1677774483034,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -1475,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813008,
+      "num": 243209,
+      "word": "在双亲的遗物中发现自己的领养证",
+      "onboard_time": 1677771752,
+      "rank": 10,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 811765,
       "num": 811765,
       "word": "把孩子养到18岁平均成本近50万",
@@ -1961,6 +1969,14 @@
       "onboard_time": 1677662069,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 656877,
+      "num": 656877,
+      "word": "太阳的后裔KBS50周年最佳电视剧",
+      "onboard_time": 1677771207,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 654544,
@@ -2603,6 +2619,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 522335,
+      "num": 235555,
+      "word": "无锡销毁首批涉疫个人数据10亿条",
+      "onboard_time": 1677771629,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520339,
       "num": 520339,
       "word": "山姆回应顾客买到1天后上市的鸡爪",
@@ -2836,7 +2860,7 @@
     },
     {
       "raw_hot": 485243,
-      "num": 361364,
+      "num": 377349,
       "word": "甄子丹说BBC们从不报道真实的中国",
       "onboard_time": 1677769593,
       "rank": 13,
@@ -2985,6 +3009,14 @@
       "onboard_time": 1677739705,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459927,
+      "num": 231272,
+      "word": "关晓彤荧光绿短裙",
+      "onboard_time": 1677773485,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 457517,
@@ -3467,6 +3499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 405683,
+      "num": 363437,
+      "word": "商场回应艺术画展被指涉儿童色情",
+      "onboard_time": 1677768511,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404735,
       "num": 404735,
       "word": "外国要租借大熊猫有多难",
@@ -3801,14 +3841,6 @@
       "onboard_time": 1677735628,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 363437,
-      "num": 363437,
-      "word": "商场回应艺术画展被指涉儿童色情",
-      "onboard_time": 1677768511,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363177,
@@ -5131,6 +5163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 248922,
+      "num": 224275,
+      "word": "李俊昊采访谈林允儿",
+      "onboard_time": 1677772588,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 247509,
       "num": 247509,
       "word": "急诊科医生与外卖小哥的共同点找到了",
@@ -5505,6 +5545,14 @@
       "onboard_time": 1677639328,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223484,
+      "num": 223484,
+      "word": "陈楚生苏醒王铮亮合唱海上花",
+      "onboard_time": 1677773664,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 223446,
@@ -6136,6 +6184,14 @@
       "word": "BoysPlanet",
       "onboard_time": 1677766111,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198676,
+      "num": 198676,
+      "word": "韩维辰第四",
+      "onboard_time": 1677773246,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -7291,6 +7347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148736,
+      "num": 148736,
+      "word": "进击的巨人",
+      "onboard_time": 1677773604,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 148651,
       "num": 148651,
       "word": "阴阳师",
@@ -7715,14 +7779,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 127368,
-      "num": 127368,
-      "word": "太阳的后裔KBS50周年最佳电视剧",
-      "onboard_time": 1677771207,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 125817,
       "num": 125817,
       "word": "TWICE新歌初舞台直拍",
@@ -7913,6 +7969,14 @@
       "onboard_time": 1677737546,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 116077,
+      "num": 116077,
+      "word": "王源读粉丝信",
+      "onboard_time": 1677772827,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 115341,
