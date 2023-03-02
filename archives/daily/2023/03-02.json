@@ -1,6 +1,6 @@
 {
   "startTime": 1677688085914,
-  "endTime": 1677764618185,
+  "endTime": 1677766714226,
   "band_list": [
     {
       "raw_hot": 2946066,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2459613,
-      "num": 400367,
+      "num": 465249,
       "word": "香港名媛碎尸案警方再拘一人",
       "onboard_time": 1677759569,
       "rank": 10,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562999,
+      "num": 562999,
+      "word": "刘涛直播唱乌梅子酱",
+      "onboard_time": 1677764972,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 561170,
       "num": 561170,
       "word": "重紫和魔尊成亲",
@@ -571,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506025,
+      "num": 506025,
+      "word": "大卫詹姆斯受伤",
+      "onboard_time": 1677761669,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 502611,
       "num": 502611,
       "word": "不良人",
@@ -641,6 +657,14 @@
       "onboard_time": 1677710777,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 471406,
+      "num": 471406,
+      "word": "BoysPlanet第一次顺位发表",
+      "onboard_time": 1677766111,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 470732,
@@ -715,20 +739,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 432706,
-      "num": 432706,
-      "word": "大卫詹姆斯受伤",
-      "onboard_time": 1677761669,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 429938,
       "num": 429938,
       "word": "当地华人接力守护丫丫",
       "onboard_time": 1677752553,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429609,
+      "num": 429609,
+      "word": "快乐再出发2收官",
+      "onboard_time": 1677764670,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 428799,
@@ -759,6 +783,14 @@
       "num": 423624,
       "word": "HYBE多给李秀满700亿韩元",
       "onboard_time": 1677753568,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 420846,
+      "num": 420846,
+      "word": "柳智敏小拇指骨折了",
+      "onboard_time": 1677766291,
       "rank": 12,
       "category": "艺人"
     },
@@ -809,6 +841,14 @@
       "onboard_time": 1677709995,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352098,
+      "num": 352098,
+      "word": "金星合木星",
+      "onboard_time": 1677764009,
+      "rank": 38,
+      "category": "情感,自然"
     },
     {
       "raw_hot": 348271,
@@ -979,12 +1019,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 302596,
+      "num": 302596,
+      "word": "五菱缤果新车来了",
+      "onboard_time": 1677764911,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301156,
       "num": 301156,
       "word": "特斯拉Cybertruck将在今年问世",
       "onboard_time": 1677717569,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 294080,
+      "num": 197186,
+      "word": "见过最离谱的夜市价格",
+      "onboard_time": 1677765269,
+      "rank": 30,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 279997,
@@ -1040,6 +1096,14 @@
       "word": "安欣陆泽宁楼道吻",
       "onboard_time": 1677672629,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 268686,
+      "num": 268686,
+      "word": "玄商夜昙地下恋情",
+      "onboard_time": 1677765871,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -1379,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199646,
+      "num": 199646,
+      "word": "BoysPlanet",
+      "onboard_time": 1677766111,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197317,
       "num": 197317,
       "word": "JDG战胜WE",
@@ -1459,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185863,
+      "num": 185863,
+      "word": "范丞丞了不起的夜晚变装视频",
+      "onboard_time": 1677765331,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183680,
       "num": 183680,
       "word": "明日方舟",
@@ -1489,6 +1569,14 @@
       "onboard_time": 1677717090,
       "rank": 28,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 180166,
+      "num": 180166,
+      "word": "蒋胜男发声反对加班泛滥",
+      "onboard_time": 1677765331,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180108,
@@ -1529,6 +1617,14 @@
       "onboard_time": 1677755907,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170545,
+      "num": 170545,
+      "word": "胡金秋",
+      "onboard_time": 1677766353,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 170112,
@@ -1747,14 +1843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 134630,
-      "num": 134630,
-      "word": "金星合木星",
-      "onboard_time": 1677764009,
-      "rank": 38,
-      "category": "情感,自然"
-    },
-    {
       "raw_hot": 134138,
       "num": 134138,
       "word": "DYG对阵KSG",
@@ -1841,6 +1929,14 @@
       "onboard_time": 1677740007,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118676,
+      "num": 118676,
+      "word": "魔咒",
+      "onboard_time": 1677766590,
+      "rank": 47,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 116769,
@@ -2075,6 +2171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 71947,
+      "num": 199605,
+      "word": "小车也要大空间",
+      "onboard_time": 1677765871,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69800,
       "num": 69800,
       "word": "向太暂停直播的原因",
@@ -2250,6 +2354,9 @@
     },
     {
       "word": "#看中国式现代化图景#"
+    },
+    {
+      "word": "#2023看两会#"
     }
   ]
 }
