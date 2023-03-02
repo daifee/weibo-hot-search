@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677735263525,
+  "endTime": 1677738301333,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -299,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1134742,
+      "num": 1134742,
+      "word": "海南椰树集团招生本科年薪16.8万",
+      "onboard_time": 1677735208,
+      "rank": 48,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1126676,
       "num": 1126676,
       "word": "国考",
@@ -457,6 +465,14 @@
       "onboard_time": 1677633451,
       "rank": 5,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 925098,
+      "num": 925098,
+      "word": "孙怡威海夜市卖梨汤",
+      "onboard_time": 1677737125,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 914379,
@@ -715,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 686133,
+      "num": 686133,
+      "word": "忠犬八公主演是中华田园犬",
+      "onboard_time": 1677734727,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 682271,
       "num": 682271,
       "word": "特斯拉潮州事故鉴定结果已出",
@@ -785,6 +809,14 @@
       "onboard_time": 1677682351,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 649486,
+      "num": 649486,
+      "word": "鹿晗2023演唱会来了",
+      "onboard_time": 1677734967,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 647245,
@@ -865,14 +897,6 @@
       "onboard_time": 1677647731,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 589126,
-      "num": 589126,
-      "word": "鹿晗2023演唱会来了",
-      "onboard_time": 1677734967,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 580412,
@@ -995,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 528935,
+      "num": 271755,
+      "word": "妈妈喂8个月宝宝吃馍窒息昏迷9天",
+      "onboard_time": 1677736466,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527202,
       "num": 527202,
       "word": "SuperJunior将推出沙特旅行综艺神灯的骑士",
@@ -1080,6 +1112,14 @@
       "word": "李飞真会省钱",
       "onboard_time": 1677723147,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 490738,
+      "num": 438303,
+      "word": "李敏镐香港经纪公司已告解散",
+      "onboard_time": 1677737844,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1411,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363721,
+      "num": 363721,
+      "word": "流浪地球3为何还选青岛",
+      "onboard_time": 1677735628,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362753,
       "num": 362753,
       "word": "家长发文称小学按父母职业排座位",
@@ -1425,14 +1473,6 @@
       "onboard_time": 1677637648,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 361871,
-      "num": 361871,
-      "word": "忠犬八公主演是中华田园犬",
-      "onboard_time": 1677734727,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 355596,
@@ -1611,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317929,
+      "num": 317929,
+      "word": "于朦胧镜头下的宋妍霏",
+      "onboard_time": 1677737787,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316718,
       "num": 316718,
       "word": "阿娇米兰餐厅打卡照",
@@ -1665,6 +1713,14 @@
       "onboard_time": 1677680072,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307080,
+      "num": 307080,
+      "word": "张杰广州演唱会加场",
+      "onboard_time": 1677735029,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 307070,
@@ -2035,8 +2091,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 232363,
-      "num": 232363,
+      "raw_hot": 232391,
+      "num": 232391,
       "word": "男子爬泰山帮挑山工挑120斤水",
       "onboard_time": 1677734010,
       "rank": 47,
@@ -2139,6 +2195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222822,
+      "num": 200963,
+      "word": "惠普笔记本维修后发现掌托是木头的",
+      "onboard_time": 1677737365,
+      "rank": 30,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 221574,
       "num": 221574,
       "word": "全球近60只大熊猫旅居海外",
@@ -2195,8 +2259,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213274,
-      "num": 213274,
+      "raw_hot": 215077,
+      "num": 215077,
       "word": "黑神话悟空软著登记获批",
       "onboard_time": 1677732812,
       "rank": 37,
@@ -2515,6 +2579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186792,
+      "num": 186792,
+      "word": "老了我们也要这样吃喝",
+      "onboard_time": 1677736645,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186252,
       "num": 186252,
       "word": "肖战意大利雨天街头漫步",
@@ -2681,14 +2753,6 @@
       "onboard_time": 1677633630,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167385,
-      "num": 167385,
-      "word": "张杰广州演唱会加场",
-      "onboard_time": 1677735029,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 166870,
@@ -2859,20 +2923,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139713,
-      "num": 139713,
-      "word": "海南椰树集团招生本科年薪16.8万",
-      "onboard_time": 1677735208,
-      "rank": 48,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 138495,
       "num": 138495,
       "word": "警方下周传唤刘亚仁",
       "onboard_time": 1677722605,
       "rank": 35,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 138056,
+      "num": 138056,
+      "word": "陈星旭李兰迪流星许愿2.0",
+      "onboard_time": 1677737247,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 137391,
@@ -2929,6 +2993,14 @@
       "onboard_time": 1677693194,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134524,
+      "num": 134524,
+      "word": "年轻人都流向了哪些城市",
+      "onboard_time": 1677738206,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133815,
@@ -3041,6 +3113,14 @@
       "onboard_time": 1677650368,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116769,
+      "num": 116769,
+      "word": "大哥大爷神同步跳河救人获见义勇为",
+      "onboard_time": 1677737546,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 115177,
@@ -3441,6 +3521,14 @@
       "onboard_time": 1677583231,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 18344,
+      "num": 125007,
+      "word": "天猫发布春夏消费趋势",
+      "onboard_time": 1677736829,
+      "rank": 39,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 17767,
