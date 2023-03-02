@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677763986844,
+  "endTime": 1677764618185,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2459613,
-      "num": 391561,
+      "num": 400367,
       "word": "香港名媛碎尸案警方再拘一人",
       "onboard_time": 1677759569,
       "rank": 10,
@@ -1539,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432706,
+      "num": 432706,
+      "word": "大卫詹姆斯受伤",
+      "onboard_time": 1677761669,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 429938,
       "num": 429938,
       "word": "当地华人接力守护丫丫",
@@ -1569,14 +1577,6 @@
       "onboard_time": 1677743307,
       "rank": 14,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 427067,
-      "num": 427067,
-      "word": "大卫詹姆斯受伤",
-      "onboard_time": 1677761669,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 426748,
@@ -2683,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221232,
+      "num": 221232,
+      "word": "李一桐毕雯珺合照好甜",
+      "onboard_time": 1677763409,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218166,
       "num": 218166,
       "word": "李现向每一位中国运动员致敬",
@@ -2947,14 +2955,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 201922,
-      "num": 201922,
-      "word": "李一桐毕雯珺合照好甜",
-      "onboard_time": 1677763409,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201332,
       "num": 200419,
       "word": "诸葛宇杰任湖北省委副书记",
@@ -2985,6 +2985,14 @@
       "onboard_time": 1677660749,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197317,
+      "num": 197317,
+      "word": "JDG战胜WE",
+      "onboard_time": 1677764131,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 196718,
@@ -3691,6 +3699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134630,
+      "num": 134630,
+      "word": "金星合木星",
+      "onboard_time": 1677764009,
+      "rank": 38,
+      "category": "情感,自然"
+    },
+    {
       "raw_hot": 134138,
       "num": 134138,
       "word": "DYG对阵KSG",
@@ -4033,6 +4049,14 @@
       "onboard_time": 1677602061,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 91742,
+      "num": 91742,
+      "word": "LGD对阵MTG",
+      "onboard_time": 1677764432,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 89658,
