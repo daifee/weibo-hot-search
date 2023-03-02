@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677789300750,
+  "endTime": 1677791845095,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -8427,6 +8427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87358,
+      "num": 87358,
+      "word": "大学每月生活费多少才够用",
+      "onboard_time": 1677787751,
+      "rank": 21,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 86823,
       "num": 86823,
       "word": "怎样做才是真正的爱自己",
@@ -8667,6 +8675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56713,
+      "num": 56713,
+      "word": "海关工作犬嗅出6只活体甲虫",
+      "onboard_time": 1677789614,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55498,
       "num": 55498,
       "word": "羽生结弦冰演感言",
@@ -8683,12 +8699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47626,
-      "num": 47626,
-      "word": "大学每月生活费多少才够用",
-      "onboard_time": 1677787751,
-      "rank": 21,
-      "category": "情感,教育"
+      "raw_hot": 46359,
+      "num": 46359,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1677789790,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 44598,
@@ -8795,6 +8811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28772,
+      "num": 28772,
+      "word": "建议学前教育纳入义务教育",
+      "onboard_time": 1677787214,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27921,
       "num": 27921,
       "word": "巴黎时装周看秀日历",
@@ -8816,14 +8840,6 @@
       "word": "莫言获中国慈善家年度人物",
       "onboard_time": 1677612252,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21361,
-      "num": 21361,
-      "word": "建议学前教育纳入义务教育",
-      "onboard_time": 1677787214,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -8849,6 +8865,14 @@
       "onboard_time": 1677700632,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12576,
+      "num": 12576,
+      "word": "狂飙内部评级S",
+      "onboard_time": 1677790330,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 12119,

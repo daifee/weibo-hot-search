@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677789300750,
+  "endTime": 1677791845095,
   "band_list": [
     {
       "raw_hot": 964016,
@@ -339,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 87358,
+      "num": 87358,
+      "word": "大学每月生活费多少才够用",
+      "onboard_time": 1677787751,
+      "rank": 21,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 87049,
       "num": 101030,
       "word": "五菱缤果新车来了",
@@ -411,12 +419,12 @@
       "category": "情感,自然"
     },
     {
-      "raw_hot": 47626,
-      "num": 47626,
-      "word": "大学每月生活费多少才够用",
-      "onboard_time": 1677787751,
-      "rank": 21,
-      "category": "情感,教育"
+      "raw_hot": 56713,
+      "num": 56713,
+      "word": "海关工作犬嗅出6只活体甲虫",
+      "onboard_time": 1677789614,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46565,
@@ -425,6 +433,14 @@
       "onboard_time": 1677752732,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 46359,
+      "num": 46359,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1677789790,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 37356,
@@ -443,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28772,
+      "num": 28772,
+      "word": "建议学前教育纳入义务教育",
+      "onboard_time": 1677787214,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25328,
       "num": 25328,
       "word": "85生演技大赏",
@@ -459,19 +483,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21361,
-      "num": 21361,
-      "word": "建议学前教育纳入义务教育",
-      "onboard_time": 1677787214,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14485,
       "num": 14485,
       "word": "光渊",
       "onboard_time": 1677748592,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 12576,
+      "num": 12576,
+      "word": "狂飙内部评级S",
+      "onboard_time": 1677790330,
+      "rank": 41,
       "category": "影视"
     },
     {
