@@ -1,0 +1,410 @@
+{
+  "runTime": 1677836025938,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1667741,
+        "num": 1667741,
+        "word": "熊猫和花",
+        "onboard_time": 1677821305,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877332,
+        "num": 877332,
+        "word": "女生回应8战考研均未上岸",
+        "onboard_time": 1677828866,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 33027,
+        "num": 764535,
+        "word": "奋进的春天",
+        "onboard_time": 1677824126,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1501172,
+        "num": 762603,
+        "word": "95后考研落榜结果父母双双上岸",
+        "onboard_time": 1677831749,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 756445,
+        "num": 756445,
+        "word": "我们的西南联大改名战火中的青春",
+        "onboard_time": 1677835228,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 460067,
+        "num": 460067,
+        "word": "65岁阿姨离婚后8年骑行12国",
+        "onboard_time": 1677825747,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438082,
+        "num": 438082,
+        "word": "在美华人称丫丫饮食条件已有改善",
+        "onboard_time": 1677827546,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409532,
+        "num": 409532,
+        "word": "撞脸高启盛大学老师回应走红",
+        "onboard_time": 1677827907,
+        "rank": 7,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 333697,
+        "num": 333697,
+        "word": "郑州一大学老师撞脸高启盛",
+        "onboard_time": 1677829707,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 307940,
+        "num": 307940,
+        "word": "这不是花花是果赖",
+        "onboard_time": 1677821667,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1224358,
+        "num": 306244,
+        "word": "迪丽热巴水晶缀饰礼服",
+        "onboard_time": 1677834267,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 292437,
+        "num": 292437,
+        "word": "程潇孟美岐吴宣仪不续约宇宙少女",
+        "onboard_time": 1677821187,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276253,
+        "num": 276253,
+        "word": "四川有个95后铁憨憨村支书",
+        "onboard_time": 1677834928,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256884,
+        "num": 256884,
+        "word": "塞尔达玩家也太卷了",
+        "onboard_time": 1677834688,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255295,
+        "num": 255295,
+        "word": "电影断网",
+        "onboard_time": 1677833611,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238524,
+        "num": 238524,
+        "word": "2023暑期档已官宣3部电影",
+        "onboard_time": 1677829528,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231332,
+        "num": 231332,
+        "word": "30字小说超60万人收藏",
+        "onboard_time": 1677817530,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229248,
+        "num": 229248,
+        "word": "商场回应无偿设计丫丫海报并投放",
+        "onboard_time": 1677818970,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221930,
+        "num": 221930,
+        "word": "于正回复蒋龙",
+        "onboard_time": 1677824607,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219097,
+        "num": 219097,
+        "word": "金智秀朴彩英巴黎同框路透",
+        "onboard_time": 1677830785,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 210165,
+        "num": 210165,
+        "word": "旅居卡塔尔的熊猫被四川话成功召唤",
+        "onboard_time": 1677834747,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200985,
+        "num": 200985,
+        "word": "范丞丞新电影胡子造型",
+        "onboard_time": 1677834809,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199415,
+        "num": 199415,
+        "word": "赵露思春日明信片",
+        "onboard_time": 1677834928,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199388,
+        "num": 199388,
+        "word": "建议有条件国有重点景区免费",
+        "onboard_time": 1677828330,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 199103,
+        "num": 199103,
+        "word": "诡秘之主",
+        "onboard_time": 1677835288,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196578,
+        "num": 196578,
+        "word": "姚晨宋亚轩合唱",
+        "onboard_time": 1677834987,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188396,
+        "num": 188396,
+        "word": "国考成绩",
+        "onboard_time": 1677809248,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187314,
+        "num": 187314,
+        "word": "张小斐比的耶",
+        "onboard_time": 1677831507,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184792,
+        "num": 184792,
+        "word": "一眼万年的初恋脸女主",
+        "onboard_time": 1677825385,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100644,
+        "num": 175280,
+        "word": "国考3月上中旬出分",
+        "onboard_time": 1677818014,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174688,
+        "num": 174688,
+        "word": "LUDA不续约",
+        "onboard_time": 1677821370,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173491,
+        "num": 173491,
+        "word": "科学家首次观测到量子隧穿效应",
+        "onboard_time": 1677833547,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 170635,
+        "num": 170635,
+        "word": "熊猫花花外号果赖被抢注商标",
+        "onboard_time": 1677835045,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163753,
+        "num": 163753,
+        "word": "为了完成体测的大学生",
+        "onboard_time": 1677835288,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154924,
+        "num": 154924,
+        "word": "王昱珩说破镜无法重圆枯木可以逢春",
+        "onboard_time": 1677826106,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153894,
+        "num": 153894,
+        "word": "吴奇隆林峯合照",
+        "onboard_time": 1677830969,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143690,
+        "num": 143690,
+        "word": "林高远",
+        "onboard_time": 1677829166,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142774,
+        "num": 142774,
+        "word": "水哥曾患谱系自闭症",
+        "onboard_time": 1677819150,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140054,
+        "num": 140054,
+        "word": "杨颖晒相思令剧组的马",
+        "onboard_time": 1677832947,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50977,
+        "num": 135665,
+        "word": "饿了么免单听音题没声音",
+        "onboard_time": 1677834028,
+        "rank": 39,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 135284,
+        "num": 135284,
+        "word": "倒数说爱你 定档",
+        "onboard_time": 1677814527,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127976,
+        "num": 127976,
+        "word": "南京Hero久竞声明",
+        "onboard_time": 1677823229,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123341,
+        "num": 123341,
+        "word": "威少被勇士放空",
+        "onboard_time": 1677821968,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116839,
+        "num": 116839,
+        "word": "宋茜泰国vlog",
+        "onboard_time": 1677829107,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114392,
+        "num": 114392,
+        "word": "颜控跑步人有福了",
+        "onboard_time": 1677829228,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106988,
+        "num": 106988,
+        "word": "孙怡大侦探紫色旗袍造型",
+        "onboard_time": 1677826647,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102708,
+        "num": 102708,
+        "word": "男性最佳生育年龄为30到35周岁",
+        "onboard_time": 1677807389,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1219301,
+        "num": 102584,
+        "word": "建议大学生不要太在意刚入职收入",
+        "onboard_time": 1677827964,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102138,
+        "num": 102138,
+        "word": "像极了简历上造假的本人",
+        "onboard_time": 1677835829,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98904,
+        "num": 98904,
+        "word": "薛之谦说佛山站郑州站准备就绪",
+        "onboard_time": 1677825146,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
