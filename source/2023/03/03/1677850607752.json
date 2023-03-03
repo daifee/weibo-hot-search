@@ -1,0 +1,410 @@
+{
+  "runTime": 1677850607752,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1093563,
+        "num": 1093563,
+        "word": "大学每月生活费2000是什么水平",
+        "onboard_time": 1677849145,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 687949,
+        "num": 687949,
+        "word": "导师给我的论文想好了期刊",
+        "onboard_time": 1677839187,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40175,
+        "num": 669022,
+        "word": "全国政协十四届一次会议新闻发布会",
+        "onboard_time": 1677832347,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777096,
+        "num": 667376,
+        "word": "95后考研落榜结果父母双双上岸",
+        "onboard_time": 1677831749,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 665254,
+        "num": 665254,
+        "word": "建议网络直播账号日打赏不超100元",
+        "onboard_time": 1677846505,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 624744,
+        "num": 624744,
+        "word": "邓超陈赫鹿晗五哈3换头像",
+        "onboard_time": 1677846326,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543435,
+        "num": 543435,
+        "word": "熊猫和花",
+        "onboard_time": 1677821305,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418492,
+        "num": 418492,
+        "word": "大熊猫和花和叶已被广东一企业认养",
+        "onboard_time": 1677844824,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349537,
+        "num": 349537,
+        "word": "张大大直播",
+        "onboard_time": 1677848425,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302919,
+        "num": 302919,
+        "word": "在美华人称丫丫饮食条件已有改善",
+        "onboard_time": 1677827546,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852906,
+        "num": 293947,
+        "word": "Jennie摔伤",
+        "onboard_time": 1677839667,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509299,
+        "num": 289693,
+        "word": "刘雯郭晓婷合照",
+        "onboard_time": 1677845787,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 434813,
+        "num": 281470,
+        "word": "李秀满选择方时赫的理由",
+        "onboard_time": 1677850045,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381197,
+        "num": 265281,
+        "word": "迪丽热巴秦岚同台",
+        "onboard_time": 1677838107,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264405,
+        "num": 264405,
+        "word": "EDG与LNG赛前海报",
+        "onboard_time": 1677843327,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261357,
+        "num": 261357,
+        "word": "王俊凯小时候打篮球旧照",
+        "onboard_time": 1677844525,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245880,
+        "num": 245880,
+        "word": "65岁阿姨离婚后8年骑行12国",
+        "onboard_time": 1677825747,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231906,
+        "num": 231906,
+        "word": "像极了简历上造假的本人",
+        "onboard_time": 1677835829,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208694,
+        "num": 208694,
+        "word": "苏醒新歌不要劝我放下",
+        "onboard_time": 1677848125,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201005,
+        "num": 201005,
+        "word": "孙千吊带红裙",
+        "onboard_time": 1677841408,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599123,
+        "num": 200193,
+        "word": "小S大女儿二女儿合体封面",
+        "onboard_time": 1677836726,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195578,
+        "num": 195578,
+        "word": "成毅巴黎探店路透",
+        "onboard_time": 1677850586,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193825,
+        "num": 193825,
+        "word": "流浪地球3要给杭州加戏",
+        "onboard_time": 1677839367,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191321,
+        "num": 191321,
+        "word": "张杰冲上云霄机长造型",
+        "onboard_time": 1677850287,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192448,
+        "num": 190803,
+        "word": "搞笑女是人类的宝藏",
+        "onboard_time": 1677849927,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190162,
+        "num": 190162,
+        "word": "佘诗曼林峯重现使徒行者经典片段",
+        "onboard_time": 1677849445,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174194,
+        "num": 174194,
+        "word": "任嘉伦张予曦 凤凰台上",
+        "onboard_time": 1677836908,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172726,
+        "num": 172726,
+        "word": "玄商夜昙舞剑",
+        "onboard_time": 1677849385,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169209,
+        "num": 169209,
+        "word": "女生回应8战考研均未上岸",
+        "onboard_time": 1677828866,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 161693,
+        "num": 164770,
+        "word": "只有上了泰山才能看到的风景",
+        "onboard_time": 1677839967,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 163241,
+        "num": 163241,
+        "word": "第一次见乌龟这么黏人",
+        "onboard_time": 1677841467,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 147159,
+        "num": 147159,
+        "word": "当你的同事是个天秤座",
+        "onboard_time": 1677846985,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142967,
+        "num": 142967,
+        "word": "Haerin双丸子头",
+        "onboard_time": 1677849805,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142380,
+        "num": 142380,
+        "word": "陈飞宇周也的cp名叫YesSir",
+        "onboard_time": 1677839010,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132989,
+        "num": 132989,
+        "word": "撞脸高启盛大学老师回应走红",
+        "onboard_time": 1677827907,
+        "rank": 34,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 134269,
+        "num": 132703,
+        "word": "Angelababy骑马",
+        "onboard_time": 1677839787,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130604,
+        "num": 130604,
+        "word": "U20国足vs日本U20",
+        "onboard_time": 1677838347,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129675,
+        "num": 129675,
+        "word": "宋雨琦直播跳TOMBOY",
+        "onboard_time": 1677850287,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126167,
+        "num": 126167,
+        "word": "张颂文只想专心拍戏",
+        "onboard_time": 1677842606,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49847,
+        "num": 125742,
+        "word": "上海街头惊现新欢角",
+        "onboard_time": 1677848425,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125327,
+        "num": 125327,
+        "word": "花海娜可露露杀疯了",
+        "onboard_time": 1677848186,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122028,
+        "num": 122028,
+        "word": "何洁张远合唱",
+        "onboard_time": 1677849987,
+        "rank": 41,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 116940,
+        "num": 116940,
+        "word": "这羊长得好像素描出来的",
+        "onboard_time": 1677844947,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116469,
+        "num": 116469,
+        "word": "eStar声明",
+        "onboard_time": 1677838407,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112792,
+        "num": 112792,
+        "word": "旅居卡塔尔的熊猫被四川话成功召唤",
+        "onboard_time": 1677834747,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112549,
+        "num": 112549,
+        "word": "诡秘之主",
+        "onboard_time": 1677835288,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106432,
+        "num": 106432,
+        "word": "熊猫和花周边销量飙升906%",
+        "onboard_time": 1677847286,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102900,
+        "num": 102900,
+        "word": "出现耳鸣怎么办",
+        "onboard_time": 1677849205,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102640,
+        "num": 102640,
+        "word": "郑州一大学老师撞脸高启盛",
+        "onboard_time": 1677829707,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 94713,
+        "num": 94713,
+        "word": "我们的西南联大改名战火中的青春",
+        "onboard_time": 1677835228,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心头最大的牵挂#"
+    }
+  }
+}

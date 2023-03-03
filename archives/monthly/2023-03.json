@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677849948387,
+  "endTime": 1677850607752,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -545,6 +545,14 @@
       "onboard_time": 1677836726,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1093563,
+      "num": 1093563,
+      "word": "大学每月生活费2000是什么水平",
+      "onboard_time": 1677849145,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 1092787,
@@ -1251,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665254,
+      "num": 665254,
+      "word": "建议网络直播账号日打赏不超100元",
+      "onboard_time": 1677846505,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 661858,
       "num": 564644,
       "word": "学霸寝室不泡图书馆全员保研名校",
@@ -1363,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 624744,
+      "num": 624744,
+      "word": "邓超陈赫鹿晗五哈3换头像",
+      "onboard_time": 1677846326,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 624710,
       "num": 624710,
       "word": "高启兰被粉丝狂叫金丝老婆",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1677808348,
       "rank": 13,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 622252,
-      "num": 622252,
-      "word": "邓超陈赫鹿晗五哈3换头像",
-      "onboard_time": 1677846326,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 620063,
@@ -1627,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 550230,
-      "num": 550230,
-      "word": "建议网络直播账号日打赏不超100元",
-      "onboard_time": 1677846505,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 548995,
       "num": 548995,
       "word": "见过最离谱的夜市价格",
@@ -1812,7 +1820,7 @@
     },
     {
       "raw_hot": 510966,
-      "num": 266770,
+      "num": 289693,
       "word": "刘雯郭晓婷合照",
       "onboard_time": 1677845787,
       "rank": 15,
@@ -2163,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434813,
+      "num": 281470,
+      "word": "李秀满选择方时赫的理由",
+      "onboard_time": 1677850045,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433418,
       "num": 433418,
       "word": "林高远",
@@ -2272,6 +2288,14 @@
       "word": "胡锡进谈调整休假安排建议",
       "onboard_time": 1677681092,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418492,
+      "num": 418492,
+      "word": "大熊猫和花和叶已被广东一企业认养",
+      "onboard_time": 1677844824,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -2675,14 +2699,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 350336,
-      "num": 350336,
-      "word": "大熊猫和花和叶已被广东一企业认养",
-      "onboard_time": 1677844824,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350184,
       "num": 346673,
       "word": "DIOR",
@@ -2785,14 +2801,6 @@
       "onboard_time": 1677589650,
       "rank": 16,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 335859,
-      "num": 262566,
-      "word": "大学每月生活费2000是什么水平",
-      "onboard_time": 1677849145,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 335176,
@@ -3092,7 +3100,7 @@
     },
     {
       "raw_hot": 298470,
-      "num": 259386,
+      "num": 264405,
       "word": "EDG与LNG赛前海报",
       "onboard_time": 1677843327,
       "rank": 16,
@@ -3419,6 +3427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261357,
+      "num": 261357,
+      "word": "王俊凯小时候打篮球旧照",
+      "onboard_time": 1677844525,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260444,
       "num": 260444,
       "word": "考试时把自己逗笑了",
@@ -3689,14 +3705,6 @@
       "onboard_time": 1677644731,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 230776,
-      "num": 230776,
-      "word": "王俊凯小时候打篮球旧照",
-      "onboard_time": 1677844525,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 230480,
@@ -4204,7 +4212,7 @@
     },
     {
       "raw_hot": 203867,
-      "num": 148151,
+      "num": 190803,
       "word": "搞笑女是人类的宝藏",
       "onboard_time": 1677849927,
       "rank": 30,
@@ -4436,11 +4444,19 @@
     },
     {
       "raw_hot": 195591,
-      "num": 161429,
+      "num": 172726,
       "word": "玄商夜昙舞剑",
       "onboard_time": 1677849385,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195578,
+      "num": 195578,
+      "word": "成毅巴黎探店路透",
+      "onboard_time": 1677850586,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195263,
@@ -4577,6 +4593,14 @@
       "onboard_time": 1677601823,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191321,
+      "num": 191321,
+      "word": "张杰冲上云霄机长造型",
+      "onboard_time": 1677850287,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 190876,
@@ -5227,6 +5251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147159,
+      "num": 147159,
+      "word": "当你的同事是个天秤座",
+      "onboard_time": 1677846985,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145742,
       "num": 145742,
       "word": "龙马精神海报没有刘浩存",
@@ -5291,20 +5323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142967,
+      "num": 142967,
+      "word": "Haerin双丸子头",
+      "onboard_time": 1677849805,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 142565,
       "num": 142565,
       "word": "宁至谦对阮流筝说带你摘星星去",
       "onboard_time": 1677768872,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 142279,
-      "num": 142279,
-      "word": "当你的同事是个天秤座",
-      "onboard_time": 1677846985,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 141791,
@@ -5563,6 +5595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129675,
+      "num": 129675,
+      "word": "宋雨琦直播跳TOMBOY",
+      "onboard_time": 1677850287,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 129476,
       "num": 357169,
       "word": "女生晚上回家的第一件事",
@@ -5601,6 +5641,14 @@
       "onboard_time": 1677810208,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126167,
+      "num": 126167,
+      "word": "张颂文只想专心拍戏",
+      "onboard_time": 1677842606,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 126078,
@@ -5691,6 +5739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122028,
+      "num": 122028,
+      "word": "何洁张远合唱",
+      "onboard_time": 1677849987,
+      "rank": 41,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 121021,
       "num": 121021,
       "word": "张大大体验东北烧烤",
@@ -5705,14 +5761,6 @@
       "onboard_time": 1677740007,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 119241,
-      "num": 119241,
-      "word": "张颂文只想专心拍戏",
-      "onboard_time": 1677842606,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 118804,
@@ -6084,7 +6132,7 @@
     },
     {
       "raw_hot": 82458,
-      "num": 113101,
+      "num": 125742,
       "word": "上海街头惊现新欢角",
       "onboard_time": 1677848425,
       "rank": 39,
@@ -6121,14 +6169,6 @@
       "onboard_time": 1677578610,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 78719,
-      "num": 78719,
-      "word": "Haerin双丸子头",
-      "onboard_time": 1677849805,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 78129,
