@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677875657401,
+  "endTime": 1677878166827,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -6657,6 +6657,14 @@
       "onboard_time": 1677824126,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48839,
+      "num": 27926,
+      "word": "新买iPad花屏天猫超市拒退货",
+      "onboard_time": 1677875951,
+      "rank": 10,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 48070,
