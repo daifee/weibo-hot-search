@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677825538718,
+  "endTime": 1677827885734,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -979,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1115981,
+      "num": 381626,
+      "word": "迪丽热巴高清生图",
+      "onboard_time": 1677826106,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1115358,
       "num": 847391,
       "word": "陈玺达要考复旦",
@@ -1153,6 +1161,22 @@
       "onboard_time": 1677489451,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1012870,
+      "num": 448533,
+      "word": "于正回复蒋龙",
+      "onboard_time": 1677824607,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1000626,
+      "num": 570446,
+      "word": "65岁阿姨离婚后8年骑行12国",
+      "onboard_time": 1677825747,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 999872,
@@ -1377,14 +1401,6 @@
       "onboard_time": 1677551848,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 885595,
-      "num": 448533,
-      "word": "于正回复蒋龙",
-      "onboard_time": 1677824607,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 885376,
@@ -2369,6 +2385,14 @@
       "onboard_time": 1677647731,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 591347,
+      "num": 591347,
+      "word": "娇韵诗",
+      "onboard_time": 1677826765,
+      "rank": 1,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 587559,
@@ -4019,6 +4043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 385391,
+      "num": 385391,
+      "word": "薛之谦说佛山站郑州站准备就绪",
+      "onboard_time": 1677825146,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 385362,
       "num": 385362,
       "word": "山姆门店多次因食品安全问题被罚",
@@ -4137,6 +4169,14 @@
       "onboard_time": 1677817892,
       "rank": 34,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 371538,
+      "num": 371538,
+      "word": "王昱珩说破镜无法重圆枯木可以逢春",
+      "onboard_time": 1677826106,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 371212,
@@ -4987,6 +5027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304821,
+      "num": 304821,
+      "word": "一眼万年的初恋脸女主",
+      "onboard_time": 1677825385,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304156,
       "num": 304156,
       "word": "虞书欣像戴着袖套",
@@ -5323,14 +5371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278762,
-      "num": 278762,
-      "word": "薛之谦说佛山站郑州站准备就绪",
-      "onboard_time": 1677825146,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 278404,
       "num": 278404,
       "word": "RedVelvet演唱会海报",
@@ -5529,6 +5569,14 @@
       "onboard_time": 1677745950,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264865,
+      "num": 264865,
+      "word": "棱镜的票秒没",
+      "onboard_time": 1677824607,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 264719,
@@ -5769,6 +5817,14 @@
       "onboard_time": 1677566548,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245400,
+      "num": 245400,
+      "word": "孙怡大侦探紫色旗袍造型",
+      "onboard_time": 1677826647,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 245186,
@@ -6091,14 +6147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 224890,
-      "num": 224890,
-      "word": "棱镜的票秒没",
-      "onboard_time": 1677824607,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 224737,
       "num": 224737,
       "word": "甲流患者不宜自行服用奥司他韦",
@@ -6353,14 +6401,6 @@
       "onboard_time": 1677748233,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212538,
-      "num": 212538,
-      "word": "一眼万年的初恋脸女主",
-      "onboard_time": 1677825385,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 211015,
@@ -7075,6 +7115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193346,
+      "num": 193346,
+      "word": "新手改妆",
+      "onboard_time": 1677827245,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 193143,
       "num": 193143,
       "word": "特斯拉下一代汽车成本降低",
@@ -7627,6 +7675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171840,
+      "num": 171840,
+      "word": "在美华人称丫丫饮食条件已有改善",
+      "onboard_time": 1677827546,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171638,
       "num": 171638,
       "word": "重紫登中国妇女报",
@@ -8089,6 +8145,14 @@
       "onboard_time": 1677460648,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149298,
+      "num": 149298,
+      "word": "最强大脑今晚八强诞生",
+      "onboard_time": 1677826465,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 149297,
@@ -8563,6 +8627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129685,
+      "num": 129685,
+      "word": "没有一块糖能逃过蒲熠星的推理",
+      "onboard_time": 1677824966,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129476,
       "num": 357169,
       "word": "女生晚上回家的第一件事",
@@ -8803,14 +8875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 118221,
-      "num": 118221,
-      "word": "没有一块糖能逃过蒲熠星的推理",
-      "onboard_time": 1677824966,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 117243,
       "num": 117243,
       "word": "勇士战胜开拓者",
@@ -9049,6 +9113,14 @@
       "onboard_time": 1677513567,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 105525,
+      "num": 105525,
+      "word": "梵净山春雪",
+      "onboard_time": 1677826945,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 105304,
