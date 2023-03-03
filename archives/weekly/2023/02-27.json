@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677864835436,
+  "endTime": 1677867900590,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -10825,6 +10825,14 @@
       "onboard_time": 1677507092,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47468,
+      "num": 47468,
+      "word": "澜星元皮肤",
+      "onboard_time": 1677866536,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 44598,
