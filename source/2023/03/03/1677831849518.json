@@ -1,0 +1,410 @@
+{
+  "runTime": 1677831849518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1552316,
+        "num": 1552316,
+        "word": "熊猫和花",
+        "onboard_time": 1677821305,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3397650,
+        "num": 1466699,
+        "word": "建议大学生不要太在意刚入职收入",
+        "onboard_time": 1677827964,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37187,
+        "num": 1323841,
+        "word": "奋进的春天",
+        "onboard_time": 1677824126,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1300561,
+        "num": 1300561,
+        "word": "娇韵诗",
+        "onboard_time": 1677826765,
+        "rank": 3,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 1013505,
+        "num": 1013505,
+        "word": "女生回应8战考研均未上岸",
+        "onboard_time": 1677828866,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 952423,
+        "num": 952423,
+        "word": "65岁阿姨离婚后8年骑行12国",
+        "onboard_time": 1677825747,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854142,
+        "num": 854142,
+        "word": "在美华人称丫丫饮食条件已有改善",
+        "onboard_time": 1677827546,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674577,
+        "num": 674577,
+        "word": "撞脸高启盛大学老师回应走红",
+        "onboard_time": 1677827907,
+        "rank": 7,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 422300,
+        "num": 422300,
+        "word": "2023暑期档已官宣3部电影",
+        "onboard_time": 1677829528,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411721,
+        "num": 411721,
+        "word": "程潇孟美岐吴宣仪不续约宇宙少女",
+        "onboard_time": 1677821187,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438620,
+        "num": 410210,
+        "word": "于正回复蒋龙",
+        "onboard_time": 1677824607,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405335,
+        "num": 405335,
+        "word": "林高远",
+        "onboard_time": 1677829166,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391046,
+        "num": 391046,
+        "word": "郑州一大学老师撞脸高启盛",
+        "onboard_time": 1677829707,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 380632,
+        "num": 380632,
+        "word": "建议有条件国有重点景区免费",
+        "onboard_time": 1677828330,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 328580,
+        "num": 328580,
+        "word": "金智秀朴彩英巴黎同框路透",
+        "onboard_time": 1677830785,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 317913,
+        "num": 317913,
+        "word": "王昱珩说破镜无法重圆枯木可以逢春",
+        "onboard_time": 1677826106,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311125,
+        "num": 311125,
+        "word": "这不是花花是果赖",
+        "onboard_time": 1677821667,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296161,
+        "num": 296161,
+        "word": "颜控跑步人有福了",
+        "onboard_time": 1677829228,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272665,
+        "num": 272665,
+        "word": "30字小说超60万人收藏",
+        "onboard_time": 1677817530,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272186,
+        "num": 272186,
+        "word": "一眼万年的初恋脸女主",
+        "onboard_time": 1677825385,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262212,
+        "num": 262212,
+        "word": "国考成绩",
+        "onboard_time": 1677809248,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252198,
+        "num": 252198,
+        "word": "商场回应无偿设计丫丫海报并投放",
+        "onboard_time": 1677818970,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230992,
+        "num": 230992,
+        "word": "倒数说爱你 定档",
+        "onboard_time": 1677814527,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221931,
+        "num": 221931,
+        "word": "宋亚轩首支个人单曲预告",
+        "onboard_time": 1677831387,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219544,
+        "num": 219544,
+        "word": "全国中小学消防公开课",
+        "onboard_time": 1677830247,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217806,
+        "num": 217806,
+        "word": "吴奇隆林峯合照",
+        "onboard_time": 1677830969,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203990,
+        "num": 203990,
+        "word": "姚薇安欣联手对付上司",
+        "onboard_time": 1677831267,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195072,
+        "num": 195072,
+        "word": "宋茜泰国vlog",
+        "onboard_time": 1677829107,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188192,
+        "num": 188192,
+        "word": "男性最佳生育年龄为30到35周岁",
+        "onboard_time": 1677807389,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113640,
+        "num": 187415,
+        "word": "国考3月上中旬出分",
+        "onboard_time": 1677818014,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187204,
+        "num": 187204,
+        "word": "严浩翔黑色外套造型",
+        "onboard_time": 1677831749,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 186588,
+        "num": 186588,
+        "word": "孙怡大侦探紫色旗袍造型",
+        "onboard_time": 1677826647,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186313,
+        "num": 186313,
+        "word": "南京Hero久竞声明",
+        "onboard_time": 1677823229,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180786,
+        "num": 180786,
+        "word": "水哥曾患谱系自闭症",
+        "onboard_time": 1677819150,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173094,
+        "num": 173094,
+        "word": "LUDA不续约",
+        "onboard_time": 1677821370,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167383,
+        "num": 167383,
+        "word": "专家称零彩礼不符合传统婚俗",
+        "onboard_time": 1677816329,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165152,
+        "num": 165152,
+        "word": "棱镜的票秒没",
+        "onboard_time": 1677824607,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162766,
+        "num": 162766,
+        "word": "威少被勇士放空",
+        "onboard_time": 1677821968,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151163,
+        "num": 151163,
+        "word": "张小斐比的耶",
+        "onboard_time": 1677831507,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146094,
+        "num": 146094,
+        "word": "95后考研落榜结果父母双双上岸",
+        "onboard_time": 1677831749,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 143565,
+        "num": 143565,
+        "word": "黑袋装卫生巾是偏见还是关心",
+        "onboard_time": 1677813447,
+        "rank": 40,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 143151,
+        "num": 143151,
+        "word": "薛之谦说佛山站郑州站准备就绪",
+        "onboard_time": 1677825146,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129407,
+        "num": 129407,
+        "word": "男生健身做200斤深蹲咬碎后槽牙",
+        "onboard_time": 1677812008,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127437,
+        "num": 127437,
+        "word": "B站2022年净亏损75亿元",
+        "onboard_time": 1677806666,
+        "rank": 43,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 116956,
+        "num": 116956,
+        "word": "黄宗泽调侃自己已经不是原来的哥了",
+        "onboard_time": 1677823827,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115816,
+        "num": 115816,
+        "word": "考试时把自己逗笑了",
+        "onboard_time": 1677817414,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115212,
+        "num": 115212,
+        "word": "iPhone15系列屏幕将采用多家供应商",
+        "onboard_time": 1677811345,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 109666,
+        "num": 109666,
+        "word": "罗翔评一人犯罪影响家属考公",
+        "onboard_time": 1677802949,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108220,
+        "num": 108220,
+        "word": "林高远3比2卡尔森",
+        "onboard_time": 1677829948,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108132,
+        "num": 108132,
+        "word": "唐艺昕云南随拍",
+        "onboard_time": 1677824065,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}

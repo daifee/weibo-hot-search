@@ -1,7 +1,15 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677828835637,
+  "endTime": 1677831849518,
   "band_list": [
+    {
+      "raw_hot": 3397650,
+      "num": 1466699,
+      "word": "建议大学生不要太在意刚入职收入",
+      "onboard_time": 1677827964,
+      "rank": 4,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2057427,
       "num": 2057427,
@@ -27,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1504533,
-      "num": 1504533,
+      "raw_hot": 1552316,
+      "num": 1552316,
       "word": "熊猫和花",
       "onboard_time": 1677821305,
       "rank": 36,
@@ -59,6 +67,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1300561,
+      "num": 1300561,
+      "word": "娇韵诗",
+      "onboard_time": 1677826765,
+      "rank": 1,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 1297168,
       "num": 1297168,
       "word": "B站去年给UP主分了91亿",
@@ -75,16 +91,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1247519,
-      "num": 1247519,
-      "word": "娇韵诗",
-      "onboard_time": 1677826765,
-      "rank": 1,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 1177159,
-      "num": 903345,
+      "num": 952423,
       "word": "65岁阿姨离婚后8年骑行12国",
       "onboard_time": 1677825747,
       "rank": 3,
@@ -115,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1013505,
+      "num": 1013505,
+      "word": "女生回应8战考研均未上岸",
+      "onboard_time": 1677828866,
+      "rank": 4,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1012870,
       "num": 448533,
       "word": "于正回复蒋龙",
@@ -139,11 +155,11 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 864885,
-      "num": 864885,
-      "word": "建议大学生不要太在意刚入职收入",
-      "onboard_time": 1677827964,
-      "rank": 4,
+      "raw_hot": 854142,
+      "num": 854142,
+      "word": "在美华人称丫丫饮食条件已有改善",
+      "onboard_time": 1677827546,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -193,6 +209,14 @@
       "onboard_time": 1677806666,
       "rank": 6,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 674577,
+      "num": 674577,
+      "word": "撞脸高启盛大学老师回应走红",
+      "onboard_time": 1677827907,
+      "rank": 11,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 669235,
@@ -249,14 +273,6 @@
       "onboard_time": 1677808348,
       "rank": 13,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 595763,
-      "num": 595763,
-      "word": "在美华人称丫丫饮食条件已有改善",
-      "onboard_time": 1677827546,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 577787,
@@ -395,14 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 466826,
-      "num": 379143,
-      "word": "撞脸高启盛大学老师回应走红",
-      "onboard_time": 1677827907,
-      "rank": 11,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 459864,
       "num": 459864,
       "word": "海关工作犬嗅出6只活体甲虫",
@@ -427,6 +435,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 422300,
+      "num": 422300,
+      "word": "2023暑期档已官宣3部电影",
+      "onboard_time": 1677829528,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 410523,
       "num": 410523,
       "word": "甲流与新冠会叠加感染吗",
@@ -441,6 +457,14 @@
       "onboard_time": 1677768511,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405335,
+      "num": 405335,
+      "word": "林高远",
+      "onboard_time": 1677829166,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 401918,
@@ -467,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391046,
+      "num": 391046,
+      "word": "郑州一大学老师撞脸高启盛",
+      "onboard_time": 1677829707,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 385391,
       "num": 385391,
       "word": "薛之谦说佛山站郑州站准备就绪",
@@ -489,6 +521,14 @@
       "onboard_time": 1677807927,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380632,
+      "num": 380632,
+      "word": "建议有条件国有重点景区免费",
+      "onboard_time": 1677828330,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 377349,
@@ -595,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328580,
+      "num": 328580,
+      "word": "金智秀朴彩英巴黎同框路透",
+      "onboard_time": 1677830785,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 326263,
       "num": 326263,
       "word": "黄绮珊状态",
@@ -657,6 +705,14 @@
       "onboard_time": 1677815186,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 296161,
+      "num": 296161,
+      "word": "颜控跑步人有福了",
+      "onboard_time": 1677829228,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 281698,
@@ -803,6 +859,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221931,
+      "num": 221931,
+      "word": "宋亚轩首支个人单曲预告",
+      "onboard_time": 1677831387,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 219544,
+      "num": 219544,
+      "word": "全国中小学消防公开课",
+      "onboard_time": 1677830247,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217806,
+      "num": 217806,
+      "word": "吴奇隆林峯合照",
+      "onboard_time": 1677830969,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216827,
       "num": 209403,
       "word": "王嘉尔和好友见面视频",
@@ -883,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203990,
+      "num": 203990,
+      "word": "姚薇安欣联手对付上司",
+      "onboard_time": 1677831267,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198676,
       "num": 198676,
       "word": "韩维辰第四",
@@ -931,6 +1019,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 195072,
+      "num": 195072,
+      "word": "宋茜泰国vlog",
+      "onboard_time": 1677829107,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193346,
       "num": 193346,
       "word": "新手改妆",
@@ -961,6 +1057,14 @@
       "onboard_time": 1677808708,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187204,
+      "num": 187204,
+      "word": "严浩翔黑色外套造型",
+      "onboard_time": 1677831749,
+      "rank": 30,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 179826,
@@ -1043,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151163,
+      "num": 151163,
+      "word": "张小斐比的耶",
+      "onboard_time": 1677831507,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151002,
       "num": 151002,
       "word": "王鹤棣无效握手",
@@ -1065,6 +1177,14 @@
       "onboard_time": 1677766590,
       "rank": 25,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 146094,
+      "num": 146094,
+      "word": "95后考研落榜结果父母双双上岸",
+      "onboard_time": 1677831749,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 144256,
@@ -1121,14 +1241,6 @@
       "onboard_time": 1677800245,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136772,
-      "num": 136772,
-      "word": "建议有条件国有重点景区免费",
-      "onboard_time": 1677828330,
-      "rank": 34,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 135490,
@@ -1265,6 +1377,14 @@
       "onboard_time": 1677801869,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108220,
+      "num": 108220,
+      "word": "林高远3比2卡尔森",
+      "onboard_time": 1677829948,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 107083,
@@ -1436,7 +1556,7 @@
     },
     {
       "raw_hot": 50654,
-      "num": 918411,
+      "num": 1323841,
       "word": "奋进的春天",
       "onboard_time": 1677824126,
       "rank": 2,
