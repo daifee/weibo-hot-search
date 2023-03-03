@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677843224217,
+  "endTime": 1677846950765,
   "band_list": [
     {
       "raw_hot": 3397650,
@@ -451,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 520794,
+      "num": 321046,
+      "word": "梁朝伟因害怕社交不学日语",
+      "onboard_time": 1677840328,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508363,
       "num": 508363,
       "word": "毛不易 抢票",
@@ -481,14 +489,6 @@
       "onboard_time": 1677812487,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 480916,
-      "num": 321046,
-      "word": "梁朝伟因害怕社交不学日语",
-      "onboard_time": 1677840328,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 472172,
@@ -611,6 +611,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 398493,
+      "num": 236598,
+      "word": "刘雯郭晓婷合照",
+      "onboard_time": 1677845787,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 395496,
       "num": 365215,
       "word": "薛之谦 这世界病了而我没有妥协",
@@ -649,6 +657,14 @@
       "onboard_time": 1677828330,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 379630,
+      "num": 379630,
+      "word": "邓超陈赫鹿晗五哈3换头像",
+      "onboard_time": 1677846326,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 378385,
@@ -1043,6 +1059,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 236216,
+      "num": 236216,
+      "word": "EDG与LNG赛前海报",
+      "onboard_time": 1677843327,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230480,
       "num": 230480,
       "word": "吴奇隆林峯合照",
@@ -1163,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206708,
+      "num": 206708,
+      "word": "VG对战eStar",
+      "onboard_time": 1677846865,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205919,
       "num": 198169,
       "word": "柳智敏小拇指骨折了",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1677831267,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203980,
+      "num": 203980,
+      "word": "张天爱巴黎真空西装造型",
+      "onboard_time": 1677845906,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201431,
@@ -1379,6 +1419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180286,
+      "num": 144494,
+      "word": "建议网络直播账号日打赏不超100元",
+      "onboard_time": 1677846505,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 179826,
       "num": 179826,
       "word": "建议改变部分企业996超时工作情况",
@@ -1435,6 +1483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169737,
+      "num": 169737,
+      "word": "第一次见乌龟这么黏人",
+      "onboard_time": 1677841467,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 169733,
       "num": 169733,
       "word": "杨幂王楚然穿了同款",
@@ -1475,14 +1531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158006,
-      "num": 158006,
-      "word": "第一次见乌龟这么黏人",
-      "onboard_time": 1677841467,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 157708,
       "num": 157708,
       "word": "杨颖晒相思令剧组的马",
@@ -1497,6 +1545,14 @@
       "onboard_time": 1677766111,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152819,
+      "num": 152819,
+      "word": "这羊长得好像素描出来的",
+      "onboard_time": 1677844947,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 151002,
@@ -1531,6 +1587,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 144590,
+      "num": 144590,
+      "word": "U20国足5分钟内连丢两球",
+      "onboard_time": 1677845846,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144256,
       "num": 144256,
       "word": "大卫詹姆斯受伤",
@@ -1545,6 +1609,14 @@
       "onboard_time": 1677801268,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144152,
+      "num": 144152,
+      "word": "大熊猫和花和叶已被广东一企业认养",
+      "onboard_time": 1677844824,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143799,
@@ -1619,6 +1691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131342,
+      "num": 131342,
+      "word": "巨人完结篇开播",
+      "onboard_time": 1677846025,
+      "rank": 35,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 130382,
       "num": 130382,
       "word": "学霸寝室不泡图书馆全员保研名校",
@@ -1683,6 +1763,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118804,
+      "num": 118804,
+      "word": "五哈",
+      "onboard_time": 1677844165,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118600,
+      "num": 118600,
+      "word": "王俊凯小时候打篮球旧照",
+      "onboard_time": 1677844525,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118253,
       "num": 118253,
       "word": "王子浩29名",
@@ -1721,6 +1817,14 @@
       "onboard_time": 1677750150,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 114273,
+      "num": 114273,
+      "word": "U20国足1比2日本U20",
+      "onboard_time": 1677845484,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 112464,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677843224217,
+  "endTime": 1677846950765,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -1755,6 +1755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 520794,
+      "num": 321046,
+      "word": "梁朝伟因害怕社交不学日语",
+      "onboard_time": 1677840328,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519354,
       "num": 519354,
       "word": "为什么找工作要双休的",
@@ -1889,14 +1897,6 @@
       "onboard_time": 1677744450,
       "rank": 8,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 480916,
-      "num": 321046,
-      "word": "梁朝伟因害怕社交不学日语",
-      "onboard_time": 1677840328,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 474168,
@@ -2347,6 +2347,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 398493,
+      "num": 236598,
+      "word": "刘雯郭晓婷合照",
+      "onboard_time": 1677845787,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 397628,
       "num": 397628,
       "word": "历届微博之夜名场面盘点",
@@ -2441,6 +2449,14 @@
       "onboard_time": 1677828330,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 379630,
+      "num": 379630,
+      "word": "邓超陈赫鹿晗五哈3换头像",
+      "onboard_time": 1677846326,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 378385,
@@ -3603,6 +3619,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 236216,
+      "num": 236216,
+      "word": "EDG与LNG赛前海报",
+      "onboard_time": 1677843327,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232391,
       "num": 232391,
       "word": "男子爬泰山帮挑山工挑120斤水",
@@ -4003,6 +4027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206708,
+      "num": 206708,
+      "word": "VG对战eStar",
+      "onboard_time": 1677846865,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206095,
       "num": 170998,
       "word": "谢娜做小奶球饼干vlog",
@@ -4113,6 +4145,14 @@
       "onboard_time": 1677831267,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203980,
+      "num": 203980,
+      "word": "张天爱巴黎真空西装造型",
+      "onboard_time": 1677845906,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 203590,
@@ -4659,6 +4699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180286,
+      "num": 144494,
+      "word": "建议网络直播账号日打赏不超100元",
+      "onboard_time": 1677846505,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 180143,
       "num": 180143,
       "word": "最好嗑的年龄差cp",
@@ -4819,6 +4867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169737,
+      "num": 169737,
+      "word": "第一次见乌龟这么黏人",
+      "onboard_time": 1677841467,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 169731,
       "num": 169731,
       "word": "白敬亭打乒乓球",
@@ -4947,14 +5003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158006,
-      "num": 158006,
-      "word": "第一次见乌龟这么黏人",
-      "onboard_time": 1677841467,
-      "rank": 37,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 157708,
       "num": 157708,
       "word": "杨颖晒相思令剧组的马",
@@ -5017,6 +5065,14 @@
       "onboard_time": 1677595293,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152819,
+      "num": 152819,
+      "word": "这羊长得好像素描出来的",
+      "onboard_time": 1677844947,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 152325,
@@ -5123,12 +5179,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144590,
+      "num": 144590,
+      "word": "U20国足5分钟内连丢两球",
+      "onboard_time": 1677845846,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144197,
       "num": 144197,
       "word": "60岁是新黄金期",
       "onboard_time": 1677801268,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144152,
+      "num": 144152,
+      "word": "大熊猫和花和叶已被广东一企业认养",
+      "onboard_time": 1677844824,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144048,
@@ -5355,6 +5427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131342,
+      "num": 131342,
+      "word": "巨人完结篇开播",
+      "onboard_time": 1677846025,
+      "rank": 35,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 131197,
       "num": 131197,
       "word": "洪金宝亚洲电影大奖终身成就奖",
@@ -5547,6 +5627,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 118804,
+      "num": 118804,
+      "word": "五哈",
+      "onboard_time": 1677844165,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118600,
+      "num": 118600,
+      "word": "王俊凯小时候打篮球旧照",
+      "onboard_time": 1677844525,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117243,
       "num": 117243,
       "word": "勇士战胜开拓者",
@@ -5592,6 +5688,14 @@
       "word": "赵继伟罚球绝平",
       "onboard_time": 1677681389,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114273,
+      "num": 114273,
+      "word": "U20国足1比2日本U20",
+      "onboard_time": 1677845484,
+      "rank": 41,
       "category": "体育"
     },
     {
