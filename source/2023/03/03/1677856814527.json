@@ -1,0 +1,410 @@
+{
+  "runTime": 1677856814527,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2053596,
+        "num": 2053596,
+        "word": "大学每月生活费2000是什么水平",
+        "onboard_time": 1677849145,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1260750,
+        "num": 1260750,
+        "word": "二刷狂飙才注意到李健这个设计",
+        "onboard_time": 1677852148,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163846,
+        "num": 928320,
+        "word": "全国两会",
+        "onboard_time": 1677851068,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 674183,
+        "num": 674183,
+        "word": "建议提供免费墓地和骨灰盒",
+        "onboard_time": 1677852328,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 518405,
+        "num": 518405,
+        "word": "沙溢cos高启强",
+        "onboard_time": 1677853050,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511657,
+        "num": 511657,
+        "word": "韩式英语又在害人",
+        "onboard_time": 1677851610,
+        "rank": 5,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 503168,
+        "num": 503168,
+        "word": "大熊猫和花和叶已被广东一企业认养",
+        "onboard_time": 1677844824,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776224,
+        "num": 502044,
+        "word": "zzm",
+        "onboard_time": 1677855031,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 441453,
+        "num": 441453,
+        "word": "邓超陈赫鹿晗五哈3换头像",
+        "onboard_time": 1677846326,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429647,
+        "num": 429647,
+        "word": "在美华人称丫丫饮食条件已有改善",
+        "onboard_time": 1677827546,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434743,
+        "num": 422476,
+        "word": "郑秀晶活动状态",
+        "onboard_time": 1677855568,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413236,
+        "num": 413236,
+        "word": "建议将春节法定假期由3天延长为5天",
+        "onboard_time": 1677853591,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 384098,
+        "num": 384098,
+        "word": "95后考研落榜结果父母双双上岸",
+        "onboard_time": 1677831749,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 365501,
+        "num": 365501,
+        "word": "林俊杰再唱雪落下的声音",
+        "onboard_time": 1677853591,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 355140,
+        "num": 355140,
+        "word": "使用耳机606060原则保护耳朵",
+        "onboard_time": 1677854368,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278035,
+        "num": 278035,
+        "word": "宋亚轩是卧底",
+        "onboard_time": 1677853648,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267587,
+        "num": 267587,
+        "word": "最强大脑",
+        "onboard_time": 1677852507,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241717,
+        "num": 241717,
+        "word": "梅西入选阿根廷国家队名单",
+        "onboard_time": 1677855930,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226687,
+        "num": 226687,
+        "word": "导师给我的论文想好了期刊",
+        "onboard_time": 1677839187,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223806,
+        "num": 223806,
+        "word": "玫瑰的故事",
+        "onboard_time": 1677852929,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 592872,
+        "num": 223513,
+        "word": "Jennie摔伤",
+        "onboard_time": 1677839667,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222811,
+        "num": 222811,
+        "word": "EDG与LNG赛前海报",
+        "onboard_time": 1677843327,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216778,
+        "num": 216778,
+        "word": "张杰冲上云霄机长造型",
+        "onboard_time": 1677850287,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295698,
+        "num": 216666,
+        "word": "迪丽热巴秦岚同台",
+        "onboard_time": 1677838107,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212806,
+        "num": 212806,
+        "word": "佘诗曼林峯重现使徒行者经典片段",
+        "onboard_time": 1677849445,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198292,
+        "num": 198292,
+        "word": "琼斯绝杀",
+        "onboard_time": 1677852208,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194836,
+        "num": 194836,
+        "word": "建议网络直播账号日打赏不超100元",
+        "onboard_time": 1677846505,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 188472,
+        "num": 188472,
+        "word": "你刚毕业时的月薪是多少",
+        "onboard_time": 1677855389,
+        "rank": 27,
+        "category": "情感,财经"
+      },
+      {
+        "raw_hot": 185626,
+        "num": 185626,
+        "word": "小猫独特的打招呼方式",
+        "onboard_time": 1677853770,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185032,
+        "num": 185032,
+        "word": "当你的同事是个天秤座",
+        "onboard_time": 1677846985,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184320,
+        "num": 184320,
+        "word": "李秀满选择方时赫的理由",
+        "onboard_time": 1677850045,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181106,
+        "num": 181106,
+        "word": "王俊凯小时候打篮球旧照",
+        "onboard_time": 1677844525,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174034,
+        "num": 174034,
+        "word": "宋雨琦直播跳TOMBOY",
+        "onboard_time": 1677850287,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173969,
+        "num": 173969,
+        "word": "熊猫和花周边销量飙升906%",
+        "onboard_time": 1677847286,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131753,
+        "num": 131753,
+        "word": "任嘉伦张予曦 凤凰台上",
+        "onboard_time": 1677836908,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415279,
+        "num": 131509,
+        "word": "小S大女儿二女儿合体封面",
+        "onboard_time": 1677836726,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131209,
+        "num": 131209,
+        "word": "章子怡拜会戛纳电影节艺术总监",
+        "onboard_time": 1677853829,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129741,
+        "num": 129741,
+        "word": "刘雯郭晓婷合照",
+        "onboard_time": 1677845787,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122509,
+        "num": 122509,
+        "word": "熊猫和花",
+        "onboard_time": 1677821305,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120190,
+        "num": 120190,
+        "word": "陈飞宇周也的cp名叫YesSir",
+        "onboard_time": 1677839010,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112676,
+        "num": 112676,
+        "word": "我们的客栈",
+        "onboard_time": 1677854009,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108368,
+        "num": 108368,
+        "word": "黄仁俊翻唱你的名字片尾曲",
+        "onboard_time": 1677850887,
+        "rank": 41,
+        "category": "音乐,影视"
+      },
+      {
+        "raw_hot": 179459,
+        "num": 106253,
+        "word": "张大大直播",
+        "onboard_time": 1677848425,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101078,
+        "num": 101078,
+        "word": "eStar声明",
+        "onboard_time": 1677838407,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98413,
+        "num": 98413,
+        "word": "这羊长得好像素描出来的",
+        "onboard_time": 1677844947,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98266,
+        "num": 98266,
+        "word": "LGD战胜BLG",
+        "onboard_time": 1677854129,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89542,
+        "num": 89542,
+        "word": "王源机场路透",
+        "onboard_time": 1677845365,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89159,
+        "num": 89159,
+        "word": "何洁张远合唱",
+        "onboard_time": 1677849987,
+        "rank": 47,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 82464,
+        "num": 82464,
+        "word": "像极了简历上造假的本人",
+        "onboard_time": 1677835829,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70496,
+        "num": 70496,
+        "word": "琼斯CBA生涯10000分",
+        "onboard_time": 1677852869,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
