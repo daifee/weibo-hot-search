@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677809583134,
+  "endTime": 1677814068489,
   "band_list": [
     {
       "raw_hot": 2057427,
@@ -25,6 +25,14 @@
       "onboard_time": 1677803852,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1334639,
+      "num": 1334639,
+      "word": "国考成绩",
+      "onboard_time": 1677809248,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 1297168,
@@ -100,11 +108,27 @@
     },
     {
       "raw_hot": 630265,
-      "num": 346533,
+      "num": 375941,
       "word": "男性最佳生育年龄为30到35周岁",
       "onboard_time": 1677807389,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623879,
+      "num": 623879,
+      "word": "梅西艾特了C罗头像网友",
+      "onboard_time": 1677809487,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 622738,
+      "num": 481020,
+      "word": "何超莲徐璐张天爱同框看秀",
+      "onboard_time": 1677808348,
+      "rank": 13,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 577787,
@@ -139,8 +163,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 532148,
+      "num": 532148,
+      "word": "方时赫收购SM的理由",
+      "onboard_time": 1677811646,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531228,
-      "num": 345836,
+      "num": 373997,
       "word": "女子称因准点下班试用期第3天被辞退",
       "onboard_time": 1677806488,
       "rank": 21,
@@ -155,12 +187,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 485704,
+      "num": 485704,
+      "word": "黑袋装卫生巾是偏见还是关心",
+      "onboard_time": 1677813447,
+      "rank": 7,
+      "category": "社会议题,情感"
+    },
+    {
       "raw_hot": 483723,
       "num": 483723,
       "word": "爱情公寓林宛瑜扮演者近照",
       "onboard_time": 1677746552,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 482768,
+      "num": 482768,
+      "word": "鹿晗吸猫",
+      "onboard_time": 1677812487,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 472172,
@@ -171,6 +219,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470941,
+      "num": 374388,
+      "word": "男生健身做200斤深蹲咬碎后槽牙",
+      "onboard_time": 1677812008,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469329,
+      "num": 469329,
+      "word": "马伊琍佟大为新剧官宣",
+      "onboard_time": 1677813147,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 459864,
       "num": 459864,
       "word": "海关工作犬嗅出6只活体甲虫",
@@ -179,20 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452019,
-      "num": 452019,
-      "word": "何超莲徐璐张天爱同框看秀",
-      "onboard_time": 1677808348,
-      "rank": 13,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 432049,
-      "num": 432049,
-      "word": "国考成绩",
-      "onboard_time": 1677809248,
+      "raw_hot": 440436,
+      "num": 440436,
+      "word": "梅西亲属家超市遭袭击",
+      "onboard_time": 1677811406,
       "rank": 14,
-      "category": "教育"
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 410523,
@@ -211,6 +267,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401918,
+      "num": 401918,
+      "word": "吴京鲨鱼笑",
+      "onboard_time": 1677811887,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 400345,
+      "num": 400345,
+      "word": "iPhone15系列屏幕将采用多家供应商",
+      "onboard_time": 1677811345,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 395496,
       "num": 365215,
       "word": "薛之谦 这世界病了而我没有妥协",
@@ -219,11 +291,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384099,
+      "num": 384099,
+      "word": "胡夫金字塔内发现长9米新通道",
+      "onboard_time": 1677807927,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377349,
       "num": 377349,
       "word": "甄子丹说BBC们从不报道真实的中国",
       "onboard_time": 1677769593,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 371212,
+      "num": 371212,
+      "word": "张颂文参与了好多微公益",
+      "onboard_time": 1677811046,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -243,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349953,
-      "num": 349953,
-      "word": "胡夫金字塔内发现长9米新通道",
-      "onboard_time": 1677807927,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 342881,
+      "num": 342881,
+      "word": "照亮你官宣新主演",
+      "onboard_time": 1677812307,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 342445,
@@ -363,6 +451,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 237314,
+      "num": 237314,
+      "word": "泫雅巴黎时装周看秀造型",
+      "onboard_time": 1677812665,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 223484,
       "num": 223484,
       "word": "陈楚生苏醒王铮亮合唱海上花",
@@ -395,6 +491,14 @@
       "category": "动漫,科技"
     },
     {
+      "raw_hot": 207604,
+      "num": 207604,
+      "word": "Lesserafim应援棒公开",
+      "onboard_time": 1677810086,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205919,
       "num": 198169,
       "word": "柳智敏小拇指骨折了",
@@ -403,12 +507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204583,
+      "num": 204583,
+      "word": "白敬亭最新专访",
+      "onboard_time": 1677813627,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198676,
       "num": 198676,
       "word": "韩维辰第四",
       "onboard_time": 1677773246,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198027,
+      "num": 198027,
+      "word": "电影爱很美味定档",
+      "onboard_time": 1677812967,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 197050,
@@ -427,12 +547,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 188363,
+      "num": 188363,
+      "word": "塞尔达传说王国之泪",
+      "onboard_time": 1677810566,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187651,
       "num": 187651,
       "word": "赵小棠宋妍霏生图路透",
       "onboard_time": 1677808708,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179826,
+      "num": 179826,
+      "word": "建议改变部分企业996超时工作情况",
+      "onboard_time": 1677809846,
+      "rank": 38,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 176269,
@@ -451,12 +587,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170679,
+      "num": 170679,
+      "word": "星落凝成糖换脸特效",
+      "onboard_time": 1677814048,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 169913,
+      "num": 169913,
+      "word": "塞尔达传说旷野之息发售六周年",
+      "onboard_time": 1677809366,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169733,
       "num": 169733,
       "word": "杨幂王楚然穿了同款",
       "onboard_time": 1677750569,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164325,
+      "num": 164325,
+      "word": "上野千鹤子对谈戴锦华实录",
+      "onboard_time": 1677811707,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 158405,
@@ -523,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138032,
+      "num": 138032,
+      "word": "杨超越紫魔新剧照",
+      "onboard_time": 1677812247,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137152,
       "num": 137152,
       "word": "肖战意大利氛围感随拍",
@@ -547,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133133,
+      "num": 133133,
+      "word": "如何预防甲流",
+      "onboard_time": 1677812727,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130382,
       "num": 130382,
       "word": "学霸寝室不泡图书馆全员保研名校",
@@ -561,6 +737,22 @@
       "onboard_time": 1677800906,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127218,
+      "num": 127218,
+      "word": "中本悠太将出演日剧呆萌酷男孩",
+      "onboard_time": 1677810208,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 123855,
+      "num": 123855,
+      "word": "德云社演出节目单",
+      "onboard_time": 1677809546,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 121228,
@@ -635,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106788,
-      "num": 106788,
-      "word": "德云社演出节目单",
-      "onboard_time": 1677809546,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106753,
       "num": 100808,
       "word": "你会暗恋一个人十年吗",
@@ -657,14 +841,6 @@
       "onboard_time": 1677800787,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103417,
-      "num": 103417,
-      "word": "塞尔达传说旷野之息发售六周年",
-      "onboard_time": 1677809366,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 103168,
@@ -689,14 +865,6 @@
       "onboard_time": 1677798680,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 94768,
-      "num": 94768,
-      "word": "梅西艾特了C罗头像网友",
-      "onboard_time": 1677809487,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 89086,

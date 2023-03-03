@@ -1,0 +1,410 @@
+{
+  "runTime": 1677814068489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1334639,
+        "num": 1334639,
+        "word": "国考成绩",
+        "onboard_time": 1677809248,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1234161,
+        "num": 1234161,
+        "word": "赌王姐姐何婉鸿去世",
+        "onboard_time": 1677803852,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21365,
+        "num": 795599,
+        "word": "一图认遍全国春花",
+        "onboard_time": 1677746610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659390,
+        "num": 659390,
+        "word": "章莹颖",
+        "onboard_time": 1677801388,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623879,
+        "num": 623879,
+        "word": "梅西艾特了C罗头像网友",
+        "onboard_time": 1677809487,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532148,
+        "num": 532148,
+        "word": "方时赫收购SM的理由",
+        "onboard_time": 1677811646,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497766,
+        "num": 497766,
+        "word": "民政局回应出台彩礼举报公告",
+        "onboard_time": 1677805289,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485704,
+        "num": 485704,
+        "word": "黑袋装卫生巾是偏见还是关心",
+        "onboard_time": 1677813447,
+        "rank": 7,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 649102,
+        "num": 484779,
+        "word": "B站2022年净亏损75亿元",
+        "onboard_time": 1677806666,
+        "rank": 8,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 482768,
+        "num": 482768,
+        "word": "鹿晗吸猫",
+        "onboard_time": 1677812487,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1087789,
+        "num": 482701,
+        "word": "罗翔评一人犯罪影响家属考公",
+        "onboard_time": 1677802949,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622738,
+        "num": 481020,
+        "word": "何超莲徐璐张天爱同框看秀",
+        "onboard_time": 1677808348,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 731348,
+        "num": 477302,
+        "word": "B站去年给UP主分了91亿",
+        "onboard_time": 1677803671,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 469329,
+        "num": 469329,
+        "word": "马伊琍佟大为新剧官宣",
+        "onboard_time": 1677813147,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440436,
+        "num": 440436,
+        "word": "梅西亲属家超市遭袭击",
+        "onboard_time": 1677811406,
+        "rank": 14,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 408413,
+        "num": 408413,
+        "word": "陆虎向嘘嘘求婚成功",
+        "onboard_time": 1677800365,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401918,
+        "num": 401918,
+        "word": "吴京鲨鱼笑",
+        "onboard_time": 1677811887,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400345,
+        "num": 400345,
+        "word": "iPhone15系列屏幕将采用多家供应商",
+        "onboard_time": 1677811345,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 384099,
+        "num": 384099,
+        "word": "胡夫金字塔内发现长9米新通道",
+        "onboard_time": 1677807927,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377914,
+        "num": 377914,
+        "word": "刘雯7小时走3场秀",
+        "onboard_time": 1677804510,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 630241,
+        "num": 375941,
+        "word": "男性最佳生育年龄为30到35周岁",
+        "onboard_time": 1677807389,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470941,
+        "num": 374388,
+        "word": "男生健身做200斤深蹲咬碎后槽牙",
+        "onboard_time": 1677812008,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383249,
+        "num": 373997,
+        "word": "女子称因准点下班试用期第3天被辞退",
+        "onboard_time": 1677806488,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371212,
+        "num": 371212,
+        "word": "张颂文参与了好多微公益",
+        "onboard_time": 1677811046,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342881,
+        "num": 342881,
+        "word": "照亮你官宣新主演",
+        "onboard_time": 1677812307,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 334318,
+        "num": 334318,
+        "word": "雾都雾里七个八淘汰",
+        "onboard_time": 1677807568,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288394,
+        "num": 288394,
+        "word": "周艺轩说婚礼伴郎团有王一博",
+        "onboard_time": 1677805771,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270741,
+        "num": 270741,
+        "word": "尖沙咀",
+        "onboard_time": 1677798380,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252755,
+        "num": 252755,
+        "word": "甲流与新冠会叠加感染吗",
+        "onboard_time": 1677806547,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237314,
+        "num": 237314,
+        "word": "泫雅巴黎时装周看秀造型",
+        "onboard_time": 1677812665,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226412,
+        "num": 226412,
+        "word": "在双亲的遗物中发现自己的领养证",
+        "onboard_time": 1677771752,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 207604,
+        "num": 207604,
+        "word": "Lesserafim应援棒公开",
+        "onboard_time": 1677810086,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204614,
+        "num": 204614,
+        "word": "蛋仔派对",
+        "onboard_time": 1677799523,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204583,
+        "num": 204583,
+        "word": "白敬亭最新专访",
+        "onboard_time": 1677813627,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200467,
+        "num": 200467,
+        "word": "大学每月生活费多少才够用",
+        "onboard_time": 1677787751,
+        "rank": 34,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 198027,
+        "num": 198027,
+        "word": "电影爱很美味定档",
+        "onboard_time": 1677812967,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196627,
+        "num": 196627,
+        "word": "感染甲流病毒该如何治疗",
+        "onboard_time": 1677803430,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188363,
+        "num": 188363,
+        "word": "塞尔达传说王国之泪",
+        "onboard_time": 1677810566,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179826,
+        "num": 179826,
+        "word": "建议改变部分企业996超时工作情况",
+        "onboard_time": 1677809846,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 170679,
+        "num": 170679,
+        "word": "星落凝成糖换脸特效",
+        "onboard_time": 1677814048,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169913,
+        "num": 169913,
+        "word": "塞尔达传说旷野之息发售六周年",
+        "onboard_time": 1677809366,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164325,
+        "num": 164325,
+        "word": "上野千鹤子对谈戴锦华实录",
+        "onboard_time": 1677811707,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156975,
+        "num": 156975,
+        "word": "温州特斯拉驾驶员已记不清失控场景",
+        "onboard_time": 1677807147,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153489,
+        "num": 153489,
+        "word": "香港一在建大楼发生火灾",
+        "onboard_time": 1677801809,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140748,
+        "num": 140748,
+        "word": "关晓彤荧光绿短裙",
+        "onboard_time": 1677773485,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138032,
+        "num": 138032,
+        "word": "杨超越紫魔新剧照",
+        "onboard_time": 1677812247,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133133,
+        "num": 133133,
+        "word": "如何预防甲流",
+        "onboard_time": 1677812727,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127218,
+        "num": 127218,
+        "word": "中本悠太将出演日剧呆萌酷男孩",
+        "onboard_time": 1677810208,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123855,
+        "num": 123855,
+        "word": "德云社演出节目单",
+        "onboard_time": 1677809546,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122208,
+        "num": 122208,
+        "word": "RedVelvet演唱会海报",
+        "onboard_time": 1677808529,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023看两会#"
+    }
+  }
+}
