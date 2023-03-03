@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677820926611,
+  "endTime": 1677821794019,
   "band_list": [
     {
       "raw_hot": 2057427,
@@ -83,6 +83,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 909511,
+      "num": 909511,
+      "word": "程潇孟美岐吴宣仪不续约宇宙少女",
+      "onboard_time": 1677821187,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 885376,
       "num": 402195,
       "word": "郑中基回应前助手涉香港名媛碎尸案",
@@ -163,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 631709,
+      "num": 631709,
+      "word": "水哥曾患谱系自闭症",
+      "onboard_time": 1677819150,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 630265,
       "num": 375941,
       "word": "男性最佳生育年龄为30到35周岁",
@@ -185,14 +201,6 @@
       "onboard_time": 1677808348,
       "rank": 13,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 594446,
-      "num": 336274,
-      "word": "水哥曾患谱系自闭症",
-      "onboard_time": 1677819150,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 577787,
@@ -240,6 +248,14 @@
       "word": "女子称因准点下班试用期第3天被辞退",
       "onboard_time": 1677806488,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517532,
+      "num": 517532,
+      "word": "商场回应无偿设计丫丫海报并投放",
+      "onboard_time": 1677818970,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -355,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 394484,
-      "num": 394484,
-      "word": "商场回应无偿设计丫丫海报并投放",
-      "onboard_time": 1677818970,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384206,
       "num": 384206,
       "word": "星落凝成糖换脸特效",
@@ -384,6 +392,14 @@
       "word": "甄子丹说BBC们从不报道真实的中国",
       "onboard_time": 1677769593,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 377059,
+      "num": 377059,
+      "word": "LUDA不续约",
+      "onboard_time": 1677821370,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -416,6 +432,14 @@
       "word": "感染甲流病毒该如何治疗",
       "onboard_time": 1677803430,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353395,
+      "num": 353395,
+      "word": "章父曾说最对不起莹颖的就是我",
+      "onboard_time": 1677820469,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -499,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 294551,
+      "num": 294551,
+      "word": "威少在快船",
+      "onboard_time": 1677821187,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281698,
       "num": 281698,
       "word": "温州特斯拉驾驶员已记不清失控场景",
@@ -523,6 +555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 269593,
+      "num": 269593,
+      "word": "曾黎的海外伴手礼",
+      "onboard_time": 1677821429,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269487,
       "num": 269487,
       "word": "李俊昊采访谈林允儿",
@@ -531,8 +571,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 258066,
-      "num": 258066,
+      "raw_hot": 264719,
+      "num": 264719,
+      "word": "刘涛讲粤语",
+      "onboard_time": 1677819989,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 260444,
+      "num": 260444,
       "word": "考试时把自己逗笑了",
       "onboard_time": 1677817414,
       "rank": 49,
@@ -553,14 +601,6 @@
       "onboard_time": 1677765269,
       "rank": 8,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 245080,
-      "num": 245080,
-      "word": "刘涛讲粤语",
-      "onboard_time": 1677819989,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 244611,
@@ -585,6 +625,14 @@
       "onboard_time": 1677812665,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 228828,
+      "num": 228828,
+      "word": "快船vs勇士",
+      "onboard_time": 1677819989,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 228285,
@@ -675,11 +723,11 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 199598,
-      "num": 199598,
-      "word": "章父曾说最对不起莹颖的就是我",
-      "onboard_time": 1677820469,
-      "rank": 33,
+      "raw_hot": 198834,
+      "num": 198834,
+      "word": "熊猫和花",
+      "onboard_time": 1677821305,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -723,14 +771,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 191879,
-      "num": 199172,
-      "word": "快船vs勇士",
-      "onboard_time": 1677819989,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188363,
       "num": 188363,
       "word": "塞尔达传说王国之泪",
@@ -745,6 +785,14 @@
       "onboard_time": 1677808708,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182712,
+      "num": 182712,
+      "word": "这不是花花是果赖",
+      "onboard_time": 1677821667,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 179826,

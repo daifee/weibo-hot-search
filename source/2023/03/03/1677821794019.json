@@ -1,0 +1,410 @@
+{
+  "runTime": 1677821794019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1256875,
+        "num": 1256875,
+        "word": "专家称零彩礼不符合传统婚俗",
+        "onboard_time": 1677816329,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046411,
+        "num": 1046411,
+        "word": "30字小说超60万人收藏",
+        "onboard_time": 1677817530,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18908,
+        "num": 940477,
+        "word": "一图认遍全国春花",
+        "onboard_time": 1677746610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 909511,
+        "num": 909511,
+        "word": "程潇孟美岐吴宣仪不续约宇宙少女",
+        "onboard_time": 1677821187,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631709,
+        "num": 631709,
+        "word": "水哥曾患谱系自闭症",
+        "onboard_time": 1677819150,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571728,
+        "num": 571728,
+        "word": "赌王姐姐何婉鸿去世",
+        "onboard_time": 1677803852,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517532,
+        "num": 517532,
+        "word": "商场回应无偿设计丫丫海报并投放",
+        "onboard_time": 1677818970,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403566,
+        "num": 403566,
+        "word": "国考成绩",
+        "onboard_time": 1677809248,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 377059,
+        "num": 377059,
+        "word": "LUDA不续约",
+        "onboard_time": 1677821370,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361608,
+        "num": 361608,
+        "word": "建议强制实施带薪年假",
+        "onboard_time": 1677814766,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 750095,
+        "num": 360964,
+        "word": "郑中基回应前助手涉香港名媛碎尸案",
+        "onboard_time": 1677816148,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 699700,
+        "num": 359793,
+        "word": "黑袋装卫生巾是偏见还是关心",
+        "onboard_time": 1677813447,
+        "rank": 11,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 535266,
+        "num": 358090,
+        "word": "罗翔评一人犯罪影响家属考公",
+        "onboard_time": 1677802949,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340449,
+        "num": 356912,
+        "word": "国考3月上中旬出分",
+        "onboard_time": 1677818014,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485399,
+        "num": 354916,
+        "word": "章莹颖",
+        "onboard_time": 1677801388,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410795,
+        "num": 354446,
+        "word": "B站2022年净亏损75亿元",
+        "onboard_time": 1677806666,
+        "rank": 15,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 353395,
+        "num": 353395,
+        "word": "章父曾说最对不起莹颖的就是我",
+        "onboard_time": 1677820469,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319359,
+        "num": 319359,
+        "word": "倒数说爱你 定档",
+        "onboard_time": 1677814527,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310004,
+        "num": 310004,
+        "word": "陆虎向嘘嘘求婚成功",
+        "onboard_time": 1677800365,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294551,
+        "num": 294551,
+        "word": "威少在快船",
+        "onboard_time": 1677821187,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468122,
+        "num": 294159,
+        "word": "男性最佳生育年龄为30到35周岁",
+        "onboard_time": 1677807389,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292601,
+        "num": 292601,
+        "word": "星落凝成糖换脸特效",
+        "onboard_time": 1677814048,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286307,
+        "num": 286307,
+        "word": "女子称因准点下班试用期第3天被辞退",
+        "onboard_time": 1677806488,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281523,
+        "num": 281523,
+        "word": "毛不易 抢票",
+        "onboard_time": 1677816569,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276576,
+        "num": 276576,
+        "word": "浪潮",
+        "onboard_time": 1677817892,
+        "rank": 24,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 269593,
+        "num": 269593,
+        "word": "曾黎的海外伴手礼",
+        "onboard_time": 1677821429,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267435,
+        "num": 267435,
+        "word": "梅西艾特了C罗头像网友",
+        "onboard_time": 1677809487,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264719,
+        "num": 264719,
+        "word": "刘涛讲粤语",
+        "onboard_time": 1677819989,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263564,
+        "num": 263564,
+        "word": "B站去年给UP主分了91亿",
+        "onboard_time": 1677803671,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 260444,
+        "num": 260444,
+        "word": "考试时把自己逗笑了",
+        "onboard_time": 1677817414,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239889,
+        "num": 239889,
+        "word": "男生健身做200斤深蹲咬碎后槽牙",
+        "onboard_time": 1677812008,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234467,
+        "num": 234467,
+        "word": "刘雯7小时走3场秀",
+        "onboard_time": 1677804510,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 228828,
+        "num": 228828,
+        "word": "快船vs勇士",
+        "onboard_time": 1677819989,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208381,
+        "num": 208381,
+        "word": "何超莲徐璐张天爱同框看秀",
+        "onboard_time": 1677808348,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 203467,
+        "num": 203467,
+        "word": "全国爱耳日",
+        "onboard_time": 1677819212,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202807,
+        "num": 202807,
+        "word": "iPhone15系列屏幕将采用多家供应商",
+        "onboard_time": 1677811345,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 198834,
+        "num": 198834,
+        "word": "熊猫和花",
+        "onboard_time": 1677821305,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182712,
+        "num": 182712,
+        "word": "这不是花花是果赖",
+        "onboard_time": 1677821667,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175174,
+        "num": 175174,
+        "word": "鹿晗吸猫",
+        "onboard_time": 1677812487,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274789,
+        "num": 175090,
+        "word": "崩坏3第一部大结局",
+        "onboard_time": 1677819752,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174814,
+        "num": 174814,
+        "word": "浪潮信息回应美国出口禁令相关消息",
+        "onboard_time": 1677817710,
+        "rank": 40,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 167538,
+        "num": 167538,
+        "word": "民政局回应出台彩礼举报公告",
+        "onboard_time": 1677805289,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161353,
+        "num": 161353,
+        "word": "雾都雾里七个八淘汰",
+        "onboard_time": 1677807568,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154868,
+        "num": 154868,
+        "word": "胡夫金字塔内发现长9米新通道",
+        "onboard_time": 1677807927,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148296,
+        "num": 148296,
+        "word": "吴京鲨鱼笑",
+        "onboard_time": 1677811887,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142083,
+        "num": 142083,
+        "word": "感染甲流病毒该如何治疗",
+        "onboard_time": 1677803430,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140275,
+        "num": 140275,
+        "word": "方时赫评价SMTOWN和HYBE",
+        "onboard_time": 1677820168,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138973,
+        "num": 138973,
+        "word": "梅西亲属家超市遭袭击",
+        "onboard_time": 1677811406,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 138881,
+        "num": 138881,
+        "word": "宋亚轩新歌",
+        "onboard_time": 1677816087,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128055,
+        "num": 128055,
+        "word": "马伊琍佟大为新剧官宣",
+        "onboard_time": 1677813147,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023看两会#"
+    }
+  }
+}
