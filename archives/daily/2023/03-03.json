@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677824703822,
+  "endTime": 1677825538718,
   "band_list": [
     {
       "raw_hot": 2057427,
@@ -27,19 +27,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1504533,
+      "num": 1504533,
+      "word": "熊猫和花",
+      "onboard_time": 1677821305,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1432919,
       "num": 1432919,
       "word": "赌王姐姐何婉鸿去世",
       "onboard_time": 1677803852,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1425718,
-      "num": 1425718,
-      "word": "熊猫和花",
-      "onboard_time": 1677821305,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -97,6 +97,14 @@
       "onboard_time": 1677771752,
       "rank": 10,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 885595,
+      "num": 448533,
+      "word": "于正回复蒋龙",
+      "onboard_time": 1677824607,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 885376,
@@ -227,6 +235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 571513,
+      "num": 571513,
+      "word": "章父曾说最对不起莹颖的就是我",
+      "onboard_time": 1677820469,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559383,
       "num": 559383,
       "word": "商场回应无偿设计丫丫海报并投放",
@@ -275,12 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 517885,
-      "num": 517885,
-      "word": "章父曾说最对不起莹颖的就是我",
-      "onboard_time": 1677820469,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 521751,
+      "num": 521751,
+      "word": "这不是花花是果赖",
+      "onboard_time": 1677821667,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 508363,
@@ -347,20 +363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458983,
+      "num": 458983,
+      "word": "南京Hero久竞声明",
+      "onboard_time": 1677823229,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 450567,
       "num": 450567,
       "word": "梅西亲属家超市遭袭击",
       "onboard_time": 1677811406,
       "rank": 14,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 434221,
-      "num": 434221,
-      "word": "这不是花花是果赖",
-      "onboard_time": 1677821667,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 410523,
@@ -377,14 +393,6 @@
       "onboard_time": 1677768511,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 403039,
-      "num": 403039,
-      "word": "南京Hero久竞声明",
-      "onboard_time": 1677823229,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 401918,
@@ -409,14 +417,6 @@
       "onboard_time": 1677758190,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 386426,
-      "num": 386426,
-      "word": "于正回复蒋龙",
-      "onboard_time": 1677824607,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 384206,
@@ -555,20 +555,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 315572,
+      "num": 315572,
+      "word": "威少被勇士放空",
+      "onboard_time": 1677821968,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303813,
       "num": 303813,
       "word": "快乐再出发",
       "onboard_time": 1677768810,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301980,
-      "num": 301980,
-      "word": "威少被勇士放空",
-      "onboard_time": 1677821968,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 301683,
@@ -593,6 +593,14 @@
       "onboard_time": 1677807147,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278762,
+      "num": 278762,
+      "word": "薛之谦说佛山站郑州站准备就绪",
+      "onboard_time": 1677825146,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 278404,
@@ -699,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224890,
+      "num": 224890,
+      "word": "棱镜的票秒没",
+      "onboard_time": 1677824607,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 223484,
       "num": 223484,
       "word": "陈楚生苏醒王铮亮合唱海上花",
@@ -737,6 +753,14 @@
       "onboard_time": 1677775580,
       "rank": 7,
       "category": "动漫,科技"
+    },
+    {
+      "raw_hot": 212538,
+      "num": 212538,
+      "word": "一眼万年的初恋脸女主",
+      "onboard_time": 1677825385,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 208554,
@@ -787,6 +811,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 204093,
+      "num": 204093,
+      "word": "唐艺昕云南随拍",
+      "onboard_time": 1677824065,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198676,
       "num": 198676,
       "word": "韩维辰第四",
@@ -835,6 +867,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 192777,
+      "num": 192777,
+      "word": "多愿的选择",
+      "onboard_time": 1677825146,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188363,
       "num": 188363,
       "word": "塞尔达传说王国之泪",
@@ -849,22 +889,6 @@
       "onboard_time": 1677808708,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 185657,
-      "num": 185657,
-      "word": "唐艺昕云南随拍",
-      "onboard_time": 1677824065,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 183325,
-      "num": 183325,
-      "word": "棱镜的票秒没",
-      "onboard_time": 1677824607,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 179826,
@@ -913,6 +937,14 @@
       "onboard_time": 1677750569,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165406,
+      "num": 165406,
+      "word": "互联网新欢",
+      "onboard_time": 1677824904,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 164325,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1677766710,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118221,
+      "num": 118221,
+      "word": "没有一块糖能逃过蒲熠星的推理",
+      "onboard_time": 1677824966,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 116661,
@@ -1291,20 +1331,20 @@
       "category": "情感,自然"
     },
     {
+      "raw_hot": 50654,
+      "num": 651975,
+      "word": "奋进的春天",
+      "onboard_time": 1677824126,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46565,
       "num": 124664,
       "word": "我国短视频用户规模突破10亿",
       "onboard_time": 1677752732,
       "rank": 29,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 39726,
-      "num": 651975,
-      "word": "奋进的春天",
-      "onboard_time": 1677824126,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30071,

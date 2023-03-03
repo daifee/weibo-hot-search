@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677824703822,
+  "endTime": 1677825538718,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1504533,
+      "num": 1504533,
+      "word": "熊猫和花",
+      "onboard_time": 1677821305,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1492541,
       "num": 1492541,
       "word": "周杰伦 抢票",
@@ -232,14 +240,6 @@
       "word": "三甲医院有位患者叫熊猫是真熊猫",
       "onboard_time": 1677643769,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1425718,
-      "num": 1425718,
-      "word": "熊猫和花",
-      "onboard_time": 1677821305,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -681,6 +681,14 @@
       "onboard_time": 1677727526,
       "rank": 33,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 885595,
+      "num": 448533,
+      "word": "于正回复蒋龙",
+      "onboard_time": 1677824607,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 885376,
@@ -1363,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 571513,
+      "num": 571513,
+      "word": "章父曾说最对不起莹颖的就是我",
+      "onboard_time": 1677820469,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571417,
       "num": 571417,
       "word": "2023五一档电影增至五部",
@@ -1579,6 +1595,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 521751,
+      "num": 521751,
+      "word": "这不是花花是果赖",
+      "onboard_time": 1677821667,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 519354,
       "num": 519354,
       "word": "为什么找工作要双休的",
@@ -1593,14 +1617,6 @@
       "onboard_time": 1677737844,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 517885,
-      "num": 517885,
-      "word": "章父曾说最对不起莹颖的就是我",
-      "onboard_time": 1677820469,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 513594,
@@ -1811,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458983,
+      "num": 458983,
+      "word": "南京Hero久竞声明",
+      "onboard_time": 1677823229,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 457564,
       "num": 457564,
       "word": "明天起个税将再次多退少补",
@@ -1929,14 +1953,6 @@
       "onboard_time": 1677755969,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 434221,
-      "num": 434221,
-      "word": "这不是花花是果赖",
-      "onboard_time": 1677821667,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 429938,
@@ -2099,14 +2115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403039,
-      "num": 403039,
-      "word": "南京Hero久竞声明",
-      "onboard_time": 1677823229,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 401918,
       "num": 401918,
       "word": "吴京鲨鱼笑",
@@ -2169,14 +2177,6 @@
       "onboard_time": 1677723446,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 386426,
-      "num": 386426,
-      "word": "于正回复蒋龙",
-      "onboard_time": 1677824607,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 385885,
@@ -2619,6 +2619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315572,
+      "num": 315572,
+      "word": "威少被勇士放空",
+      "onboard_time": 1677821968,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315338,
       "num": 315338,
       "word": "Swisse钙片表面镶嵌一根黑毛",
@@ -2729,14 +2737,6 @@
       "onboard_time": 1677743848,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 301980,
-      "num": 301980,
-      "word": "威少被勇士放空",
-      "onboard_time": 1677821968,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 301683,
@@ -2865,6 +2865,14 @@
       "onboard_time": 1677733111,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278762,
+      "num": 278762,
+      "word": "薛之谦说佛山站郑州站准备就绪",
+      "onboard_time": 1677825146,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 278404,
@@ -3379,6 +3387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224890,
+      "num": 224890,
+      "word": "棱镜的票秒没",
+      "onboard_time": 1677824607,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 224483,
       "num": 224483,
       "word": "如何减轻年轻人生育焦虑",
@@ -3531,6 +3547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212538,
+      "num": 212538,
+      "word": "一眼万年的初恋脸女主",
+      "onboard_time": 1677825385,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211015,
       "num": 211015,
       "word": "双休日对打工人有多重要",
@@ -3681,6 +3705,14 @@
       "onboard_time": 1677817710,
       "rank": 39,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 204093,
+      "num": 204093,
+      "word": "唐艺昕云南随拍",
+      "onboard_time": 1677824065,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 204051,
@@ -3907,6 +3939,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 192777,
+      "num": 192777,
+      "word": "多愿的选择",
+      "onboard_time": 1677825146,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192412,
       "num": 192412,
       "word": "了不起的夜晚定档",
@@ -4091,14 +4131,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 185657,
-      "num": 185657,
-      "word": "唐艺昕云南随拍",
-      "onboard_time": 1677824065,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184277,
       "num": 184277,
       "word": "WBG战胜LGD",
@@ -4121,14 +4153,6 @@
       "onboard_time": 1677727168,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183325,
-      "num": 183325,
-      "word": "棱镜的票秒没",
-      "onboard_time": 1677824607,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 182904,
@@ -4369,6 +4393,14 @@
       "onboard_time": 1677595232,
       "rank": 29,
       "category": "幽默,科技"
+    },
+    {
+      "raw_hot": 165406,
+      "num": 165406,
+      "word": "互联网新欢",
+      "onboard_time": 1677824904,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 164325,
@@ -4963,6 +4995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 118221,
+      "num": 118221,
+      "word": "没有一块糖能逃过蒲熠星的推理",
+      "onboard_time": 1677824966,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117243,
       "num": 117243,
       "word": "勇士战胜开拓者",
@@ -5363,6 +5403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50654,
+      "num": 651975,
+      "word": "奋进的春天",
+      "onboard_time": 1677824126,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48070,
       "num": 2114900,
       "word": "乡村振兴美好图景",
@@ -5385,14 +5433,6 @@
       "onboard_time": 1677680911,
       "rank": 47,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 39726,
-      "num": 651975,
-      "word": "奋进的春天",
-      "onboard_time": 1677824126,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37974,

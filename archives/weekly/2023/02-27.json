@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677824703822,
+  "endTime": 1677825538718,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1504533,
+      "num": 1504533,
+      "word": "熊猫和花",
+      "onboard_time": 1677821305,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1503263,
       "num": 1503263,
       "word": "张译狂飙热播后首露面",
@@ -592,14 +600,6 @@
       "word": "三甲医院有位患者叫熊猫是真熊猫",
       "onboard_time": 1677643769,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1425718,
-      "num": 1425718,
-      "word": "熊猫和花",
-      "onboard_time": 1677821305,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1377,6 +1377,14 @@
       "onboard_time": 1677551848,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 885595,
+      "num": 448533,
+      "word": "于正回复蒋龙",
+      "onboard_time": 1677824607,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 885376,
@@ -2499,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 571513,
+      "num": 571513,
+      "word": "章父曾说最对不起莹颖的就是我",
+      "onboard_time": 1677820469,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571417,
       "num": 571417,
       "word": "2023五一档电影增至五部",
@@ -2867,6 +2883,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 521751,
+      "num": 521751,
+      "word": "这不是花花是果赖",
+      "onboard_time": 1677821667,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 520339,
       "num": 520339,
       "word": "山姆回应顾客买到1天后上市的鸡爪",
@@ -2897,14 +2921,6 @@
       "onboard_time": 1677737844,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 517885,
-      "num": 517885,
-      "word": "章父曾说最对不起莹颖的就是我",
-      "onboard_time": 1677820469,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 517013,
@@ -3307,6 +3323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458983,
+      "num": 458983,
+      "word": "南京Hero久竞声明",
+      "onboard_time": 1677823229,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 457517,
       "num": 457517,
       "word": "上海野生动物园多次抽查发现问题",
@@ -3537,14 +3561,6 @@
       "onboard_time": 1677587129,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 434221,
-      "num": 434221,
-      "word": "这不是花花是果赖",
-      "onboard_time": 1677821667,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 433414,
@@ -3843,14 +3859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 403039,
-      "num": 403039,
-      "word": "南京Hero久竞声明",
-      "onboard_time": 1677823229,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 401918,
       "num": 401918,
       "word": "吴京鲨鱼笑",
@@ -3993,14 +4001,6 @@
       "onboard_time": 1677560794,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 386426,
-      "num": 386426,
-      "word": "于正回复蒋龙",
-      "onboard_time": 1677824607,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 386314,
@@ -4819,6 +4819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315572,
+      "num": 315572,
+      "word": "威少被勇士放空",
+      "onboard_time": 1677821968,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315338,
       "num": 315338,
       "word": "Swisse钙片表面镶嵌一根黑毛",
@@ -5017,14 +5025,6 @@
       "onboard_time": 1677595293,
       "rank": 28,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 301980,
-      "num": 301980,
-      "word": "威少被勇士放空",
-      "onboard_time": 1677821968,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 301683,
@@ -5321,6 +5321,14 @@
       "onboard_time": 1677555208,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278762,
+      "num": 278762,
+      "word": "薛之谦说佛山站郑州站准备就绪",
+      "onboard_time": 1677825146,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 278404,
@@ -6083,6 +6091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224890,
+      "num": 224890,
+      "word": "棱镜的票秒没",
+      "onboard_time": 1677824607,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 224737,
       "num": 224737,
       "word": "甲流患者不宜自行服用奥司他韦",
@@ -6337,6 +6353,14 @@
       "onboard_time": 1677748233,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212538,
+      "num": 212538,
+      "word": "一眼万年的初恋脸女主",
+      "onboard_time": 1677825385,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 211015,
@@ -6641,6 +6665,14 @@
       "onboard_time": 1677817710,
       "rank": 39,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 204093,
+      "num": 204093,
+      "word": "唐艺昕云南随拍",
+      "onboard_time": 1677824065,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 204051,
@@ -7067,6 +7099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192777,
+      "num": 192777,
+      "word": "多愿的选择",
+      "onboard_time": 1677825146,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192482,
       "num": 192482,
       "word": "小学生给课本挑错新教材真的改了",
@@ -7371,14 +7411,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 185657,
-      "num": 185657,
-      "word": "唐艺昕云南随拍",
-      "onboard_time": 1677824065,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185444,
       "num": 185444,
       "word": "马斯克或开发ChatGPT替代品",
@@ -7433,14 +7465,6 @@
       "onboard_time": 1677511114,
       "rank": 42,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 183325,
-      "num": 183325,
-      "word": "棱镜的票秒没",
-      "onboard_time": 1677824607,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 182904,
@@ -7745,6 +7769,14 @@
       "onboard_time": 1677577951,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165406,
+      "num": 165406,
+      "word": "互联网新欢",
+      "onboard_time": 1677824904,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 164325,
@@ -8769,6 +8801,14 @@
       "onboard_time": 1677514226,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118221,
+      "num": 118221,
+      "word": "没有一块糖能逃过蒲熠星的推理",
+      "onboard_time": 1677824966,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 117243,
