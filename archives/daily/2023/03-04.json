@@ -1,10 +1,10 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677860767107,
+  "endTime": 1677861852890,
   "band_list": [
     {
       "raw_hot": 1304155,
-      "num": 160912,
+      "num": 164294,
       "word": "大学每月生活费2000是什么水平",
       "onboard_time": 1677849145,
       "rank": 20,
@@ -41,6 +41,14 @@
       "onboard_time": 1677855389,
       "rank": 3,
       "category": "情感,财经"
+    },
+    {
+      "raw_hot": 397572,
+      "num": 397572,
+      "word": "法院禁止Kakao买SM新股",
+      "onboard_time": 1677861082,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 386753,
@@ -83,12 +91,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300183,
+      "num": 205554,
+      "word": "建议允许提取住房公积金育儿",
+      "onboard_time": 1677859824,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 293463,
       "num": 293463,
       "word": "使用耳机606060原则保护耳朵",
       "onboard_time": 1677854368,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261445,
+      "num": 197175,
+      "word": "美称迫于德国压力向乌提供坦克",
+      "onboard_time": 1677860303,
+      "rank": 43,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 256359,
@@ -105,6 +129,14 @@
       "onboard_time": 1677852328,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 227414,
+      "num": 200205,
+      "word": "Lisa脸部比心",
+      "onboard_time": 1677858926,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 226798,
@@ -131,12 +163,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 200205,
-      "num": 200205,
-      "word": "Lisa脸部比心",
-      "onboard_time": 1677858926,
-      "rank": 15,
-      "category": "音乐"
+      "raw_hot": 192960,
+      "num": 86266,
+      "word": "宋亚轩的广普",
+      "onboard_time": 1677860963,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 184770,
@@ -161,6 +193,14 @@
       "onboard_time": 1677853591,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169795,
+      "num": 169795,
+      "word": "工作空窗期怎么缴纳社保",
+      "onboard_time": 1677859405,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164497,
@@ -195,11 +235,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135721,
-      "num": 135721,
-      "word": "工作空窗期怎么缴纳社保",
-      "onboard_time": 1677859405,
-      "rank": 24,
+      "raw_hot": 134899,
+      "num": 134899,
+      "word": "什么味的奶茶最难喝",
+      "onboard_time": 1677853471,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 134520,
+      "num": 134520,
+      "word": "五哈 好笑",
+      "onboard_time": 1677861681,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134181,
+      "num": 134181,
+      "word": "来自天堂的压岁钱",
+      "onboard_time": 1677859346,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -211,27 +267,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128915,
-      "num": 128915,
-      "word": "什么味的奶茶最难喝",
-      "onboard_time": 1677853471,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 120094,
       "num": 120094,
       "word": "建议网络直播账号日打赏不超100元",
       "onboard_time": 1677846505,
       "rank": 27,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 117606,
-      "num": 112379,
-      "word": "建议允许提取住房公积金育儿",
-      "onboard_time": 1677859824,
-      "rank": 30,
       "category": "国内要闻"
     },
     {
@@ -273,14 +313,6 @@
       "onboard_time": 1677851068,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 104185,
-      "num": 104185,
-      "word": "来自天堂的压岁钱",
-      "onboard_time": 1677859346,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97252,
@@ -347,14 +379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66780,
-      "num": 66780,
-      "word": "美称迫于德国压力向乌提供坦克",
-      "onboard_time": 1677860303,
-      "rank": 43,
-      "category": "军事,国外要闻"
-    },
-    {
       "raw_hot": 66058,
       "num": 66058,
       "word": "这羊长得好像素描出来的",
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 54322,
-      "num": 54322,
+      "num": 58503,
       "word": "黄仁俊翻唱你的名字片尾曲",
       "onboard_time": 1677850887,
       "rank": 48,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#习近平的两会时间#"
+    },
+    {
+      "word": "#总书记关心的事#"
     }
   ]
 }
