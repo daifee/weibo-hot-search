@@ -1,0 +1,410 @@
+{
+  "runTime": 1677886435718,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 524845,
+        "num": 524845,
+        "word": "美称迫于德国压力向乌提供坦克",
+        "onboard_time": 1677860303,
+        "rank": 0,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 506859,
+        "num": 506859,
+        "word": "二刷狂飙才注意到李健这个设计",
+        "onboard_time": 1677852148,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143297,
+        "num": 385310,
+        "word": "全国两会",
+        "onboard_time": 1677851068,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 325805,
+        "num": 325805,
+        "word": "建议将春节法定假期由3天延长为5天",
+        "onboard_time": 1677853591,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 258258,
+        "num": 258258,
+        "word": "大熊猫和花和叶已被广东一企业认养",
+        "onboard_time": 1677844824,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227298,
+        "num": 227298,
+        "word": "新买iPad花屏天猫超市拒退货",
+        "onboard_time": 1677875951,
+        "rank": 5,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 214275,
+        "num": 214275,
+        "word": "建议提供免费墓地和骨灰盒",
+        "onboard_time": 1677852328,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 211133,
+        "num": 211133,
+        "word": "工作空窗期怎么缴纳社保",
+        "onboard_time": 1677859405,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181986,
+        "num": 181986,
+        "word": "法院禁止Kakao买SM新股",
+        "onboard_time": 1677861082,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158905,
+        "num": 158905,
+        "word": "95后考研落榜结果父母双双上岸",
+        "onboard_time": 1677831749,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2044471,
+        "num": 158645,
+        "word": "25岁男演员刘峰去世",
+        "onboard_time": 1677885859,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279858,
+        "num": 158331,
+        "word": "宜古宜今的演员脸",
+        "onboard_time": 1677862639,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197942,
+        "num": 157619,
+        "word": "苏醒苏有朋王心凌合照",
+        "onboard_time": 1677857188,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154618,
+        "num": 154618,
+        "word": "使用耳机606060原则保护耳朵",
+        "onboard_time": 1677854368,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131977,
+        "num": 131977,
+        "word": "梅西入选阿根廷国家队名单",
+        "onboard_time": 1677855930,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126257,
+        "num": 126257,
+        "word": "这羊长得好像素描出来的",
+        "onboard_time": 1677844947,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124322,
+        "num": 124322,
+        "word": "建议网络直播账号日打赏不超100元",
+        "onboard_time": 1677846505,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 116850,
+        "num": 116850,
+        "word": "星落凝成糖",
+        "onboard_time": 1677885498,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112404,
+        "num": 112404,
+        "word": "当你的同事是个天秤座",
+        "onboard_time": 1677846985,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107160,
+        "num": 107160,
+        "word": "你刚毕业时的月薪是多少",
+        "onboard_time": 1677855389,
+        "rank": 19,
+        "category": "情感,财经"
+      },
+      {
+        "raw_hot": 367143,
+        "num": 102631,
+        "word": "大学每月生活费2000是什么水平",
+        "onboard_time": 1677849145,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92111,
+        "num": 92111,
+        "word": "沙溢cos高启强",
+        "onboard_time": 1677853050,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86097,
+        "num": 86097,
+        "word": "来自天堂的压岁钱",
+        "onboard_time": 1677859346,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85770,
+        "num": 85770,
+        "word": "鹿晗谈梅西",
+        "onboard_time": 1677857906,
+        "rank": 23,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 80934,
+        "num": 80934,
+        "word": "进击的巨人",
+        "onboard_time": 1677885618,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 77246,
+        "num": 77246,
+        "word": "陈飞宇周也的cp名叫YesSir",
+        "onboard_time": 1677839010,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77052,
+        "num": 77052,
+        "word": "你为了工作放弃过什么",
+        "onboard_time": 1677859885,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73119,
+        "num": 73119,
+        "word": "五哈 好笑",
+        "onboard_time": 1677861681,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72428,
+        "num": 72428,
+        "word": "如果有百万年薪你会选择辞职创业吗",
+        "onboard_time": 1677870552,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68030,
+        "num": 68030,
+        "word": "小猫独特的打招呼方式",
+        "onboard_time": 1677853770,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106068,
+        "num": 66802,
+        "word": "显高神器短上衣",
+        "onboard_time": 1677883936,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 64381,
+        "num": 64381,
+        "word": "两会时间开启",
+        "onboard_time": 1677885738,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 63290,
+        "num": 63290,
+        "word": "王栎鑫重唱当年快男被淘汰之歌",
+        "onboard_time": 1677858686,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62602,
+        "num": 62602,
+        "word": "熊猫和花周边销量飙升906%",
+        "onboard_time": 1677847286,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62084,
+        "num": 62084,
+        "word": "我们的客栈下期有钟汉良檀健次",
+        "onboard_time": 1677858447,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61664,
+        "num": 61664,
+        "word": "在美华人称丫丫饮食条件已有改善",
+        "onboard_time": 1677827546,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60416,
+        "num": 60416,
+        "word": "郭晓婷把刘雯逗笑了",
+        "onboard_time": 1677857969,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 58209,
+        "num": 58209,
+        "word": "EDG与LNG赛前海报",
+        "onboard_time": 1677843327,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56900,
+        "num": 56900,
+        "word": "佘诗曼林峯重现使徒行者经典片段",
+        "onboard_time": 1677849445,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52809,
+        "num": 52809,
+        "word": "澜星元皮肤",
+        "onboard_time": 1677866536,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55132,
+        "num": 52606,
+        "word": "张杰冲上云霄机长造型",
+        "onboard_time": 1677850287,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51772,
+        "num": 51772,
+        "word": "什么味的奶茶最难喝",
+        "onboard_time": 1677853471,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 51749,
+        "num": 51749,
+        "word": "巨人完结篇开播",
+        "onboard_time": 1677846025,
+        "rank": 42,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 47414,
+        "num": 47414,
+        "word": "琼斯绝杀",
+        "onboard_time": 1677852208,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46765,
+        "num": 46765,
+        "word": "林俊杰再唱雪落下的声音",
+        "onboard_time": 1677853591,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45994,
+        "num": 45994,
+        "word": "你的旅行熊猫已经变身文创产品了",
+        "onboard_time": 1677854249,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 45797,
+        "num": 45797,
+        "word": "导师给我的论文想好了期刊",
+        "onboard_time": 1677839187,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43160,
+        "num": 43160,
+        "word": "水哥看到杨英豪反超握拳庆祝",
+        "onboard_time": 1677863899,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40407,
+        "num": 40407,
+        "word": "韩式英语又在害人",
+        "onboard_time": 1677851610,
+        "rank": 48,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 40006,
+        "num": 40006,
+        "word": "建议高考外语降到100分",
+        "onboard_time": 1677886340,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的事#"
+    }
+  }
+}

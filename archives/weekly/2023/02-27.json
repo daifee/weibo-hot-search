@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677885578218,
+  "endTime": 1677886435718,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -241,6 +241,14 @@
       "onboard_time": 1677798380,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2044471,
+      "num": 158645,
+      "word": "25岁男演员刘峰去世",
+      "onboard_time": 1677885859,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2029268,
@@ -3123,6 +3131,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 524845,
+      "num": 524845,
+      "word": "美称迫于德国压力向乌提供坦克",
+      "onboard_time": 1677860303,
+      "rank": 43,
+      "category": "军事,国外要闻"
+    },
+    {
       "raw_hot": 523819,
       "num": 523819,
       "word": "墨西哥总统宣布特斯拉将在该国建厂",
@@ -3281,14 +3297,6 @@
       "onboard_time": 1677596983,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 507304,
-      "num": 507304,
-      "word": "美称迫于德国压力向乌提供坦克",
-      "onboard_time": 1677860303,
-      "rank": 43,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 506734,
@@ -5907,6 +5915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 279858,
+      "num": 158331,
+      "word": "宜古宜今的演员脸",
+      "onboard_time": 1677862639,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279193,
       "num": 279193,
       "word": "大侦探",
@@ -6081,14 +6097,6 @@
       "onboard_time": 1677574470,
       "rank": 29,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 270750,
-      "num": 128954,
-      "word": "宜古宜今的演员脸",
-      "onboard_time": 1677862639,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 270275,
@@ -6689,6 +6697,14 @@
       "onboard_time": 1677858926,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 227298,
+      "num": 227298,
+      "word": "新买iPad花屏天猫超市拒退货",
+      "onboard_time": 1677875951,
+      "rank": 10,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 227213,
@@ -8491,14 +8507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177315,
-      "num": 177315,
-      "word": "新买iPad花屏天猫超市拒退货",
-      "onboard_time": 1677875951,
-      "rank": 10,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 176269,
       "num": 176269,
       "word": "王嘉尔 你好星期六",
@@ -10179,6 +10187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106068,
+      "num": 66802,
+      "word": "显高神器短上衣",
+      "onboard_time": 1677883936,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 106020,
       "num": 106020,
       "word": "萧寒何冉和好了",
@@ -10691,6 +10707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72428,
+      "num": 72428,
+      "word": "如果有百万年薪你会选择辞职创业吗",
+      "onboard_time": 1677870552,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 71947,
       "num": 315539,
       "word": "小车也要大空间",
@@ -10755,20 +10779,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66380,
-      "num": 51031,
-      "word": "显高神器短上衣",
-      "onboard_time": 1677883936,
-      "rank": 30,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 65140,
       "num": 65140,
       "word": "最晚被解密的两弹一星元勋",
       "onboard_time": 1677419853,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64381,
+      "num": 64381,
+      "word": "两会时间开启",
+      "onboard_time": 1677885738,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 63037,
@@ -10819,14 +10843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59630,
-      "num": 59630,
-      "word": "如果有百万年薪你会选择辞职创业吗",
-      "onboard_time": 1677870552,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 55498,
       "num": 55498,
       "word": "羽生结弦冰演感言",
@@ -10857,6 +10873,14 @@
       "onboard_time": 1677507092,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45994,
+      "num": 45994,
+      "word": "你的旅行熊猫已经变身文创产品了",
+      "onboard_time": 1677854249,
+      "rank": 43,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 44598,
@@ -10891,20 +10915,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 40006,
+      "num": 40006,
+      "word": "建议高考外语降到100分",
+      "onboard_time": 1677886340,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36291,
       "num": 36291,
       "word": "阿森纳vs埃弗顿",
       "onboard_time": 1677698412,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36002,
-      "num": 36002,
-      "word": "你的旅行熊猫已经变身文创产品了",
-      "onboard_time": 1677854249,
-      "rank": 43,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 35634,

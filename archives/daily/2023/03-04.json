@@ -1,7 +1,15 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677885578218,
+  "endTime": 1677886435718,
   "band_list": [
+    {
+      "raw_hot": 2044471,
+      "num": 158645,
+      "word": "25岁男演员刘峰去世",
+      "onboard_time": 1677885859,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1304155,
       "num": 164294,
@@ -43,8 +51,8 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 507304,
-      "num": 507304,
+      "raw_hot": 524845,
+      "num": 524845,
       "word": "美称迫于德国压力向乌提供坦克",
       "onboard_time": 1677860303,
       "rank": 43,
@@ -91,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325805,
+      "num": 325805,
+      "word": "建议将春节法定假期由3天延长为5天",
+      "onboard_time": 1677853591,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 325282,
       "num": 325282,
       "word": "韩式英语又在害人",
@@ -123,20 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270750,
-      "num": 128954,
+      "raw_hot": 279858,
+      "num": 158331,
       "word": "宜古宜今的演员脸",
       "onboard_time": 1677862639,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256359,
-      "num": 256359,
-      "word": "建议将春节法定假期由3天延长为5天",
-      "onboard_time": 1677853591,
-      "rank": 9,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 255556,
@@ -153,6 +161,14 @@
       "onboard_time": 1677858926,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 227298,
+      "num": 227298,
+      "word": "新买iPad花屏天猫超市拒退货",
+      "onboard_time": 1677875951,
+      "rank": 10,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 226798,
@@ -211,14 +227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177315,
-      "num": 177315,
-      "word": "新买iPad花屏天猫超市拒退货",
-      "onboard_time": 1677875951,
-      "rank": 10,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 175019,
       "num": 175019,
       "word": "林俊杰再唱雪落下的声音",
@@ -249,6 +257,14 @@
       "onboard_time": 1677846985,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143297,
+      "num": 520690,
+      "word": "全国两会",
+      "onboard_time": 1677851068,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 137924,
@@ -291,20 +307,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120094,
-      "num": 120094,
+      "raw_hot": 126257,
+      "num": 126257,
+      "word": "这羊长得好像素描出来的",
+      "onboard_time": 1677844947,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 124322,
+      "num": 124322,
       "word": "建议网络直播账号日打赏不超100元",
       "onboard_time": 1677846505,
       "rank": 27,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 117389,
-      "num": 520690,
-      "word": "全国两会",
-      "onboard_time": 1677851068,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 116850,
+      "num": 116850,
+      "word": "星落凝成糖",
+      "onboard_time": 1677885498,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 114317,
@@ -339,12 +363,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 100773,
-      "num": 100773,
-      "word": "这羊长得好像素描出来的",
-      "onboard_time": 1677844947,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 106068,
+      "num": 66802,
+      "word": "显高神器短上衣",
+      "onboard_time": 1677883936,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 97252,
@@ -387,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80934,
+      "num": 80934,
+      "word": "进击的巨人",
+      "onboard_time": 1677885618,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 78793,
       "num": 78793,
       "word": "熊猫和花",
@@ -411,12 +443,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66380,
-      "num": 51031,
-      "word": "显高神器短上衣",
-      "onboard_time": 1677883936,
-      "rank": 30,
-      "category": "时尚"
+      "raw_hot": 72428,
+      "num": 72428,
+      "word": "如果有百万年薪你会选择辞职创业吗",
+      "onboard_time": 1677870552,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 64381,
+      "num": 64381,
+      "word": "两会时间开启",
+      "onboard_time": 1677885738,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 63037,
@@ -451,20 +491,28 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 59630,
-      "num": 59630,
-      "word": "如果有百万年薪你会选择辞职创业吗",
-      "onboard_time": 1677870552,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 54322,
       "num": 58503,
       "word": "黄仁俊翻唱你的名字片尾曲",
       "onboard_time": 1677850887,
       "rank": 48,
       "category": "音乐,影视"
+    },
+    {
+      "raw_hot": 51749,
+      "num": 51749,
+      "word": "巨人完结篇开播",
+      "onboard_time": 1677846025,
+      "rank": 37,
+      "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 45994,
+      "num": 45994,
+      "word": "你的旅行熊猫已经变身文创产品了",
+      "onboard_time": 1677854249,
+      "rank": 43,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 44864,
@@ -483,28 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43321,
-      "num": 43321,
-      "word": "巨人完结篇开播",
-      "onboard_time": 1677846025,
-      "rank": 37,
-      "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 36002,
-      "num": 36002,
-      "word": "你的旅行熊猫已经变身文创产品了",
-      "onboard_time": 1677854249,
-      "rank": 43,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 35546,
-      "num": 35546,
-      "word": "星落凝成糖",
-      "onboard_time": 1677885498,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 40006,
+      "num": 40006,
+      "word": "建议高考外语降到100分",
+      "onboard_time": 1677886340,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33439,
