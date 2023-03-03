@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677861852890,
+  "endTime": 1677863877563,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -1555,6 +1555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 575627,
+      "num": 575627,
+      "word": "法院禁止Kakao买SM新股",
+      "onboard_time": 1677861082,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 574814,
       "num": 426986,
       "word": "肖战托腮",
@@ -2259,6 +2267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 436374,
+      "num": 205554,
+      "word": "建议允许提取住房公积金育儿",
+      "onboard_time": 1677859824,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 435814,
       "num": 435814,
       "word": "建议将春节法定假期由3天延长为5天",
@@ -2499,14 +2515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 397572,
-      "num": 397572,
-      "word": "法院禁止Kakao买SM新股",
-      "onboard_time": 1677861082,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 395491,
       "num": 395491,
       "word": "宁艺卓小熊造型",
@@ -2537,6 +2545,14 @@
       "onboard_time": 1677723446,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386080,
+      "num": 197175,
+      "word": "美称迫于德国压力向乌提供坦克",
+      "onboard_time": 1677860303,
+      "rank": 43,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 385885,
@@ -3283,14 +3299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 300183,
-      "num": 205554,
-      "word": "建议允许提取住房公积金育儿",
-      "onboard_time": 1677859824,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 298470,
       "num": 264405,
       "word": "EDG与LNG赛前海报",
@@ -3649,14 +3657,6 @@
       "onboard_time": 1677839787,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261445,
-      "num": 197175,
-      "word": "美称迫于德国压力向乌提供坦克",
-      "onboard_time": 1677860303,
-      "rank": 43,
-      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 260444,
@@ -4155,6 +4155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220859,
+      "num": 128954,
+      "word": "宜古宜今的演员脸",
+      "onboard_time": 1677862639,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219544,
       "num": 219544,
       "word": "全国中小学消防公开课",
@@ -4553,6 +4561,14 @@
       "onboard_time": 1677626061,
       "rank": 21,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 201922,
+      "num": 201922,
+      "word": "工作空窗期怎么缴纳社保",
+      "onboard_time": 1677859405,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201431,
@@ -5257,14 +5273,6 @@
       "onboard_time": 1677809366,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 169795,
-      "num": 169795,
-      "word": "工作空窗期怎么缴纳社保",
-      "onboard_time": 1677859405,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169737,
@@ -6225,6 +6233,14 @@
       "onboard_time": 1677829948,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108108,
+      "num": 108108,
+      "word": "三分之一被谋杀女性死于配偶之手",
+      "onboard_time": 1677863238,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106310,

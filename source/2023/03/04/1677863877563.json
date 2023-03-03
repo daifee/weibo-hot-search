@@ -1,0 +1,410 @@
+{
+  "runTime": 1677863877563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 575627,
+        "num": 575627,
+        "word": "法院禁止Kakao买SM新股",
+        "onboard_time": 1677861082,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392590,
+        "num": 392590,
+        "word": "二刷狂飙才注意到李健这个设计",
+        "onboard_time": 1677852148,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71078,
+        "num": 236724,
+        "word": "全国两会",
+        "onboard_time": 1677851068,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 229492,
+        "num": 229492,
+        "word": "鹿晗谈梅西",
+        "onboard_time": 1677857906,
+        "rank": 3,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 202947,
+        "num": 202947,
+        "word": "大熊猫和花和叶已被广东一企业认养",
+        "onboard_time": 1677844824,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201922,
+        "num": 201922,
+        "word": "工作空窗期怎么缴纳社保",
+        "onboard_time": 1677859405,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183141,
+        "num": 183141,
+        "word": "你刚毕业时的月薪是多少",
+        "onboard_time": 1677855389,
+        "rank": 6,
+        "category": "情感,财经"
+      },
+      {
+        "raw_hot": 174381,
+        "num": 174381,
+        "word": "你为了工作放弃过什么",
+        "onboard_time": 1677859885,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147884,
+        "num": 147884,
+        "word": "梅西入选阿根廷国家队名单",
+        "onboard_time": 1677855930,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140181,
+        "num": 140181,
+        "word": "我们的客栈下期有钟汉良檀健次",
+        "onboard_time": 1677858447,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436374,
+        "num": 138723,
+        "word": "建议允许提取住房公积金育儿",
+        "onboard_time": 1677859824,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 386080,
+        "num": 136167,
+        "word": "美称迫于德国压力向乌提供坦克",
+        "onboard_time": 1677860303,
+        "rank": 11,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 243112,
+        "num": 133693,
+        "word": "苏醒苏有朋王心凌合照",
+        "onboard_time": 1677857188,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220859,
+        "num": 128954,
+        "word": "宜古宜今的演员脸",
+        "onboard_time": 1677862639,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128119,
+        "num": 128119,
+        "word": "五哈 好笑",
+        "onboard_time": 1677861681,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118011,
+        "num": 118011,
+        "word": "EDG与LNG赛前海报",
+        "onboard_time": 1677843327,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115969,
+        "num": 115969,
+        "word": "韩式英语又在害人",
+        "onboard_time": 1677851610,
+        "rank": 16,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 115725,
+        "num": 115725,
+        "word": "95后考研落榜结果父母双双上岸",
+        "onboard_time": 1677831749,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 111381,
+        "num": 111381,
+        "word": "来自天堂的压岁钱",
+        "onboard_time": 1677859346,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111347,
+        "num": 111347,
+        "word": "在美华人称丫丫饮食条件已有改善",
+        "onboard_time": 1677827546,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561239,
+        "num": 110379,
+        "word": "大学每月生活费2000是什么水平",
+        "onboard_time": 1677849145,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108108,
+        "num": 108108,
+        "word": "三分之一被谋杀女性死于配偶之手",
+        "onboard_time": 1677863238,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105420,
+        "num": 105420,
+        "word": "使用耳机606060原则保护耳朵",
+        "onboard_time": 1677854368,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103175,
+        "num": 103175,
+        "word": "沙溢cos高启强",
+        "onboard_time": 1677853050,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101286,
+        "num": 101286,
+        "word": "当你的同事是个天秤座",
+        "onboard_time": 1677846985,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97526,
+        "num": 97526,
+        "word": "建议提供免费墓地和骨灰盒",
+        "onboard_time": 1677852328,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 88860,
+        "num": 88860,
+        "word": "建议将春节法定假期由3天延长为5天",
+        "onboard_time": 1677853591,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 88745,
+        "num": 88745,
+        "word": "什么味的奶茶最难喝",
+        "onboard_time": 1677853471,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84664,
+        "num": 84664,
+        "word": "导师给我的论文想好了期刊",
+        "onboard_time": 1677839187,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83596,
+        "num": 83596,
+        "word": "王栎鑫重唱当年快男被淘汰之歌",
+        "onboard_time": 1677858686,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83555,
+        "num": 83555,
+        "word": "熊猫和花周边销量飙升906%",
+        "onboard_time": 1677847286,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82543,
+        "num": 82543,
+        "word": "建议网络直播账号日打赏不超100元",
+        "onboard_time": 1677846505,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 76739,
+        "num": 76739,
+        "word": "陈飞宇周也的cp名叫YesSir",
+        "onboard_time": 1677839010,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 74857,
+        "num": 74857,
+        "word": "郭晓婷把刘雯逗笑了",
+        "onboard_time": 1677857969,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 69005,
+        "num": 69005,
+        "word": "林俊杰再唱雪落下的声音",
+        "onboard_time": 1677853591,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 64894,
+        "num": 64894,
+        "word": "佘诗曼林峯重现使徒行者经典片段",
+        "onboard_time": 1677849445,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60494,
+        "num": 60494,
+        "word": "诡秘之主",
+        "onboard_time": 1677835288,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58974,
+        "num": 58974,
+        "word": "最强大脑",
+        "onboard_time": 1677852507,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58302,
+        "num": 58302,
+        "word": "任嘉伦张予曦 凤凰台上",
+        "onboard_time": 1677836908,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56066,
+        "num": 56066,
+        "word": "张杰冲上云霄机长造型",
+        "onboard_time": 1677850287,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53424,
+        "num": 53424,
+        "word": "小猫独特的打招呼方式",
+        "onboard_time": 1677853770,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51741,
+        "num": 51741,
+        "word": "eStar声明",
+        "onboard_time": 1677838407,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49113,
+        "num": 49113,
+        "word": "李秀满选择方时赫的理由",
+        "onboard_time": 1677850045,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48806,
+        "num": 48806,
+        "word": "熊猫和花",
+        "onboard_time": 1677821305,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47719,
+        "num": 47719,
+        "word": "这羊长得好像素描出来的",
+        "onboard_time": 1677844947,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47573,
+        "num": 47573,
+        "word": "玫瑰的故事",
+        "onboard_time": 1677852929,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42441,
+        "num": 42441,
+        "word": "流浪地球3要给杭州加戏",
+        "onboard_time": 1677839367,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40976,
+        "num": 40976,
+        "word": "琼斯绝杀",
+        "onboard_time": 1677852208,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35864,
+        "num": 35864,
+        "word": "黄仁俊翻唱你的名字片尾曲",
+        "onboard_time": 1677850887,
+        "rank": 48,
+        "category": "音乐,影视"
+      },
+      {
+        "raw_hot": 34084,
+        "num": 34084,
+        "word": "LGD战胜BLG",
+        "onboard_time": 1677854129,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心头最大的牵挂#"
+    }
+  }
+}
