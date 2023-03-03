@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677848071734,
+  "endTime": 1677849948387,
   "band_list": [
     {
       "raw_hot": 3397650,
@@ -363,6 +363,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 622252,
+      "num": 622252,
+      "word": "邓超陈赫鹿晗五哈3换头像",
+      "onboard_time": 1677846326,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 577787,
       "num": 577787,
       "word": "周艺轩说婚礼伴郎团有王一博",
@@ -401,6 +409,14 @@
       "onboard_time": 1677821370,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 550230,
+      "num": 550230,
+      "word": "建议网络直播账号日打赏不超100元",
+      "onboard_time": 1677846505,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 547876,
@@ -457,6 +473,14 @@
       "onboard_time": 1677840328,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 510966,
+      "num": 266770,
+      "word": "刘雯郭晓婷合照",
+      "onboard_time": 1677845787,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 508363,
@@ -611,28 +635,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 398493,
-      "num": 236598,
-      "word": "刘雯郭晓婷合照",
-      "onboard_time": 1677845787,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 395496,
       "num": 365215,
       "word": "薛之谦 这世界病了而我没有妥协",
       "onboard_time": 1677758190,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 387455,
-      "num": 387455,
-      "word": "邓超陈赫鹿晗五哈3换头像",
-      "onboard_time": 1677846326,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 385391,
@@ -739,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352911,
+      "num": 352911,
+      "word": "张大大直播",
+      "onboard_time": 1677848425,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352559,
       "num": 352559,
       "word": "王源回忆青春修炼手册MV",
@@ -763,6 +779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 350336,
+      "num": 350336,
+      "word": "大熊猫和花和叶已被广东一企业认养",
+      "onboard_time": 1677844824,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342881,
       "num": 342881,
       "word": "照亮你官宣新主演",
@@ -785,6 +809,14 @@
       "onboard_time": 1677830785,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 335859,
+      "num": 262566,
+      "word": "大学每月生活费2000是什么水平",
+      "onboard_time": 1677849145,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 334006,
@@ -873,6 +905,14 @@
       "onboard_time": 1677789790,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 298470,
+      "num": 259386,
+      "word": "EDG与LNG赛前海报",
+      "onboard_time": 1677843327,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 297653,
@@ -1059,12 +1099,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 236216,
-      "num": 236216,
-      "word": "EDG与LNG赛前海报",
-      "onboard_time": 1677843327,
-      "rank": 16,
-      "category": "游戏"
+      "raw_hot": 232394,
+      "num": 232394,
+      "word": "苏醒新歌不要劝我放下",
+      "onboard_time": 1677848125,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 230776,
+      "num": 230776,
+      "word": "王俊凯小时候打篮球旧照",
+      "onboard_time": 1677844525,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 230480,
@@ -1251,12 +1299,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 202444,
-      "num": 202444,
-      "word": "大熊猫和花和叶已被广东一企业认养",
-      "onboard_time": 1677844824,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 203867,
+      "num": 148151,
+      "word": "搞笑女是人类的宝藏",
+      "onboard_time": 1677849927,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 201431,
@@ -1289,6 +1337,14 @@
       "onboard_time": 1677834928,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199037,
+      "num": 199037,
+      "word": "佘诗曼林峯重现使徒行者经典片段",
+      "onboard_time": 1677849445,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 198676,
@@ -1355,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195591,
+      "num": 161429,
+      "word": "玄商夜昙舞剑",
+      "onboard_time": 1677849385,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195072,
       "num": 195072,
       "word": "宋茜泰国vlog",
@@ -1369,14 +1433,6 @@
       "onboard_time": 1677841529,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194117,
-      "num": 194117,
-      "word": "建议网络直播账号日打赏不超100元",
-      "onboard_time": 1677846505,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 193346,
@@ -1579,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149652,
+      "num": 149652,
+      "word": "花海娜可露露杀疯了",
+      "onboard_time": 1677848186,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149298,
       "num": 149298,
       "word": "最强大脑今晚八强诞生",
@@ -1643,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142279,
+      "num": 142279,
+      "word": "当你的同事是个天秤座",
+      "onboard_time": 1677846985,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140858,
       "num": 140858,
       "word": "综艺展开说说",
@@ -1665,14 +1737,6 @@
       "onboard_time": 1677800245,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136283,
-      "num": 136283,
-      "word": "当你的同事是个天秤座",
-      "onboard_time": 1677846985,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 135490,
@@ -1771,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119241,
+      "num": 119241,
+      "word": "张颂文只想专心拍戏",
+      "onboard_time": 1677842606,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119167,
       "num": 119167,
       "word": "王一博李沁同框路透",
@@ -1787,14 +1859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118600,
-      "num": 118600,
-      "word": "王俊凯小时候打篮球旧照",
-      "onboard_time": 1677844525,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118253,
       "num": 118253,
       "word": "王子浩29名",
@@ -1808,14 +1872,6 @@
       "word": "刘涛直播唱乌梅子酱",
       "onboard_time": 1677764972,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 116151,
-      "num": 116151,
-      "word": "张颂文只想专心拍戏",
-      "onboard_time": 1677842606,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1843,12 +1899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112847,
+      "num": 112847,
+      "word": "出现耳鸣怎么办",
+      "onboard_time": 1677849205,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112464,
       "num": 112464,
       "word": "重紫登中国妇女报",
       "onboard_time": 1677770250,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 110413,
+      "num": 110413,
+      "word": "熊猫和花周边销量飙升906%",
+      "onboard_time": 1677847286,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109228,
@@ -1913,14 +1985,6 @@
       "onboard_time": 1677765871,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 102250,
-      "num": 102250,
-      "word": "熊猫和花周边销量飙升906%",
-      "onboard_time": 1677847286,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97460,
@@ -2011,6 +2075,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 82458,
+      "num": 113101,
+      "word": "上海街头惊现新欢角",
+      "onboard_time": 1677848425,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82344,
       "num": 82344,
       "word": "中动协称丫丫乐乐或将一起回国",
@@ -2033,6 +2105,14 @@
       "onboard_time": 1677841949,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78719,
+      "num": 78719,
+      "word": "Haerin双丸子头",
+      "onboard_time": 1677849805,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 78230,
