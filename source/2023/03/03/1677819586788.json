@@ -1,0 +1,410 @@
+{
+  "runTime": 1677819586788,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1364907,
+        "num": 1364907,
+        "word": "专家称零彩礼不符合传统婚俗",
+        "onboard_time": 1677816329,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1265807,
+        "num": 1265807,
+        "word": "30字小说超60万人收藏",
+        "onboard_time": 1677817530,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18433,
+        "num": 997547,
+        "word": "一图认遍全国春花",
+        "onboard_time": 1677746610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861030,
+        "num": 861030,
+        "word": "赌王姐姐何婉鸿去世",
+        "onboard_time": 1677803852,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788416,
+        "num": 788416,
+        "word": "国考3月上中旬出分",
+        "onboard_time": 1677818014,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642150,
+        "num": 642150,
+        "word": "建议强制实施带薪年假",
+        "onboard_time": 1677814766,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 532086,
+        "num": 532086,
+        "word": "国考成绩",
+        "onboard_time": 1677809248,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 512457,
+        "num": 512457,
+        "word": "倒数说爱你 定档",
+        "onboard_time": 1677814527,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462902,
+        "num": 462902,
+        "word": "毛不易 抢票",
+        "onboard_time": 1677816569,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384206,
+        "num": 384206,
+        "word": "星落凝成糖换脸特效",
+        "onboard_time": 1677814048,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1213435,
+        "num": 383799,
+        "word": "黑袋装卫生巾是偏见还是关心",
+        "onboard_time": 1677813447,
+        "rank": 10,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 885376,
+        "num": 381727,
+        "word": "郑中基回应前助手涉香港名媛碎尸案",
+        "onboard_time": 1677816148,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 803341,
+        "num": 381120,
+        "word": "罗翔评一人犯罪影响家属考公",
+        "onboard_time": 1677802949,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609523,
+        "num": 378312,
+        "word": "章莹颖",
+        "onboard_time": 1677801388,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72884,
+        "num": 377325,
+        "word": "为什么向野而生成为趋势",
+        "onboard_time": 1677816029,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 507757,
+        "num": 375084,
+        "word": "B站2022年净亏损75亿元",
+        "onboard_time": 1677806666,
+        "rank": 15,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 375006,
+        "num": 375006,
+        "word": "陆虎向嘘嘘求婚成功",
+        "onboard_time": 1677800365,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372210,
+        "num": 372210,
+        "word": "浪潮",
+        "onboard_time": 1677817892,
+        "rank": 17,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 340405,
+        "num": 340405,
+        "word": "民政局回应出台彩礼举报公告",
+        "onboard_time": 1677805289,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330009,
+        "num": 330009,
+        "word": "刘雯7小时走3场秀",
+        "onboard_time": 1677804510,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 618355,
+        "num": 328655,
+        "word": "男性最佳生育年龄为30到35周岁",
+        "onboard_time": 1677807389,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424581,
+        "num": 327906,
+        "word": "B站去年给UP主分了91亿",
+        "onboard_time": 1677803671,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 383470,
+        "num": 327701,
+        "word": "女子称因准点下班试用期第3天被辞退",
+        "onboard_time": 1677806488,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324164,
+        "num": 324164,
+        "word": "男生健身做200斤深蹲咬碎后槽牙",
+        "onboard_time": 1677812008,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315066,
+        "num": 315066,
+        "word": "梅西艾特了C罗头像网友",
+        "onboard_time": 1677809487,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295561,
+        "num": 295561,
+        "word": "何超莲徐璐张天爱同框看秀",
+        "onboard_time": 1677808348,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 269828,
+        "num": 269828,
+        "word": "鹿晗吸猫",
+        "onboard_time": 1677812487,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262225,
+        "num": 262225,
+        "word": "水哥曾患谱系自闭症",
+        "onboard_time": 1677819150,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259655,
+        "num": 259655,
+        "word": "胡夫金字塔内发现长9米新通道",
+        "onboard_time": 1677807927,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257167,
+        "num": 257167,
+        "word": "梅西亲属家超市遭袭击",
+        "onboard_time": 1677811406,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 245690,
+        "num": 245690,
+        "word": "尖沙咀",
+        "onboard_time": 1677798380,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227501,
+        "num": 227501,
+        "word": "雾都雾里七个八淘汰",
+        "onboard_time": 1677807568,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219793,
+        "num": 219793,
+        "word": "方时赫收购SM的理由",
+        "onboard_time": 1677811646,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211132,
+        "num": 211132,
+        "word": "宋亚轩新歌",
+        "onboard_time": 1677816087,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210405,
+        "num": 210405,
+        "word": "马伊琍佟大为新剧官宣",
+        "onboard_time": 1677813147,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208604,
+        "num": 208604,
+        "word": "iPhone15系列屏幕将采用多家供应商",
+        "onboard_time": 1677811345,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 208554,
+        "num": 208554,
+        "word": "全国爱耳日",
+        "onboard_time": 1677819212,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204162,
+        "num": 204162,
+        "word": "浪潮信息回应美国出口禁令相关消息",
+        "onboard_time": 1677817710,
+        "rank": 37,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 203909,
+        "num": 203909,
+        "word": "周艺轩说婚礼伴郎团有王一博",
+        "onboard_time": 1677805771,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201727,
+        "num": 201727,
+        "word": "姚薇怀孕",
+        "onboard_time": 1677815307,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200750,
+        "num": 200750,
+        "word": "感染甲流病毒该如何治疗",
+        "onboard_time": 1677803430,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198950,
+        "num": 198950,
+        "word": "吴京鲨鱼笑",
+        "onboard_time": 1677811887,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198909,
+        "num": 198909,
+        "word": "考试时把自己逗笑了",
+        "onboard_time": 1677817414,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196551,
+        "num": 196551,
+        "word": "商场回应无偿设计丫丫海报并投放",
+        "onboard_time": 1677818970,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183775,
+        "num": 183775,
+        "word": "甲流与新冠会叠加感染吗",
+        "onboard_time": 1677806547,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172390,
+        "num": 172390,
+        "word": "杨超越徐正溪车顶合照",
+        "onboard_time": 1677815186,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169209,
+        "num": 169209,
+        "word": "张颂文参与了好多微公益",
+        "onboard_time": 1677811046,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161660,
+        "num": 161660,
+        "word": "泫雅巴黎时装周看秀造型",
+        "onboard_time": 1677812665,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139929,
+        "num": 139929,
+        "word": "白敬亭最新专访",
+        "onboard_time": 1677813627,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124398,
+        "num": 124398,
+        "word": "Lesserafim应援棒公开",
+        "onboard_time": 1677810086,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023看两会#"
+    }
+  }
+}
