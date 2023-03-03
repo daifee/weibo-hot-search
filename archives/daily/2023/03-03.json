@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677853070739,
+  "endTime": 1677854106004,
   "band_list": [
     {
       "raw_hot": 3397650,
@@ -19,20 +19,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2082965,
+      "num": 2082965,
+      "word": "可乐 香菜",
+      "onboard_time": 1677850647,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2057427,
       "num": 2057427,
       "word": "尖沙咀",
       "onboard_time": 1677798380,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1893514,
-      "num": 1893514,
-      "word": "可乐 香菜",
-      "onboard_time": 1677850647,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1815729,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1095452,
-      "num": 240702,
+      "num": 271298,
       "word": "小S大女儿二女儿合体封面",
       "onboard_time": 1677836726,
       "rank": 20,
@@ -347,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 647491,
+      "num": 647491,
+      "word": "二刷狂飙才注意到李健这个设计",
+      "onboard_time": 1677852148,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 646193,
       "num": 646193,
       "word": "eStar声明",
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531014,
+      "num": 531014,
+      "word": "大熊猫和花和叶已被广东一企业认养",
+      "onboard_time": 1677844824,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521751,
       "num": 521751,
       "word": "这不是花花是果赖",
@@ -489,14 +505,6 @@
       "onboard_time": 1677840328,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 520637,
-      "num": 520637,
-      "word": "大熊猫和花和叶已被广东一企业认养",
-      "onboard_time": 1677844824,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 510966,
@@ -536,6 +544,14 @@
       "word": "鹿晗吸猫",
       "onboard_time": 1677812487,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 473372,
+      "num": 372276,
+      "word": "沙溢cos高启强",
+      "onboard_time": 1677853050,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -755,6 +771,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370834,
+      "num": 370834,
+      "word": "建议提供免费墓地和骨灰盒",
+      "onboard_time": 1677852328,
+      "rank": 33,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 362819,
+      "num": 362819,
+      "word": "佘诗曼林峯重现使徒行者经典片段",
+      "onboard_time": 1677849445,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362522,
       "num": 362522,
       "word": "一眼万年的初恋脸女主",
@@ -801,14 +833,6 @@
       "onboard_time": 1677822626,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 352053,
-      "num": 352053,
-      "word": "佘诗曼林峯重现使徒行者经典片段",
-      "onboard_time": 1677849445,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 351976,
@@ -907,6 +931,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 317348,
+      "num": 317348,
+      "word": "琼斯绝杀",
+      "onboard_time": 1677852208,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315572,
       "num": 315572,
       "word": "威少被勇士放空",
@@ -931,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313072,
+      "num": 313072,
+      "word": "韩式英语又在害人",
+      "onboard_time": 1677851610,
+      "rank": 31,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 303813,
       "num": 303813,
       "word": "快乐再出发",
@@ -947,12 +987,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 301184,
+      "num": 301184,
+      "word": "最强大脑",
+      "onboard_time": 1677852507,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298470,
       "num": 264405,
       "word": "EDG与LNG赛前海报",
       "onboard_time": 1677843327,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298227,
+      "num": 270705,
+      "word": "林俊杰再唱雪落下的声音",
+      "onboard_time": 1677853591,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 297653,
@@ -1003,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284966,
-      "num": 284966,
-      "word": "二刷狂飙才注意到李健这个设计",
-      "onboard_time": 1677852148,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 281698,
       "num": 281698,
       "word": "温州特斯拉驾驶员已记不清失控场景",
@@ -1033,6 +1081,14 @@
       "onboard_time": 1677819752,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 275729,
+      "num": 256960,
+      "word": "玫瑰的故事",
+      "onboard_time": 1677852929,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 271882,
@@ -1107,6 +1163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 255825,
+      "num": 255825,
+      "word": "宋亚轩是卧底",
+      "onboard_time": 1677853648,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250517,
       "num": 250517,
       "word": "米兰时装周国内明星最佳看秀造型",
@@ -1163,6 +1227,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 234139,
+      "num": 234139,
+      "word": "建议将春节法定假期由3天延长为5天",
+      "onboard_time": 1677853591,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 232394,
       "num": 232394,
       "word": "苏醒新歌不要劝我放下",
@@ -1176,14 +1248,6 @@
       "word": "吴奇隆林峯合照",
       "onboard_time": 1677830969,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 229869,
-      "num": 194049,
-      "word": "沙溢cos高启强",
-      "onboard_time": 1677853050,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1283,6 +1347,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 213507,
+      "num": 213507,
+      "word": "小猫独特的打招呼方式",
+      "onboard_time": 1677853770,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213249,
       "num": 213249,
       "word": "B站称三体动画引中国式科幻热潮",
@@ -1305,14 +1377,6 @@
       "onboard_time": 1677819212,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208217,
-      "num": 208217,
-      "word": "琼斯绝杀",
-      "onboard_time": 1677852208,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 207604,
@@ -1396,7 +1460,7 @@
     },
     {
       "raw_hot": 203502,
-      "num": 203502,
+      "num": 257053,
       "word": "当你的同事是个天秤座",
       "onboard_time": 1677846985,
       "rank": 31,
@@ -1419,14 +1483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200638,
-      "num": 200638,
-      "word": "最强大脑",
-      "onboard_time": 1677852507,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199532,
       "num": 199532,
       "word": "明日方舟联动怪物猎人",
@@ -1441,6 +1497,14 @@
       "onboard_time": 1677834928,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198957,
+      "num": 198957,
+      "word": "我们的客栈",
+      "onboard_time": 1677854009,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 198676,
@@ -1555,14 +1619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192092,
-      "num": 192092,
-      "word": "韩式英语又在害人",
-      "onboard_time": 1677851610,
-      "rank": 31,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 188941,
       "num": 188941,
       "word": "花海三月春日大片",
@@ -1601,6 +1657,14 @@
       "onboard_time": 1677847945,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182250,
+      "num": 182250,
+      "word": "章子怡拜会戛纳电影节艺术总监",
+      "onboard_time": 1677853829,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 181370,
@@ -1731,16 +1795,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 156506,
-      "num": 156506,
-      "word": "玫瑰的故事",
-      "onboard_time": 1677852929,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 155919,
-      "num": 196816,
+      "num": 243145,
       "word": "熊猫和花周边销量飙升906%",
       "onboard_time": 1677847286,
       "rank": 43,
@@ -1756,7 +1812,7 @@
     },
     {
       "raw_hot": 152819,
-      "num": 152819,
+      "num": 182257,
       "word": "这羊长得好像素描出来的",
       "onboard_time": 1677844947,
       "rank": 28,
@@ -1849,14 +1905,6 @@
       "onboard_time": 1677823706,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138552,
-      "num": 170640,
-      "word": "建议提供免费墓地和骨灰盒",
-      "onboard_time": 1677852328,
-      "rank": 33,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 138032,
@@ -2147,20 +2195,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 93752,
+      "num": 132808,
+      "word": "琼斯CBA生涯10000分",
+      "onboard_time": 1677852869,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90590,
       "num": 104611,
       "word": "全国政协十四届一次会议会期7天半",
       "onboard_time": 1677833187,
       "rank": 45,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 89089,
-      "num": 89089,
-      "word": "琼斯CBA生涯10000分",
-      "onboard_time": 1677852869,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 89086,
@@ -2399,6 +2447,9 @@
     },
     {
       "word": "#总书记心头最大的牵挂#"
+    },
+    {
+      "word": "#总书记关心的事#"
     }
   ]
 }

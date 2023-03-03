@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677853070739,
+  "endTime": 1677854106004,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -227,6 +227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2082965,
+      "num": 2082965,
+      "word": "可乐 香菜",
+      "onboard_time": 1677850647,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2057427,
       "num": 2057427,
       "word": "尖沙咀",
@@ -265,14 +273,6 @@
       "onboard_time": 1677671189,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1893514,
-      "num": 1893514,
-      "word": "可乐 香菜",
-      "onboard_time": 1677850647,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1868036,
@@ -1108,7 +1108,7 @@
     },
     {
       "raw_hot": 1095452,
-      "num": 240702,
+      "num": 271298,
       "word": "小S大女儿二女儿合体封面",
       "onboard_time": 1677836726,
       "rank": 20,
@@ -2339,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647491,
+      "num": 647491,
+      "word": "二刷狂飙才注意到李健这个设计",
+      "onboard_time": 1677852148,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 647245,
       "num": 647245,
       "word": "特斯拉投资者日",
@@ -2995,6 +3003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531014,
+      "num": 531014,
+      "word": "大熊猫和花和叶已被广东一企业认养",
+      "onboard_time": 1677844824,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530685,
       "num": 530685,
       "word": "安欣陆泽宁楼道吻",
@@ -3081,14 +3097,6 @@
       "onboard_time": 1677840328,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 520637,
-      "num": 520637,
-      "word": "大熊猫和花和叶已被广东一企业认养",
-      "onboard_time": 1677844824,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 520339,
@@ -3449,6 +3457,14 @@
       "onboard_time": 1677710777,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 473372,
+      "num": 372276,
+      "word": "沙溢cos高启强",
+      "onboard_time": 1677853050,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 472172,
@@ -4451,6 +4467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370834,
+      "num": 370834,
+      "word": "建议提供免费墓地和骨灰盒",
+      "onboard_time": 1677852328,
+      "rank": 33,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 370785,
       "num": 370785,
       "word": "蒋胜男发声反对加班泛滥",
@@ -4529,6 +4553,14 @@
       "onboard_time": 1677421413,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362819,
+      "num": 362819,
+      "word": "佘诗曼林峯重现使徒行者经典片段",
+      "onboard_time": 1677849445,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 362753,
@@ -4665,14 +4697,6 @@
       "onboard_time": 1677764009,
       "rank": 38,
       "category": "情感,自然"
-    },
-    {
-      "raw_hot": 352053,
-      "num": 352053,
-      "word": "佘诗曼林峯重现使徒行者经典片段",
-      "onboard_time": 1677849445,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 351976,
@@ -5163,6 +5187,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 317348,
+      "num": 317348,
+      "word": "琼斯绝杀",
+      "onboard_time": 1677852208,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 316718,
       "num": 316718,
       "word": "阿娇米兰餐厅打卡照",
@@ -5225,6 +5257,14 @@
       "onboard_time": 1677838347,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313072,
+      "num": 313072,
+      "word": "韩式英语又在害人",
+      "onboard_time": 1677851610,
+      "rank": 31,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 312656,
@@ -5403,6 +5443,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 301184,
+      "num": 301184,
+      "word": "最强大脑",
+      "onboard_time": 1677852507,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301156,
       "num": 301156,
       "word": "特斯拉Cybertruck将在今年问世",
@@ -5449,6 +5497,14 @@
       "onboard_time": 1677626542,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298227,
+      "num": 270705,
+      "word": "林俊杰再唱雪落下的声音",
+      "onboard_time": 1677853591,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 297653,
@@ -5683,14 +5739,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 284966,
-      "num": 284966,
-      "word": "二刷狂飙才注意到李健这个设计",
-      "onboard_time": 1677852148,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 284392,
       "num": 284392,
       "word": "流浪地球2成2月票房冠军",
@@ -5808,6 +5856,14 @@
       "word": "张艺兴金晨捕鱼行动立项",
       "onboard_time": 1677645934,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 275729,
+      "num": 256960,
+      "word": "玫瑰的故事",
+      "onboard_time": 1677852929,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -6065,6 +6121,14 @@
       "onboard_time": 1677834688,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 255825,
+      "num": 255825,
+      "word": "宋亚轩是卧底",
+      "onboard_time": 1677853648,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 255297,
@@ -6379,6 +6443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234139,
+      "num": 234139,
+      "word": "建议将春节法定假期由3天延长为5天",
+      "onboard_time": 1677853591,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 234042,
       "num": 234042,
       "word": "何瑞贤秀场妆",
@@ -6440,14 +6512,6 @@
       "word": "吴奇隆林峯合照",
       "onboard_time": 1677830969,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 229869,
-      "num": 194049,
-      "word": "沙溢cos高启强",
-      "onboard_time": 1677853050,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -6859,6 +6923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213507,
+      "num": 213507,
+      "word": "小猫独特的打招呼方式",
+      "onboard_time": 1677853770,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213249,
       "num": 213249,
       "word": "B站称三体动画引中国式科幻热潮",
@@ -6993,14 +7065,6 @@
       "onboard_time": 1677560136,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208217,
-      "num": 208217,
-      "word": "琼斯绝杀",
-      "onboard_time": 1677852208,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 207947,
@@ -7284,7 +7348,7 @@
     },
     {
       "raw_hot": 203502,
-      "num": 203502,
+      "num": 257053,
       "word": "当你的同事是个天秤座",
       "onboard_time": 1677846985,
       "rank": 31,
@@ -7403,14 +7467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200638,
-      "num": 200638,
-      "word": "最强大脑",
-      "onboard_time": 1677852507,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200216,
       "num": 200216,
       "word": "网友点赞甘孜文旅局执行力",
@@ -7465,6 +7521,14 @@
       "onboard_time": 1677834928,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198957,
+      "num": 198957,
+      "word": "我们的客栈",
+      "onboard_time": 1677854009,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 198676,
@@ -7827,14 +7891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192092,
-      "num": 192092,
-      "word": "韩式英语又在害人",
-      "onboard_time": 1677851610,
-      "rank": 31,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 192042,
       "num": 192042,
       "word": "金泰亨演我第一天入职",
@@ -8193,6 +8249,14 @@
       "onboard_time": 1677569969,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182250,
+      "num": 182250,
+      "word": "章子怡拜会戛纳电影节艺术总监",
+      "onboard_time": 1677853829,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 182203,
@@ -8723,14 +8787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 156506,
-      "num": 156506,
-      "word": "玫瑰的故事",
-      "onboard_time": 1677852929,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 156066,
       "num": 156066,
       "word": "又看到刘诗雯打球了",
@@ -8748,7 +8804,7 @@
     },
     {
       "raw_hot": 155919,
-      "num": 196816,
+      "num": 243145,
       "word": "熊猫和花周边销量飙升906%",
       "onboard_time": 1677847286,
       "rank": 43,
@@ -8836,7 +8892,7 @@
     },
     {
       "raw_hot": 152819,
-      "num": 152819,
+      "num": 182257,
       "word": "这羊长得好像素描出来的",
       "onboard_time": 1677844947,
       "rank": 28,
@@ -9121,14 +9177,6 @@
       "onboard_time": 1677579871,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 138552,
-      "num": 170640,
-      "word": "建议提供免费墓地和骨灰盒",
-      "onboard_time": 1677852328,
-      "rank": 33,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 138495,
@@ -10163,6 +10211,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 93752,
+      "num": 132808,
+      "word": "琼斯CBA生涯10000分",
+      "onboard_time": 1677852869,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92813,
       "num": 92813,
       "word": "厉以宁提出中国经济发展非均衡理论",
@@ -10209,14 +10265,6 @@
       "onboard_time": 1677833187,
       "rank": 45,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 89089,
-      "num": 89089,
-      "word": "琼斯CBA生涯10000分",
-      "onboard_time": 1677852869,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 88667,

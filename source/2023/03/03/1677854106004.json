@@ -1,0 +1,410 @@
+{
+  "runTime": 1677854106004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2779486,
+        "num": 2779486,
+        "word": "大学每月生活费2000是什么水平",
+        "onboard_time": 1677849145,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2082965,
+        "num": 2082965,
+        "word": "可乐 香菜",
+        "onboard_time": 1677850647,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222090,
+        "num": 872433,
+        "word": "全国两会",
+        "onboard_time": 1677851068,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 647491,
+        "num": 647491,
+        "word": "二刷狂飙才注意到李健这个设计",
+        "onboard_time": 1677852148,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 587547,
+        "num": 587547,
+        "word": "邓超陈赫鹿晗五哈3换头像",
+        "onboard_time": 1677846326,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542481,
+        "num": 542481,
+        "word": "在美华人称丫丫饮食条件已有改善",
+        "onboard_time": 1677827546,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531014,
+        "num": 531014,
+        "word": "大熊猫和花和叶已被广东一企业认养",
+        "onboard_time": 1677844824,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500190,
+        "num": 500190,
+        "word": "95后考研落榜结果父母双双上岸",
+        "onboard_time": 1677831749,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 381145,
+        "num": 381145,
+        "word": "建议网络直播账号日打赏不超100元",
+        "onboard_time": 1677846505,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 374778,
+        "num": 374778,
+        "word": "张杰冲上云霄机长造型",
+        "onboard_time": 1677850287,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 648542,
+        "num": 373112,
+        "word": "Jennie摔伤",
+        "onboard_time": 1677839667,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473372,
+        "num": 372276,
+        "word": "沙溢cos高启强",
+        "onboard_time": 1677853050,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370834,
+        "num": 370834,
+        "word": "建议提供免费墓地和骨灰盒",
+        "onboard_time": 1677852328,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 362819,
+        "num": 362819,
+        "word": "佘诗曼林峯重现使徒行者经典片段",
+        "onboard_time": 1677849445,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352735,
+        "num": 352735,
+        "word": "李秀满选择方时赫的理由",
+        "onboard_time": 1677850045,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326255,
+        "num": 326255,
+        "word": "迪丽热巴秦岚同台",
+        "onboard_time": 1677838107,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317348,
+        "num": 317348,
+        "word": "琼斯绝杀",
+        "onboard_time": 1677852208,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313072,
+        "num": 313072,
+        "word": "韩式英语又在害人",
+        "onboard_time": 1677851610,
+        "rank": 17,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 301184,
+        "num": 301184,
+        "word": "最强大脑",
+        "onboard_time": 1677852507,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272527,
+        "num": 272527,
+        "word": "导师给我的论文想好了期刊",
+        "onboard_time": 1677839187,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 469787,
+        "num": 271298,
+        "word": "小S大女儿二女儿合体封面",
+        "onboard_time": 1677836726,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 300837,
+        "num": 271097,
+        "word": "宋雨琦直播跳TOMBOY",
+        "onboard_time": 1677850287,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298227,
+        "num": 270705,
+        "word": "林俊杰再唱雪落下的声音",
+        "onboard_time": 1677853591,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262161,
+        "num": 262161,
+        "word": "EDG与LNG赛前海报",
+        "onboard_time": 1677843327,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187749,
+        "num": 257053,
+        "word": "当你的同事是个天秤座",
+        "onboard_time": 1677846985,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275729,
+        "num": 256960,
+        "word": "玫瑰的故事",
+        "onboard_time": 1677852929,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255825,
+        "num": 255825,
+        "word": "宋亚轩是卧底",
+        "onboard_time": 1677853648,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185498,
+        "num": 244518,
+        "word": "熊猫和花",
+        "onboard_time": 1677821305,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154198,
+        "num": 243145,
+        "word": "熊猫和花周边销量飙升906%",
+        "onboard_time": 1677847286,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126210,
+        "num": 243020,
+        "word": "像极了简历上造假的本人",
+        "onboard_time": 1677835829,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242942,
+        "num": 242942,
+        "word": "刘雯郭晓婷合照",
+        "onboard_time": 1677845787,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238723,
+        "num": 238723,
+        "word": "王俊凯小时候打篮球旧照",
+        "onboard_time": 1677844525,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234139,
+        "num": 234139,
+        "word": "建议将春节法定假期由3天延长为5天",
+        "onboard_time": 1677853591,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 231984,
+        "num": 231984,
+        "word": "黄仁俊翻唱你的名字片尾曲",
+        "onboard_time": 1677850887,
+        "rank": 33,
+        "category": "音乐,影视"
+      },
+      {
+        "raw_hot": 218481,
+        "num": 218481,
+        "word": "张大大直播",
+        "onboard_time": 1677848425,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213507,
+        "num": 213507,
+        "word": "小猫独特的打招呼方式",
+        "onboard_time": 1677853770,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198957,
+        "num": 198957,
+        "word": "我们的客栈",
+        "onboard_time": 1677854009,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112747,
+        "num": 182896,
+        "word": "eStar声明",
+        "onboard_time": 1677838407,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105175,
+        "num": 182336,
+        "word": "65岁阿姨离婚后8年骑行12国",
+        "onboard_time": 1677825747,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104909,
+        "num": 182257,
+        "word": "这羊长得好像素描出来的",
+        "onboard_time": 1677844947,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182250,
+        "num": 182250,
+        "word": "章子怡拜会戛纳电影节艺术总监",
+        "onboard_time": 1677853829,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149485,
+        "num": 149485,
+        "word": "孙千吊带红裙",
+        "onboard_time": 1677841408,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149433,
+        "num": 149433,
+        "word": "Haerin双丸子头",
+        "onboard_time": 1677849805,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144811,
+        "num": 144811,
+        "word": "任嘉伦张予曦 凤凰台上",
+        "onboard_time": 1677836908,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104529,
+        "num": 136032,
+        "word": "只有上了泰山才能看到的风景",
+        "onboard_time": 1677839967,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 133711,
+        "num": 133711,
+        "word": "陈飞宇周也的cp名叫YesSir",
+        "onboard_time": 1677839010,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104723,
+        "num": 133060,
+        "word": "第一次见乌龟这么黏人",
+        "onboard_time": 1677841467,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 93752,
+        "num": 132808,
+        "word": "琼斯CBA生涯10000分",
+        "onboard_time": 1677852869,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89740,
+        "num": 132009,
+        "word": "女生回应8战考研均未上岸",
+        "onboard_time": 1677828866,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 80767,
+        "num": 131112,
+        "word": "花海娜可露露杀疯了",
+        "onboard_time": 1677848186,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的事#"
+    }
+  }
+}
