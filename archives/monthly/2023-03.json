@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677839849044,
+  "endTime": 1677842180822,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -233,6 +233,14 @@
       "onboard_time": 1677653126,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1466556,
+      "num": 334758,
+      "word": "Jennie摔伤",
+      "onboard_time": 1677839667,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1448426,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 1095452,
-      "num": 230945,
+      "num": 236853,
       "word": "小S大女儿二女儿合体封面",
       "onboard_time": 1677836726,
       "rank": 20,
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 1035658,
-      "num": 329096,
+      "num": 330723,
       "word": "迪丽热巴秦岚同台",
       "onboard_time": 1677838107,
       "rank": 10,
@@ -793,6 +801,14 @@
       "onboard_time": 1677650908,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 863222,
+      "num": 863222,
+      "word": "导师给我的论文想好了期刊",
+      "onboard_time": 1677839187,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 857414,
@@ -1067,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 724775,
+      "num": 327339,
+      "word": "郭富城称蔡天凤遇害令人震惊悲痛",
+      "onboard_time": 1677837927,
+      "rank": 12,
+      "category": "社会负面,艺人"
+    },
+    {
       "raw_hot": 721227,
       "num": 721227,
       "word": "深圳一业主拆迁9栋楼",
@@ -1193,14 +1217,6 @@
       "onboard_time": 1677635910,
       "rank": 6,
       "category": "网红"
-    },
-    {
-      "raw_hot": 672556,
-      "num": 321777,
-      "word": "郭富城称蔡天凤遇害令人震惊悲痛",
-      "onboard_time": 1677837927,
-      "rank": 12,
-      "category": "社会负面,艺人"
     },
     {
       "raw_hot": 670118,
@@ -1427,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 594166,
+      "num": 324217,
+      "word": "孙千吊带红裙",
+      "onboard_time": 1677841408,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 580412,
       "num": 580412,
       "word": "辽宁一轿车被大货车追尾压扁",
@@ -1604,7 +1628,7 @@
     },
     {
       "raw_hot": 547876,
-      "num": 321389,
+      "num": 403244,
       "word": "像极了简历上造假的本人",
       "onboard_time": 1677835829,
       "rank": 48,
@@ -1867,6 +1891,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 480916,
+      "num": 321046,
+      "word": "梁朝伟因害怕社交不学日语",
+      "onboard_time": 1677840328,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474168,
       "num": 474168,
       "word": "张佳宁长发梦回林北星",
@@ -2067,6 +2099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441054,
+      "num": 441054,
+      "word": "杨笠说高智商的男人容易冷暴力",
+      "onboard_time": 1677838165,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439818,
       "num": 439818,
       "word": "日本千叶县全体议员戴头盔开会",
@@ -2160,6 +2200,14 @@
       "word": "杨树茂破产",
       "onboard_time": 1677670468,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 425642,
+      "num": 317612,
+      "word": "流浪地球3要给杭州加戏",
+      "onboard_time": 1677839367,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -2396,7 +2444,7 @@
     },
     {
       "raw_hot": 378385,
-      "num": 230442,
+      "num": 236653,
       "word": "陈飞宇周也的cp名叫YesSir",
       "onboard_time": 1677839010,
       "rank": 21,
@@ -2539,14 +2587,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 355085,
-      "num": 355085,
-      "word": "杨笠说高智商的男人容易冷暴力",
-      "onboard_time": 1677838165,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 354931,
       "num": 354931,
       "word": "网友遭遇话梅刺客一颗20多元",
@@ -2585,6 +2625,14 @@
       "onboard_time": 1677821187,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351817,
+      "num": 351817,
+      "word": "RW零封TTG",
+      "onboard_time": 1677840211,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 351138,
@@ -2835,14 +2883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315951,
-      "num": 315951,
-      "word": "Jennie摔伤",
-      "onboard_time": 1677839667,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315572,
       "num": 315572,
       "word": "威少被勇士放空",
@@ -2889,6 +2929,14 @@
       "onboard_time": 1677836547,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 313231,
+      "num": 313231,
+      "word": "U20国足vs日本U20",
+      "onboard_time": 1677838347,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 311678,
@@ -3033,14 +3081,6 @@
       "onboard_time": 1677829228,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 294962,
-      "num": 181658,
-      "word": "流浪地球3要给杭州加戏",
-      "onboard_time": 1677839367,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 293695,
@@ -3315,6 +3355,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 261360,
+      "num": 261360,
+      "word": "Angelababy骑马",
+      "onboard_time": 1677839787,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260444,
       "num": 260444,
       "word": "考试时把自己逗笑了",
@@ -3547,6 +3595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236372,
+      "num": 236372,
+      "word": "只有上了泰山才能看到的风景",
+      "onboard_time": 1677839967,
+      "rank": 22,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 232391,
       "num": 232391,
       "word": "男子爬泰山帮挑山工挑120斤水",
@@ -3569,14 +3625,6 @@
       "onboard_time": 1677644731,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231524,
-      "num": 231524,
-      "word": "U20国足vs日本U20",
-      "onboard_time": 1677838347,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 230480,
@@ -3825,14 +3873,6 @@
       "onboard_time": 1677586290,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216467,
-      "num": 216467,
-      "word": "导师给我的论文想好了期刊",
-      "onboard_time": 1677839187,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 216062,
@@ -4297,6 +4337,14 @@
       "onboard_time": 1677652587,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194158,
+      "num": 166115,
+      "word": "u20国足1比0领先日本u20",
+      "onboard_time": 1677841529,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 194085,
@@ -4988,7 +5036,7 @@
     },
     {
       "raw_hot": 148533,
-      "num": 148533,
+      "num": 673840,
       "word": "全国政协十四届一次会议新闻发布会",
       "onboard_time": 1677832347,
       "rank": 37,
@@ -5387,6 +5435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124792,
+      "num": 124792,
+      "word": "第一次见乌龟这么黏人",
+      "onboard_time": 1677841467,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 124554,
       "num": 124554,
       "word": "接住江豚吐水柱可爱攻击",
@@ -5731,14 +5787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 89013,
-      "num": 89013,
-      "word": "Angelababy骑马",
-      "onboard_time": 1677839787,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 88667,
       "num": 88667,
       "word": "子女受父母胁迫结婚可申请撤销",
@@ -5753,6 +5801,14 @@
       "onboard_time": 1677828747,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86919,
+      "num": 86919,
+      "word": "刘浩帆头球破门",
+      "onboard_time": 1677839967,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 84545,
@@ -5803,6 +5859,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 79928,
+      "num": 79928,
+      "word": "建议企业设孝亲假",
+      "onboard_time": 1677841949,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79845,
       "num": 79845,
       "word": "教育局回应学校要求学生必须缴医保",
@@ -5817,6 +5881,14 @@
       "onboard_time": 1677594512,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76209,
+      "num": 76209,
+      "word": "玩王者时候的强迫症",
+      "onboard_time": 1677842007,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 73434,
@@ -6067,6 +6139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 23604,
+      "num": 114206,
+      "word": "阿里王坚院士当选全国政协委员",
+      "onboard_time": 1677841229,
+      "rank": 39,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 23007,
       "num": 23007,
       "word": "莫言获中国慈善家年度人物",
@@ -6141,6 +6221,9 @@
     },
     {
       "word": "#习近平的两会时间#"
+    },
+    {
+      "word": "#总书记心头最大的牵挂#"
     }
   ]
 }

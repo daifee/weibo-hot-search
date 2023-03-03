@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677839849044,
+  "endTime": 1677842180822,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -587,6 +587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1466556,
+      "num": 334758,
+      "word": "Jennie摔伤",
+      "onboard_time": 1677839667,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1458661,
       "num": 769421,
       "word": "刘亦菲新造型好辣",
@@ -1084,7 +1092,7 @@
     },
     {
       "raw_hot": 1095452,
-      "num": 230945,
+      "num": 236853,
       "word": "小S大女儿二女儿合体封面",
       "onboard_time": 1677836726,
       "rank": 20,
@@ -1204,7 +1212,7 @@
     },
     {
       "raw_hot": 1035658,
-      "num": 329096,
+      "num": 330723,
       "word": "迪丽热巴秦岚同台",
       "onboard_time": 1677838107,
       "rank": 10,
@@ -1521,6 +1529,14 @@
       "onboard_time": 1677575791,
       "rank": 32,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 863222,
+      "num": 863222,
+      "word": "导师给我的论文想好了期刊",
+      "onboard_time": 1677839187,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 860899,
@@ -1963,6 +1979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 724775,
+      "num": 327339,
+      "word": "郭富城称蔡天凤遇害令人震惊悲痛",
+      "onboard_time": 1677837927,
+      "rank": 12,
+      "category": "社会负面,艺人"
+    },
+    {
       "raw_hot": 724650,
       "num": 724650,
       "word": "iPhone15ProMax与14ProMax对比",
@@ -2153,14 +2177,6 @@
       "onboard_time": 1677635910,
       "rank": 6,
       "category": "网红"
-    },
-    {
-      "raw_hot": 672556,
-      "num": 321777,
-      "word": "郭富城称蔡天凤遇害令人震惊悲痛",
-      "onboard_time": 1677837927,
-      "rank": 12,
-      "category": "社会负面,艺人"
     },
     {
       "raw_hot": 670118,
@@ -2491,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 594166,
+      "num": 324217,
+      "word": "孙千吊带红裙",
+      "onboard_time": 1677841408,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 587559,
       "num": 587559,
       "word": "建议实行6岁以下儿童免费医疗",
@@ -2804,7 +2828,7 @@
     },
     {
       "raw_hot": 547876,
-      "num": 321389,
+      "num": 403244,
       "word": "像极了简历上造假的本人",
       "onboard_time": 1677835829,
       "rank": 48,
@@ -3299,6 +3323,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 480916,
+      "num": 321046,
+      "word": "梁朝伟因害怕社交不学日语",
+      "onboard_time": 1677840328,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 480216,
       "num": 480216,
       "word": "庞博说太太给了他很多能量",
@@ -3595,6 +3627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441054,
+      "num": 441054,
+      "word": "杨笠说高智商的男人容易冷暴力",
+      "onboard_time": 1677838165,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440801,
       "num": 386536,
       "word": "从大嫂的全世界路过",
@@ -3808,6 +3848,14 @@
       "word": "杨树茂破产",
       "onboard_time": 1677670468,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 425642,
+      "num": 317612,
+      "word": "流浪地球3要给杭州加戏",
+      "onboard_time": 1677839367,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -4268,7 +4316,7 @@
     },
     {
       "raw_hot": 378385,
-      "num": 230442,
+      "num": 236653,
       "word": "陈飞宇周也的cp名叫YesSir",
       "onboard_time": 1677839010,
       "rank": 21,
@@ -4515,14 +4563,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 355085,
-      "num": 355085,
-      "word": "杨笠说高智商的男人容易冷暴力",
-      "onboard_time": 1677838165,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 354931,
       "num": 354931,
       "word": "网友遭遇话梅刺客一颗20多元",
@@ -4561,6 +4601,14 @@
       "onboard_time": 1677821187,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351817,
+      "num": 351817,
+      "word": "RW零封TTG",
+      "onboard_time": 1677840211,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 351138,
@@ -5035,14 +5083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315951,
-      "num": 315951,
-      "word": "Jennie摔伤",
-      "onboard_time": 1677839667,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315572,
       "num": 315572,
       "word": "威少被勇士放空",
@@ -5089,6 +5129,14 @@
       "onboard_time": 1677836547,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 313231,
+      "num": 313231,
+      "word": "U20国足vs日本U20",
+      "onboard_time": 1677838347,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 312656,
@@ -5385,14 +5433,6 @@
       "onboard_time": 1677502111,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294962,
-      "num": 181658,
-      "word": "流浪地球3要给杭州加戏",
-      "onboard_time": 1677839367,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 293823,
@@ -5859,6 +5899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 261360,
+      "num": 261360,
+      "word": "Angelababy骑马",
+      "onboard_time": 1677839787,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260815,
       "num": 260815,
       "word": "杨颖晒剧组过生日合照",
@@ -6187,6 +6235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236372,
+      "num": 236372,
+      "word": "只有上了泰山才能看到的风景",
+      "onboard_time": 1677839967,
+      "rank": 22,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 236349,
       "num": 236349,
       "word": "湖人vs独行侠",
@@ -6249,14 +6305,6 @@
       "onboard_time": 1677585450,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231524,
-      "num": 231524,
-      "word": "U20国足vs日本U20",
-      "onboard_time": 1677838347,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 230480,
@@ -6585,14 +6633,6 @@
       "onboard_time": 1677484230,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216467,
-      "num": 216467,
-      "word": "导师给我的论文想好了期刊",
-      "onboard_time": 1677839187,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 216099,
@@ -7417,6 +7457,14 @@
       "onboard_time": 1677652587,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194158,
+      "num": 166115,
+      "word": "u20国足1比0领先日本u20",
+      "onboard_time": 1677841529,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 194120,
@@ -8588,7 +8636,7 @@
     },
     {
       "raw_hot": 148533,
-      "num": 148533,
+      "num": 673840,
       "word": "全国政协十四届一次会议新闻发布会",
       "onboard_time": 1677832347,
       "rank": 37,
@@ -9129,6 +9177,14 @@
       "onboard_time": 1677429862,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124792,
+      "num": 124792,
+      "word": "第一次见乌龟这么黏人",
+      "onboard_time": 1677841467,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 124719,
@@ -9787,14 +9843,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 89013,
-      "num": 89013,
-      "word": "Angelababy骑马",
-      "onboard_time": 1677839787,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 88667,
       "num": 88667,
       "word": "子女受父母胁迫结婚可申请撤销",
@@ -9817,6 +9865,14 @@
       "onboard_time": 1677510811,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86919,
+      "num": 86919,
+      "word": "刘浩帆头球破门",
+      "onboard_time": 1677839967,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 86823,
@@ -9915,6 +9971,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 79928,
+      "num": 79928,
+      "word": "建议企业设孝亲假",
+      "onboard_time": 1677841949,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79762,
       "num": 79762,
       "word": "中国乒乓致敬运动员教练员家属",
@@ -9937,6 +10001,14 @@
       "onboard_time": 1677596564,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76209,
+      "num": 76209,
+      "word": "玩王者时候的强迫症",
+      "onboard_time": 1677842007,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 75550,
@@ -10227,6 +10299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 23604,
+      "num": 114206,
+      "word": "阿里王坚院士当选全国政协委员",
+      "onboard_time": 1677841229,
+      "rank": 39,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 23007,
       "num": 23007,
       "word": "莫言获中国慈善家年度人物",
@@ -10324,6 +10404,9 @@
     },
     {
       "word": "#习近平的两会时间#"
+    },
+    {
+      "word": "#总书记心头最大的牵挂#"
     }
   ]
 }
