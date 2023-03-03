@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677836025938,
+  "endTime": 1677838861529,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -1099,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1089141,
+      "num": 224598,
+      "word": "小S大女儿二女儿合体封面",
+      "onboard_time": 1677836726,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1076800,
       "num": 1076800,
       "word": "颖儿探班任嘉伦",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1677539239,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1035658,
+      "num": 329096,
+      "word": "迪丽热巴秦岚同台",
+      "onboard_time": 1677838107,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1026323,
@@ -1425,6 +1441,14 @@
       "onboard_time": 1677727526,
       "rank": 33,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 895965,
+      "num": 895965,
+      "word": "任嘉伦张予曦 凤凰台上",
+      "onboard_time": 1677836908,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 894084,
@@ -2763,6 +2787,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 547876,
+      "num": 318796,
+      "word": "像极了简历上造假的本人",
+      "onboard_time": 1677835829,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 547743,
       "num": 410926,
       "word": "王子浩29名",
@@ -4019,6 +4051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397730,
+      "num": 315463,
+      "word": "郭富城称蔡天凤遇害令人震惊悲痛",
+      "onboard_time": 1677837927,
+      "rank": 12,
+      "category": "社会负面,艺人"
+    },
+    {
       "raw_hot": 397628,
       "num": 397628,
       "word": "历届微博之夜名场面盘点",
@@ -4819,6 +4859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329125,
+      "num": 329125,
+      "word": "诡秘之主",
+      "onboard_time": 1677835288,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 327549,
       "num": 327549,
       "word": "守财奴没有情",
@@ -5219,6 +5267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297653,
+      "num": 297653,
+      "word": "四川有个95后铁憨憨村支书",
+      "onboard_time": 1677834928,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297259,
       "num": 297259,
       "word": "种牙降价了多地已调整",
@@ -5371,6 +5427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289167,
+      "num": 289167,
+      "word": "为了完成体测的大学生",
+      "onboard_time": 1677835288,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288114,
       "num": 288114,
       "word": "香港中国联通换新logo",
@@ -5459,6 +5523,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 281156,
+      "num": 281156,
+      "word": "旅居卡塔尔的熊猫被四川话成功召唤",
+      "onboard_time": 1677834747,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279997,
       "num": 279997,
       "word": "开车的和坐车的都懵了",
@@ -5521,14 +5593,6 @@
       "onboard_time": 1677819752,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 276253,
-      "num": 276253,
-      "word": "四川有个95后铁憨憨村支书",
-      "onboard_time": 1677834928,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276240,
@@ -5681,6 +5745,14 @@
       "onboard_time": 1677474450,
       "rank": 44,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 265271,
+      "num": 265271,
+      "word": "杨笠说高智商的男人容易冷暴力",
+      "onboard_time": 1677838165,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 265139,
@@ -6267,6 +6339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224950,
+      "num": 224950,
+      "word": "eStar声明",
+      "onboard_time": 1677838407,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224906,
       "num": 224906,
       "word": "周鸿祎称大学生可做人工智能训练师",
@@ -6409,6 +6489,14 @@
       "onboard_time": 1677479009,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218301,
+      "num": 218301,
+      "word": "明日方舟",
+      "onboard_time": 1677553768,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 218166,
@@ -6601,14 +6689,6 @@
       "onboard_time": 1677834809,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210165,
-      "num": 210165,
-      "word": "旅居卡塔尔的熊猫被四川话成功召唤",
-      "onboard_time": 1677834747,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209871,
@@ -7075,20 +7155,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199532,
+      "num": 199532,
+      "word": "明日方舟联动怪物猎人",
+      "onboard_time": 1677837630,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199415,
       "num": 199415,
       "word": "赵露思春日明信片",
       "onboard_time": 1677834928,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199103,
-      "num": 199103,
-      "word": "诡秘之主",
-      "onboard_time": 1677835288,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198676,
@@ -7515,14 +7595,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190262,
-      "num": 190262,
-      "word": "明日方舟",
-      "onboard_time": 1677553768,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 190193,
       "num": 190193,
       "word": "广东男篮vs山西男篮",
@@ -7785,6 +7857,14 @@
       "onboard_time": 1677490289,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181370,
+      "num": 181370,
+      "word": "闺蜜分手要不要劝",
+      "onboard_time": 1677836547,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 180983,
@@ -8067,6 +8147,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 166476,
+      "num": 166476,
+      "word": "U20国足vs日本U20",
+      "onboard_time": 1677838347,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165707,
       "num": 165707,
       "word": "高叶早期生图剧照",
@@ -8105,14 +8193,6 @@
       "onboard_time": 1677457169,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163753,
-      "num": 163753,
-      "word": "为了完成体测的大学生",
-      "onboard_time": 1677835288,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 163605,
@@ -8224,6 +8304,14 @@
       "word": "闪耀暖暖",
       "onboard_time": 1677480689,
       "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 157812,
+      "num": 157812,
+      "word": "TTG对战RW",
+      "onboard_time": 1677836547,
+      "rank": 30,
       "category": "游戏"
     },
     {
@@ -8825,6 +8913,14 @@
       "onboard_time": 1677812727,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133080,
+      "num": 133080,
+      "word": "流浪地球2校园路演",
+      "onboard_time": 1677838165,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 132800,
@@ -9467,14 +9563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 102138,
-      "num": 102138,
-      "word": "像极了简历上造假的本人",
-      "onboard_time": 1677835829,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 101954,
       "num": 101954,
       "word": "缉毒民警急速追击冲卡毒贩",
@@ -9649,6 +9737,14 @@
       "onboard_time": 1677420573,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 90754,
+      "num": 90754,
+      "word": "花云伽罗三杀",
+      "onboard_time": 1677838827,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 90590,
@@ -9992,6 +10088,14 @@
       "word": "美妆抢单人今晚战绩如何",
       "onboard_time": 1677680911,
       "rank": 47,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 39653,
+      "num": 126650,
+      "word": "忍不住想买的早春单品",
+      "onboard_time": 1677837745,
+      "rank": 39,
       "category": "时尚"
     },
     {
