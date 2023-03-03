@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677838861529,
+  "endTime": 1677839849044,
   "band_list": [
     {
       "raw_hot": 3397650,
@@ -147,8 +147,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1089141,
-      "num": 224598,
+      "raw_hot": 1095452,
+      "num": 230945,
       "word": "小S大女儿二女儿合体封面",
       "onboard_time": 1677836726,
       "rank": 20,
@@ -267,6 +267,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 672556,
+      "num": 321777,
+      "word": "郭富城称蔡天凤遇害令人震惊悲痛",
+      "onboard_time": 1677837927,
+      "rank": 12,
+      "category": "社会负面,艺人"
+    },
+    {
       "raw_hot": 669235,
       "num": 669235,
       "word": "陆虎向嘘嘘求婚成功",
@@ -281,6 +289,14 @@
       "onboard_time": 1677771207,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 646193,
+      "num": 646193,
+      "word": "eStar声明",
+      "onboard_time": 1677838407,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 639151,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 547876,
-      "num": 318796,
+      "num": 321389,
       "word": "像极了简历上造假的本人",
       "onboard_time": 1677835829,
       "rank": 48,
@@ -547,14 +563,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 397730,
-      "num": 315463,
-      "word": "郭富城称蔡天凤遇害令人震惊悲痛",
-      "onboard_time": 1677837927,
-      "rank": 12,
-      "category": "社会负面,艺人"
-    },
-    {
       "raw_hot": 395496,
       "num": 365215,
       "word": "薛之谦 这世界病了而我没有妥协",
@@ -593,6 +601,14 @@
       "onboard_time": 1677828330,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 378385,
+      "num": 230442,
+      "word": "陈飞宇周也的cp名叫YesSir",
+      "onboard_time": 1677839010,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 377349,
@@ -656,6 +672,14 @@
       "word": "黄宗泽调侃自己已经不是原来的哥了",
       "onboard_time": 1677823827,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 355085,
+      "num": 355085,
+      "word": "杨笠说高智商的男人容易冷暴力",
+      "onboard_time": 1677838165,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -747,12 +771,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 315951,
+      "num": 315951,
+      "word": "Jennie摔伤",
+      "onboard_time": 1677839667,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315572,
       "num": 315572,
       "word": "威少被勇士放空",
       "onboard_time": 1677821968,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313552,
+      "num": 313552,
+      "word": "TTG对战RW",
+      "onboard_time": 1677836547,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 303813,
@@ -795,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294962,
+      "num": 181658,
+      "word": "流浪地球3要给杭州加戏",
+      "onboard_time": 1677839367,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 289167,
       "num": 289167,
       "word": "为了完成体测的大学生",
@@ -803,19 +851,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 288153,
+      "num": 288153,
+      "word": "旅居卡塔尔的熊猫被四川话成功召唤",
+      "onboard_time": 1677834747,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281698,
       "num": 281698,
       "word": "温州特斯拉驾驶员已记不清失控场景",
       "onboard_time": 1677807147,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281156,
-      "num": 281156,
-      "word": "旅居卡塔尔的熊猫被四川话成功召唤",
-      "onboard_time": 1677834747,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -857,14 +905,6 @@
       "onboard_time": 1677833611,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 265271,
-      "num": 265271,
-      "word": "杨笠说高智商的男人容易冷暴力",
-      "onboard_time": 1677838165,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 264865,
@@ -947,6 +987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 231524,
+      "num": 231524,
+      "word": "U20国足vs日本U20",
+      "onboard_time": 1677838347,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230480,
       "num": 230480,
       "word": "吴奇隆林峯合照",
@@ -969,14 +1017,6 @@
       "onboard_time": 1677815307,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224950,
-      "num": 224950,
-      "word": "eStar声明",
-      "onboard_time": 1677838407,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 223484,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1677775460,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216467,
+      "num": 216467,
+      "word": "导师给我的论文想好了期刊",
+      "onboard_time": 1677839187,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 213859,
@@ -1331,14 +1379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166476,
-      "num": 166476,
-      "word": "U20国足vs日本U20",
-      "onboard_time": 1677838347,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165406,
       "num": 165406,
       "word": "互联网新欢",
@@ -1361,14 +1401,6 @@
       "onboard_time": 1677804089,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157812,
-      "num": 157812,
-      "word": "TTG对战RW",
-      "onboard_time": 1677836547,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 157708,
@@ -1675,20 +1707,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97460,
+      "num": 97460,
+      "word": "花云伽罗三杀",
+      "onboard_time": 1677838827,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95790,
       "num": 95790,
       "word": "王鹤棣时宴英雄救美路透",
       "onboard_time": 1677798680,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 90754,
-      "num": 90754,
-      "word": "花云伽罗三杀",
-      "onboard_time": 1677838827,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 90590,
@@ -1704,6 +1736,14 @@
       "word": "烽火流金 空降",
       "onboard_time": 1677745170,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 89013,
+      "num": 89013,
+      "word": "Angelababy骑马",
+      "onboard_time": 1677839787,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -1811,6 +1851,14 @@
       "category": "情感,自然"
     },
     {
+      "raw_hot": 54821,
+      "num": 126650,
+      "word": "忍不住想买的早春单品",
+      "onboard_time": 1677837745,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 54394,
       "num": 135665,
       "word": "饿了么免单听音题没声音",
@@ -1833,14 +1881,6 @@
       "onboard_time": 1677752732,
       "rank": 29,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 39653,
-      "num": 126650,
-      "word": "忍不住想买的早春单品",
-      "onboard_time": 1677837745,
-      "rank": 39,
-      "category": "时尚"
     },
     {
       "raw_hot": 30071,

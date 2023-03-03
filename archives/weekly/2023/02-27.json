@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677838861529,
+  "endTime": 1677839849044,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -1083,6 +1083,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1095452,
+      "num": 230945,
+      "word": "小S大女儿二女儿合体封面",
+      "onboard_time": 1677836726,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1092787,
       "num": 1092787,
       "word": "动物园发布丫丫最新照片",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1677671848,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1089141,
-      "num": 224598,
-      "word": "小S大女儿二女儿合体封面",
-      "onboard_time": 1677836726,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1076800,
@@ -2155,6 +2155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 672556,
+      "num": 321777,
+      "word": "郭富城称蔡天凤遇害令人震惊悲痛",
+      "onboard_time": 1677837927,
+      "rank": 12,
+      "category": "社会负面,艺人"
+    },
+    {
       "raw_hot": 670118,
       "num": 670118,
       "word": "肖战意大利游玩plog",
@@ -2289,6 +2297,14 @@
       "onboard_time": 1677680551,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 646193,
+      "num": 646193,
+      "word": "eStar声明",
+      "onboard_time": 1677838407,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 644982,
@@ -2788,7 +2804,7 @@
     },
     {
       "raw_hot": 547876,
-      "num": 318796,
+      "num": 321389,
       "word": "像极了简历上造假的本人",
       "onboard_time": 1677835829,
       "rank": 48,
@@ -4051,14 +4067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397730,
-      "num": 315463,
-      "word": "郭富城称蔡天凤遇害令人震惊悲痛",
-      "onboard_time": 1677837927,
-      "rank": 12,
-      "category": "社会负面,艺人"
-    },
-    {
       "raw_hot": 397628,
       "num": 397628,
       "word": "历届微博之夜名场面盘点",
@@ -4257,6 +4265,14 @@
       "onboard_time": 1677828330,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 378385,
+      "num": 230442,
+      "word": "陈飞宇周也的cp名叫YesSir",
+      "onboard_time": 1677839010,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 377946,
@@ -4497,6 +4513,14 @@
       "onboard_time": 1677641247,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 355085,
+      "num": 355085,
+      "word": "杨笠说高智商的男人容易冷暴力",
+      "onboard_time": 1677838165,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 354931,
@@ -5011,6 +5035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315951,
+      "num": 315951,
+      "word": "Jennie摔伤",
+      "onboard_time": 1677839667,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315572,
       "num": 315572,
       "word": "威少被勇士放空",
@@ -5049,6 +5081,14 @@
       "onboard_time": 1677764911,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313552,
+      "num": 313552,
+      "word": "TTG对战RW",
+      "onboard_time": 1677836547,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 312656,
@@ -5347,6 +5387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294962,
+      "num": 181658,
+      "word": "流浪地球3要给杭州加戏",
+      "onboard_time": 1677839367,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 293823,
       "num": 293823,
       "word": "苹果将于明年推出自研5G基带芯片",
@@ -5435,6 +5483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 288153,
+      "num": 288153,
+      "word": "旅居卡塔尔的熊猫被四川话成功召唤",
+      "onboard_time": 1677834747,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288114,
       "num": 288114,
       "word": "香港中国联通换新logo",
@@ -5521,14 +5577,6 @@
       "onboard_time": 1677553347,
       "rank": 23,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 281156,
-      "num": 281156,
-      "word": "旅居卡塔尔的熊猫被四川话成功召唤",
-      "onboard_time": 1677834747,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279997,
@@ -5745,14 +5793,6 @@
       "onboard_time": 1677474450,
       "rank": 44,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 265271,
-      "num": 265271,
-      "word": "杨笠说高智商的男人容易冷暴力",
-      "onboard_time": 1677838165,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 265139,
@@ -6211,6 +6251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231524,
+      "num": 231524,
+      "word": "U20国足vs日本U20",
+      "onboard_time": 1677838347,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230480,
       "num": 230480,
       "word": "吴奇隆林峯合照",
@@ -6337,14 +6385,6 @@
       "onboard_time": 1677434834,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 224950,
-      "num": 224950,
-      "word": "eStar声明",
-      "onboard_time": 1677838407,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 224906,
@@ -6545,6 +6585,14 @@
       "onboard_time": 1677484230,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216467,
+      "num": 216467,
+      "word": "导师给我的论文想好了期刊",
+      "onboard_time": 1677839187,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 216099,
@@ -8147,14 +8195,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 166476,
-      "num": 166476,
-      "word": "U20国足vs日本U20",
-      "onboard_time": 1677838347,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165707,
       "num": 165707,
       "word": "高叶早期生图剧照",
@@ -8304,14 +8344,6 @@
       "word": "闪耀暖暖",
       "onboard_time": 1677480689,
       "rank": 38,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 157812,
-      "num": 157812,
-      "word": "TTG对战RW",
-      "onboard_time": 1677836547,
-      "rank": 30,
       "category": "游戏"
     },
     {
@@ -9627,6 +9659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97460,
+      "num": 97460,
+      "word": "花云伽罗三杀",
+      "onboard_time": 1677838827,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97196,
       "num": 97196,
       "word": "西溪湿地2万株梅花绽放",
@@ -9739,20 +9779,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 90754,
-      "num": 90754,
-      "word": "花云伽罗三杀",
-      "onboard_time": 1677838827,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 90590,
       "num": 104611,
       "word": "全国政协十四届一次会议会期7天半",
       "onboard_time": 1677833187,
       "rank": 45,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 89013,
+      "num": 89013,
+      "word": "Angelababy骑马",
+      "onboard_time": 1677839787,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 88667,
@@ -10051,6 +10091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54821,
+      "num": 126650,
+      "word": "忍不住想买的早春单品",
+      "onboard_time": 1677837745,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 54394,
       "num": 135665,
       "word": "饿了么免单听音题没声音",
@@ -10088,14 +10136,6 @@
       "word": "美妆抢单人今晚战绩如何",
       "onboard_time": 1677680911,
       "rank": 47,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 39653,
-      "num": 126650,
-      "word": "忍不住想买的早春单品",
-      "onboard_time": 1677837745,
-      "rank": 39,
       "category": "时尚"
     },
     {
