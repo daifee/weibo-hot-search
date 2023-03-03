@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677817142352,
+  "endTime": 1677818831965,
   "band_list": [
     {
       "raw_hot": 2057427,
@@ -51,11 +51,27 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1281516,
+      "num": 1281516,
+      "word": "专家称零彩礼不符合传统婚俗",
+      "onboard_time": 1677816329,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1106468,
       "num": 554506,
       "word": "低估了马思纯的身高",
       "onboard_time": 1677800725,
       "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1019807,
+      "num": 1019807,
+      "word": "30字小说超60万人收藏",
+      "onboard_time": 1677817530,
+      "rank": 1,
       "category": "作品衍生"
     },
     {
@@ -67,12 +83,36 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 873755,
+      "num": 402195,
+      "word": "郑中基回应前助手涉香港名媛碎尸案",
+      "onboard_time": 1677816148,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 850542,
       "num": 850542,
       "word": "章莹颖",
       "onboard_time": 1677801388,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 834799,
+      "num": 834799,
+      "word": "国考3月上中旬出分",
+      "onboard_time": 1677818014,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805285,
+      "num": 805285,
+      "word": "建议强制实施带薪年假",
+      "onboard_time": 1677814766,
+      "rank": 8,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 793583,
@@ -97,14 +137,6 @@
       "onboard_time": 1677806666,
       "rank": 6,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 671198,
-      "num": 402195,
-      "word": "郑中基回应前助手涉香港名媛碎尸案",
-      "onboard_time": 1677816148,
-      "rank": 11,
-      "category": "社会负面"
     },
     {
       "raw_hot": 669235,
@@ -203,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508363,
+      "num": 508363,
+      "word": "毛不易 抢票",
+      "onboard_time": 1677816569,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 495112,
       "num": 495112,
       "word": "胡金秋",
@@ -267,14 +307,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 417206,
-      "num": 417206,
-      "word": "建议强制实施带薪年假",
-      "onboard_time": 1677814766,
-      "rank": 8,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 410523,
       "num": 410523,
       "word": "甲流与新冠会叠加感染吗",
@@ -329,14 +361,6 @@
       "onboard_time": 1677769593,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 375221,
-      "num": 375221,
-      "word": "毛不易 抢票",
-      "onboard_time": 1677816569,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 371212,
@@ -427,14 +451,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 313844,
-      "num": 313844,
-      "word": "专家称零彩礼不符合传统婚俗",
-      "onboard_time": 1677816329,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303813,
       "num": 303813,
       "word": "快乐再出发",
@@ -523,6 +539,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 228285,
+      "num": 228285,
+      "word": "姚薇怀孕",
+      "onboard_time": 1677815307,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228249,
+      "num": 228249,
+      "word": "浪潮",
+      "onboard_time": 1677817892,
+      "rank": 34,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 223484,
       "num": 223484,
       "word": "陈楚生苏醒王铮亮合唱海上花",
@@ -579,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201200,
+      "num": 201200,
+      "word": "浪潮信息回应美国出口禁令相关消息",
+      "onboard_time": 1677817710,
+      "rank": 39,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 198676,
       "num": 198676,
       "word": "韩维辰第四",
@@ -633,14 +673,6 @@
       "onboard_time": 1677809846,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 178792,
-      "num": 178792,
-      "word": "姚薇怀孕",
-      "onboard_time": 1677815307,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 176269,
@@ -795,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130617,
+      "num": 130617,
+      "word": "考试时把自己逗笑了",
+      "onboard_time": 1677817414,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130382,
       "num": 130382,
       "word": "学霸寝室不泡图书馆全员保研名校",
@@ -825,6 +865,14 @@
       "onboard_time": 1677809546,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122787,
+      "num": 290745,
+      "word": "防腐剂对宝宝危害有多大",
+      "onboard_time": 1677816209,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121228,
@@ -987,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78444,
-      "num": 290745,
-      "word": "防腐剂对宝宝危害有多大",
-      "onboard_time": 1677816209,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78230,
       "num": 78230,
       "word": "夫妻离婚后发现儿子患自闭症又复婚",
@@ -1035,6 +1075,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 69718,
+      "num": 386524,
+      "word": "为什么向野而生成为趋势",
+      "onboard_time": 1677816029,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67309,
       "num": 67309,
       "word": "金星合木星",
@@ -1049,14 +1097,6 @@
       "onboard_time": 1677752732,
       "rank": 29,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 40207,
-      "num": 386524,
-      "word": "为什么向野而生成为趋势",
-      "onboard_time": 1677816029,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 30071,
