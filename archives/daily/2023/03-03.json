@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677846950765,
+  "endTime": 1677848071734,
   "band_list": [
     {
       "raw_hot": 3397650,
@@ -163,20 +163,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1049607,
+      "num": 1049607,
+      "word": "导师给我的论文想好了期刊",
+      "onboard_time": 1677839187,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1035658,
       "num": 330723,
       "word": "迪丽热巴秦岚同台",
       "onboard_time": 1677838107,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1016678,
-      "num": 1016678,
-      "word": "导师给我的论文想好了期刊",
-      "onboard_time": 1677839187,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 1012870,
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387455,
+      "num": 387455,
+      "word": "邓超陈赫鹿晗五哈3换头像",
+      "onboard_time": 1677846326,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385391,
       "num": 385391,
       "word": "薛之谦说佛山站郑州站准备就绪",
@@ -657,14 +665,6 @@
       "onboard_time": 1677828330,
       "rank": 34,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 379630,
-      "num": 379630,
-      "word": "邓超陈赫鹿晗五哈3换头像",
-      "onboard_time": 1677846326,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 378385,
@@ -1251,6 +1251,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 202444,
+      "num": 202444,
+      "word": "大熊猫和花和叶已被广东一企业认养",
+      "onboard_time": 1677844824,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201431,
       "num": 201431,
       "word": "会飞的大象置景路透",
@@ -1363,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194117,
+      "num": 194117,
+      "word": "建议网络直播账号日打赏不超100元",
+      "onboard_time": 1677846505,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 193346,
       "num": 193346,
       "word": "新手改妆",
@@ -1411,20 +1427,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186054,
+      "num": 186054,
+      "word": "eStar锁定S组",
+      "onboard_time": 1677847945,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181370,
       "num": 181370,
       "word": "闺蜜分手要不要劝",
       "onboard_time": 1677836547,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180286,
-      "num": 144494,
-      "word": "建议网络直播账号日打赏不超100元",
-      "onboard_time": 1677846505,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 179826,
@@ -1611,14 +1627,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 144152,
-      "num": 144152,
-      "word": "大熊猫和花和叶已被广东一企业认养",
-      "onboard_time": 1677844824,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143799,
       "num": 143799,
       "word": "手把手教你办铁路临时乘车身份证明",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1677800245,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136283,
+      "num": 136283,
+      "word": "当你的同事是个天秤座",
+      "onboard_time": 1677846985,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 135490,
@@ -1897,6 +1913,14 @@
       "onboard_time": 1677765871,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 102250,
+      "num": 102250,
+      "word": "熊猫和花周边销量飙升906%",
+      "onboard_time": 1677847286,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97460,
