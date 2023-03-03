@@ -1,0 +1,410 @@
+{
+  "runTime": 1677809583134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1744688,
+        "num": 1744688,
+        "word": "罗翔评一人犯罪影响家属考公",
+        "onboard_time": 1677802949,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1432919,
+        "num": 1432919,
+        "word": "赌王姐姐何婉鸿去世",
+        "onboard_time": 1677803852,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21237,
+        "num": 1344369,
+        "word": "一图认遍全国春花",
+        "onboard_time": 1677746610,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1297168,
+        "num": 1297168,
+        "word": "B站去年给UP主分了91亿",
+        "onboard_time": 1677803671,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 850542,
+        "num": 850542,
+        "word": "章莹颖",
+        "onboard_time": 1677801388,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793583,
+        "num": 793583,
+        "word": "民政局回应出台彩礼举报公告",
+        "onboard_time": 1677805289,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743840,
+        "num": 743840,
+        "word": "B站2022年净亏损75亿元",
+        "onboard_time": 1677806666,
+        "rank": 6,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 669235,
+        "num": 669235,
+        "word": "陆虎向嘘嘘求婚成功",
+        "onboard_time": 1677800365,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577787,
+        "num": 577787,
+        "word": "周艺轩说婚礼伴郎团有王一博",
+        "onboard_time": 1677805771,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576938,
+        "num": 576938,
+        "word": "刘雯7小时走3场秀",
+        "onboard_time": 1677804510,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1106468,
+        "num": 554506,
+        "word": "低估了马思纯的身高",
+        "onboard_time": 1677800725,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 515117,
+        "num": 515117,
+        "word": "尖沙咀",
+        "onboard_time": 1677798380,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472172,
+        "num": 472172,
+        "word": "雾都雾里七个八淘汰",
+        "onboard_time": 1677807568,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452019,
+        "num": 452019,
+        "word": "何超莲徐璐张天爱同框看秀",
+        "onboard_time": 1677808348,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 432049,
+        "num": 432049,
+        "word": "国考成绩",
+        "onboard_time": 1677809248,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 410523,
+        "num": 410523,
+        "word": "甲流与新冠会叠加感染吗",
+        "onboard_time": 1677806547,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376832,
+        "num": 376832,
+        "word": "在双亲的遗物中发现自己的领养证",
+        "onboard_time": 1677771752,
+        "rank": 16,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 360209,
+        "num": 360209,
+        "word": "感染甲流病毒该如何治疗",
+        "onboard_time": 1677803430,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350509,
+        "num": 350509,
+        "word": "大学每月生活费多少才够用",
+        "onboard_time": 1677787751,
+        "rank": 18,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 349953,
+        "num": 349953,
+        "word": "胡夫金字塔内发现长9米新通道",
+        "onboard_time": 1677807927,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630265,
+        "num": 346533,
+        "word": "男性最佳生育年龄为30到35周岁",
+        "onboard_time": 1677807389,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531228,
+        "num": 345836,
+        "word": "女子称因准点下班试用期第3天被辞退",
+        "onboard_time": 1677806488,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342445,
+        "num": 342445,
+        "word": "香港一在建大楼发生火灾",
+        "onboard_time": 1677801809,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318101,
+        "num": 318101,
+        "word": "蛋仔派对",
+        "onboard_time": 1677799523,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303350,
+        "num": 303350,
+        "word": "香港名媛碎尸案警方再拘一人",
+        "onboard_time": 1677759569,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 281698,
+        "num": 281698,
+        "word": "温州特斯拉驾驶员已记不清失控场景",
+        "onboard_time": 1677807147,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278404,
+        "num": 278404,
+        "word": "RedVelvet演唱会海报",
+        "onboard_time": 1677808529,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241718,
+        "num": 241718,
+        "word": "两会",
+        "onboard_time": 1677807147,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 195925,
+        "num": 195925,
+        "word": "Schiaparelli大秀",
+        "onboard_time": 1677809007,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 194095,
+        "num": 194095,
+        "word": "海关工作犬嗅出6只活体甲虫",
+        "onboard_time": 1677789614,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187651,
+        "num": 187651,
+        "word": "赵小棠宋妍霏生图路透",
+        "onboard_time": 1677808708,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176269,
+        "num": 176269,
+        "word": "王嘉尔 你好星期六",
+        "onboard_time": 1677803011,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174020,
+        "num": 174020,
+        "word": "全度妍郑敬淏CP感",
+        "onboard_time": 1677806429,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173510,
+        "num": 173510,
+        "word": "关晓彤荧光绿短裙",
+        "onboard_time": 1677773485,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158405,
+        "num": 158405,
+        "word": "王栎鑫与十五年前的自己对话",
+        "onboard_time": 1677804089,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144197,
+        "num": 144197,
+        "word": "60岁是新黄金期",
+        "onboard_time": 1677801268,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143799,
+        "num": 143799,
+        "word": "手把手教你办铁路临时乘车身份证明",
+        "onboard_time": 1677808708,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137152,
+        "num": 137152,
+        "word": "肖战意大利氛围感随拍",
+        "onboard_time": 1677800245,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134349,
+        "num": 134349,
+        "word": "错误擤鼻涕或致耳朵鼓膜穿孔",
+        "onboard_time": 1677804871,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130003,
+        "num": 130003,
+        "word": "甄子丹说BBC们从不报道真实的中国",
+        "onboard_time": 1677769593,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127825,
+        "num": 127825,
+        "word": "蔡徐坤米兰四年前后对比",
+        "onboard_time": 1677800906,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127769,
+        "num": 127769,
+        "word": "B站称三体动画引中国式科幻热潮",
+        "onboard_time": 1677775580,
+        "rank": 41,
+        "category": "动漫,科技"
+      },
+      {
+        "raw_hot": 112431,
+        "num": 112431,
+        "word": "俄乌局势新进展",
+        "onboard_time": 1677789790,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 111229,
+        "num": 111229,
+        "word": "商场回应艺术画展被指涉儿童色情",
+        "onboard_time": 1677768511,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109228,
+        "num": 109228,
+        "word": "鹿晗喂鱼的手法",
+        "onboard_time": 1677801869,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106788,
+        "num": 106788,
+        "word": "德云社演出节目单",
+        "onboard_time": 1677809546,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105618,
+        "num": 105618,
+        "word": "进击的巨人",
+        "onboard_time": 1677773604,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 103869,
+        "num": 103869,
+        "word": "詹姆斯右脚肌腱受伤",
+        "onboard_time": 1677800787,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103417,
+        "num": 103417,
+        "word": "塞尔达传说旷野之息发售六周年",
+        "onboard_time": 1677809366,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94768,
+        "num": 94768,
+        "word": "梅西艾特了C罗头像网友",
+        "onboard_time": 1677809487,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#看中国式现代化图景#"
+    }
+  }
+}

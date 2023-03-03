@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677799202556,
+  "endTime": 1677809583134,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -131,6 +131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1744688,
+      "num": 1744688,
+      "word": "罗翔评一人犯罪影响家属考公",
+      "onboard_time": 1677802949,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1732782,
       "num": 596660,
       "word": "迪丽热巴回应前段时间休息是有点疲惫",
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1432919,
+      "num": 1432919,
+      "word": "赌王姐姐何婉鸿去世",
+      "onboard_time": 1677803852,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1432588,
       "num": 1432588,
       "word": "三甲医院有位患者叫熊猫是真熊猫",
@@ -241,6 +257,14 @@
       "onboard_time": 1677595534,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1297168,
+      "num": 1297168,
+      "word": "B站去年给UP主分了91亿",
+      "onboard_time": 1677803671,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 1296015,
@@ -385,6 +409,14 @@
       "onboard_time": 1677738624,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1106468,
+      "num": 554506,
+      "word": "低估了马思纯的身高",
+      "onboard_time": 1677800725,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1105567,
@@ -643,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 850542,
+      "num": 850542,
+      "word": "章莹颖",
+      "onboard_time": 1677801388,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 845655,
       "num": 845655,
       "word": "电影忠犬八公定档",
@@ -689,6 +729,14 @@
       "onboard_time": 1677725368,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 793583,
+      "num": 793583,
+      "word": "民政局回应出台彩礼举报公告",
+      "onboard_time": 1677805289,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 791211,
@@ -777,6 +825,14 @@
       "onboard_time": 1677649647,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 743840,
+      "num": 743840,
+      "word": "B站2022年净亏损75亿元",
+      "onboard_time": 1677806666,
+      "rank": 6,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 739784,
@@ -963,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669235,
+      "num": 669235,
+      "word": "陆虎向嘘嘘求婚成功",
+      "onboard_time": 1677800365,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 668012,
       "num": 668012,
       "word": "老人自家院子种菜被上门强行清理",
@@ -1051,6 +1115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 630265,
+      "num": 346533,
+      "word": "男性最佳生育年龄为30到35周岁",
+      "onboard_time": 1677807389,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 624710,
       "num": 624710,
       "word": "高启兰被粉丝狂叫金丝老婆",
@@ -1137,6 +1209,22 @@
       "onboard_time": 1677766353,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 577787,
+      "num": 577787,
+      "word": "周艺轩说婚礼伴郎团有王一博",
+      "onboard_time": 1677805771,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 576938,
+      "num": 576938,
+      "word": "刘雯7小时走3场秀",
+      "onboard_time": 1677804510,
+      "rank": 9,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 574814,
@@ -1313,6 +1401,14 @@
       "onboard_time": 1677748592,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 531228,
+      "num": 345836,
+      "word": "女子称因准点下班试用期第3天被辞退",
+      "onboard_time": 1677806488,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530685,
@@ -1499,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 472172,
+      "num": 472172,
+      "word": "雾都雾里七个八淘汰",
+      "onboard_time": 1677807568,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470732,
       "num": 470732,
       "word": "年轻人都流向了哪些城市",
@@ -1579,6 +1683,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 452019,
+      "num": 452019,
+      "word": "何超莲徐璐张天爱同框看秀",
+      "onboard_time": 1677808348,
+      "rank": 13,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 447763,
       "num": 447763,
       "word": "建议辅助生殖技术进医保",
@@ -1649,6 +1761,14 @@
       "onboard_time": 1677755969,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432049,
+      "num": 432049,
+      "word": "国考成绩",
+      "onboard_time": 1677809248,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 429938,
@@ -1753,6 +1873,14 @@
       "onboard_time": 1677594573,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 410523,
+      "num": 410523,
+      "word": "甲流与新冠会叠加感染吗",
+      "onboard_time": 1677806547,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409626,
@@ -1963,6 +2091,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 360209,
+      "num": 360209,
+      "word": "感染甲流病毒该如何治疗",
+      "onboard_time": 1677803430,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355596,
       "num": 355596,
       "word": "华为诉小米专利侵权已被受理",
@@ -2011,6 +2147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 349953,
+      "num": 349953,
+      "word": "胡夫金字塔内发现长9米新通道",
+      "onboard_time": 1677807927,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348273,
       "num": 348273,
       "word": "虞书欣方发严正声明维权",
@@ -2057,6 +2201,14 @@
       "onboard_time": 1677728367,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 342445,
+      "num": 342445,
+      "word": "香港一在建大楼发生火灾",
+      "onboard_time": 1677801809,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340751,
@@ -2177,6 +2329,14 @@
       "onboard_time": 1677724046,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318101,
+      "num": 318101,
+      "word": "蛋仔派对",
+      "onboard_time": 1677799523,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 317864,
@@ -2403,6 +2563,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 281698,
+      "num": 281698,
+      "word": "温州特斯拉驾驶员已记不清失控场景",
+      "onboard_time": 1677807147,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281546,
       "num": 281546,
       "word": "甲流易感染人群如何防护",
@@ -2425,6 +2593,14 @@
       "onboard_time": 1677733111,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278404,
+      "num": 278404,
+      "word": "RedVelvet演唱会海报",
+      "onboard_time": 1677808529,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 278363,
@@ -3275,6 +3451,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 195925,
+      "num": 195925,
+      "word": "Schiaparelli大秀",
+      "onboard_time": 1677809007,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 195263,
       "num": 195263,
       "word": "TTG拉票放大招了",
@@ -3459,6 +3643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187651,
+      "num": 187651,
+      "word": "赵小棠宋妍霏生图路透",
+      "onboard_time": 1677808708,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186792,
       "num": 186792,
       "word": "老了我们也要这样吃喝",
@@ -3571,12 +3763,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176269,
+      "num": 176269,
+      "word": "王嘉尔 你好星期六",
+      "onboard_time": 1677803011,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175728,
       "num": 175728,
       "word": "2023LPL春季赛",
       "onboard_time": 1677654748,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174020,
+      "num": 174020,
+      "word": "全度妍郑敬淏CP感",
+      "onboard_time": 1677806429,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 173039,
@@ -3668,7 +3876,7 @@
     },
     {
       "raw_hot": 168650,
-      "num": 1143671,
+      "num": 1344369,
       "word": "一图认遍全国春花",
       "onboard_time": 1677746610,
       "rank": 2,
@@ -3737,6 +3945,14 @@
       "onboard_time": 1677682050,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158405,
+      "num": 158405,
+      "word": "王栎鑫与十五年前的自己对话",
+      "onboard_time": 1677804089,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 157146,
@@ -3883,12 +4099,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144197,
+      "num": 144197,
+      "word": "60岁是新黄金期",
+      "onboard_time": 1677801268,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144048,
       "num": 144048,
       "word": "中国小将顶峰相见",
       "onboard_time": 1677727408,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143799,
+      "num": 143799,
+      "word": "手把手教你办铁路临时乘车身份证明",
+      "onboard_time": 1677808708,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142565,
@@ -3963,6 +4195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137152,
+      "num": 137152,
+      "word": "肖战意大利氛围感随拍",
+      "onboard_time": 1677800245,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136697,
       "num": 1321910,
       "word": "春日里的花海列车",
@@ -4025,6 +4265,14 @@
       "onboard_time": 1677693194,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134349,
+      "num": 134349,
+      "word": "错误擤鼻涕或致耳朵鼓膜穿孔",
+      "onboard_time": 1677804871,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134138,
@@ -4105,6 +4353,14 @@
       "onboard_time": 1677682831,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127825,
+      "num": 127825,
+      "word": "蔡徐坤米兰四年前后对比",
+      "onboard_time": 1677800906,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 127486,
@@ -4307,6 +4563,22 @@
       "category": "其它"
     },
     {
+      "raw_hot": 109228,
+      "num": 109228,
+      "word": "鹿晗喂鱼的手法",
+      "onboard_time": 1677801869,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106788,
+      "num": 106788,
+      "word": "德云社演出节目单",
+      "onboard_time": 1677809546,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106310,
       "num": 106310,
       "word": "建议消除对罪犯子女考公的限制",
@@ -4331,12 +4603,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 103869,
+      "num": 103869,
+      "word": "詹姆斯右脚肌腱受伤",
+      "onboard_time": 1677800787,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103574,
       "num": 103574,
       "word": "筑最小鸟巢的凤头雨燕进入繁殖期",
       "onboard_time": 1677744813,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103417,
+      "num": 103417,
+      "word": "塞尔达传说旷野之息发售六周年",
+      "onboard_time": 1677809366,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 101536,
@@ -4393,6 +4681,14 @@
       "onboard_time": 1677658710,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94768,
+      "num": 94768,
+      "word": "梅西艾特了C罗头像网友",
+      "onboard_time": 1677809487,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 91973,
