@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677819586788,
+  "endTime": 1677820926611,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -243,20 +243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1377705,
+      "num": 1377705,
+      "word": "专家称零彩礼不符合传统婚俗",
+      "onboard_time": 1677816329,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1369052,
       "num": 1369052,
       "word": "海南椰树集团招生本科年薪16.8万",
       "onboard_time": 1677735208,
       "rank": 48,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1364907,
-      "num": 1364907,
-      "word": "专家称零彩礼不符合传统婚俗",
-      "onboard_time": 1677816329,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1355833,
@@ -1275,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 594446,
+      "num": 336274,
+      "word": "水哥曾患谱系自闭症",
+      "onboard_time": 1677819150,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 580412,
       "num": 580412,
       "word": "辽宁一轿车被大货车追尾压扁",
@@ -2091,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394484,
+      "num": 394484,
+      "word": "商场回应无偿设计丫丫海报并投放",
+      "onboard_time": 1677818970,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390024,
       "num": 390024,
       "word": "安欣吃醋",
@@ -2795,6 +2811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276493,
+      "num": 191807,
+      "word": "崩坏3第一部大结局",
+      "onboard_time": 1677819752,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 276240,
       "num": 276240,
       "word": "永远猜不到女生包里有什么",
@@ -2899,12 +2923,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 262225,
-      "num": 262225,
-      "word": "水哥曾患谱系自闭症",
-      "onboard_time": 1677819150,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 258066,
+      "num": 258066,
+      "word": "考试时把自己逗笑了",
+      "onboard_time": 1677817414,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 257983,
@@ -3033,6 +3057,14 @@
       "onboard_time": 1677629247,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245080,
+      "num": 245080,
+      "word": "刘涛讲粤语",
+      "onboard_time": 1677819989,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 243627,
@@ -3467,6 +3499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205917,
+      "num": 205917,
+      "word": "尹净汉扎发造型",
+      "onboard_time": 1677820168,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 205375,
       "num": 205375,
       "word": "蔡徐坤欧洲行程",
@@ -3643,12 +3683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198909,
-      "num": 198909,
-      "word": "考试时把自己逗笑了",
-      "onboard_time": 1677817414,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 199598,
+      "num": 199598,
+      "word": "章父曾说最对不起莹颖的就是我",
+      "onboard_time": 1677820469,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198676,
@@ -3675,20 +3715,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197079,
+      "num": 197079,
+      "word": "方时赫评价SMTOWN和HYBE",
+      "onboard_time": 1677820168,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196718,
       "num": 196718,
       "word": "香奈儿回应2万包包15分钟断了",
       "onboard_time": 1677573270,
       "rank": 25,
       "category": "社会新闻,时尚"
-    },
-    {
-      "raw_hot": 196551,
-      "num": 196551,
-      "word": "商场回应无偿设计丫丫海报并投放",
-      "onboard_time": 1677818970,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196047,
@@ -3768,6 +3808,14 @@
       "word": "扬科维奇掌握中国所有球员信息",
       "onboard_time": 1677662728,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191879,
+      "num": 199172,
+      "word": "快船vs勇士",
+      "onboard_time": 1677819989,
+      "rank": 34,
       "category": "体育"
     },
     {

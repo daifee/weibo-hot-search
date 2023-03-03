@@ -1,6 +1,6 @@
 {
   "startTime": 1677774483034,
-  "endTime": 1677819586788,
+  "endTime": 1677820926611,
   "band_list": [
     {
       "raw_hot": 2057427,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1364907,
-      "num": 1364907,
+      "raw_hot": 1377705,
+      "num": 1377705,
       "word": "专家称零彩礼不符合传统婚俗",
       "onboard_time": 1677816329,
       "rank": 24,
@@ -185,6 +185,14 @@
       "onboard_time": 1677808348,
       "rank": 13,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 594446,
+      "num": 336274,
+      "word": "水哥曾患谱系自闭症",
+      "onboard_time": 1677819150,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 577787,
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394484,
+      "num": 394484,
+      "word": "商场回应无偿设计丫丫海报并投放",
+      "onboard_time": 1677818970,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384206,
       "num": 384206,
       "word": "星落凝成糖换脸特效",
@@ -499,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 276493,
+      "num": 191807,
+      "word": "崩坏3第一部大结局",
+      "onboard_time": 1677819752,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269487,
       "num": 269487,
       "word": "李俊昊采访谈林允儿",
@@ -507,12 +531,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 262225,
-      "num": 262225,
-      "word": "水哥曾患谱系自闭症",
-      "onboard_time": 1677819150,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 258066,
+      "num": 258066,
+      "word": "考试时把自己逗笑了",
+      "onboard_time": 1677817414,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 250517,
@@ -529,6 +553,14 @@
       "onboard_time": 1677765269,
       "rank": 8,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 245080,
+      "num": 245080,
+      "word": "刘涛讲粤语",
+      "onboard_time": 1677819989,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 244611,
@@ -619,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205917,
+      "num": 205917,
+      "word": "尹净汉扎发造型",
+      "onboard_time": 1677820168,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 204583,
       "num": 204583,
       "word": "白敬亭最新专访",
@@ -635,12 +675,12 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 198909,
-      "num": 198909,
-      "word": "考试时把自己逗笑了",
-      "onboard_time": 1677817414,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 199598,
+      "num": 199598,
+      "word": "章父曾说最对不起莹颖的就是我",
+      "onboard_time": 1677820469,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198676,
@@ -659,19 +699,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197079,
+      "num": 197079,
+      "word": "方时赫评价SMTOWN和HYBE",
+      "onboard_time": 1677820168,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197050,
       "num": 197050,
       "word": "公司招聘会计要求必须是A型血",
       "onboard_time": 1677750271,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196551,
-      "num": 196551,
-      "word": "商场回应无偿设计丫丫海报并投放",
-      "onboard_time": 1677818970,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -681,6 +721,14 @@
       "onboard_time": 1677809007,
       "rank": 28,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 191879,
+      "num": 199172,
+      "word": "快船vs勇士",
+      "onboard_time": 1677819989,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 188363,
