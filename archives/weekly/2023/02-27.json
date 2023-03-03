@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677879232701,
+  "endTime": 1677881932958,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -10419,6 +10419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93207,
+      "num": 47297,
+      "word": "新买iPad花屏天猫超市拒退货",
+      "onboard_time": 1677875951,
+      "rank": 10,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 92813,
       "num": 92813,
       "word": "厉以宁提出中国经济发展非均衡理论",
@@ -10769,14 +10777,6 @@
       "onboard_time": 1677473434,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62252,
-      "num": 28334,
-      "word": "新买iPad花屏天猫超市拒退货",
-      "onboard_time": 1677875951,
-      "rank": 10,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 61375,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677879232701,
+  "endTime": 1677881932958,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -6379,6 +6379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93207,
+      "num": 47297,
+      "word": "新买iPad花屏天猫超市拒退货",
+      "onboard_time": 1677875951,
+      "rank": 10,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 91973,
       "num": 91973,
       "word": "周刊君带你看两会",
@@ -6609,14 +6617,6 @@
       "onboard_time": 1677866536,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 62252,
-      "num": 28334,
-      "word": "新买iPad花屏天猫超市拒退货",
-      "onboard_time": 1677875951,
-      "rank": 10,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 61375,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677879232701,
+  "endTime": 1677881932958,
   "band_list": [
     {
       "raw_hot": 1304155,
@@ -339,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93207,
+      "num": 47297,
+      "word": "新买iPad花屏天猫超市拒退货",
+      "onboard_time": 1677875951,
+      "rank": 10,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 91485,
       "num": 91485,
       "word": "诡秘之主",
@@ -409,14 +417,6 @@
       "onboard_time": 1677866536,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 62252,
-      "num": 28334,
-      "word": "新买iPad花屏天猫超市拒退货",
-      "onboard_time": 1677875951,
-      "rank": 10,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 61596,
