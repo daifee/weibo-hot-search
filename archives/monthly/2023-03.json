@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677870943991,
+  "endTime": 1677872014264,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -6675,6 +6675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43083,
+      "num": 43083,
+      "word": "如果有百万年薪你会选择辞职创业吗",
+      "onboard_time": 1677870552,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41813,
       "num": 41813,
       "word": "这楼梯怎么还会捉迷藏呢",
@@ -6785,14 +6793,6 @@
       "onboard_time": 1677771867,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28444,
-      "num": 28444,
-      "word": "如果有百万年薪你会选择辞职创业吗",
-      "onboard_time": 1677870552,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 25328,
