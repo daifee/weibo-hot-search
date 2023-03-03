@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677850607752,
+  "endTime": 1677853070739,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -81,6 +81,14 @@
       "onboard_time": 1677499469,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2976403,
+      "num": 2976403,
+      "word": "大学每月生活费2000是什么水平",
+      "onboard_time": 1677849145,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 2957833,
@@ -257,6 +265,14 @@
       "onboard_time": 1677671189,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1893514,
+      "num": 1893514,
+      "word": "可乐 香菜",
+      "onboard_time": 1677850647,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1868036,
@@ -588,7 +604,7 @@
     },
     {
       "raw_hot": 1466556,
-      "num": 334758,
+      "num": 374791,
       "word": "Jennie摔伤",
       "onboard_time": 1677839667,
       "rank": 14,
@@ -1099,14 +1115,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1093563,
-      "num": 1093563,
-      "word": "大学每月生活费2000是什么水平",
-      "onboard_time": 1677849145,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1092787,
       "num": 1092787,
       "word": "动物园发布丫丫最新照片",
@@ -1228,7 +1236,7 @@
     },
     {
       "raw_hot": 1035658,
-      "num": 330723,
+      "num": 341653,
       "word": "迪丽热巴秦岚同台",
       "onboard_time": 1677838107,
       "rank": 10,
@@ -2115,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 686266,
+      "num": 686266,
+      "word": "邓超陈赫鹿晗五哈3换头像",
+      "onboard_time": 1677846326,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 685496,
       "num": 615303,
       "word": "毛宁称美国未免太不自信",
@@ -2393,14 +2409,6 @@
       "onboard_time": 1677807389,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 624744,
-      "num": 624744,
-      "word": "邓超陈赫鹿晗五哈3换头像",
-      "onboard_time": 1677846326,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 624710,
@@ -3075,6 +3083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520637,
+      "num": 520637,
+      "word": "大熊猫和花和叶已被广东一企业认养",
+      "onboard_time": 1677844824,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520339,
       "num": 520339,
       "word": "山姆回应顾客买到1天后上市的鸡爪",
@@ -3132,7 +3148,7 @@
     },
     {
       "raw_hot": 510966,
-      "num": 289693,
+      "num": 300005,
       "word": "刘雯郭晓婷合照",
       "onboard_time": 1677845787,
       "rank": 15,
@@ -3772,7 +3788,7 @@
     },
     {
       "raw_hot": 434813,
-      "num": 281470,
+      "num": 374071,
       "word": "李秀满选择方时赫的理由",
       "onboard_time": 1677850045,
       "rank": 12,
@@ -3952,14 +3968,6 @@
       "word": "胡锡进谈调整休假安排建议",
       "onboard_time": 1677681092,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 418492,
-      "num": 418492,
-      "word": "大熊猫和花和叶已被广东一企业认养",
-      "onboard_time": 1677844824,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -4323,6 +4331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382692,
+      "num": 382692,
+      "word": "张杰冲上云霄机长造型",
+      "onboard_time": 1677850287,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382601,
       "num": 382601,
       "word": "3岁萌娃帮看店遇男子买卫生巾",
@@ -4649,6 +4665,14 @@
       "onboard_time": 1677764009,
       "rank": 38,
       "category": "情感,自然"
+    },
+    {
+      "raw_hot": 352053,
+      "num": 352053,
+      "word": "佘诗曼林峯重现使徒行者经典片段",
+      "onboard_time": 1677849445,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 351976,
@@ -4993,6 +5017,14 @@
       "onboard_time": 1677835288,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 327876,
+      "num": 375018,
+      "word": "宋雨琦直播跳TOMBOY",
+      "onboard_time": 1677850287,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 327549,
@@ -5547,6 +5579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291065,
+      "num": 291065,
+      "word": "黄仁俊翻唱你的名字片尾曲",
+      "onboard_time": 1677850887,
+      "rank": 16,
+      "category": "音乐,影视"
+    },
+    {
       "raw_hot": 290906,
       "num": 290906,
       "word": "男子多次以领养为名将获取的猫虐杀",
@@ -5641,6 +5681,14 @@
       "onboard_time": 1677631110,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 284966,
+      "num": 284966,
+      "word": "二刷狂飙才注意到李健这个设计",
+      "onboard_time": 1677852148,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 284392,
@@ -5819,6 +5867,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 271882,
+      "num": 261357,
+      "word": "王俊凯小时候打篮球旧照",
+      "onboard_time": 1677844525,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271585,
       "num": 271585,
       "word": "无名北美票房超47万美元",
@@ -5969,14 +6025,6 @@
       "onboard_time": 1677839787,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261357,
-      "num": 261357,
-      "word": "王俊凯小时候打篮球旧照",
-      "onboard_time": 1677844525,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 260815,
@@ -6395,6 +6443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229869,
+      "num": 194049,
+      "word": "沙溢cos高启强",
+      "onboard_time": 1677853050,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229447,
       "num": 229447,
       "word": "宋佳米兰电影感大片",
@@ -6467,6 +6523,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 226364,
+      "num": 226364,
+      "word": "薛凯琪巴黎塞纳河畔大片",
+      "onboard_time": 1677852929,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 226116,
       "num": 226116,
       "word": "王智发文揭秘韩朵朵特效妆",
@@ -6489,6 +6553,14 @@
       "onboard_time": 1677752732,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 225238,
+      "num": 1044715,
+      "word": "全国两会",
+      "onboard_time": 1677851068,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 225215,
@@ -6923,6 +6995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208217,
+      "num": 208217,
+      "word": "琼斯绝杀",
+      "onboard_time": 1677852208,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207947,
       "num": 207947,
       "word": "赵明称鹰眼相机可自动抓拍",
@@ -7203,6 +7283,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 203502,
+      "num": 203502,
+      "word": "当你的同事是个天秤座",
+      "onboard_time": 1677846985,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203309,
       "num": 203309,
       "word": "时空中的绘旅人",
@@ -7315,6 +7403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200638,
+      "num": 200638,
+      "word": "最强大脑",
+      "onboard_time": 1677852507,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200216,
       "num": 200216,
       "word": "网友点赞甘孜文旅局执行力",
@@ -7369,14 +7465,6 @@
       "onboard_time": 1677834928,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199037,
-      "num": 199037,
-      "word": "佘诗曼林峯重现使徒行者经典片段",
-      "onboard_time": 1677849445,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 198676,
@@ -7739,6 +7827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192092,
+      "num": 192092,
+      "word": "韩式英语又在害人",
+      "onboard_time": 1677851610,
+      "rank": 31,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 192042,
       "num": 192042,
       "word": "金泰亨演我第一天入职",
@@ -7801,14 +7897,6 @@
       "onboard_time": 1677481349,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 191321,
-      "num": 191321,
-      "word": "张杰冲上云霄机长造型",
-      "onboard_time": 1677850287,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 190905,
@@ -8419,6 +8507,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 166616,
+      "num": 166616,
+      "word": "Haerin双丸子头",
+      "onboard_time": 1677849805,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165707,
       "num": 165707,
       "word": "高叶早期生图剧照",
@@ -8627,6 +8723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156506,
+      "num": 156506,
+      "word": "玫瑰的故事",
+      "onboard_time": 1677852929,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156066,
       "num": 156066,
       "word": "又看到刘诗雯打球了",
@@ -8641,6 +8745,14 @@
       "onboard_time": 1677510691,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155919,
+      "num": 196816,
+      "word": "熊猫和花周边销量飙升906%",
+      "onboard_time": 1677847286,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155747,
@@ -8851,14 +8963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147159,
-      "num": 147159,
-      "word": "当你的同事是个天秤座",
-      "onboard_time": 1677846985,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 145742,
       "num": 145742,
       "word": "龙马精神海报没有刘浩存",
@@ -8939,14 +9043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142967,
-      "num": 142967,
-      "word": "Haerin双丸子头",
-      "onboard_time": 1677849805,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 142565,
       "num": 142565,
       "word": "宁至谦对阮流筝说带你摘星星去",
@@ -9025,6 +9121,14 @@
       "onboard_time": 1677579871,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138552,
+      "num": 170640,
+      "word": "建议提供免费墓地和骨灰盒",
+      "onboard_time": 1677852328,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 138495,
@@ -9307,14 +9411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129675,
-      "num": 129675,
-      "word": "宋雨琦直播跳TOMBOY",
-      "onboard_time": 1677850287,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 129476,
       "num": 357169,
       "word": "女生晚上回家的第一件事",
@@ -9329,6 +9425,14 @@
       "onboard_time": 1677682831,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129021,
+      "num": 129021,
+      "word": "何洁张远合唱",
+      "onboard_time": 1677849987,
+      "rank": 41,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 128623,
@@ -9497,14 +9601,6 @@
       "onboard_time": 1677768570,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122028,
-      "num": 122028,
-      "word": "何洁张远合唱",
-      "onboard_time": 1677849987,
-      "rank": 41,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 121035,
@@ -9793,14 +9889,6 @@
       "onboard_time": 1677426268,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110413,
-      "num": 110413,
-      "word": "熊猫和花周边销量飙升906%",
-      "onboard_time": 1677847286,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109807,
@@ -10121,6 +10209,14 @@
       "onboard_time": 1677833187,
       "rank": 45,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 89089,
+      "num": 89089,
+      "word": "琼斯CBA生涯10000分",
+      "onboard_time": 1677852869,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 88667,
