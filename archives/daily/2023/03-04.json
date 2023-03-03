@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677867900590,
+  "endTime": 1677868664766,
   "band_list": [
     {
       "raw_hot": 1304155,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62776,
+      "num": 62776,
+      "word": "澜星元皮肤",
+      "onboard_time": 1677866536,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 61596,
       "num": 61596,
       "word": "章子怡拜会戛纳电影节艺术总监",
@@ -435,14 +443,6 @@
       "category": "音乐,影视"
     },
     {
-      "raw_hot": 47468,
-      "num": 47468,
-      "word": "澜星元皮肤",
-      "onboard_time": 1677866536,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 44864,
       "num": 53881,
       "word": "流浪地球3要给杭州加戏",
@@ -459,7 +459,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20442,
+      "raw_hot": 21867,
       "num": 27312,
       "word": "我们的客栈",
       "onboard_time": 1677854009,

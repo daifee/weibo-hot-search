@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677867900590,
+  "endTime": 1677868664766,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -10763,6 +10763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62776,
+      "num": 62776,
+      "word": "澜星元皮肤",
+      "onboard_time": 1677866536,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 61375,
       "num": 61375,
       "word": "龚俊入驻上海杜莎夫人蜡像馆",
@@ -10825,14 +10833,6 @@
       "onboard_time": 1677507092,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47468,
-      "num": 47468,
-      "word": "澜星元皮肤",
-      "onboard_time": 1677866536,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 44598,
