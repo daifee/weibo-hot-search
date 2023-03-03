@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677814068489,
+  "endTime": 1677817142352,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -273,6 +273,14 @@
       "onboard_time": 1677544831,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1815729,
+      "num": 688449,
+      "word": "黑袋装卫生巾是偏见还是关心",
+      "onboard_time": 1677813447,
+      "rank": 7,
+      "category": "社会议题,情感"
     },
     {
       "raw_hot": 1813718,
@@ -1979,6 +1987,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 671198,
+      "num": 402195,
+      "word": "郑中基回应前助手涉香港名媛碎尸案",
+      "onboard_time": 1677816148,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 670118,
       "num": 670118,
       "word": "肖战意大利游玩plog",
@@ -2129,6 +2145,14 @@
       "onboard_time": 1677640289,
       "rank": 10,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 639151,
+      "num": 639151,
+      "word": "倒数说爱你 定档",
+      "onboard_time": 1677814527,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 638528,
@@ -2995,14 +3019,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 485704,
-      "num": 485704,
-      "word": "黑袋装卫生巾是偏见还是关心",
-      "onboard_time": 1677813447,
-      "rank": 7,
-      "category": "社会议题,情感"
-    },
-    {
       "raw_hot": 485398,
       "num": 473594,
       "word": "女明星捧花头像",
@@ -3243,6 +3259,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 450567,
+      "num": 450567,
+      "word": "梅西亲属家超市遭袭击",
+      "onboard_time": 1677811406,
+      "rank": 14,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 449328,
       "num": 449328,
       "word": "今年的甲流要比常年猛一些吗",
@@ -3329,14 +3353,6 @@
       "onboard_time": 1677549266,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 440436,
-      "num": 440436,
-      "word": "梅西亲属家超市遭袭击",
-      "onboard_time": 1677811406,
-      "rank": 14,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 439818,
@@ -3601,6 +3617,14 @@
       "onboard_time": 1677504871,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417206,
+      "num": 417206,
+      "word": "建议强制实施带薪年假",
+      "onboard_time": 1677814766,
+      "rank": 8,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 416729,
@@ -3971,6 +3995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375221,
+      "num": 375221,
+      "word": "毛不易 抢票",
+      "onboard_time": 1677816569,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 374404,
       "num": 374404,
       "word": "全国超9成小城市房价不过万元",
@@ -4048,6 +4080,14 @@
       "word": "星落凝成糖上头名场面",
       "onboard_time": 1677673828,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 366615,
+      "num": 366615,
+      "word": "星落凝成糖换脸特效",
+      "onboard_time": 1677814048,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -4571,6 +4611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323386,
+      "num": 323386,
+      "word": "宋亚轩新歌",
+      "onboard_time": 1677816087,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 323095,
       "num": 262402,
       "word": "张颂文曾指导赵露思演戏",
@@ -4665,6 +4713,14 @@
       "onboard_time": 1677725368,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 313844,
+      "num": 313844,
+      "word": "专家称零彩礼不符合传统婚俗",
+      "onboard_time": 1677816329,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313700,
@@ -4905,6 +4961,14 @@
       "onboard_time": 1677594512,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297172,
+      "num": 297172,
+      "word": "杨超越徐正溪车顶合照",
+      "onboard_time": 1677815186,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 296822,
@@ -7227,6 +7291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178792,
+      "num": 178792,
+      "word": "姚薇怀孕",
+      "onboard_time": 1677815307,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177756,
       "num": 165945,
       "word": "邢菲说第一次演现实题材作品",
@@ -7291,6 +7363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172112,
+      "num": 172112,
+      "word": "独行侠战胜76人",
+      "onboard_time": 1677814408,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171840,
       "num": 171840,
       "word": "JDG对战WE",
@@ -7313,14 +7393,6 @@
       "onboard_time": 1677675148,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170679,
-      "num": 170679,
-      "word": "星落凝成糖换脸特效",
-      "onboard_time": 1677814048,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 170483,
@@ -9075,6 +9147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78444,
+      "num": 290745,
+      "word": "防腐剂对宝宝危害有多大",
+      "onboard_time": 1677816209,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75550,
       "num": 75550,
       "word": "ITZY中文版TrustMe",
@@ -9249,6 +9329,14 @@
       "onboard_time": 1677680911,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 40207,
+      "num": 386524,
+      "word": "为什么向野而生成为趋势",
+      "onboard_time": 1677816029,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 36291,
