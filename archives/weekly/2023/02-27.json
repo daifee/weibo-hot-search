@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677947064545,
+  "endTime": 1677948100735,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -7755,6 +7755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 234161,
+      "num": 193272,
+      "word": "邓超一口气炫冻梨",
+      "onboard_time": 1677946885,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234042,
       "num": 234042,
       "word": "何瑞贤秀场妆",
@@ -9043,6 +9051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199176,
+      "num": 199176,
+      "word": "2023F1巴林大奖赛",
+      "onboard_time": 1677947005,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198957,
       "num": 198957,
       "word": "我们的客栈",
@@ -9353,14 +9369,6 @@
       "onboard_time": 1677410129,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193540,
-      "num": 193540,
-      "word": "2023F1巴林大奖赛",
-      "onboard_time": 1677947005,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 193533,
@@ -10035,6 +10043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173209,
+      "num": 173209,
+      "word": "林诗栋vs勒布伦",
+      "onboard_time": 1677947125,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172861,
       "num": 172861,
       "word": "建议调整燃放烟花爆竹政策",
@@ -10329,14 +10345,6 @@
       "onboard_time": 1677547888,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162903,
-      "num": 162903,
-      "word": "邓超一口气炫冻梨",
-      "onboard_time": 1677946885,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 162717,
@@ -12449,6 +12457,14 @@
       "onboard_time": 1677899847,
       "rank": 48,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 87140,
+      "num": 87140,
+      "word": "朴彩英嘟嘴比心",
+      "onboard_time": 1677948082,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 86919,

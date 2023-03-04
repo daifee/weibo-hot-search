@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1677947064545,
+  "endTime": 1677948100735,
   "band_list": [
     {
       "raw_hot": 1384707,
@@ -155,6 +155,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234161,
+      "num": 193272,
+      "word": "邓超一口气炫冻梨",
+      "onboard_time": 1677946885,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 218531,
+      "num": 192495,
+      "word": "艾薇儿",
+      "onboard_time": 1677934287,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212768,
       "num": 212768,
       "word": "张凌赫白鹿宁安如梦团综",
@@ -168,6 +184,14 @@
       "word": "F1",
       "onboard_time": 1677943651,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199176,
+      "num": 199176,
+      "word": "2023F1巴林大奖赛",
+      "onboard_time": 1677947005,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -187,22 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193540,
-      "num": 193540,
-      "word": "2023F1巴林大奖赛",
-      "onboard_time": 1677947005,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 192495,
-      "num": 192495,
-      "word": "艾薇儿",
-      "onboard_time": 1677934287,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183356,
       "num": 183356,
       "word": "王心凌现场好稳",
@@ -219,20 +227,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173209,
+      "num": 173209,
+      "word": "林诗栋vs勒布伦",
+      "onboard_time": 1677947125,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165391,
       "num": 165391,
       "word": "梁靖崑3比1张本智和",
       "onboard_time": 1677942990,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162903,
-      "num": 162903,
-      "word": "邓超一口气炫冻梨",
-      "onboard_time": 1677946885,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 151695,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 144054,
-      "num": 125007,
+      "num": 135340,
       "word": "光渊",
       "onboard_time": 1677927325,
       "rank": 35,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 140534,
-      "num": 124188,
+      "num": 136821,
       "word": "浪姐 Aump",
       "onboard_time": 1677935608,
       "rank": 36,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 128938,
-      "num": 107674,
+      "num": 111146,
       "word": "白敬亭宋轶长风渡下证",
       "onboard_time": 1677928767,
       "rank": 40,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 123744,
-      "num": 106602,
+      "num": 113931,
       "word": "满江红实时票房破45亿",
       "onboard_time": 1677933927,
       "rank": 41,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 110281,
-      "num": 110281,
+      "num": 114498,
       "word": "春日壁纸",
       "onboard_time": 1677927747,
       "rank": 39,
@@ -377,6 +385,14 @@
       "onboard_time": 1677917664,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87140,
+      "num": 87140,
+      "word": "朴彩英嘟嘴比心",
+      "onboard_time": 1677948082,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 66580,
