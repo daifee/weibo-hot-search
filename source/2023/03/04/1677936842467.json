@@ -1,0 +1,410 @@
+{
+  "runTime": 1677936842467,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 475319,
+        "num": 475319,
+        "word": "感动中国年度人物颁奖",
+        "onboard_time": 1677930625,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390334,
+        "num": 390334,
+        "word": "代表建议提前高考让学生好好过端午",
+        "onboard_time": 1677926849,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31513,
+        "num": 375633,
+        "word": "全国政协开幕会全场高唱国歌",
+        "onboard_time": 1677916047,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 685419,
+        "num": 365664,
+        "word": "Jiejie拥抱Scout",
+        "onboard_time": 1677934887,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 590381,
+        "num": 342300,
+        "word": "男子回应大学4年赚100多万",
+        "onboard_time": 1677920784,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441317,
+        "num": 335629,
+        "word": "EDG对战LNG",
+        "onboard_time": 1677928107,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 402294,
+        "num": 304856,
+        "word": "AG 觉醒",
+        "onboard_time": 1677934287,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303901,
+        "num": 303901,
+        "word": "魏无羡春季赛淘汰突破100",
+        "onboard_time": 1677934587,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297015,
+        "num": 297015,
+        "word": "15岁女生被西交大少年班录取",
+        "onboard_time": 1677924507,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 194918,
+        "num": 296581,
+        "word": "钱七虎获颁感动中国年度人物",
+        "onboard_time": 1677936147,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1715244,
+        "num": 295531,
+        "word": "难哄",
+        "onboard_time": 1677931289,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1143747,
+        "num": 293554,
+        "word": "浪姐4最终阵容",
+        "onboard_time": 1677919706,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 801344,
+        "num": 292588,
+        "word": "艾薇儿",
+        "onboard_time": 1677934287,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 758771,
+        "num": 291509,
+        "word": "小水会来吗",
+        "onboard_time": 1677930387,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 736759,
+        "num": 290030,
+        "word": "人大代表谈中传硕士在火锅店当保洁",
+        "onboard_time": 1677929305,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696650,
+        "num": 289968,
+        "word": "浪姐 Aump",
+        "onboard_time": 1677935608,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649639,
+        "num": 288751,
+        "word": "徐明浩直播喝茅台",
+        "onboard_time": 1677930687,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613292,
+        "num": 287042,
+        "word": "利路修将与鲁鲁修联动",
+        "onboard_time": 1677933386,
+        "rank": 17,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 604648,
+        "num": 286358,
+        "word": "警方通报16岁女孩殴打三轮车阿姨",
+        "onboard_time": 1677911005,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603328,
+        "num": 284844,
+        "word": "EDG 清算",
+        "onboard_time": 1677930867,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 543699,
+        "num": 283774,
+        "word": "满江红实时票房破45亿",
+        "onboard_time": 1677933927,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 457698,
+        "num": 281956,
+        "word": "我减肥失败的原因找到了",
+        "onboard_time": 1677932486,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342628,
+        "num": 280830,
+        "word": "檀健次背田曦薇",
+        "onboard_time": 1677932665,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308822,
+        "num": 280144,
+        "word": "白敬亭宋轶长风渡下证",
+        "onboard_time": 1677928767,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304318,
+        "num": 278762,
+        "word": "女护士下班摆摊卖无菌烤肠",
+        "onboard_time": 1677917664,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278270,
+        "num": 278270,
+        "word": "光渊",
+        "onboard_time": 1677927325,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276915,
+        "num": 276915,
+        "word": "陈伟霆讲最遗憾的事",
+        "onboard_time": 1677932605,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267803,
+        "num": 267803,
+        "word": "许魏洲送刘耀文吉他",
+        "onboard_time": 1677935547,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267730,
+        "num": 267730,
+        "word": "何与沈月额头吻",
+        "onboard_time": 1677934466,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264209,
+        "num": 264209,
+        "word": "李一桐版紫霞仙子",
+        "onboard_time": 1677936388,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247107,
+        "num": 247107,
+        "word": "郑秀妍黄色拖地长裙",
+        "onboard_time": 1677931946,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1828084,
+        "num": 246388,
+        "word": "迪丽热巴黑西装",
+        "onboard_time": 1677934646,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242814,
+        "num": 242814,
+        "word": "Fly第一场没哭",
+        "onboard_time": 1677935846,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222760,
+        "num": 222760,
+        "word": "与非门 蒋凡",
+        "onboard_time": 1677918986,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202425,
+        "num": 202425,
+        "word": "张婧仪陈哲远 白色橄榄树",
+        "onboard_time": 1677922586,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197317,
+        "num": 197317,
+        "word": "于文文现场",
+        "onboard_time": 1677936628,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177268,
+        "num": 177268,
+        "word": "Hero锁定S组",
+        "onboard_time": 1677933267,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174001,
+        "num": 174001,
+        "word": "RNG中单",
+        "onboard_time": 1677924683,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171193,
+        "num": 171193,
+        "word": "喻言榆野绿纱裙",
+        "onboard_time": 1677932486,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164832,
+        "num": 164832,
+        "word": "南极洲深海拍到罕见冥河水母",
+        "onboard_time": 1677921926,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151017,
+        "num": 151017,
+        "word": "春日壁纸",
+        "onboard_time": 1677927747,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150646,
+        "num": 150646,
+        "word": "林诗栋 牛的哇",
+        "onboard_time": 1677929905,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149330,
+        "num": 149330,
+        "word": "人大代表带着螺蛳粉参加两会",
+        "onboard_time": 1677925467,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143372,
+        "num": 143372,
+        "word": "听说你喜欢我大结局",
+        "onboard_time": 1677929125,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142666,
+        "num": 142666,
+        "word": "特斯拉疑失控连撞多车冲毁店门",
+        "onboard_time": 1677918866,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141129,
+        "num": 141129,
+        "word": "EDG战胜LNG",
+        "onboard_time": 1677934587,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134339,
+        "num": 134339,
+        "word": "林孝埈",
+        "onboard_time": 1677914845,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132569,
+        "num": 132569,
+        "word": "周杰伦 悉尼",
+        "onboard_time": 1677911183,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125325,
+        "num": 125325,
+        "word": "赵丽颖黑纱遮面路透",
+        "onboard_time": 1677923007,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122439,
+        "num": 122439,
+        "word": "KSG教练",
+        "onboard_time": 1677934887,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国政协十四届一次会议开幕#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677936137915,
+  "endTime": 1677936842467,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 2488875,
-      "num": 285775,
+      "num": 293554,
       "word": "浪姐4最终阵容",
       "onboard_time": 1677919706,
       "rank": 10,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1834727,
-      "num": 286147,
+      "num": 295531,
       "word": "难哄",
       "onboard_time": 1677931289,
       "rank": 10,
@@ -337,6 +337,14 @@
       "onboard_time": 1677911005,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1828084,
+      "num": 283391,
+      "word": "迪丽热巴黑西装",
+      "onboard_time": 1677934646,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1820954,
@@ -489,14 +497,6 @@
       "onboard_time": 1677573450,
       "rank": 21,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1691860,
-      "num": 283391,
-      "word": "迪丽热巴黑西装",
-      "onboard_time": 1677934646,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1660807,
@@ -1092,7 +1092,7 @@
     },
     {
       "raw_hot": 1151341,
-      "num": 285114,
+      "num": 288751,
       "word": "徐明浩直播喝茅台",
       "onboard_time": 1677930687,
       "rank": 12,
@@ -1444,7 +1444,7 @@
     },
     {
       "raw_hot": 1006115,
-      "num": 285555,
+      "num": 291509,
       "word": "小水会来吗",
       "onboard_time": 1677930387,
       "rank": 13,
@@ -2043,8 +2043,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 801323,
-      "num": 285398,
+      "raw_hot": 801344,
+      "num": 292588,
       "word": "艾薇儿",
       "onboard_time": 1677934287,
       "rank": 32,
@@ -2499,6 +2499,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 696650,
+      "num": 289968,
+      "word": "浪姐 Aump",
+      "onboard_time": 1677935608,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 690993,
       "num": 690993,
       "word": "iPhone16Pro有望采用屏下FaceID",
@@ -2532,7 +2540,7 @@
     },
     {
       "raw_hot": 686537,
-      "num": 284380,
+      "num": 287042,
       "word": "利路修将与鲁鲁修联动",
       "onboard_time": 1677933386,
       "rank": 17,
@@ -2553,6 +2561,14 @@
       "onboard_time": 1677580710,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 685419,
+      "num": 422360,
+      "word": "Jiejie拥抱Scout",
+      "onboard_time": 1677934887,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 682271,
@@ -2792,14 +2808,6 @@
       "word": "eStar声明",
       "onboard_time": 1677838407,
       "rank": 19,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 646036,
-      "num": 422360,
-      "word": "Jiejie拥抱Scout",
-      "onboard_time": 1677934887,
-      "rank": 3,
       "category": "游戏"
     },
     {
@@ -4035,6 +4043,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 475319,
+      "num": 475319,
+      "word": "感动中国年度人物颁奖",
+      "onboard_time": 1677930625,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475110,
       "num": 475110,
       "word": "成都警方通报越野车追撞轿车",
@@ -4177,6 +4193,14 @@
       "onboard_time": 1677909745,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457698,
+      "num": 283063,
+      "word": "我减肥失败的原因找到了",
+      "onboard_time": 1677932486,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 457517,
@@ -4371,14 +4395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 437458,
-      "num": 283063,
-      "word": "我减肥失败的原因找到了",
-      "onboard_time": 1677932486,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 437258,
       "num": 422973,
       "word": "厦门工商旅游学校回应学生跳楼",
@@ -4433,14 +4449,6 @@
       "onboard_time": 1677425552,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 435888,
-      "num": 435888,
-      "word": "感动中国年度人物颁奖",
-      "onboard_time": 1677930625,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 435814,
@@ -4817,6 +4825,14 @@
       "onboard_time": 1677464548,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402294,
+      "num": 346496,
+      "word": "AG 觉醒",
+      "onboard_time": 1677934287,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 401918,
@@ -5227,14 +5243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370179,
-      "num": 283642,
-      "word": "浪姐 Aump",
-      "onboard_time": 1677935608,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 369663,
       "num": 369663,
       "word": "狼队新人",
@@ -5569,14 +5577,6 @@
       "onboard_time": 1677892165,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346496,
-      "num": 346496,
-      "word": "AG 觉醒",
-      "onboard_time": 1677934287,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 346403,
@@ -6315,6 +6315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303901,
+      "num": 303901,
+      "word": "魏无羡春季赛淘汰突破100",
+      "onboard_time": 1677934587,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 303242,
       "num": 303242,
       "word": "苹果头显不需要iPhone配合使用",
@@ -6995,8 +7003,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 267090,
-      "num": 267090,
+      "raw_hot": 267730,
+      "num": 267730,
       "word": "何与沈月额头吻",
       "onboard_time": 1677934466,
       "rank": 28,
@@ -7065,6 +7073,14 @@
       "onboard_time": 1677758850,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264209,
+      "num": 264209,
+      "word": "李一桐版紫霞仙子",
+      "onboard_time": 1677936388,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 262864,
@@ -7376,6 +7392,14 @@
       "word": "TES战胜RNG",
       "onboard_time": 1677928046,
       "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 242814,
+      "num": 242814,
+      "word": "Fly第一场没哭",
+      "onboard_time": 1677935846,
+      "rank": 33,
       "category": "游戏"
     },
     {
@@ -8803,14 +8827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199155,
-      "num": 199155,
-      "word": "Fly第一场没哭",
-      "onboard_time": 1677935846,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 198957,
       "num": 198957,
       "word": "我们的客栈",
@@ -8905,6 +8921,14 @@
       "onboard_time": 1677764131,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197317,
+      "num": 197317,
+      "word": "于文文现场",
+      "onboard_time": 1677936628,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 197220,
@@ -9067,6 +9091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194918,
+      "num": 296581,
+      "word": "钱七虎获颁感动中国年度人物",
+      "onboard_time": 1677936147,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194462,
       "num": 194462,
       "word": "张婧仪长沙夜生活花絮",
@@ -9097,14 +9129,6 @@
       "onboard_time": 1677759210,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 193764,
-      "num": 193764,
-      "word": "魏无羡春季赛淘汰突破100",
-      "onboard_time": 1677934587,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 193742,
