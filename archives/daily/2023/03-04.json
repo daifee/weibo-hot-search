@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677928516817,
+  "endTime": 1677929612256,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -299,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 753944,
+      "num": 256498,
+      "word": "光渊",
+      "onboard_time": 1677927325,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 745594,
       "num": 314135,
       "word": "王昱珩谈杨笠普信男言论",
@@ -323,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 703490,
+      "num": 213689,
+      "word": "崔胜澈徐明浩直播",
+      "onboard_time": 1677928885,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 690731,
       "num": 468261,
       "word": "张新成问有那么多人看光渊吗",
@@ -331,11 +347,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 687116,
-      "num": 256498,
-      "word": "光渊",
-      "onboard_time": 1677927325,
-      "rank": 13,
+      "raw_hot": 689902,
+      "num": 212384,
+      "word": "白敬亭宋轶长风渡下证",
+      "onboard_time": 1677928767,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -369,6 +385,14 @@
       "onboard_time": 1677887544,
       "rank": 4,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 577847,
+      "num": 577847,
+      "word": "代表建议提前高考让学生好好过端午",
+      "onboard_time": 1677926849,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 575627,
@@ -409,14 +433,6 @@
       "onboard_time": 1677901466,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 549060,
-      "num": 549060,
-      "word": "代表建议提前高考让学生好好过端午",
-      "onboard_time": 1677926849,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 542290,
@@ -595,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369663,
+      "num": 369663,
+      "word": "狼队新人",
+      "onboard_time": 1677925526,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 362651,
       "num": 304285,
       "word": "周杰伦 悉尼",
@@ -699,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320133,
-      "num": 320133,
-      "word": "狼队新人",
-      "onboard_time": 1677925526,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 317401,
       "num": 90952,
       "word": "早年明星恋爱综艺",
@@ -747,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311150,
+      "num": 311150,
+      "word": "南极洲深海拍到罕见冥河水母",
+      "onboard_time": 1677921926,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306749,
       "num": 262954,
       "word": "进击的巨人",
@@ -777,14 +801,6 @@
       "onboard_time": 1677918266,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 290041,
-      "num": 290041,
-      "word": "南极洲深海拍到罕见冥河水母",
-      "onboard_time": 1677921926,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288554,
@@ -1123,6 +1139,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 202489,
+      "num": 202489,
+      "word": "林诗栋3比1林昀儒",
+      "onboard_time": 1677928947,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201917,
       "num": 201917,
       "word": "十四届全国人大一次会议议程",
@@ -1185,6 +1209,38 @@
       "onboard_time": 1677911665,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189648,
+      "num": 189648,
+      "word": "春日壁纸",
+      "onboard_time": 1677927747,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 187830,
+      "num": 187830,
+      "word": "文俊辉日语cover",
+      "onboard_time": 1677928587,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 187633,
+      "num": 187633,
+      "word": "WTT球星挑战赛果阿站2023",
+      "onboard_time": 1677929125,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185340,
+      "num": 185340,
+      "word": "Rookie MVP",
+      "onboard_time": 1677928465,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 185323,
@@ -1265,6 +1321,14 @@
       "onboard_time": 1677897925,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162485,
+      "num": 162485,
+      "word": "听说你喜欢我大结局",
+      "onboard_time": 1677929125,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 162407,
@@ -1355,6 +1419,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 151033,
+      "num": 151033,
+      "word": "人大代表谈中传硕士在火锅店当保洁",
+      "onboard_time": 1677929305,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150838,
       "num": 150838,
       "word": "极端通勤是压垮你的最后一根稻草吗",
@@ -1377,14 +1449,6 @@
       "onboard_time": 1677920067,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 150417,
-      "num": 150417,
-      "word": "春日壁纸",
-      "onboard_time": 1677927747,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 149709,
@@ -1441,6 +1505,14 @@
       "onboard_time": 1677891086,
       "rank": 37,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 141741,
+      "num": 141741,
+      "word": "你的三月新欢是什么",
+      "onboard_time": 1677927627,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141120,
@@ -1547,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124476,
+      "num": 124476,
+      "word": "KPL",
+      "onboard_time": 1677927986,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124322,
       "num": 124322,
       "word": "建议网络直播账号日打赏不超100元",
@@ -1563,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122856,
-      "num": 122856,
-      "word": "KPL",
-      "onboard_time": 1677927986,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 122637,
       "num": 122637,
       "word": "小羊长相清秀酷似水墨画",
@@ -1585,6 +1657,14 @@
       "onboard_time": 1677919405,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 117643,
+      "num": 117643,
+      "word": "单曲循环乐园",
+      "onboard_time": 1677928527,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 117431,
@@ -1683,14 +1763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107190,
-      "num": 107190,
-      "word": "Rookie MVP",
-      "onboard_time": 1677928465,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 106640,
       "num": 106640,
       "word": "李一桐毕雯珺录制你好星期六",
@@ -1713,14 +1785,6 @@
       "onboard_time": 1677836908,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 93748,
-      "num": 121915,
-      "word": "你的三月新欢是什么",
-      "onboard_time": 1677927627,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91485,
