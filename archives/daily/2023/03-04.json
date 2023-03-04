@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677943095455,
+  "endTime": 1677944017648,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -43,8 +43,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1935867,
+      "num": 320903,
+      "word": "迪丽热巴造型",
+      "onboard_time": 1677942691,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1834727,
-      "num": 334304,
+      "num": 345225,
       "word": "难哄",
       "onboard_time": 1677931289,
       "rank": 10,
@@ -75,8 +83,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1605648,
-      "num": 334656,
+      "raw_hot": 1645728,
+      "num": 346894,
       "word": "主办方因为周杰伦多唱被罚钱",
       "onboard_time": 1677941430,
       "rank": 10,
@@ -153,14 +161,6 @@
       "onboard_time": 1677905069,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1129366,
-      "num": 320903,
-      "word": "迪丽热巴造型",
-      "onboard_time": 1677942691,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1099312,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 681220,
-      "num": 333990,
+      "num": 346535,
       "word": "水母头",
       "onboard_time": 1677939747,
       "rank": 27,
@@ -491,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 641517,
+      "num": 392255,
+      "word": "到北京动物园为丫丫探营的人好多",
+      "onboard_time": 1677942390,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 623879,
       "num": 337896,
       "word": "蔚来情况说明",
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 619495,
-      "num": 333317,
+      "num": 344514,
       "word": "张凌赫白鹿宁安如梦团综",
       "onboard_time": 1677939087,
       "rank": 23,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 602887,
-      "num": 333682,
+      "num": 345914,
       "word": "BKPP现场",
       "onboard_time": 1677941308,
       "rank": 13,
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 434203,
-      "num": 332988,
+      "num": 344340,
       "word": "郑秀妍Fly舞台",
       "onboard_time": 1677941850,
       "rank": 15,
@@ -772,7 +780,7 @@
     },
     {
       "raw_hot": 402294,
-      "num": 346496,
+      "num": 347078,
       "word": "AG 觉醒",
       "onboard_time": 1677934287,
       "rank": 34,
@@ -1147,6 +1155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 278346,
+      "num": 278346,
+      "word": "DRG战胜AG",
+      "onboard_time": 1677943170,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 273166,
       "num": 264367,
       "word": "王心凌现场好稳",
@@ -1169,14 +1185,6 @@
       "onboard_time": 1677934466,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 267680,
-      "num": 267680,
-      "word": "到北京动物园为丫丫探营的人好多",
-      "onboard_time": 1677942390,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266590,
@@ -1425,6 +1433,14 @@
       "onboard_time": 1677922586,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220283,
+      "num": 220283,
+      "word": "梁靖崑3比1张本智和",
+      "onboard_time": 1677942990,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 220193,
@@ -1683,14 +1699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177063,
-      "num": 177063,
-      "word": "梁靖崑3比1张本智和",
-      "onboard_time": 1677942990,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177018,
       "num": 177018,
       "word": "雷军两会建议推动仿生机器人发展",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1677897925,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163701,
+      "num": 163701,
+      "word": "阿森纳vs伯恩茅斯",
+      "onboard_time": 1677943049,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 162407,
@@ -1995,6 +2011,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 134592,
+      "num": 134592,
+      "word": "F1",
+      "onboard_time": 1677943651,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134520,
       "num": 134520,
       "word": "五哈 好笑",
@@ -2075,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123893,
+      "num": 123893,
+      "word": "被工作气到可以拍拍腋窝",
+      "onboard_time": 1677943831,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122637,
       "num": 122637,
       "word": "小羊长相清秀酷似水墨画",
@@ -2121,14 +2153,6 @@
       "onboard_time": 1677866536,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116550,
-      "num": 116550,
-      "word": "阿森纳vs伯恩茅斯",
-      "onboard_time": 1677943049,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 116206,
