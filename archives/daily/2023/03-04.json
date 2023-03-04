@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677918190246,
+  "endTime": 1677919037031,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1832959,
-      "num": 311839,
+      "num": 476874,
       "word": "警方通报16岁女孩殴打三轮车阿姨",
       "onboard_time": 1677911005,
       "rank": 15,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1566007,
-      "num": 313684,
+      "num": 317200,
       "word": "张真源 常驻跑男",
       "onboard_time": 1677905428,
       "rank": 12,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1134239,
-      "num": 311676,
+      "num": 328919,
       "word": "安福路小公主",
       "onboard_time": 1677905069,
       "rank": 13,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1058094,
-      "num": 310463,
+      "num": 384635,
       "word": "跑男",
       "onboard_time": 1677910106,
       "rank": 13,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 788270,
-      "num": 301798,
+      "num": 321130,
       "word": "虞书欣片场掐郭敬明脖子",
       "onboard_time": 1677906447,
       "rank": 21,
@@ -220,10 +220,18 @@
     },
     {
       "raw_hot": 780291,
-      "num": 300671,
+      "num": 320301,
       "word": "死亡万花筒杀青",
       "onboard_time": 1677908784,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 758246,
+      "num": 473548,
+      "word": "狂飙反派戏 香港副导演",
+      "onboard_time": 1677916644,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -251,16 +259,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 675485,
-      "num": 211755,
-      "word": "狂飙反派戏 香港副导演",
-      "onboard_time": 1677916644,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 673568,
-      "num": 211650,
+      "raw_hot": 690731,
+      "num": 468261,
       "word": "张新成问有那么多人看光渊吗",
       "onboard_time": 1677916225,
       "rank": 13,
@@ -289,6 +289,14 @@
       "onboard_time": 1677857188,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 600528,
+      "num": 461049,
+      "word": "与非门 蒋凡",
+      "onboard_time": 1677918986,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 590121,
@@ -385,6 +393,14 @@
       "onboard_time": 1677855389,
       "rank": 3,
       "category": "情感,财经"
+    },
+    {
+      "raw_hot": 460444,
+      "num": 460444,
+      "word": "女护士下班摆摊卖无菌烤肠",
+      "onboard_time": 1677917664,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 458551,
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 331069,
-      "num": 210391,
+      "num": 266865,
       "word": "金硕珍郑号锡朴智旻同框合照",
       "onboard_time": 1677916165,
       "rank": 22,
@@ -561,6 +577,14 @@
       "onboard_time": 1677906208,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321530,
+      "num": 321530,
+      "word": "TheShy奎因上单",
+      "onboard_time": 1677917485,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 317401,
@@ -596,7 +620,7 @@
     },
     {
       "raw_hot": 311946,
-      "num": 311946,
+      "num": 484685,
       "word": "林高远发挥",
       "onboard_time": 1677914065,
       "rank": 36,
@@ -649,6 +673,14 @@
       "onboard_time": 1677899965,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285253,
+      "num": 285253,
+      "word": "与非门",
+      "onboard_time": 1677918567,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 281647,
@@ -716,7 +748,7 @@
     },
     {
       "raw_hot": 256351,
-      "num": 210933,
+      "num": 255820,
       "word": "本地人也需要外地游客的攻略",
       "onboard_time": 1677916466,
       "rank": 18,
@@ -755,14 +787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 229851,
-      "num": 209958,
-      "word": "TheShy奎因上单",
-      "onboard_time": 1677917485,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 227414,
       "num": 200205,
       "word": "Lisa脸部比心",
@@ -795,20 +819,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224264,
+      "num": 491150,
+      "word": "狗狗示意主人开门的方式",
+      "onboard_time": 1677914903,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 224011,
       "num": 224011,
       "word": "沙溢cos高启强",
       "onboard_time": 1677853050,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222001,
-      "num": 209672,
-      "word": "狗狗示意主人开门的方式",
-      "onboard_time": 1677914903,
-      "rank": 39,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 221815,
@@ -867,8 +891,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209509,
-      "num": 209509,
+      "raw_hot": 211760,
+      "num": 211760,
       "word": "奔跑吧",
       "onboard_time": 1677915385,
       "rank": 29,
@@ -896,6 +920,14 @@
       "word": "如何看待巴黎要求梅西降薪",
       "onboard_time": 1677906866,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206606,
+      "num": 206606,
+      "word": "张本智和3比1安宰贤",
+      "onboard_time": 1677918266,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -987,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184723,
+      "num": 184723,
+      "word": "送手机被打车主家属称双方已和解",
+      "onboard_time": 1677918086,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181263,
       "num": 181263,
       "word": "王栎鑫重唱当年快男被淘汰之歌",
@@ -1033,14 +1073,6 @@
       "onboard_time": 1677887303,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167442,
-      "num": 167442,
-      "word": "女护士下班摆摊卖无菌烤肠",
-      "onboard_time": 1677917664,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164497,
@@ -1108,7 +1140,7 @@
     },
     {
       "raw_hot": 157659,
-      "num": 342251,
+      "num": 478241,
       "word": "中国的核心利益不容损害",
       "onboard_time": 1677913884,
       "rank": 8,
@@ -1435,20 +1467,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 87610,
-      "num": 87610,
-      "word": "送手机被打车主家属称双方已和解",
-      "onboard_time": 1677918086,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87288,
       "num": 87288,
       "word": "玫瑰的故事",
       "onboard_time": 1677852929,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 87185,
+      "num": 87185,
+      "word": "特斯拉疑失控连撞多车冲毁店门",
+      "onboard_time": 1677918866,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83037,
