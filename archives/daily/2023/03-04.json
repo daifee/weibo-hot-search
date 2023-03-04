@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677915216056,
+  "endTime": 1677918190246,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1017499,
+      "num": 581757,
+      "word": "林孝埈",
+      "onboard_time": 1677914845,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1014153,
       "num": 952780,
       "word": "BLACKPINK澳门演唱会",
@@ -121,6 +129,14 @@
       "onboard_time": 1677898286,
       "rank": 31,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 968702,
+      "num": 968702,
+      "word": "建议对密室逃脱和剧本杀立法",
+      "onboard_time": 1677913346,
+      "rank": 28,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 964212,
@@ -169,6 +185,14 @@
       "onboard_time": 1677899068,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 806658,
+      "num": 806658,
+      "word": "建议每辆车每年可享受固定天数高速免费",
+      "onboard_time": 1677912986,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 799519,
@@ -227,12 +251,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 687421,
-      "num": 687421,
-      "word": "建议每辆车每年可享受固定天数高速免费",
-      "onboard_time": 1677912986,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 675485,
+      "num": 211755,
+      "word": "狂飙反派戏 香港副导演",
+      "onboard_time": 1677916644,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 673568,
+      "num": 211650,
+      "word": "张新成问有那么多人看光渊吗",
+      "onboard_time": 1677916225,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 665619,
@@ -315,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541096,
+      "num": 541096,
+      "word": "中国护照的含金量越来越高",
+      "onboard_time": 1677914065,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 526670,
       "num": 306357,
       "word": "福宝狗叫",
@@ -347,36 +387,12 @@
       "category": "情感,财经"
     },
     {
-      "raw_hot": 486751,
-      "num": 486751,
-      "word": "建议对密室逃脱和剧本杀立法",
-      "onboard_time": 1677913346,
-      "rank": 28,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 483903,
-      "num": 483903,
-      "word": "林孝埈",
-      "onboard_time": 1677914845,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 458551,
       "num": 299180,
       "word": "SMTOWN新女团将举办见面会",
       "onboard_time": 1677909745,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 445824,
-      "num": 445824,
-      "word": "中国护照的含金量越来越高",
-      "onboard_time": 1677914065,
-      "rank": 9,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 436374,
@@ -513,6 +529,14 @@
       "onboard_time": 1677858447,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 331069,
+      "num": 210391,
+      "word": "金硕珍郑号锡朴智旻同框合照",
+      "onboard_time": 1677916165,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 331050,
@@ -691,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256351,
+      "num": 210933,
+      "word": "本地人也需要外地游客的攻略",
+      "onboard_time": 1677916466,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 255556,
       "num": 255556,
       "word": "建议提供免费墓地和骨灰盒",
@@ -721,6 +753,14 @@
       "onboard_time": 1677908964,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229851,
+      "num": 209958,
+      "word": "TheShy奎因上单",
+      "onboard_time": 1677917485,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 227414,
@@ -761,6 +801,14 @@
       "onboard_time": 1677853050,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222001,
+      "num": 209672,
+      "word": "狗狗示意主人开门的方式",
+      "onboard_time": 1677914903,
+      "rank": 39,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 221815,
@@ -809,6 +857,22 @@
       "onboard_time": 1677905125,
       "rank": 33,
       "category": "综艺,美妆"
+    },
+    {
+      "raw_hot": 214536,
+      "num": 209549,
+      "word": "李兰迪陈星旭你好星期六合体",
+      "onboard_time": 1677916346,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209509,
+      "num": 209509,
+      "word": "奔跑吧",
+      "onboard_time": 1677915385,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 208847,
@@ -865,6 +929,14 @@
       "onboard_time": 1677896487,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198863,
+      "num": 198863,
+      "word": "刘宇出发参加巴黎时装周",
+      "onboard_time": 1677917066,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 197071,
@@ -963,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167442,
+      "num": 167442,
+      "word": "女护士下班摆摊卖无菌烤肠",
+      "onboard_time": 1677917664,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164497,
       "num": 164497,
       "word": "EDG与LNG赛前海报",
@@ -1003,11 +1083,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159536,
+      "num": 159536,
+      "word": "黄奕分享产后焦虑经历",
+      "onboard_time": 1677916644,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159246,
       "num": 372957,
       "word": "首场委员通道采访直播",
       "onboard_time": 1677911245,
       "rank": 43,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 158679,
+      "num": 212403,
+      "word": "2023看两会",
+      "onboard_time": 1677917066,
+      "rank": 8,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 157659,
+      "num": 342251,
+      "word": "中国的核心利益不容损害",
+      "onboard_time": 1677913884,
+      "rank": 8,
       "category": "国内要闻"
     },
     {
@@ -1099,14 +1203,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 142579,
-      "num": 142579,
-      "word": "狗狗示意主人开门的方式",
-      "onboard_time": 1677914903,
-      "rank": 39,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 141120,
       "num": 141120,
       "word": "森林狼vs湖人",
@@ -1116,7 +1212,7 @@
     },
     {
       "raw_hot": 138202,
-      "num": 525653,
+      "num": 648437,
       "word": "全国人大会议议程来了",
       "onboard_time": 1677912504,
       "rank": 2,
@@ -1161,14 +1257,6 @@
       "onboard_time": 1677859346,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132951,
-      "num": 342251,
-      "word": "中国的核心利益不容损害",
-      "onboard_time": 1677913884,
-      "rank": 8,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 131460,
@@ -1345,6 +1433,14 @@
       "onboard_time": 1677899847,
       "rank": 48,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 87610,
+      "num": 87610,
+      "word": "送手机被打车主家属称双方已和解",
+      "onboard_time": 1677918086,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87288,
