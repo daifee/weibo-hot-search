@@ -1,0 +1,410 @@
+{
+  "runTime": 1677921456061,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 700304,
+        "num": 700304,
+        "word": "建议对密室逃脱和剧本杀立法",
+        "onboard_time": 1677913346,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 345973,
+        "num": 345973,
+        "word": "建议每辆车每年可享受固定天数高速免费",
+        "onboard_time": 1677912986,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75224,
+        "num": 345909,
+        "word": "全国人大会议议程来了",
+        "onboard_time": 1677912504,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1065848,
+        "num": 338341,
+        "word": "女护士下班摆摊卖无菌烤肠",
+        "onboard_time": 1677917664,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499886,
+        "num": 333603,
+        "word": "建议高考外语必考改为选考",
+        "onboard_time": 1677913346,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565679,
+        "num": 331229,
+        "word": "林孝埈",
+        "onboard_time": 1677914845,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328412,
+        "num": 328412,
+        "word": "中国护照的含金量越来越高",
+        "onboard_time": 1677914065,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 326745,
+        "num": 326745,
+        "word": "TheShy奎因上单",
+        "onboard_time": 1677917485,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258317,
+        "num": 258317,
+        "word": "本地人也需要外地游客的攻略",
+        "onboard_time": 1677916466,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 194303,
+        "num": 258118,
+        "word": "狗狗示意主人开门的方式",
+        "onboard_time": 1677914903,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 2450175,
+        "num": 257918,
+        "word": "浪姐4最终阵容",
+        "onboard_time": 1677919706,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1091100,
+        "num": 257612,
+        "word": "警方通报16岁女孩殴打三轮车阿姨",
+        "onboard_time": 1677911005,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899395,
+        "num": 257218,
+        "word": "与非门 蒋凡",
+        "onboard_time": 1677918986,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567665,
+        "num": 256922,
+        "word": "狂飙反派戏 香港副导演",
+        "onboard_time": 1677916644,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67887,
+        "num": 256717,
+        "word": "为啥都在抢小白瓶",
+        "onboard_time": 1677916104,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 551253,
+        "num": 256611,
+        "word": "张新成问有那么多人看光渊吗",
+        "onboard_time": 1677916225,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448296,
+        "num": 256170,
+        "word": "特斯拉疑失控连撞多车冲毁店门",
+        "onboard_time": 1677918866,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433679,
+        "num": 255981,
+        "word": "日本突然声称多出7000余小岛",
+        "onboard_time": 1677901526,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384156,
+        "num": 255711,
+        "word": "男子回应大学4年赚100多万",
+        "onboard_time": 1677920784,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335753,
+        "num": 255330,
+        "word": "与非门",
+        "onboard_time": 1677918567,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373143,
+        "num": 255038,
+        "word": "虞书欣片场掐郭敬明脖子",
+        "onboard_time": 1677906447,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332112,
+        "num": 254807,
+        "word": "死亡万花筒杀青",
+        "onboard_time": 1677908784,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291159,
+        "num": 254642,
+        "word": "张本智和3比1安宰贤",
+        "onboard_time": 1677918266,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254391,
+        "num": 254391,
+        "word": "送手机被打车主家属称双方已和解",
+        "onboard_time": 1677918086,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253120,
+        "num": 253120,
+        "word": "25岁男演员刘峰去世",
+        "onboard_time": 1677885859,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233269,
+        "num": 233269,
+        "word": "跑男",
+        "onboard_time": 1677910106,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232187,
+        "num": 232187,
+        "word": "安福路小公主",
+        "onboard_time": 1677905069,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 213941,
+        "num": 213941,
+        "word": "周杰伦 悉尼",
+        "onboard_time": 1677911183,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199145,
+        "num": 199145,
+        "word": "刘亦菲出发巴黎",
+        "onboard_time": 1677903868,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194497,
+        "num": 194497,
+        "word": "福宝狗叫",
+        "onboard_time": 1677911545,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172523,
+        "num": 172523,
+        "word": "奔跑吧",
+        "onboard_time": 1677915385,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166888,
+        "num": 166888,
+        "word": "金硕珍郑号锡朴智旻同框合照",
+        "onboard_time": 1677916165,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161398,
+        "num": 161398,
+        "word": "SMTOWN新女团将举办见面会",
+        "onboard_time": 1677909745,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150420,
+        "num": 150420,
+        "word": "WBG战胜AL",
+        "onboard_time": 1677920067,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138611,
+        "num": 138611,
+        "word": "周冬雨出发巴黎生图",
+        "onboard_time": 1677909265,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133235,
+        "num": 133235,
+        "word": "被夺笋的花花",
+        "onboard_time": 1677898647,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126721,
+        "num": 126721,
+        "word": "李兰迪陈星旭你好星期六合体",
+        "onboard_time": 1677916346,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126464,
+        "num": 126464,
+        "word": "蔚来情况说明",
+        "onboard_time": 1677903565,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124146,
+        "num": 124146,
+        "word": "BLACKPINK澳门演唱会",
+        "onboard_time": 1677897146,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118776,
+        "num": 118776,
+        "word": "保你平安",
+        "onboard_time": 1677919405,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113663,
+        "num": 113663,
+        "word": "网络名人赞两会",
+        "onboard_time": 1677920365,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 110362,
+        "num": 110362,
+        "word": "杭州无人机表演将万朵鲜花送雷锋",
+        "onboard_time": 1677921087,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109146,
+        "num": 109146,
+        "word": "Meiko称成为选手最重要的是坚持",
+        "onboard_time": 1677907768,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108701,
+        "num": 108701,
+        "word": "黄奕分享产后焦虑经历",
+        "onboard_time": 1677916644,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107495,
+        "num": 107495,
+        "word": "巨人完结篇前篇开分9.5",
+        "onboard_time": 1677903387,
+        "rank": 44,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 103054,
+        "num": 103054,
+        "word": "小福贵看了都得叫你声姐",
+        "onboard_time": 1677913644,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101067,
+        "num": 101067,
+        "word": "首场委员通道采访直播",
+        "onboard_time": 1677911245,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 95941,
+        "num": 95941,
+        "word": "林高远发挥",
+        "onboard_time": 1677914065,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93752,
+        "num": 93752,
+        "word": "2023看两会",
+        "onboard_time": 1677917066,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 87643,
+        "num": 87643,
+        "word": "蔚来",
+        "onboard_time": 1677895525,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国政协十四届一次会议开幕#"
+    }
+  }
+}

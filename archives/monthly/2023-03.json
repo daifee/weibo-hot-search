@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677919037031,
+  "endTime": 1677921456061,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -89,6 +89,14 @@
       "onboard_time": 1677759569,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2450175,
+      "num": 257918,
+      "word": "浪姐4最终阵容",
+      "onboard_time": 1677919706,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 2370708,
@@ -675,6 +683,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1065848,
+      "num": 460444,
+      "word": "女护士下班摆摊卖无菌烤肠",
+      "onboard_time": 1677917664,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1064723,
       "num": 1064723,
       "word": "杜海涛说想和沈梦辰生两到三个孩子",
@@ -953,6 +969,14 @@
       "onboard_time": 1677897986,
       "rank": 17,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 899395,
+      "num": 461049,
+      "word": "与非门 蒋凡",
+      "onboard_time": 1677918986,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 895965,
@@ -1779,14 +1803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 600528,
-      "num": 461049,
-      "word": "与非门 蒋凡",
-      "onboard_time": 1677918986,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 598549,
       "num": 598549,
       "word": "周琦",
@@ -2459,14 +2475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 460444,
-      "num": 460444,
-      "word": "女护士下班摆摊卖无菌烤肠",
-      "onboard_time": 1677917664,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 459864,
       "num": 459864,
       "word": "海关工作犬嗅出6只活体甲虫",
@@ -2553,6 +2561,14 @@
       "onboard_time": 1677811406,
       "rank": 14,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 448296,
+      "num": 256170,
+      "word": "特斯拉疑失控连撞多车冲毁店门",
+      "onboard_time": 1677918866,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 447763,
@@ -2969,6 +2985,14 @@
       "onboard_time": 1677814048,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 384156,
+      "num": 255711,
+      "word": "男子回应大学4年赚100多万",
+      "onboard_time": 1677920784,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384112,
@@ -3419,6 +3443,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 335753,
+      "num": 285253,
+      "word": "与非门",
+      "onboard_time": 1677918567,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335176,
       "num": 335176,
       "word": "kep1er将于4月10日回归",
@@ -3483,6 +3515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 326745,
+      "num": 326745,
+      "word": "TheShy奎因上单",
+      "onboard_time": 1677917485,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 326457,
       "num": 326457,
       "word": "声生不息",
@@ -3545,14 +3585,6 @@
       "onboard_time": 1677739225,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321530,
-      "num": 321530,
-      "word": "TheShy奎因上单",
-      "onboard_time": 1677917485,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 318840,
@@ -3883,6 +3915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 291159,
+      "num": 254642,
+      "word": "张本智和3比1安宰贤",
+      "onboard_time": 1677918266,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291065,
       "num": 291065,
       "word": "黄仁俊翻唱你的名字片尾曲",
@@ -3961,14 +4001,6 @@
       "onboard_time": 1677631110,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 285253,
-      "num": 285253,
-      "word": "与非门",
-      "onboard_time": 1677918567,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 281698,
@@ -4275,6 +4307,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 258317,
+      "num": 258317,
+      "word": "本地人也需要外地游客的攻略",
+      "onboard_time": 1677916466,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 258284,
       "num": 258284,
       "word": "星落凝成糖",
@@ -4299,20 +4339,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 256351,
-      "num": 255820,
-      "word": "本地人也需要外地游客的攻略",
-      "onboard_time": 1677916466,
-      "rank": 18,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 255234,
       "num": 255234,
       "word": "王鹤棣无效握手",
       "onboard_time": 1677766832,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254391,
+      "num": 254391,
+      "word": "送手机被打车主家属称双方已和解",
+      "onboard_time": 1677918086,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254347,
@@ -5099,14 +5139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 206606,
-      "num": 206606,
-      "word": "张本智和3比1安宰贤",
-      "onboard_time": 1677918266,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206197,
       "num": 245742,
       "word": "勇士五连胜",
@@ -5851,14 +5883,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 184723,
-      "num": 184723,
-      "word": "送手机被打车主家属称双方已和解",
-      "onboard_time": 1677918086,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184277,
       "num": 184277,
       "word": "WBG战胜LGD",
@@ -6457,6 +6481,14 @@
       "onboard_time": 1677888507,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 150420,
+      "num": 150420,
+      "word": "WBG战胜AL",
+      "onboard_time": 1677920067,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 149652,
@@ -7123,6 +7155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118776,
+      "num": 118776,
+      "word": "保你平安",
+      "onboard_time": 1677919405,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117431,
       "num": 117431,
       "word": "澜星元皮肤",
@@ -7219,6 +7259,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 113663,
+      "num": 113663,
+      "word": "网络名人赞两会",
+      "onboard_time": 1677920365,
+      "rank": 40,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 113291,
       "num": 113291,
       "word": "建议春节放假9天",
@@ -7281,6 +7329,14 @@
       "onboard_time": 1677915145,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110362,
+      "num": 110362,
+      "word": "杭州无人机表演将万朵鲜花送雷锋",
+      "onboard_time": 1677921087,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109490,
@@ -7523,14 +7579,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 87185,
-      "num": 87185,
-      "word": "特斯拉疑失控连撞多车冲毁店门",
-      "onboard_time": 1677918866,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86919,
       "num": 86919,
       "word": "刘浩帆头球破门",
@@ -7705,6 +7753,14 @@
       "onboard_time": 1677654628,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 67887,
+      "num": 256717,
+      "word": "为啥都在抢小白瓶",
+      "onboard_time": 1677916104,
+      "rank": 14,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 67313,
