@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677900024159,
+  "endTime": 1677900885182,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1304155,
-      "num": 293811,
+      "num": 294617,
       "word": "大学每月生活费2000是什么水平",
       "onboard_time": 1677849145,
       "rank": 20,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 1014153,
-      "num": 704631,
+      "num": 952780,
       "word": "BLACKPINK澳门演唱会",
       "onboard_time": 1677897146,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1001234,
+      "num": 1001234,
+      "word": "拜登接受皮肤癌手术",
+      "onboard_time": 1677898286,
+      "rank": 31,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 964212,
@@ -65,14 +73,6 @@
       "onboard_time": 1677892225,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 903894,
-      "num": 362700,
-      "word": "拜登接受皮肤癌手术",
-      "onboard_time": 1677898286,
-      "rank": 31,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 903550,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 820008,
+      "num": 387634,
+      "word": "周也悼念刘峰",
+      "onboard_time": 1677899068,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 799519,
       "num": 799519,
       "word": "二刷狂飙才注意到李健这个设计",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 745594,
-      "num": 296838,
+      "num": 300536,
       "word": "王昱珩谈杨笠普信男言论",
       "onboard_time": 1677887424,
       "rank": 20,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 714756,
-      "num": 593931,
+      "num": 684555,
       "word": "于正否认嫡嫁千金阵容",
       "onboard_time": 1677897447,
       "rank": 16,
@@ -145,14 +153,6 @@
       "onboard_time": 1677857188,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 591724,
-      "num": 180744,
-      "word": "周也悼念刘峰",
-      "onboard_time": 1677899068,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 590121,
@@ -187,8 +187,8 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 545238,
-      "num": 297156,
+      "raw_hot": 553255,
+      "num": 302531,
       "word": "小S二女儿跳lovedive视频",
       "onboard_time": 1677896306,
       "rank": 20,
@@ -251,6 +251,22 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 387976,
+      "num": 387976,
+      "word": "宋亚轩新歌评论破两百万",
+      "onboard_time": 1677899307,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 387041,
+      "num": 387041,
+      "word": "王鹤棣摘眼镜吻戏",
+      "onboard_time": 1677899125,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 386753,
       "num": 386753,
       "word": "梅西入选阿根廷国家队名单",
@@ -259,12 +275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 367762,
-      "num": 367762,
-      "word": "宋亚轩新歌评论破两百万",
-      "onboard_time": 1677899307,
-      "rank": 9,
-      "category": "音乐"
+      "raw_hot": 369567,
+      "num": 369567,
+      "word": "被夺笋的花花",
+      "onboard_time": 1677898647,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357634,
@@ -307,28 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343281,
-      "num": 343281,
-      "word": "王鹤棣摘眼镜吻戏",
-      "onboard_time": 1677899125,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 325282,
       "num": 325282,
       "word": "韩式英语又在害人",
       "onboard_time": 1677851610,
       "rank": 7,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 323002,
-      "num": 323002,
-      "word": "被夺笋的花花",
-      "onboard_time": 1677898647,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317401,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 259727,
-      "num": 774068,
+      "num": 970051,
       "word": "全国两会",
       "onboard_time": 1677851068,
       "rank": 2,
@@ -467,11 +467,43 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 220193,
+      "num": 220193,
+      "word": "姚晨还原赌神名场面",
+      "onboard_time": 1677899068,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218861,
       "num": 218861,
       "word": "工作空窗期怎么缴纳社保",
       "onboard_time": 1677859405,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217977,
+      "num": 217977,
+      "word": "陈星旭光剑变装3.0",
+      "onboard_time": 1677899965,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212886,
+      "num": 212886,
+      "word": "大熊猫走姿似狂飙高启盛",
+      "onboard_time": 1677899307,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 204262,
+      "num": 204262,
+      "word": "女生下班发现狗狗拆家收拾到凌晨",
+      "onboard_time": 1677899965,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -483,36 +515,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197091,
-      "num": 197091,
-      "word": "姚晨还原赌神名场面",
-      "onboard_time": 1677899068,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197044,
       "num": 197044,
       "word": "古人戴5斤重的帽子是什么体验",
       "onboard_time": 1677886520,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194444,
-      "num": 194444,
-      "word": "大熊猫走姿似狂飙高启盛",
-      "onboard_time": 1677899307,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 194006,
-      "num": 194006,
-      "word": "陈星旭光剑变装3.0",
-      "onboard_time": 1677899965,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 192960,
@@ -587,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151105,
+      "num": 151105,
+      "word": "国家老年大学正式揭牌",
+      "onboard_time": 1677897146,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 150838,
       "num": 150838,
       "word": "极端通勤是压垮你的最后一根稻草吗",
@@ -625,6 +641,14 @@
       "onboard_time": 1677891207,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143460,
+      "num": 143460,
+      "word": "王雨城淘汰",
+      "onboard_time": 1677896247,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 142800,
@@ -675,27 +699,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134131,
-      "num": 134131,
-      "word": "国家老年大学正式揭牌",
-      "onboard_time": 1677897146,
-      "rank": 36,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 131460,
       "num": 131460,
       "word": "最强大脑",
       "onboard_time": 1677852507,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 129019,
-      "num": 129019,
-      "word": "王雨城淘汰",
-      "onboard_time": 1677896247,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -811,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87633,
+      "num": 87633,
+      "word": "玄武湖春色满园意境拉满",
+      "onboard_time": 1677899847,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 87288,
       "num": 87288,
       "word": "玫瑰的故事",
@@ -827,12 +843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81527,
-      "num": 81527,
-      "word": "玄武湖春色满园意境拉满",
-      "onboard_time": 1677899847,
-      "rank": 48,
-      "category": "旅游,社会新闻"
+      "raw_hot": 80040,
+      "num": 80040,
+      "word": "篮网vs凯尔特人",
+      "onboard_time": 1677900746,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 78793,
@@ -857,14 +873,6 @@
       "onboard_time": 1677838407,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 77181,
-      "num": 77181,
-      "word": "女生下班发现狗狗拆家收拾到凌晨",
-      "onboard_time": 1677899965,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76206,
@@ -1004,6 +1012,9 @@
     },
     {
       "word": "#总书记心头最大的牵挂#"
+    },
+    {
+      "word": "#两会#"
     }
   ]
 }
