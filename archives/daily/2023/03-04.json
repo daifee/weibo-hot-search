@@ -1,14 +1,22 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677895167194,
+  "endTime": 1677898003377,
   "band_list": [
     {
       "raw_hot": 2650216,
-      "num": 270224,
+      "num": 523015,
       "word": "25岁男演员刘峰去世",
       "onboard_time": 1677885859,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1730907,
+      "num": 295615,
+      "word": "蔚来",
+      "onboard_time": 1677895525,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 1432024,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1304155,
-      "num": 245183,
+      "num": 276781,
       "word": "大学每月生活费2000是什么水平",
       "onboard_time": 1677849145,
       "rank": 20,
@@ -28,15 +36,15 @@
     },
     {
       "raw_hot": 1242678,
-      "num": 265011,
+      "num": 495092,
       "word": "黄婉秋逝世",
       "onboard_time": 1677887061,
       "rank": 9,
       "category": "艺人"
     },
     {
-      "raw_hot": 1185620,
-      "num": 1185620,
+      "raw_hot": 1207903,
+      "num": 1207903,
       "word": "在美华人称见到丫丫感觉非常震撼",
       "onboard_time": 1677890367,
       "rank": 0,
@@ -52,11 +60,19 @@
     },
     {
       "raw_hot": 859728,
-      "num": 260688,
+      "num": 484561,
       "word": "你发癫 人家问地你答天",
       "onboard_time": 1677891448,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 832101,
+      "num": 832101,
+      "word": "韩国熊猫爷爷用中文介绍福宝一家",
+      "onboard_time": 1677892945,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 799519,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 745594,
-      "num": 249974,
+      "num": 281855,
       "word": "王昱珩谈杨笠普信男言论",
       "onboard_time": 1677887424,
       "rank": 20,
@@ -76,19 +92,19 @@
     },
     {
       "raw_hot": 733688,
-      "num": 259485,
+      "num": 602168,
       "word": "父亲请求留下病故爱子身份证",
       "onboard_time": 1677892467,
       "rank": 12,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 713749,
-      "num": 713749,
-      "word": "韩国熊猫爷爷用中文介绍福宝一家",
-      "onboard_time": 1677892945,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 704631,
+      "num": 704631,
+      "word": "BLACKPINK澳门演唱会",
+      "onboard_time": 1677897146,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 614286,
@@ -131,12 +147,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542069,
+      "num": 542069,
+      "word": "鹿晗强行请王勉吃糖葫芦",
+      "onboard_time": 1677895407,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524845,
       "num": 524845,
       "word": "美称迫于德国压力向乌提供坦克",
       "onboard_time": 1677860303,
       "rank": 43,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 523209,
+      "num": 523209,
+      "word": "苹果经典静音按钮或被按压式按钮取代",
+      "onboard_time": 1677895106,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 523082,
+      "num": 523082,
+      "word": "蔚来称零容忍员工违法犯罪行为",
+      "onboard_time": 1677896069,
+      "rank": 9,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 516350,
+      "num": 286821,
+      "word": "小S二女儿跳lovedive视频",
+      "onboard_time": 1677896306,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 487153,
@@ -155,20 +203,36 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 429343,
+      "num": 429343,
+      "word": "建议试行十二年义务教育",
+      "onboard_time": 1677891747,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412063,
+      "num": 412063,
+      "word": "双鱼座藏起来的一面",
+      "onboard_time": 1677893787,
+      "rank": 46,
+      "category": "情感,网红"
+    },
+    {
+      "raw_hot": 387071,
+      "num": 387071,
+      "word": "于正否认嫡嫁千金阵容",
+      "onboard_time": 1677897447,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 386753,
       "num": 386753,
       "word": "梅西入选阿根廷国家队名单",
       "onboard_time": 1677855930,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 382386,
-      "num": 255912,
-      "word": "双鱼座藏起来的一面",
-      "onboard_time": 1677893787,
-      "rank": 46,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 357634,
@@ -228,7 +292,7 @@
     },
     {
       "raw_hot": 306749,
-      "num": 252808,
+      "num": 262954,
       "word": "进击的巨人",
       "onboard_time": 1677885618,
       "rank": 24,
@@ -243,12 +307,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 296572,
-      "num": 296572,
-      "word": "建议试行十二年义务教育",
-      "onboard_time": 1677891747,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 295650,
+      "num": 295650,
+      "word": "田曦薇卷发",
+      "onboard_time": 1677897986,
+      "rank": 17,
+      "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 295072,
+      "num": 295072,
+      "word": "流浪猫回家两个月眼神变化",
+      "onboard_time": 1677896186,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 293463,
@@ -275,20 +347,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264705,
+      "num": 264705,
+      "word": "Brainy is the new sexy",
+      "onboard_time": 1677894504,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 259727,
+      "num": 774068,
+      "word": "全国两会",
+      "onboard_time": 1677851068,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 258284,
       "num": 258284,
       "word": "星落凝成糖",
       "onboard_time": 1677885498,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 256863,
-      "num": 774068,
-      "word": "全国两会",
-      "onboard_time": 1677851068,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 255556,
@@ -355,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 202861,
-      "num": 150225,
-      "word": "Brainy is the new sexy",
-      "onboard_time": 1677894504,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 201420,
+      "num": 201420,
+      "word": "电影回廊亭口碑",
+      "onboard_time": 1677896487,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 197044,
@@ -531,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129019,
+      "num": 129019,
+      "word": "王雨城淘汰",
+      "onboard_time": 1677896247,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126257,
       "num": 126257,
       "word": "这羊长得好像素描出来的",
@@ -569,6 +657,14 @@
       "onboard_time": 1677853770,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114196,
+      "num": 114196,
+      "word": "国家老年大学正式揭牌",
+      "onboard_time": 1677897146,
+      "rank": 36,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 113002,
@@ -683,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75512,
-      "num": 75512,
-      "word": "苹果经典静音按钮或被按压式按钮取代",
-      "onboard_time": 1677895106,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 72428,
       "num": 72428,
       "word": "如果有百万年薪你会选择辞职创业吗",
@@ -745,6 +833,14 @@
       "onboard_time": 1677846025,
       "rank": 37,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 46642,
+      "num": 110220,
+      "word": "阿里年度有爱榜单出炉",
+      "onboard_time": 1677895226,
+      "rank": 39,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 45994,
