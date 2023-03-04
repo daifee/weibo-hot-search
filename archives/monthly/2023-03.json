@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677925152844,
+  "endTime": 1677926112982,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -83,6 +83,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2493235,
+      "num": 2493235,
+      "word": "建议停止向未成年提供网络游戏服务",
+      "onboard_time": 1677921806,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2488875,
       "num": 267259,
       "word": "浪姐4最终阵容",
@@ -113,14 +121,6 @@
       "onboard_time": 1677744267,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2309499,
-      "num": 2309499,
-      "word": "建议停止向未成年提供网络游戏服务",
-      "onboard_time": 1677921806,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 2153485,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 1206348,
-      "num": 446305,
+      "num": 542285,
       "word": "男子回应大学4年赚100多万",
       "onboard_time": 1677920784,
       "rank": 18,
@@ -593,6 +593,14 @@
       "onboard_time": 1677750271,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1144744,
+      "num": 266790,
+      "word": "张婧仪陈哲远 白色橄榄树",
+      "onboard_time": 1677922586,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1139475,
@@ -905,14 +913,6 @@
       "onboard_time": 1677771752,
       "rank": 10,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 957161,
-      "num": 266790,
-      "word": "张婧仪陈哲远 白色橄榄树",
-      "onboard_time": 1677922586,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 951361,
@@ -1899,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 573970,
+      "num": 573970,
+      "word": "15岁女生被西交大少年班录取",
+      "onboard_time": 1677924507,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 573899,
       "num": 322825,
       "word": "家属曝73岁父亲被养老院护工打爆眼球",
@@ -2409,6 +2417,14 @@
       "onboard_time": 1677769593,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 485073,
+      "num": 485073,
+      "word": "RNG中单",
+      "onboard_time": 1677924683,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 484149,
@@ -3571,14 +3587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325105,
-      "num": 264374,
-      "word": "RNG中单",
-      "onboard_time": 1677924683,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 324750,
       "num": 324750,
       "word": "惠普笔记本维修后发现掌托是木头的",
@@ -4044,7 +4052,7 @@
     },
     {
       "raw_hot": 281898,
-      "num": 264134,
+      "num": 272030,
       "word": "南极洲深海拍到罕见冥河水母",
       "onboard_time": 1677921926,
       "rank": 36,
@@ -4481,6 +4489,14 @@
       "onboard_time": 1677889107,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 248591,
+      "num": 248591,
+      "word": "狼队新人",
+      "onboard_time": 1677925526,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 247509,
@@ -5105,6 +5121,14 @@
       "onboard_time": 1677748233,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212518,
+      "num": 212518,
+      "word": "建议职业女性线上办公",
+      "onboard_time": 1677925765,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211760,
@@ -6059,14 +6083,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 178585,
-      "num": 178585,
-      "word": "15岁女生被西交大少年班录取",
-      "onboard_time": 1677924507,
-      "rank": 32,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 177756,
       "num": 165945,
       "word": "邢菲说第一次演现实题材作品",
@@ -6345,6 +6361,14 @@
       "onboard_time": 1677824904,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164794,
+      "num": 164794,
+      "word": "人大代表带着螺蛳粉参加两会",
+      "onboard_time": 1677925467,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164325,
@@ -6673,6 +6697,14 @@
       "onboard_time": 1677749430,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145636,
+      "num": 145636,
+      "word": "狼队对战KSG",
+      "onboard_time": 1677924806,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 145550,
@@ -7073,14 +7105,6 @@
       "onboard_time": 1677595293,
       "rank": 39,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 129730,
-      "num": 129730,
-      "word": "狼队对战KSG",
-      "onboard_time": 1677924806,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 129689,
@@ -8155,6 +8179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22436,
+      "num": 135959,
+      "word": "新欢功能成社交新潮流",
+      "onboard_time": 1677924029,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 20843,
       "num": 450074,
       "word": "买辆轻越野换种活法",
@@ -8169,14 +8201,6 @@
       "onboard_time": 1677700632,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 15882,
-      "num": 133506,
-      "word": "新欢功能成社交新潮流",
-      "onboard_time": 1677924029,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 12119,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677925152844,
+  "endTime": 1677926112982,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2493235,
+      "num": 2493235,
+      "word": "建议停止向未成年提供网络游戏服务",
+      "onboard_time": 1677921806,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2488875,
       "num": 267259,
       "word": "浪姐4最终阵容",
       "onboard_time": 1677919706,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2309499,
-      "num": 2309499,
-      "word": "建议停止向未成年提供网络游戏服务",
-      "onboard_time": 1677921806,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1973327,
@@ -92,11 +92,19 @@
     },
     {
       "raw_hot": 1206348,
-      "num": 446305,
+      "num": 542285,
       "word": "男子回应大学4年赚100多万",
       "onboard_time": 1677920784,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1144744,
+      "num": 266790,
+      "word": "张婧仪陈哲远 白色橄榄树",
+      "onboard_time": 1677922586,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1134239,
@@ -177,14 +185,6 @@
       "onboard_time": 1677892225,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 957161,
-      "num": 266790,
-      "word": "张婧仪陈哲远 白色橄榄树",
-      "onboard_time": 1677922586,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 904100,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 573970,
+      "num": 573970,
+      "word": "15岁女生被西交大少年班录取",
+      "onboard_time": 1677924507,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 561438,
       "num": 561438,
       "word": "鹿晗强行请王勉吃糖葫芦",
@@ -449,6 +457,14 @@
       "onboard_time": 1677855389,
       "rank": 3,
       "category": "情感,财经"
+    },
+    {
+      "raw_hot": 485073,
+      "num": 485073,
+      "word": "RNG中单",
+      "onboard_time": 1677924683,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 458551,
@@ -643,14 +659,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 325105,
-      "num": 264374,
-      "word": "RNG中单",
-      "onboard_time": 1677924683,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 323434,
       "num": 323434,
       "word": "长宁3.0级地震",
@@ -756,7 +764,7 @@
     },
     {
       "raw_hot": 281898,
-      "num": 264134,
+      "num": 272030,
       "word": "南极洲深海拍到罕见冥河水母",
       "onboard_time": 1677921926,
       "rank": 36,
@@ -857,6 +865,14 @@
       "onboard_time": 1677889107,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 248591,
+      "num": 248591,
+      "word": "狼队新人",
+      "onboard_time": 1677925526,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 244679,
@@ -1011,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212518,
+      "num": 212518,
+      "word": "建议职业女性线上办公",
+      "onboard_time": 1677925765,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211760,
       "num": 211760,
       "word": "奔跑吧",
@@ -1147,14 +1171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178585,
-      "num": 178585,
-      "word": "15岁女生被西交大少年班录取",
-      "onboard_time": 1677924507,
-      "rank": 32,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 177302,
       "num": 177302,
       "word": "蒋敦豪人总不能一直倒霉吧",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1677887303,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164794,
+      "num": 164794,
+      "word": "人大代表带着螺蛳粉参加两会",
+      "onboard_time": 1677925467,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164497,
@@ -1347,6 +1371,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 145636,
+      "num": 145636,
+      "word": "狼队对战KSG",
+      "onboard_time": 1677924806,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145550,
       "num": 145550,
       "word": "车主礼让小学生遇上大哥范儿",
@@ -1449,14 +1481,6 @@
       "onboard_time": 1677913465,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129730,
-      "num": 129730,
-      "word": "狼队对战KSG",
-      "onboard_time": 1677924806,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 129689,
@@ -1843,20 +1867,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 22436,
+      "num": 135959,
+      "word": "新欢功能成社交新潮流",
+      "onboard_time": 1677924029,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 21867,
       "num": 27312,
       "word": "我们的客栈",
       "onboard_time": 1677854009,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15882,
-      "num": 133506,
-      "word": "新欢功能成社交新潮流",
-      "onboard_time": 1677924029,
-      "rank": 39,
-      "category": "科技,社会新闻"
     }
   ],
   "hotgov_list": [
