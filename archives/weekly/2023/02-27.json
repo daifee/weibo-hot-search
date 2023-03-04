@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677929612256,
+  "endTime": 1677933256555,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -393,6 +393,14 @@
       "onboard_time": 1677586290,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1757959,
+      "num": 229729,
+      "word": "难哄",
+      "onboard_time": 1677931289,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1750021,
@@ -1075,6 +1083,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1151341,
+      "num": 229413,
+      "word": "徐明浩直播喝茅台",
+      "onboard_time": 1677930687,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1150041,
       "num": 858402,
       "word": "公司招聘会计要求必须是A型血",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1677581551,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 984677,
+      "num": 229320,
+      "word": "小水会来吗",
+      "onboard_time": 1677930387,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 984119,
@@ -2339,6 +2363,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 724584,
+      "num": 724584,
+      "word": "人大代表谈中传硕士在火锅店当保洁",
+      "onboard_time": 1677929305,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 721227,
       "num": 721227,
       "word": "深圳一业主拆迁9栋楼",
@@ -2468,7 +2500,7 @@
     },
     {
       "raw_hot": 689902,
-      "num": 212384,
+      "num": 229047,
       "word": "白敬亭宋轶长风渡下证",
       "onboard_time": 1677928767,
       "rank": 14,
@@ -2899,6 +2931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603389,
+      "num": 603389,
+      "word": "代表建议提前高考让学生好好过端午",
+      "onboard_time": 1677926849,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603189,
       "num": 603189,
       "word": "苹果内部有一支神秘研发团队",
@@ -3016,14 +3056,6 @@
       "word": "丫丫",
       "onboard_time": 1677494430,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 577847,
-      "num": 577847,
-      "word": "代表建议提前高考让学生好好过端午",
-      "onboard_time": 1677926849,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -4731,6 +4763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 401416,
+      "num": 228741,
+      "word": "EDG 清算",
+      "onboard_time": 1677930867,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 401275,
       "num": 401275,
       "word": "发布者回应拍视频不去救小女孩",
@@ -5547,6 +5587,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 342173,
+      "num": 342173,
+      "word": "感动中国年度人物颁奖",
+      "onboard_time": 1677930625,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341295,
       "num": 341295,
       "word": "金智秀朴彩英巴黎同框路透",
@@ -5809,6 +5857,14 @@
       "onboard_time": 1677551546,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325464,
+      "num": 325464,
+      "word": "林诗栋 牛的哇",
+      "onboard_time": 1677929905,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 324750,
@@ -6233,6 +6289,14 @@
       "onboard_time": 1677683008,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300247,
+      "num": 227951,
+      "word": "郑秀妍黄色拖地长裙",
+      "onboard_time": 1677931946,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 300209,
@@ -7219,6 +7283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242709,
+      "num": 227906,
+      "word": "听说你喜欢我大结局",
+      "onboard_time": 1677929125,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241892,
       "num": 241892,
       "word": "这玩偶一天能走两万步",
@@ -7321,6 +7393,14 @@
       "onboard_time": 1677668068,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236481,
+      "num": 236481,
+      "word": "EDG对战LNG",
+      "onboard_time": 1677928107,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 236372,
@@ -7523,6 +7603,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 226385,
+      "num": 226385,
+      "word": "我减肥失败的原因找到了",
+      "onboard_time": 1677932486,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226364,
       "num": 226364,
       "word": "薛凯琪巴黎塞纳河畔大片",
@@ -7667,6 +7755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223154,
+      "num": 223154,
+      "word": "喻言榆野绿纱裙",
+      "onboard_time": 1677932486,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223030,
       "num": 223030,
       "word": "吴磊赵今麦海边拍摄路透",
@@ -7729,6 +7825,14 @@
       "onboard_time": 1677542908,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220008,
+      "num": 220008,
+      "word": "檀健次背田曦薇",
+      "onboard_time": 1677932665,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 219912,
@@ -8017,14 +8121,6 @@
       "onboard_time": 1677834809,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210207,
-      "num": 210207,
-      "word": "EDG对战LNG",
-      "onboard_time": 1677928107,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 209871,
@@ -9875,14 +9971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162485,
-      "num": 162485,
-      "word": "听说你喜欢我大结局",
-      "onboard_time": 1677929125,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 162407,
       "num": 162407,
       "word": "小福贵看了都得叫你声姐",
@@ -10139,6 +10227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155064,
+      "num": 155064,
+      "word": "陈伟霆讲最遗憾的事",
+      "onboard_time": 1677932605,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154413,
       "num": 136973,
       "word": "向佐瘦了好多",
@@ -10225,14 +10321,6 @@
       "onboard_time": 1677897146,
       "rank": 36,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 151033,
-      "num": 151033,
-      "word": "人大代表谈中传硕士在火锅店当保洁",
-      "onboard_time": 1677929305,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150838,
@@ -10747,6 +10835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134932,
+      "num": 134932,
+      "word": "KPL",
+      "onboard_time": 1677927986,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134899,
       "num": 134899,
       "word": "什么味的奶茶最难喝",
@@ -10785,6 +10881,14 @@
       "onboard_time": 1677804871,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134222,
+      "num": 134222,
+      "word": "KSG的BP",
+      "onboard_time": 1677931705,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 134181,
@@ -11059,14 +11163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124476,
-      "num": 124476,
-      "word": "KPL",
-      "onboard_time": 1677927986,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 124313,
       "num": 124313,
       "word": "杭州无人机表演将万朵鲜花送雷锋",
@@ -11203,6 +11299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 119658,
+      "num": 119658,
+      "word": "玄商求母后催婚",
+      "onboard_time": 1677926367,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119293,
       "num": 119293,
       "word": "郭帆剧透流浪地球3会有地方小吃呈现",
@@ -11273,14 +11377,6 @@
       "onboard_time": 1677737546,
       "rank": 42,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 116396,
-      "num": 116396,
-      "word": "玄商求母后催婚",
-      "onboard_time": 1677926367,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 116206,
@@ -11417,6 +11513,14 @@
       "onboard_time": 1677726447,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111876,
+      "num": 111876,
+      "word": "2023年春季流感中医药防治方案",
+      "onboard_time": 1677932605,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111843,
@@ -11811,6 +11915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94149,
+      "num": 94149,
+      "word": "WTT",
+      "onboard_time": 1677930925,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93998,
       "num": 93998,
       "word": "甘孜文旅局长回应博主退订酒店被骂",
@@ -11987,6 +12099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83904,
+      "num": 83904,
+      "word": "忏悔辅助器",
+      "onboard_time": 1677931887,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83285,
       "num": 83285,
       "word": "所有大熊猫在法律上都属于中国",
@@ -12017,6 +12137,14 @@
       "onboard_time": 1677545130,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81535,
+      "num": 81535,
+      "word": "广厦男篮vs广东男篮",
+      "onboard_time": 1677933206,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 80398,
@@ -12345,6 +12473,14 @@
       "onboard_time": 1677886340,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36377,
+      "num": 567686,
+      "word": "全国政协开幕会全场高唱国歌",
+      "onboard_time": 1677916047,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 36291,
