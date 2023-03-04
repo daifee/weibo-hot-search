@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677939375714,
+  "endTime": 1677940412876,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -32,6 +32,14 @@
       "word": "日本突然声称多出7000余小岛",
       "onboard_time": 1677901526,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1864442,
+      "num": 308781,
+      "word": "资助8年的女生做家庭主妇",
+      "onboard_time": 1677937647,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -89,14 +97,6 @@
       "onboard_time": 1677849145,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1273034,
-      "num": 308781,
-      "word": "资助8年的女生做家庭主妇",
-      "onboard_time": 1677937647,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1242678,
@@ -299,20 +299,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 819558,
+      "num": 307616,
+      "word": "艾薇儿",
+      "onboard_time": 1677934287,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 806658,
       "num": 806658,
       "word": "建议每辆车每年可享受固定天数高速免费",
       "onboard_time": 1677912986,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 801344,
-      "num": 307616,
-      "word": "艾薇儿",
-      "onboard_time": 1677934287,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 799519,
@@ -459,6 +459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 619495,
+      "num": 303109,
+      "word": "张凌赫白鹿宁安如梦团综",
+      "onboard_time": 1677939087,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 614286,
       "num": 256195,
       "word": "苏醒苏有朋王心凌合照",
@@ -569,6 +577,14 @@
       "onboard_time": 1677924683,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 537736,
+      "num": 472606,
+      "word": "一眼就能看出来不用上班的人",
+      "onboard_time": 1677938367,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 529201,
@@ -899,6 +915,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 323446,
+      "num": 251181,
+      "word": "BLACKPINK演唱会预告新项目",
+      "onboard_time": 1677939629,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 323434,
       "num": 323434,
       "word": "长宁3.0级地震",
@@ -969,14 +993,6 @@
       "onboard_time": 1677885618,
       "rank": 24,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 303109,
-      "num": 303109,
-      "word": "张凌赫白鹿宁安如梦团综",
-      "onboard_time": 1677939087,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 298971,
@@ -1059,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275151,
+      "num": 250997,
+      "word": "肖战米兰时装周社交直拍",
+      "onboard_time": 1677940049,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 272448,
       "num": 272448,
       "word": "田柾国唱咒文视频",
@@ -1139,20 +1163,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253691,
+      "num": 250501,
+      "word": "水母头",
+      "onboard_time": 1677939747,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 250389,
+      "num": 250389,
+      "word": "朴志晟今日演唱会饭拍",
+      "onboard_time": 1677939868,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 250124,
+      "num": 250124,
+      "word": "流浪地球",
+      "onboard_time": 1677938909,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250051,
       "num": 250051,
       "word": "林俊杰vlog辟谣网传内地巡演",
       "onboard_time": 1677889107,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 249775,
-      "num": 249775,
-      "word": "一眼就能看出来不用上班的人",
-      "onboard_time": 1677938367,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 244679,
@@ -1283,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223913,
+      "num": 223913,
+      "word": "李斯丹妮在澳门教葡萄牙大厨说中文",
+      "onboard_time": 1677940349,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223154,
       "num": 223154,
       "word": "喻言榆野绿纱裙",
@@ -1363,14 +1411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209011,
-      "num": 209011,
-      "word": "流浪地球",
-      "onboard_time": 1677938909,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208847,
       "num": 208847,
       "word": "安香怡世青赛总分183.94",
@@ -1401,6 +1441,14 @@
       "onboard_time": 1677910106,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205684,
+      "num": 205684,
+      "word": "DRG 对S组过敏",
+      "onboard_time": 1677939629,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 205174,
@@ -1755,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147972,
+      "num": 147972,
+      "word": "曼城vs纽卡斯尔联",
+      "onboard_time": 1677936986,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145906,
       "num": 145906,
       "word": "两女生默默守护倒地环卫工直至获救",
@@ -1961,14 +2017,6 @@
       "onboard_time": 1677926367,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119434,
-      "num": 119434,
-      "word": "曼城vs纽卡斯尔联",
-      "onboard_time": 1677936986,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 118776,
@@ -2291,6 +2339,14 @@
       "category": "音乐,影视"
     },
     {
+      "raw_hot": 52850,
+      "num": 492401,
+      "word": "一组图速览两会知识",
+      "onboard_time": 1677938549,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 51749,
       "num": 51749,
       "word": "巨人完结篇开播",
@@ -2331,19 +2387,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41079,
-      "num": 492401,
-      "word": "一组图速览两会知识",
-      "onboard_time": 1677938549,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 40006,
       "num": 40006,
       "word": "建议高考外语降到100分",
       "onboard_time": 1677886340,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36989,
+      "num": 252491,
+      "word": "沈忠芳为国造导弹隐姓埋名60余载",
+      "onboard_time": 1677939509,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

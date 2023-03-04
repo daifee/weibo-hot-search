@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677939375714,
+  "endTime": 1677940412876,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -168,6 +168,14 @@
       "word": "建议严查超前学习行为",
       "onboard_time": 1677671189,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1864442,
+      "num": 308781,
+      "word": "资助8年的女生做家庭主妇",
+      "onboard_time": 1677937647,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -473,14 +481,6 @@
       "onboard_time": 1677722485,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1273034,
-      "num": 308781,
-      "word": "资助8年的女生做家庭主妇",
-      "onboard_time": 1677937647,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1265807,
@@ -1211,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 819558,
+      "num": 307616,
+      "word": "艾薇儿",
+      "onboard_time": 1677934287,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 814755,
       "num": 814755,
       "word": "张大大2月全平台涨粉最多艺人",
@@ -1233,14 +1241,6 @@
       "onboard_time": 1677814766,
       "rank": 8,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 801344,
-      "num": 307616,
-      "word": "艾薇儿",
-      "onboard_time": 1677934287,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 795138,
@@ -1899,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 619495,
+      "num": 303109,
+      "word": "张凌赫白鹿宁安如梦团综",
+      "onboard_time": 1677939087,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 619068,
       "num": 571221,
       "word": "新疆男篮球员何去何从",
@@ -2297,6 +2305,14 @@
       "onboard_time": 1677645393,
       "rank": 41,
       "category": "科技"
+    },
+    {
+      "raw_hot": 537736,
+      "num": 472606,
+      "word": "一眼就能看出来不用上班的人",
+      "onboard_time": 1677938367,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 534485,
@@ -3835,6 +3851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 323446,
+      "num": 251181,
+      "word": "BLACKPINK演唱会预告新项目",
+      "onboard_time": 1677939629,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 323434,
       "num": 323434,
       "word": "长宁3.0级地震",
@@ -4097,14 +4121,6 @@
       "onboard_time": 1677751409,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 303109,
-      "num": 303109,
-      "word": "张凌赫白鹿宁安如梦团综",
-      "onboard_time": 1677939087,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 303031,
@@ -4443,6 +4459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275151,
+      "num": 250997,
+      "word": "肖战米兰时装周社交直拍",
+      "onboard_time": 1677940049,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 274968,
       "num": 274968,
       "word": "Lisa新加坡芭莎封面",
@@ -4699,6 +4723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253691,
+      "num": 250501,
+      "word": "水母头",
+      "onboard_time": 1677939747,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 253471,
       "num": 253471,
       "word": "六十岁上班的我",
@@ -4755,20 +4787,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 250389,
+      "num": 250389,
+      "word": "朴志晟今日演唱会饭拍",
+      "onboard_time": 1677939868,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 250124,
+      "num": 250124,
+      "word": "流浪地球",
+      "onboard_time": 1677938909,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250051,
       "num": 250051,
       "word": "林俊杰vlog辟谣网传内地巡演",
       "onboard_time": 1677889107,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 249775,
-      "num": 249775,
-      "word": "一眼就能看出来不用上班的人",
-      "onboard_time": 1677938367,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 247509,
@@ -5195,6 +5235,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 223913,
+      "num": 223913,
+      "word": "李斯丹妮在澳门教葡萄牙大厨说中文",
+      "onboard_time": 1677940349,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223484,
       "num": 223484,
       "word": "陈楚生苏醒王铮亮合唱海上花",
@@ -5491,14 +5539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209011,
-      "num": 209011,
-      "word": "流浪地球",
-      "onboard_time": 1677938909,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208847,
       "num": 208847,
       "word": "安香怡世青赛总分183.94",
@@ -5593,6 +5633,14 @@
       "onboard_time": 1677820168,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 205684,
+      "num": 205684,
+      "word": "DRG 对S组过敏",
+      "onboard_time": 1677939629,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 205375,
@@ -7043,6 +7091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147972,
+      "num": 147972,
+      "word": "曼城vs纽卡斯尔联",
+      "onboard_time": 1677936986,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147793,
       "num": 147793,
       "word": "山姆回应顾客买到1天后上市的鸡爪",
@@ -7713,14 +7769,6 @@
       "onboard_time": 1677926367,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119434,
-      "num": 119434,
-      "word": "曼城vs纽卡斯尔联",
-      "onboard_time": 1677936986,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 118804,
@@ -8467,6 +8515,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 52850,
+      "num": 492401,
+      "word": "一组图速览两会知识",
+      "onboard_time": 1677938549,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 50654,
       "num": 1323841,
       "word": "奋进的春天",
@@ -8523,14 +8579,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 41079,
-      "num": 492401,
-      "word": "一组图速览两会知识",
-      "onboard_time": 1677938549,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 40006,
       "num": 40006,
       "word": "建议高考外语降到100分",
@@ -8545,6 +8593,14 @@
       "onboard_time": 1677584007,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 36989,
+      "num": 252491,
+      "word": "沈忠芳为国造导弹隐姓埋名60余载",
+      "onboard_time": 1677939509,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36843,
