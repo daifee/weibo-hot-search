@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677893952176,
+  "endTime": 1677895167194,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 2650216,
-      "num": 260090,
+      "num": 270224,
       "word": "25岁男演员刘峰去世",
       "onboard_time": 1677885859,
       "rank": 10,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 1432024,
-      "num": 698374,
+      "num": 765699,
       "word": "黄色iPhone14",
       "onboard_time": 1677888925,
       "rank": 3,
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 1242678,
-      "num": 260710,
+      "num": 265011,
       "word": "黄婉秋逝世",
       "onboard_time": 1677887061,
       "rank": 9,
@@ -952,6 +952,14 @@
       "word": "每天睡4个小时属于睡眠不足",
       "onboard_time": 1677725188,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1185620,
+      "num": 1185620,
+      "word": "在美华人称见到丫丫感觉非常震撼",
+      "onboard_time": 1677890367,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1171,14 +1179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1074337,
-      "num": 1074337,
-      "word": "在美华人称见到丫丫感觉非常震撼",
-      "onboard_time": 1677890367,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1068589,
       "num": 1068589,
       "word": "双休真的可以干好多事",
@@ -1379,6 +1379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 964212,
+      "num": 964212,
+      "word": "梅西拒绝降薪续约",
+      "onboard_time": 1677892225,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 964016,
       "num": 964016,
       "word": "在双亲的遗物中发现自己的领养证",
@@ -1432,14 +1440,6 @@
       "word": "梅西买苹果手机送给队友",
       "onboard_time": 1677724286,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 944291,
-      "num": 944291,
-      "word": "梅西拒绝降薪续约",
-      "onboard_time": 1677892225,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -1608,6 +1608,14 @@
       "word": "高启强为啥总穿戗驳领西装",
       "onboard_time": 1677545190,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 859728,
+      "num": 260688,
+      "word": "你发癫 人家问地你答天",
+      "onboard_time": 1677891448,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -2035,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 733688,
+      "num": 259485,
+      "word": "父亲请求留下病故爱子身份证",
+      "onboard_time": 1677892467,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733042,
       "num": 733042,
       "word": "未来10年间我国将迎最大退休潮",
@@ -2115,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 713749,
+      "num": 713749,
+      "word": "韩国熊猫爷爷用中文介绍福宝一家",
+      "onboard_time": 1677892945,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713496,
       "num": 713496,
       "word": "鹅厂三月大剧片单",
@@ -2160,14 +2184,6 @@
       "word": "嫡谋作者关注杨紫檀健次",
       "onboard_time": 1677507092,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 703082,
-      "num": 259440,
-      "word": "你发癫 人家问地你答天",
-      "onboard_time": 1677891448,
-      "rank": 11,
       "category": "影视"
     },
     {
@@ -2593,14 +2609,6 @@
       "onboard_time": 1677664048,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 606752,
-      "num": 258707,
-      "word": "父亲请求留下病故爱子身份证",
-      "onboard_time": 1677892467,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 604013,
@@ -3041,6 +3049,14 @@
       "onboard_time": 1677568348,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 542290,
+      "num": 542290,
+      "word": "建议发钱鼓励生孩要关注第一孩",
+      "onboard_time": 1677892706,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541898,
@@ -4539,6 +4555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382386,
+      "num": 255912,
+      "word": "双鱼座藏起来的一面",
+      "onboard_time": 1677893787,
+      "rank": 46,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 381757,
       "num": 381757,
       "word": "哪些政策能真正鼓励生育",
@@ -4648,14 +4672,6 @@
       "word": "蒋胜男发声反对加班泛滥",
       "onboard_time": 1677765331,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369512,
-      "num": 257612,
-      "word": "建议发钱鼓励生孩要关注第一孩",
-      "onboard_time": 1677892706,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -5251,14 +5267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 328201,
-      "num": 254436,
-      "word": "韩国熊猫爷爷用中文介绍福宝一家",
-      "onboard_time": 1677892945,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327876,
       "num": 375018,
       "word": "宋雨琦直播跳TOMBOY",
@@ -5707,6 +5715,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 298971,
+      "num": 298971,
+      "word": "体操世界杯刘洋吊环夺冠",
+      "onboard_time": 1677890307,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298470,
       "num": 264405,
       "word": "EDG与LNG赛前海报",
@@ -5721,14 +5737,6 @@
       "onboard_time": 1677626542,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297756,
-      "num": 251319,
-      "word": "体操世界杯刘洋吊环夺冠",
-      "onboard_time": 1677890307,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 297653,
@@ -5769,6 +5777,14 @@
       "onboard_time": 1677461307,
       "rank": 25,
       "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 296572,
+      "num": 296572,
+      "word": "建议试行十二年义务教育",
+      "onboard_time": 1677891747,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296161,
@@ -6025,14 +6041,6 @@
       "onboard_time": 1677555208,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278632,
-      "num": 278632,
-      "word": "建议试行十二年义务教育",
-      "onboard_time": 1677891747,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278404,
@@ -6377,6 +6385,14 @@
       "onboard_time": 1677834688,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 256863,
+      "num": 1044715,
+      "word": "全国两会",
+      "onboard_time": 1677851068,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 255297,
@@ -6889,14 +6905,6 @@
       "onboard_time": 1677752732,
       "rank": 29,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 225238,
-      "num": 1044715,
-      "word": "全国两会",
-      "onboard_time": 1677851068,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 225215,
@@ -7657,6 +7665,14 @@
       "onboard_time": 1677652228,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202861,
+      "num": 150225,
+      "word": "Brainy is the new sexy",
+      "onboard_time": 1677894504,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 202665,
@@ -9195,6 +9211,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 153317,
+      "num": 153317,
+      "word": "奖门人 传海苔",
+      "onboard_time": 1677894025,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153041,
       "num": 153041,
       "word": "小车坠河路人下水扶正车辆救出4人",
@@ -9249,6 +9273,14 @@
       "onboard_time": 1677460648,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150669,
+      "num": 150669,
+      "word": "易梦玲生图",
+      "onboard_time": 1677888507,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 149652,
@@ -9433,6 +9465,14 @@
       "onboard_time": 1677808708,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142800,
+      "num": 142800,
+      "word": "人民日报社论",
+      "onboard_time": 1677891086,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 142565,
@@ -9771,14 +9811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131418,
-      "num": 131418,
-      "word": "易梦玲生图",
-      "onboard_time": 1677888507,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 131342,
       "num": 131342,
       "word": "巨人完结篇开播",
@@ -9873,14 +9905,6 @@
       "onboard_time": 1677544590,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128264,
-      "num": 128264,
-      "word": "人民日报社论",
-      "onboard_time": 1677891086,
-      "rank": 37,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 127825,
@@ -10619,14 +10643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95350,
-      "num": 95350,
-      "word": "双鱼座藏起来的一面",
-      "onboard_time": 1677893787,
-      "rank": 46,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 95252,
       "num": 95252,
       "word": "被一只小狗碰瓷了",
@@ -10905,6 +10921,14 @@
       "onboard_time": 1677418474,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 75512,
+      "num": 75512,
+      "word": "苹果经典静音按钮或被按压式按钮取代",
+      "onboard_time": 1677895106,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 73434,
