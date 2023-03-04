@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677936842467,
+  "endTime": 1677939375714,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2488875,
-      "num": 293554,
+      "num": 308181,
       "word": "浪姐4最终阵容",
       "onboard_time": 1677919706,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1834727,
-      "num": 295531,
+      "num": 309354,
       "word": "难哄",
       "onboard_time": 1677931289,
       "rank": 10,
@@ -91,6 +91,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1273034,
+      "num": 308781,
+      "word": "资助8年的女生做家庭主妇",
+      "onboard_time": 1677937647,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1242678,
       "num": 510476,
       "word": "黄婉秋逝世",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1151341,
-      "num": 288751,
+      "num": 306234,
       "word": "徐明浩直播喝茅台",
       "onboard_time": 1677930687,
       "rank": 12,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 1006115,
-      "num": 291509,
+      "num": 304931,
       "word": "小水会来吗",
       "onboard_time": 1677930387,
       "rank": 13,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 801344,
-      "num": 292588,
+      "num": 307616,
       "word": "艾薇儿",
       "onboard_time": 1677934287,
       "rank": 32,
@@ -329,6 +337,14 @@
       "onboard_time": 1677906447,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 783020,
+      "num": 307314,
+      "word": "浪姐 Aump",
+      "onboard_time": 1677935608,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 780291,
@@ -395,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 696650,
-      "num": 289968,
-      "word": "浪姐 Aump",
-      "onboard_time": 1677935608,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 690731,
       "num": 468261,
       "word": "张新成问有那么多人看光渊吗",
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 686537,
-      "num": 287042,
+      "num": 304517,
       "word": "利路修将与鲁鲁修联动",
       "onboard_time": 1677933386,
       "rank": 17,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 685419,
-      "num": 422360,
+      "num": 482448,
       "word": "Jiejie拥抱Scout",
       "onboard_time": 1677934887,
       "rank": 3,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 577414,
-      "num": 283843,
+      "num": 305893,
       "word": "满江红实时票房破45亿",
       "onboard_time": 1677933927,
       "rank": 21,
@@ -489,6 +497,14 @@
       "onboard_time": 1677861082,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 565946,
+      "num": 565946,
+      "word": "感动中国年度人物颁奖",
+      "onboard_time": 1677930625,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 561438,
@@ -555,6 +571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 529201,
+      "num": 488874,
+      "word": "鹅鸭杀",
+      "onboard_time": 1677938068,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 526670,
       "num": 306357,
       "word": "福宝狗叫",
@@ -603,14 +627,6 @@
       "category": "情感,财经"
     },
     {
-      "raw_hot": 475319,
-      "num": 475319,
-      "word": "感动中国年度人物颁奖",
-      "onboard_time": 1677930625,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 458551,
       "num": 299180,
       "word": "SMTOWN新女团将举办见面会",
@@ -620,11 +636,19 @@
     },
     {
       "raw_hot": 457698,
-      "num": 283063,
+      "num": 291238,
       "word": "我减肥失败的原因找到了",
       "onboard_time": 1677932486,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 447361,
+      "num": 305047,
+      "word": "李一桐版紫霞仙子",
+      "onboard_time": 1677936388,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 446896,
@@ -713,6 +737,14 @@
       "onboard_time": 1677909265,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 383054,
+      "num": 383054,
+      "word": "魏无羡春季赛淘汰突破100",
+      "onboard_time": 1677934587,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 381206,
@@ -811,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342081,
+      "num": 303821,
+      "word": "希林娜依高高定红毯造型",
+      "onboard_time": 1677937947,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 335753,
       "num": 285253,
       "word": "与非门",
@@ -875,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316677,
+      "num": 303209,
+      "word": "郑秀妍黄色拖地长裙",
+      "onboard_time": 1677931946,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 315972,
       "num": 323269,
       "word": "当事人回应和峨眉山猴子练搏击互殴",
@@ -923,20 +971,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 303901,
-      "num": 303901,
-      "word": "魏无羡春季赛淘汰突破100",
-      "onboard_time": 1677934587,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 300247,
-      "num": 279211,
-      "word": "郑秀妍黄色拖地长裙",
-      "onboard_time": 1677931946,
-      "rank": 20,
-      "category": "作品衍生"
+      "raw_hot": 303109,
+      "num": 303109,
+      "word": "张凌赫白鹿宁安如梦团综",
+      "onboard_time": 1677939087,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 298971,
@@ -1011,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279852,
+      "num": 279852,
+      "word": "刘耀文的雕是荣梓杉送的",
+      "onboard_time": 1677938129,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272448,
       "num": 272448,
       "word": "田柾国唱咒文视频",
@@ -1048,14 +1096,6 @@
       "word": "Brainy is the new sexy",
       "onboard_time": 1677894504,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 264209,
-      "num": 264209,
-      "word": "李一桐版紫霞仙子",
-      "onboard_time": 1677936388,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1107,6 +1147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 249775,
+      "num": 249775,
+      "word": "一眼就能看出来不用上班的人",
+      "onboard_time": 1677938367,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244679,
       "num": 244679,
       "word": "你好星期六全员分享最想抓住的机会",
@@ -1124,7 +1172,7 @@
     },
     {
       "raw_hot": 242814,
-      "num": 242814,
+      "num": 309397,
       "word": "Fly第一场没哭",
       "onboard_time": 1677935846,
       "rank": 33,
@@ -1168,6 +1216,14 @@
       "word": "张杰未live巡回演唱会首站官宣",
       "onboard_time": 1677908964,
       "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 233909,
+      "num": 233909,
+      "word": "于文文现场",
+      "onboard_time": 1677936628,
+      "rank": 35,
       "category": "音乐"
     },
     {
@@ -1307,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209011,
+      "num": 209011,
+      "word": "流浪地球",
+      "onboard_time": 1677938909,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208847,
       "num": 208847,
       "word": "安香怡世青赛总分183.94",
@@ -1387,14 +1451,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 197317,
-      "num": 197317,
-      "word": "于文文现场",
-      "onboard_time": 1677936628,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 197071,
       "num": 197071,
       "word": "陈星旭逗李兰迪开心花絮",
@@ -1433,6 +1489,14 @@
       "onboard_time": 1677860963,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192695,
+      "num": 192695,
+      "word": "张钧甯出发巴黎",
+      "onboard_time": 1677936867,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192065,
@@ -1731,6 +1795,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 141780,
+      "num": 141780,
+      "word": "孤勇者徐梦桃感谢狠人爸爸",
+      "onboard_time": 1677937768,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141741,
       "num": 141741,
       "word": "你的三月新欢是什么",
@@ -1889,6 +1961,14 @@
       "onboard_time": 1677926367,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119434,
+      "num": 119434,
+      "word": "曼城vs纽卡斯尔联",
+      "onboard_time": 1677936986,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 118776,
@@ -2249,6 +2329,14 @@
       "onboard_time": 1677863899,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41079,
+      "num": 492401,
+      "word": "一组图速览两会知识",
+      "onboard_time": 1677938549,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 40006,
