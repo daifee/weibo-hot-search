@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677940412876,
+  "endTime": 1677943095455,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2488875,
-      "num": 308181,
+      "num": 418727,
       "word": "浪姐4最终阵容",
       "onboard_time": 1677919706,
       "rank": 10,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1864442,
-      "num": 308781,
+      "raw_hot": 1955551,
+      "num": 332870,
       "word": "资助8年的女生做家庭主妇",
       "onboard_time": 1677937647,
       "rank": 11,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1834727,
-      "num": 309354,
+      "num": 334304,
       "word": "难哄",
       "onboard_time": 1677931289,
       "rank": 10,
@@ -73,6 +73,14 @@
       "onboard_time": 1677895525,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1605648,
+      "num": 334656,
+      "word": "主办方因为周杰伦多唱被罚钱",
+      "onboard_time": 1677941430,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 1566007,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1151341,
-      "num": 306234,
+      "num": 332035,
       "word": "徐明浩直播喝茅台",
       "onboard_time": 1677930687,
       "rank": 12,
@@ -145,6 +153,14 @@
       "onboard_time": 1677905069,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1129366,
+      "num": 320903,
+      "word": "迪丽热巴造型",
+      "onboard_time": 1677942691,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1099312,
@@ -217,6 +233,14 @@
       "onboard_time": 1677898286,
       "rank": 31,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 999102,
+      "num": 999102,
+      "word": "梁靖崑vs张本智和",
+      "onboard_time": 1677940889,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 968702,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 819558,
-      "num": 307616,
+      "num": 332553,
       "word": "艾薇儿",
       "onboard_time": 1677934287,
       "rank": 32,
@@ -387,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 742480,
+      "num": 472606,
+      "word": "一眼就能看出来不用上班的人",
+      "onboard_time": 1677938367,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 733688,
       "num": 602168,
       "word": "父亲请求留下病故爱子身份证",
@@ -443,6 +475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 681220,
+      "num": 333990,
+      "word": "水母头",
+      "onboard_time": 1677939747,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 665619,
       "num": 665619,
       "word": "安香怡",
@@ -460,7 +500,7 @@
     },
     {
       "raw_hot": 619495,
-      "num": 303109,
+      "num": 333317,
       "word": "张凌赫白鹿宁安如梦团综",
       "onboard_time": 1677939087,
       "rank": 23,
@@ -481,6 +521,14 @@
       "onboard_time": 1677926849,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602887,
+      "num": 333682,
+      "word": "BKPP现场",
+      "onboard_time": 1677941308,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 590121,
@@ -505,6 +553,14 @@
       "onboard_time": 1677861082,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 566641,
+      "num": 320599,
+      "word": "肖战米兰时装周社交直拍",
+      "onboard_time": 1677940049,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 565946,
@@ -577,14 +633,6 @@
       "onboard_time": 1677924683,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 537736,
-      "num": 472606,
-      "word": "一眼就能看出来不用上班的人",
-      "onboard_time": 1677938367,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 529201,
@@ -681,6 +729,14 @@
       "onboard_time": 1677859824,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 434203,
+      "num": 332988,
+      "word": "郑秀妍Fly舞台",
+      "onboard_time": 1677941850,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 429343,
@@ -816,6 +872,14 @@
       "word": "大熊猫走姿似狂飙高启盛",
       "onboard_time": 1677899307,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 360815,
+      "num": 360815,
+      "word": "毒舌律师",
+      "onboard_time": 1677940889,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -1075,12 +1139,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275151,
-      "num": 250997,
-      "word": "肖战米兰时装周社交直拍",
-      "onboard_time": 1677940049,
-      "rank": 24,
-      "category": "作品衍生,时尚"
+      "raw_hot": 278455,
+      "num": 278455,
+      "word": "DRG 对S组过敏",
+      "onboard_time": 1677939629,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 273166,
+      "num": 264367,
+      "word": "王心凌现场好稳",
+      "onboard_time": 1677940709,
+      "rank": 26,
+      "category": "综艺,音乐"
     },
     {
       "raw_hot": 272448,
@@ -1097,6 +1169,14 @@
       "onboard_time": 1677934466,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267680,
+      "num": 267680,
+      "word": "到北京动物园为丫丫探营的人好多",
+      "onboard_time": 1677942390,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266590,
@@ -1161,14 +1241,6 @@
       "onboard_time": 1677918086,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253691,
-      "num": 250501,
-      "word": "水母头",
-      "onboard_time": 1677939747,
-      "rank": 27,
-      "category": "时尚"
     },
     {
       "raw_hot": 250389,
@@ -1443,14 +1515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205684,
-      "num": 205684,
-      "word": "DRG 对S组过敏",
-      "onboard_time": 1677939629,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 205174,
       "num": 205174,
       "word": "KSG教练",
@@ -1617,6 +1681,14 @@
       "onboard_time": 1677910224,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177063,
+      "num": 177063,
+      "word": "梁靖崑3比1张本智和",
+      "onboard_time": 1677942990,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 177018,
@@ -2011,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122265,
+      "num": 122265,
+      "word": "切尔西vs利兹联",
+      "onboard_time": 1677942510,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119658,
       "num": 119658,
       "word": "玄商求母后催婚",
@@ -2041,6 +2121,14 @@
       "onboard_time": 1677866536,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116550,
+      "num": 116550,
+      "word": "阿森纳vs伯恩茅斯",
+      "onboard_time": 1677943049,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 116206,
@@ -2339,7 +2427,7 @@
       "category": "音乐,影视"
     },
     {
-      "raw_hot": 52850,
+      "raw_hot": 53086,
       "num": 492401,
       "word": "一组图速览两会知识",
       "onboard_time": 1677938549,
