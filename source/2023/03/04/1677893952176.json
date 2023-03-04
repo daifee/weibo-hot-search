@@ -1,0 +1,410 @@
+{
+  "runTime": 1677893952176,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1074337,
+        "num": 1074337,
+        "word": "在美华人称见到丫丫感觉非常震撼",
+        "onboard_time": 1677890367,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944291,
+        "num": 944291,
+        "word": "梅西拒绝降薪续约",
+        "onboard_time": 1677892225,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220888,
+        "num": 731165,
+        "word": "全国两会",
+        "onboard_time": 1677851068,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1432024,
+        "num": 698374,
+        "word": "黄色iPhone14",
+        "onboard_time": 1677888925,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 590121,
+        "num": 590121,
+        "word": "甲午战争沉舰发现大口径炮弹",
+        "onboard_time": 1677887544,
+        "rank": 4,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 348764,
+        "num": 348764,
+        "word": "建议将春节法定假期由3天延长为5天",
+        "onboard_time": 1677853591,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 307878,
+        "num": 307878,
+        "word": "二刷狂飙才注意到李健这个设计",
+        "onboard_time": 1677852148,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278632,
+        "num": 278632,
+        "word": "建议试行十二年义务教育",
+        "onboard_time": 1677891747,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261490,
+        "num": 261490,
+        "word": "大熊猫和花和叶已被广东一企业认养",
+        "onboard_time": 1677844824,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1242678,
+        "num": 260710,
+        "word": "黄婉秋逝世",
+        "onboard_time": 1677887061,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2650216,
+        "num": 260090,
+        "word": "25岁男演员刘峰去世",
+        "onboard_time": 1677885859,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703082,
+        "num": 259440,
+        "word": "你发癫 人家问地你答天",
+        "onboard_time": 1677891448,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 606752,
+        "num": 258707,
+        "word": "父亲请求留下病故爱子身份证",
+        "onboard_time": 1677892467,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258284,
+        "num": 258284,
+        "word": "星落凝成糖",
+        "onboard_time": 1677885498,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369512,
+        "num": 257612,
+        "word": "建议发钱鼓励生孩要关注第一孩",
+        "onboard_time": 1677892706,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328201,
+        "num": 254436,
+        "word": "韩国熊猫爷爷用中文介绍福宝一家",
+        "onboard_time": 1677892945,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306749,
+        "num": 252808,
+        "word": "进击的巨人",
+        "onboard_time": 1677885618,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 297756,
+        "num": 251319,
+        "word": "体操世界杯刘洋吊环夺冠",
+        "onboard_time": 1677890307,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250498,
+        "num": 250498,
+        "word": "宜古宜今的演员脸",
+        "onboard_time": 1677862639,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250051,
+        "num": 250051,
+        "word": "林俊杰vlog辟谣网传内地巡演",
+        "onboard_time": 1677889107,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 745594,
+        "num": 249974,
+        "word": "王昱珩谈杨笠普信男言论",
+        "onboard_time": 1677887424,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468349,
+        "num": 245183,
+        "word": "大学每月生活费2000是什么水平",
+        "onboard_time": 1677849145,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346505,
+        "num": 241122,
+        "word": "苏醒放哪里合适",
+        "onboard_time": 1677892165,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266590,
+        "num": 235778,
+        "word": "丁程鑫 好6团",
+        "onboard_time": 1677888145,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232608,
+        "num": 232608,
+        "word": "美称迫于德国压力向乌提供坦克",
+        "onboard_time": 1677860303,
+        "rank": 24,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 197044,
+        "num": 197044,
+        "word": "古人戴5斤重的帽子是什么体验",
+        "onboard_time": 1677886520,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183557,
+        "num": 183557,
+        "word": "工作空窗期怎么缴纳社保",
+        "onboard_time": 1677859405,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173914,
+        "num": 173914,
+        "word": "你刚毕业时的月薪是多少",
+        "onboard_time": 1677855389,
+        "rank": 27,
+        "category": "情感,财经"
+      },
+      {
+        "raw_hot": 170604,
+        "num": 170604,
+        "word": "阮流筝的项链是六年前宁至谦买的",
+        "onboard_time": 1677887303,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169802,
+        "num": 169802,
+        "word": "沙溢cos高启强",
+        "onboard_time": 1677853050,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150838,
+        "num": 150838,
+        "word": "极端通勤是压垮你的最后一根稻草吗",
+        "onboard_time": 1677887963,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 148101,
+        "num": 148101,
+        "word": "利雅得胜利3比1巴腾",
+        "onboard_time": 1677891565,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145550,
+        "num": 145550,
+        "word": "车主礼让小学生遇上大哥范儿",
+        "onboard_time": 1677891207,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136763,
+        "num": 136763,
+        "word": "星落凝成糖优酷热度破10000",
+        "onboard_time": 1677887663,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135729,
+        "num": 135729,
+        "word": "使用耳机606060原则保护耳朵",
+        "onboard_time": 1677854368,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132235,
+        "num": 132235,
+        "word": "建议提供免费墓地和骨灰盒",
+        "onboard_time": 1677852328,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 131418,
+        "num": 131418,
+        "word": "易梦玲生图",
+        "onboard_time": 1677888507,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128264,
+        "num": 128264,
+        "word": "人民日报社论",
+        "onboard_time": 1677891086,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 124872,
+        "num": 124872,
+        "word": "法院禁止Kakao买SM新股",
+        "onboard_time": 1677861082,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117431,
+        "num": 117431,
+        "word": "澜星元皮肤",
+        "onboard_time": 1677866536,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116206,
+        "num": 116206,
+        "word": "最强大脑八强名单",
+        "onboard_time": 1677887603,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114596,
+        "num": 114596,
+        "word": "新买iPad花屏天猫超市拒退货",
+        "onboard_time": 1677875951,
+        "rank": 41,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 111331,
+        "num": 111331,
+        "word": "鹿晗谈梅西",
+        "onboard_time": 1677857906,
+        "rank": 42,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 108051,
+        "num": 108051,
+        "word": "治愈系笑容交警小哥哥找到了",
+        "onboard_time": 1677889165,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105390,
+        "num": 105390,
+        "word": "梅西入选阿根廷国家队名单",
+        "onboard_time": 1677855930,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98229,
+        "num": 98229,
+        "word": "小猫独特的打招呼方式",
+        "onboard_time": 1677853770,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95350,
+        "num": 95350,
+        "word": "双鱼座藏起来的一面",
+        "onboard_time": 1677893787,
+        "rank": 46,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 93210,
+        "num": 93210,
+        "word": "当你的同事是个天秤座",
+        "onboard_time": 1677846985,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90061,
+        "num": 90061,
+        "word": "韩式英语又在害人",
+        "onboard_time": 1677851610,
+        "rank": 48,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 77906,
+        "num": 77906,
+        "word": "宋亚轩我们的客栈庆生海报",
+        "onboard_time": 1677888385,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}

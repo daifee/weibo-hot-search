@@ -1,22 +1,54 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677886435718,
+  "endTime": 1677893952176,
   "band_list": [
     {
-      "raw_hot": 2044471,
-      "num": 158645,
+      "raw_hot": 2650216,
+      "num": 260090,
       "word": "25岁男演员刘峰去世",
       "onboard_time": 1677885859,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 1432024,
+      "num": 698374,
+      "word": "黄色iPhone14",
+      "onboard_time": 1677888925,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1304155,
-      "num": 164294,
+      "num": 245183,
       "word": "大学每月生活费2000是什么水平",
       "onboard_time": 1677849145,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1242678,
+      "num": 260710,
+      "word": "黄婉秋逝世",
+      "onboard_time": 1677887061,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1074337,
+      "num": 1074337,
+      "word": "在美华人称见到丫丫感觉非常震撼",
+      "onboard_time": 1677890367,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 944291,
+      "num": 944291,
+      "word": "梅西拒绝降薪续约",
+      "onboard_time": 1677892225,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 799519,
@@ -27,12 +59,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 745594,
+      "num": 249974,
+      "word": "王昱珩谈杨笠普信男言论",
+      "onboard_time": 1677887424,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 703082,
+      "num": 259440,
+      "word": "你发癫 人家问地你答天",
+      "onboard_time": 1677891448,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 614286,
       "num": 256195,
       "word": "苏醒苏有朋王心凌合照",
       "onboard_time": 1677857188,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 606752,
+      "num": 258707,
+      "word": "父亲请求留下病故爱子身份证",
+      "onboard_time": 1677892467,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590121,
+      "num": 590121,
+      "word": "甲午战争沉舰发现大口径炮弹",
+      "onboard_time": 1677887544,
+      "rank": 4,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 575627,
@@ -83,12 +147,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369512,
+      "num": 257612,
+      "word": "建议发钱鼓励生孩要关注第一孩",
+      "onboard_time": 1677892706,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357634,
       "num": 357634,
       "word": "大熊猫和花和叶已被广东一企业认养",
       "onboard_time": 1677844824,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348764,
+      "num": 348764,
+      "word": "建议将春节法定假期由3天延长为5天",
+      "onboard_time": 1677853591,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 346505,
+      "num": 241122,
+      "word": "苏醒放哪里合适",
+      "onboard_time": 1677892165,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 345850,
@@ -99,12 +187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325805,
-      "num": 325805,
-      "word": "建议将春节法定假期由3天延长为5天",
-      "onboard_time": 1677853591,
-      "rank": 9,
-      "category": "国内要闻"
+      "raw_hot": 328201,
+      "num": 254436,
+      "word": "韩国熊猫爷爷用中文介绍福宝一家",
+      "onboard_time": 1677892945,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325282,
@@ -131,6 +219,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306749,
+      "num": 252808,
+      "word": "进击的巨人",
+      "onboard_time": 1677885618,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 297756,
+      "num": 251319,
+      "word": "体操世界杯刘洋吊环夺冠",
+      "onboard_time": 1677890307,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293463,
       "num": 293463,
       "word": "使用耳机606060原则保护耳朵",
@@ -140,11 +244,35 @@
     },
     {
       "raw_hot": 279858,
-      "num": 158331,
+      "num": 250498,
       "word": "宜古宜今的演员脸",
       "onboard_time": 1677862639,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278632,
+      "num": 278632,
+      "word": "建议试行十二年义务教育",
+      "onboard_time": 1677891747,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266590,
+      "num": 235778,
+      "word": "丁程鑫 好6团",
+      "onboard_time": 1677888145,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 258284,
+      "num": 258284,
+      "word": "星落凝成糖",
+      "onboard_time": 1677885498,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 255556,
@@ -153,6 +281,14 @@
       "onboard_time": 1677852328,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 250051,
+      "num": 250051,
+      "word": "林俊杰vlog辟谣网传内地巡演",
+      "onboard_time": 1677889107,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 227414,
@@ -195,12 +331,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 220888,
+      "num": 731165,
+      "word": "全国两会",
+      "onboard_time": 1677851068,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 218861,
       "num": 218861,
       "word": "工作空窗期怎么缴纳社保",
       "onboard_time": 1677859405,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197044,
+      "num": 197044,
+      "word": "古人戴5斤重的帽子是什么体验",
+      "onboard_time": 1677886520,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 192960,
@@ -235,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170604,
+      "num": 170604,
+      "word": "阮流筝的项链是六年前宁至谦买的",
+      "onboard_time": 1677887303,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 164497,
       "num": 164497,
       "word": "EDG与LNG赛前海报",
@@ -251,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150838,
+      "num": 150838,
+      "word": "极端通勤是压垮你的最后一根稻草吗",
+      "onboard_time": 1677887963,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 149709,
       "num": 149709,
       "word": "当你的同事是个天秤座",
@@ -259,12 +427,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143297,
-      "num": 520690,
-      "word": "全国两会",
-      "onboard_time": 1677851068,
-      "rank": 2,
-      "category": "国内要闻"
+      "raw_hot": 148101,
+      "num": 148101,
+      "word": "利雅得胜利3比1巴腾",
+      "onboard_time": 1677891565,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145550,
+      "num": 145550,
+      "word": "车主礼让小学生遇上大哥范儿",
+      "onboard_time": 1677891207,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137924,
@@ -273,6 +449,14 @@
       "onboard_time": 1677847286,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136763,
+      "num": 136763,
+      "word": "星落凝成糖优酷热度破10000",
+      "onboard_time": 1677887663,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 134899,
@@ -307,6 +491,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131418,
+      "num": 131418,
+      "word": "易梦玲生图",
+      "onboard_time": 1677888507,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 128264,
+      "num": 128264,
+      "word": "人民日报社论",
+      "onboard_time": 1677891086,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 126257,
       "num": 126257,
       "word": "这羊长得好像素描出来的",
@@ -323,12 +523,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 116850,
-      "num": 116850,
-      "word": "星落凝成糖",
-      "onboard_time": 1677885498,
-      "rank": 46,
-      "category": "影视"
+      "raw_hot": 117431,
+      "num": 117431,
+      "word": "澜星元皮肤",
+      "onboard_time": 1677866536,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 116206,
+      "num": 116206,
+      "word": "最强大脑八强名单",
+      "onboard_time": 1677887603,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 114317,
@@ -363,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108051,
+      "num": 108051,
+      "word": "治愈系笑容交警小哥哥找到了",
+      "onboard_time": 1677889165,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106068,
       "num": 66802,
       "word": "显高神器短上衣",
@@ -377,6 +593,14 @@
       "onboard_time": 1677836908,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 95350,
+      "num": 95350,
+      "word": "双鱼座藏起来的一面",
+      "onboard_time": 1677893787,
+      "rank": 46,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 91485,
@@ -411,20 +635,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80934,
-      "num": 80934,
-      "word": "进击的巨人",
-      "onboard_time": 1677885618,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 78793,
       "num": 78793,
       "word": "熊猫和花",
       "onboard_time": 1677821305,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77906,
+      "num": 77906,
+      "word": "宋亚轩我们的客栈庆生海报",
+      "onboard_time": 1677888385,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 77273,
@@ -457,14 +681,6 @@
       "onboard_time": 1677885738,
       "rank": 31,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 63037,
-      "num": 63037,
-      "word": "澜星元皮肤",
-      "onboard_time": 1677866536,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 61596,
