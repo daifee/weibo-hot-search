@@ -1,0 +1,410 @@
+{
+  "runTime": 1677914206821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 593420,
+        "num": 593420,
+        "word": "被夺笋的花花",
+        "onboard_time": 1677898647,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353138,
+        "num": 353138,
+        "word": "建议每辆车每年可享受固定天数高速免费",
+        "onboard_time": 1677912986,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138202,
+        "num": 302354,
+        "word": "全国人大会议议程来了",
+        "onboard_time": 1677912504,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 276447,
+        "num": 276447,
+        "word": "Meiko称成为选手最重要的是坚持",
+        "onboard_time": 1677907768,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32848,
+        "num": 263355,
+        "word": "国家需要时想用就有想干就能",
+        "onboard_time": 1677914065,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 259937,
+        "num": 259937,
+        "word": "双鱼座藏起来的一面",
+        "onboard_time": 1677893787,
+        "rank": 5,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 248717,
+        "num": 248717,
+        "word": "当事人回应和峨眉山猴子练搏击互殴",
+        "onboard_time": 1677901227,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145953,
+        "num": 248092,
+        "word": "首场委员通道采访直播",
+        "onboard_time": 1677911245,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 110048,
+        "num": 243963,
+        "word": "中国的核心利益不容损害",
+        "onboard_time": 1677913884,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 65221,
+        "num": 242882,
+        "word": "中国护照的含金量越来越高",
+        "onboard_time": 1677914065,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1644297,
+        "num": 239703,
+        "word": "警方通报16岁女孩殴打三轮车阿姨",
+        "onboard_time": 1677911005,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913207,
+        "num": 238311,
+        "word": "跑男",
+        "onboard_time": 1677910106,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 882111,
+        "num": 235238,
+        "word": "日本突然声称多出7000余小岛",
+        "onboard_time": 1677901526,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675657,
+        "num": 232919,
+        "word": "25岁男演员刘峰去世",
+        "onboard_time": 1677885859,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230726,
+        "num": 230726,
+        "word": "韩国熊猫爷爷用中文介绍福宝一家",
+        "onboard_time": 1677892945,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595706,
+        "num": 230682,
+        "word": "安福路小公主",
+        "onboard_time": 1677905069,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 236166,
+        "num": 230587,
+        "word": "流浪猫回家两个月眼神变化",
+        "onboard_time": 1677896186,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 532725,
+        "num": 230565,
+        "word": "建议高考外语必考改为选考",
+        "onboard_time": 1677913346,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 492330,
+        "num": 230456,
+        "word": "福宝狗叫",
+        "onboard_time": 1677911545,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70734,
+        "num": 230408,
+        "word": "李书福亮相两会首场委员通道",
+        "onboard_time": 1677913825,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 230368,
+        "num": 230368,
+        "word": "父亲请求留下病故爱子身份证",
+        "onboard_time": 1677892467,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649840,
+        "num": 229250,
+        "word": "死亡万花筒杀青",
+        "onboard_time": 1677908784,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164712,
+        "num": 228591,
+        "word": "大熊猫走姿似狂飙高启盛",
+        "onboard_time": 1677899307,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605925,
+        "num": 227724,
+        "word": "虞书欣片场掐郭敬明脖子",
+        "onboard_time": 1677906447,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487792,
+        "num": 225373,
+        "word": "张真源 常驻跑男",
+        "onboard_time": 1677905428,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354195,
+        "num": 224739,
+        "word": "SMTOWN新女团将举办见面会",
+        "onboard_time": 1677909745,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326519,
+        "num": 223450,
+        "word": "周杰伦 悉尼",
+        "onboard_time": 1677911183,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 323027,
+        "num": 222264,
+        "word": "刘亦菲出发巴黎",
+        "onboard_time": 1677903868,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 290781,
+        "num": 220073,
+        "word": "建议对密室逃脱和剧本杀立法",
+        "onboard_time": 1677913346,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 268647,
+        "num": 218682,
+        "word": "周冬雨出发巴黎生图",
+        "onboard_time": 1677909265,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 218625,
+        "num": 218625,
+        "word": "蔚来情况说明",
+        "onboard_time": 1677903565,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206091,
+        "num": 206091,
+        "word": "你好星期六全员分享最想抓住的机会",
+        "onboard_time": 1677908906,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199920,
+        "num": 199920,
+        "word": "BLACKPINK澳门演唱会",
+        "onboard_time": 1677897146,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196803,
+        "num": 196803,
+        "word": "梁靖崑3比1林高远",
+        "onboard_time": 1677914006,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194852,
+        "num": 194852,
+        "word": "刘耀文扮雕",
+        "onboard_time": 1677914185,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163899,
+        "num": 163899,
+        "word": "田曦薇卷发",
+        "onboard_time": 1677897986,
+        "rank": 35,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 161712,
+        "num": 161712,
+        "word": "林高远发挥",
+        "onboard_time": 1677914065,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150213,
+        "num": 150213,
+        "word": "张萌想看彭冠英王楚然二搭",
+        "onboard_time": 1677912804,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143671,
+        "num": 149436,
+        "word": "勇士五连胜",
+        "onboard_time": 1677910106,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148700,
+        "num": 148700,
+        "word": "巨人完结篇前篇开分9.5",
+        "onboard_time": 1677903387,
+        "rank": 39,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 145250,
+        "num": 145250,
+        "word": "在美华人称见到丫丫感觉非常震撼",
+        "onboard_time": 1677890367,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138488,
+        "num": 138488,
+        "word": "小福贵看了都得叫你声姐",
+        "onboard_time": 1677913644,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138430,
+        "num": 138430,
+        "word": "女生下班发现狗狗拆家收拾到凌晨",
+        "onboard_time": 1677899965,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137816,
+        "num": 137816,
+        "word": "蔚来",
+        "onboard_time": 1677895525,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 135098,
+        "num": 135098,
+        "word": "张杰未live巡回演唱会首站官宣",
+        "onboard_time": 1677908964,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133712,
+        "num": 133712,
+        "word": "小S二女儿跳lovedive视频",
+        "onboard_time": 1677896306,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131001,
+        "num": 131001,
+        "word": "大侦探皮卡丘将拍第二部",
+        "onboard_time": 1677913465,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125665,
+        "num": 125665,
+        "word": "黄婉秋逝世",
+        "onboard_time": 1677887061,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118284,
+        "num": 118284,
+        "word": "快船五连败",
+        "onboard_time": 1677910166,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108778,
+        "num": 108778,
+        "word": "金在中说许光汉像天使",
+        "onboard_time": 1677906567,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大一次会议议程#"
+    }
+  }
+}

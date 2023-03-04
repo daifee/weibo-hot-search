@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677911858534,
+  "endTime": 1677914206821,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -217,6 +217,14 @@
       "onboard_time": 1677625519,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1644297,
+      "num": 245256,
+      "word": "警方通报16岁女孩殴打三轮车阿姨",
+      "onboard_time": 1677911005,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1591473,
@@ -1771,14 +1779,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 576145,
-      "num": 245256,
-      "word": "警方通报16岁女孩殴打三轮车阿姨",
-      "onboard_time": 1677911005,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 575627,
       "num": 575627,
       "word": "法院禁止Kakao买SM新股",
@@ -2043,6 +2043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 532725,
+      "num": 230565,
+      "word": "建议高考外语必考改为选考",
+      "onboard_time": 1677913346,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 532148,
       "num": 532148,
       "word": "方时赫收购SM的理由",
@@ -2249,6 +2257,14 @@
       "onboard_time": 1677723147,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 492330,
+      "num": 230456,
+      "word": "福宝狗叫",
+      "onboard_time": 1677911545,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490635,
@@ -3147,6 +3163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353138,
+      "num": 353138,
+      "word": "建议每辆车每年可享受固定天数高速免费",
+      "onboard_time": 1677912986,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352911,
       "num": 352911,
       "word": "张大大直播",
@@ -3384,6 +3408,14 @@
       "word": "宋雨琦直播跳TOMBOY",
       "onboard_time": 1677850287,
       "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 326519,
+      "num": 245078,
+      "word": "周杰伦 悉尼",
+      "onboard_time": 1677911183,
+      "rank": 18,
       "category": "音乐"
     },
     {
@@ -3787,6 +3819,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 290781,
+      "num": 220073,
+      "word": "建议对密室逃脱和剧本杀立法",
+      "onboard_time": 1677913346,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 290304,
       "num": 290304,
       "word": "怎么判断自己是退税还是补税",
@@ -3817,14 +3857,6 @@
       "onboard_time": 1677834747,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287630,
-      "num": 245078,
-      "word": "周杰伦 悉尼",
-      "onboard_time": 1677911183,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 287322,
@@ -4843,14 +4875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211874,
-      "num": 211874,
-      "word": "福宝狗叫",
-      "onboard_time": 1677911545,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211015,
       "num": 211015,
       "word": "双休日对打工人有多重要",
@@ -5315,6 +5339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196803,
+      "num": 196803,
+      "word": "梁靖崑3比1林高远",
+      "onboard_time": 1677914006,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196718,
       "num": 196718,
       "word": "香奈儿回应2万包包15分钟断了",
@@ -5377,6 +5409,14 @@
       "onboard_time": 1677829107,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194852,
+      "num": 194852,
+      "word": "刘耀文扮雕",
+      "onboard_time": 1677914185,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 194462,
@@ -6059,6 +6099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161712,
+      "num": 161712,
+      "word": "林高远发挥",
+      "onboard_time": 1677914065,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161686,
       "num": 161686,
       "word": "钎城国服后羿到手了",
@@ -6219,6 +6267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 150213,
+      "num": 150213,
+      "word": "张萌想看彭冠英王楚然二搭",
+      "onboard_time": 1677912804,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149652,
       "num": 149652,
       "word": "花海娜可露露杀疯了",
@@ -6281,6 +6337,14 @@
       "onboard_time": 1677752369,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145953,
+      "num": 248092,
+      "word": "首场委员通道采访直播",
+      "onboard_time": 1677911245,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 145906,
@@ -6443,20 +6507,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139979,
-      "num": 139979,
-      "word": "首场委员通道采访直播",
-      "onboard_time": 1677911245,
-      "rank": 43,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 138495,
       "num": 138495,
       "word": "警方下周传唤刘亚仁",
       "onboard_time": 1677722605,
       "rank": 35,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 138488,
+      "num": 138488,
+      "word": "小福贵看了都得叫你声姐",
+      "onboard_time": 1677913644,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 138202,
+      "num": 302354,
+      "word": "全国人大会议议程来了",
+      "onboard_time": 1677912504,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 138056,
@@ -6649,6 +6721,14 @@
       "onboard_time": 1677683310,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131001,
+      "num": 131001,
+      "word": "大侦探皮卡丘将拍第二部",
+      "onboard_time": 1677913465,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 130336,
@@ -7025,6 +7105,14 @@
       "onboard_time": 1677675632,
       "rank": 14,
       "category": "其它"
+    },
+    {
+      "raw_hot": 110048,
+      "num": 243963,
+      "word": "中国的核心利益不容损害",
+      "onboard_time": 1677913884,
+      "rank": 8,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 109490,
@@ -7419,6 +7507,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 70734,
+      "num": 230408,
+      "word": "李书福亮相两会首场委员通道",
+      "onboard_time": 1677913825,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 69173,
       "num": 69173,
       "word": "这就是鼓励式教育的意义吧",
@@ -7449,6 +7545,14 @@
       "onboard_time": 1677687504,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65221,
+      "num": 242882,
+      "word": "中国护照的含金量越来越高",
+      "onboard_time": 1677914065,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 64605,
@@ -7619,6 +7723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 32848,
+      "num": 263355,
+      "word": "国家需要时想用就有想干就能",
+      "onboard_time": 1677914065,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 32331,
       "num": 32331,
       "word": "微博之夜嘉宾",
@@ -7777,6 +7889,9 @@
     },
     {
       "word": "#十四届全国人大一次会议发布会#"
+    },
+    {
+      "word": "#十四届全国人大一次会议议程#"
     }
   ]
 }
