@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677904712820,
+  "endTime": 1677907029673,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -827,6 +827,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1284452,
+      "num": 313684,
+      "word": "张真源 常驻跑男",
+      "onboard_time": 1677905428,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1279122,
       "num": 427205,
       "word": "蔡天凤前夫父子三人被控谋杀",
@@ -1531,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 917255,
+      "num": 311676,
+      "word": "安福路小公主",
+      "onboard_time": 1677905069,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 914379,
       "num": 407371,
       "word": "女子称30岁相亲不是二婚就是老头",
@@ -1561,6 +1577,14 @@
       "onboard_time": 1677727526,
       "rank": 33,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 904100,
+      "num": 317477,
+      "word": "刘亦菲出发巴黎",
+      "onboard_time": 1677903868,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 903550,
@@ -2419,6 +2443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 665619,
+      "num": 665619,
+      "word": "安香怡",
+      "onboard_time": 1677903327,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 665538,
       "num": 665538,
       "word": "感染甲流大部分都是轻症",
@@ -2537,14 +2569,6 @@
       "onboard_time": 1677418413,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 640712,
-      "num": 317477,
-      "word": "刘亦菲出发巴黎",
-      "onboard_time": 1677903868,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 640354,
@@ -2736,14 +2760,6 @@
       "word": "周琦",
       "onboard_time": 1677647731,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 593976,
-      "num": 593976,
-      "word": "安香怡",
-      "onboard_time": 1677903327,
-      "rank": 23,
       "category": "体育"
     },
     {
@@ -3121,6 +3137,14 @@
       "onboard_time": 1677766710,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 547678,
+      "num": 337896,
+      "word": "蔚来情况说明",
+      "onboard_time": 1677903565,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 547408,
@@ -3553,6 +3577,14 @@
       "onboard_time": 1677724465,
       "rank": 13,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 499027,
+      "num": 300588,
+      "word": "虞书欣片场掐郭敬明脖子",
+      "onboard_time": 1677906447,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 497634,
@@ -5323,14 +5355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337896,
-      "num": 337896,
-      "word": "蔚来情况说明",
-      "onboard_time": 1677903565,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 335617,
       "num": 335617,
       "word": "杨紫金世佳199爱同框",
@@ -5521,6 +5545,14 @@
       "onboard_time": 1677422194,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323434,
+      "num": 323434,
+      "word": "长宁3.0级地震",
+      "onboard_time": 1677906208,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323386,
@@ -6211,6 +6243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281647,
+      "num": 235053,
+      "word": "Viper说Tarzan是分奴",
+      "onboard_time": 1677905787,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281546,
       "num": 281546,
       "word": "甲流易感染人群如何防护",
@@ -6611,6 +6651,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 257497,
+      "num": 323269,
+      "word": "当事人回应和峨眉山猴子练搏击互殴",
+      "onboard_time": 1677901227,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256884,
       "num": 256884,
       "word": "塞尔达玩家也太卷了",
@@ -6769,14 +6817,6 @@
       "onboard_time": 1677734308,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246266,
-      "num": 246266,
-      "word": "当事人回应和峨眉山猴子练搏击互殴",
-      "onboard_time": 1677901227,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245864,
@@ -7291,6 +7331,14 @@
       "category": "时尚,美妆"
     },
     {
+      "raw_hot": 219816,
+      "num": 219816,
+      "word": "檀健次模仿疯驴子",
+      "onboard_time": 1677905545,
+      "rank": 31,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 219544,
       "num": 219544,
       "word": "全国中小学消防公开课",
@@ -7411,6 +7459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215584,
+      "num": 215584,
+      "word": "陈伟霆新发型",
+      "onboard_time": 1677905125,
+      "rank": 33,
+      "category": "综艺,美妆"
+    },
+    {
       "raw_hot": 215104,
       "num": 215104,
       "word": "调整双休日为隔周三休合理吗",
@@ -7499,6 +7555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212113,
+      "num": 212113,
+      "word": "金在中说许光汉像天使",
+      "onboard_time": 1677906567,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211015,
       "num": 211015,
       "word": "双休日对打工人有多重要",
@@ -7569,6 +7633,14 @@
       "onboard_time": 1677511349,
       "rank": 30,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 208847,
+      "num": 208847,
+      "word": "安香怡世青赛总分183.94",
+      "onboard_time": 1677906866,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 208740,
@@ -8915,6 +8987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177018,
+      "num": 177018,
+      "word": "雷军两会建议推动仿生机器人发展",
+      "onboard_time": 1677902787,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 176269,
       "num": 176269,
       "word": "王嘉尔 你好星期六",
@@ -9323,6 +9403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158836,
+      "num": 158836,
+      "word": "如何看待巴黎要求梅西降薪",
+      "onboard_time": 1677906866,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158697,
       "num": 158697,
       "word": "梅西 实至名归",
@@ -9537,14 +9625,6 @@
       "onboard_time": 1677731310,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151707,
-      "num": 151707,
-      "word": "雷军两会建议推动仿生机器人发展",
-      "onboard_time": 1677902787,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 151105,
@@ -10211,6 +10291,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 128315,
+      "num": 128315,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1677906268,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128309,
       "num": 128309,
       "word": "梅西说获奖代表对团队的认可",
@@ -10569,6 +10657,14 @@
       "onboard_time": 1677601105,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113880,
+      "num": 448827,
+      "word": "全国两会时光",
+      "onboard_time": 1677904947,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 113648,

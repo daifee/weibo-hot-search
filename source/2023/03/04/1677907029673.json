@@ -1,0 +1,410 @@
+{
+  "runTime": 1677907029673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1035034,
+        "num": 1035034,
+        "word": "被夺笋的花花",
+        "onboard_time": 1677898647,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665619,
+        "num": 665619,
+        "word": "安香怡",
+        "onboard_time": 1677903327,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113880,
+        "num": 448827,
+        "word": "全国两会时光",
+        "onboard_time": 1677904947,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 375753,
+        "num": 375753,
+        "word": "韩国熊猫爷爷用中文介绍福宝一家",
+        "onboard_time": 1677892945,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371831,
+        "num": 371831,
+        "word": "父亲请求留下病故爱子身份证",
+        "onboard_time": 1677892467,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323434,
+        "num": 323434,
+        "word": "长宁3.0级地震",
+        "onboard_time": 1677906208,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257497,
+        "num": 323269,
+        "word": "当事人回应和峨眉山猴子练搏击互殴",
+        "onboard_time": 1677901227,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245233,
+        "num": 320927,
+        "word": "十四届全国人大一次会议新闻发布会",
+        "onboard_time": 1677902787,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209866,
+        "num": 319852,
+        "word": "大熊猫走姿似狂飙高启盛",
+        "onboard_time": 1677899307,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207031,
+        "num": 317649,
+        "word": "流浪猫回家两个月眼神变化",
+        "onboard_time": 1677896186,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1612374,
+        "num": 317464,
+        "word": "日本突然声称多出7000余小岛",
+        "onboard_time": 1677901526,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1601977,
+        "num": 316024,
+        "word": "25岁男演员刘峰去世",
+        "onboard_time": 1677885859,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1284452,
+        "num": 313684,
+        "word": "张真源 常驻跑男",
+        "onboard_time": 1677905428,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 917255,
+        "num": 311676,
+        "word": "安福路小公主",
+        "onboard_time": 1677905069,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 594245,
+        "num": 310821,
+        "word": "黄婉秋逝世",
+        "onboard_time": 1677887061,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547678,
+        "num": 309122,
+        "word": "蔚来情况说明",
+        "onboard_time": 1677903565,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 437231,
+        "num": 307932,
+        "word": "BLACKPINK澳门演唱会",
+        "onboard_time": 1677897146,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 394901,
+        "num": 307088,
+        "word": "田曦薇卷发",
+        "onboard_time": 1677897986,
+        "rank": 17,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 379029,
+        "num": 305040,
+        "word": "在美华人称见到丫丫感觉非常震撼",
+        "onboard_time": 1677890367,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325336,
+        "num": 302803,
+        "word": "梅西拒绝降薪续约",
+        "onboard_time": 1677892225,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 904100,
+        "num": 301890,
+        "word": "刘亦菲出发巴黎",
+        "onboard_time": 1677903868,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 499027,
+        "num": 300588,
+        "word": "虞书欣片场掐郭敬明脖子",
+        "onboard_time": 1677906447,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299849,
+        "num": 299849,
+        "word": "王昱珩谈杨笠普信男言论",
+        "onboard_time": 1677887424,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290347,
+        "num": 290347,
+        "word": "蔚来称零容忍员工违法犯罪行为",
+        "onboard_time": 1677896069,
+        "rank": 23,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 289633,
+        "num": 289633,
+        "word": "宋亚轩新歌是高姗填词",
+        "onboard_time": 1677901466,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285621,
+        "num": 285621,
+        "word": "巨人完结篇前篇开分9.5",
+        "onboard_time": 1677903387,
+        "rank": 25,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 276886,
+        "num": 276886,
+        "word": "丁程鑫录制第一期你好星期六",
+        "onboard_time": 1677902427,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270779,
+        "num": 270779,
+        "word": "小S二女儿跳lovedive视频",
+        "onboard_time": 1677896306,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265774,
+        "num": 265774,
+        "word": "井柏然巴黎时装周出发视频",
+        "onboard_time": 1677904467,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245963,
+        "num": 245963,
+        "word": "女生下班发现狗狗拆家收拾到凌晨",
+        "onboard_time": 1677899965,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281647,
+        "num": 235053,
+        "word": "Viper说Tarzan是分奴",
+        "onboard_time": 1677905787,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219816,
+        "num": 219816,
+        "word": "檀健次模仿疯驴子",
+        "onboard_time": 1677905545,
+        "rank": 31,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 218041,
+        "num": 218041,
+        "word": "蔚来",
+        "onboard_time": 1677895525,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 215584,
+        "num": 215584,
+        "word": "陈伟霆新发型",
+        "onboard_time": 1677905125,
+        "rank": 33,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 212113,
+        "num": 212113,
+        "word": "金在中说许光汉像天使",
+        "onboard_time": 1677906567,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211405,
+        "num": 211405,
+        "word": "Angelababy红披风",
+        "onboard_time": 1677903506,
+        "rank": 35,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 208847,
+        "num": 208847,
+        "word": "安香怡世青赛总分183.94",
+        "onboard_time": 1677906866,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208826,
+        "num": 208826,
+        "word": "王鹤棣摘眼镜吻戏",
+        "onboard_time": 1677899125,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201592,
+        "num": 201592,
+        "word": "双鱼座藏起来的一面",
+        "onboard_time": 1677893787,
+        "rank": 38,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 182773,
+        "num": 182773,
+        "word": "于正否认嫡嫁千金阵容",
+        "onboard_time": 1677897447,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177018,
+        "num": 177018,
+        "word": "雷军两会建议推动仿生机器人发展",
+        "onboard_time": 1677902787,
+        "rank": 40,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 175301,
+        "num": 175301,
+        "word": "建议发钱鼓励生孩要关注第一孩",
+        "onboard_time": 1677892706,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158836,
+        "num": 158836,
+        "word": "如何看待巴黎要求梅西降薪",
+        "onboard_time": 1677906866,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157332,
+        "num": 157332,
+        "word": "苹果经典静音按钮或被按压式按钮取代",
+        "onboard_time": 1677895106,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 156132,
+        "num": 156132,
+        "word": "田柾国唱咒文视频",
+        "onboard_time": 1677902005,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151986,
+        "num": 151986,
+        "word": "鹿晗强行请王勉吃糖葫芦",
+        "onboard_time": 1677895407,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137591,
+        "num": 137591,
+        "word": "篮网28分逆转凯尔特人",
+        "onboard_time": 1677903387,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129087,
+        "num": 129087,
+        "word": "大学每月生活费2000是什么水平",
+        "onboard_time": 1677849145,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128315,
+        "num": 128315,
+        "word": "森林狼vs湖人",
+        "onboard_time": 1677906268,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124799,
+        "num": 124799,
+        "word": "陈星旭逗李兰迪开心花絮",
+        "onboard_time": 1677903868,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的事#"
+    }
+  }
+}
