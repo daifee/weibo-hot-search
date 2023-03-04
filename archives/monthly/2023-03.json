@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677908021667,
+  "endTime": 1677910998417,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -835,6 +835,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 956039,
+      "num": 240095,
+      "word": "跑男",
+      "onboard_time": 1677910106,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 951361,
       "num": 951361,
       "word": "专家称双休制度很难被改变",
@@ -1123,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 780291,
+      "num": 225127,
+      "word": "死亡万花筒杀青",
+      "onboard_time": 1677908784,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 777539,
       "num": 777539,
       "word": "人社部将适时调整个人养老金缴费上限",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1677740304,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 761942,
+      "num": 300588,
+      "word": "虞书欣片场掐郭敬明脖子",
+      "onboard_time": 1677906447,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 758844,
@@ -1361,14 +1385,6 @@
       "onboard_time": 1677636750,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 703644,
-      "num": 300588,
-      "word": "虞书欣片场掐郭敬明脖子",
-      "onboard_time": 1677906447,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 701062,
@@ -2387,6 +2403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 458551,
+      "num": 238373,
+      "word": "SMTOWN新女团将举办见面会",
+      "onboard_time": 1677909745,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457564,
       "num": 457564,
       "word": "明天起个税将再次多退少补",
@@ -2875,6 +2899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384059,
+      "num": 215961,
+      "word": "周冬雨出发巴黎生图",
+      "onboard_time": 1677909265,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 382692,
       "num": 382692,
       "word": "张杰冲上云霄机长造型",
@@ -2921,6 +2953,14 @@
       "onboard_time": 1677646171,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376142,
+      "num": 376142,
+      "word": "Meiko称成为选手最重要的是坚持",
+      "onboard_time": 1677907768,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 373550,
@@ -4355,6 +4395,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 234826,
+      "num": 234826,
+      "word": "张杰未live巡回演唱会首站官宣",
+      "onboard_time": 1677908964,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232394,
       "num": 232394,
       "word": "苏醒新歌不要劝我放下",
@@ -4481,6 +4529,14 @@
       "onboard_time": 1677719186,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 226396,
+      "num": 215303,
+      "word": "你好星期六全员分享最想抓住的机会",
+      "onboard_time": 1677908906,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 226364,
@@ -4835,14 +4891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207187,
-      "num": 207187,
-      "word": "Meiko称成为选手最重要的是坚持",
-      "onboard_time": 1677907768,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 206958,
       "num": 206958,
       "word": "张天爱到达巴黎",
@@ -4873,6 +4921,14 @@
       "onboard_time": 1677846865,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206197,
+      "num": 227734,
+      "word": "勇士五连胜",
+      "onboard_time": 1677910106,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 206095,
@@ -5675,6 +5731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177302,
+      "num": 177302,
+      "word": "蒋敦豪人总不能一直倒霉吧",
+      "onboard_time": 1677910224,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177242,
       "num": 177242,
       "word": "HYBE新男团BOYNEXTDOOR",
@@ -6147,6 +6211,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 148842,
+      "num": 148842,
+      "word": "快船五连败",
+      "onboard_time": 1677910166,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148533,
       "num": 971247,
       "word": "全国政协十四届一次会议新闻发布会",
@@ -6297,6 +6369,14 @@
       "onboard_time": 1677654147,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141120,
+      "num": 141120,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1677906268,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 140858,
@@ -6603,14 +6683,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 128315,
-      "num": 128315,
-      "word": "森林狼vs湖人",
-      "onboard_time": 1677906268,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127825,
       "num": 127825,
       "word": "蔡徐坤米兰四年前后对比",
@@ -6657,6 +6729,14 @@
       "onboard_time": 1677748172,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125156,
+      "num": 125156,
+      "word": "陈楚生 爱的尽头",
+      "onboard_time": 1677907706,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 125142,
@@ -6905,6 +6985,14 @@
       "onboard_time": 1677675632,
       "rank": 14,
       "category": "其它"
+    },
+    {
+      "raw_hot": 109490,
+      "num": 109490,
+      "word": "快船vs国王",
+      "onboard_time": 1677908486,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 109228,
