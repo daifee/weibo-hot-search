@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1677948100735,
+  "endTime": 1677950168405,
   "band_list": [
     {
       "raw_hot": 1384707,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249005,
+      "num": 193272,
+      "word": "邓超一口气炫冻梨",
+      "onboard_time": 1677946885,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246057,
       "num": 291131,
       "word": "鹅鸭杀",
@@ -153,14 +161,6 @@
       "onboard_time": 1677946047,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 234161,
-      "num": 193272,
-      "word": "邓超一口气炫冻梨",
-      "onboard_time": 1677946885,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 218531,
@@ -227,8 +227,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173752,
+      "num": 114732,
+      "word": "朴彩英嘟嘴比心",
+      "onboard_time": 1677948082,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173209,
-      "num": 173209,
+      "num": 182649,
       "word": "林诗栋vs勒布伦",
       "onboard_time": 1677947125,
       "rank": 23,
@@ -387,12 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87140,
-      "num": 87140,
-      "word": "朴彩英嘟嘴比心",
-      "onboard_time": 1677948082,
-      "rank": 43,
-      "category": "音乐"
+      "raw_hot": 78515,
+      "num": 87905,
+      "word": "阿森纳vs伯恩茅斯",
+      "onboard_time": 1677943049,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 66580,
@@ -401,14 +409,6 @@
       "onboard_time": 1677928107,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 62955,
-      "num": 87905,
-      "word": "阿森纳vs伯恩茅斯",
-      "onboard_time": 1677943049,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 29071,
