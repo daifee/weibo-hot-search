@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677907029673,
+  "endTime": 1677908021667,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1566007,
+      "num": 313684,
+      "word": "张真源 常驻跑男",
+      "onboard_time": 1677905428,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1501172,
       "num": 962861,
       "word": "95后考研落榜结果父母双双上岸",
@@ -419,14 +427,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 1284452,
-      "num": 313684,
-      "word": "张真源 常驻跑男",
-      "onboard_time": 1677905428,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1275681,
       "num": 1275681,
       "word": "李敏镐被追缴数亿韩元",
@@ -577,6 +577,14 @@
       "onboard_time": 1677639388,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1134239,
+      "num": 311676,
+      "word": "安福路小公主",
+      "onboard_time": 1677905069,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 1126676,
@@ -873,14 +881,6 @@
       "onboard_time": 1677766111,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 917255,
-      "num": 311676,
-      "word": "安福路小公主",
-      "onboard_time": 1677905069,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 914379,
@@ -1363,6 +1363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 703644,
+      "num": 300588,
+      "word": "虞书欣片场掐郭敬明脖子",
+      "onboard_time": 1677906447,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 701062,
       "num": 355841,
       "word": "年薪30万女生转行卖快餐",
@@ -1617,6 +1625,14 @@
       "onboard_time": 1677809487,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 623879,
+      "num": 337896,
+      "word": "蔚来情况说明",
+      "onboard_time": 1677903565,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 622738,
@@ -1939,14 +1955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 547678,
-      "num": 337896,
-      "word": "蔚来情况说明",
-      "onboard_time": 1677903565,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 547408,
       "num": 196837,
       "word": "肖战黑西装采访视频",
@@ -2209,14 +2217,6 @@
       "onboard_time": 1677724465,
       "rank": 13,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 499027,
-      "num": 300588,
-      "word": "虞书欣片场掐郭敬明脖子",
-      "onboard_time": 1677906447,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 494647,
@@ -3307,6 +3307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331050,
+      "num": 305533,
+      "word": "时代少年团一周年演唱会排练视频",
+      "onboard_time": 1677907227,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 330164,
       "num": 330164,
       "word": "山东男篮vs辽宁男篮",
@@ -3449,6 +3457,14 @@
       "onboard_time": 1677658469,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315972,
+      "num": 323269,
+      "word": "当事人回应和峨眉山猴子练搏击互殴",
+      "onboard_time": 1677901227,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315572,
@@ -3796,7 +3812,7 @@
     },
     {
       "raw_hot": 281647,
-      "num": 235053,
+      "num": 244840,
       "word": "Viper说Tarzan是分奴",
       "onboard_time": 1677905787,
       "rank": 30,
@@ -4011,6 +4027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265630,
+      "num": 265630,
+      "word": "金在中说许光汉像天使",
+      "onboard_time": 1677906567,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 265139,
       "num": 265139,
       "word": "于和伟说三体涨分像涨工资",
@@ -4097,14 +4121,6 @@
       "onboard_time": 1677634051,
       "rank": 24,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 257497,
-      "num": 323269,
-      "word": "当事人回应和峨眉山猴子练搏击互殴",
-      "onboard_time": 1677901227,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256884,
@@ -4755,14 +4771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212113,
-      "num": 212113,
-      "word": "金在中说许光汉像天使",
-      "onboard_time": 1677906567,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 211015,
       "num": 211015,
       "word": "双休日对打工人有多重要",
@@ -4827,12 +4835,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207187,
+      "num": 207187,
+      "word": "Meiko称成为选手最重要的是坚持",
+      "onboard_time": 1677907768,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206958,
       "num": 206958,
       "word": "张天爱到达巴黎",
       "onboard_time": 1677749850,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206925,
+      "num": 206925,
+      "word": "如何看待巴黎要求梅西降薪",
+      "onboard_time": 1677906866,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 206789,
@@ -5955,14 +5979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158836,
-      "num": 158836,
-      "word": "如何看待巴黎要求梅西降薪",
-      "onboard_time": 1677906866,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158405,
       "num": 158405,
       "word": "王栎鑫与十五年前的自己对话",
@@ -6545,6 +6561,14 @@
       "onboard_time": 1677595293,
       "rank": 39,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 129689,
+      "num": 129689,
+      "word": "王勉 底商",
+      "onboard_time": 1677907468,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 129685,
@@ -7619,6 +7643,9 @@
     },
     {
       "word": "#两会#"
+    },
+    {
+      "word": "#全国政协会议议程来了#"
     }
   ]
 }

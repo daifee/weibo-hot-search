@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677907029673,
+  "endTime": 1677908021667,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -27,6 +27,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1566007,
+      "num": 313684,
+      "word": "张真源 常驻跑男",
+      "onboard_time": 1677905428,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1432024,
       "num": 765699,
       "word": "黄色iPhone14",
@@ -43,14 +51,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1284452,
-      "num": 313684,
-      "word": "张真源 常驻跑男",
-      "onboard_time": 1677905428,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1242678,
       "num": 510476,
       "word": "黄婉秋逝世",
@@ -65,6 +65,14 @@
       "onboard_time": 1677890367,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1134239,
+      "num": 311676,
+      "word": "安福路小公主",
+      "onboard_time": 1677905069,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 1042020,
@@ -97,14 +105,6 @@
       "onboard_time": 1677892225,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 917255,
-      "num": 311676,
-      "word": "安福路小公主",
-      "onboard_time": 1677905069,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 904100,
@@ -187,12 +187,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 703644,
+      "num": 300588,
+      "word": "虞书欣片场掐郭敬明脖子",
+      "onboard_time": 1677906447,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 665619,
       "num": 665619,
       "word": "安香怡",
       "onboard_time": 1677903327,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 623879,
+      "num": 337896,
+      "word": "蔚来情况说明",
+      "onboard_time": 1677903565,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 614286,
@@ -251,14 +267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 547678,
-      "num": 337896,
-      "word": "蔚来情况说明",
-      "onboard_time": 1677903565,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 542290,
       "num": 542290,
       "word": "建议发钱鼓励生孩要关注第一孩",
@@ -281,14 +289,6 @@
       "onboard_time": 1677895106,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 499027,
-      "num": 300588,
-      "word": "虞书欣片场掐郭敬明脖子",
-      "onboard_time": 1677906447,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 487153,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331050,
+      "num": 305533,
+      "word": "时代少年团一周年演唱会排练视频",
+      "onboard_time": 1677907227,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 325282,
       "num": 325282,
       "word": "韩式英语又在害人",
@@ -433,6 +441,14 @@
       "onboard_time": 1677857667,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315972,
+      "num": 323269,
+      "word": "当事人回应和峨眉山猴子练搏击互殴",
+      "onboard_time": 1677901227,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313969,
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 281647,
-      "num": 235053,
+      "num": 244840,
       "word": "Viper说Tarzan是分奴",
       "onboard_time": 1677905787,
       "rank": 30,
@@ -531,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265630,
+      "num": 265630,
+      "word": "金在中说许光汉像天使",
+      "onboard_time": 1677906567,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 264705,
       "num": 264705,
       "word": "Brainy is the new sexy",
@@ -553,14 +577,6 @@
       "onboard_time": 1677885498,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 257497,
-      "num": 323269,
-      "word": "当事人回应和峨眉山猴子练搏击互殴",
-      "onboard_time": 1677901227,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255556,
@@ -659,19 +675,27 @@
       "category": "综艺,美妆"
     },
     {
-      "raw_hot": 212113,
-      "num": 212113,
-      "word": "金在中说许光汉像天使",
-      "onboard_time": 1677906567,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 208847,
       "num": 208847,
       "word": "安香怡世青赛总分183.94",
       "onboard_time": 1677906866,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 207187,
+      "num": 207187,
+      "word": "Meiko称成为选手最重要的是坚持",
+      "onboard_time": 1677907768,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 206925,
+      "num": 206925,
+      "word": "如何看待巴黎要求梅西降薪",
+      "onboard_time": 1677906866,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -777,14 +801,6 @@
       "onboard_time": 1677897925,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158836,
-      "num": 158836,
-      "word": "如何看待巴黎要求梅西降薪",
-      "onboard_time": 1677906866,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 154651,
@@ -920,6 +936,14 @@
       "word": "最强大脑",
       "onboard_time": 1677852507,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129689,
+      "num": 129689,
+      "word": "王勉 底商",
+      "onboard_time": 1677907468,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1255,6 +1279,9 @@
     },
     {
       "word": "#两会#"
+    },
+    {
+      "word": "#全国政协会议议程来了#"
     }
   ]
 }
