@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677910998417,
+  "endTime": 1677911858534,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -75,6 +75,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1058094,
+      "num": 245611,
+      "word": "跑男",
+      "onboard_time": 1677910106,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1042020,
       "num": 1042020,
       "word": "被夺笋的花花",
@@ -105,14 +113,6 @@
       "onboard_time": 1677892225,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 956039,
-      "num": 240095,
-      "word": "跑男",
-      "onboard_time": 1677910106,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 904100,
@@ -171,18 +171,18 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 780291,
-      "num": 225127,
-      "word": "死亡万花筒杀青",
-      "onboard_time": 1677908784,
+      "raw_hot": 788270,
+      "num": 300588,
+      "word": "虞书欣片场掐郭敬明脖子",
+      "onboard_time": 1677906447,
       "rank": 21,
       "category": "影视"
     },
     {
-      "raw_hot": 761942,
-      "num": 300588,
-      "word": "虞书欣片场掐郭敬明脖子",
-      "onboard_time": 1677906447,
+      "raw_hot": 780291,
+      "num": 244790,
+      "word": "死亡万花筒杀青",
+      "onboard_time": 1677908784,
       "rank": 21,
       "category": "影视"
     },
@@ -241,6 +241,14 @@
       "onboard_time": 1677887544,
       "rank": 4,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 576145,
+      "num": 245256,
+      "word": "警方通报16岁女孩殴打三轮车阿姨",
+      "onboard_time": 1677911005,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 575627,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 458551,
-      "num": 238373,
+      "num": 245241,
       "word": "SMTOWN新女团将举办见面会",
       "onboard_time": 1677909745,
       "rank": 15,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 384059,
-      "num": 215961,
+      "num": 234077,
       "word": "周冬雨出发巴黎生图",
       "onboard_time": 1677909265,
       "rank": 25,
@@ -539,6 +547,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 287630,
+      "num": 245078,
+      "word": "周杰伦 悉尼",
+      "onboard_time": 1677911183,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 287322,
       "num": 287322,
       "word": "Angelababy红披风",
@@ -635,6 +651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 244679,
+      "num": 244679,
+      "word": "你好星期六全员分享最想抓住的机会",
+      "onboard_time": 1677908906,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234826,
       "num": 234826,
       "word": "张杰未live巡回演唱会首站官宣",
@@ -664,14 +688,6 @@
       "word": "你为了工作放弃过什么",
       "onboard_time": 1677859885,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 226396,
-      "num": 215303,
-      "word": "你好星期六全员分享最想抓住的机会",
-      "onboard_time": 1677908906,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -731,6 +747,14 @@
       "category": "综艺,美妆"
     },
     {
+      "raw_hot": 211874,
+      "num": 211874,
+      "word": "福宝狗叫",
+      "onboard_time": 1677911545,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208847,
       "num": 208847,
       "word": "安香怡世青赛总分183.94",
@@ -748,7 +772,7 @@
     },
     {
       "raw_hot": 206197,
-      "num": 227734,
+      "num": 245742,
       "word": "勇士五连胜",
       "onboard_time": 1677910106,
       "rank": 20,
@@ -793,6 +817,14 @@
       "onboard_time": 1677860963,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192065,
+      "num": 192065,
+      "word": "蔡徐坤唱片店跳舞",
+      "onboard_time": 1677911665,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184770,
@@ -867,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160441,
+      "num": 160441,
+      "word": "快船五连败",
+      "onboard_time": 1677910166,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154651,
       "num": 154651,
       "word": "导师给我的论文想好了期刊",
@@ -915,14 +955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148842,
-      "num": 148842,
-      "word": "快船五连败",
-      "onboard_time": 1677910166,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148101,
       "num": 148101,
       "word": "利雅得胜利3比1巴腾",
@@ -969,6 +1001,14 @@
       "onboard_time": 1677906268,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139979,
+      "num": 139979,
+      "word": "首场委员通道采访直播",
+      "onboard_time": 1677911245,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 137924,
@@ -1370,6 +1410,9 @@
     },
     {
       "word": "#全国政协会议议程来了#"
+    },
+    {
+      "word": "#十四届全国人大一次会议发布会#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1677911858534,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 662995,
+        "num": 662995,
+        "word": "被夺笋的花花",
+        "onboard_time": 1677898647,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366530,
+        "num": 366530,
+        "word": "父亲请求留下病故爱子身份证",
+        "onboard_time": 1677892467,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62960,
+        "num": 362670,
+        "word": "全国两会时光",
+        "onboard_time": 1677904947,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 359394,
+        "num": 359394,
+        "word": "Meiko称成为选手最重要的是坚持",
+        "onboard_time": 1677907768,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273778,
+        "num": 273778,
+        "word": "双鱼座藏起来的一面",
+        "onboard_time": 1677893787,
+        "rank": 4,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 260187,
+        "num": 260187,
+        "word": "流浪猫回家两个月眼神变化",
+        "onboard_time": 1677896186,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248935,
+        "num": 248935,
+        "word": "当事人回应和峨眉山猴子练搏击互殴",
+        "onboard_time": 1677901227,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245895,
+        "num": 245895,
+        "word": "韩国熊猫爷爷用中文介绍福宝一家",
+        "onboard_time": 1677892945,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208885,
+        "num": 245847,
+        "word": "大熊猫走姿似狂飙高启盛",
+        "onboard_time": 1677899307,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180391,
+        "num": 245742,
+        "word": "勇士五连胜",
+        "onboard_time": 1677910106,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1106688,
+        "num": 245716,
+        "word": "日本突然声称多出7000余小岛",
+        "onboard_time": 1677901526,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058094,
+        "num": 245611,
+        "word": "跑男",
+        "onboard_time": 1677910106,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 842088,
+        "num": 245570,
+        "word": "安福路小公主",
+        "onboard_time": 1677905069,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 825889,
+        "num": 245427,
+        "word": "张真源 常驻跑男",
+        "onboard_time": 1677905428,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 813103,
+        "num": 245391,
+        "word": "25岁男演员刘峰去世",
+        "onboard_time": 1677885859,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576145,
+        "num": 245256,
+        "word": "警方通报16岁女孩殴打三轮车阿姨",
+        "onboard_time": 1677911005,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456265,
+        "num": 245241,
+        "word": "SMTOWN新女团将举办见面会",
+        "onboard_time": 1677909745,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290731,
+        "num": 245090,
+        "word": "蔚来情况说明",
+        "onboard_time": 1677903565,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 287630,
+        "num": 245078,
+        "word": "周杰伦 悉尼",
+        "onboard_time": 1677911183,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252926,
+        "num": 244971,
+        "word": "BLACKPINK澳门演唱会",
+        "onboard_time": 1677897146,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 788270,
+        "num": 244861,
+        "word": "虞书欣片场掐郭敬明脖子",
+        "onboard_time": 1677906447,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 736681,
+        "num": 244790,
+        "word": "死亡万花筒杀青",
+        "onboard_time": 1677908784,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 439311,
+        "num": 244703,
+        "word": "刘亦菲出发巴黎",
+        "onboard_time": 1677903868,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 244679,
+        "num": 244679,
+        "word": "你好星期六全员分享最想抓住的机会",
+        "onboard_time": 1677908906,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335678,
+        "num": 234077,
+        "word": "周冬雨出发巴黎生图",
+        "onboard_time": 1677909265,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211874,
+        "num": 211874,
+        "word": "福宝狗叫",
+        "onboard_time": 1677911545,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202577,
+        "num": 202577,
+        "word": "金在中说许光汉像天使",
+        "onboard_time": 1677906567,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202148,
+        "num": 202148,
+        "word": "田曦薇卷发",
+        "onboard_time": 1677897986,
+        "rank": 27,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 192065,
+        "num": 192065,
+        "word": "蔡徐坤唱片店跳舞",
+        "onboard_time": 1677911665,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188944,
+        "num": 188944,
+        "word": "在美华人称见到丫丫感觉非常震撼",
+        "onboard_time": 1677890367,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166294,
+        "num": 184136,
+        "word": "安香怡",
+        "onboard_time": 1677903327,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179906,
+        "num": 179906,
+        "word": "巨人完结篇前篇开分9.5",
+        "onboard_time": 1677903387,
+        "rank": 31,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 176547,
+        "num": 176547,
+        "word": "黄婉秋逝世",
+        "onboard_time": 1677887061,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174037,
+        "num": 174037,
+        "word": "张杰未live巡回演唱会首站官宣",
+        "onboard_time": 1677908964,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165722,
+        "num": 165722,
+        "word": "蔚来",
+        "onboard_time": 1677895525,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163483,
+        "num": 163483,
+        "word": "小S二女儿跳lovedive视频",
+        "onboard_time": 1677896306,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160441,
+        "num": 160441,
+        "word": "快船五连败",
+        "onboard_time": 1677910166,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158310,
+        "num": 158310,
+        "word": "如何看待巴黎要求梅西降薪",
+        "onboard_time": 1677906866,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152589,
+        "num": 152589,
+        "word": "女生下班发现狗狗拆家收拾到凌晨",
+        "onboard_time": 1677899965,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157845,
+        "num": 151930,
+        "word": "梅西拒绝降薪续约",
+        "onboard_time": 1677892225,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150342,
+        "num": 150342,
+        "word": "蔚来称零容忍员工违法犯罪行为",
+        "onboard_time": 1677896069,
+        "rank": 40,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 147150,
+        "num": 147150,
+        "word": "蒋敦豪人总不能一直倒霉吧",
+        "onboard_time": 1677910224,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145565,
+        "num": 145565,
+        "word": "长宁3.0级地震",
+        "onboard_time": 1677906208,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139979,
+        "num": 139979,
+        "word": "首场委员通道采访直播",
+        "onboard_time": 1677911245,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 128631,
+        "num": 128631,
+        "word": "时代少年团一周年演唱会排练视频",
+        "onboard_time": 1677907227,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123784,
+        "num": 123784,
+        "word": "檀健次模仿疯驴子",
+        "onboard_time": 1677905545,
+        "rank": 45,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 122177,
+        "num": 122177,
+        "word": "森林狼vs湖人",
+        "onboard_time": 1677906268,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121760,
+        "num": 121760,
+        "word": "建议发钱鼓励生孩要关注第一孩",
+        "onboard_time": 1677892706,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118260,
+        "num": 118260,
+        "word": "Viper说Tarzan是分奴",
+        "onboard_time": 1677905787,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116679,
+        "num": 116679,
+        "word": "宋亚轩新歌是高姗填词",
+        "onboard_time": 1677901466,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大一次会议发布会#"
+    }
+  }
+}
