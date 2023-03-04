@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677933256555,
+  "endTime": 1677934307441,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2488875,
-      "num": 267259,
+      "num": 285265,
       "word": "浪姐4最终阵容",
       "onboard_time": 1677919706,
       "rank": 10,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1834727,
+      "num": 285811,
+      "word": "难哄",
+      "onboard_time": 1677931289,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1832959,
       "num": 476874,
       "word": "警方通报16岁女孩殴打三轮车阿姨",
@@ -200,14 +208,6 @@
       "word": "烽火流金 空降",
       "onboard_time": 1677745170,
       "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1757959,
-      "num": 229729,
-      "word": "难哄",
-      "onboard_time": 1677931289,
-      "rank": 10,
       "category": "影视"
     },
     {
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 1151341,
-      "num": 229413,
+      "num": 285114,
       "word": "徐明浩直播喝茅台",
       "onboard_time": 1677930687,
       "rank": 12,
@@ -851,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1006115,
+      "num": 284429,
+      "word": "小水会来吗",
+      "onboard_time": 1677930387,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1004519,
       "num": 1004519,
       "word": "15岁女生被西交大少年班录取",
@@ -897,14 +905,6 @@
       "onboard_time": 1677712400,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 984677,
-      "num": 229320,
-      "word": "小水会来吗",
-      "onboard_time": 1677930387,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 979865,
@@ -961,6 +961,14 @@
       "onboard_time": 1677724286,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 947590,
+      "num": 947590,
+      "word": "人大代表谈中传硕士在火锅店当保洁",
+      "onboard_time": 1677929305,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 928046,
@@ -1459,14 +1467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 724584,
-      "num": 724584,
-      "word": "人大代表谈中传硕士在火锅店当保洁",
-      "onboard_time": 1677929305,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 721227,
       "num": 721227,
       "word": "深圳一业主拆迁9栋楼",
@@ -1580,7 +1580,7 @@
     },
     {
       "raw_hot": 689902,
-      "num": 229047,
+      "num": 282529,
       "word": "白敬亭宋轶长风渡下证",
       "onboard_time": 1677928767,
       "rank": 14,
@@ -1857,6 +1857,14 @@
       "onboard_time": 1677857188,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 610224,
+      "num": 283514,
+      "word": "EDG 清算",
+      "onboard_time": 1677930867,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 608203,
@@ -2137,6 +2145,14 @@
       "onboard_time": 1677765269,
       "rank": 30,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 547889,
+      "num": 282068,
+      "word": "利路修将与鲁鲁修联动",
+      "onboard_time": 1677933386,
+      "rank": 17,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 547876,
@@ -2515,6 +2531,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 480853,
+      "num": 350446,
+      "word": "EDG对战LNG",
+      "onboard_time": 1677928107,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 474168,
       "num": 474168,
       "word": "张佳宁长发梦回林北星",
@@ -2689,6 +2713,14 @@
       "onboard_time": 1677727229,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446896,
+      "num": 280464,
+      "word": "檀健次背田曦薇",
+      "onboard_time": 1677932665,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 446891,
@@ -2876,7 +2908,7 @@
     },
     {
       "raw_hot": 424481,
-      "num": 246688,
+      "num": 286685,
       "word": "人大代表带着螺蛳粉参加两会",
       "onboard_time": 1677925467,
       "rank": 34,
@@ -3009,14 +3041,6 @@
       "onboard_time": 1677643589,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 401416,
-      "num": 228741,
-      "word": "EDG 清算",
-      "onboard_time": 1677930867,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 400502,
@@ -3483,6 +3507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346662,
+      "num": 279855,
+      "word": "满江红实时票房破45亿",
+      "onboard_time": 1677933927,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 346505,
       "num": 241122,
       "word": "苏醒放哪里合适",
@@ -3585,6 +3617,14 @@
       "onboard_time": 1677589650,
       "rank": 16,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 337370,
+      "num": 279429,
+      "word": "我减肥失败的原因找到了",
+      "onboard_time": 1677932486,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 335753,
@@ -4004,7 +4044,7 @@
     },
     {
       "raw_hot": 300247,
-      "num": 227951,
+      "num": 279211,
       "word": "郑秀妍黄色拖地长裙",
       "onboard_time": 1677931946,
       "rank": 20,
@@ -4715,12 +4755,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241022,
+      "num": 241022,
+      "word": "陈伟霆讲最遗憾的事",
+      "onboard_time": 1677932605,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240135,
       "num": 240135,
       "word": "白鹿以爱为营白色贝雷帽造型",
       "onboard_time": 1677633749,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240135,
+      "num": 287439,
+      "word": "Hero锁定S组",
+      "onboard_time": 1677933267,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 239520,
@@ -4761,14 +4817,6 @@
       "onboard_time": 1677668068,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 236481,
-      "num": 236481,
-      "word": "EDG对战LNG",
-      "onboard_time": 1677928107,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 236372,
@@ -4921,14 +4969,6 @@
       "onboard_time": 1677719186,
       "rank": 24,
       "category": "科技"
-    },
-    {
-      "raw_hot": 226385,
-      "num": 226385,
-      "word": "我减肥失败的原因找到了",
-      "onboard_time": 1677932486,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 226364,
@@ -5103,14 +5143,6 @@
       "num": 220193,
       "word": "姚晨还原赌神名场面",
       "onboard_time": 1677899068,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 220008,
-      "num": 220008,
-      "word": "檀健次背田曦薇",
-      "onboard_time": 1677932665,
       "rank": 26,
       "category": "综艺"
     },
@@ -6259,6 +6291,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 179776,
+      "num": 179776,
+      "word": "艾薇儿",
+      "onboard_time": 1677934287,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177756,
       "num": 165945,
       "word": "邢菲说第一次演现实题材作品",
@@ -6345,6 +6385,14 @@
       "onboard_time": 1677646593,
       "rank": 45,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 172605,
+      "num": 172605,
+      "word": "AG 觉醒",
+      "onboard_time": 1677934287,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 172289,
@@ -6688,14 +6736,6 @@
       "word": "谁是宝藏歌手",
       "onboard_time": 1677923547,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 155064,
-      "num": 155064,
-      "word": "陈伟霆讲最遗憾的事",
-      "onboard_time": 1677932605,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -7747,6 +7787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106584,
+      "num": 106584,
+      "word": "广厦男篮vs广东男篮",
+      "onboard_time": 1677933206,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106310,
       "num": 106310,
       "word": "建议消除对罪犯子女考公的限制",
@@ -7849,6 +7897,14 @@
       "onboard_time": 1677838827,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96778,
+      "num": 96778,
+      "word": "极限挑战宝藏行",
+      "onboard_time": 1677934106,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 95790,
@@ -8025,14 +8081,6 @@
       "onboard_time": 1677848425,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81535,
-      "num": 81535,
-      "word": "广厦男篮vs广东男篮",
-      "onboard_time": 1677933206,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 80398,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1677934307441,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 947590,
+        "num": 947590,
+        "word": "人大代表谈中传硕士在火锅店当保洁",
+        "onboard_time": 1677929305,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474296,
+        "num": 474296,
+        "word": "代表建议提前高考让学生好好过端午",
+        "onboard_time": 1677926849,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34321,
+        "num": 354545,
+        "word": "全国政协开幕会全场高唱国歌",
+        "onboard_time": 1677916047,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 603024,
+        "num": 351037,
+        "word": "男子回应大学4年赚100多万",
+        "onboard_time": 1677920784,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480853,
+        "num": 350446,
+        "word": "EDG对战LNG",
+        "onboard_time": 1677928107,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 330257,
+        "num": 330257,
+        "word": "感动中国年度人物颁奖",
+        "onboard_time": 1677930625,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307917,
+        "num": 307917,
+        "word": "15岁女生被西交大少年班录取",
+        "onboard_time": 1677924507,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 287440,
+        "num": 287440,
+        "word": "林诗栋 牛的哇",
+        "onboard_time": 1677929905,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240135,
+        "num": 287439,
+        "word": "Hero锁定S组",
+        "onboard_time": 1677933267,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229989,
+        "num": 286685,
+        "word": "人大代表带着螺蛳粉参加两会",
+        "onboard_time": 1677925467,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1834727,
+        "num": 285811,
+        "word": "难哄",
+        "onboard_time": 1677931289,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1071936,
+        "num": 285265,
+        "word": "浪姐4最终阵容",
+        "onboard_time": 1677919706,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1015638,
+        "num": 285114,
+        "word": "徐明浩直播喝茅台",
+        "onboard_time": 1677930687,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1006115,
+        "num": 284429,
+        "word": "小水会来吗",
+        "onboard_time": 1677930387,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 624685,
+        "num": 284060,
+        "word": "警方通报16岁女孩殴打三轮车阿姨",
+        "onboard_time": 1677911005,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610224,
+        "num": 283514,
+        "word": "EDG 清算",
+        "onboard_time": 1677930867,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 583067,
+        "num": 282529,
+        "word": "白敬亭宋轶长风渡下证",
+        "onboard_time": 1677928767,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547889,
+        "num": 282068,
+        "word": "利路修将与鲁鲁修联动",
+        "onboard_time": 1677933386,
+        "rank": 17,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 365767,
+        "num": 281455,
+        "word": "光渊",
+        "onboard_time": 1677927325,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358017,
+        "num": 281294,
+        "word": "女护士下班摆摊卖无菌烤肠",
+        "onboard_time": 1677917664,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446896,
+        "num": 280464,
+        "word": "檀健次背田曦薇",
+        "onboard_time": 1677932665,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346662,
+        "num": 279855,
+        "word": "满江红实时票房破45亿",
+        "onboard_time": 1677933927,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337370,
+        "num": 279429,
+        "word": "我减肥失败的原因找到了",
+        "onboard_time": 1677932486,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279211,
+        "num": 279211,
+        "word": "郑秀妍黄色拖地长裙",
+        "onboard_time": 1677931946,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261086,
+        "num": 261086,
+        "word": "张婧仪陈哲远 白色橄榄树",
+        "onboard_time": 1677922586,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244559,
+        "num": 244559,
+        "word": "与非门 蒋凡",
+        "onboard_time": 1677918986,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241022,
+        "num": 241022,
+        "word": "陈伟霆讲最遗憾的事",
+        "onboard_time": 1677932605,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223641,
+        "num": 223641,
+        "word": "听说你喜欢我大结局",
+        "onboard_time": 1677929125,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221818,
+        "num": 221818,
+        "word": "南极洲深海拍到罕见冥河水母",
+        "onboard_time": 1677921926,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218338,
+        "num": 218338,
+        "word": "喻言榆野绿纱裙",
+        "onboard_time": 1677932486,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194618,
+        "num": 194618,
+        "word": "RNG中单",
+        "onboard_time": 1677924683,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185263,
+        "num": 185263,
+        "word": "特斯拉疑失控连撞多车冲毁店门",
+        "onboard_time": 1677918866,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179776,
+        "num": 179776,
+        "word": "艾薇儿",
+        "onboard_time": 1677934287,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173607,
+        "num": 173607,
+        "word": "林孝埈",
+        "onboard_time": 1677914845,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172605,
+        "num": 172605,
+        "word": "AG 觉醒",
+        "onboard_time": 1677934287,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166816,
+        "num": 166816,
+        "word": "狼队新人",
+        "onboard_time": 1677925526,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165339,
+        "num": 165339,
+        "word": "春日壁纸",
+        "onboard_time": 1677927747,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153120,
+        "num": 153120,
+        "word": "赵丽颖黑纱遮面路透",
+        "onboard_time": 1677923007,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150792,
+        "num": 150792,
+        "word": "周杰伦 悉尼",
+        "onboard_time": 1677911183,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137257,
+        "num": 137257,
+        "word": "中国护照的含金量越来越高",
+        "onboard_time": 1677914065,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 113076,
+        "num": 113076,
+        "word": "玄商求母后催婚",
+        "onboard_time": 1677926367,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108403,
+        "num": 108403,
+        "word": "死亡万花筒故事概要",
+        "onboard_time": 1677923365,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106584,
+        "num": 106584,
+        "word": "广厦男篮vs广东男篮",
+        "onboard_time": 1677933206,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106214,
+        "num": 106214,
+        "word": "张新成问有那么多人看光渊吗",
+        "onboard_time": 1677916225,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101013,
+        "num": 101013,
+        "word": "2023年春季流感中医药防治方案",
+        "onboard_time": 1677932605,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98803,
+        "num": 98803,
+        "word": "建议高考外语必考改为选考",
+        "onboard_time": 1677913346,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96778,
+        "num": 96778,
+        "word": "极限挑战宝藏行",
+        "onboard_time": 1677934106,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96755,
+        "num": 96755,
+        "word": "建议对密室逃脱和剧本杀立法",
+        "onboard_time": 1677913346,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93817,
+        "num": 93817,
+        "word": "KSG的BP",
+        "onboard_time": 1677931705,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92896,
+        "num": 92896,
+        "word": "KPL",
+        "onboard_time": 1677927986,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
