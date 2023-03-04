@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677954145515,
+  "endTime": 1677954978459,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -8755,6 +8755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38982,
+      "num": 38982,
+      "word": "赵一博竟然会3D建模",
+      "onboard_time": 1677953776,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37974,
       "num": 37974,
       "word": "微博年度剧集",
@@ -8849,14 +8857,6 @@
       "onboard_time": 1677654027,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 31087,
-      "num": 31087,
-      "word": "赵一博竟然会3D建模",
-      "onboard_time": 1677953776,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 30757,
