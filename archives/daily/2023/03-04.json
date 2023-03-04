@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677934307441,
+  "endTime": 1677936137915,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2488875,
-      "num": 285265,
+      "num": 285775,
       "word": "浪姐4最终阵容",
       "onboard_time": 1677919706,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1834727,
-      "num": 285811,
+      "num": 286147,
       "word": "难哄",
       "onboard_time": 1677931289,
       "rank": 10,
@@ -57,6 +57,14 @@
       "onboard_time": 1677895525,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1691860,
+      "num": 283391,
+      "word": "迪丽热巴黑西装",
+      "onboard_time": 1677934646,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1566007,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 1006115,
-      "num": 284429,
+      "num": 285555,
       "word": "小水会来吗",
       "onboard_time": 1677930387,
       "rank": 13,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 801323,
+      "num": 285398,
+      "word": "艾薇儿",
+      "onboard_time": 1677934287,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 799519,
       "num": 799519,
       "word": "二刷狂飙才注意到李健这个设计",
@@ -331,8 +347,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 755672,
+      "num": 284979,
+      "word": "EDG 清算",
+      "onboard_time": 1677930867,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 753944,
-      "num": 281455,
+      "num": 281820,
       "word": "光渊",
       "onboard_time": 1677927325,
       "rank": 13,
@@ -380,11 +404,19 @@
     },
     {
       "raw_hot": 689902,
-      "num": 282529,
+      "num": 282730,
       "word": "白敬亭宋轶长风渡下证",
       "onboard_time": 1677928767,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 686537,
+      "num": 284380,
+      "word": "利路修将与鲁鲁修联动",
+      "onboard_time": 1677933386,
+      "rank": 17,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 665619,
@@ -393,6 +425,14 @@
       "onboard_time": 1677903327,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 646036,
+      "num": 422360,
+      "word": "Jiejie拥抱Scout",
+      "onboard_time": 1677934887,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 623879,
@@ -411,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 610224,
-      "num": 283514,
-      "word": "EDG 清算",
-      "onboard_time": 1677930867,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 603389,
       "num": 603389,
       "word": "代表建议提前高考让学生好好过端午",
@@ -433,6 +465,14 @@
       "onboard_time": 1677887544,
       "rank": 4,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 577414,
+      "num": 283843,
+      "word": "满江红实时票房破45亿",
+      "onboard_time": 1677933927,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 575627,
@@ -475,12 +515,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 547889,
-      "num": 282068,
-      "word": "利路修将与鲁鲁修联动",
-      "onboard_time": 1677933386,
-      "rank": 17,
-      "category": "动漫,艺人"
+      "raw_hot": 546925,
+      "num": 406925,
+      "word": "EDG对战LNG",
+      "onboard_time": 1677928107,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 542290,
@@ -555,14 +595,6 @@
       "category": "情感,财经"
     },
     {
-      "raw_hot": 480853,
-      "num": 350446,
-      "word": "EDG对战LNG",
-      "onboard_time": 1677928107,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 458551,
       "num": 299180,
       "word": "SMTOWN新女团将举办见面会",
@@ -572,11 +604,19 @@
     },
     {
       "raw_hot": 446896,
-      "num": 280464,
+      "num": 282342,
       "word": "檀健次背田曦薇",
       "onboard_time": 1677932665,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 437458,
+      "num": 283063,
+      "word": "我减肥失败的原因找到了",
+      "onboard_time": 1677932486,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 436374,
@@ -585,6 +625,14 @@
       "onboard_time": 1677859824,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 435888,
+      "num": 435888,
+      "word": "感动中国年度人物颁奖",
+      "onboard_time": 1677930625,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429343,
@@ -651,6 +699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 381206,
+      "num": 282936,
+      "word": "许魏洲送刘耀文吉他",
+      "onboard_time": 1677935547,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380682,
       "num": 265420,
       "word": "死亡万花筒故事概要",
@@ -672,6 +728,14 @@
       "word": "丁程鑫录制第一期你好星期六",
       "onboard_time": 1677902427,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 370179,
+      "num": 283642,
+      "word": "浪姐 Aump",
+      "onboard_time": 1677935608,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -723,14 +787,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 346662,
-      "num": 279855,
-      "word": "满江红实时票房破45亿",
-      "onboard_time": 1677933927,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 346505,
       "num": 241122,
       "word": "苏醒放哪里合适",
@@ -739,28 +795,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346496,
+      "num": 346496,
+      "word": "AG 觉醒",
+      "onboard_time": 1677934287,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 345850,
       "num": 345850,
       "word": "我们的客栈下期有钟汉良檀健次",
       "onboard_time": 1677858447,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 342173,
-      "num": 342173,
-      "word": "感动中国年度人物颁奖",
-      "onboard_time": 1677930625,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337370,
-      "num": 279429,
-      "word": "我减肥失败的原因找到了",
-      "onboard_time": 1677932486,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 335753,
@@ -931,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281693,
+      "num": 281693,
+      "word": "陈伟霆讲最遗憾的事",
+      "onboard_time": 1677932605,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281647,
       "num": 244840,
       "word": "Viper说Tarzan是分奴",
@@ -953,6 +1009,14 @@
       "onboard_time": 1677902005,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 267090,
+      "num": 267090,
+      "word": "何与沈月额头吻",
+      "onboard_time": 1677934466,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 266590,
@@ -1049,14 +1113,6 @@
       "onboard_time": 1677929125,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 241022,
-      "num": 241022,
-      "word": "陈伟霆讲最遗憾的事",
-      "onboard_time": 1677932605,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 240135,
@@ -1259,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205174,
+      "num": 205174,
+      "word": "KSG教练",
+      "onboard_time": 1677934887,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203757,
       "num": 203757,
       "word": "十四届全国人大一次会议会期8天半",
@@ -1291,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199155,
+      "num": 199155,
+      "word": "Fly第一场没哭",
+      "onboard_time": 1677935846,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198863,
       "num": 198863,
       "word": "刘宇出发参加巴黎时装周",
@@ -1321,6 +1393,14 @@
       "onboard_time": 1677914065,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 193764,
+      "num": 193764,
+      "word": "魏无羡春季赛淘汰突破100",
+      "onboard_time": 1677934587,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 192960,
@@ -1395,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179776,
-      "num": 179776,
-      "word": "艾薇儿",
-      "onboard_time": 1677934287,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177302,
       "num": 177302,
       "word": "蒋敦豪人总不能一直倒霉吧",
@@ -1425,14 +1497,6 @@
       "onboard_time": 1677853591,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 172605,
-      "num": 172605,
-      "word": "AG 觉醒",
-      "onboard_time": 1677934287,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 172289,
@@ -1521,6 +1585,14 @@
       "onboard_time": 1677913884,
       "rank": 8,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 157380,
+      "num": 157380,
+      "word": "EDG战胜LNG",
+      "onboard_time": 1677934587,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 155097,
@@ -1833,6 +1905,14 @@
       "onboard_time": 1677853770,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114165,
+      "num": 114165,
+      "word": "风吹半夏美国预告",
+      "onboard_time": 1677934346,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 113880,
