@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1677962028043,
+  "endTime": 1677964566918,
   "band_list": [
     {
       "raw_hot": 1384707,
@@ -371,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100799,
+      "num": 31698,
+      "word": "美国一州设毒品安全注射点方便吸毒者",
+      "onboard_time": 1677960792,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100112,
       "num": 100112,
       "word": "AG 觉醒",
@@ -435,16 +443,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 52033,
-      "num": 31698,
-      "word": "美国一州设毒品安全注射点方便吸毒者",
-      "onboard_time": 1677960792,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48860,
-      "num": 48860,
+      "raw_hot": 54250,
+      "num": 54250,
       "word": "巴黎圣日耳曼vs南特",
       "onboard_time": 1677959592,
       "rank": 15,
