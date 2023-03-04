@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677922428289,
+  "endTime": 1677925152844,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 2488875,
-      "num": 257918,
+      "num": 267259,
       "word": "浪姐4最终阵容",
       "onboard_time": 1677919706,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2309499,
+      "num": 2309499,
+      "word": "建议停止向未成年提供网络游戏服务",
+      "onboard_time": 1677921806,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1973327,
@@ -80,6 +88,14 @@
       "word": "在美华人称见到丫丫感觉非常震撼",
       "onboard_time": 1677890367,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1206348,
+      "num": 446305,
+      "word": "男子回应大学4年赚100多万",
+      "onboard_time": 1677920784,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -163,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 957161,
+      "num": 266790,
+      "word": "张婧仪陈哲远 白色橄榄树",
+      "onboard_time": 1677922586,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 904100,
       "num": 317477,
       "word": "刘亦菲出发巴黎",
@@ -193,14 +217,6 @@
       "onboard_time": 1677891448,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 856638,
-      "num": 319461,
-      "word": "男子回应大学4年赚100多万",
-      "onboard_time": 1677920784,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 832101,
@@ -412,11 +428,19 @@
     },
     {
       "raw_hot": 519930,
-      "num": 256170,
+      "num": 265168,
       "word": "特斯拉疑失控连撞多车冲毁店门",
       "onboard_time": 1677918866,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 508711,
+      "num": 265829,
+      "word": "赵丽颖黑纱遮面路透",
+      "onboard_time": 1677923007,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 487153,
@@ -497,6 +521,14 @@
       "onboard_time": 1677909265,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 380682,
+      "num": 265420,
+      "word": "死亡万花筒故事概要",
+      "onboard_time": 1677923365,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 376142,
@@ -611,6 +643,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 325105,
+      "num": 264374,
+      "word": "RNG中单",
+      "onboard_time": 1677924683,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 323434,
       "num": 323434,
       "word": "长宁3.0级地震",
@@ -657,14 +697,6 @@
       "onboard_time": 1677914065,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311866,
-      "num": 185276,
-      "word": "建议停止向未成年提供网络游戏服务",
-      "onboard_time": 1677921806,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 306749,
@@ -720,6 +752,14 @@
       "word": "女生下班发现狗狗拆家收拾到凌晨",
       "onboard_time": 1677899965,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281898,
+      "num": 264134,
+      "word": "南极洲深海拍到罕见冥河水母",
+      "onboard_time": 1677921926,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -827,6 +867,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239520,
+      "num": 239520,
+      "word": "张俪是张蔷livehouse嘉宾",
+      "onboard_time": 1677924626,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 235743,
+      "num": 268351,
+      "word": "TES对战RNG",
+      "onboard_time": 1677923967,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234826,
       "num": 234826,
       "word": "张杰未live巡回演唱会首站官宣",
@@ -867,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224385,
+      "num": 224385,
+      "word": "任素汐演技",
+      "onboard_time": 1677923365,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224264,
       "num": 491150,
       "word": "狗狗示意主人开门的方式",
@@ -889,6 +953,14 @@
       "onboard_time": 1677831749,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 220377,
+      "num": 220377,
+      "word": "杨颖宋威龙同框骑马",
+      "onboard_time": 1677922586,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 220193,
@@ -1075,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178585,
+      "num": 178585,
+      "word": "15岁女生被西交大少年班录取",
+      "onboard_time": 1677924507,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 177302,
       "num": 177302,
       "word": "蒋敦豪人总不能一直倒霉吧",
@@ -1185,6 +1265,14 @@
       "onboard_time": 1677913884,
       "rank": 8,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 155097,
+      "num": 155097,
+      "word": "谁是宝藏歌手",
+      "onboard_time": 1677923547,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 154651,
@@ -1299,6 +1387,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 138000,
+      "num": 138000,
+      "word": "宋亚轩新歌制作vlog",
+      "onboard_time": 1677923666,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 137924,
       "num": 137924,
       "word": "熊猫和花周边销量飙升906%",
@@ -1355,20 +1451,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129730,
+      "num": 129730,
+      "word": "狼队对战KSG",
+      "onboard_time": 1677924806,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129689,
       "num": 129689,
       "word": "王勉 底商",
       "onboard_time": 1677907468,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126312,
-      "num": 126312,
-      "word": "南极洲深海拍到罕见冥河水母",
-      "onboard_time": 1677921926,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126257,
@@ -1395,19 +1491,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 124313,
+      "num": 124313,
+      "word": "杭州无人机表演将万朵鲜花送雷锋",
+      "onboard_time": 1677921087,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122637,
       "num": 122637,
       "word": "小羊长相清秀酷似水墨画",
       "onboard_time": 1677898468,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120084,
-      "num": 120084,
-      "word": "杭州无人机表演将万朵鲜花送雷锋",
-      "onboard_time": 1677921087,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1505,6 +1601,14 @@
       "onboard_time": 1677889165,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106640,
+      "num": 106640,
+      "word": "李一桐毕雯珺录制你好星期六",
+      "onboard_time": 1677923908,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 106068,
@@ -1745,6 +1849,14 @@
       "onboard_time": 1677854009,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15882,
+      "num": 133506,
+      "word": "新欢功能成社交新潮流",
+      "onboard_time": 1677924029,
+      "rank": 39,
+      "category": "科技,社会新闻"
     }
   ],
   "hotgov_list": [
