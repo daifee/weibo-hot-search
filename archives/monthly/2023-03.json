@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677898614914,
+  "endTime": 1677900024159,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -723,6 +723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1014153,
+      "num": 704631,
+      "word": "BLACKPINK澳门演唱会",
+      "onboard_time": 1677897146,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1012870,
       "num": 448533,
       "word": "于正回复蒋龙",
@@ -843,20 +851,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 905700,
-      "num": 704631,
-      "word": "BLACKPINK澳门演唱会",
-      "onboard_time": 1677897146,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 904523,
       "num": 904523,
       "word": "贝克街的亡灵定档",
       "onboard_time": 1677727526,
       "rank": 33,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 903894,
+      "num": 362700,
+      "word": "拜登接受皮肤癌手术",
+      "onboard_time": 1677898286,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 903550,
+      "num": 506076,
+      "word": "田曦薇卷发",
+      "onboard_time": 1677897986,
+      "rank": 17,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 895965,
@@ -1011,6 +1027,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 795138,
+      "num": 617153,
+      "word": "蔚来称零容忍员工违法犯罪行为",
+      "onboard_time": 1677896069,
+      "rank": 9,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 793583,
       "num": 793583,
       "word": "民政局回应出台彩礼举报公告",
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 745594,
-      "num": 281855,
+      "num": 296838,
       "word": "王昱珩谈杨笠普信男言论",
       "onboard_time": 1677887424,
       "rank": 20,
@@ -1251,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 714756,
+      "num": 593931,
+      "word": "于正否认嫡嫁千金阵容",
+      "onboard_time": 1677897447,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 713496,
       "num": 713496,
       "word": "鹅厂三月大剧片单",
@@ -1281,14 +1313,6 @@
       "onboard_time": 1677636750,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 705180,
-      "num": 506076,
-      "word": "田曦薇卷发",
-      "onboard_time": 1677897986,
-      "rank": 17,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 701062,
@@ -1369,14 +1393,6 @@
       "onboard_time": 1677635910,
       "rank": 6,
       "category": "网红"
-    },
-    {
-      "raw_hot": 671143,
-      "num": 617153,
-      "word": "蔚来称零容忍员工违法犯罪行为",
-      "onboard_time": 1677896069,
-      "rank": 9,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 670118,
@@ -1627,12 +1643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 593931,
-      "num": 593931,
-      "word": "于正否认嫡嫁千金阵容",
-      "onboard_time": 1677897447,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 591724,
+      "num": 180744,
+      "word": "周也悼念刘峰",
+      "onboard_time": 1677899068,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 590121,
@@ -1875,6 +1891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 545238,
+      "num": 297156,
+      "word": "小S二女儿跳lovedive视频",
+      "onboard_time": 1677896306,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 545233,
       "num": 242663,
       "word": "关晓彤荧光绿短裙",
@@ -2041,14 +2065,6 @@
       "onboard_time": 1677737844,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 516350,
-      "num": 286821,
-      "word": "小S二女儿跳lovedive视频",
-      "onboard_time": 1677896306,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 513594,
@@ -2859,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367762,
+      "num": 367762,
+      "word": "宋亚轩新歌评论破两百万",
+      "onboard_time": 1677899307,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 366632,
       "num": 366632,
       "word": "星落凝成糖上头名场面",
@@ -2995,6 +3019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 352236,
+      "num": 352236,
+      "word": "流浪猫回家两个月眼神变化",
+      "onboard_time": 1677896186,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 352098,
       "num": 352098,
       "word": "金星合木星",
@@ -3081,6 +3113,14 @@
       "onboard_time": 1677734608,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343281,
+      "num": 343281,
+      "word": "王鹤棣摘眼镜吻戏",
+      "onboard_time": 1677899125,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 342992,
@@ -3179,14 +3219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 329348,
-      "num": 329348,
-      "word": "流浪猫回家两个月眼神变化",
-      "onboard_time": 1677896186,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 329125,
       "num": 329125,
       "word": "诡秘之主",
@@ -3249,6 +3281,14 @@
       "onboard_time": 1677749370,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323002,
+      "num": 323002,
+      "word": "被夺笋的花花",
+      "onboard_time": 1677898647,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322555,
@@ -4891,14 +4931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199324,
-      "num": 131295,
-      "word": "拜登接受皮肤癌手术",
-      "onboard_time": 1677898286,
-      "rank": 31,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 198957,
       "num": 198957,
       "word": "我们的客栈",
@@ -4944,6 +4976,14 @@
       "word": "张栋梁唱林忆莲的失踪",
       "onboard_time": 1677842966,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197091,
+      "num": 197091,
+      "word": "姚晨还原赌神名场面",
+      "onboard_time": 1677899068,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -5035,6 +5075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194444,
+      "num": 194444,
+      "word": "大熊猫走姿似狂飙高启盛",
+      "onboard_time": 1677899307,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194158,
       "num": 166115,
       "word": "u20国足1比0领先日本u20",
@@ -5049,6 +5097,14 @@
       "onboard_time": 1677759210,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194006,
+      "num": 194006,
+      "word": "陈星旭光剑变装3.0",
+      "onboard_time": 1677899965,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 193433,
@@ -5660,7 +5716,7 @@
     },
     {
       "raw_hot": 163828,
-      "num": 130894,
+      "num": 158981,
       "word": "济南动物园小黑猩猩柒仔去世",
       "onboard_time": 1677897925,
       "rank": 32,
@@ -6171,6 +6227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134131,
+      "num": 134131,
+      "word": "国家老年大学正式揭牌",
+      "onboard_time": 1677897146,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 133815,
       "num": 133815,
       "word": "余生请多指教",
@@ -6193,14 +6257,6 @@
       "onboard_time": 1677838165,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 132557,
-      "num": 132557,
-      "word": "国家老年大学正式揭牌",
-      "onboard_time": 1677897146,
-      "rank": 36,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 132497,
@@ -6400,6 +6456,14 @@
       "word": "防腐剂对宝宝危害有多大",
       "onboard_time": 1677816209,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122637,
+      "num": 122637,
+      "word": "小羊长相清秀酷似水墨画",
+      "onboard_time": 1677898468,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6819,14 +6883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 84077,
-      "num": 84077,
-      "word": "小羊长相清秀酷似水墨画",
-      "onboard_time": 1677898468,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84012,
       "num": 84012,
       "word": "俄称美企图在乌使用化武嫁祸俄方",
@@ -6865,6 +6921,14 @@
       "onboard_time": 1677848425,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81527,
+      "num": 81527,
+      "word": "玄武湖春色满园意境拉满",
+      "onboard_time": 1677899847,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 80398,
@@ -6913,6 +6977,14 @@
       "onboard_time": 1677888385,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77181,
+      "num": 77181,
+      "word": "女生下班发现狗狗拆家收拾到凌晨",
+      "onboard_time": 1677899965,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73434,

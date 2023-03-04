@@ -1,0 +1,410 @@
+{
+  "runTime": 1677900024159,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1013209,
+        "num": 1013209,
+        "word": "在美华人称见到丫丫感觉非常震撼",
+        "onboard_time": 1677890367,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620152,
+        "num": 620152,
+        "word": "韩国熊猫爷爷用中文介绍福宝一家",
+        "onboard_time": 1677892945,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229202,
+        "num": 501823,
+        "word": "全国两会",
+        "onboard_time": 1677851068,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1014153,
+        "num": 495952,
+        "word": "BLACKPINK澳门演唱会",
+        "onboard_time": 1677897146,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 714756,
+        "num": 491338,
+        "word": "于正否认嫡嫁千金阵容",
+        "onboard_time": 1677897447,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 483688,
+        "num": 483688,
+        "word": "鹿晗强行请王勉吃糖葫芦",
+        "onboard_time": 1677895407,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478031,
+        "num": 478031,
+        "word": "苹果经典静音按钮或被按压式按钮取代",
+        "onboard_time": 1677895106,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 468207,
+        "num": 468207,
+        "word": "梅西拒绝降薪续约",
+        "onboard_time": 1677892225,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368842,
+        "num": 368842,
+        "word": "父亲请求留下病故爱子身份证",
+        "onboard_time": 1677892467,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367762,
+        "num": 367762,
+        "word": "宋亚轩新歌评论破两百万",
+        "onboard_time": 1677899307,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2153020,
+        "num": 367115,
+        "word": "25岁男演员刘峰去世",
+        "onboard_time": 1677885859,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 903894,
+        "num": 362700,
+        "word": "拜登接受皮肤癌手术",
+        "onboard_time": 1677898286,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 903550,
+        "num": 360632,
+        "word": "田曦薇卷发",
+        "onboard_time": 1677897986,
+        "rank": 12,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 834058,
+        "num": 357755,
+        "word": "黄婉秋逝世",
+        "onboard_time": 1677887061,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795138,
+        "num": 356923,
+        "word": "蔚来称零容忍员工违法犯罪行为",
+        "onboard_time": 1677896069,
+        "rank": 14,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 458293,
+        "num": 352302,
+        "word": "你发癫 人家问地你答天",
+        "onboard_time": 1677891448,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352236,
+        "num": 352236,
+        "word": "流浪猫回家两个月眼神变化",
+        "onboard_time": 1677896186,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343281,
+        "num": 343281,
+        "word": "王鹤棣摘眼镜吻戏",
+        "onboard_time": 1677899125,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323002,
+        "num": 323002,
+        "word": "被夺笋的花花",
+        "onboard_time": 1677898647,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300421,
+        "num": 300421,
+        "word": "双鱼座藏起来的一面",
+        "onboard_time": 1677893787,
+        "rank": 19,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 545238,
+        "num": 297156,
+        "word": "小S二女儿跳lovedive视频",
+        "onboard_time": 1677896306,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345283,
+        "num": 296838,
+        "word": "王昱珩谈杨笠普信男言论",
+        "onboard_time": 1677887424,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293811,
+        "num": 293811,
+        "word": "大学每月生活费2000是什么水平",
+        "onboard_time": 1677849145,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293196,
+        "num": 293196,
+        "word": "建议发钱鼓励生孩要关注第一孩",
+        "onboard_time": 1677892706,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230964,
+        "num": 230964,
+        "word": "建议试行十二年义务教育",
+        "onboard_time": 1677891747,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228773,
+        "num": 228773,
+        "word": "进击的巨人",
+        "onboard_time": 1677885618,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 197091,
+        "num": 197091,
+        "word": "姚晨还原赌神名场面",
+        "onboard_time": 1677899068,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194444,
+        "num": 194444,
+        "word": "大熊猫走姿似狂飙高启盛",
+        "onboard_time": 1677899307,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 776708,
+        "num": 194349,
+        "word": "黄色iPhone14",
+        "onboard_time": 1677888925,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 194006,
+        "num": 194006,
+        "word": "陈星旭光剑变装3.0",
+        "onboard_time": 1677899965,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 775046,
+        "num": 190593,
+        "word": "蔚来",
+        "onboard_time": 1677895525,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 591724,
+        "num": 180744,
+        "word": "周也悼念刘峰",
+        "onboard_time": 1677899068,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167254,
+        "num": 167254,
+        "word": "Brainy is the new sexy",
+        "onboard_time": 1677894504,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158981,
+        "num": 158981,
+        "word": "济南动物园小黑猩猩柒仔去世",
+        "onboard_time": 1677897925,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153034,
+        "num": 153034,
+        "word": "苏醒放哪里合适",
+        "onboard_time": 1677892165,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144533,
+        "num": 144533,
+        "word": "甲午战争沉舰发现大口径炮弹",
+        "onboard_time": 1677887544,
+        "rank": 35,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 135811,
+        "num": 135811,
+        "word": "丁程鑫 好6团",
+        "onboard_time": 1677888145,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134131,
+        "num": 134131,
+        "word": "国家老年大学正式揭牌",
+        "onboard_time": 1677897146,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 134092,
+        "num": 134092,
+        "word": "电影回廊亭口碑",
+        "onboard_time": 1677896487,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122637,
+        "num": 122637,
+        "word": "小羊长相清秀酷似水墨画",
+        "onboard_time": 1677898468,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120503,
+        "num": 120503,
+        "word": "王雨城淘汰",
+        "onboard_time": 1677896247,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101216,
+        "num": 101216,
+        "word": "二刷狂飙才注意到李健这个设计",
+        "onboard_time": 1677852148,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99715,
+        "num": 99715,
+        "word": "美称迫于德国压力向乌提供坦克",
+        "onboard_time": 1677860303,
+        "rank": 42,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 98288,
+        "num": 98288,
+        "word": "奖门人 传海苔",
+        "onboard_time": 1677894025,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95884,
+        "num": 95884,
+        "word": "你刚毕业时的月薪是多少",
+        "onboard_time": 1677855389,
+        "rank": 44,
+        "category": "情感,财经"
+      },
+      {
+        "raw_hot": 91916,
+        "num": 91916,
+        "word": "星落凝成糖",
+        "onboard_time": 1677885498,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90161,
+        "num": 90161,
+        "word": "林俊杰vlog辟谣网传内地巡演",
+        "onboard_time": 1677889107,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86813,
+        "num": 86813,
+        "word": "宜古宜今的演员脸",
+        "onboard_time": 1677862639,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81527,
+        "num": 81527,
+        "word": "玄武湖春色满园意境拉满",
+        "onboard_time": 1677899847,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 77181,
+        "num": 77181,
+        "word": "女生下班发现狗狗拆家收拾到凌晨",
+        "onboard_time": 1677899965,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的事#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677898614914,
+  "endTime": 1677900024159,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1304155,
-      "num": 276781,
+      "num": 293811,
       "word": "大学每月生活费2000是什么水平",
       "onboard_time": 1677849145,
       "rank": 20,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1014153,
+      "num": 704631,
+      "word": "BLACKPINK澳门演唱会",
+      "onboard_time": 1677897146,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 964212,
       "num": 964212,
       "word": "梅西拒绝降薪续约",
@@ -59,12 +67,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 905700,
-      "num": 704631,
-      "word": "BLACKPINK澳门演唱会",
-      "onboard_time": 1677897146,
-      "rank": 5,
-      "category": "音乐"
+      "raw_hot": 903894,
+      "num": 362700,
+      "word": "拜登接受皮肤癌手术",
+      "onboard_time": 1677898286,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 903550,
+      "num": 506076,
+      "word": "田曦薇卷发",
+      "onboard_time": 1677897986,
+      "rank": 17,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 859728,
@@ -91,8 +107,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 795138,
+      "num": 617153,
+      "word": "蔚来称零容忍员工违法犯罪行为",
+      "onboard_time": 1677896069,
+      "rank": 9,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 745594,
-      "num": 281855,
+      "num": 296838,
       "word": "王昱珩谈杨笠普信男言论",
       "onboard_time": 1677887424,
       "rank": 20,
@@ -107,20 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 705180,
-      "num": 506076,
-      "word": "田曦薇卷发",
-      "onboard_time": 1677897986,
-      "rank": 17,
-      "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 671143,
-      "num": 617153,
-      "word": "蔚来称零容忍员工违法犯罪行为",
-      "onboard_time": 1677896069,
-      "rank": 9,
-      "category": "科技,财经"
+      "raw_hot": 714756,
+      "num": 593931,
+      "word": "于正否认嫡嫁千金阵容",
+      "onboard_time": 1677897447,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 614286,
@@ -131,12 +147,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 593931,
-      "num": 593931,
-      "word": "于正否认嫡嫁千金阵容",
-      "onboard_time": 1677897447,
-      "rank": 16,
-      "category": "影视"
+      "raw_hot": 591724,
+      "num": 180744,
+      "word": "周也悼念刘峰",
+      "onboard_time": 1677899068,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 590121,
@@ -171,6 +187,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 545238,
+      "num": 297156,
+      "word": "小S二女儿跳lovedive视频",
+      "onboard_time": 1677896306,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 542290,
       "num": 542290,
       "word": "建议发钱鼓励生孩要关注第一孩",
@@ -193,14 +217,6 @@
       "onboard_time": 1677895106,
       "rank": 49,
       "category": "科技"
-    },
-    {
-      "raw_hot": 516350,
-      "num": 286821,
-      "word": "小S二女儿跳lovedive视频",
-      "onboard_time": 1677896306,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 487153,
@@ -243,12 +259,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367762,
+      "num": 367762,
+      "word": "宋亚轩新歌评论破两百万",
+      "onboard_time": 1677899307,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 357634,
       "num": 357634,
       "word": "大熊猫和花和叶已被广东一企业认养",
       "onboard_time": 1677844824,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352236,
+      "num": 352236,
+      "word": "流浪猫回家两个月眼神变化",
+      "onboard_time": 1677896186,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 348764,
@@ -275,12 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 329348,
-      "num": 329348,
-      "word": "流浪猫回家两个月眼神变化",
-      "onboard_time": 1677896186,
-      "rank": 19,
-      "category": "情感"
+      "raw_hot": 343281,
+      "num": 343281,
+      "word": "王鹤棣摘眼镜吻戏",
+      "onboard_time": 1677899125,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 325282,
@@ -289,6 +321,14 @@
       "onboard_time": 1677851610,
       "rank": 7,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 323002,
+      "num": 323002,
+      "word": "被夺笋的花花",
+      "onboard_time": 1677898647,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317401,
@@ -443,12 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199324,
-      "num": 131295,
-      "word": "拜登接受皮肤癌手术",
-      "onboard_time": 1677898286,
-      "rank": 31,
-      "category": "国外要闻"
+      "raw_hot": 197091,
+      "num": 197091,
+      "word": "姚晨还原赌神名场面",
+      "onboard_time": 1677899068,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 197044,
@@ -457,6 +497,22 @@
       "onboard_time": 1677886520,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194444,
+      "num": 194444,
+      "word": "大熊猫走姿似狂飙高启盛",
+      "onboard_time": 1677899307,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 194006,
+      "num": 194006,
+      "word": "陈星旭光剑变装3.0",
+      "onboard_time": 1677899965,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 192960,
@@ -508,7 +564,7 @@
     },
     {
       "raw_hot": 163828,
-      "num": 130894,
+      "num": 158981,
       "word": "济南动物园小黑猩猩柒仔去世",
       "onboard_time": 1677897925,
       "rank": 32,
@@ -619,8 +675,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132557,
-      "num": 132557,
+      "raw_hot": 134131,
+      "num": 134131,
       "word": "国家老年大学正式揭牌",
       "onboard_time": 1677897146,
       "rank": 36,
@@ -657,6 +713,14 @@
       "onboard_time": 1677846505,
       "rank": 27,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 122637,
+      "num": 122637,
+      "word": "小羊长相清秀酷似水墨画",
+      "onboard_time": 1677898468,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117431,
@@ -755,20 +819,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 84077,
-      "num": 84077,
-      "word": "小羊长相清秀酷似水墨画",
-      "onboard_time": 1677898468,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83037,
       "num": 83037,
       "word": "李秀满选择方时赫的理由",
       "onboard_time": 1677850045,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81527,
+      "num": 81527,
+      "word": "玄武湖春色满园意境拉满",
+      "onboard_time": 1677899847,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 78793,
@@ -793,6 +857,14 @@
       "onboard_time": 1677838407,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 77181,
+      "num": 77181,
+      "word": "女生下班发现狗狗拆家收拾到凌晨",
+      "onboard_time": 1677899965,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76206,
