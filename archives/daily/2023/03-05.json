@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1677971902157,
+  "endTime": 1677972820422,
   "band_list": [
     {
       "raw_hot": 1384707,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528563,
-      "num": 193881,
+      "raw_hot": 639680,
+      "num": 233830,
       "word": "4岁娃17楼坠落140天后重新行走",
       "onboard_time": 1677955274,
       "rank": 10,
@@ -75,6 +75,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 407681,
+      "num": 196803,
+      "word": "女生玩梗对暗号遭小孩婉拒时代过了",
+      "onboard_time": 1677950898,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367536,
+      "num": 194172,
+      "word": "美国一州设毒品安全注射点方便吸毒者",
+      "onboard_time": 1677960792,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354992,
       "num": 276550,
       "word": "难哄",
@@ -91,14 +107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 324438,
-      "num": 136281,
-      "word": "女生玩梗对暗号遭小孩婉拒时代过了",
-      "onboard_time": 1677950898,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318348,
       "num": 318348,
       "word": "男子回应大学4年赚100多万",
@@ -113,14 +121,6 @@
       "onboard_time": 1677940049,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 293194,
-      "num": 134559,
-      "word": "美国一州设毒品安全注射点方便吸毒者",
-      "onboard_time": 1677960792,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291420,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193524,
+      "num": 193524,
+      "word": "莫兰特在直播中秀枪",
+      "onboard_time": 1677972077,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183356,
       "num": 183356,
       "word": "王心凌现场好稳",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 165391,
-      "num": 165391,
+      "num": 186587,
       "word": "梁靖崑3比1张本智和",
       "onboard_time": 1677942990,
       "rank": 28,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 121527,
-      "num": 140515,
+      "num": 257731,
       "word": "15岁女生被西交大少年班录取",
       "onboard_time": 1677924507,
       "rank": 37,
@@ -371,12 +379,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110961,
+      "num": 110961,
+      "word": "梅西俱乐部生涯制造1000球",
+      "onboard_time": 1677971957,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110281,
       "num": 114498,
       "word": "春日壁纸",
       "onboard_time": 1677927747,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104930,
+      "num": 104930,
+      "word": "编剧赵冬苓说UP主的吐槽启发了她",
+      "onboard_time": 1677967213,
+      "rank": 40,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 100112,
@@ -403,14 +427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 94081,
-      "num": 94081,
-      "word": "编剧赵冬苓说UP主的吐槽启发了她",
-      "onboard_time": 1677967213,
-      "rank": 40,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 90743,
       "num": 90743,
       "word": "流浪地球",
@@ -427,11 +443,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87688,
+      "num": 87688,
+      "word": "易烊千玺和雷佳音对戏笑到颤抖",
+      "onboard_time": 1677950957,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 85193,
       "num": 208790,
       "word": "巴黎圣日耳曼vs南特",
       "onboard_time": 1677959592,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84539,
+      "num": 201807,
+      "word": "莫兰特",
+      "onboard_time": 1677972678,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -443,12 +475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74229,
-      "num": 74229,
-      "word": "易烊千玺和雷佳音对戏笑到颤抖",
-      "onboard_time": 1677950957,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 74846,
+      "num": 74846,
+      "word": "尼尔森绝杀",
+      "onboard_time": 1677972077,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67977,
+      "num": 67977,
+      "word": "赴土耳其的搜救犬乘商务舱回国",
+      "onboard_time": 1677957793,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66580,
@@ -459,12 +499,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 60855,
-      "num": 60855,
-      "word": "赴土耳其的搜救犬乘商务舱回国",
-      "onboard_time": 1677957793,
+      "raw_hot": 49661,
+      "num": 49661,
+      "word": "这些文字记录雷锋短暂而深刻的一生",
+      "onboard_time": 1677972739,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47356,
+      "num": 47356,
+      "word": "孙悟空kingking",
+      "onboard_time": 1677972616,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 44651,
@@ -483,7 +531,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29071,
+      "raw_hot": 33014,
       "num": 432965,
       "word": "一组图速览两会知识",
       "onboard_time": 1677938549,
