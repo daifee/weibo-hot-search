@@ -1,0 +1,410 @@
+{
+  "runTime": 1677947064545,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 444276,
+        "num": 444276,
+        "word": "梁靖崑vs张本智和",
+        "onboard_time": 1677940889,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250204,
+        "num": 440956,
+        "word": "感动中国年度人物颁奖",
+        "onboard_time": 1677930625,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29071,
+        "num": 432965,
+        "word": "一组图速览两会知识",
+        "onboard_time": 1677938549,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 865701,
+        "num": 422897,
+        "word": "到北京动物园为丫丫探营的人好多",
+        "onboard_time": 1677942390,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444507,
+        "num": 417493,
+        "word": "浪姐4最终阵容",
+        "onboard_time": 1677919706,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410478,
+        "num": 410478,
+        "word": "一眼就能看出来不用上班的人",
+        "onboard_time": 1677938367,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318348,
+        "num": 318348,
+        "word": "男子回应大学4年赚100多万",
+        "onboard_time": 1677920784,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291420,
+        "num": 291420,
+        "word": "毒舌律师",
+        "onboard_time": 1677940889,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246057,
+        "num": 291131,
+        "word": "鹅鸭杀",
+        "onboard_time": 1677938068,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204002,
+        "num": 287825,
+        "word": "F1",
+        "onboard_time": 1677943651,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1384707,
+        "num": 284656,
+        "word": "主办方因为周杰伦多唱被罚钱",
+        "onboard_time": 1677941430,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 491308,
+        "num": 281440,
+        "word": "水母头",
+        "onboard_time": 1677939747,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 472855,
+        "num": 278318,
+        "word": "BKPP现场",
+        "onboard_time": 1677941308,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 354992,
+        "num": 276550,
+        "word": "难哄",
+        "onboard_time": 1677931289,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275556,
+        "num": 275556,
+        "word": "警方通报16岁女孩殴打三轮车阿姨",
+        "onboard_time": 1677911005,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262204,
+        "num": 262204,
+        "word": "小水会来吗",
+        "onboard_time": 1677930387,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253524,
+        "num": 253524,
+        "word": "郑秀妍Fly舞台",
+        "onboard_time": 1677941850,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236266,
+        "num": 236266,
+        "word": "刘宇宁直播回应脚伤",
+        "onboard_time": 1677946047,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212768,
+        "num": 212768,
+        "word": "张凌赫白鹿宁安如梦团综",
+        "onboard_time": 1677939087,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195631,
+        "num": 195631,
+        "word": "徐明浩直播喝茅台",
+        "onboard_time": 1677930687,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1224254,
+        "num": 195284,
+        "word": "迪丽热巴造型",
+        "onboard_time": 1677942691,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353379,
+        "num": 195222,
+        "word": "被工作气到可以拍拍腋窝",
+        "onboard_time": 1677943831,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311950,
+        "num": 195098,
+        "word": "肖战米兰时装周社交直拍",
+        "onboard_time": 1677940049,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194747,
+        "num": 194747,
+        "word": "李一桐版紫霞仙子",
+        "onboard_time": 1677936388,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193540,
+        "num": 193540,
+        "word": "2023F1巴林大奖赛",
+        "onboard_time": 1677947005,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192495,
+        "num": 192495,
+        "word": "艾薇儿",
+        "onboard_time": 1677934287,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183356,
+        "num": 183356,
+        "word": "王心凌现场好稳",
+        "onboard_time": 1677940709,
+        "rank": 26,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 175544,
+        "num": 175544,
+        "word": "我减肥失败的原因找到了",
+        "onboard_time": 1677932486,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165391,
+        "num": 165391,
+        "word": "梁靖崑3比1张本智和",
+        "onboard_time": 1677942990,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148267,
+        "num": 163846,
+        "word": "Jiejie拥抱Scout",
+        "onboard_time": 1677934887,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162903,
+        "num": 162903,
+        "word": "邓超一口气炫冻梨",
+        "onboard_time": 1677946885,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151695,
+        "num": 151695,
+        "word": "BLACKPINK演唱会预告新项目",
+        "onboard_time": 1677939629,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149237,
+        "num": 149237,
+        "word": "檀健次背田曦薇",
+        "onboard_time": 1677932665,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129847,
+        "num": 129847,
+        "word": "利路修将与鲁鲁修联动",
+        "onboard_time": 1677933386,
+        "rank": 33,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 125168,
+        "num": 125168,
+        "word": "EDG 清算",
+        "onboard_time": 1677930867,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144054,
+        "num": 125007,
+        "word": "光渊",
+        "onboard_time": 1677927325,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140534,
+        "num": 124188,
+        "word": "浪姐 Aump",
+        "onboard_time": 1677935608,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121527,
+        "num": 121527,
+        "word": "15岁女生被西交大少年班录取",
+        "onboard_time": 1677924507,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 112185,
+        "num": 112185,
+        "word": "DRG战胜AG",
+        "onboard_time": 1677943170,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110281,
+        "num": 110281,
+        "word": "春日壁纸",
+        "onboard_time": 1677927747,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128938,
+        "num": 107674,
+        "word": "白敬亭宋轶长风渡下证",
+        "onboard_time": 1677928767,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123744,
+        "num": 106602,
+        "word": "满江红实时票房破45亿",
+        "onboard_time": 1677933927,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113255,
+        "num": 105590,
+        "word": "希林娜依高高定红毯造型",
+        "onboard_time": 1677937947,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100112,
+        "num": 100112,
+        "word": "AG 觉醒",
+        "onboard_time": 1677934287,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96955,
+        "num": 96955,
+        "word": "刘耀文的雕是荣梓杉送的",
+        "onboard_time": 1677938129,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95923,
+        "num": 95923,
+        "word": "魏无羡春季赛淘汰突破100",
+        "onboard_time": 1677934587,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90743,
+        "num": 90743,
+        "word": "流浪地球",
+        "onboard_time": 1677938909,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88159,
+        "num": 88159,
+        "word": "女护士下班摆摊卖无菌烤肠",
+        "onboard_time": 1677917664,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66580,
+        "num": 87994,
+        "word": "EDG对战LNG",
+        "onboard_time": 1677928107,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62955,
+        "num": 87905,
+        "word": "阿森纳vs伯恩茅斯",
+        "onboard_time": 1677943049,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677944017648,
+  "endTime": 1677947064545,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -1123,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 865701,
+      "num": 422897,
+      "word": "到北京动物园为丫丫探营的人好多",
+      "onboard_time": 1677942390,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 859728,
       "num": 499533,
       "word": "你发癫 人家问地你答天",
@@ -1849,14 +1857,6 @@
       "onboard_time": 1677838407,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 641517,
-      "num": 392255,
-      "word": "到北京动物园为丫丫探营的人好多",
-      "onboard_time": 1677942390,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 640354,
@@ -3611,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353379,
+      "num": 195222,
+      "word": "被工作气到可以拍拍腋窝",
+      "onboard_time": 1677943831,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 352911,
       "num": 352911,
       "word": "张大大直播",
@@ -5075,6 +5083,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 236266,
+      "num": 236266,
+      "word": "刘宇宁直播回应脚伤",
+      "onboard_time": 1677946047,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235743,
       "num": 268351,
       "word": "TES对战RNG",
@@ -5811,6 +5827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204002,
+      "num": 287825,
+      "word": "F1",
+      "onboard_time": 1677943651,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203990,
       "num": 203990,
       "word": "姚薇安欣联手对付上司",
@@ -6193,6 +6217,14 @@
       "onboard_time": 1677759210,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193540,
+      "num": 193540,
+      "word": "2023F1巴林大奖赛",
+      "onboard_time": 1677947005,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 193433,
@@ -6899,6 +6931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162903,
+      "num": 162903,
+      "word": "邓超一口气炫冻梨",
+      "onboard_time": 1677946885,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162407,
       "num": 162407,
       "word": "小福贵看了都得叫你声姐",
@@ -7531,14 +7571,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 134592,
-      "num": 134592,
-      "word": "F1",
-      "onboard_time": 1677943651,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134520,
       "num": 134520,
       "word": "五哈 好笑",
@@ -7785,14 +7817,6 @@
       "onboard_time": 1677921087,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123893,
-      "num": 123893,
-      "word": "被工作气到可以拍拍腋窝",
-      "onboard_time": 1677943831,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 123855,
