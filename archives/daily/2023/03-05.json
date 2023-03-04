@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1677951215971,
+  "endTime": 1677954145515,
   "band_list": [
     {
       "raw_hot": 1384707,
@@ -105,6 +105,14 @@
       "onboard_time": 1677940889,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285893,
+      "num": 90626,
+      "word": "女生玩梗对暗号遭小孩婉拒时代过了",
+      "onboard_time": 1677950898,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275556,
@@ -403,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74229,
+      "num": 74229,
+      "word": "易烊千玺和雷佳音对戏笑到颤抖",
+      "onboard_time": 1677950957,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 66580,
       "num": 87994,
       "word": "EDG对战LNG",
@@ -411,20 +427,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 60123,
-      "num": 52196,
-      "word": "易烊千玺和雷佳音对戏笑到颤抖",
-      "onboard_time": 1677950957,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 42356,
-      "num": 42356,
-      "word": "女生玩梗对暗号遭小孩婉拒时代过了",
-      "onboard_time": 1677950898,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 31087,
+      "num": 31087,
+      "word": "赵一博竟然会3D建模",
+      "onboard_time": 1677953776,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 29071,
