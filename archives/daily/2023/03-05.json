@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1677965622481,
+  "endTime": 1677968239909,
   "band_list": [
     {
       "raw_hot": 1384707,
@@ -443,8 +443,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 54250,
-      "num": 54250,
+      "raw_hot": 57377,
+      "num": 69499,
       "word": "巴黎圣日耳曼vs南特",
       "onboard_time": 1677959592,
       "rank": 15,
@@ -481,6 +481,14 @@
       "onboard_time": 1677957074,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17715,
+      "num": 17715,
+      "word": "编剧赵冬苓说UP主的吐槽启发了她",
+      "onboard_time": 1677967213,
+      "rank": 40,
+      "category": "社会新闻,影视"
     }
   ],
   "hotgov_list": [
