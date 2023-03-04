@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677921456061,
+  "endTime": 1677922428289,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2450175,
+      "raw_hot": 2488875,
       "num": 257918,
       "word": "浪姐4最终阵容",
       "onboard_time": 1677919706,
@@ -91,7 +91,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1065848,
+      "raw_hot": 1099312,
       "num": 460444,
       "word": "女护士下班摆摊卖无菌烤肠",
       "onboard_time": 1677917664,
@@ -193,6 +193,14 @@
       "onboard_time": 1677891448,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 856638,
+      "num": 319461,
+      "word": "男子回应大学4年赚100多万",
+      "onboard_time": 1677920784,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 832101,
@@ -403,6 +411,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 519930,
+      "num": 256170,
+      "word": "特斯拉疑失控连撞多车冲毁店门",
+      "onboard_time": 1677918866,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 487153,
       "num": 487153,
       "word": "你刚毕业时的月薪是多少",
@@ -417,14 +433,6 @@
       "onboard_time": 1677909745,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 448296,
-      "num": 256170,
-      "word": "特斯拉疑失控连撞多车冲毁店门",
-      "onboard_time": 1677918866,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 436374,
@@ -481,14 +489,6 @@
       "onboard_time": 1677855930,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 384156,
-      "num": 255711,
-      "word": "男子回应大学4年赚100多万",
-      "onboard_time": 1677920784,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384059,
@@ -657,6 +657,14 @@
       "onboard_time": 1677914065,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311866,
+      "num": 185276,
+      "word": "建议停止向未成年提供网络游戏服务",
+      "onboard_time": 1677921806,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 306749,
@@ -1043,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185323,
+      "num": 185323,
+      "word": "LPL",
+      "onboard_time": 1677922405,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184770,
       "num": 184770,
       "word": "在美华人称丫丫饮食条件已有改善",
@@ -1347,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126312,
+      "num": 126312,
+      "word": "南极洲深海拍到罕见冥河水母",
+      "onboard_time": 1677921926,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126257,
       "num": 126257,
       "word": "这羊长得好像素描出来的",
@@ -1376,6 +1400,14 @@
       "word": "小羊长相清秀酷似水墨画",
       "onboard_time": 1677898468,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120084,
+      "num": 120084,
+      "word": "杭州无人机表演将万朵鲜花送雷锋",
+      "onboard_time": 1677921087,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1449,14 +1481,6 @@
       "onboard_time": 1677915145,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 110362,
-      "num": 110362,
-      "word": "杭州无人机表演将万朵鲜花送雷锋",
-      "onboard_time": 1677921087,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109587,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677921456061,
+  "endTime": 1677922428289,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -83,20 +83,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2488875,
+      "num": 257918,
+      "word": "浪姐4最终阵容",
+      "onboard_time": 1677919706,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2459613,
       "num": 465249,
       "word": "香港名媛碎尸案警方再拘一人",
       "onboard_time": 1677759569,
       "rank": 10,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2450175,
-      "num": 257918,
-      "word": "浪姐4最终阵容",
-      "onboard_time": 1677919706,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 2370708,
@@ -643,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1099312,
+      "num": 460444,
+      "word": "女护士下班摆摊卖无菌烤肠",
+      "onboard_time": 1677917664,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1095452,
       "num": 271298,
       "word": "小S大女儿二女儿合体封面",
@@ -681,14 +689,6 @@
       "onboard_time": 1677645453,
       "rank": 44,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 1065848,
-      "num": 460444,
-      "word": "女护士下班摆摊卖无菌烤肠",
-      "onboard_time": 1677917664,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1064723,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1677684388,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 856638,
+      "num": 319461,
+      "word": "男子回应大学4年赚100多万",
+      "onboard_time": 1677920784,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 855706,
@@ -2227,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 519930,
+      "num": 256170,
+      "word": "特斯拉疑失控连撞多车冲毁店门",
+      "onboard_time": 1677918866,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519354,
       "num": 519354,
       "word": "为什么找工作要双休的",
@@ -2561,14 +2577,6 @@
       "onboard_time": 1677811406,
       "rank": 14,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 448296,
-      "num": 256170,
-      "word": "特斯拉疑失控连撞多车冲毁店门",
-      "onboard_time": 1677918866,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 447763,
@@ -2985,14 +2993,6 @@
       "onboard_time": 1677814048,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 384156,
-      "num": 255711,
-      "word": "男子回应大学4年赚100多万",
-      "onboard_time": 1677920784,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384112,
@@ -3729,6 +3729,14 @@
       "onboard_time": 1677914065,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311866,
+      "num": 185276,
+      "word": "建议停止向未成年提供网络游戏服务",
+      "onboard_time": 1677921806,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 311678,
@@ -5883,6 +5891,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 185323,
+      "num": 185323,
+      "word": "LPL",
+      "onboard_time": 1677922405,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184277,
       "num": 184277,
       "word": "WBG战胜LGD",
@@ -7027,6 +7043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126312,
+      "num": 126312,
+      "word": "南极洲深海拍到罕见冥河水母",
+      "onboard_time": 1677921926,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126167,
       "num": 126167,
       "word": "张颂文只想专心拍戏",
@@ -7137,6 +7161,14 @@
       "onboard_time": 1677672991,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120084,
+      "num": 120084,
+      "word": "杭州无人机表演将万朵鲜花送雷锋",
+      "onboard_time": 1677921087,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119745,
@@ -7329,14 +7361,6 @@
       "onboard_time": 1677915145,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 110362,
-      "num": 110362,
-      "word": "杭州无人机表演将万朵鲜花送雷锋",
-      "onboard_time": 1677921087,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109490,
