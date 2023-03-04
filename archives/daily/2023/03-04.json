@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677914206821,
+  "endTime": 1677915216056,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1832959,
+      "num": 311839,
+      "word": "警方通报16岁女孩殴打三轮车阿姨",
+      "onboard_time": 1677911005,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1730907,
       "num": 295615,
       "word": "蔚来",
       "onboard_time": 1677895525,
       "rank": 18,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1644297,
-      "num": 245256,
-      "word": "警方通报16岁女孩殴打三轮车阿姨",
-      "onboard_time": 1677911005,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1566007,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1058094,
-      "num": 245611,
+      "num": 310463,
       "word": "跑男",
       "onboard_time": 1677910106,
       "rank": 13,
@@ -105,6 +105,14 @@
       "onboard_time": 1677897146,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1002738,
+      "num": 1002738,
+      "word": "建议高考外语必考改为选考",
+      "onboard_time": 1677913346,
+      "rank": 17,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1001234,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 788270,
-      "num": 300588,
+      "num": 301798,
       "word": "虞书欣片场掐郭敬明脖子",
       "onboard_time": 1677906447,
       "rank": 21,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 780291,
-      "num": 244790,
+      "num": 300671,
       "word": "死亡万花筒杀青",
       "onboard_time": 1677908784,
       "rank": 21,
@@ -217,6 +225,14 @@
       "onboard_time": 1677897447,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 687421,
+      "num": 687421,
+      "word": "建议每辆车每年可享受固定天数高速免费",
+      "onboard_time": 1677912986,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 665619,
@@ -299,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 532725,
-      "num": 230565,
-      "word": "建议高考外语必考改为选考",
-      "onboard_time": 1677913346,
-      "rank": 17,
-      "category": "国内要闻"
+      "raw_hot": 526670,
+      "num": 306357,
+      "word": "福宝狗叫",
+      "onboard_time": 1677911545,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524845,
@@ -323,14 +339,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 492330,
-      "num": 230456,
-      "word": "福宝狗叫",
-      "onboard_time": 1677911545,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 487153,
       "num": 487153,
       "word": "你刚毕业时的月薪是多少",
@@ -339,12 +347,36 @@
       "category": "情感,财经"
     },
     {
+      "raw_hot": 486751,
+      "num": 486751,
+      "word": "建议对密室逃脱和剧本杀立法",
+      "onboard_time": 1677913346,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 483903,
+      "num": 483903,
+      "word": "林孝埈",
+      "onboard_time": 1677914845,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 458551,
-      "num": 245241,
+      "num": 299180,
       "word": "SMTOWN新女团将举办见面会",
       "onboard_time": 1677909745,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 445824,
+      "num": 445824,
+      "word": "中国护照的含金量越来越高",
+      "onboard_time": 1677914065,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 436374,
@@ -404,7 +436,7 @@
     },
     {
       "raw_hot": 384059,
-      "num": 234077,
+      "num": 247875,
       "word": "周冬雨出发巴黎生图",
       "onboard_time": 1677909265,
       "rank": 25,
@@ -427,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362651,
+      "num": 304285,
+      "word": "周杰伦 悉尼",
+      "onboard_time": 1677911183,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 362345,
       "num": 362345,
       "word": "大熊猫走姿似狂飙高启盛",
@@ -440,14 +480,6 @@
       "word": "大熊猫和花和叶已被广东一企业认养",
       "onboard_time": 1677844824,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353138,
-      "num": 353138,
-      "word": "建议每辆车每年可享受固定天数高速免费",
-      "onboard_time": 1677912986,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -488,14 +520,6 @@
       "word": "时代少年团一周年演唱会排练视频",
       "onboard_time": 1677907227,
       "rank": 17,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 326519,
-      "num": 245078,
-      "word": "周杰伦 悉尼",
-      "onboard_time": 1677911183,
-      "rank": 18,
       "category": "音乐"
     },
     {
@@ -547,6 +571,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 311946,
+      "num": 311946,
+      "word": "林高远发挥",
+      "onboard_time": 1677914065,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306749,
       "num": 262954,
       "word": "进击的巨人",
@@ -569,14 +601,6 @@
       "onboard_time": 1677854368,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290781,
-      "num": 220073,
-      "word": "建议对密室逃脱和剧本杀立法",
-      "onboard_time": 1677913346,
-      "rank": 28,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 288554,
@@ -723,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225056,
+      "num": 303847,
+      "word": "梁靖崑3比1林高远",
+      "onboard_time": 1677914006,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224011,
       "num": 224011,
       "word": "沙溢cos高启强",
@@ -787,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207260,
+      "num": 207260,
+      "word": "刘耀文扮雕",
+      "onboard_time": 1677914185,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206925,
       "num": 206925,
       "word": "如何看待巴黎要求梅西降薪",
@@ -809,6 +849,14 @@
       "onboard_time": 1677903565,
       "rank": 35,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 201917,
+      "num": 201917,
+      "word": "十四届全国人大一次会议议程",
+      "onboard_time": 1677914845,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201420,
@@ -835,20 +883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196803,
-      "num": 196803,
-      "word": "梁靖崑3比1林高远",
-      "onboard_time": 1677914006,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 194852,
-      "num": 194852,
-      "word": "刘耀文扮雕",
-      "onboard_time": 1677914185,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 196072,
+      "num": 263355,
+      "word": "国家需要时想用就有想干就能",
+      "onboard_time": 1677914065,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 192960,
@@ -939,12 +979,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161712,
-      "num": 161712,
-      "word": "林高远发挥",
-      "onboard_time": 1677914065,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 162407,
+      "num": 162407,
+      "word": "小福贵看了都得叫你声姐",
+      "onboard_time": 1677913644,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 161007,
+      "num": 161007,
+      "word": "张萌想看彭冠英王楚然二搭",
+      "onboard_time": 1677912804,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 160441,
@@ -953,6 +1001,14 @@
       "onboard_time": 1677910166,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159246,
+      "num": 372957,
+      "word": "首场委员通道采访直播",
+      "onboard_time": 1677911245,
+      "rank": 43,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 154651,
@@ -995,14 +1051,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 150213,
-      "num": 150213,
-      "word": "张萌想看彭冠英王楚然二搭",
-      "onboard_time": 1677912804,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 149709,
       "num": 149709,
       "word": "当你的同事是个天秤座",
@@ -1017,14 +1065,6 @@
       "onboard_time": 1677891565,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145953,
-      "num": 248092,
-      "word": "首场委员通道采访直播",
-      "onboard_time": 1677911245,
-      "rank": 43,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 145906,
@@ -1059,6 +1099,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 142579,
+      "num": 142579,
+      "word": "狗狗示意主人开门的方式",
+      "onboard_time": 1677914903,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 141120,
       "num": 141120,
       "word": "森林狼vs湖人",
@@ -1067,16 +1115,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138488,
-      "num": 138488,
-      "word": "小福贵看了都得叫你声姐",
-      "onboard_time": 1677913644,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 138202,
-      "num": 302354,
+      "num": 525653,
       "word": "全国人大会议议程来了",
       "onboard_time": 1677912504,
       "rank": 2,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1677859346,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132951,
+      "num": 342251,
+      "word": "中国的核心利益不容损害",
+      "onboard_time": 1677913884,
+      "rank": 8,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 131460,
@@ -1227,12 +1275,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 110048,
-      "num": 243963,
-      "word": "中国的核心利益不容损害",
-      "onboard_time": 1677913884,
-      "rank": 8,
-      "category": "国内要闻"
+      "raw_hot": 110462,
+      "num": 110462,
+      "word": "WBG对战AL",
+      "onboard_time": 1677915145,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 109587,
@@ -1364,18 +1412,10 @@
     },
     {
       "raw_hot": 70734,
-      "num": 230408,
+      "num": 302709,
       "word": "李书福亮相两会首场委员通道",
       "onboard_time": 1677913825,
       "rank": 19,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 65221,
-      "num": 242882,
-      "word": "中国护照的含金量越来越高",
-      "onboard_time": 1677914065,
-      "rank": 9,
       "category": "国内要闻"
     },
     {
@@ -1483,14 +1523,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 32848,
-      "num": 263355,
-      "word": "国家需要时想用就有想干就能",
-      "onboard_time": 1677914065,
-      "rank": 4,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 29021,
       "num": 29021,
       "word": "宋亚轩新歌",
@@ -1528,6 +1560,9 @@
     },
     {
       "word": "#十四届全国人大一次会议议程#"
+    },
+    {
+      "word": "#全国政协十四届一次会议开幕#"
     }
   ]
 }
