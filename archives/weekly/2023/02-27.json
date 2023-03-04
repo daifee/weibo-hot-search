@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677926112982,
+  "endTime": 1677928516817,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -996,7 +996,7 @@
     },
     {
       "raw_hot": 1206348,
-      "num": 542285,
+      "num": 689375,
       "word": "男子回应大学4年赚100多万",
       "onboard_time": 1677920784,
       "rank": 18,
@@ -1419,6 +1419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1004519,
+      "num": 1004519,
+      "word": "15岁女生被西交大少年班录取",
+      "onboard_time": 1677924507,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1002738,
       "num": 1002738,
       "word": "建议高考外语必考改为选考",
@@ -1689,6 +1697,14 @@
       "onboard_time": 1677836908,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 894442,
+      "num": 226558,
+      "word": "建议职业女性线上办公",
+      "onboard_time": 1677925765,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 894084,
@@ -2435,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 687116,
+      "num": 534343,
+      "word": "光渊",
+      "onboard_time": 1677748592,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 686266,
       "num": 686266,
       "word": "邓超陈赫鹿晗五哈3换头像",
@@ -3027,14 +3051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 573970,
-      "num": 573970,
-      "word": "15岁女生被西交大少年班录取",
-      "onboard_time": 1677924507,
-      "rank": 32,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 573899,
       "num": 322825,
       "word": "家属曝73岁父亲被养老院护工打爆眼球",
@@ -3259,6 +3275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 549060,
+      "num": 549060,
+      "word": "代表建议提前高考让学生好好过端午",
+      "onboard_time": 1677926849,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548995,
       "num": 548995,
       "word": "见过最离谱的夜市价格",
@@ -3355,6 +3379,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 540806,
+      "num": 540806,
+      "word": "RNG中单",
+      "onboard_time": 1677924683,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 537737,
       "num": 537737,
       "word": "特斯拉",
@@ -3393,14 +3425,6 @@
       "onboard_time": 1677552687,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534343,
-      "num": 534343,
-      "word": "光渊",
-      "onboard_time": 1677748592,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 533688,
@@ -3841,14 +3865,6 @@
       "onboard_time": 1677769593,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 485073,
-      "num": 485073,
-      "word": "RNG中单",
-      "onboard_time": 1677924683,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 484149,
@@ -4457,6 +4473,14 @@
       "onboard_time": 1677839367,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 424481,
+      "num": 246688,
+      "word": "人大代表带着螺蛳粉参加两会",
+      "onboard_time": 1677925467,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423624,
@@ -5819,6 +5843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320133,
+      "num": 320133,
+      "word": "狼队新人",
+      "onboard_time": 1677925526,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 318840,
       "num": 318840,
       "word": "苏州通报男子被爱猫人士控制殴打",
@@ -6379,6 +6411,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 290041,
+      "num": 290041,
+      "word": "南极洲深海拍到罕见冥河水母",
+      "onboard_time": 1677921926,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290007,
       "num": 290007,
       "word": "林依晨陈柏霖合照",
@@ -6497,14 +6537,6 @@
       "onboard_time": 1677422555,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 281898,
-      "num": 272030,
-      "word": "南极洲深海拍到罕见冥河水母",
-      "onboard_time": 1677921926,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281698,
@@ -7067,14 +7099,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 248591,
-      "num": 248591,
-      "word": "狼队新人",
-      "onboard_time": 1677925526,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 247509,
       "num": 247509,
       "word": "急诊科医生与外卖小哥的共同点找到了",
@@ -7161,6 +7185,14 @@
       "onboard_time": 1677728248,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242826,
+      "num": 242826,
+      "word": "TES战胜RNG",
+      "onboard_time": 1677928046,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 242713,
@@ -7923,14 +7955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212518,
-      "num": 212518,
-      "word": "建议职业女性线上办公",
-      "onboard_time": 1677925765,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211760,
       "num": 211760,
       "word": "奔跑吧",
@@ -7977,6 +8001,14 @@
       "onboard_time": 1677834809,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210207,
+      "num": 210207,
+      "word": "EDG对战LNG",
+      "onboard_time": 1677928107,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 209871,
@@ -9731,14 +9763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164794,
-      "num": 164794,
-      "word": "人大代表带着螺蛳粉参加两会",
-      "onboard_time": 1677925467,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164325,
       "num": 164325,
       "word": "上野千鹤子对谈戴锦华实录",
@@ -10179,6 +10203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150417,
+      "num": 150417,
+      "word": "春日壁纸",
+      "onboard_time": 1677927747,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149652,
       "num": 149652,
       "word": "花海娜可露露杀疯了",
@@ -10492,7 +10524,7 @@
     },
     {
       "raw_hot": 138202,
-      "num": 648437,
+      "num": 777642,
       "word": "全国人大会议议程来了",
       "onboard_time": 1677912504,
       "rank": 2,
@@ -11019,6 +11051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122856,
+      "num": 122856,
+      "word": "KPL",
+      "onboard_time": 1677927986,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122787,
       "num": 290745,
       "word": "防腐剂对宝宝危害有多大",
@@ -11161,6 +11201,14 @@
       "onboard_time": 1677737546,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 116396,
+      "num": 116396,
+      "word": "玄商求母后催婚",
+      "onboard_time": 1677926367,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 116206,
@@ -11435,6 +11483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107190,
+      "num": 107190,
+      "word": "Rookie MVP",
+      "onboard_time": 1677928465,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106799,
       "num": 106799,
       "word": "湖人战胜独行侠",
@@ -11705,6 +11761,14 @@
       "onboard_time": 1677852869,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93748,
+      "num": 121915,
+      "word": "你的三月新欢是什么",
+      "onboard_time": 1677927627,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92813,

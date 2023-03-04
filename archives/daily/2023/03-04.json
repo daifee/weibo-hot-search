@@ -1,6 +1,6 @@
 {
   "startTime": 1677860767107,
-  "endTime": 1677926112982,
+  "endTime": 1677928516817,
   "band_list": [
     {
       "raw_hot": 2650216,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1206348,
-      "num": 542285,
+      "num": 689375,
       "word": "男子回应大学4年赚100多万",
       "onboard_time": 1677920784,
       "rank": 18,
@@ -155,6 +155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1004519,
+      "num": 1004519,
+      "word": "15岁女生被西交大少年班录取",
+      "onboard_time": 1677924507,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1002738,
       "num": 1002738,
       "word": "建议高考外语必考改为选考",
@@ -209,6 +217,14 @@
       "onboard_time": 1677918986,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 894442,
+      "num": 226558,
+      "word": "建议职业女性线上办公",
+      "onboard_time": 1677925765,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 859728,
@@ -315,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 687116,
+      "num": 256498,
+      "word": "光渊",
+      "onboard_time": 1677927325,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 665619,
       "num": 665619,
       "word": "安香怡",
@@ -355,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 573970,
-      "num": 573970,
-      "word": "15岁女生被西交大少年班录取",
-      "onboard_time": 1677924507,
-      "rank": 32,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 561438,
       "num": 561438,
       "word": "鹿晗强行请王勉吃糖葫芦",
@@ -395,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 549060,
+      "num": 549060,
+      "word": "代表建议提前高考让学生好好过端午",
+      "onboard_time": 1677926849,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 542290,
       "num": 542290,
       "word": "建议发钱鼓励生孩要关注第一孩",
@@ -409,6 +433,14 @@
       "onboard_time": 1677914065,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 540806,
+      "num": 540806,
+      "word": "RNG中单",
+      "onboard_time": 1677924683,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 526670,
@@ -459,14 +491,6 @@
       "category": "情感,财经"
     },
     {
-      "raw_hot": 485073,
-      "num": 485073,
-      "word": "RNG中单",
-      "onboard_time": 1677924683,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 458551,
       "num": 299180,
       "word": "SMTOWN新女团将举办见面会",
@@ -496,6 +520,14 @@
       "word": "十四届全国人大一次会议新闻发布会",
       "onboard_time": 1677902787,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424481,
+      "num": 246688,
+      "word": "人大代表带着螺蛳粉参加两会",
+      "onboard_time": 1677925467,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -667,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320133,
+      "num": 320133,
+      "word": "狼队新人",
+      "onboard_time": 1677925526,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 317401,
       "num": 90952,
       "word": "早年明星恋爱综艺",
@@ -739,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290041,
+      "num": 290041,
+      "word": "南极洲深海拍到罕见冥河水母",
+      "onboard_time": 1677921926,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288554,
       "num": 288554,
       "word": "巨人完结篇前篇开分9.5",
@@ -760,14 +808,6 @@
       "word": "女生下班发现狗狗拆家收拾到凌晨",
       "onboard_time": 1677899965,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281898,
-      "num": 272030,
-      "word": "南极洲深海拍到罕见冥河水母",
-      "onboard_time": 1677921926,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -867,20 +907,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 248591,
-      "num": 248591,
-      "word": "狼队新人",
-      "onboard_time": 1677925526,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 244679,
       "num": 244679,
       "word": "你好星期六全员分享最想抓住的机会",
       "onboard_time": 1677908906,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242826,
+      "num": 242826,
+      "word": "TES战胜RNG",
+      "onboard_time": 1677928046,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 239520,
@@ -1027,20 +1067,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212518,
-      "num": 212518,
-      "word": "建议职业女性线上办公",
-      "onboard_time": 1677925765,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211760,
       "num": 211760,
       "word": "奔跑吧",
       "onboard_time": 1677915385,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210207,
+      "num": 210207,
+      "word": "EDG对战LNG",
+      "onboard_time": 1677928107,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 208847,
@@ -1211,14 +1251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164794,
-      "num": 164794,
-      "word": "人大代表带着螺蛳粉参加两会",
-      "onboard_time": 1677925467,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164497,
       "num": 164497,
       "word": "EDG与LNG赛前海报",
@@ -1347,6 +1379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150417,
+      "num": 150417,
+      "word": "春日壁纸",
+      "onboard_time": 1677927747,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149709,
       "num": 149709,
       "word": "当你的同事是个天秤座",
@@ -1412,7 +1452,7 @@
     },
     {
       "raw_hot": 138202,
-      "num": 648437,
+      "num": 777642,
       "word": "全国人大会议议程来了",
       "onboard_time": 1677912504,
       "rank": 2,
@@ -1523,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122856,
+      "num": 122856,
+      "word": "KPL",
+      "onboard_time": 1677927986,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122637,
       "num": 122637,
       "word": "小羊长相清秀酷似水墨画",
@@ -1545,6 +1593,14 @@
       "onboard_time": 1677866536,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116396,
+      "num": 116396,
+      "word": "玄商求母后催婚",
+      "onboard_time": 1677926367,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 116206,
@@ -1627,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107190,
+      "num": 107190,
+      "word": "Rookie MVP",
+      "onboard_time": 1677928465,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106640,
       "num": 106640,
       "word": "李一桐毕雯珺录制你好星期六",
@@ -1649,6 +1713,14 @@
       "onboard_time": 1677836908,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 93748,
+      "num": 121915,
+      "word": "你的三月新欢是什么",
+      "onboard_time": 1677927627,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91485,
