@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677964566918,
+  "endTime": 1677965622481,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -12203,6 +12203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103508,
+      "num": 38157,
+      "word": "美国一州设毒品安全注射点方便吸毒者",
+      "onboard_time": 1677960792,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102894,
       "num": 102894,
       "word": "LNG战胜WBG",
@@ -12241,14 +12249,6 @@
       "onboard_time": 1677430043,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 100799,
-      "num": 31698,
-      "word": "美国一州设毒品安全注射点方便吸毒者",
-      "onboard_time": 1677960792,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99844,
