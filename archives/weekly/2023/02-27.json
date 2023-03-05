@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1677991078007,
+  "endTime": 1677993447079,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -2371,6 +2371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 744690,
+      "num": 402644,
+      "word": "第一次见这么肥的孔雀",
+      "onboard_time": 1677989126,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 743840,
       "num": 743840,
       "word": "B站2022年净亏损75亿元",
@@ -3187,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584629,
+      "num": 346543,
+      "word": "表白失败后立刻英语打卡",
+      "onboard_time": 1677990566,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 583543,
       "num": 583543,
       "word": "曼联夺冠",
@@ -3947,6 +3963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517721,
+      "num": 123286,
+      "word": "鱼丁糸",
+      "onboard_time": 1677992486,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 517013,
       "num": 517013,
       "word": "带状疱疹有时会被误认是皮炎",
@@ -4243,6 +4267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478536,
+      "num": 478536,
+      "word": "我国将加快6G网络研发",
+      "onboard_time": 1677990267,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478298,
       "num": 478298,
       "word": "西安草莓音乐节阵容",
@@ -4489,6 +4521,14 @@
       "onboard_time": 1677655528,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 450766,
+      "num": 158821,
+      "word": "凯特 杨紫琼",
+      "onboard_time": 1677987865,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 450567,
@@ -4929,14 +4969,6 @@
       "onboard_time": 1677638547,
       "rank": 28,
       "category": "科技"
-    },
-    {
-      "raw_hot": 422235,
-      "num": 256836,
-      "word": "第一次见这么肥的孔雀",
-      "onboard_time": 1677989126,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 422072,
@@ -5779,14 +5811,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 356141,
-      "num": 158821,
-      "word": "凯特 杨紫琼",
-      "onboard_time": 1677987865,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 355667,
       "num": 355667,
       "word": "四川将调整优化成都市落户政策",
@@ -5985,6 +6009,14 @@
       "onboard_time": 1677485730,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343644,
+      "num": 343644,
+      "word": "中国2023年国防费预算增长7.2%",
+      "onboard_time": 1677990686,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343204,
@@ -6444,7 +6476,7 @@
     },
     {
       "raw_hot": 317585,
-      "num": 142922,
+      "num": 156966,
       "word": "NewJeans新歌MV花絮视频",
       "onboard_time": 1677989845,
       "rank": 30,
@@ -7969,6 +8001,14 @@
       "onboard_time": 1677590731,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238201,
+      "num": 238201,
+      "word": "76人终结雄鹿16连胜",
+      "onboard_time": 1677990806,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 237314,
@@ -10268,7 +10308,7 @@
     },
     {
       "raw_hot": 181710,
-      "num": 422566,
+      "num": 423612,
       "word": "极简版政府工作报告",
       "onboard_time": 1677984083,
       "rank": 27,
@@ -10363,20 +10403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175816,
-      "num": 175816,
-      "word": "76人终结雄鹿16连胜",
-      "onboard_time": 1677990806,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175728,
       "num": 175728,
       "word": "2023LPL春季赛",
       "onboard_time": 1677654748,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175008,
+      "num": 175008,
+      "word": "重启人生",
+      "onboard_time": 1677992606,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 174770,
@@ -10465,14 +10505,6 @@
       "onboard_time": 1677814408,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172046,
-      "num": 247925,
-      "word": "我国将加快6G网络研发",
-      "onboard_time": 1677990267,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171840,
@@ -10755,14 +10787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163171,
-      "num": 163171,
-      "word": "中国2023年国防费预算增长7.2%",
-      "onboard_time": 1677990686,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162717,
       "num": 155731,
       "word": "张九龄王九龙怕是回不去德云社了",
@@ -10808,6 +10832,14 @@
       "word": "张萌想看彭冠英王楚然二搭",
       "onboard_time": 1677912804,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 160674,
+      "num": 133943,
+      "word": "香港开年爆款电影为何是它",
+      "onboard_time": 1677990686,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -11049,6 +11081,14 @@
       "onboard_time": 1677404847,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154243,
+      "num": 154243,
+      "word": "辽宁舰90后女少校亮相代表通道",
+      "onboard_time": 1677991947,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154214,
@@ -11379,6 +11419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144499,
+      "num": 144499,
+      "word": "野生大熊猫在树上求偶",
+      "onboard_time": 1677992305,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144197,
       "num": 144197,
       "word": "60岁是新黄金期",
@@ -11520,14 +11568,6 @@
       "word": "易烊千玺和雷佳音对戏笑到颤抖",
       "onboard_time": 1677950957,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 139268,
-      "num": 133943,
-      "word": "香港开年爆款电影为何是它",
-      "onboard_time": 1677990686,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -12121,6 +12161,14 @@
       "onboard_time": 1677751409,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123362,
+      "num": 123362,
+      "word": "哈登38分准三双",
+      "onboard_time": 1677991707,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 123315,
@@ -12835,12 +12883,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97486,
+      "num": 97486,
+      "word": "鹿晗玩擀面杖",
+      "onboard_time": 1677993086,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97460,
       "num": 97460,
       "word": "花云伽罗三杀",
       "onboard_time": 1677838827,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97251,
+      "num": 386161,
+      "word": "7个关键字看政府工作报告",
+      "onboard_time": 1677990806,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 97196,
@@ -12945,6 +13009,14 @@
       "onboard_time": 1677852869,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92910,
+      "num": 92910,
+      "word": "猫屎咖啡和猫屎有什么关系",
+      "onboard_time": 1677993026,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92813,
@@ -13123,6 +13195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84302,
+      "num": 84302,
+      "word": "反诈老陈自曝2022年收入133万",
+      "onboard_time": 1677993266,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84012,
       "num": 84012,
       "word": "俄称美企图在乌使用化武嫁祸俄方",
@@ -13193,6 +13273,14 @@
       "onboard_time": 1677979767,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80587,
+      "num": 80587,
+      "word": "UFC285",
+      "onboard_time": 1677991347,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 80398,
@@ -13329,14 +13417,6 @@
       "onboard_time": 1677781155,
       "rank": 33,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 70878,
-      "num": 279446,
-      "word": "7个关键字看政府工作报告",
-      "onboard_time": 1677990806,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 70734,
