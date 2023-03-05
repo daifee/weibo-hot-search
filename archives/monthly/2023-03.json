@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678014912275,
+  "endTime": 1678016009979,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1844791,
+      "num": 457345,
+      "word": "甲流",
+      "onboard_time": 1677630634,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1843019,
       "num": 1843019,
       "word": "刘亚仁",
@@ -297,14 +305,6 @@
       "onboard_time": 1677625519,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1678642,
-      "num": 457345,
-      "word": "甲流",
-      "onboard_time": 1677630634,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1645728,
@@ -1369,6 +1369,14 @@
       "onboard_time": 1677725368,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 806898,
+      "num": 806898,
+      "word": "专家呼吁每天省杯咖啡提前规划养老",
+      "onboard_time": 1678013366,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 806658,
@@ -2603,6 +2611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 540752,
+      "num": 240383,
+      "word": "商家回应5串烤串收费103元",
+      "onboard_time": 1678014688,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539564,
       "num": 421571,
       "word": "苹果天气小组件现大范围bug",
@@ -3163,6 +3179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 455314,
+      "num": 455314,
+      "word": "中戏院长谈演员的文化修养",
+      "onboard_time": 1678014208,
+      "rank": 24,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 454305,
       "num": 391046,
       "word": "郑州一大学老师撞脸高启盛",
@@ -3499,14 +3523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418488,
-      "num": 418488,
-      "word": "专家呼吁每天省杯咖啡提前规划养老",
-      "onboard_time": 1678013366,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414431,
       "num": 414431,
       "word": "金智秀紫裙",
@@ -3657,6 +3673,14 @@
       "onboard_time": 1677647908,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392255,
+      "num": 392255,
+      "word": "75岁老人中风好友发现步数为0报警",
+      "onboard_time": 1678012527,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390024,
@@ -4099,6 +4123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354414,
+      "num": 237833,
+      "word": "申留真WANNABE直拍",
+      "onboard_time": 1678014808,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 353379,
       "num": 195222,
       "word": "被工作气到可以拍拍腋窝",
@@ -4473,14 +4505,6 @@
       "onboard_time": 1677816087,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 323110,
-      "num": 238125,
-      "word": "75岁老人中风好友发现步数为0报警",
-      "onboard_time": 1678012527,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323095,
@@ -4873,6 +4897,14 @@
       "onboard_time": 1677829228,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294725,
+      "num": 294725,
+      "word": "建议对35岁职场门槛增加监管处罚",
+      "onboard_time": 1678014208,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293695,
@@ -5571,6 +5603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 249254,
+      "num": 158414,
+      "word": "男团下岗再就业",
+      "onboard_time": 1678013667,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249005,
       "num": 193272,
       "word": "邓超一口气炫冻梨",
@@ -5691,6 +5731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241385,
+      "num": 241385,
+      "word": "代表回应花花成为网红大熊猫",
+      "onboard_time": 1678011686,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241069,
       "num": 241069,
       "word": "宋旻浩将于3月24日入伍",
@@ -5761,6 +5809,14 @@
       "onboard_time": 1678009287,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236952,
+      "num": 236952,
+      "word": "定格动画版雷锋上线",
+      "onboard_time": 1678015828,
+      "rank": 17,
+      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 236849,
@@ -5953,14 +6009,6 @@
       "onboard_time": 1677875951,
       "rank": 10,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 227243,
-      "num": 227243,
-      "word": "申留真WANNABE直拍",
-      "onboard_time": 1678014808,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 226798,
@@ -6507,6 +6555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205166,
+      "num": 205166,
+      "word": "委员建议为三孩家庭颁发光荣证",
+      "onboard_time": 1678015047,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205159,
       "num": 155469,
       "word": "2023政府工作报告",
@@ -6569,14 +6625,6 @@
       "onboard_time": 1677817710,
       "rank": 39,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 204133,
-      "num": 204133,
-      "word": "代表回应花花成为网红大熊猫",
-      "onboard_time": 1678011686,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204093,
@@ -7299,14 +7347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188002,
-      "num": 188002,
-      "word": "中戏院长谈演员的文化修养",
-      "onboard_time": 1678014208,
-      "rank": 24,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 187830,
       "num": 187830,
       "word": "文俊辉日语cover",
@@ -7409,6 +7449,14 @@
       "onboard_time": 1677727349,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182788,
+      "num": 182788,
+      "word": "老中医旅途中带针灸包接连救12人",
+      "onboard_time": 1678014748,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 182512,
@@ -7849,14 +7897,6 @@
       "onboard_time": 1677726086,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163502,
-      "num": 156279,
-      "word": "男团下岗再就业",
-      "onboard_time": 1678013667,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 162407,
@@ -8707,14 +8747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 132737,
-      "num": 132737,
-      "word": "建议对35岁职场门槛增加监管处罚",
-      "onboard_time": 1678014208,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132497,
       "num": 132497,
       "word": "恋爱中的少典有琴",
@@ -9331,6 +9363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107053,
+      "num": 133969,
+      "word": "福菀被游客泼水后躲在角落里",
+      "onboard_time": 1678015587,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107040,
       "num": 107040,
       "word": "纪念周恩来诞辰125周年",
@@ -9523,14 +9563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 98528,
-      "num": 98528,
-      "word": "商家回应5串烤串收费103元",
-      "onboard_time": 1678014688,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98416,
       "num": 354305,
       "word": "怡丽丝尔水乳",
@@ -9644,7 +9676,7 @@
     },
     {
       "raw_hot": 91072,
-      "num": 91072,
+      "num": 133204,
       "word": "BoysPlanet二公限制外国人投票",
       "onboard_time": 1678009106,
       "rank": 43,
@@ -9748,7 +9780,7 @@
     },
     {
       "raw_hot": 85787,
-      "num": 85787,
+      "num": 133213,
       "word": "XYG对战TES",
       "onboard_time": 1678009166,
       "rank": 42,
@@ -9761,14 +9793,6 @@
       "onboard_time": 1677959592,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84635,
-      "num": 84635,
-      "word": "老中医旅途中带针灸包接连救12人",
-      "onboard_time": 1678014748,
-      "rank": 47,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 84545,

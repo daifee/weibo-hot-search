@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1678014912275,
+  "endTime": 1678016009979,
   "band_list": [
     {
       "raw_hot": 2326658,
@@ -27,7 +27,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1678642,
+      "raw_hot": 1844791,
       "num": 457345,
       "word": "甲流",
       "onboard_time": 1678012585,
@@ -135,6 +135,14 @@
       "num": 830442,
       "word": "建议完善在校大学生婚育服务",
       "onboard_time": 1677995907,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806898,
+      "num": 806898,
+      "word": "专家呼吁每天省杯咖啡提前规划养老",
+      "onboard_time": 1678013366,
       "rank": 5,
       "category": "社会新闻"
     },
@@ -267,6 +275,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 540752,
+      "num": 240383,
+      "word": "商家回应5串烤串收费103元",
+      "onboard_time": 1678014688,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539564,
       "num": 421571,
       "word": "苹果天气小组件现大范围bug",
@@ -379,6 +395,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 455314,
+      "num": 455314,
+      "word": "中戏院长谈演员的文化修养",
+      "onboard_time": 1678014208,
+      "rank": 24,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 454268,
       "num": 330213,
       "word": "扬州动物园回应木架腐朽致大熊猫摔倒",
@@ -443,14 +467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 418488,
-      "num": 418488,
-      "word": "专家呼吁每天省杯咖啡提前规划养老",
-      "onboard_time": 1678013366,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410478,
       "num": 410478,
       "word": "一眼就能看出来不用上班的人",
@@ -481,6 +497,14 @@
       "onboard_time": 1677984325,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 392255,
+      "num": 392255,
+      "word": "75岁老人中风好友发现步数为0报警",
+      "onboard_time": 1678012527,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386720,
@@ -571,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 354414,
+      "num": 237833,
+      "word": "申留真WANNABE直拍",
+      "onboard_time": 1678014808,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 353379,
       "num": 195222,
       "word": "被工作气到可以拍拍腋窝",
@@ -609,14 +641,6 @@
       "onboard_time": 1678002806,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 323110,
-      "num": 238125,
-      "word": "75岁老人中风好友发现步数为0报警",
-      "onboard_time": 1678012527,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321659,
@@ -680,6 +704,14 @@
       "word": "AI修复雷锋生前影像",
       "onboard_time": 1677973218,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294725,
+      "num": 294725,
+      "word": "建议对35岁职场门槛增加监管处罚",
+      "onboard_time": 1678014208,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -819,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249254,
+      "num": 158414,
+      "word": "男团下岗再就业",
+      "onboard_time": 1678013667,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249005,
       "num": 193272,
       "word": "邓超一口气炫冻梨",
@@ -833,6 +873,14 @@
       "onboard_time": 1677938068,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241385,
+      "num": 241385,
+      "word": "代表回应花花成为网红大熊猫",
+      "onboard_time": 1678011686,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240493,
@@ -857,6 +905,14 @@
       "onboard_time": 1678009287,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236952,
+      "num": 236952,
+      "word": "定格动画版雷锋上线",
+      "onboard_time": 1678015828,
+      "rank": 17,
+      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 236600,
@@ -891,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227243,
-      "num": 227243,
-      "word": "申留真WANNABE直拍",
-      "onboard_time": 1678014808,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 218531,
       "num": 192495,
       "word": "艾薇儿",
@@ -931,20 +979,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205166,
+      "num": 205166,
+      "word": "委员建议为三孩家庭颁发光荣证",
+      "onboard_time": 1678015047,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205159,
       "num": 155469,
       "word": "2023政府工作报告",
       "onboard_time": 1677987325,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 204133,
-      "num": 204133,
-      "word": "代表回应花花成为网红大熊猫",
-      "onboard_time": 1678011686,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204002,
@@ -1051,12 +1099,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188002,
-      "num": 188002,
-      "word": "中戏院长谈演员的文化修养",
-      "onboard_time": 1678014208,
-      "rank": 24,
-      "category": "社会新闻,艺人"
+      "raw_hot": 186247,
+      "num": 186247,
+      "word": "毛不易 抢票",
+      "onboard_time": 1678012349,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 184364,
@@ -1075,20 +1123,20 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 182788,
+      "num": 182788,
+      "word": "老中医旅途中带针灸包接连救12人",
+      "onboard_time": 1678014748,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 181710,
       "num": 466739,
       "word": "极简版政府工作报告",
       "onboard_time": 1677984083,
       "rank": 27,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 176366,
-      "num": 176366,
-      "word": "毛不易 抢票",
-      "onboard_time": 1678012349,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 175544,
@@ -1161,14 +1209,6 @@
       "onboard_time": 1677942990,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163502,
-      "num": 156279,
-      "word": "男团下岗再就业",
-      "onboard_time": 1678013667,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 161400,
@@ -1363,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132737,
-      "num": 132737,
-      "word": "建议对35岁职场门槛增加监管处罚",
-      "onboard_time": 1678014208,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132108,
       "num": 132108,
       "word": "希林娜依高四唱LPL主题曲",
@@ -1539,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107053,
+      "num": 133969,
+      "word": "福菀被游客泼水后躲在角落里",
+      "onboard_time": 1678015587,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107040,
       "num": 107040,
       "word": "纪念周恩来诞辰125周年",
@@ -1643,14 +1683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 98528,
-      "num": 98528,
-      "word": "商家回应5串烤串收费103元",
-      "onboard_time": 1678014688,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97251,
       "num": 452301,
       "word": "7个关键字看政府工作报告",
@@ -1684,7 +1716,7 @@
     },
     {
       "raw_hot": 91072,
-      "num": 91072,
+      "num": 133204,
       "word": "BoysPlanet二公限制外国人投票",
       "onboard_time": 1678009106,
       "rank": 43,
@@ -1748,7 +1780,7 @@
     },
     {
       "raw_hot": 85787,
-      "num": 85787,
+      "num": 133213,
       "word": "XYG对战TES",
       "onboard_time": 1678009166,
       "rank": 42,
@@ -1761,14 +1793,6 @@
       "onboard_time": 1677959592,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84635,
-      "num": 84635,
-      "word": "老中医旅途中带针灸包接连救12人",
-      "onboard_time": 1678014748,
-      "rank": 47,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 84539,
