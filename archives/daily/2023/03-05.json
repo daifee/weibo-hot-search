@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1678026800526,
+  "endTime": 1678029501409,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -83,6 +83,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1298924,
+      "num": 1298924,
+      "word": "专家呼吁每天省杯咖啡提前规划养老",
+      "onboard_time": 1678013366,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1236072,
       "num": 242247,
       "word": "长珩仙君杀我咯",
@@ -97,14 +105,6 @@
       "onboard_time": 1677942691,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1151571,
-      "num": 1151571,
-      "word": "专家呼吁每天省杯咖啡提前规划养老",
-      "onboard_time": 1678013366,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1091660,
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 869034,
+      "num": 869034,
+      "word": "买根火腿肠就能在石家庄实现地铁自由",
+      "onboard_time": 1678024829,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865701,
       "num": 474621,
       "word": "到北京动物园为丫丫探营的人好多",
@@ -209,6 +217,14 @@
       "onboard_time": 1677977545,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 764211,
+      "num": 764211,
+      "word": "梦回爸爸去哪儿",
+      "onboard_time": 1678027650,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 753963,
@@ -339,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 557765,
-      "num": 476083,
-      "word": "买根火腿肠就能在石家庄实现地铁自由",
-      "onboard_time": 1678024829,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 553049,
       "num": 208701,
       "word": "王心凌郑秀妍浪姐红毯偶遇",
@@ -361,6 +369,22 @@
       "onboard_time": 1677977966,
       "rank": 5,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 552043,
+      "num": 314369,
+      "word": "关晓彤巴黎看秀前试装",
+      "onboard_time": 1678028490,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 546535,
+      "num": 313301,
+      "word": "来自时代少年团的郭俊辰",
+      "onboard_time": 1678028309,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 539564,
@@ -571,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 419390,
+      "num": 419390,
+      "word": "建议给女员工占比高的企业减税",
+      "onboard_time": 1678026809,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417828,
       "num": 417828,
       "word": "OMG 太热血了",
@@ -603,7 +635,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402837,
+      "raw_hot": 407107,
       "num": 402837,
       "word": "宁艺卓转身名场面",
       "onboard_time": 1678026630,
@@ -664,6 +696,14 @@
       "word": "建议冬天不学十以外加减法",
       "onboard_time": 1678020155,
       "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 377074,
+      "num": 242593,
+      "word": "周一没有不疯的打工人",
+      "onboard_time": 1678027351,
+      "rank": 23,
       "category": "幽默"
     },
     {
@@ -771,6 +811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 339745,
+      "num": 339745,
+      "word": "中国人爱喝茶是刻在基因里的",
+      "onboard_time": 1678027170,
+      "rank": 6,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 322629,
       "num": 281278,
       "word": "男团下岗再就业",
@@ -785,6 +833,14 @@
       "onboard_time": 1678007848,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 320892,
+      "num": 320892,
+      "word": "剧版繁花预计9月播出",
+      "onboard_time": 1678028551,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 319840,
@@ -1091,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236973,
+      "num": 172878,
+      "word": "罕见无毛兔询价5万主人不卖",
+      "onboard_time": 1678028130,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236952,
       "num": 236952,
       "word": "定格动画版雷锋上线",
@@ -1249,6 +1313,14 @@
       "onboard_time": 1677995306,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195729,
+      "num": 195729,
+      "word": "惊蛰",
+      "onboard_time": 1678029328,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 195644,
