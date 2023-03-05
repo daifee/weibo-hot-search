@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1677998245358,
+  "endTime": 1678000613218,
   "band_list": [
     {
       "raw_hot": 1862826,
@@ -73,6 +73,14 @@
       "onboard_time": 1677977063,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 876235,
+      "num": 439942,
+      "word": "条件不错却不谈恋爱的原因",
+      "onboard_time": 1677996927,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 865701,
@@ -235,6 +243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 472521,
+      "num": 198266,
+      "word": "何瑞贤新剧换了7个造型",
+      "onboard_time": 1677999269,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 460861,
       "num": 390442,
       "word": "戴口罩喘不上气剪开发现塑料胶布",
@@ -283,20 +299,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 439942,
-      "num": 439942,
-      "word": "条件不错却不谈恋爱的原因",
-      "onboard_time": 1677996927,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 432462,
       "num": 201911,
       "word": "刘亦菲巴黎到达路透",
       "onboard_time": 1677975744,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 431055,
+      "num": 198052,
+      "word": "空气酵母",
+      "onboard_time": 1677998605,
+      "rank": 11,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 426840,
@@ -331,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406093,
+      "num": 197859,
+      "word": "女子买挂面包装是0分试卷",
+      "onboard_time": 1677999269,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395637,
       "num": 217505,
       "word": "尔冬升向郭晓婷邀戏",
       "onboard_time": 1677984325,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388412,
+      "num": 388412,
+      "word": "工作人员帮游客捡手机被幼虎围观",
+      "onboard_time": 1677998126,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386720,
@@ -427,12 +459,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 311368,
+      "num": 197503,
+      "word": "女孩楼顶欲轻生闺蜜冒死相救",
+      "onboard_time": 1677998787,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301832,
       "num": 255423,
       "word": "莫兰特在直播中秀枪",
       "onboard_time": 1677972077,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300958,
+      "num": 186553,
+      "word": "淘宝残疾店主回应获评感动中国人物",
+      "onboard_time": 1677998727,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298594,
@@ -651,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197429,
+      "num": 197429,
+      "word": "星落凝成糖对称文学",
+      "onboard_time": 1678000107,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196922,
       "num": 96893,
       "word": "张艺兴最新弹钢琴vlog",
@@ -793,6 +849,14 @@
       "onboard_time": 1677984265,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155928,
+      "num": 155928,
+      "word": "黑暗荣耀快播了",
+      "onboard_time": 1678000167,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 151695,
@@ -947,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130297,
+      "num": 130297,
+      "word": "丈夫开挖掘机与妻子深情互动",
+      "onboard_time": 1677998367,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129847,
       "num": 129847,
       "word": "利路修将与鲁鲁修联动",
@@ -1073,6 +1145,14 @@
       "onboard_time": 1677967213,
       "rank": 40,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 102048,
+      "num": 102048,
+      "word": "雷锋珍贵原声音频",
+      "onboard_time": 1677999625,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100733,
@@ -1203,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78375,
+      "num": 78375,
+      "word": "教成人识字奶奶回应获感动中国集体奖",
+      "onboard_time": 1677999748,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75657,
       "num": 75657,
       "word": "男子玩滑翔伞挂电线上村民搭梯救援",
@@ -1267,28 +1355,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 52597,
-      "num": 198577,
-      "word": "两会好声音",
-      "onboard_time": 1677993806,
-      "rank": 49,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 52036,
-      "num": 52036,
+      "raw_hot": 58947,
+      "num": 58947,
       "word": "甄子丹说希望用动作电影讲好中国故事",
       "onboard_time": 1677998067,
       "rank": 48,
       "category": "艺人"
     },
     {
-      "raw_hot": 50886,
-      "num": 50886,
-      "word": "工作人员帮游客捡手机被幼虎围观",
-      "onboard_time": 1677998126,
-      "rank": 49,
+      "raw_hot": 55830,
+      "num": 55830,
+      "word": "扬州动物园回应木架腐朽致大熊猫摔倒",
+      "onboard_time": 1678000525,
+      "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52597,
+      "num": 198577,
+      "word": "两会好声音",
+      "onboard_time": 1677993806,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 49661,
