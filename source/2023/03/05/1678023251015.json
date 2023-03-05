@@ -1,0 +1,410 @@
+{
+  "runTime": 1678023251015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10446480,
+        "num": 10446480,
+        "word": "B站",
+        "onboard_time": 1678019313,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1140484,
+        "num": 1140484,
+        "word": "轻型甲流患者一周左右可自愈",
+        "onboard_time": 1678016007,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65363,
+        "num": 919984,
+        "word": "政府工作报告里的民生红包",
+        "onboard_time": 1678003346,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 813017,
+        "num": 813017,
+        "word": "专家呼吁每天省杯咖啡提前规划养老",
+        "onboard_time": 1678013366,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678068,
+        "num": 678068,
+        "word": "梁靖崑夺冠",
+        "onboard_time": 1678020750,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501849,
+        "num": 501849,
+        "word": "JDG 一亿阵容",
+        "onboard_time": 1678017628,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 350159,
+        "num": 350159,
+        "word": "75岁老人中风好友发现步数为0报警",
+        "onboard_time": 1678012527,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290065,
+        "num": 290065,
+        "word": "中戏院长谈演员的文化修养",
+        "onboard_time": 1678014208,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 274062,
+        "num": 274062,
+        "word": "OMG 太热血了",
+        "onboard_time": 1678017868,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255019,
+        "num": 255019,
+        "word": "建议对35岁职场门槛增加监管处罚",
+        "onboard_time": 1678014208,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782849,
+        "num": 254733,
+        "word": "福菀被游客泼水后躲在角落里",
+        "onboard_time": 1678015587,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725442,
+        "num": 254562,
+        "word": "宋茜舞台",
+        "onboard_time": 1678021774,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 601620,
+        "num": 253921,
+        "word": "商家回应5串烤串收费103元",
+        "onboard_time": 1678014688,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537769,
+        "num": 253608,
+        "word": "福菀",
+        "onboard_time": 1678019011,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443498,
+        "num": 253330,
+        "word": "男子高烧近41度体温计贴脸狂飙",
+        "onboard_time": 1678004184,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388849,
+        "num": 252655,
+        "word": "星落凝成糖开虐名场面",
+        "onboard_time": 1678019557,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327425,
+        "num": 252514,
+        "word": "女子称摸UGG靴子被要求买下",
+        "onboard_time": 1678011085,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271637,
+        "num": 251945,
+        "word": "白鹿片场靠在张凌赫肩膀上",
+        "onboard_time": 1678008326,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251773,
+        "num": 251773,
+        "word": "吴兴涵被曝涉假球",
+        "onboard_time": 1678018646,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241252,
+        "num": 241252,
+        "word": "嫡谋影视化",
+        "onboard_time": 1678021293,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 506502,
+        "num": 240308,
+        "word": "男子用自来水洗脸感染食脑虫死亡",
+        "onboard_time": 1678009047,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432908,
+        "num": 238304,
+        "word": "甲流",
+        "onboard_time": 1678012585,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339898,
+        "num": 237549,
+        "word": "建议冬天不学十以外加减法",
+        "onboard_time": 1678020155,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236102,
+        "num": 236102,
+        "word": "甲流催热奥司他韦",
+        "onboard_time": 1678016126,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212726,
+        "num": 212726,
+        "word": "3招帮你识别是否感染甲流",
+        "onboard_time": 1678017868,
+        "rank": 24,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 202169,
+        "num": 202169,
+        "word": "宋佳巴黎时装周看秀造型",
+        "onboard_time": 1678022075,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191609,
+        "num": 191609,
+        "word": "南京地铁回应乘客因手机外放收罚单",
+        "onboard_time": 1678011505,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174980,
+        "num": 174980,
+        "word": "成毅看秀生图",
+        "onboard_time": 1678007787,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174954,
+        "num": 174954,
+        "word": "杨天真说事业心是女性的强心剂",
+        "onboard_time": 1678020994,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174117,
+        "num": 174117,
+        "word": "男团下岗再就业",
+        "onboard_time": 1678013667,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157679,
+        "num": 157679,
+        "word": "鲜花煮奶茶",
+        "onboard_time": 1678009763,
+        "rank": 30,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 157300,
+        "num": 157300,
+        "word": "XYG折夕",
+        "onboard_time": 1678018950,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141040,
+        "num": 141040,
+        "word": "王楚然隐忍式哭戏",
+        "onboard_time": 1678018467,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140786,
+        "num": 140786,
+        "word": "条件不错却不谈恋爱的原因",
+        "onboard_time": 1677996927,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130870,
+        "num": 130870,
+        "word": "代表回应花花成为网红大熊猫",
+        "onboard_time": 1678011686,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122388,
+        "num": 122388,
+        "word": "易烊千玺未知动物剧照",
+        "onboard_time": 1678009287,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118703,
+        "num": 118703,
+        "word": "白马帅掉马",
+        "onboard_time": 1678010907,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115406,
+        "num": 115406,
+        "word": "OMG战胜JDG",
+        "onboard_time": 1678016969,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114245,
+        "num": 114245,
+        "word": "eStar对战LGD",
+        "onboard_time": 1678020450,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114065,
+        "num": 114065,
+        "word": "杨超越公开英文名",
+        "onboard_time": 1678003107,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110597,
+        "num": 110597,
+        "word": "建议取消生育支持的孩次差异",
+        "onboard_time": 1677996027,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101110,
+        "num": 101110,
+        "word": "雷锋离开后他把一家三代变成了雷锋",
+        "onboard_time": 1678022731,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94326,
+        "num": 94326,
+        "word": "张雨霏建议冠军体育课进校园",
+        "onboard_time": 1678016066,
+        "rank": 42,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 91970,
+        "num": 91970,
+        "word": "OMG偷家获胜",
+        "onboard_time": 1678019797,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90318,
+        "num": 90318,
+        "word": "两会",
+        "onboard_time": 1678016607,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 90230,
+        "num": 90230,
+        "word": "时代少年团 演唱会",
+        "onboard_time": 1678003225,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87958,
+        "num": 87958,
+        "word": "申留真WANNABE直拍",
+        "onboard_time": 1678014808,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 84546,
+        "num": 84546,
+        "word": "女子买挂面包装是0分试卷",
+        "onboard_time": 1677999269,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82501,
+        "num": 82501,
+        "word": "王艺迪WTT果阿站夺冠",
+        "onboard_time": 1678017268,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78793,
+        "num": 78793,
+        "word": "毛不易 抢票",
+        "onboard_time": 1678012349,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加江苏代表团审议#"
+    }
+  }
+}

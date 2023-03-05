@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1678022544295,
+  "endTime": 1678023251015,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2635,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 725442,
+      "num": 256038,
+      "word": "宋茜舞台",
+      "onboard_time": 1678021774,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 725439,
       "num": 725439,
       "word": "台独辜宽敏病亡",
@@ -3945,14 +3953,6 @@
       "onboard_time": 1677552687,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 533757,
-      "num": 256038,
-      "word": "宋茜舞台",
-      "onboard_time": 1678021774,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 533688,
@@ -5812,7 +5812,7 @@
     },
     {
       "raw_hot": 379681,
-      "num": 231583,
+      "num": 237549,
       "word": "建议冬天不学十以外加减法",
       "onboard_time": 1678020155,
       "rank": 36,
@@ -8227,6 +8227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251773,
+      "num": 251773,
+      "word": "吴兴涵被曝涉假球",
+      "onboard_time": 1678018646,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251650,
       "num": 236197,
       "word": "母亲去世妹妹含泪背姐姐出嫁",
@@ -8449,6 +8457,14 @@
       "onboard_time": 1678011686,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241252,
+      "num": 241252,
+      "word": "嫡谋影视化",
+      "onboard_time": 1677481167,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 241069,
@@ -8745,14 +8761,6 @@
       "onboard_time": 1677684988,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228618,
-      "num": 228618,
-      "word": "吴兴涵被曝涉假球",
-      "onboard_time": 1678018646,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 228285,
@@ -9329,14 +9337,6 @@
       "onboard_time": 1677636572,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 210885,
-      "num": 210885,
-      "word": "嫡谋影视化",
-      "onboard_time": 1677481167,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 210662,
@@ -11059,6 +11059,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 174954,
+      "num": 174954,
+      "word": "杨天真说事业心是女性的强心剂",
+      "onboard_time": 1678020994,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174770,
       "num": 174770,
       "word": "异地就医备案能在手机上办了",
@@ -11697,14 +11705,6 @@
       "onboard_time": 1677663028,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 156526,
-      "num": 156526,
-      "word": "杨天真说事业心是女性的强心剂",
-      "onboard_time": 1678020994,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156490,
@@ -13665,6 +13665,14 @@
       "onboard_time": 1677761431,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101110,
+      "num": 101110,
+      "word": "雷锋离开后他把一家三代变成了雷锋",
+      "onboard_time": 1678022731,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100827,
