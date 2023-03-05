@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678030420504,
+  "endTime": 1678033461577,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1593,6 +1593,14 @@
       "onboard_time": 1677835228,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 755853,
+      "num": 755853,
+      "word": "东北饭包",
+      "onboard_time": 1678029869,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 755672,
@@ -5115,6 +5123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 291803,
+      "num": 183356,
+      "word": "被雷电瞄准时身体会有预兆",
+      "onboard_time": 1678031486,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 291159,
       "num": 254642,
       "word": "张本智和3比1安宰贤",
@@ -6697,6 +6713,14 @@
       "onboard_time": 1677741748,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209575,
+      "num": 209575,
+      "word": "王鹤棣读雷锋日记",
+      "onboard_time": 1678032203,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 208847,
@@ -8963,14 +8987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136497,
-      "num": 136497,
-      "word": "东北饭包",
-      "onboard_time": 1678029869,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 136477,
       "num": 136477,
       "word": "园林猫咪遇到花好治愈",
@@ -10195,6 +10211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84249,
+      "num": 84249,
+      "word": "虞书欣打戏路透",
+      "onboard_time": 1678032803,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 84012,
       "num": 84012,
       "word": "俄称美企图在乌使用化武嫁祸俄方",
@@ -10241,6 +10265,14 @@
       "onboard_time": 1677848425,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82449,
+      "num": 82449,
+      "word": "英超双红会",
+      "onboard_time": 1678031845,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 81170,
