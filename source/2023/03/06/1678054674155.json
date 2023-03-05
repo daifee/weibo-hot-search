@@ -1,0 +1,410 @@
+{
+  "runTime": 1678054674155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 164995,
+        "num": 164995,
+        "word": "国家医保局回应患者15天必须出院",
+        "onboard_time": 1678044552,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139864,
+        "num": 139864,
+        "word": "轻型甲流患者一周左右可自愈",
+        "onboard_time": 1678016007,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3555,
+        "num": 124564,
+        "word": "政府工作报告里的民生红包",
+        "onboard_time": 1678003346,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 120827,
+        "num": 120827,
+        "word": "震后松毛虫大规模入侵土耳其",
+        "onboard_time": 1678037836,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101329,
+        "num": 101329,
+        "word": "被雷电瞄准时身体会有预兆",
+        "onboard_time": 1678031486,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94982,
+        "num": 94982,
+        "word": "专家呼吁每天省杯咖啡提前规划养老",
+        "onboard_time": 1678013366,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61436,
+        "num": 61436,
+        "word": "买根火腿肠就能在石家庄实现地铁自由",
+        "onboard_time": 1678024829,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59866,
+        "num": 59866,
+        "word": "英超双红会",
+        "onboard_time": 1678031845,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53687,
+        "num": 53687,
+        "word": "惊蛰",
+        "onboard_time": 1678029328,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41810,
+        "num": 53624,
+        "word": "75岁老人中风好友发现步数为0报警",
+        "onboard_time": 1678012527,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55595,
+        "num": 53394,
+        "word": "商家回应5串烤串收费103元",
+        "onboard_time": 1678014688,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55545,
+        "num": 53120,
+        "word": "关晓彤巴黎看秀前试装",
+        "onboard_time": 1678028490,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 55075,
+        "num": 52817,
+        "word": "女子称摸UGG靴子被要求买下",
+        "onboard_time": 1678011085,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52598,
+        "num": 52598,
+        "word": "王一博读雷锋日记",
+        "onboard_time": 1678024709,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46487,
+        "num": 46487,
+        "word": "福菀被游客泼水后躲在角落里",
+        "onboard_time": 1678015587,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37681,
+        "num": 37681,
+        "word": "3招帮你识别是否感染甲流",
+        "onboard_time": 1678017868,
+        "rank": 15,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 34015,
+        "num": 34015,
+        "word": "来自时代少年团的郭俊辰",
+        "onboard_time": 1678028309,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32882,
+        "num": 32882,
+        "word": "建议给女员工占比高的企业减税",
+        "onboard_time": 1678026809,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32077,
+        "num": 32077,
+        "word": "福菀",
+        "onboard_time": 1678019011,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30594,
+        "num": 30594,
+        "word": "建议对35岁职场门槛增加监管处罚",
+        "onboard_time": 1678014208,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119023,
+        "num": 30569,
+        "word": "B站",
+        "onboard_time": 1678019313,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 59329,
+        "num": 30554,
+        "word": "男子用自来水洗脸感染食脑虫死亡",
+        "onboard_time": 1678009047,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50311,
+        "num": 30487,
+        "word": "男童地铁内攀爬撒零食家长无动于衷",
+        "onboard_time": 1678050371,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49143,
+        "num": 30457,
+        "word": "浙江渔民误捕疑海猪后果断放生",
+        "onboard_time": 1678044072,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48559,
+        "num": 30420,
+        "word": "甲流",
+        "onboard_time": 1678012585,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47184,
+        "num": 30408,
+        "word": "罕见无毛兔询价5万主人不卖",
+        "onboard_time": 1678028130,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45454,
+        "num": 30363,
+        "word": "梦回爸爸去哪儿",
+        "onboard_time": 1678027650,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30338,
+        "num": 30338,
+        "word": "中戏院长谈演员的文化修养",
+        "onboard_time": 1678014208,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 29270,
+        "num": 29270,
+        "word": "泰山景区回应多名游客深夜翻门进入",
+        "onboard_time": 1678024229,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 27883,
+        "num": 27883,
+        "word": "东北饭包",
+        "onboard_time": 1678029869,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 25320,
+        "num": 25320,
+        "word": "周一没有不疯的打工人",
+        "onboard_time": 1678027351,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24179,
+        "num": 24179,
+        "word": "白鹿片场靠在张凌赫肩膀上",
+        "onboard_time": 1678008326,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23996,
+        "num": 23996,
+        "word": "甲流催热奥司他韦",
+        "onboard_time": 1678016126,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23346,
+        "num": 23346,
+        "word": "男子高烧近41度体温计贴脸狂飙",
+        "onboard_time": 1678004184,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22373,
+        "num": 22373,
+        "word": "JDG 一亿阵容",
+        "onboard_time": 1678017628,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22260,
+        "num": 22260,
+        "word": "宋祖儿和小朋友跳舞",
+        "onboard_time": 1678050612,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21655,
+        "num": 21655,
+        "word": "OMG 太热血了",
+        "onboard_time": 1678017868,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21270,
+        "num": 21270,
+        "word": "剧版繁花预计9月播出",
+        "onboard_time": 1678028551,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20690,
+        "num": 20690,
+        "word": "两会",
+        "onboard_time": 1678016607,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 20683,
+        "num": 20683,
+        "word": "星落凝成糖开虐名场面",
+        "onboard_time": 1678019557,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18970,
+        "num": 18970,
+        "word": "中国人爱喝茶是刻在基因里的",
+        "onboard_time": 1678027170,
+        "rank": 40,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 18966,
+        "num": 18966,
+        "word": "成毅看秀生图",
+        "onboard_time": 1678007787,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 18629,
+        "num": 18629,
+        "word": "C罗为地震灾区捐赠物资",
+        "onboard_time": 1678023511,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17973,
+        "num": 17973,
+        "word": "吴兴涵被曝涉假球",
+        "onboard_time": 1678018646,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17760,
+        "num": 17760,
+        "word": "宋茜舞台",
+        "onboard_time": 1678021774,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17330,
+        "num": 17330,
+        "word": "一方水土养一方大熊猫",
+        "onboard_time": 1678025430,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17161,
+        "num": 17161,
+        "word": "宋佳巴黎时装周看秀造型",
+        "onboard_time": 1678022075,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 15614,
+        "num": 15614,
+        "word": "王鹤棣读雷锋日记",
+        "onboard_time": 1678032203,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15092,
+        "num": 15092,
+        "word": "宁艺卓转身名场面",
+        "onboard_time": 1678026630,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14956,
+        "num": 14956,
+        "word": "虞书欣打戏路透",
+        "onboard_time": 1678032803,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加江苏代表团审议#"
+    }
+  }
+}
