@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1678001614688,
+  "endTime": 1678004568952,
   "band_list": [
     {
       "raw_hot": 1862826,
@@ -155,8 +155,16 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 578590,
-      "num": 578590,
+      "raw_hot": 595958,
+      "num": 370360,
+      "word": "女子买挂面包装是0分试卷",
+      "onboard_time": 1677999269,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594209,
+      "num": 594209,
       "word": "工作人员帮游客捡手机被幼虎围观",
       "onboard_time": 1677998126,
       "rank": 49,
@@ -177,6 +185,14 @@
       "onboard_time": 1677990267,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567931,
+      "num": 301388,
+      "word": "杨超越公开英文名",
+      "onboard_time": 1678003107,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 553049,
@@ -203,14 +219,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 536908,
-      "num": 370360,
-      "word": "女子买挂面包装是0分试卷",
-      "onboard_time": 1677999269,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 529803,
       "num": 282388,
       "word": "卓文萱否认参加浪姐4",
@@ -225,6 +233,14 @@
       "onboard_time": 1677960792,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514875,
+      "num": 247138,
+      "word": "时代少年团 演唱会",
+      "onboard_time": 1678003225,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 491308,
@@ -291,6 +307,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 454268,
+      "num": 287772,
+      "word": "扬州动物园回应木架腐朽致大熊猫摔倒",
+      "onboard_time": 1678000525,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450766,
       "num": 199691,
       "word": "凯特 杨紫琼",
@@ -313,6 +337,14 @@
       "onboard_time": 1677940889,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 443996,
+      "num": 236743,
+      "word": "切尔诺贝利的狗或能教人类生存新技巧",
+      "onboard_time": 1678002448,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 432462,
@@ -379,6 +411,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 384113,
+      "num": 384113,
+      "word": "淘宝残疾店主回应获评感动中国人物",
+      "onboard_time": 1677998727,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373671,
       "num": 373671,
       "word": "野生大熊猫在树上求偶",
@@ -443,12 +483,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 341951,
-      "num": 218633,
-      "word": "淘宝残疾店主回应获评感动中国人物",
-      "onboard_time": 1677998727,
+      "raw_hot": 336863,
+      "num": 207435,
+      "word": "周杰伦调侃刘畊宏",
+      "onboard_time": 1678002806,
       "rank": 17,
-      "category": "社会新闻"
+      "category": "音乐"
     },
     {
       "raw_hot": 319840,
@@ -507,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 285971,
+      "num": 131723,
+      "word": "巴黎时装周的中国明星",
+      "onboard_time": 1678002264,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275556,
       "num": 275556,
       "word": "警方通报16岁女孩殴打三轮车阿姨",
@@ -521,6 +569,14 @@
       "onboard_time": 1677989126,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 270927,
+      "num": 270927,
+      "word": "俄亥俄再发生列车脱轨事故",
+      "onboard_time": 1678003046,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269412,
@@ -545,6 +601,14 @@
       "onboard_time": 1677930387,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259882,
+      "num": 165047,
+      "word": "来成都看花花挤得打堆堆",
+      "onboard_time": 1678000708,
+      "rank": 21,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 257099,
@@ -771,20 +835,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192797,
-      "num": 192797,
-      "word": "扬州动物园回应木架腐朽致大熊猫摔倒",
-      "onboard_time": 1678000525,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191983,
       "num": 200232,
       "word": "重启人生",
       "onboard_time": 1677992606,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188819,
+      "num": 188819,
+      "word": "RW对战RNGM",
+      "onboard_time": 1678004127,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 183356,
@@ -825,6 +889,14 @@
       "onboard_time": 1677947125,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172137,
+      "num": 172137,
+      "word": "FoFo 稳",
+      "onboard_time": 1678000948,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 168823,
@@ -899,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149112,
-      "num": 149112,
-      "word": "来成都看花花挤得打堆堆",
-      "onboard_time": 1678000708,
-      "rank": 21,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 149011,
       "num": 125589,
       "word": "凯特布兰切特亲杨紫琼",
@@ -963,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142939,
+      "num": 121430,
+      "word": "男子高烧近41度体温计贴脸狂飙",
+      "onboard_time": 1678004184,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141547,
       "num": 141547,
       "word": "辽宁舰90后女少校喊大家加入",
@@ -995,12 +1067,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138008,
+      "num": 335473,
+      "word": "政府工作报告里的民生红包",
+      "onboard_time": 1678003346,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 136224,
       "num": 199961,
       "word": "UFC285",
       "onboard_time": 1677991347,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132881,
+      "num": 132881,
+      "word": "顺德小吃你是我的神",
+      "onboard_time": 1678001667,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 132108,
@@ -1099,6 +1187,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 116214,
+      "num": 116214,
+      "word": "贺聪走秀",
+      "onboard_time": 1678003466,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 113255,
       "num": 105590,
       "word": "希林娜依高高定红毯造型",
@@ -1137,14 +1233,6 @@
       "onboard_time": 1677927747,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108671,
-      "num": 108671,
-      "word": "FoFo 稳",
-      "onboard_time": 1678000948,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 107658,
@@ -1241,6 +1329,22 @@
       "onboard_time": 1677934587,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94792,
+      "num": 94792,
+      "word": "蒋敦豪要把声卡卖了买羊",
+      "onboard_time": 1678003767,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 93157,
+      "num": 93157,
+      "word": "完善生育支持政策体系",
+      "onboard_time": 1678004067,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90743,
@@ -1401,6 +1505,14 @@
       "onboard_time": 1677998067,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55708,
+      "num": 262663,
+      "word": "他是冲在救援一线的全国人大代表",
+      "onboard_time": 1678003346,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52597,

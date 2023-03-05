@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1678001614688,
+  "endTime": 1678004568952,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -3227,6 +3227,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 595958,
+      "num": 370360,
+      "word": "女子买挂面包装是0分试卷",
+      "onboard_time": 1677999269,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594209,
+      "num": 594209,
+      "word": "工作人员帮游客捡手机被幼虎围观",
+      "onboard_time": 1677998126,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590121,
       "num": 590121,
       "word": "甲午战争沉舰发现大口径炮弹",
@@ -3304,14 +3320,6 @@
       "word": "丫丫",
       "onboard_time": 1677494430,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 578590,
-      "num": 578590,
-      "word": "工作人员帮游客捡手机被幼虎围观",
-      "onboard_time": 1677998126,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -3449,6 +3457,14 @@
       "onboard_time": 1677671189,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 567931,
+      "num": 301388,
+      "word": "杨超越公开英文名",
+      "onboard_time": 1678003107,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 567110,
@@ -3787,14 +3803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 536908,
-      "num": 370360,
-      "word": "女子买挂面包装是0分试卷",
-      "onboard_time": 1677999269,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 534485,
       "num": 534485,
       "word": "建议元宵节放假1天",
@@ -4033,6 +4041,14 @@
       "onboard_time": 1677479848,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514875,
+      "num": 247138,
+      "word": "时代少年团 演唱会",
+      "onboard_time": 1678003225,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 513594,
@@ -4571,6 +4587,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 454268,
+      "num": 287772,
+      "word": "扬州动物园回应木架腐朽致大熊猫摔倒",
+      "onboard_time": 1678000525,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452973,
       "num": 452973,
       "word": "必胜客崩了",
@@ -4673,6 +4697,14 @@
       "onboard_time": 1677679831,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 443996,
+      "num": 236743,
+      "word": "切尔诺贝利的狗或能教人类生存新技巧",
+      "onboard_time": 1678002448,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 443282,
@@ -5467,6 +5499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384113,
+      "num": 384113,
+      "word": "淘宝残疾店主回应获评感动中国人物",
+      "onboard_time": 1677998727,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384112,
       "num": 384112,
       "word": "3月星座恋爱运",
@@ -6179,14 +6219,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 341951,
-      "num": 218633,
-      "word": "淘宝残疾店主回应获评感动中国人物",
-      "onboard_time": 1677998727,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341295,
       "num": 341295,
       "word": "金智秀朴彩英巴黎同框路透",
@@ -6249,6 +6281,14 @@
       "onboard_time": 1677576331,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336863,
+      "num": 207435,
+      "word": "周杰伦调侃刘畊宏",
+      "onboard_time": 1678002806,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 335753,
@@ -7227,6 +7267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 285971,
+      "num": 131723,
+      "word": "巴黎时装周的中国明星",
+      "onboard_time": 1678002264,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285898,
       "num": 285898,
       "word": "朴彩英巴黎时装周造型",
@@ -7515,6 +7563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270927,
+      "num": 270927,
+      "word": "俄亥俄再发生列车脱轨事故",
+      "onboard_time": 1678003046,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270848,
       "num": 270848,
       "word": "95后山东女孩大学毕业当矿工",
@@ -7721,6 +7777,14 @@
       "onboard_time": 1677817414,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 259882,
+      "num": 165047,
+      "word": "来成都看花花挤得打堆堆",
+      "onboard_time": 1678000708,
+      "rank": 21,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 259727,
@@ -9971,14 +10035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192797,
-      "num": 192797,
-      "word": "扬州动物园回应木架腐朽致大熊猫摔倒",
-      "onboard_time": 1678000525,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192785,
       "num": 192785,
       "word": "贺峻霖白衬衫光影随拍",
@@ -10233,6 +10289,14 @@
       "onboard_time": 1677768570,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188819,
+      "num": 188819,
+      "word": "RW对战RNGM",
+      "onboard_time": 1678004127,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 188801,
@@ -10657,6 +10721,14 @@
       "onboard_time": 1677647071,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 172137,
+      "num": 172137,
+      "word": "FoFo 稳",
+      "onboard_time": 1678000948,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 172112,
@@ -11411,14 +11483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 149112,
-      "num": 149112,
-      "word": "来成都看花花挤得打堆堆",
-      "onboard_time": 1678000708,
-      "rank": 21,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 149011,
       "num": 125589,
       "word": "凯特布兰切特亲杨紫琼",
@@ -11635,6 +11699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142939,
+      "num": 121430,
+      "word": "男子高烧近41度体温计贴脸狂飙",
+      "onboard_time": 1678004184,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142800,
       "num": 142800,
       "word": "人民日报社论",
@@ -11809,6 +11881,14 @@
       "onboard_time": 1677812247,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 138008,
+      "num": 335473,
+      "word": "政府工作报告里的民生红包",
+      "onboard_time": 1678003346,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 138000,
@@ -12033,6 +12113,14 @@
       "onboard_time": 1677838165,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132881,
+      "num": 132881,
+      "word": "顺德小吃你是我的神",
+      "onboard_time": 1678001667,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 132800,
@@ -12555,6 +12643,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 116214,
+      "num": 116214,
+      "word": "贺聪走秀",
+      "onboard_time": 1678003466,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 116206,
       "num": 116206,
       "word": "最强大脑八强名单",
@@ -12841,14 +12937,6 @@
       "onboard_time": 1677801869,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108671,
-      "num": 108671,
-      "word": "FoFo 稳",
-      "onboard_time": 1678000948,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 108220,
@@ -13211,6 +13299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94792,
+      "num": 94792,
+      "word": "蒋敦豪要把声卡卖了买羊",
+      "onboard_time": 1678003767,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94149,
       "num": 94149,
       "word": "WTT",
@@ -13233,6 +13329,14 @@
       "onboard_time": 1677852869,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93157,
+      "num": 93157,
+      "word": "完善生育支持政策体系",
+      "onboard_time": 1678004067,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92813,
@@ -13801,6 +13905,14 @@
       "onboard_time": 1677998067,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55708,
+      "num": 262663,
+      "word": "他是冲在救援一线的全国人大代表",
+      "onboard_time": 1678003346,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55498,
