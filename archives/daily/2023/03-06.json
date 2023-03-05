@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678055676818,
+  "endTime": 1678058325936,
   "band_list": [
     {
       "raw_hot": 928704,
@@ -19,6 +19,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 698069,
+      "num": 698069,
+      "word": "国家医保局回应患者15天必须出院",
+      "onboard_time": 1678044552,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 614352,
       "num": 614352,
       "word": "专家呼吁每天省杯咖啡提前规划养老",
@@ -27,12 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579165,
+      "num": 579165,
+      "word": "震后松毛虫大规模入侵土耳其",
+      "onboard_time": 1678037836,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442297,
-      "num": 197777,
+      "num": 318238,
       "word": "被雷电瞄准时身体会有预兆",
       "onboard_time": 1678031486,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 440904,
+      "num": 440904,
+      "word": "轻型甲流患者一周左右可自愈",
+      "onboard_time": 1678016007,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416594,
@@ -67,35 +91,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 339956,
-      "num": 339956,
-      "word": "轻型甲流患者一周左右可自愈",
-      "onboard_time": 1678016007,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280121,
-      "num": 183224,
-      "word": "商家回应5串烤串收费103元",
-      "onboard_time": 1678014688,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276406,
-      "num": 276406,
+      "raw_hot": 309520,
+      "num": 309520,
       "word": "买根火腿肠就能在石家庄实现地铁自由",
       "onboard_time": 1678024829,
       "rank": 5,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251886,
-      "num": 251886,
-      "word": "国家医保局回应患者15天必须出院",
-      "onboard_time": 1678044552,
-      "rank": 45,
+      "raw_hot": 280121,
+      "num": 184548,
+      "word": "商家回应5串烤串收费103元",
+      "onboard_time": 1678014688,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -121,6 +129,14 @@
       "onboard_time": 1678028130,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232420,
+      "num": 232420,
+      "word": "利物浦7比0曼联",
+      "onboard_time": 1678057818,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 231154,
@@ -171,11 +187,27 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189038,
-      "num": 189038,
-      "word": "震后松毛虫大规模入侵土耳其",
-      "onboard_time": 1678037836,
-      "rank": 1,
+      "raw_hot": 194565,
+      "num": 188876,
+      "word": "曼联创造双红会最大比分失利",
+      "onboard_time": 1678057760,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191093,
+      "num": 191093,
+      "word": "惊蛰",
+      "onboard_time": 1678029328,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 188869,
+      "num": 188869,
+      "word": "女子称摸UGG靴子被要求买下",
+      "onboard_time": 1678011085,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -187,11 +219,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182887,
-      "num": 182887,
-      "word": "女子称摸UGG靴子被要求买下",
-      "onboard_time": 1678011085,
-      "rank": 16,
+      "raw_hot": 179325,
+      "num": 109019,
+      "word": "浙江渔民误捕疑海猪后果断放生",
+      "onboard_time": 1678044072,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -267,6 +299,46 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112799,
+      "num": 112799,
+      "word": "泰山景区回应多名游客深夜翻门进入",
+      "onboard_time": 1678024229,
+      "rank": 41,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 109906,
+      "num": 109906,
+      "word": "勇士vs湖人",
+      "onboard_time": 1678057999,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107165,
+      "num": 107165,
+      "word": "建议对35岁职场门槛增加监管处罚",
+      "onboard_time": 1678014208,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106786,
+      "num": 106786,
+      "word": "3招帮你识别是否感染甲流",
+      "onboard_time": 1678017868,
+      "rank": 34,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 103057,
+      "num": 103057,
+      "word": "男童地铁内攀爬撒零食家长无动于衷",
+      "onboard_time": 1678050371,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98232,
       "num": 98232,
       "word": "福菀",
@@ -291,14 +363,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 93756,
-      "num": 93756,
-      "word": "3招帮你识别是否感染甲流",
-      "onboard_time": 1678017868,
-      "rank": 34,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 90641,
       "num": 90641,
       "word": "男团下岗再就业",
@@ -315,14 +379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 87650,
-      "num": 87650,
-      "word": "惊蛰",
-      "onboard_time": 1678029328,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 87373,
       "num": 87373,
       "word": "虞书欣打戏路透",
@@ -331,8 +387,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 84233,
-      "num": 84233,
+      "raw_hot": 84306,
+      "num": 84306,
       "word": "甲流催热奥司他韦",
       "onboard_time": 1678016126,
       "rank": 39,
@@ -345,22 +401,6 @@
       "onboard_time": 1678018646,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83306,
-      "num": 83306,
-      "word": "泰山景区回应多名游客深夜翻门进入",
-      "onboard_time": 1678024229,
-      "rank": 41,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 82335,
-      "num": 82335,
-      "word": "建议对35岁职场门槛增加监管处罚",
-      "onboard_time": 1678014208,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75018,
@@ -379,27 +419,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 72053,
-      "num": 41251,
-      "word": "男童地铁内攀爬撒零食家长无动于衷",
-      "onboard_time": 1678050371,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70368,
       "num": 70368,
       "word": "南京地铁回应乘客因手机外放收罚单",
       "onboard_time": 1678011505,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69316,
-      "num": 41024,
-      "word": "浙江渔民误捕疑海猪后果断放生",
-      "onboard_time": 1678044072,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -435,8 +459,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 31112,
-      "num": 31112,
+      "raw_hot": 44974,
+      "num": 44974,
+      "word": "成毅看秀生图",
+      "onboard_time": 1678007787,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 44111,
+      "num": 44111,
       "word": "两会",
       "onboard_time": 1678016607,
       "rank": 47,
@@ -451,16 +483,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 24279,
-      "num": 24279,
-      "word": "成毅看秀生图",
-      "onboard_time": 1678007787,
-      "rank": 48,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 10335,
-      "num": 395236,
+      "num": 507350,
       "word": "政府工作报告里的民生红包",
       "onboard_time": 1678003346,
       "rank": 2,
