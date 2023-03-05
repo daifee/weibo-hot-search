@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1678007867542,
+  "endTime": 1678008827901,
   "band_list": [
     {
       "raw_hot": 1862826,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1406832,
+      "num": 538893,
+      "word": "男子高烧近41度体温计贴脸狂飙",
+      "onboard_time": 1678004184,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1387040,
       "num": 211367,
       "word": "反诈老陈自曝2022年收入133万",
@@ -41,14 +49,6 @@
       "onboard_time": 1677941430,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1364947,
-      "num": 322305,
-      "word": "男子高烧近41度体温计贴脸狂飙",
-      "onboard_time": 1678004184,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1236072,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 958535,
-      "num": 439942,
+      "num": 530970,
       "word": "条件不错却不谈恋爱的原因",
       "onboard_time": 1677996927,
       "rank": 28,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 749221,
-      "num": 347331,
+      "num": 533776,
       "word": "杨超越公开英文名",
       "onboard_time": 1678003107,
       "rank": 6,
@@ -137,6 +137,14 @@
       "onboard_time": 1677989126,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 738373,
+      "num": 444976,
+      "word": "白鹿片场靠在张凌赫肩膀上",
+      "onboard_time": 1678008326,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 680263,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 595958,
-      "num": 370360,
+      "num": 452203,
       "word": "女子买挂面包装是0分试卷",
       "onboard_time": 1677999269,
       "rank": 12,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 489624,
-      "num": 316118,
+      "num": 445819,
       "word": "切尔诺贝利的狗或能教人类生存新技巧",
       "onboard_time": 1678002448,
       "rank": 12,
@@ -395,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 408203,
+      "num": 408203,
+      "word": "成毅看秀生图",
+      "onboard_time": 1678007787,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 407681,
       "num": 201856,
       "word": "女生玩梗对暗号遭小孩婉拒时代过了",
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 384113,
-      "num": 384113,
+      "num": 544726,
       "word": "淘宝残疾店主回应获评感动中国人物",
       "onboard_time": 1677998727,
       "rank": 17,
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 380465,
-      "num": 328625,
+      "num": 333299,
       "word": "俄亥俄再发生列车脱轨事故",
       "onboard_time": 1678003046,
       "rank": 8,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 374661,
-      "num": 258898,
+      "num": 327452,
       "word": "宋茜送你一朵小红花彩排照",
       "onboard_time": 1678006045,
       "rank": 12,
@@ -465,6 +481,14 @@
       "onboard_time": 1677972980,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 362268,
+      "num": 331731,
+      "word": "浪凡",
+      "onboard_time": 1678007726,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 354992,
@@ -513,6 +537,14 @@
       "onboard_time": 1678002806,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 321659,
+      "num": 321659,
+      "word": "金泰亨95后整顿职场",
+      "onboard_time": 1678007848,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 319840,
@@ -617,6 +649,14 @@
       "onboard_time": 1677989606,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 262495,
+      "num": 262495,
+      "word": "张大大关注周柯宇的锁骨",
+      "onboard_time": 1678008145,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 262204,
@@ -795,14 +835,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 201218,
-      "num": 201218,
-      "word": "成毅看秀生图",
-      "onboard_time": 1678007787,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 199176,
       "num": 199176,
       "word": "2023F1巴林大奖赛",
@@ -867,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194102,
+      "num": 194102,
+      "word": "WB小同桌发起群聊",
+      "onboard_time": 1678007905,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191983,
       "num": 200232,
       "word": "重启人生",
@@ -875,20 +915,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190666,
+      "num": 190666,
+      "word": "我国多地将超前体验4月的暖意",
+      "onboard_time": 1678006646,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188819,
       "num": 300538,
       "word": "RW对战RNGM",
       "onboard_time": 1678004127,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 186651,
-      "num": 186651,
-      "word": "浪凡",
-      "onboard_time": 1678007726,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 184364,
@@ -956,7 +996,7 @@
     },
     {
       "raw_hot": 168049,
-      "num": 343732,
+      "num": 537402,
       "word": "政府工作报告里的民生红包",
       "onboard_time": 1678003346,
       "rank": 4,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1677983126,
       "rank": 32,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 149306,
+      "num": 138931,
+      "word": "瑞镇家",
+      "onboard_time": 1678007848,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 149237,
@@ -1137,14 +1185,6 @@
       "onboard_time": 1678003466,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 137181,
-      "num": 137181,
-      "word": "金泰亨95后整顿职场",
-      "onboard_time": 1678007848,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 136224,
@@ -1259,12 +1299,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 117627,
+      "num": 117627,
+      "word": "IG13000杀",
+      "onboard_time": 1678007125,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114709,
       "num": 114709,
       "word": "iG战胜UP",
       "onboard_time": 1678007306,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113324,
+      "num": 113324,
+      "word": "吴兴涵",
+      "onboard_time": 1678008506,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 113255,
@@ -1339,14 +1395,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 104517,
-      "num": 104517,
-      "word": "我国多地将超前体验4月的暖意",
-      "onboard_time": 1678006646,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103270,
       "num": 103270,
       "word": "我的春日ootd",
@@ -1355,20 +1403,20 @@
       "category": "时尚,情感"
     },
     {
+      "raw_hot": 102227,
+      "num": 102227,
+      "word": "他们不是我的粉丝是中国文化的粉丝",
+      "onboard_time": 1678008447,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102048,
       "num": 102048,
       "word": "雷锋珍贵原声音频",
       "onboard_time": 1677999625,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101051,
-      "num": 101051,
-      "word": "IG13000杀",
-      "onboard_time": 1678007125,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 100733,
@@ -1449,14 +1497,6 @@
       "onboard_time": 1678004067,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94021,
-      "num": 94021,
-      "word": "瑞镇家",
-      "onboard_time": 1678007848,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 90743,
@@ -1644,7 +1684,7 @@
     },
     {
       "raw_hot": 55708,
-      "num": 326995,
+      "num": 445179,
       "word": "他是冲在救援一线的全国人大代表",
       "onboard_time": 1678003346,
       "rank": 9,
@@ -1684,7 +1724,7 @@
     },
     {
       "raw_hot": 42261,
-      "num": 265838,
+      "num": 541527,
       "word": "全国政协十四届一次会议记者会",
       "onboard_time": 1678005688,
       "rank": 2,
