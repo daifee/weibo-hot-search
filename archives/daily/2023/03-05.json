@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1677993447079,
+  "endTime": 1677994418784,
   "band_list": [
     {
       "raw_hot": 1862826,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1224254,
-      "num": 195284,
+      "num": 199091,
       "word": "迪丽热巴造型",
       "onboard_time": 1677942691,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 954842,
+      "num": 200561,
+      "word": "反诈老陈自曝2022年收入133万",
+      "onboard_time": 1677993266,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 925883,
@@ -91,12 +99,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 680263,
+      "num": 346543,
+      "word": "表白失败后立刻英语打卡",
+      "onboard_time": 1677990566,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 639680,
       "num": 233830,
       "word": "4岁娃17楼坠落140天后重新行走",
       "onboard_time": 1677955274,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636846,
+      "num": 199820,
+      "word": "鱼丁糸",
+      "onboard_time": 1677992486,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 600125,
@@ -107,19 +131,19 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 584629,
-      "num": 346543,
-      "word": "表白失败后立刻英语打卡",
-      "onboard_time": 1677990566,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 574135,
       "num": 574135,
       "word": "建议随迁子女就地入学",
       "onboard_time": 1677986304,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 571688,
+      "num": 571688,
+      "word": "我国将加快6G网络研发",
+      "onboard_time": 1677990267,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -163,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 517721,
-      "num": 123286,
-      "word": "鱼丁糸",
-      "onboard_time": 1677992486,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 491308,
       "num": 281440,
       "word": "水母头",
@@ -185,14 +201,6 @@
       "onboard_time": 1677981567,
       "rank": 30,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 478536,
-      "num": 478536,
-      "word": "我国将加快6G网络研发",
-      "onboard_time": 1677990267,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 474630,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 450766,
-      "num": 158821,
+      "num": 199691,
       "word": "凯特 杨紫琼",
       "onboard_time": 1677987865,
       "rank": 26,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 317585,
-      "num": 156966,
+      "num": 199272,
       "word": "NewJeans新歌MV花絮视频",
       "onboard_time": 1677989845,
       "rank": 30,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 267510,
-      "num": 175592,
+      "num": 198957,
       "word": "利路修走秀",
       "onboard_time": 1677989606,
       "rank": 32,
@@ -491,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242897,
+      "num": 200412,
+      "word": "野生大熊猫在树上求偶",
+      "onboard_time": 1677992305,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238201,
       "num": 238201,
       "word": "76人终结雄鹿16连胜",
@@ -521,6 +537,14 @@
       "onboard_time": 1677979644,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 229299,
+      "num": 200273,
+      "word": "猫屎咖啡和猫屎有什么关系",
+      "onboard_time": 1677993026,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227411,
@@ -619,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191983,
+      "num": 200232,
+      "word": "重启人生",
+      "onboard_time": 1677992606,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183356,
       "num": 183356,
       "word": "王心凌现场好稳",
@@ -641,14 +673,6 @@
       "onboard_time": 1677932486,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175008,
-      "num": 175008,
-      "word": "重启人生",
-      "onboard_time": 1677992606,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 173752,
@@ -691,12 +715,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160674,
-      "num": 133943,
+      "raw_hot": 161400,
+      "num": 199720,
       "word": "香港开年爆款电影为何是它",
       "onboard_time": 1677990686,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157327,
+      "num": 200151,
+      "word": "辽宁舰90后女少校亮相代表通道",
+      "onboard_time": 1677991947,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156681,
@@ -704,14 +736,6 @@
       "word": "把恢复和扩大消费摆在优先位置",
       "onboard_time": 1677984265,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154243,
-      "num": 154243,
-      "word": "辽宁舰90后女少校亮相代表通道",
-      "onboard_time": 1677991947,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -724,7 +748,7 @@
     },
     {
       "raw_hot": 149807,
-      "num": 149807,
+      "num": 198699,
       "word": "政府工作报告建议今年努力的几项重点",
       "onboard_time": 1677983126,
       "rank": 32,
@@ -771,12 +795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144499,
-      "num": 144499,
-      "word": "野生大熊猫在树上求偶",
-      "onboard_time": 1677992305,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 146233,
+      "num": 199614,
+      "word": "鹿晗玩擀面杖",
+      "onboard_time": 1677993086,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 144054,
@@ -809,6 +833,14 @@
       "onboard_time": 1677950957,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136224,
+      "num": 199961,
+      "word": "UFC285",
+      "onboard_time": 1677991347,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 132108,
@@ -876,7 +908,7 @@
     },
     {
       "raw_hot": 123362,
-      "num": 123362,
+      "num": 199358,
       "word": "哈登38分准三双",
       "onboard_time": 1677991707,
       "rank": 24,
@@ -987,14 +1019,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 97486,
-      "num": 97486,
-      "word": "鹿晗玩擀面杖",
-      "onboard_time": 1677993086,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97251,
       "num": 386161,
       "word": "7个关键字看政府工作报告",
@@ -1017,14 +1041,6 @@
       "onboard_time": 1677934587,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 92910,
-      "num": 92910,
-      "word": "猫屎咖啡和猫屎有什么关系",
-      "onboard_time": 1677993026,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90743,
@@ -1075,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84302,
-      "num": 84302,
-      "word": "反诈老陈自曝2022年收入133万",
-      "onboard_time": 1677993266,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81170,
       "num": 81170,
       "word": "有效防范化解重大经济金融风险",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1677979767,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80587,
-      "num": 80587,
-      "word": "UFC285",
-      "onboard_time": 1677991347,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 78515,
@@ -1169,6 +1169,14 @@
       "onboard_time": 1677928107,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 52597,
+      "num": 198577,
+      "word": "两会好声音",
+      "onboard_time": 1677993806,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 49661,
