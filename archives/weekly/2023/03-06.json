@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678048421139,
+  "endTime": 1678050957056,
   "band_list": [
     {
       "raw_hot": 928704,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 81276,
-      "num": 30645,
+      "num": 80375,
       "word": "国家医保局回应患者15天必须出院",
       "onboard_time": 1678044552,
       "rank": 45,
@@ -441,6 +441,22 @@
       "onboard_time": 1678007787,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 13655,
+      "num": 13655,
+      "word": "男童地铁内攀爬撒零食家长无动于衷",
+      "onboard_time": 1678050371,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11312,
+      "num": 11312,
+      "word": "宋祖儿和小朋友跳舞",
+      "onboard_time": 1678050612,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 10335,
