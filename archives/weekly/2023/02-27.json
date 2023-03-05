@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1678029501409,
+  "endTime": 1678030420504,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -3571,6 +3571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 572653,
+      "num": 314369,
+      "word": "关晓彤巴黎看秀前试装",
+      "onboard_time": 1678028490,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 571688,
       "num": 571688,
       "word": "我国将加快6G网络研发",
@@ -3793,14 +3801,6 @@
       "onboard_time": 1677901466,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 552043,
-      "num": 314369,
-      "word": "关晓彤巴黎看秀前试装",
-      "onboard_time": 1678028490,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 551383,
@@ -4377,6 +4377,14 @@
       "onboard_time": 1677724465,
       "rank": 13,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 500448,
+      "num": 500448,
+      "word": "建议给女员工占比高的企业减税",
+      "onboard_time": 1678026809,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 497634,
@@ -5307,14 +5315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419390,
-      "num": 419390,
-      "word": "建议给女员工占比高的企业减税",
-      "onboard_time": 1678026809,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 418405,
       "num": 418405,
       "word": "杨幂费加罗男士3月封面预告视频",
@@ -5641,6 +5641,14 @@
       "onboard_time": 1677855930,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 388000,
+      "num": 388000,
+      "word": "剧版繁花预计9月播出",
+      "onboard_time": 1678028551,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 387976,
@@ -6275,6 +6283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 353941,
+      "num": 353941,
+      "word": "中国人爱喝茶是刻在基因里的",
+      "onboard_time": 1678027170,
+      "rank": 6,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 353379,
       "num": 195222,
       "word": "被工作气到可以拍拍腋窝",
@@ -6587,14 +6603,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 339745,
-      "num": 339745,
-      "word": "中国人爱喝茶是刻在基因里的",
-      "onboard_time": 1678027170,
-      "rank": 6,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 339437,
       "num": 339437,
       "word": "Doinb直播送火箭",
@@ -6897,14 +6905,6 @@
       "onboard_time": 1678007848,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320892,
-      "num": 320892,
-      "word": "剧版繁花预计9月播出",
-      "onboard_time": 1678028551,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 319840,
@@ -7641,6 +7641,14 @@
       "onboard_time": 1678002264,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285927,
+      "num": 196048,
+      "word": "罕见无毛兔询价5万主人不卖",
+      "onboard_time": 1678028130,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285898,
@@ -8665,14 +8673,6 @@
       "onboard_time": 1678009287,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 236973,
-      "num": 172878,
-      "word": "罕见无毛兔询价5万主人不卖",
-      "onboard_time": 1678028130,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236952,
@@ -11259,6 +11259,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 172835,
+      "num": 172835,
+      "word": "一方水土养一方大熊猫",
+      "onboard_time": 1678025430,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172530,
       "num": 172530,
       "word": "景区回应大爷跳进许愿池里捞钱",
@@ -11513,14 +11521,6 @@
       "onboard_time": 1677849805,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 166186,
-      "num": 166186,
-      "word": "一方水土养一方大熊猫",
-      "onboard_time": 1678025430,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165707,
@@ -12609,6 +12609,14 @@
       "onboard_time": 1677574411,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136497,
+      "num": 136497,
+      "word": "东北饭包",
+      "onboard_time": 1678029869,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 136477,
