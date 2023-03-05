@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678033461577,
+  "endTime": 1678034521534,
   "band_list": [
     {
       "raw_hot": 928704,
@@ -25,6 +25,14 @@
       "onboard_time": 1678013366,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442297,
+      "num": 183356,
+      "word": "被雷电瞄准时身体会有预兆",
+      "onboard_time": 1678031486,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 416594,
@@ -65,14 +73,6 @@
       "onboard_time": 1678016007,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291803,
-      "num": 183356,
-      "word": "被雷电瞄准时身体会有预兆",
-      "onboard_time": 1678031486,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 280121,
@@ -299,8 +299,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 84249,
-      "num": 84249,
+      "raw_hot": 87373,
+      "num": 87373,
       "word": "虞书欣打戏路透",
       "onboard_time": 1678032803,
       "rank": 38,
@@ -345,6 +345,14 @@
       "onboard_time": 1678014208,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75018,
+      "num": 75018,
+      "word": "陈卓璇唱支山歌给党听",
+      "onboard_time": 1678034000,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 73603,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#速览2023年政府工作报告#"
+    },
+    {
+      "word": "#习近平参加江苏代表团审议#"
     }
   ]
 }
