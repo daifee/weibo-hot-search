@@ -1,6 +1,6 @@
 {
   "startTime": 1677428693403,
-  "endTime": 1678011549768,
+  "endTime": 1678012529324,
   "band_list": [
     {
       "raw_hot": 21193818,
@@ -249,6 +249,14 @@
       "onboard_time": 1677625759,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2108481,
+      "num": 2108481,
+      "word": "建议六三三学制改为五二三",
+      "onboard_time": 1678010607,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2082965,
@@ -1843,14 +1851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 895241,
-      "num": 895241,
-      "word": "建议六三三学制改为五二三",
-      "onboard_time": 1678010607,
-      "rank": 0,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 894442,
       "num": 226558,
       "word": "建议职业女性线上办公",
@@ -2187,6 +2187,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 803429,
+      "num": 230498,
+      "word": "男子用自来水洗脸感染食脑虫死亡",
+      "onboard_time": 1678009047,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 802463,
       "num": 802463,
       "word": "建议推行婚检与婚姻登记一站式服务",
@@ -2297,14 +2305,6 @@
       "onboard_time": 1677423212,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 770494,
-      "num": 230498,
-      "word": "男子用自来水洗脸感染食脑虫死亡",
-      "onboard_time": 1678009047,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 763387,
@@ -2795,6 +2795,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 676702,
+      "num": 311990,
+      "word": "女子称摸UGG靴子被要求买下",
+      "onboard_time": 1678011085,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 676298,
       "num": 676298,
       "word": "郑州将降低小学入学年龄",
@@ -3113,6 +3121,14 @@
       "onboard_time": 1677808348,
       "rank": 13,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 621731,
+      "num": 621731,
+      "word": "鲜花煮奶茶",
+      "onboard_time": 1678009763,
+      "rank": 11,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 620063,
@@ -4673,14 +4689,6 @@
       "onboard_time": 1677547288,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 448755,
-      "num": 349509,
-      "word": "鲜花煮奶茶",
-      "onboard_time": 1678009763,
-      "rank": 11,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 447763,
@@ -6987,6 +6995,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 303055,
+      "num": 303055,
+      "word": "白马帅掉马",
+      "onboard_time": 1678010907,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303034,
       "num": 303034,
       "word": "原来一诺也看三体",
@@ -7049,6 +7065,14 @@
       "onboard_time": 1677683008,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300242,
+      "num": 300242,
+      "word": "他们不是我的粉丝是中国文化的粉丝",
+      "onboard_time": 1678008447,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300209,
@@ -7129,14 +7153,6 @@
       "onboard_time": 1677815186,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 297093,
-      "num": 297093,
-      "word": "他们不是我的粉丝是中国文化的粉丝",
-      "onboard_time": 1678008447,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296822,
@@ -7393,6 +7409,14 @@
       "onboard_time": 1677595293,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282113,
+      "num": 282113,
+      "word": "薛凯琪刘恋再次合体",
+      "onboard_time": 1678011925,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 282101,
@@ -8099,14 +8123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248174,
-      "num": 248174,
-      "word": "白马帅掉马",
-      "onboard_time": 1678010907,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 247509,
       "num": 247509,
       "word": "急诊科医生与外卖小哥的共同点找到了",
@@ -8329,6 +8345,14 @@
       "onboard_time": 1677729328,
       "rank": 35,
       "category": "影视,时尚"
+    },
+    {
+      "raw_hot": 237002,
+      "num": 237002,
+      "word": "易烊千玺未知动物剧照",
+      "onboard_time": 1678009287,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 236872,
@@ -8849,22 +8873,6 @@
       "onboard_time": 1677830247,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219497,
-      "num": 219497,
-      "word": "女子称摸UGG靴子被要求买下",
-      "onboard_time": 1678011085,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219087,
-      "num": 219087,
-      "word": "易烊千玺未知动物剧照",
-      "onboard_time": 1678009287,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 219029,
@@ -9705,6 +9713,14 @@
       "onboard_time": 1677834987,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200885,
+      "num": 200885,
+      "word": "南京地铁回应乘客因手机外放收罚单",
+      "onboard_time": 1678011505,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200216,
@@ -13571,6 +13587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93622,
+      "num": 93622,
+      "word": "代表回应花花成为网红大熊猫",
+      "onboard_time": 1678011686,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92813,
       "num": 92813,
       "word": "厉以宁提出中国经济发展非均衡理论",
@@ -13625,6 +13649,14 @@
       "onboard_time": 1677845365,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89213,
+      "num": 89213,
+      "word": "BoysPlanet二公限制外国人投票",
+      "onboard_time": 1678009106,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 88667,
@@ -13777,14 +13809,6 @@
       "onboard_time": 1677972678,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84184,
-      "num": 84184,
-      "word": "BoysPlanet二公限制外国人投票",
-      "onboard_time": 1678009106,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 84012,
@@ -14027,20 +14051,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70066,
+      "num": 70066,
+      "word": "75岁老人中风好友发现步数为0报警",
+      "onboard_time": 1678012527,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69922,
       "num": 69922,
       "word": "巴黎圣日耳曼4比2南特",
       "onboard_time": 1677973521,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69780,
-      "num": 69780,
-      "word": "南京地铁回应乘客因手机外放收罚单",
-      "onboard_time": 1678011505,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69266,
