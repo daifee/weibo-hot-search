@@ -1,0 +1,410 @@
+{
+  "runTime": 1678005398057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 566841,
+        "num": 566841,
+        "word": "工作人员帮游客捡手机被幼虎围观",
+        "onboard_time": 1677998126,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353597,
+        "num": 353597,
+        "word": "淘宝残疾店主回应获评感动中国人物",
+        "onboard_time": 1677998727,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88801,
+        "num": 350044,
+        "word": "极简版政府工作报告",
+        "onboard_time": 1677984083,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 645993,
+        "num": 347331,
+        "word": "杨超越公开英文名",
+        "onboard_time": 1678003107,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168049,
+        "num": 343732,
+        "word": "政府工作报告里的民生红包",
+        "onboard_time": 1678003346,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 613114,
+        "num": 337077,
+        "word": "条件不错却不谈恋爱的原因",
+        "onboard_time": 1677996927,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 547433,
+        "num": 335502,
+        "word": "女子买挂面包装是0分试卷",
+        "onboard_time": 1677999269,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421228,
+        "num": 330213,
+        "word": "扬州动物园回应木架腐朽致大熊猫摔倒",
+        "onboard_time": 1678000525,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328625,
+        "num": 328625,
+        "word": "俄亥俄再发生列车脱轨事故",
+        "onboard_time": 1678003046,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55598,
+        "num": 326995,
+        "word": "他是冲在救援一线的全国人大代表",
+        "onboard_time": 1678003346,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740477,
+        "num": 322305,
+        "word": "男子高烧近41度体温计贴脸狂飙",
+        "onboard_time": 1678004184,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534402,
+        "num": 320643,
+        "word": "时代少年团 演唱会",
+        "onboard_time": 1678003225,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 489624,
+        "num": 316118,
+        "word": "切尔诺贝利的狗或能教人类生存新技巧",
+        "onboard_time": 1678002448,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 482951,
+        "num": 313498,
+        "word": "建议取消生育支持的孩次差异",
+        "onboard_time": 1677996027,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339964,
+        "num": 307766,
+        "word": "周杰伦调侃刘畊宏",
+        "onboard_time": 1678002806,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210830,
+        "num": 303718,
+        "word": "第一次见这么肥的孔雀",
+        "onboard_time": 1677989126,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176520,
+        "num": 300538,
+        "word": "RW对战RNGM",
+        "onboard_time": 1678004127,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 299961,
+        "num": 299961,
+        "word": "何瑞贤新剧换了7个造型",
+        "onboard_time": 1677999269,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159382,
+        "num": 296514,
+        "word": "FoFo 稳",
+        "onboard_time": 1678000948,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149231,
+        "num": 289152,
+        "word": "熊猫血群主21年献血超10万毫升",
+        "onboard_time": 1677994946,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491726,
+        "num": 285557,
+        "word": "吴青峰 请大家别听苏打绿的歌",
+        "onboard_time": 1677984745,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245252,
+        "num": 276969,
+        "word": "来成都看花花挤得打堆堆",
+        "onboard_time": 1678000708,
+        "rank": 21,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 137840,
+        "num": 269143,
+        "word": "顺德小吃你是我的神",
+        "onboard_time": 1678001667,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 265746,
+        "num": 265746,
+        "word": "黑暗荣耀快播了",
+        "onboard_time": 1678000167,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134223,
+        "num": 261147,
+        "word": "广玉兰",
+        "onboard_time": 1678004666,
+        "rank": 24,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 130143,
+        "num": 259340,
+        "word": "野生大熊猫在树上求偶",
+        "onboard_time": 1677992305,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258522,
+        "num": 258522,
+        "word": "巴黎时装周的中国明星",
+        "onboard_time": 1678002264,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119912,
+        "num": 251126,
+        "word": "中国2023年国防费预算增长7.2%",
+        "onboard_time": 1677990686,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118348,
+        "num": 245492,
+        "word": "表白失败后立刻英语打卡",
+        "onboard_time": 1677990566,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243805,
+        "num": 243805,
+        "word": "空气酵母",
+        "onboard_time": 1677998605,
+        "rank": 29,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 139066,
+        "num": 242516,
+        "word": "贺聪走秀",
+        "onboard_time": 1678003466,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 109303,
+        "num": 242362,
+        "word": "猫屎咖啡和猫屎有什么关系",
+        "onboard_time": 1677993026,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242247,
+        "num": 242247,
+        "word": "长珩仙君杀我咯",
+        "onboard_time": 1677987265,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106389,
+        "num": 242244,
+        "word": "小鹏回应人脸识别需对车头半跪",
+        "onboard_time": 1677986904,
+        "rank": 33,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 100462,
+        "num": 242233,
+        "word": "宋亚轩新歌收藏破百万",
+        "onboard_time": 1678001427,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103828,
+        "num": 242215,
+        "word": "星落凝成糖对称文学",
+        "onboard_time": 1678000107,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98923,
+        "num": 242198,
+        "word": "我国将加快6G网络研发",
+        "onboard_time": 1677990267,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98281,
+        "num": 242194,
+        "word": "蒋敦豪要把声卡卖了买羊",
+        "onboard_time": 1678003767,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102850,
+        "num": 242182,
+        "word": "利路修走秀",
+        "onboard_time": 1677989606,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94697,
+        "num": 242157,
+        "word": "丈夫开挖掘机与妻子深情互动",
+        "onboard_time": 1677998367,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94041,
+        "num": 242152,
+        "word": "完善生育支持政策体系",
+        "onboard_time": 1678004067,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101484,
+        "num": 242132,
+        "word": "鱼丁糸",
+        "onboard_time": 1677992486,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75463,
+        "num": 242130,
+        "word": "辽宁舰90后女少校喊大家加入",
+        "onboard_time": 1677997407,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74932,
+        "num": 242107,
+        "word": "Ann Demeulemeester",
+        "onboard_time": 1678005206,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 83204,
+        "num": 242096,
+        "word": "凯特 杨紫琼",
+        "onboard_time": 1677987865,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 73210,
+        "num": 242079,
+        "word": "恋与敦煌之旅",
+        "onboard_time": 1677995306,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60562,
+        "num": 242077,
+        "word": "把促进青年就业摆在更突出位置",
+        "onboard_time": 1678005086,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66237,
+        "num": 242064,
+        "word": "郭晓婷徐海乔苍兰诀后合体",
+        "onboard_time": 1677989905,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57911,
+        "num": 242050,
+        "word": "直播政府工作报告",
+        "onboard_time": 1677978082,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 55800,
+        "num": 242029,
+        "word": "教成人识字奶奶回应获感动中国集体奖",
+        "onboard_time": 1677999748,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#今年两会首场代表通道#"
+    }
+  }
+}
