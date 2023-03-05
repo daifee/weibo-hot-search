@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1677985808420,
+  "endTime": 1677987688846,
   "band_list": [
     {
       "raw_hot": 1862826,
@@ -11,7 +11,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1601939,
+      "raw_hot": 1854275,
       "num": 214295,
       "word": "吴青峰 请大家别听苏打绿的歌",
       "onboard_time": 1677984745,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 539564,
-      "num": 384421,
+      "num": 421571,
       "word": "苹果天气小组件现大范围bug",
       "onboard_time": 1677981626,
       "rank": 22,
@@ -171,12 +171,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 441240,
+      "num": 226505,
+      "word": "长珩仙君杀我咯",
+      "onboard_time": 1677987265,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432462,
       "num": 201911,
       "word": "刘亦菲巴黎到达路透",
       "onboard_time": 1677975744,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 426840,
+      "num": 325192,
+      "word": "易烊千玺科幻短片预告",
+      "onboard_time": 1677985524,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 425604,
+      "num": 425604,
+      "word": "流浪地球2在中国空间站也上映了",
+      "onboard_time": 1677984145,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 410478,
@@ -195,20 +219,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395637,
+      "num": 217505,
+      "word": "尔冬升向郭晓婷邀戏",
+      "onboard_time": 1677984325,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386720,
       "num": 386720,
       "word": "2023年GDP目标为增长5%左右",
       "onboard_time": 1677981866,
       "rank": 16,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 384561,
-      "num": 384561,
-      "word": "流浪地球2在中国空间站也上映了",
-      "onboard_time": 1677984145,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 364844,
@@ -243,28 +267,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 332824,
-      "num": 332824,
+      "raw_hot": 342667,
+      "num": 342667,
       "word": "原来尺子还能当剪子用",
       "onboard_time": 1677983363,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 325192,
-      "num": 325192,
-      "word": "易烊千玺科幻短片预告",
-      "onboard_time": 1677985524,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 324771,
-      "num": 217505,
-      "word": "尔冬升向郭晓婷邀戏",
-      "onboard_time": 1677984325,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 318348,
@@ -329,6 +337,14 @@
       "onboard_time": 1677930387,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257466,
+      "num": 257466,
+      "word": "建议随迁子女就地入学",
+      "onboard_time": 1677986304,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253524,
@@ -411,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213013,
+      "num": 213013,
+      "word": "小鹏回应人脸识别需对车头半跪",
+      "onboard_time": 1677986904,
+      "rank": 17,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 212768,
       "num": 212768,
       "word": "张凌赫白鹿宁安如梦团综",
@@ -425,6 +449,14 @@
       "onboard_time": 1677975264,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205159,
+      "num": 155469,
+      "word": "2023政府工作报告",
+      "onboard_time": 1677987325,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 204002,
@@ -483,12 +515,20 @@
       "category": "综艺,音乐"
     },
     {
-      "raw_hot": 181603,
-      "num": 379166,
+      "raw_hot": 181710,
+      "num": 422566,
       "word": "极简版政府工作报告",
       "onboard_time": 1677984083,
       "rank": 27,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 178226,
+      "num": 178226,
+      "word": "我国5G用户超过5.75亿",
+      "onboard_time": 1677986904,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175544,
@@ -572,7 +612,7 @@
     },
     {
       "raw_hot": 149011,
-      "num": 86382,
+      "num": 125589,
       "word": "凯特布兰切特亲杨紫琼",
       "onboard_time": 1677984023,
       "rank": 43,
@@ -716,7 +756,7 @@
     },
     {
       "raw_hot": 110961,
-      "num": 110961,
+      "num": 114205,
       "word": "梅西俱乐部生涯制造1000球",
       "onboard_time": 1677971957,
       "rank": 18,
@@ -772,7 +812,7 @@
     },
     {
       "raw_hot": 99212,
-      "num": 99212,
+      "num": 126792,
       "word": "春天有多美",
       "onboard_time": 1677985046,
       "rank": 47,
@@ -892,7 +932,7 @@
     },
     {
       "raw_hot": 70179,
-      "num": 70179,
+      "num": 125694,
       "word": "手工制作过程真的好解压",
       "onboard_time": 1677985645,
       "rank": 47,
@@ -921,6 +961,14 @@
       "onboard_time": 1677928107,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 64925,
+      "num": 116085,
+      "word": "戴口罩喘不上气剪开发现塑料胶布",
+      "onboard_time": 1677986844,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 49661,
