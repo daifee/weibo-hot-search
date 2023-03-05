@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678058325936,
+  "endTime": 1678059225783,
   "band_list": [
     {
       "raw_hot": 928704,
@@ -11,6 +11,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 841523,
+      "num": 841523,
+      "word": "国家医保局回应患者15天必须出院",
+      "onboard_time": 1678044552,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755853,
       "num": 755853,
       "word": "东北饭包",
@@ -19,11 +27,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 698069,
-      "num": 698069,
-      "word": "国家医保局回应患者15天必须出院",
-      "onboard_time": 1678044552,
-      "rank": 45,
+      "raw_hot": 649418,
+      "num": 649418,
+      "word": "震后松毛虫大规模入侵土耳其",
+      "onboard_time": 1678037836,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -35,11 +43,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 579165,
-      "num": 579165,
-      "word": "震后松毛虫大规模入侵土耳其",
-      "onboard_time": 1678037836,
-      "rank": 1,
+      "raw_hot": 518879,
+      "num": 518879,
+      "word": "利物浦7比0曼联",
+      "onboard_time": 1678057818,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 473181,
+      "num": 473181,
+      "word": "轻型甲流患者一周左右可自愈",
+      "onboard_time": 1678016007,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -49,14 +65,6 @@
       "onboard_time": 1678031486,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 440904,
-      "num": 440904,
-      "word": "轻型甲流患者一周左右可自愈",
-      "onboard_time": 1678016007,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 416594,
@@ -72,6 +80,14 @@
       "word": "建议给女员工占比高的企业减税",
       "onboard_time": 1678026809,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360938,
+      "num": 360938,
+      "word": "买根火腿肠就能在石家庄实现地铁自由",
+      "onboard_time": 1678024829,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -91,16 +107,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309520,
-      "num": 309520,
-      "word": "买根火腿肠就能在石家庄实现地铁自由",
-      "onboard_time": 1678024829,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 283911,
+      "num": 283911,
+      "word": "勇士vs湖人",
+      "onboard_time": 1678057999,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 280121,
-      "num": 184548,
+      "num": 219679,
       "word": "商家回应5串烤串收费103元",
       "onboard_time": 1678014688,
       "rank": 13,
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239175,
+      "num": 128820,
+      "word": "周一没有不疯的打工人",
+      "onboard_time": 1678027351,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236865,
       "num": 129247,
       "word": "罕见无毛兔询价5万主人不卖",
@@ -131,27 +155,35 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232420,
-      "num": 232420,
-      "word": "利物浦7比0曼联",
-      "onboard_time": 1678057818,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 231154,
-      "num": 128820,
-      "word": "周一没有不疯的打工人",
-      "onboard_time": 1678027351,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 229791,
       "num": 128385,
       "word": "甲流",
       "onboard_time": 1678012585,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221911,
+      "num": 221911,
+      "word": "惊蛰",
+      "onboard_time": 1678029328,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 211444,
+      "num": 211444,
+      "word": "曼联创造双红会最大比分失利",
+      "onboard_time": 1678057760,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 209629,
+      "num": 123665,
+      "word": "浙江渔民误捕疑海猪后果断放生",
+      "onboard_time": 1678044072,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -171,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205677,
+      "num": 205677,
+      "word": "女子称摸UGG靴子被要求买下",
+      "onboard_time": 1678011085,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202730,
       "num": 202730,
       "word": "中国人爱喝茶是刻在基因里的",
@@ -187,44 +227,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194565,
-      "num": 188876,
-      "word": "曼联创造双红会最大比分失利",
-      "onboard_time": 1678057760,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 191093,
-      "num": 191093,
-      "word": "惊蛰",
-      "onboard_time": 1678029328,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 188869,
-      "num": 188869,
-      "word": "女子称摸UGG靴子被要求买下",
-      "onboard_time": 1678011085,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183698,
       "num": 183698,
       "word": "JDG 一亿阵容",
       "onboard_time": 1678017628,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 179325,
-      "num": 109019,
-      "word": "浙江渔民误捕疑海猪后果断放生",
-      "onboard_time": 1678044072,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176264,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124598,
+      "num": 124598,
+      "word": "泰山景区回应多名游客深夜翻门进入",
+      "onboard_time": 1678024229,
+      "rank": 41,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 123457,
       "num": 123457,
       "word": "C罗为地震灾区捐赠物资",
@@ -299,40 +315,24 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112799,
-      "num": 112799,
-      "word": "泰山景区回应多名游客深夜翻门进入",
-      "onboard_time": 1678024229,
-      "rank": 41,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 109906,
-      "num": 109906,
-      "word": "勇士vs湖人",
-      "onboard_time": 1678057999,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 107165,
-      "num": 107165,
+      "raw_hot": 122674,
+      "num": 122674,
       "word": "建议对35岁职场门槛增加监管处罚",
       "onboard_time": 1678014208,
       "rank": 43,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106786,
-      "num": 106786,
+      "raw_hot": 119655,
+      "num": 119655,
       "word": "3招帮你识别是否感染甲流",
       "onboard_time": 1678017868,
       "rank": 34,
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 103057,
-      "num": 103057,
+      "raw_hot": 108483,
+      "num": 108483,
       "word": "男童地铁内攀爬撒零食家长无动于衷",
       "onboard_time": 1678050371,
       "rank": 36,
@@ -363,6 +363,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 94901,
+      "num": 94901,
+      "word": "甲流催热奥司他韦",
+      "onboard_time": 1678016126,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90641,
       "num": 90641,
       "word": "男团下岗再就业",
@@ -385,14 +393,6 @@
       "onboard_time": 1678032803,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 84306,
-      "num": 84306,
-      "word": "甲流催热奥司他韦",
-      "onboard_time": 1678016126,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83645,
@@ -459,20 +459,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51151,
+      "num": 51151,
+      "word": "两会",
+      "onboard_time": 1678016607,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 44974,
       "num": 44974,
       "word": "成毅看秀生图",
       "onboard_time": 1678007787,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 44111,
-      "num": 44111,
-      "word": "两会",
-      "onboard_time": 1678016607,
-      "rank": 47,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 28887,
@@ -483,8 +483,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 10335,
-      "num": 507350,
+      "raw_hot": 12263,
+      "num": 568801,
       "word": "政府工作报告里的民生红包",
       "onboard_time": 1678003346,
       "rank": 2,
