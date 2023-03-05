@@ -1,0 +1,410 @@
+{
+  "runTime": 1678001614688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 578590,
+        "num": 578590,
+        "word": "工作人员帮游客捡手机被幼虎围观",
+        "onboard_time": 1677998126,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385969,
+        "num": 385969,
+        "word": "熊猫血群主21年献血超10万毫升",
+        "onboard_time": 1677994946,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109217,
+        "num": 382308,
+        "word": "极简版政府工作报告",
+        "onboard_time": 1677984083,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 958535,
+        "num": 377959,
+        "word": "条件不错却不谈恋爱的原因",
+        "onboard_time": 1677996927,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73235,
+        "num": 377100,
+        "word": "7个关键字看政府工作报告",
+        "onboard_time": 1677990806,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 536908,
+        "num": 370360,
+        "word": "女子买挂面包装是0分试卷",
+        "onboard_time": 1677999269,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369450,
+        "num": 369450,
+        "word": "女孩楼顶欲轻生闺蜜冒死相救",
+        "onboard_time": 1677998787,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319840,
+        "num": 319840,
+        "word": "黑暗荣耀快播了",
+        "onboard_time": 1678000167,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257982,
+        "num": 257982,
+        "word": "第一次见这么肥的孔雀",
+        "onboard_time": 1677989126,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235213,
+        "num": 235213,
+        "word": "野生大熊猫在树上求偶",
+        "onboard_time": 1677992305,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816906,
+        "num": 234707,
+        "word": "建议取消生育支持的孩次差异",
+        "onboard_time": 1677996027,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419644,
+        "num": 227286,
+        "word": "何瑞贤新剧换了7个造型",
+        "onboard_time": 1677999269,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341951,
+        "num": 218633,
+        "word": "淘宝残疾店主回应获评感动中国人物",
+        "onboard_time": 1677998727,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206628,
+        "num": 206628,
+        "word": "宋亚轩新歌收藏破百万",
+        "onboard_time": 1678001427,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 400799,
+        "num": 204597,
+        "word": "空气酵母",
+        "onboard_time": 1677998605,
+        "rank": 14,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 198447,
+        "num": 198447,
+        "word": "表白失败后立刻英语打卡",
+        "onboard_time": 1677990566,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192797,
+        "num": 192797,
+        "word": "扬州动物园回应木架腐朽致大熊猫摔倒",
+        "onboard_time": 1678000525,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291279,
+        "num": 177878,
+        "word": "长珩仙君杀我咯",
+        "onboard_time": 1677987265,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162886,
+        "num": 162886,
+        "word": "小鹏回应人脸识别需对车头半跪",
+        "onboard_time": 1677986904,
+        "rank": 18,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 154692,
+        "num": 154692,
+        "word": "猫屎咖啡和猫屎有什么关系",
+        "onboard_time": 1677993026,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702488,
+        "num": 153779,
+        "word": "吴青峰 请大家别听苏打绿的歌",
+        "onboard_time": 1677984745,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149112,
+        "num": 149112,
+        "word": "来成都看花花挤得打堆堆",
+        "onboard_time": 1678000708,
+        "rank": 21,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 144299,
+        "num": 144299,
+        "word": "我国将加快6G网络研发",
+        "onboard_time": 1677990267,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289087,
+        "num": 144072,
+        "word": "周杰伦 罚钱哥是无所谓",
+        "onboard_time": 1677977123,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121648,
+        "num": 121648,
+        "word": "恋与敦煌之旅",
+        "onboard_time": 1677995306,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115864,
+        "num": 115864,
+        "word": "丈夫开挖掘机与妻子深情互动",
+        "onboard_time": 1677998367,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174867,
+        "num": 115812,
+        "word": "星落凝成糖对称文学",
+        "onboard_time": 1678000107,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115570,
+        "num": 115570,
+        "word": "中国2023年国防费预算增长7.2%",
+        "onboard_time": 1677990686,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111212,
+        "num": 111212,
+        "word": "辽宁舰90后女少校喊大家加入",
+        "onboard_time": 1677997407,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143412,
+        "num": 110193,
+        "word": "鱼丁糸",
+        "onboard_time": 1677992486,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108671,
+        "num": 108671,
+        "word": "FoFo 稳",
+        "onboard_time": 1678000948,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88214,
+        "num": 88214,
+        "word": "教成人识字奶奶回应获感动中国集体奖",
+        "onboard_time": 1677999748,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130161,
+        "num": 88206,
+        "word": "凯特 杨紫琼",
+        "onboard_time": 1677987865,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88192,
+        "num": 88192,
+        "word": "iG对战UP",
+        "onboard_time": 1678001005,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79836,
+        "num": 79836,
+        "word": "流浪地球2在中国空间站也上映了",
+        "onboard_time": 1677984145,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129609,
+        "num": 78874,
+        "word": "利路修走秀",
+        "onboard_time": 1677989606,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76053,
+        "num": 76053,
+        "word": "建议随迁子女就地入学",
+        "onboard_time": 1677986304,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66929,
+        "num": 66929,
+        "word": "苹果天气小组件现大范围bug",
+        "onboard_time": 1677981626,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 119298,
+        "num": 66087,
+        "word": "郭晓婷徐海乔苍兰诀后合体",
+        "onboard_time": 1677989905,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65010,
+        "num": 65010,
+        "word": "直播政府工作报告",
+        "onboard_time": 1677978082,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 64486,
+        "num": 64486,
+        "word": "辽宁舰90后女少校亮相代表通道",
+        "onboard_time": 1677991947,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114729,
+        "num": 64433,
+        "word": "迪丽热巴造型",
+        "onboard_time": 1677942691,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62694,
+        "num": 62694,
+        "word": "第一次吃醋的小猫咪",
+        "onboard_time": 1677981567,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 59742,
+        "num": 59742,
+        "word": "十四届全国人大一次会议开幕",
+        "onboard_time": 1677975324,
+        "rank": 43,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 96671,
+        "num": 59700,
+        "word": "张艺兴最新弹钢琴vlog",
+        "onboard_time": 1677997524,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59518,
+        "num": 59518,
+        "word": "76人终结雄鹿16连胜",
+        "onboard_time": 1677990806,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 509233,
+        "num": 59202,
+        "word": "建议完善在校大学生婚育服务",
+        "onboard_time": 1677995907,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78863,
+        "num": 59157,
+        "word": "刘亦菲巴黎到达路透",
+        "onboard_time": 1677975744,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 58712,
+        "num": 58712,
+        "word": "甄子丹说希望用动作电影讲好中国故事",
+        "onboard_time": 1677998067,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46909,
+        "num": 58676,
+        "word": "UFC285",
+        "onboard_time": 1677991347,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大一次会议开幕会#"
+    }
+  }
+}

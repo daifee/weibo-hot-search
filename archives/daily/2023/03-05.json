@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1678000613218,
+  "endTime": 1678001614688,
   "band_list": [
     {
       "raw_hot": 1862826,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 958535,
+      "num": 439942,
+      "word": "条件不错却不谈恋爱的原因",
+      "onboard_time": 1677996927,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 925883,
       "num": 925883,
       "word": "十四届全国人大一次会议开幕",
@@ -73,14 +81,6 @@
       "onboard_time": 1677977063,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 876235,
-      "num": 439942,
-      "word": "条件不错却不谈恋爱的原因",
-      "onboard_time": 1677996927,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 865701,
@@ -155,6 +155,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 578590,
+      "num": 578590,
+      "word": "工作人员帮游客捡手机被幼虎围观",
+      "onboard_time": 1677998126,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574135,
       "num": 574135,
       "word": "建议随迁子女就地入学",
@@ -193,6 +201,14 @@
       "onboard_time": 1677981626,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 536908,
+      "num": 370360,
+      "word": "女子买挂面包装是0分试卷",
+      "onboard_time": 1677999269,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 529803,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 472521,
-      "num": 198266,
+      "num": 227286,
       "word": "何瑞贤新剧换了7个造型",
       "onboard_time": 1677999269,
       "rank": 10,
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 431055,
-      "num": 198052,
+      "num": 204597,
       "word": "空气酵母",
       "onboard_time": 1677998605,
       "rank": 11,
@@ -347,28 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406093,
-      "num": 197859,
-      "word": "女子买挂面包装是0分试卷",
-      "onboard_time": 1677999269,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395637,
       "num": 217505,
       "word": "尔冬升向郭晓婷邀戏",
       "onboard_time": 1677984325,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 388412,
-      "num": 388412,
-      "word": "工作人员帮游客捡手机被幼虎围观",
-      "onboard_time": 1677998126,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 386720,
@@ -384,6 +384,14 @@
       "word": "野生大熊猫在树上求偶",
       "onboard_time": 1677992305,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369450,
+      "num": 369450,
+      "word": "女孩楼顶欲轻生闺蜜冒死相救",
+      "onboard_time": 1677998787,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -435,6 +443,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 341951,
+      "num": 218633,
+      "word": "淘宝残疾店主回应获评感动中国人物",
+      "onboard_time": 1677998727,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319840,
+      "num": 319840,
+      "word": "黑暗荣耀快播了",
+      "onboard_time": 1678000167,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318348,
       "num": 318348,
       "word": "男子回应大学4年赚100多万",
@@ -459,28 +483,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 311368,
-      "num": 197503,
-      "word": "女孩楼顶欲轻生闺蜜冒死相救",
-      "onboard_time": 1677998787,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301832,
       "num": 255423,
       "word": "莫兰特在直播中秀枪",
       "onboard_time": 1677972077,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 300958,
-      "num": 186553,
-      "word": "淘宝残疾店主回应获评感动中国人物",
-      "onboard_time": 1677998727,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298594,
@@ -667,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206628,
+      "num": 206628,
+      "word": "宋亚轩新歌收藏破百万",
+      "onboard_time": 1678001427,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205159,
       "num": 155469,
       "word": "2023政府工作报告",
@@ -753,6 +769,14 @@
       "onboard_time": 1677936388,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192797,
+      "num": 192797,
+      "word": "扬州动物园回应木架腐朽致大熊猫摔倒",
+      "onboard_time": 1678000525,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191983,
@@ -851,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155928,
-      "num": 155928,
-      "word": "黑暗荣耀快播了",
-      "onboard_time": 1678000167,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 151695,
       "num": 151695,
       "word": "BLACKPINK演唱会预告新项目",
@@ -881,6 +897,14 @@
       "onboard_time": 1677932665,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149112,
+      "num": 149112,
+      "word": "来成都看花花挤得打堆堆",
+      "onboard_time": 1678000708,
+      "rank": 21,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 149011,
@@ -1115,6 +1139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108671,
+      "num": 108671,
+      "word": "FoFo 稳",
+      "onboard_time": 1678000948,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107658,
       "num": 107658,
       "word": "首场代表通道",
@@ -1219,6 +1251,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 88214,
+      "num": 88214,
+      "word": "教成人识字奶奶回应获感动中国集体奖",
+      "onboard_time": 1677999748,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88192,
+      "num": 88192,
+      "word": "iG对战UP",
+      "onboard_time": 1678001005,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 88159,
       "num": 88159,
       "word": "女护士下班摆摊卖无菌烤肠",
@@ -1281,14 +1329,6 @@
       "onboard_time": 1677943049,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78375,
-      "num": 78375,
-      "word": "教成人识字奶奶回应获感动中国集体奖",
-      "onboard_time": 1677999748,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75657,
@@ -1361,14 +1401,6 @@
       "onboard_time": 1677998067,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55830,
-      "num": 55830,
-      "word": "扬州动物园回应木架腐朽致大熊猫摔倒",
-      "onboard_time": 1678000525,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52597,
