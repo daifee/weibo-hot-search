@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678044805210,
+  "endTime": 1678047559652,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -10283,6 +10283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81276,
+      "num": 21209,
+      "word": "国家医保局回应患者15天必须出院",
+      "onboard_time": 1678044552,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81170,
       "num": 81170,
       "word": "有效防范化解重大经济金融风险",
@@ -10715,6 +10723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38279,
+      "num": 18993,
+      "word": "浙江渔民误捕疑海猪后果断放生",
+      "onboard_time": 1678044072,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37974,
       "num": 37974,
       "word": "微博年度剧集",
@@ -10875,28 +10891,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 18993,
-      "num": 18993,
-      "word": "浙江渔民误捕疑海猪后果断放生",
-      "onboard_time": 1678044072,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17767,
       "num": 17767,
       "word": "利马major淘汰赛",
       "onboard_time": 1677700632,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 13483,
-      "num": 13483,
-      "word": "国家医保局回应患者15天必须出院",
-      "onboard_time": 1678044552,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12119,
