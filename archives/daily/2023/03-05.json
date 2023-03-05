@@ -1,10 +1,10 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1678019664038,
+  "endTime": 1678020730737,
   "band_list": [
     {
       "raw_hot": 24814826,
-      "num": 202769,
+      "num": 15660468,
       "word": "B站",
       "onboard_time": 1678019313,
       "rank": 30,
@@ -131,6 +131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 991633,
+      "num": 282970,
+      "word": "福菀被游客泼水后躲在角落里",
+      "onboard_time": 1678015587,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 958535,
       "num": 530970,
       "word": "条件不错却不谈恋爱的原因",
@@ -168,14 +176,6 @@
       "word": "到北京动物园为丫丫探营的人好多",
       "onboard_time": 1677942390,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 849266,
-      "num": 281332,
-      "word": "福菀被游客泼水后躲在角落里",
-      "onboard_time": 1678015587,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -241,6 +241,14 @@
       "onboard_time": 1678014208,
       "rank": 24,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 640364,
+      "num": 281251,
+      "word": "福菀",
+      "onboard_time": 1678019011,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 639680,
@@ -417,6 +425,14 @@
       "onboard_time": 1678016969,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 463171,
+      "num": 269593,
+      "word": "星落凝成糖开虐名场面",
+      "onboard_time": 1678019557,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 462479,
@@ -787,14 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 291398,
-      "num": 281251,
-      "word": "福菀",
-      "onboard_time": 1678019011,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290206,
       "num": 276969,
       "word": "来成都看花花挤得打堆堆",
@@ -843,14 +851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 269593,
-      "num": 269593,
-      "word": "星落凝成糖开虐名场面",
-      "onboard_time": 1678019557,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 269412,
       "num": 269412,
       "word": "熊猫妈妈朋友圈好戳人",
@@ -881,6 +881,14 @@
       "onboard_time": 1677930387,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261325,
+      "num": 261325,
+      "word": "XYG折夕",
+      "onboard_time": 1678018950,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 257131,
@@ -1067,14 +1075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212596,
-      "num": 212596,
-      "word": "XYG折夕",
-      "onboard_time": 1678018950,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 208319,
       "num": 208319,
       "word": "TES战胜XYG",
@@ -1259,6 +1259,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 175603,
+      "num": 175603,
+      "word": "吴兴涵被曝涉假球",
+      "onboard_time": 1678018646,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175544,
       "num": 175544,
       "word": "我减肥失败的原因找到了",
@@ -1308,7 +1316,7 @@
     },
     {
       "raw_hot": 168049,
-      "num": 1065668,
+      "num": 1128685,
       "word": "政府工作报告里的民生红包",
       "onboard_time": 1678003346,
       "rank": 4,
@@ -1329,14 +1337,6 @@
       "onboard_time": 1677981923,
       "rank": 25,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 165558,
-      "num": 165558,
-      "word": "吴兴涵被曝涉假球",
-      "onboard_time": 1678018646,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 165391,
@@ -1385,6 +1385,14 @@
       "onboard_time": 1678001667,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 155944,
+      "num": 155944,
+      "word": "OMG偷家获胜",
+      "onboard_time": 1678019797,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 151695,
@@ -1611,6 +1619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127851,
+      "num": 127851,
+      "word": "建议冬天不学十以外加减法",
+      "onboard_time": 1678020155,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125168,
       "num": 125168,
       "word": "EDG 清算",
@@ -1713,6 +1729,14 @@
       "onboard_time": 1677927747,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108778,
+      "num": 108778,
+      "word": "eStar对战LGD",
+      "onboard_time": 1678020450,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 107658,
@@ -2141,6 +2165,9 @@
     },
     {
       "word": "#速览2023年政府工作报告#"
+    },
+    {
+      "word": "#习近平参加江苏代表团审议#"
     }
   ]
 }

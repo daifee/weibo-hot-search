@@ -1,10 +1,10 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678019664038,
+  "endTime": 1678020730737,
   "band_list": [
     {
       "raw_hot": 24814826,
-      "num": 202769,
+      "num": 15660468,
       "word": "B站",
       "onboard_time": 1678019313,
       "rank": 30,
@@ -1051,6 +1051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 991633,
+      "num": 282970,
+      "word": "福菀被游客泼水后躲在角落里",
+      "onboard_time": 1678015587,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 989961,
       "num": 541904,
       "word": "儿子篮球班倒闭家长掏1000万买下",
@@ -1320,14 +1328,6 @@
       "word": "章莹颖",
       "onboard_time": 1677801388,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 849266,
-      "num": 281332,
-      "word": "福菀被游客泼水后躲在角落里",
-      "onboard_time": 1678015587,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -2073,6 +2073,14 @@
       "onboard_time": 1678014208,
       "rank": 24,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 640364,
+      "num": 281251,
+      "word": "福菀",
+      "onboard_time": 1678019011,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 640354,
@@ -3105,6 +3113,14 @@
       "onboard_time": 1678016969,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 463171,
+      "num": 269593,
+      "word": "星落凝成糖开虐名场面",
+      "onboard_time": 1678019557,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 463063,
@@ -4987,14 +5003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 291398,
-      "num": 281251,
-      "word": "福菀",
-      "onboard_time": 1678019011,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291159,
       "num": 254642,
       "word": "张本智和3比1安宰贤",
@@ -5363,14 +5371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269593,
-      "num": 269593,
-      "word": "星落凝成糖开虐名场面",
-      "onboard_time": 1678019557,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 269487,
       "num": 269487,
       "word": "李俊昊采访谈林允儿",
@@ -5489,6 +5489,14 @@
       "onboard_time": 1677839787,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261325,
+      "num": 261325,
+      "word": "XYG折夕",
+      "onboard_time": 1678018950,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 260444,
@@ -6481,14 +6489,6 @@
       "onboard_time": 1677748233,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212596,
-      "num": 212596,
-      "word": "XYG折夕",
-      "onboard_time": 1678018950,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 211760,
@@ -7699,6 +7699,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 175603,
+      "num": 175603,
+      "word": "吴兴涵被曝涉假球",
+      "onboard_time": 1678018646,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174020,
       "num": 174020,
       "word": "全度妍郑敬淏CP感",
@@ -7916,7 +7924,7 @@
     },
     {
       "raw_hot": 168049,
-      "num": 1065668,
+      "num": 1128685,
       "word": "政府工作报告里的民生红包",
       "onboard_time": 1678003346,
       "rank": 4,
@@ -7985,14 +7993,6 @@
       "onboard_time": 1677849805,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 165558,
-      "num": 165558,
-      "word": "吴兴涵被曝涉假球",
-      "onboard_time": 1678018646,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 165406,
@@ -8193,6 +8193,14 @@
       "onboard_time": 1678001667,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 155944,
+      "num": 155944,
+      "word": "OMG偷家获胜",
+      "onboard_time": 1678019797,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 155654,
@@ -9035,6 +9043,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 127851,
+      "num": 127851,
+      "word": "建议冬天不学十以外加减法",
+      "onboard_time": 1678020155,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127825,
       "num": 127825,
       "word": "蔡徐坤米兰四年前后对比",
@@ -9481,6 +9497,14 @@
       "onboard_time": 1677801869,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108778,
+      "num": 108778,
+      "word": "eStar对战LGD",
+      "onboard_time": 1678020450,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 108220,
@@ -10659,6 +10683,9 @@
     },
     {
       "word": "#速览2023年政府工作报告#"
+    },
+    {
+      "word": "#习近平参加江苏代表团审议#"
     }
   ]
 }
