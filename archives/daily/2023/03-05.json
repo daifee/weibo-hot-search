@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1677985319250,
+  "endTime": 1677985808420,
   "band_list": [
     {
       "raw_hot": 1862826,
@@ -9,6 +9,14 @@
       "onboard_time": 1677977123,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1601939,
+      "num": 214295,
+      "word": "吴青峰 请大家别听苏打绿的歌",
+      "onboard_time": 1677984745,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1384707,
@@ -25,14 +33,6 @@
       "onboard_time": 1677942691,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1047428,
-      "num": 214295,
-      "word": "吴青峰 请大家别听苏打绿的歌",
-      "onboard_time": 1677984745,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 925883,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 753963,
-      "num": 319831,
+      "num": 322385,
       "word": "被黄绮珊治好了容貌焦虑",
       "onboard_time": 1677979584,
       "rank": 12,
@@ -99,20 +99,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 529803,
-      "num": 258505,
-      "word": "卓文萱否认参加浪姐4",
-      "onboard_time": 1677981987,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 529193,
+      "raw_hot": 539564,
       "num": 384421,
       "word": "苹果天气小组件现大范围bug",
       "onboard_time": 1677981626,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 529803,
+      "num": 282388,
+      "word": "卓文萱否认参加浪姐4",
+      "onboard_time": 1677981987,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 520855,
@@ -131,7 +131,7 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 486470,
+      "raw_hot": 489905,
       "num": 383297,
       "word": "第一次吃醋的小猫咪",
       "onboard_time": 1677981567,
@@ -203,6 +203,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 384561,
+      "num": 384561,
+      "word": "流浪地球2在中国空间站也上映了",
+      "onboard_time": 1677984145,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364844,
       "num": 164702,
       "word": "薛凯琪周柯宇吻戏",
@@ -227,14 +235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 350597,
-      "num": 350597,
-      "word": "流浪地球2在中国空间站也上映了",
-      "onboard_time": 1677984145,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 347631,
       "num": 347631,
       "word": "梅西祝贺姆巴佩打破纪录",
@@ -249,6 +249,22 @@
       "onboard_time": 1677983363,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 325192,
+      "num": 325192,
+      "word": "易烊千玺科幻短片预告",
+      "onboard_time": 1677985524,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 324771,
+      "num": 217505,
+      "word": "尔冬升向郭晓婷邀戏",
+      "onboard_time": 1677984325,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 318348,
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269412,
+      "num": 269412,
+      "word": "熊猫妈妈朋友圈好戳人",
+      "onboard_time": 1677982225,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262204,
       "num": 262204,
       "word": "小水会来吗",
@@ -323,14 +347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251107,
-      "num": 251107,
-      "word": "熊猫妈妈朋友圈好戳人",
-      "onboard_time": 1677982225,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250958,
       "num": 250958,
       "word": "过去5年极不寻常极不平凡",
@@ -345,14 +361,6 @@
       "onboard_time": 1677930625,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249503,
-      "num": 217505,
-      "word": "尔冬升向郭晓婷邀戏",
-      "onboard_time": 1677984325,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 249005,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 181603,
-      "num": 181603,
+      "num": 379166,
       "word": "极简版政府工作报告",
       "onboard_time": 1677984083,
       "rank": 27,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 168823,
-      "num": 137665,
+      "num": 147178,
       "word": "美国独立精神奖",
       "onboard_time": 1677983786,
       "rank": 34,
@@ -531,12 +539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156681,
+      "num": 156681,
+      "word": "把恢复和扩大消费摆在优先位置",
+      "onboard_time": 1677984265,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151695,
       "num": 151695,
       "word": "BLACKPINK演唱会预告新项目",
       "onboard_time": 1677939629,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149807,
+      "num": 149807,
+      "word": "政府工作报告建议今年努力的几项重点",
+      "onboard_time": 1677983126,
+      "rank": 32,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 149237,
@@ -548,19 +572,11 @@
     },
     {
       "raw_hot": 149011,
-      "num": 83912,
+      "num": 86382,
       "word": "凯特布兰切特亲杨紫琼",
       "onboard_time": 1677984023,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148977,
-      "num": 148977,
-      "word": "政府工作报告建议今年努力的几项重点",
-      "onboard_time": 1677983126,
-      "rank": 32,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 148827,
@@ -625,14 +641,6 @@
       "onboard_time": 1677973700,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 131043,
-      "num": 131043,
-      "word": "把恢复和扩大消费摆在优先位置",
-      "onboard_time": 1677984265,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130963,
@@ -763,6 +771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99212,
+      "num": 99212,
+      "word": "春天有多美",
+      "onboard_time": 1677985046,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 96955,
       "num": 96955,
       "word": "刘耀文的雕是荣梓杉送的",
@@ -827,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81170,
+      "num": 81170,
+      "word": "有效防范化解重大经济金融风险",
+      "onboard_time": 1677985645,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 81028,
       "num": 81028,
       "word": "数说2022年经济社会发展",
@@ -859,20 +883,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 71820,
-      "num": 71820,
-      "word": "春天有多美",
-      "onboard_time": 1677985046,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 70478,
       "num": 70478,
       "word": "一图速览2023年政府工作报告",
       "onboard_time": 1677982647,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 70179,
+      "num": 70179,
+      "word": "手工制作过程真的好解压",
+      "onboard_time": 1677985645,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 69922,
@@ -956,6 +980,9 @@
     },
     {
       "word": "#今年两会首场代表通道#"
+    },
+    {
+      "word": "#十四届全国人大一次会议开幕会#"
     }
   ]
 }
