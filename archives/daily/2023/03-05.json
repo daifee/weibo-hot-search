@@ -1,10 +1,10 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1678012529324,
+  "endTime": 1678014912275,
   "band_list": [
     {
-      "raw_hot": 2108481,
-      "num": 2108481,
+      "raw_hot": 2326658,
+      "num": 2326658,
       "word": "建议六三三学制改为五二三",
       "onboard_time": 1678010607,
       "rank": 0,
@@ -25,6 +25,14 @@
       "onboard_time": 1677984745,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1678642,
+      "num": 457345,
+      "word": "甲流",
+      "onboard_time": 1678012585,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1407295,
@@ -89,6 +97,14 @@
       "onboard_time": 1677996927,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 950770,
+      "num": 442664,
+      "word": "女子称摸UGG靴子被要求买下",
+      "onboard_time": 1678011085,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 925883,
@@ -169,14 +185,6 @@
       "onboard_time": 1677990566,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 676702,
-      "num": 311990,
-      "word": "女子称摸UGG靴子被要求买下",
-      "onboard_time": 1678011085,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 639680,
@@ -339,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 462479,
+      "num": 241764,
+      "word": "南京地铁回应乘客因手机外放收罚单",
+      "onboard_time": 1678011505,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460861,
       "num": 390442,
       "word": "戴口罩喘不上气剪开发现塑料胶布",
@@ -427,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418488,
+      "num": 418488,
+      "word": "专家呼吁每天省杯咖啡提前规划养老",
+      "onboard_time": 1678013366,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410478,
       "num": 410478,
       "word": "一眼就能看出来不用上班的人",
@@ -473,6 +497,14 @@
       "onboard_time": 1677998727,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382973,
+      "num": 382973,
+      "word": "白马帅掉马",
+      "onboard_time": 1678010907,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 380465,
@@ -579,6 +611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 323110,
+      "num": 238125,
+      "word": "75岁老人中风好友发现步数为0报警",
+      "onboard_time": 1678012527,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321659,
       "num": 321659,
       "word": "金泰亨95后整顿职场",
@@ -617,14 +657,6 @@
       "onboard_time": 1677940049,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 303055,
-      "num": 303055,
-      "word": "白马帅掉马",
-      "onboard_time": 1678010907,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 301832,
@@ -859,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227243,
+      "num": 227243,
+      "word": "申留真WANNABE直拍",
+      "onboard_time": 1678014808,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218531,
       "num": 192495,
       "word": "艾薇儿",
@@ -899,6 +939,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 204133,
+      "num": 204133,
+      "word": "代表回应花花成为网红大熊猫",
+      "onboard_time": 1678011686,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204002,
       "num": 287825,
       "word": "F1",
@@ -913,14 +961,6 @@
       "onboard_time": 1677982826,
       "rank": 24,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 200885,
-      "num": 200885,
-      "word": "南京地铁回应乘客因手机外放收罚单",
-      "onboard_time": 1678011505,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199176,
@@ -1011,6 +1051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188002,
+      "num": 188002,
+      "word": "中戏院长谈演员的文化修养",
+      "onboard_time": 1678014208,
+      "rank": 24,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 184364,
       "num": 184364,
       "word": "RW锁定S组",
@@ -1033,6 +1081,14 @@
       "onboard_time": 1677984083,
       "rank": 27,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 176366,
+      "num": 176366,
+      "word": "毛不易 抢票",
+      "onboard_time": 1678012349,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 175544,
@@ -1105,6 +1161,14 @@
       "onboard_time": 1677942990,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163502,
+      "num": 156279,
+      "word": "男团下岗再就业",
+      "onboard_time": 1678013667,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 161400,
@@ -1299,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132737,
+      "num": 132737,
+      "word": "建议对35岁职场门槛增加监管处罚",
+      "onboard_time": 1678014208,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132108,
       "num": 132108,
       "word": "希林娜依高四唱LPL主题曲",
@@ -1491,6 +1563,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 104913,
+      "num": 260483,
+      "word": "90后人大代表曾在辽宁舰上喊话外军",
+      "onboard_time": 1678013068,
+      "rank": 9,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 103270,
       "num": 103270,
       "word": "我的春日ootd",
@@ -1563,6 +1643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 98528,
+      "num": 98528,
+      "word": "商家回应5串烤串收费103元",
+      "onboard_time": 1678014688,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97251,
       "num": 452301,
       "word": "7个关键字看政府工作报告",
@@ -1595,12 +1683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93622,
-      "num": 93622,
-      "word": "代表回应花花成为网红大熊猫",
-      "onboard_time": 1678011686,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 91072,
+      "num": 91072,
+      "word": "BoysPlanet二公限制外国人投票",
+      "onboard_time": 1678009106,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 90743,
@@ -1609,22 +1697,6 @@
       "onboard_time": 1677938909,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 89213,
-      "num": 89213,
-      "word": "BoysPlanet二公限制外国人投票",
-      "onboard_time": 1678009106,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 88343,
-      "num": 88343,
-      "word": "毛不易 抢票",
-      "onboard_time": 1678012349,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 88214,
@@ -1689,6 +1761,14 @@
       "onboard_time": 1677959592,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84635,
+      "num": 84635,
+      "word": "老中医旅途中带针灸包接连救12人",
+      "onboard_time": 1678014748,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 84539,
@@ -1769,14 +1849,6 @@
       "onboard_time": 1677985645,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 70066,
-      "num": 70066,
-      "word": "75岁老人中风好友发现步数为0报警",
-      "onboard_time": 1678012527,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69922,
