@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1678023251015,
+  "endTime": 1678025789943,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -99,8 +99,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1106335,
-      "num": 1106335,
+      "raw_hot": 1151571,
+      "num": 1151571,
       "word": "专家呼吁每天省杯咖啡提前规划养老",
       "onboard_time": 1678013366,
       "rank": 5,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 725442,
-      "num": 256038,
+      "num": 264620,
       "word": "宋茜舞台",
       "onboard_time": 1678021774,
       "rank": 12,
@@ -379,12 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508539,
+      "num": 508539,
+      "word": "C罗为地震灾区捐赠物资",
+      "onboard_time": 1678023511,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 502897,
       "num": 502897,
       "word": "建议对35岁职场门槛增加监管处罚",
       "onboard_time": 1678014208,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501343,
+      "num": 261174,
+      "word": "王一博读雷锋日记",
+      "onboard_time": 1678024709,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 491308,
@@ -867,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272259,
+      "num": 272259,
+      "word": "嫡谋影视化",
+      "onboard_time": 1678021293,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271577,
       "num": 236519,
       "word": "光与夜之恋",
@@ -1003,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241252,
-      "num": 241252,
-      "word": "嫡谋影视化",
-      "onboard_time": 1678021293,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 240493,
       "num": 240493,
       "word": "吴兴涵",
@@ -1091,12 +1107,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219734,
+      "num": 219734,
+      "word": "一等绯闻大结局",
+      "onboard_time": 1678025070,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218760,
+      "num": 218760,
+      "word": "宋佳巴黎时装周看秀造型",
+      "onboard_time": 1678022075,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 218531,
       "num": 192495,
       "word": "艾薇儿",
       "onboard_time": 1677934287,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214151,
+      "num": 214151,
+      "word": "泰山景区回应多名游客深夜翻门进入",
+      "onboard_time": 1678024229,
+      "rank": 25,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 212768,
@@ -1115,20 +1155,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210028,
-      "num": 210028,
-      "word": "宋佳巴黎时装周看秀造型",
-      "onboard_time": 1678022075,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 208319,
       "num": 208319,
       "word": "TES战胜XYG",
       "onboard_time": 1678018107,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207396,
+      "num": 207396,
+      "word": "买根火腿肠就能在石家庄实现地铁自由",
+      "onboard_time": 1678024829,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206628,
@@ -1161,6 +1201,14 @@
       "onboard_time": 1677982826,
       "rank": 24,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 200156,
+      "num": 200156,
+      "word": "这是在酒店进货吗",
+      "onboard_time": 1678024409,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 199176,
@@ -1267,6 +1315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184141,
+      "num": 184141,
+      "word": "杨天真说事业心是女性的强心剂",
+      "onboard_time": 1678020994,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183356,
       "num": 183356,
       "word": "王心凌现场好稳",
@@ -1313,14 +1369,6 @@
       "onboard_time": 1677932486,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 174954,
-      "num": 174954,
-      "word": "杨天真说事业心是女性的强心剂",
-      "onboard_time": 1678020994,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173752,
@@ -1569,6 +1617,14 @@
       "onboard_time": 1677935608,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140532,
+      "num": 140532,
+      "word": "雷锋离开后他把一家三代变成了雷锋",
+      "onboard_time": 1678022731,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140313,
@@ -1851,14 +1907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101110,
-      "num": 101110,
-      "word": "雷锋离开后他把一家三代变成了雷锋",
-      "onboard_time": 1678022731,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100733,
       "num": 100733,
       "word": "2022粮食产量1.37万亿斤",
@@ -1937,6 +1985,14 @@
       "onboard_time": 1677934587,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94289,
+      "num": 94289,
+      "word": "一方水土养一方大熊猫",
+      "onboard_time": 1678025430,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94041,
