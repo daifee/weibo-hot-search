@@ -1,6 +1,6 @@
 {
   "startTime": 1677947064545,
-  "endTime": 1678008827901,
+  "endTime": 1678011549768,
   "band_list": [
     {
       "raw_hot": 1862826,
@@ -67,6 +67,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1091660,
+      "num": 444976,
+      "word": "白鹿片场靠在张凌赫肩膀上",
+      "onboard_time": 1678008326,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 958535,
       "num": 530970,
       "word": "条件不错却不谈恋爱的原因",
@@ -81,6 +89,14 @@
       "onboard_time": 1677975324,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 895241,
+      "num": 895241,
+      "word": "建议六三三学制改为五二三",
+      "onboard_time": 1678010607,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 892387,
@@ -115,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770494,
+      "num": 230498,
+      "word": "男子用自来水洗脸感染食脑虫死亡",
+      "onboard_time": 1678009047,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753963,
       "num": 322385,
       "word": "被黄绮珊治好了容貌焦虑",
@@ -137,14 +161,6 @@
       "onboard_time": 1677989126,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 738373,
-      "num": 444976,
-      "word": "白鹿片场靠在张凌赫肩膀上",
-      "onboard_time": 1678008326,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 680263,
@@ -347,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448755,
+      "num": 349509,
+      "word": "鲜花煮奶茶",
+      "onboard_time": 1678009763,
+      "rank": 11,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 444507,
       "num": 417493,
       "word": "浪姐4最终阵容",
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375385,
+      "num": 375385,
+      "word": "我国多地将超前体验4月的暖意",
+      "onboard_time": 1678006646,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374661,
       "num": 327452,
       "word": "宋茜送你一朵小红花彩排照",
@@ -484,7 +516,7 @@
     },
     {
       "raw_hot": 362268,
-      "num": 331731,
+      "num": 347224,
       "word": "浪凡",
       "onboard_time": 1678007726,
       "rank": 20,
@@ -592,6 +624,14 @@
       "word": "AI修复雷锋生前影像",
       "onboard_time": 1677973218,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297093,
+      "num": 297093,
+      "word": "他们不是我的粉丝是中国文化的粉丝",
+      "onboard_time": 1678008447,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -731,12 +771,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248174,
+      "num": 248174,
+      "word": "白马帅掉马",
+      "onboard_time": 1678010907,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246057,
       "num": 291131,
       "word": "鹅鸭杀",
       "onboard_time": 1677938068,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 240493,
+      "num": 240493,
+      "word": "吴兴涵",
+      "onboard_time": 1678008506,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 238201,
@@ -777,6 +833,22 @@
       "onboard_time": 1677980546,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219497,
+      "num": 219497,
+      "word": "女子称摸UGG靴子被要求买下",
+      "onboard_time": 1678011085,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219087,
+      "num": 219087,
+      "word": "易烊千玺未知动物剧照",
+      "onboard_time": 1678009287,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 218531,
@@ -915,14 +987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190666,
-      "num": 190666,
-      "word": "我国多地将超前体验4月的暖意",
-      "onboard_time": 1678006646,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188819,
       "num": 300538,
       "word": "RW对战RNGM",
@@ -979,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172530,
+      "num": 172530,
+      "word": "景区回应大爷跳进许愿池里捞钱",
+      "onboard_time": 1678008927,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172137,
       "num": 296514,
       "word": "FoFo 稳",
@@ -1027,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158744,
+      "num": 158744,
+      "word": "岳云鹏被辩论逻辑逼疯",
+      "onboard_time": 1678011146,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157327,
       "num": 200151,
       "word": "辽宁舰90后女少校亮相代表通道",
@@ -1059,6 +1139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150316,
+      "num": 138931,
+      "word": "瑞镇家",
+      "onboard_time": 1678007848,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150002,
       "num": 261147,
       "word": "广玉兰",
@@ -1073,14 +1161,6 @@
       "onboard_time": 1677983126,
       "rank": 32,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 149306,
-      "num": 138931,
-      "word": "瑞镇家",
-      "onboard_time": 1678007848,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 149237,
@@ -1153,6 +1233,14 @@
       "onboard_time": 1677997407,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140539,
+      "num": 96073,
+      "word": "NCTDREAMgo发行五周年",
+      "onboard_time": 1678009406,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 140534,
@@ -1315,14 +1403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113324,
-      "num": 113324,
-      "word": "吴兴涵",
-      "onboard_time": 1678008506,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113255,
       "num": 105590,
       "word": "希林娜依高高定红毯造型",
@@ -1403,14 +1483,6 @@
       "category": "时尚,情感"
     },
     {
-      "raw_hot": 102227,
-      "num": 102227,
-      "word": "他们不是我的粉丝是中国文化的粉丝",
-      "onboard_time": 1678008447,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102048,
       "num": 102048,
       "word": "雷锋珍贵原声音频",
@@ -1449,6 +1521,14 @@
       "onboard_time": 1677996986,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99536,
+      "num": 99536,
+      "word": "虞书欣牛仔套装上班路透",
+      "onboard_time": 1678010366,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 99212,
@@ -1555,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85787,
+      "num": 85787,
+      "word": "XYG对战TES",
+      "onboard_time": 1678009166,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 85193,
       "num": 208790,
       "word": "巴黎圣日耳曼vs南特",
@@ -1569,6 +1657,14 @@
       "onboard_time": 1677972678,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84184,
+      "num": 84184,
+      "word": "BoysPlanet二公限制外国人投票",
+      "onboard_time": 1678009106,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 81170,
@@ -1651,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69780,
+      "num": 69780,
+      "word": "南京地铁回应乘客因手机外放收罚单",
+      "onboard_time": 1678011505,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67977,
       "num": 67977,
       "word": "赴土耳其的搜救犬乘商务舱回国",
@@ -1723,7 +1827,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42261,
+      "raw_hot": 42412,
       "num": 541527,
       "word": "全国政协十四届一次会议记者会",
       "onboard_time": 1678005688,
