@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1677990177354,
+  "endTime": 1677991078007,
   "band_list": [
     {
       "raw_hot": 8343319,
@@ -2091,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 600125,
+      "num": 395177,
+      "word": "小鹏回应人脸识别需对车头半跪",
+      "onboard_time": 1677986904,
+      "rank": 17,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 598549,
       "num": 598549,
       "word": "周琦",
@@ -2105,14 +2113,6 @@
       "onboard_time": 1677887544,
       "rank": 4,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 582894,
-      "num": 395177,
-      "word": "小鹏回应人脸识别需对车头半跪",
-      "onboard_time": 1677986904,
-      "rank": 17,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 580412,
@@ -2177,6 +2177,14 @@
       "onboard_time": 1677759569,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 574135,
+      "num": 574135,
+      "word": "建议随迁子女就地入学",
+      "onboard_time": 1677986304,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 573899,
@@ -2523,14 +2531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 529047,
-      "num": 529047,
-      "word": "建议随迁子女就地入学",
-      "onboard_time": 1677986304,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 527202,
       "num": 527202,
       "word": "SuperJunior将推出沙特旅行综艺神灯的骑士",
@@ -2803,6 +2803,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 474630,
+      "num": 215998,
+      "word": "郭晓婷徐海乔苍兰诀后合体",
+      "onboard_time": 1677989905,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474168,
       "num": 474168,
       "word": "张佳宁长发梦回林北星",
@@ -2881,6 +2889,14 @@
       "onboard_time": 1677739705,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 460861,
+      "num": 390442,
+      "word": "戴口罩喘不上气剪开发现塑料胶布",
+      "onboard_time": 1677986844,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459864,
@@ -3251,6 +3267,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 422235,
+      "num": 256836,
+      "word": "第一次见这么肥的孔雀",
+      "onboard_time": 1677989126,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 422072,
       "num": 422072,
       "word": "EXO通过粉丝见面会正式启动完整体活动",
@@ -3352,14 +3376,6 @@
       "word": "商场回应艺术画展被指涉儿童色情",
       "onboard_time": 1677768511,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 404213,
-      "num": 390442,
-      "word": "戴口罩喘不上气剪开发现塑料胶布",
-      "onboard_time": 1677986844,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -3643,14 +3659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 370857,
-      "num": 215998,
-      "word": "郭晓婷徐海乔苍兰诀后合体",
-      "onboard_time": 1677989905,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 370785,
       "num": 370785,
       "word": "蒋胜男发声反对加班泛滥",
@@ -3803,6 +3811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356141,
+      "num": 158821,
+      "word": "凯特 杨紫琼",
+      "onboard_time": 1677987865,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355596,
       "num": 355596,
       "word": "华为诉小米专利侵权已被受理",
@@ -3849,14 +3865,6 @@
       "onboard_time": 1677822626,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 352510,
-      "num": 145735,
-      "word": "凯特 杨紫琼",
-      "onboard_time": 1677987865,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 352236,
@@ -4235,6 +4243,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 317585,
+      "num": 142922,
+      "word": "NewJeans新歌MV花絮视频",
+      "onboard_time": 1677989845,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 317401,
       "num": 110085,
       "word": "早年明星恋爱综艺",
@@ -4603,14 +4619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 289081,
-      "num": 134957,
-      "word": "NewJeans新歌MV花絮视频",
-      "onboard_time": 1677989845,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 288554,
       "num": 288554,
       "word": "巨人完结篇前篇开分9.5",
@@ -4875,6 +4883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271577,
+      "num": 236519,
+      "word": "光与夜之恋",
+      "onboard_time": 1677989126,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271275,
       "num": 271275,
       "word": "甲流患者需服用抗病毒药物吗",
@@ -4929,6 +4945,14 @@
       "onboard_time": 1677934466,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 267510,
+      "num": 175592,
+      "word": "利路修走秀",
+      "onboard_time": 1677989606,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 266590,
@@ -5363,6 +5387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236600,
+      "num": 236600,
+      "word": "我国5G用户超过5.75亿",
+      "onboard_time": 1677986904,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236372,
       "num": 236372,
       "word": "只有上了泰山才能看到的风景",
@@ -5643,14 +5675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223723,
-      "num": 223723,
-      "word": "我国5G用户超过5.75亿",
-      "onboard_time": 1677986904,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223484,
       "num": 223484,
       "word": "陈楚生苏醒王铮亮合唱海上花",
@@ -5763,14 +5787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219163,
-      "num": 219163,
-      "word": "第一次见这么肥的孔雀",
-      "onboard_time": 1677989126,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 218861,
       "num": 218861,
       "word": "工作空窗期怎么缴纳社保",
@@ -5801,14 +5817,6 @@
       "onboard_time": 1677899965,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 217350,
-      "num": 159864,
-      "word": "光与夜之恋",
-      "onboard_time": 1677989126,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 217343,
@@ -7035,6 +7043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175816,
+      "num": 175816,
+      "word": "76人终结雄鹿16连胜",
+      "onboard_time": 1677990806,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175728,
       "num": 175728,
       "word": "2023LPL春季赛",
@@ -7121,6 +7137,14 @@
       "onboard_time": 1677814408,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172046,
+      "num": 247925,
+      "word": "我国将加快6G网络研发",
+      "onboard_time": 1677990267,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171840,
@@ -7336,6 +7360,14 @@
       "word": "建议适度提高醉驾入刑标准",
       "onboard_time": 1677726086,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163171,
+      "num": 163171,
+      "word": "中国2023年国防费预算增长7.2%",
+      "onboard_time": 1677990686,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -7883,6 +7915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139268,
+      "num": 133943,
+      "word": "香港开年爆款电影为何是它",
+      "onboard_time": 1677990686,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138495,
       "num": 138495,
       "word": "警方下周传唤刘亚仁",
@@ -8091,14 +8131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 133075,
-      "num": 133075,
-      "word": "利路修走秀",
-      "onboard_time": 1677989606,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 132497,
       "num": 132497,
       "word": "恋爱中的少典有琴",
@@ -8113,6 +8145,14 @@
       "onboard_time": 1677978623,
       "rank": 34,
       "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 132049,
+      "num": 132049,
+      "word": "76人vs雄鹿",
+      "onboard_time": 1677990084,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 131459,
@@ -8939,14 +8979,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 87631,
-      "num": 87631,
-      "word": "76人vs雄鹿",
-      "onboard_time": 1677990084,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87204,
       "num": 87204,
       "word": "东京马拉松",
@@ -9169,6 +9201,14 @@
       "onboard_time": 1677781155,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 70878,
+      "num": 279446,
+      "word": "7个关键字看政府工作报告",
+      "onboard_time": 1677990806,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 70734,

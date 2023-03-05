@@ -1,0 +1,410 @@
+{
+  "runTime": 1677991078007,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 574135,
+        "num": 574135,
+        "word": "建议随迁子女就地入学",
+        "onboard_time": 1677986304,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323075,
+        "num": 323075,
+        "word": "流浪地球2在中国空间站也上映了",
+        "onboard_time": 1677984145,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 60376,
+        "num": 320973,
+        "word": "极简版政府工作报告",
+        "onboard_time": 1677984083,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 600125,
+        "num": 297832,
+        "word": "小鹏回应人脸识别需对车头半跪",
+        "onboard_time": 1677986904,
+        "rank": 3,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 70878,
+        "num": 279446,
+        "word": "7个关键字看政府工作报告",
+        "onboard_time": 1677990806,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 460861,
+        "num": 275703,
+        "word": "戴口罩喘不上气剪开发现塑料胶布",
+        "onboard_time": 1677986844,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261725,
+        "num": 261725,
+        "word": "建议推行婚检与婚姻登记一站式服务",
+        "onboard_time": 1677977545,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422235,
+        "num": 256836,
+        "word": "第一次见这么肥的孔雀",
+        "onboard_time": 1677989126,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347691,
+        "num": 254673,
+        "word": "什么电视剧能拍到第15季",
+        "onboard_time": 1677977063,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172046,
+        "num": 247925,
+        "word": "我国将加快6G网络研发",
+        "onboard_time": 1677990267,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1177355,
+        "num": 237820,
+        "word": "周杰伦 罚钱哥是无所谓",
+        "onboard_time": 1677977123,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236600,
+        "num": 236600,
+        "word": "我国5G用户超过5.75亿",
+        "onboard_time": 1677986904,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271577,
+        "num": 236519,
+        "word": "光与夜之恋",
+        "onboard_time": 1677989126,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227001,
+        "num": 227001,
+        "word": "第一次吃醋的小猫咪",
+        "onboard_time": 1677981567,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 207070,
+        "num": 207070,
+        "word": "苹果天气小组件现大范围bug",
+        "onboard_time": 1677981626,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1038272,
+        "num": 205392,
+        "word": "长珩仙君杀我咯",
+        "onboard_time": 1677987265,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198320,
+        "num": 198320,
+        "word": "到北京动物园为丫丫探营的人好多",
+        "onboard_time": 1677942390,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187594,
+        "num": 187594,
+        "word": "原来尺子还能当剪子用",
+        "onboard_time": 1677983363,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 474630,
+        "num": 185764,
+        "word": "郭晓婷徐海乔苍兰诀后合体",
+        "onboard_time": 1677989905,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175816,
+        "num": 175816,
+        "word": "76人终结雄鹿16连胜",
+        "onboard_time": 1677990806,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267510,
+        "num": 175592,
+        "word": "利路修走秀",
+        "onboard_time": 1677989606,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1408412,
+        "num": 174036,
+        "word": "吴青峰 请大家别听苏打绿的歌",
+        "onboard_time": 1677984745,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165177,
+        "num": 165177,
+        "word": "美国一州设毒品安全注射点方便吸毒者",
+        "onboard_time": 1677960792,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163171,
+        "num": 163171,
+        "word": "中国2023年国防费预算增长7.2%",
+        "onboard_time": 1677990686,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356141,
+        "num": 158821,
+        "word": "凯特 杨紫琼",
+        "onboard_time": 1677987865,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91922,
+        "num": 149154,
+        "word": "部长通道采访直播",
+        "onboard_time": 1677984503,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 146178,
+        "num": 146178,
+        "word": "熊猫妈妈朋友圈好戳人",
+        "onboard_time": 1677982225,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317585,
+        "num": 142922,
+        "word": "NewJeans新歌MV花絮视频",
+        "onboard_time": 1677989845,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137009,
+        "num": 137009,
+        "word": "中国留学生回应毕业典礼空翻上场",
+        "onboard_time": 1677977966,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 135624,
+        "num": 135624,
+        "word": "莫兰特在直播中秀枪",
+        "onboard_time": 1677972077,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290233,
+        "num": 134707,
+        "word": "被黄绮珊治好了容貌焦虑",
+        "onboard_time": 1677979584,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139268,
+        "num": 133943,
+        "word": "香港开年爆款电影为何是它",
+        "onboard_time": 1677990686,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132231,
+        "num": 132231,
+        "word": "十四届全国人大一次会议开幕",
+        "onboard_time": 1677975324,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 252518,
+        "num": 132178,
+        "word": "易烊千玺科幻短片预告",
+        "onboard_time": 1677985524,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132049,
+        "num": 132049,
+        "word": "76人vs雄鹿",
+        "onboard_time": 1677990084,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130330,
+        "num": 130330,
+        "word": "梅西祝贺姆巴佩打破纪录",
+        "onboard_time": 1677975681,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 235765,
+        "num": 130209,
+        "word": "迪丽热巴造型",
+        "onboard_time": 1677942691,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125944,
+        "num": 125944,
+        "word": "LOL新英雄米利欧",
+        "onboard_time": 1677979644,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118008,
+        "num": 118008,
+        "word": "听说你喜欢我全员发长文告别",
+        "onboard_time": 1677988465,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184974,
+        "num": 113776,
+        "word": "房东的猫演唱云烟成雨",
+        "onboard_time": 1677988285,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104840,
+        "num": 104840,
+        "word": "我们要推进祖国和平统一进程",
+        "onboard_time": 1677982826,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 96086,
+        "num": 96086,
+        "word": "政府工作报告建议今年努力的几项重点",
+        "onboard_time": 1677983126,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 178084,
+        "num": 95586,
+        "word": "刘亦菲巴黎到达路透",
+        "onboard_time": 1677975744,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 94852,
+        "num": 94852,
+        "word": "女生玩梗对暗号遭小孩婉拒时代过了",
+        "onboard_time": 1677950898,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91660,
+        "num": 91660,
+        "word": "直播政府工作报告",
+        "onboard_time": 1677978082,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 177177,
+        "num": 91325,
+        "word": "王心凌郑秀妍浪姐红毯偶遇",
+        "onboard_time": 1677980726,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90874,
+        "num": 90874,
+        "word": "2023年GDP目标为增长5%左右",
+        "onboard_time": 1677981866,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 88732,
+        "num": 88732,
+        "word": "2023政府工作报告",
+        "onboard_time": 1677987325,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 57044,
+        "num": 84091,
+        "word": "2023发展主要预期目标",
+        "onboard_time": 1677981987,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 151094,
+        "num": 83613,
+        "word": "卓文萱否认参加浪姐4",
+        "onboard_time": 1677981987,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大一次会议开幕会#"
+    }
+  }
+}
