@@ -1,0 +1,410 @@
+{
+  "runTime": 1678131235500,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 107038,
+        "num": 107038,
+        "word": "感染甲流会有全身症状",
+        "onboard_time": 1678107386,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85349,
+        "num": 85349,
+        "word": "台湾或面临史上最久缺蛋荒",
+        "onboard_time": 1678096227,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11261,
+        "num": 84353,
+        "word": "两会好声音",
+        "onboard_time": 1678108049,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 83692,
+        "num": 83692,
+        "word": "威廉疑似在校被霸凌",
+        "onboard_time": 1678103367,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66713,
+        "num": 66713,
+        "word": "一一牛杂火锅店吃出老鼠被立案调查",
+        "onboard_time": 1678119743,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50393,
+        "num": 50393,
+        "word": "LV",
+        "onboard_time": 1678110569,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 45563,
+        "num": 45563,
+        "word": "外墙面层均计入建筑面积",
+        "onboard_time": 1678117165,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45441,
+        "num": 45441,
+        "word": "国足赢了沙特",
+        "onboard_time": 1678112309,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42320,
+        "num": 42320,
+        "word": "这是真的水泥封心了",
+        "onboard_time": 1678116988,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35853,
+        "num": 35853,
+        "word": "酒店1场会议43瓶水未喝完被罚",
+        "onboard_time": 1678108348,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89788,
+        "num": 35587,
+        "word": "台湾有观光点1人限购2颗茶叶蛋",
+        "onboard_time": 1678127173,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77249,
+        "num": 35559,
+        "word": "刘亦菲李惠仁谷爱凌同框",
+        "onboard_time": 1678115009,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33889,
+        "num": 33889,
+        "word": "荣耀Magic5系列发布会",
+        "onboard_time": 1678086565,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 34132,
+        "num": 33449,
+        "word": "陆仙人巴黎时装周首秀",
+        "onboard_time": 1678110328,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32525,
+        "num": 32525,
+        "word": "张颂文定妆旧照",
+        "onboard_time": 1678120040,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30945,
+        "num": 30945,
+        "word": "多地中小学实行教师退出机制",
+        "onboard_time": 1678095567,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 30614,
+        "num": 30614,
+        "word": "谷爱凌晒巴黎生活plog",
+        "onboard_time": 1678116687,
+        "rank": 16,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 29848,
+        "num": 29848,
+        "word": "赵丽颖肖央虎狼之路通告单",
+        "onboard_time": 1678117766,
+        "rank": 17,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 29176,
+        "num": 29176,
+        "word": "如何看待年轻人大城挣钱小城安家",
+        "onboard_time": 1678114588,
+        "rank": 18,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 28048,
+        "num": 28048,
+        "word": "张语格 退团",
+        "onboard_time": 1678097968,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28013,
+        "num": 28013,
+        "word": "张新成宋祖儿艰难的制造组讯",
+        "onboard_time": 1678125674,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27361,
+        "num": 27361,
+        "word": "为什么感觉这波甲流这么厉害",
+        "onboard_time": 1678094487,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27319,
+        "num": 27319,
+        "word": "摸鱼的时候有活干了",
+        "onboard_time": 1678117706,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25017,
+        "num": 25017,
+        "word": "台湾是中国的一部分没有什么国防部长",
+        "onboard_time": 1678099587,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 23269,
+        "num": 23269,
+        "word": "贝儿碎碎念名场面",
+        "onboard_time": 1678110687,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23175,
+        "num": 23175,
+        "word": "科学家发现黑洞旁诞生一颗恒星",
+        "onboard_time": 1678100366,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 23001,
+        "num": 23001,
+        "word": "王鹤棣黑衬衫",
+        "onboard_time": 1678128012,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22922,
+        "num": 22922,
+        "word": "u20",
+        "onboard_time": 1678115606,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21804,
+        "num": 21804,
+        "word": "没点本事千万别骑鸵鸟",
+        "onboard_time": 1678116446,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20796,
+        "num": 20796,
+        "word": "星落凝成糖慢慢下线",
+        "onboard_time": 1678109428,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20730,
+        "num": 20730,
+        "word": "亚航被曝行李超重5公斤收1807元托运费",
+        "onboard_time": 1678101206,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19548,
+        "num": 19548,
+        "word": "任嘉伦白西装金丝眼镜",
+        "onboard_time": 1678110930,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18922,
+        "num": 18922,
+        "word": "U20国足7分钟连进2球",
+        "onboard_time": 1678110508,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17211,
+        "num": 17211,
+        "word": "拜仁vs巴黎",
+        "onboard_time": 1678118365,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16849,
+        "num": 16849,
+        "word": "保你平安 好看",
+        "onboard_time": 1678115069,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16456,
+        "num": 16456,
+        "word": "王楚然说玉骨遥今年会播",
+        "onboard_time": 1678105049,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16254,
+        "num": 16254,
+        "word": "LV的女装",
+        "onboard_time": 1678115307,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 15094,
+        "num": 15094,
+        "word": "金智秀 solo出道",
+        "onboard_time": 1678089086,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15072,
+        "num": 15072,
+        "word": "SNH48退团成员违约金名单",
+        "onboard_time": 1678091365,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14580,
+        "num": 14580,
+        "word": "GALA开场整活",
+        "onboard_time": 1678104088,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14512,
+        "num": 14512,
+        "word": "最后生还者",
+        "onboard_time": 1678114288,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13118,
+        "num": 13118,
+        "word": "重启人生第九集",
+        "onboard_time": 1678103546,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13114,
+        "num": 13114,
+        "word": "网友神P图张译",
+        "onboard_time": 1678109968,
+        "rank": 42,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 13060,
+        "num": 13060,
+        "word": "建议允许企业弹性安排法定节假日",
+        "onboard_time": 1678107688,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13028,
+        "num": 13028,
+        "word": "张杰 抢票",
+        "onboard_time": 1678106547,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12178,
+        "num": 12178,
+        "word": "周冬雨露腰撞色造型",
+        "onboard_time": 1678111048,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 11394,
+        "num": 11394,
+        "word": "古装剧中的美强惨男主",
+        "onboard_time": 1678101747,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10979,
+        "num": 10979,
+        "word": "BLG战胜RNG",
+        "onboard_time": 1678111529,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15404,
+        "num": 10680,
+        "word": "马丽生图",
+        "onboard_time": 1678106066,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10367,
+        "num": 10367,
+        "word": "虞书欣的一滴泪",
+        "onboard_time": 1678098388,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族各界妇女致以节日祝贺#"
+    }
+  }
+}
