@@ -1,0 +1,410 @@
+{
+  "runTime": 1678068503114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2037308,
+        "num": 2037308,
+        "word": "上海迪士尼恢复迪士尼朋友拥抱等互动",
+        "onboard_time": 1678066705,
+        "rank": 0,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 849973,
+        "num": 849973,
+        "word": "吴尊友回应三年白头",
+        "onboard_time": 1678065506,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16743,
+        "num": 849395,
+        "word": "政府工作报告里的民生红包",
+        "onboard_time": 1678003346,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 849290,
+        "num": 849290,
+        "word": "胡歌 繁花",
+        "onboard_time": 1678063045,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 638217,
+        "num": 638217,
+        "word": "妇女节给加班费吗",
+        "onboard_time": 1678066166,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323899,
+        "num": 323899,
+        "word": "震后松毛虫大规模入侵土耳其",
+        "onboard_time": 1678037836,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314540,
+        "num": 314540,
+        "word": "利物浦7比0曼联",
+        "onboard_time": 1678057818,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297390,
+        "num": 297390,
+        "word": "惊蛰",
+        "onboard_time": 1678029328,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278322,
+        "num": 278322,
+        "word": "被雷电瞄准时身体会有预兆",
+        "onboard_time": 1678031486,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257437,
+        "num": 257437,
+        "word": "出门不背包有多爽",
+        "onboard_time": 1678067484,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1609584,
+        "num": 255293,
+        "word": "一本院校招聘会现多家酒店招洗碗工",
+        "onboard_time": 1678061185,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1569757,
+        "num": 253078,
+        "word": "可是他叫她大歌星哎",
+        "onboard_time": 1678064906,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 715234,
+        "num": 252598,
+        "word": "宛瑜展博以另一种方式相遇",
+        "onboard_time": 1678068026,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 523171,
+        "num": 249658,
+        "word": "甲流阳性率在继续上升",
+        "onboard_time": 1678067725,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431475,
+        "num": 247301,
+        "word": "HYBE要求SM终止与Kakao合作",
+        "onboard_time": 1678063287,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403430,
+        "num": 244123,
+        "word": "现在打甲流疫苗还来得及吗",
+        "onboard_time": 1678059801,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360424,
+        "num": 241687,
+        "word": "TWICE全员素颜造型",
+        "onboard_time": 1678065863,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338493,
+        "num": 239223,
+        "word": "拍摄者回应旅英大熊猫听懂四川话",
+        "onboard_time": 1678066705,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325691,
+        "num": 236082,
+        "word": "JISOO海报",
+        "onboard_time": 1678059924,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199400,
+        "num": 234013,
+        "word": "万物复苏",
+        "onboard_time": 1678067304,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 647368,
+        "num": 232543,
+        "word": "B站",
+        "onboard_time": 1678019313,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 396761,
+        "num": 229785,
+        "word": "欠债男子被法官堵在孩子周岁宴上",
+        "onboard_time": 1678064128,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228507,
+        "num": 228507,
+        "word": "国家医保局回应患者15天必须出院",
+        "onboard_time": 1678044552,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220141,
+        "num": 220141,
+        "word": "轻型甲流患者一周左右可自愈",
+        "onboard_time": 1678016007,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209426,
+        "num": 209426,
+        "word": "东契奇布克笑着对喷",
+        "onboard_time": 1678063767,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196782,
+        "num": 196782,
+        "word": "YG新女团出道人数待定",
+        "onboard_time": 1678061006,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191673,
+        "num": 191673,
+        "word": "贝儿唱歌好好听",
+        "onboard_time": 1678060645,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185221,
+        "num": 185221,
+        "word": "任何时候中国都不能缺少制造业",
+        "onboard_time": 1678061306,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 178985,
+        "num": 178985,
+        "word": "甲流",
+        "onboard_time": 1678012585,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171045,
+        "num": 171045,
+        "word": "梦回爸爸去哪儿",
+        "onboard_time": 1678027650,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168337,
+        "num": 168337,
+        "word": "周一没有不疯的打工人",
+        "onboard_time": 1678027351,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152185,
+        "num": 152185,
+        "word": "罕见无毛兔询价5万主人不卖",
+        "onboard_time": 1678028130,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147731,
+        "num": 147731,
+        "word": "专家呼吁每天省杯咖啡提前规划养老",
+        "onboard_time": 1678013366,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139747,
+        "num": 139747,
+        "word": "爱如火原唱北京巡演",
+        "onboard_time": 1678061126,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137480,
+        "num": 137480,
+        "word": "浙江渔民误捕疑海猪后果断放生",
+        "onboard_time": 1678044072,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135855,
+        "num": 135855,
+        "word": "湖人终结勇士五连胜",
+        "onboard_time": 1678059684,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109002,
+        "num": 109002,
+        "word": "建议给女员工占比高的企业减税",
+        "onboard_time": 1678026809,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106057,
+        "num": 106057,
+        "word": "买根火腿肠就能在石家庄实现地铁自由",
+        "onboard_time": 1678024829,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95698,
+        "num": 95698,
+        "word": "关晓彤巴黎看秀前试装",
+        "onboard_time": 1678028490,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 92575,
+        "num": 92575,
+        "word": "一方水土养一方大熊猫",
+        "onboard_time": 1678025430,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92042,
+        "num": 92042,
+        "word": "白岩松谈女足为什么比男足更出成绩",
+        "onboard_time": 1678067667,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 91138,
+        "num": 91138,
+        "word": "老太晕厥4名路过医护教科书式抢救",
+        "onboard_time": 1678060044,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90265,
+        "num": 90265,
+        "word": "何炅陈晓情景讲述致敬时代榜样",
+        "onboard_time": 1678068264,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88193,
+        "num": 88193,
+        "word": "南方长城和北方长城有什么差别",
+        "onboard_time": 1678059382,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87560,
+        "num": 87560,
+        "word": "来自时代少年团的郭俊辰",
+        "onboard_time": 1678028309,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86306,
+        "num": 86306,
+        "word": "猪妈妈身上是有些暴脾气的",
+        "onboard_time": 1678068385,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 81242,
+        "num": 81242,
+        "word": "福菀被游客泼水后躲在角落里",
+        "onboard_time": 1678015587,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81115,
+        "num": 81115,
+        "word": "关键球还得是杜兰特",
+        "onboard_time": 1678065445,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80744,
+        "num": 80744,
+        "word": "商家回应5串烤串收费103元",
+        "onboard_time": 1678014688,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76132,
+        "num": 76132,
+        "word": "2023年还剩300天",
+        "onboard_time": 1678062147,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
