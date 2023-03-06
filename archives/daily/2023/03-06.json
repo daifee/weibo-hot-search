@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678071214507,
+  "endTime": 1678071794434,
   "band_list": [
     {
       "raw_hot": 2046793,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1776208,
-      "num": 236205,
+      "num": 323061,
       "word": "承欢记 杨紫王一博",
       "onboard_time": 1678068684,
       "rank": 10,
@@ -35,20 +35,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1422859,
-      "num": 1422859,
+      "raw_hot": 1481361,
+      "num": 1481361,
       "word": "甲流阳性率在继续上升",
       "onboard_time": 1678067725,
       "rank": 13,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1348224,
-      "num": 1348224,
+      "raw_hot": 1366903,
+      "num": 1366903,
       "word": "宛瑜展博以另一种方式相遇",
       "onboard_time": 1678068026,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1158314,
+      "num": 1158314,
+      "word": "解说记得宣布离职",
+      "onboard_time": 1678070664,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 1073134,
@@ -60,11 +68,19 @@
     },
     {
       "raw_hot": 928704,
-      "num": 232543,
+      "num": 253306,
       "word": "B站",
       "onboard_time": 1678019313,
       "rank": 20,
       "category": "科技"
+    },
+    {
+      "raw_hot": 898933,
+      "num": 306405,
+      "word": "张杰 电话",
+      "onboard_time": 1678071507,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 849973,
@@ -123,12 +139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 587925,
-      "num": 232266,
-      "word": "解说记得宣布离职",
-      "onboard_time": 1678070664,
-      "rank": 13,
-      "category": "游戏"
+      "raw_hot": 543968,
+      "num": 543968,
+      "word": "出门不背包有多爽",
+      "onboard_time": 1678067484,
+      "rank": 9,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 533885,
+      "num": 283326,
+      "word": "特朗普称如果当选1天解决俄乌冲突",
+      "onboard_time": 1678070184,
+      "rank": 15,
+      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 518879,
@@ -137,14 +161,6 @@
       "onboard_time": 1678057818,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 500680,
-      "num": 500680,
-      "word": "出门不背包有多爽",
-      "onboard_time": 1678067484,
-      "rank": 9,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 477588,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 442728,
-      "num": 229785,
+      "num": 247081,
       "word": "欠债男子被法官堵在孩子周岁宴上",
       "onboard_time": 1678064128,
       "rank": 21,
@@ -187,20 +203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400461,
+      "num": 282120,
+      "word": "猪妈妈身上是有些暴脾气的",
+      "onboard_time": 1678068385,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 399385,
       "num": 319298,
       "word": "JISOO海报",
       "onboard_time": 1678059924,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 387212,
-      "num": 231170,
-      "word": "猪妈妈身上是有些暴脾气的",
-      "onboard_time": 1678068385,
-      "rank": 45,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 383991,
@@ -219,12 +235,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 370580,
-      "num": 229298,
-      "word": "特朗普称如果当选1天解决俄乌冲突",
-      "onboard_time": 1678070184,
-      "rank": 15,
-      "category": "社会新闻,社会新闻"
+      "raw_hot": 366204,
+      "num": 279531,
+      "word": "石璐离队",
+      "onboard_time": 1678071507,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 363561,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 345428,
-      "num": 228011,
+      "num": 325423,
       "word": "董明珠称她工作就是生活也幸福",
       "onboard_time": 1678069166,
       "rank": 16,
@@ -467,8 +483,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178328,
-      "num": 178328,
+      "raw_hot": 179955,
+      "num": 179955,
       "word": "白岩松谈女足为什么比男足更出成绩",
       "onboard_time": 1678067667,
       "rank": 40,
@@ -491,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170702,
+      "num": 170702,
+      "word": "今日说法",
+      "onboard_time": 1678070485,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169390,
       "num": 169390,
       "word": "湖人终结勇士五连胜",
@@ -499,19 +523,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159609,
+      "num": 159609,
+      "word": "主人钻戒掉落狗狗以为是吃的秒吞下",
+      "onboard_time": 1678071326,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147317,
+      "num": 147317,
+      "word": "小米汽车预计明年上半年量产",
+      "onboard_time": 1678071085,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 139358,
       "num": 139358,
       "word": "75岁老人中风好友发现步数为0报警",
       "onboard_time": 1678012527,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132421,
-      "num": 132421,
-      "word": "今日说法",
-      "onboard_time": 1678070485,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -620,7 +652,7 @@
     },
     {
       "raw_hot": 109034,
-      "num": 157628,
+      "num": 159080,
       "word": "如果女生都早点上这堂课",
       "onboard_time": 1678068986,
       "rank": 29,
@@ -739,14 +771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 72348,
-      "num": 72348,
-      "word": "小米汽车预计明年上半年量产",
-      "onboard_time": 1678071085,
-      "rank": 46,
-      "category": "科技"
-    },
-    {
       "raw_hot": 70368,
       "num": 70368,
       "word": "南京地铁回应乘客因手机外放收罚单",
@@ -812,7 +836,7 @@
     },
     {
       "raw_hot": 19376,
-      "num": 1348368,
+      "num": 1371069,
       "word": "政府工作报告里的民生红包",
       "onboard_time": 1678003346,
       "rank": 2,
