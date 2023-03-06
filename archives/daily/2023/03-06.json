@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678094409616,
+  "endTime": 1678095281806,
   "band_list": [
     {
       "raw_hot": 3357688,
@@ -91,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1401746,
+      "num": 1401746,
+      "word": "熊猫丫丫已被多方抢注商标",
+      "onboard_time": 1678091365,
+      "rank": 26,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1366903,
       "num": 1366903,
       "word": "宛瑜展博以另一种方式相遇",
       "onboard_time": 1678068026,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1343078,
-      "num": 1343078,
-      "word": "熊猫丫丫已被多方抢注商标",
-      "onboard_time": 1678091365,
-      "rank": 26,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1252605,
@@ -153,6 +153,14 @@
       "onboard_time": 1678076789,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 964960,
+      "num": 964960,
+      "word": "脱下了孔乙己的长衫",
+      "onboard_time": 1678093946,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 928704,
@@ -371,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 486335,
+      "num": 349722,
+      "word": "宋佳穿的是裙还是裤",
+      "onboard_time": 1678094249,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 477588,
       "num": 321515,
       "word": "HYBE要求SM终止与Kakao合作",
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365241,
+      "num": 365241,
+      "word": "代表称要警惕考研高考化趋势",
+      "onboard_time": 1678093647,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364601,
       "num": 364601,
       "word": "鳄鱼莱莱确认引进",
@@ -553,6 +577,14 @@
       "onboard_time": 1678024829,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359672,
+      "num": 359672,
+      "word": "好心夫妇给烧伤男童送50万现金",
+      "onboard_time": 1678093525,
+      "rank": 23,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 350475,
@@ -619,6 +651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 319212,
+      "num": 319212,
+      "word": "商家缺斤少两被挂黄牌警告",
+      "onboard_time": 1678092506,
+      "rank": 19,
+      "category": "社会负面,财经"
+    },
+    {
       "raw_hot": 312860,
       "num": 487511,
       "word": "任何时候中国都不能缺少制造业",
@@ -627,16 +667,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 305058,
-      "num": 305058,
-      "word": "脱下了孔乙己的长衫",
-      "onboard_time": 1678093946,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 301947,
-      "num": 301947,
+      "raw_hot": 302047,
+      "num": 302047,
       "word": "Kakao或将与HYBE合作",
       "onboard_time": 1678093047,
       "rank": 17,
@@ -649,14 +681,6 @@
       "onboard_time": 1678090525,
       "rank": 37,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 290714,
-      "num": 290714,
-      "word": "商家缺斤少两被挂黄牌警告",
-      "onboard_time": 1678092506,
-      "rank": 19,
-      "category": "社会负面,财经"
     },
     {
       "raw_hot": 289313,
@@ -723,20 +747,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238578,
+      "num": 238578,
+      "word": "杨洋白衬衫",
+      "onboard_time": 1678094067,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 236865,
       "num": 200997,
       "word": "罕见无毛兔询价5万主人不卖",
       "onboard_time": 1678028130,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236026,
-      "num": 236026,
-      "word": "好心夫妇给烧伤男童送50万现金",
-      "onboard_time": 1678093525,
-      "rank": 23,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 233800,
@@ -907,14 +931,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 204486,
-      "num": 204486,
-      "word": "杨洋白衬衫",
-      "onboard_time": 1678094067,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 202765,
       "num": 202765,
       "word": "盘点记得解说名场面",
@@ -929,14 +945,6 @@
       "onboard_time": 1678027170,
       "rank": 8,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 200704,
-      "num": 200704,
-      "word": "代表称要警惕考研高考化趋势",
-      "onboard_time": 1678093647,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199400,
@@ -1001,14 +1009,6 @@
       "onboard_time": 1678080506,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195421,
-      "num": 195421,
-      "word": "宋佳穿的是裙还是裤",
-      "onboard_time": 1678094249,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 194751,
@@ -1163,6 +1163,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 170975,
+      "num": 159772,
+      "word": "为什么感觉这波甲流这么厉害",
+      "onboard_time": 1678094487,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170702,
       "num": 170702,
       "word": "今日说法",
@@ -1251,6 +1259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159560,
+      "num": 159560,
+      "word": "御怨般若典藏皮肤",
+      "onboard_time": 1678095266,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159098,
       "num": 159098,
       "word": "星落凝成糖天帝什么时候嘎",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1678082307,
       "rank": 39,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 141807,
+      "num": 141807,
+      "word": "东北连熊猫也会整活",
+      "onboard_time": 1678094847,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 139358,
@@ -1475,6 +1499,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 113253,
+      "num": 188853,
+      "word": "手机信号不好的痛谁懂",
+      "onboard_time": 1678092807,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 111679,
       "num": 111679,
       "word": "女孩如何迈好青春第一步",
@@ -1539,6 +1571,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 103861,
+      "num": 733205,
+      "word": "经济学家建言中国式现代化",
+      "onboard_time": 1678091064,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 103767,
       "num": 103767,
       "word": "何炅陈晓情景讲述致敬时代榜样",
@@ -1555,11 +1595,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 99901,
-      "num": 188853,
-      "word": "手机信号不好的痛谁懂",
-      "onboard_time": 1678092807,
-      "rank": 29,
+      "raw_hot": 103222,
+      "num": 103222,
+      "word": "爸爸带娃半年的变化",
+      "onboard_time": 1678094968,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 102626,
+      "num": 102626,
+      "word": "华为称仍将加大手机业务的投入",
+      "onboard_time": 1678095206,
+      "rank": 44,
       "category": "科技"
     },
     {
@@ -1601,6 +1649,14 @@
       "onboard_time": 1678016126,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94717,
+      "num": 94717,
+      "word": "玄商夜昙额头吻",
+      "onboard_time": 1678095147,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 93840,
@@ -1657,14 +1713,6 @@
       "onboard_time": 1678009047,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82349,
-      "num": 733205,
-      "word": "经济学家建言中国式现代化",
-      "onboard_time": 1678091064,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 80876,
