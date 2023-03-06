@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678142191480,
+  "endTime": 1678144805743,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1677669869,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1076078,
+      "num": 1076078,
+      "word": "代表称台湾回归可解决缺蛋难题",
+      "onboard_time": 1678136412,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1073134,
@@ -3779,14 +3787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 472065,
-      "num": 472065,
-      "word": "代表称台湾回归可解决缺蛋难题",
-      "onboard_time": 1678136412,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 470941,
       "num": 374388,
       "word": "男生健身做200斤深蹲咬碎后槽牙",
@@ -4332,7 +4332,7 @@
     },
     {
       "raw_hot": 419919,
-      "num": 264461,
+      "num": 399546,
       "word": "一一牛杂火锅店吃出老鼠被立案调查",
       "onboard_time": 1678119743,
       "rank": 46,
@@ -5251,6 +5251,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 343849,
+      "num": 343849,
+      "word": "美媒称中国起重机有间谍作用",
+      "onboard_time": 1678133413,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 343750,
       "num": 343750,
       "word": "张若昀敲胸的",
@@ -5705,6 +5713,14 @@
       "onboard_time": 1678015047,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314278,
+      "num": 314278,
+      "word": "台军缺粮在沙滩写标语求救",
+      "onboard_time": 1678134732,
+      "rank": 45,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 314194,
@@ -7139,6 +7155,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 235859,
+      "num": 235859,
+      "word": "外墙面层均计入建筑面积",
+      "onboard_time": 1678117165,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235743,
       "num": 268351,
       "word": "TES对战RNG",
@@ -7185,14 +7209,6 @@
       "onboard_time": 1678060645,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 232630,
-      "num": 232630,
-      "word": "外墙面层均计入建筑面积",
-      "onboard_time": 1678117165,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232394,
@@ -7257,6 +7273,14 @@
       "onboard_time": 1677734368,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 228997,
+      "num": 228997,
+      "word": "台湾有观光点1人限购2颗茶叶蛋",
+      "onboard_time": 1678127173,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228828,
@@ -9403,6 +9427,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 174302,
+      "num": 174302,
+      "word": "王楚然想和彭冠英演古偶",
+      "onboard_time": 1678143858,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174062,
       "num": 174062,
       "word": "不止不休张颂文台词",
@@ -10347,14 +10379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146101,
-      "num": 146101,
-      "word": "台军缺粮在沙滩写标语求救",
-      "onboard_time": 1678134732,
-      "rank": 45,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 145906,
       "num": 145906,
       "word": "两女生默默守护倒地环卫工直至获救",
@@ -10393,14 +10417,6 @@
       "onboard_time": 1677770010,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144846,
-      "num": 107094,
-      "word": "美媒称中国起重机有间谍作用",
-      "onboard_time": 1678133413,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 144753,
@@ -11995,14 +12011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95719,
-      "num": 89908,
-      "word": "台湾有观光点1人限购2颗茶叶蛋",
-      "onboard_time": 1678127173,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95435,
       "num": 95435,
       "word": "奥比岛1.9",
@@ -12427,6 +12435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 73791,
+      "num": 73791,
+      "word": "LOFTER平台AI绘画功能遭用户质疑",
+      "onboard_time": 1678144700,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 73434,
       "num": 458449,
       "word": "身边女生竟然都在玩",
@@ -12513,6 +12529,14 @@
       "onboard_time": 1677654628,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 69015,
+      "num": 69015,
+      "word": "小朋友用纸片做了个海洋馆",
+      "onboard_time": 1678131251,
+      "rank": 29,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 67977,
@@ -12603,12 +12627,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59160,
+      "num": 59160,
+      "word": "马丽大鹏十年后再合作",
+      "onboard_time": 1678131311,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 58947,
       "num": 58947,
       "word": "甄子丹说希望用动作电影讲好中国故事",
       "onboard_time": 1677998067,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56596,
+      "num": 56596,
+      "word": "王鹤棣黑衬衫",
+      "onboard_time": 1678128012,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 56067,
@@ -12787,14 +12827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38299,
-      "num": 38299,
-      "word": "马丽大鹏十年后再合作",
-      "onboard_time": 1678131311,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 37974,
       "num": 37974,
       "word": "微博年度剧集",
@@ -12841,6 +12873,14 @@
       "onboard_time": 1677904287,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 35274,
+      "num": 35274,
+      "word": "RNG三连败",
+      "onboard_time": 1678144759,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 34677,
@@ -12923,14 +12963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 28098,
-      "num": 28098,
-      "word": "小朋友用纸片做了个海洋馆",
-      "onboard_time": 1678131251,
-      "rank": 29,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 25802,
       "num": 471613,
       "word": "开局之年的新机遇新挑战",
@@ -12953,14 +12985,6 @@
       "onboard_time": 1677841229,
       "rank": 39,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 24505,
-      "num": 24505,
-      "word": "王鹤棣黑衬衫",
-      "onboard_time": 1678128012,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 23007,

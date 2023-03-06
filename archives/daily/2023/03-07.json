@@ -1,14 +1,22 @@
 {
   "startTime": 1678120040193,
-  "endTime": 1678142191480,
+  "endTime": 1678144805743,
   "band_list": [
     {
       "raw_hot": 1285993,
-      "num": 276333,
+      "num": 280498,
       "word": "刘亦菲李惠仁谷爱凌同框",
       "onboard_time": 1678115009,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1076078,
+      "num": 1076078,
+      "word": "代表称台湾回归可解决缺蛋难题",
+      "onboard_time": 1678136412,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 734643,
@@ -35,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 548499,
+      "num": 548499,
+      "word": "台湾或面临史上最久缺蛋荒",
+      "onboard_time": 1678096227,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521764,
       "num": 521764,
       "word": "赵丽颖肖央虎狼之路通告单",
@@ -51,14 +67,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 472065,
-      "num": 472065,
-      "word": "代表称台湾回归可解决缺蛋难题",
-      "onboard_time": 1678136412,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441951,
       "num": 441951,
       "word": "LV",
@@ -67,16 +75,8 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 423489,
-      "num": 423489,
-      "word": "台湾或面临史上最久缺蛋荒",
-      "onboard_time": 1678096227,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 419919,
-      "num": 264461,
+      "num": 399546,
       "word": "一一牛杂火锅店吃出老鼠被立案调查",
       "onboard_time": 1678119743,
       "rank": 46,
@@ -91,12 +91,36 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 405367,
+      "num": 405367,
+      "word": "多地中小学实行教师退出机制",
+      "onboard_time": 1678095567,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 387367,
       "num": 275795,
       "word": "谷爱凌晒巴黎生活plog",
       "onboard_time": 1678116687,
       "rank": 11,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 343849,
+      "num": 343849,
+      "word": "美媒称中国起重机有间谍作用",
+      "onboard_time": 1678133413,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 314278,
+      "num": 314278,
+      "word": "台军缺粮在沙滩写标语求救",
+      "onboard_time": 1678134732,
+      "rank": 45,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 276726,
@@ -123,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235859,
+      "num": 235859,
+      "word": "外墙面层均计入建筑面积",
+      "onboard_time": 1678117165,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235213,
       "num": 235213,
       "word": "摸鱼的时候有活干了",
@@ -139,10 +171,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232630,
-      "num": 232630,
-      "word": "外墙面层均计入建筑面积",
-      "onboard_time": 1678117165,
+      "raw_hot": 228997,
+      "num": 228997,
+      "word": "台湾有观光点1人限购2颗茶叶蛋",
+      "onboard_time": 1678127173,
       "rank": 17,
       "category": "社会新闻"
     },
@@ -153,14 +185,6 @@
       "onboard_time": 1678115307,
       "rank": 18,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 200028,
-      "num": 200028,
-      "word": "多地中小学实行教师退出机制",
-      "onboard_time": 1678095567,
-      "rank": 19,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 182726,
@@ -179,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174302,
+      "num": 174302,
+      "word": "王楚然想和彭冠英演古偶",
+      "onboard_time": 1678143858,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173607,
       "num": 173607,
       "word": "张颂文定妆旧照",
@@ -195,6 +227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157940,
+      "num": 157940,
+      "word": "为什么感觉这波甲流这么厉害",
+      "onboard_time": 1678094487,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154946,
       "num": 154946,
       "word": "贝儿碎碎念名场面",
@@ -203,36 +243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146101,
-      "num": 146101,
-      "word": "台军缺粮在沙滩写标语求救",
-      "onboard_time": 1678134732,
-      "rank": 45,
-      "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 144846,
-      "num": 107094,
-      "word": "美媒称中国起重机有间谍作用",
-      "onboard_time": 1678133413,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 141435,
       "num": 141435,
       "word": "周冬雨露腰撞色造型",
       "onboard_time": 1678111048,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 134578,
-      "num": 134578,
-      "word": "为什么感觉这波甲流这么厉害",
-      "onboard_time": 1678094487,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131752,
@@ -275,11 +291,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95719,
-      "num": 89908,
-      "word": "台湾有观光点1人限购2颗茶叶蛋",
-      "onboard_time": 1678127173,
-      "rank": 17,
+      "raw_hot": 107216,
+      "num": 107216,
+      "word": "建议允许企业弹性安排法定节假日",
+      "onboard_time": 1678107688,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -289,14 +305,6 @@
       "onboard_time": 1678106547,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 94905,
-      "num": 94905,
-      "word": "建议允许企业弹性安排法定节假日",
-      "onboard_time": 1678107688,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94206,
@@ -379,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 73791,
+      "num": 73791,
+      "word": "LOFTER平台AI绘画功能遭用户质疑",
+      "onboard_time": 1678144700,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 72100,
       "num": 72100,
       "word": "古装剧中的美强惨男主",
@@ -393,6 +409,14 @@
       "onboard_time": 1678111529,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 69015,
+      "num": 69015,
+      "word": "小朋友用纸片做了个海洋馆",
+      "onboard_time": 1678131251,
+      "rank": 29,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 68792,
@@ -419,6 +443,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59160,
+      "num": 59160,
+      "word": "马丽大鹏十年后再合作",
+      "onboard_time": 1678131311,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 58917,
+      "num": 58917,
+      "word": "任嘉伦白西装金丝眼镜",
+      "onboard_time": 1678110930,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 56596,
+      "num": 56596,
+      "word": "王鹤棣黑衬衫",
+      "onboard_time": 1678128012,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 55095,
       "num": 64254,
       "word": "U20国足7分钟连进2球",
@@ -443,19 +491,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49474,
+      "num": 548705,
+      "word": "两会好声音",
+      "onboard_time": 1678108049,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 42186,
       "num": 42186,
       "word": "张新成宋祖儿艰难的制造组讯",
       "onboard_time": 1678125674,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 38299,
-      "num": 38299,
-      "word": "马丽大鹏十年后再合作",
-      "onboard_time": 1678131311,
-      "rank": 8,
       "category": "影视"
     },
     {
@@ -467,20 +515,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 37221,
-      "num": 548705,
-      "word": "两会好声音",
-      "onboard_time": 1678108049,
-      "rank": 2,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 36641,
-      "num": 36641,
-      "word": "任嘉伦白西装金丝眼镜",
-      "onboard_time": 1678110930,
-      "rank": 49,
-      "category": "作品衍生"
+      "raw_hot": 35274,
+      "num": 35274,
+      "word": "RNG三连败",
+      "onboard_time": 1678144759,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 30294,
@@ -489,22 +529,6 @@
       "onboard_time": 1678115606,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28098,
-      "num": 28098,
-      "word": "小朋友用纸片做了个海洋馆",
-      "onboard_time": 1678131251,
-      "rank": 29,
-      "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 24505,
-      "num": 24505,
-      "word": "王鹤棣黑衬衫",
-      "onboard_time": 1678128012,
-      "rank": 29,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
