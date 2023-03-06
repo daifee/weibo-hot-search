@@ -1,0 +1,410 @@
+{
+  "runTime": 1678109288572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1194038,
+        "num": 1194038,
+        "word": "台湾或面临史上最久缺蛋荒",
+        "onboard_time": 1678096227,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961136,
+        "num": 961136,
+        "word": "感染甲流会有全身症状",
+        "onboard_time": 1678107386,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54673,
+        "num": 730838,
+        "word": "两会好声音",
+        "onboard_time": 1678108049,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1829292,
+        "num": 714884,
+        "word": "威廉疑似在校被霸凌",
+        "onboard_time": 1678103367,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 669027,
+        "num": 669027,
+        "word": "多地中小学实行教师退出机制",
+        "onboard_time": 1678095567,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 617255,
+        "num": 617255,
+        "word": "王楚然说玉骨遥今年会播",
+        "onboard_time": 1678105049,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519308,
+        "num": 519308,
+        "word": "马丽生图",
+        "onboard_time": 1678106066,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 494949,
+        "num": 494949,
+        "word": "为什么感觉这波甲流这么厉害",
+        "onboard_time": 1678094487,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445695,
+        "num": 445695,
+        "word": "建议允许企业弹性安排法定节假日",
+        "onboard_time": 1678107688,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50224,
+        "num": 400899,
+        "word": "3份报告里的9个民生新改善",
+        "onboard_time": 1678102286,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1629231,
+        "num": 384416,
+        "word": "刘亦菲巴黎看秀造型",
+        "onboard_time": 1678106968,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 356823,
+        "num": 356823,
+        "word": "金智秀 solo出道",
+        "onboard_time": 1678089086,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353466,
+        "num": 353466,
+        "word": "赵丽颖 花少5",
+        "onboard_time": 1678092927,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347585,
+        "num": 347585,
+        "word": "台湾是中国的一部分没有什么国防部长",
+        "onboard_time": 1678099587,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 28287,
+        "num": 328883,
+        "word": "大方谈月经是需要教育的",
+        "onboard_time": 1678076130,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326961,
+        "num": 326961,
+        "word": "张语格 退团",
+        "onboard_time": 1678097968,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266545,
+        "num": 266545,
+        "word": "亚航被曝行李超重5公斤收1807元托运费",
+        "onboard_time": 1678101206,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265171,
+        "num": 265171,
+        "word": "建议将犬只伤人的刑事责任写入刑法修正案",
+        "onboard_time": 1678104388,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263636,
+        "num": 263636,
+        "word": "夜昙黑化入魔",
+        "onboard_time": 1678103307,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249487,
+        "num": 249487,
+        "word": "酒店1场会议43瓶水未喝完被罚",
+        "onboard_time": 1678108348,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225731,
+        "num": 225731,
+        "word": "黄婷婷违约强执仅查出9万财产",
+        "onboard_time": 1678083265,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 202367,
+        "num": 202367,
+        "word": "GALA开场整活",
+        "onboard_time": 1678104088,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193028,
+        "num": 193028,
+        "word": "代表称要警惕考研高考化趋势",
+        "onboard_time": 1678093647,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188395,
+        "num": 188395,
+        "word": "SNH48退团成员违约金名单",
+        "onboard_time": 1678091365,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181715,
+        "num": 181715,
+        "word": "宫脇咲良演唱会饭拍生图",
+        "onboard_time": 1678107986,
+        "rank": 24,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 176090,
+        "num": 176090,
+        "word": "重庆一公司妇女节女员工放假6天",
+        "onboard_time": 1678096406,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171188,
+        "num": 171188,
+        "word": "科学家发现黑洞旁诞生一颗恒星",
+        "onboard_time": 1678100366,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 169136,
+        "num": 169136,
+        "word": "任嘉伦张颂文讲悄悄话",
+        "onboard_time": 1678101927,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161789,
+        "num": 161789,
+        "word": "张杰 抢票",
+        "onboard_time": 1678106547,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160201,
+        "num": 160201,
+        "word": "摩羯座是无法挽回的",
+        "onboard_time": 1678084526,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157849,
+        "num": 157849,
+        "word": "宋佳穿的是裙还是裤",
+        "onboard_time": 1678094249,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149036,
+        "num": 149036,
+        "word": "女子称水果店买到双皮苹果",
+        "onboard_time": 1678086687,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156791,
+        "num": 148867,
+        "word": "刘宇杨紫琼同框看秀",
+        "onboard_time": 1678105585,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147697,
+        "num": 147697,
+        "word": "薛之谦 门票",
+        "onboard_time": 1678095386,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144199,
+        "num": 144199,
+        "word": "周杰伦上台前也会紧张",
+        "onboard_time": 1678099227,
+        "rank": 34,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 143007,
+        "num": 143007,
+        "word": "虞书欣的一滴泪",
+        "onboard_time": 1678098388,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138086,
+        "num": 138086,
+        "word": "宋茜说韩露淋过雨还是会为别人撑伞",
+        "onboard_time": 1678103787,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137092,
+        "num": 137092,
+        "word": "好心夫妇给烧伤男童送50万现金",
+        "onboard_time": 1678093525,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 136984,
+        "num": 136984,
+        "word": "重启人生第九集",
+        "onboard_time": 1678103546,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136641,
+        "num": 136641,
+        "word": "路人眼中的李兰迪",
+        "onboard_time": 1678103125,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132607,
+        "num": 132607,
+        "word": "杨洋白衬衫",
+        "onboard_time": 1678094067,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 123226,
+        "num": 123226,
+        "word": "古装剧中的美强惨男主",
+        "onboard_time": 1678101747,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117537,
+        "num": 117537,
+        "word": "夏花画室花絮",
+        "onboard_time": 1678107627,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116538,
+        "num": 116538,
+        "word": "RNG对战BLG",
+        "onboard_time": 1678107328,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110246,
+        "num": 110246,
+        "word": "爸爸带娃半年的变化",
+        "onboard_time": 1678094968,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 106823,
+        "num": 106823,
+        "word": "玄商夜昙筹备大婚",
+        "onboard_time": 1678107747,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102856,
+        "num": 102856,
+        "word": "甲流与新冠叠加感染的概率低",
+        "onboard_time": 1678076789,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94891,
+        "num": 94891,
+        "word": "网信办处置8511个涉网暴问题账号",
+        "onboard_time": 1678103006,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92864,
+        "num": 92864,
+        "word": "保你平安口碑",
+        "onboard_time": 1678107208,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91508,
+        "num": 91508,
+        "word": "一代人终将老去 但总有人正年轻",
+        "onboard_time": 1678098027,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢牢把握高质量发展这个首要任务#"
+    }
+  }
+}
