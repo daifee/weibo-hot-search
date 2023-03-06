@@ -1,10 +1,10 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678076645338,
+  "endTime": 1678077553183,
   "band_list": [
     {
       "raw_hot": 3260221,
-      "num": 381055,
+      "num": 487469,
       "word": "张杰 电话",
       "onboard_time": 1678071507,
       "rank": 12,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1776208,
-      "num": 370016,
+      "num": 487384,
       "word": "承欢记 杨紫王一博",
       "onboard_time": 1678068684,
       "rank": 10,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1588804,
-      "num": 378222,
+      "num": 487406,
       "word": "可是他叫她大歌星哎",
       "onboard_time": 1678064906,
       "rank": 10,
@@ -83,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1083648,
+      "num": 965184,
+      "word": "专家建议近期暂缓春游出行",
+      "onboard_time": 1678073906,
+      "rank": 48,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 1073134,
       "num": 849290,
       "word": "胡歌 繁花",
@@ -92,19 +100,11 @@
     },
     {
       "raw_hot": 1068914,
-      "num": 372401,
+      "num": 487304,
       "word": "石璐离队",
       "onboard_time": 1678071507,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 965184,
-      "num": 965184,
-      "word": "专家建议近期暂缓春游出行",
-      "onboard_time": 1678073906,
-      "rank": 48,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 928704,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 727157,
-      "num": 373540,
+      "num": 607686,
       "word": "张子枫开面包车",
       "onboard_time": 1678074808,
       "rank": 12,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 650777,
-      "num": 366838,
+      "num": 476970,
       "word": "特朗普称如果当选1天解决俄乌冲突",
       "onboard_time": 1678070184,
       "rank": 15,
@@ -177,6 +177,14 @@
       "onboard_time": 1678066166,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634959,
+      "num": 634959,
+      "word": "字母哥故意刷三双",
+      "onboard_time": 1678075470,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 614352,
@@ -211,6 +219,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 487520,
+      "num": 487520,
+      "word": "熬夜后咯噔一下有三大风险",
+      "onboard_time": 1678075649,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487253,
+      "num": 487253,
+      "word": "甲流症状",
+      "onboard_time": 1678076789,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477588,
       "num": 321515,
       "word": "HYBE要求SM终止与Kakao合作",
@@ -225,14 +249,6 @@
       "onboard_time": 1678016007,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465716,
-      "num": 363397,
-      "word": "字母哥故意刷三双",
-      "onboard_time": 1678075470,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 442728,
@@ -388,19 +404,11 @@
     },
     {
       "raw_hot": 312860,
-      "num": 382601,
+      "num": 487511,
       "word": "任何时候中国都不能缺少制造业",
       "onboard_time": 1678061306,
       "rank": 15,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 297503,
-      "num": 297503,
-      "word": "熬夜后咯噔一下有三大风险",
-      "onboard_time": 1678075649,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283911,
@@ -473,6 +481,14 @@
       "onboard_time": 1678012585,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227737,
+      "num": 227737,
+      "word": "夜昙变团宠",
+      "onboard_time": 1678076789,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 219221,
@@ -571,12 +587,28 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 201958,
+      "num": 201958,
+      "word": "网友前往孟菲斯动物园看望丫丫",
+      "onboard_time": 1678077152,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199400,
       "num": 234013,
       "word": "万物复苏",
       "onboard_time": 1678067304,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197749,
+      "num": 197749,
+      "word": "如何更好的保护旅外大熊猫",
+      "onboard_time": 1678076668,
+      "rank": 35,
+      "category": "社会议题"
     },
     {
       "raw_hot": 196736,
@@ -681,6 +713,14 @@
       "onboard_time": 1678074026,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 147233,
+      "num": 147233,
+      "word": "鹿晗五哈凿冰直拍",
+      "onboard_time": 1678077032,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 139358,
@@ -795,6 +835,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 118307,
+      "num": 118307,
+      "word": "中国奇谭第二季决定制作",
+      "onboard_time": 1678077391,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 117981,
       "num": 117981,
       "word": "2023年还剩300天",
@@ -820,7 +868,7 @@
     },
     {
       "raw_hot": 109087,
-      "num": 152198,
+      "num": 226003,
       "word": "京东百亿补贴全面上线",
       "onboard_time": 1678073486,
       "rank": 42,
@@ -843,12 +891,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108085,
+      "num": 108085,
+      "word": "大方谈月经是需要教育的",
+      "onboard_time": 1678076130,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105358,
+      "num": 105358,
+      "word": "熊猫献艺让游客直呼值回票价",
+      "onboard_time": 1678077450,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 103767,
       "num": 103767,
       "word": "何炅陈晓情景讲述致敬时代榜样",
       "onboard_time": 1678068264,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103452,
+      "num": 103452,
+      "word": "从此找到了上班的意义",
+      "onboard_time": 1678077511,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 98232,
@@ -880,14 +952,6 @@
       "word": "甲流催热奥司他韦",
       "onboard_time": 1678016126,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92106,
-      "num": 101087,
-      "word": "大方谈月经是需要教育的",
-      "onboard_time": 1678076130,
-      "rank": 49,
       "category": "社会新闻"
     },
     {

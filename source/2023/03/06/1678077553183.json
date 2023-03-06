@@ -1,0 +1,410 @@
+{
+  "runTime": 1678077553183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2391312,
+        "num": 2391312,
+        "word": "丫丫",
+        "onboard_time": 1678073247,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1301326,
+        "num": 1301326,
+        "word": "上海迪士尼恢复迪士尼朋友拥抱等互动",
+        "onboard_time": 1678066705,
+        "rank": 1,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 101933,
+        "num": 1132576,
+        "word": "政府工作报告里的五年成绩单",
+        "onboard_time": 1678073486,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1041869,
+        "num": 1041869,
+        "word": "解说记得宣布离职",
+        "onboard_time": 1678070664,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 649321,
+        "num": 649321,
+        "word": "宛瑜展博以另一种方式相遇",
+        "onboard_time": 1678068026,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 634959,
+        "num": 634959,
+        "word": "字母哥故意刷三双",
+        "onboard_time": 1678075470,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1083648,
+        "num": 630008,
+        "word": "专家建议近期暂缓春游出行",
+        "onboard_time": 1678073906,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 607686,
+        "num": 607686,
+        "word": "张子枫开面包车",
+        "onboard_time": 1678074808,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 487520,
+        "num": 487520,
+        "word": "熬夜后咯噔一下有三大风险",
+        "onboard_time": 1678075649,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98778,
+        "num": 487511,
+        "word": "任何时候中国都不能缺少制造业",
+        "onboard_time": 1678061306,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3211883,
+        "num": 487469,
+        "word": "张杰 电话",
+        "onboard_time": 1678071507,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 987218,
+        "num": 487406,
+        "word": "可是他叫她大歌星哎",
+        "onboard_time": 1678064906,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 615542,
+        "num": 487384,
+        "word": "承欢记 杨紫王一博",
+        "onboard_time": 1678068684,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 578551,
+        "num": 487304,
+        "word": "石璐离队",
+        "onboard_time": 1678071507,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 485297,
+        "num": 487279,
+        "word": "妇女节给加班费吗",
+        "onboard_time": 1678066166,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487253,
+        "num": 487253,
+        "word": "甲流症状",
+        "onboard_time": 1678076789,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476970,
+        "num": 476970,
+        "word": "特朗普称如果当选1天解决俄乌冲突",
+        "onboard_time": 1678070184,
+        "rank": 16,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 362593,
+        "num": 362593,
+        "word": "李一桐剧透今晚有大刀",
+        "onboard_time": 1678075708,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346720,
+        "num": 346720,
+        "word": "盖茨女儿称走红TikTok是靠内容",
+        "onboard_time": 1678072527,
+        "rank": 18,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 323164,
+        "num": 323164,
+        "word": "小米汽车预计明年上半年量产",
+        "onboard_time": 1678071085,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1700909,
+        "num": 318576,
+        "word": "Jennie脸部受伤后现身机场",
+        "onboard_time": 1678074628,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 869955,
+        "num": 317439,
+        "word": "甲流阳性率在继续上升",
+        "onboard_time": 1678067725,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300974,
+        "num": 300974,
+        "word": "教资",
+        "onboard_time": 1678074148,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 283535,
+        "num": 283535,
+        "word": "主人钻戒掉落狗狗以为是吃的秒吞下",
+        "onboard_time": 1678071326,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279680,
+        "num": 279680,
+        "word": "毛晓彤王子异新剧演情侣",
+        "onboard_time": 1678072285,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276957,
+        "num": 276957,
+        "word": "鳄鱼莱莱确认引进",
+        "onboard_time": 1678072408,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241395,
+        "num": 241395,
+        "word": "出门不背包有多爽",
+        "onboard_time": 1678067484,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 227737,
+        "num": 227737,
+        "word": "夜昙变团宠",
+        "onboard_time": 1678076789,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96566,
+        "num": 226003,
+        "word": "京东百亿补贴全面上线",
+        "onboard_time": 1678073486,
+        "rank": 28,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 225666,
+        "num": 225666,
+        "word": "猪妈妈身上是有些暴脾气的",
+        "onboard_time": 1678068385,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 211777,
+        "num": 211777,
+        "word": "HYBE要求SM终止与Kakao合作",
+        "onboard_time": 1678063287,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209203,
+        "num": 209203,
+        "word": "欠债男子被法官堵在孩子周岁宴上",
+        "onboard_time": 1678064128,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208075,
+        "num": 208075,
+        "word": "胡歌 繁花",
+        "onboard_time": 1678063045,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201958,
+        "num": 201958,
+        "word": "网友前往孟菲斯动物园看望丫丫",
+        "onboard_time": 1678077152,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200549,
+        "num": 200549,
+        "word": "JISOO海报",
+        "onboard_time": 1678059924,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197749,
+        "num": 197749,
+        "word": "如何更好的保护旅外大熊猫",
+        "onboard_time": 1678076668,
+        "rank": 35,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 190994,
+        "num": 190994,
+        "word": "芒禾音乐节",
+        "onboard_time": 1678074026,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187601,
+        "num": 187601,
+        "word": "吴尊友回应三年白头",
+        "onboard_time": 1678065506,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153762,
+        "num": 153762,
+        "word": "TWICE全员素颜造型",
+        "onboard_time": 1678065863,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147233,
+        "num": 147233,
+        "word": "鹿晗五哈凿冰直拍",
+        "onboard_time": 1678077032,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147173,
+        "num": 147173,
+        "word": "董明珠称她工作就是生活也幸福",
+        "onboard_time": 1678069166,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136472,
+        "num": 136472,
+        "word": "利物浦7比0曼联",
+        "onboard_time": 1678057818,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129652,
+        "num": 129652,
+        "word": "心想事成央八定档",
+        "onboard_time": 1678074026,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129621,
+        "num": 129621,
+        "word": "拍摄者回应旅英大熊猫听懂四川话",
+        "onboard_time": 1678066705,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119149,
+        "num": 119149,
+        "word": "建议强化我国适老服务体系",
+        "onboard_time": 1678074148,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118307,
+        "num": 118307,
+        "word": "中国奇谭第二季决定制作",
+        "onboard_time": 1678077391,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108085,
+        "num": 108085,
+        "word": "大方谈月经是需要教育的",
+        "onboard_time": 1678076130,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107805,
+        "num": 107805,
+        "word": "YG新女团出道人数待定",
+        "onboard_time": 1678061006,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105358,
+        "num": 105358,
+        "word": "熊猫献艺让游客直呼值回票价",
+        "onboard_time": 1678077450,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 103452,
+        "num": 103452,
+        "word": "从此找到了上班的意义",
+        "onboard_time": 1678077511,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加江苏代表团审议#"
+    }
+  }
+}
