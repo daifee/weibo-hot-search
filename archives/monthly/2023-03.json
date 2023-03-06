@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678079920010,
+  "endTime": 1678080860884,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -24,6 +24,14 @@
       "word": "建议大学生不要太在意刚入职收入",
       "onboard_time": 1677827964,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3357688,
+      "num": 3357688,
+      "word": "丫丫",
+      "onboard_time": 1677646292,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -81,14 +89,6 @@
       "onboard_time": 1677746552,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2832247,
-      "num": 2832247,
-      "word": "丫丫",
-      "onboard_time": 1677646292,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2650216,
@@ -1963,6 +1963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 712882,
+      "num": 441699,
+      "word": "一本院校回应招聘会有洗碗工岗位",
+      "onboard_time": 1678079249,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 711050,
       "num": 711050,
       "word": "刘昊然银灰挑染",
@@ -3331,6 +3339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477344,
+      "num": 477344,
+      "word": "游客认错花花保安大哥幽默喊话",
+      "onboard_time": 1678077571,
+      "rank": 15,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 474630,
       "num": 242064,
       "word": "郭晓婷徐海乔苍兰诀后合体",
@@ -3665,6 +3681,14 @@
       "onboard_time": 1677755308,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439177,
+      "num": 439177,
+      "word": "迪丽热巴起诉黑粉",
+      "onboard_time": 1678079430,
+      "rank": 14,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 439038,
@@ -4339,14 +4363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375214,
-      "num": 349312,
-      "word": "迪丽热巴起诉黑粉",
-      "onboard_time": 1678079430,
-      "rank": 14,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 374661,
       "num": 327452,
       "word": "宋茜送你一朵小红花彩排照",
@@ -4419,6 +4435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370524,
+      "num": 465403,
+      "word": "企业宣传员工18年从未请假",
+      "onboard_time": 1678078950,
+      "rank": 26,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 369663,
       "num": 369663,
       "word": "狼队新人",
@@ -4473,6 +4497,14 @@
       "onboard_time": 1678072408,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 364539,
+      "num": 364539,
+      "word": "从此找到了上班的意义",
+      "onboard_time": 1678077511,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 363721,
@@ -4699,6 +4731,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 350701,
+      "num": 350701,
+      "word": "熊猫花花跑起来前脚内八后脚外八",
+      "onboard_time": 1678078530,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350184,
       "num": 346673,
       "word": "DIOR",
@@ -4721,14 +4761,6 @@
       "onboard_time": 1677732154,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 347697,
-      "num": 347697,
-      "word": "游客认错花花保安大哥幽默喊话",
-      "onboard_time": 1678077571,
-      "rank": 15,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 347631,
@@ -4913,14 +4945,6 @@
       "onboard_time": 1677718410,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333967,
-      "num": 333967,
-      "word": "从此找到了上班的意义",
-      "onboard_time": 1678077511,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 332700,
@@ -5283,14 +5307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310560,
-      "num": 310560,
-      "word": "一本院校回应招聘会有洗碗工岗位",
-      "onboard_time": 1678079249,
-      "rank": 22,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 309431,
       "num": 309431,
       "word": "teams",
@@ -5329,14 +5345,6 @@
       "onboard_time": 1677607576,
       "rank": 31,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 306122,
-      "num": 306122,
-      "word": "熊猫花花跑起来前脚内八后脚外八",
-      "onboard_time": 1678078530,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305776,
@@ -5417,6 +5425,14 @@
       "onboard_time": 1678008447,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299979,
+      "num": 299979,
+      "word": "刘峰曾私信UP主",
+      "onboard_time": 1678078771,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 298971,
@@ -6051,6 +6067,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 259000,
+      "num": 259000,
+      "word": "上海迪士尼门票热度暴涨350%",
+      "onboard_time": 1678079845,
+      "rank": 40,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 258317,
       "num": 258317,
       "word": "本地人也需要外地游客的攻略",
@@ -6265,14 +6289,6 @@
       "onboard_time": 1677672750,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247017,
-      "num": 247017,
-      "word": "企业宣传员工18年从未请假",
-      "onboard_time": 1678078950,
-      "rank": 26,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 246361,
@@ -7003,6 +7019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216599,
+      "num": 216599,
+      "word": "李现时装封面手臂线条",
+      "onboard_time": 1678080147,
+      "rank": 31,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 216062,
       "num": 216062,
       "word": "杰尼斯旗下艺人",
@@ -7072,14 +7096,6 @@
       "word": "黄婷婷回应",
       "onboard_time": 1677589471,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 212923,
-      "num": 212923,
-      "word": "刘峰曾私信UP主",
-      "onboard_time": 1678078771,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -7233,6 +7249,14 @@
       "onboard_time": 1677914185,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207184,
+      "num": 207184,
+      "word": "展博宛瑜BE美学",
+      "onboard_time": 1678080745,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 206958,
@@ -7739,6 +7763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197176,
+      "num": 197176,
+      "word": "WTT新加坡大满贯2023",
+      "onboard_time": 1678080028,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197079,
       "num": 197079,
       "word": "方时赫评价SMTOWN和HYBE",
@@ -7809,6 +7841,14 @@
       "onboard_time": 1677809007,
       "rank": 28,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 195781,
+      "num": 195781,
+      "word": "宋亚轩粤语说车仔面",
+      "onboard_time": 1678080506,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 195759,
@@ -8499,14 +8539,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 173411,
-      "num": 173411,
-      "word": "上海迪士尼门票热度暴涨350%",
-      "onboard_time": 1678079845,
-      "rank": 40,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 173209,
       "num": 182649,
       "word": "林诗栋vs勒布伦",
@@ -9112,6 +9144,14 @@
       "word": "女子因烤苕皮太难吃送回给老板",
       "onboard_time": 1677574592,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150865,
+      "num": 150865,
+      "word": "这是个熊猫花花的假粉丝",
+      "onboard_time": 1678080448,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
