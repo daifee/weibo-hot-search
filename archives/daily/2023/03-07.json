@@ -1,6 +1,6 @@
 {
   "startTime": 1678120040193,
-  "endTime": 1678128009040,
+  "endTime": 1678130169641,
   "band_list": [
     {
       "raw_hot": 1285993,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95719,
+      "num": 41709,
+      "word": "台湾有观光点1人限购2颗茶叶蛋",
+      "onboard_time": 1678127173,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95363,
       "num": 95363,
       "word": "张杰 抢票",
@@ -419,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 41709,
-      "num": 41709,
-      "word": "台湾有观光点1人限购2颗茶叶蛋",
-      "onboard_time": 1678127173,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37385,
       "num": 37385,
       "word": "荣耀Magic5系列发布会",
@@ -457,6 +457,14 @@
       "onboard_time": 1678115606,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22569,
+      "num": 22569,
+      "word": "王鹤棣黑衬衫",
+      "onboard_time": 1678128012,
+      "rank": 29,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
