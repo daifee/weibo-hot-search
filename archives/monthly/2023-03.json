@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678124149393,
+  "endTime": 1678127113764,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -12713,6 +12713,14 @@
       "onboard_time": 1678005688,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 42186,
+      "num": 42186,
+      "word": "张新成宋祖儿艰难的制造组讯",
+      "onboard_time": 1678125674,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 41813,

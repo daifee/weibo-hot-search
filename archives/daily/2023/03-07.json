@@ -1,6 +1,6 @@
 {
   "startTime": 1678120040193,
-  "endTime": 1678124149393,
+  "endTime": 1678127113764,
   "band_list": [
     {
       "raw_hot": 1285993,
@@ -411,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 42186,
+      "num": 42186,
+      "word": "张新成宋祖儿艰难的制造组讯",
+      "onboard_time": 1678125674,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 37385,
       "num": 37385,
       "word": "荣耀Magic5系列发布会",
@@ -433,6 +441,14 @@
       "onboard_time": 1678110930,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19500,
+      "num": 19500,
+      "word": "u20",
+      "onboard_time": 1678115606,
+      "rank": 46,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
