@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678088028588,
+  "endTime": 1678091159030,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1579,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 814319,
+      "num": 525141,
+      "word": "棣爸油炸偶遇钟楚曦刘学义拍戏",
+      "onboard_time": 1678086986,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 812818,
       "num": 812818,
       "word": "梁靖崑夺冠",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1677906447,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 786941,
+      "num": 263574,
+      "word": "金智秀 solo出道",
+      "onboard_time": 1678089086,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 784044,
@@ -2467,14 +2483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 614949,
-      "num": 322709,
-      "word": "棣爸油炸偶遇钟楚曦刘学义拍戏",
-      "onboard_time": 1678086986,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 614286,
       "num": 381622,
       "word": "苏醒苏有朋王心凌合照",
@@ -2824,6 +2832,14 @@
       "word": "商场回应无偿设计丫丫海报并投放",
       "onboard_time": 1677818970,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556003,
+      "num": 556003,
+      "word": "建议增设中小学生春秋假",
+      "onboard_time": 1678087767,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -3881,6 +3897,14 @@
       "onboard_time": 1677891747,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428970,
+      "num": 249798,
+      "word": "第一次见消防员社死",
+      "onboard_time": 1678088546,
+      "rank": 13,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 428799,
@@ -7371,6 +7395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206869,
+      "num": 206869,
+      "word": "巧克力橙是巧克力味吗",
+      "onboard_time": 1678088787,
+      "rank": 18,
+      "category": "综艺,社会新闻"
+    },
+    {
       "raw_hot": 206789,
       "num": 206789,
       "word": "在单休和调休之间选择退休",
@@ -8243,6 +8275,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 190558,
+      "num": 190558,
+      "word": "杨紫范丞丞199爱路透",
+      "onboard_time": 1678088307,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190549,
       "num": 190549,
       "word": "樊治欣杨雨潼吻戏好甜",
@@ -8377,6 +8417,14 @@
       "onboard_time": 1677808708,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187608,
+      "num": 187608,
+      "word": "在成都真的可以走花路",
+      "onboard_time": 1678085667,
+      "rank": 27,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 187113,
@@ -8555,6 +8603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180884,
+      "num": 180884,
+      "word": "新乡连续两赛季举办WTT赛事",
+      "onboard_time": 1678088366,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180143,
       "num": 180143,
       "word": "最好嗑的年龄差cp",
@@ -8593,14 +8649,6 @@
       "onboard_time": 1677809846,
       "rank": 38,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 179604,
-      "num": 179604,
-      "word": "在成都真的可以走花路",
-      "onboard_time": 1678085667,
-      "rank": 27,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 177756,
@@ -9475,6 +9523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148682,
+      "num": 148682,
+      "word": "星落凝成糖伏笔",
+      "onboard_time": 1678090346,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148533,
       "num": 971247,
       "word": "全国政协十四届一次会议新闻发布会",
@@ -9857,6 +9913,14 @@
       "onboard_time": 1677923666,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137625,
+      "num": 137625,
+      "word": "财神殿前游客排长队姻缘殿无人问津",
+      "onboard_time": 1678090525,
+      "rank": 37,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 137391,
@@ -10595,6 +10659,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 113846,
+      "num": 113846,
+      "word": "雷军建议强化智能汽车数据安全",
+      "onboard_time": 1678090947,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113663,
       "num": 113663,
       "word": "网络名人赞两会",
@@ -10641,6 +10713,14 @@
       "onboard_time": 1677932605,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111679,
+      "num": 111679,
+      "word": "女孩如何迈好青春第一步",
+      "onboard_time": 1678091064,
+      "rank": 43,
+      "category": "社会议题"
     },
     {
       "raw_hot": 111092,
@@ -10811,6 +10891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106314,
+      "num": 106314,
+      "word": "感动中国淘宝店主7成员工是残疾人",
+      "onboard_time": 1678090884,
+      "rank": 45,
+      "category": "社会正能量,科技"
+    },
+    {
       "raw_hot": 106310,
       "num": 106310,
       "word": "建议消除对罪犯子女考公的限制",
@@ -10905,6 +10993,14 @@
       "onboard_time": 1677744813,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103466,
+      "num": 103466,
+      "word": "Leave获周最佳新秀",
+      "onboard_time": 1678088366,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 103270,
@@ -11033,14 +11129,6 @@
       "onboard_time": 1677934106,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95831,
-      "num": 95831,
-      "word": "建议增设中小学生春秋假",
-      "onboard_time": 1678087767,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95790,
@@ -11699,6 +11787,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 46245,
+      "num": 245231,
+      "word": "百亿补贴全面上线",
+      "onboard_time": 1678090107,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 45994,
       "num": 45994,
       "word": "你的旅行熊猫已经变身文创产品了",
@@ -11899,6 +11995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 25802,
+      "num": 272180,
+      "word": "开局之年的新机遇新挑战",
+      "onboard_time": 1678089387,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 25328,
       "num": 25328,
       "word": "85生演技大赏",
@@ -11953,6 +12057,14 @@
       "onboard_time": 1677779295,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 7680,
+      "num": 526142,
+      "word": "经济学家建言中国式现代化",
+      "onboard_time": 1678091064,
+      "rank": 2,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
