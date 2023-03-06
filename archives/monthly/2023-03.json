@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678071794434,
+  "endTime": 1678073116607,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -49,6 +49,14 @@
       "onboard_time": 1677849145,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2962623,
+      "num": 322527,
+      "word": "张杰 电话",
+      "onboard_time": 1678071507,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 2957833,
@@ -313,6 +321,14 @@
       "onboard_time": 1677802949,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1736344,
+      "num": 1319868,
+      "word": "解说记得宣布离职",
+      "onboard_time": 1678070664,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 1732782,
@@ -747,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1158314,
-      "num": 1158314,
-      "word": "解说记得宣布离职",
-      "onboard_time": 1678070664,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1157560,
       "num": 1157560,
       "word": "2023全年实际放假10天",
@@ -977,6 +985,14 @@
       "onboard_time": 1677720806,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1053188,
+      "num": 318856,
+      "word": "石璐离队",
+      "onboard_time": 1678071507,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 1049607,
@@ -1289,14 +1305,6 @@
       "onboard_time": 1677918986,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 898933,
-      "num": 306405,
-      "word": "张杰 电话",
-      "onboard_time": 1678071507,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 895965,
@@ -2299,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 625594,
+      "num": 317430,
+      "word": "特朗普称如果当选1天解决俄乌冲突",
+      "onboard_time": 1678070184,
+      "rank": 15,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 624710,
       "num": 624710,
       "word": "高启兰被粉丝狂叫金丝老婆",
@@ -2883,14 +2899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 533885,
-      "num": 283326,
-      "word": "特朗普称如果当选1天解决俄乌冲突",
-      "onboard_time": 1678070184,
-      "rank": 15,
-      "category": "社会新闻,社会新闻"
-    },
-    {
       "raw_hot": 532148,
       "num": 532148,
       "word": "方时赫收购SM的理由",
@@ -3328,6 +3336,14 @@
       "word": "马伊琍佟大为新剧官宣",
       "onboard_time": 1677813147,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 468287,
+      "num": 468287,
+      "word": "毛晓彤王子异新剧演情侣",
+      "onboard_time": 1678072285,
+      "rank": 4,
       "category": "影视"
     },
     {
@@ -3964,7 +3980,7 @@
     },
     {
       "raw_hot": 400461,
-      "num": 282120,
+      "num": 316487,
       "word": "猪妈妈身上是有些暴脾气的",
       "onboard_time": 1678068385,
       "rank": 45,
@@ -4347,20 +4363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368959,
+      "num": 253948,
+      "word": "主人钻戒掉落狗狗以为是吃的秒吞下",
+      "onboard_time": 1678071326,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366632,
       "num": 366632,
       "word": "星落凝成糖上头名场面",
       "onboard_time": 1677673828,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 366204,
-      "num": 279531,
-      "word": "石璐离队",
-      "onboard_time": 1678071507,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 365501,
@@ -5027,6 +5043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 316274,
+      "num": 316274,
+      "word": "小米汽车预计明年上半年量产",
+      "onboard_time": 1678071085,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 315972,
       "num": 323269,
       "word": "当事人回应和峨眉山猴子练搏击互殴",
@@ -5108,7 +5132,7 @@
     },
     {
       "raw_hot": 312860,
-      "num": 312860,
+      "num": 323407,
       "word": "任何时候中国都不能缺少制造业",
       "onboard_time": 1678061306,
       "rank": 15,
@@ -5785,6 +5809,14 @@
       "onboard_time": 1677989606,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 266751,
+      "num": 266751,
+      "word": "鳄鱼莱莱确认引进",
+      "onboard_time": 1678072408,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 266590,
@@ -7107,6 +7139,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205454,
+      "num": 205454,
+      "word": "神隐惊蛰海报",
+      "onboard_time": 1678071986,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205375,
       "num": 205375,
       "word": "蔡徐坤欧洲行程",
@@ -8323,6 +8363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171973,
+      "num": 171973,
+      "word": "政府工作报告双语学习词典",
+      "onboard_time": 1678071927,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 171840,
       "num": 171840,
       "word": "JDG对战WE",
@@ -8619,14 +8667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159609,
-      "num": 159609,
-      "word": "主人钻戒掉落狗狗以为是吃的秒吞下",
-      "onboard_time": 1678071326,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159536,
       "num": 159536,
       "word": "黄奕分享产后焦虑经历",
@@ -8761,6 +8801,14 @@
       "onboard_time": 1677923547,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154579,
+      "num": 154579,
+      "word": "盖茨女儿称走红TikTok是靠内容",
+      "onboard_time": 1678072527,
+      "rank": 33,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 154214,
@@ -8969,14 +9017,6 @@
       "onboard_time": 1677752369,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 147317,
-      "num": 147317,
-      "word": "小米汽车预计明年上半年量产",
-      "onboard_time": 1678071085,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 146655,
@@ -9457,6 +9497,14 @@
       "onboard_time": 1677586590,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133731,
+      "num": 133731,
+      "word": "甲流20问20答",
+      "onboard_time": 1678072047,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133133,

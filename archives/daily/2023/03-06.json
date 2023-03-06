@@ -1,7 +1,15 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678071794434,
+  "endTime": 1678073116607,
   "band_list": [
+    {
+      "raw_hot": 2962623,
+      "num": 322527,
+      "word": "张杰 电话",
+      "onboard_time": 1678071507,
+      "rank": 12,
+      "category": "音乐"
+    },
     {
       "raw_hot": 2046793,
       "num": 379412,
@@ -25,6 +33,14 @@
       "onboard_time": 1678068684,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1736344,
+      "num": 1319868,
+      "word": "解说记得宣布离职",
+      "onboard_time": 1678070664,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 1588804,
@@ -51,14 +67,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1158314,
-      "num": 1158314,
-      "word": "解说记得宣布离职",
-      "onboard_time": 1678070664,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1073134,
       "num": 849290,
       "word": "胡歌 繁花",
@@ -67,20 +75,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1053188,
+      "num": 318856,
+      "word": "石璐离队",
+      "onboard_time": 1678071507,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 928704,
       "num": 253306,
       "word": "B站",
       "onboard_time": 1678019313,
       "rank": 20,
       "category": "科技"
-    },
-    {
-      "raw_hot": 898933,
-      "num": 306405,
-      "word": "张杰 电话",
-      "onboard_time": 1678071507,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 849973,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 625594,
+      "num": 317430,
+      "word": "特朗普称如果当选1天解决俄乌冲突",
+      "onboard_time": 1678070184,
+      "rank": 15,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 614352,
       "num": 614352,
       "word": "专家呼吁每天省杯咖啡提前规划养老",
@@ -145,14 +161,6 @@
       "onboard_time": 1678067484,
       "rank": 9,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 533885,
-      "num": 283326,
-      "word": "特朗普称如果当选1天解决俄乌冲突",
-      "onboard_time": 1678070184,
-      "rank": 15,
-      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 518879,
@@ -177,6 +185,14 @@
       "onboard_time": 1678016007,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468287,
+      "num": 468287,
+      "word": "毛晓彤王子异新剧演情侣",
+      "onboard_time": 1678072285,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 442728,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 400461,
-      "num": 282120,
+      "num": 316487,
       "word": "猪妈妈身上是有些暴脾气的",
       "onboard_time": 1678068385,
       "rank": 45,
@@ -235,12 +251,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 366204,
-      "num": 279531,
-      "word": "石璐离队",
-      "onboard_time": 1678071507,
-      "rank": 16,
-      "category": "音乐"
+      "raw_hot": 368959,
+      "num": 253948,
+      "word": "主人钻戒掉落狗狗以为是吃的秒吞下",
+      "onboard_time": 1678071326,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363561,
@@ -291,8 +307,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316274,
+      "num": 316274,
+      "word": "小米汽车预计明年上半年量产",
+      "onboard_time": 1678071085,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 312860,
-      "num": 312860,
+      "num": 323407,
       "word": "任何时候中国都不能缺少制造业",
       "onboard_time": 1678061306,
       "rank": 15,
@@ -313,6 +337,14 @@
       "onboard_time": 1678014688,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266751,
+      "num": 266751,
+      "word": "鳄鱼莱莱确认引进",
+      "onboard_time": 1678072408,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 247030,
@@ -427,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205454,
+      "num": 205454,
+      "word": "神隐惊蛰海报",
+      "onboard_time": 1678071986,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205007,
       "num": 209055,
       "word": "爱如火原唱北京巡演",
@@ -507,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171973,
+      "num": 171973,
+      "word": "政府工作报告双语学习词典",
+      "onboard_time": 1678071927,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 170702,
       "num": 170702,
       "word": "今日说法",
@@ -523,20 +571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159609,
-      "num": 159609,
-      "word": "主人钻戒掉落狗狗以为是吃的秒吞下",
-      "onboard_time": 1678071326,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147317,
-      "num": 147317,
-      "word": "小米汽车预计明年上半年量产",
-      "onboard_time": 1678071085,
-      "rank": 46,
-      "category": "科技"
+      "raw_hot": 154579,
+      "num": 154579,
+      "word": "盖茨女儿称走红TikTok是靠内容",
+      "onboard_time": 1678072527,
+      "rank": 33,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 139358,
@@ -544,6 +584,14 @@
       "word": "75岁老人中风好友发现步数为0报警",
       "onboard_time": 1678012527,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133731,
+      "num": 133731,
+      "word": "甲流20问20答",
+      "onboard_time": 1678072047,
+      "rank": 34,
       "category": "社会新闻"
     },
     {

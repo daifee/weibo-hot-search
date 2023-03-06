@@ -1,0 +1,410 @@
+{
+  "runTime": 1678073116607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1397674,
+        "num": 1397674,
+        "word": "上海迪士尼恢复迪士尼朋友拥抱等互动",
+        "onboard_time": 1678066705,
+        "rank": 0,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1736344,
+        "num": 1319868,
+        "word": "解说记得宣布离职",
+        "onboard_time": 1678070664,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15896,
+        "num": 1193039,
+        "word": "政府工作报告里的民生红包",
+        "onboard_time": 1678003346,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1147333,
+        "num": 1147333,
+        "word": "宛瑜展博以另一种方式相遇",
+        "onboard_time": 1678068026,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468287,
+        "num": 468287,
+        "word": "毛晓彤王子异新剧演情侣",
+        "onboard_time": 1678072285,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1441798,
+        "num": 464517,
+        "word": "甲流阳性率在继续上升",
+        "onboard_time": 1678067725,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437958,
+        "num": 437958,
+        "word": "妇女节给加班费吗",
+        "onboard_time": 1678066166,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430915,
+        "num": 430915,
+        "word": "出门不背包有多爽",
+        "onboard_time": 1678067484,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 323837,
+        "num": 323837,
+        "word": "胡歌 繁花",
+        "onboard_time": 1678063045,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64694,
+        "num": 323407,
+        "word": "任何时候中国都不能缺少制造业",
+        "onboard_time": 1678061306,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2962623,
+        "num": 322527,
+        "word": "张杰 电话",
+        "onboard_time": 1678071507,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1324553,
+        "num": 320816,
+        "word": "承欢记 杨紫王一博",
+        "onboard_time": 1678068684,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1067390,
+        "num": 320238,
+        "word": "可是他叫她大歌星哎",
+        "onboard_time": 1678064906,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1053188,
+        "num": 318856,
+        "word": "石璐离队",
+        "onboard_time": 1678071507,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 625594,
+        "num": 317430,
+        "word": "特朗普称如果当选1天解决俄乌冲突",
+        "onboard_time": 1678070184,
+        "rank": 14,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 395780,
+        "num": 316487,
+        "word": "猪妈妈身上是有些暴脾气的",
+        "onboard_time": 1678068385,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 316274,
+        "num": 316274,
+        "word": "小米汽车预计明年上半年量产",
+        "onboard_time": 1678071085,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 292902,
+        "num": 292902,
+        "word": "董明珠称她工作就是生活也幸福",
+        "onboard_time": 1678069166,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266751,
+        "num": 266751,
+        "word": "鳄鱼莱莱确认引进",
+        "onboard_time": 1678072408,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255623,
+        "num": 255623,
+        "word": "吴尊友回应三年白头",
+        "onboard_time": 1678065506,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368959,
+        "num": 253948,
+        "word": "主人钻戒掉落狗狗以为是吃的秒吞下",
+        "onboard_time": 1678071326,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251344,
+        "num": 251344,
+        "word": "B站",
+        "onboard_time": 1678019313,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 245797,
+        "num": 245797,
+        "word": "JISOO海报",
+        "onboard_time": 1678059924,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230851,
+        "num": 230851,
+        "word": "HYBE要求SM终止与Kakao合作",
+        "onboard_time": 1678063287,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226250,
+        "num": 226250,
+        "word": "TWICE全员素颜造型",
+        "onboard_time": 1678065863,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214257,
+        "num": 214257,
+        "word": "欠债男子被法官堵在孩子周岁宴上",
+        "onboard_time": 1678064128,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208186,
+        "num": 208186,
+        "word": "拍摄者回应旅英大熊猫听懂四川话",
+        "onboard_time": 1678066705,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208183,
+        "num": 208183,
+        "word": "马思唯asen酒吧合唱",
+        "onboard_time": 1678070004,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205454,
+        "num": 205454,
+        "word": "神隐惊蛰海报",
+        "onboard_time": 1678071986,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171973,
+        "num": 171973,
+        "word": "政府工作报告双语学习词典",
+        "onboard_time": 1678071927,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 170790,
+        "num": 170790,
+        "word": "利物浦7比0曼联",
+        "onboard_time": 1678057818,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168869,
+        "num": 168869,
+        "word": "今日说法",
+        "onboard_time": 1678070485,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155227,
+        "num": 155227,
+        "word": "白岩松谈女足为什么比男足更出成绩",
+        "onboard_time": 1678067667,
+        "rank": 32,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 154579,
+        "num": 154579,
+        "word": "盖茨女儿称走红TikTok是靠内容",
+        "onboard_time": 1678072527,
+        "rank": 33,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 133731,
+        "num": 133731,
+        "word": "甲流20问20答",
+        "onboard_time": 1678072047,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133034,
+        "num": 133034,
+        "word": "现在打甲流疫苗还来得及吗",
+        "onboard_time": 1678059801,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128720,
+        "num": 128720,
+        "word": "轻型甲流患者一周左右可自愈",
+        "onboard_time": 1678016007,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126468,
+        "num": 126468,
+        "word": "YG新女团出道人数待定",
+        "onboard_time": 1678061006,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126327,
+        "num": 126327,
+        "word": "被雷电瞄准时身体会有预兆",
+        "onboard_time": 1678031486,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125006,
+        "num": 125006,
+        "word": "贝儿唱歌好好听",
+        "onboard_time": 1678060645,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119481,
+        "num": 119481,
+        "word": "惊蛰",
+        "onboard_time": 1678029328,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106657,
+        "num": 106657,
+        "word": "梦回爸爸去哪儿",
+        "onboard_time": 1678027650,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106358,
+        "num": 106358,
+        "word": "震后松毛虫大规模入侵土耳其",
+        "onboard_time": 1678037836,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104689,
+        "num": 104689,
+        "word": "东契奇布克笑着对喷",
+        "onboard_time": 1678063767,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103508,
+        "num": 103508,
+        "word": "国家医保局回应患者15天必须出院",
+        "onboard_time": 1678044552,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90982,
+        "num": 90982,
+        "word": "甲流",
+        "onboard_time": 1678012585,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89018,
+        "num": 89018,
+        "word": "爱如火原唱北京巡演",
+        "onboard_time": 1678061126,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85427,
+        "num": 85427,
+        "word": "何炅陈晓情景讲述致敬时代榜样",
+        "onboard_time": 1678068264,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82860,
+        "num": 82860,
+        "word": "Straykids将4月回归",
+        "onboard_time": 1678068924,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81567,
+        "num": 81567,
+        "word": "罕见无毛兔询价5万主人不卖",
+        "onboard_time": 1678028130,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
