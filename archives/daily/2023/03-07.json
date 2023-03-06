@@ -1,6 +1,6 @@
 {
   "startTime": 1678120040193,
-  "endTime": 1678138438019,
+  "endTime": 1678141162639,
   "band_list": [
     {
       "raw_hot": 1285993,
@@ -89,6 +89,14 @@
       "onboard_time": 1678116687,
       "rank": 11,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 310054,
+      "num": 63906,
+      "word": "代表称台湾回归可解决缺蛋难题",
+      "onboard_time": 1678136412,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276726,
@@ -235,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114267,
+      "num": 114267,
+      "word": "台军缺粮在沙滩写标语求救",
+      "onboard_time": 1678134732,
+      "rank": 45,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 112732,
       "num": 112732,
       "word": "科学家发现黑洞旁诞生一颗恒星",
@@ -249,6 +265,14 @@
       "onboard_time": 1678117226,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98725,
+      "num": 63639,
+      "word": "美媒称中国起重机有间谍作用",
+      "onboard_time": 1678133413,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 95719,
@@ -313,14 +337,6 @@
       "onboard_time": 1678103546,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 86103,
-      "num": 37967,
-      "word": "代表称台湾回归可解决缺蛋难题",
-      "onboard_time": 1678136412,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85607,
@@ -395,22 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 64554,
-      "num": 64554,
-      "word": "台军缺粮在沙滩写标语求救",
-      "onboard_time": 1678134732,
-      "rank": 45,
-      "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 64190,
-      "num": 17357,
-      "word": "美媒称中国起重机有间谍作用",
-      "onboard_time": 1678133413,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 60264,
       "num": 64275,
       "word": "SNH48退团成员违约金名单",
@@ -451,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 38299,
+      "num": 38299,
+      "word": "马丽大鹏十年后再合作",
+      "onboard_time": 1678131311,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 37385,
       "num": 37385,
       "word": "荣耀Magic5系列发布会",
@@ -467,12 +475,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 32830,
-      "num": 32830,
-      "word": "马丽大鹏十年后再合作",
-      "onboard_time": 1678131311,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 30294,
+      "num": 30294,
+      "word": "u20",
+      "onboard_time": 1678115606,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 27787,
@@ -483,14 +491,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 25887,
-      "num": 25887,
-      "word": "u20",
-      "onboard_time": 1678115606,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 23001,
       "num": 23001,
       "word": "王鹤棣黑衬衫",
@@ -499,8 +499,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 19678,
-      "num": 19678,
+      "raw_hot": 20265,
+      "num": 20265,
       "word": "小朋友用纸片做了个海洋馆",
       "onboard_time": 1678131251,
       "rank": 29,
