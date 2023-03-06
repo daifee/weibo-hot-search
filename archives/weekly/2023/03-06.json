@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678117018858,
+  "endTime": 1678120040193,
   "band_list": [
     {
       "raw_hot": 3357688,
@@ -555,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 521764,
+      "num": 521764,
+      "word": "赵丽颖肖央虎狼之路通告单",
+      "onboard_time": 1678117766,
+      "rank": 4,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 518879,
       "num": 518879,
       "word": "利物浦7比0曼联",
@@ -633,6 +641,14 @@
       "onboard_time": 1678088546,
       "rank": 13,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 450574,
+      "num": 450574,
+      "word": "这是真的水泥封心了",
+      "onboard_time": 1678116988,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 442728,
@@ -729,6 +745,14 @@
       "onboard_time": 1678078950,
       "rank": 26,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 387367,
+      "num": 273795,
+      "word": "谷爱凌晒巴黎生活plog",
+      "onboard_time": 1678116687,
+      "rank": 30,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 383991,
@@ -995,6 +1019,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275952,
+      "num": 275952,
+      "word": "没点本事千万别骑鸵鸟",
+      "onboard_time": 1678116446,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 271361,
+      "num": 271361,
+      "word": "拜仁vs巴黎",
+      "onboard_time": 1678118365,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270126,
       "num": 270126,
       "word": "LV的女装",
@@ -1121,6 +1161,22 @@
       "onboard_time": 1678076789,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223893,
+      "num": 223893,
+      "word": "摸鱼的时候有活干了",
+      "onboard_time": 1678117706,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 223604,
+      "num": 223604,
+      "word": "外墙面层均计入建筑面积",
+      "onboard_time": 1678117165,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222942,
@@ -1305,14 +1361,6 @@
       "onboard_time": 1678105585,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 203677,
-      "num": 144920,
-      "word": "谷爱凌晒巴黎生活plog",
-      "onboard_time": 1678116687,
-      "rank": 30,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 202765,
@@ -1867,14 +1915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134283,
-      "num": 134283,
-      "word": "没点本事千万别骑鸵鸟",
-      "onboard_time": 1678116446,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130569,
       "num": 130569,
       "word": "宋茜舞台",
@@ -2057,6 +2097,14 @@
       "onboard_time": 1678091064,
       "rank": 43,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 110910,
+      "num": 110910,
+      "word": "3辆过路车一起靠边停车救人太帅了",
+      "onboard_time": 1678117226,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110712,
@@ -2323,14 +2371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74103,
-      "num": 74103,
-      "word": "这是真的水泥封心了",
-      "onboard_time": 1678116988,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 73603,
       "num": 73603,
       "word": "一等绯闻大结局",
@@ -2344,6 +2384,14 @@
       "word": "南京地铁回应乘客因手机外放收罚单",
       "onboard_time": 1678011505,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69337,
+      "num": 249521,
+      "word": "建议在学校体育教育里加入游泳课程",
+      "onboard_time": 1678118424,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2379,6 +2427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64280,
+      "num": 64280,
+      "word": "一一牛杂火锅店吃出老鼠被立案调查",
+      "onboard_time": 1678119743,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62793,
       "num": 245231,
       "word": "百亿补贴全面上线",
@@ -2393,6 +2449,14 @@
       "onboard_time": 1678115190,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52936,
+      "num": 64242,
+      "word": "众星现身保你平安首映礼",
+      "onboard_time": 1678119502,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 51151,

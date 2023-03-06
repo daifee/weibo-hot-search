@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678117018858,
+  "endTime": 1678120040193,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -3395,6 +3395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 521764,
+      "num": 521764,
+      "word": "赵丽颖肖央虎狼之路通告单",
+      "onboard_time": 1678117766,
+      "rank": 4,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 521751,
       "num": 521751,
       "word": "这不是花花是果赖",
@@ -3953,6 +3961,14 @@
       "onboard_time": 1677987865,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 450574,
+      "num": 450574,
+      "word": "这是真的水泥封心了",
+      "onboard_time": 1678116988,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 450567,
@@ -4553,6 +4569,14 @@
       "onboard_time": 1677899307,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 387367,
+      "num": 273795,
+      "word": "谷爱凌晒巴黎生活plog",
+      "onboard_time": 1678116687,
+      "rank": 30,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 387332,
@@ -6307,6 +6331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275952,
+      "num": 275952,
+      "word": "没点本事千万别骑鸵鸟",
+      "onboard_time": 1678116446,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 275729,
       "num": 256960,
       "word": "玫瑰的故事",
@@ -6393,6 +6425,14 @@
       "onboard_time": 1677989126,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 271361,
+      "num": 271361,
+      "word": "拜仁vs巴黎",
+      "onboard_time": 1678118365,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 271275,
@@ -7379,6 +7419,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223893,
+      "num": 223893,
+      "word": "摸鱼的时候有活干了",
+      "onboard_time": 1678117706,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 223604,
+      "num": 223604,
+      "word": "外墙面层均计入建筑面积",
+      "onboard_time": 1678117165,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223484,
       "num": 223484,
       "word": "陈楚生苏醒王铮亮合唱海上花",
@@ -8105,14 +8161,6 @@
       "onboard_time": 1677903565,
       "rank": 35,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 203677,
-      "num": 144920,
-      "word": "谷爱凌晒巴黎生活plog",
-      "onboard_time": 1678116687,
-      "rank": 30,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 203590,
@@ -10723,14 +10771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134283,
-      "num": 134283,
-      "word": "没点本事千万别骑鸵鸟",
-      "onboard_time": 1678116446,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 134222,
       "num": 134222,
       "word": "KSG的BP",
@@ -11449,6 +11489,14 @@
       "onboard_time": 1677971957,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110910,
+      "num": 110910,
+      "word": "3辆过路车一起靠边停车救人太帅了",
+      "onboard_time": 1678117226,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110825,
@@ -12323,14 +12371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 74103,
-      "num": 74103,
-      "word": "这是真的水泥封心了",
-      "onboard_time": 1678116988,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 73434,
       "num": 458449,
       "word": "身边女生竟然都在玩",
@@ -12403,6 +12443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69337,
+      "num": 249521,
+      "word": "建议在学校体育教育里加入游泳课程",
+      "onboard_time": 1678118424,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69173,
       "num": 69173,
       "word": "这就是鼓励式教育的意义吧",
@@ -12465,6 +12513,14 @@
       "onboard_time": 1677885738,
       "rank": 31,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 64280,
+      "num": 64280,
+      "word": "一一牛杂火锅店吃出老鼠被立案调查",
+      "onboard_time": 1678119743,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62793,
@@ -12553,6 +12609,14 @@
       "onboard_time": 1677938549,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 52936,
+      "num": 64242,
+      "word": "众星现身保你平安首映礼",
+      "onboard_time": 1678119502,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 50654,
