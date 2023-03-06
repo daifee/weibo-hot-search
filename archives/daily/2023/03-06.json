@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678106300512,
+  "endTime": 1678107429148,
   "band_list": [
     {
       "raw_hot": 3357688,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2236441,
-      "num": 674800,
+      "num": 695944,
       "word": "威廉疑似在校被霸凌",
       "onboard_time": 1678103367,
       "rank": 3,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1175409,
-      "num": 393999,
+      "num": 414658,
       "word": "张语格 退团",
       "onboard_time": 1678097968,
       "rank": 27,
@@ -299,8 +299,8 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 667172,
-      "num": 667172,
+      "raw_hot": 687976,
+      "num": 687976,
       "word": "王楚然说玉骨遥今年会播",
       "onboard_time": 1678105049,
       "rank": 4,
@@ -459,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 502951,
+      "num": 419966,
+      "word": "刘亦菲巴黎看秀造型",
+      "onboard_time": 1678106968,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 487591,
       "num": 487591,
       "word": "好心夫妇给烧伤男童送50万现金",
@@ -505,6 +513,14 @@
       "onboard_time": 1678094487,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449594,
+      "num": 449594,
+      "word": "马丽生图",
+      "onboard_time": 1678106066,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 442728,
@@ -771,6 +787,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 309964,
+      "num": 309964,
+      "word": "夜昙黑化入魔",
+      "onboard_time": 1678103307,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 309245,
       "num": 309245,
       "word": "周杰伦上台前也会紧张",
@@ -787,20 +811,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300396,
-      "num": 300396,
-      "word": "夜昙黑化入魔",
-      "onboard_time": 1678103307,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 298862,
       "num": 298862,
       "word": "财神殿前游客排长队姻缘殿无人问津",
       "onboard_time": 1678090525,
       "rank": 37,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 296710,
+      "num": 296710,
+      "word": "建议将犬只伤人的刑事责任写入刑法修正案",
+      "onboard_time": 1678104388,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294066,
@@ -921,14 +945,6 @@
       "onboard_time": 1678060645,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 233471,
-      "num": 233471,
-      "word": "建议将犬只伤人的刑事责任写入刑法修正案",
-      "onboard_time": 1678104388,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232321,
@@ -1075,14 +1091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207739,
-      "num": 207739,
-      "word": "马丽生图",
-      "onboard_time": 1678106066,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 207446,
       "num": 207446,
       "word": "芒禾音乐节",
@@ -1123,8 +1131,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 204306,
-      "num": 204306,
+      "raw_hot": 204785,
+      "num": 204785,
+      "word": "消费透视镜",
+      "onboard_time": 1678106786,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204477,
+      "num": 204477,
       "word": "刘宇杨紫琼同框看秀",
       "onboard_time": 1678105585,
       "rank": 23,
@@ -1283,6 +1299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192046,
+      "num": 192046,
+      "word": "路人眼中的李兰迪",
+      "onboard_time": 1678103125,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190558,
       "num": 190558,
       "word": "杨紫范丞丞199爱路透",
@@ -1297,14 +1321,6 @@
       "onboard_time": 1678079310,
       "rank": 37,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 188084,
-      "num": 188084,
-      "word": "路人眼中的李兰迪",
-      "onboard_time": 1678103125,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 187928,
@@ -1667,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126255,
+      "num": 126255,
+      "word": "张杰 抢票",
+      "onboard_time": 1678106547,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 125477,
       "num": 125477,
       "word": "一方水土养一方大熊猫",
@@ -1705,6 +1729,14 @@
       "onboard_time": 1678086868,
       "rank": 49,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 123558,
+      "num": 123558,
+      "word": "RNG对战BLG",
+      "onboard_time": 1678107328,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 123457,
@@ -1777,6 +1809,14 @@
       "onboard_time": 1678102527,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115328,
+      "num": 115328,
+      "word": "感染甲流会有全身症状",
+      "onboard_time": 1678107386,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113253,
@@ -1955,6 +1995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 94569,
+      "num": 94569,
+      "word": "保你平安口碑",
+      "onboard_time": 1678107208,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 93840,
       "num": 93840,
       "word": "灰熊vs快船",
@@ -2099,20 +2147,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 45259,
+      "num": 424587,
+      "word": "3份报告里的9个民生新改善",
+      "onboard_time": 1678102286,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 44974,
       "num": 44974,
       "word": "成毅看秀生图",
       "onboard_time": 1678007787,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 43376,
-      "num": 376730,
-      "word": "3份报告里的9个民生新改善",
-      "onboard_time": 1678102286,
-      "rank": 9,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 28887,
