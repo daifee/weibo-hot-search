@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678083941927,
+  "endTime": 1678084806879,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -137,6 +137,14 @@
       "onboard_time": 1677724947,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2355576,
+      "num": 2355576,
+      "word": "黄婷婷违约强执仅查出9万财产",
+      "onboard_time": 1678083265,
+      "rank": 1,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2345834,
@@ -585,14 +593,6 @@
       "onboard_time": 1677809248,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1316967,
-      "num": 1316967,
-      "word": "黄婷婷违约强执仅查出9万财产",
-      "onboard_time": 1678083265,
-      "rank": 1,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1315579,
@@ -1339,6 +1339,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 901380,
+      "num": 375798,
+      "word": "男子将面汤扣女生头上离去",
+      "onboard_time": 1678081165,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 899395,
       "num": 461049,
       "word": "与非门 蒋凡",
@@ -1576,14 +1584,6 @@
       "word": "建议每辆车每年可享受固定天数高速免费",
       "onboard_time": 1677912986,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 805571,
-      "num": 375798,
-      "word": "男子将面汤扣女生头上离去",
-      "onboard_time": 1678081165,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1891,6 +1891,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 734795,
+      "num": 734795,
+      "word": "香港向内地9所大学毕业生开放落户",
+      "onboard_time": 1678082246,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734198,
       "num": 324217,
       "word": "孙千吊带红裙",
@@ -2065,14 +2073,6 @@
       "onboard_time": 1677928767,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 689460,
-      "num": 689460,
-      "word": "香港向内地9所大学毕业生开放落户",
-      "onboard_time": 1678082246,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 686537,
@@ -5147,6 +5147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321043,
+      "num": 321043,
+      "word": "烧烤店开门不到一分钟就满客",
+      "onboard_time": 1678082606,
+      "rank": 26,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 319840,
       "num": 319840,
       "word": "黑暗荣耀快播了",
@@ -5928,6 +5936,14 @@
       "word": "甲流患者需服用抗病毒药物吗",
       "onboard_time": 1677643049,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270303,
+      "num": 193750,
+      "word": "义乌一商场大屏现巨幅丫丫海报",
+      "onboard_time": 1678084226,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -6745,14 +6761,6 @@
       "onboard_time": 1677875951,
       "rank": 10,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 227235,
-      "num": 227235,
-      "word": "烧烤店开门不到一分钟就满客",
-      "onboard_time": 1678082606,
-      "rank": 26,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 226798,
@@ -7723,6 +7731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199304,
+      "num": 199304,
+      "word": "奇妙之城",
+      "onboard_time": 1678084165,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199176,
       "num": 199176,
       "word": "2023F1巴林大奖赛",
@@ -7881,6 +7897,14 @@
       "onboard_time": 1677809007,
       "rank": 28,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 195915,
+      "num": 195915,
+      "word": "颜心记",
+      "onboard_time": 1678084707,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 195781,
@@ -8376,6 +8400,14 @@
       "word": "杨天真说事业心是女性的强心剂",
       "onboard_time": 1678020994,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184093,
+      "num": 184093,
+      "word": "这是个熊猫花花的假粉丝",
+      "onboard_time": 1678080448,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -8875,6 +8907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167044,
+      "num": 167044,
+      "word": "hello hello 我们是刺猬",
+      "onboard_time": 1678081406,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166870,
       "num": 166870,
       "word": "一种很新的支付方式",
@@ -8905,14 +8945,6 @@
       "onboard_time": 1677811707,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163947,
-      "num": 163947,
-      "word": "这是个熊猫花花的假粉丝",
-      "onboard_time": 1678080448,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163828,
@@ -9025,6 +9057,14 @@
       "onboard_time": 1677911245,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 159098,
+      "num": 159098,
+      "word": "星落凝成糖天帝什么时候嘎",
+      "onboard_time": 1678084466,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 158744,
@@ -9145,14 +9185,6 @@
       "onboard_time": 1677657268,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 155413,
-      "num": 155413,
-      "word": "hello hello 我们是刺猬",
-      "onboard_time": 1678081406,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 155097,
@@ -9841,6 +9873,14 @@
       "onboard_time": 1677861681,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134495,
+      "num": 134495,
+      "word": "摩羯座是无法挽回的",
+      "onboard_time": 1678084526,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 134349,
