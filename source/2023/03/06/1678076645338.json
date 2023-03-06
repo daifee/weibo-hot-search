@@ -1,0 +1,410 @@
+{
+  "runTime": 1678076645338,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2550036,
+        "num": 2550036,
+        "word": "丫丫",
+        "onboard_time": 1678073247,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1406613,
+        "num": 1406613,
+        "word": "上海迪士尼恢复迪士尼朋友拥抱等互动",
+        "onboard_time": 1678066705,
+        "rank": 1,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 116150,
+        "num": 1312307,
+        "word": "政府工作报告里的五年成绩单",
+        "onboard_time": 1678073486,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1303332,
+        "num": 1303332,
+        "word": "解说记得宣布离职",
+        "onboard_time": 1678070664,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 965184,
+        "num": 965184,
+        "word": "专家建议近期暂缓春游出行",
+        "onboard_time": 1678073906,
+        "rank": 4,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 725739,
+        "num": 725739,
+        "word": "宛瑜展博以另一种方式相遇",
+        "onboard_time": 1678068026,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 514500,
+        "num": 514500,
+        "word": "妇女节给加班费吗",
+        "onboard_time": 1678066166,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423006,
+        "num": 423006,
+        "word": "李一桐剧透今晚有大刀",
+        "onboard_time": 1678075708,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 383796,
+        "num": 383796,
+        "word": "小米汽车预计明年上半年量产",
+        "onboard_time": 1678071085,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 99259,
+        "num": 382601,
+        "word": "任何时候中国都不能缺少制造业",
+        "onboard_time": 1678061306,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2431758,
+        "num": 381055,
+        "word": "张杰 电话",
+        "onboard_time": 1678071507,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 971082,
+        "num": 378222,
+        "word": "可是他叫她大歌星哎",
+        "onboard_time": 1678064906,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 727157,
+        "num": 373540,
+        "word": "张子枫开面包车",
+        "onboard_time": 1678074808,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 724885,
+        "num": 372401,
+        "word": "石璐离队",
+        "onboard_time": 1678071507,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 699970,
+        "num": 370016,
+        "word": "承欢记 杨紫王一博",
+        "onboard_time": 1678068684,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 554272,
+        "num": 366838,
+        "word": "特朗普称如果当选1天解决俄乌冲突",
+        "onboard_time": 1678070184,
+        "rank": 15,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 465716,
+        "num": 363397,
+        "word": "字母哥故意刷三双",
+        "onboard_time": 1678075470,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362474,
+        "num": 362474,
+        "word": "盖茨女儿称走红TikTok是靠内容",
+        "onboard_time": 1678072527,
+        "rank": 17,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 329066,
+        "num": 329066,
+        "word": "教资",
+        "onboard_time": 1678074148,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 325951,
+        "num": 325951,
+        "word": "毛晓彤王子异新剧演情侣",
+        "onboard_time": 1678072285,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1808573,
+        "num": 323486,
+        "word": "Jennie脸部受伤后现身机场",
+        "onboard_time": 1678074628,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 944565,
+        "num": 315735,
+        "word": "甲流阳性率在继续上升",
+        "onboard_time": 1678067725,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332062,
+        "num": 308800,
+        "word": "主人钻戒掉落狗狗以为是吃的秒吞下",
+        "onboard_time": 1678071326,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297503,
+        "num": 297503,
+        "word": "熬夜后咯噔一下有三大风险",
+        "onboard_time": 1678075649,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281304,
+        "num": 281304,
+        "word": "鳄鱼莱莱确认引进",
+        "onboard_time": 1678072408,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 277198,
+        "num": 277198,
+        "word": "出门不背包有多爽",
+        "onboard_time": 1678067484,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 241488,
+        "num": 241488,
+        "word": "猪妈妈身上是有些暴脾气的",
+        "onboard_time": 1678068385,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 218878,
+        "num": 218878,
+        "word": "欠债男子被法官堵在孩子周岁宴上",
+        "onboard_time": 1678064128,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218841,
+        "num": 218841,
+        "word": "HYBE要求SM终止与Kakao合作",
+        "onboard_time": 1678063287,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217641,
+        "num": 217641,
+        "word": "JISOO海报",
+        "onboard_time": 1678059924,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212614,
+        "num": 212614,
+        "word": "胡歌 繁花",
+        "onboard_time": 1678063045,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207446,
+        "num": 207446,
+        "word": "芒禾音乐节",
+        "onboard_time": 1678074026,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202765,
+        "num": 202765,
+        "word": "盘点记得解说名场面",
+        "onboard_time": 1678075708,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187113,
+        "num": 187113,
+        "word": "惊蛰该吃啥",
+        "onboard_time": 1678075767,
+        "rank": 33,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 176320,
+        "num": 176320,
+        "word": "吴尊友回应三年白头",
+        "onboard_time": 1678065506,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169296,
+        "num": 169296,
+        "word": "董明珠称她工作就是生活也幸福",
+        "onboard_time": 1678069166,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160031,
+        "num": 160031,
+        "word": "谭松韵单曲预告",
+        "onboard_time": 1678075346,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 77744,
+        "num": 152198,
+        "word": "京东百亿补贴全面上线",
+        "onboard_time": 1678073486,
+        "rank": 37,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 151170,
+        "num": 151170,
+        "word": "TWICE全员素颜造型",
+        "onboard_time": 1678065863,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150634,
+        "num": 150634,
+        "word": "心想事成央八定档",
+        "onboard_time": 1678074026,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148641,
+        "num": 148641,
+        "word": "利物浦7比0曼联",
+        "onboard_time": 1678057818,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134615,
+        "num": 134615,
+        "word": "拍摄者回应旅英大熊猫听懂四川话",
+        "onboard_time": 1678066705,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125178,
+        "num": 125178,
+        "word": "建议强化我国适老服务体系",
+        "onboard_time": 1678074148,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119572,
+        "num": 119572,
+        "word": "贝儿唱歌好好听",
+        "onboard_time": 1678060645,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113796,
+        "num": 113796,
+        "word": "轻型甲流患者一周左右可自愈",
+        "onboard_time": 1678016007,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112767,
+        "num": 112767,
+        "word": "YG新女团出道人数待定",
+        "onboard_time": 1678061006,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109185,
+        "num": 109185,
+        "word": "神隐惊蛰海报",
+        "onboard_time": 1678071986,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108430,
+        "num": 108430,
+        "word": "现在打甲流疫苗还来得及吗",
+        "onboard_time": 1678059801,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103405,
+        "num": 103405,
+        "word": "东契奇布克笑着对喷",
+        "onboard_time": 1678063767,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92106,
+        "num": 101087,
+        "word": "大方谈月经是需要教育的",
+        "onboard_time": 1678076130,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加江苏代表团审议#"
+    }
+  }
+}

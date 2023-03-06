@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678073946168,
+  "endTime": 1678076645338,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3260221,
-      "num": 366770,
+      "num": 381055,
       "word": "张杰 电话",
       "onboard_time": 1678071507,
       "rank": 12,
@@ -97,6 +97,14 @@
       "onboard_time": 1677722666,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2550036,
+      "num": 2550036,
+      "word": "丫丫",
+      "onboard_time": 1677646292,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2493235,
@@ -291,8 +299,16 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 1808573,
+      "num": 323486,
+      "word": "Jennie脸部受伤后现身机场",
+      "onboard_time": 1678074628,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1776208,
-      "num": 366092,
+      "num": 370016,
       "word": "承欢记 杨紫王一博",
       "onboard_time": 1678068684,
       "rank": 10,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 1588804,
-      "num": 365207,
+      "num": 378222,
       "word": "可是他叫她大歌星哎",
       "onboard_time": 1678064906,
       "rank": 10,
@@ -924,7 +940,7 @@
     },
     {
       "raw_hot": 1068914,
-      "num": 365602,
+      "num": 372401,
       "word": "石璐离队",
       "onboard_time": 1678071507,
       "rank": 16,
@@ -1169,6 +1185,14 @@
       "onboard_time": 1677913346,
       "rank": 28,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 965184,
+      "num": 965184,
+      "word": "专家建议近期暂缓春游出行",
+      "onboard_time": 1678073906,
+      "rank": 48,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 964212,
@@ -1867,6 +1891,14 @@
       "category": "社会负面,艺人"
     },
     {
+      "raw_hot": 727157,
+      "num": 373540,
+      "word": "张子枫开面包车",
+      "onboard_time": 1678074808,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 725442,
       "num": 449957,
       "word": "宋茜舞台",
@@ -2180,7 +2212,7 @@
     },
     {
       "raw_hot": 650777,
-      "num": 364823,
+      "num": 366838,
       "word": "特朗普称如果当选1天解决俄乌冲突",
       "onboard_time": 1678070184,
       "rank": 15,
@@ -3347,6 +3379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465716,
+      "num": 363397,
+      "word": "字母哥故意刷三双",
+      "onboard_time": 1678075470,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 465456,
       "num": 465456,
       "word": "OMG战胜JDG",
@@ -3369,14 +3409,6 @@
       "onboard_time": 1677660449,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 462932,
-      "num": 462932,
-      "word": "丫丫",
-      "onboard_time": 1677646292,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 462479,
@@ -3811,6 +3843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423006,
+      "num": 423006,
+      "word": "李一桐剧透今晚有大刀",
+      "onboard_time": 1678075708,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 422255,
       "num": 422255,
       "word": "爱奇艺CEO回应投屏事件",
@@ -4147,6 +4187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 383796,
+      "num": 383796,
+      "word": "小米汽车预计明年上半年量产",
+      "onboard_time": 1678071085,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 383054,
       "num": 383054,
       "word": "魏无羡春季赛淘汰突破100",
@@ -4364,19 +4412,11 @@
     },
     {
       "raw_hot": 368959,
-      "num": 288659,
+      "num": 308800,
       "word": "主人钻戒掉落狗狗以为是吃的秒吞下",
       "onboard_time": 1678071326,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367415,
-      "num": 367415,
-      "word": "小米汽车预计明年上半年量产",
-      "onboard_time": 1678071085,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 366632,
@@ -4449,6 +4489,14 @@
       "onboard_time": 1677825385,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 362474,
+      "num": 362474,
+      "word": "盖茨女儿称走红TikTok是靠内容",
+      "onboard_time": 1678072527,
+      "rank": 33,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 362345,
@@ -4867,6 +4915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 329066,
+      "num": 329066,
+      "word": "教资",
+      "onboard_time": 1677655586,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 327876,
       "num": 375018,
       "word": "宋雨琦直播跳TOMBOY",
@@ -5140,7 +5196,7 @@
     },
     {
       "raw_hot": 312860,
-      "num": 367216,
+      "num": 382601,
       "word": "任何时候中国都不能缺少制造业",
       "onboard_time": 1678061306,
       "rank": 15,
@@ -5339,6 +5395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297503,
+      "num": 297503,
+      "word": "熬夜后咯噔一下有三大风险",
+      "onboard_time": 1678075649,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297172,
       "num": 297172,
       "word": "杨超越徐正溪车顶合照",
@@ -5401,14 +5465,6 @@
       "onboard_time": 1677645572,
       "rank": 48,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 290815,
-      "num": 290815,
-      "word": "盖茨女儿称走红TikTok是靠内容",
-      "onboard_time": 1678072527,
-      "rank": 33,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 290304,
@@ -6089,14 +6145,6 @@
       "onboard_time": 1677760171,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 250715,
-      "num": 250715,
-      "word": "教资",
-      "onboard_time": 1677655586,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 250517,
@@ -7067,6 +7115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207446,
+      "num": 207446,
+      "word": "芒禾音乐节",
+      "onboard_time": 1678074026,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207260,
       "num": 207260,
       "word": "刘耀文扮雕",
@@ -7337,6 +7393,14 @@
       "onboard_time": 1677652228,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202765,
+      "num": 202765,
+      "word": "盘点记得解说名场面",
+      "onboard_time": 1678075708,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 202665,
@@ -8001,6 +8065,14 @@
       "onboard_time": 1677808708,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187113,
+      "num": 187113,
+      "word": "惊蛰该吃啥",
+      "onboard_time": 1678075767,
+      "rank": 33,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 186792,
@@ -8675,6 +8747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160031,
+      "num": 160031,
+      "word": "谭松韵单曲预告",
+      "onboard_time": 1678075346,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159536,
       "num": 159536,
       "word": "黄奕分享产后焦虑经历",
@@ -8897,6 +8977,14 @@
       "onboard_time": 1677888507,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 150634,
+      "num": 150634,
+      "word": "心想事成央八定档",
+      "onboard_time": 1678074026,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 150420,
@@ -9723,6 +9811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 125178,
+      "num": 125178,
+      "word": "建议强化我国适老服务体系",
+      "onboard_time": 1678074148,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125156,
       "num": 125156,
       "word": "陈楚生 爱的尽头",
@@ -9963,6 +10059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116150,
+      "num": 1312307,
+      "word": "政府工作报告里的五年成绩单",
+      "onboard_time": 1678073486,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 116077,
       "num": 116077,
       "word": "王源读粉丝信",
@@ -10172,7 +10276,7 @@
     },
     {
       "raw_hot": 109087,
-      "num": 109087,
+      "num": 152198,
       "word": "京东百亿补贴全面上线",
       "onboard_time": 1678073486,
       "rank": 42,
@@ -10523,6 +10627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92106,
+      "num": 101087,
+      "word": "大方谈月经是需要教育的",
+      "onboard_time": 1678076130,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91973,
       "num": 91973,
       "word": "周刊君带你看两会",
@@ -10761,14 +10873,6 @@
       "onboard_time": 1677842007,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 80380,
-      "num": 80380,
-      "word": "专家建议近期暂缓春游出行",
-      "onboard_time": 1678073906,
-      "rank": 48,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 80147,
@@ -11072,14 +11176,6 @@
       "word": "两会好声音",
       "onboard_time": 1677993806,
       "rank": 49,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 50883,
-      "num": 523478,
-      "word": "政府工作报告里的五年成绩单",
-      "onboard_time": 1678073486,
-      "rank": 2,
       "category": "国内要闻"
     },
     {
