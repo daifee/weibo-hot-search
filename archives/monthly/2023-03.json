@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678116068279,
+  "endTime": 1678117018858,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2040387,
+      "num": 441718,
+      "word": "刘亦菲李惠仁谷爱凌同框",
+      "onboard_time": 1678115009,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2037308,
       "num": 2037308,
       "word": "上海迪士尼恢复迪士尼朋友拥抱等互动",
@@ -273,6 +281,14 @@
       "onboard_time": 1677671189,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1884766,
+      "num": 1884766,
+      "word": "lofter",
+      "onboard_time": 1678114649,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 1862826,
@@ -731,14 +747,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 1283251,
-      "num": 1283251,
-      "word": "lofter",
-      "onboard_time": 1678114649,
-      "rank": 1,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1275681,
       "num": 1275681,
       "word": "李敏镐被追缴数亿韩元",
@@ -961,14 +969,6 @@
       "onboard_time": 1677905069,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1132915,
-      "num": 441718,
-      "word": "刘亦菲李惠仁谷爱凌同框",
-      "onboard_time": 1678115009,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1126676,
@@ -3595,6 +3595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492153,
+      "num": 492153,
+      "word": "如何看待年轻人大城挣钱小城安家",
+      "onboard_time": 1678114588,
+      "rank": 13,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 490635,
       "num": 490635,
       "word": "你会暗恋一个人十年吗",
@@ -4481,14 +4489,6 @@
       "onboard_time": 1677684030,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 396205,
-      "num": 396205,
-      "word": "如何看待年轻人大城挣钱小城安家",
-      "onboard_time": 1678114588,
-      "rank": 13,
-      "category": "社会议题"
     },
     {
       "raw_hot": 395637,
@@ -6411,6 +6411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270126,
+      "num": 270126,
+      "word": "LV的女装",
+      "onboard_time": 1678115307,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 269593,
       "num": 269593,
       "word": "曾黎的海外伴手礼",
@@ -7177,14 +7185,6 @@
       "onboard_time": 1677734368,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 229232,
-      "num": 229232,
-      "word": "LV的女装",
-      "onboard_time": 1678115307,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 228828,
@@ -8105,6 +8105,14 @@
       "onboard_time": 1677903565,
       "rank": 35,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 203677,
+      "num": 144920,
+      "word": "谷爱凌晒巴黎生活plog",
+      "onboard_time": 1678116687,
+      "rank": 30,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 203590,
@@ -10715,6 +10723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134283,
+      "num": 134283,
+      "word": "没点本事千万别骑鸵鸟",
+      "onboard_time": 1678116446,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134222,
       "num": 134222,
       "word": "KSG的BP",
@@ -12244,7 +12260,7 @@
     },
     {
       "raw_hot": 79524,
-      "num": 1254246,
+      "num": 1261246,
       "word": "两会好声音",
       "onboard_time": 1677993806,
       "rank": 49,
@@ -12305,6 +12321,14 @@
       "onboard_time": 1677972980,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 74103,
+      "num": 74103,
+      "word": "这是真的水泥封心了",
+      "onboard_time": 1678116988,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 73434,
@@ -12489,6 +12513,14 @@
       "onboard_time": 1677998067,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56067,
+      "num": 388864,
+      "word": "旅游选网红打卡地还是小众景点",
+      "onboard_time": 1678115190,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55708,
@@ -12697,14 +12729,6 @@
       "onboard_time": 1677700272,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 33786,
-      "num": 388864,
-      "word": "旅游选网红打卡地还是小众景点",
-      "onboard_time": 1678115190,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33058,
