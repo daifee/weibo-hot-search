@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678131235500,
+  "endTime": 1678134063963,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -11972,7 +11972,7 @@
     },
     {
       "raw_hot": 95719,
-      "num": 41709,
+      "num": 64578,
       "word": "台湾有观光点1人限购2颗茶叶蛋",
       "onboard_time": 1678127173,
       "rank": 17,
@@ -12835,6 +12835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31968,
+      "num": 31968,
+      "word": "马丽大鹏十年后再合作",
+      "onboard_time": 1678131311,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 31948,
       "num": 202379,
       "word": "被这部纪录片里的话戳到",
@@ -12947,12 +12955,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 20252,
+      "num": 17132,
+      "word": "美媒称中国起重机有间谍作用",
+      "onboard_time": 1678133413,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 17767,
       "num": 17767,
       "word": "利马major淘汰赛",
       "onboard_time": 1677700632,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17446,
+      "num": 17446,
+      "word": "小朋友用纸片做了个海洋馆",
+      "onboard_time": 1678131251,
+      "rank": 29,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 12119,
