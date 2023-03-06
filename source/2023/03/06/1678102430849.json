@@ -1,0 +1,410 @@
+{
+  "runTime": 1678102430849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1906290,
+        "num": 1906290,
+        "word": "台湾或面临史上最久缺蛋荒",
+        "onboard_time": 1678096227,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010860,
+        "num": 1010860,
+        "word": "多地中小学实行教师退出机制",
+        "onboard_time": 1678095567,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 7090,
+        "num": 859416,
+        "word": "全国两会时光",
+        "onboard_time": 1677904947,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 727414,
+        "num": 727414,
+        "word": "熊猫丫丫已被多方抢注商标",
+        "onboard_time": 1678091365,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 548011,
+        "num": 548011,
+        "word": "赵丽颖 花少5",
+        "onboard_time": 1678092927,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473216,
+        "num": 473216,
+        "word": "代表称要警惕考研高考化趋势",
+        "onboard_time": 1678093647,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434390,
+        "num": 434390,
+        "word": "重庆一公司妇女节女员工放假6天",
+        "onboard_time": 1678096406,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383029,
+        "num": 383029,
+        "word": "虞书欣的一滴泪",
+        "onboard_time": 1678098388,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378587,
+        "num": 378587,
+        "word": "为什么感觉这波甲流这么厉害",
+        "onboard_time": 1678094487,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12039,
+        "num": 376730,
+        "word": "3份报告里的9个民生新改善",
+        "onboard_time": 1678102286,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1068922,
+        "num": 370690,
+        "word": "张语格 退团",
+        "onboard_time": 1678097968,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 903963,
+        "num": 368634,
+        "word": "台湾是中国的一部分没有什么国防部长",
+        "onboard_time": 1678099587,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 567520,
+        "num": 364413,
+        "word": "黄婷婷违约强执仅查出9万财产",
+        "onboard_time": 1678083265,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 361191,
+        "num": 361191,
+        "word": "薛之谦 门票",
+        "onboard_time": 1678095386,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 346523,
+        "num": 346523,
+        "word": "金智秀 solo出道",
+        "onboard_time": 1678089086,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309245,
+        "num": 309245,
+        "word": "周杰伦上台前也会紧张",
+        "onboard_time": 1678099227,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 303095,
+        "num": 303095,
+        "word": "宋佳穿的是裙还是裤",
+        "onboard_time": 1678094249,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289861,
+        "num": 289861,
+        "word": "SNH48退团成员违约金名单",
+        "onboard_time": 1678091365,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275126,
+        "num": 275126,
+        "word": "科学家发现黑洞旁诞生一颗恒星",
+        "onboard_time": 1678100366,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 254416,
+        "num": 254416,
+        "word": "亚航被曝行李超重5公斤收1807元托运费",
+        "onboard_time": 1678101206,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247487,
+        "num": 247487,
+        "word": "张杰 电话",
+        "onboard_time": 1678071507,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244678,
+        "num": 244678,
+        "word": "摩羯座是无法挽回的",
+        "onboard_time": 1678084526,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222758,
+        "num": 222758,
+        "word": "好心夫妇给烧伤男童送50万现金",
+        "onboard_time": 1678093525,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 208986,
+        "num": 208986,
+        "word": "宋茜首映现场和粉丝拥抱",
+        "onboard_time": 1678102286,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203332,
+        "num": 203332,
+        "word": "宋妍霏15秒摆了33个pose",
+        "onboard_time": 1678098805,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202753,
+        "num": 202753,
+        "word": "女子称水果店买到双皮苹果",
+        "onboard_time": 1678086687,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195676,
+        "num": 195676,
+        "word": "古装剧中的美强惨男主",
+        "onboard_time": 1678101747,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195239,
+        "num": 195239,
+        "word": "陈星旭的漫画手",
+        "onboard_time": 1678099227,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194670,
+        "num": 194670,
+        "word": "任嘉伦张颂文讲悄悄话",
+        "onboard_time": 1678101927,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187827,
+        "num": 187827,
+        "word": "烧烤店开门不到一分钟就满客",
+        "onboard_time": 1678082606,
+        "rank": 29,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 183170,
+        "num": 183170,
+        "word": "杨洋白衬衫",
+        "onboard_time": 1678094067,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177086,
+        "num": 177086,
+        "word": "一代人终将老去 但总有人正年轻",
+        "onboard_time": 1678098027,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20112,
+        "num": 172736,
+        "word": "开局之年的新机遇新挑战",
+        "onboard_time": 1678089387,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 171890,
+        "num": 171890,
+        "word": "华为称仍将加大手机业务的投入",
+        "onboard_time": 1678095206,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 166529,
+        "num": 166529,
+        "word": "棣爸油炸偶遇钟楚曦刘学义拍戏",
+        "onboard_time": 1678086986,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153474,
+        "num": 153474,
+        "word": "御怨般若典藏皮肤",
+        "onboard_time": 1678095266,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153122,
+        "num": 153122,
+        "word": "香港向内地9所大学毕业生开放落户",
+        "onboard_time": 1678082246,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136685,
+        "num": 136685,
+        "word": "甲流与新冠叠加感染的概率低",
+        "onboard_time": 1678076789,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136362,
+        "num": 136362,
+        "word": "爸爸带娃半年的变化",
+        "onboard_time": 1678094968,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 125471,
+        "num": 125471,
+        "word": "财神殿前游客排长队姻缘殿无人问津",
+        "onboard_time": 1678090525,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 120539,
+        "num": 120539,
+        "word": "这是个熊猫花花的假粉丝",
+        "onboard_time": 1678080448,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118454,
+        "num": 118454,
+        "word": "微博之夜答题赛",
+        "onboard_time": 1678098327,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114628,
+        "num": 114628,
+        "word": "第一次见消防员社死",
+        "onboard_time": 1678088546,
+        "rank": 42,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 105883,
+        "num": 105883,
+        "word": "东北连熊猫也会整活",
+        "onboard_time": 1678094847,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104536,
+        "num": 104536,
+        "word": "阿Sa巴黎喝咖啡随拍",
+        "onboard_time": 1678097608,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101557,
+        "num": 101557,
+        "word": "重紫",
+        "onboard_time": 1678100726,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96544,
+        "num": 96544,
+        "word": "Kakao或将与HYBE合作",
+        "onboard_time": 1678093047,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90338,
+        "num": 90338,
+        "word": "Jennie脸部受伤后现身机场",
+        "onboard_time": 1678074628,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85639,
+        "num": 85639,
+        "word": "建议增设中小学生春秋假",
+        "onboard_time": 1678087767,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77674,
+        "num": 77674,
+        "word": "上海迪士尼门票热度暴涨350%",
+        "onboard_time": 1678079845,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望全国政协委员#"
+    }
+  }
+}
