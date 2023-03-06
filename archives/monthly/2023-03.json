@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678087102565,
+  "endTime": 1678088028588,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2043,6 +2043,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 694462,
+      "num": 694462,
+      "word": "烧烤店开门不到一分钟就满客",
+      "onboard_time": 1678082606,
+      "rank": 26,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 690993,
       "num": 690993,
       "word": "iPhone16Pro有望采用屏下FaceID",
@@ -2275,14 +2283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 648672,
-      "num": 648672,
-      "word": "烧烤店开门不到一分钟就满客",
-      "onboard_time": 1678082606,
-      "rank": 26,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 647245,
       "num": 647245,
       "word": "特斯拉投资者日",
@@ -2467,6 +2467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 614949,
+      "num": 322709,
+      "word": "棣爸油炸偶遇钟楚曦刘学义拍戏",
+      "onboard_time": 1678086986,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 614286,
       "num": 381622,
       "word": "苏醒苏有朋王心凌合照",
@@ -2585,6 +2593,14 @@
       "onboard_time": 1677887544,
       "rank": 4,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 585416,
+      "num": 317047,
+      "word": "荣耀Magic5系列发布会",
+      "onboard_time": 1678086565,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 583110,
@@ -4009,6 +4025,14 @@
       "onboard_time": 1677594573,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 412305,
+      "num": 211005,
+      "word": "女子称水果店买到双皮苹果",
+      "onboard_time": 1678086687,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412063,
@@ -6115,14 +6139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261941,
-      "num": 174423,
-      "word": "棣爸油炸偶遇钟楚曦刘学义拍戏",
-      "onboard_time": 1678086986,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 261325,
       "num": 261325,
       "word": "XYG折夕",
@@ -7803,14 +7819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198520,
-      "num": 213749,
-      "word": "荣耀Magic5系列发布会",
-      "onboard_time": 1678086565,
-      "rank": 19,
-      "category": "科技"
-    },
-    {
       "raw_hot": 198292,
       "num": 198292,
       "word": "谱系自闭症",
@@ -7937,6 +7945,14 @@
       "onboard_time": 1677809007,
       "rank": 28,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 195923,
+      "num": 195923,
+      "word": "虞书欣新剧哭戏路透",
+      "onboard_time": 1678087288,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 195915,
@@ -8099,12 +8115,28 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 192991,
+      "num": 192991,
+      "word": "周柯宇晒收到无畏的红包",
+      "onboard_time": 1678087827,
+      "rank": 27,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 192960,
       "num": 86266,
       "word": "宋亚轩的广普",
       "onboard_time": 1677860963,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192853,
+      "num": 192853,
+      "word": "宋亚轩新歌获三榜第一",
+      "onboard_time": 1678087649,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 192777,
@@ -8603,14 +8635,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 176706,
-      "num": 176706,
-      "word": "女子称水果店买到双皮苹果",
-      "onboard_time": 1678086687,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176269,
       "num": 176269,
       "word": "王嘉尔 你好星期六",
@@ -8891,6 +8915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168667,
+      "num": 168667,
+      "word": "刘诗诗米兰时装周采访视频",
+      "onboard_time": 1678085066,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 168650,
       "num": 1344369,
       "word": "一图认遍全国春花",
@@ -8993,14 +9025,6 @@
       "onboard_time": 1677849805,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 166181,
-      "num": 166181,
-      "word": "刘诗诗米兰时装周采访视频",
-      "onboard_time": 1678085066,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 165406,
@@ -10251,6 +10275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124343,
+      "num": 124343,
+      "word": "部分制造企业招工成本过万",
+      "onboard_time": 1678086868,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 124313,
       "num": 124313,
       "word": "杭州无人机表演将万朵鲜花送雷锋",
@@ -10667,6 +10699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109531,
+      "num": 109531,
+      "word": "重紫今日大婚",
+      "onboard_time": 1678087946,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 109490,
       "num": 109490,
       "word": "快船vs国王",
@@ -10915,14 +10955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99995,
-      "num": 99995,
-      "word": "部分制造企业招工成本过万",
-      "onboard_time": 1678086868,
-      "rank": 49,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 99890,
       "num": 99890,
       "word": "和花海一起守护江豚",
@@ -11001,6 +11033,14 @@
       "onboard_time": 1677934106,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95831,
+      "num": 95831,
+      "word": "建议增设中小学生春秋假",
+      "onboard_time": 1678087767,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95790,
