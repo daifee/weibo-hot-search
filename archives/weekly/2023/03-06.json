@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678077553183,
+  "endTime": 1678079920010,
   "band_list": [
     {
       "raw_hot": 3260221,
@@ -11,8 +11,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 2550036,
-      "num": 2550036,
+      "raw_hot": 2832247,
+      "num": 2832247,
       "word": "丫丫",
       "onboard_time": 1678073247,
       "rank": 6,
@@ -83,7 +83,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1083648,
+      "raw_hot": 1252605,
       "num": 965184,
       "word": "专家建议近期暂缓春游出行",
       "onboard_time": 1678073906,
@@ -147,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 704922,
+      "num": 704922,
+      "word": "甲流症状",
+      "onboard_time": 1678076789,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667025,
       "num": 387872,
       "word": "现在打甲流疫苗还来得及吗",
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583110,
+      "num": 583110,
+      "word": "熬夜后咯噔一下有三大风险",
+      "onboard_time": 1678075649,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543968,
       "num": 543968,
       "word": "出门不背包有多爽",
@@ -217,22 +233,6 @@
       "onboard_time": 1678057818,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 487520,
-      "num": 487520,
-      "word": "熬夜后咯噔一下有三大风险",
-      "onboard_time": 1678075649,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 487253,
-      "num": 487253,
-      "word": "甲流症状",
-      "onboard_time": 1678076789,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 477588,
@@ -323,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 375214,
+      "num": 349312,
+      "word": "迪丽热巴起诉黑粉",
+      "onboard_time": 1678079430,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 368959,
       "num": 308800,
       "word": "主人钻戒掉落狗狗以为是吃的秒吞下",
@@ -379,11 +387,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347697,
+      "num": 347697,
+      "word": "游客认错花花保安大哥幽默喊话",
+      "onboard_time": 1678077571,
+      "rank": 15,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 345428,
       "num": 325423,
       "word": "董明珠称她工作就是生活也幸福",
       "onboard_time": 1678069166,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340257,
+      "num": 340257,
+      "word": "网友前往孟菲斯动物园看望丫丫",
+      "onboard_time": 1678077152,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -393,6 +417,14 @@
       "onboard_time": 1678066705,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333967,
+      "num": 333967,
+      "word": "从此找到了上班的意义",
+      "onboard_time": 1678077511,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 329066,
@@ -409,6 +441,22 @@
       "onboard_time": 1678061306,
       "rank": 15,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 310560,
+      "num": 310560,
+      "word": "一本院校回应招聘会有洗碗工岗位",
+      "onboard_time": 1678079249,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 306122,
+      "num": 306122,
+      "word": "熊猫花花跑起来前脚内八后脚外八",
+      "onboard_time": 1678078530,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283911,
@@ -433,6 +481,14 @@
       "onboard_time": 1678028309,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247017,
+      "num": 247017,
+      "word": "企业宣传员工18年从未请假",
+      "onboard_time": 1678078950,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 242314,
@@ -475,6 +531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232321,
+      "num": 232321,
+      "word": "吴青峰回应",
+      "onboard_time": 1678078589,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229791,
       "num": 209029,
       "word": "甲流",
@@ -491,12 +555,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222942,
+      "num": 222942,
+      "word": "谭松韵蜀锦人家组讯",
+      "onboard_time": 1678079007,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219221,
       "num": 219221,
       "word": "马思唯asen酒吧合唱",
       "onboard_time": 1678070004,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 212923,
+      "num": 212923,
+      "word": "刘峰曾私信UP主",
+      "onboard_time": 1678078771,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212759,
+      "num": 212759,
+      "word": "特朗普谈2024年大选",
+      "onboard_time": 1678078111,
+      "rank": 32,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 211444,
@@ -587,14 +675,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 201958,
-      "num": 201958,
-      "word": "网友前往孟菲斯动物园看望丫丫",
-      "onboard_time": 1678077152,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199400,
       "num": 234013,
       "word": "万物复苏",
@@ -619,12 +699,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194751,
+      "num": 194751,
+      "word": "想知道后面怎么样了",
+      "onboard_time": 1678079548,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194142,
       "num": 194142,
       "word": "迎接春天",
       "onboard_time": 1678066285,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189249,
+      "num": 189249,
+      "word": "一起春游吧",
+      "onboard_time": 1678079310,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 187113,
@@ -675,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173411,
+      "num": 173411,
+      "word": "上海迪士尼门票热度暴涨350%",
+      "onboard_time": 1678079845,
+      "rank": 40,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 171973,
       "num": 171973,
       "word": "政府工作报告双语学习词典",
@@ -699,12 +803,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162090,
+      "num": 162090,
+      "word": "中国奇谭第二季决定制作",
+      "onboard_time": 1678077391,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160031,
       "num": 160031,
       "word": "谭松韵单曲预告",
       "onboard_time": 1678075346,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157372,
+      "num": 157372,
+      "word": "路人巴黎偶遇刘宇",
+      "onboard_time": 1678077750,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 150634,
@@ -835,14 +955,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 118307,
-      "num": 118307,
-      "word": "中国奇谭第二季决定制作",
-      "onboard_time": 1678077391,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 117981,
       "num": 117981,
       "word": "2023年还剩300天",
@@ -892,7 +1004,7 @@
     },
     {
       "raw_hot": 108085,
-      "num": 108085,
+      "num": 136024,
       "word": "大方谈月经是需要教育的",
       "onboard_time": 1678076130,
       "rank": 49,
@@ -913,14 +1025,6 @@
       "onboard_time": 1678068264,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103452,
-      "num": 103452,
-      "word": "从此找到了上班的意义",
-      "onboard_time": 1678077511,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 98232,
