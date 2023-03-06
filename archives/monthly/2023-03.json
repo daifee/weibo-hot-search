@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678059225783,
+  "endTime": 1678066994232,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -160,6 +160,14 @@
       "word": "尖沙咀",
       "onboard_time": 1677798380,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2046793,
+      "num": 379412,
+      "word": "一本院校招聘会现多家酒店招洗碗工",
+      "onboard_time": 1678061185,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -337,6 +345,14 @@
       "onboard_time": 1677676650,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1588804,
+      "num": 324267,
+      "word": "可是他叫她大歌星哎",
+      "onboard_time": 1678064906,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1570659,
@@ -848,6 +864,14 @@
       "word": "颖儿探班任嘉伦",
       "onboard_time": 1677669869,
       "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1073134,
+      "num": 391044,
+      "word": "胡歌 繁花",
+      "onboard_time": 1678063045,
+      "rank": 3,
       "category": "影视"
     },
     {
@@ -1443,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 806855,
+      "num": 806855,
+      "word": "吴尊友回应三年白头",
+      "onboard_time": 1678065506,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 806658,
       "num": 806658,
       "word": "建议每辆车每年可享受固定天数高速免费",
@@ -2024,6 +2056,14 @@
       "word": "老人自家院子种菜被上门强行清理",
       "onboard_time": 1677630870,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 667025,
+      "num": 387872,
+      "word": "现在打甲流疫苗还来得及吗",
+      "onboard_time": 1678059801,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -3139,6 +3179,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 477588,
+      "num": 321515,
+      "word": "HYBE要求SM终止与Kakao合作",
+      "onboard_time": 1678063287,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474630,
       "num": 242064,
       "word": "郭晓婷徐海乔苍兰诀后合体",
@@ -3451,8 +3499,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442728,
+      "num": 210533,
+      "word": "欠债男子被法官堵在孩子周岁宴上",
+      "onboard_time": 1678064128,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442297,
-      "num": 318238,
+      "num": 324903,
       "word": "被雷电瞄准时身体会有预兆",
       "onboard_time": 1678031486,
       "rank": 12,
@@ -3843,6 +3899,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 399385,
+      "num": 319298,
+      "word": "JISOO海报",
+      "onboard_time": 1678059924,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 397628,
       "num": 397628,
       "word": "历届微博之夜名场面盘点",
@@ -3979,6 +4043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 383991,
+      "num": 315793,
+      "word": "TWICE全员素颜造型",
+      "onboard_time": 1678065863,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 383054,
       "num": 383054,
       "word": "魏无羡春季赛淘汰突破100",
@@ -4049,6 +4121,14 @@
       "onboard_time": 1678003046,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380288,
+      "num": 380288,
+      "word": "惊蛰",
+      "onboard_time": 1678029328,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 379681,
@@ -4595,6 +4675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335202,
+      "num": 314817,
+      "word": "妇女节给加班费吗",
+      "onboard_time": 1678066166,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335176,
       "num": 335176,
       "word": "kep1er将于4月10日回归",
@@ -4921,6 +5009,14 @@
       "onboard_time": 1677838347,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312860,
+      "num": 312860,
+      "word": "任何时候中国都不能缺少制造业",
+      "onboard_time": 1678061306,
+      "rank": 15,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 312322,
@@ -5252,7 +5348,7 @@
     },
     {
       "raw_hot": 285927,
-      "num": 196048,
+      "num": 200997,
       "word": "罕见无毛兔询价5万主人不卖",
       "onboard_time": 1678028130,
       "rank": 30,
@@ -6075,6 +6171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 239074,
+      "num": 239074,
+      "word": "YG新女团出道人数待定",
+      "onboard_time": 1678061006,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238201,
       "num": 238201,
       "word": "76人终结雄鹿16连胜",
@@ -6193,6 +6297,14 @@
       "onboard_time": 1677979644,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233800,
+      "num": 210245,
+      "word": "贝儿唱歌好好听",
+      "onboard_time": 1678060645,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232394,
@@ -6491,14 +6603,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 221911,
-      "num": 221911,
-      "word": "惊蛰",
-      "onboard_time": 1678029328,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 221574,
       "num": 221574,
       "word": "全球近60只大熊猫旅居海外",
@@ -6723,6 +6827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211103,
+      "num": 211103,
+      "word": "上海迪士尼恢复迪士尼朋友拥抱等互动",
+      "onboard_time": 1678066705,
+      "rank": 19,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 211015,
       "num": 211015,
       "word": "双休日对打工人有多重要",
@@ -6764,7 +6876,7 @@
     },
     {
       "raw_hot": 209629,
-      "num": 123665,
+      "num": 168239,
       "word": "浙江渔民误捕疑海猪后果断放生",
       "onboard_time": 1678044072,
       "rank": 31,
@@ -6793,6 +6905,14 @@
       "onboard_time": 1677819212,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208551,
+      "num": 208551,
+      "word": "东契奇布克笑着对喷",
+      "onboard_time": 1678063767,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 208319,
@@ -6913,6 +7033,14 @@
       "onboard_time": 1677987325,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 205007,
+      "num": 209055,
+      "word": "爱如火原唱北京巡演",
+      "onboard_time": 1678061126,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 204963,
@@ -7435,6 +7563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194142,
+      "num": 194142,
+      "word": "迎接春天",
+      "onboard_time": 1678066285,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194102,
       "num": 194102,
       "word": "WB小同桌发起群聊",
@@ -7753,6 +7889,14 @@
       "onboard_time": 1677666089,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 185491,
+      "num": 185491,
+      "word": "老太晕厥4名路过医护教科书式抢救",
+      "onboard_time": 1678060044,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185340,
@@ -8153,6 +8297,14 @@
       "onboard_time": 1677739166,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169390,
+      "num": 169390,
+      "word": "湖人终结勇士五连胜",
+      "onboard_time": 1678059684,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 169298,
@@ -9419,6 +9571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124274,
+      "num": 124274,
+      "word": "拍摄者回应旅英大熊猫听懂四川话",
+      "onboard_time": 1678066705,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123855,
       "num": 123855,
       "word": "德云社演出节目单",
@@ -9499,6 +9659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121256,
+      "num": 121256,
+      "word": "南方长城和北方长城有什么差别",
+      "onboard_time": 1678059382,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121021,
       "num": 121021,
       "word": "张大大体验东北烧烤",
@@ -9545,6 +9713,14 @@
       "onboard_time": 1678025911,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117981,
+      "num": 117981,
+      "word": "2023年还剩300天",
+      "onboard_time": 1678062147,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117643,
@@ -9768,6 +9944,14 @@
       "word": "计划生育宣传语应及时清理",
       "onboard_time": 1677657206,
       "rank": 47,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 110712,
+      "num": 110712,
+      "word": "2023看全国两会",
+      "onboard_time": 1678066463,
+      "rank": 42,
       "category": "国内要闻"
     },
     {
@@ -10259,6 +10443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85200,
+      "num": 85200,
+      "word": "关键球还得是杜兰特",
+      "onboard_time": 1678065445,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85193,
       "num": 208790,
       "word": "巴黎圣日耳曼vs南特",
@@ -10311,6 +10503,14 @@
       "num": 83285,
       "word": "所有大熊猫在法律上都属于中国",
       "onboard_time": 1677665967,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83180,
+      "num": 83180,
+      "word": "美国男子用自来水洗脸感染食脑虫死亡",
+      "onboard_time": 1678009047,
       "rank": 49,
       "category": "社会新闻"
     },
