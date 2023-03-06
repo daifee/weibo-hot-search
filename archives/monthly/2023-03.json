@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678121094190,
+  "endTime": 1678124149393,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -4323,6 +4323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419919,
+      "num": 264461,
+      "word": "一一牛杂火锅店吃出老鼠被立案调查",
+      "onboard_time": 1678119743,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417828,
       "num": 417828,
       "word": "OMG 太热血了",
@@ -6561,14 +6569,6 @@
       "onboard_time": 1677894504,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264461,
-      "num": 264461,
-      "word": "一一牛杂火锅店吃出老鼠被立案调查",
-      "onboard_time": 1678119743,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264411,
