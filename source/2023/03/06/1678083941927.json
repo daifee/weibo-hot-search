@@ -1,0 +1,410 @@
+{
+  "runTime": 1678083941927,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2764064,
+        "num": 2764064,
+        "word": "丫丫",
+        "onboard_time": 1678073247,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1316967,
+        "num": 1316967,
+        "word": "黄婷婷违约强执仅查出9万财产",
+        "onboard_time": 1678083265,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 58679,
+        "num": 1226298,
+        "word": "政府工作报告里的五年成绩单",
+        "onboard_time": 1678073486,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1222967,
+        "num": 1222967,
+        "word": "一本院校回应招聘会有洗碗工岗位",
+        "onboard_time": 1678079249,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 689460,
+        "num": 689460,
+        "word": "香港向内地9所大学毕业生开放落户",
+        "onboard_time": 1678082246,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525402,
+        "num": 525402,
+        "word": "游客认错花花保安大哥幽默喊话",
+        "onboard_time": 1678077571,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 439233,
+        "num": 439233,
+        "word": "熊猫花花跑起来前脚内八后脚外八",
+        "onboard_time": 1678078530,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402602,
+        "num": 402602,
+        "word": "解说记得宣布离职",
+        "onboard_time": 1678070664,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 391435,
+        "num": 391435,
+        "word": "企业宣传员工18年从未请假",
+        "onboard_time": 1678078950,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 37588,
+        "num": 389144,
+        "word": "任何时候中国都不能缺少制造业",
+        "onboard_time": 1678061306,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1155386,
+        "num": 382572,
+        "word": "张杰 电话",
+        "onboard_time": 1678071507,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 805571,
+        "num": 375798,
+        "word": "男子将面汤扣女生头上离去",
+        "onboard_time": 1678081165,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531517,
+        "num": 373391,
+        "word": "可是他叫她大歌星哎",
+        "onboard_time": 1678064906,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367705,
+        "num": 367705,
+        "word": "上海迪士尼恢复迪士尼朋友拥抱等互动",
+        "onboard_time": 1678066705,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 456011,
+        "num": 363965,
+        "word": "专家建议近期暂缓春游出行",
+        "onboard_time": 1678073906,
+        "rank": 14,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 350252,
+        "num": 350252,
+        "word": "刘峰曾私信UP主",
+        "onboard_time": 1678078771,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339089,
+        "num": 339089,
+        "word": "甲流症状",
+        "onboard_time": 1678076789,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334862,
+        "num": 334862,
+        "word": "8旬爷爷凌晨5点炒花生赚钱救病孙",
+        "onboard_time": 1678081105,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323800,
+        "num": 323800,
+        "word": "熬夜后咯噔一下有三大风险",
+        "onboard_time": 1678075649,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270196,
+        "num": 270196,
+        "word": "字母哥故意刷三双",
+        "onboard_time": 1678075470,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 628555,
+        "num": 264266,
+        "word": "Jennie脸部受伤后现身机场",
+        "onboard_time": 1678074628,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308508,
+        "num": 262324,
+        "word": "甲流阳性率在继续上升",
+        "onboard_time": 1678067725,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257745,
+        "num": 257745,
+        "word": "承欢记 杨紫王一博",
+        "onboard_time": 1678068684,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247926,
+        "num": 247926,
+        "word": "迪丽热巴起诉黑粉",
+        "onboard_time": 1678079430,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 236212,
+        "num": 236212,
+        "word": "上海迪士尼门票热度暴涨350%",
+        "onboard_time": 1678079845,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 234392,
+        "num": 234392,
+        "word": "从此找到了上班的意义",
+        "onboard_time": 1678077511,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 227235,
+        "num": 227235,
+        "word": "烧烤店开门不到一分钟就满客",
+        "onboard_time": 1678082606,
+        "rank": 26,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 221316,
+        "num": 221316,
+        "word": "宛瑜展博以另一种方式相遇",
+        "onboard_time": 1678068026,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179887,
+        "num": 179887,
+        "word": "阿朵祝福石璐",
+        "onboard_time": 1678082966,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217782,
+        "num": 177061,
+        "word": "展博宛瑜BE美学",
+        "onboard_time": 1678080745,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174062,
+        "num": 174062,
+        "word": "不止不休张颂文台词",
+        "onboard_time": 1678081527,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167814,
+        "num": 167814,
+        "word": "魅族20",
+        "onboard_time": 1678082188,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163947,
+        "num": 163947,
+        "word": "这是个熊猫花花的假粉丝",
+        "onboard_time": 1678080448,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162632,
+        "num": 162632,
+        "word": "吴青峰回应",
+        "onboard_time": 1678078589,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161349,
+        "num": 161349,
+        "word": "快船结束五连败",
+        "onboard_time": 1678081764,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156409,
+        "num": 156409,
+        "word": "网友前往孟菲斯动物园看望丫丫",
+        "onboard_time": 1678077152,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155413,
+        "num": 155413,
+        "word": "hello hello 我们是刺猬",
+        "onboard_time": 1678081406,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154192,
+        "num": 154192,
+        "word": "特朗普称如果当选1天解决俄乌冲突",
+        "onboard_time": 1678070184,
+        "rank": 37,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 142746,
+        "num": 142746,
+        "word": "张子枫开面包车",
+        "onboard_time": 1678074808,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142483,
+        "num": 142483,
+        "word": "多家企业用迪士尼角色命名",
+        "onboard_time": 1678082307,
+        "rank": 39,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 133991,
+        "num": 133991,
+        "word": "李现时装封面手臂线条",
+        "onboard_time": 1678080147,
+        "rank": 40,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 133435,
+        "num": 133435,
+        "word": "谭松韵蜀锦人家组讯",
+        "onboard_time": 1678079007,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123497,
+        "num": 123497,
+        "word": "妇女节给加班费吗",
+        "onboard_time": 1678066166,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120967,
+        "num": 120967,
+        "word": "WTT新加坡大满贯2023",
+        "onboard_time": 1678080028,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120744,
+        "num": 120744,
+        "word": "教资",
+        "onboard_time": 1678074148,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107125,
+        "num": 107125,
+        "word": "盖茨女儿称走红TikTok是靠内容",
+        "onboard_time": 1678072527,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 97680,
+        "num": 97680,
+        "word": "胡歌 繁花",
+        "onboard_time": 1678063045,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93840,
+        "num": 93840,
+        "word": "灰熊vs快船",
+        "onboard_time": 1678080986,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80876,
+        "num": 80876,
+        "word": "乔治42分11篮板",
+        "onboard_time": 1678083807,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80142,
+        "num": 80142,
+        "word": "HYBE要求SM终止与Kakao合作",
+        "onboard_time": 1678063287,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}

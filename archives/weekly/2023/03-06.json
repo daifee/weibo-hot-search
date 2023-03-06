@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678080860884,
+  "endTime": 1678083941927,
   "band_list": [
     {
       "raw_hot": 3357688,
@@ -83,12 +83,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1316967,
+      "num": 1316967,
+      "word": "黄婷婷违约强执仅查出9万财产",
+      "onboard_time": 1678083265,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1252605,
       "num": 965184,
       "word": "专家建议近期暂缓春游出行",
       "onboard_time": 1678073906,
       "rank": 48,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1222967,
+      "num": 1222967,
+      "word": "一本院校回应招聘会有洗碗工岗位",
+      "onboard_time": 1678079249,
+      "rank": 22,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1073134,
@@ -131,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805571,
+      "num": 375798,
+      "word": "男子将面汤扣女生头上离去",
+      "onboard_time": 1678081165,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 755853,
       "num": 755853,
       "word": "东北饭包",
@@ -147,19 +171,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 712882,
-      "num": 441699,
-      "word": "一本院校回应招聘会有洗碗工岗位",
-      "onboard_time": 1678079249,
-      "rank": 22,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 704922,
       "num": 704922,
       "word": "甲流症状",
       "onboard_time": 1678076789,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689460,
+      "num": 689460,
+      "word": "香港向内地9所大学毕业生开放落户",
+      "onboard_time": 1678082246,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -227,6 +251,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 525402,
+      "num": 525402,
+      "word": "游客认错花花保安大哥幽默喊话",
+      "onboard_time": 1678077571,
+      "rank": 15,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 523410,
       "num": 523410,
       "word": "毛晓彤王子异新剧演情侣",
@@ -251,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 477344,
-      "num": 477344,
-      "word": "游客认错花花保安大哥幽默喊话",
-      "onboard_time": 1678077571,
-      "rank": 15,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 473181,
       "num": 473181,
       "word": "轻型甲流患者一周左右可自愈",
@@ -281,6 +305,14 @@
       "onboard_time": 1678031486,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 439233,
+      "num": 439233,
+      "word": "熊猫花花跑起来前脚内八后脚外八",
+      "onboard_time": 1678078530,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439177,
@@ -323,6 +355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 391435,
+      "num": 465403,
+      "word": "企业宣传员工18年从未请假",
+      "onboard_time": 1678078950,
+      "rank": 26,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 383991,
       "num": 315793,
       "word": "TWICE全员素颜造型",
@@ -345,14 +385,6 @@
       "onboard_time": 1678029328,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 370524,
-      "num": 465403,
-      "word": "企业宣传员工18年从未请假",
-      "onboard_time": 1678078950,
-      "rank": 26,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 368959,
@@ -403,20 +435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350701,
-      "num": 350701,
-      "word": "熊猫花花跑起来前脚内八后脚外八",
-      "onboard_time": 1678078530,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350475,
       "num": 183653,
       "word": "关晓彤巴黎看秀前试装",
       "onboard_time": 1678028490,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 350252,
+      "num": 350252,
+      "word": "刘峰曾私信UP主",
+      "onboard_time": 1678078771,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 347821,
@@ -451,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334862,
+      "num": 334862,
+      "word": "8旬爷爷凌晨5点炒花生赚钱救病孙",
+      "onboard_time": 1678081105,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329066,
       "num": 329066,
       "word": "教资",
@@ -465,14 +505,6 @@
       "onboard_time": 1678061306,
       "rank": 15,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 299979,
-      "num": 299979,
-      "word": "刘峰曾私信UP主",
-      "onboard_time": 1678078771,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 283911,
@@ -571,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227235,
+      "num": 227235,
+      "word": "烧烤店开门不到一分钟就满客",
+      "onboard_time": 1678082606,
+      "rank": 26,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 222942,
       "num": 222942,
       "word": "谭松韵蜀锦人家组讯",
@@ -585,6 +625,14 @@
       "onboard_time": 1678070004,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217782,
+      "num": 207184,
+      "word": "展博宛瑜BE美学",
+      "onboard_time": 1678080745,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 216599,
@@ -649,14 +697,6 @@
       "onboard_time": 1678074026,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 207184,
-      "num": 207184,
-      "word": "展博宛瑜BE美学",
-      "onboard_time": 1678080745,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 205677,
@@ -795,6 +835,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 179887,
+      "num": 179887,
+      "word": "阿朵祝福石璐",
+      "onboard_time": 1678082966,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 176264,
       "num": 176264,
       "word": "王一博读雷锋日记",
@@ -809,6 +857,14 @@
       "onboard_time": 1678031845,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174062,
+      "num": 174062,
+      "word": "不止不休张颂文台词",
+      "onboard_time": 1678081527,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 171973,
@@ -835,12 +891,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167814,
+      "num": 167814,
+      "word": "魅族20",
+      "onboard_time": 1678082188,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 163947,
+      "num": 163947,
+      "word": "这是个熊猫花花的假粉丝",
+      "onboard_time": 1678080448,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162090,
       "num": 162090,
       "word": "中国奇谭第二季决定制作",
       "onboard_time": 1678077391,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161349,
+      "num": 161349,
+      "word": "快船结束五连败",
+      "onboard_time": 1678081764,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 160031,
@@ -859,12 +939,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150865,
-      "num": 150865,
-      "word": "这是个熊猫花花的假粉丝",
-      "onboard_time": 1678080448,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 155413,
+      "num": 155413,
+      "word": "hello hello 我们是刺猬",
+      "onboard_time": 1678081406,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 150634,
@@ -881,6 +961,14 @@
       "onboard_time": 1678077032,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142483,
+      "num": 142483,
+      "word": "多家企业用迪士尼角色命名",
+      "onboard_time": 1678082307,
+      "rank": 39,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 139358,
@@ -1099,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93840,
+      "num": 93840,
+      "word": "灰熊vs快船",
+      "onboard_time": 1678080986,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90641,
       "num": 90641,
       "word": "男团下岗再就业",
@@ -1145,6 +1241,14 @@
       "onboard_time": 1678009047,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80876,
+      "num": 80876,
+      "word": "乔治42分11篮板",
+      "onboard_time": 1678083807,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 75018,
