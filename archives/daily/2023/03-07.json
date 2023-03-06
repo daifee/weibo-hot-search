@@ -1,6 +1,6 @@
 {
   "startTime": 1678120040193,
-  "endTime": 1678137406897,
+  "endTime": 1678138438019,
   "band_list": [
     {
       "raw_hot": 1285993,
@@ -315,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 86103,
+      "num": 37967,
+      "word": "代表称台湾回归可解决缺蛋难题",
+      "onboard_time": 1678136412,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85607,
       "num": 85607,
       "word": "保你平安 好看",
@@ -387,7 +395,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 63568,
+      "raw_hot": 64554,
+      "num": 64554,
+      "word": "台军缺粮在沙滩写标语求救",
+      "onboard_time": 1678134732,
+      "rank": 45,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 64190,
       "num": 17357,
       "word": "美媒称中国起重机有间谍作用",
       "onboard_time": 1678133413,
@@ -401,14 +417,6 @@
       "onboard_time": 1678091365,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 56310,
-      "num": 31428,
-      "word": "台军缺粮在沙滩写标语求救",
-      "onboard_time": 1678134732,
-      "rank": 45,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 55095,
@@ -457,14 +465,6 @@
       "onboard_time": 1678108049,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 37088,
-      "num": 17190,
-      "word": "代表称台湾回归可解决缺蛋难题",
-      "onboard_time": 1678136412,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32830,
