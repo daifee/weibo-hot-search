@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678144805743,
+  "endTime": 1678145657865,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -779,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1259861,
+      "num": 1259861,
+      "word": "代表称台湾回归可解决缺蛋难题",
+      "onboard_time": 1678136412,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1252605,
       "num": 965184,
       "word": "专家建议近期暂缓春游出行",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1677669869,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1076078,
-      "num": 1076078,
-      "word": "代表称台湾回归可解决缺蛋难题",
-      "onboard_time": 1678136412,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1073134,
@@ -4219,6 +4219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 427602,
+      "num": 427602,
+      "word": "一一牛杂火锅店吃出老鼠被立案调查",
+      "onboard_time": 1678119743,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427178,
       "num": 331520,
       "word": "肖战欧洲篇vlog",
@@ -4328,14 +4336,6 @@
       "word": "胡锡进谈调整休假安排建议",
       "onboard_time": 1677681092,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419919,
-      "num": 399546,
-      "word": "一一牛杂火锅店吃出老鼠被立案调查",
-      "onboard_time": 1678119743,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -4537,6 +4537,14 @@
       "onboard_time": 1677647908,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392380,
+      "num": 392380,
+      "word": "美媒称中国起重机有间谍作用",
+      "onboard_time": 1678133413,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 392255,
@@ -5067,6 +5075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356924,
+      "num": 356924,
+      "word": "台军缺粮在沙滩写标语求救",
+      "onboard_time": 1678134732,
+      "rank": 45,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 355596,
       "num": 355596,
       "word": "华为诉小米专利侵权已被受理",
@@ -5248,14 +5264,6 @@
       "word": "建议给3岁以下婴幼儿家庭发育儿补贴",
       "onboard_time": 1677614711,
       "rank": 12,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 343849,
-      "num": 343849,
-      "word": "美媒称中国起重机有间谍作用",
-      "onboard_time": 1678133413,
-      "rank": 30,
       "category": "国内要闻"
     },
     {
@@ -5713,14 +5721,6 @@
       "onboard_time": 1678015047,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314278,
-      "num": 314278,
-      "word": "台军缺粮在沙滩写标语求救",
-      "onboard_time": 1678134732,
-      "rank": 45,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 314194,
@@ -6779,6 +6779,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 253013,
+      "num": 253013,
+      "word": "台湾有观光点1人限购2颗茶叶蛋",
+      "onboard_time": 1678127173,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252639,
       "num": 252639,
       "word": "制片人梅子笑为风波中的女演员抱不平",
@@ -6905,6 +6913,14 @@
       "onboard_time": 1677672750,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246492,
+      "num": 246492,
+      "word": "外墙面层均计入建筑面积",
+      "onboard_time": 1678117165,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246361,
@@ -7155,14 +7171,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 235859,
-      "num": 235859,
-      "word": "外墙面层均计入建筑面积",
-      "onboard_time": 1678117165,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235743,
       "num": 268351,
       "word": "TES对战RNG",
@@ -7273,14 +7281,6 @@
       "onboard_time": 1677734368,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 228997,
-      "num": 228997,
-      "word": "台湾有观光点1人限购2颗茶叶蛋",
-      "onboard_time": 1678127173,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228828,
@@ -10171,6 +10171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152408,
+      "num": 152408,
+      "word": "LOFTER平台AI绘画功能遭用户质疑",
+      "onboard_time": 1678144700,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 152325,
       "num": 152325,
       "word": "Hero对战TES",
@@ -10473,6 +10481,14 @@
       "onboard_time": 1677808708,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143679,
+      "num": 106420,
+      "word": "网友为YG新女团取名",
+      "onboard_time": 1678145361,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 143460,
@@ -11179,6 +11195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122939,
+      "num": 122939,
+      "word": "RNG三连败",
+      "onboard_time": 1678144759,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122865,
       "num": 122865,
       "word": "人大代表带道具科普大熊猫新生幼崽",
@@ -11265,6 +11289,14 @@
       "onboard_time": 1677926367,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 119137,
+      "num": 106398,
+      "word": "同城快送收到背去世老人下楼订单",
+      "onboard_time": 1678145483,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118804,
@@ -12435,12 +12467,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 73791,
-      "num": 73791,
-      "word": "LOFTER平台AI绘画功能遭用户质疑",
-      "onboard_time": 1678144700,
-      "rank": 30,
-      "category": "科技"
+      "raw_hot": 73916,
+      "num": 73916,
+      "word": "小朋友用纸片做了个海洋馆",
+      "onboard_time": 1678131251,
+      "rank": 29,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 73434,
@@ -12531,14 +12563,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 69015,
-      "num": 69015,
-      "word": "小朋友用纸片做了个海洋馆",
-      "onboard_time": 1678131251,
-      "rank": 29,
-      "category": "幽默,社会新闻"
-    },
-    {
       "raw_hot": 67977,
       "num": 67977,
       "word": "赴土耳其的搜救犬乘商务舱回国",
@@ -12595,6 +12619,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 62128,
+      "num": 62128,
+      "word": "功夫熊猫真的没有骗我",
+      "onboard_time": 1678145241,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 61375,
       "num": 61375,
       "word": "龚俊入驻上海杜莎夫人蜡像馆",
@@ -12609,6 +12641,14 @@
       "onboard_time": 1677698173,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60679,
+      "num": 60679,
+      "word": "马丽大鹏十年后再合作",
+      "onboard_time": 1678131311,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 60562,
@@ -12627,14 +12667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59160,
-      "num": 59160,
-      "word": "马丽大鹏十年后再合作",
-      "onboard_time": 1678131311,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 58947,
       "num": 58947,
       "word": "甄子丹说希望用动作电影讲好中国故事",
@@ -12643,8 +12675,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56596,
-      "num": 56596,
+      "raw_hot": 57873,
+      "num": 57873,
       "word": "王鹤棣黑衬衫",
       "onboard_time": 1678128012,
       "rank": 29,
@@ -12681,6 +12713,14 @@
       "onboard_time": 1677834028,
       "rank": 39,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 53898,
+      "num": 53898,
+      "word": "张新成宋祖儿艰难的制造组讯",
+      "onboard_time": 1678125674,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 53086,
@@ -12787,14 +12827,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 42186,
-      "num": 42186,
-      "word": "张新成宋祖儿艰难的制造组讯",
-      "onboard_time": 1678125674,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 41813,
       "num": 41813,
       "word": "这楼梯怎么还会捉迷藏呢",
@@ -12873,14 +12905,6 @@
       "onboard_time": 1677904287,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 35274,
-      "num": 35274,
-      "word": "RNG三连败",
-      "onboard_time": 1678144759,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 34677,
