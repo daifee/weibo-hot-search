@@ -1,0 +1,410 @@
+{
+  "runTime": 1678087102565,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2367440,
+        "num": 2367440,
+        "word": "丫丫",
+        "onboard_time": 1678073247,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2020808,
+        "num": 2020808,
+        "word": "黄婷婷违约强执仅查出9万财产",
+        "onboard_time": 1678083265,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 72781,
+        "num": 1079022,
+        "word": "政府工作报告里的五年成绩单",
+        "onboard_time": 1678073486,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 869785,
+        "num": 869785,
+        "word": "香港向内地9所大学毕业生开放落户",
+        "onboard_time": 1678082246,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648672,
+        "num": 648672,
+        "word": "烧烤店开门不到一分钟就满客",
+        "onboard_time": 1678082606,
+        "rank": 4,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 599902,
+        "num": 599902,
+        "word": "摩羯座是无法挽回的",
+        "onboard_time": 1678084526,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 565005,
+        "num": 565005,
+        "word": "义乌一商场大屏现巨幅丫丫海报",
+        "onboard_time": 1678084226,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527550,
+        "num": 527550,
+        "word": "马思纯罗晋新片开机",
+        "onboard_time": 1678085667,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438799,
+        "num": 438799,
+        "word": "散财童子无畏",
+        "onboard_time": 1678084827,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296404,
+        "num": 296404,
+        "word": "熊猫花花跑起来前脚内八后脚外八",
+        "onboard_time": 1678078530,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1153940,
+        "num": 296401,
+        "word": "张杰 电话",
+        "onboard_time": 1678071507,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 766272,
+        "num": 295827,
+        "word": "男子将面汤扣女生头上离去",
+        "onboard_time": 1678081165,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336165,
+        "num": 295487,
+        "word": "可是他叫她大歌星哎",
+        "onboard_time": 1678064906,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287666,
+        "num": 287666,
+        "word": "专家建议近期暂缓春游出行",
+        "onboard_time": 1678073906,
+        "rank": 13,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 273653,
+        "num": 273653,
+        "word": "解说记得宣布离职",
+        "onboard_time": 1678070664,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269163,
+        "num": 269163,
+        "word": "游客认错花花保安大哥幽默喊话",
+        "onboard_time": 1678077571,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 260320,
+        "num": 260320,
+        "word": "甲流症状",
+        "onboard_time": 1678076789,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253983,
+        "num": 253983,
+        "word": "8旬爷爷凌晨5点炒花生赚钱救病孙",
+        "onboard_time": 1678081105,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214071,
+        "num": 214071,
+        "word": "企业宣传员工18年从未请假",
+        "onboard_time": 1678078950,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 198520,
+        "num": 213749,
+        "word": "荣耀Magic5系列发布会",
+        "onboard_time": 1678086565,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 446476,
+        "num": 213746,
+        "word": "Jennie脸部受伤后现身机场",
+        "onboard_time": 1678074628,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252089,
+        "num": 213746,
+        "word": "甲流阳性率在继续上升",
+        "onboard_time": 1678067725,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213735,
+        "num": 213735,
+        "word": "字母哥故意刷三双",
+        "onboard_time": 1678075470,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204433,
+        "num": 204433,
+        "word": "上海迪士尼门票热度暴涨350%",
+        "onboard_time": 1678079845,
+        "rank": 23,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 19773,
+        "num": 188406,
+        "word": "任何时候中国都不能缺少制造业",
+        "onboard_time": 1678061306,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 187995,
+        "num": 187995,
+        "word": "熬夜后咯噔一下有三大风险",
+        "onboard_time": 1678075649,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187928,
+        "num": 187928,
+        "word": "宋亚轩首支个人单曲上线战报",
+        "onboard_time": 1678086205,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179604,
+        "num": 179604,
+        "word": "在成都真的可以走花路",
+        "onboard_time": 1678085667,
+        "rank": 27,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 176706,
+        "num": 176706,
+        "word": "女子称水果店买到双皮苹果",
+        "onboard_time": 1678086687,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174996,
+        "num": 174996,
+        "word": "承欢记 杨紫王一博",
+        "onboard_time": 1678068684,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261941,
+        "num": 174423,
+        "word": "棣爸油炸偶遇钟楚曦刘学义拍戏",
+        "onboard_time": 1678086986,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172750,
+        "num": 172750,
+        "word": "从此找到了上班的意义",
+        "onboard_time": 1678077511,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 168485,
+        "num": 168485,
+        "word": "这是个熊猫花花的假粉丝",
+        "onboard_time": 1678080448,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166181,
+        "num": 166181,
+        "word": "刘诗诗米兰时装周采访视频",
+        "onboard_time": 1678085066,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 157034,
+        "num": 157034,
+        "word": "宛瑜展博以另一种方式相遇",
+        "onboard_time": 1678068026,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154737,
+        "num": 154737,
+        "word": "刘峰曾私信UP主",
+        "onboard_time": 1678078771,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153697,
+        "num": 153697,
+        "word": "玄商美强惨",
+        "onboard_time": 1678086507,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150861,
+        "num": 150861,
+        "word": "颜心记",
+        "onboard_time": 1678084707,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148898,
+        "num": 148898,
+        "word": "迪丽热巴起诉黑粉",
+        "onboard_time": 1678079430,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 45406,
+        "num": 145032,
+        "word": "天猫发布2023新品必买榜",
+        "onboard_time": 1678086026,
+        "rank": 39,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 144988,
+        "num": 144988,
+        "word": "感动中国年度人物颁奖",
+        "onboard_time": 1678085906,
+        "rank": 40,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 139460,
+        "num": 139460,
+        "word": "石璐离队",
+        "onboard_time": 1678071507,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137685,
+        "num": 137685,
+        "word": "展博宛瑜BE美学",
+        "onboard_time": 1678080745,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128450,
+        "num": 128450,
+        "word": "hello hello 我们是刺猬",
+        "onboard_time": 1678081406,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125009,
+        "num": 125009,
+        "word": "檀健次周一库存照",
+        "onboard_time": 1678086146,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116591,
+        "num": 116591,
+        "word": "不止不休张颂文台词",
+        "onboard_time": 1678081527,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113842,
+        "num": 113842,
+        "word": "快船结束五连败",
+        "onboard_time": 1678081764,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109237,
+        "num": 109237,
+        "word": "星落凝成糖天帝什么时候嘎",
+        "onboard_time": 1678084466,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107767,
+        "num": 107767,
+        "word": "特朗普称如果当选1天解决俄乌冲突",
+        "onboard_time": 1678070184,
+        "rank": 48,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 99995,
+        "num": 99995,
+        "word": "部分制造企业招工成本过万",
+        "onboard_time": 1678086868,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#速览2023年政府工作报告#"
+    }
+  }
+}

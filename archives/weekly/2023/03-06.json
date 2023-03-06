@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678084806879,
+  "endTime": 1678087102565,
   "band_list": [
     {
       "raw_hot": 3357688,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 869785,
+      "num": 869785,
+      "word": "香港向内地9所大学毕业生开放落户",
+      "onboard_time": 1678082246,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 849973,
       "num": 849973,
       "word": "吴尊友回应三年白头",
@@ -161,14 +169,6 @@
       "onboard_time": 1678029869,
       "rank": 0,
       "category": "美食"
-    },
-    {
-      "raw_hot": 734795,
-      "num": 734795,
-      "word": "香港向内地9所大学毕业生开放落户",
-      "onboard_time": 1678082246,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 727157,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648672,
+      "num": 648672,
+      "word": "烧烤店开门不到一分钟就满客",
+      "onboard_time": 1678082606,
+      "rank": 26,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 638217,
       "num": 638217,
       "word": "妇女节给加班费吗",
@@ -235,11 +243,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599902,
+      "num": 599902,
+      "word": "摩羯座是无法挽回的",
+      "onboard_time": 1678084526,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 583110,
       "num": 583110,
       "word": "熬夜后咯噔一下有三大风险",
       "onboard_time": 1678075649,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565005,
+      "num": 565005,
+      "word": "义乌一商场大屏现巨幅丫丫海报",
+      "onboard_time": 1678084226,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -249,6 +273,14 @@
       "onboard_time": 1678067484,
       "rank": 9,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 527550,
+      "num": 527550,
+      "word": "马思纯罗晋新片开机",
+      "onboard_time": 1678085667,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 525402,
@@ -321,6 +353,14 @@
       "onboard_time": 1678079430,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 438799,
+      "num": 438799,
+      "word": "散财童子无畏",
+      "onboard_time": 1678084827,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 423006,
@@ -499,14 +539,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 321043,
-      "num": 321043,
-      "word": "烧烤店开门不到一分钟就满客",
-      "onboard_time": 1678082606,
-      "rank": 26,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 312860,
       "num": 487511,
       "word": "任何时候中国都不能缺少制造业",
@@ -531,12 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270303,
-      "num": 193750,
-      "word": "义乌一商场大屏现巨幅丫丫海报",
-      "onboard_time": 1678084226,
+      "raw_hot": 261941,
+      "num": 174423,
+      "word": "棣爸油炸偶遇钟楚曦刘学义拍戏",
+      "onboard_time": 1678086986,
       "rank": 30,
-      "category": "社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 259000,
@@ -763,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198520,
+      "num": 213749,
+      "word": "荣耀Magic5系列发布会",
+      "onboard_time": 1678086565,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 197749,
       "num": 197749,
       "word": "如何更好的保护旅外大熊猫",
@@ -827,6 +867,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 187928,
+      "num": 187928,
+      "word": "宋亚轩首支个人单曲上线战报",
+      "onboard_time": 1678086205,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187113,
       "num": 187113,
       "word": "惊蛰该吃啥",
@@ -873,6 +921,22 @@
       "onboard_time": 1678082966,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179604,
+      "num": 179604,
+      "word": "在成都真的可以走花路",
+      "onboard_time": 1678085667,
+      "rank": 27,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 176706,
+      "num": 176706,
+      "word": "女子称水果店买到双皮苹果",
+      "onboard_time": 1678086687,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176264,
@@ -939,6 +1003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166181,
+      "num": 166181,
+      "word": "刘诗诗米兰时装周采访视频",
+      "onboard_time": 1678085066,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 162090,
       "num": 162090,
       "word": "中国奇谭第二季决定制作",
@@ -979,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153697,
+      "num": 153697,
+      "word": "玄商美强惨",
+      "onboard_time": 1678086507,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150634,
       "num": 150634,
       "word": "心想事成央八定档",
@@ -993,6 +1073,14 @@
       "onboard_time": 1678077032,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144988,
+      "num": 144988,
+      "word": "感动中国年度人物颁奖",
+      "onboard_time": 1678085906,
+      "rank": 40,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 142483,
@@ -1017,14 +1105,6 @@
       "onboard_time": 1678072047,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134495,
-      "num": 134495,
-      "word": "摩羯座是无法挽回的",
-      "onboard_time": 1678084526,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 130569,
@@ -1073,6 +1153,14 @@
       "onboard_time": 1678074148,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125009,
+      "num": 125009,
+      "word": "檀健次周一库存照",
+      "onboard_time": 1678086146,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 124598,
@@ -1193,6 +1281,14 @@
       "onboard_time": 1678068264,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99995,
+      "num": 99995,
+      "word": "部分制造企业招工成本过万",
+      "onboard_time": 1678086868,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 98232,
@@ -1353,6 +1449,14 @@
       "onboard_time": 1678016607,
       "rank": 47,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 45406,
+      "num": 145032,
+      "word": "天猫发布2023新品必买榜",
+      "onboard_time": 1678086026,
+      "rank": 39,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 44974,
