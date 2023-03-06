@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678109957197,
+  "endTime": 1678112306478,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1940290,
+      "num": 1940290,
+      "word": "感染甲流会有全身症状",
+      "onboard_time": 1678107386,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1935867,
       "num": 320903,
       "word": "迪丽热巴造型",
@@ -403,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1699156,
+      "num": 740220,
+      "word": "LV",
+      "onboard_time": 1678110569,
+      "rank": 3,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1683745,
       "num": 910102,
       "word": "赵丽颖 花少5",
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 1670158,
-      "num": 425879,
+      "num": 464688,
       "word": "刘亦菲巴黎看秀造型",
       "onboard_time": 1678106968,
       "rank": 10,
@@ -600,14 +616,6 @@
       "word": "反诈老陈自曝2022年收入133万",
       "onboard_time": 1677993266,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1381365,
-      "num": 1381365,
-      "word": "感染甲流会有全身症状",
-      "onboard_time": 1678107386,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -1787,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 784120,
+      "num": 421121,
+      "word": "陆仙人巴黎时装周首秀",
+      "onboard_time": 1678110328,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 784044,
       "num": 784044,
       "word": "为什么有些人晚睡早起还精力充沛",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1678074808,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 725651,
+      "num": 725651,
+      "word": "酒店1场会议43瓶水未喝完被罚",
+      "onboard_time": 1678108348,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 725442,
@@ -2361,6 +2385,14 @@
       "onboard_time": 1677662069,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 659417,
+      "num": 409945,
+      "word": "周冬雨露腰撞色造型",
+      "onboard_time": 1678111048,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 656877,
@@ -3091,12 +3123,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 546661,
+      "num": 546661,
+      "word": "U20国足7分钟连进2球",
+      "onboard_time": 1678110508,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 546535,
       "num": 313301,
       "word": "来自时代少年团的郭俊辰",
       "onboard_time": 1678028309,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546271,
+      "num": 546271,
+      "word": "星落凝成糖慢慢下线",
+      "onboard_time": 1678109428,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 546253,
@@ -4211,12 +4259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419170,
-      "num": 419170,
-      "word": "酒店1场会议43瓶水未喝完被罚",
-      "onboard_time": 1678108348,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 420114,
+      "num": 420114,
+      "word": "贝儿碎碎念名场面",
+      "onboard_time": 1678110687,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 417828,
@@ -5059,6 +5107,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 348656,
+      "num": 348656,
+      "word": "U20国足vs沙特U20",
+      "onboard_time": 1678109547,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348273,
       "num": 348273,
       "word": "虞书欣方发严正声明维权",
@@ -5259,6 +5315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334944,
+      "num": 334944,
+      "word": "BLG战胜RNG",
+      "onboard_time": 1678111529,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 334862,
       "num": 334862,
       "word": "8旬爷爷凌晨5点炒花生赚钱救病孙",
@@ -5329,14 +5393,6 @@
       "onboard_time": 1677655586,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 328047,
-      "num": 328047,
-      "word": "星落凝成糖慢慢下线",
-      "onboard_time": 1678109428,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 327876,
@@ -5641,6 +5697,14 @@
       "onboard_time": 1677914065,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311712,
+      "num": 311712,
+      "word": "王鹤棣新剧老年妆",
+      "onboard_time": 1678111230,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 311678,
@@ -6561,6 +6625,14 @@
       "onboard_time": 1677638728,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254135,
+      "num": 254135,
+      "word": "RNG对战BLG",
+      "onboard_time": 1678107328,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 254008,
@@ -8187,6 +8259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199400,
+      "num": 199400,
+      "word": "任嘉伦白西装金丝眼镜",
+      "onboard_time": 1678110930,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199304,
       "num": 199304,
       "word": "奇妙之城",
@@ -8209,6 +8289,14 @@
       "onboard_time": 1677854009,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198955,
+      "num": 198955,
+      "word": "网友神P图张译",
+      "onboard_time": 1678109968,
+      "rank": 27,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 198863,
@@ -8817,14 +8905,6 @@
       "onboard_time": 1677810566,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188351,
-      "num": 188351,
-      "word": "U20国足vs沙特U20",
-      "onboard_time": 1678109547,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 187928,
@@ -10107,14 +10187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145973,
-      "num": 145973,
-      "word": "RNG对战BLG",
-      "onboard_time": 1678107328,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 145906,
       "num": 145906,
       "word": "两女生默默守护倒地环卫工直至获救",
@@ -11203,6 +11275,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 113675,
+      "num": 113675,
+      "word": "多地商场为丫丫投屏",
+      "onboard_time": 1678112070,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113663,
       "num": 113663,
       "word": "网络名人赞两会",
@@ -12107,6 +12187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77032,
+      "num": 806916,
+      "word": "两会好声音",
+      "onboard_time": 1677993806,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 75657,
       "num": 75657,
       "word": "男子玩滑翔伞挂电线上村民搭梯救援",
@@ -12209,14 +12297,6 @@
       "onboard_time": 1677985645,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 69984,
-      "num": 806916,
-      "word": "两会好声音",
-      "onboard_time": 1677993806,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 69922,
@@ -12380,7 +12460,7 @@
     },
     {
       "raw_hot": 50224,
-      "num": 428072,
+      "num": 469971,
       "word": "3份报告里的9个民生新改善",
       "onboard_time": 1678102286,
       "rank": 9,
@@ -12770,6 +12850,9 @@
     },
     {
       "word": "#习近平看望政协委员#"
+    },
+    {
+      "word": "#习近平向全国各族各界妇女致以节日祝贺#"
     }
   ]
 }
