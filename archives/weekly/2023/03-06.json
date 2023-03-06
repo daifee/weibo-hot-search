@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678095281806,
+  "endTime": 1678098092619,
   "band_list": [
     {
       "raw_hot": 3357688,
@@ -43,6 +43,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 2015539,
+      "num": 964960,
+      "word": "脱下了孔乙己的长衫",
+      "onboard_time": 1678093946,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1808573,
       "num": 323486,
       "word": "Jennie脸部受伤后现身机场",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1683745,
-      "num": 714219,
+      "num": 857826,
       "word": "赵丽颖 花少5",
       "onboard_time": 1678092927,
       "rank": 3,
@@ -88,6 +96,14 @@
       "word": "甲流阳性率在继续上升",
       "onboard_time": 1678067725,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1414452,
+      "num": 1414452,
+      "word": "台湾或面临史上最久缺蛋荒",
+      "onboard_time": 1678096227,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 1161135,
-      "num": 364842,
+      "num": 471365,
       "word": "SNH48退团成员违约金名单",
       "onboard_time": 1678091365,
       "rank": 11,
@@ -153,14 +169,6 @@
       "onboard_time": 1678076789,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 964960,
-      "num": 964960,
-      "word": "脱下了孔乙己的长衫",
-      "onboard_time": 1678093946,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 928704,
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 815154,
+      "num": 815154,
+      "word": "薛之谦 门票",
+      "onboard_time": 1678095386,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 814319,
       "num": 610333,
       "word": "棣爸油炸偶遇钟楚曦刘学义拍戏",
@@ -217,6 +233,14 @@
       "onboard_time": 1678089086,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 773132,
+      "num": 773132,
+      "word": "代表称要警惕考研高考化趋势",
+      "onboard_time": 1678093647,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 755853,
@@ -339,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564199,
+      "num": 564199,
+      "word": "多地中小学实行教师退出机制",
+      "onboard_time": 1678095567,
+      "rank": 7,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 543968,
       "num": 543968,
       "word": "出门不背包有多爽",
@@ -379,8 +411,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 487591,
+      "num": 487591,
+      "word": "好心夫妇给烧伤男童送50万现金",
+      "onboard_time": 1678093525,
+      "rank": 23,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 486335,
-      "num": 349722,
+      "num": 468594,
       "word": "宋佳穿的是裙还是裤",
       "onboard_time": 1678094249,
       "rank": 28,
@@ -531,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365241,
-      "num": 365241,
-      "word": "代表称要警惕考研高考化趋势",
-      "onboard_time": 1678093647,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364601,
       "num": 364601,
       "word": "鳄鱼莱莱确认引进",
@@ -577,14 +609,6 @@
       "onboard_time": 1678024829,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359672,
-      "num": 359672,
-      "word": "好心夫妇给烧伤男童送50万现金",
-      "onboard_time": 1678093525,
-      "rank": 23,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 350475,
@@ -640,6 +664,14 @@
       "word": "8旬爷爷凌晨5点炒花生赚钱救病孙",
       "onboard_time": 1678081105,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332090,
+      "num": 332090,
+      "word": "甲流与新冠叠加感染的概率低",
+      "onboard_time": 1678076789,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -715,12 +747,36 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 258074,
+      "num": 258074,
+      "word": "华为称仍将加大手机业务的投入",
+      "onboard_time": 1678095206,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 250237,
+      "num": 250237,
+      "word": "杨洋白衬衫",
+      "onboard_time": 1678094067,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 247030,
       "num": 183041,
       "word": "来自时代少年团的郭俊辰",
       "onboard_time": 1678028309,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247013,
+      "num": 247013,
+      "word": "御怨般若典藏皮肤",
+      "onboard_time": 1678095266,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 242314,
@@ -745,14 +801,6 @@
       "onboard_time": 1678061006,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238578,
-      "num": 238578,
-      "word": "杨洋白衬衫",
-      "onboard_time": 1678094067,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 236865,
@@ -795,12 +843,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227533,
+      "num": 227533,
+      "word": "重庆一公司妇女节女员工放假6天",
+      "onboard_time": 1678096406,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222942,
       "num": 222942,
       "word": "谭松韵蜀锦人家组讯",
       "onboard_time": 1678079007,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221482,
+      "num": 221482,
+      "word": "为什么感觉这波甲流这么厉害",
+      "onboard_time": 1678094487,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219221,
@@ -825,6 +889,14 @@
       "onboard_time": 1678080147,
       "rank": 31,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 214524,
+      "num": 214524,
+      "word": "张语格 退团",
+      "onboard_time": 1678097968,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 212759,
@@ -1027,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193093,
+      "num": 193093,
+      "word": "爸爸带娃半年的变化",
+      "onboard_time": 1678094968,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 192991,
       "num": 192991,
       "word": "周柯宇晒收到无畏的红包",
@@ -1163,14 +1243,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 170975,
-      "num": 159772,
-      "word": "为什么感觉这波甲流这么厉害",
-      "onboard_time": 1678094487,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170702,
       "num": 170702,
       "word": "今日说法",
@@ -1195,6 +1267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 168516,
+      "num": 168516,
+      "word": "阿Sa巴黎喝咖啡随拍",
+      "onboard_time": 1678097608,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167814,
       "num": 167814,
       "word": "魅族20",
@@ -1217,6 +1297,14 @@
       "onboard_time": 1678081406,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 165493,
+      "num": 165493,
+      "word": "东北连熊猫也会整活",
+      "onboard_time": 1678094847,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 165061,
@@ -1257,14 +1345,6 @@
       "onboard_time": 1678075346,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 159560,
-      "num": 159560,
-      "word": "御怨般若典藏皮肤",
-      "onboard_time": 1678095266,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 159098,
@@ -1339,14 +1419,6 @@
       "category": "影视,社会新闻"
     },
     {
-      "raw_hot": 141807,
-      "num": 141807,
-      "word": "东北连熊猫也会整活",
-      "onboard_time": 1678094847,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139358,
       "num": 139358,
       "word": "75岁老人中风好友发现步数为0报警",
@@ -1363,12 +1435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137792,
+      "num": 137792,
+      "word": "华为称拆分消费者业务为假消息",
+      "onboard_time": 1678097006,
+      "rank": 36,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 130569,
       "num": 130569,
       "word": "宋茜舞台",
       "onboard_time": 1678021774,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128966,
+      "num": 128966,
+      "word": "玄商的辞职信",
+      "onboard_time": 1678096467,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 128071,
@@ -1507,6 +1595,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 113192,
+      "num": 113192,
+      "word": "原来AI眼里的未来法治中国是这样",
+      "onboard_time": 1678096106,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 111679,
       "num": 111679,
       "word": "女孩如何迈好青春第一步",
@@ -1572,7 +1668,7 @@
     },
     {
       "raw_hot": 103861,
-      "num": 733205,
+      "num": 863765,
       "word": "经济学家建言中国式现代化",
       "onboard_time": 1678091064,
       "rank": 2,
@@ -1593,22 +1689,6 @@
       "onboard_time": 1678088366,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 103222,
-      "num": 103222,
-      "word": "爸爸带娃半年的变化",
-      "onboard_time": 1678094968,
-      "rank": 43,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 102626,
-      "num": 102626,
-      "word": "华为称仍将加大手机业务的投入",
-      "onboard_time": 1678095206,
-      "rank": 44,
-      "category": "科技"
     },
     {
       "raw_hot": 99167,
@@ -1723,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78262,
+      "num": 78262,
+      "word": "一代人终将老去 但总有人正年轻",
+      "onboard_time": 1678098027,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 75018,
       "num": 75018,
       "word": "陈卓璇唱支山歌给党听",
@@ -1820,7 +1908,7 @@
     },
     {
       "raw_hot": 25802,
-      "num": 366188,
+      "num": 471613,
       "word": "开局之年的新机遇新挑战",
       "onboard_time": 1678089387,
       "rank": 9,
