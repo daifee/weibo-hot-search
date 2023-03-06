@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678099094443,
+  "endTime": 1678101414762,
   "band_list": [
     {
       "raw_hot": 3357688,
@@ -27,6 +27,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2124485,
+      "num": 2124485,
+      "word": "台湾或面临史上最久缺蛋荒",
+      "onboard_time": 1678096227,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2046793,
       "num": 379412,
       "word": "一本院校招聘会现多家酒店招洗碗工",
@@ -49,14 +57,6 @@
       "onboard_time": 1678093946,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1908733,
-      "num": 1908733,
-      "word": "台湾或面临史上最久缺蛋荒",
-      "onboard_time": 1678096227,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1808573,
@@ -139,6 +139,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1175409,
+      "num": 393999,
+      "word": "张语格 退团",
+      "onboard_time": 1678097968,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1161135,
       "num": 471365,
       "word": "SNH48退团成员违约金名单",
@@ -171,12 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 929818,
-      "num": 337433,
-      "word": "张语格 退团",
-      "onboard_time": 1678097968,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 975137,
+      "num": 975137,
+      "word": "多地中小学实行教师退出机制",
+      "onboard_time": 1678095567,
+      "rank": 7,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 928704,
@@ -209,6 +217,14 @@
       "onboard_time": 1678082246,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857792,
+      "num": 388471,
+      "word": "台湾是中国的一部分没有什么国防部长",
+      "onboard_time": 1678099587,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 849973,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 786941,
-      "num": 360725,
+      "num": 371663,
       "word": "金智秀 solo出道",
       "onboard_time": 1678089086,
       "rank": 11,
@@ -265,14 +281,6 @@
       "onboard_time": 1678074808,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 700437,
-      "num": 700437,
-      "word": "多地中小学实行教师退出机制",
-      "onboard_time": 1678095567,
-      "rank": 7,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 694462,
@@ -376,6 +384,14 @@
       "word": "义乌一商场大屏现巨幅丫丫海报",
       "onboard_time": 1678084226,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548302,
+      "num": 548302,
+      "word": "重庆一公司妇女节女员工放假6天",
+      "onboard_time": 1678096406,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -523,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405946,
+      "num": 405946,
+      "word": "虞书欣的一滴泪",
+      "onboard_time": 1678098388,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 400461,
       "num": 336504,
       "word": "猪妈妈身上是有些暴脾气的",
@@ -635,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348502,
+      "num": 348502,
+      "word": "为什么感觉这波甲流这么厉害",
+      "onboard_time": 1678094487,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347821,
       "num": 183551,
       "word": "福菀被游客泼水后躲在角落里",
@@ -656,14 +688,6 @@
       "word": "网友前往孟菲斯动物园看望丫丫",
       "onboard_time": 1678077152,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338978,
-      "num": 338978,
-      "word": "重庆一公司妇女节女员工放假6天",
-      "onboard_time": 1678096406,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -715,6 +739,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 308082,
+      "num": 308082,
+      "word": "周杰伦上台前也会紧张",
+      "onboard_time": 1678099227,
+      "rank": 16,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 302047,
       "num": 302047,
       "word": "Kakao或将与HYBE合作",
@@ -729,14 +761,6 @@
       "onboard_time": 1678090525,
       "rank": 37,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 294031,
-      "num": 294031,
-      "word": "为什么感觉这波甲流这么厉害",
-      "onboard_time": 1678094487,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289313,
@@ -827,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236929,
+      "num": 236929,
+      "word": "陈星旭的漫画手",
+      "onboard_time": 1678099227,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236865,
       "num": 200997,
       "word": "罕见无毛兔询价5万主人不卖",
@@ -849,14 +881,6 @@
       "onboard_time": 1678078589,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229943,
-      "num": 229943,
-      "word": "虞书欣的一滴泪",
-      "onboard_time": 1678098388,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 229791,
@@ -955,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208986,
+      "num": 208986,
+      "word": "宋妍霏15秒摆了33个pose",
+      "onboard_time": 1678098805,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207840,
       "num": 207840,
       "word": "何超莲薛凯琪加盟奇妙之城2",
@@ -985,6 +1017,14 @@
       "onboard_time": 1678088787,
       "rank": 18,
       "category": "综艺,社会新闻"
+    },
+    {
+      "raw_hot": 206588,
+      "num": 206588,
+      "word": "科学家发现黑洞旁诞生一颗恒星",
+      "onboard_time": 1678100366,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 205677,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1678026630,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196553,
+      "num": 196553,
+      "word": "重紫",
+      "onboard_time": 1678100726,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 195923,
@@ -1203,12 +1251,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181321,
-      "num": 181321,
-      "word": "宋妍霏15秒摆了33个pose",
-      "onboard_time": 1678098805,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 182110,
+      "num": 182110,
+      "word": "一代人终将老去 但总有人正年轻",
+      "onboard_time": 1678098027,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 180884,
@@ -1451,6 +1499,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 142380,
+      "num": 142380,
+      "word": "亚航被曝行李超重5公斤收1807元托运费",
+      "onboard_time": 1678101206,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139358,
       "num": 139358,
       "word": "75岁老人中风好友发现步数为0报警",
@@ -1472,14 +1528,6 @@
       "word": "宋茜舞台",
       "onboard_time": 1678021774,
       "rank": 19,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 130531,
-      "num": 130531,
-      "word": "一代人终将老去 但总有人正年轻",
-      "onboard_time": 1678098027,
-      "rank": 49,
       "category": "音乐"
     },
     {
@@ -1943,6 +1991,14 @@
       "num": 1371069,
       "word": "政府工作报告里的民生红包",
       "onboard_time": 1678003346,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 6752,
+      "num": 866776,
+      "word": "全国两会时光",
+      "onboard_time": 1677904947,
       "rank": 2,
       "category": "国内要闻"
     }
