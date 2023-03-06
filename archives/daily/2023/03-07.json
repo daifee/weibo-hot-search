@@ -1,10 +1,10 @@
 {
   "startTime": 1678120040193,
-  "endTime": 1678120040193,
+  "endTime": 1678121094190,
   "band_list": [
     {
       "raw_hot": 1285993,
-      "num": 273936,
+      "num": 276333,
       "word": "刘亦菲李惠仁谷爱凌同框",
       "onboard_time": 1678115009,
       "rank": 10,
@@ -43,7 +43,7 @@
       "category": "影视,艺人"
     },
     {
-      "raw_hot": 450574,
+      "raw_hot": 508558,
       "num": 450574,
       "word": "这是真的水泥封心了",
       "onboard_time": 1678116988,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 387367,
-      "num": 273795,
+      "num": 275795,
       "word": "谷爱凌晒巴黎生活plog",
       "onboard_time": 1678116687,
       "rank": 11,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 276726,
+      "num": 276726,
+      "word": "拜仁vs巴黎",
+      "onboard_time": 1678118365,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 275952,
@@ -91,20 +99,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 271361,
-      "num": 271361,
-      "word": "拜仁vs巴黎",
-      "onboard_time": 1678118365,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265549,
       "num": 265549,
       "word": "酒店1场会议43瓶水未喝完被罚",
       "onboard_time": 1678108348,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264461,
+      "num": 264461,
+      "word": "一一牛杂火锅店吃出老鼠被立案调查",
+      "onboard_time": 1678119743,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235213,
+      "num": 235213,
+      "word": "摸鱼的时候有活干了",
+      "onboard_time": 1678117706,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 233531,
@@ -115,16 +131,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223893,
-      "num": 223893,
-      "word": "摸鱼的时候有活干了",
-      "onboard_time": 1678117706,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 223604,
-      "num": 223604,
+      "raw_hot": 232630,
+      "num": 232630,
       "word": "外墙面层均计入建筑面积",
       "onboard_time": 1678117165,
       "rank": 17,
@@ -161,6 +169,14 @@
       "onboard_time": 1678089086,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173607,
+      "num": 173607,
+      "word": "张颂文定妆旧照",
+      "onboard_time": 1678120040,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 171776,
@@ -267,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89979,
+      "num": 249521,
+      "word": "建议在学校体育教育里加入游泳课程",
+      "onboard_time": 1678118424,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88607,
       "num": 88607,
       "word": "虞书欣的一滴泪",
@@ -339,14 +363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 69337,
-      "num": 249521,
-      "word": "建议在学校体育教育里加入游泳课程",
-      "onboard_time": 1678118424,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68792,
       "num": 68792,
       "word": "重庆一公司妇女节女员工放假6天",
@@ -361,14 +377,6 @@
       "onboard_time": 1678103307,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 64280,
-      "num": 64280,
-      "word": "一一牛杂火锅店吃出老鼠被立案调查",
-      "onboard_time": 1678119743,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60264,
@@ -395,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 52565,
+      "num": 52565,
+      "word": "明日方舟",
+      "onboard_time": 1678120939,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 37221,
       "num": 548705,
       "word": "两会好声音",
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#牢牢把握高质量发展这个首要任务#"
+    },
+    {
+      "word": "#习近平看望政协委员#"
     }
   ]
 }

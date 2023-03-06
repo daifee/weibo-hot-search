@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678120040193,
+  "endTime": 1678121094190,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -3523,6 +3523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 508558,
+      "num": 450574,
+      "word": "这是真的水泥封心了",
+      "onboard_time": 1678116988,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 508363,
       "num": 508363,
       "word": "毛不易 抢票",
@@ -3961,14 +3969,6 @@
       "onboard_time": 1677987865,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 450574,
-      "num": 450574,
-      "word": "这是真的水泥封心了",
-      "onboard_time": 1678116988,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 450567,
@@ -4572,7 +4572,7 @@
     },
     {
       "raw_hot": 387367,
-      "num": 273795,
+      "num": 275795,
       "word": "谷爱凌晒巴黎生活plog",
       "onboard_time": 1678116687,
       "rank": 30,
@@ -6299,6 +6299,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 276726,
+      "num": 276726,
+      "word": "拜仁vs巴黎",
+      "onboard_time": 1678118365,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276666,
       "num": 237683,
       "word": "丁程鑫出发录制你好星期六",
@@ -6427,14 +6435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 271361,
-      "num": 271361,
-      "word": "拜仁vs巴黎",
-      "onboard_time": 1678118365,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 271275,
       "num": 271275,
       "word": "甲流患者需服用抗病毒药物吗",
@@ -6561,6 +6561,14 @@
       "onboard_time": 1677894504,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264461,
+      "num": 264461,
+      "word": "一一牛杂火锅店吃出老鼠被立案调查",
+      "onboard_time": 1678119743,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264411,
@@ -7131,6 +7139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235213,
+      "num": 235213,
+      "word": "摸鱼的时候有活干了",
+      "onboard_time": 1678117706,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234826,
       "num": 234826,
       "word": "张杰未live巡回演唱会首站官宣",
@@ -7161,6 +7177,14 @@
       "onboard_time": 1678060645,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232630,
+      "num": 232630,
+      "word": "外墙面层均计入建筑面积",
+      "onboard_time": 1678117165,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232394,
@@ -7417,22 +7441,6 @@
       "onboard_time": 1677940349,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223893,
-      "num": 223893,
-      "word": "摸鱼的时候有活干了",
-      "onboard_time": 1678117706,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 223604,
-      "num": 223604,
-      "word": "外墙面层均计入建筑面积",
-      "onboard_time": 1678117165,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223484,
@@ -9417,6 +9425,14 @@
       "onboard_time": 1677948082,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 173607,
+      "num": 173607,
+      "word": "张颂文定妆旧照",
+      "onboard_time": 1678120040,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 173491,
@@ -12051,6 +12067,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 89979,
+      "num": 249521,
+      "word": "建议在学校体育教育里加入游泳课程",
+      "onboard_time": 1678118424,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89658,
       "num": 89658,
       "word": "周杰伦天津演唱会票价",
@@ -12443,14 +12467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69337,
-      "num": 249521,
-      "word": "建议在学校体育教育里加入游泳课程",
-      "onboard_time": 1678118424,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69173,
       "num": 69173,
       "word": "这就是鼓励式教育的意义吧",
@@ -12513,14 +12529,6 @@
       "onboard_time": 1677885738,
       "rank": 31,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 64280,
-      "num": 64280,
-      "word": "一一牛杂火锅店吃出老鼠被立案调查",
-      "onboard_time": 1678119743,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62793,
