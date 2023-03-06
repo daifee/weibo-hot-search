@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678091159030,
+  "endTime": 1678092007338,
   "band_list": [
     {
       "raw_hot": 3357688,
@@ -163,8 +163,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 835209,
+      "num": 248470,
+      "word": "SNH48退团成员违约金名单",
+      "onboard_time": 1678091365,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 814319,
-      "num": 525141,
+      "num": 610333,
       "word": "棣爸油炸偶遇钟楚曦刘学义拍戏",
       "onboard_time": 1678086986,
       "rank": 30,
@@ -251,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 620254,
+      "num": 620254,
+      "word": "建议增设中小学生春秋假",
+      "onboard_time": 1678087767,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 614352,
       "num": 614352,
       "word": "专家呼吁每天省杯咖啡提前规划养老",
@@ -288,14 +304,6 @@
       "word": "义乌一商场大屏现巨幅丫丫海报",
       "onboard_time": 1678084226,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 556003,
-      "num": 556003,
-      "word": "建议增设中小学生春秋假",
-      "onboard_time": 1678087767,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473014,
+      "num": 473014,
+      "word": "第一次见消防员社死",
+      "onboard_time": 1678088546,
+      "rank": 13,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 442728,
       "num": 247081,
       "word": "欠债男子被法官堵在孩子周岁宴上",
@@ -393,14 +409,6 @@
       "onboard_time": 1678084827,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 428970,
-      "num": 249798,
-      "word": "第一次见消防员社死",
-      "onboard_time": 1678088546,
-      "rank": 13,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 423006,
@@ -697,6 +705,14 @@
       "onboard_time": 1678079007,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219789,
+      "num": 219789,
+      "word": "财神殿前游客排长队姻缘殿无人问津",
+      "onboard_time": 1678090525,
+      "rank": 37,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 219221,
@@ -1043,6 +1059,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 171412,
+      "num": 171412,
+      "word": "感动中国淘宝店主7成员工是残疾人",
+      "onboard_time": 1678090884,
+      "rank": 45,
+      "category": "社会正能量,科技"
+    },
+    {
       "raw_hot": 170702,
       "num": 170702,
       "word": "今日说法",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1678059684,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169159,
+      "num": 169159,
+      "word": "熊猫丫丫已被多方抢注商标",
+      "onboard_time": 1678091365,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 168667,
@@ -1075,12 +1107,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 167362,
+      "num": 167362,
+      "word": "宋妍霏于朦胧新浪扫楼",
+      "onboard_time": 1678091187,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167044,
       "num": 167044,
       "word": "hello hello 我们是刺猬",
       "onboard_time": 1678081406,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164307,
+      "num": 164307,
+      "word": "雷军建议强化智能汽车数据安全",
+      "onboard_time": 1678090947,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162090,
@@ -1131,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154849,
+      "num": 154849,
+      "word": "星落凝成糖伏笔",
+      "onboard_time": 1678090346,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153697,
       "num": 153697,
       "word": "玄商美强惨",
@@ -1144,14 +1200,6 @@
       "word": "心想事成央八定档",
       "onboard_time": 1678074026,
       "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 148682,
-      "num": 148682,
-      "word": "星落凝成糖伏笔",
-      "onboard_time": 1678090346,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -1185,14 +1233,6 @@
       "onboard_time": 1678072047,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137625,
-      "num": 137625,
-      "word": "财神殿前游客排长队姻缘殿无人问津",
-      "onboard_time": 1678090525,
-      "rank": 37,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 130569,
@@ -1323,14 +1363,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 113846,
-      "num": 113846,
-      "word": "雷军建议强化智能汽车数据安全",
-      "onboard_time": 1678090947,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111679,
       "num": 111679,
       "word": "女孩如何迈好青春第一步",
@@ -1387,14 +1419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106314,
-      "num": 106314,
-      "word": "感动中国淘宝店主7成员工是残疾人",
-      "onboard_time": 1678090884,
-      "rank": 45,
-      "category": "社会正能量,科技"
-    },
-    {
       "raw_hot": 105358,
       "num": 105358,
       "word": "熊猫献艺让游客直呼值回票价",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1678088366,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99167,
+      "num": 99167,
+      "word": "嘲风叫少典有琴老五的原因",
+      "onboard_time": 1678088366,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 98232,
@@ -1571,6 +1603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 62793,
+      "num": 245231,
+      "word": "百亿补贴全面上线",
+      "onboard_time": 1678090107,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 51151,
       "num": 51151,
       "word": "两会",
@@ -1579,12 +1619,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 46245,
-      "num": 245231,
-      "word": "百亿补贴全面上线",
-      "onboard_time": 1678090107,
-      "rank": 14,
-      "category": "科技"
+      "raw_hot": 48101,
+      "num": 610666,
+      "word": "经济学家建言中国式现代化",
+      "onboard_time": 1678091064,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 45406,
@@ -1625,14 +1665,6 @@
       "onboard_time": 1678003346,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 7680,
-      "num": 526142,
-      "word": "经济学家建言中国式现代化",
-      "onboard_time": 1678091064,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
@@ -1644,6 +1676,9 @@
     },
     {
       "word": "#习近平的两会时间#"
+    },
+    {
+      "word": "#习近平看望全国政协委员#"
     }
   ]
 }
