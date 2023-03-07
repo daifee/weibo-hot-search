@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678166329142,
+  "endTime": 1678167298992,
   "band_list": [
     {
       "raw_hot": 3357688,
@@ -491,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 668378,
+      "num": 466984,
+      "word": "在京海大学上学",
+      "onboard_time": 1678164687,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 667025,
       "num": 387872,
       "word": "现在打甲流疫苗还来得及吗",
@@ -545,14 +553,6 @@
       "onboard_time": 1678037836,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 642626,
-      "num": 263562,
-      "word": "在京海大学上学",
-      "onboard_time": 1678164687,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 638217,
@@ -883,6 +883,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 462372,
+      "num": 462372,
+      "word": "99年男生用家务机器人做保洁",
+      "onboard_time": 1678165827,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459694,
       "num": 201017,
       "word": "动物园更新丫丫最新视频",
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412156,
+      "num": 261095,
+      "word": "郭敬明减肥训练营",
+      "onboard_time": 1678166367,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 408002,
       "num": 408002,
       "word": "光遇",
@@ -1059,6 +1075,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 385117,
+      "num": 260572,
+      "word": "网友为丫丫重金买纽约时代广场投屏",
+      "onboard_time": 1678166845,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383991,
       "num": 315793,
       "word": "TWICE全员素颜造型",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1678029328,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 376589,
+      "num": 260009,
+      "word": "吴磊赵今麦撒娇路透",
+      "onboard_time": 1678166245,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 368959,
@@ -1217,6 +1249,14 @@
       "onboard_time": 1678069166,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342809,
+      "num": 342809,
+      "word": "LOFTER再回应头像生成器争议",
+      "onboard_time": 1678162886,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 340257,
@@ -1419,14 +1459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 277994,
-      "num": 277994,
-      "word": "LOFTER再回应头像生成器争议",
-      "onboard_time": 1678162886,
-      "rank": 46,
-      "category": "科技"
-    },
-    {
       "raw_hot": 276726,
       "num": 276726,
       "word": "拜仁vs巴黎",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1678115307,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 269498,
+      "num": 221691,
+      "word": "邓超杜海涛交流减肥经验",
+      "onboard_time": 1678164567,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 268952,
@@ -1548,7 +1588,7 @@
     },
     {
       "raw_hot": 244768,
-      "num": 216780,
+      "num": 219172,
       "word": "别拿我的爱好挑战你的专业",
       "onboard_time": 1678163248,
       "rank": 37,
@@ -1601,14 +1641,6 @@
       "onboard_time": 1678028130,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236697,
-      "num": 236697,
-      "word": "吴磊赵今麦撒娇路透",
-      "onboard_time": 1678166245,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 235213,
@@ -1715,28 +1747,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216641,
-      "num": 216641,
-      "word": "99年男生用家务机器人做保洁",
-      "onboard_time": 1678165827,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216599,
       "num": 216599,
       "word": "李现时装封面手臂线条",
       "onboard_time": 1678080147,
       "rank": 31,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 213112,
-      "num": 213112,
-      "word": "邓超杜海涛交流减肥经验",
-      "onboard_time": 1678164567,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 212759,
@@ -1753,6 +1769,14 @@
       "onboard_time": 1678057760,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211325,
+      "num": 211325,
+      "word": "华晨宇火星演唱会一票看双场",
+      "onboard_time": 1678167146,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 209629,
@@ -2611,6 +2635,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 140189,
+      "num": 140189,
+      "word": "外交部长向广大青年提出几点希望",
+      "onboard_time": 1678166306,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139358,
       "num": 139358,
       "word": "75岁老人中风好友发现步数为0报警",
@@ -2819,6 +2851,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 115713,
+      "num": 115713,
+      "word": "TAPTAP被指上架涉嫌抄袭游戏",
+      "onboard_time": 1678166965,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115474,
       "num": 115474,
       "word": "大学生玩捉迷藏是认真的",
@@ -2987,6 +3027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104177,
+      "num": 104177,
+      "word": "政府工作报告里年轻人关心的事",
+      "onboard_time": 1678166547,
+      "rank": 42,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 103924,
       "num": 103924,
       "word": "外交部长秦刚谈乌克兰危机",
@@ -3083,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97446,
+      "num": 97446,
+      "word": "最后生还者第八集",
+      "onboard_time": 1678166845,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 95516,
       "num": 95516,
       "word": "电竞选手为杭州亚运会助威",
@@ -3131,14 +3187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93647,
-      "num": 93647,
-      "word": "外交部长向广大青年提出几点希望",
-      "onboard_time": 1678166306,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90641,
       "num": 90641,
       "word": "男团下岗再就业",
@@ -3169,6 +3217,14 @@
       "onboard_time": 1678032803,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 87070,
+      "num": 87070,
+      "word": "国家线",
+      "onboard_time": 1678167205,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 85200,
