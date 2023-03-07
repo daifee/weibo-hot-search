@@ -1,6 +1,6 @@
 {
   "startTime": 1678120040193,
-  "endTime": 1678170318561,
+  "endTime": 1678171210772,
   "band_list": [
     {
       "raw_hot": 1991579,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658758,
+      "num": 213513,
+      "word": "A股",
+      "onboard_time": 1678170267,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 649692,
       "num": 510638,
       "word": "骆歆发文祝福记得",
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454406,
+      "num": 454406,
+      "word": "得了甲流就得吃抗病毒药吗",
+      "onboard_time": 1678168166,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444947,
       "num": 444947,
       "word": "90后代表称大学生也可以回农村",
@@ -419,14 +435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 395451,
-      "num": 395451,
-      "word": "得了甲流就得吃抗病毒药吗",
-      "onboard_time": 1678168166,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392380,
       "num": 392380,
       "word": "美媒称中国起重机有间谍作用",
@@ -457,6 +465,14 @@
       "onboard_time": 1678166245,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 374044,
+      "num": 218294,
+      "word": "海关查获霍格沃茨之遗等光盘800张",
+      "onboard_time": 1678168768,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 368339,
@@ -529,14 +545,6 @@
       "onboard_time": 1678150646,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295187,
-      "num": 218294,
-      "word": "海关查获霍格沃茨之遗等光盘800张",
-      "onboard_time": 1678168768,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 292829,
@@ -731,6 +739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205247,
+      "num": 205247,
+      "word": "建议降低教育水平在积分落户中的比例",
+      "onboard_time": 1678169308,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 202948,
       "num": 202948,
       "word": "第五人格",
@@ -753,14 +769,6 @@
       "onboard_time": 1678115307,
       "rank": 18,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 200134,
-      "num": 200134,
-      "word": "A股",
-      "onboard_time": 1678170267,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 200008,
@@ -947,6 +955,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 156246,
+      "num": 156246,
+      "word": "这就是面若桃花吧",
+      "onboard_time": 1678168826,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154946,
       "num": 154946,
       "word": "贝儿碎碎念名场面",
@@ -987,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144147,
+      "num": 144147,
+      "word": "这班上的还是保守了",
+      "onboard_time": 1678170147,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143679,
       "num": 120017,
       "word": "网友为YG新女团取名",
@@ -1009,22 +1033,6 @@
       "onboard_time": 1678161265,
       "rank": 43,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 140795,
-      "num": 140795,
-      "word": "建议降低教育水平在积分落户中的比例",
-      "onboard_time": 1678169308,
-      "rank": 32,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 139107,
-      "num": 139107,
-      "word": "这就是面若桃花吧",
-      "onboard_time": 1678168826,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 136512,
@@ -1131,6 +1139,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 111367,
+      "num": 111367,
+      "word": "建议中国企业要敢于在国际上出题",
+      "onboard_time": 1678170804,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110910,
       "num": 110910,
       "word": "3辆过路车一起靠边停车救人太帅了",
@@ -1139,12 +1155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110622,
+      "num": 110622,
+      "word": "亚运会最值得期待的中国选手",
+      "onboard_time": 1678169848,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109430,
       "num": 109430,
       "word": "明星巴黎时装周生图",
       "onboard_time": 1678155804,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 108527,
+      "num": 108527,
+      "word": "名侦探学院",
+      "onboard_time": 1678167748,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 106392,
@@ -1179,14 +1211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103354,
-      "num": 103354,
-      "word": "名侦探学院",
-      "onboard_time": 1678167748,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102586,
       "num": 102586,
       "word": "致敬了不起的她",
@@ -1203,12 +1227,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 98307,
-      "num": 98307,
-      "word": "亚运会最值得期待的中国选手",
-      "onboard_time": 1678169848,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 99975,
+      "num": 662725,
+      "word": "人大会议第二次全体会议",
+      "onboard_time": 1678170627,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 97624,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1678106066,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 94084,
+      "num": 94084,
+      "word": "武警脱作训服做绳子冰河救人",
+      "onboard_time": 1678170926,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91552,
@@ -1315,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77052,
+      "num": 77052,
+      "word": "女子每天通勤5小时月花费6000元",
+      "onboard_time": 1678171165,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76696,
       "num": 76696,
       "word": "亚航被曝行李超重5公斤收1807元托运费",
@@ -1323,16 +1363,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75693,
-      "num": 75693,
-      "word": "这班上的还是保守了",
-      "onboard_time": 1678170147,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 74770,
-      "num": 849706,
+      "num": 888863,
       "word": "两会数说中国",
       "onboard_time": 1678161026,
       "rank": 2,
