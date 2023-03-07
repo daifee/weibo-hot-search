@@ -1,0 +1,410 @@
+{
+  "runTime": 1678184515187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1575377,
+        "num": 1575377,
+        "word": "不再保留中国银行保险监督管理委员会",
+        "onboard_time": 1678180648,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3060110,
+        "num": 1572340,
+        "word": "人民网评鸡你太美是恶俗烂梗",
+        "onboard_time": 1678176747,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115609,
+        "num": 1477934,
+        "word": "政府工作报告里年轻人关心的事",
+        "onboard_time": 1678166547,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1464791,
+        "num": 1464791,
+        "word": "精减中央国家机关人员编制",
+        "onboard_time": 1678179808,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 671416,
+        "num": 671416,
+        "word": "按5%比例精减中央国家机关编制",
+        "onboard_time": 1678182930,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 579126,
+        "num": 579126,
+        "word": "不再保留中国人民银行县市支行",
+        "onboard_time": 1678183109,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 534216,
+        "num": 534216,
+        "word": "鸡你太美商标无一注册成功",
+        "onboard_time": 1678182449,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427328,
+        "num": 427328,
+        "word": "国务院机构改革",
+        "onboard_time": 1678180888,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 374385,
+        "num": 374385,
+        "word": "工地食堂因饭菜实惠成大学生打卡点",
+        "onboard_time": 1678176264,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 372485,
+        "num": 372485,
+        "word": "国家线",
+        "onboard_time": 1678167205,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1891362,
+        "num": 372256,
+        "word": "香港名媛碎尸案第7人落网",
+        "onboard_time": 1678181125,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 792111,
+        "num": 371916,
+        "word": "女子拒绝调岗被强制离职踢出群聊",
+        "onboard_time": 1678178907,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420200,
+        "num": 371339,
+        "word": "谷爱凌李惠仁年龄相加是刘亦菲的年龄",
+        "onboard_time": 1678179869,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370746,
+        "num": 370746,
+        "word": "暂不能确认丫丫何时和公众见面",
+        "onboard_time": 1678177828,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335269,
+        "num": 335269,
+        "word": "李一桐扔捧花",
+        "onboard_time": 1678180107,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317475,
+        "num": 317475,
+        "word": "EDG对战WBG",
+        "onboard_time": 1678181970,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278076,
+        "num": 278076,
+        "word": "港媒曝林允离开周星驰公司",
+        "onboard_time": 1678167324,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266893,
+        "num": 266893,
+        "word": "关于国务院机构改革方案的说明",
+        "onboard_time": 1678172367,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 254369,
+        "num": 254369,
+        "word": "TVB直播网友建议讲粤语",
+        "onboard_time": 1678180107,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253078,
+        "num": 253078,
+        "word": "郁金香",
+        "onboard_time": 1678183408,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357079,
+        "num": 253075,
+        "word": "女子每天通勤5小时月花费6000元",
+        "onboard_time": 1678171165,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250131,
+        "num": 250131,
+        "word": "基地回应大熊猫福菀被游客泼水",
+        "onboard_time": 1678172065,
+        "rank": 21,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 235881,
+        "num": 235881,
+        "word": "建议父母满65岁给子女陪护假",
+        "onboard_time": 1678182870,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228609,
+        "num": 228609,
+        "word": "花海从被保护到也能保护别人",
+        "onboard_time": 1678183469,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226511,
+        "num": 226511,
+        "word": "男子疑因抽烟错过高铁不停拍车门",
+        "onboard_time": 1678179329,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223873,
+        "num": 223873,
+        "word": "大侦探第七案侦探是吴昕",
+        "onboard_time": 1678184190,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216191,
+        "num": 216191,
+        "word": "董洁说养孩子就像放风筝",
+        "onboard_time": 1678178967,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205522,
+        "num": 205522,
+        "word": "组建国家数据局",
+        "onboard_time": 1678180950,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 200222,
+        "num": 200222,
+        "word": "张钧甯巴黎看秀造型",
+        "onboard_time": 1678183231,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190067,
+        "num": 190067,
+        "word": "亚洲各国积极备战杭州亚运会",
+        "onboard_time": 1678180227,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 261340,
+        "num": 189721,
+        "word": "40岁的985硕士求职被怼不招大妈",
+        "onboard_time": 1678183950,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187229,
+        "num": 187229,
+        "word": "妍珍呐",
+        "onboard_time": 1678174587,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174914,
+        "num": 174914,
+        "word": "欢瑞世纪创始人再被冻结千万股权",
+        "onboard_time": 1678177227,
+        "rank": 32,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 171098,
+        "num": 171098,
+        "word": "把寝室四个军师干懵了",
+        "onboard_time": 1678176564,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145811,
+        "num": 145811,
+        "word": "导师修改的摘要和你的正文",
+        "onboard_time": 1678173626,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129216,
+        "num": 129216,
+        "word": "警方搜查刘亚仁住所",
+        "onboard_time": 1678177828,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 121961,
+        "num": 121961,
+        "word": "职场上不喜欢社交该怎么办",
+        "onboard_time": 1678179148,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120513,
+        "num": 120513,
+        "word": "郭敬明减肥训练营",
+        "onboard_time": 1678166367,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110859,
+        "num": 110859,
+        "word": "59岁自驾阿姨穿上了属于自己的婚纱",
+        "onboard_time": 1678175606,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109409,
+        "num": 109409,
+        "word": "专家称打HPV疫苗不必纠结几价",
+        "onboard_time": 1678161447,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109251,
+        "num": 109251,
+        "word": "得了甲流就得吃抗病毒药吗",
+        "onboard_time": 1678168166,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107999,
+        "num": 107999,
+        "word": "重新组建科学技术部",
+        "onboard_time": 1678180888,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 99857,
+        "num": 99857,
+        "word": "A股",
+        "onboard_time": 1678170267,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99109,
+        "num": 99109,
+        "word": "俄罗斯顶级科学家被皮带勒死家中",
+        "onboard_time": 1678162167,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 99002,
+        "num": 99002,
+        "word": "星落凝成糖编剧",
+        "onboard_time": 1678171885,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92405,
+        "num": 92405,
+        "word": "百看不厌的女性群像剧",
+        "onboard_time": 1678177405,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92328,
+        "num": 92328,
+        "word": "夜昙青葵是双生花灵",
+        "onboard_time": 1678182870,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91988,
+        "num": 91988,
+        "word": "国家线再涨就不礼貌了",
+        "onboard_time": 1678184430,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89797,
+        "num": 89797,
+        "word": "中文说唱真的走出了国门",
+        "onboard_time": 1678177645,
+        "rank": 48,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 85432,
+        "num": 85432,
+        "word": "张一山晒浴血荣光剧照",
+        "onboard_time": 1678178308,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
