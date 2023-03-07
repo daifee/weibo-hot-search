@@ -1,0 +1,410 @@
+{
+  "runTime": 1678206448826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 647925,
+        "num": 647925,
+        "word": "缉毒警嫂的电话只敢响铃5秒钟",
+        "onboard_time": 1678195768,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521858,
+        "num": 521858,
+        "word": "官方辟谣送顿顿出国",
+        "onboard_time": 1678202008,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39209,
+        "num": 399973,
+        "word": "最高法工作报告",
+        "onboard_time": 1678194147,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 322081,
+        "num": 322081,
+        "word": "不再保留中国人民银行县市支行",
+        "onboard_time": 1678183109,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 300515,
+        "num": 300515,
+        "word": "鼓楼也不知道鼓楼咋突然火了",
+        "onboard_time": 1678198046,
+        "rank": 4,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 848531,
+        "num": 300162,
+        "word": "人民网评鸡你太美是恶俗烂梗",
+        "onboard_time": 1678176747,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210668,
+        "num": 299080,
+        "word": "星落凝成糖青葵自刎下线",
+        "onboard_time": 1678196908,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157924,
+        "num": 297878,
+        "word": "精减中央国家机关人员编制",
+        "onboard_time": 1678179808,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 151701,
+        "num": 297290,
+        "word": "国家线再涨就不礼貌了",
+        "onboard_time": 1678184430,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110618,
+        "num": 296500,
+        "word": "郁金香",
+        "onboard_time": 1678183408,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1085724,
+        "num": 295711,
+        "word": "iPhone14黄色",
+        "onboard_time": 1678198709,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 339020,
+        "num": 294682,
+        "word": "妈妈以为被尼格买提关注了",
+        "onboard_time": 1678201109,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326129,
+        "num": 294001,
+        "word": "贝儿自弹自唱",
+        "onboard_time": 1678203386,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293218,
+        "num": 293218,
+        "word": "建议三孩以上家庭公租房免费",
+        "onboard_time": 1678205245,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290981,
+        "num": 290981,
+        "word": "百草味回应袋装土豆片只有1片",
+        "onboard_time": 1678196428,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258126,
+        "num": 258126,
+        "word": "景甜说张若昀唐艺昕节日都共同度过",
+        "onboard_time": 1678199068,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255773,
+        "num": 255773,
+        "word": "苗苗妹妹客串郑恺新电影",
+        "onboard_time": 1678195288,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249622,
+        "num": 249622,
+        "word": "查询陆虎张远王栎鑫精神状态",
+        "onboard_time": 1678202727,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193006,
+        "num": 193006,
+        "word": "千万要小心路边的鬼秤",
+        "onboard_time": 1678196848,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174760,
+        "num": 174760,
+        "word": "蔡依林看我72变发行20周年",
+        "onboard_time": 1678203149,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288586,
+        "num": 171748,
+        "word": "Jennie外媒生图",
+        "onboard_time": 1678198110,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 234764,
+        "num": 165319,
+        "word": "大熊猫拉完粑粑屁股蹭妈妈头上",
+        "onboard_time": 1678198291,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202358,
+        "num": 163478,
+        "word": "最磨人的慢性病",
+        "onboard_time": 1678194627,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151415,
+        "num": 151415,
+        "word": "井柏然刘雯秀场热聊",
+        "onboard_time": 1678185810,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124974,
+        "num": 124974,
+        "word": "张艺兴中分造型",
+        "onboard_time": 1678199431,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116605,
+        "num": 116605,
+        "word": "这大姨可以去说脱口秀了",
+        "onboard_time": 1678200151,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106955,
+        "num": 106955,
+        "word": "鹿晗范志毅最强足球双人组",
+        "onboard_time": 1678206202,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 789324,
+        "num": 106611,
+        "word": "老福特",
+        "onboard_time": 1678202370,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 104624,
+        "num": 104624,
+        "word": "欧阳娜娜教张大大唱歌",
+        "onboard_time": 1678201469,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101845,
+        "num": 101845,
+        "word": "建议父母满65岁给子女陪护假",
+        "onboard_time": 1678182870,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133087,
+        "num": 100383,
+        "word": "鸡你太美商标无一注册成功",
+        "onboard_time": 1678182449,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98657,
+        "num": 98657,
+        "word": "刘昊然董子健摆摊",
+        "onboard_time": 1678192948,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88136,
+        "num": 88136,
+        "word": "易烊千玺短片演汽车人",
+        "onboard_time": 1678193188,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86772,
+        "num": 86772,
+        "word": "EDG战胜WBG",
+        "onboard_time": 1678190188,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81083,
+        "num": 81083,
+        "word": "丫丫",
+        "onboard_time": 1678203328,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78661,
+        "num": 78661,
+        "word": "博主挑战天价土豆火锅被账单吓到",
+        "onboard_time": 1678188987,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74285,
+        "num": 74285,
+        "word": "黑暗荣耀2主演们的剧透",
+        "onboard_time": 1678191447,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70233,
+        "num": 70233,
+        "word": "电竞教练带队员盗卖俱乐部硬件获刑",
+        "onboard_time": 1678184850,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69621,
+        "num": 69621,
+        "word": "马来西亚光明日报报道肖战",
+        "onboard_time": 1678199970,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 68788,
+        "num": 68788,
+        "word": "玄商君失忆",
+        "onboard_time": 1678193070,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65951,
+        "num": 65951,
+        "word": "国务院机构改革",
+        "onboard_time": 1678180888,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 65886,
+        "num": 65886,
+        "word": "WBG",
+        "onboard_time": 1678193726,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60301,
+        "num": 60301,
+        "word": "故宫玉兰花开了",
+        "onboard_time": 1678190007,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 56837,
+        "num": 56837,
+        "word": "脑瘫小伙旁听12年即将博士毕业",
+        "onboard_time": 1678205843,
+        "rank": 43,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 56461,
+        "num": 56461,
+        "word": "TVB直播一秒代入港剧",
+        "onboard_time": 1678193847,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54762,
+        "num": 54762,
+        "word": "半熟恋人2鲶鱼约会",
+        "onboard_time": 1678184608,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53523,
+        "num": 53523,
+        "word": "国家线",
+        "onboard_time": 1678167205,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 47898,
+        "num": 53498,
+        "word": "院士谈流浪地球和三体中的科幻设定",
+        "onboard_time": 1678198410,
+        "rank": 47,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 42327,
+        "num": 53446,
+        "word": "不再保留中国银行保险监督管理委员会",
+        "onboard_time": 1678180648,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 41602,
+        "num": 53379,
+        "word": "迪丽热巴龚俊看代拍的反应",
+        "onboard_time": 1678184550,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记两会金句#"
+    }
+  }
+}
