@@ -1,6 +1,6 @@
 {
   "startTime": 1678206448826,
-  "endTime": 1678206448826,
+  "endTime": 1678207548540,
   "band_list": [
     {
       "raw_hot": 1085724,
@@ -25,6 +25,14 @@
       "onboard_time": 1678202370,
       "rank": 27,
       "category": "科技"
+    },
+    {
+      "raw_hot": 658067,
+      "num": 658067,
+      "word": "建议三孩以上家庭公租房免费",
+      "onboard_time": 1678205245,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 647925,
@@ -73,14 +81,6 @@
       "onboard_time": 1678198046,
       "rank": 4,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 293218,
-      "num": 293218,
-      "word": "建议三孩以上家庭公租房免费",
-      "onboard_time": 1678205245,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290981,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131093,
+      "num": 131093,
+      "word": "脑瘫小伙旁听12年即将博士毕业",
+      "onboard_time": 1678205843,
+      "rank": 43,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 124974,
       "num": 124974,
       "word": "张艺兴中分造型",
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104592,
+      "num": 104592,
+      "word": "丫丫",
+      "onboard_time": 1678203328,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101845,
       "num": 101845,
       "word": "建议父母满65岁给子女陪护假",
@@ -265,14 +281,6 @@
       "onboard_time": 1678190188,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 81083,
-      "num": 81083,
-      "word": "丫丫",
-      "onboard_time": 1678203328,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78661,
@@ -339,14 +347,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 56837,
-      "num": 56837,
-      "word": "脑瘫小伙旁听12年即将博士毕业",
-      "onboard_time": 1678205843,
-      "rank": 43,
-      "category": "社会正能量,教育"
-    },
-    {
       "raw_hot": 56461,
       "num": 56461,
       "word": "TVB直播一秒代入港剧",
@@ -406,6 +406,9 @@
   "hotgov_list": [
     {
       "word": "#总书记两会金句#"
+    },
+    {
+      "word": "#习近平的两会时间#"
     }
   ]
 }
