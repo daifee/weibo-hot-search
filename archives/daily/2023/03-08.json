@@ -1,6 +1,6 @@
 {
   "startTime": 1678206448826,
-  "endTime": 1678209488589,
+  "endTime": 1678210513974,
   "band_list": [
     {
       "raw_hot": 1085724,
@@ -51,12 +51,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422218,
+      "num": 218506,
+      "word": "丫丫",
+      "onboard_time": 1678203328,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339020,
       "num": 294682,
       "word": "妈妈以为被尼格买提关注了",
       "onboard_time": 1678201109,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335806,
+      "num": 103016,
+      "word": "上海宜家回应禁止在仓库拍照",
+      "onboard_time": 1678207758,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326129,
@@ -99,14 +115,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 281930,
-      "num": 55250,
-      "word": "上海宜家回应禁止在仓库拍照",
-      "onboard_time": 1678207758,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258126,
       "num": 258126,
       "word": "景甜说张若昀唐艺昕节日都共同度过",
@@ -136,14 +144,6 @@
       "word": "大熊猫拉完粑粑屁股蹭妈妈头上",
       "onboard_time": 1678198291,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218506,
-      "num": 218506,
-      "word": "丫丫",
-      "onboard_time": 1678203328,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -433,6 +433,14 @@
       "onboard_time": 1678201351,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23268,
+      "num": 32875,
+      "word": "毕雯珺喝了李一桐奶茶",
+      "onboard_time": 1678209675,
+      "rank": 46,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

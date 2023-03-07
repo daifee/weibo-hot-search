@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678209488589,
+  "endTime": 1678210513974,
   "band_list": [
     {
       "raw_hot": 4489001,
@@ -1819,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335806,
+      "num": 103016,
+      "word": "上海宜家回应禁止在仓库拍照",
+      "onboard_time": 1678207758,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334944,
       "num": 334944,
       "word": "BLG战胜RNG",
@@ -2081,14 +2089,6 @@
       "onboard_time": 1678057999,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 281930,
-      "num": 55250,
-      "word": "上海宜家回应禁止在仓库拍照",
-      "onboard_time": 1678207758,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281335,
@@ -4809,6 +4809,14 @@
       "onboard_time": 1678089387,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 23268,
+      "num": 32875,
+      "word": "毕雯珺喝了李一桐奶茶",
+      "onboard_time": 1678209675,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 19376,

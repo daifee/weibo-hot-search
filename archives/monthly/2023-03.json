@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678209488589,
+  "endTime": 1678210513974,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -6291,6 +6291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335806,
+      "num": 103016,
+      "word": "上海宜家回应禁止在仓库拍照",
+      "onboard_time": 1678207758,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335753,
       "num": 285253,
       "word": "与非门",
@@ -7249,14 +7257,6 @@
       "onboard_time": 1678011925,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281930,
-      "num": 55250,
-      "word": "上海宜家回应禁止在仓库拍照",
-      "onboard_time": 1678207758,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281698,
@@ -15169,6 +15169,14 @@
       "onboard_time": 1677841229,
       "rank": 39,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 23268,
+      "num": 32875,
+      "word": "毕雯珺喝了李一桐奶茶",
+      "onboard_time": 1678209675,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 23007,
