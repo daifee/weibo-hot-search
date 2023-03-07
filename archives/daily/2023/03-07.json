@@ -1,6 +1,6 @@
 {
   "startTime": 1678120040193,
-  "endTime": 1678163057689,
+  "endTime": 1678164000695,
   "band_list": [
     {
       "raw_hot": 1991579,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1383651,
+      "num": 864833,
+      "word": "专家称打HPV疫苗不必纠结几价",
+      "onboard_time": 1678161447,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1285993,
       "num": 315023,
       "word": "刘亦菲李惠仁谷爱凌同框",
@@ -67,12 +75,28 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 864833,
-      "num": 864833,
-      "word": "专家称打HPV疫苗不必纠结几价",
-      "onboard_time": 1678161447,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 924065,
+      "num": 275203,
+      "word": "关晓彤回应肉色打底穿搭",
+      "onboard_time": 1678162229,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 888326,
+      "num": 336404,
+      "word": "俄罗斯顶级科学家被皮带勒死家中",
+      "onboard_time": 1678162167,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 886207,
+      "num": 886207,
+      "word": "台湾问题处理不好中美关系地动山摇",
+      "onboard_time": 1678160726,
+      "rank": 10,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 845824,
@@ -113,14 +137,6 @@
       "onboard_time": 1678112309,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 722382,
-      "num": 394719,
-      "word": "台湾问题处理不好中美关系地动山摇",
-      "onboard_time": 1678160726,
-      "rank": 10,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 701358,
@@ -251,14 +267,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 470796,
-      "num": 230245,
-      "word": "俄罗斯顶级科学家被皮带勒死家中",
-      "onboard_time": 1678162167,
-      "rank": 30,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 459694,
       "num": 201017,
       "word": "动物园更新丫丫最新视频",
@@ -281,14 +289,6 @@
       "onboard_time": 1678110569,
       "rank": 6,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 430527,
-      "num": 275203,
-      "word": "关晓彤回应肉色打底穿搭",
-      "onboard_time": 1678162229,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 428028,
@@ -337,6 +337,14 @@
       "onboard_time": 1678159164,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 403339,
+      "num": 263356,
+      "word": "清华保洁阿姨身穿晚礼服弹奏钢琴",
+      "onboard_time": 1678163248,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397371,
@@ -419,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333696,
+      "num": 333696,
+      "word": "秦刚回应所谓战狼外交",
+      "onboard_time": 1678161746,
+      "rank": 28,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 295472,
       "num": 209537,
       "word": "司机载客用9部手机刷视频被罚",
@@ -465,6 +481,14 @@
       "onboard_time": 1678116446,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 268952,
+      "num": 268952,
+      "word": "张艺兴新电影开机路透",
+      "onboard_time": 1678162467,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 267923,
@@ -515,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244209,
-      "num": 244209,
-      "word": "秦刚回应所谓战狼外交",
-      "onboard_time": 1678161746,
+      "raw_hot": 241624,
+      "num": 241624,
+      "word": "大侦探第七案剧照",
+      "onboard_time": 1678163608,
       "rank": 28,
-      "category": "国内要闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 237848,
@@ -635,14 +659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196266,
-      "num": 196266,
-      "word": "张艺兴新电影开机路透",
-      "onboard_time": 1678162467,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193514,
       "num": 193514,
       "word": "一人一句祝福亚运会",
@@ -657,6 +673,14 @@
       "onboard_time": 1678145241,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188508,
+      "num": 188508,
+      "word": "秦刚说给日方掰扯下什么是所谓秩序",
+      "onboard_time": 1678162045,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 186335,
@@ -681,6 +705,14 @@
       "onboard_time": 1678158864,
       "rank": 31,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 181046,
+      "num": 181046,
+      "word": "LOFTER再回应头像生成器争议",
+      "onboard_time": 1678162886,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 178004,
@@ -715,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171959,
+      "num": 171959,
+      "word": "别拿我的爱好挑战你的专业",
+      "onboard_time": 1678163248,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171776,
       "num": 171776,
       "word": "星落凝成糖慢慢下线",
@@ -723,12 +763,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162627,
-      "num": 162627,
-      "word": "秦刚说给日方掰扯下什么是所谓秩序",
-      "onboard_time": 1678162045,
-      "rank": 37,
-      "category": "国内要闻"
+      "raw_hot": 159143,
+      "num": 159143,
+      "word": "我们都爱笑主创近况",
+      "onboard_time": 1678163550,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 158927,
@@ -857,14 +897,6 @@
       "onboard_time": 1678159766,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125312,
-      "num": 125312,
-      "word": "LOFTER再回应头像生成器争议",
-      "onboard_time": 1678162886,
-      "rank": 46,
-      "category": "科技"
     },
     {
       "raw_hot": 124080,
