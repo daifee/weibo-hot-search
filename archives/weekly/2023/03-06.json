@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678167298992,
+  "endTime": 1678170318561,
   "band_list": [
     {
       "raw_hot": 3357688,
@@ -99,6 +99,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1862133,
+      "num": 1862133,
+      "word": "网友为丫丫重金买纽约时代广场投屏",
+      "onboard_time": 1678166845,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1808573,
       "num": 323486,
       "word": "Jennie脸部受伤后现身机场",
@@ -121,6 +129,14 @@
       "onboard_time": 1678112309,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1744728,
+      "num": 232302,
+      "word": "周星驰 周杰伦",
+      "onboard_time": 1678167867,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1736344,
@@ -257,6 +273,14 @@
       "onboard_time": 1678073906,
       "rank": 48,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1238057,
+      "num": 1238057,
+      "word": "国家线",
+      "onboard_time": 1678167205,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 1222967,
@@ -643,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 575149,
+      "num": 261095,
+      "word": "郭敬明减肥训练营",
+      "onboard_time": 1678166367,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 572793,
       "num": 277442,
       "word": "肖战蓬皮杜艺术中心看展",
@@ -987,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 412156,
-      "num": 261095,
-      "word": "郭敬明减肥训练营",
-      "onboard_time": 1678166367,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 408002,
       "num": 408002,
       "word": "光遇",
@@ -1051,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395451,
+      "num": 395451,
+      "word": "得了甲流就得吃抗病毒药吗",
+      "onboard_time": 1678168166,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392380,
       "num": 392380,
       "word": "美媒称中国起重机有间谍作用",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1678116687,
       "rank": 30,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 385117,
-      "num": 260572,
-      "word": "网友为丫丫重金买纽约时代广场投屏",
-      "onboard_time": 1678166845,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 383991,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1678150646,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295187,
+      "num": 218294,
+      "word": "海关查获霍格沃茨之遗等光盘800张",
+      "onboard_time": 1678168768,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 294066,
@@ -1763,6 +1795,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 212391,
+      "num": 212391,
+      "word": "外交部长向广大青年提出几点希望",
+      "onboard_time": 1678166306,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211444,
       "num": 211444,
       "word": "曼联创造双红会最大比分失利",
@@ -1945,6 +1985,14 @@
       "onboard_time": 1678148366,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 200134,
+      "num": 200134,
+      "word": "A股",
+      "onboard_time": 1678170267,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 200100,
@@ -2275,12 +2323,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182219,
+      "num": 182219,
+      "word": "霍格沃茨之遗",
+      "onboard_time": 1678168528,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182110,
       "num": 182110,
       "word": "一代人终将老去 但总有人正年轻",
       "onboard_time": 1678098027,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 181922,
+      "num": 181922,
+      "word": "TAPTAP被指上架涉嫌抄袭游戏",
+      "onboard_time": 1678166965,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 181474,
@@ -2451,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163832,
+      "num": 174019,
+      "word": "成毅登名利场杂志",
+      "onboard_time": 1678169006,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 163594,
       "num": 163594,
       "word": "罗晋新剧演侦察科长梁辰",
@@ -2579,6 +2651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148768,
+      "num": 148768,
+      "word": "宋亚轩绑小揪揪插兜",
+      "onboard_time": 1678167324,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147233,
       "num": 147233,
       "word": "鹿晗五哈凿冰直拍",
@@ -2635,12 +2715,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 140189,
-      "num": 140189,
-      "word": "外交部长向广大青年提出几点希望",
-      "onboard_time": 1678166306,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 140795,
+      "num": 140795,
+      "word": "建议降低教育水平在积分落户中的比例",
+      "onboard_time": 1678169308,
+      "rank": 32,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 139358,
@@ -2649,6 +2729,14 @@
       "onboard_time": 1678012527,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139107,
+      "num": 139107,
+      "word": "这就是面若桃花吧",
+      "onboard_time": 1678168826,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 138640,
@@ -2803,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122633,
+      "num": 122633,
+      "word": "叶诗文代表运动员宣誓杭州亚运会",
+      "onboard_time": 1678166126,
+      "rank": 40,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 121256,
       "num": 121256,
       "word": "南方长城和北方长城有什么差别",
@@ -2849,14 +2945,6 @@
       "onboard_time": 1678073486,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 115713,
-      "num": 115713,
-      "word": "TAPTAP被指上架涉嫌抄袭游戏",
-      "onboard_time": 1678166965,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 115474,
@@ -2995,14 +3083,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 106153,
-      "num": 106153,
-      "word": "叶诗文代表运动员宣誓杭州亚运会",
-      "onboard_time": 1678166126,
-      "rank": 40,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 105358,
       "num": 105358,
       "word": "熊猫献艺让游客直呼值回票价",
@@ -3075,6 +3155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103354,
+      "num": 103354,
+      "word": "名侦探学院",
+      "onboard_time": 1678167748,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102739,
       "num": 102739,
       "word": "重紫开启魔界新副本",
@@ -3105,6 +3193,14 @@
       "onboard_time": 1678088366,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 98307,
+      "num": 98307,
+      "word": "亚运会最值得期待的中国选手",
+      "onboard_time": 1678169848,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 98232,
@@ -3219,14 +3315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 87070,
-      "num": 87070,
-      "word": "国家线",
-      "onboard_time": 1678167205,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 85200,
       "num": 85200,
       "word": "关键球还得是杜兰特",
@@ -3283,6 +3371,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 75693,
+      "num": 75693,
+      "word": "这班上的还是保守了",
+      "onboard_time": 1678170147,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75018,
       "num": 75018,
       "word": "陈卓璇唱支山歌给党听",
@@ -3292,7 +3388,7 @@
     },
     {
       "raw_hot": 74770,
-      "num": 745168,
+      "num": 849706,
       "word": "两会数说中国",
       "onboard_time": 1678161026,
       "rank": 2,
