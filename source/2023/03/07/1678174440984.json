@@ -1,0 +1,410 @@
+{
+  "runTime": 1678174440984,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1197093,
+        "num": 1197093,
+        "word": "国家线",
+        "onboard_time": 1678167205,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 825290,
+        "num": 825290,
+        "word": "努比亚",
+        "onboard_time": 1678171405,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 62510,
+        "num": 824128,
+        "word": "两会数说中国",
+        "onboard_time": 1678161026,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 823414,
+        "num": 823414,
+        "word": "基地回应大熊猫福菀被游客泼水",
+        "onboard_time": 1678172065,
+        "rank": 3,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 71503,
+        "num": 673320,
+        "word": "人大会议第二次全体会议",
+        "onboard_time": 1678170627,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 656448,
+        "num": 656448,
+        "word": "小孩爱说的烂梗越来越多了",
+        "onboard_time": 1678154065,
+        "rank": 5,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 583819,
+        "num": 583819,
+        "word": "专家称打HPV疫苗不必纠结几价",
+        "onboard_time": 1678161447,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530710,
+        "num": 530710,
+        "word": "海关查获霍格沃茨之遗等光盘800张",
+        "onboard_time": 1678168768,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 434357,
+        "num": 434357,
+        "word": "重紫魔尊今晚大婚",
+        "onboard_time": 1678171585,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37403,
+        "num": 433761,
+        "word": "代表通道采访直播",
+        "onboard_time": 1678172667,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1177927,
+        "num": 425850,
+        "word": "港媒曝林允离开周星驰公司",
+        "onboard_time": 1678167324,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 769945,
+        "num": 420624,
+        "word": "A股",
+        "onboard_time": 1678170267,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 435657,
+        "num": 412764,
+        "word": "俄罗斯顶级科学家被皮带勒死家中",
+        "onboard_time": 1678162167,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 411735,
+        "num": 411735,
+        "word": "郭敬明减肥训练营",
+        "onboard_time": 1678166367,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394574,
+        "num": 394574,
+        "word": "乃万以词曲创作者身份参与亚运会",
+        "onboard_time": 1678171826,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 372452,
+        "num": 372452,
+        "word": "得了甲流就得吃抗病毒药吗",
+        "onboard_time": 1678168166,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360641,
+        "num": 360641,
+        "word": "星落凝成糖编剧",
+        "onboard_time": 1678171885,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347841,
+        "num": 347841,
+        "word": "建议降低教育水平在积分落户中的比例",
+        "onboard_time": 1678169308,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 303139,
+        "num": 303139,
+        "word": "肖俊将担任THESHOWMC",
+        "onboard_time": 1678171707,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283422,
+        "num": 283422,
+        "word": "王晶转发刘亦菲新剧说怪不得推传说",
+        "onboard_time": 1678164868,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 913911,
+        "num": 271167,
+        "word": "女子每天通勤5小时月花费6000元",
+        "onboard_time": 1678171165,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867270,
+        "num": 267233,
+        "word": "关晓彤回应肉色打底穿搭",
+        "onboard_time": 1678162229,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248376,
+        "num": 248376,
+        "word": "首批亚运电竞特许商品上线",
+        "onboard_time": 1678172847,
+        "rank": 22,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 244597,
+        "num": 244597,
+        "word": "关于国务院机构改革方案的说明",
+        "onboard_time": 1678172367,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 243028,
+        "num": 243028,
+        "word": "这班上的还是保守了",
+        "onboard_time": 1678170147,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201646,
+        "num": 201646,
+        "word": "在京海大学上学",
+        "onboard_time": 1678164687,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194472,
+        "num": 194472,
+        "word": "清华保洁阿姨身穿晚礼服弹奏钢琴",
+        "onboard_time": 1678163248,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172340,
+        "num": 172340,
+        "word": "这就是面若桃花吧",
+        "onboard_time": 1678168826,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167086,
+        "num": 167086,
+        "word": "台湾问题处理不好中美关系地动山摇",
+        "onboard_time": 1678160726,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 165794,
+        "num": 165794,
+        "word": "霍格沃茨之遗",
+        "onboard_time": 1678168528,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164333,
+        "num": 164333,
+        "word": "奇瑞领导称周六是奋斗者正常工作日",
+        "onboard_time": 1678173206,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158100,
+        "num": 158100,
+        "word": "LOFTER再回应头像生成器争议",
+        "onboard_time": 1678162886,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152596,
+        "num": 152596,
+        "word": "建议中国企业要敢于在国际上出题",
+        "onboard_time": 1678170804,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147824,
+        "num": 147824,
+        "word": "王鹤棣白马帅定妆花絮",
+        "onboard_time": 1678172006,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140602,
+        "num": 140602,
+        "word": "导师修改的摘要和你的正文",
+        "onboard_time": 1678173626,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140297,
+        "num": 140297,
+        "word": "杭州亚运会倒计时200天",
+        "onboard_time": 1678171287,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136843,
+        "num": 136843,
+        "word": "吴磊赵今麦撒娇路透",
+        "onboard_time": 1678166245,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125571,
+        "num": 125571,
+        "word": "99年男生用家务机器人做保洁",
+        "onboard_time": 1678165827,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116947,
+        "num": 116947,
+        "word": "苹果或3月8日开新品发布会",
+        "onboard_time": 1678155144,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 113260,
+        "num": 113260,
+        "word": "今年两会第二场部长通道",
+        "onboard_time": 1678173984,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 110999,
+        "num": 110999,
+        "word": "骆歆发文祝福记得",
+        "onboard_time": 1678153525,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105328,
+        "num": 105328,
+        "word": "KPL春季赛第四周最佳阵容",
+        "onboard_time": 1678171525,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104576,
+        "num": 104576,
+        "word": "琴投夜合",
+        "onboard_time": 1678174285,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102688,
+        "num": 102688,
+        "word": "肖战蓬皮杜艺术中心看展",
+        "onboard_time": 1678151366,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101601,
+        "num": 101601,
+        "word": "TAPTAP被指上架涉嫌抄袭游戏",
+        "onboard_time": 1678166965,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100366,
+        "num": 100366,
+        "word": "名侦探学院",
+        "onboard_time": 1678167748,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99140,
+        "num": 99140,
+        "word": "别拿我的爱好挑战你的专业",
+        "onboard_time": 1678163248,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95951,
+        "num": 95951,
+        "word": "baby girl",
+        "onboard_time": 1678158505,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95353,
+        "num": 95353,
+        "word": "DRG 赛程安排",
+        "onboard_time": 1678174406,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93420,
+        "num": 93420,
+        "word": "外交部长向广大青年提出几点希望",
+        "onboard_time": 1678166306,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族各界妇女致以节日祝贺#"
+    }
+  }
+}
