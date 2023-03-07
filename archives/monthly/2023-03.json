@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678187846064,
+  "endTime": 1678188852808,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -3179,6 +3179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 577351,
+      "num": 577351,
+      "word": "国家线再涨就不礼貌了",
+      "onboard_time": 1678184430,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 576938,
       "num": 576938,
       "word": "刘雯7小时走3场秀",
@@ -3651,6 +3659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531020,
+      "num": 531020,
+      "word": "月亮",
+      "onboard_time": 1678187428,
+      "rank": 15,
+      "category": "自然"
+    },
+    {
       "raw_hot": 531014,
       "num": 531014,
       "word": "大熊猫和花和叶已被广东一企业认养",
@@ -4019,14 +4035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495885,
-      "num": 495885,
-      "word": "国家线再涨就不礼貌了",
-      "onboard_time": 1678184430,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 495159,
       "num": 495159,
       "word": "黑暗荣耀2",
@@ -4147,6 +4155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482917,
+      "num": 482917,
+      "word": "郁金香",
+      "onboard_time": 1678183408,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 482768,
       "num": 482768,
       "word": "鹿晗吸猫",
@@ -4161,14 +4177,6 @@
       "onboard_time": 1677744450,
       "rank": 8,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 478306,
-      "num": 478306,
-      "word": "郁金香",
-      "onboard_time": 1678183408,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 477588,
@@ -4411,6 +4419,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 456388,
+      "num": 322313,
+      "word": "Jennie巴黎看秀状态",
+      "onboard_time": 1678187908,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 456116,
       "num": 456116,
       "word": "教资认定",
@@ -4521,6 +4537,14 @@
       "onboard_time": 1677679831,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 443450,
+      "num": 222495,
+      "word": "儿子改随继父姓生父拒付抚养费",
+      "onboard_time": 1678187249,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443269,
@@ -6027,6 +6051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 339705,
+      "num": 323689,
+      "word": "香奈儿大秀",
+      "onboard_time": 1678187428,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 339437,
       "num": 339437,
       "word": "Doinb直播送火箭",
@@ -6161,6 +6193,14 @@
       "onboard_time": 1677655586,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 328204,
+      "num": 328204,
+      "word": "电竞教练带队员盗卖俱乐部硬件获刑",
+      "onboard_time": 1678184850,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 327876,
@@ -6675,14 +6715,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 300442,
-      "num": 300442,
-      "word": "月亮",
-      "onboard_time": 1678187428,
-      "rank": 15,
-      "category": "自然"
-    },
-    {
       "raw_hot": 300339,
       "num": 300339,
       "word": "在新疆减肥有多难",
@@ -7121,14 +7153,6 @@
       "onboard_time": 1677761009,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 276637,
-      "num": 276637,
-      "word": "电竞教练带队员盗卖俱乐部硬件获刑",
-      "onboard_time": 1678184850,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 276493,
@@ -8529,14 +8553,6 @@
       "onboard_time": 1678070004,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 219219,
-      "num": 219219,
-      "word": "香奈儿大秀",
-      "onboard_time": 1678187428,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 219056,
@@ -10459,14 +10475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180709,
-      "num": 180709,
-      "word": "儿子改随继父姓生父拒付抚养费",
-      "onboard_time": 1678187249,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180143,
       "num": 180143,
       "word": "最好嗑的年龄差cp",
@@ -10561,6 +10569,14 @@
       "onboard_time": 1678010067,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176034,
+      "num": 176034,
+      "word": "吴磊李兰迪童年同框照",
+      "onboard_time": 1678186828,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175881,
@@ -11513,14 +11529,6 @@
       "onboard_time": 1678004666,
       "rank": 24,
       "category": "自然"
-    },
-    {
-      "raw_hot": 149853,
-      "num": 149853,
-      "word": "吴磊李兰迪童年同框照",
-      "onboard_time": 1678186828,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 149807,
@@ -13611,6 +13619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96032,
+      "num": 96032,
+      "word": "新发现或能让成人大脑产生新神经元",
+      "onboard_time": 1678188446,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 95790,
       "num": 95790,
       "word": "王鹤棣时宴英雄救美路透",
@@ -13756,7 +13772,7 @@
     },
     {
       "raw_hot": 90001,
-      "num": 90001,
+      "num": 92065,
       "word": "2023秋冬时装周",
       "onboard_time": 1678186949,
       "rank": 47,

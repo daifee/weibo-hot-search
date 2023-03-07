@@ -1,0 +1,410 @@
+{
+  "runTime": 1678188852808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 899167,
+        "num": 899167,
+        "word": "不再保留中国银行保险监督管理委员会",
+        "onboard_time": 1678180648,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2438674,
+        "num": 761668,
+        "word": "人民网评鸡你太美是恶俗烂梗",
+        "onboard_time": 1678176747,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84552,
+        "num": 618561,
+        "word": "政府工作报告里年轻人关心的事",
+        "onboard_time": 1678166547,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 615024,
+        "num": 615024,
+        "word": "精减中央国家机关人员编制",
+        "onboard_time": 1678179808,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 577351,
+        "num": 577351,
+        "word": "国家线再涨就不礼貌了",
+        "onboard_time": 1678184430,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 567877,
+        "num": 567877,
+        "word": "不再保留中国人民银行县市支行",
+        "onboard_time": 1678183109,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 531020,
+        "num": 531020,
+        "word": "月亮",
+        "onboard_time": 1678187428,
+        "rank": 6,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 482917,
+        "num": 482917,
+        "word": "郁金香",
+        "onboard_time": 1678183408,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409094,
+        "num": 409094,
+        "word": "鸡你太美商标无一注册成功",
+        "onboard_time": 1678182449,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328204,
+        "num": 328204,
+        "word": "电竞教练带队员盗卖俱乐部硬件获刑",
+        "onboard_time": 1678184850,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1349315,
+        "num": 327191,
+        "word": "40岁的985硕士求职被怼不招大妈",
+        "onboard_time": 1678183950,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1164728,
+        "num": 325781,
+        "word": "井柏然刘雯秀场热聊",
+        "onboard_time": 1678185810,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 339705,
+        "num": 323689,
+        "word": "香奈儿大秀",
+        "onboard_time": 1678187428,
+        "rank": 12,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 456388,
+        "num": 322313,
+        "word": "Jennie巴黎看秀状态",
+        "onboard_time": 1678187908,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 320615,
+        "num": 320615,
+        "word": "国家线",
+        "onboard_time": 1678167205,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 328871,
+        "num": 309338,
+        "word": "女子拒绝调岗被强制离职踢出群聊",
+        "onboard_time": 1678178907,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276603,
+        "num": 276603,
+        "word": "建议父母满65岁给子女陪护假",
+        "onboard_time": 1678182870,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275234,
+        "num": 275234,
+        "word": "迪丽热巴龚俊看代拍的反应",
+        "onboard_time": 1678184550,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268182,
+        "num": 268182,
+        "word": "按5%比例精减中央国家机关编制",
+        "onboard_time": 1678182930,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 223380,
+        "num": 223380,
+        "word": "国务院机构改革",
+        "onboard_time": 1678180888,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 443450,
+        "num": 222495,
+        "word": "儿子改随继父姓生父拒付抚养费",
+        "onboard_time": 1678187249,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245093,
+        "num": 222207,
+        "word": "女子每天通勤5小时月花费6000元",
+        "onboard_time": 1678171165,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221544,
+        "num": 221544,
+        "word": "谷爱凌李惠仁年龄相加是刘亦菲的年龄",
+        "onboard_time": 1678179869,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214842,
+        "num": 214842,
+        "word": "花海从被保护到也能保护别人",
+        "onboard_time": 1678183469,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213376,
+        "num": 213376,
+        "word": "苗苗带女儿探班前任4剧组",
+        "onboard_time": 1678187008,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205350,
+        "num": 205350,
+        "word": "半熟恋人2鲶鱼约会",
+        "onboard_time": 1678184608,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204770,
+        "num": 204770,
+        "word": "暂不能确认丫丫何时和公众见面",
+        "onboard_time": 1678177828,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189169,
+        "num": 189169,
+        "word": "工地食堂因饭菜实惠成大学生打卡点",
+        "onboard_time": 1678176264,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 184453,
+        "num": 184453,
+        "word": "陈星旭演技",
+        "onboard_time": 1678185391,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178081,
+        "num": 178081,
+        "word": "基地回应大熊猫福菀被游客泼水",
+        "onboard_time": 1678172065,
+        "rank": 29,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 176034,
+        "num": 176034,
+        "word": "吴磊李兰迪童年同框照",
+        "onboard_time": 1678186828,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169980,
+        "num": 169980,
+        "word": "网传张婧仪主演惜花芷",
+        "onboard_time": 1678184550,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141333,
+        "num": 141333,
+        "word": "把寝室四个军师干懵了",
+        "onboard_time": 1678176564,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136157,
+        "num": 136157,
+        "word": "EDG对战WBG",
+        "onboard_time": 1678181970,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135959,
+        "num": 135959,
+        "word": "TVB直播网友建议讲粤语",
+        "onboard_time": 1678180107,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135500,
+        "num": 135500,
+        "word": "关于国务院机构改革方案的说明",
+        "onboard_time": 1678172367,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 129755,
+        "num": 129755,
+        "word": "李一桐扔捧花",
+        "onboard_time": 1678180107,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122401,
+        "num": 122401,
+        "word": "洛音凡入魔",
+        "onboard_time": 1678186889,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119597,
+        "num": 119597,
+        "word": "大侦探第七案侦探是吴昕",
+        "onboard_time": 1678184190,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116860,
+        "num": 116860,
+        "word": "组建国家数据局",
+        "onboard_time": 1678180950,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 113584,
+        "num": 113584,
+        "word": "男子疑因抽烟错过高铁不停拍车门",
+        "onboard_time": 1678179329,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110315,
+        "num": 110315,
+        "word": "港媒曝林允离开周星驰公司",
+        "onboard_time": 1678167324,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106654,
+        "num": 106654,
+        "word": "妍珍呐",
+        "onboard_time": 1678174587,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104159,
+        "num": 104159,
+        "word": "外媒镜头下的刘宇生图",
+        "onboard_time": 1678185628,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 96032,
+        "num": 96032,
+        "word": "新发现或能让成人大脑产生新神经元",
+        "onboard_time": 1678188446,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 95632,
+        "num": 95632,
+        "word": "A股",
+        "onboard_time": 1678170267,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94587,
+        "num": 94587,
+        "word": "池昌旭不续约Glorious",
+        "onboard_time": 1678185628,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75006,
+        "num": 92065,
+        "word": "2023秋冬时装周",
+        "onboard_time": 1678186949,
+        "rank": 47,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 91433,
+        "num": 91433,
+        "word": "导师修改的摘要和你的正文",
+        "onboard_time": 1678173626,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86687,
+        "num": 86687,
+        "word": "亚洲各国积极备战杭州亚运会",
+        "onboard_time": 1678180227,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1678120040193,
-  "endTime": 1678187846064,
+  "endTime": 1678188852808,
   "band_list": [
     {
       "raw_hot": 4489001,
@@ -379,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 577351,
+      "num": 577351,
+      "word": "国家线再涨就不礼貌了",
+      "onboard_time": 1678184430,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 575149,
       "num": 440261,
       "word": "郭敬明减肥训练营",
@@ -417,6 +425,14 @@
       "onboard_time": 1678182449,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 531020,
+      "num": 531020,
+      "word": "月亮",
+      "onboard_time": 1678187428,
+      "rank": 15,
+      "category": "自然"
     },
     {
       "raw_hot": 521764,
@@ -483,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495885,
-      "num": 495885,
-      "word": "国家线再涨就不礼貌了",
-      "onboard_time": 1678184430,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 495159,
       "num": 495159,
       "word": "黑暗荣耀2",
@@ -515,8 +523,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 478306,
-      "num": 478306,
+      "raw_hot": 482917,
+      "num": 482917,
       "word": "郁金香",
       "onboard_time": 1678183408,
       "rank": 19,
@@ -539,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456388,
+      "num": 322313,
+      "word": "Jennie巴黎看秀状态",
+      "onboard_time": 1678187908,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 445228,
       "num": 445228,
       "word": "谷爱凌李惠仁年龄相加是刘亦菲的年龄",
@@ -552,6 +568,14 @@
       "word": "90后代表称大学生也可以回农村",
       "onboard_time": 1678153344,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443450,
+      "num": 222495,
+      "word": "儿子改随继父姓生父拒付抚养费",
+      "onboard_time": 1678187249,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -787,12 +811,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 339705,
+      "num": 323689,
+      "word": "香奈儿大秀",
+      "onboard_time": 1678187428,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 333696,
       "num": 333696,
       "word": "秦刚回应所谓战狼外交",
       "onboard_time": 1678161746,
       "rank": 28,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 328204,
+      "num": 328204,
+      "word": "电竞教练带队员盗卖俱乐部硬件获刑",
+      "onboard_time": 1678184850,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 326574,
@@ -851,14 +891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 300442,
-      "num": 300442,
-      "word": "月亮",
-      "onboard_time": 1678187428,
-      "rank": 15,
-      "category": "自然"
-    },
-    {
       "raw_hot": 299168,
       "num": 256038,
       "word": "导师修改的摘要和你的正文",
@@ -913,14 +945,6 @@
       "onboard_time": 1678118365,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276637,
-      "num": 276637,
-      "word": "电竞教练带队员盗卖俱乐部硬件获刑",
-      "onboard_time": 1678184850,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 275952,
@@ -1121,14 +1145,6 @@
       "onboard_time": 1678155384,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 219219,
-      "num": 219219,
-      "word": "香奈儿大秀",
-      "onboard_time": 1678187428,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 218406,
@@ -1363,20 +1379,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 180709,
-      "num": 180709,
-      "word": "儿子改随继父姓生父拒付抚养费",
-      "onboard_time": 1678187249,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178004,
       "num": 178004,
       "word": "金智秀 solo出道",
       "onboard_time": 1678089086,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176034,
+      "num": 176034,
+      "word": "吴磊李兰迪童年同框照",
+      "onboard_time": 1678186828,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174302,
@@ -1521,14 +1537,6 @@
       "onboard_time": 1678172006,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149853,
-      "num": 149853,
-      "word": "吴磊李兰迪童年同框照",
-      "onboard_time": 1678186828,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 148768,
@@ -1931,6 +1939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 96032,
+      "num": 96032,
+      "word": "新发现或能让成人大脑产生新神经元",
+      "onboard_time": 1678188446,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 95516,
       "num": 95516,
       "word": "电竞选手为杭州亚运会助威",
@@ -1988,7 +2004,7 @@
     },
     {
       "raw_hot": 90001,
-      "num": 90001,
+      "num": 92065,
       "word": "2023秋冬时装周",
       "onboard_time": 1678186949,
       "rank": 47,
