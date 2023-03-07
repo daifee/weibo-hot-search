@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678158638540,
+  "endTime": 1678160641810,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -427,6 +427,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1729564,
+      "num": 1729564,
+      "word": "建议裁减非必要事业单位和人员",
+      "onboard_time": 1678156765,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1713353,
       "num": 1713353,
       "word": "周琦回应",
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 1459826,
-      "num": 221295,
+      "num": 290547,
       "word": "刘亦菲后置摄像头自拍",
       "onboard_time": 1678148910,
       "rank": 20,
@@ -1443,14 +1451,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 927877,
-      "num": 927877,
-      "word": "建议裁减非必要事业单位和人员",
-      "onboard_time": 1678156765,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 927503,
       "num": 927503,
       "word": "妇联回应吴秀波儿子被指家暴",
@@ -1676,7 +1676,7 @@
     },
     {
       "raw_hot": 845824,
-      "num": 453115,
+      "num": 480660,
       "word": "张俪签约觉醒东方",
       "onboard_time": 1678155744,
       "rank": 10,
@@ -2475,6 +2475,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 664962,
+      "num": 661873,
+      "word": "外交部长秦刚答中外记者问",
+      "onboard_time": 1678157366,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 661858,
       "num": 564644,
       "word": "学霸寝室不泡图书馆全员保研名校",
@@ -2643,14 +2651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 637410,
-      "num": 452913,
-      "word": "外交部长秦刚答中外记者问",
-      "onboard_time": 1678157366,
-      "rank": 11,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 636846,
       "num": 242132,
       "word": "鱼丁糸",
@@ -2777,6 +2777,14 @@
       "onboard_time": 1677857188,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 614242,
+      "num": 614242,
+      "word": "ChatGPT预测申论考点老师直呼很难得",
+      "onboard_time": 1678157244,
+      "rank": 18,
+      "category": "科技,教育"
     },
     {
       "raw_hot": 610345,
@@ -3004,7 +3012,7 @@
     },
     {
       "raw_hot": 572793,
-      "num": 213678,
+      "num": 277442,
       "word": "肖战蓬皮杜艺术中心看展",
       "onboard_time": 1678151366,
       "rank": 22,
@@ -3571,6 +3579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 518394,
+      "num": 518394,
+      "word": "中国外交已按下加速键",
+      "onboard_time": 1678156464,
+      "rank": 6,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 518283,
       "num": 518283,
       "word": "李敏镐香港经纪公司已告解散",
@@ -3723,14 +3739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 496560,
-      "num": 496560,
-      "word": "中国外交已按下加速键",
-      "onboard_time": 1678156464,
-      "rank": 6,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 495159,
       "num": 495159,
       "word": "黑暗荣耀2",
@@ -3793,6 +3801,14 @@
       "onboard_time": 1678093525,
       "rank": 23,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 487208,
+      "num": 487208,
+      "word": "多地二手房业主保卫房价",
+      "onboard_time": 1678155623,
+      "rank": 12,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 487153,
@@ -3913,14 +3929,6 @@
       "onboard_time": 1677999269,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 472286,
-      "num": 452398,
-      "word": "多地二手房业主保卫房价",
-      "onboard_time": 1678155623,
-      "rank": 12,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 472172,
@@ -4203,6 +4211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443084,
+      "num": 443084,
+      "word": "baby girl",
+      "onboard_time": 1678158505,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 442728,
       "num": 247081,
       "word": "欠债男子被法官堵在孩子周岁宴上",
@@ -4369,14 +4385,6 @@
       "onboard_time": 1677730831,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 428568,
-      "num": 260887,
-      "word": "ChatGPT预测申论考点老师直呼很难得",
-      "onboard_time": 1678157244,
-      "rank": 18,
-      "category": "科技,教育"
     },
     {
       "raw_hot": 428028,
@@ -4600,6 +4608,14 @@
       "word": "孙怡的直角肩",
       "onboard_time": 1677655348,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 406397,
+      "num": 406397,
+      "word": "大侦探",
+      "onboard_time": 1677733111,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -5396,7 +5412,7 @@
     },
     {
       "raw_hot": 350548,
-      "num": 217840,
+      "num": 265687,
       "word": "女子送锦旗感谢民警找回30万却被抓",
       "onboard_time": 1678148966,
       "rank": 21,
@@ -6235,6 +6251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297432,
+      "num": 297432,
+      "word": "杭州亚运会主题推广曲",
+      "onboard_time": 1678158927,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297172,
       "num": 297172,
       "word": "杨超越徐正溪车顶合照",
@@ -6507,20 +6531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279193,
-      "num": 279193,
-      "word": "大侦探",
-      "onboard_time": 1677733111,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 278455,
       "num": 278455,
       "word": "DRG 对S组过敏",
       "onboard_time": 1677939629,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278455,
+      "num": 278455,
+      "word": "刘烨胡军新片对手戏",
+      "onboard_time": 1678160427,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 278404,
@@ -7755,6 +7779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 223154,
+      "num": 223154,
+      "word": "日本H3新型火箭发射失败",
+      "onboard_time": 1678158027,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 223030,
       "num": 223030,
       "word": "吴磊赵今麦海边拍摄路透",
@@ -8867,20 +8899,20 @@
       "category": "社会新闻,时尚"
     },
     {
-      "raw_hot": 196565,
-      "num": 196565,
-      "word": "日本H3新型火箭发射失败",
-      "onboard_time": 1678158027,
-      "rank": 49,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 196553,
       "num": 196553,
       "word": "重紫",
       "onboard_time": 1678100726,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196340,
+      "num": 196340,
+      "word": "KPL针锋相对第二轮",
+      "onboard_time": 1678160307,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 196074,
@@ -9179,14 +9211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192074,
-      "num": 192074,
-      "word": "baby girl",
-      "onboard_time": 1678158505,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 192065,
       "num": 192065,
       "word": "蔡徐坤唱片店跳舞",
@@ -9401,6 +9425,14 @@
       "onboard_time": 1677810566,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188013,
+      "num": 188013,
+      "word": "广东选调",
+      "onboard_time": 1678160247,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 187928,
@@ -9624,6 +9656,14 @@
       "word": "极简版政府工作报告",
       "onboard_time": 1677984083,
       "rank": 27,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 181474,
+      "num": 181474,
+      "word": "秦刚现场读宪法回应台湾问题",
+      "onboard_time": 1678158864,
+      "rank": 31,
       "category": "国内要闻"
     },
     {
@@ -9897,6 +9937,14 @@
       "onboard_time": 1677814408,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172075,
+      "num": 172075,
+      "word": "我们的岁月定档",
+      "onboard_time": 1678160545,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 171973,
@@ -11747,6 +11795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117054,
+      "num": 117054,
+      "word": "杭州亚运会场馆慢直播",
+      "onboard_time": 1678159766,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116769,
       "num": 116769,
       "word": "大哥大爷神同步跳河救人获见义勇为",
@@ -12251,6 +12307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 103924,
+      "num": 103924,
+      "word": "外交部长秦刚谈乌克兰危机",
+      "onboard_time": 1678160485,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103869,
       "num": 103869,
       "word": "詹姆斯右脚肌腱受伤",
@@ -12315,6 +12379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102586,
+      "num": 102586,
+      "word": "致敬了不起的她",
+      "onboard_time": 1678159527,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 102048,
       "num": 102048,
       "word": "雷锋珍贵原声音频",
@@ -12353,6 +12425,14 @@
       "onboard_time": 1678003767,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100152,
+      "num": 123175,
+      "word": "卫生巾需要被藏起来吗",
+      "onboard_time": 1678158445,
+      "rank": 39,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 99890,
@@ -13265,14 +13345,6 @@
       "onboard_time": 1677680911,
       "rank": 47,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 41778,
-      "num": 116689,
-      "word": "卫生巾需要被藏起来吗",
-      "onboard_time": 1678158445,
-      "rank": 39,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 40006,

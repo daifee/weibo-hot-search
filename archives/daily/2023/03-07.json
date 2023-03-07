@@ -1,7 +1,15 @@
 {
   "startTime": 1678120040193,
-  "endTime": 1678158638540,
+  "endTime": 1678160641810,
   "band_list": [
+    {
+      "raw_hot": 1729564,
+      "num": 1729564,
+      "word": "建议裁减非必要事业单位和人员",
+      "onboard_time": 1678156765,
+      "rank": 4,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1662953,
       "num": 201376,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1459826,
-      "num": 221295,
+      "num": 290547,
       "word": "刘亦菲后置摄像头自拍",
       "onboard_time": 1678148910,
       "rank": 20,
@@ -59,16 +67,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 927877,
-      "num": 927877,
-      "word": "建议裁减非必要事业单位和人员",
-      "onboard_time": 1678156765,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 845824,
-      "num": 453115,
+      "num": 480660,
       "word": "张俪签约觉醒东方",
       "onboard_time": 1678155744,
       "rank": 10,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 664962,
+      "num": 661873,
+      "word": "外交部长秦刚答中外记者问",
+      "onboard_time": 1678157366,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 659775,
       "num": 357937,
       "word": "同城快送收到背去世老人下楼订单",
@@ -131,14 +139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 637410,
-      "num": 452913,
-      "word": "外交部长秦刚答中外记者问",
-      "onboard_time": 1678157366,
-      "rank": 11,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 616446,
       "num": 616446,
       "word": "台湾或面临史上最久缺蛋荒",
@@ -147,8 +147,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614242,
+      "num": 614242,
+      "word": "ChatGPT预测申论考点老师直呼很难得",
+      "onboard_time": 1678157244,
+      "rank": 18,
+      "category": "科技,教育"
+    },
+    {
       "raw_hot": 572793,
-      "num": 213678,
+      "num": 277442,
       "word": "肖战蓬皮杜艺术中心看展",
       "onboard_time": 1678151366,
       "rank": 22,
@@ -161,6 +169,14 @@
       "onboard_time": 1678117766,
       "rank": 4,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 518394,
+      "num": 518394,
+      "word": "中国外交已按下加速键",
+      "onboard_time": 1678156464,
+      "rank": 6,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 517409,
@@ -187,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 496560,
-      "num": 496560,
-      "word": "中国外交已按下加速键",
-      "onboard_time": 1678156464,
-      "rank": 6,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 495159,
       "num": 495159,
       "word": "黑暗荣耀2",
@@ -203,8 +211,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 472286,
-      "num": 452398,
+      "raw_hot": 487208,
+      "num": 487208,
       "word": "多地二手房业主保卫房价",
       "onboard_time": 1678155623,
       "rank": 12,
@@ -227,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443084,
+      "num": 443084,
+      "word": "baby girl",
+      "onboard_time": 1678158505,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 441951,
       "num": 441951,
       "word": "LV",
       "onboard_time": 1678110569,
       "rank": 6,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 428568,
-      "num": 260887,
-      "word": "ChatGPT预测申论考点老师直呼很难得",
-      "onboard_time": 1678157244,
-      "rank": 18,
-      "category": "科技,教育"
     },
     {
       "raw_hot": 428028,
@@ -273,6 +281,14 @@
       "onboard_time": 1678095567,
       "rank": 19,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 406397,
+      "num": 406397,
+      "word": "大侦探",
+      "onboard_time": 1678159164,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 397371,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 350548,
-      "num": 217840,
+      "num": 265687,
       "word": "女子送锦旗感谢民警找回30万却被抓",
       "onboard_time": 1678148966,
       "rank": 21,
@@ -347,12 +363,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 297432,
+      "num": 297432,
+      "word": "杭州亚运会主题推广曲",
+      "onboard_time": 1678158927,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295472,
       "num": 209537,
       "word": "司机载客用9部手机刷视频被罚",
       "onboard_time": 1678150646,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278455,
+      "num": 278455,
+      "word": "刘烨胡军新片对手戏",
+      "onboard_time": 1678160427,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 276726,
@@ -435,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 223154,
+      "num": 223154,
+      "word": "日本H3新型火箭发射失败",
+      "onboard_time": 1678158027,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 220030,
       "num": 220030,
       "word": "上证指数",
@@ -499,12 +539,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 196565,
-      "num": 196565,
-      "word": "日本H3新型火箭发射失败",
-      "onboard_time": 1678158027,
-      "rank": 49,
-      "category": "国外要闻"
+      "raw_hot": 196340,
+      "num": 196340,
+      "word": "KPL针锋相对第二轮",
+      "onboard_time": 1678160307,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 193514,
@@ -515,20 +555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192074,
-      "num": 192074,
-      "word": "baby girl",
-      "onboard_time": 1678158505,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190713,
       "num": 190713,
       "word": "功夫熊猫真的没有骗我",
       "onboard_time": 1678145241,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188013,
+      "num": 188013,
+      "word": "广东选调",
+      "onboard_time": 1678160247,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 186335,
@@ -545,6 +585,14 @@
       "onboard_time": 1678097968,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181474,
+      "num": 181474,
+      "word": "秦刚现场读宪法回应台湾问题",
+      "onboard_time": 1678158864,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 178004,
@@ -568,6 +616,14 @@
       "word": "张颂文定妆旧照",
       "onboard_time": 1678120040,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 172075,
+      "num": 172075,
+      "word": "我们的岁月定档",
+      "onboard_time": 1678160545,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -699,6 +755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117054,
+      "num": 117054,
+      "word": "杭州亚运会场馆慢直播",
+      "onboard_time": 1678159766,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115713,
       "num": 115713,
       "word": "王楚然说玉骨遥今年会播",
@@ -747,12 +811,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103924,
+      "num": 103924,
+      "word": "外交部长秦刚谈乌克兰危机",
+      "onboard_time": 1678160485,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103771,
       "num": 103771,
       "word": "陈哲远直播",
       "onboard_time": 1678147707,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102586,
+      "num": 102586,
+      "word": "致敬了不起的她",
+      "onboard_time": 1678159527,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 100152,
+      "num": 123175,
+      "word": "卫生巾需要被藏起来吗",
+      "onboard_time": 1678158445,
+      "rank": 39,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 97624,
@@ -969,14 +1057,6 @@
       "onboard_time": 1678120939,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 41778,
-      "num": 116689,
-      "word": "卫生巾需要被藏起来吗",
-      "onboard_time": 1678158445,
-      "rank": 39,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 37385,
