@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678155236845,
+  "endTime": 1678158056800,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -473,6 +473,14 @@
       "onboard_time": 1677941430,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1600670,
+      "num": 792613,
+      "word": "小孩爱说的烂梗越来越多了",
+      "onboard_time": 1678154065,
+      "rank": 3,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1591473,
@@ -1195,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1043048,
+      "num": 1043048,
+      "word": "中国政法大学校长谈大学生就业",
+      "onboard_time": 1678153825,
+      "rank": 1,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1042020,
       "num": 1042020,
       "word": "被夺笋的花花",
@@ -1649,6 +1665,14 @@
       "onboard_time": 1678065506,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 845824,
+      "num": 453115,
+      "word": "张俪签约觉醒东方",
+      "onboard_time": 1678155744,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 845655,
@@ -2251,6 +2275,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 700162,
+      "num": 700162,
+      "word": "建议裁减非必要事业单位和人员",
+      "onboard_time": 1678156765,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694462,
       "num": 694462,
       "word": "烧烤店开门不到一分钟就满客",
@@ -2355,6 +2387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 675139,
+      "num": 675139,
+      "word": "苹果或3月8日开新品发布会",
+      "onboard_time": 1678155144,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 674577,
       "num": 674577,
       "word": "撞脸高启盛大学老师回应走红",
@@ -2452,7 +2492,7 @@
     },
     {
       "raw_hot": 659775,
-      "num": 286504,
+      "num": 357937,
       "word": "同城快送收到背去世老人下楼订单",
       "onboard_time": 1678145483,
       "rank": 31,
@@ -2729,14 +2769,6 @@
       "onboard_time": 1677857188,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 610735,
-      "num": 610735,
-      "word": "中国政法大学校长谈大学生就业",
-      "onboard_time": 1678153825,
-      "rank": 1,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 610345,
@@ -3057,14 +3089,6 @@
       "onboard_time": 1677644552,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 563794,
-      "num": 563794,
-      "word": "小孩爱说的烂梗越来越多了",
-      "onboard_time": 1678154065,
-      "rank": 3,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 562999,
@@ -3851,6 +3875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 473611,
+      "num": 452913,
+      "word": "外交部长秦刚答中外记者问",
+      "onboard_time": 1678157366,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 473014,
       "num": 473014,
       "word": "第一次见消防员社死",
@@ -4043,6 +4075,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 455872,
+      "num": 455872,
+      "word": "中国外交已按下加速键",
+      "onboard_time": 1678156464,
+      "rank": 6,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 455071,
+      "num": 455071,
+      "word": "黑暗荣耀2",
+      "onboard_time": 1678156643,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454305,
       "num": 391046,
       "word": "郑州一大学老师撞脸高启盛",
@@ -4065,6 +4113,14 @@
       "onboard_time": 1677655528,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 452398,
+      "num": 452398,
+      "word": "多地二手房业主保卫房价",
+      "onboard_time": 1678155623,
+      "rank": 12,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 450766,
@@ -4313,6 +4369,14 @@
       "onboard_time": 1677730831,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428028,
+      "num": 428028,
+      "word": "虞书欣张凌赫新剧拥抱路透",
+      "onboard_time": 1678156403,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 427968,
@@ -4793,6 +4857,14 @@
       "onboard_time": 1678071085,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 383516,
+      "num": 342638,
+      "word": "在美华人用四川话喊丫丫",
+      "onboard_time": 1678154365,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383054,
@@ -5331,6 +5403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 350171,
+      "num": 453169,
+      "word": "杨天真董洁聊女性如何打破被定义",
+      "onboard_time": 1678157186,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349469,
       "num": 349469,
       "word": "阿里影业总裁谈长空之王",
@@ -5449,14 +5529,6 @@
       "onboard_time": 1677983363,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 342638,
-      "num": 342638,
-      "word": "在美华人用四川话喊丫丫",
-      "onboard_time": 1678154365,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342445,
@@ -6675,6 +6747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267923,
+      "num": 267923,
+      "word": "KPL 赛程",
+      "onboard_time": 1678154484,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 267730,
       "num": 267730,
       "word": "何与沈月额头吻",
@@ -7289,6 +7369,14 @@
       "onboard_time": 1677639206,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236733,
+      "num": 236733,
+      "word": "ChatGPT预测申论考点老师直呼很难得",
+      "onboard_time": 1678157244,
+      "rank": 18,
+      "category": "科技,教育"
     },
     {
       "raw_hot": 236642,
@@ -8163,14 +8251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206523,
-      "num": 206523,
-      "word": "KPL 赛程",
-      "onboard_time": 1678154484,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 206197,
       "num": 245742,
       "word": "勇士五连胜",
@@ -8417,6 +8497,14 @@
       "onboard_time": 1677652228,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202948,
+      "num": 202948,
+      "word": "第五人格",
+      "onboard_time": 1678157544,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 202765,
@@ -9113,6 +9201,14 @@
       "onboard_time": 1677601823,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191131,
+      "num": 191131,
+      "word": "上证指数",
+      "onboard_time": 1678155384,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 190876,
@@ -10587,6 +10683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146701,
+      "num": 146701,
+      "word": "坚决反对一切形式的霸权主义",
+      "onboard_time": 1678156524,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 146655,
       "num": 146655,
       "word": "eStar对战LGD",
@@ -11515,6 +11619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120999,
+      "num": 120999,
+      "word": "秦刚回应中美无人飞艇事件",
+      "onboard_time": 1678157843,
+      "rank": 36,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 120871,
       "num": 120871,
       "word": "Straykids将4月回归",
@@ -11889,6 +12001,14 @@
       "onboard_time": 1677908486,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109430,
+      "num": 109430,
+      "word": "明星巴黎时装周生图",
+      "onboard_time": 1678155804,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 109290,
@@ -12435,6 +12555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88952,
+      "num": 88952,
+      "word": "日本H3新型火箭发射失败",
+      "onboard_time": 1678158027,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 88667,
       "num": 88667,
       "word": "子女受父母胁迫结婚可申请撤销",
@@ -12465,14 +12593,6 @@
       "onboard_time": 1677828747,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 87777,
-      "num": 87777,
-      "word": "苹果或3月8日开新品发布会",
-      "onboard_time": 1678155144,
-      "rank": 47,
-      "category": "科技"
     },
     {
       "raw_hot": 87633,
