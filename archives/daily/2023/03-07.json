@@ -1,10 +1,10 @@
 {
   "startTime": 1678120040193,
-  "endTime": 1678160641810,
+  "endTime": 1678163057689,
   "band_list": [
     {
-      "raw_hot": 1729564,
-      "num": 1729564,
+      "raw_hot": 1991579,
+      "num": 1991579,
       "word": "建议裁减非必要事业单位和人员",
       "onboard_time": 1678156765,
       "rank": 4,
@@ -67,6 +67,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 864833,
+      "num": 864833,
+      "word": "专家称打HPV疫苗不必纠结几价",
+      "onboard_time": 1678161447,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 845824,
       "num": 480660,
       "word": "张俪签约觉醒东方",
@@ -105,6 +113,14 @@
       "onboard_time": 1678112309,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 722382,
+      "num": 394719,
+      "word": "台湾问题处理不好中美关系地动山摇",
+      "onboard_time": 1678160726,
+      "rank": 10,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 701358,
@@ -155,12 +171,28 @@
       "category": "科技,教育"
     },
     {
+      "raw_hot": 593323,
+      "num": 593323,
+      "word": "baby girl",
+      "onboard_time": 1678158505,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 572793,
       "num": 277442,
       "word": "肖战蓬皮杜艺术中心看展",
       "onboard_time": 1678151366,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 553776,
+      "num": 553776,
+      "word": "代表称要理解和尊重不婚女性",
+      "onboard_time": 1678160726,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521764,
@@ -219,6 +251,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 470796,
+      "num": 230245,
+      "word": "俄罗斯顶级科学家被皮带勒死家中",
+      "onboard_time": 1678162167,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 459694,
       "num": 201017,
       "word": "动物园更新丫丫最新视频",
@@ -235,20 +275,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 443084,
-      "num": 443084,
-      "word": "baby girl",
-      "onboard_time": 1678158505,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 441951,
       "num": 441951,
       "word": "LV",
       "onboard_time": 1678110569,
       "rank": 6,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 430527,
+      "num": 275203,
+      "word": "关晓彤回应肉色打底穿搭",
+      "onboard_time": 1678162229,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 428028,
@@ -283,6 +323,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 408002,
+      "num": 408002,
+      "word": "光遇",
+      "onboard_time": 1678162045,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 406397,
       "num": 406397,
       "word": "大侦探",
@@ -297,6 +345,14 @@
       "onboard_time": 1678157186,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396259,
+      "num": 396259,
+      "word": "杭州亚运会主题推广曲",
+      "onboard_time": 1678158927,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 392380,
@@ -348,7 +404,7 @@
     },
     {
       "raw_hot": 350548,
-      "num": 265687,
+      "num": 279644,
       "word": "女子送锦旗感谢民警找回30万却被抓",
       "onboard_time": 1678148966,
       "rank": 21,
@@ -363,20 +419,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 297432,
-      "num": 297432,
-      "word": "杭州亚运会主题推广曲",
-      "onboard_time": 1678158927,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 295472,
       "num": 209537,
       "word": "司机载客用9部手机刷视频被罚",
       "onboard_time": 1678150646,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292829,
+      "num": 292829,
+      "word": "代表建议制定动物保护法",
+      "onboard_time": 1678162648,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291885,
+      "num": 291885,
+      "word": "梁龙问蒋龙是不是想提前杀青",
+      "onboard_time": 1678161026,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 278455,
@@ -419,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251065,
+      "num": 251065,
+      "word": "广东选调",
+      "onboard_time": 1678160247,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 249825,
       "num": 249825,
       "word": "内马尔将缺席4个月",
@@ -441,6 +513,14 @@
       "onboard_time": 1678117165,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244209,
+      "num": 244209,
+      "word": "秦刚回应所谓战狼外交",
+      "onboard_time": 1678161746,
+      "rank": 28,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 237848,
@@ -515,6 +595,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 200008,
+      "num": 200008,
+      "word": "众星献唱杭州亚运会推广曲",
+      "onboard_time": 1678161986,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199961,
       "num": 199961,
       "word": "杨紫琼黄圣依沈梦辰同框",
@@ -547,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196266,
+      "num": 196266,
+      "word": "张艺兴新电影开机路透",
+      "onboard_time": 1678162467,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193514,
       "num": 193514,
       "word": "一人一句祝福亚运会",
@@ -561,14 +657,6 @@
       "onboard_time": 1678145241,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 188013,
-      "num": 188013,
-      "word": "广东选调",
-      "onboard_time": 1678160247,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 186335,
@@ -635,12 +723,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162627,
+      "num": 162627,
+      "word": "秦刚说给日方掰扯下什么是所谓秩序",
+      "onboard_time": 1678162045,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 158927,
       "num": 158927,
       "word": "为什么感觉这波甲流这么厉害",
       "onboard_time": 1678094487,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158234,
+      "num": 158234,
+      "word": "陈钰琪新剧杀青随拍",
+      "onboard_time": 1678161509,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 157434,
@@ -707,6 +811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 141427,
+      "num": 141427,
+      "word": "外交部长谈中日关系",
+      "onboard_time": 1678161265,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 132613,
       "num": 260685,
       "word": "蓝朋友是为人民而战",
@@ -739,6 +851,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126051,
+      "num": 126051,
+      "word": "杭州亚运会场馆慢直播",
+      "onboard_time": 1678159766,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125312,
+      "num": 125312,
+      "word": "LOFTER再回应头像生成器争议",
+      "onboard_time": 1678162886,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 124080,
       "num": 124080,
       "word": "美队安娜新片预告",
@@ -755,19 +883,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117054,
-      "num": 117054,
-      "word": "杭州亚运会场馆慢直播",
-      "onboard_time": 1678159766,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115713,
       "num": 115713,
       "word": "王楚然说玉骨遥今年会播",
       "onboard_time": 1678105049,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 115289,
+      "num": 115289,
+      "word": "重紫水月之吻海报",
+      "onboard_time": 1678161627,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -939,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74770,
+      "num": 745168,
+      "word": "两会数说中国",
+      "onboard_time": 1678161026,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 74318,
       "num": 74318,
       "word": "GALA开场整活",
@@ -1087,6 +1223,9 @@
     },
     {
       "word": "#习近平与代表委员的连心之路#"
+    },
+    {
+      "word": "#总书记的两会时间#"
     }
   ]
 }

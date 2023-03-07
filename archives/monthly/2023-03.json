@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678160641810,
+  "endTime": 1678163057689,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -243,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1991579,
+      "num": 1991579,
+      "word": "建议裁减非必要事业单位和人员",
+      "onboard_time": 1678156765,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1973327,
       "num": 1957694,
       "word": "日本突然声称多出7000余小岛",
@@ -425,14 +433,6 @@
       "onboard_time": 1677895525,
       "rank": 18,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1729564,
-      "num": 1729564,
-      "word": "建议裁减非必要事业单位和人员",
-      "onboard_time": 1678156765,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1713353,
@@ -1619,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 864833,
+      "num": 864833,
+      "word": "专家称打HPV疫苗不必纠结几价",
+      "onboard_time": 1678161447,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 859728,
       "num": 499533,
       "word": "你发癫 人家问地你答天",
@@ -2201,6 +2209,14 @@
       "onboard_time": 1677672809,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 722382,
+      "num": 394719,
+      "word": "台湾问题处理不好中美关系地动山摇",
+      "onboard_time": 1678160726,
+      "rank": 10,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 721227,
@@ -2899,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593323,
+      "num": 593323,
+      "word": "baby girl",
+      "onboard_time": 1678158505,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 590121,
       "num": 590121,
       "word": "甲午战争沉舰发现大口径炮弹",
@@ -3169,6 +3193,14 @@
       "onboard_time": 1677821370,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553776,
+      "num": 553776,
+      "word": "代表称要理解和尊重不婚女性",
+      "onboard_time": 1678160726,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553255,
@@ -3947,6 +3979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 470796,
+      "num": 230245,
+      "word": "俄罗斯顶级科学家被皮带勒死家中",
+      "onboard_time": 1678162167,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 470732,
       "num": 470732,
       "word": "年轻人都流向了哪些城市",
@@ -4211,14 +4251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 443084,
-      "num": 443084,
-      "word": "baby girl",
-      "onboard_time": 1678158505,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 442728,
       "num": 247081,
       "word": "欠债男子被法官堵在孩子周岁宴上",
@@ -4353,6 +4385,14 @@
       "onboard_time": 1677998605,
       "rank": 11,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 430527,
+      "num": 275203,
+      "word": "关晓彤回应肉色打底穿搭",
+      "onboard_time": 1678162229,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 429938,
@@ -4579,6 +4619,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 408002,
+      "num": 408002,
+      "word": "光遇",
+      "onboard_time": 1678162045,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 407681,
       "num": 201856,
       "word": "女生玩梗对暗号遭小孩婉拒时代过了",
@@ -4721,6 +4769,14 @@
       "onboard_time": 1678157186,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396259,
+      "num": 396259,
+      "word": "杭州亚运会主题推广曲",
+      "onboard_time": 1678158927,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 395637,
@@ -5412,7 +5468,7 @@
     },
     {
       "raw_hot": 350548,
-      "num": 265687,
+      "num": 279644,
       "word": "女子送锦旗感谢民警找回30万却被抓",
       "onboard_time": 1678148966,
       "rank": 21,
@@ -6251,14 +6307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297432,
-      "num": 297432,
-      "word": "杭州亚运会主题推广曲",
-      "onboard_time": 1678158927,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 297172,
       "num": 297172,
       "word": "杨超越徐正溪车顶合照",
@@ -6321,6 +6369,22 @@
       "onboard_time": 1677647848,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 292829,
+      "num": 292829,
+      "word": "代表建议制定动物保护法",
+      "onboard_time": 1678162648,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291885,
+      "num": 291885,
+      "word": "梁龙问蒋龙是不是想提前杀青",
+      "onboard_time": 1678161026,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 291159,
@@ -7075,6 +7139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251065,
+      "num": 251065,
+      "word": "广东选调",
+      "onboard_time": 1678160247,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 250958,
       "num": 250958,
       "word": "过去5年极不寻常极不平凡",
@@ -7225,6 +7297,14 @@
       "onboard_time": 1677908906,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244209,
+      "num": 244209,
+      "word": "秦刚回应所谓战狼外交",
+      "onboard_time": 1678161746,
+      "rank": 28,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 243627,
@@ -8691,6 +8771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200008,
+      "num": 200008,
+      "word": "众星献唱杭州亚运会推广曲",
+      "onboard_time": 1678161986,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199961,
       "num": 199961,
       "word": "杨紫琼黄圣依沈梦辰同框",
@@ -8913,6 +9001,14 @@
       "onboard_time": 1678160307,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196266,
+      "num": 196266,
+      "word": "张艺兴新电影开机路透",
+      "onboard_time": 1678162467,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 196074,
@@ -9425,14 +9521,6 @@
       "onboard_time": 1677810566,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188013,
-      "num": 188013,
-      "word": "广东选调",
-      "onboard_time": 1678160247,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 187928,
@@ -10267,6 +10355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162627,
+      "num": 162627,
+      "word": "秦刚说给日方掰扯下什么是所谓秩序",
+      "onboard_time": 1678162045,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 162407,
       "num": 162407,
       "word": "小福贵看了都得叫你声姐",
@@ -10393,6 +10489,14 @@
       "onboard_time": 1677804089,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158234,
+      "num": 158234,
+      "word": "陈钰琪新剧杀青随拍",
+      "onboard_time": 1678161509,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 157708,
@@ -10995,6 +11099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141427,
+      "num": 141427,
+      "word": "外交部长谈中日关系",
+      "onboard_time": 1678161265,
+      "rank": 43,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 141389,
       "num": 141389,
       "word": "孙千出发巴黎时装周",
@@ -11523,12 +11635,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126051,
+      "num": 126051,
+      "word": "杭州亚运会场馆慢直播",
+      "onboard_time": 1678159766,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125817,
       "num": 125817,
       "word": "TWICE新歌初舞台直拍",
       "onboard_time": 1677748172,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125312,
+      "num": 125312,
+      "word": "LOFTER再回应头像生成器争议",
+      "onboard_time": 1678162886,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 125178,
@@ -11795,14 +11923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117054,
-      "num": 117054,
-      "word": "杭州亚运会场馆慢直播",
-      "onboard_time": 1678159766,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116769,
       "num": 116769,
       "word": "大哥大爷神同步跳河救人获见义勇为",
@@ -11857,6 +11977,14 @@
       "onboard_time": 1678102527,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115289,
+      "num": 115289,
+      "word": "重紫水月之吻海报",
+      "onboard_time": 1678161627,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 115177,
@@ -12971,6 +13099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74770,
+      "num": 745168,
+      "word": "两会数说中国",
+      "onboard_time": 1678161026,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 74720,
       "num": 74720,
       "word": "宋亚轩和老师弹唱爱我还是他",
@@ -13648,6 +13784,9 @@
     },
     {
       "word": "#习近平与代表委员的连心之路#"
+    },
+    {
+      "word": "#总书记的两会时间#"
     }
   ]
 }
