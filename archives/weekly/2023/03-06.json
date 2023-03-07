@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678221288919,
+  "endTime": 1678223867317,
   "band_list": [
     {
       "raw_hot": 4489001,
@@ -4827,6 +4827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27534,
+      "num": 27534,
+      "word": "切尔西vs多特蒙德",
+      "onboard_time": 1678214834,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25802,
       "num": 471613,
       "word": "开局之年的新机遇新挑战",
@@ -4835,11 +4843,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 25495,
-      "num": 25495,
-      "word": "切尔西vs多特蒙德",
-      "onboard_time": 1678214834,
-      "rank": 24,
+      "raw_hot": 21679,
+      "num": 21679,
+      "word": "欧冠联赛",
+      "onboard_time": 1678220351,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -4859,12 +4867,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 13606,
-      "num": 13606,
-      "word": "欧冠联赛",
-      "onboard_time": 1678220351,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 13154,
+      "num": 13154,
+      "word": "跑步的治愈功能",
+      "onboard_time": 1678222271,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 11309,
