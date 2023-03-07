@@ -1,0 +1,410 @@
+{
+  "runTime": 1678166329142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 842455,
+        "num": 842455,
+        "word": "台湾问题处理不好中美关系地动山摇",
+        "onboard_time": 1678160726,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 617622,
+        "num": 617622,
+        "word": "何超琼说自己是大湾区人",
+        "onboard_time": 1678152807,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41791,
+        "num": 441185,
+        "word": "两会数说中国",
+        "onboard_time": 1678161026,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1344020,
+        "num": 396185,
+        "word": "专家称打HPV疫苗不必纠结几价",
+        "onboard_time": 1678161447,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1113941,
+        "num": 387962,
+        "word": "小孩爱说的烂梗越来越多了",
+        "onboard_time": 1678154065,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 332157,
+        "num": 332157,
+        "word": "代表称要理解和尊重不婚女性",
+        "onboard_time": 1678160726,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313499,
+        "num": 313499,
+        "word": "苹果或3月8日开新品发布会",
+        "onboard_time": 1678155144,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 311999,
+        "num": 311999,
+        "word": "baby girl",
+        "onboard_time": 1678158505,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282166,
+        "num": 282166,
+        "word": "秦刚回应所谓战狼外交",
+        "onboard_time": 1678161746,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 277994,
+        "num": 277994,
+        "word": "LOFTER再回应头像生成器争议",
+        "onboard_time": 1678162886,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1514889,
+        "num": 277198,
+        "word": "王晶转发刘亦菲新剧说怪不得推传说",
+        "onboard_time": 1678164868,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1057889,
+        "num": 271928,
+        "word": "俄罗斯顶级科学家被皮带勒死家中",
+        "onboard_time": 1678162167,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 642626,
+        "num": 263562,
+        "word": "在京海大学上学",
+        "onboard_time": 1678164687,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321617,
+        "num": 263394,
+        "word": "我在魔都当农民",
+        "onboard_time": 1678164511,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287214,
+        "num": 255158,
+        "word": "骆歆发文祝福记得",
+        "onboard_time": 1678153525,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253852,
+        "num": 253852,
+        "word": "多地二手房业主保卫房价",
+        "onboard_time": 1678155623,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 252642,
+        "num": 252642,
+        "word": "张艺兴新电影开机路透",
+        "onboard_time": 1678162467,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236697,
+        "num": 236697,
+        "word": "吴磊赵今麦撒娇路透",
+        "onboard_time": 1678166245,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231274,
+        "num": 231274,
+        "word": "黑暗荣耀2",
+        "onboard_time": 1678156643,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218256,
+        "num": 218256,
+        "word": "我们都爱笑主创近况",
+        "onboard_time": 1678163550,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1495333,
+        "num": 217907,
+        "word": "关晓彤回应肉色打底穿搭",
+        "onboard_time": 1678162229,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 520707,
+        "num": 217576,
+        "word": "清华保洁阿姨身穿晚礼服弹奏钢琴",
+        "onboard_time": 1678163248,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245565,
+        "num": 217394,
+        "word": "肖战蓬皮杜艺术中心看展",
+        "onboard_time": 1678151366,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244768,
+        "num": 216780,
+        "word": "别拿我的爱好挑战你的专业",
+        "onboard_time": 1678163248,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216641,
+        "num": 216641,
+        "word": "99年男生用家务机器人做保洁",
+        "onboard_time": 1678165827,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215739,
+        "num": 215739,
+        "word": "张俪签约觉醒东方",
+        "onboard_time": 1678155744,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213112,
+        "num": 213112,
+        "word": "邓超杜海涛交流减肥经验",
+        "onboard_time": 1678164567,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201998,
+        "num": 201998,
+        "word": "女子送锦旗感谢民警找回30万却被抓",
+        "onboard_time": 1678148966,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186884,
+        "num": 186884,
+        "word": "中国政法大学校长谈大学生就业",
+        "onboard_time": 1678153825,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 175794,
+        "num": 175794,
+        "word": "秦刚说给日方掰扯下什么是所谓秩序",
+        "onboard_time": 1678162045,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 174023,
+        "num": 174023,
+        "word": "同城快送收到背去世老人下楼订单",
+        "onboard_time": 1678145483,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173044,
+        "num": 173044,
+        "word": "广东选调",
+        "onboard_time": 1678160247,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169858,
+        "num": 169858,
+        "word": "光遇",
+        "onboard_time": 1678162045,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160927,
+        "num": 160927,
+        "word": "虞书欣张凌赫新剧拥抱路透",
+        "onboard_time": 1678156403,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137656,
+        "num": 137656,
+        "word": "KAKAO宣布公开收购SMTOWN",
+        "onboard_time": 1678147947,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137016,
+        "num": 137016,
+        "word": "大侦探第七案剧照",
+        "onboard_time": 1678163608,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136512,
+        "num": 136512,
+        "word": "柠栀23岁反差感大片",
+        "onboard_time": 1678165230,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134400,
+        "num": 134400,
+        "word": "外交部长秦刚答中外记者问",
+        "onboard_time": 1678157366,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 121366,
+        "num": 121366,
+        "word": "杭州亚运会主题推广曲",
+        "onboard_time": 1678158927,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115640,
+        "num": 115640,
+        "word": "中国外交已按下加速键",
+        "onboard_time": 1678156464,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 106153,
+        "num": 106153,
+        "word": "叶诗文代表运动员宣誓杭州亚运会",
+        "onboard_time": 1678166126,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 104927,
+        "num": 104927,
+        "word": "感染甲流会有全身症状",
+        "onboard_time": 1678107386,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103130,
+        "num": 103130,
+        "word": "90后代表称大学生也可以回农村",
+        "onboard_time": 1678153344,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103079,
+        "num": 103079,
+        "word": "陈钰琪新剧杀青随拍",
+        "onboard_time": 1678161509,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103006,
+        "num": 103006,
+        "word": "薛之谦 抢票",
+        "onboard_time": 1678145241,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101922,
+        "num": 101922,
+        "word": "梁龙问蒋龙是不是想提前杀青",
+        "onboard_time": 1678161026,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102231,
+        "num": 101911,
+        "word": "众星献唱杭州亚运会推广曲",
+        "onboard_time": 1678161986,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101570,
+        "num": 101570,
+        "word": "刘烨胡军新片对手戏",
+        "onboard_time": 1678160427,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95516,
+        "num": 95516,
+        "word": "电竞选手为杭州亚运会助威",
+        "onboard_time": 1678166065,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93647,
+        "num": 93647,
+        "word": "外交部长向广大青年提出几点希望",
+        "onboard_time": 1678166306,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族各界妇女致以节日祝贺#"
+    }
+  }
+}
