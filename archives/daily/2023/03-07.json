@@ -1,6 +1,6 @@
 {
   "startTime": 1678120040193,
-  "endTime": 1678193864924,
+  "endTime": 1678195727758,
   "band_list": [
     {
       "raw_hot": 4489001,
@@ -43,12 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1814270,
+      "num": 450343,
+      "word": "管泽元",
+      "onboard_time": 1678194147,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1744728,
       "num": 471899,
       "word": "周星驰 周杰伦",
       "onboard_time": 1678167867,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1708283,
+      "num": 448443,
+      "word": "骆歆 这样的道歉不如不道歉",
+      "onboard_time": 1678194987,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 1662953,
@@ -379,6 +395,14 @@
       "category": "科技,教育"
     },
     {
+      "raw_hot": 608797,
+      "num": 148518,
+      "word": "苗苗妹妹客串郑恺新电影",
+      "onboard_time": 1678195288,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 593323,
       "num": 593323,
       "word": "baby girl",
@@ -515,6 +539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 505106,
+      "num": 505106,
+      "word": "健身猪一只最高能卖8万元",
+      "onboard_time": 1678192045,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502373,
       "num": 502373,
       "word": "工地食堂因饭菜实惠成大学生打卡点",
@@ -635,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422565,
+      "num": 225650,
+      "word": "刘昊然董子健摆摊",
+      "onboard_time": 1678192948,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418188,
       "num": 418188,
       "word": "如何看待年轻人大城挣钱小城安家",
@@ -723,12 +763,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380391,
-      "num": 273471,
-      "word": "健身猪一只最高能卖8万元",
-      "onboard_time": 1678192045,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 381459,
+      "num": 381459,
+      "word": "玄商君失忆",
+      "onboard_time": 1678193070,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 381019,
+      "num": 381019,
+      "word": "最磨人的慢性病",
+      "onboard_time": 1678194627,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 376589,
@@ -843,14 +891,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 343099,
-      "num": 225650,
-      "word": "刘昊然董子健摆摊",
-      "onboard_time": 1678192948,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 342833,
       "num": 342833,
       "word": "警方搜查刘亚仁住所",
@@ -876,7 +916,7 @@
     },
     {
       "raw_hot": 330853,
-      "num": 266244,
+      "num": 280251,
       "word": "易烊千玺短片演汽车人",
       "onboard_time": 1678193188,
       "rank": 15,
@@ -952,14 +992,6 @@
       "word": "苗苗带女儿探班前任4剧组",
       "onboard_time": 1678187008,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 300016,
-      "num": 300016,
-      "word": "玄商君失忆",
-      "onboard_time": 1678193070,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -1291,6 +1323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203433,
+      "num": 203433,
+      "word": "大鹏王迅王圣迪扫楼扫成了演唱会",
+      "onboard_time": 1678195288,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202948,
       "num": 202948,
       "word": "第五人格",
@@ -1571,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161070,
+      "num": 161070,
+      "word": "战斗机在中国电影里起飞了",
+      "onboard_time": 1678193967,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158927,
       "num": 158927,
       "word": "为什么感觉这波甲流这么厉害",
@@ -1819,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123636,
+      "num": 123636,
+      "word": "LNG战胜TES",
+      "onboard_time": 1678194086,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123028,
       "num": 123028,
       "word": "范丞丞白衬衫花絮照",
@@ -1923,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114713,
+      "num": 114713,
+      "word": "绑螃蟹的橡皮筋有多压秤",
+      "onboard_time": 1678192707,
+      "rank": 48,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 114033,
       "num": 114033,
       "word": "李一桐毕雯珺清唱乌梅子酱",
@@ -1945,6 +2009,14 @@
       "onboard_time": 1678173984,
       "rank": 39,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 112744,
+      "num": 112744,
+      "word": "2023WCBA总决赛",
+      "onboard_time": 1678195225,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 112732,
@@ -2043,14 +2115,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 102164,
-      "num": 102164,
-      "word": "绑螃蟹的橡皮筋有多压秤",
-      "onboard_time": 1678192707,
-      "rank": 48,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 100152,
       "num": 123175,
       "word": "卫生巾需要被藏起来吗",
@@ -2065,6 +2129,14 @@
       "onboard_time": 1678170627,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 98785,
+      "num": 98785,
+      "word": "余陶然孙沐雨游戏局双向奔赴",
+      "onboard_time": 1678193967,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 97755,
@@ -2155,6 +2227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 92071,
+      "num": 616820,
+      "word": "最高法工作报告",
+      "onboard_time": 1678194147,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 91552,
       "num": 91552,
       "word": "最后生还者",
@@ -2225,6 +2305,14 @@
       "onboard_time": 1678095386,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 83266,
+      "num": 83266,
+      "word": "白鹿郑书意今日下班路透",
+      "onboard_time": 1678189708,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 82611,
