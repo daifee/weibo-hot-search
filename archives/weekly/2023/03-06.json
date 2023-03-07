@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678171210772,
+  "endTime": 1678173445135,
   "band_list": [
     {
       "raw_hot": 3357688,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1744728,
-      "num": 232302,
+      "num": 471899,
       "word": "周星驰 周杰伦",
       "onboard_time": 1678167867,
       "rank": 10,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1057889,
-      "num": 336404,
+      "num": 469404,
       "word": "俄罗斯顶级科学家被皮带勒死家中",
       "onboard_time": 1678162167,
       "rank": 30,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 866386,
+      "num": 866386,
+      "word": "努比亚",
+      "onboard_time": 1678171405,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 849973,
       "num": 849973,
       "word": "吴尊友回应三年白头",
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 816444,
+      "num": 471260,
+      "word": "A股",
+      "onboard_time": 1678170267,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 815154,
       "num": 815154,
       "word": "薛之谦 门票",
@@ -441,6 +457,14 @@
       "onboard_time": 1678086986,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 814053,
+      "num": 270789,
+      "word": "女子每天通勤5小时月花费6000元",
+      "onboard_time": 1678171165,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 786941,
@@ -553,14 +577,6 @@
       "onboard_time": 1678111048,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 658758,
-      "num": 213513,
-      "word": "A股",
-      "onboard_time": 1678170267,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 650777,
@@ -676,7 +692,7 @@
     },
     {
       "raw_hot": 575149,
-      "num": 261095,
+      "num": 440261,
       "word": "郭敬明减肥训练营",
       "onboard_time": 1678166367,
       "rank": 12,
@@ -697,6 +713,14 @@
       "onboard_time": 1678084226,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 559498,
+      "num": 559498,
+      "word": "海关查获霍格沃茨之遗等光盘800张",
+      "onboard_time": 1678168768,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 558281,
@@ -819,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510185,
+      "num": 510185,
+      "word": "得了甲流就得吃抗病毒药吗",
+      "onboard_time": 1678168166,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508558,
       "num": 450574,
       "word": "这是真的水泥封心了",
@@ -865,6 +897,14 @@
       "onboard_time": 1678114588,
       "rank": 13,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 490900,
+      "num": 490900,
+      "word": "基地回应大熊猫福菀被游客泼水",
+      "onboard_time": 1678172065,
+      "rank": 8,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 487591,
@@ -939,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 454406,
-      "num": 454406,
-      "word": "得了甲流就得吃抗病毒药吗",
-      "onboard_time": 1678168166,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 444947,
       "num": 444947,
       "word": "90后代表称大学生也可以回农村",
@@ -969,6 +1001,14 @@
       "onboard_time": 1678031486,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 441058,
+      "num": 441058,
+      "word": "重紫魔尊今晚大婚",
+      "onboard_time": 1678171585,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 439233,
@@ -1155,12 +1195,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 374044,
-      "num": 218294,
-      "word": "海关查获霍格沃茨之遗等光盘800张",
-      "onboard_time": 1678168768,
-      "rank": 14,
-      "category": "游戏"
+      "raw_hot": 371495,
+      "num": 371495,
+      "word": "肖俊将担任THESHOWMC",
+      "onboard_time": 1678171707,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 368959,
@@ -1225,6 +1265,14 @@
       "onboard_time": 1678024829,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358692,
+      "num": 358692,
+      "word": "星落凝成糖编剧",
+      "onboard_time": 1678171885,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 357043,
@@ -1379,6 +1427,14 @@
       "category": "社会负面,财经"
     },
     {
+      "raw_hot": 313646,
+      "num": 313646,
+      "word": "建议降低教育水平在积分落户中的比例",
+      "onboard_time": 1678169308,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 312860,
       "num": 487511,
       "word": "任何时候中国都不能缺少制造业",
@@ -1473,6 +1529,14 @@
       "onboard_time": 1678090884,
       "rank": 45,
       "category": "社会正能量,科技"
+    },
+    {
+      "raw_hot": 286798,
+      "num": 286798,
+      "word": "乃万以词曲创作者身份参与亚运会",
+      "onboard_time": 1678171826,
+      "rank": 18,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 283911,
@@ -1771,6 +1835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218273,
+      "num": 218273,
+      "word": "这班上的还是保守了",
+      "onboard_time": 1678170147,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218256,
       "num": 218256,
       "word": "我们都爱笑主创近况",
@@ -1929,14 +2001,6 @@
       "onboard_time": 1678071986,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 205247,
-      "num": 205247,
-      "word": "建议降低教育水平在积分落户中的比例",
-      "onboard_time": 1678169308,
-      "rank": 32,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 205007,
@@ -2171,6 +2235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194354,
+      "num": 194354,
+      "word": "首批亚运电竞特许商品上线",
+      "onboard_time": 1678172847,
+      "rank": 24,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 194142,
       "num": 194142,
       "word": "迎接春天",
@@ -2233,6 +2305,14 @@
       "onboard_time": 1678088307,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189799,
+      "num": 189799,
+      "word": "关于国务院机构改革方案的说明",
+      "onboard_time": 1678172367,
+      "rank": 25,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 189249,
@@ -2587,6 +2667,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 158352,
+      "num": 158352,
+      "word": "这就是面若桃花吧",
+      "onboard_time": 1678168826,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158234,
       "num": 158234,
       "word": "陈钰琪新剧杀青随拍",
@@ -2619,12 +2707,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 156246,
-      "num": 156246,
-      "word": "这就是面若桃花吧",
-      "onboard_time": 1678168826,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 155524,
+      "num": 155524,
+      "word": "建议中国企业要敢于在国际上出题",
+      "onboard_time": 1678170804,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154849,
@@ -2667,6 +2755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150569,
+      "num": 150569,
+      "word": "王鹤棣白马帅定妆花絮",
+      "onboard_time": 1678172006,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148768,
       "num": 148768,
       "word": "宋亚轩绑小揪揪插兜",
@@ -2697,14 +2793,6 @@
       "onboard_time": 1678151244,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144147,
-      "num": 144147,
-      "word": "这班上的还是保守了",
-      "onboard_time": 1678170147,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 144056,
@@ -2753,6 +2841,14 @@
       "onboard_time": 1678072047,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138183,
+      "num": 138183,
+      "word": "杭州亚运会倒计时200天",
+      "onboard_time": 1678171287,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 136512,
@@ -2875,6 +2971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123028,
+      "num": 123028,
+      "word": "范丞丞白衬衫花絮照",
+      "onboard_time": 1678171945,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122939,
       "num": 122939,
       "word": "RNG三连败",
@@ -2905,6 +3009,14 @@
       "onboard_time": 1678166126,
       "rank": 40,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 121379,
+      "num": 121379,
+      "word": "KPL春季赛第四周最佳阵容",
+      "onboard_time": 1678171525,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 121256,
@@ -3001,14 +3113,6 @@
       "onboard_time": 1678091064,
       "rank": 43,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 111367,
-      "num": 111367,
-      "word": "建议中国企业要敢于在国际上出题",
-      "onboard_time": 1678170804,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110910,
@@ -3227,6 +3331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 98340,
+      "num": 98340,
+      "word": "奇瑞领导称周六是奋斗者正常工作日",
+      "onboard_time": 1678173206,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98232,
       "num": 98232,
       "word": "福菀",
@@ -3241,6 +3353,14 @@
       "onboard_time": 1678018467,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97755,
+      "num": 97755,
+      "word": "十四届全国人大一次会议第二次全体会议",
+      "onboard_time": 1678171226,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97624,
@@ -3403,14 +3523,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 77052,
-      "num": 77052,
-      "word": "女子每天通勤5小时月花费6000元",
-      "onboard_time": 1678171165,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75018,
       "num": 75018,
       "word": "陈卓璇唱支山歌给党听",
@@ -3505,6 +3617,14 @@
       "onboard_time": 1678128012,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 57734,
+      "num": 472868,
+      "word": "代表通道采访直播",
+      "onboard_time": 1678172667,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 56067,
