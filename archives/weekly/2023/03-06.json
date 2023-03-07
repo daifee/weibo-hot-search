@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678231217930,
+  "endTime": 1678232057121,
   "band_list": [
     {
       "raw_hot": 4489001,
@@ -459,8 +459,16 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1022216,
+      "num": 355271,
+      "word": "陪你多读书就黄多多读错字道歉",
+      "onboard_time": 1678231161,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1017126,
-      "num": 281773,
+      "num": 315526,
       "word": "苗苗妹妹客串郑恺新电影",
       "onboard_time": 1678195288,
       "rank": 30,
@@ -683,6 +691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 747006,
+      "num": 747006,
+      "word": "广州震感",
+      "onboard_time": 1678231044,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746544,
       "num": 746544,
       "word": "建议三孩以上家庭公租房免费",
@@ -728,6 +744,14 @@
       "word": "酒店1场会议43瓶水未喝完被罚",
       "onboard_time": 1678108348,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 724471,
+      "num": 373114,
+      "word": "上海宜家回应禁止在仓库拍照",
+      "onboard_time": 1678207758,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -841,14 +865,6 @@
       "onboard_time": 1678075470,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 630560,
-      "num": 373114,
-      "word": "上海宜家回应禁止在仓库拍照",
-      "onboard_time": 1678207758,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 629080,
@@ -1531,20 +1547,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 395719,
+      "num": 395719,
+      "word": "白色草莓真的更好吃吗",
+      "onboard_time": 1678226414,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 393073,
+      "num": 393073,
+      "word": "杭州法喜寺500岁玉兰盛放",
+      "onboard_time": 1678230079,
+      "rank": 18,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 392380,
       "num": 392380,
       "word": "美媒称中国起重机有间谍作用",
       "onboard_time": 1678133413,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 392346,
-      "num": 392346,
-      "word": "白色草莓真的更好吃吗",
-      "onboard_time": 1678226414,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 391435,
@@ -1584,6 +1608,14 @@
       "word": "在美华人用四川话喊丫丫",
       "onboard_time": 1678154365,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382988,
+      "num": 382988,
+      "word": "妇女节",
+      "onboard_time": 1678230741,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1641,6 +1673,14 @@
       "onboard_time": 1678201469,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369473,
+      "num": 369473,
+      "word": "深圳震感",
+      "onboard_time": 1678230741,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368959,
@@ -1891,14 +1931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330644,
-      "num": 330644,
-      "word": "广州震感",
-      "onboard_time": 1678231044,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329066,
       "num": 329066,
       "word": "教资",
@@ -2089,14 +2121,6 @@
       "onboard_time": 1678161026,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289772,
-      "num": 289772,
-      "word": "妇女节",
-      "onboard_time": 1678230741,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289313,
@@ -2339,14 +2363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241892,
-      "num": 241892,
-      "word": "深圳震感",
-      "onboard_time": 1678230741,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241624,
       "num": 241624,
       "word": "大侦探第七案剧照",
@@ -2395,7 +2411,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235938,
+      "raw_hot": 236606,
       "num": 172632,
       "word": "澳大利亚将对猫实施宵禁措施",
       "onboard_time": 1678217771,
@@ -2803,12 +2819,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 200667,
+      "num": 200667,
+      "word": "再也不配说胖得像猪了",
+      "onboard_time": 1678216932,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200222,
       "num": 200222,
       "word": "张钧甯巴黎看秀造型",
       "onboard_time": 1678183231,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200197,
+      "num": 114970,
+      "word": "切尔西淘汰多特蒙德",
+      "onboard_time": 1678231703,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 200100,
@@ -2947,6 +2979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195938,
+      "num": 195938,
+      "word": "她的样子不需要被定义",
+      "onboard_time": 1678231100,
+      "rank": 28,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 195923,
       "num": 195923,
       "word": "虞书欣新剧哭戏路透",
@@ -2985,22 +3025,6 @@
       "onboard_time": 1678107986,
       "rank": 24,
       "category": "音乐,时尚"
-    },
-    {
-      "raw_hot": 195357,
-      "num": 97034,
-      "word": "陪你多读书就黄多多读错字道歉",
-      "onboard_time": 1678231161,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 195130,
-      "num": 195130,
-      "word": "杭州法喜寺500岁玉兰盛放",
-      "onboard_time": 1678230079,
-      "rank": 18,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 194751,
@@ -3299,6 +3323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175540,
+      "num": 175540,
+      "word": "中国证券监督管理委员会调为国务院直属机构",
+      "onboard_time": 1678230800,
+      "rank": 25,
+      "category": "国内要闻,财经"
+    },
+    {
       "raw_hot": 174760,
       "num": 174760,
       "word": "蔡依林看我72变发行20周年",
@@ -3393,14 +3425,6 @@
       "onboard_time": 1678097608,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 168004,
-      "num": 168004,
-      "word": "再也不配说胖得像猪了",
-      "onboard_time": 1678216932,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167814,
@@ -3659,6 +3683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147145,
+      "num": 147145,
+      "word": "佛山震感",
+      "onboard_time": 1678231402,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146701,
       "num": 146701,
       "word": "坚决反对一切形式的霸权主义",
@@ -3857,14 +3889,6 @@
       "onboard_time": 1678174406,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126630,
-      "num": 126630,
-      "word": "中国证券监督管理委员会调为国务院直属机构",
-      "onboard_time": 1678230800,
-      "rank": 25,
-      "category": "国内要闻,财经"
     },
     {
       "raw_hot": 126458,
@@ -4403,12 +4427,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103061,
-      "num": 103061,
-      "word": "她的样子不需要被定义",
-      "onboard_time": 1678231100,
-      "rank": 28,
-      "category": "情感,社会新闻"
+      "raw_hot": 103168,
+      "num": 103168,
+      "word": "已派专家在孟菲斯动物园协助照料丫丫",
+      "onboard_time": 1678231882,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102739,
@@ -4763,6 +4787,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 72790,
+      "num": 72790,
+      "word": "毕雯珺喝了李一桐奶茶",
+      "onboard_time": 1678209675,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 72662,
+      "num": 72662,
+      "word": "欧冠联赛",
+      "onboard_time": 1678220351,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70368,
       "num": 70368,
       "word": "南京地铁回应乘客因手机外放收罚单",
@@ -4779,20 +4819,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 68556,
+      "num": 68556,
+      "word": "跑步的治愈功能",
+      "onboard_time": 1678222271,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66402,
       "num": 66402,
       "word": "梁靖崑夺冠",
       "onboard_time": 1678020750,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66070,
-      "num": 66070,
-      "word": "跑步的治愈功能",
-      "onboard_time": 1678222271,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 65357,
@@ -4819,20 +4859,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 61863,
-      "num": 61863,
-      "word": "欧冠联赛",
-      "onboard_time": 1678220351,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 60679,
       "num": 60679,
       "word": "马丽大鹏十年后再合作",
       "onboard_time": 1678131311,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 59968,
+      "num": 59968,
+      "word": "祝每一个她节日快乐",
+      "onboard_time": 1678232005,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 57873,
@@ -4849,14 +4889,6 @@
       "onboard_time": 1678172667,
       "rank": 9,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 57633,
-      "num": 57633,
-      "word": "毕雯珺喝了李一桐奶茶",
-      "onboard_time": 1678209675,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 56067,
