@@ -1,7 +1,15 @@
 {
   "startTime": 1678206448826,
-  "endTime": 1678228585308,
+  "endTime": 1678231217930,
   "band_list": [
+    {
+      "raw_hot": 2698699,
+      "num": 2698699,
+      "word": "广东河源4.5级地震",
+      "onboard_time": 1678230501,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1085724,
       "num": 295711,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 848531,
-      "num": 300162,
+      "num": 388895,
       "word": "人民网评鸡你太美是恶俗烂梗",
       "onboard_time": 1678176747,
       "rank": 5,
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630560,
+      "num": 373114,
+      "word": "上海宜家回应禁止在仓库拍照",
+      "onboard_time": 1678207758,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521858,
       "num": 521858,
       "word": "官方辟谣送顿顿出国",
@@ -59,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369456,
-      "num": 369456,
-      "word": "上海宜家回应禁止在仓库拍照",
-      "onboard_time": 1678207758,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 392346,
+      "num": 392346,
+      "word": "白色草莓真的更好吃吗",
+      "onboard_time": 1678226414,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 339020,
@@ -73,6 +89,14 @@
       "onboard_time": 1678201109,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330644,
+      "num": 330644,
+      "word": "广州震感",
+      "onboard_time": 1678231044,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326129,
@@ -99,11 +123,27 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 299006,
+      "num": 255773,
+      "word": "苗苗妹妹客串郑恺新电影",
+      "onboard_time": 1678195288,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290981,
       "num": 290981,
       "word": "百草味回应袋装土豆片只有1片",
       "onboard_time": 1678196428,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289772,
+      "num": 289772,
+      "word": "妇女节",
+      "onboard_time": 1678230741,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -123,14 +163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255773,
-      "num": 255773,
-      "word": "苗苗妹妹客串郑恺新电影",
-      "onboard_time": 1678195288,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 249622,
       "num": 249622,
       "word": "查询陆虎张远王栎鑫精神状态",
@@ -139,12 +171,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241892,
+      "num": 241892,
+      "word": "深圳震感",
+      "onboard_time": 1678230741,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235938,
+      "num": 172632,
+      "word": "澳大利亚将对猫实施宵禁措施",
+      "onboard_time": 1678217771,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234764,
-      "num": 165319,
+      "num": 174151,
       "word": "大熊猫拉完粑粑屁股蹭妈妈头上",
       "onboard_time": 1678198291,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220336,
+      "num": 220336,
+      "word": "千万要小心路边的鬼秤",
+      "onboard_time": 1678196848,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 210668,
@@ -163,12 +219,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193006,
-      "num": 193006,
-      "word": "千万要小心路边的鬼秤",
-      "onboard_time": 1678196848,
+      "raw_hot": 198289,
+      "num": 198289,
+      "word": "广东地震",
+      "onboard_time": 1678230501,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195357,
+      "num": 97034,
+      "word": "陪你多读书就黄多多读错字道歉",
+      "onboard_time": 1678231161,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195130,
+      "num": 195130,
+      "word": "杭州法喜寺500岁玉兰盛放",
+      "onboard_time": 1678230079,
       "rank": 18,
-      "category": "幽默"
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 174760,
@@ -177,6 +249,14 @@
       "onboard_time": 1678203149,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168004,
+      "num": 168004,
+      "word": "再也不配说胖得像猪了",
+      "onboard_time": 1678216932,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157924,
@@ -204,19 +284,11 @@
     },
     {
       "raw_hot": 140338,
-      "num": 131093,
+      "num": 136807,
       "word": "脑瘫小伙旁听12年即将博士毕业",
       "onboard_time": 1678205843,
       "rank": 43,
       "category": "社会正能量,教育"
-    },
-    {
-      "raw_hot": 137558,
-      "num": 137558,
-      "word": "白色草莓真的更好吃吗",
-      "onboard_time": 1678226414,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 133087,
@@ -227,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129056,
-      "num": 129056,
-      "word": "澳大利亚将对猫实施宵禁措施",
-      "onboard_time": 1678217771,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 126630,
+      "num": 126630,
+      "word": "中国证券监督管理委员会调为国务院直属机构",
+      "onboard_time": 1678230800,
+      "rank": 25,
+      "category": "国内要闻,财经"
     },
     {
       "raw_hot": 124974,
@@ -275,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103061,
+      "num": 103061,
+      "word": "她的样子不需要被定义",
+      "onboard_time": 1678231100,
+      "rank": 28,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 101845,
       "num": 101845,
       "word": "建议父母满65岁给子女陪护假",
@@ -307,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84659,
+      "num": 84659,
+      "word": "切尔西vs多特蒙德",
+      "onboard_time": 1678214834,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78661,
       "num": 78661,
       "word": "博主挑战天价土豆火锅被账单吓到",
@@ -331,14 +419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 69699,
-      "num": 69699,
-      "word": "再也不配说胖得像猪了",
-      "onboard_time": 1678216932,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69621,
       "num": 69621,
       "word": "马来西亚光明日报报道肖战",
@@ -353,6 +433,14 @@
       "onboard_time": 1678193070,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 66070,
+      "num": 66070,
+      "word": "跑步的治愈功能",
+      "onboard_time": 1678222271,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 65951,
@@ -371,6 +459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 61863,
+      "num": 61863,
+      "word": "欧冠联赛",
+      "onboard_time": 1678220351,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60301,
       "num": 60301,
       "word": "故宫玉兰花开了",
@@ -379,12 +475,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 57747,
-      "num": 57747,
-      "word": "切尔西vs多特蒙德",
-      "onboard_time": 1678214834,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 57633,
+      "num": 57633,
+      "word": "毕雯珺喝了李一桐奶茶",
+      "onboard_time": 1678209675,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 56461,
@@ -419,22 +515,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 43856,
-      "num": 43856,
-      "word": "欧冠联赛",
-      "onboard_time": 1678220351,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 43714,
-      "num": 43714,
-      "word": "跑步的治愈功能",
-      "onboard_time": 1678222271,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 42327,
       "num": 53446,
       "word": "不再保留中国银行保险监督管理委员会",
@@ -451,16 +531,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 40895,
-      "num": 34069,
-      "word": "毕雯珺喝了李一桐奶茶",
-      "onboard_time": 1678209675,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 39209,
-      "num": 399973,
+      "raw_hot": 41114,
+      "num": 516298,
       "word": "最高法工作报告",
       "onboard_time": 1678194147,
       "rank": 2,
