@@ -1,6 +1,6 @@
 {
   "startTime": 1678120040193,
-  "endTime": 1678196388822,
+  "endTime": 1678198719162,
   "band_list": [
     {
       "raw_hot": 4489001,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1324323,
+      "num": 1324323,
+      "word": "缉毒警嫂的电话只敢响铃5秒钟",
+      "onboard_time": 1678195768,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1285993,
       "num": 315023,
       "word": "刘亦菲李惠仁谷爱凌同框",
@@ -211,6 +219,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1017126,
+      "num": 281773,
+      "word": "苗苗妹妹客串郑恺新电影",
+      "onboard_time": 1678195288,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 989100,
       "num": 495080,
       "word": "女子拒绝调岗被强制离职踢出群聊",
@@ -257,14 +273,6 @@
       "onboard_time": 1678171405,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 847437,
-      "num": 281773,
-      "word": "苗苗妹妹客串郑恺新电影",
-      "onboard_time": 1678195288,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 846612,
@@ -323,20 +331,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 736281,
+      "num": 729434,
+      "word": "最磨人的慢性病",
+      "onboard_time": 1678194627,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 734643,
       "num": 548436,
       "word": "威廉疑似在校被霸凌",
       "onboard_time": 1678103367,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 729434,
-      "num": 729434,
-      "word": "最磨人的慢性病",
-      "onboard_time": 1678194627,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 725684,
@@ -523,6 +531,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 517567,
+      "num": 517567,
+      "word": "百草味回应袋装土豆片只有1片",
+      "onboard_time": 1678196428,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 517409,
       "num": 517409,
       "word": "王小谟院士逝世",
@@ -545,6 +561,14 @@
       "onboard_time": 1678116988,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 507663,
+      "num": 507663,
+      "word": "星落凝成糖青葵自刎下线",
+      "onboard_time": 1678196908,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 507360,
@@ -763,6 +787,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 383659,
+      "num": 156819,
+      "word": "Jennie外媒生图",
+      "onboard_time": 1678198110,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 383516,
       "num": 342638,
       "word": "在美华人用四川话喊丫丫",
@@ -809,6 +841,14 @@
       "onboard_time": 1678171707,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368980,
+      "num": 231651,
+      "word": "千万要小心路边的鬼秤",
+      "onboard_time": 1678196848,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 368339,
@@ -1483,12 +1523,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186529,
-      "num": 145965,
-      "word": "缉毒警嫂的电话只敢响铃5秒钟",
-      "onboard_time": 1678195768,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 186792,
+      "num": 186792,
+      "word": "iPhone14黄色",
+      "onboard_time": 1678198709,
+      "rank": 18,
+      "category": "科技"
     },
     {
       "raw_hot": 186335,
@@ -1723,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146926,
+      "num": 146926,
+      "word": "鼓楼也不知道鼓楼咋突然火了",
+      "onboard_time": 1678198046,
+      "rank": 28,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 146701,
       "num": 146701,
       "word": "坚决反对一切形式的霸权主义",
@@ -1891,6 +1939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123396,
+      "num": 123396,
+      "word": "李佳琦直播",
+      "onboard_time": 1678197328,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 123028,
       "num": 123028,
       "word": "范丞丞白衬衫花絮照",
@@ -1945,6 +2001,14 @@
       "onboard_time": 1678180828,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 119402,
+      "num": 119402,
+      "word": "杨超越李岱昆互怼",
+      "onboard_time": 1678197869,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 117324,
@@ -2049,6 +2113,14 @@
       "onboard_time": 1678179808,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111386,
+      "num": 111386,
+      "word": "大熊猫拉完粑粑屁股蹭妈妈头上",
+      "onboard_time": 1678198291,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110910,
@@ -2275,6 +2347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88719,
+      "num": 94144,
+      "word": "院士谈流浪地球和三体中的科幻设定",
+      "onboard_time": 1678198410,
+      "rank": 46,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 88607,
       "num": 88607,
       "word": "虞书欣的一滴泪",
@@ -2393,6 +2473,14 @@
       "onboard_time": 1678103307,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 63235,
+      "num": 197617,
+      "word": "时装周上的中国面孔",
+      "onboard_time": 1678197629,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 63058,
@@ -2515,6 +2603,9 @@
     },
     {
       "word": "#十四届全国人大一次会议第二次全体会议#"
+    },
+    {
+      "word": "#总书记两会金句#"
     }
   ]
 }
