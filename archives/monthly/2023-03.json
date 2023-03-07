@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678185515305,
+  "endTime": 1678187846064,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -675,6 +675,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1435363,
+      "num": 356354,
+      "word": "40岁的985硕士求职被怼不招大妈",
+      "onboard_time": 1678183950,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1432919,
       "num": 1432919,
       "word": "赌王姐姐何婉鸿去世",
@@ -865,6 +873,14 @@
       "onboard_time": 1677722485,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1268537,
+      "num": 356156,
+      "word": "井柏然刘雯秀场热聊",
+      "onboard_time": 1678185810,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1265807,
@@ -1505,14 +1521,6 @@
       "onboard_time": 1677913346,
       "rank": 28,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 965623,
-      "num": 349917,
-      "word": "40岁的985硕士求职被怼不招大妈",
-      "onboard_time": 1678183950,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 964212,
@@ -2795,6 +2803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 642080,
+      "num": 642080,
+      "word": "不再保留中国人民银行县市支行",
+      "onboard_time": 1678183109,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 641422,
       "num": 641422,
       "word": "中戏院长谈演员的文化修养",
@@ -3145,14 +3161,6 @@
       "onboard_time": 1677766353,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 579126,
-      "num": 579126,
-      "word": "不再保留中国人民银行县市支行",
-      "onboard_time": 1678183109,
-      "rank": 5,
-      "category": "财经"
     },
     {
       "raw_hot": 577787,
@@ -4011,6 +4019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 495885,
+      "num": 495885,
+      "word": "国家线再涨就不礼貌了",
+      "onboard_time": 1678184430,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 495159,
       "num": 495159,
       "word": "黑暗荣耀2",
@@ -4145,6 +4161,14 @@
       "onboard_time": 1677744450,
       "rank": 8,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 478306,
+      "num": 478306,
+      "word": "郁金香",
+      "onboard_time": 1678183408,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 477588,
@@ -5009,14 +5033,6 @@
       "onboard_time": 1677811345,
       "rank": 17,
       "category": "科技"
-    },
-    {
-      "raw_hot": 400238,
-      "num": 400238,
-      "word": "郁金香",
-      "onboard_time": 1678183408,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 399385,
@@ -6547,6 +6563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307128,
+      "num": 307128,
+      "word": "建议父母满65岁给子女陪护假",
+      "onboard_time": 1678182870,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307080,
       "num": 307080,
       "word": "张杰广州演唱会加场",
@@ -6649,6 +6673,14 @@
       "onboard_time": 1677717569,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 300442,
+      "num": 300442,
+      "word": "月亮",
+      "onboard_time": 1678187428,
+      "rank": 15,
+      "category": "自然"
     },
     {
       "raw_hot": 300339,
@@ -6777,14 +6809,6 @@
       "onboard_time": 1677653007,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 293564,
-      "num": 293564,
-      "word": "国家线再涨就不礼貌了",
-      "onboard_time": 1678184430,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 292904,
@@ -7099,6 +7123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276637,
+      "num": 276637,
+      "word": "电竞教练带队员盗卖俱乐部硬件获刑",
+      "onboard_time": 1678184850,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 276493,
       "num": 191807,
       "word": "崩坏3第一部大结局",
@@ -7233,6 +7265,14 @@
       "onboard_time": 1677639631,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270275,
+      "num": 270275,
+      "word": "半熟恋人2鲶鱼约会",
+      "onboard_time": 1678184608,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 270126,
@@ -7411,14 +7451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261906,
-      "num": 261906,
-      "word": "半熟恋人2鲶鱼约会",
-      "onboard_time": 1678184608,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 261325,
       "num": 261325,
       "word": "XYG折夕",
@@ -7571,14 +7603,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 252644,
-      "num": 252644,
-      "word": "建议父母满65岁给子女陪护假",
-      "onboard_time": 1678182870,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252639,
       "num": 252639,
       "word": "制片人梅子笑为风波中的女演员抱不平",
@@ -7713,6 +7737,14 @@
       "onboard_time": 1678151665,
       "rank": 24,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 247875,
+      "num": 247875,
+      "word": "苗苗带女儿探班前任4剧组",
+      "onboard_time": 1678187008,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 247509,
@@ -8497,6 +8529,14 @@
       "onboard_time": 1678070004,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219219,
+      "num": 219219,
+      "word": "香奈儿大秀",
+      "onboard_time": 1678187428,
+      "rank": 23,
+      "category": "时尚"
     },
     {
       "raw_hot": 219056,
@@ -10419,6 +10459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180709,
+      "num": 180709,
+      "word": "儿子改随继父姓生父拒付抚养费",
+      "onboard_time": 1678187249,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180143,
       "num": 180143,
       "word": "最好嗑的年龄差cp",
@@ -11467,6 +11515,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 149853,
+      "num": 149853,
+      "word": "吴磊李兰迪童年同框照",
+      "onboard_time": 1678186828,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149807,
       "num": 198699,
       "word": "政府工作报告建议今年努力的几项重点",
@@ -11745,14 +11801,6 @@
       "onboard_time": 1677995966,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143059,
-      "num": 143059,
-      "word": "电竞教练带队员盗卖俱乐部硬件获刑",
-      "onboard_time": 1678184850,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 142800,
@@ -12123,6 +12171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134403,
+      "num": 134403,
+      "word": "洛音凡入魔",
+      "onboard_time": 1678186889,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134349,
       "num": 134349,
       "word": "错误擤鼻涕或致耳朵鼓膜穿孔",
@@ -12345,6 +12401,14 @@
       "onboard_time": 1678096467,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128370,
+      "num": 128370,
+      "word": "池昌旭不续约Glorious",
+      "onboard_time": 1678185628,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 127825,
@@ -13283,6 +13347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104191,
+      "num": 104191,
+      "word": "外媒镜头下的刘宇生图",
+      "onboard_time": 1678185628,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 104139,
       "num": 104139,
       "word": "成毅巴黎时装周停车场大片",
@@ -13681,6 +13753,14 @@
       "onboard_time": 1677833187,
       "rank": 45,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 90001,
+      "num": 90001,
+      "word": "2023秋冬时装周",
+      "onboard_time": 1678186949,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 89979,
