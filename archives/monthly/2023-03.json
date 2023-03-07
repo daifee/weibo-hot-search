@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678188852808,
+  "endTime": 1678192714579,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -785,6 +785,14 @@
       "onboard_time": 1678068026,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1358478,
+      "num": 207171,
+      "word": "多名韩国艺人整形医院就诊画面遭泄露",
+      "onboard_time": 1678189287,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1355833,
@@ -3355,6 +3363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 562214,
+      "num": 222495,
+      "word": "儿子改随继父姓生父拒付抚养费",
+      "onboard_time": 1678187249,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 561438,
       "num": 561438,
       "word": "鹿晗强行请王勉吃糖葫芦",
@@ -3971,6 +3987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 507360,
+      "num": 322313,
+      "word": "Jennie巴黎看秀状态",
+      "onboard_time": 1678187908,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 506025,
       "num": 506025,
       "word": "大卫詹姆斯受伤",
@@ -4089,6 +4113,14 @@
       "onboard_time": 1678002448,
       "rank": 12,
       "category": "科技"
+    },
+    {
+      "raw_hot": 488054,
+      "num": 395466,
+      "word": "博主挑战天价土豆火锅被账单吓到",
+      "onboard_time": 1678188987,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487591,
@@ -4419,14 +4451,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 456388,
-      "num": 322313,
-      "word": "Jennie巴黎看秀状态",
-      "onboard_time": 1678187908,
-      "rank": 13,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 456116,
       "num": 456116,
       "word": "教资认定",
@@ -4449,6 +4473,14 @@
       "onboard_time": 1678000525,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453926,
+      "num": 453926,
+      "word": "香奈儿大秀",
+      "onboard_time": 1678187428,
+      "rank": 23,
+      "category": "时尚"
     },
     {
       "raw_hot": 452920,
@@ -4537,14 +4569,6 @@
       "onboard_time": 1677679831,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 443450,
-      "num": 222495,
-      "word": "儿子改随继父姓生父拒付抚养费",
-      "onboard_time": 1678187249,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 443269,
@@ -5867,6 +5891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 348731,
+      "num": 306140,
+      "word": "陆虎张远直播",
+      "onboard_time": 1678192106,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348656,
       "num": 348656,
       "word": "U20国足vs沙特U20",
@@ -6011,6 +6043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342269,
+      "num": 342269,
+      "word": "EDG战胜WBG",
+      "onboard_time": 1678190188,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 342081,
       "num": 303821,
       "word": "希林娜依高高定红毯造型",
@@ -6049,14 +6089,6 @@
       "onboard_time": 1678002806,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 339705,
-      "num": 323689,
-      "word": "香奈儿大秀",
-      "onboard_time": 1678187428,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 339437,
@@ -6665,6 +6697,14 @@
       "onboard_time": 1678183469,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 303709,
+      "num": 303709,
+      "word": "苗苗带女儿探班前任4剧组",
+      "onboard_time": 1678187008,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 303031,
@@ -7347,6 +7387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268699,
+      "num": 204207,
+      "word": "小松菜奈菅田将晖同框看秀",
+      "onboard_time": 1678189348,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 268650,
       "num": 268650,
       "word": "电影断网",
@@ -7763,14 +7811,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 247875,
-      "num": 247875,
-      "word": "苗苗带女儿探班前任4剧组",
-      "onboard_time": 1678187008,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 247509,
       "num": 247509,
       "word": "急诊科医生与外卖小哥的共同点找到了",
@@ -7985,6 +8025,14 @@
       "onboard_time": 1677990806,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237843,
+      "num": 237843,
+      "word": "刘耀文没想到会去无限超越班",
+      "onboard_time": 1678189587,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 237314,
@@ -10515,6 +10563,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 179807,
+      "num": 179807,
+      "word": "故宫玉兰花开了",
+      "onboard_time": 1678190007,
+      "rank": 26,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 177756,
       "num": 165945,
       "word": "邢菲说第一次演现实题材作品",
@@ -10819,6 +10875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169943,
+      "num": 169943,
+      "word": "亚运会官旗回应首批特许商品抢断货",
+      "onboard_time": 1678191746,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169913,
       "num": 169913,
       "word": "塞尔达传说旷野之息发售六周年",
@@ -11003,6 +11067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166020,
+      "num": 162826,
+      "word": "健身猪一只最高能卖8万元",
+      "onboard_time": 1678192045,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165493,
       "num": 165493,
       "word": "东北连熊猫也会整活",
@@ -11080,6 +11152,14 @@
       "word": "罗晋新剧演侦察科长梁辰",
       "onboard_time": 1678093407,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 162885,
+      "num": 162885,
+      "word": "黑暗荣耀2主演们的剧透",
+      "onboard_time": 1678191447,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -12651,6 +12731,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 122592,
+      "num": 122592,
+      "word": "张译公主抱沈腾片段",
+      "onboard_time": 1678188987,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 122541,
       "num": 122541,
       "word": "警惕求稳躺平心态蔓延",
@@ -12921,6 +13009,14 @@
       "onboard_time": 1677591451,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114033,
+      "num": 114033,
+      "word": "李一桐毕雯珺清唱乌梅子酱",
+      "onboard_time": 1678191807,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 114014,
@@ -13619,6 +13715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96767,
+      "num": 96767,
+      "word": "星糖主打一个全糖",
+      "onboard_time": 1678190249,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 96032,
       "num": 96032,
       "word": "新发现或能让成人大脑产生新神经元",
@@ -13889,6 +13993,14 @@
       "onboard_time": 1677973400,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86214,
+      "num": 86214,
+      "word": "绑螃蟹的橡皮筋有多压秤",
+      "onboard_time": 1678192707,
+      "rank": 48,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 85200,

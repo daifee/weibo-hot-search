@@ -1,0 +1,410 @@
+{
+  "runTime": 1678192714579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 631701,
+        "num": 631701,
+        "word": "精减中央国家机关人员编制",
+        "onboard_time": 1678179808,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2104615,
+        "num": 603559,
+        "word": "人民网评鸡你太美是恶俗烂梗",
+        "onboard_time": 1678176747,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65824,
+        "num": 487335,
+        "word": "政府工作报告里年轻人关心的事",
+        "onboard_time": 1678166547,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 472000,
+        "num": 472000,
+        "word": "不再保留中国银行保险监督管理委员会",
+        "onboard_time": 1678180648,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 453926,
+        "num": 453926,
+        "word": "香奈儿大秀",
+        "onboard_time": 1678187428,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 434290,
+        "num": 434290,
+        "word": "不再保留中国人民银行县市支行",
+        "onboard_time": 1678183109,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 400989,
+        "num": 400989,
+        "word": "国家线再涨就不礼貌了",
+        "onboard_time": 1678184430,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 488054,
+        "num": 395466,
+        "word": "博主挑战天价土豆火锅被账单吓到",
+        "onboard_time": 1678188987,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342269,
+        "num": 342269,
+        "word": "EDG战胜WBG",
+        "onboard_time": 1678190188,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 309626,
+        "num": 309626,
+        "word": "鸡你太美商标无一注册成功",
+        "onboard_time": 1678182449,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 990434,
+        "num": 309494,
+        "word": "40岁的985硕士求职被怼不招大妈",
+        "onboard_time": 1678183950,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767228,
+        "num": 307405,
+        "word": "井柏然刘雯秀场热聊",
+        "onboard_time": 1678185810,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 348731,
+        "num": 306140,
+        "word": "陆虎张远直播",
+        "onboard_time": 1678192106,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507360,
+        "num": 304724,
+        "word": "Jennie巴黎看秀状态",
+        "onboard_time": 1678187908,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 303709,
+        "num": 303709,
+        "word": "苗苗带女儿探班前任4剧组",
+        "onboard_time": 1678187008,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289180,
+        "num": 289180,
+        "word": "月亮",
+        "onboard_time": 1678187428,
+        "rank": 15,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 251773,
+        "num": 251773,
+        "word": "国家线",
+        "onboard_time": 1678167205,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 237843,
+        "num": 237843,
+        "word": "刘耀文没想到会去无限超越班",
+        "onboard_time": 1678189587,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267124,
+        "num": 232524,
+        "word": "电竞教练带队员盗卖俱乐部硬件获刑",
+        "onboard_time": 1678184850,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214337,
+        "num": 214337,
+        "word": "郁金香",
+        "onboard_time": 1678183408,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1358478,
+        "num": 207171,
+        "word": "多名韩国艺人整形医院就诊画面遭泄露",
+        "onboard_time": 1678189287,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562214,
+        "num": 204431,
+        "word": "儿子改随继父姓生父拒付抚养费",
+        "onboard_time": 1678187249,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268699,
+        "num": 204207,
+        "word": "小松菜奈菅田将晖同框看秀",
+        "onboard_time": 1678189348,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196175,
+        "num": 196175,
+        "word": "女子每天通勤5小时月花费6000元",
+        "onboard_time": 1678171165,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193284,
+        "num": 193284,
+        "word": "迪丽热巴龚俊看代拍的反应",
+        "onboard_time": 1678184550,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192644,
+        "num": 192644,
+        "word": "国务院机构改革",
+        "onboard_time": 1678180888,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 179807,
+        "num": 179807,
+        "word": "故宫玉兰花开了",
+        "onboard_time": 1678190007,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 268609,
+        "num": 177651,
+        "word": "女子拒绝调岗被强制离职踢出群聊",
+        "onboard_time": 1678178907,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169943,
+        "num": 169943,
+        "word": "亚运会官旗回应首批特许商品抢断货",
+        "onboard_time": 1678191746,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162885,
+        "num": 162885,
+        "word": "黑暗荣耀2主演们的剧透",
+        "onboard_time": 1678191447,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166020,
+        "num": 162826,
+        "word": "健身猪一只最高能卖8万元",
+        "onboard_time": 1678192045,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153840,
+        "num": 153840,
+        "word": "半熟恋人2鲶鱼约会",
+        "onboard_time": 1678184608,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140488,
+        "num": 140488,
+        "word": "吴磊李兰迪童年同框照",
+        "onboard_time": 1678186828,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137820,
+        "num": 137820,
+        "word": "建议父母满65岁给子女陪护假",
+        "onboard_time": 1678182870,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125679,
+        "num": 125679,
+        "word": "EDG对战WBG",
+        "onboard_time": 1678181970,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122688,
+        "num": 122688,
+        "word": "洛音凡入魔",
+        "onboard_time": 1678186889,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122592,
+        "num": 122592,
+        "word": "张译公主抱沈腾片段",
+        "onboard_time": 1678188987,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114033,
+        "num": 114033,
+        "word": "李一桐毕雯珺清唱乌梅子酱",
+        "onboard_time": 1678191807,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112804,
+        "num": 112804,
+        "word": "工地食堂因饭菜实惠成大学生打卡点",
+        "onboard_time": 1678176264,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 112647,
+        "num": 112647,
+        "word": "基地回应大熊猫福菀被游客泼水",
+        "onboard_time": 1678172065,
+        "rank": 39,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 104746,
+        "num": 104746,
+        "word": "男子疑因抽烟错过高铁不停拍车门",
+        "onboard_time": 1678179329,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103671,
+        "num": 103671,
+        "word": "陈星旭演技",
+        "onboard_time": 1678185391,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102162,
+        "num": 102162,
+        "word": "花海从被保护到也能保护别人",
+        "onboard_time": 1678183469,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96767,
+        "num": 96767,
+        "word": "星糖主打一个全糖",
+        "onboard_time": 1678190249,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96321,
+        "num": 96321,
+        "word": "谷爱凌李惠仁年龄相加是刘亦菲的年龄",
+        "onboard_time": 1678179869,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163571,
+        "num": 96276,
+        "word": "暂不能确认丫丫何时和公众见面",
+        "onboard_time": 1678177828,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90491,
+        "num": 90491,
+        "word": "把寝室四个军师干懵了",
+        "onboard_time": 1678176564,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88569,
+        "num": 88569,
+        "word": "TVB直播网友建议讲粤语",
+        "onboard_time": 1678180107,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86214,
+        "num": 86214,
+        "word": "绑螃蟹的橡皮筋有多压秤",
+        "onboard_time": 1678192707,
+        "rank": 48,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 85812,
+        "num": 85812,
+        "word": "组建国家数据局",
+        "onboard_time": 1678180950,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大一次会议第二次全体会议#"
+    }
+  }
+}
