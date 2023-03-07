@@ -1,6 +1,6 @@
 {
   "startTime": 1678120040193,
-  "endTime": 1678192714579,
+  "endTime": 1678193864924,
   "band_list": [
     {
       "raw_hot": 4489001,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1358478,
-      "num": 207171,
+      "num": 226835,
       "word": "多名韩国艺人整形医院就诊画面遭泄露",
       "onboard_time": 1678189287,
       "rank": 20,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 562214,
-      "num": 222495,
+      "num": 225699,
       "word": "儿子改随继父姓生父拒付抚养费",
       "onboard_time": 1678187249,
       "rank": 29,
@@ -457,6 +457,14 @@
       "onboard_time": 1678117766,
       "rank": 4,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 521080,
+      "num": 521080,
+      "word": "香奈儿大秀",
+      "onboard_time": 1678187428,
+      "rank": 23,
+      "category": "时尚"
     },
     {
       "raw_hot": 520707,
@@ -577,14 +585,6 @@
       "onboard_time": 1678151125,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 453926,
-      "num": 453926,
-      "word": "香奈儿大秀",
-      "onboard_time": 1678187428,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 445228,
@@ -723,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380391,
+      "num": 273471,
+      "word": "健身猪一只最高能卖8万元",
+      "onboard_time": 1678192045,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376589,
       "num": 260009,
       "word": "吴磊赵今麦撒娇路透",
@@ -795,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355063,
+      "num": 355063,
+      "word": "EDG战胜WBG",
+      "onboard_time": 1678190188,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 350548,
       "num": 279644,
       "word": "女子送锦旗感谢民警找回30万却被抓",
@@ -827,6 +843,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 343099,
+      "num": 225650,
+      "word": "刘昊然董子健摆摊",
+      "onboard_time": 1678192948,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342833,
       "num": 342833,
       "word": "警方搜查刘亚仁住所",
@@ -843,20 +867,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 342269,
-      "num": 342269,
-      "word": "EDG战胜WBG",
-      "onboard_time": 1678190188,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 333696,
       "num": 333696,
       "word": "秦刚回应所谓战狼外交",
       "onboard_time": 1678161746,
       "rank": 28,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 330853,
+      "num": 266244,
+      "word": "易烊千玺短片演汽车人",
+      "onboard_time": 1678193188,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 328204,
@@ -928,6 +952,14 @@
       "word": "苗苗带女儿探班前任4剧组",
       "onboard_time": 1678187008,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 300016,
+      "num": 300016,
+      "word": "玄商君失忆",
+      "onboard_time": 1678193070,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -1020,7 +1052,7 @@
     },
     {
       "raw_hot": 268699,
-      "num": 204207,
+      "num": 222065,
       "word": "小松菜奈菅田将晖同框看秀",
       "onboard_time": 1678189348,
       "rank": 22,
@@ -1235,6 +1267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210256,
+      "num": 210256,
+      "word": "WBG",
+      "onboard_time": 1678193726,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209927,
       "num": 209927,
       "word": "组建国家数据局",
@@ -1273,6 +1313,14 @@
       "onboard_time": 1678115307,
       "rank": 18,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 201403,
+      "num": 201403,
+      "word": "故宫玉兰花开了",
+      "onboard_time": 1678190007,
+      "rank": 26,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 200222,
@@ -1371,6 +1419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188865,
+      "num": 188865,
+      "word": "黑暗荣耀2主演们的剧透",
+      "onboard_time": 1678191447,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188508,
       "num": 188508,
       "word": "秦刚说给日方掰扯下什么是所谓秩序",
@@ -1425,14 +1481,6 @@
       "onboard_time": 1678158864,
       "rank": 31,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 179807,
-      "num": 179807,
-      "word": "故宫玉兰花开了",
-      "onboard_time": 1678190007,
-      "rank": 26,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 178004,
@@ -1499,14 +1547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166020,
-      "num": 162826,
-      "word": "健身猪一只最高能卖8万元",
-      "onboard_time": 1678192045,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164913,
       "num": 1477934,
       "word": "政府工作报告里年轻人关心的事",
@@ -1521,14 +1561,6 @@
       "onboard_time": 1678169006,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 162885,
-      "num": 162885,
-      "word": "黑暗荣耀2主演们的剧透",
-      "onboard_time": 1678191447,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 161548,
@@ -1843,12 +1875,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 117324,
+      "num": 117324,
+      "word": "TVB直播一秒代入港剧",
+      "onboard_time": 1678193847,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115978,
       "num": 115978,
       "word": "琴投夜合",
       "onboard_time": 1678174285,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115922,
+      "num": 115922,
+      "word": "Ale和Meiko比心",
+      "onboard_time": 1678193308,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 115713,
@@ -1995,6 +2043,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 102164,
+      "num": 102164,
+      "word": "绑螃蟹的橡皮筋有多压秤",
+      "onboard_time": 1678192707,
+      "rank": 48,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 100152,
       "num": 123175,
       "word": "卫生巾需要被藏起来吗",
@@ -2137,14 +2193,6 @@
       "onboard_time": 1678098388,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 86214,
-      "num": 86214,
-      "word": "绑螃蟹的橡皮筋有多压秤",
-      "onboard_time": 1678192707,
-      "rank": 48,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 86156,
