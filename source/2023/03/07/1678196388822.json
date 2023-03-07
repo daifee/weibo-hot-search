@@ -1,0 +1,410 @@
+{
+  "runTime": 1678196388822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 686922,
+        "num": 1040931,
+        "word": "精减中央国家机关人员编制",
+        "onboard_time": 1678179808,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1603361,
+        "num": 914818,
+        "word": "人民网评鸡你太美是恶俗烂梗",
+        "onboard_time": 1678176747,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99433,
+        "num": 773986,
+        "word": "最高法工作报告",
+        "onboard_time": 1678194147,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 729434,
+        "num": 729434,
+        "word": "最磨人的慢性病",
+        "onboard_time": 1678194627,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 518519,
+        "num": 518519,
+        "word": "健身猪一只最高能卖8万元",
+        "onboard_time": 1678192045,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2397876,
+        "num": 515890,
+        "word": "骆歆 这样的道歉不如不道歉",
+        "onboard_time": 1678194987,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 488502,
+        "num": 488502,
+        "word": "不再保留中国人民银行县市支行",
+        "onboard_time": 1678183109,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1514837,
+        "num": 480895,
+        "word": "管泽元",
+        "onboard_time": 1678194147,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 333599,
+        "num": 333599,
+        "word": "玄商君失忆",
+        "onboard_time": 1678193070,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301943,
+        "num": 301943,
+        "word": "国家线再涨就不礼貌了",
+        "onboard_time": 1678184430,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 847437,
+        "num": 281773,
+        "word": "苗苗妹妹客串郑恺新电影",
+        "onboard_time": 1678195288,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 767109,
+        "num": 279927,
+        "word": "40岁的985硕士求职被怼不招大妈",
+        "onboard_time": 1678183950,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590652,
+        "num": 272850,
+        "word": "井柏然刘雯秀场热聊",
+        "onboard_time": 1678185810,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 261251,
+        "num": 261251,
+        "word": "易烊千玺短片演汽车人",
+        "onboard_time": 1678193188,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333401,
+        "num": 253538,
+        "word": "Jennie巴黎看秀状态",
+        "onboard_time": 1678187908,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 243837,
+        "num": 243837,
+        "word": "鸡你太美商标无一注册成功",
+        "onboard_time": 1678182449,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224107,
+        "num": 224107,
+        "word": "博主挑战天价土豆火锅被账单吓到",
+        "onboard_time": 1678188987,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216098,
+        "num": 216098,
+        "word": "陆虎张远直播",
+        "onboard_time": 1678192106,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206182,
+        "num": 206182,
+        "word": "不再保留中国银行保险监督管理委员会",
+        "onboard_time": 1678180648,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 194716,
+        "num": 194716,
+        "word": "大鹏王迅王圣迪扫楼扫成了演唱会",
+        "onboard_time": 1678195288,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1115067,
+        "num": 194078,
+        "word": "多名韩国艺人整形医院就诊画面遭泄露",
+        "onboard_time": 1678189287,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387609,
+        "num": 193452,
+        "word": "儿子改随继父姓生父拒付抚养费",
+        "onboard_time": 1678187249,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380915,
+        "num": 192730,
+        "word": "刘昊然董子健摆摊",
+        "onboard_time": 1678192948,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191977,
+        "num": 191977,
+        "word": "国务院机构改革",
+        "onboard_time": 1678180888,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 185609,
+        "num": 185609,
+        "word": "郁金香",
+        "onboard_time": 1678183408,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181343,
+        "num": 181343,
+        "word": "EDG战胜WBG",
+        "onboard_time": 1678190188,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174782,
+        "num": 174782,
+        "word": "故宫玉兰花开了",
+        "onboard_time": 1678190007,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 164720,
+        "num": 164720,
+        "word": "女子每天通勤5小时月花费6000元",
+        "onboard_time": 1678171165,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163275,
+        "num": 163275,
+        "word": "黑暗荣耀2主演们的剧透",
+        "onboard_time": 1678191447,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146489,
+        "num": 146489,
+        "word": "建议父母满65岁给子女陪护假",
+        "onboard_time": 1678182870,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186529,
+        "num": 145965,
+        "word": "缉毒警嫂的电话只敢响铃5秒钟",
+        "onboard_time": 1678195768,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138785,
+        "num": 138785,
+        "word": "战斗机在中国电影里起飞了",
+        "onboard_time": 1678193967,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133535,
+        "num": 133535,
+        "word": "迪丽热巴龚俊看代拍的反应",
+        "onboard_time": 1678184550,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130402,
+        "num": 130402,
+        "word": "刘耀文没想到会去无限超越班",
+        "onboard_time": 1678189587,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129997,
+        "num": 129997,
+        "word": "2023WCBA总决赛",
+        "onboard_time": 1678195225,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125501,
+        "num": 125501,
+        "word": "国家线",
+        "onboard_time": 1678167205,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115507,
+        "num": 115507,
+        "word": "绑螃蟹的橡皮筋有多压秤",
+        "onboard_time": 1678192707,
+        "rank": 36,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 106905,
+        "num": 106905,
+        "word": "小松菜奈菅田将晖同框看秀",
+        "onboard_time": 1678189348,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106394,
+        "num": 106394,
+        "word": "半熟恋人2鲶鱼约会",
+        "onboard_time": 1678184608,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103345,
+        "num": 103345,
+        "word": "TVB直播一秒代入港剧",
+        "onboard_time": 1678193847,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102588,
+        "num": 102588,
+        "word": "电竞教练带队员盗卖俱乐部硬件获刑",
+        "onboard_time": 1678184850,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98783,
+        "num": 98783,
+        "word": "吴磊李兰迪童年同框照",
+        "onboard_time": 1678186828,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93514,
+        "num": 93514,
+        "word": "余陶然孙沐雨游戏局双向奔赴",
+        "onboard_time": 1678193967,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92294,
+        "num": 92294,
+        "word": "张译公主抱沈腾片段",
+        "onboard_time": 1678188987,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90386,
+        "num": 90386,
+        "word": "男子疑因抽烟错过高铁不停拍车门",
+        "onboard_time": 1678179329,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87842,
+        "num": 87842,
+        "word": "WBG",
+        "onboard_time": 1678193726,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84760,
+        "num": 84760,
+        "word": "LNG战胜TES",
+        "onboard_time": 1678194086,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81803,
+        "num": 81803,
+        "word": "月亮",
+        "onboard_time": 1678187428,
+        "rank": 47,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 79655,
+        "num": 79655,
+        "word": "亚运会官旗回应首批特许商品抢断货",
+        "onboard_time": 1678191746,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76944,
+        "num": 76944,
+        "word": "Ale和Meiko比心",
+        "onboard_time": 1678193308,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
