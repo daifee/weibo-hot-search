@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678184515187,
+  "endTime": 1678185515305,
   "band_list": [
     {
       "raw_hot": 4489001,
@@ -211,20 +211,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1646218,
+      "num": 1646218,
+      "word": "不再保留中国银行保险监督管理委员会",
+      "onboard_time": 1678180648,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1588804,
       "num": 487406,
       "word": "可是他叫她大歌星哎",
       "onboard_time": 1678064906,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1575377,
-      "num": 1575377,
-      "word": "不再保留中国银行保险监督管理委员会",
-      "onboard_time": 1678180648,
-      "rank": 13,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1514889,
@@ -419,6 +419,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 965623,
+      "num": 349917,
+      "word": "40岁的985硕士求职被怼不招大妈",
+      "onboard_time": 1678183950,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 928704,
       "num": 253306,
       "word": "B站",
@@ -497,6 +505,14 @@
       "onboard_time": 1678065506,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846612,
+      "num": 846612,
+      "word": "按5%比例精减中央国家机关编制",
+      "onboard_time": 1678182930,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 845824,
@@ -625,14 +641,6 @@
       "onboard_time": 1678105049,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 671416,
-      "num": 671416,
-      "word": "按5%比例精减中央国家机关编制",
-      "onboard_time": 1678182930,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 668378,
@@ -1243,6 +1251,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 400238,
+      "num": 400238,
+      "word": "郁金香",
+      "onboard_time": 1678183408,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 399385,
       "num": 319298,
       "word": "JISOO海报",
@@ -1336,6 +1352,14 @@
       "word": "吴磊赵今麦撒娇路透",
       "onboard_time": 1678166245,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 374645,
+      "num": 340200,
+      "word": "迪丽热巴龚俊看代拍的反应",
+      "onboard_time": 1678184550,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -1667,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304138,
+      "num": 304138,
+      "word": "花海从被保护到也能保护别人",
+      "onboard_time": 1678183469,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 302047,
       "num": 302047,
       "word": "Kakao或将与HYBE合作",
@@ -1713,6 +1745,14 @@
       "onboard_time": 1678100366,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 293564,
+      "num": 293564,
+      "word": "国家线再涨就不礼貌了",
+      "onboard_time": 1678184430,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 292829,
@@ -1827,12 +1867,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 261340,
-      "num": 189721,
-      "word": "40岁的985硕士求职被怼不招大妈",
-      "onboard_time": 1678183950,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 261906,
+      "num": 261906,
+      "word": "半熟恋人2鲶鱼约会",
+      "onboard_time": 1678184608,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 261184,
@@ -1859,12 +1899,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 253078,
-      "num": 253078,
-      "word": "郁金香",
-      "onboard_time": 1678183408,
-      "rank": 19,
-      "category": "情感"
+      "raw_hot": 252644,
+      "num": 252644,
+      "word": "建议父母满65岁给子女陪护假",
+      "onboard_time": 1678182870,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251065,
@@ -1873,6 +1913,14 @@
       "onboard_time": 1678160247,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 250516,
+      "num": 250516,
+      "word": "网传张婧仪主演惜花芷",
+      "onboard_time": 1678184550,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 250237,
@@ -1987,14 +2035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235881,
-      "num": 235881,
-      "word": "建议父母满65岁给子女陪护假",
-      "onboard_time": 1678182870,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235213,
       "num": 235213,
       "word": "摸鱼的时候有活干了",
@@ -2033,14 +2073,6 @@
       "onboard_time": 1678012585,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228609,
-      "num": 228609,
-      "word": "花海从被保护到也能保护别人",
-      "onboard_time": 1678183469,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 227737,
@@ -2088,6 +2120,14 @@
       "word": "谭松韵蜀锦人家组讯",
       "onboard_time": 1678079007,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220092,
+      "num": 220092,
+      "word": "陈星旭演技",
+      "onboard_time": 1678185391,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -3179,6 +3219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143059,
+      "num": 143059,
+      "word": "电竞教练带队员盗卖俱乐部硬件获刑",
+      "onboard_time": 1678184850,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142483,
       "num": 142483,
       "word": "多家企业用迪士尼角色命名",
@@ -3891,14 +3939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 91988,
-      "num": 91988,
-      "word": "国家线再涨就不礼貌了",
-      "onboard_time": 1678184430,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 90641,
       "num": 90641,
       "word": "男团下岗再就业",
@@ -3913,6 +3953,14 @@
       "onboard_time": 1678118424,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89326,
+      "num": 89326,
+      "word": "各国电视剧中枪的区别",
+      "onboard_time": 1678185209,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 88719,
@@ -4220,6 +4268,9 @@
     },
     {
       "word": "#全国两会时光#"
+    },
+    {
+      "word": "#十四届全国人大一次会议第二次全体会议#"
     }
   ]
 }
