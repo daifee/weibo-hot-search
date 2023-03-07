@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678174440984,
+  "endTime": 1678177521744,
   "band_list": [
     {
       "raw_hot": 3357688,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1162349,
+      "num": 1162349,
+      "word": "人民网评鸡你太美是恶俗烂梗",
+      "onboard_time": 1678176747,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1161135,
       "num": 471365,
       "word": "SNH48退团成员违约金名单",
@@ -361,6 +369,14 @@
       "onboard_time": 1678095567,
       "rank": 7,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 978387,
+      "num": 823414,
+      "word": "基地回应大熊猫福菀被游客泼水",
+      "onboard_time": 1678172065,
+      "rank": 8,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 928704,
@@ -451,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 823414,
-      "num": 823414,
-      "word": "基地回应大熊猫福菀被游客泼水",
-      "onboard_time": 1678172065,
-      "rank": 8,
-      "category": "社会新闻,旅游"
+      "raw_hot": 835175,
+      "num": 835175,
+      "word": "妍珍呐",
+      "onboard_time": 1678174587,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 816444,
@@ -1139,8 +1155,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 394574,
-      "num": 394574,
+      "raw_hot": 396085,
+      "num": 396085,
       "word": "乃万以词曲创作者身份参与亚运会",
       "onboard_time": 1678171826,
       "rank": 18,
@@ -1209,6 +1225,14 @@
       "onboard_time": 1678166245,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 372477,
+      "num": 372477,
+      "word": "59岁自驾阿姨穿上了属于自己的婚纱",
+      "onboard_time": 1678175606,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371495,
@@ -1427,12 +1451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329591,
+      "num": 329591,
+      "word": "关于国务院机构改革方案的说明",
+      "onboard_time": 1678172367,
+      "rank": 25,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 329066,
       "num": 329066,
       "word": "教资",
       "onboard_time": 1678074148,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 326574,
+      "num": 326574,
+      "word": "白宇为毛晓彤新剧做宣传",
+      "onboard_time": 1678174767,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 321617,
@@ -1489,6 +1529,14 @@
       "onboard_time": 1678093047,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299168,
+      "num": 212032,
+      "word": "导师修改的摘要和你的正文",
+      "onboard_time": 1678173626,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 298862,
@@ -1627,6 +1675,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 261184,
+      "num": 261184,
+      "word": "首批亚运电竞特许商品上线",
+      "onboard_time": 1678172847,
+      "rank": 24,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 259000,
       "num": 259000,
       "word": "上海迪士尼门票热度暴涨350%",
@@ -1683,14 +1739,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 248376,
-      "num": 248376,
-      "word": "首批亚运电竞特许商品上线",
-      "onboard_time": 1678172847,
-      "rank": 24,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 247030,
       "num": 183041,
       "word": "来自时代少年团的郭俊辰",
@@ -1713,14 +1761,6 @@
       "onboard_time": 1678163248,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 244597,
-      "num": 244597,
-      "word": "关于国务院机构改革方案的说明",
-      "onboard_time": 1678172367,
-      "rank": 25,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 243028,
@@ -2011,6 +2051,14 @@
       "category": "综艺,社会新闻"
     },
     {
+      "raw_hot": 206207,
+      "num": 206207,
+      "word": "奇瑞领导称周六是奋斗者正常工作日",
+      "onboard_time": 1678173206,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205677,
       "num": 205677,
       "word": "女子称摸UGG靴子被要求买下",
@@ -2267,6 +2315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193955,
+      "num": 193955,
+      "word": "科研人员说有人想卡我们脖子也卡不住",
+      "onboard_time": 1678174947,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193796,
+      "num": 193796,
+      "word": "流量密码被食堂拿捏住了",
+      "onboard_time": 1678175126,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193514,
       "num": 193514,
       "word": "一人一句祝福亚运会",
@@ -2417,6 +2481,14 @@
       "onboard_time": 1678017628,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183680,
+      "num": 183680,
+      "word": "把寝室四个军师干懵了",
+      "onboard_time": 1678176564,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 182219,
@@ -2616,14 +2688,6 @@
       "word": "雷军建议强化智能汽车数据安全",
       "onboard_time": 1678090947,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164333,
-      "num": 164333,
-      "word": "奇瑞领导称周六是奋斗者正常工作日",
-      "onboard_time": 1678173206,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2843,12 +2907,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 140602,
-      "num": 140602,
-      "word": "导师修改的摘要和你的正文",
-      "onboard_time": 1678173626,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 141217,
+      "num": 141217,
+      "word": "传说阵容",
+      "onboard_time": 1678175486,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 140297,
@@ -2875,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136704,
+      "num": 136704,
+      "word": "狼队DRG的中国乒乓之约",
+      "onboard_time": 1678176026,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136512,
       "num": 136512,
       "word": "柠栀23岁反差感大片",
@@ -2899,6 +2971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129066,
+      "num": 129066,
+      "word": "百看不厌的女性群像剧",
+      "onboard_time": 1678177405,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128966,
       "num": 128966,
       "word": "玄商的辞职信",
@@ -2921,6 +3001,14 @@
       "onboard_time": 1678008326,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127074,
+      "num": 127074,
+      "word": "DRG 赛程安排",
+      "onboard_time": 1678174406,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 126458,
@@ -3083,12 +3171,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116738,
+      "num": 116738,
+      "word": "欢瑞世纪创始人再被冻结千万股权",
+      "onboard_time": 1678177227,
+      "rank": 39,
+      "category": "社会新闻,作品衍生"
+    },
+    {
       "raw_hot": 116150,
       "num": 1312307,
       "word": "政府工作报告里的五年成绩单",
       "onboard_time": 1678073486,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 115978,
+      "num": 115978,
+      "word": "琴投夜合",
+      "onboard_time": 1678174285,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 115474,
@@ -3243,6 +3347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 106578,
+      "num": 106578,
+      "word": "工地食堂因饭菜实惠成大学生打卡点",
+      "onboard_time": 1678176264,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 106392,
       "num": 106392,
       "word": "街头画家画的刘雨昕",
@@ -3275,14 +3387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 104576,
-      "num": 104576,
-      "word": "琴投夜合",
-      "onboard_time": 1678174285,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 104177,
       "num": 104177,
       "word": "政府工作报告里年轻人关心的事",
@@ -3296,6 +3400,14 @@
       "word": "外交部长秦刚谈乌克兰危机",
       "onboard_time": 1678160485,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103891,
+      "num": 103891,
+      "word": "吴荣照说未来要满足国人跑步需求",
+      "onboard_time": 1678177347,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -3419,14 +3531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95353,
-      "num": 95353,
-      "word": "DRG 赛程安排",
-      "onboard_time": 1678174406,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 95070,
       "num": 95070,
       "word": "中戏院长谈演员的文化修养",
@@ -3473,6 +3577,14 @@
       "onboard_time": 1678080986,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92668,
+      "num": 92668,
+      "word": "慕玉伤心小狗",
+      "onboard_time": 1678176326,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 90641,
