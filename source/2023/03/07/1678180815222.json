@@ -1,0 +1,410 @@
+{
+  "runTime": 1678180815222,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2237669,
+        "num": 2237669,
+        "word": "精减中央国家机关人员编制",
+        "onboard_time": 1678179808,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3748602,
+        "num": 2048077,
+        "word": "人民网评鸡你太美是恶俗烂梗",
+        "onboard_time": 1678176747,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154360,
+        "num": 1375273,
+        "word": "政府工作报告里年轻人关心的事",
+        "onboard_time": 1678166547,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1175331,
+        "num": 1175331,
+        "word": "暂不能确认丫丫何时和公众见面",
+        "onboard_time": 1678177828,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61430,
+        "num": 931526,
+        "word": "人大会议第二次全体会议",
+        "onboard_time": 1678170627,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 894582,
+        "num": 894582,
+        "word": "关于国务院机构改革方案的说明",
+        "onboard_time": 1678172367,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 554525,
+        "num": 554525,
+        "word": "国家线",
+        "onboard_time": 1678167205,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 493965,
+        "num": 493965,
+        "word": "妍珍呐",
+        "onboard_time": 1678174587,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474579,
+        "num": 474579,
+        "word": "工地食堂因饭菜实惠成大学生打卡点",
+        "onboard_time": 1678176264,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 77328,
+        "num": 427720,
+        "word": "今年第二场部长通道直播",
+        "onboard_time": 1678180467,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 910997,
+        "num": 423183,
+        "word": "女子拒绝调岗被强制离职踢出群聊",
+        "onboard_time": 1678178907,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538895,
+        "num": 421748,
+        "word": "港媒曝林允离开周星驰公司",
+        "onboard_time": 1678167324,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417384,
+        "num": 417384,
+        "word": "把寝室四个军师干懵了",
+        "onboard_time": 1678176564,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 388369,
+        "num": 388369,
+        "word": "不再保留中国银行保险监督管理委员会",
+        "onboard_time": 1678180648,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 363347,
+        "num": 363347,
+        "word": "欢瑞世纪创始人再被冻结千万股权",
+        "onboard_time": 1678177227,
+        "rank": 14,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 359178,
+        "num": 359178,
+        "word": "李一桐扔捧花",
+        "onboard_time": 1678180107,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344235,
+        "num": 344235,
+        "word": "谷爱凌李惠仁年龄相加是刘亦菲的年龄",
+        "onboard_time": 1678179869,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342833,
+        "num": 342833,
+        "word": "警方搜查刘亚仁住所",
+        "onboard_time": 1678177828,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 338778,
+        "num": 338778,
+        "word": "基地回应大熊猫福菀被游客泼水",
+        "onboard_time": 1678172065,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 315533,
+        "num": 315533,
+        "word": "董洁说养孩子就像放风筝",
+        "onboard_time": 1678178967,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421362,
+        "num": 313159,
+        "word": "女子每天通勤5小时月花费6000元",
+        "onboard_time": 1678171165,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274194,
+        "num": 274194,
+        "word": "男子疑因抽烟错过高铁不停拍车门",
+        "onboard_time": 1678179329,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255924,
+        "num": 255924,
+        "word": "59岁自驾阿姨穿上了属于自己的婚纱",
+        "onboard_time": 1678175606,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245472,
+        "num": 245472,
+        "word": "专家称打HPV疫苗不必纠结几价",
+        "onboard_time": 1678161447,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233433,
+        "num": 233433,
+        "word": "TVB直播网友建议讲粤语",
+        "onboard_time": 1678180107,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230752,
+        "num": 230752,
+        "word": "路透社报道刘雨昕",
+        "onboard_time": 1678180706,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199908,
+        "num": 199908,
+        "word": "组建国家金融监督管理总局",
+        "onboard_time": 1678179507,
+        "rank": 26,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 195190,
+        "num": 195190,
+        "word": "导师修改的摘要和你的正文",
+        "onboard_time": 1678173626,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179697,
+        "num": 179697,
+        "word": "俄罗斯顶级科学家被皮带勒死家中",
+        "onboard_time": 1678162167,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 173279,
+        "num": 173279,
+        "word": "郭敬明减肥训练营",
+        "onboard_time": 1678166367,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198571,
+        "num": 173249,
+        "word": "亚洲各国积极备战杭州亚运会",
+        "onboard_time": 1678180227,
+        "rank": 30,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 173024,
+        "num": 173024,
+        "word": "张一山晒浴血荣光剧照",
+        "onboard_time": 1678178308,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161548,
+        "num": 161548,
+        "word": "奇瑞汽车涉近30起劳动纠纷案件",
+        "onboard_time": 1678180287,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151733,
+        "num": 151733,
+        "word": "中文说唱真的走出了国门",
+        "onboard_time": 1678177645,
+        "rank": 33,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 151405,
+        "num": 151405,
+        "word": "职场上不喜欢社交该怎么办",
+        "onboard_time": 1678179148,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146881,
+        "num": 146881,
+        "word": "百看不厌的女性群像剧",
+        "onboard_time": 1678177405,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143847,
+        "num": 143847,
+        "word": "白宇为毛晓彤新剧做宣传",
+        "onboard_time": 1678174767,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29064,
+        "num": 141276,
+        "word": "代表通道采访直播",
+        "onboard_time": 1678172667,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 138959,
+        "num": 138959,
+        "word": "星落凝成糖编剧",
+        "onboard_time": 1678171885,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138133,
+        "num": 138133,
+        "word": "得了甲流就得吃抗病毒药吗",
+        "onboard_time": 1678168166,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136200,
+        "num": 136200,
+        "word": "海关查获霍格沃茨之遗等光盘800张",
+        "onboard_time": 1678168768,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131417,
+        "num": 131417,
+        "word": "A股",
+        "onboard_time": 1678170267,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125268,
+        "num": 125268,
+        "word": "科研人员说有人想卡我们脖子也卡不住",
+        "onboard_time": 1678174947,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123803,
+        "num": 123803,
+        "word": "高校食堂甄嬛传与狂飙齐播放",
+        "onboard_time": 1678179926,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111437,
+        "num": 111437,
+        "word": "不要随便夸重庆司机",
+        "onboard_time": 1678179808,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109448,
+        "num": 109448,
+        "word": "奇瑞领导称周六是奋斗者正常工作日",
+        "onboard_time": 1678173206,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104159,
+        "num": 104159,
+        "word": "首批亚运电竞特许商品上线",
+        "onboard_time": 1678172847,
+        "rank": 46,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 100270,
+        "num": 100270,
+        "word": "肖俊将担任THESHOWMC",
+        "onboard_time": 1678171707,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98161,
+        "num": 98161,
+        "word": "重紫魔尊今晚大婚",
+        "onboard_time": 1678171585,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96389,
+        "num": 96389,
+        "word": "小孩爱说的烂梗越来越多了",
+        "onboard_time": 1678154065,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国两会时光#"
+    }
+  }
+}
