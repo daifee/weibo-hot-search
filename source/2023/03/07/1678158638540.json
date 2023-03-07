@@ -1,0 +1,410 @@
+{
+  "runTime": 1678158638540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1105597,
+        "num": 1105597,
+        "word": "何超琼说自己是大湾区人",
+        "onboard_time": 1678152807,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 982655,
+        "num": 982655,
+        "word": "中国政法大学校长谈大学生就业",
+        "onboard_time": 1678153825,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 26247,
+        "num": 954099,
+        "word": "两会好声音",
+        "onboard_time": 1678108049,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1655937,
+        "num": 950466,
+        "word": "小孩爱说的烂梗越来越多了",
+        "onboard_time": 1678154065,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 927877,
+        "num": 927877,
+        "word": "建议裁减非必要事业单位和人员",
+        "onboard_time": 1678156765,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743155,
+        "num": 743155,
+        "word": "苹果或3月8日开新品发布会",
+        "onboard_time": 1678155144,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 496560,
+        "num": 496560,
+        "word": "中国外交已按下加速键",
+        "onboard_time": 1678156464,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 495159,
+        "num": 495159,
+        "word": "黑暗荣耀2",
+        "onboard_time": 1678156643,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 397371,
+        "num": 397371,
+        "word": "杨天真董洁聊女性如何打破被定义",
+        "onboard_time": 1678157186,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270609,
+        "num": 270609,
+        "word": "90后代表称大学生也可以回农村",
+        "onboard_time": 1678153344,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672993,
+        "num": 270113,
+        "word": "张俪签约觉醒东方",
+        "onboard_time": 1678155744,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637410,
+        "num": 267415,
+        "word": "外交部长秦刚答中外记者问",
+        "onboard_time": 1678157366,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 472650,
+        "num": 265586,
+        "word": "骆歆发文祝福记得",
+        "onboard_time": 1678153525,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 472286,
+        "num": 263706,
+        "word": "多地二手房业主保卫房价",
+        "onboard_time": 1678155623,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 428568,
+        "num": 260887,
+        "word": "ChatGPT预测申论考点老师直呼很难得",
+        "onboard_time": 1678157244,
+        "rank": 14,
+        "category": "科技,教育"
+      },
+      {
+        "raw_hot": 405152,
+        "num": 260285,
+        "word": "虞书欣张凌赫新剧拥抱路透",
+        "onboard_time": 1678156403,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371417,
+        "num": 257676,
+        "word": "感染甲流会有全身症状",
+        "onboard_time": 1678107386,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307875,
+        "num": 255281,
+        "word": "同城快送收到背去世老人下楼订单",
+        "onboard_time": 1678145483,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254362,
+        "num": 254362,
+        "word": "KPL 赛程",
+        "onboard_time": 1678154484,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220030,
+        "num": 220030,
+        "word": "上证指数",
+        "onboard_time": 1678155384,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 911926,
+        "num": 211617,
+        "word": "刘亦菲后置摄像头自拍",
+        "onboard_time": 1678148910,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247591,
+        "num": 208816,
+        "word": "女子送锦旗感谢民警找回30万却被抓",
+        "onboard_time": 1678148966,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326564,
+        "num": 206481,
+        "word": "肖战蓬皮杜艺术中心看展",
+        "onboard_time": 1678151366,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198410,
+        "num": 198410,
+        "word": "外交部长谈中美关系",
+        "onboard_time": 1678158085,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 197530,
+        "num": 197530,
+        "word": "秦刚回应中美无人飞艇事件",
+        "onboard_time": 1678157843,
+        "rank": 24,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 196565,
+        "num": 196565,
+        "word": "日本H3新型火箭发射失败",
+        "onboard_time": 1678158027,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 196460,
+        "num": 196460,
+        "word": "第五人格",
+        "onboard_time": 1678157544,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193514,
+        "num": 193514,
+        "word": "一人一句祝福亚运会",
+        "onboard_time": 1678158264,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192074,
+        "num": 192074,
+        "word": "baby girl",
+        "onboard_time": 1678158505,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191650,
+        "num": 191650,
+        "word": "KAKAO宣布公开收购SMTOWN",
+        "onboard_time": 1678147947,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177821,
+        "num": 177821,
+        "word": "台湾有观光点1人限购2颗茶叶蛋",
+        "onboard_time": 1678127173,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170070,
+        "num": 170070,
+        "word": "吴彦祖分享老婆马术障碍赛视频",
+        "onboard_time": 1678151665,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 168168,
+        "num": 168168,
+        "word": "司机载客用9部手机刷视频被罚",
+        "onboard_time": 1678150646,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157107,
+        "num": 157107,
+        "word": "薛之谦 抢票",
+        "onboard_time": 1678145241,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152664,
+        "num": 152664,
+        "word": "台军缺粮在沙滩写标语求救",
+        "onboard_time": 1678134732,
+        "rank": 34,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 128640,
+        "num": 128640,
+        "word": "委员说国家统一是大势所趋",
+        "onboard_time": 1678152386,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 128438,
+        "num": 128438,
+        "word": "坚决反对一切形式的霸权主义",
+        "onboard_time": 1678156524,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 121073,
+        "num": 121073,
+        "word": "这张成绩单里有你的努力",
+        "onboard_time": 1678146804,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 117723,
+        "num": 117723,
+        "word": "国足赢了沙特",
+        "onboard_time": 1678112309,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41778,
+        "num": 116689,
+        "word": "卫生巾需要被藏起来吗",
+        "onboard_time": 1678158445,
+        "rank": 39,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 116480,
+        "num": 116480,
+        "word": "女神节",
+        "onboard_time": 1678154785,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113360,
+        "num": 113360,
+        "word": "一一牛杂火锅店吃出老鼠被立案调查",
+        "onboard_time": 1678119743,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111029,
+        "num": 111029,
+        "word": "赵丽颖肖央虎狼之路通告单",
+        "onboard_time": 1678117766,
+        "rank": 42,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 105463,
+        "num": 105463,
+        "word": "LOFTER平台AI绘画功能遭用户质疑",
+        "onboard_time": 1678144700,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 105254,
+        "num": 105254,
+        "word": "内马尔将缺席4个月",
+        "onboard_time": 1678147405,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98661,
+        "num": 98661,
+        "word": "威廉疑似在校被霸凌",
+        "onboard_time": 1678103367,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91644,
+        "num": 91644,
+        "word": "明星巴黎时装周生图",
+        "onboard_time": 1678155804,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 89988,
+        "num": 89988,
+        "word": "功夫熊猫真的没有骗我",
+        "onboard_time": 1678145241,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90458,
+        "num": 89824,
+        "word": "阿里影业总裁谈长空之王",
+        "onboard_time": 1678146024,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89638,
+        "num": 89638,
+        "word": "王小谟院士逝世",
+        "onboard_time": 1678148126,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢牢把握高质量发展这个首要任务#"
+    }
+  }
+}
