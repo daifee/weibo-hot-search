@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678210513974,
+  "endTime": 1678213484191,
   "band_list": [
     {
       "raw_hot": 4489001,
@@ -4795,6 +4795,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 40895,
+      "num": 34069,
+      "word": "毕雯珺喝了李一桐奶茶",
+      "onboard_time": 1678209675,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28887,
       "num": 28887,
       "word": "宋祖儿和小朋友跳舞",
@@ -4811,20 +4819,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 23268,
-      "num": 32875,
-      "word": "毕雯珺喝了李一桐奶茶",
-      "onboard_time": 1678209675,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 19376,
       "num": 1371069,
       "word": "政府工作报告里的民生红包",
       "onboard_time": 1678003346,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 17770,
+      "num": 20132,
+      "word": "杨超越重紫猫眼角色热度第二",
+      "onboard_time": 1678213033,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 11309,

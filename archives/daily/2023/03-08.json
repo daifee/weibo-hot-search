@@ -1,6 +1,6 @@
 {
   "startTime": 1678206448826,
-  "endTime": 1678210513974,
+  "endTime": 1678213484191,
   "band_list": [
     {
       "raw_hot": 1085724,
@@ -403,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 40895,
+      "num": 34069,
+      "word": "毕雯珺喝了李一桐奶茶",
+      "onboard_time": 1678209675,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39209,
       "num": 399973,
       "word": "最高法工作报告",
@@ -411,7 +419,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 27525,
+      "raw_hot": 33972,
       "num": 40064,
       "word": "荣耀Magic5系列发布会",
       "onboard_time": 1678086565,
@@ -435,12 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23268,
-      "num": 32875,
-      "word": "毕雯珺喝了李一桐奶茶",
-      "onboard_time": 1678209675,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 20157,
+      "num": 20157,
+      "word": "网红打卡地如何一直红下去",
+      "onboard_time": 1678201951,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17770,
+      "num": 20132,
+      "word": "杨超越重紫猫眼角色热度第二",
+      "onboard_time": 1678213033,
+      "rank": 44,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
