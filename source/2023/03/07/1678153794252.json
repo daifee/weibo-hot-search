@@ -1,0 +1,410 @@
+{
+  "runTime": 1678153794252,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 781947,
+        "num": 781947,
+        "word": "台军缺粮在沙滩写标语求救",
+        "onboard_time": 1678134732,
+        "rank": 0,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 517409,
+        "num": 517409,
+        "word": "王小谟院士逝世",
+        "onboard_time": 1678148126,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52857,
+        "num": 445694,
+        "word": "两会好声音",
+        "onboard_time": 1678108049,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 427820,
+        "num": 427820,
+        "word": "威廉疑似在校被霸凌",
+        "onboard_time": 1678103367,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368339,
+        "num": 368339,
+        "word": "这张成绩单里有你的努力",
+        "onboard_time": 1678146804,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 357043,
+        "num": 357043,
+        "word": "台湾有观光点1人限购2颗茶叶蛋",
+        "onboard_time": 1678127173,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349469,
+        "num": 349469,
+        "word": "阿里影业总裁谈长空之王",
+        "onboard_time": 1678146024,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312112,
+        "num": 312112,
+        "word": "如何看待年轻人大城挣钱小城安家",
+        "onboard_time": 1678114588,
+        "rank": 7,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 261438,
+        "num": 261438,
+        "word": "台湾或面临史上最久缺蛋荒",
+        "onboard_time": 1678096227,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132613,
+        "num": 260685,
+        "word": "蓝朋友是为人民而战",
+        "onboard_time": 1678151966,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 677011,
+        "num": 258304,
+        "word": "何超琼说自己是大湾区人",
+        "onboard_time": 1678152807,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659775,
+        "num": 257690,
+        "word": "同城快送收到背去世老人下楼订单",
+        "onboard_time": 1678145483,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654346,
+        "num": 255941,
+        "word": "感染甲流会有全身症状",
+        "onboard_time": 1678107386,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497354,
+        "num": 253426,
+        "word": "KAKAO宣布公开收购SMTOWN",
+        "onboard_time": 1678147947,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361118,
+        "num": 252243,
+        "word": "委员说国家统一是大势所趋",
+        "onboard_time": 1678152386,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 262965,
+        "num": 249894,
+        "word": "一一牛杂火锅店吃出老鼠被立案调查",
+        "onboard_time": 1678119743,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249825,
+        "num": 249825,
+        "word": "内马尔将缺席4个月",
+        "onboard_time": 1678147405,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242708,
+        "num": 242708,
+        "word": "国足赢了沙特",
+        "onboard_time": 1678112309,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227149,
+        "num": 227149,
+        "word": "美媒称中国起重机有间谍作用",
+        "onboard_time": 1678133413,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 223389,
+        "num": 223389,
+        "word": "薛之谦 抢票",
+        "onboard_time": 1678145241,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1459826,
+        "num": 221295,
+        "word": "刘亦菲后置摄像头自拍",
+        "onboard_time": 1678148910,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350548,
+        "num": 217840,
+        "word": "女子送锦旗感谢民警找回30万却被抓",
+        "onboard_time": 1678148966,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572793,
+        "num": 213678,
+        "word": "肖战蓬皮杜艺术中心看展",
+        "onboard_time": 1678151366,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295472,
+        "num": 209537,
+        "word": "司机载客用9部手机刷视频被罚",
+        "onboard_time": 1678150646,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248442,
+        "num": 203698,
+        "word": "吴彦祖分享老婆马术障碍赛视频",
+        "onboard_time": 1678151665,
+        "rank": 24,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 201906,
+        "num": 201906,
+        "word": "三个步骤挑出好草莓",
+        "onboard_time": 1678148366,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1662953,
+        "num": 201376,
+        "word": "北京动物园回应丫丫回家",
+        "onboard_time": 1678150945,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459694,
+        "num": 201017,
+        "word": "动物园更新丫丫最新视频",
+        "onboard_time": 1678151125,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199961,
+        "num": 199961,
+        "word": "杨紫琼黄圣依沈梦辰同框",
+        "onboard_time": 1678148966,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196095,
+        "num": 196095,
+        "word": "这是真的水泥封心了",
+        "onboard_time": 1678116988,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239734,
+        "num": 194214,
+        "word": "骆歆发文祝福记得",
+        "onboard_time": 1678153525,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190713,
+        "num": 190713,
+        "word": "功夫熊猫真的没有骗我",
+        "onboard_time": 1678145241,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186335,
+        "num": 186335,
+        "word": "NMIXX新专预告照",
+        "onboard_time": 1678153225,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182197,
+        "num": 182197,
+        "word": "90后代表称大学生也可以回农村",
+        "onboard_time": 1678153344,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162438,
+        "num": 162438,
+        "word": "LV",
+        "onboard_time": 1678110569,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 158322,
+        "num": 158322,
+        "word": "赵丽颖肖央虎狼之路通告单",
+        "onboard_time": 1678117766,
+        "rank": 35,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 157434,
+        "num": 157434,
+        "word": "秦刚答记者问",
+        "onboard_time": 1678153284,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151078,
+        "num": 151078,
+        "word": "LOFTER平台AI绘画功能遭用户质疑",
+        "onboard_time": 1678144700,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 144906,
+        "num": 144906,
+        "word": "委员谈00后小伙刮腻子成世界冠军",
+        "onboard_time": 1678151244,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139763,
+        "num": 139763,
+        "word": "陆仙人巴黎时装周首秀",
+        "onboard_time": 1678110328,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129745,
+        "num": 129745,
+        "word": "王楚然想和彭冠英演古偶",
+        "onboard_time": 1678143858,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120588,
+        "num": 120588,
+        "word": "美队安娜新片预告",
+        "onboard_time": 1678151725,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120017,
+        "num": 120017,
+        "word": "网友为YG新女团取名",
+        "onboard_time": 1678145361,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117963,
+        "num": 117963,
+        "word": "RNG三连败",
+        "onboard_time": 1678144759,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113439,
+        "num": 113439,
+        "word": "今年全国两会第二场委员通道",
+        "onboard_time": 1678147707,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 112516,
+        "num": 112516,
+        "word": "摸鱼的时候有活干了",
+        "onboard_time": 1678117706,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111648,
+        "num": 111648,
+        "word": "外墙面层均计入建筑面积",
+        "onboard_time": 1678117165,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106392,
+        "num": 106392,
+        "word": "街头画家画的刘雨昕",
+        "onboard_time": 1678150708,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103771,
+        "num": 103771,
+        "word": "陈哲远直播",
+        "onboard_time": 1678147707,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97624,
+        "num": 97624,
+        "word": "委员呼吁强制实施带薪年休假",
+        "onboard_time": 1678148845,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望政协委员#"
+    }
+  }
+}
