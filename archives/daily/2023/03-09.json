@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678317593787,
+  "endTime": 1678318444553,
   "band_list": [
     {
       "raw_hot": 1407548,
@@ -11,12 +11,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 605015,
-      "num": 605015,
+      "raw_hot": 659797,
+      "num": 659797,
       "word": "北溪管道被炸是亲乌团体所为",
       "onboard_time": 1678301771,
       "rank": 14,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 618590,
+      "num": 390880,
+      "word": "每天少睡一两个小时算熬夜吗",
+      "onboard_time": 1678317381,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574694,
+      "num": 378199,
+      "word": "迪士尼游客站着看烟花秀遭后排辱骂",
+      "onboard_time": 1678293201,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 565256,
@@ -27,12 +43,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 538401,
+      "raw_hot": 540046,
       "num": 264105,
       "word": "黎姿首次正面回应退圈原因",
       "onboard_time": 1678276408,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 499338,
+      "num": 499338,
+      "word": "拜仁2比0巴黎",
+      "onboard_time": 1678316778,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 497572,
@@ -43,20 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 495693,
-      "num": 347122,
-      "word": "迪士尼游客站着看烟花秀遭后排辱骂",
-      "onboard_time": 1678293201,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425613,
+      "raw_hot": 484756,
       "num": 164582,
       "word": "年薪41万董秘自掏4亿买公司股份",
       "onboard_time": 1678284870,
       "rank": 21,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 433085,
+      "num": 246448,
+      "word": "在整个直播界都相当炸裂",
+      "onboard_time": 1678286070,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 416454,
@@ -91,12 +115,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 358508,
-      "num": 246448,
-      "word": "在整个直播界都相当炸裂",
-      "onboard_time": 1678286070,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 363436,
+      "num": 213030,
+      "word": "这是缉毒女警唯一能公布的照片",
+      "onboard_time": 1678317080,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341768,
@@ -105,14 +129,6 @@
       "onboard_time": 1678283249,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 337590,
-      "num": 337590,
-      "word": "拜仁2比0巴黎",
-      "onboard_time": 1678316778,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 312150,
@@ -147,6 +163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216999,
+      "num": 152207,
+      "word": "吴昕喝银耳酸梅鲫鱼汤养生",
+      "onboard_time": 1678318162,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206796,
+      "num": 206796,
+      "word": "2名司机神同步停车33秒清除路障",
+      "onboard_time": 1678317561,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206502,
       "num": 279502,
       "word": "北京动物园做好准备迎接丫丫",
@@ -156,7 +188,7 @@
     },
     {
       "raw_hot": 204897,
-      "num": 204897,
+      "num": 239187,
       "word": "拜仁晋级欧冠八强",
       "onboard_time": 1678316778,
       "rank": 6,
@@ -169,6 +201,14 @@
       "onboard_time": 1678279049,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182968,
+      "num": 182968,
+      "word": "管泽元直播回应",
+      "onboard_time": 1678317319,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 174103,
@@ -243,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151382,
+      "num": 151382,
+      "word": "视障女孩走盲道被突出景观造型撞到",
+      "onboard_time": 1678304471,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144819,
       "num": 270924,
       "word": "制片人谈重紫选角",
@@ -259,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137505,
-      "num": 73042,
-      "word": "视障女孩走盲道被突出景观造型撞到",
-      "onboard_time": 1678304471,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 137888,
+      "num": 248622,
+      "word": "中国承办奥运排球资格赛",
+      "onboard_time": 1678294698,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 127219,
@@ -275,20 +323,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 124630,
-      "num": 40466,
-      "word": "2名司机神同步停车33秒清除路障",
-      "onboard_time": 1678317561,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123543,
-      "num": 82665,
-      "word": "这是缉毒女警唯一能公布的照片",
-      "onboard_time": 1678317080,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 123575,
+      "num": 234112,
+      "word": "金智秀solo主打预告照",
+      "onboard_time": 1678318103,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 122669,
@@ -299,12 +339,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 119663,
-      "num": 119663,
-      "word": "中国承办奥运排球资格赛",
-      "onboard_time": 1678294698,
-      "rank": 30,
+      "raw_hot": 118515,
+      "num": 78379,
+      "word": "热刺0比0AC米兰",
+      "onboard_time": 1678318223,
+      "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117348,
+      "num": 88696,
+      "word": "印度首次成为苹果自主销售地区",
+      "onboard_time": 1678318162,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 114720,
@@ -372,7 +420,7 @@
     },
     {
       "raw_hot": 81183,
-      "num": 77237,
+      "num": 79235,
       "word": "刘宇宁直播",
       "onboard_time": 1678288049,
       "rank": 39,
@@ -451,20 +499,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 63786,
+      "num": 63786,
+      "word": "北京动物园兽医饲养员下周抵美",
+      "onboard_time": 1678270588,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56378,
+      "num": 56378,
+      "word": "王一博看保你平安",
+      "onboard_time": 1678318283,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 52717,
+      "num": 52717,
+      "word": "柯南剧场版人物关系图",
+      "onboard_time": 1678278748,
+      "rank": 45,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 50267,
       "num": 67280,
       "word": "恭喜WE",
       "onboard_time": 1678281568,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 49483,
-      "num": 49483,
-      "word": "柯南剧场版人物关系图",
-      "onboard_time": 1678278748,
-      "rank": 45,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 48377,
@@ -475,20 +539,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 45771,
-      "num": 45771,
+      "raw_hot": 47118,
+      "num": 47118,
       "word": "成毅英雄志吊威亚路透",
       "onboard_time": 1678300932,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 44519,
-      "num": 44519,
-      "word": "北京动物园兽医饲养员下周抵美",
-      "onboard_time": 1678270588,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40722,
@@ -505,22 +561,6 @@
       "onboard_time": 1678285231,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 39825,
-      "num": 39825,
-      "word": "管泽元直播回应",
-      "onboard_time": 1678317319,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 39435,
-      "num": 39435,
-      "word": "每天少睡一两个小时算熬夜吗",
-      "onboard_time": 1678317381,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31082,
@@ -555,8 +595,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8665,
-      "num": 348092,
+      "raw_hot": 10983,
+      "num": 421350,
       "word": "两高报告十大关键词",
       "onboard_time": 1678235129,
       "rank": 2,
