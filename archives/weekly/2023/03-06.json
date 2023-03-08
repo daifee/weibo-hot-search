@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678295905849,
+  "endTime": 1678296933073,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -2267,6 +2267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 378440,
+      "num": 378440,
+      "word": "广东处于地震活动相对活跃的时段",
+      "onboard_time": 1678293559,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376589,
       "num": 260009,
       "word": "吴磊赵今麦撒娇路透",
@@ -2297,14 +2305,6 @@
       "onboard_time": 1678171707,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 371129,
-      "num": 371129,
-      "word": "广东处于地震活动相对活跃的时段",
-      "onboard_time": 1678293559,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370985,
@@ -3243,6 +3243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244064,
+      "num": 158786,
+      "word": "迪士尼游客站着看烟花秀遭后排辱骂",
+      "onboard_time": 1678293201,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243494,
       "num": 243494,
       "word": "值得爆红的姐",
@@ -3361,14 +3369,6 @@
       "onboard_time": 1678272088,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232719,
-      "num": 158786,
-      "word": "迪士尼游客站着看烟花秀遭后排辱骂",
-      "onboard_time": 1678293201,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232321,
@@ -6323,6 +6323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 91872,
+      "num": 91872,
+      "word": "中国承办奥运排球资格赛",
+      "onboard_time": 1678294698,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90641,
       "num": 90641,
       "word": "男团下岗再就业",
@@ -6553,14 +6561,6 @@
       "onboard_time": 1678011505,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70327,
-      "num": 67525,
-      "word": "中国承办奥运排球资格赛",
-      "onboard_time": 1678294698,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 70232,
@@ -6801,6 +6801,14 @@
       "onboard_time": 1678213033,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 13727,
+      "num": 34082,
+      "word": "徐枫灿见到刘洋秒变小迷妹",
+      "onboard_time": 1678296675,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11309,
