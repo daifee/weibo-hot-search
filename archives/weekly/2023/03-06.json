@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678275240864,
+  "endTime": 1678279065607,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -39,6 +39,14 @@
       "num": 2698699,
       "word": "广东河源4.5级地震",
       "onboard_time": 1678230501,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2518692,
+      "num": 2518692,
+      "word": "中方已完成所有丫丫回国审批事项",
+      "onboard_time": 1678275566,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -547,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1157749,
+      "num": 1157749,
+      "word": "建议将婚丧嫁娶情况纳入干部考核",
+      "onboard_time": 1678274965,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1118837,
       "num": 1118837,
       "word": "韩国取消对自中国入境人员核酸证明要求",
@@ -577,6 +593,14 @@
       "onboard_time": 1678071507,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1061423,
+      "num": 200275,
+      "word": "黎姿首次正面回应退圈原因",
+      "onboard_time": 1678276408,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1057889,
@@ -673,6 +697,22 @@
       "onboard_time": 1678254445,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 946555,
+      "num": 220970,
+      "word": "辛巴",
+      "onboard_time": 1678274846,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 929406,
+      "num": 929406,
+      "word": "认养大熊猫1年10万终身100万",
+      "onboard_time": 1678276587,
+      "rank": 3,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 928704,
@@ -1539,14 +1579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 509612,
-      "num": 220970,
-      "word": "辛巴",
-      "onboard_time": 1678274846,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 508558,
       "num": 450574,
       "word": "这是真的水泥封心了",
@@ -2259,6 +2291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359841,
+      "num": 359841,
+      "word": "回廊亭",
+      "onboard_time": 1678275146,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358784,
       "num": 358784,
       "word": "浓眉被打出血",
@@ -2312,6 +2352,14 @@
       "word": "姚弛 不被性别化偏见的形容词所绑架",
       "onboard_time": 1678256364,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 351004,
+      "num": 195268,
+      "word": "南太铉酒驾被立案",
+      "onboard_time": 1678278327,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -2867,6 +2915,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 264585,
+      "num": 191937,
+      "word": "刘柏辛Minnie同框",
+      "onboard_time": 1678277008,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 264560,
       "num": 264560,
       "word": "上金所回应澳铸币厂出售掺杂金条",
@@ -3131,6 +3187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231303,
+      "num": 231303,
+      "word": "超导",
+      "onboard_time": 1678274547,
+      "rank": 35,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 230828,
       "num": 230828,
       "word": "向太说前路并非坦途一起加油",
@@ -3177,6 +3241,14 @@
       "onboard_time": 1678180888,
       "rank": 25,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 225432,
+      "num": 191306,
+      "word": "靖佩瑶吕妍结婚",
+      "onboard_time": 1678279049,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 223873,
@@ -3371,14 +3443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 211117,
-      "num": 152486,
-      "word": "建议将婚丧嫁娶情况纳入干部考核",
-      "onboard_time": 1678274965,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210256,
       "num": 210256,
       "word": "WBG",
@@ -3440,14 +3504,6 @@
       "word": "宋茜首映现场和粉丝拥抱",
       "onboard_time": 1678102286,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 208163,
-      "num": 208163,
-      "word": "回廊亭",
-      "onboard_time": 1678275146,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -3641,6 +3697,14 @@
       "onboard_time": 1678249051,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201220,
+      "num": 201220,
+      "word": "晚八点音乐会",
+      "onboard_time": 1678278088,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 200667,
@@ -4563,6 +4627,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 158708,
+      "num": 158708,
+      "word": "辽宁男篮vs上海男篮",
+      "onboard_time": 1678276831,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158234,
       "num": 158234,
       "word": "陈钰琪新剧杀青随拍",
@@ -4697,6 +4769,14 @@
       "onboard_time": 1678167324,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148684,
+      "num": 148684,
+      "word": "艺声谈营业对艺人的意义",
+      "onboard_time": 1678275387,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147972,
@@ -4929,14 +5009,6 @@
       "onboard_time": 1678246468,
       "rank": 38,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 131464,
-      "num": 131464,
-      "word": "超导",
-      "onboard_time": 1678274547,
-      "rank": 35,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 130569,
@@ -5403,6 +5475,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 112432,
+      "num": 112432,
+      "word": "柯南剧场版人物关系图",
+      "onboard_time": 1678278748,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 111783,
       "num": 111783,
       "word": "支持见义勇为坚决反对和稀泥",
@@ -5643,6 +5723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103700,
+      "num": 103700,
+      "word": "加快把我军建成世界一流军队",
+      "onboard_time": 1678277668,
+      "rank": 37,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 103466,
       "num": 103466,
       "word": "Leave获周最佳新秀",
@@ -5747,6 +5835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98627,
+      "num": 98627,
+      "word": "丫丫回国后将和熊猫萌兰做邻居",
+      "onboard_time": 1678278629,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98232,
       "num": 98232,
       "word": "福菀",
@@ -5812,7 +5908,7 @@
     },
     {
       "raw_hot": 95111,
-      "num": 773257,
+      "num": 999557,
       "word": "中国女性的互联网之路",
       "onboard_time": 1678261346,
       "rank": 2,
@@ -6313,6 +6409,14 @@
       "onboard_time": 1678089387,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 21978,
+      "num": 197651,
+      "word": "刻在DNA里的旋律动了",
+      "onboard_time": 1678276831,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 20323,
