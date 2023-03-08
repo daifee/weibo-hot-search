@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678274189705,
+  "endTime": 1678275240864,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1942155,
+      "num": 295187,
+      "word": "王子文 现在没有恋人",
+      "onboard_time": 1678271066,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1940290,
       "num": 1940290,
       "word": "感染甲流会有全身症状",
@@ -169,14 +177,6 @@
       "onboard_time": 1678262668,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1873777,
-      "num": 295187,
-      "word": "王子文 现在没有恋人",
-      "onboard_time": 1678271066,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1862133,
@@ -851,6 +851,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 787444,
+      "num": 285938,
+      "word": "蜂花请关心丫丫的人理性消费",
+      "onboard_time": 1678270169,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 786941,
       "num": 408687,
       "word": "金智秀 solo出道",
@@ -985,14 +993,6 @@
       "onboard_time": 1678082606,
       "rank": 26,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 691112,
-      "num": 285938,
-      "word": "蜂花请关心丫丫的人理性消费",
-      "onboard_time": 1678270169,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 687976,
@@ -1339,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546674,
+      "num": 546674,
+      "word": "北京动物园兽医饲养员下周抵美",
+      "onboard_time": 1678270588,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546661,
       "num": 546661,
       "word": "U20国足7分钟连进2球",
@@ -1369,14 +1377,6 @@
       "onboard_time": 1678266268,
       "rank": 32,
       "category": "科技"
-    },
-    {
-      "raw_hot": 534893,
-      "num": 534893,
-      "word": "北京动物园兽医饲养员下周抵美",
-      "onboard_time": 1678270588,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534702,
@@ -1537,6 +1537,14 @@
       "onboard_time": 1678168166,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509612,
+      "num": 220970,
+      "word": "辛巴",
+      "onboard_time": 1678274846,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 508558,
@@ -2209,6 +2217,14 @@
       "onboard_time": 1678177227,
       "rank": 39,
       "category": "社会新闻,作品衍生"
+    },
+    {
+      "raw_hot": 363022,
+      "num": 233725,
+      "word": "宋茜用发圈扎T恤",
+      "onboard_time": 1678273945,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 362474,
@@ -3091,14 +3107,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 233725,
-      "num": 233725,
-      "word": "宋茜用发圈扎T恤",
-      "onboard_time": 1678273945,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 232801,
       "num": 232801,
       "word": "半熟恋人",
@@ -3315,6 +3323,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 213307,
+      "num": 206691,
+      "word": "李玟手术完成vlog",
+      "onboard_time": 1678274426,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212759,
       "num": 212759,
       "word": "特朗普谈2024年大选",
@@ -3353,6 +3369,14 @@
       "onboard_time": 1678167146,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 211117,
+      "num": 152486,
+      "word": "建议将婚丧嫁娶情况纳入干部考核",
+      "onboard_time": 1678274965,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210256,
@@ -3416,6 +3440,14 @@
       "word": "宋茜首映现场和粉丝拥抱",
       "onboard_time": 1678102286,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 208163,
+      "num": 208163,
+      "word": "回廊亭",
+      "onboard_time": 1678275146,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -3787,6 +3819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196294,
+      "num": 196294,
+      "word": "朱珠爱情观",
+      "onboard_time": 1678272507,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195938,
       "num": 195938,
       "word": "她的样子不需要被定义",
@@ -3963,12 +4003,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190318,
-      "num": 190318,
-      "word": "朱珠爱情观",
-      "onboard_time": 1678272507,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 190189,
+      "num": 190189,
+      "word": "这包怎么长猫了",
+      "onboard_time": 1678272688,
+      "rank": 27,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 189249,
@@ -4089,6 +4129,14 @@
       "onboard_time": 1678248448,
       "rank": 40,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 185842,
+      "num": 185842,
+      "word": "你会因为大额补贴购买指定车型吗",
+      "onboard_time": 1678272868,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185816,
@@ -4323,6 +4371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169533,
+      "num": 169533,
+      "word": "听说你喜欢我上星播出",
+      "onboard_time": 1678273048,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169390,
       "num": 169390,
       "word": "湖人终结勇士五连胜",
@@ -4475,14 +4531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160595,
-      "num": 160595,
-      "word": "听说你喜欢我上星播出",
-      "onboard_time": 1678273048,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160031,
       "num": 160031,
       "word": "谭松韵单曲预告",
@@ -4587,14 +4635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152929,
-      "num": 152929,
-      "word": "这包怎么长猫了",
-      "onboard_time": 1678272688,
-      "rank": 27,
-      "category": "幽默,时尚"
-    },
-    {
       "raw_hot": 152408,
       "num": 152408,
       "word": "LOFTER平台AI绘画功能遭用户质疑",
@@ -4616,14 +4656,6 @@
       "word": "职场上不喜欢社交该怎么办",
       "onboard_time": 1678179148,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151366,
-      "num": 151366,
-      "word": "你会因为大额补贴购买指定车型吗",
-      "onboard_time": 1678272868,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -4899,6 +4931,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 131464,
+      "num": 131464,
+      "word": "超导",
+      "onboard_time": 1678274547,
+      "rank": 35,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 130569,
       "num": 130569,
       "word": "宋茜舞台",
@@ -4995,20 +5035,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 126668,
+      "num": 126668,
+      "word": "全员美人的影视剧",
+      "onboard_time": 1678271428,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 126652,
       "num": 126652,
       "word": "央视妇女节系列行动",
       "onboard_time": 1678257205,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126576,
-      "num": 126576,
-      "word": "全员美人的影视剧",
-      "onboard_time": 1678271428,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 126458,
@@ -6067,6 +6107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70232,
+      "num": 122359,
+      "word": "做自己不止今天",
+      "onboard_time": 1678273227,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 69177,
       "num": 69177,
       "word": "宋佳巴黎时装周看秀造型",
@@ -6161,14 +6209,6 @@
       "onboard_time": 1678115190,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55602,
-      "num": 109431,
-      "word": "做自己不止今天",
-      "onboard_time": 1678273227,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 53898,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1678275240864,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 922262,
+        "num": 922262,
+        "word": "公司规定老板生理期全体放假3天",
+        "onboard_time": 1678266028,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570197,
+        "num": 570197,
+        "word": "妇女节 不是女生节不是女神节",
+        "onboard_time": 1678238605,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63252,
+        "num": 550032,
+        "word": "中国女性的互联网之路",
+        "onboard_time": 1678261346,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546674,
+        "num": 546674,
+        "word": "北京动物园兽医饲养员下周抵美",
+        "onboard_time": 1678270588,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360228,
+        "num": 360228,
+        "word": "为何iPhone14不如13卖的好",
+        "onboard_time": 1678263927,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 351179,
+        "num": 351179,
+        "word": "奇瑞回应要求员工周六上班",
+        "onboard_time": 1678266268,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 350321,
+        "num": 350321,
+        "word": "网传乘风破浪第四季改名乘风",
+        "onboard_time": 1678269928,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314204,
+        "num": 314204,
+        "word": "大熊猫着急下班哐哐敲铁门",
+        "onboard_time": 1678265909,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266375,
+        "num": 266375,
+        "word": "杨幂秦昊没有我的城备案",
+        "onboard_time": 1678269448,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230996,
+        "num": 230996,
+        "word": "我们好像都成为鼠鼠了",
+        "onboard_time": 1678263990,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1942155,
+        "num": 228918,
+        "word": "王子文 现在没有恋人",
+        "onboard_time": 1678271066,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1077364,
+        "num": 227481,
+        "word": "张颂文向张纪中道歉",
+        "onboard_time": 1678263448,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 787444,
+        "num": 224944,
+        "word": "蜂花请关心丫丫的人理性消费",
+        "onboard_time": 1678270169,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556423,
+        "num": 222793,
+        "word": "废文",
+        "onboard_time": 1678268548,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 509612,
+        "num": 220970,
+        "word": "辛巴",
+        "onboard_time": 1678274846,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 377592,
+        "num": 218761,
+        "word": "楼上乱扔烟头男子阳台宠物鸡变烧鸡",
+        "onboard_time": 1678265909,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363022,
+        "num": 216477,
+        "word": "宋茜用发圈扎T恤",
+        "onboard_time": 1678273945,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283637,
+        "num": 214277,
+        "word": "薛之谦 票",
+        "onboard_time": 1678268369,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213650,
+        "num": 213650,
+        "word": "瓦妮莎",
+        "onboard_time": 1678260445,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 208163,
+        "num": 208163,
+        "word": "回廊亭",
+        "onboard_time": 1678275146,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213307,
+        "num": 206691,
+        "word": "李玟手术完成vlog",
+        "onboard_time": 1678274426,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202908,
+        "num": 202908,
+        "word": "欧阳娜娜收到张大大小卡的反应",
+        "onboard_time": 1678267227,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196294,
+        "num": 196294,
+        "word": "朱珠爱情观",
+        "onboard_time": 1678272507,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192473,
+        "num": 192473,
+        "word": "TVB淘宝首播带货2350万",
+        "onboard_time": 1678262547,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 190189,
+        "num": 190189,
+        "word": "这包怎么长猫了",
+        "onboard_time": 1678272688,
+        "rank": 24,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 189709,
+        "num": 189709,
+        "word": "半熟恋人",
+        "onboard_time": 1678272088,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185842,
+        "num": 185842,
+        "word": "你会因为大额补贴购买指定车型吗",
+        "onboard_time": 1678272868,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176283,
+        "num": 176283,
+        "word": "高校推出一人一桶洗衣机",
+        "onboard_time": 1678258886,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 169533,
+        "num": 169533,
+        "word": "听说你喜欢我上星播出",
+        "onboard_time": 1678273048,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152629,
+        "num": 152629,
+        "word": "建议幼儿园入园年龄低龄化",
+        "onboard_time": 1678254445,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211117,
+        "num": 152486,
+        "word": "建议将婚丧嫁娶情况纳入干部考核",
+        "onboard_time": 1678274965,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146638,
+        "num": 146638,
+        "word": "白艺潾Wendy合作曲",
+        "onboard_time": 1678272507,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144858,
+        "num": 144858,
+        "word": "陆虎 亲吻展",
+        "onboard_time": 1678261167,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138199,
+        "num": 138199,
+        "word": "赖冠霖参加北电四试",
+        "onboard_time": 1678259485,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133257,
+        "num": 133257,
+        "word": "何宣林2分钟台词自白",
+        "onboard_time": 1678272627,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131464,
+        "num": 131464,
+        "word": "超导",
+        "onboard_time": 1678274547,
+        "rank": 35,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 126668,
+        "num": 126668,
+        "word": "全员美人的影视剧",
+        "onboard_time": 1678271428,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126367,
+        "num": 126367,
+        "word": "重紫",
+        "onboard_time": 1678273107,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122990,
+        "num": 122990,
+        "word": "刘亦菲周冬雨同框自拍照",
+        "onboard_time": 1678261886,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70232,
+        "num": 122359,
+        "word": "做自己不止今天",
+        "onboard_time": 1678273227,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122121,
+        "num": 122121,
+        "word": "骆歆 管泽元",
+        "onboard_time": 1678244488,
+        "rank": 40,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 110974,
+        "num": 110974,
+        "word": "王一博包场大鹏新电影",
+        "onboard_time": 1678263387,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105378,
+        "num": 105378,
+        "word": "曲阜师范女大学生考研前期确诊血癌",
+        "onboard_time": 1678247007,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104644,
+        "num": 104644,
+        "word": "AG疑似变更主教练",
+        "onboard_time": 1678268187,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97020,
+        "num": 97020,
+        "word": "广东河源再次发生地震",
+        "onboard_time": 1678260326,
+        "rank": 44,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 96981,
+        "num": 96981,
+        "word": "三八妇女节放假半天",
+        "onboard_time": 1678254685,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94510,
+        "num": 94510,
+        "word": "狂铁终于长高了",
+        "onboard_time": 1678266687,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90673,
+        "num": 90673,
+        "word": "高叶活得好通透",
+        "onboard_time": 1678266386,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88620,
+        "num": 88620,
+        "word": "LPL十大选手投票",
+        "onboard_time": 1678257505,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85562,
+        "num": 85562,
+        "word": "赵露思王安宇牵手路透",
+        "onboard_time": 1678254628,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展是全面建设社会主义现代化国家的首要任务#"
+    }
+  }
+}
