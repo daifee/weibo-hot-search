@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678264781102,
+  "endTime": 1678267171550,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 1883350,
-      "num": 263871,
+      "num": 264456,
       "word": "好欢螺",
       "onboard_time": 1678262668,
       "rank": 11,
@@ -595,6 +595,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1651195,
+      "num": 262243,
+      "word": "蜂花 丫丫",
+      "onboard_time": 1678263268,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1646218,
       "num": 1646218,
       "word": "不再保留中国银行保险监督管理委员会",
@@ -641,14 +649,6 @@
       "onboard_time": 1678064906,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1588320,
-      "num": 262243,
-      "word": "蜂花 丫丫",
-      "onboard_time": 1678263268,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1570659,
@@ -1555,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1020209,
+      "num": 1020209,
+      "word": "瓦妮莎",
+      "onboard_time": 1678260445,
+      "rank": 41,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1017499,
       "num": 581757,
       "word": "林孝埈",
@@ -1777,14 +1785,6 @@
       "onboard_time": 1677929305,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 931381,
-      "num": 931381,
-      "word": "瓦妮莎",
-      "onboard_time": 1678260445,
-      "rank": 41,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 928046,
@@ -2401,6 +2401,14 @@
       "onboard_time": 1677740304,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 770554,
+      "num": 770554,
+      "word": "好欢螺回应妇女节争议文案",
+      "onboard_time": 1678266086,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 764211,
@@ -4387,6 +4395,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 510377,
+      "num": 510377,
+      "word": "为何iPhone14不如13卖的好",
+      "onboard_time": 1678263927,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 510185,
       "num": 510185,
       "word": "得了甲流就得吃抗病毒药吗",
@@ -4932,7 +4948,7 @@
     },
     {
       "raw_hot": 456122,
-      "num": 261129,
+      "num": 263012,
       "word": "陆虎 亲吻展",
       "onboard_time": 1678261167,
       "rank": 14,
@@ -5947,6 +5963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380351,
+      "num": 380351,
+      "word": "公司规定老板生理期全体放假3天",
+      "onboard_time": 1678266028,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380288,
       "num": 380288,
       "word": "惊蛰",
@@ -6531,6 +6555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349256,
+      "num": 349256,
+      "word": "TVB淘宝首播带货2350万",
+      "onboard_time": 1678262547,
+      "rank": 22,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 348731,
       "num": 306140,
       "word": "陆虎张远直播",
@@ -6747,14 +6779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337641,
-      "num": 337641,
-      "word": "TVB淘宝首播带货2350万",
-      "onboard_time": 1678262547,
-      "rank": 22,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 335753,
       "num": 285253,
       "word": "与非门",
@@ -6897,6 +6921,14 @@
       "onboard_time": 1677850287,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 327265,
+      "num": 263920,
+      "word": "楼上乱扔烟头男子阳台宠物鸡变烧鸡",
+      "onboard_time": 1678265909,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326745,
@@ -7132,7 +7164,7 @@
     },
     {
       "raw_hot": 316147,
-      "num": 259097,
+      "num": 263277,
       "word": "刘亦菲周冬雨同框自拍照",
       "onboard_time": 1678261886,
       "rank": 16,
@@ -7761,6 +7793,14 @@
       "onboard_time": 1678057999,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283862,
+      "num": 243835,
+      "word": "蜂花回应要认养大熊猫丫丫",
+      "onboard_time": 1678266747,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 283828,
@@ -8883,6 +8923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236723,
+      "num": 236723,
+      "word": "我们好像都成为鼠鼠了",
+      "onboard_time": 1678263990,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236642,
       "num": 236642,
       "word": "张译呼吁丰富无障碍影视作品",
@@ -9025,6 +9073,14 @@
       "onboard_time": 1678259305,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 230828,
+      "num": 230828,
+      "word": "向太说前路并非坦途一起加油",
+      "onboard_time": 1678264829,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 230752,
@@ -9617,6 +9673,14 @@
       "onboard_time": 1678173206,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213751,
+      "num": 213751,
+      "word": "大熊猫着急下班哐哐敲铁门",
+      "onboard_time": 1678265909,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 213664,
@@ -12155,14 +12219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 165603,
-      "num": 165603,
-      "word": "为何iPhone14不如13卖的好",
-      "onboard_time": 1678263927,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
       "raw_hot": 165493,
       "num": 165493,
       "word": "东北连熊猫也会整活",
@@ -12531,6 +12587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155430,
+      "num": 155430,
+      "word": "狂铁品质升级",
+      "onboard_time": 1678264527,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155327,
       "num": 155327,
       "word": "中国体坛她力量",
@@ -12625,6 +12689,14 @@
       "onboard_time": 1677742468,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151789,
+      "num": 151789,
+      "word": "奇瑞回应要求员工周六上班",
+      "onboard_time": 1678266268,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 151744,
@@ -13307,6 +13379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137073,
+      "num": 137073,
+      "word": "高叶活得好通透",
+      "onboard_time": 1678266386,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136763,
       "num": 136763,
       "word": "星落凝成糖优酷热度破10000",
@@ -13665,6 +13745,14 @@
       "onboard_time": 1677595293,
       "rank": 39,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 129819,
+      "num": 129819,
+      "word": "呼和浩特体育中心设女性专用泳道",
+      "onboard_time": 1678263867,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129803,
@@ -14563,14 +14651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110325,
-      "num": 110325,
-      "word": "狂铁品质升级",
-      "onboard_time": 1678264527,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 109531,
       "num": 109531,
       "word": "重紫今日大婚",
@@ -14641,6 +14721,14 @@
       "onboard_time": 1678050371,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108306,
+      "num": 108306,
+      "word": "这居然是个鱼缸",
+      "onboard_time": 1678263448,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 108220,
@@ -14835,14 +14923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104736,
-      "num": 104736,
-      "word": "我们好像都成为鼠鼠了",
-      "onboard_time": 1678263990,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 104598,
       "num": 104598,
       "word": "eStar火锅默契局",
@@ -14971,20 +15051,20 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 102211,
-      "num": 102211,
-      "word": "这居然是个鱼缸",
-      "onboard_time": 1678263448,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 102048,
       "num": 102048,
       "word": "雷锋珍贵原声音频",
       "onboard_time": 1677999625,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101670,
+      "num": 101670,
+      "word": "狂铁终于长高了",
+      "onboard_time": 1678266687,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 101536,
@@ -15228,7 +15308,7 @@
     },
     {
       "raw_hot": 95111,
-      "num": 629366,
+      "num": 773257,
       "word": "中国女性的互联网之路",
       "onboard_time": 1678261346,
       "rank": 2,
@@ -15497,14 +15577,6 @@
       "onboard_time": 1677959592,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84887,
-      "num": 84887,
-      "word": "呼和浩特体育中心设女性专用泳道",
-      "onboard_time": 1678263867,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84659,
@@ -16417,6 +16489,14 @@
       "onboard_time": 1677700632,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16002,
+      "num": 130469,
+      "word": "她们的力量自己定义",
+      "onboard_time": 1678266028,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 12119,
