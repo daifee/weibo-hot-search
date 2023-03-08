@@ -1,6 +1,6 @@
 {
   "startTime": 1678206448826,
-  "endTime": 1678263920422,
+  "endTime": 1678264781102,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -19,12 +19,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1950072,
+      "raw_hot": 2343804,
       "num": 264574,
       "word": "张颂文向张纪中道歉",
       "onboard_time": 1678263448,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1883350,
+      "num": 263871,
+      "word": "好欢螺",
+      "onboard_time": 1678262668,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1672015,
@@ -43,20 +51,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1656063,
-      "num": 263871,
-      "word": "好欢螺",
-      "onboard_time": 1678262668,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1636650,
       "num": 517314,
       "word": "张翰朴敏英两部7年未播剧流拍",
       "onboard_time": 1678244367,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1588320,
+      "num": 262243,
+      "word": "蜂花 丫丫",
+      "onboard_time": 1678263268,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1566236,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 931381,
+      "num": 931381,
+      "word": "瓦妮莎",
+      "onboard_time": 1678260445,
+      "rank": 41,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 902407,
       "num": 647720,
       "word": "河源地震",
@@ -193,22 +209,6 @@
       "onboard_time": 1678254628,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 760112,
-      "num": 760112,
-      "word": "瓦妮莎",
-      "onboard_time": 1678260445,
-      "rank": 41,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 751075,
-      "num": 262243,
-      "word": "蜂花 丫丫",
-      "onboard_time": 1678263268,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 747006,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366393,
+      "num": 260188,
+      "word": "王一博包场大鹏新电影",
+      "onboard_time": 1678263387,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358784,
       "num": 358784,
       "word": "浓眉被打出血",
@@ -507,20 +515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 351028,
-      "num": 260188,
-      "word": "王一博包场大鹏新电影",
-      "onboard_time": 1678263387,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 339020,
       "num": 294682,
       "word": "妈妈以为被尼格买提关注了",
       "onboard_time": 1678201109,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337641,
+      "num": 337641,
+      "word": "TVB淘宝首播带货2350万",
+      "onboard_time": 1678262547,
+      "rank": 22,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 334780,
@@ -723,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242000,
+      "num": 242000,
+      "word": "银河护卫队3确认引进",
+      "onboard_time": 1678263087,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236606,
       "num": 172632,
       "word": "澳大利亚将对猫实施宵禁措施",
@@ -745,14 +761,6 @@
       "onboard_time": 1678238006,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223799,
-      "num": 223799,
-      "word": "TVB淘宝首播带货2350万",
-      "onboard_time": 1678262547,
-      "rank": 22,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 223662,
@@ -849,14 +857,6 @@
       "onboard_time": 1678239687,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202475,
-      "num": 202475,
-      "word": "银河护卫队3确认引进",
-      "onboard_time": 1678263087,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 202358,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1678239687,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165603,
+      "num": 165603,
+      "word": "为何iPhone14不如13卖的好",
+      "onboard_time": 1678263927,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 162523,
@@ -1251,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110325,
+      "num": 110325,
+      "word": "狂铁品质升级",
+      "onboard_time": 1678264527,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107496,
       "num": 107496,
       "word": "姐文化为什么那么火",
@@ -1291,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104736,
+      "num": 104736,
+      "word": "我们好像都成为鼠鼠了",
+      "onboard_time": 1678263990,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104624,
       "num": 104624,
       "word": "欧阳娜娜教张大大唱歌",
@@ -1321,6 +1345,14 @@
       "onboard_time": 1678246047,
       "rank": 45,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 102211,
+      "num": 102211,
+      "word": "这居然是个鱼缸",
+      "onboard_time": 1678263448,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 101845,
@@ -1355,15 +1387,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96070,
-      "num": 96070,
-      "word": "这居然是个鱼缸",
-      "onboard_time": 1678263448,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 89246,
+      "raw_hot": 95111,
       "num": 629366,
       "word": "中国女性的互联网之路",
       "onboard_time": 1678261346,
@@ -1393,6 +1417,14 @@
       "onboard_time": 1678256006,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 84887,
+      "num": 84887,
+      "word": "呼和浩特体育中心设女性专用泳道",
+      "onboard_time": 1678263867,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84659,
@@ -1441,14 +1473,6 @@
       "onboard_time": 1678220351,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70296,
-      "num": 70296,
-      "word": "呼和浩特体育中心设女性专用泳道",
-      "onboard_time": 1678263867,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70233,
@@ -1595,6 +1619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31078,
+      "num": 102413,
+      "word": "那些年的时髦单品",
+      "onboard_time": 1678262427,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 29066,
       "num": 40020,
       "word": "深化地方金融监管体制改革",
@@ -1609,14 +1641,6 @@
       "onboard_time": 1678259125,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26182,
-      "num": 96216,
-      "word": "那些年的时髦单品",
-      "onboard_time": 1678262427,
-      "rank": 39,
-      "category": "时尚"
     },
     {
       "raw_hot": 25903,
@@ -1658,6 +1682,9 @@
     },
     {
       "word": "#高质量发展是全面建设社会主义现代化国家的首要任务#"
+    },
+    {
+      "word": "#2023两会好声音#"
     }
   ]
 }

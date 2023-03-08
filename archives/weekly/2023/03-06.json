@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678263920422,
+  "endTime": 1678264781102,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -67,6 +67,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2343804,
+      "num": 264574,
+      "word": "张颂文向张纪中道歉",
+      "onboard_time": 1678263448,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2236441,
       "num": 1224361,
       "word": "威廉疑似在校被霸凌",
@@ -131,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1950072,
-      "num": 264574,
-      "word": "张颂文向张纪中道歉",
-      "onboard_time": 1678263448,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1940290,
       "num": 1940290,
       "word": "感染甲流会有全身症状",
@@ -161,6 +161,14 @@
       "onboard_time": 1678114649,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1883350,
+      "num": 263871,
+      "word": "好欢螺",
+      "onboard_time": 1678262668,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1862133,
@@ -267,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1656063,
-      "num": 263871,
-      "word": "好欢螺",
-      "onboard_time": 1678262668,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1655937,
       "num": 950466,
       "word": "小孩爱说的烂梗越来越多了",
@@ -305,6 +305,14 @@
       "onboard_time": 1678064906,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1588320,
+      "num": 262243,
+      "word": "蜂花 丫丫",
+      "onboard_time": 1678263268,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1566236,
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 931381,
+      "num": 931381,
+      "word": "瓦妮莎",
+      "onboard_time": 1678260445,
+      "rank": 41,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 928704,
       "num": 253306,
       "word": "B站",
@@ -835,28 +851,12 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 760112,
-      "num": 760112,
-      "word": "瓦妮莎",
-      "onboard_time": 1678260445,
-      "rank": 41,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 755853,
       "num": 755853,
       "word": "东北饭包",
       "onboard_time": 1678029869,
       "rank": 0,
       "category": "美食"
-    },
-    {
-      "raw_hot": 751075,
-      "num": 262243,
-      "word": "蜂花 丫丫",
-      "onboard_time": 1678263268,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 747006,
@@ -2051,6 +2051,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 366393,
+      "num": 260188,
+      "word": "王一博包场大鹏新电影",
+      "onboard_time": 1678263387,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364601,
       "num": 364601,
       "word": "鳄鱼莱莱确认引进",
@@ -2163,14 +2171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 351028,
-      "num": 260188,
-      "word": "王一博包场大鹏新电影",
-      "onboard_time": 1678263387,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 350548,
       "num": 279644,
       "word": "女子送锦旗感谢民警找回30万却被抓",
@@ -2273,6 +2273,14 @@
       "onboard_time": 1678066705,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337641,
+      "num": 337641,
+      "word": "TVB淘宝首播带货2350万",
+      "onboard_time": 1678262547,
+      "rank": 22,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 334944,
@@ -2875,6 +2883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242000,
+      "num": 242000,
+      "word": "银河护卫队3确认引进",
+      "onboard_time": 1678263087,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241624,
       "num": 241624,
       "word": "大侦探第七案剧照",
@@ -3009,14 +3025,6 @@
       "onboard_time": 1678184190,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223799,
-      "num": 223799,
-      "word": "TVB淘宝首播带货2350万",
-      "onboard_time": 1678262547,
-      "rank": 22,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 223662,
@@ -3417,14 +3425,6 @@
       "onboard_time": 1678027170,
       "rank": 8,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 202475,
-      "num": 202475,
-      "word": "银河护卫队3确认引进",
-      "onboard_time": 1678263087,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 202117,
@@ -4177,6 +4177,14 @@
       "onboard_time": 1678081406,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 165603,
+      "num": 165603,
+      "word": "为何iPhone14不如13卖的好",
+      "onboard_time": 1678263927,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 165493,
@@ -5147,6 +5155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110325,
+      "num": 110325,
+      "word": "狂铁品质升级",
+      "onboard_time": 1678264527,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109531,
       "num": 109531,
       "word": "重紫今日大婚",
@@ -5283,6 +5299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104736,
+      "num": 104736,
+      "word": "我们好像都成为鼠鼠了",
+      "onboard_time": 1678263990,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104598,
       "num": 104598,
       "word": "eStar火锅默契局",
@@ -5377,6 +5401,14 @@
       "onboard_time": 1678246047,
       "rank": 45,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 102211,
+      "num": 102211,
+      "word": "这居然是个鱼缸",
+      "onboard_time": 1678263448,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 101189,
@@ -5483,14 +5515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 96070,
-      "num": 96070,
-      "word": "这居然是个鱼缸",
-      "onboard_time": 1678263448,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 96032,
       "num": 96032,
       "word": "新发现或能让成人大脑产生新神经元",
@@ -5505,6 +5529,14 @@
       "onboard_time": 1678166065,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95111,
+      "num": 629366,
+      "word": "中国女性的互联网之路",
+      "onboard_time": 1678261346,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95070,
@@ -5603,14 +5635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89246,
-      "num": 629366,
-      "word": "中国女性的互联网之路",
-      "onboard_time": 1678261346,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88719,
       "num": 88719,
       "word": "OMG 太热血了",
@@ -5649,6 +5673,14 @@
       "onboard_time": 1678065445,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84887,
+      "num": 84887,
+      "word": "呼和浩特体育中心设女性专用泳道",
+      "onboard_time": 1678263867,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84659,
@@ -5784,14 +5816,6 @@
       "word": "南京地铁回应乘客因手机外放收罚单",
       "onboard_time": 1678011505,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70296,
-      "num": 70296,
-      "word": "呼和浩特体育中心设女性专用泳道",
-      "onboard_time": 1678263867,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -5963,6 +5987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31078,
+      "num": 102413,
+      "word": "那些年的时髦单品",
+      "onboard_time": 1678262427,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 28887,
       "num": 28887,
       "word": "宋祖儿和小朋友跳舞",
@@ -5977,14 +6009,6 @@
       "onboard_time": 1678259125,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26182,
-      "num": 96216,
-      "word": "那些年的时髦单品",
-      "onboard_time": 1678262427,
-      "rank": 39,
-      "category": "时尚"
     },
     {
       "raw_hot": 25802,
@@ -6067,6 +6091,9 @@
     },
     {
       "word": "#高质量发展是全面建设社会主义现代化国家的首要任务#"
+    },
+    {
+      "word": "#2023两会好声音#"
     }
   ]
 }
