@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678293969943,
+  "endTime": 1678295905849,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -2299,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371129,
+      "num": 371129,
+      "word": "广东处于地震活动相对活跃的时段",
+      "onboard_time": 1678293559,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370985,
       "num": 265392,
       "word": "欧阳娜娜教张大大唱歌",
@@ -3353,6 +3361,14 @@
       "onboard_time": 1678272088,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232719,
+      "num": 158786,
+      "word": "迪士尼游客站着看烟花秀遭后排辱骂",
+      "onboard_time": 1678293201,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232321,
@@ -6507,14 +6523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 73541,
-      "num": 73541,
-      "word": "迪士尼游客站着看烟花秀遭后排辱骂",
-      "onboard_time": 1678293201,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72790,
       "num": 72790,
       "word": "毕雯珺喝了李一桐奶茶",
@@ -6545,6 +6553,14 @@
       "onboard_time": 1678011505,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70327,
+      "num": 67525,
+      "word": "中国承办奥运排球资格赛",
+      "onboard_time": 1678294698,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 70232,
@@ -6609,14 +6625,6 @@
       "onboard_time": 1678235129,
       "rank": 9,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 61251,
-      "num": 61251,
-      "word": "广东处于地震活动相对活跃的时段",
-      "onboard_time": 1678293559,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60679,
