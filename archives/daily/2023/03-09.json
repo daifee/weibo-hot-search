@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678302949598,
+  "endTime": 1678304034415,
   "band_list": [
     {
       "raw_hot": 1407548,
@@ -299,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90408,
+      "num": 90408,
+      "word": "北溪管道被炸是亲乌团体所为",
+      "onboard_time": 1678301771,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 87888,
       "num": 87888,
       "word": "田曦薇将进组",
@@ -409,14 +417,6 @@
       "onboard_time": 1678281568,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 50156,
-      "num": 23042,
-      "word": "北溪管道被炸是亲乌团体所为",
-      "onboard_time": 1678301771,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 48377,

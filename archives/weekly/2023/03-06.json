@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678302949598,
+  "endTime": 1678304034415,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -6339,6 +6339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90408,
+      "num": 90408,
+      "word": "北溪管道被炸是亲乌团体所为",
+      "onboard_time": 1678301771,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 90001,
       "num": 275849,
       "word": "2023秋冬时装周",
@@ -6705,14 +6713,6 @@
       "onboard_time": 1678102286,
       "rank": 9,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 50156,
-      "num": 23042,
-      "word": "北溪管道被炸是亲乌团体所为",
-      "onboard_time": 1678301771,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 45406,
