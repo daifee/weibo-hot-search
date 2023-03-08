@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678268061373,
+  "endTime": 1678270897282,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -329,6 +329,14 @@
       "onboard_time": 1678164868,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1495434,
+      "num": 1495434,
+      "word": "公司规定老板生理期全体放假3天",
+      "onboard_time": 1678266028,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1495333,
@@ -819,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 807984,
+      "num": 240944,
+      "word": "废文",
+      "onboard_time": 1678268548,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 789324,
       "num": 539467,
       "word": "老福特",
@@ -888,14 +904,6 @@
       "word": "建议三孩以上家庭公租房免费",
       "onboard_time": 1678205245,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 743534,
-      "num": 743534,
-      "word": "公司规定老板生理期全体放假3天",
-      "onboard_time": 1678266028,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1187,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 589088,
+      "num": 239377,
+      "word": "薛之谦 票",
+      "onboard_time": 1678268369,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 587828,
       "num": 587828,
       "word": "婚后不久丈夫瘫痪妻子照顾15年",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1678067484,
       "rank": 9,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 535585,
+      "num": 535585,
+      "word": "奇瑞回应要求员工周六上班",
+      "onboard_time": 1678266268,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 534702,
@@ -1539,6 +1563,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 497994,
+      "num": 263920,
+      "word": "楼上乱扔烟头男子阳台宠物鸡变烧鸡",
+      "onboard_time": 1678265909,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497354,
       "num": 274955,
       "word": "KAKAO宣布公开收购SMTOWN",
@@ -1553,6 +1585,14 @@
       "onboard_time": 1678245566,
       "rank": 30,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 495956,
+      "num": 495956,
+      "word": "大熊猫着急下班哐哐敲铁门",
+      "onboard_time": 1678265909,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 495159,
@@ -1627,6 +1667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 482441,
+      "num": 236511,
+      "word": "杨幂秦昊没有我的城备案",
+      "onboard_time": 1678269448,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 477588,
       "num": 321515,
       "word": "HYBE要求SM终止与Kakao合作",
@@ -1659,6 +1707,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 472269,
+      "num": 249980,
+      "word": "欧阳娜娜收到张大大小卡的反应",
+      "onboard_time": 1678267227,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 462372,
       "num": 462372,
       "word": "99年男生用家务机器人做保洁",
@@ -1689,14 +1745,6 @@
       "onboard_time": 1678261167,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 452502,
-      "num": 263920,
-      "word": "楼上乱扔烟头男子阳台宠物鸡变烧鸡",
-      "onboard_time": 1678265909,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 449091,
@@ -2371,14 +2419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331928,
-      "num": 249980,
-      "word": "欧阳娜娜收到张大大小卡的反应",
-      "onboard_time": 1678267227,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 330853,
       "num": 280251,
       "word": "易烊千玺短片演汽车人",
@@ -2417,6 +2457,14 @@
       "onboard_time": 1678203386,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 324795,
+      "num": 232325,
+      "word": "网传乘风破浪第四季改名乘风",
+      "onboard_time": 1678269928,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 324629,
@@ -2523,6 +2571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304992,
+      "num": 230700,
+      "word": "蜂花请关心丫丫的人理性消费",
+      "onboard_time": 1678270169,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304138,
       "num": 304138,
       "word": "花海从被保护到也能保护别人",
@@ -2537,14 +2593,6 @@
       "onboard_time": 1678187008,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 302278,
-      "num": 247444,
-      "word": "大熊猫着急下班哐哐敲铁门",
-      "onboard_time": 1678265909,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 302047,
@@ -2827,20 +2875,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251717,
+      "num": 251717,
+      "word": "我们好像都成为鼠鼠了",
+      "onboard_time": 1678263990,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251065,
       "num": 251065,
       "word": "广东选调",
       "onboard_time": 1678160247,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 250622,
-      "num": 250622,
-      "word": "我们好像都成为鼠鼠了",
-      "onboard_time": 1678263990,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 250516,
@@ -3057,14 +3105,6 @@
       "onboard_time": 1678180706,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 230558,
-      "num": 230558,
-      "word": "奇瑞回应要求员工周六上班",
-      "onboard_time": 1678266268,
-      "rank": 32,
-      "category": "科技"
     },
     {
       "raw_hot": 229791,
@@ -3827,6 +3867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193143,
+      "num": 193143,
+      "word": "AG疑似变更主教练",
+      "onboard_time": 1678268187,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193093,
       "num": 193093,
       "word": "爸爸带娃半年的变化",
@@ -4113,6 +4161,14 @@
       "onboard_time": 1678114288,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 176198,
+      "num": 153461,
+      "word": "北京动物园兽医饲养员下周抵美",
+      "onboard_time": 1678270588,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176034,
@@ -5849,6 +5905,14 @@
       "onboard_time": 1678258166,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75666,
+      "num": 75666,
+      "word": "狼队有话对她说",
+      "onboard_time": 1678269807,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 75018,

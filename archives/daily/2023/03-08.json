@@ -1,6 +1,6 @@
 {
   "startTime": 1678206448826,
-  "endTime": 1678268061373,
+  "endTime": 1678270897282,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -73,6 +73,14 @@
       "onboard_time": 1678231161,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1495434,
+      "num": 1495434,
+      "word": "公司规定老板生理期全体放假3天",
+      "onboard_time": 1678266028,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1430575,
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807984,
+      "num": 240944,
+      "word": "废文",
+      "onboard_time": 1678268548,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 789324,
       "num": 106611,
       "word": "老福特",
@@ -240,14 +256,6 @@
       "word": "建议三孩以上家庭公租房免费",
       "onboard_time": 1678205245,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 743534,
-      "num": 743534,
-      "word": "公司规定老板生理期全体放假3天",
-      "onboard_time": 1678266028,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -339,6 +347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 589088,
+      "num": 239377,
+      "word": "薛之谦 票",
+      "onboard_time": 1678268369,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 587828,
       "num": 587828,
       "word": "婚后不久丈夫瘫痪妻子照顾15年",
@@ -353,6 +369,14 @@
       "onboard_time": 1678247007,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535585,
+      "num": 535585,
+      "word": "奇瑞回应要求员工周六上班",
+      "onboard_time": 1678266268,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 534702,
@@ -403,6 +427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 497994,
+      "num": 263920,
+      "word": "楼上乱扔烟头男子阳台宠物鸡变烧鸡",
+      "onboard_time": 1678265909,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496499,
       "num": 442867,
       "word": "金赛纶酒驾被判罚2000万韩元",
@@ -411,20 +443,36 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 495956,
+      "num": 495956,
+      "word": "大熊猫着急下班哐哐敲铁门",
+      "onboard_time": 1678265909,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 482441,
+      "num": 236511,
+      "word": "杨幂秦昊没有我的城备案",
+      "onboard_time": 1678269448,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 472269,
+      "num": 249980,
+      "word": "欧阳娜娜收到张大大小卡的反应",
+      "onboard_time": 1678267227,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456122,
       "num": 263012,
       "word": "陆虎 亲吻展",
       "onboard_time": 1678261167,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 452502,
-      "num": 263920,
-      "word": "楼上乱扔烟头男子阳台宠物鸡变烧鸡",
-      "onboard_time": 1678265909,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 434360,
@@ -579,20 +627,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 331928,
-      "num": 249980,
-      "word": "欧阳娜娜收到张大大小卡的反应",
-      "onboard_time": 1678267227,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 326129,
       "num": 294001,
       "word": "贝儿自弹自唱",
       "onboard_time": 1678203386,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 324795,
+      "num": 232325,
+      "word": "网传乘风破浪第四季改名乘风",
+      "onboard_time": 1678269928,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 324629,
@@ -643,12 +691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302278,
-      "num": 247444,
-      "word": "大熊猫着急下班哐哐敲铁门",
-      "onboard_time": 1678265909,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 304992,
+      "num": 230700,
+      "word": "蜂花请关心丫丫的人理性消费",
+      "onboard_time": 1678270169,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300515,
@@ -755,8 +803,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250622,
-      "num": 250622,
+      "raw_hot": 251717,
+      "num": 251717,
       "word": "我们好像都成为鼠鼠了",
       "onboard_time": 1678263990,
       "rank": 38,
@@ -825,14 +873,6 @@
       "onboard_time": 1678264829,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230558,
-      "num": 230558,
-      "word": "奇瑞回应要求员工周六上班",
-      "onboard_time": 1678266268,
-      "rank": 32,
-      "category": "科技"
     },
     {
       "raw_hot": 228883,
@@ -1019,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193143,
+      "num": 193143,
+      "word": "AG疑似变更主教练",
+      "onboard_time": 1678268187,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188700,
       "num": 188700,
       "word": "非粉都觉得搞笑的程度",
@@ -1071,6 +1119,14 @@
       "num": 174585,
       "word": "广东河源地震致部分列车停运或晚点",
       "onboard_time": 1678253069,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176198,
+      "num": 153461,
+      "word": "北京动物园兽医饲养员下周抵美",
+      "onboard_time": 1678270588,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -1537,6 +1593,14 @@
       "onboard_time": 1678258166,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75666,
+      "num": 75666,
+      "word": "狼队有话对她说",
+      "onboard_time": 1678269807,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 74285,
