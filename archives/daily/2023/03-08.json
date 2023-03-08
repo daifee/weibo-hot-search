@@ -1,6 +1,6 @@
 {
   "startTime": 1678206448826,
-  "endTime": 1678249425436,
+  "endTime": 1678250379598,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1666500,
-      "num": 488825,
+      "num": 511871,
       "word": "主妇起诉离婚才知丈夫年薪300万",
       "onboard_time": 1678238066,
       "rank": 11,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1636650,
-      "num": 450329,
+      "num": 517314,
       "word": "张翰朴敏英两部7年未播剧流拍",
       "onboard_time": 1678244367,
       "rank": 30,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1566236,
-      "num": 465098,
+      "num": 474694,
       "word": "陪你多读书就黄多多读错字道歉",
       "onboard_time": 1678231161,
       "rank": 30,
@@ -67,12 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1148783,
+      "raw_hot": 1201053,
       "num": 310869,
       "word": "蔡徐坤曾发律师函状告B站",
       "onboard_time": 1678244607,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1118837,
+      "num": 1118837,
+      "word": "韩国取消对自中国入境人员核酸证明要求",
+      "onboard_time": 1678246526,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1085724,
@@ -92,19 +100,11 @@
     },
     {
       "raw_hot": 1021993,
-      "num": 448325,
+      "num": 504932,
       "word": "张大大是真的在帮网友要to签",
       "onboard_time": 1678243707,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1010610,
-      "num": 1010610,
-      "word": "韩国取消对自中国入境人员核酸证明要求",
-      "onboard_time": 1678246526,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 848531,
@@ -163,8 +163,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719195,
+      "num": 505203,
+      "word": "萝莉酱 王记得",
+      "onboard_time": 1678249951,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 673418,
-      "num": 525429,
+      "num": 526806,
       "word": "范丞丞为贴近角色增肥30斤",
       "onboard_time": 1678245329,
       "rank": 16,
@@ -192,6 +200,14 @@
       "word": "缉毒警嫂的电话只敢响铃5秒钟",
       "onboard_time": 1678195768,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 587828,
+      "num": 587828,
+      "word": "婚后不久丈夫瘫痪妻子照顾15年",
+      "onboard_time": 1678246948,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -251,16 +267,8 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 454207,
-      "num": 454207,
-      "word": "婚后不久丈夫瘫痪妻子照顾15年",
-      "onboard_time": 1678246948,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 434360,
-      "num": 434360,
+      "num": 518830,
       "word": "天才星座水瓶座",
       "onboard_time": 1678247488,
       "rank": 15,
@@ -281,6 +289,14 @@
       "onboard_time": 1678243408,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 401817,
+      "num": 401817,
+      "word": "张小斐张嘉倪双人视频",
+      "onboard_time": 1678247787,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 396160,
@@ -337,14 +353,6 @@
       "onboard_time": 1678232965,
       "rank": 8,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 324502,
-      "num": 324502,
-      "word": "张小斐张嘉倪双人视频",
-      "onboard_time": 1678247787,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 322081,
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253151,
+      "num": 253151,
+      "word": "妇女节放假",
+      "onboard_time": 1678246829,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249622,
       "num": 249622,
       "word": "查询陆虎张远王栎鑫精神状态",
@@ -473,14 +489,6 @@
       "onboard_time": 1678244008,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236854,
-      "num": 236854,
-      "word": "妇女节放假",
-      "onboard_time": 1678246829,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236606,
@@ -547,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203086,
+      "num": 203086,
+      "word": "张艺兴弹琴",
+      "onboard_time": 1678249710,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202745,
       "num": 202745,
       "word": "妇女不是贬义词",
@@ -587,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200057,
+      "num": 200057,
+      "word": "夜昙为青葵报仇",
+      "onboard_time": 1678246169,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198289,
       "num": 198289,
       "word": "广东地震",
@@ -620,19 +644,19 @@
     },
     {
       "raw_hot": 188341,
-      "num": 1042970,
+      "num": 1135913,
       "word": "今天妇女节",
       "onboard_time": 1678244847,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185147,
-      "num": 185147,
-      "word": "夜昙为青葵报仇",
-      "onboard_time": 1678246169,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 181509,
+      "num": 181509,
+      "word": "加索尔球衣退役仪式",
+      "onboard_time": 1678249169,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 175540,
@@ -649,6 +673,14 @@
       "onboard_time": 1678203149,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 170530,
+      "num": 170530,
+      "word": "湖北东风系多品牌巨幅降价调查",
+      "onboard_time": 1678248448,
+      "rank": 40,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 167326,
@@ -737,22 +769,6 @@
       "onboard_time": 1678231402,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 145392,
-      "num": 145392,
-      "word": "湖北东风系多品牌巨幅降价调查",
-      "onboard_time": 1678248448,
-      "rank": 40,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 142765,
-      "num": 142765,
-      "word": "加索尔球衣退役仪式",
-      "onboard_time": 1678249169,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 140944,
@@ -851,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114684,
+      "num": 114684,
+      "word": "雷霆战胜勇士",
+      "onboard_time": 1678249890,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110618,
       "num": 296500,
       "word": "郁金香",
@@ -937,6 +961,14 @@
       "onboard_time": 1678192948,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92437,
+      "num": 92437,
+      "word": "24岁高颜值女孩回应大学毕业养猪",
+      "onboard_time": 1678250371,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88136,
