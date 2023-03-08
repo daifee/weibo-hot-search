@@ -1,6 +1,6 @@
 {
   "startTime": 1678206448826,
-  "endTime": 1678271876754,
+  "endTime": 1678274189705,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -33,6 +33,14 @@
       "onboard_time": 1678262668,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1873777,
+      "num": 295187,
+      "word": "王子文 现在没有恋人",
+      "onboard_time": 1678271066,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1672015,
@@ -89,14 +97,6 @@
       "onboard_time": 1678230741,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1302391,
-      "num": 295187,
-      "word": "王子文 现在没有恋人",
-      "onboard_time": 1678271066,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1270781,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 691112,
+      "num": 285938,
+      "word": "蜂花请关心丫丫的人理性消费",
+      "onboard_time": 1678270169,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679513,
       "num": 272261,
       "word": "赖冠霖参加北电四试",
@@ -379,20 +387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 546890,
-      "num": 285938,
-      "word": "蜂花请关心丫丫的人理性消费",
-      "onboard_time": 1678270169,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 535585,
       "num": 535585,
       "word": "奇瑞回应要求员工周六上班",
       "onboard_time": 1678266268,
       "rank": 32,
       "category": "科技"
+    },
+    {
+      "raw_hot": 534893,
+      "num": 534893,
+      "word": "北京动物园兽医饲养员下周抵美",
+      "onboard_time": 1678270588,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534702,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 482441,
-      "num": 279598,
+      "num": 296535,
       "word": "杨幂秦昊没有我的城备案",
       "onboard_time": 1678269448,
       "rank": 15,
@@ -867,6 +875,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233725,
+      "num": 233725,
+      "word": "宋茜用发圈扎T恤",
+      "onboard_time": 1678273945,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232801,
+      "num": 232801,
+      "word": "半熟恋人",
+      "onboard_time": 1678272088,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231689,
       "num": 231689,
       "word": "星落凝成糖撞脸文学",
@@ -889,14 +913,6 @@
       "onboard_time": 1678238006,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227635,
-      "num": 227635,
-      "word": "北京动物园兽医饲养员下周抵美",
-      "onboard_time": 1678270588,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223662,
@@ -1083,6 +1099,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190720,
+      "num": 190720,
+      "word": "重紫",
+      "onboard_time": 1678273107,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190592,
+      "num": 190592,
+      "word": "白艺潾Wendy合作曲",
+      "onboard_time": 1678272507,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 190318,
+      "num": 190318,
+      "word": "朱珠爱情观",
+      "onboard_time": 1678272507,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188705,
       "num": 188705,
       "word": "华晨宇新歌MV像修行的散文诗",
@@ -1195,6 +1235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 160595,
+      "num": 160595,
+      "word": "听说你喜欢我上星播出",
+      "onboard_time": 1678273048,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159605,
       "num": 159605,
       "word": "致敬所有的独立妇女",
@@ -1227,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152929,
+      "num": 152929,
+      "word": "这包怎么长猫了",
+      "onboard_time": 1678272688,
+      "rank": 27,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 151701,
       "num": 297290,
       "word": "国家线再涨就不礼貌了",
@@ -1243,12 +1299,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 151366,
+      "num": 151366,
+      "word": "你会因为大额补贴购买指定车型吗",
+      "onboard_time": 1678272868,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151196,
       "num": 151196,
       "word": "蔡卓妍钟欣潼巴黎同框",
       "onboard_time": 1678234287,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 148922,
+      "num": 148922,
+      "word": "何宣林2分钟台词自白",
+      "onboard_time": 1678272627,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 147969,
@@ -1393,6 +1465,14 @@
       "onboard_time": 1678257205,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126576,
+      "num": 126576,
+      "word": "全员美人的影视剧",
+      "onboard_time": 1678271428,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 125842,
@@ -1595,11 +1675,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79316,
-      "num": 79316,
-      "word": "全员美人的影视剧",
-      "onboard_time": 1678271428,
-      "rank": 47,
+      "raw_hot": 81780,
+      "num": 81780,
+      "word": "重紫没有等到洛音凡",
+      "onboard_time": 1678273767,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -1729,6 +1809,14 @@
       "onboard_time": 1678193847,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 55602,
+      "num": 109431,
+      "word": "做自己不止今天",
+      "onboard_time": 1678273227,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 54762,

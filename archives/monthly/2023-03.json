@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678271876754,
+  "endTime": 1678274189705,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -369,6 +369,14 @@
       "onboard_time": 1678262668,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1873777,
+      "num": 295187,
+      "word": "王子文 现在没有恋人",
+      "onboard_time": 1678271066,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1862826,
@@ -937,14 +945,6 @@
       "onboard_time": 1677595534,
       "rank": 5,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1302391,
-      "num": 295187,
-      "word": "王子文 现在没有恋人",
-      "onboard_time": 1678271066,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1300561,
@@ -2843,6 +2843,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 691112,
+      "num": 285938,
+      "word": "蜂花请关心丫丫的人理性消费",
+      "onboard_time": 1678270169,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690993,
       "num": 690993,
       "word": "iPhone16Pro有望采用屏下FaceID",
@@ -3979,14 +3987,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 546890,
-      "num": 285938,
-      "word": "蜂花请关心丫丫的人理性消费",
-      "onboard_time": 1678270169,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 546661,
       "num": 546661,
       "word": "U20国足7分钟连进2球",
@@ -4089,6 +4089,14 @@
       "onboard_time": 1678266268,
       "rank": 32,
       "category": "科技"
+    },
+    {
+      "raw_hot": 534893,
+      "num": 534893,
+      "word": "北京动物园兽医饲养员下周抵美",
+      "onboard_time": 1678270588,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534702,
@@ -4772,7 +4780,7 @@
     },
     {
       "raw_hot": 482441,
-      "num": 279598,
+      "num": 296535,
       "word": "杨幂秦昊没有我的城备案",
       "onboard_time": 1678269448,
       "rank": 15,
@@ -9099,6 +9107,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 233725,
+      "num": 233725,
+      "word": "宋茜用发圈扎T恤",
+      "onboard_time": 1678273945,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232801,
+      "num": 232801,
+      "word": "半熟恋人",
+      "onboard_time": 1678272088,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232394,
       "num": 232394,
       "word": "苏醒新歌不要劝我放下",
@@ -9241,14 +9265,6 @@
       "onboard_time": 1678076789,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 227635,
-      "num": 227635,
-      "word": "北京动物园兽医饲养员下周抵美",
-      "onboard_time": 1678270588,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227414,
@@ -11267,6 +11283,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 190592,
+      "num": 190592,
+      "word": "白艺潾Wendy合作曲",
+      "onboard_time": 1678272507,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190558,
       "num": 190558,
       "word": "杨紫范丞丞199爱路透",
@@ -11281,6 +11305,14 @@
       "onboard_time": 1677682469,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190318,
+      "num": 190318,
+      "word": "朱珠爱情观",
+      "onboard_time": 1678272507,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 190193,
@@ -12491,6 +12523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160595,
+      "num": 160595,
+      "word": "听说你喜欢我上星播出",
+      "onboard_time": 1678273048,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160441,
       "num": 160441,
       "word": "快船五连败",
@@ -12771,6 +12811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152929,
+      "num": 152929,
+      "word": "这包怎么长猫了",
+      "onboard_time": 1678272688,
+      "rank": 27,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 152819,
       "num": 182257,
       "word": "这羊长得好像素描出来的",
@@ -12816,6 +12864,14 @@
       "word": "职场上不喜欢社交该怎么办",
       "onboard_time": 1678179148,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151366,
+      "num": 151366,
+      "word": "你会因为大额补贴购买指定车型吗",
+      "onboard_time": 1678272868,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -12945,6 +13001,14 @@
       "onboard_time": 1677984023,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148922,
+      "num": 148922,
+      "word": "何宣林2分钟台词自白",
+      "onboard_time": 1678272627,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 148827,
@@ -13977,6 +14041,14 @@
       "onboard_time": 1678257205,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126576,
+      "num": 126576,
+      "word": "全员美人的影视剧",
+      "onboard_time": 1678271428,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 126300,
@@ -15779,6 +15851,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 81780,
+      "num": 81780,
+      "word": "重紫没有等到洛音凡",
+      "onboard_time": 1678273767,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 81170,
       "num": 81170,
       "word": "有效防范化解重大经济金融风险",
@@ -15849,14 +15929,6 @@
       "onboard_time": 1677993806,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 79316,
-      "num": 79316,
-      "word": "全员美人的影视剧",
-      "onboard_time": 1678271428,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 78129,
@@ -16209,6 +16281,14 @@
       "onboard_time": 1678003346,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55602,
+      "num": 109431,
+      "word": "做自己不止今天",
+      "onboard_time": 1678273227,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 54821,
