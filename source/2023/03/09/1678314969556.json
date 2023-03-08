@@ -1,0 +1,410 @@
+{
+  "runTime": 1678314969556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 251367,
+        "num": 251367,
+        "word": "北溪管道被炸是亲乌团体所为",
+        "onboard_time": 1678301771,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 132719,
+        "num": 132719,
+        "word": "高三老师被安排同学生一起考试",
+        "onboard_time": 1678279109,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 3471,
+        "num": 101687,
+        "word": "两高报告十大关键词",
+        "onboard_time": 1678235129,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 195594,
+        "num": 95849,
+        "word": "迪士尼游客站着看烟花秀遭后排辱骂",
+        "onboard_time": 1678293201,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86548,
+        "num": 86548,
+        "word": "广东处于地震活动相对活跃的时段",
+        "onboard_time": 1678293559,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56053,
+        "num": 56053,
+        "word": "莫兰德",
+        "onboard_time": 1678287031,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51688,
+        "num": 51688,
+        "word": "为何iPhone14不如13卖的好",
+        "onboard_time": 1678263927,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 44554,
+        "num": 44554,
+        "word": "超导",
+        "onboard_time": 1678274547,
+        "rank": 7,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 42568,
+        "num": 42568,
+        "word": "微软WP系统还能正常使用吗",
+        "onboard_time": 1678290567,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 37122,
+        "num": 37122,
+        "word": "妇女节 不是女生节不是女神节",
+        "onboard_time": 1678238605,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208984,
+        "num": 37121,
+        "word": "黎姿首次正面回应退圈原因",
+        "onboard_time": 1678276408,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156371,
+        "num": 36970,
+        "word": "在整个直播界都相当炸裂",
+        "onboard_time": 1678286070,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147612,
+        "num": 36930,
+        "word": "王子文 现在没有恋人",
+        "onboard_time": 1678271066,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82600,
+        "num": 36830,
+        "word": "张颂文向张纪中道歉",
+        "onboard_time": 1678263448,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69253,
+        "num": 36729,
+        "word": "楼上乱扔烟头男子阳台宠物鸡变烧鸡",
+        "onboard_time": 1678265909,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67856,
+        "num": 36686,
+        "word": "中方已完成所有丫丫回国审批事项",
+        "onboard_time": 1678275566,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61021,
+        "num": 36572,
+        "word": "中国承办奥运排球资格赛",
+        "onboard_time": 1678294698,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53923,
+        "num": 36511,
+        "word": "靖佩瑶吕妍结婚",
+        "onboard_time": 1678279049,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47915,
+        "num": 36454,
+        "word": "黄奕回应第一次演姐弟恋",
+        "onboard_time": 1678287330,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45358,
+        "num": 36377,
+        "word": "刘宇宁直播",
+        "onboard_time": 1678288049,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164613,
+        "num": 36302,
+        "word": "年薪41万董秘自掏4亿买公司股份",
+        "onboard_time": 1678284870,
+        "rank": 20,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 83837,
+        "num": 36219,
+        "word": "青你选手徐炳超卖包子",
+        "onboard_time": 1678282348,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57918,
+        "num": 36076,
+        "word": "农民工大哥火车上用盆炫10袋泡面",
+        "onboard_time": 1678280068,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57490,
+        "num": 36039,
+        "word": "公司请外国男模给女员工送花过节",
+        "onboard_time": 1678283068,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56163,
+        "num": 35946,
+        "word": "视障女孩走盲道被突出景观造型撞到",
+        "onboard_time": 1678304471,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35892,
+        "num": 35892,
+        "word": "突然坐着发呆的原因",
+        "onboard_time": 1678286671,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34507,
+        "num": 34507,
+        "word": "郑晓龙评价白敬亭",
+        "onboard_time": 1678283007,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31082,
+        "num": 31082,
+        "word": "网剧婚事定档",
+        "onboard_time": 1678297035,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29852,
+        "num": 29852,
+        "word": "南太铉酒驾被立案",
+        "onboard_time": 1678278327,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29218,
+        "num": 29218,
+        "word": "宋茜用发圈扎T恤",
+        "onboard_time": 1678273945,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28223,
+        "num": 28223,
+        "word": "那英毛阿敏再同台",
+        "onboard_time": 1678283368,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27408,
+        "num": 27408,
+        "word": "谷建芬87了",
+        "onboard_time": 1678282769,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27394,
+        "num": 27394,
+        "word": "萧寒何冉壁咚吻花絮",
+        "onboard_time": 1678287330,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27350,
+        "num": 27350,
+        "word": "成毅英雄志吊威亚路透",
+        "onboard_time": 1678300932,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26826,
+        "num": 26826,
+        "word": "孙颖莎谈心理健康",
+        "onboard_time": 1678288648,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25679,
+        "num": 25679,
+        "word": "保你平安",
+        "onboard_time": 1678285231,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25526,
+        "num": 25526,
+        "word": "李玟手术完成vlog",
+        "onboard_time": 1678274426,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24894,
+        "num": 24894,
+        "word": "制片人谈重紫选角",
+        "onboard_time": 1678289849,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24057,
+        "num": 24057,
+        "word": "赵继伟说主场打球太舒服了",
+        "onboard_time": 1678288289,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23940,
+        "num": 23940,
+        "word": "星落凝成糖",
+        "onboard_time": 1678279529,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23179,
+        "num": 23932,
+        "word": "刘若英再唱后来",
+        "onboard_time": 1678283309,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21237,
+        "num": 23930,
+        "word": "流浪地球2俄罗斯定档",
+        "onboard_time": 1678287987,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19600,
+        "num": 23920,
+        "word": "刘柏辛Minnie同框",
+        "onboard_time": 1678277008,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 17246,
+        "num": 23914,
+        "word": "柯南剧场版人物关系图",
+        "onboard_time": 1678278748,
+        "rank": 43,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 17238,
+        "num": 23904,
+        "word": "无畏炸裂转场",
+        "onboard_time": 1678292063,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17172,
+        "num": 23901,
+        "word": "田曦薇将进组",
+        "onboard_time": 1678279167,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15020,
+        "num": 23891,
+        "word": "恭喜WE",
+        "onboard_time": 1678281568,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14579,
+        "num": 23883,
+        "word": "TWICE新专预告",
+        "onboard_time": 1678289968,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13124,
+        "num": 23879,
+        "word": "2023年德国羽毛球公开赛",
+        "onboard_time": 1678300453,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10650,
+        "num": 23869,
+        "word": "徐枫灿见到刘洋秒变小迷妹",
+        "onboard_time": 1678296675,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#两会里的春天#"
+    }
+  }
+}

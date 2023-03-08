@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678313950352,
+  "endTime": 1678314969556,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -3155,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251367,
+      "num": 251367,
+      "word": "北溪管道被炸是亲乌团体所为",
+      "onboard_time": 1678301771,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 251065,
       "num": 251065,
       "word": "广东选调",
@@ -4561,14 +4569,6 @@
       "onboard_time": 1678082966,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179324,
-      "num": 179324,
-      "word": "北溪管道被炸是亲乌团体所为",
-      "onboard_time": 1678301771,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 177348,
@@ -6667,6 +6667,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 56163,
+      "num": 35946,
+      "word": "视障女孩走盲道被突出景观造型撞到",
+      "onboard_time": 1678304471,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56067,
       "num": 388864,
       "word": "旅游选网红打卡地还是小众景点",
@@ -6739,14 +6747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 39024,
-      "num": 34024,
-      "word": "视障女孩走盲道被突出景观造型撞到",
-      "onboard_time": 1678304471,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33120,
       "num": 33120,
       "word": "杨紫琼张天爱同框照",
@@ -6755,20 +6755,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31082,
+      "num": 34035,
+      "word": "网剧婚事定档",
+      "onboard_time": 1678297035,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 31078,
       "num": 102413,
       "word": "那些年的时髦单品",
       "onboard_time": 1678262427,
       "rank": 39,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 30365,
-      "num": 34035,
-      "word": "网剧婚事定档",
-      "onboard_time": 1678297035,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 29807,
@@ -6795,20 +6795,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27350,
+      "num": 27350,
+      "word": "成毅英雄志吊威亚路透",
+      "onboard_time": 1678300932,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 25802,
       "num": 471613,
       "word": "开局之年的新机遇新挑战",
       "onboard_time": 1678089387,
       "rank": 9,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 22059,
-      "num": 22059,
-      "word": "成毅英雄志吊威亚路透",
-      "onboard_time": 1678300932,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 20323,
@@ -6836,7 +6836,7 @@
     },
     {
       "raw_hot": 16984,
-      "num": 19697,
+      "num": 23879,
       "word": "2023年德国羽毛球公开赛",
       "onboard_time": 1678300453,
       "rank": 47,
