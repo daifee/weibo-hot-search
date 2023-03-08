@@ -1,0 +1,410 @@
+{
+  "runTime": 1678268061373,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 940979,
+        "num": 940979,
+        "word": "瓦妮莎",
+        "onboard_time": 1678260445,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 747891,
+        "num": 747891,
+        "word": "妇女节 不是女生节不是女神节",
+        "onboard_time": 1678238605,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80905,
+        "num": 745181,
+        "word": "中国女性的互联网之路",
+        "onboard_time": 1678261346,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070417,
+        "num": 744742,
+        "word": "好欢螺回应妇女节争议文案",
+        "onboard_time": 1678266086,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743534,
+        "num": 743534,
+        "word": "公司规定老板生理期全体放假3天",
+        "onboard_time": 1678266028,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505211,
+        "num": 505211,
+        "word": "为何iPhone14不如13卖的好",
+        "onboard_time": 1678263927,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 352555,
+        "num": 352555,
+        "word": "TVB淘宝首播带货2350万",
+        "onboard_time": 1678262547,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 334662,
+        "num": 334662,
+        "word": "骆歆 管泽元",
+        "onboard_time": 1678244488,
+        "rank": 7,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 293878,
+        "num": 293878,
+        "word": "高校推出一人一桶洗衣机",
+        "onboard_time": 1678258886,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 250622,
+        "num": 250622,
+        "word": "我们好像都成为鼠鼠了",
+        "onboard_time": 1678263990,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1704817,
+        "num": 250593,
+        "word": "好欢螺",
+        "onboard_time": 1678262668,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1596232,
+        "num": 250364,
+        "word": "张颂文向张纪中道歉",
+        "onboard_time": 1678263448,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1270781,
+        "num": 250309,
+        "word": "蜂花回应要认养大熊猫丫丫",
+        "onboard_time": 1678266747,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452502,
+        "num": 250088,
+        "word": "楼上乱扔烟头男子阳台宠物鸡变烧鸡",
+        "onboard_time": 1678265909,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331928,
+        "num": 249980,
+        "word": "欧阳娜娜收到张大大小卡的反应",
+        "onboard_time": 1678267227,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249866,
+        "num": 249866,
+        "word": "韩国取消对自中国入境人员核酸证明要求",
+        "onboard_time": 1678246526,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302278,
+        "num": 247444,
+        "word": "大熊猫着急下班哐哐敲铁门",
+        "onboard_time": 1678265909,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265283,
+        "num": 245477,
+        "word": "刘亦菲周冬雨同框自拍照",
+        "onboard_time": 1678261886,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243151,
+        "num": 243151,
+        "word": "陆虎 亲吻展",
+        "onboard_time": 1678261167,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232070,
+        "num": 232070,
+        "word": "建议幼儿园入园年龄低龄化",
+        "onboard_time": 1678254445,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230558,
+        "num": 230558,
+        "word": "奇瑞回应要求员工周六上班",
+        "onboard_time": 1678266268,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 223658,
+        "num": 223658,
+        "word": "王一博包场大鹏新电影",
+        "onboard_time": 1678263387,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207831,
+        "num": 207831,
+        "word": "赖冠霖参加北电四试",
+        "onboard_time": 1678259485,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201179,
+        "num": 201179,
+        "word": "向太说前路并非坦途一起加油",
+        "onboard_time": 1678264829,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197171,
+        "num": 197171,
+        "word": "高叶活得好通透",
+        "onboard_time": 1678266386,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194135,
+        "num": 194135,
+        "word": "蔡徐坤曾发律师函状告B站",
+        "onboard_time": 1678244607,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193509,
+        "num": 193509,
+        "word": "三八妇女节放假半天",
+        "onboard_time": 1678254685,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181202,
+        "num": 181202,
+        "word": "女性可以成为任何她想成为的样子",
+        "onboard_time": 1678267947,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175439,
+        "num": 175439,
+        "word": "银河护卫队3确认引进",
+        "onboard_time": 1678263087,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167553,
+        "num": 167553,
+        "word": "狂铁品质升级",
+        "onboard_time": 1678264527,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166873,
+        "num": 166873,
+        "word": "萝莉酱 王记得",
+        "onboard_time": 1678249951,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161475,
+        "num": 161475,
+        "word": "曲阜师范女大学生考研前期确诊血癌",
+        "onboard_time": 1678247007,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154019,
+        "num": 154019,
+        "word": "主妇起诉离婚才知丈夫年薪300万",
+        "onboard_time": 1678238066,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148602,
+        "num": 148602,
+        "word": "赵露思王安宇牵手路透",
+        "onboard_time": 1678254628,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147480,
+        "num": 147480,
+        "word": "狂铁终于长高了",
+        "onboard_time": 1678266687,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142935,
+        "num": 142935,
+        "word": "广东河源再次发生地震",
+        "onboard_time": 1678260326,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 138670,
+        "num": 138670,
+        "word": "LPL十大选手投票",
+        "onboard_time": 1678257505,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137329,
+        "num": 137329,
+        "word": "湖人全场高喊科比",
+        "onboard_time": 1678253728,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134222,
+        "num": 134222,
+        "word": "呼和浩特体育中心设女性专用泳道",
+        "onboard_time": 1678263867,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20323,
+        "num": 132692,
+        "word": "她们的力量自己定义",
+        "onboard_time": 1678266028,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132433,
+        "num": 132433,
+        "word": "天才星座水瓶座",
+        "onboard_time": 1678247488,
+        "rank": 40,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 120058,
+        "num": 120058,
+        "word": "欢乐颂4群像海报",
+        "onboard_time": 1678258705,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115048,
+        "num": 115048,
+        "word": "张翰朴敏英两部7年未播剧流拍",
+        "onboard_time": 1678244367,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106387,
+        "num": 106387,
+        "word": "向熊猫福菀泼水3游客身份未确定",
+        "onboard_time": 1678244847,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105946,
+        "num": 105946,
+        "word": "上金所回应澳铸币厂出售掺杂金条",
+        "onboard_time": 1678258465,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 105634,
+        "num": 105634,
+        "word": "爱奇艺3月片单",
+        "onboard_time": 1678253784,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96042,
+        "num": 96042,
+        "word": "范丞丞为贴近角色增肥30斤",
+        "onboard_time": 1678245329,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92889,
+        "num": 92889,
+        "word": "这居然是个鱼缸",
+        "onboard_time": 1678263448,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85297,
+        "num": 85297,
+        "word": "女子花三个月在公司为宠物置办豪宅",
+        "onboard_time": 1678255468,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84625,
+        "num": 84625,
+        "word": "建议实现适龄女性免费HPV疫苗接种",
+        "onboard_time": 1678253007,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#高质量发展是全面建设社会主义现代化国家的首要任务#"
+    }
+  }
+}
