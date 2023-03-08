@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678279065607,
+  "endTime": 1678280204472,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 1061423,
-      "num": 200275,
+      "num": 238274,
       "word": "黎姿首次正面回应退圈原因",
       "onboard_time": 1678276408,
       "rank": 11,
@@ -617,6 +617,14 @@
       "onboard_time": 1678076789,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1044557,
+      "num": 1044557,
+      "word": "认养大熊猫1年10万终身100万",
+      "onboard_time": 1678276587,
+      "rank": 3,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1043048,
@@ -700,19 +708,11 @@
     },
     {
       "raw_hot": 946555,
-      "num": 220970,
+      "num": 230647,
       "word": "辛巴",
       "onboard_time": 1678274846,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 929406,
-      "num": 929406,
-      "word": "认养大熊猫1年10万终身100万",
-      "onboard_time": 1678276587,
-      "rank": 3,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 928704,
@@ -1041,6 +1041,14 @@
       "onboard_time": 1678105049,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 682404,
+      "num": 236450,
+      "word": "靖佩瑶吕妍结婚",
+      "onboard_time": 1678279049,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 681409,
@@ -1899,6 +1907,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 431187,
+      "num": 234884,
+      "word": "南太铉酒驾被立案",
+      "onboard_time": 1678278327,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428028,
       "num": 428028,
       "word": "虞书欣张凌赫新剧拥抱路透",
@@ -2355,14 +2371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 351004,
-      "num": 195268,
-      "word": "南太铉酒驾被立案",
-      "onboard_time": 1678278327,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 350548,
       "num": 279644,
       "word": "女子送锦旗感谢民警找回30万却被抓",
@@ -2409,6 +2417,14 @@
       "onboard_time": 1678109547,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 348593,
+      "num": 348593,
+      "word": "丫丫回国后将和熊猫萌兰做邻居",
+      "onboard_time": 1678278629,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347841,
@@ -2916,7 +2932,7 @@
     },
     {
       "raw_hot": 264585,
-      "num": 191937,
+      "num": 205819,
       "word": "刘柏辛Minnie同框",
       "onboard_time": 1678277008,
       "rank": 20,
@@ -3059,6 +3075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243732,
+      "num": 231516,
+      "word": "田曦薇将进组",
+      "onboard_time": 1678279167,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 243494,
       "num": 243494,
       "word": "值得爆红的姐",
@@ -3097,6 +3121,14 @@
       "onboard_time": 1678163608,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239800,
+      "num": 239800,
+      "word": "超导",
+      "onboard_time": 1678274547,
+      "rank": 35,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 239175,
@@ -3187,14 +3219,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231303,
-      "num": 231303,
-      "word": "超导",
-      "onboard_time": 1678274547,
-      "rank": 35,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 230828,
       "num": 230828,
       "word": "向太说前路并非坦途一起加油",
@@ -3243,20 +3267,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 225432,
-      "num": 191306,
-      "word": "靖佩瑶吕妍结婚",
-      "onboard_time": 1678279049,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223873,
       "num": 223873,
       "word": "大侦探第七案侦探是吴昕",
       "onboard_time": 1678184190,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223839,
+      "num": 223839,
+      "word": "高三老师被安排同学生一起考试",
+      "onboard_time": 1678279109,
+      "rank": 22,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 223662,
@@ -3576,6 +3600,14 @@
       "word": "神隐惊蛰海报",
       "onboard_time": 1678071986,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205243,
+      "num": 205243,
+      "word": "星落凝成糖",
+      "onboard_time": 1678279529,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -4547,6 +4579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162904,
+      "num": 162904,
+      "word": "西安市发布流感应急预案",
+      "onboard_time": 1678279348,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162523,
       "num": 162523,
       "word": "刘雯2023秋冬时装周走秀记录",
@@ -4705,6 +4745,14 @@
       "onboard_time": 1678086507,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152739,
+      "num": 152739,
+      "word": "柯南剧场版人物关系图",
+      "onboard_time": 1678278748,
+      "rank": 36,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 152408,
@@ -5081,6 +5129,14 @@
       "onboard_time": 1678008326,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127652,
+      "num": 127652,
+      "word": "加快把我军建成世界一流军队",
+      "onboard_time": 1678277668,
+      "rank": 37,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 127430,
@@ -5475,14 +5531,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 112432,
-      "num": 112432,
-      "word": "柯南剧场版人物关系图",
-      "onboard_time": 1678278748,
-      "rank": 36,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 111783,
       "num": 111783,
       "word": "支持见义勇为坚决反对和稀泥",
@@ -5723,14 +5771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103700,
-      "num": 103700,
-      "word": "加快把我军建成世界一流军队",
-      "onboard_time": 1678277668,
-      "rank": 37,
-      "category": "国内要闻,军事"
-    },
-    {
       "raw_hot": 103466,
       "num": 103466,
       "word": "Leave获周最佳新秀",
@@ -5833,14 +5873,6 @@
       "onboard_time": 1678193967,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98627,
-      "num": 98627,
-      "word": "丫丫回国后将和熊猫萌兰做邻居",
-      "onboard_time": 1678278629,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98232,
@@ -6163,6 +6195,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 74761,
+      "num": 74761,
+      "word": "农民工大哥火车上用盆炫10袋泡面",
+      "onboard_time": 1678280068,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73916,
       "num": 73916,
       "word": "小朋友用纸片做了个海洋馆",
@@ -6193,6 +6233,14 @@
       "onboard_time": 1678220351,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71742,
+      "num": 71742,
+      "word": "你的遗憾变成猫咪的幸运",
+      "onboard_time": 1678280128,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 70368,
@@ -6387,6 +6435,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 29807,
+      "num": 235698,
+      "word": "刻在DNA里的旋律动了",
+      "onboard_time": 1678276831,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 28887,
       "num": 28887,
       "word": "宋祖儿和小朋友跳舞",
@@ -6409,14 +6465,6 @@
       "onboard_time": 1678089387,
       "rank": 9,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 21978,
-      "num": 197651,
-      "word": "刻在DNA里的旋律动了",
-      "onboard_time": 1678276831,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 20323,
