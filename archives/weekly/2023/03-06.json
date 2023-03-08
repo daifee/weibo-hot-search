@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678244105309,
+  "endTime": 1678244695037,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -499,6 +499,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1021262,
+      "num": 448325,
+      "word": "张大大是真的在帮网友要to签",
+      "onboard_time": 1678243707,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1017126,
       "num": 315526,
       "word": "苗苗妹妹客串郑恺新电影",
@@ -979,14 +987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 592254,
-      "num": 448325,
-      "word": "张大大是真的在帮网友要to签",
-      "onboard_time": 1678243707,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 585416,
       "num": 317047,
       "word": "荣耀Magic5系列发布会",
@@ -1209,6 +1209,14 @@
       "onboard_time": 1678187428,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 520849,
+      "num": 161709,
+      "word": "张翰朴敏英两部7年未播剧流拍",
+      "onboard_time": 1678244367,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 520707,
@@ -1603,6 +1611,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405222,
+      "num": 405222,
+      "word": "是女儿是妻子是妈妈 更是自己",
+      "onboard_time": 1678243408,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 404072,
+      "num": 404072,
+      "word": "骆歆 管泽元",
+      "onboard_time": 1678244488,
+      "rank": 16,
+      "category": "网红,游戏"
+    },
+    {
       "raw_hot": 400461,
       "num": 336504,
       "word": "猪妈妈身上是有些暴脾气的",
@@ -1835,6 +1859,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 362301,
+      "num": 362301,
+      "word": "妇女节上班算加班吗",
+      "onboard_time": 1678243528,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 361118,
       "num": 278027,
       "word": "委员说国家统一是大势所趋",
@@ -1945,6 +1977,14 @@
       "onboard_time": 1678069166,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344516,
+      "num": 265115,
+      "word": "蔡徐坤曾发律师函状告B站",
+      "onboard_time": 1678244607,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 342833,
@@ -2635,14 +2675,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 225230,
-      "num": 225230,
-      "word": "是女儿是妻子是妈妈 更是自己",
-      "onboard_time": 1678243408,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 223873,
       "num": 223873,
       "word": "大侦探第七案侦探是吴昕",
@@ -2913,14 +2945,6 @@
       "onboard_time": 1678061126,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 204959,
-      "num": 204959,
-      "word": "妇女节上班算加班吗",
-      "onboard_time": 1678243528,
-      "rank": 22,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 204847,
@@ -3267,6 +3291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193360,
+      "num": 193360,
+      "word": "值得爆红的姐",
+      "onboard_time": 1678244008,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193093,
       "num": 193093,
       "word": "爸爸带娃半年的变化",
@@ -3433,6 +3465,14 @@
       "onboard_time": 1678017628,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183384,
+      "num": 183384,
+      "word": "委员送外卖后给外卖小哥买千份外卖",
+      "onboard_time": 1678244249,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182219,
@@ -3644,7 +3684,7 @@
     },
     {
       "raw_hot": 167326,
-      "num": 167326,
+      "num": 404242,
       "word": "女性理想职场环境是什么",
       "onboard_time": 1678239687,
       "rank": 35,
@@ -3697,6 +3737,14 @@
       "onboard_time": 1678093407,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162523,
+      "num": 162523,
+      "word": "刘雯2023秋冬时装周走秀记录",
+      "onboard_time": 1678240405,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 162090,
@@ -3779,14 +3827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157531,
-      "num": 157531,
-      "word": "刘雯2023秋冬时装周走秀记录",
-      "onboard_time": 1678240405,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 157434,
       "num": 157434,
       "word": "秦刚答记者问",
@@ -3841,6 +3881,14 @@
       "onboard_time": 1678086507,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152777,
+      "num": 152777,
+      "word": "灰熊vs湖人",
+      "onboard_time": 1678244187,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 152408,
@@ -4001,6 +4049,14 @@
       "onboard_time": 1678171287,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140160,
+      "num": 140160,
+      "word": "奥斯卡最佳影片提名艺术海报",
+      "onboard_time": 1678244008,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 139358,
@@ -4233,14 +4289,6 @@
       "onboard_time": 1678179926,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123736,
-      "num": 123736,
-      "word": "值得爆红的姐",
-      "onboard_time": 1678244008,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 123636,
@@ -4640,14 +4688,6 @@
       "word": "李一桐毕雯珺新剧雨中分手",
       "onboard_time": 1678103486,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 104837,
-      "num": 104837,
-      "word": "奥斯卡最佳影片提名艺术海报",
-      "onboard_time": 1678244008,
-      "rank": 45,
       "category": "影视"
     },
     {
