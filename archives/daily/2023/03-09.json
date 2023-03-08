@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678304034415,
+  "endTime": 1678306847802,
   "band_list": [
     {
       "raw_hot": 1407548,
@@ -299,8 +299,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90408,
-      "num": 90408,
+      "raw_hot": 91526,
+      "num": 91526,
       "word": "北溪管道被炸是亲乌团体所为",
       "onboard_time": 1678301771,
       "rank": 14,
@@ -465,6 +465,14 @@
       "onboard_time": 1678285231,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26246,
+      "num": 16646,
+      "word": "视障女孩走盲道被突出景观造型撞到",
+      "onboard_time": 1678304471,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20202,

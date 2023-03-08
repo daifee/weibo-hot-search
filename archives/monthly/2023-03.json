@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678304034415,
+  "endTime": 1678306847802,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -16051,6 +16051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91526,
+      "num": 91526,
+      "word": "北溪管道被炸是亲乌团体所为",
+      "onboard_time": 1678301771,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 91072,
       "num": 133204,
       "word": "BoysPlanet二公限制外国人投票",
@@ -16065,14 +16073,6 @@
       "onboard_time": 1677833187,
       "rank": 45,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 90408,
-      "num": 90408,
-      "word": "北溪管道被炸是亲乌团体所为",
-      "onboard_time": 1678301771,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 90001,
@@ -17120,6 +17120,14 @@
       "word": "发条微博赞美身边的她",
       "onboard_time": 1678259125,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26246,
+      "num": 16646,
+      "word": "视障女孩走盲道被突出景观造型撞到",
+      "onboard_time": 1678304471,
+      "rank": 22,
       "category": "社会新闻"
     },
     {

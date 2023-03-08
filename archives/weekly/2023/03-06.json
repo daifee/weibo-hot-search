@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678304034415,
+  "endTime": 1678306847802,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -6331,20 +6331,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91526,
+      "num": 91526,
+      "word": "北溪管道被炸是亲乌团体所为",
+      "onboard_time": 1678301771,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 90641,
       "num": 90641,
       "word": "男团下岗再就业",
       "onboard_time": 1678013667,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90408,
-      "num": 90408,
-      "word": "北溪管道被炸是亲乌团体所为",
-      "onboard_time": 1678301771,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 90001,
@@ -6784,6 +6784,14 @@
       "word": "发条微博赞美身边的她",
       "onboard_time": 1678259125,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26246,
+      "num": 16646,
+      "word": "视障女孩走盲道被突出景观造型撞到",
+      "onboard_time": 1678304471,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
