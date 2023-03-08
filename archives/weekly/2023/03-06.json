@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678288845100,
+  "endTime": 1678289791408,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -704,6 +704,14 @@
       "word": "女子拒绝调岗被强制离职踢出群聊",
       "onboard_time": 1678178907,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 980228,
+      "num": 689071,
+      "word": "西安流感",
+      "onboard_time": 1678288832,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -2067,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 406463,
+      "num": 406463,
+      "word": "流浪地球2俄罗斯定档",
+      "onboard_time": 1678287987,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 406397,
       "num": 406397,
       "word": "大侦探",
@@ -2265,14 +2281,6 @@
       "onboard_time": 1678175606,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371898,
-      "num": 371898,
-      "word": "流浪地球2俄罗斯定档",
-      "onboard_time": 1678287987,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 371495,
@@ -2587,6 +2595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 333828,
+      "num": 311764,
+      "word": "在整个直播界都相当炸裂",
+      "onboard_time": 1678286070,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 333696,
       "num": 333696,
       "word": "秦刚回应所谓战狼外交",
@@ -2683,6 +2699,14 @@
       "category": "社会负面,财经"
     },
     {
+      "raw_hot": 318723,
+      "num": 311105,
+      "word": "黄奕回应第一次演姐弟恋",
+      "onboard_time": 1678287330,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 317475,
       "num": 317475,
       "word": "EDG对战WBG",
@@ -2729,14 +2753,6 @@
       "onboard_time": 1678061306,
       "rank": 15,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 311764,
-      "num": 311764,
-      "word": "在整个直播界都相当炸裂",
-      "onboard_time": 1678286070,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 311712,
@@ -2891,6 +2907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 291285,
+      "num": 291285,
+      "word": "建议骑手保证每周至少一天休息",
+      "onboard_time": 1678287751,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289313,
       "num": 289313,
       "word": "感动中国淘宝店主7成员工是残疾人",
@@ -2985,14 +3009,6 @@
       "onboard_time": 1678160427,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 278377,
-      "num": 278377,
-      "word": "黄奕回应第一次演姐弟恋",
-      "onboard_time": 1678287330,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 276726,
@@ -3691,14 +3707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208593,
-      "num": 208593,
-      "word": "西安流感",
-      "onboard_time": 1678288832,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207840,
       "num": 207840,
       "word": "何超莲薛凯琪加盟奇妙之城2",
@@ -4052,7 +4060,7 @@
     },
     {
       "raw_hot": 197302,
-      "num": 178666,
+      "num": 196571,
       "word": "孙颖莎谈心理健康",
       "onboard_time": 1678288648,
       "rank": 30,
@@ -4161,14 +4169,6 @@
       "onboard_time": 1678107986,
       "rank": 24,
       "category": "音乐,时尚"
-    },
-    {
-      "raw_hot": 195507,
-      "num": 195507,
-      "word": "建议骑手保证每周至少一天休息",
-      "onboard_time": 1678287751,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195266,
@@ -4859,6 +4859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159948,
+      "num": 159948,
+      "word": "突然坐着发呆的原因",
+      "onboard_time": 1678286671,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159605,
       "num": 159605,
       "word": "致敬所有的独立妇女",
@@ -4881,14 +4889,6 @@
       "onboard_time": 1678085906,
       "rank": 40,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 158321,
-      "num": 158321,
-      "word": "突然坐着发呆的原因",
-      "onboard_time": 1678286671,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 158234,
@@ -5907,6 +5907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107989,
+      "num": 107989,
+      "word": "赵继伟说主场打球太舒服了",
+      "onboard_time": 1678288289,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107496,
       "num": 107496,
       "word": "姐文化为什么那么火",
@@ -6121,14 +6129,6 @@
       "onboard_time": 1678261766,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 98887,
-      "num": 98887,
-      "word": "赵继伟说主场打球太舒服了",
-      "onboard_time": 1678288289,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 98785,
