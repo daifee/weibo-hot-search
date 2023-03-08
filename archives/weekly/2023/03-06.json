@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678292844929,
+  "endTime": 1678293969943,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -4068,7 +4068,7 @@
     },
     {
       "raw_hot": 197302,
-      "num": 263930,
+      "num": 269663,
       "word": "孙颖莎谈心理健康",
       "onboard_time": 1678288648,
       "rank": 30,
@@ -5099,6 +5099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144819,
+      "num": 270924,
+      "word": "制片人谈重紫选角",
+      "onboard_time": 1678289849,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144056,
       "num": 144056,
       "word": "华为称拆分消费者业务为假消息",
@@ -5121,14 +5129,6 @@
       "onboard_time": 1678082307,
       "rank": 39,
       "category": "影视,社会新闻"
-    },
-    {
-      "raw_hot": 142066,
-      "num": 261564,
-      "word": "制片人谈重紫选角",
-      "onboard_time": 1678289849,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 141427,
@@ -5395,6 +5395,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 127219,
+      "num": 148030,
+      "word": "微软WP系统还能正常使用吗",
+      "onboard_time": 1678290567,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 127074,
       "num": 127074,
       "word": "DRG 赛程安排",
@@ -5609,14 +5617,6 @@
       "onboard_time": 1678068924,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120445,
-      "num": 107425,
-      "word": "微软WP系统还能正常使用吗",
-      "onboard_time": 1678290567,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 120240,
@@ -6220,7 +6220,7 @@
     },
     {
       "raw_hot": 95543,
-      "num": 95543,
+      "num": 267224,
       "word": "TWICE新专预告",
       "onboard_time": 1678289968,
       "rank": 33,
@@ -6507,6 +6507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 73541,
+      "num": 73541,
+      "word": "迪士尼游客站着看烟花秀遭后排辱骂",
+      "onboard_time": 1678293201,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72790,
       "num": 72790,
       "word": "毕雯珺喝了李一桐奶茶",
@@ -6521,6 +6529,14 @@
       "onboard_time": 1678220351,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70531,
+      "num": 70531,
+      "word": "无畏炸裂转场",
+      "onboard_time": 1678292063,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 70368,
@@ -6595,6 +6611,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 61251,
+      "num": 61251,
+      "word": "广东处于地震活动相对活跃的时段",
+      "onboard_time": 1678293559,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60679,
       "num": 60679,
       "word": "马丽大鹏十年后再合作",
@@ -6633,14 +6657,6 @@
       "onboard_time": 1678115190,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55946,
-      "num": 67548,
-      "word": "无畏炸裂转场",
-      "onboard_time": 1678292063,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 53898,

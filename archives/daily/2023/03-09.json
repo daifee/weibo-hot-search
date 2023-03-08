@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678292844929,
+  "endTime": 1678293969943,
   "band_list": [
     {
       "raw_hot": 1407548,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 565256,
-      "num": 258184,
+      "num": 263495,
       "word": "王子文 现在没有恋人",
       "onboard_time": 1678271066,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 538401,
-      "num": 255728,
+      "num": 264105,
       "word": "黎姿首次正面回应退圈原因",
       "onboard_time": 1678276408,
       "rank": 11,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 416454,
-      "num": 253724,
+      "num": 261201,
       "word": "中方已完成所有丫丫回国审批事项",
       "onboard_time": 1678275566,
       "rank": 12,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 312150,
-      "num": 249489,
+      "num": 260903,
       "word": "张颂文向张纪中道歉",
       "onboard_time": 1678263448,
       "rank": 13,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 174103,
-      "num": 272724,
+      "num": 276830,
       "word": "莫兰德",
       "onboard_time": 1678287031,
       "rank": 4,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 154812,
-      "num": 266697,
+      "num": 272378,
       "word": "为何iPhone14不如13卖的好",
       "onboard_time": 1678263927,
       "rank": 7,
@@ -196,11 +196,19 @@
     },
     {
       "raw_hot": 151384,
-      "num": 263930,
+      "num": 269663,
       "word": "孙颖莎谈心理健康",
       "onboard_time": 1678288648,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144819,
+      "num": 270924,
+      "word": "制片人谈重紫选角",
+      "onboard_time": 1678289849,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 144118,
@@ -211,12 +219,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142066,
-      "num": 261564,
-      "word": "制片人谈重紫选角",
-      "onboard_time": 1678289849,
-      "rank": 9,
-      "category": "影视"
+      "raw_hot": 127219,
+      "num": 148030,
+      "word": "微软WP系统还能正常使用吗",
+      "onboard_time": 1678290567,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 122669,
@@ -224,14 +232,6 @@
       "word": "废文",
       "onboard_time": 1678268548,
       "rank": 26,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 120445,
-      "num": 107425,
-      "word": "微软WP系统还能正常使用吗",
-      "onboard_time": 1678290567,
-      "rank": 30,
       "category": "科技"
     },
     {
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 101831,
-      "num": 101831,
+      "num": 268541,
       "word": "星落凝成糖",
       "onboard_time": 1678279529,
       "rank": 31,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 95543,
-      "num": 95543,
+      "num": 267224,
       "word": "TWICE新专预告",
       "onboard_time": 1678289968,
       "rank": 33,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 87122,
-      "num": 87122,
+      "num": 265265,
       "word": "谷建芬87了",
       "onboard_time": 1678282769,
       "rank": 35,
@@ -331,12 +331,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 73541,
+      "num": 73541,
+      "word": "迪士尼游客站着看烟花秀遭后排辱骂",
+      "onboard_time": 1678293201,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72060,
       "num": 72060,
       "word": "张焱哭了",
       "onboard_time": 1678286492,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70531,
+      "num": 70531,
+      "word": "无畏炸裂转场",
+      "onboard_time": 1678292063,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 68745,
@@ -363,12 +379,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 55946,
-      "num": 67548,
-      "word": "无畏炸裂转场",
-      "onboard_time": 1678292063,
-      "rank": 46,
-      "category": "游戏"
+      "raw_hot": 61251,
+      "num": 61251,
+      "word": "广东处于地震活动相对活跃的时段",
+      "onboard_time": 1678293559,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51597,
+      "num": 67045,
+      "word": "超导",
+      "onboard_time": 1678274547,
+      "rank": 49,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 50267,
@@ -387,16 +411,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 41476,
-      "num": 67045,
-      "word": "超导",
-      "onboard_time": 1678274547,
-      "rank": 49,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 6728,
-      "num": 274760,
+      "num": 275420,
       "word": "两高报告十大关键词",
       "onboard_time": 1678235129,
       "rank": 2,
