@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678282071547,
+  "endTime": 1678282737184,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1859,6 +1859,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 945149,
+      "num": 945149,
+      "word": "丫丫回国后将和熊猫萌兰做邻居",
+      "onboard_time": 1678278629,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 928046,
       "num": 843497,
       "word": "爱奇艺回应2月充会员只能用28天",
@@ -2171,6 +2179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 843365,
+      "num": 843365,
+      "word": "西安市发布流感应急预案",
+      "onboard_time": 1678279348,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 841523,
       "num": 841523,
       "word": "国家医保局回应患者15天必须出院",
@@ -2481,14 +2497,6 @@
       "onboard_time": 1677855031,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 773267,
-      "num": 773267,
-      "word": "丫丫回国后将和熊猫萌兰做邻居",
-      "onboard_time": 1678278629,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 773018,
@@ -2841,14 +2849,6 @@
       "onboard_time": 1677897447,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 714240,
-      "num": 714240,
-      "word": "西安市发布流感应急预案",
-      "onboard_time": 1678279348,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 713496,
@@ -3321,6 +3321,14 @@
       "onboard_time": 1678066166,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637640,
+      "num": 637640,
+      "word": "高三老师被安排同学生一起考试",
+      "onboard_time": 1678279109,
+      "rank": 22,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 636846,
@@ -4107,14 +4115,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 543603,
-      "num": 543603,
-      "word": "高三老师被安排同学生一起考试",
-      "onboard_time": 1678279109,
-      "rank": 22,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 542290,
       "num": 542290,
       "word": "建议发钱鼓励生孩要关注第一孩",
@@ -4668,7 +4668,7 @@
     },
     {
       "raw_hot": 497994,
-      "num": 283236,
+      "num": 293241,
       "word": "楼上乱扔烟头男子阳台宠物鸡变烧鸡",
       "onboard_time": 1678265909,
       "rank": 12,
@@ -7819,6 +7819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 292923,
+      "num": 226379,
+      "word": "农民工大哥火车上用盆炫10袋泡面",
+      "onboard_time": 1678280068,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292904,
       "num": 242401,
       "word": "原来车是这么进商场的",
@@ -9347,6 +9355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228479,
+      "num": 228479,
+      "word": "恭喜WE",
+      "onboard_time": 1678281568,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228285,
       "num": 228285,
       "word": "姚薇怀孕",
@@ -9449,14 +9465,6 @@
       "onboard_time": 1677751770,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 225590,
-      "num": 225590,
-      "word": "农民工大哥火车上用盆炫10袋泡面",
-      "onboard_time": 1678280068,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225530,
@@ -10019,6 +10027,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 210623,
+      "num": 210623,
+      "word": "萌兰",
+      "onboard_time": 1678281868,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210503,
       "num": 210503,
       "word": "当情书被公开复诵",
@@ -10227,6 +10243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206228,
+      "num": 166039,
+      "word": "青你选手徐炳超卖包子",
+      "onboard_time": 1678282348,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206197,
       "num": 245742,
       "word": "勇士五连胜",
@@ -10329,6 +10353,14 @@
       "onboard_time": 1678106786,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204693,
+      "num": 204693,
+      "word": "李兰迪原声哭戏爆发力",
+      "onboard_time": 1678282530,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 204616,
@@ -10681,6 +10713,14 @@
       "onboard_time": 1678216932,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200310,
+      "num": 200310,
+      "word": "电影保你平安",
+      "onboard_time": 1678281868,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 200222,
@@ -11067,28 +11107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195779,
-      "num": 170752,
-      "word": "电影保你平安",
-      "onboard_time": 1678281868,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195759,
       "num": 195759,
       "word": "我想和你唱",
       "onboard_time": 1677831987,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195708,
-      "num": 195708,
-      "word": "萌兰",
-      "onboard_time": 1678281868,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195706,
@@ -12035,6 +12059,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 176552,
+      "num": 176552,
+      "word": "柯南剧场版人物关系图",
+      "onboard_time": 1678278748,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 176269,
       "num": 176269,
       "word": "王嘉尔 你好星期六",
@@ -12321,6 +12353,14 @@
       "onboard_time": 1677661110,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170465,
+      "num": 170465,
+      "word": "辽宁男篮vs上海男篮",
+      "onboard_time": 1678276831,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 170112,
@@ -12771,14 +12811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158708,
-      "num": 158708,
-      "word": "辽宁男篮vs上海男篮",
-      "onboard_time": 1678276831,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158679,
       "num": 212403,
       "word": "2023看两会",
@@ -12801,22 +12833,6 @@
       "onboard_time": 1678161509,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158182,
-      "num": 158182,
-      "word": "柯南剧场版人物关系图",
-      "onboard_time": 1678278748,
-      "rank": 36,
-      "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 158003,
-      "num": 158003,
-      "word": "恭喜WE",
-      "onboard_time": 1678281568,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 157708,
@@ -13483,6 +13499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142528,
+      "num": 142528,
+      "word": "你的遗憾变成猫咪的幸运",
+      "onboard_time": 1678280128,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 142483,
       "num": 142483,
       "word": "多家企业用迪士尼角色命名",
@@ -14105,14 +14129,6 @@
       "onboard_time": 1677595293,
       "rank": 39,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 129965,
-      "num": 129965,
-      "word": "你的遗憾变成猫咪的幸运",
-      "onboard_time": 1678280128,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 129803,
@@ -16280,6 +16296,14 @@
       "word": "小车也要大空间",
       "onboard_time": 1677765871,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71940,
+      "num": 71940,
+      "word": "网友突击检查全世界大熊猫",
+      "onboard_time": 1678282647,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
