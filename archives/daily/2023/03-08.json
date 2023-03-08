@@ -1,6 +1,6 @@
 {
   "startTime": 1678206448826,
-  "endTime": 1678259863766,
+  "endTime": 1678260846213,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1222223,
+      "num": 655144,
+      "word": "南航回应教师在课堂上发表不当言论",
+      "onboard_time": 1678258224,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1201053,
       "num": 310869,
       "word": "蔡徐坤曾发律师函状告B站",
@@ -81,14 +89,6 @@
       "onboard_time": 1678249951,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1138839,
-      "num": 655144,
-      "word": "南航回应教师在课堂上发表不当言论",
-      "onboard_time": 1678258224,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1118837,
@@ -209,6 +209,14 @@
       "onboard_time": 1678207758,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 679513,
+      "num": 272261,
+      "word": "赖冠霖参加北电四试",
+      "onboard_time": 1678259485,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 673418,
@@ -403,14 +411,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 383372,
-      "num": 242210,
-      "word": "赖冠霖参加北电四试",
-      "onboard_time": 1678259485,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 369473,
       "num": 369473,
       "word": "深圳震感",
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356717,
+      "num": 356717,
+      "word": "欢乐颂4群像海报",
+      "onboard_time": 1678258705,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351884,
       "num": 351884,
       "word": "姚弛 不被性别化偏见的形容词所绑架",
@@ -457,6 +465,14 @@
       "onboard_time": 1678257505,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 333780,
+      "num": 333780,
+      "word": "高校推出一人一桶洗衣机",
+      "onboard_time": 1678258886,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 326129,
@@ -563,6 +579,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 280693,
+      "num": 280693,
+      "word": "高叶代言",
+      "onboard_time": 1678260206,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280308,
       "num": 280308,
       "word": "欧冠八强",
@@ -579,12 +603,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 268162,
-      "num": 268162,
-      "word": "欢乐颂4群像海报",
-      "onboard_time": 1678258705,
-      "rank": 18,
-      "category": "影视"
+      "raw_hot": 264560,
+      "num": 264560,
+      "word": "上金所回应澳铸币厂出售掺杂金条",
+      "onboard_time": 1678258465,
+      "rank": 19,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 258126,
@@ -593,6 +617,14 @@
       "onboard_time": 1678199068,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255424,
+      "num": 185760,
+      "word": "委员建议实行弹性灵活退休机制",
+      "onboard_time": 1678260026,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253151,
@@ -633,14 +665,6 @@
       "onboard_time": 1678244008,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 242423,
-      "num": 242423,
-      "word": "上金所回应澳铸币厂出售掺杂金条",
-      "onboard_time": 1678258465,
-      "rank": 19,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 236606,
@@ -851,6 +875,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 185816,
+      "num": 185816,
+      "word": "张纪中 张颂文",
+      "onboard_time": 1678260803,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182437,
+      "num": 182437,
+      "word": "广东河源再次发生地震",
+      "onboard_time": 1678260326,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 181509,
       "num": 181509,
       "word": "加索尔球衣退役仪式",
@@ -889,14 +929,6 @@
       "onboard_time": 1678253784,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 171182,
-      "num": 171182,
-      "word": "高校推出一人一桶洗衣机",
-      "onboard_time": 1678258886,
-      "rank": 32,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 167326,
@@ -1075,6 +1107,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 127430,
+      "num": 127430,
+      "word": "靳东收藏新疆小朋友画作",
+      "onboard_time": 1678259666,
+      "rank": 45,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 126931,
       "num": 126931,
       "word": "iOS16.4Beta3发布",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1678254928,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125309,
+      "num": 125309,
+      "word": "瓦妮莎",
+      "onboard_time": 1678260445,
+      "rank": 41,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 124974,
@@ -1203,6 +1251,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 102217,
+      "num": 102217,
+      "word": "陆军女飞行员徐枫灿吐露想当航天员",
+      "onboard_time": 1678258644,
+      "rank": 47,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 101845,
       "num": 101845,
       "word": "建议父母满65岁给子女陪护假",
@@ -1225,14 +1281,6 @@
       "onboard_time": 1678192948,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89399,
-      "num": 89399,
-      "word": "靳东收藏新疆小朋友画作",
-      "onboard_time": 1678259666,
-      "rank": 45,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 88136,
@@ -1265,14 +1313,6 @@
       "onboard_time": 1678214834,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81606,
-      "num": 81606,
-      "word": "陆军女飞行员徐枫灿吐露想当航天员",
-      "onboard_time": 1678258644,
-      "rank": 47,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 78661,
@@ -1468,7 +1508,7 @@
     },
     {
       "raw_hot": 27934,
-      "num": 118099,
+      "num": 126032,
       "word": "发条微博赞美身边的她",
       "onboard_time": 1678259125,
       "rank": 39,
