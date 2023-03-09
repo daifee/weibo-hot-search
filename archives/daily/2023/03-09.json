@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678368843787,
+  "endTime": 1678369459006,
   "band_list": [
     {
       "raw_hot": 5333620,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3022594,
+      "raw_hot": 3127193,
       "num": 3022594,
       "word": "明天下午四点只办一件事",
       "onboard_time": 1678366948,
@@ -115,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1235669,
-      "num": 611539,
+      "raw_hot": 1240462,
+      "num": 940081,
       "word": "儿子不孝男子立遗嘱把财产给妻妹",
       "onboard_time": 1678365090,
       "rank": 31,
@@ -179,8 +179,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 975327,
+      "num": 975327,
+      "word": "gemini直播",
+      "onboard_time": 1678366529,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 963784,
-      "num": 586577,
+      "num": 926203,
       "word": "叶舒华录小S的节目",
       "onboard_time": 1678367307,
       "rank": 4,
@@ -201,14 +209,6 @@
       "onboard_time": 1678352365,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 871643,
-      "num": 871643,
-      "word": "gemini直播",
-      "onboard_time": 1678366529,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 850879,
@@ -507,6 +507,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 562119,
+      "num": 562119,
+      "word": "网红阿秋骑行香港自行车被偷",
+      "onboard_time": 1678364905,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560294,
+      "num": 560294,
+      "word": "前两年共结算新冠疫苗及接种费1500余亿元",
+      "onboard_time": 1678365867,
+      "rank": 19,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 555497,
       "num": 469722,
       "word": "该怎么给小鸡解释它的身世",
@@ -539,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543806,
+      "num": 543806,
+      "word": "月亮",
+      "onboard_time": 1678367188,
+      "rank": 8,
+      "category": "自然"
+    },
+    {
       "raw_hot": 540232,
       "num": 540232,
       "word": "内娱名品落泪",
@@ -563,24 +587,16 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 531352,
-      "num": 531352,
+      "raw_hot": 533285,
+      "num": 533285,
       "word": "甲流病毒进入人体后会经历什么",
       "onboard_time": 1678356207,
       "rank": 28,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 530063,
-      "num": 530063,
-      "word": "网红阿秋骑行香港自行车被偷",
-      "onboard_time": 1678364905,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 518518,
-      "num": 487946,
+      "raw_hot": 521372,
+      "num": 502587,
       "word": "虞书欣教徐老师穿搭",
       "onboard_time": 1678366408,
       "rank": 30,
@@ -601,6 +617,14 @@
       "onboard_time": 1678328785,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 503898,
+      "num": 503898,
+      "word": "外媒评宋佳时装周造型",
+      "onboard_time": 1678365626,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 500275,
@@ -627,28 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 489685,
-      "num": 489685,
-      "word": "月亮",
-      "onboard_time": 1678367188,
-      "rank": 8,
-      "category": "自然"
-    },
-    {
       "raw_hot": 489065,
       "num": 489065,
       "word": "张杰击掌",
       "onboard_time": 1678367248,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 486169,
-      "num": 486169,
-      "word": "前两年共结算新冠疫苗及接种费1500余亿元",
-      "onboard_time": 1678365867,
-      "rank": 19,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 484756,
@@ -689,14 +697,6 @@
       "onboard_time": 1678347626,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 466182,
-      "num": 466182,
-      "word": "外媒评宋佳时装周造型",
-      "onboard_time": 1678365626,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 462968,
@@ -836,7 +836,7 @@
     },
     {
       "raw_hot": 369417,
-      "num": 292079,
+      "num": 308161,
       "word": "兄弟俩辞职回家种地年营收1亿",
       "onboard_time": 1678359688,
       "rank": 22,
@@ -897,6 +897,14 @@
       "onboard_time": 1678354826,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 353477,
+      "num": 353477,
+      "word": "最可惜的内娱组合",
+      "onboard_time": 1678369049,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 352444,
@@ -979,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333002,
+      "num": 333002,
+      "word": "木村贵宏去世",
+      "onboard_time": 1678368032,
+      "rank": 22,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 324774,
       "num": 324774,
       "word": "金智秀solo主打预告照",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1678320870,
       "rank": 13,
       "category": "科技"
-    },
-    {
-      "raw_hot": 304687,
-      "num": 304687,
-      "word": "木村贵宏去世",
-      "onboard_time": 1678368032,
-      "rank": 22,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 298792,
@@ -1264,6 +1272,14 @@
       "word": "你认为网恋奔现靠谱吗",
       "onboard_time": 1678356386,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218492,
+      "num": 218492,
+      "word": "明星最多但评分最低的电影",
+      "onboard_time": 1678369049,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -1691,6 +1707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156090,
+      "num": 156090,
+      "word": "U20亚洲杯",
+      "onboard_time": 1678368092,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155536,
       "num": 170085,
       "word": "宋茜用发圈扎T恤",
@@ -1705,14 +1729,6 @@
       "onboard_time": 1678263927,
       "rank": 7,
       "category": "科技"
-    },
-    {
-      "raw_hot": 154325,
-      "num": 154325,
-      "word": "U20亚洲杯",
-      "onboard_time": 1678368092,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 153650,
@@ -1795,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144959,
+      "num": 144959,
+      "word": "T1晋级",
+      "onboard_time": 1678367848,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144819,
       "num": 270924,
       "word": "制片人谈重紫选角",
@@ -1865,14 +1889,6 @@
       "onboard_time": 1678358606,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136032,
-      "num": 136032,
-      "word": "T1晋级",
-      "onboard_time": 1678367848,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 135840,
@@ -1976,6 +1992,14 @@
       "word": "孙颖莎说更了解自己了",
       "onboard_time": 1678358127,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114436,
+      "num": 114436,
+      "word": "吉尔吉斯斯坦U20乌龙球",
+      "onboard_time": 1678369168,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -2252,7 +2276,7 @@
     },
     {
       "raw_hot": 55847,
-      "num": 893610,
+      "num": 941693,
       "word": "两会热议高质量发展",
       "onboard_time": 1678351828,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678368843787,
+  "endTime": 1678369459006,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -83,7 +83,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 3022594,
+      "raw_hot": 3127193,
       "num": 3022594,
       "word": "明天下午四点只办一件事",
       "onboard_time": 1678366948,
@@ -1219,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1240462,
+      "num": 940081,
+      "word": "儿子不孝男子立遗嘱把财产给妻妹",
+      "onboard_time": 1678365090,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1238057,
       "num": 1238057,
       "word": "国家线",
@@ -1233,14 +1241,6 @@
       "onboard_time": 1677987265,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1235669,
-      "num": 611539,
-      "word": "儿子不孝男子立遗嘱把财产给妻妹",
-      "onboard_time": 1678365090,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1229401,
@@ -1971,6 +1971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 975327,
+      "num": 975327,
+      "word": "gemini直播",
+      "onboard_time": 1678366529,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 968970,
       "num": 968970,
       "word": "建议幼儿园入园年龄低龄化",
@@ -2004,7 +2012,7 @@
     },
     {
       "raw_hot": 963784,
-      "num": 586577,
+      "num": 926203,
       "word": "叶舒华录小S的节目",
       "onboard_time": 1678367307,
       "rank": 4,
@@ -2257,14 +2265,6 @@
       "onboard_time": 1678352365,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 871643,
-      "num": 871643,
-      "word": "gemini直播",
-      "onboard_time": 1678366529,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 869785,
@@ -4411,6 +4411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562119,
+      "num": 562119,
+      "word": "网红阿秋骑行香港自行车被偷",
+      "onboard_time": 1678364905,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 561438,
       "num": 561438,
       "word": "鹿晗强行请王勉吃糖葫芦",
@@ -4425,6 +4433,14 @@
       "onboard_time": 1677753629,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 560294,
+      "num": 560294,
+      "word": "前两年共结算新冠疫苗及接种费1500余亿元",
+      "onboard_time": 1678365867,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 559827,
@@ -4675,6 +4691,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 543806,
+      "num": 543806,
+      "word": "月亮",
+      "onboard_time": 1678187428,
+      "rank": 15,
+      "category": "自然"
+    },
+    {
       "raw_hot": 542290,
       "num": 542290,
       "word": "建议发钱鼓励生孩要关注第一孩",
@@ -4779,6 +4803,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 533285,
+      "num": 533285,
+      "word": "甲流病毒进入人体后会经历什么",
+      "onboard_time": 1678356207,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532148,
       "num": 532148,
       "word": "方时赫收购SM的理由",
@@ -4787,28 +4819,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 531352,
-      "num": 531352,
-      "word": "甲流病毒进入人体后会经历什么",
-      "onboard_time": 1678356207,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 531228,
       "num": 373997,
       "word": "女子称因准点下班试用期第3天被辞退",
       "onboard_time": 1677806488,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 531020,
-      "num": 531020,
-      "word": "月亮",
-      "onboard_time": 1678187428,
-      "rank": 15,
-      "category": "自然"
     },
     {
       "raw_hot": 531014,
@@ -4825,14 +4841,6 @@
       "onboard_time": 1677672629,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 530063,
-      "num": 530063,
-      "word": "网红阿秋骑行香港自行车被偷",
-      "onboard_time": 1678364905,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 529803,
@@ -4979,6 +4987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 521372,
+      "num": 502587,
+      "word": "虞书欣教徐老师穿搭",
+      "onboard_time": 1678366408,
+      "rank": 30,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 521080,
       "num": 521080,
       "word": "香奈儿大秀",
@@ -5041,14 +5057,6 @@
       "onboard_time": 1678192045,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 518518,
-      "num": 487946,
-      "word": "虞书欣教徐老师穿搭",
-      "onboard_time": 1678366408,
-      "rank": 30,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 518405,
@@ -5241,6 +5249,14 @@
       "onboard_time": 1678328785,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 503898,
+      "num": 503898,
+      "word": "外媒评宋佳时装周造型",
+      "onboard_time": 1678365626,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 503541,
@@ -5459,14 +5475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 486169,
-      "num": 486169,
-      "word": "前两年共结算新冠疫苗及接种费1500余亿元",
-      "onboard_time": 1678365867,
-      "rank": 19,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 485398,
       "num": 473594,
       "word": "女明星捧花头像",
@@ -5665,14 +5673,6 @@
       "onboard_time": 1678347626,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 466182,
-      "num": 466182,
-      "word": "外媒评宋佳时装周造型",
-      "onboard_time": 1678365626,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 465456,
@@ -7188,7 +7188,7 @@
     },
     {
       "raw_hot": 369417,
-      "num": 292079,
+      "num": 308161,
       "word": "兄弟俩辞职回家种地年营收1亿",
       "onboard_time": 1678359688,
       "rank": 22,
@@ -7537,6 +7537,14 @@
       "onboard_time": 1678027170,
       "rank": 6,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 353477,
+      "num": 353477,
+      "word": "最可惜的内娱组合",
+      "onboard_time": 1678369049,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 353379,
@@ -8001,6 +8009,14 @@
       "onboard_time": 1678340786,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 333002,
+      "num": 333002,
+      "word": "木村贵宏去世",
+      "onboard_time": 1678368032,
+      "rank": 22,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 332700,
@@ -8657,14 +8673,6 @@
       "onboard_time": 1677641309,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 304687,
-      "num": 304687,
-      "word": "木村贵宏去世",
-      "onboard_time": 1678368032,
-      "rank": 22,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 304156,
@@ -11017,6 +11025,14 @@
       "onboard_time": 1677859405,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218492,
+      "num": 218492,
+      "word": "明星最多但评分最低的电影",
+      "onboard_time": 1678369049,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 218406,
@@ -14563,6 +14579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 156090,
+      "num": 156090,
+      "word": "U20亚洲杯",
+      "onboard_time": 1678109847,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155944,
       "num": 155944,
       "word": "OMG偷家获胜",
@@ -14609,14 +14633,6 @@
       "onboard_time": 1678090346,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 154325,
-      "num": 154325,
-      "word": "U20亚洲杯",
-      "onboard_time": 1678109847,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 154214,
@@ -15089,6 +15105,14 @@
       "onboard_time": 1677770010,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144959,
+      "num": 144959,
+      "word": "T1晋级",
+      "onboard_time": 1678367848,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 144906,
@@ -15601,14 +15625,6 @@
       "onboard_time": 1677626903,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136032,
-      "num": 136032,
-      "word": "T1晋级",
-      "onboard_time": 1678367848,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 135863,
@@ -16664,6 +16680,14 @@
       "word": "孙颖莎说更了解自己了",
       "onboard_time": 1678358127,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114436,
+      "num": 114436,
+      "word": "吉尔吉斯斯坦U20乌龙球",
+      "onboard_time": 1678369168,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -18524,7 +18548,7 @@
     },
     {
       "raw_hot": 55847,
-      "num": 893610,
+      "num": 941693,
       "word": "两会热议高质量发展",
       "onboard_time": 1678351828,
       "rank": 2,
