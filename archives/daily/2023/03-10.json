@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678396679228,
+  "endTime": 1678397631406,
   "band_list": [
     {
       "raw_hot": 1790566,
@@ -449,6 +449,14 @@
       "onboard_time": 1678351828,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 10632,
+      "num": 10632,
+      "word": "当人民军队遇上中国传统色",
+      "onboard_time": 1678397472,
+      "rank": 46,
+      "category": "军事,社会新闻"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/03/06 00:24:21 ~ 2023/03/10 05:17:59
+本榜单时间：2023/03/06 00:24:21 ~ 2023/03/10 05:33:51
 </p>
 </blockquote>
 <p>
@@ -6695,6 +6695,12 @@ WBG蝉联周冠军（热度：65059）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%9E%AB%E7%81%BF%E8%A7%81%E5%88%B0%E5%88%98%E6%B4%8B%E7%A7%92%E5%8F%98%E5%B0%8F%E8%BF%B7%E5%A6%B9%23" target="weibo">
 徐枫灿见到刘洋秒变小迷妹（热度：13727）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E9%81%87%E4%B8%8A%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%23" target="weibo">
+当人民军队遇上中国传统色（热度：10632）
 </a>
 </li>
 
