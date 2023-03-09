@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678401381843,
+  "endTime": 1678404053958,
   "band_list": [
     {
       "raw_hot": 1790566,
@@ -35,20 +35,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 588384,
+      "num": 265009,
+      "word": "明星最多但评分最低的电影",
+      "onboard_time": 1678369049,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 567532,
       "num": 459442,
       "word": "腰疼就是肾脏出问题了吗",
       "onboard_time": 1678374209,
       "rank": 5,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 547839,
-      "num": 265009,
-      "word": "明星最多但评分最低的电影",
-      "onboard_time": 1678369049,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 474323,
@@ -67,8 +67,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373194,
+      "num": 240324,
+      "word": "儿子不孝男子立遗嘱把财产给妻妹",
+      "onboard_time": 1678365090,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363786,
+      "num": 530062,
+      "word": "甲流病毒进入人体后会经历什么",
+      "onboard_time": 1678356207,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290961,
-      "num": 209860,
+      "num": 219454,
       "word": "世界最长寿女性去世享年128岁",
       "onboard_time": 1678369891,
       "rank": 12,
@@ -81,6 +97,14 @@
       "onboard_time": 1678375109,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285749,
+      "num": 120889,
+      "word": "5岁女孩故宫拍千元甄嬛照累哭",
+      "onboard_time": 1678370373,
+      "rank": 21,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 284727,
@@ -99,28 +123,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 249127,
-      "num": 120889,
-      "word": "5岁女孩故宫拍千元甄嬛照累哭",
-      "onboard_time": 1678370373,
-      "rank": 21,
-      "category": "社会新闻,旅游"
+      "raw_hot": 239326,
+      "num": 239326,
+      "word": "安福路居民吐槽网红街拍",
+      "onboard_time": 1678362446,
+      "rank": 27,
+      "category": "综艺"
     },
     {
-      "raw_hot": 240324,
-      "num": 240324,
-      "word": "儿子不孝男子立遗嘱把财产给妻妹",
-      "onboard_time": 1678365090,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212887,
-      "num": 212887,
+      "raw_hot": 235992,
+      "num": 224475,
       "word": "网红阿秋骑行香港自行车被偷",
       "onboard_time": 1678364905,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230654,
+      "num": 230654,
+      "word": "TCL客服回应电视夜间突然大声预警",
+      "onboard_time": 1678378343,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 205933,
@@ -132,19 +156,11 @@
     },
     {
       "raw_hot": 201033,
-      "num": 103819,
+      "num": 119807,
       "word": "外媒评宋佳时装周造型",
       "onboard_time": 1678365626,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 196025,
-      "num": 196025,
-      "word": "甲流病毒进入人体后会经历什么",
-      "onboard_time": 1678356207,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183358,
@@ -171,8 +187,8 @@
       "category": "其它"
     },
     {
-      "raw_hot": 152401,
-      "num": 152401,
+      "raw_hot": 157219,
+      "num": 157219,
       "word": "俄罗斯空袭乌克兰多个地区",
       "onboard_time": 1678359205,
       "rank": 17,
@@ -187,20 +203,20 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 141337,
-      "num": 141337,
-      "word": "TCL客服回应电视夜间突然大声预警",
-      "onboard_time": 1678378343,
-      "rank": 39,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 141328,
       "num": 119794,
       "word": "兄弟俩辞职回家种地年营收1亿",
       "onboard_time": 1678359688,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135414,
+      "num": 135414,
+      "word": "日本前女子偶像将参与地方议会选举",
+      "onboard_time": 1678381816,
+      "rank": 31,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 134225,
@@ -219,6 +235,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 127545,
+      "num": 127545,
+      "word": "台当局宣布恢复两岸空运客运航点",
+      "onboard_time": 1678354947,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127458,
       "num": 89938,
       "word": "刘诗诗 微博之夜",
@@ -235,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123227,
+      "num": 106954,
+      "word": "当人民军队遇上中国传统色",
+      "onboard_time": 1678397472,
+      "rank": 46,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 121839,
       "num": 121839,
       "word": "徐若晗 男人装",
@@ -243,20 +275,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 120458,
+      "num": 120458,
+      "word": "曼联4比1皇家贝蒂斯",
+      "onboard_time": 1678403600,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118872,
       "num": 118872,
       "word": "鲁鲁修",
       "onboard_time": 1678370250,
       "rank": 24,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 109680,
-      "num": 109680,
-      "word": "安福路居民吐槽网红街拍",
-      "onboard_time": 1678362446,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 105839,
@@ -273,14 +305,6 @@
       "onboard_time": 1678377625,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 102134,
-      "num": 102134,
-      "word": "台当局宣布恢复两岸空运客运航点",
-      "onboard_time": 1678354947,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97245,
@@ -315,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 91879,
+      "num": 91879,
+      "word": "张文宏呼吁重视甲流预防",
+      "onboard_time": 1678356267,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91517,
       "num": 91517,
       "word": "儿子沉迷手机爸爸逼他连玩17小时",
@@ -329,14 +361,6 @@
       "onboard_time": 1678371030,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87245,
-      "num": 61131,
-      "word": "日本前女子偶像将参与地方议会选举",
-      "onboard_time": 1678381816,
-      "rank": 31,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 86845,
@@ -355,20 +379,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 82418,
+      "num": 82418,
+      "word": "内娱名品落泪",
+      "onboard_time": 1678362989,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 80314,
       "num": 80314,
       "word": "刘亦菲与路人合影",
       "onboard_time": 1678355547,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 78099,
-      "num": 78099,
-      "word": "张文宏呼吁重视甲流预防",
-      "onboard_time": 1678356267,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76234,
@@ -379,12 +403,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 68870,
-      "num": 58325,
-      "word": "当人民军队遇上中国传统色",
-      "onboard_time": 1678397472,
-      "rank": 46,
-      "category": "军事,社会新闻"
+      "raw_hot": 67517,
+      "num": 67517,
+      "word": "郭彪重返舞台陈楚生哭了",
+      "onboard_time": 1678365929,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 66786,
@@ -395,20 +419,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 66130,
-      "num": 76206,
-      "word": "内娱名品落泪",
-      "onboard_time": 1678362989,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 55160,
       "num": 76205,
       "word": "迪丽热巴说公诉精英台词挑战大",
       "onboard_time": 1678354584,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 52459,
+      "num": 52459,
+      "word": "林葳时刻",
+      "onboard_time": 1678403720,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 51574,
@@ -419,16 +443,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 42825,
-      "num": 42825,
-      "word": "郭彪重返舞台陈楚生哭了",
-      "onboard_time": 1678365929,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 40960,
+      "num": 40960,
+      "word": "丫丫回国将实现吃喝自由",
+      "onboard_time": 1678403839,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 31044,
-      "num": 31044,
+      "raw_hot": 31250,
+      "num": 31250,
       "word": "Hero对战DRG",
       "onboard_time": 1678371391,
       "rank": 31,
