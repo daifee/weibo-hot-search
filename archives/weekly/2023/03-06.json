@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678397631406,
+  "endTime": 1678400359543,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -8755,6 +8755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51909,
+      "num": 37154,
+      "word": "当人民军队遇上中国传统色",
+      "onboard_time": 1678397472,
+      "rank": 46,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 50224,
       "num": 491642,
       "word": "3份报告里的9个民生新改善",
@@ -8913,14 +8921,6 @@
       "onboard_time": 1678296675,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10632,
-      "num": 10632,
-      "word": "当人民军队遇上中国传统色",
-      "onboard_time": 1678397472,
-      "rank": 46,
-      "category": "军事,社会新闻"
     }
   ],
   "hotgov_list": [

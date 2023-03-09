@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678397631406,
+  "endTime": 1678400359543,
   "band_list": [
     {
       "raw_hot": 1790566,
@@ -403,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 51909,
+      "num": 37154,
+      "word": "当人民军队遇上中国传统色",
+      "onboard_time": 1678397472,
+      "rank": 46,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 51574,
       "num": 76183,
       "word": "青葵替夜昙圆梦",
@@ -449,14 +457,6 @@
       "onboard_time": 1678351828,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 10632,
-      "num": 10632,
-      "word": "当人民军队遇上中国传统色",
-      "onboard_time": 1678397472,
-      "rank": 46,
-      "category": "军事,社会新闻"
     }
   ],
   "hotgov_list": [
