@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678376230108,
+  "endTime": 1678379289631,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -4011,6 +4011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 608404,
+      "num": 463239,
+      "word": "花店店主怒斥顺丰同城配送不规范",
+      "onboard_time": 1678375829,
+      "rank": 43,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 608203,
       "num": 608203,
       "word": "干将莫邪画中仙皮肤",
@@ -5929,6 +5937,14 @@
       "onboard_time": 1677655528,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 451043,
+      "num": 451043,
+      "word": "警方通报甘孜村民多次拦车要红包",
+      "onboard_time": 1678374690,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450766,
@@ -8795,14 +8811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 303667,
-      "num": 303667,
-      "word": "警方通报甘孜村民多次拦车要红包",
-      "onboard_time": 1678374690,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303031,
       "num": 303031,
       "word": "白鹿摸周柯宇的头",
@@ -9473,6 +9481,14 @@
       "onboard_time": 1677766590,
       "rank": 47,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 274322,
+      "num": 274322,
+      "word": "熊猫界也有熊孩子",
+      "onboard_time": 1678374630,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 274135,
@@ -13515,14 +13531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183833,
-      "num": 183833,
-      "word": "熊猫界也有熊孩子",
-      "onboard_time": 1678374630,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182904,
       "num": 182904,
       "word": "建议出台反网络暴力法",
@@ -15915,6 +15923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134225,
+      "num": 91941,
+      "word": "章昊搞事业",
+      "onboard_time": 1678376425,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134222,
       "num": 134222,
       "word": "KSG的BP",
@@ -17147,14 +17163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110363,
-      "num": 110363,
-      "word": "花店店主怒斥顺丰同城配送不规范",
-      "onboard_time": 1678375829,
-      "rank": 43,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 109531,
       "num": 109531,
       "word": "重紫今日大婚",
@@ -17513,6 +17521,14 @@
       "onboard_time": 1678091064,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 103848,
+      "num": 103848,
+      "word": "浮图缘韩国版预告",
+      "onboard_time": 1678377625,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 103771,
@@ -18089,6 +18105,14 @@
       "onboard_time": 1677828747,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 87791,
+      "num": 87791,
+      "word": "TCL客服回应电视夜间突然大声预警",
+      "onboard_time": 1678378343,
+      "rank": 39,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 87633,
