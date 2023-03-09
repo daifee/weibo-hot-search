@@ -1,0 +1,410 @@
+{
+  "runTime": 1678327799049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1223287,
+        "num": 1223287,
+        "word": "女子入职被公司乐捐制度吓退",
+        "onboard_time": 1678319066,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1175284,
+        "num": 1175284,
+        "word": "室温超导",
+        "onboard_time": 1678321590,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13248,
+        "num": 1150799,
+        "word": "两高报告十大关键词",
+        "onboard_time": 1678235129,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1127138,
+        "num": 1127138,
+        "word": "每天少睡一两个小时算熬夜吗",
+        "onboard_time": 1678317381,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910660,
+        "num": 910660,
+        "word": "甲流发病急",
+        "onboard_time": 1678320870,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695320,
+        "num": 695320,
+        "word": "请在里面找出花花",
+        "onboard_time": 1678325246,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 674679,
+        "num": 674679,
+        "word": "台黑帮五星级酒店高调办晚宴",
+        "onboard_time": 1678322072,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655099,
+        "num": 655099,
+        "word": "汽车全面降价的时代来了吗",
+        "onboard_time": 1678322609,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 633831,
+        "num": 633831,
+        "word": "姆巴佩",
+        "onboard_time": 1678326146,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 573944,
+        "num": 573944,
+        "word": "ChatGPT创始人吃糖尿病药抗老",
+        "onboard_time": 1678325064,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 518803,
+        "num": 518803,
+        "word": "这是缉毒女警唯一能公布的照片",
+        "onboard_time": 1678317080,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350961,
+        "num": 350961,
+        "word": "梁朝伟谈与王一博拍摄打斗戏",
+        "onboard_time": 1678326625,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304190,
+        "num": 304190,
+        "word": "梅西连续3年无缘欧冠8强",
+        "onboard_time": 1678319548,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295453,
+        "num": 295453,
+        "word": "东风汽车降价",
+        "onboard_time": 1678322849,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 272258,
+        "num": 272258,
+        "word": "小美人鱼新海报",
+        "onboard_time": 1678324586,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263928,
+        "num": 263928,
+        "word": "金智秀solo主打预告照",
+        "onboard_time": 1678318103,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257318,
+        "num": 257318,
+        "word": "AppleWatch上能和ChatGPT聊天了",
+        "onboard_time": 1678320870,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 233889,
+        "num": 233889,
+        "word": "管泽元直播回应",
+        "onboard_time": 1678317319,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212704,
+        "num": 212704,
+        "word": "张颂文即兴发挥吃鱼梗",
+        "onboard_time": 1678319367,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205362,
+        "num": 205362,
+        "word": "tangoz模仿权志龙唱歌",
+        "onboard_time": 1678323150,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276166,
+        "num": 204034,
+        "word": "小学生拾金不昧获每年6千元助学金",
+        "onboard_time": 1678325545,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251692,
+        "num": 202477,
+        "word": "年薪41万董秘自掏4亿买公司股份",
+        "onboard_time": 1678284870,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 199816,
+        "num": 199816,
+        "word": "女子起诉离婚屡遭公公跟踪获保护令",
+        "onboard_time": 1678326987,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195377,
+        "num": 195377,
+        "word": "NCT道在廷将上半年出道",
+        "onboard_time": 1678323988,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185247,
+        "num": 185247,
+        "word": "青你选手徐炳超卖包子",
+        "onboard_time": 1678282348,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177478,
+        "num": 177478,
+        "word": "迪士尼游客站着看烟花秀遭后排辱骂",
+        "onboard_time": 1678293201,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157739,
+        "num": 157739,
+        "word": "滚筒洗衣机运镜",
+        "onboard_time": 1678320809,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155034,
+        "num": 155034,
+        "word": "王子文 现在没有恋人",
+        "onboard_time": 1678271066,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154743,
+        "num": 154743,
+        "word": "在整个直播界都相当炸裂",
+        "onboard_time": 1678286070,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150545,
+        "num": 150545,
+        "word": "无限超越班 TVB",
+        "onboard_time": 1678319306,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200501,
+        "num": 150016,
+        "word": "如何预防甲流",
+        "onboard_time": 1678327584,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145306,
+        "num": 145306,
+        "word": "印度首次成为苹果自主销售地区",
+        "onboard_time": 1678318162,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 135840,
+        "num": 135840,
+        "word": "分析师紧急开会提示室温超导风险",
+        "onboard_time": 1678325785,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 131663,
+        "num": 131663,
+        "word": "广东处于地震活动相对活跃的时段",
+        "onboard_time": 1678293559,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124554,
+        "num": 124554,
+        "word": "吴昕喝银耳酸梅鲫鱼汤养生",
+        "onboard_time": 1678318162,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122917,
+        "num": 122917,
+        "word": "武警把衣服绑成绳子从冰窟救人",
+        "onboard_time": 1678323928,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120790,
+        "num": 120790,
+        "word": "张真源画的玫瑰",
+        "onboard_time": 1678321409,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111787,
+        "num": 111787,
+        "word": "海拔4000米的界碑婚礼",
+        "onboard_time": 1678327165,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 111186,
+        "num": 111186,
+        "word": "陆虎新歌",
+        "onboard_time": 1678318824,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103364,
+        "num": 103364,
+        "word": "北溪管道被炸是亲乌团体所为",
+        "onboard_time": 1678301771,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 101705,
+        "num": 101705,
+        "word": "黎姿首次正面回应退圈原因",
+        "onboard_time": 1678276408,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99102,
+        "num": 99102,
+        "word": "推特广告收入下降50%",
+        "onboard_time": 1678322668,
+        "rank": 41,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 95825,
+        "num": 95825,
+        "word": "拜仁2比0巴黎",
+        "onboard_time": 1678316778,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95377,
+        "num": 95377,
+        "word": "谷歌追赶ChatGPT计划曝光",
+        "onboard_time": 1678326385,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 93119,
+        "num": 93119,
+        "word": "2名司机神同步停车33秒清除路障",
+        "onboard_time": 1678317561,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88991,
+        "num": 88991,
+        "word": "视障女孩走盲道被突出景观造型撞到",
+        "onboard_time": 1678304471,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80486,
+        "num": 80486,
+        "word": "维蒂尼亚空门不进",
+        "onboard_time": 1678322609,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78515,
+        "num": 78515,
+        "word": "雷霆vs太阳",
+        "onboard_time": 1678327763,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77972,
+        "num": 77972,
+        "word": "突然坐着发呆的原因",
+        "onboard_time": 1678286671,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76568,
+        "num": 76568,
+        "word": "高三老师被安排同学生一起考试",
+        "onboard_time": 1678279109,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#两会里的春天#"
+    }
+  }
+}

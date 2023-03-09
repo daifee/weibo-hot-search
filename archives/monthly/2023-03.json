@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678326372246,
+  "endTime": 1678327799049,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2979,6 +2979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 695320,
+      "num": 695320,
+      "word": "请在里面找出花花",
+      "onboard_time": 1678325246,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 694462,
       "num": 694462,
       "word": "烧烤店开门不到一分钟就满客",
@@ -3267,6 +3275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 655099,
+      "num": 655099,
+      "word": "汽车全面降价的时代来了吗",
+      "onboard_time": 1678322609,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 654544,
       "num": 654544,
       "word": "老师被指侵占学生雕塑冒名参展",
@@ -3313,14 +3329,6 @@
       "onboard_time": 1678037836,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 648198,
-      "num": 648198,
-      "word": "汽车全面降价的时代来了吗",
-      "onboard_time": 1678322609,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 647245,
@@ -3441,6 +3449,14 @@
       "onboard_time": 1677855568,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 633831,
+      "num": 633831,
+      "word": "姆巴佩",
+      "onboard_time": 1678326146,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 631709,
@@ -3849,6 +3865,14 @@
       "onboard_time": 1677986304,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573944,
+      "num": 573944,
+      "word": "ChatGPT创始人吃糖尿病药抗老",
+      "onboard_time": 1678325064,
+      "rank": 11,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 573899,
@@ -6115,14 +6139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 388594,
-      "num": 324610,
-      "word": "请在里面找出花花",
-      "onboard_time": 1678325246,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 388000,
       "num": 388000,
       "word": "剧版繁花预计9月播出",
@@ -6161,14 +6177,6 @@
       "onboard_time": 1677899125,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 386982,
-      "num": 321738,
-      "word": "ChatGPT创始人吃糖尿病药抗老",
-      "onboard_time": 1678325064,
-      "rank": 11,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 386720,
@@ -6921,6 +6929,14 @@
       "onboard_time": 1677669567,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 350961,
+      "num": 350961,
+      "word": "梁朝伟谈与王一博拍摄打斗戏",
+      "onboard_time": 1678326625,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 350548,
@@ -8467,6 +8483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276166,
+      "num": 204034,
+      "word": "小学生拾金不昧获每年6千元助学金",
+      "onboard_time": 1678325545,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275952,
       "num": 275952,
       "word": "没点本事千万别骑鸵鸟",
@@ -8544,6 +8568,14 @@
       "word": "嫡谋影视化",
       "onboard_time": 1678021293,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 272258,
+      "num": 272258,
+      "word": "小美人鱼新海报",
+      "onboard_time": 1678324586,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -8833,14 +8865,6 @@
       "onboard_time": 1678079845,
       "rank": 40,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 258330,
-      "num": 258330,
-      "word": "小美人鱼新海报",
-      "onboard_time": 1678324586,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 258317,
@@ -10619,6 +10643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205362,
+      "num": 205362,
+      "word": "tangoz模仿权志龙唱歌",
+      "onboard_time": 1678323150,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205174,
       "num": 205174,
       "word": "KSG教练",
@@ -10825,14 +10857,6 @@
       "onboard_time": 1677734488,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 203263,
-      "num": 203263,
-      "word": "小学生拾金不昧获每年6千元助学金",
-      "onboard_time": 1678325545,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203117,
@@ -11043,6 +11067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200501,
+      "num": 150016,
+      "word": "如何预防甲流",
+      "onboard_time": 1677812727,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200310,
       "num": 200310,
       "word": "电影保你平安",
@@ -11121,6 +11153,14 @@
       "onboard_time": 1678179507,
       "rank": 26,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 199816,
+      "num": 199816,
+      "word": "女子起诉离婚屡遭公公跟踪获保护令",
+      "onboard_time": 1678326987,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199646,
@@ -11241,14 +11281,6 @@
       "onboard_time": 1678230501,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198063,
-      "num": 198063,
-      "word": "tangoz模仿权志龙唱歌",
-      "onboard_time": 1678323150,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 198027,
@@ -14187,14 +14219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137843,
-      "num": 137843,
-      "word": "姆巴佩",
-      "onboard_time": 1678326146,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137391,
       "num": 137391,
       "word": "陕西汉中400余年古旱莲开花",
@@ -14297,6 +14321,14 @@
       "onboard_time": 1678198410,
       "rank": 46,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 135840,
+      "num": 135840,
+      "word": "分析师紧急开会提示室温超导风险",
+      "onboard_time": 1678325785,
+      "rank": 44,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 135715,
@@ -14433,14 +14465,6 @@
       "onboard_time": 1678248990,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 133133,
-      "num": 133133,
-      "word": "如何预防甲流",
-      "onboard_time": 1677812727,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133080,
@@ -15459,6 +15483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111787,
+      "num": 111787,
+      "word": "海拔4000米的界碑婚礼",
+      "onboard_time": 1678327165,
+      "rank": 37,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 111783,
       "num": 111783,
       "word": "支持见义勇为坚决反对和稀泥",
@@ -15801,14 +15833,6 @@
       "onboard_time": 1677994887,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105455,
-      "num": 105455,
-      "word": "分析师紧急开会提示室温超导风险",
-      "onboard_time": 1678325785,
-      "rank": 44,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 105358,
@@ -16257,6 +16281,14 @@
       "onboard_time": 1677842668,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95377,
+      "num": 95377,
+      "word": "谷歌追赶ChatGPT计划曝光",
+      "onboard_time": 1678326385,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 95111,
@@ -16729,6 +16761,14 @@
       "onboard_time": 1677993806,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 78515,
+      "num": 78515,
+      "word": "雷霆vs太阳",
+      "onboard_time": 1678327763,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 78129,
