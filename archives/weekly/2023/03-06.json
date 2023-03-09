@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678372576781,
+  "endTime": 1678375287474,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -49,6 +49,14 @@
       "onboard_time": 1678071507,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3046975,
+      "num": 3046975,
+      "word": "成都打雷",
+      "onboard_time": 1678373669,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2698699,
@@ -1035,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 875136,
+      "num": 731324,
+      "word": "明星最多但评分最低的电影",
+      "onboard_time": 1678369049,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 869785,
       "num": 869785,
       "word": "香港向内地9所大学毕业生开放落户",
@@ -1185,14 +1201,6 @@
       "onboard_time": 1678268548,
       "rank": 12,
       "category": "科技"
-    },
-    {
-      "raw_hot": 800859,
-      "num": 731324,
-      "word": "明星最多但评分最低的电影",
-      "onboard_time": 1678369049,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 789324,
@@ -1379,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 720176,
+      "num": 667407,
+      "word": "世界最长寿女性去世享年128岁",
+      "onboard_time": 1678369891,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 718404,
       "num": 237293,
       "word": "年薪41万董秘自掏4亿买公司股份",
@@ -1481,14 +1497,6 @@
       "onboard_time": 1678164687,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 667407,
-      "num": 667407,
-      "word": "世界最长寿女性去世享年128岁",
-      "onboard_time": 1678369891,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 667025,
@@ -2067,6 +2075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 539013,
+      "num": 315000,
+      "word": "5岁女孩故宫拍千元甄嬛照累哭",
+      "onboard_time": 1678370373,
+      "rank": 20,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 535585,
       "num": 535585,
       "word": "奇瑞回应要求员工周六上班",
@@ -2129,14 +2145,6 @@
       "onboard_time": 1678077571,
       "rank": 15,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 525001,
-      "num": 315000,
-      "word": "5岁女孩故宫拍千元甄嬛照累哭",
-      "onboard_time": 1678370373,
-      "rank": 20,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 524390,
@@ -2739,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426829,
+      "num": 426829,
+      "word": "Hero 让我心梗",
+      "onboard_time": 1678372050,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 423217,
       "num": 369030,
       "word": "李钟硕最新活动图",
@@ -2793,6 +2809,14 @@
       "onboard_time": 1678086687,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411199,
+      "num": 411199,
+      "word": "林葳三分",
+      "onboard_time": 1678372533,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 409540,
@@ -3643,6 +3667,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 323246,
+      "num": 309802,
+      "word": "王子浩投票",
+      "onboard_time": 1678372829,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322225,
       "num": 322225,
       "word": "萧亚轩分享赛琳娜采访视频",
@@ -3657,6 +3689,14 @@
       "onboard_time": 1678164511,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320547,
+      "num": 320547,
+      "word": "鲁鲁修",
+      "onboard_time": 1678370250,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 319212,
@@ -3689,6 +3729,14 @@
       "onboard_time": 1678181970,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 317257,
+      "num": 317257,
+      "word": "甘望星古装",
+      "onboard_time": 1678375109,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 317079,
@@ -3795,14 +3843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307340,
-      "num": 307340,
-      "word": "Hero 让我心梗",
-      "onboard_time": 1678372050,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 307156,
       "num": 307156,
       "word": "AppleWatch上能和ChatGPT聊天了",
@@ -3849,6 +3889,14 @@
       "onboard_time": 1678093047,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300955,
+      "num": 300955,
+      "word": "腰疼就是肾脏出问题了吗",
+      "onboard_time": 1678374209,
+      "rank": 17,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 299168,
@@ -3921,14 +3969,6 @@
       "onboard_time": 1678252048,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294695,
-      "num": 294695,
-      "word": "鲁鲁修",
-      "onboard_time": 1678370250,
-      "rank": 28,
-      "category": "动漫"
     },
     {
       "raw_hot": 294066,
@@ -4321,6 +4361,14 @@
       "onboard_time": 1678147405,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249641,
+      "num": 249641,
+      "word": "陈楚生再见07比赛吉他",
+      "onboard_time": 1678374751,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 249622,
@@ -6963,6 +7011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136702,
+      "num": 136702,
+      "word": "同曦男篮vs广厦男篮",
+      "onboard_time": 1678372772,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136664,
       "num": 136664,
       "word": "综艺里求婚名场面",
@@ -7105,6 +7161,14 @@
       "onboard_time": 1678199970,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 129517,
+      "num": 129517,
+      "word": "春节档电影香港评分",
+      "onboard_time": 1678373309,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 128966,
@@ -7289,6 +7353,14 @@
       "onboard_time": 1678024229,
       "rank": 41,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 124518,
+      "num": 124518,
+      "word": "警方通报甘孜村民多次拦车要红包",
+      "onboard_time": 1678374690,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124343,
@@ -7633,14 +7705,6 @@
       "onboard_time": 1678096106,
       "rank": 44,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 111921,
-      "num": 111921,
-      "word": "林葳三分",
-      "onboard_time": 1678372533,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 111787,
@@ -8033,6 +8097,14 @@
       "onboard_time": 1678194147,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 99285,
+      "num": 99285,
+      "word": "熊猫界也有熊孩子",
+      "onboard_time": 1678374630,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 99167,
