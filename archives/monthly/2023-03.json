@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678366711117,
+  "endTime": 1678368843787,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -81,6 +81,14 @@
       "onboard_time": 1678071507,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 3022594,
+      "num": 3022594,
+      "word": "明天下午四点只办一件事",
+      "onboard_time": 1678366948,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2976403,
@@ -1227,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1235669,
+      "num": 611539,
+      "word": "儿子不孝男子立遗嘱把财产给妻妹",
+      "onboard_time": 1678365090,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1229401,
       "num": 306244,
       "word": "迪丽热巴水晶缀饰礼服",
@@ -1987,6 +2003,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 963784,
+      "num": 586577,
+      "word": "叶舒华录小S的节目",
+      "onboard_time": 1678367307,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 958535,
       "num": 530970,
       "word": "条件不错却不谈恋爱的原因",
@@ -2219,12 +2243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 877549,
+      "num": 488057,
+      "word": "北京动物园回应蜂花称欲认养丫丫",
+      "onboard_time": 1678366588,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 875230,
       "num": 719949,
       "word": "儿子沉迷手机爸爸逼他连玩17小时",
       "onboard_time": 1678352365,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 871643,
+      "num": 871643,
+      "word": "gemini直播",
+      "onboard_time": 1678366529,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 869785,
@@ -2409,14 +2449,6 @@
       "onboard_time": 1677660569,
       "rank": 18,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 833516,
-      "num": 332591,
-      "word": "儿子不孝男子立遗嘱把财产给妻妹",
-      "onboard_time": 1678365090,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 832531,
@@ -3300,7 +3332,7 @@
     },
     {
       "raw_hot": 680392,
-      "num": 319762,
+      "num": 375548,
       "word": "徐若晗 男人装",
       "onboard_time": 1678361366,
       "rank": 26,
@@ -4795,6 +4827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 530063,
+      "num": 530063,
+      "word": "网红阿秋骑行香港自行车被偷",
+      "onboard_time": 1678364905,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529803,
       "num": 282388,
       "word": "卓文萱否认参加浪姐4",
@@ -5001,6 +5041,14 @@
       "onboard_time": 1678192045,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518518,
+      "num": 487946,
+      "word": "虞书欣教徐老师穿搭",
+      "onboard_time": 1678366408,
+      "rank": 30,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 518405,
@@ -5355,6 +5403,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 489065,
+      "num": 489065,
+      "word": "张杰击掌",
+      "onboard_time": 1678367248,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 488054,
       "num": 395466,
       "word": "博主挑战天价土豆火锅被账单吓到",
@@ -5401,6 +5457,14 @@
       "onboard_time": 1678180107,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 486169,
+      "num": 486169,
+      "word": "前两年共结算新冠疫苗及接种费1500余亿元",
+      "onboard_time": 1678365867,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 485398,
@@ -5601,6 +5665,14 @@
       "onboard_time": 1678347626,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 466182,
+      "num": 466182,
+      "word": "外媒评宋佳时装周造型",
+      "onboard_time": 1678365626,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 465456,
@@ -6995,14 +7067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 374088,
-      "num": 314882,
-      "word": "网红阿秋骑行香港自行车被偷",
-      "onboard_time": 1678364905,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 373671,
       "num": 373671,
       "word": "野生大熊猫在树上求偶",
@@ -7124,7 +7188,7 @@
     },
     {
       "raw_hot": 369417,
-      "num": 211961,
+      "num": 292079,
       "word": "兄弟俩辞职回家种地年营收1亿",
       "onboard_time": 1678359688,
       "rank": 22,
@@ -7516,7 +7580,7 @@
     },
     {
       "raw_hot": 352444,
-      "num": 299044,
+      "num": 344042,
       "word": "你在闲鱼被套路过么",
       "onboard_time": 1678364846,
       "rank": 30,
@@ -7673,6 +7737,14 @@
       "onboard_time": 1677892165,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346223,
+      "num": 346223,
+      "word": "新海诚将来中国宣传铃芽之旅",
+      "onboard_time": 1678367550,
+      "rank": 19,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 345850,
@@ -8587,6 +8659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 304687,
+      "num": 304687,
+      "word": "木村贵宏去世",
+      "onboard_time": 1678368032,
+      "rank": 22,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 304156,
       "num": 304156,
       "word": "虞书欣像戴着袖套",
@@ -8889,14 +8969,6 @@
       "onboard_time": 1678000708,
       "rank": 21,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 289829,
-      "num": 289829,
-      "word": "外媒评宋佳时装周造型",
-      "onboard_time": 1678365626,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 289313,
@@ -9627,6 +9699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261441,
+      "num": 261441,
+      "word": "郭彪重返舞台陈楚生哭了",
+      "onboard_time": 1678365929,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261325,
       "num": 261325,
       "word": "XYG折夕",
@@ -9681,6 +9761,14 @@
       "onboard_time": 1677634051,
       "rank": 24,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 257583,
+      "num": 257583,
+      "word": "U20国足vs吉尔吉斯斯坦U20",
+      "onboard_time": 1678363948,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 257131,
@@ -9761,14 +9849,6 @@
       "onboard_time": 1677719668,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253649,
-      "num": 253649,
-      "word": "郭彪重返舞台陈楚生哭了",
-      "onboard_time": 1678365929,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 253481,
@@ -11067,14 +11147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215716,
-      "num": 215716,
-      "word": "前两年共结算新冠疫苗及接种费1500余亿元",
-      "onboard_time": 1678365867,
-      "rank": 19,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 215584,
       "num": 215584,
       "word": "陈伟霆新发型",
@@ -11113,14 +11185,6 @@
       "onboard_time": 1677916346,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214135,
-      "num": 114867,
-      "word": "北京动物园回应蜂花称欲认养丫丫",
-      "onboard_time": 1678366588,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213838,
@@ -11977,14 +12041,6 @@
       "onboard_time": 1677747153,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201314,
-      "num": 148871,
-      "word": "虞书欣教徐老师穿搭",
-      "onboard_time": 1678366408,
-      "rank": 30,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 201220,
@@ -13371,6 +13427,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 181544,
+      "num": 181544,
+      "word": "心想事成",
+      "onboard_time": 1678367550,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181509,
       "num": 181509,
       "word": "加索尔球衣退役仪式",
@@ -14211,6 +14275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161907,
+      "num": 161907,
+      "word": "青葵替夜昙圆梦",
+      "onboard_time": 1678363647,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161789,
       "num": 161789,
       "word": "张杰 抢票",
@@ -14353,14 +14425,6 @@
       "onboard_time": 1678084466,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158962,
-      "num": 158962,
-      "word": "U20国足vs吉尔吉斯斯坦U20",
-      "onboard_time": 1678363948,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 158744,
@@ -14545,6 +14609,14 @@
       "onboard_time": 1678090346,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154325,
+      "num": 154325,
+      "word": "U20亚洲杯",
+      "onboard_time": 1678109847,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 154214,
@@ -15115,14 +15187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143593,
-      "num": 143593,
-      "word": "青葵替夜昙圆梦",
-      "onboard_time": 1678363647,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 143460,
       "num": 143460,
       "word": "王雨城淘汰",
@@ -15537,6 +15601,14 @@
       "onboard_time": 1677626903,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136032,
+      "num": 136032,
+      "word": "T1晋级",
+      "onboard_time": 1678367848,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 135863,
@@ -17643,14 +17715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94103,
-      "num": 94103,
-      "word": "gemini直播",
-      "onboard_time": 1678366529,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 94084,
       "num": 94084,
       "word": "武警脱作训服做绳子冰河救人",
@@ -17969,14 +18033,6 @@
       "onboard_time": 1678009047,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83059,
-      "num": 83059,
-      "word": "U20亚洲杯",
-      "onboard_time": 1678109847,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 82838,
