@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678346291381,
+  "endTime": 1678347238390,
   "band_list": [
     {
       "raw_hot": 5333620,
@@ -51,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1507063,
+      "num": 306331,
+      "word": "汇源发布认养丫丫征集令",
+      "onboard_time": 1678343845,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1407548,
       "num": 167095,
       "word": "西安流感",
@@ -88,14 +96,6 @@
       "word": "甲流发病急",
       "onboard_time": 1678320870,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1193646,
-      "num": 280709,
-      "word": "汇源发布认养丫丫征集令",
-      "onboard_time": 1678343845,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -155,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 823683,
+      "num": 384216,
+      "word": "一楼住户不同意装电梯被邻居起诉",
+      "onboard_time": 1678342585,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 813924,
       "num": 619444,
       "word": "业主购74平房屋套内仅40平",
@@ -179,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 742947,
-      "num": 384216,
-      "word": "一楼住户不同意装电梯被邻居起诉",
-      "onboard_time": 1678342585,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 720732,
       "num": 720732,
       "word": "这是缉毒女警唯一能公布的照片",
@@ -209,6 +209,14 @@
       "onboard_time": 1678333769,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 660334,
+      "num": 630133,
+      "word": "天秤座有一种独特的气质",
+      "onboard_time": 1678339290,
+      "rank": 5,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 659797,
@@ -243,12 +251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 630133,
-      "num": 630133,
-      "word": "天秤座有一种独特的气质",
-      "onboard_time": 1678339290,
-      "rank": 5,
-      "category": "情感,网红"
+      "raw_hot": 630658,
+      "num": 297976,
+      "word": "吴刚孙怡演父女",
+      "onboard_time": 1678346128,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 626173,
@@ -419,20 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411193,
+      "num": 411193,
+      "word": "该怎么给小鸡解释它的身世",
+      "onboard_time": 1678345105,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 409540,
       "num": 409540,
       "word": "00后高中老师停课带学生赏花",
       "onboard_time": 1678330648,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 390208,
-      "num": 275750,
-      "word": "吴刚孙怡演父女",
-      "onboard_time": 1678346128,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 388826,
@@ -579,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314680,
+      "num": 281857,
+      "word": "西安一高校回应被质疑封闭式管理",
+      "onboard_time": 1678343426,
+      "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 313188,
       "num": 313188,
       "word": "折腰路透",
@@ -635,12 +651,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 281857,
-      "num": 281857,
-      "word": "西安一高校回应被质疑封闭式管理",
-      "onboard_time": 1678343426,
-      "rank": 31,
-      "category": "教育,社会新闻"
+      "raw_hot": 281305,
+      "num": 281305,
+      "word": "黑暗荣耀2明天全集播出",
+      "onboard_time": 1678345406,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 276166,
@@ -707,14 +723,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 253658,
-      "num": 253658,
-      "word": "该怎么给小鸡解释它的身世",
-      "onboard_time": 1678345105,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 246446,
       "num": 246446,
       "word": "黄奕回应第一次演姐弟恋",
@@ -729,6 +737,14 @@
       "onboard_time": 1678317319,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 244535,
+      "num": 244535,
+      "word": "假如死的是夜昙",
+      "onboard_time": 1678345347,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 240392,
@@ -763,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226141,
+      "num": 226141,
+      "word": "电影忠犬八公",
+      "onboard_time": 1678345765,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223278,
       "num": 223278,
       "word": "梁朝伟想再拍电视剧",
@@ -784,14 +808,6 @@
       "word": "李一桐司命vlog",
       "onboard_time": 1678333529,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 213148,
-      "num": 213148,
-      "word": "黑暗荣耀2明天全集播出",
-      "onboard_time": 1678345406,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -859,14 +875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204189,
-      "num": 204189,
-      "word": "假如死的是夜昙",
-      "onboard_time": 1678345347,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 201693,
       "num": 201693,
       "word": "罗云熙名誉维权案件进展",
@@ -881,6 +889,14 @@
       "onboard_time": 1678339588,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200992,
+      "num": 160144,
+      "word": "刘畊宏吴尊合照",
+      "onboard_time": 1678346366,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 200501,
@@ -947,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190050,
+      "num": 160106,
+      "word": "黑暗荣耀见面会现场照片",
+      "onboard_time": 1678346665,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187624,
       "num": 163370,
       "word": "印度首次成为苹果自主销售地区",
@@ -955,12 +979,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 181372,
-      "num": 181372,
-      "word": "电影忠犬八公",
-      "onboard_time": 1678345765,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 181330,
+      "num": 181330,
+      "word": "只有熊猫吧唧嘴不招人烦",
+      "onboard_time": 1678346244,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178441,
@@ -1067,6 +1091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 159756,
+      "num": 159756,
+      "word": "男子斜坡停车忘挂档险溜进海里",
+      "onboard_time": 1678344686,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158317,
       "num": 158317,
       "word": "农民工大哥火车上用盆炫10袋泡面",
@@ -1128,14 +1160,6 @@
       "word": "视障女孩走盲道被突出景观造型撞到",
       "onboard_time": 1678304471,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150585,
-      "num": 150585,
-      "word": "男子斜坡停车忘挂档险溜进海里",
-      "onboard_time": 1678344686,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1339,12 +1363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103072,
-      "num": 103072,
-      "word": "只有熊猫吧唧嘴不招人烦",
-      "onboard_time": 1678346244,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 104896,
+      "num": 104896,
+      "word": "清华开发出智能可穿戴人工喉咙",
+      "onboard_time": 1678347207,
+      "rank": 46,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 101831,

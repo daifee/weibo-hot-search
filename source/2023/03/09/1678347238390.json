@@ -1,0 +1,410 @@
+{
+  "runTime": 1678347238390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1982659,
+        "num": 1982659,
+        "word": "建议在农村淘汰老头乐",
+        "onboard_time": 1678340967,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459556,
+        "num": 459556,
+        "word": "海关查获人体模型内藏活体植物根茎",
+        "onboard_time": 1678339408,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34613,
+        "num": 415789,
+        "word": "青春主场",
+        "onboard_time": 1678331847,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660334,
+        "num": 413567,
+        "word": "天秤座有一种独特的气质",
+        "onboard_time": 1678339290,
+        "rank": 3,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 619460,
+        "num": 413042,
+        "word": "成龙进组20天把半年的封闭用完了",
+        "onboard_time": 1678332630,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411193,
+        "num": 411193,
+        "word": "该怎么给小鸡解释它的身世",
+        "onboard_time": 1678345105,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 355654,
+        "num": 355654,
+        "word": "说唱女歌手转行卖烧烤年入百万",
+        "onboard_time": 1678333950,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354485,
+        "num": 354485,
+        "word": "大学生若隐若现的礼貌",
+        "onboard_time": 1678337493,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 346139,
+        "num": 346139,
+        "word": "杨幂 微博之夜",
+        "onboard_time": 1678340189,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312147,
+        "num": 312147,
+        "word": "短道世锦赛林孝埈出战两单项",
+        "onboard_time": 1678342889,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1507063,
+        "num": 306331,
+        "word": "汇源发布认养丫丫征集令",
+        "onboard_time": 1678343845,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823683,
+        "num": 300850,
+        "word": "一楼住户不同意装电梯被邻居起诉",
+        "onboard_time": 1678342585,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630658,
+        "num": 297976,
+        "word": "吴刚孙怡演父女",
+        "onboard_time": 1678346128,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376101,
+        "num": 292660,
+        "word": "黄奕自曝还珠格格影响了自己的爱情观",
+        "onboard_time": 1678329326,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371281,
+        "num": 283181,
+        "word": "肖战魏无羡又登剧集角色新媒体指数",
+        "onboard_time": 1678339890,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281305,
+        "num": 281305,
+        "word": "黑暗荣耀2明天全集播出",
+        "onboard_time": 1678345406,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274616,
+        "num": 274616,
+        "word": "业主购74平房屋套内仅40平",
+        "onboard_time": 1678334070,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 244535,
+        "num": 244535,
+        "word": "假如死的是夜昙",
+        "onboard_time": 1678345347,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243864,
+        "num": 243864,
+        "word": "椰树推出猛男直播销售额不到1千",
+        "onboard_time": 1678332087,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226141,
+        "num": 226141,
+        "word": "电影忠犬八公",
+        "onboard_time": 1678345765,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1077051,
+        "num": 216237,
+        "word": "香港名媛碎尸案一潘姓女网红被抓",
+        "onboard_time": 1678332267,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 384345,
+        "num": 215075,
+        "word": "4岁男童将扳手塞进爸爸嘴里被吞下",
+        "onboard_time": 1678335812,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200412,
+        "num": 200412,
+        "word": "王铮亮推荐张远上元宵晚会",
+        "onboard_time": 1678342646,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198423,
+        "num": 198423,
+        "word": "今年五一档已定档10部新片",
+        "onboard_time": 1678333769,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187811,
+        "num": 187811,
+        "word": "考研国家线什么时候能出",
+        "onboard_time": 1678328785,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181330,
+        "num": 181330,
+        "word": "只有熊猫吧唧嘴不招人烦",
+        "onboard_time": 1678346244,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177875,
+        "num": 177875,
+        "word": "冯小刚非诚勿扰3备案",
+        "onboard_time": 1678340786,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166909,
+        "num": 166909,
+        "word": "90后校友未兑现1100万捐赠被诉",
+        "onboard_time": 1678332387,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 161785,
+        "num": 161785,
+        "word": "安以轩老公陈荣炼案将宣判",
+        "onboard_time": 1678330285,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152938,
+        "num": 160469,
+        "word": "甲流发病急",
+        "onboard_time": 1678320870,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200992,
+        "num": 160144,
+        "word": "刘畊宏吴尊合照",
+        "onboard_time": 1678346366,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190050,
+        "num": 160106,
+        "word": "黑暗荣耀见面会现场照片",
+        "onboard_time": 1678346665,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159756,
+        "num": 159756,
+        "word": "男子斜坡停车忘挂档险溜进海里",
+        "onboard_time": 1678344686,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155520,
+        "num": 155520,
+        "word": "赵丽颖花千骨剧组旧照",
+        "onboard_time": 1678336715,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150293,
+        "num": 150293,
+        "word": "青葵是孟子义的班主任",
+        "onboard_time": 1678333108,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149499,
+        "num": 149499,
+        "word": "SHE聚会",
+        "onboard_time": 1678334970,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314680,
+        "num": 148333,
+        "word": "西安一高校回应被质疑封闭式管理",
+        "onboard_time": 1678343426,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 136009,
+        "num": 136009,
+        "word": "杨紫199爱路透",
+        "onboard_time": 1678342527,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584452,
+        "num": 132131,
+        "word": "西安一学院白天没课也不能回宿舍",
+        "onboard_time": 1678340248,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 118260,
+        "num": 118260,
+        "word": "女子自拍被小鸡一口啄出美瞳",
+        "onboard_time": 1678329865,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117703,
+        "num": 117703,
+        "word": "王鹤棣杂志live图",
+        "onboard_time": 1678344806,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113665,
+        "num": 113665,
+        "word": "庆余年2面试群演",
+        "onboard_time": 1678328063,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112288,
+        "num": 112288,
+        "word": "华为P60获经销商大量预订",
+        "onboard_time": 1678328545,
+        "rank": 42,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 321241,
+        "num": 111499,
+        "word": "赛琳娜海莉同场活动",
+        "onboard_time": 1678338512,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108990,
+        "num": 108990,
+        "word": "魏大勋鱼的记忆",
+        "onboard_time": 1678344327,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107047,
+        "num": 107047,
+        "word": "夜昙废了天帝修为",
+        "onboard_time": 1678336776,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104896,
+        "num": 104896,
+        "word": "清华开发出智能可穿戴人工喉咙",
+        "onboard_time": 1678347207,
+        "rank": 46,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 104511,
+        "num": 104511,
+        "word": "每天少睡一两个小时算熬夜吗",
+        "onboard_time": 1678317381,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102378,
+        "num": 102378,
+        "word": "迪丽热巴时装3月刊",
+        "onboard_time": 1678337557,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101967,
+        "num": 101967,
+        "word": "汽车全面降价的时代来了吗",
+        "onboard_time": 1678322609,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#10组数据看司法为民的力度和温度#"
+    }
+  }
+}
