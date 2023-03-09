@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678330494895,
+  "endTime": 1678331083949,
   "band_list": [
     {
       "raw_hot": 1530365,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1125090,
+      "num": 456151,
+      "word": "黄奕自曝还珠格格影响了自己的爱情观",
+      "onboard_time": 1678329326,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1033777,
       "num": 802535,
       "word": "庆余年2面试群演",
@@ -59,20 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 834442,
-      "num": 834442,
+      "raw_hot": 849726,
+      "num": 455764,
+      "word": "安以轩老公陈荣炼案将宣判",
+      "onboard_time": 1678330285,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 840851,
+      "num": 840851,
       "word": "请在里面找出花花",
       "onboard_time": 1678325246,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 804917,
-      "num": 418851,
-      "word": "黄奕自曝还珠格格影响了自己的爱情观",
-      "onboard_time": 1678329326,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 720732,
@@ -83,12 +91,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687078,
+      "num": 687078,
+      "word": "罪犯子女考公限制要不要取消",
+      "onboard_time": 1678329626,
+      "rank": 12,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 659797,
       "num": 659797,
       "word": "北溪管道被炸是亲乌团体所为",
       "onboard_time": 1678301771,
       "rank": 14,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 657911,
+      "num": 657911,
+      "word": "华为P60获经销商大量预订",
+      "onboard_time": 1678328545,
+      "rank": 6,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 655099,
@@ -105,14 +129,6 @@
       "onboard_time": 1678326146,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 605070,
-      "num": 605070,
-      "word": "华为P60获经销商大量预订",
-      "onboard_time": 1678328545,
-      "rank": 6,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 574694,
@@ -171,12 +187,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 446714,
-      "num": 413486,
-      "word": "安以轩老公陈荣炼案将宣判",
-      "onboard_time": 1678330285,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 456382,
+      "num": 456382,
+      "word": "官方回应甘孜村民多次拦车要红包",
+      "onboard_time": 1678329146,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455361,
+      "num": 455361,
+      "word": "考研国家线什么时候能出",
+      "onboard_time": 1678328785,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 433085,
@@ -187,28 +211,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 430769,
-      "num": 430769,
-      "word": "考研国家线什么时候能出",
-      "onboard_time": 1678328785,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 416454,
       "num": 261201,
       "word": "中方已完成所有丫丫回国审批事项",
       "onboard_time": 1678275566,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400258,
-      "num": 400258,
-      "word": "罪犯子女考公限制要不要取消",
-      "onboard_time": 1678329626,
-      "rank": 12,
-      "category": "社会议题"
     },
     {
       "raw_hot": 378440,
@@ -259,19 +267,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357931,
+      "num": 357931,
+      "word": "51岁失独妈妈绝境中创业成董事长",
+      "onboard_time": 1678329626,
+      "rank": 22,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 352146,
       "num": 352146,
       "word": "女子起诉离婚屡遭公公跟踪获保护令",
       "onboard_time": 1678326987,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348808,
-      "num": 348808,
-      "word": "官方回应甘孜村民多次拦车要红包",
-      "onboard_time": 1678329146,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -297,6 +305,22 @@
       "onboard_time": 1678318103,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 317273,
+      "num": 303731,
+      "word": "女子自拍被小鸡一口啄出美瞳",
+      "onboard_time": 1678329865,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313188,
+      "num": 313188,
+      "word": "折腰路透",
+      "onboard_time": 1678329987,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 312150,
@@ -331,11 +355,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 294698,
-      "num": 294698,
-      "word": "折腰路透",
-      "onboard_time": 1678329987,
-      "rank": 20,
+      "raw_hot": 284713,
+      "num": 284713,
+      "word": "黑暗荣耀",
+      "onboard_time": 1678330648,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -361,14 +385,6 @@
       "onboard_time": 1678324586,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 258418,
-      "num": 258418,
-      "word": "51岁失独妈妈绝境中创业成董事长",
-      "onboard_time": 1678329626,
-      "rank": 22,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 246446,
@@ -403,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226251,
+      "num": 226251,
+      "word": "杨超越粉裙造型",
+      "onboard_time": 1678331007,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 216999,
       "num": 164757,
       "word": "吴昕喝银耳酸梅鲫鱼汤养生",
@@ -411,8 +435,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206869,
-      "num": 206869,
+      "raw_hot": 214188,
+      "num": 214188,
       "word": "辛巴在直播间指责快手人气造假",
       "onboard_time": 1678328486,
       "rank": 26,
@@ -425,6 +449,14 @@
       "onboard_time": 1678317561,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206665,
+      "num": 206665,
+      "word": "毛不易献唱保你平安主题曲",
+      "onboard_time": 1678330046,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 206502,
@@ -451,27 +483,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203507,
-      "num": 203507,
-      "word": "毛不易献唱保你平安主题曲",
-      "onboard_time": 1678330046,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 200501,
       "num": 150016,
       "word": "如何预防甲流",
       "onboard_time": 1678327584,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194491,
-      "num": 194491,
-      "word": "女子自拍被小鸡一口啄出美瞳",
-      "onboard_time": 1678329865,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -563,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158289,
+      "num": 158289,
+      "word": "人不会只去一次杭州",
+      "onboard_time": 1678329688,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 155536,
       "num": 170085,
       "word": "宋茜用发圈扎T恤",
@@ -611,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149043,
+      "num": 149043,
+      "word": "00后高中老师停课带学生赏花",
+      "onboard_time": 1678330648,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 144819,
       "num": 270924,
       "word": "制片人谈重紫选角",
@@ -635,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139505,
-      "num": 139505,
-      "word": "人不会只去一次杭州",
-      "onboard_time": 1678329688,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 137888,
       "num": 248622,
       "word": "中国承办奥运排球资格赛",
@@ -664,6 +688,14 @@
       "word": "王一博看保你平安",
       "onboard_time": 1678318283,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 132708,
+      "num": 132708,
+      "word": "保你平安 有笑有泪",
+      "onboard_time": 1678330946,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -699,6 +731,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116652,
+      "num": 116652,
+      "word": "不良人",
+      "onboard_time": 1678331066,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 115607,
+      "num": 115607,
+      "word": "两会热词学习笔记",
+      "onboard_time": 1678330168,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 115118,
       "num": 115118,
       "word": "推特广告收入下降50%",
@@ -713,6 +761,14 @@
       "onboard_time": 1678287330,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 114100,
+      "num": 114100,
+      "word": "甲流抗原有必要用吗",
+      "onboard_time": 1678330405,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113224,
@@ -747,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103280,
-      "num": 102310,
-      "word": "甲流抗原有必要用吗",
-      "onboard_time": 1678330405,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101831,
       "num": 268541,
       "word": "星落凝成糖",
@@ -763,20 +811,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 98064,
+      "num": 98064,
+      "word": "马相亲的脾气这么大",
+      "onboard_time": 1678327824,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97416,
       "num": 97416,
       "word": "农村大姐用生活中动作指挥乐队",
       "onboard_time": 1678321890,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96428,
-      "num": 96428,
-      "word": "马相亲的脾气这么大",
-      "onboard_time": 1678327824,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 95543,
@@ -793,14 +841,6 @@
       "onboard_time": 1678326385,
       "rank": 43,
       "category": "科技"
-    },
-    {
-      "raw_hot": 94575,
-      "num": 94575,
-      "word": "两会热词学习笔记",
-      "onboard_time": 1678330168,
-      "rank": 46,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 94006,
@@ -1036,6 +1076,9 @@
     },
     {
       "word": "#2023两会好声音#"
+    },
+    {
+      "word": "#10组数据看司法为民的力度和温度#"
     }
   ]
 }

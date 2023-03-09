@@ -1,0 +1,410 @@
+{
+  "runTime": 1678331083949,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 966693,
+        "num": 966693,
+        "word": "女子入职被公司乐捐制度吓退",
+        "onboard_time": 1678319066,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 840851,
+        "num": 840851,
+        "word": "请在里面找出花花",
+        "onboard_time": 1678325246,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9956,
+        "num": 743665,
+        "word": "两高报告十大关键词",
+        "onboard_time": 1678235129,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 891962,
+        "num": 730673,
+        "word": "庆余年2面试群演",
+        "onboard_time": 1678328063,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 714874,
+        "num": 714874,
+        "word": "每天少睡一两个小时算熬夜吗",
+        "onboard_time": 1678317381,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687078,
+        "num": 687078,
+        "word": "罪犯子女考公限制要不要取消",
+        "onboard_time": 1678329626,
+        "rank": 5,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 657911,
+        "num": 657911,
+        "word": "华为P60获经销商大量预订",
+        "onboard_time": 1678328545,
+        "rank": 6,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 629941,
+        "num": 629941,
+        "word": "姆巴佩",
+        "onboard_time": 1678326146,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529453,
+        "num": 529453,
+        "word": "甲流发病急",
+        "onboard_time": 1678320870,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456382,
+        "num": 456382,
+        "word": "官方回应甘孜村民多次拦车要红包",
+        "onboard_time": 1678329146,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125090,
+        "num": 456151,
+        "word": "黄奕自曝还珠格格影响了自己的爱情观",
+        "onboard_time": 1678329326,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 849726,
+        "num": 455764,
+        "word": "安以轩老公陈荣炼案将宣判",
+        "onboard_time": 1678330285,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455361,
+        "num": 455361,
+        "word": "考研国家线什么时候能出",
+        "onboard_time": 1678328785,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 419960,
+        "num": 419960,
+        "word": "汽车全面降价的时代来了吗",
+        "onboard_time": 1678322609,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 364991,
+        "num": 364991,
+        "word": "安能辨我是猫狗",
+        "onboard_time": 1678328125,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 357931,
+        "num": 357931,
+        "word": "51岁失独妈妈绝境中创业成董事长",
+        "onboard_time": 1678329626,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 346503,
+        "num": 346503,
+        "word": "梁朝伟谈与王一博拍摄打斗戏",
+        "onboard_time": 1678326625,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323954,
+        "num": 323954,
+        "word": "杜兰特左脚踝受伤",
+        "onboard_time": 1678328904,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313188,
+        "num": 313188,
+        "word": "折腰路透",
+        "onboard_time": 1678329987,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310141,
+        "num": 310141,
+        "word": "女子起诉离婚屡遭公公跟踪获保护令",
+        "onboard_time": 1678326987,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317273,
+        "num": 303731,
+        "word": "女子自拍被小鸡一口啄出美瞳",
+        "onboard_time": 1678329865,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296343,
+        "num": 296343,
+        "word": "这是缉毒女警唯一能公布的照片",
+        "onboard_time": 1678317080,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284713,
+        "num": 284713,
+        "word": "黑暗荣耀",
+        "onboard_time": 1678330648,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235964,
+        "num": 235964,
+        "word": "室温超导",
+        "onboard_time": 1678321590,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226343,
+        "num": 226343,
+        "word": "台黑帮五星级酒店高调办晚宴",
+        "onboard_time": 1678322072,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226251,
+        "num": 226251,
+        "word": "杨超越粉裙造型",
+        "onboard_time": 1678331007,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220731,
+        "num": 220731,
+        "word": "梅西连续3年无缘欧冠8强",
+        "onboard_time": 1678319548,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218875,
+        "num": 218875,
+        "word": "金智秀solo主打预告照",
+        "onboard_time": 1678318103,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214188,
+        "num": 214188,
+        "word": "辛巴在直播间指责快手人气造假",
+        "onboard_time": 1678328486,
+        "rank": 28,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 206665,
+        "num": 206665,
+        "word": "毛不易献唱保你平安主题曲",
+        "onboard_time": 1678330046,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202674,
+        "num": 202674,
+        "word": "小学生拾金不昧获每年6千元助学金",
+        "onboard_time": 1678325545,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186226,
+        "num": 186226,
+        "word": "年薪41万董秘自掏4亿买公司股份",
+        "onboard_time": 1678284870,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 175426,
+        "num": 175426,
+        "word": "小美人鱼新海报",
+        "onboard_time": 1678324586,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158289,
+        "num": 158289,
+        "word": "人不会只去一次杭州",
+        "onboard_time": 1678329688,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154911,
+        "num": 154911,
+        "word": "东风汽车降价",
+        "onboard_time": 1678322849,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149043,
+        "num": 149043,
+        "word": "00后高中老师停课带学生赏花",
+        "onboard_time": 1678330648,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 145714,
+        "num": 145714,
+        "word": "星落凝成糖复仇版剧照",
+        "onboard_time": 1678328725,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141023,
+        "num": 141023,
+        "word": "管泽元直播回应",
+        "onboard_time": 1678317319,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132708,
+        "num": 132708,
+        "word": "保你平安 有笑有泪",
+        "onboard_time": 1678330946,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127258,
+        "num": 127258,
+        "word": "NCT道在廷将上半年出道",
+        "onboard_time": 1678323988,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120123,
+        "num": 120123,
+        "word": "滚筒洗衣机运镜",
+        "onboard_time": 1678320809,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116652,
+        "num": 116652,
+        "word": "不良人",
+        "onboard_time": 1678331066,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115607,
+        "num": 115607,
+        "word": "两会热词学习笔记",
+        "onboard_time": 1678330168,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 114100,
+        "num": 114100,
+        "word": "甲流抗原有必要用吗",
+        "onboard_time": 1678330405,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111933,
+        "num": 111933,
+        "word": "tangoz模仿权志龙唱歌",
+        "onboard_time": 1678323150,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103959,
+        "num": 103959,
+        "word": "无限超越班 TVB",
+        "onboard_time": 1678319306,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98064,
+        "num": 98064,
+        "word": "马相亲的脾气这么大",
+        "onboard_time": 1678327824,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96236,
+        "num": 96236,
+        "word": "印度首次成为苹果自主销售地区",
+        "onboard_time": 1678318162,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 93748,
+        "num": 93748,
+        "word": "青你选手徐炳超卖包子",
+        "onboard_time": 1678282348,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92786,
+        "num": 92786,
+        "word": "如何预防甲流",
+        "onboard_time": 1678327584,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#10组数据看司法为民的力度和温度#"
+    }
+  }
+}
