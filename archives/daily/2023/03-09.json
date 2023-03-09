@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678365557001,
+  "endTime": 1678366711117,
   "band_list": [
     {
       "raw_hot": 5333620,
@@ -187,6 +187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 833516,
+      "num": 332591,
+      "word": "儿子不孝男子立遗嘱把财产给妻妹",
+      "onboard_time": 1678365090,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 832531,
       "num": 832531,
       "word": "俄罗斯空袭乌克兰多个地区",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 680392,
-      "num": 318417,
+      "num": 319762,
       "word": "徐若晗 男人装",
       "onboard_time": 1678361366,
       "rank": 26,
@@ -281,6 +289,14 @@
       "onboard_time": 1678333950,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664803,
+      "num": 664803,
+      "word": "安福路居民吐槽网红街拍",
+      "onboard_time": 1678362446,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 660830,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 641506,
-      "num": 518420,
+      "num": 587425,
       "word": "刘诗诗 微博之夜",
       "onboard_time": 1678363827,
       "rank": 3,
@@ -491,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540232,
+      "num": 540232,
+      "word": "内娱名品落泪",
+      "onboard_time": 1678362989,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 540046,
       "num": 264105,
       "word": "黎姿首次正面回应退圈原因",
@@ -520,14 +544,6 @@
       "word": "杨幂 微博之夜",
       "onboard_time": 1678340189,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 515470,
-      "num": 515470,
-      "word": "安福路居民吐槽网红街拍",
-      "onboard_time": 1678362446,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -609,14 +625,6 @@
       "onboard_time": 1678362807,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 448665,
-      "num": 448665,
-      "word": "内娱名品落泪",
-      "onboard_time": 1678362989,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 441875,
@@ -739,6 +747,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 374088,
+      "num": 314882,
+      "word": "网红阿秋骑行香港自行车被偷",
+      "onboard_time": 1678364905,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371380,
       "num": 327365,
       "word": "大鹏晒与王一博合照",
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 369417,
-      "num": 210495,
+      "num": 211961,
       "word": "兄弟俩辞职回家种地年营收1亿",
       "onboard_time": 1678359688,
       "rank": 22,
@@ -811,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 352444,
+      "num": 299044,
+      "word": "你在闲鱼被套路过么",
+      "onboard_time": 1678364846,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 352146,
       "num": 352146,
       "word": "女子起诉离婚屡遭公公跟踪获保护令",
@@ -825,6 +849,14 @@
       "onboard_time": 1678359807,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343136,
+      "num": 343136,
+      "word": "EDG晋级春季季后赛",
+      "onboard_time": 1678363467,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 341768,
@@ -865,14 +897,6 @@
       "onboard_time": 1678340786,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 327963,
-      "num": 327963,
-      "word": "EDG晋级春季季后赛",
-      "onboard_time": 1678363467,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 324774,
@@ -963,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289829,
+      "num": 289829,
+      "word": "外媒评宋佳时装周造型",
+      "onboard_time": 1678365626,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 289057,
       "num": 289057,
       "word": "夜昙废了天帝修为",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1678352066,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 253649,
+      "num": 253649,
+      "word": "郭彪重返舞台陈楚生哭了",
+      "onboard_time": 1678365929,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 246446,
@@ -1147,12 +1187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215716,
+      "num": 215716,
+      "word": "前两年共结算新冠疫苗及接种费1500余亿元",
+      "onboard_time": 1678365867,
+      "rank": 19,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 215227,
       "num": 215227,
       "word": "李一桐司命vlog",
       "onboard_time": 1678333529,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214135,
+      "num": 114867,
+      "word": "北京动物园回应蜂花称欲认养丫丫",
+      "onboard_time": 1678366588,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208065,
@@ -1251,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201314,
+      "num": 148871,
+      "word": "虞书欣教徐老师穿搭",
+      "onboard_time": 1678366408,
+      "rank": 30,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 201015,
       "num": 201015,
       "word": "光与夜之恋",
@@ -1267,20 +1331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200779,
-      "num": 132287,
-      "word": "你在闲鱼被套路过么",
-      "onboard_time": 1678364846,
-      "rank": 30,
-      "category": "其它"
-    },
-    {
       "raw_hot": 200501,
       "num": 150016,
       "word": "如何预防甲流",
       "onboard_time": 1678327584,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200318,
+      "num": 200318,
+      "word": "孙想超市抓小偷",
+      "onboard_time": 1678366166,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 199154,
@@ -1531,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158962,
+      "num": 158962,
+      "word": "U20国足vs吉尔吉斯斯坦U20",
+      "onboard_time": 1678363948,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158317,
       "num": 158317,
       "word": "农民工大哥火车上用盆炫10袋泡面",
@@ -1563,14 +1635,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 154457,
-      "num": 154457,
-      "word": "网红阿秋骑行香港自行车被偷",
-      "onboard_time": 1678364905,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153650,
       "num": 153650,
       "word": "星落凝成糖复仇版剧照",
@@ -1593,14 +1657,6 @@
       "onboard_time": 1678286671,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152029,
-      "num": 132257,
-      "word": "儿子不孝男子立遗嘱把财产给妻妹",
-      "onboard_time": 1678365090,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151389,
@@ -1667,6 +1723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144687,
+      "num": 144687,
+      "word": "国台办回应恢复部分两岸直航航点",
+      "onboard_time": 1678364546,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 144118,
       "num": 100118,
       "word": "萌兰",
@@ -1681,6 +1745,14 @@
       "onboard_time": 1678332028,
       "rank": 37,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 143593,
+      "num": 143593,
+      "word": "青葵替夜昙圆梦",
+      "onboard_time": 1678363647,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 143164,
@@ -1755,22 +1827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 130834,
-      "num": 130834,
-      "word": "青葵替夜昙圆梦",
-      "onboard_time": 1678363647,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 129809,
-      "num": 129809,
-      "word": "U20国足vs吉尔吉斯斯坦U20",
-      "onboard_time": 1678363948,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127842,
       "num": 127842,
       "word": "奥比岛1.9",
@@ -1793,14 +1849,6 @@
       "onboard_time": 1678290567,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 125911,
-      "num": 125911,
-      "word": "国台办回应恢复部分两岸直航航点",
-      "onboard_time": 1678364546,
-      "rank": 37,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 122669,
@@ -1971,6 +2019,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 94103,
+      "num": 94103,
+      "word": "gemini直播",
+      "onboard_time": 1678366529,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94006,
       "num": 165680,
       "word": "超导",
@@ -2009,6 +2065,14 @@
       "onboard_time": 1678326025,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 85115,
+      "num": 85115,
+      "word": "nv雨林吃鸡",
+      "onboard_time": 1678366289,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 81183,
@@ -2234,6 +2298,9 @@
     },
     {
       "word": "#全国两会时光#"
+    },
+    {
+      "word": "#习近平的两会时间#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678365557001,
+  "endTime": 1678366711117,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -1043,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 833516,
+      "num": 332591,
+      "word": "儿子不孝男子立遗嘱把财产给妻妹",
+      "onboard_time": 1678365090,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 832531,
       "num": 832531,
       "word": "俄罗斯空袭乌克兰多个地区",
@@ -1356,7 +1364,7 @@
     },
     {
       "raw_hot": 680392,
-      "num": 318417,
+      "num": 319762,
       "word": "徐若晗 男人装",
       "onboard_time": 1678361366,
       "rank": 26,
@@ -1425,6 +1433,14 @@
       "onboard_time": 1678157366,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 664803,
+      "num": 664803,
+      "word": "安福路居民吐槽网红街拍",
+      "onboard_time": 1678362446,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 660830,
@@ -1540,7 +1556,7 @@
     },
     {
       "raw_hot": 641506,
-      "num": 518420,
+      "num": 587425,
       "word": "刘诗诗 微博之夜",
       "onboard_time": 1678363827,
       "rank": 3,
@@ -1955,6 +1971,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 540232,
+      "num": 540232,
+      "word": "内娱名品落泪",
+      "onboard_time": 1678362989,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 535585,
       "num": 535585,
       "word": "奇瑞回应要求员工周六上班",
@@ -2128,14 +2152,6 @@
       "word": "杨幂 微博之夜",
       "onboard_time": 1678340189,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 515470,
-      "num": 515470,
-      "word": "安福路居民吐槽网红街拍",
-      "onboard_time": 1678362446,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -2481,14 +2497,6 @@
       "onboard_time": 1678196848,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 448665,
-      "num": 448665,
-      "word": "内娱名品落泪",
-      "onboard_time": 1678362989,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 445228,
@@ -2963,6 +2971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 374088,
+      "num": 314882,
+      "word": "网红阿秋骑行香港自行车被偷",
+      "onboard_time": 1678364905,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372477,
       "num": 372477,
       "word": "59岁自驾阿姨穿上了属于自己的婚纱",
@@ -3004,7 +3020,7 @@
     },
     {
       "raw_hot": 369417,
-      "num": 210495,
+      "num": 211961,
       "word": "兄弟俩辞职回家种地年营收1亿",
       "onboard_time": 1678359688,
       "rank": 22,
@@ -3211,6 +3227,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 352444,
+      "num": 299044,
+      "word": "你在闲鱼被套路过么",
+      "onboard_time": 1678364846,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 352146,
       "num": 352146,
       "word": "女子起诉离婚屡遭公公跟踪获保护令",
@@ -3305,6 +3329,14 @@
       "onboard_time": 1678069166,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343136,
+      "num": 343136,
+      "word": "EDG晋级春季季后赛",
+      "onboard_time": 1678363467,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 342833,
@@ -3448,14 +3480,6 @@
       "word": "电竞教练带队员盗卖俱乐部硬件获刑",
       "onboard_time": 1678184850,
       "rank": 35,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 327963,
-      "num": 327963,
-      "word": "EDG晋级春季季后赛",
-      "onboard_time": 1678363467,
-      "rank": 9,
       "category": "游戏"
     },
     {
@@ -3787,6 +3811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289829,
+      "num": 289829,
+      "word": "外媒评宋佳时装周造型",
+      "onboard_time": 1678365626,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 289313,
       "num": 289313,
       "word": "感动中国淘宝店主7成员工是残疾人",
@@ -4089,6 +4121,14 @@
       "onboard_time": 1678107328,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 253649,
+      "num": 253649,
+      "word": "郭彪重返舞台陈楚生哭了",
+      "onboard_time": 1678365929,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 253151,
@@ -4611,12 +4651,28 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 215716,
+      "num": 215716,
+      "word": "前两年共结算新冠疫苗及接种费1500余亿元",
+      "onboard_time": 1678365867,
+      "rank": 19,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 215227,
       "num": 215227,
       "word": "李一桐司命vlog",
       "onboard_time": 1678333529,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214135,
+      "num": 114867,
+      "word": "北京动物园回应蜂花称欲认养丫丫",
+      "onboard_time": 1678366588,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213838,
@@ -5043,6 +5099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201314,
+      "num": 148871,
+      "word": "虞书欣教徐老师穿搭",
+      "onboard_time": 1678366408,
+      "rank": 30,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 201220,
       "num": 201220,
       "word": "晚八点音乐会",
@@ -5067,14 +5131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200779,
-      "num": 132287,
-      "word": "你在闲鱼被套路过么",
-      "onboard_time": 1678364846,
-      "rank": 30,
-      "category": "其它"
-    },
-    {
       "raw_hot": 200667,
       "num": 200667,
       "word": "再也不配说胖得像猪了",
@@ -5089,6 +5145,14 @@
       "onboard_time": 1678327584,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200318,
+      "num": 200318,
+      "word": "孙想超市抓小偷",
+      "onboard_time": 1678366166,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 200310,
@@ -6243,6 +6307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158962,
+      "num": 158962,
+      "word": "U20国足vs吉尔吉斯斯坦U20",
+      "onboard_time": 1678363948,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158734,
       "num": 158734,
       "word": "感动中国年度人物颁奖",
@@ -6315,14 +6387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 154457,
-      "num": 154457,
-      "word": "网红阿秋骑行香港自行车被偷",
-      "onboard_time": 1678364905,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153815,
       "num": 153815,
       "word": "谢彬彬张淼怡新剧开机",
@@ -6361,14 +6425,6 @@
       "onboard_time": 1678334249,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152029,
-      "num": 132257,
-      "word": "儿子不孝男子立遗嘱把财产给妻妹",
-      "onboard_time": 1678365090,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151733,
@@ -6547,6 +6603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144687,
+      "num": 144687,
+      "word": "国台办回应恢复部分两岸直航航点",
+      "onboard_time": 1678364546,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 144082,
       "num": 144082,
       "word": "室温超导商标抢注被驳回",
@@ -6569,6 +6633,14 @@
       "onboard_time": 1678145361,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143593,
+      "num": 143593,
+      "word": "青葵替夜昙圆梦",
+      "onboard_time": 1678363647,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 143164,
@@ -6819,14 +6891,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 130834,
-      "num": 130834,
-      "word": "青葵替夜昙圆梦",
-      "onboard_time": 1678363647,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 130569,
       "num": 130569,
       "word": "宋茜舞台",
@@ -6848,14 +6912,6 @@
       "word": "2023WCBA总决赛",
       "onboard_time": 1678195225,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 129809,
-      "num": 129809,
-      "word": "U20国足vs吉尔吉斯斯坦U20",
-      "onboard_time": 1678363948,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -7009,14 +7065,6 @@
       "onboard_time": 1678159766,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125911,
-      "num": 125911,
-      "word": "国台办回应恢复部分两岸直航航点",
-      "onboard_time": 1678364546,
-      "rank": 37,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 125842,
@@ -7955,6 +8003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 94103,
+      "num": 94103,
+      "word": "gemini直播",
+      "onboard_time": 1678366529,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94084,
       "num": 94084,
       "word": "武警脱作训服做绳子冰河救人",
@@ -8073,6 +8129,14 @@
       "onboard_time": 1678065445,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85115,
+      "num": 85115,
+      "word": "nv雨林吃鸡",
+      "onboard_time": 1678366289,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 84659,
