@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678404053958,
+  "endTime": 1678404878242,
   "band_list": [
     {
       "raw_hot": 1790566,
@@ -19,12 +19,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 736224,
+      "raw_hot": 742871,
       "num": 465392,
       "word": "最可惜的内娱组合",
       "onboard_time": 1678369049,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 702573,
+      "num": 254952,
+      "word": "丫丫回国将实现吃喝自由",
+      "onboard_time": 1678403839,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 665555,
+      "num": 265009,
+      "word": "明星最多但评分最低的电影",
+      "onboard_time": 1678369049,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 608404,
@@ -33,14 +49,6 @@
       "onboard_time": 1678375829,
       "rank": 4,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 588384,
-      "num": 265009,
-      "word": "明星最多但评分最低的电影",
-      "onboard_time": 1678369049,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 567532,
@@ -67,15 +75,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 373194,
-      "num": 240324,
+      "raw_hot": 410430,
+      "num": 250661,
       "word": "儿子不孝男子立遗嘱把财产给妻妹",
       "onboard_time": 1678365090,
       "rank": 10,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 363786,
+      "raw_hot": 387456,
       "num": 530062,
       "word": "甲流病毒进入人体后会经历什么",
       "onboard_time": 1678356207,
@@ -83,8 +91,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324461,
+      "num": 144692,
+      "word": "5岁女孩故宫拍千元甄嬛照累哭",
+      "onboard_time": 1678370373,
+      "rank": 21,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 290961,
-      "num": 219454,
+      "num": 248776,
       "word": "世界最长寿女性去世享年128岁",
       "onboard_time": 1678369891,
       "rank": 12,
@@ -97,14 +113,6 @@
       "onboard_time": 1678375109,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 285749,
-      "num": 120889,
-      "word": "5岁女孩故宫拍千元甄嬛照累哭",
-      "onboard_time": 1678370373,
-      "rank": 21,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 284727,
@@ -123,32 +131,32 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 239326,
-      "num": 239326,
+      "raw_hot": 261754,
+      "num": 261754,
       "word": "安福路居民吐槽网红街拍",
       "onboard_time": 1678362446,
       "rank": 27,
       "category": "综艺"
     },
     {
-      "raw_hot": 235992,
-      "num": 224475,
-      "word": "网红阿秋骑行香港自行车被偷",
-      "onboard_time": 1678364905,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230654,
-      "num": 230654,
+      "raw_hot": 244837,
+      "num": 244837,
       "word": "TCL客服回应电视夜间突然大声预警",
       "onboard_time": 1678378343,
       "rank": 39,
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 235992,
+      "num": 235386,
+      "word": "网红阿秋骑行香港自行车被偷",
+      "onboard_time": 1678364905,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205933,
-      "num": 115799,
+      "num": 125283,
       "word": "叶舒华录小S的节目",
       "onboard_time": 1678367307,
       "rank": 26,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 201033,
-      "num": 119807,
+      "num": 137668,
       "word": "外媒评宋佳时装周造型",
       "onboard_time": 1678365626,
       "rank": 29,
@@ -187,6 +195,22 @@
       "category": "其它"
     },
     {
+      "raw_hot": 161666,
+      "num": 161666,
+      "word": "曼联4比1皇家贝蒂斯",
+      "onboard_time": 1678403600,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158425,
+      "num": 136177,
+      "word": "兄弟俩辞职回家种地年营收1亿",
+      "onboard_time": 1678359688,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157219,
       "num": 157219,
       "word": "俄罗斯空袭乌克兰多个地区",
@@ -196,23 +220,15 @@
     },
     {
       "raw_hot": 152236,
-      "num": 94911,
+      "num": 105213,
       "word": "虞书欣教徐老师穿搭",
       "onboard_time": 1678366408,
       "rank": 32,
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 141328,
-      "num": 119794,
-      "word": "兄弟俩辞职回家种地年营收1亿",
-      "onboard_time": 1678359688,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135414,
-      "num": 135414,
+      "raw_hot": 147184,
+      "num": 147184,
       "word": "日本前女子偶像将参与地方议会选举",
       "onboard_time": 1678381816,
       "rank": 31,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 123227,
-      "num": 106954,
+      "num": 112479,
       "word": "当人民军队遇上中国传统色",
       "onboard_time": 1678397472,
       "rank": 46,
@@ -275,20 +291,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 120458,
-      "num": 120458,
-      "word": "曼联4比1皇家贝蒂斯",
-      "onboard_time": 1678403600,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118872,
       "num": 118872,
       "word": "鲁鲁修",
       "onboard_time": 1678370250,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 109131,
+      "num": 109131,
+      "word": "林葳时刻",
+      "onboard_time": 1678403720,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 105839,
@@ -305,6 +321,14 @@
       "onboard_time": 1678377625,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97771,
+      "num": 97771,
+      "word": "同曦男篮战胜广厦男篮",
+      "onboard_time": 1678404080,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 97245,
@@ -403,8 +427,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 67517,
-      "num": 67517,
+      "raw_hot": 70894,
+      "num": 70894,
       "word": "郭彪重返舞台陈楚生哭了",
       "onboard_time": 1678365929,
       "rank": 44,
@@ -427,14 +451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 52459,
-      "num": 52459,
-      "word": "林葳时刻",
-      "onboard_time": 1678403720,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 51574,
       "num": 76183,
       "word": "青葵替夜昙圆梦",
@@ -443,12 +459,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 40960,
-      "num": 40960,
-      "word": "丫丫回国将实现吃喝自由",
-      "onboard_time": 1678403839,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 44212,
+      "num": 44212,
+      "word": "吉达联合1比0利雅得胜利",
+      "onboard_time": 1678404682,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 31250,

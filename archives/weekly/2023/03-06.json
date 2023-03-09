@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678404053958,
+  "endTime": 1678404878242,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -1408,6 +1408,14 @@
       "word": "老头乐",
       "onboard_time": 1678348825,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 702573,
+      "num": 254952,
+      "word": "丫丫回国将实现吃喝自由",
+      "onboard_time": 1678403839,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -4459,6 +4467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244837,
+      "num": 244837,
+      "word": "TCL客服回应电视夜间突然大声预警",
+      "onboard_time": 1678378343,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 244768,
       "num": 219172,
       "word": "别拿我的爱好挑战你的专业",
@@ -4633,14 +4649,6 @@
       "onboard_time": 1678180706,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 230654,
-      "num": 230654,
-      "word": "TCL客服回应电视夜间突然大声预警",
-      "onboard_time": 1678378343,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 229791,
@@ -6491,6 +6499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161666,
+      "num": 161666,
+      "word": "曼联4比1皇家贝蒂斯",
+      "onboard_time": 1678403600,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161548,
       "num": 161548,
       "word": "奇瑞汽车涉近30起劳动纠纷案件",
@@ -6819,6 +6835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147184,
+      "num": 147184,
+      "word": "日本前女子偶像将参与地方议会选举",
+      "onboard_time": 1678381816,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 147145,
       "num": 147145,
       "word": "佛山震感",
@@ -7089,14 +7113,6 @@
       "onboard_time": 1678325785,
       "rank": 44,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 135414,
-      "num": 135414,
-      "word": "日本前女子偶像将参与地方议会选举",
-      "onboard_time": 1678381816,
-      "rank": 31,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 135396,
@@ -7452,7 +7468,7 @@
     },
     {
       "raw_hot": 123227,
-      "num": 106954,
+      "num": 112479,
       "word": "当人民军队遇上中国传统色",
       "onboard_time": 1678397472,
       "rank": 46,
@@ -7529,14 +7545,6 @@
       "onboard_time": 1678068924,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120458,
-      "num": 120458,
-      "word": "曼联4比1皇家贝蒂斯",
-      "onboard_time": 1678403600,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 120240,
@@ -7849,6 +7857,14 @@
       "onboard_time": 1678103006,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109131,
+      "num": 109131,
+      "word": "林葳时刻",
+      "onboard_time": 1678403720,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 109087,
@@ -8217,6 +8233,14 @@
       "onboard_time": 1678018467,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97771,
+      "num": 97771,
+      "word": "同曦男篮战胜广厦男篮",
+      "onboard_time": 1678404080,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 97755,
@@ -8771,14 +8795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 52459,
-      "num": 52459,
-      "word": "林葳时刻",
-      "onboard_time": 1678403720,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50224,
       "num": 491642,
       "word": "3份报告里的9个民生新改善",
@@ -8819,19 +8835,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 44212,
+      "num": 44212,
+      "word": "吉达联合1比0利雅得胜利",
+      "onboard_time": 1678404682,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43822,
       "num": 128305,
       "word": "电商平台15天买贵必赔",
       "onboard_time": 1678240826,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40960,
-      "num": 40960,
-      "word": "丫丫回国将实现吃喝自由",
-      "onboard_time": 1678403839,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
