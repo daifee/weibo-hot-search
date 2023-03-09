@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678379289631,
+  "endTime": 1678380411589,
   "band_list": [
     {
       "raw_hot": 1790566,
@@ -187,6 +187,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 141337,
+      "num": 141337,
+      "word": "TCL客服回应电视夜间突然大声预警",
+      "onboard_time": 1678378343,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 141328,
       "num": 119794,
       "word": "兄弟俩辞职回家种地年营收1亿",
@@ -313,14 +321,6 @@
       "onboard_time": 1678371030,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87791,
-      "num": 87791,
-      "word": "TCL客服回应电视夜间突然大声预警",
-      "onboard_time": 1678378343,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 86845,

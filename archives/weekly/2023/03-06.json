@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678379289631,
+  "endTime": 1678380411589,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -6923,6 +6923,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 141337,
+      "num": 141337,
+      "word": "TCL客服回应电视夜间突然大声预警",
+      "onboard_time": 1678378343,
+      "rank": 39,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 141217,
       "num": 141217,
       "word": "传说阵容",
@@ -8385,14 +8393,6 @@
       "onboard_time": 1678201951,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87791,
-      "num": 87791,
-      "word": "TCL客服回应电视夜间突然大声预警",
-      "onboard_time": 1678378343,
-      "rank": 39,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 87373,
