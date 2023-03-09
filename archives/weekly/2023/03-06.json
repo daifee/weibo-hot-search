@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678375287474,
+  "endTime": 1678376230108,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -35,6 +35,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 3402011,
+      "num": 3402011,
+      "word": "成都打雷",
+      "onboard_time": 1678373669,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3357688,
       "num": 3357688,
       "word": "丫丫",
@@ -49,14 +57,6 @@
       "onboard_time": 1678071507,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 3046975,
-      "num": 3046975,
-      "word": "成都打雷",
-      "onboard_time": 1678373669,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2698699,
@@ -1747,6 +1747,14 @@
       "category": "科技,教育"
     },
     {
+      "raw_hot": 613995,
+      "num": 613995,
+      "word": "腰疼就是肾脏出问题了吗",
+      "onboard_time": 1678374209,
+      "rank": 17,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 611293,
       "num": 611293,
       "word": "老默千岛湖摸鱼",
@@ -2811,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411986,
+      "num": 411986,
+      "word": "甘望星古装",
+      "onboard_time": 1678375109,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411199,
       "num": 411199,
       "word": "林葳三分",
@@ -3731,14 +3747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 317257,
-      "num": 317257,
-      "word": "甘望星古装",
-      "onboard_time": 1678375109,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 317079,
       "num": 251406,
       "word": "农民工大哥火车上用盆炫10袋泡面",
@@ -3883,20 +3891,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303667,
+      "num": 303667,
+      "word": "警方通报甘孜村民多次拦车要红包",
+      "onboard_time": 1678374690,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302047,
       "num": 302047,
       "word": "Kakao或将与HYBE合作",
       "onboard_time": 1678093047,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300955,
-      "num": 300955,
-      "word": "腰疼就是肾脏出问题了吗",
-      "onboard_time": 1678374209,
-      "rank": 17,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 299168,
@@ -5995,6 +6003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183833,
+      "num": 183833,
+      "word": "熊猫界也有熊孩子",
+      "onboard_time": 1678374630,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183698,
       "num": 183698,
       "word": "JDG 一亿阵容",
@@ -7355,14 +7371,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 124518,
-      "num": 124518,
-      "word": "警方通报甘孜村民多次拦车要红包",
-      "onboard_time": 1678374690,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124343,
       "num": 124343,
       "word": "部分制造企业招工成本过万",
@@ -7771,6 +7779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110363,
+      "num": 110363,
+      "word": "花店店主怒斥顺丰同城配送不规范",
+      "onboard_time": 1678375829,
+      "rank": 43,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 109531,
       "num": 109531,
       "word": "重紫今日大婚",
@@ -8097,14 +8113,6 @@
       "onboard_time": 1678194147,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 99285,
-      "num": 99285,
-      "word": "熊猫界也有熊孩子",
-      "onboard_time": 1678374630,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 99167,
