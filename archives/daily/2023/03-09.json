@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678354500836,
+  "endTime": 1678357303666,
   "band_list": [
     {
       "raw_hot": 5333620,
@@ -99,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1147368,
-      "num": 542081,
+      "raw_hot": 1258296,
+      "num": 651532,
       "word": "95后大厂女生裸辞开麻将馆当保洁",
       "onboard_time": 1678351166,
       "rank": 49,
@@ -137,6 +137,14 @@
       "onboard_time": 1678330285,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 875230,
+      "num": 650882,
+      "word": "儿子沉迷手机爸爸逼他连玩17小时",
+      "onboard_time": 1678352365,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 850879,
@@ -203,11 +211,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 767590,
-      "num": 446372,
-      "word": "儿子沉迷手机爸爸逼他连玩17小时",
-      "onboard_time": 1678352365,
-      "rank": 12,
+      "raw_hot": 749320,
+      "num": 749320,
+      "word": "无名香港评分",
+      "onboard_time": 1678354288,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 732870,
+      "num": 732870,
+      "word": "台当局宣布恢复两岸空运客运航点",
+      "onboard_time": 1678354947,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -289,6 +305,14 @@
       "onboard_time": 1678350087,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 645884,
+      "num": 645884,
+      "word": "小鹏多名核心高管离职",
+      "onboard_time": 1678352787,
+      "rank": 32,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 637454,
@@ -483,6 +507,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 481891,
+      "num": 356908,
+      "word": "刘亦菲与路人合影",
+      "onboard_time": 1678355547,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 474012,
       "num": 234746,
       "word": "唐嫣钟汉良重现何以笙箫默",
@@ -497,6 +529,14 @@
       "onboard_time": 1678347626,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 459094,
+      "num": 356729,
+      "word": "9岁男孩感染甲流后住进ICU",
+      "onboard_time": 1678356085,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433085,
@@ -539,12 +579,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 403253,
+      "num": 356675,
+      "word": "张凌赫郭敬明体型差",
+      "onboard_time": 1678356327,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399648,
       "num": 374880,
       "word": "BLG官宣LvMao加入",
       "onboard_time": 1678348948,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 397377,
+      "num": 397377,
+      "word": "迪丽热巴说公诉精英台词挑战大",
+      "onboard_time": 1678354584,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 388826,
@@ -593,6 +649,14 @@
       "onboard_time": 1678279109,
       "rank": 0,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 373036,
+      "num": 373036,
+      "word": "长相思 送审",
+      "onboard_time": 1678356746,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 371380,
@@ -651,6 +715,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 356408,
+      "num": 356408,
+      "word": "吴刚说黄子韬声音像乌鸦",
+      "onboard_time": 1678354826,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352146,
       "num": 352146,
       "word": "女子起诉离婚屡遭公公跟踪获保护令",
@@ -665,14 +737,6 @@
       "onboard_time": 1678283249,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339560,
-      "num": 339560,
-      "word": "小鹏多名核心高管离职",
-      "onboard_time": 1678352787,
-      "rank": 32,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 335853,
@@ -776,14 +840,6 @@
       "word": "黑暗荣耀2明天全集播出",
       "onboard_time": 1678345406,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 291889,
-      "num": 291889,
-      "word": "无名香港评分",
-      "onboard_time": 1678354288,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -955,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221913,
+      "num": 221913,
+      "word": "你认为网恋奔现靠谱吗",
+      "onboard_time": 1678356386,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216999,
       "num": 164757,
       "word": "吴昕喝银耳酸梅鲫鱼汤养生",
@@ -1032,6 +1096,14 @@
       "word": "拜仁晋级欧冠八强",
       "onboard_time": 1678316778,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203513,
+      "num": 203513,
+      "word": "WTT抽签",
+      "onboard_time": 1678355066,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -1147,20 +1219,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 186927,
+      "num": 186927,
+      "word": "降价能拯救燃油车吗",
+      "onboard_time": 1678354288,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 186540,
+      "num": 186540,
+      "word": "甲流病毒进入人体后会经历什么",
+      "onboard_time": 1678356207,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185977,
       "num": 185977,
       "word": "二手交易碳积分兑换公交优惠券",
       "onboard_time": 1678352607,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180315,
-      "num": 153757,
-      "word": "降价能拯救燃油车吗",
-      "onboard_time": 1678354288,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 178441,
@@ -1339,6 +1419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151389,
+      "num": 151389,
+      "word": "不要当着熊猫的面讲坏话",
+      "onboard_time": 1678352307,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151384,
       "num": 269663,
       "word": "孙颖莎谈心理健康",
@@ -1352,6 +1440,14 @@
       "word": "视障女孩走盲道被突出景观造型撞到",
       "onboard_time": 1678304471,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151033,
+      "num": 151033,
+      "word": "张文宏呼吁重视甲流预防",
+      "onboard_time": 1678356267,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1393,14 +1489,6 @@
       "onboard_time": 1678332028,
       "rank": 37,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 143552,
-      "num": 143552,
-      "word": "不要当着熊猫的面讲坏话",
-      "onboard_time": 1678352307,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 143164,
@@ -1449,6 +1537,14 @@
       "onboard_time": 1678318283,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134303,
+      "num": 134303,
+      "word": "EDG对战LGD",
+      "onboard_time": 1678354169,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 132708,
@@ -1593,14 +1689,6 @@
       "onboard_time": 1678350866,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99604,
-      "num": 99604,
-      "word": "EDG对战LGD",
-      "onboard_time": 1678354169,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 98064,
@@ -1780,7 +1868,7 @@
     },
     {
       "raw_hot": 55847,
-      "num": 569493,
+      "num": 655150,
       "word": "两会热议高质量发展",
       "onboard_time": 1678351828,
       "rank": 2,
