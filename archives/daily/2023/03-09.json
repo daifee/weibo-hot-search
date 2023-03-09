@@ -1,7 +1,15 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678332394756,
+  "endTime": 1678333195889,
   "band_list": [
+    {
+      "raw_hot": 1669855,
+      "num": 335262,
+      "word": "香港名媛碎尸案一潘姓女网红被抓",
+      "onboard_time": 1678332267,
+      "rank": 21,
+      "category": "社会负面"
+    },
     {
       "raw_hot": 1530365,
       "num": 1530365,
@@ -11,7 +19,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1486508,
+      "raw_hot": 1528520,
       "num": 491700,
       "word": "黄奕自曝还珠格格影响了自己的爱情观",
       "onboard_time": 1678329326,
@@ -51,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1080566,
-      "num": 1080566,
+      "raw_hot": 1107527,
+      "num": 1107527,
       "word": "罪犯子女考公限制要不要取消",
       "onboard_time": 1678329626,
       "rank": 12,
@@ -89,6 +97,14 @@
       "onboard_time": 1678325246,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 799194,
+      "num": 799194,
+      "word": "成龙进组20天把半年的封闭用完了",
+      "onboard_time": 1678332630,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 720732,
@@ -163,20 +179,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549866,
+      "num": 549866,
+      "word": "官方回应甘孜村民多次拦车要红包",
+      "onboard_time": 1678329146,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540046,
       "num": 264105,
       "word": "黎姿首次正面回应退圈原因",
       "onboard_time": 1678276408,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 536848,
-      "num": 536848,
-      "word": "官方回应甘孜村民多次拦车要红包",
-      "onboard_time": 1678329146,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 504309,
@@ -219,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 429646,
+      "num": 429646,
+      "word": "椰树推出猛男直播销售额不到1千",
+      "onboard_time": 1678332087,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416454,
       "num": 261201,
       "word": "中方已完成所有丫丫回国审批事项",
@@ -233,6 +257,14 @@
       "onboard_time": 1678330648,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 382801,
+      "num": 323842,
+      "word": "女子自拍被小鸡一口啄出美瞳",
+      "onboard_time": 1678329865,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378440,
@@ -283,12 +315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 358882,
-      "num": 303731,
-      "word": "女子自拍被小鸡一口啄出美瞳",
-      "onboard_time": 1678329865,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 361927,
+      "num": 361927,
+      "word": "青葵是孟子义的班主任",
+      "onboard_time": 1678333108,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 357931,
@@ -337,14 +369,6 @@
       "onboard_time": 1678329987,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 312702,
-      "num": 255806,
-      "word": "香港名媛碎尸案一潘姓女网红被抓",
-      "onboard_time": 1678332267,
-      "rank": 21,
-      "category": "社会负面"
     },
     {
       "raw_hot": 312150,
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 275400,
-      "num": 255452,
+      "num": 259674,
       "word": "杨超越粉裙造型",
       "onboard_time": 1678331007,
       "rank": 25,
@@ -408,6 +432,14 @@
       "word": "流浪地球2俄罗斯定档",
       "onboard_time": 1678287987,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 274272,
+      "num": 274272,
+      "word": "网剧花戎",
+      "onboard_time": 1678333170,
+      "rank": 23,
       "category": "影视"
     },
     {
@@ -427,16 +459,16 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 257104,
-      "num": 257104,
+      "raw_hot": 269582,
+      "num": 269582,
       "word": "人不会只去一次杭州",
       "onboard_time": 1678329688,
       "rank": 34,
       "category": "旅游"
     },
     {
-      "raw_hot": 253598,
-      "num": 253598,
+      "raw_hot": 264871,
+      "num": 264871,
       "word": "郭晓婷陆仙人同框",
       "onboard_time": 1678331726,
       "rank": 24,
@@ -473,6 +505,14 @@
       "onboard_time": 1678270169,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227755,
+      "num": 227755,
+      "word": "五行世家定档",
+      "onboard_time": 1678332688,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 216999,
@@ -537,6 +577,14 @@
       "onboard_time": 1678331786,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200782,
+      "num": 200782,
+      "word": "90后校友未兑现1100万捐赠被诉",
+      "onboard_time": 1678332387,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 200501,
@@ -635,19 +683,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160418,
+      "num": 160418,
+      "word": "A股超导概念股开盘大涨",
+      "onboard_time": 1678331608,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158317,
       "num": 158317,
       "word": "农民工大哥火车上用盆炫10袋泡面",
       "onboard_time": 1678280068,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157932,
-      "num": 157932,
-      "word": "椰树推出猛男直播销售额不到1千",
-      "onboard_time": 1678332087,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -699,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147882,
+      "num": 147882,
+      "word": "余承东",
+      "onboard_time": 1678332986,
+      "rank": 41,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 144819,
       "num": 270924,
       "word": "制片人谈重紫选角",
@@ -723,6 +779,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 143164,
+      "num": 143164,
+      "word": "公司无权要求强制性乐捐",
+      "onboard_time": 1678333108,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139774,
       "num": 139774,
       "word": "张真源画的玫瑰",
@@ -737,14 +801,6 @@
       "onboard_time": 1678294698,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136713,
-      "num": 136713,
-      "word": "A股超导概念股开盘大涨",
-      "onboard_time": 1678331608,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 135840,
@@ -769,6 +825,14 @@
       "onboard_time": 1678330946,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 131156,
+      "num": 131156,
+      "word": "岚图被曝销量惨淡开启裁员",
+      "onboard_time": 1678332630,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 127246,
@@ -873,14 +937,6 @@
       "onboard_time": 1678279529,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 98591,
-      "num": 98591,
-      "word": "90后校友未兑现1100万捐赠被诉",
-      "onboard_time": 1678332387,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 98064,
@@ -1083,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 42039,
+      "num": 839062,
+      "word": "青春主场",
+      "onboard_time": 1678331847,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40722,
       "num": 62978,
       "word": "妇女节 不是女生节不是女神节",
@@ -1097,14 +1161,6 @@
       "onboard_time": 1678285231,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 33878,
-      "num": 839062,
-      "word": "青春主场",
-      "onboard_time": 1678331847,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31082,
