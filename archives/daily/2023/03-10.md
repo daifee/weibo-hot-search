@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/03/10 00:28:09 ~ 2023/03/10 06:19:19
+本榜单时间：2023/03/10 00:28:09 ~ 2023/03/10 06:36:21
 </p>
 </blockquote>
 <p>
@@ -297,6 +297,12 @@ DRG零封对手（热度：76234）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E9%81%87%E4%B8%8A%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%23" target="weibo">
+当人民军队遇上中国传统色（热度：68870）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BoysPlanet%E4%BA%8C%E5%85%AC%E7%AB%9E%E6%BC%94%23" target="weibo">
 BoysPlanet二公竞演（热度：66786）
 </a>
@@ -311,12 +317,6 @@ BoysPlanet二公竞演（热度：66786）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%AF%B4%E5%85%AC%E8%AF%89%E7%B2%BE%E8%8B%B1%E5%8F%B0%E8%AF%8D%E6%8C%91%E6%88%98%E5%A4%A7%23" target="weibo">
 迪丽热巴说公诉精英台词挑战大（热度：55160）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E9%81%87%E4%B8%8A%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%23" target="weibo">
-当人民军队遇上中国传统色（热度：51909）
 </a>
 </li>
 
