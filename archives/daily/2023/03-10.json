@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678383346824,
+  "endTime": 1678386203086,
   "band_list": [
     {
       "raw_hot": 1790566,
@@ -417,6 +417,14 @@
       "onboard_time": 1678365929,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31044,
+      "num": 31044,
+      "word": "Hero对战DRG",
+      "onboard_time": 1678371391,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 29221,

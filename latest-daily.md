@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/03/10 00:28:09 ~ 2023/03/10 01:35:46
+本榜单时间：2023/03/10 00:28:09 ~ 2023/03/10 02:23:23
 </p>
 </blockquote>
 <p>
@@ -323,6 +323,12 @@ BoysPlanet二公竞演（热度：66786）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%BD%AA%E9%87%8D%E8%BF%94%E8%88%9E%E5%8F%B0%E9%99%88%E6%A5%9A%E7%94%9F%E5%93%AD%E4%BA%86%23" target="weibo">
 郭彪重返舞台陈楚生哭了（热度：42825）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Hero%E5%AF%B9%E6%88%98DRG%23" target="weibo">
+Hero对战DRG（热度：31044）
 </a>
 </li>
 
