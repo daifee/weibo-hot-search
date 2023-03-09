@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678339107331,
+  "endTime": 1678340092669,
   "band_list": [
     {
       "raw_hot": 5333620,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 671255,
+      "num": 671255,
+      "word": "说唱女歌手转行卖烧烤年入百万",
+      "onboard_time": 1678333950,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 660830,
       "num": 660830,
       "word": "今年五一档已定档10部新片",
@@ -195,14 +203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 648126,
-      "num": 648126,
-      "word": "说唱女歌手转行卖烧烤年入百万",
-      "onboard_time": 1678333950,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 609656,
       "num": 609656,
       "word": "网剧花戎",
@@ -217,6 +217,14 @@
       "onboard_time": 1678335812,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592699,
+      "num": 592699,
+      "word": "赵丽颖花千骨剧组旧照",
+      "onboard_time": 1678336715,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 582666,
@@ -243,20 +251,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 572917,
+      "num": 572917,
+      "word": "天秤座有一种独特的气质",
+      "onboard_time": 1678339290,
+      "rank": 5,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 565256,
       "num": 263495,
       "word": "王子文 现在没有恋人",
       "onboard_time": 1678271066,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 551633,
-      "num": 551633,
-      "word": "赵丽颖花千骨剧组旧照",
-      "onboard_time": 1678336715,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 549866,
@@ -281,6 +289,14 @@
       "onboard_time": 1678332387,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 526905,
+      "num": 304251,
+      "word": "赛琳娜海莉同场活动",
+      "onboard_time": 1678338512,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 504309,
@@ -315,6 +331,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 462295,
+      "num": 462295,
+      "word": "大学生若隐若现的礼貌",
+      "onboard_time": 1678337493,
+      "rank": 13,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 433085,
       "num": 246448,
       "word": "在整个直播界都相当炸裂",
@@ -339,14 +363,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 396932,
-      "num": 304251,
-      "word": "赛琳娜海莉同场活动",
-      "onboard_time": 1678338512,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 388826,
       "num": 388826,
       "word": "迪丽热巴时装3月刊",
@@ -361,14 +377,6 @@
       "onboard_time": 1678329865,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384000,
-      "num": 384000,
-      "word": "大学生若隐若现的礼貌",
-      "onboard_time": 1678337493,
-      "rank": 13,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 378440,
@@ -520,6 +528,14 @@
       "word": "夜昙废了天帝修为",
       "onboard_time": 1678336776,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 284306,
+      "num": 284306,
+      "word": "肖战魏无羡又登剧集角色新媒体指数",
+      "onboard_time": 1678339890,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -699,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206210,
+      "num": 206210,
+      "word": "刘宇宁说要问宋祖儿要to签",
+      "onboard_time": 1678338811,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205362,
       "num": 205362,
       "word": "tangoz模仿权志龙唱歌",
@@ -731,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201015,
+      "num": 201015,
+      "word": "光与夜之恋",
+      "onboard_time": 1678339588,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200501,
       "num": 150016,
       "word": "如何预防甲流",
@@ -739,20 +771,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200185,
-      "num": 200185,
-      "word": "刘宇宁说要问宋祖儿要to签",
-      "onboard_time": 1678338811,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196972,
       "num": 196972,
       "word": "两会",
       "onboard_time": 1678331187,
       "rank": 32,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 195044,
+      "num": 195044,
+      "word": "种地吧",
+      "onboard_time": 1678339771,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193797,
+      "num": 193797,
+      "word": "海关查获人体模型内藏活体植物根茎",
+      "onboard_time": 1678339408,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193681,
@@ -1035,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127842,
+      "num": 127842,
+      "word": "奥比岛1.9",
+      "onboard_time": 1678338750,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127246,
       "num": 127246,
       "word": "陆虎新歌",
@@ -1049,14 +1097,6 @@
       "onboard_time": 1678290567,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 124068,
-      "num": 124068,
-      "word": "奥比岛1.9",
-      "onboard_time": 1678338750,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 122669,
