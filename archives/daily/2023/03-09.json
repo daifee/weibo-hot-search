@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678361644207,
+  "endTime": 1678365557001,
   "band_list": [
     {
       "raw_hot": 5333620,
@@ -187,6 +187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 832531,
+      "num": 832531,
+      "word": "俄罗斯空袭乌克兰多个地区",
+      "onboard_time": 1678359205,
+      "rank": 8,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 830190,
       "num": 680865,
       "word": "青葵是孟子义的班主任",
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 680392,
+      "num": 318417,
+      "word": "徐若晗 男人装",
+      "onboard_time": 1678361366,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 671255,
       "num": 671255,
       "word": "说唱女歌手转行卖烧烤年入百万",
@@ -329,6 +345,14 @@
       "onboard_time": 1678352787,
       "rank": 32,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 641506,
+      "num": 518420,
+      "word": "刘诗诗 微博之夜",
+      "onboard_time": 1678363827,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 637454,
@@ -491,19 +515,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 530969,
-      "num": 530969,
-      "word": "俄罗斯空袭乌克兰多个地区",
-      "onboard_time": 1678359205,
-      "rank": 8,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 517034,
       "num": 566370,
       "word": "杨幂 微博之夜",
       "onboard_time": 1678340189,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 515470,
+      "num": 515470,
+      "word": "安福路居民吐槽网红街拍",
+      "onboard_time": 1678362446,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -577,6 +601,22 @@
       "onboard_time": 1678347626,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 462968,
+      "num": 462968,
+      "word": "关晓彤喝咸豆浆",
+      "onboard_time": 1678362807,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 448665,
+      "num": 448665,
+      "word": "内娱名品落泪",
+      "onboard_time": 1678362989,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 441875,
@@ -707,7 +747,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 369246,
+      "raw_hot": 369417,
       "num": 210495,
       "word": "兄弟俩辞职回家种地年营收1亿",
       "onboard_time": 1678359688,
@@ -825,6 +865,14 @@
       "onboard_time": 1678340786,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 327963,
+      "num": 327963,
+      "word": "EDG晋级春季季后赛",
+      "onboard_time": 1678363467,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 324774,
@@ -1147,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206117,
+      "num": 206117,
+      "word": "吴宣仪今晚舞台",
+      "onboard_time": 1678365446,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205362,
       "num": 205362,
       "word": "tangoz模仿权志龙唱歌",
@@ -1211,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200779,
+      "num": 132287,
+      "word": "你在闲鱼被套路过么",
+      "onboard_time": 1678364846,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 200501,
       "num": 150016,
       "word": "如何预防甲流",
@@ -1241,6 +1305,14 @@
       "onboard_time": 1678339771,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194298,
+      "num": 194298,
+      "word": "谭松韵新歌安上线",
+      "onboard_time": 1678364606,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 193681,
@@ -1313,14 +1385,6 @@
       "onboard_time": 1678352607,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179358,
-      "num": 179358,
-      "word": "徐若晗 男人装",
-      "onboard_time": 1678361366,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 178441,
@@ -1451,6 +1515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 160357,
+      "num": 160357,
+      "word": "刘恋新歌",
+      "onboard_time": 1678364307,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159756,
       "num": 159756,
       "word": "男子斜坡停车忘挂档险溜进海里",
@@ -1491,6 +1563,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 154457,
+      "num": 154457,
+      "word": "网红阿秋骑行香港自行车被偷",
+      "onboard_time": 1678364905,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153650,
       "num": 153650,
       "word": "星落凝成糖复仇版剧照",
@@ -1513,6 +1593,14 @@
       "onboard_time": 1678286671,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152029,
+      "num": 132257,
+      "word": "儿子不孝男子立遗嘱把财产给妻妹",
+      "onboard_time": 1678365090,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151389,
@@ -1667,6 +1755,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130834,
+      "num": 130834,
+      "word": "青葵替夜昙圆梦",
+      "onboard_time": 1678363647,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 129809,
+      "num": 129809,
+      "word": "U20国足vs吉尔吉斯斯坦U20",
+      "onboard_time": 1678363948,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127842,
       "num": 127842,
       "word": "奥比岛1.9",
@@ -1689,6 +1793,14 @@
       "onboard_time": 1678290567,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 125911,
+      "num": 125911,
+      "word": "国台办回应恢复部分两岸直航航点",
+      "onboard_time": 1678364546,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 122669,

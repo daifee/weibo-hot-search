@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678361644207,
+  "endTime": 1678365557001,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -1043,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 832531,
+      "num": 832531,
+      "word": "俄罗斯空袭乌克兰多个地区",
+      "onboard_time": 1678359205,
+      "rank": 8,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 830190,
       "num": 680865,
       "word": "青葵是孟子义的班主任",
@@ -1347,6 +1355,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 680392,
+      "num": 318417,
+      "word": "徐若晗 男人装",
+      "onboard_time": 1678361366,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 679513,
       "num": 272261,
       "word": "赖冠霖参加北电四试",
@@ -1521,6 +1537,14 @@
       "onboard_time": 1678183109,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 641506,
+      "num": 518420,
+      "word": "刘诗诗 微博之夜",
+      "onboard_time": 1678363827,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 638217,
@@ -1979,14 +2003,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 530969,
-      "num": 530969,
-      "word": "俄罗斯空袭乌克兰多个地区",
-      "onboard_time": 1678359205,
-      "rank": 8,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 527550,
       "num": 527550,
       "word": "马思纯罗晋新片开机",
@@ -2112,6 +2128,14 @@
       "word": "杨幂 微博之夜",
       "onboard_time": 1678340189,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 515470,
+      "num": 515470,
+      "word": "安福路居民吐槽网红街拍",
+      "onboard_time": 1678362446,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -2411,6 +2435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 462968,
+      "num": 462968,
+      "word": "关晓彤喝咸豆浆",
+      "onboard_time": 1678362807,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462372,
       "num": 462372,
       "word": "99年男生用家务机器人做保洁",
@@ -2449,6 +2481,14 @@
       "onboard_time": 1678196848,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 448665,
+      "num": 448665,
+      "word": "内娱名品落泪",
+      "onboard_time": 1678362989,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 445228,
@@ -2963,7 +3003,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369246,
+      "raw_hot": 369417,
       "num": 210495,
       "word": "兄弟俩辞职回家种地年营收1亿",
       "onboard_time": 1678359688,
@@ -3408,6 +3448,14 @@
       "word": "电竞教练带队员盗卖俱乐部硬件获刑",
       "onboard_time": 1678184850,
       "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 327963,
+      "num": 327963,
+      "word": "EDG晋级春季季后赛",
+      "onboard_time": 1678363467,
+      "rank": 9,
       "category": "游戏"
     },
     {
@@ -4787,6 +4835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206117,
+      "num": 206117,
+      "word": "吴宣仪今晚舞台",
+      "onboard_time": 1678365446,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205795,
       "num": 205795,
       "word": "你可以成为任何你想成为的人",
@@ -5009,6 +5065,14 @@
       "onboard_time": 1678346366,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200779,
+      "num": 132287,
+      "word": "你在闲鱼被套路过么",
+      "onboard_time": 1678364846,
+      "rank": 30,
+      "category": "其它"
     },
     {
       "raw_hot": 200667,
@@ -5329,6 +5393,14 @@
       "onboard_time": 1678174947,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194298,
+      "num": 194298,
+      "word": "谭松韵新歌安上线",
+      "onboard_time": 1678364606,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 194142,
@@ -5731,14 +5803,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179358,
-      "num": 179358,
-      "word": "徐若晗 男人装",
-      "onboard_time": 1678361366,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 178441,
       "num": 178441,
       "word": "开往春天的花海限定列车",
@@ -6131,6 +6195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 160357,
+      "num": 160357,
+      "word": "刘恋新歌",
+      "onboard_time": 1678364307,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160031,
       "num": 160031,
       "word": "谭松韵单曲预告",
@@ -6243,6 +6315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154457,
+      "num": 154457,
+      "word": "网红阿秋骑行香港自行车被偷",
+      "onboard_time": 1678364905,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153815,
       "num": 153815,
       "word": "谢彬彬张淼怡新剧开机",
@@ -6281,6 +6361,14 @@
       "onboard_time": 1678334249,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152029,
+      "num": 132257,
+      "word": "儿子不孝男子立遗嘱把财产给妻妹",
+      "onboard_time": 1678365090,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151733,
@@ -6731,6 +6819,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 130834,
+      "num": 130834,
+      "word": "青葵替夜昙圆梦",
+      "onboard_time": 1678363647,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130569,
       "num": 130569,
       "word": "宋茜舞台",
@@ -6752,6 +6848,14 @@
       "word": "2023WCBA总决赛",
       "onboard_time": 1678195225,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129809,
+      "num": 129809,
+      "word": "U20国足vs吉尔吉斯斯坦U20",
+      "onboard_time": 1678363948,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -6905,6 +7009,14 @@
       "onboard_time": 1678159766,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125911,
+      "num": 125911,
+      "word": "国台办回应恢复部分两岸直航航点",
+      "onboard_time": 1678364546,
+      "rank": 37,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 125842,
