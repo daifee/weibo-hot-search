@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678369459006,
+  "endTime": 1678371527579,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3429186,
+      "num": 3022594,
+      "word": "明天下午四点只办一件事",
+      "onboard_time": 1678366948,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 3397650,
       "num": 1466699,
       "word": "建议大学生不要太在意刚入职收入",
@@ -81,14 +89,6 @@
       "onboard_time": 1678071507,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 3127193,
-      "num": 3022594,
-      "word": "明天下午四点只办一件事",
-      "onboard_time": 1678366948,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 2976403,
@@ -673,6 +673,14 @@
       "onboard_time": 1678244367,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1618769,
+      "num": 797761,
+      "word": "最可惜的内娱组合",
+      "onboard_time": 1678369049,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1591473,
@@ -1851,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1005745,
+      "num": 1268454,
+      "word": "前两年共结算新冠疫苗及接种费1500余亿元",
+      "onboard_time": 1678365867,
+      "rank": 19,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1005648,
       "num": 553624,
       "word": "西安一学院白天没课也不能回宿舍",
@@ -2225,6 +2241,14 @@
       "onboard_time": 1677977063,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 888618,
+      "num": 793993,
+      "word": "赵露思 微博之夜",
+      "onboard_time": 1678370491,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 886207,
@@ -3033,6 +3057,14 @@
       "onboard_time": 1677892467,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 731324,
+      "num": 731324,
+      "word": "明星最多但评分最低的电影",
+      "onboard_time": 1678369049,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 730838,
@@ -4435,14 +4467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 560294,
-      "num": 560294,
-      "word": "前两年共结算新冠疫苗及接种费1500余亿元",
-      "onboard_time": 1678365867,
-      "rank": 19,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 559827,
       "num": 559827,
       "word": "鹿晗谈梅西",
@@ -5299,6 +5323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500383,
+      "num": 483134,
+      "word": "世界最长寿女性去世享年128岁",
+      "onboard_time": 1678369891,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500316,
       "num": 500316,
       "word": "20年前丫丫赴美视频",
@@ -5881,6 +5913,14 @@
       "onboard_time": 1677987865,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 450724,
+      "num": 450724,
+      "word": "黄磊片酬",
+      "onboard_time": 1678369589,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 450567,
@@ -6731,6 +6771,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 390349,
+      "num": 315000,
+      "word": "5岁女孩故宫拍千元甄嬛照累哭",
+      "onboard_time": 1678370373,
+      "rank": 20,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 390024,
       "num": 390024,
       "word": "安欣吃醋",
@@ -6801,6 +6849,14 @@
       "onboard_time": 1677981866,
       "rank": 16,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 386156,
+      "num": 386156,
+      "word": "木村贵宏去世",
+      "onboard_time": 1678368032,
+      "rank": 22,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 385391,
@@ -7539,14 +7595,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 353477,
-      "num": 353477,
-      "word": "最可惜的内娱组合",
-      "onboard_time": 1678369049,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 353379,
       "num": 195222,
       "word": "被工作气到可以拍拍腋窝",
@@ -8009,14 +8057,6 @@
       "onboard_time": 1678340786,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 333002,
-      "num": 333002,
-      "word": "木村贵宏去世",
-      "onboard_time": 1678368032,
-      "rank": 22,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 332700,
@@ -9539,6 +9579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268940,
+      "num": 268940,
+      "word": "U20国足vs吉尔吉斯斯坦U20",
+      "onboard_time": 1678363948,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268699,
       "num": 222065,
       "word": "小松菜奈菅田将晖同框看秀",
@@ -9769,14 +9817,6 @@
       "onboard_time": 1677634051,
       "rank": 24,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 257583,
-      "num": 257583,
-      "word": "U20国足vs吉尔吉斯斯坦U20",
-      "onboard_time": 1678363948,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 257131,
@@ -10017,6 +10057,14 @@
       "onboard_time": 1677946885,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248900,
+      "num": 248900,
+      "word": "Hero对战DRG",
+      "onboard_time": 1678371391,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 248602,
@@ -10449,6 +10497,14 @@
       "onboard_time": 1678060645,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232843,
+      "num": 232843,
+      "word": "鲁鲁修",
+      "onboard_time": 1678370250,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 232801,
@@ -11027,14 +11083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218492,
-      "num": 218492,
-      "word": "明星最多但评分最低的电影",
-      "onboard_time": 1678369049,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 218406,
       "num": 495097,
       "word": "今年第二场部长通道直播",
@@ -11392,6 +11440,14 @@
       "word": "东契奇布克笑着对喷",
       "onboard_time": 1678063767,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 209323,
+      "num": 209323,
+      "word": "U20国足小组第二出线",
+      "onboard_time": 1678371030,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -13275,6 +13331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185946,
+      "num": 185946,
+      "word": "创可贴妆",
+      "onboard_time": 1678369529,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 185863,
       "num": 185863,
       "word": "范丞丞了不起的夜晚变装视频",
@@ -13593,6 +13657,14 @@
       "onboard_time": 1677902787,
       "rank": 39,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 176842,
+      "num": 176842,
+      "word": "U20亚洲杯",
+      "onboard_time": 1678109847,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 176552,
@@ -14467,6 +14539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158367,
+      "num": 158367,
+      "word": "吉尔吉斯斯坦U20乌龙球",
+      "onboard_time": 1678369168,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158234,
       "num": 158234,
       "word": "陈钰琪新剧杀青随拍",
@@ -14577,14 +14657,6 @@
       "onboard_time": 1678001667,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 156090,
-      "num": 156090,
-      "word": "U20亚洲杯",
-      "onboard_time": 1678109847,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 155944,
@@ -16627,6 +16699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115436,
+      "num": 115436,
+      "word": "JDG晋级春季季后赛",
+      "onboard_time": 1678371093,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115289,
       "num": 115289,
       "word": "重紫水月之吻海报",
@@ -16680,14 +16760,6 @@
       "word": "孙颖莎说更了解自己了",
       "onboard_time": 1678358127,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 114436,
-      "num": 114436,
-      "word": "吉尔吉斯斯坦U20乌龙球",
-      "onboard_time": 1678369168,
-      "rank": 45,
       "category": "体育"
     },
     {
