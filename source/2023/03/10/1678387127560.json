@@ -1,0 +1,410 @@
+{
+  "runTime": 1678387127560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 131605,
+        "num": 131605,
+        "word": "成都打雷",
+        "onboard_time": 1678373669,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81525,
+        "num": 81525,
+        "word": "国家线",
+        "onboard_time": 1678370491,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 3814,
+        "num": 59006,
+        "word": "两会热议高质量发展",
+        "onboard_time": 1678351828,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 127638,
+        "num": 58246,
+        "word": "明星最多但评分最低的电影",
+        "onboard_time": 1678369049,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88437,
+        "num": 57890,
+        "word": "花店店主怒斥顺丰同城配送不规范",
+        "onboard_time": 1678375829,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 53669,
+        "num": 53669,
+        "word": "粥式奶茶",
+        "onboard_time": 1678381217,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 311595,
+        "num": 53669,
+        "word": "明天下午四点只办一件事",
+        "onboard_time": 1678366948,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53669,
+        "num": 53668,
+        "word": "你在闲鱼被套路过么",
+        "onboard_time": 1678364846,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 50432,
+        "num": 50432,
+        "word": "甲流病毒进入人体后会经历什么",
+        "onboard_time": 1678356207,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125399,
+        "num": 50236,
+        "word": "最可惜的内娱组合",
+        "onboard_time": 1678369049,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68020,
+        "num": 50060,
+        "word": "日本前女子偶像将参与地方议会选举",
+        "onboard_time": 1678381816,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 62829,
+        "num": 49738,
+        "word": "儿子不孝男子立遗嘱把财产给妻妹",
+        "onboard_time": 1678365090,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64598,
+        "num": 49135,
+        "word": "世界最长寿女性去世享年128岁",
+        "onboard_time": 1678369891,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53239,
+        "num": 49050,
+        "word": "网红阿秋骑行香港自行车被偷",
+        "onboard_time": 1678364905,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48806,
+        "num": 48806,
+        "word": "俄罗斯空袭乌克兰多个地区",
+        "onboard_time": 1678359205,
+        "rank": 14,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 44946,
+        "num": 44946,
+        "word": "TCL客服回应电视夜间突然大声预警",
+        "onboard_time": 1678378343,
+        "rank": 15,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 43613,
+        "num": 43613,
+        "word": "腰疼就是肾脏出问题了吗",
+        "onboard_time": 1678374209,
+        "rank": 16,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 40370,
+        "num": 40370,
+        "word": "安福路居民吐槽网红街拍",
+        "onboard_time": 1678362446,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39139,
+        "num": 39139,
+        "word": "Hero 让我心梗",
+        "onboard_time": 1678372050,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36925,
+        "num": 36925,
+        "word": "熊猫界也有熊孩子",
+        "onboard_time": 1678374630,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53589,
+        "num": 36625,
+        "word": "5岁女孩故宫拍千元甄嬛照累哭",
+        "onboard_time": 1678370373,
+        "rank": 20,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 41612,
+        "num": 36339,
+        "word": "叶舒华录小S的节目",
+        "onboard_time": 1678367307,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35917,
+        "num": 35917,
+        "word": "兄弟俩辞职回家种地年营收1亿",
+        "onboard_time": 1678359688,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35825,
+        "num": 35825,
+        "word": "林葳三分",
+        "onboard_time": 1678372533,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39822,
+        "num": 35738,
+        "word": "外媒评宋佳时装周造型",
+        "onboard_time": 1678365626,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 33277,
+        "num": 33277,
+        "word": "台当局宣布恢复两岸空运客运航点",
+        "onboard_time": 1678354947,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31071,
+        "num": 31071,
+        "word": "木村贵宏去世",
+        "onboard_time": 1678368032,
+        "rank": 26,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 34660,
+        "num": 30926,
+        "word": "虞书欣教徐老师穿搭",
+        "onboard_time": 1678366408,
+        "rank": 27,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 30256,
+        "num": 30256,
+        "word": "Hero对战DRG",
+        "onboard_time": 1678371391,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30149,
+        "num": 30149,
+        "word": "EDG ban黑叔叔吧",
+        "onboard_time": 1678358487,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45263,
+        "num": 29850,
+        "word": "赵露思 微博之夜",
+        "onboard_time": 1678370491,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28480,
+        "num": 28480,
+        "word": "徐若晗 男人装",
+        "onboard_time": 1678361366,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 24206,
+        "num": 24206,
+        "word": "张杰击掌",
+        "onboard_time": 1678367248,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29596,
+        "num": 24037,
+        "word": "甘望星古装",
+        "onboard_time": 1678375109,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23411,
+        "num": 23411,
+        "word": "儿子沉迷手机爸爸逼他连玩17小时",
+        "onboard_time": 1678352365,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23164,
+        "num": 23164,
+        "word": "鲁鲁修",
+        "onboard_time": 1678370250,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 27104,
+        "num": 23041,
+        "word": "刘诗诗 微博之夜",
+        "onboard_time": 1678363827,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22846,
+        "num": 22846,
+        "word": "内娱名品落泪",
+        "onboard_time": 1678362989,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22289,
+        "num": 22289,
+        "word": "DRG零封对手",
+        "onboard_time": 1678371692,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23396,
+        "num": 22137,
+        "word": "章昊搞事业",
+        "onboard_time": 1678376425,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21572,
+        "num": 21572,
+        "word": "U20国足小组第二出线",
+        "onboard_time": 1678371030,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21413,
+        "num": 21413,
+        "word": "创可贴妆",
+        "onboard_time": 1678369529,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 23274,
+        "num": 21391,
+        "word": "陈建宇GANG舞台",
+        "onboard_time": 1678376307,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21010,
+        "num": 21010,
+        "word": "刘亦菲与路人合影",
+        "onboard_time": 1678355547,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20894,
+        "num": 20894,
+        "word": "张文宏呼吁重视甲流预防",
+        "onboard_time": 1678356267,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20872,
+        "num": 20872,
+        "word": "王子浩投票",
+        "onboard_time": 1678372829,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20638,
+        "num": 20638,
+        "word": "关晓彤喝咸豆浆",
+        "onboard_time": 1678362807,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19641,
+        "num": 19641,
+        "word": "BoysPlanet二公竞演",
+        "onboard_time": 1678371808,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19532,
+        "num": 19532,
+        "word": "春节档电影香港评分",
+        "onboard_time": 1678373309,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18691,
+        "num": 18691,
+        "word": "郭彪重返舞台陈楚生哭了",
+        "onboard_time": 1678365929,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国两会时光#"
+    }
+  }
+}
