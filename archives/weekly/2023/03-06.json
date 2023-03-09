@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678371527579,
+  "endTime": 1678372576781,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1782004,
+      "num": 797761,
+      "word": "最可惜的内娱组合",
+      "onboard_time": 1678369049,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1776208,
       "num": 487384,
       "word": "承欢记 杨紫王一博",
@@ -355,14 +363,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1618769,
-      "num": 797761,
-      "word": "最可惜的内娱组合",
-      "onboard_time": 1678369049,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1588804,
       "num": 487406,
       "word": "可是他叫她大歌星哎",
@@ -409,6 +409,14 @@
       "onboard_time": 1678164868,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1512216,
+      "num": 1512216,
+      "word": "国家线",
+      "onboard_time": 1678167205,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 1507063,
@@ -617,14 +625,6 @@
       "onboard_time": 1678365090,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1238057,
-      "num": 1238057,
-      "word": "国家线",
-      "onboard_time": 1678167205,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 1226849,
@@ -995,20 +995,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 897397,
+      "num": 793993,
+      "word": "赵露思 微博之夜",
+      "onboard_time": 1678370491,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 894582,
       "num": 894582,
       "word": "关于国务院机构改革方案的说明",
       "onboard_time": 1678172367,
       "rank": 25,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 888618,
-      "num": 793993,
-      "word": "赵露思 微博之夜",
-      "onboard_time": 1678370491,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 886207,
@@ -1187,6 +1187,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 800859,
+      "num": 731324,
+      "word": "明星最多但评分最低的电影",
+      "onboard_time": 1678369049,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 789324,
       "num": 539467,
       "word": "老福特",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1678194627,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 731324,
-      "num": 731324,
-      "word": "明星最多但评分最低的电影",
-      "onboard_time": 1678369049,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 727454,
@@ -1481,6 +1481,14 @@
       "onboard_time": 1678164687,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 667407,
+      "num": 667407,
+      "word": "世界最长寿女性去世享年128岁",
+      "onboard_time": 1678369891,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 667025,
@@ -2123,6 +2131,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 525001,
+      "num": 315000,
+      "word": "5岁女孩故宫拍千元甄嬛照累哭",
+      "onboard_time": 1678370373,
+      "rank": 20,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 524390,
       "num": 524390,
       "word": "建议允许企业弹性安排法定节假日",
@@ -2313,14 +2329,6 @@
       "onboard_time": 1678176264,
       "rank": 46,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 500383,
-      "num": 483134,
-      "word": "世界最长寿女性去世享年128岁",
-      "onboard_time": 1678369891,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 500316,
@@ -2977,14 +2985,6 @@
       "onboard_time": 1678078950,
       "rank": 26,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 390349,
-      "num": 315000,
-      "word": "5岁女孩故宫拍千元甄嬛照累哭",
-      "onboard_time": 1678370373,
-      "rank": 20,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 388826,
@@ -3795,6 +3795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307340,
+      "num": 307340,
+      "word": "Hero 让我心梗",
+      "onboard_time": 1678372050,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307156,
       "num": 307156,
       "word": "AppleWatch上能和ChatGPT聊天了",
@@ -3913,6 +3921,14 @@
       "onboard_time": 1678252048,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294695,
+      "num": 294695,
+      "word": "鲁鲁修",
+      "onboard_time": 1678370250,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 294066,
@@ -4113,6 +4129,14 @@
       "onboard_time": 1678328486,
       "rank": 26,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 270352,
+      "num": 270352,
+      "word": "U20国足小组第二出线",
+      "onboard_time": 1678371030,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 270275,
@@ -4499,14 +4523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 232843,
-      "num": 232843,
-      "word": "鲁鲁修",
-      "onboard_time": 1678370250,
-      "rank": 28,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 232801,
       "num": 232801,
       "word": "半熟恋人",
@@ -4867,6 +4883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210833,
+      "num": 210833,
+      "word": "BoysPlanet二公竞演",
+      "onboard_time": 1678371808,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210256,
       "num": 210256,
       "word": "WBG",
@@ -4904,14 +4928,6 @@
       "word": "东契奇布克笑着对喷",
       "onboard_time": 1678063767,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 209323,
-      "num": 209323,
-      "word": "U20国足小组第二出线",
-      "onboard_time": 1678371030,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -5385,6 +5401,14 @@
       "onboard_time": 1678109968,
       "rank": 27,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 198690,
+      "num": 198690,
+      "word": "DRG零封对手",
+      "onboard_time": 1678371692,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 198571,
@@ -7609,6 +7633,14 @@
       "onboard_time": 1678096106,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 111921,
+      "num": 111921,
+      "word": "林葳三分",
+      "onboard_time": 1678372533,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 111787,

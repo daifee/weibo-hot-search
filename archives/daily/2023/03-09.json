@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678371527579,
+  "endTime": 1678372576781,
   "band_list": [
     {
       "raw_hot": 5333620,
@@ -35,7 +35,7 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1618769,
+      "raw_hot": 1782004,
       "num": 797761,
       "word": "最可惜的内娱组合",
       "onboard_time": 1678369049,
@@ -65,6 +65,14 @@
       "onboard_time": 1678332630,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1512216,
+      "num": 1512216,
+      "word": "国家线",
+      "onboard_time": 1678370491,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1507063,
@@ -211,7 +219,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 888618,
+      "raw_hot": 897397,
       "num": 793993,
       "word": "赵露思 微博之夜",
       "onboard_time": 1678370491,
@@ -251,14 +259,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 839946,
-      "num": 839946,
-      "word": "国家线",
-      "onboard_time": 1678370491,
-      "rank": 1,
-      "category": "教育"
-    },
-    {
       "raw_hot": 832531,
       "num": 832531,
       "word": "俄罗斯空袭乌克兰多个地区",
@@ -289,6 +289,14 @@
       "onboard_time": 1678334070,
       "rank": 12,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 800859,
+      "num": 731324,
+      "word": "明星最多但评分最低的电影",
+      "onboard_time": 1678369049,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 788051,
@@ -323,14 +331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 731324,
-      "num": 731324,
-      "word": "明星最多但评分最低的电影",
-      "onboard_time": 1678369049,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 720732,
       "num": 720732,
       "word": "这是缉毒女警唯一能公布的照片",
@@ -360,6 +360,14 @@
       "word": "说唱女歌手转行卖烧烤年入百万",
       "onboard_time": 1678333950,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 667407,
+      "num": 667407,
+      "word": "世界最长寿女性去世享年128岁",
+      "onboard_time": 1678369891,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 525001,
+      "num": 315000,
+      "word": "5岁女孩故宫拍千元甄嬛照累哭",
+      "onboard_time": 1678370373,
+      "rank": 20,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 521372,
       "num": 502587,
       "word": "虞书欣教徐老师穿搭",
@@ -657,14 +673,6 @@
       "onboard_time": 1678365626,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 500383,
-      "num": 483134,
-      "word": "世界最长寿女性去世享年128岁",
-      "onboard_time": 1678369891,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 500275,
@@ -825,14 +833,6 @@
       "onboard_time": 1678360167,
       "rank": 30,
       "category": "军事"
-    },
-    {
-      "raw_hot": 390349,
-      "num": 315000,
-      "word": "5岁女孩故宫拍千元甄嬛照累哭",
-      "onboard_time": 1678370373,
-      "rank": 20,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 388826,
@@ -1107,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307340,
+      "num": 307340,
+      "word": "Hero 让我心梗",
+      "onboard_time": 1678372050,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307156,
       "num": 307156,
       "word": "AppleWatch上能和ChatGPT聊天了",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1678345406,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294695,
+      "num": 294695,
+      "word": "鲁鲁修",
+      "onboard_time": 1678370250,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 289057,
@@ -1193,6 +1209,14 @@
       "onboard_time": 1678328486,
       "rank": 26,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 270352,
+      "num": 270352,
+      "word": "U20国足小组第二出线",
+      "onboard_time": 1678371030,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 269582,
@@ -1283,14 +1307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232843,
-      "num": 232843,
-      "word": "鲁鲁修",
-      "onboard_time": 1678370250,
-      "rank": 28,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 229665,
       "num": 229665,
       "word": "清华开发出智能可穿戴人工喉咙",
@@ -1355,12 +1371,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209323,
-      "num": 209323,
-      "word": "U20国足小组第二出线",
-      "onboard_time": 1678371030,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 210833,
+      "num": 210833,
+      "word": "BoysPlanet二公竞演",
+      "onboard_time": 1678371808,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 208065,
@@ -1497,6 +1513,14 @@
       "onboard_time": 1678349845,
       "rank": 42,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 198690,
+      "num": 198690,
+      "word": "DRG零封对手",
+      "onboard_time": 1678371692,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 196972,
@@ -2097,6 +2121,14 @@
       "onboard_time": 1678283309,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 111921,
+      "num": 111921,
+      "word": "林葳三分",
+      "onboard_time": 1678372533,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 111787,
