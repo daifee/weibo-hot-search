@@ -1,13 +1,61 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678318444553,
+  "endTime": 1678326372246,
   "band_list": [
+    {
+      "raw_hot": 1530365,
+      "num": 1530365,
+      "word": "女子入职被公司乐捐制度吓退",
+      "onboard_time": 1678319066,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1407548,
       "num": 167095,
       "word": "西安流感",
       "onboard_time": 1678288832,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1381055,
+      "num": 1321475,
+      "word": "每天少睡一两个小时算熬夜吗",
+      "onboard_time": 1678317381,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1348218,
+      "num": 1348218,
+      "word": "室温超导",
+      "onboard_time": 1678321590,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1315853,
+      "num": 1315853,
+      "word": "甲流发病急",
+      "onboard_time": 1678320870,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 850879,
+      "num": 850879,
+      "word": "台黑帮五星级酒店高调办晚宴",
+      "onboard_time": 1678322072,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720732,
+      "num": 720732,
+      "word": "这是缉毒女警唯一能公布的照片",
+      "onboard_time": 1678317080,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -19,12 +67,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 618590,
-      "num": 390880,
-      "word": "每天少睡一两个小时算熬夜吗",
-      "onboard_time": 1678317381,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 648198,
+      "num": 648198,
+      "word": "汽车全面降价的时代来了吗",
+      "onboard_time": 1678322609,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 574694,
@@ -68,7 +116,7 @@
     },
     {
       "raw_hot": 484756,
-      "num": 164582,
+      "num": 212277,
       "word": "年薪41万董秘自掏4亿买公司股份",
       "onboard_time": 1678284870,
       "rank": 21,
@@ -91,6 +139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388594,
+      "num": 324610,
+      "word": "请在里面找出花花",
+      "onboard_time": 1678325246,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 386982,
+      "num": 321738,
+      "word": "ChatGPT创始人吃糖尿病药抗老",
+      "onboard_time": 1678325064,
+      "rank": 11,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 378440,
       "num": 378440,
       "word": "广东处于地震活动相对活跃的时段",
@@ -107,20 +171,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 366866,
+      "num": 366866,
+      "word": "梅西连续3年无缘欧冠8强",
+      "onboard_time": 1678319548,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366445,
-      "num": 163196,
+      "num": 211814,
       "word": "青你选手徐炳超卖包子",
       "onboard_time": 1678282348,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 363436,
-      "num": 213030,
-      "word": "这是缉毒女警唯一能公布的照片",
-      "onboard_time": 1678317080,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 341768,
@@ -131,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324774,
+      "num": 324774,
+      "word": "金智秀solo主打预告照",
+      "onboard_time": 1678318103,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 312150,
       "num": 260903,
       "word": "张颂文向张纪中道歉",
@@ -139,11 +211,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309909,
+      "num": 309909,
+      "word": "东风汽车降价",
+      "onboard_time": 1678322849,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 307156,
+      "num": 307156,
+      "word": "AppleWatch上能和ChatGPT聊天了",
+      "onboard_time": 1678320870,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 298792,
+      "num": 298792,
+      "word": "张颂文即兴发挥吃鱼梗",
+      "onboard_time": 1678319367,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274731,
       "num": 274731,
       "word": "流浪地球2俄罗斯定档",
       "onboard_time": 1678287987,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 258330,
+      "num": 258330,
+      "word": "小美人鱼新海报",
+      "onboard_time": 1678324586,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -155,6 +259,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 245215,
+      "num": 245215,
+      "word": "管泽元直播回应",
+      "onboard_time": 1678317319,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 240392,
+      "num": 240392,
+      "word": "NCT道在廷将上半年出道",
+      "onboard_time": 1678323988,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233205,
       "num": 78103,
       "word": "蜂花请关心丫丫的人理性消费",
@@ -164,7 +284,7 @@
     },
     {
       "raw_hot": 216999,
-      "num": 152207,
+      "num": 164757,
       "word": "吴昕喝银耳酸梅鲫鱼汤养生",
       "onboard_time": 1678318162,
       "rank": 22,
@@ -195,6 +315,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203263,
+      "num": 203263,
+      "word": "小学生拾金不昧获每年6千元助学金",
+      "onboard_time": 1678325545,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198063,
+      "num": 198063,
+      "word": "tangoz模仿权志龙唱歌",
+      "onboard_time": 1678323150,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193681,
       "num": 193681,
       "word": "靖佩瑶吕妍结婚",
@@ -203,12 +339,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182968,
-      "num": 182968,
-      "word": "管泽元直播回应",
-      "onboard_time": 1678317319,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 187624,
+      "num": 163370,
+      "word": "印度首次成为苹果自主销售地区",
+      "onboard_time": 1678318162,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 178441,
+      "num": 178441,
+      "word": "开往春天的花海限定列车",
+      "onboard_time": 1678325126,
+      "rank": 25,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 177717,
+      "num": 177717,
+      "word": "滚筒洗衣机运镜",
+      "onboard_time": 1678320809,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 175100,
+      "num": 175100,
+      "word": "武警把衣服绑成绳子从冰窟救人",
+      "onboard_time": 1678323928,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174103,
@@ -233,6 +393,14 @@
       "onboard_time": 1678265909,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172013,
+      "num": 172013,
+      "word": "无限超越班 TVB",
+      "onboard_time": 1678319306,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 161595,
@@ -307,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139774,
+      "num": 139774,
+      "word": "张真源画的玫瑰",
+      "onboard_time": 1678321409,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137888,
       "num": 248622,
       "word": "中国承办奥运排球资格赛",
@@ -315,20 +491,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137843,
+      "num": 137843,
+      "word": "姆巴佩",
+      "onboard_time": 1678326146,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135396,
+      "num": 135396,
+      "word": "王一博看保你平安",
+      "onboard_time": 1678318283,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 127246,
+      "num": 127246,
+      "word": "陆虎新歌",
+      "onboard_time": 1678318824,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127219,
       "num": 148030,
       "word": "微软WP系统还能正常使用吗",
       "onboard_time": 1678290567,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 123575,
-      "num": 234112,
-      "word": "金智秀solo主打预告照",
-      "onboard_time": 1678318103,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 122669,
@@ -347,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117348,
-      "num": 88696,
-      "word": "印度首次成为苹果自主销售地区",
-      "onboard_time": 1678318162,
-      "rank": 30,
-      "category": "科技"
+      "raw_hot": 115118,
+      "num": 115118,
+      "word": "推特广告收入下降50%",
+      "onboard_time": 1678322668,
+      "rank": 39,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 114720,
@@ -371,6 +563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108394,
+      "num": 108394,
+      "word": "维蒂尼亚空门不进",
+      "onboard_time": 1678322609,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107740,
       "num": 107740,
       "word": "南太铉酒驾被立案",
@@ -379,12 +579,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105455,
+      "num": 105455,
+      "word": "分析师紧急开会提示室温超导风险",
+      "onboard_time": 1678325785,
+      "rank": 44,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 101831,
       "num": 268541,
       "word": "星落凝成糖",
       "onboard_time": 1678279529,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97416,
+      "num": 97416,
+      "word": "农村大姐用生活中动作指挥乐队",
+      "onboard_time": 1678321890,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95543,
@@ -403,6 +619,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 93288,
+      "num": 93288,
+      "word": "献给爱喝可乐的潇洒哥",
+      "onboard_time": 1678320691,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 87888,
       "num": 87888,
       "word": "田曦薇将进组",
@@ -417,6 +641,14 @@
       "onboard_time": 1678282769,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 85717,
+      "num": 85717,
+      "word": "全国两会时光",
+      "onboard_time": 1678326025,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 81183,
@@ -507,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56378,
-      "num": 56378,
-      "word": "王一博看保你平安",
-      "onboard_time": 1678318283,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 52717,
       "num": 52717,
       "word": "柯南剧场版人物关系图",
@@ -587,20 +811,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14124,
+      "num": 1324655,
+      "word": "两高报告十大关键词",
+      "onboard_time": 1678235129,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 13727,
       "num": 34082,
       "word": "徐枫灿见到刘洋秒变小迷妹",
       "onboard_time": 1678296675,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10983,
-      "num": 421350,
-      "word": "两高报告十大关键词",
-      "onboard_time": 1678235129,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [

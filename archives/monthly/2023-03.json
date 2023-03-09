@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678318444553,
+  "endTime": 1678326372246,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -691,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1530365,
+      "num": 1530365,
+      "word": "女子入职被公司乐捐制度吓退",
+      "onboard_time": 1678319066,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1514889,
       "num": 283422,
       "word": "王晶转发刘亦菲新剧说怪不得推传说",
@@ -907,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1381055,
+      "num": 1321475,
+      "word": "每天少睡一两个小时算熬夜吗",
+      "onboard_time": 1678317381,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1377705,
       "num": 1377705,
       "word": "专家称零彩礼不符合传统婚俗",
@@ -947,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1348218,
+      "num": 1348218,
+      "word": "室温超导",
+      "onboard_time": 1678321590,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1334639,
       "num": 1334639,
       "word": "国考成绩",
@@ -960,6 +984,14 @@
       "word": "网友突击检查全世界大熊猫",
       "onboard_time": 1678282647,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1315853,
+      "num": 1315853,
+      "word": "甲流发病急",
+      "onboard_time": 1678320870,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -2147,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 850879,
+      "num": 850879,
+      "word": "台黑帮五星级酒店高调办晚宴",
+      "onboard_time": 1678322072,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850542,
       "num": 850542,
       "word": "章莹颖",
@@ -2827,6 +2867,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 720732,
+      "num": 720732,
+      "word": "这是缉毒女警唯一能公布的照片",
+      "onboard_time": 1678317080,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 720590,
       "num": 720590,
       "word": "建议第三胎孩子教育全免费",
@@ -3267,6 +3315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648198,
+      "num": 648198,
+      "word": "汽车全面降价的时代来了吗",
+      "onboard_time": 1678322609,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 647245,
       "num": 647245,
       "word": "特斯拉投资者日",
@@ -3505,14 +3561,6 @@
       "onboard_time": 1677642449,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 618590,
-      "num": 390880,
-      "word": "每天少睡一两个小时算熬夜吗",
-      "onboard_time": 1678317381,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 614286,
@@ -6067,6 +6115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 388594,
+      "num": 324610,
+      "word": "请在里面找出花花",
+      "onboard_time": 1678325246,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 388000,
       "num": 388000,
       "word": "剧版繁花预计9月播出",
@@ -6105,6 +6161,14 @@
       "onboard_time": 1677899125,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 386982,
+      "num": 321738,
+      "word": "ChatGPT创始人吃糖尿病药抗老",
+      "onboard_time": 1678325064,
+      "rank": 11,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 386720,
@@ -6483,6 +6547,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 366866,
+      "num": 366866,
+      "word": "梅西连续3年无缘欧冠8强",
+      "onboard_time": 1678319548,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366632,
       "num": 366632,
       "word": "星落凝成糖上头名场面",
@@ -6537,14 +6609,6 @@
       "onboard_time": 1677735628,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 363436,
-      "num": 213030,
-      "word": "这是缉毒女警唯一能公布的照片",
-      "onboard_time": 1678317080,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363347,
@@ -7307,6 +7371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324774,
+      "num": 324774,
+      "word": "金智秀solo主打预告照",
+      "onboard_time": 1678318103,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 324750,
       "num": 324750,
       "word": "惠普笔记本维修后发现掌托是木头的",
@@ -7667,6 +7739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309909,
+      "num": 309909,
+      "word": "东风汽车降价",
+      "onboard_time": 1678322849,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 309431,
       "num": 309431,
       "word": "teams",
@@ -7705,6 +7785,14 @@
       "onboard_time": 1677680072,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307156,
+      "num": 307156,
+      "word": "AppleWatch上能和ChatGPT聊天了",
+      "onboard_time": 1678320870,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 307128,
@@ -7865,6 +7953,14 @@
       "onboard_time": 1678090525,
       "rank": 37,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 298792,
+      "num": 298792,
+      "word": "张颂文即兴发挥吃鱼梗",
+      "onboard_time": 1678319367,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 298707,
@@ -8739,6 +8835,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 258330,
+      "num": 258330,
+      "word": "小美人鱼新海报",
+      "onboard_time": 1678324586,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258317,
       "num": 258317,
       "word": "本地人也需要外地游客的攻略",
@@ -9059,6 +9163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245215,
+      "num": 245215,
+      "word": "管泽元直播回应",
+      "onboard_time": 1678317319,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245186,
       "num": 245186,
       "word": "父母矮孩子一定矮吗",
@@ -9193,6 +9305,14 @@
       "onboard_time": 1678008506,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240392,
+      "num": 240392,
+      "word": "NCT道在廷将上半年出道",
+      "onboard_time": 1678323988,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 240135,
@@ -10012,7 +10132,7 @@
     },
     {
       "raw_hot": 216999,
-      "num": 152207,
+      "num": 164757,
       "word": "吴昕喝银耳酸梅鲫鱼汤养生",
       "onboard_time": 1678318162,
       "rank": 22,
@@ -10707,6 +10827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203263,
+      "num": 203263,
+      "word": "小学生拾金不昧获每年6千元助学金",
+      "onboard_time": 1678325545,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203117,
       "num": 203117,
       "word": "YG新女团成员HARAM介绍视频",
@@ -11113,6 +11241,14 @@
       "onboard_time": 1678230501,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198063,
+      "num": 198063,
+      "word": "tangoz模仿权志龙唱歌",
+      "onboard_time": 1678323150,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 198027,
@@ -11907,6 +12043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187624,
+      "num": 163370,
+      "word": "印度首次成为苹果自主销售地区",
+      "onboard_time": 1678318162,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 187608,
       "num": 187608,
       "word": "在成都真的可以走花路",
@@ -12075,14 +12219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182968,
-      "num": 182968,
-      "word": "管泽元直播回应",
-      "onboard_time": 1678317319,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 182904,
       "num": 182904,
       "word": "建议出台反网络暴力法",
@@ -12243,11 +12379,27 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 178441,
+      "num": 178441,
+      "word": "开往春天的花海限定列车",
+      "onboard_time": 1678325126,
+      "rank": 25,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 177756,
       "num": 165945,
       "word": "邢菲说第一次演现实题材作品",
       "onboard_time": 1677769769,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 177717,
+      "num": 177717,
+      "word": "滚筒洗衣机运镜",
+      "onboard_time": 1678320809,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -12353,6 +12505,14 @@
       "onboard_time": 1678230800,
       "rank": 25,
       "category": "国内要闻,财经"
+    },
+    {
+      "raw_hot": 175100,
+      "num": 175100,
+      "word": "武警把衣服绑成绳子从冰窟救人",
+      "onboard_time": 1678323928,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174760,
@@ -12505,6 +12665,14 @@
       "onboard_time": 1678160545,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172013,
+      "num": 172013,
+      "word": "无限超越班 TVB",
+      "onboard_time": 1678319306,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 171973,
@@ -13931,6 +14099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139774,
+      "num": 139774,
+      "word": "张真源画的玫瑰",
+      "onboard_time": 1678321409,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139628,
       "num": 139628,
       "word": "葬送的芙莉莲",
@@ -14008,6 +14184,14 @@
       "word": "中国承办奥运排球资格赛",
       "onboard_time": 1678294698,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137843,
+      "num": 137843,
+      "word": "姆巴佩",
+      "onboard_time": 1678326146,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -14129,6 +14313,14 @@
       "onboard_time": 1677787214,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135396,
+      "num": 135396,
+      "word": "王一博看保你平安",
+      "onboard_time": 1678318283,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 135395,
@@ -14515,6 +14707,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 127246,
+      "num": 127246,
+      "word": "陆虎新歌",
+      "onboard_time": 1678318824,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127219,
       "num": 148030,
       "word": "微软WP系统还能正常使用吗",
@@ -14713,14 +14913,6 @@
       "onboard_time": 1677740486,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 123575,
-      "num": 234112,
-      "word": "金智秀solo主打预告照",
-      "onboard_time": 1678318103,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 123532,
@@ -14955,14 +15147,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117348,
-      "num": 88696,
-      "word": "印度首次成为苹果自主销售地区",
-      "onboard_time": 1678318162,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 117324,
       "num": 190822,
       "word": "TVB直播一秒代入港剧",
@@ -15081,6 +15265,14 @@
       "onboard_time": 1677613991,
       "rank": 30,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 115118,
+      "num": 115118,
+      "word": "推特广告收入下降50%",
+      "onboard_time": 1678322668,
+      "rank": 39,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 114791,
@@ -15435,6 +15627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108394,
+      "num": 108394,
+      "word": "维蒂尼亚空门不进",
+      "onboard_time": 1678322609,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108306,
       "num": 108306,
       "word": "这居然是个鱼缸",
@@ -15601,6 +15801,14 @@
       "onboard_time": 1677994887,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105455,
+      "num": 105455,
+      "word": "分析师紧急开会提示室温超导风险",
+      "onboard_time": 1678325785,
+      "rank": 44,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 105358,
@@ -15971,6 +16179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 97416,
+      "num": 97416,
+      "word": "农村大姐用生活中动作指挥乐队",
+      "onboard_time": 1678321890,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97251,
       "num": 452301,
       "word": "7个关键字看政府工作报告",
@@ -16113,6 +16329,14 @@
       "onboard_time": 1677852869,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93288,
+      "num": 93288,
+      "word": "献给爱喝可乐的潇洒哥",
+      "onboard_time": 1678320691,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 92668,
@@ -16780,7 +17004,7 @@
     },
     {
       "raw_hot": 62412,
-      "num": 887970,
+      "num": 1324655,
       "word": "两高报告十大关键词",
       "onboard_time": 1678235129,
       "rank": 9,
@@ -16857,14 +17081,6 @@
       "onboard_time": 1678172667,
       "rank": 9,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 56378,
-      "num": 56378,
-      "word": "王一博看保你平安",
-      "onboard_time": 1678318283,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 56067,
