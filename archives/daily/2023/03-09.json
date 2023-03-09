@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678340092669,
+  "endTime": 1678343130916,
   "band_list": [
     {
       "raw_hot": 5333620,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1183594,
+      "num": 1183594,
+      "word": "建议在农村淘汰老头乐",
+      "onboard_time": 1678340967,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107527,
       "num": 1107527,
       "word": "罪犯子女考公限制要不要取消",
@@ -105,6 +113,14 @@
       "onboard_time": 1678330285,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 872941,
+      "num": 337358,
+      "word": "西安一学院白天没课也不能回宿舍",
+      "onboard_time": 1678340248,
+      "rank": 10,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 850879,
@@ -137,6 +153,14 @@
       "onboard_time": 1678334070,
       "rank": 12,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 788051,
+      "num": 631782,
+      "word": "大学生若隐若现的礼貌",
+      "onboard_time": 1678337493,
+      "rank": 13,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 767876,
@@ -203,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 630133,
+      "num": 630133,
+      "word": "天秤座有一种独特的气质",
+      "onboard_time": 1678339290,
+      "rank": 5,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 609656,
       "num": 609656,
       "word": "网剧花戎",
@@ -235,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 575392,
+      "num": 336722,
+      "word": "肖战魏无羡又登剧集角色新媒体指数",
+      "onboard_time": 1678339890,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 574694,
       "num": 378199,
       "word": "迪士尼游客站着看烟花秀遭后排辱骂",
@@ -251,20 +291,20 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 572917,
-      "num": 572917,
-      "word": "天秤座有一种独特的气质",
-      "onboard_time": 1678339290,
-      "rank": 5,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 565256,
       "num": 263495,
       "word": "王子文 现在没有恋人",
       "onboard_time": 1678271066,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 553842,
+      "num": 553842,
+      "word": "海关查获人体模型内藏活体植物根茎",
+      "onboard_time": 1678339408,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 549866,
@@ -283,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 539442,
+      "num": 304251,
+      "word": "赛琳娜海莉同场活动",
+      "onboard_time": 1678338512,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533588,
       "num": 533588,
       "word": "90后校友未兑现1100万捐赠被诉",
@@ -291,12 +339,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 526905,
-      "num": 304251,
-      "word": "赛琳娜海莉同场活动",
-      "onboard_time": 1678338512,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 517034,
+      "num": 517034,
+      "word": "杨幂 微博之夜",
+      "onboard_time": 1678340189,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 504309,
@@ -331,12 +379,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 462295,
-      "num": 462295,
-      "word": "大学生若隐若现的礼貌",
-      "onboard_time": 1678337493,
-      "rank": 13,
-      "category": "情感,幽默"
+      "raw_hot": 474012,
+      "num": 234746,
+      "word": "唐嫣钟汉良重现何以笙箫默",
+      "onboard_time": 1678340128,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 433085,
@@ -419,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 364782,
+      "num": 364782,
+      "word": "王铮亮推荐张远上元宵晚会",
+      "onboard_time": 1678342646,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363364,
       "num": 363364,
       "word": "梁朝伟谈与王一博拍摄打斗戏",
@@ -465,6 +521,14 @@
       "onboard_time": 1678328904,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333522,
+      "num": 333522,
+      "word": "冯小刚非诚勿扰3备案",
+      "onboard_time": 1678340786,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 324774,
@@ -528,14 +592,6 @@
       "word": "夜昙废了天帝修为",
       "onboard_time": 1678336776,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 284306,
-      "num": 284306,
-      "word": "肖战魏无羡又登剧集角色新媒体指数",
-      "onboard_time": 1678339890,
-      "rank": 16,
       "category": "影视"
     },
     {
@@ -787,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193797,
-      "num": 193797,
-      "word": "海关查获人体模型内藏活体植物根茎",
-      "onboard_time": 1678339408,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193681,
       "num": 193681,
       "word": "靖佩瑶吕妍结婚",
@@ -891,12 +939,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169531,
+      "num": 169531,
+      "word": "大侦探",
+      "onboard_time": 1678338212,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168550,
       "num": 168550,
       "word": "大湾区每年超三成新人选择陆港联姻",
       "onboard_time": 1678333950,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165641,
+      "num": 165641,
+      "word": "杨紫199爱路透",
+      "onboard_time": 1678342527,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 163838,
@@ -921,6 +985,14 @@
       "onboard_time": 1678331608,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 158570,
+      "num": 158570,
+      "word": "一楼住户不同意装电梯被邻居起诉",
+      "onboard_time": 1678342585,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158317,
@@ -987,12 +1059,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149368,
-      "num": 149368,
-      "word": "大侦探",
-      "onboard_time": 1678338212,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 146661,
+      "num": 146661,
+      "word": "快船战胜猛龙",
+      "onboard_time": 1678341508,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 144819,
@@ -1097,6 +1169,14 @@
       "onboard_time": 1678290567,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 124060,
+      "num": 124060,
+      "word": "短道世锦赛林孝埈出战两单项",
+      "onboard_time": 1678342889,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 122669,

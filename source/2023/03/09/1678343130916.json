@@ -1,0 +1,410 @@
+{
+  "runTime": 1678343130916,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1183594,
+        "num": 1183594,
+        "word": "建议在农村淘汰老头乐",
+        "onboard_time": 1678340967,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650877,
+        "num": 650877,
+        "word": "说唱女歌手转行卖烧烤年入百万",
+        "onboard_time": 1678333950,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42586,
+        "num": 632073,
+        "word": "青春主场",
+        "onboard_time": 1678331847,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788051,
+        "num": 631782,
+        "word": "大学生若隐若现的礼貌",
+        "onboard_time": 1678337493,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 702083,
+        "num": 631219,
+        "word": "成龙进组20天把半年的封闭用完了",
+        "onboard_time": 1678332630,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 630133,
+        "num": 630133,
+        "word": "天秤座有一种独特的气质",
+        "onboard_time": 1678339290,
+        "rank": 5,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 553842,
+        "num": 553842,
+        "word": "海关查获人体模型内藏活体植物根茎",
+        "onboard_time": 1678339408,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517034,
+        "num": 517034,
+        "word": "杨幂 微博之夜",
+        "onboard_time": 1678340189,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364782,
+        "num": 364782,
+        "word": "王铮亮推荐张远上元宵晚会",
+        "onboard_time": 1678342646,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338031,
+        "num": 338031,
+        "word": "今年五一档已定档10部新片",
+        "onboard_time": 1678333769,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 872941,
+        "num": 337358,
+        "word": "西安一学院白天没课也不能回宿舍",
+        "onboard_time": 1678340248,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 575392,
+        "num": 336722,
+        "word": "肖战魏无羡又登剧集角色新媒体指数",
+        "onboard_time": 1678339890,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560886,
+        "num": 336205,
+        "word": "黄奕自曝还珠格格影响了自己的爱情观",
+        "onboard_time": 1678329326,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415108,
+        "num": 335028,
+        "word": "业主购74平房屋套内仅40平",
+        "onboard_time": 1678334070,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 357290,
+        "num": 334022,
+        "word": "椰树推出猛男直播销售额不到1千",
+        "onboard_time": 1678332087,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333522,
+        "num": 333522,
+        "word": "冯小刚非诚勿扰3备案",
+        "onboard_time": 1678340786,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325373,
+        "num": 325373,
+        "word": "赵丽颖花千骨剧组旧照",
+        "onboard_time": 1678336715,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259071,
+        "num": 259071,
+        "word": "青葵是孟子义的班主任",
+        "onboard_time": 1678333108,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235150,
+        "num": 235150,
+        "word": "安以轩老公陈荣炼案将宣判",
+        "onboard_time": 1678330285,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474012,
+        "num": 234746,
+        "word": "唐嫣钟汉良重现何以笙箫默",
+        "onboard_time": 1678340128,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1251854,
+        "num": 228568,
+        "word": "香港名媛碎尸案一潘姓女网红被抓",
+        "onboard_time": 1678332267,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 539442,
+        "num": 226782,
+        "word": "赛琳娜海莉同场活动",
+        "onboard_time": 1678338512,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442147,
+        "num": 223037,
+        "word": "4岁男童将扳手塞进爸爸嘴里被吞下",
+        "onboard_time": 1678335812,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220888,
+        "num": 220888,
+        "word": "90后校友未兑现1100万捐赠被诉",
+        "onboard_time": 1678332387,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 209067,
+        "num": 209067,
+        "word": "SHE聚会",
+        "onboard_time": 1678334970,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206077,
+        "num": 206077,
+        "word": "女子自拍被小鸡一口啄出美瞳",
+        "onboard_time": 1678329865,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199858,
+        "num": 199858,
+        "word": "考研国家线什么时候能出",
+        "onboard_time": 1678328785,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194255,
+        "num": 194255,
+        "word": "迪丽热巴时装3月刊",
+        "onboard_time": 1678337557,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192382,
+        "num": 192382,
+        "word": "每天少睡一两个小时算熬夜吗",
+        "onboard_time": 1678317381,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187515,
+        "num": 187515,
+        "word": "甲流发病急",
+        "onboard_time": 1678320870,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177395,
+        "num": 177395,
+        "word": "刘宇宁说要问宋祖儿要to签",
+        "onboard_time": 1678338811,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175484,
+        "num": 175484,
+        "word": "请在里面找出花花",
+        "onboard_time": 1678325246,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169531,
+        "num": 169531,
+        "word": "大侦探",
+        "onboard_time": 1678338212,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165641,
+        "num": 165641,
+        "word": "杨紫199爱路透",
+        "onboard_time": 1678342527,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160640,
+        "num": 160640,
+        "word": "夜昙废了天帝修为",
+        "onboard_time": 1678336776,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158570,
+        "num": 158570,
+        "word": "一楼住户不同意装电梯被邻居起诉",
+        "onboard_time": 1678342585,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158405,
+        "num": 158405,
+        "word": "华为P60获经销商大量预订",
+        "onboard_time": 1678328545,
+        "rank": 36,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 158015,
+        "num": 158015,
+        "word": "金钟仁更新ins",
+        "onboard_time": 1678337074,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146661,
+        "num": 146661,
+        "word": "快船战胜猛龙",
+        "onboard_time": 1678341508,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146589,
+        "num": 146589,
+        "word": "女子入职被公司乐捐制度吓退",
+        "onboard_time": 1678319066,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145413,
+        "num": 145413,
+        "word": "汽车全面降价的时代来了吗",
+        "onboard_time": 1678322609,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144751,
+        "num": 144751,
+        "word": "庆余年2面试群演",
+        "onboard_time": 1678328063,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133369,
+        "num": 133369,
+        "word": "光与夜之恋",
+        "onboard_time": 1678339588,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132930,
+        "num": 132930,
+        "word": "网剧花戎",
+        "onboard_time": 1678333170,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130550,
+        "num": 130550,
+        "word": "官方回应甘孜村民多次拦车要红包",
+        "onboard_time": 1678329146,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124060,
+        "num": 124060,
+        "word": "短道世锦赛林孝埈出战两单项",
+        "onboard_time": 1678342889,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119013,
+        "num": 119013,
+        "word": "罪犯子女考公限制要不要取消",
+        "onboard_time": 1678329626,
+        "rank": 46,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 115960,
+        "num": 115960,
+        "word": "余承东",
+        "onboard_time": 1678332986,
+        "rank": 47,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 110327,
+        "num": 110327,
+        "word": "姆巴佩",
+        "onboard_time": 1678326146,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90367,
+        "num": 90367,
+        "word": "博主用低代码还原流浪地球名场面",
+        "onboard_time": 1678335934,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#10组数据看司法为民的力度和温度#"
+    }
+  }
+}
