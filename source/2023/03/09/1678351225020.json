@@ -1,0 +1,410 @@
+{
+  "runTime": 1678351225020,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 782916,
+        "num": 782916,
+        "word": "只有熊猫吧唧嘴不招人烦",
+        "onboard_time": 1678346244,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611293,
+        "num": 611293,
+        "word": "老默千岛湖摸鱼",
+        "onboard_time": 1678349545,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33338,
+        "num": 578319,
+        "word": "青春主场",
+        "onboard_time": 1678331847,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640896,
+        "num": 577537,
+        "word": "46位DOTA2选手被官方禁赛",
+        "onboard_time": 1678350087,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 576547,
+        "num": 576547,
+        "word": "天秤座有一种独特的气质",
+        "onboard_time": 1678339290,
+        "rank": 4,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 555365,
+        "num": 555365,
+        "word": "清华学生操场拍下中国空间站凌月",
+        "onboard_time": 1678347565,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481600,
+        "num": 481600,
+        "word": "吴刚孙怡演父女",
+        "onboard_time": 1678346128,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 469722,
+        "num": 469722,
+        "word": "该怎么给小鸡解释它的身世",
+        "onboard_time": 1678345105,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 421738,
+        "num": 421738,
+        "word": "成龙进组20天把半年的封闭用完了",
+        "onboard_time": 1678332630,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 407352,
+        "num": 407352,
+        "word": "东风系引发车市价格大战",
+        "onboard_time": 1678347626,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1298302,
+        "num": 404322,
+        "word": "汇源发布认养丫丫征集令",
+        "onboard_time": 1678343845,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063906,
+        "num": 403050,
+        "word": "建议在农村淘汰老头乐",
+        "onboard_time": 1678340967,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446660,
+        "num": 400043,
+        "word": "一楼住户不同意装电梯被邻居起诉",
+        "onboard_time": 1678342585,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393895,
+        "num": 393895,
+        "word": "蒋雯丽明道 转角之恋",
+        "onboard_time": 1678349367,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 713049,
+        "num": 386283,
+        "word": "老头乐",
+        "onboard_time": 1678348825,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374880,
+        "num": 374880,
+        "word": "BLG官宣LvMao加入",
+        "onboard_time": 1678348948,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 341230,
+        "num": 341230,
+        "word": "赖美云说内娱的尽头是百花齐放",
+        "onboard_time": 1678350446,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322518,
+        "num": 322518,
+        "word": "大鹏晒与王一博合照",
+        "onboard_time": 1678347326,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315669,
+        "num": 315669,
+        "word": "肖战魏无羡又登剧集角色新媒体指数",
+        "onboard_time": 1678339890,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297609,
+        "num": 297609,
+        "word": "萧亚轩分享赛琳娜采访视频",
+        "onboard_time": 1678347326,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 876682,
+        "num": 295113,
+        "word": "香港名媛碎尸案一潘姓女网红被抓",
+        "onboard_time": 1678332267,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 591134,
+        "num": 287477,
+        "word": "金泰妍吃播",
+        "onboard_time": 1678349726,
+        "rank": 21,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 372445,
+        "num": 283728,
+        "word": "柳智敏棕色皮裙",
+        "onboard_time": 1678349367,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 320892,
+        "num": 272376,
+        "word": "4岁男童将扳手塞进爸爸嘴里被吞下",
+        "onboard_time": 1678335812,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272102,
+        "num": 272102,
+        "word": "海关查获人体模型内藏活体植物根茎",
+        "onboard_time": 1678339408,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231530,
+        "num": 231530,
+        "word": "黑暗荣耀2明天全集播出",
+        "onboard_time": 1678345406,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225234,
+        "num": 225234,
+        "word": "假如死的是夜昙",
+        "onboard_time": 1678345347,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223700,
+        "num": 223700,
+        "word": "说唱女歌手转行卖烧烤年入百万",
+        "onboard_time": 1678333950,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213253,
+        "num": 213253,
+        "word": "大学生若隐若现的礼貌",
+        "onboard_time": 1678337493,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 205763,
+        "num": 205763,
+        "word": "杨幂 微博之夜",
+        "onboard_time": 1678340189,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200210,
+        "num": 200210,
+        "word": "黄奕自曝还珠格格影响了自己的爱情观",
+        "onboard_time": 1678329326,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197164,
+        "num": 197164,
+        "word": "清华开发出智能可穿戴人工喉咙",
+        "onboard_time": 1678347207,
+        "rank": 31,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 189739,
+        "num": 189739,
+        "word": "业主购74平房屋套内仅40平",
+        "onboard_time": 1678334070,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 152092,
+        "num": 152092,
+        "word": "今年五一档已定档10部新片",
+        "onboard_time": 1678333769,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147683,
+        "num": 147683,
+        "word": "为啥熊猫使者近期扎堆回国",
+        "onboard_time": 1678350266,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146030,
+        "num": 146030,
+        "word": "考研国家线什么时候能出",
+        "onboard_time": 1678328785,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140074,
+        "num": 140074,
+        "word": "刘畊宏吴尊合照",
+        "onboard_time": 1678346366,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139190,
+        "num": 139190,
+        "word": "旅外大熊猫租借时长有严格限制",
+        "onboard_time": 1678349845,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 134862,
+        "num": 134862,
+        "word": "90后校友未兑现1100万捐赠被诉",
+        "onboard_time": 1678332387,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 130975,
+        "num": 130975,
+        "word": "椰树推出猛男直播销售额不到1千",
+        "onboard_time": 1678332087,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122825,
+        "num": 122825,
+        "word": "赵丽颖花千骨剧组旧照",
+        "onboard_time": 1678336715,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115609,
+        "num": 115609,
+        "word": "短道世锦赛林孝埈出战两单项",
+        "onboard_time": 1678342889,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115266,
+        "num": 115266,
+        "word": "SHE聚会",
+        "onboard_time": 1678334970,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113936,
+        "num": 113936,
+        "word": "电影忠犬八公",
+        "onboard_time": 1678345765,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 111832,
+        "num": 111832,
+        "word": "安以轩老公陈荣炼案将宣判",
+        "onboard_time": 1678330285,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108148,
+        "num": 108148,
+        "word": "迪丽热巴时装3月刊",
+        "onboard_time": 1678337557,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101224,
+        "num": 101224,
+        "word": "律师谈公司乐捐制度",
+        "onboard_time": 1678350866,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90689,
+        "num": 90689,
+        "word": "甲流发病急",
+        "onboard_time": 1678320870,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85077,
+        "num": 85077,
+        "word": "丁禹兮杨超越隔空比心",
+        "onboard_time": 1678347267,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82940,
+        "num": 82940,
+        "word": "95后大厂女生裸辞开麻将馆当保洁",
+        "onboard_time": 1678351166,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国两会时光#"
+    }
+  }
+}
