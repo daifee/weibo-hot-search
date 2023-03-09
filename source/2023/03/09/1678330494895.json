@@ -1,0 +1,410 @@
+{
+  "runTime": 1678330494895,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1028431,
+        "num": 1028431,
+        "word": "女子入职被公司乐捐制度吓退",
+        "onboard_time": 1678319066,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 834442,
+        "num": 834442,
+        "word": "请在里面找出花花",
+        "onboard_time": 1678325246,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10782,
+        "num": 804306,
+        "word": "两高报告十大关键词",
+        "onboard_time": 1678235129,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1033777,
+        "num": 802535,
+        "word": "庆余年2面试群演",
+        "onboard_time": 1678328063,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 784623,
+        "num": 784623,
+        "word": "每天少睡一两个小时算熬夜吗",
+        "onboard_time": 1678317381,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652001,
+        "num": 652001,
+        "word": "姆巴佩",
+        "onboard_time": 1678326146,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 605070,
+        "num": 605070,
+        "word": "华为P60获经销商大量预订",
+        "onboard_time": 1678328545,
+        "rank": 6,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 556440,
+        "num": 556440,
+        "word": "甲流发病急",
+        "onboard_time": 1678320870,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455138,
+        "num": 455138,
+        "word": "汽车全面降价的时代来了吗",
+        "onboard_time": 1678322609,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 430769,
+        "num": 430769,
+        "word": "考研国家线什么时候能出",
+        "onboard_time": 1678328785,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 804917,
+        "num": 418851,
+        "word": "黄奕自曝还珠格格影响了自己的爱情观",
+        "onboard_time": 1678329326,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 446714,
+        "num": 413486,
+        "word": "安以轩老公陈荣炼案将宣判",
+        "onboard_time": 1678330285,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400258,
+        "num": 400258,
+        "word": "罪犯子女考公限制要不要取消",
+        "onboard_time": 1678329626,
+        "rank": 12,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 378406,
+        "num": 378406,
+        "word": "安能辨我是猫狗",
+        "onboard_time": 1678328125,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367617,
+        "num": 367617,
+        "word": "室温超导",
+        "onboard_time": 1678321590,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363364,
+        "num": 363364,
+        "word": "梁朝伟谈与王一博拍摄打斗戏",
+        "onboard_time": 1678326625,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352146,
+        "num": 352146,
+        "word": "女子起诉离婚屡遭公公跟踪获保护令",
+        "onboard_time": 1678326987,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348808,
+        "num": 348808,
+        "word": "官方回应甘孜村民多次拦车要红包",
+        "onboard_time": 1678329146,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334950,
+        "num": 334950,
+        "word": "杜兰特左脚踝受伤",
+        "onboard_time": 1678328904,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319117,
+        "num": 319117,
+        "word": "这是缉毒女警唯一能公布的照片",
+        "onboard_time": 1678317080,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294698,
+        "num": 294698,
+        "word": "折腰路透",
+        "onboard_time": 1678329987,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269293,
+        "num": 269293,
+        "word": "台黑帮五星级酒店高调办晚宴",
+        "onboard_time": 1678322072,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258418,
+        "num": 258418,
+        "word": "51岁失独妈妈绝境中创业成董事长",
+        "onboard_time": 1678329626,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 240567,
+        "num": 240567,
+        "word": "金智秀solo主打预告照",
+        "onboard_time": 1678318103,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228862,
+        "num": 228862,
+        "word": "小学生拾金不昧获每年6千元助学金",
+        "onboard_time": 1678325545,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210518,
+        "num": 210518,
+        "word": "梅西连续3年无缘欧冠8强",
+        "onboard_time": 1678319548,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206869,
+        "num": 206869,
+        "word": "辛巴在直播间指责快手人气造假",
+        "onboard_time": 1678328486,
+        "rank": 26,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 203507,
+        "num": 203507,
+        "word": "毛不易献唱保你平安主题曲",
+        "onboard_time": 1678330046,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194694,
+        "num": 194694,
+        "word": "小美人鱼新海报",
+        "onboard_time": 1678324586,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194491,
+        "num": 194491,
+        "word": "女子自拍被小鸡一口啄出美瞳",
+        "onboard_time": 1678329865,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189977,
+        "num": 189977,
+        "word": "年薪41万董秘自掏4亿买公司股份",
+        "onboard_time": 1678284870,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 185619,
+        "num": 185619,
+        "word": "东风汽车降价",
+        "onboard_time": 1678322849,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162853,
+        "num": 162853,
+        "word": "管泽元直播回应",
+        "onboard_time": 1678317319,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153650,
+        "num": 153650,
+        "word": "星落凝成糖复仇版剧照",
+        "onboard_time": 1678328725,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139505,
+        "num": 139505,
+        "word": "人不会只去一次杭州",
+        "onboard_time": 1678329688,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 131073,
+        "num": 131073,
+        "word": "NCT道在廷将上半年出道",
+        "onboard_time": 1678323988,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127991,
+        "num": 127991,
+        "word": "tangoz模仿权志龙唱歌",
+        "onboard_time": 1678323150,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127617,
+        "num": 127617,
+        "word": "滚筒洗衣机运镜",
+        "onboard_time": 1678320809,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116693,
+        "num": 116693,
+        "word": "青你选手徐炳超卖包子",
+        "onboard_time": 1678282348,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111223,
+        "num": 111223,
+        "word": "如何预防甲流",
+        "onboard_time": 1678327584,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102975,
+        "num": 102975,
+        "word": "无限超越班 TVB",
+        "onboard_time": 1678319306,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103280,
+        "num": 102310,
+        "word": "甲流抗原有必要用吗",
+        "onboard_time": 1678330405,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101123,
+        "num": 101123,
+        "word": "张颂文即兴发挥吃鱼梗",
+        "onboard_time": 1678319367,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98824,
+        "num": 98824,
+        "word": "分析师紧急开会提示室温超导风险",
+        "onboard_time": 1678325785,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 96428,
+        "num": 96428,
+        "word": "马相亲的脾气这么大",
+        "onboard_time": 1678327824,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96041,
+        "num": 96041,
+        "word": "印度首次成为苹果自主销售地区",
+        "onboard_time": 1678318162,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 94575,
+        "num": 94575,
+        "word": "两会热词学习笔记",
+        "onboard_time": 1678330168,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 93312,
+        "num": 93312,
+        "word": "张真源画的玫瑰",
+        "onboard_time": 1678321409,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93072,
+        "num": 93072,
+        "word": "迪士尼游客站着看烟花秀遭后排辱骂",
+        "onboard_time": 1678293201,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84631,
+        "num": 84631,
+        "word": "广东处于地震活动相对活跃的时段",
+        "onboard_time": 1678293559,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#两会里的春天#"
+    }
+  }
+}
