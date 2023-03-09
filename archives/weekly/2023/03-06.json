@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678382311686,
+  "endTime": 1678383346824,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -8227,6 +8227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97245,
+      "num": 86820,
+      "word": "粥式奶茶",
+      "onboard_time": 1678381217,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 96767,
       "num": 96767,
       "word": "星糖主打一个全糖",
@@ -8619,14 +8627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 69845,
-      "num": 69845,
-      "word": "粥式奶茶",
-      "onboard_time": 1678381217,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 69177,
       "num": 69177,
       "word": "宋佳巴黎时装周看秀造型",
@@ -8833,6 +8833,14 @@
       "onboard_time": 1678276831,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29221,
+      "num": 29221,
+      "word": "陈建宇GANG舞台",
+      "onboard_time": 1678376307,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 28887,

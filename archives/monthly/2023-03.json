@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678382311686,
+  "endTime": 1678383346824,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -17843,6 +17843,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 97245,
+      "num": 86820,
+      "word": "粥式奶茶",
+      "onboard_time": 1678381217,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 96778,
       "num": 96778,
       "word": "极限挑战宝藏行",
@@ -18595,14 +18603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69845,
-      "num": 69845,
-      "word": "粥式奶茶",
-      "onboard_time": 1678381217,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 69173,
       "num": 69173,
       "word": "这就是鼓励式教育的意义吧",
@@ -19121,6 +19121,14 @@
       "onboard_time": 1678276831,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29221,
+      "num": 29221,
+      "word": "陈建宇GANG舞台",
+      "onboard_time": 1678376307,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 28887,

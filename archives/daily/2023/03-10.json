@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678382311686,
+  "endTime": 1678383346824,
   "band_list": [
     {
       "raw_hot": 1790566,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97245,
+      "num": 86820,
+      "word": "粥式奶茶",
+      "onboard_time": 1678381217,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 94969,
       "num": 94969,
       "word": "EDG ban黑叔叔吧",
@@ -371,14 +379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 69845,
-      "num": 69845,
-      "word": "粥式奶茶",
-      "onboard_time": 1678381217,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 66786,
       "num": 76228,
       "word": "BoysPlanet二公竞演",
@@ -416,6 +416,14 @@
       "word": "郭彪重返舞台陈楚生哭了",
       "onboard_time": 1678365929,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 29221,
+      "num": 29221,
+      "word": "陈建宇GANG舞台",
+      "onboard_time": 1678376307,
+      "rank": 49,
       "category": "综艺"
     },
     {
