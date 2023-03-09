@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678360622073,
+  "endTime": 1678361644207,
   "band_list": [
     {
       "raw_hot": 5333620,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1114393,
+      "num": 1114393,
+      "word": "9岁男孩感染甲流后住进ICU",
+      "onboard_time": 1678356085,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107527,
       "num": 1107527,
       "word": "罪犯子女考公限制要不要取消",
@@ -153,14 +161,6 @@
       "onboard_time": 1678330285,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 917505,
-      "num": 917505,
-      "word": "9岁男孩感染甲流后住进ICU",
-      "onboard_time": 1678356085,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 875230,
@@ -483,12 +483,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 522659,
-      "num": 522659,
+      "raw_hot": 531352,
+      "num": 531352,
       "word": "甲流病毒进入人体后会经历什么",
       "onboard_time": 1678356207,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530969,
+      "num": 530969,
+      "word": "俄罗斯空袭乌克兰多个地区",
+      "onboard_time": 1678359205,
+      "rank": 8,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 517034,
@@ -635,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 393052,
+      "num": 393052,
+      "word": "台陆军一士兵失联",
+      "onboard_time": 1678360167,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
       "raw_hot": 388826,
       "num": 388826,
       "word": "迪丽热巴时装3月刊",
@@ -691,12 +707,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 371218,
-      "num": 371218,
-      "word": "俄罗斯空袭乌克兰多个地区",
-      "onboard_time": 1678359205,
-      "rank": 8,
-      "category": "国外要闻,军事"
+      "raw_hot": 369246,
+      "num": 210495,
+      "word": "兄弟俩辞职回家种地年营收1亿",
+      "onboard_time": 1678359688,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366866,
@@ -779,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336072,
+      "num": 336072,
+      "word": "张文宏呼吁重视甲流预防",
+      "onboard_time": 1678356267,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335853,
       "num": 335853,
       "word": "短道世锦赛林孝埈出战两单项",
@@ -851,20 +875,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310520,
-      "num": 310520,
-      "word": "张文宏呼吁重视甲流预防",
-      "onboard_time": 1678356267,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309909,
       "num": 309909,
       "word": "东风汽车降价",
       "onboard_time": 1678322849,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 309013,
+      "num": 309013,
+      "word": "宋妍霏发长文告别温媃",
+      "onboard_time": 1678359567,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 307156,
@@ -1011,14 +1035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237475,
-      "num": 157521,
-      "word": "台陆军一士兵失联",
-      "onboard_time": 1678360167,
-      "rank": 30,
-      "category": "军事"
-    },
-    {
       "raw_hot": 233205,
       "num": 78103,
       "word": "蜂花请关心丫丫的人理性消费",
@@ -1073,14 +1089,6 @@
       "onboard_time": 1678356386,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219733,
-      "num": 210495,
-      "word": "兄弟俩辞职回家种地年营收1亿",
-      "onboard_time": 1678359688,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216999,
@@ -1171,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202730,
+      "num": 202730,
+      "word": "2023KPL春季赛",
+      "onboard_time": 1678361304,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201693,
       "num": 201693,
       "word": "罗云熙名誉维权案件进展",
@@ -1201,14 +1217,6 @@
       "onboard_time": 1678327584,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200331,
-      "num": 200331,
-      "word": "宋妍霏发长文告别温媃",
-      "onboard_time": 1678359567,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 199154,
@@ -1305,6 +1313,14 @@
       "onboard_time": 1678352607,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179358,
+      "num": 179358,
+      "word": "徐若晗 男人装",
+      "onboard_time": 1678361366,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 178441,
@@ -1523,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149074,
+      "num": 149074,
+      "word": "苏新皓跳舞视频",
+      "onboard_time": 1678360407,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147092,
       "num": 147092,
       "word": "WTT新加坡大满贯2023",
@@ -1683,14 +1707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118414,
-      "num": 118414,
-      "word": "苏新皓跳舞视频",
-      "onboard_time": 1678360407,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 115607,
       "num": 115607,
       "word": "两会热词学习笔记",
@@ -1763,12 +1779,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108041,
+      "num": 108041,
+      "word": "建议加强问题少年矫治学校建设",
+      "onboard_time": 1678361248,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 107740,
       "num": 107740,
       "word": "南太铉酒驾被立案",
       "onboard_time": 1678278327,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106511,
+      "num": 106511,
+      "word": "话说出来自己先笑了",
+      "onboard_time": 1678361606,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 104736,
