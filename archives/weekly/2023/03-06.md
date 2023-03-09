@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/03/06 00:24:21 ~ 2023/03/10 03:33:44
+本榜单时间：2023/03/06 00:24:21 ~ 2023/03/10 04:21:06
 </p>
 </blockquote>
 <p>
@@ -6683,6 +6683,12 @@ WBG蝉联周冠军（热度：65059）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%BE%B7%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%85%AC%E5%BC%80%E8%B5%9B%23" target="weibo">
 2023年德国羽毛球公开赛（热度：16984）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E7%8E%8B%E4%B8%80%E6%A0%A9%E5%90%88%E4%BD%9C%E6%96%B0%E4%B8%93%E8%BE%91%23" target="weibo">
+吴宣仪王一栩合作新专辑（热度：15660）
 </a>
 </li>
 

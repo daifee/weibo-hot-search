@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678390424027,
+  "endTime": 1678393266458,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -19225,6 +19225,14 @@
       "onboard_time": 1678300453,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15660,
+      "num": 15660,
+      "word": "吴宣仪王一栩合作新专辑",
+      "onboard_time": 1678390451,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 13727,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/03/10 00:28:09 ~ 2023/03/10 03:33:44
+本榜单时间：2023/03/10 00:28:09 ~ 2023/03/10 04:21:06
 </p>
 </blockquote>
 <p>
@@ -335,6 +335,12 @@ Hero对战DRG（热度：31044）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%AE%87GANG%E8%88%9E%E5%8F%B0%23" target="weibo">
 陈建宇GANG舞台（热度：29830）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E7%8E%8B%E4%B8%80%E6%A0%A9%E5%90%88%E4%BD%9C%E6%96%B0%E4%B8%93%E8%BE%91%23" target="weibo">
+吴宣仪王一栩合作新专辑（热度：15660）
 </a>
 </li>
 
