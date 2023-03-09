@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678358310953,
+  "endTime": 1678360622073,
   "band_list": [
     {
       "raw_hot": 5333620,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1226849,
+      "num": 1226849,
+      "word": "2022年医保基金支付核酸费用43亿",
+      "onboard_time": 1678357767,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107527,
       "num": 1107527,
       "word": "罪犯子女考公限制要不要取消",
@@ -145,6 +153,14 @@
       "onboard_time": 1678330285,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 917505,
+      "num": 917505,
+      "word": "9岁男孩感染甲流后住进ICU",
+      "onboard_time": 1678356085,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 875230,
@@ -225,14 +241,6 @@
       "onboard_time": 1678354288,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 721437,
-      "num": 721437,
-      "word": "9岁男孩感染甲流后住进ICU",
-      "onboard_time": 1678356085,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 720732,
@@ -337,14 +345,6 @@
       "onboard_time": 1678346128,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 629529,
-      "num": 629529,
-      "word": "2022年医保基金支付核酸费用43亿",
-      "onboard_time": 1678357767,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 626173,
@@ -483,6 +483,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 522659,
+      "num": 522659,
+      "word": "甲流病毒进入人体后会经历什么",
+      "onboard_time": 1678356207,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 517034,
       "num": 566370,
       "word": "杨幂 微博之夜",
@@ -497,6 +505,14 @@
       "onboard_time": 1678328785,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 500275,
+      "num": 500275,
+      "word": "EDG ban黑叔叔吧",
+      "onboard_time": 1678358487,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 499338,
@@ -675,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371218,
+      "num": 371218,
+      "word": "俄罗斯空袭乌克兰多个地区",
+      "onboard_time": 1678359205,
+      "rank": 8,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 366866,
       "num": 366866,
       "word": "梅西连续3年无缘欧冠8强",
@@ -737,6 +761,14 @@
       "onboard_time": 1678326987,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346510,
+      "num": 346510,
+      "word": "宣璐为重症肌无力女子加油",
+      "onboard_time": 1678359807,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 341768,
@@ -817,6 +849,14 @@
       "onboard_time": 1678263448,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310520,
+      "num": 310520,
+      "word": "张文宏呼吁重视甲流预防",
+      "onboard_time": 1678356267,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309909,
@@ -971,19 +1011,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237475,
+      "num": 157521,
+      "word": "台陆军一士兵失联",
+      "onboard_time": 1678360167,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
       "raw_hot": 233205,
       "num": 78103,
       "word": "蜂花请关心丫丫的人理性消费",
       "onboard_time": 1678270169,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231559,
-      "num": 231559,
-      "word": "甲流病毒进入人体后会经历什么",
-      "onboard_time": 1678356207,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1033,6 +1073,14 @@
       "onboard_time": 1678356386,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219733,
+      "num": 210495,
+      "word": "兄弟俩辞职回家种地年营收1亿",
+      "onboard_time": 1678359688,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216999,
@@ -1147,20 +1195,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200749,
-      "num": 200749,
-      "word": "张文宏呼吁重视甲流预防",
-      "onboard_time": 1678356267,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200501,
       "num": 150016,
       "word": "如何预防甲流",
       "onboard_time": 1678327584,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200331,
+      "num": 200331,
+      "word": "宋妍霏发长文告别温媃",
+      "onboard_time": 1678359567,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 199154,
@@ -1339,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168986,
+      "num": 168986,
+      "word": "王鹤棣费加罗三色流光封面",
+      "onboard_time": 1678359268,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 168550,
       "num": 168550,
       "word": "大湾区每年超三成新人选择陆港联姻",
@@ -1467,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147092,
+      "num": 147092,
+      "word": "WTT新加坡大满贯2023",
+      "onboard_time": 1678358728,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146715,
       "num": 146715,
       "word": "王鹤棣杂志live图",
@@ -1537,6 +1601,14 @@
       "onboard_time": 1678294698,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136664,
+      "num": 136664,
+      "word": "综艺里求婚名场面",
+      "onboard_time": 1678358606,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 135840,
@@ -1611,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118414,
+      "num": 118414,
+      "word": "苏新皓跳舞视频",
+      "onboard_time": 1678360407,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 115607,
       "num": 115607,
       "word": "两会热词学习笔记",
@@ -1633,6 +1713,14 @@
       "onboard_time": 1678287330,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 114604,
+      "num": 114604,
+      "word": "孙颖莎说更了解自己了",
+      "onboard_time": 1678358127,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 114100,
@@ -1705,14 +1793,6 @@
       "onboard_time": 1678350866,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98827,
-      "num": 98827,
-      "word": "孙颖莎说更了解自己了",
-      "onboard_time": 1678358127,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 98064,
@@ -1892,7 +1972,7 @@
     },
     {
       "raw_hot": 55847,
-      "num": 720417,
+      "num": 893610,
       "word": "两会热议高质量发展",
       "onboard_time": 1678351828,
       "rank": 2,
