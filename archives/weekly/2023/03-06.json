@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678353610347,
+  "endTime": 1678354500836,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -667,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1147368,
+      "num": 542081,
+      "word": "95后大厂女生裸辞开麻将馆当保洁",
+      "onboard_time": 1678351166,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1118837,
       "num": 1118837,
       "word": "韩国取消对自中国入境人员核酸证明要求",
@@ -824,14 +832,6 @@
       "word": "女子拒绝调岗被强制离职踢出群聊",
       "onboard_time": 1678178907,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 979140,
-      "num": 542081,
-      "word": "95后大厂女生裸辞开麻将馆当保洁",
-      "onboard_time": 1678351166,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1161,6 +1161,14 @@
       "onboard_time": 1678334970,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 767590,
+      "num": 446372,
+      "word": "儿子沉迷手机爸爸逼他连玩17小时",
+      "onboard_time": 1678352365,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 755853,
@@ -2291,14 +2299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 473863,
-      "num": 361738,
-      "word": "儿子沉迷手机爸爸逼他连玩17小时",
-      "onboard_time": 1678352365,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473181,
       "num": 473181,
       "word": "轻型甲流患者一周左右可自愈",
@@ -2321,6 +2321,14 @@
       "onboard_time": 1678267227,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468181,
+      "num": 468181,
+      "word": "东风系引发车市价格大战",
+      "onboard_time": 1678347626,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 462372,
@@ -2435,14 +2443,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 433096,
-      "num": 433096,
-      "word": "东风系引发车市价格大战",
-      "onboard_time": 1678347626,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 433085,
       "num": 311764,
       "word": "在整个直播界都相当炸裂",
@@ -2481,6 +2481,14 @@
       "onboard_time": 1678119743,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423217,
+      "num": 369030,
+      "word": "李钟硕最新活动图",
+      "onboard_time": 1678353326,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 423006,
@@ -3155,6 +3163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339560,
+      "num": 339560,
+      "word": "小鹏多名核心高管离职",
+      "onboard_time": 1678352787,
+      "rank": 32,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 338493,
       "num": 304443,
       "word": "拍摄者回应旅英大熊猫听懂四川话",
@@ -3563,14 +3579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294917,
-      "num": 294917,
-      "word": "李钟硕最新活动图",
-      "onboard_time": 1678353326,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 294066,
       "num": 294066,
       "word": "科学家发现黑洞旁诞生一颗恒星",
@@ -3585,6 +3593,14 @@
       "onboard_time": 1678162648,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291889,
+      "num": 291889,
+      "word": "无名香港评分",
+      "onboard_time": 1678354288,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 291885,
@@ -3843,6 +3859,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 264839,
+      "num": 264839,
+      "word": "吴幽",
+      "onboard_time": 1678352066,
+      "rank": 17,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 264585,
       "num": 206115,
       "word": "刘柏辛Minnie同框",
@@ -3873,14 +3897,6 @@
       "onboard_time": 1678079845,
       "rank": 40,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 258962,
-      "num": 258962,
-      "word": "吴幽",
-      "onboard_time": 1678352066,
-      "rank": 17,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 255424,
@@ -4947,6 +4963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199154,
+      "num": 199154,
+      "word": "旅外大熊猫租借时长有严格限制",
+      "onboard_time": 1678349845,
+      "rank": 42,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 198955,
       "num": 198955,
       "word": "网友神P图张译",
@@ -5531,6 +5555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180315,
+      "num": 153757,
+      "word": "降价能拯救燃油车吗",
+      "onboard_time": 1678354288,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 179955,
       "num": 179955,
       "word": "白岩松谈女足为什么比男足更出成绩",
@@ -5603,14 +5635,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 175962,
-      "num": 175962,
-      "word": "旅外大熊猫租借时长有严格限制",
-      "onboard_time": 1678349845,
-      "rank": 42,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 175881,
       "num": 175881,
       "word": "英超双红会",
@@ -5673,6 +5697,14 @@
       "onboard_time": 1678120040,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173150,
+      "num": 173150,
+      "word": "为啥熊猫使者近期扎堆回国",
+      "onboard_time": 1678350266,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172340,
@@ -5825,14 +5857,6 @@
       "onboard_time": 1678081406,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 166222,
-      "num": 166222,
-      "word": "小鹏多名核心高管离职",
-      "onboard_time": 1678352787,
-      "rank": 32,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 165493,
@@ -6041,14 +6065,6 @@
       "onboard_time": 1678090346,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153982,
-      "num": 153982,
-      "word": "为啥熊猫使者近期扎堆回国",
-      "onboard_time": 1678350266,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153815,
@@ -6273,6 +6289,14 @@
       "onboard_time": 1678145361,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143552,
+      "num": 143552,
+      "word": "不要当着熊猫的面讲坏话",
+      "onboard_time": 1678352307,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 143164,
@@ -6835,14 +6859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121153,
-      "num": 121153,
-      "word": "不要当着熊猫的面讲坏话",
-      "onboard_time": 1678352307,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120871,
       "num": 120871,
       "word": "Straykids将4月回归",
@@ -7291,6 +7307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104736,
+      "num": 104736,
+      "word": "树枝手艺人回应用苹果枝做丫丫雕塑",
+      "onboard_time": 1678353806,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104598,
       "num": 104598,
       "word": "eStar火锅默契局",
@@ -7417,6 +7441,14 @@
       "onboard_time": 1678170627,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 99604,
+      "num": 99604,
+      "word": "EDG对战LGD",
+      "onboard_time": 1678354169,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 99433,
@@ -7801,6 +7833,14 @@
       "onboard_time": 1678327763,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77960,
+      "num": 77960,
+      "word": "两会声音",
+      "onboard_time": 1678353928,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 76755,

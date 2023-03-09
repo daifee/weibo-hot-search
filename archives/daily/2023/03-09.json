@@ -1,6 +1,6 @@
 {
   "startTime": 1678292844929,
-  "endTime": 1678353610347,
+  "endTime": 1678354500836,
   "band_list": [
     {
       "raw_hot": 5333620,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1147368,
+      "num": 542081,
+      "word": "95后大厂女生裸辞开麻将馆当保洁",
+      "onboard_time": 1678351166,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107527,
       "num": 1107527,
       "word": "罪犯子女考公限制要不要取消",
@@ -121,14 +129,6 @@
       "onboard_time": 1678340248,
       "rank": 10,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 979140,
-      "num": 542081,
-      "word": "95后大厂女生裸辞开麻将馆当保洁",
-      "onboard_time": 1678351166,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 975798,
@@ -201,6 +201,14 @@
       "onboard_time": 1678334970,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 767590,
+      "num": 446372,
+      "word": "儿子沉迷手机爸爸逼他连玩17小时",
+      "onboard_time": 1678352365,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 720732,
@@ -483,16 +491,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 473863,
-      "num": 361738,
-      "word": "儿子沉迷手机爸爸逼他连玩17小时",
-      "onboard_time": 1678352365,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 433096,
-      "num": 433096,
+      "raw_hot": 468181,
+      "num": 468181,
       "word": "东风系引发车市价格大战",
       "onboard_time": 1678347626,
       "rank": 13,
@@ -505,6 +505,14 @@
       "onboard_time": 1678286070,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 423217,
+      "num": 369030,
+      "word": "李钟硕最新活动图",
+      "onboard_time": 1678353326,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 416454,
@@ -659,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339560,
+      "num": 339560,
+      "word": "小鹏多名核心高管离职",
+      "onboard_time": 1678352787,
+      "rank": 32,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 335853,
       "num": 335853,
       "word": "短道世锦赛林孝埈出战两单项",
@@ -763,12 +779,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 294917,
-      "num": 294917,
-      "word": "李钟硕最新活动图",
-      "onboard_time": 1678353326,
+      "raw_hot": 291889,
+      "num": 291889,
+      "word": "无名香港评分",
+      "onboard_time": 1678354288,
       "rank": 14,
-      "category": "艺人"
+      "category": "影视"
     },
     {
       "raw_hot": 289057,
@@ -851,8 +867,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 258962,
-      "num": 258962,
+      "raw_hot": 264839,
+      "num": 264839,
       "word": "吴幽",
       "onboard_time": 1678352066,
       "rank": 17,
@@ -1051,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199154,
+      "num": 199154,
+      "word": "旅外大熊猫租借时长有严格限制",
+      "onboard_time": 1678349845,
+      "rank": 42,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 196972,
       "num": 196972,
       "word": "两会",
@@ -1131,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180315,
+      "num": 153757,
+      "word": "降价能拯救燃油车吗",
+      "onboard_time": 1678354288,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 178441,
       "num": 178441,
       "word": "开往春天的花海限定列车",
@@ -1145,14 +1177,6 @@
       "onboard_time": 1678320809,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 175962,
-      "num": 175962,
-      "word": "旅外大熊猫租借时长有严格限制",
-      "onboard_time": 1678349845,
-      "rank": 42,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 175100,
@@ -1185,6 +1209,14 @@
       "onboard_time": 1678283007,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173150,
+      "num": 173150,
+      "word": "为啥熊猫使者近期扎堆回国",
+      "onboard_time": 1678350266,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172590,
@@ -1225,14 +1257,6 @@
       "onboard_time": 1678349426,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166222,
-      "num": 166222,
-      "word": "小鹏多名核心高管离职",
-      "onboard_time": 1678352787,
-      "rank": 32,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 163838,
@@ -1289,14 +1313,6 @@
       "onboard_time": 1678263927,
       "rank": 7,
       "category": "科技"
-    },
-    {
-      "raw_hot": 153982,
-      "num": 153982,
-      "word": "为啥熊猫使者近期扎堆回国",
-      "onboard_time": 1678350266,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153650,
@@ -1377,6 +1393,14 @@
       "onboard_time": 1678332028,
       "rank": 37,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 143552,
+      "num": 143552,
+      "word": "不要当着熊猫的面讲坏话",
+      "onboard_time": 1678352307,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 143164,
@@ -1467,14 +1491,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 121153,
-      "num": 121153,
-      "word": "不要当着熊猫的面讲坏话",
-      "onboard_time": 1678352307,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118515,
       "num": 78379,
       "word": "热刺0比0AC米兰",
@@ -1555,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104736,
+      "num": 104736,
+      "word": "树枝手艺人回应用苹果枝做丫丫雕塑",
+      "onboard_time": 1678353806,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101831,
       "num": 268541,
       "word": "星落凝成糖",
@@ -1569,6 +1593,14 @@
       "onboard_time": 1678350866,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99604,
+      "num": 99604,
+      "word": "EDG对战LGD",
+      "onboard_time": 1678354169,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 98064,
@@ -1673,6 +1705,14 @@
       "onboard_time": 1678282048,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 77960,
+      "num": 77960,
+      "word": "两会声音",
+      "onboard_time": 1678353928,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 76377,
