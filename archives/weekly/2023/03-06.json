@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678380411589,
+  "endTime": 1678382311686,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -8403,6 +8403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 87245,
+      "num": 61131,
+      "word": "日本前女子偶像将参与地方议会选举",
+      "onboard_time": 1678381816,
+      "rank": 31,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 86432,
       "num": 86432,
       "word": "晨雾下的江南小镇",
@@ -8609,6 +8617,14 @@
       "onboard_time": 1678273227,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 69845,
+      "num": 69845,
+      "word": "粥式奶茶",
+      "onboard_time": 1678381217,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 69177,
