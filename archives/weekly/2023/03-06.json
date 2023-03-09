@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678387127560,
+  "endTime": 1678389364334,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -8827,20 +8827,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 29830,
+      "num": 29221,
+      "word": "陈建宇GANG舞台",
+      "onboard_time": 1678376307,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29807,
       "num": 235698,
       "word": "刻在DNA里的旋律动了",
       "onboard_time": 1678276831,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 29221,
-      "num": 29221,
-      "word": "陈建宇GANG舞台",
-      "onboard_time": 1678376307,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 28887,
