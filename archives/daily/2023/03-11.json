@@ -1,6 +1,6 @@
 {
   "startTime": 1678465634906,
-  "endTime": 1678490313794,
+  "endTime": 1678491221873,
   "band_list": [
     {
       "raw_hot": 1602399,
@@ -107,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312431,
-      "num": 312431,
+      "raw_hot": 337006,
+      "num": 337006,
       "word": "谁在喝35元一杯的县城咖啡",
       "onboard_time": 1678437029,
       "rank": 18,
@@ -203,6 +203,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 209043,
+      "num": 209043,
+      "word": "黑暗荣耀2最后一句台词是我爱你",
+      "onboard_time": 1678475532,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194018,
       "num": 208971,
       "word": "宋慧乔李到晛吻戏",
@@ -227,12 +235,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188296,
-      "num": 188296,
-      "word": "黑暗荣耀2最后一句台词是我爱你",
-      "onboard_time": 1678475532,
-      "rank": 14,
-      "category": "影视"
+      "raw_hot": 185978,
+      "num": 208133,
+      "word": "丰田4S店回应买一赠一",
+      "onboard_time": 1678449031,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172362,
@@ -265,14 +273,6 @@
       "onboard_time": 1678458331,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158702,
-      "num": 208133,
-      "word": "丰田4S店回应买一赠一",
-      "onboard_time": 1678449031,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156881,
@@ -315,20 +315,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121483,
+      "num": 207505,
+      "word": "邓超遇见冰雪甄嬛",
+      "onboard_time": 1678456649,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120012,
       "num": 766906,
       "word": "建议落实男性育儿责任",
       "onboard_time": 1678442009,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118256,
-      "num": 207505,
-      "word": "邓超遇见冰雪甄嬛",
-      "onboard_time": 1678456649,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 117285,
@@ -347,12 +347,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104585,
+      "num": 104585,
+      "word": "硅谷银行倒闭",
+      "onboard_time": 1678491140,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 101781,
       "num": 749603,
       "word": "最新国家形象网宣片",
       "onboard_time": 1678454067,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96963,
+      "num": 96963,
+      "word": "秦岭山下千年古玉兰优雅绽放",
+      "onboard_time": 1678484712,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 93788,
@@ -363,20 +379,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 92699,
+      "num": 92699,
+      "word": "沙伊北京对话是和平的胜利",
+      "onboard_time": 1678490117,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 91243,
       "num": 207308,
       "word": "国家线公布后的心情",
       "onboard_time": 1678449209,
       "rank": 46,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 90702,
-      "num": 90702,
-      "word": "秦岭山下千年古玉兰优雅绽放",
-      "onboard_time": 1678484712,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 88009,
@@ -393,6 +409,14 @@
       "onboard_time": 1678456048,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 79714,
+      "num": 79714,
+      "word": "淄博烧烤节",
+      "onboard_time": 1678481531,
+      "rank": 37,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 77372,
@@ -419,14 +443,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 66511,
-      "num": 66511,
-      "word": "淄博烧烤节",
-      "onboard_time": 1678481531,
-      "rank": 37,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 65824,
       "num": 106546,
       "word": "星落凝成糖 HE",
@@ -440,14 +456,6 @@
       "word": "9个高频词速览政府工作报告",
       "onboard_time": 1678455030,
       "rank": 2,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 32792,
-      "num": 48620,
-      "word": "沙伊北京对话是和平的胜利",
-      "onboard_time": 1678490117,
-      "rank": 49,
       "category": "国内要闻"
     },
     {
@@ -467,8 +475,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 19635,
-      "num": 381157,
+      "raw_hot": 22477,
+      "num": 408891,
       "word": "心想事成",
       "onboard_time": 1678367550,
       "rank": 9,
