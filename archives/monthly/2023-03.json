@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678426504309,
+  "endTime": 1678429543956,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1995,6 +1995,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 999595,
+      "num": 300704,
+      "word": "鹿晗凌晨四点给宝石老舅跳街舞",
+      "onboard_time": 1678424434,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 999102,
       "num": 999102,
       "word": "梁靖崑vs张本智和",
@@ -2052,7 +2060,7 @@
     },
     {
       "raw_hot": 979898,
-      "num": 281246,
+      "num": 282794,
       "word": "凡人修仙传 杨洋",
       "onboard_time": 1678424733,
       "rank": 23,
@@ -2187,6 +2195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 946500,
+      "num": 611303,
+      "word": "西卡",
+      "onboard_time": 1678428266,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 928046,
       "num": 843497,
       "word": "爱奇艺回应2月充会员只能用28天",
@@ -2263,6 +2279,14 @@
       "num": 283652,
       "word": "男子再婚生子起诉10岁女儿减抚养费",
       "onboard_time": 1678421502,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 904746,
+      "num": 299739,
+      "word": "香港警方回应网红阿秋自行车被偷",
+      "onboard_time": 1678427128,
       "rank": 22,
       "category": "社会新闻"
     },
@@ -2673,6 +2697,14 @@
       "onboard_time": 1677934287,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 816479,
+      "num": 284759,
+      "word": "帅哥不可以官宣",
+      "onboard_time": 1678426890,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 816444,
@@ -3185,14 +3217,6 @@
       "onboard_time": 1678194627,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 735232,
-      "num": 281034,
-      "word": "鹿晗凌晨四点给宝石老舅跳街舞",
-      "onboard_time": 1678424434,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 735172,
@@ -4187,6 +4211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 609106,
+      "num": 609106,
+      "word": "LPL十大选手投票",
+      "onboard_time": 1678257505,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 608404,
       "num": 463239,
       "word": "花店店主怒斥顺丰同城配送不规范",
@@ -4273,6 +4305,14 @@
       "onboard_time": 1678084526,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 599180,
+      "num": 599180,
+      "word": "流浪地球两部连映",
+      "onboard_time": 1678425931,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 598549,
@@ -4545,6 +4585,14 @@
       "onboard_time": 1678028490,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 572289,
+      "num": 268709,
+      "word": "汪苏泷唱的乌梅子酱",
+      "onboard_time": 1678427608,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 571688,
@@ -5875,14 +5923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 475784,
-      "num": 475784,
-      "word": "LPL十大选手投票",
-      "onboard_time": 1678257505,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 474630,
       "num": 242064,
       "word": "郭晓婷徐海乔苍兰诀后合体",
@@ -5969,14 +6009,6 @@
       "onboard_time": 1677738206,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 470206,
-      "num": 470206,
-      "word": "流浪地球两部连映",
-      "onboard_time": 1678425931,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 469329,
@@ -7384,6 +7416,14 @@
       "word": "陈飞宇周也的cp名叫YesSir",
       "onboard_time": 1677839010,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 378107,
+      "num": 378107,
+      "word": "星落凝成糖豆瓣开分7.4分",
+      "onboard_time": 1678426110,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -9867,14 +9907,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 274496,
-      "num": 274496,
-      "word": "星落凝成糖豆瓣开分7.4分",
-      "onboard_time": 1678426110,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 274322,
       "num": 274322,
       "word": "熊猫界也有熊孩子",
@@ -11313,6 +11345,14 @@
       "onboard_time": 1677852929,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 226301,
+      "num": 226301,
+      "word": "电影保你平安豆瓣开分7.8",
+      "onboard_time": 1678428808,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 226173,
@@ -15371,6 +15411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154056,
+      "num": 154056,
+      "word": "李一桐毕雯珺吃火锅花絮",
+      "onboard_time": 1678428748,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153815,
       "num": 153815,
       "word": "谢彬彬张淼怡新剧开机",
@@ -16579,6 +16627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132868,
+      "num": 132868,
+      "word": "黄子韬松杨人设",
+      "onboard_time": 1678428029,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132708,
       "num": 132708,
       "word": "保你平安 有笑有泪",
@@ -17187,6 +17243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122096,
+      "num": 122096,
+      "word": "被手机抓拍的舞姿美到了",
+      "onboard_time": 1678429286,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121379,
       "num": 121379,
       "word": "KPL春季赛第四周最佳阵容",
@@ -17412,7 +17476,7 @@
     },
     {
       "raw_hot": 115854,
-      "num": 115854,
+      "num": 642489,
       "word": "宪法宣誓仪式完整视频",
       "onboard_time": 1678423117,
       "rank": 49,
@@ -18913,6 +18977,14 @@
       "onboard_time": 1677727107,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 82761,
+      "num": 82761,
+      "word": "看热闹不嫌事大的狗狗",
+      "onboard_time": 1678429528,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 82611,
