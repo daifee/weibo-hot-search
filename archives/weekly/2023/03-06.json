@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678465634906,
+  "endTime": 1678466735624,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -9435,6 +9435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110590,
+      "num": 207540,
+      "word": "妍珍的笑",
+      "onboard_time": 1678464626,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 109912,
       "num": 1373231,
       "word": "十四届全国人大一次会议宪法宣誓仪式",
@@ -9609,14 +9617,6 @@
       "onboard_time": 1678150708,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 106269,
-      "num": 207540,
-      "word": "妍珍的笑",
-      "onboard_time": 1678464626,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 105560,

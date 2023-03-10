@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678465634906,
+  "endTime": 1678466735624,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -18723,6 +18723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110590,
+      "num": 207540,
+      "word": "妍珍的笑",
+      "onboard_time": 1678464626,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 110462,
       "num": 110462,
       "word": "WBG对战AL",
@@ -18985,14 +18993,6 @@
       "onboard_time": 1677572070,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106269,
-      "num": 207540,
-      "word": "妍珍的笑",
-      "onboard_time": 1678464626,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 106068,
