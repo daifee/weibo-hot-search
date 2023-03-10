@@ -1,6 +1,6 @@
 {
   "startTime": 1678465634906,
-  "endTime": 1678473413991,
+  "endTime": 1678475695583,
   "band_list": [
     {
       "raw_hot": 1602399,
@@ -321,6 +321,14 @@
       "onboard_time": 1678438048,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 117159,
+      "num": 78881,
+      "word": "黑暗荣耀2最后一句台词是我爱你",
+      "onboard_time": 1678475532,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 110590,
