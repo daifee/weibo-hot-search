@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678444701352,
+  "endTime": 1678447015905,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2715,6 +2715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 828616,
+      "num": 302414,
+      "word": "德国柏林允许女性在公共泳池半裸泳",
+      "onboard_time": 1678442968,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825267,
       "num": 825267,
       "word": "好多演唱会",
@@ -3115,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 754739,
+      "num": 754739,
+      "word": "建议在中小学推行趴睡变躺睡",
+      "onboard_time": 1678440927,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 753963,
       "num": 322385,
       "word": "被黄绮珊治好了容貌焦虑",
@@ -3393,14 +3409,6 @@
       "onboard_time": 1677744510,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 720474,
-      "num": 720474,
-      "word": "建议在中小学推行趴睡变躺睡",
-      "onboard_time": 1678440927,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 720395,
@@ -3729,14 +3737,6 @@
       "onboard_time": 1677664288,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 669576,
-      "num": 302414,
-      "word": "德国柏林允许女性在公共泳池半裸泳",
-      "onboard_time": 1678442968,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 669235,
@@ -5289,6 +5289,22 @@
       "onboard_time": 1677938068,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 528808,
+      "num": 390273,
+      "word": "中国亿元资产家庭13.8万户",
+      "onboard_time": 1678445848,
+      "rank": 13,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 528789,
+      "num": 528789,
+      "word": "建议落实男性育儿责任",
+      "onboard_time": 1678442009,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 527550,
@@ -9097,14 +9113,6 @@
       "onboard_time": 1678343426,
       "rank": 31,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 314675,
-      "num": 514254,
-      "word": "建议落实男性育儿责任",
-      "onboard_time": 1678442009,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314194,
@@ -13147,6 +13155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 199938,
+      "num": 199938,
+      "word": "宠物公司对待猫狗有多双标",
+      "onboard_time": 1678444648,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 199908,
       "num": 199908,
       "word": "组建国家金融监督管理总局",
@@ -14497,6 +14513,14 @@
       "onboard_time": 1678088366,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180856,
+      "num": 180856,
+      "word": "硅谷银行暴跌60%",
+      "onboard_time": 1678444467,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 180143,
@@ -17203,6 +17227,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 128117,
+      "num": 128117,
+      "word": "九霄寒夜暖豆瓣开分7.3",
+      "onboard_time": 1678444709,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127842,
       "num": 127842,
       "word": "奥比岛1.9",
@@ -17571,6 +17603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122250,
+      "num": 122250,
+      "word": "建议按年龄分层次提高农民养老金",
+      "onboard_time": 1678445306,
+      "rank": 33,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 121379,
       "num": 121379,
       "word": "KPL春季赛第四周最佳阵容",
@@ -17761,6 +17801,14 @@
       "onboard_time": 1678021172,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116636,
+      "num": 116636,
+      "word": "40国出境游名单",
+      "onboard_time": 1678446087,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 116206,
@@ -18955,12 +19003,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 95308,
-      "num": 95308,
-      "word": "硅谷银行暴跌60%",
-      "onboard_time": 1678444467,
-      "rank": 46,
-      "category": "财经"
+      "raw_hot": 95142,
+      "num": 95142,
+      "word": "猫咪的反应说明了一切",
+      "onboard_time": 1678446505,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 95111,
@@ -19065,6 +19113,14 @@
       "onboard_time": 1677602061,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 91773,
+      "num": 91773,
+      "word": "LGD对战KSG",
+      "onboard_time": 1678445906,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 91742,
@@ -19273,6 +19329,14 @@
       "onboard_time": 1677972678,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84263,
+      "num": 84263,
+      "word": "像极了考教资前的我",
+      "onboard_time": 1678446806,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 84012,
@@ -19721,14 +19785,6 @@
       "onboard_time": 1677646053,
       "rank": 2,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 66615,
-      "num": 94980,
-      "word": "宠物公司对待猫狗有多双标",
-      "onboard_time": 1678444648,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 66594,
@@ -20249,6 +20305,14 @@
       "onboard_time": 1678259125,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27790,
+      "num": 117301,
+      "word": "四驱对新能源重要吗",
+      "onboard_time": 1678446445,
+      "rank": 35,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 25802,

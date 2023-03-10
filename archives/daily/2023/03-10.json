@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678444701352,
+  "endTime": 1678447015905,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -227,6 +227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 828616,
+      "num": 302414,
+      "word": "德国柏林允许女性在公共泳池半裸泳",
+      "onboard_time": 1678442968,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816479,
       "num": 604609,
       "word": "帅哥不可以官宣",
@@ -259,6 +267,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 754739,
+      "num": 754739,
+      "word": "建议在中小学推行趴睡变躺睡",
+      "onboard_time": 1678440927,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 742871,
       "num": 465392,
       "word": "最可惜的内娱组合",
@@ -273,14 +289,6 @@
       "onboard_time": 1678411347,
       "rank": 1,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 720474,
-      "num": 720474,
-      "word": "建议在中小学推行趴睡变躺睡",
-      "onboard_time": 1678440927,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 713467,
@@ -304,14 +312,6 @@
       "word": "女子被老人误认成女儿陪游帮圆梦",
       "onboard_time": 1678408408,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 669576,
-      "num": 302414,
-      "word": "德国柏林允许女性在公共泳池半裸泳",
-      "onboard_time": 1678442968,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -433,6 +433,22 @@
       "onboard_time": 1678414348,
       "rank": 15,
       "category": "科技"
+    },
+    {
+      "raw_hot": 528808,
+      "num": 390273,
+      "word": "中国亿元资产家庭13.8万户",
+      "onboard_time": 1678445848,
+      "rank": 13,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 528789,
+      "num": 528789,
+      "word": "建议落实男性育儿责任",
+      "onboard_time": 1678442009,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524261,
@@ -665,14 +681,6 @@
       "onboard_time": 1678416267,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 314675,
-      "num": 514254,
-      "word": "建议落实男性育儿责任",
-      "onboard_time": 1678442009,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311545,
@@ -1011,6 +1019,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 199938,
+      "num": 199938,
+      "word": "宠物公司对待猫狗有多双标",
+      "onboard_time": 1678444648,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 199867,
       "num": 199867,
       "word": "警方通报女子讨要工钱被打",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1678372050,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180856,
+      "num": 180856,
+      "word": "硅谷银行暴跌60%",
+      "onboard_time": 1678444467,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 179902,
@@ -1267,6 +1291,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 128117,
+      "num": 128117,
+      "word": "九霄寒夜暖豆瓣开分7.3",
+      "onboard_time": 1678444709,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127545,
       "num": 127545,
       "word": "台当局宣布恢复两岸空运客运航点",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1678397472,
       "rank": 46,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 122250,
+      "num": 122250,
+      "word": "建议按年龄分层次提高农民养老金",
+      "onboard_time": 1678445306,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 121839,
@@ -1353,6 +1393,14 @@
       "onboard_time": 1678434866,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116636,
+      "num": 116636,
+      "word": "40国出境游名单",
+      "onboard_time": 1678446087,
+      "rank": 36,
+      "category": "旅游"
     },
     {
       "raw_hot": 115854,
@@ -1419,12 +1467,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 95308,
-      "num": 95308,
-      "word": "硅谷银行暴跌60%",
-      "onboard_time": 1678444467,
-      "rank": 46,
-      "category": "财经"
+      "raw_hot": 95142,
+      "num": 95142,
+      "word": "猫咪的反应说明了一切",
+      "onboard_time": 1678446505,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 94969,
@@ -1459,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91773,
+      "num": 91773,
+      "word": "LGD对战KSG",
+      "onboard_time": 1678445906,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 91517,
       "num": 91517,
       "word": "儿子沉迷手机爸爸逼他连玩17小时",
@@ -1489,6 +1545,14 @@
       "onboard_time": 1678369529,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 84263,
+      "num": 84263,
+      "word": "像极了考教资前的我",
+      "onboard_time": 1678446806,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 82761,
@@ -1563,14 +1627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 66615,
-      "num": 94980,
-      "word": "宠物公司对待猫狗有多双标",
-      "onboard_time": 1678444648,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 63232,
       "num": 116980,
       "word": "好开已无法满足年轻人了",
@@ -1625,6 +1681,14 @@
       "onboard_time": 1678376307,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27790,
+      "num": 117301,
+      "word": "四驱对新能源重要吗",
+      "onboard_time": 1678446445,
+      "rank": 35,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 15660,
