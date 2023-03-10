@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678482970165,
+  "endTime": 1678484021698,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -10643,6 +10643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19438,
+      "num": 19438,
+      "word": "淄博烧烤节",
+      "onboard_time": 1678481531,
+      "rank": 37,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 19376,
       "num": 1371069,
       "word": "政府工作报告里的民生红包",
@@ -10665,14 +10673,6 @@
       "onboard_time": 1678300453,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16955,
-      "num": 16955,
-      "word": "淄博烧烤节",
-      "onboard_time": 1678481531,
-      "rank": 37,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 15660,
