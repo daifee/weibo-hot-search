@@ -1,26 +1,26 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678419061565,
+  "endTime": 1678419751597,
   "band_list": [
     {
-      "raw_hot": 14880289,
-      "num": 16130289,
+      "raw_hot": 15614082,
+      "num": 16692845,
       "word": "习近平当选中华人民共和国主席",
       "onboard_time": 1678417295,
       "rank": 0,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 8123233,
-      "num": 9373233,
+      "raw_hot": 9180228,
+      "num": 10430228,
       "word": "选举新一届国家机构领导人",
       "onboard_time": 1678405283,
       "rank": 0,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 6469859,
-      "num": 11304242,
+      "raw_hot": 8882317,
+      "num": 13595049,
       "word": "习近平当选中央军委主席",
       "onboard_time": 1678418423,
       "rank": 1,
@@ -32,6 +32,14 @@
       "word": "新一届国家领导人选举产生",
       "onboard_time": 1678417904,
       "rank": 3,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2738904,
+      "num": 2738904,
+      "word": "韩正当选为中华人民共和国副主席",
+      "onboard_time": 1678419581,
+      "rank": 5,
       "category": "国内要闻"
     },
     {
@@ -81,6 +89,14 @@
       "onboard_time": 1678407387,
       "rank": 10,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 958031,
+      "num": 368291,
+      "word": "青你选手蒋智豪肺癌晚期",
+      "onboard_time": 1678419345,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 772435,
@@ -411,8 +427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253923,
-      "num": 253923,
+      "raw_hot": 254465,
+      "num": 254465,
       "word": "给猫做绝育要会演戏",
       "onboard_time": 1678416806,
       "rank": 29,
@@ -451,8 +467,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224606,
-      "num": 1868343,
+      "raw_hot": 226471,
+      "num": 2843138,
       "word": "全国两会时光",
       "onboard_time": 1678416927,
       "rank": 4,
@@ -603,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148853,
+      "num": 148853,
+      "word": "勇士不敌灰熊",
+      "onboard_time": 1678418982,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147184,
       "num": 147184,
       "word": "日本前女子偶像将参与地方议会选举",
@@ -715,6 +739,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 106991,
+      "num": 106991,
+      "word": "专家不建议普通人下场炒股",
+      "onboard_time": 1678419644,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 105839,
       "num": 86443,
       "word": "陈楚生再见07比赛吉他",
@@ -729,14 +761,6 @@
       "onboard_time": 1678377625,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 98360,
-      "num": 98360,
-      "word": "勇士不敌灰熊",
-      "onboard_time": 1678418982,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 97771,

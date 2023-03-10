@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678419061565,
+  "endTime": 1678419751597,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -11,11 +11,27 @@
       "category": "科技"
     },
     {
-      "raw_hot": 14880289,
-      "num": 16130289,
+      "raw_hot": 15614082,
+      "num": 16692845,
       "word": "习近平当选中华人民共和国主席",
       "onboard_time": 1678417295,
       "rank": 0,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 9180228,
+      "num": 10430228,
+      "word": "选举新一届国家机构领导人",
+      "onboard_time": 1678405283,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 8882317,
+      "num": 13595049,
+      "word": "习近平当选中央军委主席",
+      "onboard_time": 1678418423,
+      "rank": 1,
       "category": "国内要闻"
     },
     {
@@ -27,28 +43,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 8123233,
-      "num": 9373233,
-      "word": "选举新一届国家机构领导人",
-      "onboard_time": 1678405283,
-      "rank": 0,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 7884381,
       "num": 7884381,
       "word": "妇女节 不是女生节不是女神节",
       "onboard_time": 1678238605,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 6469859,
-      "num": 11304242,
-      "word": "习近平当选中央军委主席",
-      "onboard_time": 1678418423,
-      "rank": 1,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 5333620,
@@ -161,6 +161,14 @@
       "onboard_time": 1677746552,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2738904,
+      "num": 2738904,
+      "word": "韩正当选为中华人民共和国副主席",
+      "onboard_time": 1678419581,
+      "rank": 5,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2698699,
@@ -2113,6 +2121,14 @@
       "onboard_time": 1677996927,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 958031,
+      "num": 368291,
+      "word": "青你选手蒋智豪肺癌晚期",
+      "onboard_time": 1678419345,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 951361,
@@ -10227,6 +10243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254465,
+      "num": 254465,
+      "word": "给猫做绝育要会演戏",
+      "onboard_time": 1678416806,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254391,
       "num": 254391,
       "word": "送手机被打车主家属称双方已和解",
@@ -10257,14 +10281,6 @@
       "onboard_time": 1677719668,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253923,
-      "num": 253923,
-      "word": "给猫做绝育要会演戏",
-      "onboard_time": 1678416806,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 253481,
@@ -11139,6 +11155,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 226471,
+      "num": 2843138,
+      "word": "全国两会时光",
+      "onboard_time": 1677904947,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 226364,
       "num": 226364,
       "word": "薛凯琪巴黎塞纳河畔大片",
@@ -11217,14 +11241,6 @@
       "onboard_time": 1677758431,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 224606,
-      "num": 1868343,
-      "word": "全国两会时光",
-      "onboard_time": 1677904947,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 224557,
@@ -15467,6 +15483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148853,
+      "num": 148853,
+      "word": "勇士不敌灰熊",
+      "onboard_time": 1678418982,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148827,
       "num": 148827,
       "word": "张杰我们的客栈表情包",
@@ -17763,6 +17787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106991,
+      "num": 106991,
+      "word": "专家不建议普通人下场炒股",
+      "onboard_time": 1678419644,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 106955,
       "num": 106955,
       "word": "鹿晗范志毅最强足球双人组",
@@ -18201,14 +18233,6 @@
       "onboard_time": 1677682831,
       "rank": 14,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 98360,
-      "num": 98360,
-      "word": "勇士不敌灰熊",
-      "onboard_time": 1678418982,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 98285,
