@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678404878242,
+  "endTime": 1678412767888,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -691,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1608737,
+      "num": 1608737,
+      "word": "选举新一届国家机构领导人",
+      "onboard_time": 1678405283,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1591473,
       "num": 1591473,
       "word": "建议每周单休月末连休5天",
@@ -928,6 +936,14 @@
       "word": "妇女节",
       "onboard_time": 1678230741,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1408550,
+      "num": 317479,
+      "word": "丫丫回国将实现吃喝自由",
+      "onboard_time": 1678403839,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1963,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 986362,
+      "num": 445339,
+      "word": "大学生主打的就是一个信任",
+      "onboard_time": 1678407387,
+      "rank": 10,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 979865,
       "num": 979865,
       "word": "推特崩了",
@@ -2835,6 +2859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 765176,
+      "num": 433023,
+      "word": "科学家首次让2只雄性老鼠产仔",
+      "onboard_time": 1678407148,
+      "rank": 11,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 764211,
       "num": 764211,
       "word": "梦回爸爸去哪儿",
@@ -3017,6 +3049,14 @@
       "onboard_time": 1677654628,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 737841,
+      "num": 737841,
+      "word": "批准国务院机构改革方案",
+      "onboard_time": 1678411347,
+      "rank": 1,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 737357,
@@ -3259,14 +3299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 702573,
-      "num": 254952,
-      "word": "丫丫回国将实现吃喝自由",
-      "onboard_time": 1678403839,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 701062,
       "num": 355841,
       "word": "年薪30万女生转行卖快餐",
@@ -3409,6 +3441,14 @@
       "onboard_time": 1678259485,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 678061,
+      "num": 678061,
+      "word": "女子被老人误认成女儿陪游帮圆梦",
+      "onboard_time": 1678408408,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 674577,
@@ -4209,6 +4249,14 @@
       "onboard_time": 1678086565,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 584747,
+      "num": 417136,
+      "word": "用盆吃10袋泡面男子称身体没病",
+      "onboard_time": 1678407148,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 583110,
@@ -5467,6 +5515,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 492000,
+      "num": 492000,
+      "word": "高校为治学生赖床推出半价早餐",
+      "onboard_time": 1678409906,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 490635,
       "num": 490635,
       "word": "你会暗恋一个人十年吗",
@@ -6475,6 +6531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412140,
+      "num": 412140,
+      "word": "iPhone17Pro系列才会有屏下FaceID",
+      "onboard_time": 1678412185,
+      "rank": 13,
+      "category": "科技"
+    },
+    {
       "raw_hot": 412063,
       "num": 412063,
       "word": "双鱼座藏起来的一面",
@@ -7187,6 +7251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373838,
+      "num": 310450,
+      "word": "妍珍文学",
+      "onboard_time": 1678408289,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373671,
       "num": 373671,
       "word": "野生大熊猫在树上求偶",
@@ -7283,6 +7355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369671,
+      "num": 369671,
+      "word": "怎样走路能减肥",
+      "onboard_time": 1678405102,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369663,
       "num": 369663,
       "word": "狼队新人",
@@ -7313,6 +7393,14 @@
       "onboard_time": 1678359688,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369132,
+      "num": 369132,
+      "word": "宁德时代营收首次突破3000亿",
+      "onboard_time": 1678411166,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 368959,
@@ -8715,6 +8803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308772,
+      "num": 308772,
+      "word": "制片人说希望跟王一博有作品的合作",
+      "onboard_time": 1678409128,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 308020,
       "num": 250747,
       "word": "公司请外国男模给女员工送花过节",
@@ -9017,6 +9113,14 @@
       "onboard_time": 1678252048,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294703,
+      "num": 481599,
+      "word": "C罗沙特联赛首败",
+      "onboard_time": 1678407687,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 294066,
@@ -9699,6 +9803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 268018,
+      "num": 268018,
+      "word": "汪苏泷 音乐节",
+      "onboard_time": 1678412304,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 267923,
       "num": 267923,
       "word": "KPL 赛程",
@@ -10073,6 +10185,14 @@
       "onboard_time": 1677760171,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250671,
+      "num": 678330,
+      "word": "十四届全国人大一次会议第三次全体会议",
+      "onboard_time": 1678410447,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 250517,
@@ -11731,6 +11851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206492,
+      "num": 453108,
+      "word": "杜兰特将至少缺阵3周",
+      "onboard_time": 1678410387,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206210,
       "num": 206210,
       "word": "刘宇宁说要问宋祖儿要to签",
@@ -11833,6 +11961,14 @@
       "onboard_time": 1677987325,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 205061,
+      "num": 321915,
+      "word": "把家装修成酒店风是什么体验",
+      "onboard_time": 1678406728,
+      "rank": 19,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 205007,
@@ -12361,6 +12497,14 @@
       "onboard_time": 1678179507,
       "rank": 26,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 199867,
+      "num": 199867,
+      "word": "警方通报女子讨要工钱被打",
+      "onboard_time": 1678406486,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199646,
@@ -14859,6 +15003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153535,
+      "num": 153535,
+      "word": "工伤认定限定48小时合理吗",
+      "onboard_time": 1678412065,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153358,
       "num": 153358,
       "word": "为什么有人需要补税",
@@ -15417,6 +15569,14 @@
       "onboard_time": 1677896247,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143342,
+      "num": 143342,
+      "word": "这才是解压玩具吧",
+      "onboard_time": 1678411106,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 143309,
@@ -16459,6 +16619,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124234,
+      "num": 124234,
+      "word": "2023政府工作报告自测50题",
+      "onboard_time": 1678408888,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124224,
+      "num": 124224,
+      "word": "董明珠称格力十年纳税1000多亿",
+      "onboard_time": 1678411947,
+      "rank": 37,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 124080,
       "num": 124080,
       "word": "美队安娜新片预告",
@@ -16532,7 +16708,7 @@
     },
     {
       "raw_hot": 123227,
-      "num": 112479,
+      "num": 113810,
       "word": "当人民军队遇上中国传统色",
       "onboard_time": 1678397472,
       "rank": 46,
@@ -17081,6 +17257,14 @@
       "onboard_time": 1677988946,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 112093,
+      "num": 112093,
+      "word": "勇士vs灰熊",
+      "onboard_time": 1678408767,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 111876,
@@ -17721,6 +17905,14 @@
       "onboard_time": 1678158445,
       "rank": 39,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 100080,
+      "num": 100080,
+      "word": "多喝水真的能预防结石",
+      "onboard_time": 1678412548,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99975,
@@ -18435,6 +18627,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 79411,
+      "num": 79411,
+      "word": "2023短道速滑世锦赛",
+      "onboard_time": 1678412665,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78515,
       "num": 78515,
       "word": "雷霆vs太阳",
@@ -18513,6 +18713,14 @@
       "onboard_time": 1677972077,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74823,
+      "num": 74823,
+      "word": "大表姐新喜剧片预告",
+      "onboard_time": 1678406786,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 74770,
@@ -18633,6 +18841,14 @@
       "onboard_time": 1677985645,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70122,
+      "num": 70122,
+      "word": "这支双语宣传片是懂中国的",
+      "onboard_time": 1678406426,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69922,
