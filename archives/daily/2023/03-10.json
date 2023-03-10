@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678440880393,
+  "endTime": 1678443717400,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -57,6 +57,14 @@
       "onboard_time": 1678419345,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1866333,
+      "num": 306014,
+      "word": "疯狂小杨哥带货又翻车",
+      "onboard_time": 1678442132,
+      "rank": 10,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1790566,
@@ -147,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1020090,
+      "num": 302608,
+      "word": "宋慧乔李到晛吻戏",
+      "onboard_time": 1678442190,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1015222,
       "num": 617570,
       "word": "游客给花花投喂甘蔗保安第一时间捡出",
@@ -193,6 +209,14 @@
       "onboard_time": 1678421502,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 865072,
+      "num": 639802,
+      "word": "王沪宁当选十四届全国政协主席",
+      "onboard_time": 1678440869,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 852597,
@@ -331,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 586997,
+      "num": 586997,
+      "word": "建议在中小学推行趴睡变躺睡",
+      "onboard_time": 1678440927,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 584747,
       "num": 417136,
       "word": "用盆吃10袋泡面男子称身体没病",
@@ -387,6 +419,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 524261,
+      "num": 257821,
+      "word": "黑暗荣耀 字幕组",
+      "onboard_time": 1678441410,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 521395,
       "num": 509280,
       "word": "iPhone14黄色款成最快降价新产品",
@@ -436,7 +476,7 @@
     },
     {
       "raw_hot": 479038,
-      "num": 271611,
+      "num": 301843,
       "word": "这就是街舞6拟邀泫雅Lisa",
       "onboard_time": 1678438468,
       "rank": 20,
@@ -467,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405939,
+      "num": 392055,
+      "word": "光渊",
+      "onboard_time": 1678439788,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 403539,
       "num": 593235,
       "word": "舒淇张艺兴电影开机",
@@ -475,19 +523,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 392055,
-      "num": 392055,
-      "word": "光渊",
-      "onboard_time": 1678439788,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 387456,
       "num": 530062,
       "word": "甲流病毒进入人体后会经历什么",
       "onboard_time": 1678356207,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383592,
+      "num": 302414,
+      "word": "德国柏林允许女性在公共泳池半裸泳",
+      "onboard_time": 1678442968,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -513,6 +561,14 @@
       "onboard_time": 1678405102,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369557,
+      "num": 301955,
+      "word": "薛之谦南京演唱会",
+      "onboard_time": 1678440990,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 369132,
@@ -603,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311545,
+      "num": 303041,
+      "word": "两名女子涉嫌违反香港国安法被拘捕",
+      "onboard_time": 1678439186,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 308772,
       "num": 308772,
       "word": "制片人说希望跟王一博有作品的合作",
@@ -675,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286633,
+      "num": 286633,
+      "word": "小偷偷走老人看病钱公交司机怒吼追回",
+      "onboard_time": 1678441829,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 284727,
       "num": 131122,
       "word": "赵露思 微博之夜",
@@ -697,14 +769,6 @@
       "onboard_time": 1678374630,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 270079,
-      "num": 270079,
-      "word": "两名女子涉嫌违反香港国安法被拘捕",
-      "onboard_time": 1678439186,
-      "rank": 32,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 268018,
@@ -817,6 +881,14 @@
       "onboard_time": 1678421680,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232598,
+      "num": 232598,
+      "word": "建议落实男性育儿责任",
+      "onboard_time": 1678442009,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226471,
@@ -1099,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147480,
+      "num": 232095,
+      "word": "回廊亭",
+      "onboard_time": 1678442729,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147184,
       "num": 147184,
       "word": "日本前女子偶像将参与地方议会选举",
@@ -1113,6 +1193,14 @@
       "onboard_time": 1678411106,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143120,
+      "num": 232044,
+      "word": "王曼昱说自己成熟了",
+      "onboard_time": 1678441349,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 142244,
@@ -1243,20 +1331,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116141,
+      "num": 304760,
+      "word": "甲流用药怎么选",
+      "onboard_time": 1678438288,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115854,
       "num": 642489,
       "word": "宪法宣誓仪式完整视频",
       "onboard_time": 1678423117,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 112114,
-      "num": 265699,
-      "word": "甲流用药怎么选",
-      "onboard_time": 1678438288,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109912,
@@ -1403,6 +1491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 76972,
+      "num": 231202,
+      "word": "每一次呼吸都跟着紧张",
+      "onboard_time": 1678443209,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76234,
       "num": 76234,
       "word": "DRG零封对手",
@@ -1417,14 +1513,6 @@
       "onboard_time": 1678406786,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 72153,
-      "num": 238435,
-      "word": "王沪宁当选十四届全国政协主席",
-      "onboard_time": 1678440869,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 70894,

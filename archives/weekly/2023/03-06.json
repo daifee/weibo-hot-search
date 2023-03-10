@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678440880393,
+  "endTime": 1678443717400,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -281,6 +281,14 @@
       "onboard_time": 1678262668,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1866333,
+      "num": 306014,
+      "word": "疯狂小杨哥带货又翻车",
+      "onboard_time": 1678442132,
+      "rank": 10,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1862133,
@@ -971,6 +979,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1020090,
+      "num": 302608,
+      "word": "宋慧乔李到晛吻戏",
+      "onboard_time": 1678442190,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1017126,
       "num": 315526,
       "word": "苗苗妹妹客串郑恺新电影",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1678171405,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 865072,
+      "num": 639802,
+      "word": "王沪宁当选十四届全国政协主席",
+      "onboard_time": 1678440869,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 850879,
@@ -2139,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586997,
+      "num": 586997,
+      "word": "建议在中小学推行趴睡变躺睡",
+      "onboard_time": 1678440927,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 585416,
       "num": 317047,
       "word": "荣耀Magic5系列发布会",
@@ -2497,6 +2529,14 @@
       "onboard_time": 1678107688,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524261,
+      "num": 257821,
+      "word": "黑暗荣耀 字幕组",
+      "onboard_time": 1678441410,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 523739,
@@ -2892,7 +2932,7 @@
     },
     {
       "raw_hot": 479038,
-      "num": 271611,
+      "num": 301843,
       "word": "这就是街舞6拟邀泫雅Lisa",
       "onboard_time": 1678438468,
       "rank": 20,
@@ -3291,6 +3331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405939,
+      "num": 392055,
+      "word": "光渊",
+      "onboard_time": 1678439788,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405222,
       "num": 405222,
       "word": "是女儿是妻子是妈妈 更是自己",
@@ -3427,14 +3475,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 392055,
-      "num": 392055,
-      "word": "光渊",
-      "onboard_time": 1678439788,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 391435,
       "num": 465403,
       "word": "企业宣传员工18年从未请假",
@@ -3489,6 +3529,14 @@
       "onboard_time": 1678071085,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 383592,
+      "num": 302414,
+      "word": "德国柏林允许女性在公共泳池半裸泳",
+      "onboard_time": 1678442968,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383516,
@@ -3609,6 +3657,14 @@
       "onboard_time": 1678405102,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369557,
+      "num": 301955,
+      "word": "薛之谦南京演唱会",
+      "onboard_time": 1678440990,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 369473,
@@ -4323,6 +4379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311545,
+      "num": 303041,
+      "word": "两名女子涉嫌违反香港国安法被拘捕",
+      "onboard_time": 1678439186,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 309964,
       "num": 309964,
       "word": "夜昙黑化入魔",
@@ -4603,6 +4667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286633,
+      "num": 286633,
+      "word": "小偷偷走老人看病钱公交司机怒吼追回",
+      "onboard_time": 1678441829,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 284800,
       "num": 256698,
       "word": "张艺兴中分造型",
@@ -4777,14 +4849,6 @@
       "onboard_time": 1678115307,
       "rank": 23,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 270079,
-      "num": 270079,
-      "word": "两名女子涉嫌违反香港国安法被拘捕",
-      "onboard_time": 1678439186,
-      "rank": 32,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 269582,
@@ -5265,6 +5329,14 @@
       "onboard_time": 1678272088,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232598,
+      "num": 232598,
+      "word": "建议落实男性育儿责任",
+      "onboard_time": 1678442009,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232321,
@@ -7795,6 +7867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143120,
+      "num": 232044,
+      "word": "王曼昱说自己成熟了",
+      "onboard_time": 1678441349,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142483,
       "num": 142483,
       "word": "多家企业用迪士尼角色命名",
@@ -8539,6 +8619,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 116141,
+      "num": 304760,
+      "word": "甲流用药怎么选",
+      "onboard_time": 1678438288,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115978,
       "num": 115978,
       "word": "琴投夜合",
@@ -8697,14 +8785,6 @@
       "onboard_time": 1678096106,
       "rank": 44,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 112114,
-      "num": 265699,
-      "word": "甲流用药怎么选",
-      "onboard_time": 1678438288,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111787,
@@ -9531,6 +9611,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 76972,
+      "num": 231202,
+      "word": "每一次呼吸都跟着紧张",
+      "onboard_time": 1678443209,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76755,
       "num": 76755,
       "word": "宁静丁真合唱卓玛",
@@ -9601,14 +9689,6 @@
       "onboard_time": 1678220351,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72153,
-      "num": 238435,
-      "word": "王沪宁当选十四届全国政协主席",
-      "onboard_time": 1678440869,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 70531,
