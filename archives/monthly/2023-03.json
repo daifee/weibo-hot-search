@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678437597938,
+  "endTime": 1678439999004,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -233,6 +233,14 @@
       "onboard_time": 1678179808,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2405893,
+      "num": 616258,
+      "word": "谁在喝35元一杯的县城咖啡",
+      "onboard_time": 1678437029,
+      "rank": 14,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 2397876,
@@ -1931,6 +1939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1015222,
+      "num": 617570,
+      "word": "游客给花花投喂甘蔗保安第一时间捡出",
+      "onboard_time": 1678435289,
+      "rank": 13,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 1014153,
       "num": 952780,
       "word": "BLACKPINK澳门演唱会",
@@ -2809,14 +2825,6 @@
       "onboard_time": 1677977545,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 798616,
-      "num": 617570,
-      "word": "游客给花花投喂甘蔗保安第一时间捡出",
-      "onboard_time": 1678435289,
-      "rank": 13,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 795138,
@@ -4043,6 +4051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 633033,
+      "num": 633033,
+      "word": "建议全国统一医院电子病历",
+      "onboard_time": 1678434807,
+      "rank": 5,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 631709,
       "num": 631709,
       "word": "水哥曾患谱系自闭症",
@@ -4129,14 +4145,6 @@
       "onboard_time": 1678254685,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 621892,
-      "num": 621892,
-      "word": "建议全国统一医院电子病历",
-      "onboard_time": 1678434807,
-      "rank": 5,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 621731,
@@ -5219,6 +5227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 528042,
+      "num": 509405,
+      "word": "泰国律师警告乱穿泰式校服将被罚款",
+      "onboard_time": 1678438588,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 527550,
       "num": 527550,
       "word": "马思纯罗晋新片开机",
@@ -5523,6 +5539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509280,
+      "num": 509280,
+      "word": "iPhone14黄色款成最快降价新产品",
+      "onboard_time": 1678438048,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 508720,
       "num": 508720,
       "word": "1家3口同月同日生日",
@@ -5755,6 +5779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493426,
+      "num": 608375,
+      "word": "大韩航空一客机起飞前发现实弹",
+      "onboard_time": 1678436789,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492153,
       "num": 492153,
       "word": "如何看待年轻人大城挣钱小城安家",
@@ -5960,6 +5992,14 @@
       "word": "贝儿碎碎念名场面",
       "onboard_time": 1678110687,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 475441,
+      "num": 271611,
+      "word": "这就是街舞6拟邀泫雅Lisa",
+      "onboard_time": 1678438468,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -9203,6 +9243,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 306882,
+      "num": 602307,
+      "word": "成都一商场提供躺平区",
+      "onboard_time": 1678436667,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305787,
       "num": 305787,
       "word": "TVB直播网友建议讲粤语",
@@ -9313,14 +9361,6 @@
       "onboard_time": 1678008447,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299579,
-      "num": 616258,
-      "word": "谁在喝35元一杯的县城咖啡",
-      "onboard_time": 1678437029,
-      "rank": 14,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 299168,
@@ -9585,6 +9625,14 @@
       "onboard_time": 1677835288,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289063,
+      "num": 289063,
+      "word": "短道速滑",
+      "onboard_time": 1678437627,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 289057,
@@ -10227,6 +10275,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 265732,
+      "num": 614018,
+      "word": "第一次理解了浮光跃金",
+      "onboard_time": 1678436068,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 265630,
       "num": 265630,
       "word": "金在中说许光汉像天使",
@@ -10753,14 +10809,6 @@
       "onboard_time": 1677734308,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246075,
-      "num": 614018,
-      "word": "第一次理解了浮光跃金",
-      "onboard_time": 1678436068,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 245400,
@@ -11899,6 +11947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215951,
+      "num": 265727,
+      "word": "刘若英演唱会官宣",
+      "onboard_time": 1678439247,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215722,
       "num": 215722,
       "word": "快船三连败",
@@ -12193,14 +12249,6 @@
       "onboard_time": 1677906866,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208606,
-      "num": 608375,
-      "word": "大韩航空一客机起飞前发现实弹",
-      "onboard_time": 1678436789,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208554,
@@ -14507,6 +14555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175967,
+      "num": 265674,
+      "word": "熊猫基地考虑建黑名单制度",
+      "onboard_time": 1678438767,
+      "rank": 31,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 175881,
       "num": 175881,
       "word": "英超双红会",
@@ -15243,14 +15299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160567,
-      "num": 602307,
-      "word": "成都一商场提供躺平区",
-      "onboard_time": 1678436667,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160441,
       "num": 160441,
       "word": "快船五连败",
@@ -15529,6 +15577,14 @@
       "onboard_time": 1678090346,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154778,
+      "num": 265657,
+      "word": "两名女子涉嫌违反香港国安法被拘捕",
+      "onboard_time": 1678439186,
+      "rank": 32,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 154348,
@@ -17889,6 +17945,14 @@
       "onboard_time": 1677988946,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 112114,
+      "num": 265699,
+      "word": "甲流用药怎么选",
+      "onboard_time": 1678438288,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111876,
