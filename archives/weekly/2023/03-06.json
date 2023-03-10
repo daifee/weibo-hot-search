@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678458969732,
+  "endTime": 1678461566603,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 1756728,
-      "num": 417358,
+      "num": 439875,
       "word": "姚晨回应张颂文感谢她一辈子",
       "onboard_time": 1678456407,
       "rank": 20,
@@ -865,6 +865,14 @@
       "onboard_time": 1678428266,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1133509,
+      "num": 695561,
+      "word": "伊朗沙特恢复外交关系",
+      "onboard_time": 1678458089,
+      "rank": 28,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1118837,
@@ -1563,6 +1571,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 776124,
+      "num": 659975,
+      "word": "香港男子深圳上班每天通勤4小时",
+      "onboard_time": 1678457068,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772435,
       "num": 804121,
       "word": "宪法宣誓",
@@ -1921,6 +1937,14 @@
       "onboard_time": 1678328545,
       "rank": 6,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 657283,
+      "num": 657283,
+      "word": "李莎拉好疯",
+      "onboard_time": 1678458568,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 655099,
@@ -2315,12 +2339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578333,
+      "num": 578333,
+      "word": "满江红中国影史票房榜第6",
+      "onboard_time": 1678460189,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 577351,
       "num": 577351,
       "word": "国家线再涨就不礼貌了",
       "onboard_time": 1678184430,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 576950,
+      "num": 538641,
+      "word": "人人视频",
+      "onboard_time": 1678458509,
+      "rank": 19,
+      "category": "科技,影视"
     },
     {
       "raw_hot": 575392,
@@ -2377,14 +2417,6 @@
       "onboard_time": 1678199068,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 567654,
-      "num": 424812,
-      "word": "香港男子深圳上班每天通勤4小时",
-      "onboard_time": 1678457068,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 567578,
@@ -2715,14 +2747,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 520777,
-      "num": 418120,
-      "word": "人人视频",
-      "onboard_time": 1678458509,
-      "rank": 19,
-      "category": "科技,影视"
-    },
-    {
       "raw_hot": 520707,
       "num": 263356,
       "word": "清华保洁阿姨身穿晚礼服弹奏钢琴",
@@ -2841,6 +2865,14 @@
       "onboard_time": 1678112070,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 504627,
+      "num": 504627,
+      "word": "星落凝成糖 山河表里",
+      "onboard_time": 1678458149,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 504309,
@@ -3236,7 +3268,7 @@
     },
     {
       "raw_hot": 442683,
-      "num": 442683,
+      "num": 675147,
       "word": "最新国家形象网宣片",
       "onboard_time": 1678454067,
       "rank": 31,
@@ -3388,7 +3420,7 @@
     },
     {
       "raw_hot": 422382,
-      "num": 422382,
+      "num": 468968,
       "word": "你是否接受与人工智能谈恋爱",
       "onboard_time": 1678457128,
       "rank": 17,
@@ -3464,14 +3496,6 @@
       "word": "蒋雯丽明道 转角之恋",
       "onboard_time": 1678349367,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 408686,
-      "num": 408686,
-      "word": "星落凝成糖 山河表里",
-      "onboard_time": 1678458149,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -4395,14 +4419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326393,
-      "num": 326393,
-      "word": "伊朗沙特恢复外交关系",
-      "onboard_time": 1678458089,
-      "rank": 28,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 326129,
       "num": 294001,
       "word": "贝儿自弹自唱",
@@ -4588,7 +4604,7 @@
     },
     {
       "raw_hot": 312455,
-      "num": 223155,
+      "num": 223577,
       "word": "星落凝成糖 HE",
       "onboard_time": 1678453646,
       "rank": 30,
@@ -4817,6 +4833,14 @@
       "onboard_time": 1678100366,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 293112,
+      "num": 293112,
+      "word": "最强大脑突发启动国际赛",
+      "onboard_time": 1678458331,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 292829,
@@ -5587,6 +5611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 233515,
+      "num": 233515,
+      "word": "从录取率来看考研难度超过高考",
+      "onboard_time": 1678460431,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 232801,
       "num": 232801,
       "word": "半熟恋人",
@@ -5796,7 +5828,7 @@
     },
     {
       "raw_hot": 222134,
-      "num": 222134,
+      "num": 223367,
       "word": "邓超遇见冰雪甄嬛",
       "onboard_time": 1678456649,
       "rank": 31,
@@ -5841,14 +5873,6 @@
       "onboard_time": 1678234950,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 219433,
-      "num": 219433,
-      "word": "李莎拉好疯",
-      "onboard_time": 1678458568,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 219296,
@@ -6116,7 +6140,7 @@
     },
     {
       "raw_hot": 208235,
-      "num": 220030,
+      "num": 223806,
       "word": "像极了考教资前的我",
       "onboard_time": 1678446806,
       "rank": 48,
@@ -6412,7 +6436,7 @@
     },
     {
       "raw_hot": 201713,
-      "num": 218861,
+      "num": 223411,
       "word": "保你平安",
       "onboard_time": 1678112309,
       "rank": 29,
@@ -6875,6 +6899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193637,
+      "num": 224293,
+      "word": "WBG 海报",
+      "onboard_time": 1678460848,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193595,
       "num": 606307,
       "word": "重置你的迷走神经",
@@ -7193,14 +7225,6 @@
       "onboard_time": 1678423474,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 185080,
-      "num": 185080,
-      "word": "最强大脑突发启动国际赛",
-      "onboard_time": 1678458331,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 184093,
@@ -8619,6 +8643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129293,
+      "num": 223749,
+      "word": "最强大脑10脑王候选人",
+      "onboard_time": 1678461149,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128966,
       "num": 128966,
       "word": "玄商的辞职信",
@@ -8729,6 +8761,14 @@
       "onboard_time": 1678235308,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 126824,
+      "num": 223679,
+      "word": "归路",
+      "onboard_time": 1678459050,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 126668,
@@ -8953,6 +8993,14 @@
       "onboard_time": 1678445306,
       "rank": 33,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 121825,
+      "num": 223495,
+      "word": "叶舒华小姐不熙娣预告",
+      "onboard_time": 1678461508,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 121379,
@@ -9329,6 +9377,14 @@
       "onboard_time": 1678169848,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110490,
+      "num": 223429,
+      "word": "你好星期六",
+      "onboard_time": 1678461508,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 109912,
