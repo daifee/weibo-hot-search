@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678430424757,
+  "endTime": 1678432673439,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -425,6 +425,14 @@
       "onboard_time": 1678244367,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1608154,
+      "num": 397313,
+      "word": "建议毕业生找工作不要挑肥拣瘦",
+      "onboard_time": 1678430550,
+      "rank": 10,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1588804,
@@ -5187,6 +5195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228861,
+      "num": 228861,
+      "word": "熊猫几分钟捣毁一条船",
+      "onboard_time": 1678431928,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228479,
       "num": 228479,
       "word": "恭喜WE",
@@ -6835,6 +6851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 174672,
+      "num": 174672,
+      "word": "我国刷新亚洲最深水平井纪录",
+      "onboard_time": 1678432048,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174302,
       "num": 174302,
       "word": "王楚然想和彭冠英演古偶",
@@ -7275,6 +7299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154348,
+      "num": 154348,
+      "word": "追星星的人官宣海报",
+      "onboard_time": 1678431208,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154056,
       "num": 154056,
       "word": "李一桐毕雯珺吃火锅花絮",
@@ -7635,6 +7667,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 140352,
+      "num": 140352,
+      "word": "王鹤棣告别白马帅",
+      "onboard_time": 1678430249,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140338,
       "num": 136807,
       "word": "脑瘫小伙旁听12年即将博士毕业",
@@ -7857,14 +7897,6 @@
       "onboard_time": 1678246468,
       "rank": 38,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 130772,
-      "num": 130772,
-      "word": "王鹤棣告别白马帅",
-      "onboard_time": 1678430249,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 130569,
@@ -8283,6 +8315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117880,
+      "num": 117880,
+      "word": "天价土豆火锅竟成网红店",
+      "onboard_time": 1678431029,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117537,
       "num": 117537,
       "word": "夏花画室花絮",
@@ -8441,6 +8481,14 @@
       "onboard_time": 1678200750,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113495,
+      "num": 113495,
+      "word": "国乒全主力出战WTT新加坡大满贯",
+      "onboard_time": 1678431508,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 113439,
@@ -9145,6 +9193,14 @@
       "onboard_time": 1678185209,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89258,
+      "num": 89258,
+      "word": "老师点名月考第1女生连站7次",
+      "onboard_time": 1678432647,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 88719,
