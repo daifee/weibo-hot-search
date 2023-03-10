@@ -1,0 +1,410 @@
+{
+  "runTime": 1678414296713,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1416260,
+        "num": 1416260,
+        "word": "选举新一届国家机构领导人",
+        "onboard_time": 1678405283,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 671155,
+        "num": 671155,
+        "word": "批准国务院机构改革方案",
+        "onboard_time": 1678411347,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 8488,
+        "num": 656951,
+        "word": "两会热议高质量发展",
+        "onboard_time": 1678351828,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 655458,
+        "num": 655458,
+        "word": "宪法宣誓",
+        "onboard_time": 1678412844,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 212937,
+        "num": 612339,
+        "word": "十四届全国人大一次会议第三次全体会议",
+        "onboard_time": 1678410447,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 591692,
+        "num": 591692,
+        "word": "女子被老人误认成女儿陪游帮圆梦",
+        "onboard_time": 1678408408,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546415,
+        "num": 546415,
+        "word": "国家线",
+        "onboard_time": 1678370491,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 240487,
+        "num": 240487,
+        "word": "董明珠称格力十年纳税1000多亿",
+        "onboard_time": 1678411947,
+        "rank": 7,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 212468,
+        "num": 240478,
+        "word": "C罗沙特联赛首败",
+        "onboard_time": 1678407687,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108478,
+        "num": 240365,
+        "word": "九图读懂宪法宣誓",
+        "onboard_time": 1678413086,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1164691,
+        "num": 240309,
+        "word": "iPhone17Pro系列才会有屏下FaceID",
+        "onboard_time": 1678412185,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 826095,
+        "num": 240233,
+        "word": "大学生主打的就是一个信任",
+        "onboard_time": 1678407387,
+        "rank": 11,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 557794,
+        "num": 240105,
+        "word": "科学家首次让2只雄性老鼠产仔",
+        "onboard_time": 1678407148,
+        "rank": 12,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 184569,
+        "num": 240020,
+        "word": "杜兰特将至少缺阵3周",
+        "onboard_time": 1678410387,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431090,
+        "num": 239980,
+        "word": "多喝水真的能预防结石",
+        "onboard_time": 1678412548,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419033,
+        "num": 239901,
+        "word": "C罗怒踢水瓶",
+        "onboard_time": 1678413026,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405690,
+        "num": 239801,
+        "word": "高校为治学生赖床推出半价早餐",
+        "onboard_time": 1678409906,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 345912,
+        "num": 239722,
+        "word": "明星最多但评分最低的电影",
+        "onboard_time": 1678369049,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328259,
+        "num": 239631,
+        "word": "用盆吃10袋泡面男子称身体没病",
+        "onboard_time": 1678407148,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290733,
+        "num": 239557,
+        "word": "最可惜的内娱组合",
+        "onboard_time": 1678369049,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1164266,
+        "num": 239523,
+        "word": "丫丫回国将实现吃喝自由",
+        "onboard_time": 1678403839,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608716,
+        "num": 239417,
+        "word": "明天下午四点只办一件事",
+        "onboard_time": 1678366948,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265296,
+        "num": 239373,
+        "word": "宁德时代营收首次突破3000亿",
+        "onboard_time": 1678411166,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 259752,
+        "num": 239294,
+        "word": "妍珍文学",
+        "onboard_time": 1678408289,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257004,
+        "num": 239147,
+        "word": "工伤认定限定48小时合理吗",
+        "onboard_time": 1678412065,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239141,
+        "num": 239141,
+        "word": "汪苏泷 音乐节",
+        "onboard_time": 1678412304,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220016,
+        "num": 220016,
+        "word": "怎样走路能减肥",
+        "onboard_time": 1678405102,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218958,
+        "num": 218958,
+        "word": "德云社节目单",
+        "onboard_time": 1678413689,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215299,
+        "num": 215299,
+        "word": "制片人说希望跟王一博有作品的合作",
+        "onboard_time": 1678409128,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212493,
+        "num": 212493,
+        "word": "5岁女孩故宫拍千元甄嬛照累哭",
+        "onboard_time": 1678370373,
+        "rank": 29,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 206981,
+        "num": 206981,
+        "word": "黑暗荣耀2今日上线",
+        "onboard_time": 1678413506,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173411,
+        "num": 173411,
+        "word": "2023短道速滑世锦赛",
+        "onboard_time": 1678412665,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167903,
+        "num": 167903,
+        "word": "把家装修成酒店风是什么体验",
+        "onboard_time": 1678406728,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 167135,
+        "num": 167135,
+        "word": "腰疼就是肾脏出问题了吗",
+        "onboard_time": 1678374209,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 152891,
+        "num": 152891,
+        "word": "儿子不孝男子立遗嘱把财产给妻妹",
+        "onboard_time": 1678365090,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145759,
+        "num": 145759,
+        "word": "这才是解压玩具吧",
+        "onboard_time": 1678411106,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133455,
+        "num": 133455,
+        "word": "警方通报女子讨要工钱被打",
+        "onboard_time": 1678406486,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131888,
+        "num": 131888,
+        "word": "熊猫界也有熊孩子",
+        "onboard_time": 1678374630,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121347,
+        "num": 121347,
+        "word": "浙理工教师回应直播推学生简历走红",
+        "onboard_time": 1678413867,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 118019,
+        "num": 118019,
+        "word": "车企价格战是清库存还是真让利",
+        "onboard_time": 1678413325,
+        "rank": 39,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 113098,
+        "num": 113098,
+        "word": "世界最长寿女性去世享年128岁",
+        "onboard_time": 1678369891,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110001,
+        "num": 110001,
+        "word": "甲流病毒进入人体后会经历什么",
+        "onboard_time": 1678356207,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109071,
+        "num": 109071,
+        "word": "花店店主怒斥顺丰同城配送不规范",
+        "onboard_time": 1678375829,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 108424,
+        "num": 108424,
+        "word": "赵露思 微博之夜",
+        "onboard_time": 1678370491,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105601,
+        "num": 105601,
+        "word": "勇士vs灰熊",
+        "onboard_time": 1678408767,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90188,
+        "num": 90188,
+        "word": "Hero 让我心梗",
+        "onboard_time": 1678372050,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103317,
+        "num": 85547,
+        "word": "叶舒华录小S的节目",
+        "onboard_time": 1678367307,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76364,
+        "num": 76364,
+        "word": "2023政府工作报告自测50题",
+        "onboard_time": 1678408888,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75609,
+        "num": 75609,
+        "word": "TCL客服回应电视夜间突然大声预警",
+        "onboard_time": 1678378343,
+        "rank": 48,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 82960,
+        "num": 73579,
+        "word": "甘望星古装",
+        "onboard_time": 1678375109,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国两会时光#"
+    }
+  }
+}

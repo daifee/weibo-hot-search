@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678412767888,
+  "endTime": 1678414296713,
   "band_list": [
     {
       "raw_hot": 7884381,
@@ -713,6 +713,14 @@
       "onboard_time": 1678177828,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1164691,
+      "num": 412140,
+      "word": "iPhone17Pro系列才会有屏下FaceID",
+      "onboard_time": 1678412185,
+      "rank": 13,
+      "category": "科技"
     },
     {
       "raw_hot": 1161135,
@@ -1617,6 +1625,14 @@
       "onboard_time": 1678328545,
       "rank": 6,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 655458,
+      "num": 655458,
+      "word": "宪法宣誓",
+      "onboard_time": 1678412844,
+      "rank": 3,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 655099,
@@ -2811,6 +2827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431090,
+      "num": 239980,
+      "word": "多喝水真的能预防结石",
+      "onboard_time": 1678412548,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430823,
       "num": 430823,
       "word": "星落凝成糖",
@@ -2867,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419033,
+      "num": 239901,
+      "word": "C罗怒踢水瓶",
+      "onboard_time": 1678413026,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 417384,
       "num": 417384,
       "word": "把寝室四个军师干懵了",
@@ -2897,14 +2929,6 @@
       "onboard_time": 1678086687,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 412140,
-      "num": 412140,
-      "word": "iPhone17Pro系列才会有屏下FaceID",
-      "onboard_time": 1678412185,
-      "rank": 13,
-      "category": "科技"
     },
     {
       "raw_hot": 411986,
@@ -4451,6 +4475,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 257004,
+      "num": 239147,
+      "word": "工伤认定限定48小时合理吗",
+      "onboard_time": 1678412065,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255424,
       "num": 185760,
       "word": "委员建议实行弹性灵活退休机制",
@@ -4649,6 +4681,14 @@
       "onboard_time": 1678163608,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240487,
+      "num": 240487,
+      "word": "董明珠称格力十年纳税1000多亿",
+      "onboard_time": 1678411947,
+      "rank": 37,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 240392,
@@ -4963,6 +5003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218958,
+      "num": 218958,
+      "word": "德云社节目单",
+      "onboard_time": 1678413689,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218406,
       "num": 495097,
       "word": "今年第二场部长通道直播",
@@ -5209,6 +5257,14 @@
       "onboard_time": 1678154785,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206981,
+      "num": 206981,
+      "word": "黑暗荣耀2今日上线",
+      "onboard_time": 1678413506,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 206869,
@@ -6395,6 +6451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173411,
+      "num": 173411,
+      "word": "2023短道速滑世锦赛",
+      "onboard_time": 1678412665,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173150,
       "num": 173150,
       "word": "为啥熊猫使者近期扎堆回国",
@@ -6835,14 +6899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153535,
-      "num": 153535,
-      "word": "工伤认定限定48小时合理吗",
-      "onboard_time": 1678412065,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152408,
       "num": 152408,
       "word": "LOFTER平台AI绘画功能遭用户质疑",
@@ -7027,6 +7083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145759,
+      "num": 145759,
+      "word": "这才是解压玩具吧",
+      "onboard_time": 1678411106,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144959,
       "num": 144959,
       "word": "T1晋级",
@@ -7081,14 +7145,6 @@
       "onboard_time": 1678145361,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143342,
-      "num": 143342,
-      "word": "这才是解压玩具吧",
-      "onboard_time": 1678411106,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 143164,
@@ -7595,14 +7651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124224,
-      "num": 124224,
-      "word": "董明珠称格力十年纳税1000多亿",
-      "onboard_time": 1678411947,
-      "rank": 37,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 124080,
       "num": 124080,
       "word": "美队安娜新片预告",
@@ -7707,6 +7755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121347,
+      "num": 121347,
+      "word": "浙理工教师回应直播推学生简历走红",
+      "onboard_time": 1678413867,
+      "rank": 38,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 121256,
       "num": 121256,
       "word": "南方长城和北方长城有什么差别",
@@ -7753,6 +7809,14 @@
       "onboard_time": 1678318223,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118019,
+      "num": 118019,
+      "word": "车企价格战是清库存还是真让利",
+      "onboard_time": 1678413325,
+      "rank": 39,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 117981,
@@ -8083,6 +8147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108478,
+      "num": 240365,
+      "word": "九图读懂宪法宣誓",
+      "onboard_time": 1678413086,
+      "rank": 9,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 108394,
       "num": 108394,
       "word": "维蒂尼亚空门不进",
@@ -8345,14 +8417,6 @@
       "onboard_time": 1678158445,
       "rank": 39,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 100080,
-      "num": 100080,
-      "word": "多喝水真的能预防结石",
-      "onboard_time": 1678412548,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99975,
@@ -8753,14 +8817,6 @@
       "onboard_time": 1678108049,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 79411,
-      "num": 79411,
-      "word": "2023短道速滑世锦赛",
-      "onboard_time": 1678412665,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 78515,
