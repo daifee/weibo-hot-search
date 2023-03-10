@@ -1,0 +1,410 @@
+{
+  "runTime": 1678417683274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5749436,
+        "num": 6999436,
+        "word": "习近平当选中华人民共和国主席",
+        "onboard_time": 1678417295,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 3335521,
+        "num": 3335521,
+        "word": "选举新一届国家机构领导人",
+        "onboard_time": 1678405283,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 257494,
+        "num": 1200564,
+        "word": "十四届全国人大一次会议第三次全体会议",
+        "onboard_time": 1678410447,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1111693,
+        "num": 1111693,
+        "word": "靳东两会提交一份有关遗嘱的提案",
+        "onboard_time": 1678414767,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201345,
+        "num": 868904,
+        "word": "全国两会时光",
+        "onboard_time": 1678416927,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 723577,
+        "num": 723577,
+        "word": "宪法宣誓",
+        "onboard_time": 1678412844,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 269633,
+        "num": 707882,
+        "word": "批准国务院机构改革方案",
+        "onboard_time": 1678411347,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 72512,
+        "num": 695619,
+        "word": "九图读懂宪法宣誓",
+        "onboard_time": 1678413086,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 58404,
+        "num": 671826,
+        "word": "杜兰特将至少缺阵3周",
+        "onboard_time": 1678410387,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57140,
+        "num": 669588,
+        "word": "篮网vs雄鹿",
+        "onboard_time": 1678417655,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1218443,
+        "num": 640014,
+        "word": "iPhone17Pro系列才会有屏下FaceID",
+        "onboard_time": 1678412185,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 634723,
+        "num": 634723,
+        "word": "国家线",
+        "onboard_time": 1678370491,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 634446,
+        "num": 634446,
+        "word": "多喝水真的能预防结石",
+        "onboard_time": 1678412548,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563413,
+        "num": 563413,
+        "word": "C罗怒踢水瓶",
+        "onboard_time": 1678413026,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117898,
+        "num": 558740,
+        "word": "勇士vs灰熊",
+        "onboard_time": 1678408767,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90951,
+        "num": 556105,
+        "word": "这才是解压玩具吧",
+        "onboard_time": 1678411106,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 554978,
+        "num": 554978,
+        "word": "林孝埈世锦赛500米晋级",
+        "onboard_time": 1678415725,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554829,
+        "num": 554829,
+        "word": "AirPods或可通过头部移动控制音量",
+        "onboard_time": 1678414348,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 204683,
+        "num": 553814,
+        "word": "把家装修成酒店风是什么体验",
+        "onboard_time": 1678406728,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 193923,
+        "num": 549566,
+        "word": "2023短道速滑世锦赛",
+        "onboard_time": 1678412665,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1323849,
+        "num": 545772,
+        "word": "丫丫回国将实现吃喝自由",
+        "onboard_time": 1678403839,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558406,
+        "num": 539256,
+        "word": "明天下午四点只办一件事",
+        "onboard_time": 1678366948,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 536850,
+        "num": 536850,
+        "word": "大学生主打的就是一个信任",
+        "onboard_time": 1678407387,
+        "rank": 22,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 475031,
+        "num": 475031,
+        "word": "iG担任电影龙与地下城中国跑团战队",
+        "onboard_time": 1678416927,
+        "rank": 23,
+        "category": "游戏,影视"
+      },
+      {
+        "raw_hot": 380517,
+        "num": 380517,
+        "word": "女子被老人误认成女儿陪游帮圆梦",
+        "onboard_time": 1678408408,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367914,
+        "num": 367914,
+        "word": "科学家首次让2只雄性老鼠产仔",
+        "onboard_time": 1678407148,
+        "rank": 25,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 343412,
+        "num": 343412,
+        "word": "浙理工教师回应直播推学生简历走红",
+        "onboard_time": 1678413867,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 328592,
+        "num": 328592,
+        "word": "解说娃娃晒合影",
+        "onboard_time": 1678414948,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 328036,
+        "num": 328036,
+        "word": "为什么越来越多人选择折叠屏",
+        "onboard_time": 1678415485,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 317158,
+        "num": 317158,
+        "word": "关晓彤了不起的我们开机路透",
+        "onboard_time": 1678416267,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306096,
+        "num": 306096,
+        "word": "比亚迪4S店被判向特斯拉公开道歉",
+        "onboard_time": 1678416927,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276618,
+        "num": 276618,
+        "word": "弯弯超超表示已确定新工作和目标",
+        "onboard_time": 1678415127,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258999,
+        "num": 258999,
+        "word": "董明珠称格力十年纳税1000多亿",
+        "onboard_time": 1678411947,
+        "rank": 32,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 258766,
+        "num": 258766,
+        "word": "用盆吃10袋泡面男子称身体没病",
+        "onboard_time": 1678407148,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238319,
+        "num": 238319,
+        "word": "车企价格战是清库存还是真让利",
+        "onboard_time": 1678413325,
+        "rank": 34,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 239860,
+        "num": 225987,
+        "word": "最可惜的内娱组合",
+        "onboard_time": 1678369049,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209799,
+        "num": 209799,
+        "word": "工伤认定限定48小时合理吗",
+        "onboard_time": 1678412065,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207900,
+        "num": 207900,
+        "word": "汪苏泷 音乐节",
+        "onboard_time": 1678412304,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195477,
+        "num": 195477,
+        "word": "德云社节目单",
+        "onboard_time": 1678413689,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194209,
+        "num": 194209,
+        "word": "明星最多但评分最低的电影",
+        "onboard_time": 1678369049,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189632,
+        "num": 189632,
+        "word": "高校为治学生赖床推出半价早餐",
+        "onboard_time": 1678409906,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 185917,
+        "num": 185917,
+        "word": "张杰新歌蕾拉留着巡演首唱",
+        "onboard_time": 1678417475,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185843,
+        "num": 185843,
+        "word": "怎样走路能减肥",
+        "onboard_time": 1678405102,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162907,
+        "num": 162907,
+        "word": "孔雪儿李歌洋新剧开机",
+        "onboard_time": 1678415907,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153430,
+        "num": 153430,
+        "word": "制片人说希望跟王一博有作品的合作",
+        "onboard_time": 1678409128,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152721,
+        "num": 152721,
+        "word": "5岁女孩故宫拍千元甄嬛照累哭",
+        "onboard_time": 1678370373,
+        "rank": 45,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 151622,
+        "num": 151622,
+        "word": "杨紫199爱聊天路透",
+        "onboard_time": 1678414466,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149153,
+        "num": 149153,
+        "word": "黑暗荣耀2今日上线",
+        "onboard_time": 1678413506,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143513,
+        "num": 143513,
+        "word": "宁德时代营收首次突破3000亿",
+        "onboard_time": 1678411166,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144340,
+        "num": 141834,
+        "word": "妍珍文学",
+        "onboard_time": 1678408289,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#两会#"
+    }
+  }
+}

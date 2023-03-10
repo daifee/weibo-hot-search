@@ -1,7 +1,23 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678417086402,
+  "endTime": 1678417683274,
   "band_list": [
+    {
+      "raw_hot": 5749436,
+      "num": 6999436,
+      "word": "习近平当选中华人民共和国主席",
+      "onboard_time": 1678417295,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3335521,
+      "num": 3335521,
+      "word": "选举新一届国家机构领导人",
+      "onboard_time": 1678405283,
+      "rank": 0,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 1790566,
       "num": 1790566,
@@ -12,51 +28,43 @@
     },
     {
       "raw_hot": 1673812,
-      "num": 455298,
+      "num": 539256,
       "word": "明天下午四点只办一件事",
       "onboard_time": 1678366948,
       "rank": 6,
       "category": "影视"
     },
     {
-      "raw_hot": 1608737,
-      "num": 1608737,
-      "word": "选举新一届国家机构领导人",
-      "onboard_time": 1678405283,
-      "rank": 0,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1408550,
-      "num": 317479,
+      "num": 545772,
       "word": "丫丫回国将实现吃喝自由",
       "onboard_time": 1678403839,
       "rank": 45,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1164691,
-      "num": 412140,
+      "raw_hot": 1218443,
+      "num": 640014,
       "word": "iPhone17Pro系列才会有屏下FaceID",
       "onboard_time": 1678412185,
       "rank": 13,
       "category": "科技"
     },
     {
-      "raw_hot": 986362,
-      "num": 445339,
-      "word": "大学生主打的就是一个信任",
-      "onboard_time": 1678407387,
-      "rank": 10,
-      "category": "情感,教育"
-    },
-    {
-      "raw_hot": 861672,
-      "num": 457958,
+      "raw_hot": 1111693,
+      "num": 1111693,
       "word": "靳东两会提交一份有关遗嘱的提案",
       "onboard_time": 1678414767,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 986362,
+      "num": 536850,
+      "word": "大学生主打的就是一个信任",
+      "onboard_time": 1678407387,
+      "rank": 10,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 765176,
@@ -80,6 +88,14 @@
       "word": "批准国务院机构改革方案",
       "onboard_time": 1678411347,
       "rank": 1,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 723577,
+      "num": 723577,
+      "word": "宪法宣誓",
+      "onboard_time": 1678412844,
+      "rank": 3,
       "category": "国内要闻"
     },
     {
@@ -107,12 +123,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 655458,
-      "num": 655458,
-      "word": "宪法宣誓",
-      "onboard_time": 1678412844,
-      "rank": 3,
-      "category": "国内要闻"
+      "raw_hot": 634446,
+      "num": 634446,
+      "word": "多喝水真的能预防结石",
+      "onboard_time": 1678412548,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608404,
@@ -131,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 583083,
-      "num": 307555,
-      "word": "多喝水真的能预防结石",
-      "onboard_time": 1678412548,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 567532,
       "num": 466925,
       "word": "腰疼就是肾脏出问题了吗",
@@ -147,16 +155,24 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 554619,
-      "num": 306442,
+      "raw_hot": 563413,
+      "num": 563413,
       "word": "C罗怒踢水瓶",
       "onboard_time": 1678413026,
       "rank": 15,
       "category": "体育"
     },
     {
-      "raw_hot": 499293,
-      "num": 305561,
+      "raw_hot": 554978,
+      "num": 554978,
+      "word": "林孝埈世锦赛500米晋级",
+      "onboard_time": 1678415725,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 554829,
+      "num": 554829,
       "word": "AirPods或可通过头部移动控制音量",
       "onboard_time": 1678414348,
       "rank": 15,
@@ -171,20 +187,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 475031,
+      "num": 475031,
+      "word": "iG担任电影龙与地下城中国跑团战队",
+      "onboard_time": 1678416927,
+      "rank": 25,
+      "category": "游戏,影视"
+    },
+    {
       "raw_hot": 451043,
       "num": 451043,
       "word": "警方通报甘孜村民多次拦车要红包",
       "onboard_time": 1678374690,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 441219,
-      "num": 441219,
-      "word": "林孝埈世锦赛500米晋级",
-      "onboard_time": 1678415725,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 410430,
@@ -235,20 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343412,
+      "num": 343412,
+      "word": "浙理工教师回应直播推学生简历走红",
+      "onboard_time": 1678413867,
+      "rank": 38,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 343348,
-      "num": 303800,
+      "num": 328036,
       "word": "为什么越来越多人选择折叠屏",
       "onboard_time": 1678415485,
       "rank": 19,
       "category": "科技"
     },
     {
-      "raw_hot": 331851,
-      "num": 302539,
-      "word": "浙理工教师回应直播推学生简历走红",
-      "onboard_time": 1678413867,
-      "rank": 38,
-      "category": "教育,社会新闻"
+      "raw_hot": 328592,
+      "num": 328592,
+      "word": "解说娃娃晒合影",
+      "onboard_time": 1678414948,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 325754,
@@ -267,12 +291,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 320402,
-      "num": 301691,
-      "word": "解说娃娃晒合影",
-      "onboard_time": 1678414948,
-      "rank": 24,
-      "category": "游戏"
+      "raw_hot": 317158,
+      "num": 317158,
+      "word": "关晓彤了不起的我们开机路透",
+      "onboard_time": 1678416267,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 308772,
@@ -283,12 +307,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 301594,
-      "num": 301594,
-      "word": "iG担任电影龙与地下城中国跑团战队",
+      "raw_hot": 306096,
+      "num": 306096,
+      "word": "比亚迪4S店被判向特斯拉公开道歉",
       "onboard_time": 1678416927,
-      "rank": 25,
-      "category": "游戏,影视"
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294703,
@@ -347,20 +371,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257494,
+      "num": 1200564,
+      "word": "十四届全国人大一次会议第三次全体会议",
+      "onboard_time": 1678410447,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 257004,
       "num": 239147,
       "word": "工伤认定限定48小时合理吗",
       "onboard_time": 1678412065,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250671,
-      "num": 678330,
-      "word": "十四届全国人大一次会议第三次全体会议",
-      "onboard_time": 1678410447,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 244837,
@@ -371,28 +395,20 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 238319,
+      "num": 238319,
+      "word": "车企价格战是清库存还是真让利",
+      "onboard_time": 1678413325,
+      "rank": 39,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 235992,
       "num": 235386,
       "word": "网红阿秋骑行香港自行车被偷",
       "onboard_time": 1678364905,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229419,
-      "num": 229419,
-      "word": "关晓彤了不起的我们开机路透",
-      "onboard_time": 1678416267,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 223755,
-      "num": 223755,
-      "word": "车企价格战是清库存还是真让利",
-      "onboard_time": 1678413325,
-      "rank": 39,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 218958,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 206492,
-      "num": 453108,
+      "num": 671826,
       "word": "杜兰特将至少缺阵3周",
       "onboard_time": 1678410387,
       "rank": 9,
@@ -428,11 +444,19 @@
     },
     {
       "raw_hot": 205061,
-      "num": 321915,
+      "num": 553814,
       "word": "把家装修成酒店风是什么体验",
       "onboard_time": 1678406728,
       "rank": 19,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 201345,
+      "num": 868904,
+      "word": "全国两会时光",
+      "onboard_time": 1678416927,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 201033,
@@ -452,11 +476,19 @@
     },
     {
       "raw_hot": 197755,
-      "num": 309331,
+      "num": 549566,
       "word": "2023短道速滑世锦赛",
       "onboard_time": 1678412665,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185917,
+      "num": 185917,
+      "word": "张杰新歌蕾拉留着巡演首唱",
+      "onboard_time": 1678417475,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 183358,
@@ -523,6 +555,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 151622,
+      "num": 151622,
+      "word": "杨紫199爱聊天路透",
+      "onboard_time": 1678414466,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147184,
       "num": 147184,
       "word": "日本前女子偶像将参与地方议会选举",
@@ -531,16 +571,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 146923,
-      "num": 146923,
-      "word": "杨紫199爱聊天路透",
-      "onboard_time": 1678414466,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 145759,
-      "num": 145759,
+      "num": 556105,
       "word": "这才是解压玩具吧",
       "onboard_time": 1678411106,
       "rank": 32,
@@ -619,8 +651,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 112093,
-      "num": 112093,
+      "raw_hot": 117898,
+      "num": 558740,
       "word": "勇士vs灰熊",
       "onboard_time": 1678408767,
       "rank": 40,
@@ -636,7 +668,7 @@
     },
     {
       "raw_hot": 108478,
-      "num": 308374,
+      "num": 695619,
       "word": "九图读懂宪法宣誓",
       "onboard_time": 1678413086,
       "rank": 9,
@@ -657,14 +689,6 @@
       "onboard_time": 1678377625,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 102313,
-      "num": 102313,
-      "word": "比亚迪4S店被判向特斯拉公开道歉",
-      "onboard_time": 1678416927,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97771,
@@ -795,20 +819,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69665,
-      "num": 442179,
-      "word": "全国两会时光",
-      "onboard_time": 1678416927,
-      "rank": 4,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 66786,
       "num": 76228,
       "word": "BoysPlanet二公竞演",
       "onboard_time": 1678371808,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57140,
+      "num": 669588,
+      "word": "篮网vs雄鹿",
+      "onboard_time": 1678417655,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 55160,
