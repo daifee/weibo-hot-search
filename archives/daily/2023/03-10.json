@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678422255131,
+  "endTime": 1678423188691,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -91,7 +91,7 @@
       "category": "科技"
     },
     {
-      "raw_hot": 991502,
+      "raw_hot": 1034984,
       "num": 311557,
       "word": "国考",
       "onboard_time": 1678420241,
@@ -139,6 +139,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 694665,
+      "num": 284053,
+      "word": "张杰 票",
+      "onboard_time": 1678422939,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 694082,
+      "num": 283652,
+      "word": "男子再婚生子起诉10岁女儿减抚养费",
+      "onboard_time": 1678421502,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680087,
       "num": 680087,
       "word": "国家线",
@@ -161,6 +177,14 @@
       "onboard_time": 1678369049,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 640276,
+      "num": 308840,
+      "word": "专家不建议普通人下场炒股",
+      "onboard_time": 1678419644,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 634446,
@@ -201,14 +225,6 @@
       "onboard_time": 1678374209,
       "rank": 5,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 564881,
-      "num": 308840,
-      "word": "专家不建议普通人下场炒股",
-      "onboard_time": 1678419644,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 563413,
@@ -323,6 +339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 353090,
+      "num": 286217,
+      "word": "我想和你唱",
+      "onboard_time": 1678422278,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350395,
       "num": 304247,
       "word": "弯弯超超表示已确定新工作和目标",
@@ -347,12 +371,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 339695,
-      "num": 282912,
-      "word": "男子再婚生子起诉10岁女儿减抚养费",
-      "onboard_time": 1678421502,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 339133,
+      "num": 282881,
+      "word": "舒淇张艺兴电影开机",
+      "onboard_time": 1678422639,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 328592,
@@ -393,6 +417,14 @@
       "onboard_time": 1678409128,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294847,
+      "num": 282495,
+      "word": "成毅谈莲花楼",
+      "onboard_time": 1678421860,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 294703,
@@ -443,12 +475,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 263829,
-      "num": 263829,
-      "word": "成毅谈莲花楼",
-      "onboard_time": 1678421860,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 262036,
+      "num": 262036,
+      "word": "礼兵护送中华人民共和国宪法入场",
+      "onboard_time": 1678420722,
+      "rank": 30,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 261754,
@@ -507,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228592,
-      "num": 228592,
-      "word": "礼兵护送中华人民共和国宪法入场",
-      "onboard_time": 1678420722,
-      "rank": 30,
-      "category": "国内要闻,军事"
+      "raw_hot": 235178,
+      "num": 235178,
+      "word": "保你平安后劲有多大",
+      "onboard_time": 1678421680,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 226471,
@@ -571,6 +603,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 205060,
+      "num": 205060,
+      "word": "小熊猫美美上海迪士尼首发亮相",
+      "onboard_time": 1678422761,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 201033,
       "num": 137668,
       "word": "外媒评宋佳时装周造型",
@@ -593,6 +633,14 @@
       "onboard_time": 1678412665,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195658,
+      "num": 195658,
+      "word": "范思哲大秀",
+      "onboard_time": 1678422220,
+      "rank": 44,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 183358,
@@ -633,14 +681,6 @@
       "onboard_time": 1678403600,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161160,
-      "num": 161160,
-      "word": "保你平安后劲有多大",
-      "onboard_time": 1678421680,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 158425,
@@ -715,14 +755,6 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 129639,
-      "num": 129639,
-      "word": "范思哲大秀",
-      "onboard_time": 1678422220,
-      "rank": 44,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 127545,
       "num": 127545,
       "word": "台当局宣布恢复两岸空运客运航点",
@@ -771,6 +803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 118897,
+      "num": 118897,
+      "word": "人民日报社论",
+      "onboard_time": 1678422040,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 118872,
       "num": 118872,
       "word": "鲁鲁修",
@@ -785,6 +825,14 @@
       "onboard_time": 1678408767,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115854,
+      "num": 115854,
+      "word": "宪法宣誓仪式完整视频",
+      "onboard_time": 1678423117,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 109131,
@@ -955,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63232,
+      "num": 116980,
+      "word": "好开已无法满足年轻人了",
+      "onboard_time": 1678420903,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57140,
       "num": 669588,
       "word": "篮网vs雄鹿",
@@ -969,14 +1025,6 @@
       "onboard_time": 1678354584,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 54980,
-      "num": 110558,
-      "word": "好开已无法满足年轻人了",
-      "onboard_time": 1678420903,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51574,
