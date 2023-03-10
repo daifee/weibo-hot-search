@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678476804463,
+  "endTime": 1678479577012,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -20843,6 +20843,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 27042,
+      "num": 42320,
+      "word": "黑暗荣耀导演 校园暴力",
+      "onboard_time": 1678476732,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 25802,
       "num": 471613,
       "word": "开局之年的新机遇新挑战",
@@ -20929,14 +20937,6 @@
       "onboard_time": 1678390451,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 14432,
-      "num": 42320,
-      "word": "黑暗荣耀导演 校园暴力",
-      "onboard_time": 1678476732,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 13727,
