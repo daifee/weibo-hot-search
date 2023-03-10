@@ -1,6 +1,6 @@
 {
   "startTime": 1678465634906,
-  "endTime": 1678480420071,
+  "endTime": 1678482970165,
   "band_list": [
     {
       "raw_hot": 1602399,
@@ -433,6 +433,14 @@
       "onboard_time": 1678476732,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 16955,
+      "num": 16955,
+      "word": "淄博烧烤节",
+      "onboard_time": 1678481531,
+      "rank": 37,
+      "category": "美食,社会新闻"
     }
   ],
   "hotgov_list": [

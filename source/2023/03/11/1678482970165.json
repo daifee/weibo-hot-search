@@ -1,0 +1,410 @@
+{
+  "runTime": 1678482970165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 95966,
+        "num": 95966,
+        "word": "伊朗沙特恢复外交关系",
+        "onboard_time": 1678458089,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 31879,
+        "num": 94708,
+        "word": "2023考研国家线公布",
+        "onboard_time": 1678448369,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 9222,
+        "num": 92562,
+        "word": "9个高频词速览政府工作报告",
+        "onboard_time": 1678455030,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 26675,
+        "num": 90219,
+        "word": "建议在中小学推行趴睡变躺睡",
+        "onboard_time": 1678440927,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 16718,
+        "num": 90008,
+        "word": "会计专硕",
+        "onboard_time": 1678451367,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 16232,
+        "num": 88257,
+        "word": "最新国家形象网宣片",
+        "onboard_time": 1678454067,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15333,
+        "num": 84593,
+        "word": "建议落实男性育儿责任",
+        "onboard_time": 1678442009,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14318,
+        "num": 83818,
+        "word": "历史学考研",
+        "onboard_time": 1678452750,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 12189,
+        "num": 80911,
+        "word": "韩正当选为中华人民共和国副主席",
+        "onboard_time": 1678419581,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 9732,
+        "num": 80227,
+        "word": "法硕",
+        "onboard_time": 1678449809,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 112325,
+        "num": 77192,
+        "word": "韩剧TV崩了",
+        "onboard_time": 1678464924,
+        "rank": 10,
+        "category": "科技,影视"
+      },
+      {
+        "raw_hot": 76779,
+        "num": 76779,
+        "word": "黑暗荣耀2最后一句台词是我爱你",
+        "onboard_time": 1678475532,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47012,
+        "num": 47012,
+        "word": "香港男子深圳上班每天通勤4小时",
+        "onboard_time": 1678457068,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42245,
+        "num": 42245,
+        "word": "谁在喝35元一杯的县城咖啡",
+        "onboard_time": 1678437029,
+        "rank": 13,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 52968,
+        "num": 40984,
+        "word": "李莎拉好疯",
+        "onboard_time": 1678458568,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36408,
+        "num": 36408,
+        "word": "韩正简历",
+        "onboard_time": 1678449389,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29971,
+        "num": 29971,
+        "word": "满江红中国影史票房榜第6",
+        "onboard_time": 1678460189,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39327,
+        "num": 29689,
+        "word": "黑暗荣耀第三季",
+        "onboard_time": 1678444107,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28760,
+        "num": 28760,
+        "word": "从录取率来看考研难度超过高考",
+        "onboard_time": 1678460431,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 26039,
+        "num": 26039,
+        "word": "丰田4S店回应买一赠一",
+        "onboard_time": 1678449031,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93426,
+        "num": 25990,
+        "word": "疯狂小杨哥带货又翻车",
+        "onboard_time": 1678442132,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 71871,
+        "num": 25370,
+        "word": "姚晨回应张颂文感谢她一辈子",
+        "onboard_time": 1678456407,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46168,
+        "num": 24639,
+        "word": "德国柏林允许女性在公共泳池半裸泳",
+        "onboard_time": 1678442968,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31911,
+        "num": 24225,
+        "word": "黑暗荣耀2",
+        "onboard_time": 1678440630,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30587,
+        "num": 23804,
+        "word": "女子吃麻辣烫选菜发现大龙虾",
+        "onboard_time": 1678447347,
+        "rank": 24,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 23530,
+        "num": 23530,
+        "word": "维和防暴队将于今年上映",
+        "onboard_time": 1678462469,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28385,
+        "num": 23084,
+        "word": "黑暗荣耀2全员恶人",
+        "onboard_time": 1678454487,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21656,
+        "num": 21656,
+        "word": "不喜欢没有边界感的情侣",
+        "onboard_time": 1678449510,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21545,
+        "num": 21545,
+        "word": "笑着走出理发店的人",
+        "onboard_time": 1678461688,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 22675,
+        "num": 21042,
+        "word": "宋慧乔李到晛吻戏",
+        "onboard_time": 1678442190,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20477,
+        "num": 20477,
+        "word": "叶舒华小姐不熙娣预告",
+        "onboard_time": 1678461508,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20323,
+        "num": 20323,
+        "word": "张译新剧他是谁央8排播",
+        "onboard_time": 1678454309,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22081,
+        "num": 20282,
+        "word": "妍珍离婚",
+        "onboard_time": 1678450050,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20145,
+        "num": 20145,
+        "word": "WBG 海报",
+        "onboard_time": 1678460848,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18352,
+        "num": 18352,
+        "word": "邓超遇见冰雪甄嬛",
+        "onboard_time": 1678456649,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18662,
+        "num": 18282,
+        "word": "黑暗荣耀导演 校园暴力",
+        "onboard_time": 1678476732,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18021,
+        "num": 18021,
+        "word": "星落凝成糖 山河表里",
+        "onboard_time": 1678458149,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16955,
+        "num": 16955,
+        "word": "淄博烧烤节",
+        "onboard_time": 1678481531,
+        "rank": 37,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 18068,
+        "num": 16764,
+        "word": "人人视频",
+        "onboard_time": 1678458509,
+        "rank": 38,
+        "category": "科技,影视"
+      },
+      {
+        "raw_hot": 16189,
+        "num": 16189,
+        "word": "最强大脑突发启动国际赛",
+        "onboard_time": 1678458331,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15951,
+        "num": 15951,
+        "word": "鹿晗领养的老虎叫五哈",
+        "onboard_time": 1678456287,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17649,
+        "num": 15693,
+        "word": "河道英演我回消息",
+        "onboard_time": 1678463187,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14946,
+        "num": 14946,
+        "word": "iPhone14黄色款成最快降价新产品",
+        "onboard_time": 1678438048,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 14933,
+        "num": 14933,
+        "word": "最强大脑10脑王候选人",
+        "onboard_time": 1678461149,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14913,
+        "num": 14913,
+        "word": "妍珍的笑",
+        "onboard_time": 1678464626,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14826,
+        "num": 14826,
+        "word": "水哥说国际赛需要他就出战",
+        "onboard_time": 1678461989,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14084,
+        "num": 14084,
+        "word": "国家线公布后的心情",
+        "onboard_time": 1678449209,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 14045,
+        "num": 14045,
+        "word": "你是否接受与人工智能谈恋爱",
+        "onboard_time": 1678457128,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14028,
+        "num": 14028,
+        "word": "星落凝成糖男主男二一起养花",
+        "onboard_time": 1678455568,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13798,
+        "num": 13798,
+        "word": "张远王栎鑫陈楚生合唱嘉宾",
+        "onboard_time": 1678462588,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国两会时光#"
+    }
+  }
+}
