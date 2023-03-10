@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678432673439,
+  "endTime": 1678433641342,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1760044,
+      "num": 397313,
+      "word": "建议毕业生找工作不要挑肥拣瘦",
+      "onboard_time": 1678430550,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1673812,
       "num": 539256,
       "word": "明天下午四点只办一件事",
@@ -73,14 +81,6 @@
       "onboard_time": 1678414767,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1608154,
-      "num": 397313,
-      "word": "建议毕业生找工作不要挑肥拣瘦",
-      "onboard_time": 1678430550,
-      "rank": 10,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1523208,
@@ -331,6 +331,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 505938,
+      "num": 319906,
+      "word": "老师点名月考第1女生连站7次",
+      "onboard_time": 1678432647,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 496275,
       "num": 475031,
       "word": "iG担任电影龙与地下城中国跑团战队",
@@ -384,6 +392,14 @@
       "word": "儿子不孝男子立遗嘱把财产给妻妹",
       "onboard_time": 1678365090,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404291,
+      "num": 319540,
+      "word": "熊猫几分钟捣毁一条船",
+      "onboard_time": 1678431928,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -579,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270518,
+      "num": 270518,
+      "word": "我国刷新亚洲最深水平井纪录",
+      "onboard_time": 1678432048,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 268018,
       "num": 268018,
       "word": "汪苏泷 音乐节",
@@ -673,14 +697,6 @@
       "onboard_time": 1678421680,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 228861,
-      "num": 228861,
-      "word": "熊猫几分钟捣毁一条船",
-      "onboard_time": 1678431928,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226471,
@@ -795,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190762,
+      "num": 190762,
+      "word": "那些影剧双栖发展的演员",
+      "onboard_time": 1678432891,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185142,
       "num": 185142,
       "word": "KPL",
@@ -827,20 +851,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174672,
-      "num": 174672,
-      "word": "我国刷新亚洲最深水平井纪录",
-      "onboard_time": 1678432048,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171680,
       "num": 171680,
       "word": "你在闲鱼被套路过么",
       "onboard_time": 1678364846,
       "rank": 16,
       "category": "其它"
+    },
+    {
+      "raw_hot": 164884,
+      "num": 109054,
+      "word": "苍兰诀动画收官",
+      "onboard_time": 1678433552,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 161666,
@@ -937,6 +961,14 @@
       "onboard_time": 1678411106,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140855,
+      "num": 140855,
+      "word": "国乒全主力出战WTT新加坡大满贯",
+      "onboard_time": 1678431508,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 140352,
@@ -1059,14 +1091,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 113495,
-      "num": 113495,
-      "word": "国乒全主力出战WTT新加坡大满贯",
-      "onboard_time": 1678431508,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109131,
       "num": 109131,
       "word": "林葳时刻",
@@ -1161,14 +1185,6 @@
       "onboard_time": 1678371030,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89258,
-      "num": 89258,
-      "word": "老师点名月考第1女生连站7次",
-      "onboard_time": 1678432647,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 86845,
