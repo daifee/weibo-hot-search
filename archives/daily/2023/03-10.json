@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678439999004,
+  "endTime": 1678440880393,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -43,7 +43,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 2405893,
+      "raw_hot": 2496764,
       "num": 616258,
       "word": "谁在喝35元一杯的县城咖啡",
       "onboard_time": 1678437029,
@@ -89,6 +89,14 @@
       "onboard_time": 1678414767,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1553573,
+      "num": 428739,
+      "word": "黑暗荣耀2",
+      "onboard_time": 1678440630,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1523208,
@@ -307,6 +315,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 606970,
+      "num": 509405,
+      "word": "泰国律师警告乱穿泰式校服将被罚款",
+      "onboard_time": 1678438588,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599180,
       "num": 606195,
       "word": "流浪地球两部连映",
@@ -371,15 +387,7 @@
       "category": "科技"
     },
     {
-      "raw_hot": 528042,
-      "num": 509405,
-      "word": "泰国律师警告乱穿泰式校服将被罚款",
-      "onboard_time": 1678438588,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 509280,
+      "raw_hot": 521395,
       "num": 509280,
       "word": "iPhone14黄色款成最快降价新产品",
       "onboard_time": 1678438048,
@@ -427,7 +435,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 475441,
+      "raw_hot": 479038,
       "num": 271611,
       "word": "这就是街舞6拟邀泫雅Lisa",
       "onboard_time": 1678438468,
@@ -464,6 +472,14 @@
       "word": "舒淇张艺兴电影开机",
       "onboard_time": 1678422639,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 392055,
+      "num": 392055,
+      "word": "光渊",
+      "onboard_time": 1678439788,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -683,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270079,
+      "num": 270079,
+      "word": "两名女子涉嫌违反香港国安法被拘捕",
+      "onboard_time": 1678439186,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 268018,
       "num": 268018,
       "word": "汪苏泷 音乐节",
@@ -705,6 +729,14 @@
       "onboard_time": 1678420722,
       "rank": 30,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 262016,
+      "num": 265674,
+      "word": "熊猫基地考虑建黑名单制度",
+      "onboard_time": 1678438767,
+      "rank": 31,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 261754,
@@ -963,14 +995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175967,
-      "num": 265674,
-      "word": "熊猫基地考虑建黑名单制度",
-      "onboard_time": 1678438767,
-      "rank": 31,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 171680,
       "num": 171680,
       "word": "你在闲鱼被套路过么",
@@ -985,6 +1009,14 @@
       "onboard_time": 1678433552,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 164047,
+      "num": 242037,
+      "word": "黑暗荣耀导演否认校园暴力",
+      "onboard_time": 1678440630,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 161666,
@@ -1009,14 +1041,6 @@
       "onboard_time": 1678359205,
       "rank": 17,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 154778,
-      "num": 265657,
-      "word": "两名女子涉嫌违反香港国安法被拘捕",
-      "onboard_time": 1678439186,
-      "rank": 32,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 154348,
@@ -1112,14 +1136,6 @@
       "word": "王鹤棣告别白马帅",
       "onboard_time": 1678430249,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 139368,
-      "num": 265631,
-      "word": "光渊",
-      "onboard_time": 1678439788,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -1401,6 +1417,14 @@
       "onboard_time": 1678406786,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 72153,
+      "num": 238435,
+      "word": "王沪宁当选十四届全国政协主席",
+      "onboard_time": 1678440869,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 70894,

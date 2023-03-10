@@ -1,0 +1,410 @@
+{
+  "runTime": 1678440880393,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1173555,
+        "num": 1173555,
+        "word": "习近平当选中华人民共和国主席",
+        "onboard_time": 1678417295,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 688013,
+        "num": 688013,
+        "word": "习近平当选中央军委主席",
+        "onboard_time": 1678418423,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 74991,
+        "num": 569183,
+        "word": "十四届全国人大一次会议宪法宣誓仪式",
+        "onboard_time": 1678435049,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 689965,
+        "num": 568054,
+        "word": "韩正当选为中华人民共和国副主席",
+        "onboard_time": 1678419581,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 536123,
+        "num": 536123,
+        "word": "建议全国统一医院电子病历",
+        "onboard_time": 1678434807,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 469344,
+        "num": 469344,
+        "word": "新一届国家领导人选举产生",
+        "onboard_time": 1678417904,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 189688,
+        "num": 464217,
+        "word": "两会",
+        "onboard_time": 1678418202,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 130187,
+        "num": 459578,
+        "word": "选举新一届国家机构领导人",
+        "onboard_time": 1678405283,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 89754,
+        "num": 452506,
+        "word": "礼兵护送中华人民共和国宪法入场",
+        "onboard_time": 1678420722,
+        "rank": 8,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 21558,
+        "num": 443183,
+        "word": "宪法宣誓仪式完整视频",
+        "onboard_time": 1678423117,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2496764,
+        "num": 435074,
+        "word": "谁在喝35元一杯的县城咖啡",
+        "onboard_time": 1678437029,
+        "rank": 10,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1553573,
+        "num": 428739,
+        "word": "黑暗荣耀2",
+        "onboard_time": 1678440630,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 943923,
+        "num": 422217,
+        "word": "游客给花花投喂甘蔗保安第一时间捡出",
+        "onboard_time": 1678435289,
+        "rank": 12,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 606970,
+        "num": 413525,
+        "word": "泰国律师警告乱穿泰式校服将被罚款",
+        "onboard_time": 1678438588,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546842,
+        "num": 412854,
+        "word": "老师点名月考第1女生连站7次",
+        "onboard_time": 1678432647,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 521395,
+        "num": 403200,
+        "word": "iPhone14黄色款成最快降价新产品",
+        "onboard_time": 1678438048,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 480276,
+        "num": 395993,
+        "word": "大韩航空一客机起飞前发现实弹",
+        "onboard_time": 1678436789,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392055,
+        "num": 392055,
+        "word": "光渊",
+        "onboard_time": 1678439788,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305672,
+        "num": 305672,
+        "word": "成都一商场提供躺平区",
+        "onboard_time": 1678436667,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270079,
+        "num": 270079,
+        "word": "两名女子涉嫌违反香港国安法被拘捕",
+        "onboard_time": 1678439186,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 479038,
+        "num": 269836,
+        "word": "这就是街舞6拟邀泫雅Lisa",
+        "onboard_time": 1678438468,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301635,
+        "num": 269724,
+        "word": "青你选手蒋智豪肺癌晚期",
+        "onboard_time": 1678419345,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268627,
+        "num": 268627,
+        "word": "西卡",
+        "onboard_time": 1678428266,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268037,
+        "num": 268037,
+        "word": "香港警方回应网红阿秋自行车被偷",
+        "onboard_time": 1678427128,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262016,
+        "num": 262016,
+        "word": "熊猫基地考虑建黑名单制度",
+        "onboard_time": 1678438767,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 254269,
+        "num": 254269,
+        "word": "刘诗诗惊鸿一瞥的经典角色",
+        "onboard_time": 1678435408,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253787,
+        "num": 253787,
+        "word": "短道速滑",
+        "onboard_time": 1678437627,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229537,
+        "num": 253579,
+        "word": "第一次理解了浮光跃金",
+        "onboard_time": 1678436068,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 208522,
+        "num": 252591,
+        "word": "刘若英演唱会官宣",
+        "onboard_time": 1678439247,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104827,
+        "num": 252240,
+        "word": "甲流用药怎么选",
+        "onboard_time": 1678438288,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194847,
+        "num": 251622,
+        "word": "LPL十大选手投票",
+        "onboard_time": 1678423775,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194313,
+        "num": 250512,
+        "word": "凡人修仙传 杨洋",
+        "onboard_time": 1678424733,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177432,
+        "num": 249695,
+        "word": "熊猫几分钟捣毁一条船",
+        "onboard_time": 1678431928,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156516,
+        "num": 248991,
+        "word": "男子再婚生子起诉10岁女儿减抚养费",
+        "onboard_time": 1678421502,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143958,
+        "num": 248678,
+        "word": "帅哥不可以官宣",
+        "onboard_time": 1678426890,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133070,
+        "num": 247986,
+        "word": "国家线",
+        "onboard_time": 1678370491,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128088,
+        "num": 247091,
+        "word": "小熊猫美美上海迪士尼首发亮相",
+        "onboard_time": 1678422761,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 128079,
+        "num": 246271,
+        "word": "国考",
+        "onboard_time": 1678420241,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127581,
+        "num": 245471,
+        "word": "流浪地球两部连映",
+        "onboard_time": 1678425931,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125592,
+        "num": 244796,
+        "word": "汪苏泷唱的乌梅子酱",
+        "onboard_time": 1678427608,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115890,
+        "num": 244717,
+        "word": "专家不建议普通人下场炒股",
+        "onboard_time": 1678419644,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103112,
+        "num": 243603,
+        "word": "张杰 票",
+        "onboard_time": 1678422939,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100504,
+        "num": 243262,
+        "word": "蛋仔派对",
+        "onboard_time": 1678426649,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164047,
+        "num": 242037,
+        "word": "黑暗荣耀导演否认校园暴力",
+        "onboard_time": 1678440630,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91364,
+        "num": 241279,
+        "word": "苍兰诀动画收官",
+        "onboard_time": 1678433552,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 85545,
+        "num": 241152,
+        "word": "iPhone17Pro系列才会有屏下FaceID",
+        "onboard_time": 1678412185,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 83168,
+        "num": 239933,
+        "word": "TWICE主打曲初舞台",
+        "onboard_time": 1678433970,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 82840,
+        "num": 239599,
+        "word": "我国刷新亚洲最深水平井纪录",
+        "onboard_time": 1678432048,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73139,
+        "num": 238490,
+        "word": "星落凝成糖豆瓣开分7.4分",
+        "onboard_time": 1678426110,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72153,
+        "num": 238435,
+        "word": "王沪宁当选十四届全国政协主席",
+        "onboard_time": 1678440869,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#宪法宣誓仪式#"
+    }
+  }
+}

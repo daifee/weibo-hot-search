@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678439999004,
+  "endTime": 1678440880393,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -115,20 +115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2496764,
+      "num": 616258,
+      "word": "谁在喝35元一杯的县城咖啡",
+      "onboard_time": 1678437029,
+      "rank": 14,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 2446599,
       "num": 2446599,
       "word": "精减中央国家机关人员编制",
       "onboard_time": 1678179808,
       "rank": 0,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 2405893,
-      "num": 616258,
-      "word": "谁在喝35元一杯的县城咖啡",
-      "onboard_time": 1678437029,
-      "rank": 14,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 2397876,
@@ -457,6 +457,14 @@
       "onboard_time": 1678231161,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1553573,
+      "num": 495159,
+      "word": "黑暗荣耀2",
+      "onboard_time": 1678156643,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1530365,
@@ -2035,6 +2043,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 606970,
+      "num": 509405,
+      "word": "泰国律师警告乱穿泰式校服将被罚款",
+      "onboard_time": 1678438588,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 602114,
       "num": 602114,
       "word": "张颂文探班任嘉伦武庚纪剧组",
@@ -2451,14 +2467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528042,
-      "num": 509405,
-      "word": "泰国律师警告乱穿泰式校服将被罚款",
-      "onboard_time": 1678438588,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 527550,
       "num": 527550,
       "word": "马思纯罗晋新片开机",
@@ -2521,6 +2529,14 @@
       "onboard_time": 1678117766,
       "rank": 4,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 521395,
+      "num": 509280,
+      "word": "iPhone14黄色款成最快降价新产品",
+      "onboard_time": 1678438048,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 521372,
@@ -2609,14 +2625,6 @@
       "onboard_time": 1678168166,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 509280,
-      "num": 509280,
-      "word": "iPhone14黄色款成最快降价新产品",
-      "onboard_time": 1678438048,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 508558,
@@ -2755,14 +2763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 495159,
-      "num": 495159,
-      "word": "黑暗荣耀2",
-      "onboard_time": 1678156643,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 494949,
       "num": 494949,
       "word": "为什么感觉这波甲流这么厉害",
@@ -2891,6 +2891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 479038,
+      "num": 271611,
+      "word": "这就是街舞6拟邀泫雅Lisa",
+      "onboard_time": 1678438468,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478797,
       "num": 478797,
       "word": "长相思 送审",
@@ -2912,14 +2920,6 @@
       "word": "贝儿碎碎念名场面",
       "onboard_time": 1678110687,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 475441,
-      "num": 271611,
-      "word": "这就是街舞6拟邀泫雅Lisa",
-      "onboard_time": 1678438468,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -3425,6 +3425,14 @@
       "onboard_time": 1678133413,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 392055,
+      "num": 392055,
+      "word": "光渊",
+      "onboard_time": 1678439788,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 391435,
@@ -4771,6 +4779,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 270079,
+      "num": 270079,
+      "word": "两名女子涉嫌违反香港国安法被拘捕",
+      "onboard_time": 1678439186,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 269582,
       "num": 269582,
       "word": "人不会只去一次杭州",
@@ -4881,6 +4897,14 @@
       "onboard_time": 1678420722,
       "rank": 30,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 262016,
+      "num": 265674,
+      "word": "熊猫基地考虑建黑名单制度",
+      "onboard_time": 1678438767,
+      "rank": 31,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 261441,
@@ -6947,14 +6971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 175967,
-      "num": 265674,
-      "word": "熊猫基地考虑建黑名单制度",
-      "onboard_time": 1678438767,
-      "rank": 31,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 175881,
       "num": 175881,
       "word": "英超双红会",
@@ -7219,6 +7235,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 164047,
+      "num": 242037,
+      "word": "黑暗荣耀导演否认校园暴力",
+      "onboard_time": 1678440630,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163838,
       "num": 163838,
       "word": "郭麒麟新片扎马步",
@@ -7441,14 +7465,6 @@
       "onboard_time": 1678090346,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 154778,
-      "num": 265657,
-      "word": "两名女子涉嫌违反香港国安法被拘捕",
-      "onboard_time": 1678439186,
-      "rank": 32,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 154348,
@@ -7881,14 +7897,6 @@
       "onboard_time": 1678252349,
       "rank": 36,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 139368,
-      "num": 265631,
-      "word": "光渊",
-      "onboard_time": 1678439788,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 139358,
@@ -9593,6 +9601,14 @@
       "onboard_time": 1678220351,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72153,
+      "num": 238435,
+      "word": "王沪宁当选十四届全国政协主席",
+      "onboard_time": 1678440869,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 70531,
