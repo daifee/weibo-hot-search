@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678447015905,
+  "endTime": 1678451864315,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -35,6 +35,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 3774543,
+      "num": 1108497,
+      "word": "2023考研国家线公布",
+      "onboard_time": 1678448369,
+      "rank": 3,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 3352445,
       "num": 3352445,
       "word": "新一届国家领导人选举产生",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1866333,
-      "num": 507415,
+      "num": 1029477,
       "word": "疯狂小杨哥带货又翻车",
       "onboard_time": 1678442132,
       "rank": 10,
@@ -147,12 +155,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1086148,
+      "num": 1086148,
+      "word": "韩正简历",
+      "onboard_time": 1678449389,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1034984,
       "num": 630781,
       "word": "国考",
       "onboard_time": 1678420241,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1023250,
+      "num": 1023250,
+      "word": "国家线公布后的心情",
+      "onboard_time": 1678449209,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1020090,
@@ -211,6 +235,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872494,
+      "num": 872494,
+      "word": "妍珍离婚",
+      "onboard_time": 1678450050,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 870848,
+      "num": 1078810,
+      "word": "法硕",
+      "onboard_time": 1678449809,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 865072,
       "num": 722139,
       "word": "王沪宁当选十四届全国政协主席",
@@ -228,7 +268,7 @@
     },
     {
       "raw_hot": 828616,
-      "num": 302414,
+      "num": 501586,
       "word": "德国柏林允许女性在公共泳池半裸泳",
       "onboard_time": 1678442968,
       "rank": 21,
@@ -268,7 +308,7 @@
     },
     {
       "raw_hot": 754739,
-      "num": 754739,
+      "num": 1074302,
       "word": "建议在中小学推行趴睡变躺睡",
       "onboard_time": 1678440927,
       "rank": 4,
@@ -300,11 +340,19 @@
     },
     {
       "raw_hot": 707888,
-      "num": 504033,
+      "num": 523481,
       "word": "黑暗荣耀第三季",
       "onboard_time": 1678444107,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 703039,
+      "num": 703039,
+      "word": "中国亿元资产家庭13.8万户",
+      "onboard_time": 1678445848,
+      "rank": 13,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 678061,
@@ -332,7 +380,7 @@
     },
     {
       "raw_hot": 633033,
-      "num": 633033,
+      "num": 1216002,
       "word": "建议全国统一医院电子病历",
       "onboard_time": 1678434807,
       "rank": 5,
@@ -377,6 +425,14 @@
       "onboard_time": 1678425931,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 593176,
+      "num": 593176,
+      "word": "今年考研会扩招吗",
+      "onboard_time": 1678449389,
+      "rank": 15,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 584747,
@@ -435,16 +491,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 528808,
-      "num": 390273,
-      "word": "中国亿元资产家庭13.8万户",
-      "onboard_time": 1678445848,
-      "rank": 13,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 528789,
-      "num": 528789,
+      "num": 1042622,
       "word": "建议落实男性育儿责任",
       "onboard_time": 1678442009,
       "rank": 29,
@@ -460,11 +508,19 @@
     },
     {
       "raw_hot": 521395,
-      "num": 509280,
+      "num": 518874,
       "word": "iPhone14黄色款成最快降价新产品",
       "onboard_time": 1678438048,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 518838,
+      "num": 518838,
+      "word": "女子吃麻辣烫选菜发现大龙虾",
+      "onboard_time": 1678447347,
+      "rank": 20,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 496275,
@@ -611,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350745,
+      "num": 1058715,
+      "word": "会计专硕",
+      "onboard_time": 1678451367,
+      "rank": 7,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 350395,
       "num": 304247,
       "word": "弯弯超超表示已确定新工作和目标",
@@ -681,6 +745,14 @@
       "onboard_time": 1678416267,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314972,
+      "num": 314972,
+      "word": "不喜欢没有边界感的情侣",
+      "onboard_time": 1678449510,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 311545,
@@ -761,6 +833,14 @@
       "onboard_time": 1678437627,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286951,
+      "num": 519276,
+      "word": "丰田4S店回应买一赠一",
+      "onboard_time": 1678449031,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286633,
@@ -963,12 +1043,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211254,
+      "num": 193110,
+      "word": "你们专业的分数线是涨了还是降了",
+      "onboard_time": 1678451367,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 210546,
       "num": 210546,
       "word": "王俊凯T锦绣三月刊封面",
       "onboard_time": 1678423474,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 208235,
+      "num": 208235,
+      "word": "像极了考教资前的我",
+      "onboard_time": 1678446806,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 207009,
@@ -1043,12 +1139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193726,
+      "num": 193726,
+      "word": "LGD战胜KSG",
+      "onboard_time": 1678450709,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193595,
       "num": 606307,
       "word": "重置你的迷走神经",
       "onboard_time": 1678436967,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191482,
+      "num": 191482,
+      "word": "第五人格",
+      "onboard_time": 1678451367,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 190762,
@@ -1104,6 +1216,14 @@
       "word": "张俪醉酒戏",
       "onboard_time": 1678443988,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 172706,
+      "num": 172706,
+      "word": "妍珍进监狱",
+      "onboard_time": 1678449927,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1195,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150851,
+      "num": 150851,
+      "word": "猫咪的反应说明了一切",
+      "onboard_time": 1678446505,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 150532,
       "num": 150532,
       "word": "郑恺李天然深不可测奖",
@@ -1204,7 +1332,7 @@
     },
     {
       "raw_hot": 149592,
-      "num": 149592,
+      "num": 630587,
       "word": "被手机抓拍的舞姿美到了",
       "onboard_time": 1678429286,
       "rank": 43,
@@ -1267,6 +1395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134423,
+      "num": 134423,
+      "word": "薛之谦佛山站演唱会加场",
+      "onboard_time": 1678447106,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134225,
       "num": 91941,
       "word": "章昊搞事业",
@@ -1315,6 +1451,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127106,
+      "num": 127106,
+      "word": "辽宁男篮vs山东男篮",
+      "onboard_time": 1678450229,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125945,
+      "num": 125945,
+      "word": "苏醒上职场综艺自带敲门砖",
+      "onboard_time": 1678447586,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124234,
       "num": 124234,
       "word": "2023政府工作报告自测50题",
@@ -1337,6 +1489,14 @@
       "onboard_time": 1678397472,
       "rank": 46,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 123214,
+      "num": 123214,
+      "word": "林智妍演技",
+      "onboard_time": 1678449927,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 122250,
@@ -1387,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117574,
+      "num": 117574,
+      "word": "保你平安",
+      "onboard_time": 1678448430,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 116839,
       "num": 598035,
       "word": "皮卡堂",
@@ -1411,8 +1579,16 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 113687,
+      "num": 113687,
+      "word": "你的手机系统多久更新一次",
+      "onboard_time": 1678451667,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 109912,
-      "num": 869022,
+      "num": 1112580,
       "word": "十四届全国人大一次会议宪法宣誓仪式",
       "onboard_time": 1678435049,
       "rank": 2,
@@ -1451,6 +1627,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102704,
+      "num": 102704,
+      "word": "芭莎男士王鹤棣烽火大片",
+      "onboard_time": 1678447466,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 100086,
+      "num": 100086,
+      "word": "黑暗荣耀2大结局",
+      "onboard_time": 1678450410,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 97771,
       "num": 97771,
       "word": "同曦男篮战胜广厦男篮",
@@ -1465,14 +1657,6 @@
       "onboard_time": 1678381217,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 95142,
-      "num": 95142,
-      "word": "猫咪的反应说明了一切",
-      "onboard_time": 1678446505,
-      "rank": 41,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 94969,
@@ -1545,14 +1729,6 @@
       "onboard_time": 1678369529,
       "rank": 42,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 84263,
-      "num": 84263,
-      "word": "像极了考教资前的我",
-      "onboard_time": 1678446806,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 82761,
