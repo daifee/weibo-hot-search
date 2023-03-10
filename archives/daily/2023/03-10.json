@@ -1,21 +1,37 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678417683274,
+  "endTime": 1678419061565,
   "band_list": [
     {
-      "raw_hot": 5749436,
-      "num": 6999436,
+      "raw_hot": 14880289,
+      "num": 16130289,
       "word": "习近平当选中华人民共和国主席",
       "onboard_time": 1678417295,
       "rank": 0,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 3335521,
-      "num": 3335521,
+      "raw_hot": 8123233,
+      "num": 9373233,
       "word": "选举新一届国家机构领导人",
       "onboard_time": 1678405283,
       "rank": 0,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 6469859,
+      "num": 11304242,
+      "word": "习近平当选中央军委主席",
+      "onboard_time": 1678418423,
+      "rank": 1,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3352445,
+      "num": 3352445,
+      "word": "新一届国家领导人选举产生",
+      "onboard_time": 1678417904,
+      "rank": 3,
       "category": "国内要闻"
     },
     {
@@ -35,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1655774,
+      "num": 1111693,
+      "word": "靳东两会提交一份有关遗嘱的提案",
+      "onboard_time": 1678414767,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1408550,
       "num": 545772,
       "word": "丫丫回国将实现吃喝自由",
@@ -51,20 +75,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1111693,
-      "num": 1111693,
-      "word": "靳东两会提交一份有关遗嘱的提案",
-      "onboard_time": 1678414767,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 986362,
       "num": 536850,
       "word": "大学生主打的就是一个信任",
       "onboard_time": 1678407387,
       "rank": 10,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 772435,
+      "num": 772435,
+      "word": "宪法宣誓",
+      "onboard_time": 1678412844,
+      "rank": 3,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 765176,
@@ -88,14 +112,6 @@
       "word": "批准国务院机构改革方案",
       "onboard_time": 1678411347,
       "rank": 1,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 723577,
-      "num": 723577,
-      "word": "宪法宣誓",
-      "onboard_time": 1678412844,
-      "rank": 3,
       "category": "国内要闻"
     },
     {
@@ -179,6 +195,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 496275,
+      "num": 475031,
+      "word": "iG担任电影龙与地下城中国跑团战队",
+      "onboard_time": 1678416927,
+      "rank": 25,
+      "category": "游戏,影视"
+    },
+    {
       "raw_hot": 492000,
       "num": 492000,
       "word": "高校为治学生赖床推出半价早餐",
@@ -187,12 +211,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 475031,
-      "num": 475031,
-      "word": "iG担任电影龙与地下城中国跑团战队",
+      "raw_hot": 485841,
+      "num": 485841,
+      "word": "两会",
+      "onboard_time": 1678418202,
+      "rank": 6,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 484367,
+      "num": 306096,
+      "word": "比亚迪4S店被判向特斯拉公开道歉",
       "onboard_time": 1678416927,
-      "rank": 25,
-      "category": "游戏,影视"
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451043,
@@ -201,6 +233,14 @@
       "onboard_time": 1678374690,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437211,
+      "num": 1200564,
+      "word": "十四届全国人大一次会议第三次全体会议",
+      "onboard_time": 1678410447,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 410430,
@@ -251,20 +291,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349725,
+      "num": 349725,
+      "word": "为什么越来越多人选择折叠屏",
+      "onboard_time": 1678415485,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 343412,
       "num": 343412,
       "word": "浙理工教师回应直播推学生简历走红",
       "onboard_time": 1678413867,
       "rank": 38,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 343348,
-      "num": 328036,
-      "word": "为什么越来越多人选择折叠屏",
-      "onboard_time": 1678415485,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 328592,
@@ -305,14 +345,6 @@
       "onboard_time": 1678409128,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 306096,
-      "num": 306096,
-      "word": "比亚迪4S店被判向特斯拉公开道歉",
-      "onboard_time": 1678416927,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294703,
@@ -371,20 +403,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257494,
-      "num": 1200564,
-      "word": "十四届全国人大一次会议第三次全体会议",
-      "onboard_time": 1678410447,
-      "rank": 4,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 257004,
       "num": 239147,
       "word": "工伤认定限定48小时合理吗",
       "onboard_time": 1678412065,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253923,
+      "num": 253923,
+      "word": "给猫做绝育要会演戏",
+      "onboard_time": 1678416806,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 252017,
+      "num": 252017,
+      "word": "张杰新歌蕾拉留着巡演首唱",
+      "onboard_time": 1678417475,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 244837,
@@ -411,12 +451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224606,
+      "num": 1868343,
+      "word": "全国两会时光",
+      "onboard_time": 1678416927,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 218958,
       "num": 218958,
       "word": "德云社节目单",
       "onboard_time": 1678413689,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207009,
+      "num": 435777,
+      "word": "直播宪法宣誓",
+      "onboard_time": 1678418264,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 206981,
@@ -451,14 +507,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 201345,
-      "num": 868904,
-      "word": "全国两会时光",
-      "onboard_time": 1678416927,
-      "rank": 4,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 201033,
       "num": 137668,
       "word": "外媒评宋佳时装周造型",
@@ -481,14 +529,6 @@
       "onboard_time": 1678412665,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185917,
-      "num": 185917,
-      "word": "张杰新歌蕾拉留着巡演首唱",
-      "onboard_time": 1678417475,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 183358,
@@ -689,6 +729,14 @@
       "onboard_time": 1678377625,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 98360,
+      "num": 98360,
+      "word": "勇士不敌灰熊",
+      "onboard_time": 1678418982,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97771,
@@ -903,6 +951,9 @@
     },
     {
       "word": "#两会#"
+    },
+    {
+      "word": "#宪法宣誓仪式#"
     }
   ]
 }
