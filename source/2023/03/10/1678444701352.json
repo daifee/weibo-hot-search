@@ -1,0 +1,410 @@
+{
+  "runTime": 1678444701352,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1551263,
+        "num": 1551263,
+        "word": "习近平当选中华人民共和国主席",
+        "onboard_time": 1678417295,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 693005,
+        "num": 851534,
+        "word": "习近平当选中央军委主席",
+        "onboard_time": 1678418423,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 43937,
+        "num": 743511,
+        "word": "十四届全国人大一次会议宪法宣誓仪式",
+        "onboard_time": 1678435049,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 722139,
+        "num": 722139,
+        "word": "王沪宁当选十四届全国政协主席",
+        "onboard_time": 1678440869,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 720474,
+        "num": 720474,
+        "word": "建议在中小学推行趴睡变躺睡",
+        "onboard_time": 1678440927,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 515151,
+        "num": 515151,
+        "word": "韩正当选为中华人民共和国副主席",
+        "onboard_time": 1678419581,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 314675,
+        "num": 514254,
+        "word": "建议落实男性育儿责任",
+        "onboard_time": 1678442009,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258229,
+        "num": 513353,
+        "word": "新一届国家领导人选举产生",
+        "onboard_time": 1678417904,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 250125,
+        "num": 511163,
+        "word": "建议全国统一医院电子病历",
+        "onboard_time": 1678434807,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 115372,
+        "num": 508321,
+        "word": "两会",
+        "onboard_time": 1678418202,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1753492,
+        "num": 507415,
+        "word": "疯狂小杨哥带货又翻车",
+        "onboard_time": 1678442132,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1335186,
+        "num": 505581,
+        "word": "谁在喝35元一杯的县城咖啡",
+        "onboard_time": 1678437029,
+        "rank": 11,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 707888,
+        "num": 504033,
+        "word": "黑暗荣耀第三季",
+        "onboard_time": 1678444107,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 502736,
+        "num": 502736,
+        "word": "游客给花花投喂甘蔗保安第一时间捡出",
+        "onboard_time": 1678435289,
+        "rank": 13,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 118917,
+        "num": 470008,
+        "word": "甲流用药怎么选",
+        "onboard_time": 1678438288,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447973,
+        "num": 447973,
+        "word": "泰国律师警告乱穿泰式校服将被罚款",
+        "onboard_time": 1678438588,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361439,
+        "num": 361439,
+        "word": "老师点名月考第1女生连站7次",
+        "onboard_time": 1678432647,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 704094,
+        "num": 361159,
+        "word": "黑暗荣耀2",
+        "onboard_time": 1678440630,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360028,
+        "num": 360028,
+        "word": "光渊",
+        "onboard_time": 1678439788,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323330,
+        "num": 323330,
+        "word": "iPhone14黄色款成最快降价新产品",
+        "onboard_time": 1678438048,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 819908,
+        "num": 316058,
+        "word": "宋慧乔李到晛吻戏",
+        "onboard_time": 1678442190,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 669576,
+        "num": 300365,
+        "word": "德国柏林允许女性在公共泳池半裸泳",
+        "onboard_time": 1678442968,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276193,
+        "num": 276193,
+        "word": "小偷偷走老人看病钱公交司机怒吼追回",
+        "onboard_time": 1678441829,
+        "rank": 22,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 271482,
+        "num": 271482,
+        "word": "两名女子涉嫌违反香港国安法被拘捕",
+        "onboard_time": 1678439186,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 269969,
+        "num": 269969,
+        "word": "薛之谦南京演唱会",
+        "onboard_time": 1678440990,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259138,
+        "num": 259138,
+        "word": "这就是街舞6拟邀泫雅Lisa",
+        "onboard_time": 1678438468,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209576,
+        "num": 209576,
+        "word": "西卡",
+        "onboard_time": 1678428266,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199607,
+        "num": 199607,
+        "word": "大韩航空一客机起飞前发现实弹",
+        "onboard_time": 1678436789,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197806,
+        "num": 197806,
+        "word": "熊猫基地考虑建黑名单制度",
+        "onboard_time": 1678438767,
+        "rank": 28,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 179121,
+        "num": 179121,
+        "word": "香港警方回应网红阿秋自行车被偷",
+        "onboard_time": 1678427128,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178761,
+        "num": 178761,
+        "word": "张俪醉酒戏",
+        "onboard_time": 1678443988,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162165,
+        "num": 162165,
+        "word": "凡人修仙传 杨洋",
+        "onboard_time": 1678424733,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160245,
+        "num": 160245,
+        "word": "回廊亭",
+        "onboard_time": 1678442729,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146298,
+        "num": 146298,
+        "word": "青你选手蒋智豪肺癌晚期",
+        "onboard_time": 1678419345,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132724,
+        "num": 132724,
+        "word": "刘诗诗惊鸿一瞥的经典角色",
+        "onboard_time": 1678435408,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131239,
+        "num": 131239,
+        "word": "第一次理解了浮光跃金",
+        "onboard_time": 1678436068,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 123681,
+        "num": 123681,
+        "word": "刘若英演唱会官宣",
+        "onboard_time": 1678439247,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122977,
+        "num": 122977,
+        "word": "LPL十大选手投票",
+        "onboard_time": 1678423775,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119006,
+        "num": 119006,
+        "word": "成都一商场提供躺平区",
+        "onboard_time": 1678436667,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116328,
+        "num": 116328,
+        "word": "流浪地球两部连映",
+        "onboard_time": 1678425931,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113346,
+        "num": 113346,
+        "word": "熊猫几分钟捣毁一条船",
+        "onboard_time": 1678431928,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110711,
+        "num": 110711,
+        "word": "王曼昱说自己成熟了",
+        "onboard_time": 1678441349,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106409,
+        "num": 106409,
+        "word": "短道速滑",
+        "onboard_time": 1678437627,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98693,
+        "num": 98693,
+        "word": "汪苏泷唱的乌梅子酱",
+        "onboard_time": 1678427608,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96556,
+        "num": 96556,
+        "word": "国考",
+        "onboard_time": 1678420241,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95924,
+        "num": 95924,
+        "word": "男子再婚生子起诉10岁女儿减抚养费",
+        "onboard_time": 1678421502,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95308,
+        "num": 95308,
+        "word": "硅谷银行暴跌60%",
+        "onboard_time": 1678444467,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81846,
+        "num": 95174,
+        "word": "帅哥不可以官宣",
+        "onboard_time": 1678426890,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70076,
+        "num": 95000,
+        "word": "张杰 票",
+        "onboard_time": 1678422939,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 66615,
+        "num": 94980,
+        "word": "宠物公司对待猫狗有多双标",
+        "onboard_time": 1678444648,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#宪法宣誓仪式#"
+    }
+  }
+}

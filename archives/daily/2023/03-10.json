@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678443717400,
+  "endTime": 1678444701352,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1866333,
-      "num": 306014,
+      "num": 507415,
       "word": "疯狂小杨哥带货又翻车",
       "onboard_time": 1678442132,
       "rank": 10,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1020090,
-      "num": 302608,
+      "num": 316058,
       "word": "宋慧乔李到晛吻戏",
       "onboard_time": 1678442190,
       "rank": 20,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 865072,
-      "num": 639802,
+      "num": 722139,
       "word": "王沪宁当选十四届全国政协主席",
       "onboard_time": 1678440869,
       "rank": 49,
@@ -275,6 +275,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 720474,
+      "num": 720474,
+      "word": "建议在中小学推行趴睡变躺睡",
+      "onboard_time": 1678440927,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 713467,
       "num": 713467,
       "word": "专家不建议普通人下场炒股",
@@ -283,11 +291,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 707888,
+      "num": 504033,
+      "word": "黑暗荣耀第三季",
+      "onboard_time": 1678444107,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 678061,
       "num": 678061,
       "word": "女子被老人误认成女儿陪游帮圆梦",
       "onboard_time": 1678408408,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 669576,
+      "num": 302414,
+      "word": "德国柏林允许女性在公共泳池半裸泳",
+      "onboard_time": 1678442968,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -353,14 +377,6 @@
       "onboard_time": 1678425931,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 586997,
-      "num": 586997,
-      "word": "建议在中小学推行趴睡变躺睡",
-      "onboard_time": 1678440927,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 584747,
@@ -531,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383592,
-      "num": 302414,
-      "word": "德国柏林允许女性在公共泳池半裸泳",
-      "onboard_time": 1678442968,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378107,
       "num": 599158,
       "word": "星落凝成糖豆瓣开分7.4分",
@@ -657,6 +665,14 @@
       "onboard_time": 1678416267,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314675,
+      "num": 514254,
+      "word": "建议落实男性育儿责任",
+      "onboard_time": 1678442009,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311545,
@@ -883,14 +899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 232598,
-      "num": 232598,
-      "word": "建议落实男性育儿责任",
-      "onboard_time": 1678442009,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226471,
       "num": 2843138,
       "word": "全国两会时光",
@@ -1067,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178761,
+      "num": 178761,
+      "word": "张俪醉酒戏",
+      "onboard_time": 1678443988,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171680,
       "num": 171680,
       "word": "你在闲鱼被套路过么",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1678403600,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160245,
+      "num": 232095,
+      "word": "回廊亭",
+      "onboard_time": 1678442729,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 158425,
@@ -1169,14 +1193,6 @@
       "onboard_time": 1678418982,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147480,
-      "num": 232095,
-      "word": "回廊亭",
-      "onboard_time": 1678442729,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 147184,
@@ -1299,6 +1315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 118917,
+      "num": 470008,
+      "word": "甲流用药怎么选",
+      "onboard_time": 1678438288,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118897,
       "num": 118897,
       "word": "人民日报社论",
@@ -1329,14 +1353,6 @@
       "onboard_time": 1678434866,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116141,
-      "num": 304760,
-      "word": "甲流用药怎么选",
-      "onboard_time": 1678438288,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115854,
@@ -1401,6 +1417,14 @@
       "onboard_time": 1678381217,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 95308,
+      "num": 95308,
+      "word": "硅谷银行暴跌60%",
+      "onboard_time": 1678444467,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 94969,
@@ -1537,6 +1561,14 @@
       "onboard_time": 1678371808,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66615,
+      "num": 94980,
+      "word": "宠物公司对待猫狗有多双标",
+      "onboard_time": 1678444648,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 63232,
