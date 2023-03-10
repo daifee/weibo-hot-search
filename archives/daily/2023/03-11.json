@@ -1,6 +1,6 @@
 {
   "startTime": 1678465634906,
-  "endTime": 1678484021698,
+  "endTime": 1678486659939,
   "band_list": [
     {
       "raw_hot": 1602399,
@@ -379,6 +379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 81941,
+      "num": 34174,
+      "word": "涉疫案件已判决生效的继续执行",
+      "onboard_time": 1678484891,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77372,
       "num": 207045,
       "word": "檀健次重现沈翊经典台词",
@@ -419,6 +427,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 31800,
+      "num": 31800,
+      "word": "淄博烧烤节",
+      "onboard_time": 1678481531,
+      "rank": 37,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 28229,
       "num": 33460,
       "word": "保你平安",
@@ -435,16 +451,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 19438,
-      "num": 19438,
-      "word": "淄博烧烤节",
-      "onboard_time": 1678481531,
-      "rank": 37,
-      "category": "美食,社会新闻"
+      "raw_hot": 17608,
+      "num": 22940,
+      "word": "秦岭山下千年古玉兰优雅绽放",
+      "onboard_time": 1678484712,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 10406,
-      "num": 76492,
+      "raw_hot": 14781,
+      "num": 161746,
       "word": "心想事成",
       "onboard_time": 1678367550,
       "rank": 9,
