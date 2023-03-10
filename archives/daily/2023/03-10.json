@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678423188691,
+  "endTime": 1678425535027,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1523208,
+      "num": 284053,
+      "word": "张杰 票",
+      "onboard_time": 1678422939,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1408550,
       "num": 545772,
       "word": "丫丫回国将实现吃喝自由",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1034984,
-      "num": 311557,
+      "num": 630781,
       "word": "国考",
       "onboard_time": 1678420241,
       "rank": 11,
@@ -107,8 +115,16 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 907962,
+      "num": 283652,
+      "word": "男子再婚生子起诉10岁女儿减抚养费",
+      "onboard_time": 1678421502,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772435,
-      "num": 772435,
+      "num": 804121,
       "word": "宪法宣誓",
       "onboard_time": 1678412844,
       "rank": 3,
@@ -121,6 +137,14 @@
       "onboard_time": 1678407148,
       "rank": 11,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 761175,
+      "num": 281246,
+      "word": "凡人修仙传 杨洋",
+      "onboard_time": 1678424733,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 742871,
@@ -139,20 +163,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 694665,
-      "num": 284053,
-      "word": "张杰 票",
-      "onboard_time": 1678422939,
-      "rank": 21,
-      "category": "音乐"
+      "raw_hot": 713467,
+      "num": 713467,
+      "word": "专家不建议普通人下场炒股",
+      "onboard_time": 1678419644,
+      "rank": 49,
+      "category": "财经"
     },
     {
-      "raw_hot": 694082,
-      "num": 283652,
-      "word": "男子再婚生子起诉10岁女儿减抚养费",
-      "onboard_time": 1678421502,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 684020,
+      "num": 281034,
+      "word": "鹿晗凌晨四点给宝石老舅跳街舞",
+      "onboard_time": 1678424434,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 680087,
@@ -171,20 +195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675774,
+      "num": 675774,
+      "word": "小熊猫美美上海迪士尼首发亮相",
+      "onboard_time": 1678422761,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 665555,
       "num": 330422,
       "word": "明星最多但评分最低的电影",
       "onboard_time": 1678369049,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 640276,
-      "num": 308840,
-      "word": "专家不建议普通人下场炒股",
-      "onboard_time": 1678419644,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 634446,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 615274,
-      "num": 615274,
+      "num": 856399,
       "word": "赵乐际当选为第十四届全国人大常委会委员长",
       "onboard_time": 1678420781,
       "rank": 6,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 485841,
-      "num": 485841,
+      "num": 795178,
       "word": "两会",
       "onboard_time": 1678418202,
       "rank": 6,
@@ -307,12 +331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403539,
+      "num": 282881,
+      "word": "舒淇张艺兴电影开机",
+      "onboard_time": 1678422639,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 387456,
       "num": 530062,
       "word": "甲流病毒进入人体后会经历什么",
       "onboard_time": 1678356207,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386942,
+      "num": 386942,
+      "word": "LPL十大选手投票",
+      "onboard_time": 1678423775,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 373838,
@@ -369,14 +409,6 @@
       "onboard_time": 1678413867,
       "rank": 38,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 339133,
-      "num": 282881,
-      "word": "舒淇张艺兴电影开机",
-      "onboard_time": 1678422639,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 328592,
@@ -443,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290915,
+      "num": 290915,
+      "word": "回廊亭上映",
+      "onboard_time": 1678423417,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290651,
       "num": 121741,
       "word": "甘望星古装",
@@ -457,6 +497,14 @@
       "onboard_time": 1678370491,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280420,
+      "num": 280420,
+      "word": "苏芮琪获日本两项音乐大奖",
+      "onboard_time": 1678423896,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 274322,
@@ -491,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257615,
+      "num": 257615,
+      "word": "张凌赫卢昱晓合照路透",
+      "onboard_time": 1678423834,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257298,
       "num": 257298,
       "word": "给猫做绝育要会演戏",
@@ -505,6 +561,14 @@
       "onboard_time": 1678412065,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254187,
+      "num": 253593,
+      "word": "范思哲大秀",
+      "onboard_time": 1678422220,
+      "rank": 44,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 252017,
@@ -563,8 +627,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210546,
+      "num": 210546,
+      "word": "王俊凯T锦绣三月刊封面",
+      "onboard_time": 1678423474,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 207009,
-      "num": 435777,
+      "num": 743047,
       "word": "直播宪法宣誓",
       "onboard_time": 1678418264,
       "rank": 9,
@@ -603,14 +675,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 205060,
-      "num": 205060,
-      "word": "小熊猫美美上海迪士尼首发亮相",
-      "onboard_time": 1678422761,
-      "rank": 33,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 201033,
       "num": 137668,
       "word": "外媒评宋佳时装周造型",
@@ -635,12 +699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195658,
-      "num": 195658,
-      "word": "范思哲大秀",
-      "onboard_time": 1678422220,
-      "rank": 44,
-      "category": "时尚,艺人"
+      "raw_hot": 185142,
+      "num": 185142,
+      "word": "KPL",
+      "onboard_time": 1678423474,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 183358,
