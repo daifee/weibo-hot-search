@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678425535027,
+  "endTime": 1678426504309,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -115,12 +115,28 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 979898,
+      "num": 281246,
+      "word": "凡人修仙传 杨洋",
+      "onboard_time": 1678424733,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 907962,
       "num": 283652,
       "word": "男子再婚生子起诉10岁女儿减抚养费",
       "onboard_time": 1678421502,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 782505,
+      "num": 675774,
+      "word": "小熊猫美美上海迪士尼首发亮相",
+      "onboard_time": 1678422761,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 772435,
@@ -139,14 +155,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 761175,
-      "num": 281246,
-      "word": "凡人修仙传 杨洋",
-      "onboard_time": 1678424733,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 742871,
       "num": 465392,
       "word": "最可惜的内娱组合",
@@ -163,20 +171,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 735232,
+      "num": 281034,
+      "word": "鹿晗凌晨四点给宝石老舅跳街舞",
+      "onboard_time": 1678424434,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 713467,
       "num": 713467,
       "word": "专家不建议普通人下场炒股",
       "onboard_time": 1678419644,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 684020,
-      "num": 281034,
-      "word": "鹿晗凌晨四点给宝石老舅跳街舞",
-      "onboard_time": 1678424434,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 680087,
@@ -193,14 +201,6 @@
       "onboard_time": 1678408408,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 675774,
-      "num": 675774,
-      "word": "小熊猫美美上海迪士尼首发亮相",
-      "onboard_time": 1678422761,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 665555,
@@ -307,6 +307,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475784,
+      "num": 475784,
+      "word": "LPL十大选手投票",
+      "onboard_time": 1678423775,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 470206,
+      "num": 470206,
+      "word": "流浪地球两部连映",
+      "onboard_time": 1678425931,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 451043,
       "num": 451043,
       "word": "警方通报甘孜村民多次拦车要红包",
@@ -345,14 +361,6 @@
       "onboard_time": 1678356207,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 386942,
-      "num": 386942,
-      "word": "LPL十大选手投票",
-      "onboard_time": 1678423775,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 373838,
@@ -507,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 274496,
+      "num": 274496,
+      "word": "星落凝成糖豆瓣开分7.4分",
+      "onboard_time": 1678426110,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274322,
       "num": 274322,
       "word": "熊猫界也有熊孩子",
@@ -617,6 +633,14 @@
       "onboard_time": 1678416927,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 226087,
+      "num": 226087,
+      "word": "我想和你唱再就业兄弟团",
+      "onboard_time": 1678425870,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 218958,
@@ -776,6 +800,14 @@
       "word": "杨紫199爱聊天路透",
       "onboard_time": 1678414466,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150532,
+      "num": 150532,
+      "word": "郑恺李天然深不可测奖",
+      "onboard_time": 1678425753,
+      "rank": 46,
       "category": "影视"
     },
     {
