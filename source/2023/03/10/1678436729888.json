@@ -1,0 +1,410 @@
+{
+  "runTime": 1678436729888,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1232110,
+        "num": 1232110,
+        "word": "习近平当选中华人民共和国主席",
+        "onboard_time": 1678417295,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 622652,
+        "num": 870190,
+        "word": "习近平当选中央军委主席",
+        "onboard_time": 1678418423,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 109912,
+        "num": 869022,
+        "word": "十四届全国人大一次会议宪法宣誓仪式",
+        "onboard_time": 1678435049,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 867879,
+        "num": 867879,
+        "word": "韩正当选为中华人民共和国副主席",
+        "onboard_time": 1678419581,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 716092,
+        "num": 716092,
+        "word": "新一届国家领导人选举产生",
+        "onboard_time": 1678417904,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 484219,
+        "num": 484219,
+        "word": "建议全国统一医院电子病历",
+        "onboard_time": 1678434807,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 258553,
+        "num": 476218,
+        "word": "两会",
+        "onboard_time": 1678418202,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 254428,
+        "num": 475530,
+        "word": "选举新一届国家机构领导人",
+        "onboard_time": 1678405283,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 155214,
+        "num": 460261,
+        "word": "礼兵护送中华人民共和国宪法入场",
+        "onboard_time": 1678420722,
+        "rank": 8,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 29159,
+        "num": 455051,
+        "word": "宪法宣誓仪式完整视频",
+        "onboard_time": 1678423117,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1167642,
+        "num": 450128,
+        "word": "老师点名月考第1女生连站7次",
+        "onboard_time": 1678432647,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 735221,
+        "num": 438665,
+        "word": "国家线",
+        "onboard_time": 1678370491,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 580975,
+        "num": 430010,
+        "word": "熊猫几分钟捣毁一条船",
+        "onboard_time": 1678431928,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489629,
+        "num": 421180,
+        "word": "游客给花花投喂甘蔗保安第一时间捡出",
+        "onboard_time": 1678435289,
+        "rank": 13,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 185809,
+        "num": 412837,
+        "word": "天价土豆火锅竟成网红店",
+        "onboard_time": 1678431029,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409961,
+        "num": 409961,
+        "word": "西卡",
+        "onboard_time": 1678428266,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296187,
+        "num": 296187,
+        "word": "我国刷新亚洲最深水平井纪录",
+        "onboard_time": 1678432048,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285463,
+        "num": 285463,
+        "word": "LPL十大选手投票",
+        "onboard_time": 1678423775,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232316,
+        "num": 232316,
+        "word": "小熊猫美美上海迪士尼首发亮相",
+        "onboard_time": 1678422761,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 218531,
+        "num": 218531,
+        "word": "国考",
+        "onboard_time": 1678420241,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 488967,
+        "num": 217539,
+        "word": "青你选手蒋智豪肺癌晚期",
+        "onboard_time": 1678419345,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483520,
+        "num": 215065,
+        "word": "香港警方回应网红阿秋自行车被偷",
+        "onboard_time": 1678427128,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476788,
+        "num": 213255,
+        "word": "鹿晗凌晨四点给宝石老舅跳街舞",
+        "onboard_time": 1678424434,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320669,
+        "num": 212117,
+        "word": "凡人修仙传 杨洋",
+        "onboard_time": 1678424733,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301666,
+        "num": 210672,
+        "word": "刘诗诗惊鸿一瞥的经典角色",
+        "onboard_time": 1678435408,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258179,
+        "num": 208096,
+        "word": "男子再婚生子起诉10岁女儿减抚养费",
+        "onboard_time": 1678421502,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207938,
+        "num": 207938,
+        "word": "专家不建议普通人下场炒股",
+        "onboard_time": 1678419644,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207462,
+        "num": 207462,
+        "word": "汪苏泷唱的乌梅子酱",
+        "onboard_time": 1678427608,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199555,
+        "num": 199555,
+        "word": "流浪地球两部连映",
+        "onboard_time": 1678425931,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195122,
+        "num": 195122,
+        "word": "iPhone17Pro系列才会有屏下FaceID",
+        "onboard_time": 1678412185,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 192209,
+        "num": 192209,
+        "word": "帅哥不可以官宣",
+        "onboard_time": 1678426890,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161585,
+        "num": 161585,
+        "word": "蛋仔派对",
+        "onboard_time": 1678426649,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156341,
+        "num": 156341,
+        "word": "苍兰诀动画收官",
+        "onboard_time": 1678433552,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155625,
+        "num": 155625,
+        "word": "张杰 票",
+        "onboard_time": 1678422939,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153606,
+        "num": 153606,
+        "word": "第一次理解了浮光跃金",
+        "onboard_time": 1678436068,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 142244,
+        "num": 142244,
+        "word": "TWICE主打曲初舞台",
+        "onboard_time": 1678433970,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121461,
+        "num": 121461,
+        "word": "国乒全主力出战WTT新加坡大满贯",
+        "onboard_time": 1678431508,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121037,
+        "num": 121037,
+        "word": "星落凝成糖豆瓣开分7.4分",
+        "onboard_time": 1678426110,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116839,
+        "num": 116839,
+        "word": "皮卡堂",
+        "onboard_time": 1678434866,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114108,
+        "num": 114108,
+        "word": "丫丫回国将实现吃喝自由",
+        "onboard_time": 1678403839,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96502,
+        "num": 96502,
+        "word": "多喝水真的能预防结石",
+        "onboard_time": 1678412548,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92709,
+        "num": 92709,
+        "word": "C罗怒踢水瓶",
+        "onboard_time": 1678413026,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65929,
+        "num": 91120,
+        "word": "赵乐际当选为第十四届全国人大常委会委员长",
+        "onboard_time": 1678420781,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 89835,
+        "num": 89835,
+        "word": "为什么越来越多人选择折叠屏",
+        "onboard_time": 1678415485,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 86392,
+        "num": 86392,
+        "word": "白客苗苗张颂文谈初入社会迷茫经历",
+        "onboard_time": 1678429647,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84804,
+        "num": 84804,
+        "word": "舒淇张艺兴电影开机",
+        "onboard_time": 1678422639,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83131,
+        "num": 83131,
+        "word": "我想和你唱再就业兄弟团",
+        "onboard_time": 1678425870,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79923,
+        "num": 79923,
+        "word": "王鹤棣告别白马帅",
+        "onboard_time": 1678430249,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76470,
+        "num": 76470,
+        "word": "浙理工教师回应直播推学生简历走红",
+        "onboard_time": 1678413867,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 68117,
+        "num": 68117,
+        "word": "成都一商场提供躺平区",
+        "onboard_time": 1678436667,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在国家主席选举中获得全票#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1678379289631,
-  "endTime": 1678433641342,
+  "endTime": 1678436729888,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -107,6 +107,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1167642,
+      "num": 450128,
+      "word": "老师点名月考第1女生连站7次",
+      "onboard_time": 1678432647,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1150864,
       "num": 611303,
       "word": "西卡",
@@ -211,20 +219,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 735221,
+      "num": 680087,
+      "word": "国家线",
+      "onboard_time": 1678370491,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 713467,
       "num": 713467,
       "word": "专家不建议普通人下场炒股",
       "onboard_time": 1678419644,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 680087,
-      "num": 680087,
-      "word": "国家线",
-      "onboard_time": 1678370491,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 678061,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580975,
+      "num": 430010,
+      "word": "熊猫几分钟捣毁一条船",
+      "onboard_time": 1678431928,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572289,
       "num": 294519,
       "word": "汪苏泷唱的乌梅子酱",
@@ -331,14 +347,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 505938,
-      "num": 319906,
-      "word": "老师点名月考第1女生连站7次",
-      "onboard_time": 1678432647,
-      "rank": 49,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 496275,
       "num": 475031,
       "word": "iG担任电影龙与地下城中国跑团战队",
@@ -355,6 +363,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 489629,
+      "num": 421180,
+      "word": "游客给花花投喂甘蔗保安第一时间捡出",
+      "onboard_time": 1678435289,
+      "rank": 13,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 485841,
       "num": 795178,
       "word": "两会",
@@ -369,6 +385,14 @@
       "onboard_time": 1678416927,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484219,
+      "num": 484219,
+      "word": "建议全国统一医院电子病历",
+      "onboard_time": 1678434807,
+      "rank": 5,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 451043,
@@ -392,14 +416,6 @@
       "word": "儿子不孝男子立遗嘱把财产给妻妹",
       "onboard_time": 1678365090,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 404291,
-      "num": 319540,
-      "word": "熊猫几分钟捣毁一条船",
-      "onboard_time": 1678431928,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -531,6 +547,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301666,
+      "num": 210672,
+      "word": "刘诗诗惊鸿一瞥的经典角色",
+      "onboard_time": 1678435408,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 296187,
+      "num": 296187,
+      "word": "我国刷新亚洲最深水平井纪录",
+      "onboard_time": 1678432048,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294847,
       "num": 282495,
       "word": "成毅谈莲花楼",
@@ -593,14 +625,6 @@
       "onboard_time": 1678374630,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 270518,
-      "num": 270518,
-      "word": "我国刷新亚洲最深水平井纪录",
-      "onboard_time": 1678432048,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 268018,
@@ -819,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185809,
+      "num": 412837,
+      "word": "天价土豆火锅竟成网红店",
+      "onboard_time": 1678431029,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185142,
       "num": 185142,
       "word": "KPL",
@@ -860,7 +892,7 @@
     },
     {
       "raw_hot": 164884,
-      "num": 109054,
+      "num": 156341,
       "word": "苍兰诀动画收官",
       "onboard_time": 1678433552,
       "rank": 42,
@@ -905,6 +937,14 @@
       "onboard_time": 1678428748,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153606,
+      "num": 153606,
+      "word": "第一次理解了浮光跃金",
+      "onboard_time": 1678436068,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 152236,
@@ -961,6 +1001,14 @@
       "onboard_time": 1678411106,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142244,
+      "num": 142244,
+      "word": "TWICE主打曲初舞台",
+      "onboard_time": 1678433970,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 140855,
@@ -1075,12 +1123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117880,
-      "num": 117880,
-      "word": "天价土豆火锅竟成网红店",
-      "onboard_time": 1678431029,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 116839,
+      "num": 116839,
+      "word": "皮卡堂",
+      "onboard_time": 1678434866,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 115854,
@@ -1088,6 +1136,14 @@
       "word": "宪法宣誓仪式完整视频",
       "onboard_time": 1678423117,
       "rank": 49,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 109912,
+      "num": 869022,
+      "word": "十四届全国人大一次会议宪法宣誓仪式",
+      "onboard_time": 1678435049,
+      "rank": 2,
       "category": "国内要闻"
     },
     {
@@ -1259,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68117,
+      "num": 68117,
+      "word": "成都一商场提供躺平区",
+      "onboard_time": 1678436667,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66786,
       "num": 76228,
       "word": "BoysPlanet二公竞演",
@@ -1357,6 +1421,9 @@
     },
     {
       "word": "#习主席你好#"
+    },
+    {
+      "word": "#习近平在国家主席选举中获得全票#"
     }
   ]
 }
