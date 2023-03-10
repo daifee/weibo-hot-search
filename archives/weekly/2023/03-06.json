@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678455559859,
+  "endTime": 1678457925965,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -353,6 +353,14 @@
       "onboard_time": 1678112309,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1756728,
+      "num": 289150,
+      "word": "姚晨回应张颂文感谢她一辈子",
+      "onboard_time": 1678456407,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1744728,
@@ -1443,6 +1451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 814621,
+      "num": 769586,
+      "word": "中国亿元资产家庭13.8万户",
+      "onboard_time": 1678445848,
+      "rank": 13,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 814319,
       "num": 610333,
       "word": "棣爸油炸偶遇钟楚曦刘学义拍戏",
@@ -1553,14 +1569,6 @@
       "onboard_time": 1678412844,
       "rank": 3,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 769586,
-      "num": 769586,
-      "word": "中国亿元资产家庭13.8万户",
-      "onboard_time": 1678445848,
-      "rank": 13,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 767876,
@@ -2121,6 +2129,14 @@
       "onboard_time": 1678374209,
       "rank": 17,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 612218,
+      "num": 285521,
+      "word": "鹿晗领养的老虎叫五哈",
+      "onboard_time": 1678456287,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 611293,
@@ -3219,6 +3235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 440522,
+      "num": 1215532,
+      "word": "历史学考研",
+      "onboard_time": 1678452750,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 439233,
       "num": 439233,
       "word": "熊猫花花跑起来前脚内八后脚外八",
@@ -3355,6 +3379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 413899,
+      "num": 413899,
+      "word": "最新国家形象网宣片",
+      "onboard_time": 1678454067,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412305,
       "num": 267932,
       "word": "女子称水果店买到双皮苹果",
@@ -3409,6 +3441,14 @@
       "onboard_time": 1678253728,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 406981,
+      "num": 272437,
+      "word": "黑暗荣耀2全员恶人",
+      "onboard_time": 1678454487,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 406463,
@@ -3553,6 +3593,14 @@
       "onboard_time": 1678226414,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 395481,
+      "num": 296832,
+      "word": "星落凝成糖男主男二一起养花",
+      "onboard_time": 1678455568,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 393073,
@@ -3811,6 +3859,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 367859,
+      "num": 293908,
+      "word": "你是否接受与人工智能谈恋爱",
+      "onboard_time": 1678457128,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366866,
       "num": 366866,
       "word": "梅西连续3年无缘欧冠8强",
@@ -3921,14 +3977,6 @@
       "onboard_time": 1678275146,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 359017,
-      "num": 1215532,
-      "word": "历史学考研",
-      "onboard_time": 1678452750,
-      "rank": 34,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 358817,
@@ -5043,6 +5091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268598,
+      "num": 268598,
+      "word": "烤肉的高效吃法",
+      "onboard_time": 1678456048,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 268018,
       "num": 268018,
       "word": "汪苏泷 音乐节",
@@ -5299,6 +5355,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 247061,
+      "num": 247061,
+      "word": "檀健次重现沈翊经典台词",
+      "onboard_time": 1678457670,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247030,
       "num": 183041,
       "word": "来自时代少年团的郭俊辰",
@@ -5473,6 +5537,14 @@
       "onboard_time": 1678421680,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 234911,
+      "num": 234911,
+      "word": "最强大脑",
+      "onboard_time": 1678456466,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 233800,
@@ -5689,6 +5761,14 @@
       "onboard_time": 1678079007,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222134,
+      "num": 222134,
+      "word": "邓超遇见冰雪甄嬛",
+      "onboard_time": 1678456649,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 221913,
@@ -6289,14 +6369,6 @@
       "onboard_time": 1678148366,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 201785,
-      "num": 222868,
-      "word": "最新国家形象网宣片",
-      "onboard_time": 1678454067,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201713,
@@ -7435,6 +7507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169351,
+      "num": 169351,
+      "word": "香港男子深圳上班每天通勤4小时",
+      "onboard_time": 1678457068,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168986,
       "num": 168986,
       "word": "王鹤棣费加罗三色流光封面",
@@ -7825,14 +7905,6 @@
       "onboard_time": 1678144700,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 152370,
-      "num": 221420,
-      "word": "黑暗荣耀2全员恶人",
-      "onboard_time": 1678454487,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 152155,
@@ -8329,6 +8401,14 @@
       "onboard_time": 1678165230,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135929,
+      "num": 135929,
+      "word": "张杰说谢娜记不住银行卡密码",
+      "onboard_time": 1678455928,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 135863,
@@ -10115,6 +10195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 68949,
+      "num": 1307704,
+      "word": "9个高频词速览政府工作报告",
+      "onboard_time": 1678455030,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 68556,
       "num": 68556,
       "word": "跑步的治愈功能",
@@ -10376,14 +10464,6 @@
       "word": "开局之年的新机遇新挑战",
       "onboard_time": 1678089387,
       "rank": 9,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 20737,
-      "num": 1307704,
-      "word": "9个高频词速览政府工作报告",
-      "onboard_time": 1678455030,
-      "rank": 2,
       "category": "国内要闻"
     },
     {
