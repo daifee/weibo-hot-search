@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678461566603,
+  "endTime": 1678462552555,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1211,6 +1211,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1307559,
+      "num": 1307559,
+      "word": "伊朗沙特恢复外交关系",
+      "onboard_time": 1678458089,
+      "rank": 28,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1300561,
       "num": 1300561,
       "word": "娇韵诗",
@@ -1625,14 +1633,6 @@
       "onboard_time": 1677905069,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1133509,
-      "num": 695561,
-      "word": "伊朗沙特恢复外交关系",
-      "onboard_time": 1678458089,
-      "rank": 28,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1126676,
@@ -3108,7 +3108,7 @@
     },
     {
       "raw_hot": 776124,
-      "num": 659975,
+      "num": 740703,
       "word": "香港男子深圳上班每天通勤4小时",
       "onboard_time": 1678457068,
       "rank": 37,
@@ -3409,6 +3409,14 @@
       "onboard_time": 1677837927,
       "rank": 12,
       "category": "社会负面,艺人"
+    },
+    {
+      "raw_hot": 727720,
+      "num": 727720,
+      "word": "李莎拉好疯",
+      "onboard_time": 1678458568,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 727454,
@@ -3961,14 +3969,6 @@
       "onboard_time": 1678328545,
       "rank": 6,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 657283,
-      "num": 657283,
-      "word": "李莎拉好疯",
-      "onboard_time": 1678458568,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 656877,
@@ -5379,6 +5379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531404,
+      "num": 531404,
+      "word": "从录取率来看考研难度超过高考",
+      "onboard_time": 1678460431,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 531228,
       "num": 373997,
       "word": "女子称因准点下班试用期第3天被辞退",
@@ -6644,7 +6652,7 @@
     },
     {
       "raw_hot": 442683,
-      "num": 675147,
+      "num": 765989,
       "word": "最新国家形象网宣片",
       "onboard_time": 1678454067,
       "rank": 31,
@@ -7529,6 +7537,14 @@
       "onboard_time": 1677899125,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 386967,
+      "num": 386967,
+      "word": "叶舒华小姐不熙娣预告",
+      "onboard_time": 1678461508,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 386720,
@@ -8419,6 +8435,14 @@
       "category": "情感,自然"
     },
     {
+      "raw_hot": 351993,
+      "num": 351993,
+      "word": "维和防暴队将于今年上映",
+      "onboard_time": 1678462469,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351976,
       "num": 351976,
       "word": "威少在快船",
@@ -8753,6 +8777,14 @@
       "onboard_time": 1678066705,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338394,
+      "num": 338394,
+      "word": "WBG 海报",
+      "onboard_time": 1678460848,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 336072,
@@ -11571,14 +11603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 233515,
-      "num": 233515,
-      "word": "从录取率来看考研难度超过高考",
-      "onboard_time": 1678460431,
-      "rank": 30,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 232801,
       "num": 232801,
       "word": "半熟恋人",
@@ -11656,6 +11680,14 @@
       "word": "吴奇隆林峯合照",
       "onboard_time": 1677830969,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230090,
+      "num": 230090,
+      "word": "水哥说国际赛需要他就出战",
+      "onboard_time": 1678461989,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -14011,12 +14043,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193637,
-      "num": 224293,
-      "word": "WBG 海报",
-      "onboard_time": 1678460848,
-      "rank": 33,
-      "category": "游戏"
+      "raw_hot": 193680,
+      "num": 223749,
+      "word": "最强大脑10脑王候选人",
+      "onboard_time": 1678461149,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 193595,
@@ -16035,6 +16067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154699,
+      "num": 222355,
+      "word": "笑着走出理发店的人",
+      "onboard_time": 1678461688,
+      "rank": 39,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 154348,
       "num": 154348,
       "word": "追星星的人官宣海报",
@@ -17571,14 +17611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129293,
-      "num": 223749,
-      "word": "最强大脑10脑王候选人",
-      "onboard_time": 1678461149,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129021,
       "num": 129021,
       "word": "何洁张远合唱",
@@ -18035,14 +18067,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 121825,
-      "num": 223495,
-      "word": "叶舒华小姐不熙娣预告",
-      "onboard_time": 1678461508,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121379,
       "num": 121379,
       "word": "KPL春季赛第四周最佳阵容",
@@ -18265,6 +18289,14 @@
       "onboard_time": 1677772827,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116009,
+      "num": 223429,
+      "word": "你好星期六",
+      "onboard_time": 1678461508,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 115992,
@@ -18665,14 +18697,6 @@
       "onboard_time": 1678169848,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110490,
-      "num": 223429,
-      "word": "你好星期六",
-      "onboard_time": 1678461508,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 110462,
