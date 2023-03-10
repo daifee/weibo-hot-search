@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678475695583,
+  "endTime": 1678476804463,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -8307,6 +8307,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 144663,
+      "num": 80985,
+      "word": "黑暗荣耀2最后一句台词是我爱你",
+      "onboard_time": 1678475532,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144082,
       "num": 144082,
       "word": "室温超导商标抢注被驳回",
@@ -9160,14 +9168,6 @@
       "word": "刘敏涛演技",
       "onboard_time": 1678283368,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 117159,
-      "num": 78881,
-      "word": "黑暗荣耀2最后一句台词是我爱你",
-      "onboard_time": 1678475532,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -10665,6 +10665,14 @@
       "onboard_time": 1678390451,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 14432,
+      "num": 42320,
+      "word": "黑暗荣耀导演 校园暴力",
+      "onboard_time": 1678476732,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 13727,
