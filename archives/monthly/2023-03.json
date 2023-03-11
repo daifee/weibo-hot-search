@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678533284054,
+  "endTime": 1678539010755,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 1785586,
-      "num": 400349,
+      "num": 477609,
       "word": "台湾演员片酬",
       "onboard_time": 1678525646,
       "rank": 12,
@@ -937,6 +937,14 @@
       "onboard_time": 1678329326,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1525545,
+      "num": 563647,
+      "word": "女生月薪两万辞职考研八次失败",
+      "onboard_time": 1678534706,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1523679,
@@ -1427,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1268572,
+      "num": 716798,
+      "word": "李强简历",
+      "onboard_time": 1678535005,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1268537,
       "num": 356156,
       "word": "井柏然刘雯秀场热聊",
@@ -1851,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1103678,
+      "num": 635203,
+      "word": "夜昙青葵没化为人形",
+      "onboard_time": 1678538069,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1099312,
       "num": 460444,
       "word": "女护士下班摆摊卖无菌烤肠",
@@ -1868,7 +1892,7 @@
     },
     {
       "raw_hot": 1094499,
-      "num": 364289,
+      "num": 628290,
       "word": "二十六七岁多么美好的年纪",
       "onboard_time": 1678530086,
       "rank": 26,
@@ -2236,7 +2260,7 @@
     },
     {
       "raw_hot": 1005929,
-      "num": 398169,
+      "num": 414125,
       "word": "丫丫回国后将住进妈妈曾经的家",
       "onboard_time": 1678523727,
       "rank": 49,
@@ -2505,6 +2529,14 @@
       "onboard_time": 1678274846,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 938747,
+      "num": 608657,
+      "word": "成都大风",
+      "onboard_time": 1678537529,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 928046,
@@ -4787,6 +4819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606746,
+      "num": 606746,
+      "word": "WBG RNG",
+      "onboard_time": 1678538549,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 605934,
       "num": 605934,
       "word": "女子别墅被老爸60万装出浓情复古风",
@@ -4801,6 +4841,14 @@
       "onboard_time": 1677638186,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 603710,
+      "num": 603710,
+      "word": "内娱满分仪态拥有者",
+      "onboard_time": 1678538130,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 603389,
@@ -5291,6 +5339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 564198,
+      "num": 564198,
+      "word": "赵英俊为大鹏选定了保你平安剧本",
+      "onboard_time": 1678536749,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 563823,
       "num": 563823,
       "word": "熊猫七七在医院做CT",
@@ -5761,6 +5817,14 @@
       "onboard_time": 1678332387,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 533491,
+      "num": 576781,
+      "word": "泽连斯基研究将俄更名莫斯科公国",
+      "onboard_time": 1678534647,
+      "rank": 9,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 533285,
@@ -7227,6 +7291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 437215,
+      "num": 414234,
+      "word": "庆余年2",
+      "onboard_time": 1678536448,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 437211,
       "num": 5802396,
       "word": "十四届全国人大一次会议第三次全体会议",
@@ -8019,6 +8091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 388567,
+      "num": 388567,
+      "word": "河道英吃文东恩的紫菜饭团",
+      "onboard_time": 1678534349,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 388000,
       "num": 388000,
       "word": "剧版繁花预计9月播出",
@@ -8803,6 +8883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358549,
+      "num": 358549,
+      "word": "回廊亭 16分钟",
+      "onboard_time": 1678536388,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358144,
       "num": 358144,
       "word": "使用耳机606060原则保护耳朵",
@@ -9379,12 +9467,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 336528,
+      "num": 766022,
+      "word": "育龄青年为什么不愿生了",
+      "onboard_time": 1678537230,
+      "rank": 0,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 336072,
       "num": 336072,
       "word": "张文宏呼吁重视甲流预防",
       "onboard_time": 1678356267,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335942,
+      "num": 609483,
+      "word": "习近平签署主席令任命李强为总理",
+      "onboard_time": 1678504167,
+      "rank": 5,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 335853,
@@ -10275,6 +10379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303018,
+      "num": 303018,
+      "word": "李硕珉翻跳PinkVenom",
+      "onboard_time": 1678538309,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302047,
       "num": 302047,
       "word": "Kakao或将与HYBE合作",
@@ -10657,6 +10769,14 @@
       "onboard_time": 1678279167,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288421,
+      "num": 288421,
+      "word": "丁俊晖6红球世锦赛夺冠",
+      "onboard_time": 1678536988,
+      "rank": 21,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 288153,
@@ -11315,6 +11435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266478,
+      "num": 266478,
+      "word": "真的好想有个广西的朋友啊",
+      "onboard_time": 1678537348,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 265931,
       "num": 265931,
       "word": "华为称仍将加大手机业务的投入",
@@ -11587,6 +11715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 256592,
+      "num": 256592,
+      "word": "星落凝成糖双花重生",
+      "onboard_time": 1678537048,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255990,
       "num": 255990,
       "word": "猛龙vs湖人",
@@ -11609,6 +11745,14 @@
       "onboard_time": 1677766832,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255219,
+      "num": 195238,
+      "word": "LGD翻盘TES",
+      "onboard_time": 1678533328,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 254908,
@@ -12515,6 +12659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228665,
+      "num": 228665,
+      "word": "大江大河3在宁波开机",
+      "onboard_time": 1678535186,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228479,
       "num": 228479,
       "word": "恭喜WE",
@@ -12785,6 +12937,14 @@
       "onboard_time": 1677940349,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223874,
+      "num": 223874,
+      "word": "RW战胜狼队",
+      "onboard_time": 1678536929,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 223873,
@@ -14667,6 +14827,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 195993,
+      "num": 195993,
+      "word": "2023LPL",
+      "onboard_time": 1678538188,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195938,
       "num": 195938,
       "word": "她的样子不需要被定义",
@@ -14705,6 +14873,14 @@
       "onboard_time": 1678080506,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195726,
+      "num": 185335,
+      "word": "GALA卡莎五杀",
+      "onboard_time": 1678538789,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 195706,
@@ -15019,6 +15195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192834,
+      "num": 192834,
+      "word": "星落养花结局好应景",
+      "onboard_time": 1678538608,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192777,
       "num": 192777,
       "word": "多愿的选择",
@@ -15201,6 +15385,14 @@
       "onboard_time": 1678344327,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190370,
+      "num": 190370,
+      "word": "孙明悟葬礼好抓马",
+      "onboard_time": 1678537289,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 190193,
@@ -15531,6 +15723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185697,
+      "num": 185697,
+      "word": "eStar对战DRG",
+      "onboard_time": 1678538249,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185683,
       "num": 185683,
       "word": "法国球星方丹去世",
@@ -15665,6 +15865,14 @@
       "onboard_time": 1677717090,
       "rank": 28,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 182114,
+      "num": 182114,
+      "word": "北京下雨",
+      "onboard_time": 1678538188,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182110,
@@ -19177,6 +19385,14 @@
       "onboard_time": 1678178068,
       "rank": 41,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 119947,
+      "num": 119947,
+      "word": "樊振东3比0卡尔伯格",
+      "onboard_time": 1678535607,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 119745,
