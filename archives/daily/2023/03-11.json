@@ -1,6 +1,6 @@
 {
   "startTime": 1678465634906,
-  "endTime": 1678505625705,
+  "endTime": 1678508522632,
   "band_list": [
     {
       "raw_hot": 7304665,
@@ -107,6 +107,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 734186,
+      "num": 591468,
+      "word": "六公主连播两部张颂文主演电影",
+      "onboard_time": 1678506750,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 711097,
       "num": 711097,
       "word": "从录取率来看考研难度超过高考",
@@ -137,6 +145,14 @@
       "onboard_time": 1678493664,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 667605,
+      "num": 667605,
+      "word": "国务院总理李强进行宪法宣誓",
+      "onboard_time": 1678507291,
+      "rank": 1,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 666318,
@@ -187,6 +203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 561221,
+      "num": 457421,
+      "word": "公司规定不接董事长电话1次罚1万",
+      "onboard_time": 1678506750,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557486,
       "num": 557486,
       "word": "唐朝诡事录西行要开机了",
@@ -201,6 +225,14 @@
       "onboard_time": 1678502066,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 544857,
+      "num": 443460,
+      "word": "许榕真谭松韵新剧演母女",
+      "onboard_time": 1678506270,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 522947,
@@ -235,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 491752,
+      "num": 491752,
+      "word": "应勇当选为最高人民检察院检察长",
+      "onboard_time": 1678505372,
+      "rank": 19,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 487943,
       "num": 487943,
       "word": "韩正简历",
@@ -267,12 +307,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 425674,
+      "num": 425674,
+      "word": "专家说40岁就得为养老做打算",
+      "onboard_time": 1678505673,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424753,
+      "num": 168112,
+      "word": "苏炳添身体发软求破解",
+      "onboard_time": 1678507830,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 398181,
+      "num": 398181,
+      "word": "张军当选为最高人民法院院长",
+      "onboard_time": 1678505129,
+      "rank": 16,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 394346,
       "num": 394346,
       "word": "满江红中国影史票房榜第6",
       "onboard_time": 1678460189,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 389122,
+      "num": 389122,
+      "word": "决定张又侠何卫东为中央军委副主席",
+      "onboard_time": 1678505013,
+      "rank": 17,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 381108,
@@ -299,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361478,
-      "num": 361478,
-      "word": "张军当选为最高人民法院院长",
-      "onboard_time": 1678505129,
-      "rank": 16,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 357589,
       "num": 357589,
       "word": "涉疫案件已判决生效的继续执行",
@@ -321,6 +385,14 @@
       "onboard_time": 1678491439,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 339899,
+      "num": 339899,
+      "word": "詹姆斯2022年收入全球运动员第一",
+      "onboard_time": 1678506690,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 337006,
@@ -339,14 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 318153,
-      "num": 318153,
-      "word": "决定张又侠何卫东为中央军委副主席",
-      "onboard_time": 1678505013,
-      "rank": 17,
-      "category": "军事,国内要闻"
-    },
-    {
       "raw_hot": 302862,
       "num": 283516,
       "word": "德国柏林允许女性在公共泳池半裸泳",
@@ -363,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 296090,
-      "num": 296090,
-      "word": "应勇当选为最高人民检察院检察长",
-      "onboard_time": 1678505372,
-      "rank": 19,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 285436,
       "num": 285436,
       "word": "恩比德绝杀开拓者",
@@ -385,6 +441,14 @@
       "onboard_time": 1678499366,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271821,
+      "num": 271821,
+      "word": "江苏省考",
+      "onboard_time": 1678506808,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 266182,
@@ -555,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180382,
+      "num": 180382,
+      "word": "归路定档",
+      "onboard_time": 1678505910,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172362,
       "num": 207964,
       "word": "河道英演我回消息",
@@ -628,7 +700,7 @@
     },
     {
       "raw_hot": 155515,
-      "num": 155515,
+      "num": 641465,
       "word": "十四届全国人大一次会议第四次全体会议",
       "onboard_time": 1678495225,
       "rank": 31,
@@ -649,6 +721,14 @@
       "onboard_time": 1678495706,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139817,
+      "num": 139817,
+      "word": "马斯克回应推特收购硅谷银行",
+      "onboard_time": 1678507171,
+      "rank": 35,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 137587,
@@ -673,6 +753,14 @@
       "onboard_time": 1678494024,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132544,
+      "num": 132544,
+      "word": "猛龙vs湖人",
+      "onboard_time": 1678507949,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 130708,
@@ -736,6 +824,14 @@
       "word": "一切为了人民",
       "onboard_time": 1678501647,
       "rank": 39,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 102689,
+      "num": 102689,
+      "word": "国务院总理任命现场视频",
+      "onboard_time": 1678508309,
+      "rank": 44,
       "category": "国内要闻"
     },
     {
