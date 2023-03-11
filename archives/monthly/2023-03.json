@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678497866965,
+  "endTime": 1678499427596,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -73,6 +73,14 @@
       "onboard_time": 1678176747,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4007869,
+      "num": 4515739,
+      "word": "李强被提名为国务院总理人选",
+      "onboard_time": 1678498046,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 3774543,
@@ -1321,6 +1329,14 @@
       "onboard_time": 1677817530,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1263575,
+      "num": 330673,
+      "word": "我回了 回了沉默",
+      "onboard_time": 1678499247,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1260750,
@@ -3699,6 +3715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 690654,
+      "num": 221333,
+      "word": "阿姨说鹿晗顶多二十",
+      "onboard_time": 1678495345,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 690323,
       "num": 690323,
       "word": "向太暂停直播的原因",
@@ -4305,6 +4329,14 @@
       "onboard_time": 1678101206,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 627917,
+      "num": 627917,
+      "word": "中央军委委员人选",
+      "onboard_time": 1678498227,
+      "rank": 6,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 626173,
@@ -5017,14 +5049,6 @@
       "onboard_time": 1678364905,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 561967,
-      "num": 201037,
-      "word": "阿姨说鹿晗顶多二十",
-      "onboard_time": 1678495345,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 561438,
@@ -6233,6 +6257,14 @@
       "onboard_time": 1677744450,
       "rank": 8,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 482545,
+      "num": 329570,
+      "word": "Kakao和HYBE协议不再竞争SMTOWN",
+      "onboard_time": 1678499366,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 482441,
@@ -8636,7 +8668,7 @@
     },
     {
       "raw_hot": 348020,
-      "num": 247940,
+      "num": 277421,
       "word": "全在俊结局",
       "onboard_time": 1678491439,
       "rank": 11,
@@ -8801,6 +8833,14 @@
       "onboard_time": 1677937947,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 341304,
+      "num": 341304,
+      "word": "教资作文",
+      "onboard_time": 1678496066,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 341295,
@@ -10371,6 +10411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276712,
+      "num": 276712,
+      "word": "追星星的人今晚开播",
+      "onboard_time": 1678499366,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276666,
       "num": 237683,
       "word": "丁程鑫出发录制你好星期六",
@@ -10908,7 +10956,7 @@
     },
     {
       "raw_hot": 259750,
-      "num": 218463,
+      "num": 238010,
       "word": "黑暗荣耀2最后一句台词是我爱你",
       "onboard_time": 1678475532,
       "rank": 14,
@@ -11004,19 +11052,11 @@
     },
     {
       "raw_hot": 254908,
-      "num": 214262,
+      "num": 228491,
       "word": "硅谷银行倒闭有何影响",
       "onboard_time": 1678496845,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 254890,
-      "num": 254890,
-      "word": "教资作文",
-      "onboard_time": 1678496066,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 254835,
@@ -13716,7 +13756,7 @@
     },
     {
       "raw_hot": 198861,
-      "num": 155754,
+      "num": 188352,
       "word": "奥斯卡最佳影片提名电影官方混剪",
       "onboard_time": 1678497445,
       "rank": 30,
@@ -14881,6 +14921,14 @@
       "onboard_time": 1678014748,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 182665,
+      "num": 182665,
+      "word": "本泽马说德尚是小丑",
+      "onboard_time": 1678497506,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 182512,
@@ -17915,14 +17963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126788,
-      "num": 126788,
-      "word": "本泽马说德尚是小丑",
-      "onboard_time": 1678497506,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126668,
       "num": 126668,
       "word": "全员美人的影视剧",
@@ -18521,6 +18561,14 @@
       "onboard_time": 1678330168,
       "rank": 46,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 115563,
+      "num": 110822,
+      "word": "星落女主变植物",
+      "onboard_time": 1678499128,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 115507,
@@ -19360,6 +19408,14 @@
       "word": "重紫开启魔界新副本",
       "onboard_time": 1678115606,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 102731,
+      "num": 102731,
+      "word": "变形金刚7角色海报",
+      "onboard_time": 1678499247,
+      "rank": 46,
       "category": "影视"
     },
     {

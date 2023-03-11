@@ -1,7 +1,15 @@
 {
   "startTime": 1678465634906,
-  "endTime": 1678497866965,
+  "endTime": 1678499427596,
   "band_list": [
+    {
+      "raw_hot": 4007869,
+      "num": 4515739,
+      "word": "李强被提名为国务院总理人选",
+      "onboard_time": 1678498046,
+      "rank": 0,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 2118432,
       "num": 2118432,
@@ -17,6 +25,14 @@
       "onboard_time": 1678464924,
       "rank": 10,
       "category": "科技,影视"
+    },
+    {
+      "raw_hot": 1263575,
+      "num": 330673,
+      "word": "我回了 回了沉默",
+      "onboard_time": 1678499247,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1052659,
@@ -67,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690654,
+      "num": 221333,
+      "word": "阿姨说鹿晗顶多二十",
+      "onboard_time": 1678495345,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 684333,
       "num": 684333,
       "word": "委员称年轻人想躺平更多是调侃",
@@ -83,12 +107,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 561967,
-      "num": 201037,
-      "word": "阿姨说鹿晗顶多二十",
-      "onboard_time": 1678495345,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 627917,
+      "num": 627917,
+      "word": "中央军委委员人选",
+      "onboard_time": 1678498227,
+      "rank": 6,
+      "category": "军事,国内要闻"
     },
     {
       "raw_hot": 557486,
@@ -131,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482545,
+      "num": 329570,
+      "word": "Kakao和HYBE协议不再竞争SMTOWN",
+      "onboard_time": 1678499366,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394346,
       "num": 394346,
       "word": "满江红中国影史票房榜第6",
@@ -164,11 +196,19 @@
     },
     {
       "raw_hot": 348020,
-      "num": 247940,
+      "num": 277421,
       "word": "全在俊结局",
       "onboard_time": 1678491439,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 341304,
+      "num": 341304,
+      "word": "教资作文",
+      "onboard_time": 1678496066,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 337006,
@@ -203,6 +243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 276712,
+      "num": 276712,
+      "word": "追星星的人今晚开播",
+      "onboard_time": 1678499366,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266182,
       "num": 266182,
       "word": "WBG 海报",
@@ -220,7 +268,7 @@
     },
     {
       "raw_hot": 259750,
-      "num": 218463,
+      "num": 238010,
       "word": "黑暗荣耀2最后一句台词是我爱你",
       "onboard_time": 1678475532,
       "rank": 14,
@@ -236,19 +284,11 @@
     },
     {
       "raw_hot": 254908,
-      "num": 214262,
+      "num": 228491,
       "word": "硅谷银行倒闭有何影响",
       "onboard_time": 1678496845,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 254890,
-      "num": 254890,
-      "word": "教资作文",
-      "onboard_time": 1678496066,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 237577,
@@ -308,7 +348,7 @@
     },
     {
       "raw_hot": 198861,
-      "num": 155754,
+      "num": 188352,
       "word": "奥斯卡最佳影片提名电影官方混剪",
       "onboard_time": 1678497445,
       "rank": 30,
@@ -345,6 +385,14 @@
       "onboard_time": 1678449031,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182665,
+      "num": 182665,
+      "word": "本泽马说德尚是小丑",
+      "onboard_time": 1678497506,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 172362,
@@ -451,27 +499,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130708,
+      "num": 207505,
+      "word": "邓超遇见冰雪甄嬛",
+      "onboard_time": 1678456649,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130435,
       "num": 208010,
       "word": "鹿晗领养的老虎叫五哈",
       "onboard_time": 1678456287,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 126788,
-      "num": 126788,
-      "word": "本泽马说德尚是小丑",
-      "onboard_time": 1678497506,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 123007,
-      "num": 207505,
-      "word": "邓超遇见冰雪甄嬛",
-      "onboard_time": 1678456649,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -499,6 +539,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 115563,
+      "num": 110822,
+      "word": "星落女主变植物",
+      "onboard_time": 1678499128,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111551,
       "num": 111551,
       "word": "淄博烧烤节",
@@ -512,6 +560,14 @@
       "word": "妍珍的笑",
       "onboard_time": 1678464626,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 102731,
+      "num": 102731,
+      "word": "变形金刚7角色海报",
+      "onboard_time": 1678499247,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -612,7 +668,7 @@
     },
     {
       "raw_hot": 34870,
-      "num": 996326,
+      "num": 1057989,
       "word": "9个高频词速览政府工作报告",
       "onboard_time": 1678455030,
       "rank": 2,
