@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678511793913,
+  "endTime": 1678512822041,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1657362,
+      "num": 1621720,
+      "word": "苏炳添身体发软求破解",
+      "onboard_time": 1678507830,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1657085,
       "num": 1657085,
       "word": "教资",
@@ -497,14 +505,6 @@
       "onboard_time": 1678244367,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1621720,
-      "num": 1621720,
-      "word": "苏炳添身体发软求破解",
-      "onboard_time": 1678507830,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 1602399,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1462190,
+      "num": 1367135,
+      "word": "B站考虑取消前台播放量数据显示",
+      "onboard_time": 1678509030,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1459826,
       "num": 290547,
       "word": "刘亦菲后置摄像头自拍",
@@ -705,14 +713,6 @@
       "onboard_time": 1678317381,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1367135,
-      "num": 1367135,
-      "word": "B站考虑取消前台播放量数据显示",
-      "onboard_time": 1678509030,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 1366903,
@@ -3673,6 +3673,14 @@
       "onboard_time": 1678372050,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 425572,
+      "num": 354213,
+      "word": "福岛滞销大米被制成餐具和外卖包装盒",
+      "onboard_time": 1678511249,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423217,
@@ -7195,14 +7203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197302,
-      "num": 146485,
-      "word": "福岛滞销大米被制成餐具和外卖包装盒",
-      "onboard_time": 1678511249,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197176,
       "num": 197176,
       "word": "WTT新加坡大满贯2023",
@@ -8481,6 +8481,14 @@
       "onboard_time": 1678090346,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154355,
+      "num": 154355,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1678512507,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 154348,
@@ -10315,6 +10323,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 102580,
+      "num": 102580,
+      "word": "国务院机构改革有三大特点",
+      "onboard_time": 1678509630,
+      "rank": 44,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 102395,
       "num": 102395,
       "word": "致闪耀的她",
@@ -10337,14 +10353,6 @@
       "onboard_time": 1678241124,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100746,
-      "num": 100746,
-      "word": "国务院机构改革有三大特点",
-      "onboard_time": 1678509630,
-      "rank": 44,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 100152,
