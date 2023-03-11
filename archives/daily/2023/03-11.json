@@ -1,6 +1,6 @@
 {
   "startTime": 1678465634906,
-  "endTime": 1678502242898,
+  "endTime": 1678502813947,
   "band_list": [
     {
       "raw_hot": 4007869,
@@ -27,20 +27,20 @@
       "category": "科技,影视"
     },
     {
+      "raw_hot": 1381808,
+      "num": 556139,
+      "word": "董明珠称大学生去打螺钉没什么不可以",
+      "onboard_time": 1678500866,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1263575,
       "num": 354794,
       "word": "我回了 回了沉默",
       "onboard_time": 1678499247,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1189904,
-      "num": 521420,
-      "word": "董明珠称大学生去打螺钉没什么不可以",
-      "onboard_time": 1678500866,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1052659,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 690654,
-      "num": 221333,
+      "num": 221701,
       "word": "阿姨说鹿晗顶多二十",
       "onboard_time": 1678495345,
       "rank": 21,
@@ -113,6 +113,14 @@
       "onboard_time": 1678442132,
       "rank": 12,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 648236,
+      "num": 304981,
+      "word": "田曦薇民国风造型",
+      "onboard_time": 1678502245,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 627917,
@@ -315,6 +323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 242641,
+      "num": 242641,
+      "word": "为何高考选理科人数下降",
+      "onboard_time": 1678502066,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 240863,
       "num": 240863,
       "word": "星落女主变植物",
@@ -379,6 +395,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 208374,
+      "num": 208374,
+      "word": "原来蛋糕可以美得像画一样",
+      "onboard_time": 1678502066,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198861,
       "num": 188352,
       "word": "奥斯卡最佳影片提名电影官方混剪",
@@ -409,6 +433,22 @@
       "onboard_time": 1678450050,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188837,
+      "num": 188837,
+      "word": "曾黎意大利杂志开季刊封面",
+      "onboard_time": 1678502126,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 187814,
+      "num": 165337,
+      "word": "王楚钦希望为中国队争取更多荣誉",
+      "onboard_time": 1678502785,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 185978,
@@ -603,16 +643,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 107363,
-      "num": 107363,
-      "word": "曾黎意大利杂志开季刊封面",
-      "onboard_time": 1678502126,
-      "rank": 38,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 106190,
-      "num": 106190,
+      "raw_hot": 106366,
+      "num": 106366,
       "word": "一切为了人民",
       "onboard_time": 1678501647,
       "rank": 39,
@@ -625,14 +657,6 @@
       "onboard_time": 1678454067,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97683,
-      "num": 97683,
-      "word": "原来蛋糕可以美得像画一样",
-      "onboard_time": 1678502066,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 96963,
@@ -648,14 +672,6 @@
       "word": "今年考研会扩招吗",
       "onboard_time": 1678449389,
       "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 93517,
-      "num": 93517,
-      "word": "为何高考选理科人数下降",
-      "onboard_time": 1678502066,
-      "rank": 44,
       "category": "教育,社会新闻"
     },
     {
