@@ -1,0 +1,410 @@
+{
+  "runTime": 1678551810555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 575811,
+        "num": 575811,
+        "word": "真的好想有个广西的朋友啊",
+        "onboard_time": 1678537348,
+        "rank": 0,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 543785,
+        "num": 543785,
+        "word": "美团称没有存款在硅谷银行",
+        "onboard_time": 1678549586,
+        "rank": 1,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 25386,
+        "num": 481704,
+        "word": "微观2023全国两会",
+        "onboard_time": 1678545387,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 480840,
+        "num": 480840,
+        "word": "二十六七岁多么美好的年纪",
+        "onboard_time": 1678530086,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368393,
+        "num": 368393,
+        "word": "育龄青年为什么不愿生了",
+        "onboard_time": 1678537230,
+        "rank": 4,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 333631,
+        "num": 333631,
+        "word": "全场大合唱真的很治愈",
+        "onboard_time": 1678547968,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318691,
+        "num": 318691,
+        "word": "赵睿",
+        "onboard_time": 1678545628,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265567,
+        "num": 265567,
+        "word": "林葳绝杀",
+        "onboard_time": 1678543169,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248766,
+        "num": 248766,
+        "word": "星落凝成糖番外",
+        "onboard_time": 1678542508,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242003,
+        "num": 242003,
+        "word": "成都大风",
+        "onboard_time": 1678537529,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360387,
+        "num": 241756,
+        "word": "BLACKPINK新项目预告视频",
+        "onboard_time": 1678549348,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333045,
+        "num": 241379,
+        "word": "黑暗荣耀2编剧能力",
+        "onboard_time": 1678545148,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242807,
+        "num": 241105,
+        "word": "现在的求职有多难",
+        "onboard_time": 1678539987,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273974,
+        "num": 240941,
+        "word": "比顾里生日更热闹的是孙明悟的葬礼",
+        "onboard_time": 1678547908,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1056517,
+        "num": 240397,
+        "word": "高龄产妇剖宫诞下羊膜护体宝宝",
+        "onboard_time": 1678546469,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240318,
+        "num": 240318,
+        "word": "李强简历",
+        "onboard_time": 1678535005,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238221,
+        "num": 238221,
+        "word": "丫丫回国后将住进妈妈曾经的家",
+        "onboard_time": 1678523727,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223808,
+        "num": 223808,
+        "word": "陈伟霆被问合作三字女星秒答赵丽颖",
+        "onboard_time": 1678541968,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223534,
+        "num": 223534,
+        "word": "文东恩好忙",
+        "onboard_time": 1678549466,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221548,
+        "num": 221548,
+        "word": "绥化一村民家房梁现神秘骨架",
+        "onboard_time": 1678542208,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489371,
+        "num": 221187,
+        "word": "林心如贾静雯徐熙娣此时此刻预告",
+        "onboard_time": 1678547070,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213722,
+        "num": 213722,
+        "word": "还有包包专用的衣架",
+        "onboard_time": 1678548566,
+        "rank": 21,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 212503,
+        "num": 212503,
+        "word": "拾荒男子用冥币买羊肝老板娘装不知情",
+        "onboard_time": 1678542928,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200175,
+        "num": 200175,
+        "word": "无限超越班结业大戏观后感",
+        "onboard_time": 1678551564,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199770,
+        "num": 199770,
+        "word": "刘耀文收官vlog",
+        "onboard_time": 1678551683,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188758,
+        "num": 188758,
+        "word": "佘诗曼林峯9年后再合作",
+        "onboard_time": 1678544849,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177772,
+        "num": 177772,
+        "word": "RNG战胜WBG",
+        "onboard_time": 1678544908,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175266,
+        "num": 175266,
+        "word": "WBG RNG",
+        "onboard_time": 1678538549,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172187,
+        "num": 172187,
+        "word": "赵英俊为大鹏选定了保你平安剧本",
+        "onboard_time": 1678536749,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170942,
+        "num": 170942,
+        "word": "夜昙青葵没化为人形",
+        "onboard_time": 1678538069,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 834117,
+        "num": 170557,
+        "word": "庆余年2 范思辙",
+        "onboard_time": 1678531467,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297415,
+        "num": 170270,
+        "word": "女生辞职考研八次失败",
+        "onboard_time": 1678534706,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 168979,
+        "num": 168979,
+        "word": "美国将公示丫丫乐乐回国证明",
+        "onboard_time": 1678524567,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168166,
+        "num": 168166,
+        "word": "秦霄贤误碰水箱淋李雪琴一身水",
+        "onboard_time": 1678547249,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167740,
+        "num": 167740,
+        "word": "capper现场",
+        "onboard_time": 1678545569,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165879,
+        "num": 165879,
+        "word": "河道英吃文东恩的紫菜饭团",
+        "onboard_time": 1678534349,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152532,
+        "num": 152532,
+        "word": "市监局回应男子点帝王蟹疑被调包",
+        "onboard_time": 1678543408,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143719,
+        "num": 143719,
+        "word": "台湾演员片酬",
+        "onboard_time": 1678525646,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139890,
+        "num": 139890,
+        "word": "赵樱子发长文告别无限超越班",
+        "onboard_time": 1678540889,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135080,
+        "num": 135080,
+        "word": "朴树郑州演唱会",
+        "onboard_time": 1678547010,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134749,
+        "num": 134749,
+        "word": "林孝埈回应",
+        "onboard_time": 1678532188,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131902,
+        "num": 131902,
+        "word": "大张伟澳门开唱",
+        "onboard_time": 1678547670,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129420,
+        "num": 129420,
+        "word": "DRG战胜eStar",
+        "onboard_time": 1678546767,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120176,
+        "num": 120176,
+        "word": "北京下雨",
+        "onboard_time": 1678538188,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115909,
+        "num": 115909,
+        "word": "如何增强教师的幸福感",
+        "onboard_time": 1678540889,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 107623,
+        "num": 107623,
+        "word": "见过最荒谬的剧情",
+        "onboard_time": 1678551264,
+        "rank": 45,
+        "category": "幽默,影视"
+      },
+      {
+        "raw_hot": 103748,
+        "num": 103748,
+        "word": "回廊亭 16分钟",
+        "onboard_time": 1678536388,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103354,
+        "num": 103354,
+        "word": "你好星期六下周有丁程鑫",
+        "onboard_time": 1678540648,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98653,
+        "num": 98653,
+        "word": "权顺荣翻唱事件的地平线",
+        "onboard_time": 1678544908,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95069,
+        "num": 95069,
+        "word": "郑乃馨泰国演唱会",
+        "onboard_time": 1678543588,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
