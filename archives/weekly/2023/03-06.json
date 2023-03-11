@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678572993834,
+  "endTime": 1678574000620,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -12299,6 +12299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55513,
+      "num": 55513,
+      "word": "从身高看怎样算生长迟缓",
+      "onboard_time": 1678560794,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54057,
       "num": 69660,
       "word": "WBG BP",
@@ -12329,14 +12337,6 @@
       "onboard_time": 1678120939,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 50643,
-      "num": 44007,
-      "word": "从身高看怎样算生长迟缓",
-      "onboard_time": 1678560794,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50224,
@@ -12403,8 +12403,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 36040,
-      "num": 36040,
+      "raw_hot": 38131,
+      "num": 38131,
       "word": "上班时最崩溃的事",
       "onboard_time": 1678565832,
       "rank": 49,
@@ -12433,6 +12433,14 @@
       "onboard_time": 1678545387,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 32002,
+      "num": 32002,
+      "word": "尔冬升夸赞赵樱子",
+      "onboard_time": 1678572012,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 31912,
@@ -12529,14 +12537,6 @@
       "onboard_time": 1678553540,
       "rank": 9,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 22023,
-      "num": 22023,
-      "word": "尔冬升夸赞赵樱子",
-      "onboard_time": 1678572012,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 20323,
