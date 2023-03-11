@@ -1,0 +1,410 @@
+{
+  "runTime": 1678523768138,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 978683,
+        "num": 978683,
+        "word": "李强被任命为国务院总理",
+        "onboard_time": 1678504167,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 568982,
+        "num": 568982,
+        "word": "快递小哥每天给自己送上百包裹",
+        "onboard_time": 1678518026,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11571,
+        "num": 542508,
+        "word": "十四届全国人大一次会议第四次全体会议",
+        "onboard_time": 1678495225,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1949741,
+        "num": 536502,
+        "word": "林孝埈 计时器",
+        "onboard_time": 1678523005,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606722,
+        "num": 536175,
+        "word": "B站考虑取消前台播放量数据显示",
+        "onboard_time": 1678509030,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 530307,
+        "num": 530307,
+        "word": "董明珠鼓励员工砸锅卖铁买格力股票",
+        "onboard_time": 1678518866,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 470191,
+        "num": 470191,
+        "word": "教资科二",
+        "onboard_time": 1678518207,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 437545,
+        "num": 437545,
+        "word": "林孝埈被判犯规",
+        "onboard_time": 1678523366,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427571,
+        "num": 427571,
+        "word": "拜登回应沙特伊朗复交",
+        "onboard_time": 1678515027,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 308996,
+        "num": 308996,
+        "word": "浦发硅谷银行公告",
+        "onboard_time": 1678519588,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1297858,
+        "num": 303403,
+        "word": "女子存款百万被邮储银行员工取走",
+        "onboard_time": 1678517127,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 626965,
+        "num": 298140,
+        "word": "微博之夜确认出席艺人",
+        "onboard_time": 1678514665,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496891,
+        "num": 284746,
+        "word": "苏炳添身体发软求破解",
+        "onboard_time": 1678507830,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315371,
+        "num": 276607,
+        "word": "黑暗荣耀2演技TOP3",
+        "onboard_time": 1678517725,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273822,
+        "num": 273822,
+        "word": "文东恩迎来19岁",
+        "onboard_time": 1678518568,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255189,
+        "num": 255189,
+        "word": "让2亿灵活就业者受关心更安心",
+        "onboard_time": 1678518387,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 240376,
+        "num": 240376,
+        "word": "樊振东",
+        "onboard_time": 1678515207,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228508,
+        "num": 228508,
+        "word": "梅西2022收入全球运动员第2",
+        "onboard_time": 1678513227,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214863,
+        "num": 214863,
+        "word": "流浪地球2国内首次泰坦拍摄",
+        "onboard_time": 1678521565,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211031,
+        "num": 211031,
+        "word": "黑暗荣耀巫师",
+        "onboard_time": 1678518207,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 667523,
+        "num": 210382,
+        "word": "日本女游客在印度遭多名男子骚扰",
+        "onboard_time": 1678516228,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264813,
+        "num": 210281,
+        "word": "刘耀文说要做三无演员",
+        "onboard_time": 1678523366,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214345,
+        "num": 207841,
+        "word": "女孩带着怨气弹贝加尔湖",
+        "onboard_time": 1678522884,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 204086,
+        "num": 204086,
+        "word": "教资",
+        "onboard_time": 1678492643,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189892,
+        "num": 189892,
+        "word": "李小冉气质",
+        "onboard_time": 1678523366,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182569,
+        "num": 182569,
+        "word": "华晨宇杭州演唱会秒售罄",
+        "onboard_time": 1678517246,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178545,
+        "num": 178545,
+        "word": "福岛滞销大米被制成餐具和外卖包装盒",
+        "onboard_time": 1678511249,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174299,
+        "num": 174299,
+        "word": "公司规定不接董事长电话1次罚1万",
+        "onboard_time": 1678506750,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171246,
+        "num": 171246,
+        "word": "专家说40岁就得为养老做打算",
+        "onboard_time": 1678505673,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163936,
+        "num": 163936,
+        "word": "克拉岛",
+        "onboard_time": 1678520845,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157872,
+        "num": 157872,
+        "word": "岳云鹏孟鹤堂假笑兄弟",
+        "onboard_time": 1678521807,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156577,
+        "num": 156577,
+        "word": "国务院总理李强将出席记者会",
+        "onboard_time": 1678512867,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 142456,
+        "num": 142456,
+        "word": "徐海乔拥抱安慰郭晓婷",
+        "onboard_time": 1678514788,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142376,
+        "num": 142376,
+        "word": "短道速滑",
+        "onboard_time": 1678523727,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137869,
+        "num": 137869,
+        "word": "原来蛋糕可以美得像画一样",
+        "onboard_time": 1678502066,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133388,
+        "num": 133388,
+        "word": "丁真新歌",
+        "onboard_time": 1678516646,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129396,
+        "num": 129396,
+        "word": "综合素质",
+        "onboard_time": 1678504710,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123029,
+        "num": 123029,
+        "word": "许榕真谭松韵新剧演母女",
+        "onboard_time": 1678506270,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120787,
+        "num": 120787,
+        "word": "我回了 回了沉默",
+        "onboard_time": 1678499247,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125804,
+        "num": 120689,
+        "word": "教资答案",
+        "onboard_time": 1678504832,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118651,
+        "num": 118651,
+        "word": "六公主连播两部张颂文主演电影",
+        "onboard_time": 1678506750,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113939,
+        "num": 113939,
+        "word": "0713学宋木子之歌招牌动作",
+        "onboard_time": 1678523727,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107567,
+        "num": 107567,
+        "word": "为何高考选理科人数下降",
+        "onboard_time": 1678502066,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 103635,
+        "num": 103635,
+        "word": "成毅英雄志被踹路透",
+        "onboard_time": 1678518147,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102730,
+        "num": 102730,
+        "word": "新疆丁达尔奇观似金光万缕",
+        "onboard_time": 1678516165,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 98937,
+        "num": 98937,
+        "word": "欧豪李一桐新剧开机",
+        "onboard_time": 1678509210,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 96827,
+        "num": 96827,
+        "word": "NBA",
+        "onboard_time": 1678517067,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91183,
+        "num": 91183,
+        "word": "这英语怎么有点耳熟",
+        "onboard_time": 1678523665,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90446,
+        "num": 90446,
+        "word": "黑暗荣耀感情线",
+        "onboard_time": 1678518809,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89799,
+        "num": 89799,
+        "word": "丫丫回国后将住进妈妈曾经的家",
+        "onboard_time": 1678523727,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一切为了人民#"
+    }
+  }
+}

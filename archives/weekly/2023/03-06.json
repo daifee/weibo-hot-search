@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678522950139,
+  "endTime": 1678523768138,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -273,6 +273,14 @@
       "onboard_time": 1678156765,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1949741,
+      "num": 536502,
+      "word": "林孝埈 计时器",
+      "onboard_time": 1678523005,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1942155,
@@ -3683,6 +3691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 437545,
+      "num": 437545,
+      "word": "林孝埈被判犯规",
+      "onboard_time": 1678523366,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 437211,
       "num": 5802396,
       "word": "十四届全国人大一次会议第三次全体会议",
@@ -5723,6 +5739,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 264813,
+      "num": 210281,
+      "word": "刘耀文说要做三无演员",
+      "onboard_time": 1678523366,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264585,
       "num": 206115,
       "word": "刘柏辛Minnie同框",
@@ -6593,6 +6617,14 @@
       "onboard_time": 1678333529,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214345,
+      "num": 207841,
+      "word": "女孩带着怨气弹贝加尔湖",
+      "onboard_time": 1678522884,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 213838,
@@ -7721,6 +7753,14 @@
       "onboard_time": 1678346665,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189892,
+      "num": 189892,
+      "word": "李小冉气质",
+      "onboard_time": 1678523366,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189249,
@@ -10083,6 +10123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113939,
+      "num": 113939,
+      "word": "0713学宋木子之歌招牌动作",
+      "onboard_time": 1678523727,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113690,
       "num": 113690,
       "word": "成毅GLASSMAN三月刊封面",
@@ -10899,6 +10947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91183,
+      "num": 91183,
+      "word": "这英语怎么有点耳熟",
+      "onboard_time": 1678523665,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90641,
       "num": 90641,
       "word": "男团下岗再就业",
@@ -10920,6 +10976,14 @@
       "word": "建议在学校体育教育里加入游泳课程",
       "onboard_time": 1678118424,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89799,
+      "num": 89799,
+      "word": "丫丫回国后将住进妈妈曾经的家",
+      "onboard_time": 1678523727,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -11105,14 +11169,6 @@
       "onboard_time": 1678258166,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76647,
-      "num": 76647,
-      "word": "女孩带着怨气弹贝加尔湖",
-      "onboard_time": 1678522884,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 75666,
