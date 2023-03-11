@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678516572760,
+  "endTime": 1678518946529,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -939,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1171681,
+      "num": 706985,
+      "word": "教资科二",
+      "onboard_time": 1678518207,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1167642,
       "num": 619026,
       "word": "老师点名月考第1女生连站7次",
@@ -993,6 +1001,14 @@
       "onboard_time": 1678329626,
       "rank": 12,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 1087764,
+      "num": 281948,
+      "word": "女子存款百万被邮储银行员工取走",
+      "onboard_time": 1678517127,
+      "rank": 10,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1073134,
@@ -1344,6 +1360,14 @@
       "word": "河源地震",
       "onboard_time": 1678255167,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 901428,
+      "num": 234972,
+      "word": "日本女游客在印度遭多名男子骚扰",
+      "onboard_time": 1678516228,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2723,6 +2747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 556825,
+      "num": 556825,
+      "word": "拜登回应沙特伊朗复交",
+      "onboard_time": 1678515027,
+      "rank": 21,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 555497,
       "num": 469722,
       "word": "该怎么给小鸡解释它的身世",
@@ -3491,14 +3523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462128,
-      "num": 350703,
-      "word": "拜登回应沙特伊朗复交",
-      "onboard_time": 1678515027,
-      "rank": 21,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 459694,
       "num": 201017,
       "word": "动物园更新丫丫最新视频",
@@ -4129,6 +4153,14 @@
       "onboard_time": 1678328125,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 378323,
+      "num": 278648,
+      "word": "华晨宇杭州演唱会秒售罄",
+      "onboard_time": 1678517246,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 378107,
@@ -5875,6 +5907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248593,
+      "num": 248593,
+      "word": "黑暗荣耀2演技TOP3",
+      "onboard_time": 1678517725,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248442,
       "num": 207525,
       "word": "吴彦祖分享老婆马术障碍赛视频",
@@ -6001,6 +6041,14 @@
       "onboard_time": 1678323988,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240333,
+      "num": 240333,
+      "word": "丁真新歌",
+      "onboard_time": 1678516646,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 239800,
@@ -6715,6 +6763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207094,
+      "num": 207094,
+      "word": "快递小哥每天给自己送上百包裹",
+      "onboard_time": 1678518026,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207009,
       "num": 743047,
       "word": "直播宪法宣誓",
@@ -7193,6 +7249,14 @@
       "onboard_time": 1678371692,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198608,
+      "num": 198608,
+      "word": "成毅英雄志被踹路透",
+      "onboard_time": 1678518147,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 198571,
@@ -7819,6 +7883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182047,
+      "num": 182047,
+      "word": "迪士尼介绍兔朱迪机器人",
+      "onboard_time": 1678515925,
+      "rank": 31,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 181922,
       "num": 181922,
       "word": "TAPTAP被指上架涉嫌抄袭游戏",
@@ -8019,6 +8091,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 175015,
+      "num": 175015,
+      "word": "新疆丁达尔奇观似金光万缕",
+      "onboard_time": 1678516165,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 174760,
       "num": 174760,
       "word": "蔡依林看我72变发行20周年",
@@ -8129,14 +8209,6 @@
       "onboard_time": 1678253784,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 170704,
-      "num": 127938,
-      "word": "日本女游客在印度遭多名男子骚扰",
-      "onboard_time": 1678516228,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170702,
@@ -8497,14 +8569,6 @@
       "onboard_time": 1678077750,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157161,
-      "num": 127836,
-      "word": "迪士尼介绍兔朱迪机器人",
-      "onboard_time": 1678515925,
-      "rank": 31,
-      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 156945,
@@ -8947,6 +9011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142886,
+      "num": 142886,
+      "word": "黑暗荣耀巫师",
+      "onboard_time": 1678518207,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142655,
       "num": 219753,
       "word": "辽宁男篮vs山东男篮",
@@ -9097,6 +9169,14 @@
       "onboard_time": 1678294698,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137051,
+      "num": 137051,
+      "word": "让2亿灵活就业者受关心更安心",
+      "onboard_time": 1678518387,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 136753,
@@ -9321,6 +9401,14 @@
       "onboard_time": 1678199970,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 129650,
+      "num": 129650,
+      "word": "文东恩迎来19岁",
+      "onboard_time": 1678518568,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 129517,
@@ -10291,6 +10379,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 105237,
+      "num": 105237,
+      "word": "NBA",
+      "onboard_time": 1678517067,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105039,
       "num": 105039,
       "word": "李一桐毕雯珺新剧雨中分手",
@@ -10707,14 +10803,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 92697,
-      "num": 92697,
-      "word": "新疆丁达尔奇观似金光万缕",
-      "onboard_time": 1678516165,
-      "rank": 44,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 92668,
       "num": 92668,
       "word": "慕玉伤心小狗",
@@ -10913,6 +11001,14 @@
       "onboard_time": 1678327763,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78508,
+      "num": 78508,
+      "word": "董明珠鼓励员工砸锅卖铁买格力股票",
+      "onboard_time": 1678518866,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 77960,
