@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678562054559,
+  "endTime": 1678563193953,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -12387,6 +12387,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 39650,
+      "num": 44007,
+      "word": "从身高看怎样算生长迟缓",
+      "onboard_time": 1678560794,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33529,
+      "num": 33529,
+      "word": "黑暗荣耀2后劲",
+      "onboard_time": 1678563014,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 33120,
       "num": 33120,
       "word": "杨紫琼张天爱同框照",
@@ -12481,14 +12497,6 @@
       "onboard_time": 1678476732,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 26040,
-      "num": 44007,
-      "word": "从身高看怎样算生长迟缓",
-      "onboard_time": 1678560794,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25802,
