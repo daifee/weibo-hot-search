@@ -1,6 +1,6 @@
 {
   "startTime": 1678465634906,
-  "endTime": 1678539010755,
+  "endTime": 1678540866883,
   "band_list": [
     {
       "raw_hot": 7304665,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1323393,
+      "num": 603710,
+      "word": "内娱满分仪态拥有者",
+      "onboard_time": 1678538130,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1268572,
       "num": 716798,
       "word": "李强简历",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 1005929,
-      "num": 414125,
+      "num": 437828,
       "word": "丫丫回国后将住进妈妈曾经的家",
       "onboard_time": 1678523727,
       "rank": 49,
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 671805,
+      "num": 564198,
+      "word": "赵英俊为大鹏选定了保你平安剧本",
+      "onboard_time": 1678536749,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 667605,
       "num": 667605,
       "word": "国务院总理李强进行宪法宣誓",
@@ -403,20 +419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608111,
+      "num": 465793,
+      "word": "北京下雨",
+      "onboard_time": 1678538188,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606746,
       "num": 606746,
       "word": "WBG RNG",
       "onboard_time": 1678538549,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 603710,
-      "num": 603710,
-      "word": "内娱满分仪态拥有者",
-      "onboard_time": 1678538130,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 585583,
@@ -435,20 +451,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 575656,
+      "num": 766022,
+      "word": "育龄青年为什么不愿生了",
+      "onboard_time": 1678537230,
+      "rank": 0,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 566461,
       "num": 566461,
       "word": "拜登回应沙特伊朗复交",
       "onboard_time": 1678515027,
       "rank": 21,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 564198,
-      "num": 564198,
-      "word": "赵英俊为大鹏选定了保你平安剧本",
-      "onboard_time": 1678536749,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 557486,
@@ -587,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458373,
+      "num": 458373,
+      "word": "真的好想有个广西的朋友啊",
+      "onboard_time": 1678537348,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 456355,
       "num": 456355,
       "word": "灌篮高手11号流川枫出场",
@@ -648,6 +672,14 @@
       "word": "满江红中国影史票房榜第6",
       "onboard_time": 1678460189,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 390897,
+      "num": 529201,
+      "word": "回廊亭 16分钟",
+      "onboard_time": 1678536388,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -723,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358549,
-      "num": 358549,
-      "word": "回廊亭 16分钟",
-      "onboard_time": 1678536388,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 357663,
       "num": 357663,
       "word": "詹姆斯2022年收入全球运动员第一",
@@ -771,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342131,
+      "num": 342131,
+      "word": "你好星期六下周有丁程鑫",
+      "onboard_time": 1678540648,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340017,
       "num": 340017,
       "word": "浦发硅谷银行公告",
@@ -779,20 +811,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 338988,
+      "num": 338988,
+      "word": "SEVENTEEN今年回归两次",
+      "onboard_time": 1678539508,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337006,
       "num": 337006,
       "word": "谁在喝35元一杯的县城咖啡",
       "onboard_time": 1678437029,
       "rank": 18,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 336528,
-      "num": 766022,
-      "word": "育龄青年为什么不愿生了",
-      "onboard_time": 1678537230,
-      "rank": 0,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 335942,
@@ -824,6 +856,14 @@
       "word": "光与夜之恋",
       "onboard_time": 1678531467,
       "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 314040,
+      "num": 503406,
+      "word": "GALA卡莎五杀",
+      "onboard_time": 1678538789,
+      "rank": 34,
       "category": "游戏"
     },
     {
@@ -937,14 +977,6 @@
       "onboard_time": 1678523727,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 266478,
-      "num": 266478,
-      "word": "真的好想有个广西的朋友啊",
-      "onboard_time": 1678537348,
-      "rank": 22,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 266182,
@@ -1099,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227759,
+      "num": 227759,
+      "word": "小学办公室的主要用途",
+      "onboard_time": 1678539689,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 225342,
       "num": 225342,
       "word": "电影深海票房破9亿",
@@ -1136,6 +1176,14 @@
       "word": "黑暗荣耀巫师",
       "onboard_time": 1678518207,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 219887,
+      "num": 219887,
+      "word": "孙明悟葬礼好抓马",
+      "onboard_time": 1678537289,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1235,14 +1283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 195726,
-      "num": 185335,
-      "word": "GALA卡莎五杀",
-      "onboard_time": 1678538789,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 195697,
       "num": 192360,
       "word": "湖人战胜猛龙",
@@ -1280,14 +1320,6 @@
       "word": "黑暗荣耀2全员恶人",
       "onboard_time": 1678454487,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 190370,
-      "num": 190370,
-      "word": "孙明悟葬礼好抓马",
-      "onboard_time": 1678537289,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -1329,14 +1361,6 @@
       "onboard_time": 1678497506,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182114,
-      "num": 182114,
-      "word": "北京下雨",
-      "onboard_time": 1678538188,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182047,
@@ -1457,6 +1481,14 @@
       "onboard_time": 1678492943,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165941,
+      "num": 165941,
+      "word": "现在的求职有多难",
+      "onboard_time": 1678539987,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 165006,
@@ -1707,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103678,
+      "num": 103678,
+      "word": "陈伟霆输在起跑线上",
+      "onboard_time": 1678540108,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103638,
       "num": 103638,
       "word": "王艺迪3比0斯佐科斯",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1678518809,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 97835,
+      "num": 97835,
+      "word": "小学生为47名师生画动漫大合照",
+      "onboard_time": 1678540349,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 96963,

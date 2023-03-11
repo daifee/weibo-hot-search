@@ -1,0 +1,410 @@
+{
+  "runTime": 1678540866883,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 297473,
+        "num": 591166,
+        "word": "习近平签署主席令任命李强为总理",
+        "onboard_time": 1678504167,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 931242,
+        "num": 585291,
+        "word": "李强简历",
+        "onboard_time": 1678535005,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31130,
+        "num": 579945,
+        "word": "今年两会第三场委员通道",
+        "onboard_time": 1678524865,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 954262,
+        "num": 579776,
+        "word": "夜昙青葵没化为人形",
+        "onboard_time": 1678538069,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 575656,
+        "num": 575656,
+        "word": "育龄青年为什么不愿生了",
+        "onboard_time": 1678537230,
+        "rank": 4,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 568995,
+        "num": 568995,
+        "word": "二十六七岁多么美好的年纪",
+        "onboard_time": 1678530086,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 537010,
+        "num": 537010,
+        "word": "成都大风",
+        "onboard_time": 1678537529,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390897,
+        "num": 529201,
+        "word": "回廊亭 16分钟",
+        "onboard_time": 1678536388,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 325682,
+        "num": 522915,
+        "word": "WBG RNG",
+        "onboard_time": 1678538549,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 314040,
+        "num": 503406,
+        "word": "GALA卡莎五杀",
+        "onboard_time": 1678538789,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1323393,
+        "num": 490619,
+        "word": "内娱满分仪态拥有者",
+        "onboard_time": 1678538130,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 671805,
+        "num": 475577,
+        "word": "赵英俊为大鹏选定了保你平安剧本",
+        "onboard_time": 1678536749,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 608111,
+        "num": 465793,
+        "word": "北京下雨",
+        "onboard_time": 1678538188,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458373,
+        "num": 458373,
+        "word": "真的好想有个广西的朋友啊",
+        "onboard_time": 1678537348,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 437828,
+        "num": 437828,
+        "word": "丫丫回国后将住进妈妈曾经的家",
+        "onboard_time": 1678523727,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410518,
+        "num": 410518,
+        "word": "林孝埈回应",
+        "onboard_time": 1678532188,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387065,
+        "num": 387065,
+        "word": "台湾演员片酬",
+        "onboard_time": 1678525646,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350236,
+        "num": 350236,
+        "word": "河道英吃文东恩的紫菜饭团",
+        "onboard_time": 1678534349,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342131,
+        "num": 342131,
+        "word": "你好星期六下周有丁程鑫",
+        "onboard_time": 1678540648,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338988,
+        "num": 338988,
+        "word": "SEVENTEEN今年回归两次",
+        "onboard_time": 1678539508,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264743,
+        "num": 264743,
+        "word": "美国将公示丫丫乐乐回国证明",
+        "onboard_time": 1678524567,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228772,
+        "num": 228772,
+        "word": "星落凝成糖",
+        "onboard_time": 1678535969,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227759,
+        "num": 227759,
+        "word": "小学办公室的主要用途",
+        "onboard_time": 1678539689,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 399152,
+        "num": 227578,
+        "word": "泽连斯基研究将俄更名莫斯科公国",
+        "onboard_time": 1678534647,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 227390,
+        "num": 227390,
+        "word": "教资科三",
+        "onboard_time": 1678528767,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1254573,
+        "num": 226008,
+        "word": "女生月薪两万辞职考研八次失败",
+        "onboard_time": 1678534706,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 223469,
+        "num": 223469,
+        "word": "丁俊晖6红球世锦赛夺冠",
+        "onboard_time": 1678536988,
+        "rank": 26,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 219887,
+        "num": 219887,
+        "word": "孙明悟葬礼好抓马",
+        "onboard_time": 1678537289,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203277,
+        "num": 203277,
+        "word": "李硕珉翻跳PinkVenom",
+        "onboard_time": 1678538309,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184239,
+        "num": 184239,
+        "word": "大江大河3在宁波开机",
+        "onboard_time": 1678535186,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1602298,
+        "num": 184014,
+        "word": "庆余年2 范思辙",
+        "onboard_time": 1678531467,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182188,
+        "num": 182188,
+        "word": "星落养花结局好应景",
+        "onboard_time": 1678538608,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171196,
+        "num": 171196,
+        "word": "日本女游客在印度遭多名男子骚扰",
+        "onboard_time": 1678516228,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165941,
+        "num": 165941,
+        "word": "现在的求职有多难",
+        "onboard_time": 1678539987,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162088,
+        "num": 162088,
+        "word": "星落凝成糖双花重生",
+        "onboard_time": 1678537048,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159572,
+        "num": 159572,
+        "word": "RW战胜狼队",
+        "onboard_time": 1678536929,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157036,
+        "num": 157036,
+        "word": "白敬亭新剧宣传一碗水端平",
+        "onboard_time": 1678530926,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156653,
+        "num": 156653,
+        "word": "许光汉单集片酬",
+        "onboard_time": 1678526724,
+        "rank": 37,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 151363,
+        "num": 151363,
+        "word": "LGD翻盘TES",
+        "onboard_time": 1678533328,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136058,
+        "num": 136058,
+        "word": "王源演唱会",
+        "onboard_time": 1678524927,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134107,
+        "num": 134107,
+        "word": "全国每年新发恶性肿瘤40%在农村",
+        "onboard_time": 1678525885,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121103,
+        "num": 121103,
+        "word": "成龙外网人气",
+        "onboard_time": 1678525286,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117740,
+        "num": 117740,
+        "word": "刘耀文探班宋亚轩直播",
+        "onboard_time": 1678531828,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113459,
+        "num": 113459,
+        "word": "白头发是不是越拔越多",
+        "onboard_time": 1678526366,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112049,
+        "num": 112049,
+        "word": "光与夜之恋",
+        "onboard_time": 1678531467,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109141,
+        "num": 109141,
+        "word": "董明珠鼓励员工砸锅卖铁买格力股票",
+        "onboard_time": 1678518866,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 103678,
+        "num": 103678,
+        "word": "陈伟霆输在起跑线上",
+        "onboard_time": 1678540108,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98947,
+        "num": 98947,
+        "word": "教资科二",
+        "onboard_time": 1678518207,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98433,
+        "num": 98433,
+        "word": "微博之夜确认出席艺人",
+        "onboard_time": 1678514665,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97835,
+        "num": 97835,
+        "word": "小学生为47名师生画动漫大合照",
+        "onboard_time": 1678540349,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国两会时光#"
+    }
+  }
+}
