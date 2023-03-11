@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678559705092,
+  "endTime": 1678562054559,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -22563,6 +22563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31912,
+      "num": 34037,
+      "word": "一口气炫完黑暗荣耀",
+      "onboard_time": 1678557075,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 31550,
       "num": 31550,
       "word": "丫丫身体状况评估完毕",
@@ -22609,14 +22617,6 @@
       "onboard_time": 1677597637,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30114,
-      "num": 34037,
-      "word": "一口气炫完黑暗荣耀",
-      "onboard_time": 1678557075,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 30103,
@@ -22673,6 +22673,14 @@
       "onboard_time": 1678476732,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26040,
+      "num": 44007,
+      "word": "从身高看怎样算生长迟缓",
+      "onboard_time": 1678560794,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25802,
