@@ -1,6 +1,6 @@
 {
   "startTime": 1678465634906,
-  "endTime": 1678529904054,
+  "endTime": 1678530845722,
   "band_list": [
     {
       "raw_hot": 7304665,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 886531,
+      "num": 764150,
+      "word": "教资科三",
+      "onboard_time": 1678528767,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 834840,
       "num": 834840,
       "word": "伊朗沙特恢复外交关系",
@@ -201,14 +209,6 @@
       "onboard_time": 1678493605,
       "rank": 4,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 764150,
-      "num": 764150,
-      "word": "教资科三",
-      "onboard_time": 1678528767,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 745697,
@@ -403,6 +403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 517582,
+      "num": 369861,
+      "word": "许光汉单集片酬",
+      "onboard_time": 1678526724,
+      "rank": 23,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 514090,
       "num": 828744,
       "word": "2023考研国家线公布",
@@ -451,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 484121,
+      "num": 395800,
+      "word": "承欢记",
+      "onboard_time": 1678528647,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 482545,
       "num": 329570,
       "word": "Kakao和HYBE协议不再竞争SMTOWN",
@@ -459,12 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 457019,
+      "raw_hot": 480654,
       "num": 457019,
       "word": "蛋仔派对果宝特攻",
       "onboard_time": 1678527087,
       "rank": 43,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 470191,
+      "num": 440849,
+      "word": "白头发是不是越拔越多",
+      "onboard_time": 1678526366,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456355,
@@ -473,22 +497,6 @@
       "onboard_time": 1678504648,
       "rank": 15,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 447152,
-      "num": 369861,
-      "word": "许光汉单集片酬",
-      "onboard_time": 1678526724,
-      "rank": 23,
-      "category": "影视,艺人"
-    },
-    {
-      "raw_hot": 440849,
-      "num": 440849,
-      "word": "白头发是不是越拔越多",
-      "onboard_time": 1678526366,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 427345,
@@ -505,14 +513,6 @@
       "onboard_time": 1678505129,
       "rank": 16,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 395800,
-      "num": 395800,
-      "word": "承欢记",
-      "onboard_time": 1678528647,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 394933,
@@ -667,6 +667,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 310900,
+      "num": 310900,
+      "word": "全国每年新发恶性肿瘤40%在农村",
+      "onboard_time": 1678525885,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305754,
       "num": 305754,
       "word": "让2亿灵活就业者受关心更安心",
@@ -691,12 +699,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 299558,
-      "num": 299558,
-      "word": "全国每年新发恶性肿瘤40%在农村",
-      "onboard_time": 1678525885,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 301322,
+      "num": 301322,
+      "word": "黑暗荣耀2里的清醒台词",
+      "onboard_time": 1678525585,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 298426,
@@ -731,6 +739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 270944,
+      "num": 270944,
+      "word": "这里脊饼能把我下巴吃脱臼",
+      "onboard_time": 1678526607,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268268,
       "num": 401283,
       "word": "短道速滑",
@@ -753,14 +769,6 @@
       "onboard_time": 1678523366,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263601,
-      "num": 263601,
-      "word": "黑暗荣耀2里的清醒台词",
-      "onboard_time": 1678525585,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 260540,
@@ -817,14 +825,6 @@
       "onboard_time": 1678508309,
       "rank": 44,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 243820,
-      "num": 243820,
-      "word": "这里脊饼能把我下巴吃脱臼",
-      "onboard_time": 1678526607,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 240863,
@@ -889,6 +889,22 @@
       "onboard_time": 1678509809,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224987,
+      "num": 224987,
+      "word": "北京养鸡场宿舍神改造居民大呼真香",
+      "onboard_time": 1678530506,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222077,
+      "num": 222077,
+      "word": "二十六七岁多么美好的年纪",
+      "onboard_time": 1678530086,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 221573,
@@ -1003,6 +1019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193316,
+      "num": 193316,
+      "word": "宋慧乔演技感染力",
+      "onboard_time": 1678530086,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190460,
       "num": 208648,
       "word": "黑暗荣耀2全员恶人",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1678515925,
       "rank": 31,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 181072,
+      "num": 181072,
+      "word": "张颂文与孤舟工作人员合照",
+      "onboard_time": 1678529546,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 180382,
@@ -1171,14 +1203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158050,
-      "num": 158050,
-      "word": "张颂文与孤舟工作人员合照",
-      "onboard_time": 1678529546,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 156881,
       "num": 209145,
       "word": "不喜欢没有边界感的情侣",
@@ -1219,6 +1243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153655,
+      "num": 153655,
+      "word": "易烊千玺谈孙均为什么杀张大",
+      "onboard_time": 1678529667,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152940,
       "num": 208428,
       "word": "张译新剧他是谁央8排播",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1678510767,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138820,
+      "num": 138820,
+      "word": "T1对战HLE",
+      "onboard_time": 1678530686,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 137587,
@@ -1313,14 +1353,6 @@
       "onboard_time": 1678442009,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119569,
-      "num": 119569,
-      "word": "易烊千玺谈孙均为什么杀张大",
-      "onboard_time": 1678529667,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 117285,

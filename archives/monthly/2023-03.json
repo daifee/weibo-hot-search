@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678529904054,
+  "endTime": 1678530845722,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -2667,6 +2667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 886531,
+      "num": 764150,
+      "word": "教资科三",
+      "onboard_time": 1678528767,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 886207,
       "num": 886207,
       "word": "台湾问题处理不好中美关系地动山摇",
@@ -3345,14 +3353,6 @@
       "onboard_time": 1678027650,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 764150,
-      "num": 764150,
-      "word": "教资科三",
-      "onboard_time": 1678528767,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 758844,
@@ -6043,6 +6043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517582,
+      "num": 369861,
+      "word": "许光汉单集片酬",
+      "onboard_time": 1678526724,
+      "rank": 23,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 517409,
       "num": 517409,
       "word": "王小谟院士逝世",
@@ -6531,6 +6539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484121,
+      "num": 395800,
+      "word": "承欢记",
+      "onboard_time": 1678528647,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 482917,
       "num": 482917,
       "word": "郁金香",
@@ -6585,6 +6601,14 @@
       "onboard_time": 1678355547,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 480654,
+      "num": 457019,
+      "word": "蛋仔派对果宝特攻",
+      "onboard_time": 1678527087,
+      "rank": 43,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 480353,
@@ -6712,6 +6736,14 @@
       "word": "年轻人都流向了哪些城市",
       "onboard_time": 1677738206,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470191,
+      "num": 440849,
+      "word": "白头发是不是越拔越多",
+      "onboard_time": 1678526366,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -6875,14 +6907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 457019,
-      "num": 457019,
-      "word": "蛋仔派对果宝特攻",
-      "onboard_time": 1678527087,
-      "rank": 43,
-      "category": "游戏,动漫"
-    },
-    {
       "raw_hot": 456743,
       "num": 456743,
       "word": "浙江女子追到广州找到被偷的爱猫",
@@ -7003,14 +7027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 447152,
-      "num": 369861,
-      "word": "许光汉单集片酬",
-      "onboard_time": 1678526724,
-      "rank": 23,
-      "category": "影视,艺人"
-    },
-    {
       "raw_hot": 446896,
       "num": 282342,
       "word": "檀健次背田曦薇",
@@ -7113,14 +7129,6 @@
       "onboard_time": 1677838165,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 440849,
-      "num": 440849,
-      "word": "白头发是不是越拔越多",
-      "onboard_time": 1678526366,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 440522,
@@ -7857,14 +7865,6 @@
       "onboard_time": 1678171826,
       "rank": 18,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 395800,
-      "num": 395800,
-      "word": "承欢记",
-      "onboard_time": 1678528647,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 395719,
@@ -10035,6 +10035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310900,
+      "num": 310900,
+      "word": "全国每年新发恶性肿瘤40%在农村",
+      "onboard_time": 1678525885,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309964,
       "num": 309964,
       "word": "夜昙黑化入魔",
@@ -10235,6 +10243,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 301322,
+      "num": 301322,
+      "word": "黑暗荣耀2里的清醒台词",
+      "onboard_time": 1678525585,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301184,
       "num": 301184,
       "word": "最强大脑",
@@ -10264,14 +10280,6 @@
       "word": "他们不是我的粉丝是中国文化的粉丝",
       "onboard_time": 1678008447,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299558,
-      "num": 299558,
-      "word": "全国每年新发恶性肿瘤40%在农村",
-      "onboard_time": 1678525885,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -11091,6 +11099,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 270944,
+      "num": 270944,
+      "word": "这里脊饼能把我下巴吃脱臼",
+      "onboard_time": 1678526607,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 270352,
       "num": 270352,
       "word": "U20国足小组第二出线",
@@ -11360,14 +11376,6 @@
       "word": "陆泽宁求婚成功",
       "onboard_time": 1677758850,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 263601,
-      "num": 263601,
-      "word": "黑暗荣耀2里的清醒台词",
-      "onboard_time": 1678525585,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -11929,14 +11937,6 @@
       "onboard_time": 1678345347,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 243820,
-      "num": 243820,
-      "word": "这里脊饼能把我下巴吃脱臼",
-      "onboard_time": 1678526607,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 243627,
@@ -12675,6 +12675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224987,
+      "num": 224987,
+      "word": "北京养鸡场宿舍神改造居民大呼真香",
+      "onboard_time": 1678530506,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224906,
       "num": 224906,
       "word": "周鸿祎称大学生可做人工智能训练师",
@@ -12825,6 +12833,14 @@
       "onboard_time": 1678456649,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222077,
+      "num": 222077,
+      "word": "二十六七岁多么美好的年纪",
+      "onboard_time": 1678530086,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 221931,
@@ -14883,6 +14899,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 193316,
+      "num": 193316,
+      "word": "宋慧乔演技感染力",
+      "onboard_time": 1678530086,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193143,
       "num": 193143,
       "word": "特斯拉下一代汽车成本降低",
@@ -15673,6 +15697,14 @@
       "onboard_time": 1678267947,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181072,
+      "num": 181072,
+      "word": "张颂文与孤舟工作人员合照",
+      "onboard_time": 1678529546,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 180884,
@@ -16827,14 +16859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158050,
-      "num": 158050,
-      "word": "张颂文与孤舟工作人员合照",
-      "onboard_time": 1678529546,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 157708,
       "num": 157708,
       "word": "杨颖晒相思令剧组的马",
@@ -17040,6 +17064,14 @@
       "word": "玄商美强惨",
       "onboard_time": 1678086507,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 153655,
+      "num": 153655,
+      "word": "易烊千玺谈孙均为什么杀张大",
+      "onboard_time": 1678529667,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -17983,6 +18015,14 @@
       "num": 139023,
       "word": "WBG蝉联周冠军",
       "onboard_time": 1678026510,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 138820,
+      "num": 138820,
+      "word": "T1对战HLE",
+      "onboard_time": 1678530686,
       "rank": 37,
       "category": "游戏"
     },
@@ -19088,14 +19128,6 @@
       "word": "玄商求母后催婚",
       "onboard_time": 1677926367,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 119569,
-      "num": 119569,
-      "word": "易烊千玺谈孙均为什么杀张大",
-      "onboard_time": 1678529667,
-      "rank": 38,
       "category": "影视"
     },
     {
