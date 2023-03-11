@@ -1,6 +1,6 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678574000620,
+  "endTime": 1678576678036,
   "band_list": [
     {
       "raw_hot": 1056517,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318325,
+      "num": 124719,
+      "word": "硅谷银行破产波及中国创业者",
+      "onboard_time": 1678554978,
+      "rank": 11,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 297415,
       "num": 170270,
       "word": "女生辞职考研八次失败",
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244784,
+      "num": 221548,
+      "word": "绥化一村民家房梁现神秘骨架",
+      "onboard_time": 1678542208,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242003,
       "num": 274170,
       "word": "成都大风",
@@ -179,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221548,
-      "num": 221548,
-      "word": "绥化一村民家房梁现神秘骨架",
-      "onboard_time": 1678542208,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213722,
       "num": 213722,
       "word": "还有包包专用的衣架",
@@ -217,14 +225,6 @@
       "onboard_time": 1678551683,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197029,
-      "num": 119951,
-      "word": "硅谷银行破产波及中国创业者",
-      "onboard_time": 1678554978,
-      "rank": 11,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 188758,
@@ -299,12 +299,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152728,
+      "num": 137318,
+      "word": "从身高看怎样算生长迟缓",
+      "onboard_time": 1678560794,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152532,
       "num": 152532,
       "word": "市监局回应男子点帝王蟹疑被调包",
       "onboard_time": 1678543408,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148824,
+      "num": 129465,
+      "word": "小学办公室的主要用途",
+      "onboard_time": 1678539689,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 143719,
@@ -419,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96030,
+      "num": 96030,
+      "word": "尔冬升夸赞赵樱子",
+      "onboard_time": 1678572012,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95069,
       "num": 95069,
       "word": "郑乃馨泰国演唱会",
@@ -433,6 +457,14 @@
       "onboard_time": 1678541430,
       "rank": 7,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 94612,
+      "num": 94612,
+      "word": "硅谷银行倒闭钱怎么办",
+      "onboard_time": 1678555636,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 92866,
@@ -451,20 +483,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 79220,
-      "num": 79220,
-      "word": "硅谷银行倒闭钱怎么办",
-      "onboard_time": 1678555636,
-      "rank": 42,
-      "category": "财经"
+      "raw_hot": 72582,
+      "num": 144464,
+      "word": "林孝埈 计时器",
+      "onboard_time": 1678523005,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65542,
+      "num": 65542,
+      "word": "上班时最崩溃的事",
+      "onboard_time": 1678565832,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 57749,
-      "num": 34209,
+      "num": 40489,
       "word": "黑暗荣耀2后劲",
       "onboard_time": 1678563014,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 56638,
+      "num": 56638,
+      "word": "卓沅说他一年赚不到2万块",
+      "onboard_time": 1678563852,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 55560,
@@ -475,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55513,
-      "num": 55513,
-      "word": "从身高看怎样算生长迟缓",
-      "onboard_time": 1678560794,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54057,
       "num": 69660,
       "word": "WBG BP",
@@ -491,35 +531,27 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 51309,
-      "num": 79866,
-      "word": "小学办公室的主要用途",
-      "onboard_time": 1678539689,
-      "rank": 7,
+      "raw_hot": 49034,
+      "num": 126682,
+      "word": "教资科三",
+      "onboard_time": 1678528767,
+      "rank": 8,
       "category": "教育"
     },
     {
-      "raw_hot": 38131,
-      "num": 38131,
-      "word": "上班时最崩溃的事",
-      "onboard_time": 1678565832,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 32965,
-      "num": 132795,
+      "num": 135969,
       "word": "转播车视角揭秘两会直播",
       "onboard_time": 1678553540,
       "rank": 4,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 32002,
-      "num": 32002,
-      "word": "尔冬升夸赞赵樱子",
-      "onboard_time": 1678572012,
-      "rank": 28,
+      "raw_hot": 32364,
+      "num": 32364,
+      "word": "林峯就是吃了执行力太强的亏",
+      "onboard_time": 1678574834,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -531,12 +563,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 29531,
-      "num": 29531,
-      "word": "卓沅说他一年赚不到2万块",
-      "onboard_time": 1678563852,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 26113,
+      "num": 132528,
+      "word": "100秒了解第3场委员通道说了啥",
+      "onboard_time": 1678553540,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 25386,
@@ -545,22 +577,6 @@
       "onboard_time": 1678545387,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 22333,
-      "num": 132528,
-      "word": "100秒了解第3场委员通道说了啥",
-      "onboard_time": 1678553540,
-      "rank": 9,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 21824,
-      "num": 50474,
-      "word": "教资科三",
-      "onboard_time": 1678528767,
-      "rank": 8,
-      "category": "教育"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678574000620,
+  "endTime": 1678576678036,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -10131,6 +10131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318325,
+      "num": 124719,
+      "word": "硅谷银行破产波及中国创业者",
+      "onboard_time": 1678554978,
+      "rank": 11,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 317943,
       "num": 317943,
       "word": "易烊千玺用表情互动",
@@ -15091,14 +15099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197029,
-      "num": 119951,
-      "word": "硅谷银行破产波及中国创业者",
-      "onboard_time": 1678554978,
-      "rank": 11,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 196922,
       "num": 96893,
       "word": "张艺兴最新弹钢琴vlog",
@@ -17729,6 +17729,14 @@
       "onboard_time": 1677844947,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152728,
+      "num": 137318,
+      "word": "从身高看怎样算生长迟缓",
+      "onboard_time": 1678560794,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152408,
@@ -21211,6 +21219,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 96030,
+      "num": 96030,
+      "word": "尔冬升夸赞赵樱子",
+      "onboard_time": 1678572012,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95790,
       "num": 95790,
       "word": "王鹤棣时宴英雄救美路透",
@@ -21273,6 +21289,14 @@
       "onboard_time": 1678095147,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 94612,
+      "num": 94612,
+      "word": "硅谷银行倒闭钱怎么办",
+      "onboard_time": 1678555636,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 94569,
@@ -21795,14 +21819,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 79220,
-      "num": 79220,
-      "word": "硅谷银行倒闭钱怎么办",
-      "onboard_time": 1678555636,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 78515,
       "num": 78515,
       "word": "雷霆vs太阳",
@@ -22099,6 +22115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65542,
+      "num": 65542,
+      "word": "上班时最崩溃的事",
+      "onboard_time": 1678565832,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64605,
       "num": 64605,
       "word": "毛宁称美国未免太不自信",
@@ -22204,7 +22228,7 @@
     },
     {
       "raw_hot": 57749,
-      "num": 34209,
+      "num": 40489,
       "word": "黑暗荣耀2后劲",
       "onboard_time": 1678563014,
       "rank": 17,
@@ -22225,6 +22249,14 @@
       "onboard_time": 1678417655,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56638,
+      "num": 56638,
+      "word": "卓沅说他一年赚不到2万块",
+      "onboard_time": 1678563852,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 56067,
@@ -22257,14 +22289,6 @@
       "onboard_time": 1678557495,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 55513,
-      "num": 55513,
-      "word": "从身高看怎样算生长迟缓",
-      "onboard_time": 1678560794,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54821,
@@ -22475,14 +22499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38131,
-      "num": 38131,
-      "word": "上班时最崩溃的事",
-      "onboard_time": 1678565832,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 37974,
       "num": 37974,
       "word": "微博年度剧集",
@@ -22556,7 +22572,7 @@
     },
     {
       "raw_hot": 32965,
-      "num": 132795,
+      "num": 135969,
       "word": "转播车视角揭秘两会直播",
       "onboard_time": 1678553540,
       "rank": 4,
@@ -22571,19 +22587,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 32364,
+      "num": 32364,
+      "word": "林峯就是吃了执行力太强的亏",
+      "onboard_time": 1678574834,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32331,
       "num": 32331,
       "word": "微博之夜嘉宾",
       "onboard_time": 1677551848,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 32002,
-      "num": 32002,
-      "word": "尔冬升夸赞赵樱子",
-      "onboard_time": 1678572012,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -22675,14 +22691,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 29531,
-      "num": 29531,
-      "word": "卓沅说他一年赚不到2万块",
-      "onboard_time": 1678563852,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 28887,
       "num": 28887,
       "word": "宋祖儿和小朋友跳舞",
@@ -22713,6 +22721,14 @@
       "onboard_time": 1678476732,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26113,
+      "num": 132528,
+      "word": "100秒了解第3场委员通道说了啥",
+      "onboard_time": 1678553540,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 25802,
@@ -22753,14 +22769,6 @@
       "onboard_time": 1677924029,
       "rank": 39,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 22333,
-      "num": 132528,
-      "word": "100秒了解第3场委员通道说了啥",
-      "onboard_time": 1678553540,
-      "rank": 9,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 20843,
