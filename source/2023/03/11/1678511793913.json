@@ -1,0 +1,410 @@
+{
+  "runTime": 1678511793913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3571603,
+        "num": 3571603,
+        "word": "李强被任命为国务院总理",
+        "onboard_time": 1678504167,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1621720,
+        "num": 1621720,
+        "word": "苏炳添身体发软求破解",
+        "onboard_time": 1678507830,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88957,
+        "num": 1491350,
+        "word": "十四届全国人大一次会议第四次全体会议",
+        "onboard_time": 1678495225,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1367135,
+        "num": 1367135,
+        "word": "B站考虑取消前台播放量数据显示",
+        "onboard_time": 1678509030,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 666718,
+        "num": 666718,
+        "word": "教资",
+        "onboard_time": 1678492643,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 537679,
+        "num": 537679,
+        "word": "六公主连播两部张颂文主演电影",
+        "onboard_time": 1678506750,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537630,
+        "num": 537630,
+        "word": "专家说40岁就得为养老做打算",
+        "onboard_time": 1678505673,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468128,
+        "num": 468128,
+        "word": "国务院总理李强进行宪法宣誓",
+        "onboard_time": 1678507291,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 394793,
+        "num": 394793,
+        "word": "董明珠称大学生去打螺钉没什么不可以",
+        "onboard_time": 1678500866,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333502,
+        "num": 390717,
+        "word": "原来蛋糕可以美得像画一样",
+        "onboard_time": 1678502066,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 612439,
+        "num": 390555,
+        "word": "公司规定不接董事长电话1次罚1万",
+        "onboard_time": 1678506750,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390125,
+        "num": 390125,
+        "word": "许榕真谭松韵新剧演母女",
+        "onboard_time": 1678506270,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386232,
+        "num": 386232,
+        "word": "欧豪李一桐新剧开机",
+        "onboard_time": 1678509210,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322750,
+        "num": 322750,
+        "word": "田曦薇民国风造型",
+        "onboard_time": 1678502245,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321282,
+        "num": 321282,
+        "word": "我回了 回了沉默",
+        "onboard_time": 1678499247,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301275,
+        "num": 301275,
+        "word": "为何高考选理科人数下降",
+        "onboard_time": 1678502066,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 298921,
+        "num": 298921,
+        "word": "詹姆斯2022年收入全球运动员第一",
+        "onboard_time": 1678506690,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272233,
+        "num": 272233,
+        "word": "教资答案",
+        "onboard_time": 1678504832,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 263338,
+        "num": 263338,
+        "word": "应勇当选为最高人民检察院检察长",
+        "onboard_time": 1678505372,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 232626,
+        "num": 232626,
+        "word": "毒舌律师最后一个镜头后劲好大",
+        "onboard_time": 1678510767,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225342,
+        "num": 225342,
+        "word": "电影深海票房破9亿",
+        "onboard_time": 1678509809,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216396,
+        "num": 216396,
+        "word": "综合素质",
+        "onboard_time": 1678504710,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202708,
+        "num": 202708,
+        "word": "宋亚轩新歌",
+        "onboard_time": 1678511608,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199078,
+        "num": 199078,
+        "word": "灌篮高手11号流川枫出场",
+        "onboard_time": 1678504648,
+        "rank": 23,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 183024,
+        "num": 183024,
+        "word": "江苏省考",
+        "onboard_time": 1678506808,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163908,
+        "num": 163908,
+        "word": "张军当选为最高人民法院院长",
+        "onboard_time": 1678505129,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 162584,
+        "num": 162584,
+        "word": "长月烬明预约破200万",
+        "onboard_time": 1678504287,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161337,
+        "num": 161337,
+        "word": "马斯克回应推特收购硅谷银行",
+        "onboard_time": 1678507171,
+        "rank": 27,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 155640,
+        "num": 155640,
+        "word": "猛龙vs湖人",
+        "onboard_time": 1678507949,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146803,
+        "num": 146803,
+        "word": "WTT新加坡大满贯2023",
+        "onboard_time": 1678511430,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245830,
+        "num": 146611,
+        "word": "国务院总理任命现场视频",
+        "onboard_time": 1678508309,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 197302,
+        "num": 146485,
+        "word": "福岛滞销大米被制成餐具和外卖包装盒",
+        "onboard_time": 1678511249,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146093,
+        "num": 146093,
+        "word": "三亚榴莲6月将大规模上市",
+        "onboard_time": 1678493605,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 140868,
+        "num": 140868,
+        "word": "教资作文",
+        "onboard_time": 1678496066,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140337,
+        "num": 140337,
+        "word": "陈伟霆民国风皮衣造型",
+        "onboard_time": 1678510767,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138924,
+        "num": 138924,
+        "word": "全在俊结局",
+        "onboard_time": 1678491439,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129861,
+        "num": 129861,
+        "word": "硅谷银行倒闭",
+        "onboard_time": 1678491140,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128329,
+        "num": 128329,
+        "word": "阿姨说鹿晗顶多二十",
+        "onboard_time": 1678495345,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126887,
+        "num": 126887,
+        "word": "文东恩妈妈",
+        "onboard_time": 1678491801,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125141,
+        "num": 125141,
+        "word": "90后姑娘成全国唯一消防女飞行员",
+        "onboard_time": 1678500206,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117401,
+        "num": 117401,
+        "word": "美国取消对中国赴美旅客新冠检测要求",
+        "onboard_time": 1678492221,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113354,
+        "num": 113354,
+        "word": "Kakao和HYBE协议不再竞争SMTOWN",
+        "onboard_time": 1678499366,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108346,
+        "num": 108346,
+        "word": "决定张又侠何卫东为中央军委副主席",
+        "onboard_time": 1678505013,
+        "rank": 42,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 105123,
+        "num": 105123,
+        "word": "追星星的人今晚开播",
+        "onboard_time": 1678499366,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100746,
+        "num": 100746,
+        "word": "国务院机构改革有三大特点",
+        "onboard_time": 1678509630,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 95897,
+        "num": 95897,
+        "word": "王楚钦希望为中国队争取更多荣誉",
+        "onboard_time": 1678502785,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93542,
+        "num": 93542,
+        "word": "归路定档",
+        "onboard_time": 1678505910,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92258,
+        "num": 92258,
+        "word": "唐朝诡事录西行要开机了",
+        "onboard_time": 1678494746,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89898,
+        "num": 89898,
+        "word": "韩剧TV崩了",
+        "onboard_time": 1678464924,
+        "rank": 48,
+        "category": "科技,影视"
+      },
+      {
+        "raw_hot": 77178,
+        "num": 77178,
+        "word": "委员称年轻人想躺平更多是调侃",
+        "onboard_time": 1678493664,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国两会时光#"
+    }
+  }
+}

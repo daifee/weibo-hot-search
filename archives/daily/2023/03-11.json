@@ -1,6 +1,6 @@
 {
   "startTime": 1678465634906,
-  "endTime": 1678509420262,
+  "endTime": 1678511793913,
   "band_list": [
     {
       "raw_hot": 7304665,
@@ -35,6 +35,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1621720,
+      "num": 1621720,
+      "word": "苏炳添身体发软求破解",
+      "onboard_time": 1678507830,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1602399,
       "num": 717758,
       "word": "韩剧TV崩了",
@@ -49,6 +57,14 @@
       "onboard_time": 1678500866,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1367135,
+      "num": 1367135,
+      "word": "B站考虑取消前台播放量数据显示",
+      "onboard_time": 1678509030,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 1365095,
@@ -89,14 +105,6 @@
       "onboard_time": 1678492221,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 959842,
-      "num": 401633,
-      "word": "苏炳添身体发软求破解",
-      "onboard_time": 1678507830,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 834840,
@@ -243,8 +251,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 527225,
-      "num": 527225,
+      "raw_hot": 537630,
+      "num": 537630,
       "word": "专家说40岁就得为养老做打算",
       "onboard_time": 1678505673,
       "rank": 13,
@@ -347,6 +355,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 386232,
+      "num": 386232,
+      "word": "欧豪李一桐新剧开机",
+      "onboard_time": 1678509210,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 381108,
       "num": 381108,
       "word": "香港男子深圳上班每天通勤4小时",
@@ -395,14 +411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 345155,
-      "num": 345155,
-      "word": "欧豪李一桐新剧开机",
-      "onboard_time": 1678509210,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 337006,
       "num": 337006,
       "word": "谁在喝35元一杯的县城咖啡",
@@ -441,14 +449,6 @@
       "onboard_time": 1678503204,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 281406,
-      "num": 172465,
-      "word": "B站考虑取消前台播放量数据显示",
-      "onboard_time": 1678509030,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 276712,
@@ -507,6 +507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 245830,
+      "num": 171872,
+      "word": "国务院总理任命现场视频",
+      "onboard_time": 1678508309,
+      "rank": 44,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 240863,
       "num": 240863,
       "word": "星落女主变植物",
@@ -531,6 +539,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 232626,
+      "num": 232626,
+      "word": "毒舌律师最后一个镜头后劲好大",
+      "onboard_time": 1678510767,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231613,
       "num": 799124,
       "word": "会计专硕",
@@ -545,6 +561,14 @@
       "onboard_time": 1678461688,
       "rank": 27,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 225342,
+      "num": 225342,
+      "word": "电影深海票房破9亿",
+      "onboard_time": 1678509809,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 221573,
@@ -587,12 +611,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 202708,
+      "num": 202708,
+      "word": "宋亚轩新歌",
+      "onboard_time": 1678511608,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198861,
       "num": 188352,
       "word": "奥斯卡最佳影片提名电影官方混剪",
       "onboard_time": 1678497445,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197302,
+      "num": 146485,
+      "word": "福岛滞销大米被制成餐具和外卖包装盒",
+      "onboard_time": 1678511249,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194018,
@@ -641,14 +681,6 @@
       "onboard_time": 1678505910,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 176355,
-      "num": 171872,
-      "word": "国务院总理任命现场视频",
-      "onboard_time": 1678508309,
-      "rank": 44,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 174692,
@@ -731,8 +763,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155640,
+      "num": 155640,
+      "word": "猛龙vs湖人",
+      "onboard_time": 1678507949,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155515,
-      "num": 641465,
+      "num": 1491350,
       "word": "十四届全国人大一次会议第四次全体会议",
       "onboard_time": 1678495225,
       "rank": 31,
@@ -747,11 +787,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152104,
-      "num": 152104,
-      "word": "猛龙vs湖人",
-      "onboard_time": 1678507949,
-      "rank": 36,
+      "raw_hot": 146803,
+      "num": 146803,
+      "word": "WTT新加坡大满贯2023",
+      "onboard_time": 1678511430,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -761,6 +801,14 @@
       "onboard_time": 1678495706,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140337,
+      "num": 140337,
+      "word": "陈伟霆民国风皮衣造型",
+      "onboard_time": 1678510767,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 137587,
@@ -857,6 +905,14 @@
       "onboard_time": 1678454067,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100746,
+      "num": 100746,
+      "word": "国务院机构改革有三大特点",
+      "onboard_time": 1678509630,
+      "rank": 44,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 96963,
