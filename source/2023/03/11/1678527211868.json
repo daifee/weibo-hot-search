@@ -1,0 +1,410 @@
+{
+  "runTime": 1678527211868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 699689,
+        "num": 699689,
+        "word": "李强被任命为国务院总理",
+        "onboard_time": 1678504167,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 405029,
+        "num": 405029,
+        "word": "快递小哥每天给自己送上百包裹",
+        "onboard_time": 1678518026,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31338,
+        "num": 404682,
+        "word": "今年两会第三场委员通道",
+        "onboard_time": 1678524865,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 973474,
+        "num": 404029,
+        "word": "林孝埈 计时器",
+        "onboard_time": 1678523005,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474341,
+        "num": 403837,
+        "word": "B站考虑取消前台播放量数据显示",
+        "onboard_time": 1678509030,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 341910,
+        "num": 403324,
+        "word": "董明珠鼓励员工砸锅卖铁买格力股票",
+        "onboard_time": 1678518866,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 959040,
+        "num": 402780,
+        "word": "林孝埈被判犯规",
+        "onboard_time": 1678523366,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326245,
+        "num": 402350,
+        "word": "拜登回应沙特伊朗复交",
+        "onboard_time": 1678515027,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 265664,
+        "num": 401650,
+        "word": "教资科二",
+        "onboard_time": 1678518207,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209366,
+        "num": 401283,
+        "word": "短道速滑",
+        "onboard_time": 1678523727,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1753570,
+        "num": 400349,
+        "word": "台湾演员片酬",
+        "onboard_time": 1678525646,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1044935,
+        "num": 400216,
+        "word": "美国将公示丫丫乐乐回国证明",
+        "onboard_time": 1678524567,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810841,
+        "num": 399188,
+        "word": "女子存款百万被邮储银行员工取走",
+        "onboard_time": 1678517127,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 635651,
+        "num": 399136,
+        "word": "成龙外网人气",
+        "onboard_time": 1678525286,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1005929,
+        "num": 398169,
+        "word": "丫丫回国后将住进妈妈曾经的家",
+        "onboard_time": 1678523727,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555436,
+        "num": 397831,
+        "word": "王源演唱会",
+        "onboard_time": 1678524927,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 486839,
+        "num": 397364,
+        "word": "微博之夜确认出席艺人",
+        "onboard_time": 1678514665,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397007,
+        "num": 397007,
+        "word": "苏炳添身体发软求破解",
+        "onboard_time": 1678507830,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352157,
+        "num": 352157,
+        "word": "宁静问马伯骞知不知道我",
+        "onboard_time": 1678526185,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345079,
+        "num": 345079,
+        "word": "张元英wink镜头",
+        "onboard_time": 1678525166,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399394,
+        "num": 331493,
+        "word": "日本女游客在印度遭多名男子骚扰",
+        "onboard_time": 1678516228,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301869,
+        "num": 301869,
+        "word": "女孩带着怨气弹贝加尔湖",
+        "onboard_time": 1678522884,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 224731,
+        "num": 224731,
+        "word": "全国每年新发恶性肿瘤40%在农村",
+        "onboard_time": 1678525885,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202885,
+        "num": 202885,
+        "word": "许光汉单集片酬",
+        "onboard_time": 1678526724,
+        "rank": 23,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 202195,
+        "num": 202195,
+        "word": "黑暗荣耀2演技TOP3",
+        "onboard_time": 1678517725,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175660,
+        "num": 175660,
+        "word": "白头发是不是越拔越多",
+        "onboard_time": 1678526366,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202173,
+        "num": 168133,
+        "word": "黑暗荣耀2里的清醒台词",
+        "onboard_time": 1678525585,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158045,
+        "num": 158045,
+        "word": "刘耀文说要做三无演员",
+        "onboard_time": 1678523366,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153891,
+        "num": 153891,
+        "word": "浦发硅谷银行公告",
+        "onboard_time": 1678519588,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144525,
+        "num": 144525,
+        "word": "文东恩迎来19岁",
+        "onboard_time": 1678518568,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139160,
+        "num": 139160,
+        "word": "WE战胜iG",
+        "onboard_time": 1678524685,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138167,
+        "num": 138167,
+        "word": "流浪地球2国内首次泰坦拍摄",
+        "onboard_time": 1678521565,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134717,
+        "num": 134717,
+        "word": "梅西2022收入全球运动员第2",
+        "onboard_time": 1678513227,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128405,
+        "num": 128405,
+        "word": "专家说40岁就得为养老做打算",
+        "onboard_time": 1678505673,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128271,
+        "num": 128271,
+        "word": "IVE音中MySatisfaction舞台",
+        "onboard_time": 1678524265,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126057,
+        "num": 126057,
+        "word": "这里脊饼能把我下巴吃脱臼",
+        "onboard_time": 1678526607,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126056,
+        "num": 126056,
+        "word": "克拉岛",
+        "onboard_time": 1678520845,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117437,
+        "num": 117437,
+        "word": "公司规定不接董事长电话1次罚1万",
+        "onboard_time": 1678506750,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112547,
+        "num": 112547,
+        "word": "黑暗荣耀巫师",
+        "onboard_time": 1678518207,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108811,
+        "num": 108811,
+        "word": "樊振东",
+        "onboard_time": 1678515207,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108002,
+        "num": 108002,
+        "word": "华晨宇杭州演唱会秒售罄",
+        "onboard_time": 1678517246,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104628,
+        "num": 104628,
+        "word": "国务院总理李强将出席记者会",
+        "onboard_time": 1678512867,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 102125,
+        "num": 102125,
+        "word": "教资答案",
+        "onboard_time": 1678504832,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101043,
+        "num": 101043,
+        "word": "蛋仔派对果宝特攻",
+        "onboard_time": 1678527087,
+        "rank": 43,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 98419,
+        "num": 98419,
+        "word": "岳云鹏孟鹤堂假笑兄弟",
+        "onboard_time": 1678521807,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95309,
+        "num": 95309,
+        "word": "福岛滞销大米被制成餐具和外卖包装盒",
+        "onboard_time": 1678511249,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95249,
+        "num": 95249,
+        "word": "让2亿灵活就业者受关心更安心",
+        "onboard_time": 1678518387,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 86616,
+        "num": 86616,
+        "word": "NBA",
+        "onboard_time": 1678517067,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81286,
+        "num": 81286,
+        "word": "原来蛋糕可以美得像画一样",
+        "onboard_time": 1678502066,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79374,
+        "num": 79374,
+        "word": "江苏省考",
+        "onboard_time": 1678506808,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一切为了人民#"
+    }
+  }
+}
