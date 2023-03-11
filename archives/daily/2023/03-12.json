@@ -1,6 +1,6 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678556006804,
+  "endTime": 1678558883654,
   "band_list": [
     {
       "raw_hot": 1056517,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197029,
+      "num": 119951,
+      "word": "硅谷银行破产波及中国创业者",
+      "onboard_time": 1678554978,
+      "rank": 11,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 188758,
       "num": 188758,
       "word": "佘诗曼林峯9年后再合作",
@@ -329,14 +337,6 @@
       "onboard_time": 1678532188,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134162,
-      "num": 119951,
-      "word": "硅谷银行破产波及中国创业者",
-      "onboard_time": 1678554978,
-      "rank": 11,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 132979,
@@ -451,12 +451,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 58235,
-      "num": 58235,
+      "raw_hot": 79220,
+      "num": 79220,
       "word": "硅谷银行倒闭钱怎么办",
       "onboard_time": 1678555636,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 52500,
+      "num": 52500,
+      "word": "WBG BP",
+      "onboard_time": 1678557256,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 51649,
+      "num": 51649,
+      "word": "马伯骞录节目做翻译打两份工",
+      "onboard_time": 1678557495,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38283,
+      "num": 79866,
+      "word": "小学办公室的主要用途",
+      "onboard_time": 1678539689,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 32965,
@@ -465,6 +489,14 @@
       "onboard_time": 1678553540,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 28679,
+      "num": 34037,
+      "word": "一口气炫完黑暗荣耀",
+      "onboard_time": 1678557075,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 25386,

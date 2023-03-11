@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678556006804,
+  "endTime": 1678558883654,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -8115,6 +8115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197029,
+      "num": 119951,
+      "word": "硅谷银行破产波及中国创业者",
+      "onboard_time": 1678554978,
+      "rank": 11,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 196736,
       "num": 182920,
       "word": "宁艺卓转身名场面",
@@ -10235,14 +10243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134162,
-      "num": 119951,
-      "word": "硅谷银行破产波及中国创业者",
-      "onboard_time": 1678554978,
-      "rank": 11,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 133846,
       "num": 133846,
       "word": "宋亚轩的创意是社恐客栈",
@@ -12019,6 +12019,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 79220,
+      "num": 79220,
+      "word": "硅谷银行倒闭钱怎么办",
+      "onboard_time": 1678555636,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 78515,
       "num": 78515,
       "word": "雷霆vs太阳",
@@ -12235,14 +12243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 58235,
-      "num": 58235,
-      "word": "硅谷银行倒闭钱怎么办",
-      "onboard_time": 1678555636,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 57873,
       "num": 57873,
       "word": "王鹤棣黑衬衫",
@@ -12305,6 +12305,22 @@
       "onboard_time": 1678120939,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 52500,
+      "num": 52500,
+      "word": "WBG BP",
+      "onboard_time": 1678557256,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 51649,
+      "num": 51649,
+      "word": "马伯骞录节目做翻译打两份工",
+      "onboard_time": 1678557495,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 50224,
@@ -12432,6 +12448,14 @@
       "word": "宋祖儿和小朋友跳舞",
       "onboard_time": 1678050612,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 28679,
+      "num": 34037,
+      "word": "一口气炫完黑暗荣耀",
+      "onboard_time": 1678557075,
+      "rank": 48,
       "category": "影视"
     },
     {
