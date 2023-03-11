@@ -1,0 +1,410 @@
+{
+  "runTime": 1678548825017,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 841356,
+        "num": 841356,
+        "word": "真的好想有个广西的朋友啊",
+        "onboard_time": 1678537348,
+        "rank": 0,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 593017,
+        "num": 593017,
+        "word": "二十六七岁多么美好的年纪",
+        "onboard_time": 1678530086,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32554,
+        "num": 575327,
+        "word": "微观2023全国两会",
+        "onboard_time": 1678545387,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1071905,
+        "num": 569983,
+        "word": "高龄产妇剖宫诞下羊膜护体宝宝",
+        "onboard_time": 1678546469,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561808,
+        "num": 561808,
+        "word": "林葳绝杀",
+        "onboard_time": 1678543169,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 492426,
+        "num": 492426,
+        "word": "赵睿",
+        "onboard_time": 1678545628,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415686,
+        "num": 415686,
+        "word": "星落凝成糖番外",
+        "onboard_time": 1678542508,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429899,
+        "num": 398590,
+        "word": "育龄青年为什么不愿生了",
+        "onboard_time": 1678537230,
+        "rank": 7,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 365648,
+        "num": 365648,
+        "word": "RNG战胜WBG",
+        "onboard_time": 1678544908,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294981,
+        "num": 364995,
+        "word": "DRG战胜eStar",
+        "onboard_time": 1678546767,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 678297,
+        "num": 364039,
+        "word": "林心如贾静雯徐熙娣此时此刻预告",
+        "onboard_time": 1678547070,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547967,
+        "num": 362598,
+        "word": "黑暗荣耀2编剧能力",
+        "onboard_time": 1678545148,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505327,
+        "num": 360928,
+        "word": "绥化一村民家房梁现神秘骨架",
+        "onboard_time": 1678542208,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423776,
+        "num": 359879,
+        "word": "佘诗曼林峯9年后再合作",
+        "onboard_time": 1678544849,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358968,
+        "num": 358968,
+        "word": "陈伟霆被问合作三字女星秒答赵丽颖",
+        "onboard_time": 1678541968,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338310,
+        "num": 338310,
+        "word": "李强简历",
+        "onboard_time": 1678535005,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306369,
+        "num": 306369,
+        "word": "台湾演员片酬",
+        "onboard_time": 1678525646,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304393,
+        "num": 304393,
+        "word": "丫丫回国后将住进妈妈曾经的家",
+        "onboard_time": 1678523727,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265379,
+        "num": 265379,
+        "word": "夜昙青葵没化为人形",
+        "onboard_time": 1678538069,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261535,
+        "num": 261535,
+        "word": "市监局回应男子点帝王蟹疑被调包",
+        "onboard_time": 1678543408,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380966,
+        "num": 261097,
+        "word": "拾荒男子用冥币买羊肝老板娘装不知情",
+        "onboard_time": 1678542928,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260597,
+        "num": 260597,
+        "word": "现在的求职有多难",
+        "onboard_time": 1678539987,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247664,
+        "num": 247664,
+        "word": "WBG RNG",
+        "onboard_time": 1678538549,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244487,
+        "num": 244487,
+        "word": "capper现场",
+        "onboard_time": 1678545569,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242828,
+        "num": 242828,
+        "word": "大张伟澳门开唱",
+        "onboard_time": 1678547670,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241126,
+        "num": 241126,
+        "word": "赵樱子发长文告别无限超越班",
+        "onboard_time": 1678540889,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238759,
+        "num": 238759,
+        "word": "河道英吃文东恩的紫菜饭团",
+        "onboard_time": 1678534349,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227183,
+        "num": 227183,
+        "word": "成都大风",
+        "onboard_time": 1678537529,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224990,
+        "num": 224990,
+        "word": "赵英俊为大鹏选定了保你平安剧本",
+        "onboard_time": 1678536749,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212794,
+        "num": 212794,
+        "word": "美国将公示丫丫乐乐回国证明",
+        "onboard_time": 1678524567,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1171432,
+        "num": 212660,
+        "word": "庆余年2 范思辙",
+        "onboard_time": 1678531467,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443344,
+        "num": 211671,
+        "word": "女生辞职考研八次失败",
+        "onboard_time": 1678534706,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 210487,
+        "num": 210487,
+        "word": "比顾里生日更热闹的是孙明悟的葬礼",
+        "onboard_time": 1678547908,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201627,
+        "num": 201627,
+        "word": "全场大合唱真的很治愈",
+        "onboard_time": 1678547968,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199053,
+        "num": 200684,
+        "word": "秦霄贤误碰水箱淋李雪琴一身水",
+        "onboard_time": 1678547249,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200120,
+        "num": 200120,
+        "word": "朴树郑州演唱会",
+        "onboard_time": 1678547010,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199149,
+        "num": 199149,
+        "word": "北京下雨",
+        "onboard_time": 1678538188,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184315,
+        "num": 184315,
+        "word": "你好星期六下周有丁程鑫",
+        "onboard_time": 1678540648,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183594,
+        "num": 183594,
+        "word": "郑乃馨泰国演唱会",
+        "onboard_time": 1678543588,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183400,
+        "num": 183400,
+        "word": "林孝埈回应",
+        "onboard_time": 1678532188,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178817,
+        "num": 178817,
+        "word": "权顺荣翻唱事件的地平线",
+        "onboard_time": 1678544908,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151165,
+        "num": 151165,
+        "word": "回廊亭 16分钟",
+        "onboard_time": 1678536388,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148132,
+        "num": 148132,
+        "word": "如何增强教师的幸福感",
+        "onboard_time": 1678540889,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 136230,
+        "num": 136230,
+        "word": "陈梦比赛",
+        "onboard_time": 1678542688,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133421,
+        "num": 133421,
+        "word": "教资科三",
+        "onboard_time": 1678528767,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132673,
+        "num": 132673,
+        "word": "小学办公室的主要用途",
+        "onboard_time": 1678539689,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130052,
+        "num": 130052,
+        "word": "白敬亭新剧宣传一碗水端平",
+        "onboard_time": 1678530926,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118946,
+        "num": 118946,
+        "word": "陈星旭李兰迪牵红线",
+        "onboard_time": 1678543889,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116939,
+        "num": 116939,
+        "word": "还有包包专用的衣架",
+        "onboard_time": 1678548566,
+        "rank": 48,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 111406,
+        "num": 111406,
+        "word": "GALA卡莎五杀",
+        "onboard_time": 1678538789,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#一切为了人民#"
+    }
+  }
+}
