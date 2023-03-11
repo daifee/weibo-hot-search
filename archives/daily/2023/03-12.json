@@ -1,6 +1,6 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678552819469,
+  "endTime": 1678554936625,
   "band_list": [
     {
       "raw_hot": 1056517,
@@ -81,6 +81,14 @@
       "onboard_time": 1678545148,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329936,
+      "num": 132850,
+      "word": "柯南警校篇完结",
+      "onboard_time": 1678552940,
+      "rank": 3,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 318691,
@@ -323,6 +331,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132979,
+      "num": 132979,
+      "word": "如何增强教师的幸福感",
+      "onboard_time": 1678540889,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 132421,
+      "num": 132421,
+      "word": "惠英红把导演椅送郭晓婷",
+      "onboard_time": 1678553780,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131902,
       "num": 131902,
       "word": "大张伟澳门开唱",
@@ -339,8 +363,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 125169,
-      "num": 125169,
+      "raw_hot": 129033,
+      "num": 129033,
       "word": "见过最荒谬的剧情",
       "onboard_time": 1678551264,
       "rank": 45,
@@ -355,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115909,
-      "num": 115909,
-      "word": "如何增强教师的幸福感",
-      "onboard_time": 1678540889,
-      "rank": 44,
-      "category": "教育,社会新闻"
+      "raw_hot": 104863,
+      "num": 104863,
+      "word": "周汝正人设天花板",
+      "onboard_time": 1678553182,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 103748,
@@ -395,11 +419,51 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 94959,
+      "num": 132625,
+      "word": "硅谷银行",
+      "onboard_time": 1678541430,
+      "rank": 7,
+      "category": "财经,科技"
+    },
+    {
+      "raw_hot": 85213,
+      "num": 74191,
+      "word": "星落凝成糖 意难平",
+      "onboard_time": 1678554439,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 71509,
+      "num": 68356,
+      "word": "黑暗荣耀房东奶奶",
+      "onboard_time": 1678553720,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 27907,
+      "num": 132795,
+      "word": "转播车视角揭秘两会直播",
+      "onboard_time": 1678553540,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 25386,
       "num": 481704,
       "word": "微观2023全国两会",
       "onboard_time": 1678545387,
       "rank": 2,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 20089,
+      "num": 132528,
+      "word": "100秒了解第3场委员通道说了啥",
+      "onboard_time": 1678553540,
+      "rank": 9,
       "category": "国内要闻"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678552819469,
+  "endTime": 1678554936625,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -5339,6 +5339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 329936,
+      "num": 132850,
+      "word": "柯南警校篇完结",
+      "onboard_time": 1678552940,
+      "rank": 3,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 328592,
       "num": 328592,
       "word": "解说娃娃晒合影",
@@ -10267,6 +10275,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 132421,
+      "num": 132421,
+      "word": "惠英红把导演椅送郭晓婷",
+      "onboard_time": 1678553780,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132099,
       "num": 132099,
       "word": "记忆余烬",
@@ -10321,6 +10337,14 @@
       "onboard_time": 1678373309,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129033,
+      "num": 129033,
+      "word": "见过最荒谬的剧情",
+      "onboard_time": 1678551264,
+      "rank": 45,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 128966,
@@ -10529,14 +10553,6 @@
       "onboard_time": 1678074148,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125169,
-      "num": 125169,
-      "word": "见过最荒谬的剧情",
-      "onboard_time": 1678551264,
-      "rank": 45,
-      "category": "幽默,影视"
     },
     {
       "raw_hot": 125009,
@@ -11323,6 +11339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 104863,
+      "num": 104863,
+      "word": "周汝正人设天花板",
+      "onboard_time": 1678553182,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 104798,
       "num": 104798,
       "word": "铿锵玫瑰",
@@ -11867,6 +11891,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 85213,
+      "num": 74191,
+      "word": "星落凝成糖 意难平",
+      "onboard_time": 1678554439,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 85200,
       "num": 85200,
       "word": "关键球还得是杜兰特",
@@ -12073,6 +12105,14 @@
       "onboard_time": 1678220351,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71509,
+      "num": 68356,
+      "word": "黑暗荣耀房东奶奶",
+      "onboard_time": 1678553720,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 70531,
@@ -12379,6 +12419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27907,
+      "num": 132795,
+      "word": "转播车视角揭秘两会直播",
+      "onboard_time": 1678553540,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 27790,
       "num": 117301,
       "word": "四驱对新能源重要吗",
@@ -12409,6 +12457,14 @@
       "onboard_time": 1678266028,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20089,
+      "num": 132528,
+      "word": "100秒了解第3场委员通道说了啥",
+      "onboard_time": 1678553540,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 19376,
