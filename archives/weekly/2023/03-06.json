@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678502813947,
+  "endTime": 1678504751473,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -33,6 +33,14 @@
       "onboard_time": 1678238605,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 6531211,
+      "num": 7781211,
+      "word": "李强被任命为国务院总理",
+      "onboard_time": 1678504167,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 5751610,
@@ -627,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1414532,
+      "num": 1414532,
+      "word": "教资",
+      "onboard_time": 1678074148,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1408550,
       "num": 598491,
       "word": "丫丫回国将实现吃喝自由",
@@ -668,7 +684,7 @@
     },
     {
       "raw_hot": 1381808,
-      "num": 556139,
+      "num": 1316780,
       "word": "董明珠称大学生去打螺钉没什么不可以",
       "onboard_time": 1678500866,
       "rank": 3,
@@ -689,6 +705,14 @@
       "onboard_time": 1678068026,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1365095,
+      "num": 1365095,
+      "word": "教资作文",
+      "onboard_time": 1678496066,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 1358478,
@@ -756,7 +780,7 @@
     },
     {
       "raw_hot": 1263575,
-      "num": 354794,
+      "num": 376915,
       "word": "我回了 回了沉默",
       "onboard_time": 1678499247,
       "rank": 10,
@@ -1860,7 +1884,7 @@
     },
     {
       "raw_hot": 690654,
-      "num": 221701,
+      "num": 250674,
       "word": "阿姨说鹿晗顶多二十",
       "onboard_time": 1678495345,
       "rank": 21,
@@ -2084,7 +2108,7 @@
     },
     {
       "raw_hot": 648236,
-      "num": 304981,
+      "num": 359049,
       "word": "田曦薇民国风造型",
       "onboard_time": 1678502245,
       "rank": 11,
@@ -2401,6 +2425,14 @@
       "onboard_time": 1678246948,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586144,
+      "num": 586144,
+      "word": "为何高考选理科人数下降",
+      "onboard_time": 1678502066,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 585416,
@@ -2905,6 +2937,14 @@
       "onboard_time": 1678148126,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517238,
+      "num": 517238,
+      "word": "原来蛋糕可以美得像画一样",
+      "onboard_time": 1678502066,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 517087,
@@ -3515,6 +3555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427345,
+      "num": 427345,
+      "word": "王楚钦希望为中国队争取更多荣誉",
+      "onboard_time": 1678502785,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426829,
       "num": 426829,
       "word": "Hero 让我心梗",
@@ -3785,6 +3833,14 @@
       "onboard_time": 1678226414,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 395410,
+      "num": 395410,
+      "word": "长月烬明预约破200万",
+      "onboard_time": 1678504287,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 393073,
@@ -4443,14 +4499,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 341304,
-      "num": 341304,
-      "word": "教资作文",
-      "onboard_time": 1678496066,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 340257,
       "num": 340257,
       "word": "网友前往孟菲斯动物园看望丫丫",
@@ -4571,14 +4619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 329066,
-      "num": 329066,
-      "word": "教资",
-      "onboard_time": 1678074148,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
       "raw_hot": 328592,
       "num": 328592,
       "word": "解说娃娃晒合影",
@@ -4657,6 +4697,14 @@
       "onboard_time": 1678347326,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321939,
+      "num": 321939,
+      "word": "灌篮高手11号流川枫出场",
+      "onboard_time": 1678504648,
+      "rank": 15,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 321617,
@@ -5113,6 +5161,14 @@
       "onboard_time": 1678441829,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 285436,
+      "num": 285436,
+      "word": "恩比德绝杀开拓者",
+      "onboard_time": 1678503204,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 284800,
@@ -5705,14 +5761,6 @@
       "onboard_time": 1678170147,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 242641,
-      "num": 242641,
-      "word": "为何高考选理科人数下降",
-      "onboard_time": 1678502066,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 242314,
@@ -6331,6 +6379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209981,
+      "num": 209981,
+      "word": "曾黎意大利杂志开季刊封面",
+      "onboard_time": 1678502126,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 209927,
       "num": 209927,
       "word": "组建国家数据局",
@@ -6385,14 +6441,6 @@
       "onboard_time": 1678102286,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208374,
-      "num": 208374,
-      "word": "原来蛋糕可以美得像画一样",
-      "onboard_time": 1678502066,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 208235,
@@ -7331,14 +7379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188837,
-      "num": 188837,
-      "word": "曾黎意大利杂志开季刊封面",
-      "onboard_time": 1678502126,
-      "rank": 38,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 188705,
       "num": 188705,
       "word": "华晨宇新歌MV像修行的散文诗",
@@ -7385,14 +7425,6 @@
       "onboard_time": 1678086205,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 187814,
-      "num": 165337,
-      "word": "王楚钦希望为中国队争取更多荣誉",
-      "onboard_time": 1678502785,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 187624,
@@ -7713,6 +7745,14 @@
       "onboard_time": 1678031845,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175826,
+      "num": 175826,
+      "word": "综合素质",
+      "onboard_time": 1678504710,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 175540,
@@ -8211,6 +8251,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 155772,
+      "num": 155772,
+      "word": "变形金刚7角色海报",
+      "onboard_time": 1678499247,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 155524,
       "num": 155524,
       "word": "建议中国企业要敢于在国际上出题",
@@ -8233,14 +8281,6 @@
       "onboard_time": 1678244967,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155290,
-      "num": 155290,
-      "word": "变形金刚7角色海报",
-      "onboard_time": 1678499247,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 154849,
@@ -10620,7 +10660,7 @@
     },
     {
       "raw_hot": 73787,
-      "num": 1307704,
+      "num": 1366078,
       "word": "9个高频词速览政府工作报告",
       "onboard_time": 1678455030,
       "rank": 2,
