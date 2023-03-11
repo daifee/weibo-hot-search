@@ -1,7 +1,15 @@
 {
   "startTime": 1678465634906,
-  "endTime": 1678491221873,
+  "endTime": 1678497866965,
   "band_list": [
+    {
+      "raw_hot": 2118432,
+      "num": 2118432,
+      "word": "人大议程将决定国务院总理人选",
+      "onboard_time": 1678491620,
+      "rank": 0,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 1602399,
       "num": 717758,
@@ -11,12 +19,36 @@
       "category": "科技,影视"
     },
     {
+      "raw_hot": 1052659,
+      "num": 1052659,
+      "word": "硅谷银行倒闭",
+      "onboard_time": 1678491140,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 978220,
+      "num": 978220,
+      "word": "美国取消对中国赴美旅客新冠检测要求",
+      "onboard_time": 1678492221,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 834840,
       "num": 834840,
       "word": "伊朗沙特恢复外交关系",
       "onboard_time": 1678458089,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 774949,
+      "num": 774949,
+      "word": "三亚榴莲6月将大规模上市",
+      "onboard_time": 1678493605,
+      "rank": 4,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 711097,
@@ -35,12 +67,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 684333,
+      "num": 684333,
+      "word": "委员称年轻人想躺平更多是调侃",
+      "onboard_time": 1678493664,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662071,
       "num": 662071,
       "word": "疯狂小杨哥带货又翻车",
       "onboard_time": 1678442132,
       "rank": 12,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 561967,
+      "num": 201037,
+      "word": "阿姨说鹿晗顶多二十",
+      "onboard_time": 1678495345,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 557486,
+      "num": 557486,
+      "word": "唐朝诡事录西行要开机了",
+      "onboard_time": 1678494746,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 522947,
@@ -107,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348020,
+      "num": 247940,
+      "word": "全在俊结局",
+      "onboard_time": 1678491439,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337006,
       "num": 337006,
       "word": "谁在喝35元一杯的县城咖啡",
@@ -131,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286592,
+      "num": 286592,
+      "word": "教资",
+      "onboard_time": 1678492643,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 266182,
       "num": 266182,
       "word": "WBG 海报",
@@ -147,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259750,
+      "num": 218463,
+      "word": "黑暗荣耀2最后一句台词是我爱你",
+      "onboard_time": 1678475532,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255235,
       "num": 294864,
       "word": "星落凝成糖 山河表里",
@@ -155,12 +235,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254908,
+      "num": 214262,
+      "word": "硅谷银行倒闭有何影响",
+      "onboard_time": 1678496845,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 254890,
+      "num": 254890,
+      "word": "教资作文",
+      "onboard_time": 1678496066,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 237577,
       "num": 237577,
       "word": "黑暗荣耀2",
       "onboard_time": 1678440630,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236461,
+      "num": 209333,
+      "word": "文东恩妈妈",
+      "onboard_time": 1678491801,
+      "rank": 18,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 231613,
@@ -203,11 +307,11 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 209043,
-      "num": 209043,
-      "word": "黑暗荣耀2最后一句台词是我爱你",
-      "onboard_time": 1678475532,
-      "rank": 14,
+      "raw_hot": 198861,
+      "num": 155754,
+      "word": "奥斯卡最佳影片提名电影官方混剪",
+      "onboard_time": 1678497445,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -259,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167345,
+      "num": 167345,
+      "word": "黑暗荣耀2豆瓣9.3分",
+      "onboard_time": 1678492943,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165006,
       "num": 208919,
       "word": "最强大脑10脑王候选人",
@@ -291,12 +403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155515,
+      "num": 155515,
+      "word": "十四届全国人大一次会议第四次全体会议",
+      "onboard_time": 1678495225,
+      "rank": 31,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 152940,
       "num": 208428,
       "word": "张译新剧他是谁央8排播",
       "onboard_time": 1678454309,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 143673,
+      "num": 143673,
+      "word": "羽生结弦冰演",
+      "onboard_time": 1678495706,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 137587,
@@ -307,6 +435,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 135988,
+      "num": 135988,
+      "word": "2023看两会",
+      "onboard_time": 1678496305,
+      "rank": 35,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 133846,
+      "num": 133846,
+      "word": "宋亚轩的创意是社恐客栈",
+      "onboard_time": 1678494024,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130435,
       "num": 208010,
       "word": "鹿晗领养的老虎叫五哈",
@@ -315,7 +459,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121483,
+      "raw_hot": 126788,
+      "num": 126788,
+      "word": "本泽马说德尚是小丑",
+      "onboard_time": 1678497506,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123007,
       "num": 207505,
       "word": "邓超遇见冰雪甄嬛",
       "onboard_time": 1678456649,
@@ -339,20 +491,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 116261,
+      "num": 116261,
+      "word": "国务院机构改革要点双语版",
+      "onboard_time": 1678494445,
+      "rank": 40,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 111551,
+      "num": 111551,
+      "word": "淄博烧烤节",
+      "onboard_time": 1678481531,
+      "rank": 37,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 110590,
       "num": 207540,
       "word": "妍珍的笑",
       "onboard_time": 1678464626,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 104585,
-      "num": 104585,
-      "word": "硅谷银行倒闭",
-      "onboard_time": 1678491140,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 101781,
@@ -387,6 +547,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 92048,
+      "num": 92048,
+      "word": "灌篮高手日本电影学院奖最佳动画片",
+      "onboard_time": 1678492582,
+      "rank": 46,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 91243,
       "num": 207308,
       "word": "国家线公布后的心情",
@@ -409,14 +577,6 @@
       "onboard_time": 1678456048,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 79714,
-      "num": 79714,
-      "word": "淄博烧烤节",
-      "onboard_time": 1678481531,
-      "rank": 37,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 77372,
@@ -451,8 +611,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 33531,
-      "num": 819075,
+      "raw_hot": 34870,
+      "num": 996326,
       "word": "9个高频词速览政府工作报告",
       "onboard_time": 1678455030,
       "rank": 2,
