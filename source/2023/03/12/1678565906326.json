@@ -1,0 +1,410 @@
+{
+  "runTime": 1678565906326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 39316,
+        "num": 39316,
+        "word": "李强简历",
+        "onboard_time": 1678535005,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13394,
+        "num": 36922,
+        "word": "转播车视角揭秘两会直播",
+        "onboard_time": 1678553540,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 8535,
+        "num": 36197,
+        "word": "微观2023全国两会",
+        "onboard_time": 1678545387,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 50643,
+        "num": 36181,
+        "word": "从身高看怎样算生长迟缓",
+        "onboard_time": 1678560794,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36157,
+        "num": 36157,
+        "word": "柯南警校篇完结",
+        "onboard_time": 1678552940,
+        "rank": 4,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 24791,
+        "num": 36028,
+        "word": "WBG RNG",
+        "onboard_time": 1678538549,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21190,
+        "num": 35692,
+        "word": "夜昙青葵没化为人形",
+        "onboard_time": 1678538069,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13977,
+        "num": 35352,
+        "word": "教资科三",
+        "onboard_time": 1678528767,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21624,
+        "num": 35167,
+        "word": "WBG BP",
+        "onboard_time": 1678557256,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11874,
+        "num": 34903,
+        "word": "100秒了解第3场委员通道说了啥",
+        "onboard_time": 1678553540,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 67745,
+        "num": 34661,
+        "word": "硅谷银行破产波及中国创业者",
+        "onboard_time": 1678554978,
+        "rank": 10,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 57749,
+        "num": 34209,
+        "word": "黑暗荣耀2后劲",
+        "onboard_time": 1678563014,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34198,
+        "num": 34198,
+        "word": "赵英俊为大鹏选定了保你平安剧本",
+        "onboard_time": 1678536749,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31100,
+        "num": 31100,
+        "word": "马伯骞录节目做翻译打两份工",
+        "onboard_time": 1678557495,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30815,
+        "num": 30815,
+        "word": "硅谷银行",
+        "onboard_time": 1678541430,
+        "rank": 14,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 28690,
+        "num": 28690,
+        "word": "绥化一村民家房梁现神秘骨架",
+        "onboard_time": 1678542208,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27267,
+        "num": 27267,
+        "word": "卓沅说他一年赚不到2万块",
+        "onboard_time": 1678563852,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26952,
+        "num": 26952,
+        "word": "美国将公示丫丫乐乐回国证明",
+        "onboard_time": 1678524567,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25867,
+        "num": 25867,
+        "word": "市监局回应男子点帝王蟹疑被调包",
+        "onboard_time": 1678543408,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23758,
+        "num": 23758,
+        "word": "硅谷银行倒闭钱怎么办",
+        "onboard_time": 1678555636,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58979,
+        "num": 23744,
+        "word": "林心如贾静雯徐熙娣此时此刻预告",
+        "onboard_time": 1678547070,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27048,
+        "num": 23564,
+        "word": "拾荒男子用冥币买羊肝老板娘装不知情",
+        "onboard_time": 1678542928,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23072,
+        "num": 23072,
+        "word": "佘诗曼林峯9年后再合作",
+        "onboard_time": 1678544849,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23050,
+        "num": 23050,
+        "word": "一口气炫完黑暗荣耀",
+        "onboard_time": 1678557075,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20980,
+        "num": 20980,
+        "word": "惠英红把导演椅送郭晓婷",
+        "onboard_time": 1678553780,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20626,
+        "num": 20626,
+        "word": "小学办公室的主要用途",
+        "onboard_time": 1678539689,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20599,
+        "num": 20599,
+        "word": "无限超越班结业大戏观后感",
+        "onboard_time": 1678551564,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20454,
+        "num": 20454,
+        "word": "台湾演员片酬",
+        "onboard_time": 1678525646,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20430,
+        "num": 20430,
+        "word": "河道英吃文东恩的紫菜饭团",
+        "onboard_time": 1678534349,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20059,
+        "num": 20059,
+        "word": "刘耀文收官vlog",
+        "onboard_time": 1678551683,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88934,
+        "num": 20052,
+        "word": "庆余年2 范思辙",
+        "onboard_time": 1678531467,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76986,
+        "num": 19965,
+        "word": "高龄产妇剖宫诞下羊膜护体宝宝",
+        "onboard_time": 1678546469,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45544,
+        "num": 19927,
+        "word": "美团称没有存款在硅谷银行",
+        "onboard_time": 1678549586,
+        "rank": 32,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 45303,
+        "num": 19872,
+        "word": "二十六七岁多么美好的年纪",
+        "onboard_time": 1678530086,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32652,
+        "num": 19818,
+        "word": "育龄青年为什么不愿生了",
+        "onboard_time": 1678537230,
+        "rank": 34,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 19809,
+        "num": 19809,
+        "word": "RNG战胜WBG",
+        "onboard_time": 1678544908,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28231,
+        "num": 19804,
+        "word": "女生辞职考研八次失败",
+        "onboard_time": 1678534706,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 26052,
+        "num": 19783,
+        "word": "成都大风",
+        "onboard_time": 1678537529,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23579,
+        "num": 19742,
+        "word": "真的好想有个广西的朋友啊",
+        "onboard_time": 1678537348,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 19902,
+        "num": 19717,
+        "word": "黑暗荣耀2编剧能力",
+        "onboard_time": 1678545148,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19716,
+        "num": 19716,
+        "word": "黑暗荣耀房东奶奶",
+        "onboard_time": 1678553720,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19585,
+        "num": 19585,
+        "word": "DRG战胜eStar",
+        "onboard_time": 1678546767,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18922,
+        "num": 18922,
+        "word": "丫丫回国后将住进妈妈曾经的家",
+        "onboard_time": 1678523727,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18755,
+        "num": 18755,
+        "word": "林孝埈回应",
+        "onboard_time": 1678532188,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17623,
+        "num": 17623,
+        "word": "林葳绝杀",
+        "onboard_time": 1678543169,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17270,
+        "num": 17270,
+        "word": "星落凝成糖番外",
+        "onboard_time": 1678542508,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16524,
+        "num": 16524,
+        "word": "赵睿",
+        "onboard_time": 1678545628,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16113,
+        "num": 16113,
+        "word": "capper现场",
+        "onboard_time": 1678545569,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16084,
+        "num": 16084,
+        "word": "如何增强教师的幸福感",
+        "onboard_time": 1678540889,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 15910,
+        "num": 15910,
+        "word": "上班时最崩溃的事",
+        "onboard_time": 1678565832,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
