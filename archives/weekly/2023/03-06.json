@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678545203201,
+  "endTime": 1678547841285,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -1084,7 +1084,7 @@
     },
     {
       "raw_hot": 1094499,
-      "num": 628290,
+      "num": 643561,
       "word": "二十六七岁多么美好的年纪",
       "onboard_time": 1678530086,
       "rank": 26,
@@ -1619,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 843380,
+      "num": 843380,
+      "word": "真的好想有个广西的朋友啊",
+      "onboard_time": 1678537348,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 841523,
       "num": 841523,
       "word": "国家医保局回应患者15天必须出院",
@@ -2051,6 +2059,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 715531,
+      "num": 455321,
+      "word": "绥化一村民家房梁现神秘骨架",
+      "onboard_time": 1678542208,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713467,
       "num": 713467,
       "word": "专家不建议普通人下场炒股",
@@ -2299,6 +2315,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 657072,
+      "num": 435197,
+      "word": "高龄产妇剖宫诞下羊膜护体宝宝",
+      "onboard_time": 1678546469,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 655099,
       "num": 655099,
       "word": "汽车全面降价的时代来了吗",
@@ -2529,14 +2553,6 @@
       "onboard_time": 1678087767,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 618982,
-      "num": 618982,
-      "word": "真的好想有个广西的朋友啊",
-      "onboard_time": 1678537348,
-      "rank": 22,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 616472,
@@ -2888,14 +2904,6 @@
       "word": "曲阜师范女大学生考研前期确诊血癌",
       "onboard_time": 1678247007,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 567049,
-      "num": 455321,
-      "word": "绥化一村民家房梁现神秘骨架",
-      "onboard_time": 1678542208,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -3763,6 +3771,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 472424,
+      "num": 431069,
+      "word": "黑暗荣耀2编剧能力",
+      "onboard_time": 1678545148,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472269,
       "num": 279380,
       "word": "欧阳娜娜收到张大大小卡的反应",
@@ -3793,6 +3809,14 @@
       "onboard_time": 1678347626,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 467383,
+      "num": 467383,
+      "word": "赵睿",
+      "onboard_time": 1678545628,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 462968,
@@ -3881,6 +3905,14 @@
       "onboard_time": 1678153344,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444213,
+      "num": 444213,
+      "word": "RNG战胜WBG",
+      "onboard_time": 1678544908,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 442728,
@@ -3985,14 +4017,6 @@
       "onboard_time": 1678247488,
       "rank": 15,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 433364,
-      "num": 291094,
-      "word": "RNG战胜WBG",
-      "onboard_time": 1678544908,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 433085,
@@ -4129,6 +4153,14 @@
       "onboard_time": 1678086687,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412224,
+      "num": 412224,
+      "word": "佘诗曼林峯9年后再合作",
+      "onboard_time": 1678544849,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 411986,
@@ -4547,6 +4579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377790,
+      "num": 443508,
+      "word": "DRG战胜eStar",
+      "onboard_time": 1678546767,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 376589,
       "num": 260009,
       "word": "吴磊赵今麦撒娇路透",
@@ -4673,6 +4713,14 @@
       "onboard_time": 1678071326,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368714,
+      "num": 368714,
+      "word": "林心如贾静雯徐熙娣此时此刻预告",
+      "onboard_time": 1678547070,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 368339,
@@ -6531,6 +6579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 242965,
+      "num": 242965,
+      "word": "capper现场",
+      "onboard_time": 1678545569,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 242347,
       "num": 242347,
       "word": "姚晨当监制把自己的戏剪掉了",
@@ -7529,14 +7585,6 @@
       "onboard_time": 1678106786,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204726,
-      "num": 204726,
-      "word": "黑暗荣耀2编剧能力",
-      "onboard_time": 1678545148,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 204477,
@@ -8587,6 +8635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181722,
+      "num": 181722,
+      "word": "大张伟澳门开唱",
+      "onboard_time": 1678547670,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181544,
       "num": 408891,
       "word": "心想事成",
@@ -8641,6 +8697,14 @@
       "onboard_time": 1678444467,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 180453,
+      "num": 180453,
+      "word": "秦霄贤误碰水箱淋李雪琴一身水",
+      "onboard_time": 1678547249,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 180382,
@@ -8947,14 +9011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170330,
-      "num": 170330,
-      "word": "佘诗曼林峯9年后再合作",
-      "onboard_time": 1678544849,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169943,
       "num": 169943,
       "word": "亚运会官旗回应首批特许商品抢断货",
@@ -9153,6 +9209,14 @@
       "onboard_time": 1678169006,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 163780,
+      "num": 163780,
+      "word": "朴树郑州演唱会",
+      "onboard_time": 1678547010,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 163594,
@@ -12177,6 +12241,14 @@
       "onboard_time": 1678224016,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31733,
+      "num": 643008,
+      "word": "微观2023全国两会",
+      "onboard_time": 1678545387,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 31082,
