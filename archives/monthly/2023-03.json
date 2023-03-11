@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678544125245,
+  "endTime": 1678545203201,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1979,20 +1979,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1064576,
+      "num": 1059803,
+      "word": "林葳绝杀",
+      "onboard_time": 1678543169,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1061423,
       "num": 420007,
       "word": "黎姿首次正面回应退圈原因",
       "onboard_time": 1678276408,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1059803,
-      "num": 1059803,
-      "word": "林葳绝杀",
-      "onboard_time": 1678543169,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1059632,
@@ -3411,6 +3411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 766587,
+      "num": 606746,
+      "word": "WBG RNG",
+      "onboard_time": 1678538549,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 765176,
       "num": 433023,
       "word": "科学家首次让2只雄性老鼠产仔",
@@ -4747,6 +4755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 618982,
+      "num": 618982,
+      "word": "真的好想有个广西的朋友啊",
+      "onboard_time": 1678537348,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 616472,
       "num": 457421,
       "word": "公司规定不接董事长电话1次罚1万",
@@ -4867,14 +4883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 606746,
-      "num": 606746,
-      "word": "WBG RNG",
-      "onboard_time": 1678538549,
-      "rank": 7,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 605934,
       "num": 605934,
       "word": "女子别墅被老爸60万装出浓情复古风",
@@ -4931,6 +4939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 601933,
+      "num": 596736,
+      "word": "星落凝成糖番外",
+      "onboard_time": 1678542508,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 600125,
       "num": 395177,
       "word": "小鹏回应人脸识别需对车头半跪",
@@ -4969,14 +4985,6 @@
       "onboard_time": 1678335812,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 596736,
-      "num": 596736,
-      "word": "星落凝成糖番外",
-      "onboard_time": 1678542508,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 595958,
@@ -5353,6 +5361,14 @@
       "onboard_time": 1677663987,
       "rank": 12,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 567049,
+      "num": 455321,
+      "word": "绥化一村民家房梁现神秘骨架",
+      "onboard_time": 1678542208,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 566641,
@@ -5931,14 +5947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 528082,
-      "num": 525894,
-      "word": "真的好想有个广西的朋友啊",
-      "onboard_time": 1678537348,
-      "rank": 22,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 527550,
       "num": 527550,
       "word": "马思纯罗晋新片开机",
@@ -6507,6 +6515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494825,
+      "num": 475771,
+      "word": "陈伟霆被问合作三字女星秒答赵丽颖",
+      "onboard_time": 1678541968,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494647,
       "num": 494647,
       "word": "李飞真会省钱",
@@ -6795,20 +6811,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 475771,
-      "num": 475771,
-      "word": "陈伟霆被问合作三字女星秒答赵丽颖",
-      "onboard_time": 1678541968,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 474630,
       "num": 242064,
       "word": "郭晓婷徐海乔苍兰诀后合体",
       "onboard_time": 1677989905,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 474295,
+      "num": 384015,
+      "word": "拾荒男子用冥币买羊肝老板娘装不知情",
+      "onboard_time": 1678542928,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474168,
@@ -6873,6 +6889,14 @@
       "onboard_time": 1677807568,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 471493,
+      "num": 601565,
+      "word": "CBA",
+      "onboard_time": 1677762751,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 470941,
@@ -7235,14 +7259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 443013,
-      "num": 443013,
-      "word": "绥化一村民家房梁现神秘骨架",
-      "onboard_time": 1678542208,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 442728,
       "num": 247081,
       "word": "欠债男子被法官堵在孩子周岁宴上",
@@ -7425,6 +7441,14 @@
       "onboard_time": 1677829166,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 433364,
+      "num": 291094,
+      "word": "RNG战胜WBG",
+      "onboard_time": 1678544908,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 433085,
@@ -8715,6 +8739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369187,
+      "num": 369187,
+      "word": "现在的求职有多难",
+      "onboard_time": 1678539987,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369132,
       "num": 369132,
       "word": "宁德时代营收首次突破3000亿",
@@ -9369,14 +9401,6 @@
       "onboard_time": 1677858447,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 345664,
-      "num": 345664,
-      "word": "现在的求职有多难",
-      "onboard_time": 1678539987,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 345428,
@@ -10451,6 +10475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 305236,
+      "num": 305236,
+      "word": "权顺荣翻唱事件的地平线",
+      "onboard_time": 1678544908,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304156,
       "num": 304156,
       "word": "虞书欣像戴着袖套",
@@ -10769,6 +10801,14 @@
       "onboard_time": 1678161026,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 291247,
+      "num": 291247,
+      "word": "市监局回应男子点帝王蟹疑被调包",
+      "onboard_time": 1678543408,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291159,
@@ -11411,14 +11451,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 270024,
-      "num": 601565,
-      "word": "CBA",
-      "onboard_time": 1677762751,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 269593,
       "num": 269593,
       "word": "曾黎的海外伴手礼",
@@ -11505,14 +11537,6 @@
       "onboard_time": 1678412304,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 268015,
-      "num": 268015,
-      "word": "拾荒男子用冥币买羊肝老板娘装不知情",
-      "onboard_time": 1678542928,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267923,
@@ -14123,6 +14147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204726,
+      "num": 204726,
+      "word": "黑暗荣耀2编剧能力",
+      "onboard_time": 1678545148,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204616,
       "num": 204616,
       "word": "李岱昆重紫烟熏妆",
@@ -14795,6 +14827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198044,
+      "num": 198044,
+      "word": "如何增强教师的幸福感",
+      "onboard_time": 1678540889,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 198027,
       "num": 198027,
       "word": "电影爱很美味定档",
@@ -14971,14 +15011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 195949,
-      "num": 182033,
-      "word": "如何增强教师的幸福感",
-      "onboard_time": 1678540889,
-      "rank": 32,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 195938,
       "num": 195938,
       "word": "她的样子不需要被定义",
@@ -15009,6 +15041,14 @@
       "onboard_time": 1678084707,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195803,
+      "num": 195803,
+      "word": "同曦男篮vs江苏男篮",
+      "onboard_time": 1678544131,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 195781,
@@ -15771,6 +15811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186904,
+      "num": 186904,
+      "word": "郑乃馨泰国演唱会",
+      "onboard_time": 1678543588,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186792,
       "num": 186792,
       "word": "老了我们也要这样吃喝",
@@ -15945,14 +15993,6 @@
       "onboard_time": 1678080448,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183746,
-      "num": 183746,
-      "word": "郑乃馨泰国演唱会",
-      "onboard_time": 1678543588,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 182904,
@@ -16241,14 +16281,6 @@
       "onboard_time": 1677597222,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177023,
-      "num": 177023,
-      "word": "市监局回应男子点帝王蟹疑被调包",
-      "onboard_time": 1678543408,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177018,
@@ -16657,6 +16689,14 @@
       "onboard_time": 1678276831,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170330,
+      "num": 170330,
+      "word": "佘诗曼林峯9年后再合作",
+      "onboard_time": 1678544849,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 170112,
@@ -18451,6 +18491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138766,
+      "num": 138766,
+      "word": "陈星旭李兰迪牵红线",
+      "onboard_time": 1678543889,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 138740,
       "num": 138740,
       "word": "星糖后遗症",
@@ -19633,14 +19681,6 @@
       "onboard_time": 1678007125,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117545,
-      "num": 117545,
-      "word": "陈星旭李兰迪牵红线",
-      "onboard_time": 1678543889,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 117537,
