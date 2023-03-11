@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678570431081,
+  "endTime": 1678572993834,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -12403,8 +12403,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 33378,
-      "num": 33378,
+      "raw_hot": 36040,
+      "num": 36040,
       "word": "上班时最崩溃的事",
       "onboard_time": 1678565832,
       "rank": 49,
@@ -12529,6 +12529,14 @@
       "onboard_time": 1678553540,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 22023,
+      "num": 22023,
+      "word": "尔冬升夸赞赵樱子",
+      "onboard_time": 1678572012,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 20323,
