@@ -1,6 +1,6 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678554936625,
+  "endTime": 1678556006804,
   "band_list": [
     {
       "raw_hot": 1056517,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134162,
+      "num": 119951,
+      "word": "硅谷银行破产波及中国创业者",
+      "onboard_time": 1678554978,
+      "rank": 11,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 132979,
       "num": 132979,
       "word": "如何增强教师的幸福感",
@@ -379,8 +387,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104863,
-      "num": 104863,
+      "raw_hot": 119732,
+      "num": 119732,
       "word": "周汝正人设天花板",
       "onboard_time": 1678553182,
       "rank": 17,
@@ -427,23 +435,31 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 85213,
-      "num": 74191,
-      "word": "星落凝成糖 意难平",
-      "onboard_time": 1678554439,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 71509,
-      "num": 68356,
+      "raw_hot": 92866,
+      "num": 82588,
       "word": "黑暗荣耀房东奶奶",
       "onboard_time": 1678553720,
       "rank": 43,
       "category": "影视"
     },
     {
-      "raw_hot": 27907,
+      "raw_hot": 85213,
+      "num": 80735,
+      "word": "星落凝成糖 意难平",
+      "onboard_time": 1678554439,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 58235,
+      "num": 58235,
+      "word": "硅谷银行倒闭钱怎么办",
+      "onboard_time": 1678555636,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 32965,
       "num": 132795,
       "word": "转播车视角揭秘两会直播",
       "onboard_time": 1678553540,
@@ -459,7 +475,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 20089,
+      "raw_hot": 22333,
       "num": 132528,
       "word": "100秒了解第3场委员通道说了啥",
       "onboard_time": 1678553540,
