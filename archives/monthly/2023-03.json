@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678530845722,
+  "endTime": 1678533284054,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -185,6 +185,14 @@
       "onboard_time": 1677717809,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2855217,
+      "num": 368029,
+      "word": "庆余年2 范思辙",
+      "onboard_time": 1678531467,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2854611,
@@ -745,6 +753,14 @@
       "onboard_time": 1678092927,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1679857,
+      "num": 1679857,
+      "word": "林孝埈回应",
+      "onboard_time": 1678532188,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1672015,
@@ -1849,6 +1865,14 @@
       "onboard_time": 1677836726,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1094499,
+      "num": 364289,
+      "word": "二十六七岁多么美好的年纪",
+      "onboard_time": 1678530086,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 1092787,
@@ -3849,6 +3873,14 @@
       "onboard_time": 1678279049,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 695346,
+      "num": 368007,
+      "word": "LGD对战TES",
+      "onboard_time": 1678529006,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 694462,
@@ -7155,6 +7187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439232,
+      "num": 354702,
+      "word": "白敬亭新剧宣传一碗水端平",
+      "onboard_time": 1678530926,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 439177,
       "num": 439177,
       "word": "迪丽热巴起诉黑粉",
@@ -8153,6 +8193,14 @@
       "onboard_time": 1677850287,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382469,
+      "num": 351819,
+      "word": "刘耀文探班宋亚轩直播",
+      "onboard_time": 1678531828,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 381757,
@@ -9883,6 +9931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315508,
+      "num": 315508,
+      "word": "光与夜之恋",
+      "onboard_time": 1677989126,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 315338,
       "num": 315338,
       "word": "Swisse钙片表面镶嵌一根黑毛",
@@ -11067,14 +11123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271577,
-      "num": 236519,
-      "word": "光与夜之恋",
-      "onboard_time": 1677989126,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 271442,
       "num": 271442,
       "word": "妇女节文案",
@@ -11835,14 +11883,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 247296,
-      "num": 247296,
-      "word": "LGD对战TES",
-      "onboard_time": 1678529006,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 247261,
       "num": 247261,
       "word": "邢菲哭戏",
@@ -11992,6 +12032,14 @@
       "word": "听说你喜欢我大结局",
       "onboard_time": 1677929125,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 242347,
+      "num": 242347,
+      "word": "姚晨当监制把自己的戏剪掉了",
+      "onboard_time": 1678532908,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -12835,14 +12883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222077,
-      "num": 222077,
-      "word": "二十六七岁多么美好的年纪",
-      "onboard_time": 1678530086,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 221931,
       "num": 221931,
       "word": "宋亚轩首支个人单曲预告",
@@ -13329,6 +13369,14 @@
       "onboard_time": 1678371808,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210749,
+      "num": 210749,
+      "word": "周汝正妈妈",
+      "onboard_time": 1678530866,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 210662,
@@ -16283,6 +16331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169910,
+      "num": 169910,
+      "word": "T1对战HLE",
+      "onboard_time": 1678530686,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169737,
       "num": 169737,
       "word": "第一次见乌龟这么黏人",
@@ -17137,6 +17193,14 @@
       "onboard_time": 1678334249,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151806,
+      "num": 151806,
+      "word": "外交部回应沙特伊朗北京对话",
+      "onboard_time": 1678532126,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 151744,
@@ -18019,12 +18083,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138820,
-      "num": 138820,
-      "word": "T1对战HLE",
-      "onboard_time": 1678530686,
-      "rank": 37,
-      "category": "游戏"
+      "raw_hot": 138740,
+      "num": 138740,
+      "word": "星糖后遗症",
+      "onboard_time": 1678532969,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 138640,
