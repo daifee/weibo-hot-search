@@ -1,6 +1,6 @@
 {
   "startTime": 1678465634906,
-  "endTime": 1678541595642,
+  "endTime": 1678544125245,
   "band_list": [
     {
       "raw_hot": 7304665,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1268572,
-      "num": 716798,
+      "num": 743230,
       "word": "李强简历",
       "onboard_time": 1678535005,
       "rank": 1,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1103678,
-      "num": 635203,
+      "num": 642905,
       "word": "夜昙青葵没化为人形",
       "onboard_time": 1678538069,
       "rank": 3,
@@ -193,6 +193,14 @@
       "onboard_time": 1678530086,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1059803,
+      "num": 1059803,
+      "word": "林葳绝杀",
+      "onboard_time": 1678543169,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1057193,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 1005929,
-      "num": 437828,
+      "num": 471917,
       "word": "丫丫回国后将住进妈妈曾经的家",
       "onboard_time": 1678523727,
       "rank": 49,
@@ -387,8 +395,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 645600,
+      "num": 498977,
+      "word": "你好星期六下周有丁程鑫",
+      "onboard_time": 1678540648,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 644094,
-      "num": 465793,
+      "num": 471094,
       "word": "北京下雨",
       "onboard_time": 1678538188,
       "rank": 36,
@@ -409,14 +425,6 @@
       "onboard_time": 1678498227,
       "rank": 6,
       "category": "军事,国内要闻"
-    },
-    {
-      "raw_hot": 626100,
-      "num": 436400,
-      "word": "你好星期六下周有丁程鑫",
-      "onboard_time": 1678540648,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 616472,
@@ -449,6 +457,14 @@
       "onboard_time": 1678538549,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 596736,
+      "num": 596736,
+      "word": "星落凝成糖番外",
+      "onboard_time": 1678542508,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 585583,
@@ -516,7 +532,7 @@
     },
     {
       "raw_hot": 528082,
-      "num": 458373,
+      "num": 525894,
       "word": "真的好想有个广西的朋友啊",
       "onboard_time": 1678537348,
       "rank": 22,
@@ -611,6 +627,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 475771,
+      "num": 475771,
+      "word": "陈伟霆被问合作三字女星秒答赵丽颖",
+      "onboard_time": 1678541968,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470191,
       "num": 440849,
       "word": "白头发是不是越拔越多",
@@ -625,6 +649,14 @@
       "onboard_time": 1678504648,
       "rank": 15,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 443013,
+      "num": 443013,
+      "word": "绥化一村民家房梁现神秘骨架",
+      "onboard_time": 1678542208,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439232,
@@ -651,12 +683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419495,
+      "num": 419495,
+      "word": "赵樱子发长文告别无限超越班",
+      "onboard_time": 1678540889,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414290,
       "num": 414290,
       "word": "星落凝成糖",
       "onboard_time": 1678535969,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 402439,
+      "num": 501615,
+      "word": "陈梦比赛",
+      "onboard_time": 1678542688,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 398181,
@@ -681,6 +729,14 @@
       "onboard_time": 1678460189,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 393296,
+      "num": 393296,
+      "word": "小学办公室的主要用途",
+      "onboard_time": 1678539689,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 390897,
@@ -803,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 345664,
+      "num": 345664,
+      "word": "现在的求职有多难",
+      "onboard_time": 1678539987,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 343371,
       "num": 503406,
       "word": "GALA卡莎五杀",
@@ -857,14 +921,6 @@
       "onboard_time": 1678514788,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 315690,
-      "num": 315690,
-      "word": "小学办公室的主要用途",
-      "onboard_time": 1678539689,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 315508,
@@ -979,12 +1035,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270024,
+      "num": 601565,
+      "word": "CBA",
+      "onboard_time": 1678543469,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268268,
       "num": 401283,
       "word": "短道速滑",
       "onboard_time": 1678523727,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268015,
+      "num": 268015,
+      "word": "拾荒男子用冥币买羊肝老板娘装不知情",
+      "onboard_time": 1678542928,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266182,
@@ -1115,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232145,
+      "num": 232145,
+      "word": "薛凯琪帮刘恋圆演员梦",
+      "onboard_time": 1678542389,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231613,
       "num": 799124,
       "word": "会计专硕",
@@ -1171,22 +1251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 222568,
-      "num": 222568,
-      "word": "现在的求职有多难",
-      "onboard_time": 1678539987,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 221980,
-      "num": 221980,
-      "word": "赵樱子发长文告别无限超越班",
-      "onboard_time": 1678540889,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221573,
       "num": 790702,
       "word": "建议在中小学推行趴睡变躺睡",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1678518207,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221417,
+      "num": 221417,
+      "word": "小学生为47名师生画动漫大合照",
+      "onboard_time": 1678540349,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 216153,
@@ -1387,6 +1459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183746,
+      "num": 183746,
+      "word": "郑乃馨泰国演唱会",
+      "onboard_time": 1678543588,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182665,
       "num": 182665,
       "word": "本泽马说德尚是小丑",
@@ -1433,6 +1513,14 @@
       "onboard_time": 1678524685,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177023,
+      "num": 177023,
+      "word": "市监局回应男子点帝王蟹疑被调包",
+      "onboard_time": 1678543408,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175974,
@@ -1513,6 +1601,22 @@
       "onboard_time": 1678492943,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167217,
+      "num": 167217,
+      "word": "刘耀文跳浪漫樱花",
+      "onboard_time": 1678543408,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165014,
+      "num": 165014,
+      "word": "广东男篮vs广厦男篮",
+      "onboard_time": 1678540889,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 165006,
@@ -1683,14 +1787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128523,
-      "num": 128523,
-      "word": "小学生为47名师生画动漫大合照",
-      "onboard_time": 1678540349,
-      "rank": 49,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 127673,
       "num": 127673,
       "word": "何宣林发有声信告别星落凝成糖",
@@ -1713,6 +1809,14 @@
       "onboard_time": 1678535607,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117545,
+      "num": 117545,
+      "word": "陈星旭李兰迪牵红线",
+      "onboard_time": 1678543889,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 117285,
@@ -1753,14 +1857,6 @@
       "onboard_time": 1678464626,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 110451,
-      "num": 110451,
-      "word": "广东男篮vs广厦男篮",
-      "onboard_time": 1678540889,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 108627,
