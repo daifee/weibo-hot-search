@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678540866883,
+  "endTime": 1678541595642,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -1083,6 +1083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1455329,
+      "num": 603710,
+      "word": "内娱满分仪态拥有者",
+      "onboard_time": 1678538130,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1448426,
       "num": 1153019,
       "word": "教育局通报柳州一小学按父母职业排座位",
@@ -1337,14 +1345,6 @@
       "onboard_time": 1678282647,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1323393,
-      "num": 603710,
-      "word": "内娱满分仪态拥有者",
-      "onboard_time": 1678538130,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1315853,
@@ -3811,6 +3811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 718449,
+      "num": 564198,
+      "word": "赵英俊为大鹏选定了保你平安剧本",
+      "onboard_time": 1678536749,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 718404,
       "num": 237293,
       "word": "年薪41万董秘自掏4亿买公司股份",
@@ -4121,14 +4129,6 @@
       "onboard_time": 1678238305,
       "rank": 13,
       "category": "科技"
-    },
-    {
-      "raw_hot": 671805,
-      "num": 564198,
-      "word": "赵英俊为大鹏选定了保你平安剧本",
-      "onboard_time": 1678536749,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 671255,
@@ -4443,6 +4443,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 644094,
+      "num": 465793,
+      "word": "北京下雨",
+      "onboard_time": 1678538188,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642080,
       "num": 642080,
       "word": "不再保留中国人民银行县市支行",
@@ -4635,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 626100,
+      "num": 436400,
+      "word": "你好星期六下周有丁程鑫",
+      "onboard_time": 1678540648,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 624710,
       "num": 624710,
       "word": "高启兰被粉丝狂叫金丝老婆",
@@ -4803,6 +4819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 609205,
+      "num": 766022,
+      "word": "育龄青年为什么不愿生了",
+      "onboard_time": 1678537230,
+      "rank": 0,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 609106,
       "num": 615335,
       "word": "LPL十大选手投票",
@@ -4825,14 +4849,6 @@
       "onboard_time": 1677664048,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 608111,
-      "num": 465793,
-      "word": "北京下雨",
-      "onboard_time": 1678538188,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 606970,
@@ -5153,14 +5169,6 @@
       "onboard_time": 1677804510,
       "rank": 9,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 575656,
-      "num": 766022,
-      "word": "育龄青年为什么不愿生了",
-      "onboard_time": 1678537230,
-      "rank": 0,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 575627,
@@ -5905,6 +5913,14 @@
       "onboard_time": 1678442009,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528082,
+      "num": 458373,
+      "word": "真的好想有个广西的朋友啊",
+      "onboard_time": 1678537348,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 527550,
@@ -6977,14 +6993,6 @@
       "onboard_time": 1677909745,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 458373,
-      "num": 458373,
-      "word": "真的好想有个广西的朋友啊",
-      "onboard_time": 1678537348,
-      "rank": 22,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 457698,
@@ -9347,6 +9355,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 343371,
+      "num": 503406,
+      "word": "GALA卡莎五杀",
+      "onboard_time": 1678538789,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 343136,
       "num": 343136,
       "word": "EDG晋级春季季后赛",
@@ -9409,14 +9425,6 @@
       "onboard_time": 1677801809,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342131,
-      "num": 342131,
-      "word": "你好星期六下周有丁程鑫",
-      "onboard_time": 1678540648,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 342081,
@@ -10051,6 +10059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 315690,
+      "num": 315690,
+      "word": "小学办公室的主要用途",
+      "onboard_time": 1678539689,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 315572,
       "num": 315572,
       "word": "威少被勇士放空",
@@ -10105,14 +10121,6 @@
       "onboard_time": 1677756087,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 314040,
-      "num": 503406,
-      "word": "GALA卡莎五杀",
-      "onboard_time": 1678538789,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 313969,
@@ -12731,14 +12739,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 227759,
-      "num": 227759,
-      "word": "小学办公室的主要用途",
-      "onboard_time": 1678539689,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 227755,
       "num": 227755,
       "word": "五行世家定档",
@@ -12881,6 +12881,14 @@
       "onboard_time": 1677752732,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 225519,
+      "num": 225519,
+      "word": "孙明悟葬礼好抓马",
+      "onboard_time": 1678537289,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 225342,
@@ -13067,6 +13075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222568,
+      "num": 222568,
+      "word": "现在的求职有多难",
+      "onboard_time": 1678539987,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222527,
       "num": 222527,
       "word": "张小斐比的耶",
@@ -13080,6 +13096,14 @@
       "word": "邓超遇见冰雪甄嬛",
       "onboard_time": 1678456649,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221980,
+      "num": 221980,
+      "word": "赵樱子发长文告别无限超越班",
+      "onboard_time": 1678540889,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -13169,14 +13193,6 @@
       "onboard_time": 1678155384,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 219887,
-      "num": 219887,
-      "word": "孙明悟葬礼好抓马",
-      "onboard_time": 1678537289,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 219816,
@@ -14883,6 +14899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195949,
+      "num": 182033,
+      "word": "如何增强教师的幸福感",
+      "onboard_time": 1678540889,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 195938,
       "num": 195938,
       "word": "她的样子不需要被定义",
@@ -15033,6 +15057,14 @@
       "onboard_time": 1678079548,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194725,
+      "num": 194725,
+      "word": "硅谷银行",
+      "onboard_time": 1678541430,
+      "rank": 28,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 194670,
@@ -16809,14 +16841,6 @@
       "onboard_time": 1677849805,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 165941,
-      "num": 165941,
-      "word": "现在的求职有多难",
-      "onboard_time": 1678539987,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 165493,
@@ -18931,6 +18955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128523,
+      "num": 128523,
+      "word": "小学生为47名师生画动漫大合照",
+      "onboard_time": 1678540349,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 128434,
       "num": 128434,
       "word": "成毅巴黎之旅vlog",
@@ -20059,6 +20091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110451,
+      "num": 110451,
+      "word": "广东男篮vs广厦男篮",
+      "onboard_time": 1678540889,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109912,
       "num": 1373231,
       "word": "十四届全国人大一次会议宪法宣誓仪式",
@@ -20769,14 +20809,6 @@
       "onboard_time": 1678327824,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97835,
-      "num": 97835,
-      "word": "小学生为47名师生画动漫大合照",
-      "onboard_time": 1678540349,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 97771,
