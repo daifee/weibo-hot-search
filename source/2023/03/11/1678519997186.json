@@ -1,0 +1,410 @@
+{
+  "runTime": 1678519997186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1185601,
+        "num": 1185601,
+        "word": "李强被任命为国务院总理",
+        "onboard_time": 1678504167,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 955649,
+        "num": 955649,
+        "word": "樊振东",
+        "onboard_time": 1678515207,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24496,
+        "num": 810349,
+        "word": "十四届全国人大一次会议第四次全体会议",
+        "onboard_time": 1678495225,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1424311,
+        "num": 753142,
+        "word": "教资科二",
+        "onboard_time": 1678518207,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 673927,
+        "num": 673927,
+        "word": "B站考虑取消前台播放量数据显示",
+        "onboard_time": 1678509030,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 566461,
+        "num": 566461,
+        "word": "拜登回应沙特伊朗复交",
+        "onboard_time": 1678515027,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 552094,
+        "num": 552094,
+        "word": "教资",
+        "onboard_time": 1678492643,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 439331,
+        "num": 439331,
+        "word": "快递小哥每天给自己送上百包裹",
+        "onboard_time": 1678518026,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325387,
+        "num": 325387,
+        "word": "梅西2022收入全球运动员第2",
+        "onboard_time": 1678513227,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307505,
+        "num": 307505,
+        "word": "黑暗荣耀2演技TOP3",
+        "onboard_time": 1678517725,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1260487,
+        "num": 307057,
+        "word": "女子存款百万被邮储银行员工取走",
+        "onboard_time": 1678517127,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 855405,
+        "num": 305747,
+        "word": "微博之夜确认出席艺人",
+        "onboard_time": 1678514665,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482002,
+        "num": 303210,
+        "word": "苏炳添身体发软求破解",
+        "onboard_time": 1678507830,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352599,
+        "num": 302189,
+        "word": "教资答案",
+        "onboard_time": 1678504832,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 330112,
+        "num": 300028,
+        "word": "华晨宇杭州演唱会秒售罄",
+        "onboard_time": 1678517246,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299741,
+        "num": 299741,
+        "word": "公司规定不接董事长电话1次罚1万",
+        "onboard_time": 1678506750,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283669,
+        "num": 283669,
+        "word": "福岛滞销大米被制成餐具和外卖包装盒",
+        "onboard_time": 1678511249,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274579,
+        "num": 274579,
+        "word": "徐海乔拥抱安慰郭晓婷",
+        "onboard_time": 1678514788,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266397,
+        "num": 266397,
+        "word": "国务院总理李强将出席记者会",
+        "onboard_time": 1678512867,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 259691,
+        "num": 259691,
+        "word": "文东恩迎来19岁",
+        "onboard_time": 1678518568,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 846407,
+        "num": 251680,
+        "word": "日本女游客在印度遭多名男子骚扰",
+        "onboard_time": 1678516228,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243342,
+        "num": 243342,
+        "word": "专家说40岁就得为养老做打算",
+        "onboard_time": 1678505673,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234273,
+        "num": 234273,
+        "word": "董明珠鼓励员工砸锅卖铁买格力股票",
+        "onboard_time": 1678518866,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 215923,
+        "num": 215923,
+        "word": "黑暗荣耀巫师",
+        "onboard_time": 1678518207,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208772,
+        "num": 208772,
+        "word": "丁真新歌",
+        "onboard_time": 1678516646,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204226,
+        "num": 204226,
+        "word": "原来蛋糕可以美得像画一样",
+        "onboard_time": 1678502066,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200824,
+        "num": 200824,
+        "word": "王楚钦3比0王洋",
+        "onboard_time": 1678519046,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195762,
+        "num": 195762,
+        "word": "浦发硅谷银行公告",
+        "onboard_time": 1678519588,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193199,
+        "num": 193199,
+        "word": "综合素质",
+        "onboard_time": 1678504710,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183467,
+        "num": 183467,
+        "word": "我回了 回了沉默",
+        "onboard_time": 1678499247,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179901,
+        "num": 179901,
+        "word": "许榕真谭松韵新剧演母女",
+        "onboard_time": 1678506270,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173146,
+        "num": 173146,
+        "word": "迪士尼介绍兔朱迪机器人",
+        "onboard_time": 1678515925,
+        "rank": 31,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 170973,
+        "num": 170973,
+        "word": "让2亿灵活就业者受关心更安心",
+        "onboard_time": 1678518387,
+        "rank": 32,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 166878,
+        "num": 166878,
+        "word": "新疆丁达尔奇观似金光万缕",
+        "onboard_time": 1678516165,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 150505,
+        "num": 150505,
+        "word": "成毅英雄志被踹路透",
+        "onboard_time": 1678518147,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145523,
+        "num": 145523,
+        "word": "田曦薇民国风造型",
+        "onboard_time": 1678502245,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142876,
+        "num": 142876,
+        "word": "董明珠称大学生去打螺钉没什么不可以",
+        "onboard_time": 1678500866,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140049,
+        "num": 140049,
+        "word": "六公主连播两部张颂文主演电影",
+        "onboard_time": 1678506750,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137874,
+        "num": 137874,
+        "word": "为何高考选理科人数下降",
+        "onboard_time": 1678502066,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 132276,
+        "num": 132276,
+        "word": "欧豪李一桐新剧开机",
+        "onboard_time": 1678509210,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128725,
+        "num": 128725,
+        "word": "江苏省考",
+        "onboard_time": 1678506808,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103545,
+        "num": 103545,
+        "word": "詹姆斯2022年收入全球运动员第一",
+        "onboard_time": 1678506690,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103282,
+        "num": 103282,
+        "word": "何宣林发有声信告别星落凝成糖",
+        "onboard_time": 1678515628,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100616,
+        "num": 100616,
+        "word": "黑暗荣耀感情线",
+        "onboard_time": 1678518809,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100412,
+        "num": 100412,
+        "word": "应勇当选为最高人民检察院检察长",
+        "onboard_time": 1678505372,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 99000,
+        "num": 99000,
+        "word": "灌篮高手11号流川枫出场",
+        "onboard_time": 1678504648,
+        "rank": 45,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 98400,
+        "num": 98400,
+        "word": "湖人战胜猛龙",
+        "onboard_time": 1678515567,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98183,
+        "num": 98183,
+        "word": "NBA",
+        "onboard_time": 1678517067,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81632,
+        "num": 81632,
+        "word": "毒舌律师最后一个镜头后劲好大",
+        "onboard_time": 1678510767,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81466,
+        "num": 81466,
+        "word": "一人一个汽车小知识",
+        "onboard_time": 1678519947,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平当选中华人民共和国主席#"
+    }
+  }
+}
