@@ -1,6 +1,6 @@
 {
   "startTime": 1678465634906,
-  "endTime": 1678527211868,
+  "endTime": 1678529904054,
   "band_list": [
     {
       "raw_hot": 7304665,
@@ -35,7 +35,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1753570,
+      "raw_hot": 1785586,
       "num": 400349,
       "word": "台湾演员片酬",
       "onboard_time": 1678525646,
@@ -131,8 +131,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1189965,
-      "num": 437545,
+      "raw_hot": 1207275,
+      "num": 1207275,
       "word": "林孝埈被判犯规",
       "onboard_time": 1678523366,
       "rank": 7,
@@ -201,6 +201,14 @@
       "onboard_time": 1678493605,
       "rank": 4,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 764150,
+      "num": 764150,
+      "word": "教资科三",
+      "onboard_time": 1678528767,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 745697,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 612039,
-      "num": 612039,
+      "num": 823425,
       "word": "快递小哥每天给自己送上百包裹",
       "onboard_time": 1678518026,
       "rank": 22,
@@ -451,12 +459,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457019,
+      "num": 457019,
+      "word": "蛋仔派对果宝特攻",
+      "onboard_time": 1678527087,
+      "rank": 43,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 456355,
       "num": 456355,
       "word": "灌篮高手11号流川枫出场",
       "onboard_time": 1678504648,
       "rank": 15,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 447152,
+      "num": 369861,
+      "word": "许光汉单集片酬",
+      "onboard_time": 1678526724,
+      "rank": 23,
+      "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 440849,
+      "num": 440849,
+      "word": "白头发是不是越拔越多",
+      "onboard_time": 1678526366,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427345,
@@ -473,6 +505,14 @@
       "onboard_time": 1678505129,
       "rank": 16,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 395800,
+      "num": 395800,
+      "word": "承欢记",
+      "onboard_time": 1678528647,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 394933,
@@ -651,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 299558,
+      "num": 299558,
+      "word": "全国每年新发恶性肿瘤40%在农村",
+      "onboard_time": 1678525885,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298426,
       "num": 298426,
       "word": "文东恩迎来19岁",
@@ -707,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263601,
+      "num": 263601,
+      "word": "黑暗荣耀2里的清醒台词",
+      "onboard_time": 1678525585,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260540,
       "num": 260540,
       "word": "张远王栎鑫陈楚生合唱嘉宾",
@@ -747,12 +803,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 247296,
+      "num": 247296,
+      "word": "LGD对战TES",
+      "onboard_time": 1678529006,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245830,
       "num": 171872,
       "word": "国务院总理任命现场视频",
       "onboard_time": 1678508309,
       "rank": 44,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 243820,
+      "num": 243820,
+      "word": "这里脊饼能把我下巴吃脱臼",
+      "onboard_time": 1678526607,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 240863,
@@ -819,14 +891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224731,
-      "num": 224731,
-      "word": "全国每年新发恶性肿瘤40%在农村",
-      "onboard_time": 1678525885,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221573,
       "num": 790702,
       "word": "建议在中小学推行趴睡变躺睡",
@@ -848,6 +912,14 @@
       "word": "流浪地球2国内首次泰坦拍摄",
       "onboard_time": 1678521565,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 215903,
+      "num": 215903,
+      "word": "求陈星旭李兰迪二搭",
+      "onboard_time": 1678527865,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -883,28 +955,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 202885,
-      "num": 202885,
-      "word": "许光汉单集片酬",
-      "onboard_time": 1678526724,
-      "rank": 23,
-      "category": "影视,艺人"
-    },
-    {
       "raw_hot": 202708,
       "num": 202708,
       "word": "宋亚轩新歌",
       "onboard_time": 1678511608,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 202173,
-      "num": 168133,
-      "word": "黑暗荣耀2里的清醒台词",
-      "onboard_time": 1678525585,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 200824,
@@ -1003,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180342,
+      "num": 180342,
+      "word": "种地吧",
+      "onboard_time": 1678528466,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178480,
       "num": 178480,
       "word": "WE战胜iG",
@@ -1025,14 +1089,6 @@
       "onboard_time": 1678521807,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175660,
-      "num": 175660,
-      "word": "白头发是不是越拔越多",
-      "onboard_time": 1678526366,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175015,
@@ -1112,6 +1168,14 @@
       "word": "流浪地球2何以打动人心",
       "onboard_time": 1678500506,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 158050,
+      "num": 158050,
+      "word": "张颂文与孤舟工作人员合照",
+      "onboard_time": 1678529546,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1243,20 +1307,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126057,
-      "num": 126057,
-      "word": "这里脊饼能把我下巴吃脱臼",
-      "onboard_time": 1678526607,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120012,
       "num": 766906,
       "word": "建议落实男性育儿责任",
       "onboard_time": 1678442009,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119569,
+      "num": 119569,
+      "word": "易烊千玺谈孙均为什么杀张大",
+      "onboard_time": 1678529667,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 117285,
@@ -1345,14 +1409,6 @@
       "onboard_time": 1678518809,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 101043,
-      "num": 101043,
-      "word": "蛋仔派对果宝特攻",
-      "onboard_time": 1678527087,
-      "rank": 43,
-      "category": "游戏,动漫"
     },
     {
       "raw_hot": 96963,
@@ -1467,18 +1523,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 34870,
-      "num": 1384228,
-      "word": "9个高频词速览政府工作报告",
-      "onboard_time": 1678455030,
+      "raw_hot": 39748,
+      "num": 777983,
+      "word": "今年两会第三场委员通道",
+      "onboard_time": 1678524865,
       "rank": 2,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 31338,
-      "num": 404682,
-      "word": "今年两会第三场委员通道",
-      "onboard_time": 1678524865,
+      "raw_hot": 34870,
+      "num": 1384228,
+      "word": "9个高频词速览政府工作报告",
+      "onboard_time": 1678455030,
       "rank": 2,
       "category": "国内要闻"
     },
