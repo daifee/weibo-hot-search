@@ -1,6 +1,6 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678558883654,
+  "endTime": 1678559705092,
   "band_list": [
     {
       "raw_hot": 1056517,
@@ -459,23 +459,23 @@
       "category": "财经"
     },
     {
-      "raw_hot": 52500,
-      "num": 52500,
-      "word": "WBG BP",
-      "onboard_time": 1678557256,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 51649,
-      "num": 51649,
+      "raw_hot": 55560,
+      "num": 55560,
       "word": "马伯骞录节目做翻译打两份工",
       "onboard_time": 1678557495,
       "rank": 24,
       "category": "综艺"
     },
     {
-      "raw_hot": 38283,
+      "raw_hot": 54057,
+      "num": 69660,
+      "word": "WBG BP",
+      "onboard_time": 1678557256,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 43421,
       "num": 79866,
       "word": "小学办公室的主要用途",
       "onboard_time": 1678539689,
@@ -491,7 +491,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 28679,
+      "raw_hot": 30114,
       "num": 34037,
       "word": "一口气炫完黑暗荣耀",
       "onboard_time": 1678557075,
