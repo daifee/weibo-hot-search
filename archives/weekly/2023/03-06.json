@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678519997186,
+  "endTime": 1678522950139,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -699,6 +699,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1400144,
+      "num": 313591,
+      "word": "女子存款百万被邮储银行员工取走",
+      "onboard_time": 1678517127,
+      "rank": 10,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1383651,
       "num": 864833,
       "word": "专家称打HPV疫苗不必纠结几价",
@@ -825,14 +833,6 @@
       "onboard_time": 1678499247,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1260487,
-      "num": 307057,
-      "word": "女子存款百万被邮储银行员工取走",
-      "onboard_time": 1678517127,
-      "rank": 10,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1259861,
@@ -2403,6 +2403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 612039,
+      "num": 612039,
+      "word": "快递小哥每天给自己送上百包裹",
+      "onboard_time": 1678518026,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611293,
       "num": 611293,
       "word": "老默千岛湖摸鱼",
@@ -2865,6 +2873,14 @@
       "onboard_time": 1678187428,
       "rank": 15,
       "category": "自然"
+    },
+    {
+      "raw_hot": 541186,
+      "num": 541186,
+      "word": "董明珠鼓励员工砸锅卖铁买格力股票",
+      "onboard_time": 1678518866,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 540232,
@@ -3643,14 +3659,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 439331,
-      "num": 439331,
-      "word": "快递小哥每天给自己送上百包裹",
-      "onboard_time": 1678518026,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 439233,
       "num": 439233,
       "word": "熊猫花花跑起来前脚内八后脚外八",
@@ -4017,6 +4025,14 @@
       "onboard_time": 1678226414,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 394933,
+      "num": 307505,
+      "word": "黑暗荣耀2演技TOP3",
+      "onboard_time": 1678517725,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 393073,
@@ -4723,6 +4739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340017,
+      "num": 340017,
+      "word": "浦发硅谷银行公告",
+      "onboard_time": 1678519588,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 338493,
       "num": 304443,
       "word": "拍摄者回应旅英大熊猫听懂四川话",
@@ -5123,14 +5147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307505,
-      "num": 307505,
-      "word": "黑暗荣耀2演技TOP3",
-      "onboard_time": 1678517725,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 307156,
       "num": 307156,
       "word": "AppleWatch上能和ChatGPT聊天了",
@@ -5161,6 +5177,14 @@
       "onboard_time": 1678180107,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305754,
+      "num": 305754,
+      "word": "让2亿灵活就业者受关心更安心",
+      "onboard_time": 1678518387,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 304138,
@@ -5217,6 +5241,14 @@
       "onboard_time": 1678253367,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 298426,
+      "num": 298426,
+      "word": "文东恩迎来19岁",
+      "onboard_time": 1678518568,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 296710,
@@ -5755,14 +5787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 259691,
-      "num": 259691,
-      "word": "文东恩迎来19岁",
-      "onboard_time": 1678518568,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 259000,
       "num": 259000,
       "word": "上海迪士尼门票热度暴涨350%",
@@ -6155,14 +6179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 234273,
-      "num": 234273,
-      "word": "董明珠鼓励员工砸锅卖铁买格力股票",
-      "onboard_time": 1678518866,
-      "rank": 49,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 233800,
       "num": 210245,
       "word": "贝儿唱歌好好听",
@@ -6427,6 +6443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221538,
+      "num": 221538,
+      "word": "黑暗荣耀巫师",
+      "onboard_time": 1678518207,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220337,
       "num": 592181,
       "word": "白客苗苗张颂文谈初入社会迷茫经历",
@@ -6547,20 +6571,20 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 216153,
+      "num": 216153,
+      "word": "流浪地球2国内首次泰坦拍摄",
+      "onboard_time": 1678521565,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215951,
       "num": 265727,
       "word": "刘若英演唱会官宣",
       "onboard_time": 1678439247,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 215923,
-      "num": 215923,
-      "word": "黑暗荣耀巫师",
-      "onboard_time": 1678518207,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 215227,
@@ -7435,14 +7459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195762,
-      "num": 195762,
-      "word": "浦发硅谷银行公告",
-      "onboard_time": 1678519588,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 195706,
       "num": 195706,
       "word": "灰熊vs湖人",
@@ -8099,12 +8115,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175974,
+      "num": 175974,
+      "word": "克拉岛",
+      "onboard_time": 1678520845,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 175881,
       "num": 175881,
       "word": "英超双红会",
       "onboard_time": 1678031845,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175827,
+      "num": 175827,
+      "word": "岳云鹏孟鹤堂假笑兄弟",
+      "onboard_time": 1678521807,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 175540,
@@ -8249,14 +8281,6 @@
       "onboard_time": 1678253784,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 170973,
-      "num": 170973,
-      "word": "让2亿灵活就业者受关心更安心",
-      "onboard_time": 1678518387,
-      "rank": 34,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 170702,
@@ -10491,6 +10515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103638,
+      "num": 103638,
+      "word": "王艺迪3比0斯佐科斯",
+      "onboard_time": 1678521205,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103466,
       "num": 103466,
       "word": "Leave获周最佳新秀",
@@ -10555,6 +10587,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 101513,
+      "num": 101513,
+      "word": "黑暗荣耀感情线",
+      "onboard_time": 1678518809,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 101224,
       "num": 101224,
       "word": "律师谈公司乐捐制度",
@@ -10569,14 +10609,6 @@
       "onboard_time": 1678241124,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100616,
-      "num": 100616,
-      "word": "黑暗荣耀感情线",
-      "onboard_time": 1678518809,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 100152,
@@ -10899,6 +10931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89156,
+      "num": 89156,
+      "word": "政协闭幕会",
+      "onboard_time": 1678521086,
+      "rank": 44,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 88719,
       "num": 88719,
       "word": "OMG 太热血了",
@@ -11065,6 +11105,14 @@
       "onboard_time": 1678258166,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76647,
+      "num": 76647,
+      "word": "女孩带着怨气弹贝加尔湖",
+      "onboard_time": 1678522884,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 75666,
@@ -11574,6 +11622,9 @@
     },
     {
       "word": "#习近平当选中华人民共和国主席#"
+    },
+    {
+      "word": "#一切为了人民#"
     }
   ]
 }
