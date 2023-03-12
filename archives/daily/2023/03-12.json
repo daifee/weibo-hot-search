@@ -1,6 +1,6 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678624417133,
+  "endTime": 1678625463795,
   "band_list": [
     {
       "raw_hot": 2673036,
@@ -323,12 +323,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 730793,
+      "num": 466937,
+      "word": "台民众买24颗鸡蛋花400块",
+      "onboard_time": 1678623445,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708592,
       "num": 559016,
       "word": "黑暗荣耀韩国收视率",
       "onboard_time": 1678607726,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 693145,
+      "num": 511840,
+      "word": "U20国足vs韩国U20",
+      "onboard_time": 1678615286,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 689204,
@@ -387,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 625057,
-      "num": 511840,
-      "word": "U20国足vs韩国U20",
-      "onboard_time": 1678615286,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 612948,
       "num": 631393,
       "word": "委员称无痛分娩是该单独入医保了",
@@ -409,6 +417,14 @@
       "onboard_time": 1678605746,
       "rank": 31,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 588570,
+      "num": 466494,
+      "word": "陆虎 扬州",
+      "onboard_time": 1678623986,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 579136,
@@ -547,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466033,
+      "num": 466033,
+      "word": "杨紫琼获奥斯卡影后概率有多大",
+      "onboard_time": 1678620867,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 463353,
       "num": 635232,
       "word": "向鹏vs张本智和",
@@ -561,14 +585,6 @@
       "onboard_time": 1678613244,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 449352,
-      "num": 449352,
-      "word": "杨紫琼获奥斯卡影后概率有多大",
-      "onboard_time": 1678620867,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 449115,
@@ -619,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417150,
+      "num": 417150,
+      "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
+      "onboard_time": 1678624348,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403688,
       "num": 569124,
       "word": "人民日报AI虚拟主播",
@@ -657,14 +681,6 @@
       "onboard_time": 1678592788,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380097,
-      "num": 380097,
-      "word": "台民众买24颗鸡蛋花400块",
-      "onboard_time": 1678623445,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371300,
@@ -939,14 +955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262328,
-      "num": 262328,
-      "word": "陆虎 扬州",
-      "onboard_time": 1678623986,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 260437,
       "num": 221548,
       "word": "绥化一村民家房梁现神秘骨架",
@@ -1051,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236520,
+      "num": 236520,
+      "word": "马龙",
+      "onboard_time": 1678625068,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232787,
       "num": 232787,
       "word": "张颂文对于普通演员们的意义",
@@ -1147,6 +1163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212476,
+      "num": 212476,
+      "word": "崔惠廷扮演者的双面人生",
+      "onboard_time": 1678624947,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210683,
       "num": 204583,
       "word": "种树吧电竞少年",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1678551564,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204580,
+      "num": 204580,
+      "word": "AG 一诺采访",
+      "onboard_time": 1678625068,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 204393,
@@ -1267,6 +1299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193914,
+      "num": 193914,
+      "word": "亚洲电影大奖红毯",
+      "onboard_time": 1678625006,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191113,
       "num": 395327,
       "word": "重庆去年山火救援志愿者又回来植树",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1678611207,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 186234,
+      "num": 186234,
+      "word": "LNG对战JDG",
+      "onboard_time": 1678624468,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 181703,
@@ -1491,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151508,
+      "num": 486324,
+      "word": "天舟六号已运往文昌航天发射场",
+      "onboard_time": 1678624527,
+      "rank": 1,
+      "category": "科技,国内要闻"
+    },
+    {
       "raw_hot": 150392,
       "num": 150392,
       "word": "小鬼王琳凯音乐节",
@@ -1665,14 +1721,6 @@
       "onboard_time": 1678553182,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119098,
-      "num": 119098,
-      "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
-      "onboard_time": 1678624348,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118294,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1678625463795,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 173478,
+        "num": 487244,
+        "word": "中国人的饭碗一定能牢牢端在自己手上",
+        "onboard_time": 1678609584,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 151508,
+        "num": 486324,
+        "word": "天舟六号已运往文昌航天发射场",
+        "onboard_time": 1678624527,
+        "rank": 1,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 66760,
+        "num": 480850,
+        "word": "中国发布2022年国土绿化成绩单",
+        "onboard_time": 1678609644,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 867223,
+        "num": 477694,
+        "word": "韩国队恶意犯规遭裁判无视",
+        "onboard_time": 1678620446,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 693145,
+        "num": 476276,
+        "word": "U20国足vs韩国U20",
+        "onboard_time": 1678615286,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474261,
+        "num": 474261,
+        "word": "六级阅读 小鸭子",
+        "onboard_time": 1678617327,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 468969,
+        "num": 468969,
+        "word": "乘风2023 嘉宾",
+        "onboard_time": 1678621407,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419471,
+        "num": 468719,
+        "word": "林孝埈唱国歌",
+        "onboard_time": 1678615467,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 421301,
+        "num": 468463,
+        "word": "六级答案",
+        "onboard_time": 1678613906,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 324247,
+        "num": 468113,
+        "word": "浙江选育出了螺蛳粉樱花",
+        "onboard_time": 1678604905,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144894,
+        "num": 467802,
+        "word": "浙江人1年花18亿买香奈儿",
+        "onboard_time": 1678620147,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014542,
+        "num": 467391,
+        "word": "黑暗荣耀导演承认校园暴力",
+        "onboard_time": 1678610906,
+        "rank": 11,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 730793,
+        "num": 466937,
+        "word": "台民众买24颗鸡蛋花400块",
+        "onboard_time": 1678623445,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588570,
+        "num": 466494,
+        "word": "陆虎 扬州",
+        "onboard_time": 1678623986,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476192,
+        "num": 466377,
+        "word": "潘石屹称从未在硅谷银行开过户",
+        "onboard_time": 1678620565,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 466033,
+        "num": 466033,
+        "word": "杨紫琼获奥斯卡影后概率有多大",
+        "onboard_time": 1678620867,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434515,
+        "num": 434515,
+        "word": "国考",
+        "onboard_time": 1678609644,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 433748,
+        "num": 433748,
+        "word": "小鬼精修图vs现场生图",
+        "onboard_time": 1678615585,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 423852,
+        "num": 423852,
+        "word": "庆余年2 原班人马",
+        "onboard_time": 1678596865,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417150,
+        "num": 417150,
+        "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
+        "onboard_time": 1678624348,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339960,
+        "num": 339960,
+        "word": "SM第2季度出道新女团",
+        "onboard_time": 1678623807,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324710,
+        "num": 324710,
+        "word": "护士兼职摆摊两周赚1万5后全职开店",
+        "onboard_time": 1678608386,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312473,
+        "num": 312473,
+        "word": "我国每年废弃手机约4亿部",
+        "onboard_time": 1678621348,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298717,
+        "num": 298717,
+        "word": "张颂文镜头下的徽派建筑",
+        "onboard_time": 1678623508,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286378,
+        "num": 286378,
+        "word": "羽生结弦冰上跳Dynamite",
+        "onboard_time": 1678620565,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271448,
+        "num": 271448,
+        "word": "美媒称中国遍地杨树花是遭虫雨袭击",
+        "onboard_time": 1678610427,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236520,
+        "num": 236520,
+        "word": "马龙",
+        "onboard_time": 1678625068,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228766,
+        "num": 228766,
+        "word": "全圆佑跳Attention",
+        "onboard_time": 1678616427,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224164,
+        "num": 224164,
+        "word": "华晨宇录节目错过杭州抢票",
+        "onboard_time": 1678612527,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213510,
+        "num": 213510,
+        "word": "黑暗荣耀 讽刺",
+        "onboard_time": 1678616367,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212792,
+        "num": 212792,
+        "word": "徐明浩跳nxde",
+        "onboard_time": 1678620086,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212476,
+        "num": 212476,
+        "word": "崔惠廷扮演者的双面人生",
+        "onboard_time": 1678624947,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212067,
+        "num": 212067,
+        "word": "SEVENTEEN集体跳HypeBoy",
+        "onboard_time": 1678620266,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211613,
+        "num": 211613,
+        "word": "美商界人士警告经济衰退或已到来",
+        "onboard_time": 1678619187,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 209047,
+        "num": 209047,
+        "word": "写作 数字鸿沟",
+        "onboard_time": 1678617086,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204580,
+        "num": 204580,
+        "word": "AG 一诺采访",
+        "onboard_time": 1678625068,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195319,
+        "num": 195319,
+        "word": "黑暗荣耀",
+        "onboard_time": 1678607064,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193914,
+        "num": 193914,
+        "word": "亚洲电影大奖红毯",
+        "onboard_time": 1678625006,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191604,
+        "num": 191604,
+        "word": "四只大熊猫凑一桌像在打麻将",
+        "onboard_time": 1678608084,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188019,
+        "num": 188019,
+        "word": "大熊猫宝宝被妈妈强行按进水里",
+        "onboard_time": 1678613244,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186234,
+        "num": 186234,
+        "word": "LNG对战JDG",
+        "onboard_time": 1678624468,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183892,
+        "num": 183892,
+        "word": "木塔力甫破门",
+        "onboard_time": 1678619665,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180631,
+        "num": 180631,
+        "word": "重启人生",
+        "onboard_time": 1678623149,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171716,
+        "num": 171716,
+        "word": "翻译徐霞客",
+        "onboard_time": 1678617385,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170020,
+        "num": 170020,
+        "word": "富国银行",
+        "onboard_time": 1678606764,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168003,
+        "num": 168003,
+        "word": "没有一个大姨是多余的",
+        "onboard_time": 1678612105,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163249,
+        "num": 163249,
+        "word": "中国队世锦赛5000米接力夺冠",
+        "onboard_time": 1678611507,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143443,
+        "num": 143443,
+        "word": "迪丽热巴 微博之夜",
+        "onboard_time": 1678604905,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137014,
+        "num": 137014,
+        "word": "动物园猩猩抽烟吐烟圈动作娴熟",
+        "onboard_time": 1678614207,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130816,
+        "num": 130816,
+        "word": "孙颖莎3比0刘馨尹",
+        "onboard_time": 1678622905,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#征途向未来#"
+    }
+  }
+}

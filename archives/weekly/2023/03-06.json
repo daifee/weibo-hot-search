@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678624417133,
+  "endTime": 1678625463795,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -2275,6 +2275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 730793,
+      "num": 466937,
+      "word": "台民众买24颗鸡蛋花400块",
+      "onboard_time": 1678623445,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727720,
       "num": 727720,
       "word": "李莎拉好疯",
@@ -2433,6 +2441,14 @@
       "onboard_time": 1678082606,
       "rank": 26,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 693145,
+      "num": 511840,
+      "word": "U20国足vs韩国U20",
+      "onboard_time": 1678615286,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 690654,
@@ -2899,14 +2915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 625057,
-      "num": 511840,
-      "word": "U20国足vs韩国U20",
-      "onboard_time": 1678615286,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 622268,
       "num": 622268,
       "word": "三八妇女节放假半天",
@@ -3145,6 +3153,14 @@
       "onboard_time": 1678268369,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 588570,
+      "num": 466494,
+      "word": "陆虎 扬州",
+      "onboard_time": 1678623986,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 587828,
@@ -4323,6 +4339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 466033,
+      "num": 466033,
+      "word": "杨紫琼获奥斯卡影后概率有多大",
+      "onboard_time": 1678620867,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 463353,
       "num": 635232,
       "word": "向鹏vs张本智和",
@@ -4401,14 +4425,6 @@
       "onboard_time": 1678369589,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 449352,
-      "num": 449352,
-      "word": "杨紫琼获奥斯卡影后概率有多大",
-      "onboard_time": 1678620867,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 449115,
@@ -4721,6 +4737,14 @@
       "onboard_time": 1678176564,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 417150,
+      "num": 417150,
+      "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
+      "onboard_time": 1678624348,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416594,
@@ -5169,14 +5193,6 @@
       "onboard_time": 1678029328,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 380097,
-      "num": 380097,
-      "word": "台民众买24颗鸡蛋花400块",
-      "onboard_time": 1678623445,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378440,
@@ -7107,14 +7123,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 262328,
-      "num": 262328,
-      "word": "陆虎 扬州",
-      "onboard_time": 1678623986,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262036,
       "num": 620340,
       "word": "礼兵护送中华人民共和国宪法入场",
@@ -7633,6 +7641,14 @@
       "onboard_time": 1678217771,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236520,
+      "num": 236520,
+      "word": "马龙",
+      "onboard_time": 1678625068,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 236461,
@@ -8251,6 +8267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212476,
+      "num": 212476,
+      "word": "崔惠廷扮演者的双面人生",
+      "onboard_time": 1678624947,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212391,
       "num": 212391,
       "word": "外交部长向广大青年提出几点希望",
@@ -8633,6 +8657,14 @@
       "onboard_time": 1678106786,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204580,
+      "num": 204580,
+      "word": "AG 一诺采访",
+      "onboard_time": 1678625068,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 204477,
@@ -9315,6 +9347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193914,
+      "num": 193914,
+      "word": "亚洲电影大奖红毯",
+      "onboard_time": 1678625006,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193796,
       "num": 193796,
       "word": "流量密码被食堂拿捏住了",
@@ -9641,6 +9681,14 @@
       "onboard_time": 1678153225,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186234,
+      "num": 186234,
+      "word": "LNG对战JDG",
+      "onboard_time": 1678624468,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 186021,
@@ -10769,6 +10817,14 @@
       "onboard_time": 1678414466,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151508,
+      "num": 486324,
+      "word": "天舟六号已运往文昌航天发射场",
+      "onboard_time": 1678624527,
+      "rank": 1,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 151405,
@@ -11977,14 +12033,6 @@
       "onboard_time": 1678180828,
       "rank": 44,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 119098,
-      "num": 119098,
-      "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
-      "onboard_time": 1678624348,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118917,
