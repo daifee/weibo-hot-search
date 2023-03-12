@@ -1,6 +1,6 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678605349446,
+  "endTime": 1678606406494,
   "band_list": [
     {
       "raw_hot": 2245944,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1071216,
+      "num": 402881,
+      "word": "张亮麻辣烫回应门店缺斤短两",
+      "onboard_time": 1678602504,
+      "rank": 27,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1056517,
       "num": 240397,
       "word": "高龄产妇剖宫诞下羊膜护体宝宝",
@@ -123,12 +131,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 911513,
-      "num": 402881,
-      "word": "张亮麻辣烫回应门店缺斤短两",
-      "onboard_time": 1678602504,
-      "rank": 27,
-      "category": "社会新闻,美食"
+      "raw_hot": 897328,
+      "num": 385387,
+      "word": "迪丽热巴 微博之夜",
+      "onboard_time": 1678604905,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 834117,
@@ -185,6 +193,14 @@
       "onboard_time": 1678591044,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 747246,
+      "num": 260993,
+      "word": "浙江选育出了螺蛳粉樱花",
+      "onboard_time": 1678604905,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 746289,
@@ -305,14 +321,6 @@
       "onboard_time": 1678600464,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 501458,
-      "num": 385387,
-      "word": "迪丽热巴 微博之夜",
-      "onboard_time": 1678604905,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 489371,
@@ -523,6 +531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 306202,
+      "num": 306202,
+      "word": "人民日报AI虚拟主播",
+      "onboard_time": 1678602684,
+      "rank": 33,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 302286,
       "num": 302286,
       "word": "周洁琼刘耀文埋肩抱",
@@ -553,6 +569,14 @@
       "onboard_time": 1678534706,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 282277,
+      "num": 235412,
+      "word": "张新成光渊病号服造型",
+      "onboard_time": 1678605805,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 273974,
@@ -683,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219076,
-      "num": 194609,
-      "word": "浙江选育出了螺蛳粉樱花",
-      "onboard_time": 1678604905,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217718,
       "num": 217718,
       "word": "拾荒男子用冥币买羊肝老板娘装不知情",
@@ -721,6 +737,14 @@
       "onboard_time": 1678551564,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204193,
+      "num": 177222,
+      "word": "2023年武汉大学赏樱政策发布",
+      "onboard_time": 1678605746,
+      "rank": 31,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 202592,
@@ -763,8 +787,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197134,
+      "num": 279178,
+      "word": "Hero对战WB",
+      "onboard_time": 1678605446,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196702,
-      "num": 196702,
+      "num": 274008,
       "word": "向鹏2比3张本智和",
       "onboard_time": 1678603583,
       "rank": 29,
@@ -801,14 +833,6 @@
       "onboard_time": 1678600225,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180759,
-      "num": 180759,
-      "word": "人民日报AI虚拟主播",
-      "onboard_time": 1678602684,
-      "rank": 33,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 178379,
@@ -1107,6 +1131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 105566,
+      "num": 105566,
+      "word": "永劫无间新英雄表演赛",
+      "onboard_time": 1678605145,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105469,
       "num": 105469,
       "word": "业内称硅谷银行很快迎来接盘方",
@@ -1235,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86849,
-      "num": 86849,
-      "word": "永劫无间新英雄表演赛",
-      "onboard_time": 1678605145,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 86140,
       "num": 86140,
       "word": "小鬼live现场好稳",
@@ -1265,6 +1289,30 @@
       "onboard_time": 1678582645,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 82956,
+      "num": 82956,
+      "word": "老师监考时都在干什么",
+      "onboard_time": 1678606285,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 79218,
+      "num": 79218,
+      "word": "深圳校服出防晒服版",
+      "onboard_time": 1678606164,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 78833,
+      "num": 78833,
+      "word": "重庆去年山火救援志愿者又回来植树",
+      "onboard_time": 1678606226,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66425,
