@@ -1,6 +1,6 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678634266283,
+  "endTime": 1678635212702,
   "band_list": [
     {
       "raw_hot": 2673036,
@@ -363,6 +363,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 714756,
+      "num": 261373,
+      "word": "刘嘉玲给梁朝伟颁奖",
+      "onboard_time": 1678633169,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 708592,
       "num": 559016,
       "word": "黑暗荣耀韩国收视率",
@@ -425,14 +433,6 @@
       "onboard_time": 1678608084,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 645786,
-      "num": 261373,
-      "word": "刘嘉玲给梁朝伟颁奖",
-      "onboard_time": 1678633169,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 645757,
@@ -1019,6 +1019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 299297,
+      "num": 274564,
+      "word": "猎罪图鉴音乐剧",
+      "onboard_time": 1678634128,
+      "rank": 9,
+      "category": "影视,音乐"
+    },
+    {
       "raw_hot": 297441,
       "num": 571614,
       "word": "深圳校服出防晒服版",
@@ -1419,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204572,
+      "num": 204572,
+      "word": "TTG战胜LGD",
+      "onboard_time": 1678635028,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204393,
       "num": 204393,
       "word": "KPL",
@@ -1467,20 +1483,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200278,
+      "num": 200278,
+      "word": "亚洲电影大奖",
+      "onboard_time": 1678634967,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199770,
       "num": 199770,
       "word": "刘耀文收官vlog",
       "onboard_time": 1678551683,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199414,
-      "num": 262342,
-      "word": "猎罪图鉴音乐剧",
-      "onboard_time": 1678634128,
-      "rank": 9,
-      "category": "影视,音乐"
     },
     {
       "raw_hot": 197678,
@@ -1521,6 +1537,14 @@
       "onboard_time": 1678578321,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194745,
+      "num": 194745,
+      "word": "阿森纳半场领先",
+      "onboard_time": 1678635087,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 193914,
@@ -1955,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131292,
+      "num": 131292,
+      "word": "曼联 裁判",
+      "onboard_time": 1678634787,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129420,
       "num": 129420,
       "word": "DRG战胜eStar",
@@ -1969,6 +2001,14 @@
       "onboard_time": 1678551264,
       "rank": 45,
       "category": "幽默,影视"
+    },
+    {
+      "raw_hot": 127854,
+      "num": 127854,
+      "word": "高圆圆是秦霄贤心中德高望重的演员",
+      "onboard_time": 1678635148,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 126759,
