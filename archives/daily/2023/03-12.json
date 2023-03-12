@@ -1,6 +1,6 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678616325497,
+  "endTime": 1678617237728,
   "band_list": [
     {
       "raw_hot": 2673036,
@@ -161,6 +161,14 @@
       "onboard_time": 1678604905,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1022569,
+      "num": 470282,
+      "word": "林孝埈唱国歌",
+      "onboard_time": 1678615467,
+      "rank": 6,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 973279,
@@ -379,6 +387,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 569297,
+      "num": 403375,
+      "word": "小鬼精修图vs现场生图",
+      "onboard_time": 1678615585,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 553534,
       "num": 257232,
       "word": "莫兰特",
@@ -451,14 +467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 482480,
-      "num": 442205,
-      "word": "林孝埈唱国歌",
-      "onboard_time": 1678615467,
-      "rank": 6,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 480840,
       "num": 480840,
       "word": "二十六七岁多么美好的年纪",
@@ -483,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 462219,
+      "num": 462219,
+      "word": "大熊猫宝宝被妈妈强行按进水里",
+      "onboard_time": 1678613244,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449115,
       "num": 420286,
       "word": "六级预测",
@@ -497,14 +513,6 @@
       "onboard_time": 1678614507,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 439894,
-      "num": 439894,
-      "word": "大熊猫宝宝被妈妈强行按进水里",
-      "onboard_time": 1678613244,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432909,
@@ -539,14 +547,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 403375,
-      "num": 403375,
-      "word": "小鬼精修图vs现场生图",
-      "onboard_time": 1678615585,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 398858,
       "num": 302835,
       "word": "东恩呐 以后都是春天了",
@@ -563,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395841,
+      "num": 370049,
+      "word": "动物园猩猩抽烟吐烟圈动作娴熟",
+      "onboard_time": 1678614207,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391803,
       "num": 391803,
       "word": "SM回应HYBE退出此次商战",
@@ -577,6 +585,14 @@
       "onboard_time": 1678554978,
       "rank": 11,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 369595,
+      "num": 369595,
+      "word": "黑暗荣耀 讽刺",
+      "onboard_time": 1678616367,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 369578,
@@ -601,14 +617,6 @@
       "onboard_time": 1678609584,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 363157,
-      "num": 363157,
-      "word": "动物园猩猩抽烟吐烟圈动作娴熟",
-      "onboard_time": 1678614207,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 360387,
@@ -723,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 306723,
+      "num": 306723,
+      "word": "全圆佑跳Attention",
+      "onboard_time": 1678616427,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 302286,
       "num": 302286,
       "word": "周洁琼刘耀文埋肩抱",
@@ -803,6 +819,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 254219,
+      "num": 374082,
+      "word": "U20国足vs韩国U20",
+      "onboard_time": 1678615286,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253577,
       "num": 253577,
       "word": "现在的求职有多难",
@@ -849,6 +873,14 @@
       "onboard_time": 1678585107,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244913,
+      "num": 244913,
+      "word": "WB战胜Hero",
+      "onboard_time": 1678616847,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 242003,
@@ -899,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222759,
+      "num": 222759,
+      "word": "宋轶罗一舟也来鼓楼打卡了",
+      "onboard_time": 1678616367,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221845,
       "num": 413081,
       "word": "短道速滑世锦赛中国队1金1银收官",
@@ -947,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207179,
+      "num": 207179,
+      "word": "六级听力",
+      "onboard_time": 1678616785,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 204886,
       "num": 273627,
       "word": "无限超越班结业大戏观后感",
@@ -987,20 +1035,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 200373,
-      "num": 200373,
-      "word": "U20国足vs韩国U20",
-      "onboard_time": 1678615286,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199770,
       "num": 199770,
       "word": "刘耀文收官vlog",
       "onboard_time": 1678551683,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198639,
+      "num": 198639,
+      "word": "写作 数字鸿沟",
+      "onboard_time": 1678617086,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 197678,
@@ -1065,6 +1113,14 @@
       "onboard_time": 1678611207,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 182900,
+      "num": 182900,
+      "word": "硅谷许多公司可能发不出工资",
+      "onboard_time": 1678615886,
+      "rank": 42,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 181703,
@@ -1283,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139856,
-      "num": 139856,
-      "word": "硅谷许多公司可能发不出工资",
-      "onboard_time": 1678615886,
-      "rank": 42,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 138179,
       "num": 138179,
       "word": "哈兰德26轮英超打进28球",
@@ -1328,6 +1376,14 @@
       "word": "星落凝成糖天帝结局",
       "onboard_time": 1678578380,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 133031,
+      "num": 133031,
+      "word": "回廊亭",
+      "onboard_time": 1678616488,
+      "rank": 48,
       "category": "影视"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678616325497,
+  "endTime": 1678617237728,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -1385,6 +1385,14 @@
       "onboard_time": 1678449209,
       "rank": 11,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1022569,
+      "num": 470282,
+      "word": "林孝埈唱国歌",
+      "onboard_time": 1678615467,
+      "rank": 6,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1021993,
@@ -3243,6 +3251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 569297,
+      "num": 403375,
+      "word": "小鬼精修图vs现场生图",
+      "onboard_time": 1678615585,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 568888,
       "num": 280216,
       "word": "景甜说张若昀唐艺昕节日都共同度过",
@@ -4099,14 +4115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 482480,
-      "num": 442205,
-      "word": "林孝埈唱国歌",
-      "onboard_time": 1678615467,
-      "rank": 6,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 482441,
       "num": 296535,
       "word": "杨幂秦昊没有我的城备案",
@@ -4275,6 +4283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462219,
+      "num": 462219,
+      "word": "大熊猫宝宝被妈妈强行按进水里",
+      "onboard_time": 1678613244,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459694,
       "num": 201017,
       "word": "动物园更新丫丫最新视频",
@@ -4425,14 +4441,6 @@
       "onboard_time": 1678452750,
       "rank": 34,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 439894,
-      "num": 439894,
-      "word": "大熊猫宝宝被妈妈强行按进水里",
-      "onboard_time": 1678613244,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 439233,
@@ -4763,14 +4771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 403375,
-      "num": 403375,
-      "word": "小鬼精修图vs现场生图",
-      "onboard_time": 1678615585,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 402560,
       "num": 402560,
       "word": "建议实现适龄女性免费HPV疫苗接种",
@@ -4889,6 +4889,14 @@
       "onboard_time": 1678588645,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 395841,
+      "num": 370049,
+      "word": "动物园猩猩抽烟吐烟圈动作娴熟",
+      "onboard_time": 1678614207,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395719,
@@ -5211,6 +5219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369595,
+      "num": 369595,
+      "word": "黑暗荣耀 讽刺",
+      "onboard_time": 1678616367,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369578,
       "num": 369578,
       "word": "奥斯卡",
@@ -5353,14 +5369,6 @@
       "onboard_time": 1678177227,
       "rank": 39,
       "category": "社会新闻,作品衍生"
-    },
-    {
-      "raw_hot": 363157,
-      "num": 363157,
-      "word": "动物园猩猩抽烟吐烟圈动作娴熟",
-      "onboard_time": 1678614207,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363022,
@@ -6283,6 +6291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306723,
+      "num": 306723,
+      "word": "全圆佑跳Attention",
+      "onboard_time": 1678616427,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 305787,
       "num": 305787,
       "word": "TVB直播网友建议讲粤语",
@@ -7083,6 +7099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 254219,
+      "num": 374082,
+      "word": "U20国足vs韩国U20",
+      "onboard_time": 1678615286,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254187,
       "num": 253593,
       "word": "范思哲大秀",
@@ -7272,6 +7296,14 @@
       "word": "管泽元直播回应",
       "onboard_time": 1678317319,
       "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 244913,
+      "num": 244913,
+      "word": "WB战胜Hero",
+      "onboard_time": 1678616847,
+      "rank": 30,
       "category": "游戏"
     },
     {
@@ -7787,6 +7819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222759,
+      "num": 222759,
+      "word": "宋轶罗一舟也来鼓楼打卡了",
+      "onboard_time": 1678616367,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 222134,
       "num": 223367,
       "word": "邓超遇见冰雪甄嬛",
@@ -8235,6 +8275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207179,
+      "num": 207179,
+      "word": "六级听力",
+      "onboard_time": 1678616785,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207009,
       "num": 743047,
       "word": "直播宪法宣誓",
@@ -8603,14 +8651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200373,
-      "num": 200373,
-      "word": "U20国足vs韩国U20",
-      "onboard_time": 1678615286,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200318,
       "num": 200318,
       "word": "孙想超市抓小偷",
@@ -8777,6 +8817,14 @@
       "onboard_time": 1678371692,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 198639,
+      "num": 198639,
+      "word": "写作 数字鸿沟",
+      "onboard_time": 1678617086,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 198608,
@@ -9489,6 +9537,14 @@
       "onboard_time": 1678017628,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182900,
+      "num": 182900,
+      "word": "硅谷许多公司可能发不出工资",
+      "onboard_time": 1678615886,
+      "rank": 42,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 182665,
@@ -10945,14 +11001,6 @@
       "onboard_time": 1678244008,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139856,
-      "num": 139856,
-      "word": "硅谷许多公司可能发不出工资",
-      "onboard_time": 1678615886,
-      "rank": 42,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 139774,
