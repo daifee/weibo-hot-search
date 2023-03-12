@@ -1,0 +1,410 @@
+{
+  "runTime": 1678656812948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14011,
+        "num": 26130,
+        "word": "人大代表说科技创新要带着农民赚",
+        "onboard_time": 1678646232,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 12599,
+        "num": 26089,
+        "word": "天舟六号已运往文昌航天发射场",
+        "onboard_time": 1678624527,
+        "rank": 1,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 8588,
+        "num": 26038,
+        "word": "这就是春天里的中国",
+        "onboard_time": 1678628848,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40600,
+        "num": 25978,
+        "word": "妈妈用废纸壳为女儿搭出童话世界",
+        "onboard_time": 1678652111,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31930,
+        "num": 25941,
+        "word": "韩国队恶意犯规遭裁判无视",
+        "onboard_time": 1678620446,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25893,
+        "num": 25893,
+        "word": "白色月牙暂别赛场",
+        "onboard_time": 1678635985,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24893,
+        "num": 24893,
+        "word": "亚洲电影大奖",
+        "onboard_time": 1678634967,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21521,
+        "num": 24888,
+        "word": "我国每年废弃手机约4亿部",
+        "onboard_time": 1678621348,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19308,
+        "num": 24624,
+        "word": "流浪地球2票房破40亿",
+        "onboard_time": 1678627228,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18402,
+        "num": 24564,
+        "word": "U20国足加油",
+        "onboard_time": 1678633169,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70887,
+        "num": 24385,
+        "word": "游客饮料不慎掉落被大熊猫捡来喝",
+        "onboard_time": 1678627827,
+        "rank": 10,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 57248,
+        "num": 24229,
+        "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
+        "onboard_time": 1678624348,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48571,
+        "num": 23950,
+        "word": "浙江人1年花18亿买香奈儿",
+        "onboard_time": 1678620147,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44851,
+        "num": 23805,
+        "word": "汤唯亚洲电影大奖最佳女主角",
+        "onboard_time": 1678631909,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42383,
+        "num": 23610,
+        "word": "黑暗荣耀导演承认校园暴力",
+        "onboard_time": 1678610906,
+        "rank": 14,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 36222,
+        "num": 23566,
+        "word": "梁朝伟亚洲电影大奖最佳男主角",
+        "onboard_time": 1678641196,
+        "rank": 15,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 34326,
+        "num": 23321,
+        "word": "高圆圆是秦霄贤心中德高望重的演员",
+        "onboard_time": 1678635148,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32658,
+        "num": 23191,
+        "word": "台民众买24颗鸡蛋花400块",
+        "onboard_time": 1678623445,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28740,
+        "num": 23021,
+        "word": "bsyy",
+        "onboard_time": 1678635267,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26691,
+        "num": 22867,
+        "word": "潘石屹称从未在硅谷银行开过户",
+        "onboard_time": 1678620565,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 22782,
+        "num": 22782,
+        "word": "杨紫琼获奥斯卡影后概率有多大",
+        "onboard_time": 1678620867,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21831,
+        "num": 21831,
+        "word": "小鬼精修图vs现场生图",
+        "onboard_time": 1678615585,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21263,
+        "num": 21263,
+        "word": "张译亮相亚洲电影大奖",
+        "onboard_time": 1678625847,
+        "rank": 22,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 18603,
+        "num": 18603,
+        "word": "浦发硅谷银行公告",
+        "onboard_time": 1678519588,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15732,
+        "num": 15732,
+        "word": "崔惠廷扮演者的双面人生",
+        "onboard_time": 1678624947,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15292,
+        "num": 15292,
+        "word": "曼联vs南安普顿",
+        "onboard_time": 1678632209,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18188,
+        "num": 15291,
+        "word": "硅谷银行倒闭",
+        "onboard_time": 1678491140,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15219,
+        "num": 15219,
+        "word": "宋慧乔李到晛cp名",
+        "onboard_time": 1678631909,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15079,
+        "num": 15079,
+        "word": "陆虎 扬州",
+        "onboard_time": 1678623986,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13662,
+        "num": 13662,
+        "word": "羽生结弦冰上跳Dynamite",
+        "onboard_time": 1678620565,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13620,
+        "num": 13620,
+        "word": "林孝埈唱国歌",
+        "onboard_time": 1678615467,
+        "rank": 30,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 13530,
+        "num": 13530,
+        "word": "TTG 上野",
+        "onboard_time": 1678628249,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13057,
+        "num": 13057,
+        "word": "庆余年2 原班人马",
+        "onboard_time": 1678596865,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13025,
+        "num": 13025,
+        "word": "乘风2023 嘉宾",
+        "onboard_time": 1678621407,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12936,
+        "num": 12936,
+        "word": "重启人生",
+        "onboard_time": 1678623149,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12270,
+        "num": 12270,
+        "word": "这歌终于有个合理的出处了",
+        "onboard_time": 1678640538,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12220,
+        "num": 12220,
+        "word": "六级阅读 小鸭子",
+        "onboard_time": 1678617327,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12175,
+        "num": 12175,
+        "word": "黑暗荣耀 讽刺",
+        "onboard_time": 1678616367,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12160,
+        "num": 12160,
+        "word": "护士兼职摆摊两周赚1万5后全职开店",
+        "onboard_time": 1678608386,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12146,
+        "num": 12146,
+        "word": "曼联 裁判",
+        "onboard_time": 1678634787,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11795,
+        "num": 11795,
+        "word": "九霄寒夜暖又he又be",
+        "onboard_time": 1678625488,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11635,
+        "num": 11635,
+        "word": "陈楚生成都巡演",
+        "onboard_time": 1678631428,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11575,
+        "num": 11575,
+        "word": "猎罪图鉴音乐剧",
+        "onboard_time": 1678634128,
+        "rank": 42,
+        "category": "影视,音乐"
+      },
+      {
+        "raw_hot": 11055,
+        "num": 11055,
+        "word": "黑暗荣耀2双向救赎",
+        "onboard_time": 1678649111,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11019,
+        "num": 11019,
+        "word": "卡塞米罗红牌",
+        "onboard_time": 1678632929,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10900,
+        "num": 10900,
+        "word": "孟美岐舞蹈cover",
+        "onboard_time": 1678630469,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10287,
+        "num": 10893,
+        "word": "阿森纳半场领先",
+        "onboard_time": 1678635087,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9927,
+        "num": 10821,
+        "word": "特罗萨德助攻帽子戏法",
+        "onboard_time": 1678636884,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9753,
+        "num": 10813,
+        "word": "SMTOWN艺人在BoA演唱会团建",
+        "onboard_time": 1678627588,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 8662,
+        "num": 10751,
+        "word": "TTG战胜LGD",
+        "onboard_time": 1678635028,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#春天的共鸣#"
+    }
+  }
+}
