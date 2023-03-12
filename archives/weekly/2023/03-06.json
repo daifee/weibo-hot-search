@@ -1,6 +1,6 @@
 {
   "startTime": 1678033461577,
-  "endTime": 1678613618265,
+  "endTime": 1678616325497,
   "band_list": [
     {
       "raw_hot": 15614082,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2673036,
+      "num": 434496,
+      "word": "六级答案",
+      "onboard_time": 1678613906,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2518692,
       "num": 2518692,
       "word": "中方已完成所有丫丫回国审批事项",
@@ -219,6 +227,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2147187,
+      "num": 567877,
+      "word": "黑暗荣耀导演承认校园暴力",
+      "onboard_time": 1678610906,
+      "rank": 10,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 2124485,
       "num": 2124485,
       "word": "台湾或面临史上最久缺蛋荒",
@@ -241,14 +257,6 @@
       "onboard_time": 1678491620,
       "rank": 0,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 2089041,
-      "num": 567877,
-      "word": "黑暗荣耀导演承认校园暴力",
-      "onboard_time": 1678610906,
-      "rank": 10,
-      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 2062064,
@@ -1755,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 867116,
+      "num": 553905,
+      "word": "六级",
+      "onboard_time": 1678592608,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 866386,
       "num": 866386,
       "word": "努比亚",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1678134732,
       "rank": 45,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 779719,
+      "num": 415968,
+      "word": "六级作文",
+      "onboard_time": 1678614328,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 776124,
@@ -2489,14 +2513,6 @@
       "onboard_time": 1678238305,
       "rank": 13,
       "category": "科技"
-    },
-    {
-      "raw_hot": 671322,
-      "num": 553905,
-      "word": "六级",
-      "onboard_time": 1678592608,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 671255,
@@ -4083,6 +4099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482480,
+      "num": 442205,
+      "word": "林孝埈唱国歌",
+      "onboard_time": 1678615467,
+      "rank": 6,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 482441,
       "num": 296535,
       "word": "杨幂秦昊没有我的城备案",
@@ -4315,6 +4339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 445394,
+      "num": 403683,
+      "word": "六级翻译",
+      "onboard_time": 1678614507,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 445228,
       "num": 445228,
       "word": "谷爱凌李惠仁年龄相加是刘亦菲的年龄",
@@ -4393,6 +4425,14 @@
       "onboard_time": 1678452750,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 439894,
+      "num": 439894,
+      "word": "大熊猫宝宝被妈妈强行按进水里",
+      "onboard_time": 1678613244,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439233,
@@ -4721,6 +4761,14 @@
       "onboard_time": 1678422639,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 403375,
+      "num": 403375,
+      "word": "小鬼精修图vs现场生图",
+      "onboard_time": 1678615585,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 402560,
@@ -5305,6 +5353,14 @@
       "onboard_time": 1678177227,
       "rank": 39,
       "category": "社会新闻,作品衍生"
+    },
+    {
+      "raw_hot": 363157,
+      "num": 363157,
+      "word": "动物园猩猩抽烟吐烟圈动作娴熟",
+      "onboard_time": 1678614207,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363022,
@@ -5915,6 +5971,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 325475,
+      "num": 325475,
+      "word": "没有一个大姨是多余的",
+      "onboard_time": 1678612105,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 325008,
       "num": 601241,
       "word": "蛋仔派对",
@@ -6249,14 +6313,6 @@
       "onboard_time": 1678183469,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 303831,
-      "num": 303831,
-      "word": "没有一个大姨是多余的",
-      "onboard_time": 1678612105,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 303709,
@@ -7163,6 +7219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 247342,
+      "num": 438927,
+      "word": "袁励岑",
+      "onboard_time": 1678612466,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247061,
       "num": 247061,
       "word": "檀健次重现沈翊经典台词",
@@ -7739,6 +7803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221845,
+      "num": 413081,
+      "word": "短道速滑世锦赛中国队1金1银收官",
+      "onboard_time": 1678612827,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221538,
       "num": 221538,
       "word": "黑暗荣耀巫师",
@@ -7961,14 +8033,6 @@
       "onboard_time": 1678246405,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212460,
-      "num": 212460,
-      "word": "短道速滑世锦赛中国队1金1银收官",
-      "onboard_time": 1678612827,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 212391,
@@ -8339,6 +8403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 204393,
+      "num": 204393,
+      "word": "KPL",
+      "onboard_time": 1678423474,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203620,
       "num": 203620,
       "word": "明星妇女节营业照",
@@ -8529,6 +8601,14 @@
       "onboard_time": 1678327584,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200373,
+      "num": 200373,
+      "word": "U20国足vs韩国U20",
+      "onboard_time": 1678615286,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 200318,
@@ -9275,14 +9355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 187739,
-      "num": 187739,
-      "word": "袁励岑",
-      "onboard_time": 1678612466,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187624,
       "num": 163370,
       "word": "印度首次成为苹果自主销售地区",
@@ -9401,14 +9473,6 @@
       "onboard_time": 1678060044,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185142,
-      "num": 185142,
-      "word": "KPL",
-      "onboard_time": 1678423474,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 184093,
@@ -10883,6 +10947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139856,
+      "num": 139856,
+      "word": "硅谷许多公司可能发不出工资",
+      "onboard_time": 1678615886,
+      "rank": 42,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 139774,
       "num": 139774,
       "word": "张真源画的玫瑰",
@@ -12201,14 +12273,6 @@
       "onboard_time": 1678247066,
       "rank": 47,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 107270,
-      "num": 107270,
-      "word": "大熊猫宝宝被妈妈强行按进水里",
-      "onboard_time": 1678613244,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106955,
