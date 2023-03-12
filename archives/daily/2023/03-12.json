@@ -1,6 +1,6 @@
 {
   "startTime": 1678551810555,
-  "endTime": 1678627273461,
+  "endTime": 1678627999514,
   "band_list": [
     {
       "raw_hot": 2673036,
@@ -139,6 +139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1098120,
+      "num": 417150,
+      "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
+      "onboard_time": 1678624348,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1091744,
       "num": 1091744,
       "word": "世界上最孤独的鲸去世",
@@ -187,7 +195,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 951279,
+      "raw_hot": 956310,
       "num": 466937,
       "word": "台民众买24颗鸡蛋花400块",
       "onboard_time": 1678623445,
@@ -217,14 +225,6 @@
       "onboard_time": 1678606584,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 905686,
-      "num": 417150,
-      "word": "兄弟瞒着外嫁姐姐办理父母遗产继承",
-      "onboard_time": 1678624348,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 897328,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 549790,
-      "num": 416012,
+      "num": 420186,
       "word": "U20国足止步八强",
       "onboard_time": 1678625666,
       "rank": 5,
@@ -587,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 474006,
+      "num": 383469,
+      "word": "张译亮相亚洲电影大奖",
+      "onboard_time": 1678625847,
+      "rank": 15,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 466033,
       "num": 466033,
       "word": "杨紫琼获奥斯卡影后概率有多大",
@@ -635,20 +643,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 438425,
-      "num": 383469,
-      "word": "张译亮相亚洲电影大奖",
-      "onboard_time": 1678625847,
-      "rank": 15,
-      "category": "影视,艺人"
-    },
-    {
       "raw_hot": 432909,
       "num": 394476,
       "word": "硅谷银行破产冲击已蔓延多国",
       "onboard_time": 1678596928,
       "rank": 24,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 429931,
+      "num": 429931,
+      "word": "流浪地球2票房破40亿",
+      "onboard_time": 1678627228,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 429696,
@@ -771,6 +779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 345481,
+      "num": 345481,
+      "word": "崔惠廷扮演者的双面人生",
+      "onboard_time": 1678624947,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345131,
       "num": 345131,
       "word": "SM第2季度出道新女团",
@@ -889,14 +905,6 @@
       "onboard_time": 1678535005,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315720,
-      "num": 315720,
-      "word": "崔惠廷扮演者的双面人生",
-      "onboard_time": 1678624947,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 308451,
@@ -1099,12 +1107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238371,
+      "num": 238371,
+      "word": "U20国足1比3韩国U20",
+      "onboard_time": 1678625967,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238221,
       "num": 238221,
       "word": "丫丫回国后将住进妈妈曾经的家",
       "onboard_time": 1678523727,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237214,
+      "num": 237214,
+      "word": "SMTOWN艺人在BoA演唱会团建",
+      "onboard_time": 1678627588,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 232787,
@@ -1163,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221501,
+      "num": 221501,
+      "word": "王栎鑫打手碟",
+      "onboard_time": 1678627527,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221239,
       "num": 221239,
       "word": "黑暗荣耀",
@@ -1177,14 +1209,6 @@
       "onboard_time": 1678618465,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218562,
-      "num": 218562,
-      "word": "U20国足1比3韩国U20",
-      "onboard_time": 1678625967,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 217718,
@@ -1209,14 +1233,6 @@
       "onboard_time": 1678618405,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211856,
-      "num": 211856,
-      "word": "流浪地球2票房破40亿",
-      "onboard_time": 1678627228,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 210683,
@@ -1272,6 +1288,14 @@
       "word": "KPL",
       "onboard_time": 1678615407,
       "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 203585,
+      "num": 203585,
+      "word": "MRC 星河",
+      "onboard_time": 1678627887,
+      "rank": 36,
       "category": "游戏"
     },
     {
@@ -1419,20 +1443,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183369,
+      "num": 183369,
+      "word": "LGD对战TTG",
+      "onboard_time": 1678626746,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181703,
       "num": 171081,
       "word": "黑暗荣耀复仇真的爽吗",
       "onboard_time": 1678600225,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 179253,
-      "num": 179253,
-      "word": "LGD对战TTG",
-      "onboard_time": 1678626746,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 178379,
@@ -1555,6 +1579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164570,
+      "num": 164570,
+      "word": "张朝阳推导复系数高斯积分有多烧脑",
+      "onboard_time": 1678627527,
+      "rank": 44,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 163588,
       "num": 163588,
       "word": "再就业兄弟团再开麦",
@@ -1593,6 +1625,14 @@
       "onboard_time": 1678609644,
       "rank": 3,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 154713,
+      "num": 154713,
+      "word": "游客饮料不慎掉落被大熊猫捡来喝",
+      "onboard_time": 1678627827,
+      "rank": 47,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 152906,
@@ -1673,6 +1713,14 @@
       "onboard_time": 1678525646,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141336,
+      "num": 141336,
+      "word": "陈星旭无实物表演路透",
+      "onboard_time": 1678627407,
+      "rank": 49,
+      "category": "影视,综艺"
     },
     {
       "raw_hot": 139890,
