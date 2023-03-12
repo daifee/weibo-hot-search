@@ -1,6 +1,6 @@
 {
   "startTime": 1677601651826,
-  "endTime": 1678649591157,
+  "endTime": 1678652314311,
   "band_list": [
     {
       "raw_hot": 24814826,
@@ -24595,8 +24595,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13214,
-      "num": 13214,
+      "raw_hot": 13582,
+      "num": 13582,
       "word": "黑暗荣耀2双向救赎",
       "onboard_time": 1678649111,
       "rank": 45,
@@ -24609,6 +24609,14 @@
       "onboard_time": 1677779295,
       "rank": 49,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 11709,
+      "num": 11709,
+      "word": "妈妈用废纸壳为女儿搭出童话世界",
+      "onboard_time": 1678652111,
+      "rank": 41,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
